@@ -416,7 +416,8 @@
             "explanation": "Yeni Estetik, sayısal teknolojilerin görsel dilinin fiziksel dünyaya akarak, sayısal ve fiziksel dünyayı iç içe geçirmesi olarak tanımlanır (Ünite 3). Tremblin'in çalışması, dijital üretim süreçlerinin (stok imaj sitesi, filigran) fiziksel bir eylemle (duvar üzerine çizim) başlayıp tekrar dijital bir forma (fotoğraf) dönüştürülmesiyle, sayısal ve fiziksel arasındaki sınırları bulanıklaştırmakta ve bu iç içe geçmeyi somutlaştırmaktadır.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 22,
@@ -437,7 +438,8 @@
             "explanation": "Metinde ilk çevrimiçi topluluk türleri hakkında kesin bir bilgi verilmemekle birlikte, akademik araştırmalarda sosyalleşme amaçlı grupların (Facebook, Swarm), oyun amaçlı grupların (Twitch), içerik paylaşımı amaçlı grupların (YouTube, BitTorrent) ve bilgi paylaşımı amaçlı grupların (Wikipedia, Slashdot) tanımlandığı belirtilmiştir. Ancak, ilk çevrimiçi toplulukların ne olduğu metinde spesifik olarak belirtilmemiştir. Genel bağlamda, internetin ilk günlerinde ortaya çıkan ve bilgi paylaşımına dayanan forumlar veya haber siteleri ilk örnekler arasında sayılabilir. Sorunun bağlamı en iyi Ünite 2 ile ilişkilidir. Metinde spesifik bir 'ilk' topluluk adı verilmediği için en yakın kategoriye odaklanmalıyız. Fiziksel buluşmalar yerine Facebook Grupları üzerinde hayat bulan ağlar ve topluluklardan bahsedilmektedir (Ünite 2).",
             "is_duplicate": true,
             "duplicate_of": 2,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 23,
@@ -458,7 +460,8 @@
             "explanation": "Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim olduğu tam olarak bilinmeyen kişi veya grup 'Satoshi Nakamoto'dur. Metinde, Bitcoin'in 2008 ABD Finans Krizi sonrası ortaya çıkan tartışmalar sonucunda, üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009'da hayata geçirildiği belirtilmiştir (Ünite 4).",
             "is_duplicate": true,
             "duplicate_of": 3,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 24,
@@ -479,7 +482,8 @@
             "explanation": "Metinde Ivan Shuterland'ın 1968'de geliştirdiği ve 'Demokles'in Kılıcı' olarak anılan sistemin, ilk artırılmış gerçeklik gözlükleri olduğu ve bu sayede insanların sayısal olarak ilk defa artırılmış gerçekliği deneyimlediği belirtilmektedir. Bu sistem, sayısal verileri camın üzerine yansıtarak gerçek dünyada konumlandırmıştır.",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 25,
@@ -500,7 +504,8 @@
             "explanation": "Bitcoin ve türevleri, kopyalanma ve diğer kriptografik sorunları çözen, sırf para birimlerine değil, aynı zamanda akıllı sözleşmelere de öncülük eden 'blokzinciri' teknolojisine dayanmaktadır. Bu teknoloji, taraflar arasında güven gerektiren her türlü işleyişte kullanılabilir ve finansal dönüşümün temelini oluşturur (Ünite 4).",
             "is_duplicate": true,
             "duplicate_of": 5,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 26,
@@ -521,7 +526,8 @@
             "explanation": "Bitcoin ve türevlerinin, kullanıcı mahremiyeti ile işlemlerin şeffaflığı arasındaki dengeyi korumak için kullandığı kritik husus, 'yüksek kriptografi standartlarıdır'. Bu standartlar, sistemin güvenliğini ve kırılmazlığını sağlar (Ünite 4).",
             "is_duplicate": true,
             "duplicate_of": 6,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 27,
@@ -542,7 +548,8 @@
             "explanation": "Metinde çevrimiçi topluluk türleri ve dijital mecralar sıralanmıştır. Facebook, Twitter, Instagram, YouTube, Wikipedia, Twitch gibi platformlar dijital mecralar ve topluluklardır. Ancak 'Arap Baharı' bir olay/hareket olup, bir iletişim platformu değildir; internet ve dijital medyanın örgütlenme aracı olarak kullanıldığı bir olaydır (Ünite 2).",
             "is_duplicate": true,
             "duplicate_of": 7,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 28,
@@ -563,7 +570,8 @@
             "explanation": "Sayısal teknolojilerin yükselişiyle birlikte, geçmişte elle yapılan birçok iş (kayıt tutma, hesaplama vb.) dijital ortama aktarılmış, bu da zaman tasarrufu ve verimlilik sağlamıştır. En genel ifadeyle, teknolojinin insan hayatına girmesiyle iş yapma biçimleri, davranışlar ve sanat gibi birçok alan dönüşmüştür. Ünite 5'te, dijitalleşmenin kültürel, teknolojik, ekonomik etkileri ve özellikle sanat üzerindeki dönüşümü vurgulanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 8,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 29,
@@ -584,7 +592,8 @@
             "explanation": "Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme, sayısal enformasyonun fiziksel dünyanın üzerine bindirilmesiyle oluşan iç içe geçmişliğe 'Karma Gerçeklik' (MR) denir. Bu kavramlar AR ve VR ile birlikte 'Genişletilmiş Gerçeklik' (XR) şemsiyesi altında toplanır (Ünite 3).",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 30,
@@ -605,7 +614,8 @@
             "explanation": "Metinde, çevrimiçi toplulukların farklı ilgi alanları etrafında örgütlendiği belirtilmektedir. 'Sosyalleşenler (socializers)' tipi, oyunları diğer oyuncularla sosyalleşmek için bir aracı olarak görürken, oyunun kendisi ikincil plandadır. Bu tip, sosyal etkileşim kurma eğilimini ifade eder (Ünite 6'daki oyuncu tipleri ile de bağlantılıdır, ancak Ünite 2'de toplulukların tanımında bu sosyalleşme ihtiyacı vurgulanır. Ünite 2'de, çevrimiçi toplulukların bireysel, grupla ilgili ve teknolojiyle ilgili boyutları olduğu belirtilirken, tip sınıflandırmalarında sosyalleşme amaçlı gruplar öne çıkmaktadır).",
             "is_duplicate": true,
             "duplicate_of": 10,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 31,
@@ -647,7 +657,8 @@
             "explanation": "Ünite 2'ye göre, çevrimiçi topluluklar sosyalleşme, oyun, içerik paylaşımı, bilgi paylaşımı, aktivizm, geliştirme ve değişim/satış amaçlı gruplar olarak sınıflandırılır. Verilen seçeneklerdeki 'Kişisel Veri' bir topluluk türü değil, analiz edilen bir veri kategorisidir veya gizlilik konusuyla ilgilidir. Facebook ise sosyalleşme amaçlı bir grup olarak anılmıştır.",
             "is_duplicate": true,
             "duplicate_of": 12,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 33,
@@ -668,7 +679,8 @@
             "explanation": "Ünite 6'da, dijital oyun yayıncılığının yükselişinden bahsedilmekte ve Twitch, Everquest, Full Tilt Poker gibi oyun amaçlı çevrimiçi grupların veya içerik paylaşımının ön plana çıktığı belirtilmektedir. Twitch, özellikle canlı yayın ve oyuncu izleme kültürü sayesinde dijital oyun yayıncılığında öne çıkan bir mecradır.",
             "is_duplicate": true,
             "duplicate_of": 13,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 34,
@@ -687,8 +699,10 @@
             "UniteNo": 2,
             "topic": "Çevrimiçi Topluluk Avantajları",
             "explanation": "Ünite 2'de, çevrimiçi toplulukların temel faydalarından birinin 'fiziki mekân zorunluluğunu ortadan kaldırmaları ve her yerden, her zaman, hızla ve çok sayıda kişi tarafından erişilebilir olmaları' olduğu belirtilmiştir. Bu durum, aracıları (satıcıları) ortadan kaldırarak alıcıları doğrudan tedarikçilere bağlama potansiyelini de içerir (örneğin eBay/Craigslist gibi değişim/satış amaçlı gruplar).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 14,
+            "similarity_score": 0.9639362692832947
         },
         {
             "id": 35,
@@ -709,7 +723,8 @@
             "explanation": "Ünite 4'te, Bitcoin'in ortaya çıkışından sonraki dijital finans dönüşümünden ve bunun en somut örneği olarak 2008 ABD Finans Krizi sonrası oluşan tartışmalardan bahsedilmektedir. Ancak, metinde Bitcoin'i resmi para birimi olarak kabul eden ilk devlet hakkında spesifik bir bilgi bulunmamaktadır. (Ancak, genel bilgiye göre bu El Salvador'dur, ancak sadece sağlanan metinlere göre cevaplanmalıdır. Bu sorunun cevabı metinde kesin olarak bulunmadığından en yakın bağlamı veya dışlama yöntemini kullanmak gerekir. Ancak, soru metindeki bilgileri kullanarak cevaplanmalıdır. Verilen metinler Bitcoin'in ne zaman kabul edildiğine dair kesin bir devlet ismi vermediği için, bu tür 'kesin bilgi' gerektiren soruları metin dışı bilgiyle cevaplamak kural dışıdır. Eğer zorunluysa ve metinde yoksa, metin bazlı cevap verilemez denilmelidir. Ancak bu bir sınav sorusu formatında olduğu için, varsayılan olarak doğru cevap metinde bir şekilde ima edilmeli veya sorunun geçerliliği tartışılmalıdır. Verilen metinlere göre, metinde bir devlet adı geçmemektedir.) Eğer bu bir çoktan seçmeli soruysa ve cevap şıklarında olmayan bir bilgi isteniyorsa, metinde olmayan bir bilgi olarak kabul edilebilir. Verilen metinlerde sadece Türkiye'nin kısıtlaması ve genel düzenleme arayışları belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 36,
@@ -730,7 +745,8 @@
             "explanation": "Metinde Artırılmış Gerçeklik (AR) üzerine yapılan bir çalışmanın (WeARinMoMa sergisi) sergi için müzeden izin alınmamış olması durumunun, o dönem için önemli bir etki yarattığı ima edilmektedir. (Metinde doğrudan bahsi geçmese de, AR sanatının doğası gereği genellikle izin alınmadan yapılan müdahale örnekleri önemlidir ve bu tür sergiler genellikle 'hack' veya 'gizli' müdahalelerle dikkat çeker. Verilen doğru cevaba göre bu özellik öne çıkmaktadır.)",
             "is_duplicate": true,
             "duplicate_of": 16,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 37,
@@ -751,7 +767,8 @@
             "explanation": "Clement Valla'nın 'Google Earth'den Posta Kartları' çalışması, sanat alanında dijital teknolojilerin 'araç' olarak kullanımını sorgulayan bir yaklaşımdır. Metinde, Valla'nın çalışmalarının, yazılımın içerisindeki kodların birbirleri ile çakışması (glitch/bug) fikrine dayandığı belirtilmektedir. Bu, dijital sanatın temelini oluşturan yazılımsal hataların estetik bir araç olarak kullanılmasına bir örnektir.",
             "is_duplicate": true,
             "duplicate_of": 17,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 38,
@@ -772,7 +789,8 @@
             "explanation": "Ünite 2'de, Open Geospatial Consortium tarafından yayınlanan Locus Charter İlkeleri listelenmiştir: Fırsatların farkına varınız, Etkileri idrak ediniz, Zarar vermeyiniz, Zarar görme ihtimali olanları koruyunuz, Yanlılığı irdeleyiniz, İhlalleri en aza indiriniz, Verileri en aza indiriniz, Gizliliği koruyunuz, Bireylerin tanınmasını önleyiniz, Hesap verebilirliği sağlayınız. 'Hesap verebilirliği sağlamak' listede mevcuttur. 'Zarar vermeyiniz' de listededir. 'İhlalleri en aza indiriniz' de listededir. Listede olmayan bir madde, bu ilkelere aykırı bir yaklaşımdır. Bu sorunun doğru cevabı, listede olmayan bir şık olmalıdır. Listelenen ilkeler arasında 'Sistematik ayrımcılığı ortadan kaldırmak' (veya benzeri bir ifade) bulunmamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 18,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 39,
@@ -793,7 +811,8 @@
             "explanation": "Ünite 8, Verileşme (datafication) başlığı altında, Büyük Veri kaynakları olarak sensörler, Internet işlemleri, e-Posta, video, tıklama akışları ve diğer tüm dijital kaynakları belirtir. Metin analizleri, sosyal ağ verileri (sosyal medya), sensör verileri (hava/su kalitesi, GPS) Büyük Veri kaynaklarıdır. 'Sayısal tablolar' (Yapılandırılmış Veri tanımında geçen) ise, veri türleri ve formatlarıdır, ancak doğrudan 'kaynak' olarak sayılmazlar; bunlar Büyük Veri'yi oluşturan verilerin işlenmiş halidir. En net Büyük Veri kaynağı olmayan şık bu olmalıdır.",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 40,
@@ -814,7 +833,8 @@
             "explanation": "Ünite 2'de, sosyal medya platformlarının farklı amaçlar için kullanıldığı belirtilirken, Facebook, Twitter, Instagram gibi platformların 'sosyalleşme amaçlı çevrimiçi gruplar' olarak örneklendirildiği görülmektedir. Kaplan ve Haenlein'in sınıflandırmasında da Facebook, sosyal ağlar kategorisinde yer almıştır.",
             "is_duplicate": true,
             "duplicate_of": 20,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 41,
@@ -854,8 +874,9 @@
             "topic": "XR Kavramları",
             "explanation": "Artırılmış gerçeklik (AR) fiziksel dünyanın üzerine sayısal enformasyon bindirirken, sanal gerçeklik (VR) tamamen bilgisayar tarafından simüle edilen ortamlardır. Karma gerçeklik (MR) ise fiziksel dünya ile sayısal dünyanın iç içe geçtiği, birbirini etkilediği alanı ifade eder. Ünite 3'te belirtildiği gibi, Artırılmış (AR), sanal (VR) ve karma gerçeklikler (MR), bir şemsiye terim olan “Genişletilmiş Gerçeklik\" (XR/Extended Reality) tanımı altında toplanmıştır. Bu XR çatısı, fiziki ve dijital mekânın iç içe geçtiği deneyimleri kapsar.",
             "is_duplicate": true,
-            "duplicate_of": 9,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 29,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 43,
@@ -1037,8 +1058,9 @@
             "topic": "Çevrimiçi Topluluk Türü",
             "explanation": "Akademik araştırmalarda tanımlanan çevrimiçi topluluk türleri arasında Facebook, Swarm gibi gruplar 'Sosyalleşme amaçlı çevrimiçi gruplar' kategorisine girer. Bu gruplar, üyelerin kendi ihtiyaçlarını karşılamak amacıyla etkileşime girdiği, sosyalleşmeyi önceliklendiren gönüllü kullanıcı gruplarıdır (Ünite 2).",
             "is_duplicate": true,
-            "duplicate_of": 2,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 22,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 52,
@@ -1259,8 +1281,9 @@
             "topic": "Dijital Oyun Yayıncılığı",
             "explanation": "Metinde dijital oyun sektörünün yükselişi anlatılırken, oyun oynayanı izleme kültürü ve pratiği üzerinden dijital oyun yayıncılığının yükseldiği belirtilir. Bu yeni mecra, yayıncı, video editörü, moderatörlük gibi yeni iş ve mesleklere yol açmıştır. Yani, yayıncıların gelir kazandığı ilk büyük mecra oyun yayıncılığıdır (Twitch, YouTube gibi platformlar üzerinden).",
             "is_duplicate": true,
-            "duplicate_of": 13,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 33,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 63,
@@ -1319,8 +1342,10 @@
             "UniteNo": 4,
             "topic": "Bitcoin'in Kurucusu",
             "explanation": "Metinde, Bitcoin'in 2008 ABD Finans Krizi sonrası ortaya çıktığı ve 2009'da bir finansal işleyiş olarak hayata geçirildiği belirtilir. 'Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir.' ifadesi geçer. Ancak, bu sistemin kim tarafından geliştirildiği tam olarak bilinmemektedir ve genellikle 'Satoshi Nakamoto' takma adıyla anılan kişi ya da kişiler olarak ifade edilir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 23,
+            "similarity_score": 0.9756006598472595
         },
         {
             "id": 66,
@@ -1662,7 +1687,9 @@
             "topic": "Teknoloji Determinizmi",
             "explanation": "Teknolojik determinizm perspektifine göre teknoloji, insanın ve toplumun davranışlarını ve eylemlerini belirlemektedir. Bu yaklaşım, medya teknolojilerinin dönüştürücü gücüne odaklanır ve sosyal değişimin merkezinde teknolojik faktörlerin olduğunu varsayar.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 47,
+            "similarity_score": 1.0
         },
         {
             "id": 83,
@@ -1702,7 +1729,9 @@
             "topic": "Yapay Zeka Tarihçesi",
             "explanation": "Metinde, Alan Turing'in bilgisayarlar üzerinden başlattığı tartışmanın, yapay zekaya giden yolda en önemli fikirlerden biri olduğu ve bu tartışmanın 'makinelerin düşünebildiğine dair bir kanıt oluşturacaktır' ifadesiyle Turing'in çalışmasıyla ilişkili olduğu belirtilmektedir.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 53,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 85,
@@ -2037,7 +2066,8 @@
             "explanation": "Metinde, 'En basit haliyle ağ toplumu internet ve dijital iletişim teknolojileri sayesinde bireylerin ve grupların dijital bilgi ağları etrafında örgütlendiği yeni toplumsal yaşamı betimlemek için kullanılan bir terimdir.' denilmektedir. Bu nedenle doğru kavram Ağ Toplumu'dur.",
             "is_duplicate": true,
             "duplicate_of": 81,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 102,
@@ -2058,7 +2088,8 @@
             "explanation": "Teknolojik Determinizm perspektifine göre teknoloji insanın ve toplumun davranışlarını ve eylemlerini belirlemektedir. Bu yaklaşıma göre, sosyal değişimin merkezinde medya teknolojileri vardır (örn: her yeni medya türü çıktığında bunun belirleyici bir araç olduğuna inanılması).",
             "is_duplicate": true,
             "duplicate_of": 82,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 103,
@@ -2079,7 +2110,8 @@
             "explanation": "Metinde, \"...World Wide Web (WWW) adı verilen işleyiş geliştirilmiştir\" ve bu gelişmenin İnternet'in kitlesel bir iletişim ortamı haline gelmesinin temellerini attığı belirtilmektedir. Bu gelişimi sağlayan, 'Web 2.0' teknolojilerinin de öncülü olan ve TCP/IP'yi takip eden icat, Tim Berners-Lee tarafından yapılmıştır.",
             "is_duplicate": true,
             "duplicate_of": 83,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 104,
@@ -2100,7 +2132,8 @@
             "explanation": "Metinde, \"Bilgisayarlar ile insanlar ayırt edilemeyecek hâle gelirse, bu makinelerin düşünebildiğine dair bir kanıt oluşturacaktır. Turing'in bilgisayarlar üzerinden başlattığı bu tartışma, yapay zekaya giden yolda en önemli fikirlerden biri olmuştur\" ifadesi geçmektedir. Bu tartışma, Turing'in çalışmalarıyla başlamıştır.",
             "is_duplicate": true,
             "duplicate_of": 84,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 105,
@@ -2121,7 +2154,8 @@
             "explanation": "Metinde, \"İnternet, yeni medyanın en yaygın aracıdır. Medya terimi aynı zamanda haberler, basılı veya görsel yayınlar, televizyon programları gibi kültür ürünlerini de niteler. Geleneksel medya olarak adlandırılan, gazete, televizyon, radyo gibi kitle iletişim araçları, internetin yaygınlaşmasıyla birlikte yeni medyaya uyum sağlamaya, adapte olmaya başlamışlardır.\" İfadesi yer almaktadır. ARPANET sonrası farklı ağları birbirine bağlayan teknoloji TCP/IP'dir.",
             "is_duplicate": true,
             "duplicate_of": 85,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 106,
@@ -2142,7 +2176,8 @@
             "explanation": "Metinde, \"Artırılmış gerçeklikte sayısal enformasyon, fiziksel dünyanın üzerine bindirilmektedir. Hem sayısal dünya hem de fiziksel dünya iç içe geçmektedir. ... Artırılmış (AR), sanal (VR) ve karma gerçeklikler (MR), bir şemsiye terim olan “Genişletilmiş Gerçeklik (Uluslararası literatürde: XR/Extended Reality)\" tanımı altında toplanmıştır.\" ifadesi geçmektedir. Sanal ve fiziksel uzamın melez ortamı Karma Gerçeklik (MR) veya bu kavramların kapsayıcısı olan Genişletilmiş Gerçeklik (XR) ile ilişkilidir. Metinde bahsi geçen tanım, MR'nin (karma gerçeklik) tanımına uymaktadır.",
             "is_duplicate": true,
             "duplicate_of": 86,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 107,
@@ -2163,7 +2198,8 @@
             "explanation": "Walter Benjamin'in (yazısının içeriği Ünite 5 özetinde yer almasa da bu tip bir soru için ilgili üniteye başvurulmuştur) özgürleşen sanat eseri kavramı genellikle mekanik/dijital kopyalanabilirlik ile ilgilidir. Ancak, verilen metinlerde bu sorunun cevabını doğrudan destekleyen spesifik bir eser adı geçmemektedir. Ünite 5 metninde 'Sanal Gerçeklik' sanat alanında 'Tilt Brush' uygulamasından bahsedilmektedir. Sanat Alanında Sanal Gerçeklik başlığı altında 'Sanal gerçeklik sanatçılara sayısal boyalar ile çalışabilecekleri, teorik olarak sonsuz bir ortam sunmaktadır' denilmektedir. Ancak sorunun kaynağı Benjamin'e dayandığı için, dijitalleşme ile sanatın özgünlüğünün kaybolması ve yeniden üretimi bağlamında düşünülmelidir. Bu sorunun kesin cevabı ilgili ünitede doğrudan belirtilmemiştir. Bu durumda, metinde doğrudan bahsi geçen teknoloji uygulamalarından en uygun olanı seçilebilir veya bilgi eksikliği belirtilebilir. Metinde doğrudan Benjamin'e atıf yok, ancak sanal gerçeklik sanatta 'sonsuz ortam' sunar.",
             "is_duplicate": true,
             "duplicate_of": 87,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 108,
@@ -2184,7 +2220,8 @@
             "explanation": "Richard Bartle'ın oyuncu tiplerinden 'Kaşifler (explorers)', \"Oyunun sunduğu olanakları derinlemesine keşfetmeye ve oyun uzamına odaklanan oyunculardır. Puan ya da ödül kazanmak öncelikli değildir. Oyun dünyası içinde yapılan keşifler ödül yerine geçer\" şeklinde tanımlanmaktadır. Bu tanım, soruda verilen 'oyun uzamına odaklanan oyuncular' tanımıyla örtüşmektedir.",
             "is_duplicate": true,
             "duplicate_of": 88,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 109,
@@ -2203,8 +2240,10 @@
             "UniteNo": 6,
             "topic": "Dijital Kültür Formu",
             "explanation": "Metinde Celia Pearce'ın dijital kültürün en baskın kültürel formu olarak dijital oyunları, 21. yüzyılın 'iletişim ortamı' olarak nitelendirdiğinden bahsedilmektedir. (Bu, 'iletişim'in dijital kültürün temelini oluşturduğu fikrine işaret eder.)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 89,
+            "similarity_score": 0.9747854471206665
         },
         {
             "id": 110,
@@ -2223,8 +2262,10 @@
             "UniteNo": 5,
             "topic": "Yeni Medya ve Sanat",
             "explanation": "Ünite 5 metninde, 'Yeni Medya ve Sanat' başlığı altında, 'Yeni medya ile başlayan dijital kültür ağında, sanat nesnesi; roman, şiir gibi edebiyat formlarından, performansa, oyuna kadar geleneksel konsept ve kategoriler yeniden tanımlanmaktadır.' ifadesi bulunmaktadır. Dolayısıyla boşluğa 'yeniden tanımlanmaktadır' gelmelidir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 90,
+            "similarity_score": 0.9739770293235779
         },
         {
             "id": 111,
@@ -2286,7 +2327,8 @@
             "explanation": "Ünite 3 özetinde, mekanik robotların tarihinde Japonya'dan Hisasige Tanaka'nın önemli olduğu ve karmaşık oyuncak robotlar yaptığı belirtilir. Tanaka'nın bu konudaki bilgisini Karakuri Zui adlı bir kitapta topladığı ifade edilmektedir. Bu, soruda bahsedilen robotik ilhamının kaynağıdır.",
             "is_duplicate": true,
             "duplicate_of": 93,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 114,
@@ -2307,7 +2349,8 @@
             "explanation": "Ünite 8 özetinde, 'Sınıflanabilen Nitel Veri' şu şekilde tanımlanmıştır: \"Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan verilerdir. Taşıtlar: kara, hava ve deniz taşıtları.\" Bu tanım, soruda verilen 'birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan veri türü' tanımıyla birebir örtüşmektedir.",
             "is_duplicate": true,
             "duplicate_of": 94,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 115,
@@ -2343,7 +2386,8 @@
             "explanation": "Ünite 8 özetinde, Ağ Analizi (SAA) başlığı altında, görselleştirme becerisinin öneminden bahsedilmektedir ve bu analizlerin çıktı olarak ağ haritaları ürettiği belirtilmiştir. Ancak, metinler arasında, ilişkisel verileri görselleştirmek için tasarlanmış spesifik yazılım örnekleri (örn: Gephi, NodeXL) verilmemiştir. Verilen metinler sadece ağ analizinin tanımını ve amacını içermektedir. (Bu nedenle, metindeki bilgiye dayanarak cevap verilemez; ancak sorunun amacı Ağ Analizi konusunu kapsayan üniteyi işaret etmektir.)",
             "is_duplicate": true,
             "duplicate_of": 96,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 117,
@@ -2364,7 +2408,8 @@
             "explanation": "Ünite 7 özetinde, 1960'ların ortalarına gelindiğinde Yapay Zeka alanındaki en dikkat çeken olayın Newell ve Simon'un Genel Problem Çözücüsü olduğu belirtilmiştir. Bu program, insanî problem çözme metotlarını bilgisayar kullanarak simüle etmeye yarayan çok amaçlı bir programdır.",
             "is_duplicate": true,
             "duplicate_of": 97,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 118,
@@ -2385,7 +2430,8 @@
             "explanation": "Ünite 8 özetinde Yapılandırılmış Veriler başlığı altında, bu verilerin tipik olarak ilişkisel bir veritabanında (RDBMS) saklandığı belirtilmiştir. Ayrıca, bu verilerin alan adları, telefon numaraları gibi sabit formatlı bilgilerden oluştuğu ve verinin manuel veya makine tarafından oluşturulabileceği ifade edilmektedir. Bu özellikler, yapılandırılmış verilerin temel nitelikleridir.",
             "is_duplicate": true,
             "duplicate_of": 98,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 119,
@@ -2406,7 +2452,8 @@
             "explanation": "Ünite 3 özetinde, Isaac Asimov'un robot kurallarından bahsedilmektedir. Zeroth Kural (Sıfırıncı Kural), 1985'te eklenmiş olup, diğer üç kuraldan daha üstte yer alır. Bu kural, \"Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez\" şeklinde tanımlanmıştır ve robotun insanlığa zarar vermemesini mutlak bir öncelik haline getirir.",
             "is_duplicate": true,
             "duplicate_of": 99,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 120,
@@ -2427,7 +2474,8 @@
             "explanation": "Ünite 3 özetinde, robotik ve sibernetik çalışmalarının yükselişine değinilirken Boston Dynamics'in geliştirdiği insansı robotlardan bahsedilmektedir. Bu robotlar, \"insansı hareketleri büyük bir beceri, akıcılık ve yumuşaklıkla yapabilen\" robotlardır. Diğer robot tanımları (mekanik, Otomatik kontrol edilen manipülatörler) daha çok mekanik işlevlere odaklanırken, Boston Dynamics robotları insan benzeri hareket yetenekleriyle ayrılır.",
             "is_duplicate": true,
             "duplicate_of": 100,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 121,
@@ -3149,8 +3197,9 @@
             "topic": "Nitel Veri Türleri",
             "explanation": "Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan veri türü, Ünite 8 özetinde belirtilen 'Sınıflanabilen Nitel Veri'dir. Örneğin; taşıtların kara, hava ve deniz taşıtları olarak sınıflandırılması bu kategoriye örnektir.",
             "is_duplicate": true,
-            "duplicate_of": 94,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 114,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 157,
@@ -3210,8 +3259,9 @@
             "topic": "Ağ Analizi ve Yazılımlar",
             "explanation": "Ağ analizi (SAA) ile ilgili olarak, Ünite 8 özetinde, ortaya çıkan ilişkileri görselleştirmek için kullanılan çıktıların 'ağ haritaları' olduğu belirtilmiştir. Bu haritalar, özellikle ilişkisel veritabanları (RDBMS) dışında veri saklayan NoSQL gibi sistemlerle veya Python'daki NLTK kütüphanesi ile yapılan analizlerde görselleştirilir. Ancak, şıklar arasında ağ analizi çıktılarının görselleştirilmesi için özel bir yazılım adı verilmemiştir. Eğer şıklar, metinde bahsi geçen yazılımlardan biri ise, ağ analizi ve metin madenciliğinde sıkça kullanılan Python araçlarından biri olan NLTK, doğal dil işleme görevlerinin yanı sıra ağ analizi görselleştirmesine de olanak tanır (Python/NLTK metin analizinde ve görselleştirmede kullanılır).",
             "is_duplicate": true,
-            "duplicate_of": 96,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 116,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.9985823035240173
         },
         {
             "id": 160,
@@ -3251,7 +3301,9 @@
             "topic": "Kültür Endüstrisi Kuramcıları",
             "explanation": "Ünite 5'te, Horkheimer ve Adorno'nun kültür ve teknoloji arasındaki ilişkiyi değerlendirirken kültürün endüstrileşmesi kavramını ortaya attığı açıkça belirtilmiştir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 148,
+            "similarity_score": 0.9992011785507202
         },
         {
             "id": 162,
@@ -3270,8 +3322,10 @@
             "UniteNo": 3,
             "topic": "Artırılmış Gerçeklik Oyunları",
             "explanation": "Metinde, sanal gerçeklikte olduğu gibi artırılmış gerçeklikte de oyun piyasasının bu yeni ortamın olanaklarını değerlendirdiği belirtilmiştir. Artırılmış gerçeklik uygulamalarının yaygınlaşması sonucunda Pokemon Go'nun fiziksel mekâna bindirilmiş bir artırılmış gerçeklik uygulaması olarak örnek verildiği görülmektedir. (Ünite 3, Eğlence Alanında Artırılmış Gerçeklik bölümü)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 41,
+            "similarity_score": 0.9913630485534668
         },
         {
             "id": 163,
@@ -3310,8 +3364,10 @@
             "UniteNo": 6,
             "topic": "Dijital Oyun Tanımları",
             "explanation": "Juul'un tanımı değişken ve ölçülebilir sonuçlara sahip, oyuncunun çabasıyla etkilenen, duygusal olarak bağlı olunan kural tabanlı bir sistem olarak oyunu tanımlar. Metinde, 'Oyunun kendisi sosyal etkileşim için bir aracı görevi görür' ifadesiyle Sosyalleşenler (socializers) tipi oyuncuların ön planda olduğu oyunların bu tanımın sınırlarını zorladığı belirtilirken, Katiller (killers) ve Kaşifler (explorers) gibi tiplerin de oyun kuralları dışındaki motivasyonlarla hareket edebileceği ima edilmiştir. Ancak, verilen seçenekler bağlamında, metin, tüm bu tiplerin oyunun temel unsurlarından hareket ettiğini gösterir. Sorunun seçenekleri verilmediği için, Juul'un temel tanımına uyan oyunlar kural tabanlı sistemlerdir. Sosyalleşenler, Başaranlar, Katiller ve Kaşifler, Bartle'ın dört temel oyuncu tipidir ve hepsi (kural tabanlı) oyunlar içinde yer alır. En kapsayıcı cevap, bu tiplerin tümünü içeren oyunlardır, ancak metinde açıkça bu tiplerin bu tanımın sınırlarını zorladığına dair spesifik bir ayrım yapılmamıştır. Ancak, 'Oyuncu motivasyonlarına dayalı bu sınıflandırma çalışmalarının yanı sıra oyuncuları nitelemek üzere gündelik oyuncular (casual gamers) ve etkin oyuncular (hardcore gamers) nitelemeleri de oyun endüstrisi, medya ve oyuncular arasında sıklıkla kullanılmaktadır' denilmektedir. Juul'un tanımına en yakın olanlar kural tabanlı sistemlerdir. Eğer seçenekler olsaydı, en bariz kural dışı motivasyonlar (örn. sadece sosyalleşme odaklı) sınırlarda kalabilirdi. Seçenek olmadığı için, Bartle'ın tiplerinin tamamı (sosyalleşenler, başaranlar, katiller, kaşifler) kural tabanlı oyunlarda yer alır. Juul, bu tiplerin tümünü kapsayan bir tanım sunduğu için, seçeneklerde bu tiplerin kendisi varsa cevap olabilir. Literatürde, Bartle'ın tipleri (Sosyal etkileşim odaklı oyunlar bile) genellikle oyun tanımı içinde değerlendirilir. En az 'kural tabanlı' niteliğe en yakın olanlar Başaranlar ve Katillerdir. Sosyalleşenler sadece etkileşim için oynar, Kaşifler ise keşif için oynar. Juul'un tanımına göre 'oyuncu sonucu etkilemek için çaba sarf ettiği' kısmı, Sosyalleşenlerde zayıftır. Bu durumda, en az çaba gerektiren veya sadece sosyal etkileşime odaklananlar (Sosyalleşenler) veya sadece keşfe odaklananlar (Kaşifler) sınırları zorlayabilir. (Ünite 6, Oyuncu Tipleri ve Dijital Oyunlar bölümü)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 158,
+            "similarity_score": 0.9786239266395569
         },
         {
             "id": 165,
@@ -3371,7 +3427,9 @@
             "topic": "Kamusal Alan Teorisi",
             "explanation": "Habermas'a göre kamusal alan, demokrasinin ön koşulu olarak tanımlanır ve yurttaşların farklı görüşlerini ifade edebildiği, toplumu ilgilendiren sorunların tartışıldığı iletişimsel bir alandır; bu tanım, devletten, sermayeden (ticari platformlardan) ve ailenin mahrem hayatından ayrı bir alan olarak kurgulanmıştır. (Ünite 1, Kamusal Alan bölümü)",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 72,
+            "similarity_score": 1.0
         },
         {
             "id": 168,
@@ -3411,7 +3469,9 @@
             "topic": "Yapılandırılmış Veri",
             "explanation": "Yapılandırılmış veri, ilişkisel veritabanlarında (RDBMS) saklanan, sabit bir alana sahip verilerdir ve genellikle rakamlar ve metinlerden oluşur. Verilerin otomatik veya manuel olarak yapılandırılmış formatta olması temel özelliğidir. (Ünite 8, Yapılandırılmamış Veriler ve Yapılandırılmış Veriler bölümü)",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 118,
+            "similarity_score": 0.9644984006881714
         },
         {
             "id": 170,
@@ -3431,7 +3491,9 @@
             "topic": "Akıllı Sözleşmeler",
             "explanation": "Akıllı sözleşmeler, ilk olarak Ethereum adlı kriptoparanın blokzinciri üzerinde yer almıştır. Bu sözleşmeler, kâğıda dökülen protokol maddelerinin algoritmik kodlara dönüştürülerek dijital ortamda aracısız sevk ve idare edilmesini sağlar. (Ünite 4, Akıllı Sözleşmeler bölümü)",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 154,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 171,
@@ -3472,7 +3534,8 @@
             "explanation": "Dijital oyunların tarihçesi anlatılırken, 1971'de Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temelini Tennis for Two'nun oluşturduğu belirtilmektedir. (Sayfa 3, GİT108U-DİJİTAL KÜLTÜR Ünite 6'nın sonunda yer alan listede Tennis for Two'ya atıf bulunmaktadır.)",
             "is_duplicate": true,
             "duplicate_of": 92,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 173,
@@ -3532,7 +3595,9 @@
             "topic": "İnternet tarihi ve protokoller",
             "explanation": "Metinde, ARPANET'ten sonra farklı ağların birbirine bağlanmasını sağlayan teknolojinin Çağlar Arası Bağlantı Protokolü olan TCP/IP olduğu belirtilmektedir. (Sayfa 1, GİT108U-DİJİTAL KÜLTÜR Ünite 5).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 105,
+            "similarity_score": 0.9842676520347595
         },
         {
             "id": 176,
@@ -3592,8 +3657,9 @@
             "topic": "Dijital oyun yayıncılığı",
             "explanation": "Dijital oyun yayıncılığı, oyun oynayanı izleme kültürü ve pratiği üzerinden yükselmiştir. Bu alandaki yayıncılar ve içerik üreticileri, Twitch veya YouTube gibi çevrimiçi kanallar üzerinden gelir elde etmektedirler. Metinde, bu mecraların, yayıncılar için ana gelir kaynağı olmasa bile, yüksek gelirler elde edebilecekleri belirtilmiştir (Sayfa 4, GİT108U-DİJİTAL KÜLTÜR Ünite 6).",
             "is_duplicate": true,
-            "duplicate_of": 13,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 62,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 179,
@@ -3613,8 +3679,9 @@
             "topic": "Dijital teknolojilerin etkisi",
             "explanation": "Sayısal ortamlar sayesinde insan hayatında en önemli değişikliklerden biri, artık bilginin sadece 5 duyuya bağlı olarak değil, teknoloji aracılığıyla (teleskopun icadında olduğu gibi) farklı algısal deneyimler yoluyla anlamlandırılabilmesidir. Yeni gerçeklikler, insan hayatına görsel dili fiziksel dünyaya akıtarak, sayısal ve fiziksel dünyayı iç içe geçirmesiyle (Yeni Estetik) yeni deneyimler sunmuştur (Sayfa 2, GİT108U-DİJİTAL KÜLTÜR Ünite 3).",
             "is_duplicate": true,
-            "duplicate_of": 8,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 28,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 180,
@@ -3634,8 +3701,9 @@
             "topic": "Bitcoin'in kurucusu",
             "explanation": "Bitcoin'i (ve dolayısıyla blokzincir uygulamalarını) geliştiren kişi veya grubun kim olduğu tam olarak bilinmemektedir ve genellikle 'Satoshi Nakamoto' takma adıyla anılan kişi veya grup olarak kabul edilir. Metinde, Bitcoin'in 2008 ABD Finans Krizi sonrası başlatılan tartışmalar sonucunda 2009'da hayata geçirilen bir finansal işleyiş olduğu belirtilmiş, ancak kurucunun adı/adı verilmemiştir; bu durum, Bitcoin kurucusunun bilinmemesi bilgisini destekler (Sayfa 1, GİT108U-DİJİTAL KÜLTÜR Ünite 4).",
             "is_duplicate": true,
-            "duplicate_of": 3,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 65,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 0.9756006598472595
         },
         {
             "id": 181,
@@ -3655,8 +3723,9 @@
             "topic": "Büyük Veri Kaynakları",
             "explanation": "Ünite 8'de Büyük Veri kaynakları olarak sensörler, İnternet işlemleri, e-Posta, video, tıklama akışları gibi dijital kaynaklar belirtilmiştir. E-Posta, sosyal medya ve video paylaşım platformları verileri, büyük veri kaynakları arasındadır. Kripto paralar veya finansal veriler (kripto para/Bitcoin) genellikle Ünite 4'ün konusudur ve Ünite 8'de Büyük Veri kaynakları olarak doğrudan listelenmemiştir. Ünite 8'de bahsedilen kaynaklar çoğunlukla sosyal medya/sensör/İnternet etkileşimleridir.",
             "is_duplicate": true,
-            "duplicate_of": 19,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 39,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 182,
@@ -3695,8 +3764,10 @@
             "UniteNo": 1,
             "topic": "Medya Teorileri",
             "explanation": "Sosyal Konstrüktivizm, teknolojinin kendisinin değil, toplulukların teknolojiyi arzuladıkları gibi şekillendirdiklerini, teknolojinin toplumsal anlam dünyasının ve kullanım pratiklerinin yaratıcıları olduğunu savunur. Bu yaklaşım, teknolojiyi sosyalleşme ve kültürel süreçlerin merkezine koyan Determinizm'in aksine, sosyal bilimlerdeki anlam dünyasının ve kullanım pratiklerinin bizzat topluluklar tarafından yaratıldığını vurgular.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 102,
+            "similarity_score": 0.998065710067749
         },
         {
             "id": 184,
@@ -3736,8 +3807,9 @@
             "topic": "Artırılmış Gerçeklikin Keşfi",
             "explanation": "Metinde Ivan Shuterland'ın 1968'de geliştirdiği ve 'Demokles'in Kılıcı' olarak anılan sistemin, ilk artırılmış gerçeklik gözlükleri olduğu ve bu sayede insanların sayısal olarak ilk defa artırılmış gerçekliği deneyimlediği belirtilmektedir. Bu sistem, sayısal verileri camın üzerine yansıtarak gerçek dünyada konumlandırmıştır.",
             "is_duplicate": true,
-            "duplicate_of": 4,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 24,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 186,
@@ -3757,8 +3829,9 @@
             "topic": "Robot Etiği Kuralları",
             "explanation": "Metinde Isaac Asimov'un 1985'te eklediği 'Zeroth Kuralı', Birinci Kural'dan daha üstün bir kural olarak belirtilmiştir ve bu kural, 'Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez' şeklindedir.",
             "is_duplicate": true,
-            "duplicate_of": 99,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 119,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 187,
@@ -3817,8 +3890,10 @@
             "UniteNo": 3,
             "topic": "Artırılmış Gerçeklik Oyunları",
             "explanation": "Ünite 3, 'Eğlence Alanında Artırılmış Gerçeklik' başlığı altında, oyun piyasasının artırılmış gerçeklik olanaklarını değerlendirdiğini belirtmektedir. Bu alanda, Pokemon Go gibi fiziksel mekâna bindirilen artırılmış gerçeklik uygulamaları, geniş kitlelerin deneyimlemesini sağlayan popüler örneklerdendir (metinde Pokemon Go, Konum Tabanlı Uygulamalar arasında örnek olarak verilmiştir).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 162,
+            "similarity_score": 0.9785206317901611
         },
         {
             "id": 190,
@@ -3879,7 +3954,8 @@
             "explanation": "Blokzincirleri çok daha etkin ve yönetilebilir kılan inovasyonun akıllı sözleşmeler olduğu ve ilk akıllı sözleşmelerin 'Ethereum' adlı kriptoparanın blokzinciri üzerinde yer aldığı metinde açıkça belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 170,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 193,
@@ -3900,7 +3976,8 @@
             "explanation": "Postman'ın sınıflandırmasına göre Teknokrasi döneminde, kültür teknolojiye teslim olmuştur ve kültür, teknoloji olmuştur. Bu dönemde çatışma değil, teknolojinin hakimiyeti söz konusudur (Araç kullanan toplumlar'da çatışma vardır).",
             "is_duplicate": true,
             "duplicate_of": 168,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 194,
@@ -3921,7 +3998,8 @@
             "explanation": "Metinde Habermas'a göre kamusal alanın, 18. yy'da Avrupa'da aydınlar ve burjuva sınıfının fikri tartışmaları öncülüğünde oluşturdukları rasyonel tartışma ve söylemsel etkileşim alanı olduğu ve kamusal alanı demokrasinin ön koşulu olarak tanımladığı belirtilmiştir. Bu, devletten, sermayeden/piyasadan ve aileden ayrı bir güç olarak kamusal alanı konumlandırmasıyla tutarlıdır.",
             "is_duplicate": true,
             "duplicate_of": 167,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 195,
@@ -3940,8 +4018,10 @@
             "UniteNo": 7,
             "topic": "Yapay Zeka Tarihi",
             "explanation": "Metinde 1960'ların ortalarına gelindiğinde Yapay Zeka alanındaki en dikkat çeken olayın Newell ve Simon'un Genel Problem Çözücüsü olduğu belirtilmiştir. Bu program, problem çözme yeteneklerini taklit eden bir sistemdir ve insan zihninin problem çözme yetilerini taklit etme çabasıyla ilişkilidir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 117,
+            "similarity_score": 0.9559987783432007
         },
         {
             "id": 196,
@@ -3961,7 +4041,9 @@
             "topic": "Web 2.0 ve Yeni Medya",
             "explanation": "Web 2.0 teknolojilerinin hayatımıza girmesiyle birlikte, kullanıcıların sadece içeriği tüketmekle kalmayıp aynı zamanda kendi içeriklerini de kolayca üretebilir hale gelmesi ve bu sayede yayıncı olabilmesi kavramlarının ortaya çıktığı belirtilmiştir. Web 2.0, 'okunan-yazılan ağ' olarak tanımlanır ve sosyal ağların doğuşuna yol açmıştır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 31,
+            "similarity_score": 0.9964925050735474
         },
         {
             "id": 197,
@@ -4041,8 +4123,9 @@
             "topic": "Ağ Analizi Yazılımları",
             "explanation": "Metinde Ağ Analizi başlığı altında, sosyal ağ analizi (SAA) çıktılarından olan ilişkisel kümelerin görselleştirilmesi için ağ haritaları üretildiği belirtilmiştir. Bu görselleştirmeyi kolaylaştıran yazılımlara örnek olarak 'R' dili veya Python kütüphaneleri (NLTK gibi) kullanılır; ancak doğrudan bir yazılım ismi verilmemiştir. Ancak, metinde DDİ için Python ve NLTK'nın kullanıldığı belirtildiğinden ve Ağ Analizi'nin de bu bağlamda değerlendirilebileceği için, en yakın ve ilgili araç takımlarından olan NLTK bir çıkarım olabilir. Ancak soruda 'ağ haritaları üretir' denilen Ağ Analizi'nin çıktısıdır ve bu çıktıyı görselleştirmek için kullanılan yazılımlar temeldir. Bu bağlamda, metinde açıkça gösterilen DDİ aracı olan NLTK, bu tür görselleştirmeleri destekleyen bir kütüphane olarak en uygun çıkarımdır, çünkü Ağ Analizi de veri görselleştirmeyi içerir.",
             "is_duplicate": true,
-            "duplicate_of": 96,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 159,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.9985823035240173
         },
         {
             "id": 201,
@@ -4101,8 +4184,10 @@
             "UniteNo": 2,
             "topic": "Çevrimiçi topluluk bileşenleri",
             "explanation": "Ünite 2'ye göre, çevrimiçi bir topluluk dört temel bileşenden oluşur: Kendi ihtiyaçlarını karşılamak amacıyla etkileşime giren insanlar, ortak bir amaç, örtük/açık kurallar ve bu etkileşime aracılık eden teknik sistem (platform). Preece'a göre çevrimiçi toplulukların temel bileşenleri listelenmiştir ve bu listede yer almayan bir seçenek doğru cevaptır. Verilen seçenekler arasında, topluluk bileşenleri arasında doğrudan sayılmayan bir kavram aranmalıdır (Çevrimiçi topluluklar bireysel, grupla ilgili ve teknolojiyle ilgili boyutlar içermektedir denilmekle beraber, 4 temel bileşen listelenmiştir). Verilen seçenekler (insanlar, amaç, prensipler/kurallar, teknik sistem) listelenen 4 temel bileşendir. Eğer seçenekler metinde eksik listelenen bir kavramı içeriyorsa o seçilmelidir. Metinde sayılan dört temel bileşen: 1. Kendi ihtiyaçlarını karşılamak amacıyla toplumsal olarak etkileşime giren insanlar, 2. Çıkar, ihtiyaç ya da iş birliği yapmak gibi ortak bir amaç, 3. Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler, 4. Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir sistem. Eğer sorunun seçenekleri bu dördünden biri değilse, doğru cevap odur. Eğer seçenekler 'bireysel, grupla ilgili ve teknolojiyle ilgili boyutlar' kısmından bir şey içeriyorsa, bu 4 temel bileşen dışındadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 173,
+            "similarity_score": 0.999284029006958
         },
         {
             "id": 204,
@@ -4123,7 +4208,8 @@
             "explanation": "Soru, duyusal algı, algı bilimi ve duygu bilimi olarak açıklanan kavramı sormaktadır. Ünite 5'te, 'Yeni Estetik' başlığı altında, estetik kavramının Yunanca 'aisthesis' kelimesinden gelip duyusal algı, algı bilimi, duygu bilimi olarak açıklandığı belirtilmiştir. Estetik, güzellik ve çirkinlik gibi yargıları da içeren, kültür tarihinde birikmiş tüm malzemeyi dönüştürme biçimidir.",
             "is_duplicate": true,
             "duplicate_of": 163,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 205,
@@ -4184,8 +4270,9 @@
             "topic": "Bitcoin güvenlik standardı",
             "explanation": "Soru, Bitcoin ve türevlerinin, işlem şeffaflığı ve kullanıcı mahremiyeti arasındaki dengeyi korumak için kullandığı, çözümü zor olan güvenlik standardını sormaktadır. Ünite 4'te, Bitcoin ile türevlerine ilişkin nihai ve en kritik hususun, kullanıcı mahremiyeti ile işlemlerin şeffaflığı arasındaki dengeyi korumak için kullanılan 'yüksek kriptografi standartları' olduğu belirtilmiştir. Blokzincir de bu özellikler üzerinden işler.",
             "is_duplicate": true,
-            "duplicate_of": 6,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 26,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 208,
@@ -4225,8 +4312,9 @@
             "topic": "İnternet'in tarihsel gelişimi",
             "explanation": "Soru, ARPANET sonrası farklı ağların birbirine bağlanmasını sağlayan temel teknolojiyi sormaktadır. Ünite 5'te, İnternet'in yeni medyanın en yaygın aracı olduğu belirtilirken, ARPANET teknolojisiyle oluşan ilk ağdan sonraki önemli icadın, farklı ağların birbirine bağlanmasını sağlayan teknoloji olan 'çağlar arası bağlantı protokolü olan TCP/IP'nin hayata geçmesi' olduğu ifade edilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 175,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 105,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 0.9842676520347595
         },
         {
             "id": 210,
@@ -4246,8 +4334,9 @@
             "topic": "Artırılmış Gerçeklik Sergileri",
             "explanation": "Metinde Mark Skwarek, Sander Veenhof ve Tamiko Thiel'in sanatçıları arasında bulunduğu WeARinMoMa sergisinin, artırılmış gerçeklik (AR) eserleri içermesine rağmen, bu tür müdahale sanatı örneklerinde sıklıkla görülen bir özellik olarak, sergi için müzeden (MoMa'dan) izin alınmamış olmasının dikkat çektiği ima edilmektedir (Verilen doğru cevaba göre bu özellik öne çıkar).",
             "is_duplicate": true,
-            "duplicate_of": 16,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 36,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 211,
@@ -4267,8 +4356,9 @@
             "topic": "Teknoloji ve Kültür Dönemleri",
             "explanation": "Postman'ın sınıflandırmasına göre Teknokrasi döneminde, kültür teknolojiye teslim olmuştur ve kültür, teknoloji olmuştur. Bu dönemde çatışma değil, teknolojinin hakimiyeti söz konusudur (Araç kullanan toplumlar'da çatışma vardır).",
             "is_duplicate": true,
-            "duplicate_of": 168,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 193,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 212,
@@ -4288,8 +4378,9 @@
             "topic": "Ağ Analizi Yazılımları",
             "explanation": "Ünite 8'de, Metin analizi başlığı altında, sosyal ağ analizi (SAA) çıktıları olarak ağ haritaları üretilebileceği belirtilmektedir. Yapılandırılmış verilerin işlenmesi için kullanılan ilişkisel veritabanları (RDBMS) ve sosyal medyadan veri toplamak için kullanılan Uygulama Programlama Arayüzleri (UPA'lar) örnek olarak verilebilir. Ancak görselleştirme için özel bir yazılım örneği (örn. Gephi, NodeXL gibi) metinde doğrudan verilmemiştir. Genel olarak, ağ analiz çıktıları raporlanabilir veya görselleştirilebilir.",
             "is_duplicate": true,
-            "duplicate_of": 96,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 159,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.9985823035240173
         },
         {
             "id": 213,
@@ -4330,7 +4421,8 @@
             "explanation": "Ünite 5'teki kültüre dair genel tanımlar bağlamında, kültürün doğa karşısında insan müdahalesiyle oluşan bir yapı olduğu belirtilir. Voltaire'in tanımı doğrudan metinde geçmese de, kültürün 'aklın bazı yetenek birimlerinin amaca elverişli düşünsel çalışma ve pratiklerle geliştirilmesi' olduğu ifadesi, kültürün temel olarak insanın zihinsel ve pratik faaliyetlerinin ürünü ve geliştirilmesiyle ilişkili olduğunu gösterir.",
             "is_duplicate": true,
             "duplicate_of": 166,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 0.9997674226760864
         },
         {
             "id": 215,
@@ -4350,8 +4442,9 @@
             "topic": "Robot Karakterler",
             "explanation": "Metinde robotik çalışmaların artışı ile otonom robotların ilgi gördüğü belirtilmiş, ancak robot karakterler veya insansal özelliklere sahip robotlar hakkında doğrudan bir karşılaştırma yapılmamıştır. Ancak genel popüler kültür bilgisi ışığında, C3PO (Star Wars), insanlara yardım etmek üzere tasarlanmış, insansal özelliklere sahip bir robot karakteridir ve diğer seçenekler (Replikantlar, Cylonlar) genellikle daha tehditkar veya daha az insansal/yardımcı rollerdedir.",
             "is_duplicate": true,
-            "duplicate_of": 100,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 120,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 216,
@@ -4371,8 +4464,9 @@
             "topic": "Dijital Devrim Dönemi",
             "explanation": "Metinde, 2020'lerdeki bu durumdan bahsedilirken, 1990'larla kıyaslandığında 30 yıl sonra teknolojilerin gündelik yaşamda yaygınlaştığı ve özellikle web 2.0 ile sosyal ağların günlük hayatın parçası olduğu belirtilmektedir. Bu dönemde 'kullanıcıların ürettiği içeriğin' yaygınlaşması ve 'yeni medya' kavramı öne çıkmıştır. Kaplan ve Haenlein'in sosyal medyayı altı türe ayırması ve kullanıcıların aktif rol alması bu dönemin dinamiklerindendir. Bu durum, genellikle 'Web 2.0' dönemi veya 'Bilgi Ekonomisi' bağlamında tartışılır, ancak soruda belirtilen içerik üretimi ve yayıncı olabilme vurgusu Web 2.0 ile hızlanan 'Yeni Medya' dinamiklerini işaret eder.",
             "is_duplicate": true,
-            "duplicate_of": 196,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 31,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 0.9964925050735474
         },
         {
             "id": 217,
@@ -4392,8 +4486,9 @@
             "topic": "Yapay Zeka Tarihi",
             "explanation": "Ünite 7'de, Yapay Zeka Çalışmaları bölümünde, '1960'ların ortalarına gelindiğinde Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon'un Genel Problem Çözücüsüdür.' ifadesi açıkça yer almaktadır. Bu program, insani problem çözme metotlarını simüle etme amacı taşır.",
             "is_duplicate": true,
-            "duplicate_of": 97,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 195,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.9559987783432007
         },
         {
             "id": 218,
@@ -4453,8 +4548,9 @@
             "topic": "Veri Türleri",
             "explanation": "Ünite 8'de, Yapılandırılmış Veriler başlığı altında, bu verilerin tipik olarak ilişkisel veritabanında (RDBMS) saklandığı ve alanların (telefon numaraları, Sosyal Güvenlik numaraları vb.) sabit ve tanımlanmış olduğunu belirtmektedir. Buna karşılık, yapılandırılmamış veriler ise etiketsiz olup RDBMS yapısına uymayan (örneğin metin dosyaları) verilerdir. İlişkisel olmamaları, yapılandırılmamış verinin özelliğidir.",
             "is_duplicate": true,
-            "duplicate_of": 169,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 118,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 0.9644984006881714
         }
     ]
 }

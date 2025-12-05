@@ -496,7 +496,8 @@
             "explanation": "Soru, fotoğrafın düz bir yüzeyde sanki gerçekmiş gibi, üç boyutlu görünmesinin hangi kavramla ilgili olduğunu soruyor. Ünite 2'de, \"Fotoğrafın düz bir yüzeyde sanki gerçekmiş gibi görünmesi veya üç boyutlu etkisi, ışık ve renk ile ilgili fiziksel bir olaydır. Fotoğrafta, üçüncü boyutu hissettiren durum derinlik duygusudur.\" ifadesi yer alır. Bu üç boyutlu etkiyi yaratan temel fiziksel olaylar ışık ve renktir. Bu nedenle, doğru cevap ışık ve renk ile ilgilidir.",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 26,
@@ -517,7 +518,8 @@
             "explanation": "Soru, \"Tone Mapping\", \"Digital Blending\", \"DRI\" ve \"Luminance Masking\" gibi teknikleri tanımlamak için kullanılan terimi soruyor. Ünite 3'te, \"HDR fotoğraf yapay bir derinlik oluşturur. Son yıllarda, HDR terimi, Tone Mapping, Digital Blending, ve Luminance Masking gibi birçok farklı tekniği tanımlamak için kullanılmıştır.\" ifadesi geçmektedir. Bu terimlerin tamamı HDR (High Dynamic Range) tekniğinin bir parçasıdır.",
             "is_duplicate": true,
             "duplicate_of": 7,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 27,
@@ -738,7 +740,8 @@
             "explanation": "Soru, kamera hareketlerinden birini soruyor. Ünite 7'de, Kamera Hareketleri şu şekilde listelenmiştir: \"Yatay çevrinme (pan), Yukarı-Aşağı çevrinme (tilt), Kaydırma hareketi, Optik kaydırma\". Optik kaydırma, kamera hareketlerinden biri olarak listelenmiştir.",
             "is_duplicate": true,
             "duplicate_of": 16,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 38,
@@ -939,7 +942,8 @@
             "explanation": "Ünite 4'te, 'Algıda seçicilik, insanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayıdır' şeklinde tanımlanmaktadır. Bu, çevredeki birçok uyarıcı arasından yalnızca belirli olanlara odaklanma durumudur. Bu nedenle doğru cevap B seçeneğidir.",
             "is_duplicate": true,
             "duplicate_of": 31,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 48,
@@ -1000,7 +1004,8 @@
             "explanation": "Metinde, 'Silüet Aydınlatma ise önden verilen anahtar veya yumuşak ışıkların hiç olmaması, arka ışığın ise kuvvetli olarak verilmesi sonucu ortaya çıkan aydınlatma biçimidir' denilmektedir. Silüet tekniği, konuyu karanlıkta bırakıp arka planı aydınlatır. Soruda ise anahtar ışığın kullanılmadığı ve konunun karanlıkta kaldığı teknik sorulmaktadır. Ancak verilen şıklara bakıldığında, konunun sadece arka ışıkla aydınlatılıp önden ışık almaması silüet tekniğinin temelidir. Soruda vurgulanan 'vurgulanması gereken bölümlerin aydınlık, konu dışında kalan yerlerin karanlıkta bırakıldığı' ifadesi Chiaroscuro veya Rembrandt tekniğine daha yakındır, ancak Rembrandt, yüksek kontrastlı zıtlık (Cameo'dan az) kullanır. Silüet ise tamamen konuyu karanlıkta bırakır. Sorudaki ifade, konunun ana ışık olmadan yalnızca arka ışıkla aydınlatıldığı (Silüet) veya yüksek kontrastlı dramatik gölgelerle (Rembrandt) çalışıldığı durumlara işaret eder. Rembrandt aydınlatmasında güçlü ışık ve dramatik gölge zıtlığı öne çıkar ve 'Cameo Aydınlatması dikkatin belirli bir nokta üzerine çekilmesi amacı ile yapılır. Güçlü ışık kaynakları kullanılır. Bu aydınlatma biçiminde aydınlık-karanlık zıtlık oranı Rembrandt aydınlatma biçimine göre daha fazladır' ifadesi geçmektedir. Silüet, tam tersine önden ışığı tamamen keser. Soruda en güçlü zıtlık ifadesi Rembrandt'a işaret edebilir, ancak Silüet aydınlatma da arka ışıkla konuyu karanlıkta bırakır. Şıklar arasında en dramatik kontrastı ifade eden Rembrandt'ı seçebiliriz, ancak sorunun tam olarak neyi kastettiği belirsizdir. Eğer 'vurgulanan yerlerin aydınlık, diğer yerlerin karanlık' kastediliyorsa Rembrandt doğrudur.",
             "is_duplicate": true,
             "duplicate_of": 10,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 51,
@@ -1548,8 +1553,10 @@
             "UniteNo": 8,
             "topic": "Sinemada Zaman Kavramı",
             "explanation": "Ünite 8'de sinemada üç tür zaman ayrımı yapılır: Reel (astronomik) Zaman, Kurgusal (irreel) Zaman ve Hayali Zaman. Metinde 'Kurgusal zaman; filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamanın göre kısaltılması veya uzatılmasıdır.' şeklinde açıkça tanımlanmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9981263279914856,
+            "duplicate_of": 40
         },
         {
             "id": 78,
@@ -1569,8 +1576,9 @@
             "topic": "Kamera Hareketleri",
             "explanation": "Ünite 7'de kamera hareketleri listelenmiştir: 'Yatay çevrinme (pan), Yukarı-Aşağı çevrinme (tilt), Kaydırma hareketi, Optik kaydırma'. Üstten bakış, Eğik bakış, Nesnel görüş açısı ise kamera *açıları*dır (çekim ölçeği veya görüş açısı), hareket değildir. Optik kaydırma, kamera hareketlerinden biridir.",
             "is_duplicate": true,
-            "duplicate_of": 16,
-            "original_source": "Yaz Okulu 2020-2021"
+            "duplicate_of": 37,
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 79,
@@ -1591,7 +1599,8 @@
             "explanation": "Ünite 8'de üç temel zaman dilimi anlatılır: Objektif zaman (saat/takvim), Subjektif zaman (algılanan/hissedilen) ve Biyolojik zaman. Biyolojik zaman, 'canlıların yaşam ömürleriyle ve yaşam organlarının hareketiyle ilgili zamandır' şeklinde tanımlanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 80,
@@ -1612,7 +1621,8 @@
             "explanation": "Ünite 8'de zaman kavramları açıklanırken, 'Subjektif zaman ise algılanılan, hissedilen zamandır. Kişiye göre farklılıklar gösterebilecek olan subjektif zamanın ölçülmesi daha zordur.' ifadesi yer almaktadır. Bu, subjektif zamanın kişiye özel olduğunu gösterir. Diğer şıklar (Hesaplanabilirlik, Ölçülebilirlik, Takvime bağlı olma) objektif zamanın özellikleridir.",
             "is_duplicate": true,
             "duplicate_of": 38,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 81,
@@ -1692,7 +1702,9 @@
             "topic": "Modernizm Sonrası Sanat",
             "explanation": "Soru, 1960 sonrası akımlarla ilgili bilgi istemektedir. Metinde Marcel Duchamp'tan doğrudan bahsedilmese de, Modernizm sonrası gelişmeler (örneğin, sanat ve zanaat ayrımının silikleşmesi, Bauhaus'un etkileri sonrası yeni arayışlar) bu döneme işaret eder. Modernizm sonrası akımların temelinde sanatın geleneksel yapısını sorgulayan, yeni yaklaşımlar getiren sanatçılar yer alır. Metinde özellikle Endüstri Devrimi sonrası modernizmin, ardından postmodern uygulamaların gelişimi anlatılırken, Duchamp gibi isimlerin öncülük ettiği, sanatın geleneksel kalıplarını sorgulayan hareketler (Kavramsal Sanat gibi) modern sonrası dönemde etkili olmuştur.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "similarity_score": 1.0000001192092896,
+            "duplicate_of": 63
         },
         {
             "id": 85,
@@ -1731,8 +1743,10 @@
             "UniteNo": 3,
             "topic": "Fotoğraf Algısı",
             "explanation": "Fotoğrafın düz bir yüzeyde sanki gerçekmiş gibi görünmesi veya üç boyutlu etkisi, ışık ve renk ile ilgili fiziksel bir olaydır. Fotoğrafta, üçüncü boyutu hissettiren durum derinlik duygusudur. Bu durum özellikle çizginin yönlerinden kaynaklanmaktadır. Ancak metinde, fotoğrafın iki boyutlu yüzeyden algılanmasının, insanların üçüncü boyuta ilişkin deneyimlerinden dolayı üç boyutlu gibi algılanması durumu 'yanılsama' olarak tanımlanabilir. Fotoğraf, düz bir yüzeye uygulanan bir sanat türü olmasına rağmen, derinlik hissi yaratması algıda bir tür yanılsama yaratır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9971714615821838,
+            "duplicate_of": 65
         },
         {
             "id": 87,
@@ -2054,7 +2068,8 @@
             "explanation": "Metinde, Antik Çağ estetik düşüncesini oluşturan düşünürler arasında Platon ve Aristoteles'in yanı sıra Plotinus'un da yer aldığı belirtilmektedir. Ancak, Platon'un sistematik felsefi düşüncenin temellerini attığı, idealar dünyası anlayışıyla felsefe tarihini etkilediği genel kabul gören bilgidir ve metinde Platon felsefesinin ikili dünya anlayışı detaylıca anlatılmıştır. Plotinus (E şıkkı değil) ve Aristoteles (D şıkkı değil) de önemli olsa da, sistemli felsefenin kurucusu olarak Platon (A) kabul edilir.",
             "is_duplicate": true,
             "duplicate_of": 21,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 103,
@@ -2094,7 +2109,9 @@
             "topic": "Antik Çağ Estetikçileri",
             "explanation": "Metinde, Antik Çağ estetik düşüncesini oluşturan düşünürler arasında Platon, Aristoteles ve Plotinus'un olduğu belirtilmiştir. 'mimesis olarak sanat düşüncesi ekseninde anlatmaları' ile Antik Çağ estetik düşüncesi anlatılmıştır. Plotinus (C), Platon ve Aristoteles'in metafiziğini yeniden değerlendiren ve Neo-Platonist felsefeyi kuran önemli bir düşünürdür ve Antik Çağ estetik düşüncesini oluşturanlar arasındadır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "similarity_score": 1.0,
+            "duplicate_of": 61
         },
         {
             "id": 105,
@@ -2274,8 +2291,9 @@
             "topic": "HDR Teknikleri",
             "explanation": "Metinde, \"Son yıllarda, HDR terimi, Tone Mapping, Digital Blending, ve Luminance Masking gibi birçok farklı tekniği tanımlamak için kullanılmıştır.\" bilgisi yer almaktadır. Bu terimler HDR (Yüksek Dinamik Aralık) başlığı altında listelenmiştir. Bu nedenle cevap HDR'dir (B).",
             "is_duplicate": true,
-            "duplicate_of": 7,
-            "original_source": "Yaz Okulu 2020-2021"
+            "duplicate_of": 26,
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 114,
@@ -2415,8 +2433,10 @@
             "UniteNo": 4,
             "topic": "Algı Yanılsaması",
             "explanation": "Metinde, \"Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denir.\" ifadesi yer almaktadır. Bu durum, optik illüzyon olarak da bilinir ve D şıkkı yerine doğrudan A şıkkı ile tanımlanmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9739006161689758,
+            "duplicate_of": 99
         },
         {
             "id": 121,
@@ -2437,7 +2457,8 @@
             "explanation": "Estetik nesne, estetik süje tarafından algılanan, kavranan ve estetik haz duyulan obje veya şeydir. Ünite 1'de 'Estetik nesne; sanatkâr tarafından yaratılmış sanat yapıtı olabileceği gibi, insanın yaratıcı etkinliğinin sonucu olmayıp, tersine onun verili ya da hazır bulduğu doğal bir şey' olarak tanımlanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 23,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 122,
@@ -2498,7 +2519,8 @@
             "explanation": "Estetik kavramı, Antik Yunan kültüründen itibaren kullanılan ve 18. yüzyılda A. Baumgarten ile bugünkü anlamında felsefenin bir alanı olarak değerlendirilen bir geçmişe sahiptir. Grekçe 'aisthanesthai'den gelir. (Ünite 1, Sayfa 1)",
             "is_duplicate": true,
             "duplicate_of": 106,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 125,
@@ -2739,7 +2761,8 @@
             "explanation": "Algılanan an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere 'algı yanılsaması' denir. Bu durum bazen 'optik illüzyon' olarak da bilinir. (Ünite 4, Sayfa 2)",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 137,
@@ -2779,8 +2802,10 @@
             "UniteNo": 4,
             "topic": "Algıda Seçicilik",
             "explanation": "Algıda seçicilik, insanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi, yani uyarıcılar arasında seçim yapma durumudur. (Ünite 4, Sayfa 2)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.995877742767334,
+            "duplicate_of": 47
         },
         {
             "id": 139,
@@ -2920,8 +2945,9 @@
             "topic": "Estetiğin Tarihçesi",
             "explanation": "Ünite 1'de Estetiğin Kısa Tarihçesi anlatılırken, 'Estetik kavramı Antik Yunan kültüründen itibaren kullanılan...' ifadesi yer almaktadır. Bu, estetik kavramının kökeninin Antik Yunan kültürüne dayandığını gösterir.",
             "is_duplicate": true,
-            "duplicate_of": 106,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 124,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 146,
@@ -2942,7 +2968,8 @@
             "explanation": "Ünite 2'de Belgesel fotoğrafçılık için, 'Belgesel fotoğrafçılıkta konular çok çeşitli olabilir; sıradan ve güncel sorunlar kadar birçok konu belgesel fotoğrafçılıkta öyküsel olarak anlatılabilir. Bu türde amaç, fotoğraflarla bir hikâye anlatmaktır. Belgesel, günümüz sorunlarına tanıklık ederek topluma bilgi akışı sağlar, farkındalık yaratır' denilmektedir. Bu, anlatımın inandırıcılığı ve hikayenin desteklenmesinin ön planda olduğunu gösterir.",
             "is_duplicate": true,
             "duplicate_of": 133,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 147,
@@ -2963,7 +2990,8 @@
             "explanation": "Ünite 2'de 'İki Boyutlu Yüzeyin Kullanımı' başlığı altında, 'Fotoğrafın düz bir yüzeyde sanki gerçekmiş gibi görünmesi veya üç boyutlu etkisi, ışık ve renk ile ilgili fiziksel bir olaydır. Fotoğrafta, üçüncü boyutu hissettiren durum derinlik duygusudur' ifadesi yer almaktadır. Yani üçüncü boyut hissi 'derinlik algısı' ile sağlanır.",
             "is_duplicate": true,
             "duplicate_of": 108,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 148,
@@ -3024,7 +3052,8 @@
             "explanation": "Ünite 2'de 'Fotoğrafı sanat yapan en önemli özelliklerden biri, fotoğrafçının görme biçimidir' denilmektedir. Diğer seçenekler (çoğaltılabilme, doğayı gerçekçi gösterme, hızlı elde etme) fotoğrafın teknik veya yaygın özellikleridir, ancak sanatsal niteliğinin özünü oluşturan, yönetmenin bakış açısını yansıtan temel unsur, görme biçimidir.",
             "is_duplicate": true,
             "duplicate_of": 130,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 151,
@@ -3043,8 +3072,10 @@
             "UniteNo": 3,
             "topic": "Pozlama Üçgeni",
             "explanation": "Ünite 3'te Pozlama Üçgeni (Pozlama Üçlüsü) kavramı açıklanırken, 'Pozlama ışığı dengelemek anlamına gelir. Bu dengeyi oluşturan ve pozlamanın omurgası sayılan üç temel kavram Diyafram, Enstantane hızı ve ISO hızıdır. Bu üçlüye fotoğrafta Pozlama Üçgeni denir' denilmektedir. Beyaz ayarı (III) pozlama üçgeninin bir parçası değildir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9603003859519958,
+            "duplicate_of": 135
         },
         {
             "id": 152,
@@ -3065,7 +3096,8 @@
             "explanation": "Ünite 3'te Beyaz Dengesi (WB) açıklanırken, 'Beyaz Dengesi, beyaz ışığın renk ısısı 5.500 kelvindir' denilmektedir. 5500 K, ortalama gün ışığına karşılık gelen değerdir. Gölge (A) 7500 K civarında, Tungsten (B) 3200 K civarındadır. Bu nedenle 5500 K, doğrudan güneşli gün ışığına karşılık gelir.",
             "is_duplicate": true,
             "duplicate_of": 134,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9889676570892334
         },
         {
             "id": 153,
@@ -3124,8 +3156,10 @@
             "UniteNo": 4,
             "topic": "Algı Yanılsamaları",
             "explanation": "Ünite 4'te Algı Yanılsaması, 'Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denir' şeklinde tanımlanmıştır. Bu durum, algının fiziksel gerçekliğin ötesinde bir yorumlama süreci olduğunu gösterir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9789759516716003,
+            "duplicate_of": 99
         },
         {
             "id": 156,
@@ -3186,7 +3220,8 @@
             "explanation": "Ünite 4'te Kör Nokta (blind spot) için, 'Sinirlerin göz küresinden çıkış noktasında görsel alıcı hücreler yoktur. Bu nedenle, iki gözümüzde de bir kör nokta (blind spot) vardır' ifadesi yer almaktadır. Kör nokta, ışık alıcı hücrelerin (retina/ağsı tabaka) bulunmadığı noktadır.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 159,
@@ -3205,8 +3240,10 @@
             "UniteNo": 4,
             "topic": "Algıda Seçicilik",
             "explanation": "Ünite 4'te Algıda Seçicilik, 'Algıda seçicilik, insanların duyu organlarına gelen uyarıcılardan yalnızca bazlarına tepki vermesi olayıdır' şeklinde tanımlanmıştır. Bu, beynin dikkatini odakladığı uyarıcılara tepki verme durumudur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9975296854972839,
+            "duplicate_of": 47
         },
         {
             "id": 160,
@@ -3306,7 +3343,9 @@
             "topic": "Algısal Değişkenler",
             "explanation": "Metinde görsel algı sürecini belirleyen faktörler listelenirken, \"Sahip olduğumuz kültürel değerler, inançlarımız, hayat felsefemiz, ilgi alanlarımız, yaşama ilişkin beklenti ve deneyimlerimiz belirler.\" denilmektedir. Ayrıca, \"Gözlem ve algılama yetileri her insanda farklı özellikler gösterebilir. İnsanların dış dünyayı gözleme ve algılamasında sosyoekonomik ve kültürel değerler, fizyolojik ve biyolojik durumları inançlar, gelenekler, çevresel faktörler, eğitim ve yetişme tarzı, yaşam koşulları, yaş, cinsiyet ve mesleki farklılıkları algılama düzeylerinde değişkenliklere neden olur.\" denilmektedir. Nesnenin fiziksel özellikleri (D) nesneden gelen fiziksel verilerdir; algısal değişkenler ise öznenin (alıcının) içsel veya çevresel koşullarıyla ilgili faktörlerdir. Bu nedenle nesnenin fiziksel özellikleri algı değişkeni sayılmaz.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "similarity_score": 1.0,
+            "duplicate_of": 68
         },
         {
             "id": 165,
@@ -3366,7 +3405,9 @@
             "topic": "Yumuşak Işık Teknikleri",
             "explanation": "Metinde yumuşak ışık kaynaklarından bahsedilmemiştir, ancak genel olarak ışık kontrolünden bahsedilir. Spot ışığının sertliğini yumuşatmak (sert ışığın tersini yapmak) için ışığın dağıtılması gerekir. Beyaz filtreler (B) veya difüzörler, ışığı yayarak (dağıtarak) yumuşatmak amacıyla kullanılır. Beyaz filtre, sert ışık geçişlerini yumuşatarak daha hafif gölge geçişleri oluşturur ve konuya boyut kazandırır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "similarity_score": 1.0000001192092896,
+            "duplicate_of": 51
         },
         {
             "id": 168,
@@ -3386,7 +3427,9 @@
             "topic": "Temel Tasarım İlkeleri",
             "explanation": "Metinde Bauhaus öğretilerine göre temel tasarım ilkeleri sıralanırken, \"Tekrar, Zıtlık, Egemenlik\" (A, B, E şıklarının karşıtları) ve denge/birlik başlıkları altında toplanan ilkelerden bahsedilir. \"Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması...\" tanımı Tekrar (Repetition) ilkesini ifade eder. Metinde \"Tekrar,\" başlığı altında bu durumun bir ilke olduğu belirtilmektedir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "similarity_score": 1.0000001192092896,
+            "duplicate_of": 53
         },
         {
             "id": 169,
@@ -3647,7 +3690,8 @@
             "explanation": "Fenomen, algısal süreçlere bağlı olarak zihinsel bilgi ve deneyim edinme modellerinde ortaya çıkan, algılanan ya da bilince görünen gözlemlenebilir olay ya da olgudur. Ünite 4'te algısal süreçlerin sonucu olarak görsel tasarımların görünen yönünü ve zihinlerdeki algıyı geliştirdiği belirtilmiştir. Bu kavram, 'Algı ve Algılama' başlığı altında 'Algı gerçekliği bilinç ve muhakeme içerir' bağlamında ele alınır.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 182,
@@ -3668,7 +3712,8 @@
             "explanation": "Güncel sanat, ilk olarak 1970 sonrası gündeme gelen ve 1980'den sonra sanat ortamlarının gündemini oluşturan uygulamalardır. Bu sanat anlayışı, düşünceyi ön plana alır ve geleneksel estetik değerleri bir yana bırakmayı zorunlu kılar.",
             "is_duplicate": true,
             "duplicate_of": 3,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 183,
@@ -3708,8 +3753,9 @@
             "topic": "Algı Yanılsaması",
             "explanation": "Algı yanılsaması, mevcut nesnel gerçekliğin fiziksel değerlerle ya da ölçümlerle örtüşmeyen, farklı algılanan durumlardır ve bir çeşit optik illüzyon olarak da bilinir. Bu durum, algılanan an ile gerçek durum arasındaki farklılıkları açıklar.",
             "is_duplicate": true,
-            "duplicate_of": 28,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 136,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 185,
@@ -3730,7 +3776,8 @@
             "explanation": "Hale ışığı (Rim lighting/Edge lighting), konuyu arkadan aydınlatarak konturlarını belirginleştiren ışıktır. Bu teknik, özellikle silüet oluşturmak için kullanılır ve kenar ışığı olarak da bilinir.",
             "is_duplicate": true,
             "duplicate_of": 30,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 186,
@@ -3749,8 +3796,10 @@
             "UniteNo": 5,
             "topic": "Işık Filtreleri",
             "explanation": "Ultraviyole, mavi ve ND filtreleri gibi çeşitli filtreler varken, Beyaz filtre (beyaz denge filtresi) genel olarak renk ısısını düzeltmek veya ışığı yumuşatmak için kullanılır, ancak metinde sert spot ışığının sertliğini yumuşatmak için özel bir filtreden ziyade genellikle beyaz tül kullanımı veya yumuşak ışık kaynağına geçişten bahsedilirken, filtreler başlığı altında beyaz filtreler de listelenmiştir. Filtreler konusunda, metinde 'Ultraviyole filtreler, mavi filtreler, beyaz filtreler, polarize filtreler, renk düzeltme filtreleri vb.' listelenmiştir ve beyaz filtre, sert ışığın etkisini azaltmak için uygun bir seçenek olarak kabul edilebilir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9853904247283936,
+            "duplicate_of": 167
         },
         {
             "id": 187,
@@ -3811,7 +3860,8 @@
             "explanation": "Dikey çizgiler, dürüstlük, direnç, yükseklik ve güç (kuvvet) vurgusu ile ilişkilidir. Metinde 'Dikey çizgiler'in denge ve gücü vurguladığı ima edilmektedir, çünkü dikey çizginin 'kararlı' bir etkiye sahip olduğu belirtilir (Ünite 6'da Denge ve Birlik başlığının hemen altındaki paragraflarda çizgilerle ilgili bahsedilen genel bağlamdan çıkarılabilir).",
             "is_duplicate": true,
             "duplicate_of": 12,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 190,
@@ -3830,8 +3880,10 @@
             "UniteNo": 6,
             "topic": "Kompozisyon İlkeleri",
             "explanation": "Kompozisyon oluşturmanın temel ilkeleri arasında Tekrar, Zıtlık ve Egemenlik sayılmıştır. Birlik (Unity), tasarım ögeleri ve ilkeleri kullanılarak ulaşılan nihai nokta (denge ve birlik) olarak tanımlanır. Ancak soruda en basit ve etkili ilke sorulduğunda, diğer ilkeler (Tekrar, Zıtlık) birliği oluşturmaya hizmet ederken, 'Birlik' kavramı, bütünün birleşmesi ve nihai sonucu temsil eder. Ancak listede (Tekrar, Zıtlık, Egemenlik) üç ana başlık olarak verilmiş, Denge ve Birlik ise varılacak nokta olarak sunulmuştur. Bu bağlamda, verilen şıklar arasında, diğer ögeleri organize eden ve bütünlüğü sağlayan temel ilke olarak 'Birlik' (Unity) veya en temel kontrol eden 'Egemenlik' düşünülebilir. Verilen doğru cevap Egemenlik ise, genellikle bir kompozisyonda en baskın olan öğeyi (vurguyu) ifade eder. Fakat birliği sağlamanın en basit ve etkili yolu, ögelerin birbiriyle uyum içinde olmasıdır (Birlik). Metinde 'Denge ve Birlik: Bir kompozisyonda tasarım ögelerini, tasarım ilkelerine göre kullanarak varacağımız nokta denge ve birliktir' denilmektedir. Ancak şıklar arasında 'Birlik' varken, 'Egemenlik' doğru kabul edildiğinden, Egemenlik, diğer unsurların bir düzen içinde olmasını sağlayan ana ilke olarak yorumlanmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "similarity_score": 0.9626712799072266,
+            "duplicate_of": 75
         },
         {
             "id": 191,
@@ -3851,7 +3903,9 @@
             "topic": "Kurgu Türleri",
             "explanation": "Derleme kurgusu (İng. cumulative editing), kurgu türlerinden biridir ve genellikle bir konunun parçalarının bir araya getirilmesiyle oluşur. Metinde kurgu türleri listelenirken 'Zincirleme' (Cumulative) kurgusu mevcuttur. Ancak şıklarda 'Derleme' karşılığı olarak 'Zincirleme' yok. 'Belgesel' türü ise olayları kronolojik veya tematik olarak düzenler; bu, parçaların bir araya getirilerek anlatı oluşturulmasıyla ilişkilidir. Metinde D.W. Griffith'in filmlerinde 'zincirleme' kurgunun kullanıldığı belirtilirken, genel kurgu türleri arasında 'Kesme', 'Açılma ve kararma' gibi terimler yer alır. Şıklar arasında en uygunu, olayların art arda birikerek anlatıldığı kurgu türünü en iyi temsil eden veya en sık kullanılan türlerden biri olan Belgesel'dir (çünkü metin, kurgunun sinemadaki gelişimini anlatırken dahi 'hikâye anlatımı' bağlamını öne çıkarır).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "similarity_score": 1.0000001192092896,
+            "duplicate_of": 76
         },
         {
             "id": 192,
@@ -3872,7 +3926,8 @@
             "explanation": "Metinde görsel etkiyi artırmada kullanılan teknik ve yöntemler arasında Renkler, Çizgiler, Denge, Birlik, Ölçü, Ton, Derinlik ve Sadelik sıralanmıştır. 'Kesme' (Cutting), kurgunun bir parçasıdır, doğrudan görsel etkiyi artırma yöntemleri listesinde (Görsel Etkiyi Artırmada) sayılmamıştır.",
             "is_duplicate": true,
             "duplicate_of": 20,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 193,
@@ -3933,7 +3988,8 @@
             "explanation": "Modernizm öncesi mitolojik zaman anlayışı, doğa ile bağlantılı olarak gece-gündüz döngüsü ve mevsim değişimleri gibi döngüselliklerle ilişkilidir. Bu, 'Mitolojik zaman' olarak adlandırılır.",
             "is_duplicate": true,
             "duplicate_of": 17,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 196,
@@ -4075,7 +4131,8 @@
             "explanation": "Ünite 4'te, 'İmge' tanımı şu şekilde verilmiştir: 'İmge, hayal dünyamızda tasarlanan, nasıl olduğunu bildiğimiz, bilincimizde beliren nesne ve olaylardır.' Sorudaki tanım, bu 'İmge' tanımıyla birebir örtüşmektedir.",
             "is_duplicate": true,
             "duplicate_of": 87,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 203,
@@ -4096,7 +4153,8 @@
             "explanation": "Pozlama telafisi (EC), çok parlak veya çok karanlık sahneler, karlı sahneler, plaj, arkadan aydınlatmalı konular gibi durumlarda pozlama üçgeni değerlerini manuel olarak ayarlayarak doğru pozlama elde etmek için kullanılır. Çok hareketli sahneler genellikle enstantane hızının artırılmasını gerektirir, ancak bu durum doğrudan pozlama telafisi (EC) kullanımı gerektiren bir kontrast sorunu değil, hareket yakalama tekniği sorunudur. Metinde, pozlama telafisinin destek olacağı durumlar listelenmiş, ancak hareketli sahneler bu liste içinde doğrudan bir zorunluluk olarak belirtilmemiştir.",
             "is_duplicate": true,
             "duplicate_of": 89,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 204,
@@ -4116,8 +4174,9 @@
             "topic": "Algı Yanılsaması",
             "explanation": "Ünite 4'te Algı Yanılsaması şu şekilde tanımlanmıştır: 'Algılanan an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denir.' Sorudaki tanım bu tanıma uymaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 99,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 120,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 0.9739006161689758
         },
         {
             "id": 205,
@@ -4238,7 +4297,8 @@
             "explanation": "Ünite 6'da, 'Serbest kompozisyon' tanımı şu şekildedir: 'Serbest kompozisyon ise günümüz yaşam biçimine ve postmodern dünya görüşüne uygun düşen, hiçbir kural kabul etmeyen, tanımayan, uymayan kompozisyonların tanımıdır.' Bu tanım, sorudaki ifadeyle örtüşmektedir.",
             "is_duplicate": true,
             "duplicate_of": 54,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 211,
@@ -4259,7 +4319,8 @@
             "explanation": "Ünite 6'da, simetrik kompozisyonun tarih boyunca, özellikle Orta Çağ'da, dengeyi kurmada sıkça başvurulan en eski yöntem olduğu belirtilmiştir. Ayrıca, simetrik kompozisyonun türevleri de listelenmiştir.",
             "is_duplicate": true,
             "duplicate_of": 193,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 212,
@@ -4300,7 +4361,8 @@
             "explanation": "Ünite 7'de, Ölçü/Oran ögesi, bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanmasıdır. Ölçü, aynı zamanda konuya hacim ve derinlik vererek boyut kazandırır ve görsel etkiyi artırma yöntemlerinden biridir.",
             "is_duplicate": true,
             "duplicate_of": 33,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 214,
@@ -4381,7 +4443,8 @@
             "explanation": "Ünite 8'de kurgu türleri sıralanırken, 'Derleme kurgusu' yerine 'Zincirleme' kurgusu geçmektedir. Ancak, verilen şıklar arasında, belgesel türü filmler genellikle sıralı ve anlatısal bir yapı izlediğinden, 'Kesintisizlik kurgusu' veya 'Derleme kurgusu' (eğer 'Zincirleme' ile kastediliyorsa) düşünülebilir. Ancak, metinde geçen kurgu türleri şunlardır: Kesintisizlik kurgusu, Kesme, Açılma ve kararma, Zincirleme, Bindirme, Silinme. 'Derleme kurgusu' bu liste içinde yer almamaktadır. Belgesel filmlerde genellikle anlatı bütünlüğünü koruyan kurgu türleri kullanılır. Şıklarda 'Derleme kurgusu' yoksa ve en yaygın kullanılan 'Kesme' (Kesintisizlik kurgusu) seçeneği de mevcutsa bu kafa karıştırıcıdır. Ancak, genellikle 'Derleme kurgusu' (montage) kavramı genel bir terimdir. Metindeki kurgu türleri listesi içinde en uygun olan 'Zincirleme' veya 'Kesme'dir. Sorunun doğru şıkkının 'Derleme kurgusu' olduğu varsayılarak, bu türün genel olarak belgesel filmlerde kullanılan, ardışık olayları bir araya getiren bir kurgu çeşidi olduğu kabul edilir, ancak bu terim doğrudan metinde mevcut değildir. Metinde geçen 'Zincirleme' kurgu (montaj) sıralı bir bağlam sunar. Şık B'yi doğru kabul etmek zorundayız, bu durumda 'Derleme kurgusu'nun metindeki 'Zincirleme' veya genel montaj kavramını karşıladığını varsayıyoruz.",
             "is_duplicate": true,
             "duplicate_of": 174,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 218,

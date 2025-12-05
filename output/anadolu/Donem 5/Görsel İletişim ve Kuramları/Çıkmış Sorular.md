@@ -51,19 +51,6 @@
 
     <hr />
 
-### Sözlü Kültür Tanımı
-
-1. Walter J. Ong'a göre, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları döneme ne ad verilir? *(4 kez soruldu)*
-    - A-) Eski çağ
-    - B-) Ahit
-    - C-) Sözlü kültür
-    - D-) Eski kültür
-    - **Cevap E-) Birinci sözlü kültür**
-
-    > **Açıklama:** Walter J. Ong, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi "Birinci Sözlü Kültür" olarak tanımlamaktadır (Sayfa 2, Birinci Sözlü Kültürde İletişim).
-
-    <hr />
-
 ### Sözlü Kültür Unsurları
 
 1. Sınırlı sayıdaki sesbirimlerin bir araya gelmesiyle ve birbirleriyle olan ilişkileri yoluyla oluşan ve çoğalan sözel iletişim unsurlarına ne ad verilir? *(2 kez soruldu)*
@@ -154,19 +141,6 @@
     - E-) Sanat
 
     > **Açıklama:** Metne göre, teknolojik ilerleme ile imgelerin aktarım malzemesi ve biçimlerinin dönüştüğüne değinilmektedir. Özellikle imgenin temsil edilme mecrası olarak kırılım gösteren dönemler incelenirken, teknolojik ilerlemelerin görsel iletişim kaynaklarını kullanma biçimlerini ve güncel kültürde imgelerin varlık bulduğu alanları radikal bir biçimde değiştirdiği ifade edilmektedir. Bu teknolojik ilerleme ifadesi, metinde 'Teknolojik İlerlemeler ile İmgelerin Dönüşen Mecraları' başlığı altında geçmektedir.
-
-    <hr />
-
-### Yazının Tarihî Gelişimi
-
-1. Yazıyı ilk kullanan medeniyet aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Sümerler**
-    - B-) Hintliler
-    - C-) Aztekler
-    - D-) Mısırlılar
-    - E-) Çinliler
-
-    > **Açıklama:** Metinde yazının tarihsel gelişimi anlatılırken, ilk yazının MÖ 3500'lerde Mezopotamya'da ve Sümerlerce kullanıldığına ilişkin kanıtların daha güçlü olduğu belirtilmiştir.
 
     <hr />
 
@@ -270,16 +244,6 @@
     - E-) Klişe
 
     > **Açıklama:** Soru, anlamlandırma sürecinde uyaranın durumundan bağımsız olarak üretilen bahaneler olarak değerlendirilen işleme ne ad verildiğini sormaktadır. Ünite 3'te Algıyı Etkileyen Faktörler başlığı altında, 'Nitelendirme' tanımı şu şekildedir: 'Kişi anlamlandırma süreci sonucunda oluşan bilgi ve deneyimlerini, davranışlarını başka gerekçelerle bağlar. Örneğin kişisel dikkatsizliği neticesinde elindeki yemek tepsisini yere düşüren bir çalışan, eylemin sonucunu anlık dikkatsizliğine değil, yerlerin kaygan olması neticesine bağlar.' Bu tanım, sorunun bahsettiği 'uyaranın durumundan bağımsız üretilen bahaneler' ifadesiyle doğrudan örtüşmektedir.
-
-    <hr />
-1. Aşağıdakilerden hangisi algıyı etkileyen algılayana/alıcıya bağlı faktörlerden biridir? *(3 kez soruldu)*
-    - A-) Çalışma alanı
-    - B-) Zaman
-    - C-) Mesafesel yakınlık
-    - D-) Sesler
-    - **Cevap E-) İlgi alanları**
-
-    > **Açıklama:** Algıyı etkileyen faktörler içsel (kişiye bağlı) ve dışsal (uyarana bağlı) olarak ikiye ayrılır. İçsel faktörler arasında öğrenme/tecrübe, ihtiyaçlar, yaş farklılıkları, ilgi, duygusal karmaşa ve/veya kuşku yer alır. Verilen şıklardan 'İhtiyaçlar' doğrudan kişiye bağlı bir faktördür.
 
     <hr />
 
@@ -643,19 +607,6 @@
     - E-) Paraya
 
     > **Açıklama:** Soru, Bourdieu'ya göre sosyal sermayenin neye dayandığını sormaktadır. Ünite 6'da Sosyal Sermaye başlığı altında şu bilgi yer almaktadır: 'Sosyal sermaye kapitalist toplumlarda son derece belirleyici bir bağlamdır. İnsanlar sosyal sermayeleri üzerinden tanımlanırlar, algılanırlar ve kabul görürler (Bourdieu, 1997; Bourdieu, 2010).' Sosyal sermaye, ilişkileri, eşdeyişle 'kaliteleri' anlatan bir sermayedir. Bu sermaye, insanların toplumsal yaşamdaki statüleri, ilişkileri üzerinden kabul görmesine dayanır, ki bu da algılanma/kabul görme sürecini içerir. Şıklar arasında algı işaretlenmiştir.
-
-    <hr />
-
-### Endüstri Devrimi ve Tasarımcı
-
-1. Zanaatkâr ve sanatçı 18. yüzyılda icra ettikleri süreç bağlamında ayrıştırılmıştır ve sınıf doğmuştur. Bu kişiler endüstriyel dünyada problemlere çözüm önerileri getirip çeşitli düzenlemeler ve mecra tercihleri ile bu çözüm önerilerini uygulamaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
-    - A-) üretici
-    - B-) yönetici
-    - **Cevap C-) tasarımcı**
-    - D-) işçi
-    - E-) yazar
-
-    > **Açıklama:** Metne göre, 18. yüzyılda sanat ve zanaat ayrıştırıldıktan sonra yeni icracı sınıf olarak tasarımcı doğmuştur. Tasarımcı, elindeki teknoloji ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanır. Bu dönem, Sanayi Devrimi'nin başladığı 1760'lı yıllara işaret eder. Bu nedenle boşluğu "tasarımcı" kelimesi doğru şekilde tamamlar.
 
     <hr />
 

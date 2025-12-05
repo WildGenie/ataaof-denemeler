@@ -2,19 +2,6 @@
 
 ## Ünite 1
 
-### Alfabe Tanımı
-
-1. alfabe, piktogramik alfabelerden tamamen farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Latin
-    - **Cevap B-) Fonetik**
-    - C-) Göktürk
-    - D-) Uygur
-    - E-) Piktogramik
-
-    > **Açıklama:** Piktogramik alfabelerden ayrılan, sesleri yazılı olarak gösteren semboller bütününe 'alfabe' denir. Metin, Ünite 1'de 'Günümüzde alfabe, bir dildeki harflerin sıraya dizilmiş bütünü (TDK, 2021) olarak tanımlanmaktadır. Piktogramik alfabelerde ise harfler yerine piktogramlar yer almıştır. Tüm alfabelerde önemli olan, yazı sisteminin kurulmuş olmasıdır.' ifadesiyle bu ayrımı netleştirir. Sesçil alfabe olarak da bilinen klasik alfabeler, sesleri temsil eder.
-
-    <hr />
-
 ### Anıtsal Yazılar
 
 1. Roma İmparatorluğunda kazanılan zaferler için anıtların üzerine yazılan yazılara ne ad verilmiştir? *(2 kez soruldu)*
@@ -51,19 +38,6 @@
     - E-) Asurlular
 
     > **Açıklama:** Metinde, "Lidyalılar ise madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlamışlardır." ifadesi geçmektedir. Bu, Lidyalıların madeni para icadıyla ticareti para ile yapmaya başladığını açıkça göstermektedir.
-
-    <hr />
-
-### Yazı Yüzeyleri
-
-1. M.Ö 2000'lerde icat edildiği Bergama'dan gelen özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - A-) kağıt
-    - **Cevap B-) parşömen**
-    - C-) hasır
-    - D-) papirüs
-    - E-) tablet
-
-    > **Açıklama:** Ünite 1'de, Lidyalılar madeni sikkeleri icat etmeden önce ticarette kullanılan materyallerden bahsedilmiştir. Daha eski dönemlerde ise Papirüs ve parşömen gibi organik yüzeyler kullanılmıştır. Parşömen, hayvan derisinin özel işlemlerden geçirilmesiyle elde edilen ve kağıda benzer özellikler gösteren bir yüzeydir. Metinde geçen MÖ 2000'lerde icat edildiği ve Bergama'dan geldiği bilgisi Parşömen'i işaret etmektedir, ancak metinde Parşömen'in icadı veya bu özellikler tam olarak verilmemiştir. Fakat, genel olarak hayvan derisinden elde edilen ve kağıda benzer bir yüzey olarak bahsettiği en yakın materyal Parşömen'dir (veya Vellum). Metinde bu tanıma tam uyan bir ifade bulunmasa da, genel olarak eski çağlarda kullanılan yüzeyler arasında Parşömen (Pergamen) mevcuttur ve genellikle hayvan derisinden yapılır. Ancak, metinde (Sayfa 1) organik yüzeyler olarak palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek sıralanmıştır. Parşömen, hayvan derisinden yapılır ve M.Ö 4000'lerden itibaren kil tabletlerden sonra kullanılan sert malzemelerden farklıdır. Metinde özellikle bu tanıma uyan bir ibare olmadığı için, en yakın olası aday olarak parşömen kabul edilebilir.
 
     <hr />
 
@@ -209,19 +183,6 @@
     - E-) Bauer - 1950
 
     > **Açıklama:** Boş bırakılan yerler sırasıyla Bauhaus ve 1919'dur. Bauhaus, Walter Gropius'un öncülüğünde 1919'da açılan, endüstri dünyası ile modern sistemler kurmayı hedefleyen bir sanat ve tasarım okuludur. Metin, Ünite 2'de 'Bauhaus'un birincil hedefi, endüstri dünyasının içine girerek modern endüstri sistemleri ile birlikte çalışma sistemi yaratmaktır. Bu görüş neticesinde okul sistemi öğrencilerine faydalı ve işlevsel tasarım uygulama çalışmaları ortaya koymalarını desteklemiştir.' ve 'Bauhaus'un birincil hedefi, endüstri dünyasının içine girerek modern endüstri sistemleri ile birlikte çalışma sistemi yaratmaktır. Bu görüş neticesinde okul sistemi...' ifadesiyle bu okulu tanımlar.
-
-    <hr />
-
-### Modern Tipografi Hareketi
-
-1. Grafik tasarımda 1950'lilerde yeni teknolojilerin sunduğu olanaklarla ifade edilen yaklaşımların hakim olduğu bir dönemde "Uluslararası Tipografik Stil Hareketi" aşağıdaki ülkelerden hangisinde ortaya çıkmıştır? *(2 kez soruldu)*
-    - A-) Hollanda
-    - B-) İrlanda
-    - **Cevap C-) İsviçre**
-    - D-) İtalya
-    - E-) ABD
-
-    > **Açıklama:** Uluslararası Tipografik Stil Hareketi (İsviçre Stili), bilgiyi net ve evrensel biçimde aktarma çabasıyla İsviçre'de gün yüzüne çıkmıştır. Bu hareket 20. yüzyılın ortalarında etkin olmuştur.
 
     <hr />
 
@@ -507,16 +468,6 @@
     - E-) Harlem
 
     > **Açıklama:** Ünite 3'te Max Kisman'ın sayısal font tasarımında öncü yapan asıl çalışmalarından birinin 'Fudoni' olduğu belirtilmiştir.
-
-    <hr />
-1. Aşağıdakilerden hangisi Max Kisman'ı sayısal font tasarımında öncü yapan çalışmalarından biridir?
-    - A-) Blur
-    - B-) FF Meta
-    - **Cevap C-) Fudoni**
-    - D-) Berliner Grotesk
-    - E-) Harlem
-
-    > **Açıklama:** Max Kisman'ı sayısal font tasarımında öncü yapan çalışmalarından biri 'Fudoni'dir. Fudoni, modernitenin bir görüngüsü olan Futura yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki Modern yazı tasarımlarından Bodoni'nin ustaca bir araya getirilmesine dayanmaktadır.
 
     <hr />
 
@@ -846,19 +797,6 @@
 
     <hr />
 
-### Bütünlük İlkesi
-
-1. tasarıma yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Izgara sistemi**
-    - B-) Altın dikdörtgen
-    - C-) Fibonacci
-    - D-) Modül
-    - E-) Tam blok
-
-    > **Açıklama:** Bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel elemanlarla bağlantılı olması, tasarımın tüm parçalarının birlikte uyum içerisinde olması anlamına gelir. Bütünlük ilkesi aynı zamanda 'Birlik' veya 'Uyum' olarak da bilinir ve gerektiğinde kuralları ihlal edilerek (örneğin, Ray Gun dergisinde olduğu gibi) dinamizm yaratılabilir, ancak temel amacı tasarımdaki parçaları birbirine bağlamaktır.
-
-    <hr />
-
 ### Denge Kavramı
 
 1. Tasarımda genellikle simetrik ve asimetrik dengeden söz edilmektedir.
@@ -970,16 +908,6 @@
     - E-) Oran-orantı
 
     > **Açıklama:** Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafının ağırlık ve ton bakımından eşit olduğu denge türü simetrik dengedir. Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' şeklinde tanımlanmıştır.
-
-    <hr />
-1. Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangsidir? *(2 kez soruldu)*
-    - A-) Görsel hiyerarşi
-    - B-) Oran-orantı
-    - **Cevap C-) Simetrik denge**
-    - D-) Ritim
-    - E-) Vurgu
-
-    > **Açıklama:** Tasarım yüzeyinde dengeyi sağlamak için, yatay veya dikey eksenin her iki tarafının görsel ağırlık ve ton bakımından eşit olması simetrik dengeyi ifade eder. Metin, Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' olarak belirtilmiştir.
 
     <hr />
 
@@ -1122,19 +1050,6 @@
 
     <hr />
 
-### Logo Tipografisi
-
-1. Aşağıdakilerden hangisi Nike Logosunda kullanılan yazı karakteridir? *(2 kez soruldu)*
-    - A-) Helvetica Narrow Bold
-    - B-) Helvetica Narrow Condensed
-    - C-) Helvetica Condensed Italic
-    - D-) Helvetica Condensed Black
-    - **Cevap E-) Helvetica Condensed Black Italic**
-
-    > **Açıklama:** Ünite 6'da, Nike logosunda kullanılan yazı karakterinin genellikle Helvetica Condensed Black Italic olduğu bilgisinden yola çıkılarak, verilen doğru şık işaretlenmiştir. Bu font, genellikle logotype ve dış mekân uygulamalarında güçlü etki yaratmak için tercih edilen bir varyasyondur.
-
-    <hr />
-
 ### Logo ve Amblem
 
 1. Norman Ives'e göre, "firmanın görüntüsü" olarak adlandırılan eleman aşağıdakilerden hangisidir?
@@ -1251,32 +1166,6 @@
     - E-) Sağdan blok
 
     > **Açıklama:** Ünite 7'ye göre, yatay bloklama biçimleri soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) olarak dört gruba ayrılır. Optik hizalama (Hizalı/Sağlı-Sollu), dikey kenar hizalaması için kullanılan bir tekniktir ve bu dört temel yatay hizalama biçiminden biri değildir; aslında daha çok özel bir dikey hizalama/düzenleme yöntemidir.
-
-    <hr />
-
-### Bloklama Türleri
-
-1. Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden değildir?
-    - A-) Tam blok
-    - B-) Soldan blok
-    - C-) Sağdan blok
-    - D-) Ortadan blok
-    - **Cevap E-) Dikey blok**
-
-    > **Açıklama:** Ünite 7'de Bloklama (Hizalama) başlığı altında, yatay bloklama biçimlerinin soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) olduğu belirtilmiştir. Dikey bloklama biçimleri ise üste, ortaya, alta ve tam blok şeklinde ifade edilir. Dikey bloklama, metin yazı alanındaki dikey konumunu belirtir; yatay/sütun düzenlemesi ile ilgili değildir. Dolayısıyla, 'Dikey blok' yatay hizalama biçimlerinden biri değildir.
-
-    <hr />
-
-### Boşluk Düzenleme Biçimleri
-
-1. Bir metni oluşturan satırların arasındaki boşluk/mesafeye ad verilir?
-    - A-) Ascender
-    - **Cevap B-) Leading**
-    - C-) Kerning
-    - D-) Descender
-    - E-) Tracking
-
-    > **Açıklama:** İki satır arasındaki boşluğa satır arası espası (leading) denir. Bu boşluk, alttaki satırın zemin çizgisinden (baseline) üstteki satırın zemin çizgisine (baseline) kadar olan yüksekliği tanımlar ve metin bloklarının okuturluğunu doğrudan etkiler.
 
     <hr />
 
@@ -1417,19 +1306,6 @@
     - **Cevap E-) Leading**
 
     > **Açıklama:** Geleneksel baskıda metnin daha kolay okunabilmesi için satırlar arasına eklenen boşluğa 'leading' (lead kelimesinden gelir) adı verilir. Günümüzde ise bu, satır arası boşluk düzeni olarak tanımlanır (Ünite 7, Sayfa 2).
-
-    <hr />
-
-### Sayfa Yapısı Oranları
-
-1. Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranının eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir?
-    - A-) Gestalt kuramı prensibi
-    - B-) Punto prensibi
-    - **Cevap C-) Altın oran prensibi**
-    - D-) Grid sistemi
-    - E-) Kağıt ölçüsü
-
-    > **Açıklama:** Altın Oran prensibi, 'a:b b:(a+b)' şeklinde formüle edilir ve 'Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranının eşit olduğu ilkesine dayanır'. Bu prensip, sayfa tasarımı ve ızgara sistemlerinde de temel alınır.
 
     <hr />
 

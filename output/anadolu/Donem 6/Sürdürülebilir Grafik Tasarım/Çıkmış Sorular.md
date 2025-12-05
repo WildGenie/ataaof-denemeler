@@ -15,19 +15,6 @@
 
     <hr />
 
-### Ekolojik Değişim Süreci
-
-1. -----, Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir.<br />Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) Reaksiyon
-    - B-) Etkileşim
-    - **Cevap C-) Ardıllık**
-    - D-) İnovasyon
-    - E-) Metafor
-
-    > **Açıklama:** Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecine 'Ardıllık' (Succession) denir. Ünite 1'de Ekolojik Faktörler bağlamında, ekolojik faktörlerin canlı türleri üzerinde dinamik değişikliklere neden olduğundan bahsedilir. Ardıllık bu sıralı değişimi ifade eder.
-
-    <hr />
-
 ### Ekolojik Faktörler
 
 1. İşlevsel bir birim olarak etkileşim hâlinde olan bitki, hayvan ve mikroorganizma toplulukları ve bunların cansız çevrelerinden oluşan doğal ve dinamik yapılara ne ad verilir?
@@ -109,16 +96,6 @@
     > **Açıklama:** Ünite 1'de Yarı Doğal ve Yapay Ekosistemler başlığı altında, bu ekosistemlerin insan müdahalesi sonucu oluştuğu belirtilir. Soruda verilen A seçeneğindeki 'Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir' ifadesi, doğal ekosistemlerin özelliklerine atıfta bulunsa da, yapay/yarı doğal ekosistemlerin insan desteği olmadan dengeli süreklilik gösteremeyeceği bağlamında, insan müdahalesi kalktığında ekolojik dengeye dönme sürecinin (ardıllık) gerçekleşeceği ima edilir. Diğer seçenekler (B, C, D, E) genellikle doğal ekosistemlerin özellikleridir (örneğin, insan desteği olmaksızın döngülerin gerçekleşmesi D seçeneği). Yarı doğal ekosistemler insan desteği olmaksızın dengeli süreklilik göstermezler.
 
     <hr />
-1. Aşağıdakilerden hangisi yapay/yarı doğal ekosistemlerin temel yapısını oluşturan ögelerden biridür?
-    - A-) Çok sayıda canlı türü ve yeterli ekolojik faktörleri içerir.
-    - B-) Genetik çeşitlilik çok yüksektir.
-    - C-) Tüm enerji ve biyolojik döngüler insan desteği olmaksızın gerçekleşir.
-    - D-) Canlılar arası besin zincirleri uzun ve karmaşıktır.
-    - **Cevap E-) Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir.**
-
-    > **Açıklama:** Ünite 1'de Yarı Doğal ve Yapay Ekosistemler başlığı altında, bu ekosistemlerin insan müdahalesi sonucu oluştuğu belirtilir. Yarı doğal ekosistemler (örneğin tarım alanları), insan desteği olmaksızın dengeli bir yapıda süreklilik gösteremezler. Bu bağlamda, insan etkisi kalktıktan sonra ekolojik ardıllık (doğal döngülere dönüş) sürecinin yavaşça gerçekleşeceği beklenir, bu da onları doğal sistemlerden ayırır. Diğer seçenekler (A, B, C, D) doğal ekosistemlerin özellikleridir.
-
-    <hr />
 
 ## Ünite 2
 
@@ -132,16 +109,6 @@
     - **Cevap E-) Junk sanatı**
 
     > **Açıklama:** Ünite 2'de Görsel Sanatlarda Sürdürülebilirlik başlığı altında, 'Asamblaj' tekniği tanımlanırken, Jean Dubuffet'in bu terimi kullanmaya başladığı ve bir form oluşturacak biçimde kullanılmayan objelerin birleştirilerek heykele dönüştürülmesi anlamına geldiği belirtilmiştir. Bu tanım, soruda bahsedilen 3 boyutlu sanat objesinin atık malzemelerle oluşturulması tanımına uymaktadır. Junk Sanatı (E seçeneği), asamblajın atık materyallerle yapılan bir türü olsa da, sorunun tanımı doğrudan 'Asamblaj' tekniğini tanımlamaktadır. Ancak, soruda 'Junk sanatı' şıkkının doğru kabul edilmesi istendiğinden, Asamblajın atık materyallerle yapılan hali Junk Sanatı olarak da adlandırılabileceği ve bu bağlamda doğru kabul edilebileceği belirtilmelidir. (Not: Metinde Asamblaj, 'heykele dönüştürülmesi' olarak tanımlanır; Junk Sanatı, Asamblajın bir alt türüdür ve soruda Junk sanatı doğru kabul edildiği için bu terim tercih edilmiştir.)
-
-    <hr />
-1. 3 boyutlu sanat objesinin, heykelin, görsel sanatlardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) Dekolaj sanatı
-    - B-) Asamblaj sanatı
-    - C-) Akümülasyon sanatı
-    - **Cevap D-) Junk sanatı**
-    - E-) Kolaj sanatı
-
-    > **Açıklama:** Asamblaj sanatı, heykelin üç boyutlu hâli olup, genellikle atık, kullanılmayan objeler veya hurdaların bir araya getirilmesiyle oluşturulur. Ünite 2'de Asamblaj tekniğinin kolajın üç boyutlu hâli olduğu ve heykele dönüştürülmesi anlamına geldiği belirtilmiştir. 'Junk sanatı' terimi, atık materyallerle yapılan çalışmaları kapsar ve Asamblaj ile yakından ilişkilidir; bu bağlamda, hurda/atık kullanımını vurgulayan şık doğru kabul edilmiştir.
 
     <hr />
 
@@ -181,19 +148,6 @@
     - E-) Montaj
 
     > **Açıklama:** Dekolaj, Fransızca 'sökülmek' anlamına gelir ve üst üste katmanlar hâlinde yerleştirilmiş afiş, resim ya da basılı kâğıtların bazı bölümlerinin kesilip çıkarılmasıyla oluşturulur. Wolf Vostell bu tekniğin önemli temsilcilerindendir.
-
-    <hr />
-
-### Montaj Tekniği
-
-1. Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasıdır. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) Akümülasyon
-    - B-) Dekolaj
-    - C-) Kolaj
-    - D-) Asamblaj
-    - **Cevap E-) Montaj**
-
-    > **Açıklama:** Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasına Montaj yöntemi adı verilir (Sayfa 2). Kolaj (birleştirme/yapıştırma), Dekolaj (sökülme), Asamblaj (üç boyutlu kolaj/heykel), Akümülasyon (yığma/biriktirme) diğer tekniklerdir.
 
     <hr />
 
@@ -237,19 +191,6 @@
     <hr />
 
 ## Ünite 3
-
-### Ambalaj Malzemesi Sağlığı
-
-1. Gıda ambalajı kullanımda aşağıdaki malzemelerden hangisi sağlıklıdır? *(3 kez soruldu)*
-    - A-) Kağıt
-    - B-) Plastik
-    - C-) Metal
-    - D-) Ahşap
-    - **Cevap E-) Cam**
-
-    > **Açıklama:** Ünite 3'te Cam başlığı altında, camın yüksek sıcaklıklarda şekillendirilmesiyle elde edildiği ve 'Camın gıda ve ilaç ambalajlarında tercih nedenlerinin başında gelir' denilmiştir, çünkü cam, içine konan ürünün tadını veya kokusunu etkilemez ve kimyasal etkileşime girmez.
-
-    <hr />
 
 ### Geri Dönüşüm Tanımı
 
@@ -494,19 +435,6 @@
 
     <hr />
 
-### Yeşil Tasarım Amaçları
-
-1. Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biridür?
-    - A-) Kaynak tasarrufu için tasarım
-    - B-) Güvenli imha için tasarım
-    - **Cevap C-) En az tüketim için tasarım**
-    - D-) Yeniden kullanım için tasarım
-    - E-) Demontaj için tasarım
-
-    > **Açıklama:** Yeşil tasarım, malzeme veya enerji kullanımını en aza indirme, yeniden kullanımı teşvik etme ve geri dönüştürme gibi yöntemlerle çevresel etkileri azaltmaya yöneliktir. Ürün yaşam döngüsü içinde 'kullanım' aşaması, ürünün kullanım süresi boyunca çevresel etkileri dikkate almayı içerir; bu da 'günde daha az atık çıkarmak' veya 'daha az enerji/malzeme kullanmak' gibi amaçlarla ilişkilidir. Sorudaki 'kullanım' amacı, genel olarak ürünün kullanım süresi boyunca kaynak verimliliğiyle ilgilidir.
-
-    <hr />
-
 ### İleri Dönüşüm (Upcycling)
 
 1. İşlevini yitirmiş kabul edilen her şeyin daha yüksek kaliteye ve estetik değerlere dönüştürülerek yeniden kullanılmasına ne ad verilir?
@@ -571,32 +499,6 @@
     - **Cevap E-) Forma**
 
     > **Açıklama:** Ünite 5'te, çok sayfalı grafik ürünlerin sayfalarını bir arada tutmak için yapılan baskı sonrası işlemlerden bahsedilirken, "Forma" terimi kullanılarak, "Baskı öncesi hazırlık: Çok sayfalı işlerde sayfaların forma düzenine getirilmesi..." ifadesiyle bu kavramın temel birim olduğu anlatılmaktadır. Forma, basılı yayınlarda sayfaların düzenlenmiş ve ciltlenebilir/katlanabilir hale getirilmiş düzenlenmiş halidir (genellikle tek parça kâğıt üzerinde).
-
-    <hr />
-
-### Dijital Dosya Türleri
-
-1. -----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar?
-    - A-) Hibrit
-    - B-) İnkjet
-    - C-) Selefon
-    - **Cevap D-) Raster grafik**
-    - E-) Akordeon
-
-    > **Açıklama:** Boş bırakılan yer, piksellerden oluşan ve fotoğraf gibi ayrıntılı görüntüleri oluşturabilen dijital dosya türünü tanımlamaktadır. Ünite 5'te Dijital Dosya Türleri başlığı altında, bit map (raster) dosyaların, piksellerden oluştuğu ve çok büyük miktarda küçük renkli karelerden meydana geldiği belirtilmiştir. Bu tanım, Bit Map (Raster) dosyaları için geçerlidir.
-
-    <hr />
-
-### Dijital Grafik Dosya Türleri
-
-1. -----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - A-) Hibrit
-    - B-) İnkjet
-    - C-) Selefon
-    - **Cevap D-) Raster grafik**
-    - E-) Akordeon
-
-    > **Açıklama:** Piksellerden oluşan ve fotoğraf gibi ayrıntılı görüntüleri oluşturabilen grafik dosya türlerine Raster grafik denir. Ünite 5'te, dijital grafik ürünlerde dosya türlerinin önemli olduğu belirtilmiş, ancak bu terimin spesifik tanımı Ünite 5 özetinde doğrudan yer almamaktadır. Ancak dijital grafiklerin doğası gereği piksellerle çalıştığı bilgisi (tipik olarak raster grafikler) göz önüne alındığında, bu tanım raster grafiğe uyar.
 
     <hr />
 
@@ -953,15 +855,5 @@
 
     > **Açıklama:** İntihal (TDK: aşırma), bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanmasıdır. Bu, etik dışı bir davranış olarak kabul edilir (Ünite 8).
 
-    <hr />
-
-## Ünite Diğer
-
-1. -----: Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) Etkileşim
-    - B-) Metafor
-    - **Cevap C-) Ardıllık**
-    - D-) İnovasyon
-    - E-) Reaksiyon
     <hr />
 

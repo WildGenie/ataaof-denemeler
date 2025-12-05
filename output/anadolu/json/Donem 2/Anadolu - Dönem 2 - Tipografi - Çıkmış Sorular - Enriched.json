@@ -516,7 +516,8 @@
             "explanation": "Yeni Tipografi ile tek tip bir üslup duygusu gelişmemiştir. Örneğin, Fütürizm ve Dadaizmdeki kaos ve bozulma, De Stijl'deki hassasiyet bir araya gelmiş ve geleneksel tasarım anlayışından bir kurtulma çabası ortaya çıkmıştır. Jan Tschichold, bu akımlardan esinlenerek “Die Neue Typographie\" adlı kitabıyla Yeni Tipografi akımının genel çerçevesini belirlemiştir.",
             "is_duplicate": true,
             "duplicate_of": 10,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 27,
@@ -537,7 +538,8 @@
             "explanation": "Max Kisman'ı sayısal font tasarımında öncü yapan asıl çalışmalarından biri 'Fudoni'dir. Fudoni, modernitenin bir görüngüsü olan ‘Futura' yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki ‘Modern' yazı tasarımlarından ‘Bodoni'nin ustaca bir araya getirilmesine dayanmaktadır.",
             "is_duplicate": true,
             "duplicate_of": 14,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 28,
@@ -658,7 +660,8 @@
             "explanation": "Emigre dergisi, sayısal tipografinin tarihsel bir kaydıdır ve dönemin dijital devriminin belirsizliği içinde sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerini barındırır. Rudy Vanderlans ve Zuzana Licko tarafından tasarlanmıştır. (Ünite 3, Emigre Dergisi bölümü)",
             "is_duplicate": true,
             "duplicate_of": 12,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 34,
@@ -719,7 +722,8 @@
             "explanation": "Bir metni düzenli bir bütün olarak dizebilmek için tüm karakterlerin konumlandırıldığı hayali kılavuz çizgilerin üzerine konumlandırıldığı temel çizgiye 'baseline' (satır çizgisi) denir. Bu çizgi sayesinde tüm harfler aynı hizaya gelir. (Ünite 4, Temel Çizgiler bölümü)",
             "is_duplicate": true,
             "duplicate_of": 18,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 37,
@@ -841,7 +845,8 @@
             "explanation": "Metin, Roma İmparatorluğu'nun kazandığı zaferler için taklar ve geçitler gibi anıtlar yaptırdığını belirtmektedir. Bu anıtların üzerine zarif ve estetik bir yazı biçemi ile anıtsal yazılar yazılmıştır. Bu yazı biçimlerine Roma Kapital veya Trajan Kapital adı verildiği bilgisi verilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 21,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 43,
@@ -882,7 +887,8 @@
             "explanation": "Metin, İbrahim Müteferrika'nın kurduğu matbaada basılan eserlerden bahsetmektedir. Vankulu Lügati'nin iki cilt halinde basılan Arapça sözlük olduğunu ve basılan ilk kitap olduğunu belirtmektedir.",
             "is_duplicate": true,
             "duplicate_of": 2,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 45,
@@ -963,7 +969,8 @@
             "explanation": "Ünite 5'te, Denge başlığı altında, görsel ağırlık, konum ve düzenlemenin ilişkisi ele alınır. Simetrik dengede, tasarım yüzeyinin her iki tarafı ağırlık ve ton bakımından eşit olmalıdır. Asimetrik dengede ise, elemanlar hayali eksenin her iki tarafında eşit olmayan bir şekilde düzenlenir. Bir tarafta hâkim bir şekilde yerleştirme, genellikle asimetrik dengeyi veya ağırlık dağılımını ifade eder. Ancak metin, dengeyi sağlamanın iki yolu olduğunu belirtir: eşdeğer öğelerle (simetrik) veya farklı özelliklere sahip öğelerin düzenlenmesiyle (asimetrik). Sorunun ifadesi (ağırlığın bir tarafa hâkim olması), asimetrik düzenlemelerde ağırlık odaklanmasına atıfta bulunur. Ancak genel olarak denge, görsel ağırlıkların orantılı ve uyumlu düzenlenmesidir. Bu bağlamda en doğru kavram 'Denge'dir.",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9572742581367493
         },
         {
             "id": 49,
@@ -1044,7 +1051,8 @@
             "explanation": "Vektör yazı karakteri oluşturma teknolojileri arasında Adobe tarafından geliştirilen Postscript, Apple tarafından geliştirilen TrueType ve Stanford Üniversitesi tarafından geliştirilen Metafont gösterilmiştir. OpenType da platformlar arası uyumluluk sağlayan bir formattır ancak temel vektör oluşturma teknolojileri PostScript, TrueType ve Metafont olarak belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 34,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 53,
@@ -1105,7 +1113,8 @@
             "explanation": "PostScript, Adobe yazılım firması tarafından geliştirilmiş tanımlama ve baskı denetim dilidir. Bu dil, grafik nesneleri işleyerek ve yazıcıya göndererek sayısal tipografinin film üzerine görüntü oluşturma ve baskı süreçlerinde kilometre taşı olmuştur.",
             "is_duplicate": true,
             "duplicate_of": 16,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 56,
@@ -1206,7 +1215,8 @@
             "explanation": "Paul Renner'ın tasarladığı Futura yazı karakteri, 20. yüzyılın önemli yazı karakterlerindendir ve Yeni Tipografi akımının öncüsü Jan Tschichold'un kitabında da bahsedilmiştir. Ancak burada 'Fütürist Tipografi' başlığı altında 'özgür sözcük' kavramıyla birlikte anılan Fütürizm bağlamında, Futura'nın genellikle Yeni Tipografi ile ilişkilendirilmesi daha yaygındır. Ancak verilen bağlamda, Futura'nın 'Fütürizm' ile ilişkilendirilmesi istenmiş olabilir. Ancak metin 2'de Futura'nın Yeni Tipografi ile ilişkilendirildiği açıkça belirtilmiştir. Soru 9'da Futura'nın 1927'de Paul Renner tarafından tasarlandığı ve 20. yüzyılın etkili tasarımlarından olduğu bilgisi verilmektedir. Metin 2'de Renner'ın 'Futura' fontu Yeni Tipografi döneminin tasarımlarındandır denilmektedir. Sorunun bağlamında Fütürizm akımı ile bir bağlantı kurulmuşsa da, metinde Futura'nın asıl ait olduğu akım Yeni Tipografi'dir. Ancak şıklarda sadece 'Fütürizm' seçeneği varsa, bu akımın etkileşimi nedeniyle tercih edilebilir. Verilen metinlere göre, Futura, Yeni Tipografi akımı ile ilişkilidir. Eğer şıklarda Yeni Tipografi yoksa, Fütürizm'in, Yeni Tipografi üzerindeki etkisi göz önüne alınarak bu seçilebilir. Ancak soru metninde Fütürizm akımı ile ilgili bir çıkarım sorulmadığından, en doğru akım Yeni Tipografi'dir. Şıklarda bu akım olmadığından, Fütürizm, Yeni Tipografi'nin öncülerinden biri olduğu için bu seçeneği değerlendiriyoruz.",
             "is_duplicate": true,
             "duplicate_of": 38,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9996922612190247
         },
         {
             "id": 61,
@@ -1627,7 +1637,8 @@
             "explanation": "Palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek gibi malzemeler, eski çağlarda yazı yüzeyi olarak kullanılan, genellikle organik olan yüzeylerdir. Metin, Ünite 1'de bu malzemelerin 'sıklıkla kullanılmış olan organik yüzeyler' olduğunu belirtir.",
             "is_duplicate": true,
             "duplicate_of": 25,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 82,
@@ -1647,8 +1658,9 @@
             "topic": "Sayısal Font Dilleri",
             "explanation": "PostScript, Adobe yazılım firması tarafından geliştirilmiş bir tanımlama ve baskı denetim dilidir. Bu dil, grafik nesneler gibi işlenen ve yazıcıya gönderilen fontları tanımlar ve sayısal tipografinin gelişiminde önemli bir rol oynamıştır.",
             "is_duplicate": true,
-            "duplicate_of": 16,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 55,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 83,
@@ -1669,7 +1681,8 @@
             "explanation": "Tırnaklar (Serif), karakter çizgisinin bitiminde bulunan küçük çıkıntılardır. Bu çıkıntılar, harflere görsel bir bitiş sağlar ve metin bloklarının okuturluğunu artırdığına inanılmaktadır.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 84,
@@ -2028,8 +2041,10 @@
             "UniteNo": 1,
             "topic": "Alfabe Tanımı",
             "explanation": "Piktogramik alfabelerden ayrılan, sesleri yazılı olarak gösteren semboller bütününe 'alfabe' denir. Metin, Ünite 1'de 'Günümüzde alfabe, bir dildeki harflerin sıraya dizilmiş bütünü (TDK, 2021) olarak tanımlanmaktadır. Piktogramik alfabelerde ise harfler yerine piktogramlar yer almıştır. Tüm alfabelerde önemli olan, yazı sisteminin kurulmuş olmasıdır.' ifadesiyle bu ayrımı netleştirir. Sesçil alfabe olarak da bilinen klasik alfabeler, sesleri temsil eder.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 23,
+            "similarity_score": 0.9697892665863037
         },
         {
             "id": 102,
@@ -2071,7 +2086,8 @@
             "explanation": "Küçük 'x' harfinin yüksekliği, bir yazı karakterinin orta çizgisini (meanline) oluşturur. Ünite 4'te belirtildiği gibi, diğer küçük harfler bu çizgiye hizalanır. Ancak 'x-yüksekliği' terimi bazen, belirli bir fontun küçük harf boyutuna göre harf formlarının genel yüksekliğini ifade etmek için de kullanılır, özellikle büyük harflerle karşılaştırıldığında bu fark belirginleşir. Soruda kastedilen, büyük harf görünümünde olan ancak küçük harf x yüksekliği seviyesinde tasarlanan varyasyonlar (örneğin 'x-height' varyantları) olabilir, ancak bu spesifik terim yerine 'x-yüksekliği' kavramının kendisi, küçük harflerin hizalandığı temel çizgiyi ifade eder. Ancak, Ünite 4'te verilen 'Karakter Çeşitliliği' altında, 'x-yüksekliği küçük harfin büyük harfe göre yüksekliğini ifade eder' tanımına en yakın olanı, 'x-yüksekliği'nin kendisidir. Sorudaki 'büyük harf görünümünde olan, ancak boyları küçük harf x yüksekliğinde olacak şekilde tasarlanan harfler' büyük ihtimalle metrik ölçülerle ilgili bir detaydır. Ünite 4, özellikle 'x-Yüksekliği' başlığı altında, küçük harflerin hizalandığı çizgiye odaklanır. Alternatif olarak, Ünite 4'te 'Büyük ve Küçük Harfler' altında, küçük harflerin daha açık olma eğiliminde olduğu belirtilirken, büyük harflerin tek tip genişliğe sahip olduğu ve kelime tanıma için görsel ipucu sunmayan düz bir çizgi deseni oluşturduğu söylenir. Verilen seçenekler bağlamında, tipografide büyük harflerin yalnızca küçük harf x yüksekliği hizasında (ve bazen tırnaksız) tasarlanması, 'Small Caps' (Küçük Büyük Harfler) veya 'Old Style Figures' gibi varyasyonlarla ilgilidir. Ancak metin içinde doğrudan bu tanıma karşılık gelen bir sınıflandırma bulunmamaktadır. Fakat en yakın konsept, büyük harflerin değil, küçük harflerin 'x-yüksekliği'ne odaklanılmasıdır. Eğer soru, 'Small Caps'i kastediyorsa, bu, Ünite 8'de 'Büyük ve Küçük Harfler' başlığı altında, küçük harflere göre daha kısa (x-yüksekliği seviyesinde) büyük harf varyasyonları olarak tanımlanır. Ünite 8'deki bilgiye göre en uygun cevap 'Küçük Büyük Harfler' olmalıdır. Soru 2 için verilen cevaplarda seçenekler olmadığı için, metin içindeki en uygun kavramı bulmalıyız. Ünite 4'te bahsedilen 'x-Yüksekliği' kavramı en temel yapısal terimdir. Ancak Ünite 8, bu durumu 'Küçük Büyük Harfler' ile netleştirir. Bu sorunun bağlamı Ünite 4'e ait olsa da, kavramın tam tanımı Ünite 8'de geçmektedir. Cevap olarak, Ünite 8'deki en spesifik terimi kullanıyorum: Küçük Büyük Harfler.",
             "is_duplicate": true,
             "duplicate_of": 40,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 104,
@@ -2112,7 +2128,8 @@
             "explanation": "Erik Spiekermann, MetaDesign, United Designers ve Edenspiekermann stüdyolarını kuran ve birçok uluslararası şirketin tasarım süreçlerini yöneten kişidir. Ünite 2'de kendisi, Neville Brody ile birlikte FontShop firmasını kuran ve FF Meta fontu ile tanınan önemli bir figür olarak bahsedilmektedir.",
             "is_duplicate": true,
             "duplicate_of": 32,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 106,
@@ -2173,7 +2190,8 @@
             "explanation": "Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafının ağırlık ve ton bakımından eşit olduğu düzenlemelerden bahsedilir. Ambigramlar ise, bu simetrik yapıya sahip olarak, bir veya daha fazla kelimenin farklı yönlerden (örneğin tersten) de okunabildiği tipografik düzenlemelerdir. Ünite 5'te bu terim açıkça tanımlanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 87,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 109,
@@ -2235,7 +2253,8 @@
             "explanation": "Ünite 6'da Basılı Ortamlarda Tipografinin Kullanımı bölümünde afiş, billboard, dergi, gazete ve broşür gibi ortamlar örneklendirilmiştir. Film jeneriği ise tipografinin Dış Mekânda Kullanımı veya sergileme tasarımı kapsamında değerlendirilebilir ancak, listelenen dört ana basılı ortam (afiş, billboard, dergi, gazete, broşür) arasında film jeneriği yer almamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 90,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 112,
@@ -2316,7 +2335,8 @@
             "explanation": "Ünite 8'de 'Harf Arası Ayarı' ve 'Kelime Arası Espası' başlıkları altında, harf aralarındaki boşlukların (tracking) veya kelime aralarındaki boşlukların (kelime arası espası) çok dar bırakılmasının okuturluğu olumsuz etkilediği belirtilmiştir. Aşırı daraltma harflerin birbirine yapışmasına veya çok sıkışık görünmesine neden olurken, çok geniş bırakılması da okuma ritmini bozar. Metin, 'Bitişik yazılar gövde metinlerinde kullanılmamalıdır' diyerek, aşırı sıkışıklığın okuturluğu zorlaştırdığını belirtir. Soru 4'te boşlukların fazla dar veya geniş bırakılması sorulduğu için, sonuç olarak okuma ritminin bozulması, okunurluğun azalması veya harflerin birbirine yapışması gibi sorunlar ortaya çıkar.",
             "is_duplicate": true,
             "duplicate_of": 95,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 116,
@@ -2378,7 +2398,8 @@
             "explanation": "Ünite 8'de 'Karakter Ağırlığı' başlığı altında, yazı karakterinin ağırlığının, 'harf çizgilerinin kalınlığını ifade etmektedir' şeklinde tanımlandığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 98,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 119,
@@ -2439,7 +2460,8 @@
             "explanation": "İdeogram, bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit gösterge olarak tanımlanır. Metin, Ünite 1'de 'İdeogram, bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit gösterge olarak tanımlanabilir.' şeklinde açıklanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 3,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 122,
@@ -2559,8 +2581,9 @@
             "topic": "Fudoni Yazı Karakteri",
             "explanation": "Max Kisman tarafından tasarlanan Fudoni yazı karakteri, modernitenin bir görüngüsü olan Futura yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki Modern yazı tasarımlarından Bodoni'nin ustaca bir araya getirilmesine dayanmaktadır (Ünite 3, Sayfa 4).",
             "is_duplicate": true,
-            "duplicate_of": 14,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 27,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 128,
@@ -2601,7 +2624,8 @@
             "explanation": "1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteri, o dönemde yaygın olarak kullanılan tipografik öğelerden farklı olarak 1500'lerdeki Old Style/Garalde'den esinlenerek tasarlanmıştır (Ünite 4, Sayfa 2'de Mrs. Eaves'e atıf yapılan bağlamda 18. yy'dan bahsedilmekte, 19. yy'da başlayan yeniliklere değinilmektedir. Ancak bu bilgi doğrudan metinde geçmemekle birlikte, 4. Ünitenin ilerleyen kısımlarında (Mrs Eaves gibi) Amerikan tasarımlarından bahsedilmesi nedeniyle, bu tip tarihsel içerik 4. Ünite'ye atfedilebilir. Ancak metin içinde direkt karşılığı olmadığından, 4. Ünite'nin 'Tırnaklı Yazı Karakterleri' kısmına en yakın olduğu varsayılmıştır. Ancak, sorunun cevabı metinlerde doğrudan bulunamadığı için, ilgili üniteyi en yakın konu başlığına atfediyorum.) (Not: Bu bilgi, sunulan metinlerde doğrudan yer almamaktadır, ancak Amerikan tipografi tarihi bağlamında 4. Ünite'ye en yakındır.)",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 130,
@@ -2742,7 +2766,8 @@
             "explanation": "Altın oran, bir bütün içerisinde en küçük birimin, büyük birime olan oranının, büyük birimin ise bütüne olan oranına eşit olduğu orantısal bir ilişkidir. A serisi kağıt ölçüleri (A4 gibi) altın orana göre belirlenmiş evrensel kağıt ölçüleridir ve bu oranlar sayfa düzeninde de estetik bir görsellik sunar.",
             "is_duplicate": true,
             "duplicate_of": 74,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 137,
@@ -2763,7 +2788,8 @@
             "explanation": "Dış mekân grafikleri veya çevresel grafik tasarım, grafik tasarımın kâğıt dışındaki platformlara (billboard, tabela vb.) taşmasıyla ortaya çıkar. Afişler (bir iletişim tasarımı ürünü olarak) geçmişte önemli bir rol oynamış olsa da, günümüzde afişin yansıması olarak billboard gibi büyük ölçekli ve dış mekâna yönelik basılı ürünler bu kategoriye girer.",
             "is_duplicate": true,
             "duplicate_of": 69,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 138,
@@ -2824,7 +2850,8 @@
             "explanation": "Allograf, bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir. Örneğin, tek katlı ve çift katlı harfler (single story/double story) bir harfin allograflarıdır.",
             "is_duplicate": true,
             "duplicate_of": 77,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 141,
@@ -2864,7 +2891,9 @@
             "topic": "Modern Tipografi Hareketi",
             "explanation": "Uluslararası Tipografik Stil Hareketi (İsviçre Stili), bilgiyi net ve evrensel biçimde aktarma çabasıyla İsviçre'de gün yüzüne çıkmıştır. Bu hareket 20. yüzyılın ortalarında etkin olmuştur.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 102,
+            "similarity_score": 0.9989287257194519
         },
         {
             "id": 143,
@@ -2923,8 +2952,10 @@
             "UniteNo": 3,
             "topic": "Sayısal Font Tasarımcıları",
             "explanation": "Max Kisman'ı sayısal font tasarımında öncü yapan çalışmalarından biri 'Fudoni'dir. Fudoni, modernitenin bir görüngüsü olan Futura yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki Modern yazı tasarımlarından Bodoni'nin ustaca bir araya getirilmesine dayanmaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 53,
+            "similarity_score": 0.9528025388717651
         },
         {
             "id": 146,
@@ -2945,7 +2976,8 @@
             "explanation": "Dr. Donald Knuth tarafından geliştirilen ve dijital teknoloji ile font tasarımı yapılmasını sağlayan bitmap temelli yazılım 'Metafont'tur. Ayrıca TEX (1984) da sayfa düzenleme ve dizgi programı olarak önemli katkılar sağlamıştır.",
             "is_duplicate": true,
             "duplicate_of": 125,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 147,
@@ -2984,8 +3016,10 @@
             "UniteNo": 7,
             "topic": "Boşluk Düzenleme Biçimleri",
             "explanation": "İki satır arasındaki boşluğa satır arası espası (leading) denir. Bu boşluk, alttaki satırın zemin çizgisinden (baseline) üstteki satırın zemin çizgisine (baseline) kadar olan yüksekliği tanımlar ve metin bloklarının okuturluğunu doğrudan etkiler.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 128,
+            "similarity_score": 0.9886354207992554
         },
         {
             "id": 149,
@@ -3006,7 +3040,8 @@
             "explanation": "Görsel hiyerarşi, verilmek istenen mesaj doğrultusunda, tasarım yüzeyi üzerinde yer alan görsel elemanların, baskınlık derecesine göre ölçülendirilerek düzenlenmesidir. Bu ilke ile karmaşık bir mesaj anlaşılır bir biçimde basitleştirilebilir.",
             "is_duplicate": true,
             "duplicate_of": 64,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 150,
@@ -3027,7 +3062,8 @@
             "explanation": "Yakınlık ilkesi, izleyicilerin birbirine yakın olan görsel elemanları gruplandırma eğiliminde olduğunu gösterir. Bu sayede, küçük parçalardan oluşan görsel elemanlar, yakınlıkları nedeni ile tek bir büyük parça olarak algılanır.",
             "is_duplicate": true,
             "duplicate_of": 66,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 151,
@@ -3047,7 +3083,9 @@
             "topic": "Simetrik Denge",
             "explanation": "Tasarım yüzeyinde dengeyi sağlamak için, yatay veya dikey eksenin her iki tarafının görsel ağırlık ve ton bakımından eşit olması simetrik dengeyi ifade eder. Metin, Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' olarak belirtilmiştir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 131,
+            "similarity_score": 0.9996345043182373
         },
         {
             "id": 152,
@@ -3109,7 +3147,8 @@
             "explanation": "Kerning (Uyumlama), belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir. Bu işlem, özellikle büyük punto kullanımında ve başlıklarda, iki harf arasındaki boşluğu optik olarak dengeleyerek okunurluğu artırmak için yapılır.",
             "is_duplicate": true,
             "duplicate_of": 75,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 155,
@@ -3150,7 +3189,8 @@
             "explanation": "Sayfa kenar boşlukları (marjin), sayfa tasarımında ızgaranın yapısal parçalarından biridir ve tasarıma ait tüm görsel öğelerin (metin ve görüntüler) çevrelen negatif alanıdır. Bu alanlar, tasarımda hem estetik bir bütünlük hem de okuma için nefes alma alanı sağlar.",
             "is_duplicate": true,
             "duplicate_of": 72,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 157,
@@ -3169,8 +3209,10 @@
             "UniteNo": 7,
             "topic": "Bloklama Türleri",
             "explanation": "Ünite 7'de Bloklama (Hizalama) başlığı altında, yatay bloklama biçimlerinin soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) olduğu belirtilmiştir. Dikey bloklama biçimleri ise üste, ortaya, alta ve tam blok şeklinde ifade edilir. Dikey bloklama, metin yazı alanındaki dikey konumunu belirtir; yatay/sütun düzenlemesi ile ilgili değildir. Dolayısıyla, 'Dikey blok' yatay hizalama biçimlerinden biri değildir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 76,
+            "similarity_score": 0.9973581433296204
         },
         {
             "id": 158,
@@ -3191,7 +3233,8 @@
             "explanation": "İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine 'Uyumlama' (Kerning) denir. Bu ayar, özellikle büyük puntolarda ve başlıklarda harflerin görsel olarak birbirine eşit mesafede görünmesini sağlayarak okuturluğu artırır.",
             "is_duplicate": true,
             "duplicate_of": 138,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 0.9687061905860901
         },
         {
             "id": 159,
@@ -3233,7 +3276,8 @@
             "explanation": "Okunurluk, harfleri birbirinden ayırt etmenin kolaylığıdır ve buna x-yüksekliği, karakter ağırlığı, karakter genişliği, harf çizgisi kontrastı, iç boşluklar ve tırnaklı/tırnaksız oluş gibi faktörler katkıda bulunur. Paragraf başı girintisi ise bir **okuturluk** (metin bloklarının tanınması) faktörüdür, okunurluğa doğrudan katkısı olan bir **harf** özelliği değildir.",
             "is_duplicate": true,
             "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 161,
@@ -3254,7 +3298,8 @@
             "explanation": "Ünite 3'te, 1448'de basılan Astronomi Takvimi'nin, Gutenberg basımevinin bilinen ilk ürünü olduğu belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 122,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 162,
@@ -3274,7 +3319,9 @@
             "topic": "Yazı Yüzeyleri",
             "explanation": "Ünite 1'de, Lidyalılar madeni sikkeleri icat etmeden önce ticarette kullanılan materyallerden bahsedilmiştir. Daha eski dönemlerde ise Papirüs ve parşömen gibi organik yüzeyler kullanılmıştır. Parşömen, hayvan derisinin özel işlemlerden geçirilmesiyle elde edilen ve kağıda benzer özellikler gösteren bir yüzeydir. Metinde geçen MÖ 2000'lerde icat edildiği ve Bergama'dan geldiği bilgisi Parşömen'i işaret etmektedir, ancak metinde Parşömen'in icadı veya bu özellikler tam olarak verilmemiştir. Fakat, genel olarak hayvan derisinden elde edilen ve kağıda benzer bir yüzey olarak bahsettiği en yakın materyal Parşömen'dir (veya Vellum). Metinde bu tanıma tam uyan bir ifade bulunmasa da, genel olarak eski çağlarda kullanılan yüzeyler arasında Parşömen (Pergamen) mevcuttur ve genellikle hayvan derisinden yapılır. Ancak, metinde (Sayfa 1) organik yüzeyler olarak palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek sıralanmıştır. Parşömen, hayvan derisinden yapılır ve M.Ö 4000'lerden itibaren kil tabletlerden sonra kullanılan sert malzemelerden farklıdır. Metinde özellikle bu tanıma uyan bir ibare olmadığı için, en yakın olası aday olarak parşömen kabul edilebilir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 41,
+            "similarity_score": 1.0
         },
         {
             "id": 163,
@@ -3295,7 +3342,8 @@
             "explanation": "Ünite 3'te New York Okulu'nun gelişiminden bahsedilir. Saul Bass'ın, Paul Rand'ın asimetrik denge anlayışından ilham alarak mesajları basit piktografik görüntülere indirgediği ve grafik tasarımda bu yenilikçi yaklaşımı (hareket algısı ve canlılık) temsil ettiği belirtilir. Leo Lionni de bu okulun önde gelen isimlerindendir.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 164,
@@ -3336,8 +3384,9 @@
             "topic": "Emigre Dergisi",
             "explanation": "Sayfa 2'de Emigre Dergisi başlığı altında, derginin sayısal tipografinin tarihsel bir kaydı olduğu ve dönemin dijital devriminin belirsizliği içinde sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerini sunduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 12,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 33,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 166,
@@ -3378,7 +3427,8 @@
             "explanation": "Sayfa 1'de Font Formatları başlığı altında, 'Bitmap' (nokta tabanlı) fontların, ekranlarda daha rahat gösterilmesi için tasarlandığı belirtilmiştir. Ancak metin, dijital tipografinin gelişiminde öne çıkan formatları PostScript Type 1, TrueType ve OpenType olarak listeler. Açıkça piksel tabanlı bir format olarak belirtilen eski bir teknoloji olan Bitmap fontlar, bu formatlar arasında yer alır ve ekran odaklı piksel teknolojisine ayak uydurmak için geliştirilmiştir (Sayfa 3, Ünite 3).",
             "is_duplicate": true,
             "duplicate_of": 124,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 168,
@@ -3398,8 +3448,9 @@
             "topic": "Tasarım İlkeleri",
             "explanation": "Sayfa 1'de Görsel Hiyerarşi başlığı altında, karmaşık bir mesajın anlaşılır bir biçimde basitleştirilebilmesi için tasarım yüzeyi üzerindeki görsel elemanların baskınlık derecesine göre ölçülendirilerek düzenlenmesi eylemi olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 64,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 149,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 169,
@@ -3460,8 +3511,9 @@
             "topic": "Simetrik Denge",
             "explanation": "Tasarım yüzeyi üzerinde yatay veya dikey eksenin her iki tarafının görsel ağırlık ve ton bakımından eşit olduğu denge türü simetrik dengedir. Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' şeklinde tanımlanmıştır.",
             "is_duplicate": true,
-            "duplicate_of": 151,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 131,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 0.9996345043182373
         },
         {
             "id": 172,
@@ -3501,7 +3553,9 @@
             "topic": "Logo Tipografisi",
             "explanation": "Ünite 6'da, Nike logosunda kullanılan yazı karakterinin genellikle Helvetica Condensed Black Italic olduğu bilgisinden yola çıkılarak, verilen doğru şık işaretlenmiştir. Bu font, genellikle logotype ve dış mekân uygulamalarında güçlü etki yaratmak için tercih edilen bir varyasyondur.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 109,
+            "similarity_score": 1.0
         },
         {
             "id": 174,
@@ -3540,8 +3594,10 @@
             "UniteNo": 7,
             "topic": "Sayfa Yapısı Oranları",
             "explanation": "Altın Oran prensibi, 'a:b b:(a+b)' şeklinde formüle edilir ve 'Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranının eşit olduğu ilkesine dayanır'. Bu prensip, sayfa tasarımı ve ızgara sistemlerinde de temel alınır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 114,
+            "similarity_score": 0.9990167617797852
         },
         {
             "id": 176,
@@ -3560,8 +3616,10 @@
             "UniteNo": 5,
             "topic": "Bütünlük İlkesi",
             "explanation": "Bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel elemanlarla bağlantılı olması, tasarımın tüm parçalarının birlikte uyum içerisinde olması anlamına gelir. Bütünlük ilkesi aynı zamanda 'Birlik' veya 'Uyum' olarak da bilinir ve gerektiğinde kuralları ihlal edilerek (örneğin, Ray Gun dergisinde olduğu gibi) dinamizm yaratılabilir, ancak temel amacı tasarımdaki parçaları birbirine bağlamaktır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 116,
+            "similarity_score": 0.9769807457923889
         },
         {
             "id": 177,
@@ -3642,7 +3700,8 @@
             "explanation": "Okunurluk kriterleri arasında x-yüksekliği, karakter ağırlığı, karakter genişliği, harf çizgisi kontrastı, iç boşluklar, tırnaklı/tırnaksızlık, başlık/bitişik yazılar bulunur. Yazı boyutu (Punto), okuturluk (readability) kriteri altında ele alınır; 'metinlerde yazı boyutuna dikkat edilmesi gerekmektedir' ifadesi okuturluk başlığı altında yer alır.",
             "is_duplicate": true,
             "duplicate_of": 99,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         }
     ]
 }

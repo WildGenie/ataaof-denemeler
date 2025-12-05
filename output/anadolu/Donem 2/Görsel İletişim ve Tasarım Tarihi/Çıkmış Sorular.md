@@ -108,19 +108,6 @@
 
     <hr />
 
-### Erken Blok Baskı
-
-1. İlk ahşap baskılarda aşağıdaki temalardan hangisi kullanılmamıştır? *(2 kez soruldu)*
-    - A-) Dini imgeler
-    - B-) Oyun Kartları
-    - C-) Azizler
-    - D-) İllüstrasyonlar
-    - **Cevap E-) Krallar**
-
-    > **Açıklama:** Avrupa'da ilk ahşap kalıp baskılar (blok baskı), genellikle dini imgelerin, azizlerin ve oyun kartlarının üretimine olanak sağlamıştır (Ünite 2, Sayfa 1). Metinlerin basımı daha sonraki aşamalarda ve tipografinin gelişimiyle popülerleşmiştir.
-
-    <hr />
-
 ### Erken Dönem Blok Baskı
 
 1. Aşağıdakilerden hangisi Avrupa'da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının ilk örneklerinden biridir?
@@ -209,19 +196,6 @@
     - E-) İtalik / Bold
 
     > **Açıklama:** Baskının Avrupa'ya Gelişi ünitesinde (Ünite 2), majiskül (büyük harf) ve miniskül (küçük harf) terimlerinin yazım sistemlerinde kullanıldığı belirtilmiştir. Örneğin, Fleischmann'ın yarattığı yazı karakterlerinin hem majiskül hem de miniskül biçimleri olduğu ve modern alfabelerin gelişiminde bu ikisinin rol oynadığı ima edilmektedir. (Ancak bu terimlerin doğrudan tanımı metinde bulunmamaktadır; en yakın bağlam Johann Gutenberg'in icadından sonraki dönemde harflerin tanımlanmasıdır. Ünite 2'de Peter Schoeffer'in yardımıyla İncil basımı ve ardından gelen yazı stilleri ele alınır.) Ancak, Ünite 2'de Johannes de Spira ve Nicolas Jenson gibi isimlerden bahsedilirken, 'lettre de forme' (gothic) ve 'lettre de somme' (yuvarlak hatlı gothic) gibi terimler kullanılır. Majiskül ve Miniskül terimleri Ünite 5'te Bauhaus döneminde Herbert Bayer'in 'büyük harf küçük harf kullanımını yanlış bulmuş ve büyük harf kullanımından vazgeçtiği' bağlamında geçer. Bayer'in uyguladığı stil, büyük harf (majiskül) ve küçük harf (miniskül) kullanımını içerir. Majiskül büyük harf, Miniskül küçük harf demektir.
-
-    <hr />
-
-### Yazı tipi terimleri
-
-1. ------------ büyük harf ve ------------ küçük harf demektir.<br />Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
-    - A-) Altı Çizili / Çizgisiz
-    - B-) İtalik / Bold
-    - C-) Tam/Yarım
-    - **Cevap D-) Majiskül / Miniskül**
-    - E-) Serif / Sanserif
-
-    > **Açıklama:** Ünite 2'deki 'İsviçre'de Üretilen Serifsiz Yazı Karakterleri: Univers ve Helvetica' başlığına göre, Sans terimi Fransızca'da 'yok' anlamına gelirken, Serif kelimesinin kökeni Hollandaca'da 'çizgi' anlamına gelen 'schreef' kelimesinden türetilmiştir. Dolayısıyla boşluklar 'Sans' (yok) ve 'Serif' (çizgi) ile tamamlanır.
 
     <hr />
 
@@ -367,19 +341,6 @@
 
     <hr />
 
-### Rönesans ve Tipografi
-
-1. Fransa'da yalnızca kraliyetin kullanımı için tasarlanan yazı yüzü aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Romain du Roi**
-    - B-) Garamond
-    - C-) Serif
-    - D-) Roman
-    - E-) İtalik
-
-    > **Açıklama:** Fransa Kralı Louis XIV'ün emriyle 1692'de Imprimerie Royale için tasarlanan ve yalnızca kraliyetin kullanımı için ayrılan yazı yüzü, Romain du Roi (Romaine du Roi) karakteridir (Devroye, 2016).
-
-    <hr />
-
 ### Viyana Secession
 
 1. Viyana Ayrılıkçılığı hareketinin etkisi altındaki sanatçılardan biri olan Gustav Klimt'in sanat anlayışını yansıtan ögeler aşağıdakilerden hangisidir?
@@ -434,19 +395,6 @@
 
     <hr />
 
-### De Stijl Başlangıcı
-
-1. De Stijl sanat akımının başaladığı ülke aşağıdakilerden hangisidir?
-    - A-) İtalya
-    - **Cevap B-) Hollanda**
-    - C-) İngiltere
-    - D-) Fransa
-    - E-) Almanya
-
-    > **Açıklama:** Metne göre, De Stijl akımı 1917 yılında Theo van Doesburg, Piet Mondrian, Vilmos Huszar ve J.J. Oud tarafından Hollanda'da kurulmuştur.
-
-    <hr />
-
 ### De Stijl Başlangıç Yeri
 
 1. De Stijl sanat akımının başaladığı ülke aşağıdaki hangisidir?
@@ -457,19 +405,6 @@
     - E-) Fransa
 
     > **Açıklama:** De Stijl akımı, 20. yüzyıl başlarında Hollanda'da ortaya çıkmıştır. Theo van Doesburg, Piet Mondrian gibi sanatçılar grubu kurmuş ve "De Stijl" dergisini çıkarmaya başlamışlardır (Ünite 4).
-
-    <hr />
-
-### De Stijl Hareketi
-
-1. De Stijl sanat akımının başladığı ülke aşağıdaki hangisidir?
-    - **Cevap A-) Hollanda**
-    - B-) İtalya
-    - C-) İngiltere
-    - D-) Fransa
-    - E-) Almanya
-
-    > **Açıklama:** De Stijl akımı, 20. yüzyıl başlarında Hollanda'da Theo van Doesburg, Piet Mondrian gibi sanatçılar tarafından kurulmuştur. Bu akımın temel özellikleri; biçimlerin daima dik açılı olması ve renklerin temel renklerden (kırmızı, mavi, sarı) oluşmasıdır.
 
     <hr />
 
@@ -574,32 +509,6 @@
     - E-) İlk sanat manifestolarından biri 1918'de Le Figaro'da basılmıştır.
 
     > **Açıklama:** Fütürizm Manifestosu, Filippo Tommaso Marinetti tarafından 1909'da bir Paris gazetesinin baş sayfasında gösterişli bir şekilde yayınlanarak dünyaya duyurulmuştur. Bu, manifestoların toplumsal reform hareketi olarak etkin bir şekilde sunulmasının örneğidir (Ünite 4, 'Fütürizm Sanat Akımı' başlığı).
-
-    <hr />
-
-### Modern Sanat Akımları
-
-1. Marcel Duchamp aşağıdaki modern sanat akımlarından hangisinin temsilcilerinden biridir?
-    - A-) Kubizm
-    - B-) Futurizm
-    - C-) Sürrealizm
-    - D-) De Stijl
-    - **Cevap E-) Dadaizm**
-
-    > **Açıklama:** Marcel Duchamp'ın Dadaizm akımının en önemli görsel sanatçılarından biri olduğu metinde açıkça belirtilmiştir: 'Fransız ressam Marcel Duchamp (1887-1968) Dada'ya katıldıktan sonra bu hareketin en önemli görsel sanatçısı olmuştur.' Kübizm, Fütürizm ve Art Deco/De Stijl farklı akımlardır.
-
-    <hr />
-
-### Modern Sanat ve Toplum
-
-1. Aşağıdakilerden hangisi "sanatı toplumun yaşam alanı ile buluşturan" ilk hareket olarak görülmüştür? *(2 kez soruldu)*
-    - A-) Dadaizm
-    - B-) Kontrüktivizm
-    - C-) Sanat ve Zanaat
-    - **Cevap D-) Art Nouveau**
-    - E-) Art Deco
-
-    > **Açıklama:** Modern sanat akımlarında sanatın toplumla bütünleşmesi ana amaç olmuş ve sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşmıştır. Özellikle Fütürizm, savaşın verdiği heyecanı ve makine çağını yücelterek, eskiye bağlı her şeyi reddetme çağrısı yapmıştır. Ancak, "sanatın toplumun yaşam alanı ile buluşması" ve endüstri ile birleşme hedefi, en belirgin şekilde Bauhaus Okulu'nun temel ilkelerinden biridir: "Biçim işlevi izler şeklindedir."
 
     <hr />
 
@@ -838,19 +747,6 @@
 
     <hr />
 
-### Polonya Film Afişleri
-
-1. Aşağıdakilerden hangisi Ukiyo'nin tanımıdır?
-    - A-) Japon siyah-beyaz mürekkep resmidir.
-    - B-) Japon Sumi-e'nin renkli versiyonudur.
-    - **Cevap C-) Japon ahşap baskı sanatıdır.**
-    - D-) Japon peyzaj düzenleme tekniğidir.
-    - E-) Japon iç mekan tasarım sanatıdır.
-
-    > **Açıklama:** Metinde, Polonya film afişlerinde zekâ ve metaforun gücünü kullandıkları ve afişlerin görsel anlamda bir konunun özüne yoğunlaşabilmek için metaforlar ve sözlü fikirleri destekleyen bir akım ve teknik geliştirdikleri belirtilmiştir. Ancak Ukiyo-e (Japon ahşap baskıları) konusu doğrudan anılmamıştır; bu kavram daha çok Art Nouveau'nun Japon etkilerinden bahsedilen bağlamında dolaylı olarak ilişkilendirilebilir (Ünite 3'te Japon ahşap baskılarına olan hayranlık belirtilirken, Ünite 6'da Polonya afişleri anlatılmaktadır).
-
-    <hr />
-
 ### Tipografi Terimleri
 
 1. Yazı karakterlerdeki harflerin kalınlığı için kullanılan terime ne ad verilir?
@@ -954,19 +850,6 @@
     - E-) Victoria Stili
 
     > **Açıklama:** Ünite 7'nin girişinde, 1960'lardan itibaren radyo, televizyon yayıncılığının kitle iletişimini dönüştürdüğü ve 1960'larda yükselen gençlik kültürünün görsel düzeni yeniden kurmayı gerektirdiği belirtilmektedir. Ayrıca 1960'larda bilgisayar teknolojileri ve yeni medya görsellerinin (Postmodernizm'in başlangıcıyla birlikte) önem kazandığı ima edilmektedir. Ancak, Ünite 8'de Dijital Devrimin kökenleri 1980'lerde Apple, Adobe ve Aldus şirketlerinin masaüstü yayıncılıkla başlamıştır. 1950'lerin başları ise Pop Art'ın yükselişiyle ilgilidir. Televizyon ve bilgisayarın ilk etkileri Ünite 8'de modern çağın başlangıcı olarak geçer. 1960'lar Psychedelic Sanat ile ilişkilidir. Dijital devrimin temelleri 80'lerde atılsa da, görsel iletişimi değiştiren radyo ve televizyonun yükselişi 1950'lerdir (Ünite 7).
-
-    <hr />
-
-### Modern Sanat İfadeleri
-
-1. Modern sanat ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? *(2 kez soruldu)*
-    - A-) Modern sanat için makineleşme geleceğin sembolü olarak görülmüştür.
-    - B-) Sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşır.
-    - **Cevap C-) Modern sanatta her şey bireyi ilgilendirir.**
-    - D-) Modern sanat için sanat ve endüstriyi ayırmak gereklidir.
-    - E-) Sanatçılar yapıtlarında daha çok kendi bireysel yaklaşımlarını vermeye çalışmışlardır.
-
-    > **Açıklama:** Modern sanat, 20. yüzyılın başında ortaya çıkmış ve Kübizm, Fütürizm, Dada gibi akımları kapsamıştır. Modern sanatta 'sanat için sanat' yerine, sanatın toplumsal rolü ön plana çıkmıştır (Ünite 4, Sayfa 1). Ancak, psychedelic sanatı tanımlarken, 'Art Nouveau döneminin görsellerine başlayan ilgi, yepyeni bir görsel dilin doğmasına öncülük etmiştir' ifadesi, Art Nouveau'nun Modernizm sonrası değil, Modernizm öncesi bir akım olduğunu gösterir. Psychedelic akım, Art Nouveau'dan ilham alsa da Modernizm sonrası bir akımdır. Metinde 'Art Nouveau döneminin görsellerine başlayan ilgi' ifadesi kafa karıştırıcı olsa da, Psychedelic Sanatın kökeni 1960'lara dayanır ve Modernizm sonrası bir tepki olarak doğmuştur. Modernizm, kitle kültürünün yayılmasıyla birlikte 'sanatın fikir ya da bir ideoloji üzerine kurulması öncelik arz etmemekteydi' ifadesiyle tanımlanır (Ünite 7, Sayfa 1). 'Sanatın sınırlarının yeniden tanımlanması' Modern sanatın genel özelliklerindendir (Ünite 4, Sayfa 3). Yanlış ifadeyi bulmak için detaylı inceleme gerektiğinde, Psychedelic akımını inceleyen metin, Nouveau'dan ilham aldığını belirtir (Ünite 7, Sayfa 2). Metinde Modern Sanat akımlarının (Kübizm, Fütürizm, Dada, Sürrealizm) listesi verilirken (Ünite 4, Sayfa 2), Psychedelic sanatın 'Postmodernist düşünce'nin köklerinden doğduğu belirtilir (Ünite 7, Sayfa 1). Bu bağlamda, psychedelic sanatın doğrudan 'Modern sanat akımları' altında listelenmediği, daha çok Post-Modernizm ile ilişkilendirildiği göz önüne alınırsa, Modern Sanat akımlarının listesine dair bir kısıtlama yanlış olabilir. Ancak, genel Modern Sanat akımları tanımında 'sınırlarının yeniden tanımlanması' doğruyken, psychedelic sanatı daha çok postmodernizmle ilişkilendirildiği için, onu doğrudan modern akımlar listesine koymak tartışmalı olabilir. En net yanlış bilgi, genellikle 1960'larda ortaya çıkan Psychedelic sanatın, 19. yüzyılın sonlarında ortaya çıkan Art Nouveau'dan ilham alması (Ünite 7, Sayfa 2-3) ile Modernizmin başlangıcının 20. yüzyıl başları olması bağlamında yorumlanabilir. Ancak, soruda genel bir Modern Sanat ifadesi istendiğinden, akımların tanımı kontrol edilmelidir. Modern sanatın 'sınırlarının yeniden tanımlanması' ifadesi doğru kabul edilir (Ünite 4, Sayfa 3). Psychedelic Sanatın görsel özelliklerinde, 'Normalin ötesinde bir derinlik algısı, derinlik stilizasyonu (Horror Vacui Stili)' ifadesi bulunmaktadır (Ünite 7, Sayfa 2). Modernizmde 'sanat için sanat değil, toplum için sanat üretme' anlayışı yaygınlaşmıştır (Ünite 4, Sayfa 1), ancak Psychedelic dönemde bu durumun sınırlarının zorlanması söz konusudur. Bu sorunun cevabı için en tutarlı yanlış ifadeyi bulmak zordur çünkü metinler akımları bazen kesişimsel anlatmaktadır. Ancak, Modern Sanat akımları başlığı altında verilen akımlar (Kübizm, Fütürizm, Dada, Sürrealizm) genellikle 1900'lerin başlarında gelişirken, Psychedelic sanat 1960'lardadır ve Post-Modernizmle daha yakından ilişkilidir.
 
     <hr />
 

@@ -102,16 +102,6 @@
     > **Açıklama:** Metinde, genel olarak dört temel kategoride incelenen sanat kuramları (temsil ve taklit teorisi, dışavurum teorisi, biçimcilik ve estetik deneyim teorisi) sıralanmıştır. Rus yazar Tolstoy'un, sanatın temel işlevinin, sanatçının hissettiği duyguları alıcıya iletmek olduğu yönündeki görüşü, yani duyguların yüzeye çıkarılması, 'Dışavurum' teorisiyle (İfade Teorisi) doğrudan ilişkilidir.
 
     <hr />
-1. Sanatı tanımlamak için üretilen sanat teorileri arasında aşağıda sunulanlardan hangisi Platon ve Aristoteles'e atfedilir? *(2 kez soruldu)*
-    - **Cevap A-) Taklit ve temsil kuramı**
-    - B-) Dışavurum
-    - C-) Biçimcilik
-    - D-) Estetik deneyim
-    - E-) Performans sanatları
-
-    > **Açıklama:** Ünite 1'deki Sanat Teorileri başlığı altında, en eski sanat teorisi olarak kabul edilen ve mimesis (taklit) kavramıyla yakından ilişkili olan 'Taklit Teorisi'nden bahsedilmektedir. Platon ve Aristoteles'in felsefeleri Taklit Teorisi'nin temellerini oluşturur. Teori, sanatın dünyayı taklit etmesi gerektiğini savunur.
-
-    <hr />
 
 ### Sanat ve Zanaat Ayrımı
 
@@ -123,16 +113,6 @@
     - E-) Rönesans boyunca, güzel sanatlar zanaat olarak ya da en azından el sanatlarına benzer şekilde kabul edilmiştir.
 
     > **Açıklama:** İfade B seçeneği yanlıştır. Metne göre, sanatın zanaattan ayrılan tarafları düşünülse de, Avrupa'da Rönesans boyunca, güzel sanatlar zanaat olarak ya da en azından el sanatlarına benzer şekilde kabul edilmiştir. Ayrıca 18. yüzyılla birlikte düşünürler sanatı ayrıcalıklı bir konuma yerleştirerek zanaattan ayırmaya başlamışlardır. Kant'a göre sanat özgürdür, ancak metinde Kant'ın sanat-zanaat ayrımı hakkındaki spesifik görüşlerine dair detaylı bir ifade bulunmamaktadır. Ancak D ve E şıklarındaki bilgiler (Technē ve Rönesans sonrası ayrımın gelişmeye başlaması) metinle uyumludur. B seçeneği yanlıştır çünkü metinde Rönesans sonrası ayrımın başladığı belirtilmektedir, bu da günümüzde bile eş anlamlı kullanılmadığını gösterir.
-
-    <hr />
-1. Zanaat kavramı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?<br />A) Zanaatlar el becerisi ile ilgilidir.<br />B) Antik Yunan'da şiir, resim, müzik ve benzerlerini genellikle "sanat" veya "zanaat" olarak tercüme edilen technē kavramı ile tanımlanmıştır.<br />C) Rönesans boyunca, güzel sanatlar zanaat olarak ya da en azından el sanatlarına benzer şekilde kabul edilmiştir.<br />D) Sanat Kant'a göre özgürdür fakat zanaat ise ticari olduğu için alıcısına ve dolayısıyla pazara bağlıdır ve özgür değildir.<br />E) Zanaat ve sanat kavramları günümüzde bile eş anlamlı olarak kullanılır.
-    - A-) Zanaatlar el becerisi ile ilgilidir.
-    - B-) Antik Yunan'da şiir, resim, müzik ve benzerlerini genellikle "sanat" veya "zanaat" olarak tercüme edilen technē kavramı ile tanımlanmıştır.
-    - C-) Rönesans boyunca, güzel sanatlar zanaat olarak ya da en azından el sanatlarına benzer şekilde kabul edilmiştir.
-    - D-) Sanat Kant'a göre özgürdür fakat zanaat ise ticari olduğu için alıcısına ve dolayısıyla pazara bağlıdır ve özgür değildir.
-    - **Cevap E-) Zanaat ve sanat kavramları günümüzde bile eş anlamlı olarak kullanılır.**
-
-    > **Açıklama:** Sanat ve zanaat kavramlarının ayrımına ilişkin metin incelendiğinde, zanaatın kullanım değeri taşıyan nesnelerle ilgili olduğu, sanatın ise özgür ve açık uçlu keşiften doğduğu belirtilmektedir. Rönesans sonrası ayrımın gelişmeye başladığı ifade edilir. Seçenek D'de Kant'tan bahsedilerek zanaatın ticari olduğu için özgür olmadığı, sanatın ise özgür olduğu belirtilmektedir. Metinde Kant'a atıf yapılmasa da, sanatın zanaattan ayrılan temel özelliği, sanatın özgür ve açık uçlu bir keşiften doğması (ticari olmayan) olarak vurgulanır. Ancak metinde açıkça yanlış olduğu belirtilen bir ifade yoktur. Seçenek E'de zanaat ve sanat kavramlarının günümüzde bile eş anlamlı kullanıldığı iddiası yanlıştır, çünkü metin bu iki kavram arasındaki ayrıma dikkat çekmektedir ve bu ayrımın tarihsel olarak geliştiğini belirtmektedir (18. yüzyılla birlikte). Dolayısıyla, günümüzde bile eş anlamlı kullanıldığı iddiası bağlam dışıdır.
 
     <hr />
 1. Aşağıdaki dönemlerden hangisinin sonrasında Avrupa'da zanaat ve sanat arasındaki ayrım gelişmeye başlamış ve daha belirgin hale gelmiştir?
@@ -187,19 +167,6 @@
 
     <hr />
 
-### Grafik Tasarım İlkeleri
-
-1. Aşağıdakilerden hangisi grafik tasarımın aşamalarından biri değildir? *(3 kez soruldu)*
-    - A-) Problem tanımı
-    - **Cevap B-) Çerçeveleme**
-    - C-) Bilgi toplama
-    - D-) Çözüm bulma
-    - E-) Yaratıcılık ve buluş süreci
-
-    > **Açıklama:** Grafik tasarım süreçlerinin temel ilkeleri Becer'e göre Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük, Vurgulama'dır. Şöhler karton, renkli karton gibi malzemelerle ilgili bir terimdir, tasarım aşaması ilkesi değildir.
-
-    <hr />
-
 ### Mimari Tasarım Akımları
 
 1. Mimaride "hareket" duygusu kazandıran, keskin kenarları olan girinti çıkıntılar, oval, geometrik hatlardan oluşan, geleneksellik karşıtı dinamik, iddialı tasarımlardır, doğa dostu bir anlayışa sahiptir, yapısal özellikleri/formları doğaya uyumludur. Yukarıda tanımlanan mimari anlayış aşağıdakilerden hangisidir? *(3 kez soruldu)*
@@ -236,19 +203,6 @@
     - **Cevap E-) Moda**
 
     > **Açıklama:** Ünite 2'de Moda Tasarımı başlığı altında, "Moda kavramı, tüketim kültürünün geliştirdiği, beslediği, sosyolojik/kültürel değişimler üzerine konumlandırdığı ve tüketim alanlarına yayılmış giyimden, yaşam tarzından, insanlar arasındaki davranış/etkileşim biçimlerinden, eğitim ve tüm sosyal iletişimi kapsayan bir olgudur" şeklinde tanımlanmıştır. Bu tanım, soruda verilen tanıma birebir uymaktadır.
-
-    <hr />
-
-### Moda Tasarımı Kavramları
-
-1. Aşağıdakilerden hangisi moda tasarımında görsel imgelerin plastik göstergeler içerisinde değerlendirilmesi içinde yer alır? *(2 kez soruldu)*
-    - A-) Simetri ve Asimetri
-    - B-) Işık ve Gölge
-    - C-) Oran ve Orantı
-    - D-) Boşluk ve Espas
-    - **Cevap E-) Renk ve Doku**
-
-    > **Açıklama:** Moda tasarımı, estetik ve tasarımın giyim ve aksesuarlara uygulanması anlamına gelir. Moda söylemi genellikle giysi tasarımına ilişkin bir çağrışım yapar ve bu tasarımlar, insanların çevrelerine görünmek ve iyi hissetmek istedikleri, iyi karşılanmak istedikleri duyguyu verir. Ancak görsel imgelerin plastik göstergeler olarak değerlendirilmesi, Ünite 5'teki Görsel Ögeler başlığı altında daha genel olarak ele alınmıştır (nokta, çizgi, renk vb. gibi ögeler). Ünite 2'deki moda tanımında doğrudan 'görsel imgelerin plastik göstergeler içinde değerlendirilmesi' ifadesi bulunmamaktadır. Ancak moda söyleminin bu plastik göstergeleri (giysi, aksesuar) içerdiği açıktır. Plastik göstergeler genellikle çizgi, şekil, form, renk, doku gibi unsurlardır. Sorunun bağlamı genellikle Ünite 2'deki Moda Tasarımı tanımına odaklanmaktadır. (Ünite 2, Moda Tasarımı başlığı)
 
     <hr />
 
@@ -525,32 +479,6 @@
 
     <hr />
 
-### Kapalı Metin Tanımı
-
-1. ----, çok sınırlı bir yorum olanakları kümesi sunar. Esnekliği olmayan katı anlatılardır. Okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, acıma veya korku, heyecan veya çöküntü duygularını yerli yerinde ve gereken zamanda uyandıracak şekilde etkilemeyi amaçlayan metinlerdir.
-    - A-) Metonimler
-    - **Cevap B-) Kapalı metinler**
-    - C-) Yan anlamlar
-    - D-) Açık metinler
-    - E-) Düz anlamlar
-
-    > **Açıklama:** Ünite 3'te, 'Açık metinler birden fazla ve alternatif yorumları teşvik eder. Kapalı metinler ise sınırlı, tek bir yorumu teşvik etme eğilimindedir. Esnekliği olmayan katı anlatılardır. Okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, acıma veya korku, heyecan veya çöküntü duygularını yerli yerinde ve gereken zamanda uyandıracak şekilde etkilemeyi amaçlayan metinlerdir' ifadesiyle kapalı metinler tanımlanmaktadır. Bu tanım, sorudaki boşluğu doldurur.
-
-    <hr />
-
-### Kapalı Metinler ve Mit
-
-1. , çok sınırlı bir yorum sunar. Esnekliği olmayan katı anlatılardır. Okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, acıma veya korku, heyecan veya çöküntü duygularını yerli yerinde ve gereken zamanda uyandıracak şekilde etkilemeyi amaçlayan metinlerdir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Açık metinler
-    - B-) Metonimler
-    - C-) Sert metinler
-    - **Cevap D-) Kapalı metinler**
-    - E-) Yan anlamlar
-
-    > **Açıklama:** Soruda bahsedilen, esnekliği olmayan, katı anlatılar sunan ve okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, duyguları (acıma, korku, heyecan, çöküntü) uyandırmayı amaçlayan metinler 'Kapalı metinler' olarak tanımlanmaktadır. Ünite 3'te, açık metinlerin aksine, kapalı metinlerin tek bir yorumu teşvik etme eğiliminde olduğu belirtilmiştir. Mit ise, kökeni bilinmeyen, sembolik anlatılar olarak tanımlanır ve kapalı bir anlatım biçimine sahiptir, ancak sorunun genel bağlamı ve metinlerin duygusal yönlendirme amacı 'Kapalı Metinler' kavramına daha yakındır. Ancak verilen seçenekler arasında en uygun karşılık 'Kapalı Metin' kavramıdır. Metin içinde 'Kapalı metinler ise sınırlı, tek bir yorumu teşvik etme eğilimindedir.' ifadesi yer almaktadır. Mit de kapalı bir anlatıdır. Sorunun bağlamı muhtemelen Kapalı/Açık metinler ayrımına işaret etmektedir. Eğer seçenekler arasında 'Kapalı Metin' yoksa ve 'Mit' varsa, mitin de kapalı bir anlatı olduğu düşünülebilir.
-
-    <hr />
-
 ### Kültür ve Entelektüel Kavram
 
 1. Bozkurt Güvenç'e göre kültür tanımına ilişkin sınıflandırmada aşağıdakilerden hangisi yer almaz?<br />A) Maddi ve biyolojik alandaki kültür<br />B) Beşeri alandaki kültür<br />C) İdeolojik alandaki kültür<br />D) Bilimsel alandaki kültür<br />E) Estetik alandaki kültür
@@ -755,19 +683,6 @@
     - E-) Goya
 
     > **Açıklama:** Ünite 4'te (Sayfa 3), dijital sanatın ilk örnekleri olarak Benjamin F. Laposky ve Herbert Franke'nin çalışmalarının kabul edildiği belirtilir. Ancak aynı sayfada, Nake'den bahsederken, 'Günümüzde en çok kabul gören sanatçı ve tasarımcılar arasında gösterilenler arasında yer alan Leonardo da Vinci'nin, aynı zamanda bir bilim insanı ve mucit olduğu' ve 'ölümünden sonra yayınlanan Resim Üzerine İnceleme adlı kitabında altı renkten oluşan temel renklerinde, her rengin doğal dünyayla doğrudan bir ilişkisi vardır' bilgisi geçmektedir. Ancak, Leonardo da Vinci'nin dijital sanatın öncüsü olarak anıldığı bilgisi metinde doğrudan yokken, 'Sanat tarihinde sanatçılar, tasarımcılar oran/orantı kavramlarıyla çokça uğraşmıştır' başlığında, 'Leonardo da Vinci, sanatçılığının yanı sıra, aynı zamanda bir bilim insanı ve mucittir.' denilerek sanat ve bilimdeki etkinliğine atıf yapılmıştır. Sorunun bağlamı (eskiz ve üretim teknikleri ünitesinde) düşünüldüğünde, sadece bilim ve sanatla ilişkilendirilen ve eskizleri de olan en bilinen isimlerden biri D) Leonardo da Vinci'dir. (Not: Metinde Laposky ve Franke dijital sanatın ilk örnekleri olarak geçer, ancak Da Vinci de geleneksel eskiz ve bilim/sanat ilişkisi kuran önemli bir figürdür. Verilen seçenekler arasında sanatsal ve bilimsel katkıları en belirgin olan Da Vinci'dir.)
-
-    <hr />
-
-### Eskiz ve Üretim Teknikleri
-
-1. Hem bilim hem de sanat alanında eskiz çalışmaları ile dikkat çeken sanatçı aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Rauschenberg
-    - **Cevap B-) Leonardo da Vinci**
-    - C-) Picasso
-    - D-) Goya
-    - E-) Picabia
-
-    > **Açıklama:** Metinde, Frieder Nake'in, algoritmik bir çalışma geliştirerek yazdığı bilgisayar programıyla bilgisayara bağlı kalem ve yazıcı ile tasarımını kâğıda geçirdiği belirtilmektedir. Bu, hem dijital sanatın öncüsü olarak hem de eskiz/üretim teknikleri bağlamında önemli bir örnektir.
 
     <hr />
 
@@ -1062,32 +977,6 @@
 
     <hr />
 
-### Renk Psikolojisi
-
-1. Düşüncenin rengi olarak kabul edilen ve kişiler için otorite ve sonsuzluk sembolü olan renk aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Mor
-    - B-) Kırmızı
-    - C-) Siyah
-    - D-) Yeşil
-    - **Cevap E-) Lacivert**
-
-    > **Açıklama:** Ünite 6'da renklerin psikolojik etkileri incelenmiştir. Lacivert (veya mavi), genellikle otorite, sonsuzluk ve güvenle ilişkilendirilir. Metinde spesifik olarak lacivert için bu ifade geçmese de, genel renk psikolojisinde Mavi/Lacivert bu anlamları taşır. Verilen şıklar ve doğru cevap göz önüne alındığında, Lacivert/Mavi'nin otorite ve sonsuzluk ile ilişkilendirilen renk olduğu varsayılır (Ancak metinlerde Kırmızı için 'duygu', Siyah için 'güç, gizem' gibi vurgular varken, Lacivert'in doğrudan bu tanımıyla eşleştirilmesi, diğer renklerin tanımları ışığında zorunludur).
-
-    <hr />
-
-### Renk Sisteminin Kökenleri
-
-1. Ana renkler karıştırma gerektirmez. Görsel olarak başka renklere parçalanamaz ya da tamamlayıcı parçalara indirgenemez. Ana renklerin her biri birbirinden farklıdır çünkü hiçbir ortak yanları yoktur. Yukarıdaki anlatıma örnek verilebilecek renk aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Turuncu
-    - B-) Beyaz
-    - C-) Mor
-    - D-) Yeşil
-    - **Cevap E-) Sarı**
-
-    > **Açıklama:** Soru, renk sistemleri ve ana renkler hakkındadır. Ünite 6'da, 'Ana renkler, diğer renklerin karışımıyla elde edilemeyen sarı, mavi ve kırmızıdan meydana gelir. Bu üç renk eşit olarak ya da farklı oranlarda karıştırıldığında olası diğer ikincil renkler de elde edilir.' ifadesi yer almaktadır. Bu tanıma göre, ana renkler (sarı, mavi, kırmızı) karıştırma gerektirmeyen ve başka renklere indirgenemeyen renklerdir. Bu ana renklerden herhangi biri (kırmızı, sarı, mavi) sorunun cevabı olabilir.
-
-    <hr />
-
 ### Renk ve Leke İlişkisi
 
 1. Yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşması olarak tanımlanan kavram aşağıdakilerden hangisidir?
@@ -1124,16 +1013,6 @@
     - E-) Mor
 
     > **Açıklama:** Ünite 6'da renk çemberinde renklerin tamamlayıcılarının zıt renkler olduğu belirtilmiştir. Yeşil rengin ara renk olduğu varsayılırsa, ana renkler Kırmızı, Sarı, Mavi'dir. Tamamlayıcı renkler (zıtları) genel olarak renk çemberinde karşılıklı duranlardır. Metinde yeşil ara rengi için kontrast renk (zıt) olarak kırmızı-turuncu, sarı-yeşil, mavi-yeşil gibi ikili gruplar verilmiştir. Ancak, ana renklerin zıtlarına bakıldığında: Kırmızı'nın zıttı (yeşil-turuncu arasına düşen) civit mavisi/mavi-yeşildir (tamamlayıcı olarak yeşilin zıttı kırmızı-mor/kırmızı-turuncu değildir, tamamlayıcı renk çemberde zıttı olandır). Renk çemberinde yeşilin zıttı kırmızı-mor (veya magenta) civarındadır. Verilen seçenekler arasında, kırmızı ve yeşil zıt olarak kabul edilen temel/ana renk çiftlerinden biridir. Metinde yeşilin karşısındaki renkler arasında 'kırmızı-mor' geçmektedir. Verilen şıklar arasında Kırmızı (C) en yakın zıt/tamamlayıcı çifttir (Kırmızı-Yeşil temel zıtlık olarak kabul edilir).
-
-    <hr />
-1. Yeşil rengin kontrasti (zıttı) olan renk aşağıdakilerden hangisidir?
-    - A-) Sarı
-    - B-) Turuncu
-    - C-) Mor
-    - D-) Mavi
-    - **Cevap E-) Kırmızı**
-
-    > **Açıklama:** Ünite 6'da renk çemberinde 'Tamamlayıcı renkler ise renk çemberinde yer alan zıt iki renkten oluşur.' bilgisi verilmiştir. Renk çemberinde temel zıtlıklar arasında Kırmızı-Yeşil çifti bulunur. Yeşil rengin (ara renk) zıttı Kırmızı-Mor veya Kırmızı-Turuncu civarında yer alır. Verilen seçenekler arasında Kırmızı (E) yeşilin tamamlayıcısı/zıttı olarak en yaygın kabul gören temel renktir.
 
     <hr />
 
@@ -1175,16 +1054,6 @@
     - **Cevap E-) altın oran**
 
     > **Açıklama:** Altın oran, bir uzunluğun eşit olmayan şekilde ikiye bölünmesi sonucunda küçük parçaların büyük parçaya oranının, büyük parçanın bütüne oranına eşit olmasıdır. Bu oran, matematiksel bir ilişkiyi ifade eder. (Ünite 7, Oran/Orantı başlığı)
-
-    <hr />
-1. Bir uzunluğun eşit olmayan şekilde ikiye bölünmesi sonucunda küçük parçaların büyük parçaya oranının, büyük parçanın bütüne oranına eşit olmasına denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) renk
-    - **Cevap B-) altın oran**
-    - C-) oran-orantı
-    - D-) form
-    - E-) düzlem
-
-    > **Açıklama:** Boş bırakılan yerin tamamlanması gereken tanım, Altın Oran'ın (Golden Ratio) tanımıdır. Ünite 7'de "Altın Oran Nedir?" başlığı altında "Altın oran, matematik, sanat ve tasarım gibi alanlarla da açıklanır. Matematik bilim adamı Fibonacci, adıyla anılan rakamlarla geometrik yapıda bir sarmal oluşturmuştur. Bu sarmalın merkezinde oluşan bir birim dikdörtgen parçasının oranı bütünle orantılıdır." şeklinde tanımlanır ve tanımın devamında bu oranın oranları belirtilir.
 
     <hr />
 
@@ -1279,19 +1148,6 @@
 
     <hr />
 
-### Hiyerarşi Türleri
-
-1. Biçimsel büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yukarda tanımlanan hiyerarşi türü aşağıdakilerden hangisidir?
-    - A-) Serbest hiyerarşi
-    - B-) Tipografik hiyerarşi
-    - C-) Merkezi hiyerarşi
-    - D-) Renksel hiyerarşi
-    - **Cevap E-) Boyutsal hiyerarşi**
-
-    > **Açıklama:** Soruda tanımlanan hiyerarşi türü, büyüklük ve küçüklük ile kurgulanan, elemanların mesajdaki önemine göre boyutlandırıldığı yapıdır. Metinde bu durum, 'Boyutsal Hiyerarşi: Büyüklük ve küçüklük ile kurgulanan hiyerarşidir... Elemanların mesaja ait algılanırlığı artırmak için büyütülüp küçültülmesidir.' şeklinde açıklanmıştır.
-
-    <hr />
-
 ### Oran/Orantı ve Altın Oran
 
 1. Aşağıdakilerden hangisi mimari elemanların ölçülendirilmesinde ilk "Altın Oran" kullanılan mimari yapı örneklerinden biridir?
@@ -1302,19 +1158,6 @@
     - E-) Sidney Opera Binası
 
     > **Açıklama:** Ünite 7'deki 'Oran/Orantı' başlığı altında, sanat ve tasarım tarihinde en çok kullanılan oranın 'Altın Oran' olduğu belirtilmiştir. Altın Oran'ın Antik Yunan'da ortaya konulduğu ve Parthenon tapınağının bu orana göre yapıldığı, parçalarla bütün arasındaki uyumu ifade eden en önemli yapılardan biri olduğu bilgisi verilmektedir.
-
-    <hr />
-
-### Ritim ve Gestalt İlkeleri
-
-1. Ritim organizasyonu içerisinde göz tersi bir yönde şaşırtılarak ritimden koparılıp yine mesaja yönlendirilebilir Etkileyici bir tasarımda göz, sadece noktası denilen noktaya takılarak, bu noktadan yola çıkmalı ve tüm tasarımı dolaşmalıdır. Yukardaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) kadans
-    - B-) referans
-    - C-) performans
-    - **Cevap D-) dizonans**
-    - E-) rezonans
-
-    > **Açıklama:** Metindeki ifade, ritim ilkesinin ve bu bağlamda Gestalt algı yasasının etkili bir tasarımda gözün hareketini nasıl yönettiğini açıklamaktadır. Metinde, "Etkileyici bir tasarımda ise göz, sadece dizonans noktası denilen noktaya takılarak, bu noktadan yola çıkmalı ve tüm tasarımı dolaşmalıdır." ifadesi geçmektedir. Dolayısıyla boşluk 'dizonans' kelimesiyle tamamlanmalıdır.
 
     <hr />
 
@@ -1331,19 +1174,6 @@
 
     <hr />
 
-### Sadelik İlkesi
-
-1. Ünlü Alman mimar ve tasarımcı L. M. Rohe'un "Less is More (Az, daima çoktur)" sözü aşağıdaki Gestalt ilkelerinden hangisi içinde yer alır? *(3 kez soruldu)*
-    - **Cevap A-) Sadelik**
-    - B-) Simetri
-    - C-) Yön
-    - D-) Yakınlık
-    - E-) Benzerlik
-
-    > **Açıklama:** Ünite 7'de 'Sadelik' ilkesi anlatılırken, L. M. Rohe'un 'Less is More (Az, daima çoktur)' sözünün Gestalt'ın yalınlık ilkesini çok iyi anlattığı belirtilmektedir. Bu nedenle, 'Less is More' sözü sadelik ilkesiyle ilişkilidir.
-
-    <hr />
-
 ### Simetrik Denge
 
 1. Herhangi bir tasarım yüzeyinin (iki, üç boyutlu bir yüzey veya sanal ekran ya da arayüz tasarımında olduğu gibi) ortasından geçtiği varsayılan izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesine ne ad verilir?
@@ -1354,16 +1184,6 @@
     - **Cevap E-) Simetrik Denge**
 
     > **Açıklama:** Ünite 7'de 'Denge' ilkesi altında, simetrik dengenin tanımı yapılırken, 'Herhangi bir tasarım yüzeyinin ortasından geçtiğini varsaydığımız izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesidir.' ifadesi kullanılmıştır. Bu tanım, sorudaki boşluğu en doğru şekilde tamamlar.
-
-    <hr />
-1. Herhangi bir tasarım yüzeyinin (iki, üç boyutlu bir yüzey veya sanal ekran ya da arayüz tasarımında olduğu gibi) ortasından geçtiği varsayılan izafi bir çizginin sağının soluna eşit biçimsel elamanlarla düzenlenmesine ne ad verilir?
-    - **Cevap A-) Simetrik Denge**
-    - B-) Dairesel Denge
-    - C-) Radyal
-    - D-) Noktasal Denge
-    - E-) Espas
-
-    > **Açıklama:** Simetrik Denge, herhangi bir tasarım yüzeyinin ortasından geçtiği varsayılan izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesidir. Bu denge türü genellikle durağan ve hareketsiz bir denge sağlar.
 
     <hr />
 
@@ -1418,19 +1238,6 @@
     - E-) Bulut bilişim
 
     > **Açıklama:** Soru, fiziksel dünya ile dijital içeriğin etkileşimini ifade eden deneyim türünü sormaktadır. Ünite 8'de, Artırılmış Gerçeklik (AR) tanımında, 'Artırılmış gerçeklik metinleri, görüntüleri veya videoları gerçek hayattaki nesnelerin üzerine akıllıca yerleştiren dijital bir teknolojiyi belirtir.' ifadesi yer alır. Ayrıca, 'Sanal gerçeklik ile Artırılmış gerçeklik arasındaki temel fark, gerçeğe görsel erişimdir... Artırılmış gerçeklik gerçek dünya ile deneyimi etkileşimli bir hâle getirmeyi hedefler.' denilmektedir. Bu teknoloji, fiziksel dünyayı dijital ögelerle zenginleştirerek algı yanılsaması yaratır.
-
-    <hr />
-
-### Bellek Kavramı Tanımı
-
-1. Yaşananları, öğrenilen konuları, bilgileri almak, depolamak, saklamak ve daha sonra kullanmak için aktif hâle geçen süreci ifade eder. Yukarıdaki tanımlamanın kavram aşağıdakilerden hangisidir?
-    - A-) Düşünce
-    - B-) Algı
-    - C-) İmge
-    - D-) Kültür
-    - **Cevap E-) Bellek**
-
-    > **Açıklama:** Ünite 8'de, 'Yaşananları, öğrenilen konuları, bilgileri almak, depolamak, saklamak ve daha sonra kullanmak için aktif hâle geçen süreci ifade eder' tanımı, 'Bellek' kavramına aittir. Metinde bu süreçler 'Kodlama, Depolama ve Geri Alma' başlıkları altında açıklanmıştır.
 
     <hr />
 

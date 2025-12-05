@@ -208,19 +208,6 @@
 
     <hr />
 
-### Ekran Boyutları ve Çözünürlük
-
-1. Ekran üzerindeki tipografinin görüntünün keskinliğini ya da netliğini tanımlamak için kullanılan ölçü aşağıdakilerden hangisidir?
-    - A-) Piksel
-    - B-) Yoğunluk
-    - **Cevap C-) Çözünürlük**
-    - D-) Punto
-    - E-) Ton
-
-    > **Açıklama:** Ekranın çözünürlüğü, hem yatay hem de dikey olarak görüntülenen resim ögelerinin (piksel veya basit noktalar) sayısını ifade eder. Bu, ekran üzerindeki tipografinin keskinliğini veya netliğini belirleyen temel teknolojik özelliktir.
-
-    <hr />
-
 ### Ekran ve Çözünürlük
 
 1. Ekran üzerindeki tipografinin ya da görüntünün keskinliğini ve netliğini tanımlamak için kullanılan ölçü aşağıdakilerden hangisidir?
@@ -590,19 +577,6 @@
     - E-) Ivan Chermayeff
 
     > **Açıklama:** Gotham yazı karakteri, Jonathan Hoefler ve Tobias Frere-Jones tarafından 2000 yılında yayımlanmıştır ve esin kaynağı New York'taki Liman İşletmeleri Otobüs Terminali'nin tabelasıdır. Bu bilgi Ünite 5'te geçmektedir.
-
-    <hr />
-
-### Yazı Karakteri Temel Terimleri
-
-1. Alfabenin özgün bir tasarımını tamamlamak için kullanılan terim ne ad verilir?
-    - **Cevap A-) Yazı karakteri**
-    - B-) Yazı stili
-    - C-) Yazı ailesi
-    - D-) Glif
-    - E-) Karakter
-
-    > **Açıklama:** Ünite 5'te, 'Yazı Karakteri (Typeface)' terimi, alfabenin özgün bir tasarımını tanımlamak için kullanılan terim olarak geçmektedir. Bu, belirli bir stil ve görünüme sahip harf setinin temelini oluşturur.
 
     <hr />
 

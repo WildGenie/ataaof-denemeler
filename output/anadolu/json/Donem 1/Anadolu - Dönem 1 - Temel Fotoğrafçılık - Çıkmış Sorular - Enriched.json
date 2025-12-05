@@ -593,8 +593,10 @@
             "UniteNo": 6,
             "topic": "Agrandisör Yardımcıları",
             "explanation": "Betimlenen özellikler (cetvel göstergesi, kâğıdı sabitleme, bombe yapmasını engelleme) Marjör'e aittir. Ünite 6'da, \"Marjör: Agrandisör tablasının üstüne konularak kullanılan bu aparatın baskı sırasında iki işlevi bulunur. Yatay ve düşey düzlemde cetvel göstergesi ve ayarlanabilir kolları sayesinde baskı boyutu ayarlanabilir. İkinci olarak, kâğıdın bu kolların altına yerleştirilmesiyle hareket etmesi engellenmiş olur...\" denilmektedir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 15,
+            "similarity_score": 0.9847297072410583
         },
         {
             "id": 31,
@@ -933,7 +935,8 @@
             "explanation": "Ünite 3'teki pozometre başlığı altında, DSLR makinelerin altı ana ölçüm modu sıralanmıştır: Ortalama Ölçüm, Merkez Ağırlıklı Ortalama Ölçüm, Noktasal Ölçüm, Kısmen Ölçüm, Çoklu Nokta Ölçüm ve Genel Değerlendirmeli Matrix Ölçüm. Manzara ve topluluk fotoğraflarında genellikle genel ışık dağılımını temsil eden Ortalama Ölçüm modu kullanılır. Bu, B şıkkında belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 5,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 48,
@@ -994,7 +997,8 @@
             "explanation": "Ünite 6 özetine göre, Kontak Baskı, bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine pozitif olarak basılmasıdır. Bu işlem, büyük boy baskı için kareden seçim yapmaya olanak tanır. Bu tanım C şıkkını doğrulamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 13,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 51,
@@ -1136,8 +1140,9 @@
             "topic": "Kontrast Azaltıcı Filtre",
             "explanation": "Ünite 7'de, kontrast azaltıcı filtrelerin kontrastın yoğun olduğu ortamlarda görüntüyü yumuşatmak için kullanıldığı belirtilmiştir. Mavi ve yeşil filtreler bu amaçla kullanılır. Gün ışığı ortamında genel kontrastlığı yumuşatmak için Mavi Filtre tercih edildiği belirtilmiştir. Bu nedenle D şıkkı doğrudur.",
             "is_duplicate": true,
-            "duplicate_of": 174,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 17,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.9555391669273376
         },
         {
             "id": 58,
@@ -1277,7 +1282,8 @@
             "explanation": "Doğru cevap A şıkkıdır. Ünite 1'de 'İlk Kamera ve Baskı Yöntemleri' başlığı altında, Camera Obscura'ya mercek yerleştirme fikrini 1550 yılında İtalyan Girolamo Cardano'nun ileri sürdüğü belirtilir. Hemen ardından gelen paragrafta, aynı yıllarda Daniello Barbaro'nun 'camera obscuranın önüne ikinci bir mercek takmıştır' ifadesiyle katkısı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 41,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 0.9886921048164368
         },
         {
             "id": 65,
@@ -1401,7 +1407,8 @@
             "explanation": "Doğru cevap B şıkkıdır. Ünite 5'te 'Bakaç Sistemine Göre Makineler' başlığı altında, ayrı bakaçlı makinelerde vizör ile objektifin farklı görüş açıları olması nedeniyle görüntüde meydana gelen kayba 'paralaks hatası' ismi verildiği açıkça belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 71,
@@ -1463,8 +1470,9 @@
             "topic": "Gizli Görüntü",
             "explanation": "Doğru cevap D şıkkıdır. Ünite 6'da 'Geliştirme Banyosu' bölümünde, geliştirme işlemi sırasında gizli görüntünün yüzeyde açığa çıktığı belirtilir. Gizli görüntü, fotoğraf çekildikten sonra duyarkatta oluşan, ancak gözle görülmeyen görüntüdür.",
             "is_duplicate": true,
-            "duplicate_of": 172,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 35,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.9940198659896851
         },
         {
             "id": 74,
@@ -1505,7 +1513,8 @@
             "explanation": "Doğru cevap A şıkkıdır. Ünite 8'de 'Sensörler' başlığı altında, analog fotoğrafçılıktaki filmlerin yerini sayısal fotoğrafçılıkta sensörlerin (görüntü algılayıcılar) aldığı açıkça belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 16,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 76,
@@ -1608,7 +1617,8 @@
             "explanation": "Doğru cevap A şıkkıdır. Ünite 8'de 'RAW Dosya Formatı' başlığı altında, RAW formatın 'dijital fotoğraf makinelerinde düzenlenmemiş ve işlenmemiş ham görüntü verilerini' içerdiği ve sensörden gelen dijital verilerin hiçbir işleme tabi tutulmadan doğrudan belleğe yazıldığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 37,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 81,
@@ -1704,8 +1714,10 @@
             "UniteNo": 3,
             "topic": "Enstantane Tanımı",
             "explanation": "Enstantane (örtücü), fotoğraf makinelerinde, objektif içinden geçen ışınları kesmeye yarayan ve ışığın algılayıcı yüzeyde kalma süresini kontrol eden düzeneğe denir. (Ünite 3, Fotoğraf Makinesinin Ana Elemanları başlığı altında açıklanmıştır).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 21,
+            "similarity_score": 0.9532217383384705
         },
         {
             "id": 86,
@@ -1825,7 +1837,9 @@
             "topic": "Aydınlatma Yönleri",
             "explanation": "Ön aydınlatma (cephe aydınlatması) fotoğrafçının arkasına güneşi alarak yaptığı çekimlerde gölgelerin nesnelerin arkasına düşmesi durumunu ifade eder. (Ünite 2, Yönlere Göre Işık Kullanımı başlığı altında açıklanmıştır).",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 26,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 92,
@@ -1885,7 +1899,9 @@
             "topic": "Pozometre İşlevi",
             "explanation": "Pozometre (Işıkölçer), konuya düşen ışığı ölçerek, diyafram ve enstantane değerleri olarak fotoğraf makinesine bilgi verir. Temel işlevi ışık miktarının şiddetini ölçmektir. (Ünite 3, Fotoğraf Makinesi Ekipmanları başlığı altında açıklanmıştır).",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 27,
+            "similarity_score": 1.0
         },
         {
             "id": 95,
@@ -2061,8 +2077,10 @@
             "UniteNo": 3,
             "topic": "Kamera Elemanları",
             "explanation": "Ünite 3'te açıklandığı üzere, enstantane (örtücü), fotoğraf makinelerinde üçüncü temel eleman olup, objektif içinden geçen ışınları kesmeye yarayan ve ışığın algılayıcı yüzeyde kalma süresini kontrol eden düzeneğin adıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 85,
+            "similarity_score": 0.9683640599250793
         },
         {
             "id": 104,
@@ -2184,7 +2202,8 @@
             "explanation": "Ünite 2'de, gölgelerin nesnelerin arkasına düştüğü aydınlatma türünün 'Ön aydınlatma' (cephe aydınlatması) olduğu belirtilmiştir. Bu durumda ışık fotoğrafçının arkasından gelir.",
             "is_duplicate": true,
             "duplicate_of": 91,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 110,
@@ -2265,7 +2284,8 @@
             "explanation": "Ünite 7'de Softbox'un, aydınlatma kaynağını tek yönlü olarak yumuşatan, bez ya da kumaş destekli kutuya benzer bir ekipman olduğu ve sert ışığı yumuşattığı belirtilmiştir. Dağıtıcı/Difüzör ışığı dağıtır ancak Softbox özel bir kutu formundadır.",
             "is_duplicate": true,
             "duplicate_of": 24,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 114,
@@ -2422,8 +2442,10 @@
             "exam_question_number": 1,
             "source": "Ara Sınav 2023-2024",
             "material_id": "541186",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 105,
+            "similarity_score": 0.9819261431694031
         },
         {
             "id": 122,
@@ -2482,8 +2504,10 @@
             "UniteNo": 1,
             "topic": "İlk Fotoğraf Kaydı",
             "explanation": "Ünite 1'de, \"1826 yılında Fransız Joseph Nicephore Niepce, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir ve aynı zamanda helyograf olarak adlandırılır.\" bilgisi yer almaktadır. Bu bilgiye göre, Niepce'nin ilk fotoğrafı aynı zamanda helyograf olarak adlandırılır. Bu nedenle doğru cevap D şıkkıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 102,
+            "similarity_score": 0.9881178736686707
         },
         {
             "id": 125,
@@ -2544,7 +2568,8 @@
             "explanation": "Ünite 2'de Kontrast başlığı altında, \"Kontrast, zıtlık anlamını taşıyan bir kelimedir. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır.\" denilmektedir. Bu, soruda belirtilen kavramın tanımıdır. Bu nedenle doğru cevap D şıkkıdır.",
             "is_duplicate": true,
             "duplicate_of": 107,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 128,
@@ -2565,7 +2590,8 @@
             "explanation": "Ünite 2'de Beyaz Ayarı (Beyaz Dengesi) ile ilgili bölümde, 'DSLR fotoğraf makinelerinin... otomatik olarak yapabildiği gibi, makineye ön tanımlı olan renk sıcaklıklarına göre manuel olarak da yapabilmektedir.' denilerek ayar seçeneklerinden bahsedilmiştir. Bu seçenekler arasında 'Otomatik', 'Gün ışığı modu' (Gün ışığı/Tungsten), 'Gölge modu' (Gölge), 'Tungsten ışık modu' (Tungsten) sayılabilir. Chiaroscuro (ışık ve gölge) ise dramatik etki türlerinden biridir ve beyaz ayar modu değildir (Ünite 2, Işık ve Dramatik Etki başlığı altında bahsedilmiştir). Bu nedenle doğru cevap A şıkkıdır.",
             "is_duplicate": true,
             "duplicate_of": 45,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 129,
@@ -2585,8 +2611,9 @@
             "topic": "Softbox Tanımı",
             "explanation": "Ünite 2'de Softbox, \"Aydınlatma kaynağını tek yönlü olarak yumuşatan bez ya da kumaş destekli kutuya benzer ekipmandır. Kutu biçimli formuyla ışığın etrafını saran softbox, konuya düşen ışığın şiddetini azaltarak keskin gölgeleri ve ışığın patlamasını engellemek için kullanılır.\" şeklinde tanımlanmıştır. Bu tanım, soruda bahsedilen ekipmanı açıklamaktadır. Bu nedenle doğru cevap C şıkkıdır.",
             "is_duplicate": true,
-            "duplicate_of": 24,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 113,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 130,
@@ -2606,7 +2633,9 @@
             "topic": "Renk Isısı Ölçü Birimi",
             "explanation": "Ünite 2'de Işığın Rengi başlığı altında, \"Renk ısısı, aydınlatma kaynaklarının ortaya çıkardığı renklerdir. Kelvin değeri olarak ifade edilir.\" bilgisi yer almaktadır. Bu, renk ısısının ölçü biriminin Kelvin olduğunu gösterir. Bu nedenle doğru cevap B şıkkıdır.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 63,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 131,
@@ -2626,7 +2655,9 @@
             "topic": "Resimsel Renk",
             "explanation": "Ünite 2'de 'Fotoğrafta Renk' altında, renklerin kullanım amaçları sayılırken, 'Resimsel ışık ise dramatik ışığa karşılık gelmektedir. Resimsel ışığın türleri ise; chiaroscuro (ışık ve gölge), yumuşak ışık, boyasal ışık, gün ışığı ve dramatik etki ve gölge şeklinde sıralanabilir.' ifadesi yer almaktadır. Ancak, Ünite 4'te daha detaylı bir sıralama mevcuttur: 'Fotoğrafta renk; resimsel renk, tarihsel renk, sembolik renk ve psikolojik renk şeklinde kullanılmaktadır.' Soru, renk türlerinden 'Resimsel renk'i kastetmektedir. Ünite 2'nin ilgili bölümünde Dramatik Etki ile ilişkilendirilen 'resimsel ışık' türlerinden bahsedilmiştir. Resimsel renk, tablo gibi renklendirmeyi ve kompozisyonu ifade eden düzenleme ile ilgilidir. Bu nedenle doğru cevap D şıkkıdır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 4,
+            "similarity_score": 0.9858993291854858
         },
         {
             "id": 132,
@@ -2665,8 +2696,10 @@
             "UniteNo": 2,
             "topic": "Ters Aydınlatma ve Siluet",
             "explanation": "Ünite 2'de Arka aydınlatma (Ters ışık) tanımında, \"Bu durum gölgelerin yönü ile ilgilidir. Kameranın tam karşısından gelen ışık nesnelerin arkasını aydınlattığı için gölgeler kameranın gördüğü ön kısımda kalır. Bu nedenle arka aydınlatma ile güçlü siluetler ve lekeler oluşturulabilir.\" denilmektedir. Siluet çekimleri, arka/ters aydınlatma ile ilişkilidir ve en yüksek kontrastı (gölge ve ışık ayrımı) sağlayan türlerdendir. Bu nedenle doğru cevap C şıkkıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 6,
+            "similarity_score": 0.9581964612007141
         },
         {
             "id": 134,
@@ -2687,7 +2720,8 @@
             "explanation": "Ünite 2'de LED Işıklar başlığı altında avantajlar listelenmiştir: 'Kullanım kolaylığı', 'Renk kararlılığı', 'Dual-Color teknolojisi ve flicker-free özelliği', 'Portatif, hafif ve taşınabilir olması', 'Elektrikten adaptör veya kamera bataryasıyla çalışma özelliği', 'Daha güçlü ve uzun ömürlü olmaları', 'Düşük enerji sarfiyatı', 'Dijital göstergelere sahip olmaları'. Listede 'Yüksek enerji sarfiyatı sağlamaları' gibi bir avantaj bulunmamaktadır; aksine düşük enerji sarfiyatı avantajdır. Bu nedenle doğru cevap A şıkkıdır.",
             "is_duplicate": true,
             "duplicate_of": 112,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 135,
@@ -2749,7 +2783,8 @@
             "explanation": "Ünite 2'de Renk başlığı altında, 'Kırmızı mavi ve yeşil renklere toplamsal ana renkler de denilmektedir.' ifadesi yer alır. Fiziksel sistemde renk, ışığın dalga boyu ile ilişkilidir. Genel fizikte (ve bağlam olarak), kırmızı genellikle en uzun dalga boyuna (en düşük frekansa) sahip ışık rengi olarak kabul edilirken, mavi/mor en kısa dalga boyuna sahiptir. Metinde dalga boyu ile ilgili sıralama olmamasına rağmen, geleneksel ışık spektrumu bilgisine göre, kırmızı en uzun dalga boyuna sahiptir. Bu nedenle doğru cevap E şıkkıdır.",
             "is_duplicate": true,
             "duplicate_of": 25,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 138,
@@ -2809,7 +2844,9 @@
             "topic": "Çizgi Tanımı",
             "explanation": "Ünite 4'te Çizgi başlığı altında, \"Çizgi: İki noktayı bir birine bağlayan doğru parçasıdır. Çizgi, fotografik anlatımda ilk anlatım elemanıdır.\" şeklinde tanım yapılmıştır. Bu, sorudaki tanıma tam olarak uymaktadır. Bu nedenle doğru cevap A şıkkıdır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 120,
+            "similarity_score": 0.9738759994506836
         },
         {
             "id": 141,
@@ -2887,7 +2924,8 @@
             "explanation": "Ünite 5'te özel amaçlı fotoğraf makineleri listelenirken, Stereoskopik fotoğraf makineleri, Roll film, APS film, Leica format ve Panoramik fotoğraf makineleri sayılmıştır. Panoramik fotoğraf makineleri, geniş açılı çekimler için kullanılır ve 140°'lik bir sahanın görüntüsünü alabilirler. Sorudaki 140°'lik açıya en yakın olan E şıkkındaki Panaromik Makinelerdir (Ünite 7'de de panoramik makinelerden bahsedilmektedir, ancak burada 5. ünitedeki listeye atıf yapıldığı varsayılmıştır. Panoramik makineler geniş açıları yakalar).",
             "is_duplicate": true,
             "duplicate_of": 123,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 145,
@@ -2906,8 +2944,10 @@
             "UniteNo": 3,
             "topic": "Temel Fotoğraf Elemanları",
             "explanation": "Boş bırakılan yer, objektif içinden geçen ışınları kesmeye yarayan düzenektir. Ünite 3'te 'Enstantane (örtücü): Fotoğraf makinelerinin üçüncü temel olan elemanlarındandır. Dijital veya analog her fotoğraf makinesinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzenektir' şeklinde tanımlanmıştır. Bu nedenle B şıkkı doğrudur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 103,
+            "similarity_score": 0.9593007564544678
         },
         {
             "id": 146,
@@ -2928,7 +2968,8 @@
             "explanation": "Ünite 2'de renk ısısının ölçü birimi belirtilmiştir: 'Renk ısısı, aydınlatma kaynaklarının ortaya çıkardığı renklerdir. Kelvin değeri olarak ifade edilir.' Bu bilgiye göre A şıkkı doğrudur.",
             "is_duplicate": true,
             "duplicate_of": 130,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 147,
@@ -2949,7 +2990,8 @@
             "explanation": "Ünite 2'de bir rengin ve tonlarının fotoğrafın tümünde yer alması 'Hâkim renk' olarak tanımlanır: 'Hâkim renk, bir renk ve bu rengin tonların fotoğrafın tümünde yer alması ile ilgilidir.' Bu, A şıkkı ile eşleşmektedir.",
             "is_duplicate": true,
             "duplicate_of": 126,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 148,
@@ -2989,8 +3031,9 @@
             "topic": "Renklerin Kullanım Amaçları",
             "explanation": "Soruda bahsedilen kullanım amacı, 'Fotoğrafın tarihi serüveni siyah beyaz olarak ortaya çıkan görüntülere dayanmaktadır... Renkli fotoğraflar üreten fotoğrafçılar günümüzde siyah-beyaz fotoğrafı tercih eden sanatçılarından sayısal olarak eskiye nazaran oldukça fazladır. Bu tercih önemli bir sanatsal değişimdir.' Bu bağlamda, fotoğrafın temel unsurları olarak resimsel, tarihsel, sembolik ve psikolojik renk kullanımından bahsedilmiştir (Ünite 2). Tablo gibi renklendirmeyi anımsatan ve resimsel kompozisyonu ifade eden, ifadenin temelini oluşturan, başlangıcı ve denge unsuru olan renk kullanımı genellikle 'Resimsel renk' kategorisi altında ele alınır (Ünite 2'nin sonlarına doğru renklerin kullanım amaçları listelenmektedir).",
             "is_duplicate": true,
-            "duplicate_of": 131,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 4,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9858993291854858
         },
         {
             "id": 150,
@@ -3071,7 +3114,8 @@
             "explanation": "Ünite 1'de diyafram açıklık değerinin hangi harfle ifade edildiği belirtilmiştir: 'Diyafram açıklığına “f” adı verilir...' Bu bilgiye göre B şıkkı doğrudur.",
             "is_duplicate": true,
             "duplicate_of": 139,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 154,
@@ -3091,8 +3135,9 @@
             "topic": "LED Avantajları",
             "explanation": "LED ışıkların avantajları Ünite 7'de sıralanmıştır: Kullanım kolaylığı, Renk kararlılığı, Dual-Color teknolojisi ve flicker-free özelliği, Portatif ve hafif olması, Elektrikten adaptör veya kamera bataryasıyla çalışma özelliği, Daha güçlü ve uzun ömürlü olmaları ve Düşük enerji sarfiyatı. Yüksek enerji sarfiyatı sağlamaları (A şıkkının tersi) avantajlarından biri değildir. Bu nedenle C şıkkı yanlıştır.",
             "is_duplicate": true,
-            "duplicate_of": 112,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 134,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 155,
@@ -3112,8 +3157,9 @@
             "topic": "Çizgi Tanımı",
             "explanation": "İki noktayı birbirine bağlayan doğru parçası ve fotoğrafik anlatımın ilk elemanı olarak tanımlanan öge çizgidir. Ünite 4'te Çizgi başlığı altında: 'İki noktayı bir birine bağlayan doğru parçasıdır. Çizgi, fotografik anlatımda ilk anlatım elemanıdır' denilmektedir. Bu nedenle D şıkkı doğrudur.",
             "is_duplicate": true,
-            "duplicate_of": 140,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 120,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9738759994506836
         },
         {
             "id": 156,
@@ -3231,7 +3277,9 @@
             "source": "Dönem Sonu 2021-2022",
             "material_id": "522743",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 106,
+            "similarity_score": 1.0
         },
         {
             "id": 162,
@@ -3251,7 +3299,9 @@
             "topic": "Renk Isısı ve Kelvin",
             "explanation": "Rengin Isısı, aydınlatma kaynaklarının ortaya çıkardığı renklerdir ve Kelvin değeri olarak ifade edilir (Ünite 2 özetinde belirtilmiştir). Diğer şıklar (Stop, F değeri, Doygunluk, Kontrast) ışık/renk ile ilgili farklı parametrelerdir.",
             "occurrence_count": 4,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 66,
+            "similarity_score": 1.0
         },
         {
             "id": 163,
@@ -3291,8 +3341,9 @@
             "topic": "Ayrı Bakaç Hataları",
             "explanation": "Ayrı bakaçlı fotoğraf makinelerinde vizör ile objektifin farklı görüş açıları olması nedeniyle görüntüde meydana gelen kayba 'paralaks hatası' ismi verilir (Ünite 5 özetinde belirtilmiştir).",
             "is_duplicate": true,
-            "duplicate_of": 9,
-            "original_source": "Yaz Okulu 2020-2021"
+            "duplicate_of": 70,
+            "original_source": "Yaz Okulu 2020-2021",
+            "similarity_score": 1.0
         },
         {
             "id": 165,
@@ -3312,7 +3363,9 @@
             "topic": "Dijital Ortam Yazılımları",
             "explanation": "Fotoğrafçılar, Adobe Photoshop veya Adobe Lightroom gibi yazılımlar kullanır. Photoshop programı, RAW formatındaki fotoğraflara özel işlemler için 'Adobe Photoshop Camera RAW' eklentisine ihtiyaç duyar (Ünite 7 özetinde belirtilmiştir).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 42,
+            "similarity_score": 1.0
         },
         {
             "id": 166,
@@ -3412,7 +3465,9 @@
             "topic": "Otomatik Netleme",
             "explanation": "Otomatik netleme sistemine sahip fotoğraf makineleri AF (Auto Focus) kısaltması ile kodlanır (Ünite 7 özetinde belirtilmiştir).",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 52,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 171,
@@ -3452,7 +3507,9 @@
             "topic": "Pozlama Sonucu",
             "explanation": "Pozlama sırasında duyarkatta oluşan ancak ışık görmeyen bölgelerde kimyasal reaksiyon görülmeyen gizli görüntü, pozlama bittikten sonra banyo işlemleriyle açığa çıkarılır (Ünite 6'da Geliştirme banyosu anlatılırken, pozlama sonrası oluşan bu görüntüye 'gizli görüntü' denir).",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 35,
+            "similarity_score": 0.9940198659896851
         },
         {
             "id": 173,
@@ -3492,7 +3549,9 @@
             "topic": "Kontrast Azaltıcı Filtreler",
             "explanation": "Mavi filtreler, kontrast azaltıcı filtrelerdendir ve genellikle gün ışığı ortamında yapılan çekimlerde genel kontrastlığı yumuşatmak için kullanılır (Ünite 2 özetinde Mavi Filtre'nin tanımı bu şekildedir).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 17,
+            "similarity_score": 0.9555391669273376
         },
         {
             "id": 175,
@@ -3572,7 +3631,9 @@
             "topic": "Objektif Çeşitleri",
             "explanation": "Süper Tele Objektifler, dar açılı tele objektifler grubuna girer ve genellikle 200 mm ve üstü odak uzaklığına sahiptirler. Konuları çok büyüterek ayrıştırırlar (Ünite 7 özetinde Süper Tele Objektifler tanımlanmıştır).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 76,
+            "similarity_score": 1.0
         },
         {
             "id": 179,
@@ -3628,8 +3689,10 @@
             "exam_question_number": 1,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "522765",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 2,
+            "similarity_score": 0.9876531362533569
         },
         {
             "id": 182,
@@ -3670,7 +3733,8 @@
             "explanation": "Ünite 2'de Işığın Rengi başlığı altında, 'Renk ısısı, aydınlatma kaynaklarının ortaya çıkardığı renklerdir. Kelvin değeri olarak ifade edilir.' bilgisi yer almaktadır. Bu nedenle, aydınlatma kaynaklarının ortaya çıkardığı renk ısıları Kelvin değeri ile ifade edilir. D şıkkı doğrudur.",
             "is_duplicate": true,
             "duplicate_of": 162,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 184,
@@ -3751,7 +3815,8 @@
             "explanation": "Ünite 7'de, otomatik netleme sistemine sahip fotoğraf makinelerinin kısaltmasının 'AF' (Auto Focus) olduğu açıkça belirtilmiştir: 'Otomatik netleme sistemine sahip fotoğraf makineleri AF kısaltması ile kodlanırlar.'",
             "is_duplicate": true,
             "duplicate_of": 170,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 188,
@@ -3771,7 +3836,9 @@
             "topic": "Full Frame Boyutu",
             "explanation": "Ünite 8'de DSLR ve Full-Frame Makineler başlığı altında, 'Film boyutu olarak 35'lik sensör boyutunda olan sayısal makineleri FULL FRAME DSLR olarak adlandırılır.' bilgisi verilmiştir. 35mm formatın boyutu, metinde (ve genel bilgi olarak) 24x36 mm olarak kabul edilir. 'Bu nedenle normal, standart olarak adlandırılmışlardır. 40-50 mm odak aralığında...' (Ünite 7, normal objektif) veya '35mm'lik film kullanan ilk ticari taşınabilir kamera' (Ünite 5) ifadelerinden yola çıkılırsa, 35mm filmin boyutu 24x36 mm'dir. C şıkkı doğrudur.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 72,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 189,
@@ -3791,7 +3858,9 @@
             "topic": "Kontrast Tanımı",
             "explanation": "Ünite 2'de Kontrast başlığı altında, 'Kontrast, zıtlık anlamını taşıyan bir kelimedir. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır.' bilgisi yer almaktadır. Ara gri tonların varlığı ya da yokluğu, bu en açık ve en koyu tonların arasındaki farkı (kontrastı) belirler. B şıkkı doğrudur.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 71,
+            "similarity_score": 1.0
         },
         {
             "id": 190,
@@ -3831,7 +3900,9 @@
             "topic": "RC Kağıt Katmanları",
             "explanation": "Ünite 6'da Siyah beyaz fotoğraf kağıtlarının yapısı anlatılırken, 'Taşıyıcı taban yüzeyi ışığa duyarsızdır. Plastik tabanlı olarak ifade edilen kâğıtlar ise polietilen malzemeden üretilirler.' denilmektedir. RC (Reçine Kaplı) kağıtlar genellikle Polietilen kaplı bir kağıt taban üzerine emülsiyon katmanından oluşur. Negatif katman (A) yoktur; emülsiyon (C) ışığa duyarlı katmandır, kağıt tabanı (D) vardır ve polietilen (E) kaplama/taban malzemesi olarak geçer. Negatif Katman (A) RC kağıdın bir katmanı değildir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 53,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 192,
@@ -3871,8 +3942,9 @@
             "topic": "Gizli Görüntü",
             "explanation": "Ünite 6'da Karanlık Odada Bir Fotoğrafın Oluşum Süreçleri anlatılırken, Geliştirme banyosunun görevi şu şekilde açıklanır: 'Böylece film ya da kâğıt üzerinde pozlanan gizli görüntüyüzeyde açığa çıkar.' Bu, pozlama sonucu oluşan, ancak kimyasal işlem (geliştirme) ile görünür hale gelmeyen görüntüye verilen isimdir. Gizli Görüntü (B) doğrudur.",
             "is_duplicate": true,
-            "duplicate_of": 172,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 35,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.9940198659896851
         },
         {
             "id": 194,
@@ -3953,7 +4025,8 @@
             "explanation": "Ünite 2'de Kontrast Etki Veren Filtreler başlığı altında, 'Orta Sarı Filtre: Yeşil tonlarını daha aydınlık ve parlak bir hâle getirirken, mavi rengin yoğunluğunu arttırmaktadır.' bilgisi mevcuttur. A şıkkı doğrudur.",
             "is_duplicate": true,
             "duplicate_of": 173,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 198,
@@ -3974,7 +4047,8 @@
             "explanation": "Ünite 8'de Histogram başlığı altında, 'Histogram, bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafiktir.' ifadesi yer almaktadır. Ayrıca Parlaklık (luminance) histogramından bahsedilmektedir. B şıkkı doğrudur.",
             "is_duplicate": true,
             "duplicate_of": 177,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 199,
@@ -4014,8 +4088,9 @@
             "topic": "RAW Dosya Formatı",
             "explanation": "Ünite 8'de RAW Dosya Formatı başlığı altında, 'Raw, görüntü formatı seçilen fotoğraf çekimi sırasında, sensörden gelen dijital veriler hiçbir işleme tabi tutulmadan doğrudan belleğe yazılmaktadır.' ifadesi yer almaktadır. Bu format sıkıştırılmamış ham veriyi içerir. E şıkkı doğrudur.",
             "is_duplicate": true,
-            "duplicate_of": 37,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 80,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 201,
@@ -4053,7 +4128,8 @@
             "explanation": "Bir ışık kaynağından gelen ışık ile konu arasındaki mesafe arttıkça ışığın yoğunluğunun azalması ve ışığın zayıflaması durumu, ışık ve mesafeyi 'Ters Kare Yasası' açıklar. Bu yasa, ışığın artış veya azalışının ışık kaynağının konuya olan mesafesinin karesi ile ters orantılı olduğunu belirtir. (Ünite 2, Işığın Şiddeti)",
             "is_duplicate": true,
             "duplicate_of": 110,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 0.9957514405250549
         },
         {
             "id": 203,
@@ -4074,7 +4150,8 @@
             "explanation": "Fotoğraf yüzeyinde amacına uygun kullanılan boşluklara 'Espas' denir. Espas, gözün nefes alması, konuya yönlendirme, imgeyi güçlendirme ve derinlik etkisini artırma gibi görevlere sahiptir. (Ünite 4, Fotoğrafik Ögeler)",
             "is_duplicate": true,
             "duplicate_of": 163,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 0.995669424533844
         },
         {
             "id": 204,
@@ -4094,8 +4171,9 @@
             "topic": "Renk Isısı Ölçümü",
             "explanation": "Renk ısısı, aydınlatma kaynaklarının ortaya çıkardığı renkleri ifade eder ve Kelvin değeri ile ifade edilir. (Ünite 2, Rengin Özellikleri ve Isısı)",
             "is_duplicate": true,
-            "duplicate_of": 162,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 183,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 205,
@@ -4115,7 +4193,9 @@
             "topic": "Objektif AF Kavramı",
             "explanation": "AF kısaltması, fotoğraf makinelerinde otomatik netleme sistemini ifade eder. Bu sistem, deklanşöre yarım basılarak devredeki bir noktaya netleme yapılmasına olanak tanır. (Ünite 7, Objektifler: Çalışma Prensipleri ve Kullanım Alanları)",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 68,
+            "similarity_score": 1.0
         },
         {
             "id": 206,
@@ -4156,7 +4236,8 @@
             "explanation": "Katı haldeki çeşitli kimyasalların belirli miktar ve ısıdaki su ile eritilerek hazırlanması sonucu oluşan homojen karışımlar solüsyon olarak adlandırılır. Karanlık odada kimyasallar bu şekilde hazırlanır. (Ünite 6, Karanlık Oda Kullanılan Sarf Malzemeleri)",
             "is_duplicate": true,
             "duplicate_of": 192,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 208,
@@ -4177,7 +4258,8 @@
             "explanation": "Küçük format film kullanan minyatür boy fotoğraf makineleri, cebe sığabilecek kadar küçük oldukları için yabancı literatürde 'pocket format' olarak da isimlendirilmektedir. (Ünite 5, Analog Fotoğraf Makineleri ve Sınıflandırılması)",
             "is_duplicate": true,
             "duplicate_of": 186,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 209,
@@ -4198,7 +4280,8 @@
             "explanation": "Film boyutu, analog fotoğraf makineleri sınıflandırmasında kullanılan filmin boyutunu ifade eder ve aynı zamanda 'format' olarak da adlandırılır. (Ünite 5, Analog Fotoğraf Makineleri ve Sınıflandırılması)",
             "is_duplicate": true,
             "duplicate_of": 185,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 210,
@@ -4258,8 +4341,9 @@
             "topic": "Gizli Görüntü Oluşumu",
             "explanation": "Film banyosundan önce, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye 'Gizli Görüntü' adı verilir. Geliştirme işlemi ile bu gizli görüntü açığa çıkarılır. (Ünite 6, Karanlık Oda Oluşum Süreçleri)",
             "is_duplicate": true,
-            "duplicate_of": 35,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 193,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 0.9940198659896851
         },
         {
             "id": 213,
@@ -4278,8 +4362,10 @@
             "UniteNo": 7,
             "topic": "Objektif Görüş Açısı",
             "explanation": "Balık Gözü Objektifler, genellikle 6-16 mm odak uzaklığına ve 180°'ye kadar görüş açısına sahip olup, tüm objektif türleri içerisinde en geniş görüş açısına sahiptir. (Ünite 7, Objektifler: Yapısı ve Çeşitleri)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 195,
+            "similarity_score": 0.9778777360916138
         },
         {
             "id": 214,
@@ -4399,8 +4485,9 @@
             "topic": "Parlaklık Değer Grafiği",
             "explanation": "Histogram, bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafiktir ve piksellerin saf siyah ile saf beyaz arasında nasıl dağıldığını gösterir. (Ünite 8, Histogram)",
             "is_duplicate": true,
-            "duplicate_of": 177,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 198,
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 220,
@@ -4421,7 +4508,8 @@
             "explanation": "Piksel (Picture Element), dijital ekran teknolojileri üzerinde gösterilen görüntünün en küçük ve bölünemeyen birimidir ve renk ile ışığı oluşturur. (Ünite 8, Sayısal Temel Kavramlar: Piksel)",
             "is_duplicate": true,
             "duplicate_of": 39,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         }
     ]
 }

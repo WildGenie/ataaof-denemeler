@@ -41,19 +41,6 @@
 
     <hr />
 
-### Yazınsal İletişim Tarihi
-
-1. Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir? *(3 kez soruldu)*
-    - **Cevap A-) Piktografik yazı**
-    - B-) Logografik yazı
-    - C-) Tipografik yazı
-    - D-) İdeografik yazı
-    - E-) Asemik yazı
-
-    > **Açıklama:** Ünite 1'de, Sümerlilerin sembolik gösterimler ile piktografik yazı dilini geliştirdiği belirtilmiştir. Piktografik yazı, bir fikri veya nesneyi temsil eden semboller kullanır. Logografik yazı ise kelimeleri temsil eden sabit sembollere dayanır. Soru, 'sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemi'ni sorduğu için bu, Logografik yazının tanımına daha yakındır (Ünite 1: 'Piktografik yazı sisteminde kullanılan semboller marka ve marka kimliği uygulamalarının erken dönem temsilcileri olarak ele alınabilir.'). Ancak, önceki soru 8'in bağlamıyla çelişse de (soru 8'de B şıkkı doğru kabul edildi), buradaki tanım (sembollerin fikir yerine kelimeyi temsil etmesi) ideografik/logografik sistemlere işaret eder. Ancak, eğer sistem piktografik olarak başlatılmışsa ve semboller artık sadece nesneyi değil kelimeyi temsil ediyorsa, bu durum Logografik/İdeografik sınıfa girer. Piktografik yazı fikir/nesne gösterir, logografik/ideografik ise kelime/fikri temsil eder. Şıklarda Piktografik yazı (B) işaretli olduğu için bu bağlamda, ilk yazı sistemlerinin (Piktografik) temelini oluşturan sembollerin evrimleşerek kelime karşılığı haline geldiğini ima ediyor olabilir. Fakat verilen şıklar arasında en kesin eşleşme (fikir yerine kelime) genellikle Logografik/İdeografik yazıdır. Sorunun kuralı gereği, Piktografik yazının doğru kabul edildiği varsayımıyla ilerlenmelidir (Çünkü genelde bu konu piktografik kökenle ilişkilendirilir).
-
-    <hr />
-
 ## Ünite 2
 
 ### Ambalaj İçerik Türleri
@@ -170,19 +157,6 @@
     - **Cevap E-) Temel tasarım**
 
     > **Açıklama:** Ünite 2'de 'Ambalaj Tasarımında Tasarım Öge ve İlkeleri' başlığı altında, Ambalaj Tasarımı'nın 'Temel Tasarım' öğretisine dayandığı belirtilir. Bu öğretinin amacının; tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmek, yaratıcılıklarını ortaya çıkarmak, tasarım öge ve ilkelerini kavratmak ve algı/anlamlandırma süreçleri ile görsel bir dil öğretmek olduğu ifade edilmiştir.
-
-    <hr />
-
-### Temel Tasarım İlkeleri
-
-1. Ambalaj tasarımında tasarımı oluşturan ögelerin görsel ağırlıklarının eşit şekilde dağıtılmasını öneren tasarım ilkesi aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Denge**
-    - B-) Ritim
-    - C-) Vurgu
-    - D-) Kontrast
-    - E-) Hiyerarşi
-
-    > **Açıklama:** Denge ilkesi, tasarım ögelerinin eşit ve benzer olarak dağıtıldığı ve görsel olarak dengeli bir kompozisyonun oluşturulduğu prensiptir. Bu ilke, tasarım ögelerinin görsel ağırlıkların eşit bir şekilde dağıtılmasıyla elde edilir. Simetrik denge de bu dengeyi sağlamak için kullanılan bir yöntemdir. Bu bilgi Ünite 2'de verilmiştir.
 
     <hr />
 
@@ -544,19 +518,6 @@
     - E-) Ambalajın yapısal tasarımında göz önüne alınması gereken unsurlardan birisi de yasal zorunluluklardır.
 
     > **Açıklama:** Soruda A şıkkının doğru kabul edilmesi istendiği belirtilmiştir. Ancak, Ünite 5 özetinde ambalajlar Birincil (Primer), İkincil ve Üçüncül olarak sınıflandırılır. Birincil ambalaj doğrudan ürünle temas eder, ikincil ambalaj birincil ambalajları gruplandırır/korur, üçüncül ambalaj ise nakliye/depolama için kullanılır. Bir ürünün bu üç seviyeden hangilerine sahip olması gerektiği tamamen ürünün içeriğine, dağıtım/pazarlama stratejisine bağlıdır; her zaman hepsinin bulunması zorunlu değildir. Ayrıca, yapısal tasarımın (Ünite 4) odak noktası korunma, lojistik ve pazarlamadır, hiyerarşi bu bağlamda önem taşır. A şıkkı, 'birincil, ikincil ya da üçüncül ambalaj olduğu, bu katmanların önem sırasına göre belirlenir' ifadesiyle genel bir hiyerarşi tanımı yapsa da, Ünite 5'e göre bu sınıflamalar mevcuttur. Ancak, B şıkkı ('Her üründe mutlaka hem birincil, hem ikincil hem de üçüncül ambalaj bulunma gerekliliği yoktur') genel ambalajlama prensipleri açısından doğrudur, zira birçok ürün sadece birincil ambalajla (satış ambalajı) satılır. Sorunun 'yanlış' olanı bulmasını istediği ve A şıkkının 'doğru kabul edilmesi' istendiği dikkate alındığında, A şıkkının içeriği (hiyerarşinin belirlenmesi) yapısal kararların bir parçası olsa da (Ünite 4: Bilgi Hiyerarşileri), B şıkkı daha açık bir gerçektir ve yanlış olsaydı (yani hepsinin zorunlu olduğu) o zaman doğru cevap olurdu. İstenen kurala uyarak, A şıkkını doğru kabul ederek açıklarsak: Yapısal tasarım, ambalajın katmanlarını (birincil, ikincil, üçüncül) belirler. Bu katmanların varlığı ve önemi, ürünün korunma ve dağıtım ihtiyacına göre belirlenir. Özetle, katmanların hiyerarşisi, yapısal tasarım kararlarının bir parçasıdır.
-
-    <hr />
-
-### Yapısal Tasarım Çizimleri
-
-1. Yapı tasarımı tamamlanmış ambalaj ya da ambalaj bileşenlerinin, pilyaj, perforaj, kesim, yapıştırma, kazıma vb. yerlerin gerçek ölçülerde gösterildiği iki boyutlu çizimine ne ad verilir? *(2 kez soruldu)*
-    - A-) Şablon planı
-    - B-) Ölçü planı
-    - **Cevap C-) Açılım planı**
-    - D-) Taslak planı
-    - E-) Tasarım planı
-
-    > **Açıklama:** Ambalajın yapı (konstrüksiyon) tasarımı, üç boyutlu tasarım sürecini kapsar. Bu aşamada ilk olarak ambalajın koruma ve taşıma işlevleri yerine getirilir. İkinci aşamada grafik tasarım devreye girer. Yapısal tasarım aşamasında (veya sonrasında), malzeme, kesim, katlama, yapıştırma detaylarını gösteren, ürünün fiziksel boyutlarını ve konstrüksiyonunu belirten teknik çizimler hazırlanır. Endüstriyel tasarımda, bu tür detaylı iki boyutlu çizimler genellikle 'teknik çizim' veya 'baskıya hazır çizim' aşamalarında daha detaylı incelenir, ancak yapısal kararların uygulandığı çizimler genel olarak yapısal tasarımın çıktısıdır (Ünite 5).
 
     <hr />
 

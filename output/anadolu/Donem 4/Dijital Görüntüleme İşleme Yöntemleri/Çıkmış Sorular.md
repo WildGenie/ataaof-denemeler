@@ -169,32 +169,6 @@
 
     <hr />
 
-### Basılı Görsel Tasarım Ürünleri
-
-1. Aşağıdaki görüntü uygulamalarından hangisi genellikle dijital yayıncılık uygulamalarında ve büyük boyutlu tasarımların hazırlanmasında kullanılır? *(4 kez soruldu)*
-    - A-) Piksel tabanlı dijital görüntü
-    - **Cevap B-) Vektör tabanlı dijital görüntü**
-    - C-) Montaj tabanlı dijital görüntü
-    - D-) Al tabanlı dijital görüntü
-    - E-) 3D tabanlı dijital görüntü
-
-    > **Açıklama:** Soru 1, Ünite 2'de basılı görsel tasarım ürünleri kategorize edilmiştir. "Afiş, El İlanı, Folyo, Branda, Billboard, Raket, Durak Reklamları..." gibi ürünler Reklam ve Pazarlama Tasarım Ürünleri başlığı altında listelenmiştir. Bu ürünler genellikle büyük boyutlu tasarımlar ve kitle iletişimi amaçlıdır. Bristol kartonlar daha çok davetiye, kutu ambalaj, kitap kapağı gibi işlerde kullanılırken, ambalaj malzemeleri karton, cam, metal, plastik vb. şeklindedir.
-
-    <hr />
-
-### Kurumsal Kimlik Tasarımı
-
-1. Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapçığa ne ad verilir? *(2 kez soruldu)*
-    - A-) Kurumsal mesaj kılavuzu
-    - B-) Kurumsal hedef kılavuzu
-    - C-) Kurumsal kimlik broşürü
-    - **Cevap D-) Kurumsal görsel kimlik kılavuzu**
-    - E-) Kurumsal mevzuat kılavuzu
-
-    > **Açıklama:** Kurumsal Görsel Kimlik Tasarım Ürünleri (Kartvizit, Zarflar, Dosyalar, Antetli Kâğıt vb.), bir kurumun vizyon ve misyonu doğrultusunda oluşturulan ve kurumsal imajını yansıtan görsel tasarım ürünleridir. Bu ürünlerin kullanım standartlarını ve kurallarını belirleyen kılavuz, kurumsal kimlik kılavuzudur.
-
-    <hr />
-
 ### Kurumsal Kimlik Ürünleri
 
 1. Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapçığa ne ad verlir?
@@ -218,19 +192,6 @@
     - E-) Pelur
 
     > **Açıklama:** Pelur kâğıtlar; mat, kumlu ve yarı saydam özelliklere sahip bir kâğıttır. Genellikle, ambalaj sektöründe kırılacak malzemeleri sarmak ve basım sektöründe de nüshalı işlerin ikinci ve üçüncü nüshalarının baskısı için kullanılır. Bu, standart bir tabaka kâğıdın üç kez katlanmasıyla elde edilen 'nüshalı işlerin ikinci ve üçüncü nüshalarının baskısı' ile ilişkilendirilebilecek bir kullanım alanıdır.
-
-    <hr />
-
-### Kâğıt Türleri ve Ölçüleri
-
-1. Aşağıdakilerden hangisi standart bir tabaka kâğıdın, üç kez katlanmasıyla elde edilen ve matbaacılıkta kullanılan temel hesaplama birimlerinden biridir? *(2 kez soruldu)*
-    - A-) Cilt
-    - B-) Gofre
-    - C-) Kaolin
-    - D-) Pelur
-    - **Cevap E-) Forma**
-
-    > **Açıklama:** Metinde kâğıt türlerinden bahsedilmektedir ancak bir kâğıdın üç kez katlanmasıyla elde edilen ve matbaacılıkta kullanılan temel hesaplama birimi olarak belirtilen birim veya terim bulunmamaktadır. Ancak, kâğıt ölçüleri (bobin/tabaka) ve kâğıt türleri (Kuşe, Bristol, Kraft vb.) anlatılmıştır. Soru, bağlamı tam olarak karşılamasa da, kâğıt türleri Ünite 2'nin kapsamındadır. Eğer soru, Bristol kartonların (genellikle davetiye, kutu ambalaj vb. için kullanılan) bir yüzü parlak ve diğer yüzü mat olan bir karton türü olduğu bilgisini çağrıştırıyorsa, bu Ünite 2'de geçmektedir. Ancak sorunun yapısı spesifik bir ölçü birimini sorduğu için, metin içeriğinde bu spesifik birimin tanımı doğrudan yer almamaktadır. Yine de en uygun ünite 2'dir. (Not: Baskı terminolojisinde böyle bir birim olabilir ancak metinde yok. Bristol karton bu bağlamda uygun bir kâğıt türüdür.)
 
     <hr />
 
@@ -353,19 +314,6 @@
 
     <hr />
 
-### Taslak Çizimler ve Layout
-
-1. \_\_\_\_\_\_ genel sayfa tasarımını, \_\_\_\_\_\_ de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir. Yukarıdaki cümlede boş bırakılan yerleri aşadıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
-    - A-) Figma-eskiz
-    - **Cevap B-) Layout-wireframe**
-    - C-) Prototip-wireframe
-    - D-) Eskiz-figma
-    - E-) Eskiz-prototip
-
-    > **Açıklama:** Ünite 3'te Taslak Çizimler (Wireframe) ve Sayfa Düzeni (Layout) tanımlanır. Metinde, 'Layout genel sayfa tasarımını, wireframe de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir' bilgisi yer almaktadır. Bu, boşlukları sırasıyla Layout ve wireframe ile doldurur. Bu nedenle doğru şık B'dir.
-
-    <hr />
-
 ### Yarımton Baskı
 
 1. Baskıda ara tonlar oluşturmak için kullanılan küçük noktacıklara ne ad verilir? *(2 kez soruldu)*
@@ -391,16 +339,6 @@
     - E-) Houdini
 
     > **Açıklama:** Üç boyutlu (3B) animasyon yazılımları arasında 3Ds Max Studio, Cinema 4D, Blender, Maya gibi yazılımlar sayılmıştır. Adobe After Effects ise post prodüksiyon yazılımları arasında sayılmaktadır ve 3B modelleme yazılımı değildir.
-
-    <hr />
-1. Aşağıdakilerden hangisi üç boyutlu (3B) animasyon yönteminde kullanılan yazılımlardan biri değildir?
-    - A-) Houdini
-    - **Cevap B-) Audacity**
-    - C-) Cinema 4D
-    - D-) Maya
-    - E-) Blender
-
-    > **Açıklama:** Ünite 4'te, Üç Boyutlu (3B) Animasyon Yöntemi başlığı altında kullanılan yazılımlar şunlardır: '3Ds Max Studio, Maya, Cinema 4D, Blender, Houdini bu yazılımlardan bazılarıdır.' Şıklarda verilen Adobe Premiere Pro, video düzenleme/montaj yazılımıdır, 3B modelleme/animasyon yazılımı değildir. (Adobe Premiere Pro, Montaj ve Kurgu başlığında geçmektedir.)
 
     <hr />
 
@@ -501,16 +439,6 @@
     > **Açıklama:** Ünite 4'te Hareketli Grafik Yazılımları başlığı altında Maxon Cinema 4D, Adobe After Effects ve Adobe Premiere'in yaygın kullanılanlar olduğu belirtilmiştir. Ayrıca 3ds Max Studio, Maya, LightWave 3D, Blender, Softimage ve Houdini gibi üç boyutlu yazılımlar da anılmıştır. Ancak, 'Dijital Fotoğraf Sanatı' yazılımı olan Adobe Photoshop, hareketli grafik oluşturma yerine (temel olarak) piksel tabanlı görüntü işleme ve düzenlemede kullanılır. Bu nedenle Photoshop, hareketli grafik oluşturmada kullanılan temel yazılımlardan biri değildir.
 
     <hr />
-1. 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımları üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımı aşağıdakilerden hangisidir?
-    - A-) Adobe Firefly
-    - B-) SLAM
-    - C-) Adobe bridge
-    - D-) Adobe Illustrator
-    - **Cevap E-) Adobe After Effects**
-
-    > **Açıklama:** Ünite 4'te Adobe After Effects yazılımı, '2 ve 3 boyutlu (element 3D vb. eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımı olarak tanımlanmıştır.
-
-    <hr />
 
 ### Hareketli Grafik Üretimi
 
@@ -574,16 +502,6 @@
     - E-) Avi
 
     > **Açıklama:** Ünite 4'te Hareketli Grafik Üretimi başlığı altında bahsedilen render aşamasından sonra sonlandırılan videonun formatları arasında mp4, mov, avi, mpeg gibi formatlar sayılmıştır. DOCX formatı bir metin dosyası formatıdır ve video formatı değildir.
-
-    <hr />
-1. Aşağıdakilerden hangisi video formatlarından biri değildir?
-    - A-) Avi
-    - B-) Mp4
-    - C-) Mov
-    - D-) Mpeg
-    - **Cevap E-) Psd**
-
-    > **Açıklama:** Hareketli grafik üretimi sonucunda videonun son hâli için istenilen formatta render alındığı belirtilmiştir. Metinde geçen video formatları mp4, mov, avi, mpeg vb. olarak listelenmiştir. Verilen seçeneklerde (PSD, AI, EPS) ise genellikle dijital görüntü formatları (statik) veya vektörel formatlardır, video formatı değillerdir.
 
     <hr />
 
@@ -903,19 +821,6 @@
 
     <hr />
 
-### Unreal Engine 5 Özellikleri
-
-1. Unreal Engine 5'in aşağıdaki özelliklerinden hangisi nesnelerin yüzeyindeki ayrıntıların kamera mesafesine göre maksimum ayrıntı düzeyinde çalışmasını sağlar?
-    - A-) İleri düzey animasyon
-    - **Cevap B-) Nanite**
-    - C-) Megascans asset library
-    - D-) Dinamik ışıklandırma
-    - E-) Ses işleme teknikleri
-
-    > **Açıklama:** Ünite 6'da, Unreal Engine 5 başlığı altında, dinamik "sanallaştırılmış geometri” sistemi şu şekilde tanımlanmıştır: 'Unreal Engine 5'in dinamik "sanallaştırılmış geometri” sistemi sayesinde nesnelerin yüzeyindeki ayrıntılar kamera mesafesi için gereken maksimum ayrıntı düzeyine göre çalışmaktadır.'
-
-    <hr />
-
 ### Yeni Medya Teknolojileri
 
 1. insanların cihazlarına herhangi bir program kurma ihtiyacı olmadan, cihazlarında herhangi bir veri depolamak zorunda kalmadan tüm işlemlerin bulut sistemler üzerinden gerçekleştiği bir altyapı kullanacaktır. Yukarıdaki paragrafta boş bırakılan yeri aşadıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
@@ -926,16 +831,6 @@
     - E-) Web 5.0
 
     > **Açıklama:** Ünite 6'da Yeni Medya Teknolojileri anlatılırken, 'Tek yönlü iletişim sağlayan geleneksel medyada... hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir' denilir. Sorudaki tanım, Web 4.0'ın özelliklerine uymaktadır: "İnsanların cihazlarına herhangi bir program kurma ihtiyacı olmadan, cihazlarında herhangi bir veri depolamak zorunda kalmadan tüm işlemlerin bulut sistemler üzerinden gerçekleştiği bir altyapı kullanacaktır." Ancak, Web 2.0 etkileşim ve sosyal medyayı, Web 4.0 ise genellikle Nesnelerin İnterneti (IoT) ve akıllı sistemlerle ilişkilendirilir (Ünite 3). Verilen tanım, bulut bilişim ve cihaz bağımsızlığını vurgulamaktadır ki bu, genellikle Web 4.0'ın kapsamına giren bir ifadedir (Web 4.0'ın tanımı metinde doğrudan verilmemiştir, ancak genel teknolojik ilerleme bağlamında 'Web 4.0' en uygunudur, özellikle 'yeni medya' bağlamında ve 'etkileşimli' olmasının ötesinde merkeziyetsizlik ve dağıtık sistemlere vurgu yapıyorsa).
-
-    <hr />
-1. Birbiriyle ilişki kurabilen, dijital makina, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, sistemlere ne ad verilir?
-    - **Cevap A-) IoT**
-    - B-) UI
-    - C-) RIP
-    - D-) ID
-    - E-) UX
-
-    > **Açıklama:** Ünite 6'da, Yeni Medya Teknolojileri başlığı altında, yeni medyanın temel özelliklerinden biri olarak, 'Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir. Yani iletişim interaktif olarak sağlanmaktadır.' Bu bağlamda, 'ağa gerek duymaksızın, sistemlere' yerine, temel yeni medya özelliği olan 'etkileşim' (interaction) temel alınır. Ancak şıklara bakıldığında, Nesnelerin İnterneti (IoT) kavramı (Ünite 6) 'nesnelerin birbirleri arasında ya da daha büyük sistemler arasındaki veri aktarımını ve bağlı olduğu iletişim ağını tanımlamak için kullanılmaktadır' şeklinde geçer. Ancak sorunun 'dijital makina, nesne veya tanımlayıcılar sayesinde' ifadesi IoT'yi işaret eder. Şıklarda IoT doğrudan yok, ancak Ünite 6'da 3B Haritalama'dan sonra gelen 'Nesnelerin İnterneti' tanımı bu sorunun anahtar kelimelerine en yakındır.
 
     <hr />
 
@@ -1039,16 +934,6 @@
     - E-) Veri modelleme
 
     > **Açıklama:** Veri görselleştirme, ham verilerin analitikler aracılığıyla analiz sürecinin sonucunda verilerden üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır. Bu tanım, verilerin analizi süreci sonunda ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu oluşan enformasyonun görsel olarak sunulmasıdır. (Ünite 7, sayfa 3)
-
-    <hr />
-1. Verilerin analizi süreci sonunda ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu oluşan enformasyonun görsel olarak sunulmasına ne ad verilir?
-    - A-) Veri şekillendirme
-    - B-) Veri haritalandırma
-    - C-) Veri somutlaştırma
-    - **Cevap D-) Veri görselleştirme**
-    - E-) Veri modelleme
-
-    > **Açıklama:** Ünite 7'de, Veri Görselleştirme Tanımı başlığı altında, Veri görselleştirme şu şekilde tanımlanmıştır: 'Veri görselleştirme, ham verilerin analitikler aracılığıyla gerçekleştirilen analiz sürecinin sonucunda verilerden üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır.' Ayrıca, 'Veri madenciliği sürecinin sonunda oluşan enformasyonun görsel olarak sunulmasıdır.' ifadesi de geçmektedir.
 
     <hr />
 

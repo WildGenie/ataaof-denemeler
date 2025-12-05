@@ -64,19 +64,6 @@
 
     <hr />
 
-### Renk Çemberi ve Armoniler
-
-1. Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir?
-    - **Cevap A-) Tamamlayıcı renkler**
-    - B-) Triadic renkler
-    - C-) Pastel renkler
-    - D-) Analog renkler
-    - E-) Ana renkler
-
-    > **Açıklama:** Renk çemberinde birbirinin karşısındaki renklere 'Tamamlayıcı Renkler' denir. Bu renkler, birlikte kullanıldıklarında yüksek kontrast oluşturarak dikkat çekici ve uyumlu kombinasyonlar yaratır.
-
-    <hr />
-
 ### Renk Çemberi ve Armonileri
 
 1. Renk teorisine göre, renk çemberinde birbirlerinin karşısında yer alan ve birlikte yüksek kontrast oluşturan renk armonisinin türü aşağıdakilerden hangisidir? *(4 kez soruldu)*
@@ -87,19 +74,6 @@
     - E-) Üçüncül Renkler
 
     > **Açıklama:** Renk çemberinde birbirlerinin karşısındaki renklere Tamamlayıcı Renkler denir. Bu renkler, birlikte kullanıldıklarında yüksek kontrast oluştururlar ve renk harmonisi oluşturmada önemli bir rol oynarlar.
-
-    <hr />
-
-### Ses Formatları ve Düzenleme
-
-1. 4\. Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir?
-    - **Cevap A-) Adobe Audition**
-    - B-) InDesign
-    - C-) Premier Pro
-    - D-) Rush
-    - E-) Lightroom
-
-    > **Açıklama:** Metinde ses içerikleri oluşturmak ve düzenlemek için Audacity ve Adobe Audition gibi ses editörlerinin kullanıldığı belirtilmiştir. MP3, AAC, WAV gibi formatlar ise ses dosyası formatlarıdır, yazılım değildir.
 
     <hr />
 
@@ -141,16 +115,6 @@
     - E-) Metin Alanı (Textfield)
 
     > **Açıklama:** Form Bileşenleri, kullanıcıdan veri toplamak için kullanılır ve etkileşimin temelini oluşturur. Arayüz tasarımında Form Bileşenleri arasında Düğme, Metin Alanı, Onay Kutusu, Radyo Düğmesi, Açılır Liste, Liste Kutusu, Geçiş Düğmesi ve Tarih Alanı sayılmıştır. 'Bağlantı (Link)' ise bir Gezinti Bileşenidir, Form Bileşeni değildir.
-
-    <hr />
-1. 6\. Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri değildir?
-    - A-) Liste Kutusu (Listbox)
-    - B-) Düğme (Button)
-    - C-) Onay Kutusu (Checkbox)
-    - D-) Metin Alanı (Textfield)
-    - **Cevap E-) İpucu (Tooltip)**
-
-    > **Açıklama:** Form Bileşenleri, kullanıcıdan veri toplamak için kullanılırken; Düğme, Metin Alanı, Onay Kutusu, Radyo Düğmesi gibi ögeler form bileşenleridir. İlerleme Çubuğu (Progress Bar) ise Bilgilendirme Bileşenleri grubuna aittir, veri toplamaz.
 
     <hr />
 
@@ -290,19 +254,6 @@
 
     <hr />
 
-### Kullanıcı Deneyimi (UX)
-
-1. 11\. Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ---- ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) altbilgi (footer)
-    - B-) kenar çubuğu (aside/)
-    - C-) içerik haritası (breadcrumb)
-    - **Cevap D-) başlık (header)**
-    - E-) ana içerik (body)
-
-    > **Açıklama:** Kullanıcı deneyimi (UX), dijital teknoloji kullanımının bir sonucu olarak kullanıcının bir ürün ya da hizmeti kullanırken yaşadığı her türlü etkileşimi, duyguyu, düşünceyi ve tepkiyi içeren kavramdır. Başarılı bir UX tasarımı, kullanıcı deneyimini iyileştirerek marka sadakatini güçlendirir.
-
-    <hr />
-
 ### Kullanıcı Hikâyesi Haritalama
 
 1. 14\. Gestalt İlkeleri, görsel iletişim bağlamında tasarımcılara kılavuzluk eden temel bir rehber niteliğindedir. Yukarıdaki ifadeye göre, aşağıdakilerden hangisi Gestalt İlkelerinin temel prensiplerinden biri değildir?
@@ -339,19 +290,6 @@
     - E-) Storyboard
 
     > **Açıklama:** Beyin Fırtınası (Brainstorming), kullanıcı deneyimi tasarım sürecinde, özellikle 'Fikir Üretme (Ideate)' aşamasında, her türlü kısıtlama olmaksızın fikirlerin paylaşılması için kullanılan temel bir yaratıcı düşünme tekniğidir. Metinde bu tekniğin, Tasarım Fikrinin Oluşumu başlığı altında sıralandığı görülmektedir.
-
-    <hr />
-
-### Tasarım Düşüncesi Teknikleri
-
-1. Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verlir?
-    - A-) Storyboard
-    - B-) Teknoloji Analizi (Benchmarking)
-    - C-) Mükemmelleştirme
-    - D-) Moodboard
-    - **Cevap E-) Beyin Fırtınası (Brainstorming)**
-
-    > **Açıklama:** Beyin Fırtınası (Brainstorming), tasarım odaklı düşünme sürecinde, kullanıcıların odak noktası olmaksızın fikirlerini serbestçe paylaşmasını sağlayan kreatif düşünme tekniklerinden biridir.
 
     <hr />
 
@@ -419,19 +357,6 @@
     - E-) Angular
 
     > **Açıklama:** JavaScript, dinamik ve etkileşimli web sayfaları oluşturmak için kullanılan bir dildir, ancak zamanla mobil uygulamalar, oyunlar ve masaüstü uygulamalar geliştirmek için de kullanılmaya başlanmıştır. Ancak metinde, JavaScript'in bu kullanım alanları arasında 'mobil uygulama geliştirme'nin de yer aldığı belirtilse de, bu platformlar için özel olarak tasarlanmış popüler çatılar (frameworks) olarak React Native, Flutter veya Swift/Kotlin gibi dillerin öncülüğü mevcuttur. Verilen seçenekler arasından, JavaScript ile mobil uygulama geliştirme amacıyla yaygın kullanılan bir çatı (framework) olarak genellikle React Native öne çıkar. Metinde spesifik olarak bir JavaScript tabanlı mobil uygulama çatısı adı geçmemektedir, ancak JavaScript'in mobil uygulamalarda kullanıldığı belirtilmiştir. Mevcut seçenekler arasında, JavaScript'in mobil uygulama geliştirmede yaygın kullanılan bir çatısı olan React Native yerine, sadece genel kullanım alanları listelenmiştir. JS ile mobil uygulama geliştirmede kullanılan popüler araçlar (örneğin React Native, NativeScript) listede yoksa, en genel kabul gören kullanım alanı bağlamında cevap verilmelidir. Ancak sorunun kendisi JS tabanlı mobil uygulama geliştirme çatısını sormaktadır. Seçenekler arasında, genel olarak web teknolojileri altında listelenen ancak mobil uygulamalarda da kullanılan 'Bootstrap' (CSS Framework), 'Tailwind' (CSS Framework) veya 'Ant Design' (UI Kütüphanesi) gibi araçlar JS çatısı değildir. Verilen seçenekler arasında doğru JS mobil uygulama çatısı bulunmamaktadır. Bu tür durumlarda, sorunun içeriğine en yakın olan, ya da genel teknolojik yaklaşımlardan biri olan JS'in kendisinin popüler kullanım alanlarından birini seçmek gerekir. Ancak JS ile mobil geliştirme için spesifik bir framework istenmiştir. Cevap seçenekleri arasında bir hata olabilir. Verilen seçenekler arasından, Javascript ile mobil uygulama geliştirmede kullanılan bir çatı (framework) olarak en yaygın bilinenlerden biri olan React Native gibi seçenekler yoksa, en iyi ihtimalle JS'in mobil uygulama alanında kullanılmasına atıfta bulunulabilir. Burada en yakın olabilecek cevap (genel olarak JS'in kullanıldığı yerler) olmalıdır, ancak bu bir framework sorusudur. JS'in kendisi bir framework değildir. Cevap anahtarının varsayımsal olarak React Native'i kastettiği düşünülerek (eğer seçeneklerde olsaydı) cevap verilebilirdi. Mevcut seçenekler web teknolojileri bağlamında daha çok öne çıkmaktadır. CSS, HTML ve JS, web teknolojilerinin temelini oluşturur. JavaScript'in mobil uygulama geliştirmede kullanıldığı belirtilmiştir, ancak framework sorulmuştur. Seçeneklerdeki Ant Design, Bootstrap ve Tailwind, genellikle React/Vue gibi JS kütüphaneleri/framework'leri ile birlikte kullanılan arayüz bileşeni kütüphaneleridir, doğrudan JS mobil uygulama çatısı değillerdir. Bu durumda, soru/seçenek uyumsuzluğu vardır. Ancak, genel olarak bu teknolojiler JS ekosisteminde yer alır. En mantıklı cevap, JS'in mobil uygulama geliştirmede kullanıldığı bilgisidir.
-
-    <hr />
-
-### Mobil İşletim Sistemleri
-
-1. 17\. ---- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Göz İzleme Testi
-    - B-) Anova
-    - **Cevap C-) A/B Testi**
-    - D-) Metrix
-    - E-) T-Test
-
-    > **Açıklama:** Metinde Android ve iOS'un mobil işletim sistemleri pazarının hakim oyuncuları olduğu belirtilmiştir. Apple'ın Human Interface Guidelines (HIG) ise iOS ve macOS için tasarım prensiplerini belirler. Android, Google tarafından geliştirilmiştir.
 
     <hr />
 
@@ -574,19 +499,6 @@
 
     <hr />
 
-### Animasyon Tanımı
-
-1. ----- cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Kısa Film
-    - B-) Video
-    - **Cevap C-) Animasyon**
-    - D-) Sunum
-    - E-) Efekt
-
-    > **Açıklama:** Animasyon kelimesi, Latince 'anima' kökünden türemiştir ve özünde can, ruh veya hayat anlamına gelir. Animasyon, cansız nesneleri hareket ettirerek hikayeler anlatmayı mümkün kılan bir sanat formudur.
-
-    <hr />
-
 ### Durum Değişikliği Animasyonları
 
 1. Aşağıdakilerden hangisi durum değişikliği animasyonlarının kullanım amaçlarından biridir?
@@ -638,16 +550,6 @@
     > **Açıklama:** Cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan sanat formuna 'Animasyon' adı verilir. Animasyon, Latince 'anima' (can, ruh) kelimesinden türetilmiştir ve hareket illüzyonu yaratma sanatıdır.
 
     <hr />
-1. cansıız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Kısa Film
-    - B-) Video
-    - **Cevap C-) Animasyon**
-    - D-) Sunum
-    - E-) Efekt
-
-    > **Açıklama:** Metinde, canı olan nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan sanat formuna Animasyon denildiği belirtilmektedir. Animasyon, Latince 'anima' (can, ruh) kökünden türemiştir ve bir hikâye anlatımını güçlendirir.
-
-    <hr />
 
 ### Hareket Tasarımı Uygulama Alanları
 
@@ -659,19 +561,6 @@
     - **Cevap E-) E-kitap Yayıncılığı**
 
     > **Açıklama:** Hareket tasarımı, UI/UX, dijital reklamlar, sosyal medya ve video prodüksiyonunda yoğun olarak kullanılır. Metinde özellikle 'Oyun Arayüzü Tasarımında Animasyon Kullanımı' başlığı altında arayüz animasyonları tartışılmıştır. Ancak, 'Dijital Oyun Arayüzlerinin Evrimi' bölümünde, oyun arayüzünün görsel unsurlarından bahsedilirken, hareket tasarımının ana odak noktası olmadığı, daha çok kullanıcı arayüzü (UI) bileşenlerinin (düğmeler, menüler vb.) görsel ve etkileşimli sunumuna odaklanıldığı belirtilir. Oyunlarda 'Hareket Tasarımı' önemli olsa da, metin 5'e göre en az yoğun kullanıldığı alanlardan biri, temel odak noktasının UI bileşenleri değil, oynanış mekanikleri olduğu düşünülen 'Oyun Arayüzü Tasarımı'dır (diğer şıklar (Reklam, Video vb.) ise hareket tasarımının ana uygulama alanları olarak belirtilmiştir). Ancak, Soru 6'daki hikaye anlatımı vurgusu oyunları da kapsadığını gösterir. Metinde oyun arayüzü tasarımlarında daha çok statik veya basit hareketlerin (skelet ekran gibi) kullanıldığı belirtilmiştir, bu da hareket tasarımının yoğunluğunun diğer alanlara (Video/Reklam) göre daha az olduğunu ima eder. Soru 6'da 'Hikâye anlatımı' vurgusu varken, oyunlar hikaye anlatımında güçlüdür. Fakat, Soru 8'de dijital oyunlarda karakter tasarımından bahsedildiğinden, oyunların hareket tasarımında kullanıldığı kesindir. Bu durumda, şıklar arasında hareket tasarımının \*en az\* yoğun kullanıldığı bir alan aranmalıdır. Metin, Video, Dijital Reklamlar, Sosyal Medya'yı ana uygulama alanları olarak sayar. Dijital Oyun Arayüzleri ise UI/UX başlığı altında ele alınır. Oyun arayüzlerinde hareketin bir geri bildirim aracı olarak kullanıldığı belirtilse de, genel olarak dijital oyunların temel taşı kodlama ve görsel tasarım (statik) iken, diğer seçenekler doğrudan hareket odaklıdır.
-
-    <hr />
-
-### Hareket Tasarımı Uygulamaları
-
-1. Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz? *(2 kez soruldu)*
-    - A-) Kullanıcı Arayüzleri (UI)
-    - B-) Dijital Reklamlar
-    - C-) Video ve Film Prodüksiyon
-    - **Cevap D-) E-kitap Yayıncılığı**
-    - E-) Sosyal Medya
-
-    > **Açıklama:** Hareket tasarımının öne çıktığı uygulamalar arasında Kullanıcı Arayüzleri (UI), Dijital Reklamlar, Sosyal Medya, Video ve Film Prodüksiyonu ve Sunular sayılmıştır. Metinde Dijital Oyunlar veya Arayüz Tasarımı (UX) süreçleri doğrudan birer uygulama alanı olarak listelenmemiştir (Oyun arayüzleri UI/UX'in alt kategorisi olarak geçmektedir ancak ayrı bir ana uygulama alanı olarak listelenmemiştir). Dijital Oyunlar (Ünite 6) ve Arayüz Tasarımı (Ünite 2, 3) ayrı ünitelerdir. Ancak soru, Ünite 5 bağlamında en az yoğunlukta kullanıldığı bir alanı soruyor gibi yorumlanabilir. Hareket tasarımının en çok kullanıldığı alanlar Video/Film ve UI'dır. Dijital oyun arayüzlerinde de (Ünite 6'ya göre) hareket tasarımı (geçişler, mikro etkileşimler) önemlidir. Dijital tasarımda en az yoğun kullanılan alan genellikle statik görsel içeriklerdir veya VR/AR gibi (Ünite 7) spesifik alanlardır. Ancak verilen listeye göre en az vurgulananlar oyun arayüzleridir.
 
     <hr />
 
@@ -742,19 +631,6 @@
 
     <hr />
 
-### Erken Dönem Video Oyunları
-
-1. Aşağıdakilerden hangisi erken dönem video oyunlarından biri değildir? *(3 kez soruldu)*
-    - A-) Spacewar
-    - B-) OXO
-    - C-) Pong
-    - D-) Pac-Man
-    - **Cevap E-) Pokemon**
-
-    > **Açıklama:** Erken dönem video oyunları arasında OXO (1952), Tennis for Two (1958) ve Spacewar (ilk popüler bilgisayar oyunu) bulunmaktadır. Atari'nin Pong (1972) oyunu da ticari başarı kazanan ilk oyunlardandır. Super Mario Bros. (1985) veya Mortal Kombat (1992) ise daha sonraki dönemlere aittir.
-
-    <hr />
-
 ### Oyun Arayüz Bileşenleri
 
 1. ----- bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.<br />Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -765,16 +641,6 @@
     - E-) Meta
 
     > **Açıklama:** Ünite 6'da 'Oyun Arayüzlerinin Temel Bileşenleri' başlığı altında, 'Mekânsal (Spatial) Bileşenler' tanımında, bu bileşenlerin oyunun mekanında bulunduğu ancak karakterler tarafından görülmediği; seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabileceği belirtilmektedir. Bu tanım boş bırakılan yere uymaktadır.
-
-    <hr />
-1. bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Mekânsal (Spatial)**
-    - B-) Oyun-içi (Diegetic)
-    - C-) Oyun-dışı (Non-diegetic)
-    - D-) Kullanıcı Arayüzü (UI)
-    - E-) Meta
-
-    > **Açıklama:** Ünite 6'da 'Oyun Arayüzlerinin Temel Bileşenleri' başlığı altında, Mekânsal (Spatial) Bileşenler şu şekilde tanımlanmıştır: 'Mekânsal arayüz bileşenleri, oyunun mekanında bulunur ancak oyun içindeki karakterler tarafından görülmezler. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.' Bu tanım, boş bırakılan yere tam olarak uymaktadır.
 
     <hr />
 

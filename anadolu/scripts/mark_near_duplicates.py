@@ -23,6 +23,11 @@ def normalize_answer(answer):
     return answer.lower().strip()
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Mark near-duplicate questions in enriched JSON files.")
+    parser.add_argument("--donem", type=int, help="Filter by semester (e.g., 1, 7)")
+    args = parser.parse_args()
+
     print("Marking near-duplicate questions (0.95+ similarity, same answer)...")
 
     # Load similarity analysis
@@ -66,8 +71,8 @@ def main():
 
         # Mark duplicate
         updates_by_file[course1][duplicate_id] = {
-            "is_near_duplicate": True,
-            "near_duplicate_of": original_id,
+            "is_duplicate": True,
+            "duplicate_of": original_id,
             "similarity_score": item["similarity"]
         }
 
@@ -78,6 +83,15 @@ def main():
         donem_path = os.path.join(JSON_DIR, donem_dir)
         if not os.path.isdir(donem_path) or not donem_dir.startswith("Donem"):
             continue
+
+        # Filter by donem
+        if args.donem:
+            try:
+                current_donem = int(donem_dir.split(" ")[1])
+                if current_donem != args.donem:
+                    continue
+            except (IndexError, ValueError):
+                continue
 
         for filename in os.listdir(donem_path):
             if "Çıkmış Sorular - Enriched.json" not in filename:
@@ -97,6 +111,14 @@ def main():
                 updates = updates_by_file[course_name]
 
                 for q in data.get("questions", []):
+                    # Clean up previous "near_duplicate" fields if they exist
+                    if "is_near_duplicate" in q:
+                        del q["is_near_duplicate"]
+                        modified = True
+                    if "near_duplicate_of" in q:
+                        del q["near_duplicate_of"]
+                        modified = True
+
                     q_id = q.get("id")
                     if q_id in updates:
                         for key, value in updates[q_id].items():
@@ -108,8 +130,8 @@ def main():
                     with open(file_path, 'w', encoding='utf-8') as f:
                         json.dump(data, f, indent=4, ensure_ascii=False)
 
-                    count = len([q for q in data["questions"] if q.get("is_near_duplicate")])
-                    print(f"  ✅ {course_name}: {count} near-duplicates marked")
+                    count = len([q for q in data["questions"] if q.get("is_duplicate") and q.get("similarity_score")])
+                    print(f"  ✅ {course_name}: {count} duplicates marked (from similarity analysis)")
                     total_updated += count
 
             except Exception as e:

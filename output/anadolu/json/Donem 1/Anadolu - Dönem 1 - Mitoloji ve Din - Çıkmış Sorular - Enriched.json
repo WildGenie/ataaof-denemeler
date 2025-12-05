@@ -1227,7 +1227,8 @@
             "explanation": "Yahudiliğin Kutsal Metinleri arasında Hz. Musa'ya Tur dağında verilen On Emir'in bulunduğu levhalar ve Hz. Musa'nın bir araya getirdiği vahiylerin bulunduğu ahit sandığı (Tevrat) yer alır. Ancak soruda bahsedilen Mişna ve Gemera bölümlerinden oluşan ve sözlü emirlerin yazıya geçmiş hali olan kutsal kitap, Tanah'tan ayrı olarak ele alınan metin grubudur. Ünite 8 özetlerine göre, Yahudiliğin kutsal metinleri arasında 'Kitabı Mukaddes' yer alır. Hristiyanlık açısından Kitabı Mukaddes; Yahudilerin Tanah dedikleri 39 kitap ile Yeni Ahit'ten oluşur. Yahudilikte ise Tanah, ezoterik bilgileri içeren ve zamanla yazıya geçirilen metinleri içerir. Verilen bilgiler ışığında, Tanah'ın kendisi değil de onun tefsiri veya yorumlanmış sözlü geleneği olan Talmud'un (Mişna ve Gemera'dan oluşur) kastedildiği anlaşılmaktadır. Metinlerde Tanah'tan ayrı bir detay olarak belirtilmese de, Hristiyanlık metinleri bağlamında Kuran'ın kutsal metni olarak belirtildiği gibi, Yahudilikte de kutsal metinlerin detayları arasında Talmud (Mişna ve Gemera) yer alır.",
             "is_duplicate": true,
             "duplicate_of": 54,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 62,
@@ -1673,7 +1674,9 @@
             "topic": "Vahye Dayalı Dinler",
             "explanation": "Soru 83'ün cevabı Yahudilik, Hristiyanlık ve İslamiyet'tir. Ünite 1'de, Vahye dayanan veya “kitabi dinler” olarak ifade edilen dinlerin; Yahudilik, Hristiyanlık ve İslamiyet olarak ifade edilebileceği belirtilmiştir.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 59,
+            "similarity_score": 1.0
         },
         {
             "id": 84,
@@ -1772,8 +1775,10 @@
             "UniteNo": 4,
             "topic": "Sümer Tanrıları",
             "explanation": "Soru 88'in cevabı Enki (Ea)'dır. Ünite 4'te, 'Ea' maddesi altında, 'Eski tabletlerin muhafızı olan ve ikiyüzlü olarak omuzlarından fışkıran sularla oluşmuş bir nehir ile betimlenmiştir.' bilgisi yer almaktadır. Enki aynı zamanda 'deniz ve okyanus tanrısı'dır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 58,
+            "similarity_score": 0.971087634563446
         },
         {
             "id": 89,
@@ -2034,7 +2039,8 @@
             "explanation": "Orfeus'un kurucusu olduğu düşünülen din, Yunan mitolojisinde yer alır. Orfeus, Lirik şiir geleneği ile ilişkilidir ve mitolojideki tanrıların ve evrenin başlangıcının anlatıldığı Hesiodos'un Theogonia'sı ile bağlantılıdır. Yunan mitolojisi, Homeros ve Hesiodos gibi yazarlar aracılığıyla yazıya geçirilmiş bir politeist dindir. Orfeus, mitolojideki ilahi başlangıçlara vurgu yapan anlatımlarla ilişkilendirilir.",
             "is_duplicate": true,
             "duplicate_of": 86,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 102,
@@ -2054,7 +2060,9 @@
             "topic": "Kozmogoni Tanımı",
             "explanation": "Mitler, evrenin, dünyanın ve insanın yaratılışını konu alır. Ünite 1'deki bilgilere göre, kozmogoni, \"Evren + doğum\" demektir ve mitlerin konularını tabiat ve âlem oluşturur. Dolayısıyla, evrenin doğumunu ifade eden terim kozmogoni olarak tanımlanmıştır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 50,
+            "similarity_score": 1.0
         },
         {
             "id": 103,
@@ -2213,8 +2221,10 @@
             "UniteNo": 1,
             "topic": "Mit Kavramı Tanımı",
             "explanation": "Yunan mitolojisinde söz, öykü anlamına gelen 'Mythos' kelimesinden türeyen ve ilkel insan topluluklarının evreni, yeryüzünü ve tabiat olaylarını kişileştirerek yorumlama gereksiniminden doğan öykülere genel olarak 'Mit' adı verilir (Ünite 1).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 37,
+            "similarity_score": 0.9979075789451599
         },
         {
             "id": 111,
@@ -2295,7 +2305,8 @@
             "explanation": "Antik Yunan mitolojisinde toplumu (Olimposlu tanrıları) yönetme hakkı, Kronos'un oğlu olan Zeus'a aittir. Ünite 5'te, \"Yunan mitolojisi içinde Zeus baştanrıdır. Egemenliği sadece kendi gücüyle ama daha önceki tanrılardan da yardım alarak elde ettiği için Kronosoğlu saltanat gücünü görev ve onur dağıtımıyla gösterdi.\" şeklinde belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 100,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 115,
@@ -2376,7 +2387,8 @@
             "explanation": "Ünite 1'deki 'Totem/Ongun' başlığına göre, geçmiş toplumlarda kutsallık atfedilen ve insanların onlardan türediği kabul edilen hayvan, ağaç, rüzgâr gibi tabiat unsurlarına dayandırılan kutsiyet unsurlarına totem veya ongun adı verilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 29,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 0.9765759110450745
         },
         {
             "id": 119,
@@ -2436,7 +2448,9 @@
             "topic": "Hitit Tanrıçaları",
             "explanation": "Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve Tüm Tanrıların Annesi ya da Büyükanne unvanına sahip tanrıça Hannahanna'dır. (Ünite 3, Sayfa 2)",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 24,
+            "similarity_score": 0.9772069454193115
         },
         {
             "id": 122,
@@ -2497,7 +2511,8 @@
             "explanation": "Vahye dayanan veya “kitabi dinler” olarak ifade edilen dinler; Yahudilik, Hristiyanlık ve İslamiyet'tir. (Ünite 1, Sayfa 1)",
             "is_duplicate": true,
             "duplicate_of": 83,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 125,
@@ -2578,8 +2593,9 @@
             "topic": "Uzakdoğu Dinleri",
             "explanation": "Uzakdoğu dinleri arasında Taoizm, Şintoizm ve Budizm bulunmaktadır. Hristiyanlık, Ortadoğu kökenli bir dindir. (Ünite 7, Sayfa 3, Ünite 8, Sayfa 1)",
             "is_duplicate": true,
-            "duplicate_of": 98,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 48,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 129,
@@ -2875,7 +2891,8 @@
             "explanation": "Sumer Panteonu'nda yer alan An (Anu), Mezopotamya panteonunun baş tanrısı olup göğün kişileştirilmiş halidir. Uruk şehrinin koruyucu tanrısı ile doğrudan bir bağlantı metinde açıkça belirtilmemiştir, ancak An baş tanrı olarak genel bir üstünlüğe sahiptir. Ancak Sumer Tanrıları listesinde An, baş tanrı olarak geçmektedir. Uruk'un hanımefendisi Nisaba olarak geçmekte, ancak baş tanrı Anu'dur. Uruk'un tanrısının Anu olduğu bilgisi net bir şekilde bu metinde bulunmamaktadır. Ancak An/Anu baş tanrı olduğu için Uruk'un koruyucu tanrısı olma ihtimali yüksektir. Verilen listede Uruk'un tanrısı olarak Anu geçmektedir: \"An Anu: An, Mezopotamya panteonunun baş tanrısı olup, göğün kişileştirilmiş halidir.\" (Ünite 4, s. 1).",
             "is_duplicate": true,
             "duplicate_of": 117,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 144,
@@ -2896,7 +2913,8 @@
             "explanation": "Sumer tanrıçaları listesinde İnanma/İştar, \"göğün hanımefendisi unvanı vardır. Bu tanrıça daha çok aşk ve savaşla ilgili gözükmektedir.\" (Ünite 4, s. 1). Ancak ikonografik sembolü mısır başağı olan tanrıça bilgisi metinde geçmemektedir. Mısır başağı, genellikle Demeter (Ceres) ile ilişkilendirilen bir motiftir (Ünite 5). Sumer tanrıçaları arasında İnanna (İştar) aşk ve savaş tanrıçasıdır. Metinde belirtilen tanrıçalar arasında mısır başağı ile ilişkilendirilen bir ikonografi verilmemiştir. Bu sorunun cevabı verilen metinlerden kesin olarak çıkarılamaz. Ancak İnanna/İştar, en önemli tanrıçalardandır.",
             "is_duplicate": true,
             "duplicate_of": 111,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 145,
@@ -3039,7 +3057,8 @@
             "explanation": "Soru, Şamaş (Utu) ile birlikte anılan, yağmur ve fırtına tanrısı olan bir Sumer tanrısını sormaktadır. Ünite 4'teki Sumer Panteonu listesine göre, 'Adad' (II. Binyılda Adad Halep şehrinin tanrısıdır. Yağmur ve fırtına tanrısı olarak iki görevi vardır) bilgisi, bu tanrının Şamaş ile birlikte anılan ve yağmur getiren tanrı olduğunu gösterir.",
             "is_duplicate": true,
             "duplicate_of": 104,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 152,
@@ -3099,8 +3118,9 @@
             "topic": "Totem/Ongun Kavramı",
             "explanation": "Ünite 1'de Totem/Ongun başlığı altında, \"Geçmiş toplumlarda kutsallık atfedilen ve insanların onlardan türediği kabul edilen hayvan, ağaç, rüzgâr gibi tabiat unsurlarına dayandırılan kutsiyet unsurlarına totem veya ongun adı verilmiştir\" denilmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 79,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 82,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9943562150001526
         },
         {
             "id": 155,
@@ -3181,7 +3201,8 @@
             "explanation": "Ünite 4'te Sumer Panteonu'nda, tanrıların insan şeklinde tasvir edildiği ve 'Mezopotamya'da hayvanlara, hayvan resimlerine tapınılmadığı, hayvanların tanrıların sembolü durumunda olduğu' belirtilmektedir. Soru, bu bilgiyi teyit etmektedir. Diğer bir ifadeyle, hayvanlara tapınma Sumer kültürüne ait değildir.",
             "is_duplicate": true,
             "duplicate_of": 129,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 159,
@@ -3202,7 +3223,8 @@
             "explanation": "Ünite 3'teki 'Aranzah (Dicle Nehri)' tanımı, onun Anu ve Kumarbi'nin çocuğu, Fırtına Tanrısı Teşup ve Taşmişu'nun erkek kardeşi olduğunu belirtir.",
             "is_duplicate": true,
             "duplicate_of": 139,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 160,
@@ -3262,7 +3284,9 @@
             "topic": "Yahudilik Kutsal Toprak",
             "explanation": "Ünite 8'deki Yahudilik bölümüne göre, Süleyman Mabedi (Bet-Hamikdaş), Kudüs'te inşa edilmiştir. Hz. Davut'un kurduğu krallık döneminde önem kazanmış ve Hz. Süleyman döneminde tamamlanmıştır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 57,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 163,
@@ -3322,7 +3346,9 @@
             "topic": "Sümer Tanrısı Usumi",
             "explanation": "Ünite 4'teki Sumer Panteonu listesinde Usumi, 'Sumerlerin ikiyüzlü tanrısı' olarak belirtilmiştir. Ayrıca, Kültepe'de bulunan Anadolu grubundaki mühür baskılarının tapınım sahnelerinde ve tanrı alaylarında görüldüğü, hatta Roma'ya kadar girmiş olduğu bilgisi mevcuttur (İki yüzlü olarak tasvir edilen tanrı).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 52,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 166,
@@ -3501,8 +3527,10 @@
             "UniteNo": 6,
             "topic": "Eski Türk İnançları Kültler",
             "explanation": "Ünite 6'da Eski Türk İnançları başlığı altında, 'Türk kültüründe ölmüş veya yaşlı büyüklere saygıyı esas alan \"atalar kültü\" geçmişten günümüze önemini korumaktadır.' şeklinde bilgi verilmiştir. Dolayısıyla, atalar kültü, ölmüş ve yaşlı büyüklere saygıyı esas alan kültün adıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 21,
+            "similarity_score": 0.9701270461082458
         },
         {
             "id": 175,
@@ -3562,7 +3590,9 @@
             "topic": "Şintoizm Kutsal Metinler",
             "explanation": "Ünite 7'de Şintoizm'in Kutsal Metinleri başlığı altında, Kojiki'nin 'Dünyanın yaratılışından 628 yılına kadarki Japonya'nın tarihinin anlatıldığı eser' olduğu ve Nihongi'nin ise 'bir nevi Kojiki'nin yorumu' olduğu belirtilmiştir. Bu metinler Şintoizm'e aittir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 41,
+            "similarity_score": 1.0
         },
         {
             "id": 178,
@@ -3582,7 +3612,9 @@
             "topic": "Budizm Kavramları",
             "explanation": "Ünite 7'deki Budizm bölümünde, Budist inananlar topluluğunun tümünün anlatımı için kullanılan ifadenin 'Sanga' olduğu ve bunun İslam'daki 'ümmet' kavramına benzediği belirtilmiştir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 42,
+            "similarity_score": 1.0
         },
         {
             "id": 179,
@@ -3661,8 +3693,10 @@
             "UniteNo": 1,
             "topic": "Din Kavramının Kökeni",
             "explanation": "Arapça kökenli olan ve \"yol, hüküm, benimsemek, kabul etmek, ikrar etmek\" anlamlarına gelen kelime 'Din'dir. Batı dillerinde 'religio' tercih edilmiştir. (Ünite 1, s. 1)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 170,
+            "similarity_score": 0.9916849136352539
         },
         {
             "id": 183,
@@ -3723,7 +3757,8 @@
             "explanation": "Hinduizm'de Sanskritçe dille yazılan kutsal metinler ikiye ayrılır: Şruti (\"işitilen şey\") ve Smriti. Smriti, halk arasında yaygın olarak anlatılan Dini Hikayeler, Atasözleri, Masallar ve Kahramanlık Destanlarından oluşan metinlerdir. (Ünite 7, s. 1)",
             "is_duplicate": true,
             "duplicate_of": 33,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 186,
@@ -3844,7 +3879,8 @@
             "explanation": "Günümüzde Yahudiliğin dört önde gelen mezhebi vardır: Ortodoks Yahudilik, Muhafazakar Yahudilik, Reformist Yahudilik ve Rekonstrüksiyonist (yeniden yapılanmacı) Yahudilik. Soruda bahsedilen, Tevrat'a ve Talmut'a sıkıca bağlı olan ve Hz. Musa'nın getirdiği kanunlara harfiyen uyan Yahudiler genellikle Ortodoks Yahudilik geleneğini temsil ederler. Metin, dört mezhepten bahsetmektedir, ancak en katı ve geleneksel olanı Ortodoks Yahudilik'tir.",
             "is_duplicate": true,
             "duplicate_of": 23,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 192,
@@ -3885,7 +3921,8 @@
             "explanation": "Ünite 5'te Protagoras'tan (İnsan her şeyin ölçüsüdür) bahsedilmemektedir. Ancak, \"Grek mitolojisi hakkındaki ikinci büyük kaynak MÖ 8. Yüzyılda yaşamış olan Hesiodos'tur\" ve \"Homeros'un... İliada ve Odysseia'dır\" bilgileri mevcuttur. Sorudaki ifade, genellikle sofist Protagoras'a atfedilir. Ancak verilen kaynaklarda doğrudan bu bilgi yer almadığından, en yakın konu başlığı olan Mitologya Yazarları bağlamında Hesiodos'tan bahsedilmiştir. Yine de, verilen metinlerde bu ifadeye rastlanmadığı için, bu sorunun doğru cevabının tam olarak metinde karşılığı yoktur. Ancak, Yunan mitolojisi yazarları başlığı altında Hesiodos ve Homeros ele alınmıştır.",
             "is_duplicate": true,
             "duplicate_of": 97,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 194,
@@ -3906,7 +3943,8 @@
             "explanation": "Ünite 5'te Zeus, 'Yunan mitolojisinde bilgeliğin doruğundaki tanrıdır. Hem tanrıların hem insanların babasıdır.' olarak tanımlanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 161,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 195,
@@ -3966,7 +4004,9 @@
             "topic": "Yahudiliğin Kutsal Metinleri",
             "explanation": "Ünite 8'deki Yahudiliğin Kutsal Metinleri başlığı altında, 'Yahudiliğin Tanrı tarafından Tur dağında Hz. Musa'ya verilen On Emir'in bulunduğu levhalar ile Hz. Musa'nın bir araya getirdiği vahiylerin bulunduğu ahit sandığı Sina çölünde iken ibadet çadırının bir köşesinde ayrı bir bölümde korunmuştur. Hristiyanlar kutsal kitabı \"Kitabı Mukaddes\" olarak isimlendirilir. Kitabı Mukaddes Yahudilerin Tanah dedikleri Hristiyanların eski ahit olarak isimlendirdikleri 39 kitap ile...' denilmektedir. Yani kutsal kitap 39 metin içerir ve Hristiyanlar bu kısmı Eski Ahit olarak adlandırır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 47,
+            "similarity_score": 1.0
         },
         {
             "id": 198,
@@ -4006,7 +4046,9 @@
             "topic": "Hitit Efsaneleri",
             "explanation": "Ünite 3'teki 'Ullikummi Şarkısı' tanımına göre, bu efsanenin devamında Kumarbi'nin, Fırtına Tanrısı Teşup'a karşı bazı planlar kurduğu ve efsanenin temelinde eski ve yeni tanrılar arasındaki mücadelelerin olduğu belirtilmiştir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 127,
+            "similarity_score": 0.9891369938850403
         },
         {
             "id": 200,
@@ -4025,8 +4067,10 @@
             "UniteNo": 7,
             "topic": "Uzak Doğu Dinleri: Sihizm",
             "explanation": "Ünite 7'de, 'Hindistan'da 16. yüzyılda ortaya çıkan Sihizm, Hinduizm ile İslam inancının karışımı ile oluşmuş bir dindir.' şeklinde bilgi verilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 176,
+            "similarity_score": 0.9996273517608643
         },
         {
             "id": 201,
@@ -4046,8 +4090,9 @@
             "topic": "Yunan Mitolojisi Kurucuları",
             "explanation": "Orfeus'un kurucusu olduğu mitik din, genellikle Yunan mitolojisi bağlamında anılır. Orfeus, müziğiyle tanrıları bile etkileyebilen bir kahraman/şair olarak bilinir ve onun öğretileri, Orfizm olarak bilinen bir takım dini ve felsefi uygulamaları etkilemiştir. Ancak verilen metinler içinde Orfeus veya Orfizm hakkında doğrudan bir bilgi bulunmamaktadır. Yunan mitolojisinin en temel özelliği, tanrıların insan biçiminde gösterilmesidir (Ünite 5 Giriş). Orfeus'un kurucusu olduğu bir dinin ana özelliği tam olarak metinde belirtilmese de, genel olarak Yunan mitolojisinde tanrıların insan biçiminde olması temel bir özelliktir.",
             "is_duplicate": true,
-            "duplicate_of": 86,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 101,
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 202,
@@ -4267,7 +4312,9 @@
             "topic": "Destan Türleri",
             "explanation": "Yazarı belli olmayan, eski çağlarda yaşanmış olayları konu alan sözlü destan türüne \"Doğal destanlar\" adı verilir. Bu destanlar, Türk edebiyatında İslamiyet öncesi ve İslami dönem olmak üzere ikiye ayrılır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 147,
+            "similarity_score": 1.0
         },
         {
             "id": 213,
@@ -4307,8 +4354,9 @@
             "topic": "Eski Türk İnançları",
             "explanation": "Türk kültüründe ölmüş veya yaşlı büyüklere saygıyı esas alan, geçmişten günümüze önemini koruyan kült, \"Atalar Kültü\"dür. Bu inancın uygulamaları arasında ölmüş ataların ruhlarına kurban kesme ve yaşayan büyüklere hediye sunma bulunur.",
             "is_duplicate": true,
-            "duplicate_of": 21,
-            "original_source": "Yaz Okulu 2021-2022"
+            "duplicate_of": 174,
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 0.9701270461082458
         },
         {
             "id": 215,
@@ -4369,7 +4417,8 @@
             "explanation": "Geniş omuzlu, uzun bukleli saçları omuzlarına kadar uzanan, üç dişli yaba (trident) ile betimlenen ve denizlerin tanrısı olan Olympos tanrısı Poseidon'dur (Roma karşılığı Neptunus). Zeus Jüpiter'dir ve şimşek kullanır; Hades yeraltı tanrısıdır ve asası vardır.",
             "is_duplicate": true,
             "duplicate_of": 169,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 218,
@@ -4390,7 +4439,8 @@
             "explanation": "Hesiodos'un İşler ve Günler (Erga Kai Hemerai) ile Tanrıların Yaratılışı (Theogonia) adlı iki önemli yapıtı vardır. Bu eserler, Grek mitolojisi hakkındaki ikinci büyük kaynaktır.",
             "is_duplicate": true,
             "duplicate_of": 192,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 219,

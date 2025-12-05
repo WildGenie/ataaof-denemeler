@@ -53,19 +53,6 @@
 
 ## Ünite 2
 
-### Erişilebilirlik Tanımı
-
-1. Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir? *(3 kez soruldu)*
-    - A-) Evrensellik
-    - **Cevap B-) Erişilebilirlik**
-    - C-) Kaynaştırma
-    - D-) Bütünleştirme
-    - E-) Kapsayıcılık
-
-    > **Açıklama:** Erişilebilirlik, binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.
-
-    <hr />
-
 ### Erken Müdahale Uygulamaları
 
 1. Yukarıda "erken müdahale" uygulamasına yönelik ifadelerden hangileri doğrudur? I. Doğumdan 5 yaşına kadar olan risk altındaki çocukları kapsar. II. Yetersizliğin etkisini azaltmak üzere düzenlenir. III. İlerleyen dönemde öğrenme ve gelişim sorunlarının ortaya çıkmasını önler. IV. Ailelerin dahil olmadığı, öğretmen merkezli uygulamalardır. V. Terapi, tedavi, eğitim programı, beslenme müdahalesi veya aile desteği gibi düzenlemeleri kapsar.
@@ -282,19 +269,6 @@
 
     <hr />
 
-### İletişim Kavramı
-
-1. Sabah elimize aldığımız diş fırçasından kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza kadar hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir? *(3 kez soruldu)*
-    - A-) Kullanıcı tasarımı
-    - B-) Kullanıcı dostu
-    - **Cevap C-) Kullanıcı deneyimi**
-    - D-) Kullanıcı düşüncesi
-    - E-) Kullanıcı arayüzü
-
-    > **Açıklama:** Ünite 3'te, iletişim; 'gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir' denilmektedir. Ancak soruda bahsedilen, 'tasarımlarla girdiğimiz etkileşimlerden' kaynaklanan duygu ve davranışlar toplamı, özellikle görsel iletişimde estetik kaygıların yanı sıra topluma karşı sorumluluklar bağlamında tasarımın psikolojik etkilerini ifade eder. Metin, genel olarak iletişimin temel tanımını verse de, somut/dijital tasarımlarla etkileşim sonucu ortaya çıkan duygu ve davranışların toplamı doğrudan bir terim olarak verilmemiştir. Ancak, görsel iletişimde ele alınan 'Renk ve Duygular' ve genel olarak iletişimin bilişsel/duygusal boyutları (kavram çıkarma) göz önüne alındığında, bu tür bir deneyimin 'görsel algı' ile yakından ilişkili olduğu söylenebilir. Eğer sorunun amacı, tasarım çıktılarına verilen tepkilerin genel kapsamını sormak ise, bu bir tür 'kullanıcı deneyimi' (UX) algısıdır; ancak verilen seçeneklere göre en yakın kavram, iletişimin bilişsel/duygusal çıktısıdır. Ünite 3'te bu etkileşimlerin genel bir toplamı isimlendirilmemiştir. Fakat Ünite 2'de 'Bireysel Farklılıklar' başlığı altında, farklılıkların algılanmasının yol açtığı etkilerden bahsedilir. Ünite 3'te, renklerin duygusal etkilerinden bahsedilir. Bu tip bir deneyim, bilişsel/duygusal tepkilerin bir bileşeni olarak değerlendirilebilir. En yakın, genel terim 'İletişim'in kendisidir, çünkü tüm bu etkileşimler iletişim sürecinin bir parçasıdır.
-
-    <hr />
-
 ## Ünite 4
 
 ### Dijital Ortam Özellikleri
@@ -394,19 +368,6 @@
     - E-) İleri düzey teknoloji
 
     > **Açıklama:** Ünite 5'te, AÇYE olan bireyler için teknoloji uygulamalarının yaygın kullanım nedenleri sıralanmıştır. Bu nedenlerden biri, 'etkinlik çizelgeleri, takvimler, kontrol listeleri, renk kodları, görsel senaryolar, grafik düzenleyiciler/şemalar, kural hatırlatıcı kartlar, resim ve fotoğraflar, resim değiş tokuşuna dayalı materyaller' gibi materyallerle, özellikle görsel ipuçları sunarak öğrenmeyi destekleyen teknolojilerin kullanımını içerir. Bu tür araçlar, özellikle iletişim ve bilişsel destek bağlamında, 'Yardımcı ve Destekleyici Teknolojiler' başlığı altında ele alınmıştır ve AÇYE'li bireylerin öğrenme, sosyal uyum ve iletişim ihtiyaçlarını destekler.
-
-    <hr />
-
-### Engellilerin İstihdamı
-
-1. Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş koçluğu hizmetlerinden biri değildir? *(3 kez soruldu)*
-    - **Cevap A-) İşe girecek bireyleri tespit etme**
-    - B-) İş arama becerileri ve mülakat teknikleri eğitimi
-    - C-) Mesleki yönlendirme
-    - D-) Aktif iş gücü programlarına yönlendirme
-    - E-) Kamu veya özel sektörde işe yerleştirme
-
-    > **Açıklama:** Ünite 5 özetinde engellilerin istihdamına yönelik hizmetler ve destekler ele alınmaktadır. İstihdam, iş gücü piyasasına katılımı içerir ve bu kapsamda mesleki yönlendirme, işe yerleştirme ve iş arama becerileri eğitimi önemlidir. A şıkkı olan "İşe girecek bireyleri tespit etme" doğrudan bir iş koçluğu hizmeti olarak belirtilmemiştir; tespit etme süreci daha çok genel bir değerlendirme veya yönlendirme aşamasıdır. Diğer şıklar (yönlendirme, işe yerleştirme, aktif iş gücü programlarına yönlendirme) istihdam hizmetlerinin parçalarıdır.
 
     <hr />
 

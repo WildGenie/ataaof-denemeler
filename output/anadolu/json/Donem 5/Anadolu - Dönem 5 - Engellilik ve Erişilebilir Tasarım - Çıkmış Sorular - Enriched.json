@@ -419,7 +419,9 @@
             "topic": "Engellilerin İstihdamı",
             "explanation": "Ünite 5 özetinde engellilerin istihdamına yönelik hizmetler ve destekler ele alınmaktadır. İstihdam, iş gücü piyasasına katılımı içerir ve bu kapsamda mesleki yönlendirme, işe yerleştirme ve iş arama becerileri eğitimi önemlidir. A şıkkı olan \"İşe girecek bireyleri tespit etme\" doğrudan bir iş koçluğu hizmeti olarak belirtilmemiştir; tespit etme süreci daha çok genel bir değerlendirme veya yönlendirme aşamasıdır. Diğer şıklar (yönlendirme, işe yerleştirme, aktif iş gücü programlarına yönlendirme) istihdam hizmetlerinin parçalarıdır.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 1,
+            "similarity_score": 0.9923713803291321
         },
         {
             "id": 22,
@@ -499,8 +501,9 @@
             "topic": "Sosyal Destek Hizmetleri Sağlayıcıları",
             "explanation": "Ünite 2'de (Sayfa 2, Sosyal Destek Hizmetleri başlığı altında) bu hizmetlerin Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından, yerel yönetimler tarafından ve sivil toplum kuruluşları tarafından sunulabildiği belirtilmektedir. I. Engelli aylığı (sosyal destek) ASHB tarafından sunulan bir hizmettir. II. Muhtaç aylığı (sosyal destek) genellikle ASHB veya yerel yönetimler tarafından sağlanır (Metinde spesifik olarak 'Engelli aylığı' geçtiği için I kesinlikle doğru kabul edilir). III. Spor eğitimi desteği (Eğitim hizmetleri kapsamında değerlendirilebilir, ancak sosyal destek çatısı altında da olabilir, ancak metinde ASHB tarafından sunulan spesifik sosyal destek olarak geçmez). IV. Evde bakım desteği (Bakım Hizmetleri başlığı altında yer alır, ASHB tarafından sunulur). Metin, sosyal destek hizmetlerinin ASHB tarafından sunulduğunu belirtir ve Bakım Hizmetleri (IV) de ASHB'nin öncelikli hedefidir. Engelli aylığı (I) de genel sosyal destek olarak kabul edilir. Muhtaç aylığı (II) ve Spor eğitimi (III) daha az belirgindir. ASHB'nin öncelikli olarak sunduğu hizmetler genellikle finansal destekler (I) ve bakım hizmetleridir (IV).",
             "is_duplicate": true,
-            "duplicate_of": 82,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 3,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9744895696640015
         },
         {
             "id": 26,
@@ -520,8 +523,9 @@
             "topic": "Kullanımda Esneklik İlkesi",
             "explanation": "Ünite 2'de (Sayfa 4, Kullanımda Esneklik başlığı altında) bu ilke şöyle açıklanmıştır: 'Ürün ve ortam tasarımlarının, geniş kişisel tercih ve yetenek düzeyi yelpazesine hitap etmelerini kapsamaktadır. Bu esneklik, kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır.' I. Kullanımda seçenekler sunar (Doğru). II. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar (Bu, esnekliğin bir uygulamasıdır, metin 'kullanım metodu ile ilgili seçenekler sunarak' ifadesiyle destekler). III. Kullanım hızına uyumluluk sağlar (Metinde 'hassas ve kesin iş yapma' ifadesiyle dolaylı olarak desteklenir, hızdan ziyade esnekliğe odaklanılır).",
             "is_duplicate": true,
-            "duplicate_of": 84,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 6,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9713644981384277
         },
         {
             "id": 27,
@@ -584,7 +588,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 4,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9996565580368042
         },
         {
             "id": 30,
@@ -645,7 +650,8 @@
             "explanation": "Ünite 3'te Roland Barthes'ın göstergebilim terimleri arasında sayılan **Uylaşım**, bir göstergenin belli bir kültürel bağlamda belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine karşılıklı anlaşmaya (sözleşmeye) dayanan ilişkiyi ifade eder.",
             "is_duplicate": true,
             "duplicate_of": 16,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 33,
@@ -686,7 +692,8 @@
             "explanation": "Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi ve yazıyla desteklenmesi) en çok görme yetersizliğine sahip bireylerde ortaya çıktığı belirtilmiştir (Ünite 3).",
             "is_duplicate": true,
             "duplicate_of": 12,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 35,
@@ -808,7 +815,8 @@
             "explanation": "Dijital ortam tasarımlarında hareketsizlik veya hareketliliğinin kullanıcılar açısından verimli, konforlu ve minimum yorgunlukla kullanılabilir olmasını ifade eden evrensel tasarım ilkesi 'Düşük Fiziksel Çaba' ilkesidir. Bu ilke, tasarımın konforlu, verimli, rahat ve mümkün olan en az düzeyde çaba sarf edilerek kullanılmasını öngörür (Ünite 2).",
             "is_duplicate": true,
             "duplicate_of": 13,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 41,
@@ -848,7 +856,9 @@
             "topic": "Erişilebilirlik Tanımı",
             "explanation": "Erişilebilirlik, binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 28,
+            "similarity_score": 1.0
         },
         {
             "id": 43,
@@ -1252,7 +1262,8 @@
             "explanation": "Ünite 2'de Evrensel Tasarım kültürü başlığı altında, Evrensel Tasarım Merkezi'nin tanımına göre, bu kavramın, uyarlamaya veya özel bir düzenlemeye ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlama üzerine odaklandığı belirtilmektedir. Bu tanım, sorudaki tüm unsurları kapsamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 10,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 63,
@@ -1293,7 +1304,8 @@
             "explanation": "Evrensel Tasarım İlkeleri arasında 'Kullanımda Esneklik' ilkesi, ürün ve ortam tasarımlarının geniş kişisel tercih ve yetenek yelpazesine hitap etmelerini kapsar. Bu esneklik, kullanım metodu ile ilgili seçenekler sunarak kullanıcıların hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır. Farenin hem sağ hem sol elle kullanılabilir şekilde tasarlanması bu esnekliğe bir örnektir.",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 65,
@@ -1334,7 +1346,8 @@
             "explanation": "Ünite 5'te robot teknolojisinin (Hearingbot örneği üzerinden) kullanıldığı belirtilmiştir. Robot teknolojileri, yapay zeka ile desteklenir ve insansı özellikler kazandırılabilir (I doğru). Ayrıca, bu teknolojilerin, özellikle işitme engelliler veya diğer gruplar için etkileşimde (konuşma/işaret tanıma) kullanıldığı belirtilmiştir. Otizmli bireyler için sanal gerçeklik uygulamalarının umut vaat ettiği geçse de, robot teknolojisinin otizmdeki etkiliğine dair spesifik bir sınırlama (III) metinde geçmemektedir. Robotların insansı özellikler kazanması (I) ve insan-bilgisayar etkileşimine hizmet etmesi (II) doğrudur.",
             "is_duplicate": true,
             "duplicate_of": 48,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 67,
@@ -1415,7 +1428,8 @@
             "explanation": "Ünite 6'da, işitme kaybının oluştuğu yere göre yapılan sınıflamalar arasında, 'Duyu-sinirsel işitme kaybı, iç kulakta yer alan işitme organı (koklea veya salyangoz) ya da beyne giden işitme sinirlerindeki bozukluk sonucu oluşur.' şeklinde tanımlanmaktadır. Bu, soruda bahsedilen durumu tam olarak karşılamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 53,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 71,
@@ -1496,7 +1510,8 @@
             "explanation": "Ünite 7'ye göre, Albinizm kalıtımsal bir görme hastalığıdır. Deride, saçta, gözde renk pigmentleri olmadığı için beyaz görünür ve gözleri ışığa karşı aşırı duyarlıdır. Bu durum doğum öncesi süreçte gelişen ve kalıtımsal nedenlere bağlı bir görme yetersizliği türüdür.",
             "is_duplicate": true,
             "duplicate_of": 58,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 75,
@@ -1537,7 +1552,8 @@
             "explanation": "Ünite 8'de yardımcı teknolojiler üç düzeye ayrılmıştır. Düşük düzey teknolojiler elektronik/mekanik aksam içermeyen, maliyeti düşük ve basit araçlardır. **İletişim panosu** (basit sembol kartları) bu kategoriye girer. İşitme cihazları ve FM sistemleri işitme teknolojileri kapsamında daha üst düzeydedir. Hesap makinesi ve ses kayıt cihazları da genellikle elektronik/mekanik aksam içerdiği için orta veya yüksek düzey olarak kabul edilir.",
             "is_duplicate": true,
             "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 77,
@@ -1598,7 +1614,8 @@
             "explanation": "Ağır ve çoklu yetersizliği olan (AÇYE) bireylerin hizmetlere erişiminde ulaşım önemli bir zorluktur. Ünite 8 özetine göre, fiziksel yetersizliğe sahip AÇYE olan birçok birey tekerlekli sandalye kullanmaktadır ve okul servis aracı, otobüs gibi ulaşım araçlarının bireyin tekerlekli sandalyesiyle bağımsız olarak kullanabileceği şekilde düzenlenmiş olması gerekir. Bu nedenle, 'Tekerlekli sandalye binişli otobüs' AÇYE bireyler için seyahat becerilerinin desteklenmesine yönelik bir düzenleme örneğidir.",
             "is_duplicate": true,
             "duplicate_of": 60,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 80,
@@ -1619,7 +1636,8 @@
             "explanation": "Ünite 8'e göre, konuşma üreten cihazlar (Voice Output Communication Aids [VOCA]) ses çıkışlı iletişim araçları olarak adlandırılır. Bunlar, sözlü iletişim kurmak için sınırlı veya hiç aracı olmayan kişilerin iletişim becerilerini geliştirmek amacıyla sentezlenmiş veya sayısallaştırılmış ses üreten yüksek teknolojili ADİ sistemleridir.",
             "is_duplicate": true,
             "duplicate_of": 56,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 81,
@@ -1639,8 +1657,9 @@
             "topic": "Evrensel Tasarım Tanımı",
             "explanation": "Ünite 2'ye göre, Evrensel Tasarım, bir tasarım yaklaşımı olarak, ürünlerin, çevrenin/mekânın, programların ve hizmetlerin, teknik standartlara veya özel bir düzenlemeye/uyarlamaya ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlanmasını amaçlar. Bu, kapsayıcılık ilkesinin temelini oluşturur.",
             "is_duplicate": true,
-            "duplicate_of": 10,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 62,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 82,
@@ -1662,7 +1681,8 @@
             "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 3,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9744895696640015
         },
         {
             "id": 83,
@@ -1683,7 +1703,8 @@
             "explanation": "Ünite 6'da, engelliler hakkında yasal düzenlemeler ele alınmıştır. Türkiye'de engellilerin haklarına ilişkin ilk olarak 1/7/2005 tarih 5378 sayılı **Engelliler Hakkında Kanun** ile kavuştuğu belirtilmektedir. Bu kanun, engellilerin haklarını güvence altına alan en kapsamlı yasal düzenlemedir.",
             "is_duplicate": true,
             "duplicate_of": 41,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 84,
@@ -1705,7 +1726,8 @@
             "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 6,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9713644981384277
         },
         {
             "id": 85,
@@ -1725,7 +1747,9 @@
             "topic": "İletişim Kavramı",
             "explanation": "Ünite 3'te, iletişim; 'gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir' denilmektedir. Ancak soruda bahsedilen, 'tasarımlarla girdiğimiz etkileşimlerden' kaynaklanan duygu ve davranışlar toplamı, özellikle görsel iletişimde estetik kaygıların yanı sıra topluma karşı sorumluluklar bağlamında tasarımın psikolojik etkilerini ifade eder. Metin, genel olarak iletişimin temel tanımını verse de, somut/dijital tasarımlarla etkileşim sonucu ortaya çıkan duygu ve davranışların toplamı doğrudan bir terim olarak verilmemiştir. Ancak, görsel iletişimde ele alınan 'Renk ve Duygular' ve genel olarak iletişimin bilişsel/duygusal boyutları (kavram çıkarma) göz önüne alındığında, bu tür bir deneyimin 'görsel algı' ile yakından ilişkili olduğu söylenebilir. Eğer sorunun amacı, tasarım çıktılarına verilen tepkilerin genel kapsamını sormak ise, bu bir tür 'kullanıcı deneyimi' (UX) algısıdır; ancak verilen seçeneklere göre en yakın kavram, iletişimin bilişsel/duygusal çıktısıdır. Ünite 3'te bu etkileşimlerin genel bir toplamı isimlendirilmemiştir. Fakat Ünite 2'de 'Bireysel Farklılıklar' başlığı altında, farklılıkların algılanmasının yol açtığı etkilerden bahsedilir. Ünite 3'te, renklerin duygusal etkilerinden bahsedilir. Bu tip bir deneyim, bilişsel/duygusal tepkilerin bir bileşeni olarak değerlendirilebilir. En yakın, genel terim 'İletişim'in kendisidir, çünkü tüm bu etkileşimler iletişim sürecinin bir parçasıdır.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 43,
+            "similarity_score": 0.9994544386863708
         },
         {
             "id": 86,
@@ -1745,8 +1769,9 @@
             "topic": "Evrensel Tasarım İlkeleri",
             "explanation": "Ünite 2'de belirtilen 'Kullanımda Esneklik' ilkesi, 'kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır.' Hem sağ hem sol elin kullanımı, kullanımda esneklik ilkesinin bir gerekliliğidir. Ayrıca, fare ve klavye uyarlamaları da bu ilkeyle ilişkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 19,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 64,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 87,
@@ -1766,8 +1791,9 @@
             "topic": "Renk Kullanımı ve Görme Yetersizliği",
             "explanation": "Ünite 3'teki 'Engelliler İçin Görsel İletişim Tasarımında Renk Kullanımı' başlığı altında, renk algıda seçicilik yaratma potansiyeli olarak özellikle görme yetersizliği veya renk körlüğü olan bireyler için risk oluşturduğu belirtilmiştir. Bu, renk algısı doğrudan etkilenen bir yetersizlik türüdür.",
             "is_duplicate": true,
-            "duplicate_of": 12,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 34,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 88,
@@ -1788,8 +1814,9 @@
             "explanation": "Ünite 4'te, robot teknolojileri için 'insansı özellikler kazandırılır' (Hearingbot örneği), 'insan-bilgisayar etkileşimidir' (genel tanım) ifadeleri geçmektedir. Ancak, robot teknolojileriyle ilgili bilgilerin genelinde otizm (OSB) ile ilgili özel bir kısıtlama veya etkisizlikten bahsedilmemektedir. Aksine, sanal gerçeklik uygulamalarının otizmli bireylerin sosyal uyum becerileri için umut vaat ettiği belirtilmiştir. Bu nedenle III. ifade (Etkililiği sınırlıdır) doğru kabul edilemez.",
             "is_duplicate": true,
             "occurrence_count": 1,
-            "duplicate_of": 48,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 66,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9843733906745911
         },
         {
             "id": 89,
@@ -1810,7 +1837,8 @@
             "explanation": "Ünite 4'e göre, dijital ortamların özelliklerinden biri 'Çeşitlilik'tir. 'Detaylı sınıflandırmalardan birine göre dijital ortamların özellikleri şunlardır... Çeşitlilik' şeklinde listelenmiştir. Metinde, dijital ortamların; metin, resim, görüntü ve video gibi çok sayıda farklı türde içeriği barındırması çeşitliliğin bir göstergesidir. Ayrıca, bu içeriklerin birlikte (aynı anda) görüntülenebilmesi de bu ortamların dinamik yapısını ve çoklu formatı desteklemesini gösterir.",
             "is_duplicate": true,
             "duplicate_of": 20,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 90,
@@ -1892,7 +1920,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 50,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.994675874710083
         },
         {
             "id": 94,
@@ -1913,7 +1942,8 @@
             "explanation": "Ünite 6'da işitme kayıplı bireyler için işitmeyi destekleyen teknolojiler (işitme cihazları, koklear implantlar vb.), uyarı cihazları (ışık, titreşim vb. kullananlar) ve iletişim teknolojileri (FM sistemleri, telefon uygulamaları vb.) sıralanmıştır. Hearingbot, işitme kayıplı bireylere ev ortamında destek olmak üzere tasarlanmış yapay zekâ destekli bir robottur ve işitme teknolojileri kategorisinde değerlendirilebilir. Ancak, bu listede doğrudan bir 'yapay zekâ destekli robot' yerine, daha çok işitme cihazları, implantlar, uyarı/iletişim araçları belirtilmiştir. Hearingbot, işitme kaybı/destek teknolojileri arasında sayılan bir konsept olsa da, seçeneklerdeki diğer araçlar daha temel ve geleneksel destek teknolojileridir. Ancak en belirgin olarak, seçenekler arasında, sesli/görüntülü/text tabanlı iletişim, uyarı ve işitmeyi iyileştirmeye odaklanmıştır. Diğer seçenekler doğrudan bu kategorilerdedir. Bu nedenle, soruda verilen seçenekler bağlamında, Hearingbot (robot) bir 'tasarım uygulaması' olarak geçse de, temel teknoloji grupları (işitme, uyarı, iletişim) dışında bir robotik konsept olması nedeniyle bu listede doğrudan bir 'uygulama' olarak belirtilmemiştir. Fakat sorunun bağlamı 'tasarım uygulamaları' ise, Hearingbot bir uygulamadır. Ancak sorunun odaklandığı temel teknoloji grupları: İşitme, Uyarı, İletişim'dir. Metinde Hearingbot'tan bahsedilmesi onu bu alana sokar. Ancak, en kesin 'değildir' cevabı için, seçeneklerdeki diğer teknolojilerin (FM sistemleri, sesli kitaplar, titreşimli uyarı) doğrudan tanımına uymayan bir robotik sistem olarak ele alınabilir. Verilen seçenekler arasında, Hearingbot'un kendisi bir teknoloji türü olarak (işitme, uyarı, iletişim dışında) robot olarak öne çıkar. Diğerleri ise doğrudan işitme, uyarı veya iletişim kategorilerine girer.",
             "is_duplicate": true,
             "duplicate_of": 46,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 95,
@@ -1973,8 +2003,9 @@
             "topic": "Düşük Düzey Teknolojiler",
             "explanation": "Ünite 8'de yardımcı teknolojiler üç düzeye ayrılmıştır. Düşük düzey yardımcı teknolojiler; maliyeti düşük, basit ve elektronik/mekanik aksam içermeyenlerdir. **İletişim panosu** (ADİ araçları arasında yer alan, yardımcı araçlar kategorisinde) düşük düzey bir teknoloji örneğidir (yardımlı araçlar başlığı altında, pahalı cihazlara kıyasla).",
             "is_duplicate": true,
-            "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 76,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 98,
@@ -1994,8 +2025,9 @@
             "topic": "Görme Yetersizliği Nedenleri",
             "explanation": "Ünite 7'de görme yetersizliğinin nedenleri arasında kalıtımsal nedenler sayılmıştır. Albinizm, kalıtımsal bir görme hastalığıdır ve deride, saçta ve gözde renk pigmentleri olmaması nedeniyle beyaz görünüm ve ışığa aşırı duyarlılıkla karakterizedir. Bu, doğum öncesi süreçte gelişen bir kalıtımsal durumdur.",
             "is_duplicate": true,
-            "duplicate_of": 58,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 74,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 99,
@@ -2015,8 +2047,9 @@
             "topic": "AÇYE Teknoloji Uygulamaları",
             "explanation": "Ünite 8'de AÇYE olan bireylerin günlük yaşam becerilerini destekleyen çeşitli teknolojilerden bahsedilmiştir. Seyahat becerilerinin desteklenmesi, özellikle tekerlekli sandalyenin bağımsız kullanımı ve transferi ile ilişkilidir. Metinde, AÇYE olan bir bireyin tekerlekli sandalyesini yanağı veya başı yardımıyla bir düğmeye dokunarak yürütebilmesi ve sandalyeden yatağa transfer edebilmesi gerektiği vurgulanmıştır. Bu düzenlemeler seyahat (ulaşım) ve bağımsız hareket becerilerini doğrudan destekler.",
             "is_duplicate": true,
-            "duplicate_of": 60,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 79,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 100,
@@ -2056,8 +2089,9 @@
             "topic": "İş Koçluğu Hizmetleri",
             "explanation": "Ünite 5 özetine göre, ağır ve çoklu yetersizliği olan bireylere (AÇYE) yönelik hizmetler arasında iş koçluğu hizmetleri bulunsa da, bu hizmetler genellikle 'işe yerleştirmeye yardımcı olmak', 'iş ortamında destek olmak', 'iş ortamına adapte olmak', 'iş performansını artırmak' gibi işlevleri kapsar. Metinde açıkça belirtilen ve istihdam hizmetleri kapsamında sayılan (Ancak Ünite 5'te istihdam hizmetleri ayrıntılı olarak listelenmemiştir, Ünite 6'da ise engellilerin istihdamı ile ilgili genel destekten bahsedilmiştir. Ünite 5'te AÇYE'liler için istihdam desteği genel olarak geçmektedir) spesifik bir hizmetin 'iş koçluğu hizmeti değildir' şeklinde dışlanması için net bir bilgi bulunmamaktadır. Ancak, genel istihdam desteği, işe yerleştirme ve işe uyum sağlama üzerine odaklanır. Ünite 6'da özel eğitim, sağlık, sosyal ve ekonomik destekler ile yardımcı teknolojiler vurgulanmıştır. İstihdamla ilgili genel destekler varken, şıklardaki spesifik bir hizmetin olmadığına dair doğrudan bir çıkarım yapmak için metin yetersizdir. Ancak, Ünite 5 ve 6 bağlamında, istihdam desteği genellikle işe hazırlık, işe uyum ve işyerinde destekten oluşur. Şıklar tam olarak verilmediği için, en olası çıkarım, sunulan hizmetlerin (eğer şıklar tipik iş koçluğu hizmetlerinden oluşuyorsa) dışındaki bir eylemin (örneğin, iş dışı faaliyetler) bu kategoride yer almayacağıdır. Genel istihdam desteği temel bir hizmettir. Verilen metinlerde doğrudan 'iş koçluğu hizmetleri' başlığı altında bir hizmetin 'değil' olduğunu belirten bir liste yoktur. Ancak, istihdam hizmetleri genellikle mesleki eğitim, işe yerleştirme ve işyerinde destekten oluşur. Metinlerdeki en kapsamlı destekler eğitim, sağlık, sosyal destek ve yardımcı teknolojilerdir. Cevap şıkları olmadan kesin yanıt vermek zordur. Fakat, metinler genellikle hizmetleri listeler ve hangisinin OLMADIĞINI soran şıklar için liste dışı bir öğe aranır. Şıklar olmadan en mantıklı varsayım, istihdam hizmetlerinin genel doğasına aykırı bir seçeneğin doğru cevap olmasıdır. Eğer soru, Ünite 5'teki genel hizmetlere odaklanıyorsa (Sağlık, Eğitim, Erişilebilirlik, Yardımcı Teknolojiler), istihdam desteği de bu kapsamdadır ve iş koçluğu bu desteğin bir parçasıdır. Soruyu cevaplamak için, metindeki hizmet kategorileri dışındaki bir şıkkın (örn. 'Serbest zaman aktivitelerine rehberlik') yanlış olduğunu varsayalım. Ancak, soru istihdam hizmetleri içinden hangisi DEĞİLDİR diye sorduğundan, metinlere bakıldığında, iş koçluğunun tipik olarak işe hazırlama, işe uyum, mesleki beceri geliştirme ve işyerinde destekleri kapsadığı anlaşılır. Listenin dışındaki bir seçenek doğru cevap olacaktır. (Şıklar verilmediğinden, genel bilgiye dayanarak en az kapsayıcı olanı seçmek gerekir. Genel olarak, iş koçluğu hizmetleri işe hazırlık ve işyerinde destekle ilgilidir.)",
             "is_duplicate": true,
-            "duplicate_of": 21,
-            "original_source": "Ara Sınav 2024-2025"
+            "duplicate_of": 1,
+            "original_source": "Ara Sınav 2024-2025",
+            "similarity_score": 0.9923713803291321
         },
         {
             "id": 102,
@@ -2078,7 +2112,8 @@
             "explanation": "Ünite 2'de Engelliler Hakkında Kanun'dan (5378 sayılı) ve Özel Eğitim Hakkında Kanun Hükmünde Kararname'den (KHK, 573 sayılı) bahsedilmektedir. Özel eğitim hizmetlerinin temel amacı ve ilkeleri, 1997 yılında yürürlüğe giren 573 sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname (KHK) ile sağlanmıştır. Bu KHK'nın amacı, özel eğitim gerektiren bireylerin Türk Milli Eğitiminin genel amaçları ve temel ilkeleri doğrultusunda eğitim haklarını düzenlemektir (KHK, 573).",
             "is_duplicate": true,
             "duplicate_of": 5,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 103,
@@ -2100,7 +2135,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 42,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9996247291564941
         },
         {
             "id": 104,
@@ -2120,8 +2156,9 @@
             "topic": "Evrensel Tasarım İlkeleri",
             "explanation": "Görme yetersizliği olan bireyler için tuvalet bilgilendirmesinde büyük ve kırmızı yönlendirici görsellerin kullanılması, bilginin duyusal yetenek düzeylerinden bağımsız olarak etkili bir şekilde iletilmesini amaçlar. Ünite 7'de 'Algılanabilir Bilgi' ilkesi, tasarımın, kullanımla ilgili gerekli bilgiyi, kullanıcıya çevre koşullarından ve kullanıcıların duyusal yetenek düzeylerinden bağımsız olarak ve etkili bir şekilde iletmesi gerektiğini belirtir. Görsel bilginin (büyük ve renkli görseller) bu amaçla kullanılması bu ilkeyle ilişkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 4,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 29,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9996565580368042
         },
         {
             "id": 105,
@@ -2141,8 +2178,9 @@
             "topic": "Renk Algısı ve Engel",
             "explanation": "Ünite 3'te Renk Kullanımı başlığı altında, engel gruplarına göre renk algısında seçicilik yaratabileceği belirtilir ve örnek olarak 'görme yetersizliğine ya da renk körlüğüne sahip bireyler için renk seçilmesi ve belki de yazıyla desteklenmesi gibi' durumlar sıralanır. Bu nedenle, renk algısındaki seçicilik, en belirgin olarak görme yetersizliği (renk körlüğü dahil) ile ilişkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 12,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 87,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 106,
@@ -2163,7 +2201,8 @@
             "explanation": "Bir tasarımın, farklı kullanıcıların ihtiyaçlarına göre esneklik sunması (kullanım metodu, tercih yapma gibi seçenekler sunması) 'Kullanımda Esneklik' ilkesiyle ilgilidir. Ancak soruda 'kullanım şeklinin aynı veya benzer olmasını gerektiren ilke' sorulmaktadır. Evrensel Tasarım ilkeleri (Ünite 2, sayfa 4'te listelenenler), eşitlikçi kullanım, esneklik, basit kullanım, algılanabilir bilgi, hata toleransı, düşük çaba ve boyut/yer içerir. Kullanım şeklinin 'aynı veya benzer' olması, genellikle bir yöntemin veya arayüzün herkes için tutarlı ve öngörülebilir olması anlamına gelir, bu da 'Basit ve Sezgisel Kullanım' ilkesinin bir parçasıdır (karmaşanın yok edilmesi ve sezgilerle uyum). Fakat, 'Eşitlikçi Kullanım' ilkesi, 'Mümkün olduğunca aynı, bu sağlanamıyorsa eşdeğer olarak eşit ve adil bir kullanım olanağının sağlanmasını öngören' ilkedir. Kullanım şekillerinin aynı olmasını gerektiren ilke genellikle 'Eşitlikçi Kullanım'ın temel hedefidir (herkese eşit kullanım sunmak), ancak esneklik farklı yollar sunar. Sorudaki ifade 'aynı veya benzer' kullanım şeklini ima ediyorsa, bu, Evrensel Tasarımın temel amacı olan 'Eşitlikçi Kullanım' ile ilgilidir, zira bu ilke, mümkünse her kullanıcıya aynı deneyimi sunmayı hedefler.",
             "is_duplicate": true,
             "duplicate_of": 14,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 107,
@@ -2183,8 +2222,9 @@
             "topic": "Engellilik Kavramı",
             "explanation": "Ünite 1'de, fiziksel, zihinsel, ruhsal ve duyusal özelliklerdeki farklılıkların yarattığı algılanan ve destek gerektiren durumlara 'Bireysel Farklılıklar' denildiği belirtilmektedir. Ancak, bir ürün veya ortamla etkileşim sonucu ortaya çıkan duygu ve davranışların toplamına ve bu etkileşimlerin genel sonucuna odaklanan terim genellikle 'Kavram ve Tarihçe' kısmında geçen, farklılıkların yarattığı durumların toplam etkisidir. Metin, etkileşimlerin duygu ve davranışlara yol açtığını belirtse de, bu genel etkileşimlerin sonucunda oluşan duygusal tepkiler, algılar ve davranışsal yansımalar bütününe odaklanan kavram 'Bireysel Farklılıklar'ın algılanış biçimidir. Soruda geçen 'duygulara ve davranışlara yol açar' ifadesi, bireysel farklılıkların toplumda nasıl algılandığı ile ilişkilidir. Bu bağlamda en uygun terim, bireysel farklılıkların etkileşime yansımasıdır. Ancak, Ünite 1'de, zedelenme, yetersizlik ve engellilik tanımları daha spesifiktir. Zedelenme: kayıp/bozukluk. Yetersizlik: zedelenme sonucu ortaya çıkan sınırlılık. Engellilik: yetersizliğin toplumsal engellerle karşılaşması. Soruda geçen durum (ürünlerle etkileşim sonrası duygu/davranış toplamı) bu tanımların genel bağlamına oturur. Genel olarak, bu tür etkileşimler sonucu bireyin algıladığı ve gösterdiği toplam tepkiler 'Bireysel Farklılıklar'ın bir yansımasıdır. Eğer şıklar kısıtlıysa, sorunun içeriği en çok 'Engellilik Kavramı ve Tarihçesi' bölümündeki bireysel farklılıkların dikkat çekmesiyle ilgilidir.",
             "is_duplicate": true,
-            "duplicate_of": 85,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 43,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9994544386863708
         },
         {
             "id": 108,
@@ -2204,8 +2244,9 @@
             "topic": "Evrensel Tasarım İlkeleri",
             "explanation": "Dijital ortam tasarımlarında hareketsizlik veya hareketliliğin verimli, konforlu ve minimum yorgunlukla kullanılabilir olmasını ifade eden ilke, Evrensel Tasarım ilkelerinden 'Düşük Fiziksel Çaba' ilkesidir. Ünite 2'de bu ilke, 'Tasarım konforlu, verimli, rahat ve mümkün olan en az düzeyde çaba sarf ederek kullanılmaktadır' şeklinde tanımlanmıştır.",
             "is_duplicate": true,
-            "duplicate_of": 13,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 40,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 109,
@@ -2226,7 +2267,8 @@
             "explanation": "Ünite 2'de erişilebilirlik, fiziksel çevre, ulaşım, bilgi ve iletişim teknolojileri dahil tüm hizmetlere erişimi kapsar. Eğitimle ilgili konular, 'Erişilebilir Bilgi ve İletişim' başlığı altında, özel eğitim öğrencilerine yönelik uygulamalar ve ders materyallerinin erişilebilirliği ile ilişkilendirilmiştir. Özellikle, 'Mevzuata rağmen... bilgi ve iletişimin erişilebilirliği konusu uluslararası düzeyde de ele alınmış' ve 'Uluslararası Engellilerin Haklarına İlişkin Sözleşme'de bilgi ve iletişimin erişilebilirliğinin sağlanması sorumluluğu belirtilmiştir. Bu kapsamda, kamuya sunulan bilginin engellilerin erişebileceği biçimlerde sunulması doğrudan eğitim ve bilgiye erişim boyutunu kapsar.",
             "is_duplicate": true,
             "duplicate_of": 47,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 110,
@@ -2267,7 +2309,8 @@
             "explanation": "Ünite 5'teki temel kavramlar bölümünde Zihin Yetersizliği (ZY) tanımı verilmiştir: ZY, “çoğu günlük, sosyal ve pratik becerileri kapsayan hem zihinsel işlevlerde hem de uyumsal davranışlarda belirgin sınırlılıklarla karakterize edilen...” olarak tanımlanır. Bu bağlamda uyumsal beceriler; **Kavramsal, sosyal ve pratik uyumsal davranışları** kapsar.",
             "is_duplicate": true,
             "duplicate_of": 91,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 112,
@@ -2389,7 +2432,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 54,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9647290706634521
         },
         {
             "id": 118,
@@ -2410,7 +2454,8 @@
             "explanation": "Ünite 8'de AÇYE bireyler için erişilebilir teknoloji örnekleri verilmiştir. Erişilebilirlik sembolü, ses kontrollü telefon, yardımcı dinleme sistemi (işitme desteği) ve dokunsal Braille baskı, bu bireylerin ihtiyaçlarına yönelik teknoloji/erişim çözümleridir. **Yumuşak, mat renkli tasarım** ise görsel tasarımda (kontrast ayarlaması vb.) bir tasarım kararıdır; doğrudan bir teknolojik araç veya sistem değildir.",
             "is_duplicate": true,
             "duplicate_of": 100,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 119,
@@ -2430,8 +2475,9 @@
             "topic": "AÇYE ve Ulaşım",
             "explanation": "Ünite 8, Hizmetlere ve Desteklere Erişim başlığı altında, AÇYE olan bireylerin ulaşım zorluklarına değinir. Tekerlekli sandalye kullanan bireyler için okul servisi, otobüs gibi ulaşım araçlarının düzenlenmesi gerektiği belirtilir. Ayrıca, yatağa veya başka bir yere transfer için tekerlekli sandalyeden bağımsız transfer becerisi gerektiği vurgulanır. Ayrıca, 'AÇYE olan bireyler için bazı düzenlemeler yapılması gerekmektedir. Bunlar taşıma sistemlerinden tutun da asansörlü arabalara kadar geniş bir yelpazede ele alınabilmektedir.' denilmektedir. Bu bağlamda, tekerlekli sandalyenin kendisinin kontrolü (motorlu veya alternatif kontrol) ve sandalye dışına transfer, seyahat becerileriyle doğrudan ilişkilidir. 'Düğme yardımıyla bilgisayarını kullanabilir, sözel iletişim kuramıyorsa konuşmalarını düğme aracılığıyla yazabilir ya da seslendirebilir' ifadesi iletişim ve bilgisayar kullanımını destekler, seyahati değil.",
             "is_duplicate": true,
-            "duplicate_of": 60,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 99,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 120,
@@ -2451,8 +2497,9 @@
             "topic": "Alternatif İletişim Araçları",
             "explanation": "Ünite 8'de, Ses Çıkışlı İletişim Araçları (VOCA) şu şekilde tanımlanmaktadır: 'Konuşma üreten cihazlar olarak da adlandırılan ses çıkışlı iletişim araçları, sözlü iletişim kurmak için sınırlı veya hiç aracı olmayan bir kişi için konuşma üreten yüksek teknoloji ürünü ADİ cihazlarıdır.' VOCA'lar, ses sentezleyiciler veya önceden kaydedilmiş sesleri çalan cihazlardır. Bu, doğrudan konuşma üreten bir araçtır.",
             "is_duplicate": true,
-            "duplicate_of": 56,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 80,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         }
     ]
 }

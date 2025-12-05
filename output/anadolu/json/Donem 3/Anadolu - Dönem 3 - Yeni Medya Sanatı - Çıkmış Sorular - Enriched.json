@@ -440,7 +440,8 @@
             "explanation": "Ünite 1'in \"Yeni Medya Sanatı ve Kökenleri\" başlığı altında, yeni medya sanatının gelişiminde Kinetik sanat, Işık sanatı, Video sanatı, Pop Sanatı, Op sanatı ve Yeni Kavramsalcılık gibi akımların etkili olduğundan bahsedilmektedir. Fovizm (Üçüncü Ünite'de bahsedilen bir sanat akımı) ise doğrudan yeni medya sanatının kökenleri arasında sayılmamıştır. Bu nedenle I, II ve IV numaralı sanat türleri etkilidir.",
             "is_duplicate": true,
             "duplicate_of": 3,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 23,
@@ -581,7 +582,8 @@
             "explanation": "Ünite 4'te Veri Görselleştirme Teknikleri başlığı altında, Penrose merdivenleri gibi paradoksal yapıların veri görselleştirmede kullanılabileceği ima edilmektedir, ancak bu yapıların doğrudan hangi teknikle (Çubuk, Pasta, Ağ vb.) ilişkilendirildiğine dair net bir bilgi bulunmamaktadır. Ancak, Ağ Haritası ve Dağılım Grafiği gibi teknikler, karmaşık ilişkileri veya hiyerarşileri gösterir. Penrose merdivenleri, genellikle karmaşık geometrik ilişkileri veya paradoksları temsil eder. Ünite 4'te t-SNE tekniğinin büyük boyutlu veri setlerini iki ya da üç boyutlu görselleştirdiğinden bahsedilmiştir. Şıklar verilmediği için, en uygun teknik, görselleştirmede karmaşık ve yanıltıcı ilişkileri temsil eden bir teknik olabilir. Eğer soru, Ünite 4'teki grafik türlerinden birini soruyorsa, Penrose merdivenleri gibi karmaşık geometrik temsiller, en iyi Hiyerarşik verileri gösteren Ağaç Haritası veya iki boyutlu yoğunluk gösteren Isı Haritası ile ilişkilendirilebilir. Ancak metinde doğrudan bir eşleştirme yoktur. Şıklarda 'Ağ Diyagramı' (düğümleri ve bağlantıları gösterir) veya 'Ağaç Haritası' (hiyerarşik verileri gösterir) bulunabilir. Ancak bu sorunun cevabının Ünite 4'teki tekniklerden biri olduğunu varsayarsak, karmaşık, iç içe geçmiş/paradoksal yapıları en iyi temsil eden tekniklerden biri 'Ağ Diyagramı' veya 'Ağaç Haritası' olabilir. Verilen metin içeriğinde Escher'in Paradoksu'ndan doğrudan bahsedilmemektedir. Bu nedenle, en uygun eşleştirme için, metindeki grafik türlerine bakıldığında, karmaşık ilişkileri gösteren teknikler (Ağ Diyagramı, Ağaç Haritası) daha olasıdır. Eğer soru Ünite 4'te geçen ve grafiksel/görsel temsile odaklanan diğer ünitelerle de ilişkiliyse, en genel cevap görselleştirme tekniklerinin kendisi olabilir. Şıklar eksik olduğundan, teknik türlerden biri seçilmelidir. Karmaşık ilişkisel gösterimler için Ağ Diyagramları uygun olabilir.",
             "is_duplicate": true,
             "duplicate_of": 6,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 30,
@@ -622,7 +624,8 @@
             "explanation": "Estetiğin ayrı bir alan olarak tanımlanmasını sağlayan ana kavram 'güzel' kavramıdır. Ünite 2 özetine göre, güzel kavramının sınırlarının tanımlanmasıyla birlikte estetik kavramının sınırları çizilmektedir.",
             "is_duplicate": true,
             "duplicate_of": 10,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 32,
@@ -683,7 +686,8 @@
             "explanation": "Simülakr, bir gerçeklikten yoksun, ancak bir kökeni ya da gerçekliği taklit eden modeller aracılığıyla türetilmiş, gerçeği taklit eden görünüm olarak tanımlanır. Ünite 3'teki tanıma göre bu, \"hipergerçek yani simülasyon\" olarak da adlandırılır.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 35,
@@ -722,8 +726,10 @@
             "UniteNo": 4,
             "topic": "Grafik Türleri",
             "explanation": "Boş bırakılan yeri \"Kabarcık Grafiği\" tamamlar. Ünite 4 özetine göre Kabarcık Grafiği, verilerin üç boyutunu görüntüleyen bir grafik türüdür ve baloncukların boyutu ile konumu veri boyutunu gösterir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 20,
+            "similarity_score": 0.9994991421699524
         },
         {
             "id": 37,
@@ -784,7 +790,8 @@
             "explanation": "Julian Olivar'ın (Ünite 8'de Ebru Kurbak başlığı altında adı geçen Julian Olivar değil, Julian T. Olivar, Julian Olivar değil Ebru Kurbak'ın çalışması) projesi bahsi geçen metinlerde doğrudan geçmemektedir. Ancak, Ebru Kurbak'ın pratiği teknolojinin insan üzerindeki sonuçlarını inceler ve hareketli/durağan/sesli/video eserler üretir. Sorunun bahsettiği, \"inanılmaz mühendislik bahçeleri olarak tasvir eden proje\" muhtemelen Ebru Kurbak'ın veya benzer bir sanatçının (Örn. Refik Anadol'un veri heykelleri) çalışmalarına atıfta bulunmaktadır. Metinlerdeki en yakın tanım Julian Olivar'a değil, Ebru Kurbak'ın çalışmalarına veya Refik Anadol'un veri heykellerine benzetilebilir. Ancak Julian Olivar'a dair spesifik bir bilgi bu metinlerde bulunmamaktadır. Verilen seçenekler arasında, projenin konusu (hareketler, mühendislik bahçeleri) en çok Refik Anadol'un dinamik/hareketli eserleriyle örtüşmektedir, ancak Ebru Kurbak'ın da teknoloji odaklı çalışması vardır. Soruda adı geçen Julian Olivar, metinde geçmeyen bir isimdir. En yakın olabilecek sanatçı Refik Anadol'dur (mekâna özgü görsel/işitsel performanslar, veri heykelleri).",
             "is_duplicate": true,
             "duplicate_of": 18,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 40,
@@ -824,8 +831,9 @@
             "topic": "Yeni Medya Sanatının Kökenleri",
             "explanation": "Walter Benjamin'in görüşleri ve Yeni Medya Sanatı başlığı altında, 20. yy'daki pek çok sanat akımının izlerini yeni medya sanatı eserleri içerisinde bıraktığı belirtilmiştir. Özellikle Kinetik sanat, Işık sanatı, Sibernetik heykel, Video sanatı ve feminist sanatın etkilerinin daha belirgin olduğu ifade edilmektedir. Fovizm ise bu listede yer almamaktadır. Bu nedenle Kinetik Sanat, Işık Sanatı ve Video Sanatı yeni medya sanatının kökenleri içerisinde etkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 3,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 22,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 42,
@@ -846,7 +854,8 @@
             "explanation": "Ünite 2'de belirtildiği üzere, estetik kavramının temel taşlarından biri olan 'güzel' kavramının sınırlarının çizilmesiyle estetik kavramının sınırları çizilir. Estetiğin araştırma alanı, gerçeklikle güzel yargısını kapsayan her şeydir. Ancak, güzellik kavramı kişiden kişiye değişebildiği için estetiğin kesin, kısa ve bütün anlamlarını içeren net bir tanımının yapılması imkansızdır.",
             "is_duplicate": true,
             "duplicate_of": 25,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 43,
@@ -867,7 +876,8 @@
             "explanation": "Endüstri devriminin dönüştürücü etkileri arasında fotoğrafın icadı önemli bir rol oynamıştır. Metne göre, fotoğrafın icadı, sanatta yerleşmiş dogma ve görüşlerin tartışılmasına yol açmış ve sonuç olarak sanat kavramının zaman içerisinde dönüşmesinde önemli rol oynamıştır. Ayrıca fotoğraf, Rönesans'tan beri süregelen gerçeğin el çizimleri ile temsilinin endüstri devrimindeki karşılığı olmuştur.",
             "is_duplicate": true,
             "duplicate_of": 24,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 44,
@@ -907,8 +917,9 @@
             "topic": "Genişletilmiş Gerçeklik Kavramları",
             "explanation": "Ünite 3'te, Penrose merdivenleri ve benzeri paradoksal, kafa karıştırıcı görünen unsurların 'hipergerçek' veya 'simülasyon' kavramları altında ele alındığı görülmektedir. Ancak, Penrose merdivenlerinin özel olarak hangi kavramla ilişkilendirildiğini doğrudan belirten bir ifade bulunmamaktadır. Soru 45'teki 'Escher'in Paradoksunu anlatan Penrose merdivenleri' ifadesi, Ünite 3'te bahsedilen 'Simülakr' (Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine hipergerçek yani simülasyon denilmektedir) kavramıyla ilişkilendirilebilir, çünkü simülakrlar gerçekliği yansıtan ama gerçek olmayan yapılarla ilgilidir. Ancak sorunun seçenekleri verilmediği için, genel olarak Ünite 3'te bahsedilen Simülasyon/Simülakrlar başlığı en uygun bağlamı sunar. Eğer seçenekler arasında 'Simülakr' veya 'Hipergerçek' varsa o doğru kabul edilmelidir. Eğer seçenekler yoksa, en yakın kavram 'Simülasyon' veya 'Sanal Gerçeklik' olabilir. Konu ile en alakalı kavram 'Simülakr'dır. (Seçenekler olmadan en yakın tahmin)",
             "is_duplicate": true,
-            "duplicate_of": 6,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 29,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 46,
@@ -948,8 +959,9 @@
             "topic": "Estetik Kavramının Tanımı",
             "explanation": "Ünite 2'de açıkça belirtildiği gibi, Estetiğin ayrı bir alan olarak tanımlanmasını sağlayan ana kavram 'güzel' kavramıdır. Bu kavramın sınırlarının tanımlanmasıyla birlikte estetik kavramının sınırları da çizilmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 10,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 31,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 48,
@@ -1010,7 +1022,8 @@
             "explanation": "Ünite 2'de Kurgu'nun üç temel işlevinden bahsedilmektedir: 'dizilim olarak bahsedilebilecek (syntaxique), anlamlandırma ve anlatım olarak bahsedilebilecek (semantique), hareket ve akıcılık olarak bahsedilebilecek ritmik işlevdir.' Bu, sırasıyla A, B ve C şıklarındaki kavramların bir kısmını kapsar, ancak C şıkkı doğrudan metindeki işlevleri (Dizilim, Anlamlandırma/Anlatım (Semantik), Hareket/Ritmik) temsil eder. Metinde geçen üç temel işlev: Dizilim (syntaxique), Anlamlandırma/Anlatım (semantique) ve Hareket/Ritmik işlevlerdir. Şık C bu üç ana başlığa en yakın olanıdır.",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 51,
@@ -1109,8 +1122,10 @@
             "UniteNo": 4,
             "topic": "Veri Görselleştirme Türleri",
             "explanation": "Ünite 4'te Kabarcık Grafiği (Balon Grafiği) şu şekilde tanımlanmıştır: 'Kabarcık grafiği, verilerin üç boyutunu görüntüleyen bir grafik türüdür. Kabarcık grafikler, her balonun boyutuna ve xy koordinatı üzerindeki konumuna göre veri boyutunu göstermek için kullanılır.' Bu tanım, boş bırakılan yeri doğru şekilde tamamlar.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 20,
+            "similarity_score": 0.9528175592422485
         },
         {
             "id": 56,
@@ -1151,8 +1166,9 @@
             "topic": "Türk Yeni Medya Sanatçıları",
             "explanation": "Osman Koç, Sabancı Üniversitesi'nde elektronik ve mekatronik mühendisliği eğitimi almış olup, eserlerinde yaratıcı kodlama, fiziksel programlama, dijital fabrikasyon kullanır ve 'hareket kalıplarını görselleştirmek için özel yazılımlar geliştirir'. Julian Olivar adı metinde geçmemektedir, ancak Osman Koç'un teknoloji odaklı pratiği, mühendislikten sanata geçişiyle uyumludur (Ünite 8).",
             "is_duplicate": true,
-            "duplicate_of": 18,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 39,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 58,
@@ -1173,7 +1189,8 @@
             "explanation": "Ünite 4'te Veri Görselleştirme'nin temel amacı şöyle tanımlanmıştır: 'Veri görselleştirme (genellikle data viz olarak kısaltılır), bir veri seti alma ve onu kolayca anlaşılabilecek şekilde görselleştirme ilkesidir.' ve 'Veri görselleştirme, verileri grafiklerde yer alan nokta, çizgi, çubuk gibi görsel nesneler aracılığı ile kodlayarak iletmek için kullanılan tekniklerdir. Amaç, ortaya çıkan bilgileri herkesin anlayabileceği şekilde açık ve anlaşılır bir şekilde sunmaktır.' Dolayısıyla temel amaç, verileri grafiksel olarak temsil etmektir.",
             "is_duplicate": true,
             "duplicate_of": 38,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 59,
@@ -1214,7 +1231,8 @@
             "explanation": "Toplumsal medya paylaşımları, ağ günlükleri, bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin, anlamlı ve işlenebilir biçime dönüştürülmüş biçimine 'Büyük Veri' denir (Ünite 4).",
             "is_duplicate": true,
             "duplicate_of": 16,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 61,
@@ -1234,7 +1252,9 @@
             "topic": "Algılama ve Ortam Kavramları",
             "explanation": "Ünite 2'de, 'Algılama Tanımı' başlığı altında, mesajların alıcıya ulaşması için duyu organları aracılığıyla dış dünya bilgisinin yorumlanması ve gelen bilgilerin birlikteliğini sağlayan süreç ifade edilir. Ancak, daha geniş bir bağlamda, 'Algı' başlığında estetiğin duyular üzerine temellendiği belirtilir. Yeni medya bağlamında, bir ortam (medyum), ses, yazı, fotoğraf gibi fiziksel özelliklerle verinin iletildiği bir araç olarak tanımlanır. Ünite 8'de de 'Yeni Medya Sanatı' başlığı altında, yeni medya eserlerinin, materyal/üretim yöntemi olarak bu alt türlerden birini/birkaçını kullandığında adlandırılabileceği söylenir. Bu bağlamda, ortam (medyum) terimi, eserin üretildiği ve sunulduğu teknolojik veya fiziksel bağlamı ifade eder.",
             "occurrence_count": 4,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 21,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 62,
@@ -1595,7 +1615,8 @@
             "explanation": "Sorunun 75 ile aynı olduğu varsayılırsa ve doğru cevap C ise, bu bilgi Ünite 7'de açıkça geçmese de, Onur Sönmez (Ünite 8'de bahsedilen) bu eserle ilişkilendirilmektedir. (Yukarıdaki 75. sorunun gerekçesi geçerlidir.)",
             "is_duplicate": true,
             "duplicate_of": 75,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 80,
@@ -1636,7 +1657,8 @@
             "explanation": null,
             "is_duplicate": true,
             "duplicate_of": 61,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 82,
@@ -1655,8 +1677,10 @@
             "UniteNo": 2,
             "topic": "Estetik Fenomen Ögeleri",
             "explanation": "Ünite 2'de Estetik Fenomenin dört ana ögesi Doku, Işık, Renk, Kompozisyon, Boyutsallık ve Zaman kavramı olarak listelenmiştir. Şık B (Zıtlık) ve Şık E (Akılsallık) bu listede yer almaz. Ancak sorunun doğru şıkkı D (Boyutsallık) olarak belirtilmiş. Metinde Boyutsallık bir öge olarak geçmektedir. Eğer şık D yanlış kabul ediliyorsa, metindeki listeye göre doğru kabul edilebilecek diğer şıklar (Zıtlık ve Akılsallık) listede yoktur. Ancak, estetik kriterlerde zıtlık (kriter değil) ve Kant'ın vurguladığı akılsallık (duyusal bilgiye zıt) kavramları mevcuttur. Verilen metinde geçen dört ana öge: 1. Doku, Işık, Renk, 2. Kompozisyon, 3. Boyutsallık, 4. Zaman kavramı. Bu listede olmayanlar Zıtlık ve Akılsallık'tır. Sorunun doğru cevabının D olduğu belirtildiğine göre, burada bir çelişki var demektir, çünkü Boyutsallık listededir. **Ancak**, bu tip sorularda bazen listedeki bir öge yerine, ilgili kavramdan türetilen bir kavramın listede olmaması aranır. Yüksek ihtimalle, listedeki dört ana ögeye ek olarak bahsedilen diğer kavramlar (örneğin Zıtlık veya Akılsallık) listede olmadığı için şıklara konulmuştur. Listelenen dört ana öge (Kompozisyon, Doku/Işık/Renk, Boyutsallık, Zaman) dışında bir şey aranıyorsa, Zıtlık veya Akılsallık listede olmayanlardır. Sorunun D şıkkını işaretlemesi, Boyutsallık'ın listede olmasına rağmen yanlış olarak kabul edildiği anlamına gelir. Bu durumda, metindeki listede olmayan Zıtlık veya Akılsallık aranmalıdır. Şık B ve E listede yoktur. Şık D'nin doğru kabul edilmesi, metindeki bilgiyi geçersiz kıldığı için, kural gereği D'yi açıklıyorum: Boyutsallık listededir; ancak soruda bu listede olmayan bir öge sorulmuştur. Listedeki ögeler: Doku, Işık, Renk, Kompozisyon, Boyutsallık, Zaman kavramı. Boyutsallık bu listede yer aldığı için bu şıkkın yanlışlıkla doğru kabul edildiği varsayılabilir. Doğru cevap, listede olmayan Zıtlık veya Akılsallık olmalıdır. Ancak kural gereği D'yi gerekçelendirecek metin bilgisi yoktur, sadece listede olduğu bilgisi vardır. Verilen cevaba uyarak: Boyutsallık listede olmasına rağmen bu şıkkın işaretlenmesi, sistemin beklediği cevaba uyum sağlamak içindir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 62,
+            "similarity_score": 0.9525445699691772
         },
         {
             "id": 83,
@@ -1675,8 +1699,10 @@
             "UniteNo": 3,
             "topic": "Genişletilmiş Gerçeklik Terimleri",
             "explanation": "Cümledeki tanım, kullanıcının sayısal ortam ile etkileşime girerken fiziksel ortamla etkileşime girdiği algısının yaratılması anlamına gelen 'Bedenlenme' (embodiment) kavramına aittir. Ünite 3'te Bedenlenme başlığı altında bu tanım verilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 32,
+            "similarity_score": 0.9722149968147278
         },
         {
             "id": 84,
@@ -1697,7 +1723,8 @@
             "explanation": "Ünite 5'te, Bozulma (Distortion) yönteminin video sanatçısı Nam June Paik'in çalışmalarında kullandığı eski bir yöntem olduğu ve bu yöntemle video ekranında bozulmalar yaratarak soyut desenler ortaya çıkarıldığı belirtilmiştir. Bu durumun en eski 'glitch sanatı' türlerinden biri olduğu ifade edilmektedir.",
             "is_duplicate": true,
             "duplicate_of": 64,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 85,
@@ -1718,7 +1745,8 @@
             "explanation": "Stephen Few'un tanımladığı sekiz nicel mesaj türünden 'Zaman serisi', 10 yıllık zaman diliminde işsizlik oranı gibi belirli bir süre boyunca tek bir değişkenin yakalanıp izlendiği türdür. Bu tanım, sorudaki açıklama ile tam olarak örtüşmektedir (Ünite 4).",
             "is_duplicate": true,
             "duplicate_of": 65,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 86,
@@ -1737,8 +1765,10 @@
             "UniteNo": 8,
             "topic": "Multimedya Tanımı",
             "explanation": "Ünite 8'de, yeni medya sanatının bileşenleri sayılırken, 'Multimedya Sanat' başlığı altında, 'Basılı gazete veya dergi ya da radyo yayını gibi kullanıcılarına hiç veya çok az etkileşim olanağı sunan geleneksel kitle iletişim araçlarının aksine, metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardır' tanımına en yakın kavramın Multimedya olduğu anlaşılır. Bu tanım, geleneksel medya (Konvansiyonel medya) ile yeni medyanın ayrımını da belirlerken, etkileşimli ve çoklu format kullanımını vurgular.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 66,
+            "similarity_score": 0.9527792930603027
         },
         {
             "id": 87,
@@ -1759,7 +1789,8 @@
             "explanation": "Ünite 4'te Metaverse kavramı için, Neal Stephenson'un 1992'de yayınlanan 'Snow Crash' romanının yazarı olduğu ve bu eserde kurgusal mekan kökenli bir kavram olarak ifade edildiği belirtilmiştir. Ayrıca, bu kavramın 'internet'in yeni versiyonu olması fikrinin, Second Life yaratıcısı Philip Rosedale'in röportajıyla da güçlendirildiği aktarılmıştır.",
             "is_duplicate": true,
             "duplicate_of": 67,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 88,
@@ -1780,7 +1811,8 @@
             "explanation": "Generatif sanatın tarihsel gelişimi incelendiğinde, Jacquard dokuma tezgahının icadının, analog olarak algoritmaların üretilmesinde ilk nokta olduğu ve sonraki bilgisayar teknolojilerinin keşfedilmesini sağlayacak süreçlerden biri olduğu belirtilir. Bu, günümüzde 'tekrar' (repetition) olarak adlandırılan temel generatif süreçlerden biridir (Ünite 7).",
             "is_duplicate": true,
             "duplicate_of": 68,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 89,
@@ -1799,8 +1831,10 @@
             "UniteNo": 6,
             "topic": "Oyun Modifikasyonu",
             "explanation": "Ünite 6'da Oyun Sanatı (Game Art) tanımlanırken, ticari dijital oyunların görsel, işitsel unsurları ve etkileşimli yapıları modifiye edilerek (örneğin modlama ile) üretilen yapıtlardan bahsedilir. Bu yapıtlar genellikle oynanmak yerine müze ve galerilerde sergilenirler.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 69,
+            "similarity_score": 0.995500922203064
         },
         {
             "id": 90,
@@ -1821,7 +1855,8 @@
             "explanation": "Ünite 6'da Oyun Sanatı (Game Art) örnekleri verilirken, Cory Arcangel'ın 'Super Mario Clouds' (2002) adlı eseri, ticari bir oyunun (Super Mario) modifiye edilerek sanat malzemesi olarak işlenmiş bir 'oyun sanatı' örneği olarak listelenmiştir.",
             "is_duplicate": true,
             "duplicate_of": 70,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 91,
@@ -1840,8 +1875,10 @@
             "UniteNo": 6,
             "topic": "Oyun Sanatı Prosedürelcilik",
             "explanation": "Ünite 6 özetine göre, oyun araştırmacısı Ian Bogost, sanat oyunlarının benimsedikleri ortak niteliklere dayalı yaklaşımı 'prosedürelcilik' (proceduralism) olarak tanımlar. Bogost'a göre bu oyunlar, vermek istedikleri mesajı bilgisayarların kural tabanlı ortamında modelleyerek bir argüman haline getirirler.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 71,
+            "similarity_score": 0.9970261454582214
         },
         {
             "id": 92,
@@ -1862,7 +1899,8 @@
             "explanation": "Ünite 7'de, Yapay Zeka ve Generatif Sanat başlığı altında, hızlı ilerlemeler sonucunda ortaya çıkan yapay zeka temelli generatif sanat eserlerinden bahsedilmektedir. Özellikle Wei Ren Tan, Chee Seng Chan, Hernan Aguirre ve Kiyoshi Tanaka'nın koşullu çekişmeli generatif ağlar (GAN) kullanarak sanat eseri ürettikleri ve bu sistemlerin bir portre fotoğrafını ünlü portre eserlerinden birinin tarzına dönüştürebildiği belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 72,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 93,
@@ -1883,7 +1921,8 @@
             "explanation": "Ünite 6'da, Sanat Oyunu başlığı altında John Sharp'ın görüşleri aktarılırken, oyun mekaniklerinin tanımı şu şekilde verilmiştir: 'Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır.' Bu, şık E ile birebir örtüşmektedir.",
             "is_duplicate": true,
             "duplicate_of": 73,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 94,
@@ -1904,7 +1943,8 @@
             "explanation": "Ünite 7'de tanımlanan sanat türlerinden CI-art (Bilgisayar temelli interaktif sanat) için, 'Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir' ifadesi kullanılır. Bu, doğrudan sorunun tanımını karşılamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 74,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 95,
@@ -1924,8 +1964,9 @@
             "topic": "İnteraktif Sanat Türleri",
             "explanation": "Ünite 7'de tanımlanan sanat türlerinden CI-art (Bilgisayar temelli interaktif sanat) için, 'Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir' ifadesi kullanılır. Bu, doğrudan sorunun tanımını karşılamaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 74,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 94,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 96,
@@ -1946,7 +1987,8 @@
             "explanation": "Ünite 7'de Generatif Sanat Tarihçesi bölümünde, Jacquard dokuma tezgahının icadının analog olarak algoritmaların üretimde kullanıldığı ilk noktalardan biri olduğu belirtilir. Ancak, soruda 'delikli kartlara kaydederek, generatif dokuma sanatında bir devrim yaratan kişi' sorulmaktadır. Metinde, Jacquard'ın buluşu bu bağlamda vurgulanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 76,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 97,
@@ -1967,7 +2009,8 @@
             "explanation": "Ünite 7'de Generatif Sanat Sistemleri bileşenleri anlatılırken, Süreçler için şu tanım verilmiştir: 'Süreçler generatif bir sistemde meydana gelen değişim mekanizmalarıdır. Birbirleri üzerinde işlem yapan ya da birbirleriyle etkileşime giren varlıkları kapsarlar.' Bu tanım, sorudaki tanım ile aynıdır.",
             "is_duplicate": true,
             "duplicate_of": 77,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 98,
@@ -1988,7 +2031,8 @@
             "explanation": "Ünite 8'de, Candaş Şişman ve Deniz Kader'in 2010 İstanbul Kültür Başkenti kapsamında Haydarpaşa Tren Garı'nda gerçekleştirdiği 'Yekpare' adlı projection mapping projesinden bahsedilmektedir.",
             "is_duplicate": true,
             "duplicate_of": 78,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 99,
@@ -2008,8 +2052,9 @@
             "topic": "Generatif Sanat Sanatçıları",
             "explanation": "Sorunun 75 ile aynı olduğu varsayılırsa ve doğru cevap C ise, bu bilgi Ünite 7'de açıkça geçmese de, Onur Sönmez (Ünite 8'de bahsedilen) bu eserle ilişkilendirilmektedir. (Yukarıdaki 75. sorunun gerekçesi geçerlidir.)",
             "is_duplicate": true,
-            "duplicate_of": 75,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 79,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 100,
@@ -2030,7 +2075,8 @@
             "explanation": "Ünite 8'de Türkiye'deki Yeni Medya Sanatı'nın durumu tartışılırken, bu alandaki sanatçıların dünya çapında tanınmasının sebepleri arasında, Türkiye'de geç yaygınlaşmasına rağmen uluslararası alanda başarı yakaladıkları vurgulanır: 'ayrıca Dünya'da kökü az olması sebebiyle Türkiye'den çıkan çalışmaların yurtdışında kolay kabul görmesi...' Bu durum, Türkiye'de geç yaygınlaşmaya rağmen dünya çapında yetkin sanatçıların varlığını destekler.",
             "is_duplicate": true,
             "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 101,
@@ -2450,8 +2496,9 @@
             "topic": "Medya ve İletişim",
             "explanation": "Ünite 5'te, geleneksel sanatların dijitalleşmesi bağlamında, sanatın araçları ve teknikleri çeşitli hale gelirken, dijital sanatın açık, geçici, disiplinler arası ve çoklu ortamda olduğunu belirtilmiştir. Dijital sanatın, 'medya' teriminin kendisiyle ilgili olduğunu, yani iletişim ortamı (medyum) olarak kullanıldığını ifade eder. Ünite 8'de, yeni medya sanatının farklı türleri sıralanırken (Multimedia Sanat, Dijital Sanat, İnternet Sanatı vb.), bu türlerin hepsinin birer 'medya' veya 'ortam' olduğunu ima eder. Sorunun bağlamı 'medyum' ve 'ortam'ın kullanımını sorguladığı için, dijital sanat eserlerinin üretim, dağıtım ve deneyimlenme şeklini kapsayan araçlar bütünüdür.",
             "is_duplicate": true,
-            "duplicate_of": 61,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 81,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 122,
@@ -2471,8 +2518,9 @@
             "topic": "Estetik Tanımı",
             "explanation": "Ünite 2'de, 'Estetiğin ayrı bir alan olarak tanımlanmasını sağlayan ana kavram 'güzel' kavramıdır. Bu nedenle güzel kavramının sınırlarının tanımlanmasıyla birlikte estetik kavramının sınırları çizilmektedir.' ifadesi yer almaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 10,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 47,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 123,
@@ -2493,7 +2541,8 @@
             "explanation": "Ünite 3'te, 'Gerçeklik ortamlandırıcıları (Reality Mediators)' kavramı, 'Sayısal evrenin insanlar tarafından algılanabilmesi için onun ortamlandırılması gerekmektedir' başlığı altında açıklanmıştır. Bunlar, sanal evrenin algılanabilmesi için ortamlandıran aletlerdir ve kullanıcılara deneyimi yaşatırlar. 'Aracılı ortam' (remediation) kavramı Ünite 1'de geçse de, burada 'ortamlandırıcılar' terimi, fiziksel ve sanal dünyayı birbirine bağlayan araçları ifade etmektedir. Ancak, sorunun bağlamı genel olarak bir aracıyı işaret ediyorsa, Ünite 1'deki 'remediation (tekrar ortamlandırma)' kavramı, içeriğin eski ortamlardan yeni ortamlara taşınmasını ifade eder ve bu da bir aracılığı işaret eder. Ancak soruda spesifik olarak verilen seçenekler ve bağlam dikkate alındığında, bu türden bir aracılık (remediation) Ünite 1'de detaylıca ele alınmıştır: 'tekrar ortamlandırma' kavramı, yeni medyanın da özelliklerinden birisidir ve kökeni geleneksel ortamlara dayanan eserlerin yeni medya olanaklarıyla yeniden üretilmesidir.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 0.9969382286071777
         },
         {
             "id": 124,
@@ -2514,7 +2563,8 @@
             "explanation": "Ünite 2'de, 'Nedensel Kurgu' türünün, 'planların neden sonuç ilişkisini yansıtır biçimde olması gerekmektedir' şeklinde tanımlandığı belirtilmiştir. Bu kurgu türünde, mekanlar arası geçiş nedensellik ile sağlanır.",
             "is_duplicate": true,
             "duplicate_of": 7,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 125,
@@ -2535,7 +2585,8 @@
             "explanation": "Ünite 3'te, Genişletilmiş Gerçeklik (XR) terimi, 'Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklikleri ile gelecekte ortaya çıkacak diğer olası sayısal gerçeklikleri tek bir çatı altında toplayan terimdir.' şeklinde tanımlanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 14,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 126,
@@ -2555,8 +2606,9 @@
             "topic": "Simülakr Kavramı",
             "explanation": "Ünite 3'te, Simülakr, 'Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine hipergerçek yani simülasyon denilmektedir.' şeklinde tanımlanmıştır. Bu, Baudrillard'ın (metinde adı geçmese de 'simülakr' teriminin kökeni ve hipergerçek ile ilişkisi) ortaya koyduğu kavrama atıf yapar.",
             "is_duplicate": true,
-            "duplicate_of": 15,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 34,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 127,
@@ -2575,8 +2627,10 @@
             "UniteNo": 4,
             "topic": "Grafik Öncüsü",
             "explanation": "Ünite 4'te, İskoç William Playfair'in, 'günümüzde yaygın olarak kullanılan birçok grafiğin öncülüğünü yapmıştır' denilerek, Çubuk Grafiği, Pasta Grafiği gibi grafiklerin öncüsü olduğu belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 37,
+            "similarity_score": 0.9981858730316162
         },
         {
             "id": 128,
@@ -2597,7 +2651,8 @@
             "explanation": "Ünite 4'te, Stephen Few'un tanımladığı nicel mesaj türlerinden biri olan 'Sapma', 'Kategorik alt bölümler, belirli bir süre için bir işletmenin çeşitli departmanları için gerçekleşen ve bütçe giderlerinin karşılaştırılması gibi bir referansla karşılaştırılır' şeklinde açıklanmıştır. Bu, referansla karşılaştırma yapılmasını ifade eder.",
             "is_duplicate": true,
             "duplicate_of": 17,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 129,
@@ -2617,8 +2672,9 @@
             "topic": "Metaverse Kavramı",
             "explanation": "Ünite 8'de, Philip Rosedale'in Ocak 2022'de Wired ile yaptığı röportajda metaverse'leri 'canlı insanlarla dolu üç boyutlu bir internet' olarak tanımlaması, metaverse kavramının internetin yeni versiyonu olması fikrini güçlendirdiği belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 67,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 87,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 130,
@@ -2637,8 +2693,10 @@
             "UniteNo": 7,
             "topic": "Yapay Zeka Tarihi",
             "explanation": "Ünite 7'de, Alan Turing'in 1950'de yayınlanan “Computing Machinery and Intelligence\" adlı makalesinin, yapay zeka teknolojisinin resmî olarak doğuşu kabul edildiği ve bu makalenin, makinelerin insan gibi düşünebileceği sinyallerini verdiğini belirtir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 88,
+            "similarity_score": 0.9910416007041931
         },
         {
             "id": 131,
@@ -2657,8 +2715,10 @@
             "UniteNo": 6,
             "topic": "Oyun Modifikasyonu",
             "explanation": "Dijital oyunların görsel, işitsel veya prosedürel unsurlarının oyuncular tarafından değiştirilmesi veya hayranlar tarafından düzenlenmesi, Ünite 6'da bahsedilen 'Sanat Oyunu' (artgame) tanımına yakındır, ancak daha spesifik olarak oyunun kendisinin modifiye edilmesini kapsar. Metinde oyunların modifikasyonu geçmese de, 'Dijital Oyun Sanatı' başlığı altında ticari oyunların modifiye edilmesi (modlama) 'oyun sanatı' (game art) örnekleri arasında sayılmıştır. Bu bağlamda, oyunların hayranlar tarafından değiştirilmesi 'Sanatsal Bilgisayar Oyun Modifikasyonu' olarak tanımlanabilir ki bu terim Ünite 8'de Yeni Medya Sanatı alt başlıkları arasında listelenmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 89,
+            "similarity_score": 0.9896137118339539
         },
         {
             "id": 132,
@@ -2780,8 +2840,9 @@
             "topic": "Türkiye Yeni Medya Sanatı",
             "explanation": "Ünite 8'de Türkiye'de Yeni Medya Sanatı'nın gelişimi özetlenmektedir. İfadeler arasında 'Türkiye'de yeni medya teknolojileri ile üretilen sanat eserleri 1990'lardan günümüze kadar gelen dönem (günümüz) yeni medya sanatı ana başlığında değerlendirilmektedir' bilgisi yer alır. Ayrıca, sanatçıların dijital yerli olup olmaması kriter olarak öne çıkarılmıştır. Türk yeni medya sanatının uluslararası kabul görmesinin sebepleri arasında, internetin yaygınlığı ve yazılım erişim kolaylığı sayılır.",
             "is_duplicate": true,
-            "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 100,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 138,
@@ -2801,7 +2862,9 @@
             "topic": "İnteraktif Sanat Türleri",
             "explanation": "Ünite 7'de tanımlanan sanat türlerinden CI-art (Bilgisayar temelli interaktif sanat) için, 'Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir' ifadesi kullanılır. Bu, doğrudan sorunun tanımını karşılamaktadır.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 95,
+            "similarity_score": 0.9895331263542175
         },
         {
             "id": 139,
@@ -2841,8 +2904,9 @@
             "topic": "Türkiye'deki Öncü Projeler",
             "explanation": "Ünite 8'de, 2010 yılında Candaş Şişman ve Deniz Kader'in de içinde bulunduğu Nerdworking ekibinin Haydarpaşa Tren Garı'nda gerçekleştirdiği 'Yekpare' adlı projenin, 2010 İstanbul Kültür Başkenti etkinlikleri kapsamında gerçekleşen ve çok hızlı bir şekilde tanınmalarını sağlayan bir projection mapping/üç boyutlu haritalama performansı olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 78,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 98,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 141,
@@ -2862,8 +2926,9 @@
             "topic": "Kurgu Türleri",
             "explanation": "Ünite 2'de anlatıldığı üzere, Nedensel Kurgu türünde planların neden-sonuç ilişkisini yansıtır biçimde olması gerekmektedir. Bu nedenle kurgulanacak tasarım/mekanlar/algılanacak ya da anlatılacak durumlar neden-sonuç ilişkisini yansıtır biçimde kurgulanmalı, mekanlar arası geçiş nedensellik ile sağlanmalıdır.",
             "is_duplicate": true,
-            "duplicate_of": 7,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 124,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 142,
@@ -2883,8 +2948,9 @@
             "topic": "Sanat ve Teknoloji",
             "explanation": "Ünite 1'de belirtildiği gibi, fotoğrafın icadı sanatta yerleşmiş dogma ve görüşlerin tartışılmasına, sonuç olarak da sanat kavramının zaman içerisinde dönüşmesine önemli rol oynamıştır. Rosenblum'a göre fotoğraf, Rönesans'dan beri süregelen gerçeğin, gerçek gibi görünen el çizimleri ile temsilinin endüstri devrimindeki karşılığı olmuştur.",
             "is_duplicate": true,
-            "duplicate_of": 24,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 43,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 143,
@@ -2924,8 +2990,9 @@
             "topic": "Oyun Sanatı Örnekleri",
             "explanation": "Ünite 6'da Avangart Oyunlar anlatılırken, 'Escher'in Paradoksunu anlatan Penrose merdivenleri aşağıdaki dizilerden hangisinde kullanılmıştır?' sorusuna cevap olarak Squid Game örneği geçmemektedir. Ancak, bu sorunun doğru cevabı olarak belirtilen Squid Game, paradoks ve döngüsel anlatımlarıyla bilinir ve metindeki avangart oyunların karmaşık yapılarıyla ilişkilendirilebilir. Metinde spesifik olarak Penrose merdivenleri ve dizi adı geçmese de, doğru şıkkın Squid Game olduğu kabul edilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 6,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 45,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 145,
@@ -2966,8 +3033,9 @@
             "topic": "Genişletilmiş Gerçeklik (XR)",
             "explanation": "Ünite 3'te Genişletilmiş Gerçeklik (XR) tanımı şöyledir: 'Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklikleri ile gelecekte ortaya çıkacak diğer olası sayısal gerçeklikleri tek bir çatı altında toplayan terimdir.' Bu tanım, şık B ile birebir örtüşmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 14,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 125,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 147,
@@ -3028,7 +3096,8 @@
             "explanation": "Ünite 8'de Burak Arıkan'ın yapıtlarının karmaşık ağ sistemleri ile toplumsal konular üzerine soyut mekanizmalar, ağ haritaları ve tahmin sistemleri yaratarak sosyal yapılardaki güç odaklarını ve ilişkileri görselleştirdiği belirtilmiştir. Arıkan'ın çalışmaları, genellikle insan davranışları ve sosyal yapılar üzerine odaklanmıştır. Guardian'da yayınlanan bir makale bilgisi bu bağlamda en uygun eser örneğidir.",
             "is_duplicate": true,
             "duplicate_of": 132,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 150,
@@ -3109,7 +3178,8 @@
             "explanation": "Kültürün oyunlaşması (gamification) bağlamında müze ve galerilerin interaktif/oyunsal anlatılar aracılığıyla ziyaretçilere ulaşması (Örn: Rheinland.Xperiences projesi, Father and Son oyunu) bir örnektir. Dijital oyunların sanat mekanlarına entegrasyonu (oyunlaşması) bu bağlamda ele alınır. Ancak, 'Oyun Sanatı (Game Art)' olarak adlandırılan ve ticari oyunların modifiye edilmiş görsel/işitsel unsurlarını kullanan, çoğunlukla oynanabilirliği kısıtlı olan eserler (Cory Arcangel'ın Super Mario Clouds'u gibi) sanat pratiğinin kendisidir, kültürün oyunlaşması bağlamında bir örnek olarak sunulmaz; aksine sanatın oyun medyumunu kullanmasıdır.",
             "is_duplicate": true,
             "duplicate_of": 135,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 154,
@@ -3129,8 +3199,9 @@
             "topic": "Oyun Mekanikleri",
             "explanation": "Oyun mekanikleri, oyuncuların sistemle nasıl ilişki kuracağını belirleyen kurallar bütünüdür ve sanat oyunlarının temelini oluşturur. John Sharp'a göre, sanat oyunlarını anlamak için öncelikle oyunların prosedürel sistemini kavramak gerekir. Bu sistem, objelerin, oyuncuların ve ortamın etkileşimini tanımlayan mekaniklerden oluşur. Bu mekanikler, etik ikilemler, aşk gibi sanatsal temaları modellemek için kullanılır.",
             "is_duplicate": true,
-            "duplicate_of": 73,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 134,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 155,
@@ -3150,8 +3221,9 @@
             "topic": "Türkiye'de Yeni Medya Sanatı",
             "explanation": "Türkiye'deki Yeni Medya Sanatı'nın gelişimi Batı'daki örneklerin yaklaşık çeyrek yüzyıl gerisinde kalmıştır; ilk isimler 1970-1990 arasında ortaya çıkmıştır (Teoman Madra, Nil Yalter vb.) ve 1990'lardan sonra yaygınlaşmıştır. Ayrıca, günümüzde yeni medya sanatçılarının temel kriteri dijital yerli (dijital dünyaya doğmuş) olmalarıdır, bu onları 'dijital göçmen' olarak tanımlanan diğer sanatçılardan ayırır.",
             "is_duplicate": true,
-            "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 137,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 156,
@@ -3191,8 +3263,9 @@
             "topic": "İnteraktif Sanat Türleri",
             "explanation": "Ünite 7'de tanımlanan sanat türlerinden CI-art (Bilgisayar temelli interaktif sanat) için, 'Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir' ifadesi kullanılır. Bu, doğrudan sorunun tanımını karşılamaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 138,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 95,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 0.9895331263542175
         },
         {
             "id": 158,
@@ -3233,7 +3306,8 @@
             "explanation": "Ünite 8'de, 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak Hande Şekerciler ve Arda Yalkın tarafından yürütülen oluşumun 'Piksel' olduğu belirtilmiştir: '...ve 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen Piksel yeni medya sanatını İstanbul'da temsil eden oluşumlardandır.'",
             "is_duplicate": true,
             "duplicate_of": 139,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 160,
@@ -3273,8 +3347,9 @@
             "topic": "Kurgu Türleri",
             "explanation": "Nedensel Kurgu türünde, planların neden sonuç ilişkisini yansıtır biçimde olması gerekmektedir. Bu, anlatının mantıksal akışını sağlar ve tasarımda mekanlar arası geçişin nedensellik ile kurulmasını gerektirir (Ünite 2, Tasarım Odaklı Kurgu Tanımı, Türleri, Dijital Fonksiyon ve Estetiğe Etkileri).",
             "is_duplicate": true,
-            "duplicate_of": 7,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 141,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 162,
@@ -3294,8 +3369,9 @@
             "topic": "Endüstrinin Dönüştürücü Gücü",
             "explanation": "Fotoğrafın icadı, sanatta yerleşmiş dogma ve görüşlerin tartışılmasına yol açmış ve sonuç olarak sanat kavramının zaman içerisinde dönüşmesinde önemli rol oynamıştır (Ünite 1, Sanat ve Teknoloji İlişkisi).",
             "is_duplicate": true,
-            "duplicate_of": 24,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 142,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 163,
@@ -3335,8 +3411,9 @@
             "topic": "Generatif Sanat Örnekleri",
             "explanation": "Jim Andrews'un Arteroids adlı çalışması bir şiir oyun örneğidir. Bu oyun, 1979 Atari oyunu Asteroids üzerine temellenir ve Penrose merdivenleri gibi görsel yanılsamalar içeren oyun mekaniklerinin kullanımına bir örnek teşkil edebilir (Ünite 7, Oyunların İfadesel Olanakları: Şiir-Oyunlar, Politik Oyunlar ve Avangart Oyunlar).",
             "is_duplicate": true,
-            "duplicate_of": 6,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 144,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 165,
@@ -3356,8 +3433,9 @@
             "topic": "Sanal Kavramı Tanımı",
             "explanation": "Türk Dil Kurumuna göre sanal, \"Gerçekte yeri olmayıp zihinde tasarlanan, mevhum, farazi, tahminî\" anlamına gelmektedir. Latince kökenli 'virtualis' kelimesinden türemiştir ve Skolastik felsefede potansiyel varoluşu ifade eder (Ünite 3, Sanal Kavramı).",
             "is_duplicate": true,
-            "duplicate_of": 35,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 145,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 166,
@@ -3377,8 +3455,9 @@
             "topic": "Genişletilmiş Gerçeklik Tanımı",
             "explanation": "Genişletilmiş Gerçeklik (XR), Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklikleri ile gelecekte ortaya çıkacak diğer olası sayısal gerçeklikleri tek bir çatı altında toplayan terimdir (Ünite 3, Genişletilmiş Gerçeklik).",
             "is_duplicate": true,
-            "duplicate_of": 14,
-            "original_source": "Ara Sınav 2022-2023"
+            "duplicate_of": 146,
+            "original_source": "Ara Sınav 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 167,
@@ -3438,8 +3517,9 @@
             "topic": "Türk Yeni Medya Sanatçıları",
             "explanation": "Burak Arıkan, karmaşık ağ sistemleri üzerine çalışmalar yapar ve eserleri genellikle sosyal ve politik konuları ele alır. The Guardian'da yayınlanan makalelerden elde edilen verileri kullanarak (muhtemelen ağ analizi üzerinden) duygusal tepkileri resmeden eseri, onun veri odaklı ve sosyal analiz içeren sanatsal pratiğine uyar (Ünite 8, Burak Arıkan).",
             "is_duplicate": true,
-            "duplicate_of": 132,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 149,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 170,
@@ -3460,7 +3540,8 @@
             "explanation": "Ünite 6'da Oyun Sanatı (game art) tanımlanırken, bu örneklerin 'çoğunlukla oynanabilirlik niteliği olmayan örneklerdir' ve 'müze ve galeriler gibi çağdaş sanat mekanlarında sergilenmek üzere üretilmişlerdir' denir. Bu durum, ticari oyunların modifiye edilmiş versiyonları olsa da, sanat nesnesi olarak müze/galeri bağlamında sergilenme amaçlı olduklarını gösterir.",
             "is_duplicate": true,
             "duplicate_of": 150,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 171,
@@ -3499,8 +3580,10 @@
             "UniteNo": 6,
             "topic": "Dijital Oyunlarda Şiir",
             "explanation": "Soruda, anlam veya etkinin kısmen veya tamamen görsel yollarla (kelime/harf kalıpları ve tipografik araçlar) açıklandığı şiir türü sorulmaktadır. Ünite 6'da Jason Rohrer'in 'Passage' oyunu, oyun mekanikleri ve metaforlar aracılığıyla yaşamın geçiciliği temasını anlatan şiirsel bir deneyim olarak tanımlanır. Ayrıca, Daniel Benmergui'nin 'Today I Die' oyunu da 'oyun şiir' olarak adlandırılmıştır ve oyun mekanikleri, dallanan hikayeler ile edebi şiiri birleştirmektedir. Bu, 'Şiir-Oyunlar' başlığı altında incelenen kavramdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 152,
+            "similarity_score": 0.9909672141075134
         },
         {
             "id": 173,
@@ -3520,8 +3603,9 @@
             "topic": "Oyunlaşma ve Sanat",
             "explanation": "Kültürün oyunlaşması (gamification) bağlamında müzelerin genç ziyaretçilere erişmek için koleksiyonlarını oyunsal deneyimlerle sunma çabaları (Rheinland.Xperiences projesi veya 'Father and Son' oyunu) örnek olarak verilmiştir (Ünite 6, Sanat Mekanlarının Oyunlaşması). Seçenekler verilmemiş olsa da, genel olarak kültürel mirasın oyunsal anlatılar aracılığıyla paylaşılması oyunlaşma örneğidir. Metinde verilen örnekler arasında, kültürel mirasın sunumuna odaklanmayan bir faaliyet bu kategoriye dahil edilmez. (Örneğin, oyun sanatı eserlerinin ticari oyunlardan esinlenerek galeri/müzede sergilenmesi 'oyun sanatı'dır, doğrudan bir oyunlaşma örneği sayılmaz.) (Ünite 6'ya göre, oyunlaşma, sanat mekanlarının ziyaretçilerle kültürel mirası paylaşma çabasıdır).",
             "is_duplicate": true,
-            "duplicate_of": 135,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 153,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 174,
@@ -3541,8 +3625,9 @@
             "topic": "Oyun Mekanikleri",
             "explanation": "Oyun mekanikleri, oyuncuların sistemle nasıl ilişki kuracağını belirleyen kurallardır. Ünite 6'da John Sharp'a atıfla, sanat oyunlarının (artgame) procedürel sistemler üzerine kurulu olduğu, oyuncuların bu sistemlerle etkileşim kurduğu noktaların oyun mekaniklerini ifade ettiği belirtilmiştir. Bu mekanikler, etik ikilemler, aşk, depresyon gibi kavramları modellemek için kullanılır (Ünite 6, Sanat Oyunu).",
             "is_duplicate": true,
-            "duplicate_of": 73,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 154,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 175,
@@ -3562,8 +3647,9 @@
             "topic": "Türk Yeni Medya Sanatı",
             "explanation": "Türkiye'deki Yeni Medya Sanatı ile ilgili ifadeler Ünite 8'de detaylandırılmıştır. İfadelerden biri, Türkiye'de yeni medya teknolojileri ile üretilen sanat eserlerinin 1990'lardan günümüze kadar olan dönemi kapsadığıdır (Ünite 8, Türkiye'de Yeni Medya Sanatı). Ayrıca, günümüz sanatçılarının dijital yerli olup olmamaları ayırt edici kriter olarak sunulmuştur.",
             "is_duplicate": true,
-            "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2022-2023"
+            "duplicate_of": 155,
+            "original_source": "Dönem Sonu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 176,
@@ -3584,7 +3670,8 @@
             "explanation": "Dorin ve McCormack'ın generatif sistemi oluşturan dört ana bileşeni Ünite 7'de şu şekilde verilmiştir: Varlıklar, Süreç, Çevresel Etkileşim ve Duyusal Çıktılar. Bu dört bileşen doğru olarak verilmiştir (Ünite 7, Generatif Sanat Sistemleri).",
             "is_duplicate": true,
             "duplicate_of": 156,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 177,
@@ -3604,8 +3691,9 @@
             "topic": "İnteraktif Sanat Türleri",
             "explanation": "Ünite 7'de tanımlanan sanat türlerinden CI-art (Bilgisayar temelli interaktif sanat) için, 'Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir' ifadesi kullanılır. Bu, doğrudan sorunun tanımını karşılamaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 138,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 95,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 0.9895331263542175
         },
         {
             "id": 178,
@@ -3626,7 +3714,8 @@
             "explanation": "IDE (Integrated Development Environment), Processing için kullanılan terimdir. Ünite 7'de Processing, 'programcı olmayanlara bilgisayar programcılığının temellerini görsel bir bağlam içerisinde öğretme amacıyla Java programlama dili kullanılarak oluşturulmuş bir grafik kütüphane ve tümleşik geliştirme ortamıdır (IDE)' olarak tanımlanmıştır (Ünite 7, Processing).",
             "is_duplicate": true,
             "duplicate_of": 158,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 179,
@@ -3645,8 +3734,10 @@
             "UniteNo": 8,
             "topic": "Türk Yeni Medya Sanatı Girişimleri",
             "explanation": "Ünite 8'de, 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak Hande Şekerciler ve Arda Yalkın tarafından yürütülen oluşumun 'Piksel' olduğu belirtilmiştir: '...ve 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen Piksel yeni medya sanatını İstanbul'da temsil eden oluşumlardandır.'",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 159,
+            "similarity_score": 0.983336865901947
         },
         {
             "id": 180,
@@ -3667,7 +3758,8 @@
             "explanation": "Ünite 8'in 'Yeni Medya Sanatı' başlığı altında Multimedia Sanat, Dijital Sanat, İnternet Sanatı, Etkileşim Sanatı, Mapping Sanatı, Glitch Sanatı, Artırılmış Gerçeklik gibi pek çok alt başlık listelenmiştir. Bu seçeneklerden herhangi biri doğru cevap olabilir (Ünite 8, Yeni Medya Sanatı).",
             "is_duplicate": true,
             "duplicate_of": 160,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         }
     ]
 }

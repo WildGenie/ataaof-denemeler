@@ -551,19 +551,6 @@
 
     <hr />
 
-### Anlatı Ortamları ve Türleri
-
-1. Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir? *(3 kez soruldu)*
-    - A-) Mekansal anlatı
-    - **Cevap B-) Time-Lapse**
-    - C-) İllustrasyon
-    - D-) Kurgu
-    - E-) Montajlama
-
-    > **Açıklama:** Bir hareket hissi oluşturmak için seri fotoğraflarla özel bir montaj tekniği kullanarak geliştirilen ve bir çeşit video olan anlatı türü Fotoğraf ve Anlatı başlığı altında ele alınan 'Time-Lapse' uygulamalarıdır. Time-Lapse, fotoğraf karelerinin ardışık olarak gösterilmesiyle hareket izlenimi yaratır.
-
-    <hr />
-
 ### Anlatı Yapısı
 
 1. Zihinsel bir öge olan öykü ile bunun nesneleştirilmesini tanımlayan söylemden oluşan anlatı türü aşağıdakilerden hangisidir?
@@ -1411,19 +1398,6 @@
     - E-) Film öyküsünün sahnelere bölünerek ayrımlanmasını sağlar.
 
     > **Açıklama:** Ünite 8'deki 'Film Yapım Aşamaları' altındaki 'Çekim Senaryosu' tanımına göre, bu metin, film öyküsünün sahnelere bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir. Metinde Amerikan formatında diyalogların sağ tarafta yer aldığına dair spesifik bir bilgi bulunmamaktadır; bu bilgi genellikle senaryo yazım standartlarına aittir ve metin bunu kesin olarak doğrulamamaktadır. Bu nedenle, bu ifadenin yanlış olduğu kabul edilir.
-
-    <hr />
-
-### Sinema Anlatı Birimleri
-
-1. Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir? *(4 kez soruldu)*
-    - **Cevap A-) Sekans**
-    - B-) Çekim metni
-    - C-) Sinopsis
-    - D-) Tretman
-    - E-) Shutter
-
-    > **Açıklama:** Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan yapıya 'Sekans' adı verilir. Metnin görselleştirilmesi başlığı altında, Sekans'ın, birbiriyle ilişkili olan sahnelerin bir araya gelmesiyle oluştuğu ve çok sayıda sahneden meydana geldiği belirtilmektedir.
 
     <hr />
 

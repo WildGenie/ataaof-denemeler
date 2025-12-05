@@ -706,19 +706,6 @@
 
     <hr />
 
-### Segmentasyon Araştırmaları
-
-1. Segmentasyon analizlerinin kullanım amacı aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Piyasa büyüklüğünü ölçmek
-    - B-) Temsili örnekleme dayalı araştırma yaklaşımını anlamak
-    - **Cevap C-) Markanın neden tercih edildiğini belirlemek**
-    - D-) Fiyat artışı sağlamak
-    - E-) Kantitatif ve kalitatif araştırmaları sonuçlarını karşılaştırmak
-
-    > **Açıklama:** Segmentasyon analizlerinin kullanım amacı, tüketici kitlesi üzerinde geniş kapsamlı araştırmalar yaparak onları sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır. Ünite 6'da Segmentasyon Araştırmaları, tüketici kitlesi üzerinde geniş kapsamlı araştırmaların yapıldığı aşama olarak tanımlanır ve amacı sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır.
-
-    <hr />
-
 ### İçgörü ve Marka İletişimi
 
 1. Aşağıdaki marka iletişimi örneklerinden hangisi etkili bir içgörüyü temsil eder?

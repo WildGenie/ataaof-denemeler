@@ -481,7 +481,8 @@
             "explanation": "Yazılı iletişim, sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir (madde 1), belge niteliği taşır (madde 2), kişisel sürtüşmeler daha azdır (madde 3) ve yanlış anlaşılma daha az olduğu bir iletişim türüdür (madde 4). Ancak, yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın mesajı düzenleme, değiştirme veya iptal etme şansı bulunur (madde 6). Bu durum, sözel iletişimin anlık olması ve aktarılan mesajın geri alınamaz olması ile karşılaştırıldığında doğru bir özelliktir. Metinde yazılı iletişimin hatalı bir özelliği belirtilmemiştir; bu nedenle, şıklarda verilen ifadeler kontrol edilmelidir. Eğer şıklarda mesajın geri alınamaz olması gibi sözel iletişim özelliği yazılı iletişim için yanlış olarak verilmiş olsaydı o yanlış olurdu. Ancak, verilen bilgiler ışığında, yazılı iletişimin tüm özellikleri doğru verilmiştir. Şıklarda verilen varsayımların en olası yanlış olanı, genellikle yazılı iletişimin 'anlık iletişim kazalarının yapılma olasılığını düşürmesi' veya 'daha resmî ve mesafeli olması' gibi özellikleridir. Ancak, verilen metinlere göre hepsi doğrudur. Bu sorunun cevabını kesinleştirmek için şıkların içeriği gereklidir. Standart ders notlarına göre, genellikle 'yanlış' olarak belirtilebilecek bir ifade, yazılı iletişimin anlık iletişim kazalarını düşürdüğü ve taraflara düşünme fırsatı sunduğudur, bu doğru bir ifadedir. Eğer şıklardan biri, 'Yazılı iletişim sözel iletişim gibi karşılıklılık gerektirir' gibi bir ifade içeriyorsa o yanlış olur. Verilen metinde, tüm yazılı iletişim özellikleri doğru verilmiştir. Varsayımsal olarak, en sık karşılaşılan ve yanıltıcı olabilecek ifadeyi seçmek gerekir. Ancak elimizdeki bilgiye göre 6. madde doğru bir farklılıktır. Bu nedenle, en olası yanlış ifade, şıklarda sunulacak bir ifadedir. Bu tür sorularda, metinde açıkça belirtilmeyen veya diğer özelliklerle çelişen bir bilgi aranır. Şıklar olmadan kesin cevap verilemez, ancak metindeki 6 maddeyi doğru kabul edersek, 'yanlış' olan bir şık olmalıdır. En temel yanlış ifadenin, 'Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın mesajı düzenleme, değiştirme veya iptal etme şansı bulunmaktadır' bilgisinin tam tersi olması beklenir (yani 'iptal etme şansı yoktur' gibi bir ifade), ancak metin tam tersini söylüyor ve doğru kabul ediyor.",
             "is_duplicate": true,
             "duplicate_of": 8,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 25,
@@ -585,7 +586,8 @@
             "explanation": "Metinde, \"Gözümüzle fiziksel olarak gördüğümüz ve kişisel algı sürecimizden geçirerek anlamlandırdığımız herhangi öge, imge olarak adlandırılır.\" şeklinde açıkça belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 10,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 30,
@@ -606,7 +608,8 @@
             "explanation": "Metne göre, Antik Mısır uygarlığının görsel anlatı sürecine hizmet eden iki önemli unsurdan biri yazı, diğeri ise papirüstür. Papirüs, Çin kültür ve bilgisinin marifeti ile kâğıda dönüşecek olan, dönemin anlatısının temel mecrası olan iki boyutlu imgesel anlatı temsilinin ilk formudur.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 31,
@@ -668,7 +671,8 @@
             "explanation": "Verilen örnekler (gürültünün algılanmaması, açken yemeğin kokusunu daha iyi ayırt etme) seçici dikkat mekanizmasının işlevini göstermektedir. Seçici dikkat, algısal organizasyondan önce, gelen uyaranlar arasından kişinin o anki ihtiyacına veya ilgisine göre bazılarını seçip filtreleme, diğerlerini ise göz ardı etme sürecidir. Metinde, seçici dikkatin, kişinin o an odaklandığı konuya dair olmayan unsurları göz ardı etmesine yardımcı olduğu belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 34,
@@ -709,7 +713,8 @@
             "explanation": "Ön koşul ya da ön yargı anlamına gelen ve algılamanın anlamlandırma aşamasını etkileyen faktöre 'Algısal Setler' adı verilir. Metinde, algısal setlerin, kişinin ön yargılarının, yeni durum ve uyaranlar karşısında algısal organizasyonun başka türlü çalışmasına engel olarak yeni durumu eski bilgi ve deneyimlerle ilişkilendirmesine neden olduğu belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 16,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 36,
@@ -730,7 +735,8 @@
             "explanation": "Metinde, sinemanın dilinin temel olarak görüntüler olduğu belirtilir ve Metz'in yaklaşımına göre, film dilinin (kurgu, ses, müzik, ışık, kamera açıları, vb.) bir araya gelerek anlam ürettiği ifade edilir. Ancak bu sorunun bağlamı olan Ünite 4 özetinde, Vanoye'nin şeması detaylıca verilmemiştir. Genellikle film dilinde içeriğin biçimine dair unsurlar; kurgu, çekim türleri, ışık, ses ve renklerdir. Ünite 4'te sinemanın karmaşık dilinin (kurgu, ses, müzik, ışık, kamera açıları vb.) bir araya gelerek anlam oluşturduğu belirtilmiştir. Bu unsurların tamamı biçimle ilgilidir.",
             "is_duplicate": true,
             "duplicate_of": 20,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 37,
@@ -750,8 +756,9 @@
             "topic": "Kodlar ve Göstergeler",
             "explanation": "Mesajların iletilmesine olanak sağlayan göstergeler sistemine 'Kod' adı verilir. Fiske'nin tanımına göre kodlar, mesajların iletilmesine olanak sağlayan bir göstergeler sistemidir ve ortak kültürün bir ürünüdür. Metinde kodların sosyal, metinsel ve yorumlama kodları olarak ayrıldığı belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 88,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 19,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9850850701332092
         },
         {
             "id": 38,
@@ -772,7 +779,8 @@
             "explanation": "Bir şeyin yerini tutan, o şeyi üreten ya da niteleyen düşünceye 'Gösterge' (Pierce'in tanımına göre) denir. Metinde bu tanım doğrudan verilmiştir: \"Pierce'in tanımına göre gösterge 'bir şeyin yerini tutan, o şeyi üreten ya da niteleyen düşünce'dir.\"",
             "is_duplicate": true,
             "duplicate_of": 13,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 39,
@@ -832,7 +840,9 @@
             "topic": "Endüstri Devrimi ve Tasarımcı",
             "explanation": "Metne göre, 18. yüzyılda sanat ve zanaat ayrıştırıldıktan sonra yeni icracı sınıf olarak tasarımcı doğmuştur. Tasarımcı, elindeki teknoloji ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanır. Bu dönem, Sanayi Devrimi'nin başladığı 1760'lı yıllara işaret eder. Bu nedenle boşluğu \"tasarımcı\" kelimesi doğru şekilde tamamlar.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 27,
+            "similarity_score": 0.9992641806602478
         },
         {
             "id": 42,
@@ -852,7 +862,9 @@
             "topic": "Algıyı Etkileyen Faktörler",
             "explanation": "Algıyı etkileyen faktörler içsel (kişiye bağlı) ve dışsal (uyarana bağlı) olarak ikiye ayrılır. İçsel faktörler arasında öğrenme/tecrübe, ihtiyaçlar, yaş farklılıkları, ilgi, duygusal karmaşa ve/veya kuşku yer alır. Verilen şıklardan 'İhtiyaçlar' doğrudan kişiye bağlı bir faktördür.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 31,
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 43,
@@ -892,7 +904,9 @@
             "topic": "Yazının Tarihî Gelişimi",
             "explanation": "Metinde yazının tarihsel gelişimi anlatılırken, ilk yazının MÖ 3500'lerde Mezopotamya'da ve Sümerlerce kullanıldığına ilişkin kanıtların daha güçlü olduğu belirtilmiştir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 25,
+            "similarity_score": 1.0
         },
         {
             "id": 45,
@@ -1232,8 +1246,9 @@
             "topic": "Sözlü Kültür Tanımı",
             "explanation": "Soru, Walter J. Ong'a göre, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları döneme verilen adı sormaktadır. Ünite 1'de 'Birinci Sözlü Kültürde İletişim' başlığı altında bu tanım verilmiştir: 'Konuya ilişkin en yetkin kitaplardan birini yazan Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır.'",
             "is_duplicate": true,
-            "duplicate_of": 81,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 4,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.986661434173584
         },
         {
             "id": 62,
@@ -1294,7 +1309,8 @@
             "explanation": "Metinde, 'Ancak 18. yüzyıl gibi sanat ve zanaat kavramları arasında önemli bir bölünme yaşanır' denilerek, güzel sanatlar ile zanaatların ayrıldığı dönem belirtilmektedir (Ünite 2).",
             "is_duplicate": true,
             "duplicate_of": 5,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 65,
@@ -1335,7 +1351,8 @@
             "explanation": "Metinde 'Algı, kişinin duyu organları ile ulaştığı çevresel uyaranlara karşı anlamlandırma ve uyaranı kişisel bilgiye dönüştürerek organize etme süreci olarak ifade edilebilir' şeklinde açıkça tanımlanmaktadır (Ünite 3).",
             "is_duplicate": true,
             "duplicate_of": 11,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.987372636795044
         },
         {
             "id": 67,
@@ -1356,7 +1373,8 @@
             "explanation": "Gösterge, bir şeyi belirtmeye, işaret etmeye yarayan araçtır (TDK tanımı Ünite 4'te verilmiştir). Pierce'e göre gösterge, 'bir şeyin yerini tutan, o şeyi üreten ya da niteleyen düşünce'dir. Bu, fiziksel varlık olmayan soyut bir anlamdır.",
             "is_duplicate": true,
             "duplicate_of": 43,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 68,
@@ -1398,7 +1416,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 46,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9632496237754822
         },
         {
             "id": 70,
@@ -1439,7 +1458,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 52,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.994125247001648
         },
         {
             "id": 72,
@@ -1459,8 +1479,9 @@
             "topic": "Williams ve Akış Teorisi",
             "explanation": "Raymond Williams, televizyonun evreninin kodlarını çözmeye çalışmış ve “akış” teorisi ile televizyondaki tüm programların birbirleriyle uyumlu bir bütünün parçaları olduğunu ileri sürmüştür.",
             "is_duplicate": true,
-            "duplicate_of": 92,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 48,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9904153347015381
         },
         {
             "id": 73,
@@ -1481,7 +1502,8 @@
             "explanation": "Soru, Guy Debord'a göre görsel kültür iletişiminin en önemli katalizörünü sormaktadır. Ünite 6'da, Guy Debord ve Görsel İletişim başlığı altında, Debord'un medyanın görsel kültür iletişiminin en önemli katalizörü olduğunu vurguladığı belirtilmiştir: 'Debord, medyatik görsel/liğin, güç sahipleri tarafından organize edildiğini ve sistemin amaçları yörüngesinde iletileştirildiğini söylemektedir.'",
             "is_duplicate": true,
             "duplicate_of": 45,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9970118999481201
         },
         {
             "id": 74,
@@ -1522,7 +1544,8 @@
             "explanation": "Merriam Webster sözlüğüne göre estetik; “güzel ve arzulanabilir olanın aranması, görüntüdeki tatmin” olarak tanımlanır. Metinde ise, “doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanır.”",
             "is_duplicate": true,
             "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 76,
@@ -1564,7 +1587,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9580132961273193
         },
         {
             "id": 78,
@@ -1644,7 +1668,9 @@
             "topic": "Sözlü Kültür Tanımı",
             "explanation": "Walter J. Ong, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi \"Birinci Sözlü Kültür\" olarak tanımlamaktadır (Sayfa 2, Birinci Sözlü Kültürde İletişim).",
             "occurrence_count": 4,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 4,
+            "similarity_score": 0.986661434173584
         },
         {
             "id": 82,
@@ -1664,8 +1690,9 @@
             "topic": "Yazılı İletişim Özellikleri",
             "explanation": "Yazılı iletişim geniş bir zamanda gerçekleşir, belge niteliği taşır, resmîdir ve mesafelidir. Yanlış anlaşılma riski daha azdır. Ancak, yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın düzenleme, değiştirme veya iptal etme şansı varken, sözel iletişim anlıktır ve aktarılan mesaj geri alınamaz (Sayfa 3, Yazılı İletişimin Özellikleri, Madde 6).",
             "is_duplicate": true,
-            "duplicate_of": 8,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 24,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 83,
@@ -1685,8 +1712,9 @@
             "topic": "İmge Mecralarının Tarihsel Gelişimi",
             "explanation": "Antik Mısır uygarlığı, görsel anlatı sürecine hizmet eden iki önemli unsur olarak yazı ve kâğıdın ilk formu olan papirüsü icat etmiştir. Papirüs, iki boyutlu imgesel anlatı temsillerine geçişte temel mecrayı oluşturmuştur (Sayfa 2, Papirüs ile İki Boyutlu İmgesel Anlatı Temsillerine Geçiş).",
             "is_duplicate": true,
-            "duplicate_of": 9,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 30,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 84,
@@ -1706,8 +1734,9 @@
             "topic": "Endüstri Devrimi ve Tasarımcı",
             "explanation": "18. yüzyılda zanaatkar ve sanatçı ayrıştırıldıktan sonra, 'tasarımcı' sınıfı ortaya çıkmıştır. Tasarımcı, elindeki uygun teknoloji ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve bu çözümleri düzenleyen kişi olarak tanımlanır (Sayfa 3, Endüstri Devrimi ve Tasarımcının Doğuşu).",
             "is_duplicate": true,
-            "duplicate_of": 41,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 27,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9992641806602478
         },
         {
             "id": 85,
@@ -1728,7 +1757,8 @@
             "explanation": "Algıyı etkileyen faktörler hem dışsal (uyaranın doğası, renk, ebat vb.) hem de içsel (öğrenme/tecrübe, ihtiyaçlar, yaş, ilgi, duygusal karmaşa vb.) olabilir. Kişisel ön kabuller ve yargılar (Algısal Setler) ile çıkarımda bulunma eğilimi de alıcıya bağlı faktörlerdir. Klişe/Stereotip de algılayana bağlı bir faktördür (Sayfa 3, Algıyı Etkileyen Faktörler, Klişe/Stereotipi).",
             "is_duplicate": true,
             "duplicate_of": 42,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 86,
@@ -1790,7 +1820,8 @@
             "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9850850701332092
         },
         {
             "id": 89,
@@ -1812,7 +1843,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 49,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9938780069351196
         },
         {
             "id": 90,
@@ -1832,8 +1864,9 @@
             "topic": "Eleştirel Kuram Kurucuları",
             "explanation": "Soru, eleştirel kuramın (veya Frankfurt Okulu'nun) oluşturucusunu ve en önemli temsilcisini sormaktadır. Ünite 5'te Eleştirel teori, Marx'ın üretim ilişkileri teorisinden yola çıktığı belirtilmekte ve Karl Marx'a eleştirel kuramın teorik temeli olduğu vurgulanmaktadır. Marx'ın görüşleri, Frankfurt Okulu teorisyenlerinin (Adorno, Horkheimer, Marcuse) temelini oluşturur. Şıklar arasında Marx işaretlenmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 52,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 71,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.994125247001648
         },
         {
             "id": 91,
@@ -1875,7 +1908,8 @@
             "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 48,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9904153347015381
         },
         {
             "id": 93,
@@ -1916,7 +1950,8 @@
             "explanation": "Soru, Guy Debord'a göre görsel kültür iletişiminin en önemli katalizörünü sormaktadır. Ünite 6'da, Guy Debord ve Görsel İletişim başlığı altında, Debord'un medyatik görsel/liğin, güç sahipleri tarafından organize edildiğini ve sistemin amaçları yörüngesinde iletileştirildiğini söylemektedir. Ardından, 'Şöhretler, gösteri toplumun en önemli yapı taşlarının başında gelmekte, varlıklarıyla görsel kültürü beslemektedir,' denilir. Ancak bir sonraki paragrafta, 'Debord, medyayı görsel kültür iletişiminin en önemli katalizörü olduğunu vurgulamıştır' ifadesi yer almaktadır.",
             "is_duplicate": true,
             "duplicate_of": 45,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9970118999481201
         },
         {
             "id": 95,
@@ -1936,8 +1971,9 @@
             "topic": "Sanat Felsefesi Tanımı",
             "explanation": "Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan; sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresiyle etkileşimlerini inceleyen alandır. Bu, estetik kavramından daha geniş bir çerçeveyi kapsar.",
             "is_duplicate": true,
-            "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 77,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9580132961273193
         },
         {
             "id": 96,
@@ -1977,8 +2013,9 @@
             "topic": "Estetik Kavramı",
             "explanation": "Estetik kavramı, Antik Yunan'dan (aisthētikós) gelmekte olup; doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması ve yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanır.",
             "is_duplicate": true,
-            "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 75,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 98,
@@ -2020,7 +2057,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 58,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.986478328704834
         },
         {
             "id": 100,
@@ -2042,7 +2080,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 60,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9917699694633484
         },
         {
             "id": 101,
@@ -2063,7 +2102,8 @@
             "explanation": "Soru, sınırlı sayıdaki sesbirimlerin bir araya gelmesiyle ve birbirleriyle olan ilişkileri yoluyla oluşan ve çoğalan sözel iletişim unsurlarına ne ad verildiğini sormaktadır. Ünite 1'de 'Sesin Söze Dönüşümü' başlığı altında, 'Seslerden sözcükler üretmeleri'nden bahsedilir ve sözlü kültürün temelinin 'ses' olduğu belirtilir. Sözlü kültürün temelinin ses olduğu ve konuşmanın dile dayandığı söylenir. Söz, dilin temel birimi olarak ele alınır ve 'Sesin Söze Dönüşümü'nde 'sözcükler üretmeleri' ifadesiyle dil birimi olan söz kastedilmektedir.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 102,
@@ -2083,8 +2123,9 @@
             "topic": "Sözlü Kültür Tanımı",
             "explanation": "Soru, Walter J. Ong'a göre, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları döneme verilen adı sormaktadır. Ünite 1'de 'Birinci Sözlü Kültürde İletişim' başlığı altında bu tanım verilmiştir: 'Konuya ilişkin en yetkin kitaplardan birini yazan Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır.'",
             "is_duplicate": true,
-            "duplicate_of": 81,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 4,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.986661434173584
         },
         {
             "id": 103,
@@ -2105,7 +2146,8 @@
             "explanation": "2. Ünite'de imge mecraları mağara duvarları, tuvaller ve dijital ekranlar olarak sıralanmıştır. Televizyon ve fotoğraf makinesi de önemli mecralar olarak geçmektedir. Ancak, 'Sözlü Kültür' (Ünite 1'de anlatılan) bir mecra değil, bir iletişim biçimidir ve metinde modern görsel iletişim araçları bağlamında sayılanlardan biri değildir. Soru, görsel iletişimin gelişimi bağlamında sorulduğu için, sözlü iletişim bir teknolojik/mekansal mecra değildir.",
             "is_duplicate": true,
             "duplicate_of": 6,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 104,
@@ -2126,8 +2168,9 @@
             "explanation": "3. Ünite'ye göre, gözümüzle fiziksel olarak gördüğümüz ve kişisel algı sürecimizden geçirerek anlamlandırdığımız herhangi öge, 'imge' olarak adlandırılır. Bu tanım, metinde de doğrudan verilmiştir.",
             "is_duplicate": true,
             "occurrence_count": 1,
-            "duplicate_of": 10,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 29,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9949766397476196
         },
         {
             "id": 105,
@@ -2148,7 +2191,8 @@
             "explanation": "3. Ünite'nin 'Algı Nedir ve Neden Önemlidir?' başlığı altında, algı kavramı tam olarak: 'Kişinin duyu organları ile ulaştığı çevresel uyaranlara karşı anlamlandırma ve uyaranı kişisel bilgiye dönüştürerek organize etme süreci' olarak ifade edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 11,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.987372636795044
         },
         {
             "id": 106,
@@ -2169,7 +2213,8 @@
             "explanation": "3. Ünite'nin 'Algısal Setler' altında incelenen 'Nitelendirme' başlığına göre, bu, anlamlandırma sürecinde uyaranın durumundan bağımsız üretilen bahaneler olarak değerlendirilir. Kişi, deneyimlediği olayı kendi tecrübesine göre (örneğin, dikkatsizlik yerine kaygan zemine) bahane bularak anlamlandırır.",
             "is_duplicate": true,
             "duplicate_of": 32,
-            "original_source": "Ara Sınav 2024-2025"
+            "original_source": "Ara Sınav 2024-2025",
+            "similarity_score": 1.0
         },
         {
             "id": 107,
@@ -2190,7 +2235,8 @@
             "explanation": "Soru, göstergebilim isminin ilk kez kim tarafından kullanıldığını sormaktadır. Ünite 4, Göstergebilimin Tarihçesi başlığı altında şu bilgi verilmektedir: 'Göstergebilim ismi ilk kez İngiliz düşünür Locke tarafından “An Essay Concerning Human Understanding\" isimli yazısında dile getirilmiştir. Bu yazıda Locke, semeiotike terimini yani semiyotik ya da tam Türkçe ismiyle göstergebilimi ilk kez kullanmıştır.'",
             "is_duplicate": true,
             "duplicate_of": 40,
-            "original_source": "Ara Sınav 2024-2025"
+            "original_source": "Ara Sınav 2024-2025",
+            "similarity_score": 1.0
         },
         {
             "id": 108,
@@ -2231,7 +2277,8 @@
             "explanation": "5. Ünite'de Karl Marx'ın görüşleri aktarılırken, 'Maddi hayatın üretim tarzı, genel olarak toplumsal, siyasal ve entelektüel hayat sürecini koşullandırır... toplumsal varlıklarıdır' denilmektedir. Bu, ekonomik yapının (üretim ilişkilerinin) üstyapıyı (hukuk, siyaset, düşünce) belirlediği ve görsel kültür araçlarının da bu bağlamda ideolojik olarak biçimlendiği anlamına gelir. Bu, Marx'ın temel diyalektik materyalizm anlayışıdır.",
             "is_duplicate": true,
             "duplicate_of": 91,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 110,
@@ -2292,7 +2339,8 @@
             "explanation": "Guy Debord, 'Gösteri Toplumu'nda medyanın görsel kültür iletişiminin en önemli katalizörü olduğunu vurgulamıştır. Medya, görselleştirilen her şeyi organize edip ileterek gösteri toplumunun devamını sağlamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 45,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9970118999481201
         },
         {
             "id": 113,
@@ -2313,7 +2361,8 @@
             "explanation": "Soru, Bourdieu'ya göre sosyal sermayenin neye dayandığını sormaktadır. Ünite 6'da Sosyal Sermaye başlığı altında şu bilgi yer almaktadır: 'Sosyal sermaye kapitalist toplumlarda son derece belirleyici bir bağlamdır. İnsanlar sosyal sermayeleri üzerinden tanımlanırlar, algılanırlar ve kabul görürler (Bourdieu, 1997; Bourdieu, 2010).' Sosyal sermaye, ilişkileri, eşdeyişle 'kaliteleri' anlatan bir sermayedir. Bu sermaye, insanların toplumsal yaşamdaki statüleri, ilişkileri üzerinden kabul görmesine dayanır, ki bu da algılanma/kabul görme sürecini içerir. Şıklar arasında algı işaretlenmiştir.",
             "is_duplicate": true,
             "duplicate_of": 93,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 114,
@@ -2373,8 +2422,9 @@
             "topic": "Sanat Felsefesi Tanımı",
             "explanation": "Soru, insanlığın meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alanı sormaktadır. Ünite 7'de, 'Estetikten Bahsederken Sanat Felsefesini mi Anlamak Gerekir?' başlığı altında Sanat Felsefesi şöyle tanımlanmıştır: 'Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan olarak tanımlanabilir.'",
             "is_duplicate": true,
-            "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 77,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9580132961273193
         },
         {
             "id": 117,

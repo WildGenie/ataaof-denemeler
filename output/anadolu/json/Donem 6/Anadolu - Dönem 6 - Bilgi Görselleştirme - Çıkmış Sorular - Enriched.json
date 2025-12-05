@@ -1213,7 +1213,8 @@
             "material_id": "622603",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 62,
@@ -1234,7 +1235,8 @@
             "explanation": "Ünite 2'de belirtildiği üzere, İngilizce 'infographic' terimi, 'information' (bilgi) kelimesinin kısaltması olan 'info' ve 'graphic' (grafik) kelimelerinin birleşiminden türetilmiştir. 'Bilgigrafi' ise bu terimin Türkçeleştirilmiş halidir. İlk bilgigrafi örnekleri, mağara resimleri gibi görsel semboller ve ifadeler kullanılarak o güne ışık tutan temsillerdir ve MÖ 6600'lere tarihlenen Çatalhöyük'teki duvar resimleri dahi ilk harita örneği olarak kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 8,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 63,
@@ -1255,7 +1257,8 @@
             "explanation": "Ünite 3'ün 'İstatiksel Bilgigrafiler' başlığı altında, istatistiksel bilgigrafilerin popüler kullanım biçimleri olarak 'Yuvarlak diyagramlar, sütun grafikleri ve histogramlar' zikredilmiştir. Bu üçü bir arada doğru olarak verilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 64,
@@ -1276,7 +1279,8 @@
             "explanation": "Ünite 5'in 'Diyagram ve Şemalar ile Görselleştirme' başlığına göre, figüratif olmayan veya soyut olarak adlandırılabilecek görsel tasarım araçları, kavramları ya da duyguları daha başarılı ifade eden görsel unsurlardır. Bu araçlar, semiyolojik olarak her duygu, düşünce ya da eylemin başarılı bir görsel temsilcisi bulunamayacağı için sıklıkla kullanılır ve anlamsal ilişkileri görselleştirmek için idealdir.",
             "is_duplicate": true,
             "duplicate_of": 45,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 65,
@@ -1297,7 +1301,8 @@
             "explanation": "Ünite 2'de, Antik Dönem ilk görselleştirme denemeleri incelenirken, mağara resimlerinin, Antik Mısır hiyerogliflerinin ve papirüslerinin; tarihi olayları belgelemek, günlük yaşamı aktarmak, coğrafi konumları göstermek ve dini ritüelleri daha tanımlı hâle getirmek gibi amaçlarla kullanıldığı belirtilmiştir. Bu anlatımların temelini, yazının icadından önceki dönemlerdeki sözlü bilginin görselleştirilmesi oluşturur.",
             "is_duplicate": true,
             "duplicate_of": 46,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 66,
@@ -1577,7 +1582,9 @@
             "topic": "Yinelemeli Tasarım Süreci",
             "explanation": "Ünite 8'de, 'Bilgi Deneyimleme Biçimimizdeki Dönüşümler' başlığında, güncel tasarım yaklaşımlarının deneyim yaratmaya odaklandığı belirtilmiştir. Bu bağlamda, test verileriyle sürekli iyileştirme süreci genellikle **Yinelemeli Tasarım Yaklaşımı** (Iterative Design) olarak adlandırılır, ancak metinde bu terim doğrudan bu şekilde tanımlanmamıştır. Seçenekler arasında en uygun kavram **Kullanıcı Odaklı Tasarım**dır, çünkü yeni açılımlarda kullanıcı deneyimi (etkileşim, zaman, geri bildirim) ön plana çıkar.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 56,
+            "similarity_score": 0.9910913109779358
         },
         {
             "id": 80,
@@ -1618,7 +1625,8 @@
             "explanation": "Ünite 2'nin Giriş bölümünde, günümüzde bilgigrafilerin vazgeçilmez birer parça hâline gelmesini sağlayan temel etkenin, 'dijital pazarlamanın da etkisiyle patlama noktasına gelen' bilginin kolaylaşan erişilebilirliği olduğu belirtilmektedir. Sanayi Devrimi sonrası dönemlerde (Ünite 2'de 19. Yüzyıl başlığı altında) teknolojik gelişmeler (demir yolu ağları vb.) ve kolonileşme/emperyalizm faaliyetleri ile bilgi çoğalmış ve görselleştirme araçları bu dönemde de büyümüştür. Ancak metinde bilgideki asıl patlamanın ve kolaylaşan erişimin en son dönemlere işaret ettiği, Sanayi Devrimi'nin ise bu süreci başlatan önemli bir kırılma noktası olduğu ima edilmektedir. Verilen şıklar arasında Sanayi Devrimi dönemi, bilginin hızla çoğalması ve erişilebilirliğinin temellerinin atıldığı önemli bir dönüm noktasıdır.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 82,
@@ -1660,7 +1668,8 @@
             "explanation": "Ünite 2'de Antik Dönem İlk Görselleştirme Denemeleri başlığı altında, mağara resimlerinin tarih öncesi dönemlerde av sahnelerini, günlük yaşamı ritüelleri ve çeşitli doğa olaylarını göstermek amacıyla kullanıldığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 7,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 84,
@@ -1681,7 +1690,8 @@
             "explanation": "Ünite 5'te Süreç ya da Akışların Görselleştirilmesi başlığı altında, süreç bilgigrafilerinin proje, görev veya stratejinin tamamlanması için gereken adımları görselleştirmek, özetlemek ve basitleştirmek amacıyla kullanıldığı ifade edilmektedir. Bu, Sanayi Devrimi sonrası artan karmaşıklıkla ilişkili olabilir.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 85,
@@ -1702,7 +1712,8 @@
             "explanation": "Ünite 3'e göre, 'Anatomi Bilgigrafileri, belirli bir konu hakkındaki bilgileri parçalayarak, bir araç veya hizmetin nasıl çalıştığını görsel olarak ileten grafiklerdir.' Bu tanım sorudaki ifadeyle örtüşmektedir.",
             "is_duplicate": true,
             "duplicate_of": 12,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 86,
@@ -1722,8 +1733,9 @@
             "topic": "İstatistiksel Bilgigrafi Örnekleri",
             "explanation": "Ünite 3'te İstatiksel Bilgigrafiler başlığı altında, yuvarlak diyagramlar, sütun grafikleri ve histogramlar gibi belirgin biçimlerin istatistiksel bilgigrafilerin popüler kullanımlarından olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 15,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 63,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 87,
@@ -1743,7 +1755,9 @@
             "topic": "Bilgi Hiyerarşisi Modelleri",
             "explanation": "Ünite 4'te Bilgi Hiyerarşisi başlığı altında, Ackoff'un DIKW piramidi (Data, Information, Knowledge, Wisdom) sıralaması ele alınmıştır. Veri ve Bilgi arasındaki ilişki tartışılmış, ancak bu hiyerarşinin katları arasındaki sınırların kesin olmadığı belirtilmiştir. 'Sayısal veri' terimi, hiyerarşideki 'Veri' katmanını niteler ancak hiyerarşinin kendisinin bir parçası olarak geçmez ve 'Yüzdeler ve Riskler' bölümü bu hiyerarşinin kendisi değildir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 19,
+            "similarity_score": 0.9528323411941528
         },
         {
             "id": 88,
@@ -1763,8 +1777,9 @@
             "topic": "Diyagram ve Şemalar",
             "explanation": "Ünite 5'te Diyagram ve Şemalar ile Görselleştirme başlığı altında, bu tür grafiklerin bir işletmenin ya da bir sistemin içindeki ilişkileri ve bağıntıları açıklamak için kullanıldığı belirtilmiştir. Bu, anlamsal ya da diğer ilişkileri görselleştirmede etkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 45,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 64,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 89,
@@ -1784,8 +1799,9 @@
             "topic": "Sözlü Bilginin Görselleştirilmesi",
             "explanation": "Ünite 6'da 'Yazı Tipi Seçimi' başlığının altındaki metinde, 'Grafik tasarımcı, uygun bir yazı karakterini seçmek için denemeler yapmalı ve tasarımın amacına ve mesajına uygun bir seçim yapana kadar araştırmaya ve çalışmaya devam etmelidir. Bu şekilde, yazı karakteri seçimi tasarımın etkisini artırabilir ve izleyiciyle daha iyi iletişim kurulmasını sağlayabilir.' ifadesi yer almaktadır. Bu, sözlü iletişimin değil, görsel/yazılı iletişimin güçlendirilmesiyle ilgilidir. Ancak, Ünite 6'daki 'İletişim' tanımı, 'duygu, düşünce, davranış ve bilgi alışverişi' olduğunu belirtir. Sorunun tanımı, sözlü iletişimin temelini soruyor olsa da, Ünite 6 özetinde sözlü iletişimin temelini oluşturan bir kavram (örneğin 'dil') yerine, görselleştirmenin temel unsurları (tipografi, renk vb.) ele alınmıştır. Verilen metinlere göre, sözlü iletişimin temeli yerine, görselleştirme unsurlarının ilişkisine dair bir cevap aranmaktadır. Soru 8'in bağlamı Ünite 6'dadır. Bu ünitede, geleneksel iletişimden görsel iletişime geçişteki zorluklar ve görsel unsurların önemi vurgulanır. Geleneksel iletişimde sözlü iletişimin temelini oluşturan kavram 'dil'dir, ancak verilen seçenekler arasında bu doğrudan yok. Soru 8, Ünite 6'nın 'Bilgi Görselleştirmede Temel Unsurlar' kısmına odaklanmalıdır. Burada 'Tipografi Kullanımı' başlığı altında, yazılı metinlerin iletilmesi ve tasarım dilinin güçlendirilmesi vurgulanır. Soru 8, görselleştirme bağlamından uzak bir soru olduğundan, bu üniteye ait en yakın kavramı veya genel bir bilgiye atıf yapmalıdır. En uygun olan, görselleştirmenin temelini oluşturan metin ve yazı ile ilgili unsurların önemi olabilir. Ancak, soru doğrudan sözlü iletişimin temelini soruyor. Ünite 6'da doğrudan bu sorunun cevabına dair net bir ifade yok. Ünite 1'de ise bilgi, 'her geçen gün artmakta, kendini katlamaktadır' denilir. Ünite 4'te ise Wurman'ın mimari terimi, 'enformasyon ve kütüphane biliminden devşirilen düşünce' olarak tanımlanır. Ünite 6, görsel iletişimin temel unsurlarını içerir. Soru 8, 'sözlü iletişimin temelini oluşturan yöntem'i soruyor. Bu bilgi metinde açıkça belirtilmemiştir, bu yüzden genel olarak görselleştirme bağlamında ele alınacak en temel unsur olan 'Metin' ya da 'Tipografi' seçeneği mantıklı olabilir. Ancak seçeneklerde olmayan bir şey soruluyor. Soru 8'in bağlamını en iyi karşılayan kısım Ünite 6'daki 'Bilgi Görselleştirmede Metin ve Görsel Temsilci Oluşturma' başlığıdır. Bu başlıkta, içeriğin kurgusunun anlaşılırlık için önemli olduğu belirtilirken, görselleştirme bağlamı dışındaki 'sözlü iletişim' sorusu için net bir cevap sunulmamaktadır. Ünite 1'de 'Bilgiye erişme ve onu kullanma yeteneği' vurgulanır. Ünite 1, genel iletişimden bahseder. Bu soru, materyalde net bir cevabı olmayan ve bağlamı zorlayan bir sorudur. Ünite 1'in girişinde iletişim, 'duygu, düşünce, davranış ve bilgi alışverişi' olarak tanımlanır. Sözlü iletişimin temel yöntemi dildir. Metinlerdeki 'Tipografi' ve 'Metin' konuları yazılı iletişime odaklanır. Soru 8, ünite içeriğinden sapmaktadır. En yakın tanım, bilgiyi aktarmada en temel dil biçimi olan metin olabilir.",
             "is_duplicate": true,
-            "duplicate_of": 46,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 65,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 90,
@@ -1806,7 +1822,8 @@
             "explanation": "Ünite 5'te Geleneksel Bilgi Sunumundaki Sorunlar başlığı altında, tabloların dezavantajlarından birinin, 'tablo formatında gösterilen verinin önemini yansıtacak ilave bir görselleştirmenin tablo alanında yapılamıyor olması' olduğu belirtilmiştir. Tabloların avantajları arasında organizasyon, karşılaştırma ve analiz kullanımı yer alır.",
             "is_duplicate": true,
             "duplicate_of": 43,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 91,
@@ -1827,7 +1844,8 @@
             "explanation": "Ünite 6'da Figür-zemin İlkesi başlığı altında, bu ilkenin 'nesnelerin bir arka plana karşı nasıl algılandığına odaklanan ilkesi' olduğu ve 'Figür, odaklanılan nesneyi temsil eder, zemin ise figürün önünde bulunan arka planı ifade eder' şeklinde tanımlandığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 51,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 92,
@@ -1866,8 +1884,10 @@
             "UniteNo": 5,
             "topic": "Renk Kullanımı",
             "explanation": "Ünite 5'te renk kullanımının bileşenleri Vurgu (A), Kategorizasyon (C), Zaman ve değişim betimlenmesi (D) ve Uyum ve zıtlık (E) olarak sıralanmıştır. Estetik (B şıkkı) renklerin genel bir niteliği olsa da, bu listede kullanılan spesifik bir unsur olarak yer almamaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 69,
+            "similarity_score": 0.9916455149650574
         },
         {
             "id": 94,
@@ -1907,7 +1927,9 @@
             "topic": "Veri Gazeteciliğinde Değişim",
             "explanation": "Ünite 7'de Değişen Gazetecilik başlığı altında, en önemli değişimin, veri görselleştirmenin, haber metninin önüne geçerek anlatının temel unsuru hâline gelmesi olduğu belirtilmiştir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 71,
+            "similarity_score": 0.9828993678092957
         },
         {
             "id": 96,
@@ -1928,7 +1950,8 @@
             "explanation": "Ünite 7'de Nicel Veri ve Görselleştirilmesi başlığı altında, hesap tablolarının yaygın kullanımından bahsedilmiş, ayrıca sütun grafikler, çizgi grafikler ve pasta grafiklerin veri gazeteciliğinde sayısal verinin görselleştirilmesinde önemli araçlar olduğu belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 97,
@@ -1988,7 +2011,9 @@
             "topic": "Artırılmış Gerçeklik Teknolojileri",
             "explanation": "Ünite 8'de Arttırılmış ve Karma Gerçeklik Teknolojileri başlığı altında, bu teknolojilerin temel prensibinin, 'gerçek zamanlı görüntünün teknoloji yardımıyla zenginleştirilmesi' olduğu ve karma/arttırılmış gerçeklik teknolojileriyle 'veri hem bilgi aktarma işlevi görürken aynı zamanda içinde dolaşılan bir yere dönüşür' şeklinde ifade edildiği belirtilmiştir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 58,
+            "similarity_score": 0.973000168800354
         },
         {
             "id": 100,
@@ -2009,7 +2034,8 @@
             "explanation": "Ünite 8'de Bilgi Görselleştirmede Çağdaş Bir Yaklaşım başlığı altında, Csikszentmihalyi'nin temel özellikleri sıralanmıştır: Dengeli Bir Mücadele, Konsantrasyon, Öz Bilincin Terk Edilmesi, Zaman Kavramının Yitimi ve Geri Bildirimin Sağlanması. 'Veri görselleştirmede nesnellik' (doğruluk ve dürüstlük) Ünite 5'te geçen bir ilkedir, akış özelliklerinden biri değildir.",
             "is_duplicate": true,
             "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 101,
@@ -2029,8 +2055,9 @@
             "topic": "Bilgigrafi Tarihçesi",
             "explanation": "Ünite 2'nin Giriş bölümünde, günümüzde bilgigrafilerin vazgeçilmez birer parça hâline gelmesini sağlayan temel etkenin, 'dijital pazarlamanın da etkisiyle patlama noktasına gelen' bilginin kolaylaşan erişilebilirliği olduğu belirtilmektedir. Sanayi Devrimi sonrası dönemlerde (Ünite 2'de 19. Yüzyıl başlığı altında) teknolojik gelişmeler (demir yolu ağları vb.) ve kolonileşme/emperyalizm faaliyetleri ile bilgi çoğalmış ve görselleştirme araçları bu dönemde de büyümüştür. Ancak metinde bilgideki asıl patlamanın ve kolaylaşan erişimin en son dönemlere işaret ettiği, Sanayi Devrimi'nin ise bu süreci başlatan önemli bir kırılma noktası olduğu ima edilmektedir. Verilen şıklar arasında Sanayi Devrimi dönemi, bilginin hızla çoğalması ve erişilebilirliğinin temellerinin atıldığı önemli bir dönüm noktasıdır.",
             "is_duplicate": true,
-            "duplicate_of": 1,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 81,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 102,
@@ -2050,8 +2077,9 @@
             "topic": "Veri ve Bilgi Farkı",
             "explanation": "Ünite 1'de, veri ham madde iken, bilginin işlenmiş, düzenlenmiş, yorumlanmış ve analiz edilmiş veri olduğu belirtilmiştir. Temel fark, verinin ham ve analiz edilmemiş malzeme olması, bilginin ise anlam ve bağlam sağlayan işlenmiş ve analiz edilmiş veri olmasıdır.",
             "is_duplicate": true,
-            "duplicate_of": 3,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 82,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 103,
@@ -2071,8 +2099,9 @@
             "topic": "Tarih Öncesi Görselleştirme",
             "explanation": "Ünite 2'de, mağara resimlerinin bilgigrafilerin ilk ataları sayıldığı ve Chauvet Mağarası'ndaki resimlerin, tarih öncesi dönemlerdeki av sahnelerini ve günlük yaşamı gösterdiği belirtilmiştir. Antik Mısır hiyeroglifleri gibi, bu resimlerin de tarihi olayları belgelemek ve günlük yaşamı aktarmak gibi amaçlarla kullanıldığı düşünülmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 7,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 83,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 104,
@@ -2092,8 +2121,9 @@
             "topic": "Süreç Görselleştirme",
             "explanation": "Ünite 3'te, süreç bilgigrafilerinin bir proje, görev veya stratejinin tamamlanması için gereken adımları görselleştirmek için kullanıldığı ifade edilmiştir. Bu grafikler, süreci özetlemek ve basitleştirmek amacıyla tasarlanır.",
             "is_duplicate": true,
-            "duplicate_of": 9,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 84,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 105,
@@ -2113,8 +2143,9 @@
             "topic": "Anatomi Bilgigrafi Türü",
             "explanation": "Ünite 3'e göre, Anatomik bilgigrafiler, belirli bir konu hakkındaki bilgileri parçalayarak bir araç veya hizmetin nasıl çalıştığını görsel olarak ileten grafiklerdir. Bu tür, bir nesnenin farklı kısımlarını vurgulamak veya bir şeyin nasıl çalıştığını açıklamak için kullanılabilir.",
             "is_duplicate": true,
-            "duplicate_of": 12,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 85,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 106,
@@ -2134,8 +2165,9 @@
             "topic": "İstatistiksel Bilgigrafi Biçimleri",
             "explanation": "Ünite 3'te İstatistiksel Bilgigrafiler bölümünde, yuvarlak diyagramlar (muhtemelen pasta grafiği), sütun grafikleri ve histogramların istatistiksel bilgigrafilerin popüler kullanımlarından olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 15,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 86,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 107,
@@ -2155,8 +2187,9 @@
             "topic": "Bilgi Hiyerarşisi Unsurları",
             "explanation": "Ünite 4'te DIKW piramidi (Data, Information, Knowledge, Wisdom) anlatılırken, Ackoff'un (1989) bu hiyerarşiyi literatüre eklediği belirtilmiştir. Veri, bilgi, bilgelik (wisdom) ve veri/bilgi/bilgelik/bilgi-ötesi (wisdom) sıralaması dikkate alındığında, piramitte yer almayan unsur, verilen seçeneklerdeki gibi 'bilgelik' (wisdom) kelimesi ile ilgili olmayan bir kavram olmalıdır. Soruda 'bilgiye hiyerarşik yaklaşımda yer almaz' denildiği için, bu hiyerarşinin bileşenleri olan Veri, Bilgi, Bilgelik (Wisdom) dışındaki bir kavram aranmalıdır. Veri gazeteciliğinde ise veri, bilgi, bilgelik (wisdom) ve bilgi-ötesi (knowledge-wisdom) sıralaması değil, temel hiyerarşi veri, bilgi, bilgelik (wisdom) şeklindedir. Ancak verilen seçenekler olmadan kesin cevap vermek zor olsa da, genellikle DIKW piramidinde yer alanlar: Data (Veri), Information (Bilgi), Knowledge (Bilgi Birikimi/Kazanılmış Bilgi) ve Wisdom (Bilgelik)'tir. Soru 6'nın tam metnini referans alarak bakıldığında, Ünite 4'te 'Veri, Bilgi, Bilgelik' (Wisdom) sıralaması geçmektedir. Şıkları bilmediğimiz için en mantıklı çıkarım, hiyerarşinin temel bileşenleri (Veri, Bilgi, Bilgelik/Knowledge/Wisdom) dışındaki bir kavramı aramak olacaktır. Ünite 4'te DIKW piramidi anlatılırken, Rowley (2007) ve Shedroff'tan bahsedilir. Veri, bilgi, bilgelik (wisdom) temel seviyelerdir. Eğer seçeneklerde 'Tecrübe' gibi ek bir seviye varsa o olmaz. Ancak burada 'bilgelik' kelimesinin kendisiyle ilgili bir şey aranmalıdır. Seçenekler olmadan en genel çıkarım: DIKW piramidindeki bileşenler D, I, K, W'dir. Eğer seçeneklerde bu dörtlüden biri yoksa, o cevaptır. Eğer seçenekler tipik olarak 'Tecrübe' gibi bir şey içeriyorsa, o olmaz, çünkü DIKW'de Knowledge ve Wisdom farklı seviyelerdir.",
             "is_duplicate": true,
-            "duplicate_of": 87,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 19,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9528323411941528
         },
         {
             "id": 108,
@@ -2176,8 +2209,9 @@
             "topic": "İlişki Diyagramları",
             "explanation": "Ünite 3'te, İlişki diyagramları (veya ısı haritaları) ilişkileri ve akışları göstermek için kullanıldığı belirtilmiştir. Bu grafikler, bir sistemin veya kavramların bileşenleri arasındaki bağlantıları görselleştirmede etkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 45,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 88,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 109,
@@ -2197,8 +2231,9 @@
             "topic": "Sözlü Bilginin Temsili",
             "explanation": "Ünite 6'da, metin ve rakamların anlaşılır görsel kompozisyonlarla ifade edilmesinin günümüzdeki karşılığıyken, eski zamanlarda 'yeterli okunurluğa sahip harf ve/ya da şekil kombinasyonlarıyla havada uçmak üzere olan sesin görselleştirilmesiydi' denilmiştir. Bu da, geleneksel gösterimde sözlü bilginin görselleştirilmeye çalışıldığını gösterir.",
             "is_duplicate": true,
-            "duplicate_of": 46,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 89,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 110,
@@ -2218,8 +2253,9 @@
             "topic": "Tabloların Dezavantajları",
             "explanation": "Ünite 5'te, tabloların dezavantajları arasında en başta gelenin, tablo formatında gösterilen verinin önemini yansıtacak ilave bir görselleştirmenin tablo alanında yapılamıyor olması olduğu belirtilmiştir. Bu, tabloların görsel zenginlik ve vurgu açısından yetersiz kaldığını gösterir.",
             "is_duplicate": true,
-            "duplicate_of": 43,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 90,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 111,
@@ -2239,8 +2275,9 @@
             "topic": "Gestalt Figür-Zemin İlkesi",
             "explanation": "Ünite 6'da Figür-zemin ilkesi, nesnelerin bir arka plana göre nasıl algılandığına odaklanır. Bu ilkeye göre, bir nesnenin (figür) arka plandan (zemin) ayrılabilir ve net bir şekilde tanımlanabilir olması sağlanır, bu da algıyı etkiler.",
             "is_duplicate": true,
-            "duplicate_of": 51,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 91,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 112,
@@ -2261,7 +2298,8 @@
             "explanation": "Ünite 1'de, Bilgi Görselleştirme'nin, hedeflediği kitleye dönük çalışan ve insanlık için fayda sağlamayı amaçlayan bir tasarım disiplini olduğu belirtilmiştir. Temel amacı, içeriğin ilgili kitlesi tarafından anlaşılmasını sağlamaktır.",
             "is_duplicate": true,
             "duplicate_of": 92,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 113,
@@ -2281,8 +2319,9 @@
             "topic": "Renk Kullanımı",
             "explanation": "Ünite 5'te renk kullanımının bileşenleri Vurgu (A), Kategorizasyon (C), Zaman ve değişim betimlenmesi (D) ve Uyum ve zıtlık (E) olarak sıralanmıştır. Estetik (B şıkkı) renklerin genel bir niteliği olsa da, bu listede kullanılan spesifik bir unsur olarak yer almamaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 69,
-            "original_source": "Dönem Sonu 2024-2025"
+            "duplicate_of": 93,
+            "original_source": "Dönem Sonu 2024-2025",
+            "similarity_score": 0.9916455149650574
         },
         {
             "id": 114,
@@ -2301,8 +2340,10 @@
             "UniteNo": 7,
             "topic": "Görsel Bilginin Avantajı",
             "explanation": "Ünite 7'de, görselleştirmenin bilişsel bir öneme sahip olduğu ve iyi tasarlanmış bir veri görselleştirmenin izleyiciye çabuk ve derin bir kavrayış olanağı sağladığı belirtilmiştir. Görsel bilgiler, fotoğraf ve videoya göre daha az duygulanım içerirken, gerçek olguları ifade ederek tarafgirlikten uzak bir anlatı sunar.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 94,
+            "similarity_score": 0.9992141127586365
         },
         {
             "id": 115,
@@ -2322,8 +2363,9 @@
             "topic": "Veri Gazeteciliğinde Değişim",
             "explanation": "Ünite 7'de, veri görselleştirmesinin en önemli değişiminin, haber metninin önüne geçerek anlatının temel unsuru hâline gelmesi olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 95,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 71,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9828993678092957
         },
         {
             "id": 116,
@@ -2343,8 +2385,9 @@
             "topic": "Nicel Veri Görselleştirme Araçları",
             "explanation": "Ünite 7'de, veri gazeteciliğinde sayısal verinin görselleştirilmesinde en sık kullanılan ve okuyucunun kolay anlayacağı biçimler olarak sütun grafikler, çizgi grafikler ve pasta grafikler belirtilmiştir. Hesap tabloları da önemli bir araçtır.",
             "is_duplicate": true,
-            "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 96,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 117,
@@ -2386,7 +2429,8 @@
             "explanation": "Ünite 7 Giriş bölümünde, veri gazeteciliğinin gün geçtikçe yaygınlaşan 'büyük veri' uygulamalarının bir sonucu olarak önem kazandığı belirtilmiştir. Ayrıca dijitalleşme sonucu organizasyonlar tarafından üretilen çok büyük miktarda sayısal verinin şeffaf açık veri kaynakları hâlinde erişilebilir olması da önemli bir etkendir.",
             "is_duplicate": true,
             "duplicate_of": 98,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 119,
@@ -2406,8 +2450,9 @@
             "topic": "Yeni Açılımlar Teknolojileri",
             "explanation": "Ünite 8'de, 'Arttırılmış ve Karma Gerçeklik Teknolojileri' başlığı altında, karma gerçeklik (MR) ve arttırılmış gerçeklik (AR) teknolojilerinin, gerçek zamanlı görüntünün teknoloji yardımıyla zenginleştirilmesi prensibine dayandığı ve bu teknolojilerin fiziksel unsurları veri ve grafiklerle zenginleştirerek yeniden sunma amacına hizmet ettiği belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 99,
-            "original_source": "Yaz Okulu 2023-2024"
+            "duplicate_of": 58,
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.973000168800354
         },
         {
             "id": 120,
@@ -2427,8 +2472,9 @@
             "topic": "Akış Deneyimi Özellikleri",
             "explanation": "Ünite 8'de, Csikszentmihalyi'nin başarılı bir etkileşim için belirttiği yedi özellik şunlardır: Dengeli Bir Mücadele, Konsantrasyon, Öz Bilincin Terk Edilmesi, Zaman Kavramının Yitimi, Geri Bildirimin Sağlanması, Kontrol Hissi ve Ödüllendirici. Bu listede yer almayan herhangi bir kavram doğru cevap olacaktır. Verilen seçenekler bilinmediğinden, listede olmayan herhangi bir özellik bu tanıma uyar.",
             "is_duplicate": true,
-            "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 100,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         }
     ]
 }

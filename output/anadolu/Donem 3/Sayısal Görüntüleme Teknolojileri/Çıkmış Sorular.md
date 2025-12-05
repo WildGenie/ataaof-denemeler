@@ -71,45 +71,6 @@
 
     <hr />
 
-### Transistör İcadı ve Etkisi
-
-1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar? *(4 kez soruldu)*
-    - A-) Hafıza kartı
-    - **Cevap B-) Transistör**
-    - C-) İnternet
-    - D-) Mikro çipler
-    - E-) Optik iletişim
-
-    > **Açıklama:** Transistör, 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Bell Laboratuvarları'nda geliştirilen bir yarı iletken devre unsurudur. Bu icat, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarar ve bilgisayar çağının da önünü açmıştır (Ünite 1).
-
-    <hr />
-
-### Video Kayıt Tarihi
-
-1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir? *(5 kez soruldu)*
-    - A-) Sinematograf
-    - B-) Telstar uydusu
-    - C-) Katot ışın tüplü elektronik televizyon
-    - **Cevap D-) VTR (Video Tape Recorder)**
-    - E-) Vitaphone ses sistemi
-
-    > **Açıklama:** 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir (Ünite 1).
-
-    <hr />
-
-### Video Kayıt Teknolojisi
-
-1. Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Sony BMC100
-    - B-) VTR (Video Tape Recorder)
-    - C-) Sony DV-2400 Video Rover
-    - **Cevap D-) VHS (Video Home System)**
-    - E-) Super 8 format
-
-    > **Açıklama:** Ünite 1'de video kayıt teknolojileri kronolojisinde, 1976 yılında VHS (Video Home System) tanıtıldığı ve bu sayede tüketicilerin kendi video görüntülerini kaydedip izleyebilme imkânına sahip olduğu belirtilmiştir.
-
-    <hr />
-
 ## Ünite 2
 
 ### Aynasız Makineler (MILC)
@@ -303,16 +264,6 @@
     > **Açıklama:** Standart kompakt fotoğraf makineleri için verilen avantajlar arasında menü kullanımı rahatlığı (pratik kullanım ve basit menüler) ve hafif tasarıma sahip olması (avuç içi boyutlarında) yer alır. Küçük sensörlerinin olması da maliyetleri düşürmesi açısından bir özelliktir (birinci ve dördüncü maddeler). Görüntü kalitesinin iyileştirilmiş olması, özellikle büyük sensörlü/DSLR'lere kıyasla, bir avantaj olarak sayılmaz; aslında kalite/sensör boyutu dezavantajdır. Bu nedenle I, II ve IV avantajlardır. Ancak, sorunun doğru kabul edilen şıkkı C (I, III ve IV) olduğu için, I (Menü kullanımı rahatlığı) ve IV (Küçük sensörlerinin olması) kesinlikle avantajdır. III (Görüntü kalitesinin iyileştirilmiş olması) ise bu makineler için genellikle bir gelişme olarak belirtilse de, diğerlerine göre üstün bir avantaj sayılmaz. Ancak verilen doğru şıkkı takip ederek I, III ve IV'ü kabul ediyoruz. Metinde kompakt makinelerin 'pratik kullanım rahatlığı' sunduğu belirtilmiştir (I). Küçük sensörleri nedeniyle maliyetleri düşüktür (IV). III'ün kabul edilmesi, genel dijitalleşme bağlamında bir iyileşme olarak yorumlanabilir.
 
     <hr />
-1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır? *(3 kez soruldu)*
-    - A-) Yalnız II
-    - B-) I ve IV
-    - **Cevap C-) I, II ve III**
-    - D-) I, III ve IV
-    - E-) I, II, III ve IV
-
-    > **Açıklama:** Standart kompakt fotoğraf makinelerinin avantajları Ünite 2'de listelenmiştir: Menü kullanımı rahatlığı (pratik kullanışlılık), hafifliği (avuç içi boyutlarında), küçük sensörlere sahip olması (maliyet düşüklüğü). Görüntü kalitesinin iyileştirilmiş olması (III), diğer gelişmiş makinelere kıyasla bir avantaj olarak belirtilmez; aksine çözünürlükleri yüksek görünse de büyük sensörlerle aynı çözünürlüğe sahip değillerdir. Ancak, I (kolay kullanım), II (hafiflik) ve IV (küçük sensör) kesin avantajlardır. Sorunun doğru kabul edilen şıkkı C (I, II ve III) olduğundan, III'ün de genel bir gelişme veya kullanıcı için yeterli bir kalite sunduğu varsayılmıştır. I, II, ve IV net avantajlardır. I (Kolay kullanım), II (Hafif), IV (Küçük sensör/maliyet avantajı). I, II ve III'ün kabul edilmesi durumunda, III genellikle ana avantaj olarak öne sürülmez ancak I, II ve IV kesin avantajlardır. I, II ve III şıkkı mevcut olduğu için bu şıkkı seçiyoruz. (I, II ve IV en doğru liste olsa da, verilen doğru şık I, II ve III'ü gerektirir).
-
-    <hr />
 
 ### LCD Panel Türleri
 
@@ -485,19 +436,6 @@
 
     <hr />
 
-### Dijital Video Kamera Türleri
-
-1. Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır? *(3 kez soruldu)*
-    - A-) 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
-    - B-) Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
-    - C-) 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
-    - D-) 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
-    - **Cevap E-) 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.**
-
-    > **Açıklama:** 3D kameralar hakkında verilen bilgide, bu kameralarla üç boyutlu fotoğraflar çekilebildiği gibi bu fotoğrafların yine üç boyutlu olarak görüntülenebildiği belirtilmiştir. Ancak metinde 3D kameraların, artırılmış gerçeklik (AR) kavramı ile ilgili deneyimler sunduğu gibi bir ifade geçmemektedir. 3D kameralar, farklı teknolojileri ile izleyicilere farklı deneyimler sunan videolar üretmektedir şeklinde belirtilmiş ancak AR ile doğrudan ilişkilendirilmemiştir. Sorunun bağlamına göre, 3D kameraların AR ile ilgili deneyimler sunduğuna dair bilgi kesinlik taşımamaktadır. Ünite 3'te 3D kameralardan bahsedilirken, 360 derece kameraların artırılmış gerçeklik (AR) kavramı ile ilgili deneyimler sunduğu ifade edilmiştir. 3D kameralar sadece üç boyutlu görüntüleme sunar.
-
-    <hr />
-
 ### Dijital Video Kamera Çeşitleri
 
 1. Kasklara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir? A) Omuz Kameraları B) El Kameraları C) DSLR Kamera D) Aynasız Kameralar E) Dijital Aksiyon Kameralar
@@ -573,19 +511,6 @@
     - E-) HDTV
 
     > **Açıklama:** Video kameraların saniyede kaydettiği veya gösterdiği kare sayısı FPS (Frames Per Second) olarak tanımlanır. Ünite 3'te, hareketli görüntülerin oluşması için bir saniyede 24 kareden başlayarak değişen değerlerde kameraların görüntü toplaması gerektiği ve FPS ile tarama arasındaki bağlantıdan bahsedilmektedir.
-
-    <hr />
-
-### Video Sabitleme Araçları
-
-1. Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) Drone
-    - B-) 3D Dijital Kameralar
-    - C-) Jimmy Jib
-    - D-) Dolly
-    - **Cevap E-) Gimbal**
-
-    > **Açıklama:** Dijital video kameralarda dahili EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) sistemlerinin dışında, hareketli görüntülerde görüntü sabitlemek için Gimbal (dengeleyici), vinç mekanizmaları ve Dolly gibi harici teknik ekipmanlar kullanılır.
 
     <hr />
 
@@ -1007,16 +932,6 @@
     - **Cevap E-) Matris ölçümü**
 
     > **Açıklama:** Sahnedeki ışığın tümünü ölçerek ortalama bir değer alan ışık ölçüm modu Matris ölçüm modudur (ünite 5'te Matris ölçüm: 'sahnedeki ışığın tümünü ölçerek ortalama bir değer alır' olarak tanımlanmıştır).
-
-    <hr />
-1. Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Merkez ağırlıklı ölçüm
-    - **Cevap B-) Nokta ölçüm**
-    - C-) Geniş ölçüm
-    - D-) Matris ölçümü
-    - E-) Kısmi ölçüm
-
-    > **Açıklama:** Işık ölçüm modlarından Nokta ölçüm (Spot metering), sayısal fotoğraf makinesinin otomatik netleme noktası etrafından ışığı küçük bir yüzeyden (spot) ölçen moddur. Matris ve Kısmi ölçüm de diğer modlardır (Ünite 5).
 
     <hr />
 1. modülü, fotoğraf makinesi sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.
@@ -1515,19 +1430,6 @@
 
     <hr />
 
-### Görüntü İşleme Tanımı
-
-1. Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Görsel iletişim kuramları
-    - B-) Görüntü kurgu çeşitleri
-    - C-) Görüntü oluşturma yöntemleri
-    - **Cevap D-) Görüntü işleme teknikleri**
-    - E-) Görüntü
-
-    > **Açıklama:** Ünite 7'de Görüntü İşleme teknikleri (Dijital Görüntü İşleme), bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek ve analiz etmek olarak tanımlanmıştır: "Dijital görüntü işleme, bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek için kullanılır."
-
-    <hr />
-
 ### Görüntü İşleme Uygulamaları
 
 1. Aşağıdaki uygulamalardan hangisi fotoğraflarınızın tablo gibi görünmesini sağlar?
@@ -1564,19 +1466,6 @@
     - **Cevap E-) OpenShot**
 
     > **Açıklama:** Linux işletim sistemleri için ücretsiz olarak kullanılabilen hareketli görüntü düzenleme yazılımları arasında Openshot, VSDC Free Video Editor, Lightworks ve Shotcut sayılmaktadır. Ünite 7'de bu yazılımların profesyonel olmayanlar için ücretsiz olduğu belirtilmiştir. Shotcut, Linux için de kullanılabilen bir seçenektir.
-
-    <hr />
-
-### Renk Uzayları
-
-1. Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir? *(4 kez soruldu)*
-    - A-) Siyah
-    - **Cevap B-) Mavi**
-    - C-) Eflatun
-    - D-) Cam göbeği
-    - E-) Sarı
-
-    > **Açıklama:** Ünite 7'de, 'Renk Uzayı (ing. Color Space)' başlığı altında, 'Yaygın olarak RGB (ing. Red, Green, Blue) olarak bilinen kırmızı, yeşil ve mavi bu yeni renk grubunun ana renkleridir' bilgisi verilmektedir. Dolayısıyla RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dir.
 
     <hr />
 
@@ -1659,16 +1548,6 @@
     - **Cevap E-) SVG**
 
     > **Açıklama:** Ünite 7'de Sayısal Görüntü Formatları başlığı altında, temel formatların Raster (Bitmap) ve Vektörel olarak ayrıldığı belirtilmiştir. Raster grafiklere örnek olarak JPEG, GIF, PNG, TIFF verilirken, vektörel formatlar bu başlık altında ayrı bir kategori olarak bahsedilmektedir (metinde spesifik bir vektörel uzantı adı verilmemiştir, ancak metin format türlerini sınıflandırmaktadır. Vektörel formatlar, sabit piksel içermeyen formatlardır).
-
-    <hr />
-1. Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - **Cevap A-) RAW**
-    - B-) TIFF
-    - C-) GIF
-    - D-) PNG
-    - E-) JPEG
-
-    > **Açıklama:** Ünite 7'de, 'Camera Raw Yazılımları' başlığı altında, 'Camera Raw dosyası fotoğraf negatifi olarak düşünülebilir. Bu dosyada sayısal fotoğraf makinesinin sensöründen alınan işlenmemiş, sıkıştırılmamış, gri tonlamalı görüntü verileri bulunur' bilgisi yer almaktadır. RAW formatı (RAW dosya uzantısı), fotoğrafın ham veri hâlini temsil eder.
 
     <hr />
 1. görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan bir dosya formatıdır.

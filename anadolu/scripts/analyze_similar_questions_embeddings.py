@@ -2,6 +2,7 @@
 """
 Analyze similar questions using Gemini embeddings for semantic similarity.
 More accurate than text-based comparison for finding conceptually similar questions.
+Uses EmbeddingStore for efficient storage (NumPy + JSON).
 """
 
 import os
@@ -16,9 +17,11 @@ from tqdm import tqdm
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.append(PROJECT_ROOT)
 
+from anadolu.scripts.embedding_store import EmbeddingStore
+
 JSON_DIR = os.path.join(PROJECT_ROOT, "output", "Anadolu", "json")
-REPORT_PATH = os.path.join(PROJECT_ROOT, "output", "Anadolu", "embedding_similarity_analysis.json")
-CACHE_PATH = os.path.join(PROJECT_ROOT, "output", "Anadolu", "question_embeddings_cache.json")
+ANADOLU_OUTPUT_DIR = os.path.join(PROJECT_ROOT, "output", "Anadolu")
+REPORT_PATH = os.path.join(ANADOLU_OUTPUT_DIR, "embedding_similarity_analysis.json")
 
 # Load environment variables
 load_dotenv()
@@ -46,21 +49,6 @@ def get_embedding(text):
         print(f"Error getting embedding: {e}")
         return None
 
-def load_cache():
-    """Load cached embeddings."""
-    if os.path.exists(CACHE_PATH):
-        try:
-            with open(CACHE_PATH, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except:
-            return {}
-    return {}
-
-def save_cache(cache):
-    """Save embeddings cache."""
-    with open(CACHE_PATH, 'w', encoding='utf-8') as f:
-        json.dump(cache, f, indent=4, ensure_ascii=False)
-
 def main():
     import argparse
 
@@ -68,15 +56,16 @@ def main():
     parser.add_argument("--threshold", type=float, default=0.85, help="Similarity threshold (0-1)")
     parser.add_argument("--enrolled", action="store_true", help="Process only enrolled courses")
     parser.add_argument("--course", help="Filter by course name")
+    parser.add_argument("--donem", type=int, help="Filter by semester (e.g., 1, 7)")
 
     args = parser.parse_args()
 
     print("Starting embedding-based similarity analysis...")
     print(f"Similarity threshold: {args.threshold}")
 
-    # Load cache
-    cache = load_cache()
-    print(f"Loaded {len(cache)} cached embeddings.")
+    # Initialize store
+    store = EmbeddingStore(ANADOLU_OUTPUT_DIR)
+    print(f"Loaded store with {len(store.metadata)} existing embeddings.")
 
     # Collect questions
     questions_by_course = {}
@@ -103,6 +92,15 @@ def main():
         donem_path = os.path.join(JSON_DIR, donem_dir)
         if not os.path.isdir(donem_path) or not donem_dir.startswith("Donem"):
             continue
+
+        # Filter by donem
+        if args.donem:
+            try:
+                current_donem = int(donem_dir.split(" ")[1])
+                if current_donem != args.donem:
+                    continue
+            except (IndexError, ValueError):
+                continue
 
         for filename in os.listdir(donem_path):
             if "Çıkmış Sorular - Enriched.json" in filename:
@@ -142,45 +140,55 @@ def main():
 
     # Get embeddings (with caching)
     embeddings = []
-    cache_updated = False
+    store_updated = False
 
-    for item in tqdm(all_questions, desc="Generating embeddings"):
+    for item in tqdm(all_questions, desc="Retrieving embeddings"):
         q_text = item["question"]["question"]
         q_id = f"{item['course']}_{item['question'].get('id')}"
 
-        if q_id in cache:
-            embeddings.append(cache[q_id])
+        emb = store.get_embedding(q_id)
+
+        if emb is not None:
+            embeddings.append(emb)
         else:
-            emb = get_embedding(q_text)
-            if emb:
-                cache[q_id] = emb
-                embeddings.append(emb)
-                cache_updated = True
+            # Generate if missing (though usually we expect them to be pre-generated)
+            emb_vec = get_embedding(q_text)
+            if emb_vec:
+                store.add_embedding(q_id, emb_vec)
+                embeddings.append(np.array(emb_vec, dtype=np.float32))
+                store_updated = True
             else:
                 embeddings.append(None)
 
-    if cache_updated:
-        save_cache(cache)
-        print("Cache updated.")
+    if store_updated:
+        store.save()
+        print("Store updated.")
 
     # Find similar pairs
     print("Finding similar pairs...")
     similar_pairs = []
 
     n = len(all_questions)
-    for i in tqdm(range(n), desc="Comparing"):
-        if embeddings[i] is None:
-            continue
 
-        for j in range(i + 1, n):
-            if embeddings[j] is None:
-                continue
+    # Pre-filter valid embeddings
+    valid_indices = [i for i, emb in enumerate(embeddings) if emb is not None]
+
+    # Use matrix multiplication for speed if possible, but for now stick to pairwise to avoid memory issues with large N
+    # Or use a simple loop over valid indices
+
+    for i_idx in tqdm(range(len(valid_indices)), desc="Comparing"):
+        i = valid_indices[i_idx]
+        vec1 = embeddings[i]
+
+        for j_idx in range(i_idx + 1, len(valid_indices)):
+            j = valid_indices[j_idx]
+            vec2 = embeddings[j]
 
             # Skip if same course (optional)
             # if all_questions[i]["course"] == all_questions[j]["course"]:
             #     continue
 
-            similarity = cosine_similarity(embeddings[i], embeddings[j])
+            similarity = cosine_similarity(vec1, vec2)
 
             if similarity >= args.threshold:
                 similar_pairs.append({

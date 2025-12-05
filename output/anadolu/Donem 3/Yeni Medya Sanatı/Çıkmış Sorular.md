@@ -193,19 +193,6 @@
 
     <hr />
 
-### Algılama ve Ortam Kavramları
-
-1. Yeni medya sanatı ve iletişim alanlarında ortam (medyum) terimi aşağıdakilerden hangisini tanımlamak için kullanılır? *(4 kez soruldu)*
-    - A-) Sanat eserlerindeki temel anlamı tanımlamaktadır.
-    - **Cevap B-) İletişimde kullanılan aracıları tanımlamaktadır.**
-    - C-) Sanatta soyut bilgiyi tanımlamaktadır.
-    - D-) İki kişi arasında iletilen bilgiyi tanımlamaktadır.
-    - E-) Sanat ve İletişim alanları ayrıştıran özelliklerini tanımlamaktadır.
-
-    > **Açıklama:** Ünite 2'de, 'Algılama Tanımı' başlığı altında, mesajların alıcıya ulaşması için duyu organları aracılığıyla dış dünya bilgisinin yorumlanması ve gelen bilgilerin birlikteliğini sağlayan süreç ifade edilir. Ancak, daha geniş bir bağlamda, 'Algı' başlığında estetiğin duyular üzerine temellendiği belirtilir. Yeni medya bağlamında, bir ortam (medyum), ses, yazı, fotoğraf gibi fiziksel özelliklerle verinin iletildiği bir araç olarak tanımlanır. Ünite 8'de de 'Yeni Medya Sanatı' başlığı altında, yeni medya eserlerinin, materyal/üretim yöntemi olarak bu alt türlerden birini/birkaçını kullandığında adlandırılabileceği söylenir. Bu bağlamda, ortam (medyum) terimi, eserin üretildiği ve sunulduğu teknolojik veya fiziksel bağlamı ifade eder.
-
-    <hr />
-
 ### Duyusal Kodlama
 
 1. Beyin ancak sinirsel akımlarla birleştirilmiş elektriksel sinyallerin lisanından anlar, bu nedenle her duyu organı aldığı fiziksel enerjiyi mutlaka öncelikle elektrik enerjisine çevirir. Yukarıdaki paragrafta tanımlanan kavram aşağıdaki başlıklardan hangisine aittir?
@@ -216,19 +203,6 @@
     - E-) Mutlak Eşik
 
     > **Açıklama:** Paragrafta, beynin sinirsel akımlarla birleştirilmiş elektriksel sinyalleri anladığı ve her duyu organının aldığı fiziksel enerjiyi öncelikle elektrik enerjisine çevirdiği belirtilmektedir. Ünite 2'de, bu sürecin 'Duyusal Kodlama' başlığı altında tanımlandığı açıkça ifade edilmektedir.
-
-    <hr />
-
-### Estetik Fenomen Ögeleri
-
-1. Aşağıdakilerden hangisi estetik kavramında bahsedilen estetik fenomenin dört ana elemanından değildir?
-    - A-) Çevre
-    - B-) Zıtlık
-    - C-) Mantık
-    - **Cevap D-) Boyutsallık**
-    - E-) Akılsallık
-
-    > **Açıklama:** Ünite 2'de Estetik Fenomenin dört ana ögesi Doku, Işık, Renk, Kompozisyon, Boyutsallık ve Zaman kavramı olarak listelenmiştir. Şık B (Zıtlık) ve Şık E (Akılsallık) bu listede yer almaz. Ancak sorunun doğru şıkkı D (Boyutsallık) olarak belirtilmiş. Metinde Boyutsallık bir öge olarak geçmektedir. Eğer şık D yanlış kabul ediliyorsa, metindeki listeye göre doğru kabul edilebilecek diğer şıklar (Zıtlık ve Akılsallık) listede yoktur. Ancak, estetik kriterlerde zıtlık (kriter değil) ve Kant'ın vurguladığı akılsallık (duyusal bilgiye zıt) kavramları mevcuttur. Verilen metinde geçen dört ana öge: 1. Doku, Işık, Renk, 2. Kompozisyon, 3. Boyutsallık, 4. Zaman kavramı. Bu listede olmayanlar Zıtlık ve Akılsallık'tır. Sorunun doğru cevabının D olduğu belirtildiğine göre, burada bir çelişki var demektir, çünkü Boyutsallık listededir. \*\*Ancak\*\*, bu tip sorularda bazen listedeki bir öge yerine, ilgili kavramdan türetilen bir kavramın listede olmaması aranır. Yüksek ihtimalle, listedeki dört ana ögeye ek olarak bahsedilen diğer kavramlar (örneğin Zıtlık veya Akılsallık) listede olmadığı için şıklara konulmuştur. Listelenen dört ana öge (Kompozisyon, Doku/Işık/Renk, Boyutsallık, Zaman) dışında bir şey aranıyorsa, Zıtlık veya Akılsallık listede olmayanlardır. Sorunun D şıkkını işaretlemesi, Boyutsallık'ın listede olmasına rağmen yanlış olarak kabul edildiği anlamına gelir. Bu durumda, metindeki listede olmayan Zıtlık veya Akılsallık aranmalıdır. Şık B ve E listede yoktur. Şık D'nin doğru kabul edilmesi, metindeki bilgiyi geçersiz kıldığı için, kural gereği D'yi açıklıyorum: Boyutsallık listededir; ancak soruda bu listede olmayan bir öge sorulmuştur. Listedeki ögeler: Doku, Işık, Renk, Kompozisyon, Boyutsallık, Zaman kavramı. Boyutsallık bu listede yer aldığı için bu şıkkın yanlışlıkla doğru kabul edildiği varsayılabilir. Doğru cevap, listede olmayan Zıtlık veya Akılsallık olmalıdır. Ancak kural gereği D'yi gerekçelendirecek metin bilgisi yoktur, sadece listede olduğu bilgisi vardır. Verilen cevaba uyarak: Boyutsallık listede olmasına rağmen bu şıkkın işaretlenmesi, sistemin beklediği cevaba uyum sağlamak içindir.
 
     <hr />
 
@@ -332,19 +306,6 @@
     - **Cevap E-) Bedelenme**
 
     > **Açıklama:** Ünite 3'te, 'Genişletilmiş Gerçeklik' başlığı altında, 'Bedenlenme' terimi, 'Sayısal ortam ile etkileşime giren kullanıcıların, ortamla fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir.' şeklinde tanımlanmıştır. Bu tanım, sorudaki boşluğu doğru şekilde tamamlar.
-
-    <hr />
-
-### Genişletilmiş Gerçeklik Terimleri
-
-1. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? :Sayısal ortam ile etkileşime giren kullanıcıların, ortama fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir.
-    - A-) Avatar
-    - B-) Mecazi
-    - C-) Varoluşsal
-    - D-) Genelgeçer
-    - **Cevap E-) Bedenlenme**
-
-    > **Açıklama:** Cümledeki tanım, kullanıcının sayısal ortam ile etkileşime girerken fiziksel ortamla etkileşime girdiği algısının yaratılması anlamına gelen 'Bedenlenme' (embodiment) kavramına aittir. Ünite 3'te Bedenlenme başlığı altında bu tanım verilmiştir.
 
     <hr />
 
@@ -506,32 +467,6 @@
 
     <hr />
 
-### Grafik Türleri
-
-1. -------, verilerin üç boyutunu görüntüleyen bir grafik türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Kabarcık grafiği**
-    - B-) Dağılım grafiği
-    - C-) Çubuk grafiği
-    - D-) Pasta grafiği
-    - E-) Dağılım grafiği
-
-    > **Açıklama:** Boş bırakılan yeri "Kabarcık Grafiği" tamamlar. Ünite 4 özetine göre Kabarcık Grafiği, verilerin üç boyutunu görüntüleyen bir grafik türüdür ve baloncukların boyutu ile konumu veri boyutunu gösterir.
-
-    <hr />
-
-### Grafik Öncüsü
-
-1. Çubuk grafiği ve pasta grafiği gibi günümüzde yaygın olarak kullanılan bir çok grafiğin öncülüğünü yapan kişi aşağıdakilerden hangisidir?
-    - A-) John Tukey
-    - **Cevap B-) William Playfair**
-    - C-) Rene Descartes
-    - D-) Pierre de Fermat
-    - E-) Blaise Pascal
-
-    > **Açıklama:** Ünite 4'te, İskoç William Playfair'in, 'günümüzde yaygın olarak kullanılan birçok grafiğin öncülüğünü yapmıştır' denilerek, Çubuk Grafiği, Pasta Grafiği gibi grafiklerin öncüsü olduğu belirtilmiştir.
-
-    <hr />
-
 ### Metaverse Tanımı
 
 1. -------; tamamının veya çoğunluğunun gerçekte var olması bulunulan dönemin koşullarında pek olanaklı görünmeyen parçaların kompoze edilmesi ile ortaya çıkarılan mekânlar olarak ifade edilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -646,16 +581,6 @@
     - E-) İnfografikler bilgisayarlar aracılığıyla algoritmik olarak çizilir, datavizler ise elle çizilir.
 
     > **Açıklama:** Ünite 4'e göre, veri görselleştirme türleri temel olarak infografik ve dataviz olarak ikiye ayrılır. Metinde bu ikisinin ayrımına dair net bir tanım olmasa da, infografik genellikle bilgiyi sunma amacı taşırken, dataviz (veri analizi) genellikle karmaşık veri kümelerinden eğilimleri bulmaya odaklanır. Ancak kesin ayrım için metin yeterli bir bilgi sunmamaktadır. Genel kabul gören ayrım: Dataviz, ham veriyi analitik/keşifsel amaçlarla görselleştirirken, İnforgrafik hikayeleştirme ve sunum amacı güder. Metinde bu ayrım net olarak tanımlanmamıştır; sadece iki ana tür olduğu belirtilmiştir.
-
-    <hr />
-1. ------ üç boyutunu görüntüleyen bir grafik türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Kabarcık grafiği**
-    - B-) Çubuk grafiği
-    - C-) Açılım grafiği
-    - D-) Dağılım grafiği
-    - E-) Pasta grafiği
-
-    > **Açıklama:** Ünite 4'te Kabarcık Grafiği (Balon Grafiği) şu şekilde tanımlanmıştır: 'Kabarcık grafiği, verilerin üç boyutunu görüntüleyen bir grafik türüdür. Kabarcık grafikler, her balonun boyutuna ve xy koordinatı üzerindeki konumuna göre veri boyutunu göstermek için kullanılır.' Bu tanım, boş bırakılan yeri doğru şekilde tamamlar.
 
     <hr />
 1. Yukarıdaki cümlelerde boş bırakılan yeri aşağıdaki-lerden hangisi doğru şekilde tamamlar?
@@ -833,19 +758,6 @@
 
     <hr />
 
-### Dijital Oyunlarda Şiir
-
-1. Anlam veya etkinin kısmen veya tamamen görsel yollarla kelime veya harf kalıpları ve diğer tipografik araçlar kullanılarak açıklandığı şiir türü aşağıdakilerden hangisidir?
-    - **Cevap A-) Somut şiir**
-    - B-) Yeni şiir
-    - C-) Pastoral şiir
-    - D-) Kinetik şiir
-    - E-) Lirik şiir
-
-    > **Açıklama:** Soruda, anlam veya etkinin kısmen veya tamamen görsel yollarla (kelime/harf kalıpları ve tipografik araçlar) açıklandığı şiir türü sorulmaktadır. Ünite 6'da Jason Rohrer'in 'Passage' oyunu, oyun mekanikleri ve metaforlar aracılığıyla yaşamın geçiciliği temasını anlatan şiirsel bir deneyim olarak tanımlanır. Ayrıca, Daniel Benmergui'nin 'Today I Die' oyunu da 'oyun şiir' olarak adlandırılmıştır ve oyun mekanikleri, dallanan hikayeler ile edebi şiiri birleştirmektedir. Bu, 'Şiir-Oyunlar' başlığı altında incelenen kavramdır.
-
-    <hr />
-
 ### Fatale Oyunu Kaynağı
 
 1. Belçikalı bağımsız oyun tasarımcıları Auriea Harvey ve Michaël Samyn'in kurduğu Tale of Tales yapımının 2009 tarihli "Fatale" adlı oyunu aşağıdaki eserlerin hangisinden esinlenmiştir?A) William Shakespeare'in "Hamlet" adlı oyunundan<br />B) Franz Kafka'nın "Dönüşüm" adlı romanından<br />C) Edgar Allan Poe'nun "Kara Kedi" adlı öyküsünden<br />D) George Orwell'ın "1984" adlı romanından<br />E) Oscar Wilde'ın "Salome" adlı piyesinden
@@ -869,42 +781,6 @@
     - E-) Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır.
 
     > **Açıklama:** Ünite 6'da, Sanat Oyunu başlığı altında John Sharp'ın görüşleri aktarılırken, oyun mekaniklerinin tanımı şu şekilde verilmiştir: 'Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır.' Şık E bu tanımı doğru olarak yansıtmaktadır.
-
-    <hr />
-
-### Oyun Modifikasyonu
-
-1. Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular veya hayranlar tarafından değiştirilme süreci aşağıdakilerden hangisi ile ifade edilir?
-    - A-) Prosedürelcilik
-    - B-) Yöndeşme
-    - C-) Transmedya
-    - **Cevap D-) Modlama**
-    - E-) Karşı oyun
-
-    > **Açıklama:** Ünite 6'da Oyun Sanatı (Game Art) tanımlanırken, ticari dijital oyunların görsel, işitsel unsurları ve etkileşimli yapıları modifiye edilerek (örneğin modlama ile) üretilen yapıtlardan bahsedilir. Bu yapıtlar genellikle oynanmak yerine müze ve galerilerde sergilenirler.
-
-    <hr />
-1. Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular tarafından değiştirilme veya hayranlar tarafından değiştirilme süreci aşağıdaki terimlerden hangisi ile ifade edilir?
-    - A-) Prosedürelcilik
-    - **Cevap B-) Modlama**
-    - C-) Yöndeşme
-    - D-) Karşı oyun
-    - E-) Transmedya
-
-    > **Açıklama:** Dijital oyunların görsel, işitsel veya prosedürel unsurlarının oyuncular tarafından değiştirilmesi veya hayranlar tarafından düzenlenmesi, Ünite 6'da bahsedilen 'Sanat Oyunu' (artgame) tanımına yakındır, ancak daha spesifik olarak oyunun kendisinin modifiye edilmesini kapsar. Metinde oyunların modifikasyonu geçmese de, 'Dijital Oyun Sanatı' başlığı altında ticari oyunların modifiye edilmesi (modlama) 'oyun sanatı' (game art) örnekleri arasında sayılmıştır. Bu bağlamda, oyunların hayranlar tarafından değiştirilmesi 'Sanatsal Bilgisayar Oyun Modifikasyonu' olarak tanımlanabilir ki bu terim Ünite 8'de Yeni Medya Sanatı alt başlıkları arasında listelenmiştir.
-
-    <hr />
-
-### Oyun Sanatı Prosedürelcilik
-
-1. Kural tabanlı sistemler üzerinden argüman oluşturabilme sürecini ifade etmek üzere, Ian Bogost ---------- termini kullanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) karşı oyun
-    - **Cevap B-) prosedürel retorik**
-    - C-) avantgart oyun
-    - D-) transmedya
-    - E-) yöndeşme
-
-    > **Açıklama:** Ünite 6 özetine göre, oyun araştırmacısı Ian Bogost, sanat oyunlarının benimsedikleri ortak niteliklere dayalı yaklaşımı 'prosedürelcilik' (proceduralism) olarak tanımlar. Bogost'a göre bu oyunlar, vermek istedikleri mesajı bilgisayarların kural tabanlı ortamında modelleyerek bir argüman haline getirirler.
 
     <hr />
 
@@ -1128,19 +1004,6 @@
 
     <hr />
 
-### Yapay Zeka Tarihi
-
-1. Makinelerin tıpkı insanlar gibi düşünebileceklerinin sinyallerini veren ilk kitap aşağıdakilerden hangisidir?
-    - A-) Geniac
-    - B-) Computers and Automation
-    - **Cevap C-) Giant Brains: Or Machines That Think**
-    - D-) Radio Electronics
-    - E-) Brainiac
-
-    > **Açıklama:** Ünite 7'de, Alan Turing'in 1950'de yayınlanan “Computing Machinery and Intelligence" adlı makalesinin, yapay zeka teknolojisinin resmî olarak doğuşu kabul edildiği ve bu makalenin, makinelerin insan gibi düşünebileceği sinyallerini verdiğini belirtir.
-
-    <hr />
-
 ### Yapay Zeka ve Sanat
 
 1. Google Deep Dream'in sanat alanındaki etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?A) Deep Dream'in sanat tarzı "Inceptionism" olarak adlandırılmıştır.<br />B) Deep Dream, yalnızca matematiksel verilerle resim üretmektedir.<br />C) Deep Dream, sadece sanatçıların yönlendirmesiyle resim yapabilmektedir.<br />D) The Painting Fool ve Deep Dream benzer algoritmalar kullanmaktadır.<br />E) Yapay zekanın sanatla ilgisi, sadece görsel sanatlarla sınırlı kalmıştır.
@@ -1185,16 +1048,6 @@
     - **Cevap C-) Cl-art**
     - D-) Evo-art
     - E-) VR-art
-
-    > **Açıklama:** Ünite 7'de tanımlanan sanat türlerinden CI-art (Bilgisayar temelli interaktif sanat) için, 'Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir' ifadesi kullanılır. Bu, doğrudan sorunun tanımını karşılamaktadır.
-
-    <hr />
-1. Bilgisayar temelli sanat eserinin içeriği ve formunun, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) Evo-art
-    - B-) R-art
-    - C-) VR-art
-    - **Cevap D-) Cl-art**
-    - E-) CA-art
 
     > **Açıklama:** Ünite 7'de tanımlanan sanat türlerinden CI-art (Bilgisayar temelli interaktif sanat) için, 'Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir' ifadesi kullanılır. Bu, doğrudan sorunun tanımını karşılamaktadır.
 
@@ -1266,16 +1119,6 @@
     > **Açıklama:** Ünite 8'de, konvansiyonel medyadan farklı olarak metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardan bahsedilirken, bu kavram 'Multimedya' olarak tanımlanmıştır. 'Multimedya Sanat' yeni medya sanatının alt başlıklarından biri olarak da listelenmiştir.
 
     <hr />
-1. Basılı gazete veya dergi ya da radyo yayını gibi kullanıcılarına hiç veya çok az etkileşim olanağı sunan geleneksel kitle iletişim araçlarının aksine, metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardır. Yukarıda anlatılan kavram aşağıdakilerden hangisidir?
-    - A-) Yeni sanat
-    - B-) Etkileşimli ortam
-    - C-) Konvansiyonel medya
-    - D-) Dijital sanat
-    - **Cevap E-) Multimedya**
-
-    > **Açıklama:** Ünite 8'de, yeni medya sanatının bileşenleri sayılırken, 'Multimedya Sanat' başlığı altında, 'Basılı gazete veya dergi ya da radyo yayını gibi kullanıcılarına hiç veya çok az etkileşim olanağı sunan geleneksel kitle iletişim araçlarının aksine, metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardır' tanımına en yakın kavramın Multimedya olduğu anlaşılır. Bu tanım, geleneksel medya (Konvansiyonel medya) ile yeni medyanın ayrımını da belirlerken, etkileşimli ve çoklu format kullanımını vurgular.
-
-    <hr />
 
 ### Refik Anadol Sanatı
 
@@ -1342,16 +1185,6 @@
     - A-) Zoom
     - B-) Entropi
     - **Cevap C-) Piksel**
-    - D-) Digilogue
-    - E-) Bit
-
-    > **Açıklama:** Ünite 8'de, 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak Hande Şekerciler ve Arda Yalkın tarafından yürütülen oluşumun 'Piksel' olduğu belirtilmiştir: '...ve 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen Piksel yeni medya sanatını İstanbul'da temsil eden oluşumlardandır.'
-
-    <hr />
-1. 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen yeni medya sanatını İstanbul'da temsil eden oluşumlardandır.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Piksel**
-    - B-) Zoom
-    - C-) Entropi
     - D-) Digilogue
     - E-) Bit
 

@@ -15,19 +15,6 @@
 
     <hr />
 
-### Din Kavramının Kökeni
-
-1. Arapça kökenli olan "yol, hüküm, benimsemek, kabul etmek, ikrar etmek" anlamlarına gelmektedir ve çoğu zaman inanç kelimesi yerine kullanılmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
-    - **Cevap A-) Din**
-    - B-) Efsane
-    - C-) Destan
-    - D-) Kült
-    - E-) Mit
-
-    > **Açıklama:** Arapça kökenli olan ve "yol, hüküm, benimsemek, kabul etmek, ikrar etmek" anlamlarına gelen kelime 'Din'dir. Batı dillerinde 'religio' tercih edilmiştir. (Ünite 1, s. 1)
-
-    <hr />
-
 ### Din Kelimesi Kökeni
 
 1. Eski Türkçede fırsat, hayır, bereket anlamındaki kelime aşağıdakilerden hangisidir?
@@ -139,19 +126,6 @@
 
     <hr />
 
-### Kozmogoni Tanımı
-
-1. Mitler daha çok tabiat ile ilgili meseleleri özellikle ele almıştır. Buna göre Evren+doğum olarak tanımlanan terimin bilinen diğer adı nedir? *(2 kez soruldu)*
-    - A-) Umay Ana
-    - B-) Erlik
-    - C-) Kozmos
-    - **Cevap D-) Kozmogoni**
-    - E-) Ülgen
-
-    > **Açıklama:** Mitler, evrenin, dünyanın ve insanın yaratılışını konu alır. Ünite 1'deki bilgilere göre, kozmogoni, "Evren + doğum" demektir ve mitlerin konularını tabiat ve âlem oluşturur. Dolayısıyla, evrenin doğumunu ifade eden terim kozmogoni olarak tanımlanmıştır.
-
-    <hr />
-
 ### Masal Kavramı
 
 1. Masallar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?<br />A) Abartı unsurlarının bol olduğu bir ifade biçimidir.<br />B) Masallar çoğunlukla dini konuları içermektedir.<br />C) Masallar konu itibariyle geniş coğrafyalara hitap edebilir.<br />D) Masallarda olayın geçtiği zaman çok önemsenmemiştir.<br />E) Masallar belli bir kültür çevresi ile sınırlı kalmamıştır.
@@ -175,19 +149,6 @@
     - E-) Masallarda olayın geçtiği mekan çok önemsenmemiştir.
 
     > **Açıklama:** Masalların genel olarak hayali unsurlarla dolu olduğu, abartı unsurlarının bol olduğu ve motivasyon unsuru olarak kullanıldığı belirtilirken, masalların konusunun daha çok din dışı konuları içermesi gerektiği ifade edilmiştir. 'Masalların kahramanları olağanüstü yaratıklardır' ifadesi doğrudur. Ancak, 'İçeriği büyük oranda hayali unsurlarla doludur' ifadesi doğru olsa da, 'konu bakımından masallar daha çok din dışı konuları içermektedir' bilgisi, masalların genel karakteristiğidir. 'Masalların ihtiva ettiği konu dağarcığı geneli kapsayacak unsurlar ihtiva etmektedir' ifadesi genel bir yorumdur. Soruda verilen şıklardan hangisinin yanlış olduğu belirtilmemiştir, ancak verilen metinlere göre masalların din dışı konuları içerdiği ve hayali olduğu kesindir. (Not: Sorunun kesin yanlış şıkkı metinde açıkça belirtilmemiş, ancak genellikle masalların konusu hayali ve din dışı ağırlıklıdır).
-
-    <hr />
-
-### Mit Kavramı Tanımı
-
-1. Yunan dilinde söylenen ve duyulan söze, yani anlatıla gelen masal, öykü ve efsanelere genel olarak ne ad verilir?
-    - A-) Epos
-    - B-) Tragedia
-    - **Cevap C-) Mitos**
-    - D-) Analogos
-    - E-) Logos
-
-    > **Açıklama:** Yunan mitolojisinde söz, öykü anlamına gelen 'Mythos' kelimesinden türeyen ve ilkel insan topluluklarının evreni, yeryüzünü ve tabiat olaylarını kişileştirerek yorumlama gereksiniminden doğan öykülere genel olarak 'Mit' adı verilir (Ünite 1).
 
     <hr />
 
@@ -351,19 +312,6 @@
 
     <hr />
 
-### Vahye Dayalı Dinler
-
-1. Aşağıdakilerden hangisinde vahye dayanan (kitabi dinler) dinler bir arada verilmiştir? *(3 kez soruldu)*
-    - **Cevap A-) Yahudilik- Hristiyanlık- İslamiyet**
-    - B-) Budizm-İslamiyet-Taoizm
-    - C-) Hinduizm- Hristiyanlık- İslamiyet
-    - D-) Yahudilik-Budizm-Hinduizm
-    - E-) Budizm-Hinduizm-Hristiyanlık
-
-    > **Açıklama:** Soru 83'ün cevabı Yahudilik, Hristiyanlık ve İslamiyet'tir. Ünite 1'de, Vahye dayanan veya “kitabi dinler” olarak ifade edilen dinlerin; Yahudilik, Hristiyanlık ve İslamiyet olarak ifade edilebileceği belirtilmiştir.
-
-    <hr />
-
 ## Ünite 2
 
 ### Din Tanımı Geertz
@@ -407,19 +355,6 @@
 
     <hr />
 
-### Destan Türleri
-
-1. Yazarı belli olmayan eski çağlarda yaşanmış olayları konu alan sözlü destan türüne ne ad verilir? *(2 kez soruldu)*
-    - **Cevap A-) Doğal destanlar**
-    - B-) Yapay destanlar
-    - C-) Ulusal destanlar
-    - D-) Olağanüstü destanlar
-    - E-) Gerçek destanlar
-
-    > **Açıklama:** Yazarı belli olmayan, eski çağlarda yaşanmış olayları konu alan sözlü destan türüne "Doğal destanlar" adı verilir. Bu destanlar, Türk edebiyatında İslamiyet öncesi ve İslami dönem olmak üzere ikiye ayrılır.
-
-    <hr />
-
 ### Hatti Kökenli Mitoslar
 
 1. Hatti kökenli İlluyanka efsanesinde "İlluyanka" nasıl bir varlıktır?
@@ -443,19 +378,6 @@
     - E-) Hepät
 
     > **Açıklama:** Ünite 3'teki Hitit tanrıları listesine göre, Kaşku, Ay Tanrısıdır.
-
-    <hr />
-
-### Hitit Efsaneleri
-
-1. Fırtına Tanrısı Teşup'un, krallık tahtına oturmasının konu edildiği efsane hangisidir? *(2 kez soruldu)*
-    - A-) Tanrıça İnara'nın Kayboluşu
-    - **Cevap B-) Ullikummi Şarkısı**
-    - C-) Gümüş'ün Şarkısı
-    - D-) Hedammu Şarkısı
-    - E-) Tanrı Lama'nın Şarkısı
-
-    > **Açıklama:** Ünite 3'teki 'Ullikummi Şarkısı' tanımına göre, bu efsanenin devamında Kumarbi'nin, Fırtına Tanrısı Teşup'a karşı bazı planlar kurduğu ve efsanenin temelinde eski ve yeni tanrılar arasındaki mücadelelerin olduğu belirtilmiştir.
 
     <hr />
 
@@ -613,19 +535,6 @@
     - E-) Alalu
 
     > **Açıklama:** Ünite 3'teki 'Ea' tanımına göre, Ea, eski tabletlerin muhafızı olan ve iki yüzlü olarak omuzlarından fışkıran sularla oluşmuş bir nehir ile betimlenmiştir.
-
-    <hr />
-
-### Hitit Tanrıçaları
-
-1. Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve Tüm Tanrıların Annesi ya da Büyükanne unvanına sahip tanrıça hangisidir? *(2 kez soruldu)*
-    - A-) Hapantaliia
-    - B-) Hedammu
-    - C-) İmpaluri
-    - D-) Kamruşepa
-    - **Cevap E-) Hannahanna**
-
-    > **Açıklama:** Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve Tüm Tanrıların Annesi ya da Büyükanne unvanına sahip tanrıça Hannahanna'dır. (Ünite 3, Sayfa 2)
 
     <hr />
 
@@ -1007,16 +916,6 @@
     > **Açıklama:** Soru 81'in cevabı Enkidu'dur. Ünite 4'te, Enkidu'nun 'Güzel yerin efendisi' anlamına geldiği ve Gılgamış, Huwawa ve Yeraltı Dünyası mitlerinde Gılgamış'ın ulağı olduğu belirtilmiştir. Ancak, verilen tanım (vücudu kaba tüylerle kaplı olma) doğrudan metinde yer almamaktadır; Enkidu figürü genellikle Gılgamış'ın vahşi arkadaşı olarak bilinir. Metinde Enkidu'nun anlamı verilmiş (Güzel yerin efendisi), ancak fiziksel tanımı verilmemiştir. Mitolojideki diğer tanrılar için bu tanım uygun değildir. Bu sorunun bağlamı büyük olasılıkla Enkidu'nun vahşi doğasını işaret etmektedir, bu nedenle Enkidu doğru kabul edilmelidir.
 
     <hr />
-1. Hitit mitolojisinde, eski tabletlerin muhafızı olan ve iki yüzlü olarak omuzlarından fışkıran sularla oluşmuş bir nehir ile betimlenen tanrı aşağıdakilerde hangisidir?
-    - A-) Şauşga
-    - B-) Aranzah
-    - C-) Hannahanna
-    - D-) İmpaluri
-    - **Cevap E-) EA**
-
-    > **Açıklama:** Soru 88'in cevabı Enki (Ea)'dır. Ünite 4'te, 'Ea' maddesi altında, 'Eski tabletlerin muhafızı olan ve ikiyüzlü olarak omuzlarından fışkıran sularla oluşmuş bir nehir ile betimlenmiştir.' bilgisi yer almaktadır. Enki aynı zamanda 'deniz ve okyanus tanrısı'dır.
-
-    <hr />
 1. Adı "Güzel Verimli Stadı" anlamına gelen ve Gök Tanrı Enlil ile dostluk kuran Sumer tanrısı aşağıdakilerden hangisidir?
     - A-) Iştar
     - **Cevap B-) Enkidu**
@@ -1038,19 +937,6 @@
     - E-) Ningişzida
 
     > **Açıklama:** Ünite 4'teki 'İnanna (İştar)' tanımına göre, İnanna Uruk şehrinin gücünü, gönencini artırmak suretiyle burayı Sumer medeniyetinin merkezi yaparak kendi adını da yüceltmek istemiştir. Bu nedenle Uruk'un tanrıçasıdır.
-
-    <hr />
-
-### Sümer Tanrısı Usumi
-
-1. Aşağıdakilerden hangisi Sümerlerin iki yüzlü tanrısı olup kültü Roma'ya kadar girmiştir? *(2 kez soruldu)*
-    - **Cevap A-) Usumi**
-    - B-) Anzu
-    - C-) Ningirsu
-    - D-) Enlil
-    - E-) Enkidu
-
-    > **Açıklama:** Ünite 4'teki Sumer Panteonu listesinde Usumi, 'Sumerlerin ikiyüzlü tanrısı' olarak belirtilmiştir. Ayrıca, Kültepe'de bulunan Anadolu grubundaki mühür baskılarının tapınım sahnelerinde ve tanrı alaylarında görüldüğü, hatta Roma'ya kadar girmiş olduğu bilgisi mevcuttur (İki yüzlü olarak tasvir edilen tanrı).
 
     <hr />
 
@@ -1417,19 +1303,6 @@
 
     <hr />
 
-### Eski Türk İnançları Kültler
-
-1. Türk kültüründe ölmüş veya yaşlı büyüklere saygıyı esas alan külte ne ad verilir?
-    - **Cevap A-) Atalar kültü**
-    - B-) Doğa Güçleri Kültü
-    - C-) Tabiat Kültü
-    - D-) Toprak Kültü
-    - E-) Gök Tanrı kültü
-
-    > **Açıklama:** Ünite 6'da Eski Türk İnançları başlığı altında, 'Türk kültüründe ölmüş veya yaşlı büyüklere saygıyı esas alan "atalar kültü" geçmişten günümüze önemini korumaktadır.' şeklinde bilgi verilmiştir. Dolayısıyla, atalar kültü, ölmüş ve yaşlı büyüklere saygıyı esas alan kültün adıdır.
-
-    <hr />
-
 ### Türk Koruyucu Ruhlar
 
 1. Aşağıdakilerden hangisi "Yeni doğanların koruyucu tanrısı" olarak bilinen kutsal ruhlardandır. Çocuğu olmayanlara çocuk vermesi için dua edilen, bulutlara telkinde bulunan, güzelliğin sembolü olan bir ruhtur. Bazen beyaz saçlı, beyaz kıyafetli bir insan, bazen de kuş şeklinde tasvir edilmiştir. Bu görünüş onu kanatlı olarak algılanmasına yol açmıştır." olarak tanımlanan kutsal ruhtur?
@@ -1738,16 +1611,6 @@
     > **Açıklama:** Ünite 7'deki Budizm bölümünde, Budist inananlar topluluğunun tümünün anlatımı için kullanılan ifadenin 'Sanga' olduğu ve bunun İslam'daki 'ümmet' kavramına benzediği belirtilmiştir. Sanga, Vinaya Pitaka'da da bahsedilen disiplinler sepetinin temelini oluşturur.
 
     <hr />
-1. Budist inananlar topluluğunun tümünü ifade etmek için kullanılan ifade aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Pitaka
-    - **Cevap B-) Sanga**
-    - C-) Darma
-    - D-) Vinaya
-    - E-) Sutta
-
-    > **Açıklama:** Ünite 7'deki Budizm bölümünde, Budist inananlar topluluğunun tümünün anlatımı için kullanılan ifadenin 'Sanga' olduğu ve bunun İslam'daki 'ümmet' kavramına benzediği belirtilmiştir.
-
-    <hr />
 
 ### Cayinizm Kutsal Metinleri
 
@@ -1961,19 +1824,6 @@
 
     <hr />
 
-### Uzak Doğu Dinleri: Sihizm
-
-1. Hindistan'da 16. yüzyılda ortaya çıkan, Hinduizm ile İslam inancının karışımı ile oluşmuş dine ne ad verilir?
-    - A-) Konfüçyanizm
-    - B-) Şintoizm
-    - C-) Nihongizm
-    - D-) Taoizm
-    - **Cevap E-) Sihizm**
-
-    > **Açıklama:** Ünite 7'de, 'Hindistan'da 16. yüzyılda ortaya çıkan Sihizm, Hinduizm ile İslam inancının karışımı ile oluşmuş bir dindir.' şeklinde bilgi verilmiştir.
-
-    <hr />
-
 ### Çin Taoizmi
 
 1. Çin tarihi ve kültürünün MO 6. yüzyılda sözlenmesi ile oluşum dinidir. Yüce Tanrı olarak "Tien" görülür. "Atalar Kültü" hakimdir. Kutsal metinleri "beş klasik" ve "dört kitap"tır. Sosyal İlişkiler ve Ahlaki esasların ağırlıklı olduğu bu din aşağıdakilerden hangisidir?
@@ -1984,19 +1834,6 @@
     - E-) Budizm
 
     > **Açıklama:** Taoizm, Lao-Tzu tarafından MÖ 6. yüzyılda kurulan, tabiatla ilgili çok güçlü eğilimlere sahip bir Çin inancıdır. Tanrı anlayışı panteisttir (Tanrı her şeydir ve her şey Tanrı'dır), yüce tanrıya 'Tao' denir. Kutsal kitabı 'Tao-te-King'dir. Ahlaki esaslar ve sosyal ilişkiler önemlidir.
-
-    <hr />
-
-### Şintoizm Kutsal Metinler
-
-1. Kojiki ve Nihongi hangi inancın kutsal metinleridir? *(2 kez soruldu)*
-    - **Cevap A-) Şintoizm**
-    - B-) Konfüçyanizm
-    - C-) Taoizm
-    - D-) Budizm
-    - E-) Hinduizm
-
-    > **Açıklama:** Ünite 7'de Şintoizm'in Kutsal Metinleri başlığı altında, Kojiki'nin 'Dünyanın yaratılışından 628 yılına kadarki Japonya'nın tarihinin anlatıldığı eser' olduğu ve Nihongi'nin ise 'bir nevi Kojiki'nin yorumu' olduğu belirtilmiştir. Bu metinler Şintoizm'e aittir.
 
     <hr />
 
@@ -2142,19 +1979,6 @@
 
     <hr />
 
-### Yahudilik Kutsal Toprak
-
-1. Günümüzde batı duvarı kalıntılarına Ağlama Duvarı denilen Süleyman Mabedi (Bet-Hamikdaş) aşağıdaki şehirlerin hangisinde inşa edilmiştir? *(2 kez soruldu)*
-    - A-) Medine
-    - B-) Halep
-    - C-) Şam
-    - **Cevap D-) Kudüs**
-    - E-) Mekke
-
-    > **Açıklama:** Ünite 8'deki Yahudilik bölümüne göre, Süleyman Mabedi (Bet-Hamikdaş), Kudüs'te inşa edilmiştir. Hz. Davut'un kurduğu krallık döneminde önem kazanmış ve Hz. Süleyman döneminde tamamlanmıştır.
-
-    <hr />
-
 ### Yahudilik Tanrı Anlayışı
 
 1. Din hususunda "Her şey bizim bilgimiz üstüne çıkan kudretin tezahürü" diyen düşünür kimdir?
@@ -2214,19 +2038,6 @@
     - **Cevap E-) Hz. Yakub**
 
     > **Açıklama:** Ünite 8'deki Yahudilik Tarihçesi bölümünde, 'Tevrat'a göre Yahudilerin nesli İshak'tan itibaren oğlu Yakub ile devam etmiştir.' bilgisi yer almaktadır. Dolayısıyla boşluğu 'Yakub' kelimesi tamamlamalıdır.
-
-    <hr />
-
-### Yahudiliğin Kutsal Metinleri
-
-1. Yahudilerin 39 metinin bulunduğu kutsal kitabına adı verilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar? *(2 kez soruldu)*
-    - A-) Tevrat
-    - **Cevap B-) Tanah**
-    - C-) Yeni Ahit
-    - D-) Zebur
-    - E-) Tora
-
-    > **Açıklama:** Ünite 8'deki Yahudiliğin Kutsal Metinleri başlığı altında, 'Yahudiliğin Tanrı tarafından Tur dağında Hz. Musa'ya verilen On Emir'in bulunduğu levhalar ile Hz. Musa'nın bir araya getirdiği vahiylerin bulunduğu ahit sandığı Sina çölünde iken ibadet çadırının bir köşesinde ayrı bir bölümde korunmuştur. Hristiyanlar kutsal kitabı "Kitabı Mukaddes" olarak isimlendirilir. Kitabı Mukaddes Yahudilerin Tanah dedikleri Hristiyanların eski ahit olarak isimlendirdikleri 39 kitap ile...' denilmektedir. Yani kutsal kitap 39 metin içerir ve Hristiyanlar bu kısmı Eski Ahit olarak adlandırır.
 
     <hr />
 

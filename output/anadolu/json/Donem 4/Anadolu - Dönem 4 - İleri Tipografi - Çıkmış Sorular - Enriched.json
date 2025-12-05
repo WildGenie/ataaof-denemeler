@@ -416,7 +416,8 @@
             "explanation": "Üç boyutlu tipografinin kullanım alanları Bilgilendirme, Mimari İmge, Gösteri-Reklam, Yer İmi, Sanat-Tasarım ve Oyun amaçlı-obje çıkışlı olarak listelenmiştir (Ünite 1). Kinetik tipografi (hareketli tipografi), Ünite 3'ün konusudur ve üç boyutlu tipografinin spesifik bir kullanım alanı olarak listelenmemiştir.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 22,
@@ -457,7 +458,8 @@
             "explanation": "Lissitzky, kübizm ve fütürizmdeki ortak özellikleri görüp 'kübo-fütürizm' terimini türetmiştir ve Mayakovski'nin şiir kitabı için yaptığı tasarımları asimetrik, dinamik ancak yapısal olarak ilişkili bir tipografi örneğidir. Kübo-fütürizm, Rus avangardı içerisinde yer alır ve modernizm akımları altında gelişmiştir (Ünite 2).",
             "is_duplicate": true,
             "duplicate_of": 2,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 24,
@@ -578,7 +580,8 @@
             "explanation": "Görme sürekliliği teorisiyle sinemada hareketli tipografi başlamıştır. Georges Méliès'in 'La Voyage Dans La Lune' filmi (1902) ile yazıyı hareketlendiren ilk örneklere imza atılmıştır. Stop motion tekniği kullanılmıştır (Ünite 3).",
             "is_duplicate": true,
             "duplicate_of": 5,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 30,
@@ -840,7 +843,8 @@
             "explanation": "Şehir dokusu içinde yer alan, bulundukları yer ile özdeşleşen ve özgün bir hava yaratan saat kulesi, heykeller gibi yer imi olarak kullanılan üç boyutlu tipografik düzenlemelere yer imi amaçlı üç boyutlu tipografi denir. \"I amsterdam\" ve \"I love eskişehir\" örnekleri bu kategoriye girer.",
             "is_duplicate": true,
             "duplicate_of": 22,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 43,
@@ -860,8 +864,9 @@
             "topic": "Üç Boyutlu Tipografi Alanları",
             "explanation": "Üç boyutlu tipografinin kullanım alanları; Bilgilendirme amaçlı, mimari imge olarak, gösteri-reklam amaçlı, yer imi amaçlı, sanat-tasarım amaçlı ve oyun amaçlı-obje çıkışlı olarak sınıflandırılmıştır. Kinetik tipografi (Hareketli Tipografi), Ünite 3'te işlenen Hareket Temelli Deneysel Tipografi başlığı altında yer alır ve üç boyutlu tipografinin temel sınıflandırma başlıkları içinde doğrudan sayılmaz.",
             "is_duplicate": true,
-            "duplicate_of": 1,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 21,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 44,
@@ -922,7 +927,8 @@
             "explanation": "Bakış açısına göre değişen (Anamorfik) üç boyutlu tipografi, boyut kazandırma işini farklı açılardan okutması anlamında en çekici örneklere sahiptir ve harflerin biçimleriyle görsel bir malzeme hâline dönüşerek anlamı desteklemesi esasına dayanır.",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 47,
@@ -943,7 +949,8 @@
             "explanation": "Hareket temelli deneysel tipografi çalışmaları, film/dizi jenerikleri, müzik klipleri ve hareketli grafik tasarımlarında görülür. Bu yaklaşım, odak noktasına 'hareket'i koyar ve kinetik tipografi ile yakından ilişkilidir.",
             "is_duplicate": true,
             "duplicate_of": 27,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 48,
@@ -1024,7 +1031,8 @@
             "explanation": "Ünite 3'te, hareketli tipografinin bileşenleri; biçimsel, kompozisyonel, sinematografik ve animatik özellikler olarak incelenmiştir. Biçimsel özellikler arasında Yazı Karakteri Seçimi, Yazı Boyutu ve x-yüksekliği, Duruş (Postür), Ağırlık ve Genişlik bulunmaktadır. Hiyerarşi ise kompozisyonel özellikler (Odak Noktası ve Hiyerarşi) altında ele alınır; bu, hareketli tipografinin 'biçimsel' bir özelliği olarak doğrudan listelenmemiştir (D şıkkı kompozisyonel bir konudur, biçimsel değil).",
             "is_duplicate": true,
             "duplicate_of": 36,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 52,
@@ -1045,7 +1053,8 @@
             "explanation": "Animasyonda hareketin temelini oluşturan ilkelerden biri olan Zamanlama (Timing), hareketin ne kadar sürede gerçekleşeceğini belirler. Bu ilke, hareketli tipografi uygulamalarında da önemlidir ve hareketin algılanmasında kritik rol oynar.",
             "is_duplicate": true,
             "duplicate_of": 6,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 53,
@@ -1064,8 +1073,10 @@
             "UniteNo": 3,
             "topic": "Ekran Boyutları ve Çözünürlük",
             "explanation": "Ekranın çözünürlüğü, hem yatay hem de dikey olarak görüntülenen resim ögelerinin (piksel veya basit noktalar) sayısını ifade eder. Bu, ekran üzerindeki tipografinin keskinliğini veya netliğini belirleyen temel teknolojik özelliktir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 35,
+            "similarity_score": 0.9938710331916809
         },
         {
             "id": 54,
@@ -1106,7 +1117,8 @@
             "explanation": "Kadraj (alanın dikey ve yatay olarak üçe bölünmesi ve kesişim noktalarının referans alınması), Kamera Hareketleri (pan, tilt, dolly, roll vb.) ve Kurgu (sekansların ardışık yerleştirilmesiyle anlam oluşturma) kavramları, hareketli tipografiyi oluşturan sinematografik özellikleri belirler.",
             "is_duplicate": true,
             "duplicate_of": 32,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 56,
@@ -1187,7 +1199,8 @@
             "explanation": "Grafitiler, yazı ve sanatı birleştiren, sokak sanatının önemli bir parçası olan ve anarşist bir eylem olarak da görülebilen bir formdur. Graffiti'de şablon tekniği sıklıkla kullanılır ve bu da tipografik ögelerin kullanımını içerir.",
             "is_duplicate": true,
             "duplicate_of": 8,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 60,
@@ -1306,8 +1319,10 @@
             "UniteNo": 5,
             "topic": "Yazı Karakteri Temel Terimleri",
             "explanation": "Ünite 5'te, 'Yazı Karakteri (Typeface)' terimi, alfabenin özgün bir tasarımını tanımlamak için kullanılan terim olarak geçmektedir. Bu, belirli bir stil ve görünüme sahip harf setinin temelini oluşturur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 12,
+            "similarity_score": 0.9825308322906494
         },
         {
             "id": 66,
@@ -1468,7 +1483,8 @@
             "explanation": "Viyana Sesesyonu döneminin mimarlarından Otto Wagner, 1902 yılında tasarladığı \"Die Zeit\" telgraf bürosu ile tabela tasarımında yeni bir anlayış ortaya koymuştur. Ünite 6'da, Wagner'in büronun ön cephesini yapı ve tipografik ögeleri birlikte ele alarak tasarladığı ve yerleştirdiği belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 13,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 74,
@@ -1569,7 +1585,8 @@
             "explanation": "Vernaküler kavramı ilk olarak mimarlık alanında kullanılmıştır. Ünite 8'de, bu kavramın başlangıçta mimari alanda kullanıldığı, sonradan tasarım dahil birçok disipline yayıldığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 20,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 79,
@@ -1630,7 +1647,8 @@
             "explanation": "Oluşturma Yöntemlerine göre üç boyutlu tipografi; Çeşitli nesneler kullanılarak, kesip çıkarma yöntemiyle, ışık-gölge kullanılarak, hazır malzemelerden, bakış açısına göre değişen (Anamorfik), tipografik heykel olarak ve var olan bir mekânı kullanarak oluşturulan tipografi olarak sınıflandırılmıştır (Ünite 1). Kinetik tipografi, bir oluşturma yöntemi değil, hareket temelli bir kategoridir.",
             "is_duplicate": true,
             "duplicate_of": 24,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 82,
@@ -1650,8 +1668,9 @@
             "topic": "Deneysel Tipografi Tarihi",
             "explanation": "Lissitzky'nin Mayakovski için yaptığı tasarımlar, kübo-fütürizmün temsilcisi olduğu bir dönemde, kübizm ve fütürizmin ortak özelliklerini taşıyan asimetrik ve dinamik bir tipografik anlayış sergiler. Bu tasarım, Rus avangardının bir parçasıdır ve kübizm ile fütürizmin birleşiminden doğan Kübo-Fütürizm akımı içerisinde yer alır. (Metin 2. Sayfada)",
             "is_duplicate": true,
-            "duplicate_of": 2,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 23,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 83,
@@ -1671,8 +1690,9 @@
             "topic": "Hareketli Tipografi Tarihi",
             "explanation": "Hareketli tipografinin tarihsel gelişiminde, ilk hareketli logoların analog televizyonlarda yer aldığı, ancak sinemanın, televizyonun sayısal ortama taşınmasıyla daha da geliştiği belirtilmiştir. Georges Méliès'in 1902 tarihli 'La Voyage Dans La Lune' filmi deneysel yöntemlerle yazıyı hareketlendiren ilk örneklerden biri olarak gösterilir. Ancak, sinema, hareketli tipografinin serüveninin başladığı ilk mecradır (kâğıt ve perdeyi takiben). (Metin 1. Sayfada)",
             "is_duplicate": true,
-            "duplicate_of": 5,
-            "original_source": "Yaz Okulu 2022-2023"
+            "duplicate_of": 29,
+            "original_source": "Yaz Okulu 2022-2023",
+            "similarity_score": 1.0
         },
         {
             "id": 84,
@@ -1833,7 +1853,8 @@
             "explanation": "Hector Guimard'ın tasarımları Art Nouveau akımının bir parçasıdır. Bu akım, 19. yüzyıl sonlarında Paris'te başlayan ve mimaride tipografi ve görsel tasarımın bütünsel olarak ele alındığı bir harekettir. Guimard'ın Paris Metrosu girişleri, mimari ile tipografinin buluşmasının önemli bir örneğidir ve metinde Art Nouveau'nun bu alandaki etkisinden bahsedilmiştir (Ünite 6).",
             "is_duplicate": true,
             "duplicate_of": 70,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 92,
@@ -1994,7 +2015,8 @@
             "explanation": "Ünite 8'de, Postmodernizm'in modernizme karşıt olarak parodi, pastiş ve önceki görsel biçimlerin ironik bir şekilde geri dönüşünü çoğalttığı belirtilir. Retro (D), geçmiş üslupları temel alan veya onlara gönderme yapan estetik yaklaşımları kapsar ve Postmodern estetiğin popüler bileşenlerinden biridir.",
             "is_duplicate": true,
             "duplicate_of": 76,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 100,
@@ -2015,7 +2037,8 @@
             "explanation": "Ünite 8'de, New York'ta ortaya çıkan eklektik retro yaklaşımın, Viktorya Dönemi, Art Nouveau ve Art Deco biçimlerini ilham kaynağı olarak kullandığı ve bu üslupların vernakülere olan ilginin bir sonucu olduğu belirtilir. Milton Glaser ve Seymour Chwast'ın kurduğu Push Pin Studio'nun tasarım stratejisi, bu retro ve vernaküler yaklaşımları birleştirerek bilinçli pastiş kullanımıyla postmodernizmin öncüsü olmuştur.",
             "is_duplicate": true,
             "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         }
     ]
 }

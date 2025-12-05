@@ -203,19 +203,6 @@
 
     <hr />
 
-### Mantık Çıkarım Kuralları
-
-1. P veya Q<br />Değil-P<br />Öyleyse, Q<br />Yukarıdaki akıl yürütme formuna ne ad verilir? *(2 kez soruldu)*
-    - A-) Modus Tollens
-    - B-) Önbileşenin Değillenmesi
-    - **Cevap C-) Modus Tollendo Ponens**
-    - D-) Artbileşenin Evetlenmesi
-    - E-) Modus Ponens
-
-    > **Açıklama:** Verilen form (P veya Q, Değil-P, Öyleyse Q), Modus Tollendo Ponens (Ayrık Yüklemli Kıyas) kuralıdır. Ünite 2'de bu kural şu şekilde ifade edilmiştir: "Modus Tollendo Ponens: Bu çıkarım kuralı aşağıdaki formla gösterilir: P veya Q, Değil-P, Öyleyse, Q."
-
-    <hr />
-
 ### Mantıksal çıkarım kuralları
 
 1. Yukarıdaki akıl yürütme formuna ne ad verilir?
@@ -604,19 +591,6 @@
     - **Cevap E-) Beethoven**
 
     > **Açıklama:** Ünite 4'te Beethoven'ın, ilk yapıtlarından itibaren alışıldık modelleri, ilişkileri ve kalıpları tekrarlamak yerine, her yapıtında yeni bir tasarımın peşinden gittiği ve yaratıcılığı temel ölçüt olarak benimsediği belirtilmiştir. Ayrıca Beethoven'ın her bir senfonisini öncekinin aşılması üzerine kurduğu ve önceki çözümleri tekrarlamadığı, bu yüzden sadece 9 senfoni bestelediği ifade edilmiştir.
-
-    <hr />
-
-### Besteci İdeolojisi
-
-1. "Para, alkış falan gözümde yok. Öyle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile." Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir? *(3 kez soruldu)*
-    - A-) Cemal Reşit Rey
-    - B-) Fazıl Say
-    - C-) Ulvi Cemal Erkin
-    - D-) Ahmet Adnan Saygun
-    - **Cevap E-) İlhan Usmanbaş**
-
-    > **Açıklama:** Verilen sözler, sanatın toplumsal düzeni bozma, şaşırtma ve yeni ifade yolları arama amacını vurgulamaktadır. Bu, 20. yüzyıl başındaki Avangart akımların ve ilerlemeci bestecilerin (Liszt, Wagner çizgisindeki) yaklaşımıyla örtüşmektedir. Özellikle, "bir müzik yapıtı çoğu zaman besteci-icracı arasındaki etkileşimle doğar. Benzer şekilde bir tiyatro oyunu da yazar-oyuncu etkileşimiyle şekillenir" bağlamında, yenilikçi ve sınırları aşan bir tavrı sergileyen besteciye işaret edilmektedir. Bu türden radikal yenilikçi ve toplumsal eleştiri içeren yaklaşımlar, Ünite 4'te özellikle Debussy'nin de bahsedildiği, geleneksel müziğin kalıplarını aşma çabasıyla paraleldir; ancak bu tarz isyankar bir manifestoya en yakın olanlar genellikle Avangartlardır. Verilen metinlerde, bu tarz radikal ifadelerin tam olarak hangi besteciye atfedildiğine dair kesin bir bilgi olmamakla birlikte, 20. yüzyılda tonaliteyi aşma eğilimi gösteren (Ünite 4, Sayfa 5: "Tonaliteden Atonaliteye") ve yenilikçi tavrıyla tanınan besteciler bu ruh halini yansıtır. Ancak, Türk bestecileriyle ilgili spesifik bir alıntı sorulduğunda ve Avangartlar bağlamında değerlendirildiğinde, bu tür isyankar ifadeler, bestecinin toplumsal/etik konulardaki eleştirel duruşunu gösterir. Genellikle bu tarz radikal ifadeler, modern dönem bestecilerinin (Ünite 4, Sayfa 4'te geçen Avangartlar) manifestolarında yer alır. Kaynaklarda bu sözlerin Igor Stravinsky veya Paul Hindemith gibi Batılı bestecilere atfedilen Avangart düşünce tarzıyla uyumlu olduğu görülür. Ancak, verilen özetlerde doğrudan bu cümlenin kime ait olduğu belirtilmemiştir. Eğer bu, bir Türk bestecisi sorusu ise, Ünite 4'te bahsedilen Türk bestecileri (örneğin Ulvi Cemal Erkin, Necil Kazım Akses vb.) bağlamında değerlendirilmelidir. Ancak verilen metinde Türk bestecileri hakkında bu tarz spesifik ve radikal bir alıntıya rastlanmamaktadır. Metinde, 19. yüzyılda bestecilerin sanatsal yaratıcılığını ispatlama çabasından bahsedilmektedir (Ünite 4, Sayfa 3). Bu tarz radikal söylemler genellikle 20. yüzyıl Avangart müziğiyle ilişkilendirilir. Eğer bu soru, müfredattaki bir özel bilgiye dayanıyorsa, verilen metinler arasında direkt bir eşleşme yoktur. Ancak, Ünite 4'teki 'Rönesans'tan 19. Yüzyıla Uzanan Süreçte Tiyatro'da' anlatılan (bestecinin/yazarın toplumsal düzene karşı duruşu) ruh haliyle en uyumlu olan, avangartların estetik tavrıdır. Verilen ünite metinlerinde, bu sözlerin genellikle Batı'da avangart bestecilere atfedilen bir düşünce yapısını yansıttığı kabul edilir. Verilen kaynak materyal, bu spesifik Türk bestecisi sorusuna doğrudan yanıt vermemektedir, ancak genel olarak 20. yüzyılın yenilikçi bestecilerinin estetik tavrını yansıtır. Türk bestecileri arasında, modern müziğin ilk kuşağının (örneğin Cemal Reşit Rey, Ulvi Cemal Erkin) erken dönemlerinde Batı'daki modern akımların etkisiyle benzer bir isyan ruhu taşıyan yaklaşımları mevcuttu. Bu sorunun doğru yanıtı, genellikle bu tarz radikal ifadeleriyle tanınan bir besteciye aittir. Kaynaklarda bu sözler genellikle, yenilikçi Türk bestecilerinden birine atfedilir. Genellikle bu türden isyankar ifadelerin, Türk müziğinde batılılaşma çabalarının en radikal olduğu dönemlerde öne çıkan bestecilere atfedildiği bilinir. Verilen ünite metinleri, Türk besteciler hakkında bu kadar spesifik bir alıntı sunmamaktadır. Ancak, eğer bu soru içeriğin bağlamına dayanarak (Avangart estetik, sınırları aşma) sorulmuşsa, bu tavır, Türk modern müziğinin yenilikçi kanadına aittir. (Bu sorunun cevabı, verilen metinlerde net bir şekilde yer almamaktadır, ancak bağlamı 4. Ünite'nin yenilikçi/avangart bestecilik ruhuna dayanmaktadır.)
 
     <hr />
 

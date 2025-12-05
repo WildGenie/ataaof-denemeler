@@ -67,33 +67,7 @@
 
     <hr />
 
-### İlk Fotoğraf Kaydı
-
-1. 1826 yılında Fransız Joseph Nicephore Niepce, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir. Yukarıdaki bilgiye göre, Niepce'nin ilk fotoğrafları aynı zamanda hangi isimle adlandırılır?
-    - A-) Gerçek imaj
-    - B-) Fotoğraf
-    - C-) Latent imaj
-    - **Cevap D-) Helyograf**
-    - E-) Dagerotip
-
-    > **Açıklama:** Ünite 1'de, "1826 yılında Fransız Joseph Nicephore Niepce, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir ve aynı zamanda helyograf olarak adlandırılır." bilgisi yer almaktadır. Bu bilgiye göre, Niepce'nin ilk fotoğrafı aynı zamanda helyograf olarak adlandırılır. Bu nedenle doğru cevap D şıkkıdır.
-
-    <hr />
-
 ## Ünite 2
-
-### Aydınlatma Yönleri
-
-1. Gölgelerin, nesnelerin arkasına düştüğü aydınlatma türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) Ters Işık
-    - B-) Alttan aydınlatma
-    - **Cevap C-) Ön aydınlatma**
-    - D-) Dengeli aydınlatma
-    - E-) Yan Işık
-
-    > **Açıklama:** Ön aydınlatma (cephe aydınlatması) fotoğrafçının arkasına güneşi alarak yaptığı çekimlerde gölgelerin nesnelerin arkasına düşmesi durumunu ifade eder. (Ünite 2, Yönlere Göre Işık Kullanımı başlığı altında açıklanmıştır).
-
-    <hr />
 
 ### Cephe Aydınlatması
 
@@ -225,32 +199,6 @@
 
     <hr />
 
-### Kontrast Azaltıcı Filtreler
-
-1. Aşağıdakilerden hangisi gün ışığında kontrastlığı yumuşatmak amacı ile kullanılan filtrelerden biridir? *(2 kez soruldu)*
-    - A-) Koyu sarı filtre
-    - B-) Açık sarı filtre
-    - **Cevap C-) Mavi filtre**
-    - D-) Kırımızı filtre
-    - E-) Turuncu filtre
-
-    > **Açıklama:** Mavi filtreler, kontrast azaltıcı filtrelerdendir ve genellikle gün ışığı ortamında yapılan çekimlerde genel kontrastlığı yumuşatmak için kullanılır (Ünite 2 özetinde Mavi Filtre'nin tanımı bu şekildedir).
-
-    <hr />
-
-### Kontrast Tanımı
-
-1. En açıktan en koyu tona geçinceye kadar bir film ya da fotoğraf kağıdında ara gri tonlarının varlığı ya da yokluğuna ne ad verilir? *(2 kez soruldu)*
-    - A-) Filtre
-    - **Cevap B-) Kontrast**
-    - C-) Kâğıt ara katmanı
-    - D-) Polietilen
-    - E-) Koruyucu
-
-    > **Açıklama:** Ünite 2'de Kontrast başlığı altında, 'Kontrast, zıtlık anlamını taşıyan bir kelimedir. Fotoğrafçılıkta sıkça kullanılan kontrast, fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmaktadır.' bilgisi yer almaktadır. Ara gri tonların varlığı ya da yokluğu, bu en açık ve en koyu tonların arasındaki farkı (kontrastı) belirler. B şıkkı doğrudur.
-
-    <hr />
-
 ### Kontrastlık Tanımı
 
 1. Fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmak için hangi kullanılan kavram aşağıdakilerden hangisidir?
@@ -316,32 +264,6 @@
 
     <hr />
 
-### Renk Isısı ve Kelvin
-
-1. Aydınlatma kaynaklarının ortaya çıkardığı renk ısıları aşağıdaki değerlerden hangisiyle ifade edilir? *(4 kez soruldu)*
-    - A-) Stop
-    - **Cevap B-) Kelvin**
-    - C-) F değeri
-    - D-) Doygunluk
-    - E-) Kontrast
-
-    > **Açıklama:** Rengin Isısı, aydınlatma kaynaklarının ortaya çıkardığı renklerdir ve Kelvin değeri olarak ifade edilir (Ünite 2 özetinde belirtilmiştir). Diğer şıklar (Stop, F değeri, Doygunluk, Kontrast) ışık/renk ile ilgili farklı parametrelerdir.
-
-    <hr />
-
-### Renk Isısı Ölçü Birimi
-
-1. Aşağıdakilerden hangisi renk ısısı ölçü birimi olarak kullanılır? *(3 kez soruldu)*
-    - A-) Santigrad
-    - **Cevap B-) Kelvin**
-    - C-) Celsius
-    - D-) Watt
-    - E-) Fahrenheit
-
-    > **Açıklama:** Ünite 2'de Işığın Rengi başlığı altında, "Renk ısısı, aydınlatma kaynaklarının ortaya çıkardığı renklerdir. Kelvin değeri olarak ifade edilir." bilgisi yer almaktadır. Bu, renk ısısının ölçü biriminin Kelvin olduğunu gösterir. Bu nedenle doğru cevap B şıkkıdır.
-
-    <hr />
-
 ### Renk Kontrastı
 
 1. Renklerin ilişkisine dair bulgular ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
@@ -394,19 +316,6 @@
 
     <hr />
 
-### Resimsel Renk
-
-1. Fotoğrafta renk kullanımı temel gurubunda yer alan, tablo gibi renklendirmeyi anımsatan ve resimsel kompozisyonu ifade eden düzenleme aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Tarihsel renk
-    - B-) Düzenleyici renk
-    - C-) Sembolik renk
-    - **Cevap D-) Resimsel renk**
-    - E-) Psikolojik renk
-
-    > **Açıklama:** Ünite 2'de 'Fotoğrafta Renk' altında, renklerin kullanım amaçları sayılırken, 'Resimsel ışık ise dramatik ışığa karşılık gelmektedir. Resimsel ışığın türleri ise; chiaroscuro (ışık ve gölge), yumuşak ışık, boyasal ışık, gün ışığı ve dramatik etki ve gölge şeklinde sıralanabilir.' ifadesi yer almaktadır. Ancak, Ünite 4'te daha detaylı bir sıralama mevcuttur: 'Fotoğrafta renk; resimsel renk, tarihsel renk, sembolik renk ve psikolojik renk şeklinde kullanılmaktadır.' Soru, renk türlerinden 'Resimsel renk'i kastetmektedir. Ünite 2'nin ilgili bölümünde Dramatik Etki ile ilişkilendirilen 'resimsel ışık' türlerinden bahsedilmiştir. Resimsel renk, tablo gibi renklendirmeyi ve kompozisyonu ifade eden düzenleme ile ilgilidir. Bu nedenle doğru cevap D şıkkıdır.
-
-    <hr />
-
 ### Soğuk Renkler
 
 1. Aşağıdakilerden hangisi soğuk renklerden biridir?
@@ -446,19 +355,6 @@
 
     <hr />
 
-### Ters Aydınlatma ve Siluet
-
-1. Siluet çekimlerinde sıklıkla kullanılan ve kontrastı en yüksek olan aydınlatma türü hangisidir?
-    - A-) Cephe Aydınlatma
-    - B-) Alt Aydınlatma
-    - **Cevap C-) Ters Aydınlatma**
-    - D-) Tepe Aydınlatma
-    - E-) Yanal Aydınlatma
-
-    > **Açıklama:** Ünite 2'de Arka aydınlatma (Ters ışık) tanımında, "Bu durum gölgelerin yönü ile ilgilidir. Kameranın tam karşısından gelen ışık nesnelerin arkasını aydınlattığı için gölgeler kameranın gördüğü ön kısımda kalır. Bu nedenle arka aydınlatma ile güçlü siluetler ve lekeler oluşturulabilir." denilmektedir. Siluet çekimleri, arka/ters aydınlatma ile ilişkilidir ve en yüksek kontrastı (gölge ve ışık ayrımı) sağlayan türlerdendir. Bu nedenle doğru cevap C şıkkıdır.
-
-    <hr />
-
 ## Ünite 3
 
 ### Diyafram Gösterimi
@@ -487,19 +383,6 @@
 
     <hr />
 
-### Enstantane Tanımı
-
-1. Dijital veya analog fotoğraf makinelerinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzeneğe enstantane (örtücü) denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) vizör (bakaç)
-    - **Cevap B-) enstantane (örtücü)**
-    - C-) deklanşör
-    - D-) flash
-    - E-) diyafram
-
-    > **Açıklama:** Enstantane (örtücü), fotoğraf makinelerinde, objektif içinden geçen ışınları kesmeye yarayan ve ışığın algılayıcı yüzeyde kalma süresini kontrol eden düzeneğe denir. (Ünite 3, Fotoğraf Makinesinin Ana Elemanları başlığı altında açıklanmıştır).
-
-    <hr />
-
 ### Hareket Dondurma Tekniği
 
 1. Hareketli konuların bilinçli bir şekilde net olmayan ve bulanık fotoğrafları çekilmek istendiğinde aşağıdakilerden hangisinin yapılması gerekir?
@@ -523,19 +406,6 @@
     - E-) Deklanşör kablosu
 
     > **Açıklama:** Pozometre (ışık ölçer), konuya yansıyan ışığı ölçerek diyafram ve enstantane cinsinden karşılığını verir ve doğru pozlama ayarı yapılmasını sağlar. Harici ve dahilî tipleri bulunur (Ünite 3 özetinde Pozometre'nin tanımı yapılmıştır).
-
-    <hr />
-
-### Kamera Elemanları
-
-1. Dijital veya analog fotoğraf makinelerinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzeneğe ---------- denir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) vizör (bakaç)
-    - **Cevap B-) enstantane (örtücü)**
-    - C-) deklanşör
-    - D-) diyafram
-    - E-) flash
-
-    > **Açıklama:** Ünite 3'te açıklandığı üzere, enstantane (örtücü), fotoğraf makinelerinde üçüncü temel eleman olup, objektif içinden geçen ışınları kesmeye yarayan ve ışığın algılayıcı yüzeyde kalma süresini kontrol eden düzeneğin adıdır.
 
     <hr />
 
@@ -624,32 +494,6 @@
     - E-) Genel Değerlendirmeli Matrix Ölçüm
 
     > **Açıklama:** Ünite 3'te pozometre başlığı altında, 'Ortalama Ölçüm' modunun 'Manzara modu deniz, doğa ve geniş manzaralarda çok iyi sonuçlar verecektir.' ifadesi ile ilişkilendirilebileceği ima edilmektedir, ancak doğrudan 'manzara için ortalama ölçüm' denmez. Ancak, Ünite 8'de 'Çoğunlukla manzara ve topluluk fotoğrafları için kullanılan pozometre ölçüm modu Ortalama Ölçüm'dür.' ifadesi yer alır. Genel olarak ortalama ölçüm (Averaging Metering) geniş alanları ölçmek için kullanılır.
-
-    <hr />
-
-### Pozometre İşlevi
-
-1. Pozometre ya da diğer adıyla ışık ölçerin işlevi aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) Işığın sıcaklığını ölçmek
-    - B-) Işığın açısını azaltmak
-    - **Cevap C-) Işık miktarının şiddetini ölçmek**
-    - D-) Flaş ışığının şiddetini bulmak
-    - E-) Işığın rengini ölçmek
-
-    > **Açıklama:** Pozometre (Işıkölçer), konuya düşen ışığı ölçerek, diyafram ve enstantane değerleri olarak fotoğraf makinesine bilgi verir. Temel işlevi ışık miktarının şiddetini ölçmektir. (Ünite 3, Fotoğraf Makinesi Ekipmanları başlığı altında açıklanmıştır).
-
-    <hr />
-
-### Temel Fotoğraf Elemanları
-
-1. Dijital veya analog fotoğraf makinelerinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzeneğe \_\_\_\_\_\_ denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) diyafram
-    - **Cevap B-) enstantane (örtücü)**
-    - C-) flash
-    - D-) pozometre
-    - E-) vizör (bakaç)
-
-    > **Açıklama:** Boş bırakılan yer, objektif içinden geçen ışınları kesmeye yarayan düzenektir. Ünite 3'te 'Enstantane (örtücü): Fotoğraf makinelerinin üçüncü temel olan elemanlarındandır. Dijital veya analog her fotoğraf makinesinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzenektir' şeklinde tanımlanmıştır. Bu nedenle B şıkkı doğrudur.
 
     <hr />
 
@@ -964,16 +808,6 @@
     > **Açıklama:** Ünite 4'te, çizginin iki noktayı bir birine bağlayan doğru parçası olduğu, fotoğrafik anlatımda ilk anlatım elemanı olduğu ve ifadenin temeli, başlangıcı, denge unsuru olduğu açıkça belirtilmiştir.
 
     <hr />
-1. İki noktayı bir birine bağlayan doğru olarak tanımlanan ve fotoğrafik bir anlatımda ilk anlatım elemanı olarak bilinen yapısal öge aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Çizgi**
-    - B-) Ritim
-    - C-) Leke
-    - D-) Boşluk
-    - E-) Işık
-
-    > **Açıklama:** Ünite 4'te Çizgi başlığı altında, "Çizgi: İki noktayı bir birine bağlayan doğru parçasıdır. Çizgi, fotografik anlatımda ilk anlatım elemanıdır." şeklinde tanım yapılmıştır. Bu, sorudaki tanıma tam olarak uymaktadır. Bu nedenle doğru cevap A şıkkıdır.
-
-    <hr />
 
 ### Ünlü Fotoğrafçılar
 
@@ -1197,19 +1031,6 @@
 
     <hr />
 
-### Agrandisör Yardımcıları
-
-1. Yatay ve düşey düzlemde cetvel göstergesi görevi görür. Kâğıdın hareket etmesi engeller. Kâğıdın dışa doğru kıvrılarak bombe yapmasını engelleyerek düz durmasını sağlar. Yukarida anlatılan argandisör birimi aşağıdakilerden hangisidir?
-    - A-) Filtre
-    - B-) Objektif
-    - **Cevap C-) Marjör**
-    - D-) Işık kaynağı
-    - E-) Şase
-
-    > **Açıklama:** Betimlenen özellikler (cetvel göstergesi, kâğıdı sabitleme, bombe yapmasını engelleme) Marjör'e aittir. Ünite 6'da, "Marjör: Agrandisör tablasının üstüne konularak kullanılan bu aparatın baskı sırasında iki işlevi bulunur. Yatay ve düşey düzlemde cetvel göstergesi ve ayarlanabilir kolları sayesinde baskı boyutu ayarlanabilir. İkinci olarak, kâğıdın bu kolların altına yerleştirilmesiyle hareket etmesi engellenmiş olur..." denilmektedir.
-
-    <hr />
-
 ### Ajitasyon İşlemi
 
 1. Tank ya da küvet hareket ettirilerek kimyasal eriyiğin emülsiyon yüzeyinin tamamını kaplamasının sağlandığı işleme ne ad verilir?
@@ -1324,32 +1145,6 @@
 
     <hr />
 
-### Pozlama Sonucu
-
-1. Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir? *(3 kez soruldu)*
-    - A-) Netsiz görüntü
-    - B-) Negatif görüntü
-    - C-) Saydam görüntü
-    - D-) Pozitif görüntü
-    - **Cevap E-) Gizli görüntü**
-
-    > **Açıklama:** Pozlama sırasında duyarkatta oluşan ancak ışık görmeyen bölgelerde kimyasal reaksiyon görülmeyen gizli görüntü, pozlama bittikten sonra banyo işlemleriyle açığa çıkarılır (Ünite 6'da Geliştirme banyosu anlatılırken, pozlama sonrası oluşan bu görüntüye 'gizli görüntü' denir).
-
-    <hr />
-
-### RC Kağıt Katmanları
-
-1. Aşağıdakilerden hangisi (RC) fotoğraf kağıdı katmanlarından biri değildir? *(2 kez soruldu)*
-    - **Cevap A-) Negatif Katman**
-    - B-) Koruyucu Katman
-    - C-) Emüysiyon Katmanı
-    - D-) Kağıt Arakatmanı
-    - E-) Polietilen Katmanı
-
-    > **Açıklama:** Ünite 6'da Siyah beyaz fotoğraf kağıtlarının yapısı anlatılırken, 'Taşıyıcı taban yüzeyi ışığa duyarsızdır. Plastik tabanlı olarak ifade edilen kâğıtlar ise polietilen malzemeden üretilirler.' denilmektedir. RC (Reçine Kaplı) kağıtlar genellikle Polietilen kaplı bir kağıt taban üzerine emülsiyon katmanından oluşur. Negatif katman (A) yoktur; emülsiyon (C) ışığa duyarlı katmandır, kağıt tabanı (D) vardır ve polietilen (E) kaplama/taban malzemesi olarak geçer. Negatif Katman (A) RC kağıdın bir katmanı değildir.
-
-    <hr />
-
 ### Çok Pozlanmış Negatif
 
 1. Çok pozlanmış negatif ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
@@ -1364,19 +1159,6 @@
     <hr />
 
 ## Ünite 7
-
-### Dijital Ortam Yazılımları
-
-1. Photoshop programının RAW formatındaki fotoğraflara yapılacak özel işlemler için ihtiyaç duyduğu eklenti aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Adobe Photoshop DSLR
-    - B-) Adobe Photoshop JPEG
-    - C-) Adobe Illustrator
-    - D-) Adobe Lightroom
-    - **Cevap E-) Adobe Photoshop Camera RAW**
-
-    > **Açıklama:** Fotoğrafçılar, Adobe Photoshop veya Adobe Lightroom gibi yazılımlar kullanır. Photoshop programı, RAW formatındaki fotoğraflara özel işlemler için 'Adobe Photoshop Camera RAW' eklentisine ihtiyaç duyar (Ünite 7 özetinde belirtilmiştir).
-
-    <hr />
 
 ### Filtre Uyumları
 
@@ -1505,19 +1287,6 @@
 
     <hr />
 
-### Objektif AF Kavramı
-
-1. Aşağıdakilerden hangisi fotoğraf makinelerinin objektifleri için kullanılan AF ifadesinin anlamıdır? *(2 kez soruldu)*
-    - A-) Otomatik diyafram
-    - B-) Otomatik örtücü hızı
-    - C-) Otomatik renk ısısı
-    - **Cevap D-) Otomatik netleme**
-    - E-) Otomatik baskı
-
-    > **Açıklama:** AF kısaltması, fotoğraf makinelerinde otomatik netleme sistemini ifade eder. Bu sistem, deklanşöre yarım basılarak devredeki bir noktaya netleme yapılmasına olanak tanır. (Ünite 7, Objektifler: Çalışma Prensipleri ve Kullanım Alanları)
-
-    <hr />
-
 ### Objektif Aksesuarları
 
 1. Fotoğrafçılıkta kullanılan önemli parçalardan biri olan ve objektifin önüne taşıyıcıyla ya da vidalanıp takılarak kullanılan saydam, cam, asetat ya da jelatinden yapılan çeşitli renklerde üretilmiş aparatlara ne ad verilir?
@@ -1528,45 +1297,6 @@
     - E-) Deklanşör
 
     > **Açıklama:** Objektif önüne takılan, ışığı süzmek, kesmek, renkleri düzeltmek veya koruma sağlamak amacıyla kullanılan saydam/renkli aparatlara 'Filtreler' denir. (Ünite 7, Filtreler: Çalışma Prensipleri ve Kullanım Alanları)
-
-    <hr />
-
-### Objektif Görüş Açısı
-
-1. Tüm objektif türleri içerisinde görüş açısı **en geniş** olan objektif türü aşağıdakilerden hangisidir?
-    - A-) Perspektif Kontrolllü Shift Obkektifler
-    - **Cevap B-) Balık Gözü Objektifler**
-    - C-) Normal Açılı Objektifler
-    - D-) Dar Açılı Objektifler
-    - E-) Zoom Objektifler
-
-    > **Açıklama:** Balık Gözü Objektifler, genellikle 6-16 mm odak uzaklığına ve 180°'ye kadar görüş açısına sahip olup, tüm objektif türleri içerisinde en geniş görüş açısına sahiptir. (Ünite 7, Objektifler: Yapısı ve Çeşitleri)
-
-    <hr />
-
-### Objektif Çeşitleri
-
-1. 200 mm ve üstü odak uzaklığına sahip objektifler aşağıdaki gruplardan hangisine girer? *(2 kez soruldu)*
-    - A-) Balık gözü objektifler
-    - B-) Dar açılı objektifler
-    - C-) Normal açılı objektifler
-    - D-) Geniş açılı objektifler
-    - **Cevap E-) Süper tele objektifler**
-
-    > **Açıklama:** Süper Tele Objektifler, dar açılı tele objektifler grubuna girer ve genellikle 200 mm ve üstü odak uzaklığına sahiptirler. Konuları çok büyüterek ayrıştırırlar (Ünite 7 özetinde Süper Tele Objektifler tanımlanmıştır).
-
-    <hr />
-
-### Otomatik Netleme
-
-1. Otomatik netleme sistemine sahip fotoğraf makineleri aşağıdaki kısaltmalardan hangisiyle kodlanır? *(3 kez soruldu)*
-    - A-) F
-    - B-) TLR
-    - C-) ISO
-    - **Cevap D-) AF**
-    - E-) C
-
-    > **Açıklama:** Otomatik netleme sistemine sahip fotoğraf makineleri AF (Auto Focus) kısaltması ile kodlanır (Ünite 7 özetinde belirtilmiştir).
 
     <hr />
 
@@ -1699,19 +1429,6 @@
     - E-) White Balance
 
     > **Açıklama:** RAW formatı, sıkıştırılmamış ham görüntü verilerini içerir ve dijital fotoğraf makinelerinin kaydettiği veriler üzerinde en az işlemle (veya hiç işlem yapılmadan) maksimum bilgi tutan formattır. JPEG ise sıkıştırılmış formattır. (Ünite 8, Sayısal Fotoğrafçılığın Temel Kavramları başlığı altında açıklanmıştır).
-
-    <hr />
-
-### Full Frame Boyutu
-
-1. 35mm film kullanan fotoğraf makinelerinde film yüzeyi boyutu aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) 70x70 mm
-    - B-) 34x51 mm
-    - **Cevap C-) 24x36 mm**
-    - D-) 16x24 mm
-    - E-) 8x12 mm
-
-    > **Açıklama:** Ünite 8'de DSLR ve Full-Frame Makineler başlığı altında, 'Film boyutu olarak 35'lik sensör boyutunda olan sayısal makineleri FULL FRAME DSLR olarak adlandırılır.' bilgisi verilmiştir. 35mm formatın boyutu, metinde (ve genel bilgi olarak) 24x36 mm olarak kabul edilir. 'Bu nedenle normal, standart olarak adlandırılmışlardır. 40-50 mm odak aralığında...' (Ünite 7, normal objektif) veya '35mm'lik film kullanan ilk ticari taşınabilir kamera' (Ünite 5) ifadelerinden yola çıkılırsa, 35mm filmin boyutu 24x36 mm'dir. C şıkkı doğrudur.
 
     <hr />
 
@@ -1987,33 +1704,12 @@
     - D-) Alan derinliğinin en fazla olduğu objektif olması
     - E-) Genel amaçlı kullanımlarda tercih edilmesi
     <hr />
-1. Atatürk'ün fotoğraflarını çekerek portre geleneğini devam ettiren ve ilk foto muhabiri unvanı ile atanan kişi aşağıdakilerden hangisidir?
-    - A-) Selahattin Giz
-    - **Cevap B-) Cemal Işıksel**
-    - C-) Şinasi Barutçu
-    - D-) Vasil Kargopoulo
-    - E-) Ara Güler
-    <hr />
 1. Doğada gözle görülebilen maddi varlık ve şekillerin ışık ve bazı kimyasal maddeler yardımıyla ışığa karşı duyarlı hâle getirilmiş film veya herhangi bir madde üzerine saptanması için fiziksel ve kimyasal işleme ne ad verilir?
     - A-) Film
     - B-) Pozometre
     - C-) Video
     - **Cevap D-) Fotoğraf**
     - E-) Diyafram
-    <hr />
-1. Aşağıdakilerden hangisi fotoğraf makinesinin ana elemanlarından biri değildir? *(2 kez soruldu)*
-    - A-) Örtücü
-    - B-) Diyafram
-    - C-) Objektif
-    - D-) Vizör
-    - **Cevap E-) Film**
-    <hr />
-1. Aşağıdakilerden hangisi model 35mm'lik film kullanan ilk ticari kameradır?
-    - A-) Nikon F
-    - **Cevap B-) Leica A**
-    - C-) Contax S
-    - D-) Canon Pellix
-    - E-) Rolleiflex
     <hr />
 1. Aşağıdakilerden hangisi orta format fotoğraf makinelerinden biridir?
     - A-) Stereoskobik Makineler

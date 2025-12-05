@@ -63,16 +63,6 @@
     > **Açıklama:** Metinde Progel (Dacum) Tekniği için, "Bu teknik, bir mesleğin ya da uzmanlık gerektiren bir konu alanının beceri profilinin ortaya çıkarılması yoluyla ihtiyacın belirlenmesi amacıyla kullanılır." bilgisi bulunmaktadır. Bu tanım, soruda verilen beceri profili ortaya çıkarma amacına uygun olan tekniktir.
 
     <hr />
-1. Çalışanların gözlemlenebilir iş davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci aşağıdaki ihtiyaç belirleme tekniklerinden hangisi ile gerçekleştirilir? *(2 kez soruldu)*
-    - A-) Progel tekniği
-    - B-) Anket tekniği
-    - C-) Görüşme tekniği
-    - **Cevap D-) Meslek (İş) Analizi**
-    - E-) Gözlem tekniği
-
-    > **Açıklama:** Meslek (İş) Analizi tekniğinin tanımı metinde şöyle verilmiştir: "Meslek (iş) analizi, çalışanların gözlemlenebilir iş davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci olarak da tanımlanmaktadır." Bu, sorudaki açıklamaya uyan tekniktir.
-
-    <hr />
 
 ### İhtiyaç Türleri
 
@@ -164,19 +154,6 @@
 
     <hr />
 
-### İçerik Türleri
-
-1. Aşağıdakilerden hangisi normatif içerikte yanıt aranan sorulardan biri değildir? *(2 kez soruldu)*
-    - A-) İyi mi, yoksa kötü mü oldu?
-    - B-) Tekrar olur mu?
-    - **Cevap C-) Ne oldu?**
-    - D-) Nasıl olmalıydı?
-    - E-) Neden oldu?
-
-    > **Açıklama:** Normatif içerik, değer yargıları, normlar ve standartlar içerir ve 'nasıl, neden oldu, iyi mi oldu, kötü mü oldu' gibi sorulara yanıt arar. 'Ne oldu?' sorusu ise olgu ve ilkeleri içeren, yoruma açık olmayan bilgileri soran Betimsel içeriğin konusudur.
-
-    <hr />
-
 ### İçerik Yaklaşımları
 
 1. Sarmal içerik yaklaşımının kullanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
@@ -238,16 +215,6 @@
     - **Cevap E-) Bitişiklik**
 
     > **Açıklama:** Klasik koşullanmada, koşullu ve koşulsuz uyarıcıların birbirine yakın zaman aralıklarıyla sunulması 'Bitişiklik' ilkesidir. Ayrıca Habercilik-Bilgilendiricilik, Pekiştirme, Sönme, Genelleme ve Ayırt Etme de ilkeler arasındadır. (Sayfa 1)
-
-    <hr />
-1. Koşullanmış uyaranın olmadığı bir ortamda öğrenilmiş tepkinin zaman içinde azalması durumu aşağıdaki ilkelerden hangisi ile açıklanır?
-    - A-) Bitişiklik
-    - B-) Pekiştirme
-    - C-) Habercilik-Bilgilendiricilik
-    - **Cevap D-) Sönme**
-    - E-) Kendiliğinden Geri Gelme
-
-    > **Açıklama:** Koşullanmış uyarıcının tek başına artık koşullu tepkiye neden olmadığı öğrenme sürecine 'Sönme' denir. Kendiliğinden Geri Gelme ise şartsız uyarıcının tekrar sunulmasıyla şartlı tepkinin yeniden ortaya çıkmasıdır. (Sayfa 1)
 
     <hr />
 
@@ -405,19 +372,6 @@
 
     <hr />
 
-### Dijital Olanaklarda SWOT
-
-1. Aşağıdakilerin hangisinde SWOT analizinin açılımı sırasıyla ve doğru olarak verilmiştir? *(4 kez soruldu)*
-    - A-) Zayıf yönler, güçlü yönler, fırsatlar, gerçekler
-    - B-) Beklentiler, tehditler, güçlü yönler, zayıf yönler
-    - C-) Güçlü yönler, fırsatlar, tehditler, olumlu yönler
-    - **Cevap D-) Güçlü yönler, zayıf yönler, fırsatlar, tehditler**
-    - E-) Tehditler, fırsatlar, zayıf yönler, gereklilikler
-
-    > **Açıklama:** SWOT analizi; Güçlü Yönler (Strengths), Zayıf Yönler (Weaknesses), Fırsatlar (Opportunities) ve Tehditler (Threats) kelimelerinin baş harflerinden oluşur. Bu kelimelerin doğru sırasıyla eşleştirildiği şık D şıkkıdır.
-
-    <hr />
-
 ### Dijitalleşme Süreci
 
 1. \_\_\_\_\_ analog bilgi, veri, süreç veya sistemlerin dijital formata dönüştürülmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -537,19 +491,6 @@
 
     <hr />
 
-### Yaratıcı Düşünme Becerileri
-
-1. Hermann'ın Yaratıcı Sorun Çözme Modeli altı değişik zihinsel düşünme becerisiyle ilişkilidir. Bu becerileri altı meslek grubu temsil eder. alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma özelliğiyle yaratıcı problem çözme sürecini temsil eder. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - A-) dedektif
-    - B-) polis
-    - **Cevap C-) sanatçı**
-    - D-) yargıç
-    - E-) kaşif
-
-    > **Açıklama:** Alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma, yaratıcı problem çözme sürecini temsil eder. Bu özellikler, Hermann'ın Yaratıcı Sorun Çözme Modeli'ndeki altı beceriden birini (veya bir kombinasyonunu) temsil eder. Metinlerde (Sayfa 1), yaratıcı düşünme sürecinin hazırlık, kuluçka, fikrin doğması ve geliştirilmesi aşamalarından oluştuğu belirtilmiştir. Hermann'ın modeline dair spesifik bir eşleştirme metinde bulunmamaktadır, ancak yaratıcı düşünme süreci, problem çözme, planlama ve denemeyi içerir (Sayfa 1). Sorunun seçenekleri eksik olduğundan, yaratıcı düşünmenin genel tanımına odaklanılır. Yaratıcı düşünme, yeni fikir oluşturmak, problem belirlemek, çözüm önermek ve paylaşmaktır (Sayfa 1).
-
-    <hr />
-
 ### Yaratıcı Düşünme Süreci
 
 1. Aşağıdakilerden hangisi yaratıcı düşünme süreci aşamalarından biri değildir?
@@ -586,19 +527,6 @@
     - **Cevap E-) I, II, III ve IV**
 
     > **Açıklama:** Ünite 6'da, Yaratıcılık Nedir? başlığı altında yaratıcılığın pek çok boyutu olduğu belirtilmiştir. Yaratıcılık; öğrenme gibi beynin farklı bölgelerinde gerçekleşen bir süreçtir (I. kısmı dolaylı olarak doğru, zira beyinle ilişkilidir). İçerik geliştirme bağlamında, yaratıcılık tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir (III. doğrudur). Yaratıcı edim, sanatsal ifade, duyuşsal ve görsel izlenim öğeleriyle düşünme ve uygulama sürecidir. Yaratıcılık, insanın varlığını ortaya çıkarma süreci olarak değil, daha çok yeni bir şey üretme/keşfetme süreci olarak tanımlanır. Ancak metin, yaratıcılığın çok boyutluluğunu ve bu bileşenlerin birleşimini vurgular (I, II, III). Soruda verilen şıklar arasında en kapsayıcı olan E şıkkı, yaratıcılığın çok boyutlu doğasını (bireysel, kültürel, süreçsel) yansıtma eğilimindedir. (Not: I. Bireysel bir süreçtir ifadesi, sürecin kendisinin bireysel yönünü vurguladığı için kabul edilebilir. II. Kültürel bir süreçtir, çevresel etkenler nedeniyle kabul edilebilir. III. Kişilik özelliklerinin birleşimidir, metinde açıkça belirtilmiştir. IV. İnsanın varlığını ortaya çıkarma süreci değil, yaratma sürecidir.) Bu tip sorularda tüm bileşenlerin birleşimi (E) genellikle doğru kabul edilir.
-
-    <hr />
-
-### Yaratıcılık Tanımı
-
-1. I. Bireysel bir süreçtir.<br />II. Kültürel bir süreçtir.<br />III. Kişilik özelliklerinin birleşimidir.<br />IV. İnsanın varlığını ortaya çıkarma sürecidir.<br />Yaratıcı süreç ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur? *(2 kez soruldu)*
-    - A-) Yalnız III
-    - B-) I ve II
-    - C-) III ve IV
-    - D-) I, II, ve III
-    - **Cevap E-) I, II, III ve IV**
-
-    > **Açıklama:** Ünite 6'ya göre yaratıcılık; tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir (Sayfa 1). Bu, yaratıcılığın bireysel (kişilik, beceri, süreç) ve toplumsal/kültürel (çevre, toplumsal koşullar) boyutlarının birleşimi olduğunu gösterir. Dördüncü ifade olan 'İnsanın varlığını ortaya çıkarma süreci' ise yaratıcılığın genel bir tanımı olabilir ancak metinde bu şekilde vurgulanmamıştır. I, II ve III ifadeler yaratıcılığın tanımının bileşenlerini yansıtır (Bireysel süreç, kültürel süreç/çevre etkisi, özelliklerin birleşimi).
 
     <hr />
 
@@ -707,16 +635,6 @@
     > **Açıklama:** Ünite 7'de, Sorgulama Temelli İçerik Hazırlama başlığının altında içerik seçim ilkeleri özetlenmiştir. 'Aktarılabilirlik ve uygunluk' ilkesi şu şekilde tanımlanmıştır: 'İçeriğin hitap edilen kitlenin hazır bulunuşluk düzeyiyle ve gelişim süreciyle uyumlu olmasıdır.' Bu tanım, C şıkkı ile doğrudan eşleşmektedir.
 
     <hr />
-1. Aşğıdakilerden hangisi içeriğin aktarılabilirlik ve uygunluk ilkesini ifade eder? *(2 kez soruldu)*
-    - A-) İçeriğin bilimsel gelişmelerden hareketle oluşturulmasıdır.
-    - B-) İçeriğin yapısında bulunan bilgilerin tutarlı olmasıdır.
-    - C-) İçeriğin verimli olmasıdır.
-    - **Cevap D-) Hitap edilen kitlenin hazır bulunuşluk düzeyiyle uyumlu olmasıdır.**
-    - E-) İçerik tasarımının mantıklı bir şekilde yapılmasıdır.
-
-    > **Açıklama:** İçeriğin hitap edilen kitlenin hazır bulunuşluk düzeyiyle ve gelişim süreciyle uyumlu olması ve bilginin transfer edilebilirliği ilkesi Aktarılabilirlik ve Uygunluk olarak özetlenmiştir (Sayfa 2, Ünite 7).
-
-    <hr />
 
 ## Ünite 8
 
@@ -743,16 +661,6 @@
     - E-) Ölçüt geçerliği
 
     > **Açıklama:** Ünite 8'de, Geçerlik başlığı altında, 'Görünüş Geçerliği' şu şekilde tanımlanmıştır: 'Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili konudaki uzmanların görüşlerini almaktır.' Bu tanım A şıkkı ile birebir örtüşmektedir.
-
-    <hr />
-1. Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili o konudaki uzmanların görüşlerini almaktır. Yukarıdaki paragrafta anlatılan geçerlilik türü aşağıdakilerden hangisidir?
-    - **Cevap A-) Görünüş geçerliği**
-    - B-) Kapsam geçerliği
-    - C-) Tutarlılık geçerliği
-    - D-) Kullanışlılık geçerliği
-    - E-) Ölçüt geçerliği
-
-    > **Açıklama:** Bir ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılması ve aracın neyi ölçüyor göründüğüyle ilgilenilmesi 'Görünüş Geçerliği' olarak tanımlanır. Metinde bu geçerlilik türü, uzman görüşüne danışma ve aracın göründüğü nitelikle ilgilenme tanımıyla açıklanmıştır.
 
     <hr />
 1. Mert öğretmen sosyal bilgiler dersinde Türkiye'nin 7 coğrafi bölgesindeki ekonomik ve sosyal yaşamı derslerde işlemiştir. Öte yandan sınavda yalnızca Güneydoğu Anadolu bölgesi ile ilgili sorular sormuştur. Yukarıdaki anlatılanlara göre, Mert öğretmen aşağıdakilerden hangisini uygulamamıştır? *(2 kez soruldu)*
@@ -865,12 +773,5 @@
     - C-) Program tasarımı
     - D-) Betimsel analiz
     - E-) Analitik analiz
-    <hr />
-1. Öğrenmenin, insanların birbirleriyle, farklı kültürel unsurlarla ve genel olarak toplumla etkileşime girdiğinde geliştiği görüşünü ileri süren yapılandırmacılık türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Sosyal yapılandırmacılık**
-    - B-) Bireysel yapılandırmacılık
-    - C-) Bilişsel yapılandırmacılık
-    - D-) Dilsel yapılandırmacılık
-    - E-) Radikal yapılandırmacılık
     <hr />
 

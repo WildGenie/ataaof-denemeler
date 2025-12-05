@@ -2,19 +2,6 @@
 
 ## Ünite 1
 
-### Asur Ticaret Kolonileri Ürünleri
-
-1. Asurlu tüccarın Anadolu'ya getirdiği ürünlerin başında kalay madeni yer alırken, bu üründen sonra Anadolu'daki halkların talep ettiği ikinci ürün aşağıdakilerden hangisi belirtilmiştir?
-    - A-) Tuğla
-    - B-) Demir
-    - **Cevap C-) Kumaş**
-    - D-) Gümüş
-    - E-) Köle
-
-    > **Açıklama:** Orta Tunç Çağı'nda Anadolu'ya Asurlu tüccarlar kalay (tunç yapımı için gerekli) getirmiştir. İkinci önemli ürün olarak ise Babil'in dokuma kumaşları belirtilmiştir. Metinde "Tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için olmazsa olmaz kalay madeni yer alıyordu. Tunç, bakır ve kalay alaşımıdır. Babil'in meşhur dokuma kumaşları da satışından kar elde ettikleri ikinci önemli üründü." ifadesi yer almaktadır.
-
-    <hr />
-
 ### Kalkolitik Dönem Metalurjisi
 
 1. Kalkolitik Dönemde bilezik üretim süreçlerinin görüldüğü aşağıdakilerden hangisidir?
@@ -51,16 +38,6 @@
     - E-) Paleolitik Dönem
 
     > **Açıklama:** Avcı ve toplayıcı toplumların zamanla üretici konumuna gelmeleri, göçebeliği terk etmeleri ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmaları süreci, "Neolitik devrim" olarak adlandırılır.
-
-    <hr />
-1. Avcı ve toplayıcı toplumların zamanla üretici konumuna gelmelerine ve göçebeliği terk ederek yıl boyunca iskân edilen ilk sürekli yerleşmelerin kurulmasına temel oluşturan dönem hangisidir?
-    - A-) Kalkolitik Dönem
-    - **Cevap B-) Neolitik Dönem**
-    - C-) İlk Tunç Çağı
-    - D-) Alt Paleolitik Dönem
-    - E-) Üst Paleolitik Dönem
-
-    > **Açıklama:** Anadolu'da Neolitik Dönem'e geçiş süreci, avcı ve toplayıcı toplumların üretici konuma gelmelerine, göçebeliği terk etmelerine ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmalarına temel oluşturduğu için 'Neolitik devrim' olarak adlandırılır (Ünite 1, Anadolu'da Neolitik Dönem'e Geçiş, İlk Köyler ve Kentler başlığı). Bu, insanın tarihsel gelişimindeki ilk önemli sıçrama noktasıdır.
 
     <hr />
 
@@ -170,19 +147,6 @@
 
 ## Ünite 2
 
-### Anadolu Arkeolojisi
-
-1. Batı Anadolu'dan zengin buluntular sağlaması ve ilk kent örneği olması gibi çeşitli nedenlerden dolayı, Anadolu arkeolojisinde çok önemli bir yer tutan, Homeros'un İliada Destanı'na konu olmuş yerleşim aşağıdakilerden hangisidir?
-    - A-) Atina
-    - B-) Knossos
-    - C-) Ephesus
-    - **Cevap D-) Troia**
-    - E-) Miletus
-
-    > **Açıklama:** Soru, Batı Anadolu'dan zengin buluntular sağlayan, ilk kent örneği olan ve Homeros'un İlyada Destanı'na konu olmuş yerleşimi sormaktadır. Ünite 2 özetinde, Heinrich Schliemann tarafından kazılan Troia (Hisarlık Tepe) yerleşmesinin bu özelliklere sahip olduğu ve Anadolu arkeolojisinde çok önemli bir yer tuttuğu belirtilmiştir.
-
-    <hr />
-
 ### Asur Ticaret Kolonileri
 
 1. Yaklaşık olarak MÖ. 20. yüzyılın başlarından 18. yüzyılın sonlarına kadar iki yüz yıl boyunca Asurluların Anadolu'da bulunmalarındaki temel amaç aşağıdakilerden hangisidir?
@@ -281,19 +245,6 @@
     - E-) Frigler
 
     > **Açıklama:** Geç Tunç Çağı'nda Anadolu'da belirleyici siyasi güç Hitit Devleti olmuştur. Hitit Devleti, Anadolu'nun ilk merkezi krallığıdır ve yerel krallıkları tek çatı altında toplamıştır.
-
-    <hr />
-
-### Hitit Barış Antlaşması
-
-1. Eşit şartlarda iki büyük devlet, yani Hititler ile Mısırlılar arasında dostluk ve kardeşliğin sonsuza kadar devam edeceğini belirten, Boğazköy'deki kazılarda ele geçirilen Sonsuz Barış Antlaşması'nın bakır bir kopyası, günümüzde Türkiye Cumhuriyeti dışında nerede sergilenmektedir?
-    - A-) Avrupa Birliği Binası
-    - **Cevap B-) Birleşmiş Milletler Binası**
-    - C-) NATO Binası
-    - D-) British Museum, Londra
-    - E-) UNICEF Binası
-
-    > **Açıklama:** III. Hattuşili döneminde, Hititler ile Mısır arasında imzalanan ve “Hitit-Mısır Sonsuz Barışı” olarak tanımlanan antlaşmanın dikte edildiği tabletin kopyası, Mısır tapınak duvarlarına hiyeroglifle işlenmiştir. Tabletin orijinal metni ise Boğazköy'de (Çorum) bulunmuştur. Dolayısıyla, bakır kopyanın (eğer varsa) veya tabletin orijinalinin Türkiye Cumhuriyeti dışında sergilendiği merkez Mısır'dır (Hiyeroglifli kopyanın bulunduğu yer).
 
     <hr />
 
@@ -529,16 +480,6 @@
     > **Açıklama:** Frig Kralı Midas'ın evlendiği Aiol kenti prensesinin Larissa olduğu belirtilmiştir (MÖ. 709'da anlaşma sonrası). Ünite 3'te, Midas'ın Muşkili Mita olarak anıldığı ve II. Sargon ile MÖ. 709'da dostluk anlaşması imzaladığı geçer. Aiol kentleri hakkında bilgi verilirken Larissa'nın adı geçse de Midas'ın evliliği hakkında net bir bilgi verilmemiştir. Ancak sorunun doğru kabul edilen şıkkı B şıkkıdır (Larissa).
 
     <hr />
-1. 14\. Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir?
-    - A-) Gryneion
-    - B-) Myrina
-    - C-) Larissa
-    - D-) Pitane
-    - **Cevap E-) Kyme**
-
-    > **Açıklama:** Frig kralı Midas'ın evlendiği Aiol kenti prensesinin Myrina olduğu bilgisi verilmiştir. Ünite 3'te, Midas'ın sınırlarının Kütahya'ya kadar uzandığı belirtilirken, Aiol kentleri listelenmiştir (Gryneion, Larissa, Pitane, Kyme, Myrina). Sorunun doğru kabul edilen şıkkı E şıkkıdır (Kyme). Metinlerde Larissa'nın adı geçmesine rağmen, Midas'ın evliliği için Kyme doğru kabul edilmiştir.
-
-    <hr />
 
 ### Frig Kültürü Eserleri
 
@@ -703,19 +644,6 @@
     - **Cevap E-) Mopsos**
 
     > **Açıklama:** Lidya Krallığı'nın güçlü bir krallık olarak tarih sahnesine çıkmasını sağlayan Mermnad Hanedanının ilk kralı Gyges'tir (MÖ. 680-644). Ancak soruda doğru kabul edilen şık E şıkkıdır (Mopsos). Eğer Mopsos doğru kabul edilecekse, bu, metinde geçen Gyges bilgisinden farklıdır. Metin, ilk kralın Gyges olduğunu açıkça belirtir. Ancak kural gereği doğru kabul edilen cevaba uyarak Mopsos'un kastedildiği varsayılmalıdır (Bazı kaynaklarda Mopsos'un Lidya'nın efsanevi kurucusu olduğu geçer, ancak metin Gyges'i ilk kral olarak belirtir).
-
-    <hr />
-
-### Neolitik Dönem Ana Tanrıça
-
-1. 8\. Anadolu'da Demir Çağında Friglerle birlikte görülen, Kubaba/Kibele ana tanrıça inancının da temelini oluşturduğu düşünülen, kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sistemi aşağıdaki yerleşmelerden hangisinde karşımıza çıkmaktadır?
-    - A-) Göbekli Tepe
-    - B-) Orman Fidanlığı
-    - **Cevap C-) Çatal Höyük**
-    - D-) Çayönü
-    - E-) Nevali Çori
-
-    > **Açıklama:** MÖ. 7. Binde Seramikli Neolitik Döneme gelindiğinde, özellikle Çatalhöyük'te kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sisteminin, Kubaba/Kibele ana tanrıça inancının temelini oluşturduğu düşünülmektedir. Bu heykelcikler Çatalhöyük'te karşımıza çıkar.
 
     <hr />
 
@@ -1014,19 +942,6 @@
 
     <hr />
 
-### Roma Dönemi Hristiyanlık
-
-1. 4\. Aşağıdakilerden hangisi Roma'da ilk Hıristiyanların içinde toplanıp, tapındıkları yer altı mezarlarının genel adıdır?
-    - A-) Şapel
-    - B-) Hipoje
-    - C-) Tempera
-    - **Cevap D-) Katakomp**
-    - E-) Diptikon
-
-    > **Açıklama:** Roma'da Hıristiyanların ibadet ettikleri, ölülerini gömdükleri ve toplanma alanları olarak kullandıkları yeraltı mezarlarına 'Katakomp' adı verilir.
-
-    <hr />
-
 ### Roma Dönemi Kültürü
 
 1. Aşağıdakilerden hangisi Roma'da ilk Hıristiyanların içinde toplanıp, tapındıkları yer altı mezarlarının genel adıdır? *(2 kez soruldu)*
@@ -1063,16 +978,6 @@
     - E-) Galatia Eyaleti
 
     > **Açıklama:** Roma'nın Anadolu'da kurduğu eyaletler arasında Kapadokya (Provincia Cappadocia), Likya-Pamphylia (Provincia Lycia et Pamphylia), Trakya (Provincia Thracia), Bithynia-Pontos ve Kilikya Eyaletleri (Provincia Cilicia) bulunmaktadır. Asya Eyaleti, daha önceki dönemlerden (Bergama Krallığı) Roma'ya katılmış bir bölgedir, ancak Roma'nın doğrudan ilk kurduğu eyaletlerden biri olarak bahsedilmemektedir; III. Attalos'un vasiyeti üzerine alınmıştır.
-
-    <hr />
-1. Aşağıdakilerden hangisi, Roma'nın Anadolu'da (Küçük Asya) kurduğu eyaletlerden biri değildir?
-    - A-) Asia Eyaleti
-    - B-) Kilikya Eyaleti
-    - C-) Bithynia – Pontos Eyaleti
-    - **Cevap D-) Panionia Eyaleti**
-    - E-) Galatia Eyaleti
-
-    > **Açıklama:** Roma, Anadolu'da Likya-Pamphylia, Trakya, Cappadocia (Kapadokya) eyaletlerini kurmuştur. Ephesos (Efes) ise bir kent devletiyken sonradan Roma kontrolüne girmiş ancak ayrı bir eyalet olarak kurulduğuna dair bilgi metinde bulunmamaktadır. Metinde Bithynia-Pontos, Kilikya Eyaleti'nin kurulduğu belirtilmiştir.
 
     <hr />
 
@@ -1169,19 +1074,6 @@
 
 ## Ünite 5
 
-### Bizans Dini Hayat
-
-1. Aşağıdakilerden hangisi Hz. İsa'nın bedenini simgeleyen ekmeğin ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin ana ayinidir?
-    - A-) Krizobul
-    - **Cevap B-) Ökaristi**
-    - C-) Perikop
-    - D-) Oktateuch
-    - E-) Lektionar
-
-    > **Açıklama:** Soru, Hıristiyan litürjisinde Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı ana ayini sormaktadır. Ünite 5 özetinde, 'Ökaristi: Ökaristi İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin en çarpıcı göstergelerinden biridir.' ifadesi yer almaktadır. Bu, Ökaristi'nin tanımıdır.
-
-    <hr />
-
 ### Bizans Fildişi Eserleri
 
 1. Aşağıdakilerden hangisi 395-540 yılları arasına tarihlenen fildişi eserler arasında en önemli grubu oluşturan, birbirine menteşe ile bağlı iki levhadan oluşan panellere verilen isimdir?
@@ -1218,19 +1110,6 @@
     - E-) Orta Bizans Dönemi
 
     > **Açıklama:** Müslüman fetihleri ve İkonakırıcılık tartışmalarının yaşandığı 7. ve 9. yüzyıllar arası Bizans tarihinde 'Karanlık Dönem' olarak adlandırılır (Ünite 5, Hukuk başlığı altında).
-
-    <hr />
-
-### Bizans Tekstil Sanatı
-
-1. Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılmış kumaşlar da kullanmıştır. Bu kumaşlarda genellikle madalyonlar içerisinde aslan, kartal, fil, sfenks ve gibi hayali yaratıkların tasvirleri görülmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Gamayun
-    - B-) Dragon
-    - C-) Satir
-    - D-) Yılan
-    - **Cevap E-) Grifon**
-
-    > **Açıklama:** Soru, Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılan kumaşlardaki madalyonlar içinde görülen hayali yaratıklardan birini sormaktadır. Ünite 5 özetinde, bu kumaşlarda 'aslan, kartal, fil, grifon (Resim 5. 11), sfenks gibi hayali yaratıkların tasvirleri görülmektedir' denilerek Grifon'un (E) şıkkı ile eşleştiği belirtilmiştir.
 
     <hr />
 
@@ -1415,19 +1294,6 @@
     - E-) Seküler devlet yapısı
 
     > **Açıklama:** Sayfa 2'de Selçukluların Anadolu'da Türkleşmeyi başarmasında iktisadi sebeplerin rol oynadığı belirtilmektedir. Selçukluların Anadolu'ya geldiklerinde toprakları vakıflar aracılığıyla halka dağıtması ve serbest ticaretin teşvik edilmesi, bölgeye yerleşen halkın memnuniyetini artırmış ve böylece siyasi ve sosyal yapının da olumlu yönde gelişmesine zemin hazırlamıştır. Bu durum, Selçuklu devlet yapısının temelini güçlendirmiştir.
-
-    <hr />
-
-### Selçuklu Ekonomik Politikası
-
-1. 1\. Selçukluların Anadolu'daki fetihlerinde "ekonomi politik" belirleyici bir etmen olmuştur. Aşağıdakilerden hangisi bu süreçte Selçukluların başarısında rol oynamış unsurlardan birini göstermektedir?
-    - **Cevap A-) Yollar**
-    - B-) Hamamlar
-    - C-) Macellum'lar
-    - D-) Büyük çiftlikler
-    - E-) Seküler devlet yapısı
-
-    > **Açıklama:** Selçukluların Anadolu'daki fethinde 'ekonomi politik' belirleyici olmuştur. Bu politikada, fetihle birlikte gelen toprakların halka dağıtılması (tımar/ıkta sistemi), vergi sistemi ve ticaretin geliştirilmesi ana unsurlardır. Özellikle yollar, kervansaraylar ve pazarların düzenlenmesi bu ekonomik yapının temelini oluşturmuştur.
 
     <hr />
 
@@ -1742,19 +1608,6 @@
 
     <hr />
 
-### Osmanlı İpek Kumaşları
-
-1. Renk açısından; “darçınî”, “sürmaî”, “tufeg?” ve "binevş" ve teknik açıdan; "seraser” ve "kemhayr" terminolojisi, aşağıdaki Osmanlı güzel sanatlarından hangisine ilişkindir?
-    - A-) Resim
-    - B-) Hattat
-    - **Cevap C-) İpek kumaşlar**
-    - D-) Seramik
-    - E-) Çinicilik
-
-    > **Açıklama:** Metinde, Osmanlı İpek Kumaşları başlığı altında, 'seraser' ve 'kemhayr' terimlerinin tekniklere işaret ettiği belirtilmektedir. Ayrıca renkler için 'dârcınî', 'sürmaî', 'tufegî' ve 'binevş' gibi terimlerin kullanıldığına dair bilgi, genel Osmanlı kültürü (veya tekstil kültürü) bağlamında değerlendirilebilir. Bu terimler, Osmanlı ipekli kumaşlarının çeşitli çeşitlerini ve renklerini tanımlamak için kullanılır.
-
-    <hr />
-
 ### Selçuklu Komşuları
 
 1. Selçuklu devrinde Kırım'ın fethi ile Sinop'a yerleştirilen Türkler kimlerdir?
@@ -1861,32 +1714,6 @@
 
     <hr />
 
-### Cumhuriyet Müzik Eğitimi
-
-1. 12\. Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumudur?
-    - A-) Darü'l-Elhan
-    - B-) Darü'l-Bedayi
-    - **Cevap C-) Musiki Muallim Mektebi**
-    - D-) Riyaseti Cumhur Musiki Heyeti
-    - E-) Mızıka-i Hümayun
-
-    > **Açıklama:** Cumhuriyetin kurulduğu 1923 yılında sahne sanatları ve müzik alanında eğitim veren iki resmi kuruluştan ilki Konservatuvar (Darü'l-Elhan) idi. Ünite 8'de, daha sonra Ankara Devlet Konservatuvarına dönüşecek olan Musiki Muallim Mektebi'nin 1924 yılında açıldığı ve bunun müzik alanında bir dönüm noktası olduğu belirtilmiştir.
-
-    <hr />
-
-### Cumhuriyet Müzik Reformu
-
-1. 6\. Aşağıdakilerden hangisi Cumhuriyetin ilk yıllarında Batı tekniğiyle işlenerek millî müziği oluşturacak nitelikte görülmüş müzik türüdür?
-    - A-) Saray müziği
-    - B-) Orta Asya Türk müziği
-    - **Cevap C-) Halk müziği**
-    - D-) Alaturka müzik
-    - E-) Mehter müziği
-
-    > **Açıklama:** Cumhuriyetin ilk yıllarında, Batı tekniğiyle işlenerek millî müzik oluşturma hedefi vardı. Bu amaçla, Türk sanat müziği ve Türk halk müziği yayınları radyoda artırılırken, Ankara Devlet Konservatuarı gibi kurumlar çok sesli müzik kültürünü yaymakla görevlendirildi. Türk Beşleri bu çabanın temsilcilerindendir.
-
-    <hr />
-
 ### Cumhuriyet dönemi müzik eğitimi
 
 1. Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumdur? *(2 kez soruldu)*
@@ -1936,19 +1763,6 @@
     - **Cevap E-) İzmir**
 
     > **Açıklama:** Metinde, Ankara'nın 1923'te başkent seçilerek modern bir kent olarak kurulması ve geliştirilmesinin Cumhuriyet rejiminin başlıca amaçlarından biri olduğu belirtilmiştir. Ankara dışında kent planlaması ve mimarî alanında Avrupalı mimarlar davet edilmiştir. Bu bağlamda, mimari anlatımın Batılı ve modern bir ulus yaratma aracı olarak kullanıldığı ve bu amaçla kentlerin imar yasalarının çıkarıldığı ifade edilmiştir. Ankara dışındaki diğer bir büyük kentleşme ve modernleşme örneği olarak, metin içerisinde belirli bir kent adı direkt olarak bu bağlamda (Ankara ile eşdeğer) verilmemiştir; ancak Erken Cumhuriyet döneminde kentlerin imarı ve planlamasına önem verildiği vurgulanmıştır. (Ankara ile birlikte anılan diğer şehirler genellikle kültürel etkinlik merkezleri veya farklı dönemlere ait örneklerdir. Verilen metin parçalarında Ankara'dan sonra doğrudan 'modernleşme' bağlamında bir başka kent adı verilmemiştir, bu nedenle sorunun kesin bir cevabını metinden çıkarmak zordur. Ancak genellikle İstanbul, yeni başkent seçilmese de kültürel ve ekonomik merkez olarak öne çıkmıştır. Fakat metin sadece Ankara'nın modernleşmesine odaklanmıştır. Bu durumda en yakın ilikili olabilecek yerler; kültürel değişimlerin ve mimari yeniliklerin yoğun yaşandığı eski başkent İstanbul veya sanayi merkezi olan İzmir olabilir, ancak metin kesin bir eşleşme sunmamaktadır. Sorunun cevabının metinde açıkça belirtilmediği varsayılırsa en mantıklı şık, kültürel ve siyasi olarak en önemli ikinci şehir olan İstanbul'dur, zira yeni mimari akımından bahsedilmiştir.)
-
-    <hr />
-
-### Köy Enstitüleri
-
-1. Erken Cumhuriyet döneminde, kırsal alana rejimin yeni değerlerini götürmek ve öğretmen eksikliğini gidermek için uygulanan aşağıdakilerden hangisidir?
-    - A-) Tevhid-i Tedrisat Kanunu
-    - **Cevap B-) Köy Enstitüleri**
-    - C-) Halkevleri
-    - D-) Mahalle Mekteplerinin kapatılması
-    - E-) Üniversite reformu
-
-    > **Açıklama:** Metinde, İkinci Dünya Savaşı sonrasında Kırsal alanda rejimin yeni değerlerini yaymak ve öğretmen eksikliğini gidermek için 1940 yılında Köy Enstitüleri kurulduğu belirtilmektedir. Bu kurumların müfredatında kültür dersleriyle birlikte tarım ve zanaatkârlık gibi pratik becerilere de ağırlık verildiği vurgulanmıştır.
 
     <hr />
 

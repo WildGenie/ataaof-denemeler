@@ -875,7 +875,8 @@
             "explanation": "Geç Tunç Çağı'nda Anadolu'da belirleyici siyasi gücün Hitit Devleti olduğu ve Anadolu'nun ilk merkezi krallığı olduğu belirtilmiştir. Hitit Devleti, Eski Krallık ve İmparatorluk dönemleri olarak incelenir.",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 45,
@@ -916,7 +917,8 @@
             "explanation": "Jül Sezar, Pompeius'u yendikten sonra Anadolu'ya geçerek Troia, Bergama, Knidos, Ephesos gibi kentleri ziyaret etmiş ve buralarda kendi zaferini ilan etmiştir. Veni, Vidi, Vici sözünü Caesar'in söylediği bilinmektedir.",
             "is_duplicate": true,
             "duplicate_of": 5,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 47,
@@ -976,8 +978,10 @@
             "UniteNo": 2,
             "topic": "Hitit Barış Antlaşması",
             "explanation": "III. Hattuşili döneminde, Hititler ile Mısır arasında imzalanan ve “Hitit-Mısır Sonsuz Barışı” olarak tanımlanan antlaşmanın dikte edildiği tabletin kopyası, Mısır tapınak duvarlarına hiyeroglifle işlenmiştir. Tabletin orijinal metni ise Boğazköy'de (Çorum) bulunmuştur. Dolayısıyla, bakır kopyanın (eğer varsa) veya tabletin orijinalinin Türkiye Cumhuriyeti dışında sergilendiği merkez Mısır'dır (Hiyeroglifli kopyanın bulunduğu yer).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 22,
+            "similarity_score": 0.9823510646820068
         },
         {
             "id": 50,
@@ -996,8 +1000,10 @@
             "UniteNo": 4,
             "topic": "Roma Eyaletleri",
             "explanation": "Roma, Anadolu'da Likya-Pamphylia, Trakya, Cappadocia (Kapadokya) eyaletlerini kurmuştur. Ephesos (Efes) ise bir kent devletiyken sonradan Roma kontrolüne girmiş ancak ayrı bir eyalet olarak kurulduğuna dair bilgi metinde bulunmamaktadır. Metinde Bithynia-Pontos, Kilikya Eyaleti'nin kurulduğu belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 14,
+            "similarity_score": 0.9897348880767822
         },
         {
             "id": 51,
@@ -1058,7 +1064,8 @@
             "explanation": "Asurlu tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için gerekli olan kalay madeni yer alıyordu. İkinci önemli ürün ise Babil'in meşhur dokuma kumaşlarıydı. Ünite 3'te, \"Tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için olmazsa olmaz kalay madeni yer alıyordu. Tunç, bakır ve kalay alaşımıdır. Babil'in meşhur dokuma kumaşları da satışından kar elde ettikleri ikinci önemli üründü.\" bilgisi mevcuttur. Doğru kabul edilen şık E şıkkıdır (Kumaş).",
             "is_duplicate": true,
             "duplicate_of": 36,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 54,
@@ -1140,7 +1147,8 @@
             "explanation": "1990'ların ortalarından itibaren kazılan Göbekli Tepe (Urfa) yerleşmesinde, dünyanın en erken “tapınak” yapısı örnekleri ortaya çıkartılmıştır. Bu yapılar, tarım ve evcilleştirme sürecinin başlangıcındaki Neolitik toplumların organize ve gelişmiş yapısını yansıtmaktadır ve MÖ. 9. binin ikinci yarısından itibaren tarihlendirilir.",
             "is_duplicate": true,
             "duplicate_of": 25,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 58,
@@ -1741,7 +1749,8 @@
             "explanation": "Neolitik Dönem'e geçiş süreci, insanın avcı ve toplayıcı konumdan üretici konuma gelmesi, göçebeliği terk ederek yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurması süreçlerini kapsadığı için 'Neolitik Devrim' olarak adlandırılır. Metinde bu geçiş süreci \"Neolitik Devrim' olarak adlandırılır\" şeklinde açıkça belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 21,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 88,
@@ -1760,8 +1769,10 @@
             "UniteNo": 1,
             "topic": "Asur Ticaret Kolonileri Ürünleri",
             "explanation": "Orta Tunç Çağı'nda Anadolu'ya Asurlu tüccarlar kalay (tunç yapımı için gerekli) getirmiştir. İkinci önemli ürün olarak ise Babil'in dokuma kumaşları belirtilmiştir. Metinde \"Tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için olmazsa olmaz kalay madeni yer alıyordu. Tunç, bakır ve kalay alaşımıdır. Babil'in meşhur dokuma kumaşları da satışından kar elde ettikleri ikinci önemli üründü.\" ifadesi yer almaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 53,
+            "similarity_score": 0.9997861981391907
         },
         {
             "id": 89,
@@ -2043,7 +2054,8 @@
             "explanation": "Verilen dizeler, Kanuni Sultan Süleyman'ın (Muhibbi mahlasıyla) söylediği bir beytin anlamını yansıtmaktadır. Kanuni Sultan Süleyman, klasik dönem Osmanlı edebiyatının önde gelen şairlerindendir ve döneminin ihtişamına uygun eserler vermiştir. Klasik Dönem Osmanlı Kültürü başlığı altında, Necâti, Fuzûlî, Bâkî, Hayalî gibi şairlerin öne çıktığı belirtilmektedir, ancak bu beytin Muhibbi'ye ait olduğu bilgisi (genel kültür bilgisi/kastedilen içerik) dikkate alındığında, Kanuni döneminin zirve dönemi olduğu hatırlanır.",
             "is_duplicate": true,
             "duplicate_of": 89,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 103,
@@ -2082,8 +2094,10 @@
             "UniteNo": 7,
             "topic": "Osmanlı İpek Kumaşları",
             "explanation": "Metinde, Osmanlı İpek Kumaşları başlığı altında, 'seraser' ve 'kemhayr' terimlerinin tekniklere işaret ettiği belirtilmektedir. Ayrıca renkler için 'dârcınî', 'sürmaî', 'tufegî' ve 'binevş' gibi terimlerin kullanıldığına dair bilgi, genel Osmanlı kültürü (veya tekstil kültürü) bağlamında değerlendirilebilir. Bu terimler, Osmanlı ipekli kumaşlarının çeşitli çeşitlerini ve renklerini tanımlamak için kullanılır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 92,
+            "similarity_score": 0.9873985648155212
         },
         {
             "id": 105,
@@ -2164,7 +2178,8 @@
             "explanation": "Metne göre, Cumhuriyetin kurulduğu 1923 yılında sahne sanatlarıyla birlikte müzik alanında eğitim veren ilk resmi kuruluş Konservatuvar (Darü'l-Elhan) idi. Bu kurumun daha sonra Ankara Devlet Konservatuvarına dönüşecek olan Musiki Muallim Mektebi'nin 1924'te açılmasıyla bir dönüm noktası yaşadığı belirtilmektedir.",
             "is_duplicate": true,
             "duplicate_of": 98,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 109,
@@ -2185,7 +2200,8 @@
             "explanation": "Metinde, Geç Hitit Krallıklarından Sam'al'ın (Gaziantep-Zincirli Höyük) en ilham verici özelliğinin, ana kaleyi çevreleyen, pergelle çizilmiş kadar düzgün bir daire olan şehir suru ve planı olduğu belirtilmiştir. Bu dairesel planın, ilerideki İslam kentlerine örnek teşkil ettiği de eklenmiştir.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 110,
@@ -2204,8 +2220,10 @@
             "UniteNo": 8,
             "topic": "Köy Enstitüleri",
             "explanation": "Metinde, İkinci Dünya Savaşı sonrasında Kırsal alanda rejimin yeni değerlerini yaymak ve öğretmen eksikliğini gidermek için 1940 yılında Köy Enstitüleri kurulduğu belirtilmektedir. Bu kurumların müfredatında kültür dersleriyle birlikte tarım ve zanaatkârlık gibi pratik becerilere de ağırlık verildiği vurgulanmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 82,
+            "similarity_score": 0.9968633651733398
         },
         {
             "id": 111,
@@ -2224,8 +2242,10 @@
             "UniteNo": 2,
             "topic": "Anadolu Arkeolojisi",
             "explanation": "Soru, Batı Anadolu'dan zengin buluntular sağlayan, ilk kent örneği olan ve Homeros'un İlyada Destanı'na konu olmuş yerleşimi sormaktadır. Ünite 2 özetinde, Heinrich Schliemann tarafından kazılan Troia (Hisarlık Tepe) yerleşmesinin bu özelliklere sahip olduğu ve Anadolu arkeolojisinde çok önemli bir yer tuttuğu belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 38,
+            "similarity_score": 0.9954888820648193
         },
         {
             "id": 112,
@@ -2326,7 +2346,8 @@
             "explanation": "Sayfa 1'de Orta Tunç Çağı'nda Asur Kolonileri Dönemi'nden bahsedilirken, Asur şehrinin bugünkü Musul yakınlarında olduğu belirtilmiştir. Bu şehirde kurulan karumlar (tüccar merkezleri) aracılığıyla ticaret yapılırdı. Musul, günümüzde Irak'ın sınırları içerisinde yer almaktadır.",
             "is_duplicate": true,
             "duplicate_of": 24,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 117,
@@ -2347,7 +2368,8 @@
             "explanation": "Sayfa 2'de kervansarayların iktisadi vazifeleri dışında, hudutlara yakın yerlerde askeri vazifeler de gördüğüne ve İbn Bîbî'nin eserinde bu yapıların askeri seferler bağlamında geçtiğine değinilmektedir. Bu yapılar hem konaklama hem de savunma/askeri amaçlar için kullanılmıştır.",
             "is_duplicate": true,
             "duplicate_of": 81,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 118,
@@ -2408,7 +2430,8 @@
             "explanation": "Sayfa 1'de Urartu kültürü anlatılırken, Urartuların çok tanrılı bir dine inandığı ve fethettikleri halkların tanrılarını da panteona kattıkları belirtilir. Urartu devletinin baş tanrısı, Meherkapı Nişi'ndeki yazıtta belirtildiği üzere Haldi'dir ve Urartu kalelerinde mutlaka bir Haldi tapınağı bulunurdu.",
             "is_duplicate": true,
             "duplicate_of": 32,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 121,
@@ -2427,8 +2450,10 @@
             "UniteNo": 5,
             "topic": "Bizans Tekstil Sanatı",
             "explanation": "Soru, Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılan kumaşlardaki madalyonlar içinde görülen hayali yaratıklardan birini sormaktadır. Ünite 5 özetinde, bu kumaşlarda 'aslan, kartal, fil, grifon (Resim 5. 11), sfenks gibi hayali yaratıkların tasvirleri görülmektedir' denilerek Grifon'un (E) şıkkı ile eşleştiği belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 103,
+            "similarity_score": 0.9919896125793457
         },
         {
             "id": 122,
@@ -2447,8 +2472,10 @@
             "UniteNo": 5,
             "topic": "Bizans Dini Hayat",
             "explanation": "Soru, Hıristiyan litürjisinde Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı ana ayini sormaktadır. Ünite 5 özetinde, 'Ökaristi: Ökaristi İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin en çarpıcı göstergelerinden biridir.' ifadesi yer almaktadır. Bu, Ökaristi'nin tanımıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 79,
+            "similarity_score": 0.9986525177955627
         },
         {
             "id": 123,
@@ -2706,7 +2733,8 @@
             "explanation": "Ankara'nın imar ve planlamasında rol oynayan Avrupalı mimarlar arasında Theodor Post, Ernst Egli, Clemens Holzmeister ve Herman Jansen yer almıştır. Heinrich Krippel ise bu listede yer almamaktadır (Metinde adı geçen diğerleri Avrupalı mimarlardır). Doğru kabul edilen şık A şıkkıdır (Heinrich Krippel).",
             "is_duplicate": true,
             "duplicate_of": 67,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 136,
@@ -2807,7 +2835,8 @@
             "explanation": "Lidya Krallığı, MÖ. 547'de Persler tarafından ele geçirilerek yıkılmıştır. Ünite 3'te, 'MÖ. 547'de Persler Sardeis'i ele geçirirler ve Lidya Krallığı yıkılır.' bilgisi mevcuttur.",
             "is_duplicate": true,
             "duplicate_of": 3,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 141,
@@ -2848,7 +2877,8 @@
             "explanation": "Roma Dönemi'nde, Hıristiyan inancının ilk dönemlerinde, Hıristiyanlar tapınak yerine yeraltı mezarlarında toplandılar ve ibadet ettiler. Bu yeraltı mezarlarının genel adı 'Katakomplar'dır. Ünite 4'teki Roma Dönemi Kültürü bölümünde, 'Katolik Kültü olarak bilinen bazı kişilerin kafataslarının alınarak ve aynı zamanda bunların alçı ile sıvanıp etlendirilmek suretiyle canlandırıldığı bir eylem söz konusu olmuştur' bilgisinden sonra, 'Katakomp' kelimesi geçmemekle birlikte, Roma'daki 'Katakomplarda' yapılan fresklerden bahsedilmektedir. Ayrıca, 'Hıristiyanlığın ilk yıllarında... toplumu tehdit eden ve sonunda Hıristiyanlığın zaferini simgeleyen, yeraltı mezarlarında ibadet ettikleri' bilgisi, bu yerlerin önemini vurgular. Katakomplar, erken Hıristiyanların gizli ibadet ve defin yerleri olarak bilinir.",
             "is_duplicate": true,
             "duplicate_of": 62,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 143,
@@ -2867,8 +2897,10 @@
             "UniteNo": 1,
             "topic": "Neolitik Devrim",
             "explanation": "Anadolu'da Neolitik Dönem'e geçiş süreci, avcı ve toplayıcı toplumların üretici konuma gelmelerine, göçebeliği terk etmelerine ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmalarına temel oluşturduğu için 'Neolitik devrim' olarak adlandırılır (Ünite 1, Anadolu'da Neolitik Dönem'e Geçiş, İlk Köyler ve Kentler başlığı). Bu, insanın tarihsel gelişimindeki ilk önemli sıçrama noktasıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 87,
+            "similarity_score": 0.9630528092384338
         },
         {
             "id": 144,
@@ -2889,7 +2921,8 @@
             "explanation": "Ünite 4'te, 'Dönemin tarih yazıcılığı konusunda Anadolu'da karşımıza çıkan ilk örnek aslında daha çok coğrafyacı kimliğiyle ön plana çıkan, Amasia (Amasya) doğumlu Strabon'dur (MÖ 64/63-MS. 21).' bilgisi yer almaktadır. Strabon, Paris elçisi olmasa da, İskender'in seferlerine katılan Nearkhos ve Ptolemaios'un çalışmalarından yararlanarak Anadolu coğrafyası hakkında önemli bilgiler vermiştir. Ancak, sorunun bahsettiği elçilik görevi ve eseri (Paris Sefaretnamesi) ile tanınan kişi, aynı ünitede bahsedilen ve 'Saray' konusunun geçtiği' dönemle ilgili olan 18. yüzyıl Osmanlı'sı ile daha çok ilişkilidir (Ünite 7). Cumhuriyet dönemi için de 'Dilde Reform' başlığında bahsedilen 'Tanzimat sonrası Türk Edebiyatı' bölümünde edebiyatçılardan bahsedilir. Ancak, Ünite 4'te Anadolu'nun erken dönem tarihçileri arasında, MÖ 64/63 doğumlu coğrafyacı Strabon öne çıkar. Eğer soru Cumhuriyet dönemi bağlamında sorulmuşsa, Amasya doğumlu Strabon uygun değildir. Ancak, verilen metinler içinde en yakın tarihçi bilgisi Ünite 4'te Strabon için verilmiştir. Ancak, sorudaki 'Paris elçiliği' ve '1721' tarihi, genellikle 18. yüzyıl Osmanlı dönemi (Ünite 7) ile ilişkilendirilen Yirmisekiz Mehmed Çelebi'ye işaret eder. Metinlerde bu özelliklere uyan bir isim yoktur. Verilen üniteler arasında, 18. yüzyıl kültürü (Ünite 7'de Tanzimat öncesi) ile ilgili ipuçları mevcuttur. Ünite 7'de 'Yenileşme Döneminde Resim ve Heykel' bölümünde '18. yüzyılın ikinci yarısından itibaren Padişahlar yerli ve yabancı birçok ustaya portrelerini yaptırmışlardır.' denilmektedir. Sorunun içeriği (Paris Elçiliği ve 1721 dönüşü) Ünite 7'deki Tanzimat öncesi döneme daha uygundur; ancak bu dönemde adı geçen bir elçi yok. Ünite 4'teki Strabon, coğrafyacıdır ve bahsi geçen format (elçi) ile doğrudan eşleşmez. Sorunun bağlamı (1720'ler), Ünite 7'de bahsedilen 'Yenileşme Döneminin başlangıcı'na, özellikle Lale Devri'ne (III. Ahmed dönemi) denk gelir. Ancak, verilen metinlerde bu spesifik kişinin adı geçmemektedir. Soru 3, Ünite 7'de geçen Yirmisekiz Mehmed Çelebi'ye ait bir bilgidir (Paris sefâreti), ancak metinlerde (Ünite 7) sadece III. Selim'den bahsedilmektedir. Ünite 7'de III. Selim döneminde dil reformu denemesinden bahsedilmektedir. Ünite 7'de III. Selim'den sonra gelen dönemdeki (Tanzimat) dil sorunlarından bahsedilirken, Ünite 4'te Strabon'dan bahsedilir. Verilen metinlere sadık kalmak gerekirse, bu sorunun cevabı Ünite 4 veya 7'deki bilgilerle tam olarak bulunamıyor. Ancak, bu özellikler (Paris sefaretnamesi, 1721) genellikle Yirmisekiz Mehmed Çelebi'ye atfedilir ve bu dönem Osmanlı'nın yenileşme başlangıcıdır (Ünite 7). Verilen metinlerde bu isim geçmediği için, en yakın kültürel dönemi temsil eden Ünite 7'den bir cevap aranmalıdır. Ünite 7'de bu kişi adı geçmediği için, Ünite 4'teki tarihçiler arasında en öne çıkan Strabon seçilebilir, ancak bu soruya en uygun cevap, dış bilgi gerektiren Yirmisekiz Mehmed Çelebi'dir. Metinler arasında tam bir eşleşme olmadığı için, en uygun düşen (Ünite 4'teki tarihçi) Strabon seçilmiştir, ancak bu bilgi metinlerdeki 'Paris Elçiliği' detayıyla tam uyuşmamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 137,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 145,
@@ -3030,7 +3063,8 @@
             "explanation": "II. Abdülhamid'in (1876-1908) döneminde Batı musikisine eğilimi vardı. Ancak, ondan önceki padişah II. Abdülaziz, opera ve Batı musikisinin icralarını durdurmuş, bunun yerine Ortaoyunu ve tulûat gibi geleneksel gösteri sanatlarına yönelmiştir.",
             "is_duplicate": true,
             "duplicate_of": 123,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 152,
@@ -3051,7 +3085,8 @@
             "explanation": "Metin And'a göre Batı tiyatrosunun benimsenmesinde etkili olan nedenler arasında ilki Türkçe oyunların yazılması, ikincisi yüksek devlet görevlilerinin ve azınlıkların (kozmopolit yapı) katılımı, üçüncüsü de profesyonel oyuncuların (Ahmet Necip Efendi) ortaya çıkmasıdır. Taşrada yaşayan halkın (kırsal kesimin) bu geçişte aktif bir rol oynadığına dair bir bilgi metinde bulunmamaktadır; aksine, tiyatro Beyoğlu gibi şehirlerde gelişmiştir. Doğru kabul edilen şık A şıkkıdır (Taşrada yaşayan halk).",
             "is_duplicate": true,
             "duplicate_of": 139,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 153,
@@ -3112,7 +3147,8 @@
             "explanation": "Metne göre, mimarlıkta güç, ciddiyet ve devlet otoritesini simgeleyen yapılar, Kanuni Sultan Süleyman döneminde Mimar Sinan tarafından inşa edilen Süleymaniye ve Selimiye Külliyeleri başta olmak üzere ihtişamlı anıtsal yapılardır.",
             "is_duplicate": true,
             "duplicate_of": 125,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "similarity_score": 1.0
         },
         {
             "id": 156,
@@ -3231,8 +3267,10 @@
             "UniteNo": 6,
             "topic": "Selçuklu Ekonomik Politikası",
             "explanation": "Selçukluların Anadolu'daki fethinde 'ekonomi politik' belirleyici olmuştur. Bu politikada, fetihle birlikte gelen toprakların halka dağıtılması (tımar/ıkta sistemi), vergi sistemi ve ticaretin geliştirilmesi ana unsurlardır. Özellikle yollar, kervansaraylar ve pazarların düzenlenmesi bu ekonomik yapının temelini oluşturmuştur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 112,
+            "similarity_score": 0.96843421459198
         },
         {
             "id": 162,
@@ -3291,8 +3329,10 @@
             "UniteNo": 4,
             "topic": "Roma Dönemi Hristiyanlık",
             "explanation": "Roma'da Hıristiyanların ibadet ettikleri, ölülerini gömdükleri ve toplanma alanları olarak kullandıkları yeraltı mezarlarına 'Katakomp' adı verilir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 142,
+            "similarity_score": 0.9721032381057739
         },
         {
             "id": 165,
@@ -3331,8 +3371,10 @@
             "UniteNo": 8,
             "topic": "Cumhuriyet Müzik Reformu",
             "explanation": "Cumhuriyetin ilk yıllarında, Batı tekniğiyle işlenerek millî müzik oluşturma hedefi vardı. Bu amaçla, Türk sanat müziği ve Türk halk müziği yayınları radyoda artırılırken, Ankara Devlet Konservatuarı gibi kurumlar çok sesli müzik kültürünü yaymakla görevlendirildi. Türk Beşleri bu çabanın temsilcilerindendir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 75,
+            "similarity_score": 0.9638437628746033
         },
         {
             "id": 167,
@@ -3371,8 +3413,10 @@
             "UniteNo": 3,
             "topic": "Neolitik Dönem Ana Tanrıça",
             "explanation": "MÖ. 7. Binde Seramikli Neolitik Döneme gelindiğinde, özellikle Çatalhöyük'te kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sisteminin, Kubaba/Kibele ana tanrıça inancının temelini oluşturduğu düşünülmektedir. Bu heykelcikler Çatalhöyük'te karşımıza çıkar.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 128,
+            "similarity_score": 0.9787247776985168
         },
         {
             "id": 169,
@@ -3451,8 +3495,10 @@
             "UniteNo": 8,
             "topic": "Cumhuriyet Müzik Eğitimi",
             "explanation": "Cumhuriyetin kurulduğu 1923 yılında sahne sanatları ve müzik alanında eğitim veren iki resmi kuruluştan ilki Konservatuvar (Darü'l-Elhan) idi. Ünite 8'de, daha sonra Ankara Devlet Konservatuvarına dönüşecek olan Musiki Muallim Mektebi'nin 1924 yılında açıldığı ve bunun müzik alanında bir dönüm noktası olduğu belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 108,
+            "similarity_score": 0.9668306708335876
         },
         {
             "id": 173,
@@ -3491,8 +3537,10 @@
             "UniteNo": 3,
             "topic": "Frig Kralı Midas Evliliği",
             "explanation": "Frig kralı Midas'ın evlendiği Aiol kenti prensesinin Myrina olduğu bilgisi verilmiştir. Ünite 3'te, Midas'ın sınırlarının Kütahya'ya kadar uzandığı belirtilirken, Aiol kentleri listelenmiştir (Gryneion, Larissa, Pitane, Kyme, Myrina). Sorunun doğru kabul edilen şıkkı E şıkkıdır (Kyme). Metinlerde Larissa'nın adı geçmesine rağmen, Midas'ın evliliği için Kyme doğru kabul edilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 43,
+            "similarity_score": 0.9601306915283203
         },
         {
             "id": 175,

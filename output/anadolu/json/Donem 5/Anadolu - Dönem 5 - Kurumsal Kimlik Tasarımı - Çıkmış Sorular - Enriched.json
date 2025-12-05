@@ -494,7 +494,8 @@
             "explanation": "Ünite 1'e göre Kurumsal Kimliğin Unsurları (Bileşenleri) Kurum Felsefesi, Kurumsal Davranış, Kurumsal İletişim ve Kurumsal Tasarım'dır. Marka adı, logo, renk paleti gibi görsel unsurlar 'Kurumsal Tasarım' bileşeninin altındadır. 'Kurumsal İtibar' ise bu unsurların bir sonucu olarak ortaya çıkan algıdır, doğrudan kimliğin yapısal bir bileşeni (felsefe, davranış, iletişim, tasarım gibi) olarak listelenmemiştir.",
             "is_duplicate": true,
             "duplicate_of": 7,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 26,
@@ -535,7 +536,8 @@
             "explanation": "Ünite 2'de Markanın farklı yönleri ve kullanım şekilleri; Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka başlıkları altında verilmiştir. Aile markası (AİLE MARKASI), marka türlerinden biridir, kullanım şekli (formu) ile ilgili bir kategori değildir.",
             "is_duplicate": true,
             "duplicate_of": 11,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 28,
@@ -556,7 +558,8 @@
             "explanation": "Ünite 8'de Kurumsal Kimlik Tasarımını Oluşturan Temel Görsel Bileşenler arasında Logo, Renk, Tipografi, Kartvizit, Antetli Kağıt ve Devam Kağıdı, Cepli Dosya, Fatura/İrsaliye/Makbuz, Zarf, Kaşe, Yaka İğnesi, Promosyon Ürünleri, Outdoor, Web Banner, Bagaj Etiketleri, Üniformalar, Koruyucu Ekipmanlar sayılmıştır. Marka ismi (marka adı) bu görsel bileşenlerden ayrı olarak Marka İsmini Belirleme Süreci başlığı altında incelenmiştir ve görsel bileşenlerin *altında* listelenmemiştir.",
             "is_duplicate": true,
             "duplicate_of": 8,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 29,
@@ -617,7 +620,8 @@
             "explanation": "Soru, bir kavramı, fikri veya nesneyi ileten göstergeyi ve nesnelerin fiziksel anlamda tanınabilen temsilini ifade etmektedir. Ünite 3'te belirtildiği üzere, 'Sembol' bir kavramı, fikri veya nesneyi temsil etmek için kullanılan göstergedir ve nesnelerin fiziksel anlamda tanınabilen temsilidir. Dolayısıyla doğru cevap 'Sembol'dür.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 32,
@@ -779,7 +783,8 @@
             "explanation": "Ünite 4'te, Tasarım İş Tanımı Belgesinin genel olarak tasarım sürecindeki işlevleri sıralanmıştır: Proje/problem tanımı hazırlama, stratejik amaçların belirlenmesi, pazarlama analizleri/estetik önceliklerin derlenmesi, hedef kitlenin belirlenmesi, ticari planları somutlaştırma, süreç takibi/takvimi, yaratıcılığı tetikleme/kriter belirleme, tasarım unsurları/teslim materyalleri belirleme, projenin/ekibin başarısını ölçme. 'Süreç takibi ve takvimi' bu işlevlerden biridir. 'Marka mimarisinin belirlenmesi' ise daha çok strateji veya uygulama aşamasıyla ilgili bir çıktıdır; iş tanımının doğrudan bir işlevi olarak listelenmemiştir.",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 40,
@@ -859,8 +864,9 @@
             "topic": "Marka Kullanım Şekilleri",
             "explanation": "Ünite 6'ya göre markanın kullanım şekilleri arasında Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka bulunmaktadır. 'Rakip Marka Analizi' ise markanın bir kullanım şekli değil, marka stratejisinin bir parçası olan analiz sürecidir. Bu nedenle 'Rakip Marka Analizi' markanın kullanım şekillerinden biri değildir.",
             "is_duplicate": true,
-            "duplicate_of": 11,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 27,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 44,
@@ -1215,7 +1221,8 @@
             "explanation": "Boş bırakılan yer, Kurumsal Kimlik ile tamamlanmalıdır. Ünite 1'de belirtildiği üzere, Kurumsal Kimlik, bir organizasyonun bütünlüğünü, kendini tanımlama ve dış dünyaya nasıl görünmek istediği ile ilgili unsurları içeren geniş bir terim olarak tanımlanır.",
             "is_duplicate": true,
             "duplicate_of": 41,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 62,
@@ -1237,7 +1244,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 42,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.998293936252594
         },
         {
             "id": 63,
@@ -1278,7 +1286,8 @@
             "explanation": "Kurumsal kimlik tasarımının aşamalarından Görsel Kimlik Unsurları aşamasında logo, renk paleti, tipografi ve semboller gibi görsel kimlik unsurları tasarlanır. Ünite 4'te bu aşamalar sıralanırken, Görsel Kimlik Unsurları başlığı altında bu ögelerin belirlenip tasarlandığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 17,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 65,
@@ -1375,7 +1384,8 @@
             "explanation": "Markaların yazılı iletişimde font seçerken hedef kitleye uygun tipografi seçmesi ve uygulaması çok önemlidir. Ayrıca, tipografik mesajın anlam taşıyıcısı olduğu ve tasarıma başlanmadan önce marka için en uygun tipografik özelliklerin belirlenmesi gerektiği belirtilmiştir (Ünite 8).",
             "is_duplicate": true,
             "duplicate_of": 47,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 70,
@@ -1552,7 +1562,8 @@
             "explanation": "Ünite 3'te Kurumsal Kimlikte Amblem başlığı altında, amblem ve logonun, bir markanın kültürü, felsefesi gibi birçok özelliğini ifade etme potansiyeline sahip olduğu belirtilmiştir. Daha genel olarak, iyi geliştirilmiş bir kurumsal kimliğin temel amaçlarından biri, markanın hedef kitlede yankı uyandırmasını ve etkili bir şekilde iletişim kurmasını sağlamaktır. Dolayısıyla, iyi bir tasarımın asıl amacı, anlamı doğru bir şekilde iletmek ve hedef kitle ile bağ kurmaktır.",
             "is_duplicate": true,
             "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 79,
@@ -1573,7 +1584,8 @@
             "explanation": "Ünite 8'de Kurumsal Kimlik Tasarımını Oluşturan Temel Görsel Bileşenler altında, kurumsal renklerin farklı renk evrenlerindeki (Pantone, CMYK, RGB, HEX) karşılıklarının yazılması gerektiği belirtilmiştir. Bunun temel nedeni, tasarlanan görsel bileşenlerin uygulama alanına göre renk evreninin değişmesidir. Örneğin, basılı materyaller için CMYK, dijital platformlar için RGB veya HEX kodları kullanılır. Bu kodlar, tutarlılığı korumak ve renk kaymalarını önlemek için gereklidir.",
             "is_duplicate": true,
             "duplicate_of": 58,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 80,
@@ -1614,7 +1626,8 @@
             "explanation": "Metinde 'Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve tüketici sadakati oluşturur.' ifadesi geçmektedir. Bu nedenle boşluğu dolduran doğru unsur 'tüketici sadakati'dir.",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 82,
@@ -1635,7 +1648,8 @@
             "explanation": "Metinde kurumsal kimlik dönemleri arasında 'Marka Tekniği Dönemi'nin I. Dünya Savaşı'nın sonu ile II. Dünya Savaşı'nın başlangıcı arasındaki dönem olduğu belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 83,
@@ -1655,8 +1669,9 @@
             "topic": "Marka Kimliği Ögeleri",
             "explanation": "Ünite 6'da (Sayfa 1-2) Marka Kimliği ögeleri; marka adı, logo, slogan, renkler, tipografi, ses ve kişiliği kapsar. Yapılan analizler sonucunda, Marka Mimarisi'nin ana ögeleri marka adı, marka sembolleri, marka kişiliği, marka konumlandırması ve marka iletişimidir. Rakip analizi (Piyasa ve Rakip Analizi) ise stratejik bir süreçtir, kimliğin temel bir unsuru (logo, renk vb.) olarak doğrudan sayılmaz. Bu nedenle rakip analizi, kimliği oluşturan temel bileşenlerden biri değildir.",
             "is_duplicate": true,
-            "duplicate_of": 8,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 28,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 84,
@@ -1697,8 +1712,9 @@
             "explanation": "Metinde (Sayfa 2, Sol Sütun, Kurumsal Kimlikte Sembol başlığı altında) Sembol tanımı şu şekilde verilmiştir: 'Sembollerde, işaret eden ile edilen şey arasındaki ilişki nedensizdir. Anlam, öğrenilmiş veya üzerinde uzlaşılmış çağrışımlar yoluyla gerçekleştirilir. Bu duruma örnek olarak güvercin imgesinin barışın sembolü olarak bilinmesini gösterebiliriz. Sözlü veya yazılı kelimeler de semboldür. Sembol; bir kavramı, fikri veya nesneyi ileten göstergedir. Semboller, nesnelerin fiziksel anlamda tanınabilen temsilidir.'",
             "is_duplicate": true,
             "occurrence_count": 1,
-            "duplicate_of": 9,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 31,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9967420697212219
         },
         {
             "id": 86,
@@ -1719,7 +1735,8 @@
             "explanation": "Metinde (Sayfa 1, Sağ Sütun, Kurumsal Kimlik Tasarımında Yaratıcılık başlığı altında) yaratıcı sürecin iki temel düşünme şekli olduğu belirtilmiştir: 'Iraksak düşünme, olası çözümler için bir arka plan olarak kullanılabilecek çok sayıda yeni fikir üretme eylemidir; karşılaştırıldığında, Yakınsak düşünme, farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabasıdır.' Bu nedenle sıralama 'Iraksak Düşünme' ve ardından 'Yakınsak Düşünme' olmalıdır.",
             "is_duplicate": true,
             "duplicate_of": 44,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 87,
@@ -1740,7 +1757,8 @@
             "explanation": "Ünite 3 metninde (Sayfa 1, Giriş bölümü) kimlik kavramı şöyle tanımlanmıştır: 'Kimlik; bir kurumun hizmet düzeyi ve iş yapma yaklaşımı gibi davranışsal özelliklerini tanımlamak için kullanılan bir terimdir.'",
             "is_duplicate": true,
             "duplicate_of": 14,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 88,
@@ -1760,8 +1778,9 @@
             "topic": "Kurumsal Kimlik Tasarım Aşamaları",
             "explanation": "Metinde (Sayfa 3, Sağ Sütun, Görsel Kimlik Unsurları başlığı altında) görsel kimlik unsurlarının (logo, renk paleti, tipografi ve semboller) tasarlandığı aşama, 'Görsel Kimlik Unsurları' başlığı altında anlatılan aşamadır. Tasarım sürecinin aşamaları sıralanırken bu aşama ikinci sırada yer almaktadır: 1. Stratejik Analiz ve Planlama, 2. Görsel Kimlik Unsurları (tasarımın yapıldığı yer), 3. Metinsel İçerikler vb.",
             "is_duplicate": true,
-            "duplicate_of": 17,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 64,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 89,
@@ -1781,8 +1800,9 @@
             "topic": "Tipografi Seçimi Kuralları",
             "explanation": "Metinde (Sayfa 2, Sol Sütun, Tipografi Seçimi başlığı altında) tipografi seçimi için önemli bir kural belirtilmiştir: 'Tipografik farklılıklar okunaklılığı ve hedef kitlede oluşan duyguları değiştirebilir. Hedef kitleye ve sektöre uygun tipografi seçmek ve uygulamak bu nedenle çok önemlidir.' Ayrıca, farklı dil desteklerinin de düşünülmesi gerektiği belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 47,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 69,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 90,
@@ -1803,7 +1823,8 @@
             "explanation": "Metinde (Sayfa 1, Sağ Sütun, Görsel Kimlik Elemanları altında) alternatif logoların tanımı ve amacı açıklanmıştır: 'Alternatif logolar, ana logonun farklı versiyonları, örneğin yatay ve dikey kullanıma uygun alternatifler veya renkli ve tek renkli versiyonlarının yer aldığı kısımdır. Bu bölümde farklı kullanım alanlarına göre uyarlanmış logolar da bulunabilir. Örneğin, sosyal medya profili için kırpılmış logo veya küçük boyutlu kullanım için basitleştirilmiş logo gibi.'",
             "is_duplicate": true,
             "duplicate_of": 49,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 91,
@@ -1863,7 +1884,9 @@
             "topic": "Segmentasyon Araştırmaları",
             "explanation": "Segmentasyon analizlerinin kullanım amacı, tüketici kitlesi üzerinde geniş kapsamlı araştırmalar yaparak onları sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır. Ünite 6'da Segmentasyon Araştırmaları, tüketici kitlesi üzerinde geniş kapsamlı araştırmaların yapıldığı aşama olarak tanımlanır ve amacı sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 66,
+            "similarity_score": 1.0
         },
         {
             "id": 94,
@@ -1923,8 +1946,9 @@
             "topic": "Tasarım Anlamı",
             "explanation": "İyi bir tasarımın asıl amacı, iletilmek istenen anlam ile gösterge arasında ilişki kurarak anlamı oluşturmaktır. Ünite 3'te Kurumsal Kimlikte Anlam başlığı altında, \"Kurumsal kimlik tasarımında iletilmesi istenilen anlamla ifade eden gösterge arasında önemli bir ilişki yer almaktadır\" ve bu gösterge tercihi iletmek istenen imge kalitesi ile bağlantılıdır denilmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 78,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 97,
@@ -1945,7 +1969,8 @@
             "explanation": "Görsel kimliğin dört temel amacından biri, markanın rekabet içerisinde farklılaşmasına yardım etmektir. Ünite 7'de, Kurumsal Kimlik Kataloğunun Önemi ve Avantajları altında, görsel kimliğin amaçları sıralanırken, üçüncü amaç olarak markanın rekabet içerisinde farklılaşmasına yardım etmek belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 98,
@@ -1966,7 +1991,8 @@
             "explanation": "Boş bırakılan yeri, kurumun vizyonunu ve misyonunu doğru şekilde tamamlar. Ünite 5'te Kurum Kimliği Kataloğunu Oluşturan Elemanlar bölümünde, katalogun, marka varlıklarını korumaya, güçlü ve alakalı mesajlar oluşturmaya yardımcı olduğu ve markanın her parçasının önemli olduğu belirtilmiştir. Kurumun vizyonunu ve misyonunu yansıtan temel kimlik ögelerinin kılavuzda yer alması genel bir uygulamadır.",
             "is_duplicate": true,
             "duplicate_of": 51,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 99,
@@ -2007,7 +2033,8 @@
             "explanation": "Kurumsal kimlik tasarım süreci yedi aşamadan oluşur ve bu aşamalardan biri olmayan adım, Kurum Kimliği Kataloğunu Hazırlamak'tır. Ünite 8'de süreç 'analiz aşaması' ile başlar ve 'geri bildirim ve revizyon' sonrası 'onay ve dağıtım' ile devam eder. Kurumsal Kimlik Kılavuzunun hazırlanması (tasarımı), bu sürecin bir çıktısıdır, sürecin kendisi değil, aşamaları arasında sayılmaz. Kılavuzun oluşturulması, sürecin sonunda yapılan ana çalışmalardan biridir.",
             "is_duplicate": true,
             "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0
         },
         {
             "id": 101,
@@ -2029,7 +2056,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 24,
-            "original_source": "Ara Sınav 2024-2025"
+            "original_source": "Ara Sınav 2024-2025",
+            "similarity_score": 0.9944580793380737
         },
         {
             "id": 102,
@@ -2049,8 +2077,9 @@
             "topic": "Markanın Kullanım Şekilleri",
             "explanation": "Ünite 6'da Markanın Kullanım Şekilleri (Marka Varlık Nedenini Belirleme kapsamında) şu şekilde sıralanmıştır: 1. Markanın gerçeklerini belirleme (Kurum/Kuruluş Olarak Marka), 2. Pazarın gerçeklerini belirleme (Ürün Olarak Marka ile ilgili), 3. Kültür ve sosyal gereklilikleri belirleme. Ayrıca kişi ve sembol olarak marka kullanımları da Ünite 3'te belirtilmiştir. Soru 102'deki seçenekler Ünite 6'da belirtilen Marka Tanımı altındaki kullanım şekilleriyle karşılaştırıldığında: Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka ve Kişi Olarak Marka mevcuttur. Sembol Olarak Marka (Ünite 3) veya Rakip Analizi (Ünite 6) seçenekler arasında yer almaz. Ünite 6'da açıkça listelenenler: Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka (Ünite 3'ten alınmış olabilir). Ancak Ünite 6'da açıkça belirtilen dört unsur şunlardır: Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka. Metinde 'Rakip Analizi' doğrudan bir marka kullanım şekli olarak listelenmemiştir; bu bir stratejik analiz sürecidir.",
             "is_duplicate": true,
-            "duplicate_of": 11,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 43,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 103,
@@ -2110,8 +2139,9 @@
             "topic": "Kurumsal Kimlikte Sembol",
             "explanation": "Ünite 3'te Kurumsal Kimlikte Sembol başlığı altında, 'Semboller, bir kavramı, fikri veya nesneyi ileten göstergedir. Semboller, nesnelerin fiziksel anlamda tanınabilen temsilidir.' ifadesi yer almaktadır. Bu tanım, sorudaki kavramı açıkça işaret etmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 9,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 85,
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9967420697212219
         },
         {
             "id": 106,
@@ -2133,7 +2163,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 40,
-            "original_source": "Ara Sınav 2024-2025"
+            "original_source": "Ara Sınav 2024-2025",
+            "similarity_score": 0.9810681343078613
         },
         {
             "id": 107,
@@ -2153,8 +2184,9 @@
             "topic": "Alternatif Logoların Önemi",
             "explanation": "Ünite 5'te Görsel Kimlik Elemanları altında, alternatif logoların 'ana logonun farklı versiyonları, örneğin yatay ve dikey kullanıma uygun alternatifler veya renkli ve tek renkli versiyonlarının yer aldığı kısımdır' ve 'farklı kullanım alanlarına göre uyarlanmış logolar' olduğu belirtilmiştir (sosyal medya profili için kırpılmış logo veya küçük boyutlu kullanım için basitleştirilmiş logo gibi). Amaçları, logonun farklı platformlara ve kullanım gereksinimlerine uyarlanmasını sağlamaktır.",
             "is_duplicate": true,
-            "duplicate_of": 49,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 90,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 108,
@@ -2176,7 +2208,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 16,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "similarity_score": 0.9915963411331177
         },
         {
             "id": 109,
@@ -2196,8 +2229,9 @@
             "topic": "Düşünme Şekilleri",
             "explanation": "Ünite 4'te Kurumsal Kimlik Tasarım Problemi ve Yaratıcılık başlığı altında, yaratıcı sürecin iki temel düşünme şeklinden oluştuğu belirtilmiştir: 'Iraksak düşünme' (benzersiz fikir üretimi) ve 'Yakınsak düşünme' (fikirleri birleştirme ve tek bir çözüme ulaşma). Bu iki süreç de tasarım sürecinin her aşamasında önemlidir.",
             "is_duplicate": true,
-            "duplicate_of": 44,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 86,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 110,
@@ -2219,7 +2253,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 46,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 0.9500525593757629
         },
         {
             "id": 111,
@@ -2300,7 +2335,8 @@
             "explanation": "Ünite 6'da Rakip Analizi başlığı altında, bu analizin sadece yaratıcı çıktıları değil, aynı zamanda temel stratejileri, iş birliklerini, kullanıcı katılımını ve yenilikçi unsurları da kapsaması gerektiği belirtilmektedir. Ayrıca, dijital ve fiziksel alanların incelenmesi gerektiği de vurgulanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 91,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 115,
@@ -2321,7 +2357,8 @@
             "explanation": "Ünite 7'de Kurumsal Kimlik Kataloğu'nun (Kılavuz) temel amacı, markanın tutarlı bir şekilde temsil edilmesini sağlamaktır. Bu tutarlılık, tüm iletişim ve pazarlama materyallerinde aynı görünüm ve mesajın iletilmesini sağlar, böylece marka bilinirliği ve güvenilirliği artar.",
             "is_duplicate": true,
             "duplicate_of": 74,
-            "original_source": "Dönem Sonu 2024-2025"
+            "original_source": "Dönem Sonu 2024-2025",
+            "similarity_score": 1.0
         },
         {
             "id": 116,
@@ -2361,8 +2398,9 @@
             "topic": "Görsel Kimliğin Amaçları",
             "explanation": "Metinde görsel kimliğin dört amacından biri olarak \"markanın kabulünü ve anımsanmasını yaygınlaştırmaktır\" ifadesi geçmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 97,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         },
         {
             "id": 118,
@@ -2384,7 +2422,8 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 99,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "similarity_score": 0.9747205972671509
         },
         {
             "id": 119,
@@ -2424,8 +2463,9 @@
             "topic": "Görsel İmge ve Anlam",
             "explanation": "Ünite 3'te Kurumsal Kimlikte Anlam başlığı altında, görsel kimlik tasarımında iletilmek istenen anlam ile gösterge arasında önemli bir ilişki olduğu belirtilir. Göstergenin tercih edilme amacı, iletmek istediği anlam/imge kalitesi ile bağlantılıdır. Yani temel amaç, tasarımla doğru anlamı tüketiciye aktarmaktır. 'Pazarda farklılaşmak' ve 'tüketicinin dikkatini çekmek' sonuçlardır, asıl amaç anlamın doğru kodlanmasıdır.",
             "is_duplicate": true,
-            "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 96,
+            "original_source": "Dönem Sonu 2023-2024",
+            "similarity_score": 1.0000001192092896
         }
     ]
 }

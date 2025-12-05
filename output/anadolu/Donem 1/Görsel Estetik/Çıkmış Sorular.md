@@ -15,19 +15,6 @@
 
     <hr />
 
-### Antik Çağ Estetikçileri
-
-1. Aşağıdakilerden hangisi Antik Çağ estetik düşüncesini oluşturan düşünürlerden biridir? *(2 kez soruldu)*
-    - A-) Epikuros
-    - B-) Demokritos
-    - **Cevap C-) Plotinus**
-    - D-) Herakleitos
-    - E-) Pythagoras
-
-    > **Açıklama:** Metinde, Antik Çağ estetik düşüncesini oluşturan düşünürler arasında Platon, Aristoteles ve Plotinus'un olduğu belirtilmiştir. 'mimesis olarak sanat düşüncesi ekseninde anlatmaları' ile Antik Çağ estetik düşüncesi anlatılmıştır. Plotinus (C), Platon ve Aristoteles'in metafiziğini yeniden değerlendiren ve Neo-Platonist felsefeyi kuran önemli bir düşünürdür ve Antik Çağ estetik düşüncesini oluşturanlar arasındadır.
-
-    <hr />
-
 ### Antik Çağ Estetiği
 
 1. "Poetika" isimli eserinde sanat, sanatçı ve estetik üzerine düşüncelerini belirten düşünür aşağıdakilerden hangisidir?
@@ -611,19 +598,6 @@
 
     <hr />
 
-### Fotoğraf Algısı
-
-1. Fotoğraf uygulama alanı olarak iki boyutludur, ancak insanlar üçüncü boyuta ilişkin deneyimlerinden dolayı fotoğrafı da üç boyutlu gibi algılarlar. Bu durum bir tür -------- olarak tanımlanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) renklendirme
-    - B-) tamamlama
-    - **Cevap C-) yanılsama**
-    - D-) doğaçlama
-    - E-) planlama
-
-    > **Açıklama:** Fotoğrafın düz bir yüzeyde sanki gerçekmiş gibi görünmesi veya üç boyutlu etkisi, ışık ve renk ile ilgili fiziksel bir olaydır. Fotoğrafta, üçüncü boyutu hissettiren durum derinlik duygusudur. Bu durum özellikle çizginin yönlerinden kaynaklanmaktadır. Ancak metinde, fotoğrafın iki boyutlu yüzeyden algılanmasının, insanların üçüncü boyuta ilişkin deneyimlerinden dolayı üç boyutlu gibi algılanması durumu 'yanılsama' olarak tanımlanabilir. Fotoğraf, düz bir yüzeye uygulanan bir sanat türü olmasına rağmen, derinlik hissi yaratması algıda bir tür yanılsama yaratır.
-
-    <hr />
-
 ### Fotoğraf Pozlama ve ISO
 
 1. Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullarda aşağıdaki ISO hız değerlerinden hangisini kullanmak gerekir?
@@ -793,19 +767,6 @@
 
     <hr />
 
-### Pozlama Üçgeni
-
-1. I. Diyafram<br />II. Enstantane hızı<br />III. Beyaz ayarı<br />IV. ISO değeri<br />Yukarıdakilerden hangileri pozlamanın 'pozlama üçgeni' kavramlarındandır?
-    - A-) I ve II
-    - B-) I ve III
-    - C-) II ve III
-    - **Cevap D-) I, II ve IV**
-    - E-) II, III ve IV
-
-    > **Açıklama:** Ünite 3'te Pozlama Üçgeni (Pozlama Üçlüsü) kavramı açıklanırken, 'Pozlama ışığı dengelemek anlamına gelir. Bu dengeyi oluşturan ve pozlamanın omurgası sayılan üç temel kavram Diyafram, Enstantane hızı ve ISO hızıdır. Bu üçlüye fotoğrafta Pozlama Üçgeni denir' denilmektedir. Beyaz ayarı (III) pozlama üçgeninin bir parçası değildir.
-
-    <hr />
-
 ### Pozlama Üçgeni Yasası
 
 1. Pozlama üçgenindeki diyafram, enstantane ve ISO Hızı değeri değiştirilip farklı varyasyonlara getirilerek yine birbirinin aynı miktarda ışığı sensörde toplamak mümkündür. Yukarıda ifade edilen yasa aşağıdakilerden hangisidir?
@@ -886,19 +847,6 @@
 
     <hr />
 
-### Algı Yanılsamaları
-
-1. Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne ad verilir?
-    - A-) Görsel Yanılsama
-    - B-) Algıda değişmezlik
-    - C-) Görsel algılama
-    - D-) Algıda seçicilik
-    - **Cevap E-) Algı yanılsaması**
-
-    > **Açıklama:** Ünite 4'te Algı Yanılsaması, 'Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denir' şeklinde tanımlanmıştır. Bu durum, algının fiziksel gerçekliğin ötesinde bir yorumlama süreci olduğunu gösterir.
-
-    <hr />
-
 ### Algı Yanılsaması
 
 1. Bir çeşit optik illüzyon olarak da bilinen, algılanan an ya da durum ile gerçek durum arasındaki farklılıklar aşağıdakilerden hangisiyle açıklanır? *(3 kez soruldu)*
@@ -909,16 +857,6 @@
     - E-) Algı eksikliği
 
     > **Açıklama:** Soru, algılanan an/durum ile gerçek durum arasındaki farklılıkları açıklayan terimi soruyor. Ünite 4'te, "Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denir." ifadesi açıkça belirtilmiştir. Bu yanılsamalar optik illüzyonları içerir.
-
-    <hr />
-1. Algıladıgımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne ad verilir?
-    - **Cevap A-) Algı yanılsaması**
-    - B-) Algıda seçicilik
-    - C-) Algıda değişmezlik
-    - D-) Görsel Yanılsama
-    - E-) Görsel algılama
-
-    > **Açıklama:** Metinde, "Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denir." ifadesi yer almaktadır. Bu durum, optik illüzyon olarak da bilinir ve D şıkkı yerine doğrudan A şıkkı ile tanımlanmıştır.
 
     <hr />
 
@@ -947,26 +885,6 @@
     > **Açıklama:** Soru, insanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki verme olayını soruyor. Ünite 4'te, Görsel Algı başlığı altında, "Algıda seçicilik, insanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayıdır. Bir anlamda uyarıcılar arasında seçim yapma durumudur." ifadesi yer almaktadır. Bu durum, beynin tüm uyarıcıları aynı anda işleyememesinden kaynaklanır.
 
     <hr />
-1. İnsanların duyu organlarına gelen uyarılardan yalnızca bazılarına tepki vermesine ne ad verilir?
-    - A-) Kör nokta
-    - **Cevap B-) Algıda seçicilik**
-    - C-) Duyumsama
-    - D-) Görsel algılama
-    - E-) İmgeleme
-
-    > **Açıklama:** Algıda seçicilik, insanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi, yani uyarıcılar arasında seçim yapma durumudur. (Ünite 4, Sayfa 2)
-
-    <hr />
-1. İnsanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesine ne ad verilir?
-    - A-) Kör nokta
-    - B-) Görsel algılama
-    - C-) Duyumsama
-    - **Cevap D-) Algıda seçicilik**
-    - E-) İmgeleme
-
-    > **Açıklama:** Ünite 4'te Algıda Seçicilik, 'Algıda seçicilik, insanların duyu organlarına gelen uyarıcılardan yalnızca bazlarına tepki vermesi olayıdır' şeklinde tanımlanmıştır. Bu, beynin dikkatini odakladığı uyarıcılara tepki verme durumudur.
-
-    <hr />
 
 ### Algılama Özellikleri
 
@@ -978,19 +896,6 @@
     - **Cevap E-) Algılama kişiden kişiye değişmeyen sabit bir özellik taşır.**
 
     > **Açıklama:** Metne göre algı; görme, işitme, koku, tat, dokunma ve diğer vücut duyularıyla ilişkilidir (C) ve zihinsel süreçleri içerir (A). Algılama, gelen duyusal girdileri organize ederek bir anlam verme sürecidir (D). Algılama, kişinin kültürel değerleri, inançları, ilgi alanları ve deneyimlerine göre şekillenen, kişiden kişiye değişebilen bir düzeydir. 'Algılama kişiden kişiye değişmeyen sabit bir özellik taşır' ifadesi yanlıştır. Bu nedenle E şıkkı yanlıştır.
-
-    <hr />
-
-### Algısal Değişkenler
-
-1. Aşağıdakilerden hangisi algıda kişiye bağlı değişkenlerden biri değildir? *(2 kez soruldu)*
-    - A-) Gereksinimler
-    - B-) Beklentiler
-    - C-) İlgi alanları
-    - **Cevap D-) Nesnenin fiziksel özellikleri**
-    - E-) Değerler ve inançlar
-
-    > **Açıklama:** Metinde görsel algı sürecini belirleyen faktörler listelenirken, "Sahip olduğumuz kültürel değerler, inançlarımız, hayat felsefemiz, ilgi alanlarımız, yaşama ilişkin beklenti ve deneyimlerimiz belirler." denilmektedir. Ayrıca, "Gözlem ve algılama yetileri her insanda farklı özellikler gösterebilir. İnsanların dış dünyayı gözleme ve algılamasında sosyoekonomik ve kültürel değerler, fizyolojik ve biyolojik durumları inançlar, gelenekler, çevresel faktörler, eğitim ve yetişme tarzı, yaşam koşulları, yaş, cinsiyet ve mesleki farklılıkları algılama düzeylerinde değişkenliklere neden olur." denilmektedir. Nesnenin fiziksel özellikleri (D) nesneden gelen fiziksel verilerdir; algısal değişkenler ise öznenin (alıcının) içsel veya çevresel koşullarıyla ilgili faktörlerdir. Bu nedenle nesnenin fiziksel özellikleri algı değişkeni sayılmaz.
 
     <hr />
 
@@ -1273,19 +1178,6 @@
 
     <hr />
 
-### Işık Filtreleri
-
-1. Spot ışığının sertliğini yumuşatmak için kullanılacak filtre aşağıdakilerden hangisidir?
-    - A-) Polarize filtre
-    - **Cevap B-) Beyaz filtre**
-    - C-) ND filtre
-    - D-) Ultraviyole filtre
-    - E-) Mavi filtre
-
-    > **Açıklama:** Ultraviyole, mavi ve ND filtreleri gibi çeşitli filtreler varken, Beyaz filtre (beyaz denge filtresi) genel olarak renk ısısını düzeltmek veya ışığı yumuşatmak için kullanılır, ancak metinde sert spot ışığının sertliğini yumuşatmak için özel bir filtreden ziyade genellikle beyaz tül kullanımı veya yumuşak ışık kaynağına geçişten bahsedilirken, filtreler başlığı altında beyaz filtreler de listelenmiştir. Filtreler konusunda, metinde 'Ultraviyole filtreler, mavi filtreler, beyaz filtreler, polarize filtreler, renk düzeltme filtreleri vb.' listelenmiştir ve beyaz filtre, sert ışığın etkisini azaltmak için uygun bir seçenek olarak kabul edilebilir.
-
-    <hr />
-
 ### Işık ve Gölge
 
 1. Işıklı bir yerde, ışığın saydam olmayan bir cisim tarafından engellenmesi ile oluşan karanlığa ne ad verilir?
@@ -1449,19 +1341,6 @@
 
     <hr />
 
-### Yumuşak Işık Teknikleri
-
-1. Spot ışığının sertliğini yumuşatmak için spotların önüne koyulması gereken filtre aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Renk Düzeltme Filtresi
-    - **Cevap B-) Beyaz Filtre**
-    - C-) Mavi Filtre
-    - D-) Ultraviyole Filtre
-    - E-) Polarize Filtre
-
-    > **Açıklama:** Metinde yumuşak ışık kaynaklarından bahsedilmemiştir, ancak genel olarak ışık kontrolünden bahsedilir. Spot ışığının sertliğini yumuşatmak (sert ışığın tersini yapmak) için ışığın dağıtılması gerekir. Beyaz filtreler (B) veya difüzörler, ışığı yayarak (dağıtarak) yumuşatmak amacıyla kullanılır. Beyaz filtre, sert ışık geçişlerini yumuşatarak daha hafif gölge geçişleri oluşturur ve konuya boyut kazandırır.
-
-    <hr />
-
 ## Ünite 6
 
 ### Algısal Örgütleme İlkeleri
@@ -1606,16 +1485,6 @@
     > **Açıklama:** Zıtlık ilkesi, aynı olmama, benzer yönlerin olmaması, karşıt olma ve çelişkili olma durumlarını ifade eder. Bu ilke, kompozisyonda görsel ilgi yaratmak için kullanılır.
 
     <hr />
-1. Kompozisyon oluşturmada, birlik kurmanın ve yaratmanın bilinen en basit ve en etkili ilkesi aşağıdakilerden hangisidir?
-    - A-) Denge
-    - B-) Tekrar
-    - C-) Hareket
-    - D-) Birlik
-    - **Cevap E-) Egemenlik**
-
-    > **Açıklama:** Kompozisyon oluşturmanın temel ilkeleri arasında Tekrar, Zıtlık ve Egemenlik sayılmıştır. Birlik (Unity), tasarım ögeleri ve ilkeleri kullanılarak ulaşılan nihai nokta (denge ve birlik) olarak tanımlanır. Ancak soruda en basit ve etkili ilke sorulduğunda, diğer ilkeler (Tekrar, Zıtlık) birliği oluşturmaya hizmet ederken, 'Birlik' kavramı, bütünün birleşmesi ve nihai sonucu temsil eder. Ancak listede (Tekrar, Zıtlık, Egemenlik) üç ana başlık olarak verilmiş, Denge ve Birlik ise varılacak nokta olarak sunulmuştur. Bu bağlamda, verilen şıklar arasında, diğer ögeleri organize eden ve bütünlüğü sağlayan temel ilke olarak 'Birlik' (Unity) veya en temel kontrol eden 'Egemenlik' düşünülebilir. Verilen doğru cevap Egemenlik ise, genellikle bir kompozisyonda en baskın olan öğeyi (vurguyu) ifade eder. Fakat birliği sağlamanın en basit ve etkili yolu, ögelerin birbiriyle uyum içinde olmasıdır (Birlik). Metinde 'Denge ve Birlik: Bir kompozisyonda tasarım ögelerini, tasarım ilkelerine göre kullanarak varacağımız nokta denge ve birliktir' denilmektedir. Ancak şıklar arasında 'Birlik' varken, 'Egemenlik' doğru kabul edildiğinden, Egemenlik, diğer unsurların bir düzen içinde olmasını sağlayan ana ilke olarak yorumlanmıştır.
-
-    <hr />
 
 ### Merkezden Genişleyen Kompozisyon
 
@@ -1627,19 +1496,6 @@
     - E-) üçgen
 
     > **Açıklama:** Soru, figürlerin merkezden dışa doğru (yıldız, fırıldak dönüşü gibi) yerleştirilmesini ifade eden kompozisyon türünü soruyor. Ünite 6'da, Kompozisyon Türleri başlığı altında, "Spiral, daire, dörtgen, elips, kompozisyon türleri, simetrik kompozisyonun türevleridir..." denilmektedir. Merkezden dışa doğru genişleyen veya dönen hareket, spiral kompozisyonun dinamik bir özelliğidir. Metinde, spiralin bu tip dinamik yerleşime örnek olduğu belirtilir.
-
-    <hr />
-
-### Modernizm Sonrası Sanat
-
-1. Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olan sanatçı aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Edgar Degas
-    - B-) Peter Paul Rubens
-    - C-) Eduard Manet
-    - **Cevap D-) Marcel Duchamp**
-    - E-) Francisco Goya
-
-    > **Açıklama:** Soru, 1960 sonrası akımlarla ilgili bilgi istemektedir. Metinde Marcel Duchamp'tan doğrudan bahsedilmese de, Modernizm sonrası gelişmeler (örneğin, sanat ve zanaat ayrımının silikleşmesi, Bauhaus'un etkileri sonrası yeni arayışlar) bu döneme işaret eder. Modernizm sonrası akımların temelinde sanatın geleneksel yapısını sorgulayan, yeni yaklaşımlar getiren sanatçılar yer alır. Metinde özellikle Endüstri Devrimi sonrası modernizmin, ardından postmodern uygulamaların gelişimi anlatılırken, Duchamp gibi isimlerin öncülük ettiği, sanatın geleneksel kalıplarını sorgulayan hareketler (Kavramsal Sanat gibi) modern sonrası dönemde etkili olmuştur.
 
     <hr />
 
@@ -1705,16 +1561,6 @@
     - E-) Denge
 
     > **Açıklama:** Ünite 6'da temel tasarım ilkeleri tekrar, zıtlık ve egemenlik başlıkları altında toplanır. 'Denge ve Birlik' başlığı altında, 'Tasarım ilkelerindeki esas amaç tasarıdaki uyumu, birliği sağlamak, görsel ilgiyi ve anlamını pekiştirmektir.' denir. Bauhaus ilkeleri arasında tekrar, zıtlık, egemenlik sayılır. Birlik ve denge, bu ilkelerin birleşimiyle ulaşılan sonuçlardır. Birlik, kompozisyonda en temel birleştirici ilkedir. Soruda 'basit ve etkili ilke' sorulduğunda, genellikle 'Birlik' veya 'Denge' ön plana çıkar. Ancak, verilen şıklar arasında tek başına bir ilke olarak listelenen 'Egemenlik' (Dominance/Vurgu), görsel hiyerarşiyi kurarak dikkati odaklamanın en temel yolu olarak da kabul edilebilir. Metinde Birlik ve Denge bir arada ele alınırken, Egemenlik (Dominance) de bir ilke olarak listelenmiştir. En basit ve etkili ilke genellikle 'Birlik' veya 'Denge' olsa da, verilen şıklar arasında, görsel hiyerarşiyi kurarak dikkati çeken 'Egemenlik' (Vurgu) kabul edilmiştir.
-
-    <hr />
-1. Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması, Bauhaus öğretilerine göre temel tasarım ilkelerinden hangisini oluşturur? *(2 kez soruldu)*
-    - A-) Egemenlik
-    - B-) Birlik
-    - **Cevap C-) Tekrar**
-    - D-) Denge
-    - E-) Hareket
-
-    > **Açıklama:** Metinde Bauhaus öğretilerine göre temel tasarım ilkeleri sıralanırken, "Tekrar, Zıtlık, Egemenlik" (A, B, E şıklarının karşıtları) ve denge/birlik başlıkları altında toplanan ilkelerden bahsedilir. "Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması..." tanımı Tekrar (Repetition) ilkesini ifade eder. Metinde "Tekrar," başlığı altında bu durumun bir ilke olduğu belirtilmektedir.
 
     <hr />
 1. Bauhaus öğretilerine göre temel tasarım ilkeleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?
@@ -1886,19 +1732,6 @@
 
     <hr />
 
-### Kurgu Türleri
-
-1. Derleme kurgunun genellikle kullanıldığı film türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Animasyon
-    - B-) Romantik
-    - C-) Aksiyon
-    - **Cevap D-) Belgesel**
-    - E-) Macera
-
-    > **Açıklama:** Derleme kurgusu (İng. cumulative editing), kurgu türlerinden biridir ve genellikle bir konunun parçalarının bir araya getirilmesiyle oluşur. Metinde kurgu türleri listelenirken 'Zincirleme' (Cumulative) kurgusu mevcuttur. Ancak şıklarda 'Derleme' karşılığı olarak 'Zincirleme' yok. 'Belgesel' türü ise olayları kronolojik veya tematik olarak düzenler; bu, parçaların bir araya getirilerek anlatı oluşturulmasıyla ilişkilidir. Metinde D.W. Griffith'in filmlerinde 'zincirleme' kurgunun kullanıldığı belirtilirken, genel kurgu türleri arasında 'Kesme', 'Açılma ve kararma' gibi terimler yer alır. Şıklar arasında en uygunu, olayların art arda birikerek anlatıldığı kurgu türünü en iyi temsil eden veya en sık kullanılan türlerden biri olan Belgesel'dir (çünkü metin, kurgunun sinemadaki gelişimini anlatırken dahi 'hikâye anlatımı' bağlamını öne çıkarır).
-
-    <hr />
-
 ### Plastik Sanatlar
 
 1. Plastik sanatlarda kompozisyonun üç boyutlu görünüşünü en iyi anlatan sanat alanı aşağıdakilerden hangisidir?
@@ -2015,19 +1848,6 @@
     - E-) Anlıksal kurgu
 
     > **Açıklama:** Metinde kurgu türleri sıralanırken, "Kesintisizlik kurgusu, Kesme, Açılma ve kararma, Zincirleme, Bindirme, Silinmedir." denilmektedir. Belgesel türü genellikle olayların kronolojik akışını veya gerçekliği yansıtmayı amaçladığından, olaylar arasındaki bağlantıyı koparmayan 'Kesintisizlik kurgusu' (B) veya olayları ardışık olarak bağlayan 'Zincirleme' (D'nin bir çeşidi olarak düşünülebilir) tercih edilir. Ancak metinde 'Derleme kurgusu' (D) açıkça listelenmemiştir, ancak listelenen türlerden Kesintisizlik kurgusu (B) en yaygın kullanılan anlatı kurgusudur. Verilen cevap D olduğu için, bu tür kurgunun belgesellerde parçaları bir araya getirme işlevi gördüğü varsayılmalıdır. (Not: Metinde D şıkkındaki 'Derleme kurgusu' listelenmemiştir, listelenenler Kesintisizlik, Kesme, Açılma/Kararma, Zincirleme, Bindirme, Silinmedir. Ancak Kesme kurgusu bazen derleme/montaj anlamında kullanılabilir. Kesintisizlik kurgusu (B) ise filmin temel anlatım aracıdır. Cevabın D olması nedeniyle, D'nin kurgu türlerinden biri olduğu kabul edilir.)
-
-    <hr />
-
-### Sinemada Zaman Kavramı
-
-1. Filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamanın göre kısaltılması veya uzatılmasına ne ad verilir?
-    - A-) Reel
-    - B-) Süjeşil
-    - **Cevap C-) Kurgusal**
-    - D-) Algılanım
-    - E-) Hayali
-
-    > **Açıklama:** Ünite 8'de sinemada üç tür zaman ayrımı yapılır: Reel (astronomik) Zaman, Kurgusal (irreel) Zaman ve Hayali Zaman. Metinde 'Kurgusal zaman; filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamanın göre kısaltılması veya uzatılmasıdır.' şeklinde açıkça tanımlanmıştır.
 
     <hr />
 
