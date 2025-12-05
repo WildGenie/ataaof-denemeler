@@ -1,5 +1,7 @@
 # Türk Dili I - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Konuşma ortamına ve iletişime katılanların durumuna göre tercih edilen bu konuşma stillerinin her birine ............. denir."<br />Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?
     - A-) Toplumsal bağlam
     - **Cevap B-) Durumsal dil türü**
@@ -300,6 +302,9 @@
     > **Açıklama:** Bu özelliğe sahip tek yazı dili Çuvaşçadır.
 
     <hr />
+
+## Ünite 2
+
 1. "Beş büyük mesnevî yazan ilk Türk şairdir; ilk şairler tezkiresi Mecalisü’n-Nefayis’in, Farsça ile Türkçeyi karşılaştırarak Türkçenin daha üstün bir dil olduğu sonucuna ulaştığı Muhakemetü’l-Lügateyn’in, Türk kültür tarihi açısından çok önemli olan Nesayimü’l-Mahabbe’nin, Türk edebiyatının ilk biyografi örneklerinin yazarıdır."<br />Bahsi geçen yazar aşağıdaki şıklardan hangisinde verilmiştir?
     - A-) Zemahşeri
     - B-) Babür
@@ -2590,6 +2595,9 @@
     > **Açıklama:** Cumhuriiyet Dönemii’nde Türkçe iile iilgilii yapılan çalısmaları değerlendiirebiileceksiniz.<br />Ünitede İlgili Bölüme Bakılacak...
 
     <hr />
+
+## Ünite 3
+
 1. "Git- ünlü ile başlayan bir ek alıp t ünsüzü, iki ünlü arasında kaldığı zaman gi-d-er, gi-d-iyor, gi-d-ecek sözcüklerinde gördüğü gibi ötümlüleşerek d ünsüzüne gelişir." sözü geçen örnekteki değişimin nedeni nedir?
     - A-) Sesin işlevi
     - **Cevap B-) Tarihsel süreç**
@@ -5110,6 +5118,9 @@
     > **Açıklama:** “Ötümlü, diş-dudak, sürekli (sızıcı), ağız” şeklinde özellikleri verilen ünsüz /v/ ünsüzüdür.
 
     <hr />
+
+## Ünite 4
+
 1. " Bu bekleyiş beni çok yordu." cümlesindeki 'bekleyiş' sözcüğüne ilişkin aşağıdaki bilgilerden hangisi doğrudur?
     - A-) Yeterlik eki kullanılmıştır.
     - **Cevap B-) İsim fiil eki kullanılmıştır.**
@@ -7820,6 +7831,9 @@
     > **Açıklama:** “Görüş, tokalaş” örneklerindeki gibi -ş- veya –ış- eki alrak türetilen eylemin iki veya daha fazla öznesinin bulunduğuna, eylemin karşılıklı veya birlikte yapıldığına işaret eden çatı işteş çatıdır. Doğru cevap D’dir.
 
     <hr />
+
+## Ünite 5
+
 1. " (I) Kim alabilir hatıralarını insanın elinden? (II) Hatılarımız geçmişimizin resmi, kulağımızda güzel bir melodi gibidir. (III) Ne zaman dara düşsek güzel anılarımıza koşarak sığınırız çünkü şimdiyi yaşamak bazı anlar ağır gelir insana.(IV) Bir fotoğraf veya bir şarkı ile istediğiniz güzel ana zamanda yolculuk yapar gibi gitmemiz mümkün.(V) Daima iyiye sarılarak karanlık anlarımıza ışık tutabiliriz.<br />Yukarıda verilen parçada numaralandırılmış cümlelerle ilgili hangi bilgi yanlıştır?
     - A-) I. cümle soru cümlesidir.
     - B-) I. ve III. cümle yüklemin yerine göre devrik cümlelerdir.
@@ -10440,6 +10454,9 @@
     > **Açıklama:** Cümle türlerini ayırt edebileceksiniz.
 
     <hr />
+
+## Ünite 6
+
 1. "Alkış", eski dilde dua; "kargış" ise beddua anlamlarına gelmektedir. Buna göre aşağıdaki eşleştirmelerden hangisi doğrudur? 1. Ağ sakallı baban yeri uçmağ olsun. 2. Kanatların uçları kırılmasın. 3. Akar iken akmaz olsun. 4. Yerli kara dağların yıkılmasın.
     - A-) 1\. Alkış 2. Alkış 3. Alkış4. Kargış
     - **Cevap B-) 1\. Alkış 2. Alkış3. Kargış4. Alkış**
@@ -13500,6 +13517,9 @@
     > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.<br />Belirtilen Sayfada Sorunun Cevabı Mevcuttur.
 
     <hr />
+
+## Ünite 7
+
 1. "Bozuklukları düzeltecek etkenlerin bulunduğunu ama bu etkenin de bozulması durumunda yapacak bir sey kalmadığını" ifade eden atasözüne örnek olarak aşağıdaki şıklardan hangisi gösterilebilir?
     - A-) "Eseğiin kuyruğunu kalabalıkta kesme, kiimii uzun der kiimii kısa..."
     - B-) "Bal bal demekle ağız tatlı olmaz"
@@ -16370,6 +16390,9 @@
     > **Açıklama:** Türkçede yaklaşık 4.500 atasözü bulunmaktadır. Bu atasözlerinden kimileri küçük ses farklılıkları dışında yüzyıllardır değişmeden günümüze gelirken kimilerinde az çok sözcük değişmeleri yaşanmıştır. Kâşgarlı Mahmud’un eseri Divanü Lügati’t-Türk’teki “aç ne yemes, tok ne temes; kanıg kan birle yumas; tag tagka kavuşmas, kişi kişige kavuşur” atasözleri küçük farklılıklarla bugün de aynen kullanılmaktadır. Doğru cevap E'dir.
 
     <hr />
+
+## Ünite 8
+
 1. "Ağ ortamında geliştirilen uygulamalar günümüzde yeni bir iletişim biçimi olan toplum- sal iletişim ortamını doğurmuştur. Haberlerin, görüşlerin, düşüncelerin yayıldığı; ses ve görüntü dosyalarının paylaşıldığı bu yeni ortam \_\_\_\_\_\_\_ olarak adlandırılmaktadır."<br />Verilen cümle aşağıdakilerden hangisi ile tamamlanmalıdır?
     - A-) Kitle iletişim
     - B-) Yazılı basın
@@ -19080,3 +19103,4 @@
     > **Açıklama:** Türkçeye karşı kayıtsızlığın, duyarsızlığın yaşandığı bir dönemde Karamanoğlu Mehmet Bey, “Şimden gerü divanda, dergâhta, bargâhta, çarşıda ve bazarda Türkçeden başka dil konuşulmaya” diyerek ferman çıkarmıştır.
 
     <hr />
+

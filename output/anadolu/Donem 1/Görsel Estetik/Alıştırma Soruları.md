@@ -1,5 +1,7 @@
 # Görsel Estetik - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Bizim dışımızdaki herhangi bir şeyin, bizde bıraktığı etki yoluyla yaşadığımız duygu durumu" aşağıdakilerden hangisinin tanımıdır?
     - A-) Estetik Tavır
     - B-) Estetik Obje/Özne
@@ -790,6 +792,9 @@
     > **Açıklama:** Sanatın, insanın rasyonel alanı ile duyusal alanını bütünleştirdiğini, bu ikisinin bütünlüğünün insanda özgürlük duygusunu doğuracağını ve bunun da oyun içtepisi ile gerçekleşebileceğini söyler. Schiller, insan oynayabildiği zaman ancak tam anlamıyla insan olur diyerek, bu bütünlüğü ve özgürleşmeyi ifade eder. İnsan sanat yoluyla doğayı da kendini de dönüştürerek kendi sınırlarını ve özgürlüğünü bu yolla tanımış olur.
 
     <hr />
+
+## Ünite 2
+
 1. "Bence ressam, olduğu gibi değil, hissettiği gibi resmedendir" sözü aşağıdakilerden hangisine aittir?
     - A-) Leonardo da Vinci
     - B-) Henri Matisse
@@ -1880,6 +1885,9 @@
     > **Açıklama:** “Her çocuk bir sanatçıdır. Asıl sorun çocuğun büyüyüp gelişmesi sürecinde bir sanatçı olarak nasıl korunacağıdır.” sözleri Pablo Picasso’ya aittir. Doğru yanıt A’dır.
 
     <hr />
+
+## Ünite 3
+
 1. "Bu tekniği uygulamak için ışıktan arındırılmış bir stüdyo, ev odası veya kapalı herhangi birmekân olabileceği gibi yine ışık almayan bir gece ortamında dış mekân da olabilir."<br />Yukarıda bahsedilen teknik aşağıdakilerden hangisidir?
     - **Cevap A-) Işıkla boyama**
     - B-) Zoom in/out
@@ -3800,6 +3808,9 @@
     > **Açıklama:** Genellikle küçük bir ampulle sem­bolize edilir. Bu ayarı fotoğraf makinenizde seçti­ğinizde, akkor ampul aydınlatmasının fotoğrafı­nıza vereceği sarartmayı dengeleyerek fotoğraftaki renklerinizi soğutacaktır. Böylelikle gerçeğe yakın bir renk dengesi yakalarsınız. 2700-3200 K renk ısısına etki eder.
 
     <hr />
+
+## Ünite 4
+
 1. "Yukarıdan bakılınca çember, yandan bakılınca dikdörtgen olarak görülen bir su bardağı, nereden bakılırsa bakılsın aslında bir su bardağıdır." Bizi bu yargıya ulaştıran şey aşağıdakilerden hangisidir?
     - A-) Duygu
     - B-) Duyum
@@ -5470,6 +5481,9 @@
     > **Açıklama:** Algılamada bütünün algılanması parçaların algılanmasından önce gelir. Algılama, ‘bütüncül ruhbilim öğretisi’ açısından bir bütünleşme, düzenleme, tamamlama işlevidir.
 
     <hr />
+
+## Ünite 5
+
 1. "Arka ışığın az olması ya da hiç olmaması sonucu ortaya çıkan aydınlatma biçimidir." şeklindeki tanım aşağıdakilerden hangisine aittir?
     - A-) Silüet Aydınlatma
     - B-) Cameo Aydınlatması
@@ -7070,6 +7084,9 @@
     > **Açıklama:** Floresan lambalar: Genel de ofis gibi mekânlarda aydınlatma amaçlı kullanılırlar. Yaydığı ışıkta mavi ve yeşil renk egemen olduğu için sıcak renkleri yansıtamazlar. Floresanlı lambaların camları çoğunlukla buzlu üretilir. Bu yüzden ışığı doğrudan değil yayarak iletirler. Lambaların güçleri düşük olduğundan yaydıkları ışığın şiddeti de düşüktür.
 
     <hr />
+
+## Ünite 6
+
 1. ".............yüzey organizasyonunda, iki boyutlu bir düzlemde üçüncü boyut yani derinlik yanılsaması vermek için kullanılan tekniktir." Boşluğa aşağıdaki kavramlardan hangisi gelmelidir?
     - A-) Modernizm
     - B-) Kompozisyon
@@ -8570,6 +8587,9 @@
     > **Açıklama:** Bugün kullanılmakta olan renk kuramını; Aslında 1919 -1923 yılları arasında Bauhaus okulunda verdiği derslerde geliştiren, daha sonra kendi kur­muş olduğu tasarım okulunda öğreten Johannes Itten’e borç­luyuz.
 
     <hr />
+
+## Ünite 7
+
 1. "Sanat ortamında kullanılan bir kompozisyon yöntemidir. Fotoğraftaki kullanımında yapılması gereken, kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirmektir." aşağıdaki çerçeveleme yöntemlerinden hangisine aittir?
     - **Cevap A-) Altın Oran**
     - B-) Baş Boşluğu
@@ -10270,6 +10290,9 @@
     > **Açıklama:** Gustav Deutsch yönetmenliğini üstlendiği Shirley: Visions of Reality, Edward Hopper’ın Office at Night, Woman in the Sun dâhil olmak üzere 13 farklı tablosunda resmettiği Shirley’in hikayesini 1920’lerde başlayıp, yıllara yayılan bir süreçte anlatarak benzersiz bir hikayeyi önümüze getiriyor.
 
     <hr />
+
+## Ünite 8
+
 1. "Genel olarak bir işin, bir oluşun içinde geçtiği, geçeceği veya geçmekte olduğu süre, vakit" olarak tanımlanan şey nedir?
     - A-) Hız
     - B-) Hareket
@@ -11770,3 +11793,4 @@
     > **Açıklama:** Einstein’a göre; uzay ve zaman noktaları, uzaysal koordinatlarına ek olarak, ayrı bir ‘şimdiler’ çokluğu ile belirlenirler. Bu belirlenen ‘şimdiler’ tikel-göreli ‘şimdiler’dir. Bu nedenle, zamanın nesnel bir algılanışından söz etmek mümkün değildir. Nesnel zamanın yerine geçen göreli zaman ölçümünde ‘şimdi’ sonsuz küçüklükteki ayrımları olan parçalara ayrılır ve böylece sonsuz bir şimdiler çoklusu üretilir.
 
     <hr />
+

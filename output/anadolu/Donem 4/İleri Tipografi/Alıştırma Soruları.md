@@ -1,5 +1,7 @@
 # İleri Tipografi - Alıştırma Soruları
 
+## Ünite 1
+
 1. " **...** tipografi, değiştirilemeyen ve tümüyle binayla ilişkili olan tipografi anlamında kullanılırken, geçici çözümler sunan bina tabelalarından farklı olarak kişiye değil binanın kendisine aittir" açıklamasında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Dijital
     - **Cevap B-) Mimari**
@@ -400,6 +402,9 @@
     > **Açıklama:** “The Cooper Union” binası, Pentagram tarafından tasarlanan çeşitli tipografik düzenlemelerin sergilenmesine olanak sağlamıştır. Pentagram’dan Abbott Miller, binanın işaret tasarımı için de eşsiz ve binanın dinamik mimarisine uyum gösterecek bir sistem tasarlamıştır. İşaret tasarımında kullanılan yazı karakteri “Foundry Grindik” için Abbott Miller Şöyle demiştir: “T-cetveliyle çizilmiş gibi duruyor.”
 
     <hr />
+
+## Ünite 2
+
 1. "**...**  temelli deneysel tipografi çalışmaları, çalışmanın sunulduğu ortamın gerektirdiği koşulları dikkate alan geniş bir üretim yelpazesini kapsamaktadır. Bu kapsamda **...**; binanın dış cephesi, bir nesnenin, duvarın veya kâğıdın yüzeyi, hatta insan bedeni bile olabilir" tanımlamasında yer alan boşluklara gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Malzeme
     - B-) Hareket
@@ -940,6 +945,9 @@
     > **Açıklama:** Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi<br />Amandine Alessandra’nın projesi “Letterform for the Ephemeral” 2009-2010 yılları arasında oluşturulmuş, birkaç evreden meydana gelen bir projedir. Giyilebilir tipografiden yola çıkılarak deneyimlenen proje, bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının kollar ve omuz yardımıyla harf formlarının oluşturulduğu bir düzenlemedir.
 
     <hr />
+
+## Ünite 3
+
 1. "Günümüzde tasarımcılar, var olan tipografi ve kompozisyon bilgi ve birikimlerine harekete özgü özellikleri eklemiş, “motion designer” olarak yeni ortamları deneyimlemeye başlamışlardır".<br />Yukarıda belirtilen özellik tipografinin hangi alanı için geçerlidir?
     - **Cevap A-) İleri Tipografi**
     - B-) İleri Kaligrafi
@@ -1340,6 +1348,9 @@
     > **Açıklama:** Sinemada Tipografi<br />“La Voyage Dans La Lune” (Aya Yolculuk, 1902) filmi ile tanınan Fransız illüzyonist ve sinemacı Georges Méliès, deneysel yöntemler kullanarak yazıyı hareketlendiren ilk örneklere imza atmıştır. Reklam içeriğine sahip bu filmler stop motion (duraklı çekim) tekniği ile hazırlanmıştır
 
     <hr />
+
+## Ünite 4
+
 1. "Sanatçı kitapları ve Tipografi" konusunda aşağıdaki açıklamalardan hangisi doğrudur?
     - A-) Sanatçı kitaplarında tipografiden yararlanan sanatçılar sadece makale parçalarını kitaplarına ekleyebilirler.
     - **Cevap B-) Sanatçı kitapları, sanatçıların doğrudan kendilerini ifade etmek, sanatsal dışa vurumlarını gerçekleştirmek için baskı yöntemlerine veya elle üretime başvurdukları üretim biçimleridir.**
@@ -1740,6 +1751,9 @@
     > **Açıklama:** Enstalasyonda da tipografiyi farklı yollar ve malzemelerle kullanan sanatçılar vardır. Los Angeles merkezli sanatçı Pae White, çeşitli teknikler ve ortamlardan yararlanarak mekâna özgü enstalasyonlarla sanat, zanaat ve mimariyi birleştiren tasarımlar yapan bir sanatçıdır. “Too Much Night, Again” yani “Yine, Çok Fazla Gece” adlı çalışması, Pae White’ın kendi uykusuzluk deneyimlerinden yola çıkarak tasarlanmış, bir iplik enstalasyonudur.
 
     <hr />
+
+## Ünite 5
+
 1. "Bu tür, farklı kaynaklarda Antik yazılar ve Hümanistik yazılar isimleriyle de yer alır. Bazı araştırmacılar bu türün alt grupları olan Klasik, Geçiş Dönemi ve Modern olmak üzere ayrı türler olarak ele alırlar." Cümlesinde hangi yazı karakterinden bahsedilmektedir?
     - **Cevap A-) Roman**
     - B-) Gotik
@@ -2140,6 +2154,9 @@
     > **Açıklama:** Font terimi, özgün bir tasarımı olan yazı karakterlerinin belli bir stil ve ölçüsündeki harfler, rakamlar, noktalama işaretleri ve sembollerini içeren setini tanımlamak için kullanılır.
 
     <hr />
+
+## Ünite 6
+
 1. 1965 yılında Total Design firmasından Amsterdam Schiphol havaalanı için bir “güzergâh sistemi” yapması istenmiştir. Yönlendirme tasarımı alanındaki ilk örneklerden birisi olan bu proje kim tarafından yönetilmiştir?
     - A-) Peter Behrens
     - B-) Otto Wagner
@@ -2540,6 +2557,9 @@
     > **Açıklama:** Barbara Kruger
 
     <hr />
+
+## Ünite 7
+
 1. " ................................ ise harfler arasında doğru boşluk bırakılması sayesinde, yüksek düzeyde okunabilirlik sağlanmasına yarar" cümlesindeki boşluğa aşağıdakilerden hangisinin gelmesi doğru olur?
     - A-) Hizalama
     - **Cevap B-) Espas**
@@ -2940,6 +2960,9 @@
     > **Açıklama:** Tasarım işine aşina olmayan insanlar için en büyük yanılgılardan biri, kaligrafi, harfleme ve tipografinin birbirinin yerine geçebilen kelimeler olduğunu düşünmeleridir. Ancak hepsi sanat formu ya da aynı kategoride olsa da aynı anlama sahip değildir. Bu yanlışı ortadan kaldırmak için kaligrafi, harfleme ve tipografinin anlamı ve aralarındaki farklılıklar derinlemesine incelenmelidir. Doğru cevap A'dır.
 
     <hr />
+
+## Ünite 8
+
 1. 1990 yılında yaratılan Template Gothic kimin tasarımıdır?
     - **Cevap A-) Barry Deck**
     - B-) Art Chantry
@@ -3340,3 +3363,4 @@
     > **Açıklama:** Yazı tasarımında vernakülerin referans olduğu diğer örnek ise İngiliz tasarımcı Jonathan Barnbrook’un Priori Sans adlı yazı ailesidir.
 
     <hr />
+

@@ -1,5 +1,7 @@
 # Sayısal Görüntüleme Teknolojileri - Alıştırma Soruları
 
+## Ünite 1
+
 1. " ....................., televizyon içeriğinin hareket eden ya da hareket edebilme potansiyeline sahip olan araçlara kablosuz olarak etkileşimli veya etkileşimsiz bir biçimde iletimidir."<br />Yukarıda yer alan cümledeki boşluğa aşağıdakilerden hangisinin gelmesi doğru olur?
     - A-) IPTV
     - B-) Web TV
@@ -400,6 +402,9 @@
     > **Açıklama:** 1934
 
     <hr />
+
+## Ünite 2
+
 1. "Binlerce sıra ve sütuna yerleştirilmiş milyonlarca pikselden oluşur: Ne kadar çok piksel veya ışık noktası olursa, megapiksel sayısı o kadar yüksek olur ve teorik olarak çözünürlük o kadar yüksek olur." biçiminde tanımlanan nesne aşağıdakilerden hangisidir?
     - **Cevap A-) Sensör**
     - B-) Film
@@ -780,6 +785,9 @@
     > **Açıklama:** DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir.
 
     <hr />
+
+## Ünite 3
+
 1. "Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle ...... ve ......formatlarında yüksek kaliteli çekim anlamına gelir." İfadesinde boşluklar nasıl doldurulmalıdır?
     - A-) 1K/2K
     - **Cevap B-) 2K/4K**
@@ -1080,6 +1088,9 @@
     > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.<br />Veri sıkıştırma algoritmalarına kodek (codec) adı verilir. Dijital video dünyasında MPEG-2, MPEG-4, H.264, VC-3 gibi çok sayıda standart kodek vardır. Video kamera kodlaması diğer ifade ile yakalama kodeklerini her üretici özel olarak yaratmaktadır.
 
     <hr />
+
+## Ünite 4
+
 1. "Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmak istendiğinde, ............ baskı tekniği kullanılır."<br />Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
     - A-) Lazer
     - **Cevap B-) Süblimasyon**
@@ -1480,6 +1491,9 @@
     > **Açıklama:** BİLGİSAYARLAR VE MONİTÖRLER<br />şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır
 
     <hr />
+
+## Ünite 5
+
 1. "Kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler." Bu cümle aşağıdakilerden hangisini tanımlamaktadır?
     - **Cevap A-) Histogram**
     - B-) Bulb modu
@@ -1780,6 +1794,9 @@
     > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİ TEMEL MENÜLERİ<br />EXIF, “Exchangeable Image File” değiştirilebilir görüntü dosyası açılımı olan ve içerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölümdür. Fotoğraf yarışmalarında bu bilgiler olmazsa olmazdır.
 
     <hr />
+
+## Ünite 6
+
 1. " Tavana ya da duvara monte aparatlara takılan farklı renklerde kumaş ya da karton malzemeden imal edilmiş fon " şeklinde tanımlanan fon türü aşağıdakilerden hangisidir?
     - **Cevap A-) Askı/Rulo**
     - B-) Sonsuz
@@ -2170,6 +2187,9 @@
     > **Açıklama:** Günümüzde, benzer şekilde gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra, bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları” oluşturulmaktadır. Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir. Ayrıca pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve derinlik etkisi de verilebilmektedir. Daha esnek aydınlatma alternatifi sunmaları açısından “Günışığı/ Daylight Stüdyoları”nın ışık tararımı açısından oldukça avantajlı olduğu söylenebilir.<br />Şehir merkezlerinde, çoğunlukla ana caddeler ile büyük iş merkezlerine yakın yerlerdeki küçük fotoğraf stüdyoları, günlük yaşamda en sık karşılaşılan ve kullanılan stüdyo türleridir. Bu tip stüdyolarda, genellikle resmi işlemlerde kullanılmak üzere vesikalık portre fotoğrafları ile doğum, düğün, mezuniyet gibi özel gün fotoğrafları çekilmekte, aynı zamanda minilab ya da yazıcılar ile fotoğraf baskı hizmeti de verilmektedir.<br />“Color”, “Foto”, “Stüdyo” gibi eklerle markalaşan, dijital fotoğraf dönemiyle birlikte sayıları giderek azalan ve küçülen bu işletmelerin, aynı zamanda uzun yıllar boyu aile albümlerinin oluşmasında önemli bir işleve sahip olduğu söylenebilir.
 
     <hr />
+
+## Ünite 7
+
 1. 2011 yılında Dan Dennedy tarafından geliştirilmeye başlanan açık kaynak kodlu hareketli görüntü işleme ve düzenleme yazılımı aşağıdaki seçeneklerden hangisinde yer almaktadır?
     - A-) Lightworks
     - **Cevap B-) Shotcut**
@@ -2470,6 +2490,9 @@
     > **Açıklama:** İnternet ortamına yüklenecek görüntülere ilişkin olarak son zamanlarda JPEG ve PNG’nin karşısına çıkan bir diğer önemli alternatif WebP dosya formatıdır. Google tarafından internet sayfalarını daha hızlı hâle getirmek ve daha küçük boyutta görüntüler oluşturmak amacıyla geliştirilmiş bir görüntü formatı 254 Sayısal Görüntü/Video İşleme Yazılımları ve Teknolojileri 7 olan WebP, Jpeg ile kıyaslandığında %40 oranında daha fazla sıkıştırma oranına sahiptir. ­ Cevap B seçeneğidir.
 
     <hr />
+
+## Ünite 8
+
 1. "............. kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar."<br />Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
     - A-) Prisma
     - **Cevap B-) FaceApp**
@@ -2770,3 +2793,4 @@
     > **Açıklama:** Kyocera VP-210 yerleşik kameralı ilk cep telefonudur.
 
     <hr />
+

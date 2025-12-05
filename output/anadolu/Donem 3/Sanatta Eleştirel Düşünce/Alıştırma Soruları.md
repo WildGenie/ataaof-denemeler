@@ -1,5 +1,7 @@
 # Sanatta Eleştirel Düşünce - Alıştırma Soruları
 
+## Ünite 1
+
 1. .............., teke tek ilişki kurulan ‘sanat eseriyle’ bağlantılı olarak sorulan “Neyi, nasıl diyor?” sorusuna verilen yanıttan sonra hemen ortaya çıkan “Bana ne diyor?” sorusunun yanıtı olarak kendini gösterir<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Sosyolojik eleştiri
     - B-) Estetik eleştiri
@@ -410,6 +412,9 @@
     > **Açıklama:** Eleştiri ve eleştiri tarihi<br />Tipik bir Rönesans eleştiricisi ve şair olan Sir Philip Sidney “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” der (Moran, 1983).
 
     <hr />
+
+## Ünite 2
+
 1. ".................. en temelde “doğru öncülden yanlış sonuç çıkartmama” prensibine göre işleyen bir disiplindir" Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
     - A-) Kurgu
     - B-) Akıl
@@ -810,6 +815,9 @@
     > **Açıklama:** Önerme: “Bir iddiada bulunan bir cümlenin<br />içeriğinde barınan düşünce veya fikir”
 
     <hr />
+
+## Ünite 3
+
 1. "Sanatın gerçekliği yansıtan bir ayna olduğu görüşünü ilk dile getiren ve duyu dünyası, sürekli bir oluşum-değişim hâlinde olduğu için, bu dünyadan elde edilen bilgi de kalıcı, değerli, genellenebilir bilgi niteliği taşıyamaz.” diyen filozof aşağıdakilerden hangisidir?
     - A-) Aristoteles
     - B-) Sokrates
@@ -1200,6 +1208,9 @@
     > **Açıklama:** Yansıtma (Mimesis, Taklit) Kuramı<br />Hümanist
 
     <hr />
+
+## Ünite 4
+
 1. " ............konuları mitolojiden seçilir." ifadesindeki boşluğu aşağıdakilerden hangisi tamamlar?
     - A-) Komedya
     - B-) Dram
@@ -1600,6 +1611,9 @@
     > **Açıklama:** İyi bir yorum icracının **yaratıcılığından** beslenir, bu yaratıcılık icracıyı<br />eşsiz kılar ve aynı yapıtın diğer performanslarından ayırır
 
     <hr />
+
+## Ünite 5
+
 1. "Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen<br />boya malzemesi" tanımı aşağıdaki hangi kavramın doğru karşılığıdır?
     - A-) Fresko
     - B-) Mozaik
@@ -2050,6 +2064,9 @@
     > **Açıklama:** Realizm-Yüceltilmiş duygular
 
     <hr />
+
+## Ünite 6
+
 1. "İnsan merkezli bir yapılanma doğrultusunda ürettiği heykellerinde, özellikle ‘Düşünen Adam’ heykelinde, bütün bir tarih içinde üretilmiş heykellerden farklı olarak, gerçek anlamda sanata ve heykel sanatına ‘eleştiri’ kimliğini ve bakış açısını en derinden getirmiştir" anlatımında sözü edilen sanatçı aşağıdakilerden hangisidir?
     - A-) Henyi Moore
     - B-) Alberto Giacometti
@@ -2640,6 +2657,9 @@
     > **Açıklama:** Jeff Koons heykelleri yaşamla birebir ilişkili gerçeklik üzerine kuruludur. O heykel sanatına eleştirel bakışın yanında, hayatın normal akışı içinde, özellikle çocukların yönelimine de uygun olarak “Balon Heykel”ler oluşturmaktadır. Çocuklar onun devasa boyutlu balon heykellerini gördüklerinde ilk önce büyük bir şaşkınlık geçirirler. Sonra da o balonlara ulaşmak için de var güçleriyle enerjilerini harcarlar. Hatta bununla ilgili birçok olay da yaşanmıştır
 
     <hr />
+
+## Ünite 7
+
 1. "Beyazperdede kıpırdayan her şey sinemadır."<br />Yukarıdaki tanım kime aittir?
     - **Cevap A-) Jean Renoir**
     - B-) Segei Eisentein
@@ -3260,6 +3280,9 @@
     > **Açıklama:** “Geleneksel dramatik sanatta haz, özdeşleşmeye dayalı bir estetik uygulamanın egemenliği altında, se­yircinin katharsise (arınma) ulaşmasından doğmaktadır. Seyirci olayların akışına kendini kaptırarak, olay ve karakterle kendini özdeşleştirir. Düşünsel faaliyeti bir kenara bırakarak, duygusal temel üzerinde kurulan bir yaşantı birliğine girer. Doruğa doğru yükselen bir geri­limle başka bir hayatın (kurmacanın) içinde yer alan se­yirci, doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılır ve rahatlatılır.
 
     <hr />
+
+## Ünite 8
+
 1. "20. yüzyılın ilk yarısında stilize görüntü ve düz renk kullanarak görüntüyü yalnızca mesajı taşıyan<br />nesne ve konuya odaklayan yalın bir afiş tasarım dilidir."<br />Yukarıda verilen açıklama aşağıdaki seçeneklerden hangisine aittir?
     - **Cevap A-) Plakatstil**
     - B-) Litografi
@@ -3650,3 +3673,4 @@
     > **Açıklama:** Türkçeye Fransızcadan geçen “karikatür” sözcüğü, İtalyanca “yüklemek” veya “şarj etmek” anlamına gelen “caricare” sözcüğünden türemiştir.
 
     <hr />
+

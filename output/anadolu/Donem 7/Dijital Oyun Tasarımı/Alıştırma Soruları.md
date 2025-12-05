@@ -1,5 +1,7 @@
 # Dijital Oyun Tasarımı - Alıştırma Soruları
 
+## Ünite 1
+
 1. 1940’lı yılların başlarıyla birlikte bilgisayar teknolojisi üzerine öncelikli olarak hangi amaçla yoğunlaşılmıştır?
     - A-) Eğlence
     - B-) Sağlık
@@ -100,6 +102,9 @@
     > **Açıklama:** Unity adlı oyun motoru 2005 yılında yayınlanmaya başlamıştır.
 
     <hr />
+
+## Ünite 2
+
 1. Aşağıdakilerden hangisi HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motorudur?
     - A-) Godot
     - B-) Blackberry
@@ -200,6 +205,9 @@
     > **Açıklama:** Doğru yanıt B şıkkıdır<br />Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim Juan Linietsky'dir.
 
     <hr />
+
+## Ünite 3
+
 1. 1970 ve 1980lerde kullanılan ekranları tanımlamak için kullanılan ve resim, çizim, tasarım ve fotoğrafların tek renkten oluştuğunu ifade eden bir sözcükten gelen ekran türü hangisidir?
     - **Cevap A-) Monokrom**
     - B-) OLED
@@ -300,6 +308,9 @@
     > **Açıklama:** Doğru yanıt C şıkkıdır<br />Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram mesh'dir.
 
     <hr />
+
+## Ünite 4
+
 1. Aşağıdakilerden hangisi animasyondaki hareketlerin hızı ve ritmi ile ilgili olup doğru tasarlandığında animasyonun gerçekçiliğini ve etkisini belirleyerek savaş sahneleri, diyaloglar ve interaktif elementler için kritik önem taşır?
     - **Cevap A-) Zamanlama**
     - B-) Sahneleme
@@ -400,6 +411,9 @@
     > **Açıklama:** Karakter animasyonları, oyuncuların oyunun karakterleriyle duygusal bağ kurmasını sağlar. Karakterlerin mimikleri, hareketleri ve tepkileri, onların kişiliklerini ve hikâyelerini anlatır. Karakter<br />animasyonları, kullanıcıların karakter kontrolüne ilişkin geri bildirim sağlar. Bir karakterin koşma,<br />zıplama veya saldırı animasyonu, oyun içi fizik ve hareket sisteminin anlaşılmasına yardımcı olur. Yüz animasyonları ve beden dili, karakterlerin duygularını ve niyetlerini ifade etmede kritik öneme sahiptir. Bu, özellikle hikâye odaklı oyunlarda, oyuncuların hikâyeye daha fazla dahil olmasını sağlar.<br />Karakter animasyonu
 
     <hr />
+
+## Ünite 5
+
 1. Aşağıdakilerden hangisi Unity’de belirli bir davranışı modellemek için oluşturulan ve bileşenlerin temel algoritmalarını ve davranışını yöneten dosyalardır?
     - **Cevap A-) Script varlıkları**
     - B-) Polimorfizm
@@ -500,6 +514,9 @@
     > **Açıklama:** Karakterin üzerinde yürüdüğü zemin için Terrain Collider eklemek de önemlidir. Bu, karakterin zeminin altına düşmesini önler. Duvarlar ve diğer dik duran yapılar için de Box Collider tercih edilebilir, böylece bu yüzeylerin de gerçekçi engeller oluşturması sağlanır. Bu Collider’ların doğru şekilde ayarlanıp yerleştirilmesi, oyununuzun fiziksel etkileşimlerinin ve çevresel engellerinin gerçekçi ve ikna edici olmasını sağlar.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıdakilerden hangisi dijital oyun tasarımı süreçlerinde yapay zekâ kullanmanın avantajlarından biri **değildir?**
     - A-) Oyun geliştirme süreçlerini hızlandırması
     - B-) Oyunların daha etkileyici ve dinamik olması
@@ -600,6 +617,9 @@
     > **Açıklama:** Dijital oyunların sürükleyiciliği zorluk düzeyinin oyuncu davranışlarına göre belirlenmesine oldukça bağlıdır.
 
     <hr />
+
+## Ünite 7
+
 1. Avrupa 2023 verilerine göre, oyun sektöründe ekonomik gelir anlamında ilk 5 ülke sıralanmasında aşağıdakilerden hangi ülke **yoktur?**
     - A-) Birleşik Krallık
     - **Cevap B-) Türkiye**
@@ -700,6 +720,9 @@
     > **Açıklama:** Oyunun;<br />**• Kullanıcı deneyimi**<br />**• Hikâyesinin akıcılığı ve senaryosu**<br />**• Karakterlerin kişilik özellikleri**<br />**• Oynanabilirliği**<br />**• Oyun mekaniği ve kinematik özellikleri** incelenir.<br />Oyunun satın alınabilirliği
 
     <hr />
+
+## Ünite 8
+
 1. 2019 yılı itibarıyla Dünya Sağlık Örgütü (DSÖ) tarafından *dijital oyun bağımlılığı*, uluslararası ortak hastalıklar sıralamasında kaçıncı sıradadır?
     - A-) 1\.sırada
     - B-) 5\.sırada
@@ -800,3 +823,4 @@
     > **Açıklama:** **Mobil segmentin genişlemesi**, akıllı telefon penetrasyonunun dünya çapındaki artışına bağlanmış olup, üst seviye oyun deneyimi sağlayan daha büyük ekranlı mobil tabletlere olan talebin artmasıyla da ilişkilendirilmiştir.
 
     <hr />
+

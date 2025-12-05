@@ -1,5 +1,7 @@
 # Görsel İletişim ve Tasarım Tarihi - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Kayaların üzerine püskürtme, kazıma veya fırça ile boyama vb. yöntemler kullanarak insanlar tarafından yapılmış imgelerdir. Görsel iletişimin ilk örnekleri olarak kabul edilmektedirler" ifadesi aşağıdakilerden hangi terimi tanımlar?
     - A-) Petroglif
     - B-) Hiyeroglif
@@ -390,6 +392,9 @@
     > **Açıklama:** Görsel iletişim oldukça önemli bir kavram olmasına rağmen, tasarım kavramı da açıklığa kavuşturulmadan eksik kalmaktadır. Tasarım da bahsi geçen diğer kavramlar gibi çok yönlü bir kavramdır. İçinde bulunduğu zamana ve coğrafyaya göre farklı anlamlar kazanabilmektedir. “Tasarım bir problemin çözümü demektir” (Becer, 2019, s.34). Bu yaklaşım tüm tasarımlar için doğrudur. İster mimari bir tasarım, ister bir endüstriyel tasarım veya reklam grafiği olsun, hepsi bir problemi çözmek için ortaya konulmuş fikirler ve uygulama süreçleridir. Tüm tasarımlar, tasarım probleminin etrafında şekillenir. Örneğin bir kitap baskısı yapılacağı zaman bu kitabın hangi okuyucu kitlesi için hazırlanacağı, hangi boyutlarda basılacağı, kaç sayfa olacağı, renkli mi yoksa siyah beyaz mı olacağı, okuyucunun yaş grubuna göre hangi yazı tipinin hangi boyda kullanılacağı gibi görsel soruların yanında; hangi yöntemle kaç adet basılacağı, nasıl ciltleneceği, okuyuculardan gelecek geri bildirimlerin değerlendirilmesi gibi süreç soruları da<br />Bu kadar geniş bir üretim sürecini ve bu sürecin arkasında yatan yaratıcı zekayı Louis Danziger şöyle tanımlar: “Tasarım zekanın görünür hale getirilmesidir” (aktaran Wheeler, 2018, p.10).
 
     <hr />
+
+## Ünite 2
+
 1. "El Presi" olarak adlandırılan ve çalıştırma kolu elle yatay olarak çekildiğinde, vidalar aracılığıyla forma dikey kuvvet uygulanacak şekilde tasarlanan baskı makinası aşağıdakilerden hangisine aittir?
     - A-) Aldus Manutius.
     - B-) Paolo Olbi.
@@ -790,6 +795,9 @@
     > **Açıklama:** Johann Michael Fleischmann 1728’de yerleştiği Hollanda’da Haarlem’deki Enschede dökümhanesinde “Punch Press” tekniği ile gotik, roman ve italik birçok yazıyüzünü geliştirdi.
 
     <hr />
+
+## Ünite 3
+
 1. 17\. yüzyılda egemen olan ve makineleşme ile dünyayı etkisi altına alan felsefe aşağıdakilerden hangisidir?
     - **Cevap A-) Natüralist Felsefe**
     - B-) İdealizm
@@ -1490,6 +1498,9 @@
     > **Açıklama:** Endüstriyel devrimin ilk ayağının yaşandığı yıllarda İngiltere’de Kraliçe Victoria dönemi yaşanmaktaydı. İngiltere ve İrlanda’nın kraliçesi Victoria, 1837 yılında tahta geçti ve 1901 tarihine kadar da tahta kaldı.
 
     <hr />
+
+## Ünite 4
+
 1. "(1887-1968) Dada’ya katıldıktan sonra bu hareketin en önemli görsel sanatçısı olmuştur. Hazır nesneleri kullanarak sanat yapıtına dönüştürmüş ve sanatta yeni bir dönem başlatmıştır. En önemli eserlerinden biri olan “The fountain (çeşme)” adlı çalışmasında hazır bir pisuvarı kullanmış ve onu ters çevirerek heykele dönüştürmüştür" anlatımında yer alan sanatçı aşağıdakilerden hangisidir?
     - A-) Fortunato Depero
     - B-) John Hartfield
@@ -2190,6 +2201,9 @@
     > **Açıklama:** Eğri­sel çizgiler, yuvarlatılmış formlara sahip her öge dışlanmakta, dünya çapında bir birlik yakalamak üzere duygusallıktan yoksun, öznellik barındır­mayan görsel elemanlar aranmıştır.<br />De Stijl akımı, tasarımdaki Sübjektivizme (öznelcilik) karşı bir duruş sergilemektedir.
 
     <hr />
+
+## Ünite 5
+
 1. "Bauhaus tasarımı ......................düşünceden beslenir, tasarımlarda çoğunlukla geometrik biçimler kullanılır." Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
     - **Cevap A-) minimalist**
     - B-) klasik
@@ -2790,6 +2804,9 @@
     > **Açıklama:** Konstrüktivizm (inşacılık-yapısalcılık) 1915 yılında Rusya’da ortaya çıkan sanatsal ve mimari felsefedir.
 
     <hr />
+
+## Ünite 6
+
 1. "........................, her sütundaki metin satırlarının eşit hizalandığından emin olmak için kullanılır ve genellikle okul defterlerinde yoğun olarak görülür" cümlesindeki boşluğa aşağıdakilerden hangisinin gelmesi doğru olur?
     - **Cevap A-) Temel Izgara**
     - B-) Sütun Izgarası
@@ -3190,6 +3207,9 @@
     > **Açıklama:** İsviçre tasarımın felsefesi aslında biri Zürih’te, diğeri Basel’de olmak üzere iki büyük okul aracılığıyla yayılmıştır. Joseph Müller-Brockman, bu felsefenin ilk yaklaşımını, Armin Hofmann ise son yaklaşımını simgelemiştir. Doğru cevap A seçeneğidir.
 
     <hr />
+
+## Ünite 7
+
 1. 1950’lerde, İngiltere’de Pop Sanatının oluşmasında başlangıç noktası olarak görülen ve “Günümüz evlerini bu denli farklı ve çekici kılan nedir?” kolajının yaratıcısı olan Popart sanatçısı aşağıdakilerden hangisidir.
     - A-) Andy Warhol
     - B-) Roy Lichtenstein
@@ -3890,6 +3910,9 @@
     > **Açıklama:** “Tüketime dayalı toplumun en iyi yanı, zenginler ile fakirlerin aynı ürünleri tüketebilme olanağına sahip olması” ile “Gelecekte bir gün herkes on beş dakikalığına ünlü olacak” ifadeleri Pop Art sanat anlayışını yansıtmakta ve Pop Art Sanatçısı Andy Warhol tarafından söylenmiştir
 
     <hr />
+
+## Ünite 8
+
 1. "1980’lerin sonunda, çevresel uygulamalara enstalasyon tarzında yaklaşımlara eğilim giderek artmıştır. **...** sanatı, deneysel materyal kullanımı ve zengin entellektüel yaklaşımıyla sanatsal aktivitelerin yuvası hâline gelmiştir. Böylelikle dış mekânı sanatsal olarak kullanma kaygısı artık sadece müze veya sanat galerilerinin tekelinden çıkmış ve kendine yeni yerler keşfetme şansı tanımıştır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Resim
     - B-) Görüntü
@@ -4290,3 +4313,4 @@
     > **Açıklama:** Çevresel grafiklerin ilgi alanına insan amacıyla yapılmış her türlü şey girer. Tek bir bina, otel, stadyum gibi yapılar, şehir ya da kampüs gibi binalar kompleksi, park ya da tarihsel alan gibi planlanmış bir açık alan ya da metro, havaalanı ve tren istasyonu gibi ulaşım ağları her zaman çevresel grafiklere ve işaretlere ihtiyaç duyarlar. **Çevresel tasarım bilgilendirme ve yönlendirme işaretleri, sergi alanları ve açık hava reklamcılığını içerir.** Bunun yanı sıra çevremizde kurulu yapılardaki tüm tasarım ögelerini de kapsar.<br />Basım teknolojileri
 
     <hr />
+

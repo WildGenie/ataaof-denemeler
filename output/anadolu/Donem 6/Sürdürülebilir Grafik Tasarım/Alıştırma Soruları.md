@@ -1,5 +1,7 @@
 # Sürdürülebilir Grafik Tasarım - Alıştırma Soruları
 
+## Ünite 1
+
 1. "**... ... ,** farklı bakış açılarını daha iyi anlamak ve zaman içinde ortak eylemler ve yansıma süreçlerini geliştirmek için bireyler ya da gruplar arasındaki diyaloglardan öğrenmeyi işaret eder" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Sürdürülebilirlik bilinci
     - B-) Sosyal sürdürülebilirlik
@@ -200,6 +202,9 @@
     > **Açıklama:** İnsan faaliyetlerine açık olan ormanlar, sahiller, mera/çayırlar, tarım arazileri ve kentsel alanlar vb.ekosistem parçaları yoğun ve ekolojik taşıma kapasitesinin üzerinde kullanılarak tüketilmekte ya da değişime uğratılmaktadır. Bunun sonucunda bir yandan sosyoekonomik refah artarken diğer yandan iklim, su, gıda ve enerji kaynaklarının korunması ve kirlilik kontrolüne yönelik klasik yaklaşımlar, sürdürülemez hâle gelen sorunlara sistematik ve uzun vadeli çözümler yaratabilme konusunda yetersizkalmaktadır.<br />Böylece insan refahı ve ekosistem hizmetleri arasındaki bağların doğru tanımlanmasına ve yönetilmesine yönelik **yeni ekolojik ve çevresel yaklaşımlar benimsenmeye başlanmıştır.**<br />İşte bu kapsamda; insan yaşamının destekleyicisi olan ekosistemleri, yeniden üretme ve onların taşıma kapasitesini aşmayacak şekilde kullanarak insan kültürü ve yaşayan dünya arasındaki mevcut yıkıcı ilişkiyi dengeleme sorumluluğu olarak tanımlanan **ekolojik ve çevresel sürdürülebilirlik** yaklaşımı, sürdürülebilirlik gündeminde yerini almıştır.
 
     <hr />
+
+## Ünite 2
+
 1. 3 boyutlu sanat objesinin, heykelin, görsel sanatlardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulması aşağıdakilerden hangisidir?
     - A-) Kolaj
     - B-) Asamblaj
@@ -400,6 +405,9 @@
     > **Açıklama:** **Asamblaj:** Asamblaj tekniği kolajın üç boyutlu hâlidir. Sanatçılar 20. yüzyılın başlarında bu tekniği keşfetmeye başlamışlardır. “Asamblaj” terimi ilk kez 1953’te Jean Dubuffet tarafından güzel sanatlar bağlamında kelebek kanatlarıyla oluşturduğu kendi eserini tanımlamak için kullanmıştır. (Walker, J.A.,1992).
 
     <hr />
+
+## Ünite 3
+
 1. "Ürünlerin çeşitli yollarla kullanım ömürlerini uzatarak yeniden kullanılması" ifadesi katı atık yönetimi hiyerarşisinde hangi adımı nitelendirmektedir?
     - **Cevap A-) Önleme**
     - B-) Geri dönüşüm
@@ -600,6 +608,9 @@
     > **Açıklama:** "Gerek kimyasal gerekse mekanik olarak geri dönüşüm süreci belli miktarda enerji gerektirmektedir. Ancak ileri dönüşümde buna gerek kalmamaktadır." Bu nedenle cevap d seçeneğidir.
 
     <hr />
+
+## Ünite 4
+
 1. 1990 yılının başlarında “söz” adını verdikleri ilk eko tasarım kılavuzunu hangi ülke çıkartmıştır?
     - **Cevap A-) Hollanda**
     - B-) Kosta Rika
@@ -800,6 +811,9 @@
     > **Açıklama:** EkoTekrarTasarım (EcoReDesign): Var olan bir firmada, var olan üretim metodu ve ürünün tekrar gözden geçirilmesi üzerine odaklanılmasıdır.
 
     <hr />
+
+## Ünite 5
+
 1. "Mantıklı bir düzen ve iyi tasarlanmış bir öncelik sıralaması, tasarımın algı etkisini artırır. Görünenden fazla bilgi ve mesajın profesyonel bir dil ve anlaşılır, hazmedilebilir, açıklayıcı bir biçimle görsel olarak tasarlanmasıdır. Başka bir değişle, dar bir alanda, kısa sürede, çok fazla bilgiyi verme işinin başarılmasıdır."<br />Yukarıda sözü edilen tanım aşağıdaki şıklardan hangisini tanımlamaktadır?
     - **Cevap A-) Bibgigrafi**
     - B-) Tipografi
@@ -1000,6 +1014,9 @@
     > **Açıklama:** Vektörel grafik: Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler,<br />çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Bir vektör dosyasının matematiksel formülleri<br />görüntü oluşturmak için şekil, kenarlık ve dolgu rengini tanımlar. Bu formül her boyutta yeniden hesaplanabildiğinden vektör görüntülerini kaliteden ödün vermeden sınırsız şekilde büyütmek ya da küçültmek mümkündür (Adobe, 2022b).<br />Raster grafik: Raster grafik dosyaları, piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Bir görüntünün piksel sayısı ne kadar fazla olursa görüntü kalitesi ve dosya boyutu da o kadar yüksek olur (Adobe, 2022b)<br />Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Raster grafik dosyaları, piksellerden oluşturulan görüntülerdir.
 
     <hr />
+
+## Ünite 6
+
 1. 1\. Ofset baskı<br />2\. Tipo baskı<br />3\. Tifdruk<br />4\. Serigrafi<br />5\. Flekso baskı<br />Yukarıdakilerden hangisi/hangileri grafik üretiminde düz baskının en yaygın kullanılan örneklerindendir?
     - A-) Yalnız I
     - **Cevap B-) Yalnız I ve IV**
@@ -1200,6 +1217,9 @@
     > **Açıklama:** Ofset ya da tipo baskı kadar yaygın bir kullanıma sahip olmayan **tifdruk baskı yöntemi çoğunlukla para ve tahvil benzeri** değerli evrak gibi çok yüksek sayılarda basılacak olan, baskılar arasında değişmeyen ve kusursuz bir baskı kalitesinin gerektiği durumlarda tercih edilir.
 
     <hr />
+
+## Ünite 7
+
 1. 2018 yılında yapılan bir araştırmaya göre, dünya çapında oluşan plastik atıkların yaklaşık yüzde kaçı ambalaj atıkları olarak hesaplanmıştır?
     - A-) 32
     - B-) 38
@@ -1440,6 +1460,9 @@
     > **Açıklama:** Kaynağı ve üretim yöntemi ne olursa olsun bütün ürünler üretimi, taşıması, atığa dönüşmesi ya da ihtiyaç duyduğu geri dönüşüm işlemleri gereği az ya da çok çevresel etkiye sahiptir, iş gücü ve zaman gerektirir. Organik ya da inorganik yeni kaynak ihtiyacını ve üretimde harcanan enerji miktarını düşürmenin, atıkların oluşturduğu çevresel ve sağlık tehdidini azaltmanın en basit yolu bu ihtiyacı azaltmak ve atık oluşumunu en başta önlemektir.
 
     <hr />
+
+## Ünite 8
+
 1. 1999 yılında, “tasarım mesleğinin ahlaki pusulası ve en ateşli provokatörü” olarak AIGA madalyası ile onurlandırılan tasarımcı kimdir?
     - A-) Pierre Bernard
     - B-) Ken Garland
@@ -1640,3 +1663,4 @@
     > **Açıklama:** [https://youtu.be/WfGMYdalClU](https://youtu.be/WfGMYdalClU)<br />Steve Cutts’un 2012 yılında Flash & After Effects programlarıyla ürettiği, “Man” isimli söz içermeyen kısa animasyon filmi, görselliğin gücünü gözler önüne serer niteliktedir.
 
     <hr />
+

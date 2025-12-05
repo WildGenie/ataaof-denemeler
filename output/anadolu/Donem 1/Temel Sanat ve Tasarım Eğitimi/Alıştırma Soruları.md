@@ -1,5 +1,7 @@
 # Temel Sanat ve Tasarım Eğitimi - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Performans sanatı, yerleştirme, dijital sanat ve kavramsal sanat eserleri de dâhil olmak üzere, bazı eserlerin belirli bir fiziksel nesneyle ortaya çıktığı, bazılarının ise bir nesne ve forma sahip olmadığı görülmektedir" cümlesinde bahsedilen sanat akımı/türü aşağıdakilerden hangisidir?
     - A-) Realizm
     - B-) Rönesans
@@ -300,6 +302,9 @@
     > **Açıklama:** Bu soru, estetik kavramının tarihsel kökenini ve kavramın felsefi bağlamda ilk kez nasıl tanımlandığını ölçmek amacıyla sorulmuştur. Estetiğin 18. yüzyılda Alexander Baumgarten tarafından duyusal bilgi ve algı temelli bir felsefi disiplin olarak ortaya konulması, estetik biliminin başlangıç noktası kabul edilir. Bu nedenle, estetiğin kim tarafından ve hangi anlamda ilk kez kullanıldığını bilmek, öğrencinin kavramın gelişimini doğru bağlamda kavrayabilmesi açısından önemlidir.<br />Estetik terimini ilk olarak 18. Yüzyılda duyular aracılığıyla idrak etme ve duyusal bilgiye atıfta bulunmak için felsefi bir sistemin içinde kullanan filozof Baumgarten'dır.
 
     <hr />
+
+## Ünite 2
+
 1. "........................ , düşünceleri, kavramları temsil eden sembollerin belirli kural ve kodlara göre mesajlara dönüştürülmesi anlamına gelir" cümlesindeki boşluğa aşağıdakilerden hangisinin gelmesi doğru olur?
     - A-) İletişim süreci
     - **Cevap B-) İletişimde kodlama**
@@ -600,6 +605,9 @@
     > **Açıklama:** İletişim insanların karşılıklı olarak sözel veya görseller (semboller) aracılığıyla birbirlerini anlamalarına yarayan en önemli bir süreçtir. İletişim sürecinde gönderici ve alıcı durumun­daki bu süreç hayatın çeşitli aşamalarında farklı­lıkları içinde barındırarak dinamik bir süreklilik kazanır. Yeni medya teknolojilerinin, biçimlerinin sınır tanıma­dığı günümüzde iletişim araçlarıyla (e-posta, ins­tagram, whatsapp, facebook, vlog, blog, twitter ve skype, perculus, teams ve zoom gibi görüşme/top­lantı/paylaşım ve sunum programları) olağanüstü etkileyici bir süreç yaşanmaktadır.
 
     <hr />
+
+## Ünite 3
+
 1. "Hançerlioğlu'na göre imgeler, duyusal imgeler ve ............ imgeler olmak üzere iki türlüdür. Duyusal imgeler duyumlar, algılar ve tasarımlardır; ............ imgeler ise kavramlar, önermeler, kuramlar ve varsayımlardır." cümlesinde boş bırakılan yerlere aşağıdakilerden hangisi gelmelidir?
     - **Cevap A-) Ussal**
     - B-) Gerçek
@@ -900,6 +908,9 @@
     > **Açıklama:** İkon: Nesnesinin sahip olduğu niteliklerinden dolayı nesnesine gönderme yapan göstergedir. 2. Belirti: Bir belirti, nesnesi ortadan kalktığı zaman onu gösterge yapan niteliklerini kaybeden bir göstergedir. Peirce’ye göre, belirtilerin nesneleriyle görünmez bir zorunluluk aracılığıyla doğrudan bir ilişkisi vardır. 3. **Sembol: Sembol, temsil niteliği tam olarak yorumlayanına bağlı olan göstergedir. Başka bir tanıma göre, sembol, genel düşüncelerin ortaklığını ifade eden nesneye gönderme yapan bir göstergedir.**
 
     <hr />
+
+## Ünite 4
+
 1. "Görsel düşünme" ve "görsel algı"nın aynı anlamda olduğunu savunan düşünür aşağıdakilerden hangisidir?
     - A-) Bugin
     - **Cevap B-) Arnheim**
@@ -1100,6 +1111,9 @@
     > **Açıklama:** Ahşap/Tahta baskı (ağaç baskı), ilk olarak Doğu’da Çin’de kaligrafi kullanımından kaynaklanan özelliği ile öne çıkmış ve sonrasında dünyadaki kullanımı yaygınlaşmıştır (Uçar, 2019, s. 178).
 
     <hr />
+
+## Ünite 5
+
 1. " Mekan içindeki pozisyonunu gösteren yer, belirleyici bir işarettir."<br />Yukarıda tanımı yapılan, aşağıdakilerden hangisidir?
     - **Cevap A-) Nokta**
     - B-) Çizgi
@@ -1400,6 +1414,9 @@
     > **Açıklama:** TASARIMDA İLİŞKİSEL ÖGELER<br />Leke “yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşmasıdır”.
 
     <hr />
+
+## Ünite 6
+
 1. "İnsanlar için görülür spektrum, ............. ışık ile kırmızı ışık arasındadır." Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
     - A-) sarı
     - **Cevap B-) morötesi**
@@ -1700,6 +1717,9 @@
     > **Açıklama:** İkincil Renkler<br />Yeşil, turuncu ve mor (violet) ara renklerdir.
 
     <hr />
+
+## Ünite 7
+
 1. .........................gözün, tasarım elemanlarıyla oluşturulan ağırlıkta yerçekimi ile ilişkisini görsel olarak dengeleme prensibine dayanarak oluşturulur.<br />Yukarıdaki boşluğa aşağıdaki tanımlardan hangisi gelmelidir?
     - A-) Simetrik denge
     - **Cevap B-) Asimetrik denge**
@@ -2000,6 +2020,9 @@
     > **Açıklama:** Konu: GÖRSEL TASARIMDA DENGE, RİTİM VE HAREKET<br />Birçok alanda olduğu gibi görsel iletişim tasarımında denge tasarımın en önemli ilkesidir. Denge, temel olarak tasarım elemanları (nokta, çizgi, leke, boşluk, renk vs.) ve ilkelerinin tasarımcı tarafından bilinçli kullanımından yani mesajın biçimsel işlevle birleşiminin görsel anlatımından doğar. Tercihe, işleve göre simetrik, asimetrik ve radyal denge gibi adlandırılır. Temel tasarımda kompozisyona katkı sağlayan önemli elamanlardan birisidir.
 
     <hr />
+
+## Ünite 8
+
 1. 10- İlk defa 1890’ların sonunda İngiliz film yapımcısı William Friese Greene tarafından uygulanmış ve iki göz için farklı görüntü sinyallerinin gösterilmesiyle izlenilen görselin üç boyutlu şekilde algılanmasına **ne ad verilir?**
     - A-) Sanal Gerçeklik
     - B-) Gerçeküstücülük
@@ -2300,3 +2323,4 @@
     > **Açıklama:** Görsel tasarım alanında üç boyutlu sanal gerçeklik deneyimine ilişkin pek çok farklı uygulama bulunur. Bu alanda ilk ortaya çıkan tasarım uygulamalarından biri stereoskopik (ing.stereoscopic) algılamadır. **Stereoskopik 3D en basit düzeyde kullanıcılarına iki göz için farklı görüntü sinyallerinin gösterilmesiyle izlenilen görselin üç boyutlu şekilde algılanmasıdır.** İlk defa 1890’ların sonunda İngiliz film yapımcısı William Friese Greene tarafından uygulanmıştır. Üç boyutlu stereoskopik uygulaması pek çok görsel tasarımcı ve sanatçı tarafından kullanılmaktadır.
 
     <hr />
+

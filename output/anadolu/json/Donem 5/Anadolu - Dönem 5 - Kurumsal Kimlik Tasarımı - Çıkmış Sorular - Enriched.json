@@ -177,7 +177,7 @@
             "UniteNo": 3,
             "topic": "Sembol Tanımı",
             "explanation": "Metinde Sembol başlığı altında: \"Bir kavramı, fikri veya nesneyi ileten göstergedir. Semboller, nesnelerin fiziksel anlamda tanınabilen temsilidir.\" ifadesi yer almaktadır.",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -318,7 +318,7 @@
             "topic": "Piktogram Tanımı",
             "explanation": "Metinde Kurumsal Kimlikte İşaretler ve Piktogramlar başlığı altında: 'Latince “pictus” ve “gram” sözcüklerinden üretilmiş olup, “yazısız resim” anlamına gelen Piktogramlar; amaçlanan iletişimi gerçekleştirebilmek için yazıya ihtiyaç duymaz.' ifadesi yer almaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 17,
@@ -473,7 +473,7 @@
             "topic": "Kurumsal Kimlik Avantajları",
             "explanation": "Kurumsal kimliğin doğru oluşturulması ve tutarlılığı, markanın farklılaşmasını (I), hedef kitlenin dikkatini çekerek uluslararası alanda tanınabilirlik sağlamasını (II) ve pazar payı ve tanınırlık kazanmasını (III) sağlar. Toplumsal sorumluluk projelerine destek vermek (IV) kurumsal kimliğin bir sonucu olarak algılanabilir ancak bu, kimlik oluşturmanın *temel* avantajlarından ziyade, güçlü bir kimliğin getireceği genel kurumsal faydalardandır. Ancak en temel ve doğrudan sağlanan faydalar I, II ve III'tür. Ünite 7'de tutarlılığın marka farkındalığını ve rekabet avantajını artırdığı belirtilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 25,
@@ -799,7 +799,7 @@
             "topic": "İlkörnek Amacı",
             "explanation": "Ünite 4'e göre, ilkörnek (prototip) oluşturma aşamasında, 'tanımlama aşamasında hedeflenen amaçları ve hedefleri karşılama konusunda potansiyeli olan çözümler bu aşamada öne çıkarılır.' Ayrıca ilkörnekler, 'tasarımın farklı yönlerini gerçekçi bir şekilde yansıtarak, tasarım ekibine ve hedef kitleye kurum ve marka vizyonun somut bir görselini sunmalıdır.'",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 41,
@@ -839,7 +839,7 @@
             "topic": "Tekli/Monolitik Kimlik",
             "explanation": "Metinde 'Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir.' ifadesi geçmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 43,
@@ -920,7 +920,7 @@
             "topic": "Tipografi Seçim Kriterleri",
             "explanation": "Metinde tipografi seçimi için 'markanın kişiliği ve değerleri', 'hedef kitle', 'yazı karakteri', 'stil', 'renk' gibi faktörlerin önemli olduğu belirtilmiştir. 'En çok kullanılan fontları seçilmesi', 'Moda olan fontlar seçilmesi' ve 'Karmaşık ve stile fontlar kullanılmalı' gibi ifadeler, tutarlılık ve amaca uygunluk yerine yüzeysel kriterlere odaklandığı için yanlıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 47,
@@ -1234,8 +1234,10 @@
             "UniteNo": 3,
             "topic": "Tekli/Monolitik Kimlik",
             "explanation": "Metinde Kurum Kimliğinde Tekli Kimlik başlığı altında: 'Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir.' ifadesi yer almaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 42,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 63,
@@ -1693,8 +1695,10 @@
             "UniteNo": 3,
             "topic": "Görsel Kimlik Kavramları",
             "explanation": "Metinde (Sayfa 2, Sol Sütun, Kurumsal Kimlikte Sembol başlığı altında) Sembol tanımı şu şekilde verilmiştir: 'Sembollerde, işaret eden ile edilen şey arasındaki ilişki nedensizdir. Anlam, öğrenilmiş veya üzerinde uzlaşılmış çağrışımlar yoluyla gerçekleştirilir. Bu duruma örnek olarak güvercin imgesinin barışın sembolü olarak bilinmesini gösterebiliriz. Sözlü veya yazılı kelimeler de semboldür. Sembol; bir kavramı, fikri veya nesneyi ileten göstergedir. Semboller, nesnelerin fiziksel anlamda tanınabilen temsilidir.'",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 9,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 86,
@@ -1982,7 +1986,7 @@
             "topic": "Logo Tasarımı Kriterleri",
             "explanation": "Logo tasarımında dikkate alınması gereken önemli özelliklerden biri özgünlüktür. Ünite 5'te Logo Kullanım Şekilleri başlığı altında, logo tasarımında dikkat edilmesi gerekenler arasında özgünlüğe dikkat edilmesi gerektiği belirtilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 100,
@@ -2022,8 +2026,10 @@
             "UniteNo": 1,
             "topic": "Kurumsal Kimlik Faydaları",
             "explanation": "Metinde, güçlü kurumsal kimliğin faydaları arasında; farklılaşma/ayırt edilebilme (I), uluslararası alanda tanınabilirlik (II), pazar payı ve tanınırlık kazanma (III) olduğu belirtilmiştir. Metin, toplumsal sorumluluk projelerinin de kurum kimliğinin bir parçası olduğunu ima eder ve genel hedefler arasında yer alır (Ünite 1, Kurumsal Kimlik başlığı altında itibar ve rekabet avantajı vurgulanır; Ünite 2'de ise sosyal sorumluluk listelenir). Bu nedenle tüm seçenekler (I, II, III ve IV) doğru hedefler arasında yer alır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 24,
+            "original_source": "Ara Sınav 2024-2025"
         },
         {
             "id": 102,
@@ -2124,8 +2130,10 @@
             "UniteNo": 4,
             "topic": "İlkörnek Oluşturma Amacı",
             "explanation": "Ünite 4'te İlkörnek Oluşturma Aşaması başlığı altında, ilkörneklerin (prototiplerin) 'tasarımın farklı yönlerini ve ögelerini temsil ederek belli nitelikleri taşıması' ve 'tasarım ekibine ve hedef kitleye kurum ve marka vizyonun somut bir görselini sunması' amaçlandığı belirtilmiştir. Bu, potansiyel çözümlerin hedefleri karşılama potansiyelini göstermeye yöneliktir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 40,
+            "original_source": "Ara Sınav 2024-2025"
         },
         {
             "id": 107,
@@ -2165,8 +2173,10 @@
             "UniteNo": 3,
             "topic": "Piktogram Tanımı",
             "explanation": "Ünite 3'te Kurumsal Kimlikte İşaretler ve Piktogramlar başlığı altında, Piktogramların Latince 'pictus' ve 'gram' sözcüklerinden üretildiği ve 'yazısız resim' anlamına geldiği belirtilmiştir. Ayrıca, bu göstergelerin 'farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır' bilgisi yer almaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 16,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 109,
@@ -2206,8 +2216,10 @@
             "UniteNo": 8,
             "topic": "Tipografi Seçimi Faktörleri",
             "explanation": "Ünite 8'de Tipografi Seçimi başlığı altında, tipografik farklılıkların 'okunaklılığı ve hedef kitlede oluşan duyguları değiştirebileceği' belirtilmiştir. Bu nedenle, 'Hedef kitleye ve sektöre uygun tipografi seçmek ve uygulamak' çok önemlidir. Ayrıca, fontların farklı dil desteklerinin olması gerektiği ve kurumsal kimliğin genel estetiğine uyması gerektiği de vurgulanmıştır. Bu nedenle hedef kitleye uygunluk, okunaklılık ve dil desteği temel faktörlerdir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 46,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 111,
@@ -2369,8 +2381,10 @@
             "UniteNo": 8,
             "topic": "Logo Tasarım Özellikleri",
             "explanation": "Ünite 8'de Logo Kullanım Şekilleri başlığı altında, logo tasarımında dikkat edilmesi gereken unsurlar listelenmiştir: Marka kimliğini yansıtma, basitlik, çeşitli boyutlarda etkili olma, renk seçimi, zaman dayanıklılığı, üretilebilirlik, kullanılabilirlik ve özgünlük. 'Kullanıcı geri bildirimlerine göre revize etme' ise tasarım sürecinin daha sonraki aşamalarında (Test/Geri Bildirim) gerçekleşen bir faaliyettir, logonun tasarlanma anındaki temel özelliği değildir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 99,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 119,

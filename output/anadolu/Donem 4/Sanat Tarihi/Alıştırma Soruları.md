@@ -1,5 +1,7 @@
 # Sanat Tarihi - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Dikilitaş, genellikle tek bir taş bloktan yapılan ve belirli bir kişi ya da olayı simgelemek için dikilen ucu piramidal formda sivriltilmiş ince uzun taş anıtlara denir." Aşağıdakilerden hangisinin tanımıdır?
     - A-) Piramid
     - **Cevap B-) Obeliks**
@@ -3410,6 +3412,9 @@
     > **Açıklama:** Neolitik Devir
 
     <hr />
+
+## Ünite 2
+
 1. "Abidevi taç kapıları bulunan, her birinin geniş saçaklı ayrı çatısının bulunduğu kafesli görünüşler sunan çok katlı yapılardır." Verilen tanım aşağıdaki hangi yapıya aittir?
     - **Cevap A-) Nepal mabetleri**
     - B-) Nepal manastırları
@@ -6840,6 +6845,9 @@
     > **Açıklama:** Hind-i Çini sanatı<br />Feng-shui
 
     <hr />
+
+## Ünite 3
+
 1. "Bergama Zeus Altarı", Yunan sanatının hangi dönemine ait bir yapıdır?
     - A-) Arkaik
     - **Cevap B-) Helen**
@@ -9810,6 +9818,9 @@
     > **Açıklama:** Yunan Sanatı<br />İon üslubunda kullanılan malzeme . ahşaptır .
 
     <hr />
+
+## Ünite 4
+
 1. "Bir kemerin, yayının tepe noktasından inen dikin çevresinde dönmesiyle meydana gelen örtü." tanımı hangisini açıklamaktadır?
     - **Cevap A-) Kubbe**
     - B-) Tonoz
@@ -13560,6 +13571,9 @@
     > **Açıklama:** Kathedra: Kiliselerde synthoronun ortasında bulunan ahşap, taş ya da fildişinden yapılmış, başpiskoposun oturması için ayrılmış koltuk.<br />Doğru yanıt A seçeneğidir.
 
     <hr />
+
+## Ünite 5
+
 1. "At nalı kemer, damarlı kubbe ve dekorasyonda mukarnas" kullanılan Kuzeybatı Afrika bölgesindeki ilk cami örneği aşağıdakilerden hangisidir?
     - A-) Tlemsen Cami
     - **Cevap B-) Kurtuba Ulu Camii**
@@ -16290,6 +16304,9 @@
     > **Açıklama:** Emevi dönemi sanatı 661-750, 756-929/929-1031 yılları arasında olmak üzere farklı dönemlere ayrılmıştır.<br />Şam’dan Palmira’ya giden eski ticaret yolu ile Humus’tan<br />Djof ’a giden yolun kavşak noktasında olan ve Halife Hişam<br />tarafından yaptırılmış olan taş temeller üzerine tuğladan inşa<br />edilen ve yaklaşık kare biçimli bir alana oturan yapı Kasrü’l Hayri el-Garbi'dir.
 
     <hr />
+
+## Ünite 6
+
 1. "Dış görünüşü ile tümülüsleri çağrıştıran, üzerleri yığma toprak ve taşlarla örtülü mezarlara" verilen addır.<br />Yukarıdaki tanım aşağıdakilerden hangi seçenekte doğru olarak verilmiştir?
     - A-) Yurt tipi çadır
     - B-) Külliye
@@ -18520,6 +18537,9 @@
     > **Açıklama:** 16\. yüzyılın ortalarından itibaren renkli sır tekniği terk edilmiş, çinicilikte sıraltı tekniği hakim olmuştur. Çini sanatında renk ve motif özelliklerinin ön plana çıktığı bu dönemin en büyük yeniliklerinden biri de çinide parlak mercan kırmızısının kullanılmaya başlanmasıdır.
 
     <hr />
+
+## Ünite 7
+
 1. 'Almanya Köln Katedrali, Auxerre St. Germain Kilisesi, Corvey Manastır Kilisesi ve Münster St. John Kilisesi fresklerinde Charlemagne’in savaşları ve başarıları ile İsa ve azizlerin yaşamları işlenmiştir. Aachen Şapeli kubbesindeki Erken Hristiyan ikonografisinin etkisiyle yapılan mozaikler dönem resim sanatının en önemli örnekleridir.' Yukarıdaki cümlede hangi dönemden bahsedilmektedir?
     - A-) Gotik
     - **Cevap B-) Karolenj**
@@ -20350,6 +20370,9 @@
     > **Açıklama:** Gotik Sanat<br />Chartres Katedrali
 
     <hr />
+
+## Ünite 8
+
 1. "Sanat öldü, yaşasın sanat” söylemiyle sanatı geleneksel, akılcı tutumundan kurtarmayı amaçlayan sanatçıların ekolü aşağıdakilerden hangisidir?
     - **Cevap A-) Dadaizm**
     - B-) Port Modernizm
@@ -21160,3 +21183,4 @@
     > **Açıklama:** 19\. yüzyılda ortaya çıkan sanat akımlarını, hangi sosyal ve kültürel ortamlarda oluştuklarını tanımlayabileceksiniz.
 
     <hr />
+

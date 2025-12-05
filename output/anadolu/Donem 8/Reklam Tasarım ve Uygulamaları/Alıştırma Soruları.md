@@ -1,5 +1,7 @@
 # Reklam Tasarım ve Uygulamaları - Alıştırma Soruları
 
+## Ünite 1
+
 1. Aşağıdaki reklam ajansı türlerinden hangisinde medya planlama, stratejik planlama gibi çalışma birimleri bulunmaz?
     - A-) Dijital Reklam Ajansları
     - B-) Geleneksel Reklam Ajansları
@@ -100,6 +102,9 @@
     > **Açıklama:** REKLAMIN TANIMI, ÖNEMİ VE ETKİLERİ<br />Değer katma işlevi: Hedef kitlenin reklamı yapılan ürün, hizmete ya da markaya yönelik olumlu algısı, o markaya ya da ürün/hizmetlere yönelik olumlu tutum geliştirmesine ve bir karar sürecinde hedef kitlenin<br />o markayı, ürünü ya da hizmeti tercih etmesine neden olacaktır. Kısacası reklamlar markaların daha prestijli ve kaliteli görünmesine yardımcı olarak markalara değer kazandırma noktasında kritik bir rol oynamaktadır.
 
     <hr />
+
+## Ünite 2
+
 1. "Tüketicinin tatmin edilmesi gereken ihtiyacından çok, ürün ya da hizmetlerin özelliklerine odaklanma" olarak tanımlanan durum aşağıdakilerden hangisi ile açıklanabilir?
     - A-) Duygusal pazarlama
     - **Cevap B-) Pazarlama miyopluğu**
@@ -200,6 +205,9 @@
     > **Açıklama:** Ürün/Hizmet Konsepti: Reklam stratejisini geliştirilmesi aşamasında odaklanılması gereken bir diğer husus ürün/hizmet konseptinin tanımlanmasıdır. Bu tanımlama ürünün fonksiyonel özellikleriyle ilgili hedef kitleyi bilgilendirmek kadar hedef kitleye bir değer önerisi sunmayı da içerir.
 
     <hr />
+
+## Ünite 3
+
 1. "Reklam fikrinin oluşmaya başladığı ilk anlar olarak nitelendirilebilir." Bu durum aşağıdaki yaratıcı fikir süreçlerinden hangisinde gerçekleşir?
     - A-) Beyin fırtınası
     - **Cevap B-) Kuluçka**
@@ -300,6 +308,9 @@
     > **Açıklama:** Piramit Model yaratıcı fikir üretimini tabandan tavana doğru piramit şeklinde ilerleyen üç aşamalı<br />bir süreç ile açıklamaktadır. 1.aşama olan piramidin tabanı, yaratıcı fikir üretmek için bilgi toplamayı ifade eder. Bu aşamada fikir üretmeye başlamadan önce gerekli olan bilgiler araştırılarak bir yol haritası çizilmeye çalışılır. 2. aşama piramidin ortasına denk gelen çözümleme aşamasıdır. Bu aşamada fikirler esnek bırakılır, farklı fikirler birleştirilir, ayrıştırılır ve kaynaştırılır. Çözülme aşaması kısaca son yaratıcı fikir için birden fazla düşüncenin ortaya atılması, farklı fikirlerin bir araya getirilmesi ya da ortak görülen bazı noktaların ayrılması gibi çeşitli taktikleri içermektedir. 3. aşama olan piramidin tepe noktası ise fikir oluşumunun gerçekleştiği kısımdır.
 
     <hr />
+
+## Ünite 4
+
 1. Aşağıdaki hangisi reklamcılıkta sanatın kullanımında içerik açısından ele alınan yöntemlerden biri değildir?
     - A-) Ürünün bir parçasını sanatsallaştırma
     - B-) Reklamı sanatsal eyleme dönüştürme
@@ -400,6 +411,9 @@
     > **Açıklama:** Yaratıcılık, hayal gücü, estetik kaygı gibi unsurlar, reklamın kaçınılmaz olarak çeşitli sanat alanlarıyla ilişki kurmasına neden olmaktadır.
 
     <hr />
+
+## Ünite 5
+
 1. Araç trafiğinin yoğun seyrettiği yol kenarı ve kavşaklarda, yüksek bir mevkide konumlandırılan, daha çok araçla seyahat eden kesime hitap eden, ışıklandırılmış ve çerçeve içine alınmış olarak sergilenen reklam panosu olarak tanımlanabilir açık hava reklam aracı aşağıdakilerden hangisidir?
     - **Cevap A-) Megalight**
     - B-) Kuleboard
@@ -500,6 +514,9 @@
     > **Açıklama:** Standart ölçüler dikkate alındığında en büyük açık hava mecrası olan kuleboard, şehir merkezlerinde ve şehirler arası yollarda sıkça kullanılan reklam panolarıdır. Kuleboardların akşam da görülebilmesi için spot ışıklar kullanılır.<br />Özellikle şehir merkezlerinin önemli caddelerinde, ana yollarda, şehirler arası otoyollarda sıklıkla kullanılan kuleboardlarda reklam alanı yerden 10 metre yüksekte yer alır. 1240 x 640 cm boyutlarında olan kuleboardlar büyük ölçüleri sayesinde uzak mesafelerden görüş imkânı sunar. Bu nedenle de çok uzak mesafelerden bile tüketicilerin reklamı görmesi, fark etmesi ve reklam mesajını algılayabilmesi söz konusudur. Dolayısıyla, büyük boyut ile yüksek farkındalık sağlamak hedeflenir.
 
     <hr />
+
+## Ünite 6
+
 1. ......... filmde yer alan karakterin önceden başına gelenlerin açıklanmasıdır.<br />Yukarıdaki cümlede bırakılan boşluğa aşağıdaki ifadelerden hangisi gelmelidir?
     - A-) Karakteri açıklama işlevi
     - B-) Dış ses
@@ -600,6 +617,9 @@
     > **Açıklama:** Türkiye'de ilk TV reklamı Meysu markasına aittir ve bu reklam 1972’de yayımlanmıştır.
 
     <hr />
+
+## Ünite 7
+
 1. "Banner reklamlar" hangi tarihte ortaya çıkmış ne tür reklamlardır?
     - A-) 2000’li yılların sonlarında akıllı telefonların gelişmesi ile ortaya çıkmış, görsel açısından zengin reklam türüdür.
     - B-) 2011 yılında. Fotoğraf ve video paylaşım platformudur. Kullanıcıların filtreler, hashtag’ler (#), coğrafi konum bildirme, etiketleme yoluyla paylaşım yapmalarını sağlar.bu şekilde ürün reklamları yapılır.
@@ -700,6 +720,9 @@
     > **Açıklama:** İnteraktif VR deneyimleri, tüketicilerin sanal ortamda ürün ve hizmetlerle etkileşime geçmesine olanak tanıyan bir reklam türüdür. Bu deneyimler, reklam verenin ihtiyaçlarına uyacak şekilde özelleştirilebilir ve bir ürün veya hizmetin özelliklerini ve faydalarını sergilemek için kullanılabilir. İnteraktif VR deneyimleri tüketicilerle duygusal bir bağ kurmak ve marka sadakati oluşturmak için güçlü bir<br />araç olabilir.
 
     <hr />
+
+## Ünite 8
+
 1. "Bir mesajı oluşturmak ve iletmek için çizimler, şekiller, resimler gibi görsel formların kullanılması, iletilerin ve yan anlamların özellikle donuk ve hareketli imgelerin, aynı zamanda beden dilinin ve yazılı metinlerdeki dil dışı biçimlerin (tipografi, emoji gibi) görsel biçimler içinde üretimi ve yorumlanması" aşağıdakilerden hangisinin tanımıdır?
     - **Cevap A-) Görsel İletişim**
     - B-) Reklam
@@ -800,3 +823,4 @@
     > **Açıklama:** Yanılsama, bir imgenin gerçekte olmadığı kadar farklı ve çarpıtılmış şekilde algılanması, beynin algısal ipuçlarını doğru olarak yorumlayamayacak bir biçimde yanlış yorumlamasıdır. Birçok görsel yanılsama örneği bulunmaktadır. Görsel iletişim bağlamında üç tanesini açıklamak yerinde olacaktır.<br />1\. Ay yanılsaması:<br />2\. Müller-Lyer yanılsaması:<br />3\. Ponzo yanılsaması:
 
     <hr />
+

@@ -12,7 +12,7 @@ class TestAnadoluPDF(unittest.TestCase):
     def setUp(self):
         self.pipeline = AnadoluPipeline("raw", "json", "full", "md")
 
-    @patch('anadolu.fetch.requests.get')
+    @patch('libs.anadolu_pipeline.requests.get')
     @patch('builtins.open', new_callable=mock_open)
     @patch('os.path.exists')
     def test_fetch_pdf_success(self, mock_exists, mock_file, mock_get):
@@ -42,7 +42,7 @@ class TestAnadoluPDF(unittest.TestCase):
         handle = mock_file()
         handle.write.assert_called_with(b'PDF_CONTENT')
 
-    @patch('anadolu.fetch.requests.get')
+    @patch('libs.anadolu_pipeline.requests.get')
     def test_fetch_pdf_no_randpart(self, mock_get):
         # Mock response without RandPart
         mock_response = MagicMock()
@@ -56,7 +56,7 @@ class TestAnadoluPDF(unittest.TestCase):
         # Should stop after first call
         self.assertEqual(mock_get.call_count, 1)
 
-    @patch('anadolu.fetch.requests.get')
+    @patch('libs.anadolu_pipeline.requests.get')
     def test_fetch_chapters_success(self, mock_get):
         # Mock successful chapters response
         mock_response = MagicMock()
@@ -80,7 +80,7 @@ class TestAnadoluPDF(unittest.TestCase):
         self.assertEqual(len(result.get('Chapters', [])), 2)
         self.assertEqual(result['CourseCode'], 'GIT301U')
 
-    @patch('anadolu.fetch.requests.get')
+    @patch('libs.anadolu_pipeline.requests.get')
     def test_fetch_chapters_error(self, mock_get):
         # Mock error response
         mock_response = MagicMock()

@@ -1,5 +1,7 @@
 # Atatürk İlkeleri ve İnkılap Tarihi II - Alıştırma Soruları
 
+## Ünite 1
+
 1. "İnkılap" kelimesinin kökeni aşağıdaki dillerden hangisine dayanmaktadır?
     - **Cevap A-) Arapça**
     - B-) Farsça
@@ -610,6 +612,9 @@
     > **Açıklama:** Atatürk, Türk inkılabını şöyle tanımlamıştır: “*Türk milletini son asırlarda geride bırakmış olan müesseseleri yıka­rak, yerlerine milletin en yüksek medeni icaplara göre ilerlemesini temin edecek yeni müesseseleri kurmuş olmak.*” Türk inkılabı ile eski kurumların yerini yenileri almış ve çağın gereklerine uygun yeni bir hayat görüşü ve düzen benimsenmiştir. Atatürk çağın gerisinde kalmış ve kendini yenilemeyen ül­kelerin ve toplumların nasıl sömürüldüklerine ve yok edildiklerine tanık olduğundan var olmak için modernleşmeyi ve kalkınmayı temel çözüm olarak görmüştür.
 
     <hr />
+
+## Ünite 2
+
 1. 1 Eylül 1915 tarihinde Albay Mustafa Kemal'e "Muharebe Gümüş Madalyası" hangi muharebe sonucu verilmiştir?
     - A-) Trablusgarp Savaşı
     - B-) Tobruk Muharebesi
@@ -1200,6 +1205,9 @@
     > **Açıklama:** Ömer Naci
 
     <hr />
+
+## Ünite 3
+
 1. "Soğuk Savaş Dönemi" 2nin başlangıcı olarak kabul edilen tarihi olaya hangisidir?
     - A-) Paris Anlaşması
     - B-) San Fransisco Buluşmaları
@@ -1890,6 +1898,9 @@
     > **Açıklama:** 12 Mart 1947
 
     <hr />
+
+## Ünite 4
+
 1. 02 Haziran 1950 tarihinde güvenoyu olan 1. Menderes Hükümeti aşağıdaki tarih aralıkların hangisinde kurulup görev başında kalmıştır?
     - A-) 10\.05.1950-09.04.1951
     - B-) 02\.06.1950-10.02.1951
@@ -2480,6 +2491,9 @@
     > **Açıklama:** Amerika Birleşik Devletleri (ABD) ve Sovyet Sosyalist Cumhuriyetler Birliği (SSCB). Bu iki<br />güç, dünya siyasetine hâkim oldu ve bu dönem “Soğuk Savaş” dönemi olarak adlandırıldı.
 
     <hr />
+
+## Ünite 5
+
 1. "DP iktidarını deviren 38 kişilik kadro General Cemal Gürsel liderliğinde ................................ çatısı altında bir araya gelmiştir."<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tanımlar?
     - A-) Tahkikat Komisyonu (TK)
     - **Cevap B-) Milli Birlik Komitesi (MBK)**
@@ -3080,6 +3094,9 @@
     > **Açıklama:** Yüksek Adalet Divanı, 14 Ekim 1960’ta başladığı duruşmaları 15 Eylül 1961 tarihinde yani yaklaşık olarak 11 aylık yargılama sonrası kararlarını açıkladı. Karalar arasında en dikkat çekeni ise verilen idam cezalarıydı. Yargılamalar neticesinde 15 idam kararı çıktı. Mahkemenin idam kararı verdiği isimler şunlardı: Celal Bayar, Adnan Menderes, Fatin Rüştü Zorlu, Hasan Polatkan, Emin Kalafat, Nedim Koraltan, Agah Erozan, İbrahim Kirazoğlu, Baha Akşit, Bahadır Dülger, Osman Kavakoğlu, Rüştü Erdelhun, Nusret Kirişçioğlu, Hami Sancar, Zeki Erataman. **Aynı gün MBK tarafından yapılan görüşmede de Başbakan Adnan Menderes, Dışişleri Bakanı Fatin Rüştü Zorlu ve Maliye Bakanı Hasan Polatkan’ın idam kararları onaylanmış**, diğer idam kararları ise ömür boyu hapse çevrilmişti. İdam kararlarının alınmasında Silahlı Kuvvetler Birliği’nin önemli rolü oldu. Zira yayımlanan genelgede infazların en kısa sürede gerçekleştirilmesi talep edildi. MBK’nin almış olduğu karar sonrasında **Fatin Rüştü Zorlu ve Maliye Bakanı Hasan Polatkan’ın cezaları 16 Eylül 1961’de, Adnan Menderes’in cezası ise 17 Eylül 1961’de infaz edildi.** Özellikle idamlar Türkiye’deki ayrışmayı derinleştirmiş ve iki karşıt kesim arasında adeta bir kan davasının ortaya çıkmasına yol açmıştır.
 
     <hr />
+
+## Ünite 6
+
 1. 1989 Cumhurbaşkanlığı seçimlerinde Turgut Özal’ın rakibi aşağıdakilerin hangisinde doğru olarak yer alır?
     - A-) Süleyman Demirel
     - B-) İhsan Sabri Çağlayangil
@@ -3370,6 +3387,9 @@
     > **Açıklama:** 1960’lı yıllardan itibaren bir kimlik hareketi olarak büyüyen, sol partilerin söylemlerinde yer bulan Kürt kimliği ve dili ile il-gili taleplere dayalı olarak silahlı örgüte dönüşen PKK’nın 1984 yılındaki Eruh saldırısını, 1980 son-rası askerî vesayet sürecinin etkisiyle, sıkıyönetim ve kolluk gücü tedbirleriyle halledilebilecek üç beş eş-kıya kalkışması olarak görmüştür. Dolayısıyla Özal, ilerleyen yıllarda çok eleştiri alacağı Kürt meselesine yaklaşımını ekonomik kalkınma hamleleri ve güvenlik düzenlemeleriyle çözebileceğine inanmıştır. Bu sebeple köy koruculuğu sistemini getirmiş bu güvenlik uygulamaları 10 Temmuz 1987 yılında 11 ili kapsayan Olağanüstü Hâl Bölge Valiliğinin kuruluşuna kadar uzanmıştır. Başbakanlığı dönemin-deki ekonomik yatırımların öncelikli olduğu siyasi politika ve askerî önlemlerin bölgede daha sıkı uygulanması PKK’nın bölgede halk üzerindeki etkisi-nin güçlenmesine sebep olmuştur. Bu sıkıyönetim uygulamaları bölgedeki illegal kazanç yollarını da etkilediğinden toplumsal tepki PKK’nın propagandasına yaramış, Özal’ın bu anlamda gelişmelere engel olmak için Kürt kimliğine yönelik söylemleri ve işsizliği azaltmak için ortaya koyduğu istihdam politikası beklenen sonucu vermemiştir. a, b, d ve e şıkları sorunu ortaya çıkaran nedenler olarak kabul edilebilir.
 
     <hr />
+
+## Ünite 7
+
 1. 18 Nisan 1999 genel seçimleri sonucuna göre hangi parti meclis dışında kalmıştır?
     - A-) DSP
     - **Cevap B-) CHP**
@@ -3870,6 +3890,9 @@
     > **Açıklama:** İkinci DYP-SHP Koalisyonu 25 Haziran 1993 ile 5 Ekim 1995 tarihleri arasında görev yapmıştır.
 
     <hr />
+
+## Ünite 8
+
 1. 10 Mayıs 2010’da TBMM’de “1 Mart Tezkeresi”nin reddedilmesinin ardından iç ve dış politikada gündemde olan CHP Genel Başkanı Deniz Baykal’ın istifa etmesinin ardından 22 Mayıs 2010’da Ankara Atatürk Spor Salonu’nda yapılan 33. Olağan Kurultayı’nda CHP’nin 7. Genel Başkanı kim seçilmiştir?
     - A-) Tayfun İçli
     - B-) Ersönmez Yarbay
@@ -4270,3 +4293,4 @@
     > **Açıklama:** AK Parti’nin Üçüncü Döneminde Türkiye (2011-2014)<br />12 Haziran 2011 Milletvekilliği Genel Seçimleri ilkleri bünyesinde barındırmıştır. Bu seçimler Türkiye’de 34 yıl aradan sonra “erken” yapılmayan ilk genel seçimdir. Ayrıca ilk defa 25 yaşını doldurmuş kişiler bu seçimlerde milletvekili adayı ve milletvekili olmuştur. Doğru cevap C seçeneğidir.
 
     <hr />
+

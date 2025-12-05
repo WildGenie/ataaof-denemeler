@@ -57,8 +57,10 @@
             "UniteNo": 3,
             "topic": "Analog Video Tarihi",
             "explanation": "Soru 3, analog video tarihindeki bir gelişmeyi sormaktadır. Metinde, '1956: Televizyonda canlı yayınlar dışında bant kaydı mümkün hâle geldi. “Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) 2 inch (yaklaşık beş santimetre) kalınlığında manyetik makara bantlara kayıt yapan devasa bir aletti ve fiyatı yaklaşık 50.000 dolardı ama tarihte ilk defa video kaydı yapılabiliyordu\" ifadesi yer almaktadır. Bu, VTR'nin icadıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 182,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 4,
@@ -257,8 +259,10 @@
             "UniteNo": 3,
             "topic": "Görüntü Sabitleme Teknolojileri",
             "explanation": "Video kameralarda sabit lensli modellerde titreşimi önlemek için kullanılan, mekanik bir aparat kullanmadan (tripod, gimbal gibi) elektronik olarak görüntü sabitlemeyi sağlayan sistemler EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) olarak adlandırılır. Hareketli görüntülerin elektronik olarak düzeltilmesi bu sistemlerle sağlanır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 72,
+            "original_source": "Ara Sınav 2024-2025"
         },
         {
             "id": 14,
@@ -298,7 +302,7 @@
             "topic": "Hava Fotoğrafçılığı (Drone)",
             "explanation": "Hava fotoğrafçılığı (ya da drone fotoğrafçılığı), havadan, kuş bakışı perspektife sahip fotoğrafların çekilmesidir. Drone'lar, giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için yüksek çözünürlüklü kameraları taşıyan ve bu kameralarla birlikte hareket ettirilen cihazlardır. Gelişmiş GPS ve yapay zeka destekli uygulamalarla (uçuş/iniş kontrolü) düşük maliyetle görüntüleme imkanı sunarlar.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 16,
@@ -337,7 +341,7 @@
             "UniteNo": 4,
             "topic": "Yazıcı Teknolojileri",
             "explanation": "Katı hal (Solid State Disk) gibi elektriksel hücreler kullanan yazıcılar değil, termal, nokta vuruşlu, inkjet, lazer ve süblimasyon gibi tipler vardır. Solid Ink, katı mürekkebi eriterek kullanan bir teknoloji iken, burada bahsedilen, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve taşma olmayan baskıyı sağlayan yazıcılar 'Lazer' yazıcılardır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -518,7 +522,7 @@
             "topic": "Orta Format Makineleri",
             "explanation": "Orta Format Makineleri'nin tercih edilme nedenleri arasında: 1. Görüntü sensörünün büyük olması (35mm full frame'den büyük), 2. Büyük ve ağır gövdeye sahip olması (bu bir dezavantaj gibi görünse de, büyük sensörün getirdiği avantajlarla birlikte anılır), 3. İhtiyaç ve amaca göre geniş yelpaze sunması ve 5. Yüksek çözünürlüklü renk derinliği olan görüntüler sunmasıdır. Sığ alan derinliği kalitesi (I) de tercih nedenlerindendir. III numaralı ifade, hafif bir gövdeye sahip olma bilgisini vermez; aksine, büyük sensörler nedeniyle ağır ve hantal oldukları belirtilmiştir. Bu nedenle I, II ve IV numaralı ifadeler tercih nedenleridir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 27,
@@ -920,8 +924,10 @@
             "UniteNo": 2,
             "topic": "Orta Format Avantajları",
             "explanation": "Ünite 2'de Orta Format Makineleri'nin tercih edilme nedenleri (Neden Tercih Etmeliyiz?) sıralanmıştır: I. Sığ alan derinliği kalitesi sunar (sığ alan derinliği uygulamalarında çok daha iyi bir derinlik espası sunarlar). II. Büyük sensörler sayesinde yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahip olması değil, tam tersine büyük ve ağır bir gövdeye sahip olmalarıdır (Dezavantajdır). IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar (sektöre, alana ve boyutlandırma pratiklerine göre seçim yapma imkanı sunar). Bu nedenle I, II ve IV maddeleri tercih nedenlerindendir. III bir dezavantajdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 26,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 47,
@@ -1062,7 +1068,7 @@
             "topic": "Dijital Video Formatları",
             "explanation": "Ünite 7'de SDTV, HDTV ve UHDTV'den bahsedilmekle birlikte, video sinyal kodlama teknolojileri standartlarından detaylı bahsedilmemiştir. Ancak Ünite 3'te, eski analog kameraların video kayıt sistemleri ve bu sistemlerin günümüz dijital sistemlerine geçişi anlatılmaktadır. CRT ekranlarda genel olarak PAL (625 satır) ve NTSC (525 satır) standartları kullanılmıştır. Bu standartlar, video kameraların analogdan dijitale geçiş sürecinde temelini oluşturmuştur.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 54,
@@ -1427,8 +1433,10 @@
             "UniteNo": 3,
             "topic": "Video Çözünürlük Standartları",
             "explanation": "PAL (Phase Alternating Line) televizyon sistemi, Avrupa ve diğer bazı bölgelerde kullanılır ve standart dikey çözünürlüğü 625 satırdır. NTSC (National Television System Committee) ise çoğunlukla Kuzey Amerika'da kullanılır ve standart dikey çözünürlüğü 525 satırdır. Bu bilgi Ünite 3 özetinde, dijital video kameraların analogdan dijitale geçişi anlatılırken bahsedilen HDTV ve UHDTV ile ilgili bağlamda yer almaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 53,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 72,
@@ -1570,8 +1578,10 @@
             "UniteNo": 4,
             "topic": "Yazıcı Tipleri",
             "explanation": "Söz konusu tanım (toner, statik elektrik, ısıtma ile katı mürekkep aktarımı) Lazer yazıcıların çalışma prensibini açıklamaktadır. Ünite 4'te yazıcılar termal, nokta vuruşlu, mürekkep püskürtmeli (inkjet), lazer ve süblimasyon olarak sınıflandırılmıştır. Lazer yazıcılar, tonerleri eriterek kalıcı ve dağılma yapmayan baskılar üretir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 17,
+            "original_source": "Ara Sınav 2021-2022"
         },
         {
             "id": 79,
@@ -1631,7 +1641,9 @@
             "topic": "Dijital TV Yayın Türleri",
             "explanation": "Ünite 1'de, Web TV (İnternet TV), açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan bir teknoloji olarak tanımlanmıştır. Bu yayın türü, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle ortaya çıkar.",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 41,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 82,
@@ -1650,7 +1662,7 @@
             "UniteNo": 2,
             "topic": "DSLR Özellikleri",
             "explanation": "DSLR (Digital Single Lens Reflex) makineler, tak-çalıştır lenslere sahiptir ve genellikle APS-C veya Full Frame sensör kullanır. Sabit odaklı lenslerle çalışmak veya lens/gövde bütünlüğü bu makinelere ait özellikler arasında yer almaz. Sabit odaklı lensler ve gövdeyle bütünleşik lensler genellikle kompakt veya köprü kameralara özgüdür.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1711,7 +1723,7 @@
             "topic": "Sayısal Fotoğraf Ayarları",
             "explanation": "Fotoğrafın dosya numaralandırılması, tarih ve saat ayarları gibi organizasyonel ayarların yapıldığı menü grubu 'Çekim Seçeneklerini Ayarlama' veya 'Diğer Seçimler' başlığı altında incelenir. Dosya numaralandırması (File naming and numbering) 'Diğer Seçimler' menüsü altında yer alan bir seçenektir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 86,
@@ -1730,7 +1742,7 @@
             "UniteNo": 5,
             "topic": "Hazır Sahneleme Modları",
             "explanation": "Hazır sahneleme modları, çekilecek fotoğrafın türüne göre pozlama değerlerinin otomatik ayarlanmasını sağlar. Portre modu, Manzara modu ve Spor/aksiyon modu bu modlar içerisindedir. (U3'te de bahsedilen hazırlık modlarıdır.)",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -2031,8 +2043,10 @@
             "UniteNo": 1,
             "topic": "Sayısal Video Tarihi",
             "explanation": "1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, video kayıt teknolojisinde önemli bir adımdı.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 182,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 102,
@@ -2114,8 +2128,10 @@
             "UniteNo": 7,
             "topic": "Sayısal Görüntü Ayarları",
             "explanation": "Soruda bahsedilen özellikler; dosya adlandırma (File and folder structure/Filenaming and Numbering) ve özel numaralandırma/sıfırlama (otomatik sayı kontrolü) ayarlarını kapsar. Bu tür ayarlar, genellikle 'Görüntü Ayarları (Display Settings)' veya daha spesifik olarak 'Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and Numbering)' menüsü altında bulunur. Ancak, seçenekler arasında en kapsayıcı olanı 'Görüntü Ayarları (Display Settings)' başlığı altında listelenen diğer ayarlar da dahil edilmiştir. Verilen seçenekler içinde 'Dosyaya İsim Ekleme ve Numara Ekleme' özelliği doğrudan 'Görüntü Ayarları (Display Settings)' başlığı altında listelenmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 85,
+            "original_source": "Dönem Sonu 2021-2022"
         },
         {
             "id": 106,
@@ -2139,7 +2155,7 @@
         },
         {
             "id": 107,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b> <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 7,
@@ -2189,7 +2205,7 @@
             "topic": "Stüdyo Fon Türleri",
             "explanation": "Soruda tanımı verilen fon türü, 'Mekân/Set Fonlar' olarak adlandırılır. Bu türde, çekilen öznenin çevresindeki diğer unsurlar veya ortam, kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılır. Ünite 6'da, 'Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir' ifadesiyle bu fon türü tanımlanmıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 110,
@@ -2451,8 +2467,10 @@
             "UniteNo": 2,
             "topic": "DSLR Özellikleri",
             "explanation": "Ünite 2'de DSLR makinelerin özellikleri anlatılmıştır. Kompakt makinelerden daha pahalıdırlar (A şıkkı yanlış). Çekim gecikmesi yoktur (B doğru). Video özelliği vardır (C doğru). Tak çıkar lenstir (D doğru). Kontrol fotoğrafçıya aittir (E doğru). Dolayısıyla, kompaktlara göre maliyetlerinin daha ucuz olması (A şıkkı) DSLR'ler için doğru değildir; genellikle daha pahalıdırlar.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 82,
+            "original_source": "Dönem Sonu 2021-2022"
         },
         {
             "id": 123,
@@ -2471,8 +2489,10 @@
             "UniteNo": 8,
             "topic": "Hava Fotoğrafçılığı",
             "explanation": "Hava fotoğrafçılığı, havadan perspektifle, yani kuş bakışı perspektifle çekilen fotoğraflardır. Drone'lar, bu tip çekimleri düşük maliyetle, hareketli ve gelişmiş GPS özellikleri ile yapabilen, günümüzde yaygınlaşan ekipmanlardır. (Ünite 8, Hava Fotoğrafçılığı ve Drone Tanımı bölümü)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 15,
+            "original_source": "Ara Sınav 2021-2022"
         },
         {
             "id": 124,
@@ -2552,8 +2572,10 @@
             "UniteNo": 7,
             "topic": "Görüntü Dosyası Yönetimi",
             "explanation": "Çekim Seçeneklerini Ayarlama (Setting Shooting Options) menüsü altında, dosya numaralandırması, dosya yapısı, RAW formatında kaydetme gibi birçok ayar bulunmaktadır. Özellikle \"File and folder structure\" seçeneği, dosya numaraları yerine tarih sıralandırması (veya başka bir sıralama) yapma olanağı sunar. (Ünite 7, Çekim Seçeneklerini Ayarlama (Setting Shooting Options) başlığı altındaki maddeler)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 85,
+            "original_source": "Dönem Sonu 2021-2022"
         },
         {
             "id": 128,
@@ -2572,7 +2594,7 @@
             "UniteNo": 5,
             "topic": "Beyaz Dengesi",
             "explanation": "Beyaz Dengesi (White Balance), ortam ışığının renk ısısını dengelemek için kullanılır (Kelvin cinsinden ölçülür). Ayarlar genellikle Otomatik Beyaz Dengesi (AWB) veya manuel olarak ayarlanır. Histogram ise parlaklık ve renk doygunluğunu gösteren bir grafiktir, beyaz dengesi ayarı değildir. (Ünite 5, Beyaz Dengesi ve Histogram bölümleri)",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -2674,7 +2696,7 @@
             "topic": "Beyaz Dengesi Ayarları",
             "explanation": "Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını makineye/kameraya tanımlama işlemi Beyaz Dengesi (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te, Beyaz Dengesi'nin renk sıcaklığını ayarlayarak renk ısısını düzenlediği belirtilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 134,
@@ -2835,8 +2857,10 @@
             "UniteNo": 1,
             "topic": "Transistörün İcadı",
             "explanation": "Metnin 2. sayfasında, \"Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur.\" şeklinde açıkça belirtilmiştir. Bu unsur, dijital çağın başlangıcını sağlayan ilk icatlardan biridir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 181,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 142,
@@ -2875,8 +2899,10 @@
             "UniteNo": 3,
             "topic": "Hareketli Görüntü Sabitleme",
             "explanation": "Ünite 3'ün \"Video Kameralardaki Dijital Dönüşüm\" bölümünde, sabit lensli el kameralarının titreşim sorununu aşmak için firmaların EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi görüntü sabitleyici sistemler geliştirdiği belirtilmiştir. Ayrıca, \"Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar\" başlığı altında, bu sistemlere ek olarak hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly isimli cihazların kullanıldığı ifade edilmiştir. Bu araçlar, EIS/OIS'in yetersiz kaldığı durumlarda kullanılır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 54,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 144,
@@ -3098,8 +3124,10 @@
             "UniteNo": 5,
             "topic": "Beyaz Dengesi",
             "explanation": "Ünite 5'te Beyaz Dengesi başlığı altında, Beyaz Dengesi kavramının renk ısısı ile ilişkili olduğu ve bu ayarın, ışık kaynaklarına göre renk sıcaklığını tanımlayarak renklerin doğru algılanmasını sağladığı açıklanmaktadır. Bu, hem otomatik (AWB) hem de manuel olarak ayarlanabilen bir fonksiyondur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 133,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 155,
@@ -3240,8 +3268,10 @@
             "UniteNo": 1,
             "topic": "Dijital Çağın Başlatan İcat",
             "explanation": "Soru, dijital çağın başlangıcına olanak tanıyan elektronik alandaki devrimsel bir icadı sormaktadır. Metinde, \"Dijital Çağı Başlatan İlk İcatlar\" başlığı altında, elektronik alanda bir devrim yaratanın transistör olduğu belirtilmiştir. Cümledeki tanım, transistörün işlevini tam olarak karşılamaktadır: \"...transistor 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Amerikalı Bell Laboratuvarları'nda geliştirildi. Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur.\"",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 181,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 162,
@@ -3421,8 +3451,10 @@
             "UniteNo": 5,
             "topic": "Beyaz Dengesi Ayarları",
             "explanation": "Beyaz Dengesi (White Balance), ışığın renk sıcaklığına göre ayarlanmasıdır. Metinde Beyaz Dengesi için AWB (Otomatik Beyaz Dengesi) ve manuel kontrolün bulunduğu belirtilmiştir. Ayrıca, \"Beyaz Dengesi kavramını anlamak için önce renk ısısı kavramını anlamanız gerekir.\" denilmiştir. ISO Hızı ise sensörün ışığa duyarlılığını ayarlayan bir fonksiyondur, beyaz dengesi ayarı ile doğrudan ilgili değildir. Beyaz Dengesi ayarları; AWB, manuel ayar ve filtreler kullanılarak yapılır. ISO hızı ise pozlama üçgeninin bir parçasıdır ama doğrudan Beyaz Dengesi ayarı başlığı altında sayılmaz.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 128,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 171,
@@ -3441,8 +3473,10 @@
             "UniteNo": 5,
             "topic": "Hazır Sahneleme Modları",
             "explanation": "Ünite 5'te belirtildiği üzere, hazır sahneleme modları (Scene Modes) arasında Portre modu, Manzara modu ve Spor/aksiyon modu bulunmaktadır. Bu modlar, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlemesini sağlar. 'Enstantane Önceliği Modu (S veya Tv)' bir pozlama modu iken, verilen diğer üç seçenek hazır sahneleme modlarıdır. Soru, hazır sahneleme modları içinde yer alanları sorduğu için I, II, III ve IV ifadelerin hepsi bu kategoriye girer. Ancak, metinde verilen örnekler: Portre modu, Manzara modu, Spor/aksiyon modu, Gece/düşük ışık modu ve Makro modu şeklindedir. Dolayısıyla, I, II, III ve IV numaralı ifadelerin hepsi hazır sahneleme modları arasındadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 86,
+            "original_source": "Dönem Sonu 2021-2022"
         },
         {
             "id": 172,
@@ -3602,7 +3636,7 @@
             "topic": "Stok Fotoğrafçılığı",
             "explanation": "Ünite 8'de, 'Stok Fotoğrafçılığı' tanımında, 'Stok fotoğrafçılığı, belli paylaşım platformları aracılığı ile belli kullanım amaçları için lisanslanan fotoğrafların satılmasıdır. Stok fotoğrafçılığı sisteminde fotoğrafçı, internet üzerinden fotoğrafların yüklendiği, pazarlayıcı olan bir aracı kurum ve bu fotoğrafları o kurumun sayfasından belli bir ücret karşılığı indirerek satın alacak bir alıcı bulunur' bilgisi verilmektedir. Bu açıklama, stok fotoğrafçılığın tanıtım ve çoğaltım/satış amaçlarını kapsar.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 180,
@@ -3641,7 +3675,7 @@
             "UniteNo": 1,
             "topic": "Transistör İcadı ve Etkisi",
             "explanation": "Transistör, 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Bell Laboratuvarları'nda geliştirilen bir yarı iletken devre unsurudur. Bu icat, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarar ve bilgisayar çağının da önünü açmıştır (Ünite 1).",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -3661,7 +3695,7 @@
             "UniteNo": 1,
             "topic": "Video Kayıt Tarihi",
             "explanation": "1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir (Ünite 1).",
-            "occurrence_count": 2,
+            "occurrence_count": 5,
             "is_duplicate": false
         },
         {
@@ -3681,8 +3715,10 @@
             "UniteNo": 2,
             "topic": "Standart Kompakt Makineler",
             "explanation": "Standart kompakt fotoğraf makineleri, avuç içi boyutlarında ve kullanımı kolaydır (hafif tasarıma sahip olması). Genellikle basit kullanışlı makinelerdir ve otomatik ayarları mevcuttur (I ve II avantajdır). Genellikle küçük sensörlere sahiptirler (IV avantajdır), ancak büyük sensörlere sahip gelişmiş kompaktlara göre görüntü kaliteleri teorik olarak daha düşüktür. Bu makineler genellikle manuel kontrol imkânı sunmazlar veya çok sınırlıdır (III, iyileştirilmiş görüntü kalitesi ve gelişmiş kontrol bağlamında dezavantajdır) (Ünite 2).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 203,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 184,
@@ -3968,8 +4004,10 @@
             "UniteNo": 5,
             "topic": "Beyaz Dengesi",
             "explanation": "Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını kamera/video kamerasına tanımlama işlemi Beyaz Denge (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te Beyaz Dengesi başlığı altında, 'Beyaz dengesi, fotoğraf görüntüleri üzerinde önemli bir etkiye sahiptir. Sıcaklık veya soğukluk dengesi tamamlayıcı renk eklenerek düzeltilebilir' ifadesi yer almaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 133,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 198,
@@ -4008,8 +4046,10 @@
             "UniteNo": 8,
             "topic": "Kopyalama (Reprodüksiyon)",
             "explanation": "Boş bırakılan yer, bir eserin kopyalanarak sayısal forma dönüştürülmesi, tanıtım katalogları, web siteleri, sosyal medya yayınları ve sayısal baskılar için kullanılması tekniğini tanımlamaktadır. Ünite 8'de, Kopyalama (Reprodüksiyon) başlığı altında, 'sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelmektedir' ve bu işlemlerin katalog, web sitesi ve dekorasyon malzemesi olarak kullanıldığı belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 179,
+            "original_source": "Yaz Okulu 2021-2022"
         },
         {
             "id": 200,
@@ -4091,7 +4131,7 @@
             "topic": "Kompakt Makine Avantajları",
             "explanation": "Standart kompakt fotoğraf makinelerinin avantajları Ünite 2'de listelenmiştir: Menü kullanımı rahatlığı (pratik kullanışlılık), hafifliği (avuç içi boyutlarında), küçük sensörlere sahip olması (maliyet düşüklüğü). Görüntü kalitesinin iyileştirilmiş olması (III), diğer gelişmiş makinelere kıyasla bir avantaj olarak belirtilmez; aksine çözünürlükleri yüksek görünse de büyük sensörlerle aynı çözünürlüğe sahip değillerdir. Ancak, I (kolay kullanım), II (hafiflik) ve IV (küçük sensör) kesin avantajlardır. Sorunun doğru kabul edilen şıkkı C (I, II ve III) olduğundan, III'ün de genel bir gelişme veya kullanıcı için yeterli bir kalite sunduğu varsayılmıştır. I, II, ve IV net avantajlardır. I (Kolay kullanım), II (Hafif), IV (Küçük sensör/maliyet avantajı). I, II ve III'ün kabul edilmesi durumunda, III genellikle ana avantaj olarak öne sürülmez ancak I, II ve IV kesin avantajlardır. I, II ve III şıkkı mevcut olduğu için bu şıkkı seçiyoruz. (I, II ve IV en doğru liste olsa da, verilen doğru şık I, II ve III'ü gerektirir).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 204,
@@ -4131,7 +4171,7 @@
             "topic": "Dijital Video Ekipmanları",
             "explanation": "Görüntü estetiği adına özel bir üretim gerçekleştirilmesini sağlayan, dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan mekanizmalara Gimbal adı verilir. Bu cihazlar, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılır. (Ünite 3, Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar başlığı)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 206,
@@ -4291,8 +4331,10 @@
             "UniteNo": 6,
             "topic": "Stüdyo Fon Türleri",
             "explanation": "Mekân/Set Fonlar, fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurların kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanıldığı fon türüdür. Ünite 6'daki Stüdyo Fon Türleri ve İşlevleri bölümünde bu tanım mevcuttur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 109,
+            "original_source": "Dönem Sonu 2022-2023"
         },
         {
             "id": 214,
@@ -4475,8 +4517,10 @@
             "UniteNo": 1,
             "topic": "İkinci Endüstri Devrimi",
             "explanation": "Metinde belirtildiğine göre, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, İkinci Endüstri Devrimi (Endüstri 2.0) dönemindeki gelişmelerdendir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 182,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 223,
@@ -4495,8 +4539,10 @@
             "UniteNo": 2,
             "topic": "Kompakt Fotoğraf Makineleri",
             "explanation": "Standart kompakt fotoğraf makineleri (bas-çek), kolay taşınabilirlik ve kullanım pratikliği sunar (I ve II. avantajlar). Görüntü kalitesinin iyileştirilmiş olması da genel bir avantajdır (III.). Ancak, kompakt makinelerin sensörleri DSLR ve aynasız kameralara göre daha küçüktür, bu nedenle 'Küçük sensörlerinin olması' bir avantaj değil, bir kısıtlamadır (Ünite 2'deki 'Küçük sensörlerle maliyetleri oldukça düşürülmüştür' ifadesi ile karşılaştırılabilir).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 203,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 224,
@@ -4557,8 +4603,10 @@
             "UniteNo": 6,
             "topic": "Stüdyo Donanımları",
             "explanation": "Ünite 6'da, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlar arasında Gimbal, vinç mekanizmaları ve Dolly'den bahsedilmiştir. Vinç mekanizması, kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın hareketli görüntü elde etmesini sağlayan bir cihazdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 205,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 227,

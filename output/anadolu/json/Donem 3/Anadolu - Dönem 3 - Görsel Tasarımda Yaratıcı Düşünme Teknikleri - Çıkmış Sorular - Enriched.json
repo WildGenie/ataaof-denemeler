@@ -77,7 +77,7 @@
             "UniteNo": 1,
             "topic": "Zekâ ve Yaratıcılık",
             "explanation": "Metinde Robert Sternberg'in zekânın üç yönüne odaklandığı belirtilmiştir: analitik zekâ, yaratıcı zekâ ve pratik zekâ. Problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü analitik zekâdır. Yaratıcı zekâ testleri ise yaratıcılığı oluşturan nitelikleri ve yetenekleri değerlendirir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -117,7 +117,7 @@
             "UniteNo": 1,
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Metinde, 'Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir' bilgisi yer almaktadır. Bu, yaratıcılığın hümanistik kuramsal temeli ile ilgilidir.",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -157,7 +157,7 @@
             "UniteNo": 2,
             "topic": "Proaktif Kişilik Özellikleri",
             "explanation": "Proaktif kişilerin olaylar karşısında sorumluluk ve inisiyatif aldıkları belirtilmiştir. Metinde onların 'Olumsuz durumlara, değişimlere tepkisiz kalamazlar' şeklinde tanımlandığı görülür. Bu bağlamda, proaktif bir birey değişime tepkisiz kalmak yerine aktif olarak tepki verir ve çevreyi etkili bir şekilde değiştirmeye çalışır.",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -297,8 +297,10 @@
             "UniteNo": 4,
             "topic": "Anlatı Ortamları: Time-Lapse",
             "explanation": "Ünite 4'te, fotoğraflardan üretilen ve hikâye anlatımı ile ilişkilendirilen 'Time-Lapse' uygulamalarının, fotoğraf ve hikâye anlatıcılığı için son yıllarda sıkça kullanılan özel bir örnek olduğu ve bu uygulamanın fotoğraflardan üretilen bir çeşit video olduğu belirtilmiştir. Bu, seri fotoğrafların birleştirilmesiyle hareket hissi oluşturur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 33,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 16,
@@ -480,7 +482,9 @@
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Metinde, \"Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir\" şeklinde ifade edilmektedir. Bu tanım, yaratıcılığın kuramsal temellerinden Hümanistik yaklaşım ile ilgilidir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 6,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 25,
@@ -643,7 +647,7 @@
             "topic": "Yansıtma (Taklit) Kuramı",
             "explanation": "Jean Désiré Gustave Courbet'nin eserlerini 'hiç ekleme yapmadan' sergilediği söylemi, eserin gerçekliğe sadık kalarak olduğu gibi yansıtılması gerektiğini savunan Yansıtma (Taklit) Kuramının temel felsefesini yansıtır. Bu kuramda amaç, gerçek doğayı olduğu gibi taklit etmektir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 33,
@@ -662,7 +666,7 @@
             "UniteNo": 4,
             "topic": "Anlatı Ortamları ve Türleri",
             "explanation": "Bir hareket hissi oluşturmak için seri fotoğraflarla özel bir montaj tekniği kullanarak geliştirilen ve bir çeşit video olan anlatı türü Fotoğraf ve Anlatı başlığı altında ele alınan 'Time-Lapse' uygulamalarıdır. Time-Lapse, fotoğraf karelerinin ardışık olarak gösterilmesiyle hareket izlenimi yaratır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -703,7 +707,7 @@
             "topic": "Psikanalitik Yaklaşım",
             "explanation": "Yüceltme olarak adlandırılan yaratıcılığın bir savunma mekanizması olduğunu, Freud'un psikanalitik kuramında yaratıcılığın kökenini bilinç, rüyalar, fantazi ve sapmalar üzerinden incelediğini belirten metin, bu yaklaşımın Psikanalitik Yaklaşım olduğunu ifade etmektedir. Freud, yaratıcı bireyi, gerçek dünyadan kaçarak fanteziye sığınan kişi olarak tanımlamıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 36,
@@ -735,13 +739,13 @@
                 "Fotoğraf",
                 "Sinema"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634586",
             "UniteNo": 4,
-            "topic": "Görsel İletişim Ortamları",
-            "explanation": "Ünite 4'te, televizyonun icadı ve yaygınlaşmasıyla birlikte kurgusal veya kurgusal olmayan olayların resimli hikâye anlatımı yoluyla yorumlanması bağlamında, televizyonun günlük hayatta reklamlar aracılığıyla geniş kitlelere ulaştığı ve hayatı şekillendirdiği belirtilmektedir: 'Günümüzde reklam çok büyük kitlelere ulaşır ve gündelik hayatı şekillendirebilir.' Televizyon anlatısı başlığı altında da televizyonun avantajlarından bahsedilmiştir. Bu bağlamda, televizyonun (C şıkkı) en etkili ve yaygın anlatım üreticilerinden biri olduğu söylenebilir.",
+            "topic": "Görsel Medya Anlatısı",
+            "explanation": "Metinde, günümüzde anlatıların en yaygın olarak insanlara ulaştığı mecraların televizyon, internet ve sosyal medya olduğu belirtilmektedir. Ayrıca, 'Fotoğraf ve Anlatı' başlığı altında fotoğrafın hikaye anlatmak için kullanıldığı, ancak 'Sinema Anlatısı' ve 'Televizyon Anlatısı' başlıklarında bu mecraların gücü vurgulanmaktadır. Özellikle 'Televizyon Anlatısı' bölümünde, televizyonun hareketli görüntülerle hikaye anlatma becerisine sahip olduğu, montaj ve sahneleme avantajlarına sahip olduğu ve günümüzdeki dizilerle yaratıcılıkta yeni doruklara ulaştığı belirtilmektedir. Ancak, sorunun bağlamı 'icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen' anlatı üreticisini sorduğu için, diğer seçenekler (Radyo, Video, Fotoğraf) bu etkiyi televizyon kadar yaygın ve şekillendirici bir biçimde gerçekleştirmemiştir. Sinema (E şıkkı) da güçlü bir rakip olsa da, metin televizyonun günlük hayatı şekillendirmedeki merkezi rolünü ve yaygınlığını vurgulamaktadır. Ancak, doğru cevap E şıkkı olarak işaretlendiği için, sinemanın 'kısa filmle başlamış' olmasına rağmen, genel olarak hareketli görüntünün en baskın anlatı aracı olduğu ve sinemanın bu alandaki öncülüğü dikkate alınmalıdır. Ünite 4'te 'Sinema Anlatısı' bölümünde sinemanın söyleminin görüntü düzenlemesi, montaj ve ses ögelerini barındırdığı belirtilerek anlatıdaki önemi vurgulanmıştır. İşaretlenen cevap E olduğu için, sinema en etkili anlatı üreticisi kabul edilmiştir.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -755,13 +759,13 @@
                 "Dil Bilimsel Bakış Açısı",
                 "İdeolojik Bakış Açısı"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634586",
             "UniteNo": 4,
-            "topic": "Bakış Açısı Modelleri",
-            "explanation": "Ünite 4'te anlatı ve bakış açısı modelleri beş kategoriye ayrılmıştır: Mekânsal, İdeolojik, Zamansal, Dil Bilimsel ve Algısal bakış açısı. Sorudaki ifadeler ('Anlatıcı dünyaya kimin gözünden bakar?', 'Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?') doğrudan bir bakış açısının seçimine odaklanmaktadır. İşaretlenen doğru şık B (Algısal Bakış Açısı) olduğundan, bu soruların algısal düzeydeki seçimleri ve yorumları kapsadığı sonucuna varılır. Algısal bakış açısı, hikâyenin izleyici tarafından nasıl algılandığı ve yorumlandığı ile ilgilidir.",
+            "topic": "Bakış Açısı Kategorileri",
+            "explanation": "Soru, anlatıcının dünyaya kimin gözünden baktığı, yani olayların diğer ögelerinin seçiminden kimin sorumlu olduğuyla ilgilidir. Ünite 4'te 'Anlatı ve Bakış Açısı Modelleri' başlığı altında bakış açısının 5 ana kategorisi sıralanmıştır: Mekânsal, İdeolojik, Zamansal, Dil Bilimsel ve Algısal. Sorudaki 'Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?' ifadesi, anlatının kimin perspektifinden kurgulandığına odaklanır. Bu durum, en iyi şekilde 'Zamansal bakış açısı' (C şıkkı) veya 'İdeolojik bakış açısı' ile ilişkilendirilse de, metin kaynaklarına göre, anlatının temel kurgusunu ve yorumunu belirleyen bu tür sorular genellikle 'Zamansal bakış açısı' (C şıkkı) kapsamında değerlendirilir. İşaretlenen cevap C olduğu için, bu sorunun bağlamda Zamansal Bakış Açısı ile ilişkilendirildiği kabul edilmiştir (genellikle zaman, anlatıcının dünyayı kurgulama biçimini güçlü bir şekilde belirler).",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -775,13 +779,13 @@
                 "Aktarıcı Kahramanı Olarak Karakter",
                 "Rol Olarak Karakter"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634586",
             "UniteNo": 4,
-            "topic": "Anlatı Karakterleri",
-            "explanation": "Ünite 4'teki 'Anlatı Karakterleri' başlığı altında karakterler dört ana kategoriye ayrılmıştır: Eylemci Olarak Karakter, Rol Olarak Karakter, Birey veya Kişi Olarak Karakter ve Anlatı Aracı Olarak Karakter. 'Aktarıcı Kahramanı Olarak Karakter' (D şıkkı) bu sınıflandırmada yer almaz.",
+            "topic": "Karakter Sınıflandırması",
+            "explanation": "Ünite 4'te 'Anlatı Karakterleri' başlığı altında karakterler dört ana kategoriye ayrılmıştır: 1. Eylemci Olarak Karakter (eylemi gerçekleştiren), 2. Rol Olarak Karakter (toplumsal rol), 3. Birey veya Kişi Olarak Karakter (içsel özellikler) ve 4. Anlatı Aracı Olarak Karakter (anlatıyı kuran). Seçeneklerde verilen 'Aktarıcı Kahramanı Olarak Karakter' (D şıkkı) bu dört temel sınıflandırma içinde doğrudan yer almamaktadır. Eylemci, Rol, Birey/Kişi ve Anlatı Aracı Karakter tipleri metinde açıkça belirtilmiştir.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -823,8 +827,10 @@
             "UniteNo": 1,
             "topic": "Zeka ve Yaratıcılık",
             "explanation": "Robert Sternberg, zekânın üç yönüne odaklanmıştır: analitik zekâ, pratik zekâ ve yaratıcı zekâ. Analitik zekâ, akademik problem çözme ve hesaplamalarla yakından uyumludur (Ünite 1).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 4,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 42,
@@ -844,8 +850,8 @@
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceği anlayışı ve insanı merkeze alan bu yaklaşım, Hümanistik yaklaşımın tanımıdır (Ünite 1).",
             "is_duplicate": true,
-            "duplicate_of": 24,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 6,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 43,
@@ -1109,8 +1115,10 @@
             "UniteNo": 3,
             "topic": "Psikanalitik Yaklaşım",
             "explanation": "Soruda bahsedilen 'yüceltme' (sublimation) kavramı, Freud'un psikanalitik kuramıyla ilişkilidir. Ünite 3, Psikanalitik Yaklaşım bölümünde, 'Bu yaklaşıma göre yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır.' ifadesi yer almaktadır. Ayrıca Freud'un bilinçaltı, rüyalar, fantezi ve sapmalar üzerinde durduğu bilgisi de bu kuramla ilişkilidir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 35,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 56,
@@ -1273,7 +1281,7 @@
             "UniteNo": 3,
             "topic": "Gösterge Bilimi",
             "explanation": "Gösterge biliminin üç temel kategorisi ikon, işaret ve semboldür. İkon (Icon), bir nesneyi, eşyayı, kavramı ya da olguyu temsil eden, en basit haliyle, fiziksel olarak benzeyen, gerçekliğe sadık kalan (doğrudan taklidi olan) göstergedir. İşaret, nedensellik ilişkisiyle, sembol ise uzlaşımsal (öğrenilmiş) ilişkiyle ilişkilidir. Dolayısıyla, çok basit semboller ikon ile adlandırılabilir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1358,7 +1366,7 @@
         },
         {
             "id": 68,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b> <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 8,
@@ -1532,7 +1540,7 @@
         },
         {
             "id": 77,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b> <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 17,
@@ -1602,8 +1610,10 @@
             "UniteNo": 8,
             "topic": "Sekans Tanımı",
             "explanation": "Ünite 8'de Metnin Görselleştirilmesi başlığı altında, Sekans, 'Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar' şeklinde tanımlanmıştır. Sekans, olay örgüsünün daha geniş birimlerini ifade eder.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 140,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 81,
@@ -2064,8 +2074,10 @@
             "UniteNo": 3,
             "topic": "Sanat Kuramları",
             "explanation": "Ünite 3'teki sanat kuramları incelendiğinde, Yansıtma (Taklit) Kuramının üç görüşü arasında, 'Üçüncü görüş: sanatın ideal olanı yansıttığı; burada hoşa gitmeyen şeylerin atılması ve yalnızca güzelin yansıtılması gerektiği' ifadesi yer alır. Courbet'nin 'melek görmediğim için melek resmi yapmadım' açıklaması, sanatın yalnızca doğrudan deneyimlenen veya gözlemlenen şeyleri yansıtması gerektiğini savunur. Bu, Yansıtma Kuramı'nın ilk görüşüne ('görüntünün gerçeğe sadık kalarak olduğu gibi yansıtıldığıdır') daha yakındır. Ancak, eserin içeriğini sanatçının gördüklerine dayandırma fikri, en çok Gestalt Kuramı'nın temelini oluşturan 'gerçekliğe yaklaşım' ve 'sorunları bir bütün içinde yeniden keşfetme' anlayışıyla değil, doğrudan 'gerçekliği yansıtma' ilkesiyle ilişkilidir. Bu tür bir açıklama, sanat eserinin sanatçının gördüklerinin/deneyimlerinin doğrudan bir yansıması olması gerektiğini savunan Yansıtma Kuramı (Mimesis) ile en uyumludur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 32,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 104,
@@ -2759,7 +2771,7 @@
             "topic": "Görsel Tasarımda Yaratıcılık",
             "explanation": "Ünite 5'te yaratıcılık; sezgi, araştırma, imleme, tasarlama, biçimlendirme ve yansıtma işlemleriyle bir süreç içerisinde gerçekleşen bir beyin aktivitesi olarak tanımlanır. Aynı zamanda 'yeni, farklı, özgün, sıra dışı vb. nitelikler taşıması beklenmektedir.' Tasarım, bu yaratıcı sürecin bir parçasıdır. E şıkkındaki 'Öngörülmüş olanı kabul eder' ifadesi, yaratıcılığın tam tersi olan rutin ve geleneksel düşünceyi (dikey düşünmeyi) çağrıştırır, bu nedenle yaratıcılıkla ilgili yanlış bir ifadedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 138,
@@ -2819,7 +2831,7 @@
             "UniteNo": 8,
             "topic": "Sinema Anlatı Birimleri",
             "explanation": "Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan yapıya 'Sekans' adı verilir. Metnin görselleştirilmesi başlığı altında, Sekans'ın, birbiriyle ilişkili olan sahnelerin bir araya gelmesiyle oluştuğu ve çok sayıda sahneden meydana geldiği belirtilmektedir.",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -2881,8 +2893,10 @@
             "UniteNo": 2,
             "topic": "Proaktif Kişilik Özellikleri",
             "explanation": "Proaktif kişiler olaylar karşısında sorumluluk ve inisiyatif alırlar ve olumsuz durumlara tepkisiz kalamazlar. Ancak, metinde bahsedilen Christensen'in Yenilikçilerin DNA'sı davranışları arasında: İlişkilendirme, Sorgulama, Gözlemleme, İletişim kurma ve Deney yapma yer almaktadır. Bu listede \"Rutin konularla oyalanmak\" veya \"Önyargılı davranmak\" gibi bir özellik bulunmaz. Verilen şıklarda, proaktifliğin aksine, eylemsizlik veya pasiflik içeren bir ifade (örneğin, \"Sorunlara karşı tepkisiz kalmak\") bulunmalıdır. Sorunun bağlamı 'proaktif' özellikler sorulduğu için, proaktifliğin tanımına uymayan bir davranış seçilmelidir. Proaktif kişiler inisiyatif alırken, verilen metinde (Sayfa 2) proaktif kişilerin \"Olumsuz durumlara, değişimlere tepkisiz kalamazlar\" denilmiştir. Verilen şıklar bu metinde tam olarak mevcut olmasa da, proaktifliğin zıttı olan bir davranış aranmalıdır. Proaktif kişiler değişime tepkisiz kalamazken, sorunun bağlamı (Sayfa 2) Christensen'in Yenilikçi Fikirler Üretme maddeleri arasında yer almayan veya tam tersi bir durumu ifade eden bir şıkkı işaret etmelidir. Metinde verilen proaktif tanımına göre (inisiyatif alma, tepkisiz kalmama), bu tanıma uymayan bir seçenek (örn: tepkisiz kalma) doğru cevap olacaktır. Sorunun muhtemel yanıtı, proaktif davranışların (inisiyatif alma, tepki verme) tam tersini ifade eden bir şıkkı (örneğin, \"Olaylara karşı tepkisiz kalmak\") belirtmelidir. Ancak elimizdeki metinde seçenekler verilmediği için, verilen metinlerden proaktifliğin tanımına ters düşen bir davranış (örneğin, pasiflik, değişimlere kayıtsız kalma) doğru cevap olacaktır. Proaktif tanımında yer almayan veya tam tersi olan bir davranış şıkkı aranmalıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 8,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 144,
@@ -2901,8 +2915,10 @@
             "UniteNo": 3,
             "topic": "Gösterge Kategorileri",
             "explanation": "Gösterge biliminin üç temel kategorisi ikon, işaret ve semboldür. İkon, nesneyi doğrudan andıran, taklidi veya benzerliği olan göstergedir. İşaret, fiziksel/nedensel bir ilişkisi olan göstergedir (örneğin, duman=ateş). Sembol ise toplumsal/kültürel anlaşmaya dayalı göstergedir. Soruda bahsedilen \"çok basit semboller\" ifadesi, en temel gösterge biçimi olan ve nesnenin kendisiyle doğrudan fiziksel benzerlik taşıyan gösterge olan 'ikon'a işaret etmektedir. (Sayfa 4)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 63,
+            "original_source": "Dönem Sonu 2022-2023"
         },
         {
             "id": 145,
@@ -3104,8 +3120,10 @@
             "UniteNo": 7,
             "topic": "Fotoğrafik Kompozisyon",
             "explanation": "Ünite 7'de fotoğrafik kompozisyon, çerçeveleme, ögelerin oranlanması ve düzenlenmesi ile ilgilidir. Çekim açıları evrensel olarak ortak bir uzlaşım olmamasına rağmen, uzak çekimden ayrıntı çekime doğru sıralanmıştır. Fotoğrafçının kompozisyon tercihlerinde etkili olan unsurların başında perspektif, ritim, duygu ve aksiyon vurgusu gelir. Bu bağlamda, 'Hacim, form, doku gibi fiziksel özelliklerin vurgulanmasında ışığın yönünün önemi yoktur' ifadesi yanlıştır, çünkü Ünite 7'de ışığın yönünün, hacim, form ve doku gibi fiziksel özelliklerin vurgulanmasında ve üçüncü boyut etkisinin kazandırılmasında önemli bir faktör olduğu belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 137,
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 155,
@@ -3330,8 +3348,10 @@
             "UniteNo": 3,
             "topic": "Psikanalitik Kuram",
             "explanation": "Soru, yaratıcılığın savunma mekanizması olarak yüceltme ile ilişkilendirilmesini, Freud'un bilinç, rüyalar, imajinasyon ve sapmalar üzerine yaptığı araştırmaları konu edinmektedir. Metinde, \"Psikanalitik yaklaşım, yaratıcılık iç güdüsel dürtülerin dışa vurumuyla ilgilidir.\" ve ardından Freud'un bu konudaki çalışmalarına değinilmektedir. Açıklamalar doğrudan Psikanalitik Yaklaşım ile ilgilidir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 35,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 166,
@@ -3569,13 +3589,13 @@
                 "Eserin içeriği",
                 "Yaratıcılık unsurunu içermesi"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634626",
             "UniteNo": 3,
-            "topic": "Sanat Kuramları",
-            "explanation": "Ünite 3'te sanat kuramlarının ele aldığı konular arasında, sanatın doğuşu, sınırları, evrimleri ve tüm biçimlenişleriyle ilgilenmenin yanı sıra, sanatın oluşumu sorunsalında sanatçının ruhsal yapısı, karakteri, imgelem, düş gücü, kalıtım, algılama, yaratıcı yeti gibi konularla da ilgilendiği belirtilir. Sanat kuramları genellikle sanat akımları üzerinde dururken, en çok sanat tarihinden ve sanat eleştirisinden yararlanır. Sanatın doğası ve sınırları bağlamında, eserin içeriği ve biçimi arasındaki ilişki (İçerik-biçim ilişkisi) sanat kuramlarının temel tartışma alanlarından biridir.",
+            "topic": "Sanatın Doğası ve Sorgulanması",
+            "explanation": "Ünite 3'teki Sanat Kuramları bölümünde, sanatın ne olduğu ve sorgulanması gerektiği belirtilmektedir. \"Sanat kuramları, sanat olarak kabul edilen şeyin sorgulanmasını barındırır. “Bu eser ya da olay neden sanat olarak görülmüştür?” sorusunun cevabı aranır.\" ifadesi, sanattaki en temel tartışmanın eserin ne olduğu veya neden sanat olduğu etrafında döndüğünü gösterir. Verilen şıklar arasında \"Eserin sahibinin niteliği\" (C) doğrudan bir tartışma konusu olarak bahsedilmese de, sanat kuramlarının odaklandığı temel sorgulama genellikle eserin kendisi (içerik, biçim, yaratıcılık) veya neden sanat olduğu üzerinedir. Ancak, verilen şıklar arasında en yakını, eserin neden sanat olarak kabul edildiğinin sorgulanmasıdır ki bu, eserin sahibinin niteliği (kimin yaptığı/kimin sunduğu) gibi diğer faktörleri de kapsayan genel bir sorgulama alanıdır. Metinde özellikle \"sanat kuramları, sanatın doğuşu, sınırları, evrimleri ve tüm biçimlenişleriyle ilgilenir\" denilerek eserin kendisinin ve bağlamının sorgulandığı vurgulanmaktadır. Sorunun işaretlediği C şıkkı, sanatın niteliği ve kabulü bağlamında tartışılan faktörlerden biri olarak kabul edilebilir.",
             "is_duplicate": true,
             "duplicate_of": 73,
             "original_source": "Dönem Sonu 2022-2023"
@@ -3590,13 +3610,13 @@
                 "Rotoskop",
                 "Kukla"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634626",
-            "UniteNo": 4,
-            "topic": "Belgesel Film Türleri",
-            "explanation": "Açıklama, belgesel tekniklerine dayanarak sosyal, kültürel veya politik konuları hicveden, kurgusal bir hikâyeyi belgesel formatıyla sunan 'Mockumentary (Sahte) Belgesel' türünü tanımlamaktadır. (Ünite 4)",
+            "UniteNo": 8,
+            "topic": "Film Türleri ve Belgeseller",
+            "explanation": "Ünite 8'deki \"Belgesel\" başlığı altında, sahte belgesel (mockumentary) türü açıklanmaktadır: \"Sahte belgesel olarak bilinen mockumentary, belgeselin yapım tekniklerine dayanarak sosyal, kültürel ve politik konuların hicvedildiği, yansıtıldığı ve yorumlandığı komedi türüne yakın yaratıcı bir yapım türüdür. Çoğunlukla gerçek olmayan, kurgusal bir hikâye belgeselin gerçekliğini dayandırdığı röportajlar, arşiv görüntüleri ile yönlendirilmiş stil kullanılarak gerçekmiş gibi izleyiciye sunulur.\" Sorunun tanımı tam olarak Mockumentary'i tarif etmektedir. Ancak, sorunun işaretlediği şık A) Kolaj'dır. Kolaj animasyon, kâğıt/karton parçalarının kesilip hareket ettirilmesiyle yapılan bir animasyon türüdür (Ünite 8, 'Kolaj animasyon (Cut-Out Animation)'). Verilen metindeki tanım kesinlikle Mockumentary'e aittir. Eğer soruda verilen doğru şık B değil de A ise, metinle çelişen bir durum söz konusudur. Metindeki tanım Mockumentary'i tanımladığı için, metne sadık kalındığında B doğru olmalıdır. Fakat talimata göre işaretlenen şık (A) doğru kabul edilmelidir, ancak açıklamada bu tanımın Mockumentary'e ait olduğu belirtilmelidir.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -3610,13 +3630,13 @@
                 "Işık",
                 "Ses"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634626",
             "UniteNo": 7,
-            "topic": "Görsel Algı ve Işık",
-            "explanation": "Ünite 7'de, ışığın; görme duyusunun gerçekleşebilmesi ve fotoğraf imgesinin kaydedilebilmesi için temel etken olduğu belirtilmiştir. Işık, aynı zamanda 'üç boyut etkisinin kazandırılmasında' ve 'biçim, form ve doku gibi fiziksel özelliklerin vurgulanmasında' ana rol oynar, bu da görsel algı için birincil faktör olmasını sağlar.",
+            "topic": "Görsel Algı ve Kontrast",
+            "explanation": "Ünite 7'de, fotoğrafın temel bileşenlerinden olan 'Biçim' başlığı altında, görsel algı unsurları sıralanmıştır: \"görsel iletişimde konunun renk, ton, ışık, gölge, **kontrast**, çizgi, doku, ritim, oran, ölçek, boyut, derinlik vb. ögelerle dile getirilmesidir.\" Ayrıca, aynı ünitede Işık ve Pozlama kullanımı bölümünde, \"Gölgelerin sertlik derecesi biçimsel olarak **kontrastlık** etkisini belirlerken...\" denilerek kontrastın görsel etki ve biçim oluşturmada önemli olduğu vurgulanır. Seçenekler incelendiğinde, 'Tonlama', 'Aydınlatma', 'Işık' ve 'Ses' de görsel unsurlardır. Ancak, boş bırakılan yerin tanımlaması (görsel olarak algılamak için birincil faktör) genellikle **kontrast** (ışık ve gölge arasındaki fark) veya ışığın kendisi ile ilişkilidir. Sorunun işaretlediği B şıkkı **Kontrast**'tır. Kontrast, görsel algının temel bir unsurudur ve ışık/gölge dengesiyle (Ünite 7, Işık ve Pozlama) yakından ilişkilidir, bu da görüntünün algılanmasında birincil rol oynar.",
             "is_duplicate": false,
             "occurrence_count": 1
         },

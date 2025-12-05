@@ -550,7 +550,7 @@
                 "Fotoğraf",
                 "Sinema"
             ],
-            "correctIndex": 2,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634586"
@@ -565,7 +565,7 @@
                 "Dil Bilimsel Bakış Açısı",
                 "İdeolojik Bakış Açısı"
             ],
-            "correctIndex": 1,
+            "correctIndex": 2,
             "exam_question_number": 18,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634586"
@@ -580,7 +580,7 @@
                 "Aktarıcı Kahramanı Olarak Karakter",
                 "Rol Olarak Karakter"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Ara Sınav 2023-2024",
             "material_id": "634586"
@@ -1008,7 +1008,7 @@
         },
         {
             "id": 68,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b> <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 8,
@@ -1137,7 +1137,7 @@
         },
         {
             "id": 77,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b> <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 17,
@@ -2639,7 +2639,7 @@
                 "Eserin içeriği",
                 "Yaratıcılık unsurunu içermesi"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634626"
@@ -2654,7 +2654,7 @@
                 "Rotoskop",
                 "Kukla"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634626"
@@ -2669,7 +2669,7 @@
                 "Işık",
                 "Ses"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "634626"

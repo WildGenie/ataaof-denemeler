@@ -60,16 +60,6 @@
     > **Açıklama:** Metinde "Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve tüketici sadakati oluşturur." ifadesi geçmektedir. Bu nedenle boşluğu dolduran doğru unsur 'tüketici sadakati'dir.
 
     <hr />
-1. Diğer kurumlardan farklılaşma/ayırt edilebilme<br />II. Uluslararası alanda bilinirlik sağlanması<br />III. Pazar payına sahip olma ve tanınırlığını sağlama<br />IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br />Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır?
-    - A-) I ve II
-    - B-) I ve III
-    - C-) I, II ve III
-    - D-) II, III ve IV
-    - **Cevap E-) I, II, III ve IV**
-
-    > **Açıklama:** Metinde, güçlü kurumsal kimliğin faydaları arasında; farklılaşma/ayırt edilebilme (I), uluslararası alanda tanınabilirlik (II), pazar payı ve tanınırlık kazanma (III) olduğu belirtilmiştir. Metin, toplumsal sorumluluk projelerinin de kurum kimliğinin bir parçası olduğunu ima eder ve genel hedefler arasında yer alır (Ünite 1, Kurumsal Kimlik başlığı altında itibar ve rekabet avantajı vurgulanır; Ünite 2'de ise sosyal sorumluluk listelenir). Bu nedenle tüm seçenekler (I, II, III ve IV) doğru hedefler arasında yer alır.
-
-    <hr />
 
 ### Kurumsal Kimlik Tanımı
 
@@ -238,19 +228,6 @@
 
     <hr />
 
-### Görsel Kimlik Kavramları
-
-1. Bir kavramı, fikri veya nesneyi ileten göstergedir. Nesnelerin fiziksel anlamda tanınabilen temsilidir. Yukarıdaki kavram tanımlanan aşağıdakilerden hangisidir?
-    - A-) Kimlik
-    - B-) Algı
-    - C-) Tasarım
-    - D-) Marka
-    - **Cevap E-) Sembol**
-
-    > **Açıklama:** Metinde (Sayfa 2, Sol Sütun, Kurumsal Kimlikte Sembol başlığı altında) Sembol tanımı şu şekilde verilmiştir: 'Sembollerde, işaret eden ile edilen şey arasındaki ilişki nedensizdir. Anlam, öğrenilmiş veya üzerinde uzlaşılmış çağrışımlar yoluyla gerçekleştirilir. Bu duruma örnek olarak güvercin imgesinin barışın sembolü olarak bilinmesini gösterebiliriz. Sözlü veya yazılı kelimeler de semboldür. Sembol; bir kavramı, fikri veya nesneyi ileten göstergedir. Semboller, nesnelerin fiziksel anlamda tanınabilen temsilidir.'
-
-    <hr />
-
 ### Görsel Kimlik Ögeleri
 
 1. Aşağıdakilerden hangisi Marka kimliğini oluşturan ögelerden biri değildir? *(3 kez soruldu)*
@@ -367,7 +344,7 @@
 
 ### Piktogram Tanımı
 
-1. "Yazısız resim" anlamına gelen ve günlük hayatımızda oldukça sık karşılaştığımız bu göstergeler ......., farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır. Yukarıdaki cümlede boş bırakıln yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. "Yazısız resim" anlamına gelen ve günlük hayatımızda oldukça sık karşılaştığımız bu göstergeler ......., farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır. Yukarıdaki cümlede boş bırakıln yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) logolar
     - B-) ablemler
     - C-) resimler
@@ -377,20 +354,10 @@
     > **Açıklama:** Metinde Kurumsal Kimlikte İşaretler ve Piktogramlar başlığı altında: 'Latince “pictus” ve “gram” sözcüklerinden üretilmiş olup, “yazısız resim” anlamına gelen Piktogramlar; amaçlanan iletişimi gerçekleştirebilmek için yazıya ihtiyaç duymaz.' ifadesi yer almaktadır.
 
     <hr />
-1. "Yazısız resim" anlamına gelen ve günlük hayatımızda oldukça sık karşılaştığımız bu göstergeler -----, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) logolar
-    - B-) amblemler
-    - **Cevap C-) piktogramlar**
-    - D-) kodlar
-    - E-) resimler
-
-    > **Açıklama:** Ünite 3'te Kurumsal Kimlikte İşaretler ve Piktogramlar başlığı altında, Piktogramların Latince 'pictus' ve 'gram' sözcüklerinden üretildiği ve 'yazısız resim' anlamına geldiği belirtilmiştir. Ayrıca, bu göstergelerin 'farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır' bilgisi yer almaktadır.
-
-    <hr />
 
 ### Sembol Tanımı
 
-1. Bir kavramı, fikri veya nesneyi ileten göstergedir. Nesnelerin fiziksel anlamda tanınabilen temsilidir. Yukarıdaki tanımlanan kavram aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. Bir kavramı, fikri veya nesneyi ileten göstergedir. Nesnelerin fiziksel anlamda tanınabilen temsilidir. Yukarıdaki tanımlanan kavram aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Tasarım
     - **Cevap B-) Sembol**
     - C-) Algı
@@ -439,7 +406,7 @@
     > **Açıklama:** Tanım, Kurumsal Kimliğinde Tekli Kimlik başlığı altında verilmiştir: 'Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir.'
 
     <hr />
-1. Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şeklidir. Yukarıdaki kavramı tanımlanan aşağıdakilerden hangisidir?
+1. Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şeklidir. Yukarıdaki kavramı tanımlanan aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Piktogram
     - B-) Marka Kimliği
     - C-) Desteklenmiş Kimlik
@@ -447,16 +414,6 @@
     - E-) Logo
 
     > **Açıklama:** Metinde 'Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir.' ifadesi geçmektedir.
-
-    <hr />
-1. Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şeklidir. Yukarıdaki tanımlanan kavram aşağıdakilerden hangisidir?
-    - A-) Logo
-    - **Cevap B-) Tekli Kimlik (Monolitik)**
-    - C-) Marka Kimliği
-    - D-) Desteklenmiş Kimlik
-    - E-) Piktogram
-
-    > **Açıklama:** Metinde Kurum Kimliğinde Tekli Kimlik başlığı altında: 'Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir.' ifadesi yer almaktadır.
 
     <hr />
 
@@ -594,7 +551,7 @@
 
 ### İlkörnek Amacı
 
-1. Aşağıdakilerden hangisi kurumsal kimlik tasarımında ilkörneklerin (prototiplerin) öncelikli amacıdır?
+1. Aşağıdakilerden hangisi kurumsal kimlik tasarımında ilkörneklerin (prototiplerin) öncelikli amacıdır? *(2 kez soruldu)*
     - **Cevap A-) Tasarımın belirli yönlerini kullanıcılar ile test etmek**
     - B-) Tasarımın sadece estetik yönlerini gizlemek
     - C-) Tasarım ekibinin çalışma planını yapmak
@@ -602,19 +559,6 @@
     - E-) Tasarımın tamamını mükemmel bir şekilde temsil etmek
 
     > **Açıklama:** Ünite 4'e göre, ilkörnek (prototip) oluşturma aşamasında, 'tanımlama aşamasında hedeflenen amaçları ve hedefleri karşılama konusunda potansiyeli olan çözümler bu aşamada öne çıkarılır.' Ayrıca ilkörnekler, 'tasarımın farklı yönlerini gerçekçi bir şekilde yansıtarak, tasarım ekibine ve hedef kitleye kurum ve marka vizyonun somut bir görselini sunmalıdır.'
-
-    <hr />
-
-### İlkörnek Oluşturma Amacı
-
-1. Aşağıdakilerden hangisi kurumsal kimlik tasarımında ilk örneklerin (prototiplerin) öncelikli amacıdır?
-    - A-) Tasarımın tamamını mükemmel bir şekilde temsil etmek
-    - B-) Tasarımın sadece estetik yönlerini gizlemek
-    - C-) Tasarım sürecini yapılandırmak
-    - **Cevap D-) Tasarımın belirli yönlerini kullanıcılar ile test etmek**
-    - E-) Tasarım ekibinin çalışma planını yapmak
-
-    > **Açıklama:** Ünite 4'te İlkörnek Oluşturma Aşaması başlığı altında, ilkörneklerin (prototiplerin) 'tasarımın farklı yönlerini ve ögelerini temsil ederek belli nitelikleri taşıması' ve 'tasarım ekibine ve hedef kitleye kurum ve marka vizyonun somut bir görselini sunması' amaçlandığı belirtilmiştir. Bu, potansiyel çözümlerin hedefleri karşılama potansiyelini göstermeye yöneliktir.
 
     <hr />
 
@@ -648,7 +592,7 @@
 
 ### Logo Tasarımı Kriterleri
 
-1. Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerden biridir?
+1. Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerden biridir? *(2 kez soruldu)*
     - A-) Trendlere uyumluluk
     - B-) Görsel çeşitlilik
     - C-) Değişkenlik ve karmaşıklık
@@ -857,7 +801,7 @@
 
 ### Kurumsal Kimlik Avantajları
 
-1. I. Diğer kurumlardan farklılaşma/ayırt edilebilme<br />II. Uluslararası alanda bilinirlik sağlanması<br />III. Pazar payına sahip olma ve tanınırlığını sağlama<br />IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br />Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır?
+1. I. Diğer kurumlardan farklılaşma/ayırt edilebilme<br />II. Uluslararası alanda bilinirlik sağlanması<br />III. Pazar payına sahip olma ve tanınırlığını sağlama<br />IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br />Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır? *(2 kez soruldu)*
     - A-) I ve II
     - B-) I ve III
     - C-) I, II ve III
@@ -935,19 +879,6 @@
 
     <hr />
 
-### Logo Tasarım Özellikleri
-
-1. Aşağıdakilerden hangisi logo tasarımında dikkat edilmesi gereken özelliklerden biridir?
-    - **Cevap A-) Özgünlük, basitlik, üretilebilirlik**
-    - B-) Trendlere uyumluluk
-    - C-) Görsel çeşitlilik
-    - D-) Değişkenlik ve karmaşıklık
-    - E-) Karşıt renk seçimleri
-
-    > **Açıklama:** Ünite 8'de Logo Kullanım Şekilleri başlığı altında, logo tasarımında dikkat edilmesi gereken unsurlar listelenmiştir: Marka kimliğini yansıtma, basitlik, çeşitli boyutlarda etkili olma, renk seçimi, zaman dayanıklılığı, üretilebilirlik, kullanılabilirlik ve özgünlük. 'Kullanıcı geri bildirimlerine göre revize etme' ise tasarım sürecinin daha sonraki aşamalarında (Test/Geri Bildirim) gerçekleşen bir faaliyettir, logonun tasarlanma anındaki temel özelliği değildir.
-
-    <hr />
-
 ### Marka İsmi Belirleme
 
 1. Aşağıdakilerden hangisi marka ismi belirlenirken dikkat edilmesi gereken hususlardan biridir?
@@ -1002,7 +933,7 @@
 
 ### Tipografi Seçim Kriterleri
 
-1. Aşağıdakilerden hangisi kurumsal kimlik tasarımı yaparken font seçiminde, dikkat edilmesi gereken faktörlerden değildir?
+1. Aşağıdakilerden hangisi kurumsal kimlik tasarımı yaparken font seçiminde, dikkat edilmesi gereken faktörlerden değildir? *(2 kez soruldu)*
     - A-) En çok kullanılan fontları seçilmesi
     - B-) Hedef kitlenin tercih sorgulanması
     - C-) Moda olan fontlar seçilmesi
@@ -1010,19 +941,6 @@
     - E-) Karmaşık ve stile fontlar kullanılmalı
 
     > **Açıklama:** Metinde tipografi seçimi için 'markanın kişiliği ve değerleri', 'hedef kitle', 'yazı karakteri', 'stil', 'renk' gibi faktörlerin önemli olduğu belirtilmiştir. 'En çok kullanılan fontları seçilmesi', 'Moda olan fontlar seçilmesi' ve 'Karmaşık ve stile fontlar kullanılmalı' gibi ifadeler, tutarlılık ve amaca uygunluk yerine yüzeysel kriterlere odaklandığı için yanlıştır.
-
-    <hr />
-
-### Tipografi Seçimi Faktörleri
-
-1. Aşağıdakilerden hangisi kurumsal kimlik tasarımı yaparken font seçiminde dikkat edilmesi gereken faktörlerden biridir?
-    - A-) En çok kullanılan fontları seçilmesi
-    - B-) Hedef kitlenin tercihleri sorgulanmalı
-    - C-) Moda olan fontlar seçilmesi
-    - **Cevap D-) Markanın kişiliği ve değerleri anlaşılmalı**
-    - E-) Karmaşık ve stilize fontlar kullanılmalı
-
-    > **Açıklama:** Ünite 8'de Tipografi Seçimi başlığı altında, tipografik farklılıkların 'okunaklılığı ve hedef kitlede oluşan duyguları değiştirebileceği' belirtilmiştir. Bu nedenle, 'Hedef kitleye ve sektöre uygun tipografi seçmek ve uygulamak' çok önemlidir. Ayrıca, fontların farklı dil desteklerinin olması gerektiği ve kurumsal kimliğin genel estetiğine uyması gerektiği de vurgulanmıştır. Bu nedenle hedef kitleye uygunluk, okunaklılık ve dil desteği temel faktörlerdir.
 
     <hr />
 

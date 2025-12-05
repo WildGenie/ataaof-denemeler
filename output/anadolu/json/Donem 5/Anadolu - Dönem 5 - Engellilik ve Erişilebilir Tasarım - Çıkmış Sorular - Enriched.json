@@ -17,8 +17,10 @@
             "UniteNo": 5,
             "topic": "Engellilerin İstihdamı",
             "explanation": "Ünite 5'in özetinde, engellilerin istihdamı ile ilgili olarak Madde 572'nin tamamen iş gücüne katılımı ve istihdamı artırmayı hedeflediği belirtilmektedir. İstihdam hizmetleri (işe yerleştirme, yönlendirme, eğitim vb.) bu hedeflerin parçasıdır. Ancak, A şıkkı olan \"İşe girecek bireyleri tespit etme\" doğrudan iş hizmeti başlığı altında sayılan istihdamın temel adımlarından biri olarak belirtilmemiştir (Örneğin, 11. Kalkınma Planı'nda sosyal hizmetlerin çeşitlendirilmesi, eğitime katılım ve iş gücü piyasasına katılım politikalarının sürdürüleceği belirtilirken, bu şıklar doğrudan bir hizmet başlığı olarak listelenmemiştir). Diğer şıklar (mesleki yönlendirme, işe yerleştirme, eğitim vb.) genellikle istihdam sürecinin parçalarıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 21,
+            "original_source": "Ara Sınav 2024-2025"
         },
         {
             "id": 2,
@@ -58,7 +60,7 @@
             "topic": "Sosyal Destek Hizmetleri",
             "explanation": "Ünite 6'da AÇYE bireylere yönelik ekonomik ve sosyo-kültürel destekler listelenmiştir. Bu destekler arasında: 1. Engelli aylığı (Var), 2. Gelir vergisi indirimi (Var), 3. ÖTV istisnası (Var), 4. Konut vergisi muafiyeti (Var), 5. TOKİ konut kontenjanı (Var), 6. Eğitim/meslek araçları KDV muafiyeti (Var), 7. Toplu taşıma ücretsizliği (Var), 8. Uçuş indirimi (Var), 9. Müze/park ücretsizliği (Var). Sorudaki seçenekler: I. Engelli aylığı (ASHB tarafından verilir). II. Muhtaç aylığı (Metinlerde doğrudan belirtilmemiştir; genellikle sosyal yardımların bir çeşididir ancak ASHB listesinde I olarak sayılan \"Engelli aylığı\" daha spesifiktir. Muhtaç aylığı listeye girmeyebilir). III. Spor eğitimi desteği (ASHB listesinde doğrudan yok, eğitim veya sosyal hizmetler kapsamında olabilir). IV. Evde bakım desteği (Sosyal/bakım hizmetleri kapsamında yer alır, genellikle ASHB tarafından sağlanır/organize edilir). Ünite 6'da listelenen kesin destekler: Engelli aylığı (I), Gelir vergisi indirimi, ÖTV istisnası, Konut vergisi muafiyeti, TOKİ, KDV muafiyeti, Toplu taşıma, Uçuş indirimi, Müze/park ücretsizliği. \"Evde bakım desteği\" (IV) genellikle sosyal hizmetlerin bir parçasıdır ve ASHB'nin sorumluluğundadır. \"Muhtaç aylığı\" (II) ve \"Spor eğitimi desteği\" (III) listelenen ana maddeler arasında spesifik olarak yer almamaktadır. Ancak, soruda \"ASHB Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından verilir?\" diye sorulmaktadır. I (Engelli aylığı) ve IV (Evde bakım desteği) kesinlikle bu kapsamdadır. II ve III'ün listede olmaması gerekir. Bu nedenle I ve IV doğru cevap olmalıdır. Liste bağlamında I ve IV'ün işaretlenmesi beklenir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 4,
@@ -77,7 +79,7 @@
             "UniteNo": 7,
             "topic": "Evrensel Tasarım İlkeleri",
             "explanation": "Ünite 7'de, görme yetersizliği olan bireyler için tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmesi örneği (yönlendirme ve algıyı destekleme) verilmiştir. Bu, özellikle görme yetersizliği olan bireylerin çevrelerini anlamalarına yardımcı olur. Evrensel Tasarım İlkeleri şunlardır (Ünite 3'te de geçmektedir, Ünite 7'de de atıf yapılır): 1. Eşitlikçi Kullanım, 2. Kullanımda Esneklik, 3. Basit ve Sezgisel Kullanım, 4. Algılanabilir Bilgi, 5. Hata Toleransı, 6. Düşük Fiziksel Efor, 7. Yaklaşım ve Kullanım için Boyut, Yer ve Alan. Görsel yönlendirme ve algıyı destekleme, doğrudan \"Algılanabilir Bilgi\" ilkesiyle ilişkilidir. Bu ilke, gerekli bilgiyi etkili bir şekilde iletmeyi amaçlar (Ünite 3/4/7). Kırmızı renk kullanımı, renk algısının bir parçasıdır, ancak düzenlemenin temel amacı bilginin algılanabilirliğini artırmaktır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -118,7 +120,7 @@
             "topic": "Kullanımda Esneklik",
             "explanation": "Ünite 4'te Evrensel Tasarım İlkeleri sıralanmış ve her biri açıklanmıştır. Kullanımda esneklik ilkesi, ürün ve ortam tasarımlarının geniş kişisel tercih ve yetenek yelpazesine hitap etmesini, kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını kolaylaştırmasını ifade eder. I. Kullanımda seçenekler sunar (Doğru). II. Sağ ve sol elin kullanımını dikkate alır (Bu, genellikle esneklik kapsamında değerlendirilir, ancak Ünite 5'te \"Kullanımda Esneklik\" tanımında \"kullanım metodu ile ilgili seçenekler sunarak\" denilmektedir. III. Kullanım hızına uyumluluk sağlar (Doğrudan bu şekilde geçmez, ancak esneklik genel olarak farklılaşmış kullanım biçimlerine uyum sağlamaktır). Ünite 4'te Kullanımda Esneklik ilkesi, \"kullanım metodu ile ilgili seçenekler sunarak kullanıcıların hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır\" şeklinde tanımlanmıştır. Bu, I numaralı ifadeyi destekler. II numaralı ifade, özellikle Ünite 5'te \"Kullanımda Esneklik\" başlığı altında, \"mekânsal çözümlerde kullanıcı tercihine göre sunulan alternatifler\" ve ergonomik yapılarla rahatlık sağlama bağlamında esneklik kapsamına girer. Ünite 4'teki tanıma göre I kesinlikle doğrudur. II ve III daha genel ifadelerdir ancak esneklik, çoklu modaliteyi (sağ/sol el) ve hızı da kapsar. Ünite 4'te (s.4) Kullanımda Esneklik başlığı altında, \"mekânsal çözümlerde kullanıcı tercihine göre sunulan alternatifler ile her gün kullandığımız bilgisayar klavyelerindeki tuşların ergonomik yapısı kullanımı rahatlatmaktadır\" denir. Kullanım hızı genellikle diğer ilkelerle (örneğin Düşük Fiziksel Çaba) ilişkilidir. Ancak, \"Kullanımda Esneklik\" ilkesi, bir işi yapmanın birden fazla yolunu sunar (el, hız vb.). Sorunun bağlamı Ünite 4'teki genel tanımlamaları içeriyorsa, I ve II esnekliğin temel göstergeleridir. II, örneğin, bir görevi hem sağ hem de sol elle yapabilme seçeneği sunulması anlamına gelir. Bu ilke genellikle çoklu girdi/çıktı yollarını ve kullanım varyasyonlarını kapsar. I ve II bu ilkeyle güçlü bir şekilde ilişkilidir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 7,
@@ -416,7 +418,7 @@
             "UniteNo": 5,
             "topic": "Engellilerin İstihdamı",
             "explanation": "Ünite 5 özetinde engellilerin istihdamına yönelik hizmetler ve destekler ele alınmaktadır. İstihdam, iş gücü piyasasına katılımı içerir ve bu kapsamda mesleki yönlendirme, işe yerleştirme ve iş arama becerileri eğitimi önemlidir. A şıkkı olan \"İşe girecek bireyleri tespit etme\" doğrudan bir iş koçluğu hizmeti olarak belirtilmemiştir; tespit etme süreci daha çok genel bir değerlendirme veya yönlendirme aşamasıdır. Diğer şıklar (yönlendirme, işe yerleştirme, aktif iş gücü programlarına yönlendirme) istihdam hizmetlerinin parçalarıdır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -579,8 +581,10 @@
             "UniteNo": 7,
             "topic": "Evrensel Tasarım İlkeleri",
             "explanation": "Ünite 7'de (Sayfa 4), görme yetersizliği olanlar için tuvaletlere ilişkin düzenlemeler anlatılırken, görsel tasarım uygulamaları arasında Braille ve dokunsal/görsel işaretlerin kullanılması gerektiği belirtilir. Özellikle 'görsel tasarım uygulamaları' bölümünde, görme engelliler için Braille eklenmesi gerektiği vurgulanır. Sorudaki uygulama (büyük ve kırmızı renkli yönlendirici görseller) görme duyusuna hitap ederken, görme engelliler için Braille ve dokunsal işaretlerin kullanılması gerekliliği de Evrensel Tasarım İlkeleri kapsamında ele alınmıştır (Ünite 7'de bu ilkelerin görme engelliler için uygulamaları tartışılmaktadır). Ancak, en doğrudan ilişkili ilke, görsel bilginin farklı şekillerde sunulmasını sağlayan 'Algılanabilir Bilgi' ilkesidir. Çünkü kırmızı renkli görsel yönlendirme, görme yetersizliği olan bireyler için (eğer az görenlerse) veya görme engelliler için (görsel algılarını desteklemek amacıyla) sunulan bir bilgidir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 4,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 30,
@@ -843,7 +847,7 @@
             "UniteNo": 2,
             "topic": "Erişilebilirlik Tanımı",
             "explanation": "Erişilebilirlik, binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -863,8 +867,10 @@
             "UniteNo": 5,
             "topic": "Evrensel Tasarımın Etkisi",
             "explanation": "Bireyin çevresiyle olan etkileşimleri, kullandığı ürünler ve hizmetler yoluyla duygu ve davranışlarında değişimlere yol açar. Evrensel tasarımın amacı, bu etkileşimleri herkes için pozitif kılmaktır. Ünite 5'te, gelişimsel yetersizliği olan bireylerle ilgili olarak, tasarımın duyular, davranışlar ve öğrenme üzerindeki etkisinden bahsedilmektedir. Ancak sorunun belirttiği gibi, bu etkileşimlerin toplamına verilen genel bir isim, evrensel tasarım ilkeleri bağlamında genel olarak \"kullanılabilirlik\" veya \"erişilebilirlik\" ile ilişkilidir. Ancak, verilen seçenekler bağlamında, bu etkileşimlerin sonucunda ortaya çıkan duygusal ve davranışsal tepkiler, tasarımın kullanıcı üzerindeki genel etkisini yansıtır. Ünite 3'te \"Görsel İletişim Tasarım Sürecinin Aşamaları\" bölümünde \"insan merkezli olma\"nın öneminden bahsedilirken, Ünite 5'te gelişimsel yetersizlik bağlamında çevresel etkileşimler vurgulanmıştır. Sorunun içeriği en iyi Evrensel Tasarımın genel amacını yansıtmaktadır; ancak spesifik bir terim isteniyorsa, bu etkileşimlerin sonucunda ortaya çıkan davranışsal ve duygusal sonuçlar, tasarımın kullanıcı üzerindeki genel etkisidir. Sorunun formatı, evrensel tasarımın genel hedeflerinden birini (tüm bireylerin kullanımını ve dolayısıyla psikososyal etkilerini) ima etmektedir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 85,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 44,
@@ -963,7 +969,7 @@
             "UniteNo": 5,
             "topic": "Robot Teknolojileri",
             "explanation": "Ünite 5'te robot teknolojileri gelişimsel yetersizliği olan bireyler için umut vaat eden uygulamalar olarak geçer. Hearingbot örneği, işitme kayıplı bireylere yardım etmek için tasarlanmış bir robot konseptidir. Robot teknolojileri genellikle insan/insansı özellikler kazandırmaz; daha çok işlevsel destek sağlarlar. Ayrıca, robot teknolojilerinin otizmli bireylerde etkililiği sınırlı olduğuna dair genel bir bilgi metinlerde yer almamaktadır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1004,7 +1010,7 @@
             "topic": "Sağlık Hizmetleri ve ESİM",
             "explanation": "Ünite 6'ya göre, işitme kayıplı bireylerin acil durumlarda hızlı ve etkili sağlık hizmetlerine ulaşabilmelerini sağlamak amacıyla Sağlık Bakanlığı tarafından Engelsiz Sağlık İletişim Merkezi (ESİM) hizmet vermektedir (I. doğru). II ve III numaralı ifadeler metinde yer almamaktadır; ESİM tüm acil durumlar için değil, işitmeye özel iletişim desteği sağlamak amacıyla kurulmuştur ve TİD tercümanları 112'de görevlendirilmiş olabilir, ancak bu metinde belirtilen bir bilgi değildir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 51,
@@ -1084,7 +1090,7 @@
             "topic": "Görme Yetersizliği Etkileri",
             "explanation": "Ünite 7'de, görsel uyaran yokluğunun gelişim alanları üzerindeki etkileri anlatılmaktadır. Hareketsiz yaşamın stereotipik (tekrarlayıcı) davranışlara yol açabileceği (II doğru), bilişsel gelişimde gecikmelerin yaşanabileceği ve sosyal becerilerde sınırlılıklar görülebileceği belirtilmiştir. Psikomotor gelişim yavaşlar (I doğru). III. ifade olan 'Omurga geriye doğru güçlenir' ifadesi metinde geçmemektedir ve gelişimsel etkilerle ilgili standart bir durum değildir (tersine, hareketsizlik postüral sorunlara yol açabilir).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 55,
@@ -1588,8 +1594,8 @@
             "source": "Dönem Sonu 2024-2025",
             "material_id": "634928",
             "UniteNo": 8,
-            "topic": "AÇYE Ulaşım Erişimi",
-            "explanation": "Ünite 8'de, ağır ve çoklu yetersizliği olan (AÇYE) bireylerin ulaşım zorluklarından bahsedilirken, tekerlekli sandalye kullanan AÇYE bireylerin okul servis aracı veya otobüs gibi toplu taşıma araçlarına bağımsız olarak erişimi için düzenlemeler gerektiği belirtilmiştir. **Tekerlekli sandalye binişli otobüs** (veya servis aracı), seyahat becerilerinin desteklenmesine yönelik somut bir erişilebilirlik düzenlemesidir.",
+            "topic": "AÇYE ve Ulaşım Teknolojileri",
+            "explanation": "Ağır ve çoklu yetersizliği olan (AÇYE) bireylerin hizmetlere erişiminde ulaşım önemli bir zorluktur. Ünite 8 özetine göre, fiziksel yetersizliğe sahip AÇYE olan birçok birey tekerlekli sandalye kullanmaktadır ve okul servis aracı, otobüs gibi ulaşım araçlarının bireyin tekerlekli sandalyesiyle bağımsız olarak kullanabileceği şekilde düzenlenmiş olması gerekir. Bu nedenle, 'Tekerlekli sandalye binişli otobüs' AÇYE bireyler için seyahat becerilerinin desteklenmesine yönelik bir düzenleme örneğidir.",
             "is_duplicate": true,
             "duplicate_of": 60,
             "original_source": "Dönem Sonu 2023-2024"
@@ -1654,7 +1660,9 @@
             "topic": "Sosyal Destek Hizmetleri",
             "explanation": "Ünite 5'te, sosyal destek hizmetleri altında, Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından sunulan hizmetler arasında 'Engelli aylığı' ve 'Bakım Hizmetleri' (Evde bakım desteği gibi) yer almaktadır. Muhtaç aylığı ve spor eğitimi desteği spesifik olarak bu başlık altında doğrudan listelenmemiştir, ancak Engelli aylığı ve Evde bakım desteği (Bakım Hizmetleri başlığı altında) ASHB tarafından sunulan desteklerdir.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 3,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 83,
@@ -1695,7 +1703,9 @@
             "topic": "Evrensel Tasarım İlkeleri",
             "explanation": "Ünite 2'de belirtilen 'Kullanımda Esneklik' ilkesi, 'kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır.' Bu, I. ve III. maddelerle uyumludur (seçenek sunma ve hıza uyumluluk). II. madde, 'Eşitlikçi Kullanım' ilkesinin bir parçasıdır (sağ ve sol elin dikkate alınması).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 6,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 85,
@@ -1714,7 +1724,7 @@
             "UniteNo": 3,
             "topic": "İletişim Kavramı",
             "explanation": "Ünite 3'te, iletişim; 'gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir' denilmektedir. Ancak soruda bahsedilen, 'tasarımlarla girdiğimiz etkileşimlerden' kaynaklanan duygu ve davranışlar toplamı, özellikle görsel iletişimde estetik kaygıların yanı sıra topluma karşı sorumluluklar bağlamında tasarımın psikolojik etkilerini ifade eder. Metin, genel olarak iletişimin temel tanımını verse de, somut/dijital tasarımlarla etkileşim sonucu ortaya çıkan duygu ve davranışların toplamı doğrudan bir terim olarak verilmemiştir. Ancak, görsel iletişimde ele alınan 'Renk ve Duygular' ve genel olarak iletişimin bilişsel/duygusal boyutları (kavram çıkarma) göz önüne alındığında, bu tür bir deneyimin 'görsel algı' ile yakından ilişkili olduğu söylenebilir. Eğer sorunun amacı, tasarım çıktılarına verilen tepkilerin genel kapsamını sormak ise, bu bir tür 'kullanıcı deneyimi' (UX) algısıdır; ancak verilen seçeneklere göre en yakın kavram, iletişimin bilişsel/duygusal çıktısıdır. Ünite 3'te bu etkileşimlerin genel bir toplamı isimlendirilmemiştir. Fakat Ünite 2'de 'Bireysel Farklılıklar' başlığı altında, farklılıkların algılanmasının yol açtığı etkilerden bahsedilir. Ünite 3'te, renklerin duygusal etkilerinden bahsedilir. Bu tip bir deneyim, bilişsel/duygusal tepkilerin bir bileşeni olarak değerlendirilebilir. En yakın, genel terim 'İletişim'in kendisidir, çünkü tüm bu etkileşimler iletişim sürecinin bir parçasıdır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1776,8 +1786,10 @@
             "UniteNo": 4,
             "topic": "Robot Teknolojileri",
             "explanation": "Ünite 4'te, robot teknolojileri için 'insansı özellikler kazandırılır' (Hearingbot örneği), 'insan-bilgisayar etkileşimidir' (genel tanım) ifadeleri geçmektedir. Ancak, robot teknolojileriyle ilgili bilgilerin genelinde otizm (OSB) ile ilgili özel bir kısıtlama veya etkisizlikten bahsedilmemektedir. Aksine, sanal gerçeklik uygulamalarının otizmli bireylerin sosyal uyum becerileri için umut vaat ettiği belirtilmiştir. Bu nedenle III. ifade (Etkililiği sınırlıdır) doğru kabul edilemez.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 48,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 89,
@@ -1877,8 +1889,10 @@
             "UniteNo": 6,
             "topic": "Sağlık Hizmetleri Erişimi",
             "explanation": "Ünite 6'da, işitme kayıplı bireylerin acil durumlarda hızlı ve etkili sağlık hizmetine ulaşmasını sağlamak amacıyla Sağlık Bakanlığı tarafından Engelsiz Sağlık İletişim Merkezi (ESİM) hizmetinin verildiği belirtilmektedir (I. ifade doğru). Ancak, metinde sadece ESİM'den bahsedilmiş, özel acil servislerin kurulduğuna veya 112'de özel TİD görevlendirildiğine dair bir bilgi bulunmamaktadır (II. ve III. ifadeler doğrulanamaz).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 50,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 94,
@@ -2083,8 +2097,10 @@
             "UniteNo": 2,
             "topic": "Erişilebilirlik Tanımı",
             "explanation": "Ünite 2'de erişilebilirlik, 'binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olması' olarak tanımlanmaktadır. Metinde bu tanım doğrudan 'Erişilebilirlik' başlığı altında yer almaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 42,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 104,
@@ -2370,8 +2386,10 @@
             "UniteNo": 7,
             "topic": "Görme Yetersizliğinin Gelişim Etkileri",
             "explanation": "Ünite 7, Görme Yetersizliğinin Gelişim Üzerindeki Etkileri başlığı altında, görsel uyarıcı yoksunluğunun gelişim alanlarını olumsuz etkilediğini belirtir. Özellikle psikomotor gelişim üzerinde durulur: 'Görmeyen bebekler, öncelikle baş kontrolü ve çevreyi araştırma/erişimle ilişkili sorunlar yaşarlar... Hareket etme fırsatlarının sağlanmaması, uygun olmayan duruş problemini beraberinde getirecektir.' Bu durum, psikomotor gelişimin yavaşlaması anlamına gelir. Yineleyici davranışlar (stereotipik davranışlar) da ortaya çıkar: 'kendini uyarma davranışı olan, ellerini gözünün önünde sallama, parmağını gözüne bastırma, başını sağa sola sallama vb. stereotipik (yineleyici) davranışların ortaya çıkmasına neden olabilmektedir.' Omurga geriye doğru güçlenmesi (boyun/baş kontrolü) gelişimin erken dönemindeki bir sorundur, ancak 'omurga geriye doğru güçlenir' ifadesi doğrudan bir çıkarım değildir; daha çok 'baş kontrolü' sorunu belirtilir. Ancak, psikomotor gelişimde yavaşlama (I) ve yineleyici davranışların (II) ortaya çıkması doğru ifadelerdir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 54,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 118,

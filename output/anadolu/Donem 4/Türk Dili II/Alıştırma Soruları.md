@@ -1,5 +1,7 @@
 # Türk Dili II - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Bir iddianın gerçekliğini inkâr edilmeyecek bir kesinlikle göstermek, ispatlamaktır"<br />Yukarıdaki tanım hangi anlatım biçimini ifade eder?
     - A-) Tanıklamak
     - **Cevap B-) Tanıtlamak**
@@ -1070,6 +1072,9 @@
     > **Açıklama:** Bir düşüncenin gerçekliğini yadsınamayacak bir kesinlikle göstermek anlamında olan tanıtlama, yazıda sayısal verilerin, istatistiklerin, göstergelerin, tahminlerin tanıt olarak kullanılmasıdır.
 
     <hr />
+
+## Ünite 2
+
 1. "67. Dil Bayramı" ifadesinde kullanılan noktanın görevi nedir?
     - A-) Cümlenin bittiğini göstermek
     - **Cevap B-) -ncI eki yerine kullanmak**
@@ -1870,6 +1875,9 @@
     > **Açıklama:** Karşılıklı konuşmalarda cevap verilmediğini, sessiz kalındığını belirtmek için kullanılır.
 
     <hr />
+
+## Ünite 3
+
 1. "Güzelmi güzel bir kızdı. Öyle bir havası vardı ki yanına kimse yaklaşamıyordu bile. Mahalledeki kızlar da ona hayrandı." Parçadaki yazım yanlışı hangi durumla ilgilidir?
     - A-) Ünlü daralması
     - B-) Bağlaç olan '-ki'nin yazımı
@@ -3860,6 +3868,9 @@
     > **Açıklama:** Türkçeye eskiden yerleşen yabancı isimler söylendiği gibi yazılır. Çaykovski, Aristo, Dante, Şarlo, Tokyo, Kolombiya, Çar Nikola, Paris, Nis vb. Şu bölgede altın varmış denildi mi, halk deliye dönüyor. Şarlo’nun “Altına Hücum” filmi, mezar taşıdır. (Melih Cevdet Anday, Ölümsüzlük Ardında Gılgamış)
 
     <hr />
+
+## Ünite 4
+
 1. "Diğer eleştiri türlerinin yetersiz görülmesi üzerine kimi eleştirmenler, yapıtı çok yönlü inceleme yoluna gitmişlerdir. Bu türde eleştirmen, gerektiğinde öznel, nesnel ya da toplumcu bir bakışla yapıta yaklaşılabileceğini savunur. Türü ne olursa olsun her eleştiri, yazarın ne yaptığını, ne yapmak istediğini bulmaya yöneliktir."<br />Yukarıdaki açıklamaya uyan eleştiri türü aşağıdakilerden hangisidir?
     - A-) Sanatçıya dönük eleştiri
     - B-) Yapıta dönük eleştiri
@@ -4970,6 +4981,9 @@
     > **Açıklama:** “Günümüzde Belgesel Tiyatro Anlayışının Önemi” başlıklı makale Hülya Nutku tarafından yazılmıştır?
 
     <hr />
+
+## Ünite 5
+
 1. "Aklım Arkada Kalacak" adlı öykü aşağıdaki yazarlardan hangisine aittir?
     - A-) Sait Faik Abasıyanık
     - **Cevap B-) Necati Cumalı**
@@ -6350,6 +6364,9 @@
     > **Açıklama:** Ortak bir tanıma ulaşılamayan türlerden biri olan şiir, genel olarak, “Zengin sem- bollerle, ritimli sözlerle, seslerin uyumlu kullanımıyla ortaya çıkan, hece ve durak bakımından denk ve kendi başına bir bütün olan edebî anlatım biçimi, manzume, nazım, koşuk” (www.tdk.gov.tr) olarak tanımlanmaktadır. Doğru seçenek B'dir.
 
     <hr />
+
+## Ünite 6
+
 1. " ...................... aktarımda yazar, metinde yer vereceği kaynakta okuduğu bilgileri kendi anlatımı ile ifade eder. " cümlesinde boşluğu aşağıdakilerden hangisi doğru tamamlar?
     - A-) Doğrudan
     - B-) Katkı veren
@@ -7810,6 +7827,9 @@
     > **Açıklama:** Yöntem, araştırmanın amacını gerçekleştirebilmek için kullanılan genel yaklaşımdır; araştırma tekniği ise araştırma yönteminin gerçekleştirilebilmesi için kullanılan bilgi toplama aracıdır. Böyle bir çabanın üretim olarak ortaya konması da *bilimsel yazı* olarak adlandırılır.<br />Yöntem/ araştırma tekniği/ bilimsel yazı
 
     <hr />
+
+## Ünite 7
+
 1. "Metinden elde edilen bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirilmesi"durumu okuduğunu anlayabilmenin başlıca şartlarından hangisinin açıklamasıdır?
     - A-) Yoğun dikkat
     - **Cevap B-) Yeniden yapılandırma**
@@ -8670,6 +8690,9 @@
     > **Açıklama:** Yeniden yapılandırma: Metinden elde edilen bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirilmesi ve zihinde yapılandırılmasıdır.
 
     <hr />
+
+## Ünite 8
+
 1. "................ belirli hislerin sonucu olarak yüzde, yüzü oluşturan organlarda meydana gelen hareketlerdir."<br />Aşağıdaki beden dili terimlerinden hangisi yukarıdaki boşluğa gelmelidir?
     - A-) Jest
     - B-) Görünüş
@@ -9640,3 +9663,4 @@
     > **Açıklama:** Konferans
 
     <hr />
+

@@ -1592,7 +1592,7 @@
         },
         {
             "id": 107,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b> <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
             "options": [],
             "correctIndex": -1,
             "exam_question_number": 7,

@@ -18,7 +18,6 @@ import sys
 import time
 import glob
 from dotenv import load_dotenv
-import google.generativeai as genai_old # For file upload
 from google import genai
 from google.genai import types
 
@@ -26,6 +25,7 @@ from google.genai import types
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 from libs.anadolu_lib import clean_filename
+from libs.genai_files_manager import GenAIFilesManager
 
 # Load environment variables
 load_dotenv()
@@ -39,14 +39,11 @@ if not GEMINI_API_KEY:
     print("Error: GEMINI_API_KEY not found in .env")
     sys.exit(1)
 
-# Configure old SDK for file upload
-genai_old.configure(api_key=GEMINI_API_KEY)
-
 # Configure new SDK for generation
 client = genai.Client(api_key=GEMINI_API_KEY)
 
-# Cache for uploaded files
-uploaded_files_cache = {} # path -> uri
+# Initialize Files Manager
+files_manager = GenAIFilesManager()
 
 def get_target_info(pdf_path):
     """
@@ -93,27 +90,17 @@ def get_target_info(pdf_path):
         return None, None, None
 
 def upload_file_cached(path):
-    """Uploads a file if not already cached."""
-    if path in uploaded_files_cache:
-        return uploaded_files_cache[path]
-
-    print(f"  Uploading {os.path.basename(path)}...", end="", flush=True)
+    """Uploads a file using the GenAIFilesManager."""
     try:
-        sample_file = genai_old.upload_file(path=path, display_name=os.path.basename(path))
+        # Extract material_id if possible
+        _, _, material_id = get_target_info(path)
 
-        # Wait for processing
-        while sample_file.state.name == "PROCESSING":
-            print('.', end='', flush=True)
-            time.sleep(1)
-            sample_file = genai_old.get_file(sample_file.name)
-
-        if sample_file.state.name == "FAILED":
-            print(' Failed.')
-            return None
-
-        print(f" Done.")
-        uploaded_files_cache[path] = sample_file.uri
-        return sample_file.uri
+        uploaded_file = files_manager.upload_file(
+            local_path=path,
+            material_id=material_id,
+            display_name=os.path.basename(path)
+        )
+        return uploaded_file.uri
     except Exception as e:
         print(f" Error uploading: {e}")
         return None
@@ -316,6 +303,7 @@ def process_pdfs_from_materials_json(target_course=None, no_cache=False):
 
         Cevap anahtarı belgenin sonundaysa, doğru cevabı oradan al.
         Eğer cevap anahtarı yoksa, soruyu çözmeye çalış ve en mantıklı cevabı işaretle.
+        Eğer cevap anahtarında soru için "İptal" veya benzeri bir ifade varsa, cevabı "X" olarak işaretle ve 'correctIndex' değerini -1 yap.
         'exam_question_number' alanına sorunun belgedeki numarasını yaz (1-20 arası).
         """
 

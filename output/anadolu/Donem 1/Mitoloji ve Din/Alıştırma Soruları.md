@@ -1,5 +1,7 @@
 # Mitoloji ve Din - Alıştırma Soruları
 
+## Ünite 1
+
 1. Aşağıda yer alan ve “temizlik” anlamına geldiği kabul edilen sözcüğün karşılığı hangisidir?
     - **Cevap A-) Kut**
     - B-) Kam
@@ -880,6 +882,9 @@
     > **Açıklama:** Efsane<br />S. Veyis Örnek
 
     <hr />
+
+## Ünite 2
+
 1. "Gerçeği nedenlere dayalı olarak açıklamak" aşağıdaki terimlerden hangisinin tanımıdır?
     - **Cevap A-) Logos**
     - B-) Epos
@@ -1870,6 +1875,9 @@
     > **Açıklama:** Protagoras
 
     <hr />
+
+## Ünite 3
+
 1. "Hitit edebiyatında yer alan efsanelerin tamamı o dönem eski çağ uluslarının efsanelerinin birer öykünmesinden oluşmaktadır. Hitit edebiyat dünyasında yer alan bu efsaneler daha çok Mezopotamya (Sumer), Anadolu (Hatti) ve Hurri kökenlidir." Bu bilgiye dayanarak aşağıdakilerden hangisini söylemek mümkündür?
     - A-) Hitit halkı efsane anlatılmasından korkmuştur
     - B-) Hititlerin kültürü diğer kültürler kadar zengin değildir
@@ -3190,6 +3198,9 @@
     > **Açıklama:** Bu efsanenin temelinde yatan eski ve yeni tanrılar arasındaki mücadeleler Mısır, Babil ve Ugarit mitlerindan da bilinmektedir. Bu efsane Fenikeliler aracılığıyla Yunanlılara geçmiştir. Doğru seçenek E’dir.
 
     <hr />
+
+## Ünite 4
+
 1. "...Pek çok Sumer destanı Dumuzi ile ..... arasında<br />geçer. ..."<br />Yukarıdaki boşluğa hangisi gelmelidir?
     - A-) Lamassular
     - B-) Ereşkigal
@@ -3990,6 +4001,9 @@
     > **Açıklama:** “Mit” Yunanca’da söz, öykü anlamına gelir. Mitler, ilkel insan topluluklarının, evreni, dünyayı ve doğa olaylarını kişileştirerek yorumlamak, henüz sırrını çözemedikleri hayatın ve evrenin çeşitli görüntülerini bir anlam kolaylığına bağlamak ihtiyacından doğmuştur. Doğaüstü ve fizikötesi güçler yanı sıra, doğa güçleriyle savaşa girmiş, onları yenmiş ya da yenememiş ilk yiğitlerin kimlik ve kişiliklerini belirtmesiyle de mitler, eposlara, yani destanlara konu oluştururlar.
 
     <hr />
+
+## Ünite 5
+
 1. "Hesiodos, evrenin başlangıcını Khaos (Kaos) olarak ifade etmiştir."<br />Aşağıdaki özelliklerden hangisi böyle bir evren tanımına yol açmış olabilir?
     - A-) Şaşırtıcılık
     - B-) Karanlık
@@ -5190,6 +5204,9 @@
     > **Açıklama:** Zeus Mnemosyne (bellek tanrıçası) ile birleşir ve **Mousa**’lar dünyaya gelir. Bunlar şarkının, düşüncenin, tarih, matematik, iyi konuşma ve bilgeliğin tanrıçalarıdır. Klio (tarih), Euterpe (nutuk), Thalia (komedi), Melpomene (tragedia), Terpsikhore (dram), Erato (lirik koro), Polhymnia (dinsel nutuk), Ourania (astronomi), Kalliope (destansı şiir ve güzel konuşma).<br />Bu nedenle doğru yanıt D'dir.
 
     <hr />
+
+## Ünite 6
+
 1. "Türk mitolojisinde, dünya yaratıldığında göğe doğru uzanan dalsız budaksız bir ağaç vardır. Tanrı, bu ağacın dokuz dal ve budağının çıkması, bunlardan da dokuz insan yaratılmasını emretmiştir" Bu ağaca ne ad verilir?
     - **Cevap A-) Hayat Ağacı**
     - B-) Çam
@@ -6500,6 +6517,9 @@
     > **Açıklama:** Türk kültüründe “Atalar Kültü” ile de ilişkili,dağlarda yaşayan, hayvanları koruyan ve onlarınvçoğalmasını sağlayan, kızıdırıldığında ise hayvanlaravzarar veren bir ruhtur.Kayberen için Kazak Türklerindeki göze görünmeyen varlık olarak “kayıp<br />iren” sözcüğünün kullanılmasının Anadolu Türklerindeki “kayıp erenler” sözcüğü ile eş olduğu düşünülür. Doğru yanıt D şıkkıdır.
 
     <hr />
+
+## Ünite 7
+
 1. "Sidharta Gautama bir kral çocuğudur. İyi bir eğitim almıştır. Evli ve rahat bir hayatı varken yirmi dokuz yaşında saray dışı hayatı fark etmiş, hastalık, fakirlik, yaşlılık ve ölümü tanımıştır. Sidharta insanı kurtuluşa ulaştıracak yaşamın, zenginlik, arzu ve istekler olmadığını düşünmüş, hakikati tanımak, hayatın, ölümün, evrensel acı ve ızdırabın sebeplerini anlamak için her şeyi terk etmiş, uzun süre münzevi bir hayat yaşamıştır."<br />Yukarıda bahsedilen Sidharta Gautama hangi dinin ortaya çıkmasına sebep olmuştur?
     - A-) Hinduizm
     - B-) Taoizm
@@ -7820,6 +7840,9 @@
     > **Açıklama:** Kuruluşu ve Özellikleri<br />Taoizm
 
     <hr />
+
+## Ünite 8
+
 1. "Hz. Musa’ın getirdiği kanunlara harfiyen uyan ve mabedin yıkılışından bu yana çoğunluğu oluşturan Yahudi topluluğudur. Hem Tevrat’a hem de Talmut’a sıkıca bağlıdırlar. Bunlar geleneğe bağlıdırlar, Mesih’in geleceğine inanırlar."<br />Yukarıda verilen tanım hangi yahudi mezhebine aittir?
     - A-) Katolik Yahudilik
     - **Cevap B-) Ortodoks Yahudilik**
@@ -8720,3 +8743,4 @@
     > **Açıklama:** Hz. Musa’dan sonra kavmin başına geçen Yeşu, İsrailoğullarını kutsal topraklara götürmüştür.
 
     <hr />
+

@@ -274,7 +274,21 @@ class AnadoluPipeline(QuestionPipeline):
         # Generate Markdown
         from libs.shared import questions_to_markdown
         md_content = f"# {course_name} - Alıştırma Soruları\n\n"
-        md_content += questions_to_markdown(processed_questions)
+
+        # Group by Unit
+        questions_by_unit = {}
+        for q in processed_questions:
+            u = q.get("Unite", 0)
+            if u not in questions_by_unit:
+                questions_by_unit[u] = []
+            questions_by_unit[u].append(q)
+
+        sorted_units = sorted(questions_by_unit.keys(), key=lambda x: int(x) if isinstance(x, int) or (isinstance(x, str) and x.isdigit()) else 999)
+
+        for u in sorted_units:
+            md_content += f"## Ünite {u}\n\n"
+            md_content += questions_to_markdown(questions_by_unit[u])
+            md_content += "\n"
 
         with open(filepath_md, 'w', encoding='utf-8') as f:
             f.write(md_content)

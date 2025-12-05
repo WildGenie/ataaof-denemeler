@@ -1,5 +1,7 @@
 # Grafik Üretim ve Dijital Çoğaltım Teknikleri - Alıştırma Soruları
 
+## Ünite 1
+
 1. "......................, en basit ve en eski baskıresim biçimlerinden biridir. Tarih öncesi mağaralarda bulunan kırmızı toprak el baskıları ilk ................ örnekleridir. ...................., bir biçimin ayrıntılarını göstermek için istenmeyen yerlerin oyulmasıdır. Bu baskıda kalıbın tümsek kalan bölümlerine boya verilir ve bu boya başka bir yüzeye aktarılır. Bu işlemle birlikte beyaz kalmasını istediğimiz yerler kesilir veya oyularak çıkarılır." ifadesindeki boş yerlere aşağıdakilerden hangisi gelmelidir?
     - A-) Çukur Baskı
     - B-) Düz Baskı
@@ -500,6 +502,9 @@
     > **Açıklama:** İtalya’da ilk matbaa 1465’te Subiaco manastırında kuruldu
 
     <hr />
+
+## Ünite 2
+
 1. "Yüksek baskı sisteminde tipo baskıya uygun olarak baskı elde etmeye yarayan alet ve makinelerin tümüne birden ***tipo baskı makineleri*** denir."<br />Aşağıdakilerden hangisi Tipo baskı makinelerinden değildir?
     - A-) El Tezgahları (Presler)
     - B-) Pedal Makineleri (Düz kazanlı presler)
@@ -930,6 +935,9 @@
     > **Açıklama:** Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br />El tezgahlarının çalışma prensibi tipo baskının temel baskı prensibi gibidir. Ma­kinenin çalışma sistemi oldukça basittir. Yapılan her baskı için mürekkep kalıba yeniden sürülür. Kalıp üzerindeki görüntü baskı altı malzemesine aktarılarak baskı gerçekleştirilir. El tezgahlarında baskı yapmak zahmetli olduğu ve işlem uzun sürdüğü için bu tezgâhlar günümüzde sadece sanatsal işlerde kullanılmakta­dır.
 
     <hr />
+
+## Ünite 3
+
 1. "Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer **..............** makinesi ile işlenmesi işlemidir."<br />Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade aşağıdakilerden hangisidir?
     - A-) Işın
     - B-) Çinko
@@ -1430,6 +1438,9 @@
     > **Açıklama:** Chiaroscuro: İtalyanca chiaro , “ışık” ve scuro , “karanlık” kelimelerinin bir araya gelmesiyle oluşan terim, görsel sanatlarda üç boyutlu nesneleri tanımlarken ışığı ve gölgeyi temsil etmek için kullanılan teknik olarak adlandırılmaktadır.
 
     <hr />
+
+## Ünite 4
+
 1. 1800’lü yılların başlarında çok renkli taş baskı denemeleri üzerinde çalışmaya başlamış olan kişi aşağıdakilerden hangisidir?
     - A-) Johannes Gutenberg
     - B-) Godefroy Engelmann
@@ -1830,6 +1841,9 @@
     > **Açıklama:** Baskı kalıbı kalıp silindirinin etrafına sarılır ve sabitlenir.<br />Kalıp silindiri baskının oluşturulması is­tenen görüntünün üzerine çeşitli işlemlerle aktarıl­dığı baskı kalıbını taşımakla görevlidir.
 
     <hr />
+
+## Ünite 5
+
 1. 1968’de Paris’teki ayaklanma­lar sırasında, École des Beaux-Arts’ta bir gerilla öğrenci atölyesi olarak Geceleri günün olaylarına tepki olarak serigrafi baskılar hazırlayıp, ertesi sabah şehrin duvarlarına yapıştıran, polis, bu grafikleri engellemek için kaynağı bulmaya çalışmış olduğu grup aşağıdakilerden hangisidir?
     - A-) Silk Screen Gro­up
     - **Cevap B-) Atelier Populaire**
@@ -2230,6 +2244,9 @@
     > **Açıklama:** Bir yöntem ise rubylith adı verilen özel kırmızı renkte bir filmle çalışmaktır. Adı bu alanda en yaygın ürünün markasından gelmektedir. Bu film kırmızı rengi sayesinde ultraviyole ışığın eleğe geçişini engeller. Bu film kalın asetat üzerine yapışmış ince kırmızı film tabakasından meydana gelir. Kesilen alanlardan kırmızı film sıyrılarak çalışma yapılır. Dolayısıyla cevap E şıkkıdır.
 
     <hr />
+
+## Ünite 6
+
 1. # işareti ile başlayan kod söz konusu rengin hangi renk renk sistemine ait olduğunu gösterir?
     - A-) CMYK
     - **Cevap B-) HEX**
@@ -2530,6 +2547,9 @@
     > **Açıklama:** Renk yönetimi “renk içeriği verilerinin açık bir şekilde yorumlanması için gerekli olan verilerin iletilmesi, dönüştürülmesi ve böylece amaçlanan renk üretiminin sağlanabilmesi” olarak tanımlanabilir.
 
     <hr />
+
+## Ünite 7
+
 1. "Kağıdın optik, mekanik ve kimyasal yönden temiz ve beyaz olması ........... aşınmasını önler, baskı tirajını arttırır." ifadesinde boş bırakılan yeri aşağıdakilerden hangisi doğru biçimde tamamlar?
     - A-) matbaa makinesinin
     - B-) baskı renklerinin
@@ -2930,6 +2950,9 @@
     > **Açıklama:** Grafik Üretim ve Dijital Çoğaltım Teknikleri giriş<br />İlk Uluslararası Kağıt Sanatı Bienali 1981 yılında Almanya’nın Düren kentinde Leopold Hoesch Müzesi’nde düzenlendi
 
     <hr />
+
+## Ünite 8
+
 1. "Grafik Değişim Biçimi" anlamına gelen raster görüntü formatı aşağıdakilerden hangisidir?
     - A-) PNG
     - B-) JPEG
@@ -3340,3 +3363,4 @@
     > **Açıklama:** Üç boyutlu dijital baskının 3D'dir, sorunun yanıtı D şıkkıdır.
 
     <hr />
+

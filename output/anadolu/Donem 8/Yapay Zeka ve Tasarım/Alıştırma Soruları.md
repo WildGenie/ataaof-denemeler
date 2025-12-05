@@ -1,5 +1,7 @@
 # Yapay Zeka ve Tasarım - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Görme, kelimelerden önce gelir. Bir çocuk konuşmayı öğrenmeden önce bakmayı ve tanımayı öğrenir." ifadesinin sahibi ve iletişimin önemli eserlerinden Görme Biçimleri'nin yazarı, aşağıdakilerden hangisidir?
     - A-) Viktor Papanek
     - B-) Paul Rand
@@ -100,6 +102,9 @@
     > **Açıklama:** İletişim sürecini oluşturan beş unsur kısaca şu şekilde tanımlanabilir:<br />Gönderici: İletişim sürecini başlatmanın yanı sıra, gönderici, iletilmek istenen duyguların, düşüncelerin, bilgilerin ve ihtiyaçların kaynağıdır. Bu kaynak, bir mesaj göndermeyi amaçlayan birey ya da grubu ifade eder. Bu bağlamda, gönderici, süreci başlatan konumda yer alır.<br />Mesaj: Mesaj, iletilmek istenen anlamın içeriğidir. Gönderici ile hedef arasındaki bağlantıyı kuran bir işaretler dizisidir.<br />**İletişim Aracı: Kanal** olarak da adlandırılan bu unsur, gönderici ile alıcı arasındaki bilgi alışverişini mümkün kılan fiziksel bir araçtır ve bilgiyi alıcıya iletir.<br />Alıcı: Alıcı, kaynaktan gelen mesajın ulaştığı hedef kitledir.<br />Geri Bildirim: Geri bildirim, alıcının kaynaktan iletilen mesaja verdiği yanıtı ifade eder.
 
     <hr />
+
+## Ünite 2
+
 1. Aşağıdaki ifadelerden hangisi, yapay zekâ destekli tasarım araçlarının yaratıcı endüstrilere olası etkilerinden biri olarak değerlendirilebilir?
     - A-) Profesyonel tasarım süreçlerinde karmaşıklığın artmasına neden olması
     - B-) Küçük işletmelerin yüksek maliyetlerle karşılaşmasına neden olarak rekabet gücünü azaltması
@@ -200,6 +205,9 @@
     > **Açıklama:** **Büyük Veri Analitiği:** Büyük veri analitiği, tasarım süreçlerinde derinlemesine içgörüler sağlayarak tasarımcıların bilinçli kararlar almasına yardımcı olur. Bu teknoloji, büyük miktarda ham veriyi analiz ederek anlamlı bilgiler elde edilmesini sağlar. Örneğin, geçmiş projelerden toplanan verilerin analiz edilmesi, yeni projelerde kullanılan materyaller, renk paletleri ve boyutlar gibi ayrıntılara dair etkili rehberlik sunabilir. Büyük veri sıralama teknolojisi, karmaşık veri kümelerini düzenleyerek kullanıcıların hızlı ve etkili çözümler bulmasını kolaylaştırır (Goodfellow et al., 2016). Bu yaklaşım, özellikle çok katmanlı projelerde zaman ve maliyet açısından önemli avantajlar sunmaktadır.
 
     <hr />
+
+## Ünite 3
+
 1. Algoritmaların görsel tasarım süreçlerine entegrasyonunun tasarımcıların iş akışına sağladığı en temel katkı aşağıdakilerden hangisidir?
     - A-) Tasarımcıların yaratıcılığının tamamen ortadan kalkması
     - **Cevap B-) Tekrarlayan görevlerin otomatikleştirilerek zaman kazandırması**
@@ -300,6 +308,9 @@
     > **Açıklama:** Metinde, GAN teknolojisinin üretici ve ayırt edici ağlar arasındaki sürekli rekabetin, daha gerçekçi ve yaratıcı görseller üretilmesini sağladığı belirtilmektedir.
 
     <hr />
+
+## Ünite 4
+
 1. **Aşağıdaki ifadelerden bağlamsal farkındalık kavramı açıklar?**
     - A-) Kullanıcıların sayısal ortamdaki davranışlarını analiz etmesidir.
     - **Cevap B-) Kullanıcının fiziksel ortam, zaman ve çevre koşullarını algılayarak kişiye özel içerikler sunmasıdır.**
@@ -400,6 +411,9 @@
     > **Açıklama:** Adaptif tasarım sistemleri büyük veri analizine dayalı olarak çalıştığı için, siber güvenlik tehditleri ve riskleriyle karşı karşıya kalmaktadır. Örneğin, bir e-ticaret platformuna yönelik veri ihlalleri, kullanıcıların finansal ve kişisel bilgilerinin tehlikeye girmesine yol açabilmektedir Ayrıca, giyilebilir cihazlar gibi kişisel sağlık verilerini toplayan sistemlerde, bu verilerin kötüye kullanımı ciddi etik ve güvenlik endişelerine neden olabilmektedir.
 
     <hr />
+
+## Ünite 5
+
 1. Adobe Cloud hizmetiyle entegre bir şekilde çalışan yapay zeka aracı aşağıdakilerden hangisidir?
     - A-) Midjourney
     - **Cevap B-) Adobe Sensei**
@@ -500,6 +514,9 @@
     > **Açıklama:** DALL-E 3: Görsel içerik üretiminde devrim yaratan DALL-E 3, yazılı metinleri görsellere dönüştürme becerisiyle dikkat çeker. Kullanıcıların hayal gücünü dijital bir gerçekliğe dönüştürmelerine olanak sağlar. OpenAI tarafından geliştirilen DALL-E 3, öncüsü DALL-E 2’nin genişletilmiş ve geliştirilmiş bir sürümüdür. ChatGPT-4 ile entegre çalışabilen bu sistem, yazı tabanlı talepleri görsellere dönüştürme konusunda etkilidir. Kullanıcılar, detaylı veya basit ifadelerle istedikleri tasarımı talep edebilir, böylece son derece yaratıcı ve özgün görseller elde edebilirler.
 
     <hr />
+
+## Ünite 6
+
 1. 1988 yılında kullanıcı deneyimi terimini ilk kez kullanan isim aşağıdakilerden hangisidir?
     - **Cevap A-) Donald Norman**
     - B-) Marc Hassenzahl
@@ -600,6 +617,9 @@
     > **Açıklama:** Doğru yanıt C şıkkıdır<br />OpenAI tarafından geliştirilen ve kullanıcı destek süreçlerinde yaygın olarak kullanılan araç ChatGpt'dir
 
     <hr />
+
+## Ünite 7
+
 1. "Centaur yaklaşımı" ne anlama gelir?
     - A-) Yapay zeka insanı devre dışı bırakır
     - **Cevap B-) İnsan ve yapay zeka birlikte çalışır.**
@@ -720,6 +740,9 @@
     > **Açıklama:** Yeşil yapay zekâ, çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefler. Veri merkezlerinde yenilenebilir enerji kullanımı, bulut ve uç (edge) bilişim optimizasyonu, enerji tasarruflu donanımlar gibi yöntemler önerilmektedir (Schwartz vd., 2020). Yazılım düzeyinde de az parametreli, hafif modeller ve verimli algoritmalar geliştirilmelidir. Yapay zekâ destekli tasarım araçları bu ilkeler doğrultusunda tasarlanıp kullanıldığı takdirde, çevresel etkileri en aza indirgenebilecektir.<br />Yeşil Yapay Zekâ, enerji verimliliğini artırarak çevresel etkileri minimize etmeyi amaçlar
 
     <hr />
+
+## Ünite 8
+
 1. Bilgisayar tarafından sağlanan duyusal uyarıcılar aracılığıyla deneyimlenen ve kişinin eylemlerinin kısmen ortamda ne olduğunu belirlediği yapay bir çevre ifadesi aşağıdakilerden hangisini tanımlar?
     - **Cevap A-) Sanal Gerçeklik**
     - B-) Artırılmış Gerçeklik
@@ -820,3 +843,4 @@
     > **Açıklama:** Görsel iletişim, insanlar arasında bilgiyi aktarmak, duyguları ifade etmek ve etkilemek için görsel unsurlar kullanarak iletişim kurma sürecidir. Etkileyicilik, dikkat çekicilik, evrensellik, yüksek ikna kabiliyeti ve sadelik gibi özellikler görsel iletişimin temelini oluşturur. İyi tasarlanmış görseller, insanların dikkatlerini çeker, duygularını etkiler, farklı kültürler arasında anlaşılabilir ve kolaylıkla iletişim kurabilir
 
     <hr />
+

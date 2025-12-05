@@ -1,5 +1,7 @@
 # Temel Fotoğrafçılık - Alıştırma Soruları
 
+## Ünite 1
+
 1. "*Cisimlerden gelen ışınları alıp film ya da algılayıcı yüzeyine aktaran yakınsak mercek veya mercek sistemidir."*<br />Yukarıdaki cümle fotoğraf makinesinin hangi unsurunu tanımlamaktadır?
     - A-) Odak
     - B-) Vizör
@@ -720,6 +722,9 @@
     > **Açıklama:** İyi bir fotoğrafçı için söylenecek söz, teknik bilgileri özümsemiş, kültürel değerlerini kullanabilen ve herkesten farklı bir **bakış ve görüşe** sahip olabilmedir.
 
     <hr />
+
+## Ünite 2
+
 1. 1\. Gözbebeği - diyafram<br />2\. İris - mercek<br />3\. Göz merceği - lens<br />4\. Retina- film yüzeyi<br />5\. Göz kapağı - pozlama<br />Yukarıda verilen gözün ve fotoğraf makinelerinin parçaları hangilerinde doğru eşleştirilmiştir?
     - A-) II-III-V
     - B-) I-IV-V
@@ -1810,6 +1815,9 @@
     > **Açıklama:** İnsan gözünün algılayabildiği ışık bölgesindeki ışıkların dalga boyları, insan saçının kalınlığının %1’i kadardır.<br />Doğru cevap A şıkkıdır.
 
     <hr />
+
+## Ünite 3
+
 1. **Aydınlatma kaynaklarının renk ısısı birimi aşağıdaki ifadelerden hangisidir?**
     - **Cevap A-) Kelvin.**
     - B-) ISO.
@@ -2070,6 +2078,9 @@
     > **Açıklama:** FOTOĞRAFI ÇEKMEK: POZLAMA<br />Pozometreler kullanım alanlarına göre temel olarak harici ve dâhilî olmak üzere iki ana başlık altında sınıflandırılabilir.
 
     <hr />
+
+## Ünite 4
+
 1. "Ait olduğu yere göre küçük ve merkezi niteliği olan daire, leke veya benek" tanımı kompozisyon öğelerinden hangisini tanımlar?
     - A-) Çizgi
     - B-) Doku
@@ -3120,6 +3131,9 @@
     > **Açıklama:** Fotoğraf çerçevesi üzerinde doğru kurulacak bir perspektif, iki boyutlu bir yüzeyde üçüncü bir boyut kazandıracaktır. Doğru cevap C'dir.
 
     <hr />
+
+## Ünite 5
+
 1. 110’luk adıyla kodlanan filmin görüntü alanı aşağıdakilerden hangisidir?
     - A-) 10x15
     - **Cevap B-) 7x11**
@@ -3850,6 +3864,9 @@
     > **Açıklama:** Fotoğraf makinesinde, fotoğrafı çekilecek olan konunun görülmesini sağlayan görüntü alanın sı­nırlarını gösteren düzenek bakaç (vizör) olarak ta­nımlanmaktadır.
 
     <hr />
+
+## Ünite 6
+
 1. Agrandisör tablasının üstüne konularak kullanılan baskı boyutunu ayarlamaya ve kağıdın hareket etmesini engellemeye yarayan aparat hangisidir?
     - A-) Beher
     - B-) Loop
@@ -4030,6 +4047,9 @@
     > **Açıklama:** Siyah Beyaz Fotoğraf Kâğıtları<br />Satın alınan fotoğraf kağıdının teknik özelliklerine ilişkin önemli bilgiler genelde kutu ya da zarfın üstünde yazılmaktadır. Bu özelliklerden biri de **kontrastlık** derecesidir.<br />Kontrastlık derecelerine göre kâğıtlar 0-5 arasında numaralara göre sınıflandırılır. 0 en düşük, 5 en yüksek kontrastlık oranının simgeler. Düşük kontrastlı bir sonuç elde edilmek isteniyorsa 0-1 numara, ortalama bir değer için 2 ya da 3 numara, yüksek kontrastlı bir sonuç elde etmek için ise 4-5 numaralı kartlar tercih edilir.
 
     <hr />
+
+## Ünite 7
+
 1. "5500Kelvinde gün ışığı altında tungsten filmle çekilen fotoğraflarda mavilik hakim olur. Gün ışığı renk ısı değerini tungsten film renk ısı değerine getirir ve fotoğraftaki maviliği gidermek için kullanılır. Filtre rengi turuncudur."<br />Yukarıdaki bilgi hangi renk düzeltme filtresine aittir?
     - A-) 80B Filtresi
     - **Cevap B-) 85A Filtresi**
@@ -4890,6 +4910,9 @@
     > **Açıklama:** Normal Açılı Objektifler: 45-46 derecelik bakış açısıyla gören insan gözüne en yakın görüşü veren objektiflerdir. Bu nedenle normal, standart olarak adlandırılmışlardır. 40-50 mm odak aralığında uzaklığa sahiptirler. Portre, manzara, doğa, sokak fotoğrafçılığı gibi çok geniş bir yelpazede kullanılabilirler. Doğru cevap C'dir.
 
     <hr />
+
+## Ünite 8
+
 1. "Ancak üst düzey kullanıcıya hitap eden bu makinelerin bir kısmında hareketli ekran, konuyu takip gibi özellikler vardır. Büyük sensör nedeniyle görüntülerde daha yüksek ISO değerlerine çıkmak mümkündür. Bu nedenle fotoğrafta kumlanma ve ya noise dediğimiz küçük gürültüler daha az görülür. Diğer makinelere nazaran daha ağır ve ergonomik kullanıma uygun olarak tasarlanmıştır. Gövde (body) olarak kullanılan ana parçada magnezyum veya sert plastik kullanılmıştır. Ağırlığı nedeniyle eldeki titremeyi minimize ederek daha net ve keskin görüntü elde etmemizi sağlar."<br />Yukarıda hangi tip fotoğraf makinelerinden bahsedilmektedir?
     - **Cevap A-) DSLR ve Full-Frame Makineler**
     - B-) Basit Kompakt Sayısal Makineler
@@ -5440,3 +5463,4 @@
     > **Açıklama:** Crop Faktör Nedir?<br />“Crop faktör”, 35mm / full-frame kameraya göre yapılmış bir orandır.
 
     <hr />
+

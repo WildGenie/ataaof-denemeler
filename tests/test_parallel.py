@@ -11,21 +11,20 @@ from anadolu.fetch import AnadoluPipeline, process_course_wrapper
 
 class TestParallelProcessing(unittest.TestCase):
     def setUp(self):
-        self.pipeline = AnadoluPipeline("raw", "json", "full", "md")
+        self.pipeline = MagicMock()
 
-    @patch('anadolu.fetch.requests.get')
-    def test_process_course_wrapper_success(self, mock_get):
-        # Mock successful response
-        mock_response = MagicMock()
-        mock_response.status_code = 200
-        mock_response.json.return_value = {"Questions": []}
-        mock_get.return_value = mock_response
-
+    def test_process_course_wrapper_success(self):
         # Create mock args
         args = MagicMock()
         args.unit = None
         args.pdf = False
         args.chapters = False
+        args.materials = False
+        args.download_exams = False
+        args.infographics = False
+        args.summaries = False
+        args.learn_questions = False
+        args.questions = True
 
         course = {"DersKodu": "TEST101", "CourseName": "Test Course", "Donem": 1}
 
@@ -33,34 +32,31 @@ class TestParallelProcessing(unittest.TestCase):
 
         self.assertTrue(success)
         self.assertEqual(result, "Test Course")
+        self.pipeline.process_course.assert_called_once()
 
-    @patch('anadolu.fetch.requests.get')
-    def test_process_course_wrapper_with_pdf(self, mock_get):
-        # Mock RandPart response
-        mock_rand_response = MagicMock()
-        mock_rand_response.status_code = 200
-        mock_rand_response.json.return_value = {"RandPart": "RANDOM", "Questions": []}
-
-        # Mock PDF download response
-        mock_pdf_response = MagicMock()
-        mock_pdf_response.status_code = 200
-        mock_pdf_response.content = b'PDF_CONTENT'
-
-        mock_get.side_effect = [mock_rand_response] + [mock_pdf_response] * 28  # 14 units * 2 PDFs
-
+    def test_process_course_wrapper_with_pdf(self):
         args = MagicMock()
         args.unit = None
         args.pdf = True
         args.chapters = False
+        args.materials = False
+        args.download_exams = False
+        args.infographics = False
+        args.summaries = False
+        args.learn_questions = False
+        args.questions = False
 
         course = {"DersKodu": "TEST101", "CourseName": "Test Course", "Donem": 1}
 
-        with patch('builtins.open', mock_open()):
-            with patch('os.path.exists', return_value=False):
-                success, result = process_course_wrapper(self.pipeline, course, args)
+        # Mock unit_count
+        self.pipeline.unit_count = 8
+
+        success, result = process_course_wrapper(self.pipeline, course, args)
 
         self.assertTrue(success)
         self.assertEqual(result, "Test Course")
+        # Should call fetch_pdf 8 times
+        self.assertEqual(self.pipeline.fetch_pdf.call_count, 8)
 
     def test_process_course_wrapper_error(self):
         # Test error handling

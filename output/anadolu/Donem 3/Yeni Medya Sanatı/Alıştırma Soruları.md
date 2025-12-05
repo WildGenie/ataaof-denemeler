@@ -1,5 +1,7 @@
 # Yeni Medya Sanatı - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Virtual Reality" kelimesinin anlamı aşağıdakilerden hangisinde verilmiştir?
     - A-) Bilgisayar animasyonu
     - B-) Bilgisayar grafikleri
@@ -400,6 +402,9 @@
     > **Açıklama:** Telematik kavramı Alain Minc ve Simon Nora<br />tarafından 1978 yılında toplumun bilgisayarlaşması<br />(computerization) hakkında hazırlanan bir raporda<br />ortaya atılmıştır. İçeriğini bilgisayarlar ve diğer<br />telekomünikasyon aletleri ile verinin işlenmesi ve<br />yayılması oluşturmaktadır
 
     <hr />
+
+## Ünite 2
+
 1. "Bir şeyin güzel olmasını sağlayan tek şeyin güzelin kendisinin o şeydeki varlığı,<br />ya da o şeyin güzelin kendisinden aldığı paydır" ifadesi kime aittir?
     - A-) Baumgarten
     - **Cevap B-) Platon**
@@ -800,6 +805,9 @@
     > **Açıklama:** Paralel kurguda ise aynı anda gelişmekte olan iki ya da daha fazla olay aktarılmaktadır. “Filmlerde sıklıkla kullanılan bir başka teknik ise iki sahne arasında gidip gelen kesmelerle eş zamanlı olayların anlatıldığı paralel kurgudur. Paralel kurgu aynı zamanda zıtlıkları vurgulamak için de kullanılır.<br />Paralel kurgu birbiriyle alakalı iki plan arasında gerilimli ilişki kurar.” (Rnwell J., 2011) Bu nedenle<br />filmin en az iki farklı mekanda kurgulanıyor olması gerekmektedir. Bu kurgu türüne “Titanik” filminde Rose Dawson kurtulmaya çalışırken gösterilen geminin batış anı ya da saha ajanı ve masa başı ajanın paralel hikayelerini anlatan “Casus” örnek gösterilebilir.<br />Paralel kurgu türüne “Titanik” filminde Rose Dawson kurtulmaya çalışırken gösterilen geminin batış anı ya da saha ajanı ve masa başı ajanın paralel hikayelerini anlatan “Casus” örnek gösterilebilir.
 
     <hr />
+
+## Ünite 3
+
 1. "Kullanıcıların sayısal ortamda temsil edildikleri suretleridir." ifadesi aşağıdakilerden hangisi için söylenir?
     - **Cevap A-) Avatar**
     - B-) Bedenlenme
@@ -1250,6 +1258,9 @@
     > **Açıklama:** Gilles Deleuze’nin deyimiyle “Sanallık gerçektir, fakat edimsel değildir”.
 
     <hr />
+
+## Ünite 4
+
 1. ".......... ........ kavramı, verileri analiz etme ve kullanıcıya iletme süreçlerini kapsar" ifadesindeki boşluğu aşağıdakilerden hangisi doğru olarak tamamlar?
     - A-) Veri bilimi
     - B-) Büyük veri
@@ -1840,6 +1851,9 @@
     > **Açıklama:** İnsanlar en azından MS 2. yüzyıldan beri verileri tablolar (sütunlar ve satırlar) halinde düzenlemişler, ancak nicel bilgiyi grafiksel olarak temsil etme fikri 17. yüzyıla kadar ortaya çıkmamıştır. Bu yenilik Fransız filozof ve matematikçi **Rene Descartes’a** aittir.
 
     <hr />
+
+## Ünite 5
+
 1. "2001: A Space Odyssey" adlı filmin danışmanı aşağıdakilerden hangisidir?
     - **Cevap A-) Martin Minsky**
     - B-) Stanley Kubrick
@@ -2270,6 +2284,9 @@
     > **Açıklama:** Elektronik edebiyat denildiğinde ilk akla gelen basit sensor ve teknolojilerle kapağı açıldığında müzik çalan çocuk kitapları olsa da okuru çok daha fazlasını deneyimler. Elektronik edebiyat Hiper metin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır. Cevap D seçeneğidir.
 
     <hr />
+
+## Ünite 6
+
 1. "11 Eylül sonrasında geliştirilen oyun, ABD’nin terörle mücadele girişimleriyle aynı dönemde üretilmiştir. Oyunda, oyuncular sanatsal ve aktivist eylemler gerçekleştirerek popüler video oyunlardaki askeri ideolojileri eleştirirler. Politika söz konusu olduğunda dijital oyunların sanal uzamındaki aktivizm olanakları ile gerçek dünyadaki politik argümanların kesişim noktasında durması açısından avangart bir örnektir". Bu tanım hangi dijital oyunu anlatmaktadır?
     - A-) Counter-Strike
     - B-) Super Mario Clouds
@@ -2770,6 +2787,9 @@
     > **Açıklama:** Sanat Oyunu<br />Prosedürelci sanat oyunla­rında, kural tabanlı sistemler üzerinde anlam üret­mek birincil önemdedir. Soyutlamaya dayalı anla­tımda, oyuncular metaforlar ve semboller üzerinde içe bakış ve refleksiyon ile kendi öznel anlamlarını üretmeye teşvik edilirler. Oyuncuların üretece­ği anlamlar netlik içermezken, tasarımcının oyun mekanikleri üzerinden ortaya koyduğu prosedürel argüman, tasarımcının *auteur* varlığını duyumsata­cak şekilde belirgindir.
 
     <hr />
+
+## Ünite 7
+
 1. (IDE ) tümleşik geliştirme ortamı Processing'in kurulu olduğu programlama dili aşağıdakilerden hangisidir?
     - **Cevap A-) Java**
     - B-) C
@@ -3270,6 +3290,9 @@
     > **Açıklama:** Yeni Medya Sanatı (Giriş)<br />**Generatif sanat** içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar.
 
     <hr />
+
+## Ünite 8
+
 1. 1982’de üretilen ve ilk oyun bilgisayarlarından biri sayılabilecek bilgisayarın adı nedir?
     - A-) IBM
     - B-) Apple
@@ -3760,3 +3783,4 @@
     > **Açıklama:** 2010 yılında İstanbul’un Kültür Başkenti ol­ması üzerine Kadıköy’de bulunan Haydarpaşa Tren Garı’nda Nerdworking ekibi, sanatçılar Candaş Şişman, Deniz Kader ve Görkem Şen’le bir proje gerçekleştirir. Yekpare adlı eser, devasa boyutta kamusal alanda tarihi bir yapının dış yüzey­lerine uygulanan projection mapping / üç boyutlu haritalama performansındır. Şehrin en görkem­li alanlarından birinde konumlanan Haydarpaşa Garı’nın yüzeyleri video, animasyon, yazılım kulla­nılarak üretilen görsellerin yansıtılmasıyla bambaş­ka bir yapıya dönüştürülür.
 
     <hr />
+

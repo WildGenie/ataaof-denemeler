@@ -1,5 +1,7 @@
 # Posthümanist Tasarım Yaklaşımları - Alıştırma Soruları
 
+## Ünite 1
+
 1. "... , sanat ve tasarım dünyasında yeni bir paradigmaya işaret eder. Bu paradigma, insan ve insan olmayan aktörler arasındaki ilişkileri yeniden tanımlar ve bu aktörlerin karşılıklı bağımlılıklarını ve etkileşimlerini vurgular."<br />Yukarıda boşluk bırakılan alana aşağıdakilerden hangisi gelmelidir?
     - A-) Teknik tasarım
     - B-) Antroposen tasarım
@@ -300,6 +302,9 @@
     > **Açıklama:** Bilim kurgu, içinde bilimsel ve teknolojik gelişmelere ilişkin spekülasyonlar barındıran anlatı türüdür. Bu spekülasyonlar, özellikle insanın ve insanlığın sınırlarına dair imgelemler geliştirir. Pek çok alt türü bulunan bilim kurgunun edebiyattaki en bilinen örnekleri arasında, Mary Shelley’nin Frankenstein ya da Modern Prometheus (1818), Jules Verne’ün Denizler Altında Yirmi Bin Fersah (1870) gibi eserler sayılabilir.
 
     <hr />
+
+## Ünite 2
+
 1. "CRISPRCas9" kavramını aşağıdakilerden hangi seçenek doğru tanımlar?
     - **Cevap A-) genetik mühendisliği tekniğidir**
     - B-) sanal gerçeklik platformudur
@@ -610,6 +615,9 @@
     > **Açıklama:** **Biyoesin**, insanın karşılaştığı zorlukları çözmek için doğanın tasarımlarından ve süreçlerinden içgörü elde etme uygulamasıdır. Bu disiplinler arası yaklaşım, mimarlık ve mühendislikten tıp ve malzeme bilimine kadar geniş bir yelpazede çığır açan yenilikler sağlamıştır. Biyoesin, canlı sistemlerin verimliliğini, dayanıklılığını ve zarafetini taklit ederek, teknolojik ilerlemeye doğru sürdürülebilir bir yol sunarken aynı zamanda doğal dünyaya daha derin bir değer verilmesini teşvik etmektedir.
 
     <hr />
+
+## Ünite 3
+
 1. ".............. izleyicilerin filmin içine girmelerine, kendilerini anlatıya kaptırmalarına ve aktif katılımcılar olmalarına olanak tanıyor." Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelirse doğru olur?
     - **Cevap A-) VR deneyimleri**
     - B-) ASA duyarlılığı
@@ -910,6 +918,9 @@
     > **Açıklama:** **2000’lerin sonlarında** RED ve ARRI Alexa gibi kameraların piyasaya sürülmesi, üstün görüntü kalitesi ve dinamik aralık sunarak sinematografi alanında önemli değişiklikler yapmıştır.
 
     <hr />
+
+## Ünite 4
+
 1. Aşağıdaki mimarlık yaklaşımlarından hangisi, mekânın sabit bir beden ya da nesne olarak anlaşılmasına karşı çıkarak, çevreyle etkileşim içinde olan dinamik sistemler bütünü olarak ele alınmasını savunur?
     - **Cevap A-) Melez mimarlık / Tekno-doğal sistemler mimarlığı**
     - B-) Tarihselciliği temel alan biçimci mimarlık
@@ -1210,6 +1221,9 @@
     > **Açıklama:** 1930’larda ‘biyoteknik’ kavramını ortaya atan Frederick Kiesler’e<br />göre insan mekânı ile ‘ortak bir faaliyet’ içindeydi ve insan ile kabuğu, tıpkı bir yumuşakça gibi,<br />birlikte gelişip biçimleniyordu.
 
     <hr />
+
+## Ünite 5
+
 1. "Bir bireyin kendi bulunduğu yerden dijital bir eylemi desteklemesine ............. adı verilir."<br />Bu cümlede boşluğa gelmesi gereken kavram hangisidir?
     - A-) Dezenformasyon
     - B-) Propaganda
@@ -1510,6 +1524,9 @@
     > **Açıklama:** Posthümanist bağlamda bu yakınsama ile birlikte yeni medyada; birbirinden farklı formlar ve ortamlar arasındaki sınırların giderek keskinliğini kaybetmesi ve iç içe geçmesi durumu gerçekleşmiştir. Jenkins(2016) medya araçlarının yakınsamasını yalnızca teknolojik açıdan değil, aynı zamanda sosyokültürel bir olgu olarak da ele almıştır. Ona göre yakınsama, internet kullanıcılarının yeni bilgiler aramaya ve dağınık medya içerikleri arasında bağlantılar kurmaya yönelmesiyle başlayan kültürel bir değişimi de ifade eder. Aynı zamanda yakınsamanın yalnızca medya araçları ile gerçekleşmediğini, bireysel tüketicilerin zihninde ve onların diğer kullanıcılarla olan sosyal etkileşiminde de meydana geldiğini ifade eder. Yakınsama kültürünün kullanıcılara kolektif zekânın gücünü kullanmayı öğrettiğini ve insanların bu gücü hemen hemen her toplumsal alanda kullanabileceğinin de altını çizmiştir. Yeni medyada yöndeşme-yakınsama; teknolojik, içerik, endüstri ve kültürel olmak üzere dört bağlamda gerçekleşir; 1. Teknolojik Yak<br />Teknolojik, içeriksel, endüstriyel ve kültürel düzeylerde ortaya çıkan çok boyutlu bir birleşme sürecidir.
 
     <hr />
+
+## Ünite 6
+
 1. ........................ tasarım yaklaşımında ölçüt olarak alınan değer artık sadece insanın algısı, ihtiyaçları ve arzuları değildir. Bu yaklaşımda insan olmayanlara da yer açılmakta; insanlar ve insan olmayanlar arasında kurulan karmaşık, yerleşik ilişkiler sorunsallaştırılmaktadır. Merkezine insanı almayan bu yaklaşımlar çevrenin, hayvanların ve nesnelerin karmaşık ilişkilerinde ortaya çıkan tasarım olanaklarını keşfetmemize olanak sağlamaktadır.<br />Paragrafta boş bırakılan yere aşağıdaki şıklardan hangisi gelirse doğru olur?
     - A-) Katılımcı
     - B-) Tasarım odaklı
@@ -1710,6 +1727,9 @@
     > **Açıklama:** Beşikten Beşiğe Tasarım: Ürün yaşam döngüsüne holistik bir bakış açısı sunan beşikten beşiğe tasarım yaklaşımı ürünler için öngörülen “al, kullan ve at” yaklaşımını sorunsallaştırmakta ve ürünlerin döngüsel kullanıma yönelik olarak tasarlanmasını savunmaktadır
 
     <hr />
+
+## Ünite 7
+
 1. Aşağıdakilerden hangisi bilgisayar tabanlı ses düzenleme yazılımlarından biri **değildir**?
     - A-) Pro Tools
     - B-) Adobe Audition
@@ -1910,6 +1930,9 @@
     > **Açıklama:** "1933 yılında çekilen King Kong filmiyle sinemada ilk kez çift kanallı ses kullanıldı ve komplike denebilecek bir ses tasarımı yapıldı" (s.242). Buna göre cevap b seçeneğidir.
 
     <hr />
+
+## Ünite 8
+
 1. Teknolojinin bireyler veya toplum üzerindeki yansımalarını ele alan ve genellikle yapay zekânın sonuçlarını sorgulayan çatışma türü hangisidir?
     - A-) İnsan-Bilim Çatışması
     - B-) İnsan-Makine Çatışması
@@ -2110,3 +2133,4 @@
     > **Açıklama:** ***Üçüncü Şahıs Hâkim Bakış Açısı*** <br />İlahi bakış açısı olarak da bilinen bu bakış açısında anlatıcı, hikâyedeki tüm karakterlerin tüm düşüncelerini ve duygularını, olmuş veya olacak tüm olayları bilir. Bu bakış açısı, hikâye evrenine dair tanrısal bir bakış açısı sunar. Bu, geniş ve karmaşık bir anlatı manzarası oluşturmak için yararlı olabilir. Ancak odağı sık sık değiştirebildiği ve birden fazla bakış açısını kapsayabildiği için bazen de okurları karakterlerden uzaklaştırabilir.
 
     <hr />
+

@@ -37,7 +37,7 @@
             "UniteNo": 1,
             "topic": "Erken Dönem Rijit Ambalajlar",
             "explanation": "Erken dönem ambalaj türleri incelendiğinde, çömlekler ve cam kapların rijit ambalajlara örnek olduğu belirtilmiştir. MÖ 6000 yılında Gürcistan'da bulunan kvervi adı verilen toprak temelli kaplar, bilinen erken dönem çömlekçiliğine örnektir ve rijit ambalaj sınıfına girer. Cam kullanımı ise Mısırlılar tarafından MÖ 3500'lü yıllarda başlamıştır. Dolayısıyla toprak temelli kaplar (kvervi) erken dönem rijit ambalaja örnektir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -58,7 +58,7 @@
             "topic": "Cam Ambalaj Özellikleri",
             "explanation": "Ünite 5'te cam ambalajların özellikleri listelenmiştir. Cam ambalajların olumlu özellikleri arasında 'İçine konulan ürün görülebilir', 'Aşınma ve bozulmalara karşı dayanıklıdır', 'Renkli çeşitlerinde belirli düzeyde ışığa karşı koruma sağlar' ve 'Geçirgen değildir' ifadeleri bulunmaktadır. Verilen seçenekler arasında en belirgin avantajlardan biri, içeriğin görülebilir olmasıdır (Transparanlık).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 4,
@@ -157,8 +157,10 @@
             "UniteNo": 1,
             "topic": "Yazınsal İletişim Tarihi",
             "explanation": "Ünite 1'de, Sümerlilerin ilk olarak sembolik gösterimler ile piktografik yazıyı geliştirdiği belirtilmiştir. Piktografik yazı, nesneleri temsil eden semboller kullanır; kelimeleri temsil eden sabit semboller ise Logografik yazı veya Ideografik yazı ile ilgilidir. Soru, sembollerin fikir yerine kelimeyi temsil etmesinden ziyade, sabit semboller kullanılarak yazı sistemine odaklanmaktadır. Ünite 1'de, 'Sümerliler öncelikle sembolik gösterimler ile piktografik yazı dilini geliştirmişlerdir. Piktografik yazı sisteminde kullanılan semboller marka ve marka kimliği uygulamalarının erken dönem temsilcileri olarak ele alınabilir.' denmektedir. Sorunun tanımı (sembollerin kelimeyi temsil etmesi), genellikle Logografik yazıya daha yakın olsa da, verilen seçenekler ve piktografik yazının 'sembolik gösterimler' ile başladığı bilgisi ışığında, B şıkkı piktografik yazıya işaret etmektedir. (Not: Piktografik yazı resim/sembolle başlar, logografik yazı ise sembol/işaretin kelime/fikir karşılığıdır. Soru metni biraz muğlaktır, ancak bağlam piktografik başlangıçlara işaret etmektedir).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 61,
+            "original_source": "Dönem Sonu 2024-2025"
         },
         {
             "id": 9,
@@ -398,7 +400,7 @@
             "topic": "Ambalaj Türleri",
             "explanation": "Ünite 5'te ambalaj türleri fonksiyonlarına göre Birincil, İkincil ve Üçüncül olarak sınıflandırılmıştır. Üçüncül Ambalaj (Nakliye ambalajı/Grup Ambalajı), birincil ve ikincil ambalajları içerir ve nakliye işlemlerini kolaylaştırmak amacıyla kullanılır. Soruda geçen 'gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilme' görevi Üçüncül Ambalajın (nakliye/yükleme) tanımına uymaktadır. İkincil ambalaj ise, genellikle birincil ambalajları gruplandırır, ancak genellikle paletleme ve dağıtım için kullanılan ağır hizmet tipi ambalajlar üçüncül kategoridedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 21,
@@ -477,8 +479,10 @@
             "UniteNo": 1,
             "topic": "Rijit Ambalaj Tarihçesi",
             "explanation": "Soru 24, MÖ döneminde kullanılan rijit ambalajlara örneği sormaktadır. Ünite 1'de, \"Çömlekler ve cam kaplar ise rijit ambalajlara örnek olarak gösterilebilir.\" denilmektedir. Ayrıca, \"MÖ 6000 yılında Gürcistan coğrafyasında bulunmuş olan kvervi adı verilen toprak temelli kaplar da bilinen erken dönem çömlekçiliğine örnek olarak gösterilebilir.\" bilgisi verilmiştir. Bu kaplar içeceklerin saklanması amacıyla kullanılmıştır. Bu nedenle en uygun örnek **Çömlekler/Toprak Kaplar**'dır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 2,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 25,
@@ -519,7 +523,7 @@
             "topic": "Ambalaj İçerik Türleri",
             "explanation": "Soru 26, kompozit içeriğe örnek aramaktadır. Ünite 2'de, ambalaj için içeriğin çeşitli hallerde (sıvı, katı, gaz, kompozit) olabileceği belirtilmiştir. Kompozit içeriğin ne olduğu açıkça tanımlanmamış olsa da, verilen seçenekler (şampuanlar, losyonlar, krem ve makyaj malzemeleri) genellikle birden fazla bileşenin bir araya geldiği ürünlerdir. Örneğin, losyon ve kremler yağ, su ve emülsiyonlaştırıcılar gibi bileşenlerin karışımıdır. Bu nedenle **Losyonlar/Krem** kompozit içeriğe örnek verilebilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 27,
@@ -680,9 +684,9 @@
             "material_id": "634827",
             "UniteNo": 3,
             "topic": "Araştırma Süreci",
-            "explanation": "Ünite 3'te araştırma sürecinde sorulması gerekenlerden biri, 'Rakipler, coğrafi konumlar, ihracat pazarları nelerdir?' sorusudur. Ancak, soruda geçen unsurlar (toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin sayısı) doğrudan pazar araştırması veya Pazar incelemesi başlıkları altında değerlendirilir. Ünite 7'de, tasarımcıların araştırma sürecindeki 8 adımdan biri olarak 'Pazar incelemesi' listelenir. Ünite 3'teki soru listesinde bu tür ekonomik veriler genel araştırma aşamasının kapsamına girer.",
+            "explanation": "Ünite 3'te belirtildiği gibi, başarılı bir ambalaj tasarımı detaylı bir araştırma süreciyle başlar. Bu araştırma süreci; ürün odaklı (nedir, içeriği ne, ne kadar) ve pazar odaklı (kitle kim, rakipler kim, dağıtım kanalları ne) soruları içerir. Toplam pazar satış değeri, yıllık satış değeri ve hedef kitlenin sayısı gibi veriler, ölçülebilir ve sayısal veriler olduğundan Nicel araştırmanın bir parçasıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 35,
@@ -699,8 +703,8 @@
             "source": "Ara Sınav 2024-2025",
             "material_id": "634827",
             "UniteNo": 7,
-            "topic": "Marka Yönetimi Rolleri",
-            "explanation": "Ünite 7'ye göre, ambalaj tasarımı, marka kimliğini ifade etme, müşteriyle duygusal bağ kurma (inşa etme), farklılığı iletme (iletişim), dikkat çekme (satış) ve koruma gibi marka yönetiminin kritik rollerini üstlenir. Bu rollerin tümü, marka yönetimi sürecinin temel unsurlarıdır.",
+            "topic": "Markalaşmanın Temelleri",
+            "explanation": "Ünite 7'de Markalaşmanın Temelleri başlığı altında, ambalajın bir markanın imajını ve kimliğini oluşturmada kritik rol oynadığı belirtilmiştir. Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir ve bu analiz, marka sahiplerine markayı yönetme ve geliştirme konusunda temel oluşturur.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -720,7 +724,7 @@
             "material_id": "634827",
             "UniteNo": 4,
             "topic": "Yapısal Tasarım Sorumluluğu",
-            "explanation": "Ünite 4'e göre, endüstriyel tasarımcılar, ambalajın yapısal tasarımını (konstrüksiyonunu) geliştirirler. Bu aşamada şekil, boyut ve düzen belirlenir; bu süreç malzeme, ergonomi, sürdürülebilirlik gibi faktörleri içerir ve üç boyutlu tasarım sürecidir.",
+            "explanation": "Ünite 4'te belirtildiği gibi, endüstriyel tasarımcılar ambalaj tasarım sürecinde yapısal tasarım aşamasında ambalajın şekil, boyut ve düzenini belirleme sorumluluğuna sahiptir. Bu süreç, malzemenin seçimi, formun geliştirilmesi, ergonomi, sürdürülebilirlik ve üretilebilirlik gibi yapısal ve işlevsel yönleri kapsar.",
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024"
@@ -740,8 +744,8 @@
             "source": "Ara Sınav 2024-2025",
             "material_id": "634827",
             "UniteNo": 2,
-            "topic": "Temel Tasarım Ögeleri",
-            "explanation": "Ünite 2'de temel tasarım ögeleri sıralanırken, 'nokta' soyut bir kavram olarak tanımlanır ve 'Çizgi ise sonsuz sayıda noktanın bir doğrultuda yan yana gelmesi ile tanımlanır.' denir. Ancak, 'Baskınlık ilkesi' ile ilgili kısımda, görsel ağırlık ve hiyerarşiden bahsedilir. Soruda geçen tanım ('bir inçlik alandaki nokta sayısını gösteren ve baskı çözünürlüğünü ifade eden değer') DPI (dots per inch) olarak bilinir. Bu, genellikle grafik tasarımda çözünürlüğü ifade eden bir terimdir. Ünite 2'de doğrudan DPI tanımı olmamakla birlikte, tasarım ögeleri (nokta, çizgi) ve ilkeleri anlatılmaktadır. Bu tür detaylı çözünürlük terimleri genellikle grafik tasarım disiplini altında incelenir. Ünite 4, Tipografi ve Görseller bölümünde grafik tasarım öğelerinden bahseder ancak DPI tanımını içermez. Verilen bağlamda en yakın olabilecek temel birim 'Nokta'dır, ancak tanım net olarak DPI'yı işaret etmektedir. DPI, görsel/grafik tasarımın bir parçasıdır ve Ünite 4'teki grafik tasarım kısmıyla ilişkilendirilebilir. Ancak, sorunun tanımı net olarak DPI'yı belirtmektedir ve bu, birim ölçü (örneğin nokta) olarak tanımlanabilir. Ünite 2'deki 'Nokta'nın tanımı, hiçbir boyutu olmayan çok küçük bir işaret olarak geçer. Bu sorunun cevabının DPI olduğunu varsayarak, en yakın olabilecek bağlam Ünite 4'teki Grafik Tasarım ile ilgilidir. DPI, genellikle 'Görsel İmajlar' veya 'Tipografi' altında incelenen bir çözünürlük ölçüsüdür. En uygun UniteNo olarak 4'ü, topic olarak 'Grafik Çözünürlüğü' seçilebilir.",
+            "topic": "Baskı Çözünürlüğü Birimi",
+            "explanation": "Ünite 2'de Temel Tasarım Ögeleri başlığı altında baskı ile ilgili spesifik bir birimden bahsedilmese de, genel tasarım ve grafik sanatlarda baskı çözünürlüğünü ifade eden yaygın birim DPI'dır (Dots Per Inch - İnç Başına Düşen Nokta). Sorunun bağlamı ve şıkların içeriği göz önüne alındığında, baskı çözünürlüğü ile ilgili en uygun terim DPI'dır.",
             "is_duplicate": true,
             "duplicate_of": 19,
             "original_source": "Ara Sınav 2023-2024"
@@ -761,8 +765,8 @@
             "source": "Ara Sınav 2024-2025",
             "material_id": "634827",
             "UniteNo": 3,
-            "topic": "Tasarım Fikri Geliştirme",
-            "explanation": "Ünite 3'te Tasarım Fikri oluşturma sürecinin aşamaları anlatılırken, ikinci aşama olan 'İlk eskizler' bölümünden hemen sonra 'Grup eleştirisi' gelir. Grup eleştirisi, ortaya çıkan tüm eskizler ve konsept tasarımların paylaşıldığı aşamadır. Ancak, beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma, genellikle 'Tasarım Fikri' aşamasının (Bilgi toplama ve ilk eskizler) ilk kısımlarında yer alır. Ünite 3'teki 'İlk eskizler' aşaması, fikirlerin görselleştirilmesiyle başlar. Soru 32'deki terimler (beyin fırtınası, eskiz, mood board) tasarım fikri aşamasının başlangıcıdır.",
+            "topic": "Tasarım Fikri Oluşturma",
+            "explanation": "Ünite 3'te Tasarım Fikri başlığı altında, beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemlerin yaratıcı düşünme aşamasında yer aldığı belirtilmiştir. Bu aşama, fikirlerin kabaca bir araya getirildiği ve vizyonun görselleştirildiği yaratıcı keşif sürecinin bir parçasıdır.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -780,9 +784,9 @@
             "exam_question_number": 19,
             "source": "Ara Sınav 2024-2025",
             "material_id": "634827",
-            "UniteNo": 5,
+            "UniteNo": 8,
             "topic": "Malzeme Seçimi Kriterleri",
-            "explanation": "Ünite 5'te Ambalaj Malzemeleri ve Özellikleri kısmında, malzeme seçimini etkileyen faktörler listelenmiştir. Bu faktörler arasında 'Isı ve basınca dayanımı yüksektir' (Cam/Metal için), 'Sterilize edilebilir' (Cam için), 'Sürdürülebilirlik' (Karton/Ahşap için) gibi çevresel ve fonksiyonel özellikler sayılır. Cümledeki boşluk, malzemenin kendisinin veya maliyetinin ön plana çıktığı genel bir bağlama işaret ederken, Ünite 5'te malzeme seçimi, ürünün türüne ve özelliklerine göre değerlendirilir ve 'maliyet' önemli bir faktör olarak belirtilir (Ünite 3'te de bir kriterdir). Ancak, Ünite 5'te malzeme seçimi kararlarının 'pragmatik (fonksiyonel)' ve 'hedonik (duygusal etkilenimler)' hedefler doğrultusunda yapıldığı belirtilir. Pragmatik hedefler, fonksiyon, maliyet, dayanıklılık gibi unsurları içerir. En uygun terim, bu ikisini kapsayan 'pragmatik' veya 'fonksiyonel' olabilir. Ünite 5'te 'Fonksiyonlarına Göre Ambalaj Türleri' başlığı altında malzeme seçiminden bahsedilirken, Ünite 3'te de malzeme seçimi pragmatik ve hedonik hedeflere göre yapılır.",
+            "explanation": "Ünite 8'de Hammaddenin Elde Edilmesi/Malzeme Seçimi Aşaması anlatılırken, ambalaj tasarımında malzeme seçimini etkileyen faktörler arasında ürünü koruma, maliyet, estetik gibi faktörlerin yanı sıra 'koruyuculuk' özelliğinin de önemli olduğu vurgulanmaktadır. Fonksiyonel açıdan ele alındığında ambalajın temel işlevi içeriği korumaktır, bu da malzeme seçiminde en temel kriterlerden biridir.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -801,8 +805,8 @@
             "source": "Ara Sınav 2024-2025",
             "material_id": "634827",
             "UniteNo": 4,
-            "topic": "Yapısal Tasarım İlkeleri",
-            "explanation": "Ünite 4'te Yapısal Tasarım (Endüstri Ürünleri Tasarımcılarının rolü) anlatılırken, ergonominin sadece fonksiyonların standartlar dahilinde gerçekleşmesini sağlamakla kalmayıp, aynı zamanda güvenlik ve kullanıcı dostu özellikler sunmakla da ilgili olduğu belirtilir. Ergonomi, kullanıcı deneyimini iyileştirmeye odaklanan bir yaklaşımdır. Tüketicinin düşünmeden, otomatik olarak yapabilmesi ergonomik tasarımın temel hedefidir.",
+            "topic": "Yapısal Tasarım Yaklaşımı",
+            "explanation": "Ünite 4'te, endüstriyel tasarımcıların ambalaj tasarımındaki görevleri arasında sezgisel tasarımın önemli olduğu belirtilmiştir. Sezgisel tasarım, tüketicilerin bir fonksiyonu gerçekleştirmeyi düşünmeden (örneğin, ambalajı kullanırken zorluk yaşamadan) yapabilmesini sağlayan, kullanıcı arayüzü odaklı bir yaklaşımdır. Bu, özellikle ergonomik ayrıntılar ve kolaylık gibi kriterlerle ilgilidir.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -863,8 +867,10 @@
             "UniteNo": 3,
             "topic": "Ambalaj Araştırma Süreci",
             "explanation": "Tasarım sürecinin ilk aşaması olan Araştırma Süreci, ürünün tanınması, hedef kitlenin anlaşılması ve pazar dinamiklerinin belirlenmesi için yapılır. Toplam pazar satış değeri, yıllık satış değeri gibi veriler ürünün pazardaki konumunu anlamak için yapılan pazar araştırmasının bir parçasıdır. Bu, Ünite 3'te Araştırma Süreci başlığı altında belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 34,
+            "original_source": "Ara Sınav 2024-2025"
         },
         {
             "id": 44,
@@ -924,7 +930,7 @@
             "topic": "Ahşap Ambalaj Malzemeleri",
             "explanation": "Ünite 5'te Ahşap Ambalaj Malzemelerinin özellikleri anlatılırken, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünler için, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde ve kendine has dokusu nedeniyle özel tasarım ürünleri için kullanıldığı belirtilmiştir. Bu tanım E şıkkındaki Ahşap malzemeyi doğru olarak işaret eder.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 47,
@@ -1064,7 +1070,7 @@
             "topic": "Bağımsız Marka Modeli",
             "explanation": "Bağımsız Marka modeli, ana markaya herhangi bir atıfta bulunmadan bir ürün çeşitliliği için geliştirilen markayı tanımlar. Bu yaklaşım, her bir markaya farklılaşma ve uzmanlaşma için maksimum fırsatlar sunarken, ana markanın olası olumsuz algılarından etkilenmesini önler ve pazarın spesifik ihtiyaçlarına cevap verir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 54,
@@ -1103,7 +1109,7 @@
             "UniteNo": 8,
             "topic": "Ambalaj Türleri ve İşlevleri",
             "explanation": "Soru, içerikle ilgili problemleri ele alan, kaliteyi/dayanıklılığı artıran ve deneyimi iyileştiren ambalaj türünü sormaktadır. Metinde, plastik ambalajların esnek, dayanıklı, sızdırmaz ve kimyasal özelliklere sahip olmaları nedeniyle gıda, kozmetik, ilaç gibi ürünlerin korunmasında önemli avantajlar sunduğu belirtilmiştir. Plastikler, bariyer özellikleri sayesinde ürünün raf ömrünü uzatır ve tüketici deneyimini artırır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1176,13 +1182,13 @@
                 "Ücretlendirme",
                 "Yasaklama"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634816",
             "UniteNo": 8,
             "topic": "Ambalaj Atıklarını Önleme",
-            "explanation": "Ünite 8'de ambalaj atıklarının çevreye verdikleri zararı önlemenin yolları belirtilmiştir: Yasaklama, Vergilendirme, Ücretlendirme ve Gönüllülük. İkna etme (A şıkkı), marka iletişimi ve pazarlama stratejilerinin bir parçasıdır, doğrudan yasal/ekonomik bir önleme yöntemi olarak sıralanmamıştır. Listelenenler yasal veya teşvik/baskı mekanizmalarıdır.",
+            "explanation": "Ünite 8 özetine göre, ambalaj atıklarının çevreye verdiği zararı önlemenin yolları arasında yasaklama, vergilendirme, ücretlendirme ve gönüllülük bulunmaktadır. 'İkna etme' ise marka yönetimi veya tüketici algısı ile ilgili bir kavramdır, doğrudan atık önleme yöntemi olarak listelenmemiştir. Dolayısıyla, verilen şıklar arasında ikna etme bir önleme yöntemi değildir.",
             "occurrence_count": 3,
             "is_duplicate": false
         },
@@ -1196,13 +1202,13 @@
                 "Ara ürün",
                 "Yan ürün"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634816",
             "UniteNo": 8,
-            "topic": "Ambalajın Çevresel Maliyeti",
-            "explanation": "Ünite 8'de, çevresel maliyet açısından ürünler Pasif Ürünler ve Aktif Ürünler olarak ikiye ayrılmıştır. Ambalajlar, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan 'pasif ürün' olarak tanımlanır. Aktif ürünler ise, çevresel maliyeti en yüksek kullanım aşaması olan ürünlerdir (örn: enerji tüketen cihazlar).",
+            "topic": "Yaşam Döngüsü Maliyetleri",
+            "explanation": "Ünite 8 özetinde, ambalajların çoğunluğunun çevresel maliyet açısından 'pasif ürün' olarak tanımlandığı belirtilmektedir. Pasif ürünler, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan ürünlerdir (örneğin, mobilya, bisiklet, seramik ev eşyaları). Aktif ürünler ise çevresel maliyeti en yüksek olan kullanım aşaması ürünleridir (örneğin, otomobil). Soruda belirtilen tanıma uyan kavram 'Pasif ürün'dür. Ancak soruda 'Kayıp ürün' şıkkı doğru kabul edildiğinden, açıklamada bu durumun bir çelişki yarattığı gözlemlenmektedir. Metin içeriğine göre doğru cevap 'Pasif ürün'dür, ancak verilen kurala uyarak 'Kayıp ürün' kabul edilen şıkkın mantığı metinde tam olarak yer almamaktadır; metinde bu terim yerine 'pasif ürün' terimi kullanılmıştır.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -1223,7 +1229,7 @@
             "UniteNo": 1,
             "topic": "Yazınsal İletişim Tarihi",
             "explanation": "Ünite 1'de, Sümerlilerin sembolik gösterimler ile piktografik yazı dilini geliştirdiği belirtilmiştir. Piktografik yazı, bir fikri veya nesneyi temsil eden semboller kullanır. Logografik yazı ise kelimeleri temsil eden sabit sembollere dayanır. Soru, 'sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemi'ni sorduğu için bu, Logografik yazının tanımına daha yakındır (Ünite 1: 'Piktografik yazı sisteminde kullanılan semboller marka ve marka kimliği uygulamalarının erken dönem temsilcileri olarak ele alınabilir.'). Ancak, önceki soru 8'in bağlamıyla çelişse de (soru 8'de B şıkkı doğru kabul edildi), buradaki tanım (sembollerin fikir yerine kelimeyi temsil etmesi) ideografik/logografik sistemlere işaret eder. Ancak, eğer sistem piktografik olarak başlatılmışsa ve semboller artık sadece nesneyi değil kelimeyi temsil ediyorsa, bu durum Logografik/İdeografik sınıfa girer. Piktografik yazı fikir/nesne gösterir, logografik/ideografik ise kelime/fikri temsil eder. Şıklarda Piktografik yazı (B) işaretli olduğu için bu bağlamda, ilk yazı sistemlerinin (Piktografik) temelini oluşturan sembollerin evrimleşerek kelime karşılığı haline geldiğini ima ediyor olabilir. Fakat verilen şıklar arasında en kesin eşleşme (fikir yerine kelime) genellikle Logografik/İdeografik yazıdır. Sorunun kuralı gereği, Piktografik yazının doğru kabul edildiği varsayımıyla ilerlenmelidir (Çünkü genelde bu konu piktografik kökenle ilişkilendirilir).",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1425,8 +1431,10 @@
             "UniteNo": 6,
             "topic": "Akıllı Ambalaj Fonksiyonları",
             "explanation": "Aktif ambalaj, yeni malzemeler ve teknolojileri kullanarak paketlenmiş ürünle etkileşime girerek ürün kalitesini, dayanıklılığını ve raf ömrünü artırır (örn: oksijen tutucular, nem alıcılar). Akıllı paketleme ise sensörler kullanarak ürünün durumunu izler ve gerçek zamanlı bilgi sağlar. Bu tür ambalajlar, içerikle ilgili problemleri ele alarak ve kullanıcı deneyimini iyileştirerek ambalajın genel değerini artırır. (Ünite 6: Aktif ambalaj, raf ömrünü uzatmak için paketlenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddelerin kullanılmasını içermektedir.)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 55,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 72,
@@ -1649,8 +1657,10 @@
             "UniteNo": 5,
             "topic": "Cam Ambalaj Özellikleri",
             "explanation": "Cam ambalaj malzemelerinin olumlu özellikleri arasında içeriğin görülebilir olması, aşınma ve bozulmalara karşı dayanıklılık, renklendirilmiş çeşitlerde belirli düzeyde ışıktan koruma sağlama ve geçirgen olmama (gaz/nem geçirmeme) sayılır (Ünite 5). Soruda camın sunduğu avantajlardan biri sorulmaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 3,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 83,
@@ -1855,8 +1865,10 @@
             "UniteNo": 5,
             "topic": "Ahşap Ambalaj Özellikleri",
             "explanation": "Ünite 5'teki Ahşap Ambalaj Malzemeleri ve Özellikleri başlığı altında, ahşap ambalajların sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünler için uygun olduğu, hava geçirgenlikleri sebebiyle meyve ve sebzelerin paketlenmesinde kullanıldığı ve kendine has dokusu sayesinde özel tasarım ürünleri için tercih edildiği belirtilmektedir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 46,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 93,
@@ -2082,8 +2094,10 @@
             "UniteNo": 2,
             "topic": "Ambalaj İçeriği",
             "explanation": "Ünite 2'de Ambalaj Kavramı açıklanırken, içerik türleri arasında sıvı, katı, gaz ve kompozit sayılmıştır. Kompozit içerikler, birden fazla madde formunun birleşimidir. Deterjan (B) ve sprey deodorant (C) genellikle sıvı/gazdır. Un (D) ve kuruyemiş (E) katıdır. Yumurta (A) ise kabuklu katı bir gıda olup, ambalajlamada genellikle 'katı' olarak sınıflandırılır, ancak burada verilen seçenekler arasında en uygun 'karmaşık/bileşik' yapı (farklı katmanlar veya bileşenler) anlamında diğerlerine kıyasla yumurta (sert kabuk içinde sıvı içerik) kompozit tanımına dolaylı olarak en yakın olabilir veya sorunun bağlamında en azından katı/sıvı/gaz kategorilerine net girmeyen bir örnek olarak düşünülmüştür. Ancak genel kabul görmüş endüstriyel kompozit örnekleri (örneğin, Tetra Pak gibi çok katmanlı ambalajlanmış ürünler) yerine, basit içerik türlerinden biri seçilmesi gerekmektedir. Kompozit terimi genellikle ambalaj malzemesi için (Tetra Pak gibi) kullanılırken, içerik için çok yaygın kullanılmaz. Verilen seçenekler arasında, en yaygın sınıflandırmalara uymayan 'Yumurta' (katı/gaz/sıvı karışımı değil ama kabuklu yapı) A şıkkı olarak işaretlendiği için bu kabul edilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 26,
+            "original_source": "Ara Sınav 2024-2025"
         },
         {
             "id": 104,
@@ -2165,8 +2179,10 @@
             "UniteNo": 5,
             "topic": "Ambalaj Türleri",
             "explanation": "Ünite 5'te, Ambalaj Türleri başlığı altında Üçüncül Ambalaj (Nakliye ambalajı/Yükleme ambalajı) şöyle tanımlanmıştır: 'Bu ambalaj birinci ve ikincil ambalajı içerir ve ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır.' Soruda bahsedilen, ambalajların gruplandırılması, plastik filmlerle sarılarak paletlerle dağıtıma hazır hale getirilmesi görevi Üçüncül (Nakliye) ambalajlara aittir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 20,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 108,
@@ -2309,8 +2325,10 @@
             "UniteNo": 7,
             "topic": "Marka Modelleri",
             "explanation": "Bağımsız Marka modeli, ana markaya herhangi bir atıfta bulunmadan, her çeşitlilik için geliştirilen markaları tanımlar. Bu yaklaşım, markanın farklılaşma ve uzmanlaşma için maksimum fırsatlar sunmasını sağlarken, ana markanın algılanan olumsuz yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap vermesine olanak tanır (Ünite 7).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 53,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 115,

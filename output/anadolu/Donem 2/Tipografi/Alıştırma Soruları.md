@@ -1,5 +1,7 @@
 # Tipografi - Alıştırma Soruları
 
+## Ünite 1
+
 1. "14.500 yıl öncesine ait Altamira mağarasındaki kırmızı ve siyah paleolitik bizon resimleri ..........'da bulunmaktadır." ifadesindeki boşluğa aşağıdaki ülkelerden hangisi gelmelidir?
     - **Cevap A-) İspanya**
     - B-) Almanya
@@ -400,6 +402,9 @@
     > **Açıklama:** Lidyalılar ise madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlamışlardır. Bu sikkelerin dolaşıma girmesi ile dönemin Lidya yazısı da ticaret yapan uygarlıklar arasında dolaşmaya başlamıştır.
 
     <hr />
+
+## Ünite 2
+
 1. 20\.yüzyılın başlarında görsel sanatların tüm alanlarında görülmeye başlayan De Stijl akımının sanat anlayışı aşağıdaki hangi seçenektir?
     - **Cevap A-) Düz çizgi, dik açı ve üç belirli renk**
     - B-) Bart van der Leck tarafından saf renklerin kullanılması
@@ -800,6 +805,9 @@
     > **Açıklama:** Jan Tschichold: Yeni Tipografi hareketinin öncüsü Jan Tschichold ile modern sanat akımlarına aktarılmıştır. Yeni Tipografi ile tek tip bir üslup duygusu gelişmemiştir. Örneğin, Fütürizm ve Dadaizmdeki kaos ve bozulma, De Stijl’deki hassasiyet bir araya gelmiş ve geleneksel tasarım anlayışından bir kurtulma çabası ortaya çıkmıştır.
 
     <hr />
+
+## Ünite 3
+
 1. "**...**  Tipografi, sayısal dönemin gereksindiği görsel değerleri ve bilgisayarın bu süreçteki etkilerini de içeren yaratıcı ve yenilikçi font tasarımları ve tipografi anlayışıdır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Sayısal**
     - B-) Metal
@@ -1200,6 +1208,9 @@
     > **Açıklama:** Onlarca font tasarlayan Kisman için okunurluk hiç bir zaman öncelik olmamıştır. Kisman, video<br />kliplerin, hızlı geçen görsellerin ve yazıların sayesinde insanların iletileri algılama yeteneğinin geliştiğini, karmaşık daha zor algılanan yazıları okuma kabiliyetlerinin arttığını savunduğu gibi, insanlığın harflere gereksinimi kalmayacağını ve görüntüler ile iletişimlerini sağlayabileceklerini düşünmektedir. Doğru yanıt B'dir.
 
     <hr />
+
+## Ünite 4
+
 1. "........................... yazı karakterleri ayrıca Roma tipi olarak da adlandırılır. Bunun nedeni temellerini Roma yazıtlarından almış olmasıdır. Bu tür yazı karakterleri en okunaklı yazı tipleri olduğundan genellikle gövde metinlerde kullanılsalar da başlıklar için de uygundurlar." ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?
     - **Cevap A-) Tırnaklı (Serif)**
     - B-) Tırnaksız (Serifsiz)
@@ -2000,6 +2011,9 @@
     > **Açıklama:** Yazı yüzlerinin karakter setlerinin oluşmasını sağlayan geometrik yapılar Eski Yunanlılardan bu yana üçgen, kare ve daire formlarından oluşur. Doğru cevap A seçeneğidir.
 
     <hr />
+
+## Ünite 5
+
 1. "................... dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır." ifadesinde boşluğa gelmesi gereken ifade hangisidir?
     - **Cevap A-) Simetrik**
     - B-) Beyaz
@@ -2800,6 +2814,9 @@
     > **Açıklama:** Bir tasarımcının en önemli görevlerinden birisi, mesajın izleyici tarafından doğru anlaşılmasını sağlamaktır. Bu nedenle her tasarımcı, tasarımda yer alan fotoğraf, illüstrasyon, metin gibi görsel elemanları vurgulanmak istenen mesaja göre ölçülendirerek görsel hiyerarşiyi sağlamalıdır. Tasarım yüzeyi üzerinde yer alan görsel elemanların birbirlerinin algılanmasını engellemeden, belirli bir sıraya göre düzenlenmesi, mesajın izleyiciye ulaşma başarısını olumlu yönde etkileyecektir. Bu nedenle tasarımda yer alan öğeler, birincil, ikincil, üçüncül ve giderek azalan üstünlük derecesine göre sınıflandırılmalıdır (Turgut, 2013).
 
     <hr />
+
+## Ünite 6
+
 1. "Çevresel grafik tasarımında tipografi, mekân ile kullanıcının ilişkisini kuran yönlendirme stratejisi dahilinde, tasarlanan .............. üzerinde belirgin bir şekilde kullanılarak yönlendirme tasarımı projeleri hayata geçirilir." Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
     - A-) kağıtlar
     - B-) afişler
@@ -3500,6 +3517,9 @@
     > **Açıklama:** Tipografi, bir metne yönelik vurgu, bağlam, hiyerarşi gibi amaçları gerçekleştirmek için yazıyı (harfleri) karakter, büyüklük, boşluk, açıklık ve paragraf özelliklerini kullanarak şekillendiren tasarım disiplinidir. Yazılı bir fikre görsel form verilmesini amaçlar.”. Cevap D seçeneğidir.
 
     <hr />
+
+## Ünite 7
+
 1. "**...,** tanımlı yüzey üzerinde yarattığı görsel biçim ile tasarımın karakterini belirleyip, içeriğin barındırdığı fikre okurun nasıl tepki vereceğini önemli ölçüde etkiler" tanımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - **Cevap A-) Tipografi**
     - B-) Kaligrafi
@@ -4200,6 +4220,9 @@
     > **Açıklama:** **Modüler ızgara,** çoklu ihtiyaca yönelik bir ızgara çeşidi olarak tercih edilmesinin yanı sıra kavramsal bir estetiğe sahiptir. “Modüler ızgaralar İsviçre tipografisi veya 1950’lerin ve 60’ların Uluslararası Tipografik Stili ile ilişkilidir” (Harkins, 2010, s. 63). Özellikle Bauhaus’un rasyonalist düşüncesindeki nesnelliği, düzeni ve netliği vurgulaması sebebiyle, bu idealleri benimseyen tasarımcıların mesajlarını iletmek için çalışmalarında modüler ızgaralar kullandığı da bilinmektedir.
 
     <hr />
+
+## Ünite 8
+
 1. "...................... yazı karakterlerinde bazı harfler tekrar tasarlanırken ................. yazı karakterlerinde ise harflere sadece eğim verilmektedir."<br />Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangileri sırasıyla ve doğru şekilde tamamlar?
     - **Cevap A-) İtalik/Oblik**
     - B-) Oblik/İtalik
@@ -5000,3 +5023,4 @@
     > **Açıklama:** x-yüksekliği küçük harfin büyük harfe göre yüksekliğini ifade eder.
 
     <hr />
+

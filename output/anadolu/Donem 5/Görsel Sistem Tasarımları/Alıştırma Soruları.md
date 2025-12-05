@@ -1,5 +1,7 @@
 # Görsel Sistem Tasarımları - Alıştırma Soruları
 
+## Ünite 1
+
 1. 1920’ler ve 30’larda Viyana metodu olarak da bilinen Isotype (Uluslararası Tipografik ve Resimsel Eğitim Sistemi) geliştirilmesine öncü olan isim aşağıdakilerden hangisidir?
     - **Cevap A-) Otto Neurath**
     - B-) Harry Beck
@@ -300,6 +302,9 @@
     > **Açıklama:** Grafik Tasarımı Sistem Kavramı ile<br />Birlikte Düşünmek<br />“Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” diyen tasarımcı **Massimo Vignelli**.
 
     <hr />
+
+## Ünite 2
+
 1. **Ariel Sanat**’ın 2015-2019 yılları arasında gerçekleşen 21 farklı sergi için Bülent Erkmen, her serginin özel bir işaretine de dönüşen 21 afiş hazırladı. Afiş tasarımlarında sisteme dair ilk göze çarpan görsel kararlar aşağıdakilerden hangisi/hangileridir?<br />I. Afişlerde yalnızca siyah renk kullanılmış.<br />II. Dikdörtgen afişin üst kare alanı, serginin kimliğine dönüşen işaretlere, alt kısmı ise sergi bilgilerine ayrılmış.<br />III. Serginin adı İngilizce olarak yatay yazılmış.<br />IV. Sergi sahipleri (sanatçılar) işaretin hemen altında yer alıyor.<br />V. Ariel logosu ise afişin alt orta kısmında bulunuyor.
     - A-) I, II ve III
     - B-) I, III, IV ve V
@@ -600,6 +605,9 @@
     > **Açıklama:** Editörlüğünü Uğur Tanyeli’nin yaptığı ve ilk sayısı Şubat 1989 yılında yayımlanan (önce Arredamento Dekorasyon, 1989’dan itibaren ise Arredamento Mimarlık) dergilerin kapak tasarımlarını derginin ilk sayısından itibaren Bülent Erkmen üstleniyor.
 
     <hr />
+
+## Ünite 3
+
 1. 15\. yüzyılda resimlerinde mükemmel perspektif ve tasarladığı alfabede grid sistemini kullanan sanatçı aşağıdakilerden hangisidir?
     - A-) Le Corbusier
     - **Cevap B-) Albrecht Dürer**
@@ -900,6 +908,9 @@
     > **Açıklama:** Modulor: İnsan vücudunun ölçülerini temel alan, altın oran ve Fibonacci dizisini kullanarak türetilmiş kendine özgü bir ölçüler dizisidir. 1.83 m boyundaki bir insandan türetilmiştir. “Modulor”deki göbek deliği, kafa üstü, kolların uzandığı nokta ve bunların arasındaki mesafelerin ölçülerinin oranı altın oranı vermektedir.
 
     <hr />
+
+## Ünite 4
+
 1. ................... taşıdığı içeriğin kullanıcının anlayacağı şekilde görselleştirildiği bir iletişim mecrasıdır. Boş bırakılan yere gelmesi gereken ifade hangisidir?
     - A-) El broşüleri
     - B-) Tanıtım Afişleri
@@ -1100,6 +1111,9 @@
     > **Açıklama:** Yönlendirme ve işaretleme tasarımı, bulunduğu mekanlara göre ayrıştırılarak daha iyi incelenebilir:<br />Kamusal Binalar, Ulaştırma Birimleri, Kültürel Mekânlar, Kent, Kurum Kimlik Uygulamaları.<br />Her geçen gün kalabalıklaşan kentlerde insanlar bilgilendirmeye gereksinim duymaktadırlar. Kent içinde yapılan yönlendirme ve işaretleme tasarımı, belirli bir plan dahilinde kullanıcıyı bir noktadan diğer bir noktaya ya da merkeze yönlendirme amacı taşımaktadır. Her ne kadar kara yollarını işleyen bir sistem varsa da yayaların yaşam ve dolaşım alanları hâlen sıkıntılıdır. Gelişen şehircilik anlayışlarının da etkisiyle, dünyada kimi yerleri bir parkur gibi tasarlanmış kentlerin sayısı hızla artmaktadır. Yapılan tasarım ürünleri görevini yerine getirir ve kullanıcılar tarafından benimsenirse, tıpkı logo gibi kent adına birer sembol-eser hâline de gelebilirler.
 
     <hr />
+
+## Ünite 5
+
 1. "Sergide, kullanıcıların bir geri bildirim yapabilmesi ya da sergi ile edindikleri bilgiyi geliştirebilmeleri ve böylece akışı devam ettirebilmeleri olanaklı değildir." Bu durum serginin aşağıdaki özelliklerinden hangisine karşılık gelmektedir?
     - A-) Sergi, yoğun bir kavramsal bilgi akışına sahiptir.
     - **Cevap B-) Sergi, tek taraflı bir iletişim modelidir.**
@@ -1200,6 +1214,9 @@
     > **Açıklama:** Benzer özellikleri olan iki eylem olan sergi ve sergileme arasındaki temel fark, sergilemenin hedef kitle, içerik, sergi mekânı gibi temel öğelere göre yazılmış bir anlatısının olmasıdır. Dolayısıyla doğru cevap B'dir.
 
     <hr />
+
+## Ünite 6
+
 1. 1930’lu yıllarda modadan mimariye hayatın tamamına sadelik getiren şirketin adı aşağıdakilerden hangisidir?
     - **Cevap A-) Bauhaus**
     - B-) IBM
@@ -1290,6 +1307,9 @@
     > **Açıklama:** CBS televizyonu için 1959 yılında çok bilinen “göz”ün tasarımcısı William Golden’ın, Print’te yayımlanan sözleri; “Tescilli bir marka tek başına kurumsal imaj oluşturmaz, imaj, kurumun ürünleri, politikası, hareketleri ve reklamcılık gücü doğrultusunda oluşturduğu etkilerin toplamıdır. Bana kalırsa, eğer kurumsal kimlik varsa tescilli marka bunu sadece hatırlatmaya yarayabilir”.
 
     <hr />
+
+## Ünite 7
+
 1. "**... ...**  formların hatayı ortadan kaldırmalarının yegâne aracı satır içi doğrulama mesajlarıdır. Satır içi doğrulama, kullanıcılara soruyu doğru anladıklarından emin olmanın veya bir şeylerin yolunda gitmediğini bildirmenin en iyi yoludur" tanımında hangi form tasarımından söz edilmektedir?
     - A-) Yazışma
     - B-) Karma
@@ -1490,6 +1510,9 @@
     > **Açıklama:** Elektronik belge yönetim sistemi (EBYS), idarelerin faaliyetlerini yerine getirirken hazırladıkları ve faaliyetlerinin delili olabilecek E-Yazışma Teknik Rehberi’ne uygun belgelerin içerik, üstveri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistemdir.
 
     <hr />
+
+## Ünite 8
+
 1. ".......... verilen herhangi bir girdiye uygun şekilde yanıt vererek, tasarımda karar verme sürecini yeniden yaratmakta, objelerin ya da tasarım bileşenlerinin farklı şartlarda bir otomasyona bağlı biçimde farklı davranışlar geliştirebilmesini amaçlamaktadır." Boşluğa getirilebilecek doğru yanıt aşağıdaki seçeneklerden hangisinde verilmiştir?
     - **Cevap A-) Fonksiyonlar yaklaşımı**
     - B-) Açık kaynak yaklaşımı
@@ -1680,3 +1703,4 @@
     > **Açıklama:** Açık kaynak bir tasarım sistemi ya da yazılım paylaşımı benimsemesi şirket değerleri adına bilgi paylaşımı, erişilebilirlik ve eğitim odaklı bir ilkesel model çizerken kapalı sistem bir üretim yaklaşımı benimsenmesi rekabetçi ve kar odaklı bir değerler şemasının tasarlanmasını doğurur.
 
     <hr />
+

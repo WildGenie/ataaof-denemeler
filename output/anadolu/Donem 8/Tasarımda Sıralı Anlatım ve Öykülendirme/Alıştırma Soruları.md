@@ -1,5 +1,7 @@
 # Tasarımda Sıralı Anlatım ve Öykülendirme - Alıştırma Soruları
 
+## Ünite 1
+
 1. Aşağıdakilerden hangisi Henry Jenkins’in 7 Temel Transmedya Hikâyeciliği Kavramından biri **değildir**?
     - A-) Yayılabilirlik/Delinebilirlik
     - **Cevap B-) Başatlık/Sıradışılık**
@@ -100,6 +102,9 @@
     > **Açıklama:** Kişiselleştirme: Transmedya evrenlerindeki hikâyeler, her izleyicinin kendine özgü bir deneyim yaşamasına imkân tanımaktadır. İzleyiciler, bu hikâyeleri kendi yaşam deneyimleriyle birleştirerek, karakterlerle daha güçlü bir empati kurmaktadırlar.
 
     <hr />
+
+## Ünite 2
+
 1. Aşağıdakilerden hangisi dijital hikâye anlatımında yapay zekânın yenilikçi bir kullanım alanıdır?
     - **Cevap A-) Kullanıcıya özel hikâye yolları oluşturarak anlatıyı kişiselleştirmek**
     - B-) Hikâyeyi yalnızca yazılı metin formatında sunmak
@@ -200,6 +205,9 @@
     > **Açıklama:** Lin ve diğerleri (2020), yapay zekânın tasarım süreçlerinde üretkenliği artırsa da insan tasarımcıların yaratıcı süreçlerden uzaklaşmasına ve uzmanlık kaybına neden olabileceğini öne sürmektedir. Bu durum, zamanla mesleki becerilerin aşınmasına ve insan yaratıcılığının azalmasına yol açabilir. Doğru cevap D'dir.
 
     <hr />
+
+## Ünite 3
+
 1. Bilgisayarlar ile yaratılan gerçeklikleri tanımlamak için genişletilmiş gerçeklikten önce Paul Milgram ve Fumio Kishino’nun öne sürdüğü gerçeklik skalası kullanılmıştır. Bu skala kaç aşamadan oluşmaktadır?
     - **Cevap A-) 4**
     - B-) 2
@@ -300,6 +308,9 @@
     > **Açıklama:** İnsanların birbirleri veya kitleler ile iletişime geçmek için kullandığı aracılara ortam/medyum denilmektedir. Örnek olarak radyo bir ortamdır. Televizyon, kitaplar, basılı medya gibi ortamlar, iletişim çalışmaları altında “geleneksel ortamlar” veya “geleneksel medya” olarak adlandırılmaktadırlar. Dolayısıyla cevap C şıkkıdır.
 
     <hr />
+
+## Ünite 4
+
 1. 1\. Popüler seriler anlatılarını video oyunları aracılığıyla genişletebilirler.<br />2\. Transmedya hikayelerin bazı parçaları oyunlar üzerinden deneyimlenebilir.<br />3\. Oyunlar, hikayelerin tüketicilerine anlatı sürecinde aktif roller sunarlar.<br />Yukarıda verilen ifadelerden hangisi veya hangileri oyunlar ve transmedya ilişkisi hakkında söylenebilir?
     - A-) Sadece II
     - B-) Sadece III
@@ -430,6 +441,9 @@
     > **Açıklama:** Henry Jenkins’in (2009) “yakınsama kültürü” kavramı, medya tüketicilerinin içerikle ilişki kurma biçimindeki değişimin altını çizmektedir.
 
     <hr />
+
+## Ünite 5
+
 1. Aşağıdakilerden hangisi "açık sistem" transmedya projesine örnek olarak gösterilebilir?
     - **Cevap A-) Sofia’s Diary**
     - B-) BeActive
@@ -530,6 +544,9 @@
     > **Açıklama:** Hegemonik okuma: Okuyucu metinleri üretenlerin niyetleri ve amaçlarına paralel bir şekilde okuma yaparak profesyonellerin bakış açısına bağlı kalır.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıdakilerden hangisi *Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkelerinden* **değildir?**
     - A-) Çoklu platform entegrasyonu
     - B-) Etkileşim ve katılım
@@ -630,6 +647,9 @@
     > **Açıklama:** **Transmedya,** hikâye anlatımının ve içeriğin farklı medya platformları üzerinden genişletilmesi<br />ve entegre edilmesi anlamına gelir.
 
     <hr />
+
+## Ünite 7
+
 1. Aşağıdakilerden hangisi transmedya hikâye anlatımının kullanıldığı alanlardan biri değildir?
     - A-) Hollywood eğlence sektörü
     - B-) Halkla ilişkiler
@@ -730,6 +750,9 @@
     > **Açıklama:** Kullanıcıların içerik üretimini ve paylaşımını artırması. Web 2.0’ın gelişiyle birlikte, kullanıcı tarafından oluşturulan içeriklerin yanı sıra, etkileşimli içeriklerin sunumu, haberlere dahil olma, eğlendirme gibi kullanıcı deneyimlerinin bir parçası olunca içeriğe katılım sağlamaya başlamıştır .
 
     <hr />
+
+## Ünite 8
+
 1. 1\. “………………. , bilginin yayılmasında devrim yaratmakla kalmayıp aynı zamanda modern grafik tasarımın da temelini atan önemli bir yenilik olarak kabul edilmektedir.”<br />**Cümlesindeki boşluğa getirilecek en uygun seçenek aşağıdakilerden hangisidir?**
     - A-) İnternet
     - B-) Bilgisayar
@@ -830,3 +853,4 @@
     > **Açıklama:** Yapay Zeka, doğru seçenektir.
 
     <hr />
+

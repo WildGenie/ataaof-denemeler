@@ -131,7 +131,7 @@ def convert_to_markdown(course_name, donem):
     # Filter out duplicates and cancelled questions upfront
     valid_questions = []
     for q in questions:
-        # Skip duplicates
+        # Skip duplicates (includes both exact matches and near-duplicates)
         if q.get('is_duplicate'):
             continue
 

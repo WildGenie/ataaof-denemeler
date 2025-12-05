@@ -1,5 +1,7 @@
 # Dijital Video Kurgu ve Efekt - Alıştırma Soruları
 
+## Ünite 1
+
 1. "......... ile yapılan çekimlerde kameraya doğru olan hareketler daha hızlı, yatay hareketler ise<br />göreceli olarak daha yavaş algılanırlar." ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?
     - A-) Ana Sahne Tekniği
     - B-) Üçlü Çekim Tekniği
@@ -200,6 +202,9 @@
     > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Anlatı Yapısı” konusunu yeniden gözden geçiriniz.<br />**Master Scene Technique (Ana Sahne Tekniği)**<br />Ana sahne tekniği yöntemiyle ilk başta sahne genel çekimde baştan sona çekilir. Daha sonrasında<br />ise yönetmen belirlediği ilk çekilen genel çekimdeki belli aksiyon parçalarının ve rollerin tekrar<br />değişik açı ve ölçekler ile bir kere daha çekilmesine karar verir. Bu yeniden çektiği ara parçaları<br />kurgu aracılığı ile ana çekim olan genel çekimin belirlenmiş ara noktalarına yerleştirir. Bu yöntem<br />içerisinde çekim sayısı belli oranda arttığından maliyetlerin de artacağını öngörmek gerekmektedir. Aynı şekilde, çekim sayısı arttığı için haliyle yer alacak kurgu düzenlemesi sayısı da artabilmektedir
 
     <hr />
+
+## Ünite 2
+
 1. 19\. yüzyılın sonlarına doğru görüntü kaydının yapıldığı ışığa duyarlı kimyasal yüzey aşağıdakilerden hangisidir?
     - **Cevap A-) Pelikül**
     - B-) U-Matic
@@ -400,6 +405,9 @@
     > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri / Sinema Filmi Üretiminde Kurgucunun Görevleri<br />Sinemada üretim, yapım öncesi (pre prodüksiyon), yapım (prodüksiyon) ve yapım sonrası (post prodüksiyon) olarak üçe ayrılmaktadır.<br />Post prodüksiyon süreci, yani yapım sonrası aşaması çekimler bittikten sonra başlamaktadır. Kurguda kullanılacak görüntü ve sesler post prodüksiyon işlemlerinin yapılacağı yerde toparlanır. Bu aşama temelde üç kısımdan oluşmaktadır. Görüntülerin kurgulanıp renk düzenlemelerinin yapılması; eğer varsa görüntü efektlerinin ve bilgisayarla üretilen görüntülerin (CGI, Computer-generated imagery) eklenmesi ve son olarak ses düzenlemelerinin yapılması.
 
     <hr />
+
+## Ünite 3
+
 1. Aşağıdakilerden hangisi bindirme tekniğinin avantajlarından biridir?
     - A-) İki ayrı yerde geçen olayı farklı anlarda göstermek
     - B-) Bir işin başlangıç ve en son durumunu aynı anda değil, farklı anlarda ortaya koymak
@@ -600,6 +608,9 @@
     > **Açıklama:** Doğru yanıt D şıkkıdır<br />İlk sahnedeki görüntünün netliğini yavaş yavaş kaybedip belirsizleşmesini sağlamak bulanıklaştırmadır.
 
     <hr />
+
+## Ünite 4
+
 1. Adobe Premiere Pro kurgu yazılımının arayüzü Thomas ve John Knoll kardeşler tarafından geliştirilirken kullanıcı dostu olması nedeniyle hangi esin kaynağı kullanılmıştır?
     - A-) Youtube.
     - B-) Avid.
@@ -810,6 +821,9 @@
     > **Açıklama:** Yapay zeka destekli özellikler, Adobe Sensei ile zenginleştirilerek, düzenleme süreçlerini daha da otomatikleştirir ve kullanıcıların yaratıcı süreçlerde zaman kazanmalarını sağlar.
 
     <hr />
+
+## Ünite 5
+
 1. **Aşağıdaki ifadelerden hangisi** **dikey kurgu türüne örnektir?**
     - A-) Kurmaca film.
     - B-) Belgesel film.
@@ -1010,6 +1024,9 @@
     > **Açıklama:** İki monitör söz konusudur: Source monitör, program monitör. Kurguyu ise program monitörden izleriz. Doğru yanıt A dır.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıdakilerden hangisi doygunluk kavramı ile eş anlamlı kullanılabilmektedir?
     - A-) Ton
     - **Cevap B-) Kroma**
@@ -1210,6 +1227,9 @@
     > **Açıklama:** Videoda Rengi Doğru Okuma Araçları<br />Histogram pozlamayı değerlendirmek için de kullanılabilir ancak en çok çekimleri dengelemede ve yasal luma değerlerini belirlemede yardımcı olur. Histogram soldan sağa doğru okunur, gölgeler solda ve parlak noktalar sağdadır. Her pikselin luma değeri çubuk grafik biçi­minde gösterilir ve pikseller her luma seviyesinde üst üste yığılır. Az pozlanmış çekimden başlayarak, piksellerin histogramın sol tarafında gölgelerde toplandığını görebiliriz. Aşırı pozlanmış çekimde, tüm iz­lerin parlak noktalarda sağa doğru toplandığı görülüyor. Doğru poz­lanmış çekim histogram boyunca oldukça eşit bir dağılım gösterir. Renk dengesi sorunları olan görüntülerde kanallar arasında düzensiz­lik rahatça gözlemlenir.
 
     <hr />
+
+## Ünite 7
+
 1. 3B Post prodüksiyon, görsel bir ürün elde etmek için görüntüleri yönetmeye, taşımaya ve manipüle etmeye adanmış bir iş akışını tanımlar ve belirli bazı amaçlar için kullanılır. Aşağıdakilerden hangisi bu amaçlardan birisi değildir?
     - **Cevap A-) Boşluk izlenimi yaratmak**
     - B-) Derinlik izlenimi yaratmak
@@ -1410,6 +1430,9 @@
     > **Açıklama:** Render Pass, üç boyutlu sahnelerde yaratılmış olan tüm unsurların farklı özelliklerini ayrı sekans dosyaları şeklinde çıktı alabilmek anlamına gelen terimdir.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
+
+## Ünite 8
+
 1. Aşağıdaki ifadelerden hangisi **yanlıştır**?
     - A-) M (Mute) düğmesi ile ses kanalı sessiz hale getirilir.
     - B-) S (Solo) düğmesi ile birçok ses kanalı içinden yalnızca istenilen ses kanalındaki ses dinlenebilir.
@@ -1510,3 +1533,4 @@
     > **Açıklama:** Görüntü ile eş anlamlı ilk uzun metrajlı sesli film 1927'de Alan Crosslan'ın yönettiği Jazz filmidir. Bu nedenle doğru yanıt b şıkkıdır.
 
     <hr />
+

@@ -1,5 +1,7 @@
 # Kurumsal Kimlik Tasarımı - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Kurumsal **...**, kurumun paydaşlarına (çalışanlar, müşteriler, tedarikçiler, medya vb.) yönelik iletişim stratejilerini ve mesajlarını belirler" tanımında yer alan boşluğa gelmesi gereken en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Tasarım
     - **Cevap B-) İletişim**
@@ -200,6 +202,9 @@
     > **Açıklama:** Kurumsal kimlik<br />Görsel kimlik, markanın zihinlerde algılanmasını ve hatırlanmasını sağlayan en önemli unsurdur. Görsel kimlik, bir markanın “giyindiği elbise” olarak düşünülebilir.
 
     <hr />
+
+## Ünite 2
+
 1. Apple firmasının, hem iPhone gibi mobil cihazlarını hem de Macbook gibi bilgisayar ürünlerini aynı Apple markası altında sunması, hangi tip marka mimarisine örnek oluşturur?
     - A-) Sabit Marka Mimarisi
     - B-) Esnek Marka Mimarisi
@@ -400,6 +405,9 @@
     > **Açıklama:** **İnovasyon ve Uyarlanabilirlik:** Başarılı markalar zamanla değişen pazar koşullarına ayak uydurabilir ve yeniliklere açık olabilir. İnovasyon ve uyarlanabilirlik, markanın uzun vadeli başarısını destekler.
 
     <hr />
+
+## Ünite 3
+
 1. Aşağıdakilerden hangisi Sembollerde bulunması gereken özelliklerden biri **değildir?**
     - **Cevap A-) Karmaşık bir anlatım dili hedeflenmelidir.**
     - B-) Sembolün tanıması ve anlamlandırması için nesne doğru şekilde tasvir edilmelidir.
@@ -510,6 +518,9 @@
     > **Açıklama:** Benzerlik İlkesidir<br />Nesneleri birbirine benzemesi, ritim oluşturacak şekilde grup veya motif şeklinde görünmesidir. Benzer biçimlerin grup içerisinde bir bütün olarak algılanmasına karşın, aslında birbirinden farklı oldukları durumdur
 
     <hr />
+
+## Ünite 4
+
 1. Bir tasarımın basıldığında nasıl görüneceğini tahmin etme, son üründe kullanılacak gerçek kâğıt, mürekkep setleri ve asıl baskının alınacağı makineden alınan bir çıktı örneğine ne denir?
     - **Cevap A-) Baskı Provası**
     - B-) Uygulama Aşaması
@@ -710,6 +721,9 @@
     > **Açıklama:** Uygulama aşaması, son çıktıların ve ürünlerin kuruma teslim edilmesi ile sona erer. Bu aşamada dikkat edilmesi gereken unsurlar şöyledir (Ambrose & Harris, 2010)<br />* Kurum tasarımları onayladı mı?<br />* Baskı veya üretim süreçleri hazırlandı mı?<br />* Tasarım üretime doğru iletildi mi?<br />* Baskı provası alındı mı, onaylandı mı?<br />* Kuruma proje materyalleri teslim edildi mi?
 
     <hr />
+
+## Ünite 5
+
 1. Aşağıdakilerden hangisi CMYK modu içerisinde yer alan bir kavram değildir?
     - A-) Cyan
     - B-) Magenta
@@ -910,6 +924,9 @@
     > **Açıklama:** **HEX:** Hexadecimal, bilgisayar sistemlerinde renk­lerin kodlanmasında kullanılan bir sayı sistemini ifade eder. HEX renk kodları, genellikle web tasarımı ve di­jital grafik tasarımında renkleri belirtmek için kulla­nılır. HEX kodları, 0 ile 9 arasındaki sayılar ile A’dan F’ye kadar olan harfleri içeren bir sistemdir.
 
     <hr />
+
+## Ünite 6
+
 1. Alt markaların öne çıkarılması amacıyla ana markanın belirli bir ölçüde küçültülmesi stratejisi aşağıdakilerden hangisi ile tanımlanır?
     - **Cevap A-) Markalar evi**
     - B-) Hibrit marka mimarisi
@@ -1110,6 +1127,9 @@
     > **Açıklama:** Onaylanmış marka modeli, öncü marka ile ilişkili alt markaların bulunduğu bir sistemdir. Bu durumda, her bir alt marka, tüm markaların gücünden faydalanmaktadır. Çoğu zaman, ana markanın görsel kimliğine benzerlikler görünebilir. Onaylanmış marka mimarisi, ana markanın itibarından, marka değeri, tanınma ve güvenirliği elde etmesini kolaylaştırmaktadır. Bu yaklaşım, bir yandan her bir alt markanın ana markadan ayrılmadan kendi özgün kimliğine sahip olmasını arzulayan, öte yandan karma bir model kullanan şirketler için idealdir.
 
     <hr />
+
+## Ünite 7
+
 1. Aşağıdakilerden hangisi görsel kimlik unsurlarından yer alır?
     - A-) Kurumsal Yapı
     - B-) Çalışan Davranışı
@@ -1310,6 +1330,9 @@
     > **Açıklama:** Marka farkındalığı, tüketicilerin bir markayı tanıdığı ve hatırladığı derecedir. Tutarlı bir kurumsal<br />kimlik, işletmelerin markalarını daha hızlı tanınır ve hatırlanır hâle getirerek marka farkındalığını artırır.<br />Doğru yanıt B şıkkıdır.<br />**Marka farkındalığı**, tüketicilerin bir markayı tanıdığı ve hatırladığı derecedir. Tutarlı bir kurumsal<br />kimlik, işletmelerin markalarını daha hızlı tanınır ve hatırlanır hâle getirerek marka farkındalığını artırır.
 
     <hr />
+
+## Ünite 8
+
 1. 1\. Marka değerlerini yansıtır.<br />II. Marka ismini belirler.<br />III.Markanın tipografisini oluşturur.<br />IV. Marka kişiliğinin oluşumuna katkı sağlar.<br />V. Markanın iletmek istediği mesajı görsel olarak iletir.<br />Logo için yukarıda verilen ifadelerden hangileri **söylenemez**?
     - A-) I-II
     - B-) III-IV
@@ -1610,3 +1633,4 @@
     > **Açıklama:** Web sitelerinde, çevrimiçi reklamcılıkta ve dijital pazarlamada kullanılan görsel bir reklam türü olan web banner, genellikle web sayfalarının üst kısmında veya sağ/sol sütunlarda belirli ölçülerde yer alır ve kullanıcıların dikkatini çekmeyi, bir ürünü veya hizmeti tanıtmayı, bir etkinliği duyurmayı veya belirli bir eylemi gerçekleştirmelerini teşvik etmeyi amaçlar
 
     <hr />
+

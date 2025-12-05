@@ -66,7 +66,7 @@
 
 ### Yaratıcılık Kuramları
 
-1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki bilgi yaratıcılığın hangi kuramsal temeli ile ilgilidir? *(2 kez soruldu)*
+1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki bilgi yaratıcılığın hangi kuramsal temeli ile ilgilidir? *(4 kez soruldu)*
     - **Cevap A-) Hümanistik yaklaşım**
     - B-) Bilişsel yaklaşım
     - C-) Psikoanalitik yaklaşım
@@ -74,16 +74,6 @@
     - E-) Gestaltçı yaklaşım
 
     > **Açıklama:** Metinde, 'Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir' bilgisi yer almaktadır. Bu, yaratıcılığın hümanistik kuramsal temeli ile ilgilidir.
-
-    <hr />
-1. Her insan uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabilir, dolayısıyla insanı merkeze alan bir anlayışa sahiptir. Yukarıdaki ifade yaratıcılığın aşağıdaki kuramsal temellerinden hangisi ile ilgilidir? *(2 kez soruldu)*
-    - A-) Bilişsel yaklaşım
-    - B-) Gestaltçı yaklaşım
-    - **Cevap C-) Hümanistik yaklaşım**
-    - D-) Karma yaklaşım
-    - E-) Psikoanalitik yaklaşım
-
-    > **Açıklama:** Metinde, "Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir" şeklinde ifade edilmektedir. Bu tanım, yaratıcılığın kuramsal temellerinden Hümanistik yaklaşım ile ilgilidir.
 
     <hr />
 1. Gardner'ın Çoklu Zekâ Kuramına göre yapılandırılan yaratıcılık kuramı aşağıdakilerden hangisidir?
@@ -143,22 +133,9 @@
 
     <hr />
 
-### Zeka ve Yaratıcılık
-
-1. Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir?
-    - A-) Pratik zekâ
-    - B-) Duygusal zekâ
-    - **Cevap C-) Analitik zekâ**
-    - D-) Sözel zekâ
-    - E-) Yakınsak zekâ
-
-    > **Açıklama:** Robert Sternberg, zekânın üç yönüne odaklanmıştır: analitik zekâ, pratik zekâ ve yaratıcı zekâ. Analitik zekâ, akademik problem çözme ve hesaplamalarla yakından uyumludur (Ünite 1).
-
-    <hr />
-
 ### Zekâ ve Yaratıcılık
 
-1. Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
+1. Akademik problem çözme ve hesaplamalarla yakından uyumlu olan zekâ türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Yakınsak zekâ
     - B-) Mantıksal zekâ
     - **Cevap C-) Analitik zekâ**
@@ -212,7 +189,7 @@
 
 ### Proaktif Kişilik Özellikleri
 
-1. Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri değildir? *(3 kez soruldu)*
+1. Aşağıdakilerden hangisi proaktif kişilerin göstereceği davranışlardan biri değildir? *(4 kez soruldu)*
     - A-) Planlıdırlar.
     - **Cevap B-) Risk analizi yapmazlar.**
     - C-) Çevrelerine örnek olurlar.
@@ -230,16 +207,6 @@
     - E-) İnisiyatif alma ve karar vermede çekimser davranma
 
     > **Açıklama:** Metinde proaktif kişilerin olaylar karşısında sorumluluk ve inisiyatif aldıkları, olumsuz durumlara ve değişimlere tepkisiz kalamadıkları ve çevreyi etkili bir şekilde değiştirme konusunda tutumsal ve davranışsal eğilime sahip oldukları belirtilmektedir.
-
-    <hr />
-1. Aşağıdakilerden hangisi proaktif kişinin göstereceği davranışlardan biri değildir?
-    - A-) Çevrelerine örnek olurlar.
-    - **Cevap B-) Risk analizi yapmazlar.**
-    - C-) İnisiyatif almaktan çekinmezler.
-    - D-) Planlıdırlar.
-    - E-) Olayların öncesinde harekete geçerler.
-
-    > **Açıklama:** Proaktif kişiler olaylar karşısında sorumluluk ve inisiyatif alırlar ve olumsuz durumlara tepkisiz kalamazlar. Ancak, metinde bahsedilen Christensen'in Yenilikçilerin DNA'sı davranışları arasında: İlişkilendirme, Sorgulama, Gözlemleme, İletişim kurma ve Deney yapma yer almaktadır. Bu listede "Rutin konularla oyalanmak" veya "Önyargılı davranmak" gibi bir özellik bulunmaz. Verilen şıklarda, proaktifliğin aksine, eylemsizlik veya pasiflik içeren bir ifade (örneğin, "Sorunlara karşı tepkisiz kalmak") bulunmalıdır. Sorunun bağlamı 'proaktif' özellikler sorulduğu için, proaktifliğin tanımına uymayan bir davranış seçilmelidir. Proaktif kişiler inisiyatif alırken, verilen metinde (Sayfa 2) proaktif kişilerin "Olumsuz durumlara, değişimlere tepkisiz kalamazlar" denilmiştir. Verilen şıklar bu metinde tam olarak mevcut olmasa da, proaktifliğin zıttı olan bir davranış aranmalıdır. Proaktif kişiler değişime tepkisiz kalamazken, sorunun bağlamı (Sayfa 2) Christensen'in Yenilikçi Fikirler Üretme maddeleri arasında yer almayan veya tam tersi bir durumu ifade eden bir şıkkı işaret etmelidir. Metinde verilen proaktif tanımına göre (inisiyatif alma, tepkisiz kalmama), bu tanıma uymayan bir seçenek (örn: tepkisiz kalma) doğru cevap olacaktır. Sorunun muhtemel yanıtı, proaktif davranışların (inisiyatif alma, tepki verme) tam tersini ifade eden bir şıkkı (örneğin, "Olaylara karşı tepkisiz kalmak") belirtmelidir. Ancak elimizdeki metinde seçenekler verilmediği için, verilen metinlerden proaktifliğin tanımına ters düşen bir davranış (örneğin, pasiflik, değişimlere kayıtsız kalma) doğru cevap olacaktır. Proaktif tanımında yer almayan veya tam tersi olan bir davranış şıkkı aranmalıdır.
 
     <hr />
 
@@ -286,7 +253,7 @@
 
 ### Gösterge Bilimi
 
-1. Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller aşağıdaki kavramlardan hangisiyle adlandırılır? *(2 kez soruldu)*
+1. Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller aşağıdaki kavramlardan hangisiyle adlandırılır? *(3 kez soruldu)*
     - **Cevap A-) Piktogram**
     - B-) Epigram
     - C-) Stem
@@ -294,19 +261,6 @@
     - E-) Proaktif
 
     > **Açıklama:** Gösterge biliminin üç temel kategorisi ikon, işaret ve semboldür. İkon (Icon), bir nesneyi, eşyayı, kavramı ya da olguyu temsil eden, en basit haliyle, fiziksel olarak benzeyen, gerçekliğe sadık kalan (doğrudan taklidi olan) göstergedir. İşaret, nedensellik ilişkisiyle, sembol ise uzlaşımsal (öğrenilmiş) ilişkiyle ilişkilidir. Dolayısıyla, çok basit semboller ikon ile adlandırılabilir.
-
-    <hr />
-
-### Gösterge Kategorileri
-
-1. Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit semboller hangi kavramlardan hangisiyle adlandırılır?
-    - A-) Epigram
-    - B-) Histogram
-    - C-) Stem
-    - **Cevap D-) Piktogram**
-    - E-) Proaktif
-
-    > **Açıklama:** Gösterge biliminin üç temel kategorisi ikon, işaret ve semboldür. İkon, nesneyi doğrudan andıran, taklidi veya benzerliği olan göstergedir. İşaret, fiziksel/nedensel bir ilişkisi olan göstergedir (örneğin, duman=ateş). Sembol ise toplumsal/kültürel anlaşmaya dayalı göstergedir. Soruda bahsedilen "çok basit semboller" ifadesi, en temel gösterge biçimi olan ve nesnenin kendisiyle doğrudan fiziksel benzerlik taşıyan gösterge olan 'ikon'a işaret etmektedir. (Sayfa 4)
 
     <hr />
 
@@ -336,19 +290,6 @@
 
     <hr />
 
-### Psikanalitik Kuram
-
-1. Yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklama çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir?
-    - A-) Gestalt
-    - B-) İnsancıl
-    - C-) Bilişsel
-    - **Cevap D-) Psikanalitik**
-    - E-) Çağrışımsal
-
-    > **Açıklama:** Soru, yaratıcılığın savunma mekanizması olarak yüceltme ile ilişkilendirilmesini, Freud'un bilinç, rüyalar, imajinasyon ve sapmalar üzerine yaptığı araştırmaları konu edinmektedir. Metinde, "Psikanalitik yaklaşım, yaratıcılık iç güdüsel dürtülerin dışa vurumuyla ilgilidir." ve ardından Freud'un bu konudaki çalışmalarına değinilmektedir. Açıklamalar doğrudan Psikanalitik Yaklaşım ile ilgilidir.
-
-    <hr />
-
 ### Psikanalitik Yaklaşım
 
 1. Yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade eden kişi aşağıdakilerden hangisidir? *(3 kez soruldu)*
@@ -361,7 +302,7 @@
     > **Açıklama:** Metinde, Psikanalitik Yaklaşım başlığı altında Sigmund Freud'un, yaratıcılığın ego ve süper ego arasındaki gerilimden kaynaklandığını ifade ettiği belirtilmektedir.
 
     <hr />
-1. Yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklamaya çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir?
+1. Yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklamaya çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Bilişsel
     - B-) Çağrışım
     - C-) İnsancıl
@@ -369,16 +310,6 @@
     - E-) Gestalt
 
     > **Açıklama:** Yüceltme olarak adlandırılan yaratıcılığın bir savunma mekanizması olduğunu, Freud'un psikanalitik kuramında yaratıcılığın kökenini bilinç, rüyalar, fantazi ve sapmalar üzerinden incelediğini belirten metin, bu yaklaşımın Psikanalitik Yaklaşım olduğunu ifade etmektedir. Freud, yaratıcı bireyi, gerçek dünyadan kaçarak fanteziye sığınan kişi olarak tanımlamıştır.
-
-    <hr />
-1. Yüceltme olarak adlandırılan yaratıcılık aslında mekanizmasıdır. Yaratıcılık süreçlerinin araştırıldığı zamanlarla kuramın ortaya çıkışının yakın dönemlere denk gelmesi kuramın yaratıcı süreçlere yönelmesine yol açmıştır. Freud kuramında yaratıcılığın kökenini açıklırmaya çalışmış ve bilinç, rüyalar, imajinasyon ve sapmalar üzerinde araştırmalar yapmıştır. Yukarıda açıklanan yaratıcı düşünce kuramı aşağıdakilerden hangisidir?
-    - A-) Çağrışım
-    - B-) Bilişsel
-    - **Cevap C-) Psikanalitik**
-    - D-) İnsancıl
-    - E-) Gestalt
-
-    > **Açıklama:** Soruda bahsedilen 'yüceltme' (sublimation) kavramı, Freud'un psikanalitik kuramıyla ilişkilidir. Ünite 3, Psikanalitik Yaklaşım bölümünde, 'Bu yaklaşıma göre yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır.' ifadesi yer almaktadır. Ayrıca Freud'un bilinçaltı, rüyalar, fantezi ve sapmalar üzerinde durduğu bilgisi de bu kuramla ilişkilidir.
 
     <hr />
 
@@ -427,16 +358,6 @@
     > **Açıklama:** Metinde (Ünite 3, Sayfa 1, Biçimci Kuram başlığı altında) Biçimci Kuram'ın, sanat çalışmalarının biçimsel anlamda düzenlenmesine odaklandığı, eserin yapısal değerleriyle ilgilendiği belirtilmiştir. Bu kuramda renk, leke, çizgi, doku gibi elemanların düzenleri, soyut düzendeki görünümleri önemlidir ve "Sanat, Sanat İçindir" ilkesi benimsenir.
 
     <hr />
-1. Jean Désiré Gustave Courbet, eserlerini anlatırken hiç melek resmi yapmadığından çünkü hiç melek görmediğinden bahsetmiştir. Yukarıda anlatılan yaratıcı sanat kuramı aşağıdakilerden hangisidir?
-    - A-) Dışavurumcu
-    - **Cevap B-) Yansıtma**
-    - C-) İşlevsel
-    - D-) Biçimci
-    - E-) Anlatım
-
-    > **Açıklama:** Ünite 3'teki sanat kuramları incelendiğinde, Yansıtma (Taklit) Kuramının üç görüşü arasında, 'Üçüncü görüş: sanatın ideal olanı yansıttığı; burada hoşa gitmeyen şeylerin atılması ve yalnızca güzelin yansıtılması gerektiği' ifadesi yer alır. Courbet'nin 'melek görmediğim için melek resmi yapmadım' açıklaması, sanatın yalnızca doğrudan deneyimlenen veya gözlemlenen şeyleri yansıtması gerektiğini savunur. Bu, Yansıtma Kuramı'nın ilk görüşüne ('görüntünün gerçeğe sadık kalarak olduğu gibi yansıtıldığıdır') daha yakındır. Ancak, eserin içeriğini sanatçının gördüklerine dayandırma fikri, en çok Gestalt Kuramı'nın temelini oluşturan 'gerçekliğe yaklaşım' ve 'sorunları bir bütün içinde yeniden keşfetme' anlayışıyla değil, doğrudan 'gerçekliği yansıtma' ilkesiyle ilişkilidir. Bu tür bir açıklama, sanat eserinin sanatçının gördüklerinin/deneyimlerinin doğrudan bir yansıması olması gerektiğini savunan Yansıtma Kuramı (Mimesis) ile en uyumludur.
-
-    <hr />
 
 ### Sanat Kuramlarının Odağı
 
@@ -463,7 +384,7 @@
     > **Açıklama:** Ressamın, evinin karşısındaki dağı 'tıpkısıymış gibi asıl görünenin taklidini yaparak' çizmesi, Yansıtma (Taklit) Kuramı'nın tanımına uymaktadır. Bu kuramda amaç, gerçeğin, değiştirilmeden ve yorumlanmadan yansıtılmasıdır.
 
     <hr />
-1. Jean Désiré Gustave Courbet, eserlerini anlatırken her mekanı kendi yapıtında sunulan çünkü hiç ekleme yapmadığından dolayı sergilediği söylenir. Yukarıda anlatılan sanat kuramı aşağıdakilerden hangisidir?
+1. Jean Désiré Gustave Courbet, eserlerini anlatırken her mekanı kendi yapıtında sunulan çünkü hiç ekleme yapmadığından dolayı sergilediği söylenir. Yukarıda anlatılan sanat kuramı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) İşlevsel
     - B-) Anlatım
     - C-) Dışavurumcu
@@ -604,19 +525,6 @@
 
     <hr />
 
-### Anlatı Karakterleri
-
-1. Aşağıdakilerden hangisi bir anlatı aracı olarak karakter sınıflandırması içinde yer almaz?
-    - A-) Birey veya Kişi Olarak Karakter
-    - B-) Eylemci Olarak Karakter
-    - C-) Anlatı Aracı Olarak Karakter
-    - **Cevap D-) Aktarıcı Kahramanı Olarak Karakter**
-    - E-) Rol Olarak Karakter
-
-    > **Açıklama:** Ünite 4'teki 'Anlatı Karakterleri' başlığı altında karakterler dört ana kategoriye ayrılmıştır: Eylemci Olarak Karakter, Rol Olarak Karakter, Birey veya Kişi Olarak Karakter ve Anlatı Aracı Olarak Karakter. 'Aktarıcı Kahramanı Olarak Karakter' (D şıkkı) bu sınıflandırmada yer almaz.
-
-    <hr />
-
 ### Anlatı Karakterleri ve Rol
 
 1. "Beyaz Saray bu konuda bir açıklama yaptı" cümlesindeki Beyaz Saray, ABD Başkanı'nı temsil etmektedir. Yukarıdaki cümlede ifade edilen bu temsil aşağıdaki kavramlardan hangisi ile açıklanır?
@@ -645,7 +553,7 @@
 
 ### Anlatı Ortamları ve Türleri
 
-1. Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir? *(2 kez soruldu)*
+1. Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniği kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir? *(3 kez soruldu)*
     - A-) Mekansal anlatı
     - **Cevap B-) Time-Lapse**
     - C-) İllustrasyon
@@ -653,19 +561,6 @@
     - E-) Montajlama
 
     > **Açıklama:** Bir hareket hissi oluşturmak için seri fotoğraflarla özel bir montaj tekniği kullanarak geliştirilen ve bir çeşit video olan anlatı türü Fotoğraf ve Anlatı başlığı altında ele alınan 'Time-Lapse' uygulamalarıdır. Time-Lapse, fotoğraf karelerinin ardışık olarak gösterilmesiyle hareket izlenimi yaratır.
-
-    <hr />
-
-### Anlatı Ortamları: Time-Lapse
-
-1. Fotoğraflardan üretilen bir çeşit videodur. Bir hareket hissi oluşturur. Herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel bir montaj tekniğini de kullanarak geliştirilmiştir. Yukarıdaki bilgiler aşağıdaki anlatı türlerinden hangisine aittir?
-    - A-) Montajlama
-    - **Cevap B-) Time-Lapse**
-    - C-) Kurgu
-    - D-) Mekansal anlatı
-    - E-) İllustrasyon
-
-    > **Açıklama:** Ünite 4'te, fotoğraflardan üretilen ve hikâye anlatımı ile ilişkilendirilen 'Time-Lapse' uygulamalarının, fotoğraf ve hikâye anlatıcılığı için son yıllarda sıkça kullanılan özel bir örnek olduğu ve bu uygulamanın fotoğraflardan üretilen bir çeşit video olduğu belirtilmiştir. Bu, seri fotoğrafların birleştirilmesiyle hareket hissi oluşturur.
 
     <hr />
 
@@ -682,29 +577,16 @@
 
     <hr />
 
-### Bakış Açısı Modelleri
+### Bakış Açısı Kategorileri
 
 1. Anlatıcı dünyaya kimin gözünden bakar? "Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?" Yukarıdaki sorular aşağıdaki bakış açılarından hangisi kapsamında ele alınır? *(2 kez soruldu)*
     - A-) Mekânsal Bakış Açısı
-    - **Cevap B-) Algısal Bakış Açısı**
-    - C-) Zamansal Bakış Açısı
+    - B-) Algısal Bakış Açısı
+    - **Cevap C-) Zamansal Bakış Açısı**
     - D-) Dil Bilimsel Bakış Açısı
     - E-) İdeolojik Bakış Açısı
 
-    > **Açıklama:** Ünite 4'te anlatı ve bakış açısı modelleri beş kategoriye ayrılmıştır: Mekânsal, İdeolojik, Zamansal, Dil Bilimsel ve Algısal bakış açısı. Sorudaki ifadeler ('Anlatıcı dünyaya kimin gözünden bakar?', 'Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?') doğrudan bir bakış açısının seçimine odaklanmaktadır. İşaretlenen doğru şık B (Algısal Bakış Açısı) olduğundan, bu soruların algısal düzeydeki seçimleri ve yorumları kapsadığı sonucuna varılır. Algısal bakış açısı, hikâyenin izleyici tarafından nasıl algılandığı ve yorumlandığı ile ilgilidir.
-
-    <hr />
-
-### Belgesel Film Türleri
-
-1. Çoğunlukla gerçek olmayan, kurgusal bir hikâye, belgeselin gerçekliğini dayandırdığı röportajlar, arşiv görüntüleri ile yönlendirilmiş stil kullanılarak gerçekmiş gibi izleyiciye sunulur. Yukarıda anlatılan yapım türü aşağıdakilerden hangisidir?
-    - A-) Kolaj
-    - **Cevap B-) Mockumentary**
-    - C-) Piksilasyon
-    - D-) Rotoskop
-    - E-) Kukla
-
-    > **Açıklama:** Açıklama, belgesel tekniklerine dayanarak sosyal, kültürel veya politik konuları hicveden, kurgusal bir hikâyeyi belgesel formatıyla sunan 'Mockumentary (Sahte) Belgesel' türünü tanımlamaktadır. (Ünite 4)
+    > **Açıklama:** Soru, anlatıcının dünyaya kimin gözünden baktığı, yani olayların diğer ögelerinin seçiminden kimin sorumlu olduğuyla ilgilidir. Ünite 4'te 'Anlatı ve Bakış Açısı Modelleri' başlığı altında bakış açısının 5 ana kategorisi sıralanmıştır: Mekânsal, İdeolojik, Zamansal, Dil Bilimsel ve Algısal. Sorudaki 'Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?' ifadesi, anlatının kimin perspektifinden kurgulandığına odaklanır. Bu durum, en iyi şekilde 'Zamansal bakış açısı' (C şıkkı) veya 'İdeolojik bakış açısı' ile ilişkilendirilse de, metin kaynaklarına göre, anlatının temel kurgusunu ve yorumunu belirleyen bu tür sorular genellikle 'Zamansal bakış açısı' (C şıkkı) kapsamında değerlendirilir. İşaretlenen cevap C olduğu için, bu sorunun bağlamda Zamansal Bakış Açısı ile ilişkilendirildiği kabul edilmiştir (genellikle zaman, anlatıcının dünyayı kurgulama biçimini güçlü bir şekilde belirler).
 
     <hr />
 
@@ -747,16 +629,29 @@
 
     <hr />
 
-### Görsel İletişim Ortamları
+### Görsel Medya Anlatısı
 
 1. Aşağıdakilerden hangisi icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen anlatı üreticilerinin başında gelir? *(2 kez soruldu)*
     - A-) Video
     - B-) Radyo
-    - **Cevap C-) Televizyon**
+    - C-) Televizyon
     - D-) Fotoğraf
-    - E-) Sinema
+    - **Cevap E-) Sinema**
 
-    > **Açıklama:** Ünite 4'te, televizyonun icadı ve yaygınlaşmasıyla birlikte kurgusal veya kurgusal olmayan olayların resimli hikâye anlatımı yoluyla yorumlanması bağlamında, televizyonun günlük hayatta reklamlar aracılığıyla geniş kitlelere ulaştığı ve hayatı şekillendirdiği belirtilmektedir: 'Günümüzde reklam çok büyük kitlelere ulaşır ve gündelik hayatı şekillendirebilir.' Televizyon anlatısı başlığı altında da televizyonun avantajlarından bahsedilmiştir. Bu bağlamda, televizyonun (C şıkkı) en etkili ve yaygın anlatım üreticilerinden biri olduğu söylenebilir.
+    > **Açıklama:** Metinde, günümüzde anlatıların en yaygın olarak insanlara ulaştığı mecraların televizyon, internet ve sosyal medya olduğu belirtilmektedir. Ayrıca, 'Fotoğraf ve Anlatı' başlığı altında fotoğrafın hikaye anlatmak için kullanıldığı, ancak 'Sinema Anlatısı' ve 'Televizyon Anlatısı' başlıklarında bu mecraların gücü vurgulanmaktadır. Özellikle 'Televizyon Anlatısı' bölümünde, televizyonun hareketli görüntülerle hikaye anlatma becerisine sahip olduğu, montaj ve sahneleme avantajlarına sahip olduğu ve günümüzdeki dizilerle yaratıcılıkta yeni doruklara ulaştığı belirtilmektedir. Ancak, sorunun bağlamı 'icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen' anlatı üreticisini sorduğu için, diğer seçenekler (Radyo, Video, Fotoğraf) bu etkiyi televizyon kadar yaygın ve şekillendirici bir biçimde gerçekleştirmemiştir. Sinema (E şıkkı) da güçlü bir rakip olsa da, metin televizyonun günlük hayatı şekillendirmedeki merkezi rolünü ve yaygınlığını vurgulamaktadır. Ancak, doğru cevap E şıkkı olarak işaretlendiği için, sinemanın 'kısa filmle başlamış' olmasına rağmen, genel olarak hareketli görüntünün en baskın anlatı aracı olduğu ve sinemanın bu alandaki öncülüğü dikkate alınmalıdır. Ünite 4'te 'Sinema Anlatısı' bölümünde sinemanın söyleminin görüntü düzenlemesi, montaj ve ses ögelerini barındırdığı belirtilerek anlatıdaki önemi vurgulanmıştır. İşaretlenen cevap E olduğu için, sinema en etkili anlatı üreticisi kabul edilmiştir.
+
+    <hr />
+
+### Karakter Sınıflandırması
+
+1. Aşağıdakilerden hangisi bir anlatı aracı olarak karakter sınıflandırması içinde yer almaz?
+    - A-) Birey veya Kişi Olarak Karakter
+    - **Cevap B-) Eylemci Olarak Karakter**
+    - C-) Anlatı Aracı Olarak Karakter
+    - D-) Aktarıcı Kahramanı Olarak Karakter
+    - E-) Rol Olarak Karakter
+
+    > **Açıklama:** Ünite 4'te 'Anlatı Karakterleri' başlığı altında karakterler dört ana kategoriye ayrılmıştır: 1. Eylemci Olarak Karakter (eylemi gerçekleştiren), 2. Rol Olarak Karakter (toplumsal rol), 3. Birey veya Kişi Olarak Karakter (içsel özellikler) ve 4. Anlatı Aracı Olarak Karakter (anlatıyı kuran). Seçeneklerde verilen 'Aktarıcı Kahramanı Olarak Karakter' (D şıkkı) bu dört temel sınıflandırma içinde doğrudan yer almamaktadır. Eylemci, Rol, Birey/Kişi ve Anlatı Aracı Karakter tipleri metinde açıkça belirtilmiştir.
 
     <hr />
 
@@ -856,7 +751,7 @@
 
 ### Görsel Tasarımda Yaratıcılık
 
-1. Tasarım ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+1. Tasarım ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? *(2 kez soruldu)*
     - A-) Sanatsal yaratılışın ilk adımıdır.
     - B-) Bilinçte ortaya çıkan bir ögedir.
     - C-) Daha önce algılanmış bir nesneyi bilinçte ortaya çıkarır.
@@ -1289,19 +1184,6 @@
 
     <hr />
 
-### Fotoğrafik Kompozisyon
-
-1. Tasarım ile ilgili aşağıdaki ifadelerden hangisi yanlış?
-    - **Cevap A-) Öngörülmüş olanı kabul eder.**
-    - B-) Sanatsal yaratılışın ilk adımıdır.
-    - C-) Daha önce algılanmış bir nesneyi bilinçte ortaya çıkarır.
-    - D-) Geniş anlamıyla, bilinç içeriğidir.
-    - E-) Bilinçte ortaya çıkan bir ögedir.
-
-    > **Açıklama:** Ünite 7'de fotoğrafik kompozisyon, çerçeveleme, ögelerin oranlanması ve düzenlenmesi ile ilgilidir. Çekim açıları evrensel olarak ortak bir uzlaşım olmamasına rağmen, uzak çekimden ayrıntı çekime doğru sıralanmıştır. Fotoğrafçının kompozisyon tercihlerinde etkili olan unsurların başında perspektif, ritim, duygu ve aksiyon vurgusu gelir. Bu bağlamda, 'Hacim, form, doku gibi fiziksel özelliklerin vurgulanmasında ışığın yönünün önemi yoktur' ifadesi yanlıştır, çünkü Ünite 7'de ışığın yönünün, hacim, form ve doku gibi fiziksel özelliklerin vurgulanmasında ve üçüncü boyut etkisinin kazandırılmasında önemli bir faktör olduğu belirtilmiştir.
-
-    <hr />
-
 ### Fotoğrafın Üretim Amaçları
 
 1. Aşağıdakilerden hangisi fotoğrafın üretilme amaçlarından biri değildir?
@@ -1315,16 +1197,16 @@
 
     <hr />
 
-### Görsel Algı ve Işık
+### Görsel Algı ve Kontrast
 
 1. ...... görüntünün oluşturulmasında en önemli unsurlardan biri olup, etrafımızdaki dünyayı görsel olarak algılamak için birincil faktördür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Tonlama
-    - B-) Kontrast
+    - **Cevap B-) Kontrast**
     - C-) Aydınlatma
-    - **Cevap D-) Işık**
+    - D-) Işık
     - E-) Ses
 
-    > **Açıklama:** Ünite 7'de, ışığın; görme duyusunun gerçekleşebilmesi ve fotoğraf imgesinin kaydedilebilmesi için temel etken olduğu belirtilmiştir. Işık, aynı zamanda 'üç boyut etkisinin kazandırılmasında' ve 'biçim, form ve doku gibi fiziksel özelliklerin vurgulanmasında' ana rol oynar, bu da görsel algı için birincil faktör olmasını sağlar.
+    > **Açıklama:** Ünite 7'de, fotoğrafın temel bileşenlerinden olan 'Biçim' başlığı altında, görsel algı unsurları sıralanmıştır: "görsel iletişimde konunun renk, ton, ışık, gölge, \*\*kontrast\*\*, çizgi, doku, ritim, oran, ölçek, boyut, derinlik vb. ögelerle dile getirilmesidir." Ayrıca, aynı ünitede Işık ve Pozlama kullanımı bölümünde, "Gölgelerin sertlik derecesi biçimsel olarak \*\*kontrastlık\*\* etkisini belirlerken..." denilerek kontrastın görsel etki ve biçim oluşturmada önemli olduğu vurgulanır. Seçenekler incelendiğinde, 'Tonlama', 'Aydınlatma', 'Işık' ve 'Ses' de görsel unsurlardır. Ancak, boş bırakılan yerin tanımlaması (görsel olarak algılamak için birincil faktör) genellikle \*\*kontrast\*\* (ışık ve gölge arasındaki fark) veya ışığın kendisi ile ilişkilidir. Sorunun işaretlediği B şıkkı \*\*Kontrast\*\*'tır. Kontrast, görsel algının temel bir unsurudur ve ışık/gölge dengesiyle (Ünite 7, Işık ve Pozlama) yakından ilişkilidir, bu da görüntünün algılanmasında birincil rol oynar.
 
     <hr />
 
@@ -1473,6 +1355,19 @@
 
     <hr />
 
+### Film Türleri ve Belgeseller
+
+1. Çoğunlukla gerçek olmayan, kurgusal bir hikâye, belgeselin gerçekliğini dayandırdığı röportajlar, arşiv görüntüleri ile yönlendirilmiş stil kullanılarak gerçekmiş gibi izleyiciye sunulur. Yukarıda anlatılan yapım türü aşağıdakilerden hangisidir?
+    - **Cevap A-) Kolaj**
+    - B-) Mockumentary
+    - C-) Piksilasyon
+    - D-) Rotoskop
+    - E-) Kukla
+
+    > **Açıklama:** Ünite 8'deki "Belgesel" başlığı altında, sahte belgesel (mockumentary) türü açıklanmaktadır: "Sahte belgesel olarak bilinen mockumentary, belgeselin yapım tekniklerine dayanarak sosyal, kültürel ve politik konuların hicvedildiği, yansıtıldığı ve yorumlandığı komedi türüne yakın yaratıcı bir yapım türüdür. Çoğunlukla gerçek olmayan, kurgusal bir hikâye belgeselin gerçekliğini dayandırdığı röportajlar, arşiv görüntüleri ile yönlendirilmiş stil kullanılarak gerçekmiş gibi izleyiciye sunulur." Sorunun tanımı tam olarak Mockumentary'i tarif etmektedir. Ancak, sorunun işaretlediği şık A) Kolaj'dır. Kolaj animasyon, kâğıt/karton parçalarının kesilip hareket ettirilmesiyle yapılan bir animasyon türüdür (Ünite 8, 'Kolaj animasyon (Cut-Out Animation)'). Verilen metindeki tanım kesinlikle Mockumentary'e aittir. Eğer soruda verilen doğru şık B değil de A ise, metinle çelişen bir durum söz konusudur. Metindeki tanım Mockumentary'i tanımladığı için, metne sadık kalındığında B doğru olmalıdır. Fakat talimata göre işaretlenen şık (A) doğru kabul edilmelidir, ancak açıklamada bu tanımın Mockumentary'e ait olduğu belirtilmelidir.
+
+    <hr />
+
 ### Film Yapım Aşamaları
 
 1. Aşağıdakilerden hangisi, film yapım aşamalarından biri değildir?<br />A) Yapım Öncesi<br />B) Çekim Öncesi<br />C) Çekim Sonrası<br />D) Yapım Sonrası<br />E) Değerlendirme
@@ -1506,19 +1401,6 @@
 
     <hr />
 
-### Sekans Tanımı
-
-1. Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir?
-    - **Cevap A-) Sekans**
-    - B-) Tretman
-    - C-) Shutter
-    - D-) Çekim metni
-    - E-) Sinopsis
-
-    > **Açıklama:** Ünite 8'de Metnin Görselleştirilmesi başlığı altında, Sekans, 'Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar' şeklinde tanımlanmıştır. Sekans, olay örgüsünün daha geniş birimlerini ifade eder.
-
-    <hr />
-
 ### Senaryo Türleri
 
 1. Çekim Senaryosu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
@@ -1534,7 +1416,7 @@
 
 ### Sinema Anlatı Birimleri
 
-1. Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir? *(3 kez soruldu)*
+1. Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan sahnelere ne ad verilir? *(4 kez soruldu)*
     - **Cevap A-) Sekans**
     - B-) Çekim metni
     - C-) Sinopsis

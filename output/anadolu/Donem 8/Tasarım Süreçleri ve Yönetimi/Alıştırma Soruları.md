@@ -1,5 +1,7 @@
 # Tasarım Süreçleri ve Yönetimi - Alıştırma Soruları
 
+## Ünite 1
+
 1. Aşağıdakilerden hangisi Stanford’un tasarım odaklı düşünme modeli aşamalarından biri değildir?
     - A-) Empati kurma
     - B-) Tanımlama
@@ -100,6 +102,9 @@
     > **Açıklama:** Bağlama Dayalı Pratik Olarak Tasarım Kültürü: Bu yaklaşım, tasarım kültürünü bir süreç olarak ele alırken tasarımın kolektif normlar ve uygulamalarla nasıl şekillendiğini de vurgular. Özellikle coğrafi bağlamın tasarım pratiği üzerindeki etkilerini ele alır.
 
     <hr />
+
+## Ünite 2
+
 1. Aşağıdakilerden hangisi etkili bir sunum için portfolyoda yer alan metinlerin taşıması gereken özellikler arasında yer almaz?
     - A-) Etkili ve sade
     - B-) Entelektüel açıdan güçlü
@@ -200,6 +205,9 @@
     > **Açıklama:** Ayrımcılık Yasası'nın geçerli olduğu ABD gibi bazı ülkelerde başvuru sırasında fotoğraf kullanılması değerlendirmede önyargıya yol açabileceği gerekçesiyle doğru bulunmayabilmektedir.<br />D. Başvurular arasında objektif bir değerlendirme yapılabilmesi
 
     <hr />
+
+## Ünite 3
+
 1. Aşağıdakilerden hangisi bir müzenin temel işlevlerinden biridir?
     - A-) Sadece yerel sanatçılara ait eserleri sergileme
     - B-) Sergilenen eserleri satışa sunma
@@ -300,6 +308,9 @@
     > **Açıklama:** Küratör, serginin fikri ve sanatsal yönünü belirleyen kişidir. Eser seçimi, sergi temasının oluşturulması ve anlatı düzeninin kurgulanması gibi görevleri üstlenir. Teknik kurulum, bilet satışı, sigorta ve pazarlama işlemleri ise genellikle farklı uzmanların sorumluluk alanına girer. Doğru cevap A'dır.
 
     <hr />
+
+## Ünite 4
+
 1. "1990’ların sonlarında bilgisayar aracılığıyla iletişimin yükselişi, tüketicilerin e-posta veya anlık mesaj gibi metin tabanlı bir mesajda duygusal anlamı belirtmek için ifadeleri yaygın olarak kullanmaya başlamasına neden olmuştur. Grafik simgeler olarak adlandırılabilecek ............ hem duyguları hem de yaygın olarak kullanılan ögeleri ifade etmenin bir yolu hâline gelmiştir." ifadesindeki boşluğa aşağıdaki kelimelerden hangisi gelmelidir?
     - **Cevap A-) emojiler**
     - B-) tipografiler
@@ -400,6 +411,9 @@
     > **Açıklama:** **Duyusal Pazarlama:** Duyusal markalaşma olarak da bilinen duyusal pazarlama, tüketicilere 5 duyunun tamamıyla hitap eden bir pazarlama şeklidir. Her bir duyu, tüketicilerle duygusal bir düzeyde ilişki kurmak için kullanılır.
 
     <hr />
+
+## Ünite 5
+
 1. Aşağıdakilerden hangisi Sanal gerçeklik teknolojilerinin temel özelliklerinden **değildir?**
     - A-) Tamamen Dijital Ortam
     - B-) Immersif Deneyimler
@@ -500,6 +514,9 @@
     > **Açıklama:** **Genel Yapay Zekâ (Artificial General Intelligence):**<br />İnsan gibi düşünebilen ve birden fazla görevi öğrenip yerine getirebilen sistemlerdir. Şu anda teorik bir düzeyde bulunmakta olup tasarım dünyasında etkileri üzerine çalışmalar devam etmektedir.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıdakilerden hangisi dijital çağın başlangıcına öncülük eden teknolojik gelişmelerden biridir?
     - A-) Matbaanın icadı
     - **Cevap B-) Bilgisayarların tasarım süreçlerine entegrasyonu**
@@ -600,6 +617,9 @@
     > **Açıklama:** Yapay zekâ ve dijital araçlar, tekrarlayan görevleri otomatikleştirerek tasarımcıların yaratıcı ve stratejik süreçlere daha fazla odaklanmasına olanak tanımaktadır. Bu durum, mesleki rolün evrimi ve interdisipliner çalışma gerekliliğini ortaya koymaktadır.
 
     <hr />
+
+## Ünite 7
+
 1. 1985 yılında Lİve Aid konserleri yaparak küresel farkındalık sağlayan sanatçı kimdir.
     - A-) Bono
     - B-) Cem Karaca
@@ -700,6 +720,9 @@
     > **Açıklama:** İKEA tarafından kullanılan Sürdürülebilir Orman Sertifikasının kısaltılmış adı FSCdir, sorunun yanıtı B şıkkıdır.
 
     <hr />
+
+## Ünite 8
+
 1. A/B Testi ve Kullanılabilirlik Testi, kullanıcı araştırmasında kullanılan iki yöntemdir. Bu yöntemler ile ilgili olarak aşağıdakilerden hangisini söylenebilir?
     - A-) Kullanılabilirlik testi, kullanıcıların doğal ortamlarında bir ürün veya hizmetle nasıl etkileşime girdiklerini izlemeyi içerir.
     - B-) A/B testi belirli bir ürün veya hizmet hakkında kullanıcıların görüşlerini toplamak için yapılan grup toplantılarıdır.
@@ -810,3 +833,4 @@
     > **Açıklama:** Sayda 215’te yer alan “Deneyim ekonomisi” başlığı altında verilen tanım, deneyim ekonomisini bu şekilde tanımlamaktadır. Aynı sayfada Görsel 8.2’nin açıklamasında uçuş deneyimi örneği verilmektedir.<br />A şıkkıdır.
 
     <hr />
+

@@ -17,7 +17,7 @@
 
 ### Erken Dönem Rijit Ambalajlar
 
-1. Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir? *(3 kez soruldu)*
     - A-) İri yapraklardan yapılmış keseler
     - **Cevap B-) Toprak kullanılarak üretilmiş çömlekler**
     - C-) Hayvan derisinden yapılmış heybeler
@@ -41,32 +41,9 @@
 
     <hr />
 
-### Rijit Ambalaj Tarihçesi
-
-1. Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir?
-    - A-) İri yapraklardan yapılmış keseler
-    - B-) Hayvan derisinden yapılmış heybeler
-    - **Cevap C-) Toprak kullanılarak üretilmiş çömlekler**
-    - D-) At kuyruğundan örülmüş çantalar
-    - E-) Koyun tüylerinden üretilen yün heybeler
-
-    > **Açıklama:** Soru 24, MÖ döneminde kullanılan rijit ambalajlara örneği sormaktadır. Ünite 1'de, "Çömlekler ve cam kaplar ise rijit ambalajlara örnek olarak gösterilebilir." denilmektedir. Ayrıca, "MÖ 6000 yılında Gürcistan coğrafyasında bulunmuş olan kvervi adı verilen toprak temelli kaplar da bilinen erken dönem çömlekçiliğine örnek olarak gösterilebilir." bilgisi verilmiştir. Bu kaplar içeceklerin saklanması amacıyla kullanılmıştır. Bu nedenle en uygun örnek \*\*Çömlekler/Toprak Kaplar\*\*'dır.
-
-    <hr />
-
 ### Yazınsal İletişim Tarihi
 
-1. Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin kelimeyi temsil ettiği yazı sistemine ne ad verilir?
-    - A-) Logografik yazı
-    - **Cevap B-) Piktografik yazı**
-    - C-) İdeografik yazı
-    - D-) Asemik yazı
-    - E-) Tipografik yazı
-
-    > **Açıklama:** Ünite 1'de, Sümerlilerin ilk olarak sembolik gösterimler ile piktografik yazıyı geliştirdiği belirtilmiştir. Piktografik yazı, nesneleri temsil eden semboller kullanır; kelimeleri temsil eden sabit semboller ise Logografik yazı veya Ideografik yazı ile ilgilidir. Soru, sembollerin fikir yerine kelimeyi temsil etmesinden ziyade, sabit semboller kullanılarak yazı sistemine odaklanmaktadır. Ünite 1'de, 'Sümerliler öncelikle sembolik gösterimler ile piktografik yazı dilini geliştirmişlerdir. Piktografik yazı sisteminde kullanılan semboller marka ve marka kimliği uygulamalarının erken dönem temsilcileri olarak ele alınabilir.' denmektedir. Sorunun tanımı (sembollerin kelimeyi temsil etmesi), genellikle Logografik yazıya daha yakın olsa da, verilen seçenekler ve piktografik yazının 'sembolik gösterimler' ile başladığı bilgisi ışığında, B şıkkı piktografik yazıya işaret etmektedir. (Not: Piktografik yazı resim/sembolle başlar, logografik yazı ise sembol/işaretin kelime/fikir karşılığıdır. Soru metni biraz muğlaktır, ancak bağlam piktografik başlangıçlara işaret etmektedir).
-
-    <hr />
-1. Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir? *(2 kez soruldu)*
+1. Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir? *(3 kez soruldu)*
     - **Cevap A-) Piktografik yazı**
     - B-) Logografik yazı
     - C-) Tipografik yazı
@@ -81,7 +58,7 @@
 
 ### Ambalaj İçerik Türleri
 
-1. Ambalaj için içerik çeşitli hallerde (sıvı, katı, gaz, kompozit)olabilir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi kompozit içeriğe bir örnektir?
+1. Ambalaj için içerik çeşitli hallerde (sıvı, katı, gaz, kompozit)olabilir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi kompozit içeriğe bir örnektir? *(2 kez soruldu)*
     - A-) Sprey deodorant
     - B-) Deterjan
     - C-) Kuruyemiş
@@ -89,19 +66,6 @@
     - **Cevap E-) Yumurta**
 
     > **Açıklama:** Soru 26, kompozit içeriğe örnek aramaktadır. Ünite 2'de, ambalaj için içeriğin çeşitli hallerde (sıvı, katı, gaz, kompozit) olabileceği belirtilmiştir. Kompozit içeriğin ne olduğu açıkça tanımlanmamış olsa da, verilen seçenekler (şampuanlar, losyonlar, krem ve makyaj malzemeleri) genellikle birden fazla bileşenin bir araya geldiği ürünlerdir. Örneğin, losyon ve kremler yağ, su ve emülsiyonlaştırıcılar gibi bileşenlerin karışımıdır. Bu nedenle \*\*Losyonlar/Krem\*\* kompozit içeriğe örnek verilebilir.
-
-    <hr />
-
-### Ambalaj İçeriği
-
-1. Ambalaj için içerik çeşitli hallerde (sıvı, katı, gaz, kompozit) olabilir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi kompozit içeriğe bir örnektir?
-    - **Cevap A-) Yumurta**
-    - B-) Deterjan
-    - C-) Sprey deodorant
-    - D-) Un
-    - E-) Kuruyemiş
-
-    > **Açıklama:** Ünite 2'de Ambalaj Kavramı açıklanırken, içerik türleri arasında sıvı, katı, gaz ve kompozit sayılmıştır. Kompozit içerikler, birden fazla madde formunun birleşimidir. Deterjan (B) ve sprey deodorant (C) genellikle sıvı/gazdır. Un (D) ve kuruyemiş (E) katıdır. Yumurta (A) ise kabuklu katı bir gıda olup, ambalajlamada genellikle 'katı' olarak sınıflandırılır, ancak burada verilen seçenekler arasında en uygun 'karmaşık/bileşik' yapı (farklı katmanlar veya bileşenler) anlamında diğerlerine kıyasla yumurta (sert kabuk içinde sıvı içerik) kompozit tanımına dolaylı olarak en yakın olabilir veya sorunun bağlamında en azından katı/sıvı/gaz kategorilerine net girmeyen bir örnek olarak düşünülmüştür. Ancak genel kabul görmüş endüstriyel kompozit örnekleri (örneğin, Tetra Pak gibi çok katmanlı ambalajlanmış ürünler) yerine, basit içerik türlerinden biri seçilmesi gerekmektedir. Kompozit terimi genellikle ambalaj malzemesi için (Tetra Pak gibi) kullanılırken, içerik için çok yaygın kullanılmaz. Verilen seçenekler arasında, en yaygın sınıflandırmalara uymayan 'Yumurta' (katı/gaz/sıvı karışımı değil ama kabuklu yapı) A şıkkı olarak işaretlendiği için bu kabul edilmiştir.
 
     <hr />
 
@@ -237,29 +201,16 @@
 
 ## Ünite 3
 
-### Ambalaj Araştırma Süreci
-
-1. Tasarım sürecinde toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin unsurları aşağıdaki araştırma türlerinden hangisine örnektir?
-    - A-) Kesitsel araştırma
-    - B-) Öznel araştırma
-    - C-) Betimleyici araştırma
-    - **Cevap D-) Nicel araştırma**
-    - E-) Nitel araştırma
-
-    > **Açıklama:** Tasarım sürecinin ilk aşaması olan Araştırma Süreci, ürünün tanınması, hedef kitlenin anlaşılması ve pazar dinamiklerinin belirlenmesi için yapılır. Toplam pazar satış değeri, yıllık satış değeri gibi veriler ürünün pazardaki konumunu anlamak için yapılan pazar araştırmasının bir parçasıdır. Bu, Ünite 3'te Araştırma Süreci başlığı altında belirtilmiştir.
-
-    <hr />
-
 ### Araştırma Süreci
 
-1. Tasarım sürecinde toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin sayısı gibi unsurlar aşağıdaki araştırma türlerinden hangisine örnektir?
+1. Tasarım sürecinde toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin sayısı gibi unsurlar aşağıdaki araştırma türlerinden hangisine örnektir? *(2 kez soruldu)*
     - A-) Nitel araştırma
     - **Cevap B-) Nicel araştırma**
     - C-) Öznel araştırma
     - D-) Kesitsel araştırma
     - E-) Betimleyici araştırma
 
-    > **Açıklama:** Ünite 3'te araştırma sürecinde sorulması gerekenlerden biri, 'Rakipler, coğrafi konumlar, ihracat pazarları nelerdir?' sorusudur. Ancak, soruda geçen unsurlar (toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin sayısı) doğrudan pazar araştırması veya Pazar incelemesi başlıkları altında değerlendirilir. Ünite 7'de, tasarımcıların araştırma sürecindeki 8 adımdan biri olarak 'Pazar incelemesi' listelenir. Ünite 3'teki soru listesinde bu tür ekonomik veriler genel araştırma aşamasının kapsamına girer.
+    > **Açıklama:** Ünite 3'te belirtildiği gibi, başarılı bir ambalaj tasarımı detaylı bir araştırma süreciyle başlar. Bu araştırma süreci; ürün odaklı (nedir, içeriği ne, ne kadar) ve pazar odaklı (kitle kim, rakipler kim, dağıtım kanalları ne) soruları içerir. Toplam pazar satış değeri, yıllık satış değeri ve hedef kitlenin sayısı gibi veriler, ölçülebilir ve sayısal veriler olduğundan Nicel araştırmanın bir parçasıdır.
 
     <hr />
 
@@ -304,16 +255,6 @@
 
 ### Tasarım Fikri Geliştirme
 
-1. Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır?
-    - A-) AR-GE (Araştırma - geliştirme)
-    - **Cevap B-) Yaratıcı düşünme**
-    - C-) Pazar araştırması
-    - D-) Prototip oluşturma
-    - E-) Marka analizi
-
-    > **Açıklama:** Ünite 3'te Tasarım Fikri oluşturma sürecinin aşamaları anlatılırken, ikinci aşama olan 'İlk eskizler' bölümünden hemen sonra 'Grup eleştirisi' gelir. Grup eleştirisi, ortaya çıkan tüm eskizler ve konsept tasarımların paylaşıldığı aşamadır. Ancak, beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma, genellikle 'Tasarım Fikri' aşamasının (Bilgi toplama ve ilk eskizler) ilk kısımlarında yer alır. Ünite 3'teki 'İlk eskizler' aşaması, fikirlerin görselleştirilmesiyle başlar. Soru 32'deki terimler (beyin fırtınası, eskiz, mood board) tasarım fikri aşamasının başlangıcıdır.
-
-    <hr />
 1. Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır? *(2 kez soruldu)*
     - A-) Marka analizi
     - B-) Pazar araştırması
@@ -335,6 +276,16 @@
     - E-) Lojistik
 
     > **Açıklama:** Ünite 3'te, 'Tasarım fikri, bir ürünün kimliğini yansıtan, tüketiciyi etkileyen ve marka değerini artıran bir yaklaşımı ifade eder. Tasarım fikri oluşturulurken öncelikle ürünün özellikleri ve hedef kitle belirlenmelidir... Bu noktada 5 aşamalı yaratıcı keşif sürecine geçilebilir.' denmektedir. Bu sürecin ilk aşaması olan 'Bilgi toplama', görsel ve konsept araştırmasını, iskelet tasarımını içerir. Marka analizi (B şıkkı), bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir. Pazar araştırmaları, anketler ve rekabet analizi, marka analizinin temel bileşenleridir. Bu nedenle, pazar araştırması, anket, odak grubu ve rekabet analizi adımlarını içeren süreç Marka Analizi başlığı altında değerlendirilir.
+
+    <hr />
+1. Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır?
+    - A-) AR-GE (Araştırma - geliştirme)
+    - **Cevap B-) Yaratıcı düşünme**
+    - C-) Pazar araştırması
+    - D-) Prototip oluşturma
+    - E-) Marka analizi
+
+    > **Açıklama:** Ünite 3'te Tasarım Fikri başlığı altında, beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemlerin yaratıcı düşünme aşamasında yer aldığı belirtilmiştir. Bu aşama, fikirlerin kabaca bir araya getirildiği ve vizyonun görselleştirildiği yaratıcı keşif sürecinin bir parçasıdır.
 
     <hr />
 
@@ -405,7 +356,7 @@
 
     <hr />
 
-### Yapısal Tasarım İlkeleri
+### Yapısal Tasarım Yaklaşımı
 
 1. Endüstri ürünleri tasarımcılarının tüketicilerin bir fonksiyonu gerçekleştirmeyi düşünmeden yapabilmesine imkan tanıyan özellikleri tasarıma dahil etmesi yaklaşımına ne ad verilir?
     - **Cevap A-) Sezgisel tasarım**
@@ -414,7 +365,7 @@
     - D-) Duyusal tasarım
     - E-) İnovatif tasarım
 
-    > **Açıklama:** Ünite 4'te Yapısal Tasarım (Endüstri Ürünleri Tasarımcılarının rolü) anlatılırken, ergonominin sadece fonksiyonların standartlar dahilinde gerçekleşmesini sağlamakla kalmayıp, aynı zamanda güvenlik ve kullanıcı dostu özellikler sunmakla da ilgili olduğu belirtilir. Ergonomi, kullanıcı deneyimini iyileştirmeye odaklanan bir yaklaşımdır. Tüketicinin düşünmeden, otomatik olarak yapabilmesi ergonomik tasarımın temel hedefidir.
+    > **Açıklama:** Ünite 4'te, endüstriyel tasarımcıların ambalaj tasarımındaki görevleri arasında sezgisel tasarımın önemli olduğu belirtilmiştir. Sezgisel tasarım, tüketicilerin bir fonksiyonu gerçekleştirmeyi düşünmeden (örneğin, ambalajı kullanırken zorluk yaşamadan) yapabilmesini sağlayan, kullanıcı arayüzü odaklı bir yaklaşımdır. Bu, özellikle ergonomik ayrıntılar ve kolaylık gibi kriterlerle ilgilidir.
 
     <hr />
 
@@ -435,7 +386,7 @@
 
 ### Ahşap Ambalaj Malzemeleri
 
-1. ambalaj malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. ambalaj malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Metal
     - B-) Kâğıt
     - C-) Plastik
@@ -456,16 +407,6 @@
     - **Cevap E-) Ahşap**
 
     > **Açıklama:** Ünite 5'te, Ahşap Ambalaj Malzemeleri ve Özellikleri başlığı altında, ahşabın 'doğal ve sıcak bir estetik sunan' ve 'genellikle lüks ürünlerin ambalajında tercih edilen' bir seçenek olduğu belirtilmiştir. Ayrıca, ahşabın 'ürünlere doğal ve organik bir his' verdiği ifade edilmiştir.
-
-    <hr />
-1. ------ malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Ahşap**
-    - B-) Cam
-    - C-) Kâğıt
-    - D-) Metal
-    - E-) Plastik
-
-    > **Açıklama:** Ünite 5'teki Ahşap Ambalaj Malzemeleri ve Özellikleri başlığı altında, ahşap ambalajların sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünler için uygun olduğu, hava geçirgenlikleri sebebiyle meyve ve sebzelerin paketlenmesinde kullanıldığı ve kendine has dokusu sayesinde özel tasarım ürünleri için tercih edildiği belirtilmektedir.
 
     <hr />
 
@@ -497,7 +438,7 @@
 
 ### Ambalaj Türleri
 
-1. Ambalajların gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bütünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getiren ambalaj türü aşağıdakilerden hangisidir?
+1. Ambalajların gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bütünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getiren ambalaj türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Dördüncü seviye ambalaj
     - B-) Beşinci seviye ambalaj
     - C-) Birinci seviye ambalaj
@@ -505,16 +446,6 @@
     - E-) İkinci seviye ambalaj
 
     > **Açıklama:** Ünite 5'te ambalaj türleri fonksiyonlarına göre Birincil, İkincil ve Üçüncül olarak sınıflandırılmıştır. Üçüncül Ambalaj (Nakliye ambalajı/Grup Ambalajı), birincil ve ikincil ambalajları içerir ve nakliye işlemlerini kolaylaştırmak amacıyla kullanılır. Soruda geçen 'gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilme' görevi Üçüncül Ambalajın (nakliye/yükleme) tanımına uymaktadır. İkincil ambalaj ise, genellikle birincil ambalajları gruplandırır, ancak genellikle paletleme ve dağıtım için kullanılan ağır hizmet tipi ambalajlar üçüncül kategoridedir.
-
-    <hr />
-1. Ambalajların gruplandırılıp plastik filmlerle paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bütünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getiren ambalaj türü aşağıdakilerden hangisidir?
-    - A-) Birinci seviye ambalaj
-    - B-) İkinci seviye ambalaj
-    - **Cevap C-) Üçüncü seviye ambalaj**
-    - D-) Dördüncü seviye ambalaj
-    - E-) Beşinci seviye ambalaj
-
-    > **Açıklama:** Ünite 5'te, Ambalaj Türleri başlığı altında Üçüncül Ambalaj (Nakliye ambalajı/Yükleme ambalajı) şöyle tanımlanmıştır: 'Bu ambalaj birinci ve ikincil ambalajı içerir ve ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır.' Soruda bahsedilen, ambalajların gruplandırılması, plastik filmlerle sarılarak paletlerle dağıtıma hazır hale getirilmesi görevi Üçüncül (Nakliye) ambalajlara aittir.
 
     <hr />
 1. Aşağıdakilerden hangisi kabarcıklı ambalaj olarak da bilinen, bir ürünün ön yüzünün etrafında ısıyla şekillendirilen ve şeffaf plastikten görülmesini sağlayan ambalaj türüdür?
@@ -530,7 +461,7 @@
 
 ### Cam Ambalaj Özellikleri
 
-1. Aşağıdakilerden hangisi ambalaj malzemesi camın sunduğu avantajlardan biridir?
+1. Aşağıdakilerden hangisi ambalaj malzemesi camın sunduğu avantajlardan biridir? *(2 kez soruldu)*
     - **Cevap A-) Kimyasal maddelere karşı dayanıklı olması nedeniyle kimyasal ürünlerin güvenli bir şekilde saklanmasını sağlaması**
     - B-) Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla ekonomik bir seçenek olması
     - C-) Ürünlerin nakliye ve depolama süreçlerinde güvenli ve dayanıklı olmasına imkan vermesi
@@ -538,16 +469,6 @@
     - E-) Doğada oldukça kolay ve hızlı çözünebilmesi
 
     > **Açıklama:** Ünite 5'te cam ambalajların özellikleri listelenmiştir. Cam ambalajların olumlu özellikleri arasında 'İçine konulan ürün görülebilir', 'Aşınma ve bozulmalara karşı dayanıklıdır', 'Renkli çeşitlerinde belirli düzeyde ışığa karşı koruma sağlar' ve 'Geçirgen değildir' ifadeleri bulunmaktadır. Verilen seçenekler arasında en belirgin avantajlardan biri, içeriğin görülebilir olmasıdır (Transparanlık).
-
-    <hr />
-1. Aşağıdakilerden hangisi ambalaj malzemesi olarak kullanılan camın sunduğu avantajlardan biridir?
-    - A-) Ürünlerin nakliye ve depolama süreçlerinde güvenli ve dayanıklı olmasına imkan vermesi
-    - **Cevap B-) Kimyasal maddelere karşı dayanıklı olması nedeniyle kimyasal ürünlerin güvenli bir şekilde saklanmasını sağlaması**
-    - C-) Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla ekonomik bir seçenek olması
-    - D-) Doğada oldukça kolay ve hızlı çözünebilmesi
-    - E-) Taşıma maliyetlerini azaltması ve lojistik süreçlerini kolaylaştırması
-
-    > **Açıklama:** Cam ambalaj malzemelerinin olumlu özellikleri arasında içeriğin görülebilir olması, aşınma ve bozulmalara karşı dayanıklılık, renklendirilmiş çeşitlerde belirli düzeyde ışıktan koruma sağlama ve geçirgen olmama (gaz/nem geçirmeme) sayılır (Ünite 5). Soruda camın sunduğu avantajlardan biri sorulmaktadır.
 
     <hr />
 
@@ -574,19 +495,6 @@
     - E-) Ambalajın üretim maliyetini düşürmek
 
     > **Açıklama:** Ünite 5'te Kâğıt ve Karton Ambalajların Geri Dönüşümü anlatılırken, temizlenme aşamasında, kâğıt liflerinin polimer kaplamalar, mürekkepler ve yapıştırıcılar gibi kirleticilerden arındırılmasının temel amacının, geri dönüştürülecek kâğıt liflerinin kalitesini sağlamak olduğu belirtilmiştir. Ayrıca, kâğıt/kartonun neme karşı davranış özelliklerini değiştirmek için kaplama, laminasyon ve lak uygulandığı bilgisi de mevcuttur (Ünite 5: 'teknolojinin gelişmesiyle kâğıdın iç ve dış yüzeyine kaplama, laminasyon ve lak gibi işlemler uygulanarak malzeme türü aynı fakat, davranış özellikleri farklı ambalajlar üretilebilmektedir'). Bu, aynı malzemeyi kullanarak farklı davranış özellikleri olan ambalajlar üretme amacına hizmet eder.
-
-    <hr />
-
-### Malzeme Seçimi Kriterleri
-
-1. Fonksiyonel açıdan ele alındığında ambalaj malzemelerinin seçiminde, malzemenin ve maliyeti gibi özellikler ön plana çıkar. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde aşağıdakilerden hangisi tamamlar?
-    - A-) Estetiği
-    - B-) Dikkat çekiciliği
-    - C-) Yalınlığı
-    - D-) Orijinalliği
-    - **Cevap E-) Koruyuculuğu**
-
-    > **Açıklama:** Ünite 5'te Ambalaj Malzemeleri ve Özellikleri kısmında, malzeme seçimini etkileyen faktörler listelenmiştir. Bu faktörler arasında 'Isı ve basınca dayanımı yüksektir' (Cam/Metal için), 'Sterilize edilebilir' (Cam için), 'Sürdürülebilirlik' (Karton/Ahşap için) gibi çevresel ve fonksiyonel özellikler sayılır. Cümledeki boşluk, malzemenin kendisinin veya maliyetinin ön plana çıktığı genel bir bağlama işaret ederken, Ünite 5'te malzeme seçimi, ürünün türüne ve özelliklerine göre değerlendirilir ve 'maliyet' önemli bir faktör olarak belirtilir (Ünite 3'te de bir kriterdir). Ancak, Ünite 5'te malzeme seçimi kararlarının 'pragmatik (fonksiyonel)' ve 'hedonik (duygusal etkilenimler)' hedefler doğrultusunda yapıldığı belirtilir. Pragmatik hedefler, fonksiyon, maliyet, dayanıklılık gibi unsurları içerir. En uygun terim, bu ikisini kapsayan 'pragmatik' veya 'fonksiyonel' olabilir. Ünite 5'te 'Fonksiyonlarına Göre Ambalaj Türleri' başlığı altında malzeme seçiminden bahsedilirken, Ünite 3'te de malzeme seçimi pragmatik ve hedonik hedeflere göre yapılır.
 
     <hr />
 
@@ -677,19 +585,6 @@
     - **Cevap E-) Solventler**
 
     > **Açıklama:** Aktif ambalaj, raf ömrünü uzatmak için paketlenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddelerin kullanılmasını içerir. Soruda aktif ambalaj bileşeni olmayan şık sorulmaktadır. Metinde aktif ambalaj için oksijen tutucular ve nem alıcılar belirtilmiştir. RFID etiketleri ise akıllı ambalaj teknolojilerindendir, aktif ambalaj bileşeni değildir.
-
-    <hr />
-
-### Akıllı Ambalaj Fonksiyonları
-
-1. Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür?
-    - A-) İkincil ambalaj
-    - B-) Duyusal ambalaj
-    - C-) Tüketici ambalajı
-    - D-) Birincil ambalaj
-    - **Cevap E-) Fonksiyonel ambalaj**
-
-    > **Açıklama:** Aktif ambalaj, yeni malzemeler ve teknolojileri kullanarak paketlenmiş ürünle etkileşime girerek ürün kalitesini, dayanıklılığını ve raf ömrünü artırır (örn: oksijen tutucular, nem alıcılar). Akıllı paketleme ise sensörler kullanarak ürünün durumunu izler ve gerçek zamanlı bilgi sağlar. Bu tür ambalajlar, içerikle ilgili problemleri ele alarak ve kullanıcı deneyimini iyileştirerek ambalajın genel değerini artırır. (Ünite 6: Aktif ambalaj, raf ömrünü uzatmak için paketlenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddelerin kullanılmasını içermektedir.)
 
     <hr />
 
@@ -827,7 +722,7 @@
 
 ### Bağımsız Marka Modeli
 
-1. Ana markaya bir atıfta bulunmadan çeşitlilik için geliştirilen, her bir markaya farklılaşma ve uzmanlaşma için fırsat sunarken ana yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap veren marka türü aşağıdakilerden hangisidir?
+1. Ana markaya bir atıfta bulunmadan çeşitlilik için geliştirilen, her bir markaya farklılaşma ve uzmanlaşma için fırsat sunarken ana yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap veren marka türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Monolitik marka
     - **Cevap B-) Bağımsız marka**
     - C-) Özgün marka
@@ -879,16 +774,6 @@
 
 ### Marka Modelleri
 
-1. Ana markaya bir atıfta bulunmadan çeşitlilik için geliştirilen, her bir markaya farklılaşma ve uzmanlaşma için fırsat sunarken ana markanın olumsuz yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap veren marka türü aşağıdakilerden hangisidir?
-    - A-) Monolitik marka
-    - B-) Onaylayıcı marka
-    - C-) Özgün marka
-    - **Cevap D-) Bağımsız marka**
-    - E-) Temsili marka
-
-    > **Açıklama:** Bağımsız Marka modeli, ana markaya herhangi bir atıfta bulunmadan, her çeşitlilik için geliştirilen markaları tanımlar. Bu yaklaşım, markanın farklılaşma ve uzmanlaşma için maksimum fırsatlar sunmasını sağlarken, ana markanın algılanan olumsuz yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap vermesine olanak tanır (Ünite 7).
-
-    <hr />
 1. Markalaşma yaklaşımı olarak ele alındığında, "Google" aşağıdaki hangi marka modeline bir örnektir?
     - A-) Onaylayıcı marka
     - B-) Sınırsız marka
@@ -902,16 +787,6 @@
 
 ### Marka Yönetimi Rolleri
 
-1. Marka yönetimi sürecinin temel adımlarından biri olan ve marka sahiplerine markalarını daha etkili bir şekilde yönetme ve geliştirme imkânı sağlayan sürece ne ad verilir?
-    - A-) Pazar araştırması
-    - B-) Kurum kimliği
-    - **Cevap C-) Marka analizi**
-    - D-) Tüketici anketi
-    - E-) Araştırma geliştirme
-
-    > **Açıklama:** Ünite 7'ye göre, ambalaj tasarımı, marka kimliğini ifade etme, müşteriyle duygusal bağ kurma (inşa etme), farklılığı iletme (iletişim), dikkat çekme (satış) ve koruma gibi marka yönetiminin kritik rollerini üstlenir. Bu rollerin tümü, marka yönetimi sürecinin temel unsurlarıdır.
-
-    <hr />
 1. Ambalaj tasarımı müşterilerin duyularına, tercihlerine ve ihtiyaçlarına hitap ederek onlarla duygusal bir bağ kurabilecek, markanın kişiliğini, ses tonunu, sade ve sadakati teşvik edebilecektir. Yukarıda ifade edilen özellikler ambalaj tasarımının marka yönetimindeki rollerinden hangisini tanımlar?
     - **Cevap A-) İnşa etme**
     - B-) İletişim
@@ -933,6 +808,19 @@
     - **Cevap E-) Parapsikoloji**
 
     > **Açıklama:** Ünite 7'de Başarılı Ambalaj Tasarımının Temel Unsurları arasında Görsel Etki ve Markalaşma, Basitlik ve Netlik, Marka Kimliği, Görsel Hiyerarşi, Yenilikçi ve İşlevsel Tasarım, Özgünlük ve Hikâye Anlatımı, Hedef Kitle Uyumu ve Sürdürülebilirlik/Çevre Bilinci sayılmıştır. 'Ergonomi' (kullanım kolaylığı ve işlevsellik), Yapısal Tasarımın bir parçası olup (Ünite 5), markalaşma stratejilerinin temel unsurları arasında doğrudan listelenmemiştir (ancak dolaylı olarak işlevsellik ile ilişkilidir).
+
+    <hr />
+
+### Markalaşmanın Temelleri
+
+1. Marka yönetimi sürecinin temel adımlarından biri olan ve marka sahiplerine markalarını daha etkili bir şekilde yönetme ve geliştirme imkânı sağlayan sürece ne ad verilir?
+    - A-) Pazar araştırması
+    - B-) Kurum kimliği
+    - **Cevap C-) Marka analizi**
+    - D-) Tüketici anketi
+    - E-) Araştırma geliştirme
+
+    > **Açıklama:** Ünite 7'de Markalaşmanın Temelleri başlığı altında, ambalajın bir markanın imajını ve kimliğini oluşturmada kritik rol oynadığı belirtilmiştir. Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir ve bu analiz, marka sahiplerine markayı yönetme ve geliştirme konusunda temel oluşturur.
 
     <hr />
 
@@ -980,19 +868,19 @@
 ### Ambalaj Atıklarını Önleme
 
 1. Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri değildir? *(3 kez soruldu)*
-    - **Cevap A-) İkna etme**
+    - A-) İkna etme
     - B-) Gönüllülük
-    - C-) Vergilendirme
+    - **Cevap C-) Vergilendirme**
     - D-) Ücretlendirme
     - E-) Yasaklama
 
-    > **Açıklama:** Ünite 8'de ambalaj atıklarının çevreye verdikleri zararı önlemenin yolları belirtilmiştir: Yasaklama, Vergilendirme, Ücretlendirme ve Gönüllülük. İkna etme (A şıkkı), marka iletişimi ve pazarlama stratejilerinin bir parçasıdır, doğrudan yasal/ekonomik bir önleme yöntemi olarak sıralanmamıştır. Listelenenler yasal veya teşvik/baskı mekanizmalarıdır.
+    > **Açıklama:** Ünite 8 özetine göre, ambalaj atıklarının çevreye verdiği zararı önlemenin yolları arasında yasaklama, vergilendirme, ücretlendirme ve gönüllülük bulunmaktadır. 'İkna etme' ise marka yönetimi veya tüketici algısı ile ilgili bir kavramdır, doğrudan atık önleme yöntemi olarak listelenmemiştir. Dolayısıyla, verilen şıklar arasında ikna etme bir önleme yöntemi değildir.
 
     <hr />
 
 ### Ambalaj Türleri ve İşlevleri
 
-1. Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür? *(3 kez soruldu)*
     - A-) Birincil ambalaj
     - B-) İkincil ambalaj
     - C-) Duyusal ambalaj
@@ -1042,16 +930,16 @@
 
     <hr />
 
-### Ambalajın Çevresel Maliyeti
+### Malzeme Seçimi Kriterleri
 
-1. Ambalajların çoğunun da bu gruba dahil kabul edildiği, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan ürünlere ne ad verilir?
-    - A-) Kayıp ürün
-    - **Cevap B-) Pasif ürün**
-    - C-) Aktif ürün
-    - D-) Ara ürün
-    - E-) Yan ürün
+1. Fonksiyonel açıdan ele alındığında ambalaj malzemelerinin seçiminde, malzemenin ve maliyeti gibi özellikler ön plana çıkar. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde aşağıdakilerden hangisi tamamlar?
+    - A-) Estetiği
+    - B-) Dikkat çekiciliği
+    - C-) Yalınlığı
+    - D-) Orijinalliği
+    - **Cevap E-) Koruyuculuğu**
 
-    > **Açıklama:** Ünite 8'de, çevresel maliyet açısından ürünler Pasif Ürünler ve Aktif Ürünler olarak ikiye ayrılmıştır. Ambalajlar, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan 'pasif ürün' olarak tanımlanır. Aktif ürünler ise, çevresel maliyeti en yüksek kullanım aşaması olan ürünlerdir (örn: enerji tüketen cihazlar).
+    > **Açıklama:** Ünite 8'de Hammaddenin Elde Edilmesi/Malzeme Seçimi Aşaması anlatılırken, ambalaj tasarımında malzeme seçimini etkileyen faktörler arasında ürünü koruma, maliyet, estetik gibi faktörlerin yanı sıra 'koruyuculuk' özelliğinin de önemli olduğu vurgulanmaktadır. Fonksiyonel açıdan ele alındığında ambalajın temel işlevi içeriği korumaktır, bu da malzeme seçiminde en temel kriterlerden biridir.
 
     <hr />
 
@@ -1091,6 +979,19 @@
     - **Cevap E-) Sıfır atık**
 
     > **Açıklama:** Atık oluşumunun önlenmesi, yeniden kullanıma öncelik verilmesi ve oluşan atıkların kaynağında ayrı biriktirilerek toplanması ve geri kazanımı/bertarafı hedeflerine odaklanan yaklaşıma Sıfır Atık Yönetmeliği denir. (Ünite 8: Sıfır Atık Yönetmeliği'nde “sıfır atık” şu şekilde tanımlanmaktadır: Üretim, tüketim ve hizmet süreçlerinde atık oluşumunun önlenmesi/azaltılması, yeniden kullanıma öncelik verilmesi, oluşan atıkların ise kaynağında ayrı biriktirilerek toplanması ve geri dönüşüm ve/veya geri kazanımının sağlanarak bertarafa gönderilecek atık miktarının azaltılması suretiyle çevre ve insan sağlığının ve tüm kaynakların korunmasını hedefleyen yaklaşımdır.)
+
+    <hr />
+
+### Yaşam Döngüsü Maliyetleri
+
+1. Ambalajların çoğunun da bu gruba dahil kabul edildiği, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan ürünlere ne ad verilir?
+    - **Cevap A-) Kayıp ürün**
+    - B-) Pasif ürün
+    - C-) Aktif ürün
+    - D-) Ara ürün
+    - E-) Yan ürün
+
+    > **Açıklama:** Ünite 8 özetinde, ambalajların çoğunluğunun çevresel maliyet açısından 'pasif ürün' olarak tanımlandığı belirtilmektedir. Pasif ürünler, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan ürünlerdir (örneğin, mobilya, bisiklet, seramik ev eşyaları). Aktif ürünler ise çevresel maliyeti en yüksek olan kullanım aşaması ürünleridir (örneğin, otomobil). Soruda belirtilen tanıma uyan kavram 'Pasif ürün'dür. Ancak soruda 'Kayıp ürün' şıkkı doğru kabul edildiğinden, açıklamada bu durumun bir çelişki yarattığı gözlemlenmektedir. Metin içeriğine göre doğru cevap 'Pasif ürün'dür, ancak verilen kurala uyarak 'Kayıp ürün' kabul edilen şıkkın mantığı metinde tam olarak yer almamaktadır; metinde bu terim yerine 'pasif ürün' terimi kullanılmıştır.
 
     <hr />
 

@@ -1,5 +1,7 @@
 # Öğretim Tasarımı - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Bağlantıcı yaklaşım, bilginin ağa bağlı ilişkilerden oluştuğunu ve öğrenmenin bu ağlarda gezinme<br />yeteneği olduğunu ileri sürmektedir. Bu yaklaşım, bilgi okuryazarlığına ayrı bir önem vermekte ve<br />öğrencilerin kendi öğrenme ağları içinde bilgiyi gezinmelerine ve değerlendirmelerine yardımcı olmanın önemini vurgulamaktadır (Transue, 2013)."<br />Bu bilgiden hareketle öğretenin rolüne ilişkin aşağıdaki çıkarımlardan hangisi yapılabilir?
     - **Cevap A-) Öğrenenlerin yeni ağlara erişmelerini kolaylaştırır.**
     - B-) Bilgiyi düzenler ve önceki bilgilerle ilişkilendirir.
@@ -250,6 +252,9 @@
     > **Açıklama:** Şekilde gözlemlenebileceği gibi eğitim, bu kavramlar arasında en geniş kapsamda ele alınmıştır. Eğitim kavramının tanımı sorulduğunda sık karşılaşılan cevaplardan biri insanda istendik davranış değiştirme süreci şeklindedir.
 
     <hr />
+
+## Ünite 2
+
 1. 1\. Misyon Analizi<br />2\. İşlevsel Analiz<br />3\. Görev Analizi<br />4\. Strateji Analizi<br />5\. Araç Analizi<br />Aşağıdakilerden hangisi sistem sentezi sırasında gerçekleştirilen analizleri doğru biçimde yansıtmaktadır?
     - A-) I, II, III, IV, V
     - B-) I, II, III, IV
@@ -450,6 +455,9 @@
     > **Açıklama:** Eğitim sürecinde geri bildirim, öğrencilerin performanslarının değerlendirilmesi, öğrenme sürecinin etkinliğinin ölçülmesi ve gerekli iyileştirmenin yapılması için kullanılan bir unsurdur. Öğrenci performansı, sınavlar, proje teslimleri, ödevler ve öğretmenlerin değerlendirmeleri gibi çeşitli yollarla değerlendirme sağlanabilir.<br />Doğru cevap "Geribildirim" seçeneğidir.
 
     <hr />
+
+## Ünite 3
+
 1. ADDIE Modeli bağlamında aşağıda verilenlerden hangisi diğerlerinden farklı bir başlık altında değerlendirilebilir?
     - A-) Zaman çizelgesi yap
     - B-) Bütçe hazırla
@@ -660,6 +668,9 @@
     > **Açıklama:** Paragrafta ARCS-V Motivasyon Tasarımı Modeli hakkında bilgi sunulmuştur.
 
     <hr />
+
+## Ünite 4
+
 1. "Öğrenenler bütünün farklı bileşenlerini birbirinden ayırt edebiliyor mu?" biçiminde verilen ifade Bloom’un bilişsel beceriler sınıflamasındaki hangi aşama ile ilişkilidir?
     - **Cevap A-) Çözümleme**
     - B-) Anlama
@@ -860,6 +871,9 @@
     > **Açıklama:** Çoğu seçenekte analitik yaklaşım işe koşulmaktadır. Söz konusu yaklaşımda yerel veya küresel çapta koşul­larla meydana gelen değişimlerin ve yeni yönelim­lerin analiz edilerek incelenmesi sonucu ihtiyaçlar belirlenmektedir. Bu yaklaşım; sayısal verileri, ista­tistiksel analizleri ve bilimsel yöntemleri kullanarak ihtiyaçları belirlemeye odaklanır. Mevcut durumlar göz önüne alınarak geleceğe yönelik öngörüler ge­liştirilir ve bu öngörüler doğrultusunda eleştirel bir bakışla çözüm önerileri oluşturulur ve bu çözümler için ihtiyaçlar belirlenir.<br />Ders sırasında erişilemeyen bazı materyallerin memnuniyete yansımalarını irdeleyerek yeni bir yol haritası belirlemek ise betimsel yaklaşım başlığında değerlendirilebilir.
 
     <hr />
+
+## Ünite 5
+
 1. "......... kavramı, çizgi tekniklerinin kullanılmasıyla ortaya çıkan, görünenin abartılabileceği veya tamamen hayali bir çizgide tasvir edilebileceği anlamına gelen sanattır."<br />Yukarıdaki cümlede boş bırakılan yer hangisiyle doldurulmalıdır?
     - A-) Çizim
     - **Cevap B-) İllüstrasyon**
@@ -1060,6 +1074,9 @@
     > **Açıklama:** Şekil-zemin ilkesi ile renk, boyut ve bulanıklık gibi teknikler kullanılarak önemli içeriğin öne çıkması sağlanabilir. Bu yöntemler, öncelikli içeriğe vurgu yaparak dikkat çekmeyi amaçlamaktadır. İnsan beyni, ön planı arka plan öğelerinden ayırmaya odaklanır. **Şekil-zemin** **ilkesi, insan zihninin nesneleri (şekilleri) arka planlarına** **(zemine) göre nasıl algıladığına odaklanır.** Tasarımcılar, kontrast ve görsel hiyerarşi kullanarak önemli ögeler (şekiller) ile arka plan arasında ayrım yapabilir.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıdakilerden hangisi asenkron derslerin avantajlarındandır?
     - A-) Yüksek etkileşim
     - B-) Anında etkileşim
@@ -1160,6 +1177,9 @@
     > **Açıklama:** Öğrenme Yönetim Sistemi (ÖYS): öğrenme sürecinin planlanmasını ve yönetimini sağlayan, öğrenme deneyimini zenginleştiren yazılımlardır.
 
     <hr />
+
+## Ünite 7
+
 1. Aşağıda ölçme ve değerlendirme kavramlarına ilişkin verilen bilgilerden hangisi yanlıştır?
     - **Cevap A-) Değerlendirme ölçmenin temelini oluşturur.**
     - B-) Ölçme bir niteliğin sayı ve sembollerle ifade edilmesidir.
@@ -1260,6 +1280,9 @@
     > **Açıklama:** Bağıl (Norm-Referenced) Değerlendirme: Bağıl değerlendirme, öğrenenlerin karşılaştırılması, sıralanması veya derecelendirilmesi gereken durumlarda kullanılır. Bu değerlendirme türünde öğrenenlerin performansı, birlikte sınava girdikleri diğer katılımcılara göre değerlendirilir. Yani, öğrenenin bir grup içindeki yerinin belirlenmesi amaçlanır. Bağıl değerlendirme, katılımcı sayısının çok olduğu ancak kontenjan sayısının az olduğu durumlarda kullanılır.Üniversiteye giriş sınavları ve memurların atanmasına yönelik sınavlar bağıl değerlendirmenin kullanımına örnek verilebilir. Üniversite giriş sınavında ilk 1000’e giren öğrenenlerin üniversitelere yerleştirilmesi ya da işe alım sürecinde gerçekleştirilen mülakatta en yüksek puanı alan 5 kişinin işe alınması bağıl değerlendirmeye örnek olarak gösterilebilir.
 
     <hr />
+
+## Ünite 8
+
 1. "\_\_\_\_\_\_\_\_, öğrenenlerin olaylara aktif olarak katılarak ve bunları yansıtarak bilgi edindiklerini ileri sürer. \_\_\_\_\_\_\_\_, pekiştirme ve koşullandırma kavramlarına önem vererek davranıştaki gözle görülür değişikliklerin incelenmesine odaklanır. Öte yandan \_\_\_\_\_\_\_\_, hafıza ve problem çözme gibi öğrenmeyle ilgili bilişsel süreçleri araştırır."<br />Yukarıdaki paragraftaki boşluklara hangi seçenekteki kavramlar gelirse paragraf doğru ve anlamlı bir bilgi aktarır?
     - A-) Aktif öğrenme-Öğrenme stratejileri-Psikoloji
     - B-) Öğrenme stratejileri-Öğretim stratejileri-Problem tabanlı öğrenme
@@ -1360,3 +1383,4 @@
     > **Açıklama:** Öğrenme hedeflerinin belirlenmesi; öğretim tasarımının temel bir adımı olarak kabul edilir ve bu süreçte öğrencilerin neyi, ne zaman ve nasıl öğreneceklerini belirleyen hedeflerin tanımlanması gerekmektedir. Bu bağlamda, Bloom’un taksonomisi, öğrenme hedeflerinin belirlenmesinde kritik bir araç olarak ön plana çıkar. Bloom’un taksonomisi, eğitimdeki öğrenme hedeflerini sınıflandırmak için geliştirilmiş bir modeldir. Özgün hâli 1956 yılında Benjamin Bloom ve meslektaşları tarafından tanıtılan bu model; öğrenme hedeflerini bilişsel, duyuşsal ve psikomotor olmak üzere üç alana ayırır (Bloom, 1956). Ancak bu tartışma çoğunlukla bilişsel alan üzerine odaklanacaktır. Bilişsel alan, Anderson ve Krathwohl tarafından 2001 yılında revize edilmiş ve bu revizyon; öğrenme sürecini hatırlama, anlama, uygulama, analiz, değerlendirme ve yaratma olarak altı basamakta sınıflandırmıştır (Anderson & Krathwohl, 2001).
 
     <hr />
+

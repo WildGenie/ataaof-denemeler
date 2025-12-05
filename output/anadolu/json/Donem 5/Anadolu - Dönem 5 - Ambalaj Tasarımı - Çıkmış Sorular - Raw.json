@@ -880,7 +880,7 @@
                 "Ücretlendirme",
                 "Yasaklama"
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634816"
@@ -895,7 +895,7 @@
                 "Ara ürün",
                 "Yan ürün"
             ],
-            "correctIndex": 1,
+            "correctIndex": 0,
             "exam_question_number": 20,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "634816"

@@ -1,5 +1,7 @@
 # Anadolu Kültür Tarihi - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Homo Erectus" un anlamı hangisidir?
     - **Cevap A-) Dik yürüyen**
     - B-) Alet yapan
@@ -400,6 +402,9 @@
     > **Açıklama:** Halaf yerleşmelerinde karşılaştığımız diğer bir dikkat çekici olgu, “tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen bir koridor şeklinde planlanmış yapılardır.<br />“Tholos” adı verilen, ana mekanları daire biçimli ve giriş kısımları dörtgen<br />bir koridor şeklinde planlanmış yapılar Halaf kültürüne aittir.
 
     <hr />
+
+## Ünite 2
+
 1. 1970 yılında tarihteki Hitit-Mısır Antlaşmasının 2 metre boyundaki bakır kopyası, Birleşmiş Milletlerin New York’ daki genel merkez binasının duvarına asılmıştır. Bu antlaşmayı imzalayan dönemin dış işleri bakanı kimdir?
     - A-) Orhan Oğuz
     - B-) Seyfi Öztürk
@@ -800,6 +805,9 @@
     > **Açıklama:** İmparatorluk Döneminde de bayram törenleri için en güzel örnekler Alacahöyük ***ortostatları*** üzerindeki tasvirlerdir.
 
     <hr />
+
+## Ünite 3
+
 1. "*Urartu kalelerinde iki tapınak varsa tapınaklardan biri ....., diğeri ise o bölgenin tanrısının tapınağı olurdu.*"<br />Yukarıdaki boşluğa hangi tanrının adı gelmelidir?
     - A-) Şivini
     - B-) Teişeba
@@ -1700,6 +1708,9 @@
     > **Açıklama:** Urartu Kültürü<br />İnhumasyon: Ölülerin yakılmadan gömülmesi uygulamasıdır.
 
     <hr />
+
+## Ünite 4
+
 1. "Divide et impera" ne demektir?
     - **Cevap A-) Böl ve yönet**
     - B-) Adil yönet
@@ -2100,6 +2111,9 @@
     > **Açıklama:** Romalılar eyaletlerde en çok yol yapımına önem vermiştir.
 
     <hr />
+
+## Ünite 5
+
 1. "Müslüman Arapların akınlarını önleyebilmek için Bizans Devleti Anadoluyu dört eyalete bölmüştür. Bu eyaletler ........................ kelimesi ile adlandırılmıştır."<br />Yukarıdaki ifadede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
     - **Cevap A-) Thema**
     - B-) Tetraşi
@@ -2600,6 +2614,9 @@
     > **Açıklama:** Heraklios döneminde (610-640) Müslüman Arapların akınlarını Anadolu’da önleyebilmek için Bizans Devleti, Anadolu’yu dört eyalete bölmüştür. Bu eyaletler thema kelimesi ile adlandırılmıştır. Themaların genel özelliği eyalet içinde toprağa bağlı yerel ordu bulundurmasıdır. Bundan dolayı kolordu olarak da bilinmektedirler
 
     <hr />
+
+## Ünite 6
+
 1. "Gelin canlar bir olalım" sözü kime aittir?
     - **Cevap A-) Hacı Bektaş-ı Veli**
     - B-) Aşık Veysel
@@ -3000,6 +3017,9 @@
     > **Açıklama:** Ahiler, siyasi bir güce sahip olmamakla birlikte<br />kargaşa zamanlarında düzenli bir ordunun yerini<br />alabilen yapı da idiler. Ahiler, Selçuklu Devleti’nin<br />yıkılışı ve Moğol istilası döneminde Anadolu’nun<br />savunmasında ve düzeninde büyük rol oynamışlardı. Ahi Teşkilatı’nın hisbe vazifesi gören bir yapısı<br />da olduğu görülür. Muhtesibin vazifeleri içinde sayılan konular Ahilik müessesesinde ilke olarak söz<br />konusu idi. “Emr-i bi’l maruf nehy-i ani’l münkeriyiliği emredip kötülükten sakındırma” olarak ortaya konulan anlayış ve ilke gerektiğinde ahiler tarafından yerine getirilmiştir
 
     <hr />
+
+## Ünite 7
+
 1. .......................döneminde (1481-1512) aynı süreçte hem Doğu hem de Batı kültürüne ilgi duyma<br />heyecanı sona erdi. Bununla birlikte yeni Padişah da Adlî mahlası ile şiirler yazmış ve şiirlerini bir<br />divanda toplamıştı. ........................ve bazı üst düzey yöneticilerin şairleri himaye ettikleri ve destekledikleri bilinmektedir.<br />Yukarıda boş bırakılan alanlara aşağıdaki şıklardan hangisi gelmelidir?
     - **Cevap A-) II. Bayezid**
     - B-) I. Selim
@@ -3760,6 +3780,9 @@
     > **Açıklama:** Bazı araştırmacılara göre 13 Mayıs 1277’de Karamanoğlu Mehmet Bey, bazılarına göre ise de Selçuk Divanı tarafından, “Bugünden sonra dîvanda, dergâhta, bargâhta, mecliste, meydanda Türkçeden başka dil konuşulmasın” şeklinde bir ferman yayımlanarak Türkçenin resmi dil olması sağlandı.
 
     <hr />
+
+## Ünite 8
+
 1. 1924 yılında Şer’iyye ve Evkaf Vekâleti yerine, İslam’ın “ay­dın” bir yorumunu yapması ve icra etmesi için hangi kurum kurulmuştur?
     - A-) Diyanet Bakanlığı
     - **Cevap B-) Diyanet İşleri Müdürlüğü**
@@ -4160,3 +4183,4 @@
     > **Açıklama:** **OSMANLI MİRASI, ULUS-İNŞASI VE CUMHURİYET REJİMİNİN KÜLTÜR POLİTİKASI**<br />Türklük tanımı vatandaşlık ve etnik-kültürel temelde yapılmıştır.
 
     <hr />
+

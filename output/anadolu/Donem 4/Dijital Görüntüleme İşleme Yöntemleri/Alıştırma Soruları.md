@@ -1,5 +1,7 @@
 # Dijital Görüntüleme İşleme Yöntemleri - Alıştırma Soruları
 
+## Ünite 1
+
 1. I. En temel resim formatı, BMP’dir.<br />II.Standart jpg formatında, resmin kalitesinden bir miktar ödün vererek sıkıştırma uygulanır.<br />III. TIFF formatı, düşük kalitede olduğu için genellikle sanatçılar tarafından tercih edilmez.<br />IV. PDF hem vektör hem de piksel tabanlı görüntüleri ba­rındırma açısından en yaygın olarak kul­lanılan biçimlerden biridir.<br />Yukarıda dijital görüntüleme formatları ile ilgili verilenlerden hangileri doğrudur?
     - A-) I ve II
     - B-) I ve III
@@ -400,6 +402,9 @@
     > **Açıklama:** İngilizcesi “resolution” olan, birim ölçüdeki piksel sayısına verilen isimdir. Örneğin 1920x1080px denildiğinde 1920 yatay 1080 dikey pikselden oluşan bir dijital görüntü kastedilmektedir. Piksel cinsinden yükseklik ve genişlik boyutunu tanımlar. Sayıların büyümesi dijital görüntüdeki toplam piksel sayısını artması<br />anlamına geldiğinden ne kadar yüksek piksel sayısı o kadar detaylı, keskin, kaliteli ve yüksek çözünürlüklü bir<br />görüntüyü tanımlar. Dijital görüntüde çözünürlük değeri arttıkça görüntü alanı büyür, küçüldükçe görüntü<br />alanı küçülür
 
     <hr />
+
+## Ünite 2
+
 1. Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılan ve yazı /görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemine ne denir?
     - **Cevap A-) Baskı teknikleri**
     - B-) Tasarım
@@ -800,6 +805,9 @@
     > **Açıklama:** Yarımton (Tramlı) Baskı: Bu baskı türünde renk tonları arasında farklı değerlere sahip gri bölgeler bulunmaktadır. Bu gri bölgeler “tram”lar sayesinde oluşturulur. Tramlar, ara tonlar oluşturmak için kullanılan küçük noktacıklardır.
 
     <hr />
+
+## Ünite 3
+
 1. ......... tasarımı ile ifade edilmek istenen, kullanıcının bir üründen en üst seviyede memnun olmasıdır.<br />Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir ?
     - A-) Görsel tasarım
     - **Cevap B-) Kullanıcı deneyimi**
@@ -1200,6 +1208,9 @@
     > **Açıklama:** Facebook<br />Facebook, hem teknolojinin geldiği noktada hem de kendi geleceği konusunda 2021 yılında kritik bir adım atmıştır. Şirket kimliğini “Meta” olarak yenilemiş, “Metaverse” olarak bilenen, bazen üç boyutlu dünyayı kapsayarak bazen de fiziksel dünyada var olarak günümüzün çevrimiçi sosyal deneyimlerini karışımıza çıkarmayı hedefleyen projeyi hayata geçirme çalışmaları başlatmıştır. Facebook’ta eğlence, bilgi alışverişi, fotoğraf, video, müzik paylaşımı, oyun oynama, insanlarla iletişime geçme gibi birçok özellik bulunmaktadır. Bu sebepten dolayı Facebook oldukça geniş bir kitleye hitap etmektedir.
 
     <hr />
+
+## Ünite 4
+
 1. 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımı aşağıdakilerden hangisidir?
     - A-) Maxon Cinema 4D
     - B-) Motion Capture
@@ -1600,6 +1611,9 @@
     > **Açıklama:** * Durağan grafikler oluştururken, şekil, renk, tipografi gibi bilgi içeriklerini yalnızca iki boyutlu bir uzamda dikkate almak gerekmektedir. Hareketli grafikler oluştururken ise durağan grafikleri oluşturma süreci içerisinde düşünerek zaman, dönüşüm, geçiş ve ses gibi unsurlar hakkında daha fazla deneyim harcanması gerekmektedir. İyi bir hareketli grafik videosu üretmek için aşağıdaki adımların sırasıyla uygulanması gerekmektedir: Görüşme (Brief): Hareketli grafik müşteri için yapılacaksa önce müşteri ile görüşülmeli ve videonun hangi amaçla yapılacağı öğrenilmelidir. Araştırma: Tasarımcı sadece müşteri ile görüşmesinden alacağı bilgiler ile yetinmemeli ve konu hakkında detaylı bir literatür taraması yapmalıdır. Video istek üzerine müşteri için yapılmıyorsa önceki adım atlanıp bu adımdan başlanır. Moodboard: Video yapımında kullanılması düşünülen tüm nesne ve ögeler (gerçek veya dijital) fotoğraf, illüstrasyon, metinler, font, renk, müzik ve varsa seslendirme bir pano hâlinde tasarlanır. Doğru cevap E seçeneğidir.
 
     <hr />
+
+## Ünite 5
+
 1. **I.** Fusion<br />**II.** Houdini<br />**III.** Nuke<br />**IV.** After Effects<br />Yukarıdakilerden hangileri gü­nümüzde görsel efekt tasarımı noktasında kullanılan ve pek çok farklı işleve sahip olan yazılımlar arasında yer alır?
     - A-) I ve II
     - B-) I ve IV
@@ -2000,6 +2014,9 @@
     > **Açıklama:** Colorado Eyalet Fuarı’nın her yıl yaptığı geleneksel sanat yarışması dijital sanat kategorisinde birincilik ödülü yapay zekâ ile yaratılan bir sanat eserine verildi.<br />Jason M. Allen eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı (Roose, 2022).
 
     <hr />
+
+## Ünite 6
+
 1. "İlk olarak ........... yılında piyasaya sürülen GTA, tüm zamanların en çok satan video oyunlarından biridir."<br />Yukarıdaki cümlede boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?
     - A-) 2011
     - B-) 2012
@@ -2400,6 +2417,9 @@
     > **Açıklama:** Oyun motoru, programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır.
 
     <hr />
+
+## Ünite 7
+
 1. **Aşağıdakilerden hangisi veri görselleştirmenin faydalarından biri değildir?**
     - A-) Veri madenciliği sürecinin sonucunda üretilen enformasyonu keşfetmenin ve anlamanın en güçlü yoludur.
     - B-) Enformasyonu hızla özümseme, iç görüleri geliştirme ve daha hızlı kararlar almayı sağlar.
@@ -2800,6 +2820,9 @@
     > **Açıklama:** Veri madenciliği, belirli bir ihtiyacı karşılamak ya da bir amacı gerçekleştirmek için büyük verilerin ileri düzey tekniklerle analiz edilmesi sonucu işlenerek değerli verilerin elde edilme sürecidir.
 
     <hr />
+
+## Ünite 8
+
 1. "Dilbilimcilere göre sesler bütüncül bir yapıyı işaret eder ve ................; kavramlar ise .................olarak tanımlanır.”<br />Yukarıda boşluk bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?
     - **Cevap A-) gösteren / gösterilen**
     - B-) gösterilen / gösteren
@@ -3100,3 +3123,4 @@
     > **Açıklama:** Görsel Bildirişim Boyutunda Sanat ve<br />Tasarım<br />letişimin etki alanını artırmak, siber çağ ve yeni<br />teknolojiler Max Bense ve **Roman Ingarden** öncülüğünde bilimin ve sanatın ortaya koyduğu ortak<br />bilgi değişimi sürecinden yola çıkarak “Bildirişim<br />Estetiği” de denilen yeni bir anlayış oluşturdular.
 
     <hr />
+

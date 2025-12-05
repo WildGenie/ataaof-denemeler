@@ -238,7 +238,7 @@
             "topic": "Dogmatik tutum",
             "explanation": "Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini ne olursa olsun değiştirmeyen yaklaşıma dogmacılık denir. (Ünite 2, Sayfa 4: 'Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini ne olursa olsun değiştirmeyen yaklaşıma dogmacılık denir.')",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 13,
@@ -277,7 +277,7 @@
             "UniteNo": 4,
             "topic": "Tiyatro Eleştirisi ve Kuramları",
             "explanation": "Soru 4 ve Soru 48'de de geçen bu bilgiye göre, tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı çıkan ve \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir.\" görüşünü savunan sanatçı, 20. Yüzyıl Tiyatrosu'nda avangartlar arasında yer alan Schechner'dır (Kenneth S. Teisler'in görüşleri bağlamında da yer alabilir, ancak Schechner, çevresel tiyatro ve performans çalışmalarıyla bu sınırlamayı radikal bir şekilde aşmıştır. Metinlerde Schechner'ın adı doğrudan geçmese de, 20. yüzyılda avangartların (Brecht ve diğerleri) geleneksel tiyatroya eleştiri getirdiği ve Schechner'ın \"Çevresel Tiyatro\" ile bu görüşü temsil ettiği bilinmektedir. Verilen şıklar arasında, geleneksel sınırlamalara en radikal eleştiriyi getiren isim olarak Schechner'ı işaretlemek doğru kabul edilmiştir.)",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -298,7 +298,7 @@
             "topic": "Sanatın estetik tasarımı",
             "explanation": "Nesnel gerçekliğin insan zihnindeki estetik tasarımı, sanat bağlamında 'imge' olarak tanımlanır. Bu imge, sanatçının dünyaya bakış açısını ve o konuyu nasıl ele aldığını gösterir. (Ünite 5, Sayfa 2: 'Sanatın dilinde, sanat bağlamında ise imge, nesnel gerçekliğin insan zihnindeki estetik tasarımı olarak tanımlanır...') veya 'Estetik Yaşantı Kuramı' bağlamında da değerlendirilebilir ancak en doğrudan tanım imgedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 16,
@@ -338,7 +338,7 @@
             "topic": "Barok müzik dönemi",
             "explanation": "Operanın doğuşu müzik tarihinde Barok dönemin de başlangıcı olarak kabul edilir. Barok üslup, sanatların birlikteliğini hedefler ve 17. yüzyılın başlarında ortaya çıkmıştır. (Ünite 4, Sayfa 2: 'Operanın Doğuşu ve Barok. Operanın doğuşu müzik tarihinde Barok dönemin de başlangıcı olarak kabul edilir. Barok üslup sanatların birlikteliğini hedefler. 17. yüzyılın sonlarında operada metnin anlamını güçlendirmeye yönelik sahneleme arayışları...')",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 18,
@@ -458,8 +458,10 @@
             "UniteNo": 5,
             "topic": "Resimde Biçimcilik ve Yapısalcılık",
             "explanation": "Resimde, nesnel gerçekliğin insan zihnindeki estetik tasarımı, biçimci kuramların temel konusudur. Anglo-Amerikan Biçimcileri'ne göre sanat eserinde önemli olan 'nasıl söylediğidir' yani yapısal-biçimsel yaklaşımdır (Ünite 5, \"Biçimcilik Kuramları\").",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 15,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 24,
@@ -541,7 +543,9 @@
             "topic": "Çağdaş Heykel ve Eleştiri",
             "explanation": "Tiyatronun sadece sahnede yapılan bir etkinlik olmasından ziyade, \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir\" görüşünü savunan, avangartlar döneminin önemli sanatçılarından biri Marcel Duchamp'tır (Fountain/Çeşme eseri ile). Bu, geleneksel heykel anlayışına (ki burada tiyatro bağlamında soruluyor, ancak Duchamp görsel sanatlarda bu radikal değişimi başlattı) karşı bir eleştiri getirmiştir. Sorunun odak noktası tiyatroda radikal eleştiri getiren avangartlar ise, Duchamp'ın temsil ettiği kavramsal sanatın kökenine bakılmalıdır. (Not: Materyalde 6. Ünite'de Duchamp'ın 'Fountain' eseri \"yapısökümcü bir realite\" olarak anlatılıyor ve bu, heykelde eleştirel mantığın gelişimi bağlamında sunuluyor.)",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 14,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 28,
@@ -581,7 +585,7 @@
             "topic": "Yanlış İkilem Safsatası",
             "explanation": "Yanlış İkilem Safsatası, başka seçenekler (oy vermek veya vermemek dışında üçüncü bir yol) mevcutken, sanki iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen bir safsatadır (Ünite 2, \"Yanlış İkilem Safsatası (False Dilemma)\").",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 30,
@@ -865,8 +869,10 @@
             "UniteNo": 8,
             "topic": "Hatalı Akıl Yürütme (Safsata)",
             "explanation": "Verilen ifade, 'ya bana oy verirsiniz ya da kötü hizmet alırsınız' şeklinde iki seçenek sunarak başka seçeneklerin varlığını yok saymaktadır. Bu, 'Yanlış İkilem Safsatası (False Dilemma)'nın bir örneğidir, çünkü iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilmektedir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 29,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 44,
@@ -969,8 +975,8 @@
             "topic": "Tiyatro Eleştirisi ve Kuramları",
             "explanation": "Soru 14'te de belirtildiği gibi, tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı çıkan ve \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir.\" görüşünü savunan sanatçı, 20. Yüzyıl Tiyatrosu'nda avangartlar arasında yer alan Schechner'dır (Kenneth S. Teisler'in görüşleri bağlamında da yer alabilir, ancak Schechner, çevresel tiyatro ve performans çalışmalarıyla bu sınırlamayı radikal bir şekilde aşmıştır. Verilen şıklar arasında, geleneksel sınırlamalara en radikal eleştiriyi getiren isim olarak Schechner'ı işaretlemek doğru kabul edilmiştir.)",
             "is_duplicate": true,
-            "duplicate_of": 27,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 14,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 49,
@@ -1255,7 +1261,7 @@
             "UniteNo": 6,
             "topic": "Çağdaş heykel sanatçıları",
             "explanation": "Ünite 6'da, Damien Hirst'in ölüm temalarıyla öne çıkan, özellikle ölü hayvanları kullanarak yaptığı yerleştirmeler ve düzenlemelerle heykel sanatına yenilikler getiren bir sanatçı olduğu belirtilmiştir. Hirst'in bu tarz çalışmaları, heykel sanatına getirdiği yenilik ve kavramsal gönderim anlamında çok önemlidir.",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1335,7 +1341,7 @@
             "UniteNo": 5,
             "topic": "Işık ve gölge kullanımı",
             "explanation": "Ünite 5'te, Barok akımının özelliklerinden bahsederken, ışık ve gölgenin anlatımı güçlendiren ögeler olduğu belirtilmiştir. Caravaggio'nun öncü olduğu Barok resimde, hareketli figürlerle güçlendirilmiş derinlik duygusu ön planda olup, **Işık ve gölge** anlatımı güçlendiren ögelerdir. Bu vurgulu kontrast kullanımı, Barok'un dramatik etkisinin temelini oluşturur.",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1395,7 +1401,7 @@
             "UniteNo": 3,
             "topic": "Edebiyat kuramları",
             "explanation": "Soruda, gerçeği yansıtmak yerine, çağrışımlar, benzeşimler, sezgi ve gizli dille 'görülmeyeni görmeye' çağıran, gerçekliğin sınırlarını aşmayı amaçlayan edebiyat anlayışı sorulmaktadır. Ünite 3'te, **Sembolizm** akımının, romantizmin uç dalı olduğu, gerçeği göstermek yerine, simgeler, mecazlarla yüklü örtük, kapalı bir dille anlatma yoluna gittiği ve 'gerçekliğin sınırlarını aşmak' amacında olduğu belirtilmiştir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1495,7 +1501,7 @@
             "UniteNo": 8,
             "topic": "Grafik Tasarımda Eleştirel Düşünce",
             "explanation": "John Heartfield, 1930'larda Nazi propagandasına karşı afişler tasarlamış ve bu yüzden Gestapo tarafından aranmıştır. Karikatür ve sosyal afiş tasarımları, eleştirel düşüncenin vücut bulmuş hâlleridir ve politik/sosyal hicivde kullanılırlar (Ünite 8, Sayfa 1).",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1588,13 +1594,13 @@
                 "Bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır.",
                 "İnsan ve toplumla ilgili her tür olayı konu alarak abartılı bir biçimde veren, düşündürücü ve güldürücü resimdir."
             ],
-            "correctIndex": 2,
+            "correctIndex": 1,
             "exam_question_number": 19,
             "source": "Dönem Sonu 2022-2023",
             "material_id": "523126",
             "UniteNo": 8,
-            "topic": "Karikatür Tanımı",
-            "explanation": "Ünite 8'de Karikatür Sanatı başlığı altında, Fransız yazar, eleştirmen Jules Barbey d'Aurevilly'in karikatürü “bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığı” olarak tanımladığı belirtilir. A şıkkı ise 'bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır' ifadesini içerir ve D şıkkında da A şıkkının ifadesi yer almaktadır. Soruda A şıkkı doğru kabul edildiğinden, bu tanımın doğru olduğu anlaşılır.",
+            "topic": "Karikatür Tanımı ve İşlevi",
+            "explanation": "Özetlere göre, Fransız eleştirmen Jules Barbey d'Aurevilly karikatürü, 'bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığı' olarak tanımlamıştır. Ancak sorunun doğru şıkkı B olarak belirtilmiştir. Metinde B şıkkındaki tanım, 'Karikatür çoğu zaman ahlak ve akademik temsil kurallarını bozarak, var olan düzenin gizlediklerini görünür kılmayı, siyasi iktidara karşı bir direniş kültürü geliştirmeyi, sosyal kurumlarla alay etmeyi amaçlar' şeklinde verilmiştir. Sorudaki doğru kabul edilen şık (B) karikatürün sosyal ve politik eleştirel işlevini vurgulayan bir tanımdır ve özet metninde bu işlevler arasında sayılmıştır.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -1862,7 +1868,7 @@
             "UniteNo": 4,
             "topic": "Besteci İdeolojisi",
             "explanation": "Verilen sözler, sanatın toplumsal düzeni bozma, şaşırtma ve yeni ifade yolları arama amacını vurgulamaktadır. Bu, 20. yüzyıl başındaki Avangart akımların ve ilerlemeci bestecilerin (Liszt, Wagner çizgisindeki) yaklaşımıyla örtüşmektedir. Özellikle, \"bir müzik yapıtı çoğu zaman besteci-icracı arasındaki etkileşimle doğar. Benzer şekilde bir tiyatro oyunu da yazar-oyuncu etkileşimiyle şekillenir\" bağlamında, yenilikçi ve sınırları aşan bir tavrı sergileyen besteciye işaret edilmektedir. Bu türden radikal yenilikçi ve toplumsal eleştiri içeren yaklaşımlar, Ünite 4'te özellikle Debussy'nin de bahsedildiği, geleneksel müziğin kalıplarını aşma çabasıyla paraleldir; ancak bu tarz isyankar bir manifestoya en yakın olanlar genellikle Avangartlardır. Verilen metinlerde, bu tarz radikal ifadelerin tam olarak hangi besteciye atfedildiğine dair kesin bir bilgi olmamakla birlikte, 20. yüzyılda tonaliteyi aşma eğilimi gösteren (Ünite 4, Sayfa 5: \"Tonaliteden Atonaliteye\") ve yenilikçi tavrıyla tanınan besteciler bu ruh halini yansıtır. Ancak, Türk bestecileriyle ilgili spesifik bir alıntı sorulduğunda ve Avangartlar bağlamında değerlendirildiğinde, bu tür isyankar ifadeler, bestecinin toplumsal/etik konulardaki eleştirel duruşunu gösterir. Genellikle bu tarz radikal ifadeler, modern dönem bestecilerinin (Ünite 4, Sayfa 4'te geçen Avangartlar) manifestolarında yer alır. Kaynaklarda bu sözlerin Igor Stravinsky veya Paul Hindemith gibi Batılı bestecilere atfedilen Avangart düşünce tarzıyla uyumlu olduğu görülür. Ancak, verilen özetlerde doğrudan bu cümlenin kime ait olduğu belirtilmemiştir. Eğer bu, bir Türk bestecisi sorusu ise, Ünite 4'te bahsedilen Türk bestecileri (örneğin Ulvi Cemal Erkin, Necil Kazım Akses vb.) bağlamında değerlendirilmelidir. Ancak verilen metinde Türk bestecileri hakkında bu tarz spesifik ve radikal bir alıntıya rastlanmamaktadır. Metinde, 19. yüzyılda bestecilerin sanatsal yaratıcılığını ispatlama çabasından bahsedilmektedir (Ünite 4, Sayfa 3). Bu tarz radikal söylemler genellikle 20. yüzyıl Avangart müziğiyle ilişkilendirilir. Eğer bu soru, müfredattaki bir özel bilgiye dayanıyorsa, verilen metinler arasında direkt bir eşleşme yoktur. Ancak, Ünite 4'teki 'Rönesans'tan 19. Yüzyıla Uzanan Süreçte Tiyatro'da' anlatılan (bestecinin/yazarın toplumsal düzene karşı duruşu) ruh haliyle en uyumlu olan, avangartların estetik tavrıdır. Verilen ünite metinlerinde, bu sözlerin genellikle Batı'da avangart bestecilere atfedilen bir düşünce yapısını yansıttığı kabul edilir. Verilen kaynak materyal, bu spesifik Türk bestecisi sorusuna doğrudan yanıt vermemektedir, ancak genel olarak 20. yüzyılın yenilikçi bestecilerinin estetik tavrını yansıtır. Türk bestecileri arasında, modern müziğin ilk kuşağının (örneğin Cemal Reşit Rey, Ulvi Cemal Erkin) erken dönemlerinde Batı'daki modern akımların etkisiyle benzer bir isyan ruhu taşıyan yaklaşımları mevcuttu. Bu sorunun doğru yanıtı, genellikle bu tarz radikal ifadeleriyle tanınan bir besteciye aittir. Kaynaklarda bu sözler genellikle, yenilikçi Türk bestecilerinden birine atfedilir. Genellikle bu türden isyankar ifadelerin, Türk müziğinde batılılaşma çabalarının en radikal olduğu dönemlerde öne çıkan bestecilere atfedildiği bilinir. Verilen ünite metinleri, Türk besteciler hakkında bu kadar spesifik bir alıntı sunmamaktadır. Ancak, eğer bu soru içeriğin bağlamına dayanarak (Avangart estetik, sınırları aşma) sorulmuşsa, bu tavır, Türk modern müziğinin yenilikçi kanadına aittir. (Bu sorunun cevabı, verilen metinlerde net bir şekilde yer almamaktadır, ancak bağlamı 4. Ünite'nin yenilikçi/avangart bestecilik ruhuna dayanmaktadır.)",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1964,7 +1970,7 @@
             "topic": "Karikatür Teknikleri",
             "explanation": "Ünite 8'de, karikatüristlerin kullandığı temel ele alma teknikleri arasında aşağılama (şakacılık), abartma (grotesk) veya çelişki (saçmalık) sayılmıştır. Bu teknikler, otoriteye ve baskın yönetime karşı eleştirel bir karşı görüş oluşturmayı amaçlar. 'Gizleme', bu eleştirel ve açık ifadelere zıt bir eylemdir ve bu listede yer almaz.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 98,
@@ -1983,7 +1989,7 @@
             "UniteNo": 1,
             "topic": "Spor Eleştirisi",
             "explanation": "Spor eleştirisinin tanımı, Ünite 1'de açıkça verilmiştir: \"Spor eleştirisi genel olarak beceri ve performans değerlendirmesidir\" (Ünite 1, Sayfa 2). Ayrıca, rekabet karşılaşmalarındaki sporcuların estetik, uyum, beceri, yetenek gibi temel yetkinliklerinin saptanarak değerlendirildiği belirtilir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -2084,8 +2090,10 @@
             "UniteNo": 5,
             "topic": "Barok Sanatın Özellikleri",
             "explanation": "Barok sanatın özelliklerinin anlatıldığı bölümde, Barok'un Rönesans'ın dingin yapısı yerine hareketi getirdiği, figürlerin iç içe geçtiği ve hareketli figürlerle güçlendirilmiş derinlik duygusunun ön planda olduğu belirtilir. Işık ve gölge (karanlık) kullanımı, anlatımı güçlendiren ögeler olarak vurgulanır. Parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratarak biçimde düzenlenmiş ışık-gölge dağılımını ifade eder. Caravaggio bu akımın öncülerindendir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 66,
+            "original_source": "Dönem Sonu 2022-2023"
         },
         {
             "id": 104,
@@ -2616,8 +2624,10 @@
             "UniteNo": 3,
             "topic": "Sembolizm",
             "explanation": "Sembolizm, gerçeğin sınırlarını aşmayı amaçlayan, doğrudan anlatım yerine simgeler, mecazlar ve çağrışımlarla anlaşılmayı hedefleyen bir edebiyat anlayışıdır. Metinde Sembolizm, 'çağrışımlarla, benzeşimlerle, sezgi ile anlaşıl anı, 'görülmeyeni görmeye çağıran edebiyat anlayışını ifade eder' olarak tanımlanır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 69,
+            "original_source": "Dönem Sonu 2022-2023"
         },
         {
             "id": 130,
@@ -2656,8 +2666,10 @@
             "UniteNo": 6,
             "topic": "Çağdaş Heykel Sanatçıları",
             "explanation": "Damien Hirst'in öne çıkan teması ölümdür ve ünlü eseri, hayvanları formaldehit içinde sergilediği yerleştirmelerdir. Ünite 6'da Damien Hirst'in \"ölüm temalarıyla ortaya çıktığı\" ve \"özellikle ölü hayvanları kullanarak yaptığı yerleştirme ve düzenlemeler\" ile heykel sanatına katkı sunduğu belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 62,
+            "original_source": "Dönem Sonu 2022-2023"
         },
         {
             "id": 132,
@@ -2717,8 +2729,10 @@
             "UniteNo": 4,
             "topic": "Besteci Sözleri ve Yaklaşımları",
             "explanation": "Bu sözler (Para, alkış falan gözümde yok... Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile.) eskilere başkaldıran, yenilikçi ve toplumsal düzeni sorgulayan bir tutumu ifade eder. Ünite 4'te, 19. yüzyılın ilerlemeci bestecileri (Liszt ve Wagner öncülüğünde) ile gelenekçiler arasındaki çekişme anlatılır. İlhan Usmanbaş, müziğin toplumsal işlevi ve yenilikçi arayışları ile tanınan, geleneksel yapıları sorgulayan bir bestecidir. Bu sözler, özellikle yenilikçi ve geleneksel kalıpları kırma isteğini vurguladığı için İlhan Usmanbaş'a atfedilir (veya bu ruh halini en iyi yansıtanlardan biridir).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 92,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 135,
@@ -2776,7 +2790,7 @@
             "material_id": "523140",
             "UniteNo": 7,
             "topic": "Geleneksel Anlatı Sineması",
-            "explanation": "Geleneksel anlatıda dramatik yapının aşamaları serim, düğüm, çatışma, doruk noktası ve çözüm şeklindedir. Hikayenin en yüksek gerilimli anı 'doruk noktası'dır. Ünite 7'de, Geleneksel Anlatı Sineması başlığı altında, dramatik yapının aşamaları arasında \"doruk noktası\"nun bulunduğu belirtilmiştir.",
+            "explanation": "Geleneksel anlatı sinemasının dramatik yapısı; serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur. Soruda verilen 'doğru kabul edilecek' şık B şıkkıdır. Bu yapıya göre, gerilimin en üst noktaya ulaştığı aşama 'Doruk noktası' olarak adlandırılır. Ünite 7 özetinde, 'Geleneksel anlatıda dramatik yapının olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur' denilmektedir. Ayrıca, 'perdede gördüğü hayatlarla, karakterlerle özdeşleşir. Yaşanan şey, serim-düğüm-çatışma-doruk-çözüm çizgisinde ilerleyen anlatının kurmaca dünyasında, güven içinde bir yolculuktur' ifadesi bu yapıyı doğrulamaktadır.",
             "is_duplicate": true,
             "duplicate_of": 70,
             "original_source": "Dönem Sonu 2022-2023"
@@ -2798,8 +2812,10 @@
             "UniteNo": 8,
             "topic": "Grafik Tasarım Tarihi",
             "explanation": "1930'larda Nazizm'e karşı mücadele eden ve bu yüzden en çok arananlardan biri olan tasarımcı John Heartfield'dır (Hans Haack değil, çünkü Haack daha çok propaganda afişleri yaptı). Ünite 8'de doğrudan bir isim verilmemiştir, ancak karikatürün sosyal hiciv ve propaganda işlevi vurgulanmıştır. Bu bağlamda, grafik tasarımda anti-Nazi mücadele ile en ünlü isim John Heartfield'dır (Ünite 8 metninde geçmese de, karikatür/grafik tasarım bağlamında bu bilgi 8. ünitenin konusuyla doğrudan ilişkilidir). Ancak, ünite özetlerinde spesifik isim yoksa, en yakın konuya odaklanılmalıdır: Karikatürün sosyal hiciv, siyaset/propaganda işlevi (Ünite 8). (Bu sorunun cevabı doğrudan metinde yok, ancak bağlam (Grafik/Karikatür ve Eleştirel Düşünce) ve tarih bilgisi gerektirir. John Heartfield doğru tarihi cevaptır. Eğer metinden cevap aranırsa, bu bağlamda protesto afişlerinden bahsedildiği için bu cevabın beklendiği düşünülebilir.)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 74,
+            "original_source": "Dönem Sonu 2022-2023"
         },
         {
             "id": 139,
@@ -2902,8 +2918,10 @@
             "UniteNo": 5,
             "topic": "Barok Resim Anlatımı",
             "explanation": "Barok sanat, Rönesans'ın durağan yapısı yerine hareketi getirir. Ünite 5'te, Barok sanatın biçimsel özelliklerinden bahsederken, \"Işık ve gölge ise anlatımı güçlendiren ögelerdir.\" ifadesi yer alır. Bu, ışık ve karanlık arasındaki vurgulu kontrastın (chiaroscuro/tenebrizm) Barok resmin temelini oluşturduğunu gösterir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 66,
+            "original_source": "Dönem Sonu 2022-2023"
         },
         {
             "id": 144,
@@ -3316,8 +3334,10 @@
             "UniteNo": 2,
             "topic": "Dogmacılık ve Ilımlı Muhafazakârlık",
             "explanation": "Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini hemen değiştirmeyen yaklaşıma 'dogmacılık' denir. Metinde, 'Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavra ılımlı muhafazakârlık denir' ifadesi yer almaktadır. Soru, yeterli nedenlere rağmen fikrini değiştirmemeyi sorduğu için dogmacılık en uygun cevaptır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 12,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 164,
@@ -3398,8 +3418,10 @@
             "UniteNo": 4,
             "topic": "Barok Dönem ve Opera",
             "explanation": "Operanın doğuşu müzik tarihinde Barok dönemin de başlangıcı olarak kabul edilir. Barok üslup, sanatların (müzik, tiyatro, dekor, kostüm vb.) birlikteliğini hedefler ve 17. yüzyılın başında ortaya çıkmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 17,
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 168,
@@ -3605,8 +3627,10 @@
             "UniteNo": 8,
             "topic": "Karikatür Teknikleri",
             "explanation": "Ünite 8'de karikatürcülerin kullandığı başlıca konu ele alma teknikleri olarak aşağılama (şakacılık), abartma (grotesk) veya çelişki (saçmalık) belirtilmiştir. 'Sansürle baltalanan ifade özgürlüğüne bağlılık' ise karikatürcülerin savunduğu görüşlerdendir, tekniklerden biri değildir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 97,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 178,

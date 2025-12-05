@@ -1,5 +1,7 @@
 # Dijital Kültür - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Özgür Yazılım Hareketi" aşağıdakilerden hangisinin iyi bir örneğidir?
     - A-) Medya ve popüler kültürün 20. yüzyıl kapitalizminin aracı olması
     - B-) İnternetin geleceğinin birden çok faktöre bağlı olması
@@ -400,6 +402,9 @@
     > **Açıklama:** Transmedya tam da internetin yapısına uygun olarak bir hikayeyi/anlatıyı birçok mecra kullanarak anlatmak olarak tanımlanabilir.<br />Cevap Transmedya olmalıdır.
 
     <hr />
+
+## Ünite 2
+
 1. "Kullanıcıların konum verisi paylaşmasına olanak sağlayan popüler sosyal ağlar ve mobil uygulamalardan bazıları Facebook, Twitter, Gowalla, Foursquare, Instagram, WhatsApp, Google+, Tinder, Swarm ve Bumble olarak sıralanabilir." Aşağıdakilerden hangisi fiziksel mekâna bindirilen artırılmış gerçeklik uygulamaları da bu verileri kullanan diğer platformalar arasındadır?<br />I. Google Maps,<br />II. Yandex Navigasyon,<br />III. TripAdvisor,<br />IV. Uber
     - **Cevap A-) I, II, III ve IV**
     - B-) I, III ve IV
@@ -800,6 +805,9 @@
     > **Açıklama:** Trollük, İnternet’te insanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışmak, alaycı söylemlerle hakaret ederek rahatsızlık vermek olarak tanımlanmaktadır.
 
     <hr />
+
+## Ünite 3
+
 1. "Bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşan, bir krank kolu çevrilerek parçaları hareket ettirilen ve hareket eden parçaları güneşin, ayın pozisyonlarını hesaplamaya yarayan” tarihin ilk bilgisayarı olarak da kabul edilen mekanizma aşağıdakilerden hangisidir?
     - A-) Fil Saati
     - **Cevap B-) Antikythera**
@@ -1600,6 +1608,9 @@
     > **Açıklama:** Gerçekliğin Tanımı<br />“Aristoteles’e göre “idealar veya formlar birer soyutlamadan başka hiçbir şey değildir”<br />(Cevizci, 2015). Aristoteles gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğunu öne sürmektedir.”
 
     <hr />
+
+## Ünite 4
+
 1. ....... blok zincileri kamuya kapalıdır.<br />Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?
     - A-) Konsorsiyum
     - B-) Coin
@@ -2000,6 +2011,9 @@
     > **Açıklama:** İlk kripto paranın dayandığı blok zincir kamuya açık genel blok zinciri (public blockchain) idi. Ethereum ve Bitcoin genel blok zincirlerine dayanıyor. Kripto paraların çoğunun çıkış felsefesine de bu daha uygun.
 
     <hr />
+
+## Ünite 5
+
 1. 1970’lerden itibaren bilgisayar sanatı, çoklu ortam sanatı, dijital sanat, ağ sanatı, dijital yerleştirme sanatı, sanal gerçeklik sanatı gibi, üretildiği veya sergilendiği teknolojiye göre isimlendiren, yeni dijital ifade biçimlerini, en uygun şekliyle aşağıdakilerden hangisinin altında toplayabiliriz?
     - A-) Çağdaş Sanat
     - **Cevap B-) Yeni medya sanatı**
@@ -2700,6 +2714,9 @@
     > **Açıklama:** 20\. yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir. Ador­no ve Lukacs gibi Frankfurt okulundan çağdaşlarının aksine Benjamin “Me­kanik Çoğaltım Çağı”nı negatif bir olgu olarak anlamlandırmaz. Yeni teknolojilerin sanatın alım­lanmasındaki demokratik etkilerine yoğunlaşır. maz. Yeni teknolojilerin sanatın alım­lanmasındaki demokratik etkilerine yoğunlaşır.
 
     <hr />
+
+## Ünite 6
+
 1. "Oyun, gereksiz engellerin üstesinden gelmek için yürütülen gönüllü bir çabadır." düşüncesi kime aittir?
     - **Cevap A-) Bernard Suits**
     - B-) Johan Huizinga
@@ -3300,6 +3317,9 @@
     > **Açıklama:** İngilizce literatürde Türkçe oyunlaşma veya<br />oyunlaştırılma kavramının birden fazla karşılığı<br />vardır. Muriel ve Crawford (2018), kültürün<br />oyunlaşmasını tartışırken “gamification”, “ludification”<br />ve “videoludification” kavramlarını<br />kullanırlar. Bu kavramlar arasındaki temel fark<br />oyun kavramının öne çıkarılmak istenen özelliğidir.<br />Bunun için yukarıda da ele alınan game ve<br />ludus sözcükleri yanında dijital oyun anlamına<br />gelen “video game” sözcüğü, oyunlaştırmanın<br />odağını belirleyecek şekilde yer değiştirmiştir.
 
     <hr />
+
+## Ünite 7
+
 1. ".......... testinde sorgulayıcı kişi klavyeden yazı ortamında karşı tarafa sorular sorar ve gelen yanıtlara göre karşı tarafın bir yapay zeka olup olmadığı konusunda fikrini beyan eder. Eğer karşısındakinin yapay zeka olduğunu belirlemezse yapay zeka testi geçmiş sayılır. Yani düşünebilen bir makine olduğu varsayılır." cümlesindeki boş yere aşağıdakilerden hangisi gelmelidir?
     - A-) Bilgi temsili
     - **Cevap B-) Turing**
@@ -3900,6 +3920,9 @@
     > **Açıklama:** Lütfen "Kavanozdaki Beyin" başlıklı yazıyı gözden geçiriniz.<br />Descartes’in meşhur “cogito ergo sum” deyişini biliriz. Düşünüyorum öyleyse varım, derken varoluşunun temeline düşünme yetisini koymaktadır.
 
     <hr />
+
+## Ünite 8
+
 1. 2018’de kaleme aldığı kitabında arama motorlarında kullanılan algoritmalarının ırkçı olduğunu ve toplumda var olan olumsuz önyargıları güçlendirdiğini savunan yazar kimdir?
     - A-) Chris Anderson
     - **Cevap B-) Safiya Umoja Noble**
@@ -4600,3 +4623,4 @@
     > **Açıklama:** Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları<br />“Neredeyse tüm takip veya dinleme uygulamaları duygu (ton) analizini kullanıcılarına hizmet olarak sağlamaya çalışır. Duygu (ton) analizi, tekil bir içerikten milyonlarca içeriğin ortalamasına kadar ifade edilenlerin en basitinde olumlu, olumsuz ve nötr olmak üzere yaklaşımların ya da ifadelerin genel olarak bakış açısını belirten bir değerlendirme ve analiz biçimidir.”
 
     <hr />
+

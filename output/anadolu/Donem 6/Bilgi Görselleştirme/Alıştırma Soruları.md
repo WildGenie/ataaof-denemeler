@@ -1,5 +1,7 @@
 # Bilgi Görselleştirme - Alıştırma Soruları
 
+## Ünite 1
+
 1. **Bilgi görselleştirme ile grafik tasarım arasındaki ayrımın kaynağı nedir?**
     - A-) Kullanılan yazılımların farklılığı
     - **Cevap B-) Tasarımcının görevinin gereklilikleri ve amacı**
@@ -200,6 +202,9 @@
     > **Açıklama:** Yanlış bilginin yayılmasını önlemek için bilgi kaynaklarının doğruluğunun kontrol edilmesi ve doğrulanması önemlidir.
 
     <hr />
+
+## Ünite 2
+
 1. "Isaac Newton’un biliminden etkilenen İngiliz entomolog (böcek bilimci) ve oymacı, ışık renkleri üzerine çalışan Newton’un aksine sadece somut dünyadaki renklerin ilişkileri üzerine çalışmıştır. 1769 ve 1776 yılları arasında yayımladığı “Prizmatik Renk Çemberi” (Prismatic color wheel) isimli çalışmasında, renklerin ve birbirleriyle olan ilişkilerinin farklılıklarının ortaya çıkarmaya çalışmıştır" ifadesinde bahsedilen kişi aşağıdakilerden hangisidir?
     - A-) William Playfair
     - B-) Joseph Priestley
@@ -400,6 +405,9 @@
     > **Açıklama:** Yanıt Antik Roma’da yol haritalarıdır<br />Itinerarium Antik Roma’da yol haritalarını ifade eder
 
     <hr />
+
+## Ünite 3
+
 1. ........... tasarım, izleyicilerin bilgiyi anlamalarını ve etkileşimde bulunmalarını sağlamak için kullanılan bir disiplindir. Bilginin ...........olarak tasvir edilmesi ve yaratıcı, etkileyici vizyonların ortaya çıkması, görüntü, kelime, sayı ve sanatın kesiştiği bir alanda çalışmayı gerektirir.<br />Boş bırakılan yere hangisi gelmelidir?
     - **Cevap A-) Görsel**
     - B-) İşitsel
@@ -600,6 +608,9 @@
     > **Açıklama:** Bu bilgigrafiler, izleyicinin baştan sona takip etmesi kolay olan sezgisel bir düzen ile her adımda veya aşamada neler olduğunu gösterir. İyi tasarlanmış bir süreç bilgigrafisi, paylaşılan konsepti daha anlaşılır hâle getirmektedir.<br />Süreç Bilgigrafileri
 
     <hr />
+
+## Ünite 4
+
 1. "Bilgi mimarisi dendiğinde, başta web siteleri olmak üzere, çeşitli medya uzamlarında sunulan bilginin............................"<br />Yukarıdaki cümleyi aşağıdakilerden hangisi tamamlar?
     - A-) ... alt parçalara bölünerek ve bu parçaları birbirleri ile ilişkilendirilmesi anlaşılır
     - **Cevap B-) ...organizasyonu, etiketlenmesi, dolaşımı ve aranması ile ilgili, çıkış noktasında kütüphane ve enformasyon bilimi alanı bulunan bir disiplin anlaşılır**
@@ -800,6 +811,9 @@
     > **Açıklama:** İlk kez Ackoff (1989) tarafından literatüre eklenen ve İngilizcedeki veri, bilgi birikimi ve bilgelik sözcüklerinin ilk harfleri ile DIKW (data - information - knowledge - wisdom) piramidi olarak da anılan bu hiyerarşik yaklaşım, küçük farklarla da olsa çok pek çok araştırmacı tarafından ele alınmıştır(Rowley, 2007).
 
     <hr />
+
+## Ünite 5
+
 1. Aşağıdakilerden hangisi bilgi görselleştirme ile ilgili doğru bir ifadedir?
     - A-) Kitle iletişim araçları aracılığıyla yoğun bilgi bombardımanına maruz kalan insanlar çevresini saran bilgiyi anlamakta güçlük çekmezler.
     - **Cevap B-) Bilgi görselleştirme karmaşık verilerin daha iyi anlaşılmasını ve yorumlanmasını sağlamak amacıyla verilerin görsellerle temsil edilmesidir.**
@@ -1000,6 +1014,9 @@
     > **Açıklama:** İlk temel metinler ve ardından onları takip eden gündelik olayları aktarır metinlerin belirli bir akış içerisinde yazıldığı görülmüştür. Nitekim iki kişi arasındaki bir diyalog da benzer bir olay örgüsünü takip etmektedir. Bu noktadan yola çıkarak metinlerin yazının ilk icat edildiği zamanlarda bile doğru akışla yazıldığı, karışık sırayla yazılmadığı söylenebilir.
 
     <hr />
+
+## Ünite 6
+
 1. "Bilgigrafi tasarımında bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak<br />noktasının belirlenmesi açısından temel ilkedir. Farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır."<br />Tanımı aşağıdakilerden hangi seçeneğin açıklamasıdır?
     - A-) Ölçek
     - B-) Oran
@@ -1200,6 +1217,9 @@
     > **Açıklama:** Grafik format, verilerin görsel olarak temsil edildiği yapı veya düzen biçimidir.
 
     <hr />
+
+## Ünite 7
+
 1. "Etkileşimli veri görselleştirmelerinin kullanımının oldukça azalmasının öncelikli nedeni, ................. yaklaşımı olmakla birlikte, tek neden bu değildir. Veri görselleştirmenin .................... haberlerinin de bir parçası hâline gelmesi, örneğin harita kullanımının sıklaşmasıyla beraber, hazırlanması için daha fazla zaman gereken etkileşimli görselleştirmeler terkedilmeye başlanmıştır." ifadesindeki boş yerlere sırasıyla hangi ifadeler gelmelidir?
     - **Cevap A-) “önce mobil” ve “son dakika”**
     - B-) “önce mobil” ve “spor”
@@ -1400,6 +1420,9 @@
     > **Açıklama:** İstatistiksel yaklaşımlarla veri analizine dayanan “bilgisayar destekli habercilik” 1960’larda ortaya çıkmış, 1980’ler ve 90’larda önem kazanmış olmakla birlikte (Nguyen ve Lugo-Ocando, 2016), özellikle ABD ve İngiltere’deki bazı yayın kuruluşlarının haber odalarında, 2000’li yılların ortasından başlayarak bilgisayar programcılarının da çalışmaya başladığı görülmektedir (Parasie ve Dagiral, 2013).
 
     <hr />
+
+## Ünite 8
+
 1. "Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir" tanımı, Csikszentmihalyi'nin başarılı bir etkileşimin temel özelliklerinden hangisidir?
     - **Cevap A-) Zaman Kavramının Yitimi**
     - B-) Geri Bildirimin Sağlanması
@@ -1600,3 +1623,4 @@
     > **Açıklama:** Akış (Streaming) Verinin sürekli biçimde değiştiği, anlık olarak izlendiği ve sadece gerekli olduğu zamanlarda depolandığı bilgi deneyimleme biçimi.<br />IoT (Internet of Things) Nesnelerin İnterneti, akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir.<br />Arttırılmış Gerçeklik: Çeşitli teknolojik cihazlar aracılığıyla çevremizde gördüğümüz fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması an lamına gelmektedir.<br />Karma Gerçeklik: Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezi olarak tanımlanabilir.<br />Kullanıcı Deneyimi Tasarımı: Görsel iletişimin anlık etkileşimler olmaktan çıkıp, zamana yayılan, davranış değişikliği yaratabilen, alışkanlıklarımızı belirleyen ve duygular ortaya çıkaran ve en önemlisi tüm bunları süreklilik içinde yapabilen eylemler ve etkileşimler bütünü olarak algılanmasını öneren yenilikçi bir tasarım yaklaşımıdır.
 
     <hr />
+

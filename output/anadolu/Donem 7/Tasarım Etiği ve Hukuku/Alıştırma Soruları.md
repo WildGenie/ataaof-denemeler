@@ -1,5 +1,7 @@
 # Tasarım Etiği ve Hukuku - Alıştırma Soruları
 
+## Ünite 1
+
 1. "......., bir mesleğe mensup bireyin hem kendini hem de mesleğini korumak, geliştirmek ve değerli kılmak adına oluşturulmuştur." Cümlesindeki boşluğa aşağıdaki seçeneklerden hangisi gelmelidir?
     - A-) Mesleki davranış,
     - B-) Meslek üyesi,
@@ -300,6 +302,9 @@
     > **Açıklama:** Türk Dil Kurumu Türkçe Sözlük’e göre hukuk,“toplumu düzenleyen ve devletin yaptırım gücünü belirleyen yasaların bütünü” olarak tanımlanmaktadır.
 
     <hr />
+
+## Ünite 2
+
 1. "Sanatçının, alıcılarına vermek istediği mesajdır" diye tanımlanabilen ve özgün bir yaratımın iç koşulu olan kavram aşağıdakilerden hangisidir?
     - A-) Konu
     - B-) Etik ilkeler
@@ -600,6 +605,9 @@
     > **Açıklama:** Eğer doğru yanıt verilemediyse, kılavuz kitabımızın “Tasarım ve Tasarlama Nedir?” (sayfa 38) bölümünde özellikle sayfa 39’daki bilgiler yeniden çalışıp gözden geçiriniz.<br />Sorunun yanıtının verilmesi için “Tasarım ve Tasarlama Nedir?” orta başlığında sayfa 38’ ve izleyen kısımlardaki bilgiler (özellikle sayfa 39) gözden geçirildiğinde ilgili paragrafta tasarımın matematiksel ve sezgisel boyutları ifade edilmektedir. Bu nedenle paragrafın “… Bu anlamda örnek yelpazesini genişletmek mümkündür. Şehir planlama, mimarlık, iç mekân tasarımı, endüstriyel tasarım, grafik tasarım, tekstil vb. bu alanlardaki üretimler hem **matematiksel** hem de **sezgiseldir****.**” Şeklinde oluşturulduğu görülmektedir. Bu noktadan bakıldığında ve dikkatlice izlenildiğinde sorunun yanıtına ilişkin verilen çeldiriciler içinden “B” şıkkının yanıt olduğu görülmektedir.
 
     <hr />
+
+## Ünite 3
+
 1. "Bir buluşun patent veya faydalı modelle korunabilmesi için yeni olması gerekir." Bu bilgiye göre "yenilik" kavramı aşağıdakilerden hangisini ifade eder?”
     - A-) Buluşun patent ya da faydalı model başvuru tarihinden önceki son 3 yıl içinde gerçekleştirilmiş olmasını ifade eder.
     - B-) Patent veya faydalı model başvuru tarihinden sonraki bir tarihte o buluş üzerinde herhangi bir değişiklik yapılmamasını ifade eder.
@@ -900,6 +908,9 @@
     > **Açıklama:** Günümüzde<br />Türk Hukuku’nda genel eğilim fikrî mülkiyete<br />geniş anlam yükleme yönündedir (Güneş, 2021,<br />s. 29). Ülkemizde sınai mülkiyet hakları 6769 sayılı Sınai Mülkiyet Kanunu (bundan sonra kısaca<br />“SMK” olarak anılacaktır) ve ikincil mevzuat ile<br />düzenlenmekte iken telif hakları/eser üzerindeki<br />haklar 5846 sayılı Fikir ve Sanat Eserleri Kanunu<br />(bundan sonra kısaca “FSEK” olarak anılacaktır) ve<br />ikincil mevzuat ile düzenlenmektedir.<br />Fikrî mülkiyet hakkı, kişilerin fikrî gayretleri ve emekleri ile ortaya çıkardıkları fikri ürünler<br />için kendilerine sağlanan haklardır. Fikri ürün soyuttur, maddi bir eşya değildir.<br />6769 sayılı Sınai Mülkiyet Kanunu ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu
 
     <hr />
+
+## Ünite 4
+
 1. Aşağıdaki eserlerden hangisi, güzel sanat eserleri arasında yer almaz?
     - A-) Heykeller, kabartmalar ve oymalar
     - B-) Karikatür eserleri
@@ -1200,6 +1211,9 @@
     > **Açıklama:** İşlenme eserde mevcut bir eser yeni bir şekle dönüştürülmektedir. İşlenme<br />eserden söz edebilmek için öncelikle bir eser olmalıdır (koruma süresini dolmuş olması önem arz etmez).
 
     <hr />
+
+## Ünite 5
+
 1. 1871'de Osmanlı'da çıkarılan Alâmet-i Fârika Nizamnamesi aşağıdaki fikri haklardan hangisini korumak üzere çıkarılmıştır?
     - **Cevap A-) Marka**
     - B-) Patent
@@ -1500,6 +1514,9 @@
     > **Açıklama:** Fikri mülkiyet hakları, temelde, fikir ve sanat eserlerine ilişkin haklar (copyright) ve sınai mülkiyet hakları olarak iki kola ayrılmaktadır. Ülkemizde eserler, temel eser kategorilerinden birine dâhil olmak ve gerekli şartları sağlamak koşuluyla 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile korunmaktadır.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıda ortak markaya ilişkin verilen bilgilerden hangisi doğru değildir?
     - A-) Ortak marka, gruptaki işletmelerin mal ve hizmetlerini, diğer gruptaki işletmelerin mal ve hizmetlerinden ayırt etmeye yarar.
     - B-) Ortak markanın tescili için ortak marka sahipleri birlikte hareket eder. Ortak markanın yenilenmesi için ortaklardan birinin başvurması yeterlidir.
@@ -1700,6 +1717,9 @@
     > **Açıklama:** İltibas, “bir kişinin, kendi fikir ya da sanat eserini veya işletmesini ve ürünlerini başkasının önceden var olan ürününe benzetmesi ve bundan ekonomik çıkar sağlamak suretiyle ya da doğrudan zararla önceki ürün hak sahibine zarar vermesi” olarak tanımlanabilir. Yani alıcının zihninde karışıklık yaratmaktır.
 
     <hr />
+
+## Ünite 7
+
 1. Aşağıda haksız rekabete ilişkin verilen bilgilerden hangisi yanlıştır?
     - **Cevap A-) Haksız rekabet iki rakip arasında olan ilişkidir.**
     - B-) Haksız rekabetten söz edilebilmesi için kusur şart değildir.
@@ -1900,6 +1920,9 @@
     > **Açıklama:** TTK Madde 54/2'ye göre, haksız rekabetin tespitinde "dürüstlük kuralı" belirleyici olarak kabul edilmektedir. Kanun, rakipler arasında veya tedarik edenlerle müşteriler arasındaki ilişkileri etkileyen aldatıcı veya dürüstlük kuralına aykırı davranışların haksız rekabet olarak değerlendirilmesi gerektiğini vurgulamaktadır.
 
     <hr />
+
+## Ünite 8
+
 1. "Kanun tarafından kişilere tanınan hakların, hukuki işlemlere konu edilebilmeleri için .......................... haklar olmaları gerekir" cümlesinde boş bırakılan yere aşağıdaki ifadelerin hangisi getirilmelidir?
     - **Cevap A-) Üzerlerinde tasarruf edilebilir nitelikte**
     - B-) Tek taraflı
@@ -2200,3 +2223,4 @@
     > **Açıklama:** Sınai hak sahipleri, hakkın kendisini devretme­den, belirli koşullar altında bu hakların gerçek veya tüzel kişiler tarafından kullanımına izin verebilir. Kapsam ve koşulları taraflar arasındaki sözleşmeyle belirlenen bu kullanım iznine “lisans” denir. Mar­ka hakkı bakımından, markanın tescil edildiği mal veya hizmetlerin bir kısmı ya da tamamı için li­sans sözleşmesine konu olabileceği düzenlenmiştir (SMK m. 24/1).<br />Gerek marka gerekse tasarım hakkı için lisans, “inhisari lisans” veya “inhisari olmayan lisans” şek­linde verilebilir (SMK m. 24/2, SMK m. 75/2). Sözleşmede aksi kararlaştırılmamışsa lisans, inhisa­ri değildir. İnhisari olmayan lisans sözleşmelerinde, lisans veren, hakkı kendi kullanabileceği gibi üçün­cü kişilere de başka lisanslar verebilir. İnhisari lisans sözleşmelerinde ise lisans veren, başkasına lisans ve­remez ve hakkını açıkça saklı tutmadıkça kendisi de markayı ya da tasarımı kullanamaz.<br />İnhisari-inhisari olmayan lisans ayrımını bir ör­nek ile açıklayalım. Diyelim ki bir grafik tasarımcı, özgün nitelikte bir logo tasarımı yapar ve bu ta­sarımı Sınai Mülkiyet Kanunu uyarınca “marka” olarak tescil ettirir. Daha sonra, bir giyim firması bu logoyu kendi ürünlerinde kullanmak ister ve tasarımcı ile bu kullanım hakkında bir lisans an­laşması yapar. Eğer anlaşma inhisari olmayan bir lisans olarak yapılandırılmışsa, tasarımcı, bu logo tasarımını kendisi de kullanmaya devam edebilir ve hatta istediği takdirde başka şirketlere de aynı logo için lisanslar verebilir. Bu durumda, giyim markası logoyu kullanma hakkına sahip olur; an­cak tasarımcının aynı logo üzerindeki haklarını sı­nırlayamaz. Eğer anlaşma inhisari bir lisans olarak yapılandırılmışsa, bu, tasarımcının logo üzerindeki kullanım haklarını sadece bu giyim markasına ver­diği ve başka herhangi bir kişi ya da şirketin, hatta kendisinin bile logoyu kullanmasını engellediği an­lamına gelir.
 
     <hr />
+

@@ -55,7 +55,7 @@
 
 ### Erişilebilirlik Tanımı
 
-1. Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir? *(2 kez soruldu)*
+1. Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir? *(3 kez soruldu)*
     - A-) Evrensellik
     - **Cevap B-) Erişilebilirlik**
     - C-) Kaynaştırma
@@ -63,16 +63,6 @@
     - E-) Kapsayıcılık
 
     > **Açıklama:** Erişilebilirlik, binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.
-
-    <hr />
-1. Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojilerinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir?
-    - A-) Kaynaştırma
-    - **Cevap B-) Erişilebilirlik**
-    - C-) Engelleme
-    - D-) Evrensellik
-    - E-) Kapsayıcılık
-
-    > **Açıklama:** Ünite 2'de erişilebilirlik, 'binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olması' olarak tanımlanmaktadır. Metinde bu tanım doğrudan 'Erişilebilirlik' başlığı altında yer almaktadır.
 
     <hr />
 
@@ -112,16 +102,6 @@
     - E-) Hata toleransı
 
     > **Açıklama:** Dijital ortam tasarımlarında yoğun paragraflar yerine kısa metinler kullanmak, tasarımın gereksiz karmaşadan arındırılması ve kullanıcıların beklentileriyle uyum içinde olmasını sağlama amacını taşır. Bu durum, Evrensel Tasarım İlkelerinden 'Basit ve Sezgisel Kullanım' ilkesi ile ilgilidir (Ünite 2).
-
-    <hr />
-1. Yukarıdakilerden hangisi/hangileri kullanımda esneklik ilkesinin sağladıkları arasında yer alır? I. Kullanımda seçenekler sunar. II. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar. III. Kullanım hızına uyumluluk sağlar. *(2 kez soruldu)*
-    - A-) Yalnız I
-    - B-) Yalnız II
-    - C-) I ve II
-    - D-) II ve III
-    - **Cevap E-) I, II ve III**
-
-    > **Açıklama:** Ünite 2'de belirtilen 'Kullanımda Esneklik' ilkesi, 'kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır.' Bu, I. ve III. maddelerle uyumludur (seçenek sunma ve hıza uyumluluk). II. madde, 'Eşitlikçi Kullanım' ilkesinin bir parçasıdır (sağ ve sol elin dikkate alınması).
 
     <hr />
 
@@ -304,7 +284,7 @@
 
 ### İletişim Kavramı
 
-1. Sabah elimize aldığımız diş fırçasından kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza kadar hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir? *(2 kez soruldu)*
+1. Sabah elimize aldığımız diş fırçasından kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza kadar hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir? *(3 kez soruldu)*
     - A-) Kullanıcı tasarımı
     - B-) Kullanıcı dostu
     - **Cevap C-) Kullanıcı deneyimi**
@@ -365,7 +345,7 @@
 
 ### Kullanımda Esneklik
 
-1. I. Kullanımda seçenekler sunar.<br />II. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar.<br />III. Kullanım hızına uyumluluk sağlar.<br />Yukarıdakilerden hangisi/hangileri kullanımda esneklik ilkesinin sağladıkları arasında yer alır?
+1. I. Kullanımda seçenekler sunar.<br />II. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar.<br />III. Kullanım hızına uyumluluk sağlar.<br />Yukarıdakilerden hangisi/hangileri kullanımda esneklik ilkesinin sağladıkları arasında yer alır? *(3 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -373,19 +353,6 @@
     - **Cevap E-) I, II ve III**
 
     > **Açıklama:** Ünite 4'te Evrensel Tasarım İlkeleri sıralanmış ve her biri açıklanmıştır. Kullanımda esneklik ilkesi, ürün ve ortam tasarımlarının geniş kişisel tercih ve yetenek yelpazesine hitap etmesini, kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını kolaylaştırmasını ifade eder. I. Kullanımda seçenekler sunar (Doğru). II. Sağ ve sol elin kullanımını dikkate alır (Bu, genellikle esneklik kapsamında değerlendirilir, ancak Ünite 5'te "Kullanımda Esneklik" tanımında "kullanım metodu ile ilgili seçenekler sunarak" denilmektedir. III. Kullanım hızına uyumluluk sağlar (Doğrudan bu şekilde geçmez, ancak esneklik genel olarak farklılaşmış kullanım biçimlerine uyum sağlamaktır). Ünite 4'te Kullanımda Esneklik ilkesi, "kullanım metodu ile ilgili seçenekler sunarak kullanıcıların hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır" şeklinde tanımlanmıştır. Bu, I numaralı ifadeyi destekler. II numaralı ifade, özellikle Ünite 5'te "Kullanımda Esneklik" başlığı altında, "mekânsal çözümlerde kullanıcı tercihine göre sunulan alternatifler" ve ergonomik yapılarla rahatlık sağlama bağlamında esneklik kapsamına girer. Ünite 4'teki tanıma göre I kesinlikle doğrudur. II ve III daha genel ifadelerdir ancak esneklik, çoklu modaliteyi (sağ/sol el) ve hızı da kapsar. Ünite 4'te (s.4) Kullanımda Esneklik başlığı altında, "mekânsal çözümlerde kullanıcı tercihine göre sunulan alternatifler ile her gün kullandığımız bilgisayar klavyelerindeki tuşların ergonomik yapısı kullanımı rahatlatmaktadır" denir. Kullanım hızı genellikle diğer ilkelerle (örneğin Düşük Fiziksel Çaba) ilişkilidir. Ancak, "Kullanımda Esneklik" ilkesi, bir işi yapmanın birden fazla yolunu sunar (el, hız vb.). Sorunun bağlamı Ünite 4'teki genel tanımlamaları içeriyorsa, I ve II esnekliğin temel göstergeleridir. II, örneğin, bir görevi hem sağ hem de sol elle yapabilme seçeneği sunulması anlamına gelir. Bu ilke genellikle çoklu girdi/çıktı yollarını ve kullanım varyasyonlarını kapsar. I ve II bu ilkeyle güçlü bir şekilde ilişkilidir.
-
-    <hr />
-
-### Robot Teknolojileri
-
-1. I. Robotlara insansı özellikler kazandırılır. II. İnsan-bilgisayar etkileşimidir. III. Otizmli bireylerde etkililiği sınırlıdır. Yukarıdaki robot teknolojisi ile ilgili bilgilerden hangisi/hangileri doğrudur?
-    - A-) Yalnız I
-    - B-) Yalnız II
-    - **Cevap C-) I ve II**
-    - D-) I ve III
-    - E-) II ve III
-
-    > **Açıklama:** Ünite 4'te, robot teknolojileri için 'insansı özellikler kazandırılır' (Hearingbot örneği), 'insan-bilgisayar etkileşimidir' (genel tanım) ifadeleri geçmektedir. Ancak, robot teknolojileriyle ilgili bilgilerin genelinde otizm (OSB) ile ilgili özel bir kısıtlama veya etkisizlikten bahsedilmemektedir. Aksine, sanal gerçeklik uygulamalarının otizmli bireylerin sosyal uyum becerileri için umut vaat ettiği belirtilmiştir. Bu nedenle III. ifade (Etkililiği sınırlıdır) doğru kabul edilemez.
 
     <hr />
 
@@ -432,17 +399,7 @@
 
 ### Engellilerin İstihdamı
 
-1. Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş hizmetlerinden biri değildir?
-    - **Cevap A-) İşe girecek bireyleri tespit etme**
-    - B-) Mesleki yönlendirme
-    - C-) Kamu veya özel sektörde işe yerleştirme
-    - D-) İş arama becerileri ve mülakat teknikleri eğitimi
-    - E-) Aktif iş gücü programlarına yönlendirme
-
-    > **Açıklama:** Ünite 5'in özetinde, engellilerin istihdamı ile ilgili olarak Madde 572'nin tamamen iş gücüne katılımı ve istihdamı artırmayı hedeflediği belirtilmektedir. İstihdam hizmetleri (işe yerleştirme, yönlendirme, eğitim vb.) bu hedeflerin parçasıdır. Ancak, A şıkkı olan "İşe girecek bireyleri tespit etme" doğrudan iş hizmeti başlığı altında sayılan istihdamın temel adımlarından biri olarak belirtilmemiştir (Örneğin, 11. Kalkınma Planı'nda sosyal hizmetlerin çeşitlendirilmesi, eğitime katılım ve iş gücü piyasasına katılım politikalarının sürdürüleceği belirtilirken, bu şıklar doğrudan bir hizmet başlığı olarak listelenmemiştir). Diğer şıklar (mesleki yönlendirme, işe yerleştirme, eğitim vb.) genellikle istihdam sürecinin parçalarıdır.
-
-    <hr />
-1. Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş koçluğu hizmetlerinden biri değildir? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş koçluğu hizmetlerinden biri değildir? *(3 kez soruldu)*
     - **Cevap A-) İşe girecek bireyleri tespit etme**
     - B-) İş arama becerileri ve mülakat teknikleri eğitimi
     - C-) Mesleki yönlendirme
@@ -450,19 +407,6 @@
     - E-) Kamu veya özel sektörde işe yerleştirme
 
     > **Açıklama:** Ünite 5 özetinde engellilerin istihdamına yönelik hizmetler ve destekler ele alınmaktadır. İstihdam, iş gücü piyasasına katılımı içerir ve bu kapsamda mesleki yönlendirme, işe yerleştirme ve iş arama becerileri eğitimi önemlidir. A şıkkı olan "İşe girecek bireyleri tespit etme" doğrudan bir iş koçluğu hizmeti olarak belirtilmemiştir; tespit etme süreci daha çok genel bir değerlendirme veya yönlendirme aşamasıdır. Diğer şıklar (yönlendirme, işe yerleştirme, aktif iş gücü programlarına yönlendirme) istihdam hizmetlerinin parçalarıdır.
-
-    <hr />
-
-### Evrensel Tasarımın Etkisi
-
-1. Sabah elimize aldığımız diş fırçamızdan kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir?
-    - A-) Kullanıcı tasarımı
-    - B-) Kullanıcı dostu
-    - **Cevap C-) Kullanıcı deneyimi**
-    - D-) Kullanıcı düşüncesi
-    - E-) Kullanıcı arayüzü
-
-    > **Açıklama:** Bireyin çevresiyle olan etkileşimleri, kullandığı ürünler ve hizmetler yoluyla duygu ve davranışlarında değişimlere yol açar. Evrensel tasarımın amacı, bu etkileşimleri herkes için pozitif kılmaktır. Ünite 5'te, gelişimsel yetersizliği olan bireylerle ilgili olarak, tasarımın duyular, davranışlar ve öğrenme üzerindeki etkisinden bahsedilmektedir. Ancak sorunun belirttiği gibi, bu etkileşimlerin toplamına verilen genel bir isim, evrensel tasarım ilkeleri bağlamında genel olarak "kullanılabilirlik" veya "erişilebilirlik" ile ilişkilidir. Ancak, verilen seçenekler bağlamında, bu etkileşimlerin sonucunda ortaya çıkan duygusal ve davranışsal tepkiler, tasarımın kullanıcı üzerindeki genel etkisini yansıtır. Ünite 3'te "Görsel İletişim Tasarım Sürecinin Aşamaları" bölümünde "insan merkezli olma"nın öneminden bahsedilirken, Ünite 5'te gelişimsel yetersizlik bağlamında çevresel etkileşimler vurgulanmıştır. Sorunun içeriği en iyi Evrensel Tasarımın genel amacını yansıtmaktadır; ancak spesifik bir terim isteniyorsa, bu etkileşimlerin sonucunda ortaya çıkan davranışsal ve duygusal sonuçlar, tasarımın kullanıcı üzerindeki genel etkisidir. Sorunun formatı, evrensel tasarımın genel hedeflerinden birini (tüm bireylerin kullanımını ve dolayısıyla psikososyal etkilerini) ima etmektedir.
 
     <hr />
 
@@ -481,7 +425,7 @@
 
 ### Robot Teknolojileri
 
-1. I. Robotlara insansı özellikler kazandırılır.<br />II. İnsan-bilgisayar etkileşimidir.<br />III. Otizmli bireylerde etkililiği sınırlıdır.<br />Yukarıdaki robot teknolojisi ile ilgili bilgilerden hangisi/hangileri doğrudur? *(2 kez soruldu)*
+1. I. Robotlara insansı özellikler kazandırılır.<br />II. İnsan-bilgisayar etkileşimidir.<br />III. Otizmli bireylerde etkililiği sınırlıdır.<br />Yukarıdaki robot teknolojisi ile ilgili bilgilerden hangisi/hangileri doğrudur? *(3 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I ve II**
@@ -489,19 +433,6 @@
     - E-) II ve III
 
     > **Açıklama:** Ünite 5'te robot teknolojileri gelişimsel yetersizliği olan bireyler için umut vaat eden uygulamalar olarak geçer. Hearingbot örneği, işitme kayıplı bireylere yardım etmek için tasarlanmış bir robot konseptidir. Robot teknolojileri genellikle insan/insansı özellikler kazandırmaz; daha çok işlevsel destek sağlarlar. Ayrıca, robot teknolojilerinin otizmli bireylerde etkililiği sınırlı olduğuna dair genel bir bilgi metinlerde yer almamaktadır.
-
-    <hr />
-
-### Sosyal Destek Hizmetleri
-
-1. Yukarıda sıralanan sosyal destek hizmetlerinden hangileri Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından verilir? I. Engelli aylığı II. Muhtaç aylığı III. Spor eğitimi desteği IV. Evde bakım desteği *(2 kez soruldu)*
-    - A-) I ve II
-    - B-) II ve IV
-    - C-) I, II ve III
-    - **Cevap D-) I, II ve IV**
-    - E-) I, III ve IV
-
-    > **Açıklama:** Ünite 5'te, sosyal destek hizmetleri altında, Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından sunulan hizmetler arasında 'Engelli aylığı' ve 'Bakım Hizmetleri' (Evde bakım desteği gibi) yer almaktadır. Muhtaç aylığı ve spor eğitimi desteği spesifik olarak bu başlık altında doğrudan listelenmemiştir, ancak Engelli aylığı ve Evde bakım desteği (Bakım Hizmetleri başlığı altında) ASHB tarafından sunulan desteklerdir.
 
     <hr />
 
@@ -595,22 +526,9 @@
 
     <hr />
 
-### Sağlık Hizmetleri Erişimi
-
-1. I. İşitme kayıplı bireylere acil durumda hizmet sunan Sağlık Bakanlığı Engelsiz Sağlık İletişim Merkezi (ESİM) hizmet vermektedir. II. Sadece işitme kayıplı bireylere özel acil servisler kurulmuştur. III. 112 acil servisinde özel TİD görevlendirilmiştir. İşitme kayıplı bireylere sunulan sağlık hizmetleriyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
-    - A-) Yalnız I
-    - **Cevap B-) I ve III**
-    - C-) I ve II
-    - D-) Yalnız II
-    - E-) II ve III
-
-    > **Açıklama:** Ünite 6'da, işitme kayıplı bireylerin acil durumlarda hızlı ve etkili sağlık hizmetine ulaşmasını sağlamak amacıyla Sağlık Bakanlığı tarafından Engelsiz Sağlık İletişim Merkezi (ESİM) hizmetinin verildiği belirtilmektedir (I. ifade doğru). Ancak, metinde sadece ESİM'den bahsedilmiş, özel acil servislerin kurulduğuna veya 112'de özel TİD görevlendirildiğine dair bir bilgi bulunmamaktadır (II. ve III. ifadeler doğrulanamaz).
-
-    <hr />
-
 ### Sağlık Hizmetleri ve ESİM
 
-1. I. İşitme kayıplı bireylere acil durumda hizmet sunan Sağlık Bakanlığı Engelsiz Sağlık İletişim Merkezi (ESİM) hizmet vermektedir.<br />II. Sadece işitme kayıplı bireylere özel acil servisler kurulmuştur.<br />III. 112 acil servisinde özel TİD tercümanları görevlendirilmiştir.<br />İşitme kayıplı bireylere sunulan sağlık hizmetleriyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
+1. I. İşitme kayıplı bireylere acil durumda hizmet sunan Sağlık Bakanlığı Engelsiz Sağlık İletişim Merkezi (ESİM) hizmet vermektedir.<br />II. Sadece işitme kayıplı bireylere özel acil servisler kurulmuştur.<br />III. 112 acil servisinde özel TİD tercümanları görevlendirilmiştir.<br />İşitme kayıplı bireylere sunulan sağlık hizmetleriyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur? *(2 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -623,7 +541,7 @@
 
 ### Sosyal Destek Hizmetleri
 
-1. I. Engelli aylığı<br />II. Muhtaç aylığı<br />III. Spor eğitimi desteği<br />IV. Evde bakım desteği<br />Yukarıda sıralanan sosyal destek hizmetlerinden hangileri Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından verilir?
+1. I. Engelli aylığı<br />II. Muhtaç aylığı<br />III. Spor eğitimi desteği<br />IV. Evde bakım desteği<br />Yukarıda sıralanan sosyal destek hizmetlerinden hangileri Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından verilir? *(3 kez soruldu)*
     - A-) I ve II
     - B-) II ve IV
     - C-) I, II ve III
@@ -820,7 +738,7 @@
 
 ### Evrensel Tasarım İlkeleri
 
-1. Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle ilişkilidir? *(2 kez soruldu)*
+1. Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle ilişkilidir? *(3 kez soruldu)*
     - A-) Kullanımda esneklik
     - **Cevap B-) Algılanabilir bilgi**
     - C-) Eşitlikçi kullanım
@@ -830,20 +748,10 @@
     > **Açıklama:** Ünite 7'de, görme yetersizliği olan bireyler için tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmesi örneği (yönlendirme ve algıyı destekleme) verilmiştir. Bu, özellikle görme yetersizliği olan bireylerin çevrelerini anlamalarına yardımcı olur. Evrensel Tasarım İlkeleri şunlardır (Ünite 3'te de geçmektedir, Ünite 7'de de atıf yapılır): 1. Eşitlikçi Kullanım, 2. Kullanımda Esneklik, 3. Basit ve Sezgisel Kullanım, 4. Algılanabilir Bilgi, 5. Hata Toleransı, 6. Düşük Fiziksel Efor, 7. Yaklaşım ve Kullanım için Boyut, Yer ve Alan. Görsel yönlendirme ve algıyı destekleme, doğrudan "Algılanabilir Bilgi" ilkesiyle ilişkilidir. Bu ilke, gerekli bilgiyi etkili bir şekilde iletmeyi amaçlar (Ünite 3/4/7). Kırmızı renk kullanımı, renk algısının bir parçasıdır, ancak düzenlemenin temel amacı bilginin algılanabilirliğini artırmaktır.
 
     <hr />
-1. Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilşkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle İlişkilidir?
-    - A-) Hata toleransı
-    - B-) Kullanımda esneklik
-    - C-) Düşük fiziksel çaba
-    - D-) Eşitlikçi kullanım
-    - **Cevap E-) Algılanabilir bilgi**
-
-    > **Açıklama:** Ünite 7'de (Sayfa 4), görme yetersizliği olanlar için tuvaletlere ilişkin düzenlemeler anlatılırken, görsel tasarım uygulamaları arasında Braille ve dokunsal/görsel işaretlerin kullanılması gerektiği belirtilir. Özellikle 'görsel tasarım uygulamaları' bölümünde, görme engelliler için Braille eklenmesi gerektiği vurgulanır. Sorudaki uygulama (büyük ve kırmızı renkli yönlendirici görseller) görme duyusuna hitap ederken, görme engelliler için Braille ve dokunsal işaretlerin kullanılması gerekliliği de Evrensel Tasarım İlkeleri kapsamında ele alınmıştır (Ünite 7'de bu ilkelerin görme engelliler için uygulamaları tartışılmaktadır). Ancak, en doğrudan ilişkili ilke, görsel bilginin farklı şekillerde sunulmasını sağlayan 'Algılanabilir Bilgi' ilkesidir. Çünkü kırmızı renkli görsel yönlendirme, görme yetersizliği olan bireyler için (eğer az görenlerse) veya görme engelliler için (görsel algılarını desteklemek amacıyla) sunulan bir bilgidir.
-
-    <hr />
 
 ### Görme Yetersizliği Etkileri
 
-1. I. Psilomotor gelişim yavaşlar.<br />II. Yineleyici davranışlar ortaya çıkar.<br />III. Omurga geriye doğru güçlenir.<br />Görme yetersizliğinin gelişim üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?
+1. I. Psilomotor gelişim yavaşlar.<br />II. Yineleyici davranışlar ortaya çıkar.<br />III. Omurga geriye doğru güçlenir.<br />Görme yetersizliğinin gelişim üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur? *(2 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I ve II**
@@ -897,19 +805,6 @@
     - E-) GVZ NetOkur
 
     > **Açıklama:** Ünite 7'de, 'Seeing Al' uygulamasının yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan bir uygulama olduğu belirtilmiştir (Ünite 7, Bilgisayar Yazılım ve Donanımları).
-
-    <hr />
-
-### Görme Yetersizliğinin Gelişim Etkileri
-
-1. I. Psikomotor gelişim yavaşlar. II. Yineleyici davranışlar ortaya çıkar. III. Omurga geriye doğru güçlenir. Görme yetersizliğinin gelişim üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?
-    - A-) Yalnız I
-    - B-) Yalnız II
-    - **Cevap C-) I ve II**
-    - D-) I ve III
-    - E-) II ve III
-
-    > **Açıklama:** Ünite 7, Görme Yetersizliğinin Gelişim Üzerindeki Etkileri başlığı altında, görsel uyarıcı yoksunluğunun gelişim alanlarını olumsuz etkilediğini belirtir. Özellikle psikomotor gelişim üzerinde durulur: 'Görmeyen bebekler, öncelikle baş kontrolü ve çevreyi araştırma/erişimle ilişkili sorunlar yaşarlar... Hareket etme fırsatlarının sağlanmaması, uygun olmayan duruş problemini beraberinde getirecektir.' Bu durum, psikomotor gelişimin yavaşlaması anlamına gelir. Yineleyici davranışlar (stereotipik davranışlar) da ortaya çıkar: 'kendini uyarma davranışı olan, ellerini gözünün önünde sallama, parmağını gözüne bastırma, başını sağa sola sallama vb. stereotipik (yineleyici) davranışların ortaya çıkmasına neden olabilmektedir.' Omurga geriye doğru güçlenmesi (boyun/baş kontrolü) gelişimin erken dönemindeki bir sorundur, ancak 'omurga geriye doğru güçlenir' ifadesi doğrudan bir çıkarım değildir; daha çok 'baş kontrolü' sorunu belirtilir. Ancak, psikomotor gelişimde yavaşlama (I) ve yineleyici davranışların (II) ortaya çıkması doğru ifadelerdir.
 
     <hr />
 

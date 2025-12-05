@@ -1,15 +1,15 @@
 # 🔄 Mükerrer Soru Analizi
 
-**Tarama Tarihi:** Wed Dec  3 23:25:34 +03 2025
+**Tarama Tarihi:** Fri Dec  5 07:25:16 +03 2025
 **Taranan Dosya Sayısı:** 33
 **Toplam Soru Sayısı:** 4301
-**Mükerrer Soru Grubu Sayısı:** 769
+**Mükerrer Soru Grubu Sayısı:** 770
 
 > **Not:** Sadece cevap metinlerinin farklı olduğu durumlar '⚠️ (Farklı Cevap!)' olarak işaretlenmiştir. Şıkların yerinin değişmesi sorun teşkil etmez.
 
 ---
 
-### ✅ Temel Sanat ve Tasarım Eğitimi: 19 Kez Tekrarlandı
+### ✅ Temel Sanat ve Tasarım Eğitimi: 16 Kez Tekrarlandı
 
 **Soru:** Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>
 
@@ -21,9 +21,6 @@
 | Dönem Sonu 2021-2022 | 95 | Hata |
 | Dönem Sonu 2021-2022 | 115 | Hata |
 | Ara Sınav 2021-2022 | 13 | Hata |
-| Dönem Sonu 2022-2023 | 68 | Hata |
-| Dönem Sonu 2022-2023 | 77 | Hata |
-| Dönem Sonu 2022-2023 | 107 | Hata |
 | Ara Sınav 2024-2025 | 23 | Hata |
 | Dönem Sonu 2023-2024 | 48 | Hata |
 | Dönem Sonu 2024-2025 | 67 | Hata |
@@ -174,6 +171,19 @@
 | Ara Sınav 2022-2023 | 119 | Tamamen biyolojik bir problemdir. ⚠️ (Farklı Cevap!) |
 | Ara Sınav 2023-2024 | 137 | Sinirlerin göz küresinden çıktığı bölümdür. ⚠️ (Farklı Cevap!) |
 | Ara Sınav 2024-2025 | 158 | Ağ tabakada ışık duyargalarının bulunmadığı noktadır. (Farklı Şık İçeriği) |
+
+---
+
+### ✅ Mitoloji ve Din: 4 Kez Tekrarlandı
+
+**Soru:** Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b> <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>
+
+| Kaynak | ID | Cevap |
+| --- | --- | --- |
+| Ara Sınav 2023-2024 | 136 | Hata |
+| Dönem Sonu 2022-2023 | 68 | Hata |
+| Dönem Sonu 2022-2023 | 77 | Hata |
+| Dönem Sonu 2022-2023 | 107 | Hata |
 
 ---
 
@@ -567,7 +577,7 @@
 
 ---
 
-### ✅ Görsel İletişim ve Kuramları: 4 Kez Tekrarlandı
+### ⚠️ Görsel İletişim ve Kuramları: 4 Kez Tekrarlandı
 
 **Soru:** Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanan kavram aşağıdakilerden hangisidir?
 
@@ -576,7 +586,7 @@
 | Dönem Sonu 2023-2024 | 59 | Estetik |
 | Dönem Sonu 2024-2025 | 75 | Estetik |
 | Yaz Okulu 2023-2024 | 97 | Estetik |
-| Yaz Okulu 2024-2025 | 117 | Estetik |
+| Yaz Okulu 2024-2025 | 117 | Tasarım ⚠️ (Farklı Cevap!) |
 
 ---
 
@@ -2541,15 +2551,15 @@
 
 ---
 
-### ✅ Ambalaj Tasarımı: 3 Kez Tekrarlandı
+### ⚠️ Ambalaj Tasarımı: 3 Kez Tekrarlandı
 
 **Soru:** Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri <u>değildir</u>?
 
 | Kaynak | ID | Cevap |
 | --- | --- | --- |
-| Dönem Sonu 2023-2024 | 59 | İkna etme |
-| Dönem Sonu 2024-2025 | 79 | İkna etme |
-| Yaz Okulu 2023-2024 | 100 | İkna etme |
+| Dönem Sonu 2023-2024 | 59 | Vergilendirme |
+| Dönem Sonu 2024-2025 | 79 | İkna etme ⚠️ (Farklı Cevap!) |
+| Yaz Okulu 2023-2024 | 100 | İkna etme ⚠️ (Farklı Cevap!) |
 
 ---
 
@@ -6056,7 +6066,7 @@
 
 | Kaynak | ID | Cevap |
 | --- | --- | --- |
-| Dönem Sonu 2022-2023 | 79 | Gülünç veya hoş olmayan yüklemeler yapan grafik hicivdir. |
+| Dönem Sonu 2022-2023 | 79 | Ahlak ve akademik temsil kurallarını bozarak, düzenin gizlediklerini görünür kılmaktır. |
 | Yaz Okulu 2022-2023 | 132 | Bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır. ⚠️ (Farklı Cevap!) |
 
 ---
@@ -6237,25 +6247,25 @@
 
 ---
 
-### ✅ Görsel Tasarımda Yaratıcı Düşünme Teknikleri: 2 Kez Tekrarlandı
+### ⚠️ Görsel Tasarımda Yaratıcı Düşünme Teknikleri: 2 Kez Tekrarlandı
 
 **Soru:** Aşağıdakilerden hangisi icadından ve yaygın kullanımından bugüne kadar insanları en çok etkileyen anlatı üreticilerinin başında gelir?
 
 | Kaynak | ID | Cevap |
 | --- | --- | --- |
-| Ara Sınav 2023-2024 | 37 | Televizyon |
-| Yaz Okulu 2024-2025 | 167 | Televizyon |
+| Ara Sınav 2023-2024 | 37 | Sinema |
+| Yaz Okulu 2024-2025 | 167 | Televizyon ⚠️ (Farklı Cevap!) |
 
 ---
 
-### ✅ Görsel Tasarımda Yaratıcı Düşünme Teknikleri: 2 Kez Tekrarlandı
+### ⚠️ Görsel Tasarımda Yaratıcı Düşünme Teknikleri: 2 Kez Tekrarlandı
 
 **Soru:** Anlatıcı dünyaya kimin gözünden bakar? "Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?" Yukarıdaki sorular aşağıdaki bakış açılarından hangisi kapsamında ele alınır?
 
 | Kaynak | ID | Cevap |
 | --- | --- | --- |
-| Ara Sınav 2023-2024 | 38 | Algısal Bakış Açısı |
-| Ara Sınav 2024-2025 | 56 | Algısal Bakış Açısı |
+| Ara Sınav 2023-2024 | 38 | Zamansal Bakış Açısı |
+| Ara Sınav 2024-2025 | 56 | Algısal Bakış Açısı ⚠️ (Farklı Cevap!) |
 
 ---
 
@@ -6314,14 +6324,14 @@
 
 ---
 
-### ✅ Görsel Tasarımda Yaratıcı Düşünme Teknikleri: 2 Kez Tekrarlandı
+### ⚠️ Görsel Tasarımda Yaratıcı Düşünme Teknikleri: 2 Kez Tekrarlandı
 
 **Soru:** Aşağıdakilerden hangisi sanattaki en tartışmalı sorundur?
 
 | Kaynak | ID | Cevap |
 | --- | --- | --- |
 | Dönem Sonu 2022-2023 | 73 | İçerik-biçim ilişkisi |
-| Yaz Okulu 2024-2025 | 177 | İçerik-biçim ilişkisi (Farklı Şık İçeriği) |
+| Yaz Okulu 2024-2025 | 177 | Eserin sahibinin niteliği ⚠️ (Farklı Cevap!) |
 
 ---
 
@@ -7909,14 +7919,14 @@
 
 ---
 
-### ✅ Görsel İletişim ve Kuramları: 2 Kez Tekrarlandı
+### ⚠️ Görsel İletişim ve Kuramları: 2 Kez Tekrarlandı
 
 **Soru:** Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine ne ad verilir?
 
 | Kaynak | ID | Cevap |
 | --- | --- | --- |
 | Dönem Sonu 2024-2025 | 80 | Simülasyon |
-| Yaz Okulu 2024-2025 | 119 | Simülasyon |
+| Yaz Okulu 2024-2025 | 119 | Gerçek ⚠️ (Farklı Cevap!) |
 
 ---
 

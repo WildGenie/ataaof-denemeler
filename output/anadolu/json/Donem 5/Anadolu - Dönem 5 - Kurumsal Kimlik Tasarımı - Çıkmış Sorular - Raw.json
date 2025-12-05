@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question": "Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve oluşturur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve ----- oluşturur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "tüketici sadakati",
                 "marka kimliği",
@@ -17,7 +17,7 @@
         },
         {
             "id": 2,
-            "question": "I. Diğer kurumlardan farklılaşma/ayırt edilebilme II. Uluslararası alanda bilinirlik sağlanması III. Pazar payına sahip olma ve tanınırlığını sağlama IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama Yukarıdakilerden hangileri kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. şeklinde doğru şekilde oluşturulduğunda sağlanır?",
+            "question": "I. Diğer kurumlardan farklılaşma/ayırt edilebilme<br>II. Uluslararası alanda bilinirlik sağlanması<br>III. Pazar payına sahip olma ve tanınırlığını sağlama<br>IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br>Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır?",
             "options": [
                 "I ve II",
                 "I ve III",
@@ -77,7 +77,7 @@
         },
         {
             "id": 6,
-            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? ....... kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.",
+            "question": "----- kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Kurumsal imaj",
                 "Kurumsal iletişim",
@@ -92,7 +92,7 @@
         },
         {
             "id": 7,
-            "question": "Aşağıdakilerden hangisi kurumsal kimliğin bileşenlerinden biri <u>değildir</u>?",
+            "question": "Aşağıdakilerden hangisi kurumsal kimliğin bileşlerinden biri <u>değildir</u>?",
             "options": [
                 "Kurumsal Tasarım",
                 "Kurumsal İletişim",
@@ -167,7 +167,7 @@
         },
         {
             "id": 12,
-            "question": "Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline ----- denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "çoklu kimlik",
                 "amblem",
@@ -212,7 +212,7 @@
         },
         {
             "id": 15,
-            "question": "-------, farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "----- farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Yakınsak düşünme",
                 "Taslak",
@@ -227,7 +227,7 @@
         },
         {
             "id": 16,
-            "question": "\"Yazısız resim\" anlamına gelen ve günlük hayatımızda oldukça sık karşılaştığımız bu göstergeler ......., farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır. Yukarıdaki cümlede boş bırakıln yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "\"Yazısız resim\" anlamına gelen ve günlük hayatımızda oldukça sık karşılaştığımız bu göstergeler -----, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır. Yukarıdaki cümlede boş bırakıln yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "logolar",
                 "ablemler",
@@ -257,7 +257,7 @@
         },
         {
             "id": 18,
-            "question": "Bir tasarım tanımında belirlenen kısıtlar çerçevesinde alternatif, yenilikçi ve getirici çözümler üretme yeteneğine ne ad verilir?",
+            "question": "Bir bağlam içerisinde problem tanımında belirlenen kısıtlar çerçevesinde alternatif, yenilikçi ve gelecekteki çözümler üretme yeteneğine ne ad verilir?",
             "options": [
                 "Analiz",
                 "Problem tanımı",
@@ -277,7 +277,7 @@
                 "Proje ve problem tanımının hazırlanması",
                 "Stratejik amaçların ve hedeflerin belirlenmesi",
                 "Hedef kitlenin belirlenmesi",
-                "Tasarruf planının oluşturulması",
+                "Tasaruf planının oluşturlması",
                 "Yaratıcılığı tetikleme ve tasarım kriterlerini belirleme"
             ],
             "correctIndex": 3,
@@ -332,8 +332,14 @@
         },
         {
             "id": 23,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
-            "options": [],
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [
+                "İptal",
+                "İptal",
+                "İptal",
+                "İptal",
+                "İptal"
+            ],
             "correctIndex": -1,
             "exam_question_number": 3,
             "source": "Ara Sınav 2024-2025",
@@ -341,7 +347,7 @@
         },
         {
             "id": 24,
-            "question": "I. Diğer kurumlardan farklılaşma/ayırt edilebilme<br>II. Uluslararası alanda bilinirlik sağlanması<br>III. Pazar payına sahip olma ve tanınırlığını sağlama<br>IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br>Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır?",
+            "question": "I. Diğer kurumlardan farklılaşma/ayırt edilebilme.<br>II. Uluslararası alanda bilinirlik sağlanması.<br>III. Pazar payına sahip olma ve tanınırlığını sağlama.<br>IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama.<br>Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır?",
             "options": [
                 "I ve II",
                 "I ve III",
@@ -356,7 +362,7 @@
         },
         {
             "id": 25,
-            "question": "Aşağıdakilerden hangisi kurumsal kimliğin bileşenlerinden biri <u>değildir</u>?",
+            "question": "Aşağıdakilerden hangisi kurumsal kimliğin bileşlerinden biri <u>değildir</u>?",
             "options": [
                 "Kurum Felsefesi",
                 "Kurumsal Tasarım",
@@ -371,13 +377,13 @@
         },
         {
             "id": 26,
-            "question": "I. Sözcük Markası<br>II. Resim Markası<br>III. Karma Marka<br>IV. Aile Markası<br>Yukarıdakilerden hangileri markanın biçimine göre marka türleri içinde yer alır?",
+            "question": "I. Sözcük Markası.<br>II. Resim Markası.<br>III. Karma Marka.<br>IV. Aile Markası.<br>Yukarıdakilerden hangileri markanın biçimine göre marka türleri içinde yer alır?",
             "options": [
                 "I ve II",
-                "II ve III",
+                "I ve III",
+                "I, II ve IV",
                 "I, II ve III",
-                "II ve IV",
-                "I, II ve IV"
+                "I, II, III ve IV"
             ],
             "correctIndex": 3,
             "exam_question_number": 6,
@@ -388,7 +394,7 @@
             "id": 27,
             "question": "Aşağıdakilerden hangisi markanın kullanım şekillerinden biri <u>değildir</u>?",
             "options": [
-                "Ürünü olarak marka",
+                "Ürün olarak marka",
                 "Birlik marka",
                 "Kurum/Kuruluş olarak marka",
                 "Kişi olarak marka",
@@ -416,9 +422,9 @@
         },
         {
             "id": 29,
-            "question": "_____, tüketicilerin zihinlerinde oluşturulan imajı temsil ederken, _____ ise bu imajı oluşturmak ve güçlendirmek için yapılan süreçleri ifade eder. Yukarıdaki paragrafta boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "question": "----- tüketicilerin zihinlerinde oluşturulan imajı temsil ederken, ----- ise bu imajı oluşturmak ve güçlendirmek için yapılan süreçleri ifade eder. Yukarıdaki paragrafta boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
             "options": [
-                "Marka markalaşma",
+                "Marka - markalaşma",
                 "Tanıtım - markalaşma",
                 "Tanıtım - reklam",
                 "Reklam - tanıtım",
@@ -431,7 +437,7 @@
         },
         {
             "id": 30,
-            "question": "_____, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve İşleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "----- kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Kurumsal iletişim",
                 "Kurum felsefesi",
@@ -461,7 +467,7 @@
         },
         {
             "id": 32,
-            "question": "Kurumsal kimlik tasarımında renk kullanımında dikkat edilecek hususlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "question": "Kurumsal kimlik tasarımında renk kullanımında dikkat edilecek hususlar ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
             "options": [
                 "Renk tercihlerinde, kurum kimliği, marka veya kuruluşa uygunluğu yanında hedef kitle de düşünülmelidir.",
                 "Renk kurumsal kimlik tasarımını materyalleri arasında ortak bir tasarım dili oluşturulmasına katkı sağlar.",
@@ -476,13 +482,13 @@
         },
         {
             "id": 33,
-            "question": "Aşağıdakilerden hangisi kimlik kavramının tanımıdır?",
+            "question": "Aşağıdakilerden hangisi kurumsal kimlik kavramının tanımıdır?",
             "options": [
                 "Kimlik, yalnızca bir şirketin logosu ve ismi için kullanılan bir terimdir.",
-                "Kimlik, kurumun hizmet düzeyi ve iş yapma yaklaşımını gibi davranışsal özelliklerini tanımlamak için kullanılan bir terimdir.",
+                "Kimlik, bir kurumun hizmet düzeyi ve iş yapma yaklaşımı gibi davranışsal özelliklerini tanımlamak için kullanılan bir terimdir.",
                 "Bir şirketin ürettiği ürün hakkında bilgi veren bir terimdir.",
                 "Kimlik, yalnızca bilişsel estetik bir süreci anlatan bir terimdir.",
-                "Kimlik, vakıf firmaların iş yapma şeklini yansılayan bir terimdir."
+                "Kimlik, rakip firmaların iş yapma şeklini tanımlayan bir terimdir."
             ],
             "correctIndex": 1,
             "exam_question_number": 13,
@@ -491,7 +497,7 @@
         },
         {
             "id": 34,
-            "question": "Bir bağlam içerisinde problem tanımına belirlenen kısıtlar çerçevesinde alternatif, yenilikçi ve geleneksel çözümler üretme yeteneğine ad verilir?",
+            "question": "Bir bağlam içerisinde problem tanımında belirlenen kısıtlar çerçevesinde alternatif, yenilikçi ve geleceği çözümler üretme yeteneğine ad verilir?",
             "options": [
                 "Yaratıcılık",
                 "Analiz",
@@ -506,11 +512,11 @@
         },
         {
             "id": 35,
-            "question": "I. Akılda kalıcı olmalı<br>II. Basit süreçlerine ve teknolojilerine uygun olarak tasarlanmalı<br>III. Renk, öge, kurum kimliğini desteklemekte estetik ve iletişim istenen anlamlara yönelik tercih edilmeli<br>IV. Tipografi ve yazı karakterleri iletilmek istenen mesajı anlama yönelik seçilmeli<br>Yukarıdaki hangileri/hangileri başarılı bir logo tasarımının özellikleri arasında yer alır?",
+            "question": "I. Akılda kalıcı olmalı.<br>II. Basit, sürprizli ve teknolojilerine uygun olarak tasarlanmalı.<br>III. Renk, öge ve kurum kimliğini destekleyici nitelikte ve iletmek istenen anlama yönelik tercih edilmeli.<br>IV. Tutarlı olmalı ve yazı karakterleri iletilmek istenen mesaja veya anlama yönelik seçilmeli.<br>Yukarıdakilerden hangisi/hangileri başarılı bir logo tasarımının özellikleri arasında yer alır?",
             "options": [
-                "I Yalnız",
+                "Yalnız III",
                 "I ve II",
-                "I, II ve IV",
+                "I, III ve IV",
                 "II, III ve IV",
                 "I, II, III ve IV"
             ],
@@ -521,7 +527,7 @@
         },
         {
             "id": 36,
-            "question": "-----, gösterdikleri şeyler ile benzerlikleri olmadığı halde onların yerine onları temsil eden göstergelerdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "----- gösterdikleri şeyler ile benzerlikleri olmadığı halde onların yerine onları temsil eden göstergelerdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Formlar",
                 "Şekiller",
@@ -536,7 +542,7 @@
         },
         {
             "id": 37,
-            "question": "-----, Kurumun karşılaştığı belirli bir sorun veya ihtiyaç ile ilgili olarak tasarım ekibine aktarılan ancak detayları tam olarak çözümlenmemiş ve belirsizlikler içeren problem tanımıdır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "----- kurumun karşılaştığı belirli bir sorun veya ihtiyaç ile ilgili olarak tasarım ekibine aktarılan ancak detayları tam olarak çözümlenmemiş ve belirsizlikler içeren problem tanımıdır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Birincil Problem Tanımı",
                 "Yaratıcı Problem Tanımı",
@@ -572,7 +578,7 @@
                 "Stratejik amaçların ve hedeflerin belirlenmesi",
                 "Proje ve problem tanımının hazırlanması",
                 "Hedef kitlenin belirlenmesi",
-                "Tasarruf planının oluşturulması"
+                "Tasaruf planının oluşturlması"
             ],
             "correctIndex": 4,
             "exam_question_number": 19,
@@ -596,7 +602,7 @@
         },
         {
             "id": 41,
-            "question": "----- bir organizasyonun bütünlüğü, kendini tanımlama ve dış dünyaya nasıl görünmek istediği ile ilgili unsurları içeren geniş bir terim olarak tanımlanabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "-----, bir organizasyonun bütünlüğü, kendini tanımlama ve dış dünyaya nasıl görünmek istediği ile ilgili unsurları içeren geniş bir terim olarak tanımlanabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Marka",
                 "Kurumsal kimlik",
@@ -611,7 +617,7 @@
         },
         {
             "id": 42,
-            "question": "Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şeklidir. Yukarıdaki kavramı tanımlanan aşağıdakilerden hangisidir?",
+            "question": "Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şeklidir. Yukarıdaki tanımlanan kavram aşağıdakilerden hangisidir?",
             "options": [
                 "Piktogram",
                 "Marka Kimliği",
@@ -629,7 +635,7 @@
             "question": "Aşağıdakilerden hangisi markanın kullanım şekillerinden biri <u>değildir</u>?",
             "options": [
                 "Kişi olarak marka",
-                "Kurum/kuruluş olarak marka",
+                "Kurucu/kuruluş olarak marka",
                 "Sembol olarak marka",
                 "Ürün olarak marka",
                 "Birlik marka"
@@ -641,7 +647,7 @@
         },
         {
             "id": 44,
-            "question": "Tasarım sürecinde birbirini takip edecek şekilde kullanılan düşünme şekilleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "question": "Tasarım sürecinde birbirini takip edecek şekilde kullanılan düşünme şekilleri aşağadakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
             "options": [
                 "Doğrusal ve hızlı düşünme",
                 "Iraksak ve dağınık düşünme",
@@ -656,7 +662,7 @@
         },
         {
             "id": 45,
-            "question": "Font seçimi, bir markanın kimliğini şekillendiren ve iletişimde sağlayan önemli bir tasarım unsurudur? Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Font seçimi, bir markanın kimliğini şekillendiren ve iletişimde ----- sağlayan önemli bir tasarım unsurudur? Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "tutarlılık",
                 "ilerleme",
@@ -671,13 +677,13 @@
         },
         {
             "id": 46,
-            "question": "Aşağıdakilerden hangisi kurumsal kimlik tasarımı yaparken font seçiminde, dikkat edilmesi gereken faktörlerden <u>değildir</u>?",
+            "question": "Aşağıdakilerden hangisi kurumsal kimlik tasarımını yaparken font seçiminde dikkat edilmesi gereken faktörlerden <u>biridir</u>?",
             "options": [
-                "En çok kullanılan fontları seçilmesi",
-                "Hedef kitlenin tercih sorgulanması",
+                "En çok kullanılan fontların seçilmesi",
+                "Hedef kitlenin tercihleri sorgulanmalı",
                 "Moda olan fontlar seçilmesi",
                 "Markanın kişiliği ve değerleri anlaşılmalı",
-                "Karmaşık ve stile fontlar kullanılmalı"
+                "Karmaşık ve stilize fontlar kullanılmalı"
             ],
             "correctIndex": 3,
             "exam_question_number": 6,
@@ -686,7 +692,7 @@
         },
         {
             "id": 47,
-            "question": "Aşağıdakilerden hangisi markaların yazılı iletişimde kullanılmak üzere font seçerken dikkat etmesi gerekenlerden biridir?",
+            "question": "Aşağıdakilerden hangisi markaların yazılı iletişimde kullanılmak üzere font seçerken <u>dikkat etmesi gerekenlerden biridir</u>?",
             "options": [
                 "Herkes tarafından bilinen yaygın bir font seçimine",
                 "Yazı tipi seçiminin sürekli ve güncel olmasına",
@@ -701,8 +707,14 @@
         },
         {
             "id": 48,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
-            "options": [],
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [
+                "İptal Seçeneği 1",
+                "İptal Seçeneği 2",
+                "İptal Seçeneği 3",
+                "İptal Seçeneği 4",
+                "İptal Seçeneği 5"
+            ],
             "correctIndex": -1,
             "exam_question_number": 8,
             "source": "Dönem Sonu 2023-2024",
@@ -725,13 +737,13 @@
         },
         {
             "id": 50,
-            "question": "Markaların bileşenleri ve marka kavramı ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "question": "Markaların bileşenleri ve marka kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
             "options": [
                 "Markalar logolar, semboller, görsel imajlar ve kavramları içerir.",
                 "Markalar sadece görsel imajlarla sınırlıdır.",
                 "Markalar sadece maddi özelliklerle oluşturulur.",
                 "Markaların sadece geçmiş başarıları önemlidir.",
-                "Farkındalık, günümüzün en önemli marka bileşeni değildir."
+                "Farkındalık, günümüzün en önemli marka bileşeni <u>değildir</u>."
             ],
             "correctIndex": 0,
             "exam_question_number": 10,
@@ -740,13 +752,13 @@
         },
         {
             "id": 51,
-            "question": "Kurum kimliği kataloğu, bir işletmenin kimliğni ve kişiliğini yansıtan, belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Kurum kimliği kataloğu, bir işletmenin kimliğini ve kişiliğini yansıtan, ----- belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "ürün çeşitliliğini",
                 "marka değerlerini ve görsel unsurlarını",
                 "kâr marjını",
                 "rekabet avantajlarını",
-                "analizini"
+                "pazar analizini"
             ],
             "correctIndex": 1,
             "exam_question_number": 11,
@@ -815,7 +827,7 @@
         },
         {
             "id": 56,
-            "question": "Kurumsal kimlik kılavuzu ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "question": "Kurumsal kimlik kılavuzu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
             "options": [
                 "Tutarlı bir kurumsal kimlik, işletmeye daha profesyonel ve güvenilir bir hava katar. Bu da en yüksek standartlarda hizmet verildiği izlenimi verir.",
                 "Tutarlı bir kurumsal kimlik, işletmenin iletişim materyallerinde farklılık yaratması için analiz ve rapor sunar.",
@@ -890,7 +902,7 @@
         },
         {
             "id": 61,
-            "question": "----- bir organizasyonun bütünlüğü, kendini tanımlama ve dış dünyaya nasıl görünmek istediği ile ilgili unsurları içeren geniş bir terim olarak tanımlanabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "-----, bir organizasyonun bütünlüğü, kendini tanımlama ve dış dünyaya nasıl görünmek istediği ile ilgili unsurları içeren geniş bir terim olarak tanımlanabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Sembol",
                 "Logo",
@@ -920,7 +932,7 @@
         },
         {
             "id": 63,
-            "question": "Aşağıdakilerden hangisi markanın korunma şekline göre marka türleri arasında yer <u>alır</u>?",
+            "question": "Aşağıdakilerden hangisi markanın korunma şekline göre marka türleri arasında yer alır?",
             "options": [
                 "Ses Markası",
                 "Renk Markası",
@@ -965,13 +977,13 @@
         },
         {
             "id": 66,
-            "question": "Segmentasyon analizlerinin kullanım amacı aşağıdakilerden hangisidir?",
+            "question": "Segmantasyon analizlerinin kullanım amacı aşağıdakilerden hangisidir?",
             "options": [
                 "Piyasa büyüklüğünü ölçmek",
                 "Kantitatif ve kalitatif araştırmaları sonuçlarını karşılaştırmak",
                 "Temsili örnekleme dayalı araştırma yaklaşımını anlamak",
                 "Markanın neden tercih edildiğini belirlemek",
-                "Fiyat artışı sağlama"
+                "Fiyat artışı sağlamak"
             ],
             "correctIndex": 3,
             "exam_question_number": 6,
@@ -980,8 +992,10 @@
         },
         {
             "id": 67,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
-            "options": [],
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [
+                "İptal"
+            ],
             "correctIndex": -1,
             "exam_question_number": 7,
             "source": "Dönem Sonu 2024-2025",
@@ -1019,8 +1033,10 @@
         },
         {
             "id": 70,
-            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
-            "options": [],
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [
+                "İptal"
+            ],
             "correctIndex": -1,
             "exam_question_number": 10,
             "source": "Dönem Sonu 2024-2025",
@@ -1030,10 +1046,10 @@
             "id": 71,
             "question": "Markaların bileşenleri ve marka kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
             "options": [
-                "Farkındalık, günümüzün en önemli marka bileşeni <u>değildir</u>.",
+                "Farkındalık, günümüzün en önemli marka bileşeni değildir.",
                 "Markalar sadece maddi özelliklerle oluşturulur.",
                 "Markalar sadece görsel imajlarla sınırlıdır.",
-                "Markalar sadece geçmiş başarıları örneklenir.",
+                "Markalar sadece geçmiş başarıları önemlidir.",
                 "Markalar logolar, semboller, görsel imajlar ve kavramları içerir."
             ],
             "correctIndex": 4,
@@ -1043,7 +1059,7 @@
         },
         {
             "id": 72,
-            "question": "Kurum kimliği kataloğu, bir işletmenin kimliğni ve kişiliğini yansıtan, ----- belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Kurum kimliği kataloğu, bir işletmenin kimliğini ve kişiliğini yansıtan, ----- belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "ürün çeşitliliğini",
                 "pazar analizini",
@@ -1090,8 +1106,8 @@
             "id": 75,
             "question": "Melewar'ın kurumsal kimlik taksonomisine göre aşağıdakilerden hangisi kurumsal yapıya ait özelliklerden biridir?",
             "options": [
-                "Kontrollü kurumsal iletisim",
-                "Farklılasma stratejisi",
+                "Kontrollü kurumsal iletişim",
+                "Farklılaşma stratejisi",
                 "Marka yapısı",
                 "Kurumsal felsefe",
                 "Kurumsal görsel kimlik sistemi"
@@ -1163,13 +1179,13 @@
         },
         {
             "id": 80,
-            "question": "I. Anlam II. Basitlik, III. Özgünlük IV. İşlevsellik V. Uygulanabilirlik VI. Gerçeklik Yukarıdakilerden hangileri dünyaca ünlü markaların kurumsal kimlik tasarımlarının genel olarak üzerinde şekillendiği özelliklerdendir?",
+            "question": "I. Anlam<br>II. Basitlik<br>III. Özgünlük<br>IV. İşlevsellik<br>V. Uygulanabilirlik<br>VI. Gerçeklik<br>Yukarıdakilerden hangileri dünyaca ünlü markaların kurumsal kimlik tasarımlarının genel olarak üzerinde şekillendiği özelliklerdendir?",
             "options": [
                 "I, II ve III",
                 "I, III ve IV",
                 "II, III, IV ve V",
                 "III, IV, V ve VI",
-                "I, II, III, IV, V ve VI"
+                "I, II, III, IV ve V"
             ],
             "correctIndex": 4,
             "exam_question_number": 20,
@@ -1178,7 +1194,7 @@
         },
         {
             "id": 81,
-            "question": "Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve oluşturur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve ________ oluşturur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "marka gelişimi",
                 "tüketici sadakati",
@@ -1223,7 +1239,7 @@
         },
         {
             "id": 84,
-            "question": "Aşağıdakilerden hangisi kapsama göre marka türlerinden biri değildir?",
+            "question": "Aşağıdakilerden hangisi kapsamına göre marka türlerinden biri <u>değildir</u>?",
             "options": [
                 "Ortak Marka",
                 "Sosyal Marka",
@@ -1238,7 +1254,7 @@
         },
         {
             "id": 85,
-            "question": "Bir kavramı, fikri veya nesneyi ileten göstergedir. Nesnelerin fiziksel anlamda tanınabilen temsilidir. Yukarıdaki kavram tanımlanan aşağıdakilerden hangisidir?",
+            "question": "Bir kavramı, fikri veya nesneyi ileten göstergedir. Nesnelerin fiziksel anlamda tanınabilen temsilidir. Yukarıdaki tanımlanan kavram aşağıdakilerden hangisidir?",
             "options": [
                 "Kimlik",
                 "Algı",
@@ -1253,7 +1269,7 @@
         },
         {
             "id": 86,
-            "question": "Tasarım sürecinde birbirini takip edecek şekilde kullanılan düşünme şekilleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "question": "Tasarım sürecinde birbirini takip edecek şekilde kullanılan düşünme şeklleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
             "options": [
                 "Iraksak ve yakınsak düşünme",
                 "Doğrusal ve hızlı düşünme",
@@ -1345,7 +1361,7 @@
             "id": 92,
             "question": "Kantitatif araştırma ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
             "options": [
-                "Kantitatif araştırmalar, değişkenler arasındaki ilişkinin, olasılık ve varsayım testi üzerine veriler sağlamak için istatistiksel analizler kullanır.",
+                "Kantitatif araştırmalar, değişkenler arasındaki ilişkinin, olasılık ve varsayım testi üzerine odaklanır.",
                 "Sayısal veriler sağlamak için istatistiksel analizler kullanır.",
                 "Tutarlı ölçümler sağlamak için kullanılır.",
                 "Büyük çapta yapılan temsili örnekleme dayanan bir araştırma yaklaşımıdır.",
@@ -1381,7 +1397,7 @@
                 "Markayı geçersiz kılar.",
                 "Reklam payını etkiler."
             ],
-            "correctIndex": 0,
+            "correctIndex": 2,
             "exam_question_number": 14,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "634665"
@@ -1433,7 +1449,7 @@
         },
         {
             "id": 98,
-            "question": "Kurum kimliği kataloğu, bir işletmenin kimliğni ve kişiliğini yansıtan, belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Kurum kimliği kataloğu, bir işletmenin kimliğini ve kişiliğini yansıtan, ______ belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "kâr marjını",
                 "ürün çeşitliliğini",
@@ -1478,7 +1494,7 @@
         },
         {
             "id": 101,
-            "question": "Diğer kurumlardan farklılaşma/ayırt edilebilme<br>II. Uluslararası alanda bilinirlik sağlanması<br>III. Pazar payına sahip olma ve tanınırlığını sağlama<br>IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br>Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır?",
+            "question": "I. Diğer kurumlardan farklılaşma/ayırt edilebilme<br>II. Uluslararası alanda bilinirlik sağlanması<br>III. Pazar payına sahip olma ve tanınırlığını sağlama<br>IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br>Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır?",
             "options": [
                 "I ve II",
                 "I ve III",
@@ -1508,7 +1524,7 @@
         },
         {
             "id": 103,
-            "question": "Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve ______ oluşturur.",
+            "question": "Güçlü bir kurumsal kimlik, markanın zamanla tutarlı bir şekilde algılanmasını sağlar ve _____ oluşturur.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "ürün bilinirliği",
                 "sembol",
@@ -1523,7 +1539,7 @@
         },
         {
             "id": 104,
-            "question": "-----, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve İşleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.",
+            "question": "_____, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Kurumsal itibar",
                 "Kurum felsefesi",
@@ -1538,7 +1554,7 @@
         },
         {
             "id": 105,
-            "question": "Bir kavramı, fikri veya nesneyi ileten göstergedir. Nesnelerin fiziksel anlamda tanınabilen temsilidir. Yukarıdaki tanımlanan kavram aşağıdakilerden hangisidir?",
+            "question": "Bir kavramı, fikri veya nesneyi ileten göstergedir. Nesnelerin fiziksel anlamda tanınabilen temsilidir.<br>Yukarıdaki tanımlanan kavram aşağıdakilerden hangisidir?",
             "options": [
                 "Algı",
                 "Kimlik",
@@ -1583,7 +1599,7 @@
         },
         {
             "id": 108,
-            "question": "\"Yazısız resim\" anlamına gelen ve günlük hayatımızda oldukça sık karşılaştığımız bu göstergeler -----, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "\"Yazısız resim\" anlamına gelen ve günlük hayatımızda oldukça sık karşılaştığımız bu göstergeler _____, farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "logolar",
                 "amblemler",
@@ -1628,7 +1644,7 @@
         },
         {
             "id": 111,
-            "question": "Baskı endüstrisinde kullanılan bir renk modelini ifade eder. Bu renk modeli, renkleri baskıda üretmek için kullanılan dört ana renk pigmentini temsil eder. Yukarıda tanımlanan renk modeli aşağıdakilerden hangisidir?",
+            "question": "Baskı endüstrisinde kullanılan bir renk modelini ifade eder. Bu renk modeli, renkleri baskıda üretmek için kullanılan dört ana renk pigmentini temsil eder.<br>Yukarıda tanımlanan renk modeli aşağıdakilerden hangisidir?",
             "options": [
                 "CMYK",
                 "RGB",
@@ -1658,7 +1674,7 @@
         },
         {
             "id": 113,
-            "question": "Dyson marka konumlandırması \"-----\" arketip'i üzerine inşa ederek, kusursuz biçimde tasarladığı elektrikli süpürgeleri ile temizlik için daha az zaman ayırmamızı sağlayan yepyeni deneyimler yaratmıştır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "question": "Dyson marka konumlandırması \"-----\" arketip'i üzerine inşa ederek, kusursuz biçimde tasarladığı elektrikli süpürgeleri ile temizlik için daha az zaman ayırmamızı sağlayan yepyeni deneyimler yaratmıştır.<br>Yukarıdaki paragfta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": [
                 "Karmaşık bir marka konumlandırması",
                 "Gizemci bir marka konumlandırması",
@@ -1705,7 +1721,7 @@
             "id": 116,
             "question": "I. Organizasyonun tanıtımı<br>II. Logo kullanımı ve örnekleri<br>III. Renk paleti ve renk kombinasyonları<br>IV. Tipografi tercihleri<br>V. Ek projeler<br>Yukarıdaki başlıklardan hangileri kurumsal kimlik kılavuzunun içeriğinde yer alır?",
             "options": [
-                "I ve ll",
+                "I ve II",
                 "II ve III",
                 "III ve IV",
                 "I, II ve V",
@@ -1733,7 +1749,7 @@
         },
         {
             "id": 118,
-            "question": "Aşağıdakilerden hangisi logo tasarımında dikkat edilmesi gereken özelliklerden biridir?",
+            "question": "Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerden biridir?",
             "options": [
                 "Özgünlük, basitlik, üretilebilirlik",
                 "Trendlere uyumluluk",
@@ -1748,7 +1764,7 @@
         },
         {
             "id": 119,
-            "question": "Kurumsal renklerin farklı renk evrenlerindeki değerleri ya da kodları yazılmalıdır. Kurumsal renklerin kullanım standartları tasarlanırken bu uyarılar göz önünde bulundurulmalıdır. Yukarıda anlatına göre aşağıdakilerden hangisi bu renk evrenlerinden biri <u>değildir</u>?",
+            "question": "Kurumsal renklerin farklı renk evrenlerindeki değerleri ya da kodları yazılmalıdır. Kurumsal renklerin kullanım standartları tasarlanırken bu uyarılar göz önünde bulundurulmalıdır.<br>Yukarıda anlatılana göre aşağıdakilerden hangisi bu renk evrenlerinden biri <u>değildir</u>?",
             "options": [
                 "CMYK evreni",
                 "Tipografi",

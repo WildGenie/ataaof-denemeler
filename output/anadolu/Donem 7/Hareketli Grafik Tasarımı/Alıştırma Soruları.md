@@ -1,5 +1,7 @@
 # Hareketli Grafik Tasarımı - Alıştırma Soruları
 
+## Ünite 1
+
 1. 1825’te icat tarafından edilen tomatrop (thaumatrope) her iki tarafında farklı bir resim bulunan ve iki parça ipe bağlanan genellikle kağıttan yapılmış bir Viktorya dönemi oyuncağını kim bulmuştur?
     - **Cevap A-) John Ayrton Paris**
     - B-) João Paulo Amaral Schlittler
@@ -100,6 +102,9 @@
     > **Açıklama:** Gestalt Algı Kuramı psikoloji bilimi içerisinde insan algısını açıklayan deneysel sonuçları olan temel bir kuramdır. Görsel iletişim tasarımının bilimsel temellere oturmasına ve modern grafik tasarımın doğuşuna etkisi olmuştur. Bu bağlamada ileri okumalar yapmak akademik gelişim açısından önemlidir.
 
     <hr />
+
+## Ünite 2
+
 1. Hedef kitlenin dikkatini çekmek, karmaşık konuları kolayca anlatmak, eğlendirmek ve güçlü marka kimliklerinin yaratılmasında grafik tasarım öğelerinin zaman, ses, mekân unsurları ile birlikteliğinden oluşan yapı aşağıdakilerden hangisidir?
     - **Cevap A-) Hareketli grafik**
     - B-) Animasyon
@@ -200,6 +205,9 @@
     > **Açıklama:** Yeni geliştirilen yöntemler ile sıralı hareketin fiilen gösterilebilmesi, bilimin hareket eden çizgi ve cisimlerin algılanması alanına ilgi duyması sonucunda, 19. yüzyıl başında görülen hareket, hareket sürecinin algılanması ve nesnelerin üç boyutluluğu üzerine ilk bilimsel çalışmalar yapılmıştır. Sanatçılar arasında konunun ileri düzey öncüleri, ışık ve perspektif gibi konularda fizik, matematik ve teknoloji alanlarındaki yenilikçi başarıları ve keşifleri de resimsel anlatımlarında kullanmışlardır. Bu sebeple **19. yüzyıl** geriye dönük olarak hareket ve hızın keşfedildiği yüzyıl olarak tanımlanmaktadır.
 
     <hr />
+
+## Ünite 3
+
 1. Aşağıdakilerden hagisi veya hangileri 80 lerin ortasında Görsel iletişimde imgelerin anlamlandırılması ve göstergebilim üzerine yapılan deneyselliğin odak noktası olmuştur?<br />I. Yeni teknolojiI<br />II. Baskı<br />III. Multimeda uygulamaları
     - **Cevap A-) I/II/III**
     - B-) I/II
@@ -300,6 +308,9 @@
     > **Açıklama:** Luigi Ferri insan beynini, kendi biçiminin mührünü basabileceği görülebilir, işitilebilir ve dokunulabilir hayaletler aramaktan bir an bile vazgeçmeyen bir makine olarak tanımlamaktadır (
 
     <hr />
+
+## Ünite 4
+
 1. Aşağıdakilerden hangisi denge ilkesi özelliklerinden biri değildir?
     - A-) Bir tasarım alanı içerisinde yer alan görsel ögelerin ağırlık, orantı ve uyum açısından düzenlenmesidir.
     - B-) Tasarımda düzeni, uyumu ve birliği sağlamanın birincil yöntemlerindendir.
@@ -400,6 +411,9 @@
     > **Açıklama:** Yakınlık
 
     <hr />
+
+## Ünite 5
+
 1. Animasyon film ve reel-görüntü film yapımı arasındaki farklar hakkında aşağıdaki ifadelerden hangisi doğrudur?
     - A-) Animasyon filmlerinde çerçeveler arası geçişler ön plandadır.
     - B-) Reel-görüntü filmlerinde çerçeveler arası geçişler önemli değildir; hareket odaklıdır ve ses, görüntünün üzerine eklenir.
@@ -500,6 +514,9 @@
     > **Açıklama:** D şıkkındaki 'Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz' bilgisi yanlış bilgidir.<br />Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıda yer alan yöntemlerden hangisi içerisinde gerçekçi, organik ve akıcı hareketlerin olduğu animasyonların oluşturulmasına imkân tanımaktadır?
     - **Cevap A-) Rotoskop**
     - B-) Stop Motion
@@ -600,6 +617,9 @@
     > **Açıklama:** Projelerde CGI kullanımı ise karmaşık efektlerin ve animasyonların oluşturulmasında yoğun işgücü ve yazılım kullanabilme bilgisi gerektirmektedir.
 
     <hr />
+
+## Ünite 7
+
 1. Adobe After Effects ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır?**
     - **Cevap A-) After Effects vektörel elemanlar oluşturmak ve düzenlemek için en uygun Adobe programlarının başında gelir.**
     - B-) Adobe After Effects’in en önemli başlıca özellikleri efekt tarayıcısı, zaman çizelgesi ve kompozisyon panelidir.
@@ -700,6 +720,9 @@
     > **Açıklama:** **Analog:** Verilerin sürekli olarak işlenerek değişkenlik gösterdiği, aynı zamanda fiziksel niceliklerle temsil edildiği bir mekanizma veya aygıt olarak tanımlanabilir.
 
     <hr />
+
+## Ünite 8
+
 1. Aşağıdakilerden hangisi Genişletilmiş gerçekliğin kısaltmasıdır?
     - A-) AI
     - B-) AR
@@ -800,3 +823,4 @@
     > **Açıklama:** Yapay zekanın resmi başlangıcı, **1956**’da Dartmouth Konferansı’nda “yapay zeka” teriminin ilk kez kullanılmasıyla gerçekleşmiştir.
 
     <hr />
+

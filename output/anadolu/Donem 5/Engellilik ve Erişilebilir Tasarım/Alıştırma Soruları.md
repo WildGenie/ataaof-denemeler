@@ -1,5 +1,7 @@
 # Engellilik ve Erişilebilir Tasarım - Alıştırma Soruları
 
+## Ünite 1
+
 1. *"Çocuk bedensel ve ruhsal bakımdan doğal biçimde gelişmesine olanak sağlayacak koşullar içinde*<br />*bulundurulmalıdır."* maddesi aşağıdakilerden hangisinde yer alır?
     - A-) Engelliler Hakkında Kanun
     - B-) İnsan Hakları Evrensel Beyannamesi
@@ -290,6 +292,9 @@
     > **Açıklama:** Örneğin öğretmenlerin öğrencileri için hazırladığı görsel materyaller, resimli kartlar, okumayı kolaylaştıran kitap tasarımları, okullarda iletişim köşeleri, iş yerlerinde uyarı levhaları, toplum yaşamında kullanılan tabela ve yönlendirme levhaları **düşük düzey teknolojilerindendir.**
 
     <hr />
+
+## Ünite 2
+
 1. "............ ..........." ürünlerin, çevrenin/mekânın, programların ve hizmetlerin uyarlamaya veya özel<br />bir düzenlemeye ya da tasarıma ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlanmasıdır.<br />Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
     - **Cevap A-) Evrensel Tasarım**
     - B-) Mimari Tasarım
@@ -590,6 +595,9 @@
     > **Açıklama:** Aile ve Sosyal Hizmetler İl Müdürlüklerinde oluşturulan Erişilebilirlik İzleme ve Denetleme Komisyonları aracılığıyla kamu hizmeti için kullanılan resmi binalar ile ibadet yerleri, özel eğitim, özel sağlık tesisleri, sinema, tiyatro, opera, müze, kütüphane, konferans salonu gibi kültürel binalar ile gazino, düğün salonu gibi eğlence yapıları, otel, özel yurt, iş hanı, büro, pasaj,<br />çarşı, alışveriş merkezi gibi ticari yapılar, spor tesisleri, yüzme havuzu, genel otopark ve buna benzer umuma ait binalar ile toplu taşım araçları izlenmekte ve denetlenmektedir.
 
     <hr />
+
+## Ünite 3
+
 1. "Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil<br />etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir."<br />Yukarıdaki açıklama Roland Barthes'ın göstergebilim için tanımladığı hangi kavrama aittir?
     - **Cevap A-) Uylaşım**
     - B-) Düz anlam
@@ -890,6 +898,9 @@
     > **Açıklama:** “İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).<br />Yanıt D'dir. İletişimdir.
 
     <hr />
+
+## Ünite 4
+
 1. 'Çeşitli nitelikteki bilgiyi bireye ve topluluklara aktaran, eğlendirme, bilgilendirme ve eğitim gibi temel amaçlara sahip görsel, işitsel ve görsel-işitsel araçların tümü' olarak tanımlanan kavram aşağıdakilerden hangisidir?
     - **Cevap A-) Dijital Ortam**
     - B-) Mobil Uygulamalar
@@ -1180,6 +1191,9 @@
     > **Açıklama:** İşitme engelli kullanıcıların video dökümü ile videoları izlemesinin sağlanması ve altyazı alternatifinin sağlanması evrensel tasarım ilkelerinden **algılanabilir bilgi** ile ilişkilidir.
 
     <hr />
+
+## Ünite 5
+
 1. "Bireyin özel eğitim hizmetlerinden yararlanabilmesi için tıbbi tanının yanı sıra Rehberlik Araştırma Merkezinde eğitsel tanılamasının yapılması gerekir. Eğitsel tanılaması yapılarak yerleştirmesi yapılan özel gereksinimli öğrenciler için devam ettikleri okul ve kurumlarda .......................... hazırlanır."<br />İfadesinde boşluğa gelmesi gereken aşağıdakilerden hangisidir?
     - **Cevap A-) Bireyselleştirilmiş eğitim programı**
     - B-) Zihinsel yetersizlik teşhisi
@@ -1380,6 +1394,9 @@
     > **Açıklama:** BEP (bireyselleştirilmiş eğitim programı), özel eğitim hizmetlerine uygunluğuna karar verilen öğrenciler için sağlanacak özel eğitim hizmetlerinin “nerede, ne zaman, ne kadar süreyle, kimler” tarafından ve “hangi amaçları” gerçekleştirmek üzere uygulanacağını gösteren<br />ve yazılı olarak hazırlanan bir belgedir.<br />Yanıt C'dir. BEP'dir.
 
     <hr />
+
+## Ünite 6
+
 1. 'Tüm ürünlerin ve çevrelerin, uyarlama veya özel tasarım çözümleri gerektirmeden, yaş, beceri ve durum farkı gözetmeksizin pek çok kişi tarafından bağımsız bir şekilde erişilebilir, anlaşılabilir ve kullanılabilir olmasını amaçlayan bir yaklaşım' olarak tanımlanan kavram aşağıdakilerden hangisidir?
     - **Cevap A-) Evrensel Tasarım**
     - B-) Tüm Dil Yaklaşımı
@@ -1580,6 +1597,9 @@
     > **Açıklama:** **Uygun cihazlandırılma,** cihazın ve cihazın iç ayarlarının işitme kayıplı bireyin işitme kaybı özelliklerine uygun olmasıdır.
 
     <hr />
+
+## Ünite 7
+
 1. "Baş çevrilmeden ve gözler oynatılmadan görülebilen sağ ve sol, yukarıda ve aşağıda kalan tüm alan" ifadesi aşağıdakilerden hangisinin tanımıdır?
     - A-) Görme keskinliği
     - B-) Kör
@@ -1870,6 +1890,9 @@
     > **Açıklama:** Erken çocukluk döneminden itibaren denge problemi olan çocukların çevrelerinde bağımsız hareket edebilmeleri için daha kolay kullanabilecekleri baston tasarımları yapılabilir. Tasarımı yapılacak bastonun hafif/taşınabilir olmasına dikkat edilmelidir.
 
     <hr />
+
+## Ünite 8
+
 1. ".......... .............." özel gereksinimli bireylerin yaşam becerilerini desteklemek, geliştirmek ve sürdürmelerini sağlamak amacıyla kullanılan her türlü araç-gereç, ürün, sistem, hizmet vb. yardımcı<br />teknolojilerdir.<br />Yukarıdaki boş bırakılan yere aşağıdaki ifadelerden hangisinin gelmesi uygun olur?
     - **Cevap A-) Yardımcı teknolojiler**
     - B-) Gelişen teknolojiler
@@ -2070,3 +2093,4 @@
     > **Açıklama:** Konuşma üreten cihazlar olarak da adlandırılan ses çıkışlı iletişim araçları (Voice Output Commu­nication Aids [VOCA]), sözlü iletişim kurmak için sınırlı veya hiç aracı olmayan bir kişi için konuşma üreten yüksek teknoloji ürünü ADİ cihazlarıdır. Bu kapsamda cevap C şıkkıdır.
 
     <hr />
+

@@ -1,5 +1,7 @@
 # Görsel Tasarımda Yaratıcı Düşünme Teknikleri - Alıştırma Soruları
 
+## Ünite 1
+
 1. "............................, konuyu değerlendirmek ve bir plan geliştirmek için doğru araçları kullanarak konuya farklı ve özgün açılardan bakmak için kullanılan tekniklerdir." ifadesinde boş bırakılan yeri aşağıdakilerden hangisi doğru biçimde tamamlar?
     - A-) Teknik araştırma organizasyonlarıYaratıcı düşünme becerileri
     - B-) İnceleme ve araştırma
@@ -400,6 +402,9 @@
     > **Açıklama:** Eleme: Sürecin bu bölümünde, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.<br />Sürecin rafinasyon yani eleme aşamasında, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.
 
     <hr />
+
+## Ünite 2
+
 1. * Problem çözme, analitik düşünme becerilerini geliştirir.<br />* Grupla çalışmaya bağlı olarak sosyal etkileşim ve iletişim becerilerini geliştirir.<br />* Yaratıcı, özgün düşünmeyi destekler.<br />* Bilişsel, duyuşsal, muhakeme ve estetik eleştirel düşünme becerileri gelişir.<br />Yukarıda verilen özellikler hangi yaratıcı eğitim anlayışına aittir?
     - A-) Yapılandırmacılık Yaklaşımı
     - B-) Yaparak Yaşayarak Öğrenme
@@ -700,6 +705,9 @@
     > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK<br />Bugün bir alfabenin kullanıldığının ilk kanıtı Fenike alfabesiydi. Sistem, ünsüzleri temsil etmek için semboller kullandı ve bunu kayıt tutmak için kullanan gezgin tüccarlar tarafından Akdeniz’e yaydırıldı. Bu alfabeden sonra Aramice alfabesi ve Yunan alfabesi geldi, bu da hem ünsüz hem de sesli harflerin karşılığı olan semboller içeren bugün kullandığımız Latin alfabesinin gelişimine zemin hazırladı.
 
     <hr />
+
+## Ünite 3
+
 1. "Sanat düşünceyi görselleştirmektir" Sözü aşağıdaki hangi sanatçıya aittir?
     - **Cevap A-) Klee**
     - B-) Picasso
@@ -1100,6 +1108,9 @@
     > **Açıklama:** Kuram, soyut eser üreten sanatçıların eserlerinde izlenir. Bu anlamda “Sanat, Sanat İçindir” ilkesi bu kuram bağlamında değerlendirilebilir (Artut 2000). Sanat elemanları ve ilkeleri sanatçı tarafından titizlikle ön plana çıkarılır.
 
     <hr />
+
+## Ünite 4
+
 1. Anlatıların varoluşsal ön koşullardan birisi olup zamana göre daha esnek bir yapıda olan anlatı bileşeni aşağıdakilerden hangisidir?
     - A-) karakter ve bakış açısı
     - B-) anlatıcı
@@ -1400,6 +1411,9 @@
     > **Açıklama:** MEKAN<br />Genel Anlatı Mekânı: Olay örgüsü sırasın­da mekânsal çerçeveler değişse de anlatının tamamını kapsayan nispeten istikrarlı bir sosyo-tarihsel-coğrafi kategoridir.
 
     <hr />
+
+## Ünite 5
+
 1. 6 şapkalı düşünme tekniğinde yaratıcı, fizibiliteyi düşünmeden birçok yeni fikir üreten ve yaratıcı düşünmeyi simgeleyen şapka aşağıdakilerden hangisidir?
     - A-) Beyaz şapka
     - **Cevap B-) Yeşil şapka**
@@ -1900,6 +1914,9 @@
     > **Açıklama:** SCAMPER tekniği, genellikle okul öncesi eğitimde kullanılan bir beyin fırtınası yöntemidir. Farklı düşünme, hayal kurma ve sezgileri kullanarak özgün ürünler ortaya koyma açısından faydalıdır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. SCAMPER’ın felsefesi “Her fikir, var olan başka bir fikirden doğar.” cümlesi ile özetlenebilir
 
     <hr />
+
+## Ünite 6
+
 1. "**... ...,** birçok markanın etkili olarak yer aldığı rekabeti yoğun bir reklam alanıdır. Markalar, tüketicilerin karşısına çıkabilmek için rakiplerinden farklı olmayı ve dikkat çekebilmeyi başarmalıdır" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
     - A-) Hedef kitle
     - B-) Yaratıcı strateji
@@ -2400,6 +2417,9 @@
     > **Açıklama:** 2004 yılında Kevin Roberts, “lovemarks” terimini yaratmıştır.
 
     <hr />
+
+## Ünite 7
+
 1. "Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar<br />aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişikliklere .............. denilmektedir." ifadesindeki boşluğa aşağıdakilerden hangisinin gelmesi uygundur?
     - A-) Fotoğrafik görme
     - B-) Pozlama
@@ -3000,6 +3020,9 @@
     > **Açıklama:** “İcat edildiği günden itibaren fotoğraf bir sanat dalı olarak tanınma mücadelesi verdi. Mekanik ve otomatik doğası, birçok kişinin onu sanatsal bece-<br />ri ve yorum gerektirmeyen, sıradan bir kopyalayıcı olarak görmesine neden oldu... Bu görüştekiler, fotoğrafın sanatsal olarak görülebilmesi için önce- likle mekanik ve kimyasal kökenlerinin gizlenmesi gerektiğine inanıyorlardı. Piktoryalistler kısıtlı bir biçimde öznelerine odaklanmadılar ve resim este- tiğini taklit etmek amacıyla yaratıcı baskı yöntem- lerini icat ettiler... Bugün fotoğraf döngüsünü ta- mamladı. Sonunda sanat dünyası tarafından başlı başına bir sanat formu olarak benimsendi” (Higgins, 2014:6).
 
     <hr />
+
+## Ünite 8
+
 1. "Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkar."<br />Yukarıda tanımı verilen kavram aşağıdakilerden hangisidir?
     - A-) Çekim
     - **Cevap B-) Sekans**
@@ -3490,3 +3513,4 @@
     > **Açıklama:** YARATICI SANATSAL FİLM UYGULAMALARI<br />Belgeseli tanımlamada kullanılan “non-fiction” ve “documentary” terimleri, Türkçede “kurmaca olmayan” ve “belgesel” olarak karşımıza çıkar. Belgesel türü, sinema sanatı içerisinde gerçekliğe yaklaşım ve gerçekliği ele alış biçimine karşılık gelir. En önemli ve ayırt edilebilir kısmı ise gerçekle olan ilgisidir. Grierson, belgeseli “gerçek olayların yaratıcı biçimde yorumlanması” olarak tanımlıyordu. Dünya Belgesel Birliğinin 1948 yılında yaptığı bir başka tanım ise şudur: “Ya olgusal çekimle ya da aslına sadık olarak yeniden kurulmak suretiyle yorumlanan gerçekliğin herhangi bir yönünü, akla ya da duygulara hitap edecek şekilde film üzerine kaydetme yöntemlerinin tümü, belgesel filmdir”.
 
     <hr />
+

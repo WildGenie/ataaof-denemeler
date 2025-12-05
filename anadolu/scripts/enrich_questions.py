@@ -9,12 +9,18 @@ import json
 import sys
 import time
 from dotenv import load_dotenv
-import google.generativeai as genai_old  # For file upload
+import os
+import json
+import sys
+import time
+from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
 # Add project root to sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+
+from libs.genai_files_manager import GenAIFilesManager
 
 # Load environment variables
 load_dotenv()
@@ -28,11 +34,11 @@ if not GEMINI_API_KEY:
     print("Error: GEMINI_API_KEY not found in .env")
     sys.exit(1)
 
-# Configure old SDK for file upload
-genai_old.configure(api_key=GEMINI_API_KEY)
-
 # Configure new SDK for content generation
 client = genai.Client(api_key=GEMINI_API_KEY)
+
+# Initialize Files Manager
+files_manager = GenAIFilesManager()
 
 def load_summaries(course_name, donem):
     """Load unit summaries for a course."""
@@ -68,13 +74,23 @@ def upload_all_summaries(summaries):
         print(f"    Unit {unit_num}...", end="", flush=True)
 
         try:
-            summary_file = genai_old.upload_file(path=summary_path)
+            # Extract material_id from filename if possible
+            filename = os.path.basename(summary_path)
+            material_id = None
+            try:
+                parts = filename.rsplit(" - ", 1)
+                if len(parts) > 1 and parts[1].replace(".pdf", "").isdigit():
+                    material_id = parts[1].replace(".pdf", "")
+            except:
+                pass
 
-            while summary_file.state.name == "PROCESSING":
-                time.sleep(1)
-                summary_file = genai_old.get_file(summary_file.name)
+            summary_file = files_manager.upload_file(
+                local_path=summary_path,
+                material_id=material_id,
+                display_name=filename
+            )
 
-            if summary_file.state.name == "FAILED":
+            if not summary_file:
                 print(" Failed.")
                 continue
 

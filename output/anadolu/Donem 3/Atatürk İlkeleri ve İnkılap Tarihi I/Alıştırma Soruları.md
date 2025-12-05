@@ -1,5 +1,7 @@
 # Atatürk İlkeleri ve İnkılap Tarihi I - Alıştırma Soruları
 
+## Ünite 1
+
 1. 'İmparatorluğu askerî bir imparatorluktan bürokratik bir devlete dönüştürmeye çalışan, Tanzimat’tan sonraki dönemde genellikle basım yayım yoluyla şekillenmiş insanlar ve dönem' olarak nitelendirilen kâtip sınıfı aşağıdakilerden hangisidir?
     - A-) Çelebiler Çağı
     - B-) Sefirler ve Reîsülküttâplar Çağı
@@ -560,6 +562,9 @@
     > **Açıklama:** Doğru cevap Asakir-i Mansure-i Muhammediyedir.
 
     <hr />
+
+## Ünite 2
+
 1. 29 Nisan 1916 tarihinde Kutü’l-Amâre’de İngilizlere karşı büyük bir zafer kazanan Bağdat Valisi ve Altıncı Ordu komutan vekili aşağıdakilerden hangisidir?
     - A-) Nuri Paşa
     - B-) Cevat Paşa
@@ -750,6 +755,9 @@
     > **Açıklama:** İtilaf devletleri 27 Kasım 1919’da Neuilly (Nöyi) Barış Antlaşması’nı savaşın mağluplarından Bulgaristan ile imzalamışlardır.
 
     <hr />
+
+## Ünite 3
+
 1. "Her türlü yabancı işgal ve müdahalesine karşı, millet birlik olarak kendisini müdafaa ve mukavemet edecektir." kararı aşağıdaki kongrelerden hangisinde alınmıştır?
     - **Cevap A-) Erzurum Kongresi**
     - B-) Sivas Kongresi
@@ -1320,6 +1328,9 @@
     > **Açıklama:** 15 Mayıs 1919’da gelen savaş gemileri ile İzmir Limanı ele geçirilmiş ve şehrin işgali başlamıştır.<br />**16 Mayıs 1919** Bandırma Vapuru ile Mustafa Kemal ve silah arkadaşlarının İstanbul'dan Anadolu'ya hareket ettikleri tarihtir.
 
     <hr />
+
+## Ünite 4
+
 1. "...............; ABD, İngiltere, Fransa, İtalya ve Japonya’nın devlet ya da hükûmet başkanları ile dışişleri bakanlarından oluşan yüksek konseye verilen isimdir. Bu konsey aynı zamanda savaş sonrası yeni dünya düzenini de belirlemeyi amaçlamıştır."<br />Yukarıdaki boşluğu en doğru şekilde aşağıdakilerden hangisi tamamlar?
     - **Cevap A-) Onlar Konseyi**
     - B-) Avrupa Konseyi
@@ -1510,6 +1521,9 @@
     > **Açıklama:** Misak-ı Millî, 17 Şubat 1920 tarihinde yayımlanmıştır.
 
     <hr />
+
+## Ünite 5
+
 1. ''Doğu Anadolu ve Kafkaslarda Rus ordusunun etkisinin zayıflamasını fırsat bilen Türk ordusu harekete geçmiş, Doğu Anadolu’yu tamamen Rus işgalinden kurtarmakla kalmamış Azerbaycan’ın başkenti Bakü’ye kadar ilerlemiştir.''<br />Yukarıdaki paragrafa göre Türk ordusunun başarılı olmasının nedenlerinden biri aşağıdakilerden hangisidir?
     - A-) 24 Nisan 1915 tarihli Sevk ve İskân Kanunu
     - **Cevap B-) Rusya’da 1917’de Bolşevik Devrimi'nin olması**
@@ -1610,6 +1624,9 @@
     > **Açıklama:** İlk kez “Türkiye” adı geçen ve TBMM Hükûmeti’nin imzaladığı ilk siyasi antlaşması olan Gümrü Antlaşması ile doğu sınırı büyük ölçüde güvence altına alınmıştır.
 
     <hr />
+
+## Ünite 6
+
 1. Aşağıdaki devletlerden hangisi Lozan Barış Konferansı’na gözlemci olarak katılmıştır?
     - A-) Fransa
     - B-) İtalya
@@ -1890,6 +1907,9 @@
     > **Açıklama:** LOZAN BARIŞ ANTLAŞMASI’NIN TEMEL HÜKÜMLERİ<br />Türkiye-İran sınırı 1639 tarihli Kasr-ı Şirin Antlaşması’nda belirlenmiştir.
 
     <hr />
+
+## Ünite 7
+
 1. "Mustafa Kemal Paşa’nın Cumhurbaşkanlığı döneminde Cumhuriyet Halk Partisi, üç kurultay düzenlemiştir. Ancak 1927 yılında yapılan kurultayda, 4-11 Eylül 1919 tarihleri arasında düzenlenen .............. partinin ilk kurultayı kabul edilmiştir."<br />Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?
     - **Cevap A-) Sivas Kongresi**
     - B-) Amasra Kongresi
@@ -2310,6 +2330,9 @@
     > **Açıklama:** 3 Mart 1924 tarihinde Urfa mebusu Şeyh Saffet Efendi ve elli üç arkadaşının hazırladığı, hilafetin kaldırılmasına dair on iki maddeden oluşan bir kanun teklifi Meclise sunulmuştu. TBMM’nin çıkardığı bu yasa ile devlet işlerinin dinî esaslara uygun olup olmadığını denetleyen Şeri’ye ve Evkaf Vekâleti kaldırılmıştır.
 
     <hr />
+
+## Ünite 8
+
 1. 1923-1939 yılları arasında Türkiye ve Fransa'nın ilişkilerini etkileyen mesele aşağıdakilerden hangisidir?
     - A-) Adalar
     - B-) Bozkurt-Lotus
@@ -2790,3 +2813,4 @@
     > **Açıklama:** 1929 dünya ekonomik buhranı nedeniyle yasa amacına ulaşamamıştır.
 
     <hr />
+

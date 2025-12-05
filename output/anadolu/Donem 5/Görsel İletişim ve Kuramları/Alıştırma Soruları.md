@@ -1,5 +1,7 @@
 # Görsel İletişim ve Kuramları - Alıştırma Soruları
 
+## Ünite 1
+
 1. "İletişim Tarihi" kitabının yazarı aşağıdakilerden hangisidir?
     - A-) Neil Postman
     - B-) George Ritzer
@@ -400,6 +402,9 @@
     > **Açıklama:** Walter J. Ong
 
     <hr />
+
+## Ünite 2
+
 1. "... işini iyi yapmanın uygulama biçimi; yani icranın metodolojisidir".<br />**Yukarıdaki boş bırakılan bölüme aşağıdaki kavramlardan hangisi gelmelidir?**
     - A-) Modern sanat
     - **Cevap B-) Zanaat**
@@ -800,6 +805,9 @@
     > **Açıklama:** Hiç Kapanma(yan)yacak Yayın<br />Sanal gerçeklik
 
     <hr />
+
+## Ünite 3
+
 1. "....... ilkesi, aslında bir bakıma Gestalt teorisinin özü olan bütüncül yapı, gruplama, basitlik ve netlik ifadelerinin ortak paydada buluştuğu bir ifadeyi ortaya koymaktadır"<br />cümlesini anlamlı şekilde hangisi ile tamamalarız?
     - A-) Devamlılık
     - B-) Mesafesel yakınlık
@@ -1200,6 +1208,9 @@
     > **Açıklama:** Kontrast ilkesi, zıtlık oluşturan unsurların daha kolay fark edilmesini sağlar. Farklı renkteki nesne, diğerlerinden aykırı olduğu için seçici dikkati çeker.
 
     <hr />
+
+## Ünite 4
+
 1. "Anlam .................... bağımsız değildir"<br />Yukarıdaki ifadede boşluğa aşağıdakilerden hangisi gelmelidir.
     - A-) Teknolojiden
     - **Cevap B-) Yorumlayandan**
@@ -1500,6 +1511,9 @@
     > **Açıklama:** Grafik tasarımında en yaratıcı alanlardan ikisi hiç şüphesiz afiş ve kitap tasarımlarıdır. Tasarımcılar<br />özellikle resim sanatından ve sanat akımlarından etkilenmiş hatta bazı önemli ressamlar, sanat sanat içindir<br />mottosuna karşı çıkarak afiş ya da kitap kapağı tasarımı da yapmışlardır.
 
     <hr />
+
+## Ünite 5
+
 1. 'Katı Olan Her Şey Buharlaşıyor’ un yazarı kimdir?
     - **Cevap A-) Marshall Berman**
     - B-) Leo Lowenthal
@@ -1800,6 +1814,9 @@
     > **Açıklama:** Marx, kapitalist toplumlarda üretim ilişkilerinin toplumsal yapının tamamını etkilediğini ve gündelik yaşamı güç ilişkilerinin belirlediğini ileri sürmektedir. Marx, insanların çoğu zaman kendi iradeleri dışında belli ilişkiler kurmak zorunda olduklarını ve bu ilişkilerin güç ilişkileri ekseninde toplumsallaştığını söylemektedir. Ona göre ekonomik yapı, hukuksal, siyasal ve düşünsel boyuta temel olmakta ve onun üstyapı olarak adlandırdığı bu düzey, doğrudan altyapının ekseninde şekillenmektedir.
 
     <hr />
+
+## Ünite 6
+
 1. "Bireye içinde yaşadığı toplumda daha yüksek statü ve prestij sağlayan bilgi, tutum, eğitim ve becerilerin toplamı" olarak adlandırılan kavram aşağıdakilerden hangisidir?
     - **Cevap A-) Kültürel sermaye**
     - B-) Kültürel aracılar
@@ -2100,6 +2117,9 @@
     > **Açıklama:** Guy Debord’un Gösteri Toplumu kavramı bağlamında, görsel kültürün ideolojik boyutlarını analiz edebilme<br />Guy Debord, gösteri toplumunun imajlar üzerinden kurulduğunu ve metaların görsellikle pazarlandığının altını çizmektedir.
 
     <hr />
+
+## Ünite 7
+
 1. "Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi" olarak tanımlanan kavram aşağıdakilerden hangisidir?
     - A-) Güzellik
     - B-) Varlık
@@ -2400,6 +2420,9 @@
     > **Açıklama:** Tolstoy ....insanın güzeli anlatmak istediğini söyler: **“İnsanın silahı güzelliktir. Verilen emek ancak, sanatın güzeli anlatabilmesi içindir. Sanatın özelliği, insana zevk vermesi, güzel görünmesi ve çok zengin ögelerle”** işlenmesidir (Tolstoy, 1995, ss. 56–57).
 
     <hr />
+
+## Ünite 8
+
 1. Andy Warhol Fabrika isimli yapım şirketiyle pek çok film üretmiş ve bu alandaki farklı tarzı ile dikkat çekmiştir. Aşağıdakilerden hangisi Warhol’un en önemli filmlerinden birisidir?
     - **Cevap A-) Empire**
     - B-) Paradise Lost
@@ -2700,3 +2723,4 @@
     > **Açıklama:** “Günümüz toplumlarında herkes 15 dakikalığına şöhreti tadacaktır” mottosuyla ünlenen Andy Warhol, imgenin kültürel gücünü vurgulayan, popüler ve sansasyonel bir teorisyendir.<br />Sorunun doğru cevabı B seçeneğinde verilmiştir.
 
     <hr />
+

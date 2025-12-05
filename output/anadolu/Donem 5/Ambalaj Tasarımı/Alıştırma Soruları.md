@@ -1,5 +1,7 @@
 # Ambalaj Tasarımı - Alıştırma Soruları
 
+## Ünite 1
+
 1. "Bir kola firması kutu içeceklerin ambalajları üzerine kullanıcı isimleri yazmıştır."<br />Kola firmasının yaptığı ambalaj tasarımı aşağıdakilerden hangisidir?
     - A-) Tüketici deneyimi
     - B-) Ambalajda sürdürülebilirlik
@@ -290,6 +292,9 @@
     > **Açıklama:** PP Polipropilen Şampuan, şırıngalar
 
     <hr />
+
+## Ünite 2
+
 1. "Bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre basit, yalın ve geometrik formlar daha kolay algılanırlar ve birbirleriyle gruplaşma eğilimi<br />içindedirler. "<br />Yukarıdaki ifade Gestalt kuramının ortaya koyduğu ilkelerden hangisi için söylenebilir?
     - **Cevap A-) İyi Form İlkesi**
     - B-) Simetri İlkesi
@@ -490,6 +495,9 @@
     > **Açıklama:** Hiyerarşik tasarım, izleyicinin gözünün en baskın öge veya ögelerden ikincisine oradan üçüncüsüne sıçramasını planlamaktır.
 
     <hr />
+
+## Ünite 3
+
 1. Atığın olmadığı kapalı bir ambalaj sistemi nedir?
     - **Cevap A-) Cradle to Cradle**
     - B-) Cradle to grave
@@ -690,6 +698,9 @@
     > **Açıklama:** MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai<br />tasarımın stilini temsil eden bir formatta<br />düzenleyen fiziksel veya dijital kolajlardır.<br />“mood”+”board” kelimelerinden oluşup;<br />Türkçe karşılığı “ruh hali, duygu durumu”+ “pano” olarak çevrilir, ilham panosu<br />olarak kullanılır. Moodboard, tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin<br />yerleştirildiği, konuyu daha iyi kavramak<br />ve görsel bir dil oluşturmak adına yapılan<br />panolardır. İlham panoları tasarım disiplinin birçok alanında, özellikle hazırlık sürecinde kullanılır. (Gök<br />MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai<br />tasarımın stilini temsil eden bir formatta<br />düzenleyen fiziksel veya dijital kolajlardır.<br />“mood”+”board” kelimelerinden oluşup;<br />Türkçe karşılığı “ruh hali, duygu durumu”+ “pano” olarak çevrilir, ilham panosu<br />olarak kullanılır. Moodboard, tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin<br />yerleştirildiği, konuyu daha iyi kavramak<br />ve görsel bir dil oluşturmak adına yapılan<br />panolardır. İlham panoları tasarım disiplinin birçok alanında, özellikle hazırlık sürecinde kullanılır.
 
     <hr />
+
+## Ünite 4
+
 1. Aşağıdakilerden hangisi insanlığın en ilkel zamanlardan beri çeşitli gıda veya nesneleri koruma, sarma veya taşıma amacıyla kullanılmıştır?
     - **Cevap A-) Ambalaj**
     - B-) Alışveriş
@@ -790,6 +801,9 @@
     > **Açıklama:** Benzerlik: Benzer özelliklere sahip nesnelerin bir arada gruplandığı düşünülür. Örneğin, aynı renk- teki veya aynı şekle sahip nesneler bir arada algılanır.
 
     <hr />
+
+## Ünite 5
+
 1. * Cam gibi şeffaftır ve su ve gazlı içecekler için kullanılır.<br />* Hardal, fıstıkezmesi, yenilebilir yağlar ve şuruplar gibi yiyecekler için kullanılır.<br />* Gıda ve tıbbi ürünler için keseler bu malzemeden üretilir.<br />Yukarıda özellikleri verilen plastik ambalaj türü aşağıdakilerden hangisidir?
     - A-) Yüksek yoğunluklu polietilen (HDPE)
     - B-) Düşük yoğunluklu polietilen (LDPE)
@@ -990,6 +1004,9 @@
     > **Açıklama:** **Ahşap ambalaj malzemeleri,** sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır.
 
     <hr />
+
+## Ünite 6
+
 1. "Akıllı ambalaj" terimi hangi dönemde popüler hale gelmiştir?
     - A-) 21\. yüzyıl
     - **Cevap B-) 20\. yüzyıl sonu**
@@ -1190,6 +1207,9 @@
     > **Açıklama:** RFID (Radyo Frekansı ile Tanımlama), çipler ve bağlantı noktalarına dayalı, ürünlerin tedarik zinciri boyunca gerçek zamanlı olarak izlenmesine, envanter yönetimine, sahteciliğin önlenmesine ve ürün tazeliğinin sağlanmasına imkân tanıyan akıllı ambalaj teknolojisidir.
 
     <hr />
+
+## Ünite 7
+
 1. 1\. Bir şirketin pazardaki genel prestijini, geleneğini, uzmanlığını ve itibarını kullanarak, müşterilerin şirketin nitelikli ürünler sunduğunu bilmesini sağlamak için kullanılmaktadır.<br />2\. Farklı ürün çeşitleri için, bir ana şirket markasına bağlıymış gibi sunulan markalar bulunur.<br />3\. Ana markaya herhangi bir atıfta bulunmadan her çeşitlilik için geliştirilen bir markayı tanımlar.<br />Yukarıda markaların benzersizlik ölçütleri ifade edilmiştir. Buna göre aşağıdakilerden hangisinde bu ölçütler doğru bir biçimde eşleştirilmiştir.
     - A-) I. Onaylayıcı Marka - II. Tek-Baskın Marka (Monolitik) - III. Bağımsız Marka
     - **Cevap B-) I. Tek-Baskın Marka (Monolitik) - II. Onaylayıcı Marka - III. Bağımsız Marka**
@@ -1390,6 +1410,9 @@
     > **Açıklama:** Mizah çok uzun zamandır bir öğrenme aracı olarak başvurulan ve reklamcılıkta insanlarla bir bağ kurmak için yaygın olarak kullanılan bir yöntem olmuştur. Tasarımda tipik olarak kullanılan mizah türleri aşağıda incelenmiştir:<br />1\. Karşılaştırma: Bir ürünün açıkça olmayan bir şey ile kıyaslanmasını içermektedir.<br />2\. Kişileştirme: Ürünü temsil eden mizahi bir marka kişiliğinin yaratılmasıdır.<br />3\. Abartma: Bir şeyi olduğundan fazla abartmak ve büyütmektir.<br />4\. Ekleme: Bir öğenin anlamını değiştiren bir unsur eklemek anlamına gelmektedir.<br />5\. Çıkarma: Bir ürünün ne olmadığı gerçeğiyle oynamak için kullanılan bir yöntemdir.<br />6\. Kelime oyunu: Ürünü görsel bir kelime oyununun parçası olarak kullanan kelime oyunları mizahi bir dönüş yaratabilir.<br />***7. İkame: Ürünün açıkça olmadığı bir şeyin* yerine kullanılmasıdır.**<br />8\. Saygı Duruşu: Sanat ve tarihten referans noktaları kullanmak gibi tanıdık bir şeye mizahi bir yorum getirmeyi içerir.<br />9\. Göz Yanılması: Sahte ile gerçeğin buluşmasını ifade eder, örneğin ambalajın farklı bir ürün gibi görünmesini sağlamak için kullanılmaktadır.<br />Buna göre Doğru Cevap C seçeneğidir.
 
     <hr />
+
+## Ünite 8
+
 1. "Atık malzemelerin orijinal amacı veya başka amaçlar için ürünlere, malzemelere veya hammaddeye dönüştürüldüğü tüm geri kazanım işlemleridir."<br />Yukarıda verilen tanım aşağıdaki seçeneklerden hangisine aittir?
     - **Cevap A-) Geri dönüşüm**
     - B-) Faydalı ömür sonu
@@ -1590,3 +1613,4 @@
     > **Açıklama:** Sıfır atık: Üretim, tüketim ve hizmet süreçle- rinde atık oluşumunun önlenmesi/azaltılması, yeniden kullanıma öncelik verilmesi, oluşan atıkların ise kaynağında ayrı biriktirilerek toplanması ve geri dönüşüm ve/veya geri kazanımının sağlanarak bertarafa gönderilecek atık miktarının azaltılması suretiyle çevre ve insan sağlığının ve tüm kaynakların korunmasını hede eyen yaklaşım.
 
     <hr />
+

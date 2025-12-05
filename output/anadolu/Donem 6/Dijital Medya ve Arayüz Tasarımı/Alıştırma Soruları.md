@@ -1,5 +1,7 @@
 # Dijital Medya ve Arayüz Tasarımı - Alıştırma Soruları
 
+## Ünite 1
+
 1. Aşağıdakilerden hangi tarihsel dönem tasarımı mekanikleştirmiş ve seri üretim süreçlerine uyum sağlamak zorunda bırakmıştır?
     - A-) Rönesans
     - B-) Antik Yunan
@@ -190,6 +192,9 @@
     > **Açıklama:** Prototipler; fikirlerin düşük maliyetli, hızlı ve somut modelleridir.
 
     <hr />
+
+## Ünite 2
+
 1. 1980’lerle birlikte bilgisayar bilimlerindeki bilişsel süreçler ve insan faktörlerini kapsayan mühendislik disiplini olarak ortaya çıkan insan-bilgisayar etkileşiminin (İBE) amaçları aşağıdakilerden hangisi **değildir?**
     - A-) Kullanıcı dostu
     - B-) Erişilebilir
@@ -390,6 +395,9 @@
     > **Açıklama:** Amerika'lı bilim insanı ve mühendis Vannevar Bush, 1945 yılında yayınladığı "As We May Think" adlı makalesinde Memex (Memory Index) yapısını tanıtmıştır. Bu nedenle doğru yanıt a şıkkıdır.
 
     <hr />
+
+## Ünite 3
+
 1. Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını ifade eden Gestalt ilkesi aşağıdakilerden hangisidir?
     - A-) benzerlik
     - B-) yakınlık
@@ -490,6 +498,9 @@
     > **Açıklama:** Yanıt A şıkkıdır<br />Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır
 
     <hr />
+
+## Ünite 4
+
 1. Android mobil işletim sisteminin özellikle akıllı saatler ve giyilebilir cihazlar için tasarlanmış olan sürümüne verilen isim aşağıdaki seçeneklerden hangisinde yer almaktadır?
     - A-) iPadOS
     - B-) CarPlay
@@ -690,6 +701,9 @@
     > **Açıklama:** URL, internet üzerindeki bir kaynağın adresini belirtir ve kullanıcının erişmek istediği web sayfasının konumunu gösterir.
 
     <hr />
+
+## Ünite 5
+
 1. 1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz hangisidir?
     - A-) Steamboat
     - B-) Praksinoskop
@@ -780,6 +794,9 @@
     > **Açıklama:** Doğru yanıt A şıkkıdır<br />H.264 bir sıkıştırma türüdür.
 
     <hr />
+
+## Ünite 6
+
 1. 1950’lerin başında erken dönem bilgisayar oyunların evrimine katkıda bulunan oyun aşağıdakilerden hangisidir?
     - **Cevap A-) OXO**
     - B-) Space Invaders
@@ -880,6 +897,9 @@
     > **Açıklama:** Oyun bağlamında cutscene kelimesi Türkçeye “ara sahne” veya “kesit sahne” olarak çevrilebilir. Oyunun hikâyesini ilerletmek veya önemli olayları anlatmak için oyun içi etkileşimin durdurulduğu ve genellikle sinematik bir video veya animasyonun gösterildiği bölümleri ifade eder.
 
     <hr />
+
+## Ünite 7
+
 1. 1992’de ilk defa “Arttırılmış Gerçeklik (Augmented Reality)” terimini ortaya koyan Thomas P. Caudell ve David W. Mizell, bu teknolojiyi hangi alanda kullanmışlardır?
     - **Cevap A-) Havacılık**
     - B-) Savunma sanayii
@@ -980,6 +1000,9 @@
     > **Açıklama:** **Duyusal Sürükleyicilik:** Duyusal sürükleyicilik, bir kişinin bir ortama veya deneyime tamamen dalmış ve çevresel duyularıyla yoğun bir şekilde etkileşimde bulunduğu bir durumu ifade eder.<br />**Meydan okumaya dayalı sürükleyicilik:** Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.<br />**Yaratıcı sürükleyicilik:** Kullanıcının gerçek dünyadan ayrılıp hayal gücünün rehberliğinde farklı bir dünyaya girdiği anları tanımlar. Bu tür bir sanal gerçeklik ortamı, özellikle deneyimlerin fiziksel tehlikesini azaltarak gerçek dünyada deneyimlenmesi mümkün olmayan senaryoların oluşturulmasına olanak tanımaktadır.<br />**Sembolik/Anlatısal Sürükleyicilik:** Kullanıcının semboller, öyküler ve anlatılar aracılığıyla bir konsepte veya deneyime tamamen dalma durumunu ifade eder.<br />**Sosyal Sürükleyicilik:** Sanal gerçeklik ortamları tek veya çok kullanıcılı olacak şekilde tasarlanabilmektedir. Çok kullanıcılı sanal gerçeklik uygulamaları genellikle internet bağlantısına sahiptir dolayısıyla katılımcılar sanal dünyalarda aynı anda benzer bir deneyimi paylaşabilirler.
 
     <hr />
+
+## Ünite 8
+
 1. "toplumun çoğunluğu güncel teknolojileri kullanırken öncü kesimler .................... denemektedirler"<br />Yukarıdaki ifadede boş yere aşağıdakilerden hangisi gelebilir?
     - A-) Direnmeyi
     - **Cevap B-) Sınırdaki teknolojileri**
@@ -1080,3 +1103,4 @@
     > **Açıklama:** Soruda bahsi geçen durum yıkıcı yenilik olarak adlandırılır. Doğru yanıt C'dir.
 
     <hr />
+

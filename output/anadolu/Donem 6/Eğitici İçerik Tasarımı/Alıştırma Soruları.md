@@ -1,5 +1,7 @@
 # Eğitici İçerik Tasarımı - Alıştırma Soruları
 
+## Ünite 1
+
 1. Açık ve temellenmiş, her durumda uygulanabilen ve değerlendirilebilen sağlam olarak ele alınan bilgi nasıldır?
     - **Cevap A-) güvenilir**
     - B-) geçerli
@@ -200,6 +202,9 @@
     > **Açıklama:** Beklenen ya da gelecekteki ihtiyaçlar: Yüksek düzeyde performans elde etmek için bir kuruluşun öngördüğü ihtiyaçlardır.
 
     <hr />
+
+## Ünite 2
+
 1. 1\. Ne oldu?<br />2\. Neden oldu?<br />3\. Nerede oldu?<br />4\. Tekrar olur mu?<br />5\. Nasıl olmalıydı?<br />Yukarıdaki soru ifadelerinden hangileri normatif içerikte ne tür sorulara yanıt aranacağına ilişkindir?
     - A-) I, II ve III
     - B-) I ve II
@@ -400,6 +405,9 @@
     > **Açıklama:** İçeriğin Yapısı<br />Olgu
 
     <hr />
+
+## Ünite 3
+
 1. "Bir hesap makinesi, sayıları semboller olarak kabul eder, matematiksel işlemleri uygular ve sonuçları gösterir. İnsanlar da<br />dil veya matematik gibi bilgi alanlarında sembollerle çalışırken, düşünsel işlemlerini kullanır ve sonuçları üretirler." açıklaması aşağıdaki kuramlardan hangisi ile ilişkilendirilmektedir?
     - A-) Gestalt kuramı
     - **Cevap B-) Bilgiyi işleme kuramı**
@@ -600,6 +608,9 @@
     > **Açıklama:** Diğer kuram ilkeleri için tüm ünitedeki içerik sunumunda dikkat edilecek ilkeler incelenmelidir.<br />A, B ve C seçenekleri davranışsal kuram, D seçeneği ise Gestalt kuramı ile özellikle ilişkili ilkelerdir.
 
     <hr />
+
+## Ünite 4
+
 1. " .............., duyu organlarını harekete geçiren birdış uyaranın sinirler aracılığıyla sinir merkezine iletilmesi sonucunda meydana gelen dolaysız zihinsel ürün olarak tanımlanabilir."<br />Yukarıdaki cümlede boşluğa aşağıdakilerden hangisi gelmelidir?
     - **Cevap A-) Duyum**
     - B-) Durum
@@ -800,6 +811,9 @@
     > **Açıklama:** Semboller eğitsel bir içerikte kullanılan görsel öğelerden biridir. Böyle bir zeminde yer alırken anlaşılması kolay, stilize edilmiş ya da en yalın biçimiyle kullanmanın iyi olacağı söylenebilir. Sembolün tam olarak hangi bağlamda sunulduğu, bilgi metninin anlaşılmasında ne kadar önemli olduğu, o metnin hedef kitlesinin yaş aralığı ve bilişsel düzeyi sembollerin nasıl tasarlanması ve kullanılması gerektiğinin belirlenmesinde dikkat edilmesi gereken hususlardır.
 
     <hr />
+
+## Ünite 5
+
 1. 1\. Bağlantıcı Kitlesel Açık Çevrimiçi Dersler (cKAÇD) çoğunlukla ağ-tabanlı, üniversiteler bünyesinde kurulan ve akademisyenlerin yürütücülüğünde işlenen dersleri ele almaktadır.<br />2\. (xKAÇD) Kitlesel Katılımlı ve Genişletilmiş KAÇD’ler, geleneksel çevrim içi öğrenmenin platformlar aracılığı ile sunulmasına odaklanmaktadır.<br />3\. Coursera ve EdX gibi platformlar cKAÇD’lere örnektir.<br />4\. xKAÇD ile öğrenenlerin aldıkları derslere devam sağlamamasındaki, dersi bırakmasındaki oran oldukça gerilemekle birlikte öğrenenlerin memnuniyetlerinde artış yaşanmaktadır.<br />Yukarıda Kitlesel Açık Çevrimiçi Derslerle ilgili verilenlerden hangisi doğrudur?
     - **Cevap A-) I ve II**
     - B-) II ve III
@@ -1000,6 +1014,9 @@
     > **Açıklama:** **Dijital İş birliği:** İş ekiplerinin fiziksel konumlarına bağlı olmaksızın, internet ve diğer teknolojik<br />araçlar aracılığıyla etkili bir şekilde iletişim kurmalarını, işbirliği yapmalarını ve projeleri birlikte<br />yönetmelerini sağlayan bir yaklaşımdır.
 
     <hr />
+
+## Ünite 6
+
 1. ...................., verili bilgideki açıkları fark etme, farkedilen açık ya da eksik görülen durumlar üzerine çeşitli varsayımlarda bulunma ve varsayımlara yönelik denemelerle sonuca ulaşma olarak tanımlanabilir?<br />Yukarıdaki boşluğa aşağıdaki kavramlardan hangisi gelmelidir?
     - **Cevap A-) Yaratıcılık**
     - B-) Sanat
@@ -1200,6 +1217,9 @@
     > **Açıklama:** İçerik veya bilgi (görsel, işitsel, sembolik, şematik, davranışsal), işlem (biliş, hafıza, çoğul üretim, tekil üretim, değerlendirme), ürün ya da fikir (üniteler, sınıflar, ilişkiler, sistemler, dönüşümler, çıkarımlar) boyutlarından oluşan yaratıcı süreci olarak Guilford (1988) zihinsel yapı modeli olarak açıklanır.
 
     <hr />
+
+## Ünite 7
+
 1. ".....................: İçeriğin belirlenmesinde ve sürece alınmasında verimli olması amaçlanmalıdır."<br />Yukarıdaki verilen eğitim programları ilkelerine yönelik ifadedeki boşluğu doğru bir biçimde doldurun?
     - A-) Geçerlik ve güvenirlik
     - B-) Bireylerin ilgi ve ihtiyaçlarına yönelik olma
@@ -1360,6 +1380,9 @@
     > **Açıklama:** **Yaşadıkları deneyimlerden öğrendiklerini diğer bir benzer deneyime transfer edebilme:**<br />Eleştirel düşünebilme yetisine sahip birey/bireyler yaşadıkları deneyimler aracılığıyla içselleştirdikleri bilgileri karşılaştıkları benzer ve/veya yeni durumların içinde etkin şekilde kullanabilirler.
 
     <hr />
+
+## Ünite 8
+
 1. "Bir öğretmen öğrencilerin Görsel İletişim Tasarımına yönelik başarı düzeyleri belirlemek istiyor. Bunun için öğretmen daha önce hazırlamış olduğu belirtke tablosundan yararlanarak kapsam geçerliliği yüksek bir başarı testi hazırlıyor. Daha sonra testteki her bir maddenin kaç puana denk geldiğini belirleyerek sınıfa bu testi uyguluyor. Uygulama sonucunda öğrencilerin Görsel İletişim Tasarımı dersine ilişkin başarı ortalamlarının 61 olduğunu saptıyor. Bu başarı ortalamasına bakarak öğretmen, öğrencilerinin başarı düzeyinin orta olduğuna karar veriyor."<br />Yukardaki örnek olayda öğretmenin gerçekleştirdiği hangi eylem ölçme işlemi aşamalarından "ölçülecek özelliklerin belirlenmesi" aşaması ile ilgilidir?
     - **Cevap A-) Öğrencilerin derse ilişkin başarı düzeylerini belirlemek istemesi**
     - B-) Daha önce hazırlamış olduğu belirtke tablosundan yararlanması
@@ -1560,3 +1583,4 @@
     > **Açıklama:** İHA’ları askeri amaçla kullanan en büyük ordu ABD’ne aittir. Şuan ABD ordusuna ait yaklaşık 4000 İHA mevcuttur. ABD ordusu bu İHA’ları pek çok farklı görevler için tasarlamış ve diğer askeri unsurlarla birlikte koordineli bir şekilde kullanmak için çalışmaktadır. ABD ordusuna ait Alabama’daki Havacılık Merkezi, İHA’ların yönetildiği ana üs olarak görev almaktadır (Valavanis ve Vachtsevanos, 2015).
 
     <hr />
+

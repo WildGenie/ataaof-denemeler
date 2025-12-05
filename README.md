@@ -220,12 +220,31 @@ ataaof-denemeler/
 
 ## 🧪 Testler
 
-Testleri çalıştırmak için:
+Proje kapsamlı bir test paketine sahiptir. Testleri çalıştırmak için:
 
 ```bash
-python3 -m unittest tests/test_anadolu.py
-python3 -m unittest tests/test_anadolu_repro.py
+# Tüm testleri çalıştır
+python3 -m unittest discover tests
+
+# Sadece GenAI dosya yöneticisi testlerini çalıştır
+python3 -m unittest tests/test_genai_files_manager.py
+
+# Entegrasyon testlerini çalıştır (API anahtarı gerektirir)
+python3 tests/integration_test_genai_files_manager.py
 ```
+
+## 🏗️ Mimari
+
+Proje modüler bir yapıya sahiptir:
+
+- **`libs/`**: Çekirdek kütüphaneler.
+  - `genai_files_manager.py`: Google GenAI dosya yükleme ve takibi.
+  - `anadolu_pipeline.py`: AÖF veri işleme mantığı.
+- **`anadolu/scripts/`**: Özel işlevler için betikler.
+  - `convert_exams_to_json.py`: PDF -> JSON dönüşümü.
+  - `verify_answers.py`: Cevap anahtarı doğrulama.
+  - `enrich_questions.py`: AI ile zenginleştirme.
+- **`output/`**: Tüm indirilen ve üretilen dosyalar burada saklanır.
 
 ## 🔑 Gereksinimler
 

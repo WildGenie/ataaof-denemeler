@@ -2,19 +2,6 @@
 
 ## Ünite 1
 
-### Dijital TV Yayın Türleri
-
-1. Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) IPTV
-    - **Cevap B-) Web TV**
-    - C-) Pay TV
-    - D-) Mobil TV
-    - E-) Analog yayıncılık
-
-    > **Açıklama:** Ünite 1'de, Web TV (İnternet TV), açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan bir teknoloji olarak tanımlanmıştır. Bu yayın türü, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle ortaya çıkar.
-
-    <hr />
-
 ### Dijital Çağın Başlangıcı
 
 1. Dijital çağın doğuşunu sağlayan gelişmelerden hangisi aynı zamanda bilgisayarın icat edilmesine yol açmıştır?
@@ -25,19 +12,6 @@
     - E-) Mikro çipler
 
     > **Açıklama:** Soru 2, dijital çağın başlangıcını sağlayan ilk teknolojik gelişmeyi sormaktadır. Metinde, 'Dijital çağın ya da bilgi çağının doğmasına olanak sağlayan ilk teknolojik gelişme, elektronik alanında bir devrim yaratan transistör aygıtının icadıdır' denilmektedir. Transistörün icadı, bilgisayar çağını da olanaklı kılmıştır.
-
-    <hr />
-
-### Dijital Çağın Başlatan İcat
-
-1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) İnternet
-    - B-) Mikro çipler
-    - C-) Hafıza kartı
-    - D-) Optik iletişim
-    - **Cevap E-) Transistör**
-
-    > **Açıklama:** Soru, dijital çağın başlangıcına olanak tanıyan elektronik alandaki devrimsel bir icadı sormaktadır. Metinde, "Dijital Çağı Başlatan İlk İcatlar" başlığı altında, elektronik alanda bir devrim yaratanın transistör olduğu belirtilmiştir. Cümledeki tanım, transistörün işlevini tam olarak karşılamaktadır: "...transistor 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Amerikalı Bell Laboratuvarları'nda geliştirildi. Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur."
 
     <hr />
 
@@ -97,22 +71,9 @@
 
     <hr />
 
-### Sayısal Video Tarihi
-
-1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
-    - A-) Vitaphone ses sistemi
-    - **Cevap B-) VTR (Video Tape Recorder)**
-    - C-) Katot ışın tüplü elektronik televizyon
-    - D-) Sinematograf
-    - E-) Telstar uydusu
-
-    > **Açıklama:** 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, video kayıt teknolojisinde önemli bir adımdı.
-
-    <hr />
-
 ### Transistör İcadı ve Etkisi
 
-1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar? *(4 kez soruldu)*
     - A-) Hafıza kartı
     - **Cevap B-) Transistör**
     - C-) İnternet
@@ -123,22 +84,9 @@
 
     <hr />
 
-### Transistörün İcadı
-
-1. -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukardaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Transistör**
-    - B-) Mikro çipler
-    - C-) İnternet
-    - D-) Hafıza kartı
-    - E-) Optik iletişim
-
-    > **Açıklama:** Metnin 2. sayfasında, "Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur." şeklinde açıkça belirtilmiştir. Bu unsur, dijital çağın başlangıcını sağlayan ilk icatlardan biridir.
-
-    <hr />
-
 ### Video Kayıt Tarihi
 
-1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir? *(2 kez soruldu)*
+1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir? *(5 kez soruldu)*
     - A-) Sinematograf
     - B-) Telstar uydusu
     - C-) Katot ışın tüplü elektronik televizyon
@@ -159,19 +107,6 @@
     - E-) Super 8 format
 
     > **Açıklama:** Ünite 1'de video kayıt teknolojileri kronolojisinde, 1976 yılında VHS (Video Home System) tanıtıldığı ve bu sayede tüketicilerin kendi video görüntülerini kaydedip izleyebilme imkânına sahip olduğu belirtilmiştir.
-
-    <hr />
-
-### İkinci Endüstri Devrimi
-
-1. Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren aşağıdakilerden hangisidir?
-    - A-) Katot ışın tüplü elektronik televizyor
-    - B-) Telstar uydusu
-    - C-) Sinematograf
-    - D-) Vitaphone ses sistemi
-    - **Cevap E-) VTR (Video Tape Recorder)**
-
-    > **Açıklama:** Metinde belirtildiğine göre, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, İkinci Endüstri Devrimi (Endüstri 2.0) dönemindeki gelişmelerdendir.
 
     <hr />
 
@@ -270,7 +205,7 @@
 
 ### DSLR Özellikleri
 
-1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz? *(3 kez soruldu)*
     - A-) Tek tuşla video özelliği kullanılabilir.
     - B-) Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
     - **Cevap C-) Maliyeti kompaktlara nazaran daha ucuzdur.**
@@ -278,16 +213,6 @@
     - E-) Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
 
     > **Açıklama:** DSLR (Digital Single Lens Reflex) makineler, tak-çalıştır lenslere sahiptir ve genellikle APS-C veya Full Frame sensör kullanır. Sabit odaklı lenslerle çalışmak veya lens/gövde bütünlüğü bu makinelere ait özellikler arasında yer almaz. Sabit odaklı lensler ve gövdeyle bütünleşik lensler genellikle kompakt veya köprü kameralara özgüdür.
-
-    <hr />
-1. Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
-    - **Cevap A-) Maliyeti kompaktlara nazaran daha ucuzdur.**
-    - B-) Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
-    - C-) Tek tuşla video özelliği kullanılabilir.
-    - D-) Tak çıkar bir lensten oluşur.
-    - E-) Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
-
-    > **Açıklama:** Ünite 2'de DSLR makinelerin özellikleri anlatılmıştır. Kompakt makinelerden daha pahalıdırlar (A şıkkı yanlış). Çekim gecikmesi yoktur (B doğru). Video özelliği vardır (C doğru). Tak çıkar lenstir (D doğru). Kontrol fotoğrafçıya aittir (E doğru). Dolayısıyla, kompaktlara göre maliyetlerinin daha ucuz olması (A şıkkı) DSLR'ler için doğru değildir; genellikle daha pahalıdırlar.
 
     <hr />
 
@@ -324,16 +249,6 @@
     - E-) Kullanıcıya basitlik sunar.
 
     > **Açıklama:** Kompakt fotoğraf makinelerinin dezavantajlarından biri, lensin gövdeyle bütünleşik olması nedeniyle tak çıkar lens kullanamamaktır. Ünite 2'de bu makinelerin lenslerinin gövdeye sabitlendiği ve bu nedenle tak çıkar lenslerinin kullanılamayacağı belirtilmiştir.
-
-    <hr />
-1. I. Menü kullanımı rahatlığı II. Hafif tasarıma sahip olması III. Görüntü kalitesinin iyileştirilmiş olması IV. Küçük sensörlerinin olması Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
-    - A-) Yalnız II
-    - B-) I ve IV
-    - **Cevap C-) I, II ve III**
-    - D-) I, III ve IV
-    - E-) I, II, III ve IV
-
-    > **Açıklama:** Standart kompakt fotoğraf makineleri (bas-çek), kolay taşınabilirlik ve kullanım pratikliği sunar (I ve II. avantajlar). Görüntü kalitesinin iyileştirilmiş olması da genel bir avantajdır (III.). Ancak, kompakt makinelerin sensörleri DSLR ve aynasız kameralara göre daha küçüktür, bu nedenle 'Küçük sensörlerinin olması' bir avantaj değil, bir kısıtlamadır (Ünite 2'deki 'Küçük sensörlerle maliyetleri oldukça düşürülmüştür' ifadesi ile karşılaştırılabilir).
 
     <hr />
 
@@ -388,7 +303,7 @@
     > **Açıklama:** Standart kompakt fotoğraf makineleri için verilen avantajlar arasında menü kullanımı rahatlığı (pratik kullanım ve basit menüler) ve hafif tasarıma sahip olması (avuç içi boyutlarında) yer alır. Küçük sensörlerinin olması da maliyetleri düşürmesi açısından bir özelliktir (birinci ve dördüncü maddeler). Görüntü kalitesinin iyileştirilmiş olması, özellikle büyük sensörlü/DSLR'lere kıyasla, bir avantaj olarak sayılmaz; aslında kalite/sensör boyutu dezavantajdır. Bu nedenle I, II ve IV avantajlardır. Ancak, sorunun doğru kabul edilen şıkkı C (I, III ve IV) olduğu için, I (Menü kullanımı rahatlığı) ve IV (Küçük sensörlerinin olması) kesinlikle avantajdır. III (Görüntü kalitesinin iyileştirilmiş olması) ise bu makineler için genellikle bir gelişme olarak belirtilse de, diğerlerine göre üstün bir avantaj sayılmaz. Ancak verilen doğru şıkkı takip ederek I, III ve IV'ü kabul ediyoruz. Metinde kompakt makinelerin 'pratik kullanım rahatlığı' sunduğu belirtilmiştir (I). Küçük sensörleri nedeniyle maliyetleri düşüktür (IV). III'ün kabul edilmesi, genel dijitalleşme bağlamında bir iyileşme olarak yorumlanabilir.
 
     <hr />
-1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
+1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır? *(3 kez soruldu)*
     - A-) Yalnız II
     - B-) I ve IV
     - **Cevap C-) I, II ve III**
@@ -412,22 +327,9 @@
 
     <hr />
 
-### Orta Format Avantajları
-
-1. Aşağıdakilerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar.
-    - A-) I ve II
-    - B-) II ve III
-    - C-) I, II ve III
-    - **Cevap D-) I, II ve IV**
-    - E-) II, III ve IV
-
-    > **Açıklama:** Ünite 2'de Orta Format Makineleri'nin tercih edilme nedenleri (Neden Tercih Etmeliyiz?) sıralanmıştır: I. Sığ alan derinliği kalitesi sunar (sığ alan derinliği uygulamalarında çok daha iyi bir derinlik espası sunarlar). II. Büyük sensörler sayesinde yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahip olması değil, tam tersine büyük ve ağır bir gövdeye sahip olmalarıdır (Dezavantajdır). IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar (sektöre, alana ve boyutlandırma pratiklerine göre seçim yapma imkanı sunar). Bu nedenle I, II ve IV maddeleri tercih nedenlerindendir. III bir dezavantajdır.
-
-    <hr />
-
 ### Orta Format Makineleri
 
-1. I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar. Yukarıda verilenlerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? A) I ve II B) II I ve III C) I, II ve III D) I, II ve IV E) II, III ve IV
+1. I. Sığ alan derinliğini kontrol etmeye olanak tanır. II. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahiptir. IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar. Yukarıda verilenlerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? A) I ve II B) II I ve III C) I, II ve III D) I, II ve IV E) II, III ve IV *(2 kez soruldu)*
     - A-) I ve II
     - B-) II I ve III
     - C-) I, II ve III
@@ -490,19 +392,6 @@
 
     <hr />
 
-### Standart Kompakt Makineler
-
-1. I. Menü kullanımı rahatlığı<br />II. Hafif tasarıma sahip olması<br />III. Görüntü kalitesinin iyileştirilmiş olması<br />IV. Küçük sensörlerinin olması<br />Yukarıdaki ifadelerden hangisi standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
-    - A-) Yalnız II
-    - B-) I ve IV
-    - **Cevap C-) I, II ve III**
-    - D-) I, III ve IV
-    - E-) I, II, III ve IV
-
-    > **Açıklama:** Standart kompakt fotoğraf makineleri, avuç içi boyutlarında ve kullanımı kolaydır (hafif tasarıma sahip olması). Genellikle basit kullanışlı makinelerdir ve otomatik ayarları mevcuttur (I ve II avantajdır). Genellikle küçük sensörlere sahiptirler (IV avantajdır), ancak büyük sensörlere sahip gelişmiş kompaktlara göre görüntü kaliteleri teorik olarak daha düşüktür. Bu makineler genellikle manuel kontrol imkânı sunmazlar veya çok sınırlıdır (III, iyileştirilmiş görüntü kalitesi ve gelişmiş kontrol bağlamında dezavantajdır) (Ünite 2).
-
-    <hr />
-
 ### Tam Çerçeve DSLR
 
 1. Aşağıdakilerden hangisi DSLR fotoğraf makinelerinde tam çerçeve (FX) gövdelerin dezavantajları arasında yer alır?
@@ -556,16 +445,6 @@
     > **Açıklama:** Soru 1, analog video tarihine ilişkindir. Metinde, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydının mümkün hâle geldiği belirtilmektedir. Bu nedenle doğru cevap, bant kaydının mümkün olmasıdır.
 
     <hr />
-1. Televizyonda canlı yayını dışında kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
-    - **Cevap A-) VTR (Video Tape Recorder)**
-    - B-) Kaset tabanlı tipik elektronik televizyon
-    - C-) Sinematograf
-    - D-) Telekstaf uydusu
-    - E-) Vifaphone ses sistemi
-
-    > **Açıklama:** Soru 3, analog video tarihindeki bir gelişmeyi sormaktadır. Metinde, '1956: Televizyonda canlı yayınlar dışında bant kaydı mümkün hâle geldi. “Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) 2 inch (yaklaşık beş santimetre) kalınlığında manyetik makara bantlara kayıt yapan devasa bir aletti ve fiyatı yaklaşık 50.000 dolardı ama tarihte ilk defa video kaydı yapılabiliyordu" ifadesi yer almaktadır. Bu, VTR'nin icadıdır.
-
-    <hr />
 
 ### Dijital TV Yayın Türleri
 
@@ -582,7 +461,7 @@
 
 ### Dijital Video Ekipmanları
 
-1. Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?
+1. Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır? *(2 kez soruldu)*
     - A-) OIS
     - B-) Dolly
     - C-) Gimbal
@@ -595,7 +474,7 @@
 
 ### Dijital Video Formatları
 
-1. Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır çözünürlük standartı aşağıdakilerden hangisinde doğru verilmektedir?
+1. Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır çözünürlük standartı aşağıdakilerden hangisinde doğru verilmektedir? *(2 kez soruldu)*
     - **Cevap A-) SDTV**
     - B-) 4K TV
     - C-) HDTV
@@ -632,31 +511,8 @@
 
     <hr />
 
-### Görüntü Sabitleme Teknolojileri
-
-1. Video kameralarda mekanik bir aparat kullanmadan per değiştirsin görüntünün yansıttığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
-    - A-) Optik görüntü sabitleme (OIS)
-    - B-) Analog sistem
-    - **Cevap C-) Elektronik görüntü sabitleme (EIS)**
-    - D-) Dijital sistem
-    - E-) Interlaced (i) tarama
-
-    > **Açıklama:** Video kameralarda sabit lensli modellerde titreşimi önlemek için kullanılan, mekanik bir aparat kullanmadan (tripod, gimbal gibi) elektronik olarak görüntü sabitlemeyi sağlayan sistemler EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) olarak adlandırılır. Hareketli görüntülerin elektronik olarak düzeltilmesi bu sistemlerle sağlanır.
-
-    <hr />
-
 ### Hareketli Görüntü Sabitleme
 
-1. Dijital video kameralarda Eis veya Ois gibi görüntü sabitleme özelliklerinin olması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
-    - A-) Jimmy Jib
-    - B-) Dolly
-    - C-) 3D Dijital Kameralar
-    - D-) Drone
-    - **Cevap E-) Gimbal**
-
-    > **Açıklama:** Ünite 3'ün "Video Kameralardaki Dijital Dönüşüm" bölümünde, sabit lensli el kameralarının titreşim sorununu aşmak için firmaların EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi görüntü sabitleyici sistemler geliştirdiği belirtilmiştir. Ayrıca, "Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar" başlığı altında, bu sistemlere ek olarak hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly isimli cihazların kullanıldığı ifade edilmiştir. Bu araçlar, EIS/OIS'in yetersiz kaldığı durumlarda kullanılır.
-
-    <hr />
 1. Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Optik görüntü sabitleme (OIS)
     - **Cevap B-) Elektronik görüntü sabitleme (EİS)**
@@ -743,19 +599,6 @@
     - E-) Avid ve Final Cut Pro
 
     > **Açıklama:** Video kameralarda hareketli görüntünün ortaya çıkması için saniyede belirli sayıda kare yakalanır. Bu tarama işlemi Interlaced (birleşik) veya Progressive (aşamalı) olarak iki şekilde gerçekleştirilir ve saniyedeki görüntü toplama süresiyle alakalıdır.
-
-    <hr />
-
-### Video Çözünürlük Standartları
-
-1. Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır olarak tanımlanan TV çözünürlük standardı aşağıdakilerden hangisinde doğru verilmektedir?
-    - A-) HDTV
-    - B-) 4K TV
-    - **Cevap C-) SDTV**
-    - D-) UHDTV
-    - E-) 1920x1080
-
-    > **Açıklama:** PAL (Phase Alternating Line) televizyon sistemi, Avrupa ve diğer bazı bölgelerde kullanılır ve standart dikey çözünürlüğü 625 satırdır. NTSC (National Television System Committee) ise çoğunlukla Kuzey Amerika'da kullanılır ve standart dikey çözünürlüğü 525 satırdır. Bu bilgi Ünite 3 özetinde, dijital video kameraların analogdan dijitale geçişi anlatılırken bahsedilen HDTV ve UHDTV ile ilgili bağlamda yer almaktadır.
 
     <hr />
 
@@ -942,7 +785,7 @@
 
 ### Yazıcı Teknolojileri
 
-1. Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır? *(2 kez soruldu)*
+1. Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır? *(3 kez soruldu)*
     - **Cevap A-) Lazer**
     - B-) Mürekkep püskürtmeli
     - C-) Süblimasyon
@@ -950,19 +793,6 @@
     - E-) Dijital
 
     > **Açıklama:** Katı hal (Solid State Disk) gibi elektriksel hücreler kullanan yazıcılar değil, termal, nokta vuruşlu, inkjet, lazer ve süblimasyon gibi tipler vardır. Solid Ink, katı mürekkebi eriterek kullanan bir teknoloji iken, burada bahsedilen, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve taşma olmayan baskıyı sağlayan yazıcılar 'Lazer' yazıcılardır.
-
-    <hr />
-
-### Yazıcı Tipleri
-
-1. Görüntüyü oluşturmak için, içi mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
-    - A-) Ofset
-    - B-) Mürekkep püskürtmeli
-    - C-) Süblimasyon
-    - **Cevap D-) Lazer**
-    - E-) Dijital
-
-    > **Açıklama:** Söz konusu tanım (toner, statik elektrik, ısıtma ile katı mürekkep aktarımı) Lazer yazıcıların çalışma prensibini açıklamaktadır. Ünite 4'te yazıcılar termal, nokta vuruşlu, mürekkep püskürtmeli (inkjet), lazer ve süblimasyon olarak sınıflandırılmıştır. Lazer yazıcılar, tonerleri eriterek kalıcı ve dağılma yapmayan baskılar üretir.
 
     <hr />
 
@@ -1009,7 +839,7 @@
 
 ### Beyaz Dengesi
 
-1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz? *(3 kez soruldu)*
     - A-) Shade(Gölge)
     - B-) Cloudy (Bulutlu)
     - C-) Fluorescent(Floresan)
@@ -1019,30 +849,10 @@
     > **Açıklama:** Beyaz Dengesi (White Balance), ortam ışığının renk ısısını dengelemek için kullanılır (Kelvin cinsinden ölçülür). Ayarlar genellikle Otomatik Beyaz Dengesi (AWB) veya manuel olarak ayarlanır. Histogram ise parlaklık ve renk doygunluğunu gösteren bir grafiktir, beyaz dengesi ayarı değildir. (Ünite 5, Beyaz Dengesi ve Histogram bölümleri)
 
     <hr />
-1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
-    - **Cevap A-) Beyaz ayarı**
-    - B-) Gamma ayarı
-    - C-) Kontrast ayarı
-    - D-) ICC profil ayarı
-    - E-) Pozometre ayarı
-
-    > **Açıklama:** Ünite 5'te Beyaz Dengesi başlığı altında, Beyaz Dengesi kavramının renk ısısı ile ilişkili olduğu ve bu ayarın, ışık kaynaklarına göre renk sıcaklığını tanımlayarak renklerin doğru algılanmasını sağladığı açıklanmaktadır. Bu, hem otomatik (AWB) hem de manuel olarak ayarlanabilen bir fonksiyondur.
-
-    <hr />
-1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kamerasına tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
-    - A-) ICC profil ayarı
-    - B-) Gamma ayarı
-    - **Cevap C-) Beyaz ayarı**
-    - D-) Kontrast ayarı
-    - E-) Pozometre ayarı
-
-    > **Açıklama:** Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını kamera/video kamerasına tanımlama işlemi Beyaz Denge (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te Beyaz Dengesi başlığı altında, 'Beyaz dengesi, fotoğraf görüntüleri üzerinde önemli bir etkiye sahiptir. Sıcaklık veya soğukluk dengesi tamamlayıcı renk eklenerek düzeltilebilir' ifadesi yer almaktadır.
-
-    <hr />
 
 ### Beyaz Dengesi Ayarları
 
-1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+1. Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir? *(3 kez soruldu)*
     - **Cevap A-) Beyaz ayarı**
     - B-) Gamma ayarı
     - C-) Kontrast ayarı
@@ -1050,16 +860,6 @@
     - E-) Pozometre ayarı
 
     > **Açıklama:** Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını makineye/kameraya tanımlama işlemi Beyaz Dengesi (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te, Beyaz Dengesi'nin renk sıcaklığını ayarlayarak renk ısısını düzenlediği belirtilmiştir.
-
-    <hr />
-1. Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
-    - A-) Fluorescent(Floresan)
-    - **Cevap B-) Depth of field(Alan Derinliği)**
-    - C-) Cloudy(Bulutlu)
-    - D-) Daylight(Gün ışığı)
-    - E-) Shade(Gölge)
-
-    > **Açıklama:** Beyaz Dengesi (White Balance), ışığın renk sıcaklığına göre ayarlanmasıdır. Metinde Beyaz Dengesi için AWB (Otomatik Beyaz Dengesi) ve manuel kontrolün bulunduğu belirtilmiştir. Ayrıca, "Beyaz Dengesi kavramını anlamak için önce renk ısısı kavramını anlamanız gerekir." denilmiştir. ISO Hızı ise sensörün ışığa duyarlılığını ayarlayan bir fonksiyondur, beyaz dengesi ayarı ile doğrudan ilgili değildir. Beyaz Dengesi ayarları; AWB, manuel ayar ve filtreler kullanılarak yapılır. ISO hızı ise pozlama üçgeninin bir parçasıdır ama doğrudan Beyaz Dengesi ayarı başlığı altında sayılmaz.
 
     <hr />
 
@@ -1114,7 +914,7 @@
 
 ### Hazır Sahneleme Modları
 
-1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır? *(3 kez soruldu)*
+1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır? *(4 kez soruldu)*
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve IV
@@ -1142,16 +942,6 @@
     - **Cevap E-) Spor/aksiyon Modu**
 
     > **Açıklama:** Ünite 5'in "Hazır Sahneleme Modları" bölümünde, bu modların çekilecek fotoğrafın türüne göre pozlama değerlerinin makine tarafından belirlendiği belirtilmiştir. Genel olarak, spor/aksiyon modu (Sports/Action mode), hareketi dondurmak için mümkün olan en hızlı enstantane hızını (kısa pozlama süresi) seçmeye odaklanır, bu da pozlamayı dengelemek için diyaframı veya ISO'yu otomatik olarak ayarlar. Metinde spesifik olarak 'en hızlı enstantane hızı elde etmeye çalışan mod' bilgisi doğrudan yer almamasına rağmen, spor/aksiyon modu hareketi dondurmak için en kısa enstantane hızını kullanma eğilimindedir.
-
-    <hr />
-1. I. Renk Modu<br />II. Manzara Modu<br />III. Spor/aksiyon modu<br />IV. Portre Modu<br />Yukarıdaki verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
-    - A-) Yalnız I
-    - B-) I ve II
-    - C-) II ve IV
-    - D-) I, II ve III
-    - **Cevap E-) II, III ve IV**
-
-    > **Açıklama:** Ünite 5'te belirtildiği üzere, hazır sahneleme modları (Scene Modes) arasında Portre modu, Manzara modu ve Spor/aksiyon modu bulunmaktadır. Bu modlar, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlemesini sağlar. 'Enstantane Önceliği Modu (S veya Tv)' bir pozlama modu iken, verilen diğer üç seçenek hazır sahneleme modlarıdır. Soru, hazır sahneleme modları içinde yer alanları sorduğu için I, II, III ve IV ifadelerin hepsi bu kategoriye girer. Ancak, metinde verilen örnekler: Portre modu, Manzara modu, Spor/aksiyon modu, Gece/düşük ışık modu ve Makro modu şeklindedir. Dolayısıyla, I, II, III ve IV numaralı ifadelerin hepsi hazır sahneleme modları arasındadır.
 
     <hr />
 
@@ -1557,19 +1347,6 @@
 
     <hr />
 
-### Stüdyo Donanımları
-
-1. ------- içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?
-    - A-) Gimbal
-    - B-) Steadicam
-    - **Cevap C-) Jimmy Jib**
-    - D-) OIS
-    - E-) Dolly
-
-    > **Açıklama:** Ünite 6'da, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlar arasında Gimbal, vinç mekanizmaları ve Dolly'den bahsedilmiştir. Vinç mekanizması, kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın hareketli görüntü elde etmesini sağlayan bir cihazdır.
-
-    <hr />
-
 ### Stüdyo Donanımı
 
 1. Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır? *(2 kez soruldu)*
@@ -1585,7 +1362,7 @@
 
 ### Stüdyo Fon Türleri
 
-1. Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir. Yukarıda tanımı verilen fon türü aşağıdakilerden hangisidir?
+1. Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir. Yukarıda tanımı verilen fon türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Mekân/Set Fonlar**
     - B-) Sonsuz Fon
     - C-) Askı/Rulo Fon
@@ -1593,16 +1370,6 @@
     - E-) Düz Fonlar
 
     > **Açıklama:** Soruda tanımı verilen fon türü, 'Mekân/Set Fonlar' olarak adlandırılır. Bu türde, çekilen öznenin çevresindeki diğer unsurlar veya ortam, kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılır. Ünite 6'da, 'Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir' ifadesiyle bu fon türü tanımlanmıştır.
-
-    <hr />
-1. Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir.
-    - A-) Askı/Rulo Fon
-    - B-) Sonsuz Fon
-    - **Cevap C-) Mekân/Set Fonlar**
-    - D-) Çekim Çadırı
-    - E-) Düz Fonlar
-
-    > **Açıklama:** Mekân/Set Fonlar, fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurların kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanıldığı fon türüdür. Ünite 6'daki Stüdyo Fon Türleri ve İşlevleri bölümünde bu tanım mevcuttur.
 
     <hr />
 
@@ -1735,19 +1502,6 @@
 
     <hr />
 
-### Görüntü Dosyası Yönetimi
-
-1. Eskişehir'de çekime başladığınız gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
-    - A-) Telif Hakkı Girişi (Copyright)
-    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
-    - C-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
-    - D-) İzlemeyi Kontrol Etme (Controlling Playback)
-    - E-) Görüntü Ayarları (Display settings)
-
-    > **Açıklama:** Çekim Seçeneklerini Ayarlama (Setting Shooting Options) menüsü altında, dosya numaralandırması, dosya yapısı, RAW formatında kaydetme gibi birçok ayar bulunmaktadır. Özellikle "File and folder structure" seçeneği, dosya numaraları yerine tarih sıralandırması (veya başka bir sıralama) yapma olanağı sunar. (Ünite 7, Çekim Seçeneklerini Ayarlama (Setting Shooting Options) başlığı altındaki maddeler)
-
-    <hr />
-
 ### Görüntü Veri Birimleri
 
 1. Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır? *(3 kez soruldu)*
@@ -1862,19 +1616,6 @@
     - E-) Anemometre
 
     > **Açıklama:** Fotoğrafçılıkta ve matbaacılıkta renk yönetimi, cihazlar arasındaki renk uzaylarının eşleştirilmesini gerektirir. CMYK renk uzayı baskı ile alakalıdır ve DPI (dots per inch) bu alanda kullanılan bir ölçü birimidir. PPI (pixels per inch) ise dijital ekranlarla alakalıdır. Monitör kalibrasyonu için kullanılan cihazlar renk ölçer veya renk metre olarak adlandırılır ve bunlar hem ekran hem de baskı çıktılarını karşılaştırmak için kullanılır. (Ünite 7, Sayısal Fotoğrafta Renk Yönetimi ve Monitörünüzü Kalibre Etme başlıkları)
-
-    <hr />
-
-### Sayısal Görüntü Ayarları
-
-1. Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
-    - A-) Görüntü Ayarları (Display settings)
-    - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
-    - C-) Telif Hakkı Girişi (Copyright)
-    - D-) İzlemeyi Kontrol Etme (Controlling Playback)
-    - E-) Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
-
-    > **Açıklama:** Soruda bahsedilen özellikler; dosya adlandırma (File and folder structure/Filenaming and Numbering) ve özel numaralandırma/sıfırlama (otomatik sayı kontrolü) ayarlarını kapsar. Bu tür ayarlar, genellikle 'Görüntü Ayarları (Display Settings)' veya daha spesifik olarak 'Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and Numbering)' menüsü altında bulunur. Ancak, seçenekler arasında en kapsayıcı olanı 'Görüntü Ayarları (Display Settings)' başlığı altında listelenen diğer ayarlar da dahil edilmiştir. Verilen seçenekler içinde 'Dosyaya İsim Ekleme ve Numara Ekleme' özelliği doğrudan 'Görüntü Ayarları (Display Settings)' başlığı altında listelenmiştir.
 
     <hr />
 
@@ -2115,16 +1856,6 @@
 
 ### Hava Fotoğrafçılığı
 
-1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gökyüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
-    - A-) DSLR Kamera
-    - **Cevap B-) Drone Kameralar**
-    - C-) Hibrit Kameralar
-    - D-) 3D Dijital Kameralar
-    - E-) 360 Derece Kameralar
-
-    > **Açıklama:** Hava fotoğrafçılığı, havadan perspektifle, yani kuş bakışı perspektifle çekilen fotoğraflardır. Drone'lar, bu tip çekimleri düşük maliyetle, hareketli ve gelişmiş GPS özellikleri ile yapabilen, günümüzde yaygınlaşan ekipmanlardır. (Ünite 8, Hava Fotoğrafçılığı ve Drone Tanımı bölümü)
-
-    <hr />
 1. Aşağıdakilerden hangisi hava fotoğrafçılığı çeşitlerinden biri değildir?
     - A-) Kombine
     - B-) Ortofotolar
@@ -2138,7 +1869,7 @@
 
 ### Hava Fotoğrafçılığı (Drone)
 
-1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
+1. Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) 3D Dijital Kameralar
     - B-) DSLR Kamera
     - C-) 360 Derece Kameralar
@@ -2151,16 +1882,6 @@
 
 ### Kopyalama (Reprodüksiyon)
 
-1. -------- işlemi günümüzde sayısal fotoğrafçılıkta, eseri eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Görüntü işleme
-    - **Cevap B-) Reprodüksiyon**
-    - C-) Aura
-    - D-) Yapay zeka
-    - E-) Kataloglama
-
-    > **Açıklama:** Boş bırakılan yer, bir eserin kopyalanarak sayısal forma dönüştürülmesi, tanıtım katalogları, web siteleri, sosyal medya yayınları ve sayısal baskılar için kullanılması tekniğini tanımlamaktadır. Ünite 8'de, Kopyalama (Reprodüksiyon) başlığı altında, 'sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelmektedir' ve bu işlemlerin katalog, web sitesi ve dekorasyon malzemesi olarak kullanıldığı belirtilmiştir.
-
-    <hr />
 1. işlemi günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.
     - A-) Aura
     - B-) Kataloglama
@@ -2200,7 +1921,7 @@
 
 ### Sayısal Fotoğraf Ayarları
 
-1. Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir.<br />Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
+1. Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir.<br />Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Görüntü Ayarları (Display settings)
     - **Cevap B-) Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)**
     - C-) Telif Hakkı Girişi (Copyright)
@@ -2239,7 +1960,7 @@
 
 ### Stok Fotoğrafçılığı
 
-1. -------- işlemi günümüzde sayısal fotoğrafçılıkta, eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. -------- işlemi günümüzde sayısal fotoğrafçılıkta, eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Görüntü işleme
     - B-) Aura
     - C-) Yapay zeka

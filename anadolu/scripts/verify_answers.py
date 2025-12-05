@@ -10,13 +10,14 @@ import sys
 import time
 import glob
 from dotenv import load_dotenv
-import google.generativeai as genai_old
 from google import genai
 from google.genai import types
 
 # Add project root to sys.path
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.append(PROJECT_ROOT)
+
+from libs.genai_files_manager import GenAIFilesManager
 
 # Load environment variables
 load_dotenv()
@@ -31,8 +32,10 @@ if not GEMINI_API_KEY:
     sys.exit(1)
 
 # Configure SDKs
-genai_old.configure(api_key=GEMINI_API_KEY)
 client = genai.Client(api_key=GEMINI_API_KEY)
+
+# Initialize Files Manager
+files_manager = GenAIFilesManager()
 
 def find_pdf_for_material(donem, course_name, material_id):
     """Find the PDF file corresponding to a material ID."""
@@ -62,6 +65,7 @@ def load_keys_cache():
 def save_keys_cache(cache):
     with open(KEYS_CACHE_PATH, 'w', encoding='utf-8') as f:
         json.dump(cache, f, indent=4, ensure_ascii=False)
+    print(f"  💾 Saved answer keys cache ({len(cache)} keys)")
 
 def extract_answer_key(pdf_path, cache):
     """Upload PDF and extract answer key using Gemini, with caching."""
@@ -81,23 +85,32 @@ def extract_answer_key(pdf_path, cache):
     # Determine how many more attempts we need.
     # If we have cache, we have 1 result. We need 1 more match.
     # We can try up to 2 more times (total 3 results considered).
-    # If no cache, we try up to 3 times.
+    # If no cache, we try up to 2 times.
 
-    max_attempts = 3
+    max_attempts = 2
     start_attempt = 1 if results else 0
 
     for attempt in range(start_attempt, max_attempts):
         try:
             # Upload file if not already uploaded
             if uploaded_file is None:
-                uploaded_file = genai_old.upload_file(path=pdf_path)
+                # Extract material_id from filename if possible
+                filename = os.path.basename(pdf_path)
+                material_id = None
+                try:
+                    parts = filename.rsplit(" - ", 1)
+                    if len(parts) > 1 and parts[1].replace(".pdf", "").isdigit():
+                        material_id = parts[1].replace(".pdf", "")
+                except:
+                    pass
 
-                # Wait for processing
-                while uploaded_file.state.name == "PROCESSING":
-                    time.sleep(1)
-                    uploaded_file = genai_old.get_file(uploaded_file.name)
+                uploaded_file = files_manager.upload_file(
+                    local_path=pdf_path,
+                    material_id=material_id,
+                    display_name=filename
+                )
 
-                if uploaded_file.state.name == "FAILED":
+                if not uploaded_file:
                     print("  Upload failed.")
                     return {}
 
@@ -237,15 +250,31 @@ def main():
 
     processed_materials = set()
 
+    # Load enrolled courses
+    enrolled_courses_path = os.path.join(PROJECT_ROOT, "anadolu", "enrolled_courses.json")
+    dersler_path = os.path.join(PROJECT_ROOT, "anadolu", "dersler.json")
+
+    enrolled_course_names = set()
+    if os.path.exists(enrolled_courses_path) and os.path.exists(dersler_path):
+        try:
+            with open(enrolled_courses_path, 'r', encoding='utf-8') as f:
+                enrolled_data = json.load(f)
+                enrolled_codes = {c.get("kod") for c in enrolled_data}
+
+            with open(dersler_path, 'r', encoding='utf-8') as f:
+                dersler_data = json.load(f)
+
+            for ders in dersler_data:
+                if ders.get("DersKodu") in enrolled_codes:
+                    enrolled_course_names.add(ders.get("CourseName"))
+
+            print(f"Loaded {len(enrolled_course_names)} enrolled courses.")
+        except Exception as e:
+            print(f"Error loading enrolled courses: {e}")
+            enrolled_course_names = set()
+
     for json_file in sorted(files):
         try:
-            with open(json_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-
-            questions = data.get("questions", [])
-            if not questions:
-                continue
-
             # Extract course info from filename
             filename = os.path.basename(json_file)
             parts = filename.split(" - ")
@@ -255,6 +284,21 @@ def main():
             donem_str = parts[1] # "Dönem X"
             donem = donem_str.split(" ")[1]
             course_name = parts[2]
+
+            # Filter by enrolled courses
+            if enrolled_course_names and course_name not in enrolled_course_names:
+                continue
+
+            # Filter for Donem 5 only (User Request) - REMOVED
+            # if donem != "5":
+            #     continue
+
+            with open(json_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+
+            questions = data.get("questions", [])
+            if not questions:
+                continue
 
             print(f"Processing {course_name} ({donem_str})...")
 
@@ -267,25 +311,16 @@ def main():
                         questions_by_material[mid] = []
                     questions_by_material[mid].append(q)
 
-            questions_to_reenrich = []
-            file_changed = False
-
+            # Iterate over materials
             for mid, q_list in questions_by_material.items():
                 if mid in processed_materials:
                     continue
 
-                # Check results cache?
-                # User said "tekrar çek et" (check again), so maybe we should bypass cache or update it?
-                # But extracting keys is expensive. We should trust the KEY cache, but maybe re-evaluate the MATCHING logic.
-                # The key extraction logic was improved, so keys_cache might need to be refreshed if we want to be sure.
-                # However, for now, let's assume keys_cache is valid if populated, but we can clear it if needed.
-                # The user said "tekrar çek et", implying re-run.
-
                 pdf_path = find_pdf_for_material(donem, course_name, mid)
-
                 if not pdf_path:
-                    print(f"  ⚠️ PDF not found for material {mid}")
                     continue
+
+                print(f"  Processing Material: {mid} (PDF: {os.path.basename(pdf_path)})")
 
                 # Extract Key
                 official_key = extract_answer_key(pdf_path, keys_cache)
@@ -299,6 +334,7 @@ def main():
                 # Compare and Correct
                 source_name = q_list[0].get("source", "Unknown Source")
                 mismatches = []
+                questions_to_update = [] # List of (question_id, new_correct_index, new_text_suffix)
 
                 for q in q_list:
                     q_num = str(q.get("exam_question_number", q.get("id")))
@@ -312,7 +348,9 @@ def main():
                     options_letters = ["A", "B", "C", "D", "E"]
                     current_idx = q.get("correctIndex")
 
-                    if current_idx is None or not (0 <= current_idx < 5):
+                    if current_idx == -1:
+                        current_answer = "X"
+                    elif current_idx is None or not (0 <= current_idx < 5):
                         current_answer = "N/A"
                     else:
                         current_answer = options_letters[current_idx]
@@ -323,11 +361,12 @@ def main():
                         if official_answer == "X":
                             if current_answer != "X": # If not already marked as cancelled
                                 print(f"    Correcting Q{q['id']} ({q_num}): {current_answer} -> İPTAL")
-                                q["correctIndex"] = -1
-                                if "(İPTAL EDİLDİ)" not in q["question"]:
-                                    q["question"] += " <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>"
-                                q["explanation"] = "Bu soru resmi cevap anahtarına göre iptal edilmiştir."
-                                file_changed = True
+                                questions_to_update.append({
+                                    "id": q["id"],
+                                    "correctIndex": -1,
+                                    "append_text": " <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+                                    "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir."
+                                })
                                 mismatches.append({
                                     "id": q.get("id"),
                                     "q_num": q_num,
@@ -340,12 +379,12 @@ def main():
                         elif official_answer in options_letters:
                             new_idx = options_letters.index(official_answer)
                             print(f"    Correcting Q{q['id']} ({q_num}): {current_answer} -> {official_answer}")
-                            q["correctIndex"] = new_idx
-                            file_changed = True
-
-                            # Mark for re-enrichment
-                            questions_to_reenrich.append(q)
-
+                            questions_to_update.append({
+                                "id": q["id"],
+                                "correctIndex": new_idx,
+                                "append_text": None,
+                                "explanation": None
+                            })
                             mismatches.append({
                                 "id": q.get("id"),
                                 "q_num": q_num,
@@ -355,6 +394,85 @@ def main():
                             })
 
                 if mismatches:
+                    # 1. Update Raw JSON First
+                    raw_json_path = json_file.replace(" - Enriched.json", " - Raw.json")
+                    if os.path.exists(raw_json_path):
+                        try:
+                            with open(raw_json_path, 'r', encoding='utf-8') as f:
+                                raw_data = json.load(f)
+
+                            raw_questions_map = {q["id"]: q for q in raw_data.get("questions", [])}
+                            raw_changed = False
+
+                            for update in questions_to_update:
+                                q_id = update["id"]
+                                if q_id in raw_questions_map:
+                                    rq = raw_questions_map[q_id]
+                                    rq["correctIndex"] = update["correctIndex"]
+                                    if update["append_text"] and update["append_text"] not in rq["question"]:
+                                        rq["question"] += update["append_text"]
+                                    raw_changed = True
+
+                            if raw_changed:
+                                with open(raw_json_path, 'w', encoding='utf-8') as f:
+                                    json.dump(raw_data, f, indent=4, ensure_ascii=False)
+                                print(f"  � Updated Raw JSON: {os.path.basename(raw_json_path)}")
+
+                            # 2. Re-read Raw JSON
+                            print("  📖 Re-reading Raw JSON for enrichment...")
+                            with open(raw_json_path, 'r', encoding='utf-8') as f:
+                                reloaded_raw_data = json.load(f)
+
+                            reloaded_map = {q["id"]: q for q in reloaded_raw_data.get("questions", [])}
+
+                            # 3. Prepare questions for enrichment from Reloaded Raw Data
+                            questions_to_enrich_from_raw = []
+                            for update in questions_to_update:
+                                q_id = update["id"]
+                                if q_id in reloaded_map:
+                                    # If it was cancelled, we might not need to enrich, just set explanation
+                                    if update["correctIndex"] == -1:
+                                        # Manually update enriched data for cancelled
+                                        for eq in data["questions"]:
+                                            if eq["id"] == q_id:
+                                                eq["correctIndex"] = -1
+                                                if update["append_text"] and update["append_text"] not in eq["question"]:
+                                                    eq["question"] += update["append_text"]
+                                                eq["explanation"] = update["explanation"]
+                                    else:
+                                        questions_to_enrich_from_raw.append(reloaded_map[q_id])
+
+                            # 4. Enrich
+                            if questions_to_enrich_from_raw:
+                                print(f"  🔄 Re-enriching {len(questions_to_enrich_from_raw)} questions...")
+                                summaries = load_summaries(course_name, donem)
+                                if summaries:
+                                    summary_uris = upload_all_summaries(summaries)
+                                    if summary_uris:
+                                        enrichment_results = enrich_questions_batch(questions_to_enrich_from_raw, summary_uris)
+
+                                        # Update Enriched Data (in memory 'data')
+                                        for eq in data["questions"]:
+                                            if eq["id"] in enrichment_results:
+                                                res = enrichment_results[eq["id"]]
+                                                eq["UniteNo"] = res.get("UniteNo")
+                                                eq["topic"] = res.get("topic")
+                                                eq["explanation"] = res.get("explanation")
+                                                # Also ensure correctIndex is synced
+                                                for update in questions_to_update:
+                                                    if update["id"] == eq["id"]:
+                                                        eq["correctIndex"] = update["correctIndex"]
+
+                            # 5. Save Enriched JSON
+                            with open(json_file, 'w', encoding='utf-8') as f:
+                                json.dump(data, f, indent=4, ensure_ascii=False)
+                            print(f"  💾 Saved Enriched JSON: {os.path.basename(json_file)}")
+
+                        except Exception as e:
+                            print(f"  ❌ Error updating/enriching: {e}")
+                            import traceback
+                            traceback.print_exc()
+
                     report_content.append(f"### {course_name} - {source_name}")
                     report_content.append(f"**PDF:** `{os.path.basename(pdf_path)}`")
                     report_content.append("")
@@ -363,78 +481,6 @@ def main():
                     for m in mismatches:
                         report_content.append(f"| {m['q_num']} | {m['current']} | {m['official']} | {m['text']} |")
                     report_content.append("")
-
-            # Batch Re-enrichment for this file
-            if questions_to_reenrich:
-                print(f"  🔄 Re-enriching {len(questions_to_reenrich)} corrected questions...")
-
-                # Load summaries
-                summaries = load_summaries(course_name, donem)
-                if summaries:
-                    summary_uris = upload_all_summaries(summaries)
-                    if summary_uris:
-                        # Create temp list with 'id' as needed by enrich_questions_batch
-                        # enrich_questions_batch uses the 'id' field in the dicts to map results.
-                        # Our questions already have 'id'.
-
-                        try:
-                            enrichment_results = enrich_questions_batch(questions_to_reenrich, summary_uris)
-
-                            for q in questions_to_reenrich:
-                                if q["id"] in enrichment_results:
-                                    res = enrichment_results[q["id"]]
-                                    q["UniteNo"] = res.get("UniteNo")
-                                    q["topic"] = res.get("topic")
-                                    q["explanation"] = res.get("explanation")
-                                    # print(f"    Updated explanation for Q{q['id']}")
-                        except Exception as e:
-                            print(f"    ❌ Error during re-enrichment: {e}")
-                else:
-                    print("    ⚠️ No summaries found, skipping re-enrichment.")
-
-            # Save File if changed
-            if file_changed:
-                # Save Enriched
-                with open(json_file, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, indent=4, ensure_ascii=False)
-                print(f"  💾 Saved updates to {os.path.basename(json_file)}")
-
-                # Update Raw JSON as well
-                raw_json_path = json_file.replace(" - Enriched.json", " - Raw.json")
-                if os.path.exists(raw_json_path):
-                    try:
-                        with open(raw_json_path, 'r', encoding='utf-8') as f:
-                            raw_data = json.load(f)
-
-                        raw_questions = raw_data.get("questions", [])
-                        raw_changed = False
-
-                        # Create a map of corrected questions by ID
-                        corrected_map = {q["id"]: q for q in questions_to_reenrich}
-
-                        # Also include questions that were just cancelled (X) but maybe not re-enriched
-                        # Actually, we should iterate over all questions in 'data' (enriched) and sync to 'raw_data'
-                        # But IDs might differ if raw was regenerated? Usually they match.
-                        # Let's match by ID.
-
-                        enriched_map = {q["id"]: q for q in questions}
-
-                        for rq in raw_questions:
-                            if rq["id"] in enriched_map:
-                                eq = enriched_map[rq["id"]]
-                                # Check if correctIndex or question text changed (for cancellations)
-                                if rq.get("correctIndex") != eq.get("correctIndex") or rq.get("question") != eq.get("question"):
-                                    rq["correctIndex"] = eq["correctIndex"]
-                                    rq["question"] = eq["question"]
-                                    raw_changed = True
-
-                        if raw_changed:
-                            with open(raw_json_path, 'w', encoding='utf-8') as f:
-                                json.dump(raw_data, f, indent=4, ensure_ascii=False)
-                            print(f"  💾 Synced updates to {os.path.basename(raw_json_path)}")
-
-                    except Exception as e:
-                        print(f"  ⚠️ Error updating Raw JSON: {e}")
 
         except Exception as e:
             print(f"Error processing {json_file}: {e}")

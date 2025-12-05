@@ -1,5 +1,7 @@
 # 3B Tasarım ve Modelleme - Alıştırma Soruları
 
+## Ünite 1
+
 1. "....... bilgisayar grafikleri ve bilgisayar destekli tasarım teknoloji<br />sinin gelişiminde önemli bir dönüm noktası olarak kabul edilir." cümlesindeki boşluğa aşağıdaki seçeneklerden hangisi gelmelidir?
     - A-) Lockheed,
     - B-) Boeing,
@@ -100,6 +102,9 @@
     > **Açıklama:** Bir noktanın, eksenlerin kesiştiği merkez veya orijine olan uzaklığına koordinat denir.
 
     <hr />
+
+## Ünite 2
+
 1. 3 Boyutlu modelleme ve animasyon yazılımı olan Blender 3D’nin en büyük avantajı aşağıdakilerden hangisidir?
     - A-) Sadece profesyonel kullanıcılar için geliştirilmiştir.
     - **Cevap B-) Ücretsiz ve açık kaynak kodlu olmasıdır.**
@@ -200,6 +205,9 @@
     > **Açıklama:** NURBS. Yüzey modelleme prensibinde en yaygın hesaplama yöntemi olarak kullanılan düzgün olmayan oransal temel bağ interpolasyonu veya eğri yapısıdır. (NURBS, Non uniform rational basis spline).
 
     <hr />
+
+## Ünite 3
+
 1. Aşağıdakilerden hangisi ara değerli spline’ların özelliklerinden birisidir?
     - A-) Düzgünlük ve performansın hassasiyetten daha önemli olduğu animasyon, oyun ve diğer grafik uygulamalarında yaygın olarak kullanılırlar.
     - B-) Hesaplanması ve çalışması daha basittir, bu da onları gerçek zamanlı uygulamalar ve hesaplama kaynaklarının sınırlı olduğu durumlar için uygun hâle getirir.
@@ -300,6 +308,9 @@
     > **Açıklama:** Son kullanıcının fiziksel olarak temas etkileşime geçtiği yüzeylere A sınıfı yüzeyler adı verilir. Diğer bir deyişle, A sınıfı yüzeyler ürünün görünür tüm yüzeylerini ifade eder. Özellikle otomotiv sektöründe A sınıfı yüzeylerin modellemesi için üç boyutlu modellemede hayli yetenekli tasarımcılar çalışmaktadır. A sınıfı yüzeylerde estetik oldukça önemlidir.
 
     <hr />
+
+## Ünite 4
+
 1. BSDF fonksiyonunun temel özellikleri hangisinde doğru verilmiştir?<br />1\. Simetriklik: BSDF fonksiyonu, ışığın geliş ve yansıma açılarının yer değiştirmesi durumunda değişmez.<br />2\. Fiziksel olarak doğru ışık dağılımını sağlar.<br />3\. Enerji Korunumu: BSDF, yüzeyin toplam enerji dengesini koruyacak şekilde tasarlanmıştır. Yüzeye gelen ışık enerjisinin toplamı, yansıyan ve iletilen enerjinin toplamına eşittir.<br />4\. Hemisferik Dağılım: BSDF, ışığın bir yüzeyden yansıdıktan veya geçtikten sonra hangi açılarda<br />dağıldığını hemisferik olarak tanımlar.
     - A-) 1 ve 2
     - B-) 2 ve 3
@@ -400,6 +411,9 @@
     > **Açıklama:** “Hemisferik” terimi, “yarım küre ile ilgili” anlamına gelir ve genellikle bir kürenin yarısını ifade<br />etmek için kullanılır. Optik ve grafik alanlarında, hemisferik dağılım veya hemisferik yansıtma, bir<br />yüzeyin üzerindeki ışığın belirli bir yarım küre boyunca nasıl yayıldığını ve yansıdığını anlamak için<br />kullanılmaktadır. Bu tür analizler, daha gerçekçi aydınlatma ve gölgelendirme teknikleri geliştirmek<br />amacıyla kullanılır.
 
     <hr />
+
+## Ünite 5
+
 1. Animasyonda bir karakterin veya objenin hareketleri nasıl daha inandırıcı hâle gelir?
     - A-) İzleyicinin empati kurmasına gerek kalmadan, hareketlerin salt teknik doğrulukla oluşturulmasıyla.
     - B-) Animasyon karakterlerinin veya objelerinin yalnızca fizik kurallarına bağlı kalarak mekanik hareketler yapmasıyla.
@@ -500,6 +514,9 @@
     > **Açıklama:** İskelet yapısı hiyerarşik bir sisteme dayanır. Her bir kemik, kendisinden önceki ya da sonraki kemikle<br />bağlantılıdır ve hareket alanı iskelet sistemindeki ilişki biçimine tabidir. Kemiklerin birbirine bağlanması<br />olgusu, ebeveyn / çocuk (parent / child) kavramını anlamayı gerektirir. Görsel 5.12’de de görüldüğü gibi<br />eğer birbiriyle bağlantılı A, B ve C kemikleri arasında ebeveyn/çocuk ilişkisi varsa, örneğin A kemiği ebeveynse,<br />B ve C kemikleri onun çocuğu olacak ve A kemiği hareket ettirildiğinde onu takip ederek, A kemiğinin<br />hareketlerine uyumlu hareket edeceklerdir. Hiyerarşiye göre B kemiği de C kemiğinin ebeveyni, C<br />kemiği hem A hem de B kemiğinin çocuğu durumundadır.<br />FK’da ebeveyn hareket ettiğinde çocuk kemikleri onu takip ederken, IK’da çocuk hareket ettiğinde ebeveyn kemikleri onu takip eder.
 
     <hr />
+
+## Ünite 6
+
 1. Alan ışığı ne amaçla kullanılır?
     - **Cevap A-) Pencere, ekran, lamba gibi geniş ışık kaynaklarını temsil etmek için kullanılır.**
     - B-) Güneş ışığı veya uzak bir yıldız ışığı gibi büyük ve uzak ışık kaynaklarını temsil etmek için kullanılır.
@@ -600,6 +617,9 @@
     > **Açıklama:** Renk düzenlerinin seçimi, hedeflenen duygusal etki ve sahnenin genel teması ile<br />yakından ilişkilidir. Örneğin, monokromatik renk düzeni genellikle sadelik ve sofistike bir atmosfer yaratmak için kullanılırken tamamlayıcı renk şeması görsel bir kontrast yaratmak<br />için tercih edilir.
 
     <hr />
+
+## Ünite 7
+
 1. Aşağıdakilerden hangisi 3 boyutlu mimari projelerle ilişkili yaygın olarak kullanılan dokümantasyon yöntemlerinden biri **değildir?**
     - **Cevap A-) Elle çizim**
     - B-) Dijital Durağan Görüntü Dosyaları
@@ -700,6 +720,9 @@
     > **Açıklama:** 3 boyutlu (3B) modelleme, günlük hayatta gözümüzle algıladığımız objeleri bilgisayar ortamında tasarlamak için kullanılan; bunu yaparken de birçok farklı programdan yaralanabildiğimiz bir süreçtir.
 
     <hr />
+
+## Ünite 8
+
 1. 3B baskı teknolojisinin tıp alanında sunduğu en önemli avantajlardan biri nedir?
     - **Cevap A-) Hastaların bireysel anatomik yapısına uygun protez ve implant üretimine olanak tanıması.**
     - B-) Tıbbi cihazların üretim süresini uzatarak maliyetleri artırması.
@@ -800,3 +823,4 @@
     > **Açıklama:** Etki Değerlendirmesi: Envanter analizinde elde edilen verilerin çevresel etkilere dönüştürülmesi<br />ve değerlendirilmesini içerir. Bu aşamada, hangi çevresel etkilerin en önemli olduğu belirlenir ve bu<br />etkilerin minimize edilmesi için stratejiler geliştirilir.
 
     <hr />
+

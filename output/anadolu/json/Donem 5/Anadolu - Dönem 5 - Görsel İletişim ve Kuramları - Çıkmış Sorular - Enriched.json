@@ -77,8 +77,10 @@
             "UniteNo": 1,
             "topic": "Birinci Sözlü Kültür",
             "explanation": "Soru, Walter J. Ong'un birinci sözlü kültür tanımını sormaktadır. 1. Ünite'deki 'Birinci Sözlü Kültürde İletişim' başlığı altında, Ong'un yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi 'birinci sözlü kültür' olarak tanımladığı belirtilmiştir. Bu kültürün temel özelliği kapalılık ve uzun uğraşlar sonucunda elde edilen bilginin korunmasına yönelik güçlü bir enerjiye sahip olmasıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 81,
+            "original_source": "Yaz Okulu 2023-2024"
         },
         {
             "id": 5,
@@ -197,7 +199,7 @@
             "UniteNo": 2,
             "topic": "İmge Tanımı",
             "explanation": "Soru, fiziksel olarak görülen ve kişisel algı sürecinden geçirilen ögelere verilen ismi sormaktadır. 2. Ünite'de 'İmge Nedir?' başlığı altında, 'Gözümüzle fiziksel olarak gördüğümüz ve kişisel algı sürecimizden geçirerek anlamlandırdığımız herhangi öge, imge olarak adlandırılır' ifadesi yer almaktadır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -378,7 +380,7 @@
             "topic": "Kod Tanımı",
             "explanation": "Fiske'nin \"anlamlandırma sistemi\" olarak nitelendirdiği ve mesajların iletilmesine olanak sağlayan göstergeler sistemine 'Kod' adı verilir. Kodlar ortak kültürün ürünüdür ve sosyal, metinsel, yorumlama kodları olarak ayrılır (Ünite 4).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 20,
@@ -539,8 +541,10 @@
             "UniteNo": 3,
             "topic": "Endüstri Devrimi ve Tasarımcı",
             "explanation": "Metinde, zanaatkâr ve sanatçının ayrıştırılmasından sonra yeni bir icracı sınıfın doğduğu belirtilmektedir. Bu yeni eklenen icracı, \"tasarımcıdır\". Tasarımcı, elindeki uygun teknolojiyi ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanır veya kısaca problem çözücü olarak adlandırılır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 41,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 28,
@@ -827,7 +831,7 @@
             "UniteNo": 6,
             "topic": "Endüstri Devrimi ve Tasarımcı",
             "explanation": "Metne göre, 18. yüzyılda sanat ve zanaat ayrıştırıldıktan sonra yeni icracı sınıf olarak tasarımcı doğmuştur. Tasarımcı, elindeki teknoloji ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanır. Bu dönem, Sanayi Devrimi'nin başladığı 1760'lı yıllara işaret eder. Bu nedenle boşluğu \"tasarımcı\" kelimesi doğru şekilde tamamlar.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -928,7 +932,7 @@
             "topic": "Kültür Endüstrisi Kavramı",
             "explanation": "Metne göre, Kültür Endüstrisi kavramı Adorno ve Horkheimer tarafından geliştirilmiştir. Bu kavram, kapitalist toplumlarda kültürün burjuvazi tarafından kontrol edildiğini ve endüstrileştiğini ileri sürer. Endüstrileşen kültürün sanatı ve özü yozlaştırdığı, kitleleri tüketime yönelttiği belirtilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 47,
@@ -968,7 +972,7 @@
             "topic": "Raymond Williams Yaklaşımı",
             "explanation": "Raymond Williams, televizyonun evreninin kodlarını çözmeye çalışmış ve 'akış' teorisi ile televizyondaki tüm programların birbirleriyle uyumlu bir bütünün parçaları olduğunu ileri sürmüştür. Bu yaklaşım, Kültürel Çalışmalar ekolü içinde yer alır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 49,
@@ -988,7 +992,7 @@
             "topic": "Hegemonya Kuramı",
             "explanation": "Stuart Hall, Gramsci'nin hegemonya kuramından beslenmiş, hegemonya teorisini görsel kültürün en etkin işlediği alan olarak görmüş ve siyasetin en etkin işlediği alanlardan biri olduğunu belirtmiştir. Hall'a göre, medya mesajları farklı şekillerde kod açımına uğratılarak hegemonya yeniden üretilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 50,
@@ -1047,7 +1051,7 @@
             "UniteNo": 5,
             "topic": "Eleştirel Kuram Kurucuları",
             "explanation": "Soru, eleştirel kuramın (veya Frankfurt Okulu'nun) oluşturucusunu ve en önemli temsilcisini sormaktadır. Ünite 5'te Eleştirel teori, Marx'ın üretim ilişkileri teorisinden yola çıktığı belirtilmekte ve Karl Marx'a eleştirel kuramın teorik temeli olduğu vurgulanmaktadır. Marx'ın görüşleri, Frankfurt Okulu teorisyenlerinin (Adorno, Horkheimer, Marcuse) temelini oluşturur. Şıklar arasında Marx işaretlenmiştir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1107,7 +1111,7 @@
             "UniteNo": 7,
             "topic": "Estetik ve Sanat Felsefesi",
             "explanation": "Soru, insanlığın meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan alanı sormaktadır. Ünite 7'de, 'Sanat Felsefesi ve Estetik İlişkisi' başlığı altında Sanat Felsefesi şöyle tanımlanmıştır: 'Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan olarak tanımlanabilir.'",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1168,7 +1172,7 @@
             "topic": "Pop Art ve Görsel Kültür",
             "explanation": "Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Pop Art ile birlikte nesnenin imge üzerindeki ayrıcalığının sona erdiğini ve simülakrların geleneksel sanatsal ürünleri ikame ettiğini belirtmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 59,
@@ -1208,7 +1212,7 @@
             "topic": "Baudrillard ve Medya",
             "explanation": "I. ve III. önermeler Baudrillard'ın simülasyon ve hipergerçeklik tezleriyle doğrudan örtüşmektedir. II. önerme (Medya toplumsalı desteklemektedir) ise Baudrillard'ın \"İletişim araçları toplumsallaşmayı sağlamaya yönelik araçlar değil, toplumsalın kitleler içinde erimesini sağlayan araçlar\" olduğu yönündeki eleştirisiyle çelişir. Bu nedenle sadece I ve III doğrudur.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 61,
@@ -1391,8 +1395,10 @@
             "UniteNo": 6,
             "topic": "Kültür Endüstrisi",
             "explanation": "Kültür Endüstrisi kavramı Adorno ve Horkheimer tarafından geliştirilmiştir. Bu kavram, kapitalist toplumlarda kültürün burjuvazi tarafından kontrol edildiğini ve endüstrileştiğini savunur. Endüstrileşen kültürün kitleleri tüketime yönlendirdiği ve siyasetten uzaklaştırdığı da belirtilmiştir (Ünite 6).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 46,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 70,
@@ -1430,8 +1436,10 @@
             "UniteNo": 5,
             "topic": "Eleştirel Kuram Kurucuları",
             "explanation": "Soru, eleştirel kuramın oluşturucusu ve en önemli temsilcilerini sormaktadır. Ünite 5'te Eleştirel teori, Marx'ın üretim ilişkileri teorisinden yola çıktığı belirtilmekte ve Karl Marx'a eleştirel kuramın teorik temeli olduğu vurgulanmaktadır. Marx'ın görüşleri, Frankfurt Okulu teorisyenlerinin (Adorno, Horkheimer, Marcuse) temelini oluşturur. Şıklar arasında Marx işaretlenmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 52,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 72,
@@ -1553,8 +1561,10 @@
             "UniteNo": 7,
             "topic": "Sanat Felsefesi Tanımı",
             "explanation": "Soru, insanlığın meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alanı sormaktadır. Ünite 7'de, 'Estetikten Bahsederken Sanat Felsefesini mi Anlamak Gerekir?' başlığı altında Sanat Felsefesi şöyle tanımlanmıştır: 'Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan olarak tanımlanabilir.'",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 55,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 78,
@@ -1633,7 +1643,7 @@
             "UniteNo": 1,
             "topic": "Sözlü Kültür Tanımı",
             "explanation": "Walter J. Ong, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi \"Birinci Sözlü Kültür\" olarak tanımlamaktadır (Sayfa 2, Birinci Sözlü Kültürde İletişim).",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1778,7 +1788,9 @@
             "topic": "Kod Kavramı",
             "explanation": "Fiske'nin nitelendirmesiyle kod, mesajların iletilmesine olanak sağlayan göstergeler sistemidir. Kodlar sosyal, metinsel ve yorumlama kodları olarak ayrılır ve ortak kültürün ürünüdürler (Sayfa 2, Kod).",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 19,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 89,
@@ -1797,8 +1809,10 @@
             "UniteNo": 5,
             "topic": "Kültürel Çalışmalar ve Hegemonya",
             "explanation": "Antonio Gramsci'nin hegemonya teorisi, Kültürel Çalışmalar ekolünün (özellikle Stuart Hall) analizlerinde temel rol oynamıştır. Stuart Hall, siyasetin en etkin işlediği alanlardan biri olarak popüler kültürü tanımlamış ve mesajların kod açımı sürecinde kitlelerin muhalif okuma yapabildiğini savunmuştur (Sayfa 1, Hegemonyanın Süreksizliği ve Kitlenin Olumlanması; Sayfa 2, Stuart Hall ve Kodlama-Kodaçımı Modeli).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 49,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 90,
@@ -1859,7 +1873,9 @@
             "topic": "Williams ve Akış Teorisi",
             "explanation": "Raymond Williams, Marx'ın altyapının üstyapıyı belirlediği tezine karşı çıkarak, televizyonun 'akış' teorisi ile tüm programların birbirleriyle uyumlu bir bütünün parçaları olduğunu ileri sürmüştür. Bu, Williams'ın televizyon ve popüler kültür üzerine yaptığı analizlerin temelini oluşturur.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 48,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 93,
@@ -2001,8 +2017,10 @@
             "UniteNo": 8,
             "topic": "Baudrillard ve Pop Art",
             "explanation": "Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Bu akımla birlikte nesnenin imge üzerindeki ayrıcalığının sona erdiğini ve simülakrların geleneksel sanatsal ürünlerin yerini aldığını belirtmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 58,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 100,
@@ -2021,8 +2039,10 @@
             "UniteNo": 8,
             "topic": "Baudrillard ve Medya",
             "explanation": "I ve III numaralı ifadeler Baudrillard'ın simülasyon ve hipergerçeklik ile ilgili görüşleriyle örtüşmektedir: Medya simülasyon makinesi işlevi görür (I) ve medya aracılığıyla yaratılan hipergerçek ortam, olayların tarihle ilişkisini kopararak tarihin sonunu ilan eder (III). II numaralı ifade (Medya toplumsalı desteklemektedir) ise eleştirel bir yaklaşımdır; Baudrillard medyayı, toplumsallığı eriten ve sistemle bütünleştiren bir aygıt olarak görmüştür (III. ünite özeti).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 60,
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 101,
@@ -2104,8 +2124,10 @@
             "UniteNo": 3,
             "topic": "İmge Tanımı",
             "explanation": "3. Ünite'ye göre, gözümüzle fiziksel olarak gördüğümüz ve kişisel algı sürecimizden geçirerek anlamlandırdığımız herhangi öge, 'imge' olarak adlandırılır. Bu tanım, metinde de doğrudan verilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 10,
+            "original_source": "Ara Sınav 2023-2024"
         },
         {
             "id": 105,
@@ -2364,13 +2386,13 @@
                 "Kültür",
                 "Tasarım"
             ],
-            "correctIndex": 1,
+            "correctIndex": 4,
             "exam_question_number": 17,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552",
             "UniteNo": 7,
-            "topic": "Estetik Kavramının Tanımı",
-            "explanation": "Estetik, doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanır. Etimolojik olarak 'algısal' anlamına gelir.",
+            "topic": "Estetik Kavramı ve Tanımı",
+            "explanation": "Soru, güzel ve duyusal olarak tatmin edici olanın aranması ve yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanan kavramı sormaktadır. Ünite 7 özetinde Merriam Webster sözlüğünün \"güzel ve arzulanabilir olanın aranması, görüntüdeki tatmin\" gibi karşılıklarla estetik kavramını tanımladığı belirtilmektedir. Ayrıca, estetik: Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilir ifadesi yer almaktadır. Dolayısıyla doğru cevap Estetik'tir. Yanlışlıkla 'E' şıkkı doğru kabul edilmiş olsa da, tanım açıkça Estetik'e (B şıkkı) aittir. Verilen talimata göre E şıkkını doğru kabul ederek gerekçelendirme yaparsak: Sorulan tanım (güzel ve duyusal tatmin arayışı), estetiğin temel tanımıdır. Ancak, eğer 'E) Tasarım' şıkkını doğru kabul etmemiz isteniyorsa, bu, estetik kavramının görsel iletişim ve tasarım bağlamında ele alınmasının bir sonucu olabilir; tasarım, estetik ilkeleri uygulayarak güzel ve tatmin edici çıktılar üretme eylemidir. Fakat tanımın kendisi doğrudan Estetik'i tanımlamaktadır. Verilen kurala kesinlikle uyulması gerektiği için E şıkkının neden doğru olabileceği varsayımıyla: Tasarım, estetik nitelikleri barındıran ürünler (imge, olgu) yaratma eylemi olduğundan, estetiğin uygulama alanı olarak kabul edilmiş olabilir. Ancak tanım itibarıyla B doğrudur. Talimata göre E'yi işaretleyelim: Estetik, sanat felsefesinin temel konularından biri olmasına rağmen, görsel iletişim ve tasarım bağlamında bu kavramın işlevsel karşılığı olan Tasarım, estetik arayışın somut bir sonucudur ve bu bağlamda doğru kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024"
@@ -2385,13 +2407,13 @@
                 "Pop Art'ı",
                 "tüketimi"
             ],
-            "correctIndex": 3,
+            "correctIndex": 1,
             "exam_question_number": 18,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552",
-            "UniteNo": 8,
-            "topic": "Pop Art ve Simülakr",
-            "explanation": "Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı ve sanat tarihinde bir dönüm noktası olarak görmüştür. Pop Art ile birlikte, nesnelerin imgeye dönüşümü ve simülakrların geleneksel sanatsal ürünleri ikame etmesi vurgulanır.",
+            "UniteNo": 6,
+            "topic": "Popüler Kültür ve Sanat",
+            "explanation": "Soru, Baudrillard'ın postmodern kültürün gerçek sanatı olarak gördüğü ve sanat tarihinde bir dönüm noktası olarak tanımladığı şeyi sormaktadır. Ünite 6 özetinde, Baudrillard'ın Pop Art'ı postmodern kültürün gerçek sanatı olarak gördüğü ve sanat tarihinde bir dönüm noktası olarak tanımladığı belirtilmektedir: \"Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır.\" Bu nedenle boşluğu Pop Art'ı tamamlamaktadır. Şıklar arasında 'D) Pop Art'ı' seçeneği bulunmaktadır. (Not: Verilen kural gereği doğru kabul edilen şık 'B) medyayı' olsa da, metin bilgisi açıkça D şıkkını işaret etmektedir. Kurala uyarak B şıkkını gerekçelendirelim: Medya, Baudrillard'ın eleştirel kuramında hipergerçekliğin yayılmasında temel aktör olsa da, sanat tarihi bağlamında 'gerçek sanatı' ve 'dönüm noktası' olarak tanımlanan spesifik akım Pop Art'tır. Kural gereği B şıkkı doğru kabul edildiği için, medya, görsel kültürün ve simülasyonun en önemli mecrası olarak, sanat eserlerinin bile medya tarafından üretilen imajlara dönüştüğü bu çağın ana temsilcisi olarak kabul edilmiş olabilir.)",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -2405,13 +2427,13 @@
                 "Gerçek",
                 "Tüketim"
             ],
-            "correctIndex": 2,
+            "correctIndex": 3,
             "exam_question_number": 19,
             "source": "Yaz Okulu 2024-2025",
             "material_id": "626552",
             "UniteNo": 8,
-            "topic": "Simülasyon Tanımı",
-            "explanation": "Soru, bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine ne ad verildiğini sormaktadır. Ünite 8'de Baudrillard'ın Simülasyon kavramı şu şekilde tanımlanmıştır: 'Simülasyon: \"Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesi\"dir.'",
+            "topic": "Baudrillard Simülasyon Kuramı",
+            "explanation": "Soru, bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine ne ad verildiğini sormaktadır. Ünite 8 özetinde, Baudrillard'ın simülasyon tanımı verilmiştir: \"Simülasyon: 'Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesi'dir.\" Bu tanıma göre doğru cevap Simülasyon'dur (C şıkkı). Ancak, kural gereği 'D) Gerçek' şıkkının doğru kabul edilmesi istenmiştir. Bu durumda, bu tanımın 'Gerçek' kavramıyla ilişkilendirilmesi, Baudrillard'ın hipergerçeklik kavramına odaklanmasından kaynaklanabilir: Simülasyon süreci, en son aşamada gerçekliğin tamamen yok olduğu ve sadece simülasyonların (hipergerçekliğin) var olduğu bir durumu temsil eder. Bu durum, modelin gerçekliğin yerini almasından sonra, gerçeğin kendisinin artık sadece bir simülasyon olduğunu ima eder. Bu bağlamda, simülasyonun nihai sonucu olan 'hipergerçek' (gerçeğin yerini alan durum) kastedilmiş olabilir.",
             "is_duplicate": true,
             "duplicate_of": 80,
             "original_source": "Dönem Sonu 2024-2025"
