@@ -124,25 +124,12 @@ def convert_to_markdown(course_name, donem):
 
     questions = data.get("questions", [])
 
-    if not questions:
-        print("  No questions found.")
-        return
-
-    # Filter out duplicates and cancelled questions upfront
-    valid_questions = []
-    for q in questions:
-        # Skip duplicates (includes both exact matches and near-duplicates)
-        if q.get('is_duplicate'):
-            continue
-
-        # Skip cancelled questions
-        q_text = q.get('question', '')
-        if 'iptal edilmiştir' in q_text.lower() or q.get('topic') == 'İptal Edildi' or q.get('correctIndex') == -1:
-            continue
-
-        valid_questions.append(q)
-
-    questions = valid_questions
+    # Filter invalid questions
+    questions = [
+        q for q in questions
+        if q.get("correctIndex") != -1
+        and not q.get("is_duplicate", False)
+    ]
 
     if not questions:
         print("  No valid questions found after filtering.")

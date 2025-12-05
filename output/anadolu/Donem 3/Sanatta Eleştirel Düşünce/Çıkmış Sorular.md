@@ -51,9 +51,22 @@
 
     <hr />
 
+### Rus Biçimciliği ve Algı
+
+1. İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan akıl yürütme formlarına ne ad verilir? *(2 kez soruldu)*
+    - A-) Çıkarım
+    - B-) Öncül
+    - C-) Safsata
+    - D-) Sonuç
+    - **Cevap E-) Tasım**
+
+    > **Açıklama:** Soruda bahsedilen temel görüş, sanatın alışkanlık haline gelen algıyı kırması gerektiğidir. Ünite 1'deki 'Rus Biçimciliği Kuramı' başlığı altında bu durum açıklanmaktadır: Rus Biçimcilerine göre, insanoğlu sürekli bakarak ve yaşayarak olaylara alışır ve bu durum "alışkanlığa dönüşen algılama" ile sonuçlanır. Bunun sonucunda artık şeyleri gerçek anlamda görmeyiz. Sanatın işlevi, bu alışkanlıkları kırmak ve gerçekliği alışılmadık, değişik bir biçimde, yani sanatsal 'Biçim' aracılığıyla yeniden sunmak ve algılatmaktır. Bu yöntem, gerçekliği yansıtmayı amaçlayan diğer kuramların aksine, formun ve sunuş biçiminin önemini vurgular. Bu bağlamda, alışkanlıkları Biçim yoluyla kırmayı savunan kuram Rus Biçimciliği'dir.
+
+    <hr />
+
 ### Spor Eleştirisi
 
-1. Spor eleştiri genel olarak aşağıdakilerden hangisinin değerlendirmesidir? *(2 kez soruldu)*
+1. Spor eleştiri genel olarak aşağıdakilerden hangisinin değerlendirmesidir? *(4 kez soruldu)*
     - A-) Alkış ve tezahürat
     - B-) Beceri ve performans
     - C-) Rekor ve başarı
@@ -63,22 +76,25 @@
     > **Açıklama:** Ünite 1'de Spor Eleştirisi başlığı altında, spor eleştirisinin genel olarak beceri ve performans değerlendirmesi olduğu belirtilir. Spor eleştirisinde rekabet karşılaşmalarındaki sporcuların estetik, uyum, beceri, yetenek gibi temel yetkinlikleri saptanarak değerlendirilir.
 
     <hr />
-1. Spor eleştirisi genel olarak aşağıdakilerden hangisinin değerlendirmesidir? *(3 kez soruldu)*
-    - A-) Alkış ve tezahürat
-    - B-) Süre ve zaman
-    - C-) Sayı ve gol
-    - **Cevap D-) Beceri ve performans**
-    - E-) Rekor ve başarı
-
-    > **Açıklama:** Spor eleştirisinin tanımı, Ünite 1'de açıkça verilmiştir: "Spor eleştirisi genel olarak beceri ve performans değerlendirmesidir" (Ünite 1, Sayfa 2). Ayrıca, rekabet karşılaşmalarındaki sporcuların estetik, uyum, beceri, yetenek gibi temel yetkinliklerinin saptanarak değerlendirildiği belirtilir.
-
-    <hr />
 
 ## Ünite 2
 
+### Akıl Yürütme Kuralları
+
+1. P veya Q<br />Değil-P<br />Öyleyse, Q<br />Yukarıdaki akıl yürütme formuna ne ad verilir? *(2 kez soruldu)*
+    - A-) Modus Ponens
+    - B-) Modus Tollens
+    - C-) Önbileşenin Değillenmesi
+    - D-) Artbileşenin Evetlenmesi
+    - **Cevap E-) Modus Tollendo Ponens**
+
+    > **Açıklama:** Ünite 2'de 'Çıkarım Kuralları' başlığı altında bu formlar listelenmiştir. P veya Q; Değil-P; Öyleyse Q formülü, Modus Tollendo Ponens (MTP) kuralının formudur.
+
+    <hr />
+
 ### Akıl Yürütme Türleri
 
-1. Öncüllerin sonucunu desteklediği akıl yürütme biçimlerine ne ad verilir?
+1. Öncüllerin sonucunu desteklediği akıl yürütme biçimlerine ne ad verilir? *(2 kez soruldu)*
     - A-) Öncül
     - **Cevap B-) Safsata**
     - C-) Tasım
@@ -104,16 +120,6 @@
 
 ### Akıl Yürütme ve Çıkarım
 
-1. İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan akıl yürütme formlarına ne ad verilir? *(2 kez soruldu)*
-    - A-) Çıkarım
-    - B-) Öncül
-    - C-) Safsata
-    - D-) Sonuç
-    - **Cevap E-) Tasım**
-
-    > **Açıklama:** Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütüne 'çıkarım' (uslamlama) denir. Ünite 2'de, çıkarımların bir veya daha çok elemana sahip bir öncül kümesinden ve bir sonuçtan oluştuğu belirtilmektedir.
-
-    <hr />
 1. Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütüne ne ad verilir?
     - **Cevap A-) Çıkarım**
     - B-) Geçerlilik
@@ -174,19 +180,6 @@
     - E-) Tarihsel
 
     > **Açıklama:** Eleştirel düşünce, düşünmeyi sürekli geliştirme amacıyla analiz etme ve değerlendirme uğraşıdır. Bu süreç, akıl yürütme yöntemleri (tümdengelimli, tümevarımlı, analoji) ve sorgulama ile olanaklıdır.
-
-    <hr />
-
-### Hatalı Akıl Yürütme (Geçersiz Çıkarım)
-
-1. Öncüllerin sonucu desteklemediği akıl yürütme biçimlerine ne ad verilir?
-    - A-) Sonuç
-    - B-) Çıkarım
-    - C-) Tasım
-    - D-) Öncül
-    - **Cevap E-) Safsata**
-
-    > **Açıklama:** Öncüllerin sonucu desteklemediği çıkarımlara 'geçersiz' veya 'zayıf çıkarım' denir. Geçersiz çıkarımlar, hatalı akıl yürütme biçimleri kullanılarak yapılmışlardır.
 
     <hr />
 
@@ -594,6 +587,19 @@
 
     <hr />
 
+### Besteci Sözleri ve Yaklaşımları
+
+1. "Para, alkış falan gözümde yok. Öyle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile." Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir? *(3 kez soruldu)*
+    - A-) Ahmet Adnan Saygun
+    - B-) Cemal Reşit Rey
+    - C-) Fazıl Say
+    - **Cevap D-) İlhan Usmanbaş**
+    - E-) Ulvi Cemal Erkin
+
+    > **Açıklama:** Bu sözler (Para, alkış falan gözümde yok... Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni...) eskilere başkaldıran, yenilikçi ve toplumsal düzeni sorgulayan bir tutumu ifade eder. Ünite 4'te, 19. yüzyılın ilerlemeci bestecileri (Liszt ve Wagner öncülüğünde) ile gelenekçiler arasındaki çekişme anlatılır. İlhan Usmanbaş, müziğin toplumsal işlevi ve yenilikçi arayışları ile tanınan, geleneksel yapıları sorgulayan bir bestecidir. Bu sözler, özellikle yenilikçi ve geleneksel kalıpları kırma isteğini vurguladığı için İlhan Usmanbaş'a atfedilir (veya bu ruh halini en iyi yansıtanlardan biridir).
+
+    <hr />
+
 ### Biçimci Kuram
 
 1. Sanat yapıtındaki her ögenin ve bağıntının yapıtın değeri için gerekli olması; gereksiz hiçbir ögenin ve bağıntının bulunmaması ve bunlardan her birinin yalnız kendi hesabına rol oynamakla kalmayıp diğerlerini de etkilemesi ile sağlanan düzene ne ad verilir?
@@ -843,6 +849,19 @@
 
     <hr />
 
+### Resimde Biçimcilik ve Yapısalcılık
+
+1. Nesnel gerçekliğin insan zihnindeki estetik tasarımına ne ad verilir?
+    - A-) Görüngü
+    - **Cevap B-) İmge**
+    - C-) Kavram
+    - D-) Nesnelleştirme
+    - E-) Eylem
+
+    > **Açıklama:** Resimde, nesnel gerçekliğin insan zihnindeki estetik tasarımı, biçimci kuramların temel konusudur. Anglo-Amerikan Biçimcileri'ne göre sanat eserinde önemli olan 'nasıl söylediğidir' yani yapısal-biçimsel yaklaşımdır (Ünite 5, "Biçimcilik Kuramları").
+
+    <hr />
+
 ### Romantizm Akımı Temsilcileri
 
 1. Romantizm'in öncülerinden, toplumsal olayları sert, eleştirel gerçekçi ve yer yer ürkütücü üslubuyla resmederek karanlığın en iyi anlatıcılarından, "3 Mayıs 1808" adlı tablosu, âdeta İspanya'nın çektiği acının bir simgesi olan ressam aşağıdakilerden hangisidir?
@@ -871,7 +890,7 @@
 
 ### Sanatın estetik tasarımı
 
-1. Nesnel gerçekliğin insan zihnindeki estetik tasarımına ne ad verilir? *(2 kez soruldu)*
+1. Nesnel gerçekliğin insan zihnindeki estetik tasarımına ne ad verilir?
     - A-) Tansık
     - B-) Görüngü
     - **Cevap C-) İmge**

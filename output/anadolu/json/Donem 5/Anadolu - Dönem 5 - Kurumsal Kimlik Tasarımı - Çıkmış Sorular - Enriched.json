@@ -38,7 +38,7 @@
             "topic": "Kurum Felsefesi Tanımı",
             "explanation": "Soru, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, kimliğini ve işleyişini yönlendiren çerçeveyi sormaktadır. Metinde Kurum Felsefesi başlığı altında bu tanımın aynısı verilmiştir. Bu felsefenin sağlanmasıyla (I, II, III ve IV maddelerinde belirtilen hedeflere ulaşma çabaları dahil) kurumun genel hedef ve yaklaşımları şekillenir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 3,
@@ -98,7 +98,7 @@
             "topic": "Marka Türleri Sınıflandırması",
             "explanation": "Metinde markanın kapsamına göre marka türleri 'Bireysel marka', 'Aile markası', 'Kurumsal marka' ve 'Ortak marka' olarak sıralanmıştır. Sosyal Marka bu sınıflandırmada yer almamaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 6,
@@ -118,7 +118,7 @@
             "topic": "Kurum Felsefesi Tanımı",
             "explanation": "Soru metni, Kurum Felsefesi'nin tanımını birebir yansıtmaktadır: 'Kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.'",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 7,
@@ -198,7 +198,7 @@
             "topic": "Marka Türleri Sınıflandırması",
             "explanation": "Metinde 'Markanın Korunma Şekline Göre Marka Türleri' başlığı altında; Tescilli marka, Tescilsiz marka ve Hizmet markası sıralanmıştır. Şekil, Ses ve Renk markaları biçime göre sınıflandırmalardır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 11,
@@ -258,7 +258,7 @@
             "topic": "Kurumsal Kimlikte Renk",
             "explanation": "Metin, rengin kurumsal kimlikte önemli bir unsur olduğunu ve dikkat çekici olduğunu belirtir. Ancak, B şıkkındaki gibi 'mümkün olduğunca kaçınmak gerekir' ifadesi yanlıştır; renk, farkındalık ve tanınırlık için aktif olarak kullanılmalıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 14,
@@ -358,7 +358,7 @@
             "topic": "Yaratıcılık Tanımı",
             "explanation": "Metinde Yaratıcılık başlığı altında yaratıcılığın üretken bir çaba olarak ele alındığı ve problem çözme sürecine odaklanarak özgün ve değerli sonuçların üretilmesine vurgu yapıldığı belirtilmiştir. Bu, kısıtlar çerçevesinde yenilikçi çözümler üretme yeteneğidir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 19,
@@ -451,9 +451,8 @@
             "UniteNo": 0,
             "topic": "İptal Edilmiş Soru",
             "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir.",
-            "is_duplicate": true,
-            "duplicate_of": 48,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 4
         },
         {
             "id": 24,
@@ -472,8 +471,10 @@
             "UniteNo": 7,
             "topic": "Kurumsal Kimlik Avantajları",
             "explanation": "Kurumsal kimliğin doğru oluşturulması ve tutarlılığı, markanın farklılaşmasını (I), hedef kitlenin dikkatini çekerek uluslararası alanda tanınabilirlik sağlamasını (II) ve pazar payı ve tanınırlık kazanmasını (III) sağlar. Toplumsal sorumluluk projelerine destek vermek (IV) kurumsal kimliğin bir sonucu olarak algılanabilir ancak bu, kimlik oluşturmanın *temel* avantajlarından ziyade, güçlü bir kimliğin getireceği genel kurumsal faydalardandır. Ancak en temel ve doğrudan sağlanan faydalar I, II ve III'tür. Ünite 7'de tutarlılığın marka farkındalığını ve rekabet avantajını artırdığı belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 2
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Her iki soru da aynı maddeleri (I, II, III, IV) kullanarak, kurumsal kimliğin doğru oluşturulmasıyla nelerin sağlandığını sormaktadır. Soru 1, kurumsal kimliği uzun bir tanım ile ifade ederken, Soru 2 doğrudan terimi kullanır. Şıklar ve doğru cevap tamamen aynıdır.",
+            "duplicate_of": 2
         },
         {
             "id": 25,
@@ -495,7 +496,8 @@
             "is_duplicate": true,
             "duplicate_of": 7,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 26,
@@ -537,7 +539,8 @@
             "is_duplicate": true,
             "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 28,
@@ -559,7 +562,8 @@
             "is_duplicate": true,
             "duplicate_of": 8,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 29,
@@ -598,8 +602,10 @@
             "UniteNo": 1,
             "topic": "Kurum Felsefesi Tanımı",
             "explanation": "Kurum Felsefesi, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Ünite 1'e göre, bu unsur aynı zamanda kurumun misyonunu, vizyonunu, değerlerini ve stratejik hedeflerini içerir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "İki sorunun da tanımladığı kavram (\"Kurum felsefesi\"), kullanılan tanım metni ve seçenek kümesi tamamen aynıdır. Sadece şıkların sıralaması ve soru kökünün metin içindeki yeri farklıdır, bu nedenle bu iki soru anlamsal olarak kopyadır.",
+            "duplicate_of": 6
         },
         {
             "id": 31,
@@ -621,7 +627,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 32,
@@ -640,8 +647,10 @@
             "UniteNo": 3,
             "topic": "Kurumsal Kimlikte Renk",
             "explanation": "Ünite 3'e göre, renk insan gözünün ilk algıladığı görsel ögedir, dikkat çekici ve akılda kalıcıdır. Coca-Cola örneğinde olduğu gibi, renkler evrensel bir marka haline gelmede büyük güçtür. Ancak, renge verilen tepkilerin kültüre, dine, cinsiyete ve kişisel tercihlere bağlı olarak değiştiği de belirtilmiştir. Soruda verilen ifadelerin tamamı renk kullanımında dikkat edilmesi gereken hususlardır; ancak sorunun bir yanlış ifade istemesi ve verilen seçeneklerin bağlamının tam olarak sunulmaması nedeniyle, genel kurallara odaklanılmalıdır. Ancak metinler, renklerin kültürel/kişisel farklılıklara bağlı olduğunu vurgular. Verilen seçenekler metinde doğrudan yer almamakla birlikte, genel tasarım ilkeleri bağlamında, renklerin kültürel farklılıklara duyarlı olması gerektiği bilgisi, yanlış olarak işaretlenebilecek bir unsurun olabileceğini ima eder (eğer bir seçenek 'Tüm kitlelerde aynı etkiyi yaratır' gibi bir şey olsaydı yanlış olurdu). Verilen seçeneklerin olmadığı bir bağlamda, genel olarak metinler renklerin kültüre, dine, cinsiyete ve kişisel tercihlere bağlı olarak değiştiğini belirtir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri tamamen aynıdır. Tüm şıkların içerikleri ve doğru cevabın içeriği de tamamen aynıdır; sadece şıkların sıralaması (indeksi) değiştirilmiştir.",
+            "duplicate_of": 13
         },
         {
             "id": 33,
@@ -662,7 +671,9 @@
             "explanation": "Ünite 2'de 'Kurum' kelimesi, genellikle bir kamu kuruluşunu, özel sektör firmasını veya toplumun bir bölümünü ifade eder şeklinde tanımlanmıştır. 'Kuruluş' ise bir işletmenin veya organizasyonun oluşturulduğu veya başlatıldığı süreci ifade eder. 'Marka' ise bir ürün, hizmet veya organizasyonun tanınmışlığını ve ayırt edilebilirliğini ifade eder. 'Organizasyon' ise insanların belirli bir amaç doğrultusunda bir araya geldiği yapıdır. Bu tanımlar arasında, kimlik kavramının en genel tanımı olarak kurumun kendisini ifade eden 'Kurum' uygun bir cevap olarak öne çıkmaktadır (Metinde 'Kurumun kimliği', 'Kurumun değerleri' gibi ifadeler sıkça geçmektedir).",
             "is_duplicate": true,
             "duplicate_of": 14,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 34,
@@ -681,8 +692,10 @@
             "UniteNo": 4,
             "topic": "Problem Tanımı",
             "explanation": "Ünite 4'te, 'Tanımlı problemler' (well defined problems) açık ve net hedeflere ulaşmak için gerekli adımların net olduğu problemler olarak tanımlanmıştır. Gerçek hayattaki problemlerin çoğu ise 'tanımsız problemler' (ill defined/wicked problems) olarak bilinirler. Tanımsız problemler, yaratıcılık, analitik düşünme ve deneme-yanılma sürecini gerektirir ve çözüm yolları duruma göre değişebilir. Sorudaki 'alternatif, yenilikçi ve geleneksel çözümler üretme yeteneği' ifadesi, problem çözmenin yaratıcı ve esnek yönünü vurgular, ki bu da 'tanımsız problemler'in çözüm sürecinin bir özelliğidir. Ancak sorunun 'yeteneğe ad verilir' ifadesi, doğrudan 'Yaratıcılık' kavramına işaret etmektedir. Ünite 4'te yaratıcılık, problem çözme sürecinin önemli bir başlangıç noktası ve özgün/değerli sonuçlar üretme çabası olarak ele alınmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "İki soru da kısıtlar dahilinde alternatif ve yenilikçi çözümler üretme yeteneğini (Yaratıcılık) sormaktadır. Soru köklerindeki küçük kelime farklılıklarına rağmen (tasarım tanımı/problem tanımı; getirici/geleneksel) anlamsal olarak tamamen aynıdır ve şık setleri ile doğru cevapları (Yaratıcılık) aynıdır. Bunlar veritabanında kopyadır.",
+            "duplicate_of": 18
         },
         {
             "id": 35,
@@ -784,7 +797,8 @@
             "is_duplicate": true,
             "duplicate_of": 19,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 40,
@@ -843,7 +857,6 @@
             "UniteNo": 3,
             "topic": "Tekli/Monolitik Kimlik",
             "explanation": "Metinde 'Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir.' ifadesi geçmektedir.",
-            "is_duplicate": false,
             "occurrence_count": 2
         },
         {
@@ -864,9 +877,10 @@
             "topic": "Marka Kullanım Şekilleri",
             "explanation": "Ünite 6'ya göre markanın kullanım şekilleri arasında Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka bulunmaktadır. 'Rakip Marka Analizi' ise markanın bir kullanım şekli değil, marka stratejisinin bir parçası olan analiz sürecidir. Bu nedenle 'Rakip Marka Analizi' markanın kullanım şekillerinden biri değildir.",
             "is_duplicate": true,
-            "duplicate_of": 27,
+            "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 44,
@@ -959,8 +973,10 @@
             "UniteNo": 1,
             "topic": "İptal Edilen Soru",
             "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir.",
-            "occurrence_count": 4,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplication_reason": "Exact Text Match",
+            "duplicate_of": 23,
+            "occurrence_count": 0
         },
         {
             "id": 49,
@@ -1000,7 +1016,7 @@
             "topic": "Marka Kavramı ve Bileşenleri",
             "explanation": "Ünite 6'ya göre marka, bir ürünün, hizmetin veya organizasyonun kimlik özelliklerini tanımlayan, hedef kitle üzerinde olumlu izlenimler bırakan bir kavramdır. 'Marka Mimarisi' (Markalı Ev, Markalar Evi vb.) marka stratejisine hizmet eder. 'Marka değeri' ise şirketin somut varlıkları çıkarıldığında geriye kalan soyut değeridir. 'Marka kimliği' ise markanın adı, logosu, sloganı, renkleri gibi öğelerden oluşur. İfadelerin hepsi genel olarak doğru olsa da, en kapsayıcı ve temel ifadeyi aramak gerekir. Ancak sorunun yapısı gereği, verilen ifadelerin doğruluğu kontrol edildiğinde, özellikle 'Marka Değeri'nin tanımı (somut varlıklar çıkarıldığında geriye kalan soyut değer) ve 'Marka Mimarisi'nin rolü (stratejik yapılandırma) Ünite 6 metnindeki bilgilerle uyumludur. Marka kavramının çok boyutlu olduğu ve duygusal bağ kurduğu (Nike örneği) doğrudur. Bu nedenle, markanın çeşitli yönlerini kapsayan bu ifadelerin tamamının (doğru bir şekilde kurgulanmış haliyle) doğru olduğu varsayılabilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 51,
@@ -1059,7 +1075,6 @@
             "UniteNo": 7,
             "topic": "Tasarım Süreci Aşamaları",
             "explanation": "Soru 53, Kurumsal Kimlik Kılavuzunun tasarım süreci aşamalarından olmayanı aramaktadır. Ünite 7'de Kurumsal Kimlik Kılavuzunun Tasarım Süreci şu şekilde listelenmiştir: 1. Stratejik Analiz ve Planlama, 2. Görsel Kimlik Unsurları, 3. Metinsel İçerikler, 4. Görsel Uygulama Örnekleri, 5. Kılavuz İçeriği ve Yapısı, 6. Entegrasyon ve Uygulama, 7. Revizyon ve Güncelleme. 'Rakip Analizi' (Ünite 6'da geçen bir süreçtir) bu aşamalar arasında yer almamaktadır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1120,7 +1135,7 @@
             "topic": "Kurumsal Kimlik Kılavuzu",
             "explanation": "Soru 56, kurumsal kimlik kılavuzu ile ilgili doğru ifadeyi aramaktadır. Ünite 7'de kılavuzun sağladığı en temel faydalardan biri tutarlılıktır: 'Kurumsal kimlik kılavuzu, kurumun tüm iletişim ve pazarlama materyallerinde tutarlı bir görünüm ve mesaj iletilmesini sağlar.' Bu tutarlılık, marka bilinirliğini ve güvenilirliğini artırır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 57,
@@ -1200,7 +1215,7 @@
             "topic": "Logo Tasarımı Özellikleri",
             "explanation": "Soru 60, logo tasarımında dikkate alınması gereken özelliklerdendir. Ünite 5'te, 'Logo tasarımı yapılırken marka kimliğini yansıtmasına, basitliğine, çeşitli boyutlarda etkili olmasına, renk seçimine, zaman dayanıklılığına, üretilebilirliğe ve kullanılabilirliğe uygunluğuna ve özgünlüğüne dikkat edilmelidir' denilmektedir. Seçenekler arasında 'Özgünlük' (özgünlüğüne dikkat edilmeli) logo tasarımında kritik bir özelliktir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 61,
@@ -1222,7 +1237,8 @@
             "is_duplicate": true,
             "duplicate_of": 41,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 62,
@@ -1242,10 +1258,10 @@
             "topic": "Tekli/Monolitik Kimlik",
             "explanation": "Metinde Kurum Kimliğinde Tekli Kimlik başlığı altında: 'Kurum ve kuruluşların hedef kitleleri ile olan ilişkilerinde ve faaliyet alanlarının tamamında tek bir kimlik ile kendilerini ifade etme şekline Monolitik (Tekli Kimlik) denilmektedir.' ifadesi yer almaktadır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 42,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.998293936252594
+            "duplication_reason": "Soru metinleri (tanım) birebir aynıdır. Şıklar aynı kavramlardan oluşmaktadır (sadece sıralamaları farklıdır) ve doğru cevap aynı kavramdır. Bu sorular anlamsal olarak tamamen kopyadır."
         },
         {
             "id": 63,
@@ -1264,8 +1280,10 @@
             "UniteNo": 2,
             "topic": "Marka Türleri Sınıflandırması",
             "explanation": "Markanın korunma şekline göre marka türleri; Tescilli marka, Tescilsiz marka ve Hizmet markası olarak sınıflandırılır (Ünite 2). Soruda verilen seçenekler arasında yer alan seçenek Tescilli Marka, Tescilsiz Marka veya Hizmet Markası olmalıdır. Seçenekler verilmediği için, genel bilgiye dayanarak cevap Tescilli marka, Tescilsiz marka veya Hizmet markasıdır. Eğer şıklarda bu üçünden biri varsa, o doğrudur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri, şıklar ve doğru cevap tamamen aynıdır. Sadece şıkların sıralaması farklıdır.",
+            "duplicate_of": 10
         },
         {
             "id": 64,
@@ -1287,7 +1305,8 @@
             "is_duplicate": true,
             "duplicate_of": 17,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 65,
@@ -1326,9 +1345,8 @@
             "UniteNo": 6,
             "topic": "Segmentasyon Araştırmaları",
             "explanation": "Segmentasyon araştırmaları, tüketici davranışlarının anlaşılması için kullanılır. Bu analizler genellikle kantitatif yöntemlerle gerçekleştirilerek tüketici kitlesinin sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırılmasını amaçlar (Ünite 6).",
-            "is_duplicate": true,
-            "duplicate_of": 93,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "occurrence_count": 2
         },
         {
             "id": 67,
@@ -1342,8 +1360,10 @@
             "topic": "İptal Edilen Soru",
             "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 48,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 23,
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 68,
@@ -1385,7 +1405,8 @@
             "is_duplicate": true,
             "duplicate_of": 47,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 70,
@@ -1399,8 +1420,10 @@
             "topic": "İptal Edilen Soru",
             "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 48,
-            "original_source": "Dönem Sonu 2023-2024"
+            "duplicate_of": 23,
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 71,
@@ -1419,8 +1442,10 @@
             "UniteNo": 2,
             "topic": "Marka Tanımı ve Temelleri",
             "explanation": "Soru 71'in içeriği, markanın sadece bir isim veya logo değil, aynı zamanda işletmenin değerlerini, kalitesini, benzersizliğini ve müşterilere sunduğu vaatleri yansıtan bir varlık olduğunu vurgulamaktadır (Ünite 2, Marka Tanımı ve Temelleri). Bu bağlamda, markanın bileşenleri (değer, kalite, vaat vb.) ve kavramı ile ilgili ifadelerden doğru olan, markanın çok boyutlu bir kavram olduğu ve değer, imaj, algı gibi unsurları içerdiğidir. Verilen seçenekler olmadan kesin bir yanıt vermek zor olsa da, metne göre markanın tanımı ve temel vaatleri içerdiği doğrudur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri ve doğru cevap ifadeleri tamamen aynıdır. Çeldiriciler de aynıdır; sadece şıkların sıralaması değiştirilmiştir.",
+            "duplicate_of": 50
         },
         {
             "id": 72,
@@ -1441,7 +1466,9 @@
             "explanation": "Kurum kimliği kataloğu (veya kurumsal kimlik kılavuzu), bir işletmenin kimliğini ve kişiliğini yansıtan, marka değerlerini ve görsel unsurlarını belirleyen kapsamlı bir dokümandır (Ünite 7, Kurum Kimliği Kataloğu). Bu katalog, işletmenin müşterilere ve paydaşlara nasıl görünmek istediğini tanımlar ve marka algısının oluşturulmasında rehberlik eder. Dolayısıyla boşluğu 'marka değerlerini ve görsel unsurlarını' veya benzer bir ifade tamamlar.",
             "is_duplicate": true,
             "duplicate_of": 51,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 73,
@@ -1480,8 +1507,10 @@
             "UniteNo": 7,
             "topic": "Kurum Kimliği Kılavuzu",
             "explanation": "Kurumsal kimlik kılavuzu, kurumun tüm iletişim ve pazarlama materyallerinde tutarlı bir görünüm ve mesaj iletilmesini sağlar (Ünite 7, Tutarlılık). Bu tutarlılık, markanın hedef kitle üzerinde güçlü bir izlenim bırakmasına ve marka bilinirliğini artırmasına olanak tanır. Ayrıca, kılavuzun temel amaçlarından biri de, markanın görsel ve sözel ögelerinin tutarlı bir şekilde sunulmasını sağlamaktır.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "is_duplicate": true,
+            "duplicate_of": 56,
+            "occurrence_count": 0
         },
         {
             "id": 75,
@@ -1563,7 +1592,8 @@
             "is_duplicate": true,
             "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 79,
@@ -1585,7 +1615,8 @@
             "is_duplicate": true,
             "duplicate_of": 58,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 80,
@@ -1627,7 +1658,8 @@
             "is_duplicate": true,
             "duplicate_of": 1,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 82,
@@ -1649,7 +1681,8 @@
             "is_duplicate": true,
             "duplicate_of": 4,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1669,9 +1702,10 @@
             "topic": "Marka Kimliği Ögeleri",
             "explanation": "Ünite 6'da (Sayfa 1-2) Marka Kimliği ögeleri; marka adı, logo, slogan, renkler, tipografi, ses ve kişiliği kapsar. Yapılan analizler sonucunda, Marka Mimarisi'nin ana ögeleri marka adı, marka sembolleri, marka kişiliği, marka konumlandırması ve marka iletişimidir. Rakip analizi (Piyasa ve Rakip Analizi) ise stratejik bir süreçtir, kimliğin temel bir unsuru (logo, renk vb.) olarak doğrudan sayılmaz. Bu nedenle rakip analizi, kimliği oluşturan temel bileşenlerden biri değildir.",
             "is_duplicate": true,
-            "duplicate_of": 28,
+            "duplicate_of": 8,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1690,8 +1724,10 @@
             "UniteNo": 1,
             "topic": "Marka Türleri Sınıflandırılması",
             "explanation": "Metinde (Sayfa 2, Sağ Sütun, Markanın Kapsamına Göre Marka Türleri başlığı altında) kapsama göre dört marka türü sıralanmıştır: Bireysel marka, Aile markası, Kurumsal marka ve Ortak marka. 'Tescilli marka' ise Markanın Korunma Şekline Göre Marka Türleri altındadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır. Şıklar kümesi (set olarak) aynıdır ve doğru cevap aynı şıkkı işaret etmektedir. Sadece şıkların sıralaması ve soru kökünde önemsiz bir kelime varyasyonu ('kapsamına' vs 'kapsama') mevcuttur.",
+            "duplicate_of": 5
         },
         {
             "id": 85,
@@ -1711,10 +1747,10 @@
             "topic": "Görsel Kimlik Kavramları",
             "explanation": "Metinde (Sayfa 2, Sol Sütun, Kurumsal Kimlikte Sembol başlığı altında) Sembol tanımı şu şekilde verilmiştir: 'Sembollerde, işaret eden ile edilen şey arasındaki ilişki nedensizdir. Anlam, öğrenilmiş veya üzerinde uzlaşılmış çağrışımlar yoluyla gerçekleştirilir. Bu duruma örnek olarak güvercin imgesinin barışın sembolü olarak bilinmesini gösterebiliriz. Sözlü veya yazılı kelimeler de semboldür. Sembol; bir kavramı, fikri veya nesneyi ileten göstergedir. Semboller, nesnelerin fiziksel anlamda tanınabilen temsilidir.'",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 31,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9967420697212219
+            "duplication_reason": "Soru metni ve doğru cevap (Sembol) tamamen aynıdır. Şık seçenekleri kümesi de aynıdır, sadece sıralamaları farklıdır."
         },
         {
             "id": 86,
@@ -1736,7 +1772,8 @@
             "is_duplicate": true,
             "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 87,
@@ -1758,7 +1795,8 @@
             "is_duplicate": true,
             "duplicate_of": 14,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 88,
@@ -1778,9 +1816,10 @@
             "topic": "Kurumsal Kimlik Tasarım Aşamaları",
             "explanation": "Metinde (Sayfa 3, Sağ Sütun, Görsel Kimlik Unsurları başlığı altında) görsel kimlik unsurlarının (logo, renk paleti, tipografi ve semboller) tasarlandığı aşama, 'Görsel Kimlik Unsurları' başlığı altında anlatılan aşamadır. Tasarım sürecinin aşamaları sıralanırken bu aşama ikinci sırada yer almaktadır: 1. Stratejik Analiz ve Planlama, 2. Görsel Kimlik Unsurları (tasarımın yapıldığı yer), 3. Metinsel İçerikler vb.",
             "is_duplicate": true,
-            "duplicate_of": 64,
+            "duplicate_of": 17,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 89,
@@ -1800,9 +1839,10 @@
             "topic": "Tipografi Seçimi Kuralları",
             "explanation": "Metinde (Sayfa 2, Sol Sütun, Tipografi Seçimi başlığı altında) tipografi seçimi için önemli bir kural belirtilmiştir: 'Tipografik farklılıklar okunaklılığı ve hedef kitlede oluşan duyguları değiştirebilir. Hedef kitleye ve sektöre uygun tipografi seçmek ve uygulamak bu nedenle çok önemlidir.' Ayrıca, farklı dil desteklerinin de düşünülmesi gerektiği belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 69,
+            "duplicate_of": 47,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 90,
@@ -1824,7 +1864,8 @@
             "is_duplicate": true,
             "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 91,
@@ -1883,10 +1924,10 @@
             "UniteNo": 6,
             "topic": "Segmentasyon Araştırmaları",
             "explanation": "Segmentasyon analizlerinin kullanım amacı, tüketici kitlesi üzerinde geniş kapsamlı araştırmalar yaparak onları sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır. Ünite 6'da Segmentasyon Araştırmaları, tüketici kitlesi üzerinde geniş kapsamlı araştırmaların yapıldığı aşama olarak tanımlanır ve amacı sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 66,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 94,
@@ -1946,9 +1987,10 @@
             "topic": "Tasarım Anlamı",
             "explanation": "İyi bir tasarımın asıl amacı, iletilmek istenen anlam ile gösterge arasında ilişki kurarak anlamı oluşturmaktır. Ünite 3'te Kurumsal Kimlikte Anlam başlığı altında, \"Kurumsal kimlik tasarımında iletilmesi istenilen anlamla ifade eden gösterge arasında önemli bir ilişki yer almaktadır\" ve bu gösterge tercihi iletmek istenen imge kalitesi ile bağlantılıdır denilmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 78,
+            "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 97,
@@ -1970,7 +2012,8 @@
             "is_duplicate": true,
             "duplicate_of": 55,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 98,
@@ -1992,7 +2035,8 @@
             "is_duplicate": true,
             "duplicate_of": 51,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 99,
@@ -2011,8 +2055,10 @@
             "UniteNo": 5,
             "topic": "Logo Tasarımı Kriterleri",
             "explanation": "Logo tasarımında dikkate alınması gereken önemli özelliklerden biri özgünlüktür. Ünite 5'te Logo Kullanım Şekilleri başlığı altında, logo tasarımında dikkat edilmesi gerekenler arasında özgünlüğe dikkat edilmesi gerektiği belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 2
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri (logo tasarımında dikkate alınması gereken özellikler) aynı şeyi sormaktadır. Çeldiricilerin tamamı aynıdır. Doğru cevaplar ('Özgünlük ve basitlik' ve 'Özgünlük, basitlik, üretilebilirlik') anlamsal olarak eşdeğerdir ve aynı bilgi noktasını test etmektedir.",
+            "duplicate_of": 60
         },
         {
             "id": 100,
@@ -2034,7 +2080,8 @@
             "is_duplicate": true,
             "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 101,
@@ -2054,10 +2101,10 @@
             "topic": "Kurumsal Kimlik Faydaları",
             "explanation": "Metinde, güçlü kurumsal kimliğin faydaları arasında; farklılaşma/ayırt edilebilme (I), uluslararası alanda tanınabilirlik (II), pazar payı ve tanınırlık kazanma (III) olduğu belirtilmiştir. Metin, toplumsal sorumluluk projelerinin de kurum kimliğinin bir parçası olduğunu ima eder ve genel hedefler arasında yer alır (Ünite 1, Kurumsal Kimlik başlığı altında itibar ve rekabet avantajı vurgulanır; Ünite 2'de ise sosyal sorumluluk listelenir). Bu nedenle tüm seçenekler (I, II, III ve IV) doğru hedefler arasında yer alır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 24,
             "original_source": "Ara Sınav 2024-2025",
-            "similarity_score": 0.9944580793380737
+            "duplication_reason": "İki sorunun metin içeriği (maddeler I, II, III, IV), soru kökü, şıkları ve doğru cevapları tamamen aynıdır. Soru 2'de I. maddenin numaralandırılmasında küçük bir biçimsel eksiklik olsa da, anlamsal olarak soru 1 ile birebir aynıdırlar ve kopyadırlar."
         },
         {
             "id": 102,
@@ -2077,9 +2124,10 @@
             "topic": "Markanın Kullanım Şekilleri",
             "explanation": "Ünite 6'da Markanın Kullanım Şekilleri (Marka Varlık Nedenini Belirleme kapsamında) şu şekilde sıralanmıştır: 1. Markanın gerçeklerini belirleme (Kurum/Kuruluş Olarak Marka), 2. Pazarın gerçeklerini belirleme (Ürün Olarak Marka ile ilgili), 3. Kültür ve sosyal gereklilikleri belirleme. Ayrıca kişi ve sembol olarak marka kullanımları da Ünite 3'te belirtilmiştir. Soru 102'deki seçenekler Ünite 6'da belirtilen Marka Tanımı altındaki kullanım şekilleriyle karşılaştırıldığında: Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka ve Kişi Olarak Marka mevcuttur. Sembol Olarak Marka (Ünite 3) veya Rakip Analizi (Ünite 6) seçenekler arasında yer almaz. Ünite 6'da açıkça listelenenler: Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka (Ünite 3'ten alınmış olabilir). Ancak Ünite 6'da açıkça belirtilen dört unsur şunlardır: Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka. Metinde 'Rakip Analizi' doğrudan bir marka kullanım şekli olarak listelenmemiştir; bu bir stratejik analiz sürecidir.",
             "is_duplicate": true,
-            "duplicate_of": 43,
+            "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2118,8 +2166,10 @@
             "UniteNo": 7,
             "topic": "Kurum Felsefesi Tanımı",
             "explanation": "Ünite 7'de, Kurum Felsefesi başlığı altında, 'Kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.' bilgisi yer almaktadır. Bu tanım, sorudaki boşluğu doldurur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soruların metni ve cevap içeriği (konseptler) birebir aynıdır. Sadece şıkların sunuluş sırası değiştirilmiştir. Bu iki soru, aynı bilginin sorgulandığı tam kopyalardır.",
+            "duplicate_of": 30
         },
         {
             "id": 105,
@@ -2139,9 +2189,10 @@
             "topic": "Kurumsal Kimlikte Sembol",
             "explanation": "Ünite 3'te Kurumsal Kimlikte Sembol başlığı altında, 'Semboller, bir kavramı, fikri veya nesneyi ileten göstergedir. Semboller, nesnelerin fiziksel anlamda tanınabilen temsilidir.' ifadesi yer almaktadır. Bu tanım, sorudaki kavramı açıkça işaret etmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 85,
+            "duplicate_of": 9,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9967420697212219
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 106,
@@ -2161,10 +2212,10 @@
             "topic": "İlkörnek Oluşturma Amacı",
             "explanation": "Ünite 4'te İlkörnek Oluşturma Aşaması başlığı altında, ilkörneklerin (prototiplerin) 'tasarımın farklı yönlerini ve ögelerini temsil ederek belli nitelikleri taşıması' ve 'tasarım ekibine ve hedef kitleye kurum ve marka vizyonun somut bir görselini sunması' amaçlandığı belirtilmiştir. Bu, potansiyel çözümlerin hedefleri karşılama potansiyelini göstermeye yöneliktir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 40,
             "original_source": "Ara Sınav 2024-2025",
-            "similarity_score": 0.9810681343078613
+            "duplication_reason": "Soru kökleri (anlamsal olarak) ve şıkların tamamı aynıdır. Tek fark şıkların sıralanışının ve soru kökündeki 'ilkörnek/ilk örnek' yazımının değişmesidir. Bu iki soru, aynı sınav veritabanında kopya olarak kabul edilmelidir."
         },
         {
             "id": 107,
@@ -2184,9 +2235,10 @@
             "topic": "Alternatif Logoların Önemi",
             "explanation": "Ünite 5'te Görsel Kimlik Elemanları altında, alternatif logoların 'ana logonun farklı versiyonları, örneğin yatay ve dikey kullanıma uygun alternatifler veya renkli ve tek renkli versiyonlarının yer aldığı kısımdır' ve 'farklı kullanım alanlarına göre uyarlanmış logolar' olduğu belirtilmiştir (sosyal medya profili için kırpılmış logo veya küçük boyutlu kullanım için basitleştirilmiş logo gibi). Amaçları, logonun farklı platformlara ve kullanım gereksinimlerine uyarlanmasını sağlamaktır.",
             "is_duplicate": true,
-            "duplicate_of": 90,
+            "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 108,
@@ -2206,10 +2258,10 @@
             "topic": "Piktogram Tanımı",
             "explanation": "Ünite 3'te Kurumsal Kimlikte İşaretler ve Piktogramlar başlığı altında, Piktogramların Latince 'pictus' ve 'gram' sözcüklerinden üretildiği ve 'yazısız resim' anlamına geldiği belirtilmiştir. Ayrıca, bu göstergelerin 'farklı birçok konuda, ileti (mesaj) aktarımını sağlayarak uyarmakta ve hayatımızı kolaylaştırmaktadır' bilgisi yer almaktadır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9915963411331177
+            "duplication_reason": "Soru kökleri ve metinleri anlamsal olarak tamamen aynıdır. Her iki soruda da aranan cevap 'piktogramlar'dır. Şıkların sıralaması farklı olsa da, şık kümesi de aynıdır. Bu sorular kopya olarak kabul edilmelidir."
         },
         {
             "id": 109,
@@ -2229,9 +2281,10 @@
             "topic": "Düşünme Şekilleri",
             "explanation": "Ünite 4'te Kurumsal Kimlik Tasarım Problemi ve Yaratıcılık başlığı altında, yaratıcı sürecin iki temel düşünme şeklinden oluştuğu belirtilmiştir: 'Iraksak düşünme' (benzersiz fikir üretimi) ve 'Yakınsak düşünme' (fikirleri birleştirme ve tek bir çözüme ulaşma). Bu iki süreç de tasarım sürecinin her aşamasında önemlidir.",
             "is_duplicate": true,
-            "duplicate_of": 86,
+            "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2251,10 +2304,10 @@
             "topic": "Tipografi Seçimi Faktörleri",
             "explanation": "Ünite 8'de Tipografi Seçimi başlığı altında, tipografik farklılıkların 'okunaklılığı ve hedef kitlede oluşan duyguları değiştirebileceği' belirtilmiştir. Bu nedenle, 'Hedef kitleye ve sektöre uygun tipografi seçmek ve uygulamak' çok önemlidir. Ayrıca, fontların farklı dil desteklerinin olması gerektiği ve kurumsal kimliğin genel estetiğine uyması gerektiği de vurgulanmıştır. Bu nedenle hedef kitleye uygunluk, okunaklılık ve dil desteği temel faktörlerdir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 46,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9500525593757629
+            "duplication_reason": "Soru kökleri (biri olumlu ['biridir'], diğeri olumsuz ['değildir']) anlamsal olarak zıttır. Ancak şık listeleri ve doğru cevap indeksi (3) tamamen aynıdır. Markanın kişiliği ve değerleri, font seçiminde dikkat edilmesi gereken bir faktördür; bu nedenle 1. sorunun (HANGİSİ DEĞİLDİR?) doğru cevabının 3 olması mantık hatası içerir. Bu durum, soruların hatalı bir şekilde kopyalandığını ve aynı cevap anahtarının kullanıldığını gösterir."
         },
         {
             "id": 111,
@@ -2336,7 +2389,8 @@
             "is_duplicate": true,
             "duplicate_of": 91,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 115,
@@ -2358,7 +2412,8 @@
             "is_duplicate": true,
             "duplicate_of": 74,
             "original_source": "Dönem Sonu 2024-2025",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 116,
@@ -2398,9 +2453,10 @@
             "topic": "Görsel Kimliğin Amaçları",
             "explanation": "Metinde görsel kimliğin dört amacından biri olarak \"markanın kabulünü ve anımsanmasını yaygınlaştırmaktır\" ifadesi geçmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 97,
+            "duplicate_of": 55,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2420,10 +2476,10 @@
             "topic": "Logo Tasarım Özellikleri",
             "explanation": "Ünite 8'de Logo Kullanım Şekilleri başlığı altında, logo tasarımında dikkat edilmesi gereken unsurlar listelenmiştir: Marka kimliğini yansıtma, basitlik, çeşitli boyutlarda etkili olma, renk seçimi, zaman dayanıklılığı, üretilebilirlik, kullanılabilirlik ve özgünlük. 'Kullanıcı geri bildirimlerine göre revize etme' ise tasarım sürecinin daha sonraki aşamalarında (Test/Geri Bildirim) gerçekleşen bir faaliyettir, logonun tasarlanma anındaki temel özelliği değildir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 99,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9747205972671509
+            "duplication_reason": "Soru metinleri eş anlamlıdır ('dikkate alınması' ve 'dikkat edilmesi'). Şık setleri ve doğru cevap içeriği tamamen aynıdır; sadece şıkların sıralaması farklıdır."
         },
         {
             "id": 119,
@@ -2463,9 +2519,10 @@
             "topic": "Görsel İmge ve Anlam",
             "explanation": "Ünite 3'te Kurumsal Kimlikte Anlam başlığı altında, görsel kimlik tasarımında iletilmek istenen anlam ile gösterge arasında önemli bir ilişki olduğu belirtilir. Göstergenin tercih edilme amacı, iletmek istediği anlam/imge kalitesi ile bağlantılıdır. Yani temel amaç, tasarımla doğru anlamı tüketiciye aktarmaktır. 'Pazarda farklılaşmak' ve 'tüketicinin dikkatini çekmek' sonuçlardır, asıl amaç anlamın doğru kodlanmasıdır.",
             "is_duplicate": true,
-            "duplicate_of": 96,
+            "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

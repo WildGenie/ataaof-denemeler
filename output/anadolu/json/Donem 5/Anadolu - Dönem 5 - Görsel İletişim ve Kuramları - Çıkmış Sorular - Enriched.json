@@ -78,7 +78,7 @@
             "topic": "Birinci Sözlü Kültür",
             "explanation": "Soru, Walter J. Ong'un birinci sözlü kültür tanımını sormaktadır. 1. Ünite'deki 'Birinci Sözlü Kültürde İletişim' başlığı altında, Ong'un yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi 'birinci sözlü kültür' olarak tanımladığı belirtilmiştir. Bu kültürün temel özelliği kapalılık ve uzun uğraşlar sonucunda elde edilen bilginin korunmasına yönelik güçlü bir enerjiye sahip olmasıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 81,
             "original_source": "Yaz Okulu 2023-2024"
         },
@@ -240,7 +240,7 @@
             "topic": "Algı Süreci Aşamaları",
             "explanation": "Algı sürecinin dördüncü aşaması olan 'Algısal Organizasyon', seçici dikkate dair unsurlarla işlenen uyarının, tanıdık/tanımlanabilir görsel örüntüler/kalıplar ile organize edilerek belirli bir çerçeveye yerleştirildiği aşamadır. Bu aşamadan sonra anlamlandırma gelir. (Ancak soruda 'tüm aşamalardan geçip işlendiği, kişisel bilgi ve deneyime dönüştürüldüğü' ifadesi, 'Anlamlandırma' aşamasına daha yakın olsa da, 'anlamlandırma' aşaması organizasyondan sonra gelir. Şıklarda 'Anlamlandırma' olmadığı için, organizasyon sonrası oluşan bilginin deneyime dönüştüğü 'Anlamlandırma' veya sürecin tamamının kastedildiği düşünülebilir. Metinde ise organizasyondan sonraki aşama 'Anlamlandırma/Anlamı İşleme' olarak geçer. Verilen metin bağlamında, temel bileşenlerin işlenip tanınabilir hale geldiği aşama 'Algısal Organizasyon'dur. Ancak sorunun yapısı, bilginin kişisel deneyime dönüştüğü 'Anlamlandırma' aşamasını ima etmektedir. Verilen şıklar arasında 'Anlamlandırma/Anlamı İşleme' seçeneği bulunmadığından ve sorunun 'uyaranı kişisel bilgiye dönüştürerek organize etme' kısmını vurguladığı için, bir önceki aşama olan 'Algısal Organizasyon' veya sonraki aşama olan 'Anlamlandırma' kastedilmiş olabilir. Metin bütünlüğüne bakıldığında, 'Anlamlandırma/Anlamı İşleme' (dördüncü aşama sonrası) kavramı, kişisel bilgi ve deneyime dönüşümü kapsar. Şıklar arasında 'Anlamlandırma/Anlamı İşleme' olmadığı için, ilk organize edilmiş halin oluştuğu aşama olan 'Algısal Organizasyon' veya sürecin tamamını kapsayan 'Algı' seçeneği düşünülebilir. Algı sürecinin temel tanımı sorunun ilk kısmında verilmiştir. Bu sorunun cevabı, metinde açıkça şık olarak verilmediği için, en yakın kabul edilen tanım olan 'Algı' kavramının kendisi veya 'Anlamlandırma'dır. Şıklar arasında 'Anlamlandırma/Anlamı İşleme' olmadığı için, bu aşamaları kapsayan temel süreç olan 'Algı' kabul edilmelidir. Fakat sorunun yapısı 'Algı sürecinin aşamalarını' sormaktadır. Organizasyon aşaması, uyarana şekil verme sürecidir.)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 13,
@@ -482,7 +482,8 @@
             "is_duplicate": true,
             "duplicate_of": 8,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 25,
@@ -501,9 +502,8 @@
             "UniteNo": 1,
             "topic": "Yazının Tarihçesi",
             "explanation": "Metne göre, yazının tarihî gelişimine bakıldığında, ilk yazının İÖ 3500'lerde Mezopotamya'da ve Sümerlerce kullanıldığına ilişkin kanıların daha güçlü olduğu belirtilmektedir.",
-            "is_duplicate": true,
-            "duplicate_of": 44,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 2
         },
         {
             "id": 26,
@@ -543,7 +543,7 @@
             "topic": "Endüstri Devrimi ve Tasarımcı",
             "explanation": "Metinde, zanaatkâr ve sanatçının ayrıştırılmasından sonra yeni bir icracı sınıfın doğduğu belirtilmektedir. Bu yeni eklenen icracı, \"tasarımcıdır\". Tasarımcı, elindeki uygun teknolojiyi ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanır veya kısaca problem çözücü olarak adlandırılır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 41,
             "original_source": "Dönem Sonu 2023-2024"
         },
@@ -587,7 +587,8 @@
             "is_duplicate": true,
             "duplicate_of": 10,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 30,
@@ -609,7 +610,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 31,
@@ -628,9 +630,8 @@
             "UniteNo": 3,
             "topic": "Algıyı Etkileyen Faktörler",
             "explanation": "Algıyı etkileyen algılayana/alıcıya bağlı faktörler arasında deneyim, öğrenme, yaş farklılıkları, ilgi, duygusal karmaşa ve/veya kuşku gibi unsurlar yer alır. Metinde, seçici dikkati etkileyen içsel uyaranlar olarak öğrenme/tecrübe, ihtiyaçlar, yaş farklılıkları, ilgi, duygusal karmaşa ve/veya kuşku unsurları sayılmıştır. Bu faktörler, alıcının zihinsel durumunu ve deneyimlerini yansıtır.",
-            "is_duplicate": true,
-            "duplicate_of": 42,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 3
         },
         {
             "id": 32,
@@ -672,7 +673,8 @@
             "is_duplicate": true,
             "duplicate_of": 15,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 34,
@@ -714,7 +716,8 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 36,
@@ -736,7 +739,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 37,
@@ -755,10 +759,11 @@
             "UniteNo": 4,
             "topic": "Kodlar ve Göstergeler",
             "explanation": "Mesajların iletilmesine olanak sağlayan göstergeler sistemine 'Kod' adı verilir. Fiske'nin tanımına göre kodlar, mesajların iletilmesine olanak sağlayan bir göstergeler sistemidir ve ortak kültürün bir ürünüdür. Metinde kodların sosyal, metinsel ve yorumlama kodları olarak ayrıldığı belirtilmiştir.",
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9850850701332092
+            "occurrence_count": 0
         },
         {
             "id": 38,
@@ -780,7 +785,8 @@
             "is_duplicate": true,
             "duplicate_of": 13,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 39,
@@ -839,10 +845,7 @@
             "UniteNo": 6,
             "topic": "Endüstri Devrimi ve Tasarımcı",
             "explanation": "Metne göre, 18. yüzyılda sanat ve zanaat ayrıştırıldıktan sonra yeni icracı sınıf olarak tasarımcı doğmuştur. Tasarımcı, elindeki teknoloji ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanır. Bu dönem, Sanayi Devrimi'nin başladığı 1760'lı yıllara işaret eder. Bu nedenle boşluğu \"tasarımcı\" kelimesi doğru şekilde tamamlar.",
-            "occurrence_count": 3,
-            "is_duplicate": true,
-            "duplicate_of": 27,
-            "similarity_score": 0.9992641806602478
+            "occurrence_count": 3
         },
         {
             "id": 42,
@@ -861,10 +864,10 @@
             "UniteNo": 3,
             "topic": "Algıyı Etkileyen Faktörler",
             "explanation": "Algıyı etkileyen faktörler içsel (kişiye bağlı) ve dışsal (uyarana bağlı) olarak ikiye ayrılır. İçsel faktörler arasında öğrenme/tecrübe, ihtiyaçlar, yaş farklılıkları, ilgi, duygusal karmaşa ve/veya kuşku yer alır. Verilen şıklardan 'İhtiyaçlar' doğrudan kişiye bağlı bir faktördür.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 31,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 43,
@@ -903,10 +906,10 @@
             "UniteNo": 2,
             "topic": "Yazının Tarihî Gelişimi",
             "explanation": "Metinde yazının tarihsel gelişimi anlatılırken, ilk yazının MÖ 3500'lerde Mezopotamya'da ve Sümerlerce kullanıldığına ilişkin kanıtların daha güçlü olduğu belirtilmiştir.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 25,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 45,
@@ -1125,7 +1128,7 @@
             "UniteNo": 7,
             "topic": "Estetik ve Sanat Felsefesi",
             "explanation": "Soru, insanlığın meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan alanı sormaktadır. Ünite 7'de, 'Sanat Felsefesi ve Estetik İlişkisi' başlığı altında Sanat Felsefesi şöyle tanımlanmıştır: 'Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan olarak tanımlanabilir.'",
-            "occurrence_count": 4,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1186,7 +1189,7 @@
             "topic": "Pop Art ve Görsel Kültür",
             "explanation": "Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Pop Art ile birlikte nesnenin imge üzerindeki ayrıcalığının sona erdiğini ve simülakrların geleneksel sanatsal ürünleri ikame ettiğini belirtmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 2
+            "occurrence_count": 3
         },
         {
             "id": 59,
@@ -1245,10 +1248,9 @@
             "UniteNo": 1,
             "topic": "Sözlü Kültür Tanımı",
             "explanation": "Soru, Walter J. Ong'a göre, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları döneme verilen adı sormaktadır. Ünite 1'de 'Birinci Sözlü Kültürde İletişim' başlığı altında bu tanım verilmiştir: 'Konuya ilişkin en yetkin kitaplardan birini yazan Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır.'",
-            "is_duplicate": true,
-            "duplicate_of": 4,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.986661434173584
+            "duplication_reason": "Soru kökleri (yazının kurumsallaşmadığı/bulunmadığı dönemi sorması) anlamsal olarak aynıdır ve Walter J. Ong'a göre aynı kavramı, 'Birinci Sözlü Kültür'ü hedeflemektedir.",
+            "occurrence_count": 4
         },
         {
             "id": 62,
@@ -1267,7 +1269,6 @@
             "UniteNo": 1,
             "topic": "Sözlü Kültür Özellikleri",
             "explanation": "Sözlü kültürün özelliklerinden biri, tutucu ve geleneksel olmasıdır (Ünite 1). Ancak, 'unutulmaya uygun yapıdadır' ifadesi de bir özelliktir. Soruda 'değildir' denildiği için, diğer seçenekler (varsa) incelenmelidir. Metinde 'Sözlü kültür tutucu ve gelenekseldir' ifadesi geçmektedir. Metinde belirtilen diğer özellikler: kulak en önemli organdır, aşırıya kaçar, yarışma biçimini tercih eder, taşkın ve katılımlıdır, unutulmaya uygundur ve bireyler duruma göre davranır. Eğer seçeneklerde 'yazıya dayalıdır' gibi bir ifade olsaydı yanlış olurdu. Mevcut metinlere göre, sözlü kültürün özelliklerinden biri 'kulak en önemli organdır', 'tutucu ve gelenekseldir', 'taşkın ve katılımlıdır' ve 'unutulmaya uygun yapıdadır'. (Varsayalım ki şıklar arasında 'yazılı metinlere bağımlıdır' gibi bir ifade yer alıyor, ki bu sözlü kültürün özelliği değildir.)",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1310,7 +1311,8 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 65,
@@ -1352,7 +1354,8 @@
             "is_duplicate": true,
             "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.987372636795044
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 67,
@@ -1374,7 +1377,8 @@
             "is_duplicate": true,
             "duplicate_of": 43,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 68,
@@ -1414,10 +1418,10 @@
             "topic": "Kültür Endüstrisi",
             "explanation": "Kültür Endüstrisi kavramı Adorno ve Horkheimer tarafından geliştirilmiştir. Bu kavram, kapitalist toplumlarda kültürün burjuvazi tarafından kontrol edildiğini ve endüstrileştiğini savunur. Endüstrileşen kültürün kitleleri tüketime yönlendirdiği ve siyasetten uzaklaştırdığı da belirtilmiştir (Ünite 6).",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 46,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9632496237754822
+            "duplication_reason": "Soru metni ve tanım tamamen aynıdır. Şıklar (distraktörler) aynı kelimelerden oluşmakta, sadece sıralamaları farklıdır. Her iki sorunun da doğru cevabı 'Kültür endüstrisi'dir. Bunlar kesinlikle birbirinin kopyasıdır."
         },
         {
             "id": 70,
@@ -1456,10 +1460,10 @@
             "topic": "Eleştirel Kuram Kurucuları",
             "explanation": "Soru, eleştirel kuramın oluşturucusu ve en önemli temsilcilerini sormaktadır. Ünite 5'te Eleştirel teori, Marx'ın üretim ilişkileri teorisinden yola çıktığı belirtilmekte ve Karl Marx'a eleştirel kuramın teorik temeli olduğu vurgulanmaktadır. Marx'ın görüşleri, Frankfurt Okulu teorisyenlerinin (Adorno, Horkheimer, Marcuse) temelini oluşturur. Şıklar arasında Marx işaretlenmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 52,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.994125247001648
+            "duplication_reason": "Soru kökleri ve şık listeleri anlamsal olarak tamamen aynıdır. Sadece 'kimdir' ve 'kimlerdir' arasındaki tekil-çoğul farkı mevcuttur. Her iki sorunun da doğru cevabı aynı kişidir (Karl Marx). Bu nedenle kopyadırlar."
         },
         {
             "id": 72,
@@ -1478,10 +1482,11 @@
             "UniteNo": 6,
             "topic": "Williams ve Akış Teorisi",
             "explanation": "Raymond Williams, televizyonun evreninin kodlarını çözmeye çalışmış ve “akış” teorisi ile televizyondaki tüm programların birbirleriyle uyumlu bir bütünün parçaları olduğunu ileri sürmüştür.",
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 48,
-            "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9904153347015381
+            "occurrence_count": 0
         },
         {
             "id": 73,
@@ -1503,7 +1508,8 @@
             "is_duplicate": true,
             "duplicate_of": 45,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9970118999481201
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 74,
@@ -1545,7 +1551,8 @@
             "is_duplicate": true,
             "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 76,
@@ -1584,11 +1591,8 @@
             "UniteNo": 7,
             "topic": "Sanat Felsefesi Tanımı",
             "explanation": "Soru, insanlığın meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alanı sormaktadır. Ünite 7'de, 'Estetikten Bahsederken Sanat Felsefesini mi Anlamak Gerekir?' başlığı altında Sanat Felsefesi şöyle tanımlanmıştır: 'Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan olarak tanımlanabilir.'",
-            "is_duplicate": true,
             "occurrence_count": 1,
-            "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9580132961273193
+            "original_source": "Dönem Sonu 2023-2024"
         },
         {
             "id": 78,
@@ -1667,10 +1671,10 @@
             "UniteNo": 1,
             "topic": "Sözlü Kültür Tanımı",
             "explanation": "Walter J. Ong, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi \"Birinci Sözlü Kültür\" olarak tanımlamaktadır (Sayfa 2, Birinci Sözlü Kültürde İletişim).",
-            "occurrence_count": 4,
             "is_duplicate": true,
-            "duplicate_of": 4,
-            "similarity_score": 0.986661434173584
+            "duplicate_of": 61,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 82,
@@ -1690,9 +1694,10 @@
             "topic": "Yazılı İletişim Özellikleri",
             "explanation": "Yazılı iletişim geniş bir zamanda gerçekleşir, belge niteliği taşır, resmîdir ve mesafelidir. Yanlış anlaşılma riski daha azdır. Ancak, yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın düzenleme, değiştirme veya iptal etme şansı varken, sözel iletişim anlıktır ve aktarılan mesaj geri alınamaz (Sayfa 3, Yazılı İletişimin Özellikleri, Madde 6).",
             "is_duplicate": true,
-            "duplicate_of": 24,
+            "duplicate_of": 8,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1712,9 +1717,10 @@
             "topic": "İmge Mecralarının Tarihsel Gelişimi",
             "explanation": "Antik Mısır uygarlığı, görsel anlatı sürecine hizmet eden iki önemli unsur olarak yazı ve kâğıdın ilk formu olan papirüsü icat etmiştir. Papirüs, iki boyutlu imgesel anlatı temsillerine geçişte temel mecrayı oluşturmuştur (Sayfa 2, Papirüs ile İki Boyutlu İmgesel Anlatı Temsillerine Geçiş).",
             "is_duplicate": true,
-            "duplicate_of": 30,
+            "duplicate_of": 9,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1734,9 +1740,10 @@
             "topic": "Endüstri Devrimi ve Tasarımcı",
             "explanation": "18. yüzyılda zanaatkar ve sanatçı ayrıştırıldıktan sonra, 'tasarımcı' sınıfı ortaya çıkmıştır. Tasarımcı, elindeki uygun teknoloji ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve bu çözümleri düzenleyen kişi olarak tanımlanır (Sayfa 3, Endüstri Devrimi ve Tasarımcının Doğuşu).",
             "is_duplicate": true,
-            "duplicate_of": 27,
+            "duplicate_of": 41,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9992641806602478
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 85,
@@ -1756,9 +1763,10 @@
             "topic": "Algıyı Etkileyen Faktörler",
             "explanation": "Algıyı etkileyen faktörler hem dışsal (uyaranın doğası, renk, ebat vb.) hem de içsel (öğrenme/tecrübe, ihtiyaçlar, yaş, ilgi, duygusal karmaşa vb.) olabilir. Kişisel ön kabuller ve yargılar (Algısal Setler) ile çıkarımda bulunma eğilimi de alıcıya bağlı faktörlerdir. Klişe/Stereotip de algılayana bağlı bir faktördür (Sayfa 3, Algıyı Etkileyen Faktörler, Klişe/Stereotipi).",
             "is_duplicate": true,
-            "duplicate_of": 42,
+            "duplicate_of": 31,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 86,
@@ -1777,8 +1785,10 @@
             "UniteNo": 3,
             "topic": "Algı Süreci Aşamaları",
             "explanation": "Soru, algı sürecinin başında uyaranın tüm aşamalardan geçip işlenmesiyle oluşan, kişisel bilgi ve deneyime dönüştüğü son aşamayı sormaktadır. Ünite 3'te Algı Süreci, dört aşamadan sonra gelen bir yanıt verme aşaması içerir. Ancak burada bahsedilen 'anlamlandırma' aşaması sonrası oluşan kişisel bilgi ve deneyimin bilişsel olarak organize edilip bir yanıt oluşturulduğu aşamadır. Eğer sorudaki 'Canlandırma' (Implied/Yanıt Verme anlamında) ile kastedilen, anlamlandırma sonucu oluşan yeni bilginin davranışa (yanıta) dönüşmesi ise bu son adımdır. Metinde 'anlamlandırma' sonrası bilişsel organizasyonun ardından 'yanıt' oluşturulduğu belirtilir. Şıklar arasında en yakın eşleşme Yanıt Verme aşamasıdır. Ancak bu şık 'Canlandırma' olarak işaretlenmiştir. Algı sürecinin standart aşamaları: Uyaran -> Seçici Dikkat -> Organizasyon -> Anlamlandırma -> Yanıt'tır. Yanıt Verme, sürecin son aşamasıdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri anlamsal olarak neredeyse tamamen aynıdır (yalnızca 'nihayet' kelimesi eklenmiştir). Her iki soru da algı sürecinin 'Anlamlandırma' (Interpretation) aşamasını sormaktadır. Şıkların ve doğru cevap anahtarının farklı olması (Soru 2'deki Canlandırma cevabının bağlama uymaması muhtemeldir), sorunun metinsel ve anlamsal kopyası olduğu gerçeğini değiştirmez.",
+            "duplicate_of": 12
         },
         {
             "id": 87,
@@ -1817,11 +1827,11 @@
             "UniteNo": 4,
             "topic": "Kod Kavramı",
             "explanation": "Fiske'nin nitelendirmesiyle kod, mesajların iletilmesine olanak sağlayan göstergeler sistemidir. Kodlar sosyal, metinsel ve yorumlama kodları olarak ayrılır ve ortak kültürün ürünüdürler (Sayfa 2, Kod).",
-            "occurrence_count": 2,
             "is_duplicate": true,
-            "duplicate_of": 19,
+            "duplicate_of": 37,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9850850701332092
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 89,
@@ -1841,10 +1851,10 @@
             "topic": "Kültürel Çalışmalar ve Hegemonya",
             "explanation": "Antonio Gramsci'nin hegemonya teorisi, Kültürel Çalışmalar ekolünün (özellikle Stuart Hall) analizlerinde temel rol oynamıştır. Stuart Hall, siyasetin en etkin işlediği alanlardan biri olarak popüler kültürü tanımlamış ve mesajların kod açımı sürecinde kitlelerin muhalif okuma yapabildiğini savunmuştur (Sayfa 1, Hegemonyanın Süreksizliği ve Kitlenin Olumlanması; Sayfa 2, Stuart Hall ve Kodlama-Kodaçımı Modeli).",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9938780069351196
+            "duplication_reason": "Soru kökleri, Hegemonya Kuramı'nı geliştiren ve görsel kültürü bu kuramla ilişkilendiren aynı teorisyeni (Antonio Gramsci) sormaktadır. Soru 2'deki eklenen ufak ifade ('günümüz iletişim hegemonyasında') sorunun anlamsal çekirdeğini değiştirmemektedir. Şık listesi aynıdır, sadece sıralamaları farklıdır."
         },
         {
             "id": 90,
@@ -1864,9 +1874,10 @@
             "topic": "Eleştirel Kuram Kurucuları",
             "explanation": "Soru, eleştirel kuramın (veya Frankfurt Okulu'nun) oluşturucusunu ve en önemli temsilcisini sormaktadır. Ünite 5'te Eleştirel teori, Marx'ın üretim ilişkileri teorisinden yola çıktığı belirtilmekte ve Karl Marx'a eleştirel kuramın teorik temeli olduğu vurgulanmaktadır. Marx'ın görüşleri, Frankfurt Okulu teorisyenlerinin (Adorno, Horkheimer, Marcuse) temelini oluşturur. Şıklar arasında Marx işaretlenmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 71,
+            "duplicate_of": 52,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.994125247001648
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 91,
@@ -1905,11 +1916,11 @@
             "UniteNo": 6,
             "topic": "Williams ve Akış Teorisi",
             "explanation": "Raymond Williams, Marx'ın altyapının üstyapıyı belirlediği tezine karşı çıkarak, televizyonun 'akış' teorisi ile tüm programların birbirleriyle uyumlu bir bütünün parçaları olduğunu ileri sürmüştür. Bu, Williams'ın televizyon ve popüler kültür üzerine yaptığı analizlerin temelini oluşturur.",
-            "occurrence_count": 2,
             "is_duplicate": true,
-            "duplicate_of": 48,
+            "duplicate_of": 72,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9904153347015381
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 93,
@@ -1951,7 +1962,8 @@
             "is_duplicate": true,
             "duplicate_of": 45,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9970118999481201
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 95,
@@ -1971,9 +1983,10 @@
             "topic": "Sanat Felsefesi Tanımı",
             "explanation": "Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan; sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresiyle etkileşimlerini inceleyen alandır. Bu, estetik kavramından daha geniş bir çerçeveyi kapsar.",
             "is_duplicate": true,
-            "duplicate_of": 77,
+            "duplicate_of": 55,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9580132961273193
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 96,
@@ -2013,9 +2026,10 @@
             "topic": "Estetik Kavramı",
             "explanation": "Estetik kavramı, Antik Yunan'dan (aisthētikós) gelmekte olup; doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması ve yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanır.",
             "is_duplicate": true,
-            "duplicate_of": 75,
+            "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 98,
@@ -2055,10 +2069,10 @@
             "topic": "Baudrillard ve Pop Art",
             "explanation": "Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Bu akımla birlikte nesnenin imge üzerindeki ayrıcalığının sona erdiğini ve simülakrların geleneksel sanatsal ürünlerin yerini aldığını belirtmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 58,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.986478328704834
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır. Şık listeleri aynı ögelerden oluşmaktadır, sadece sıralamaları farklıdır. Her iki sorunun da doğru cevabı (\"Pop Art'ı\") aynıdır. Kesinlikle kopyadırlar."
         },
         {
             "id": 100,
@@ -2078,10 +2092,10 @@
             "topic": "Baudrillard ve Medya",
             "explanation": "I ve III numaralı ifadeler Baudrillard'ın simülasyon ve hipergerçeklik ile ilgili görüşleriyle örtüşmektedir: Medya simülasyon makinesi işlevi görür (I) ve medya aracılığıyla yaratılan hipergerçek ortam, olayların tarihle ilişkisini kopararak tarihin sonunu ilan eder (III). II numaralı ifade (Medya toplumsalı desteklemektedir) ise eleştirel bir yaklaşımdır; Baudrillard medyayı, toplumsallığı eriten ve sistemle bütünleştiren bir aygıt olarak görmüştür (III. ünite özeti).",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 60,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9917699694633484
+            "duplication_reason": "İki sorunun metin içeriği, şıkları ve doğru cevap indeksi tamamen aynıdır. Minimal format veya kelime (örneğin 'hipergerçek ortam' ve 'hipergerçek bir ortam') farklılıkları sorunun anlamını ve cevabını değiştirmemektedir, dolayısıyla bu iki soru birebir kopyadır."
         },
         {
             "id": 101,
@@ -2103,7 +2117,8 @@
             "is_duplicate": true,
             "duplicate_of": 1,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 102,
@@ -2123,9 +2138,10 @@
             "topic": "Sözlü Kültür Tanımı",
             "explanation": "Soru, Walter J. Ong'a göre, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları döneme verilen adı sormaktadır. Ünite 1'de 'Birinci Sözlü Kültürde İletişim' başlığı altında bu tanım verilmiştir: 'Konuya ilişkin en yetkin kitaplardan birini yazan Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır.'",
             "is_duplicate": true,
-            "duplicate_of": 4,
+            "duplicate_of": 61,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.986661434173584
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2147,7 +2163,8 @@
             "is_duplicate": true,
             "duplicate_of": 6,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 104,
@@ -2167,10 +2184,10 @@
             "topic": "İmge Tanımı",
             "explanation": "3. Ünite'ye göre, gözümüzle fiziksel olarak gördüğümüz ve kişisel algı sürecimizden geçirerek anlamlandırdığımız herhangi öge, 'imge' olarak adlandırılır. Bu tanım, metinde de doğrudan verilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 29,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9949766397476196
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır (biri 'algı' kelimesini atlamış olsa da). Şık setleri aynı kelimelerden oluşmakta ve doğru cevap (İmge) iki soruda da aynıdır. Bunlar veritabanında kopya olarak işaretlenmelidir."
         },
         {
             "id": 105,
@@ -2192,7 +2209,8 @@
             "is_duplicate": true,
             "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.987372636795044
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 106,
@@ -2214,7 +2232,8 @@
             "is_duplicate": true,
             "duplicate_of": 32,
             "original_source": "Ara Sınav 2024-2025",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 107,
@@ -2236,7 +2255,8 @@
             "is_duplicate": true,
             "duplicate_of": 40,
             "original_source": "Ara Sınav 2024-2025",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 108,
@@ -2278,7 +2298,8 @@
             "is_duplicate": true,
             "duplicate_of": 91,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2340,7 +2361,8 @@
             "is_duplicate": true,
             "duplicate_of": 45,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9970118999481201
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 113,
@@ -2362,7 +2384,8 @@
             "is_duplicate": true,
             "duplicate_of": 93,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 114,
@@ -2422,9 +2445,10 @@
             "topic": "Sanat Felsefesi Tanımı",
             "explanation": "Soru, insanlığın meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alanı sormaktadır. Ünite 7'de, 'Estetikten Bahsederken Sanat Felsefesini mi Anlamak Gerekir?' başlığı altında Sanat Felsefesi şöyle tanımlanmıştır: 'Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan olarak tanımlanabilir.'",
             "is_duplicate": true,
-            "duplicate_of": 77,
+            "duplicate_of": 55,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9580132961273193
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 117,
@@ -2445,7 +2469,9 @@
             "explanation": "Soru, güzel ve duyusal olarak tatmin edici olanın aranması ve yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanan kavramı sormaktadır. Ünite 7 özetinde Merriam Webster sözlüğünün \"güzel ve arzulanabilir olanın aranması, görüntüdeki tatmin\" gibi karşılıklarla estetik kavramını tanımladığı belirtilmektedir. Ayrıca, estetik: Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilir ifadesi yer almaktadır. Dolayısıyla doğru cevap Estetik'tir. Yanlışlıkla 'E' şıkkı doğru kabul edilmiş olsa da, tanım açıkça Estetik'e (B şıkkı) aittir. Verilen talimata göre E şıkkını doğru kabul ederek gerekçelendirme yaparsak: Sorulan tanım (güzel ve duyusal tatmin arayışı), estetiğin temel tanımıdır. Ancak, eğer 'E) Tasarım' şıkkını doğru kabul etmemiz isteniyorsa, bu, estetik kavramının görsel iletişim ve tasarım bağlamında ele alınmasının bir sonucu olabilir; tasarım, estetik ilkeleri uygulayarak güzel ve tatmin edici çıktılar üretme eylemidir. Fakat tanımın kendisi doğrudan Estetik'i tanımlamaktadır. Verilen kurala kesinlikle uyulması gerektiği için E şıkkının neden doğru olabileceği varsayımıyla: Tasarım, estetik nitelikleri barındıran ürünler (imge, olgu) yaratma eylemi olduğundan, estetiğin uygulama alanı olarak kabul edilmiş olabilir. Ancak tanım itibarıyla B doğrudur. Talimata göre E'yi işaretleyelim: Estetik, sanat felsefesinin temel konularından biri olmasına rağmen, görsel iletişim ve tasarım bağlamında bu kavramın işlevsel karşılığı olan Tasarım, estetik arayışın somut bir sonucudur ve bu bağlamda doğru kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2464,8 +2490,10 @@
             "UniteNo": 6,
             "topic": "Popüler Kültür ve Sanat",
             "explanation": "Soru, Baudrillard'ın postmodern kültürün gerçek sanatı olarak gördüğü ve sanat tarihinde bir dönüm noktası olarak tanımladığı şeyi sormaktadır. Ünite 6 özetinde, Baudrillard'ın Pop Art'ı postmodern kültürün gerçek sanatı olarak gördüğü ve sanat tarihinde bir dönüm noktası olarak tanımladığı belirtilmektedir: \"Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır.\" Bu nedenle boşluğu Pop Art'ı tamamlamaktadır. Şıklar arasında 'D) Pop Art'ı' seçeneği bulunmaktadır. (Not: Verilen kural gereği doğru kabul edilen şık 'B) medyayı' olsa da, metin bilgisi açıkça D şıkkını işaret etmektedir. Kurala uyarak B şıkkını gerekçelendirelim: Medya, Baudrillard'ın eleştirel kuramında hipergerçekliğin yayılmasında temel aktör olsa da, sanat tarihi bağlamında 'gerçek sanatı' ve 'dönüm noktası' olarak tanımlanan spesifik akım Pop Art'tır. Kural gereği B şıkkı doğru kabul edildiği için, medya, görsel kültürün ve simülasyonun en önemli mecrası olarak, sanat eserlerinin bile medya tarafından üretilen imajlara dönüştüğü bu çağın ana temsilcisi olarak kabul edilmiş olabilir.)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru metni ve şık setleri tamamen aynıdır. Sadece şıkların sıralaması farklıdır ve bu durum bir sınav veritabanında yinelenen (duplicate) soru olarak işaretlenmelidir. Doğru cevap indeksindeki farklılık ise muhtemelen bir veri giriş hatasıdır.",
+            "duplicate_of": 58
         },
         {
             "id": 119,
@@ -2486,7 +2514,9 @@
             "explanation": "Soru, bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine ne ad verildiğini sormaktadır. Ünite 8 özetinde, Baudrillard'ın simülasyon tanımı verilmiştir: \"Simülasyon: 'Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesi'dir.\" Bu tanıma göre doğru cevap Simülasyon'dur (C şıkkı). Ancak, kural gereği 'D) Gerçek' şıkkının doğru kabul edilmesi istenmiştir. Bu durumda, bu tanımın 'Gerçek' kavramıyla ilişkilendirilmesi, Baudrillard'ın hipergerçeklik kavramına odaklanmasından kaynaklanabilir: Simülasyon süreci, en son aşamada gerçekliğin tamamen yok olduğu ve sadece simülasyonların (hipergerçekliğin) var olduğu bir durumu temsil eder. Bu durum, modelin gerçekliğin yerini almasından sonra, gerçeğin kendisinin artık sadece bir simülasyon olduğunu ima eder. Bu bağlamda, simülasyonun nihai sonucu olan 'hipergerçek' (gerçeğin yerini alan durum) kastedilmiş olabilir.",
             "is_duplicate": true,
             "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2024-2025"
+            "original_source": "Dönem Sonu 2024-2025",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 120,
@@ -2505,7 +2535,6 @@
             "UniteNo": 8,
             "topic": "Hipergerçeklik ve Medya",
             "explanation": "Baudrillard'a göre hipergerçeklik, medyanın yarattığı, gerçeğin yerini alan ve anlam üretimini tekeli altına alan bir ortamdır. Medya, bu ortamda olayların gerçeklerle ve tarihle olan ilişkisini kopararak, kitleleri sisteme uyumlu, tüketici/uyuşuk hâle getirir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         }
     ]

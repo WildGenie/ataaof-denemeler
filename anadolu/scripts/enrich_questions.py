@@ -205,7 +205,7 @@ def enrich_questions_batch(questions, summary_uris):
 
         print(f"  Generating enrichments for {len(questions)} questions...", end="", flush=True)
         response = client.models.generate_content(
-            model="gemini-flash-lite-latest",
+            model="gemini-flash-latest",
             contents=contents,
             config=generate_content_config
         )
@@ -289,7 +289,7 @@ def enrich_course_questions(course_name, donem, no_cache=False):
 
     # Load existing enriched data if available to preserve progress
     existing_questions = []
-    if os.path.exists(enriched_json_path):
+    if not no_cache and os.path.exists(enriched_json_path):
         try:
             with open(enriched_json_path, 'r', encoding='utf-8') as f:
                 existing_data = json.load(f)

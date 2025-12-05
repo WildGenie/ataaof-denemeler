@@ -34,9 +34,9 @@
             "exam_question_number": 2,
             "source": "Ara Sınav 2022-2023",
             "material_id": "523118",
-            "UniteNo": 2,
-            "topic": "Akıl Yürütme ve Çıkarım",
-            "explanation": "Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütüne 'çıkarım' (uslamlama) denir. Ünite 2'de, çıkarımların bir veya daha çok elemana sahip bir öncül kümesinden ve bir sonuçtan oluştuğu belirtilmektedir.",
+            "UniteNo": 1,
+            "topic": "Rus Biçimciliği ve Algı",
+            "explanation": "Soruda bahsedilen temel görüş, sanatın alışkanlık haline gelen algıyı kırması gerektiğidir. Ünite 1'deki 'Rus Biçimciliği Kuramı' başlığı altında bu durum açıklanmaktadır: Rus Biçimcilerine göre, insanoğlu sürekli bakarak ve yaşayarak olaylara alışır ve bu durum \"alışkanlığa dönüşen algılama\" ile sonuçlanır. Bunun sonucunda artık şeyleri gerçek anlamda görmeyiz. Sanatın işlevi, bu alışkanlıkları kırmak ve gerçekliği alışılmadık, değişik bir biçimde, yani sanatsal 'Biçim' aracılığıyla yeniden sunmak ve algılatmaktır. Bu yöntem, gerçekliği yansıtmayı amaçlayan diğer kuramların aksine, formun ve sunuş biçiminin önemini vurgular. Bu bağlamda, alışkanlıkları Biçim yoluyla kırmayı savunan kuram Rus Biçimciliği'dir.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -298,7 +298,7 @@
             "topic": "Sanatın estetik tasarımı",
             "explanation": "Nesnel gerçekliğin insan zihnindeki estetik tasarımı, sanat bağlamında 'imge' olarak tanımlanır. Bu imge, sanatçının dünyaya bakış açısını ve o konuyu nasıl ele aldığını gösterir. (Ünite 5, Sayfa 2: 'Sanatın dilinde, sanat bağlamında ise imge, nesnel gerçekliğin insan zihnindeki estetik tasarımı olarak tanımlanır...') veya 'Estetik Yaşantı Kuramı' bağlamında da değerlendirilebilir ancak en doğrudan tanım imgedir.",
             "is_duplicate": false,
-            "occurrence_count": 2
+            "occurrence_count": 1
         },
         {
             "id": 16,
@@ -440,7 +440,8 @@
             "is_duplicate": true,
             "duplicate_of": 11,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 23,
@@ -459,11 +460,8 @@
             "UniteNo": 5,
             "topic": "Resimde Biçimcilik ve Yapısalcılık",
             "explanation": "Resimde, nesnel gerçekliğin insan zihnindeki estetik tasarımı, biçimci kuramların temel konusudur. Anglo-Amerikan Biçimcileri'ne göre sanat eserinde önemli olan 'nasıl söylediğidir' yani yapısal-biçimsel yaklaşımdır (Ünite 5, \"Biçimcilik Kuramları\").",
-            "is_duplicate": true,
             "occurrence_count": 1,
-            "duplicate_of": 15,
-            "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.983110785484314
+            "original_source": "Ara Sınav 2022-2023"
         },
         {
             "id": 24,
@@ -485,7 +483,8 @@
             "is_duplicate": true,
             "duplicate_of": 18,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 25,
@@ -507,7 +506,8 @@
             "is_duplicate": true,
             "duplicate_of": 6,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 26,
@@ -546,11 +546,11 @@
             "UniteNo": 6,
             "topic": "Çağdaş Heykel ve Eleştiri",
             "explanation": "Tiyatronun sadece sahnede yapılan bir etkinlik olmasından ziyade, \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir\" görüşünü savunan, avangartlar döneminin önemli sanatçılarından biri Marcel Duchamp'tır (Fountain/Çeşme eseri ile). Bu, geleneksel heykel anlayışına (ki burada tiyatro bağlamında soruluyor, ancak Duchamp görsel sanatlarda bu radikal değişimi başlattı) karşı bir eleştiri getirmiştir. Sorunun odak noktası tiyatroda radikal eleştiri getiren avangartlar ise, Duchamp'ın temsil ettiği kavramsal sanatın kökenine bakılmalıdır. (Not: Materyalde 6. Ünite'de Duchamp'ın 'Fountain' eseri \"yapısökümcü bir realite\" olarak anlatılıyor ve bu, heykelde eleştirel mantığın gelişimi bağlamında sunuluyor.)",
-            "occurrence_count": 2,
+            "original_source": "Ara Sınav 2022-2023",
+            "duplication_reason": "Semantic Similarity (0.98)",
             "is_duplicate": true,
             "duplicate_of": 14,
-            "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.981004536151886
+            "occurrence_count": 0
         },
         {
             "id": 28,
@@ -612,7 +612,8 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 31,
@@ -654,7 +655,8 @@
             "is_duplicate": true,
             "duplicate_of": 13,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.990313708782196
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 33,
@@ -736,7 +738,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 37,
@@ -798,7 +801,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 40,
@@ -817,9 +821,8 @@
             "UniteNo": 2,
             "topic": "Akıl Yürütme Kuralları",
             "explanation": "Ünite 2'de 'Çıkarım Kuralları' başlığı altında bu formlar listelenmiştir. P veya Q; Değil-P; Öyleyse Q formülü, Modus Tollendo Ponens (MTP) kuralının formudur.",
-            "is_duplicate": true,
-            "duplicate_of": 135,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "occurrence_count": 2
         },
         {
             "id": 41,
@@ -879,10 +882,10 @@
             "topic": "Hatalı Akıl Yürütme (Safsata)",
             "explanation": "Verilen ifade, 'ya bana oy verirsiniz ya da kötü hizmet alırsınız' şeklinde iki seçenek sunarak başka seçeneklerin varlığını yok saymaktadır. Bu, 'Yanlış İkilem Safsatası (False Dilemma)'nın bir örneğidir, çünkü iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilmektedir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 29,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.997604489326477
+            "duplication_reason": "Soru metni (anlamsal olarak) ve tüm şıklar aynıdır. Şıkların sadece sıralaması değişmiştir. Bu iki soru tamamen birbirinin kopyasıdır."
         },
         {
             "id": 44,
@@ -904,7 +907,8 @@
             "is_duplicate": true,
             "duplicate_of": 8,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 45,
@@ -926,7 +930,8 @@
             "is_duplicate": true,
             "duplicate_of": 13,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.990313708782196
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 46,
@@ -966,9 +971,10 @@
             "topic": "Gerçekçilik Kuramı",
             "explanation": "Metinde, 'Roman, büyük bir yolun üstünde gezdirilen bir aynadır' sözünün Stendhal'a ait olduğu belirtilmektedir. Ayrıca Gerçekçilik Kuramının en önemli temsilcileri Balzac, Flaubert ve Emile Zola olarak sıralanır ve gerçekçiliğin 'yaşanan gerçeklik'i anlatma amacını taşıdığı belirtilir.",
             "is_duplicate": true,
-            "duplicate_of": 36,
+            "duplicate_of": 9,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 48,
@@ -988,9 +994,10 @@
             "topic": "Tiyatro Eleştirisi ve Kuramları",
             "explanation": "Soru 14'te de belirtildiği gibi, tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı çıkan ve \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir.\" görüşünü savunan sanatçı, 20. Yüzyıl Tiyatrosu'nda avangartlar arasında yer alan Schechner'dır (Kenneth S. Teisler'in görüşleri bağlamında da yer alabilir, ancak Schechner, çevresel tiyatro ve performans çalışmalarıyla bu sınırlamayı radikal bir şekilde aşmıştır. Verilen şıklar arasında, geleneksel sınırlamalara en radikal eleştiriyi getiren isim olarak Schechner'ı işaretlemek doğru kabul edilmiştir.)",
             "is_duplicate": true,
-            "duplicate_of": 14,
+            "duplicate_of": 27,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.981004536151886
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 49,
@@ -1052,7 +1059,8 @@
             "is_duplicate": true,
             "duplicate_of": 19,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 52,
@@ -1132,9 +1140,10 @@
             "topic": "Rönesans Öncesi Müzik",
             "explanation": "Rönesans öncesi dönemin müziğinde temel ilke kalıpları tekrarlamaktır. Ancak Orta Çağ'ın son dönemlerinde, Hildegard von Bingen gibi figürler (kendisi bir rahibe-bestecidir) daha geniş bir ses bölgesi için ilahiler besteleyerek yenilikçi adımlar atmışlardır (Ünite 4'te doğrudan bahsi geçmese de, bu dönemde kilise kontrolünde yenilik arayışının başladığı vurgulanır; Hildegard bu dönemin önemli figürlerindendir).",
             "is_duplicate": true,
-            "duplicate_of": 25,
+            "duplicate_of": 6,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 56,
@@ -1154,9 +1163,10 @@
             "topic": "Yansıtma Kuramı",
             "explanation": "Platon, sanatın kaynağını açıklamak için Prometheus söylencesine başvurduğu ve sanatın idealin yansıması olduğunu ileri sürerek Yansıtma Kuramı'nı ortaya koymuştur (Metin, Platon'un 'İdealar' kuramına değinir, ancak Prometheus'a doğrudan atıf Ünite 3 metninde yoktur; ancak Yansıtma Kuramı'nın kurucusu olarak Platon işaret edilir. Genellikle sanatın kaynağına dair mitolojik anlatılara başvuran ilk düşünür olarak kabul edilir).",
             "is_duplicate": true,
-            "duplicate_of": 30,
+            "duplicate_of": 5,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 57,
@@ -1175,9 +1185,8 @@
             "UniteNo": 4,
             "topic": "Besteci Sözleri ve Yaklaşımları",
             "explanation": "Bu sözler (Para, alkış falan gözümde yok... Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni...) eskilere başkaldıran, yenilikçi ve toplumsal düzeni sorgulayan bir tutumu ifade eder. Ünite 4'te, 19. yüzyılın ilerlemeci bestecileri (Liszt ve Wagner öncülüğünde) ile gelenekçiler arasındaki çekişme anlatılır. İlhan Usmanbaş, müziğin toplumsal işlevi ve yenilikçi arayışları ile tanınan, geleneksel yapıları sorgulayan bir bestecidir. Bu sözler, özellikle yenilikçi ve geleneksel kalıpları kırma isteğini vurguladığı için İlhan Usmanbaş'a atfedilir (veya bu ruh halini en iyi yansıtanlardan biridir).",
-            "is_duplicate": true,
-            "duplicate_of": 92,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 3
         },
         {
             "id": 58,
@@ -1219,7 +1228,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 60,
@@ -1241,7 +1251,8 @@
             "is_duplicate": true,
             "duplicate_of": 28,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 61,
@@ -1560,7 +1571,7 @@
             "UniteNo": 1,
             "topic": "Spor Eleştirisi",
             "explanation": "Ünite 1'de Spor Eleştirisi başlığı altında, spor eleştirisinin genel olarak beceri ve performans değerlendirmesi olduğu belirtilir. Spor eleştirisinde rekabet karşılaşmalarındaki sporcuların estetik, uyum, beceri, yetenek gibi temel yetkinlikleri saptanarak değerlendirilir.",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1681,9 +1692,10 @@
             "topic": "İnformel Safsatalar",
             "explanation": "Sözü edilen safsata türü Kişi Karalama Safsatasıdır (Argumentum ad Hominem). Ünite 8'de, bu safsatanın bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıktığı ve Latince 'insana' anlamına geldiği belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 44,
+            "duplicate_of": 8,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1705,7 +1717,8 @@
             "is_duplicate": true,
             "duplicate_of": 61,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9754645824432373
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1747,7 +1760,8 @@
             "is_duplicate": true,
             "duplicate_of": 4,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 86,
@@ -1808,7 +1822,9 @@
             "explanation": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein, özellikle Pop-Art akımı ile tanınırlar. Ünite 5'te Pop-Art başlığı altında, Hamilton'ın 'Günümüz Evlerini Bu Kadar Farklı ve Çekici Yapan Nedir?' adlı kolajının ikonik olduğu; Warhol'un seri üretim ve popüler kültür ögelerini kullandığı; Lichtenstein'ın ise çizgi roman figürlerini kullandığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 77,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 89,
@@ -1830,7 +1846,8 @@
             "is_duplicate": true,
             "duplicate_of": 10,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 90,
@@ -1852,7 +1869,8 @@
             "is_duplicate": true,
             "duplicate_of": 65,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 91,
@@ -1874,7 +1892,8 @@
             "is_duplicate": true,
             "duplicate_of": 69,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 92,
@@ -1893,10 +1912,10 @@
             "UniteNo": 4,
             "topic": "Besteci İdeolojisi",
             "explanation": "Verilen sözler, sanatın toplumsal düzeni bozma, şaşırtma ve yeni ifade yolları arama amacını vurgulamaktadır. Bu, 20. yüzyıl başındaki Avangart akımların ve ilerlemeci bestecilerin (Liszt, Wagner çizgisindeki) yaklaşımıyla örtüşmektedir. Özellikle, \"bir müzik yapıtı çoğu zaman besteci-icracı arasındaki etkileşimle doğar. Benzer şekilde bir tiyatro oyunu da yazar-oyuncu etkileşimiyle şekillenir\" bağlamında, yenilikçi ve sınırları aşan bir tavrı sergileyen besteciye işaret edilmektedir. Bu türden radikal yenilikçi ve toplumsal eleştiri içeren yaklaşımlar, Ünite 4'te özellikle Debussy'nin de bahsedildiği, geleneksel müziğin kalıplarını aşma çabasıyla paraleldir; ancak bu tarz isyankar bir manifestoya en yakın olanlar genellikle Avangartlardır. Verilen metinlerde, bu tarz radikal ifadelerin tam olarak hangi besteciye atfedildiğine dair kesin bir bilgi olmamakla birlikte, 20. yüzyılda tonaliteyi aşma eğilimi gösteren (Ünite 4, Sayfa 5: \"Tonaliteden Atonaliteye\") ve yenilikçi tavrıyla tanınan besteciler bu ruh halini yansıtır. Ancak, Türk bestecileriyle ilgili spesifik bir alıntı sorulduğunda ve Avangartlar bağlamında değerlendirildiğinde, bu tür isyankar ifadeler, bestecinin toplumsal/etik konulardaki eleştirel duruşunu gösterir. Genellikle bu tarz radikal ifadeler, modern dönem bestecilerinin (Ünite 4, Sayfa 4'te geçen Avangartlar) manifestolarında yer alır. Kaynaklarda bu sözlerin Igor Stravinsky veya Paul Hindemith gibi Batılı bestecilere atfedilen Avangart düşünce tarzıyla uyumlu olduğu görülür. Ancak, verilen özetlerde doğrudan bu cümlenin kime ait olduğu belirtilmemiştir. Eğer bu, bir Türk bestecisi sorusu ise, Ünite 4'te bahsedilen Türk bestecileri (örneğin Ulvi Cemal Erkin, Necil Kazım Akses vb.) bağlamında değerlendirilmelidir. Ancak verilen metinde Türk bestecileri hakkında bu tarz spesifik ve radikal bir alıntıya rastlanmamaktadır. Metinde, 19. yüzyılda bestecilerin sanatsal yaratıcılığını ispatlama çabasından bahsedilmektedir (Ünite 4, Sayfa 3). Bu tarz radikal söylemler genellikle 20. yüzyıl Avangart müziğiyle ilişkilendirilir. Eğer bu soru, müfredattaki bir özel bilgiye dayanıyorsa, verilen metinler arasında direkt bir eşleşme yoktur. Ancak, Ünite 4'teki 'Rönesans'tan 19. Yüzyıla Uzanan Süreçte Tiyatro'da' anlatılan (bestecinin/yazarın toplumsal düzene karşı duruşu) ruh haliyle en uyumlu olan, avangartların estetik tavrıdır. Verilen ünite metinlerinde, bu sözlerin genellikle Batı'da avangart bestecilere atfedilen bir düşünce yapısını yansıttığı kabul edilir. Verilen kaynak materyal, bu spesifik Türk bestecisi sorusuna doğrudan yanıt vermemektedir, ancak genel olarak 20. yüzyılın yenilikçi bestecilerinin estetik tavrını yansıtır. Türk bestecileri arasında, modern müziğin ilk kuşağının (örneğin Cemal Reşit Rey, Ulvi Cemal Erkin) erken dönemlerinde Batı'daki modern akımların etkisiyle benzer bir isyan ruhu taşıyan yaklaşımları mevcuttu. Bu sorunun doğru yanıtı, genellikle bu tarz radikal ifadeleriyle tanınan bir besteciye aittir. Kaynaklarda bu sözler genellikle, yenilikçi Türk bestecilerinden birine atfedilir. Genellikle bu türden isyankar ifadelerin, Türk müziğinde batılılaşma çabalarının en radikal olduğu dönemlerde öne çıkan bestecilere atfedildiği bilinir. Verilen ünite metinleri, Türk besteciler hakkında bu kadar spesifik bir alıntı sunmamaktadır. Ancak, eğer bu soru içeriğin bağlamına dayanarak (Avangart estetik, sınırları aşma) sorulmuşsa, bu tavır, Türk modern müziğinin yenilikçi kanadına aittir. (Bu sorunun cevabı, verilen metinlerde net bir şekilde yer almamaktadır, ancak bağlamı 4. Ünite'nin yenilikçi/avangart bestecilik ruhuna dayanmaktadır.)",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 57,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 93,
@@ -1958,7 +1977,8 @@
             "is_duplicate": true,
             "duplicate_of": 64,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 96,
@@ -2017,8 +2037,10 @@
             "UniteNo": 1,
             "topic": "Spor Eleştirisi",
             "explanation": "Spor eleştirisinin tanımı, Ünite 1'de açıkça verilmiştir: \"Spor eleştirisi genel olarak beceri ve performans değerlendirmesidir\" (Ünite 1, Sayfa 2). Ayrıca, rekabet karşılaşmalarındaki sporcuların estetik, uyum, beceri, yetenek gibi temel yetkinliklerinin saptanarak değerlendirildiği belirtilir.",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "is_duplicate": true,
+            "duplicate_of": 76,
+            "occurrence_count": 0
         },
         {
             "id": 99,
@@ -2080,7 +2102,8 @@
             "is_duplicate": true,
             "duplicate_of": 81,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 102,
@@ -2120,10 +2143,10 @@
             "topic": "Barok Sanatın Özellikleri",
             "explanation": "Barok sanatın özelliklerinin anlatıldığı bölümde, Barok'un Rönesans'ın dingin yapısı yerine hareketi getirdiği, figürlerin iç içe geçtiği ve hareketli figürlerle güçlendirilmiş derinlik duygusunun ön planda olduğu belirtilir. Işık ve gölge (karanlık) kullanımı, anlatımı güçlendiren ögeler olarak vurgulanır. Parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratarak biçimde düzenlenmiş ışık-gölge dağılımını ifade eder. Caravaggio bu akımın öncülerindendir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 66,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9966111183166504
+            "duplication_reason": "Soru metinleri anlamsal olarak tamamen aynıdır. Kullanılan şıklar listesi aynıdır ve aynı kavrama (Chiaroscuro) işaret etmektedir. Sadece şıkların sıralaması ve soru metninde önemsiz derecede küçük gramer farklılıkları bulunmaktadır."
         },
         {
             "id": 104,
@@ -2145,7 +2168,8 @@
             "is_duplicate": true,
             "duplicate_of": 100,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 105,
@@ -2227,7 +2251,8 @@
             "is_duplicate": true,
             "duplicate_of": 73,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 109,
@@ -2247,9 +2272,10 @@
             "topic": "Post-Empresyonizm ve Neo-Empresyonizm",
             "explanation": "Neo-Empresyonistlerin kullandığı ve fırçanın noktasal dokunuşlarla renklerin birbirleriyle etkileşiminin yarattığı renk teorisine dayalı sanat biçemi, metinde açıkça Neo-Empresyonizm olarak isimlendirilmese de, Post-Empresyonistlerin (Gauguin ve Van Gogh) de empresyonist kompozisyon tekniğine kendi kimliklerini katarak, ekspresif dile yakın eserler verdikleri belirtilmiştir. Ancak, sorunun tarifine en uygun geleneksel akım Neo-Empresyonizm'dir (Georges Seurat ve arkadaşları tarafından geliştirilen nokta veya çizgi teknikleri). Bu ünite özetlerinde Neo-Empresyonizm'den doğrudan bahsedilmemiştir, ancak Post-Empresyonizm'in Empresyonizm'den sonra geldiği belirtilmiştir. Işık ve renk üzerine kurulu teknikler Empresyonizm'in devamıdır. Soruda geçen 'noktasal dokunuşlar' ve 'renk teorisi'nden en güçlü şekilde bahseden akım Neo-Empresyonizm'dir.",
             "is_duplicate": true,
-            "duplicate_of": 90,
+            "duplicate_of": 65,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2271,7 +2297,8 @@
             "is_duplicate": true,
             "duplicate_of": 72,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 111,
@@ -2293,7 +2320,8 @@
             "is_duplicate": true,
             "duplicate_of": 68,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 112,
@@ -2435,7 +2463,8 @@
             "is_duplicate": true,
             "duplicate_of": 71,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9982288479804993
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 119,
@@ -2457,7 +2486,8 @@
             "is_duplicate": true,
             "duplicate_of": 74,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 120,
@@ -2498,7 +2528,9 @@
             "explanation": "Antik Yunan heykelinde ve mitolojisinde bilgelik ve savaş tanrıçası olarak öne çıkan tanrıça Athena'dır. Yunan mitolojisinde Ares savaş tanrısı iken, Athena bilgelik ve savaş tanrıçası olarak hem heykel sanatında hem de diğer sanatlarda temsil edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 78,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 122,
@@ -2518,9 +2550,10 @@
             "topic": "Modern Resim Akımları",
             "explanation": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein, Pop-Art akımının önemli temsilcileridir. Bu akım, popüler kültürün görsel yansımalarını, seri üretimi ve ticari imgeleri sanata taşımıştır.",
             "is_duplicate": true,
-            "duplicate_of": 88,
+            "duplicate_of": 77,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 123,
@@ -2539,7 +2572,6 @@
             "UniteNo": 5,
             "topic": "Post-Empresyonizm Akımları",
             "explanation": "Neo-Empresyonizm'in (ya da Bölünmecilik/Pointilism'in) temelinde, renklerin saf olarak kullanılması ve küçük noktasal dokunuşlarla renklerin birbirleriyle etkileşiminin yarattığı renk teorisi yatar. Bu akım, genellikle Divizyonizm (Bölünmecilik) veya Pointilism olarak anılır. Pupüplizm, bu akımın diğer bir adıdır veya bu teknikleri kullanan bir yaklaşımdır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2580,9 +2612,10 @@
             "topic": "Barok Resim",
             "explanation": "Resimde parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratacak biçimde düzenlenmiş ışık-gölge dağılımına Barok üslupta sıkça rastlanır. Metinde Barok sanat anlatılırken, 'Işık ve gölge ise anlatımı güçlendiren ögelerdir' ifadesi yer alır. Caravaggio, Barok akımının öncülerindendir.",
             "is_duplicate": true,
-            "duplicate_of": 103,
+            "duplicate_of": 66,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9966111183166504
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 126,
@@ -2602,9 +2635,10 @@
             "topic": "Spor Eleştirisi",
             "explanation": "Spor eleştirisi genel olarak beceri ve performans değerlendirmesidir. Bireysel ve takım sporlarında sporcuların başarısı ya da başarısızlığı üzerine kuruludur ve temel yetkinlikleri saptanarak değerlendirilir.",
             "is_duplicate": true,
-            "duplicate_of": 98,
+            "duplicate_of": 76,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9667277932167053
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 127,
@@ -2644,9 +2678,10 @@
             "topic": "Biçimci Kuram",
             "explanation": "Biçimci film kuramına göre sinemada anlamı yaratan temel öge 'kurgu'dur (montaj). Kurgu, art arda gelen çekimleri (film parçalarını) yaratıcı bir şekilde bir araya getiren yöntemdir. Metin, 'Sinemanın gereci film parçalarıdır. Sinema sanatında bu gereci yaratıcı şekilde bir araya getiren yöntem aşağıdakilerden hangisidir?' sorusuna biçimci kuramın cevabını işaret etmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 108,
+            "duplicate_of": 73,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 129,
@@ -2666,10 +2701,10 @@
             "topic": "Sembolizm",
             "explanation": "Sembolizm, gerçeğin sınırlarını aşmayı amaçlayan, doğrudan anlatım yerine simgeler, mecazlar ve çağrışımlarla anlaşılmayı hedefleyen bir edebiyat anlayışıdır. Metinde Sembolizm, 'çağrışımlarla, benzeşimlerle, sezgi ile anlaşıl anı, 'görülmeyeni görmeye çağıran edebiyat anlayışını ifade eder' olarak tanımlanır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 91,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.992548406124115
+            "duplication_reason": "Soru kökleri anlam ve içerik olarak tamamen aynıdır. Şıklar kümesi aynıdır (sadece sıralaması farklıdır) ve doğru cevap (Sembolizm) her iki soruda da aynıdır. Bu sorular kopyadır."
         },
         {
             "id": 130,
@@ -2709,10 +2744,10 @@
             "topic": "Çağdaş Heykel Sanatçıları",
             "explanation": "Damien Hirst'in öne çıkan teması ölümdür ve ünlü eseri, hayvanları formaldehit içinde sergilediği yerleştirmelerdir. Ünite 6'da Damien Hirst'in \"ölüm temalarıyla ortaya çıktığı\" ve \"özellikle ölü hayvanları kullanarak yaptığı yerleştirme ve düzenlemeler\" ile heykel sanatına katkı sunduğu belirtilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 62,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9865517020225525
+            "duplication_reason": "Soru k\n"
         },
         {
             "id": 132,
@@ -2733,7 +2768,9 @@
             "explanation": "Ünite 8'de, Fransız yazar, eleştirmen Jules Barbey d'Aurevilly'in karikatürü “bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığı” olarak tanımladığı belirtilir.",
             "is_duplicate": true,
             "duplicate_of": 79,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 133,
@@ -2773,10 +2810,10 @@
             "topic": "Besteci Sözleri ve Yaklaşımları",
             "explanation": "Bu sözler (Para, alkış falan gözümde yok... Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile.) eskilere başkaldıran, yenilikçi ve toplumsal düzeni sorgulayan bir tutumu ifade eder. Ünite 4'te, 19. yüzyılın ilerlemeci bestecileri (Liszt ve Wagner öncülüğünde) ile gelenekçiler arasındaki çekişme anlatılır. İlhan Usmanbaş, müziğin toplumsal işlevi ve yenilikçi arayışları ile tanınan, geleneksel yapıları sorgulayan bir bestecidir. Bu sözler, özellikle yenilikçi ve geleneksel kalıpları kırma isteğini vurguladığı için İlhan Usmanbaş'a atfedilir (veya bu ruh halini en iyi yansıtanlardan biridir).",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 92,
+            "occurrence_count": 0,
+            "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9985148906707764
+            "duplication_reason": "Soru metinleri (küçük bir yazım hatası dışında), şıklar ve doğru cevap indeksi tamamen aynıdır. Bu iki soru anlamsal olarak kopyadır."
         },
         {
             "id": 135,
@@ -2795,10 +2832,10 @@
             "UniteNo": 2,
             "topic": "Mantık Çıkarım Kuralları",
             "explanation": "Verilen form (P veya Q, Değil-P, Öyleyse Q), Modus Tollendo Ponens (Ayrık Yüklemli Kıyas) kuralıdır. Ünite 2'de bu kural şu şekilde ifade edilmiştir: \"Modus Tollendo Ponens: Bu çıkarım kuralı aşağıdaki formla gösterilir: P veya Q, Değil-P, Öyleyse, Q.\"",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 40,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 136,
@@ -2840,7 +2877,8 @@
             "is_duplicate": true,
             "duplicate_of": 70,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 138,
@@ -2860,10 +2898,10 @@
             "topic": "Grafik Tasarım Tarihi",
             "explanation": "1930'larda Nazizm'e karşı mücadele eden ve bu yüzden en çok arananlardan biri olan tasarımcı John Heartfield'dır (Hans Haack değil, çünkü Haack daha çok propaganda afişleri yaptı). Ünite 8'de doğrudan bir isim verilmemiştir, ancak karikatürün sosyal hiciv ve propaganda işlevi vurgulanmıştır. Bu bağlamda, grafik tasarımda anti-Nazi mücadele ile en ünlü isim John Heartfield'dır (Ünite 8 metninde geçmese de, karikatür/grafik tasarım bağlamında bu bilgi 8. ünitenin konusuyla doğrudan ilişkilidir). Ancak, ünite özetlerinde spesifik isim yoksa, en yakın konuya odaklanılmalıdır: Karikatürün sosyal hiciv, siyaset/propaganda işlevi (Ünite 8). (Bu sorunun cevabı doğrudan metinde yok, ancak bağlam (Grafik/Karikatür ve Eleştirel Düşünce) ve tarih bilgisi gerektirir. John Heartfield doğru tarihi cevaptır. Eğer metinden cevap aranırsa, bu bağlamda protesto afişlerinden bahsedildiği için bu cevabın beklendiği düşünülebilir.)",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 119,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.995083212852478
+            "duplication_reason": "Soru metinleri arasında yalnızca 'Nazi' ve 'Nazizm' kelime farkı bulunmaktadır, bu anlamsal olarak önemsizdir. Şıklar kümesi ve doğru cevap (John Heartfield) tamamen aynıdır. Bu, tipik bir kopya sorudur."
         },
         {
             "id": 139,
@@ -2884,7 +2922,9 @@
             "explanation": "Beethoven'ın devrimci modelini temel alan ilerlemeciler, 19. yüzyılın ikinci yarısında alışılmış kalıpları reddederek yenilikçi bir çizgi benimsediler. Liszt ve Wagner ilerlemeciliğin bayraktarlarıdır. Soruda kastedilen, tonalite, motif işçiliği ve 18. yüzyıl türlerini sürdüren gelenekçilerin (Brahms öncülüğünde) tam zıttı olan, yeni ifade yolları ve teknikler arayan bestecidir. Metinde, '19. yüzyılın başında bir önceki bestecilerin bestelediği onlarca senfoniye karşın Beethoven sadece 9 senfoni bestelemiştir' denilerek Beethoven'ın yenilik arayışının altı çizilir. Ancak, bu sorunun en uygun cevabı Ünite 4'te bahsedilen, Beethoven'ın mirasını aşarak 20. yüzyıla yön veren ve tonalitenin ötesine geçen, avangartlara zemin hazırlayan bestecilerden biridir. Metinde, 19. yüzyılın başında Mozart ve Haydn'dan sonra gelen bu geçişin ardından, 20. yüzyılda 'müziksel parçası'nın 'müzik yapıtı'na dönüşmesi ve tonalitenin aşılması gibi gelişmelerin eleştirel düşünceyle mümkün olduğu belirtilir. Besteci olarak **Claude Debussy** (Ünite 4'te bahsedilmiştir) Empresyonizmin öncüsü olarak, tonalite ve geleneksel yapıların sınırlarını aşmaya çalışan bir isim olarak öne çıkar ve gelenekçilere karşıt bir konumdadır.",
             "is_duplicate": true,
             "duplicate_of": 80,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 140,
@@ -2904,9 +2944,10 @@
             "topic": "Modern Sanat Akımları",
             "explanation": "Ünite 3'te, Edebiyatta Romantizm ve Başkaldırı başlığı altında, modern sanatın ilk güçlü akımının Romantizm olduğu belirtilir. Romantizm, Fransız Devrimi'nin edebiyattaki karşılığı ve bir özgürlük çağrısı olarak tanımlanır ve klasik sanata karşı başkaldırı olarak da tanımlanır.",
             "is_duplicate": true,
-            "duplicate_of": 110,
+            "duplicate_of": 72,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 141,
@@ -2928,7 +2969,8 @@
             "is_duplicate": true,
             "duplicate_of": 87,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9780493974685669
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 142,
@@ -2948,9 +2990,10 @@
             "topic": "Yunan Heykelinde Eleştirel Düşünce",
             "explanation": "Antik Yunan heykelinde Olimpos Dağı'nda oturan Tanrılar ve Titanlar arasındaki savaş teması, heykel sanatında eleştirel bir tutumun başlangıcıdır. Athena, Yunan mitolojisinde bilgelik ve savaş tanrıçası olarak tasvir edilir. Ünite 6'da, \"Yunan mitolojisinde bazı tanrılar zaten başlı başına bir eleştiri ve savaş varlığı olarak yer alır ve heykel sanatında da konumlanır. Bunlardan Ares, savaş tanrısı olarak simgelenir. Keza, Athena, bilgelik ve savaş tanrıçasıdır.\" şeklinde bilgi verilmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 121,
+            "duplicate_of": 78,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 143,
@@ -2970,10 +3013,10 @@
             "topic": "Barok Resim Anlatımı",
             "explanation": "Barok sanat, Rönesans'ın durağan yapısı yerine hareketi getirir. Ünite 5'te, Barok sanatın biçimsel özelliklerinden bahsederken, \"Işık ve gölge ise anlatımı güçlendiren ögelerdir.\" ifadesi yer alır. Bu, ışık ve karanlık arasındaki vurgulu kontrastın (chiaroscuro/tenebrizm) Barok resmin temelini oluşturduğunu gösterir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 103,
+            "occurrence_count": 0,
+            "duplicate_of": 125,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9895479679107666
+            "duplication_reason": "Soru kökleri (anlamsal olarak) ve şıkların kümesi tamamen aynıdır. Her iki soru da aynı sanat terimini ('Chiaroscuro') sormaktadır. Bunlar doğrudan kopyadır."
         },
         {
             "id": 144,
@@ -2993,9 +3036,10 @@
             "topic": "Karikatürün Tarihsel Gelişimi",
             "explanation": "Karikatür, bir gerçeğin, olayın veya kişinin kusurlarının aşırı bir şekilde abartılması (hiciv, mizah) ile karakterize edilir. Ünite 8'de, karikatürün özgün özelliklerinin komik veya hicivsel amaçlar için kusurları abartarak resmetmek ve özellikle deformasyon yoluyla ruh hallerini ve gizli tarafları ortaya çıkarmak olduğu belirtilir. Bu tekniğin kökenleri antik dönemlere dayansa da, modern anlamda karikatürün tanımı bu özelliklere odaklanır. Ancak, \"hiciv amaçlı deformasyon ile karakterize edilen çizim tekniği\"nin kökenleri Antik Yunan'dan beri var olsa da, modern karikatürün bu tanımıyla öne çıkardığı düşünülür. Ancak, bu tanım en çok Karikatür'ün temel ilkesini anlatır. Soruda spesifik bir sanatçı isteniyorsa, karikatürün temelleri genellikle daha sonra gelişmiştir; ancak deformasyon ve hicivsel abartı fikrinin başlangıcı çok daha eskidir. Buradaki en uygun yanıt, deformasyonu ve mizahı birleştiren karikatürün temel tanımına odaklanmaktır. Eğer bir sanatçı soruluyorsa, Fransız Devrimi sonrası gelişimi dikkate alınmalıdır. Fakat soru tekniği soruyor, bu teknik karikatürün özüdür.",
             "is_duplicate": true,
-            "duplicate_of": 111,
+            "duplicate_of": 68,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 145,
@@ -3015,9 +3059,10 @@
             "topic": "Çağdaş Anlatı Sineması",
             "explanation": "Geleneksel anlatının kurallarını reddederek, tiyatronun/sinemanın sadece sahnede yapılma zorunluluğunu aşan ve \"herhangi bir yerde olabilir\" görüşünü savunan hareketler Avangartlardır. Ünite 7'de, Çağdaş Anlatı Sinemasının, geleneksel anlatının kurallarını reddettiği ve özellikle Brecht gibi kuramcıların (Avangardlar) seyircinin oyuna kapılmaktan uzak tutulması gerektiği görüşünü benimsediği belirtilir. Godard'ın 'Serseri Aşıklar' örneği, geleneksel sinema diline karşı bir ayaklanma olarak sunulur. Tiyatroda bu anlayışı en radikal şekilde getirenler Avangartlardır. Stanislavski'nin aksine, Avangardlar (Brecht dahil), seyircinin kendisini oyuna kaptırmaması gerektiğini savunur.",
             "is_duplicate": true,
-            "duplicate_of": 48,
+            "duplicate_of": 14,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.981004536151886
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 146,
@@ -3037,9 +3082,10 @@
             "topic": "Biçimci Film Kuramı",
             "explanation": "Bu ifade, filmin anlamının temel olarak kurgu (montaj) ile yaratıldığını ve sinemanın, kayda alınan görüntülerin basit bir tekrarı olmaktan öte, kurgu yoluyla inşa edilen bir sanat eseri olduğunu vurgular. Ünite 7'de Biçimci Kuram başlığı altında, \"Kurgu (montaj) art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayandır... İşte bu yaratımı, inşayı gerçekleştirecek olan da kurgudur.\" şeklinde ifade edilmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 104,
+            "duplicate_of": 100,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 147,
@@ -3061,7 +3107,8 @@
             "is_duplicate": true,
             "duplicate_of": 75,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 148,
@@ -3081,9 +3128,10 @@
             "topic": "Geleneksel Anlatı Sineması",
             "explanation": "Geleneksel anlatı sinemasının dramatik yapısı; serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur. Bu yapı içinde gerilim, olayların akışına kendini bırakan seyircide katharsis (arınma) sağlamayı hedefler. Ünite 7'de, geleneksel anlatıda, olayların doruk noktası ile başlayan son bölümde olayların çözülmesiyle, yapay olarak içine sokulduğu gerilimden kurtarılıp rahatlatıldığı belirtilir.",
             "is_duplicate": true,
-            "duplicate_of": 137,
+            "duplicate_of": 70,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 149,
@@ -3143,7 +3191,7 @@
             "topic": "Akıl Yürütme Türleri",
             "explanation": "Ünite 2'de Safsatalar başlığında, hatalı akıl yürütme biçimlerinin 'Safsata' olduğu belirtilir. Safsatalar, akıl yürütmede karşımıza çıkan formel olmayan yanlışlıklardır. (Ancak soruda verilen tanım, tümevarım için daha uygun olabilir: Öncüllerin sonucu destekleme derecesi.) Ancak sorunun şıkkında 'Safsata' doğru kabul edildiğinden, safsatanın mantıksal hataya işaret ettiğini varsayarak ilerlenir. Safsata, genellikle hatalı akıl yürütmedir. Öncüllerin sonucu destekleme derecesi ise kuvvettir (tümevarımda). Sorunun bağlamı Hatalı Akıl Yürütme Biçimleri ile ilgiliyse, Safsata en genel karşılıktır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 152,
@@ -3183,9 +3231,10 @@
             "topic": "Çağdaş Heykel Sanatı",
             "explanation": "Damien Hirst, çağdaş sanatın önemli temsilcilerinden biridir ve özellikle ölüm temalarıyla öne çıkar. Onun en ünlü eserleri arasında, formaldehide batırılmış, korunmuş büyük hayvan yerleştirmeleri bulunmaktadır. Bu eserler, 'kavramsal gönderim anlamında çok önemli' olarak nitelendirilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 131,
+            "duplicate_of": 62,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9865517020225525
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 154,
@@ -3206,7 +3255,9 @@
             "explanation": "Ünite 2'de Tümdengelimli Akıl Yürütme başlığı altında, tümdengelim, genel bir yargıdan onun özel bir örneğini çıkarma üzerine kurulu bir düşünme yöntemi olarak tanımlanır. Örnek olarak 'Bütün insanlar çalışkandır. Ankara bir insandır. Öyleyse, Ankara çalışkandır.' verilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 155,
@@ -3228,7 +3279,8 @@
             "is_duplicate": true,
             "duplicate_of": 133,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 156,
@@ -3248,9 +3300,10 @@
             "topic": "Duygusal Etki Kuramları",
             "explanation": "Hedonizm, Duygusal Etki Kuramlarından biridir ve sanatın yegâne işlevinin zevk vermek olduğunu savunur. Buna göre bir şey zevk veriyorsa sanattır ve sanat olması için yeterlidir; yani, eylemlerin nihai amacı haz sağlamaktır.",
             "is_duplicate": true,
-            "duplicate_of": 51,
+            "duplicate_of": 19,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 157,
@@ -3270,9 +3323,10 @@
             "topic": "Modern Sanat Akımları",
             "explanation": "Ünite 3'te, Edebiyatta Romantizm ve Başkaldırı başlığı altında, modern sanatın ilk güçlü akımının Romantizm olduğu belirtilir. Romantizm, Fransız Devrimi'nin edebiyattaki karşılığı ve bir özgürlük çağrısı olarak tanımlanır ve klasik sanata karşı başkaldırı olarak da tanımlanır.",
             "is_duplicate": true,
-            "duplicate_of": 140,
+            "duplicate_of": 72,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 158,
@@ -3292,9 +3346,10 @@
             "topic": "Grafik Tasarımda Eleştirel Düşünce",
             "explanation": "Bu bilgi, sunulan metinlerde doğrudan bir sanatçının adı ve spesifik bir 1930'lar Nazi karşıtı afiş tasarımı detayı olarak geçmemektedir. Ancak, Ünite 8'de karikatürlerin siyaset/propaganda ve sosyal hiciv amacıyla kullanıldığı belirtilmiştir. Metinde, karikatürün 'siyasi iktidara karşı bir direniş kültürü geliştirmeyi' amaçladığı ve protesto afişlerinin sosyal afiş tasarımına dahil olduğu bilgisi mevcuttur. Ancak verilen seçenekler arasında tam karşılığı olan bilgiye doğrudan ulaşılamamaktadır. Eğer bu soru grafik tasarım tarihine ait bilinen bir örnekten geliyorsa, bu tanıma uyan en ünlü isimlerden biri John Heartfield'dir (Nazi karşıtı propagandası ve foto montaj kullanımı ile ünlüydü). Ancak metindeki bilgilerle kesin cevap vermek için, metinde adı geçen 'Karikatür işlevleri'nden siyaset/propaganda ve sosyal hiciv kısmına bakılabilir.",
             "is_duplicate": true,
-            "duplicate_of": 138,
+            "duplicate_of": 74,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.995083212852478
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 159,
@@ -3315,7 +3370,9 @@
             "explanation": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein Pop-Art akımı ile tanınırlar. Richard Hamilton'ın 'Günümüz Evlerini Bu Kadar Farklı ve Çekici Yapan Nedir?' adlı kolaj çalışması Pop-Art'ın ilk ikonik yapıtlarından biri kabul edilir. Andy Warhol seri üretim ve popüler kültür öğelerini, Roy Lichtenstein ise çizgi roman figürlerini sanatına taşımıştır.",
             "is_duplicate": true,
             "duplicate_of": 77,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 160,
@@ -3355,9 +3412,10 @@
             "topic": "Spor Eleştirisi",
             "explanation": "Spor eleştirisi genel olarak beceri ve performans değerlendirmesidir. Metinde, spor eleştirisinin bireysel ve takım sporlarında sporcuların başarısı veya başarısızlığı üzerine kurulu olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 126,
+            "duplicate_of": 98,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9667277932167053
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 162,
@@ -3379,7 +3437,8 @@
             "is_duplicate": true,
             "duplicate_of": 61,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9854308366775513
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 163,
@@ -3399,10 +3458,10 @@
             "topic": "Dogmacılık ve Ilımlı Muhafazakârlık",
             "explanation": "Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini hemen değiştirmeyen yaklaşıma 'dogmacılık' denir. Metinde, 'Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavra ılımlı muhafazakârlık denir' ifadesi yer almaktadır. Soru, yeterli nedenlere rağmen fikrini değiştirmemeyi sorduğu için dogmacılık en uygun cevaptır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 12,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9878193140029907
+            "duplication_reason": "Soru kökleri, şıkları ve doğru cevapları tamamen aynıdır. Yalnızca şıkların sıralaması ve soru kökünde çok küçük bir kelime farkı (\"tutumlardan\" kelimesinin eksikliği) bulunmaktadır. Bunlar mutlak kopyadır (duplicate)."
         },
         {
             "id": 164,
@@ -3421,8 +3480,10 @@
             "UniteNo": 2,
             "topic": "Hatalı Akıl Yürütme (Geçersiz Çıkarım)",
             "explanation": "Öncüllerin sonucu desteklemediği çıkarımlara 'geçersiz' veya 'zayıf çıkarım' denir. Geçersiz çıkarımlar, hatalı akıl yürütme biçimleri kullanılarak yapılmışlardır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "duplicate_of": 151,
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "occurrence_count": 0
         },
         {
             "id": 165,
@@ -3442,9 +3503,10 @@
             "topic": "Edebiyatın İşlevi",
             "explanation": "Edebiyatın öncelikli işlevi, insanı anlamak ve anlatmaya çalışmak; dünyayı, yaşamı, insanı ve insan yaşamını, insanın anlam dünyasını estetik bilgi temelinde yeni bir açıdan görme, idrak etme, yorumlama ve değerlendirme biçimi sunmasıdır.",
             "is_duplicate": true,
-            "duplicate_of": 85,
+            "duplicate_of": 4,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 166,
@@ -3464,9 +3526,10 @@
             "topic": "Yaratıcılık ve Yoruma Açıklık",
             "explanation": "Bir müzik parçasını ya da tiyatro oyununu sanat yapıtına dönüştüren yaratıcılık ürünün yaratıldığı dönemin koşulları ve tercihleri kapsamında değerlendirildiğinde ortaya çıkar. Ancak, bir edebî metne dayanamayan bir müzik parçasında bestecinin tasarımı, müziğin sosyal işlevinden çok müzik dilinin özelliklerine, işleyişine ve dönemin alışkanlıklarına yönelik eleştirel bir yaklaşım sonucunda şekillenir. Müziğin yazılı metninin (partisyonun) yorumlanması, icracının (müzisyen) esere getirdiği yorumu içerir; bu, özellikle ezgisel tasarım, birtakım seyir kalıplarının ve ezgisel formüllerin farklı kombinasyonlarına dayanan Rönesans öncesi dönem müziğinde daha belirgindi. Bestecinin yorumcuya bıraktığı alan, eserin icracı tarafından yapılan yorumudur.",
             "is_duplicate": true,
-            "duplicate_of": 95,
+            "duplicate_of": 64,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 167,
@@ -3486,10 +3549,10 @@
             "topic": "Barok Dönem ve Opera",
             "explanation": "Operanın doğuşu müzik tarihinde Barok dönemin de başlangıcı olarak kabul edilir. Barok üslup, sanatların (müzik, tiyatro, dekor, kostüm vb.) birlikteliğini hedefler ve 17. yüzyılın başında ortaya çıkmıştır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 17,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.998871386051178
+            "duplication_reason": "İki soru da Barok dönemin başlangıcı kabul edilen ve 17. yüzyılın başlarında ortaya çıkan müzik türünü sormaktadır (Opera). Şık setleri aynıdır, sadece sıralamaları farklıdır. Soru köklerindeki 'de' eki farkı anlamsal olarak soruyu değiştirmez. Tamamen kopya sorulardır."
         },
         {
             "id": 168,
@@ -3509,9 +3572,10 @@
             "topic": "Platon'un Mimesis Kuramı",
             "explanation": "Platon, sanatın yansıtma (mimesis) olduğu düşüncesindedir. Ona göre sanat, idealar dünyasının bir yansıması olduğu için gerçeği yansıtmalı ve değer kaybettirmemelidir. Bu, sanatın gerçekliği yansıtma kuramının ilk ve temelini oluşturur.",
             "is_duplicate": true,
-            "duplicate_of": 147,
+            "duplicate_of": 75,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 169,
@@ -3551,9 +3615,10 @@
             "topic": "Empresyonizm",
             "explanation": "Metinde Empresyonizme adını veren Monet'nin 'İzlenim: Gün Doğumu' eserinden bahsedilmiştir. Empresyonizmde, gerçek zaman, ışığın görülen nesne üzerindeki etkisinin göz ile (retinasal) algılanması esastır. Neo-Empresyonizm (Pointillism), özellikle Georges Seurat ile ilişkilidir ve fırçanın noktasal dokunuşlarla renk teorisine dayandığı bir tekniktir. Metin 5. ünitenin 2. sayfasında Monet'den bahsetmektedir. Neo-Empresyonizm (Pointillism) terimi, verilen metinde doğrudan geçmemektedir. Ancak Empresyonizm'in ardından gelen Post-Empresyonistlerden bahsederken (Gauguin, Van Gogh), Monet'den de bahsedilir. Soru Neo-Empresyonizmi sorduğundan ve bu terim doğrudan geçmediğinden, metin sınırlamasına göre cevap verilemez. Ancak, Monet'nin eserinin adından yola çıkarak, Empresyonizm'in temelini oluşturan 'izlenim' kavramı önemlidir.",
             "is_duplicate": true,
-            "duplicate_of": 109,
+            "duplicate_of": 65,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 171,
@@ -3593,9 +3658,10 @@
             "topic": "Pop-Art ve Empresyonizm",
             "explanation": "Ünite 5'te belirtildiği üzere, Andy Warhol, Richard Hamilton ve Roy Lichtenstein Pop-Art akımının önemli figürlerindendir. Hamilton'ın 'Günümüz Evlerini Bu Kadar Farklı ve Çekici Yapan Nedir?' adlı kolajı Pop-Art'ın ilk ikonik yapıtlarındandır. Warhol seri üretim ve popüler kültürü, Lichtenstein ise çizgi roman figürlerini kullanmıştır. (Andy Warhol, Richard Hamilton ve Roy Lichtenstein Pop-Art ile tanınırlar.)",
             "is_duplicate": true,
-            "duplicate_of": 159,
+            "duplicate_of": 77,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 173,
@@ -3615,9 +3681,10 @@
             "topic": "Çağdaş Heykel Sanatı",
             "explanation": "Ünite 6'da Damien Hirst'ün ölüm temalarıyla öne çıktığı ve özellikle ölü hayvanları kullanarak yaptığı yerleştirmeler ve düzenlemelerle heykel sanatına getirdiği yenilik ve kavramsal gönderim anlamında çok önemli olduğu belirtilmektedir. Hirst'ün ünlü eseri 'Ölü Hayvan Yerleştirmeleri' veya 'Kavramsal Heykel' olarak anılır.",
             "is_duplicate": true,
-            "duplicate_of": 131,
+            "duplicate_of": 62,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9865517020225525
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 174,
@@ -3639,7 +3706,8 @@
             "is_duplicate": true,
             "duplicate_of": 84,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 175,
@@ -3659,9 +3727,10 @@
             "topic": "Sinema Kuramları",
             "explanation": "Ünite 7'de, Kuleşov'un (ve diğer biçimci kuramcıların) sinemanın gerecinin film parçaları (çekimler) olduğunu ve bu parçaları yaratıcı şekilde bir araya getiren yöntemin 'kurgu' (montaj) olduğunu savunduğu belirtilmektedir. Kurgu, art arda gelen iki ayrı çekim arasındaki bütünlüğü sağlayan temel ögedir.",
             "is_duplicate": true,
-            "duplicate_of": 128,
+            "duplicate_of": 73,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 176,
@@ -3681,9 +3750,10 @@
             "topic": "Modernizm ve Romantizm",
             "explanation": "Ünite 3'e göre, Romantizm, Fransız Devrimi'nin edebiyattaki karşılığı ve bir özgürlük çağrısı olarak tanımlanır. Aynı zamanda 'klasisizme karşı başkaldırı olarak da tanımlanan romantizm', modernizmin ilk güçlü akımıdır.",
             "is_duplicate": true,
-            "duplicate_of": 157,
+            "duplicate_of": 72,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 177,
@@ -3703,10 +3773,10 @@
             "topic": "Karikatür Teknikleri",
             "explanation": "Ünite 8'de karikatürcülerin kullandığı başlıca konu ele alma teknikleri olarak aşağılama (şakacılık), abartma (grotesk) veya çelişki (saçmalık) belirtilmiştir. 'Sansürle baltalanan ifade özgürlüğüne bağlılık' ise karikatürcülerin savunduğu görüşlerdendir, tekniklerden biri değildir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 97,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9903304576873779
+            "duplication_reason": "Sorular anlamsal olarak tamamen aynıdır, sadece birinde fazladan 'konu' kelimesi kullanılmıştır. Şık listeleri ve doğru cevap ('Gizleme') aynıdır, sadece şıkların sıralaması farklıdır."
         },
         {
             "id": 178,

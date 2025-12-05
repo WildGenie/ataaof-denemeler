@@ -53,6 +53,19 @@
 
 ## Ünite 2
 
+### Erişilebilirlik Tanımı
+
+1. Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir? *(3 kez soruldu)*
+    - **Cevap A-) Erişilebilirlik**
+    - B-) Bütünleştirme
+    - C-) Kaynaştırma
+    - D-) Kapsayıcılık
+    - E-) Evrensellik
+
+    > **Açıklama:** Ünite 2'de (Sayfa 1, Erişilebilirlik başlığı altında) erişilebilirlik şöyle tanımlanmıştır: 'Erişilebilirlik, binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasıdır.'
+
+    <hr />
+
 ### Erken Müdahale Uygulamaları
 
 1. Yukarıda "erken müdahale" uygulamasına yönelik ifadelerden hangileri doğrudur? I. Doğumdan 5 yaşına kadar olan risk altındaki çocukları kapsar. II. Yetersizliğin etkisini azaltmak üzere düzenlenir. III. İlerleyen dönemde öğrenme ve gelişim sorunlarının ortaya çıkmasını önler. IV. Ailelerin dahil olmadığı, öğretmen merkezli uygulamalardır. V. Terapi, tedavi, eğitim programı, beslenme müdahalesi veya aile desteği gibi düzenlemeleri kapsar.
@@ -112,19 +125,6 @@
     - E-) Düşük fiziksel çaba
 
     > **Açıklama:** Ünite 2'ye göre, 'Kullanımda Esneklik' ilkesi, kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını, kullanıcıların kendilerine uygun tercih yapmalarını kolaylaştırmaktadır. Farenin hem sağ hem sol elle kullanılabilir tasarlanması, farklı kullanım metotlarına hitap etmesi nedeniyle bu ilke ile ilişkilidir.
-
-    <hr />
-
-### Eğitim Hizmetleri ve Kaynaştırma
-
-1. Aşağıdakilerden hangisi kaynaştırma düzenlemelerinden biri değildir?
-    - A-) Videolarda sesli betimleme
-    - B-) Videolarda altyazı kullanımı
-    - **Cevap C-) Küçük puntolu yazı kullanımı**
-    - D-) Olguları betimleyen görsel kullanımı
-    - E-) Büyük puntolu yazı kullanımı
-
-    > **Açıklama:** Ünite 2'de (Sayfa 2, Eğitim Hizmetleri) ve Ünite 5'te (Sayfa 2, Eğitimle İlgili Hizmetlere Erişim) kaynaştırma/özel eğitim düzenlemeleri anlatılmaktadır. Ünite 2'de üç tür düzenlemeden bahsedilmezken, Ünite 5'te gelişimsel yetersizliği olan bireyler için sunulan eğitim düzenlemeleri şunlardır: tam zamanlı (tüm dersleri işiten akranlarıyla aynı sınıfta alma), yarı zamanlı (belirli dersleri işiten akranlarıyla, belirli dersleri destek eğitim odasında alma) veya sınıf arkadaşlarının tamamının özel gereksinimli olduğu özel eğitim sınıflarında eğitim alma. Ayrıca destek özel eğitim hizmetleri de sunulmaktadır. Metinde belirtilenler arasında 'Destek özel eğitim hizmetleri' bir düzenleme türüdür. 'Özel eğitim okullarında eğitim alma' da bir düzenleme şeklidir. 'Tam zamanlı kaynaştırma' ve 'Yarı zamanlı kaynaştırma' da belirtilenlerdir. Ancak, doğrudan 'bireysel eğitim odasında eğitim alma' şeklinde bir kategori yok; yarı zamanlı kaynaştırmada destek eğitim odası belirtiliyor. En kesin olarak metinde belirtilmeyen, bu kategorilerin dışında kalan bir düzenleme olmadığı için, eğer soru bu üç ana kategori dışındaki bir şeyi işaret ediyorsa (Tam zamanlı, Yarı zamanlı, Özel eğitim okulu), metinde bu üçlünün dışında kalan bir düzenleme olmadığı için bu seçenek doğru kabul edilebilir. Ancak, sorunun formatı gereği, verilen metinlere göre, tam zamanlı, yarı zamanlı ve özel eğitim okulu (veya destek özel eğitim) ana düzenleme şekilleridir. Eğer seçeneklerde bu üçünden farklı bir şey olsaydı o doğru olurdu. Seçenek verilmediğinden, metinde geçenlerin dışındaki bir düzenleme (örneğin tamamen ayrı bir okul binasında eğitim) olmayanı ifade eden bir cevap aranır. Ancak, tüm metinler bu üç ana düzenleme tipine (tam zamanlı/yarı zamanlı/özel eğitim okulu) odaklanır.
 
     <hr />
 
@@ -269,6 +269,19 @@
 
     <hr />
 
+### İletişim Kavramı
+
+1. Sabah elimize aldığımız diş fırçasından kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza kadar hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir? *(3 kez soruldu)*
+    - A-) Kullanıcı tasarımı
+    - B-) Kullanıcı dostu
+    - **Cevap C-) Kullanıcı deneyimi**
+    - D-) Kullanıcı düşüncesi
+    - E-) Kullanıcı arayüzü
+
+    > **Açıklama:** Ünite 3'te, iletişim; 'gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir' denilmektedir. Ancak soruda bahsedilen, 'tasarımlarla girdiğimiz etkileşimlerden' kaynaklanan duygu ve davranışlar toplamı, özellikle görsel iletişimde estetik kaygıların yanı sıra topluma karşı sorumluluklar bağlamında tasarımın psikolojik etkilerini ifade eder. Metin, genel olarak iletişimin temel tanımını verse de, somut/dijital tasarımlarla etkileşim sonucu ortaya çıkan duygu ve davranışların toplamı doğrudan bir terim olarak verilmemiştir. Ancak, görsel iletişimde ele alınan 'Renk ve Duygular' ve genel olarak iletişimin bilişsel/duygusal boyutları (kavram çıkarma) göz önüne alındığında, bu tür bir deneyimin 'görsel algı' ile yakından ilişkili olduğu söylenebilir. Eğer sorunun amacı, tasarım çıktılarına verilen tepkilerin genel kapsamını sormak ise, bu bir tür 'kullanıcı deneyimi' (UX) algısıdır; ancak verilen seçeneklere göre en yakın kavram, iletişimin bilişsel/duygusal çıktısıdır. Ünite 3'te bu etkileşimlerin genel bir toplamı isimlendirilmemiştir. Fakat Ünite 2'de 'Bireysel Farklılıklar' başlığı altında, farklılıkların algılanmasının yol açtığı etkilerden bahsedilir. Ünite 3'te, renklerin duygusal etkilerinden bahsedilir. Bu tip bir deneyim, bilişsel/duygusal tepkilerin bir bileşeni olarak değerlendirilebilir. En yakın, genel terim 'İletişim'in kendisidir, çünkü tüm bu etkileşimler iletişim sürecinin bir parçasıdır.
+
+    <hr />
+
 ## Ünite 4
 
 ### Dijital Ortam Özellikleri
@@ -371,6 +384,19 @@
 
     <hr />
 
+### Engellilerin İstihdamı
+
+1. Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş koçluğu hizmetlerinden biri değildir? *(3 kez soruldu)*
+    - **Cevap A-) İşe girecek bireyleri tespit etme**
+    - B-) İş arama becerileri ve mülakat teknikleri eğitimi
+    - C-) Mesleki yönlendirme
+    - D-) Aktif iş gücü programlarına yönlendirme
+    - E-) Kamu veya özel sektörde işe yerleştirme
+
+    > **Açıklama:** Ünite 5 özetinde engellilerin istihdamına yönelik hizmetler ve destekler ele alınmaktadır. İstihdam, iş gücü piyasasına katılımı içerir ve bu kapsamda mesleki yönlendirme, işe yerleştirme ve iş arama becerileri eğitimi önemlidir. A şıkkı olan "İşe girecek bireyleri tespit etme" doğrudan bir iş koçluğu hizmeti olarak belirtilmemiştir; tespit etme süreci daha çok genel bir değerlendirme veya yönlendirme aşamasıdır. Diğer şıklar (yönlendirme, işe yerleştirme, aktif iş gücü programlarına yönlendirme) istihdam hizmetlerinin parçalarıdır.
+
+    <hr />
+
 ### Otizm Spektrum Bozukluğu (OSB)
 
 1. Belli rutinlere bağlı kalmak, sınırlı ilgi alanlarına sahip olma otizmin aşağıdaki özelliklerinden hangisinde yer alır?
@@ -463,7 +489,7 @@
 
 ### Kaynaklaştırma Düzenlemeleri
 
-1. Aşağıdakilerden hangisi kaynaştırma uygulamalarında kullanılabilecek düzenlemelerden biri değildir?
+1. Aşağıdakilerden hangisi kaynaştırma uygulamalarında kullanılabilecek düzenlemelerden biri değildir? *(2 kez soruldu)*
     - A-) Videolarda sesli betimleme
     - B-) Videolarda altyazı kullanımı
     - C-) Büyük puntolu yazı kullanımı
@@ -471,19 +497,6 @@
     - E-) Olguları betimleyen görsel kullanımı
 
     > **Açıklama:** Ünite 6'ya göre, işitme kayıplı öğrencilerin kaynaştırma ortamlarında eğitim alırken yararlandıkları düzenlemeler ve hizmetler arasında şunlar yer almaktadır: Destek eğitim odası, bireysel eğitim programı (BEP), işiten akranlarıyla aynı sınıfta tam zamanlı veya yarı zamanlı eğitim, yükseköğretimde kontenjanlar ve Engelli Öğrenciler Birimleri desteği. Sorudaki seçenekler: (a) İşiten akranlarıyla aynı sınıfta tam zamanlı eğitim (Var). (b) Destek eğitim odası (Var). (c) BEP hazırlanması ve uygulanması (Var). (d) Rehabilitasyon merkezinde özel eğitim (Rehabilitasyon merkezleri bireysel/grup eğitimi sunar, ancak doğrudan kaynaştırma sınıf düzenlemesi değildir, daha çok destek hizmetidir). Ancak, Ünite 6'da "Destek eğitim odası"ndan bahsedilmiş, bu da kaynaştırmanın bir parçasıdır. Rehabilitasyon merkezinde özel eğitim ise, MEB'e bağlı okulların dışında veya MEB'e bağlı kurumlarda sunulan destek hizmetleridir. Ünite 6'da RAM'da eğitsel tanılama sonrası MEB'e bağlı okul ve kurumlarda BEP uygulandığı ve destek eğitim odasının kullanıldığı belirtilmiştir. Rehabilitasyon merkezinde özel eğitim (destek özel eğitim hizmetleri) de bu kapsamdadır, ancak kaynaştırma uygulaması bağlamında en az kapsayıcı olanı, RAM'da yapılan eğitsel tanılamadan sonraki yerleştirmelerdir. Bu sorunun doğru cevabı muhtemelen, kaynaştırma ortamının temel parçası olmayan bir seçenektir. Ünite 6'ya göre, RAM'da eğitsel tanılamanın yapılması, yerleştirme ve BEP hazırlanması sürecinin bir parçasıdır. "Rehabilitasyon merkezinde özel eğitim" hizmeti ayrı bir destek hizmeti olarak geçmektedir, ancak bu hizmeti alan öğrenciler de kaynaştırma ortamına yerleştirilebilir. Sorunun bağlamı kaynaştırma uygulamalarındaki düzenlemelerdir. (a), (b), (d) kesinlikle kaynaştırma ile ilgilidir. (c) BEP ise kaynaştırma için zorunlu olan düzenleyici belgedir. Bu durumda, seçeneklerin kaynaştırma düzenlemesi olup olmadığına bakılmalıdır. RAM'da eğitsel tanılama (kişinin uygunluğunu belirleyen süreç) kaynaştırma uygulaması değil, yerleştirme öncesi bir adımdır. Bu yüzden (c) şıkkı (RAM'da eğitsel tanılama) uygulama değil, yerleştirme süreciyle ilgili bir adımdır ve en uygun cevap olabilir.
-
-    <hr />
-
-### Odyogram Ölçümü
-
-1. I. Meslek yüksekokullarının odiyometri programından mezun olanlar yapabilir. II. Ölçümü yapanlara odiyometri teknikeri adı verilir. III. Odyologlar ölçüm aşamasına dahil olmaz. Odyogram ölçümüyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
-    - A-) Yalnız I
-    - B-) Yalnız II
-    - **Cevap C-) I ve II**
-    - D-) I ve III
-    - E-) II ve III
-
-    > **Açıklama:** Odyogram, işitme kaybı derecesini ölçen bir testin grafiğidir. Ünite 6'da, işitme düzeyi odyogram testi ile ölçülmektedir denilmektedir, ancak ölçümü yapan kişilerin unvanları (odyolog, odiyometri teknikeri vb.) veya ölçümün kimler tarafından yapılabileceğine dair detaylı bilgi metinde yer almamaktadır. Metinde sadece odyogramın ne olduğu tanımlanmaktadır: 'Odyogram, kişinin işitebildiği ses miktarını ve iki kulaktaki işitme kaybını gösteren bir grafiktir.' Bu nedenle, unvanlar veya ölçüm aşamasına dahil olmayanlar hakkında kesin bir yargıya varmak metindeki bilgilerle mümkün değildir. (Ancak genel bilgi olarak odyogram ölçümünü Odyologlar yapar, bu nedenle III'ün yanlış olduğu varsayılabilir, ancak metinde bu bilgi net olarak yok. I ve II hakkında bilgi yok.) Sağlanan metinlere dayanarak, III. ifadenin ('Odyologlar ölçüm aşamasına dahil olmaz') yanlış olduğu çıkarımı yapılamaz çünkü odyologların rolü belirtilmemiştir. Ancak, kesin bilgi içermeyen I ve II'yi doğru kabul etmek için bir neden yoktur. Metin sadece tanımı verir, yapanları değil. Bu durumda, net bilgiye dayalı yorum yapmak zordur, ancak sadece tanımın doğru olduğu bilgisi kesindir. Eğer sorunun cevabı I, II ve III'ten bir veya birkaçı ise, en güvenli cevap, metinde açıkça yer almayan çıkarımlardan kaçınmaktır. Ancak, verilen metinlere göre hangisinin doğru olduğu net olarak belirlenememektedir. (Soru 112'deki gibi net bir doğru/yanlış ifadesi yok. Bu tür sorularda genellikle sadece tanımın geçtiği kısımlar baz alınır.) Verilen metin sadece odyogramın tanımını içerir. Bu nedenle I ve II hakkında bilgiye dayalı kesinlik yoktur.
 
     <hr />
 
@@ -593,7 +606,7 @@
 
 ### İşitme Kaybı Ölçümü
 
-1. I. Meslek yüksekokullarının odyometri programından mezun olanlar yapabilir.<br />II. Ölçümü yapanlara odyometri teknikeri adı verilir.<br />III. Odyologlar ölçüm aşamasına dahil olmaz.<br />Odyogram ölçümüyle ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?
+1. I. Meslek yüksekokullarının odyometri programından mezun olanlar yapabilir.<br />II. Ölçümü yapanlara odyometri teknikeri adı verilir.<br />III. Odyologlar ölçüm aşamasına dahil olmaz.<br />Odyogram ölçümüyle ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur? *(2 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I ve II**

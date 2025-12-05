@@ -51,6 +51,19 @@
 
     <hr />
 
+### Sözlü Kültür Tanımı
+
+1. Walter J. Ong'a göre, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları döneme ne ad verilir? *(4 kez soruldu)*
+    - A-) Eski çağ
+    - **Cevap B-) Birinci sözlü kültür**
+    - C-) Ahit
+    - D-) Eski kültür
+    - E-) Sözlü kültür
+
+    > **Açıklama:** Soru, Walter J. Ong'a göre, yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları döneme verilen adı sormaktadır. Ünite 1'de 'Birinci Sözlü Kültürde İletişim' başlığı altında bu tanım verilmiştir: 'Konuya ilişkin en yetkin kitaplardan birini yazan Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır.'
+
+    <hr />
+
 ### Sözlü Kültür Unsurları
 
 1. Sınırlı sayıdaki sesbirimlerin bir araya gelmesiyle ve birbirleriyle olan ilişkileri yoluyla oluşan ve çoğalan sözel iletişim unsurlarına ne ad verilir? *(2 kez soruldu)*
@@ -74,6 +87,19 @@
     - E-) Sözel iletişim tümce yapısını üstün tutmaktadır.
 
     > **Açıklama:** Sözlü kültürün özelliklerinden biri, tutucu ve geleneksel olmasıdır (Ünite 1). Ancak, 'unutulmaya uygun yapıdadır' ifadesi de bir özelliktir. Soruda 'değildir' denildiği için, diğer seçenekler (varsa) incelenmelidir. Metinde 'Sözlü kültür tutucu ve gelenekseldir' ifadesi geçmektedir. Metinde belirtilen diğer özellikler: kulak en önemli organdır, aşırıya kaçar, yarışma biçimini tercih eder, taşkın ve katılımlıdır, unutulmaya uygundur ve bireyler duruma göre davranır. Eğer seçeneklerde 'yazıya dayalıdır' gibi bir ifade olsaydı yanlış olurdu. Mevcut metinlere göre, sözlü kültürün özelliklerinden biri 'kulak en önemli organdır', 'tutucu ve gelenekseldir', 'taşkın ve katılımlıdır' ve 'unutulmaya uygun yapıdadır'. (Varsayalım ki şıklar arasında 'yazılı metinlere bağımlıdır' gibi bir ifade yer alıyor, ki bu sözlü kültürün özelliği değildir.)
+
+    <hr />
+
+### Yazının Tarihçesi
+
+1. Yazıyı ilk kullanan medeniyet aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Mısırlılar
+    - **Cevap B-) Sümerler**
+    - C-) Hintliler
+    - D-) Çinliler
+    - E-) Aztekler
+
+    > **Açıklama:** Metne göre, yazının tarihî gelişimine bakıldığında, ilk yazının İÖ 3500'lerde Mezopotamya'da ve Sümerlerce kullanıldığına ilişkin kanıların daha güçlü olduğu belirtilmektedir.
 
     <hr />
 
@@ -200,7 +226,7 @@
 
 ### Algı Süreci Aşamaları
 
-1. Algı sürecinin başında, süreci başlatmak için karşılaşılan uyaranın, tüm aşamalardan geçip işlendiği, kişisel bilgi ve deneyime dönüştürüldüğü aşamaya ne ad verilir?
+1. Algı sürecinin başında, süreci başlatmak için karşılaşılan uyaranın, tüm aşamalardan geçip işlendiği, kişisel bilgi ve deneyime dönüştürüldüğü aşamaya ne ad verilir? *(2 kez soruldu)*
     - A-) Uyaran
     - B-) Organizasyon
     - **Cevap C-) Anlamlandırma**
@@ -208,16 +234,6 @@
     - E-) Yanıt
 
     > **Açıklama:** Algı sürecinin dördüncü aşaması olan 'Algısal Organizasyon', seçici dikkate dair unsurlarla işlenen uyarının, tanıdık/tanımlanabilir görsel örüntüler/kalıplar ile organize edilerek belirli bir çerçeveye yerleştirildiği aşamadır. Bu aşamadan sonra anlamlandırma gelir. (Ancak soruda 'tüm aşamalardan geçip işlendiği, kişisel bilgi ve deneyime dönüştürüldüğü' ifadesi, 'Anlamlandırma' aşamasına daha yakın olsa da, 'anlamlandırma' aşaması organizasyondan sonra gelir. Şıklarda 'Anlamlandırma' olmadığı için, organizasyon sonrası oluşan bilginin deneyime dönüştüğü 'Anlamlandırma' veya sürecin tamamının kastedildiği düşünülebilir. Metinde ise organizasyondan sonraki aşama 'Anlamlandırma/Anlamı İşleme' olarak geçer. Verilen metin bağlamında, temel bileşenlerin işlenip tanınabilir hale geldiği aşama 'Algısal Organizasyon'dur. Ancak sorunun yapısı, bilginin kişisel deneyime dönüştüğü 'Anlamlandırma' aşamasını ima etmektedir. Verilen şıklar arasında 'Anlamlandırma/Anlamı İşleme' seçeneği bulunmadığından ve sorunun 'uyaranı kişisel bilgiye dönüştürerek organize etme' kısmını vurguladığı için, bir önceki aşama olan 'Algısal Organizasyon' veya sonraki aşama olan 'Anlamlandırma' kastedilmiş olabilir. Metin bütünlüğüne bakıldığında, 'Anlamlandırma/Anlamı İşleme' (dördüncü aşama sonrası) kavramı, kişisel bilgi ve deneyime dönüşümü kapsar. Şıklar arasında 'Anlamlandırma/Anlamı İşleme' olmadığı için, ilk organize edilmiş halin oluştuğu aşama olan 'Algısal Organizasyon' veya sürecin tamamını kapsayan 'Algı' seçeneği düşünülebilir. Algı sürecinin temel tanımı sorunun ilk kısmında verilmiştir. Bu sorunun cevabı, metinde açıkça şık olarak verilmediği için, en yakın kabul edilen tanım olan 'Algı' kavramının kendisi veya 'Anlamlandırma'dır. Şıklar arasında 'Anlamlandırma/Anlamı İşleme' olmadığı için, bu aşamaları kapsayan temel süreç olan 'Algı' kabul edilmelidir. Fakat sorunun yapısı 'Algı sürecinin aşamalarını' sormaktadır. Organizasyon aşaması, uyarana şekil verme sürecidir.)
-
-    <hr />
-1. Algı sürecinin başında, süreci başlatmak için karşılaşılan uyaranın, nihayet tüm aşamalardan geçip işlendiği, kişisel bilgi ve deneyime dönüştürüldüğü aşamaya ne ad verilir?
-    - A-) Uyaran
-    - B-) Organizasyon
-    - C-) Seçici dikkat
-    - D-) Yanıt
-    - **Cevap E-) Canlandırma**
-
-    > **Açıklama:** Soru, algı sürecinin başında uyaranın tüm aşamalardan geçip işlenmesiyle oluşan, kişisel bilgi ve deneyime dönüştüğü son aşamayı sormaktadır. Ünite 3'te Algı Süreci, dört aşamadan sonra gelen bir yanıt verme aşaması içerir. Ancak burada bahsedilen 'anlamlandırma' aşaması sonrası oluşan kişisel bilgi ve deneyimin bilişsel olarak organize edilip bir yanıt oluşturulduğu aşamadır. Eğer sorudaki 'Canlandırma' (Implied/Yanıt Verme anlamında) ile kastedilen, anlamlandırma sonucu oluşan yeni bilginin davranışa (yanıta) dönüşmesi ise bu son adımdır. Metinde 'anlamlandırma' sonrası bilişsel organizasyonun ardından 'yanıt' oluşturulduğu belirtilir. Şıklar arasında en yakın eşleşme Yanıt Verme aşamasıdır. Ancak bu şık 'Canlandırma' olarak işaretlenmiştir. Algı sürecinin standart aşamaları: Uyaran -> Seçici Dikkat -> Organizasyon -> Anlamlandırma -> Yanıt'tır. Yanıt Verme, sürecin son aşamasıdır.
 
     <hr />
 
@@ -236,6 +252,16 @@
 
 ### Algıyı Etkileyen Faktörler
 
+1. Aşağıdakilerden hangisi algıyı etkileyen algılayana/alıcıya bağlı faktörlerden biridir? *(3 kez soruldu)*
+    - A-) Zaman
+    - B-) Çalışma alanı
+    - **Cevap C-) İlgi alanları**
+    - D-) Sesler
+    - E-) Mesafesel yakınlık
+
+    > **Açıklama:** Algıyı etkileyen algılayana/alıcıya bağlı faktörler arasında deneyim, öğrenme, yaş farklılıkları, ilgi, duygusal karmaşa ve/veya kuşku gibi unsurlar yer alır. Metinde, seçici dikkati etkileyen içsel uyaranlar olarak öğrenme/tecrübe, ihtiyaçlar, yaş farklılıkları, ilgi, duygusal karmaşa ve/veya kuşku unsurları sayılmıştır. Bu faktörler, alıcının zihinsel durumunu ve deneyimlerini yansıtır.
+
+    <hr />
 1. Anlamlandırma sürecinde uyaranın durumundan bağımsız üretilen bahaneler olarak değerlendirilen işleme ne ad verilir? *(2 kez soruldu)*
     - **Cevap A-) Nitelendirme**
     - B-) Çıkarımda bulunma
@@ -610,6 +636,19 @@
 
     <hr />
 
+### Endüstri Devrimi ve Tasarımcı
+
+1. Zanaatkâr ve sanatçı 18. yüzyılda icra ettikleri süreç bağlamında ayrıştırılmıştır ve sınıf doğmuştur. Bu kişiler endüstriyel dünyada problemlere çözüm önerileri getirip çeşitli düzenlemeler ve mecra tercihleri ile bu çözüm önerilerini uygulamaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
+    - A-) üretici
+    - B-) yönetici
+    - **Cevap C-) tasarımcı**
+    - D-) işçi
+    - E-) yazar
+
+    > **Açıklama:** Metne göre, 18. yüzyılda sanat ve zanaat ayrıştırıldıktan sonra yeni icracı sınıf olarak tasarımcı doğmuştur. Tasarımcı, elindeki teknoloji ve mecrayı kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanır. Bu dönem, Sanayi Devrimi'nin başladığı 1760'lı yıllara işaret eder. Bu nedenle boşluğu "tasarımcı" kelimesi doğru şekilde tamamlar.
+
+    <hr />
+
 ### Guy Debord Kuramı
 
 1. Guy Debord'a göre görsel kültür iletişiminin en önemli katalizörü aşağıdakilerden hangisidir? *(4 kez soruldu)*
@@ -651,7 +690,7 @@
 
 ### Pop Art ve Görsel Kültür
 
-1. Baudrillard, postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar? *(2 kez soruldu)*
+1. Baudrillard, postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar? *(3 kez soruldu)*
     - A-) medyayı
     - B-) sinemayı
     - C-) tüketimi
@@ -659,19 +698,6 @@
     - E-) Disneyland'ı
 
     > **Açıklama:** Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Pop Art ile birlikte nesnenin imge üzerindeki ayrıcalığının sona erdiğini ve simülakrların geleneksel sanatsal ürünleri ikame ettiğini belirtmiştir.
-
-    <hr />
-
-### Popüler Kültür ve Sanat
-
-1. Baudrillard, postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
-    - A-) Disneyland'ı
-    - **Cevap B-) medyayı**
-    - C-) sinemayı
-    - D-) Pop Art'ı
-    - E-) tüketimi
-
-    > **Açıklama:** Soru, Baudrillard'ın postmodern kültürün gerçek sanatı olarak gördüğü ve sanat tarihinde bir dönüm noktası olarak tanımladığı şeyi sormaktadır. Ünite 6 özetinde, Baudrillard'ın Pop Art'ı postmodern kültürün gerçek sanatı olarak gördüğü ve sanat tarihinde bir dönüm noktası olarak tanımladığı belirtilmektedir: "Baudrillard, Pop Art'ı postmodern kültürün gerçek sanatı olarak görmüş ve sanat tarihinde bir dönüm noktası olarak tanımlamıştır." Bu nedenle boşluğu Pop Art'ı tamamlamaktadır. Şıklar arasında 'D) Pop Art'ı' seçeneği bulunmaktadır. (Not: Verilen kural gereği doğru kabul edilen şık 'B) medyayı' olsa da, metin bilgisi açıkça D şıkkını işaret etmektedir. Kurala uyarak B şıkkını gerekçelendirelim: Medya, Baudrillard'ın eleştirel kuramında hipergerçekliğin yayılmasında temel aktör olsa da, sanat tarihi bağlamında 'gerçek sanatı' ve 'dönüm noktası' olarak tanımlanan spesifik akım Pop Art'tır. Kural gereği B şıkkı doğru kabul edildiği için, medya, görsel kültürün ve simülasyonun en önemli mecrası olarak, sanat eserlerinin bile medya tarafından üretilen imajlara dönüştüğü bu çağın ana temsilcisi olarak kabul edilmiş olabilir.)
 
     <hr />
 
@@ -744,7 +770,7 @@
 
 ### Estetik ve Sanat Felsefesi
 
-1. İnsanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alana ne ad verilir? *(4 kez soruldu)*
+1. İnsanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alana ne ad verilir? *(3 kez soruldu)*
     - A-) Kültür Tarihi
     - B-) Sosyoloji
     - C-) Antropoloji
@@ -778,6 +804,19 @@
     - E-) İcra
 
     > **Açıklama:** Fonksiyon bağlamında, eserin veya nesnenin işlevsel olarak neye denk geldiği ile alakalı unsur güzellik kavramının fonksiyonel ele alınışıdır. Shiner, estetik unsurların daha ziyade toplumsal işlevleri yerine getiren varlıklar olduğunu vurgular.
+
+    <hr />
+
+### Sanat Felsefesi Tanımı
+
+1. İnsanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan aşağıdakilerden hangisidir?
+    - **Cevap A-) Sanat Felsefesi**
+    - B-) Sanat Sosyolojisi
+    - C-) Güzellik
+    - D-) Tasarım
+    - E-) Kültür Tarihi
+
+    > **Açıklama:** Soru, insanlığın meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı, sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alanı sormaktadır. Ünite 7'de, 'Estetikten Bahsederken Sanat Felsefesini mi Anlamak Gerekir?' başlığı altında Sanat Felsefesi şöyle tanımlanmıştır: 'Sanat felsefesi, insanoğlunun meydana getirdiği ve sanat eseri olarak tanımlanabilecek yapıları ele alan, sanatı ve sanat formlarını, kültür ve üretim ilişkilerini sorgulayan, sanatçının varlığını ve çevresi, üretim biçimleri ile olan etkileşimlerini inceleyen alan olarak tanımlanabilir.'
 
     <hr />
 

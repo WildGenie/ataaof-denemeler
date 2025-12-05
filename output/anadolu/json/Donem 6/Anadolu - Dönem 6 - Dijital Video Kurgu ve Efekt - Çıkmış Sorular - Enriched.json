@@ -15,7 +15,10 @@
             "source": "Ara Sınav 2023-2024",
             "material_id": "565291",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 2,
+            "topic": "Georges Méliès Filmleri",
+            "explanation": "Georges Méliès, Lumière kardeşlerin gerçekçi yaklaşımlarının ötesinde, kendi hayal dünyasını yansıtmayı amaçlayan biçimci bir yönetmendir. Kurguyu sihirbazlığı andıran numaralar ve anlatımlar için bir araç olarak kullanmıştır. 'Aya Seyahat' (1902) veya 'Kaybolan Kadın' (1896) gibi filmleri, kurgu aracılığıyla filmik zaman ve mekan üreterek bu çabalarını ortaya koymuştur (Ünite 2)."
         },
         {
             "id": 2,
@@ -51,9 +54,9 @@
             "exam_question_number": 3,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565291",
-            "UniteNo": 1,
-            "topic": "Film Yapımcıları",
-            "explanation": "Lumière kardeşler, gerçek zaman ve mekana bağlı, tek çekimden oluşan, içerik kurgusuna (iç hareket) odaklanan filmler üretmişlerdir. Metinde onların 'Trenin Gara Girişi' ve 'İşçilerin Fabrikadan Çıkışı' gibi tek çekimden oluşan filmlerinden bahsedilmiştir. (Metin Sayfa 1)",
+            "UniteNo": 8,
+            "topic": "Sesin Temel Ögeleri",
+            "explanation": "Sinema, televizyon ve diğer işitsel yapımların ses tasarımında üç temel öge bulunur: Konuşma sesleri (diyalog, anlatıcı ses), ses efektleri (ortam sesi) ve müzik. Bu üç temel ögeye ek olarak, bir filmin anlatısında ritim, atmosfer ve duygusal yoğunluk oluşturmak amacıyla dördüncü bir temel öge olarak \"sessizlik\" de eklenmelidir (Ünite 8).",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -75,7 +78,7 @@
             "topic": "Kurgu Teknikleri",
             "explanation": "Walter Murch'a göre kurgunun altı kuralından birincisi ve en önemlisi Duygu'dur (%51). Murch, kurgunun hikayeyi anlatmasının ötesinde dramatik etki yaratmak için kullanıldığını ve en geçerli nedenin temanın çağrışımları ile aktarılmasını ifade eden 'Duygu' olduğunu belirtmiştir. (Metin Sayfa 3)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 4
         },
         {
             "id": 5,
@@ -95,7 +98,7 @@
             "topic": "Sekans Ayarları",
             "explanation": "Sekans Ayarları bölümünde, zaman tabanı (Timebase) ayarının, bir saniye içerisinde gösterilecek olan kare sayısını (FPS değeri olarak da bilinir) belirttiği açıklanmaktadır. (Metin Sayfa 2)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 6,
@@ -135,7 +138,7 @@
             "topic": "Video Kurgu Tarihçesi",
             "explanation": "Moviola isimli makine, 1917'de geliştirilmiş ve 1924'ten itibaren bir kurgu sistemine dönüştürülerek sinema filmi kurgusunda hızla yayılmıştır. Bu, video kurgusunun gelişimindeki erken dönemdeki önemli teknolojik adımdır. (Metin Sayfa 2)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 8,
@@ -355,7 +358,7 @@
             "topic": "Program Monitörü",
             "explanation": "Program Monitörü (Program Monitor), zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı olarak izlenmesini sağlayan bileşendir. (Metin Sayfa 3)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 19,
@@ -375,7 +378,7 @@
             "topic": "Yapay Zeka",
             "explanation": "Metin, gelişen teknolojilerle birlikte Yapay Zekâ kavramının ortaya çıktığını ve sinema filmlerinin kurgusunda kendine yer edindiğini belirtmektedir. Adobe Premiere Pro'nun sunduğu zengin özelliklerin arasında Yapay Zekâ tabanlı uygulamaların olduğu ima edilmektedir (Özellikle 2000'li yıllardan sonraki gelişmeler bağlamında). (Metin Sayfa 1)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 20,
@@ -417,7 +420,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 22,
@@ -477,9 +481,9 @@
             "topic": "Kurgu ve Anlam",
             "explanation": "Sergei Eisenstein'ın kurgu anlayışı, A görüntüsünün arkasından eklenen B görüntüsü ile izleyicinin C anlamı/sonucu çıkarması esası üzerine kuruludur. Bu, kurgu ile sağlanan çarpışmaların (diyalektik anlayış) sonucunda asıl görüntünün izleyicinin kafasında oluşmasını amaçlar, bu da temaların çağrışımlarla aktarılması anlamına gelir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 4,
-            "similarity_score": 0.9559409022331238
+            "duplication_reason": "Soru kökleri (temanın çağrışımlar ile aktarılması) anlamsal olarak tamamen aynıdır. Şıklar ve doğru cevap ('Leit-motif') özdeştir. Sadece şıkların sırası ve soru kökündeki 'kavram'/'kurgu' kelimeleri farklıdır. Bu, sınav veritabanında silinmesi gereken bir kopyadır (duplicate)."
         },
         {
             "id": 25,
@@ -541,7 +545,8 @@
             "is_duplicate": true,
             "duplicate_of": 8,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 28,
@@ -561,7 +566,7 @@
             "topic": "Kurgu İş Akışı",
             "explanation": "Kurguda işleyişin hızlanması için büyük projelerde, yüksek çözünürlüklü orijinal materyalin (proxy'siz) yerine, daha az yer kaplayan düşük kalitede kopyalarının çıkarılması ve bu kopyalarla yapılan kurgu işlemine 'Ön Kurgu (Off-line editing)' denir. Bu düşük kaliteli kopyalara 'proxy' (vekil) adı verilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 29,
@@ -600,7 +605,6 @@
             "UniteNo": 2,
             "topic": "Kare Hızı Kavramları",
             "explanation": "Hızlı çekim (Fast Motion/Accelerated Motion) zamanın hızlanmış gibi görünmesini sağlarken, ağır çekim zamanın yavaşlamış gibi görünmesini sağlar. Akan çekim (Bullet Time/Flow Motion) ise bu ikisinin karışımıdır. Ancak soruda 'kare içindeki uzamsal fazlalıkları değil, kareden kareye oluşan geçici fazlalığı saptayıp onları azaltmayı amaçlayan sıkıştırma yöntemi' soruluyor. Bu tanım, zaman içindeki değişimi (geçicilik) hedefleyen sıkıştırma türüyle ilgilidir. Metinlerde sıkıştırma (compression) kavramından bahsedilir, ancak sorunun spesifik tanımı video sıkıştırma tekniklerinden Temporal Compression (Geçici Sıkıştırma) ile yakından ilgilidir. Ünite 4'te, az örnekleme (Subsampling) ve sıkıştırma (compression) ile dosya boyutunun azaltılmasından bahsedilir. Temporal Compression, kareler arasındaki farkı sıkıştırır. Bu, 'geçici fazlalığı' azaltma tanımına en yakındır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -643,7 +647,8 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 33,
@@ -662,7 +667,6 @@
             "UniteNo": 3,
             "topic": "Devamlılık Kurgusu",
             "explanation": "Blain Brown'a göre devamlılık türleri içerik, hareket, konum ve zaman devamlılığıdır. Öyküsel ses veya ekran içi ses kullanımı ise ses kurgusu/anlatımı ile ilgilidir, devamlılık kurgusunun bileşeni değildir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -685,7 +689,8 @@
             "is_duplicate": true,
             "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 35,
@@ -705,7 +710,7 @@
             "topic": "Kurguda Geçiş Türleri",
             "explanation": "Siyah ekranda beliren dairenin genişleyerek ekranı kaplaması tekniği, genellikle 'dissolve' (eriyik) veya özel bir 'wipe' (silme) geçiş türü ile ilişkilendirilir. Ancak metinde özel olarak bahsi geçen ve sinema tarihinin ilk yıllarından itibaren var olan, ancak Çapraz Kesme (Cross Cut) ve Plan-Sekans (Long Take) olmayan, temel geçiş türü kesmedir. Ancak sorunun tanımına en uygun olan ve genellikle başlangıç/bitiş için kullanılan teknik 'Fade-in' veya 'Fade-out' olabilir. Ses kurgusunda 'fade-in' ve 'fade-out'tan bahsedilir. Görüntüde ise, metinde spesifik olarak adlandırılmamış olsa da, genellikle 'Dissolve' (Eriyik) bir sonraki sahneye geçişte kullanılır. Eğer bu bir geçiş efekti ise ve metinde sadece Kesme, Cross Cut ve Plan Sekans'tan bahsedilmişse, bu geçiş türlerinden biri olmalıdır. Genellikle siyah ekranda bir dairenin genişlemesi 'Iris' (İris) geçişidir. Metinde 'Iris' geçişi açıkça geçmemektedir. Ancak ses kurgusunda 'fade-in' ve 'fade-out' anlatılırken 'video kurgusunda bindirme/kesme' olarak bahsedilir. Video kurgusunda 'dissolve' veya 'wipe' tercih edilir. Verilen seçenekler (Cut, Cross Cut, Plan Sekans) arasında bu tanıma uyan spesifik bir teknik yoktur. Ancak, 'Wipe' geçişi, bir çizginin veya şeklin ekranı temizlemesiyle gerçekleşir. Bu, 'dairenin genişlemesi' tanımına en yakın seçeneklerden biridir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 36,
@@ -725,9 +730,9 @@
             "topic": "Program Monitörü",
             "explanation": "Program monitörü (Program Monitor), zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı olarak izlenmesini sağlayan bileşendir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 18,
-            "similarity_score": 0.9987750053405762
+            "duplication_reason": "Soru 1 ve Soru 2'nin soru metinleri neredeyse tamamen aynıdır (Soru 2'de 'gerçek' kelimesi eksiktir, ancak anlamsal olarak aynı şeyi sorar). Şık listeleri ve doğru cevap ('Program Monitörü') tamamen aynıdır. Bu sorular kopyadır."
         },
         {
             "id": 37,
@@ -747,9 +752,8 @@
             "topic": "Dijital Kurgu Yazılımları",
             "explanation": "Ünite 4'te, gelişen teknolojilerle birlikte yapay zeka (AI) kavramının ortaya çıkmasından ve sinema filmlerinin kurgulanmasında kendine yer edinmeye başlamasından bahsedilmiştir. Adobe Premiere Pro'nun 2023 sürümü (23.x serisi) ile 'Firefly' entegrasyonu ve yeni AI özellikleri gelmiştir. Soruda geçen 2023 sürümü yerine 2024 sürümünden (Ünite 4 metninde 2024 geçti) bahsedilmiş olsa da, yapay zeka vurgusu geçerlidir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 19,
-            "similarity_score": 0.9998083710670471
+            "occurrence_count": 0,
+            "duplicate_of": 19
         },
         {
             "id": 38,
@@ -771,7 +775,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 39,
@@ -851,9 +856,9 @@
             "topic": "Proxy İş Akışı",
             "explanation": "Kurguda işleyişin hızlanması için görüntülerin daha az yer kaplayan düşük kalitede kopyalarının çıkarılması işlemine 'Proxy' adı verilir. Ünite 4'te 'Dijital Post Prodüksiyon İş Akışı' başlığı altında, 'Bu görüntülerle önceki bölümlerde bahsedilen Ön Kurgu (Off-line editing) sürecine girilir' denilerek, 'Bu görüntülerin daha az yer kaplayan düşük kalitede kopyaları çıkarılır. Bu görüntüler vekil (proxy) format olarak adlandırılır' bilgisi verilmektedir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 28,
-            "similarity_score": 0.9785957932472229
+            "duplication_reason": "Soru kökleri ve doğru cevaplar tamamen aynıdır ('Vekil (proxy) format'). Şıklar sadece yeniden sıralanmış ve bir şık değiştirilmiştir, bu da sorunun kopyası olduğu gerçeğini değiştirmez."
         },
         {
             "id": 43,
@@ -872,8 +877,7 @@
             "UniteNo": 4,
             "topic": "Desteklenen Dosya Formatları",
             "explanation": "Adobe Premiere Pro'nun desteklediği dosya türleri arasında MP4, MOV, AVI, MPEG-2, WMV, WAV, MP3 gibi popüler türler sayılmıştır (Ünite 4). ProRes ise Apple'ın kendi video formatıdır ve genellikle yüksek kaliteli düzenleme için kullanılır. Ünite 4'te 'Dışa Aktarma (Export)' başlığı altında H.264, MPEG-4, AVI, QuickTime, WMV, HEVC, ProRes ve diğer birçok formatın desteklendiği belirtilmektedir. Ancak, kayıpsız ses formatları arasında WAV ve AIFF (Audio Interchange File Format) sayılmıştır (Ünite 8). Soru 2'de 'ses' formatları soruluyor. Ünite 8'de kayıpsız ses formatları WAV ve AIFF olarak belirtilmiştir. Ünite 4'te ise desteklenen genel formatlar listelenirken ProRes video formatı olarak geçmektedir. Eğer soru video formatlarını kastediyorsa ProRes desteklenir. Eğer ses formatlarını kastediyorsa WAV ve AIFF desteklenir. Ünite 8'de ise MP3, AAC, Ogg Vorbis (kayıplı) ve WAV, AIFF (kayıpsız) ses formatları listelenmiştir. ProRes genellikle video formatıdır. WAV ve AIFF ses formatları desteklenir, MP3 desteklenir. Bu durumda ProRes video formatı olarak kabul edilirse, listedeki ses formatları (MP3, AAC, Ogg Vorbis, WAV, AIFF) desteklenir. Ancak soruda video formatlarından biri değildir deniliyor ise, ProRes video formatıdır ve desteklenir. Soru 2'nin formatları ses mi video mu belirtilmediğinden, Ünite 4'teki listeye göre ProRes desteklenir. Ünite 8'deki ses formatları listesine bakıldığında, MP3, AAC, Ogg Vorbis, WAV, AIFF sayılmıştır. Bu listede ProRes yoktur. Bu nedenle ProRes'in ses formatı olarak listelenmemesi en olası cevap olabilir. Ancak Ünite 4'te ProRes video formatı olarak listelenmiştir ve desteklenmektedir. Soru 2, video dosya türlerini sormaktadır ve listede olmayan birini aramaktadır. Ünite 4'te desteklenenler: H.264, MPEG-4, AVI, QuickTime, WMV, HEVC, ProRes. MP3, AAC, Ogg Vorbis ses formatlarıdır. WAV, AIFF ses formatlarıdır. Soruda 'video dosya türlerinden biri değildir' denildiğine göre, seçenekler verilmediğinden kesin bir cevaba ulaşmak zor. Ancak Ünite 8'de ses formatları listelenirken MP3, AAC, Ogg Vorbis (kayıplı) ve WAV, AIFF (kayıpsız) sayılmıştır. Ünite 4'te ProRes listelenmiştir. Şıklarda MP3 olsaydı, MP3 ses formatı olduğu için cevap olabilirdi. Varsayalım ki şıklar Ünite 8'deki ses formatlarıdır: MP3, AAC, Ogg Vorbis, WAV, AIFF. Bu durumda ProRes listede yoksa cevap olur. Ünite 4'te ise ProRes listelenmiştir. Verilen metinlere dayanarak, MP3, AAC, Ogg Vorbis kayıplı ses formatlarıdır. WAV, AIFF kayıpsız ses formatlarıdır (Ünite 8). ProRes ise Ünite 4'te video formatı olarak listelenmiştir. Soru, video formatlarını sorduğuna göre, listede olmayan birini bulmalıyız. Şıklar verilmediğinden, en olası cevap, Ünite 8'de ses formatı olarak detaylıca listelenen birinin (örneğin MP3 veya AAC) video formatı olarak sayılmamasıdır. Ancak, Ünite 4 listesinde ProRes var. Eğer seçeneklerde olmayan biri varsa o cevap olur. Kesin bir şık olmadığı için, Ünite 8'deki ses formatlarından birini (örn: MP3) seçelim, çünkü bu formatlar öncelikli olarak ses formatıdır ve video formatları listesinde geçmez (ProRes video formatı olarak geçer).",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "occurrence_count": 2
         },
         {
             "id": 44,
@@ -893,9 +897,9 @@
             "topic": "Ani Pan Tekniği",
             "explanation": "Siyah ekrandan beliren küçük bir dairenin gittikçe genişleyerek tüm ekranı kaplaması tekniği, genellikle 'Dissolve' (Zincirleme) veya 'Wipe' (Silme) geçişlerinin bir çeşidiyle ilişkilidir. Ancak, metinlerdeki geçiş teknikleri arasında bu tanıma tam olarak uyan bir teknik yoktur. Ancak, Soru 16'da bahsedilen ses köprüsü (ses geçişi) gibi bir geçiş tekniği kurguda da mevcuttur. Ünite 3'teki 'Ani Pan Tekniği (Whip Pan/Flash Pan/Swish Pan)' başlığı, hızlı pan hareketiyle iki konuyu birbirine bağladığını belirtir, ancak dairenin genişlemesiyle ilgili değildir. 'Fade-in' ve 'Fade-out' ise ses için tanımlanmıştır (Ünite 3, Ünite 8). 'Fade-in' genelde bir sahnenin başlangıcında görüntünün yavaşça açılmasıdır ve bir dairenin genişlemesi gibi görsel bir açılma hissi yaratır. Ünite 3'te Sıçramalı Kesme Tekniği'nde Jean-Luc Godard'ın filmi örnek verilmiştir. Ani Pan Tekniği ise hızlı panlama ile yapılır. Zincirleme (Dissolve) geçişi, iki görüntünün yavaşça birbirinin üzerine gelmesi ve birinin diğerini yavaşça yok etmesidir. Soru, görsel bir açılma/genişleme efekti soruyor; bu da genellikle 'Fade-in' ile ilgilidir. Ünite 3'te 'Fade-in' ses için tanımlanmıştır, ancak görsel geçişlerde de uygulanır. Seçenekler verilmediği için, görsel bir açılma hissi veren en temel geçiş türü olan Fade-in (görüntüde yavaşça açılma) en yakın cevaptır. Ancak bu teknik görsel geçişler başlığı altında doğrudan ismen verilmemiştir (sadece ses için Fade-in/Fade-out geçişleri geçmiştir). Ani Pan tekniği hızlı bir hareket içerir, daire genişlemesi ise yavaş bir açılmayı/geçişi ifade eder. En yakın görsel geçiş türlerinden biri olarak Dissolve (zincirleme) veya Fade-in (görüntüde) kabul edilebilir. Şıklar olmadan en doğru varsayım, görsel bir açılma tekniği olan 'Fade-in'in görsel karşılığıdır. Ani Pan (Whip Pan) hızlıdır. Bu soruyu cevaplamak için verilen metinlerdeki geçiş tekniklerinden birine atıf yapılmalıdır. Ünite 3'te 'Fade-in' geçişi görsel olarak bir açılma/genişleme hissi verir ve bu, siyah ekrandan yavaşça açılan bir daireye benzetilebilir (genellikle görsel 'Fade-in' siyah-beyaz filmde yapılır).",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 35,
-            "similarity_score": 0.9902063012123108
+            "duplication_reason": "Soru k\r\nkleri (ekranda/ekrandan fark\r\n d\r\n\r\nnda) anlamsal olarak tamamen ayn\r\nd\r\nr. \r\n\r\nklar ve do\r\nru cevap (\r\nris-in) ayn\r\nd\r\nr; yaln\r\nzca \r\n\r\nklar\r\nn s\r\nralamas\r\n farkl\r\nd\r\nr."
         },
         {
             "id": 45,
@@ -955,7 +959,7 @@
             "topic": "Belgesel Kurgusu İş Akışı",
             "explanation": "A-Roll ve B-Roll çekimlerin devreye girdiği iş akışı Belgesel Kurgusu İş Akışı'dır. Ünite 5'te, 'Belgesel Kurgusu İş Akışı' başlığı altında, 'Röportajlara dayalı belgesel kurgusunda A-Roll ve B-Roll çekimleri devreye girer' ifadesi yer almaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 48,
@@ -994,7 +998,7 @@
             "UniteNo": 6,
             "topic": "Doygunluk (Saturation)",
             "explanation": "Vectorscope, renk tonu (Hue) ve doygunluk (Saturation) bilgilerini görselleştirmek için kullanılır. Merkez noktadan uzaklaşmak, rengin saflığının (doygunluğunun) azalması anlamına gelir. Ünite 6'da 'Doygunluk (Saturation)' başlığı altında, 'Bir rengi tanımlamak için kullanılan üçüncü terim doygunluktur. Doygunluk, renk tonunun saflığını ifade eder' şeklinde tanımlanmıştır. Merkezden uzaklaşmak saflığın azalması demektir.",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1228,8 +1232,10 @@
             "UniteNo": 2,
             "topic": "Erken Video Teknolojileri",
             "explanation": "Metinde, sinema tarihinde 1920'lerden itibaren ses kaydı için kullanılan manyetik bantların 1950'lerde görüntüleri de kaydedebilecek seviyeye ulaşmasıyla televizyon endüstrisinin ihtiyaçlarını karşılayabilmeye başladığı belirtilmektedir. Ancak, ilk hareketli görüntü cihazı 'Kinetograf'tır. Kinetograf, Thomas Edison tarafından geliştirilmiştir ve bu bilgi bağlamında E şıkkı doğrudur. (Not: Metin 2'de Kinetograf kelimesi geçmektedir.)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru metinleri anlamsal olarak tamamen aynıdır (\"ilk\" ve \"bilinen ilk\"). Şık setleri ve doğru cevap (Kinetograf) aynıdır. Sadece şıkların sıralaması farklıdır.",
+            "duplicate_of": 7
         },
         {
             "id": 62,
@@ -1251,7 +1257,8 @@
             "is_duplicate": true,
             "duplicate_of": 6,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 63,
@@ -1273,7 +1280,8 @@
             "is_duplicate": true,
             "duplicate_of": 14,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 64,
@@ -1294,7 +1302,9 @@
             "explanation": "Metin, Adobe Premiere Pro'nun desteklediği dosya türlerinden bahsetmektedir: 'MP4, MOV, AVI, MPEG-2, WMV, WAV, MP3 gibi popüler dosya türleri bulunur.' WAV, hem ses hem de kayıpsız ses formatı olarak listelenmiştir. Ancak, ses dosyası formatları genellikle WAV iken, video dosya formatları MP4, MOV, AVI, WMV'dir. WAV (Waveform Audio File), Ünite 8'de de 'kayıpsız” ses formatları arasında listelenmiştir. Soru, video dosya türlerinden birini sormaktadır. WAV tipik olarak video formatı değil, ses formatıdır. Diğer şıklar (WMV, MOV, MP4, AVI) video formatları arasındadır. Bu nedenle WAV, video dosya türlerinden biri değildir. (Not: Ünite 8'de WAV, kayıpsız ses formatı olarak belirtilmiştir.)",
             "is_duplicate": true,
             "duplicate_of": 43,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 65,
@@ -1376,7 +1386,8 @@
             "is_duplicate": true,
             "duplicate_of": 45,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 69,
@@ -1398,7 +1409,8 @@
             "is_duplicate": true,
             "duplicate_of": 52,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 70,
@@ -1440,7 +1452,8 @@
             "is_duplicate": true,
             "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 72,
@@ -1462,7 +1475,8 @@
             "is_duplicate": true,
             "duplicate_of": 55,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 73,
@@ -1501,9 +1515,8 @@
             "UniteNo": 6,
             "topic": "Renk Bileşenleri",
             "explanation": "Ünite 6'daki 'Kontrast Oranı' tanımı şöyledir: 'Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farktır.' Bu, doğrudan sorunun tanımını karşılamaktadır.",
-            "is_duplicate": true,
-            "duplicate_of": 92,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "occurrence_count": 3
         },
         {
             "id": 75,
@@ -1522,9 +1535,8 @@
             "UniteNo": 7,
             "topic": "Görsel Efekt Teknikleri",
             "explanation": "Ünite 7'de 'Set Genişletme (Set Extension)' tanımı verilmiştir: 'Set genişletme, mevcut maddi ya da fiziksel imkansızlıklar nedeniyle prodüksiyon ile elde edilemeyecek mekânsal genişletmenin, mat boyama, canlı aksiyon ya da CGI olarak üretilmiş ögeleri kullanarak, birleştirme yöntemleri ile genişletilmesi anlamına gelir.' Bu teknik, daha geniş (panoramik) bir en boy oranı elde etmek için kullanılır. Diğer teknikler (Kalabalık Kopyalama, Hareket Takibi, Mat Boyama, Kamera Takibi) bu amaca doğrudan hizmet etmez.",
-            "is_duplicate": true,
-            "duplicate_of": 96,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "occurrence_count": 3
         },
         {
             "id": 76,
@@ -1560,7 +1572,6 @@
             "exam_question_number": 17,
             "source": "Dönem Sonu 2024-2025",
             "material_id": "622599",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1641,9 +1652,9 @@
             "topic": "Kurgu ve Anlatı",
             "explanation": "Soru 4 ve Soru 5 aynı sorunun farklı formatlarda yazılmış halleridir ve Ünite 3'te kurgu kuramları arasında bahsedilen kavramlarla ilgilidir. Özetlerde doğrudan 'Leit-motif' tanımı yer almamasına rağmen, Ünite 3'te D. W. Griffith'in çalışmalarından bahsedilirken; Georges Méliès'in kurgudan faydalanma çabası 'biçimci' olarak tanımlanmış, Lumière kardeşlerin yaklaşımı 'gerçekçi' olarak tanımlanmıştır. Ancak, 'Leit-motif' kavramı müzik ve sinemada belirli bir karakteri, duyguyu veya temayı tekrar eden müzikal veya görsel bir unsuru ifade eder ki bu, bir temanın çağrışımlarla aktarılması için kullanılan bir kuramsal yaklaşımdır. Sorunun doğru cevabı D seçeneği yerine B şıkkı olarak kabul edildiğinden, açıklamayı buna göre yapmalıyız. 'Leit-motif', bir müzik veya dramatik temayı temsil eden tekrarlayan müzikal veya görsel bir unsur (temayı çağrıştıran) anlamına gelir, bu da temanın çağrışımlarla aktarılmasını ifade eder.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 4,
-            "similarity_score": 0.9757333397865295
+            "occurrence_count": 0,
+            "duplicate_of": 24,
+            "duplication_reason": "Soru kökleri (\"kurgu\" ve \"kavram\" kelimeleri dışında) ve şık setleri tamamen aynıdır. Her iki sorunun da doğru cevabı 'Leit-motif' kavramıdır. Bu iki soru anlamsal olarak kopyadır."
         },
         {
             "id": 82,
@@ -1663,9 +1674,10 @@
             "topic": "Erken Film Yapımcıları",
             "explanation": "Metinde Edwin Porter'ın yönettiği filmler arasında 'Büyük Tren Soygunu' (1903) ve 'Amerikalı İtfaiyecinin Hayatı' (1903) filmlerinin özellikle belli öykülerin anlatıldığı filmler olarak dikkat çektiği belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 21,
+            "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1685,9 +1697,10 @@
             "topic": "Ses Sinyali Türleri",
             "explanation": "Metinde, ses kanallarının dört farklı yöntemle ayarlanabileceğinden bahsedilmiştir. Bu yöntemlerden biri olan 'Ses Kanal Mikseri'nden (Audio Track Mixer) ses kanallarının ayarlanması sırasında, ses kanalı mikserinde sesin stereo çıkış kanallarına yönlendirilmesi için 'Pan' ya da 'Balance' düğmesi kullanıldığı belirtilmiştir. Pan (dengeleme), sesin sol (L) ya da sağ (R) çıkış kanalına yönlendirilmesini sağlar. Ancak RGB (Renk) ile ilgili bir kavram değildir; ses ile ilgilidir. Metinde RGB kanallarının düzgün ayarlanmasının 'Renk Eğrileri' ile yapıldığı, ancak sorunun ses sinyalleriyle ilgili olduğu göz önüne alındığında, bu soru bağlamında RGB ile eşleştirilen doğru bir ses sinyal çeşidi yoktur. Verilen seçenekler arasında sadece 'RGB' renk verilerinin birleştirilmesi ifadesi teknik olarak renk düzeltmedir. Ancak sorunun bağlamı ses kurgusu (Ünite 8) ve ses sinyali (RGB gibi bir şey) olduğundan, soruyu en uygun yere yerleştirmek gerekirse, ses sinyali konularının işlendiği Ünite 8'de bu tür bir sinyal çeşidi tanımlanmamıştır. Ancak ses sinyali konularını içeren Ünite 8'de, sesin dinamik alanının dB ile ölçüldüğü belirtilir. Sorunun \"RGB renk verilerinin birleştirilmesi\" ve tek kablo üzerinden aktarılması ifadesi, RGB'nin analog sinyallerle (monokrom/kromatik bileşenler) ilişkisini çağrıştırsa da, ses bağlamında bu ifade teknik olarak bir ses sinyali türünü doğru şekilde tanımlamaz. Ancak, ses sinyal seviyelerinin en iyi -6dB ile -24dB aralığında olduğu bilgisinden yola çıkılarak, bu sorunun ses/sinyal konulu Ünite 8'e ait olduğu düşünülmelidir.",
             "is_duplicate": true,
-            "duplicate_of": 27,
+            "duplicate_of": 8,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1706,8 +1719,10 @@
             "UniteNo": 4,
             "topic": "Sekans Ayarları",
             "explanation": "Metinde, Sekans Ayarları başlığı altında Timebase'in FPS değeri olarak da bilindiği ve bir saniye içerisinde gösterilecek olan kare sayısını belirttiği ifade edilmiştir. Bu, kare hızının (frame rate) tanımıdır.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "is_duplicate": true,
+            "duplicate_of": 5,
+            "occurrence_count": 0
         },
         {
             "id": 85,
@@ -1727,9 +1742,10 @@
             "topic": "Görsel Efekt ve Çekim Ölçekleri",
             "explanation": "Metinde, Çekim Ölçekleri başlığı altında (Ünite 3'te de benzeri geçmektedir) duygusal etkiyi en iyi yansıtan çekim ölçeği olarak 'Baş Plan (Close up)' belirtilmemiştir. Ancak Ünite 3'te Kurgunun Temel İlkeleri arasında, Murch'a göre duyguyu en iyi yansıtan kesme kuralının Duygu (%51) olduğu belirtilmiştir. Ünite 7'de, görsel efektler bağlamında 'Görsel Efekt Uygulama Esasları' başlığı altında, çekim ölçeklerinden (örneğin, maskeleme, detay gösterme) bahsedilir. Ünite 3'te yer alan Murch kural sıralamasında duyguyu (%51) en yüksek oranda temsil eden bir çekim ölçeği adı doğrudan verilmemiştir, ancak genel kurgu kurallarında 'Baş Plan (Close up)' duygusal anlatım için en etkili yoldur. Bu soru bağlamında en uygun cevap Ünite 3'teki Murch kurallarından yola çıkılarak Baş Plan'a yöneliktir.",
             "is_duplicate": true,
-            "duplicate_of": 34,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 86,
@@ -1749,9 +1765,10 @@
             "topic": "Kurgu Geçiş Teknikleri",
             "explanation": "Metinde, Ani Pan Tekniği başlığı altında, kameranın çok hızlı bir şekilde sağa ya da sola doğru pan (çevrinme) yaparak farklı sahnelerdeki iki konuyu birbirine bağlamasına 'ani pan' adı verildiği belirtilmiştir. Bu tekniğin, iki çekim arasında görsel olarak ilgi çekici bir geçiş oluşturmak için kullanıldığı ifade edilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 63,
+            "duplicate_of": 14,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 87,
@@ -1790,8 +1807,10 @@
             "UniteNo": 5,
             "topic": "Belgesel Kurgu İş Akışı",
             "explanation": "Metinde, Belgesel Kurgusu İş Akışı başlığı altında, belgesel uzun bir zaman aralığını konu alabileceği ve bu nedenle A-Roll (konuşma/ana çekim) ve B-Roll (destekleyici çekimler) devreye girdiği belirtilmiştir. Röportajlara dayalı belgesel kurgusunda bu iki çekim türünün kullanıldığı ifade edilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru 1'deki 'A-roll' terimi yerine Soru 2'de muhtemelen yazım hatasıyla 'Akışlı' terimi kullanılmıştır, ancak B-Roll ile birlikte sorulan konsept, şıklar kümesi ve doğru cevap (Belgesel röportaj kurgusu) tamamen aynıdır. Bu, anlamsal olarak kopyadır.",
+            "duplicate_of": 47
         },
         {
             "id": 89,
@@ -1811,9 +1830,10 @@
             "topic": "Dijital Ses Formatları",
             "explanation": "Metinde, Dijital Ses Dosyası Formatları başlığı altında popüler kayıplı ses formatlarının MP3, AAC ve Ogg Vorbis olduğu; kayıpsız formatların ise WAV ve AIFF olduğu belirtilmiştir. JPEG bir ses dosya formatı değil, genellikle bir görüntü dosyası formatıdır.",
             "is_duplicate": true,
-            "duplicate_of": 38,
+            "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 90,
@@ -1872,10 +1892,10 @@
             "UniteNo": 6,
             "topic": "Renk Kavramları - Kontrast",
             "explanation": "Metinde, Renk Düzenlemede Temel Kavramlar başlığı altında, Kontrast Oranı'nın, bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki fark olduğu açıkça belirtilmiştir.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 74,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 93,
@@ -1915,9 +1935,9 @@
             "topic": "Renk Analiz Araçları",
             "explanation": "Metinde, Renk Düzenlemenin İş Akışı Mimarisi başlığı altında (Ünite 6'da renk bileşenleri anlatılırken) renk çarkından bahsedilmiştir. Vectorscope, renklerin tonunu (Hue) gösterir. Bir rengin merkezden uzaklaşması, doygunluğunun (Saturation) artması anlamına gelir. Eğer bir renk merkezden uzaklaşıyorsa (daha saf hale geliyorsa), merkezden uzaklaştığı için 'Doygunluğu' artar. Metinde renk tonu (Hue) renk çarkındaki konumdur, parlaklık ise beyaz veya siyah eklenmesidir. Doygunluk ise renk tonunun saflığıdır. Merkezden uzaklaşmak, saflığın artması demektir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 71,
-            "similarity_score": 0.9815884232521057
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır (vectorscope'ta merkezden uzaklaşmanın neyi değiştirdiği soruluyor). Şık listesi ve doğru cevaplar da aynıdır."
         },
         {
             "id": 95,
@@ -1956,10 +1976,10 @@
             "UniteNo": 6,
             "topic": "Renk ve Çerçeve Oranı",
             "explanation": "Metinde, Renk Düzenlemede Temel Araçlar başlığı altında, çekimler arasında dengeleme yapılırken, eğer iki çekimi aynı anda göreceğimiz 'wipe' özelliğini kullandığımız ve bu çekimlerin farklı en boy oranlarına sahip olması durumunda, bu uyumsuzluğu gidermek için referans noktalarının kullanıldığı belirtilmiştir. Ancak daha panoramik bir en boy oranı ihtiyacı (daha geniş görüntü) için genellikle 'set genişletme' veya 'dijital mat boyama' teknikleri kullanılır. Metinde 'Sayısal Birleştirme' başlığı altında, 'set genişletme'nin maddi/fiziksel imkansızlıklar nedeniyle yapılamayan mekânsal genişletmeyi sağladığı belirtilmiştir. Bu da istenilen en boy oranını elde etmede dolaylı yoldan yardımcı olur.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 75,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 97,
@@ -1981,7 +2001,8 @@
             "is_duplicate": true,
             "duplicate_of": 56,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 98,
@@ -2001,7 +2022,7 @@
             "topic": "Sesin Temel Ögeleri",
             "explanation": "Ünite 8'de 'Sesin Temel Ögeleri' başlığı altında sesin üç temel ögesi Konuşma sesleri (diyalog, anlatıcı ses), ses efektleri (ortam sesi) ve müzik olarak sıralanmıştır. Ardından, bu üç temel ögeye dördüncü olarak 'sessizlik' ögesini eklemek gerektiği belirtilmiştir. Bu nedenle boş bırakılan yer 'sessizlik' (C) ile tamamlanmalıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 99,
@@ -2023,7 +2044,8 @@
             "is_duplicate": true,
             "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 100,
@@ -2045,7 +2067,8 @@
             "is_duplicate": true,
             "duplicate_of": 60,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 101,
@@ -2064,8 +2087,10 @@
             "UniteNo": 3,
             "topic": "Kurgu Kuramları",
             "explanation": "Sorunun doğru kabul edilen cevabı 'Leit-motif'tir. Leit-motif, bir karakteri, temayı, mekanı veya duyguyu temsil eden ve tekrar eden müzikal veya görsel bir temadır. Bu tekrar eden unsur, izleyicide o temanın çağrışımını (imply) yaratır. Bu, 'temanın çağrışımlar ile aktarılması' tanımına en uygun kuramsal yaklaşımdır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru 2, Soru 1'in şıkları ve doğru cevabı tamamen aynı olan, ancak soru metni bariz bir şekilde bozulmuş ('</br>' ve eksik kelimeler) bir kopyasıdır. Aynı bilgi parçasını ölçmeyi hedeflemektedirler.",
+            "duplicate_of": 81
         },
         {
             "id": 102,
@@ -2085,9 +2110,10 @@
             "topic": "Erken Dönem Sinema",
             "explanation": "Ünite 1'de Edwin Porter'ın kurguya getirdiği yenilikler ve filmlerinden bahsedilmiştir. Metinde Edwin Porter'ın yönettiği filmler içerisinde 'Büyük Tren Soygunu' (1903) ile 'Amerikalı İtfaiyecinin Hayatı' (1903)'nın özellikle belli öykülerin anlatıldığı filmler olarak dikkat çektiği belirtilmiştir. Bu nedenle doğru cevap (E) Amerikalı İtfaiyecinin Hayatı'dır.",
             "is_duplicate": true,
-            "duplicate_of": 82,
+            "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2107,9 +2133,10 @@
             "topic": "Ses Sinyali",
             "explanation": "Analog ses sinyalinin dijital ses sinyaline çevriminde ADC (Analog to Digital) dönüştürücü kullanılır ve dijital ses sinyali sayısal veriler halinde kaydedilir. Bu, RGB renk verilerinin birleştirilip tek bir sinyal olarak değil, ses bilgisinin analogdan dijitale çevrimini ifade eder. Ancak soruda RGB renk verileri geçtiği için, eğer soru renk kurgusu bağlamında soruluyorsa, bu genellikle katmalı renk sisteminin temel bileşenlerinin (RGB) bir araya gelmesiyle ilgilidir; ancak ses kurgusu ünitesinde bu tür bir bağlantı zayıftır. Verilen bağlamda, ses sinyali bağlamında en alakalı kavramlar düşünüldüğünde, dijital ses sinyali sayısal veriler halinde kaydedilir. Eğer soruda kastedilen temel RGB bileşenlerinin bir araya getirilmesi ise, bu 'Katmanlı Renk' (Additive Color) ile ilgilidir (Ünite 6). Ancak ses kurgusu bağlamında, soruyu en iyi tamamlayacak kavram analogdan dijitale dönüşümdür. Dijital ses sinyali, analog haldeki sesin dijitale çevrilmesiyle elde edilir.",
             "is_duplicate": true,
-            "duplicate_of": 83,
+            "duplicate_of": 8,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 104,
@@ -2131,7 +2158,8 @@
             "is_duplicate": true,
             "duplicate_of": 84,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 105,
@@ -2151,9 +2179,10 @@
             "topic": "Murch'un Kurgu Kuralları",
             "explanation": "Walter Murch'a göre, kurgunun kurallarını önem sırasıyla sıraladığında, duyguyu (51%) en çok yansıtan ve bu nedenle en önemli olan katman Baş plan (shot) veya Duygu'dur. En önemli kural Duygu'dur, ki bu da genellikle yakın çekimlerle sağlanır.",
             "is_duplicate": true,
-            "duplicate_of": 85,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 106,
@@ -2173,9 +2202,10 @@
             "topic": "Kurguda Geçişler",
             "explanation": "Kameranın çok hızlı bir şekilde sağa ya da sola doğru pan (çevrinme) yaparak farklı sahnelerdeki iki konuyu birbirine bağlamasına ani pan (Whip Pan/Flash Pan/Swish Pan) adı verilir.",
             "is_duplicate": true,
-            "duplicate_of": 86,
+            "duplicate_of": 14,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 107,
@@ -2194,7 +2224,6 @@
             "UniteNo": 4,
             "topic": "İçe Aktarma",
             "explanation": "Proje panelinde oluşturduğunuz yeni projeniz için düzenlemeye geçmeden önce dosyalarınızı içe aktarmak (import) gerekir (Ünite 4).",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2235,9 +2264,10 @@
             "topic": "Dijital Ses Formatları",
             "explanation": "Profesyonel ses kaydı ve düzenlemede kayıpsız ses formatları (WAV, AIFF) tercih edilirken, MP3, AAC, Ogg Vorbis kayıplı (sıkıştırılmış) formatlardır. Videodaki ses kurgusu bağlamında, WAV ve AIFF kayıpsız formatlardır. MP4 ise genellikle video formatıdır; ses bileşeni olarak da kullanılabilir ancak genellikle kayıplı ses formatları sorulur. WAV ve AIFF kayıpsız ses formatları iken, MP3 kayıplı ses formatıdır. MOV ise genellikle video konteyner formatıdır. WAV (Waveform Audio File) ve AIFF (Audio Interchange File Format) kayıpsız ses formatlarıdır. Soruda MP4, MOV, AVI, MPEG-2, WMV gibi formatlar video/konteyner olarak bilinirken, WAV ve AIFF ses formatıdır. Verilen seçeneklerde MP3 bir ses formatıdır. Eğer soruda ",
             "is_duplicate": true,
-            "duplicate_of": 89,
+            "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2259,7 +2289,8 @@
             "is_duplicate": true,
             "duplicate_of": 90,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 111,
@@ -2281,7 +2312,8 @@
             "is_duplicate": true,
             "duplicate_of": 91,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 112,
@@ -2301,9 +2333,10 @@
             "topic": "Renk Kavramları",
             "explanation": "Ünite 6'da, 'Renk Düzenleme' başlığı altında, 'Kontrast Oranı' şu şekilde tanımlanmıştır: 'Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farktır.' Bu tanım, soruda verilen tanıma tamamen uymaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 92,
+            "duplicate_of": 74,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 113,
@@ -2325,7 +2358,8 @@
             "is_duplicate": true,
             "duplicate_of": 93,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 114,
@@ -2345,9 +2379,9 @@
             "topic": "Renk Bileşenleri",
             "explanation": "Ünite 6'da renk bileşenleri açıklanırken, 'Doygunluk (Saturation)' terimi 'Bir rengi tanımlamak için kullanılan üçüncü terim doygunluktur. Doygunluk, renk tonunun saflığını ifade eder' şeklinde tanımlanmıştır. Vectorscope'ta renk merkezden uzaklaştıkça (yani saflığı azaldıkça/bozuldukça), bu, o rengin doygunluğunun azaldığı anlamına gelir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 71,
-            "similarity_score": 0.9582250118255615
+            "occurrence_count": 0,
+            "duplicate_of": 94,
+            "duplication_reason": "Soru kökleri, şıkları ve doğru cevapları tamamen aynıdır. Soru 2'deki 'temel bileşenlerinden' ifadesi anlamsal olarak bir farklılık yaratmamaktadır."
         },
         {
             "id": 115,
@@ -2369,7 +2403,8 @@
             "is_duplicate": true,
             "duplicate_of": 95,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 116,
@@ -2389,9 +2424,10 @@
             "topic": "Görsel Efekt Uygulamaları",
             "explanation": "Ünite 7'de 'Set Genişletme (Set Extension)' tanımı yapılırken, bu tekniğin 'mevcut maddi ya da fiziksel imkansızlıklar nedeniyle prodüksiyon ile elde edilemeyecek mekânsal genişletmenin' sağlanması amacıyla kullanıldığı belirtilmiştir. Eğer çekimler mevcut panoramik bir en boy oranına (aspect ratio) sahipse ve daha geniş bir oran gerekiyorsa, bu genellikle setin dijital olarak genişletilmesiyle sağlanır. Bu, set genişletmenin temel amaçlarından biridir.",
             "is_duplicate": true,
-            "duplicate_of": 96,
+            "duplicate_of": 75,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 117,
@@ -2411,9 +2447,10 @@
             "topic": "Görsel Efekt Süreçleri",
             "explanation": "Ünite 7'de 'Görsel Efekt Uygulama Esasları' altında altı ana başlık listelenmiştir: Chroma Key, Rotoskop, Matchmove, Digital Matte Painting, Digital Compositing ve Animation. 'Freeze Frame (Kare Dondurma)' ise bu listede yer almamaktadır. Freeze Frame, bir görüntüyü hareketsiz tutmaktır; bu bir kurgu tekniği veya özel efekt sayılabilir ancak belirtilen altı temel uygulama sürecinden biri değildir.",
             "is_duplicate": true,
-            "duplicate_of": 97,
+            "duplicate_of": 56,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2433,9 +2470,9 @@
             "topic": "Sesin Temel Ögeleri",
             "explanation": "Ünite 8'de 'Sesin Temel Ögeleri' başlığı altında sesin üç temel ögesi Konuşma sesleri (diyalog, anlatıcı ses), ses efektleri (ortam sesi) ve müzik olarak sıralanmıştır. Ardından, bu üç temel ögeye dördüncü olarak 'sessizlik' ögesini eklemek gerektiği belirtilmiştir. Bu nedenle boş bırakılan yer 'sessizlik' (C) ile tamamlanmalıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 98,
-            "similarity_score": 0.9913590550422668
+            "duplication_reason": "Soru metni (boşluk uzunluğu farkı dışında), şıklar ve doğru cevap (sessizlik) tamamen aynıdır. Bu iki soru, bir sınav veritabanında mükemmel kopyadır."
         },
         {
             "id": 119,
@@ -2455,9 +2492,10 @@
             "topic": "Ses Seviyesi Ölçümü",
             "explanation": "Ünite 8'de, 'Ses Monitörleri ve Ses Sinyal Seviyeleri' başlığı altında 'Ses seviyelerinin ulaştığı tepe noktasında -6dBFS ile -9dBFS aralığı oldukça ideal bir seviyedir' bilgisinden sonra, 'Ses sinyalinin en düşük ve en yüksek seviyesi arasındaki fark da “dinamik alan” olarak tanımlanır' ifadesi geçmektedir. Bu fark, ses sinyalinin ulaşabildiği en geniş aralığı ifade eder.",
             "is_duplicate": true,
-            "duplicate_of": 99,
+            "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 120,
@@ -2477,9 +2515,10 @@
             "topic": "Film Anlatısında Ses",
             "explanation": "Ünite 8'de, 'Film Anlatısında Ses Kullanımı' başlığı altında ses türleri tanımlanmıştır. 'Öyküsel ses', 'film öyküsünde yer alan, film izleyicisiyle beraber filmdeki karakterlerin de işittiği tüm seslerdir.' Bu tanım, sorunun 'film öyküsünde yer alan, film izleyicisiyle beraber filmdeki karakterlerin de işittiği tüm seslere' verilen karşılıktır.",
             "is_duplicate": true,
-            "duplicate_of": 100,
+            "duplicate_of": 60,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

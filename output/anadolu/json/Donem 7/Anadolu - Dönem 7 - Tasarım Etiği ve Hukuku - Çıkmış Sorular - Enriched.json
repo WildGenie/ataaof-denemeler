@@ -15,7 +15,10 @@
             "source": "Ara Sınav 2024-2025",
             "material_id": "591752",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 1,
+            "topic": "Etik Sorunların Özellikleri",
+            "explanation": "Etik sorunlar, doğası gereği basit ve kesin çözümleri olmayan, karmaşık problemlerdir. Ünite 1'de yer alan \"Etik sorunların özellikleri\" başlığı altında, etik sorunların temel özelliğinin \"Seçimlerin mutlak doğru ya da yanlış olmaması\" gerektiği açıkça belirtilmektedir. Etik bir sorunda, seçenekler arasında net bir doğru veya yanlış yoktur, bu da ahlaki yargı ve seçim yapma zorunluluğunu ortaya çıkarır. Bu nedenle, \"Seçimlerin mutlak doğru ya da yanlış olması\" ifadesi, etik sorunların özelliklerinden biri değildir ve bu sebeple doğru cevap olarak kabul edilir."
         },
         {
             "id": 2,
@@ -34,7 +37,6 @@
             "UniteNo": 1,
             "topic": "Etik Sorun Türleri",
             "explanation": "Ünite 1'de etik sorun türleri; etik ihlal, ahlaki belirsizlik, etik ikilem, ahlaki öfke ve vicdani ret olarak sınıflandırılmıştır. 'Etik kararsızlık' bu listede yer almamaktadır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -474,7 +476,6 @@
             "UniteNo": 4,
             "topic": "FSEK Eser Koruma Kapsamı",
             "explanation": "Soru, 5846 sayılı FSEK kapsamında eser olarak korunması mümkün olmayan bir fikri ürünü sormaktadır. Ünite 4'te Fikri Ürünün Eser Olarak Nitelendirilmesinin Şartları başlığı altında, FSEK'teki eser kategorileri sayılırken, \"Sınırlı sayıda olma, sayılanların dışında yeni bir kategori yaratılamayacağı anlamına gelmektedir.\" denilmiştir. Ayrıca eser olarak korunmayacaklar listesinde \"Estetik niteliği bulunan mahsuller, edebiyat ve sanat eserleri ile bilim eserleri\" denirken, Bilgi Sunumu'nun eser olmadığı belirtilmemiştir. Ancak, yine aynı ünitede, \"FSEK'teki eser kategorileri; ilim ve edebiyat, müzik, güzel sanat eserleri ve sinema eserleridir. Ayrıca işlenme ve derleme eserler de düzenlenmiştir.\" denilmiştir. FSEK md. 82/2'ye göre koruma dışı kalanlar arasında bilgi sunumu yer almaktadır. Yargıtay kararlarına göre, eser olarak korunması mümkün olmayanlar arasında \"Bilginin sunumu\" sayılır (Ünite 4, sayfa 2). Ayrıca, FSEK m. 82/2'de sayılanlar (Keşifler, zihni faaliyetler, estetik niteliği olmayan fotoğraflar/çizimler, bilgisayar programları hariç, bilgi sunumu) koruma dışındadır. Metinde özellikle bilgisayar programları (endüstriyel yolla üretilenler) ve bilgi sunumu koruma dışındadır. Veritabanlarının içeriği ise ek madde 8 ile korunur, ancak salt bilgi sunumu eser sayılmaz. Veritabanı içeriğinin oluşturulması için yatırım aranır, düşünce yaratıcılığı aranmaz. Bilgisayar programları FSEK kapsamında eser sayılmaz (Ünite 4, sayfa 2'de liste var). Estetik niteliği bulunmayan fotoğraf ve çizimler de eser sayılmaz (Ünite 4, sayfa 1'de liste var). Bilginin sunumu da eser kapsamında değildir (Ünite 4, sayfa 2).",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -514,7 +515,6 @@
             "UniteNo": 5,
             "topic": "Bilgilenmiş Kullanıcı",
             "explanation": "Soru, tasarımın ayırt edici niteliğinin değerlendirilmesinde kullanılan \"bilgilenmiş kullanıcı\" kavramı ile ilgili doğru ifadeyi sormaktadır. Ünite 5'te Ayırt Edici Nitelik başlığı altında, bilgilenmiş kullanıcının tanımı verilmiştir: \"Bilgilenmiş kullanıcı, değerlendirilecek tasarımın yönelik olduğu ürün grubu hakkında bilgi sahibi olan, piyasayı tanıyan, bilen, herhangi bir sebeple benzer tasarımlar hakkında bilgi ve/veya kullanım deneyimine sahip olmuş farazi bir kişi olarak kabul edilir.\" Bu tanım, verilen seçeneklerden ilkiyle doğrudan örtüşmektedir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {

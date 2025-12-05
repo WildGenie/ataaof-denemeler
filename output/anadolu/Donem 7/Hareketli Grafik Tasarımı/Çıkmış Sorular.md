@@ -2,6 +2,19 @@
 
 ## Ünite 1
 
+### Antik Hareket Tasvirleri
+
+1. Aşağıdaki arkeolojik buluntulardan hangisi antik dönemde bir dizi spor hareketinin nasıl yapılacağını açıklayan çizimler içerir?
+    - A-) Efes Antik Kenti
+    - B-) Göbeklitepe Sit Alanı
+    - C-) Parteon Rölyef ve Heykelleri
+    - D-) Truva Antik Kenti
+    - **Cevap E-) Khnumhotepin Mezarı**
+
+    > **Açıklama:** Hareketli Grafiğin Gelişimi başlıklı 1. Ünite'de, insanlığın hareketi görsel olarak canlandırma çabaları anlatılırken, Antik Mısır'daki duvar resimlerinin hareket tasvir etme çabasının erken örneklerinden olduğu belirtilmektedir. Khnumhotepin Mezarı'nın bulunduğu Beni Hassan'daki güreşçi figürleri, hareketin görsel anlatımına dair önemli eserler olarak vurgulanmıştır. Bu figürler, bir dizi spor hareketinin (güreşin) aşamalarını ardışık çizimlerle göstererek, hareketin kaydedilmesi ve iletilmesi çabasının antik dönemdeki en belirgin örneklerinden biridir. Özellikle Beni Hassan'daki güreşçi figürleri, hareketin görsel anlatımına dair önemli eserler arasında sayılır ve spor hareketlerinin sekanslarını detaylıca tasvir eder.
+
+    <hr />
+
 ### Camera Obscura ve Optik Oyuncaklar
 
 1. Aşağıdakilerden hangisinde camera kullanılmamıştır?
@@ -516,15 +529,5 @@
 
     > **Açıklama:** Üretken yapay zeka (Generative AI), büyük görüntü veri kümeleri üzerinde eğitilerek logolar, illüstrasyonlar, fotoğraflar, web tasarım öğeleri ve reklam materyalleri gibi benzersiz tasarımlar ve kompozisyonlar oluşturma yeteneğine sahiptir (Ünite 8).
 
-    <hr />
-
-## Ünite Diğer
-
-1. Aşağıdaki arkeolojik buluntulardan hangisi antik dönemde bir dizi spor hareketinin nasıl yapılacağını açıklayan çizimler içerir?
-    - A-) Efes Antik Kenti
-    - B-) Göbeklitepe Sit Alanı
-    - C-) Parteon Rölyef ve Heykelleri
-    - D-) Truva Antik Kenti
-    - **Cevap E-) Khnumhotepin Mezarı**
     <hr />
 

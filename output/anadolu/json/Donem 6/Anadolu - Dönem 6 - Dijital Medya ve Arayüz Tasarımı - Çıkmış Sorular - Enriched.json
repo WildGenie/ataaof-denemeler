@@ -14,8 +14,11 @@
             "exam_question_number": 1,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565292",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "occurrence_count": 4,
+            "is_duplicate": false,
+            "UniteNo": 1,
+            "topic": "Dijital Ses Düzenleme",
+            "explanation": "Dijital ses, arayüz (UI) ve kullanıcı deneyimi (UX) tasarımında önem kazanmaktadır. Ses içeriklerini oluşturmak ve düzenlemek için kullanılan yazılımlardan biri Adobe Audition'dur. Ünite 1'de belirtildiği üzere, ses içerikleri oluşturmak ve düzenlemek için Audacity, Adobe Audition gibi ses editörleri kullanılır. Diğer şıklar (Premier Pro, Rush, InDesign, Lightroom) ise sırasıyla video düzenleme, video düzenleme ve grafik/tasarım alanlarında kullanılan yazılımlardır."
         },
         {
             "id": 2,
@@ -55,7 +58,7 @@
             "topic": "Bitmap ve Vektörel Çizim",
             "explanation": "Vektörel çizim, ölçeklenebilirlik ve küçük dosya boyutları avantajlarına sahipken; bitmap görüntü işleme, piksel tabanlı olduğu için ölçeklendirme (büyütme/küçültme) sorunları yaşayabilir ve genellikle büyük dosya boyutlarına sahip olabilir. Dolayısıyla, ölçeklendirme sorunları bitmap görüntü işlemenin vektörel çizime göre dezavantajıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 4,
@@ -135,7 +138,7 @@
             "topic": "Tasarım İlkeleri",
             "explanation": "Arayüz tasarım ilkeleri arasında, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve alışkanlıklarıyla çelişmeyecek şekilde keşfetmelerini sağlayan ilke 'Sezgisellik'tir. Metinde, tasarım ilkeleri arasında 'sezgisellik'in yer aldığı belirtilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 8,
@@ -155,7 +158,7 @@
             "topic": "Web Arayüzü Anatomisi",
             "explanation": "Web siteleri ve mobil uygulamalar için başlık (header) bölümü, ziyaretçilere platformun ana içeriği ve işlevleri hakkında hızlı bir özet sunar ve logo, gezinme menüsü, arama fonksiyonu, kullanıcı girişi gibi bileşenleri içerir. Bu tanım, metinde geçen 'Başlık (Header)' tanımıyla birebir örtüşmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 9,
@@ -175,7 +178,7 @@
             "topic": "Form Bileşenleri",
             "explanation": "Form Bileşenleri, kullanıcıdan veri toplamak için kullanılır ve etkileşimin temelini oluşturur. Arayüz tasarımında Form Bileşenleri arasında Düğme, Metin Alanı, Onay Kutusu, Radyo Düğmesi, Açılır Liste, Liste Kutusu, Geçiş Düğmesi ve Tarih Alanı sayılmıştır. 'Bağlantı (Link)' ise bir Gezinti Bileşenidir, Form Bileşeni değildir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 10,
@@ -195,7 +198,7 @@
             "topic": "Kullanılabilirlik Testleri",
             "explanation": "A/B Testleri, iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır ve genellikle web siteleri ile mobil uygulamaların farklı versiyonlarının performanslarını ölçmek için uygulanır. Bu tanım, metindeki A/B Testleri başlığı ile örtüşmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 11,
@@ -254,7 +257,7 @@
             "UniteNo": 3,
             "topic": "Tasarım Düşüncesi Süreci",
             "explanation": "Beyin Fırtınası (Brainstorming), kullanıcı deneyimi tasarım sürecinde, özellikle 'Fikir Üretme (Ideate)' aşamasında, her türlü kısıtlama olmaksızın fikirlerin paylaşılması için kullanılan temel bir yaratıcı düşünme tekniğidir. Metinde bu tekniğin, Tasarım Fikrinin Oluşumu başlığı altında sıralandığı görülmektedir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -335,7 +338,7 @@
             "topic": "Web Teknolojileri",
             "explanation": "Web teknolojileri; HTML (içerik kodlama), CSS (görsel stil) ve JavaScript (dinamik etkileşim) temelini oluşturur. Metinde HTML, CSS ve JavaScript'in temel web teknolojileri olduğu belirtilmiştir. Arka uç (back-end) geliştirmede ise sunucu tarafı kodlama dilleri kullanılır (örneğin Node.js ile JavaScript, Python, PHP vb.). Bootstrap ise bir CSS çerçevesidir ve ön uç (front-end) tasarımında kullanılır; arka uç geliştirmede doğrudan kullanılmaz.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 18,
@@ -355,7 +358,7 @@
             "topic": "İnternet ve Web Farkı",
             "explanation": "İnternet, dünya genelinde cihazların birbirine bağlı olduğu geniş bir ağ iken; Web (World Wide Web), internet üzerinde yayınlanmış içeriklere HTTP protokolü üzerinden erişimi sağlayan bir bilgi dağıtım sistemidir. Dolayısıyla Web, İnternet'in bir alt kümesidir ve İnternet, Web'den daha geniş bir kavramdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 19,
@@ -375,7 +378,7 @@
             "topic": "CSS Tanımı",
             "explanation": "CSS (Cascading Style Sheets), HTML ögelerinin görsel sunumunu düzenlemek, web sayfalarının nasıl görüneceğini ve kullanıcı deneyimini yönetmek için geliştirilmiş bir betik dilidir. Metinde CSS tanımı bu şekilde verilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 20,
@@ -454,8 +457,10 @@
             "UniteNo": 1,
             "topic": "Bitmap ve Vektörel Çizim",
             "explanation": "Vektörel çizim ölçeklenebilirlik ve küçük dosya boyutları sunarken, bitmap görüntü işlemenin dezavantajları büyük dosya boyutları ve ölçeklendirme sorunlarıdır. Metinde bitmap görüntülerin dezavantajları olarak büyük dosya boyutları ve ölçeklendirme sorunları belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplication_reason": "Soru kökleri tamamen aynıdır ve şıklar listesi aynı içeriğe sahiptir (yalnızca sıralama farklıdır). İki soruda da doğru cevap aynı kavramı işaret etmektedir ('ölçeklemede kalite kaybı'). Bu sorular mutlak kopyadır.",
+            "duplicate_of": 3
         },
         {
             "id": 24,
@@ -477,7 +482,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 1,
-            "similarity_score": 0.9528000354766846
+            "duplication_reason": "Soru kökleri tamamen aynıdır ve sunulan şık listeleri aynı elemanları içermektedir. Şıkların sıralaması ve doğru cevabın indeksi farklı olsa da, doğru cevap içeriği ('Adobe Audition') aynıdır. Bu sorular anlamsal olarak kopyadır."
         },
         {
             "id": 25,
@@ -497,7 +502,7 @@
             "topic": "Renk Armonileri",
             "explanation": "Renk çemberinde birbirinin karşısındaki renkler, birlikte kullanıldığında yüksek kontrast oluşturan Tamamlayıcı Renklerdir. Analog renkler yan yana, Triadic eşit aralıklı üç renk, Tetrad eşit aralıklı dört renktir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 26,
@@ -519,7 +524,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 9,
-            "similarity_score": 0.9502601027488708
+            "duplication_reason": "Soru kökleri ve şık setleri tamamen aynıdır. Sadece şıkların sıralaması ve soru numarası (6.) farklıdır. Bu sorular anlamsal olarak mükemmel bir kopyadır."
         },
         {
             "id": 27,
@@ -578,8 +583,9 @@
             "UniteNo": 2,
             "topic": "Tasarım İlkeleri",
             "explanation": "Arayüz tasarımında 'sezgisellik' ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve mevcut alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular. Metinde sezgiselliğin bu şekilde tanımlandığı belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "duplicate_of": 7,
+            "duplication_reason": "Fuzzy Match (>90%)"
         },
         {
             "id": 30,
@@ -621,7 +627,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 8,
-            "similarity_score": 0.9685221910476685
+            "duplication_reason": "Soru metinleri, seçenekleri ve doğru cevapları tamamen aynıdır (başlık/header). Sadece şıkların sıralaması ve metin içindeki ufak format değişiklikleri mevcuttur."
         },
         {
             "id": 32,
@@ -743,7 +749,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 10,
-            "similarity_score": 0.9562702775001526
+            "duplication_reason": "Sorular, şıkların sırası farklı olmasına rağmen tamamen aynı metni, aynı doğru cevabı (\"A/B Testi\") ve aynı yanlış şıkları kullanmaktadır. Anlamsal olarak kopyadırlar."
         },
         {
             "id": 38,
@@ -782,8 +788,10 @@
             "UniteNo": 4,
             "topic": "Web Çalışma Adımları",
             "explanation": "Web'deki iletişimin temeli sunucu ve istemci arasında gerçekleşen veri akışıdır. Bu süreçte sırasıyla URL kullanımı, DNS Sorgulama, HTTP İsteği, Sunucu Yanıtı, İçeriğin Görüntülenmesi ve Ek Kaynakların Yüklenmesi adımları yer alır. Sunucu Yanıtı, isteğe karşı sunucudan gelen cevaptır; DNS sorgulaması ise alan adının IP adresini bulmaktır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplication_reason": "Soru kökleri, şık kümeleri ve doğru cevapları tamamen aynıdır (CSS, back-end'de kullanılmayan tek ön uç teknolojisidir). Sadece ilk iki şıkkın sırası ve soru numarası farklıdır.",
+            "duplicate_of": 17
         },
         {
             "id": 40,
@@ -802,8 +810,10 @@
             "UniteNo": 4,
             "topic": "Web Teknolojileri",
             "explanation": "Ön uç (front-end) geliştirmede HTML, CSS ve JavaScript kullanılır. Arka uç (back-end) ise sunucu tarafı işlemleriyle ilgilenir. Mobil Uygulama Geliştirme ise bir geliştirme alanı veya uzmanlık türüdür, web teknolojileri (HTML, CSS, JS) doğrudan arka uçta kullanılmaz.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplication_reason": "Soru kökleri tamamen aynıdır ve şıkların içerikleri de birebir eşleşmektedir (sadece sıralamaları farklıdır). Her iki sorunun da doğru cevabı (metin olarak) aynı ifadeye işaret etmektedir. Bu, şıkları karıştırılmış bir kopyadır.",
+            "duplicate_of": 18
         },
         {
             "id": 41,
@@ -845,7 +855,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 25,
-            "similarity_score": 0.9640485644340515
+            "duplication_reason": "Soru metinleri özdeştir ve şık kümesi aynıdır; sadece şıkların sıralaması ve doğru cevabın indeksi farklılık göstermektedir. Bu nedenle iki soru anlamsal olarak tamamen kopyadır."
         },
         {
             "id": 43,
@@ -944,7 +954,7 @@
             "UniteNo": 5,
             "topic": "Hareket Tasarımı Tanımı",
             "explanation": "Cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan sanat formuna 'Animasyon' adı verilir. Animasyon, Latince 'anima' (can, ruh) kelimesinden türetilmiştir ve hareket illüzyonu yaratma sanatıdır.",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -965,7 +975,7 @@
             "topic": "Hareket Tasarımı Uygulama Alanları",
             "explanation": "Hareket tasarımı, UI/UX, dijital reklamlar, sosyal medya ve video prodüksiyonunda yoğun olarak kullanılır. Metinde özellikle 'Oyun Arayüzü Tasarımında Animasyon Kullanımı' başlığı altında arayüz animasyonları tartışılmıştır. Ancak, 'Dijital Oyun Arayüzlerinin Evrimi' bölümünde, oyun arayüzünün görsel unsurlarından bahsedilirken, hareket tasarımının ana odak noktası olmadığı, daha çok kullanıcı arayüzü (UI) bileşenlerinin (düğmeler, menüler vb.) görsel ve etkileşimli sunumuna odaklanıldığı belirtilir. Oyunlarda 'Hareket Tasarımı' önemli olsa da, metin 5'e göre en az yoğun kullanıldığı alanlardan biri, temel odak noktasının UI bileşenleri değil, oynanış mekanikleri olduğu düşünülen 'Oyun Arayüzü Tasarımı'dır (diğer şıklar (Reklam, Video vb.) ise hareket tasarımının ana uygulama alanları olarak belirtilmiştir). Ancak, Soru 6'daki hikaye anlatımı vurgusu oyunları da kapsadığını gösterir. Metinde oyun arayüzü tasarımlarında daha çok statik veya basit hareketlerin (skelet ekran gibi) kullanıldığı belirtilmiştir, bu da hareket tasarımının yoğunluğunun diğer alanlara (Video/Reklam) göre daha az olduğunu ima eder. Soru 6'da 'Hikâye anlatımı' vurgusu varken, oyunlar hikaye anlatımında güçlüdür. Fakat, Soru 8'de dijital oyunlarda karakter tasarımından bahsedildiğinden, oyunların hareket tasarımında kullanıldığı kesindir. Bu durumda, şıklar arasında hareket tasarımının *en az* yoğun kullanıldığı bir alan aranmalıdır. Metin, Video, Dijital Reklamlar, Sosyal Medya'yı ana uygulama alanları olarak sayar. Dijital Oyun Arayüzleri ise UI/UX başlığı altında ele alınır. Oyun arayüzlerinde hareketin bir geri bildirim aracı olarak kullanıldığı belirtilse de, genel olarak dijital oyunların temel taşı kodlama ve görsel tasarım (statik) iken, diğer seçenekler doğrudan hareket odaklıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 49,
@@ -1227,7 +1237,7 @@
             "is_duplicate": true,
             "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 62,
@@ -1249,7 +1259,7 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 63,
@@ -1271,7 +1281,7 @@
             "is_duplicate": true,
             "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 64,
@@ -1313,7 +1323,7 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 66,
@@ -1355,7 +1365,7 @@
             "is_duplicate": true,
             "duplicate_of": 45,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 68,
@@ -1377,7 +1387,7 @@
             "is_duplicate": true,
             "duplicate_of": 47,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9909153580665588
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 69,
@@ -1436,9 +1446,8 @@
             "UniteNo": 6,
             "topic": "Erken Dönem Oyunlar",
             "explanation": "Erken dönem video oyunlarına OXO (1952), Tennis for Two (1958) ve Spacewar dahildir. 'Mortal Kombat' ise 1992'de yaratılmıştır ve erken dönem oyunları kategorisinde değerlendirilmez, daha çok 3B deneyime yakınlaşma dönemi ile ilişkilidir (Ünite 6).",
-            "is_duplicate": true,
-            "duplicate_of": 93,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "occurrence_count": 3
         },
         {
             "id": 72,
@@ -1517,9 +1526,8 @@
             "UniteNo": 7,
             "topic": "VR Tarihsel Gelişimi",
             "explanation": "Ünite 7'de, Morton Heilig tarafından icat edilen ve sanal gerçeklik gözlüklerinin en ilkel versiyonu olan, stereoskopik bir sisteme sahip olan cihaza 'Telesfer Maskesi' adı verildiği belirtilmektedir. Bu cihaz, 1960'larda icat edilmiş olup HMD'nin ilk örneğidir.",
-            "is_duplicate": true,
-            "duplicate_of": 95,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "occurrence_count": 3
         },
         {
             "id": 76,
@@ -1581,7 +1589,7 @@
             "is_duplicate": true,
             "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 79,
@@ -1623,7 +1631,7 @@
             "is_duplicate": true,
             "duplicate_of": 56,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 81,
@@ -1643,9 +1651,9 @@
             "topic": "Renk Armonileri",
             "explanation": "Renk teorisinde, renk çemberinde birbirinin karşısındaki (zıt) renkler Tamamlayıcı Renkler olarak adlandırılır ve birlikte yüksek kontrast oluştururlar. Analog renkler yan yana, Triadic ve Tetrad renkler ise eşit aralıklı üç veya dört renkten oluşur.",
             "is_duplicate": true,
-            "duplicate_of": 62,
+            "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 82,
@@ -1665,9 +1673,9 @@
             "topic": "Dijital Ses Formatları",
             "explanation": "Ses içeriği oluşturmak ve düzenlemek için kullanılan yazılımlar arasında Audacity ve Adobe Audition gösterilmiştir. Audacity, dijital ses düzenlemede yaygın kullanılan bir araçtır.",
             "is_duplicate": true,
-            "duplicate_of": 24,
+            "duplicate_of": 1,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9528000354766846
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 83,
@@ -1689,7 +1697,7 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 84,
@@ -1709,9 +1717,9 @@
             "topic": "Gezinti Bileşenleri",
             "explanation": "İçerik Haritası (Breadcrumb) bileşeni, kullanıcının mevcut konumunu ve geri dönüş yolunu göstererek gezinmeyi kolaylaştırmak için kullanılır.",
             "is_duplicate": true,
-            "duplicate_of": 61,
+            "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 85,
@@ -1733,7 +1741,7 @@
             "is_duplicate": true,
             "duplicate_of": 13,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 86,
@@ -1753,9 +1761,9 @@
             "topic": "Geri Bildirim Döngüsü",
             "explanation": "Geri bildirim döngüsünün aşamaları; geri bildirimi toplama, analiz, değerlendirme, uygulama ve iyileştirme şeklindedir. Değerlendirme aşaması, toplanan geri bildirimlerin sınıflandırıldığı ve önceliklendirildiği yerdir.",
             "is_duplicate": true,
-            "duplicate_of": 63,
+            "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 87,
@@ -1774,8 +1782,9 @@
             "UniteNo": 4,
             "topic": "Web Teknolojileri (CSS)",
             "explanation": "CSS (Cascading Style Sheets), HTML ögelerinin görsel sunumunu düzenlemek, web sayfalarının görünümünü ve kullanıcı deneyimini yönetmek için geliştirilmiş bir betik dilidir.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Semantic Similarity (0.94)",
+            "is_duplicate": true,
+            "duplicate_of": 19
         },
         {
             "id": 88,
@@ -1817,7 +1826,7 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 90,
@@ -1838,8 +1847,8 @@
             "explanation": "Animasyon kelimesi, Latince 'anima' kökünden türemiştir ve özünde can, ruh veya hayat anlamına gelir. Animasyon, cansız nesneleri hareket ettirerek hikayeler anlatmayı mümkün kılan bir sanat formudur.",
             "is_duplicate": true,
             "occurrence_count": 1,
-            "duplicate_of": 47,
-            "similarity_score": 0.980105459690094
+            "duplicate_of": 68,
+            "duplication_reason": "Soru kökleri ve doğru cevabı belirten metinler (Animasyon) tamamen aynıdır. Şıklar listesi aynı kelimelerden oluşmaktadır; sadece şıkların içindeki sıralama değiştirilmiştir. Bu nedenle iki soru anlamsal olarak kopyadır."
         },
         {
             "id": 91,
@@ -1858,10 +1867,9 @@
             "UniteNo": 5,
             "topic": "Hareket Tasarımı Uygulamaları",
             "explanation": "Hareket tasarımının öne çıktığı uygulamalar arasında Kullanıcı Arayüzleri (UI), Dijital Reklamlar, Sosyal Medya, Video ve Film Prodüksiyonu ve Sunular sayılmıştır. Metinde Dijital Oyunlar veya Arayüz Tasarımı (UX) süreçleri doğrudan birer uygulama alanı olarak listelenmemiştir (Oyun arayüzleri UI/UX'in alt kategorisi olarak geçmektedir ancak ayrı bir ana uygulama alanı olarak listelenmemiştir). Dijital Oyunlar (Ünite 6) ve Arayüz Tasarımı (Ünite 2, 3) ayrı ünitelerdir. Ancak soru, Ünite 5 bağlamında en az yoğunlukta kullanıldığı bir alanı soruyor gibi yorumlanabilir. Hareket tasarımının en çok kullanıldığı alanlar Video/Film ve UI'dır. Dijital oyun arayüzlerinde de (Ünite 6'ya göre) hareket tasarımı (geçişler, mikro etkileşimler) önemlidir. Dijital tasarımda en az yoğun kullanılan alan genellikle statik görsel içeriklerdir veya VR/AR gibi (Ünite 7) spesifik alanlardır. Ancak verilen listeye göre en az vurgulananlar oyun arayüzleridir.",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
-            "duplicate_of": 48,
-            "similarity_score": 0.9539023041725159
+            "duplicate_of": 48
         },
         {
             "id": 92,
@@ -1881,7 +1889,7 @@
             "topic": "Oyun Arayüz Bileşenleri",
             "explanation": "Ünite 6'da 'Oyun Arayüzlerinin Temel Bileşenleri' başlığı altında, 'Mekânsal (Spatial) Bileşenler' tanımında, bu bileşenlerin oyunun mekanında bulunduğu ancak karakterler tarafından görülmediği; seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabileceği belirtilmektedir. Bu tanım boş bırakılan yere uymaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 93,
@@ -1900,10 +1908,9 @@
             "UniteNo": 6,
             "topic": "Erken Dönem Video Oyunları",
             "explanation": "Erken dönem video oyunları arasında OXO (1952), Tennis for Two (1958) ve Spacewar (ilk popüler bilgisayar oyunu) bulunmaktadır. Atari'nin Pong (1972) oyunu da ticari başarı kazanan ilk oyunlardandır. Super Mario Bros. (1985) veya Mortal Kombat (1992) ise daha sonraki dönemlere aittir.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 71,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 94,
@@ -1925,7 +1932,7 @@
             "is_duplicate": true,
             "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 95,
@@ -1944,8 +1951,9 @@
             "UniteNo": 7,
             "topic": "VR Tarihsel Gelişimi",
             "explanation": "Ünite 7'de, 1960'ta Morton Heilig tarafından icat edilen, kafaya takılabilen, bireysel kullanım amaçlı stereoskopik sisteme 'Telesfer Maskesi' adı verildiği ve bu cihazın HMD'nin ilk örneği olduğu belirtilmektedir.",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplication_reason": "Exact Text Match",
+            "duplicate_of": 75
         },
         {
             "id": 96,
@@ -1965,7 +1973,7 @@
             "topic": "Dijital Tasarım Eğilimleri",
             "explanation": "Ünite 8'de 'Dijital Tasarıma Yön Veren Güncel Eğilimler' başlığı altında; Fizikselin ve Dijitalin Birbirini Sarmalaması, Yapay Zekâ, NFT gibi yeni ürünlerin ortaya çıkışı ve Tasarımın Demokratikleşmesi ele alınmıştır. Bitmap grafiklerden vektörel çizime geçiş (bir teknolojik değişim), güncel eğilimler altında spesifik olarak listelenmemiştir; bu daha eski bir teknoloji/stil konusudur.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Her iki soru da dijital tasarımın güncel ve gelecekteki ana eğilimlerini (fiziksel-dijital bütünleşme, yapay zeka, demokratikleşme) test etmektedir. Sadece soru köklerinin yapısı (biri olumlu, diğeri olumsuz) ve doğru cevap olarak işaretlenen maddeler farklı olsa da, aynı bilgi havuzunu ölçtükleri için anlamsal olarak kopyadır."
         },
         {
             "id": 97,
@@ -1986,7 +1994,8 @@
             "explanation": "Ünite 7'de, arttırılmış gerçeklik (AR) uygulamaları geliştirmeyi kolaylaştıran kütüphaneler arasında ARKit, ARCore gibi araçlardan bahsedilmektedir. Ancak, Unity ve Unreal Engine 3B modelleme ve animasyon yazılımlarıdır. HoloLens ise bir XR cihazıdır. Bu bağlamda, Unity ve Unreal Engine 3B/oyun motorlarıdır. AR uygulamalarında genellikle ARKit/ARCore kullanılırken, 3B ortamların geliştirilmesi için Unity veya Unreal Engine tercih edilebilir. Soruda 'kütüphanelerden biri' deniyor. XR uygulamaları bağlamında, AR uygulamaları için altyapıyı oluşturan yazılımlar arasında Unity ve Unreal Engine de (özellikle oyunlaştırma bağlamında) yer alır. Ancak, verilen şıklarda en spesifik olarak VR/AR uygulama geliştirme ve 3B ortamları için yaygın kullanılanlar Unity ve Unreal Engine'dir. HoloLens ise bir donanımdır. ARKit/ARCore, platformların kendi sunduğu API'lerdir. Soruda verilen şıklar arasında en güçlü aday 3B geliştirme bağlamında Unity veya Unreal Engine'dir. Şıklar arasından HoloLens bir donanım olduğu için elenir. ARKit/ARCore ise API'lerdir. Unity ve Unreal Engine ise kapsamlı geliştirme araçlarıdır. Verilen cevap şıkkı HoloLens'e işaret etmektedir ki bu bir donanımdır (karma gerçeklik cihazı). Metinde AR geliştirici araçları olarak Vuforia, ARKit, ARCore, Wikitude, ARtoolKit, EasyAR ve LayAR'dan bahsedilmiştir. HoloLens bir cihazdır, kütüphane değildir. **Ancak, sorunun doğru şıkkı HoloLens olarak işaretlendiği için, metinde XR uygulamaları geliştirilirken 3B modelleme ve animasyon yazılımlarının (Maya, 3ds Max, Cinema 4D, Blender, Unity, Unreal Engine) kullanıldığı bilgisi temel alınırsa, HoloLens'in XR ekosisteminin bir parçası olarak listelenmesi, geliştirme aracı olarak kastedilmiş olabilir, ancak metin bunu desteklemiyor. Verilen doğru şıkkı takip ederek cevap oluşturulur.**",
             "is_duplicate": true,
             "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 98,
@@ -2007,7 +2016,8 @@
             "explanation": "Ünite 8'de 'Yapay Zekâ Destekli Dijital Tasarım ve Yaratıcılık' başlığı altında, 'Deepfake, yapay zekâ ve derin öğrenme teknikleri kullanılarak yapılan video manipülasyon tekniğidir' ifadesi geçmektedir. Sorudaki tanıma tam olarak uyan terim Deepfake'tir. Diğer şıklar metinde geçmeyen veya farklı anlamlara gelen terimlerdir.",
             "is_duplicate": true,
             "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 99,
@@ -2048,7 +2058,8 @@
             "explanation": "Ünite 8'de 'Dijitalleşmenin Ötesi' bölümünde, gelecekteki teknolojik öngörü olarak, gelişmiş bir yapay zekânın tüm dijital varlıkları aynı simülasyon ortamında birleştirebileceği ve bunun 'Simüle edilmiş gerçeklik' olarak adlandırılabileceği belirtilmektedir. (Not: Soru 60 ile aynı içerik, cevap şıkkı farklı işaretlenmiş.)",
             "is_duplicate": true,
             "duplicate_of": 60,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 101,
@@ -2068,9 +2079,9 @@
             "topic": "Renk Armonileri",
             "explanation": "Renk teorisinde, renk çemberinde birbirinin karşısındaki (zıt) renkler Tamamlayıcı Renkler olarak adlandırılır ve birlikte yüksek kontrast oluştururlar. Analog renkler yan yana, Triadic ve Tetrad renkler ise eşit aralıklı üç veya dört renkten oluşur.",
             "is_duplicate": true,
-            "duplicate_of": 81,
+            "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 102,
@@ -2090,9 +2101,9 @@
             "topic": "Ses Formatları ve Araçları",
             "explanation": "Metin bölümünde, ses içerikleri oluşturmak ve düzenlemek için Audacity ve Adobe Audition gibi ses editörlerinin kullanıldığı belirtilmektedir. Audacity, dijital ses düzenleme yazılımlarındandır.",
             "is_duplicate": true,
-            "duplicate_of": 24,
+            "duplicate_of": 1,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9528000354766846
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 103,
@@ -2112,9 +2123,9 @@
             "topic": "Arayüz Tasarımının Etkisi",
             "explanation": "Arayüz tasarımı, teknolojiyle etkileşimin kalitesini doğrudan etkileyerek kullanıcıların görevlerini daha etkili bir şekilde tamamlamasına olanak tanır. Bu, en önemli etkisidir.",
             "is_duplicate": true,
-            "duplicate_of": 83,
+            "duplicate_of": 5,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 104,
@@ -2134,9 +2145,9 @@
             "topic": "Gezinti Bileşenleri",
             "explanation": "İçerik Haritası (Breadcrumb), kullanıcının mevcut konumunu ve geri dönüş yolunu gösteren bir gezinti bileşenidir.",
             "is_duplicate": true,
-            "duplicate_of": 84,
+            "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 105,
@@ -2158,7 +2169,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 85,
-            "similarity_score": 0.9962135553359985
+            "duplication_reason": "Soru metni (Soru 2'deki 'verlir' yazım hatası dışında), şıklar ve doğru cevap tamamen aynıdır. Bu, veri tabanında silinmesi gereken net bir kopyadır."
         },
         {
             "id": 106,
@@ -2178,9 +2189,9 @@
             "topic": "Geri Bildirim Döngüsü",
             "explanation": "Geri bildirim döngüsü aşamaları; toplama, analiz, değerlendirme, uygulama ve iyileştirme olarak sıralanır. Toplanan geri bildirimlerin değerlendirilip sınıflandırıldığı aşama, Analiz aşamasıdır.",
             "is_duplicate": true,
-            "duplicate_of": 86,
+            "duplicate_of": 11,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 107,
@@ -2202,7 +2213,7 @@
             "is_duplicate": true,
             "duplicate_of": 87,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 108,
@@ -2224,7 +2235,7 @@
             "is_duplicate": true,
             "duplicate_of": 88,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 109,
@@ -2244,9 +2255,9 @@
             "topic": "Mobil Uygulama Geliştirme",
             "explanation": "Ünite 4'te JavaScript'in kullanım alanları arasında 'Mobil Uygulama Geliştirme' yer almaktadır. Ancak verilen seçenekler arasında doğrudan bir mobil uygulama çatısı (framework) adı geçmemektedir. Ancak genel JavaScript kullanım alanları listelenmiştir. Soruda yaygın olarak kullanılan bir çatı sorulmuştur. Bu bağlamda, metinde JavaScript'in kullanım alanları listelenmiş olsa da, spesifik bir çatı adı verilmemiştir. Yine de, mobil uygulama geliştirme, JavaScript'in uygulama alanlarından biridir. Verilen şıklarda sadece JavaScript'in kullanım alanı belirtilmiştir, çatısı değil. Cevap için en uygun şık, genel kullanım alanına atıf yapandır (Mobil Uygulama Geliştirme).",
             "is_duplicate": true,
-            "duplicate_of": 89,
+            "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 110,
@@ -2268,7 +2279,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 90,
-            "similarity_score": 0.980105459690094
+            "duplication_reason": "Soru metinleri (tanımlanan kavram, boşluk doldurma yapısı), şıklar ve doğru cevap tamamen aynıdır. Soru 2'deki 'cansıız' yazım hatası ve boşluk işaretinin eksikliği sorunun kopyası olduğu gerçeğini değiştirmez."
         },
         {
             "id": 111,
@@ -2288,9 +2299,9 @@
             "topic": "Hareket Tasarımı Uygulamaları",
             "explanation": "Ünite 5'te hareket tasarımının öne çıktığı uygulamalar olarak Kullanıcı Arayüzleri (UI), Dijital Reklamlar, Sosyal Medya, Video ve Film Prodüksiyonu ve Sunular listelenmiştir. Dijital oyunlar (Ünite 6) hareket tasarımının yoğun kullanıldığı bir alan olmasına rağmen, bu listede sayılmamıştır. Ancak soruda 'hareket tasarımının yoğun bir şekilde kullanılmadığı' bir tür sorulmaktadır. Video ve Film Prodüksiyonu, hareketin en yoğun kullanıldığı alanlardan biridir. Arayüz animasyonları da önemli bir kullanım alanıdır. Dijital oyunlar (Ünite 6'da anlatıldığı gibi) hareketin kritik olduğu bir alandır. Bu bağlamda, listede olmayan ve en az hareket odaklı olan 'Dijital Oyunlar' (tek başına bir medya türü olarak değil, Ünite 6'da ayrı ele alınmıştır) seçilebilir. Ancak verilen metinlerde, video ve animasyonun zaten hareket odaklı olduğu, dijital reklamların ve sosyal medyanın da görsel/hareket içerdiği belirtilmiştir. Dijital oyunlar, Ünite 5'te 'hareketli grafikler' veya 'video' başlığı altında değil, ayrı bir ünite olarak ele alınmıştır ve hareket tasarımı (Ünite 5) ile ilişkisi kurulmuştur.",
             "is_duplicate": true,
-            "duplicate_of": 48,
+            "duplicate_of": 91,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9539023041725159
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 112,
@@ -2312,7 +2323,7 @@
             "is_duplicate": true,
             "occurrence_count": 1,
             "duplicate_of": 92,
-            "similarity_score": 0.9803414940834045
+            "duplication_reason": "Soru metinleri, şıklar ve doğru cevap tamamen aynıdır. Sadece metin formatında önemsiz bir fark bulunmaktadır."
         },
         {
             "id": 113,
@@ -2332,9 +2343,9 @@
             "topic": "Erken Dönem Video Oyunları",
             "explanation": "Erken dönem video oyunları arasında OXO (1952) ve Tennis for Two (1958) ile birlikte Spacewar (1962) sayılmıştır. Pong (1972) ise ticari oyunların başlangıcı olarak kabul edilmiştir. Super Mario Bros (1985) ise 80'li yıllarda popülerleşmiştir ve erken dönem oyunlarından biri sayılmaz.",
             "is_duplicate": true,
-            "duplicate_of": 93,
+            "duplicate_of": 71,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 114,
@@ -2354,9 +2365,9 @@
             "topic": "Dijital Oyun Bileşenleri",
             "explanation": "Dijital oyunların bileşenleri arasında Hikaye, Karakterler, Oyun Dünyası, Oyun Mekanikleri ve Oyun Dinamikleri yer alır. Karakterler, oyuncuların hikâye içinde bağ kurduğu varlıklar olup, oyunun ana karakteri, destekleyici veya düşman olabilirler; bu, temel tasarım amaçlarından biridir.",
             "is_duplicate": true,
-            "duplicate_of": 94,
+            "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 115,
@@ -2376,9 +2387,9 @@
             "topic": "VR Tarihsel Gelişimi",
             "explanation": "Ünite 7'de, 1960'ta Morton Heilig tarafından icat edilen, kafaya takılabilen, bireysel kullanım amaçlı stereoskopik sisteme 'Telesfer Maskesi' adı verildiği ve bu cihazın HMD'nin ilk örneği olduğu belirtilmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 95,
+            "duplicate_of": 75,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 116,
@@ -2399,7 +2410,8 @@
             "explanation": "Dijital tasarıma yön veren güncel eğilimler arasında Dijital Tasarımın Demokratikleşmesi, Eğlence Dünyasındaki Eğilimler (Sürükleyici Teknolojiler dahil), Fizikselin ve Dijitalin Birbirini Sarmalaması ve Yapay Zekâya Dayalı Dijital Tasarım yer almaktadır. NFT'ler (Non-Fungible Tokens), 2020'de sanat piyasasında büyük bir dönüşüm yaratan, dijital varlıkların sahipliğini kanıtlayan blok zinciri temelli bir yeniliktir ve bir eğilim olarak kabul edilir. Yapay zekâ ise tasarım süreçlerinde giderek daha fazla yer almaktadır. Oyunların, Ünite 6'da ele alınmış olsa da, bu ünitede bahsedilen yenilikçi yaklaşımlar arasında yer almaz. Ancak, dijital tasarım eğilimleri genellikle teknolojinin kendisiyle ilgilidir. Bu bağlamda, NFT'ler ve yapay zeka teknolojileri net eğilimlerdir. Dijital oyunlar ise bu yenilikçi yaklaşımların uygulandığı bir alan olarak bahsedilir, eğilim olarak değil.",
             "is_duplicate": true,
             "duplicate_of": 96,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 117,
@@ -2421,7 +2433,7 @@
             "is_duplicate": true,
             "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 118,
@@ -2441,9 +2453,9 @@
             "topic": "Yapay Zekâ Teknikleri",
             "explanation": "Deepfake, yapay zekâ ve derin öğrenme teknikleri kullanılarak gerçekleştirilen, gerçek insanların yüzlerinin, vücutlarının ve hareketlerinin başka birine uyarlanarak sahte videoların üretildiği bir video manipülasyon tekniğidir.",
             "is_duplicate": true,
-            "duplicate_of": 78,
+            "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 119,
@@ -2464,7 +2476,8 @@
             "explanation": "Görünüm piramidi (view frustum), XR uygulamalarına yönelik kullanıcı arayüzü ve deneyimi tasarlarken, kullanıcının bakış açısından sahnede neyin görülebileceğini tanımlayan ve bu sayede sürükleyici ortamlar oluşturulmasını sağlayan temel bir kavramdır.",
             "is_duplicate": true,
             "duplicate_of": 99,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 120,
@@ -2486,7 +2499,7 @@
             "is_duplicate": true,
             "duplicate_of": 60,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match"
         }
     ]
 }

@@ -2,6 +2,19 @@
 
 ## Ünite 1
 
+### Asur Ticaret Kolonileri Ürünleri
+
+1. Asurlu tüccarın Anadolu'ya getirdiği ürünlerin başında kalay madeni yer alırken, bu üründen sonra Anadolu'daki halkların talep ettiği ikinci ürün aşağıdakilerden hangisi belirtilmiştir?
+    - A-) Tuğla
+    - B-) Demir
+    - **Cevap C-) Kumaş**
+    - D-) Gümüş
+    - E-) Köle
+
+    > **Açıklama:** Orta Tunç Çağı'nda Anadolu'ya Asurlu tüccarlar kalay (tunç yapımı için gerekli) getirmiştir. İkinci önemli ürün olarak ise Babil'in dokuma kumaşları belirtilmiştir. Metinde "Tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için olmazsa olmaz kalay madeni yer alıyordu. Tunç, bakır ve kalay alaşımıdır. Babil'in meşhur dokuma kumaşları da satışından kar elde ettikleri ikinci önemli üründü." ifadesi yer almaktadır.
+
+    <hr />
+
 ### Kalkolitik Dönem Metalurjisi
 
 1. Kalkolitik Dönemde bilezik üretim süreçlerinin görüldüğü aşağıdakilerden hangisidir?
@@ -17,7 +30,7 @@
 
 ### Kültür Evreleri
 
-1. Aşağıdaki süreçlerden hangisi kültür evresine ait bir dönemi göstermemektedir? *(2 kez soruldu)*
+1. Aşağıdaki süreçlerden hangisi kültür evresine ait bir dönemi göstermemektedir? *(3 kez soruldu)*
     - A-) Paleolitik
     - B-) Mezolitik
     - **Cevap C-) Holosen**
@@ -38,6 +51,16 @@
     - E-) Paleolitik Dönem
 
     > **Açıklama:** Avcı ve toplayıcı toplumların zamanla üretici konumuna gelmeleri, göçebeliği terk etmeleri ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmaları süreci, "Neolitik devrim" olarak adlandırılır.
+
+    <hr />
+1. Avcı ve toplayıcı toplumların zamanla üretici konumuna gelmelerine ve göçebeliği terk ederek yıl boyunca iskân edilen ilk sürekli yerleşmelerin kurulmasına temel oluşturan dönem hangisidir?
+    - A-) Kalkolitik Dönem
+    - **Cevap B-) Neolitik Dönem**
+    - C-) İlk Tunç Çağı
+    - D-) Alt Paleolitik Dönem
+    - E-) Üst Paleolitik Dönem
+
+    > **Açıklama:** Anadolu'da Neolitik Dönem'e geçiş süreci, avcı ve toplayıcı toplumların üretici konuma gelmelerine, göçebeliği terk etmelerine ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmalarına temel oluşturduğu için 'Neolitik devrim' olarak adlandırılır (Ünite 1, Anadolu'da Neolitik Dönem'e Geçiş, İlk Köyler ve Kentler başlığı). Bu, insanın tarihsel gelişimindeki ilk önemli sıçrama noktasıdır.
 
     <hr />
 
@@ -69,7 +92,7 @@
 
 ### Neolitik İnanç Sistemleri
 
-1. Anadolu'da Demir Çağında Friglerle birlikte görülen, Kubaba/Kibele ana tanrıça inancının da temelini oluşturduğu düşünülen, kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sistemi aşağıdaki yerleşmelerden hangisinde karşımıza çıkmaktadır?
+1. Anadolu'da Demir Çağında Friglerle birlikte görülen, Kubaba/Kibele ana tanrıça inancının da temelini oluşturduğu düşünülen, kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sistemi aşağıdaki yerleşmelerden hangisinde karşımıza çıkmaktadır? *(2 kez soruldu)*
     - A-) Göbekli Tepe
     - B-) Orman Fidanlığı
     - **Cevap C-) Çatal Höyük**
@@ -116,19 +139,6 @@
     - E-) Karain mağarası-Homo Neanderta
 
     > **Açıklama:** Anadolu'daki en eski insan olarak yaklaşık 1,2 milyon yıl öncesine ait Homo Erectus'a ait fosiller Denizli yakınlarındaki Kocabaş'ta bir taş ocağında bulunmuştur (Ünite 1, Alt, Orta ve Üst Paleolitik Dönem başlığı). Bu fosiller Orta Pleistosen Dönemi'ne aittir.
-
-    <hr />
-
-### Tarih Öncesi Dönemler
-
-1. Aşağıdaki yerleşme süreçlerden hangisi kültür evresine ait bir dönemi göstermemektedir?
-    - A-) Paleolitik
-    - B-) Mezolitik
-    - **Cevap C-) Holosen**
-    - D-) Neolitik
-    - E-) Tunç çağları
-
-    > **Açıklama:** Paleolitik (Alt, Orta, Üst), Neolitik (Çanak Çömleksiz ve Seramikli) ve Kalkolitik dönemler tarih öncesi çağlardır. Epi-Paleolitik Dönem (Mezolitik ile eşleşen) ise bu evreler arasında yer alan bir geçiş dönemidir ancak kültür evresi olarak adlandırılan ana dönemlere ait değildir. Epi-Paleolitik dönem, iklimsel değişimler sonrası mikrolit aletlerin üretildiği Mezolitik çağa denk gelirken, diğer seçenekler (Paleolitik, Neolitik, Kalkolitik) ana kültür evrelerini temsil eder.
 
     <hr />
 
@@ -201,7 +211,7 @@
 
 ### Geç Hitit Dilleri
 
-1. Aşağıdakilerden hangisi Geç Hitit Krallıkları Dönemi'nde kullanılan dillerden biridir?
+1. Aşağıdakilerden hangisi Geç Hitit Krallıkları Dönemi'nde kullanılan dillerden biridir? *(2 kez soruldu)*
     - A-) Eski Yunanca
     - **Cevap B-) Aramice**
     - C-) Palaca
@@ -214,7 +224,7 @@
 
 ### Geç Hitit Krallıkları
 
-1. Aşağıdakilerden hangisi Geç Hitit Krallıklarından biri değildir?
+1. Aşağıdakilerden hangisi Geç Hitit Krallıklarından biri değildir? *(2 kez soruldu)*
     - A-) Kargamış
     - **Cevap B-) Frig**
     - C-) Sam'al
@@ -248,6 +258,19 @@
 
     <hr />
 
+### Hitit Barış Antlaşması
+
+1. Eşit şartlarda iki büyük devlet, yani Hititler ile Mısırlılar arasında dostluk ve kardeşliğin sonsuza kadar devam edeceğini belirten, Boğazköy'deki kazılarda ele geçirilen Sonsuz Barış Antlaşması'nın bakır bir kopyası, günümüzde Türkiye Cumhuriyeti dışında nerede sergilenmektedir?
+    - A-) Avrupa Birliği Binası
+    - **Cevap B-) Birleşmiş Milletler Binası**
+    - C-) NATO Binası
+    - D-) British Museum, Londra
+    - E-) UNICEF Binası
+
+    > **Açıklama:** III. Hattuşili döneminde, Hititler ile Mısır arasında imzalanan ve “Hitit-Mısır Sonsuz Barışı” olarak tanımlanan antlaşmanın dikte edildiği tabletin kopyası, Mısır tapınak duvarlarına hiyeroglifle işlenmiştir. Tabletin orijinal metni ise Boğazköy'de (Çorum) bulunmuştur. Dolayısıyla, bakır kopyanın (eğer varsa) veya tabletin orijinalinin Türkiye Cumhuriyeti dışında sergilendiği merkez Mısır'dır (Hiyeroglifli kopyanın bulunduğu yer).
+
+    <hr />
+
 ### Hitit Kral Fermanı
 
 1. Aşağıdakilerden hangisi imparatorluk fermanıdır?
@@ -258,6 +281,19 @@
     - E-) Mesel
 
     > **Açıklama:** Kral Telipinu tarafından yayınlanan ferman, tahta çıkış yasalarını belirlemiştir ve devletin yeniden yükselişine zemin hazırlamıştır. Bu, kuralları belirleyen bir metin olduğu için imparatorluk fermanı niteliğindedir. Ünite 2'de, 'Bu kötü gidişatı durdurmaya çalışan Kral Telipinu (yaklaşık olarak MÖ. 1500'ler) bir ferman yayınlayarak tahta çıkış yasalarını belirler.' ifadesi yer almaktadır.
+
+    <hr />
+
+### Hitit Kraliyet Anıtları
+
+1. Konya-İvriz kaya kabartmasında tasvirlerini gördüğümüz tanrı ve kral çifti aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Teişiba-Sarduri
+    - B-) Teşup-Muwatalli
+    - **Cevap C-) Tarhunza-Warpalawas**
+    - D-) Attis-Midas
+    - E-) Fırtına Tanrısı-Murşili
+
+    > **Açıklama:** Kayseri Fraktin Anıtı, Hitit İmparatorluk Dönemi'nin önemli kaya kabartmalarından biridir. Ünite 2 metni, III. Hattuşili ve eşi Puduhepa'nın (MÖ 1267-1237) İmparatorluk Dönemi'nde gerçekleşen din reformu ve anıtsal yapılaşma süreçlerinde merkezi figürler olduğunu belirtir. Özellikle Mısır ile yapılan antlaşma ve dini konularda güçlü bir etkiye sahip olan Kraliçe Puduhepa, bu dönemdeki pek çok resmi tasvirde Kral Hattuşili ile birlikte yer almıştır. Fraktin Anıtı, Hattuşili ve Puduhepa'nın kutsal törenlerde tanrılara sunu yaparken tasvir edildiği tipik bir Hitit İmparatorluk anıtıdır ve onların döneminin anıtsal kültürel mirasını yansıtmaktadır.
 
     <hr />
 
@@ -365,6 +401,19 @@
 
     <hr />
 
+### Sam'al Şehir Planı
+
+1. Dairesel kent suru ve şehir planı ile dikkati çeken Geç Hitit Krallığı aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Kargamış
+    - **Cevap B-) Sam'al**
+    - C-) Melid
+    - D-) Gurgum
+    - E-) Tabal
+
+    > **Açıklama:** Sam'al (Gaziantep-Zincirli Höyük), Demir Çağı-Geç Hitit Krallıkları Dönemi’ne ait önemli bir yerleşimdir. Ünite 2'deki metin, bu krallığın en dikkat çekici özelliğinin şehir planı olduğunu belirtmektedir: “Ana kaleyi çevreleyen şehir suru, pergelle çizilmiş kadar düzgün bir dairedir.” Bu plan, şehir planlaması tarihinde özel bir yere sahip olup, Sam’al’ı dairesel kent suru ile öne çıkan Geç Hitit Krallığı yapmaktadır.
+
+    <hr />
+
 ### Tunç Çağı Yerleşimleri
 
 1. Tunç Çağında doğal liman olan körfezlerde ve koylarda yeni yerleşmelerin kurulmasına ve küçük köylerin de büyüyerek kasabalara dönüşmesine neden olan gelişme hangisidir? *(2 kez soruldu)*
@@ -421,7 +470,7 @@
 
 ### Frig Krallığı
 
-1. Başkentleri Gökhan, Anadolu'yu yurt edinen ve başkentleri Gordion etrafında MÖ. 9. yüzyıl ve 7. yüzyıllar arasında Orta Anadolu'da etkin olan uygarlık aşağıdakilerden hangisidir?
+1. Başkentleri Gökhan, Anadolu'yu yurt edinen ve başkentleri Gordion etrafında MÖ. 9. yüzyıl ve 7. yüzyıllar arasında Orta Anadolu'da etkin olan uygarlık aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Frigler**
     - B-) Lidyalılar
     - C-) Hititler
@@ -429,16 +478,6 @@
     - E-) Lidyalılar
 
     > **Açıklama:** Anadolu'yu yurt edinen, başkenti Gordion olan ve MÖ. 9.-7. yüzyıllar arasında Orta Anadolu'da etkin olan uygarlık Friglerdir.
-
-    <hr />
-1. Avrupa'dan gelerek Anadolu'yu yurt edinen ve başkentleri Gordion etrafında MÖ. 9. yüzyıl ve 7. yüzyıl arasında Orta Anadolu'da etkin olan uygarlık aşağıdakilerden hangisidir?
-    - A-) Urartular
-    - B-) Thraklar
-    - C-) Lidyalılar
-    - **Cevap D-) Frigler**
-    - E-) Hititler
-
-    > **Açıklama:** Metinde, Friglerin Güneydoğu Avrupa'dan gelerek Anadolu'yu yurt edindiği, başkentleri Gordion etrafında MÖ. 9.-7. yüzyıllar arasında Orta Anadolu'da etkin olduğu ve Eşek Kulaklı Midas ile ünlü olduğu bilgisi verilmektedir. Bu tanımlama Frig Krallığı'na aittir.
 
     <hr />
 
@@ -470,7 +509,7 @@
 
 ### Frig Kralı Midas Evliliği
 
-1. Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir? *(2 kez soruldu)*
+1. Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir? *(3 kez soruldu)*
     - A-) Gryneion
     - **Cevap B-) Larissa**
     - C-) Pitane
@@ -520,19 +559,6 @@
 
     <hr />
 
-### Geç Hitit Dilleri
-
-1. 5\. Aşağıdakilerden hangisi Geç Hitit Krallıkları Dönemi'nde kullanılan dillerden biridir?
-    - A-) Eski Yunanca
-    - **Cevap B-) Aramice**
-    - C-) Palaca
-    - D-) Hurrice
-    - E-) Latince
-
-    > **Açıklama:** Geç Hitit Krallıkları döneminde Anadolu'da yerel diller (Luwi hiyeroglifli yazıtlar) ve Fenikece çift dilli yazıtlar kullanılmıştır. Bu yazıtlar, özellikle Karatepe'de bulunmuş ve hiyeroglif yazısının çözümüne katkı sağlamıştır.
-
-    <hr />
-
 ### Geç Hitit Halkları
 
 1. Aşağıdakilerden hangisi, eskiçağ yazarları tarafından Hellen göçleri sırasında; sorguçlu miğferleri, tutamaklı kalkanları ve çifte baltalarıyla kaba bir dil konuşan Anadolu'nun yerel halkları olarak betimlenen halklardan birini göstermektedir?
@@ -556,16 +582,6 @@
     - E-) Akha
 
     > **Açıklama:** Geç Hitit Dönemi beyliği Gurgum (Maraş)'da, mezar stellerinde zengin tabakadan kişilerin tasvir edildiği ve bu stellerde Fenike etkisi görülmekle birlikte, mezar stelleriyle ilgili Arami gelenekleri de bahsedilmektedir. Sam'al (Gaziantep-Zincirli Höyük) yerleşmesi Arami kökenlidir. Gurgum'daki mezar stellerindeki sahnelerin Eski Yunan mezar stellerinin prototipi olduğu bilgisi verilir. Sorunun doğru kabul edilen şıkkı D şıkkıdır (Arami). Sam'al örneği Arami etkisi bağlamında verilmiştir.
-
-    <hr />
-1. 18\. Aşağıdakilerden hangisi Geç Hitit Krallıklarından biri değildir?
-    - A-) Sam'al
-    - B-) Tabal
-    - C-) Melid
-    - **Cevap D-) Frig**
-    - E-) Arğamiş
-
-    > **Açıklama:** Geç Hitit Krallıkları arasında Kargamış, Sam'al (Gaziantep-Zincirli Höyük), Karatepe (Azatiwataya) ve Gurgum (Maraş) sayılmaktadır. Ünite 3'te, bu krallıkların listesi verilmiştir. Mezopotamya'daki Uruk evresi kültür birlikteliğinin çöküşü ve ardından kurulan bölgesel birimler Geç Hitit Krallıklarını oluşturur. Metinde adı geçmeyen veya bu dönemle ilişkilendirilmeyen bir krallık seçilmelidir. Verilen seçenekler arasında (varsa), metinde anılanların dışındaki bir krallık doğru cevap olacaktır (Ancak soruda seçenekler verilmediği için, metinde sayılanlar dışındaki bir Hitit Devleti'nin devamı olan yapı MEZOPOTAMYA OLAMAZ, çünkü Metopotamya'daki Uruk evresi çöküşü bu krallıkların oluşumuna zemin hazırlar).
 
     <hr />
 
@@ -621,22 +637,9 @@
 
     <hr />
 
-### Lidya Mermnad Krallığı
-
-1. 17\. Lidya'da hüküm süren Mermnad Sülalesinin ilk kralı aşağıdakilerden hangisidir?
-    - **Cevap A-) Gyges**
-    - B-) Daskylos
-    - C-) Mopsos
-    - D-) Argon
-    - E-) Lydos
-
-    > **Açıklama:** Lidya Krallığı'nın Mermnad Hanedanı zamanında güçlü olduğu ve ilk kralın Gyges olduğu belirtilmiştir. Ünite 3'te, Mermnad Hanedanı krallarının sırasıyla Gyges (MÖ. 680-644) ile başladığı açıkça ifade edilmiştir.
-
-    <hr />
-
 ### Lidya Siyasi Tarihi
 
-1. Lidya'da hüküm süren Mermnad Sülalesinin ilk kralı aşağıdakilerden hangisidir?
+1. Lidya'da hüküm süren Mermnad Sülalesinin ilk kralı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Gyges
     - B-) Lydos
     - C-) Argon
@@ -649,7 +652,7 @@
 
 ### Troia (Hisarlık Tepe)
 
-1. Batı Anadolu'dan zengin buluntular sağlaması ve ilk kent örneği olması gibi çeşitli nedenlerden dolayı, Anadolu arkeolojisinde çok önemli bir yer tutan, Homeros'un İlliada Destanı'na konu olmuş yerleşim aşağıdakilerden hangisidir?
+1. Batı Anadolu'dan zengin buluntular sağlaması ve ilk kent örneği olması gibi çeşitli nedenlerden dolayı, Anadolu arkeolojisinde çok önemli bir yer tutan, Homeros'un İlliada Destanı'na konu olmuş yerleşim aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Atina
     - B-) Knossos
     - C-) Ephesus
@@ -686,19 +689,6 @@
 
     <hr />
 
-### Urartu Kaya Kabartmaları
-
-1. Konya-İvriz kaya kabartmasında tasvirlerini gördüğümüz tanrı ve kral çifti aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Teişiba-Sarduri
-    - B-) Teşup-Muwatalli
-    - **Cevap C-) Tarhunza-Warpalawas**
-    - D-) Attis-Midas
-    - E-) Fırtına Tanrısı-Murşili
-
-    > **Açıklama:** Konya-İvriz kaya kabartmasında tasvir edilen tanrı ve kral çifti Tarhunza ve Warpalawas'tır. Ünite 3 özetinde, Tarhunza'nın Hitit/Hurri kökenli bir tanrı olduğu ve bu kabartmaların Urartu öncesi döneme ait olabileceği (ancak kesin bilgi verilmediği) ima edilmektedir. Ancak, sorunun belirttiği doğru cevap C şıkkıdır (Tarhunza-Warpalawas). Bu bilgi, metinlerde doğrudan verilmemiş olsa da, sorunun doğru kabul edilen cevabına istinaden Tarhunza'nın bir tanrı ve Warpalawas'ın kral olduğu kabul edilmelidir.
-
-    <hr />
-
 ### Urartu Krallığı
 
 1. MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar Van Gölü'nün doğu kıyısında yer alan Tuşpa (Van Kalesi) merkez olmak üzere güçlü bir krallık kuran ve tarım, hayvancılık, mimari, madencilik, taş işçiliği ve çanak çömlekçilik alanlarında gelişmiş uygarlık aşağıdakilerden hangisidir?
@@ -722,19 +712,6 @@
     - E-) Mısır
 
     > **Açıklama:** Urartu panteonunda fırtına tanrısı olan Teişeba (veya Teşup), Hurri kökenli bir tanrıdır. Urartular, fethettikleri topraklardaki halkların tanrılarını panteonlarına katmışlardır. (Ünite 3, Sayfa 1, Urartu Kültürü paragrafı).
-
-    <hr />
-
-### İyonya kültürel etkileşim
-
-1. Özellikle MÖ. 7. ve 6. yüzyıllarda Batı Anadolu'daki kültürlerin birbirleriyle kaynaşmasında kilit rol oynayan temel etmen aşağıdakilerden hangisidir?
-    - **Cevap A-) Kent devletleri**
-    - B-) Tiranlar
-    - C-) Persli yöneticiler
-    - D-) Yerel halklar
-    - E-) Senatus
-
-    > **Açıklama:** Metinde, MÖ 2. binin ikinci yarısından sonra Ege dünyasında başlayan göçlerle Batı Anadolu'ya gelen İonlar, Aioller ve Dorların yerleştiği belirtilmiştir. Bu dönemde, özellikle Batı Anadolu'da ticaretin gelişmesiyle bu kültürlerin etkileşimi ve kaynaşması hızlanmıştır. Lidyalıların güçlü bir krallık olması ve bölgeye egemen olması, bu kültürel etkileşimlerin Batı Anadolu'da kaynaşmasında ve kültürel birliğin doğuşunda kilit rol oynamıştır.
 
     <hr />
 
@@ -853,7 +830,7 @@
 
 ### Hellenistik Dönem Kültürü
 
-1. Özellikle MÖ. 7. ve 6. yüzyıllarda Batı Anadolu'daki kültürlerin birbirleriyle kaynaşmasında kilit rol oynayan temel etmen aşağıdakilerden hangisidir?
+1. Özellikle MÖ. 7. ve 6. yüzyıllarda Batı Anadolu'daki kültürlerin birbirleriyle kaynaşmasında kilit rol oynayan temel etmen aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Tiranlar
     - B-) Persli yöneticiler
     - **Cevap C-) Kent devletleri**
@@ -929,22 +906,9 @@
 
     <hr />
 
-### Roma Anadolu Eyaletleri
-
-1. 19\. Aşağıdakilerden hangisi, Roma'nın Anadolu'da (Küçük Asya) kurduğu eyaletlerden biri değildir?
-    - A-) Kilikya Eyaleti
-    - **Cevap B-) Panionia Eyaleti**
-    - C-) Galatia Eyaleti
-    - D-) Bithynia - Pontos Eyaleti
-    - E-) Asia Eyaleti
-
-    > **Açıklama:** Roma'nın Anadolu'da kurduğu eyaletler arasında Likya-Pamphylia, Trakya, Bithynia-Pontos ve Kapadokya Eyaletleri sayılmıştır (Ünite 4). Roma'nın MS. 102 yılında kurduğu Kilikya Eyaleti de bahsedilmiştir. Metinlerde adı geçmeyen bir bölge (örneğin, Galatia veya Asya Eyaleti'nin farklı bir dönemde kurulmuş olması veya bir kentin ismi), cevap olacaktır. Metinlerde açıkça sayılanlar: Likya-Pamphylia, Trakya, Kapadokya, Kilikya. Eğer seçeneklerde Galatia varsa, 166-180 dönemi bağlamında bahsedilmiş olsa da ayrı bir eyalet olarak sayılmamış olabilir (Ancak Galatia, Augustus döneminde kurulmuştur ve Roma'nın önemli bir eyaletidir. Sorunun cevabı için metinde \*\*açıkça\*\* belirtilmeyen bir eyalet seçilmelidir. Metinlerde geçenler: Likya-Pamphylia, Trakya, Kapadokya, Kilikya Eyaleti).
-
-    <hr />
-
 ### Roma Dönemi Kültürü
 
-1. Aşağıdakilerden hangisi Roma'da ilk Hıristiyanların içinde toplanıp, tapındıkları yer altı mezarlarının genel adıdır? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi Roma'da ilk Hıristiyanların içinde toplanıp, tapındıkları yer altı mezarlarının genel adıdır? *(3 kez soruldu)*
     - A-) Şapel
     - B-) Hipoje
     - C-) Tempera
@@ -970,7 +934,7 @@
 
 ### Roma Eyaletleri
 
-1. Aşağıdakilerden hangisi, Anadolu'da (Küçük Asya) Roma'nın kurduğu eyaletlerden biri değildir?
+1. Aşağıdakilerden hangisi, Anadolu'da (Küçük Asya) Roma'nın kurduğu eyaletlerden biri değildir? *(3 kez soruldu)*
     - A-) Asia Eyaleti
     - B-) Kilikya Eyaleti
     - C-) Bithynia - Pontos Eyaleti
@@ -1154,7 +1118,7 @@
 
 ### Hıristiyan Ayinleri
 
-1. Aşağıdakilerden hangisi Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin ana ayinidir?
+1. Aşağıdakilerden hangisi Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin ana ayinidir? *(2 kez soruldu)*
     - **Cevap A-) Ökaristi**
     - B-) Lektionar
     - C-) Krizobul
@@ -1247,7 +1211,7 @@
 
 ### Anadolu Selçuklu Tarihi
 
-1. 13\. Yüzyılda Selçuklu Anadolu'sunu etkileyen istila hangisidir?
+1. 13\. Yüzyılda Selçuklu Anadolu'sunu etkileyen istila hangisidir? *(2 kez soruldu)*
     - A-) Haçlılar
     - B-) Bizans
     - **Cevap C-) Moğollar**
@@ -1286,7 +1250,7 @@
 
 ### Selçuklu Ekonomi Politikası
 
-1. Selçukluların Anadolu'daki fetihlerinde "ekonomi politik" belirleyici bir etmen olmuştur. Aşağıdakilerden hangisi bu süreçte Selçukluların başarısında rol oynamış unsurlardan birini göstermektedir?
+1. Selçukluların Anadolu'daki fetihlerinde "ekonomi politik" belirleyici bir etmen olmuştur. Aşağıdakilerden hangisi bu süreçte Selçukluların başarısında rol oynamış unsurlardan birini göstermektedir? *(2 kez soruldu)*
     - **Cevap A-) Yollar**
     - B-) Büyük çiftlikler
     - C-) Hamamlar
@@ -1362,19 +1326,6 @@
 
     <hr />
 
-### Selçuklu İstila Dönemi
-
-1. 13\. Yüzyılda Selçuklu Anadolu'sunu etkileyen en önemli istila aşağıdakilerden hangisidir?
-    - A-) Haçlılar
-    - B-) Bizans
-    - **Cevap C-) Moğollar**
-    - D-) Vikingler
-    - E-) Ruslar
-
-    > **Açıklama:** Selçuklu devri Anadolu'sunun gördüğü ikinci büyük darbe, metne göre Moğol saldırıları ve istilasıdır. Bu istila 13. yüzyılda yaşanmıştır.
-
-    <hr />
-
 ### Selçuklu Şehirleşmesi
 
 1. 13\. yüzyıldaki iktisadî gelişme ortamı içerisinde Anadolu'da ticarî ve sinai faaliyetlerin gelişmesi ile şehirler çok genişlemiş, hatta bazıları var olan surlarının dışına taşmıştır. Aşağıdakilerden hangisi bu kentlerden birine örnek olarak gösterilebilir?
@@ -1405,7 +1356,7 @@
 
 ### Cumhuriyet Dönemi Müziği
 
-1. Aşağıdakilerden hangisi Cumhuriyetin ilk yıllarında Batı tekniğiyle işlenerek milli müziği oluşturacak türde müzik türüdür?
+1. Aşağıdakilerden hangisi Cumhuriyetin ilk yıllarında Batı tekniğiyle işlenerek milli müziği oluşturacak türde müzik türüdür? *(2 kez soruldu)*
     - A-) Orta Asya Türk müziği
     - B-) Mevlevî müziği
     - **Cevap C-) Halk müziği**
@@ -1558,7 +1509,7 @@
 
 ### Osmanlı Tekstil Sanatı
 
-1. Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılmış kumaşlar da kullanılmıştır. Bu kumaşlarda genellikle madalyonlar içerisinde aslan, kartal, fil, sfenks ve grifon gibi hayali yaratıkların tasvirleri görülmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılmış kumaşlar da kullanılmıştır. Bu kumaşlarda genellikle madalyonlar içerisinde aslan, kartal, fil, sfenks ve grifon gibi hayali yaratıkların tasvirleri görülmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Gamayun
     - B-) Dragon
     - C-) Satir
@@ -1597,7 +1548,7 @@
 
 ### Osmanlı ipekli kumaşları
 
-1. Renk açısından; "darçın?”, “sürma?”, “tufeg?" ve teknik açıdan; "seraser" ve "kemhayi" terminolojisi, aşağıdaki Osmanlı güzel sanatlarından hangisine ilişkindir?
+1. Renk açısından; "darçın?”, “sürma?”, “tufeg?" ve teknik açıdan; "seraser" ve "kemhayi" terminolojisi, aşağıdaki Osmanlı güzel sanatlarından hangisine ilişkindir? *(2 kez soruldu)*
     - A-) Seramik
     - **Cevap B-) İpek kumaşlar**
     - C-) Hattat
@@ -1690,7 +1641,7 @@
 
 ### Cumhuriyet Eğitimi ve Köy Enstitüleri
 
-1. Erken Cumhuriyet döneminde, kırsal alana rejimin yeni değerlerini götürmek ve öğretmen eksikliğini gidermek için uygulanan çözüm aşağıdakilerden hangisidir?
+1. Erken Cumhuriyet döneminde, kırsal alana rejimin yeni değerlerini götürmek ve öğretmen eksikliğini gidermek için uygulanan çözüm aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Köy Enstitüleri**
     - B-) Halkevleri
     - C-) Tevhid-i Tedrisat Kanunu
@@ -1716,7 +1667,7 @@
 
 ### Cumhuriyet dönemi müzik eğitimi
 
-1. Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumdur? *(2 kez soruldu)*
+1. Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumdur? *(3 kez soruldu)*
     - **Cevap A-) Musiki Muallim Mektebi**
     - B-) Darü'l-Elhan
     - C-) Darü'l-Bedayi
@@ -1768,13 +1719,6 @@
 
 ## Ünite Diğer
 
-1. Dairesel kent suru ve şehir planı ile dikkati çeken Geç Hitit Krallığı aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Kargamış
-    - **Cevap B-) Sam'al**
-    - C-) Melid
-    - D-) Gurgum
-    - E-) Tabal
-    <hr />
 1. Kayseri Fraktin Anıtı'nda tasvirleri yer alan kral ve kraliçe aşağıdakilerden hangisidir?
     - A-) Tudhaliya-Nikalmati
     - B-) Arnuwanda-Aşmunikal

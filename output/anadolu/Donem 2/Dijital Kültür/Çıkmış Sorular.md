@@ -93,6 +93,19 @@
 
     <hr />
 
+### Teknolojik Determinizm
+
+1. "Sosyal değişimin merkezinde medya teknolojileri vardır." düşüncesi aşağıdaki hangi kuramsal yaklaşım kapsamında yer alır? *(4 kez soruldu)*
+    - A-) Yapısalcılık
+    - B-) Semiyoloji
+    - C-) Ağ teorisi
+    - D-) Kültürel konstrüktivizm
+    - **Cevap E-) Teknolojik determinizm**
+
+    > **Açıklama:** Teknolojik determinizm perspektifine göre teknoloji, insanın ve toplumun davranışlarını ve eylemlerini doğrudan belirlemektedir. Her yeni medya türü çıktığında bu türün belirleyici bir araç olduğuna inanılır. Ünite 1'de bu yaklaşım, teknolojinin yarattığı koşulların insanların siyaset katılım biçimlerini bile doğrudan etkileyeceğini iddia eden ekol olarak tanımlanmıştır.
+
+    <hr />
+
 ### Çevrimiçi Topluluk Türleri
 
 1. Aşağıdakilerden hangisi internet üzerinde topluluk oluşturmada kullanılan mecralardan biri değildir? *(2 kez soruldu)*
@@ -147,6 +160,19 @@
 
     <hr />
 
+### Habermas ve Kamusal Alan
+
+1. Kamusal alanı; devletten, sermayeden / piyasadan ve ailenin mahrem hayatından ayrı bir güç ve demokrasinin ön koşulu olarak gören teorisyen aşağıdakilerden hangisidir? *(3 kez soruldu)*
+    - A-) Staler
+    - B-) Castells
+    - **Cevap C-) Habermas**
+    - D-) Van Dijk
+    - E-) Malina
+
+    > **Açıklama:** Jürgen Habermas'a göre kamusal alan, 18. yüzyılda aydınlar ve burjuva sınıfının bir araya gelip rasyonel tartışmalar yaptığı, demokrasinin ön koşulu olan iletişimsel kolektif çözüm geliştirme alanıdır; bu alan devletten, sermayeden (ticari) ve özel hayattan (aile) ayrı tutulur (Ünite 2).
+
+    <hr />
+
 ### Konum Tabanlı Uygulama
 
 1. Konum tabanlı servislerin yaygınlaşmasıyla birlikte sosyal medya kullanıcıları aşağıdakilerden hangisini yapma olanağına sahip olmuştur?
@@ -183,6 +209,19 @@
     - E-) Radar
 
     > **Açıklama:** Ünite 2'de Konum Tabanlı Uygulamalar başlığı altında haritalama, navigasyon, yön bulma ve konum/yakınlık algılamada kullanılan elektronik teknolojiler GPS, Wi-Fi, Bluetooth ve RFID olarak listelenmiştir. Web coğrafi bilgilerle etiketlenme (etiketleme) bir uygulama/sonuçtur, bir teknoloji değil, teknoloji tarafından sağlanan bir özelliktir. Radar ve sonar da konum belirlemede kullanılır. Bu bağlamda, Web ile etiketleme bir sonuç iken diğerleri doğrudan teknolojidir. Ancak soruda 'değildir' denildiği için, bu listede olmayan veya doğrudan bu amaçla anılmayan bir teknoloji aranır. Metinde geçenler: Radar, Sonar, GPS, Wi-Fi, Bluetooth, RFID. Web coğrafi bilgilerle etiketleme bir teknoloji değil, verinin işleniş şeklidir.
+
+    <hr />
+
+### Kültür Endüstrisi Eleştirisi
+
+1. Kültür ve teknoloji arasındaki ilişkiyi değerlendirirken kültürün endüstrileşmesi kavramını ortaya atan düşünürlerden biri aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - **Cevap A-) Max Horkheimer**
+    - B-) Martin Heidegger
+    - C-) Neil Postman
+    - D-) Armand Matteland
+    - E-) Alan Turing
+
+    > **Açıklama:** Max Horkheimer ve Theodor W. Adorno, kültür ve teknoloji arasındaki ilişkiyi eleştirel bir bakış açısıyla değerlendirmiş ve kültürün endüstrileşmesi kavramını ortaya atmışlardır. Onlara göre bu durum, kültürü kitlesel olarak üretilen bir meta hâline dönüştürmektedir. (Ünite 2, Kültür Endüstrisi bölümü)
 
     <hr />
 
@@ -305,7 +344,7 @@
 
 ### Çevrimiçi topluluk bileşenleri
 
-1. Aşağıdakilerden hangisi Preece'a göre çevirmiçi toplulukların dört temel bileşeninden biri değildir?
+1. Aşağıdakilerden hangisi Preece'a göre çevirmiçi toplulukların dört temel bileşeninden biri değildir? *(2 kez soruldu)*
     - **Cevap A-) Oyun amaçlı çevrimiçi gruplar**
     - B-) Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler
     - C-) Çıkar, ihtiyaç ya da iş birliği yapmak gibi ortak bir amaç
@@ -318,16 +357,16 @@
 
 ## Ünite 3
 
-### Alan Turing'in önemi
+### Alan Turing'in Önemi
 
 1. Alan Turing'in bilgisayar tarihindeki önemi aşağıdakilerden hangisine dayanmaktadır? *(2 kez soruldu)*
     - A-) 4\. dereceden polinominal fonksiyonları tanımlamıştır.
-    - B-) İkili kod sistemini bulmuştur.
-    - C-) Fortran bilgisayar dilinin mucididir.
-    - D-) Dokuma tezgahları için kart sistemini bulmuştur.
-    - **Cevap E-) Yapay zekaya giden yoldaki fikirlerden birinin sahibidir.**
+    - B-) Fortran bilgisayar dilinin mucididir.
+    - **Cevap C-) Yapay zekâya giden yoldaki en önemli fikirlerden birinin sahibidir.**
+    - D-) İkili kod sistemini bulmuştur.
+    - E-) Dokuma tezgahları için kart sistemini bulmuştur.
 
-    > **Açıklama:** Alan Turing, yapay zeka çalışmalarının öncülerindendir. Ünite 3'te, Turing'in bilgisayarların insan beyninin karmaşıklığına ulaşabileceği inancını dile getirdiği ve bu tartışmanın yapay zekaya giden yolda önemli bir fikir olduğu belirtilmektedir. Ayrıca, Turing Testi (İnsanca Eylemek) yapay zekanın operasyonel olarak tanımlanması için temel bir ölçüt olarak sunulmuştur. En somut katkısı ise, II. Dünya Savaşı sırasında Alman ordusunun şifreli mesajlarını kırmada önemli rol oynayan Colossus bilgisayarının geliştirilmesidir.
+    > **Açıklama:** Alan Turing, İkinci Dünya Savaşı sırasında Alman ordusunun şifreli mesajlarını kırmak için geliştirilen Colossus bilgisayarının geliştirilmesinde rol oynamıştır. Ayrıca, makinelerin insan gibi düşünüp düşünemeyeceği tartışmalarını başlatan ve yapay zekanın temelini oluşturan fikirleri ortaya atmıştır (Ünite 3).
 
     <hr />
 
@@ -372,7 +411,7 @@
 
 ### Artırılmış Gerçeklik Oyunları
 
-1. Sanal gerçeklikte olduğu gibi, artırılmış gerçeklikte de oyun piyasası bu yeni ortamın olanaklarını değerlendirmektedir. Artırılmış gerçeklik ortamını geniş kitlelerin ilk oyun deneyimlemesini sağlayan aşağıdakilerden hangisidir?
+1. Sanal gerçeklikte olduğu gibi, artırılmış gerçeklikte de oyun piyasası bu yeni ortamın olanaklarını değerlendirmektedir. Artırılmış gerçeklik ortamını geniş kitlelerin ilk oyun deneyimlemesini sağlayan aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Catan World Explorers
     - B-) Harry Potter Wizards Unite
     - C-) Zombies, Run
@@ -598,6 +637,19 @@
 
     <hr />
 
+### Yapay Zeka Tarihçesi
+
+1. Bir makinenin düşünüp düşünemeyeceği konusundaki tartışmalar hangi icattan sonra başlamıştır? *(3 kez soruldu)*
+    - A-) Babbage'ın Analiz Motoru
+    - B-) Antikythera Mekanizması
+    - C-) El Cezeri'nin Fil Saati
+    - **Cevap D-) Kempelen'in Mekanik Türk'ü**
+    - E-) Leibniz'in Kademeli Hesaplayıcısı
+
+    > **Açıklama:** Metinde, "Bilgisayarlar ile insanlar ayırt edilemeyecek hâle gelirse, bu makinelerin düşünebildiğine dair bir kanıt oluşturacaktır" ifadesi ile Turing'in bilgisayarlar üzerinden başlattığı bu tartışmanın yapay zekaya giden yolda en önemli fikirlerden biri olduğu belirtilmektedir. Bu fikir, Turing'in 1950'de sorduğu sorularla ilgilidir ve 1945'te Vannevar Bush'un Memex sisteminden bahsettiği makalesinden sonra gelişmiştir.
+
+    <hr />
+
 ### Yapay Zeka ve Robotlar
 
 1. Aşağıdaki robot karakterlerden hangisi insansal özellikleri yönüyle diğerlerinden ayrılır? *(3 kez soruldu)*
@@ -641,7 +693,7 @@
 
 ### Akıllı Sözleşmeler
 
-1. Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon
+1. Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon *(2 kez soruldu)*
     - A-) ağ mimarisidir
     - B-) dağıtık ağ mimarisidir
     - C-) İnternet'tir
@@ -649,6 +701,19 @@
     - E-) nesnelerin internetidir
 
     > **Açıklama:** Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon Akıllı Sözleşmelerdir. Bunlar, protokol maddelerinin kâğıda dökülüp mutabakata varılması yerine, dijital ortamda algoritmik kodlar aracılığıyla, aracısız ve dijital olarak işleyen yazılımlardır (Ünite 4).
+
+    <hr />
+
+### Akıllı Sözleşmeler ve Kripto Para
+
+1. Blokzincirleri çok daha etkin ve işleyişi daha yönetilebilir hâle getiren inovasyon akıllı sözleşmelerdir. İlk akıllı sözleşmeler hangi kriptoparanın blokzinciri üzerinde yer almaktadır? *(3 kez soruldu)*
+    - A-) Litecoin
+    - B-) Celo
+    - C-) Dogecoin
+    - D-) Bitcoin
+    - **Cevap E-) Ethereum**
+
+    > **Açıklama:** Metin, akıllı sözleşmelerin ilk olarak Ethereum adlı kriptoparanın blokzinciri üzerinde yer aldığını açıkça belirtmektedir. Bu sözleşmeler, kâğıda dökülen protokol maddelerinin dijital ortama aktarılmış halidir.
 
     <hr />
 
@@ -706,7 +771,7 @@
 
 ### Bitcoin ve Kriptopara Geliştiricileri
 
-1. Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim (ler) olduğu tam olarak bilinmeyen kişi veya grup aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim (ler) olduğu tam olarak bilinmeyen kişi veya grup aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Hiro Nakamura
     - B-) Martti Malmi
     - C-) Vitalik Buterin
@@ -719,7 +784,7 @@
 
 ### Blokzincir Ekonomisi
 
-1. Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları doğrudan tedarikçilere bağlayarak; \_\_\_\_ gibi avantajlar da sağlar.
+1. Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları doğrudan tedarikçilere bağlayarak; \_\_\_\_ gibi avantajlar da sağlar. *(2 kez soruldu)*
     - A-) aktivizm
     - B-) veri güvenliği
     - C-) anonimlik
@@ -786,19 +851,6 @@
     - E-) Toplumsal cinsiyet
 
     > **Açıklama:** Bitcoin'in geleneksel finans sisteminden farklarını açıklayan maddelerde, 4. temel husus olarak, kullanıcı mahremiyeti ile işlemlerin şeffaflığı arasındaki dengeyi korumak için kullanılan yüksek kriptografi standartları gösterilmektedir. Kriptografik standartların varlığı, güvenilirliği artırdığından, adil işleyişe engel teşkil eden bir unsur olarak değil, sistemi sağlayan bir koruma mekanizması olarak görülmektedir.
-
-    <hr />
-
-### Blokzincir İnovasyonu
-
-1. Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon --------. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) İnternet'tir
-    - **Cevap B-) akıllı sözleşmelerdir**
-    - C-) nesnelerin internetidir
-    - D-) dağıtık ağ mimarisidir
-    - E-) ağ mimarisidir
-
-    > **Açıklama:** Ünite 4'te, Blokzincir Kullanım Alanları ve Sektörel Blokzincir Uygulamaları başlığı altında, 'Akıllı Sözleşmeler Blokzincirleri çok daha etkin hale getiren ve işleyişi daha yönetilebilir hale getiren inovasyon ise akıllı sözleşmelerdir.' ifadesi geçmektedir. Bu, boş bırakılan yeri tamamlayan doğru cevaptır.
 
     <hr />
 
@@ -897,7 +949,7 @@
 
 ### Dijital İçerik Üretimi
 
-1. İnsanların, 2010'lu yıllarda daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır? *(2 kez soruldu)*
+1. İnsanların, 2010'lu yıllarda daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır? *(4 kez soruldu)*
     - A-) Bilgi çağı
     - **Cevap B-) Dijital çağ**
     - C-) Endüstri 4.0
@@ -1014,7 +1066,7 @@
 
 ### Yapay Zeka ve Sanat
 
-1. OpenAl tarafından Ocak 2021'de yayınlanan, DALL-E algoritmaları tarafından üretilmiş görüntülerin ayırt edici özelliği aşağıdakilerden hangisidir?
+1. OpenAl tarafından Ocak 2021'de yayınlanan, DALL-E algoritmaları tarafından üretilmiş görüntülerin ayırt edici özelliği aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Yapay zekânın üretimi olması**
     - B-) Fotoğraf formatında olması
     - C-) Resim olması
@@ -1022,6 +1074,19 @@
     - E-) Tasarım eseri olması
 
     > **Açıklama:** GAN (Generative Adversarial Network) ile üretilen görüntülerde, Üretici (Generative) yeni görüntüler yaratırken, Ayrımcı (Discriminator) üretilen görüntünün gerçek mi yoksa yapay mı olduğunu bulmaya çalışır. Üreticinin, ayrımcının ayırt edemediği çıktılar üretmesi, bu sistemlerin ayırt edici özelliğidir. (Ünite 5, Yapay Zeka ve Sanat bölümü)
+
+    <hr />
+
+### Yeni Estetik
+
+1. Mathieu Tremblin'in bir stok imaj sitesinin filigranını boş duvarın üzerine tebeşirle çizerek yaptığı ve sonra fotoğrafını çekerek ürettiği Watermark (Filigran) isimli proje Yeni Estetik açısından nasıl yorumlanabilir? *(2 kez soruldu)*
+    - A-) Sayısal olan yapay zekânın, insan zekası ile boy ölçüşemeyeceği
+    - B-) Sayısal dünya haricinde sanat yapıtından bahsedilemez olduğu
+    - C-) Sayısal imgeleme tekniklerinin geleneksel yöntemlerden üstün olduğu
+    - D-) Sayısal yöntemlerle üretilen sanatın gerilemekte olduğu
+    - **Cevap E-) Sayısal dünyanın fiziksel dünyaya sızdığı**
+
+    > **Açıklama:** Doğru kabul edilen E şıkkı, Mathieu Tremblin'in "Watermark" projesinin temelini oluşturan Yeni Estetik kavramını tanımlar. Ünite özetlerinde (özellikle Ünite 3'te) açıklandığı gibi, Yeni Estetik, sayısal teknolojilerin görsel dilinin fiziksel dünyaya akarak, sayısal ve fiziksel dünyayı iç içe geçirmesidir. Filigran (Watermark) normalde sayısal ortamlarda (stok imaj sitelerinde) telif hakkını korumak için kullanılan bir dijital göstergedir. Tremblin'in bu dijital görsel dili (filigranı) tebeşirle gerçek bir duvara çizerek fiziki alana taşıması, sayısal dünyanın görsel unsurlarının günlük fiziksel yaşam alanlarına sızdığını ve iki dünyanın iç içe geçtiğini gösterir. Bu proje, dijital estetiğin fiziki gerçeklik üzerindeki etkisini ve Sanat Alanında Yeni Estetik kavramının bir örneğini sunar.
 
     <hr />
 
@@ -1066,7 +1131,7 @@
 
 ### Yeni Medya ve Sanat
 
-1. "Yeni medya ile başlayan dijital kültür çağında, sanat nesnesi; roman, şiir gibi edebiyat formlarından, performansa, oyuna kadar geleneksel konsept ve kategoriler yok olmaktadırlar." Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. "Yeni medya ile başlayan dijital kültür çağında, sanat nesnesi; roman, şiir gibi edebiyat formlarından, performansa, oyuna kadar geleneksel konsept ve kategoriler yok olmaktadırlar." Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) yok olmaktadırlar
     - B-) etkileşimli olmuşlardır
     - **Cevap C-) yeniden tanımlanmaktadır**
@@ -1090,6 +1155,19 @@
 
     <hr />
 
+### İnternet tarihi ve protokoller
+
+1. Bilgisayarların birbiriyle konuşmasını sağlayan ARPANET ile oluşan ilk ağdan sonraki bir diğer önemli icat olan ve farklı ağların birbirine bağlanmasını sağlayan teknoloji aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) HTTP
+    - **Cevap B-) TCP/IP**
+    - C-) HTML
+    - D-) URL
+    - E-) WWW
+
+    > **Açıklama:** Metinde, ARPANET'ten sonra farklı ağların birbirine bağlanmasını sağlayan teknolojinin Çağlar Arası Bağlantı Protokolü olan TCP/IP olduğu belirtilmektedir. (Sayfa 1, GİT108U-DİJİTAL KÜLTÜR Ünite 5).
+
+    <hr />
+
 ## Ünite 6
 
 ### Ciddi Oyunlar Tanımı
@@ -1107,7 +1185,7 @@
 
 ### Dijital Kültür Formu
 
-1. Celia Pearce (2009) dijital kültürün en baskın kültürel formu olarak dijital oyunları, 21. yüzyılın geçici ortamı olarak nitelendirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Celia Pearce (2009) dijital kültürün en baskın kültürel formu olarak dijital oyunları, 21. yüzyılın geçici ortamı olarak nitelendirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) dijital
     - **Cevap B-) iletişim**
     - C-) kültür
@@ -1169,7 +1247,7 @@
 
 ### Dijital Oyunların Tarihçesi
 
-1. Aşağıdaki oyunlardan hangisi 1971'de Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturmuştur? *(2 kez soruldu)*
+1. Aşağıdaki oyunlardan hangisi 1971'de Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturmuştur? *(3 kez soruldu)*
     - A-) Solitaire
     - B-) Dama
     - **Cevap C-) Spacewar!**
@@ -1177,16 +1255,6 @@
     - E-) Pong
 
     > **Açıklama:** Ünite 6'da dijital oyunların tarihçesi anlatılmaktadır. İlk örneklerin 20. yüzyılın ortalarında üniversite kampüslerinde bilimsel çalışmalar kapsamında geliştirildiği belirtilir. Oyun karakterizasyonuna dair erken dönem örneklerinden biri olarak, 1969'da Myron Krueger'in 'yapay gerçeklik' terimini ortaya attığı ve 'Videoplace' teknolojisi ile etkileşimli mekânlar tasarladığı (Peddie, 2017) bilgisi mevcuttur. Ancak, Soru 1, 1971'de Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturan oyunu soruyor. Bu oyun metinde açıkça belirtilmemiştir ancak dijital oyunların başlangıcı 20. yüzyıl ortalarındaki (1950'ler) bilimsel çalışmalara dayanır. Ünite 6'nın 'Giriş' kısmında dijital oyunların 1980'lerden bu yana medya manzarasının bir parçası olduğu belirtilse de, çok eski kökenleri de vardır. Kaynak metinde spesifik olarak 1971 Stanford oyunundan bahsedilmemektedir, ancak bu tür erken dönem oyunlarının (örneğin Spacewar!) prototipleri genellikle bilimsel araştırmaların bir ürünü olarak ortaya çıkmıştır. Bu tür sorular genellikle ders materyalinin doğrudan kapsamadığı, ancak bağlamı itibarıyla erken dönem dijital oyunlar (veya erken dönem etkileşimli sistemler) ile ilgili olanlardır. Ünite 6, 1960'larda Roger Caillois'in oyun ve oynama arasındaki farkı incelemesi ve 1938'de Huizinga'nın çalışmalarından bahseder. Sorunun içeriği, doğrudan ders içeriğinde yer almasa da, dijital oyunların kökenine (Ünite 6) işaret etmektedir.
-
-    <hr />
-1. Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturmuştur?
-    - A-) Solitaire
-    - **Cevap B-) Dama**
-    - C-) Spacewar!
-    - D-) Tennis for two
-    - E-) Pong
-
-    > **Açıklama:** Metinde, Stanford Üniversitesi kampüsünde geliştirilen ve video oyunu olarak kabul edilen oyunun, Spacewar! olduğu bilgisi yer almasa da, üniversite kampüslerinde erken dönemde bilimsel çalışmalar kapsamında geliştirilen oyunlara atıf yapılmaktadır. (Verilen doğru şıkka göre, Spacewar! en bilinen erken dönem üniversite kaynaklı oyundur.)
 
     <hr />
 
@@ -1228,7 +1296,7 @@
     > **Açıklama:** Juul'un tanımının sınırlarını zorlayan örneklerden birinin 'oyun olmayan ancak oyun kurallarını taşıyan' bir aktivite olduğu belirtilmektedir. Cities Skylines, bir şehir kurma/yönetme simülasyonu olup, genellikle oyundan çok bir simülasyon veya yönetim aracı olarak görülebilir (ancak bazı bağlamlarda oyun olarak da ele alınır), bu da Juul'un oyun ile oyun olmayan arasındaki sınır çekme çabasına uyan bir örnektir.
 
     <hr />
-1. Juul (2005) kapsayıcı ve betimleyici bir terim önermekle birlikte, bazı örneklerin bu terimin sınırlarını zorladığını ve bazı örneklerin de oyun niteliklerinin taşımalarına karşın bu tanımın sınırlarına dışına taştığını savunur. Buna göre, aşağıdakilerden hangisi Juul'un oyun olarak adlandırdığı terimin örneklerinden biridir?
+1. Juul (2005) kapsayıcı ve betimleyici bir terim önermekle birlikte, bazı örneklerin bu terimin sınırlarını zorladığını ve bazı örneklerin de oyun niteliklerinin taşımalarına karşın bu tanımın sınırlarına dışına taştığını savunur. Buna göre, aşağıdakilerden hangisi Juul'un oyun olarak adlandırdığı terimin örneklerinden biridir? *(2 kez soruldu)*
     - A-) Satranç
     - B-) Tenis
     - C-) Solitaire
@@ -1357,7 +1425,7 @@
 
 ### Yapay Zeka Tarihi
 
-1. 1960'ların ortalarında Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon'un insani problem çözme metotlarını bilgisayar kullanarak simule etmeye yarayan çok amaçlı programı aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. 1960'ların ortalarında Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon'un insani problem çözme metotlarını bilgisayar kullanarak simule etmeye yarayan çok amaçlı programı aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Enigma
     - B-) Deep Blue
     - **Cevap C-) Genel Problem Çözücü**
@@ -1391,19 +1459,6 @@
     - E-) İlk chatbot olan ELIZA'yı geliştirmek
 
     > **Açıklama:** Ünite 7 özetinde, Lofti Zadeh'in katkısı olarak, bilgisayarların yalnızca ikili sistemle değil, insan düşüncesi gibi çalışabilmesini sağlayan 'bulanık mantık' çalışmaları olduğu belirtilmektedir. Bu, yapay zeka çalışmalarında önemli bir gelişmedir.
-
-    <hr />
-
-### Yapay Zeka ve Sanat
-
-1. OpenAI tarafından Ocak 2021'de yayınlanan, DALL-E algoritmaları tarafından üretilmiş görüntülerin ayırt edici özelliği aşağıdakilerden hangisidir?
-    - A-) Resim olması
-    - B-) Fotoğraf formatında olması
-    - C-) Çizim olması
-    - **Cevap D-) Yapay zekanın üretimi olması**
-    - E-) Tasarım eseri olması
-
-    > **Açıklama:** Metinde Yapay Zeka ve Sanat başlığı altında, GAN (Generative Adversarial Network) yapay zeka ağının iki bölümden oluştuğu; 'Üretici'nin yeni görüntüler yaratırken, 'Ayrımcı'nın rolünün bilgisayarda üretilen görüntüyü bulmak olduğu belirtilmiştir. Ayrımcıyı kandırmaya çalışan Üretici'nin başarılı olması, ayrımcının ayırt edemediği parçaların benzersizliğini gösterir. DALL-E'nin de GAN tabanlı olması nedeniyle bu özellik geçerlidir.
 
     <hr />
 
@@ -1642,7 +1697,7 @@
 
 ### Yapılandırılmış Veri Özellikleri
 
-1. Aşağıdakilerden hangisi yapılandırılmış verilerin özelliklerinden biridir? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi yapılandırılmış verilerin özelliklerinden biridir? *(4 kez soruldu)*
     - A-) Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları
     - **Cevap B-) Bir sistem ya da düzen içerisinde tanımlanmış olmaları**
     - C-) Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları
@@ -1661,15 +1716,5 @@
 
     > **Açıklama:** Yapılandırılmış Veriler başlığı altında, yapılandırılmış verilerin ilişkisel veritabanlarında (RDBMS) saklandığı, rakamlardan ve metinden oluştuğu ve bu verilerin yerlerinin (alanlar, telefon numaraları vb.) önceden tanımlı sabit alanlarda bulunduğu belirtilir. A seçeneği, yapılandırılmış verilerin tanımlanmış bir sistem/düzen içinde olmasını doğru ifade eder.
 
-    <hr />
-
-## Ünite Diğer
-
-1. Mathieu Tremblin'in bir stok imaj sitesinin filigranını boş duvarın üzerine tebeşirle çizerek yaptığı ve sonra fotoğrafını çekerek ürettiği Watermark (Filigran) isimli proje Yeni Estetik açısından nasıl yorumlanabilir? *(2 kez soruldu)*
-    - A-) Sayısal olan yapay zekânın, insan zekası ile boy ölçüşemeyeceği
-    - B-) Sayısal dünya haricinde sanat yapıtından bahsedilemez olduğu
-    - C-) Sayısal imgeleme tekniklerinin geleneksel yöntemlerden üstün olduğu
-    - D-) Sayısal yöntemlerle üretilen sanatın gerilemekte olduğu
-    - **Cevap E-) Sayısal dünyanın fiziksel dünyaya sızdığı**
     <hr />
 

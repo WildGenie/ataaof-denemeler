@@ -3201,7 +3201,8 @@
     },
     {
         "SoruID": 3858673,
-        "SoruMetni": "Henri Cartier Bresson  aşağıdaki alanlardan hangisinde öncüdür?",
+        "SoruMetni": "Henri Cartier Bresson 
+aşağıdaki alanlardan hangisinde öncüdür?",
         "A": "Gündelik yaşam fotoğrafçılığı",
         "B": "Sokak fotoğrafçılığı",
         "C": "Mimari fotoğraf",
@@ -3217,7 +3218,8 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Henri Cartier Bresson sokak fotoğrafçılığının öncülerinden biridir. Kameraların küçülüp rahat taşınmaya başlaması ile 1900'lü yıllarda hızla gelişen bu alanın belgesel fotoğrafçılıkla yakın ilgisi bulunmaktadır. Sokak fotoğrafçılığı yaşamı belgeleyen fotoğraf sanatının en ilginç türlerinden biridir. Bu konuda uluslararası tanınırlığı olan Ara Güler’in çalışmaları da fotoğraf sanatımız açısından oldukça önemli sayılmaktadır.  Doğru cevap B’dir."
+        "Aciklama": "Henri Cartier Bresson sokak fotoğrafçılığının öncülerinden biridir. Kameraların küçülüp rahat taşınmaya başlaması ile 1900'lü yıllarda hızla gelişen bu alanın belgesel fotoğrafçılıkla yakın ilgisi bulunmaktadır. Sokak fotoğrafçılığı yaşamı belgeleyen fotoğraf sanatının en ilginç türlerinden biridir. Bu konuda uluslararası tanınırlığı olan Ara Güler’in çalışmaları da fotoğraf sanatımız açısından oldukça önemli sayılmaktadır. 
+Doğru cevap B’dir."
     },
     {
         "SoruID": 3858972,

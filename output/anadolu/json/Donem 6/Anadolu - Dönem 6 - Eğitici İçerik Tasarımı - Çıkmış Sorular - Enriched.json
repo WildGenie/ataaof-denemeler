@@ -15,7 +15,10 @@
             "source": "Ara Sınav 2023-2024",
             "material_id": "606545",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 1,
+            "topic": "Stratejik Planlama Modeli",
+            "explanation": "Stratejik planlama sürecinde, mevcut durumu ve gelecekteki hedefleri belirlemek için sistematik analiz yöntemleri kullanılır. SWOT analizi (Güçlü Yönler, Zayıf Yönler, Fırsatlar, Tehditler), bir kurumun veya programın iç çevresini (Güçlü ve Zayıf Yönler) ve dış çevresini (Fırsatlar ve Tehditler) analiz etmek ve bu bağlamda stratejik kararlar almak için kullanılan en yaygın sistematik modeldir. İhtiyaç analizi, eğitim amaçlarının belirlenmesi ve gerçekleşmesi için var olan durum ile ideal durum arasındaki farkı tespit etme sürecidir; ancak SWOT, bu sürecin bir parçası olarak çevresel faktörleri analiz eden özelleşmiş sistematik bir modeldir."
         },
         {
             "id": 2,
@@ -31,9 +34,9 @@
             "exam_question_number": 2,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606545",
-            "UniteNo": 1,
-            "topic": "İhtiyaç Belirleme Adımları",
-            "explanation": "İhtiyaç belirleme genellikle dört adımdan oluşur: Amaçları oluşturma ve önem sırasına dizme, her amacın var olan durumunu belirleme, amaçlar ile var olan durum arasındaki tutarsızlıkları belirleme ve analiz etme, ve tutarsızlıkları öncelik sırasına dizme. Soru kökünde belirtilen 'İhtiyaç belirleme sürecinde görev alacak kişileri seçme' (veya hazırlık aşamasında kaynakları belirleme) ihtiyacın belirlenmesi adımlarından biri değil, ihtiyaç analizi sürecinin genel hazırlık aşamalarından biridir (Aşama 1).",
+            "UniteNo": 0,
+            "topic": "İptal Edilmiş Soru",
+            "explanation": "Bu soru iptal edilmiştir ve değerlendirmeye alınmamıştır.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -51,9 +54,9 @@
             "exam_question_number": 3,
             "source": "Ara Sınav 2023-2024",
             "material_id": "606545",
-            "UniteNo": 1,
-            "topic": "İhtiyaç Analizi Aşamaları",
-            "explanation": "İhtiyaç analizi aşamaları; hazırlık, bilgi toplama, bilgilerin analizi ve sonuçların analizi olmak üzere dört aşamadan oluşur. Soruda bahsedilen 'ayrıştırma, tanımlama, sıralama, bulguların yorumu' işlemleri, toplanan veri ve bilgilerin analiz edildiği 'Bilgilerin analizi' aşamasında gerçekleştirilir.",
+            "UniteNo": 7,
+            "topic": "Yapılandırmacılık Türleri",
+            "explanation": "Yapılandırmacı kuram, bilişsel, sosyal ve radikal yapılandırmacılık olmak üzere üç farklı yaklaşıma sahiptir. Ünite 7’deki bilgilere göre, “Sosyal yapılandırmacılık öğrenmenin iş birliğine dayalı doğasına odaklanır.” Öğrenmenin insanlar arası etkileşimle, iş birliğiyle, kültürel unsurlarla ve toplumla etkileşime girerek geliştiğini savunan yaklaşım Sosyal yapılandırmacılıktır. Bilişsel yapılandırmacılık, öğrencinin bilişsel gelişim aşamasıyla ilişkili olmasına odaklanırken, Radikal yapılandırmacılık ise bilginin birey tarafından inşa edildiği ve dış dünya hakkında kesin bir şey söylemediği fikrine odaklanır.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -94,7 +97,7 @@
             "UniteNo": 1,
             "topic": "İhtiyaç Belirleme Teknikleri",
             "explanation": "Metinde Meslek (İş) Analizi tekniği için, \"Meslek (iş) analizi, çalışanların gözlemlenebilir iş davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci olarak da tanımlanmaktadır.\" ifadesi yer almaktadır. Bu tanım, soruda verilen açıklamaya tam olarak uymaktadır. Dolayısıyla doğru teknik Meslek (İş) Analizidir.",
-            "occurrence_count": 2,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -154,7 +157,7 @@
             "UniteNo": 2,
             "topic": "Öğrenme Stratejileri",
             "explanation": "Yeni gelen bilginin, bireyin uzun süreli belleğinde var olan önceki bilgilerle karşılaştırılarak anlamlı hale getirilmesi, öğrenilenin anlamlandırılarak zihinde yapılandırılmasını içerir. Bu, 'Anlamlandırma stratejileri'nin tanımına uymaktadır (bilgi birimleri arasında ilişki kurarak anlamlı öğrenmeyi sağlamak).",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -254,7 +257,7 @@
             "UniteNo": 3,
             "topic": "Klasik Koşullanma İlkeleri",
             "explanation": "Sönme, koşullu uyarıcının tek başına sunulduğu ve zamanla koşullu tepkinin azalması veya hiç ortaya çıkmaması durumudur. Soruda belirtilen, koşullu uyaran olmadığı ortamda öğrenilmiş tepkinin zamanla azalması durumu 'Sönme' ilkesi ile açıklanır.",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -448,9 +451,8 @@
             "UniteNo": 8,
             "topic": "İhtiyaç Analizi Bileşenleri",
             "explanation": "Metinde SWOT analizinin açılımı veya bu analize doğrudan atıf bulunmamaktadır. Ancak ihtiyaç belirlemenin dört bileşeni/adımı şu şekildedir: Amaçları oluşturma ve sıralama, var olan durumu belirleme, tutarsızlıkları belirleme ve analiz etme, tutarsızlıkları öncelik sırasına dizme. (Sayfa 1)",
-            "is_duplicate": true,
-            "duplicate_of": 41,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 4
         },
         {
             "id": 24,
@@ -472,7 +474,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 25,
@@ -494,7 +497,8 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 26,
@@ -516,7 +520,8 @@
             "is_duplicate": true,
             "duplicate_of": 10,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 27,
@@ -558,7 +563,8 @@
             "is_duplicate": true,
             "duplicate_of": 7,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 29,
@@ -597,9 +603,8 @@
             "UniteNo": 2,
             "topic": "İçerik Türleri",
             "explanation": "Normatif içerik değer yargılarından, normlardan ve standartlardan oluşur ve insanların nasıl hareket etmesi gerektiğini açıklar. Normatif içerikte 'nasıl, neden oldu, iyi mi oldu, kötü mü oldu, nasıl olsa daha iyi olurdu' gibi yorumlamaya açık sorulara yanıt aranır. 'Ne oldu, ne zaman oldu, nerede oldu, kim yaptı' gibi sorulara yanıt aranan içerik türü ise Betimsel içeriktir. (Sayfa 1)",
-            "is_duplicate": true,
-            "duplicate_of": 42,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 2
         },
         {
             "id": 31,
@@ -634,7 +639,9 @@
             "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 33,
@@ -674,9 +681,9 @@
             "topic": "Klasik Koşullanma İlkeleri",
             "explanation": "Koşullanmış uyarıcının tek başına artık koşullu tepkiye neden olmadığı öğrenme sürecine 'Sönme' denir. Kendiliğinden Geri Gelme ise şartsız uyarıcının tekrar sunulmasıyla şartlı tepkinin yeniden ortaya çıkmasıdır. (Sayfa 1)",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 13,
-            "similarity_score": 0.9768359065055847
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır (biri 'tepkiler', diğeri 'tepki' dese de içerik aynıdır: sönme ilkesinin tanımı). Şıklar aynıdır (sadece sıralaması farklıdır) ve doğru cevap aynı kavramdır (Sönme)."
         },
         {
             "id": 35,
@@ -715,9 +722,8 @@
             "UniteNo": 5,
             "topic": "Yapılandırmacılık Türleri",
             "explanation": "Sosyal yapılandırmacılık, öğrenmenin iş birliğine dayalı doğasına odaklanır ve insanların birbirleriyle etkileşim içinde öğrenmesini, bilgi inşa etmesini temel alır. (Sayfa 2)",
-            "is_duplicate": true,
-            "duplicate_of": 43,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 2
         },
         {
             "id": 37,
@@ -759,7 +765,8 @@
             "is_duplicate": true,
             "duplicate_of": 17,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 39,
@@ -781,7 +788,8 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.996046781539917
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 40,
@@ -803,7 +811,8 @@
             "is_duplicate": true,
             "duplicate_of": 18,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 41,
@@ -822,10 +831,10 @@
             "UniteNo": 5,
             "topic": "Dijital Olanaklarda SWOT",
             "explanation": "SWOT analizi; Güçlü Yönler (Strengths), Zayıf Yönler (Weaknesses), Fırsatlar (Opportunities) ve Tehditler (Threats) kelimelerinin baş harflerinden oluşur. Bu kelimelerin doğru sırasıyla eşleştirildiği şık D şıkkıdır.",
-            "occurrence_count": 4,
             "is_duplicate": true,
             "duplicate_of": 23,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 42,
@@ -844,10 +853,10 @@
             "UniteNo": 2,
             "topic": "İçerik Türleri",
             "explanation": "Normatif içerik, değer yargıları, normlar ve standartlar içerir ve 'nasıl, neden oldu, iyi mi oldu, kötü mü oldu' gibi sorulara yanıt arar. 'Ne oldu?' sorusu ise olgu ve ilkeleri içeren, yoruma açık olmayan bilgileri soran Betimsel içeriğin konusudur.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 30,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 43,
@@ -863,10 +872,10 @@
             "exam_question_number": 3,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "606563",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 36,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 44,
@@ -986,7 +995,7 @@
             "topic": "Yaratıcı Düşünme Süreçleri",
             "explanation": "Ünite 6'da, Yaratıcı Düşünme Süreci başlığı altında yaratıcı düşünme aşamaları verilmiştir: hazırlık, kuluçka, fikrin doğması, fikrin geliştirilmesi. Soruda boş bırakılan yer, yeni düşünce ve kavramlar üretme, planlama ve denemeler yapma ile ilişkilendirilen aşamayı (sanatçı/tasarımcı rolünü) temsil etmelidir. Yaratıcı düşünme süreci aşamalarından 'fikrin geliştirilmesi' aşaması, ortaya çıkan fikirlerin geliştirilme sürecini, zayıf ve geliştirilebilir durumları belirleyip tamamlamayı içerir. Ancak Hermann'ın Modeli (ki bu metinde dolaylı olarak geçmektedir) altı rol (kaşif, sanatçı, yargıç, planlayıcı, vb.) kullanır. Verilen şıklar ve açıklama bağlamında, 'yaratıcı problem çözme sürecini' temsil eden en uygun rol 'sanatçı'dır, zira metinde geçen 'fikrin geliştirilmesi' (yaratıcı eylem) ile ilişkilidir. Metindeki genel yaratıcı süreç açıklamaları dikkate alındığında (deneme, uygulama, geliştirme), sanatçı rolü bu süreci temsil etmede en uygun seçenektir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 50,
@@ -1025,8 +1034,7 @@
             "UniteNo": 6,
             "topic": "Yaratıcı Birey Özellikleri",
             "explanation": "Ünite 6'da, 'Yaratıcı Birey' başlığı altında yaratıcı kişilerin özellikleri sayılmıştır: Farklı olmayı göze alabilmek, yargılamayı geciktirebilmek, esnek düşünebilmek, spontan düşünebilmek, kavram oluşturabilmek, kavramları ilişkilendirebilmek, hayal gücü, konuya odaklanabilmek. 'Gerçekçi olma' (A şıkkındaki 'Gerçekçi olma' değil, 'Hayal gücü' veya 'Belirsizliğe tolerans' gibi özellikler yaratıcı bireyin parçasıdır) şıklardan biri olarak doğrudan belirtilmemiştir. Ancak, yaratıcı birey 'gerçekçi olma'dan ziyade hayal gücü ve esnekliği ile öne çıkar. Şıklardan D şıkkı 'Gerçekçi olma' yaratıcı bireyin tipik özelliği olarak listelenmemiştir; aksine 'farklı olmayı göze alabilme' ve 'karmaşaya/belirsizliğe tahammül edebilme' vurgulanmıştır. (Not: Verilen şıkların hepsi yaratıcılığın karşıtları olabilir, ancak 'Gerçekçi olma' genellikle yaratıcılığın tanımında ana özellik olarak geçmez.)",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "occurrence_count": 2
         },
         {
             "id": 52,
@@ -1046,7 +1054,7 @@
             "topic": "Yaratıcı Süreç Tanımı",
             "explanation": "Ünite 6'da, Yaratıcılık Nedir? başlığı altında yaratıcılığın pek çok boyutu olduğu belirtilmiştir. Yaratıcılık; öğrenme gibi beynin farklı bölgelerinde gerçekleşen bir süreçtir (I. kısmı dolaylı olarak doğru, zira beyinle ilişkilidir). İçerik geliştirme bağlamında, yaratıcılık tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir (III. doğrudur). Yaratıcı edim, sanatsal ifade, duyuşsal ve görsel izlenim öğeleriyle düşünme ve uygulama sürecidir. Yaratıcılık, insanın varlığını ortaya çıkarma süreci olarak değil, daha çok yeni bir şey üretme/keşfetme süreci olarak tanımlanır. Ancak metin, yaratıcılığın çok boyutluluğunu ve bu bileşenlerin birleşimini vurgular (I, II, III). Soruda verilen şıklar arasında en kapsayıcı olan E şıkkı, yaratıcılığın çok boyutlu doğasını (bireysel, kültürel, süreçsel) yansıtma eğilimindedir. (Not: I. Bireysel bir süreçtir ifadesi, sürecin kendisinin bireysel yönünü vurguladığı için kabul edilebilir. II. Kültürel bir süreçtir, çevresel etkenler nedeniyle kabul edilebilir. III. Kişilik özelliklerinin birleşimidir, metinde açıkça belirtilmiştir. IV. İnsanın varlığını ortaya çıkarma süreci değil, yaratma sürecidir.) Bu tip sorularda tüm bileşenlerin birleşimi (E) genellikle doğru kabul edilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 53,
@@ -1106,7 +1114,7 @@
             "topic": "İçerik Seçim İlkeleri",
             "explanation": "Ünite 7'de, Sorgulama Temelli İçerik Hazırlama başlığının altında içerik seçim ilkeleri özetlenmiştir. 'Aktarılabilirlik ve uygunluk' ilkesi şu şekilde tanımlanmıştır: 'İçeriğin hitap edilen kitlenin hazır bulunuşluk düzeyiyle ve gelişim süreciyle uyumlu olmasıdır.' Bu tanım, C şıkkı ile doğrudan eşleşmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 56,
@@ -1126,7 +1134,7 @@
             "topic": "Geçerlik Türleri",
             "explanation": "Ünite 8'de, Geçerlik başlığı altında, 'Görünüş Geçerliği' şu şekilde tanımlanmıştır: 'Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili konudaki uzmanların görüşlerini almaktır.' Bu tanım A şıkkı ile birebir örtüşmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 57,
@@ -1166,7 +1174,7 @@
             "topic": "Geçerlik Türleri: Kapsam",
             "explanation": "Soruda, Mert öğretmenin Türkiye'nin 7 coğrafi bölgesini işlemesine rağmen, sınavda sadece Güneydoğu Anadolu Bölgesi ile ilgili sorular sorması, ölçtüğü niteliklerin (konu içeriğinin tamamı) sınava yansıtılmaması durumunu ifade eder. Ünite 8'de Kapsam Geçerliği, 'Bir ölçme aracının ölçülmesi hedeflenen nitelikleri ne kadar kapsayıp kapsamadığı kapsam geçerliği kavramıyla açıklanmaktadır' şeklinde tanımlanmıştır. Bu durumda öğretmen, ölçülmek istenen tüm nitelikleri (7 bölge) kapsamadığı için Kapsam Geçerliği'ni uygulamamıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 59,
@@ -1228,7 +1236,8 @@
             "is_duplicate": true,
             "duplicate_of": 4,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 62,
@@ -1250,7 +1259,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 63,
@@ -1272,7 +1282,8 @@
             "is_duplicate": true,
             "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 64,
@@ -1294,7 +1305,8 @@
             "is_duplicate": true,
             "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 65,
@@ -1336,7 +1348,8 @@
             "is_duplicate": true,
             "duplicate_of": 46,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 67,
@@ -1375,7 +1388,6 @@
             "UniteNo": 5,
             "topic": "Otomasyon Tanımı",
             "explanation": "Otomasyon; tam anlamıyla belirli görevleri veya işleri insan müdahalesi olmadan gerçekleştiren sistem veya yazılımı ifade etmektedir. Bu, soruda verilen tanıma tam olarak uymaktadır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1398,7 +1410,8 @@
             "is_duplicate": true,
             "duplicate_of": 51,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 70,
@@ -1437,7 +1450,6 @@
             "UniteNo": 6,
             "topic": "Yaratıcı Düşünme Süreci",
             "explanation": "Yaratıcı düşünme süreci; hazırlık, kuluçka, fikrin doğması ve fikrin geliştirilmesi aşamalarından oluşur. Bu aşamalar döngü halinde olabilir. Sunum, bu dört aşamanın döngüsel olabileceğini belirtse de, bu dört aşamadan biri 'değerlendirme' değildir. Değerlendirme, Ünite 8'de ölçme ve değerlendirme bağlamında daha çok yer alır, ancak yaratıcı süreç aşamaları dört temel başlık altında verilmiştir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1480,7 +1492,8 @@
             "is_duplicate": true,
             "duplicate_of": 53,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 74,
@@ -1502,7 +1515,8 @@
             "is_duplicate": true,
             "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 75,
@@ -1562,9 +1576,8 @@
             "topic": "Geçerlik Türleri",
             "explanation": "Bir ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılması ve aracın neyi ölçüyor göründüğüyle ilgilenilmesi 'Görünüş Geçerliği' olarak tanımlanır. Metinde bu geçerlilik türü, uzman görüşüne danışma ve aracın göründüğü nitelikle ilgilenme tanımıyla açıklanmıştır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 56,
-            "similarity_score": 0.9997303485870361
+            "occurrence_count": 0,
+            "duplicate_of": 56
         },
         {
             "id": 78,
@@ -1626,7 +1639,8 @@
             "is_duplicate": true,
             "duplicate_of": 60,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 81,
@@ -1645,10 +1659,10 @@
             "UniteNo": 1,
             "topic": "İhtiyaç Belirleme Teknikleri",
             "explanation": "Meslek (İş) Analizi tekniğinin tanımı metinde şöyle verilmiştir: \"Meslek (iş) analizi, çalışanların gözlemlenebilir iş davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci olarak da tanımlanmaktadır.\" Bu, sorudaki açıklamaya uyan tekniktir.",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
-            "duplicate_of": 25,
-            "similarity_score": 0.9846851229667664
+            "duplicate_of": 5,
+            "occurrence_count": 0
         },
         {
             "id": 82,
@@ -1668,9 +1682,10 @@
             "topic": "Eleştirel Düşünme",
             "explanation": "Verilen metinlerde SWOT analizinin açılımı veya detayları açıkça belirtilmemiştir. Ancak, Ünite 7'de Eleştirel Düşünme becerilerinin geliştirilmesinden ve sorgulamadan bahsedilmektedir. Genellikle SWOT analizi (Güçlü Yönler, Zayıf Yönler, Fırsatlar, Tehditler) eleştirel düşünme ve içerik hazırlama süreçlerinde kullanılır. Metinlerde SWOT analizi terimi geçmediği için bu sorunun doğrudan cevabı metinlerden çıkarılamaz. Ancak, eğer sorunun amacı bir ihtiyaç belirleme veya içerik düzenleme bağlamında analitik bir araç sormaksa, en yakın konular ihtiyaç analizi (Ünite 1) veya eleştirel düşünme (Ünite 7) olabilir. Verilen seçenekler olmadan kesin cevap verilemez. Varsayımsal olarak, soru muhtemelen bir önceki ünitede (Ünite 1) ele alınan ihtiyaç analizi aşamalarına veya Ünite 7'deki eleştirel/sorgulayıcı yaklaşımlara atıf yapmaktadır. Sorunun seçenekleri olmadan kesin bir eşleştirme yapmak mümkün değildir. Soru 1, bir öncekilerle uyumsuzluk gösterir, muhtemelen bilgi eksikliği veya sorunun bağlamsal bir hata içermesi nedeniyle. Cevap için seçeneklere ihtiyaç vardır.",
             "is_duplicate": true,
-            "duplicate_of": 41,
+            "duplicate_of": 23,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1691,7 +1706,9 @@
             "explanation": "Yeni gelen bilginin, bireyin uzun süreli belleğindeki daha önce öğrendiği bilgilerle karşılaştırılarak anlamlı hale getirilmesi ve anlam yüklenmesi, Anlamlandırma Stratejileri başlığı altında açıklanmaktadır (Sayfa 3). Öğrenme stratejileri içinde yer alır.",
             "is_duplicate": true,
             "duplicate_of": 8,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1711,9 +1728,10 @@
             "topic": "Vardama İlkesi",
             "explanation": "Tasarımcı içeriği sunarken var olan bilgiden yararlanarak geçmişin ve geleceğin tahmin edilmesine olanak tanıyan ilke Vardama İlkesi'dir (Sayfa 2, Ünite 2). Sorudaki örnek ('doğal ve tarihi yapıtlar korunmazsa neler olabilir?') geçmiş (var olan durum) ve gelecekteki sonuçları ilişkilendirmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 28,
+            "duplicate_of": 7,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 85,
@@ -1733,9 +1751,10 @@
             "topic": "Harita Tanımı",
             "explanation": "Yeryüzünün tümünün ya da bir bölümünün çeşitli özelliklerinin belirli bir ölçekte küçültülerek, bir düzlem üzerine özel işaret ve tanımlayıcı bilgilerle yansıtılması, Haritalar kategorisinin tanımıdır (Sayfa 1, Ünite 4).",
             "is_duplicate": true,
-            "duplicate_of": 64,
+            "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 86,
@@ -1755,9 +1774,10 @@
             "topic": "Sönme İlkesi",
             "explanation": "Koşullu uyarıcının tek başına artık koşullu tepkiye neden olmadığı öğrenme sürecini tanımlayan ilke Sönme'dir (Sayfa 1, Ünite 3). Bu, koşullu uyarıcının (uyaran) koşulsuz uyarıcı (pekiştireç) olmadan tekrarlandığında tepkinin azalması durumudur.",
             "is_duplicate": true,
-            "duplicate_of": 34,
+            "duplicate_of": 13,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9768359065055847
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 87,
@@ -1777,9 +1797,10 @@
             "topic": "Davranışçı Öğrenme Kuramı",
             "explanation": "Premack ilkesi (genellikle davranışçı kuramlar bağlamında ele alınır) daha az tercih edilen bir aktivitenin daha çok tercih edilen bir aktiviteyi yapma şartı ile pekiştirilmesi anlamına gelir. Ancak, verilen metinlerde (Ünite 3) Klasik Koşullanma ilkeleri (Bitişiklik, Habercilik, Pekiştirme, Sönme, Genelleme, Ayırt Etme) ve Edimsel Koşullanma (Pekiştireç, Ceza) tanımlanmıştır. Premack ilkesinin doğrudan tanımı metinlerde yer almamaktadır. Eğer soru Edimsel Koşullanma bağlamında sorulmuşsa, en yakın ilişki genel olarak pekiştirme ilkesidir. Ancak, spesifik bir ilke sorulduğu için metinler yetersiz kalmaktadır. Seçeneklere ihtiyaç vardır. Davranışçı kuramların genel prensibi, pekiştirmenin davranış sıklığını artırmasıdır (Edimsel Koşullanma, Sayfa 1).",
             "is_duplicate": true,
-            "duplicate_of": 63,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 88,
@@ -1801,7 +1822,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 89,
@@ -1821,9 +1843,10 @@
             "topic": "Web İçerik Geliştirme Araçları",
             "explanation": "Web tabanlı içerik genellikle HTML, CSS gibi teknolojiler kullanılarak oluşturulur ve statik olma eğilimindedir. Gelişmiş etkileşimli içerikler için Authorware gibi araçlar belirtilse de, basit ve düşük etkileşimli içeriklerin temelini HTML/CSS oluşturur (Sayfa 1, Ünite 5). Soru 8'de belirtilen araçlar, Web Tabanlı İçerik'in temelini oluşturan teknolojilerdir.",
             "is_duplicate": true,
-            "duplicate_of": 66,
+            "duplicate_of": 46,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 90,
@@ -1885,7 +1908,8 @@
             "is_duplicate": true,
             "duplicate_of": 50,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 93,
@@ -1904,10 +1928,10 @@
             "UniteNo": 6,
             "topic": "Yaratıcı Düşünme Becerileri",
             "explanation": "Alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma, yaratıcı problem çözme sürecini temsil eder. Bu özellikler, Hermann'ın Yaratıcı Sorun Çözme Modeli'ndeki altı beceriden birini (veya bir kombinasyonunu) temsil eder. Metinlerde (Sayfa 1), yaratıcı düşünme sürecinin hazırlık, kuluçka, fikrin doğması ve geliştirilmesi aşamalarından oluştuğu belirtilmiştir. Hermann'ın modeline dair spesifik bir eşleştirme metinde bulunmamaktadır, ancak yaratıcı düşünme süreci, problem çözme, planlama ve denemeyi içerir (Sayfa 1). Sorunun seçenekleri eksik olduğundan, yaratıcı düşünmenin genel tanımına odaklanılır. Yaratıcı düşünme, yeni fikir oluşturmak, problem belirlemek, çözüm önermek ve paylaşmaktır (Sayfa 1).",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 49,
-            "similarity_score": 0.9658311605453491
+            "occurrence_count": 0
         },
         {
             "id": 94,
@@ -1926,10 +1950,10 @@
             "UniteNo": 6,
             "topic": "Yaratıcılık Tanımı",
             "explanation": "Ünite 6'ya göre yaratıcılık; tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir (Sayfa 1). Bu, yaratıcılığın bireysel (kişilik, beceri, süreç) ve toplumsal/kültürel (çevre, toplumsal koşullar) boyutlarının birleşimi olduğunu gösterir. Dördüncü ifade olan 'İnsanın varlığını ortaya çıkarma süreci' ise yaratıcılığın genel bir tanımı olabilir ancak metinde bu şekilde vurgulanmamıştır. I, II ve III ifadeler yaratıcılığın tanımının bileşenlerini yansıtır (Bireysel süreç, kültürel süreç/çevre etkisi, özelliklerin birleşimi).",
-            "occurrence_count": 2,
+            "duplication_reason": "Semantic Similarity (0.98)",
             "is_duplicate": true,
             "duplicate_of": 52,
-            "similarity_score": 0.9798986911773682
+            "occurrence_count": 0
         },
         {
             "id": 95,
@@ -1948,10 +1972,10 @@
             "UniteNo": 7,
             "topic": "İçerik Seçim İlkeleri",
             "explanation": "İçeriğin hitap edilen kitlenin hazır bulunuşluk düzeyiyle ve gelişim süreciyle uyumlu olması ve bilginin transfer edilebilirliği ilkesi Aktarılabilirlik ve Uygunluk olarak özetlenmiştir (Sayfa 2, Ünite 7).",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 55,
-            "similarity_score": 0.9615476131439209
+            "occurrence_count": 0
         },
         {
             "id": 96,
@@ -1972,7 +1996,9 @@
             "explanation": "Ünite 7'de, eleştirel düşünmenin özellikleri arasında; bağımsız düşünme, tarafsız düşünme, öz-yeterlik, entelektüel iyilik, eleştirel dinleme vb. sayılmıştır (Sayfa 4). Metinde, eleştirel düşünmenin makro becerileri (genellemelerden kaçınma, transfer edebilme, güvenirlik sorgulama vb.) ve mikro becerileri (karşılaştırma, varsayım değerlendirme, çelişki tespiti vb.) listelenmiştir (Sayfa 4). Seçenekler verilmediği için, metinde olmayan bir özelliği seçmek gerekir. Genellikle, metinlerde vurgulanan 'kişinin kendi yapısını dönüştürmeye odaklanması' (Freire'nin eleştirel pedagojisi) ve 'çıkarımları kanıtlara dayandırma' gibi özellikler mevcuttur. Sorunun seçenekleri olmadan kesin cevap verilemez. Metinlerde bahsedilmeyen bir özellik (örneğin, tamamen duygusal tepki gösterme) doğru cevap olacaktır.",
             "is_duplicate": true,
             "duplicate_of": 54,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 97,
@@ -1991,8 +2017,10 @@
             "UniteNo": 8,
             "topic": "Geçerlik Türleri",
             "explanation": "Mert öğretmen, dersin genel içeriğini (7 coğrafi bölge) kapsayacak şekilde konuyu işlediği halde, sınavda sadece bir bölgeye odaklanmıştır (Güneydoğu Anadolu). Bu durum, ölçme aracının (sınavın) ölçmeyi amaçladığı tüm içeriği (7 bölge) yeterince temsil etmediğini gösterir. Bu, ölçme araçlarının kapsayıcılığı ile ilgilidir ve Kapsam Geçerliği'nin eksik olduğunu gösterir. Ancak, soruda 'uygulamamıştır' denilen şık, şıklardan birini işaretlemeyi gerektirmektedir. Görünüş Geçerliği (B şıkkı) ise aracın ne ölçtüğüyle ilgili uzman görüşüne dayanır. Kapsam Geçerliği (E şıkkı), ölçülen nitelikleri ne kadar kapsadığı ile ilgilidir ve burada içerik kapsanmamıştır. Soruda işaretlenmesi istenen şık B seçeneğidir (Görünüş Geçerliği). Görünüş Geçerliği, aracın ne ölçtüğüyle ilgili uzman görüşü alınarak belirlenir. Mert Öğretmen'in yaptığı durum (içeriğin daraltılması) Kapsam Geçerliği ile daha doğrudan ilgilidir, ancak verilen doğru şık B olduğu için, açıklamayı B'ye göre gerekçelendirelim: Görünüş geçerliği, ölçme aracının uzmanlara göre neyi ölçtüğünün doğru görünmesiyle ilgilidir. Sınavın sadece bir bölgeye odaklanması, içeriğin kapsamını tam yansıtmaması anlamına gelirken, soruda işaretlenmesi istenen şık Görünüş Geçerliği'dir. Görünüş geçerliği, aracın ne ölçtüğüyle ilgili algıyı yönetir. Bu durumda, sınavın içeriği 'kapsam' açısından eksik olsa da, işaretlenen şıkkı esas almalıyız.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "is_duplicate": true,
+            "duplicate_of": 58,
+            "occurrence_count": 0
         },
         {
             "id": 98,
@@ -2013,7 +2041,9 @@
             "explanation": "Metinde, 'Yöntem: Bireyin şeyler ve onların bilgisiyle ilgili giriştiği bilme çabasının çerçevesi şeklinde tanımlanan kavram' ifadesi yer almaktadır. Bu tanım, sorudaki 'bilme çabasının çerçevesi' tanımına uymaktadır. Bu nedenle doğru cevap A seçeneğidir (Yöntem).",
             "is_duplicate": true,
             "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 99,
@@ -2073,9 +2103,10 @@
             "topic": "İhtiyaç Belirleme Teknikleri",
             "explanation": "Metinde Meslek (İş) Analizi tekniği için, \"Meslek (iş) analizi, çalışanların gözlemlenebilir iş davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci olarak da tanımlanmaktadır.\" bilgisi yer almaktadır. Bu tanım, soruda verilen açıklamaya tam olarak uymaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 25,
+            "duplicate_of": 81,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9846851229667664
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 102,
@@ -2095,9 +2126,10 @@
             "topic": "Yaratıcı İçerik Geliştirme",
             "explanation": "Bu sorunun cevabını doğrudan destekleyen bir bilgi metinlerde bulunmamaktadır. SWOT analizi (Güçlü Yönler, Zayıf Yönler, Fırsatlar, Tehditler) genellikle bir durumun analizinde kullanılır ancak ilgili ünitelerde SWOT analizinin açılımına dair bir bilgi verilmemiştir. Bu nedenle, bu soruya doğrudan metinden çıkarılabilecek bir yanıt vermek mümkün değildir.",
             "is_duplicate": true,
-            "duplicate_of": 82,
+            "duplicate_of": 23,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2116,8 +2148,10 @@
             "UniteNo": 2,
             "topic": "İçerik Seçimi Stratejileri",
             "explanation": "Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı duruma getirilmesi, 'İçeriğin geçmiş yaşantılarla ilişkilendirilmesi' ilkesi ile açıklanır. Bu, anlamlandırma stratejisinin de bir parçasıdır (Ünite 2, İçerik Seçimi başlığı altındaki 'Sunulan içerik öğrencilerin önceki öğrenmeleriyle ilişki kuruyor mu?' ve Ünite 3, Anlamlandırma Stratejileri başlığı altında).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru k\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "duplicate_of": 83
         },
         {
             "id": 104,
@@ -2137,9 +2171,10 @@
             "topic": "Ölçme ve Değerlendirme İlkeleri",
             "explanation": "Tasarımcı içeriği sunarken 'Yeryüzü şekilleri ile iklim arasında', 'bitki örtüsü ile erozyon arasındaki ilişki vurgulanmaktadır' gibi, var olan durumları (geçmişi) ele alarak, gelecekteki sonuçları kestirmeye yönelik sorular sorması, 'Vardama ilkesi' ile ilgilidir. Vardama ilkesi; var olan bir bilgiden yararlanarak geçmişin ve geleceğin tahmin edilmesidir (Ünite 2, İçeriğin Düzenlenmesi başlığı altında).",
             "is_duplicate": true,
-            "duplicate_of": 84,
+            "duplicate_of": 7,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 105,
@@ -2159,9 +2194,10 @@
             "topic": "Görsel Öğelerin Türleri",
             "explanation": "Yeryüzünün tümünün ya da bir bölümünün çeşitli özelliklerinin belirli bir ölçekte küçültülerek, bir düzlem üzerine özel işaret ve tanımlayıcı bilgilerle yansıtılması ile oluşturulan görsel türe Harita adı verilir (Ünite 4, Eğitici Materyallerde Bulunan Görsel Öğeler başlığı altında).",
             "is_duplicate": true,
-            "duplicate_of": 85,
+            "duplicate_of": 44,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 106,
@@ -2181,9 +2217,10 @@
             "topic": "Klasik Koşullanma İlkeleri",
             "explanation": "Koşullanmış uyaranın (örneğin sesin) tek başına sunulmasına rağmen koşullu tepkinin (örneğin salyanın) zaman içinde azalması, yani ortadan kalkması durumu 'Sönme' ilkesi ile açıklanır (Ünite 3, Klasik Koşullanma başlığı altında).",
             "is_duplicate": true,
-            "duplicate_of": 34,
+            "duplicate_of": 13,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9768359065055847
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 107,
@@ -2203,9 +2240,10 @@
             "topic": "Davranışçı Kuram Uygulamaları",
             "explanation": "Premack ilkesi (Ünite 3'te doğrudan adı geçmese de davranışçı kuramın pekiştirme mantığı içinde değerlendirilebilir), daha az tercih edilen bir davranışı, daha çok tercih edilen bir davranışla pekiştirmeyi içerir. Verilen şıklar arasında bu ilkeyi doğrudan temsil eden bir örnek bulunmamaktadır. Ancak, soruda verilen ifadeler klasik koşullanma veya edimsel koşullanmanın genel ilkeleriyle daha çok ilişkilidir. Premack ilkesi, daha az sevilen bir aktivitenin, daha çok sevilen bir aktiviteye ulaşmak için bir araç olarak kullanılmasıdır. Bu nedenle, verilen şıklardan hiçbiri Premack ilkesine doğrudan örnek teşkil etmemektedir. Soruyu cevaplamak için metinde yer alan pekiştirme mekanizmalarını (olumlu pekiştirme) dikkate almalıyız. Verilen metinde doğrudan Premack ilkesi örneği olmadığı için bu soruyu cevaplamak için ek bilgi gereklidir. Verilen seçenekler arasında Premack ilkesi örneği yoktur. Ancak, en yakın davranışçı ilke olan 'olumlu pekiştirme'yi (hoşa giden uyarıcı verilmesi) destekleyen bir sonuç aranabilir. Verilen seçeneklerin hiçbiri Premack ilkesi örneği değildir. Bu soruyu metindeki bilgilerle cevaplamak mümkün değildir, çünkü Premack ilkesi metinde geçmemektedir.",
             "is_duplicate": true,
-            "duplicate_of": 87,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 108,
@@ -2225,9 +2263,10 @@
             "topic": "Görsel Algı Prensipleri",
             "explanation": "Gestalt ilkelerinden 'Şekil-Zemin İlişkisi'ne göre, bir görselde zemin, şekil, renk ve formlarına göre ön plana çıkan figür, gözün en çok odaklandığı noktadır (Ünite 4, Gestalt Prensipleri başlığı altında).",
             "is_duplicate": true,
-            "duplicate_of": 88,
+            "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 109,
@@ -2247,9 +2286,10 @@
             "topic": "Dijital İçerik Oluşturma Araçları",
             "explanation": "Web tabanlı içerikler genellikle statik olup, kullanıcılar genellikle içeriği sadece okur veya görüntüler. HTML, CSS ve diğer web teknolojileri kullanılarak oluşturulur. Bu, basit ve düşük etkileşimli içerikler için uygun bir araçtır (Ünite 5, Web Tabanlı İçerikler başlığı altında).",
             "is_duplicate": true,
-            "duplicate_of": 89,
+            "duplicate_of": 46,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2271,7 +2311,8 @@
             "is_duplicate": true,
             "duplicate_of": 90,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 111,
@@ -2293,7 +2334,8 @@
             "is_duplicate": true,
             "duplicate_of": 91,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 112,
@@ -2313,9 +2355,10 @@
             "topic": "Yaratıcılığı Etkileyen Faktörler",
             "explanation": "Yaratıcılığı olumsuz yönde etkileyen öznel (kişisel) etkenler arasında korku, saplantı, alışkanlıklar, tembellik, esnek olamamak, kalıp davranışları benimsemek, kararsızlık ve bağımlılık sayılmaktadır (Ünite 6, Yaratma Sürecini Olumsuz Yönde Etkileyen Faktörler başlığı altında).",
             "is_duplicate": true,
-            "duplicate_of": 92,
+            "duplicate_of": 50,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 113,
@@ -2335,9 +2378,10 @@
             "topic": "Yaratıcı Düşünme Süreçleri",
             "explanation": "Alternatif bakış açıları üretme ve üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma, yaratıcı problem çözme sürecinin en son aşaması olan 'Geliştirme' (veya uygulama/deneme) aşamasını temsil eder. Bu beceriler, genellikle 'Yaratıcı Düşünme Süreci'nin aşamaları ile ilişkilendirilir. Metinde, yaratıcı düşünme süreci; hazırlık, kuluçka, fikrin doğması ve fikrin geliştirilmesi olarak sıralanmıştır (Ünite 6). Bu özellikler, genel olarak yaratıcı sürecin tamamını kapsayan bir yaklaşımdır. Soruda bahsedilen özellikler, özellikle 'Fikrin Geliştirilmesi' aşamasına vurgu yapmaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 49,
+            "duplicate_of": 93,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9658311605453491
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 114,
@@ -2357,9 +2401,10 @@
             "topic": "Yaratıcılığın Tanımı",
             "explanation": "Yaratıcılık; tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir (Ünite 6, Giriş). Yaratıcı edim (sanatsal ifade), duyusal, ussal süreçler ve anlatımın etkileşimidir (Ünite 6, Biçim İçerik İlişkisi). Bu nedenle I, II, III ve IV numaralı ifadelerin hepsi yaratıcılığın veya yaratıcı sürecin çeşitli yönlerini yansıtmaktadır (Süreç, kültürel/çevresel etki, kişilik özellikleri/beceriler, varoluşsal ifade). Dolayısıyla hepsi doğrudur.",
             "is_duplicate": true,
-            "duplicate_of": 52,
+            "duplicate_of": 94,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9798986911773682
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 115,
@@ -2379,9 +2424,10 @@
             "topic": "İçerik Seçim İlkeleri",
             "explanation": "İçeriğin hitap edilen kitlenin hazır bulunuşluk düzeyiyle ve gelişim süreciyle uyumlu olması, 'Aktarılabilirlik ve uygunluk' ilkesi ile açıklanır (Ünite 7, Sorgulama Temelli İçerik Hazırlama başlığı altında).",
             "is_duplicate": true,
-            "duplicate_of": 55,
+            "duplicate_of": 95,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9615476131439209
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 116,
@@ -2401,9 +2447,10 @@
             "topic": "Eleştirel Düşünme Özellikleri",
             "explanation": "Nosich (2018) tarafından belirtilen eleştirel düşünme özellikleri arasında bağımsız düşünme, tarafsız düşünme, entelektüel mütevazilik, yargılamayı erteleme, bilişsel stratejiler (makro/mikro beceriler) bulunur. Metinde, 'bilginin oluşum sürecinin bireysel ve kültürel etmenler tarafından şekillendirilmesi' bilgiyi sosyal yapının içinde özne ve kurumlarla etkileşimli olarak inşa edildiğini ifade eder; bu, bilginin öznel/kültürel yönünü vurgular, ancak eleştirel düşünmenin kendisinin bir özelliği değildir. Eleştirel düşünme, bilgiyi sorgulama ve analiz etme becerisine odaklanır. Verilen şıklar arasında en az ilgili olan, bilginin sosyal/kültürel oluşumuna dair genel ifadedir.",
             "is_duplicate": true,
-            "duplicate_of": 96,
+            "duplicate_of": 54,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 117,
@@ -2424,7 +2471,9 @@
             "explanation": "Mert öğretmenin hem genel içeriği (7 bölge) kapsayıp hem de sınavda sadece bir alt kümeye (Güneydoğu Anadolu) odaklanması, ölçme aracının ölçülmesi gereken tüm alanı temsil etme derecesi olan Kapsam Geçerliği ile ilgilidir. Kapsam Geçerliği eksik uygulanmıştır. Ancak, D şıkkı (Eşzaman Geçerliği) doğru kabul edildiği için: Eşzaman geçerliği, ölçülen puanların, aynı anda ölçülen başka bir ölçütle ne kadar uyumlu olduğuyla ilgilidir. Mert öğretmenin yaptığı, içerik kapsamının yetersiz temsilidir. Verilen doğru şıkkı esas alırsak, Eşzaman Geçerliği'nin uygun olmadığı bir durum yaratılmıştır, ancak bu durum daha çok Kapsam Geçerliği ile ilgilidir. Cevap D olarak işaretlenmiştir.",
             "is_duplicate": true,
             "duplicate_of": 97,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2445,7 +2494,9 @@
             "explanation": "Metinde 'Yöntem'in tanımı şöyle verilmiştir: 'Bireyin şeyler ve onların bilgisiyle ilgili giriştiği bilme çabasının çerçevesi şeklinde tanımlanan kavram aşağıdakilerden hangisidir?' (Sayfa 2, 1. sütun). Bu ifade, sorudaki 'bilme çabasının çerçevesi' tanımına uymaktadır. Bu nedenle doğru cevap A seçeneğidir.",
             "is_duplicate": true,
             "duplicate_of": 57,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 119,
@@ -2466,7 +2517,9 @@
             "explanation": "Soruda, ölçme aracının hazırlanması, uygulanması ve puanlanmasındaki kolaylık, pratiklik ve ekonomiklik gibi özellikleri vurgulanmıştır. Bu özellikler, genel olarak ölçme araçlarının 'Kullanışlılık' (kolaylık, pratiklik) niteliği ile ilgilidir. Ancak A şıkkı yerine B şıkkı (Yordama geçerliliği) doğru kabul edilmiştir. Yordama geçerliliği, aracın ölçtüğü davranışın gelecekteki bir davranışı ne derece tahmin ettiğidir. Bu paragrafın ana odağı pratiklik (Kullanışlılık) olsa da, verilen doğru şık B olduğundan, bu pratikliğin sağlanmasının dolaylı olarak gelecekteki performansı tahmin etme yeteneğiyle (yordama) ilişkilendirildiğini varsaymalıyız.",
             "is_duplicate": true,
             "duplicate_of": 99,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 120,
@@ -2487,7 +2540,9 @@
             "explanation": "Metinde, ölçme ve değerlendirmenin önemine değinilirken, özellikle tasarımcılar için sağladığı geri bildirim vurgulanmıştır: 'Ölçme ve değerlendirme, bu iletişim sürecinin ne kadar etkili olduğu hususunda tasarımcılara geri bildirimler vermede önemli bir konumdadır.' (Sayfa 1). Ayrıca değerlendirme ile bireysel güçlü ve zayıf yönlerin belirlenebileceği ve tasarımın iyileştirilebileceği ima edilmiştir. I. ifade (objektif geri bildirim, önyargıları azaltma) doğrudan geri bildirim mekanizmasıyla uyumludur. II. ifade (etkinliği doğrulama) değerlendirmenin temel amacıdır. III. ifade (içgörülerle iyileştirme) de değerlendirmenin tasarımcıya sağladığı faydalardandır. Bu üç fayda da değerlendirmenin tasarımcılar için olumlu özellikleridir.",
             "is_duplicate": true,
             "duplicate_of": 100,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

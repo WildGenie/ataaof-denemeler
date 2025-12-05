@@ -183,7 +183,7 @@ def find_file_by_id(course_name, material_id):
 
     return None
 
-def process_pdfs_from_materials_json(target_course=None, no_cache=False):
+def process_pdfs_from_materials_json(target_course=None, no_cache=False, target_material_ids=None):
     if not target_course:
         print("Error: Target course must be specified.")
         return
@@ -222,6 +222,10 @@ def process_pdfs_from_materials_json(target_course=None, no_cache=False):
             material_id = str(item.get("MaterialId"))
 
             if not name or not material_id:
+                continue
+
+            # Filter by target material IDs if specified
+            if target_material_ids and material_id not in target_material_ids:
                 continue
 
             item["ExamName"] = clean_filename(name) # Keep cleaned name for display/sourcend(item)
@@ -389,7 +393,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert exam PDFs to JSON.")
     parser.add_argument("--course", default="Görsel Estetik", help="Target course name")
     parser.add_argument("--no-cache", action="store_true", help="Force re-processing of all files")
+    parser.add_argument("--material-ids", help="Comma-separated list of material IDs to process")
 
     args = parser.parse_args()
 
-    process_pdfs_from_materials_json(target_course=args.course, no_cache=args.no_cache)
+    material_ids = None
+    if args.material_ids:
+        material_ids = [m.strip() for m in args.material_ids.split(",")]
+
+    process_pdfs_from_materials_json(target_course=args.course, no_cache=args.no_cache, target_material_ids=material_ids)

@@ -15,7 +15,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "607529",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 1,
+            "topic": "Gutenberg ve Matbaa",
+            "explanation": "Ünite 1'deki \"Gutenberg ve Matbaa\" bölümünde açıkça belirtildiği üzere, Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik, metal baskının hareketli hurufat (movable type) ile yapılabilmesidir. Hareketli hurufat sayesinde harfler, farklı dizilimlerle bir araya getirilerek istenilen kelime ve metinler oluşturulabilmiş, bu da basım sürecine büyük bir hız ve esneklik kazandırmıştır. Bu teknoloji, Tipografi teriminin de ortaya çıkmasına neden olan temel gelişmedir."
         },
         {
             "id": 2,
@@ -455,7 +458,7 @@
             "topic": "Yazı Sistemleri Sınıflandırması",
             "explanation": "Alfabe, bir dildeki harflerin sıraya dizilmiş bütünüdür. Piktogramik alfabelerde ise harfler yerine piktogramlar yer almıştır. Alfabe, piktogramik alfabelerden farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 24,
@@ -517,7 +520,8 @@
             "is_duplicate": true,
             "duplicate_of": 10,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 27,
@@ -539,7 +543,8 @@
             "is_duplicate": true,
             "duplicate_of": 14,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 28,
@@ -661,7 +666,8 @@
             "is_duplicate": true,
             "duplicate_of": 12,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 34,
@@ -723,7 +729,8 @@
             "is_duplicate": true,
             "duplicate_of": 18,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 37,
@@ -822,9 +829,8 @@
             "UniteNo": 1,
             "topic": "Eski Çağ Yüzeyleri",
             "explanation": "M.Ö 2000'lerde icat edilen ve kağıda benzer özellik taşıyan, Bergama'dan gelen özel yöntemlerle hazırlanan hayvan derisi parşömendir. Metin, Ünite 1'de '...papirüs, parşömen, bambu, deri, ipek ise sıklıkla kullanılmış olan organik yüzeylerdir.' denilerek bu malzemelerden bahsedilir. Daha spesifik olarak, kağıda benzerliği vurgulanan, M.Ö. 2000'lerde kullanılan malzeme parşömendir.",
-            "is_duplicate": true,
-            "duplicate_of": 162,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "occurrence_count": 2
         },
         {
             "id": 42,
@@ -846,7 +852,8 @@
             "is_duplicate": true,
             "duplicate_of": 21,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 43,
@@ -888,7 +895,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 45,
@@ -970,7 +978,8 @@
             "is_duplicate": true,
             "duplicate_of": 28,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9572742581367493
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 49,
@@ -1052,7 +1061,8 @@
             "is_duplicate": true,
             "duplicate_of": 34,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 53,
@@ -1072,7 +1082,7 @@
             "topic": "Sayısal Font Tasarımcıları",
             "explanation": "Ünite 3'te Max Kisman'ın sayısal font tasarımında öncü yapan asıl çalışmalarından birinin 'Fudoni' olduğu belirtilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 54,
@@ -1114,7 +1124,8 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 56,
@@ -1216,7 +1227,8 @@
             "is_duplicate": true,
             "duplicate_of": 38,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9996922612190247
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 61,
@@ -1236,7 +1248,7 @@
             "topic": "Yazının Keşfi",
             "explanation": "Ünite 1'de, yazı keşfinden önce MÖ 25.000-20.000 yıllarında insanların mağara duvarlarına çizdiği desenlerden bahsedilir. Duygu ve düşünceleri bildirmek için kullanılan bu şekil ve işaretler piktogramik çizimlerdir. Ancak soruda 'madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere' ne ad verildiği sorulmaktadır. Ünite 1'de, mağara çizimlerinden sonra MÖ 3500 civarında Sümerlerin icat ettiği yazı sisteminin ilk aşamasında 'piktogramların' kullanıldığı belirtilir. Ancak, piktogramlar nesneleri temsil eden grafiklerdir. Yazı ise, bir dildeki harflerin sıraya dizilmiş bütünüdür (TDK tanımı). Soru, 'Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere' ne ad verildiğini sorduğundan, en genel ve temel ifade olan 'Yazı' (genel iletişim aracı) veya piktografik ifadenin daha spesifik olduğu düşünülebilir. Piktogramlar nesneleri temsil ederken, bu genel ifade 'Yazı' olarak tanımlanabilir (ki tüm alfabelerin kuruluşu buna dayanır). Soruda verilen şık 'Yazı' olduğu için, bu, çizimlerin yazı sistemine geçiş sürecindeki en temel iletişim aracı olduğu vurgusuyla doğru kabul edilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 62,
@@ -1256,7 +1268,7 @@
             "topic": "Fütürist Tipografi Özellikleri",
             "explanation": "Fütürizm, hız, hareket, eşzamanlılık, özgünlük, heyecan ve ses kavramlarını temel alır. Tasarımda dinamizm ön plana çıkarılır ve 'eşzamanlılık' terimi ilk kez Fütüristler tarafından kullanılmıştır. Durağan sayfa düzenlerinin aksine, tekrarlama, bulanıklaştırma, büyültme-küçültme gibi tekniklerle görsel ifade kazandırılır.",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "İki soru da Fütürizmin temel özelliklerini sorgulamakta ve doğru cevaplar her iki soruda da 'eşzamanlılık' (simultaneity) kavramına odaklanmaktadır. Test edilen temel bilgi noktası aynıdır, bu da onları çok yakın varyasyonlar yapar."
         },
         {
             "id": 63,
@@ -1536,7 +1548,7 @@
             "topic": "Bloklama (Hizalama) Türleri",
             "explanation": "Ünite 7'ye göre, yatay bloklama biçimleri soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) olarak dört gruba ayrılır. Optik hizalama (Hizalı/Sağlı-Sollu), dikey kenar hizalaması için kullanılan bir tekniktir ve bu dört temel yatay hizalama biçiminden biri değildir; aslında daha çok özel bir dikey hizalama/düzenleme yöntemidir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 77,
@@ -1555,8 +1567,7 @@
             "UniteNo": 8,
             "topic": "Allograf Tanımı",
             "explanation": "Ünite 8'e göre, Allograf, bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir. Bazı yazı karakterlerinde harfler tek katlı (single story) veya çift katlı (double story) olarak tasarlanır; bu farklı biçimler allograf kabul edilir.",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "occurrence_count": 3
         },
         {
             "id": 78,
@@ -1638,7 +1649,8 @@
             "is_duplicate": true,
             "duplicate_of": 25,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 82,
@@ -1658,9 +1670,10 @@
             "topic": "Sayısal Font Dilleri",
             "explanation": "PostScript, Adobe yazılım firması tarafından geliştirilmiş bir tanımlama ve baskı denetim dilidir. Bu dil, grafik nesneler gibi işlenen ve yazıcıya gönderilen fontları tanımlar ve sayısal tipografinin gelişiminde önemli bir rol oynamıştır.",
             "is_duplicate": true,
-            "duplicate_of": 55,
+            "duplicate_of": 16,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1682,7 +1695,8 @@
             "is_duplicate": true,
             "duplicate_of": 15,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -2001,8 +2015,7 @@
             "UniteNo": 8,
             "topic": "Okunurluk Faktörleri",
             "explanation": "Okunurluk, bir harfi diğerinden ayırt etmenin kolaylığıdır ve x-yüksekliği, karakter ağırlığı, karakter genişliği, harf çizgisi kontrastı, iç boşluklar, tırnaklı/tırnaksız yazılar, başlık yazı karakterleri ve bitişik yazılar gibi başlıklardan etkilenir. Ancak, Yazı Boyutu (Punto), doğrudan Okuturluk (kelimeleri tanıma kolaylığı) ile ilgilidir, okunurluk ile değil (Ünite 8).",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "occurrence_count": 3
         },
         {
             "id": 100,
@@ -2042,9 +2055,9 @@
             "topic": "Alfabe Tanımı",
             "explanation": "Piktogramik alfabelerden ayrılan, sesleri yazılı olarak gösteren semboller bütününe 'alfabe' denir. Metin, Ünite 1'de 'Günümüzde alfabe, bir dildeki harflerin sıraya dizilmiş bütünü (TDK, 2021) olarak tanımlanmaktadır. Piktogramik alfabelerde ise harfler yerine piktogramlar yer almıştır. Tüm alfabelerde önemli olan, yazı sisteminin kurulmuş olmasıdır.' ifadesiyle bu ayrımı netleştirir. Sesçil alfabe olarak da bilinen klasik alfabeler, sesleri temsil eder.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 23,
-            "similarity_score": 0.9697892665863037
+            "duplication_reason": "Soru metinleri (anlamsal olarak aynı tanımı içeriyor), şık setleri ve doğru cevap ('Fonetik') tamamen aynıdır. Yalnızca şık sıralaması farklıdır. Bunlar veritabanında kopya olarak işaretlenmelidir."
         },
         {
             "id": 102,
@@ -2063,9 +2076,9 @@
             "UniteNo": 2,
             "topic": "Uluslararası Tipografik Stil",
             "explanation": "Uluslararası Tipografik Stil (İsviçre Stili), 1950'lerde ve sonrasında netlik ve nesnellik arayışıyla ortaya çıkmıştır. Ünite 2'de, bu hareketin İsviçre'de ortaya çıktığı ve De Stijl, Konstrüktivizm, Bauhaus ve Yeni Tipografi akımlarından etkilendiği belirtilmektedir.",
-            "is_duplicate": true,
-            "duplicate_of": 142,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "İki soru da Uluslararası Tipografik Stil Hareketi'nin ortaya çıktığı ülkeyi sormaktadır. Soru köklerinde kullanılan bağlamsal ifadeler çok az farklılık gösterse de (ikonoklazm vs. yeni teknolojiler), temel soru ve doğru cevap (İsviçre) aynıdır. Şık listeleri de tamamen aynıdır; sadece sıralamaları farklıdır.",
+            "occurrence_count": 2
         },
         {
             "id": 103,
@@ -2087,7 +2100,8 @@
             "is_duplicate": true,
             "duplicate_of": 40,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 104,
@@ -2106,7 +2120,6 @@
             "UniteNo": 5,
             "topic": "Görsel Hiyerarşi Tanımı",
             "explanation": "Verilmek istenen mesaj doğrultusunda, tasarım yüzeyindeki görsel elemanların baskınlık derecesine göre ölçülendirilerek düzenlenmesine Görsel Hiyerarşi denir. Ünite 5'te bu, mesajın anlaşılır hale getirilmesi için kullanılan bir düzenleme ilkesi olarak tanımlanmaktadır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2129,7 +2142,8 @@
             "is_duplicate": true,
             "duplicate_of": 32,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 106,
@@ -2191,7 +2205,8 @@
             "is_duplicate": true,
             "duplicate_of": 87,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 109,
@@ -2210,9 +2225,8 @@
             "UniteNo": 6,
             "topic": "Dijital Ortam Fontları",
             "explanation": "Ünite 6'da Nike logosunun tipografisi konusunda doğrudan bir bilgi verilmemiştir. Ancak, dijital tipografi ve font tasarımcıları bölümünde, Zuzana Licko ve David Carson gibi isimlerden bahsedilir. Nike logosu, genellikle kalın (Bold/Black) ve daraltılmış (Condensed) bir Helvetica varyasyonu kullanır. Verilen şık 'Helvetica Condensed Black Italic', bu tür güçlü, dış mekân reklamlarında kullanılan karakteristik bir tondur.",
-            "is_duplicate": true,
-            "duplicate_of": 173,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "occurrence_count": 2
         },
         {
             "id": 110,
@@ -2254,7 +2268,8 @@
             "is_duplicate": true,
             "duplicate_of": 90,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 112,
@@ -2314,7 +2329,7 @@
             "topic": "Sayfa Yapısı ve Oranlar",
             "explanation": "Ünite 7'de 'Sayfa Yapısına Yönelik Temel Bilgiler' bölümünde, 'Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan “altın oran\" prensibi' olduğundan bahsedilmektedir. Bu prensip, soruda belirtilen 'altın oran' prensibidir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 115,
@@ -2336,7 +2351,8 @@
             "is_duplicate": true,
             "duplicate_of": 95,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 116,
@@ -2356,7 +2372,7 @@
             "topic": "Izgara Mimarisi",
             "explanation": "Ünite 7'de 'Izgara Mimarisi' başlığı altında, ızgaranın 'sayfa tasarımına sistematik bir düzen getirmektedir' ve 'yapısal parçaları en temel biçimde; sayfa kenar boşlukları (marjin), sütunlar, satırlar, sütun boşlukları ve modüllerden oluşmaktadır' denilerek, ızgaranın tanımı verilmiştir. Bu tanımdaki boşluklar (sütun boşlukları ve kenar boşlukları) 'marjin, sütunlar, satırlar, sütun boşlukları ve modüller'den oluşur. 6. ünitede de belirtildiği gibi, 'Izgara, sayfa tasarımına sistematik bir düzen getirmektedir. Bu sistematik düzenin oluşturulması amacıyla tasarlanan ızgaranın hangi çeşidi olursa olsun, yapısal parçaları en temel biçimde; sayfa kenar boşlukları (marjin), sütunlar, satırlar, sütun boşlukları ve modüllerden oluşmaktadır.' Bu yapı rehberlik eder ve gerekirse bozulabilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 117,
@@ -2377,7 +2393,9 @@
             "explanation": "Ünite 8'de 'Okunurluk' başlığı altında, bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır: x-yüksekliği, karakter ağırlığı, karakter genişliği, harf çizgisi kontrastı, iç boşluklar, tırnaklı ve tırnaksız yazılar, başlık yazı karakterleri ve bitişik yazılar. Bu listede 'Hiyerarşi' veya 'Denge' gibi tasarım ilkeleri değil, karakterin yapısal özellikleri sayılmıştır.",
             "is_duplicate": true,
             "duplicate_of": 99,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2399,7 +2417,8 @@
             "is_duplicate": true,
             "duplicate_of": 98,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 119,
@@ -2461,7 +2480,8 @@
             "is_duplicate": true,
             "duplicate_of": 3,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 122,
@@ -2581,9 +2601,10 @@
             "topic": "Fudoni Yazı Karakteri",
             "explanation": "Max Kisman tarafından tasarlanan Fudoni yazı karakteri, modernitenin bir görüngüsü olan Futura yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki Modern yazı tasarımlarından Bodoni'nin ustaca bir araya getirilmesine dayanmaktadır (Ünite 3, Sayfa 4).",
             "is_duplicate": true,
-            "duplicate_of": 27,
+            "duplicate_of": 14,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 128,
@@ -2603,7 +2624,7 @@
             "topic": "Satır Arası Boşluk Terimi",
             "explanation": "Geleneksel baskıda metnin daha kolay okunabilmesi için satırlar arasına eklenen boşluğa 'leading' (lead kelimesinden gelir) adı verilir. Günümüzde ise bu, satır arası boşluk düzeni olarak tanımlanır (Ünite 7, Sayfa 2).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 129,
@@ -2625,7 +2646,8 @@
             "is_duplicate": true,
             "duplicate_of": 19,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 130,
@@ -2665,7 +2687,7 @@
             "topic": "Simetrik Denge",
             "explanation": "Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafının ağırlık ve ton bakımından eşit olduğu denge türü simetrik dengedir. Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' şeklinde tanımlanmıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 132,
@@ -2684,8 +2706,7 @@
             "UniteNo": 5,
             "topic": "Tipografik Hiyerarşi",
             "explanation": "Tipografik hiyerarşi, verilmek istenen mesaj doğrultusunda görsel elemanların baskınlık derecesine göre düzenlenmesidir. Hiyerarşi sağlanmasında boyut, renk, açıklık-koyuluk (ton), uzaklık-yakınlık ve konum gibi unsurlar etkilidir. Beyaz alan (beyaz boşluk) ise bir tasarımdaki grafik öğeleri çevreleyen ve onlara nefes alma alanı sağlayan boşluklar olup, doğrudan hiyerarşi oluşturma aracı olarak değil, algısal düzenlemeye yardımcı bir unsur olarak ele alınır.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "occurrence_count": 2
         },
         {
             "id": 133,
@@ -2767,7 +2788,8 @@
             "is_duplicate": true,
             "duplicate_of": 74,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 137,
@@ -2789,7 +2811,8 @@
             "is_duplicate": true,
             "duplicate_of": 69,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 138,
@@ -2851,7 +2874,8 @@
             "is_duplicate": true,
             "duplicate_of": 77,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 141,
@@ -2890,10 +2914,10 @@
             "UniteNo": 2,
             "topic": "Modern Tipografi Hareketi",
             "explanation": "Uluslararası Tipografik Stil Hareketi (İsviçre Stili), bilgiyi net ve evrensel biçimde aktarma çabasıyla İsviçre'de gün yüzüne çıkmıştır. Bu hareket 20. yüzyılın ortalarında etkin olmuştur.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 102,
-            "similarity_score": 0.9989287257194519
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 143,
@@ -2932,8 +2956,10 @@
             "UniteNo": 7,
             "topic": "Yazı/İletişim Tanımı",
             "explanation": "Ünite 7'de, tipografinin tanımından önce, yazı insanlık tarihinin başlangıç noktası olarak tanımlanır ve duygu, düşünce ve fikirlerin karşılıklı alışverişine dayalı iletişimin kalıcı hale getirilmesinde önemli bir araç olduğu belirtilir. Soru, 'Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere' ne ad verildiğini soruyor. Ünite 1'de, yazının genel tanımı ile birlikte, piktogramik çizimler de bu genel iletişimin parçasıdır. Ancak, sorunun cevabı 'Yazı' olarak işaretlendiğinden, bu, iletişim kurmak için kullanılan her türlü sembolik sistemin en genel adı olarak kabul edilir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru metinleri neredeyse tamamen aynıdır (birinde stilistik olarak altı çizili kelime dışında), şıklar kümesi aynıdır ve doğru cevap (Yazı) her iki soruda da aynı indekste (1) bulunmaktadır. Bunlar kopyadır.",
+            "duplicate_of": 61
         },
         {
             "id": 145,
@@ -2953,9 +2979,9 @@
             "topic": "Sayısal Font Tasarımcıları",
             "explanation": "Max Kisman'ı sayısal font tasarımında öncü yapan çalışmalarından biri 'Fudoni'dir. Fudoni, modernitenin bir görüngüsü olan Futura yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki Modern yazı tasarımlarından Bodoni'nin ustaca bir araya getirilmesine dayanmaktadır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 53,
-            "similarity_score": 0.9528025388717651
+            "duplication_reason": "İki sorunun soru kökü (tek bir harf farkıyla) ve şık listesi aynıdır. Şıkların sırası farklı olsa da, doğru cevap olan \"Fudoni\" her iki soruda da yer almakta ve doğru cevap olarak işaretlenmektedir. Bu, anlamsal ve içeriksel olarak kopyadır."
         },
         {
             "id": 146,
@@ -2977,7 +3003,8 @@
             "is_duplicate": true,
             "duplicate_of": 125,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 147,
@@ -3017,9 +3044,9 @@
             "topic": "Boşluk Düzenleme Biçimleri",
             "explanation": "İki satır arasındaki boşluğa satır arası espası (leading) denir. Bu boşluk, alttaki satırın zemin çizgisinden (baseline) üstteki satırın zemin çizgisine (baseline) kadar olan yüksekliği tanımlar ve metin bloklarının okuturluğunu doğrudan etkiler.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 128,
-            "similarity_score": 0.9886354207992554
+            "duplication_reason": "Her iki soru da 'metni oluşturan satırların arasındaki boşluk/mesafe'nin adını (Leading) sormaktadır. Soru kökleri anlam olarak, şık setleri ise içerik olarak tamamen aynıdır. Sadece şıkların sıralaması farklıdır."
         },
         {
             "id": 149,
@@ -3041,7 +3068,8 @@
             "is_duplicate": true,
             "duplicate_of": 64,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 150,
@@ -3063,7 +3091,8 @@
             "is_duplicate": true,
             "duplicate_of": 66,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 151,
@@ -3082,10 +3111,10 @@
             "UniteNo": 5,
             "topic": "Simetrik Denge",
             "explanation": "Tasarım yüzeyinde dengeyi sağlamak için, yatay veya dikey eksenin her iki tarafının görsel ağırlık ve ton bakımından eşit olması simetrik dengeyi ifade eder. Metin, Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' olarak belirtilmiştir.",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 131,
-            "similarity_score": 0.9996345043182373
+            "occurrence_count": 0
         },
         {
             "id": 152,
@@ -3126,7 +3155,9 @@
             "explanation": "80'li yıllar ekran odaklı piksel teknolojisine ayak uydurmak için geliştirilen yeni dijital yazı karakterleri, Bitmap yazı karakterleridir. Bu fontlar, sayısal ortamlarda daha rahat gösterilmesi için tasarlanmış ve her ayrı punto büyüklüğüne göre yeniden düzenlenmiş piksel tabanlı fontlardır.",
             "is_duplicate": true,
             "duplicate_of": 73,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 154,
@@ -3148,7 +3179,8 @@
             "is_duplicate": true,
             "duplicate_of": 75,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 155,
@@ -3190,7 +3222,8 @@
             "is_duplicate": true,
             "duplicate_of": 72,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 157,
@@ -3210,9 +3243,9 @@
             "topic": "Bloklama Türleri",
             "explanation": "Ünite 7'de Bloklama (Hizalama) başlığı altında, yatay bloklama biçimlerinin soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) olduğu belirtilmiştir. Dikey bloklama biçimleri ise üste, ortaya, alta ve tam blok şeklinde ifade edilir. Dikey bloklama, metin yazı alanındaki dikey konumunu belirtir; yatay/sütun düzenlemesi ile ilgili değildir. Dolayısıyla, 'Dikey blok' yatay hizalama biçimlerinden biri değildir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 76,
-            "similarity_score": 0.9973581433296204
+            "duplication_reason": "Soru kökleri (metin düzenlemesinde kullanılan bloklama biçimi değildir), şık setleri ve doğru cevap (Dikey blok) tamamen aynıdır. Sadece şıkların sıralaması farklıdır, bu da sorunun kopyalığını değiştirmez."
         },
         {
             "id": 158,
@@ -3234,7 +3267,8 @@
             "is_duplicate": true,
             "duplicate_of": 138,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 0.9687061905860901
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 159,
@@ -3255,7 +3289,9 @@
             "explanation": "Allograf, bir alfabenin bir harfinin iki veya daha fazla alternatif biçimidir. Örneğin, tek katlı (single story) veya çift katlı (double story) harf varyantları allograflara örnektir.",
             "is_duplicate": true,
             "duplicate_of": 77,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 160,
@@ -3277,7 +3313,8 @@
             "is_duplicate": true,
             "duplicate_of": 80,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 161,
@@ -3299,7 +3336,8 @@
             "is_duplicate": true,
             "duplicate_of": 122,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 162,
@@ -3318,10 +3356,10 @@
             "UniteNo": 1,
             "topic": "Yazı Yüzeyleri",
             "explanation": "Ünite 1'de, Lidyalılar madeni sikkeleri icat etmeden önce ticarette kullanılan materyallerden bahsedilmiştir. Daha eski dönemlerde ise Papirüs ve parşömen gibi organik yüzeyler kullanılmıştır. Parşömen, hayvan derisinin özel işlemlerden geçirilmesiyle elde edilen ve kağıda benzer özellikler gösteren bir yüzeydir. Metinde geçen MÖ 2000'lerde icat edildiği ve Bergama'dan geldiği bilgisi Parşömen'i işaret etmektedir, ancak metinde Parşömen'in icadı veya bu özellikler tam olarak verilmemiştir. Fakat, genel olarak hayvan derisinden elde edilen ve kağıda benzer bir yüzey olarak bahsettiği en yakın materyal Parşömen'dir (veya Vellum). Metinde bu tanıma tam uyan bir ifade bulunmasa da, genel olarak eski çağlarda kullanılan yüzeyler arasında Parşömen (Pergamen) mevcuttur ve genellikle hayvan derisinden yapılır. Ancak, metinde (Sayfa 1) organik yüzeyler olarak palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek sıralanmıştır. Parşömen, hayvan derisinden yapılır ve M.Ö 4000'lerden itibaren kil tabletlerden sonra kullanılan sert malzemelerden farklıdır. Metinde özellikle bu tanıma uyan bir ibare olmadığı için, en yakın olası aday olarak parşömen kabul edilebilir.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 41,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 163,
@@ -3343,7 +3381,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 164,
@@ -3364,7 +3403,9 @@
             "explanation": "Sayfa 2'de Fütürist Tipografi başlığı altında, Fütürizmin en temel özelliklerinin hız, hareket, eşzamanlılık, özgünlük, heyecan ve ses kavramları olduğu belirtilmiştir. Durağan sayfa düzenlerinin aksine bu kavramlara görsel bir ifade kazandırarak tasarımda dinamizm ön plana çıkarılmıştır.",
             "is_duplicate": true,
             "duplicate_of": 62,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 165,
@@ -3384,9 +3425,10 @@
             "topic": "Emigre Dergisi",
             "explanation": "Sayfa 2'de Emigre Dergisi başlığı altında, derginin sayısal tipografinin tarihsel bir kaydı olduğu ve dönemin dijital devriminin belirsizliği içinde sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerini sunduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 33,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 166,
@@ -3428,7 +3470,8 @@
             "is_duplicate": true,
             "duplicate_of": 124,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 168,
@@ -3448,9 +3491,10 @@
             "topic": "Tasarım İlkeleri",
             "explanation": "Sayfa 1'de Görsel Hiyerarşi başlığı altında, karmaşık bir mesajın anlaşılır bir biçimde basitleştirilebilmesi için tasarım yüzeyi üzerindeki görsel elemanların baskınlık derecesine göre ölçülendirilerek düzenlenmesi eylemi olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 149,
+            "duplicate_of": 64,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 169,
@@ -3491,7 +3535,9 @@
             "explanation": "Sayfa 2'de Tipografik Hiyerarşi başlığı altında, hiyerarşinin sağlanmasında zıtlık (kontrastlık) oluşturmanın temel araçlardan biri olduğu belirtilmiştir. Bu araçlar arasında yazı karakteri seçimi, boyut, ağırlık, kalın-italik kullanımı ve renk yer almaktadır. Beyaz alan (boşluk) kullanımı, görsel ağırlığı etkilese de, tipografik hiyerarşinin sağlanmasında doğrudan bir araç olarak değil, kompozisyonun denge ve algılanabilirliğini etkileyen bir unsur olarak bahsedilir. Özellikle, kontrastlık, boyut ve ağırlık doğrudan hiyerarşi araçlarıdır. Metin, beyaz alanın görsel karmaşayı azaltmada önemli olduğunu belirtir, ancak hiyerarşinin kendisini oluşturmak için kullanılan temel araçlar boyut, kontrast ve ağırlıktır. Beyaz alan (boşluk), görsel ağırlığı etkileyen bir faktör olsa da, hiyerarşi araçları olarak direkt sayılanlar (kontrast, boyut, ağırlık) kadar merkezi değildir. Hiyerarşide vurgu yaratmak esastır, bu da kontrast ile sağlanır. Beyaz alan ise bir denge aracıdır.",
             "is_duplicate": true,
             "duplicate_of": 132,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 171,
@@ -3511,9 +3557,10 @@
             "topic": "Simetrik Denge",
             "explanation": "Tasarım yüzeyi üzerinde yatay veya dikey eksenin her iki tarafının görsel ağırlık ve ton bakımından eşit olduğu denge türü simetrik dengedir. Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' şeklinde tanımlanmıştır.",
             "is_duplicate": true,
-            "duplicate_of": 131,
+            "duplicate_of": 151,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9996345043182373
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 172,
@@ -3552,10 +3599,10 @@
             "UniteNo": 6,
             "topic": "Logo Tipografisi",
             "explanation": "Ünite 6'da, Nike logosunda kullanılan yazı karakterinin genellikle Helvetica Condensed Black Italic olduğu bilgisinden yola çıkılarak, verilen doğru şık işaretlenmiştir. Bu font, genellikle logotype ve dış mekân uygulamalarında güçlü etki yaratmak için tercih edilen bir varyasyondur.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 109,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 174,
@@ -3595,9 +3642,8 @@
             "topic": "Sayfa Yapısı Oranları",
             "explanation": "Altın Oran prensibi, 'a:b b:(a+b)' şeklinde formüle edilir ve 'Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranının eşit olduğu ilkesine dayanır'. Bu prensip, sayfa tasarımı ve ızgara sistemlerinde de temel alınır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 114,
-            "similarity_score": 0.9990167617797852
+            "occurrence_count": 0,
+            "duplicate_of": 114
         },
         {
             "id": 176,
@@ -3617,9 +3663,9 @@
             "topic": "Bütünlük İlkesi",
             "explanation": "Bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel elemanlarla bağlantılı olması, tasarımın tüm parçalarının birlikte uyum içerisinde olması anlamına gelir. Bütünlük ilkesi aynı zamanda 'Birlik' veya 'Uyum' olarak da bilinir ve gerektiğinde kuralları ihlal edilerek (örneğin, Ray Gun dergisinde olduğu gibi) dinamizm yaratılabilir, ancak temel amacı tasarımdaki parçaları birbirine bağlamaktır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 116,
-            "similarity_score": 0.9769807457923889
+            "duplication_reason": "Soru metni (tanım) ve şık içerikleri tamamen aynıdır. Yalnızca şıkların sıralaması ve metindeki 'tasarlama'/'tasarıma' arasındaki önemsiz gramer farkı mevcuttur. Aynı bilgi noktasını test etmektedirler."
         },
         {
             "id": 177,
@@ -3701,7 +3747,8 @@
             "is_duplicate": true,
             "duplicate_of": 99,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

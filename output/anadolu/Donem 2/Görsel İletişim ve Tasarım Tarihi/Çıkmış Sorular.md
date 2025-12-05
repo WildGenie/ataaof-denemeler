@@ -2,6 +2,55 @@
 
 ## Ünite 1
 
+### Afiş tanımı
+
+1. "Zoetrope" ve "Praxinascope" (Hayat Tekerleği) adlı oyuncaklar aşağıdaki sanat alanlarından hangisine dair geliştirilmiş örnekleri temsil eder?
+    - A-) Fotoğraf
+    - **Cevap B-) Animasyon**
+    - C-) Grafik Tasarım
+    - D-) Baskı Sanatları
+    - E-) Sinema
+
+    > **Açıklama:** Afiş (poster), genellikle tanıtım ve duyuru amacıyla hazırlanan, resimli veya yazılı görsel iletişim materyalidir. Ünite 1'deki 'Giriş' bölümünde, doğal iletişim şekillerinin ötesindeki iletişim yöntemleri arasında 'duvar afişleri, sokak ve reklam tabelaları' sayılmaktadır, bu da afişin temel bir tanıtım aracı olduğunu gösterir.
+
+    <hr />
+
+### Petroglif tanımı
+
+1. Aşağıdakilerden hangisi "Petroglif"in tanımıdır? Kayaların üzerine ellerin şablon gibi koyularak yapılan resimlerdir.<br />Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.<br />Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.<br />Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.<br />Kayaların üzerine fırça ile yapılan resimlerdir. *(2 kez soruldu)*
+    - A-) Kayaların üzerine ellerin şablon gibi koyularak yapılan resimlerdir.
+    - B-) Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.
+    - **Cevap C-) Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.**
+    - D-) Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.
+    - E-) Kayaların üzerine fırça ile yapılan resimlerdir.
+
+    > **Açıklama:** Ünite 1'deki 'Kaya Resimleri ve Heykelcikleri' bölümünde, kaya resimlerinin daha genel bir üst tanımlama olduğu ve 'Petroglifler yalnızca kazınarak yapılan negatif veya pozitif resimleri ifade etmektedir' şeklinde tanımlanmıştır. Bu tanım, petrogliflerin kayalar üzerine kazıma ve oyma yoluyla yapıldığını gösterir.
+
+    <hr />
+1. Aşağıdakilerden hangisi Arts&Crafts (Sanat ve Zanaat) hareketinin özelliklerinden biri değildir?
+    - A-) El Sanatlarını daha ucuz maliyet ile üretmek
+    - B-) Anti-akademik yaklaşımlar ile üretim yapmak
+    - C-) El sanatlarını yeniden canlandırmak
+    - **Cevap D-) Tasarımları sadece el ile üretmek**
+    - E-) El sanatlarını seri imalat haline getirmek
+
+    > **Açıklama:** Ünite 1'deki 'Kaya Resimleri ve Heykelcikleri' bölümüne göre, kaya resimleri petroglifleri de içeren üst bir tanımlamadır ve 'Petroglifler yalnızca kazınarak yapılan negatif veya pozitif resimleri ifade etmektedir'. Bu, petrogliflerin kayaların üzerine kazıma ve oyma yoluyla yapılan resimler olduğunu gösterir.
+
+    <hr />
+
+### Sesçil alfabe kökeni
+
+1. Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir? *(5 kez soruldu)*
+    - A-) Mısır
+    - B-) Çin
+    - C-) İndus
+    - **Cevap D-) Fenike**
+    - E-) Roma
+
+    > **Açıklama:** Ünite 1'de yer alan 'Fenikeliler ve İlk Alfabeler' başlığına göre, Fenikeliler ticaret kayıtlarını tutabilmek amacıyla ilk sesçil (fonetik) yazı sistemini oluşturmuşlardır. Bu sistem 22 önemli sesi işaret etmektedir ve modern alfabelerin temeli olarak kabul edilir.
+
+    <hr />
+
 ### Sümerler ve Yazı Türleri
 
 1. ------ bir veya daha fazla harfin tek bir simge oluşturmak için tasarlanmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -12,6 +61,19 @@
     - E-) İnfografik
 
     > **Açıklama:** Kavramyazı (ideogram), birden çok imgeyi bir araya getirerek bir fikri görselleştiren bir yazı türüdür. Anlamharf (logogram) ise tek bir işaretle bir sözcüğü belirtir. Resimyazılar ise (piktogram) genellikle tek bir imge ile tek bir nesneyi gösterir.
+
+    <hr />
+
+### Vellum ve parşömen
+
+1. Aşağıdaki yazı yüzeylerinin hangisinin daha kaliteli versiyonuna "Vellum" denilmiştir? *(3 kez soruldu)*
+    - **Cevap A-) Parşömen**
+    - B-) Papirüs
+    - C-) Kil tablet
+    - D-) Kağıt
+    - E-) Mermer
+
+    > **Açıklama:** Ünite 1'de 'İlk kitaplar' başlığı altında parşömenden bahsedilmektedir. Parşömen, buzağı, koyun veya keçi derisinden yapılan bir yazı yüzeyidir. Vellum, parşömenin en kaliteli ve ince türüdür ve genellikle özel olarak işlenmiş buzağı derisinden elde edilir. Dolayısıyla Vellum, parşömenin daha kaliteli bir versiyonudur.
 
     <hr />
 
@@ -28,16 +90,16 @@
 
     <hr />
 
-### İlk Animasyon Örnekleri
+### İlk resimli el yazmaları
 
-1. "Zoetrope" ve "Praxinascope" (Hayat Tekerleği) adlı oyuncaklar aşağıdaki sanat alanlarından hangisine dair geliştirilmiş örnekleri temsil eder?
-    - A-) Fotoğraf
-    - **Cevap B-) Animasyon**
-    - C-) Grafik Tasarım
-    - D-) Baskı Sanatları
-    - E-) Sinema
+1. Aşağıdakilerden hangisi Art Nouveau sanat hareketinin esinlendiği kaynaklardan biri değildir? *(3 kez soruldu)*
+    - **Cevap A-) Psikoloji bilimi**
+    - B-) Doğal motifler
+    - C-) Japon ahşap baskıları
+    - D-) Rubens, Fragonard gibi romantik dönem ressamları
+    - E-) Fransız kabare kültürü
 
-    > **Açıklama:** İlk animasyon örnekleri 19. yüzyılın başlarında görülmüştür ve 'Thaumatrope' adı verilen, ipler bağlı bir oyuncağın iki resmi birbirinin ardına sıralayarak hareket edermiş gibi gösteren bir örnek olduğu belirtilmiştir. Bu tür mekanik görsel yanılsama yaratan araçlar, Sinemanın icadından sonra ortaya çıkan animasyonun ilk örneklerini temsil eder (Ünite 1).
+    > **Açıklama:** Ünite 1'deki 'İlk kitaplar' başlığı altında, Antik Mısırlıların MÖ 2500 yılı civarında papirüsü yazı yüzeyi olarak kullanmaya başladığı ve MÖ 1580 yılından itibaren papirüs üzerine aktarılan uzun metinlerin, insanlık tarihinin ilk resimli el yazmaları olduğu kabul edilmektedir.
 
     <hr />
 
@@ -56,19 +118,6 @@
 
     <hr />
 
-### Antik Dönem Reklamcılık
-
-1. Dünya tarihinde ilk gerçek reklam ajansı aşağıdaki ülkelerden hangisinde açılmıştır? *(2 kez soruldu)*
-    - A-) İngiltere
-    - **Cevap B-) Amerika**
-    - C-) Fransa
-    - D-) Belçika
-    - E-) Almanya
-
-    > **Açıklama:** Metinde Antik Roma'da dükkanların ne sattığını belirtmek için kullanılan simgelerden bahsedilmektedir. Ancak dünya tarihinde ilk gerçek reklam ajansının kurulduğu ülke bilgisini doğrudan içermemektedir. Genel tarih bilgisi, modern reklamcılığın ve ajans sisteminin kökeninin genellikle Amerika Birleşik Devletleri'nde (ABD) başladığını gösterir. Sorunun doğru kabul edilen şıkkı 'Amerika' olduğundan, bu bilginin metinde doğrudan olmamasına rağmen, ABD'nin modern reklamcılık pratiğindeki öncü rolüne atıfta bulunulduğu varsayılabilir (Özellikle 1950'lerden sonraki görsel iletişimdeki gelişmelere değinilmesi bu bağlamda ABD'nin önemini gösterir).
-
-    <hr />
-
 ### Baskerville'in tasarım amacı
 
 1. Aşağıdakilerden hangisi Baskerville'in tipografi alanındaki çalışmalarının temel amacını en iyi şekilde tamamlar?
@@ -82,29 +131,29 @@
 
     <hr />
 
-### Baskı Teknolojisi Tarihi
+### Baskı teknolojisinin Avrupa'ya gelişi
 
-1. Başka tekniolojisini Avrupa'ya getiren kaşif aşağıdakilerden hangisidir?
-    - A-) Ugolino Vivaldi
-    - B-) Kristof Kolomb
-    - **Cevap C-) Marco Polo**
+1. Baskı teknolojisini Avrupa'ya getiren kâşif aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Kristof Kolomb
+    - **Cevap B-) Marco Polo**
+    - C-) Ricoldus de Monte Crucis
     - D-) Pîrî Reis
-    - E-) Ricoldus de Monte Crucis
+    - E-) Ugolino Vivaldi
 
-    > **Açıklama:** Metinde, Avrupa'yı kâğıt ile tanıştıran yolun İpek Yolu ticareti olduğu ve Marco Polo'nun Çin seyahati sonrasında doğunun baskı teknolojisini (ahşap blok baskı) İtalya'ya getirdiği bilgisi yer almaktadır: 'Büyük kâşif Marco Polo 1295 yılında Çin seyahati sonrasında İtalya'ya döndüğünde doğunun baskı teknolojisini de beraberinde getirmiştir.' Bu teknoloji daha sonra Avrupa'nın diğer ülkelerine yayılmıştır.
+    > **Açıklama:** Ünite 2'deki 'Baskının Avrupa'ya Gelişi' bölümüne göre, büyük kâşif Marco Polo 1295 yılında Çin seyahati sonrasında İtalya'ya döndüğünde, doğunun baskı teknolojisini (ahşap blok baskı tekniği) de beraberinde getirmiştir.
 
     <hr />
 
-### Dadaizm Temsilcileri
+### Caslon yazıyüzü
 
-1. Marcel Duchamp aşağıdaki modern sanat akımlarından hangisinin en önemli temsilcilerinden biridir?
-    - A-) Kubizm
-    - **Cevap B-) Dadaizm**
-    - C-) Futurizm
-    - D-) Sürrealizm
-    - E-) De Stijl
+1. "Şüpheye düştüğünüzde kullanın" özdeyişi matbaacılar arasında günümüze kadar gelmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - A-) Garamond
+    - B-) Baskerville
+    - C-) Didot
+    - D-) Bodoni
+    - **Cevap E-) Caslon**
 
-    > **Açıklama:** Fransız ressam Marcel Duchamp, hazır nesneleri (ready-made) kullanarak sanat yapıtına dönüştürme biçimiyle Dadaizmin en önemli görsel sanatçısı olmuştur. Onun "Çeşme" adlı eseri ve Mona Lisa'ya bıyık eklemesi bu akımın isyankar ruhunu yansıtmaktadır (Ünite 2).
+    > **Açıklama:** William Caslon, 18. yüzyılda İngiltere'de yazı tipi standartlarını belirlemiş ve tasarımlarında zarif ve kararlı formlar kullanarak yazıyüzlerini evrensel baskı standardı hâline getirmiştir. Metin, Caslon'un güvenilirliğini ve evrensel kabulünü vurgular, bu da 'Şüpheye düştüğünüzde kullanın' özdeyişiyle ilişkilidir (Ünite 2, 'Tipografi Çağı ve Öncüleri').
 
     <hr />
 
@@ -120,17 +169,14 @@
     > **Açıklama:** Avrupa'da ahşap blok baskının ilk örneklerinden birinin 1418 yılında basılan “Dört Azizli Bakire ve Çocuk” olduğu bilinmektedir (Cundall, 2000).
 
     <hr />
+1. İlk ahşap baskılarda aşağıdaki temalardan hangisi kullanılmamıştır? *(2 kez soruldu)*
+    - A-) Azizler
+    - B-) İllüstrasyonlar
+    - C-) Oyun Kartları
+    - **Cevap D-) Krallar**
+    - E-) Dini imgeler
 
-### Fenikeliler ve İlk Alfabeler
-
-1. Kullanılan $\text{harflerin bir sesi ifade ettiği}$ $\text{seçili (fonetik alfabe) ilk kullanan uygarlık}$ aşağıdakilerden hangisidir?
-    - A-) Roma
-    - B-) Çin
-    - C-) İndus
-    - **Cevap D-) Fenike**
-    - E-) Mısır
-
-    > **Açıklama:** Fenikeliler, ticaret kayıtlarını tutabilmek için daha etkili bir yazı sistemi arayışında ilk sesçil (fonetik) yazı sistemini oluşturdular. Bu sesçil alfabe, kullanılan harflerin bir sesi işaret ettiği bir tür alfabedir ve modern alfabelerin temelini oluşturmuştur (Robinson, 2019).
+    > **Açıklama:** İlk ahşap baskılar genellikle dini imgelerin, azizlerin ve oyun kartlarının üretimine olanak sağlamıştır. Metin ve resim ilişkisi ancak 1440'larda tipografinin bulunmasıyla ayrılmıştır. Bu nedenle, erken dönem blok kitaplarda dini imgeler ve oyun kartları temel temalarken, romanlar ve bilimsel yayınlar daha çok tipografik baskıya geçildiğinde ön plana çıkmıştır.
 
     <hr />
 
@@ -160,6 +206,19 @@
 
     <hr />
 
+### Kağıt ve matbaa kökeni
+
+1. Kağıt ve matbaanın kökeninin dayandığı medeniyet aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Antik Yunanistan
+    - B-) Almanya
+    - **Cevap C-) Çin**
+    - D-) Mısır
+    - E-) Maya
+
+    > **Açıklama:** Ünite 2’deki bilgilere göre, kâğıt MS 105 yılında Cai Lun tarafından Çin'de icat edilmiştir. Ayrıca, tahta baskı tekniği ile basılmış ilk bilinen materyal (MS 770) ve ilk kitap (Elmas Sutra, MS 868) da Çin’de üretilmiştir. Bu nedenle Çin, hem kâğıdın hem de matbaa teknolojisinin (tahta baskı) kökeninin dayandığı medeniyettir.
+
+    <hr />
+
 ### Litografi Tekniği
 
 1. Taş baskı (litografi) tekniğinin gelişim sürecine dair aşağıdaki ifadelerden hangisi doğrudur?
@@ -170,6 +229,32 @@
     - E-) Taş baskı tekniği, II.Mahmut döneminde özellikle Aşevlerinde asılı afişlerde kullanılmıştır.
 
     > **Açıklama:** Taş baskı (Litografi) tekniği, Alman Bavyeralı oyun yazarı Alois Senefelder tarafından tesadüfen keşfedilmiş ve ardından geliştirilmiştir. Bu teknik, kireç taşı üzerine yağlı mürekkep ile çizim yapılıp çoğaltılabilme esasına dayanır. 1830'larda dört renk baskının geliştirilmesiyle tekniğin sınırları genişlemiştir.
+
+    <hr />
+
+### Orta Çağ el yazmaları
+
+1. Marcel Duchamp aşağıdaki modern sanat akımlarından hangisinin en önemli temsilcilerinden biridir? *(2 kez soruldu)*
+    - A-) Kubizm
+    - **Cevap B-) Dadaizm**
+    - C-) Futurizm
+    - D-) Sürrealizm
+    - E-) De Stijl
+
+    > **Açıklama:** Ünite 2'deki 'Avrupa'da El Yazmaları' başlığına göre, MS 1000-1200 yılları arasında Romanesk Dönemi ortaya çıkmış ve bu dönemde el yazmalarının sayısında artış görülmüştür. Ayrıca, sanatçıların manastırlardan ayrılarak üniversiteler yakınında çalışmaya başlamasıyla dini eserlerin haricinde ders kitapları gibi farklı konularda da eserler hazırlanmıştır.
+
+    <hr />
+
+### Romain du Roi yazıyüzü
+
+1. Fransa'da yalnızca kraliyetin kullanımı için tasarlanan yazıyüzü aşağıdakilerden hangisidir?
+    - A-) İtalik
+    - B-) Roman
+    - C-) Sans Serif
+    - **Cevap D-) Romain du Roi**
+    - E-) Serif
+
+    > **Açıklama:** Ünite 2'deki 'Tipografi Çağı ve Öncüleri' başlığına göre, Fransız Kralı Louis XIV, 1692 yılında Imprimerie Royale için yeni bir yazı tipi geliştirmesini emretmiştir. Matematiksel kaidelerle tasarlanan bu karakter, yalnızca kraliyetin kullanımı için ayrılmış olan 'Romain du Roi' yazıyüzüdür.
 
     <hr />
 
@@ -188,7 +273,7 @@
 
 ### Yazı karakteri terimleri
 
-1. ------- büyük harf ve ------- küçük harf demektir. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?
+1. ------- büyük harf ve ------- küçük harf demektir. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar? *(2 kez soruldu)*
     - **Cevap A-) Majiskül / Miniskül**
     - B-) Tam/Yarım
     - C-) Altı Çizili / Çizgisiz
@@ -196,6 +281,19 @@
     - E-) İtalik / Bold
 
     > **Açıklama:** Baskının Avrupa'ya Gelişi ünitesinde (Ünite 2), majiskül (büyük harf) ve miniskül (küçük harf) terimlerinin yazım sistemlerinde kullanıldığı belirtilmiştir. Örneğin, Fleischmann'ın yarattığı yazı karakterlerinin hem majiskül hem de miniskül biçimleri olduğu ve modern alfabelerin gelişiminde bu ikisinin rol oynadığı ima edilmektedir. (Ancak bu terimlerin doğrudan tanımı metinde bulunmamaktadır; en yakın bağlam Johann Gutenberg'in icadından sonraki dönemde harflerin tanımlanmasıdır. Ünite 2'de Peter Schoeffer'in yardımıyla İncil basımı ve ardından gelen yazı stilleri ele alınır.) Ancak, Ünite 2'de Johannes de Spira ve Nicolas Jenson gibi isimlerden bahsedilirken, 'lettre de forme' (gothic) ve 'lettre de somme' (yuvarlak hatlı gothic) gibi terimler kullanılır. Majiskül ve Miniskül terimleri Ünite 5'te Bauhaus döneminde Herbert Bayer'in 'büyük harf küçük harf kullanımını yanlış bulmuş ve büyük harf kullanımından vazgeçtiği' bağlamında geçer. Bayer'in uyguladığı stil, büyük harf (majiskül) ve küçük harf (miniskül) kullanımını içerir. Majiskül büyük harf, Miniskül küçük harf demektir.
+
+    <hr />
+
+### İbn Mukle ve hat sanatı
+
+1. Aşağıdakilerden hangisi Art Deco'nun özelliklerinden biri değildir? *(2 kez soruldu)*
+    - A-) Aydınlık renkler
+    - B-) Düz ve keskin hatlar
+    - C-) Tüketim kültürüne gönderme
+    - D-) Yumuşatılmış formlar
+    - **Cevap E-) Çiçekli formlar**
+
+    > **Açıklama:** Ünite 2'deki 'İslam Coğrafyasında El Yazmaları' başlığına göre, MS 10. yüzyılın başlarında İbn Mukle, geometri kurallarına dayalı ve oranlı bir yazı stili önermiştir. Bu yaklaşım, Sülüs, Nesih, Reyhani gibi altı farklı temel hat stilinin özelliklerini belirlemiştir, bu da İbn Mukle'nin hat sanatına geometrik ve oranlı bir temel kazandırdığını gösterir.
 
     <hr />
 
@@ -209,6 +307,45 @@
     - E-) Biblia Latina
 
     > **Açıklama:** Avrupa'da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının bilinen ilk örneklerinden birinin 1418 yılında basılan “Dört Azizli Bakire ve Çocuk” olduğu belirtilmektedir (Ünite 2, Sayfa 1).
+
+    <hr />
+
+### İlk Alman basım örneği
+
+1. Almanya'da bilinen en eski basım örneği bir -------şiirinin basıldığı bir kitap yaprağıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - A-) Virgil
+    - B-) Biblia Latina
+    - **Cevap C-) Sibylline**
+    - D-) Aristoteles
+    - E-) Ars Moriendi
+
+    > **Açıklama:** Ünite 2'deki 'Gutenberg Matbaasının Gelişimi' başlığı altında, Almanya'da bilinen en eski basım örneğinin bir 'Sibylline' şiirinin basıldığı bir kitap yaprağı olduğu belirtilmiştir. Bu eser, Gutenberg'in Mainz atölyesinde 1444-1447 yılları arasında deneysel olarak basılmıştır.
+
+    <hr />
+
+### İlk basılı kitap
+
+1. Dünya tarihinde bilinen ilk basılı kitap aşağıdakilerden hangisidir?
+    - **Cevap A-) Elmas Sutra**
+    - B-) Gutenberg İncili
+    - C-) Dresden Kodeksi
+    - D-) Kells Kitabı
+    - E-) Vatican Virgil
+
+    > **Açıklama:** Ünite 2'deki 'Çin'de Matbaanın Bulunuşu' başlığı altında, tahta baskı tekniği ile MS 770 yılında basılan tılsımlı duaların ardından, 11 Mayıs 868 yılında basılmış olan 'Elmas Sutra'nın dünya tarihinde bilinen ilk basılı kitap olduğu belirtilmiştir.
+
+    <hr />
+
+### İlk resimli İncil
+
+1. Matbaacılık tarihinde ilk resimli İncil'i üreten kişi aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Martin Luther
+    - B-) Aldus Manutius
+    - **Cevap C-) Günther Zainer**
+    - D-) Albrect Dürer
+    - E-) Gutenberg
+
+    > **Açıklama:** Ünite 2'deki 'Alman Resimli Kitabı' bölümünde belirtildiği üzere, Augsburglu matbaacı Günther Zainer, hareketli matbaacılık tarihinde ilk resimli İncil’i üreten kişidir. Zainer'in çalışması, matbaanın icadından sonraki ilk dönem olan Incunabula sürecine aittir.
 
     <hr />
 
@@ -227,35 +364,9 @@
 
     <hr />
 
-### Art Deco Özellikleri
-
-1. Aşağıdakilerden hangisi Art Deco'nun özelliklerinden biri değildir? *(2 kez soruldu)*
-    - A-) Aydınlık renkler
-    - B-) Düz ve keskin hatlar
-    - C-) Tüketim kültürüne gönderme
-    - D-) Yumuşatılmış formlar
-    - **Cevap E-) Çiçekli formlar**
-
-    > **Açıklama:** Art Deco, düz ve keskin hatlar, geometrik şekiller, hızı temsilen aerodinamik formlar ve aydınlık renkler öne çıkan bir akımdır (Ünite 3). Düz ve keskin hatlar kullanması, onu Konstrüktivizm ve Bauhaus'un yumuşatılmış formlarından ayırır. Ancak, Art Deco'nun kendinden önceki Art Nouveau'ya karşı bir duruş sergilemesi ve el işçiliği ile zarafeti bir araya getirme amacı taşıması, onu diğer modern akımlardan ayırır. Art Deco'nun temel özelliklerinden biri, geometrik formları kullanmak olsa da, Art Nouveau'dan farklı olarak yumuşatılmış formları tercih etmesi (Peignot gibi) onun bir parçasıdır. Ancak, aşırı dekoratif ve süslemeli görünüm Art Nouveau'nun baskın özelliğiydi; Art Deco ise daha sadeleşmiştir. Soruda verilen şıklar arasında, en belirgin özelliklerden biri olmayan bir ifade bulunmamaktadır. Ancak genel olarak Art Deco, Art Nouveau'daki aşırı dekoratif ve süslemeli yapıyı reddederek daha geometrik bir yapıya odaklanmıştır. Metinde, Art Nouveau'nun dekoratif ögelerine karşı bir duruş sergilediği belirtilmiştir. Metinde özellikle belirtilen özellikler: düz ve keskin hatlar, geometrik şekiller, aerodinamik formlar, aydınlık renkler. Art Nouveau'nun özelliklerinden biri olan "aşırı dekoratif ve süslemeli görüntü" Art Deco'nun özelliği değildir (Ünite 3'ün son paragrafındaki Modernizm öncesi akımlarla karşılaştırmaya dikkat edilmeli).
-
-    <hr />
-
-### Art Nouveau Esin Kaynağı
-
-1. Aşağıdakilerden hangisi Art Nouveau sanat hareketinin esinlendiği kaynaklardan biri değildir? *(3 kez soruldu)*
-    - **Cevap A-) Psikoloji bilimi**
-    - B-) Doğal motifler
-    - C-) Japon ahşap baskıları
-    - D-) Rubens, Fragonard gibi romantik dönem ressamları
-    - E-) Fransız kabare kültürü
-
-    > **Açıklama:** Art Nouveau, ilk olarak 1880 yılında Viktorya döneminin dekoratif ögelerine karşı yeni bir dil meydana getirmek istemiştir. Bu akım, özellikle Japon ahşap baskılarına duyulan hayranlıktan esinlenmiştir. Ayrıca, Gustav Klimt, Emile Galle gibi sanatçıların çalışmaları da bu akıma yön vermiştir. Konstrüktivizm ise, 1915 yılında Rusya'da ortaya çıkan, geometrik ve yapısalcılığa dayanan bir harekettir ve Art Nouveau'nun esinlendiği kaynaklardan biri değildir (Ünite 3).
-
-    <hr />
-
 ### Art Nouveau Hareketi
 
-1. Aşağıdakilerden hangisi "sanatı toplumun yaşam alanı ile buluşturan" ilk hareket olarak bilinir?
+1. Aşağıdakilerden hangisi "sanatı toplumun yaşam alanı ile buluşturan" ilk hareket olarak bilinir? *(3 kez soruldu)*
     - A-) Kontrüktivizm
     - **Cevap B-) Art Nouveau**
     - C-) Sanat ve Zanaat
@@ -268,14 +379,14 @@
 
 ### Arts & Crafts Hareketi
 
-1. Aşağıdakilerden hangisi Arts&Crafts (Sanat ve Zanaat) hareketinin özelliklerinden biri değildir?
-    - A-) El Sanatlarını daha ucuz maliyet ile üretmek
-    - B-) Anti-akademik yaklaşımlar ile üretim yapmak
-    - C-) El sanatlarını yeniden canlandırmak
-    - **Cevap D-) Tasarımları sadece el ile üretmek**
-    - E-) El sanatlarını seri imalat haline getirmek
+1. Dünya tarihinde ilk gerçek reklam ajansı aşağıdaki ülkelerden hangisinde açılmıştır? *(2 kez soruldu)*
+    - A-) İngiltere
+    - **Cevap B-) Amerika**
+    - C-) Fransa
+    - D-) Belçika
+    - E-) Almanya
 
-    > **Açıklama:** Arts & Crafts Hareketi, Endüstri Devrimi'nin getirdiği mekanikleşmeye karşı bir duruş sergilemiş, el emeğini ve materyal kalitesini vurgulamıştır. Hareketin temel amacı, el sanatlarını yeniden canlandırmak, sanat ve zanaatı birleştirmekti. Seri imalat (E şıkkı) bu hareketin reddettiği bir olguydu; aksine, tasarımları elle üretmek (D şıkkı) esastı. Ayrıca el sanatlarını daha ucuz maliyetle üretmek (A şıkkı) yerine, el emeğini değerli kılmayı amaçlamışlardır. Anti-akademik yaklaşımlar ve sanatı el sanatları yoluyla canlandırma arzusu (C şıkkı) hareketin temelindeydi.
+    > **Açıklama:** Ünite 3'teki 'Arts & Crafts (Sanat ve Zanaat) Hareketi' başlığına göre, yazar John Ruskin ve tasarımcı William Morris, Endüstriyel Devrim'in getirdiği sanatsal karmaşaya karşı bir duruş sergileme ihtiyacı hissetmişlerdir. Bu duruş, zamanla Arts&Crafts hareketine dönüşmüş, el emeğini ve kaliteli materyal kullanımını savunmuştur.
 
     <hr />
 1. William Morris'in kitap tasarımındaki önemli eserlerinden biri olan "Golden", "Troy" ve "Ghaucer" adlı harf tasarımlarının yarattığı etki aşağıdakilerden hangisidir?
@@ -286,6 +397,19 @@
     - **Cevap E-) Kitap tasarımlarındaki kendine has düzenleme anlayışı, harf tasarımlarındaki incelikler ve ayrıntılar gelecek nesillere bu konuda yararlanılabilecek önemli bir kaynak olmuş ve kitap tasarımını bir sanat haline getirmiştir.**
 
     > **Açıklama:** William Morris, Arts and Crafts hareketinin düşünsel altyapısını oluşturan önemli isimlerdendir. Morris, 1862'de ustalık ve çıraklık ilişkileriyle yetiştirilen el sanatlarına dayalı bir üretim şirketi kurmuştur. Metinde Morris'in tipografik eserleri için "Golden", "Troy" ve "Ghaucer" adında üç yazı tipi tasarladığı belirtilmemiştir; bu tür özgün tasarımlar Arts and Crafts'ın el emeği ve geleneksel zanaata dönüşünü vurgular ancak bu üç özel isme doğrudan atıf yapılmamıştır. (Metin 3. Ünite'de Morris'in kurduğu şirketten ve sanat felsefesinden bahsedilmektedir, ancak bu spesifik harf tasarımlarına değinilmemektedir.)
+
+    <hr />
+
+### Arts & Crafts kurucuları
+
+1. Yazar John Ruskin ve Tasarımcı William Morris, 19. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı hissetmiştir. Bu duruş zamanla bir sanat hareketine dönüşmüştür. Yukarıdaki bilgiye göre, bu iki önemli ismin başlattığı sanat hareketi aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Viktorya Sanatı
+    - B-) Vienna Secession (Viyana Stili)
+    - C-) Jugendstil
+    - D-) Art Nouveau (Yeni Sanat)
+    - **Cevap E-) Arts&Crafts (Sanat&Zanaat)**
+
+    > **Açıklama:** Ünite 3'teki 'Arts & Crafts (Sanat ve Zanaat) Hareketi' başlığına göre, bu sanatsal hareketin düşünsel altyapısını yazar John Ruskin ve tasarımcı William Morris hazırlamıştır. Bu hareket, 19. yüzyıl sonlarında Endüstriyel Devrim'in yol açtığı sanatsal karmaşaya karşı bir tepki olarak ortaya çıkmıştır.
 
     <hr />
 
@@ -338,6 +462,19 @@
     - E-) Ahmet Ratıp Paşa Köşkü
 
     > **Açıklama:** Osmanlı topraklarında Art Nouveau mimari alanda öne çıkmıştır. Mimar Raimondo D'Aronco ve Mimar Kemaleddin gibi isimler bu tarza eserler vermişlerdir. Ancak, 'Moulin Rouge: La Goulue' afişi, Henri de Toulouse Lautrec tarafından Paris'te yapılmış bir Art Nouveau örneğidir ve Osmanlı topraklarıyla doğrudan ilgili değildir (Ünite 3, Sayfa 4).
+
+    <hr />
+
+### Rönesans ve Tipografi
+
+1. Fransa'da yalnızca kraliyetin kullanımı için tasarlanan yazı yüzü aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - **Cevap A-) Romain du Roi**
+    - B-) Garamond
+    - C-) Serif
+    - D-) Roman
+    - E-) İtalik
+
+    > **Açıklama:** Fransa Kralı Louis XIV'ün emriyle 1692'de Imprimerie Royale için tasarlanan ve yalnızca kraliyetin kullanımı için ayrılan yazı yüzü, Romain du Roi (Romaine du Roi) karakteridir (Devroye, 2016).
 
     <hr />
 
@@ -395,19 +532,6 @@
 
     <hr />
 
-### De Stijl Başlangıç Yeri
-
-1. De Stijl sanat akımının başaladığı ülke aşağıdaki hangisidir?
-    - **Cevap A-) Hollanda**
-    - B-) İtalya
-    - C-) İngiltere
-    - D-) Almanya
-    - E-) Fransa
-
-    > **Açıklama:** De Stijl akımı, 20. yüzyıl başlarında Hollanda'da ortaya çıkmıştır. Theo van Doesburg, Piet Mondrian gibi sanatçılar grubu kurmuş ve "De Stijl" dergisini çıkarmaya başlamışlardır (Ünite 4).
-
-    <hr />
-
 ### De Stijl Temel Özellikleri
 
 1. De Stijl akımının öncüleri tarafından belirlenen temel özellikler aşağıdakilerden hangisidir?
@@ -447,19 +571,6 @@
 
     <hr />
 
-### Fütürizm Tipografi
-
-1. Tekrar eden harfler ile ses kavramını ifade etme denemeleri aşağıdaki sanat akımlarından hangisi ile başlamıştır? *(2 kez soruldu)*
-    - A-) Futurizm
-    - B-) Sürrealizm
-    - C-) Kubizm
-    - **Cevap D-) Dadaizm**
-    - E-) Caslon
-
-    > **Açıklama:** Fütürizm Sanat Akımı, Filippo Tommaso Marinetti tarafından başlatılmış, savaş, hız ve makine çağını yücelten bir harekettir. Metinde, Fütüristlerin tipografik devrim çağrısında bulundukları ve 'Tekrar eden harfler ile de ses kavramı vurgulanmaya çalışılmış' olduğu belirtilmektedir. Bu, tekrarlayan harflerle ses kavramını ifade etme denemesinin Fütürizm ile başladığını gösterir. Dadaizm (D şıkkı) de görsel dilde yenilikçi ve isyankar teknikler kullansa da, tekrar eden harflerle ses vurgusu Fütürizm'in tipografik devrim çağrısının bir parçası olarak metinde belirtilmiştir. Ancak sorunun doğru kabul edilen şıkkı D şıkkı (Dadaizm) olarak işaretlenmiştir. Dadaistler de Fütürizm'den etkilenmiş ve görsel dilde yenilikçi teknikler kullanmışlardır. Fütürizm metinde bu tekniği spesifik olarak belirtse de, Dadaizm de geleneksel kuralları reddederek benzer isyankar ve deneysel tipografik yaklaşımlar sergilemiştir (Fütürizm'den etkilenerek).
-
-    <hr />
-
 ### Fütürizm ve Depero
 
 1. Futurist felsefeyi grafik ve reklam tasarımına uyarlayan sanatçı aşağıdakilerden hangisidir? *(2 kez soruldu)*
@@ -470,19 +581,6 @@
     - E-) A.M. Cassandre
 
     > **Açıklama:** Fortunato Depero, İtalyan bir fütürist ressam, yazar, heykeltıraş ve grafik tasarımcıdır. Fütürist felsefeyi grafik ve reklam tasarımına uygulayan sanatçılardan biri olarak, işlerinde tipografik ve reklam tasarımında dinamik bir yapı ürettiği belirtilmiştir (Ünite 4, Sayfa 2).
-
-    <hr />
-
-### Kübizm Sanat Akımı
-
-1. Sanat tarihinde gerçekçi olma geleneğini yıkan doğadan bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Futurizm
-    - B-) Art Deco
-    - C-) De Stijl
-    - D-) Sürrealizm
-    - **Cevap E-) Kubizm**
-
-    > **Açıklama:** Sanat tarihinde gerçekçi olma geleneğini yıkan, doğadan bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek kazandıran akım Kübizm'dir (Ünite 4). Kübizm, nesneleri birden çok bakış açısıyla ele almayı amaçlamıştır.
 
     <hr />
 
@@ -512,6 +610,19 @@
 
     <hr />
 
+### Modern Sanat Felsefesi
+
+1. Modern sanat ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? *(2 kez soruldu)*
+    - **Cevap A-) Modern sanatta her şey bireyi ilgilendirir.**
+    - B-) Sanatçılar yapıtlarında daha çok kendi bireysel yaklaşımlarını vermeye çalışmışlardır.
+    - C-) Sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşır.
+    - D-) Modern sanat için makineleşme geleceğin sembolü olarak görülmüştür.
+    - E-) Modern sanat için sanat ve endüstriyi ayırmak gereklidir.
+
+    > **Açıklama:** Ünite 4 Giriş bölümünde Modern Sanatın her şeyin toplumu ilgilendirdiği, sanat için sanat değil, toplum için sanat üretme anlayışının yaygınlaştığı belirtilmiştir. Ayrıca makineleşmenin geleceğin sembolü olarak görüldüğü ifade edilmiştir. Dolayısıyla A, C, D şıkları doğrudur. Modern sanatta sanat ve endüstrinin birleştirilmesi amaçlanmıştır (Sanat ve endüstriyi birleştirmek ana amaç olmuştur). Ancak Modern Sanat, geleneksel nesnel dünya görüşünü reddederek, sanatçıların kendi bireysel yaklaşımlarını vermeye çalıştığı bir dönemdir. Sanatın geleneksel normlardan ayrışması söz konusudur. Sorunun doğru kabul edilen şıkkı A şıkkıdır: 'Modern sanatta her şey bireyi ilgilendirir.' Modern sanatta bireysel yaklaşımlar ön plana çıksa da, temel felsefe 'her şey toplumu ilgilendirir' ve 'toplum için sanat' üretme anlayışıdır; bu da A şıkkını Modern Sanatın temel odak noktası olarak yanlış yapar.
+
+    <hr />
+
 ## Ünite 5
 
 ### Avangard tanımı
@@ -524,19 +635,6 @@
     - **Cevap E-) İlerici ve deneysel sanatı tanımlamaktadır.**
 
     > **Açıklama:** Avangard, genel olarak bir dönemin sanat normlarını ve geleneklerini reddederek, toplumsal ve kültürel değişimleri görsel dile yansıtan yenilikçi yaklaşımları ifade eder. Ünite 5'te Konstrüktivizm'in ve Bauhaus'un, eski normları dönüştüren ve yeni düzen oluşturmayı hedefleyen avangard hareketler olduğu belirtilmektedir.
-
-    <hr />
-
-### Bauhaus Tipografi ve Form
-
-1. ------ ile karmaşık şekiller oluşturabilir, pürüzsüz uç noktalar, onlar özellikli harf formları ve bilgisayar grafikleri oluşturmak için kullanışlı hale getirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Arayüz
-    - **Cevap B-) Bezier eğrileri**
-    - C-) Postscript
-    - D-) İnternet
-    - E-) Mizanpaj
-
-    > **Açıklama:** Ünite 5'te, Bézier eğrileri (Pierre Bézier tarafından icat edilen) kullanılarak karmaşık şekiller oluşturulabileceği, pürüzsüz uç noktalar elde edilebileceği ve bu özelliklerin özellikle harf formları ve bilgisayar grafikleri oluşturmak için kullanışlı olduğu belirtilmiştir. Boşluğu 'Bézier eğrileri' tamamlar.
 
     <hr />
 
@@ -594,7 +692,7 @@
 
 ### Konstrüktivizm Kavramı
 
-1. Aşağıdakilerden hangisi Konstrüktivizm akımının Türkçe karşılığıdır?
+1. Aşağıdakilerden hangisi Konstrüktivizm akımının Türkçe karşılığıdır? *(2 kez soruldu)*
     - A-) Yapıcılık
     - **Cevap B-) İnşacılık - Yapısalcılık**
     - C-) Yapısökümcülük
@@ -618,19 +716,6 @@
 
     <hr />
 
-### Konstrüktivizm Türkçe Karşılığı
-
-1. Konstrüktivizm akımının Türkçe karşılığı aşağıdakilerden hangisidir?
-    - A-) Gerçeküstücülük
-    - B-) Yapısökümcülük
-    - **Cevap C-) İnşacılık - Yapısalcılık**
-    - D-) Azcılık
-    - E-) Yapıcılık
-
-    > **Açıklama:** Konstrüktivizm, Rusya'da ortaya çıkan sanatsal ve mimari felsefedir ve Türkçede "inşacılık-yapısalcılık" olarak da bilinmektedir. Bu akım, fikri iletmek amacıyla nesnelerin, çizgilerin ve harflerin kullanımıyla grafik tasarım ürünleri üretmiştir.
-
-    <hr />
-
 ### Konstrüktivizm kurucuları
 
 1. Aşağıdakilerden hangisi Rusya'da ortaya çıkan Konstrüktivizm akımının kurucu sanatçılarından biridir? *(2 kez soruldu)*
@@ -641,6 +726,19 @@
     - E-) Lazar Markovich Lissitzki
 
     > **Açıklama:** Konstrüktivizm (inşacılık-yapısalcılık) 1915'te Rusya'da ortaya çıkmıştır. Ünite 5'te bu akımın kurucularından Rus ressam ve mimar Vladimir Tatlin'in yanı sıra Kazimir Maleviç ile birlikte avangardın önemli figürlerinden olduğu belirtilmektedir. Alexander Rodchenko da Konstrüktivizm'in önemli kurucularından biri olarak anılmaktadır.
+
+    <hr />
+
+### Konstrüktivizm kurucusu
+
+1. De Stijl sanat akımının başaladığı ülke aşağıdaki hangisidir? *(3 kez soruldu)*
+    - **Cevap A-) Hollanda**
+    - B-) İtalya
+    - C-) İngiltere
+    - D-) Almanya
+    - E-) Fransa
+
+    > **Açıklama:** Ünite 5'teki 'Konstrüktivizm Akımı ve Özellikleri' başlığına göre, 1915 yılında Rusya'da ortaya çıkan Konstrüktivizm akımının kurucularından biri Rus ressam ve mimar Vladimir Tatlin'dir. Tatlin, Kazimir Maleviç ile birlikte avangard sanatın önemli figürlerinden biriydi.
 
     <hr />
 
@@ -713,7 +811,7 @@
 
 ### Japon tipografisi
 
-1. Aşağıdakilerden hangisi Ukiyoe'nin tanımıdır? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi Ukiyoe'nin tanımıdır? *(3 kez soruldu)*
     - A-) Japon siyah-beyaz mürekkep resmidir.
     - **Cevap B-) Japon ahşap baskı sanatıdır.**
     - C-) Japon Sumi-e'nin renkli versiyonudur.
@@ -726,7 +824,7 @@
 
 ### Logo ve Sembolizm
 
-1. Sembollerin logo tasarımında kullanılmasının önemi ve etkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?
+1. Sembollerin logo tasarımında kullanılmasının önemi ve etkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur? *(2 kez soruldu)*
     - A-) Logo tasarımında sembollerin kullanımı, metinlerin anlaşılmasını sağlamak için gereklidir.
     - B-) Semboller, logo tasarımında karmaşıklığı artırarak iletişimi güçleştirir.
     - C-) Semboller, logo tasarımında metaforik iletişimi teşvik etmek için kullanılır.
@@ -736,14 +834,17 @@
     > **Açıklama:** Semboller, yazı dili icat edilmeden çok önce gelmiştir ve sembolik iletişim, metaforik iletişim yoluyla mesajı daha hızlı aktarır. Şirket logoları, kurumsal kimliğin merkezi ögesi olarak günümüzde iş dünyasının ve ekonominin yüzü hâline gelmiştir. Bu, 6. Ünite özetinde 'Logoda Sembolizm, Sembolik İletişim ve Semiyotik' başlığı altında açıklanmıştır.
 
     <hr />
-1. Sembollerin logo tasarımında kullanılmasının önemi ve etkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?
-    - A-) Logo tasarımında sembollerin kullanımı, metinlerin anlaşılmasını sağlamak için gereklidir.
-    - B-) Semboller, logo tasarımında karmaşıklığı artırarak iletişimi güçleştirir.
-    - **Cevap C-) Logo tasarımında sembollerin kullanımı, markanın neyle ilgili olduğunu özetleyen benzersiz bir sembol oluşturmayı amaçlar.**
-    - D-) Semboller, logo tasarımında metaforik iletişimi teşvik etmek için kullanılır.
-    - E-) Logolar, sembollerin ve gizemli olmasını gerektirir.
 
-    > **Açıklama:** Semboller, yazı dili icat edilmeden çok önce gelmiştir ve sembolik iletişim daha hızlı mesaj aktarımı sağlar. Logo, kurumsal kimlik tasarımının merkezi ögesidir ve günümüzde şirket logoları iş dünyasının ve ekonomimizin yüzü hâline gelmiştir. Bu durum, sembollerin görsel iletişimdeki gücünü ve önemini vurgular.
+### Sembol tanımı
+
+1. Sanat tarihinde gerçekçi olma geleneğini yıkan doğadan bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+    - A-) Futurizm
+    - B-) Art Deco
+    - C-) De Stijl
+    - D-) Sürrealizm
+    - **Cevap E-) Kubizm**
+
+    > **Açıklama:** Sembol, iletilmek istenen fikir veya kavramı, fiziksel forma doğrudan gönderme yapmadan (soyut olarak) temsil eden grafik elemandır. Ünite 6'da 'Logoda Sembolizm, Sembolik İletişim ve Semiyotik' başlığı altında, sembollerin mesajı hızlı bir şekilde aktardığı ve tasarımdaki belirli kavramsal öğeleri birbirine bağladığı belirtilmiştir.
 
     <hr />
 
@@ -835,6 +936,19 @@
     - E-) Armin Hoffman
 
     > **Açıklama:** Ünite 6'da Uluslararası Tipografik Stil (İsviçre Stili) geliştiricileri arasında Zürih ve Basel okullarından Josef Müller-Brockmann, Richard P. Lohse, Hans Neuburg, Carlo L. Vivarelli ve Karl Gestner sayılmıştır. Josef Müller-Brockmann, 'İsviçre Tasarım İlkeleri'ni uluslararası boyuta taşıyan öncülerdendir ve geometrik afiş analizi metninde adı geçen önemli isimdir.
+
+    <hr />
+
+### İsviçre Stili temel ilkeleri
+
+1. Tekrar eden harfler ile ses kavramını ifade etme denemeleri aşağıdaki sanat akımlarından hangisi ile başlamıştır? *(2 kez soruldu)*
+    - A-) Futurizm
+    - B-) Sürrealizm
+    - C-) Kubizm
+    - **Cevap D-) Dadaizm**
+    - E-) Caslon
+
+    > **Açıklama:** Ünite 6'daki 'Uluslararası Tipografik Stil' (İsviçre Stili) ile ilgili bilgilere göre, stil, matematiksel olarak çizilmiş bir ızgara (grid) üzerinde asimetrik düzenlemeleri, serifsiz harf karakterlerini ve tarafsız, net bir mesaj iletmeyi temel alır. Bu da netlik, minimalizm ve düzen gibi ilkeleri benimsediğini gösterir.
 
     <hr />
 
@@ -1026,7 +1140,7 @@
 
 ### Bézier Eğrileri
 
-1. \_\_\_\_\_\_ ile karmaşık şekiller oluşturulabilir, pürüzsüz uç noktalar, onları özellikle harf formları ve bilgisayar grafikleri oluşturmak için kullanışlı hale getirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. \_\_\_\_\_\_ ile karmaşık şekiller oluşturulabilir, pürüzsüz uç noktalar, onları özellikle harf formları ve bilgisayar grafikleri oluşturmak için kullanışlı hale getirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Postscript
     - B-) Mizanpaj
     - **Cevap C-) Bezier eğrileri**
@@ -1143,90 +1257,6 @@
 
 ## Ünite Diğer
 
-1. Kağıt ve matbaanın kökeninin dayandığı medeniyet aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Antik Yunanistan
-    - B-) Almanya
-    - **Cevap C-) Çin**
-    - D-) Mısır
-    - E-) Maya
-    <hr />
-1. Aşağıdaki yazı yüzeylerinin hangisinin daha kaliteli versiyonuna "Vellum" denilmiştir? *(3 kez soruldu)*
-    - **Cevap A-) Parşömen**
-    - B-) Papirüs
-    - C-) Kil tablet
-    - D-) Kağıt
-    - E-) Mermer
-    <hr />
-1. Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir? *(4 kez soruldu)*
-    - A-) Mısır
-    - B-) Çin
-    - C-) İndus
-    - **Cevap D-) Fenike**
-    - E-) Roma
-    <hr />
-1. Matbaacılık tarihinde ilk resimli İncil'i üreten kişi aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Martin Luther
-    - B-) Aldus Manutius
-    - **Cevap C-) Günther Zainer**
-    - D-) Albrect Dürer
-    - E-) Gutenberg
-    <hr />
-1. Dünya tarihinde bilinen ilk basılı kitap aşağıdakilerden hangisidir?
-    - **Cevap A-) Elmas Sutra**
-    - B-) Gutenberg İncili
-    - C-) Dresden Kodeksi
-    - D-) Kells Kitabı
-    - E-) Vatican Virgil
-    <hr />
-1. Fransa'da yalnızca kraliyetin kullanımı için tasarlanan yazıyüzü aşağıdakilerden hangisidir?
-    - A-) İtalik
-    - B-) Roman
-    - C-) Sans Serif
-    - **Cevap D-) Romain du Roi**
-    - E-) Serif
-    <hr />
-1. Aşağıdakilerden hangisi "Petroglif"in tanımıdır? Kayaların üzerine ellerin şablon gibi koyularak yapılan resimlerdir.<br />Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.<br />Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.<br />Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.<br />Kayaların üzerine fırça ile yapılan resimlerdir.
-    - A-) Kayaların üzerine ellerin şablon gibi koyularak yapılan resimlerdir.
-    - B-) Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.
-    - **Cevap C-) Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.**
-    - D-) Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.
-    - E-) Kayaların üzerine fırça ile yapılan resimlerdir.
-    <hr />
-1. "Şüpheye düştüğünüzde kullanın" özdeyişi matbaacılar arasında günümüze kadar gelmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Garamond
-    - B-) Baskerville
-    - C-) Didot
-    - D-) Bodoni
-    - **Cevap E-) Caslon**
-    <hr />
-1. Baskı teknolojisini Avrupa'ya getiren kâşif aşağıdakilerden hangisidir?
-    - A-) Kristof Kolomb
-    - **Cevap B-) Marco Polo**
-    - C-) Ricoldus de Monte Crucis
-    - D-) Pîrî Reis
-    - E-) Ugolino Vivaldi
-    <hr />
-1. Almanya'da bilinen en eski basım örneği bir -------şiirinin basıldığı bir kitap yaprağıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Virgil
-    - B-) Biblia Latina
-    - **Cevap C-) Sibylline**
-    - D-) Aristoteles
-    - E-) Ars Moriendi
-    <hr />
-1. Yazar John Ruskin ve Tasarımcı William Morris, 19. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı hissetmiştir. Bu duruş zamanla bir sanat hareketine dönüşmüştür. Yukarıdaki bilgiye göre, bu iki önemli ismin başlattığı sanat hareketi aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Viktorya Sanatı
-    - B-) Vienna Secession (Viyana Stili)
-    - C-) Jugendstil
-    - D-) Art Nouveau (Yeni Sanat)
-    - **Cevap E-) Arts&Crafts (Sanat&Zanaat)**
-    <hr />
-1. Aşağıdakilerden hangisi "Petroglif"in tanımıdır?
-    - A-) Kayaların üzerine fırça ile yapılan resimlerdir.
-    - B-) Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.
-    - **Cevap C-) Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.**
-    - D-) Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.
-    - E-) Kayaların üstüne ellerin şablon gibi koyularak yapılan resimlerdir.
-    <hr />
 1. İnsanlık tarihinin ilk resimli el yazmalarının ortaya çıktığı medeniyet aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) İnka
     - B-) İndus

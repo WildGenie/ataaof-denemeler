@@ -17098,7 +17098,8 @@
         "Text": "<p>Aşağıdakilerden hangisi “ikona” tanımı için doğrudur?</p>",
         "A": "<p>Sosyal medyada öne çıkan takip edilen kişilerdir</p> ",
         "B": "<p>Boya maddesi ile yumurta akı karıştırılmasından elde edilen boyadır</p> ",
-        "C": "<p>Kiliselerde  12 Bayram sahnelerinin tasvir edildiği duvar resmidir</p> ",
+        "C": "<p>Kiliselerde
+ 12 Bayram sahnelerinin tasvir edildiği duvar resmidir</p> ",
         "D": "<p>Boya ile ahşap panel üzerine yapılan dinî konulu resimlerdir</p>",
         "E": "<p>Tanrı’nın ak bir güvercin suretinde İsa’nın üzerine inmesi duvar resmidir</p>",
         "CorrectAnswer": "D",
@@ -17198,8 +17199,10 @@
         "QuestionId": 2936322,
         "UniteNo": 4,
         "PageNumber": 105,
-        "AnswerExplanation": "<p>Milion Taşı: Ayasofya’nın karşısında Sultanahmet Meydanı’nın kuzeybatı köşesinde bulunan Milion Taşı, Bizans İmparatorluğu’nda başkent İstanbul’a ulaşan tüm Antik Roma yollarının başlangıç noktası ve dünya üzerindeki diğer şehirlerin bu şehre uzaklığının hesaplanmasında kullanılan sıfır noktasıdır.</p>",
-        "Title": "<p>Milion Taşı: Ayasofya’nın karşısında Sultanahmet Meydanı’nın kuzeybatı köşesinde bulunan Milion Taşı, Bizans İmparatorluğu’nda başkent İstanbul’a ulaşan tüm Antik Roma yollarının başlangıç noktası ve dünya üzerindeki diğer şehirlerin bu şehre uzaklığının hesaplanmasında kullanılan sıfır noktasıdır.</p>",
+        "AnswerExplanation": "<p>Milion Taşı: Ayasofya’nın karşısında Sultanahmet Meydanı’nın kuzeybatı köşesinde bulunan Milion
+Taşı, Bizans İmparatorluğu’nda başkent İstanbul’a ulaşan tüm Antik Roma yollarının başlangıç noktası ve dünya üzerindeki diğer şehirlerin bu şehre uzaklığının hesaplanmasında kullanılan sıfır noktasıdır.</p>",
+        "Title": "<p>Milion Taşı: Ayasofya’nın karşısında Sultanahmet Meydanı’nın kuzeybatı köşesinde bulunan Milion
+Taşı, Bizans İmparatorluğu’nda başkent İstanbul’a ulaşan tüm Antik Roma yollarının başlangıç noktası ve dünya üzerindeki diğer şehirlerin bu şehre uzaklığının hesaplanmasında kullanılan sıfır noktasıdır.</p>",
         "Text": "<p>Tüm Antik Roma yolları ve Bizans'ın başlangıç noktası sayılan Millon taşı nerededir?</p>",
         "A": "<p>Ayasofya’nın karşısında Sultanahmet Meydanı’nın kuzeybatı köşesinde</p>",
         "B": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Beyazıt Meydanı’nda bulunan Teodosios Foru­munda</p> </div> </div> </div>",

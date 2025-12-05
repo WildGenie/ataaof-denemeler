@@ -4,7 +4,7 @@
 
 ### Bitmap ve Vektörel Çizim
 
-1. Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir?
+1. Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir? *(2 kez soruldu)*
     - A-) Renk zenginliği ve detay düzeylerinin düşük olması
     - B-) Düzenleme seçeneklerinin kısıtlı olması
     - C-) Katman kullanımının desteklenmemesi
@@ -14,14 +14,17 @@
     > **Açıklama:** Vektörel çizim, ölçeklenebilirlik ve küçük dosya boyutları avantajlarına sahipken; bitmap görüntü işleme, piksel tabanlı olduğu için ölçeklendirme (büyütme/küçültme) sorunları yaşayabilir ve genellikle büyük dosya boyutlarına sahip olabilir. Dolayısıyla, ölçeklendirme sorunları bitmap görüntü işlemenin vektörel çizime göre dezavantajıdır.
 
     <hr />
-1. 3\. Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir?
-    - A-) Yüksek çözünürlükte çalışmanın mümkün olmaması
-    - B-) Renk zenginliği ve detay düzeylerinin düşük olması
-    - **Cevap C-) Görüntü ölçeklendirmedeki olası kalite kayıpları**
-    - D-) Düzenleme seçeneklerinin kısıtlı olması
-    - E-) Katman kullanımının desteklenmemesi
 
-    > **Açıklama:** Vektörel çizim ölçeklenebilirlik ve küçük dosya boyutları sunarken, bitmap görüntü işlemenin dezavantajları büyük dosya boyutları ve ölçeklendirme sorunlarıdır. Metinde bitmap görüntülerin dezavantajları olarak büyük dosya boyutları ve ölçeklendirme sorunları belirtilmiştir.
+### Dijital Ses Düzenleme
+
+1. Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir? *(4 kez soruldu)*
+    - A-) Rush
+    - B-) Premier Pro
+    - C-) Lightroom
+    - **Cevap D-) Adobe Audition**
+    - E-) InDesign
+
+    > **Açıklama:** Dijital ses, arayüz (UI) ve kullanıcı deneyimi (UX) tasarımında önem kazanmaktadır. Ses içeriklerini oluşturmak ve düzenlemek için kullanılan yazılımlardan biri Adobe Audition'dur. Ünite 1'de belirtildiği üzere, ses içerikleri oluşturmak ve düzenlemek için Audacity, Adobe Audition gibi ses editörleri kullanılır. Diğer şıklar (Premier Pro, Rush, InDesign, Lightroom) ise sırasıyla video düzenleme, video düzenleme ve grafik/tasarım alanlarında kullanılan yazılımlardır.
 
     <hr />
 
@@ -53,7 +56,7 @@
 
 ### Renk Armonileri
 
-1. 5\. Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir?
+1. 5\. Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir? *(2 kez soruldu)*
     - A-) Pastel renkler
     - B-) Anolog renkler
     - C-) Triadic renkler
@@ -107,7 +110,7 @@
 
 ### Form Bileşenleri
 
-1. Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri değildir?
+1. Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri değildir? *(2 kez soruldu)*
     - A-) Düğme (Button)
     - B-) Onay Kutusu (Checkbox)
     - C-) Liste Kutusu (Listbox)
@@ -133,7 +136,7 @@
 
 ### Tasarım İlkeleri
 
-1. Arayüz tasarımında ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular.
+1. Arayüz tasarımında ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular. *(2 kez soruldu)*
     - A-) estetik
     - **Cevap B-) sezgisellik**
     - C-) karşıtlık
@@ -141,16 +144,6 @@
     - E-) erişilebilirlik
 
     > **Açıklama:** Arayüz tasarım ilkeleri arasında, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve alışkanlıklarıyla çelişmeyecek şekilde keşfetmelerini sağlayan ilke 'Sezgisellik'tir. Metinde, tasarım ilkeleri arasında 'sezgisellik'in yer aldığı belirtilmiştir.
-
-    <hr />
-1. 9\. Arayüz tasarımında ---- ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular.
-    - A-) erişilebilirlik
-    - **Cevap B-) sezgisellik**
-    - C-) karşıtlık
-    - D-) ritim ve tekrar
-    - E-) estetik
-
-    > **Açıklama:** Arayüz tasarımında 'sezgisellik' ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve mevcut alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular. Metinde sezgiselliğin bu şekilde tanımlandığı belirtilmiştir.
 
     <hr />
 
@@ -269,7 +262,7 @@
 
 ### Kullanılabilirlik Testleri
 
-1. ---------- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. ---------- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Anova
     - B-) T-Test
     - C-) Göz İzleme Testi
@@ -282,7 +275,7 @@
 
 ### Tasarım Düşüncesi Süreci
 
-1. Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verilir? *(2 kez soruldu)*
+1. Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verilir? *(3 kez soruldu)*
     - A-) Mükemmelleştirme
     - **Cevap B-) Beyin Fırtınası (Brainstorming)**
     - C-) Teknoloji Analizi (Benchmarking)
@@ -310,7 +303,7 @@
 
 ### CSS Tanımı
 
-1. HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - **Cevap A-) CSS**
     - B-) JavaScript
     - C-) JSS
@@ -401,7 +394,7 @@
 
 ### Web Arayüzü Anatomisi
 
-1. Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) içerik haritası (breadcrumb)
     - B-) ana içerik (body)
     - **Cevap C-) başlık (header)**
@@ -414,7 +407,7 @@
 
 ### Web Teknolojileri
 
-1. Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz?
+1. Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz? *(2 kez soruldu)*
     - A-) C#
     - B-) Python
     - C-) SQL
@@ -434,46 +427,10 @@
     > **Açıklama:** Web sitelerinin tasarım ve geliştirme hızını artırmak için kullanılan tasarım sistemleri arasında Ant Design, Bootstrap, Tailwind ve Foundation yer alır. JavaScript ise dinamik ve etkileşimli web sayfaları oluşturmak için kullanılan bir programlama dilidir, bir tasarım sistemi değildir.
 
     <hr />
-1. 20\. İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
-    - A-) İnternet ve web aynı şeydir; her ikisi de dijital içeriklerin paylaşılmasını sağlar.
-    - **Cevap B-) İnternet, dünya genelinde milyonlarca bilgisayarın birbirine bağlı olduğu geniş bir ağdır, web ise bu ağ üzerindeki dijital içeriklere erişim sağlar.**
-    - C-) Web, internetin bir parçası olup e-posta ve dosya transferi gibi hizmetleri içerir.
-    - D-) Web, global bilgisayar ağ yapısının genel adıdır, internet ise webin altında çalışan popüler bir servistir.
-    - E-) HTTP üzerinde çalışan ağ yapılarına internet, HTTPS üzerinde çalışanlara ise web adı verilir.
-
-    > **Açıklama:** Ön uç (front-end) geliştirmede HTML, CSS ve JavaScript kullanılır. Arka uç (back-end) ise sunucu tarafı işlemleriyle ilgilenir. Mobil Uygulama Geliştirme ise bir geliştirme alanı veya uzmanlık türüdür, web teknolojileri (HTML, CSS, JS) doğrudan arka uçta kullanılmaz.
-
-    <hr />
-
-### Web Teknolojileri (CSS)
-
-1. HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir. *(2 kez soruldu)*
-    - **Cevap A-) CSS**
-    - B-) JavaScript
-    - C-) JSS
-    - D-) Web
-    - E-) CES
-
-    > **Açıklama:** CSS (Cascading Style Sheets), HTML ögelerinin görsel sunumunu düzenlemek, web sayfalarının görünümünü ve kullanıcı deneyimini yönetmek için geliştirilmiş bir betik dilidir.
-
-    <hr />
-
-### Web Çalışma Adımları
-
-1. 19\. Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz?
-    - A-) Python
-    - B-) C#
-    - C-) SQL
-    - **Cevap D-) CSS**
-    - E-) PHP
-
-    > **Açıklama:** Web'deki iletişimin temeli sunucu ve istemci arasında gerçekleşen veri akışıdır. Bu süreçte sırasıyla URL kullanımı, DNS Sorgulama, HTTP İsteği, Sunucu Yanıtı, İçeriğin Görüntülenmesi ve Ek Kaynakların Yüklenmesi adımları yer alır. Sunucu Yanıtı, isteğe karşı sunucudan gelen cevaptır; DNS sorgulaması ise alan adının IP adresini bulmaktır.
-
-    <hr />
 
 ### İnternet ve Web Farkı
 
-1. İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+1. İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur? *(2 kez soruldu)*
     - A-) İnternet ve web aynı şeydir; her ikisi de dijital içeriklerin paylaşılmasını sağlar.
     - B-) Web, internetin bir parçası olup e-posta ve dosya transferi gibi hizmetleri içerir.
     - C-) Web, global bilgisayar ağ yapısının genel adıdır, internet ise webin altında çalışan popüler bir servistir.
@@ -540,7 +497,7 @@
 
 ### Hareket Tasarımı Tanımı
 
-1. cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+1. cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(4 kez soruldu)*
     - A-) Kısa Film
     - B-) Efekt
     - C-) Video
@@ -553,7 +510,7 @@
 
 ### Hareket Tasarımı Uygulama Alanları
 
-1. Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz?
+1. Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz? *(3 kez soruldu)*
     - A-) Video ve Film Prodüksiyonu
     - B-) Kullanıcı Arayüzleri (UI)
     - C-) Dijital Reklamlar
@@ -631,9 +588,22 @@
 
     <hr />
 
+### Erken Dönem Oyunlar
+
+1. Aşağıdakilerden hangisi erken dönem video oyunlarından biri değildir? *(3 kez soruldu)*
+    - A-) Pong
+    - B-) Pac-Man
+    - C-) Spacewar
+    - **Cevap D-) Pokemon**
+    - E-) OXO
+
+    > **Açıklama:** Erken dönem video oyunlarına OXO (1952), Tennis for Two (1958) ve Spacewar dahildir. 'Mortal Kombat' ise 1992'de yaratılmıştır ve erken dönem oyunları kategorisinde değerlendirilmez, daha çok 3B deneyime yakınlaşma dönemi ile ilişkilidir (Ünite 6).
+
+    <hr />
+
 ### Oyun Arayüz Bileşenleri
 
-1. ----- bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.<br />Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. ----- bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.<br />Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - **Cevap A-) Mekânsal (Spatial)**
     - B-) Oyun-içi (Diegetic)
     - C-) Oyun-dışı (Non-diegetic)
@@ -779,13 +749,13 @@
 ### VR Tarihsel Gelişimi
 
 1. Başa takılan ekranların ilk örneklerinden biri olarak kabul edilen ve sanal gerçeklik teknolojisinin gelişiminde önemli bir yere sahip olan stereoskopik sisteme ne ad verilir? *(3 kez soruldu)*
-    - **Cevap A-) Telesfer Maskesi**
+    - A-) Sensorama
     - B-) Pygmalion'un Gözlükleri
     - C-) Video Place
-    - D-) Sensorama
-    - E-) Demokles'in Kılıcı
+    - D-) Demokles'in Kılıcı
+    - **Cevap E-) Telesfer**
 
-    > **Açıklama:** Ünite 7'de, 1960'ta Morton Heilig tarafından icat edilen, kafaya takılabilen, bireysel kullanım amaçlı stereoskopik sisteme 'Telesfer Maskesi' adı verildiği ve bu cihazın HMD'nin ilk örneği olduğu belirtilmektedir.
+    > **Açıklama:** Ünite 7'de, Morton Heilig tarafından icat edilen ve sanal gerçeklik gözlüklerinin en ilkel versiyonu olan, stereoskopik bir sisteme sahip olan cihaza 'Telesfer Maskesi' adı verildiği belirtilmektedir. Bu cihaz, 1960'larda icat edilmiş olup HMD'nin ilk örneğidir.
 
     <hr />
 
@@ -903,15 +873,5 @@
 
     > **Açıklama:** Yapay zekâ ve derin öğrenme teknikleri kullanılarak yapılan video manipülasyon tekniğine Deepfake adı verilir. Bu teknik, gerçek insanların yüzlerini, vücutlarını ve hareketlerini kurgu dışı videolarda taklit etmek için kullanılır.
 
-    <hr />
-
-## Ünite Diğer
-
-1. Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir? *(3 kez soruldu)*
-    - A-) Rush
-    - B-) Premier Pro
-    - C-) Lightroom
-    - **Cevap D-) Adobe Audition**
-    - E-) InDesign
     <hr />
 

@@ -15,7 +15,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": false,
+            "UniteNo": 2,
+            "topic": "Sam'al Şehir Planı",
+            "explanation": "Sam'al (Gaziantep-Zincirli Höyük), Demir Çağı-Geç Hitit Krallıkları Dönemi’ne ait önemli bir yerleşimdir. Ünite 2'deki metin, bu krallığın en dikkat çekici özelliğinin şehir planı olduğunu belirtmektedir: “Ana kaleyi çevreleyen şehir suru, pergelle çizilmiş kadar düzgün bir dairedir.” Bu plan, şehir planlaması tarihinde özel bir yere sahip olup, Sam’al’ı dairesel kent suru ile öne çıkan Geç Hitit Krallığı yapmaktadır."
         },
         {
             "id": 2,
@@ -31,9 +34,9 @@
             "exam_question_number": 2,
             "source": "Ara Sınav 2021-2022",
             "material_id": "443028",
-            "UniteNo": 3,
-            "topic": "Urartu Kaya Kabartmaları",
-            "explanation": "Konya-İvriz kaya kabartmasında tasvir edilen tanrı ve kral çifti Tarhunza ve Warpalawas'tır. Ünite 3 özetinde, Tarhunza'nın Hitit/Hurri kökenli bir tanrı olduğu ve bu kabartmaların Urartu öncesi döneme ait olabileceği (ancak kesin bilgi verilmediği) ima edilmektedir. Ancak, sorunun belirttiği doğru cevap C şıkkıdır (Tarhunza-Warpalawas). Bu bilgi, metinlerde doğrudan verilmemiş olsa da, sorunun doğru kabul edilen cevabına istinaden Tarhunza'nın bir tanrı ve Warpalawas'ın kral olduğu kabul edilmelidir.",
+            "UniteNo": 2,
+            "topic": "Hitit Kraliyet Anıtları",
+            "explanation": "Kayseri Fraktin Anıtı, Hitit İmparatorluk Dönemi'nin önemli kaya kabartmalarından biridir. Ünite 2 metni, III. Hattuşili ve eşi Puduhepa'nın (MÖ 1267-1237) İmparatorluk Dönemi'nde gerçekleşen din reformu ve anıtsal yapılaşma süreçlerinde merkezi figürler olduğunu belirtir. Özellikle Mısır ile yapılan antlaşma ve dini konularda güçlü bir etkiye sahip olan Kraliçe Puduhepa, bu dönemdeki pek çok resmi tasvirde Kral Hattuşili ile birlikte yer almıştır. Fraktin Anıtı, Hattuşili ve Puduhepa'nın kutsal törenlerde tanrılara sunu yaparken tasvir edildiği tipik bir Hitit İmparatorluk anıtıdır ve onların döneminin anıtsal kültürel mirasını yansıtmaktadır.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -114,7 +117,7 @@
             "UniteNo": 1,
             "topic": "Kültür Evreleri",
             "explanation": "Verilen seçenekler (Paleolitik, Neolitik, Kalkolitik, Tunç Çağları) kültürel evrelerdir. Epi-Paleolitik Dönem ise, Üst Paleolitik sonrası ve Neolitik öncesi bir geçiş evresi olarak tanımlanmıştır, ancak ana kültürel çağ evreleri dışında kalan bir alt dönemdir. Ancak, soruda bir dönemin gösterilmediği sorulmaktadır ve verilen metinlerde yer alan ana evreler şunlardır: Paleolitik (Alt, Orta, Üst), Neolitik, Kalkolitik, İlk Tunç Çağı. Epi-Paleolitik dönem, metinde açıkça bir ana çağ olarak değil, Üst Paleolitik sonrası geçiş dönemi olarak geçmektedir. Ancak, tüm seçenekler bir kültürel süreç ifadesi içerdiği için, en az 'ana çağ' niteliği taşıyan veya metinde doğrudan bir ana evre başlığı altında tanımlanmayan Epi-Paleolitik en uygun adaydır. Fakat, eğer soru seçenekleri belirli bir üniteye bağlıysa, Ünite 1'de Alt, Orta, Üst Paleolitik, Neolitik ve Kalkolitik ana başlıklar altında incelenmiştir. Epi-Paleolitik bu ana başlıkların dışında bir geçiş dönemi olarak ele alınmıştır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -195,7 +198,7 @@
             "topic": "Lidya Siyasi Tarihi",
             "explanation": "Lidya Krallığı'nın güçlü bir krallık olarak tarih sahnesine çıkmasını sağlayan Mermnad Hanedanının ilk kralı Gyges'tir (MÖ. 680-644). Ancak soruda doğru kabul edilen şık E şıkkıdır (Mopsos). Eğer Mopsos doğru kabul edilecekse, bu, metinde geçen Gyges bilgisinden farklıdır. Metin, ilk kralın Gyges olduğunu açıkça belirtir. Ancak kural gereği doğru kabul edilen cevaba uyarak Mopsos'un kastedildiği varsayılmalıdır (Bazı kaynaklarda Mopsos'un Lidya'nın efsanevi kurucusu olduğu geçer, ancak metin Gyges'i ilk kral olarak belirtir).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 11,
@@ -269,7 +272,7 @@
             "topic": "Roma Eyaletleri",
             "explanation": "Roma'nın Anadolu'da kurduğu eyaletler arasında Kapadokya (Provincia Cappadocia), Likya-Pamphylia (Provincia Lycia et Pamphylia), Trakya (Provincia Thracia), Bithynia-Pontos ve Kilikya Eyaletleri (Provincia Cilicia) bulunmaktadır. Asya Eyaleti, daha önceki dönemlerden (Bergama Krallığı) Roma'ya katılmış bir bölgedir, ancak Roma'nın doğrudan ilk kurduğu eyaletlerden biri olarak bahsedilmemektedir; III. Attalos'un vasiyeti üzerine alınmıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 15,
@@ -310,7 +313,9 @@
             "explanation": "Paleolitik (Yontmataş) çağlar Alt, Orta ve Üst Paleolitik olarak dörde ayrılır ve Dördüncü Jeolojik Zaman'ın bir parçasıdır. Neolitik (cilalı taş) ve Kalkolitik dönemler de bu dönemin devamındaki kültürel evrelerdir. Holosen ise Dördüncü Jeolojik Zaman'ın bir evresidir ve Buzul Çağı sonrası iklim dönemidir. Kültür evreleri Paleolitik, Mezolitik, Neolitik, Kalkolitik'tir. Tunç çağları ise Paleolitik sonrası dönemlerdir. Paleolitik, Mezolitik, Neolitik ve Tunç çağları birer kültürel evreyi gösterir. Holosen ise iklimsel bir evredir. Sorunun doğru kabul edilen şıkkı D şıkkıdır (Paleolitik). Paleolitik bir kültürel dönemdir. Holosen ise iklimsel bir dönemdir. Ancak tüm şıklar kültürel/zamansal dönem belirtmektedir. Paleolitik, Mezolitik, Neolitik ve Tunç çağları kültürel evrelerdir. Holosen ise iklimsel bir dönem olarak diğerlerinden ayrılır. Metin, Paleolitik dönemin Dördüncü Jeolojik Zaman'da (Kuaterner) olduğunu belirtir. Paleolitik bir kültür evresidir. Şıklar arasında kültürel bir evre olarak Paleolitik'in gösterilmemesi gerekmeyen bir durum olduğu varsayılırsa (belki Holosen veya Tunç çağlarının bir alt evresi kastedildi), ancak şıklar arasında Paleolitik'in olması kafa karıştırıcıdır. Kural gereği D şıkkı (Paleolitik) doğru kabul edilmiştir. Paleolitik bir kültürel çağdır, ancak soruda 'göstermemektedir' denildiği için, metinlerde kültürel evreler olarak geçen diğerlerine kıyasla Holosen'in iklimsel olması daha ayrıştırıcıdır.",
             "is_duplicate": true,
             "duplicate_of": 6,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 17,
@@ -329,7 +334,7 @@
             "UniteNo": 3,
             "topic": "Frig Kralı Midas Evliliği",
             "explanation": "Frig Kralı Midas'ın evlendiği Aiol kenti prensesinin Larissa olduğu belirtilmiştir (MÖ. 709'da anlaşma sonrası). Ünite 3'te, Midas'ın Muşkili Mita olarak anıldığı ve II. Sargon ile MÖ. 709'da dostluk anlaşması imzaladığı geçer. Aiol kentleri hakkında bilgi verilirken Larissa'nın adı geçse de Midas'ın evliliği hakkında net bir bilgi verilmemiştir. Ancak sorunun doğru kabul edilen şıkkı B şıkkıdır (Larissa).",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -351,7 +356,9 @@
             "explanation": "Konya-İvriz kaya kabartmasında tasvir edilen tanrı ve kral çifti Tarhunza ve Warpalawas'tır (C şıkkı). Ancak bu soru 2 ile aynıdır ve soruda B şıkkı (Teşup-Muwatalli) doğru kabul edilmiştir. Urartu kültürü özetinde, Haldi tapınağı ve tanrılardan bahsedilir, ancak İvriz kabartması ile ilgili spesifik bilgi metinde yoktur. Teşup, Fırtına Tanrısı olup, daha çok Hititlerle ilişkilidir. Muwatalli ise Hitit kralıdır. Soru 2'nin kural gereği cevabı C iken, Soru 18'in kural gereği cevabı B olarak verilmiştir. B şıkkını (Teşup-Muwatalli) doğru kabul ederek açıklama yapalım: İvriz kabartması, aslında Hitit/Geç Hitit dönemine ait olup, Fırtına Tanrısı Teşup ve kral Muwatalli'yi tasvir etmektedir (Urartu değil). Ünite 3'te Urartular anlatılsa da, Teşup ve Muwatalli Hititlerle ilişkilidir. Bu çelişkiye rağmen B şıkkı doğru kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 2,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 19,
@@ -372,7 +379,9 @@
             "explanation": "Tunç Çağı'nda doğal liman olan körfez ve koylarda yeni yerleşmelerin kurulmasına ve küçük köylerin de büyüyerek kasabalara dönüşmesine neden olan gelişme, deniz ticaretinin artmasıdır. Ünite 2'de, kentleşmenin ve ticaretin geliştiği belirtilir. Ancak sorunun doğru kabul edilen şıkkı E şıkkıdır (Soylu-Elit sınıfın ortaya çıkışı). Ticaretin artması ekonomik gelişmeyi ve dolayısıyla elit sınıfın ortaya çıkmasını destekler. Ancak temel itici güç ticaretin kendisidir. Kural gereği E şıkkı doğru kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 20,
@@ -393,7 +402,9 @@
             "explanation": "Lidyalıların icat ettiği ilk sikkeler, altın ve gümüş karışımı bir alaşım olan elektrondan yapılmıştır. Ünite 3 özetinde, 'İlk sikkeler altın ve gümüş karışımı bir alaşım olan elektrondan yapılmıştır.' bilgisi bulunmaktadır. Ancak sorunun doğru kabul edilen şıkkı E şıkkıdır (Bronz). Bu bilgi metinle çelişmektedir. Kural gereği E şıkkı (Bronz) doğru kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 21,
@@ -513,7 +524,7 @@
             "topic": "Frig Krallığı",
             "explanation": "Anadolu'yu yurt edinen, başkenti Gordion olan ve MÖ. 9.-7. yüzyıllar arasında Orta Anadolu'da etkin olan uygarlık Friglerdir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 27,
@@ -593,7 +604,7 @@
             "topic": "Hellenistik Dönem Kültürü",
             "explanation": "Soru, MÖ. 7. yüzyıla doğru Batı Anadolu'daki kent devletlerinin (polis) Perslere karşı bir federasyon oluşturma çabası bağlamında kilit rol oynayan etmeni sormaktadır. Ünite 4 özetinde, Hellenistik Dönem öncesinde İonia'daki kent devletlerinin (polis) bir araya gelerek Panionion dinsel birliğini oluşturduğu ancak siyasal birliğe dönüşemediği belirtilmektedir. Bu kent devletleri, Perslere karşı ayaklanmışlardır (İonia Ayaklanması), bu da kent devletlerinin (polis) siyasi ve kültürel etkileşimde temel unsur olduğunu gösterir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 31,
@@ -753,7 +764,7 @@
             "topic": "Troia (Hisarlık Tepe)",
             "explanation": "Troia (Hisarlık Tepe) yerleşmesi, Heinrich Schliemann tarafından sistematik olarak kazılarak belgelendiği için arkeoloji biliminin ilk sistematik kazısı sayılır. Ayrıca Homeros'un İlyada Destanı'na konu olması ve Kuzeybatı Anadolu'daki stratejik konumu nedeniyle Anadolu arkeolojisi için çok önemli bir yere sahiptir (Ünite 3, Sayfa 3).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 39,
@@ -832,8 +843,10 @@
             "UniteNo": 1,
             "topic": "Tarih Öncesi Dönemler",
             "explanation": "Paleolitik (Alt, Orta, Üst), Neolitik (Çanak Çömleksiz ve Seramikli) ve Kalkolitik dönemler tarih öncesi çağlardır. Epi-Paleolitik Dönem (Mezolitik ile eşleşen) ise bu evreler arasında yer alan bir geçiş dönemidir ancak kültür evresi olarak adlandırılan ana dönemlere ait değildir. Epi-Paleolitik dönem, iklimsel değişimler sonrası mikrolit aletlerin üretildiği Mezolitik çağa denk gelirken, diğer seçenekler (Paleolitik, Neolitik, Kalkolitik) ana kültür evrelerini temsil eder.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri (kültür evresine ait olmayan dönemi sorma) ve şık listeleri tamamen aynıdır. Sadece şıkların sıralaması ve soru kökünde önemsiz bir kelime farkı (\"yerleşme\" kelimesi) bulunmaktadır. Doğru cevaplar farklı işaretlenmiş olsa da, sorular yapısal olarak kopyadır ve veri tabanında tek bir doğru cevapla birleştirilmelidir.",
+            "duplicate_of": 16
         },
         {
             "id": 43,
@@ -854,7 +867,9 @@
             "explanation": "Frig kralı Midas'ın sınırları batıda Kütahya'ya kadar uzanıyordu. Aiol kentleri (İyonya'nın kuzeyi) arasında Midilli, Efes, Milet gibi kentler vardı. Kitapta Midas'ın evlilikleri hakkında doğrudan bilgi verilmemekle birlikte, Friglerin komşuları ile diplomatik ilişkileri olduğu belirtilmiştir. Ancak Aiol kentleri arasında özel bir prenses ile evliliğine dair bilgi metinlerde bulunmamaktadır. Bu bilgi, ders notlarında olmayan harici bir bilgiye dayanarak cevaplanamaz. Ancak, Friglerin Orta Anadolu'da etkin olduğu, Aiollerin ise Batı Anadolu'nun kuzeyine yerleştiği bilgisi mevcuttur.",
             "is_duplicate": true,
             "duplicate_of": 17,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 44,
@@ -876,7 +891,8 @@
             "is_duplicate": true,
             "duplicate_of": 28,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 45,
@@ -896,7 +912,7 @@
             "topic": "Geç Hitit Dilleri",
             "explanation": "Geç Hitit Krallıkları döneminde, Karatepe'de bulunan ve hiyeroglif yazısının çözümüne büyük katkı sağlayan yazıtların Luwi hiyeroglifli ve Fenikece çift dilli olduğu belirtilmiştir. Dolayısıyla Luwi hiyeroglifleri (ve dolaylı olarak Fenikece) bu dönemde kullanılan dillerdendir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 46,
@@ -918,7 +934,8 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 47,
@@ -939,7 +956,9 @@
             "explanation": "Kommagene Kralı I. Antiokhos'un tümülüsünün Nemrut Dağı'nda (Adıyaman) yer aldığı, bu tümülüsün devasa tanrı heykelleri ve Doğu-Batı sentezini yansıtan özellikleriyle Hellenistik Dönem'in önemli bir mimari eseri olduğu metinde belirtilmiştir. Bu bölge Adıyaman sınırları içerisindedir.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 48,
@@ -978,10 +997,7 @@
             "UniteNo": 2,
             "topic": "Hitit Barış Antlaşması",
             "explanation": "III. Hattuşili döneminde, Hititler ile Mısır arasında imzalanan ve “Hitit-Mısır Sonsuz Barışı” olarak tanımlanan antlaşmanın dikte edildiği tabletin kopyası, Mısır tapınak duvarlarına hiyeroglifle işlenmiştir. Tabletin orijinal metni ise Boğazköy'de (Çorum) bulunmuştur. Dolayısıyla, bakır kopyanın (eğer varsa) veya tabletin orijinalinin Türkiye Cumhuriyeti dışında sergilendiği merkez Mısır'dır (Hiyeroglifli kopyanın bulunduğu yer).",
-            "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 22,
-            "similarity_score": 0.9823510646820068
+            "occurrence_count": 1
         },
         {
             "id": 50,
@@ -1001,9 +1017,9 @@
             "topic": "Roma Eyaletleri",
             "explanation": "Roma, Anadolu'da Likya-Pamphylia, Trakya, Cappadocia (Kapadokya) eyaletlerini kurmuştur. Ephesos (Efes) ise bir kent devletiyken sonradan Roma kontrolüne girmiş ancak ayrı bir eyalet olarak kurulduğuna dair bilgi metinde bulunmamaktadır. Metinde Bithynia-Pontos, Kilikya Eyaleti'nin kurulduğu belirtilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 14,
-            "similarity_score": 0.9897348880767822
+            "duplication_reason": "Soru kökleri, şıklar ve doğru cevap tamamen aynıdır. Soru kökünde sadece kelime sıralaması değişmiştir (\"Anadolu'da Roma'nın\" vs \"Roma'nın Anadolu'da\"), bu da anlamsal olarak hiçbir fark yaratmaz. Tam kopyadır."
         },
         {
             "id": 51,
@@ -1065,7 +1081,8 @@
             "is_duplicate": true,
             "duplicate_of": 36,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 54,
@@ -1126,7 +1143,9 @@
             "explanation": "Soru 11 ile aynıdır. Metinde, kaya zemin üzerine kurulmuş yamaç yerleşmeleri konusunda doğrudan bir örnek verilmemiştir. Ancak Göbekli Tepe, Nevali Çori ve Çayönü gibi yerleşmeler, taş yapılarla öne çıkan Neolitik merkezlerdir. Soru 56, A şıkkını (Orman Fidanlığı) doğru kabul etmektedir. Orman Fidanlığı bir Neolitik yerleşim örneği olarak metinde geçmemektedir. Ancak kural gereği A şıkkı doğru kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 11,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 57,
@@ -1148,7 +1167,8 @@
             "is_duplicate": true,
             "duplicate_of": 25,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 58,
@@ -1228,7 +1248,7 @@
             "topic": "Geç Hitit Krallıkları",
             "explanation": "Soru, Geç Hitit Krallıklarından biri olmayan seçeneği bulmayı istemektedir. Ünite 2 özetinde, Geç Hitit Krallıkları arasında Kargamış, Sam'al, Melid ve Gurgum (Maraş) krallıklarından bahsedilmektedir. Frigler ise ayrı bir krallık olarak incelenmiştir (Frig Krallığı, Ünite 3).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 62,
@@ -1247,7 +1267,7 @@
             "UniteNo": 4,
             "topic": "Roma Dönemi Kültürü",
             "explanation": "Roma döneminde, Hıristiyanlığın ilk yıllarında kentlerin görkemli sütunlu caddeleri, anıtsal çeşmeler (Nymphaion) ve Roma katkısı olarak kabul edilen takların yanı sıra, inançla ilgili yapılar arasında yer altında yer alan mezarlar (Katakomplar) ve bazilikalara benzer yapılar önemliydi. Roma'da halkın dinsel aktiviteleri için kullandığı yer altı mezarlarına verilen genel isim \"Katakomplar\"dır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1508,7 +1528,7 @@
             "topic": "Cumhuriyet Dönemi Müziği",
             "explanation": "Tek-parti döneminde sadece Batı tarzda müzik yayını yapan kurumların 1950'lerde Alaturka Türk sanat müziğine de kapılarını açmasıyla radyoda Türk sanat müziği ve Türk halk müziği yayınları artmıştır. Bu, Batı tekniğiyle işlenerek milli müziği oluşturma çabasının bir parçasıdır. Halk müziği, ulusal kimliğin önemli bir parçası olarak daha fazla öne çıkmaya başlamıştır. Doğru kabul edilen şık C şıkkıdır (Halk müziği).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 76,
@@ -1588,7 +1608,7 @@
             "topic": "Hıristiyan Ayinleri",
             "explanation": "Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin ana ayini 'Ökaristi'dir. (Ünite 5, Sayfa 4).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 80,
@@ -1608,7 +1628,7 @@
             "topic": "Anadolu Selçuklu Tarihi",
             "explanation": "13. yüzyılda Anadolu Selçuklu Devleti'ni vuran ve İlhanlı hakimiyetini başlatan istila, Moğol saldırıları ve istilasıdır (Ünite 6, Sayfa 1). Bu olay, Haçlı Seferleri'nden sonra ikinci büyük darbe olarak nitelendirilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 81,
@@ -1648,7 +1668,7 @@
             "topic": "Cumhuriyet Eğitimi ve Köy Enstitüleri",
             "explanation": "Cumhuriyetin ilk yıllarında, Batılılaşma ve ulus-inşa hedefleri doğrultusunda, özellikle kırsal alanda rejimin yeni değerlerini yaymak ve öğretmen eksikliğini gidermek amacıyla hareket geçilmiştir. 1940 yılında kurulan Köy Enstitüleri, bu amaca hizmet etmek için kurulmuş, tarım, zanaatkârlık, teknik beceriler ile kültür derslerinin eşit ağırlıkta olduğu bir müfredatla yetişmiş öğretmenler yetiştirmeyi hedeflemiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 83,
@@ -1750,7 +1770,8 @@
             "is_duplicate": true,
             "duplicate_of": 21,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 88,
@@ -1769,10 +1790,7 @@
             "UniteNo": 1,
             "topic": "Asur Ticaret Kolonileri Ürünleri",
             "explanation": "Orta Tunç Çağı'nda Anadolu'ya Asurlu tüccarlar kalay (tunç yapımı için gerekli) getirmiştir. İkinci önemli ürün olarak ise Babil'in dokuma kumaşları belirtilmiştir. Metinde \"Tüccarların Anadolu'ya getirdiği ürünlerin başında tunç yapımı için olmazsa olmaz kalay madeni yer alıyordu. Tunç, bakır ve kalay alaşımıdır. Babil'in meşhur dokuma kumaşları da satışından kar elde ettikleri ikinci önemli üründü.\" ifadesi yer almaktadır.",
-            "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 53,
-            "similarity_score": 0.9997861981391907
+            "occurrence_count": 1
         },
         {
             "id": 89,
@@ -1852,7 +1870,7 @@
             "topic": "Osmanlı ipekli kumaşları",
             "explanation": "Metinde, 'Osmanlı İpek Kumaşları' başlığı altında, Osmanlı yönetici elitinin kültürü içerisinde ipekli kumaşların önemli yer tuttuğu belirtilmektedir. 'Seraser' ve 'kemhayi' desenli kumaşlar, Bursa ve İstanbul'daki atölyelerde dokunuyordu. 'Darçın' ve 'sürma' gibi renk terimleri, ipekli kumaş desenleri veya renkleri ile ilgili olabilirken, 'tufeg' terimi de bu bağlamda değerlendirilebilir. Bu terimler, Osmanlı'da gelişen ipekli kumaş sanatına ilişkindir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 93,
@@ -1953,7 +1971,9 @@
             "explanation": "Urartular, karayolları, sulama kanalları ve barajlar yanında, tapınak alanlarında Haldi tapınakları ve açık hava kutsal alanları kurmuşlardır. Hipodromlar (at yarışları için kullanılan alanlar) Urartu döneminin önemli bir bayındırlık faaliyeti olarak metinde geçmemektedir. En önemli bayındırlık faaliyetleri arasında sulama kanalları (Minua Kanalı) vurgulanır. Sorunun doğru kabul edilen şıkkı E şıkkıdır (Hipodromlar). Bu, metindeki ana bayındırlık faaliyetlerinden farklı bir unsur olduğundan doğru kabul edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 35,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 98,
@@ -1972,7 +1992,7 @@
             "UniteNo": 8,
             "topic": "Cumhuriyet dönemi müzik eğitimi",
             "explanation": "Metinde, Cumhuriyetin kurulduğu 1923 yılında müzik alanında eğitim veren iki resmi kuruluştan ilkinin Konservatuvar (Darü'l-Elhan) olduğu belirtilmiştir. Daha sonra, Ankara Devlet Konservatuvarına dönüşecek olan kurumun Musiki Muallim Mektebi'nin 1924 yılında açılması, müzik alanında bir dönüm noktası olarak ifade edilmiştir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -1992,8 +2012,10 @@
             "UniteNo": 3,
             "topic": "İyonya kültürel etkileşim",
             "explanation": "Metinde, MÖ 2. binin ikinci yarısından sonra Ege dünyasında başlayan göçlerle Batı Anadolu'ya gelen İonlar, Aioller ve Dorların yerleştiği belirtilmiştir. Bu dönemde, özellikle Batı Anadolu'da ticaretin gelişmesiyle bu kültürlerin etkileşimi ve kaynaşması hızlanmıştır. Lidyalıların güçlü bir krallık olması ve bölgeye egemen olması, bu kültürel etkileşimlerin Batı Anadolu'da kaynaşmasında ve kültürel birliğin doğuşunda kilit rol oynamıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru metinleri özdeştir. Şık kümeleri aynıdır, sadece sıralamaları farklıdır. Doğru cevap (Kent devletleri) her iki soruda da aynıdır. Bu, anlamsal olarak mükemmel bir kopyadır.",
+            "duplicate_of": 30
         },
         {
             "id": 100,
@@ -2055,7 +2077,8 @@
             "is_duplicate": true,
             "duplicate_of": 89,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2075,7 +2098,7 @@
             "topic": "Osmanlı Tekstil Sanatı",
             "explanation": "Metne göre, Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılan kumaşlarda madalyonlar içinde aslan, kartal, fil, grifon gibi yaratıkların tasvirleri görülür. Parantez içinde aslan, kartal ve fil zaten verilmiştir. Eksik olan yaratıklar arasında sfenks ve grifon bulunmaktadır. Şıklarda verilenlerden sfenks ve grifon bu tasvirlerin bir parçasıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 104,
@@ -2095,9 +2118,9 @@
             "topic": "Osmanlı İpek Kumaşları",
             "explanation": "Metinde, Osmanlı İpek Kumaşları başlığı altında, 'seraser' ve 'kemhayr' terimlerinin tekniklere işaret ettiği belirtilmektedir. Ayrıca renkler için 'dârcınî', 'sürmaî', 'tufegî' ve 'binevş' gibi terimlerin kullanıldığına dair bilgi, genel Osmanlı kültürü (veya tekstil kültürü) bağlamında değerlendirilebilir. Bu terimler, Osmanlı ipekli kumaşlarının çeşitli çeşitlerini ve renklerini tanımlamak için kullanılır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 92,
-            "similarity_score": 0.9873985648155212
+            "duplication_reason": "Soru kökleri, ufak yazım ve varyasyon farkları ile S2'de eklenen tek bir terim ('binevş') haricinde aynı Osmanlı sanat terminolojisini (İpek kumaşları) sormaktadır. Şıklar ve doğru cevaplar aynıdır."
         },
         {
             "id": 105,
@@ -2156,8 +2179,10 @@
             "UniteNo": 3,
             "topic": "Frig Krallığı",
             "explanation": "Metinde, Friglerin Güneydoğu Avrupa'dan gelerek Anadolu'yu yurt edindiği, başkentleri Gordion etrafında MÖ. 9.-7. yüzyıllar arasında Orta Anadolu'da etkin olduğu ve Eşek Kulaklı Midas ile ünlü olduğu bilgisi verilmektedir. Bu tanımlama Frig Krallığı'na aittir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "İki soru da aynı anahtar tarihi bilgileri (Başkent Gordion, MÖ 9. ve 7. yüzyıllar arasında Orta Anadolu'da etkin olan uygarlık) kullanarak aynı doğru cevabı (Frigler) işaret etmektedir. Soru metnindeki ufak varyasyonlar (Avrupa'dan gelerek ifadesi veya metindeki hata) sorulan ana konuyu ve bilgi noktasını değiştirmemektedir. Bu sorular kopyadır.",
+            "duplicate_of": 26
         },
         {
             "id": 108,
@@ -2179,7 +2204,8 @@
             "is_duplicate": true,
             "duplicate_of": 98,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 109,
@@ -2201,7 +2227,8 @@
             "is_duplicate": true,
             "duplicate_of": 1,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2221,9 +2248,9 @@
             "topic": "Köy Enstitüleri",
             "explanation": "Metinde, İkinci Dünya Savaşı sonrasında Kırsal alanda rejimin yeni değerlerini yaymak ve öğretmen eksikliğini gidermek için 1940 yılında Köy Enstitüleri kurulduğu belirtilmektedir. Bu kurumların müfredatında kültür dersleriyle birlikte tarım ve zanaatkârlık gibi pratik becerilere de ağırlık verildiği vurgulanmıştır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 82,
-            "similarity_score": 0.9968633651733398
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır (Soru 2'de 'çözüm' kelimesi eksiktir, bu önemsizdir). Her iki soru da aynı doğru cevabı (Köy Enstitüleri) işaret etmektedir ve şıklar listesi de aynıdır, sadece sıralamaları farklıdır. Bu sorular kopyadır (duplicate)."
         },
         {
             "id": 111,
@@ -2243,9 +2270,9 @@
             "topic": "Anadolu Arkeolojisi",
             "explanation": "Soru, Batı Anadolu'dan zengin buluntular sağlayan, ilk kent örneği olan ve Homeros'un İlyada Destanı'na konu olmuş yerleşimi sormaktadır. Ünite 2 özetinde, Heinrich Schliemann tarafından kazılan Troia (Hisarlık Tepe) yerleşmesinin bu özelliklere sahip olduğu ve Anadolu arkeolojisinde çok önemli bir yer tuttuğu belirtilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 38,
-            "similarity_score": 0.9954888820648193
+            "duplication_reason": "Soru metinleri anlam ve içerik olarak tamamen aynıdır (ufak bir yazım farkı dışında). Şık setleri aynıdır ve doğru cevap aynıdır. Bu, sınav veritabanında kopya olarak işaretlenmelidir."
         },
         {
             "id": 112,
@@ -2265,7 +2292,7 @@
             "topic": "Selçuklu Ekonomi Politikası",
             "explanation": "Sayfa 2'de Selçukluların Anadolu'da Türkleşmeyi başarmasında iktisadi sebeplerin rol oynadığı belirtilmektedir. Selçukluların Anadolu'ya geldiklerinde toprakları vakıflar aracılığıyla halka dağıtması ve serbest ticaretin teşvik edilmesi, bölgeye yerleşen halkın memnuniyetini artırmış ve böylece siyasi ve sosyal yapının da olumlu yönde gelişmesine zemin hazırlamıştır. Bu durum, Selçuklu devlet yapısının temelini güçlendirmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 113,
@@ -2347,7 +2374,8 @@
             "is_duplicate": true,
             "duplicate_of": 24,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 117,
@@ -2369,7 +2397,8 @@
             "is_duplicate": true,
             "duplicate_of": 81,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2431,7 +2460,8 @@
             "is_duplicate": true,
             "duplicate_of": 32,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 121,
@@ -2451,9 +2481,9 @@
             "topic": "Bizans Tekstil Sanatı",
             "explanation": "Soru, Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılan kumaşlardaki madalyonlar içinde görülen hayali yaratıklardan birini sormaktadır. Ünite 5 özetinde, bu kumaşlarda 'aslan, kartal, fil, grifon (Resim 5. 11), sfenks gibi hayali yaratıkların tasvirleri görülmektedir' denilerek Grifon'un (E) şıkkı ile eşleştiği belirtilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 103,
-            "similarity_score": 0.9919896125793457
+            "duplication_reason": "Soru bağlamı, şıklar ve doğru cevap tamamen aynıdır. Soru 1'in metni, soru 2'deki boşluğu dolduran kelimeyi (Grifon) içermektedir, bu da muhtemel bir yazım hatasına işaret etse de, her iki soru da aynı bilgiyi aynı seçeneklerle test etmektedir ve işlevsel olarak kopyadır."
         },
         {
             "id": 122,
@@ -2473,9 +2503,9 @@
             "topic": "Bizans Dini Hayat",
             "explanation": "Soru, Hıristiyan litürjisinde Hz. İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı ana ayini sormaktadır. Ünite 5 özetinde, 'Ökaristi: Ökaristi İsa'nın bedenini simgeleyen ekmek ve kanını simgeleyen şarabın kutsandığı Hıristiyan litürjisinin en çarpıcı göstergelerinden biridir.' ifadesi yer almaktadır. Bu, Ökaristi'nin tanımıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 79,
-            "similarity_score": 0.9986525177955627
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır. Şıkların kümesi tamamen aynıdır, sadece sıralamaları farklıdır ve doğru cevap ('Ökaristi') her iki soruda da aynıdır. Bunlar veritabanında kopya olarak işaretlenmesi gereken aynı sorudur."
         },
         {
             "id": 123,
@@ -2595,7 +2625,7 @@
             "topic": "Neolitik İnanç Sistemleri",
             "explanation": "Soru, Kubaba/Kibele ana tanrıça inancının temelini oluşturan, kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin görüldüğü yerleşmeyi sormaktadır. Ünite 1 özetinde, 'MÖ. 7. Binde Seramikli Neolitik Döneme gelindiğinde, özellikle Çatalhöyük, Bademağacı, Hacılar gibi tarımcı yerleşmelerde, kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sisteminin, binlerce yıl boyunca gelişerek, Anadolu'da Demir Çağında Friglerle birlikte görülen, Kubaba/Kibele ana tanrıça inancının da temelini oluşturduğu düşünülmektedir.' ifadesi yer almaktadır. Bu nedenle doğru cevap Çatalhöyük'tür.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 129,
@@ -2734,7 +2764,8 @@
             "is_duplicate": true,
             "duplicate_of": 67,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 136,
@@ -2836,7 +2867,8 @@
             "is_duplicate": true,
             "duplicate_of": 3,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 141,
@@ -2878,7 +2910,8 @@
             "is_duplicate": true,
             "duplicate_of": 62,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 143,
@@ -2897,10 +2930,7 @@
             "UniteNo": 1,
             "topic": "Neolitik Devrim",
             "explanation": "Anadolu'da Neolitik Dönem'e geçiş süreci, avcı ve toplayıcı toplumların üretici konuma gelmelerine, göçebeliği terk etmelerine ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurmalarına temel oluşturduğu için 'Neolitik devrim' olarak adlandırılır (Ünite 1, Anadolu'da Neolitik Dönem'e Geçiş, İlk Köyler ve Kentler başlığı). Bu, insanın tarihsel gelişimindeki ilk önemli sıçrama noktasıdır.",
-            "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 87,
-            "similarity_score": 0.9630528092384338
+            "occurrence_count": 1
         },
         {
             "id": 144,
@@ -2922,7 +2952,8 @@
             "is_duplicate": true,
             "duplicate_of": 137,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 145,
@@ -3064,7 +3095,8 @@
             "is_duplicate": true,
             "duplicate_of": 123,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 152,
@@ -3086,7 +3118,8 @@
             "is_duplicate": true,
             "duplicate_of": 139,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 153,
@@ -3105,8 +3138,10 @@
             "UniteNo": 6,
             "topic": "Selçuklu İstila Dönemi",
             "explanation": "Selçuklu devri Anadolu'sunun gördüğü ikinci büyük darbe, metne göre Moğol saldırıları ve istilasıdır. Bu istila 13. yüzyılda yaşanmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri (sadece 'en önemli' kelimesi eklenmiş), şıklar ve doğru cevaplar tamamen aynıdır. İki soru da aynı tarihsel olayı (Moğol istilası) test etmektedir.",
+            "duplicate_of": 80
         },
         {
             "id": 154,
@@ -3148,7 +3183,8 @@
             "is_duplicate": true,
             "duplicate_of": 125,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 156,
@@ -3268,9 +3304,9 @@
             "topic": "Selçuklu Ekonomik Politikası",
             "explanation": "Selçukluların Anadolu'daki fethinde 'ekonomi politik' belirleyici olmuştur. Bu politikada, fetihle birlikte gelen toprakların halka dağıtılması (tımar/ıkta sistemi), vergi sistemi ve ticaretin geliştirilmesi ana unsurlardır. Özellikle yollar, kervansaraylar ve pazarların düzenlenmesi bu ekonomik yapının temelini oluşturmuştur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 112,
-            "similarity_score": 0.96843421459198
+            "duplication_reason": "Soru kökleri, şıkların tamamı ve doğru cevaplar birebir aynıdır. Sadece şıkların sıralaması farklılık göstermektedir."
         },
         {
             "id": 162,
@@ -3330,9 +3366,9 @@
             "topic": "Roma Dönemi Hristiyanlık",
             "explanation": "Roma'da Hıristiyanların ibadet ettikleri, ölülerini gömdükleri ve toplanma alanları olarak kullandıkları yeraltı mezarlarına 'Katakomp' adı verilir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 142,
-            "similarity_score": 0.9721032381057739
+            "duplication_reason": "Soru metinleri (baştaki sıra numarası hariç), şıklar ve doğru cevap endeksi tamamen aynıdır. Bu sorular birebir kopyadır."
         },
         {
             "id": 165,
@@ -3351,8 +3387,10 @@
             "UniteNo": 3,
             "topic": "Geç Hitit Dilleri",
             "explanation": "Geç Hitit Krallıkları döneminde Anadolu'da yerel diller (Luwi hiyeroglifli yazıtlar) ve Fenikece çift dilli yazıtlar kullanılmıştır. Bu yazıtlar, özellikle Karatepe'de bulunmuş ve hiyeroglif yazısının çözümüne katkı sağlamıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri (numaralandırma hariç), şık listeleri ve doğru cevap indeksleri tamamen aynıdır. Biri diğerinin kopyasıdır.",
+            "duplicate_of": 45
         },
         {
             "id": 166,
@@ -3372,9 +3410,9 @@
             "topic": "Cumhuriyet Müzik Reformu",
             "explanation": "Cumhuriyetin ilk yıllarında, Batı tekniğiyle işlenerek millî müzik oluşturma hedefi vardı. Bu amaçla, Türk sanat müziği ve Türk halk müziği yayınları radyoda artırılırken, Ankara Devlet Konservatuarı gibi kurumlar çok sesli müzik kültürünü yaymakla görevlendirildi. Türk Beşleri bu çabanın temsilcilerindendir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 75,
-            "similarity_score": 0.9638437628746033
+            "duplication_reason": "Soruların kökleri anlamsal olarak tamamen aynıdır; sadece küçük kelime farklılıkları mevcuttur. Her iki soru da Cumhuriyetin ilk yıllarında Batı tekniğiyle milli müziği oluşturacak türün ne olduğunu sormaktadır ve doğru cevap (Halk müziği) her iki soruda da aynıdır. Bunlar kesinlikle birbirinin kopyasıdır."
         },
         {
             "id": 167,
@@ -3414,9 +3452,9 @@
             "topic": "Neolitik Dönem Ana Tanrıça",
             "explanation": "MÖ. 7. Binde Seramikli Neolitik Döneme gelindiğinde, özellikle Çatalhöyük'te kadınlık uzuvları vurgulanmış şişman kadın heykelciklerinin yansıttığı inanç sisteminin, Kubaba/Kibele ana tanrıça inancının temelini oluşturduğu düşünülmektedir. Bu heykelcikler Çatalhöyük'te karşımıza çıkar.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 128,
-            "similarity_score": 0.9787247776985168
+            "duplication_reason": "Soru metinleri (başındaki sayısal işaretleme haricinde), şık listeleri ve doğru cevapları birebir aynıdır. Anlamsal olarak %100 kopya sorulardır."
         },
         {
             "id": 169,
@@ -3496,9 +3534,9 @@
             "topic": "Cumhuriyet Müzik Eğitimi",
             "explanation": "Cumhuriyetin kurulduğu 1923 yılında sahne sanatları ve müzik alanında eğitim veren iki resmi kuruluştan ilki Konservatuvar (Darü'l-Elhan) idi. Ünite 8'de, daha sonra Ankara Devlet Konservatuvarına dönüşecek olan Musiki Muallim Mektebi'nin 1924 yılında açıldığı ve bunun müzik alanında bir dönüm noktası olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 108,
-            "similarity_score": 0.9668306708335876
+            "duplication_reason": "Soru metinleri ve şık havuzları tamamen aynıdır. Her iki soru da Erken Cumhuriyet döneminde kurulup Ankara Devlet Konservatuvarına dönüşen 'Musiki Muallim Mektebi'ni sormaktadır. Sadece şıkların sıralaması ve soru numarası değişmiştir."
         },
         {
             "id": 173,
@@ -3538,9 +3576,9 @@
             "topic": "Frig Kralı Midas Evliliği",
             "explanation": "Frig kralı Midas'ın evlendiği Aiol kenti prensesinin Myrina olduğu bilgisi verilmiştir. Ünite 3'te, Midas'ın sınırlarının Kütahya'ya kadar uzandığı belirtilirken, Aiol kentleri listelenmiştir (Gryneion, Larissa, Pitane, Kyme, Myrina). Sorunun doğru kabul edilen şıkkı E şıkkıdır (Kyme). Metinlerde Larissa'nın adı geçmesine rağmen, Midas'ın evliliği için Kyme doğru kabul edilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 43,
-            "similarity_score": 0.9601306915283203
+            "duplication_reason": "Soru k\n\n\nklerindeki tek fark '14.' ifadesinin eklenmesidir, bu da sorunun anlamsal \n\n\nzn\n\n\n\n de\n\n\ni\n\n\ntirmez. \n\n\nklar ve do\n\n\nru cevaplar \n\n\nyd\n\n\nr. Bu iki soru ayn\n\n\n bilgiyi \n\n\n\nmektedir."
         },
         {
             "id": 175,
@@ -3599,8 +3637,10 @@
             "UniteNo": 3,
             "topic": "Lidya Mermnad Krallığı",
             "explanation": "Lidya Krallığı'nın Mermnad Hanedanı zamanında güçlü olduğu ve ilk kralın Gyges olduğu belirtilmiştir. Ünite 3'te, Mermnad Hanedanı krallarının sırasıyla Gyges (MÖ. 680-644) ile başladığı açıkça ifade edilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri ve şık setleri tamamen aynıdır. Şıkların sıralaması ve işaretlenen doğru cevap (biri yanlış işaretlenmiş olabilir) farklı olsa da, içerik olarak aynı soruyu sormaktadırlar.",
+            "duplicate_of": 10
         },
         {
             "id": 178,
@@ -3619,8 +3659,10 @@
             "UniteNo": 3,
             "topic": "Geç Hitit Krallıkları",
             "explanation": "Geç Hitit Krallıkları arasında Kargamış, Sam'al (Gaziantep-Zincirli Höyük), Karatepe (Azatiwataya) ve Gurgum (Maraş) sayılmaktadır. Ünite 3'te, bu krallıkların listesi verilmiştir. Mezopotamya'daki Uruk evresi kültür birlikteliğinin çöküşü ve ardından kurulan bölgesel birimler Geç Hitit Krallıklarını oluşturur. Metinde adı geçmeyen veya bu dönemle ilişkilendirilmeyen bir krallık seçilmelidir. Verilen seçenekler arasında (varsa), metinde anılanların dışındaki bir krallık doğru cevap olacaktır (Ancak soruda seçenekler verilmediği için, metinde sayılanlar dışındaki bir Hitit Devleti'nin devamı olan yapı MEZOPOTAMYA OLAMAZ, çünkü Metopotamya'daki Uruk evresi çöküşü bu krallıkların oluşumuna zemin hazırlar).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri ve doğru cevap ('Frig') tamamen aynıdır. Şıkların dizilişi ve birer çeldirici (Kargamış ve Arğamiş) farklı olsa da, sorulan bilgi ve beklenen doğru yanıt aynı olduğu için anlamsal olarak kopyadırlar.",
+            "duplicate_of": 61
         },
         {
             "id": 179,
@@ -3639,8 +3681,10 @@
             "UniteNo": 4,
             "topic": "Roma Anadolu Eyaletleri",
             "explanation": "Roma'nın Anadolu'da kurduğu eyaletler arasında Likya-Pamphylia, Trakya, Bithynia-Pontos ve Kapadokya Eyaletleri sayılmıştır (Ünite 4). Roma'nın MS. 102 yılında kurduğu Kilikya Eyaleti de bahsedilmiştir. Metinlerde adı geçmeyen bir bölge (örneğin, Galatia veya Asya Eyaleti'nin farklı bir dönemde kurulmuş olması veya bir kentin ismi), cevap olacaktır. Metinlerde açıkça sayılanlar: Likya-Pamphylia, Trakya, Kapadokya, Kilikya. Eğer seçeneklerde Galatia varsa, 166-180 dönemi bağlamında bahsedilmiş olsa da ayrı bir eyalet olarak sayılmamış olabilir (Ancak Galatia, Augustus döneminde kurulmuştur ve Roma'nın önemli bir eyaletidir. Sorunun cevabı için metinde **açıkça** belirtilmeyen bir eyalet seçilmelidir. Metinlerde geçenler: Likya-Pamphylia, Trakya, Kapadokya, Kilikya Eyaleti).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri, şık setleri ve doğru cevap (Panionia Eyaleti) tamamen aynıdır. Sorular arasındaki tek fark, şıkların sıralanmasıdır.",
+            "duplicate_of": 50
         },
         {
             "id": 180,

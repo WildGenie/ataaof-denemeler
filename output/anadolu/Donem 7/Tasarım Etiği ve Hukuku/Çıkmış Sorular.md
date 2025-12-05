@@ -54,6 +54,19 @@
 
     <hr />
 
+### Etik Sorunların Özellikleri
+
+1. Aşağıdakilerden hangisi etik sorunların özelliklerinden biri değildir?
+    - **Cevap A-) Seçimlerin mutlak doğru ya da yanlış olması**
+    - B-) Çeşitli nedenlerden dolayı çözüm yolunun seçilememesi
+    - C-) Seçimlerin istenmedik sonuçlara yol açabilmesi
+    - D-) Seçimlerin insan ve toplum ilişkileri üzerine dolaylı etkilerinin olması
+    - E-) Herhangi bir sorunun çözümünde istenmedik seçimlerin söz konusu olması
+
+    > **Açıklama:** Etik sorunlar, doğası gereği basit ve kesin çözümleri olmayan, karmaşık problemlerdir. Ünite 1'de yer alan "Etik sorunların özellikleri" başlığı altında, etik sorunların temel özelliğinin "Seçimlerin mutlak doğru ya da yanlış olmaması" gerektiği açıkça belirtilmektedir. Etik bir sorunda, seçenekler arasında net bir doğru veya yanlış yoktur, bu da ahlaki yargı ve seçim yapma zorunluluğunu ortaya çıkarır. Bu nedenle, "Seçimlerin mutlak doğru ya da yanlış olması" ifadesi, etik sorunların özelliklerinden biri değildir ve bu sebeple doğru cevap olarak kabul edilir.
+
+    <hr />
+
 ### Etik İlkeler
 
 1. Etik ilkeler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
@@ -518,15 +531,5 @@
 
     > **Açıklama:** FSEK m. 64'e göre, birden fazla kişi tarafından ortaklaşa oluşturulan eserlerde, eser tamamlanmadan ölen kişinin hissesi diğer ortaklara geçer ve mirasçılara uygun bir bedel ödenir. Bu, mali hakların mirasçılara geçişi kuralının istisnası olarak ortak eser sahipliğinde geçerlidir.
 
-    <hr />
-
-## Ünite Diğer
-
-1. Aşağıdakilerden hangisi etik sorunların özelliklerinden biri değildir?
-    - **Cevap A-) Seçimlerin mutlak doğru ya da yanlış olması**
-    - B-) Çeşitli nedenlerden dolayı çözüm yolunun seçilememesi
-    - C-) Seçimlerin istenmedik sonuçlara yol açabilmesi
-    - D-) Seçimlerin insan ve toplum ilişkileri üzerine dolaylı etkilerinin olması
-    - E-) Herhangi bir sorunun çözümünde istenmedik seçimlerin söz konusu olması
     <hr />
 

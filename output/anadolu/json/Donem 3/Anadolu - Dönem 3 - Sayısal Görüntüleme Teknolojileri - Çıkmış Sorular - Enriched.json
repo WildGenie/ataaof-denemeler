@@ -58,7 +58,7 @@
             "topic": "Analog Video Tarihi",
             "explanation": "Soru 3, analog video tarihindeki bir gelişmeyi sormaktadır. Metinde, '1956: Televizyonda canlı yayınlar dışında bant kaydı mümkün hâle geldi. “Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) 2 inch (yaklaşık beş santimetre) kalınlığında manyetik makara bantlara kayıt yapan devasa bir aletti ve fiyatı yaklaşık 50.000 dolardı ama tarihte ilk defa video kaydı yapılabiliyordu\" ifadesi yer almaktadır. Bu, VTR'nin icadıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 182,
             "original_source": "Yaz Okulu 2022-2023"
         },
@@ -120,7 +120,7 @@
             "topic": "DSLR Sensör Boyutları",
             "explanation": "Soru 6, DSLR fotoğraf makinelerinin tam çerçeve (FX) sensörlerinin avantajları arasında olmayanı sormaktadır. Metinde tam çerçeve sensörlerin 35 mm film çerçevesi boyutunda olduğu ve üst düzey makinelerde kullanıldığı belirtilmektedir. Büyük sensörlerin avantajları; daha iyi görüntü kalitesi, daha fazla detay yakalama, daha iyi performans (geniş alan derinliği vb.) iken, dezavantajları daha büyük gövde ve daha yüksek maliyettir. Metinde, 'Birçok üst düzey fotoğraf makinelerinde, 35 mm film çerçevesi boyutundan daha büyük “tam kare-full frame\" sensörler kullanır' denilmektedir. Daha küçük sensörlerin maliyetinin düşük olması bir avantajdır, ancak tam çerçevenin avantajı bu değildir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 7,
@@ -200,7 +200,7 @@
             "topic": "Kompakt Makine Avantajları",
             "explanation": "Standart kompakt fotoğraf makineleri için verilen avantajlar arasında menü kullanımı rahatlığı (pratik kullanım ve basit menüler) ve hafif tasarıma sahip olması (avuç içi boyutlarında) yer alır. Küçük sensörlerinin olması da maliyetleri düşürmesi açısından bir özelliktir (birinci ve dördüncü maddeler). Görüntü kalitesinin iyileştirilmiş olması, özellikle büyük sensörlü/DSLR'lere kıyasla, bir avantaj olarak sayılmaz; aslında kalite/sensör boyutu dezavantajdır. Bu nedenle I, II ve IV avantajlardır. Ancak, sorunun doğru kabul edilen şıkkı C (I, III ve IV) olduğu için, I (Menü kullanımı rahatlığı) ve IV (Küçük sensörlerinin olması) kesinlikle avantajdır. III (Görüntü kalitesinin iyileştirilmiş olması) ise bu makineler için genellikle bir gelişme olarak belirtilse de, diğerlerine göre üstün bir avantaj sayılmaz. Ancak verilen doğru şıkkı takip ederek I, III ve IV'ü kabul ediyoruz. Metinde kompakt makinelerin 'pratik kullanım rahatlığı' sunduğu belirtilmiştir (I). Küçük sensörleri nedeniyle maliyetleri düşüktür (IV). III'ün kabul edilmesi, genel dijitalleşme bağlamında bir iyileşme olarak yorumlanabilir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 4
         },
         {
             "id": 11,
@@ -260,7 +260,7 @@
             "topic": "Görüntü Sabitleme Teknolojileri",
             "explanation": "Video kameralarda sabit lensli modellerde titreşimi önlemek için kullanılan, mekanik bir aparat kullanmadan (tripod, gimbal gibi) elektronik olarak görüntü sabitlemeyi sağlayan sistemler EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) olarak adlandırılır. Hareketli görüntülerin elektronik olarak düzeltilmesi bu sistemlerle sağlanır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 72,
             "original_source": "Ara Sınav 2024-2025"
         },
@@ -581,8 +581,10 @@
             "UniteNo": 2,
             "topic": "DSLR Avantajları",
             "explanation": "DSLR'lerin büyük sensöre sahip olmasının avantajları arasında, daha fazla ışık toplama yeteneği sayesinde loş ışıkta iyi sonuçlar vermesi (B), daha az ışıkla çalışabilmesi (daha az ISO veya daha yavaş enstantane), daha iyi görüntü kalitesi ve daha sığ alan derinliği kontrolü (C) sayılabilir. Ancak büyük sensörler genellikle daha büyük, ağır ve pahalı lensler gerektirir; bu da D seçeneğindeki 'Hafif ve pratik bir kullanım sağlar' ifadesinin aksine, genellikle daha ağır olmalarına neden olur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri ve şık içerikleri tamamen aynıdır. İki soru arasındaki tek fark şıkların sıralanışıdır (karıştırılmış şıklar). Bu, anlamsal olarak tamamen aynı sorunun kopyasıdır ve veritabanında mükerrer olarak işaretlenmelidir.",
+            "duplicate_of": 6
         },
         {
             "id": 30,
@@ -801,7 +803,6 @@
             "UniteNo": 6,
             "topic": "Işık Kalitesi Değerlendirmesi",
             "explanation": "CRI (Color Rendering Index - Renk Geri Verim İndeksi), üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirleyen bir değerdir. Ünite 6'da, LED ışık tercih ederken bilinmesi gereken önemli noktalardan birinin CRI değeri olduğu, bu değerin üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirttiği bilgisi yer almaktadır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -821,9 +822,8 @@
             "UniteNo": 1,
             "topic": "Dijital TV Yayın Türleri",
             "explanation": "Ünite 1'de TV yayın türleri anlatılmıştır. Web TV (İnternet TV), açık internet ağını kullanarak sayısal televizyon hizmetleri sunan teknolojidir ve televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanır. IPTV internet protokolü kullanır ancak Web TV açık internet ağını kullanır.",
-            "is_duplicate": true,
-            "duplicate_of": 81,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "occurrence_count": 3
         },
         {
             "id": 42,
@@ -842,9 +842,8 @@
             "UniteNo": 1,
             "topic": "Transistörün İcadı",
             "explanation": "Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Ünite 1'de, transistörün 1947 yılında icadının elektronik cihazlarda büyük miktardaki elektrik akımının kontrol edilmesini sağlayan anahtarlar olduğu ve bilgisayar çağını olanaklı kıldığı belirtilmektedir.",
-            "is_duplicate": true,
-            "duplicate_of": 181,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "occurrence_count": 4
         },
         {
             "id": 43,
@@ -883,8 +882,7 @@
             "UniteNo": 6,
             "topic": "Endüstriyel Fotoğrafçılık",
             "explanation": "Ünite 6'da Endüstriyel Fotoğrafçılık başlığı altında bu tanım verilmiştir: \"Endüstri, ham madde veya yarı üretilmiş mamüllerin insanların yararı amaçlanarak tam üretilmiş hâle getirilmesidir.\" Bu, Endüstri kavramını tanımlamaktadır.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "occurrence_count": 2
         },
         {
             "id": 45,
@@ -906,7 +904,8 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 46,
@@ -926,10 +925,10 @@
             "topic": "Orta Format Avantajları",
             "explanation": "Ünite 2'de Orta Format Makineleri'nin tercih edilme nedenleri (Neden Tercih Etmeliyiz?) sıralanmıştır: I. Sığ alan derinliği kalitesi sunar (sığ alan derinliği uygulamalarında çok daha iyi bir derinlik espası sunarlar). II. Büyük sensörler sayesinde yüksek çözünürlüklü renk derinliği olan görüntüler sunar. III. Hafif bir gövdeye sahip olması değil, tam tersine büyük ve ağır bir gövdeye sahip olmalarıdır (Dezavantajdır). IV. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar (sektöre, alana ve boyutlandırma pratiklerine göre seçim yapma imkanı sunar). Bu nedenle I, II ve IV maddeleri tercih nedenlerindendir. III bir dezavantajdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 26,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9658944606781006
+            "duplication_reason": "Soru metinleri, listelenen önermeler (I, II, III, IV) ve doğru cevap seçenekleri tamamen aynıdır. Sadece şıkların sıralanışında çok küçük bir farklılık (II I ve III vs II ve III) olmasına rağmen, bunlar anlamsal olarak birebir kopyadır."
         },
         {
             "id": 47,
@@ -988,7 +987,6 @@
             "UniteNo": 2,
             "topic": "Kompakt Fotoğrafçılık",
             "explanation": "Kompakt fotoğraf makinelerinin ön kısmında, lens ile gövde formu birbirine sabitlenmiştir. Ünite 2'de Standart Kompakt Fotoğraf Makineleri bölümünde 'Lens ile gövde formu birbirine sabitlenmiştir.' bilgisi yer almaktadır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1031,7 +1029,8 @@
             "is_duplicate": true,
             "duplicate_of": 14,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 52,
@@ -1090,9 +1089,8 @@
             "UniteNo": 3,
             "topic": "Hareketli Video Ekipmanları",
             "explanation": "Ünite 3'e göre, dijital video üretiminde dahili EIS ve OIS sistemlerinin dışında, Gimbal, vinç mekanizmaları ve Dolly gibi cihazlar hareketli görüntülerde görüntü sabitlemek için kullanılır. Gimbal, kamerayı akışkan bir hareketli görüntü elde etmesini sağlayan bir sabitleme mekanizmasıdır ve genellikle mobil/elden çekimlerde tercih edilir. Verilen şıklar arasında Gimbal, mekanik bir aparat olarak hareketli video çekimlerinde sabitleme amacıyla kullanılır.",
-            "is_duplicate": true,
-            "duplicate_of": 83,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "occurrence_count": 4
         },
         {
             "id": 55,
@@ -1194,7 +1192,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 60,
@@ -1216,7 +1215,8 @@
             "is_duplicate": true,
             "duplicate_of": 19,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 61,
@@ -1278,7 +1278,8 @@
             "is_duplicate": true,
             "duplicate_of": 41,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 64,
@@ -1340,7 +1341,8 @@
             "is_duplicate": true,
             "duplicate_of": 7,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 0.9913066029548645
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 67,
@@ -1362,7 +1364,8 @@
             "is_duplicate": true,
             "duplicate_of": 47,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 68,
@@ -1442,10 +1445,10 @@
             "topic": "Video Çözünürlük Standartları",
             "explanation": "PAL (Phase Alternating Line) televizyon sistemi, Avrupa ve diğer bazı bölgelerde kullanılır ve standart dikey çözünürlüğü 625 satırdır. NTSC (National Television System Committee) ise çoğunlukla Kuzey Amerika'da kullanılır ve standart dikey çözünürlüğü 525 satırdır. Bu bilgi Ünite 3 özetinde, dijital video kameraların analogdan dijitale geçişi anlatılırken bahsedilen HDTV ve UHDTV ile ilgili bağlamda yer almaktadır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 53,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9600145220756531
+            "duplication_reason": "Soru kökleri, şıkları (sıralaması farklı olsa da) ve doğru cevapları tamamen aynıdır (SDTV). Birebir kopya sorulardır."
         },
         {
             "id": 72,
@@ -1464,10 +1467,9 @@
             "UniteNo": 3,
             "topic": "Görüntü Sabitleme Teknolojileri",
             "explanation": "Video kameralarda, özellikle hareketli görüntülerde ortaya çıkan mekanik olmayan hareket bulanıklığını (titremeyi) elektronik olarak düzeltmeyi sağlayan sistemler, Ünite 3'te bahsedilen EİS (Elektronik Görüntü Sabitleme) ve OİS (Optik Görüntü Sabitleme) sistemleridir. Ancak, soruda mekanik aparat kullanmadan elektronik olarak düzeltme sağlayan yöntem sorulmaktadır. Dijital video kameraların temel özelliklerinden biri olan görüntü sabitleme için EİS ve OİS sistemleri kullanılır. Metin, bu sistemlerin titremeyi giderme çabalarından bahseder.",
-            "is_duplicate": true,
-            "duplicate_of": 13,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 0.9900201559066772
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır (Q1'deki 'per değiştirsin' ifadesi bir yazım hatası olup Q2'deki 'yer değiştiren' ile aynı anlamı hedefler). Şık listeleri ve doğru cevap (Elektronik Görüntü Sabitleme - EIS) da özdeştir.",
+            "occurrence_count": 5
         },
         {
             "id": 73,
@@ -1506,9 +1508,8 @@
             "UniteNo": 3,
             "topic": "3D Video Kameralar",
             "explanation": "Ünite 3'te, 3D dijital kameraların (FinePix Real 3D System örneği verilerek) üç boyutlu fotoğraflar çekebildiği ve bu fotoğrafların yine üç boyutlu olarak görüntülenebildiği belirtilmiştir. Verilen seçenekler arasında, 3D kameraların sadece fotoğraf çekimi için kullanıldığı bilgisi yanlıştır, çünkü aynı zamanda üç boyutlu görüntüleme yeteneğinden de bahsedilmektedir (metinde 'üç boyutlu fotoğraflar çekilebildiği gibi bu fotoğraflar yine üç boyutlu olarak görüntülenebiliyordu' ifadesi geçmektedir).",
-            "is_duplicate": true,
-            "duplicate_of": 165,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 3
         },
         {
             "id": 75,
@@ -1548,9 +1549,10 @@
             "topic": "CRI Değeri",
             "explanation": "Ünite 4'te, LED ışık tercih edilirken bilinmesi gereken en önemli noktalardan birinin ışığın CRI (Color Rendering Index) değeri olduğu belirtilmiştir. CRI değeri, üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirler; yani bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında nesnelerin tam ve doğal renklerini gösterebilme yeteneğini ölçer.",
             "is_duplicate": true,
-            "duplicate_of": 59,
+            "duplicate_of": 20,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 0.9946222305297852
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 77,
@@ -1590,10 +1592,10 @@
             "topic": "Yazıcı Tipleri",
             "explanation": "Söz konusu tanım (toner, statik elektrik, ısıtma ile katı mürekkep aktarımı) Lazer yazıcıların çalışma prensibini açıklamaktadır. Ünite 4'te yazıcılar termal, nokta vuruşlu, mürekkep püskürtmeli (inkjet), lazer ve süblimasyon olarak sınıflandırılmıştır. Lazer yazıcılar, tonerleri eriterek kalıcı ve dağılma yapmayan baskılar üretir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 17,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 0.9924560189247131
+            "duplication_reason": "Soru metinleri anlamsal olarak tamamen aynıdır (Lazer yazıcının tanımı). Şık listeleri aynı seçenekleri içermekte olup, doğru cevap (Lazer) her iki soruda da aynıdır. Şık sıralaması dışındaki tüm öğeler kopyadır."
         },
         {
             "id": 79,
@@ -1652,11 +1654,11 @@
             "UniteNo": 1,
             "topic": "Dijital TV Yayın Türleri",
             "explanation": "Ünite 1'de, Web TV (İnternet TV), açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan bir teknoloji olarak tanımlanmıştır. Bu yayın türü, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle ortaya çıkar.",
-            "occurrence_count": 3,
             "is_duplicate": true,
-            "duplicate_of": 63,
+            "duplicate_of": 41,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 82,
@@ -1695,10 +1697,10 @@
             "UniteNo": 3,
             "topic": "Video Sabitleme Araçları",
             "explanation": "Dijital video kameralarda dahili EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) sistemlerinin dışında, hareketli görüntülerde görüntü sabitlemek için Gimbal (dengeleyici), vinç mekanizmaları ve Dolly gibi harici teknik ekipmanlar kullanılır.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 54,
-            "similarity_score": 0.9845318794250488
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1778,7 +1780,7 @@
             "topic": "Pozlama ve Ölçüm",
             "explanation": "Ünite 5'te, Histogram'ın tanımı şu şekildedir: \"Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler.\" Beyaz Dengesi ise renk sıcaklığını kontrol eder, odak noktası ve diyafram ise pozlamanın bileşenleridir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 4
         },
         {
             "id": 88,
@@ -1859,7 +1861,9 @@
             "explanation": "Parlak yüzeyli nesne ve ürünlerde ışık ve ortam yansımalarını önlemek için kullanılan ekipman \"Çekim Çadırı\"dır. Çekim çadırı, sert gölgeleri yumuşatır ve yüzey yansımalarını kontrol altına alarak daha pürüzsüz bir görüntü elde edilmesini sağlar.",
             "is_duplicate": true,
             "duplicate_of": 90,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 92,
@@ -1899,7 +1903,7 @@
             "topic": "Beyaz Dengesi Ayarı",
             "explanation": "Çekimden önce ortamdaki ışığın rengi (renk sıcaklığı) ile kameranın uyumunu sağlamak Beyaz Dengesi (White Balance) ile gerçekleştirilir. Ünite 5'te \"Beyaz Dengesi (White Balance)\" başlığı altında, beyaz dengesinin ayarlanması ile renk ısısının ayarlandığı belirtilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 4
         },
         {
             "id": 94,
@@ -2059,9 +2063,10 @@
             "topic": "Sayısal Video Tarihi",
             "explanation": "1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, video kayıt teknolojisinde önemli bir adımdı.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 182,
-            "original_source": "Yaz Okulu 2022-2023"
+            "occurrence_count": 0,
+            "duplicate_of": 3,
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Her iki soru da kelime farkları dışında tamamen aynı şeyi sormaktadır (canlı yayınlar dışında televizyonda kaydı mümkün kılan teknoloji). Doğru cevap (VTR) her iki soruda da mevcuttur. Bu sorular kopyadır."
         },
         {
             "id": 102,
@@ -2083,7 +2088,8 @@
             "is_duplicate": true,
             "duplicate_of": 82,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2105,7 +2111,8 @@
             "is_duplicate": true,
             "duplicate_of": 54,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9845318794250488
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 104,
@@ -2125,9 +2132,10 @@
             "topic": "Yazıcı Türleri",
             "explanation": "Soru, katı mürekkep (Solid Ink) yazıcıları tanımlamaktadır. Solid Ink yazıcılar, katı hâldeki mürekkebi (toneri) eriterek, statik elektrik yardımıyla kâğıt üzerine aktarır ve bu sayede renklerin dağılmadan veya taşmadan keskin çıktılar alınmasını sağlar. Ünite 4'te lazer ve mürekkep püskürtmeli yazıcılar yaygın olarak bahsedilirken, solid ink de bir tür olarak belirtilmiştir (SSD'ler ile karıştırılmamalıdır, SSD depolama birimidir).",
             "is_duplicate": true,
-            "duplicate_of": 78,
+            "duplicate_of": 17,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 0.9924560189247131
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 105,
@@ -2147,10 +2155,10 @@
             "topic": "Sayısal Görüntü Ayarları",
             "explanation": "Soruda bahsedilen özellikler; dosya adlandırma (File and folder structure/Filenaming and Numbering) ve özel numaralandırma/sıfırlama (otomatik sayı kontrolü) ayarlarını kapsar. Bu tür ayarlar, genellikle 'Görüntü Ayarları (Display Settings)' veya daha spesifik olarak 'Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and Numbering)' menüsü altında bulunur. Ancak, seçenekler arasında en kapsayıcı olanı 'Görüntü Ayarları (Display Settings)' başlığı altında listelenen diğer ayarlar da dahil edilmiştir. Verilen seçenekler içinde 'Dosyaya İsim Ekleme ve Numara Ekleme' özelliği doğrudan 'Görüntü Ayarları (Display Settings)' başlığı altında listelenmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 85,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9870795011520386
+            "duplication_reason": "Metin, soru kökü ve doğru cevap tamamen aynıdır. Şıklar listesi aynı içeriğe sahiptir; sadece iki şığın sıralaması farklıdır."
         },
         {
             "id": 106,
@@ -2303,9 +2311,8 @@
             "UniteNo": 7,
             "topic": "Renk Uzayları",
             "explanation": "Ünite 7'de Renk Yönetimi başlığı altında, RGB renk uzayının ana renklerinin Kırmızı (Red), Yeşil (Green) ve Mavi (Blue) olduğu belirtilmiştir. Bu seçenekler arasında Kırmızı (Red) bulunmaktadır.",
-            "is_duplicate": true,
-            "duplicate_of": 176,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 4
         },
         {
             "id": 114,
@@ -2345,7 +2352,7 @@
             "topic": "Sayısal Görüntü Formatları",
             "explanation": "Ünite 7'de, görüntü formatları anlatılmıştır. TIFF (Tagged Image File Format), kayıpsız sıkıştırma sunar ve görüntünün gerçek renk ve saydamlık bilgilerini tutarak kalite kaybı olmaksızın saklar. RAW, PSD de kayıpsızdır ancak TIFF, genellikle kayıpsız sıkıştırma için en yaygın kullanılan formatlardan biridir ve bu tanıma tam uyar. (PNG de kayıpsızdır ancak genellikle daha çok web için kullanılır, TIFF ise baskı/profesyonel iş akışlarında). Verilen şıklarda TIFF, RAW'dan sonra en iyi kayıpsız seçenektir. RAW, sıkıştırılmamış ham veri iken, TIFF kayıpsız sıkıştırılmıştır. Sorunun doğru şıkkı PNG olarak işaretlenmiştir. PNG (Portable Network Graphics), kayıpsız sıkıştırma sunan ve şeffaflık desteği olan bir raster formattır. Metinde PNG'nin 'sabit sayıda piksel içerir' ve 'raster grafik' kategorisinde olduğu belirtilmiştir. PNG, JPEG'in kayıplı sıkıştırmasına karşı kayıpsız sıkıştırma özelliğiyle avantajlıdır. Bu nedenle PNG doğru kabul edilmelidir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 116,
@@ -2387,7 +2394,8 @@
             "is_duplicate": true,
             "duplicate_of": 98,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2466,9 +2474,8 @@
             "UniteNo": 1,
             "topic": "Dijital Video Tarihi",
             "explanation": "VHS (Video Home System) formatı, 1976 yılında tanıtılmış ve tüketicilerin kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlamıştır. Bu durum, Betamax'a rakip olarak öne çıkmıştır. (Ünite 1, Sayısal Video Tarihi bölümü)",
-            "is_duplicate": true,
-            "duplicate_of": 162,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 122,
@@ -2488,10 +2495,10 @@
             "topic": "DSLR Özellikleri",
             "explanation": "Ünite 2'de DSLR makinelerin özellikleri anlatılmıştır. Kompakt makinelerden daha pahalıdırlar (A şıkkı yanlış). Çekim gecikmesi yoktur (B doğru). Video özelliği vardır (C doğru). Tak çıkar lenstir (D doğru). Kontrol fotoğrafçıya aittir (E doğru). Dolayısıyla, kompaktlara göre maliyetlerinin daha ucuz olması (A şıkkı) DSLR'ler için doğru değildir; genellikle daha pahalıdırlar.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 102,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9705986976623535
+            "duplication_reason": "Soru kökleri ve şıkların içerikleri tamamen aynıdır. Sadece şıkların sıralaması ve buna bağlı olarak doğru cevap indeksi değişmiştir. Anlamsal olarak tam bir kopyadırlar."
         },
         {
             "id": 123,
@@ -2511,10 +2518,9 @@
             "topic": "Hava Fotoğrafçılığı",
             "explanation": "Hava fotoğrafçılığı, havadan perspektifle, yani kuş bakışı perspektifle çekilen fotoğraflardır. Drone'lar, bu tip çekimleri düşük maliyetle, hareketli ve gelişmiş GPS özellikleri ile yapabilen, günümüzde yaygınlaşan ekipmanlardır. (Ünite 8, Hava Fotoğrafçılığı ve Drone Tanımı bölümü)",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 15,
-            "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 0.9997026920318604
+            "original_source": "Ara Sınav 2021-2022"
         },
         {
             "id": 124,
@@ -2536,7 +2542,8 @@
             "is_duplicate": true,
             "duplicate_of": 84,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 125,
@@ -2596,10 +2603,10 @@
             "topic": "Görüntü Dosyası Yönetimi",
             "explanation": "Çekim Seçeneklerini Ayarlama (Setting Shooting Options) menüsü altında, dosya numaralandırması, dosya yapısı, RAW formatında kaydetme gibi birçok ayar bulunmaktadır. Özellikle \"File and folder structure\" seçeneği, dosya numaraları yerine tarih sıralandırması (veya başka bir sıralama) yapma olanağı sunar. (Ünite 7, Çekim Seçeneklerini Ayarlama (Setting Shooting Options) başlığı altındaki maddeler)",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 105,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9855608344078064
+            "duplication_reason": "Soru metinleri minimal bir kelime farkı dışında (%99.9 aynı anlam) tamamen aynıdır ve aynı şeyi sormaktadır. Şıklar kümesi ve doğru cevap (Dosyaya İsim Ekleme ve Numara Ekleme) tamamen aynıdır. Bu sorular, şıkları farklı sıralanmış kopyalardır ve veritabanında mükerrer (duplicate) olarak işaretlenmelidir."
         },
         {
             "id": 128,
@@ -2661,7 +2668,8 @@
             "is_duplicate": true,
             "duplicate_of": 110,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 131,
@@ -2720,8 +2728,10 @@
             "UniteNo": 5,
             "topic": "Beyaz Dengesi Ayarları",
             "explanation": "Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını makineye/kameraya tanımlama işlemi Beyaz Dengesi (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te, Beyaz Dengesi'nin renk sıcaklığını ayarlayarak renk ısısını düzenlediği belirtilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 3
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır (ufak bir kelime tekrarı hariç). Şıklar kümesi tamamen aynıdır, sadece sıralamaları değişmiştir. Her iki soru da aynı bilgiyi talep etmektedir.",
+            "duplicate_of": 93
         },
         {
             "id": 134,
@@ -2763,7 +2773,8 @@
             "is_duplicate": true,
             "duplicate_of": 95,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 136,
@@ -2802,7 +2813,6 @@
             "UniteNo": 7,
             "topic": "Video İşleme Yazılımları",
             "explanation": "Sayısal görüntü/video işleme yazılımları, dijital olarak elde edilen görüntülerin işlenmesi, düzenlenmesi ve çoğu zaman bu çıktıların farklı platformlara veya cihazlara aktarılmasını sağlar. Adobe Premiere Pro, Avid Media Composer gibi profesyonel yazılımlar video düzenleme ve yayınlama (birden fazla cihaza yayın) işlevlerini kapsar. Ünite 7'de Premiere Pro'nun bu amaçlarla kullanıldığı belirtilmiştir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2822,7 +2832,6 @@
             "UniteNo": 8,
             "topic": "Görsel Paylaşım Platformları",
             "explanation": "Ünite 8'de, Pinterest'in tanımı bu bağlama uyar: \"Pinterest; kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmetidir.\" Instagram ve Facebook da görsel paylaşım hizmetleridir ancak Pinterest, panolar aracılığıyla fikir paylaşımına odaklanır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2843,9 +2852,10 @@
             "topic": "Sonsuz Fon Tanımı",
             "explanation": "Sonsuz fon, genellikle büyük stüdyolarda düz bir duvarın zeminle kıvrımlı bir şekilde birleştirilmesiyle oluşturulan, bir eğim ile birleştirilmiş yapıya sahip arka plandır. Bu yapı, izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandırır ve 'sonsuz fon' olarak adlandırılır. Ünite 6'da bu tanım verilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 117,
+            "duplicate_of": 98,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 140,
@@ -2885,10 +2895,9 @@
             "topic": "Transistörün İcadı",
             "explanation": "Metnin 2. sayfasında, \"Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur.\" şeklinde açıkça belirtilmiştir. Bu unsur, dijital çağın başlangıcını sağlayan ilk icatlardan biridir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 42,
-            "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9995937347412109
+            "original_source": "Yaz Okulu 2022-2023"
         },
         {
             "id": 142,
@@ -2907,8 +2916,10 @@
             "UniteNo": 2,
             "topic": "DSLR Sensör Avantajları",
             "explanation": "Ünite 2'de Orta Format Fotoğraf Makineleri özelliklerinde, tam çerçeve (Full Frame) sensörlerin (DSLR ve Aynasızlarda) 35mm film boyutunu taklit ettiği ve daha büyük sensörler sayesinde büyük megapikselli görüntüler sunduğu ve renk derinliğinin etkileyici olduğu belirtilmiştir. Ancak, büyük sensörlerin en büyük dezavantajı olarak genellikle çok pahalı olmaları ve ağır/hantal olmaları gösterilmiştir. Soruda avantajı sorulduğu için, pahalı olması veya ağır olması bir avantaj değildir. Metinde avantaj olarak daha büyük sensörler, yüksek çözünürlük/renk derinliği ve sığ alan derinliği kalitesi sayılmıştır. Bu seçenekler arasında yer almayanı bulmak için genel olarak pahalılık veya hantallık (dezavantaj) aranmalıdır. Verilen bilgiler ışığında, büyük sensörlerin dezavantajı olan pahalılık ve ağırlık avantaj olarak gösterilemez. En uygun olmayan şık, avantajları arasında sayılmayan bir dezavantaj olmalıdır. Verilen seçenekler olmadan kesin bir cevap vermek zor olsa da, metinde avantaj olarak listelenmeyen veya dezavantaj olarak belirtilen bir özellik (örneğin çok pahalı olması) bu soruya cevap oluşturur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru metinleri ve şıkların içerikleri tamamen aynıdır. Yalnızca şıkların sıralaması farklıdır, bu da doğru cevabın (Hafif ve pratik bir kullanım sağlar.) indeksinin değişmesine neden olmuştur. Anlamsal olarak kopyadırlar.",
+            "duplicate_of": 6
         },
         {
             "id": 143,
@@ -2928,10 +2939,10 @@
             "topic": "Hareketli Görüntü Sabitleme",
             "explanation": "Ünite 3'ün \"Video Kameralardaki Dijital Dönüşüm\" bölümünde, sabit lensli el kameralarının titreşim sorununu aşmak için firmaların EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi görüntü sabitleyici sistemler geliştirdiği belirtilmiştir. Ayrıca, \"Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar\" başlığı altında, bu sistemlere ek olarak hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly isimli cihazların kullanıldığı ifade edilmiştir. Bu araçlar, EIS/OIS'in yetersiz kaldığı durumlarda kullanılır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 54,
+            "occurrence_count": 0,
+            "duplicate_of": 103,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9515877366065979
+            "duplication_reason": "Soru kökleri, bir kelime farkı dışında (\"olmaması\" yerine \"olması\" kullanılması) anlamsal olarak aynıdır. Her iki soru da dijital kameralarda EIS/OIS'in yetersiz kaldığı durumlarda kullanılan harici stabilizasyon aracını (Gimbal) sormaktadır. Şık kümesi ve doğru cevap (Gimbal) aynıdır."
         },
         {
             "id": 144,
@@ -2990,9 +3001,8 @@
             "UniteNo": 5,
             "topic": "Işık Ölçüm Modları",
             "explanation": "Ünite 5'in Işık Ölçüm Modları başlığı altında, \"Nokta ölçüm: Sayısal fotoğraf makinesi, otomatik netleme noktası etrafından ışığı spot (küçük) bir yüzeyden ölçer.\" ifadesi yer almaktadır. Bu mod, otomatik netleme noktasına odaklanarak sadece o bölgedeki ışığı ölçer.",
-            "is_duplicate": true,
-            "duplicate_of": 190,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "occurrence_count": 2
         },
         {
             "id": 147,
@@ -3073,7 +3083,9 @@
             "explanation": "Ünite 6'nın Stüdyo Türleri başlığı altında, stüdyoların kullanım amaçlarına göre farklı boyutlarda oluşturulduğu belirtilmiştir. Metinde, \"Görüntü estetiği adına özel bir üretim gerçekleştirilmesini sağlayan bu sabitleyicilerin kullanımı son yıllarda bir hayli artmıştır...\" ifadesi geçmektedir. Bu ifade, yaratıcılık ve teknik disiplin gerektiren, sahneleme ve atmosfer oluşturmaya odaklanan stüdyo fotoğrafçılığının temel amacını yansıtır. Ancak, soruda sorulan 'mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü' ifadesi, metinde doğrudan bir stüdyo türü tanımı olarak yer almamaktadır. Ancak, 'Mekân/Set Fonlar' (Ünite 6, Sayfa 2), 'çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir' şeklinde tanımlanır ki bu, bir ortamın gerçekçi bir şekilde kurulmasını ima eder. Eğer stüdyo türleri arasında aranıyorsa, mimari çekimlerin de yapıldığı ve özel dekorlarla düzenlenmiş büyük stüdyolar, ya da 'Mekân/Set Fonlar' bu tanıma en yakın olanlardır.",
             "is_duplicate": true,
             "duplicate_of": 88,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 151,
@@ -3112,7 +3124,6 @@
             "UniteNo": 6,
             "topic": "Işık Şekillendiriciler",
             "explanation": "Ünite 6'daki 'Işık Şekillendiriciler' başlığı altında Snoot tanımı, 'Işık kaynaklarının önüne takılan Snoot ile tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür' şeklinde açıklanmaktadır. Bu, soruda bahsedilen aydınlatma aksesuarıdır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -3132,9 +3143,8 @@
             "UniteNo": 7,
             "topic": "Sayısal Görüntü Formatları",
             "explanation": "Ünite 7'de 'Camera Raw Yazılımları' başlığı altında, RAW formatının, fotoğraf makinesinin sensöründen alınan, işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerini içerdiği belirtilmektedir. Bu, dijital fotoğrafçılıkta yüksek kaliteli ham veri depolama formatıdır.",
-            "is_duplicate": true,
-            "duplicate_of": 175,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 3
         },
         {
             "id": 154,
@@ -3154,10 +3164,10 @@
             "topic": "Beyaz Dengesi",
             "explanation": "Ünite 5'te Beyaz Dengesi başlığı altında, Beyaz Dengesi kavramının renk ısısı ile ilişkili olduğu ve bu ayarın, ışık kaynaklarına göre renk sıcaklığını tanımlayarak renklerin doğru algılanmasını sağladığı açıklanmaktadır. Bu, hem otomatik (AWB) hem de manuel olarak ayarlanabilen bir fonksiyondur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 133,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9984784126281738
+            "duplication_reason": "Soru kökleri arasındaki fark (\"göre\" kelimesi) anlamsal olarak önemsizdir. Şıklar, şıkların sırası ve doğru cevap indeksi tamamen aynıdır. Bu sorular birebir kopyadır."
         },
         {
             "id": 155,
@@ -3216,9 +3226,8 @@
             "UniteNo": 7,
             "topic": "Görüntü İşleme Tanımı",
             "explanation": "Ünite 7'de Görüntü İşleme tekniklerinin tanımı verilmiştir: \"Görüntü işleme teknikleri temelde mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemlerdir... Dijital görüntü işleme, bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek için kullanılır.\"",
-            "is_duplicate": true,
-            "duplicate_of": 198,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "occurrence_count": 2
         },
         {
             "id": 158,
@@ -3240,7 +3249,8 @@
             "is_duplicate": true,
             "duplicate_of": 97,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 159,
@@ -3300,10 +3310,10 @@
             "topic": "Dijital Çağın Başlatan İcat",
             "explanation": "Soru, dijital çağın başlangıcına olanak tanıyan elektronik alandaki devrimsel bir icadı sormaktadır. Metinde, \"Dijital Çağı Başlatan İlk İcatlar\" başlığı altında, elektronik alanda bir devrim yaratanın transistör olduğu belirtilmiştir. Cümledeki tanım, transistörün işlevini tam olarak karşılamaktadır: \"...transistor 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Amerikalı Bell Laboratuvarları'nda geliştirildi. Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur.\"",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 141,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9884858727455139
+            "duplication_reason": "Soruların metinleri (tanım), seçenek listeleri ve doğru cevapları tamamen aynıdır. Tek fark, şıkların sıralanışıdır. Bu sorular veritabanında kopya (duplicate) olarak işaretlenmelidir."
         },
         {
             "id": 162,
@@ -3322,10 +3332,10 @@
             "UniteNo": 1,
             "topic": "Video Kayıt Teknolojisi",
             "explanation": "Ünite 1'de video kayıt teknolojileri kronolojisinde, 1976 yılında VHS (Video Home System) tanıtıldığı ve bu sayede tüketicilerin kendi video görüntülerini kaydedip izleyebilme imkânına sahip olduğu belirtilmiştir.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 121,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 163,
@@ -3367,7 +3377,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 165,
@@ -3386,10 +3397,10 @@
             "UniteNo": 3,
             "topic": "Dijital Video Kamera Türleri",
             "explanation": "3D kameralar hakkında verilen bilgide, bu kameralarla üç boyutlu fotoğraflar çekilebildiği gibi bu fotoğrafların yine üç boyutlu olarak görüntülenebildiği belirtilmiştir. Ancak metinde 3D kameraların, artırılmış gerçeklik (AR) kavramı ile ilgili deneyimler sunduğu gibi bir ifade geçmemektedir. 3D kameralar, farklı teknolojileri ile izleyicilere farklı deneyimler sunan videolar üretmektedir şeklinde belirtilmiş ancak AR ile doğrudan ilişkilendirilmemiştir. Sorunun bağlamına göre, 3D kameraların AR ile ilgili deneyimler sunduğuna dair bilgi kesinlik taşımamaktadır. Ünite 3'te 3D kameralardan bahsedilirken, 360 derece kameraların artırılmış gerçeklik (AR) kavramı ile ilgili deneyimler sunduğu ifade edilmiştir. 3D kameralar sadece üç boyutlu görüntüleme sunar.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 74,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 166,
@@ -3408,8 +3419,10 @@
             "UniteNo": 3,
             "topic": "Hareketli Görüntü Sabitleme",
             "explanation": "Video kameralarda sabit lensler kullanıldığında el titremesinden kaynaklanan görüntü titreşimini (hareket bulanıklığını) düzeltmek için kullanılan sistemler EİS (Elektronik Görüntü Sabitleyici) ve OİS (Optik Görüntü Sabitleyici) olarak belirtilmiştir. Metinde, \"Eldeki çekim yaparken görüntünün titretilmesi ise başka bir problemdir. Firmalar EİS ve OİS gibi görüntü sabitleyici sistemler ile bu problemin üstesinden gelmek için çalışmalar yürütmüştür.\" bilgisi yer almaktadır. Hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly de kullanılsa da, metinde hareket bulanıklığını elektronik olarak düzelten temel yöntemler EİS ve OİS olarak geçmektedir.",
-            "occurrence_count": 4,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplication_reason": "Exact Text Match",
+            "duplicate_of": 72,
+            "occurrence_count": 0
         },
         {
             "id": 167,
@@ -3489,10 +3502,10 @@
             "topic": "Beyaz Dengesi Ayarları",
             "explanation": "Beyaz Dengesi (White Balance), ışığın renk sıcaklığına göre ayarlanmasıdır. Metinde Beyaz Dengesi için AWB (Otomatik Beyaz Dengesi) ve manuel kontrolün bulunduğu belirtilmiştir. Ayrıca, \"Beyaz Dengesi kavramını anlamak için önce renk ısısı kavramını anlamanız gerekir.\" denilmiştir. ISO Hızı ise sensörün ışığa duyarlılığını ayarlayan bir fonksiyondur, beyaz dengesi ayarı ile doğrudan ilgili değildir. Beyaz Dengesi ayarları; AWB, manuel ayar ve filtreler kullanılarak yapılır. ISO hızı ise pozlama üçgeninin bir parçasıdır ama doğrudan Beyaz Dengesi ayarı başlığı altında sayılmaz.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 128,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9532623291015625
+            "duplication_reason": "Soru metinleri ve şıkların içeriği tamamen aynıdır. Doğru cevap olan \"Depth of field (Alan Derinliği)\" her iki soruda da aynıdır. Sadece şıkların sıralaması değiştirilmiştir."
         },
         {
             "id": 171,
@@ -3512,10 +3525,10 @@
             "topic": "Hazır Sahneleme Modları",
             "explanation": "Ünite 5'te belirtildiği üzere, hazır sahneleme modları (Scene Modes) arasında Portre modu, Manzara modu ve Spor/aksiyon modu bulunmaktadır. Bu modlar, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlemesini sağlar. 'Enstantane Önceliği Modu (S veya Tv)' bir pozlama modu iken, verilen diğer üç seçenek hazır sahneleme modlarıdır. Soru, hazır sahneleme modları içinde yer alanları sorduğu için I, II, III ve IV ifadelerin hepsi bu kategoriye girer. Ancak, metinde verilen örnekler: Portre modu, Manzara modu, Spor/aksiyon modu, Gece/düşük ışık modu ve Makro modu şeklindedir. Dolayısıyla, I, II, III ve IV numaralı ifadelerin hepsi hazır sahneleme modları arasındadır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 86,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9954918622970581
+            "duplication_reason": "Sorular listelenen maddeleri, şıkları, doğru cevabı ve soru kökünü ('Yukarıda' vs. 'Yukarıdaki' hariç) tamamen aynıdır. Bu, tam bir kopyadır."
         },
         {
             "id": 172,
@@ -3594,10 +3607,10 @@
             "UniteNo": 7,
             "topic": "Sayısal Görüntü Formatları",
             "explanation": "Ünite 7'de, 'Camera Raw Yazılımları' başlığı altında, 'Camera Raw dosyası fotoğraf negatifi olarak düşünülebilir. Bu dosyada sayısal fotoğraf makinesinin sensöründen alınan işlenmemiş, sıkıştırılmamış, gri tonlamalı görüntü verileri bulunur' bilgisi yer almaktadır. RAW formatı (RAW dosya uzantısı), fotoğrafın ham veri hâlini temsil eder.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 153,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 176,
@@ -3616,10 +3629,10 @@
             "UniteNo": 7,
             "topic": "Renk Uzayları",
             "explanation": "Ünite 7'de, 'Renk Uzayı (ing. Color Space)' başlığı altında, 'Yaygın olarak RGB (ing. Red, Green, Blue) olarak bilinen kırmızı, yeşil ve mavi bu yeni renk grubunun ana renkleridir' bilgisi verilmektedir. Dolayısıyla RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dir.",
-            "occurrence_count": 4,
             "is_duplicate": true,
             "duplicate_of": 113,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 177,
@@ -3679,7 +3692,7 @@
             "topic": "Stok Fotoğrafçılığı",
             "explanation": "Ünite 8'de, 'Stok Fotoğrafçılığı' tanımında, 'Stok fotoğrafçılığı, belli paylaşım platformları aracılığı ile belli kullanım amaçları için lisanslanan fotoğrafların satılmasıdır. Stok fotoğrafçılığı sisteminde fotoğrafçı, internet üzerinden fotoğrafların yüklendiği, pazarlayıcı olan bir aracı kurum ve bu fotoğrafları o kurumun sayfasından belli bir ücret karşılığı indirerek satın alacak bir alıcı bulunur' bilgisi verilmektedir. Bu açıklama, stok fotoğrafçılığın tanıtım ve çoğaltım/satış amaçlarını kapsar.",
             "is_duplicate": false,
-            "occurrence_count": 2
+            "occurrence_count": 3
         },
         {
             "id": 180,
@@ -3718,10 +3731,10 @@
             "UniteNo": 1,
             "topic": "Transistör İcadı ve Etkisi",
             "explanation": "Transistör, 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Bell Laboratuvarları'nda geliştirilen bir yarı iletken devre unsurudur. Bu icat, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarar ve bilgisayar çağının da önünü açmıştır (Ünite 1).",
-            "occurrence_count": 4,
             "is_duplicate": true,
-            "duplicate_of": 161,
-            "similarity_score": 0.9891232252120972
+            "duplicate_of": 42,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 182,
@@ -3741,9 +3754,7 @@
             "topic": "Video Kayıt Tarihi",
             "explanation": "1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir (Ünite 1).",
             "occurrence_count": 5,
-            "is_duplicate": true,
-            "duplicate_of": 3,
-            "similarity_score": 0.9551655054092407
+            "duplication_reason": "Soru kökleri ve şık setleri tamamen aynıdır. Sadece şıkların sıralaması farklıdır. Bunlar anlamsal olarak ve kelimesi kelimesine kopyadır (perfect duplicate)."
         },
         {
             "id": 183,
@@ -3763,9 +3774,10 @@
             "topic": "Standart Kompakt Makineler",
             "explanation": "Standart kompakt fotoğraf makineleri, avuç içi boyutlarında ve kullanımı kolaydır (hafif tasarıma sahip olması). Genellikle basit kullanışlı makinelerdir ve otomatik ayarları mevcuttur (I ve II avantajdır). Genellikle küçük sensörlere sahiptirler (IV avantajdır), ancak büyük sensörlere sahip gelişmiş kompaktlara göre görüntü kaliteleri teorik olarak daha düşüktür. Bu makineler genellikle manuel kontrol imkânı sunmazlar veya çok sınırlıdır (III, iyileştirilmiş görüntü kalitesi ve gelişmiş kontrol bağlamında dezavantajdır) (Ünite 2).",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 203,
-            "original_source": "Yaz Okulu 2023-2024"
+            "occurrence_count": 0,
+            "duplicate_of": 10,
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Soru metni (I-IV listesi) ve soru kökleri anlamsal olarak tamamen aynıdır. Şık dizilimi ve belirlenen doğru cevap setleri farklılık gösterse de, aynı bilgiyi sorgulayan özdeş içeriklerdir ve veritabanında kopya olarak işaretlenmelidir."
         },
         {
             "id": 184,
@@ -3787,7 +3799,8 @@
             "is_duplicate": true,
             "duplicate_of": 163,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 185,
@@ -3807,9 +3820,10 @@
             "topic": "Görüntü Sabitleme Teknolojileri",
             "explanation": "Hareketli görüntü sinyallerinde mekanik olmayan sabitleme, elektronik olarak gerçekleştirilir. Dijital video kameralarda, titreşimi elektronik olarak düzelten sistemler EIS (Electronic Image Stabilization) ve OIS (Optical Image Stabilization) olarak adlandırılır. EIS, mekanik bir aparat kullanmadan, elektronik olarak görüntü sabitleme sağlar (Ünite 3).",
             "is_duplicate": true,
-            "duplicate_of": 13,
+            "duplicate_of": 72,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 0.9900201559066772
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 186,
@@ -3829,9 +3843,10 @@
             "topic": "3D Video Kameralar",
             "explanation": "Fujifilm FinePix Real 3D System, 2009 yılında tanıtılan dünyanın ilk üç boyutlu (3D) dijital görüntüleme sistemidir. Bu kameralarla hem üç boyutlu fotoğraf çekilebildiği hem de üç boyutlu olarak görüntülenebildiği belirtilmiştir. Ancak, 3D video kameraların doğrudan 3D video çekimine odaklandığı bilgisi metinde özellikle vurgulanmamıştır; 3D fotoğraf çekimi vurgulanmıştır. Ayrıca, 3D kameraların genel olarak VR/AR ile birlikte 'artırılmış gerçeklik' kavramıyla ilişkilendirildiği ve izleyicilere farklı deneyimler sunduğu belirtilmiştir. 3D kameraların yalnızca video çekimine odaklandığı bilgisi doğru kabul edilemez, çünkü 3D fotoğraf da çekebildikleri belirtilmiştir (Ünite 3).",
             "is_duplicate": true,
-            "duplicate_of": 165,
+            "duplicate_of": 74,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 187,
@@ -3873,7 +3888,8 @@
             "is_duplicate": true,
             "duplicate_of": 167,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 189,
@@ -3892,8 +3908,10 @@
             "UniteNo": 5,
             "topic": "Histogram Fonksiyonu",
             "explanation": "Histogram, fotoğraf çekimi sırasında pozlamanın doğru olup olmadığını ve ışık/gölge dengesini anında gösteren bir grafiktir. Parlaklık histogramı sol tarafı siyahı, sağ tarafı beyazı temsil ederken, RGB histogramı renk doygunluğunu gösterir (Ünite 5).",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Semantic Similarity (0.97)",
+            "is_duplicate": true,
+            "duplicate_of": 87,
+            "occurrence_count": 0
         },
         {
             "id": 190,
@@ -3912,10 +3930,10 @@
             "UniteNo": 5,
             "topic": "Işık Ölçüm Modları",
             "explanation": "Işık ölçüm modlarından Nokta ölçüm (Spot metering), sayısal fotoğraf makinesinin otomatik netleme noktası etrafından ışığı küçük bir yüzeyden (spot) ölçen moddur. Matris ve Kısmi ölçüm de diğer modlardır (Ünite 5).",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 146,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 191,
@@ -3935,9 +3953,10 @@
             "topic": "Hazır Sahneleme Modları",
             "explanation": "Hazır sahneleme modları, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlediği modlardır. Metinde belirtilen örneklere göre Portre modu, Manzara modu, Spor/aksiyon modu ve Gece/düşük ışık modu hazır sahneleme modları arasındadır. Renk Modu (Renk Uzayı), bir ayar seçeneğidir, hazır sahneleme modu değildir.",
             "is_duplicate": true,
-            "duplicate_of": 171,
+            "duplicate_of": 86,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9954918622970581
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 192,
@@ -3977,9 +3996,10 @@
             "topic": "Stüdyo Türleri",
             "explanation": "Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü, doğrudan bir stüdyo türü olarak adlandırılmamakla birlikte, ticari çekimlerde (Reklam ve Tanıtım Fotoğrafçılığı kapsamında) özel set tasarımlarıyla gerçekleştirilen çekimlerdir. Metinde bahsi geçen 'Reklam ve Tanıtım Fotoğrafçılığı'nda, ürünün veya hizmetin tanıtımı için farklı setlerin kurulduğu belirtilmektedir. Bu tür çekimlerin yapıldığı stüdyolar, genellikle 'Ticari' veya 'Set' odaklı stüdyolardır. Verilen seçenekler içinde, ticari çekimlerin yaygın olduğu ve farklı amaçlara yönelik dekorlarla düzenlenebildiği belirtilen 'Büyükçe bir alana sahip bu stüdyolar, birden fazla bölünmüş ve belirli amaçlara göre dekorlarla düzenlenmiş alanlarıyla aynı anda farklı çekimlerin yapılmasına imkân tanımaktadır' kısmı bu tanıma uymaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 150,
+            "duplicate_of": 88,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 194,
@@ -4019,9 +4039,10 @@
             "topic": "Sayısal Görüntü Formatları",
             "explanation": "Sayısal fotoğraf makineleri tarafından üretilen ve sensörden alınan işlenmemiş, sıkıştırılmamış, gri tonlamalı görüntü verilerini içeren dosya türü RAW formatıdır. Ünite 7'de, 'RAW'ın Hareketsiz sayısal görüntü formatları olarak ifade edilen bu dosyalama yapısı...' şeklinde belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 175,
+            "duplicate_of": 153,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 196,
@@ -4061,10 +4082,10 @@
             "topic": "Beyaz Dengesi",
             "explanation": "Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını kamera/video kamerasına tanımlama işlemi Beyaz Denge (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te Beyaz Dengesi başlığı altında, 'Beyaz dengesi, fotoğraf görüntüleri üzerinde önemli bir etkiye sahiptir. Sıcaklık veya soğukluk dengesi tamamlayıcı renk eklenerek düzeltilebilir' ifadesi yer almaktadır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 154,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.995071291923523
+            "duplication_reason": "Soru kökleri (anlamsal olarak) ve şık içerikleri tamamen aynıdır. Sadece şıkların sıralaması ve soru kökünün sonunda çok ufak bir gramer farkı ('kameraya' vs 'kamerasına') mevcuttur. Her iki soru da 'Beyaz ayarı'nı sormaktadır ve birebir kopyadır."
         },
         {
             "id": 198,
@@ -4083,10 +4104,10 @@
             "UniteNo": 7,
             "topic": "Görüntü İşleme Tanımı",
             "explanation": "Ünite 7'de Görüntü İşleme teknikleri (Dijital Görüntü İşleme), bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek ve analiz etmek olarak tanımlanmıştır: \"Dijital görüntü işleme, bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek için kullanılır.\"",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 157,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 199,
@@ -4106,10 +4127,10 @@
             "topic": "Kopyalama (Reprodüksiyon)",
             "explanation": "Boş bırakılan yer, bir eserin kopyalanarak sayısal forma dönüştürülmesi, tanıtım katalogları, web siteleri, sosyal medya yayınları ve sayısal baskılar için kullanılması tekniğini tanımlamaktadır. Ünite 8'de, Kopyalama (Reprodüksiyon) başlığı altında, 'sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelmektedir' ve bu işlemlerin katalog, web sitesi ve dekorasyon malzemesi olarak kullanıldığı belirtilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 179,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 0.9984768033027649
+            "duplication_reason": "Soru kökleri, doldurulması istenen ifade ve şık setleri tamamen aynıdır. Soru 2'de ufak bir metin hatası (\"eseri eserlerinin\") bulunsa da, anlamsal içerik ve doğru cevap değişmediği için bu iki soru veritabanında kopya (duplicate) olarak işaretlenmelidir."
         },
         {
             "id": 200,
@@ -4131,7 +4152,8 @@
             "is_duplicate": true,
             "duplicate_of": 178,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 201,
@@ -4171,9 +4193,10 @@
             "topic": "Endüstri Devrimleri Tarihi",
             "explanation": "Televizyonda canlı yayınlar dışında bant kaydını mümkün kılan gelişme, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile gerçekleşmiştir. Bu cihaz manyetik makara bantlara kayıt yapabilmiştir. (Ünite 1, Sayısal Çağ Dönümü başlığı altındaki kronoloji)",
             "is_duplicate": true,
-            "duplicate_of": 3,
+            "duplicate_of": 182,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9551655054092407
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 203,
@@ -4193,9 +4216,9 @@
             "topic": "Kompakt Makine Avantajları",
             "explanation": "Standart kompakt fotoğraf makinelerinin avantajları Ünite 2'de listelenmiştir: Menü kullanımı rahatlığı (pratik kullanışlılık), hafifliği (avuç içi boyutlarında), küçük sensörlere sahip olması (maliyet düşüklüğü). Görüntü kalitesinin iyileştirilmiş olması (III), diğer gelişmiş makinelere kıyasla bir avantaj olarak belirtilmez; aksine çözünürlükleri yüksek görünse de büyük sensörlerle aynı çözünürlüğe sahip değillerdir. Ancak, I (kolay kullanım), II (hafiflik) ve IV (küçük sensör) kesin avantajlardır. Sorunun doğru kabul edilen şıkkı C (I, II ve III) olduğundan, III'ün de genel bir gelişme veya kullanıcı için yeterli bir kalite sunduğu varsayılmıştır. I, II, ve IV net avantajlardır. I (Kolay kullanım), II (Hafif), IV (Küçük sensör/maliyet avantajı). I, II ve III'ün kabul edilmesi durumunda, III genellikle ana avantaj olarak öne sürülmez ancak I, II ve IV kesin avantajlardır. I, II ve III şıkkı mevcut olduğu için bu şıkkı seçiyoruz. (I, II ve IV en doğru liste olsa da, verilen doğru şık I, II ve III'ü gerektirir).",
             "is_duplicate": true,
-            "occurrence_count": 3,
+            "occurrence_count": 0,
             "duplicate_of": 183,
-            "similarity_score": 0.9888042211532593
+            "duplication_reason": "Soruların öncülleri, şıkları ve doğru cevapları tamamen aynıdır. Soru köklerindeki 'hangisi' ve 'hangisi veya hangileri' arasındaki fark, şık formatları göz önüne alındığında anlamsal olarak kopyayı işaretler ve soru veritabanında tek bir soru olarak tutulmalıdır."
         },
         {
             "id": 204,
@@ -4314,8 +4337,10 @@
             "UniteNo": 5,
             "topic": "Pozlama ve Histogram",
             "explanation": "Histogram, bir görüntünün pozlamasının (parlaklık) doğru olup olmadığını, ışık ve gölgenin dengeli olup olmadığını anında gösteren bir grafiktir. Parlaklık histogramı, sol tarafın tam siyahı, sağ tarafın tam beyazı temsil ettiği bir grafik olarak pozlama bilgisi verir. (Ünite 5, Histogram başlığı)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "İki sorunun da metin içeriği (tanım) ve şıkları tamamen aynıdır. Sadece şıkların sıralaması farklıdır (shuffling), bu nedenle doğru cevap indeksi değişmiştir. Anlam ve içerik olarak birebir kopyadırlar.",
+            "duplicate_of": 189
         },
         {
             "id": 210,
@@ -4335,9 +4360,10 @@
             "topic": "Hazır Sahneleme Modları",
             "explanation": "Ünite 5'te, hazır sahneleme modlarına örnek olarak Portre modu, Manzara modu, Spor/aksiyon modu, Gece/düşük ışık modu ve Makro modu verilmiştir. Buna göre II, III ve IV şıklarındaki modlar hazır sahneleme modları arasındadır.",
             "is_duplicate": true,
-            "duplicate_of": 171,
+            "duplicate_of": 86,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9954918622970581
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 211,
@@ -4378,7 +4404,8 @@
             "is_duplicate": true,
             "duplicate_of": 112,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 213,
@@ -4398,10 +4425,10 @@
             "topic": "Stüdyo Fon Türleri",
             "explanation": "Mekân/Set Fonlar, fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurların kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanıldığı fon türüdür. Ünite 6'daki Stüdyo Fon Türleri ve İşlevleri bölümünde bu tanım mevcuttur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 109,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9707554578781128
+            "duplication_reason": "Her iki sorunun metni (tanımı verilen kavram) tamamen aynıdır. Şık listeleri aynı seçenekleri içermekte olup, sadece şıkların sıralaması farklıdır. Doğru cevap (Mekân/Set Fonlar) her iki soruda da aynıdır. Bu sorular kopyadır."
         },
         {
             "id": 214,
@@ -4440,8 +4467,10 @@
             "UniteNo": 7,
             "topic": "Sayısal Görüntü Formatları",
             "explanation": "Ünite 7'de, PNG formatı, \"kayıpsız sıkıştırma sunar ve şeffaflık desteği olan bir raster formattır.\" TIFF ve RAW da kayıpsız/ham veri tutarken, PNG de renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırma imkanı sunan bir formattır (JPEG'in aksine).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Her iki soru da kelimesi kelimesine aynı teknik tanımı (görüntülerin gerçek renk ve saydamlık bilgileri, kayıpsız sıkıştırma) kullanarak aynı dosya formatını (PNG) sormaktadır. Soru kökleri anlamsal olarak tamamen aynıdır.",
+            "duplicate_of": 115
         },
         {
             "id": 216,
@@ -4463,7 +4492,8 @@
             "is_duplicate": true,
             "duplicate_of": 196,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 217,
@@ -4483,9 +4513,10 @@
             "topic": "RGB Renk Uzayı",
             "explanation": "RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi'dir (Blue). Ünite 7'de Renk Uzayı başlığı altında, yaygın olarak RGB'nin Kırmızı, Yeşil ve Mavi ana renklerinden oluştuğu belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 176,
+            "duplicate_of": 113,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 218,
@@ -4505,9 +4536,10 @@
             "topic": "VR Teknolojisi",
             "explanation": "VR (sanal gerçeklik) teknolojisi, fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir. Ünite 8'de VR, AR, 360 Derece Fotoğrafçılık başlığı altında bu tanım verilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 200,
+            "duplicate_of": 178,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 219,
@@ -4546,8 +4578,10 @@
             "UniteNo": 8,
             "topic": "Kopyalama (Reprodüksiyon)",
             "explanation": "Kopyalama (Reprodüksiyon), bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelir ve tanıtım kataloglarına konma, web sitesinde yayınlama, sayısal baskı yapma gibi amaçlarla kullanılır. Ünite 8'de Kopyalama (Reprodüksiyon) başlığı altında bu teknikten bahsedilmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Sorular aynı tanımı sormaktadır. Soru metnindeki ufak bir kelime farkı ('eseri eserlerinin' yerine 'sanat eserlerinin') dışında içerik tamamen aynıdır. Şıklar aynıdır (sadece sırası değişmiştir) ve doğru cevap (Reprodüksiyon) her iki soruda da aynıdır.",
+            "duplicate_of": 199
         },
         {
             "id": 221,
@@ -4569,7 +4603,8 @@
             "is_duplicate": true,
             "duplicate_of": 44,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 222,
@@ -4589,10 +4624,10 @@
             "topic": "İkinci Endüstri Devrimi",
             "explanation": "Metinde belirtildiğine göre, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, İkinci Endüstri Devrimi (Endüstri 2.0) dönemindeki gelişmelerdendir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 101,
+            "occurrence_count": 0,
+            "duplicate_of": 202,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9662731885910034
+            "duplication_reason": "Soru kökleri, aynı teknolojik gelişmeyi (bant kaydını mümkün kılanı) sormaktadır ve kullanılan şıklar bütünüyle aynıdır (sadece sıralamaları farklıdır). Doğru cevap (VTR) her iki soruda da aynıdır. Bu, anlamsal olarak tamamen kopyadır."
         },
         {
             "id": 223,
@@ -4612,10 +4647,10 @@
             "topic": "Kompakt Fotoğraf Makineleri",
             "explanation": "Standart kompakt fotoğraf makineleri (bas-çek), kolay taşınabilirlik ve kullanım pratikliği sunar (I ve II. avantajlar). Görüntü kalitesinin iyileştirilmiş olması da genel bir avantajdır (III.). Ancak, kompakt makinelerin sensörleri DSLR ve aynasız kameralara göre daha küçüktür, bu nedenle 'Küçük sensörlerinin olması' bir avantaj değil, bir kısıtlamadır (Ünite 2'deki 'Küçük sensörlerle maliyetleri oldukça düşürülmüştür' ifadesi ile karşılaştırılabilir).",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 183,
+            "occurrence_count": 0,
+            "duplicate_of": 203,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.984359622001648
+            "duplication_reason": "İki soru, soru metni (madde listesi dahil), şık dizilimi ve doğru cevap indeksi açısından birebir aynıdır. Tek fark metin içindeki satır sonu formatlamasıdır."
         },
         {
             "id": 224,
@@ -4637,7 +4672,8 @@
             "is_duplicate": true,
             "duplicate_of": 204,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 225,
@@ -4657,9 +4693,10 @@
             "topic": "Görüntü Sabitleme Teknolojileri",
             "explanation": "Ünite 3'te, Elde çekim yaparken görüntünün titremesini önlemek için firmaların EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi sistemler kullandığı belirtilmiştir. Mekanik aparatlar (gimbal, vinç vb.) kullanılmadan hareketi elektronik olarak düzelten sistem EIS veya OIS'tir. Video kameralarda bu, genellikle EIS (Elektronik Görüntü Sabitleme) ile sağlanır.",
             "is_duplicate": true,
-            "duplicate_of": 13,
+            "duplicate_of": 72,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 0.9900201559066772
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 226,
@@ -4679,10 +4716,10 @@
             "topic": "Stüdyo Donanımları",
             "explanation": "Ünite 6'da, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlar arasında Gimbal, vinç mekanizmaları ve Dolly'den bahsedilmiştir. Vinç mekanizması, kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın hareketli görüntü elde etmesini sağlayan bir cihazdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 205,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9611732959747314
+            "duplication_reason": "Soru metni (bir kelime eksikliği dışında), şıklar ve doğru cevap tamamen aynıdır. Her iki soru da aynı teknik terimi sormaktadır."
         },
         {
             "id": 227,
@@ -4702,9 +4739,10 @@
             "topic": "Veri Yedekleme Çözümleri",
             "explanation": "Ünite 4'te, yedekleme ve veri kurtarma yazılımları başlığı altında, iki ve daha fazla sayıda sabit diskten network sistemi kurarak çalıştıran NAS (Network Attached Storage) sistemlerinin, yerel ağ ya da internet üzerinden veri erişimi sağladığı belirtilmiştir. Bulut tabanlı depolama da bir alternatiftir.",
             "is_duplicate": true,
-            "duplicate_of": 60,
+            "duplicate_of": 19,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 228,
@@ -4744,9 +4782,10 @@
             "topic": "Beyaz Dengesi",
             "explanation": "Ünite 5'te Beyaz Dengesi (White Balance) kavramının renk ısısı ve Kelvin (K) ile ölçülen renk sıcaklığı ile ilgili olduğu belirtilmiştir. Histogram ise parlaklık ve renk doygunluğu (RGB) ile ilgilidir, beyaz dengesi ayarı ile doğrudan ilişkili bir ayar değildir.",
             "is_duplicate": true,
-            "duplicate_of": 170,
+            "duplicate_of": 128,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 0.9532623291015625
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 230,
@@ -4768,7 +4807,8 @@
             "is_duplicate": true,
             "duplicate_of": 189,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9982254505157471
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 231,
@@ -4808,9 +4848,10 @@
             "topic": "Işık Şekillendiriciler",
             "explanation": "Snoot, ışık kaynaklarının önüne takılan ve huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak için kullanılan bir ışık şekillendiricidir. Gobo, efekt filtresi olarak nitelendirilir; Petek, ışığın gücünü ve yayılım açısını sınırlar; Yumuşatıcı/Softbox ise ışığı yumuşatır.",
             "is_duplicate": true,
-            "duplicate_of": 212,
+            "duplicate_of": 112,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 233,
@@ -4831,7 +4872,9 @@
             "explanation": "Retoucher, fotoğraf işlemede kullanılan yazılımları (Adobe Photoshop gibi) etkin ve yaratıcı bir biçimde kullanan personeli ifade eder.",
             "is_duplicate": true,
             "duplicate_of": 110,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 234,
@@ -4871,9 +4914,10 @@
             "topic": "Renk Uzayları",
             "explanation": "RGB (Red, Green, Blue) renk uzayı, bilgisayar, televizyon ve dijital kameralar gibi elektronik sistemlerde kullanılan toplamsal ana renk sistemidir. Bu sistemin ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dir. CMYK ise baskı teknolojilerinde kullanılan çıkarımsal renk uzayının ana renkleridir.",
             "is_duplicate": true,
-            "duplicate_of": 217,
+            "duplicate_of": 113,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 236,
@@ -4913,9 +4957,10 @@
             "topic": "Piksel Kavramı",
             "explanation": "Piksel (ing. picture element), görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan ve sayısal değeri (pixel/inch-pixel/cm) renk derinliği ve geçişlerindeki homojenliğini etkileyerek görüntü kalitesini çözünürlüğü oluşturması açısından doğrudan etkileyen sayısal veri noktalarıdır.",
             "is_duplicate": true,
-            "duplicate_of": 216,
+            "duplicate_of": 196,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 238,
@@ -4955,9 +5000,10 @@
             "topic": "Fon Türleri",
             "explanation": "Sonsuz Fon, stüdyoda düz bir duvarın zeminle kıvrımlı bir şekilde birleştirilmesiyle oluşturulur ve bir eğim ile birleştirildiği izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandıran arka plandır.",
             "is_duplicate": true,
-            "duplicate_of": 139,
+            "duplicate_of": 98,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 240,
@@ -4978,7 +5024,9 @@
             "explanation": "Kopyalama (Reprodüksiyon), sayısal fotoğrafçılıkta bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelmektedir. Bu işlem, eserin özgün tekniği dışında bir teknikle çoğaltılmasıdır.",
             "is_duplicate": true,
             "duplicate_of": 119,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

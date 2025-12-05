@@ -102,10 +102,20 @@
     > **Açıklama:** Metinde, genel olarak dört temel kategoride incelenen sanat kuramları (temsil ve taklit teorisi, dışavurum teorisi, biçimcilik ve estetik deneyim teorisi) sıralanmıştır. Rus yazar Tolstoy'un, sanatın temel işlevinin, sanatçının hissettiği duyguları alıcıya iletmek olduğu yönündeki görüşü, yani duyguların yüzeye çıkarılması, 'Dışavurum' teorisiyle (İfade Teorisi) doğrudan ilişkilidir.
 
     <hr />
+1. Sanatı tanımlamak için üretilen sanat teorileri arasında aşağıda sunulanlardan hangisi Platon ve Aristoteles'e atfedilir? *(2 kez soruldu)*
+    - **Cevap A-) Taklit ve temsil kuramı**
+    - B-) Dışavurum
+    - C-) Estetik deneyim
+    - D-) Biçimcilik
+    - E-) Performans sanatları
+
+    > **Açıklama:** Platon ve Aristoteles'e atfedilen sanat teorisi, geleneksel olarak 'Taklit Teorisi'dir. Metinde, 'Taklit veya Temsil Olarak Sanat' başlığı altında, bu teorinin günümüzde en eski sanat teorisi olarak kabul edildiği belirtilir. Platon ve Aristoteles'in felsefi tartışmalarının temeli olan mimesis kavramı, bu teoriye dayanır.
+
+    <hr />
 
 ### Sanat ve Zanaat Ayrımı
 
-1. Zanaat kavramı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?<br />A) Zanaatlar el becerisi ile ilgilidir.<br />B) Zanaat ve sanat kavramları günümüzde bile eş anlamlı olarak kullanılır.<br />C) Sanat Kant'a göre özgürdür fakat zanaat ise ticari olduğu için alıcısına ve dolayısıyla pazara bağlıdır ve özgür değildir.<br />D) Antik Yunan'da şiir, resim, müzik ve benzerlerini genellikle "sanat" veya "zanaat" olarak tercüme edilen technē kavramı ile tanımlanmıştır.<br />E) Rönesans boyunca, güzel sanatlar zanaat olarak ya da en azından el sanatlarına benzer şekilde kabul edilmiştir.
+1. Zanaat kavramı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?<br />A) Zanaatlar el becerisi ile ilgilidir.<br />B) Zanaat ve sanat kavramları günümüzde bile eş anlamlı olarak kullanılır.<br />C) Sanat Kant'a göre özgürdür fakat zanaat ise ticari olduğu için alıcısına ve dolayısıyla pazara bağlıdır ve özgür değildir.<br />D) Antik Yunan'da şiir, resim, müzik ve benzerlerini genellikle "sanat" veya "zanaat" olarak tercüme edilen technē kavramı ile tanımlanmıştır.<br />E) Rönesans boyunca, güzel sanatlar zanaat olarak ya da en azından el sanatlarına benzer şekilde kabul edilmiştir. *(2 kez soruldu)*
     - A-) Zanaatlar el becerisi ile ilgilidir.
     - **Cevap B-) Zanaat ve sanat kavramları günümüzde bile eş anlamlı olarak kullanılır.**
     - C-) Sanat Kant'a göre özgürdür fakat zanaat ise ticari olduğu için alıcısına ve dolayısıyla pazara bağlıdır ve özgür değildir.
@@ -167,6 +177,19 @@
 
     <hr />
 
+### Grafik Tasarım İlkeleri
+
+1. Aşağıdakilerden hangisi grafik tasarımın aşamalarından biri değildir? *(3 kez soruldu)*
+    - A-) Bilgi toplama
+    - B-) Yaratıcılık ve buluş süreci
+    - **Cevap C-) Çerçeveleme**
+    - D-) Çözüm bulma
+    - E-) Problem tanımı
+
+    > **Açıklama:** Ünite 2'de grafik tasarım süreçlerinin beş temel ilkesi Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük ve Vurgulama olarak belirtilmiştir. Bu ilkeler arasında yer almayan bir seçenek aranmaktadır. Tanıtımda geçen diğer kavramlar (Tasarım Odaklı Düşünme Süreci, İletişim gibi) bu temel ilkeler listesinde yer almaz.
+
+    <hr />
+
 ### Mimari Tasarım Akımları
 
 1. Mimaride "hareket" duygusu kazandıran, keskin kenarları olan girinti çıkıntılar, oval, geometrik hatlardan oluşan, geleneksellik karşıtı dinamik, iddialı tasarımlardır, doğa dostu bir anlayışa sahiptir, yapısal özellikleri/formları doğaya uyumludur. Yukarıda tanımlanan mimari anlayış aşağıdakilerden hangisidir? *(3 kez soruldu)*
@@ -193,22 +216,9 @@
 
     <hr />
 
-### Moda Kavramı Tanımı
-
-1. Tüketim kültürünün geliştirdiği, beslediği sosyolojik/kültürel değişimler üzerine konumlandırdığı ve tüketim alanlarına yayılmış giyimden, yaşam tarzından, insanlar arasındaki davranış/etkileşim biçimlerinden, eğitim ve tüm sosyal iletişimi kapsayan olguya ----denir.
-    - A-) Akım
-    - B-) Görsel imge
-    - C-) İletişim
-    - D-) Popülizm
-    - **Cevap E-) Moda**
-
-    > **Açıklama:** Ünite 2'de Moda Tasarımı başlığı altında, "Moda kavramı, tüketim kültürünün geliştirdiği, beslediği, sosyolojik/kültürel değişimler üzerine konumlandırdığı ve tüketim alanlarına yayılmış giyimden, yaşam tarzından, insanlar arasındaki davranış/etkileşim biçimlerinden, eğitim ve tüm sosyal iletişimi kapsayan bir olgudur" şeklinde tanımlanmıştır. Bu tanım, soruda verilen tanıma birebir uymaktadır.
-
-    <hr />
-
 ### Moda Tasarımı Tanımı
 
-1. Tüketim kültürünün geliştirdiği, beslediği, sosyolojik/kültürel değişimler üzerine konumlandırdığı ve tüketim alanlarına yayılmış giyimden, yaşam tarzından, insanlar arasındaki davranış/etkileşim biçimlerinden, eğitim ve tüm sosyal iletişimi kapsayan olguya ---------.denir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Tüketim kültürünün geliştirdiği, beslediği, sosyolojik/kültürel değişimler üzerine konumlandırdığı ve tüketim alanlarına yayılmış giyimden, yaşam tarzından, insanlar arasındaki davranış/etkileşim biçimlerinden, eğitim ve tüm sosyal iletişimi kapsayan olguya ---------.denir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Popülizm
     - B-) İletişim
     - C-) Görsel imge
@@ -347,7 +357,7 @@
 
 ### Bellek Kavramı
 
-1. Yaşananları, öğrenilen konuları, bilgileri almak, depolamak, saklamak ve daha sonra kullanmak için aktif hâle geçen süreci ifade eder. Yukarıdaki tanımlamanın ifade ettiği kavram aşağıdakilerden hangisidir?
+1. Yaşananları, öğrenilen konuları, bilgileri almak, depolamak, saklamak ve daha sonra kullanmak için aktif hâle geçen süreci ifade eder. Yukarıdaki tanımlamanın ifade ettiği kavram aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Bellek**
     - B-) Düşünce
     - C-) Algı
@@ -368,16 +378,6 @@
     - **Cevap E-) İmge**
 
     > **Açıklama:** Ünite 3'te (Sayfa 2), 'İmge' kavramı, 'bireyin hayalinde oluşturduğu düşünce ve duygularla ilgili kavramları içeren ve bu kavramları simgeleştiren zihinsel görüntülerdir' şeklinde tanımlanmıştır. Bu tanım, soruda verilen 'Bireyin hayalinde oluşturduğu düşünce ve duygularla ilgili kavramları içeren ve bu kavramları zihinsel simgeleştiren görüntülere ne ad verilir?' sorusunun cevabıdır. Doğru cevap E seçeneğidir.
-
-    <hr />
-1. Bireyin hayalinde oluşturduğu düşünce ve duyguları ilgili kavramları içeren ve bu kavramları birbirine zıt/benzer görüntürelere ne ad verilir?
-    - **Cevap A-) İnge**
-    - B-) Algı
-    - C-) Düşünce
-    - D-) Bellek
-    - E-) Kültür
-
-    > **Açıklama:** İmge, bireyin hayalinde oluşturduğu düşünce ve duygularla ilgili kavramları içeren ve bu kavramları simgeleştiren zihinsel görüntülerdir. İmgelem ise imgeden farklı olarak önceden görülmüş, yaşanmış olayların zihinde canlandırılması ve yeni olayların zihinde yaratılması ve tasarlanmasıdır. Barthes'a göre, zihin imgelerle düşünür ve imgeler düşünceyi oluşturur.
 
     <hr />
 
@@ -409,7 +409,7 @@
 
 ### Düz Anlam/Yan Anlam
 
-1. -------, çok sınırlı bir yorum olanakları kümesi sunar. Esnekliği olmayan katı anlatılardır. Okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, acıma veya korku, heyecan veya çöküntü duygularını yerli yerinde ve gereken zamanda uyandıracak şekilde etkilemeyi amaçlayan metinlerdir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. -------, çok sınırlı bir yorum olanakları kümesi sunar. Esnekliği olmayan katı anlatılardır. Okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, acıma veya korku, heyecan veya çöküntü duygularını yerli yerinde ve gereken zamanda uyandıracak şekilde etkilemeyi amaçlayan metinlerdir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - A-) Açık metinler
     - B-) Metonimler
     - C-) Düz anlamlar
@@ -520,7 +520,7 @@
 
 ### Sanat Tarihi
 
-1. Hem bilim hem de sanat alanında eskiz çalışmaları dikkat çeken sanatçı aşağıdakilerden hangisidir?
+1. Hem bilim hem de sanat alanında eskiz çalışmaları dikkat çeken sanatçı aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Goya
     - **Cevap B-) Leonardo da Vinci**
     - C-) Rauschenberg
@@ -559,7 +559,7 @@
 
 ### İmge Kavramı
 
-1. Bireyin hayalinde oluşturduğu düşünce ve duygularla ilgili kavramları içeren ve bu kavramları simgeleştiren zihinsel görüntülere ne ad verilir?
+1. Bireyin hayalinde oluşturduğu düşünce ve duygularla ilgili kavramları içeren ve bu kavramları simgeleştiren zihinsel görüntülere ne ad verilir? *(2 kez soruldu)*
     - A-) Bellek
     - B-) Düşünce
     - C-) Algı
@@ -927,7 +927,7 @@
 
 ### Görsel Ögeler
 
-1. Aşağıdakilerden hangisi moda tasarımında görsel imgelerin plastik göstergeler içerisinde değerlendirildiği ögelerdendir?
+1. Aşağıdakilerden hangisi moda tasarımında görsel imgelerin plastik göstergeler içerisinde değerlendirildiği ögelerdendir? *(3 kez soruldu)*
     - A-) Boşluk ve Espas
     - B-) Işık ve Gölge
     - C-) Simetri ve Asimetri
@@ -977,6 +977,19 @@
 
     <hr />
 
+### Renk Sistemleri
+
+1. Ana renkler karıştırma gerektirmez. Görsel olarak başka renklere parçalanamaz ya da tamamlayıcı parçalara indirgenemez. Ana renklerin her biri birbirinden farklıdır çünkü hiçbir ortak yanları yoktur. Yukarıdaki anlatıma örnek verilebilecek renk aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Turuncu
+    - B-) Beyaz
+    - C-) Mor
+    - D-) Yeşil
+    - **Cevap E-) Sarı**
+
+    > **Açıklama:** Ünite 6'ya göre, ana renkler (sarı, kırmızı, mavi) diğer renklerin karışımıyla elde edilemeyen ve parçalanamayan renklerdir. Soruda ana renklerin temel özellikleri (karıştırılamama, başka renklere indirgenememe, birbirinden farklı olma) verilmiştir. Bu renklerden biri olan kırmızı (veya sarı veya mavi) ana renktir.
+
+    <hr />
+
 ### Renk ve Leke İlişkisi
 
 1. Yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşması olarak tanımlanan kavram aşağıdakilerden hangisidir?
@@ -987,6 +1000,19 @@
     - E-) Boşluk
 
     > **Açıklama:** Leke, yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşması olarak tanımlanır. Lekeler, pürüzlü, dokulu, çizgisel, noktasal gibi çeşitli özellikler taşıyabilirler ve tasarımda görsel bir ağırlık oluştururlar.
+
+    <hr />
+
+### Renk ve Sembolizm
+
+1. Düşüncenin rengi olarak kabul edilen ve kişiler için otorite ve sonsuzluk sembolü olan renk aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - **Cevap A-) Lacivert**
+    - B-) Kırmızı
+    - C-) Siyah
+    - D-) Yeşil
+    - E-) Mor
+
+    > **Açıklama:** Ünite 6'da Renk konusu işlenirken, mavi rengin psikolojik olarak otorite ve sonsuzluk sembolü olduğuna dair bir bilgi bulunmamaktadır. Ancak, genel renk algısı ve kültürel kullanımı başlıklarında renklerin kültürel ve psikolojik anlamları olduğu vurgulanır. Genel olarak, mavi renk kültürlerde güven, bilgelik ve otorite ile ilişkilendirilir. Ancak, metinlerde bu spesifik bilgiye doğrudan rastlanmadığından, en uygun cevabın, metinde bahsedilen temel renklerden birini seçmek olduğu varsayılır. CMYK sisteminin ana renklerinden olan Mavi (Cyan) veya Kırmızı (Magenta) seçenekleri güçlü adaylardır. Ancak, metinde maviye dair spesifik bir kültürel atıf varsa onu tercih etmeliyiz. Ünite 6'da mavi, gökkuşağının renklerinden biri olarak geçer, ancak otorite ve sonsuzluk sembolizmi kesin olarak belirtilmez. Fakat CMYK'nin ana renklerinden biri olan Mavi (Cyan) baskı sisteminde temel bir renktir ve genel kültürel algıda otoriteyi temsil edebilir. Verilen seçenekler arasında, temel renkler (sarı, kırmızı, mavi) güçlü adaylardır. Bu tür sorular genellikle 'en baskın sembolik anlama sahip olan temel rengi' sorar. Mavi, sıklıkla otorite ve güvenle ilişkilendirilir.
 
     <hr />
 
@@ -1005,7 +1031,7 @@
 
 ### Renk Çemberi
 
-1. Yeşil rengin kontrastı (zıttı) olan renk aşağıdakilerden hangisidir?
+1. Yeşil rengin kontrastı (zıttı) olan renk aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Turuncu
     - B-) Mavi
     - **Cevap C-) Kırmızı**
@@ -1046,7 +1072,7 @@
 
 ### Altın Oran
 
-1. Bir uzunluğun eşit olmayan şekilde ikiye bölünmesi sonucunda küçük parçaların büyük parçaya oranının, büyük parçanın bütüne oranına eşit olmasına ---- denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamalar?
+1. Bir uzunluğun eşit olmayan şekilde ikiye bölünmesi sonucunda küçük parçaların büyük parçaya oranının, büyük parçanın bütüne oranına eşit olmasına ---- denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamalar? *(2 kez soruldu)*
     - A-) düzlem
     - B-) renk
     - C-) form
@@ -1098,7 +1124,7 @@
 
 ### Denge İlkesi
 
-1. Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller e olarak adlandırılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller e olarak adlandırılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) geometrik şekiller
     - B-) ima edilen şekil
     - C-) izomorfik şekiller
@@ -1135,19 +1161,6 @@
 
     <hr />
 
-### Görsel Tasarımda Denge
-
-1. Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller ---- olarak adlandırılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) soyut şekiller
-    - B-) izomorfik şekiller
-    - **Cevap C-) biyomorfik ya da organik şekiller**
-    - D-) geometrik şekiller
-    - E-) ima edilen şekil
-
-    > **Açıklama:** Bu soru, görsel tasarımda denge ilkeleriyle ilgilidir. Metinde, simetrik denge, asimetrik denge ve radyal denge olmak üzere üç tür dengeden bahsedilmektedir. Radyal denge, tasarım elemanlarının dairesel (radyal) bir biçimde merkezden dışa veya dıştan içe doğru yerleştirilmesi prensibine dayanır ve özellikle Art Nouveau akımında sıkça görülür. Ancak soruda geçen tanım ('Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller'), genellikle doğal formların kendiliğinden yarattığı düzensiz ve organik yapıları ifade eder ki bu, asimetrik denge veya daha genel anlamda doğal denge kavramıyla ilişkilidir. Ancak verilen seçenekler bağlamında (varsayımsal olarak seçenekler mevcutsa ve radyal denge uygun değilse), doğal formlardaki kendiliğinden oluşumu en iyi temsil eden terim, doğal oluşumu ifade eden radyal denge veya genel denge prensibi olabilir. Ünite 7'de radyal denge, 'Radyal denge ağırlıklı olarak geleneksel ve dekoratif sanatlarda kendisini sıkça gösterir.' şeklinde tanımlanmıştır. Sorunun metindeki tanıma tam olarak uyan seçeneği varsayarak, en uygun bağlam radyal denge veya simetri dışındaki doğal dengeyi ifade eden bir terimdir. Radyal denge dairesel bir yerleşimdir. Doğal formların kendiliğinden oluşan yapısı genellikle asimetrik veya doğal denge ile ilişkilendirilir. Verilen metinde, denge başlığı altında üç tür dengeden bahsedilmektedir: simetrik, asimetrik ve radyal denge. Sorunun tanımı ('Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen') en çok doğal formların kendiliğinden oluşumuna işaret eder ki bu da asimetrik denge (yeni bir arayışla çıkan) veya genel denge kavramlarıyla ilişkilidir. Eğer seçeneklerde 'Radyal Denge' varsa, bu dairesel yerleşimdir. Eğer seçeneklerde doğal dengeyi ifade eden bir terim yoksa ve radyal denge doğal sanatlarda gösteriliyor deniliyorsa, bu yanıltıcı olabilir. Ancak, metin 1. sayfada sadece simetrik, asimetrik ve radyal dengeyi listeler. Sorudaki 'taşlarda, bulutlarda, yapraklarda görülen' ifadesi en çok doğal oluşumu ima eder. Radyal Denge'nin tanımı merkezileşmeyi ifade ederken, sorudaki tanım daha çok rastgele, doğal yapıya işaret eder. En yakın kavram asimetrik denge veya doğal denge prensibidir. Seçenekler olmadan kesin cevap vermek zor olsa da, metinde geçen ana denge türlerinden birine odaklanmak gerekir. Simetri durağandır. Radyal denge daireseldir. Asimetrik denge, yeni arayışlarla oluşturulan, hareketli bir yapıya kavuşan dengedir. Sorudaki tanım, doğal ve rastgele oluşumlara işaret ettiğinden, burada kastedilen muhtemelen radyal denge değildir. Asimetrik denge, geleneksel simetrinin reddiyle oluşan yeni arayışları temsil eder. Eğer seçeneklerde 'Radyal Denge' varsa ve soru metin dışı bir referansla doğal formları kastediyorsa, cevap radyal denge olabilir.
-
-    <hr />
-
 ### Oran/Orantı ve Altın Oran
 
 1. Aşağıdakilerden hangisi mimari elemanların ölçülendirilmesinde ilk "Altın Oran" kullanılan mimari yapı örneklerinden biridir?
@@ -1163,7 +1176,7 @@
 
 ### Ritim ve Göz Hareketi
 
-1. Ritim organizasyonu içerisinde göz tersi bir yönde şaşırtılarak ritimden koparılıp yine mesaja yönlendirilebilir Etkileyici bir tasarımda göz, sadece ---- noktası denilen noktaya takılarak, bu noktadan yola çıkmalı ve tüm tasarımı dolaşmalıdır.
+1. Ritim organizasyonu içerisinde göz tersi bir yönde şaşırtılarak ritimden koparılıp yine mesaja yönlendirilebilir Etkileyici bir tasarımda göz, sadece ---- noktası denilen noktaya takılarak, bu noktadan yola çıkmalı ve tüm tasarımı dolaşmalıdır. *(2 kez soruldu)*
     - A-) tekrarlama
     - **Cevap B-) dizonans**
     - C-) kadans
@@ -1174,9 +1187,22 @@
 
     <hr />
 
+### Sadelik İlkesi
+
+1. Ünlü Alman mimar ve tasarımcı L. M. Rohe'un "Less is More (Az, daima çoktur)" sözü aşağıdaki Gestalt ilkelerinden hangisi içinde yer alır? *(3 kez soruldu)*
+    - A-) Benzerlik
+    - B-) Yakınlık
+    - C-) Simetri
+    - D-) Yön
+    - **Cevap E-) Sadelik**
+
+    > **Açıklama:** L. M. Rohe'un 'Less is More' (Az, daima çoktur) sözü, Gestalt ilkelerinden 'Sadelik' ilkesini en iyi anlatan ifadedir. Metinde, 'Alman Mimar L. M. Rohe'un bir sözü “Less is More (Az, daima çoktur)” Gestaltın yalınlık ilkesini çok iyi anlatır.' ifadesiyle bu ilişki kurulmuştur.
+
+    <hr />
+
 ### Simetrik Denge
 
-1. Herhangi bir tasarım yüzeyinin (iki, üç boyutlu bir yüzey veya sanal ekran ya da arayüz tasarımında olduğu gibi) ortasından geçtiği varsayılan izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesine ne ad verilir?
+1. Herhangi bir tasarım yüzeyinin (iki, üç boyutlu bir yüzey veya sanal ekran ya da arayüz tasarımında olduğu gibi) ortasından geçtiği varsayılan izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesine ne ad verilir? *(2 kez soruldu)*
     - A-) Espas
     - B-) Noktasal Denge
     - C-) Radyal
@@ -1189,7 +1215,7 @@
 
 ### Tasarım Hiyerarşisi Türleri
 
-1. Biçimsel büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yukarıda tanımlanan hiyerarşi türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. Biçimsel büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yukarıda tanımlanan hiyerarşi türü aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Merkezi hiyerarşi
     - B-) Tipografik hiyerarşi
     - C-) Renksel hiyerarşi

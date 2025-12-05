@@ -41,6 +41,19 @@
 
     <hr />
 
+### İletişim Süreci Temelleri
+
+1. Aşağıdakilerden hangisi iletişim sürecini oluşturan unsurlar arasında yer almaz?
+    - A-) Geri Bildirim
+    - B-) Alıcı
+    - C-) Gönderici
+    - **Cevap D-) Toplayıcı**
+    - E-) Mesaj
+
+    > **Açıklama:** Ünite 1'deki “Görsel İletişim Tasarımı” başlığı altında iletişim sürecini oluşturan beş temel unsur açıkça belirtilmiştir: Gönderici, Mesaj, İletişim Aracı (Kanal), Alıcı ve Geri Bildirim. Soruda verilen Gönderici, Alıcı, Mesaj ve Geri Bildirim şıkları bu temel unsurlar arasında yer alırken, “Toplayıcı” (D) iletişim sürecini oluşturan unsurlardan biri olarak tanımlanmamıştır. Bu nedenle, iletişim sürecini oluşturan unsurlar arasında yer almayan seçenek Toplayıcı’dır.
+
+    <hr />
+
 ## Ünite 2
 
 ### 3D Modelleme YZ Araçları
@@ -521,15 +534,5 @@
 
     > **Açıklama:** Deepfake (Derin sahte), insanların yüz hareketlerini ve sesini gerçeğe uygun olacak şekilde taklit etmek veya değiştirmek için yapay zekâ teknikleri aracılığıyla fotoğrafların, videoların veya seslerin kullanılmasıdır. Bu aynı zamanda bilgi manipülasyonu riski taşır (Ünite 8, Sayfa 1).
 
-    <hr />
-
-## Ünite Diğer
-
-1. Aşağıdakilerden hangisi iletişim sürecini oluşturan unsurlar arasında yer almaz?
-    - A-) Geri Bildirim
-    - B-) Alıcı
-    - C-) Gönderici
-    - **Cevap D-) Toplayıcı**
-    - E-) Mesaj
     <hr />
 

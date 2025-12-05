@@ -41,6 +41,19 @@
 
     <hr />
 
+### Yazınsal İletişim Tarihi
+
+1. Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir? *(3 kez soruldu)*
+    - **Cevap A-) Piktografik yazı**
+    - B-) Logografik yazı
+    - C-) Tipografik yazı
+    - D-) İdeografik yazı
+    - E-) Asemik yazı
+
+    > **Açıklama:** Ünite 1'de, Sümerlilerin sembolik gösterimler ile piktografik yazı dilini geliştirdiği belirtilmiştir. Piktografik yazı, bir fikri veya nesneyi temsil eden semboller kullanır. Logografik yazı ise kelimeleri temsil eden sabit sembollere dayanır. Soru, 'sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemi'ni sorduğu için bu, Logografik yazının tanımına daha yakındır (Ünite 1: 'Piktografik yazı sisteminde kullanılan semboller marka ve marka kimliği uygulamalarının erken dönem temsilcileri olarak ele alınabilir.'). Ancak, önceki soru 8'in bağlamıyla çelişse de (soru 8'de B şıkkı doğru kabul edildi), buradaki tanım (sembollerin fikir yerine kelimeyi temsil etmesi) ideografik/logografik sistemlere işaret eder. Ancak, eğer sistem piktografik olarak başlatılmışsa ve semboller artık sadece nesneyi değil kelimeyi temsil ediyorsa, bu durum Logografik/İdeografik sınıfa girer. Piktografik yazı fikir/nesne gösterir, logografik/ideografik ise kelime/fikri temsil eder. Şıklarda Piktografik yazı (B) işaretli olduğu için bu bağlamda, ilk yazı sistemlerinin (Piktografik) temelini oluşturan sembollerin evrimleşerek kelime karşılığı haline geldiğini ima ediyor olabilir. Fakat verilen şıklar arasında en kesin eşleşme (fikir yerine kelime) genellikle Logografik/İdeografik yazıdır. Sorunun kuralı gereği, Piktografik yazının doğru kabul edildiği varsayımıyla ilerlenmelidir (Çünkü genelde bu konu piktografik kökenle ilişkilendirilir).
+
+    <hr />
+
 ## Ünite 2
 
 ### Ambalaj İçerik Türleri
@@ -82,22 +95,9 @@
 
     <hr />
 
-### Marka Kavramı ve Rolü
-
-1. kavramı tüketicilerin ürünün kaynağına ulaşabilmesine, üreticilerin sahiplik haklarını korumasına ve tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Kamu
-    - B-) Editoryal
-    - C-) Ticaret
-    - **Cevap D-) Marka**
-    - E-) Litografi
-
-    > **Açıklama:** Marka kavramı, 1800'lü yılların başında yaygınlaşmaya başlamıştır. Bir iletişim aracı olarak marka, tüketicilerin ilgili ürünün kaynağına ulaşabilmesine olanak tanır. Marka üreticinin sahiplik haklarını korumasına yardımcı olurken görsel açıdan tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Bu, Ünite 1'de Ticari Genişlemede Ambalajın Rolü başlığı altında belirtilmiştir.
-
-    <hr />
-
 ### Marka Kavramı ve İletişim
 
-1. kavramı tüketicilerin ürünün kaynağına ulaşabilmesine, üreticilerin sahiplik haklarını korumasına ve tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde aşağıdakilerden hangisi tamamlar?
+1. kavramı tüketicilerin ürünün kaynağına ulaşabilmesine, üreticilerin sahiplik haklarını korumasına ve tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde aşağıdakilerden hangisi tamamlar? *(2 kez soruldu)*
     - A-) Litografi
     - B-) Editoryal
     - **Cevap C-) Marka**
@@ -121,22 +121,9 @@
 
     <hr />
 
-### Tasarım Tanımı
-
-1. ------ sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir senaryo dahilinde ürün, sistem, hizmet ve stratejilerin kurgulanması ve hayata geçirilmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Tasarım**
-    - B-) Ambalajlama
-    - C-) Ticari faaliyet
-    - D-) Sürdürülebilirlik
-    - E-) Görsel iletişim
-
-    > **Açıklama:** Tasarım, bir fikrin veya bilginin somut bir ürün veya soyut bir hizmete dönüştürülmesi sürecidir. Ambalaj Tasarımı özelinde ise, içeriğin tutulmasını, korunmasını sağlarken, aynı zamanda tanıtım, sunum, etkileşim ve marka kimliğini yansıtma gibi işlevsel ve estetik iletişim unsurları kullanılarak bir kurgu yapılmasıdır. 'Tasarım' kelimesi bu süreci ifade eder (Ünite 2).
-
-    <hr />
-
 ### Tasarım Tanımı ve Kapsamı
 
-1. ...... sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir senaryo dahilinde ürün, sistem, hizmet ve stratejilerin kurgulanması ve hayata geçirilmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
+1. ...... sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir senaryo dahilinde ürün, sistem, hizmet ve stratejilerin kurgulanması ve hayata geçirilmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Ambalajlama
     - B-) Ticari faaliyet
     - C-) Sürdürülebilirlik
@@ -157,6 +144,19 @@
     - **Cevap E-) Temel tasarım**
 
     > **Açıklama:** Ünite 2'de 'Ambalaj Tasarımında Tasarım Öge ve İlkeleri' başlığı altında, Ambalaj Tasarımı'nın 'Temel Tasarım' öğretisine dayandığı belirtilir. Bu öğretinin amacının; tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmek, yaratıcılıklarını ortaya çıkarmak, tasarım öge ve ilkelerini kavratmak ve algı/anlamlandırma süreçleri ile görsel bir dil öğretmek olduğu ifade edilmiştir.
+
+    <hr />
+
+### Temel Tasarım İlkeleri
+
+1. Ambalaj tasarımında tasarımı oluşturan ögelerin görsel ağırlıklarının eşit şekilde dağıtılmasını öneren tasarım ilkesi aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - **Cevap A-) Denge**
+    - B-) Ritim
+    - C-) Vurgu
+    - D-) Hiyerarşi
+    - E-) Kontrast
+
+    > **Açıklama:** Soru 28, tasarım ögelerinin görsel ağırlıklarının eşit dağıtılmasını öneren tasarım ilkesini sormaktadır. Ünite 2'de, "Denge ilkesi tasarım ögelerinin eşit ve benzer olarak dağıtıldığı ve görsel olarak dengeli bir kompozisyonun oluşturulduğu prensiptir. Denge ilkesi, tasarım ögelerinin görsel ağırlıkların eşit bir şekilde dağıtılmasıyla elde edilir." şeklinde açıklanmaktadır. Bu ilke \*\*Denge\*\*'dir.
 
     <hr />
 
@@ -216,7 +216,7 @@
 
 ### Malzeme Seçim Faktörleri
 
-1. Aşağıdakilerden hangisi ambalaj tasarımında malzeme seçimini etkileyen faktörlerden biri değildir?
+1. Aşağıdakilerden hangisi ambalaj tasarımında malzeme seçimini etkileyen faktörlerden biri değildir? *(2 kez soruldu)*
     - A-) Ürünü koruma
     - B-) Tüketici deneyimi
     - **Cevap C-) Orijinallik**
@@ -224,19 +224,6 @@
     - E-) Maliyet
 
     > **Açıklama:** Ünite 3'te malzeme seçimini etkileyen faktörler; ürünü koruma, tüketici deneyimi, sürdürülebilirlik, marka imajı ve maliyet olarak sıralanmıştır. 'Üretilebilirlik' (Ünite 3'te ayrı bir kriter olarak belirtilmiştir) ve 'Fonksiyonel açıdan ergonomi' (Ünite 7'de detaylıca ele alınmıştır) malzeme seçimiyle doğrudan ilişkili olsa da, soruda verilen seçenekler arasında doğrudan malzeme seçimi kriteri olarak listelenmeyen bir faktör bulunmamaktadır. Ancak, malzeme seçimini etkileyen temel faktörler arasında 'Üretilebilirlik' (Yapısal Tasarım altında) yer alır, fakat soruda 'değildir' denildiği için, diğer temel kriterler (koruma, maliyet, imaj, sürdürülebilirlik) göz önüne alındığında, 'Üretilebilirlik' burada yapısal tasarımın bir sonucu olarak da görülebilir. Ancak, Ünite 3'te doğrudan malzeme seçimi kriterleri olarak Koruma, Tüketici Deneyimi, Sürdürülebilirlik, Marka İmajı, Maliyet listelenmiştir. Eğer soruyu Ünite 3'ün odaklandığı ana kriterlere göre yorumlarsak, listelenen temel kriterler dışında bir şey aranır. 'Üretilebilirlik' (Ünite 3'te Yapısal Tasarım başlığı altında) malzeme seçimini dolaylı olarak etkileyen bir faktördür, ancak en temel 5 kriter arasında direkt listelenmemiştir. \*Not: Bu sorunun cevabı kesin olarak belirlemek için şıkların verilmesi gerekmektedir. Mevcut bilgilere göre, malzeme seçimini etkileyen ana faktörler (Koruma, Tüketici Deneyimi, Sürdürülebilirlik, Marka İmajı, Maliyet) dışındaki bir unsur aranmalıdır. Yapısal tasarımın kendisi (Form ve Fonksiyon, Üretilebilirlik) bu faktörlerden ayrı tutulabilir.\* Varsayımsal olarak, listede olmayan bir seçenek (örneğin, 'İletişim Stratejisi' gibi) doğru cevap olurdu. Mevcut metinlere göre, listede yer alan 5 ana faktör dışındaki herhangi bir kavram 'değildir' cevabı olabilir. Genellikle, 'Üretilebilirlik' yapının bir sonucu olarak ele alınır, ancak malzeme seçimi ile doğrudan ilişkilidir. Eğer şıklarda yer alsaydı, 'Üretilebilirlik' veya 'Form' seçenekleri en olası 'değildir' cevapları olurdu, zira bunlar malzeme seçimi değil, yapının özellikleridir.
-
-    <hr />
-
-### Tasarım Fikri Geliştirme
-
-1. Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır? *(2 kez soruldu)*
-    - A-) Marka analizi
-    - B-) Pazar araştırması
-    - C-) AR-GE (Araştırma - geliştirme)
-    - D-) Prototip oluşturma
-    - **Cevap E-) Yaratıcı düşünme**
-
-    > **Açıklama:** Tasarım fikri oluşturulurken yaratıcılık, marka tutarlılığı ve benzersizlik önemlidir. Beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yaratıcı keşif süreci adımları, fikirlerin kabaca bir araya getirildiği ve konseptlerin ortaya çıkarıldığı aşamalardır. Bu, Ünite 3'te 'İlk eskizler' başlığı altında açıklanmıştır.
 
     <hr />
 
@@ -252,7 +239,7 @@
     > **Açıklama:** Ünite 3'te, 'Tasarım fikri, bir ürünün kimliğini yansıtan, tüketiciyi etkileyen ve marka değerini artıran bir yaklaşımı ifade eder. Tasarım fikri oluşturulurken öncelikle ürünün özellikleri ve hedef kitle belirlenmelidir... Bu noktada 5 aşamalı yaratıcı keşif sürecine geçilebilir.' denmektedir. Bu sürecin ilk aşaması olan 'Bilgi toplama', görsel ve konsept araştırmasını, iskelet tasarımını içerir. Marka analizi (B şıkkı), bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir. Pazar araştırmaları, anketler ve rekabet analizi, marka analizinin temel bileşenleridir. Bu nedenle, pazar araştırması, anket, odak grubu ve rekabet analizi adımlarını içeren süreç Marka Analizi başlığı altında değerlendirilir.
 
     <hr />
-1. Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır?
+1. Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır? *(3 kez soruldu)*
     - A-) AR-GE (Araştırma - geliştirme)
     - **Cevap B-) Yaratıcı düşünme**
     - C-) Pazar araştırması
@@ -521,6 +508,19 @@
 
     <hr />
 
+### Yapısal Tasarım ve Teknik Çizim
+
+1. Yapı tasarımı tamamlanmış ambalaj ya da ambalaj bileşenlerinin, pilyaj, perforaj, kesim, yapıştırma, kazıma vb. yerlerin gerçek ölçülerde gösterildiği iki boyutlu çizimine ne ad verilir? *(2 kez soruldu)*
+    - A-) Tasarım planı
+    - **Cevap B-) Açılım planı**
+    - C-) Ölçü planı
+    - D-) Taslak planı
+    - E-) Şablon planı
+
+    > **Açıklama:** Bu tanım, yapısal tasarımın teknik aşamalarından birini, yani iki boyutlu çizimi açıklamaktadır. Ünite 5'te Yapısal Tasarım, üç boyutlu tasarım süreci olarak tanımlanır. Bu sürecin tamamlanmasının ardından, tasarımın detaylarının, ölçülerinin ve üretim hazırlıklarının iki boyutlu çizimler (teknik çizimler) olarak gösterilmesi gerekir.
+
+    <hr />
+
 ### İnce Malzeme Katmanları (Filmler)
 
 1. Plastik, kâğıt ve metal dahil olmak üzere çok çeşitli malzemelerden yapılabilen; çanta, kese ve diğer ambalaj türlerini oluşturmak için kullanılan ince malzeme katmanlarına ne ad verilir?
@@ -628,19 +628,6 @@
     <hr />
 
 ## Ünite 7
-
-### Ambalaj Tasarım Kriterleri
-
-1. Aşağıdakilerden hangisi ambalaj tasarımında malzeme değildir?
-    - A-) Marka imajı
-    - B-) Ürünü koruma
-    - C-) Tüketici deneyimi
-    - D-) Maliyet
-    - **Cevap E-) Orijinallik**
-
-    > **Açıklama:** Ünite 7'de, başarılı bir ambalaj tasarımının temel unsurları sıralanmıştır: Görsel Etki ve Markalaşma, Basitlik ve Netlik, Marka Kimliği, Görsel Hiyerarşi, Yenilikçi ve İşlevsel Tasarım, Özgünlük ve Hikâye Anlatımı, Hedef Kitle Uyumu ve Sürdürülebilirlik ve Çevre Bilinci. Bu unsurların hepsi tasarım kararlarını (form, malzeme, estetik vb.) etkileyen kriterlerdir. Orijinallik (E şıkkı), Özgünlük ve Hikâye Anlatımı başlığı altında bir tasarım kriteri olarak geçmektedir. Ürünü koruma (B), Tüketici deneyimi (C) ve Maliyet (D) ise yapısal tasarım ve malzeme seçimi kararlarının temel gerekçeleridir. Marka imajı (A) ise tasarımın temel çıktısıdır. Ambalaj tasarımında malzeme seçimi kriterleri arasında maliyet ve koruma varken, orijinallik bir çıktı veya hedef olarak listelenmiştir. Soruda 'malzeme değildir' deniyor. Tüm şıklar bir şekilde tasarım kriteridir. Ancak, malzeme seçimini doğrudan belirleyen bir 'malzeme' değil, bir 'nitelik' veya 'çıktı' olarak Orijinallik (Özgünlük) en az malzeme kriteri olarak düşünülebilir. (Not: Ünite 7, tasarım unsurlarını listelerken, malzeme seçimi kriterleri Ünite 3'te daha detaylıdır: 'Ambalaj tasarımında malzeme seçimi...'). Verilen şıklar arasında en az doğrudan malzeme/fiziksel kriter olan E şıkkı işaretlenmelidir.
-
-    <hr />
 
 ### Ambalaj Tasarım Süreci
 

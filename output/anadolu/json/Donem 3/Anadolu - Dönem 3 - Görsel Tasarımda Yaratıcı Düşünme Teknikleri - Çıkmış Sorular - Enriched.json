@@ -137,8 +137,7 @@
             "UniteNo": 2,
             "topic": "Yaratıcı Öğretmen Tutumu",
             "explanation": "Metinde yaratıcı öğretmen tutumunun bir örneği olarak, 'Yaratıcı öğretmen statü ya da güç için çalışmaz fakat kabul edilmeyi, dikkate alınmayı sever. Kendi kendisiyle barışık çalışır.' ifadesi yer almaktadır. Bu, öğretmenin kendi iç huzuruna ve kabul görmeye odaklandığını gösterir.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "occurrence_count": 2
         },
         {
             "id": 8,
@@ -198,7 +197,7 @@
             "topic": "Yaratıcı Sanat Kuramları",
             "explanation": "Metinde 'Sanat çalışmalarının biçimsel anlamda düzenlenmesinin önemini vurgular. Eserin yapısal değerleriyle ilgilenir. Biçimi oluşturan renk, leke, çizgi, doku gibi elemanların düzenleri söz konusudur... soyut düzendeki görünüşleri önem taşır. Kuram, soyut eser üreten sanatçıların eserlerinde izlenir. Bu anlamda \"Sanat, Sanat İçindir\" ilkesi bu kuram bağlamında değerlendirilebilir.' bilgileri yer almaktadır. Bu tanım, Biçimci Kuram'a (Formalism) aittir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 11,
@@ -298,7 +297,7 @@
             "topic": "Anlatı Ortamları: Time-Lapse",
             "explanation": "Ünite 4'te, fotoğraflardan üretilen ve hikâye anlatımı ile ilişkilendirilen 'Time-Lapse' uygulamalarının, fotoğraf ve hikâye anlatıcılığı için son yıllarda sıkça kullanılan özel bir örnek olduğu ve bu uygulamanın fotoğraflardan üretilen bir çeşit video olduğu belirtilmiştir. Bu, seri fotoğrafların birleştirilmesiyle hareket hissi oluşturur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 33,
             "original_source": "Ara Sınav 2023-2024"
         },
@@ -419,7 +418,6 @@
             "UniteNo": 1,
             "topic": "Yaratıcılık Mitleri",
             "explanation": "Ünite 1'deki 'Yaratıcılık Mitleri' başlığına göre, yaratıcılığın genetik olduğu ve geliştirilemeyeceği, yaratıcılığın herkeste olmayan özel bir beceri olduğu, anlık parlak fikirlerle ortaya çıktığı ve sadece sanatsal alanlarla ilgili olduğu gibi yanlış inançlar (mitler) mevcuttur. Ancak, C şıkkındaki 'Yaratıcılık herkeste olan bir beceridir' ifadesi, yaratıcılık mitlerinin aksine, yaratıcılığın herkesde bir ölçüde var olduğu yönündeki yaygın kabul gören ancak mit olarak ele alınmayan bir düşünceyi ifade etse de, mitler genellikle yaratıcılığın sınırlı kişilere ait olduğunu iddia eder. Mitler arasında 'Yaratıcılık genetiktir, geliştirilemez' ve 'Yaratıcılık herkeste olmayan özel bir beceridir' gibi ifadeler mevcuttur. Sorunun doğru kabul edilen şıkkı C olduğundan, bu ifadenin (Yaratıcılık herkeste olan bir beceridir) yaratıcılık mitlerinden biri olmadığı kabul edilmektedir, çünkü mitler yaratıcılığın nadir olduğunu iddia eder.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -442,7 +440,8 @@
             "is_duplicate": true,
             "duplicate_of": 4,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 23,
@@ -464,7 +463,8 @@
             "is_duplicate": true,
             "duplicate_of": 1,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9918127655982971
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 24,
@@ -483,11 +483,11 @@
             "UniteNo": 1,
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Metinde, \"Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir\" şeklinde ifade edilmektedir. Bu tanım, yaratıcılığın kuramsal temellerinden Hümanistik yaklaşım ile ilgilidir.",
-            "occurrence_count": 2,
+            "original_source": "Ara Sınav 2022-2023",
+            "duplication_reason": "Semantic Similarity (0.95)",
             "is_duplicate": true,
             "duplicate_of": 6,
-            "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.951391875743866
+            "occurrence_count": 0
         },
         {
             "id": 25,
@@ -509,7 +509,8 @@
             "is_duplicate": true,
             "duplicate_of": 7,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 26,
@@ -551,7 +552,8 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 28,
@@ -633,7 +635,8 @@
             "is_duplicate": true,
             "duplicate_of": 12,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 32,
@@ -672,10 +675,7 @@
             "UniteNo": 4,
             "topic": "Anlatı Ortamları ve Türleri",
             "explanation": "Bir hareket hissi oluşturmak için seri fotoğraflarla özel bir montaj tekniği kullanarak geliştirilen ve bir çeşit video olan anlatı türü Fotoğraf ve Anlatı başlığı altında ele alınan 'Time-Lapse' uygulamalarıdır. Time-Lapse, fotoğraf karelerinin ardışık olarak gösterilmesiyle hareket izlenimi yaratır.",
-            "occurrence_count": 3,
-            "is_duplicate": true,
-            "duplicate_of": 15,
-            "similarity_score": 0.9993372559547424
+            "occurrence_count": 3
         },
         {
             "id": 34,
@@ -695,7 +695,7 @@
             "topic": "Yaratıcı Sanat Kuramları",
             "explanation": "Biçimci Kuram, eserin yapısal değerleriyle ilgilenir ve biçimi oluşturan renk, leke, çizgi, doku gibi elemanların düzenlerini esas alır. \"Sanat, Sanat İçindir\" ilkesini benimser. Dolayısıyla, eserin yalnızca estetik/biçimsel düzenlemelerle ilgilenmesi ve toplumsal/işlevsel yönleri dışlaması bu kuramın özelliğidir. Metinde, Biçimci Kuramın 'Sanat, Sanat İçindir' ilkesi bağlamında değerlendirilebileceği belirtilmiştir. Bu kuramda, eserin toplumsal veya işlevsel bir mesaj taşıma amacı yoktur, bu nedenle 'Eserin toplumsal ve işlevsel yönleri ön planda tutulur' ifadesi Biçimci Kuram için yanlıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 35,
@@ -817,7 +817,8 @@
             "is_duplicate": true,
             "duplicate_of": 17,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 41,
@@ -837,10 +838,10 @@
             "topic": "Zeka ve Yaratıcılık",
             "explanation": "Robert Sternberg, zekânın üç yönüne odaklanmıştır: analitik zekâ, pratik zekâ ve yaratıcı zekâ. Analitik zekâ, akademik problem çözme ve hesaplamalarla yakından uyumludur (Ünite 1).",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 22,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9627091884613037
+            "duplication_reason": "Soru metinleri tamamen aynıdır. Şıkların içeriği ve doğru cevap (Analitik zekâ) aynıdır. Sadece şıkların sıralaması farklıdır."
         },
         {
             "id": 42,
@@ -860,9 +861,10 @@
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceği anlayışı ve insanı merkeze alan bu yaklaşım, Hümanistik yaklaşımın tanımıdır (Ünite 1).",
             "is_duplicate": true,
-            "duplicate_of": 6,
+            "duplicate_of": 24,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.951391875743866
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 43,
@@ -944,7 +946,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9604268074035645
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 47,
@@ -966,7 +969,9 @@
             "explanation": "Ünite 3'teki 'Psikanalitik Yaklaşım' başlığı altında, Freud'un yaratıcılığın kökenini açıklamaya çalıştığı ve yaratıcı bireyi, gerçek dünyadan kaçarak eski çocukluk anılarının devamı niteliğinde olan bir fanteziye sığınım olarak tanımladığı belirtilmektedir. Ancak, sorunun doğru şıkkı D (Freud) olarak işaretlenmiştir (metinde Freud'dan bahsedilmiştir). Soru 47'nin doğru kabul edilen şıkkı C (Freud) olarak görünmektedir. Metinde Freud'un bu konudaki görüşleri açıkça belirtilmiştir. İşaretlenen şık C (Freud) olduğundan, açıklama Freud'un bu görüşüne odaklanmalıdır.",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 48,
@@ -985,7 +990,6 @@
             "UniteNo": 1,
             "topic": "Proaktif Kişilik",
             "explanation": "Proaktif kişiler olaylar karşısında sorumluluk alırken, proaktif olmayan kişilik özellikleri (örneğin, değişimlere tepkisiz kalma, olaylar karşısında inisiyatif alamama) bu tanımın dışındadır. Ünite 1'de bahsedilen proaktif kişilik tanımına göre, proaktif olmayan özellikler olumsuz durumlara tepkisiz kalmayı içerir (Ünite 1).",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1025,7 +1029,6 @@
             "UniteNo": 1,
             "topic": "Yaratıcı Davranışlar",
             "explanation": "Yaratıcı tutum, kısıtlamalara uymak yerine, meraklı olmak, risk almak ve alışılmışın dışına çıkmakla ilgilidir. Ünite 1'de bahsedilen Yaratıcı Düşünme bölümüne göre, 'Ön yargılar ve denenmemiş pratikler başarısızlığın kapılarını aralar' ifadesi, yaratıcı tutumun bir parçasıdır ve risk almayı teşvik eder. 'Farklı pratiklerin hayata geçirilmesi gereklidir' ifadesi de bu tutumu destekler (Ünite 1).",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1068,7 +1071,8 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 53,
@@ -1110,7 +1114,8 @@
             "is_duplicate": true,
             "duplicate_of": 13,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 55,
@@ -1130,10 +1135,10 @@
             "topic": "Psikanalitik Yaklaşım",
             "explanation": "Soruda bahsedilen 'yüceltme' (sublimation) kavramı, Freud'un psikanalitik kuramıyla ilişkilidir. Ünite 3, Psikanalitik Yaklaşım bölümünde, 'Bu yaklaşıma göre yüceltme olarak adlandırılan yaratıcılık aslında bir savunma mekanizmasıdır.' ifadesi yer almaktadır. Ayrıca Freud'un bilinçaltı, rüyalar, fantezi ve sapmalar üzerinde durduğu bilgisi de bu kuramla ilişkilidir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 35,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9980763792991638
+            "duplication_reason": "Metinler neredeyse tamamen aynıdır (ufak bir kelime eksikliği ve yazım hatası dışında tüm bilgiler aynıdır). Şıklar kümesi aynıdır ve doğru cevap her iki soruda da 'Psikanalitik' kuramıdır. Bu iki soru anlamsal olarak kopyadır."
         },
         {
             "id": 56,
@@ -1154,7 +1159,9 @@
             "explanation": "Ünite 4'te anlatı ve bakış açısı modelleri beş kategoriye ayrılmıştır: Mekânsal, İdeolojik, Zamansal, Dil Bilimsel ve Algısal bakış açısı. Sorudaki ifadeler ('Anlatıcı dünyaya kimin gözünden bakar?', 'Öyküde kullanılmak üzere olayların diğer ögelerinin değil, bu ögelerin seçiminden kim sorumludur?') doğrudan bir bakış açısının seçimine odaklanmaktadır. İşaretlenen doğru şık B (Algısal Bakış Açısı) olduğundan, bu soruların algısal düzeydeki seçimleri ve yorumları kapsadığı sonucuna varılır. Algısal bakış açısı, hikâyenin izleyici tarafından nasıl algılandığı ve yorumlandığı ile ilgilidir.",
             "is_duplicate": true,
             "duplicate_of": 38,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 57,
@@ -1174,9 +1181,10 @@
             "topic": "Sinema Anlatısı",
             "explanation": "Açıklamada anlatının bir çeşit video olduğu, hareket hissi oluşturduğu ve seri fotoğraflarla özel bir montaj tekniği kullanılarak geliştirildiği belirtilmektedir. Ünite 4, Sinema Anlatısı başlığı altında, sinema anlatısının 'söylem; görüntü düzenlemesi, montaj ve ses ögelerini barındırır' denilmiştir. Ayrıca, 'Fotoğraf ve Anlatı' başlığı altında 'Time-Lapse' uygulamalarından bahsedilirken, bu uygulamanın 'sadece fotoğraflardan üretilen bir çeşit videodur' denilerek hikaye anlatımında kullanıldığı belirtilir. Time-Lapse, ardışık karelerin hızlı gösterimiyle hareket hissi yarattığı için, bu tanım Sinema Anlatısı veya genel olarak hareketli görüntü anlatımı ile yakından ilişkilidir. Ancak seçenekler arasında 'Time-Lapse' yoksa ve bu tanım seri fotoğrafın hareket izlenimi vermesi temeline dayanıyorsa, en yakın kategori Sinema Anlatısı veya Görüntü Tasarımında Hareketli Görüntü (Ünite 8) kapsamındadır. (Verilen özetlere göre, Sinema Anlatısı veya Görüntü Oyun Tasarımı en uygunudur. Eğer bu tanım spesifik olarak Time-Lapse ise, Ünite 4'teki 'Fotoğraf ve Anlatı' kısmındaki 'Time-Lapse' uygulamalarına atıfta bulunulmuştur).",
             "is_duplicate": true,
-            "duplicate_of": 15,
+            "duplicate_of": 33,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9993372559547424
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 58,
@@ -1196,7 +1204,7 @@
             "topic": "Anlatı Bileşenleri",
             "explanation": "Ünite 4'te anlatının bileşenlerinden 'Olay', 'bir anlatıyı, zaman ve mekânda meydana gelen sebep sonuç ilişkisi içindeki olaylar zinciri olarak düşünebiliriz. Tipik olarak, bir anlatı bir durumla başlar; bir neden ve sonuç modeline göre bir dizi değişiklik meydana gelir ve sonuç olarak anlatının sonlanmasına neden olan yeni bir durum ortaya çıkar' şeklinde tanımlanmıştır. Ayrıca Olay, en genel anlamı ile anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret eder ve sıralılık açısından anlatıyı tanımlamaya yardımcı olur. Bu tanım sorudaki açıklamalarla eşleşmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 59,
@@ -1236,9 +1244,10 @@
             "topic": "Grafik Sanatlarda Anlatı",
             "explanation": "Ünite 4, Grafik Sanatlarda Anlatı başlığına göre, illüstrasyon kurgusal veya kurgusal olmayan olayların resimli hikaye anlatımı yoluyla yorumlanmasıdır. İllüstratörler hayal gücünü cezbetmek, eğlendirmek, eğitmek ve meşgul etmek için sanatlarını kullanır. Grafik tasarımcılar çizgi romanlar, çocuk kitapları, video oyunları ve animasyon filmleri gibi alanlarda anlatılar üretir. (Yanlış olan ifadeyi bulmak için, illüstrasyonun sadece eğlendirmeye yönelik olduğu gibi kısıtlayıcı veya sadece analitik olduğu gibi yanlış bir çıkarım aranmalıdır.) Metinde illüstrasyonun 'eğitmek ve meşgul etmek' gibi amaçları da olduğu belirtilmiştir. Eğer bir seçenek illüstrasyonun sadece belirli bir mecrayla sınırlı olduğunu (örneğin sadece haber görseli olması gibi) iddia ediyorsa, bu yanlış olacaktır, çünkü metin çok çeşitli mecralardan bahseder (çizgi roman, çocuk kitapları, oyunlar vb.). (Seçenekler verilmediği varsayılırsa, illüstrasyonun sadece tek bir amaca hizmet ettiği bilgisi yanlış olurdu.)",
             "is_duplicate": true,
-            "duplicate_of": 40,
+            "duplicate_of": 17,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 61,
@@ -1257,8 +1266,10 @@
             "UniteNo": 3,
             "topic": "Sanat Kuramları",
             "explanation": "Biçimci Kuram, sanat eserinin biçimsel anlamda düzenlenmesinin önemini vurgular ve eserin yapısal değerleriyle ilgilenir. Renk, leke, çizgi, doku gibi elemanların soyut düzendeki görünüşleri ve birbirleriyle ilişkileri önemlidir. Bu kuram bağlamında \"Sanat, Sanat İçindir\" ilkesi geçerlidir. Dışavurumcu (Anlatım) Kuram ise bunun tersidir ve sanatçının duygularını, iç dünyasını yansıtmayı esas alır; bu nedenle duygu ve anlatım bu kuramın temelini oluşturur. Soruda Biçimci Kuram'a ait olmayan bir ifade sorulmaktadır. Metinde, Dışavurumcu Kuram'ın, yansıtmacı kuramın tersi olduğu ve sanatçının duygularını farklı bir şekilde ele aldığı belirtilmiştir. Bu nedenle, duyguların ön planda olduğu ifade Biçimci Kuram için değil, Dışavurumcu Kuram için doğrudur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri tamamen aynıdır. Şıklar aynı metinlerdir, sadece sıralamaları farklıdır. Buna bağlı olarak doğru cevap içeriği (Biçimci kuram için yanlış ifade) de aynıdır. Bu, tam bir kopyadır.",
+            "duplicate_of": 34
         },
         {
             "id": 62,
@@ -1278,9 +1289,10 @@
             "topic": "Yaratıcı Düşünme",
             "explanation": "Bir sorunu çözmek için mevcut bilgileri sorgulama, sıfırdan yeni bilgi ve çözümler yaratma pratiği, metinde \"İlk ilkeler düşüncesi\" olarak tanımlanmaktadır (Bloom, 2021). Bu yaklaşım, sürü zihniyetinden kurtulmayı ve alışılmışın dışında düşünmeyi, temel gerçeklere ulaşmak için sistematik sorgulamayı kullanarak yeni ve özgün çözümler üretmeyi amaçlar. Bu, aynı zamanda 'İlk İlkelere Göre Analiz' olarak da bilinir ve Elon Musk ile Einstein'ın yaklaşımının temelini oluşturur.",
             "is_duplicate": true,
-            "duplicate_of": 23,
+            "duplicate_of": 1,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9918127655982971
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 63,
@@ -1360,7 +1372,7 @@
             "topic": "Düşünme Türleri",
             "explanation": "Dikey düşünme, mantıksal, doğrusal ve seçici bir düşünme yöntemidir. Her adımın gerekli, doğru ve kesin olduğu, sıralı bir yol izlenerek objektif ve tek bir sonuca ulaşıldığı bir yöntemdir. Ancak, \"Dikey düşünme ile bir çözüme doğru ilerlemek amacıyla bilgiyi kendi iyiliği için kullanır, yanal düşünme ile bilgiyi kendi iyiliği için değil, yeniden modellemeyi sağlamak için kışkırtıcı bir şekilde kullanır.\" ifadesi, yanal düşünmenin bilgisini yeniden modelleme amacını belirtmektedir. Dikey düşünmenin amacı ise tek ve doğru sonuca ulaşmaktır, bilgiyi yeniden modellemek değildir; bu yanal düşünmenin özelliğidir. Dolayısıyla, bilgiyi yeniden modelleme amacı dikey düşünme için yanlış bir ifadedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 67,
@@ -1473,8 +1485,7 @@
             "UniteNo": 3,
             "topic": "Yaratıcı Kişilik Özellikleri",
             "explanation": "Ünite 3'te Yaratıcı Kişilik Özellikleri başlığı altında, yaratıcı bireyin çevresinin bilincinde olma, gerçekliği indirgemekten kaçınma gibi özelliklerinden bahsedilir. Ancak doğrudan kişilik niteliğini belirleyen temel özellikler bağlamında, John M. Digman'ın beş tür kişilik özelliği (Açıklık, Öz denetim, Dışa dönüklük, Uyumluluk ve Nevrotizm) verilmiştir. Bu seçenekler arasında bu bağlama en uygun olanı Açıklık, Öz denetim, Dışa dönüklük, Uyumluluk, Nevrotizm'dir. Metinde 'hayal gücü' ve 'biçem' de öne çıkan temel özellikler olarak geçmektedir (Ünite 7'de de geçerli).",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "occurrence_count": 3
         },
         {
             "id": 73,
@@ -1569,7 +1580,9 @@
             "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 68,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 78,
@@ -1629,7 +1642,7 @@
             "topic": "Sekans Tanımı",
             "explanation": "Ünite 8'de Metnin Görselleştirilmesi başlığı altında, Sekans, 'Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar' şeklinde tanımlanmıştır. Sekans, olay örgüsünün daha geniş birimlerini ifade eder.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 140,
             "original_source": "Yaz Okulu 2022-2023"
         },
@@ -1690,8 +1703,10 @@
             "UniteNo": 3,
             "topic": "Sanat Kuramları",
             "explanation": "Metinde (Ünite 3, Sayfa 1, Biçimci Kuram başlığı altında) Biçimci Kuram'ın, sanat çalışmalarının biçimsel anlamda düzenlenmesine odaklandığı, eserin yapısal değerleriyle ilgilendiği belirtilmiştir. Bu kuramda renk, leke, çizgi, doku gibi elemanların düzenleri, soyut düzendeki görünümleri önemlidir ve \"Sanat, Sanat İçindir\" ilkesi benimsenir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökü ve öncül metin (minör bir gramer farkı dışında) tamamen aynıdır ve aynı sanat kuramını (Biçimci) sormaktadır. Şıklar aynı elemanlardan oluşmakta olup, sadece sıralamaları farklıdır. Bu sorular anlamsal olarak kopyadır.",
+            "duplicate_of": 10
         },
         {
             "id": 84,
@@ -1730,8 +1745,10 @@
             "UniteNo": 4,
             "topic": "Anlatı Bileşenleri",
             "explanation": "Metinde (Ünite 4, Sayfa 1, Olay başlığı altında) olayın, zaman ve mekânda meydana gelen sebep-sonuç ilişkisi içindeki olaylar zinciri olarak düşünebileceği belirtilmiştir. Olayın, anlatının kurucu özelliklerinden biri olan bir durum değişikliğini işaret ettiği ve genellikle anlatılan öykünün doğasında olan sıralılığı tanımlamaya yardımcı olduğu ifade edilmektedir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "duplicate_of": 58,
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "occurrence_count": 0
         },
         {
             "id": 86,
@@ -2053,7 +2070,8 @@
             "is_duplicate": true,
             "duplicate_of": 8,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 102,
@@ -2073,9 +2091,10 @@
             "topic": "Yaratıcı Düşünme Teknikleri",
             "explanation": "Ünite 5'te yaratıcı düşünme teknikleri incelenirken, 'Sorgulama' tanımı, ortak bilgiye meydan okuyan sorgular oluşturma eylemi olarak belirtilmiştir. Ancak bu sorunun ima ettiği, 'bilindiği düşünülen her varsayımı aktif olarak sorgulama ve ardından sıfırdan yeni bilgi ve çözümler yaratma pratiği' daha çok Elon Musk'ın bahsettiği ve Ünite 1'de de geçen 'İlkesel Düşünme' (First Principles Thinking) ile yakından ilişkilidir. İlkesel düşünme, temel parçalara ayırma ve sorgulama anlayışına dayanır. Bu bağlamda, verilen metinlerdeki en yakın kavram 'İlkesel Düşünme'dir, ancak metinlerde doğrudan bu isimle anılan bir teknik yerine, yaratıcı düşünmenin temel bileşenlerinden olan 'Sorgulama'nın kapsamlı bir uygulaması olarak da değerlendirilebilir. Ünite 1'deki \"Bir sorunu çözmek için bir saatim olsaydı, 55 dakikasını sorunu, 5 dakikasını da çözümleri düşünmek için harcardım\" sözü ve ilkesel düşünmenin tanımı, varsayımların sorgulanmasını vurgular. Verilen seçenekler arasında, bu yaklaşım en iyi 'Sorgulama'nın radikal bir uygulaması olarak ya da Ünite 1'deki 'İlkesel Düşünme' ile ilişkilendirilebilir. Metinlerdeki kavramları kullanarak en uygun karşılık 'Sorgulama'nın temel bir parçasıdır. Ancak, Ünite 1'deki 'İlkesel Düşünme' tanımına en yakındır. Seçeneklerde 'İlkesel Düşünme' yoksa, yaratıcı düşünmenin temelini oluşturan sorgulama mekanizması olarak ele alınır.",
             "is_duplicate": true,
-            "duplicate_of": 23,
+            "duplicate_of": 1,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9918127655982971
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2095,10 +2114,10 @@
             "topic": "Sanat Kuramları",
             "explanation": "Ünite 3'teki sanat kuramları incelendiğinde, Yansıtma (Taklit) Kuramının üç görüşü arasında, 'Üçüncü görüş: sanatın ideal olanı yansıttığı; burada hoşa gitmeyen şeylerin atılması ve yalnızca güzelin yansıtılması gerektiği' ifadesi yer alır. Courbet'nin 'melek görmediğim için melek resmi yapmadım' açıklaması, sanatın yalnızca doğrudan deneyimlenen veya gözlemlenen şeyleri yansıtması gerektiğini savunur. Bu, Yansıtma Kuramı'nın ilk görüşüne ('görüntünün gerçeğe sadık kalarak olduğu gibi yansıtıldığıdır') daha yakındır. Ancak, eserin içeriğini sanatçının gördüklerine dayandırma fikri, en çok Gestalt Kuramı'nın temelini oluşturan 'gerçekliğe yaklaşım' ve 'sorunları bir bütün içinde yeniden keşfetme' anlayışıyla değil, doğrudan 'gerçekliği yansıtma' ilkesiyle ilişkilidir. Bu tür bir açıklama, sanat eserinin sanatçının gördüklerinin/deneyimlerinin doğrudan bir yansıması olması gerektiğini savunan Yansıtma Kuramı (Mimesis) ile en uyumludur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 32,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9697632789611816
+            "duplication_reason": "Her iki soru da Gustave Courbet'nin realizm odaklı ifadelerini kullanarak aynı sanat kuramını (Yansıtma Kuramı) sormakta ve aynı bilgi noktasını test etmektedir. Şıklar kümesi ve doğru cevap aynıdır."
         },
         {
             "id": 104,
@@ -2120,7 +2139,8 @@
             "is_duplicate": true,
             "duplicate_of": 18,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 105,
@@ -2199,9 +2219,8 @@
             "UniteNo": 6,
             "topic": "Star Stratejisi Riskleri",
             "explanation": "Ünite 6'da Star Stratejisi başlığı altında, ünlülerin reklamlarda kullanılmasının marka kimliğiyle uyumlu olması gerektiği vurgulanır. Metinde, 'Ancak, marka ile uyumlu olmayan bir ünlü seçimi, reklamda sunulması amaçlanan mesajın iletilmemesine ve tüketicide satın alma niyetinin ortaya çıkmamasına sebep olabilir' denmektedir. Bu, star stratejisinin olumsuz yönlerinden biridir.",
-            "is_duplicate": true,
-            "duplicate_of": 132,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "occurrence_count": 2
         },
         {
             "id": 109,
@@ -2440,10 +2459,9 @@
             "UniteNo": 8,
             "topic": "Sekans Tanımı",
             "explanation": "Sekans, birbirini takip eden ve birbiriyle ilişkili olan sahnelerin birleşiminden ortaya çıkan yapı birimidir. Bir sekans çok sayıda sahneden oluşabilir.",
-            "is_duplicate": true,
-            "duplicate_of": 80,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9979748129844666
+            "duplication_reason": "Soru kökleri, şık listeleri ve doğru cevap (\"Sekans\") tamamen aynıdır. Sadece şıkların sıralaması farklıdır. Bu, sınav veritabanı için tam bir kopyadır.",
+            "occurrence_count": 4
         },
         {
             "id": 121,
@@ -2463,9 +2481,10 @@
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Metinde, \"Hümanistik yaklaşım, (her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini, dolayısıyla insanı merkeze alan bir anlayış olması ile ilgilidir.\" ifadesi yer almaktadır. Bu ifade, yaratıcılığın Hümanistik kuramsal temeli ile ilgilidir.",
             "is_duplicate": true,
-            "duplicate_of": 42,
+            "duplicate_of": 6,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.951391875743866
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 122,
@@ -2487,7 +2506,8 @@
             "is_duplicate": true,
             "duplicate_of": 3,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 123,
@@ -2507,9 +2527,10 @@
             "topic": "Proaktif Kişiler",
             "explanation": "Metinde proaktif kişilerin olaylar karşısında sorumluluk ve inisiyatif aldıkları, olumsuz durumlara ve değişimlere tepkisiz kalamadıkları belirtilmektedir. Verilen seçenekler arasında, proaktif kişilerin olaylar karşısında inisiyatif almadığına dair bir ifade bulunmamaktadır; aksine inisiyatif aldıkları belirtilir. (Burada sorunun 'değildir' kısmına dikkat edilmelidir. Sunulan seçenekler olmadan kesin bir cevap verilemez, ancak genel tanım 'tepkisiz kalamamak' olduğu için, tepkisiz kalmak bir proaktif davranış değildir).",
             "is_duplicate": true,
-            "duplicate_of": 101,
+            "duplicate_of": 8,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 124,
@@ -2529,9 +2550,10 @@
             "topic": "Sanat Kuramları",
             "explanation": "Metinde Yansıtma (Taklit) Kuramı başlığı altında, \"Gerçek doğasına benzetilmektedir. Betimlemesi yapılırken sanki tıpkısıymış gibi asıl görünenin taklidi yapılarak incelenir.\" denilmektedir. Bir 19. yüzyıl realist sanatçısının dağı tıpkısının taklidini çizmesi, Yansıtma Kuramını temel almasına işaret eder.",
             "is_duplicate": true,
-            "duplicate_of": 54,
+            "duplicate_of": 13,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 125,
@@ -2551,9 +2573,10 @@
             "topic": "Anlatı Karakterleri",
             "explanation": "Ünite 4'teki 'Anlatı Karakterleri' sınıflandırmasına göre, aristokratlar, kral, yargıç gibi roller, toplumsal anlamda eylem ve uygunluk normları, beklentiler ve değerlerle birlikte standart, kalıplaşmış bir sosyal rol olan veya konum olarak tanımlanan 'Rol Olarak Karakter' sınıfına girer.",
             "is_duplicate": true,
-            "duplicate_of": 104,
+            "duplicate_of": 18,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 126,
@@ -2573,9 +2596,10 @@
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Metinde Yaratıcılık Kuramları başlığı altında, \"Psikoanalitik, Hümanistik, Bilişsel, Gestaltçı ve Karma yaklaşım olarak ifade edilmiştir.\" denilmektedir. Bu kuramlardan birinin seçimi, yaratıcı sanat eğitim kuramları arasında yer alabilir.",
             "is_duplicate": true,
-            "duplicate_of": 52,
+            "duplicate_of": 16,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 127,
@@ -2597,7 +2621,8 @@
             "is_duplicate": true,
             "duplicate_of": 63,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 128,
@@ -2617,7 +2642,7 @@
             "topic": "Fotoğraf Teknikleri",
             "explanation": "Metinde Fotoğraflardan üretilen ‘Time-Lapse' uygulamalarının, fotoğrafla hikâye anlatımında kullanılan özel bir örnek olduğu ve bu uygulamanın sadece fotoğraflardan üretilen bir çeşit video olduğu belirtilmektedir. 'Yanlış' olan ifade, Time-Lapse'in bir video olmaması veya sadece fotoğraflardan oluşmamasıdır. Eğer Time-Lapse'in video olduğu bilgisi doğru kabul edilirse, 'sadece fotoğraflardan üretilen bir çeşit video' ifadesi çelişkilidir, ancak metin bunu onaylar. Dolayısıyla, Time-Lapse'in fotoğraf değil video olması, yanlış bir çıkarım olmamalıdır (çünkü metin onu video olarak tanımlıyor). Ancak, genellikle Time-Lapse'in 'hareketli görüntü' olarak adlandırılması, sorunun bağlamında en olası yanlış ifadeyi bulmayı gerektirir. Metin, bunun 'fotoğraflardan üretilen bir çeşit video' olduğunu belirtmektedir. Eğer seçenekler verilseydi daha kesin olurdu. Ancak metindeki en temel özelliklerinden biri, fotoğrafların ardışık gösterimiyle hareket illüzyonu yaratmasıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 129,
@@ -2639,7 +2664,8 @@
             "is_duplicate": true,
             "duplicate_of": 70,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 130,
@@ -2658,8 +2684,10 @@
             "UniteNo": 5,
             "topic": "Düşünme Türleri",
             "explanation": "Metinde Dikey düşünme, \"mantıksal, doğrusal ve seçici bir düşünme yöntemidir... Her adım gerekli, doğru ve kesindir. Duruma objektif yaklaşılır, kesin ve gerçek sonuçlara ulaşmak için adım adım izlenmesi gereken belirli bir yol vardır\" şeklinde tanımlanır. Dikey düşünmenin kesin ve tek bir sonuca odaklandığı, yanal düşünmenin ise birden fazla doğru yanıta olanak tanıdığı belirtilir. Dolayısıyla, dikey düşünmenin birden fazla doğru yanıta olanak tanıdığı ifadesi yanlıştır; bu, yanal düşünmenin özelliğidir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri tamamen aynıdır. Şıkların içeriği (hem doğru hem de yanlış ifadeler) de tamamen aynıdır; sadece şıkların sıralaması değiştirilmiştir. Bu iki soru anlamsal olarak kopyadır.",
+            "duplicate_of": 66
         },
         {
             "id": 131,
@@ -2698,8 +2726,10 @@
             "UniteNo": 6,
             "topic": "Star Stratejisi",
             "explanation": "Star stratejisi, ünlü kişilerin reklamlarda kullanımını ifade eder ve marka imajına etki eder. Bu stratejide, markalar reklamın hatırlanmasını ve hedef kitle ile bağ kurulmasını sağlamayı amaçlar. Ancak, metinde belirtildiği gibi, \"Markaların iletmek istediği mesaj, marka imajı ve konumlandırması ile de uyum içinde olmalıdır.\" ve \"Marka ile uyumlu olmayan bir ünlü seçimi, reklamda sunulması amaçlanan mesajın iletilmemesine ve tüketicide satın alma niyetinin ortaya çıkmamasına sebep olabilir.\" ifadeleri, uyumsuz ünlü seçiminin olumsuz bir durum olduğunu gösterir. Bu nedenle, marka ile uyumsuz ünlüyü kullanmak Star Stratejisinin olumsuz yönlerinden biridir.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplication_reason": "Exact Text Match",
+            "duplicate_of": 108,
+            "occurrence_count": 0
         },
         {
             "id": 133,
@@ -2721,7 +2751,8 @@
             "is_duplicate": true,
             "duplicate_of": 74,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 134,
@@ -2743,7 +2774,8 @@
             "is_duplicate": true,
             "duplicate_of": 69,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 135,
@@ -2765,7 +2797,8 @@
             "is_duplicate": true,
             "duplicate_of": 72,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 136,
@@ -2804,7 +2837,6 @@
             "UniteNo": 5,
             "topic": "Görsel Tasarımda Yaratıcılık",
             "explanation": "Ünite 5'te yaratıcılık; sezgi, araştırma, imleme, tasarlama, biçimlendirme ve yansıtma işlemleriyle bir süreç içerisinde gerçekleşen bir beyin aktivitesi olarak tanımlanır. Aynı zamanda 'yeni, farklı, özgün, sıra dışı vb. nitelikler taşıması beklenmektedir.' Tasarım, bu yaratıcı sürecin bir parçasıdır. E şıkkındaki 'Öngörülmüş olanı kabul eder' ifadesi, yaratıcılığın tam tersi olan rutin ve geleneksel düşünceyi (dikey düşünmeyi) çağrıştırır, bu nedenle yaratıcılıkla ilgili yanlış bir ifadedir.",
-            "is_duplicate": false,
             "occurrence_count": 2
         },
         {
@@ -2827,7 +2859,8 @@
             "is_duplicate": true,
             "duplicate_of": 75,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 139,
@@ -2866,10 +2899,10 @@
             "UniteNo": 8,
             "topic": "Sinema Anlatı Birimleri",
             "explanation": "Birbirinden farklı zaman ve mekânlarda geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan yapıya 'Sekans' adı verilir. Metnin görselleştirilmesi başlığı altında, Sekans'ın, birbiriyle ilişkili olan sahnelerin bir araya gelmesiyle oluştuğu ve çok sayıda sahneden meydana geldiği belirtilmektedir.",
-            "occurrence_count": 4,
             "is_duplicate": true,
-            "duplicate_of": 80,
-            "similarity_score": 0.9979748129844666
+            "duplicate_of": 120,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 141,
@@ -2889,9 +2922,10 @@
             "topic": "İlkesel Düşünme",
             "explanation": "Soruda bahsedilen, mevcut varsayımları sorgulama ve yeni bilgi/çözümler yaratma pratiği, Albert Einstein'ın da kullandığı ve Bloom'un (2021) bahsettiği \"İlkesel Düşünme\" (First Principles Thinking) ile açıklanır. İlkesel düşünme, bir sorunu temel parçalara ayırma ve daha sonra hepsini daha etkili bir şekilde bir araya getirme (deconstruction/yeniden yapılandırma) döngüsüdür ve zihinsel ön yargıların kırılmasını sağlar.",
             "is_duplicate": true,
-            "duplicate_of": 23,
+            "duplicate_of": 1,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9918127655982971
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 142,
@@ -2913,7 +2947,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 143,
@@ -2933,10 +2968,10 @@
             "topic": "Proaktif Kişilik Özellikleri",
             "explanation": "Proaktif kişiler olaylar karşısında sorumluluk ve inisiyatif alırlar ve olumsuz durumlara tepkisiz kalamazlar. Ancak, metinde bahsedilen Christensen'in Yenilikçilerin DNA'sı davranışları arasında: İlişkilendirme, Sorgulama, Gözlemleme, İletişim kurma ve Deney yapma yer almaktadır. Bu listede \"Rutin konularla oyalanmak\" veya \"Önyargılı davranmak\" gibi bir özellik bulunmaz. Verilen şıklarda, proaktifliğin aksine, eylemsizlik veya pasiflik içeren bir ifade (örneğin, \"Sorunlara karşı tepkisiz kalmak\") bulunmalıdır. Sorunun bağlamı 'proaktif' özellikler sorulduğu için, proaktifliğin tanımına uymayan bir davranış seçilmelidir. Proaktif kişiler inisiyatif alırken, verilen metinde (Sayfa 2) proaktif kişilerin \"Olumsuz durumlara, değişimlere tepkisiz kalamazlar\" denilmiştir. Verilen şıklar bu metinde tam olarak mevcut olmasa da, proaktifliğin zıttı olan bir davranış aranmalıdır. Proaktif kişiler değişime tepkisiz kalamazken, sorunun bağlamı (Sayfa 2) Christensen'in Yenilikçi Fikirler Üretme maddeleri arasında yer almayan veya tam tersi bir durumu ifade eden bir şıkkı işaret etmelidir. Metinde verilen proaktif tanımına göre (inisiyatif alma, tepkisiz kalmama), bu tanıma uymayan bir seçenek (örn: tepkisiz kalma) doğru cevap olacaktır. Sorunun muhtemel yanıtı, proaktif davranışların (inisiyatif alma, tepki verme) tam tersini ifade eden bir şıkkı (örneğin, \"Olaylara karşı tepkisiz kalmak\") belirtmelidir. Ancak elimizdeki metinde seçenekler verilmediği için, verilen metinlerden proaktifliğin tanımına ters düşen bir davranış (örneğin, pasiflik, değişimlere kayıtsız kalma) doğru cevap olacaktır. Proaktif tanımında yer almayan veya tam tersi olan bir davranış şıkkı aranmalıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 123,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9924437403678894
+            "duplication_reason": "Soru köklerindeki tekil/çoğul (kişilerin/kişinin) farkı dışında, soruların anlamsal içeriği, şıkları ve doğru cevapları tamamen aynıdır. Bunlar kopya sorulardır."
         },
         {
             "id": 144,
@@ -2956,10 +2991,10 @@
             "topic": "Gösterge Kategorileri",
             "explanation": "Gösterge biliminin üç temel kategorisi ikon, işaret ve semboldür. İkon, nesneyi doğrudan andıran, taklidi veya benzerliği olan göstergedir. İşaret, fiziksel/nedensel bir ilişkisi olan göstergedir (örneğin, duman=ateş). Sembol ise toplumsal/kültürel anlaşmaya dayalı göstergedir. Soruda bahsedilen \"çok basit semboller\" ifadesi, en temel gösterge biçimi olan ve nesnenin kendisiyle doğrudan fiziksel benzerlik taşıyan gösterge olan 'ikon'a işaret etmektedir. (Sayfa 4)",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 127,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 0.9517598152160645
+            "duplication_reason": "Soru metinleri neredeyse tamamen aynıdır, şık setleri özdeştir ve doğru cevap her iki soruda da aynı kavramdır (Piktogram). Bu sorular açık birer kopyadır."
         },
         {
             "id": 145,
@@ -2979,9 +3014,10 @@
             "topic": "Yaratıcılık Kuramları",
             "explanation": "Metinde Yaratıcılık Kuramları başlığı altında Psikoanalitik, Hümanistik, Bilişsel, Gestaltçı ve Karma yaklaşımlar listelenmiştir. \"Sanat yoluyla eğitim\" formülü ise Eğitim Ağırlıklı Sanat Eğitimi başlığı altında yer alır ve bu, yaratıcılık kuramlarından çok, sanat eğitimine yönelik bir yaklaşımdır. Ancak, sanat eğitimine yönelik kuramsal yaklaşımlar arasında (Sayfa 1'in sonu) \"Sanat yoluyla eğitim\", \"sanat için eğitim\" ve \"sanata doğru eğitim\" olarak geçen yaklaşımlar bulunmaktadır. Verilen seçeneklerde, kuramsal yaklaşımlar listelenmelidir. Eğer seçeneklerde sadece kuramlar varsa, listedeki kuramlardan biri seçilmelidir. (Psikoanalitik, Gestalt, Hümanistik, Bilişsel, Algısal/Sezgi gibi). Sorunun bağlamında, genellikle kuramsal yaklaşımlar listesinden birini aramalıyız. Metinde geçen kuramlardan biri Psikanalitik Yaklaşım'dır. (Sayfa 3)",
             "is_duplicate": true,
-            "duplicate_of": 126,
+            "duplicate_of": 16,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 146,
@@ -3002,7 +3038,9 @@
             "explanation": "Metinde (Sayfa 4), Grafik Sanatlarda Anlatı başlığı altında, illüstrasyonun olayları, karakterleri, mekân ve zamanı tutarlı ve anlamlı bir çerçevede düzenleyerek hikâyeyi görsel olarak ilettiği belirtilmiştir. Ayrıca, grafik tasarımcıların çizgi romanlar, çocuk kitapları, video oyunları, animasyon filmleri, reklamlar vb. anlatılar ürettiği söylenmiştir. Ancak, illüstrasyonun sadece iki boyutlu (2D) bir anlatım çabası olduğu ifadesi yanlıştır, çünkü metinde grafik tasarımcıların ürettiği alanlar (video oyunları, animasyon filmleri) genellikle üç boyutlu (3D) veya karmaşık görsel dünyaları içerir. İllüstrasyonun kendisi 2D olsa da, grafik tasarımın kapsamı daha geniştir. En belirgin yanlış ifade, illüstrasyonun sadece kurgusal olayları anlatmasıdır; metinde hem kurgusal hem de kurgusal olmayan olayların resimli hikâye anlatımı yoluyla yorumlandığı belirtilmiştir. Bu nedenle, illüstrasyonun sadece kurgusal olayları anlattığı ifadesi yanlıştır.",
             "is_duplicate": true,
             "duplicate_of": 17,
-            "original_source": "Ara Sınav 2022-2023"
+            "original_source": "Ara Sınav 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 147,
@@ -3021,7 +3059,6 @@
             "UniteNo": 3,
             "topic": "Hümaniter Kuram",
             "explanation": "Metinde (Sayfa 3), Hümaniter (İnsancıl) Yaklaşım başlığı altında, bu kuramın kurucularından olarak Rogers ve Maslow'un isimleri geçmektedir. Rogers, yaratıcılığın \"iyi\" ya da \"kötü\" olamayacağını savunurken, Maslow ise özel yetenek gerektiren yaratıcılığın her bireyde görülmeyebileceğini ancak kendini gerçekleştirme anlamındaki yaratıcılığın günlük hayatta olağan olduğunu ifade etmiştir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -3041,8 +3078,10 @@
             "UniteNo": 4,
             "topic": "Fotoğrafta Teknikler",
             "explanation": "Metinde (Sayfa 3), Fotoğraflardan üretilen 'Time-Lapse' uygulamalarının, fotoğraf ve hikâye anlatıcılığı için son yıllarda sıkça kullanılan özel bir örnek olduğu belirtilmiştir. Time-Lapse, bir dizi fotoğrafın art arda hızlı gösterilmesiyle ortaya çıkan bir çeşit videodur. Bu teknik, hareketi hızlandırarak zamanın akışını gösterir. Ancak, metinlerde bu tekniğin \"sadece fotoğraflardan üretilen bir çeşit video\" olduğu belirtilir, \"hareketli görüntü tekniği\" olduğu veya \"hareketsiz anları dondurmak\" olduğu bilgisi verilmez. Yanlış olan ifade, Time-Lapse'in hareketi yavaşlatması veya fotoğrafın kendisinin bir çeşit video olması gibi yanlış yorumlara yol açabilecek bir ifade olmalıdır. Metinde Time-Lapse'in \"sadece fotoğraflardan üretilen bir çeşit video\" olduğu bilgisi mevcuttur (Sayfa 3). Yanlış ifade, genellikle Time-Lapse'in yavaşlatma (yavaş çekim) yaptığı yönündeki yanlış algıdan kaynaklanacaktır. Time-Lapse'in hareketi hızlandırdığı bilgisi doğru iken, hareketli görüntülerin temelinde 'hareketi dondurma' (diyafram/enstantane) gibi diğer tekniklerin yer aldığı bilgisi de mevcuttur (Ünite 7'de).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri, şıkların metinleri ve doğru cevap içerikleri tamamen aynıdır. Sadece şıkların sunum sırası değiştirilmiştir.",
+            "duplicate_of": 128
         },
         {
             "id": 149,
@@ -3084,7 +3123,8 @@
             "is_duplicate": true,
             "duplicate_of": 65,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 151,
@@ -3143,7 +3183,6 @@
             "UniteNo": 6,
             "topic": "Lovemark Stratejisi Unsurları",
             "explanation": "Ünite 6'ya göre, Lovemark olmak isteyen işletmelerin üç ana unsur üzerinden ilerlemesi gerekir: Gizem, duygusallık ve samimiyet. Ayrıca, Lovemark'lar saygı inşa etmeli, sevgiyi birleştirmeli, yenilikleri takip ederek hareket halinde olmalı, hatalarını kabul etmeli ve samimi yaklaşmalıdır. Metinde Lovemark olmak için atlanmaması gereken adımlardan biri olarak 'Gizem, duygusallık ve samimiyet'ten oluşan unsurların tamamını içermesi gerektiği vurgulanmıştır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -3164,10 +3203,10 @@
             "topic": "Fotoğrafik Kompozisyon",
             "explanation": "Ünite 7'de fotoğrafik kompozisyon, çerçeveleme, ögelerin oranlanması ve düzenlenmesi ile ilgilidir. Çekim açıları evrensel olarak ortak bir uzlaşım olmamasına rağmen, uzak çekimden ayrıntı çekime doğru sıralanmıştır. Fotoğrafçının kompozisyon tercihlerinde etkili olan unsurların başında perspektif, ritim, duygu ve aksiyon vurgusu gelir. Bu bağlamda, 'Hacim, form, doku gibi fiziksel özelliklerin vurgulanmasında ışığın yönünün önemi yoktur' ifadesi yanlıştır, çünkü Ünite 7'de ışığın yönünün, hacim, form ve doku gibi fiziksel özelliklerin vurgulanmasında ve üçüncü boyut etkisinin kazandırılmasında önemli bir faktör olduğu belirtilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 137,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9798429012298584
+            "duplication_reason": "Soru kökleri anlamsal olarak aynıdır. Şıkların içerikleri birebir aynıdır, sadece sıralamaları değiştirilmiştir. Her iki sorunun da doğru cevabı aynı seçeneğe işaret etmektedir."
         },
         {
             "id": 155,
@@ -3269,7 +3308,8 @@
             "is_duplicate": true,
             "duplicate_of": 139,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 160,
@@ -3289,9 +3329,10 @@
             "topic": "Sekans Tanımı",
             "explanation": "Ünite 8'de 'Sekans', 'Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkan' yapı olarak tanımlanmıştır. Bu, anlatı yapısının temel yapı taşlarından biridir.",
             "is_duplicate": true,
-            "duplicate_of": 80,
+            "duplicate_of": 120,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9979748129844666
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 161,
@@ -3313,7 +3354,8 @@
             "is_duplicate": true,
             "duplicate_of": 45,
             "original_source": "Ara Sınav 2024-2025",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 162,
@@ -3333,9 +3375,10 @@
             "topic": "İlkesel Düşünme",
             "explanation": "Ünite 1'deki 'Elon Musk ve Düşünme Sürecinde Temel İlkeler' başlığı altında, bir sorunu ilk ilkelere göre analiz edip tasarlayarak hayata geçirme sürecinin, 'İlkesel düşünme' olduğu ve bunun, temel parçalara ayırma ve yeniden yapılandırma döngüsü olduğu açıklanmıştır. Bu, varsayımları sorgulama pratiği ile ilişkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 23,
+            "duplicate_of": 1,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9918127655982971
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 163,
@@ -3357,7 +3400,8 @@
             "is_duplicate": true,
             "duplicate_of": 29,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 164,
@@ -3379,7 +3423,8 @@
             "is_duplicate": true,
             "duplicate_of": 28,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 165,
@@ -3399,10 +3444,10 @@
             "topic": "Psikanalitik Kuram",
             "explanation": "Soru, yaratıcılığın savunma mekanizması olarak yüceltme ile ilişkilendirilmesini, Freud'un bilinç, rüyalar, imajinasyon ve sapmalar üzerine yaptığı araştırmaları konu edinmektedir. Metinde, \"Psikanalitik yaklaşım, yaratıcılık iç güdüsel dürtülerin dışa vurumuyla ilgilidir.\" ve ardından Freud'un bu konudaki çalışmalarına değinilmektedir. Açıklamalar doğrudan Psikanalitik Yaklaşım ile ilgilidir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 55,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.9982616305351257
+            "duplication_reason": "Metinler ve soru kökleri anlamsal olarak tamamen aynıdır, her ikisi de Freud'un yüceltme mekanizmasına dayanan 'Psikanalitik' kuramı sormaktadır. Şık setleri de aynıdır, sadece sıralamaları farklıdır. Bu sorular sınav veritabanında kopya olarak kabul edilmelidir."
         },
         {
             "id": 166,
@@ -3422,9 +3467,10 @@
             "topic": "İllüstrasyon ve Grafik",
             "explanation": "Ünite 4'te, İllüstrasyonun tanımı yapılırken, \"Eski illüstrasyon sanatının merkezinde yer alır.\" denilmekte ve illüstratörlerin hayal gücünü cezbetmek, eğlendirmek, eğitmek ve meşgul etmek için sanatlarını kullandıkları belirtilmektedir. Ancak, illüstrasyonun yalnızca görsel bir anlatım türü olduğu, diğer mecralarla (reklamlar, video oyunları vb.) sınırlı kalmadığı vurgulanmaktadır. Grafik tasarım ve anlatı ilişkisinin tanımlandığı kısımda, haber görselleri, infografikler, kitap kapağı tasarımı, çizgi romanlar, animasyonlar, video oyunları ve reklam kampanyaları gibi pek çok alanın illüstrasyon ile ilişkili olduğu belirtilmiştir. İllüstrasyonun sadece çocuk kitapları ile sınırlı olduğuna dair bir ifade yanlıştır.",
             "is_duplicate": true,
-            "duplicate_of": 60,
+            "duplicate_of": 17,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 167,
@@ -3445,7 +3491,9 @@
             "explanation": "Ünite 4'teki Sosyal Medya Anlatısı bölümünde, \"Sosyal medyanın sunmuş olduğu özgürlükçü ortamda tüketiciler, markalarla istedikleri zamanda ve mecrada etkileşimde bulunabilir.\" ve \"Günümüzde en yaygın anlatı üreticilerinin başında gelir.\" denilerek, sosyal medyanın günümüz anlatı üretimindeki merkezi rolü vurgulanmaktadır. Özellikle 'hikâyeler' (stories) teriminin 'anlatı' teriminin yerini aldığı belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 37,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 168,
@@ -3465,9 +3513,10 @@
             "topic": "Sanat Kuramları",
             "explanation": "Soruda verilen iki eser (Van Gogh'un yapıtı ve Munch'un 'Çığlık' adlı yapıtı), genellikle sanatçının iç dünyasını, duygularını ve zihinsel durumlarını yansıtan eserlerdir. Ünite 3'te Dışavurumcu (Anlatım) Kuram, sanatçının duygularını farklı bir şekilde ele alması ve iç dünyasının yansıması olarak tanımlanır. Metinde, \"Sanatçının ruhunun yansıması söz konusudur. İç dünyasını kendi seçtiği sanat biçimiyle tuvaline yansıtır.\" ifadesi bu kuramı destekler. Dolayısıyla bu tür eserler Dışavurumcu Kuram'a örnek teşkil eder.",
             "is_duplicate": true,
-            "duplicate_of": 31,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2022-2023",
-            "similarity_score": 0.9994747042655945
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 169,
@@ -3489,7 +3538,8 @@
             "is_duplicate": true,
             "duplicate_of": 131,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 170,
@@ -3528,7 +3578,6 @@
             "UniteNo": 5,
             "topic": "Yaratıcı Düşünme Aşamaları",
             "explanation": "Wallas'ın Dört Aşamalı Yaratıcılık Modeli; Hazırlık, Kuluçka, Fikrin Doğuşu (İlham) ve Uygulama aşamalarından oluşur. Test sorusunda verilen seçenekler arasında 'Doğrulama' bu aşamalardan biri değildir. Doğrulama, Harris'in geliştirdiği aşamalarda yer alır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -3569,9 +3618,10 @@
             "topic": "Dijital Reklamcılık Alanları",
             "explanation": "Dijital Reklamcılık Alanları başlığı altında Web Sitesi Reklamları açıklanırken, bu tür reklamların 'daha fazla trafik sağlamaya çalıştığı' ve 'uzun, ince boyutlu reklamlar'dan bahsedilmese de, genel olarak web sitelerindeki reklam türlerini kapsar. Ancak, metinde doğrudan 'uzun, ince boyutlu reklamlar' tanımına karşılık gelen spesifik bir terim (genellikle banner/skyscraper) verilmemiştir. Ünite 6'nın bağlamında, reklamların web sitelerinde farklı şekillerde verilebildiği belirtilmiştir. En yakın terim web sitesi reklamlarıdır.",
             "is_duplicate": true,
-            "duplicate_of": 133,
+            "duplicate_of": 74,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 174,
@@ -3631,9 +3681,10 @@
             "topic": "Yaratıcı Birey Özellikleri",
             "explanation": "Ünite 7'de, yaratıcı özne olarak fotoğrafçının sahip olması gereken özellikler sıralanırken, 'hayal gücü'nün zihinsel bir yetenek olarak kabul edildiği ve yaratıcı niteliğin kazanılmasında en temel etken olduğu belirtilmektedir: 'İnsanı diğer canlılardan ayıran en temel özelliklerden biri olarak görülen hayal gücü, zihinsel bir yetenek olarak kabul edilir.'",
             "is_duplicate": true,
-            "duplicate_of": 135,
+            "duplicate_of": 72,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 177,
@@ -3654,7 +3705,9 @@
             "explanation": "Ünite 3'teki Sanat Kuramları bölümünde, sanatın ne olduğu ve sorgulanması gerektiği belirtilmektedir. \"Sanat kuramları, sanat olarak kabul edilen şeyin sorgulanmasını barındırır. “Bu eser ya da olay neden sanat olarak görülmüştür?” sorusunun cevabı aranır.\" ifadesi, sanattaki en temel tartışmanın eserin ne olduğu veya neden sanat olduğu etrafında döndüğünü gösterir. Verilen şıklar arasında \"Eserin sahibinin niteliği\" (C) doğrudan bir tartışma konusu olarak bahsedilmese de, sanat kuramlarının odaklandığı temel sorgulama genellikle eserin kendisi (içerik, biçim, yaratıcılık) veya neden sanat olduğu üzerinedir. Ancak, verilen şıklar arasında en yakını, eserin neden sanat olarak kabul edildiğinin sorgulanmasıdır ki bu, eserin sahibinin niteliği (kimin yaptığı/kimin sunduğu) gibi diğer faktörleri de kapsayan genel bir sorgulama alanıdır. Metinde özellikle \"sanat kuramları, sanatın doğuşu, sınırları, evrimleri ve tüm biçimlenişleriyle ilgilenir\" denilerek eserin kendisinin ve bağlamının sorgulandığı vurgulanmaktadır. Sorunun işaretlediği C şıkkı, sanatın niteliği ve kabulü bağlamında tartışılan faktörlerden biri olarak kabul edilebilir.",
             "is_duplicate": true,
             "duplicate_of": 73,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 178,
@@ -3716,7 +3769,8 @@
             "is_duplicate": true,
             "duplicate_of": 79,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

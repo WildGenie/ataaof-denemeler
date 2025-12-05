@@ -15,7 +15,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": false,
+            "UniteNo": 2,
+            "topic": "Kağıt ve matbaa kökeni",
+            "explanation": "Ünite 2’deki bilgilere göre, kâğıt MS 105 yılında Cai Lun tarafından Çin'de icat edilmiştir. Ayrıca, tahta baskı tekniği ile basılmış ilk bilinen materyal (MS 770) ve ilk kitap (Elmas Sutra, MS 868) da Çin’de üretilmiştir. Bu nedenle Çin, hem kâğıdın hem de matbaa teknolojisinin (tahta baskı) kökeninin dayandığı medeniyettir."
         },
         {
             "id": 2,
@@ -32,7 +35,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": false,
+            "UniteNo": 1,
+            "topic": "Vellum ve parşömen",
+            "explanation": "Ünite 1'de 'İlk kitaplar' başlığı altında parşömenden bahsedilmektedir. Parşömen, buzağı, koyun veya keçi derisinden yapılan bir yazı yüzeyidir. Vellum, parşömenin en kaliteli ve ince türüdür ve genellikle özel olarak işlenmiş buzağı derisinden elde edilir. Dolayısıyla Vellum, parşömenin daha kaliteli bir versiyonudur."
         },
         {
             "id": 3,
@@ -48,8 +54,11 @@
             "exam_question_number": 3,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "occurrence_count": 4,
-            "is_duplicate": false
+            "occurrence_count": 5,
+            "is_duplicate": false,
+            "UniteNo": 1,
+            "topic": "Sesçil alfabe kökeni",
+            "explanation": "Ünite 1'de yer alan 'Fenikeliler ve İlk Alfabeler' başlığına göre, Fenikeliler ticaret kayıtlarını tutabilmek amacıyla ilk sesçil (fonetik) yazı sistemini oluşturmuşlardır. Bu sistem 22 önemli sesi işaret etmektedir ve modern alfabelerin temeli olarak kabul edilir."
         },
         {
             "id": 4,
@@ -66,7 +75,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": false,
+            "UniteNo": 2,
+            "topic": "İlk resimli İncil",
+            "explanation": "Ünite 2'deki 'Alman Resimli Kitabı' bölümünde belirtildiği üzere, Augsburglu matbaacı Günther Zainer, hareketli matbaacılık tarihinde ilk resimli İncil’i üreten kişidir. Zainer'in çalışması, matbaanın icadından sonraki ilk dönem olan Incunabula sürecine aittir."
         },
         {
             "id": 5,
@@ -83,7 +95,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 2,
+            "topic": "İlk basılı kitap",
+            "explanation": "Ünite 2'deki 'Çin'de Matbaanın Bulunuşu' başlığı altında, tahta baskı tekniği ile MS 770 yılında basılan tılsımlı duaların ardından, 11 Mayıs 868 yılında basılmış olan 'Elmas Sutra'nın dünya tarihinde bilinen ilk basılı kitap olduğu belirtilmiştir."
         },
         {
             "id": 6,
@@ -100,7 +115,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 2,
+            "topic": "Romain du Roi yazıyüzü",
+            "explanation": "Ünite 2'deki 'Tipografi Çağı ve Öncüleri' başlığına göre, Fransız Kralı Louis XIV, 1692 yılında Imprimerie Royale için yeni bir yazı tipi geliştirmesini emretmiştir. Matematiksel kaidelerle tasarlanan bu karakter, yalnızca kraliyetin kullanımı için ayrılmış olan 'Romain du Roi' yazıyüzüdür."
         },
         {
             "id": 7,
@@ -117,7 +135,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2,
+            "UniteNo": 1,
+            "topic": "Petroglif tanımı",
+            "explanation": "Ünite 1'deki 'Kaya Resimleri ve Heykelcikleri' bölümünde, kaya resimlerinin daha genel bir üst tanımlama olduğu ve 'Petroglifler yalnızca kazınarak yapılan negatif veya pozitif resimleri ifade etmektedir' şeklinde tanımlanmıştır. Bu tanım, petrogliflerin kayalar üzerine kazıma ve oyma yoluyla yapıldığını gösterir."
         },
         {
             "id": 8,
@@ -134,7 +155,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 2,
+            "topic": "Caslon yazıyüzü",
+            "explanation": "William Caslon, 18. yüzyılda İngiltere'de yazı tipi standartlarını belirlemiş ve tasarımlarında zarif ve kararlı formlar kullanarak yazıyüzlerini evrensel baskı standardı hâline getirmiştir. Metin, Caslon'un güvenilirliğini ve evrensel kabulünü vurgular, bu da 'Şüpheye düştüğünüzde kullanın' özdeyişiyle ilişkilidir (Ünite 2, 'Tipografi Çağı ve Öncüleri')."
         },
         {
             "id": 9,
@@ -151,7 +175,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2,
+            "UniteNo": 2,
+            "topic": "Baskı teknolojisinin Avrupa'ya gelişi",
+            "explanation": "Ünite 2'deki 'Baskının Avrupa'ya Gelişi' bölümüne göre, büyük kâşif Marco Polo 1295 yılında Çin seyahati sonrasında İtalya'ya döndüğünde, doğunun baskı teknolojisini (ahşap blok baskı tekniği) de beraberinde getirmiştir."
         },
         {
             "id": 10,
@@ -168,7 +195,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 2,
+            "topic": "İlk Alman basım örneği",
+            "explanation": "Ünite 2'deki 'Gutenberg Matbaasının Gelişimi' başlığı altında, Almanya'da bilinen en eski basım örneğinin bir 'Sibylline' şiirinin basıldığı bir kitap yaprağı olduğu belirtilmiştir. Bu eser, Gutenberg'in Mainz atölyesinde 1444-1447 yılları arasında deneysel olarak basılmıştır."
         },
         {
             "id": 11,
@@ -185,7 +215,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": false,
+            "UniteNo": 3,
+            "topic": "Arts & Crafts kurucuları",
+            "explanation": "Ünite 3'teki 'Arts & Crafts (Sanat ve Zanaat) Hareketi' başlığına göre, bu sanatsal hareketin düşünsel altyapısını yazar John Ruskin ve tasarımcı William Morris hazırlamıştır. Bu hareket, 19. yüzyıl sonlarında Endüstriyel Devrim'in yol açtığı sanatsal karmaşaya karşı bir tepki olarak ortaya çıkmıştır."
         },
         {
             "id": 12,
@@ -201,9 +234,9 @@
             "exam_question_number": 12,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "UniteNo": 3,
-            "topic": "Arts & Crafts Hareketi",
-            "explanation": "Arts & Crafts Hareketi, Endüstri Devrimi'nin getirdiği mekanikleşmeye karşı bir duruş sergilemiş, el emeğini ve materyal kalitesini vurgulamıştır. Hareketin temel amacı, el sanatlarını yeniden canlandırmak, sanat ve zanaatı birleştirmekti. Seri imalat (E şıkkı) bu hareketin reddettiği bir olguydu; aksine, tasarımları elle üretmek (D şıkkı) esastı. Ayrıca el sanatlarını daha ucuz maliyetle üretmek (A şıkkı) yerine, el emeğini değerli kılmayı amaçlamışlardır. Anti-akademik yaklaşımlar ve sanatı el sanatları yoluyla canlandırma arzusu (C şıkkı) hareketin temelindeydi.",
+            "UniteNo": 1,
+            "topic": "Petroglif tanımı",
+            "explanation": "Ünite 1'deki 'Kaya Resimleri ve Heykelcikleri' bölümüne göre, kaya resimleri petroglifleri de içeren üst bir tanımlamadır ve 'Petroglifler yalnızca kazınarak yapılan negatif veya pozitif resimleri ifade etmektedir'. Bu, petrogliflerin kayaların üzerine kazıma ve oyma yoluyla yapılan resimler olduğunu gösterir.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -221,9 +254,9 @@
             "exam_question_number": 13,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "UniteNo": 2,
-            "topic": "Antik Dönem Reklamcılık",
-            "explanation": "Metinde Antik Roma'da dükkanların ne sattığını belirtmek için kullanılan simgelerden bahsedilmektedir. Ancak dünya tarihinde ilk gerçek reklam ajansının kurulduğu ülke bilgisini doğrudan içermemektedir. Genel tarih bilgisi, modern reklamcılığın ve ajans sisteminin kökeninin genellikle Amerika Birleşik Devletleri'nde (ABD) başladığını gösterir. Sorunun doğru kabul edilen şıkkı 'Amerika' olduğundan, bu bilginin metinde doğrudan olmamasına rağmen, ABD'nin modern reklamcılık pratiğindeki öncü rolüne atıfta bulunulduğu varsayılabilir (Özellikle 1950'lerden sonraki görsel iletişimdeki gelişmelere değinilmesi bu bağlamda ABD'nin önemini gösterir).",
+            "UniteNo": 3,
+            "topic": "Arts & Crafts Hareketi",
+            "explanation": "Ünite 3'teki 'Arts & Crafts (Sanat ve Zanaat) Hareketi' başlığına göre, yazar John Ruskin ve tasarımcı William Morris, Endüstriyel Devrim'in getirdiği sanatsal karmaşaya karşı bir duruş sergileme ihtiyacı hissetmişlerdir. Bu duruş, zamanla Arts&Crafts hareketine dönüşmüş, el emeğini ve kaliteli materyal kullanımını savunmuştur.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -241,9 +274,9 @@
             "exam_question_number": 14,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "UniteNo": 3,
-            "topic": "Art Nouveau Esin Kaynağı",
-            "explanation": "Art Nouveau, ilk olarak 1880 yılında Viktorya döneminin dekoratif ögelerine karşı yeni bir dil meydana getirmek istemiştir. Bu akım, özellikle Japon ahşap baskılarına duyulan hayranlıktan esinlenmiştir. Ayrıca, Gustav Klimt, Emile Galle gibi sanatçıların çalışmaları da bu akıma yön vermiştir. Konstrüktivizm ise, 1915 yılında Rusya'da ortaya çıkan, geometrik ve yapısalcılığa dayanan bir harekettir ve Art Nouveau'nun esinlendiği kaynaklardan biri değildir (Ünite 3).",
+            "UniteNo": 1,
+            "topic": "İlk resimli el yazmaları",
+            "explanation": "Ünite 1'deki 'İlk kitaplar' başlığı altında, Antik Mısırlıların MÖ 2500 yılı civarında papirüsü yazı yüzeyi olarak kullanmaya başladığı ve MÖ 1580 yılından itibaren papirüs üzerine aktarılan uzun metinlerin, insanlık tarihinin ilk resimli el yazmaları olduğu kabul edilmektedir.",
             "occurrence_count": 3,
             "is_duplicate": false
         },
@@ -262,8 +295,8 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "UniteNo": 1,
-            "topic": "İlk Animasyon Örnekleri",
-            "explanation": "İlk animasyon örnekleri 19. yüzyılın başlarında görülmüştür ve 'Thaumatrope' adı verilen, ipler bağlı bir oyuncağın iki resmi birbirinin ardına sıralayarak hareket edermiş gibi gösteren bir örnek olduğu belirtilmiştir. Bu tür mekanik görsel yanılsama yaratan araçlar, Sinemanın icadından sonra ortaya çıkan animasyonun ilk örneklerini temsil eder (Ünite 1).",
+            "topic": "Afiş tanımı",
+            "explanation": "Afiş (poster), genellikle tanıtım ve duyuru amacıyla hazırlanan, resimli veya yazılı görsel iletişim materyalidir. Ünite 1'deki 'Giriş' bölümünde, doğal iletişim şekillerinin ötesindeki iletişim yöntemleri arasında 'duvar afişleri, sokak ve reklam tabelaları' sayılmaktadır, bu da afişin temel bir tanıtım aracı olduğunu gösterir.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -281,9 +314,9 @@
             "exam_question_number": 16,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "UniteNo": 4,
-            "topic": "Kübizm Sanat Akımı",
-            "explanation": "Sanat tarihinde gerçekçi olma geleneğini yıkan, doğadan bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek kazandıran akım Kübizm'dir (Ünite 4). Kübizm, nesneleri birden çok bakış açısıyla ele almayı amaçlamıştır.",
+            "UniteNo": 6,
+            "topic": "Sembol tanımı",
+            "explanation": "Sembol, iletilmek istenen fikir veya kavramı, fiziksel forma doğrudan gönderme yapmadan (soyut olarak) temsil eden grafik elemandır. Ünite 6'da 'Logoda Sembolizm, Sembolik İletişim ve Semiyotik' başlığı altında, sembollerin mesajı hızlı bir şekilde aktardığı ve tasarımdaki belirli kavramsal öğeleri birbirine bağladığı belirtilmiştir.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -301,9 +334,9 @@
             "exam_question_number": 17,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "UniteNo": 4,
-            "topic": "Fütürizm Tipografi",
-            "explanation": "Fütürizm Sanat Akımı, Filippo Tommaso Marinetti tarafından başlatılmış, savaş, hız ve makine çağını yücelten bir harekettir. Metinde, Fütüristlerin tipografik devrim çağrısında bulundukları ve 'Tekrar eden harfler ile de ses kavramı vurgulanmaya çalışılmış' olduğu belirtilmektedir. Bu, tekrarlayan harflerle ses kavramını ifade etme denemesinin Fütürizm ile başladığını gösterir. Dadaizm (D şıkkı) de görsel dilde yenilikçi ve isyankar teknikler kullansa da, tekrar eden harflerle ses vurgusu Fütürizm'in tipografik devrim çağrısının bir parçası olarak metinde belirtilmiştir. Ancak sorunun doğru kabul edilen şıkkı D şıkkı (Dadaizm) olarak işaretlenmiştir. Dadaistler de Fütürizm'den etkilenmiş ve görsel dilde yenilikçi teknikler kullanmışlardır. Fütürizm metinde bu tekniği spesifik olarak belirtse de, Dadaizm de geleneksel kuralları reddederek benzer isyankar ve deneysel tipografik yaklaşımlar sergilemiştir (Fütürizm'den etkilenerek).",
+            "UniteNo": 6,
+            "topic": "İsviçre Stili temel ilkeleri",
+            "explanation": "Ünite 6'daki 'Uluslararası Tipografik Stil' (İsviçre Stili) ile ilgili bilgilere göre, stil, matematiksel olarak çizilmiş bir ızgara (grid) üzerinde asimetrik düzenlemeleri, serifsiz harf karakterlerini ve tarafsız, net bir mesaj iletmeyi temel alır. Bu da netlik, minimalizm ve düzen gibi ilkeleri benimsediğini gösterir.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -322,10 +355,10 @@
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
             "UniteNo": 2,
-            "topic": "Dadaizm Temsilcileri",
-            "explanation": "Fransız ressam Marcel Duchamp, hazır nesneleri (ready-made) kullanarak sanat yapıtına dönüştürme biçimiyle Dadaizmin en önemli görsel sanatçısı olmuştur. Onun \"Çeşme\" adlı eseri ve Mona Lisa'ya bıyık eklemesi bu akımın isyankar ruhunu yansıtmaktadır (Ünite 2).",
+            "topic": "Orta Çağ el yazmaları",
+            "explanation": "Ünite 2'deki 'Avrupa'da El Yazmaları' başlığına göre, MS 1000-1200 yılları arasında Romanesk Dönemi ortaya çıkmış ve bu dönemde el yazmalarının sayısında artış görülmüştür. Ayrıca, sanatçıların manastırlardan ayrılarak üniversiteler yakınında çalışmaya başlamasıyla dini eserlerin haricinde ders kitapları gibi farklı konularda da eserler hazırlanmıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 19,
@@ -341,11 +374,11 @@
             "exam_question_number": 19,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "UniteNo": 4,
-            "topic": "De Stijl Başlangıç Yeri",
-            "explanation": "De Stijl akımı, 20. yüzyıl başlarında Hollanda'da ortaya çıkmıştır. Theo van Doesburg, Piet Mondrian gibi sanatçılar grubu kurmuş ve \"De Stijl\" dergisini çıkarmaya başlamışlardır (Ünite 4).",
+            "UniteNo": 5,
+            "topic": "Konstrüktivizm kurucusu",
+            "explanation": "Ünite 5'teki 'Konstrüktivizm Akımı ve Özellikleri' başlığına göre, 1915 yılında Rusya'da ortaya çıkan Konstrüktivizm akımının kurucularından biri Rus ressam ve mimar Vladimir Tatlin'dir. Tatlin, Kazimir Maleviç ile birlikte avangard sanatın önemli figürlerinden biriydi.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 20,
@@ -361,9 +394,9 @@
             "exam_question_number": 20,
             "source": "Ara Sınav 2021-2022",
             "material_id": "492716",
-            "UniteNo": 3,
-            "topic": "Art Deco Özellikleri",
-            "explanation": "Art Deco, düz ve keskin hatlar, geometrik şekiller, hızı temsilen aerodinamik formlar ve aydınlık renkler öne çıkan bir akımdır (Ünite 3). Düz ve keskin hatlar kullanması, onu Konstrüktivizm ve Bauhaus'un yumuşatılmış formlarından ayırır. Ancak, Art Deco'nun kendinden önceki Art Nouveau'ya karşı bir duruş sergilemesi ve el işçiliği ile zarafeti bir araya getirme amacı taşıması, onu diğer modern akımlardan ayırır. Art Deco'nun temel özelliklerinden biri, geometrik formları kullanmak olsa da, Art Nouveau'dan farklı olarak yumuşatılmış formları tercih etmesi (Peignot gibi) onun bir parçasıdır. Ancak, aşırı dekoratif ve süslemeli görünüm Art Nouveau'nun baskın özelliğiydi; Art Deco ise daha sadeleşmiştir. Soruda verilen şıklar arasında, en belirgin özelliklerden biri olmayan bir ifade bulunmamaktadır. Ancak genel olarak Art Deco, Art Nouveau'daki aşırı dekoratif ve süslemeli yapıyı reddederek daha geometrik bir yapıya odaklanmıştır. Metinde, Art Nouveau'nun dekoratif ögelerine karşı bir duruş sergilediği belirtilmiştir. Metinde özellikle belirtilen özellikler: düz ve keskin hatlar, geometrik şekiller, aerodinamik formlar, aydınlık renkler. Art Nouveau'nun özelliklerinden biri olan \"aşırı dekoratif ve süslemeli görüntü\" Art Deco'nun özelliği değildir (Ünite 3'ün son paragrafındaki Modernizm öncesi akımlarla karşılaştırmaya dikkat edilmeli).",
+            "UniteNo": 2,
+            "topic": "İbn Mukle ve hat sanatı",
+            "explanation": "Ünite 2'deki 'İslam Coğrafyasında El Yazmaları' başlığına göre, MS 10. yüzyılın başlarında İbn Mukle, geometri kurallarına dayalı ve oranlı bir yazı stili önermiştir. Bu yaklaşım, Sülüs, Nesih, Reyhani gibi altı farklı temel hat stilinin özelliklerini belirlemiştir, bu da İbn Mukle'nin hat sanatına geometrik ve oranlı bir temel kazandırdığını gösterir.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -381,8 +414,10 @@
             "exam_question_number": 1,
             "source": "Ara Sınav 2023-2024",
             "material_id": "565285",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri tamamen aynıdır ve aynı kavramın tanımını sormaktadırlar (\"Petroglif\"). Şıkların içerikleri birebir aynıdır; tek fark şıkların sıralanışıdır. Doğru cevap her iki soruda da aynı ifadeyi işaret etmektedir. Bu, anlamsal olarak kopyadır.",
+            "duplicate_of": 7
         },
         {
             "id": 22,
@@ -404,7 +439,8 @@
             "is_duplicate": true,
             "duplicate_of": 1,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 23,
@@ -423,8 +459,10 @@
             "UniteNo": 2,
             "topic": "Fenikeliler ve İlk Alfabeler",
             "explanation": "Fenikeliler, ticaret kayıtlarını tutabilmek için daha etkili bir yazı sistemi arayışında ilk sesçil (fonetik) yazı sistemini oluşturdular. Bu sesçil alfabe, kullanılan harflerin bir sesi işaret ettiği bir tür alfabedir ve modern alfabelerin temelini oluşturmuştur (Robinson, 2019).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Her iki soru da anlamsal olarak 'harflerin bir sesi temsil ettiği fonetik alfabeyi ilk kullanan uygarlık' bilgisini sormaktadır. Soru kökleri (küçük bir yazım farkı hariç) ve doğru cevaplar tamamen aynıdır. Şık listeleri aynı seçeneklerden oluşmaktadır. Bu sorular veritabanında kopya olarak işaretlenmelidir.",
+            "duplicate_of": 3
         },
         {
             "id": 24,
@@ -503,10 +541,7 @@
             "UniteNo": 3,
             "topic": "Rönesans ve Tipografi",
             "explanation": "Fransa Kralı Louis XIV'ün emriyle 1692'de Imprimerie Royale için tasarlanan ve yalnızca kraliyetin kullanımı için ayrılan yazı yüzü, Romain du Roi (Romaine du Roi) karakteridir (Devroye, 2016).",
-            "occurrence_count": 2,
-            "is_duplicate": true,
-            "duplicate_of": 6,
-            "similarity_score": 0.990900993347168
+            "occurrence_count": 2
         },
         {
             "id": 28,
@@ -525,9 +560,8 @@
             "UniteNo": 2,
             "topic": "Erken Dönem Blok Baskı",
             "explanation": "İlk ahşap baskılar genellikle dini imgelerin, azizlerin ve oyun kartlarının üretimine olanak sağlamıştır. Metin ve resim ilişkisi ancak 1440'larda tipografinin bulunmasıyla ayrılmıştır. Bu nedenle, erken dönem blok kitaplarda dini imgeler ve oyun kartları temel temalarken, romanlar ve bilimsel yayınlar daha çok tipografik baskıya geçildiğinde ön plana çıkmıştır.",
-            "is_duplicate": true,
-            "duplicate_of": 103,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 29,
@@ -586,7 +620,8 @@
             "is_duplicate": true,
             "duplicate_of": 11,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 32,
@@ -606,7 +641,7 @@
             "topic": "Art Nouveau Hareketi",
             "explanation": "Metinde Art Nouveau hareketinin, Viktorya döneminin dekoratif ögelerine karşı yeni bir dil meydana getirme amacı güttüğü belirtilmiştir. Daha sonra, Modern stilin kökleri olarak anılan bu hareketin, Endüstri Devrimi sonrası sanatsal karmaşaya karşı bir duruş olarak ortaya çıktığı ve sanatı toplumsal yaşamla ilişkilendirmeye çalıştığı ima edilmektedir (Ünite 3'ün Giriş ve Art Nouveau bölümleri). Ancak, sorunun doğru kabul edilen şıkkı Art Nouveau'yu 'sanatı toplumun yaşam alanı ile buluşturan ilk hareket' olarak tanımlamaktadır. Ünite 5'teki Konstrüktivizm'in (A şıkkı) temel amacı da 'toplumsal yarar ve insan bazlı amaçlar' gütmekti ve teknolojiyi kullanmak idi. Ancak Art Nouveau, Endüstri Devrimi sonrası ortaya çıkan ve görsel estetiği günlük yaşama (süsleme, mimari, dekorasyon) taşıyan ilk büyük akımlardan biri olarak bu bağlamda öne çıkabilir. Sorunun doğru kabul edilen şıkkı Art Nouveau (B şıkkı) olduğundan, bu hareketin toplumsal yaşamla görsel estetiği birleştirme çabası kastedilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 33,
@@ -665,9 +700,8 @@
             "UniteNo": 4,
             "topic": "Modern Sanat Felsefesi",
             "explanation": "Ünite 4 Giriş bölümünde Modern Sanatın her şeyin toplumu ilgilendirdiği, sanat için sanat değil, toplum için sanat üretme anlayışının yaygınlaştığı belirtilmiştir. Ayrıca makineleşmenin geleceğin sembolü olarak görüldüğü ifade edilmiştir. Dolayısıyla A, C, D şıkları doğrudur. Modern sanatta sanat ve endüstrinin birleştirilmesi amaçlanmıştır (Sanat ve endüstriyi birleştirmek ana amaç olmuştur). Ancak Modern Sanat, geleneksel nesnel dünya görüşünü reddederek, sanatçıların kendi bireysel yaklaşımlarını vermeye çalıştığı bir dönemdir. Sanatın geleneksel normlardan ayrışması söz konusudur. Sorunun doğru kabul edilen şıkkı A şıkkıdır: 'Modern sanatta her şey bireyi ilgilendirir.' Modern sanatta bireysel yaklaşımlar ön plana çıksa da, temel felsefe 'her şey toplumu ilgilendirir' ve 'toplum için sanat' üretme anlayışıdır; bu da A şıkkını Modern Sanatın temel odak noktası olarak yanlış yapar.",
-            "is_duplicate": true,
-            "duplicate_of": 108,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 36,
@@ -803,7 +837,7 @@
             "UniteNo": 6,
             "topic": "Japon tipografisi",
             "explanation": "Ukiyoe, Japonya'da ortaya çıkan ve resim, illüstrasyon ve tipografinin birleşimiyle oluşan sanat formudur. Ünite 6'da özellikle Polonya film afişlerinin Japon sanatından etkilendiği ve metaforik yaklaşımları paylaştığı belirtilmektedir, ancak Ukiyoe'nin doğrudan tanımı Ünite 7'deki Pop Art'ın etkileri arasında bahsedilen 'Japon ahşap baskıları' (Ukiyoe) ile ilişkilidir, ancak tanımı en net Ünite 7'de geçer. Ancak, Ukiyoe'nin tanımı metinde tam olarak açıkça verilmemiştir. Metinlerdeki Japon sanatına atıflar genellikle Ukiyoe ile bağlantılıdır. Ünite 7'de Pop Art'ın Japon ahşap baskılarından (Ukiyoe) etkilendiği belirtilmektedir, ancak net bir tanımı yoktur. Yine de bu kavram Japon sanatıyla ilişkilidir.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -844,7 +878,7 @@
             "topic": "Yazı karakteri terimleri",
             "explanation": "Baskının Avrupa'ya Gelişi ünitesinde (Ünite 2), majiskül (büyük harf) ve miniskül (küçük harf) terimlerinin yazım sistemlerinde kullanıldığı belirtilmiştir. Örneğin, Fleischmann'ın yarattığı yazı karakterlerinin hem majiskül hem de miniskül biçimleri olduğu ve modern alfabelerin gelişiminde bu ikisinin rol oynadığı ima edilmektedir. (Ancak bu terimlerin doğrudan tanımı metinde bulunmamaktadır; en yakın bağlam Johann Gutenberg'in icadından sonraki dönemde harflerin tanımlanmasıdır. Ünite 2'de Peter Schoeffer'in yardımıyla İncil basımı ve ardından gelen yazı stilleri ele alınır.) Ancak, Ünite 2'de Johannes de Spira ve Nicolas Jenson gibi isimlerden bahsedilirken, 'lettre de forme' (gothic) ve 'lettre de somme' (yuvarlak hatlı gothic) gibi terimler kullanılır. Majiskül ve Miniskül terimleri Ünite 5'te Bauhaus döneminde Herbert Bayer'in 'büyük harf küçük harf kullanımını yanlış bulmuş ve büyük harf kullanımından vazgeçtiği' bağlamında geçer. Bayer'in uyguladığı stil, büyük harf (majiskül) ve küçük harf (miniskül) kullanımını içerir. Majiskül büyük harf, Miniskül küçük harf demektir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 45,
@@ -1200,7 +1234,8 @@
             "is_duplicate": true,
             "duplicate_of": 14,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 63,
@@ -1220,9 +1255,9 @@
             "topic": "Modern Sanat Akımları",
             "explanation": "Marcel Duchamp'ın Dadaizm akımının en önemli görsel sanatçılarından biri olduğu metinde açıkça belirtilmiştir: 'Fransız ressam Marcel Duchamp (1887-1968) Dada'ya katıldıktan sonra bu hareketin en önemli görsel sanatçısı olmuştur.' Kübizm, Fütürizm ve Art Deco/De Stijl farklı akımlardır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 18,
-            "similarity_score": 0.9946679472923279
+            "duplication_reason": "Soru metinleri neredeyse aynıdır (birinde 'en önemli' ifadesi eklenmiş olsa da anlamı değiştirmez) ve şık listeleri aynıdır, sadece sıralamaları farklıdır. Her iki sorunun da doğru cevabı Dadaizm'dir. Bu sorular anlamsal olarak kopyadır."
         },
         {
             "id": 64,
@@ -1241,8 +1276,10 @@
             "UniteNo": 2,
             "topic": "Baskı Teknolojisi Tarihi",
             "explanation": "Metinde, Avrupa'yı kâğıt ile tanıştıran yolun İpek Yolu ticareti olduğu ve Marco Polo'nun Çin seyahati sonrasında doğunun baskı teknolojisini (ahşap blok baskı) İtalya'ya getirdiği bilgisi yer almaktadır: 'Büyük kâşif Marco Polo 1295 yılında Çin seyahati sonrasında İtalya'ya döndüğünde doğunun baskı teknolojisini de beraberinde getirmiştir.' Bu teknoloji daha sonra Avrupa'nın diğer ülkelerine yayılmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "duplicate_of": 9,
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "occurrence_count": 0
         },
         {
             "id": 65,
@@ -1282,7 +1319,7 @@
             "topic": "Konstrüktivizm Kavramı",
             "explanation": "Konstrüktivizm (inşacılık-yapısalcılık) akımının Türkçe karşılığı metinde açıkça belirtilmiştir: 'Türkçede \"yapımcılık” olarak da bilinmektedir.' Yapımcılık, yapıyı ve inşa etme eylemini vurgulayan bu akımın doğasını yansıtmaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 67,
@@ -1324,7 +1361,8 @@
             "is_duplicate": true,
             "duplicate_of": 46,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 69,
@@ -1402,7 +1440,9 @@
             "explanation": "Wes Wilson'un 1965'te yaptığı savaş karşıtı 'Are we Next? Be Aware' başlıklı afişi, baskın renkleri, politik mesajı ve farklı estetik düzenlemesi ile dikkat çekmiştir. Bu, 7. Ünite özetinde Psychedelic Sanatçılar ve Eserleri başlığı altında vurgulanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 55,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 73,
@@ -1422,7 +1462,7 @@
             "topic": "Logo ve Sembolizm",
             "explanation": "Semboller, yazı dili icat edilmeden çok önce gelmiştir ve sembolik iletişim, metaforik iletişim yoluyla mesajı daha hızlı aktarır. Şirket logoları, kurumsal kimliğin merkezi ögesi olarak günümüzde iş dünyasının ve ekonominin yüzü hâline gelmiştir. Bu, 6. Ünite özetinde 'Logoda Sembolizm, Sembolik İletişim ve Semiyotik' başlığı altında açıklanmıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 74,
@@ -1443,7 +1483,9 @@
             "explanation": "Yazı karakterlerinin dış kontür çizgileri, pürüzsüz uç noktalar oluşturmak için Bézier eğrileri kullanılarak tanımlanır. Bu eğriler, karmaşık şekiller oluşturmak için kullanılan matematiksel olarak oluşturulmuş, düzenli olmayan eğrilerdir ve özellikle harf formları ile bilgisayar grafikleri oluşturmada kullanışlıdır. Bu bilgi 8. Ünite özetinde yer almaktadır.",
             "is_duplicate": true,
             "duplicate_of": 54,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 75,
@@ -1483,7 +1525,7 @@
             "topic": "Bézier Eğrileri",
             "explanation": "Boş bırakılan yer Bézier eğrileri ile tamamlanmalıdır. Bézier eğrileri, pürüzsüz uç noktalar oluşturmak ve karmaşık şekiller üretmek için kullanılan matematiksel eğrilerdir ve harf formlarının sayısallaştırılmasında önemli rol oynarlar. Bu bilgi 8. Ünite özetinde 'Dijital Devrimin Kökenleri' bölümünde mevcuttur.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 77,
@@ -1524,7 +1566,9 @@
             "explanation": "İsviçre Stili'nde, tasarım elemanları hayali bir grid (ızgara) sistemi üzerinde düzenlenir. Bu ızgara sistemi, sayfa düzenlemesini kolaylaştırır ve görsel hiyerarşiyi sistematik olarak çözer. Bu bilgi 6. Ünite özetinde 'Izgara Sistemi, Türleri, Afişler ve Geometrik Afiş Analizleri' başlığı altında yer almaktadır.",
             "is_duplicate": true,
             "duplicate_of": 60,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 79,
@@ -1565,7 +1609,9 @@
             "explanation": "TTF (True Type Font) ve OTF (Open Type Font), dijital ortamda yazı karakterlerini saklamak için kullanılan dosya formatlarıdır. TTF, Apple ve Microsoft tarafından geliştirilmişken, OTF ise TTF'nin üst versiyonu olarak 1996'da geliştirilmiştir. Bu bilgi 8. Ünite özetinde 'Dijital Devrimin Kökenleri' altında açıklanmıştır.",
             "is_duplicate": true,
             "duplicate_of": 56,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 81,
@@ -1604,7 +1650,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1664,9 +1711,10 @@
             "topic": "Art Nouveau esin kaynakları",
             "explanation": "Art Nouveau, 1880'lerde Japon ahşap baskılarından (Japonism) esinlenmiştir (Ünite 3, 'Art Nouveau' başlığı). Gustav Klimt, Emile Galle gibi sanatçılar bu etkileri eserlerinde göstermiştir. Ancak Viktorya Dönemi'nin dekoratif ögelerine karşı bir duruş sergilemiştir. Postmodernizm veya Konstrüktivizm gibi daha sonraki akımların esin kaynakları Art Nouveau'nun doğrudan esin kaynağı değildir.",
             "is_duplicate": true,
-            "duplicate_of": 62,
+            "duplicate_of": 14,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 86,
@@ -1708,7 +1756,8 @@
             "is_duplicate": true,
             "duplicate_of": 38,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 88,
@@ -1768,9 +1817,9 @@
             "topic": "Yazı tipi terimleri",
             "explanation": "Ünite 2'deki 'İsviçre'de Üretilen Serifsiz Yazı Karakterleri: Univers ve Helvetica' başlığına göre, Sans terimi Fransızca'da 'yok' anlamına gelirken, Serif kelimesinin kökeni Hollandaca'da 'çizgi' anlamına gelen 'schreef' kelimesinden türetilmiştir. Dolayısıyla boşluklar 'Sans' (yok) ve 'Serif' (çizgi) ile tamamlanır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 44,
-            "similarity_score": 0.9886859655380249
+            "duplication_reason": "Soru kökleri, şık setleri ve doğru cevap (Majiskül / Miniskül) tamamen aynıdır. Yalnızca şıkların sıralaması ve doğru cevap indeksi farklılık göstermektedir."
         },
         {
             "id": 91,
@@ -1789,7 +1838,8 @@
             "is_duplicate": true,
             "duplicate_of": 49,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 92,
@@ -1810,7 +1860,9 @@
             "explanation": "Uluslararası Tipografik Stil (İsviçre Stili) prensipleri arasında; matematiksel olarak çizilmiş bir kanava (grid) üzerinde asimetrik düzenleme, serifsiz harf karakterleri kullanılması, metinlerin sağdan serbest/soldan blok olarak yerleştirilmesi ve tarafsız/net mesaj iletimi yer alır. Metinde, bu stilin Arts and Kraft'sın sanat ve zanaat anlayışına ve Jugendstil tarzındaki süslemelere karşı çıktığı belirtilmiştir. Bu nedenle, sanat ve zanaat anlayışına, süslemelere veya teorik olmayan yaklaşımlara dayanan bir ilke bu stile ait değildir.",
             "is_duplicate": true,
             "duplicate_of": 52,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 93,
@@ -1852,7 +1904,8 @@
             "is_duplicate": true,
             "duplicate_of": 51,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 95,
@@ -1892,9 +1945,10 @@
             "topic": "Kübizm Geometrik Şekiller",
             "explanation": "Pablo Picasso'nun resim anlayışında, doğayı silindir, küre, koni gibi geometrik elemanlara doğru evrilerek görmesi ve çözümlemesi gerektiği düşüncesine vardığı belirtilmiştir. Bu, nesnelerin çeşitli açılardan görüntüsünün ele alınmasıyla birlikte, geometrik şekillerin temel alınması Kübizmin ayırt edici özelliğidir.",
             "is_duplicate": true,
-            "duplicate_of": 74,
+            "duplicate_of": 54,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 97,
@@ -1936,7 +1990,8 @@
             "is_duplicate": true,
             "duplicate_of": 60,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 99,
@@ -2015,7 +2070,8 @@
             "is_duplicate": true,
             "duplicate_of": 3,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2034,10 +2090,10 @@
             "UniteNo": 2,
             "topic": "Erken Blok Baskı",
             "explanation": "Avrupa'da ilk ahşap kalıp baskılar (blok baskı), genellikle dini imgelerin, azizlerin ve oyun kartlarının üretimine olanak sağlamıştır (Ünite 2, Sayfa 1). Metinlerin basımı daha sonraki aşamalarda ve tipografinin gelişimiyle popülerleşmiştir.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 28,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 104,
@@ -2056,7 +2112,6 @@
             "UniteNo": 2,
             "topic": "İlk Ahşap Blok Örneği",
             "explanation": "Avrupa'da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının bilinen ilk örneklerinden birinin 1418 yılında basılan “Dört Azizli Bakire ve Çocuk” olduğu belirtilmektedir (Ünite 2, Sayfa 1).",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2119,7 +2174,8 @@
             "is_duplicate": true,
             "duplicate_of": 42,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 108,
@@ -2138,10 +2194,10 @@
             "UniteNo": 7,
             "topic": "Modern Sanat İfadeleri",
             "explanation": "Modern sanat, 20. yüzyılın başında ortaya çıkmış ve Kübizm, Fütürizm, Dada gibi akımları kapsamıştır. Modern sanatta 'sanat için sanat' yerine, sanatın toplumsal rolü ön plana çıkmıştır (Ünite 4, Sayfa 1). Ancak, psychedelic sanatı tanımlarken, 'Art Nouveau döneminin görsellerine başlayan ilgi, yepyeni bir görsel dilin doğmasına öncülük etmiştir' ifadesi, Art Nouveau'nun Modernizm sonrası değil, Modernizm öncesi bir akım olduğunu gösterir. Psychedelic akım, Art Nouveau'dan ilham alsa da Modernizm sonrası bir akımdır. Metinde 'Art Nouveau döneminin görsellerine başlayan ilgi' ifadesi kafa karıştırıcı olsa da, Psychedelic Sanatın kökeni 1960'lara dayanır ve Modernizm sonrası bir tepki olarak doğmuştur. Modernizm, kitle kültürünün yayılmasıyla birlikte 'sanatın fikir ya da bir ideoloji üzerine kurulması öncelik arz etmemekteydi' ifadesiyle tanımlanır (Ünite 7, Sayfa 1). 'Sanatın sınırlarının yeniden tanımlanması' Modern sanatın genel özelliklerindendir (Ünite 4, Sayfa 3). Yanlış ifadeyi bulmak için detaylı inceleme gerektiğinde, Psychedelic akımını inceleyen metin, Nouveau'dan ilham aldığını belirtir (Ünite 7, Sayfa 2). Metinde Modern Sanat akımlarının (Kübizm, Fütürizm, Dada, Sürrealizm) listesi verilirken (Ünite 4, Sayfa 2), Psychedelic sanatın 'Postmodernist düşünce'nin köklerinden doğduğu belirtilir (Ünite 7, Sayfa 1). Bu bağlamda, psychedelic sanatın doğrudan 'Modern sanat akımları' altında listelenmediği, daha çok Post-Modernizm ile ilişkilendirildiği göz önüne alınırsa, Modern Sanat akımlarının listesine dair bir kısıtlama yanlış olabilir. Ancak, genel Modern Sanat akımları tanımında 'sınırlarının yeniden tanımlanması' doğruyken, psychedelic sanatı daha çok postmodernizmle ilişkilendirildiği için, onu doğrudan modern akımlar listesine koymak tartışmalı olabilir. En net yanlış bilgi, genellikle 1960'larda ortaya çıkan Psychedelic sanatın, 19. yüzyılın sonlarında ortaya çıkan Art Nouveau'dan ilham alması (Ünite 7, Sayfa 2-3) ile Modernizmin başlangıcının 20. yüzyıl başları olması bağlamında yorumlanabilir. Ancak, soruda genel bir Modern Sanat ifadesi istendiğinden, akımların tanımı kontrol edilmelidir. Modern sanatın 'sınırlarının yeniden tanımlanması' ifadesi doğru kabul edilir (Ünite 4, Sayfa 3). Psychedelic Sanatın görsel özelliklerinde, 'Normalin ötesinde bir derinlik algısı, derinlik stilizasyonu (Horror Vacui Stili)' ifadesi bulunmaktadır (Ünite 7, Sayfa 2). Modernizmde 'sanat için sanat değil, toplum için sanat üretme' anlayışı yaygınlaşmıştır (Ünite 4, Sayfa 1), ancak Psychedelic dönemde bu durumun sınırlarının zorlanması söz konusudur. Bu sorunun cevabı için en tutarlı yanlış ifadeyi bulmak zordur çünkü metinler akımları bazen kesişimsel anlatmaktadır. Ancak, Modern Sanat akımları başlığı altında verilen akımlar (Kübizm, Fütürizm, Dada, Sürrealizm) genellikle 1900'lerin başlarında gelişirken, Psychedelic sanat 1960'lardadır ve Post-Modernizmle daha yakından ilişkilidir.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 35,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 109,
@@ -2162,7 +2218,9 @@
             "explanation": "Fütürizm Sanat Akımı'nda, Marinetti tipografik devrim çağrısında bulunmuş ve tekrar eden harfler ile ses kavramını vurgulayarak sözcüğün ifade gücünü iki katına çıkarma denemeleri yapılmıştır. Bu, Fütürizmin tipografideki önemli bir yeniliğidir (Ünite 4, Sayfa 1).",
             "is_duplicate": true,
             "duplicate_of": 17,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2261,7 +2319,8 @@
             "is_duplicate": true,
             "duplicate_of": 48,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 115,
@@ -2322,7 +2381,9 @@
             "explanation": "Konstrüktivizm (inşacılık-yapısalcılık), geometrik biçimler ve sade tipografi kullanarak toplumsal yarar ve düzeni hedefleyen bir akımdır. Ünite 5'te, Konstrüktivizm'in görsel dilde karmaşık şekiller yerine saf geometrik biçimler ve çizgiler kullandığı belirtilmiştir. Soruda bahsedilen oransal kırılma özelliği gösteren karmaşık geometrik şekiller genellikle Fütürizm'in dinamik ve patlayıcı yapısında veya Postmodernizm'in daha karmaşık yaklaşımlarında görülür. Ancak, Konstrüktivizm'in temeli olan geometrik yapılar içerisinde, geometrik düzenlemelerden sapmanın reddi esastır. Karmaşık geometrik şekiller genellikle daha sonraki akımların (Postmodernizm) bir özelliği olarak daha uygun olabilir, ancak burada Konstrüktivizm bağlamında en temel unsur olan saf geometrik yapı vurgulanmalıdır. Sorunun 'karmaşık geometrik şekiller' ifadesi, Konstrüktivizm'in yalınlığından ziyade Fütürizm'in dinamik veya Dada'nın rastlantısallığını çağrıştırır. Bauhaus'un geometrik yapısı da yalındır. Verilen seçenekler eksik olduğundan, en yakın bağlamda, Konstrüktivizm'in temelini oluşturan geometrik biçimlerin kendisi (çizgi, düzlem, form) temeldir. Eğer 'fraktal' gibi Postmodernizm'e ait bir özellik soruluyorsa o bağlamda aranmalıdır.",
             "is_duplicate": true,
             "duplicate_of": 54,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2342,9 +2403,10 @@
             "topic": "İsviçre Stili Tipografi",
             "explanation": "Ünite 6'da, İsviçre Stili'nin temel prensipleri anlatılırken, tipografide asimetrik düzenlemelerin, serifsiz harflerin ve hayali bir grid üzerinde yapılan tasarımların önemi vurgulanmıştır. Bu grid, tasarım öğelerini organize etmek için kullanılan matematiksel olarak oluşturulmuş sistemdir.",
             "is_duplicate": true,
-            "duplicate_of": 98,
+            "duplicate_of": 60,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 119,
@@ -2365,7 +2427,9 @@
             "explanation": "Ünite 6'da, Uluslararası Tipografik Stil'in (İsviçre Stili) temel prensipleri objektif sadelik, serifsiz harf kullanımı ve mesajın tarafsız iletilmesi olarak özetlenmiştir. Bu stil, özellikle gazete, dergi ve afişlerdeki tasarımda, bilgi hiyerarşisini kurmak için ızgara sistemi kullanır.",
             "is_duplicate": true,
             "duplicate_of": 58,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 120,
@@ -2405,9 +2469,10 @@
             "topic": "Alfabe Kökeni",
             "explanation": "Fenikeliler, ticaret kayıtlarını tutabilmek için daha etkili bir yazı sistemine ihtiyaç duymuşlar ve ilk sesçil (fonetik) yazı sistemini oluşturmuşlardır. Sesçil Alfabe, kullanılan harflerin bir sesi işaret ettiği alfabe türüdür ve modern alfabelerin temelini oluşturmuştur.",
             "is_duplicate": true,
-            "duplicate_of": 102,
+            "duplicate_of": 3,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 122,
@@ -2427,9 +2492,10 @@
             "topic": "Parşömen ve Kitap Türleri",
             "explanation": "Parşömen, buzağı, koyun, keçi gibi hayvanların derisinin bir dizi işlemden geçirilerek yazı için uygun bir yüzey hâline getirilmesi ile üretilmektedir. Kâğıdın icadından önce kullanılan papirüs ve tahta bloklara göre daha dayanıklı ve kaliteli bir yazı yüzeyiydi. Kodeks (codex) ise birkaç sayfa parşömenin bir araya getirilip dikilmesiyle oluşturulan ve günümüz kitap formuna en yakın yazılı eser türüdür.",
             "is_duplicate": true,
-            "duplicate_of": 82,
+            "duplicate_of": 2,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 123,
@@ -2471,7 +2537,8 @@
             "is_duplicate": true,
             "duplicate_of": 4,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 125,
@@ -2493,7 +2560,8 @@
             "is_duplicate": true,
             "duplicate_of": 13,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 126,
@@ -2512,10 +2580,10 @@
             "UniteNo": 4,
             "topic": "Modern Sanat ve Toplum",
             "explanation": "Modern sanat akımlarında sanatın toplumla bütünleşmesi ana amaç olmuş ve sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşmıştır. Özellikle Fütürizm, savaşın verdiği heyecanı ve makine çağını yücelterek, eskiye bağlı her şeyi reddetme çağrısı yapmıştır. Ancak, \"sanatın toplumun yaşam alanı ile buluşması\" ve endüstri ile birleşme hedefi, en belirgin şekilde Bauhaus Okulu'nun temel ilkelerinden biridir: \"Biçim işlevi izler şeklindedir.\"",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 32,
-            "similarity_score": 0.9940769076347351
+            "occurrence_count": 0
         },
         {
             "id": 127,
@@ -2537,7 +2605,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 128,
@@ -2557,9 +2626,9 @@
             "topic": "De Stijl Hareketi",
             "explanation": "De Stijl akımı, 20. yüzyıl başlarında Hollanda'da Theo van Doesburg, Piet Mondrian gibi sanatçılar tarafından kurulmuştur. Bu akımın temel özellikleri; biçimlerin daima dik açılı olması ve renklerin temel renklerden (kırmızı, mavi, sarı) oluşmasıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 19,
-            "similarity_score": 0.9977864623069763
+            "duplication_reason": "Soru kökleri (küçük bir yazım hatası hariç) tamamen aynıdır ve aynı cevabı (Hollanda) sormaktadır. Şıklar aynı ülkelerden oluşmaktadır, bu yüzden kopyadır."
         },
         {
             "id": 129,
@@ -2598,8 +2667,10 @@
             "UniteNo": 5,
             "topic": "Konstrüktivizm Türkçe Karşılığı",
             "explanation": "Konstrüktivizm, Rusya'da ortaya çıkan sanatsal ve mimari felsefedir ve Türkçede \"inşacılık-yapısalcılık\" olarak da bilinmektedir. Bu akım, fikri iletmek amacıyla nesnelerin, çizgilerin ve harflerin kullanımıyla grafik tasarım ürünleri üretmiştir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "İki soru da tamamen aynı bilgiyi (Konstrüktivizm'in Türkçe karşılığını) sormaktadır. Soru kökleri eş anlamlıdır ve şık setleri (doğru cevap dahil) aynıdır, yalnızca şıkların sırası farklıdır. Bunlar kesinlikle kopya sorulardır.",
+            "duplicate_of": 66
         },
         {
             "id": 131,
@@ -2619,9 +2690,10 @@
             "topic": "Tipografi Tarihi",
             "explanation": "Futura yazı karakteri, Bauhaus döneminde tipografi alanında önemli yenilikler getiren Paul Renner tarafından tasarlanmıştır. Renner, Art Deco'nun yalın formları ve güçlü renklerini grafik tasarımlarına uygulamış, tipografide de sade ve geometrik formları tercih etmiştir. Metinlerde Futura'nın Art Deco ile ilişkisi ve Renner'ın çalışmaları anlatılmaktadır. Ancak, metinde 'Futura' kelimesi doğrudan geçmemekle birlikte, Art Deco'nun yalın formları ve güçlü renkleri vurgulanmaktadır. Ancak, Fütürizm bölümünde Depero'nun tipografik dinamizmine karşılık, Art Deco'nun (ve Renner'ın) yalın formları öne çıkarılmıştır. Ayrıca, Bauhaus döneminde Herbert Bayer'in tasarladığı ve büyük harflerin kullanımını sorgulayan yeni yazı tiplerinden bahsedilir. Verilen seçenekler varsayımı gerektirse de, Bauhaus ve Art Deco ile ilişkilendirilen yalın form anlayışı, Fütürizm'in anarşik tavrına ters düşerken, metinde tipografik devrime çağrı yapan Fütürizm'in aksine, Art Deco'nun yalın formları ve güçlü renkleri vurgulanmaktadır. Bauhaus'ta ise Bayer'in harf kullanımında yenilikler getirdiği belirtilirken, Futura'nın geometrik yapısı ve Art Deco ile uyumu doğru kabul edilen bir bilgi olarak metinde ima edilmektedir. Ancak, metin 'Futura' kelimesini direkt olarak yanlış bir ifade içermediği için, en uygun yanıt, metinlerde daha çok eleştirilen ya da farklı bir akımla ilişkilendirilen bir özelliğe odaklanmaktır. Metin, Fütürizm'de tipografik uyumun reddedildiğini belirtirken, Art Deco'da yalın formların öne çıktığını belirtir. Futura, geometrik ve yalın formlara sahip bir yazı tipi olarak bilinir ve Art Deco ile ilişkilendirilir. Metinde doğrudan yanlış ifade olmasa da, Fütürizm'in tipografideki anarşik tavrının reddedilmesi ve Art Deco'nun yalın formlarının öne çıkması dikkate alınarak, Fütürizm'deki gibi 'anarşik tavrına ters düştüğü için reddedilmesi' (tipografik uyumun reddi Fütürizm'e aittir) ifadesi bağlamsal olarak en uygun yanlış çıkarımdır, çünkü Futura Art Deco estetiğini temsil eder.",
             "is_duplicate": true,
-            "duplicate_of": 68,
+            "duplicate_of": 46,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 132,
@@ -2643,7 +2715,8 @@
             "is_duplicate": true,
             "duplicate_of": 50,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 133,
@@ -2663,9 +2736,10 @@
             "topic": "Tarih Öncesi İletişim",
             "explanation": "Ünite 1'de Tarih Öncesi Çağlar anlatılırken, en eski görsel iletişim belgeleri olarak kaya resimlerinden bahsedilir. Kaya resimleri, genel olarak, petroglifleri de içeren, insanlığın imaj ile doğrudan iletişimini gösteren en eski belgelerdir (Uçar, 2019, s.21). Bu tür ilanlar, duvara yapılan çizimler veya kazımalar (petroglifler) ile ilişkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 94,
+            "duplicate_of": 51,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 134,
@@ -2685,9 +2759,10 @@
             "topic": "Psychedelic Afiş Tasarımı",
             "explanation": "Ünite 7'de Psychedelic Sanat bölümünde, Wes Wilson'un 1965 savaş karşıtı afişi olan 'Are we Next? Be Aware' (Bir sonraki biz miyiz? Farkına varın) başlıklı afişin, 'baskın renkleri, politik mesajı ve farklı estetik düzenlemesi ile dikkat çektiği' açıkça belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 72,
+            "duplicate_of": 55,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 135,
@@ -2729,7 +2804,8 @@
             "is_duplicate": true,
             "duplicate_of": 53,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 137,
@@ -2768,8 +2844,10 @@
             "UniteNo": 5,
             "topic": "Bauhaus Tipografi ve Form",
             "explanation": "Ünite 5'te, Bézier eğrileri (Pierre Bézier tarafından icat edilen) kullanılarak karmaşık şekiller oluşturulabileceği, pürüzsüz uç noktalar elde edilebileceği ve bu özelliklerin özellikle harf formları ve bilgisayar grafikleri oluşturmak için kullanışlı olduğu belirtilmiştir. Boşluğu 'Bézier eğrileri' tamamlar.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri, ufak dilbilgisel varyasyonlar dışında (oluşturulabilir/oluşturabilir, onları özellikle/onlar özellikli), anlamsal olarak tamamen aynıdır. Şık kümesi aynıdır ve doğru cevap her iki soruda da 'Bezier eğrileri'dir. Bu sorular birbiriyle eşdeğer kopyalardır.",
+            "duplicate_of": 76
         },
         {
             "id": 139,
@@ -2789,9 +2867,10 @@
             "topic": "Matbaa ve Kitap Basımı",
             "explanation": "Ünite 2'de, erken dönem kitap basımında (Incunabula) ve genel olarak gazete, dergi, kitap gibi yayınlarda sayfa düzenlemesinin ve metin/resim yerleşiminin öneminden bahsedilir. Gazete ve dergilerin düzeni ve içeriği, özellikle Postmodern dönemde (Ünite 7) de ele alınmıştır. Genel olarak, görsel iletişim bağlamında gazete/dergi/kitap düzenlemesi 'sayfa tasarımı' veya 'layout' ile ilgilidir. Metin, sayfaların düzenlenmesinden bahsederken, tipografi, düzenleme ve kolofon gibi kavramları kullanır. Sayfa düzeni (layout) bu bağlamda en uygun genel terimdir.",
             "is_duplicate": true,
-            "duplicate_of": 119,
+            "duplicate_of": 58,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 140,
@@ -2811,9 +2890,10 @@
             "topic": "İsviçre Stili Tipografi",
             "explanation": "Ünite 6'da İsviçre Stili (Uluslararası Tipografik Stil) prensipleri anlatılırken, bu stilin 'asimetrik olarak düzenlenen tasarım elemanlarıyla elde edilen görsel bir bütünlük' üzerine kurulu olduğu belirtilir. Bu bütünlük, 'hayali bir grid (ızgara) üzerinde' oluşturulur. Gridler, tasarıma düzen getiren ve bilgi hiyerarşisini sistematik olarak çözen matematiksel olarak oluşturulmuş çizgi sistemleridir.",
             "is_duplicate": true,
-            "duplicate_of": 118,
+            "duplicate_of": 60,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 141,
@@ -2835,7 +2915,8 @@
             "is_duplicate": true,
             "duplicate_of": 41,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 142,
@@ -2855,9 +2936,10 @@
             "topic": "Fransız Tipografisi",
             "explanation": "Metinde, Fransız Kralı Louis XIV'ün 1692'de Imprimerie Royale için yeni bir yazı tipi geliştirmesini emrettiği ve Romain du Roi karakterinin yalnızca kraliyetin kullanımı için tasarlanan ilk matematiksel olarak tanımlanmış yazıyüzü olduğu belirtilmektedir. Bu, 18. yüzyıl Fransız tipografisinin bir parçasıdır.",
             "is_duplicate": true,
-            "duplicate_of": 6,
+            "duplicate_of": 27,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.990900993347168
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 143,
@@ -2877,9 +2959,10 @@
             "topic": "İlk Alfabeler",
             "explanation": "Metne göre, Fenikeliler ticaret kayıtlarını tutabilmek için daha etkili bir yazı sistemine gerek duymuşlardır ve ilk sesçil (fonetik) yazı sistemini oluşturmuşlardır. Bu sistem 22 önemli ses için uygulanmıştır.",
             "is_duplicate": true,
-            "duplicate_of": 121,
+            "duplicate_of": 3,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 144,
@@ -2895,13 +2978,13 @@
             "exam_question_number": 4,
             "source": "Yaz Okulu 2023-2024",
             "material_id": "574660",
-            "UniteNo": 6,
-            "topic": "Polonya Film Afişleri",
-            "explanation": "Metinde, Polonya film afişlerinde zekâ ve metaforun gücünü kullandıkları ve afişlerin görsel anlamda bir konunun özüne yoğunlaşabilmek için metaforlar ve sözlü fikirleri destekleyen bir akım ve teknik geliştirdikleri belirtilmiştir. Ancak Ukiyo-e (Japon ahşap baskıları) konusu doğrudan anılmamıştır; bu kavram daha çok Art Nouveau'nun Japon etkilerinden bahsedilen bağlamında dolaylı olarak ilişkilendirilebilir (Ünite 3'te Japon ahşap baskılarına olan hayranlık belirtilirken, Ünite 6'da Polonya afişleri anlatılmaktadır).",
+            "UniteNo": 3,
+            "topic": "Zanaat tanımı",
+            "explanation": "Zanaat (Craft), genellikle insanların geçimini sağlamak veya maddi ihtiyaçlarını karşılamak amacıyla gerçekleştirdiği, öğrenim, deneyim, ustalık ve beceri gerektiren faaliyetler bütünüdür. Ünite 3'te ele alınan Arts and Crafts (Sanat ve Zanaat) Hareketi, Endüstriyel Devrim'in makineleşmesine karşı çıkarak, kişisel seçimi ve el emeğini (zanaatı) ön plana çıkarmıştır. Bu hareket, Option A'da belirtilen zanaat tanımının temelini oluşturan deneyim, ustalık ve beceri gibi unsurlara verdiği önemi pekiştirmektedir. Bu nedenle A şıkkı doğru tanımı vermektedir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 107,
-            "similarity_score": 0.9571418762207031
+            "duplication_reason": "Soru kökleri (Ukiyoe/Ukiyo) neredeyse aynı şeyi sormakta ve tüm şıklar ile doğru cevap içeriği (Japon ahşap baskı sanatıdır) tamamen eşleşmektedir. Şık sıralaması değiştirilmiş tipik bir kopyadır."
         },
         {
             "id": 145,
@@ -2921,9 +3004,10 @@
             "topic": "Art Nouveau Hareketi",
             "explanation": "Soru, 'sanatı toplumun yaşam alanı ile buluşturan' ilk hareketin hangisi olduğunu soruyor. Ünite 3'te Art Nouveau, Endüstri Devrimi'nin sanatsal karmaşasına karşı bir duruş sergileyerek mimari, tasarım, dekorasyon gibi alanlardaki değişimleri yansıttığı ve günlük yaşamla estetiği birleştirdiği vurgulanır. Konstrüktivizm (E şıkkı) da toplumsal yarar odaklı olsa da, Art Nouveau, Endüstri Devrimi sonrası estetiği günlük yaşama taşıyan ilk büyük akımdır. Sorunun doğru kabul edilen şıkkı Art Nouveau (C şıkkı) olduğundan, bu hareketin bu bağlamdaki öncülüğü kastedilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 32,
+            "duplicate_of": 126,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 0.9940769076347351
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 146,
@@ -2963,9 +3047,9 @@
             "topic": "De Stijl Başlangıcı",
             "explanation": "Metne göre, De Stijl akımı 1917 yılında Theo van Doesburg, Piet Mondrian, Vilmos Huszar ve J.J. Oud tarafından Hollanda'da kurulmuştur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 128,
-            "similarity_score": 0.9903725981712341
+            "duplication_reason": "İki soru da (biri yazım hatasına rağmen) De Stijl sanat akımının başladığı ülkeyi sormaktadır. Şık kümesi ve doğru cevap (Hollanda) tamamen aynıdır. Sadece şıkların sıralaması değişmiştir, bu da kopyayı işaretlemek için yeterlidir."
         },
         {
             "id": 148,
@@ -3007,7 +3091,8 @@
             "is_duplicate": true,
             "duplicate_of": 110,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 150,
@@ -3046,8 +3131,10 @@
             "UniteNo": 6,
             "topic": "Logo ve Sembolizm",
             "explanation": "Semboller, yazı dili icat edilmeden çok önce gelmiştir ve sembolik iletişim daha hızlı mesaj aktarımı sağlar. Logo, kurumsal kimlik tasarımının merkezi ögesidir ve günümüzde şirket logoları iş dünyasının ve ekonomimizin yüzü hâline gelmiştir. Bu durum, sembollerin görsel iletişimdeki gücünü ve önemini vurgular.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "duplicate_of": 73,
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "occurrence_count": 0
         },
         {
             "id": 152,
@@ -3067,9 +3154,10 @@
             "topic": "Tipografi ve Yazı Yüzleri",
             "explanation": "Ünite 2'de Futura yazı tipinden (genellikle geometrik ve modern tarzıyla ilişkilendirilir) bahsedilmemiştir. Ünite 2'de ele alınan önemli yazı tipleri arasında Kufi, Sülüs, Nesih, Reyhani (İslam), Hiyeroglif (Mısır), Roma (Klasik stil), ve özellikle Rönesans döneminde Jenson'un yarattığı hümanist roman yazı yüzü ile daha sonraki dönemlerdeki Gotik, Baskerville ve Caslon gibi tipler yer alır. Soruda belirtilen özellikler (örneğin Bauhaus ile ilişkilendirilme), genellikle Ünite 5'te ele alınan Geometrik/Modern stillere ait olabilir, ancak Futura'nın kendisi bu ünitede spesifik olarak tanımlanmamıştır. Verilen metinler bağlamında, bu ünitede (Ünite 2) bahsedilen yazı tiplerinden biri olmadığı için bu ifade yanlıştır.",
             "is_duplicate": true,
-            "duplicate_of": 131,
+            "duplicate_of": 46,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 153,
@@ -3089,9 +3177,10 @@
             "topic": "İsviçre Stili Prensipleri",
             "explanation": "Ünite 6'da Uluslararası Tipografik Stil'in prensipleri arasında objektif sadelik, işlevin biçimi takip etmesi (sanat değil iletişimci bakış açısı), asimetrik düzenleme (grid üzerinde), serifsiz yazı kullanımı ve metin/fotoğrafların tarafsız iletimi sayılmıştır. İsviçre Stili'nin, Arts and Krafts'ın sanat ve zanaat anlayışına ve Jugendstil'in süslemelerine karşı çıkması temel özelliklerindendir. Metinlerde, tipografik uyum ve düzen için asimetrik grid kullanımı vurgulanmıştır. Bu prensiplere aykırı olan, süslemeye veya karmaşık anlatıma odaklanan yaklaşımlar (örneğin, propaganda veya abartı), İsviçre Stili tarafından reddedilmiştir. Metinlerde, görsel öğelerin sayısının azaltılması ve gride dahil edilmesi düzen duygusu yaratır; karmaşık ve abartılı propaganda, bu stilin temsil ettiği yaklaşımın tam tersidir.",
             "is_duplicate": true,
-            "duplicate_of": 92,
+            "duplicate_of": 52,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 154,
@@ -3192,7 +3281,9 @@
             "explanation": "Ünite 8'de dijital ortamda yazı tasarlamak için üretilen programlar arasında Fontographer ve Fontlab'dan bahsedilmiştir. Bu programlar sayesinde yazı tasarımı ve dağıtımındaki maliyetlerin azaldığı belirtilmiştir. Adobe System'in PostScript dili ise sayfa mizanpaj yazılımının temelini oluşturmuştur.",
             "is_duplicate": true,
             "duplicate_of": 59,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 159,

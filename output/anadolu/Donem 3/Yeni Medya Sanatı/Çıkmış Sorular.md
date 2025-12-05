@@ -43,7 +43,7 @@
 
 ### Estetik Fenomenin Bileşenleri
 
-1. Aşağıdakilerden hangisi estetik kavramında bahsedilen estetik fenomenin dört ana elemanından biridür?
+1. Aşağıdakilerden hangisi estetik kavramında bahsedilen estetik fenomenin dört ana elemanından biridür? *(2 kez soruldu)*
     - A-) Çevre
     - B-) Zıtlık
     - C-) Mantık
@@ -64,6 +64,32 @@
     - E-) Fotoğraf, sanatın gelişimini engellemiştir.
 
     > **Açıklama:** Ünite 1'de, fotoğrafın icadının sanatta yerleşmiş dogma ve görüşlerin tartışılmasına yol açtığı ve sonuç olarak sanat kavramının zaman içinde dönüşmesinde önemli rol oynadığı belirtilmiştir. Ayrıca fotoğraf, Rönesans'tan beri süregelen gerçeğin el çizimleri ile temsilinin endüstri devrimindeki karşılığı olmuştur (mekanik üretim).
+
+    <hr />
+
+### Medya Tanımı ve Kavramları
+
+1. Yeni medya sanatı ve iletişim alanlarında ortam (medyum) terimi aşağıdakilerden hangisini tanımlamak için kullanılır? *(4 kez soruldu)*
+    - A-) Sanatta soyut bilgiyi tanımlamaktadır.
+    - B-) İki kişi arasında iletilen bilgiyi tanımlamaktadır.
+    - **Cevap C-) İletişimde kullanılan aracıları tanımlamaktadır.**
+    - D-) İletişim ve iletişim alanları ayrıştıran anlamı tanımlamaktadır.
+    - E-) Sanat eserlerindeki temel anlamı tanımlamaktadır.
+
+    > **Açıklama:** Ünite 1'in "Yeni Medya Sanatı ve Kökenleri" başlığı altında, yeni medyanın geleneksel medya ortamlarından (kitap, dergi, gazete, sinema, radyo, televizyon) farklılaştığı ve dijital olduğu belirtilmiştir. Bu bağlamda, medya terimi, iletişimin yapıldığı ortamı (aracı) tanımlamak için kullanılır. Soru, ortam (medyum) teriminin neyi tanımladığını sorduğu için, cevabın iletim ortamını ifade etmesi gerekir.
+
+    <hr />
+
+### Ortam (Medyum) Tanımı
+
+1. Aşağıdakilerden hangisi "aracılı ortam" kavramına bir örnektir? *(2 kez soruldu)*
+    - A-) Pandomim
+    - B-) Dans
+    - **Cevap C-) Resim**
+    - D-) Söz düellosu
+    - E-) Şarkı
+
+    > **Açıklama:** Yeni medya sanatı ve iletişim alanlarında "ortam" (medyum) terimi, bilginin aktarılması ve paylaşılması sürecinde kullanılan araçları veya kanalları ifade eder. Ünite 1'de "Geleneksel medya terimi basılı kitap, dergi, gazete gibi ortamların yanı sıra sinema, radyo ve televizyon gibi ortamları da içerisinde barındırmaktadır" ifadesiyle medya türlerinin birer ortam olduğu belirtilmiştir. Ünite 3'te ise analog ve dijital kavramlarının iletişimin yapıldığı "ortamın (aracının) da özelliklerinin temeli" olduğu vurgulanmıştır. Bu bağlamda ortam, bilginin iletimi için kullanılan aracıları tanımlamaktadır. Dolayısıyla doğru cevap B şıkkıdır.
 
     <hr />
 
@@ -144,7 +170,7 @@
 
 ### Yeni Medya Sanatı Özellikleri
 
-1. I. Eser sahibinin muğlaklaşması II. Değişkenlik ve rastgelelik III. Maddesizleşme IV. Katılımcılık V. Telif haklarının olmaması Yukarıdakilerden hangileri yeni medya sanatı eserlerinin özelliklerindendir?
+1. I. Eser sahibinin muğlaklaşması II. Değişkenlik ve rastgelelik III. Maddesizleşme IV. Katılımcılık V. Telif haklarının olmaması Yukarıdakilerden hangileri yeni medya sanatı eserlerinin özelliklerindendir? *(2 kez soruldu)*
     - A-) I, III ve V
     - B-) II, IV ve V
     - **Cevap C-) I, II, III ve IV**
@@ -286,29 +312,6 @@
 
     <hr />
 
-### Genişletilmiş Gerçeklik Kavramları
-
-1. Aşağıdakilerden hangisi "aracılı ortam" kavramına bir örnektir? *(2 kez soruldu)*
-    - A-) Pandomim
-    - B-) Dans
-    - **Cevap C-) Resim**
-    - D-) Söz düellosu
-    - E-) Şarkı
-
-    > **Açıklama:** Aracılı ortam, sayısal evrenin algılanabilmesi için ortamlandıran aletlere verilen addır. Ünite 3'te, gerçeklik ortamlandırıcıları (Reality Mediators) kavramı tanıtılmıştır. Bunlar arasında, fiziksel ve sayısal dünyaları üst üste bindiren, deneyimleyenin algılarını ve etkileşimini sağlayan araçlar bulunur. Sanal gerçeklik (VR) gözlükleri, AR gözlükleri gibi cihazlar, kullanıcının deneyimini manipüle etmesine veya zenginleştirmesine olanak tanıyan aracılı ortamlardır.
-
-    <hr />
-1. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamalar? :Sayısal ortam ile etkileşime giren kullanıcıların, ortama fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir.
-    - A-) Avatar
-    - B-) Mecazi
-    - C-) Varoluşsal
-    - D-) Genelgeçer
-    - **Cevap E-) Bedelenme**
-
-    > **Açıklama:** Ünite 3'te, 'Genişletilmiş Gerçeklik' başlığı altında, 'Bedenlenme' terimi, 'Sayısal ortam ile etkileşime giren kullanıcıların, ortamla fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir.' şeklinde tanımlanmıştır. Bu tanım, sorudaki boşluğu doğru şekilde tamamlar.
-
-    <hr />
-
 ### Kurgu Türleri
 
 1. Planların neden-sonuç ilişkisini yansıtır biçimde oluşturulduğu kurgu türü aşağıdakilerden hangisidir? *(4 kez soruldu)*
@@ -402,7 +405,7 @@
 
 ### XR Kavramları
 
-1. :Sayısal ortam ile etkileşime giren kullanıcıların, ortamla fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. :Sayısal ortam ile etkileşime giren kullanıcıların, ortamla fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - A-) Mecazi
     - **Cevap B-) Bedenlenme**
     - C-) Genelgeçer
@@ -443,7 +446,7 @@
 
 ### 3 Boyutlu Grafik Türü
 
-1. -------, verilerin üç boyutunu görüntüleyen bir grafik türüdür. Yukarıdaki cümlede boş bıtakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. -------, verilerin üç boyutunu görüntüleyen bir grafik türüdür. Yukarıdaki cümlede boş bıtakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - **Cevap A-) Kabarcık grafiği**
     - B-) Dağılım grafiği
     - C-) Çubuk grafiği
@@ -560,7 +563,7 @@
 
 ### Veri Görselleştirme Tarihi
 
-1. Çubuk grafiği ve pasta grafiği gibi günümüzde yaygın olarak kullanılan bir çok grafiğin öncüsünü yapan kişi aşağıdakilerden hangisidir?
+1. Çubuk grafiği ve pasta grafiği gibi günümüzde yaygın olarak kullanılan bir çok grafiğin öncüsünü yapan kişi aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Pierre de Fermat
     - B-) Blaise Pascal
     - C-) John Tukey
@@ -573,7 +576,7 @@
 
 ### Veri Görselleştirme Türleri
 
-1. Aşağıdakilerden hangisi infografik ve dataviz arasındaki temel farklardan biridir?
+1. Aşağıdakilerden hangisi infografik ve dataviz arasındaki temel farklardan biridir? *(2 kez soruldu)*
     - **Cevap A-) İnfografikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.**
     - B-) İnfografikler veri doğruluğu bakımından daha güçlüdür, datavizler ise daha az doğrudur.
     - C-) İnfografikler farklı verilerle yeniden kullanılabilirken, datavizler manuel müdahale gerektirir.
@@ -607,19 +610,6 @@
 
     <hr />
 
-### Yeni Medya Sanatı Özellikleri
-
-1. Eser sahibinin muğlaklaşması<br />II. Doğrusal ve rastgelelik<br />III. Kadersizleşme<br />IV. Klişeler<br />V. Kalıcılığının olmaması<br />Yukarıdakilerden hangileri yeni medya sanatı eserlerinin özelliklerindendir?
-    - A-) I, II ve III
-    - B-) I, III ve V
-    - **Cevap C-) II, III ve IV**
-    - D-) I, II, IV ve V
-    - E-) I, II, III ve IV
-
-    > **Açıklama:** Walter Benjamin'in görüşleri bağlamında, yeni medya sanatı eserlerinin geleneksel eserlerden farklılaşan özellikleri arasında katılımcılık (etkileşimli olma), eser sahibinin muğlaklaşması, değişkenlik/rastgelelik ve maddesizleşme (kalıcılığının olmaması) yer alır. Klişeler bir özellik değildir. Bu özellikler dijitalleşme ile birleşerek yeni medya sanatının çekirdeğini oluşturur (Ünite 4, Walter Benjamin'in Görüşleri ve Yeni Medya Sanatı).
-
-    <hr />
-
 ### İnfografik ve Dataviz Farkı
 
 1. Aşağıdakilerden hangisi infografik ve dataviz arasındaki temel farklardan biridir?A) İnfografikler veri doğruluğu bakımından daha güçlüdür, datavizler ise daha az doğrudur.<br />B) İnfografikler bilgisayarlar aracılığıyla algoritmik olarak çizilir, datavizler ise elle çizilir.<br />C) İnfografikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.<br />D) İnfografikler farklı verilerle yeniden kullanılabilirken, datavizler manuel müdahale gerektirir.<br />E) İnfografikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür.
@@ -630,16 +620,6 @@
     - E-) İnfografikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür.
 
     > **Açıklama:** C) Ünite 4'te veri görselleştirme türleri temel olarak infografik ve dataviz olarak ikiye ayrılır. Metinde, infografiklerin estetik açıdan güçlü olduğu, datavizlerin ise veri açısından zengin olduğu veya sanat alanında datavizlerin daha çok eleştirel/algoritmik/interaktif yönlere odaklandığı ima edilmektedir. İnfografikler genellikle daha hikaye anlatımına odaklı ve estetik sunumla öne çıkarken, datavizler ham veri analizi ve sunumu için daha geniş bir yelpaze sunar. A, B, D ve E seçenekleri metindeki bilgilere dayanarak doğru bir ayrım sunmamaktadır; özellikle C seçeneği, infografiklerin estetik yönünü, datavizlerin ise veri zenginliğini/derinliğini vurgulayan genel yaklaşıma daha yakındır.
-
-    <hr />
-1. Aşağıdaki bilgilerden hangisi informatik ve dataviz arasındaki temel farklardan biridir?
-    - A-) İnformatikler veri doğruluğu bakımından daha az güçlüdür, datavizler ise daha az doğrudur.
-    - B-) İnformatikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür.
-    - C-) İnformatikler bilgisayarlar aracılığıyla mantıksal olarak gelişir, datavizler ise ele çizilir.
-    - **Cevap D-) İnformatikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.**
-    - E-) İnformatikler farklı verilerle yeniden kurgulanabilirken datavizler manuel müdahale gerektirir.
-
-    > **Açıklama:** Ünite 4'te, İnfografikler ve Dataviz arasındaki farklar sorulurken, metinde bu iki kavramın ayrımına dair doğrudan bir karşılaştırma yoktur. Ancak genel olarak, İnfografik (bir hikaye anlatmak için tasarlanmış görsel) estetik ve anlatım gücüne odaklanırken, Dataviz (Data Visualization) ham veriden anlam çıkarma ve estetikle birleştirme gücüne odaklanır. Sorunun doğru şıkkı D'yi gerekçelendirmek için: İnfografikler estetik açıdan güçlüdür (tasarım odaklıdır), Dataviz ise veri açısından zengindir (analiz odaklıdır). Metin, dataviz'in 'bilgiyi neyin oluşturduğuna dair kavramlarımıza meydan okuyabilir' dediği için analitik yönünü vurgular, infografiklerin ise estetik sunuma odaklandığı çıkarılabilir.
 
     <hr />
 1. Aşağıdaki hangi bilgi ve veri arasındaki temel farklardan biridir?
@@ -799,7 +779,7 @@
 
 ### Oyun Sanatı Terminolojisi
 
-1. Kural tabanlı sistemler üzerinden argüman oluşturabilme sürecini ifade etmek üzere, Ian Bogost ------ termini kullanır. Yukardaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamalar?
+1. Kural tabanlı sistemler üzerinden argüman oluşturabilme sürecini ifade etmek üzere, Ian Bogost ------ termini kullanır. Yukardaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamalar? *(2 kez soruldu)*
     - A-) karşı oyun
     - **Cevap B-) prosedürel retorik**
     - C-) avantgart oyun
@@ -825,7 +805,7 @@
 
 ### Oyun Sanatı ve Değişim
 
-1. Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular veya hayranlar tarafından değiştirilme süreci aşağıdaki terimlerden hangisi ile ifade edilir?
+1. Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular veya hayranlar tarafından değiştirilme süreci aşağıdaki terimlerden hangisi ile ifade edilir? *(3 kez soruldu)*
     - A-) Prosedürelcilik
     - B-) Yöndeşme
     - C-) Transmedya
@@ -838,7 +818,7 @@
 
 ### Oyun ve Şiir İlişkisi
 
-1. Anlam veya etkinin kısmen veya tamamen görsel yollarla, kelime veya harf kalıpları ve diğer tipografik araçlar kullanılarak aktarıldığı şiir türü aşağıdakilerden hangisidir?
+1. Anlam veya etkinin kısmen veya tamamen görsel yollarla, kelime veya harf kalıpları ve diğer tipografik araçlar kullanılarak aktarıldığı şiir türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Somut şiir**
     - B-) Yeni şiir
     - C-) Pastoral şiir
@@ -905,7 +885,7 @@
 
 ### Generatif Sanat Tarihi
 
-1. Makinelerin tıpkı insan gibi düşünebileceklerinin sinyallerini veren ilk kitap aşağıdakilerden hangisidir? *(2 kez soruldu)*
+1. Makinelerin tıpkı insan gibi düşünebileceklerinin sinyallerini veren ilk kitap aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Geniac
     - **Cevap B-) Giant Brains: Or Machines That Think**
     - C-) Radio Electronics
@@ -1042,7 +1022,7 @@
 
 ### İnteraktif Sanat Türleri
 
-1. Bilgisayar temelli sanat eserinin içeriği ve önemi ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. Bilgisayar temelli sanat eserinin içeriği ve önemi ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir? *(6 kez soruldu)*
     - A-) R-art
     - B-) CA-art
     - **Cevap C-) Cl-art**
@@ -1109,7 +1089,7 @@
 
 ### Multimedya Tanımı
 
-1. Basılı gazete veya dergi ya da radyo yayını gibi kullanıcılarına hiç veya çok az etkileşim olanağı sunan geleneksel kitle iletişim araçlarının aksine, metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardır.
+1. Basılı gazete veya dergi ya da radyo yayını gibi kullanıcılarına hiç veya çok az etkileşim olanağı sunan geleneksel kitle iletişim araçlarının aksine, metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardır. *(2 kez soruldu)*
     - A-) Yeni sanat
     - B-) Etkileşimli ortam
     - C-) Konvansiyonel medya
@@ -1181,7 +1161,7 @@
 
 ### Türk Yeni Medya Sanatı Girişimleri
 
-1. 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen yeni medya sanatını İstanbul'da temsil eden oluşumlardandır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+1. 2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen yeni medya sanatını İstanbul'da temsil eden oluşumlardandır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - A-) Zoom
     - B-) Entropi
     - **Cevap C-) Piksel**

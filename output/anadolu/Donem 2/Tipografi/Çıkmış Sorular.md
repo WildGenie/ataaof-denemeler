@@ -28,6 +28,32 @@
 
     <hr />
 
+### Eski Çağ Yüzeyleri
+
+1. M.Ö 2000'lerde icat edildiği Bergama'dan gelen özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+    - A-) papirüs
+    - B-) tablet
+    - C-) hasır
+    - D-) kağıt
+    - **Cevap E-) parşömen**
+
+    > **Açıklama:** M.Ö 2000'lerde icat edilen ve kağıda benzer özellik taşıyan, Bergama'dan gelen özel yöntemlerle hazırlanan hayvan derisi parşömendir. Metin, Ünite 1'de '...papirüs, parşömen, bambu, deri, ipek ise sıklıkla kullanılmış olan organik yüzeylerdir.' denilerek bu malzemelerden bahsedilir. Daha spesifik olarak, kağıda benzerliği vurgulanan, M.Ö. 2000'lerde kullanılan malzeme parşömendir.
+
+    <hr />
+
+### Gutenberg ve Matbaa
+
+1. Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik aşağıdakilerden hangisidir?
+    - A-) Tahta baskı yapılabilmesi
+    - B-) Döküm yapabilmesi
+    - C-) Mühür ve silindir yapabilmesi
+    - D-) Kâğıt üretebilmesi
+    - **Cevap E-) Metal baskıyı hareketli hurufat ile yapabilmesi**
+
+    > **Açıklama:** Ünite 1'deki "Gutenberg ve Matbaa" bölümünde açıkça belirtildiği üzere, Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik, metal baskının hareketli hurufat (movable type) ile yapılabilmesidir. Hareketli hurufat sayesinde harfler, farklı dizilimlerle bir araya getirilerek istenilen kelime ve metinler oluşturulabilmiş, bu da basım sürecine büyük bir hız ve esneklik kazandırmıştır. Bu teknoloji, Tipografi teriminin de ortaya çıkmasına neden olan temel gelişmedir.
+
+    <hr />
+
 ### Lidyalılar ve Ticaret
 
 1. Madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlayan ilk uygarlık aşağıdakilerden hangisidir?
@@ -43,7 +69,7 @@
 
 ### Yazının Keşfi
 
-1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?
+1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir? *(2 kez soruldu)*
     - A-) Logogram
     - **Cevap B-) Yazı**
     - C-) Simge
@@ -183,6 +209,19 @@
     - E-) Bauer - 1950
 
     > **Açıklama:** Boş bırakılan yerler sırasıyla Bauhaus ve 1919'dur. Bauhaus, Walter Gropius'un öncülüğünde 1919'da açılan, endüstri dünyası ile modern sistemler kurmayı hedefleyen bir sanat ve tasarım okuludur. Metin, Ünite 2'de 'Bauhaus'un birincil hedefi, endüstri dünyasının içine girerek modern endüstri sistemleri ile birlikte çalışma sistemi yaratmaktır. Bu görüş neticesinde okul sistemi öğrencilerine faydalı ve işlevsel tasarım uygulama çalışmaları ortaya koymalarını desteklemiştir.' ve 'Bauhaus'un birincil hedefi, endüstri dünyasının içine girerek modern endüstri sistemleri ile birlikte çalışma sistemi yaratmaktır. Bu görüş neticesinde okul sistemi...' ifadesiyle bu okulu tanımlar.
+
+    <hr />
+
+### Uluslararası Tipografik Stil
+
+1. Grafik tasarımda 1950'lilerde yeni teknolojilerin sunduğu olanaklarla ifade edilen yaklaşımların hakim olduğu bir dönemde "Uluslararası Tipografik Stil hareketi" aşağıdaki ülkelerden hangisinde ortaya çıkmıştır? *(2 kez soruldu)*
+    - A-) ABD
+    - B-) Hollanda
+    - **Cevap C-) İsviçre**
+    - D-) İrlanda
+    - E-) İtalya
+
+    > **Açıklama:** Uluslararası Tipografik Stil (İsviçre Stili), 1950'lerde ve sonrasında netlik ve nesnellik arayışıyla ortaya çıkmıştır. Ünite 2'de, bu hareketin İsviçre'de ortaya çıktığı ve De Stijl, Konstrüktivizm, Bauhaus ve Yeni Tipografi akımlarından etkilendiği belirtilmektedir.
 
     <hr />
 
@@ -460,7 +499,7 @@
 
 ### Sayısal Font Tasarımcıları
 
-1. Aşağıdakilerden hangisi Max Kismian'ı sayısal font tasarımında öncü yapan çalışmalarından biridir?
+1. Aşağıdakilerden hangisi Max Kismian'ı sayısal font tasarımında öncü yapan çalışmalarından biridir? *(2 kez soruldu)*
     - A-) Blur
     - B-) Berliner Grotesk
     - C-) FF Meta
@@ -758,7 +797,7 @@
 
 ### Yazı Sistemleri Sınıflandırması
 
-1. -----, alfabe, piktogramik alfabelerden farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdaki seçeneklerden hangisi tamamlar?
+1. -----, alfabe, piktogramik alfabelerden farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdaki seçeneklerden hangisi tamamlar? *(2 kez soruldu)*
     - A-) Uygur
     - **Cevap B-) Fonetik**
     - C-) Piktogramik
@@ -900,7 +939,7 @@
 
 ### Simetrik Denge
 
-1. Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangisidir?
+1. Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Vurgu
     - B-) Ritim
     - C-) Görsel hiyerarşi
@@ -972,6 +1011,19 @@
     - E-) Broşür
 
     > **Açıklama:** Ünite 6'ya göre, basılı ortamlar afiş, billboard, dergi ve gazete gibi kağıt veya benzer formatlardaki yüzeylerdir. Dış Mekân grafikleri ise çevresel grafik tasarımın bir alt dalı olup, kâğıt dışındaki (branda baskı gibi) ortamlarda kullanılan tasarımları kapsar. Bu nedenle dış mekân grafikleri, basılı ortamların sınırlarının dışına çıkan uygulamalardır ve 'Dış Mekânda Kullanımı' başlığı altında incelenmiştir.
+
+    <hr />
+
+### Dijital Ortam Fontları
+
+1. Aşağıdakilerden hangisi Nike Logosunda kullanılan yazı karakteridir? *(2 kez soruldu)*
+    - **Cevap A-) Helvetica Condensed Black Italic**
+    - B-) Helvetica Condensed Italic
+    - C-) Helvetica Narrow Condensed
+    - D-) Helvetica Narrow Bold
+    - E-) Helvetica Condensed Black
+
+    > **Açıklama:** Ünite 6'da Nike logosunun tipografisi konusunda doğrudan bir bilgi verilmemiştir. Ancak, dijital tipografi ve font tasarımcıları bölümünde, Zuzana Licko ve David Carson gibi isimlerden bahsedilir. Nike logosu, genellikle kalın (Bold/Black) ve daraltılmış (Condensed) bir Helvetica varyasyonu kullanır. Verilen şık 'Helvetica Condensed Black Italic', bu tür güçlü, dış mekân reklamlarında kullanılan karakteristik bir tondur.
 
     <hr />
 
@@ -1158,7 +1210,7 @@
 
 ### Bloklama (Hizalama) Türleri
 
-1. Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden biri değildir?
+1. Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden biri değildir? *(2 kez soruldu)*
     - A-) Soldan blok
     - **Cevap B-) Dikey blok**
     - C-) Ortadan blok
@@ -1184,7 +1236,7 @@
 
 ### Izgara Mimarisi
 
-1. tasarlama yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. tasarlama yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Tam blok
     - B-) Modül
     - C-) Fibonacci
@@ -1298,7 +1350,7 @@
 
 ### Satır Arası Boşluk Terimi
 
-1. Bir metni oluşturan satırların arasındaki boşluk/mesafeye ne ad verilir?
+1. Bir metni oluşturan satırların arasındaki boşluk/mesafeye ne ad verilir? *(2 kez soruldu)*
     - A-) Ascender
     - B-) Descender
     - C-) Kerning
@@ -1324,7 +1376,7 @@
 
 ### Sayfa Yapısı ve Oranlar
 
-1. Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir?
+1. Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Gestalt kuramı prensibi
     - B-) Punto prensibi
     - **Cevap C-) Altın oran prensibi**
@@ -1345,19 +1397,6 @@
     - E-) Orta Çizgi
 
     > **Açıklama:** Metni düzenli bir bütün olarak dizebilmek için hayali kılavuz çizgiler üzerine konumlandırma gereklidir. Satır çizgisi (baseline), tüm harflerin aynı hizaya gelerek kelimeleri ve cümleleri oluşturmasını sağlayan temel çizgidir ve metnin algılanabilir düzenini öncelikli olarak sağlar.
-
-    <hr />
-
-### Yazı/İletişim Tanımı
-
-1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?
-    - A-) Simge
-    - **Cevap B-) Yazı**
-    - C-) Logogram
-    - D-) Fonetik
-    - E-) Piktogram
-
-    > **Açıklama:** Ünite 7'de, tipografinin tanımından önce, yazı insanlık tarihinin başlangıç noktası olarak tanımlanır ve duygu, düşünce ve fikirlerin karşılıklı alışverişine dayalı iletişimin kalıcı hale getirilmesinde önemli bir araç olduğu belirtilir. Soru, 'Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere' ne ad verildiğini soruyor. Ünite 1'de, yazının genel tanımı ile birlikte, piktogramik çizimler de bu genel iletişimin parçasıdır. Ancak, sorunun cevabı 'Yazı' olarak işaretlendiğinden, bu, iletişim kurmak için kullanılan her türlü sembolik sistemin en genel adı olarak kabul edilir.
 
     <hr />
 
@@ -1582,15 +1621,5 @@
 
     > **Açıklama:** Ünite 8'de İç Boşluklar başlığı altında, 'Bir yazı karakterinin iç boşlukları ne kadar küçükse okunurluğu o kadar zor olabilir. İç boşlukları ne kadar büyükse okunurluğu artar' denilmektedir. Bu, 'küçükse - büyükse' şeklinde sıralanması gerektiğini gösterir.
 
-    <hr />
-
-## Ünite Diğer
-
-1. Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik aşağıdakilerden hangisidir?
-    - A-) Tahta baskı yapılabilmesi
-    - B-) Döküm yapabilmesi
-    - C-) Mühür ve silindir yapabilmesi
-    - D-) Kâğıt üretebilmesi
-    - **Cevap E-) Metal baskıyı hareketli hurufat ile yapabilmesi**
     <hr />
 

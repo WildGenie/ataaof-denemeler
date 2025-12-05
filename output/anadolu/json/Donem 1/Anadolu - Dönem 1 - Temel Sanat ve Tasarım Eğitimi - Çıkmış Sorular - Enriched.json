@@ -58,7 +58,7 @@
             "topic": "Sanat ve Zanaat Ayrımı",
             "explanation": "İfade B seçeneği yanlıştır. Metne göre, sanatın zanaattan ayrılan tarafları düşünülse de, Avrupa'da Rönesans boyunca, güzel sanatlar zanaat olarak ya da en azından el sanatlarına benzer şekilde kabul edilmiştir. Ayrıca 18. yüzyılla birlikte düşünürler sanatı ayrıcalıklı bir konuma yerleştirerek zanaattan ayırmaya başlamışlardır. Kant'a göre sanat özgürdür, ancak metinde Kant'ın sanat-zanaat ayrımı hakkındaki spesifik görüşlerine dair detaylı bir ifade bulunmamaktadır. Ancak D ve E şıklarındaki bilgiler (Technē ve Rönesans sonrası ayrımın gelişmeye başlaması) metinle uyumludur. B seçeneği yanlıştır çünkü metinde Rönesans sonrası ayrımın başladığı belirtilmektedir, bu da günümüzde bile eş anlamlı kullanılmadığını gösterir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 4,
@@ -213,7 +213,9 @@
             "explanation": "Ünite 2'de Tasarım Odaklı Düşünme Süreci başlığı altında, bu sürecin Empati, Tanımlama, Fikir Edinme, Prototip Oluşturma ve Test Etme aşamalarından oluştuğu belirtilmiştir. Algı, bu süreçlerin bir parçası olarak sayılmamıştır; bu nedenle doğru cevap B seçeneğidir.",
             "is_duplicate": true,
             "duplicate_of": 7,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 12,
@@ -233,7 +235,7 @@
             "topic": "Düz Anlam/Yan Anlam",
             "explanation": "Metinde bahsedilen, sınırlı yorum olanakları sunan, esnekliği olmayan, katı anlatımlar sunan ve okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi amaçlayan metinler 'Kapalı metinler' olarak tanımlanır. Metin, 'Açık metinler birden fazla ve alternatif yorumları teşvik eder. Kapalı metinler ise sınırlı, tek bir yorumu teşvik etme eğilimindedir.' şeklinde bilgi vermektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 13,
@@ -273,7 +275,7 @@
             "topic": "Moda Tasarımı Tanımı",
             "explanation": "Paragrafta boş bırakılan yer, Moda kavramının tanımını içermektedir. Ünite 2 özetine göre, 'Moda kavramı, tüketim kültürünün geliştirdiği, beslediği, sosyolojik/kültürel değişimler üzerine konumlandırdığı ve tüketim alanlarına yayılmış giyimden, yaşam tarzından, insanlar arasındaki davranış/etkileşim biçimlerinden, eğitim ve tüm sosyal iletişimi kapsayan bir olgudur.' Bu olguya 'Moda' denir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 15,
@@ -333,7 +335,7 @@
             "topic": "İmge Kavramı",
             "explanation": "Bireyin hayalinde oluşturduğu, düşünce ve duygularla ilgili kavramları içeren ve bu kavramları simgeleştiren zihinsel görüntülere 'İmge' adı verilir. Ünite 3 özetine göre, 'İmge bireyin hayalinde oluşturduğu düşünce ve duygularla ilgili kavramları içeren ve bu kavramları simgeleştiren zihinsel görüntülerdir.'",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 18,
@@ -413,9 +415,9 @@
             "topic": "Sanat ve Zanaat Ayrımı",
             "explanation": "Sanat ve zanaat kavramlarının ayrımına ilişkin metin incelendiğinde, zanaatın kullanım değeri taşıyan nesnelerle ilgili olduğu, sanatın ise özgür ve açık uçlu keşiften doğduğu belirtilmektedir. Rönesans sonrası ayrımın gelişmeye başladığı ifade edilir. Seçenek D'de Kant'tan bahsedilerek zanaatın ticari olduğu için özgür olmadığı, sanatın ise özgür olduğu belirtilmektedir. Metinde Kant'a atıf yapılmasa da, sanatın zanaattan ayrılan temel özelliği, sanatın özgür ve açık uçlu bir keşiften doğması (ticari olmayan) olarak vurgulanır. Ancak metinde açıkça yanlış olduğu belirtilen bir ifade yoktur. Seçenek E'de zanaat ve sanat kavramlarının günümüzde bile eş anlamlı kullanıldığı iddiası yanlıştır, çünkü metin bu iki kavram arasındaki ayrıma dikkat çekmektedir ve bu ayrımın tarihsel olarak geliştiğini belirtmektedir (18. yüzyılla birlikte). Dolayısıyla, günümüzde bile eş anlamlı kullanıldığı iddiası bağlam dışıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 3,
-            "similarity_score": 0.9982621669769287
+            "duplication_reason": "Soru kökleri ve şık içerikleri tamamen aynıdır. Tek fark, şıkların sıralamasının (A, B, C, D, E) değiştirilmiş olmasıdır. Bu, anlamsal ve içeriksel olarak tam bir kopyadır."
         },
         {
             "id": 22,
@@ -814,9 +816,8 @@
             "UniteNo": 1,
             "topic": "Sanat Teorileri",
             "explanation": "Platon ve Aristoteles'e atfedilen sanat teorisi, geleneksel olarak 'Taklit Teorisi'dir. Metinde, 'Taklit veya Temsil Olarak Sanat' başlığı altında, bu teorinin günümüzde en eski sanat teorisi olarak kabul edildiği belirtilir. Platon ve Aristoteles'in felsefi tartışmalarının temeli olan mimesis kavramı, bu teoriye dayanır.",
-            "is_duplicate": true,
-            "duplicate_of": 82,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "occurrence_count": 2
         },
         {
             "id": 42,
@@ -918,7 +919,8 @@
             "is_duplicate": true,
             "duplicate_of": 6,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 47,
@@ -978,7 +980,7 @@
             "topic": "Görsel Ögeler",
             "explanation": "Metinde, 'Görsel Ögeler' başlığı altında, tasarım elemanları arasında renk, biçim, doku, çizgi gibi ögelerden bahsedilir. Moda tasarımında görsel imgelerin plastik göstergeler içerisinde değerlendirilen ögeleri, genellikle şekil, form, renk, çizgi ve doku gibi görsel tasarım ögeleridir. Moda söylemi 'giysi tasarımına ilişkin bir çağrışım yapar' ve giysiler 'insanların çevrelerine görünmek ve iyi hissetmek istedikleri' bir duyguyu verir. Bu görsel imgelerin algılanabilir öğeleri temel plastik göstergelerdir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 50,
@@ -1018,9 +1020,9 @@
             "topic": "Kapalı Metinler ve Mit",
             "explanation": "Soruda bahsedilen, esnekliği olmayan, katı anlatılar sunan ve okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, duyguları (acıma, korku, heyecan, çöküntü) uyandırmayı amaçlayan metinler 'Kapalı metinler' olarak tanımlanmaktadır. Ünite 3'te, açık metinlerin aksine, kapalı metinlerin tek bir yorumu teşvik etme eğiliminde olduğu belirtilmiştir. Mit ise, kökeni bilinmeyen, sembolik anlatılar olarak tanımlanır ve kapalı bir anlatım biçimine sahiptir, ancak sorunun genel bağlamı ve metinlerin duygusal yönlendirme amacı 'Kapalı Metinler' kavramına daha yakındır. Ancak verilen seçenekler arasında en uygun karşılık 'Kapalı Metin' kavramıdır. Metin içinde 'Kapalı metinler ise sınırlı, tek bir yorumu teşvik etme eğilimindedir.' ifadesi yer almaktadır. Mit de kapalı bir anlatıdır. Sorunun bağlamı muhtemelen Kapalı/Açık metinler ayrımına işaret etmektedir. Eğer seçenekler arasında 'Kapalı Metin' yoksa ve 'Mit' varsa, mitin de kapalı bir anlatı olduğu düşünülebilir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 12,
-            "similarity_score": 0.9787441492080688
+            "duplication_reason": "Soru kökleri ve metinleri anlamsal olarak tamamen aynıdır (ufak bir kelime farkı dışında). Doğru cevap (Kapalı metinler) ve şıkların çoğu aynıdır. Bu sorular, aynı bilgiyi sorgulayan yakın kopyalardır."
         },
         {
             "id": 52,
@@ -1060,7 +1062,7 @@
             "topic": "Bellek Kavramı",
             "explanation": "Sorudaki tanım, belleğin temel işlevlerini (bilgi alma, depolama, saklama ve geri çağırma) özetlemektedir. Ünite 3'te Bellek başlığı altında, 'Bellek; bilgileri almak, depolamak, saklamak ve daha sonra kullanmak için aktif hâle geçen süreci ifade eder.' şeklinde tanımlanmıştır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 54,
@@ -1162,7 +1164,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 59,
@@ -1182,7 +1185,7 @@
             "topic": "Sanat Tarihi",
             "explanation": "Hem bilim hem de sanat alanında eskiz çalışmaları dikkat çeken sanatçı sorusu, genellikle Leonardo da Vinci'ye atıfta bulunur. Ünite 3'te, 'Leonardo da Vinci, sanatçılığının yanı sıra, aynı zamanda bir bilim insanı ve mucittir. Ölümünden sonra yayınlanan Resim Üzerine İnceleme adlı kitabında altı renkten oluşan temel renklerinde, her rengin doğal dünyayla doğrudan bir ilişkisi vardır.' denilerek sanatçı ve bilim insanı kimliği vurgulanmıştır. Da Vinci'nin eskizleri ve bilimsel çalışmaları meşhurdur.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 60,
@@ -1241,7 +1244,6 @@
             "UniteNo": 3,
             "topic": "Gösterge Bilim",
             "explanation": "İşaretlerin ve sinyallerin anlamlarını, göstergeleri ve gösterge dizgelerini inceleyen bilim dalı Gösterge Bilim (Semiyoloji)'dir. Bu disiplin, olguları ve olayların anlamlarını ve iletişimin ifadesini araştırır. (Ünite 3, Gösterge Bilim (Semiyoloji) başlığı)",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1281,10 +1283,10 @@
             "UniteNo": 2,
             "topic": "Moda Tasarımı Kavramları",
             "explanation": "Moda tasarımı, estetik ve tasarımın giyim ve aksesuarlara uygulanması anlamına gelir. Moda söylemi genellikle giysi tasarımına ilişkin bir çağrışım yapar ve bu tasarımlar, insanların çevrelerine görünmek ve iyi hissetmek istedikleri, iyi karşılanmak istedikleri duyguyu verir. Ancak görsel imgelerin plastik göstergeler olarak değerlendirilmesi, Ünite 5'teki Görsel Ögeler başlığı altında daha genel olarak ele alınmıştır (nokta, çizgi, renk vb. gibi ögeler). Ünite 2'deki moda tanımında doğrudan 'görsel imgelerin plastik göstergeler içinde değerlendirilmesi' ifadesi bulunmamaktadır. Ancak moda söyleminin bu plastik göstergeleri (giysi, aksesuar) içerdiği açıktır. Plastik göstergeler genellikle çizgi, şekil, form, renk, doku gibi unsurlardır. Sorunun bağlamı genellikle Ünite 2'deki Moda Tasarımı tanımına odaklanmaktadır. (Ünite 2, Moda Tasarımı başlığı)",
-            "occurrence_count": 2,
+            "duplication_reason": "Semantic Similarity (1.00)",
             "is_duplicate": true,
             "duplicate_of": 49,
-            "similarity_score": 0.9961143732070923
+            "occurrence_count": 0
         },
         {
             "id": 65,
@@ -1384,7 +1386,7 @@
             "topic": "Altın Oran",
             "explanation": "Altın oran, bir uzunluğun eşit olmayan şekilde ikiye bölünmesi sonucunda küçük parçaların büyük parçaya oranının, büyük parçanın bütüne oranına eşit olmasıdır. Bu oran, matematiksel bir ilişkiyi ifade eder. (Ünite 7, Oran/Orantı başlığı)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 70,
@@ -1424,7 +1426,7 @@
             "topic": "Renk Çemberi",
             "explanation": "Ünite 6'da renk çemberinde renklerin tamamlayıcılarının zıt renkler olduğu belirtilmiştir. Yeşil rengin ara renk olduğu varsayılırsa, ana renkler Kırmızı, Sarı, Mavi'dir. Tamamlayıcı renkler (zıtları) genel olarak renk çemberinde karşılıklı duranlardır. Metinde yeşil ara rengi için kontrast renk (zıt) olarak kırmızı-turuncu, sarı-yeşil, mavi-yeşil gibi ikili gruplar verilmiştir. Ancak, ana renklerin zıtlarına bakıldığında: Kırmızı'nın zıttı (yeşil-turuncu arasına düşen) civit mavisi/mavi-yeşildir (tamamlayıcı olarak yeşilin zıttı kırmızı-mor/kırmızı-turuncu değildir, tamamlayıcı renk çemberde zıttı olandır). Renk çemberinde yeşilin zıttı kırmızı-mor (veya magenta) civarındadır. Verilen seçenekler arasında, kırmızı ve yeşil zıt olarak kabul edilen temel/ana renk çiftlerinden biridir. Metinde yeşilin karşısındaki renkler arasında 'kırmızı-mor' geçmektedir. Verilen şıklar arasında Kırmızı (C) en yakın zıt/tamamlayıcı çifttir (Kırmızı-Yeşil temel zıtlık olarak kabul edilir).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 72,
@@ -1443,7 +1445,7 @@
             "UniteNo": 7,
             "topic": "Tasarım Hiyerarşisi Türleri",
             "explanation": "Ünite 7'de Hiyerarşi başlığı altında üç tür hiyerarşik düzenlemeden bahsedilmiştir: Takip Hiyerarşisi, Merkezî Hiyerarşi ve Serbest Hiyerarşi. Soruda tanımlanan 'Büyüklük ve küçüklük ile kurgulanan hiyerarşidir... aktif elemanların öne çıkarılması anlamında önem teşkil eder' tanımı, Boyutsal Hiyerarşi ile ilgilidir. Boyutsal Hiyerarşi, 'Büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder' şeklinde tanımlanmıştır.",
-            "occurrence_count": 3,
+            "occurrence_count": 4,
             "is_duplicate": false
         },
         {
@@ -1484,7 +1486,7 @@
             "topic": "Ritim ve Göz Hareketi",
             "explanation": "Ünite 7'de Ritim başlığı altında, etkileyici bir tasarımda gözün, sadece 'dizonans noktası' denilen noktaya takılarak, bu noktadan yola çıkıp tüm tasarımı dolaşması gerektiği belirtilmiştir. Bu, ritim içerisinde gözün şaşırtılmasıyla gerçekleşebilir. Bu nedenle doğru cevap B seçeneğidir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 75,
@@ -1523,8 +1525,7 @@
             "UniteNo": 7,
             "topic": "Bütünlük İlkeleri",
             "explanation": "Ünite 7'de Görsel Bütünlük ilkeleri 'yakınlık, tekrar, devamlılık, hizalama, boşluklar' olarak sıralanmıştır. Bu ilkelerden biri olmadığı sorulmaktadır. Seçenekler verilmediği için, metinde geçen bu beş ilke dışındaki bir kavram (örneğin: kontur, zıtlık, vb.) olmalıdır. Ancak, eğer bu beş ilke şıklarda yer alsaydı, listede olmayan bir ilke doğru cevap olacaktı. Sorudaki ilkelere bakıldığında, bu beş ilke bütünlüğü sağlayan temel ilkelerdir. Eğer şıklarda 'Ritim' veya 'Vurgu' gibi bir ilke olsaydı, bunlar bütünlüğü sağlayan Gestalt ilkeleri (Ritim, Vurgu) arasında yer alsa da, doğrudan Bütünlük başlığı altında listelenen ilkeler (yakınlık, tekrar, devamlılık, hizalama, boşluk) arasında sayılmamaktadır. Bu nedenle, listede olmayan bir ilke (örneğin: Ritim) doğru cevap olacaktır.",
-            "occurrence_count": 4,
-            "is_duplicate": false
+            "occurrence_count": 4
         },
         {
             "id": 77,
@@ -1643,10 +1644,10 @@
             "UniteNo": 1,
             "topic": "Sanat Teorileri",
             "explanation": "Ünite 1'deki Sanat Teorileri başlığı altında, en eski sanat teorisi olarak kabul edilen ve mimesis (taklit) kavramıyla yakından ilişkili olan 'Taklit Teorisi'nden bahsedilmektedir. Platon ve Aristoteles'in felsefeleri Taklit Teorisi'nin temellerini oluşturur. Teori, sanatın dünyayı taklit etmesi gerektiğini savunur.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 41,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1667,7 +1668,9 @@
             "explanation": "Ünite 2'de Moda Tasarımı, giysilerin insanların çevrelerine görünmek ve iyi hissetmek istedikleri duyguyu vermesiyle ilişkilidir. Görsel imgelerin plastik göstergeler (görsel, etik, kültürel) içinde değerlendirilmesi, moda söyleminin sosyolojik/kültürel değişimler üzerine konumlanması ve giyimden yaşam tarzına kadar bir olguyu kapsamasıyla ilişkilidir. Moda tasarımının estetik ve tasarımın giyim ve aksesuarlara uygulanması anlamına geldiği belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 64,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1689,7 +1692,8 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 85,
@@ -1771,7 +1775,8 @@
             "is_duplicate": true,
             "duplicate_of": 66,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 89,
@@ -1810,9 +1815,8 @@
             "UniteNo": 6,
             "topic": "Renk ve Sembolizm",
             "explanation": "Ünite 6'da Renk konusu işlenirken, mavi rengin psikolojik olarak otorite ve sonsuzluk sembolü olduğuna dair bir bilgi bulunmamaktadır. Ancak, genel renk algısı ve kültürel kullanımı başlıklarında renklerin kültürel ve psikolojik anlamları olduğu vurgulanır. Genel olarak, mavi renk kültürlerde güven, bilgelik ve otorite ile ilişkilendirilir. Ancak, metinlerde bu spesifik bilgiye doğrudan rastlanmadığından, en uygun cevabın, metinde bahsedilen temel renklerden birini seçmek olduğu varsayılır. CMYK sisteminin ana renklerinden olan Mavi (Cyan) veya Kırmızı (Magenta) seçenekleri güçlü adaylardır. Ancak, metinde maviye dair spesifik bir kültürel atıf varsa onu tercih etmeliyiz. Ünite 6'da mavi, gökkuşağının renklerinden biri olarak geçer, ancak otorite ve sonsuzluk sembolizmi kesin olarak belirtilmez. Fakat CMYK'nin ana renklerinden biri olan Mavi (Cyan) baskı sisteminde temel bir renktir ve genel kültürel algıda otoriteyi temsil edebilir. Verilen seçenekler arasında, temel renkler (sarı, kırmızı, mavi) güçlü adaylardır. Bu tür sorular genellikle 'en baskın sembolik anlama sahip olan temel rengi' sorar. Mavi, sıklıkla otorite ve güvenle ilişkilendirilir.",
-            "is_duplicate": true,
-            "duplicate_of": 131,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 91,
@@ -1834,7 +1838,8 @@
             "is_duplicate": true,
             "duplicate_of": 68,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 92,
@@ -1876,7 +1881,8 @@
             "is_duplicate": true,
             "duplicate_of": 76,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 94,
@@ -1897,7 +1903,9 @@
             "explanation": "Ünite 8'de Perspektif çizim tekniği açıklanırken, bakış noktasından ufuk çizgisine doğru olan çizgiye 'görüş hattı' denildiği; ancak 'Bakış noktasında durup çizilecek cisme bakan kişinin gerçek bakış noktası (gözleri) hizasından geçtiği varsayılan yatay çizgiye ise “ufuk çizgisi” denir' bilgisi verilmiştir. Soru, yatay çizginin ne olduğunu sorduğu için, doğru cevap Ufuk Çizgisi'dir (A şıkkı). Ancak, soruda B şıkkı 'Kuş bakışı' doğru kabul edildiği için, bu bir çelişki yaratmaktadır. Kuş bakışı (Kuş gözü görünümü), üçüncü kaçış noktasının ufuk çizgisinin altında olduğu çizim tarzıdır (Görsel 8.6'ya atıf var). Ufuk çizgisi tanımına en yakın olan A şıkkı varken, verilen doğru cevap B olduğu için, açıklama B'nin bağlamına göre yapılmalıdır: Kuş bakışı, genellikle perspektif çizimlerinde yüksekten bakış açısını ifade eder. Ancak, metinde yatay çizgiye 'ufuk çizgisi' denirken, B seçeneği 'Kuş bakışı' olarak işaretlenmiştir. Metinde 'Kuş bakışı'nın ayrı bir kavram olarak tanımlanmasına rağmen, B şıkkının doğru kabul edilmesi nedeniyle, bu bilginin bir hata olduğu varsayılır ve tanıma en uygun olan A'nın (Ufuk çizgisi) esas alınması gerekir. Fakat kural gereği işaretlenen şık esas alınmalıdır. Bu çelişkiyi çözmek için, sorunun B şıkkını (Kuş bakışı) doğru kabul ettiğini belirterek, metinde Kuş Bakışının 3. kaçış noktasının yerleşimiyle ilgili olduğunu belirtmek gerekir (ancak bu yatay çizgi tanımına uymaz).",
             "is_duplicate": true,
             "duplicate_of": 79,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 95,
@@ -1917,9 +1925,8 @@
             "topic": "Hiyerarşi Türleri",
             "explanation": "Soruda tanımlanan hiyerarşi türü, büyüklük ve küçüklük ile kurgulanan, elemanların mesajdaki önemine göre boyutlandırıldığı yapıdır. Metinde bu durum, 'Boyutsal Hiyerarşi: Büyüklük ve küçüklük ile kurgulanan hiyerarşidir... Elemanların mesaja ait algılanırlığı artırmak için büyütülüp küçültülmesidir.' şeklinde açıklanmıştır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 72,
-            "similarity_score": 0.9998454451560974
+            "occurrence_count": 0,
+            "duplicate_of": 72
         },
         {
             "id": 96,
@@ -1939,9 +1946,9 @@
             "topic": "Ritim ve Gestalt İlkeleri",
             "explanation": "Metindeki ifade, ritim ilkesinin ve bu bağlamda Gestalt algı yasasının etkili bir tasarımda gözün hareketini nasıl yönettiğini açıklamaktadır. Metinde, \"Etkileyici bir tasarımda ise göz, sadece dizonans noktası denilen noktaya takılarak, bu noktadan yola çıkmalı ve tüm tasarımı dolaşmalıdır.\" ifadesi geçmektedir. Dolayısıyla boşluk 'dizonans' kelimesiyle tamamlanmalıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 74,
-            "similarity_score": 0.9706529974937439
+            "duplication_reason": "Soru metni (gövdesi) tamamen aynıdır ve boş bırakılan yeri dolduran doğru cevap (\"dizonans\") her iki soruda da aynıdır. Şıklar setinde yalnızca bir farklılık bulunmaktadır (tekrarlama vs. rezonans). Bu, kopyanın çok yakın bir varyasyonudur."
         },
         {
             "id": 97,
@@ -1982,7 +1989,9 @@
             "explanation": "Metinde, perspektif türleri arasında 'İnsan gözüne en yakın ve gerçekçi sonuçlar veren perspektif türü merkezî (konik) perspektiftir' ifadesi yer almaktadır. Bu, üç boyut yanılsaması yaratmada en çok kullanılan tekniktir.",
             "is_duplicate": true,
             "duplicate_of": 77,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 99,
@@ -2021,9 +2030,8 @@
             "UniteNo": 7,
             "topic": "Sadelik İlkesi",
             "explanation": "L. M. Rohe'un 'Less is More' (Az, daima çoktur) sözü, Gestalt ilkelerinden 'Sadelik' ilkesini en iyi anlatan ifadedir. Metinde, 'Alman Mimar L. M. Rohe'un bir sözü “Less is More (Az, daima çoktur)” Gestaltın yalınlık ilkesini çok iyi anlatır.' ifadesiyle bu ilişki kurulmuştur.",
-            "is_duplicate": true,
-            "duplicate_of": 135,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 3
         },
         {
             "id": 101,
@@ -2045,7 +2053,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 102,
@@ -2067,7 +2076,8 @@
             "is_duplicate": true,
             "duplicate_of": 15,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2086,9 +2096,8 @@
             "UniteNo": 2,
             "topic": "Grafik Tasarım İlkeleri",
             "explanation": "Ünite 2'de grafik tasarım süreçlerinin beş temel ilkesi Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük ve Vurgulama olarak belirtilmiştir. Bu ilkeler arasında yer almayan bir seçenek aranmaktadır. Tanıtımda geçen diğer kavramlar (Tasarım Odaklı Düşünme Süreci, İletişim gibi) bu temel ilkeler listesinde yer almaz.",
-            "is_duplicate": true,
-            "duplicate_of": 125,
-            "original_source": "Yaz Okulu 2021-2022"
+            "original_source": "Yaz Okulu 2021-2022",
+            "occurrence_count": 3
         },
         {
             "id": 104,
@@ -2110,7 +2119,8 @@
             "is_duplicate": true,
             "duplicate_of": 10,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 105,
@@ -2169,9 +2179,8 @@
             "UniteNo": 6,
             "topic": "Renk Sistemleri",
             "explanation": "Ünite 6'ya göre, ana renkler (sarı, kırmızı, mavi) diğer renklerin karışımıyla elde edilemeyen ve parçalanamayan renklerdir. Soruda ana renklerin temel özellikleri (karıştırılamama, başka renklere indirgenememe, birbirinden farklı olma) verilmiştir. Bu renklerden biri olan kırmızı (veya sarı veya mavi) ana renktir.",
-            "is_duplicate": true,
-            "duplicate_of": 152,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "occurrence_count": 2
         },
         {
             "id": 108,
@@ -2213,7 +2222,8 @@
             "is_duplicate": true,
             "duplicate_of": 85,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2248,7 +2258,9 @@
             "explanation": "Bu soru resmi cevap anahtarına göre iptal edilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 112,
@@ -2290,7 +2302,8 @@
             "is_duplicate": true,
             "duplicate_of": 100,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 114,
@@ -2352,7 +2365,8 @@
             "is_duplicate": true,
             "duplicate_of": 97,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 117,
@@ -2372,7 +2386,7 @@
             "topic": "Simetrik Denge",
             "explanation": "Ünite 7'de 'Denge' ilkesi altında, simetrik dengenin tanımı yapılırken, 'Herhangi bir tasarım yüzeyinin ortasından geçtiğini varsaydığımız izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesidir.' ifadesi kullanılmıştır. Bu tanım, sorudaki boşluğu en doğru şekilde tamamlar.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 118,
@@ -2491,8 +2505,10 @@
             "UniteNo": 3,
             "topic": "Bellek ve İmge",
             "explanation": "İmge, bireyin hayalinde oluşturduğu düşünce ve duygularla ilgili kavramları içeren ve bu kavramları simgeleştiren zihinsel görüntülerdir. İmgelem ise imgeden farklı olarak önceden görülmüş, yaşanmış olayların zihinde canlandırılması ve yeni olayların zihinde yaratılması ve tasarlanmasıdır. Barthes'a göre, zihin imgelerle düşünür ve imgeler düşünceyi oluşturur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Her iki soru da bireyin hayalinde oluşturduğu zihinsel görüntüleri ifade eden 'İmge' kavramını test etmektedir. Soru kökleri aynı anahtar kelimeleri kullanmakta ve şık setleri (sıralamaları farklı olsa da) tamamen aynı seçeneklerden oluşmaktadır. Bunlar anlamsal olarak kopyadır.",
+            "duplicate_of": 17
         },
         {
             "id": 124,
@@ -2511,7 +2527,6 @@
             "UniteNo": 2,
             "topic": "İletişim Süreci Ögeleri",
             "explanation": "Ünite 2'de Genel anlamda iletişim sürecinin ögeleri; Kaynak (Gönderici), Mesaj, İletişim Kanalı, Kod Çözme, Alıcı ve Geribildirim olarak verilmiştir. 'Uyarıcı' terimi iletişimde mesajın eş anlamlısı olarak geçse de, temel süreç ögeleri listesinde doğrudan yer almamıştır (mesajın kendisi uyarıcıdır). Temel ögeler listesinde Uyarıcı (C) yer almamaktadır, bu yüzden C doğru cevaptır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2531,10 +2546,10 @@
             "UniteNo": 2,
             "topic": "Grafik Tasarım İlkeleri",
             "explanation": "Grafik tasarım süreçlerinin temel ilkeleri Becer'e göre Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük, Vurgulama'dır. Şöhler karton, renkli karton gibi malzemelerle ilgili bir terimdir, tasarım aşaması ilkesi değildir.",
-            "occurrence_count": 3,
             "is_duplicate": true,
             "duplicate_of": 103,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 126,
@@ -2556,7 +2571,8 @@
             "is_duplicate": true,
             "duplicate_of": 9,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 127,
@@ -2595,10 +2611,10 @@
             "UniteNo": 4,
             "topic": "Eskiz ve Üretim Teknikleri",
             "explanation": "Metinde, Frieder Nake'in, algoritmik bir çalışma geliştirerek yazdığı bilgisayar programıyla bilgisayara bağlı kalem ve yazıcı ile tasarımını kâğıda geçirdiği belirtilmektedir. Bu, hem dijital sanatın öncüsü olarak hem de eskiz/üretim teknikleri bağlamında önemli bir örnektir.",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 59,
-            "similarity_score": 0.9960803985595703
+            "occurrence_count": 0
         },
         {
             "id": 129,
@@ -2657,10 +2673,10 @@
             "UniteNo": 6,
             "topic": "Renk Psikolojisi",
             "explanation": "Ünite 6'da renklerin psikolojik etkileri incelenmiştir. Lacivert (veya mavi), genellikle otorite, sonsuzluk ve güvenle ilişkilendirilir. Metinde spesifik olarak lacivert için bu ifade geçmese de, genel renk psikolojisinde Mavi/Lacivert bu anlamları taşır. Verilen şıklar ve doğru cevap göz önüne alındığında, Lacivert/Mavi'nin otorite ve sonsuzluk ile ilişkilendirilen renk olduğu varsayılır (Ancak metinlerde Kırmızı için 'duygu', Siyah için 'güç, gizem' gibi vurgular varken, Lacivert'in doğrudan bu tanımıyla eşleştirilmesi, diğer renklerin tanımları ışığında zorunludur).",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 90,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 132,
@@ -2680,9 +2696,10 @@
             "topic": "Eskiz Kalemleri",
             "explanation": "Ünite 4'te 'Diğer Kalem Çeşitleri' başlığı altında marker, rapido gibi kalemlerden bahsedilirken, 'Rapido kalemler değişmez kalınlıkta düzgün çizgileri çizmek üzere tercih edilir.' ifadesi yer alır. Rapido kalemler (veya teknik çizim uçları), özellikle mimari, grafik ve teknik çizimlerde hassas ve ölçülü çizimler için kullanılır, bu da sorudaki tanıma uymaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 102,
+            "duplicate_of": 15,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 133,
@@ -2702,9 +2719,10 @@
             "topic": "Fiziksel Renk Algısı",
             "explanation": "Ünite 6'da 'Renk' başlığı altında, eşyadan yansıyan ışık ışınlarının göz merceğinden geçerek retinaya ulaşması sonucu ortaya çıkan duyumun renk tonu veya renk olarak adlandırıldığı belirtilmektedir. Ayrıca, fizyolojik renk tanımında, 'Herhangi bir rengin beynimizde uyandırdığı duyuma, psikolojik renk, çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge de fizyolojik renk denir.' ifadesi yer alır. Dolayısıyla, bu fizyolojik renktir.",
             "is_duplicate": true,
-            "duplicate_of": 91,
+            "duplicate_of": 68,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 134,
@@ -2724,7 +2742,7 @@
             "topic": "Denge İlkesi",
             "explanation": "Ünite 7'de denge ilkesi anlatılırken, evrenin ve doğanın dengesinde varlık bulduğu, simetrik, asimetrik ve radyal dengenin olduğu belirtilir. Sorudaki cümle '...evrende ve doğada her şey bir denge içerisinde varlık bulur.' bağlamındadır ve doğal elemanların (taşlar, bulutlar, yapraklar) dengeli yapısı radyal denge ile ilişkilendirilebilir. Ancak, verilen metinlerde (Ünite 7, Denge başlığı), bu tür doğal formların 'radyal denge' biçiminin bir parçası olabileceği ima edilmektedir. Daha spesifik olarak, radyal denge, Art Nouveau'da sıkça görülen bir denge biçimi olarak tanımlanır. Sorudaki 'doğal gelişim' ve 'canlı organizmalar' ifadesi, Ünite 6'da doğal dokuların (kaya, toprak, yaprak) tanımlandığı yerdeki bağlama daha yakındır. Ünite 7'de radyal denge, dairesel (radyal) bir biçimde içten dışa yerleştirmeyi ifade eder ve Art Nouveau'da görüldüğü söylenir. Doğadaki organizasyonlar bağlamında 'radyal denge' en uygun kavramdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 135,
@@ -2743,10 +2761,10 @@
             "UniteNo": 7,
             "topic": "Sadelik İlkesi",
             "explanation": "Ünite 7'de 'Sadelik' ilkesi anlatılırken, L. M. Rohe'un 'Less is More (Az, daima çoktur)' sözünün Gestalt'ın yalınlık ilkesini çok iyi anlattığı belirtilmektedir. Bu nedenle, 'Less is More' sözü sadelik ilkesiyle ilişkilidir.",
-            "occurrence_count": 3,
             "is_duplicate": true,
-            "duplicate_of": 113,
-            "similarity_score": 1.0
+            "duplicate_of": 100,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 136,
@@ -2766,9 +2784,10 @@
             "topic": "Hiyerarşi Kavramı",
             "explanation": "Ünite 7'de Hiyerarşi (Koram) başlığı altında, hiyerarşinin yapısal olarak yerleşim biçimini belirleyen yöntemler arasında 'Boyutsal Hiyerarşi' tanımlanır: 'Büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması anlamında önem teşkil eder. Yazı, görsel, resimleme vs. gibi tasarıma katkı sağlayan elemanların mesaja ait algılanırlığı artırmak için büyütülüp küçültülmesidir.' Bu tanım, sorudaki tanım ile birebir örtüşmektedir.",
             "is_duplicate": true,
-            "duplicate_of": 95,
+            "duplicate_of": 72,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9998454451560974
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 137,
@@ -2790,7 +2809,8 @@
             "is_duplicate": true,
             "duplicate_of": 77,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 138,
@@ -2812,7 +2832,8 @@
             "is_duplicate": true,
             "duplicate_of": 75,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 139,
@@ -2834,7 +2855,8 @@
             "is_duplicate": true,
             "duplicate_of": 79,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 140,
@@ -2856,7 +2878,8 @@
             "is_duplicate": true,
             "duplicate_of": 78,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 141,
@@ -2876,9 +2899,10 @@
             "topic": "Sanat Teorileri ve Yorum",
             "explanation": "Umberto Eco, 'Açık Eser' (The Open Work) kavramında, izleyicinin eseri yorumlamasında sınırsız özgürlüğe sahip olduğunu belirtir. Metin özetinde Eco'dan doğrudan bahsedilmese de, sanatın anlamının algılayan kişi ile eser arasındaki etkileşimle oluştuğu, estetik deneyimin zihinsel eylemden fazlası olduğu ve anlamın göreceli olduğu genel bağlamı bu yorumu desteklemektedir. Ancak bu spesifik bilgi, metinlerin doğrudan bir parçası olmasa da, sanatın birden fazla yoruma açık olma fikri (örn. 'Açık' metinler) ile ilişkilidir. Ünite 3'te geçen \"Açık metinler birden fazla ve alternatif yorumları teşvik eder\" ifadesi bu bağlama en yakındır. Bu nedenle ilgili ünite 1'dir.",
             "is_duplicate": true,
-            "duplicate_of": 46,
+            "duplicate_of": 6,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 142,
@@ -2898,9 +2922,10 @@
             "topic": "Sanat ve Zanaat Ayrımı",
             "explanation": "Bir sanatçının başka bir sanatçının eserini birebir kopyalaması (taklit etmesi) taklit teorisi bağlamında değerlendirilir. Ünite 1'de, taklit ve temsil teorisi anlatılırken, 'Taklit ve temsil yaklaşımındaki taklit kavramını bir sanat eserini birebir kopyalamak yani onu taklit etmekle karıştırmamak gerekmektedir' denilerek taklidin kopyalama anlamına geldiği ima edilmektedir. Bu eylem, sanatın en eski teorisi olan taklit teorisi ile ilişkilidir.",
             "is_duplicate": true,
-            "duplicate_of": 101,
+            "duplicate_of": 2,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 143,
@@ -2919,8 +2944,10 @@
             "UniteNo": 2,
             "topic": "Moda Kavramı Tanımı",
             "explanation": "Ünite 2'de Moda Tasarımı başlığı altında, \"Moda kavramı, tüketim kültürünün geliştirdiği, beslediği, sosyolojik/kültürel değişimler üzerine konumlandırdığı ve tüketim alanlarına yayılmış giyimden, yaşam tarzından, insanlar arasındaki davranış/etkileşim biçimlerinden, eğitim ve tüm sosyal iletişimi kapsayan bir olgudur\" şeklinde tanımlanmıştır. Bu tanım, soruda verilen tanıma birebir uymaktadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Her iki sorunun metni ve sorulan tanım anlamsal olarak birebir aynıdır. Şıklar listesi aynı öğeleri içermektedir (sadece sıralamaları farklıdır) ve doğru cevap her iki soruda da 'Moda'dır. Bunlar tamamen kopyadır.",
+            "duplicate_of": 14
         },
         {
             "id": 144,
@@ -2940,9 +2967,10 @@
             "topic": "Grafik Tasarım İlkeleri",
             "explanation": "Ünite 2'de Grafik Tasarım başlığı altında, grafik tasarım süreçlerini belirleyen beş temel ilke şunlardır: Denge, Orantı ve görsel hiyerarşi, Görsel devamlılık, Bütünlük, Vurgulama. Metinde sayılmayan/listelenmeyen bir seçenek bu aşamalardan biri değildir. Metinde bahsedilen diğer kavramlar (Tipografi gibi) ilke değil, ögedir veya süreç aşamalarıdır (Tasarım Odaklı Düşünme Süreci).",
             "is_duplicate": true,
-            "duplicate_of": 125,
+            "duplicate_of": 103,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 145,
@@ -2964,7 +2992,8 @@
             "is_duplicate": true,
             "duplicate_of": 129,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 146,
@@ -2984,9 +3013,9 @@
             "topic": "Kapalı Metin Tanımı",
             "explanation": "Ünite 3'te, 'Açık metinler birden fazla ve alternatif yorumları teşvik eder. Kapalı metinler ise sınırlı, tek bir yorumu teşvik etme eğilimindedir. Esnekliği olmayan katı anlatılardır. Okuyucuyu önceden belirlenmiş bir yol boyunca yürütmeyi, acıma veya korku, heyecan veya çöküntü duygularını yerli yerinde ve gereken zamanda uyandıracak şekilde etkilemeyi amaçlayan metinlerdir' ifadesiyle kapalı metinler tanımlanmaktadır. Bu tanım, sorudaki boşluğu doldurur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 12,
-            "similarity_score": 0.9639955163002014
+            "occurrence_count": 0,
+            "duplicate_of": 51,
+            "duplication_reason": "Soruların kök metni ('Kapalı metinler' tanımı) neredeyse kelimesi kelimesine aynıdır (ufak bir ifade farkı hariç: 'yorum sunar' vs 'yorum olanakları kümesi sunar'). Doğru cevap her iki soruda da 'Kapalı metinler'dir. Şıklar arasındaki sıralama ve bir adet alakasız çeldiricinin değişmesi, bu iki sorunun aynı bilgi noktasını aynı metinle test ettiği gerçeğini değiştirmez. Bunlar bir veritabanında kopya olarak işaretlenmelidir."
         },
         {
             "id": 147,
@@ -3006,9 +3035,9 @@
             "topic": "Bellek Kavramı Tanımı",
             "explanation": "Ünite 8'de, 'Yaşananları, öğrenilen konuları, bilgileri almak, depolamak, saklamak ve daha sonra kullanmak için aktif hâle geçen süreci ifade eder' tanımı, 'Bellek' kavramına aittir. Metinde bu süreçler 'Kodlama, Depolama ve Geri Alma' başlıkları altında açıklanmıştır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 53,
-            "similarity_score": 0.9742278456687927
+            "duplication_reason": "Her iki sorunun metni (tanımı) ve doğru cevabı (Bellek) tamamen aynıdır. Şıklar aynı kelimelerden oluşmaktadır, sadece sıralamaları farklıdır. Bu sorular anlamsal olarak kopyadır."
         },
         {
             "id": 148,
@@ -3030,7 +3059,8 @@
             "is_duplicate": true,
             "duplicate_of": 130,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 149,
@@ -3050,9 +3080,10 @@
             "topic": "Dijital Sanat Öncüleri",
             "explanation": "Ünite 4'te, dijital sanatın ilk örnekleri olarak Benjamin F. Laposky ve Herbert Franke'in çalışmaları kabul edilir. Bu sanatçılar, bilgisayar teknolojisinin ilk dönemlerinde hem sanatsal hem de bilimsel yaklaşımlarla öne çıkmıştır ('dijital sanatın ilk örnekleri olarak kabul edilir' ve 'araştırma laboratuvarlarında, devlet kurumu ve üniversitelerde az sayıda bulunduğundan dolayı bilgisayarla yapılan öncü ve yaratıcı çalışmalar çoğunlukla bilgisayar uzmanları ve matematikçiler tarafından gerçekleştirilmiştir').",
             "is_duplicate": true,
-            "duplicate_of": 59,
+            "duplicate_of": 128,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 0.9960803985595703
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 150,
@@ -3072,9 +3103,10 @@
             "topic": "Çizgi Kavramı Tanımı",
             "explanation": "Ünite 5'te Çizgi tanımı, 'Her çocuğun karalamalarla başladığı çizim serüveni nasıl bir keşif süreci ise sanatçılar ve tasarımcılar için de çizme eyleminin analitik ve görsel düşünmenin yollarını deneyen, araştıran bir keşif süreci olduğu söylenebilir. Çizgi, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan ve uzunluğu boyunca ilerleyerek enerji taşıyan bir ifadedir. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları vardır' şeklinde açıklanmıştır. Bu tanım, soruda verilen tanıma uymaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 88,
+            "duplicate_of": 66,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 151,
@@ -3093,8 +3125,10 @@
             "UniteNo": 7,
             "topic": "Görsel Tasarımda Denge",
             "explanation": "Bu soru, görsel tasarımda denge ilkeleriyle ilgilidir. Metinde, simetrik denge, asimetrik denge ve radyal denge olmak üzere üç tür dengeden bahsedilmektedir. Radyal denge, tasarım elemanlarının dairesel (radyal) bir biçimde merkezden dışa veya dıştan içe doğru yerleştirilmesi prensibine dayanır ve özellikle Art Nouveau akımında sıkça görülür. Ancak soruda geçen tanım ('Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller'), genellikle doğal formların kendiliğinden yarattığı düzensiz ve organik yapıları ifade eder ki bu, asimetrik denge veya daha genel anlamda doğal denge kavramıyla ilişkilidir. Ancak verilen seçenekler bağlamında (varsayımsal olarak seçenekler mevcutsa ve radyal denge uygun değilse), doğal formlardaki kendiliğinden oluşumu en iyi temsil eden terim, doğal oluşumu ifade eden radyal denge veya genel denge prensibi olabilir. Ünite 7'de radyal denge, 'Radyal denge ağırlıklı olarak geleneksel ve dekoratif sanatlarda kendisini sıkça gösterir.' şeklinde tanımlanmıştır. Sorunun metindeki tanıma tam olarak uyan seçeneği varsayarak, en uygun bağlam radyal denge veya simetri dışındaki doğal dengeyi ifade eden bir terimdir. Radyal denge dairesel bir yerleşimdir. Doğal formların kendiliğinden oluşan yapısı genellikle asimetrik veya doğal denge ile ilişkilendirilir. Verilen metinde, denge başlığı altında üç tür dengeden bahsedilmektedir: simetrik, asimetrik ve radyal denge. Sorunun tanımı ('Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen') en çok doğal formların kendiliğinden oluşumuna işaret eder ki bu da asimetrik denge (yeni bir arayışla çıkan) veya genel denge kavramlarıyla ilişkilidir. Eğer seçeneklerde 'Radyal Denge' varsa, bu dairesel yerleşimdir. Eğer seçeneklerde doğal dengeyi ifade eden bir terim yoksa ve radyal denge doğal sanatlarda gösteriliyor deniliyorsa, bu yanıltıcı olabilir. Ancak, metin 1. sayfada sadece simetrik, asimetrik ve radyal dengeyi listeler. Sorudaki 'taşlarda, bulutlarda, yapraklarda görülen' ifadesi en çok doğal oluşumu ima eder. Radyal Denge'nin tanımı merkezileşmeyi ifade ederken, sorudaki tanım daha çok rastgele, doğal yapıya işaret eder. En yakın kavram asimetrik denge veya doğal denge prensibidir. Seçenekler olmadan kesin cevap vermek zor olsa da, metinde geçen ana denge türlerinden birine odaklanmak gerekir. Simetri durağandır. Radyal denge daireseldir. Asimetrik denge, yeni arayışlarla oluşturulan, hareketli bir yapıya kavuşan dengedir. Sorudaki tanım, doğal ve rastgele oluşumlara işaret ettiğinden, burada kastedilen muhtemelen radyal denge değildir. Asimetrik denge, geleneksel simetrinin reddiyle oluşan yeni arayışları temsil eder. Eğer seçeneklerde 'Radyal Denge' varsa ve soru metin dışı bir referansla doğal formları kastediyorsa, cevap radyal denge olabilir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soru kökleri ve şık setleri tamamen aynıdır. Sorular, sadece şıkların sırasının değiştirilmesiyle oluşturulmuş birebir kopyalardır.",
+            "duplicate_of": 134
         },
         {
             "id": 152,
@@ -3113,10 +3147,10 @@
             "UniteNo": 6,
             "topic": "Renk Sisteminin Kökenleri",
             "explanation": "Soru, renk sistemleri ve ana renkler hakkındadır. Ünite 6'da, 'Ana renkler, diğer renklerin karışımıyla elde edilemeyen sarı, mavi ve kırmızıdan meydana gelir. Bu üç renk eşit olarak ya da farklı oranlarda karıştırıldığında olası diğer ikincil renkler de elde edilir.' ifadesi yer almaktadır. Bu tanıma göre, ana renkler (sarı, mavi, kırmızı) karıştırma gerektirmeyen ve başka renklere indirgenemeyen renklerdir. Bu ana renklerden herhangi biri (kırmızı, sarı, mavi) sorunun cevabı olabilir.",
-            "occurrence_count": 2,
             "is_duplicate": true,
             "duplicate_of": 107,
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 153,
@@ -3136,9 +3170,10 @@
             "topic": "Fizyolojik Renk Tanımı",
             "explanation": "Soru, ışığın farklı dalga boylarının göz sinirlerinde yarattığı duyumun adını sormaktadır. Ünite 6'da, 'Fizyolojik renk denir.' ifadesi yer almaktadır. Metinde, 'Herhangi bir rengin beynimizde uyandırdığı duyuma, psikolojik renk, çeşitli dalga uzunluğundaki ışınların göz sinirlerinde meydana getirdiği renge de fizyolojik renk denir.' şeklinde açıklama bulunmaktadır.",
             "is_duplicate": true,
-            "duplicate_of": 133,
+            "duplicate_of": 68,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 154,
@@ -3160,7 +3195,8 @@
             "is_duplicate": true,
             "duplicate_of": 70,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 155,
@@ -3180,9 +3216,10 @@
             "topic": "Görsel Tasarımda Denge",
             "explanation": "Soru, simetrik denge ile ilgili bir örneği sormaktadır. Ünite 7'de, simetrik denge, 'Herhangi bir tasarım yüzeyinin ortasından geçtiğini varsaydığımız izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesidir. Genellikle durağan ve hareketsiz bir denge sağlar.' şeklinde tanımlanmıştır. Bu tanıma göre, simetrik dengede elemanlar ortadaki bir eksene göre eşit olarak düzenlenir ve durağanlık yaratır. Soruda verilebilecek seçenekler arasında, kompozisyonun tam ortadan ikiye bölündüğünde her iki yarısının birbirinin ayna görüntüsü olması durumu simetrik denge örneğidir.",
             "is_duplicate": true,
-            "duplicate_of": 138,
+            "duplicate_of": 75,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 156,
@@ -3204,7 +3241,8 @@
             "is_duplicate": true,
             "duplicate_of": 80,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 157,
@@ -3224,9 +3262,10 @@
             "topic": "Görsel Bütünlük İlkeleri",
             "explanation": "Soru, görsel tasarımda bütünlüğü sağlayan ilkelerden hangisinin listede olmadığını sorgulamaktadır. Ünite 7'de, görsel bütünlüğü sağlayan ilkeler 'yakınlık, tekrar, devamlılık, hizalama, boşluklar' olarak sıralanmıştır. Listede bulunması beklenen diğer temel ilkelerden biri olan 'Kontrast' (Vurgu ve Hiyerarşi ile dolaylı ilişkili olsa da), bu özel bütünlük listesinde sayılmamıştır. Eğer seçeneklerde 'Kontrast' yoksa, bu cevap olabilir. Diğer temel ilkeler (yakınlık, tekrar, devamlılık, hizalama, boşluklar) metinde listelenmiştir. Bu bağlamda, Hiyerarşi, Oran/Orantı ve Vurgu gibi kavramlar bütünlüğü sağlayan temel ilkelerden sayılırken, listede olmayan bir seçenek doğru cevap olacaktır. Sorunun içeriği bütünlük ilkelerini soruyorsa, metinde açıkça listelenenler: yakınlık, tekrar, devamlılık, hizalama, boşluklar. Bu listede olmayan herhangi bir ilke (örneğin 'Kontrast' veya 'Sadelik' gibi) doğru cevap olabilir.",
             "is_duplicate": true,
-            "duplicate_of": 93,
+            "duplicate_of": 76,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 158,
@@ -3286,9 +3325,10 @@
             "topic": "Stereoskopik Algılama",
             "explanation": "Soru, iki göze farklı sinyaller göstererek derinlik yanılsaması yaratma yöntemini sormaktadır. Ünite 8'de, bu durumun tanımı şu şekildedir: 'Stereoskopik 3D en basit düzeyde kullanıcılarına iki göz için farklı görüntü sinyallerinin gösterilmesiyle izlenilen görselin üç boyutlu şekilde algılanması olarak ifade edilebilir.' Bu, monoküler yöntemlerin aksine binoküler görmenin bir uygulamasıdır ve 'Stereoskopik' terimi ile ifade edilir.",
             "is_duplicate": true,
-            "duplicate_of": 140,
+            "duplicate_of": 78,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 161,
@@ -3310,7 +3350,8 @@
             "is_duplicate": true,
             "duplicate_of": 121,
             "original_source": "Yaz Okulu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 162,
@@ -3330,9 +3371,10 @@
             "topic": "Sanatta Anlamın Varoluşu",
             "explanation": "Metinde, \"Sanat eserleri anlam olarak bir açığa çıkma durumudur. Görünmeyenin görünür, duyulmayanın duyulur, hissedilmeyenin hissedilir olmasını sağlayan sanat bunu yaparken fiziki dünyadaki diğer nesne ve olaylara kıyasla kendi anlamlarını sunma ve görünür kılma çabasına girer.\" ifadesi yer almaktadır. Umberto Eco'nun açık eser (açık/belirsiz anlam) teorisi, eserin izleyiciye sınırsız yorum yapma özgürlüğü tanıması üzerine kuruludur, bu da metindeki \"açığa çıkma durumu\" ve izleyicinin anlamı şekillendirmesi fikriyle örtüşür.",
             "is_duplicate": true,
-            "duplicate_of": 141,
+            "duplicate_of": 6,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 163,
@@ -3354,7 +3396,8 @@
             "is_duplicate": true,
             "duplicate_of": 44,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 164,
@@ -3374,9 +3417,10 @@
             "topic": "Mimari Tasarım ve Akım",
             "explanation": "Metinde Art Nouveau akımının (Radyal Denge bağlamında da geçiyor) tasarımlara kattığı dinamizmden bahsedilmektedir: \"Özellikle grafik tasarım tarihinde uzak doğu'ya duyulan hayranlığın süslemeci bir yapıda ifadesini bulan Art Nouveau akımının tasarımlarında ve mimari cephelerinde sıkça görülen bir denge biçimidir.\" Ayrıca, 2. sayfada, Art Nouveau'nun 'fütürizmden etkilenen bir hareket' olduğu belirtilmektedir. Tanımlanan özellikler (dinamik, doğaya uyumlu formlar, geleneksellik karşıtı) Art Nouveau ile uyumludur.",
             "is_duplicate": true,
-            "duplicate_of": 126,
+            "duplicate_of": 9,
             "original_source": "Ara Sınav 2021-2022",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 165,
@@ -3455,7 +3499,6 @@
             "UniteNo": 6,
             "topic": "Sulu Boya Tekniği",
             "explanation": "Verilen tanım, sulu boya tekniğini açıklar. Ünite 6'da 'Sulu Boya' anlatılırken, \"Sulu boya da guaj boya gibi su bazlı bir boya türüdür. Sulu boyada renkleri berrak bir hâlde pıhtılaşmadan kullanabilmek önemlidir.\" ve \"...kâğıt üzerine anlık, tesadüfi lekelerle çalışılabilen bu boya parlak bir özelliğe de sahiptir.\" denilmektedir. Sulu boyada, opak (kapatıcı) boyaların aksine kâğıdın beyazlığı (parlaklığı) değeri belirler.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -3476,9 +3519,9 @@
             "topic": "Altın Oran",
             "explanation": "Boş bırakılan yerin tamamlanması gereken tanım, Altın Oran'ın (Golden Ratio) tanımıdır. Ünite 7'de \"Altın Oran Nedir?\" başlığı altında \"Altın oran, matematik, sanat ve tasarım gibi alanlarla da açıklanır. Matematik bilim adamı Fibonacci, adıyla anılan rakamlarla geometrik yapıda bir sarmal oluşturmuştur. Bu sarmalın merkezinde oluşan bir birim dikdörtgen parçasının oranı bütünle orantılıdır.\" şeklinde tanımlanır ve tanımın devamında bu oranın oranları belirtilir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 69,
-            "similarity_score": 0.987366795539856
+            "duplication_reason": "Soruların metin içeriği ve şıkların kümesi (düzlem, renk, form, oran-orantı, altın oran) tamamen aynıdır. Yalnızca şıkların listedeki sıralaması farklıdır. Bu sorular anlamsal olarak kopyadır (duplicate)."
         },
         {
             "id": 170,
@@ -3498,9 +3541,10 @@
             "topic": "Çizgi Tanımı",
             "explanation": "Noktaların birbirini takibiyle oluşan, fiziksel kombinasyonları olabilen ve dairesel, eğri gibi şekiller alabilen bu kavram, çizginin tanımıdır. Ünite 5'te Çizgi başlığı altında: \"Çizgi, noktaların birbirini takibi ile bir dizi, bir zincir gibi oluşan ve uzunluğu boyunca ilerleyerek enerji taşıyan bir ifadedir. Düz, eğri, dairesel, köşeli, uzun, kısa, kalın, ince gibi pek çok çeşitte fiziksel kombinasyonları vardır.\" şeklinde tanımlanmıştır.",
             "is_duplicate": true,
-            "duplicate_of": 150,
+            "duplicate_of": 66,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 171,
@@ -3522,7 +3566,8 @@
             "is_duplicate": true,
             "duplicate_of": 89,
             "original_source": "Dönem Sonu 2022-2023",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 172,
@@ -3562,9 +3607,9 @@
             "topic": "Renk Çemberi",
             "explanation": "Ünite 6'da renk çemberinde 'Tamamlayıcı renkler ise renk çemberinde yer alan zıt iki renkten oluşur.' bilgisi verilmiştir. Renk çemberinde temel zıtlıklar arasında Kırmızı-Yeşil çifti bulunur. Yeşil rengin (ara renk) zıttı Kırmızı-Mor veya Kırmızı-Turuncu civarında yer alır. Verilen seçenekler arasında Kırmızı (E) yeşilin tamamlayıcısı/zıttı olarak en yaygın kabul gören temel renktir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 71,
-            "similarity_score": 0.9706603288650513
+            "duplication_reason": "Soru kökleri tamamen aynıdır (ufak bir yazım farkı hariç). Şık setleri aynıdır ve doğru cevap aynıdır (Kırmızı). Sadece şıkların sıralaması farklıdır."
         },
         {
             "id": 174,
@@ -3585,9 +3630,10 @@
             "topic": "Hiyerarşi Türleri",
             "explanation": "Boyutsal Hiyerarşi; büyüklük ve küçüklük ile kurgulanan hiyerarşidir. Bu hiyerarşide, tasarım yüzeyinde hedef kitlenin mesaja ulaşması ya da kompozisyonda aktif elemanların öne çıkarılması amaçlanır. Bu, elemanların boyutlarının değiştirilmesiyle sağlanır.",
             "is_duplicate": true,
-            "duplicate_of": 95,
+            "duplicate_of": 72,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 0.9998454451560974
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 175,
@@ -3608,7 +3654,9 @@
             "explanation": "Newton'a göre, bir prizmadan kırılan güneş ışığında yedi ana renk vardır ve bu renkler Gökkuşağı'nda da görülür. Bu yedi renk: Kırmızı, turuncu, sarı, yeşil, mavi, çivit mavisi ve menekşe'dir. Şıkkı verilen seçeneklerdeki renklerden 'siyah', yedi rengin tamamının emilmesiyle oluştuğu için bu yedi ana rengin bir parçası değildir (siyah, ışığın yokluğunun veya tüm renklerin emiliminin sonucudur).",
             "is_duplicate": true,
             "duplicate_of": 92,
-            "original_source": "Dönem Sonu 2022-2023"
+            "original_source": "Dönem Sonu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 176,
@@ -3628,9 +3676,10 @@
             "topic": "Perspektif Türleri",
             "explanation": "Perspektif çizim teknikleri arasında, insan gözüne en yakın ve en gerçekçi sonuçları veren tür Merkezî (Konik) Perspektif'tir. Bu perspektifte tek kaçış noktası kullanılır.",
             "is_duplicate": true,
-            "duplicate_of": 137,
+            "duplicate_of": 77,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 177,
@@ -3650,9 +3699,9 @@
             "topic": "Simetrik Denge",
             "explanation": "Simetrik Denge, herhangi bir tasarım yüzeyinin ortasından geçtiği varsayılan izafi bir çizginin sağının soluna eşit biçimsel elemanlarla düzenlenmesidir. Bu denge türü genellikle durağan ve hareketsiz bir denge sağlar.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 117,
-            "similarity_score": 0.9941676259040833
+            "duplication_reason": "Soru metinleri (küçük bir yazım hatası dışında) ve şık listeleri aynıdır. Her iki sorunun doğru cevabı da aynı kavrama (Simetrik Denge) işaret etmektedir. Bu iki soru, bir sınav veritabanında kopya olarak kabul edilmelidir."
         },
         {
             "id": 178,
@@ -3672,9 +3721,10 @@
             "topic": "Bütünlük İlkeleri",
             "explanation": "Görsel tasarımda bütünlüğü sağlayan ilkeler arasında yakınlık, tekrar, devamlılık, hizalama ve boşluklar (espastır) sayılır. Dokunun birincil tasarım öğesi olduğu belirtilse de, bütünlüğü sağlayan temel ilkelerden biri olarak spesifik olarak listelenmemiştir (dokunun görsel öge olduğu belirtilmiştir).",
             "is_duplicate": true,
-            "duplicate_of": 157,
+            "duplicate_of": 76,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 179,
@@ -3694,9 +3744,10 @@
             "topic": "Stereoskopik Algılama",
             "explanation": "Stereoskopik (ing. stereoscopic) algılama, bu alandaki ilk uygulamalardandır. Basit düzeyde, kullanıcılara iki göz için farklı görüntü sinyallerinin gösterilmesiyle görselin üç boyutlu şekilde algılanması sağlanır.",
             "is_duplicate": true,
-            "duplicate_of": 160,
+            "duplicate_of": 78,
             "original_source": "Dönem Sonu 2021-2022",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 180,
@@ -3718,7 +3769,8 @@
             "is_duplicate": true,
             "duplicate_of": 159,
             "original_source": "Yaz Okulu 2022-2023",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

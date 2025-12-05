@@ -17,7 +17,7 @@
 
 ### Kurum Felsefesi Tanımı
 
-1. I. Diğer kurumlardan farklılaşma/ayırt edilebilme II. Uluslararası alanda bilinirlik sağlanması III. Pazar payına sahip olma ve tanınırlığını sağlama IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama Yukarıdakilerden hangileri kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. şeklinde doğru şekilde oluşturulduğunda sağlanır?
+1. I. Diğer kurumlardan farklılaşma/ayırt edilebilme II. Uluslararası alanda bilinirlik sağlanması III. Pazar payına sahip olma ve tanınırlığını sağlama IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama Yukarıdakilerden hangileri kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. şeklinde doğru şekilde oluşturulduğunda sağlanır? *(3 kez soruldu)*
     - A-) I ve II
     - B-) I ve III
     - C-) I, II ve III
@@ -27,7 +27,7 @@
     > **Açıklama:** Soru, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, kimliğini ve işleyişini yönlendiren çerçeveyi sormaktadır. Metinde Kurum Felsefesi başlığı altında bu tanımın aynısı verilmiştir. Bu felsefenin sağlanmasıyla (I, II, III ve IV maddelerinde belirtilen hedeflere ulaşma çabaları dahil) kurumun genel hedef ve yaklaşımları şekillenir.
 
     <hr />
-1. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? ....... kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.
+1. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? ....... kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. *(3 kez soruldu)*
     - A-) Kurumsal imaj
     - B-) Kurumsal iletişim
     - C-) Kurumsal davranış
@@ -35,16 +35,6 @@
     - E-) Kurumsal itibar
 
     > **Açıklama:** Soru metni, Kurum Felsefesi'nin tanımını birebir yansıtmaktadır: 'Kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.'
-
-    <hr />
-1. \_\_\_\_\_, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve İşleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Kurumsal iletişim
-    - **Cevap B-) Kurum felsefesi**
-    - C-) Kurumsal davranış
-    - D-) Kurumsal itibar
-    - E-) Kurumsal imaj
-
-    > **Açıklama:** Kurum Felsefesi, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Ünite 1'e göre, bu unsur aynı zamanda kurumun misyonunu, vizyonunu, değerlerini ve stratejik hedeflerini içerir.
 
     <hr />
 
@@ -102,7 +92,7 @@
 
 ### Marka Türleri Sınıflandırması
 
-1. Aşağıdakilerden hangisi kapsamına göre marka türlerinden biri değildir?
+1. Aşağıdakilerden hangisi kapsamına göre marka türlerinden biri değildir? *(2 kez soruldu)*
     - **Cevap A-) Sosyal Marka**
     - B-) Kurumsal Marka
     - C-) Aile Markası
@@ -112,7 +102,7 @@
     > **Açıklama:** Metinde markanın kapsamına göre marka türleri 'Bireysel marka', 'Aile markası', 'Kurumsal marka' ve 'Ortak marka' olarak sıralanmıştır. Sosyal Marka bu sınıflandırmada yer almamaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi markanın korunma şekline göre marka türleri arasında yer alır?
+1. Aşağıdakilerden hangisi markanın korunma şekline göre marka türleri arasında yer alır? *(2 kez soruldu)*
     - **Cevap A-) Tescilli Marka**
     - B-) Şekil Markası
     - C-) Ses Markası
@@ -130,19 +120,6 @@
     - E-) I, II ve IV
 
     > **Açıklama:** Metinde 'Markanın Biçimine Göre Marka Türleri' başlığı altında Sözcük markası, Resim markası, Karma marka, Şekil markası, Renk markası ve Ses markası sayılmıştır. Aile Markası, kapsamına göre sınıflandırmadır.
-
-    <hr />
-
-### Marka Türleri Sınıflandırılması
-
-1. Aşağıdakilerden hangisi kapsama göre marka türlerinden biri değildir?
-    - A-) Ortak Marka
-    - **Cevap B-) Sosyal Marka**
-    - C-) Aile Markası
-    - D-) Bireysel Marka
-    - E-) Kurumsal Marka
-
-    > **Açıklama:** Metinde (Sayfa 2, Sağ Sütun, Markanın Kapsamına Göre Marka Türleri başlığı altında) kapsama göre dört marka türü sıralanmıştır: Bireysel marka, Aile markası, Kurumsal marka ve Ortak marka. 'Tescilli marka' ise Markanın Korunma Şekline Göre Marka Türleri altındadır.
 
     <hr />
 
@@ -171,32 +148,6 @@
     - **Cevap E-) Fizibilite ve ölçeklendirme için raporlar sunulmasında yararlanılır.**
 
     > **Açıklama:** Metinde Kantitatif Araştırma, büyük çapta yapılan temsili örnekleme dayanan bir araştırma yaklaşımı olarak tanımlanır ve sayısal veriler ile istatistiksel analizler kullandığı belirtilir. Tasarruf planı oluşturulması ise Tasarım İş Tanımı belgesinin bir işlevi olup doğrudan kantitatif araştırmanın çıktıları veya işlevleri arasında sayılmaz.
-
-    <hr />
-
-### Marka Tanımı ve Temelleri
-
-1. Markaların bileşenleri ve marka kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
-    - A-) Farkındalık, günümüzün en önemli marka bileşeni değildir.
-    - B-) Markalar sadece maddi özelliklerle oluşturulur.
-    - C-) Markalar sadece görsel imajlarla sınırlıdır.
-    - D-) Markalar sadece geçmiş başarıları örneklenir.
-    - **Cevap E-) Markalar logolar, semboller, görsel imajlar ve kavramları içerir.**
-
-    > **Açıklama:** Soru 71'in içeriği, markanın sadece bir isim veya logo değil, aynı zamanda işletmenin değerlerini, kalitesini, benzersizliğini ve müşterilere sunduğu vaatleri yansıtan bir varlık olduğunu vurgulamaktadır (Ünite 2, Marka Tanımı ve Temelleri). Bu bağlamda, markanın bileşenleri (değer, kalite, vaat vb.) ve kavramı ile ilgili ifadelerden doğru olan, markanın çok boyutlu bir kavram olduğu ve değer, imaj, algı gibi unsurları içerdiğidir. Verilen seçenekler olmadan kesin bir yanıt vermek zor olsa da, metne göre markanın tanımı ve temel vaatleri içerdiği doğrudur.
-
-    <hr />
-
-### Marka Türleri Sınıflandırması
-
-1. Aşağıdakilerden hangisi markanın korunma şekline göre marka türleri arasında yer alır?
-    - A-) Ses Markası
-    - B-) Renk Markası
-    - **Cevap C-) Tescilli Marka**
-    - D-) Sabit Marka
-    - E-) Şekil Markası
-
-    > **Açıklama:** Markanın korunma şekline göre marka türleri; Tescilli marka, Tescilsiz marka ve Hizmet markası olarak sınıflandırılır (Ünite 2). Soruda verilen seçenekler arasında yer alan seçenek Tescilli Marka, Tescilsiz Marka veya Hizmet Markası olmalıdır. Seçenekler verilmediği için, genel bilgiye dayanarak cevap Tescilli marka, Tescilsiz marka veya Hizmet markasıdır. Eğer şıklarda bu üçünden biri varsa, o doğrudur.
 
     <hr />
 
@@ -282,7 +233,7 @@
 
 ### Kurumsal Kimlikte Renk
 
-1. Kurumsal kimlik tasarımında renk kullanımında dikkat edilecek hususlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+1. Kurumsal kimlik tasarımında renk kullanımında dikkat edilecek hususlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? *(2 kez soruldu)*
     - A-) Renk tercihlerinde, kurum kimliği, marka veya kuruluşa uygunluğu yanında hedef kitle de düşünülmelidir.
     - **Cevap B-) Kurumsal kimlik tasarımında renk kullanımından mümkün olduğunca kaçınmak gerekir.**
     - C-) Renk kurumsal kimlik tasarımını materyalleri arasında ortak bir tasarım dili oluşturulmasına katkı sağlar.
@@ -290,16 +241,6 @@
     - E-) Rengin etkisi birlikte kullanılan diğer biçimler ve renklere göre değişecektir.
 
     > **Açıklama:** Metin, rengin kurumsal kimlikte önemli bir unsur olduğunu ve dikkat çekici olduğunu belirtir. Ancak, B şıkkındaki gibi 'mümkün olduğunca kaçınmak gerekir' ifadesi yanlıştır; renk, farkındalık ve tanınırlık için aktif olarak kullanılmalıdır.
-
-    <hr />
-1. Kurumsal kimlik tasarımında renk kullanımında dikkat edilecek hususlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
-    - A-) Renk tercihlerinde, kurum kimliği, marka veya kuruluşa uygunluğu yanında hedef kitle de düşünülmelidir.
-    - B-) Renk kurumsal kimlik tasarımını materyalleri arasında ortak bir tasarım dili oluşturulmasına katkı sağlar.
-    - C-) Bir tasarımcının belirli bir kurumsal kimlik ve marka için yarattığı planlı renk kombinasyonuna sadık kalınmalı farklı uygulamalarda renk ve ton değerlerinde değişim yapılmamalıdır.
-    - **Cevap D-) Kurumsal kimlik tasarımında renk kullanımından mümkün olduğunca kaçınmak gerekir.**
-    - E-) Rengin etkisi birlikte kullanılan diğer biçimler ve renklere göre değişecektir.
-
-    > **Açıklama:** Ünite 3'e göre, renk insan gözünün ilk algıladığı görsel ögedir, dikkat çekici ve akılda kalıcıdır. Coca-Cola örneğinde olduğu gibi, renkler evrensel bir marka haline gelmede büyük güçtür. Ancak, renge verilen tepkilerin kültüre, dine, cinsiyete ve kişisel tercihlere bağlı olarak değiştiği de belirtilmiştir. Soruda verilen ifadelerin tamamı renk kullanımında dikkat edilmesi gereken hususlardır; ancak sorunun bir yanlış ifade istemesi ve verilen seçeneklerin bağlamının tam olarak sunulmaması nedeniyle, genel kurallara odaklanılmalıdır. Ancak metinler, renklerin kültürel/kişisel farklılıklara bağlı olduğunu vurgular. Verilen seçenekler metinde doğrudan yer almamakla birlikte, genel tasarım ilkeleri bağlamında, renklerin kültürel farklılıklara duyarlı olması gerektiği bilgisi, yanlış olarak işaretlenebilecek bir unsurun olabileceğini ima eder (eğer bir seçenek 'Tüm kitlelerde aynı etkiyi yaratır' gibi bir şey olsaydı yanlış olurdu). Verilen seçeneklerin olmadığı bir bağlamda, genel olarak metinler renklerin kültüre, dine, cinsiyete ve kişisel tercihlere bağlı olarak değiştiğini belirtir.
 
     <hr />
 
@@ -445,19 +386,6 @@
 
     <hr />
 
-### Problem Tanımı
-
-1. Bir bağlam içerisinde problem tanımına belirlenen kısıtlar çerçevesinde alternatif, yenilikçi ve geleneksel çözümler üretme yeteneğine ad verilir?
-    - **Cevap A-) Yaratıcılık**
-    - B-) Analiz
-    - C-) Problem tanımı
-    - D-) Keşfetme
-    - E-) Düzenleme
-
-    > **Açıklama:** Ünite 4'te, 'Tanımlı problemler' (well defined problems) açık ve net hedeflere ulaşmak için gerekli adımların net olduğu problemler olarak tanımlanmıştır. Gerçek hayattaki problemlerin çoğu ise 'tanımsız problemler' (ill defined/wicked problems) olarak bilinirler. Tanımsız problemler, yaratıcılık, analitik düşünme ve deneme-yanılma sürecini gerektirir ve çözüm yolları duruma göre değişebilir. Sorudaki 'alternatif, yenilikçi ve geleneksel çözümler üretme yeteneği' ifadesi, problem çözmenin yaratıcı ve esnek yönünü vurgular, ki bu da 'tanımsız problemler'in çözüm sürecinin bir özelliğidir. Ancak sorunun 'yeteneğe ad verilir' ifadesi, doğrudan 'Yaratıcılık' kavramına işaret etmektedir. Ünite 4'te yaratıcılık, problem çözme sürecinin önemli bir başlangıç noktası ve özgün/değerli sonuçlar üretme çabası olarak ele alınmıştır.
-
-    <hr />
-
 ### Problem Tanımı Türleri
 
 1. -----, Kurumun karşılaştığı belirli bir sorun veya ihtiyaç ile ilgili olarak tasarım ekibine aktarılan ancak detayları tam olarak çözümlenmemiş ve belirsizlikler içeren problem tanımıdır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -538,7 +466,7 @@
 
 ### Yaratıcılık Tanımı
 
-1. Bir tasarım tanımında belirlenen kısıtlar çerçevesinde alternatif, yenilikçi ve getirici çözümler üretme yeteneğine ne ad verilir?
+1. Bir tasarım tanımında belirlenen kısıtlar çerçevesinde alternatif, yenilikçi ve getirici çözümler üretme yeteneğine ne ad verilir? *(2 kez soruldu)*
     - A-) Analiz
     - B-) Problem tanımı
     - **Cevap C-) Yaratıcılık**
@@ -590,22 +518,9 @@
 
     <hr />
 
-### Logo Tasarımı Kriterleri
-
-1. Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerden biridir? *(2 kez soruldu)*
-    - A-) Trendlere uyumluluk
-    - B-) Görsel çeşitlilik
-    - C-) Değişkenlik ve karmaşıklık
-    - **Cevap D-) Özgünlük, basitlik, üretilebilirlik**
-    - E-) Karşıt renk seçimleri
-
-    > **Açıklama:** Logo tasarımında dikkate alınması gereken önemli özelliklerden biri özgünlüktür. Ünite 5'te Logo Kullanım Şekilleri başlığı altında, logo tasarımında dikkat edilmesi gerekenler arasında özgünlüğe dikkat edilmesi gerektiği belirtilmiştir.
-
-    <hr />
-
 ### Logo Tasarımı Özellikleri
 
-1. Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerdendir?
+1. Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerdendir? *(3 kez soruldu)*
     - A-) Değişkenlik ve karmaşıklık
     - **Cevap B-) Özgünlük ve basitlik**
     - C-) Karşıt renk seçimleri
@@ -659,7 +574,7 @@
 
 ### Marka Kavramı ve Bileşenleri
 
-1. Markaların bileşenleri ve marka kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+1. Markaların bileşenleri ve marka kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur? *(2 kez soruldu)*
     - **Cevap A-) Markalar logolar, semboller, görsel imajlar ve kavramları içerir.**
     - B-) Markalar sadece görsel imajlarla sınırlıdır.
     - C-) Markalar sadece maddi özelliklerle oluşturulur.
@@ -706,6 +621,19 @@
 
     <hr />
 
+### Segmentasyon Araştırmaları
+
+1. Segmentasyon analizlerinin kullanım amacı aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Piyasa büyüklüğünü ölçmek
+    - B-) Kantitatif ve kalitatif araştırmaları sonuçlarını karşılaştırmak
+    - C-) Temsili örnekleme dayalı araştırma yaklaşımını anlamak
+    - **Cevap D-) Markanın neden tercih edildiğini belirlemek**
+    - E-) Fiyat artışı sağlama
+
+    > **Açıklama:** Segmentasyon araştırmaları, tüketici davranışlarının anlaşılması için kullanılır. Bu analizler genellikle kantitatif yöntemlerle gerçekleştirilerek tüketici kitlesinin sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırılmasını amaçlar (Ünite 6).
+
+    <hr />
+
 ### İçgörü ve Marka İletişimi
 
 1. Aşağıdaki marka iletişimi örneklerinden hangisi etkili bir içgörüyü temsil eder?
@@ -734,19 +662,6 @@
 
     <hr />
 
-### Kurum Felsefesi Tanımı
-
-1. -----, kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve İşleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.
-    - A-) Kurumsal itibar
-    - **Cevap B-) Kurum felsefesi**
-    - C-) Kurumsal davranış
-    - D-) Kurumsal iletişim
-    - E-) Kurumsal imaj
-
-    > **Açıklama:** Ünite 7'de, Kurum Felsefesi başlığı altında, 'Kurumun temel değerlerini, inançlarını, amaçlarını ve hedeflerini yansıtan, onun kimliğini ve işleyişini yönlendiren bir çerçevedir. Organizasyonun misyonunu, vizyonunu ve genel yaklaşımını belirlemek için kullanılır.' bilgisi yer almaktadır. Bu tanım, sorudaki boşluğu doldurur.
-
-    <hr />
-
 ### Kurum Kimliği Kataloğu
 
 1. Kurum kimliği kataloğu, bir işletmenin kimliğni ve kişiliğini yansıtan, belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
@@ -757,19 +672,6 @@
     - E-) analizini
 
     > **Açıklama:** Soru 51, Ünite 7'de anlatılan Kurum Kimliği Kataloğu'nun işlevini sormaktadır. Metinde, 'Kurum kimliği kataloğu, bir işletmenin kimliğini ve kişiliğini yansıtan, marka değerlerini ve görsel unsurlarını belirleyen kapsamlı bir dokümandır' denilmektedir. Bu bağlamda, kataloğun marka değerlerini ve görsel unsurlarını belirlemesi gerektiği çıkarılabilir.
-
-    <hr />
-
-### Kurum Kimliği Kılavuzu
-
-1. Kurumsal kimlik kılavuzu ile ilgili aşağıdaki ifadelerden hangisi doğrudur? *(2 kez soruldu)*
-    - A-) Tutarlı bir kurumsal kimlik, işletmenin tüm görsel standartlarını değiştirmesine yardımcı olur.
-    - **Cevap B-) Tutarlı bir kurumsal kimlik, işletmeye daha profesyonel ve güvenilir bir hava katar. Bu da en yüksek standartlarda hizmet verildiği izlenimi verir.**
-    - C-) Tutarlı bir kurumsal kimlik, müşterilere işletmenin sürekli olarak değiştiğini gösterir.
-    - D-) Tutarlı bir kurumsal kimlik, işletmenin profesyonellik algısını etkilemez ve iş ortaklarına katkı sağlamaz.
-    - E-) Tutarlı bir kurumsal kimlik, işletmenin iletişim materyallerinde farklılık yaratması için analiz ve rapor sunar.
-
-    > **Açıklama:** Kurumsal kimlik kılavuzu, kurumun tüm iletişim ve pazarlama materyallerinde tutarlı bir görünüm ve mesaj iletilmesini sağlar (Ünite 7, Tutarlılık). Bu tutarlılık, markanın hedef kitle üzerinde güçlü bir izlenim bırakmasına ve marka bilinirliğini artırmasına olanak tanır. Ayrıca, kılavuzun temel amaçlarından biri de, markanın görsel ve sözel ögelerinin tutarlı bir şekilde sunulmasını sağlamaktır.
 
     <hr />
 
@@ -786,22 +688,9 @@
 
     <hr />
 
-### Kurumsal Kimlik Avantajları
-
-1. I. Diğer kurumlardan farklılaşma/ayırt edilebilme<br />II. Uluslararası alanda bilinirlik sağlanması<br />III. Pazar payına sahip olma ve tanınırlığını sağlama<br />IV. Sürdürülebilir çevre politikalarına destek vererek topluma yarar sağlama<br />Yukarıdakilerden hangileri kurumsal kimlik doğru şekilde oluşturulduğunda sağlanır? *(2 kez soruldu)*
-    - A-) I ve II
-    - B-) I ve III
-    - C-) I, II ve III
-    - D-) II, III ve IV
-    - **Cevap E-) I, II, III ve IV**
-
-    > **Açıklama:** Kurumsal kimliğin doğru oluşturulması ve tutarlılığı, markanın farklılaşmasını (I), hedef kitlenin dikkatini çekerek uluslararası alanda tanınabilirlik sağlamasını (II) ve pazar payı ve tanınırlık kazanmasını (III) sağlar. Toplumsal sorumluluk projelerine destek vermek (IV) kurumsal kimliğin bir sonucu olarak algılanabilir ancak bu, kimlik oluşturmanın \*temel\* avantajlarından ziyade, güçlü bir kimliğin getireceği genel kurumsal faydalardandır. Ancak en temel ve doğrudan sağlanan faydalar I, II ve III'tür. Ünite 7'de tutarlılığın marka farkındalığını ve rekabet avantajını artırdığı belirtilmiştir.
-
-    <hr />
-
 ### Kurumsal Kimlik Kılavuzu
 
-1. Kurumsal kimlik kılavuzu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+1. Kurumsal kimlik kılavuzu ile ilgili aşağıdaki ifadelerden hangisi doğrudur? *(3 kez soruldu)*
     - **Cevap A-) Tutarlı bir kurumsal kimlik, işletmeye daha profesyonel ve güvenilir bir hava katar. Bu da en yüksek standartlarda hizmet verildiği izlenimi verir.**
     - B-) Tutarlı bir kurumsal kimlik, işletmenin iletişim materyallerinde farklılık yaratması için analiz ve rapor sunar.
     - C-) Tutarlı bir kurumsal kimlik, müşterilere işletmenin sürekli olarak değiştiğini gösterir.

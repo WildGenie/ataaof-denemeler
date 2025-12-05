@@ -61,6 +61,19 @@
 
     <hr />
 
+### Üç Boyutlu Tipografi Kullanım Alanları
+
+1. Aşağıdakilerden hangisi üç boyutlu tipografinin kullanım alanlarından biri değildir? *(3 kez soruldu)*
+    - **Cevap A-) Baskı**
+    - B-) Mimari
+    - C-) Yer imi
+    - D-) Reklam
+    - E-) Bilgilendirme
+
+    > **Açıklama:** Ünite 1, Üç Boyutlu Tipografi kullanım alanlarını Bilgilendirme amaçlı, Mimari imge olarak, Gösteri-reklam amaçlı, Yer imi amaçlı, Sanat-tasarım amaçlı ve Oyun amaçlı-obje çıkışlı tipografi olarak sınıflandırmaktadır. Mimari (B), Yer imi (C), Reklam (D) ve Bilgilendirme (E) bu sınıflandırmaların içinde yer almaktadır. Baskı (A) ise genellikle tipografinin iki boyutlu olarak kullanıldığı veya bir üretim süreci olarak ele alındığı bir ortamı ifade eder ve bu bağlamda üç boyutlu tipografinin mekânsal kullanım alanlarından biri olarak listelenmemiştir.
+
+    <hr />
+
 ### Üç Boyutlu Tipografi Özelliği
 
 1. Aşağıdakilerden hangisi üç boyutlu tipografiyi iki boyutlu tipografiden ayıran farklardan biridir?
@@ -210,7 +223,7 @@
 
 ### Ekran ve Çözünürlük
 
-1. Ekran üzerindeki tipografinin ya da görüntünün keskinliğini ve netliğini tanımlamak için kullanılan ölçü aşağıdakilerden hangisidir?
+1. Ekran üzerindeki tipografinin ya da görüntünün keskinliğini ve netliğini tanımlamak için kullanılan ölçü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Punto
     - **Cevap B-) Çözünürlük**
     - C-) Piksel
@@ -435,22 +448,9 @@
 
     <hr />
 
-### Tipografi ve Sanat İlişkisi
-
-1. Yazının metin özelliğini bozmadan yapılan sanatsal çalışmalar ne ad verilir?
-    - A-) Kaligrafi
-    - B-) Harfleme
-    - C-) Grafiti
-    - D-) Tipografi
-    - **Cevap E-) ASCII art**
-
-    > **Açıklama:** Yazının metin özelliğini bozmadan gerçekleştirilen sanatsal uygulamalara 'Text art' adı verilir. Bu alanın daktilo tuşlarıyla yapılanına 'typewriter art' denir ve bu, bilgisayar ve internetle ortaya çıkan tekniklerle de çeşitlenir. (Metin 2. Sayfada)
-
-    <hr />
-
 ### Yazı Resim Türleri
 
-1. Aşağıdakilerden hangisi yazının metin özelliğini bozmadan yapılan sanatsal çalışmalara ne ad verilir?
+1. Aşağıdakilerden hangisi yazının metin özelliğini bozmadan yapılan sanatsal çalışmalara ne ad verilir? *(2 kez soruldu)*
     - A-) Grafiti
     - B-) Kaligrafi
     - C-) Harfleme
@@ -556,7 +556,7 @@
 
 ### Yazı Karakteri Tanımları
 
-1. Alfabenin özgün bir tasarımını tanımlamak için kullanılan terime ne ad verilir?
+1. Alfabenin özgün bir tasarımını tanımlamak için kullanılan terime ne ad verilir? *(2 kez soruldu)*
     - A-) Yazı Fontu
     - **Cevap B-) Yazı karakteri**
     - C-) Yazı ailesi
@@ -824,7 +824,7 @@
 
 ### Kaligrafi Araçları
 
-1. Gotik, İtalik, Ünsial, Roman Kapital gibi kaligrafi yazıları için kullanılan malzeme aşağıdakilerden hangisidir?
+1. Gotik, İtalik, Ünsial, Roman Kapital gibi kaligrafi yazıları için kullanılan malzeme aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Kesik uçlu kalem**
     - B-) Daldırma kalem
     - C-) Dolma kalem
@@ -848,35 +848,9 @@
 
     <hr />
 
-### Kaligrafi ve Tipografi Farkı
-
-1. Gotik, İtalik, Ünsial, Roman Kapital gibi kaligrafi yazıları için kullanılan tipografi genellikle aşağıdaki anlayışlarından hangisidir?
-    - A-) Daldırma kalem
-    - B-) Fırça kalem
-    - C-) Dolma kalem
-    - **Cevap D-) Kesik uçlu kalem**
-    - E-) Trilin
-
-    > **Açıklama:** Gotik, İtalik (bir Roman stili), Ünsial ve Roman Kapital gibi terimler, daha çok el yazısı geleneğinden gelen veya el yazısının estetiğini yansıtan harf formlarını ifade eder. Ünite 7'de Kaligrafi, harfleri yazma sanatı iken, Tipografi, yazılan kelimeyi daha okunaklı hâle getirmek için harflerin biçimini tasarlama ve düzenleme tekniğidir. Geleneksel olarak bu tür el yazısı bazlı formlar, Tipografi'nin bir alt alanı veya kökeni olarak ele alınsa da, bu formların özü gereği geleneksel ve daha az matematiksel (daha çok el sanatına dayalı) yaklaşımları temsil ettiği belirtilir. Ancak, sorunun bağlamı (Gotik, İtalik, Roman Kapital) genellikle kaligrafi veya harfleme sanatının bir parçası olarak gösterilir. Tipografi, her harfin sayısallaştırıldığı ve tekrarlanan kopyaların beklendiği bir sistemdir (Ünite 7). Bu geleneksel yazı türleri, Tipografi'nin modern dijital tanımına (tamamen sayısal/otomatik) kıyasla daha çok el sanatı (kaligrafi/harfleme) anlayışına yakındır. Ancak verilen seçenekler içinde en uygun olan, bu türlerin köken aldığı el yazısı/kaligrafi geleneğidir. Ünite 7'ye göre, Tipografi, harflerin biçimini tasarlama ve düzenleme tekniğidir ve bu el yazısı temelli stiller de (gerektiğinde) bu kapsamda değerlendirilir, ancak kaligrafi ve harflemenin de bu stillerin üretimi için kullanıldığı vurgulanmıştır. En genel kabul gören sınıflandırma bağlamında, bu stillerin temeli el yazısıdır ve kaligrafi buna en yakın alandır. Fakat soruda 'tipografi' bağlamında soruluyor. Ünite 7'de Tipografi'nin 'otomatik' (her harfin aynı) olduğu belirtilirken, kaligrafi/harfleme 'özgür'dür. Bu türler (Gotik, İtalik) tipografinin gelişiminde önemli basamaklardır. Tipografinin geleneksel anlamı (tipografik düzenleme) kapsamında, bu stiller de düzenlenir. Bu türler, tipografik düzenleme teknikleri (dizgi) ile de kullanılabilir. Ancak, eğer kaligrafi/harflemeyle ilişkilendirilmeleri kastediliyorsa, bu yaklaşımlar daha çok geleneksel/el sanatı kökenlidir. Bu soruyu en iyi kapsayan kategori, bu formların köklerinin dayandığı el yazısı/kaligrafi disiplinidir.
-
-    <hr />
-
-### Kaligrafi, Harfleme Ayrımı
-
-1. -------: Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış yazıdır. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar?
-    - A-) Grafiti
-    - B-) Text
-    - C-) Tipografi
-    - D-) Kaligrafi
-    - **Cevap E-) Harfleme**
-
-    > **Açıklama:** Metne göre, Kaligrafi harfleri yazar, Tipografi harflerin biçimini tasarlar. Harfleme (Lettering) ise, elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış yazıdır. Harfleme sanatı, harfleri çizme ve gösterme sanatı olarak tanımlanır ve her harfe bireysel ilgi yüklenir (Ünite 7).
-
-    <hr />
-
 ### Kaligrafi, Harfleme ve Tipografi
 
-1. -------: Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metindir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. -------: Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metindir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Kaligrafi
     - B-) Text
     - C-) Tipografi
@@ -988,15 +962,5 @@
 
     > **Açıklama:** Ünite 8'de, vernakülerin görsel iletişim tasarımındaki yerinin sağlamlaşmasında Tibor Kalman'ın rolünün önemli olduğu belirtilmektedir. Kalman'a göre görsel iletişim tasarımının resmi olmayan, kendine özgü lehçeleri veya yerel biçimleri vardır ve vernaküleri bir yönteme dönüştürmüştür.
 
-    <hr />
-
-## Ünite Diğer
-
-1. Aşağıdakilerden hangisi üç boyutlu tipografinin kullanım alanlarından biri değildir? *(3 kez soruldu)*
-    - **Cevap A-) Baskı**
-    - B-) Mimari
-    - C-) Yer imi
-    - D-) Reklam
-    - E-) Bilgilendirme
     <hr />
 

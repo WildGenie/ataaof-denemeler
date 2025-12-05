@@ -15,7 +15,10 @@
             "source": "Ara Sınav 2023-2024",
             "material_id": "634729",
             "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": false,
+            "UniteNo": 1,
+            "topic": "Kompleksite",
+            "explanation": "Soru metninde tanımı verilen kavram Kompleksite'dir. Ünite 1'deki metinlerde bu kavram, “bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı” olarak nitelendirilmektedir. Kompleksite, sistemlerin karmaşık yapısını çözmede görsel düşünme biçimlerinin önemini ortaya koyar ve sistemler arası yoğun ilişkileri ifade eder. Doğru cevap A şıkkıdır."
         },
         {
             "id": 2,
@@ -175,7 +178,7 @@
             "topic": "Dergi Kapak Tasarımı",
             "explanation": "Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısını Şubat 1989'da yayımladığı dergilerin (Arredamento Dekorasyon/Mimarlık) kapak tasarımlarını Bülent Erkmen üstlenmiştir. Ünite 2'deki 'Dergi Kapağı Tasarımı' başlığı altında bu bilgi yer almaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 4
         },
         {
             "id": 10,
@@ -195,7 +198,7 @@
             "topic": "Seri Tasarım Tanımı",
             "explanation": "I. ve II. ifadeler doğrudur; seri tasarım bir markanın görsel tutarlılığını ve devamlılığını sağlar ve tasarım kararları markaya bağlıdır. III. ifade yanlıştır, çünkü seri tasarım yaklaşımı köklü bir markanın kimliğine aidiyet değeri katmada ve hacmini genişletmede önemli rol oynar (Ünite 2). Bu nedenle yalnızca I ve II doğrudur.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 11,
@@ -355,7 +358,7 @@
             "topic": "Harita Kavramı",
             "explanation": "Haritalar, dünyaya ait bilgiyi aktaran yararlı ve işlevsel araçlardır. I. ifade doğrudur (İlgili içeriği aktarmak haritanın amacıdır). II. ifade yanlıştır; haritalar coğrafi özelliklerin yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgiyi de gösterebilir. III. ifade doğrudur; haritalar kullanıcılarıyla iletişim kurar ve MacEachren, haritanın temsil eyleminin haritalama için de geçerli olduğundan bahsetmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 19,
@@ -417,7 +420,8 @@
             "is_duplicate": true,
             "duplicate_of": 3,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 22,
@@ -459,7 +463,8 @@
             "is_duplicate": true,
             "duplicate_of": 4,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 24,
@@ -481,7 +486,8 @@
             "is_duplicate": true,
             "duplicate_of": 2,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0000001192092896
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 25,
@@ -560,9 +566,8 @@
             "UniteNo": 2,
             "topic": "Penguin Kitap Kimliği",
             "explanation": "Ünite 2'de, Penguin Books'un dünyaca tanınan kapak kimliğine standart getiren İsviçreli tasarımcının Jan Tschichold olduğu ve onun 'Penguin Kompozisyon Kuralları'nı oluşturduğu bilgisi yer almaktadır.",
-            "is_duplicate": true,
-            "duplicate_of": 42,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "occurrence_count": 4
         },
         {
             "id": 29,
@@ -601,10 +606,11 @@
             "UniteNo": 2,
             "topic": "Dergi Kapak Tasarımı",
             "explanation": "Ünite 2'de, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını ilk sayısından itibaren Bülent Erkmen'in üstlendiği bilgisi verilmiştir.",
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9998905062675476
+            "occurrence_count": 0
         },
         {
             "id": 31,
@@ -646,7 +652,8 @@
             "is_duplicate": true,
             "duplicate_of": 13,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 33,
@@ -668,7 +675,8 @@
             "is_duplicate": true,
             "duplicate_of": 14,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 34,
@@ -690,7 +698,8 @@
             "is_duplicate": true,
             "duplicate_of": 15,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 35,
@@ -732,7 +741,8 @@
             "is_duplicate": true,
             "duplicate_of": 16,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 37,
@@ -754,7 +764,8 @@
             "is_duplicate": true,
             "duplicate_of": 19,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 38,
@@ -794,7 +805,7 @@
             "topic": "Bilgi Panoları",
             "explanation": "I, II, III ve IV ifadelerinin hepsi bilgi panolarının (Bilgi Panoları ve Özellikleri bölümü, Ünite 7) tanım ve özellikleriyle örtüşmektedir. Bilgi panoları çerçeveli, içeriği sınırlı, pek çok ortamda kullanılabilen ve görselleştirilmiş iletişim mecralarıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 40,
@@ -853,10 +864,10 @@
             "UniteNo": 6,
             "topic": "Tasarımcı Kimliği",
             "explanation": "Penguin Books'un dünyaca tanınan kapak kimliğine bir standart getiren İsviçreli tasarımcı Jan Tschichold'tur. Bu standartlar, kitapların boyutlarından logonun yerleşimine, kapaktaki başlık fontundan iç sayfalardaki paragraf girdisine kadar pek çok detayı kapsar.",
-            "occurrence_count": 4,
             "is_duplicate": true,
             "duplicate_of": 28,
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 43,
@@ -896,9 +907,9 @@
             "topic": "Bilgi Panoları Özellikleri",
             "explanation": "I, II, III ve IV numaralı ifadelerin hepsi doğrudur. Bilgi panoları çerçevesi çizilen ve konumlandırıldığı yere özel hazırlanan tasarım ürünleridir (I). İçerik sınırları bellidir ve buna göre görselleştirilir (II). Pek çok ortamda (basılı/dijital) ve amaçla kullanılabilirler (III). Temel amaçları taşıdıkları içeriği kullanıcının anlayacağı şekilde görselleştirmektir (IV).",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 39,
-            "similarity_score": 0.9944602847099304
+            "duplication_reason": "Soru metni, soru kökü, şıklar ve doğru cevap tamamen aynıdır. Birebir kopyadır."
         },
         {
             "id": 45,
@@ -918,7 +929,7 @@
             "topic": "Sunum Kavramı",
             "explanation": "Sunum, en yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımıdır. Sunum sistemleri karmaşık elektronik sistemlerden basit dosyalara kadar geniş bir yelpazeyi kapsar.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 46,
@@ -938,7 +949,7 @@
             "topic": "Sergileme Tasarımında Anlatı",
             "explanation": "Sergileme tasarımında anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Anlatı, üzerinde çalışılması ve bir kompozisyon kaleme alır gibi planlanması gereken içeriktir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 47,
@@ -978,7 +989,7 @@
             "topic": "Portfolyo Sistemi",
             "explanation": "Portfolyo, sanat ve tasarım alanlarında sahibinin alandaki yetkinliğini ispatlayan bir tür belgedir. Sunum sistemleri gibi genel gösterim araçlarıdır ancak eserlerin veya ürünlerin kendisi yerine, o işlerin çıktılarının (eser, proje çizimleri, vb.) bir sistem dahilinde sunumudur.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 49,
@@ -1038,7 +1049,7 @@
             "topic": "Kurum Kimliği Yapıları",
             "explanation": "Ünite 6'da, Kurum Kimliği Yapıları başlığı altında, \"Monolitik kimlik: Kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıdır.\" şeklinde tanımlanmıştır. Bu tanım, verilen soru ifadesiyle birebir örtüşmektedir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 52,
@@ -1078,7 +1089,7 @@
             "topic": "Kurum Kimliği Tanımı",
             "explanation": "Kurumun kültürü, değerleri, tutumları, ilkeleri, amacı ve tarihinden meydana gelen yapıya Kurumsal Felsefe denir. Kurumsal davranış ise kurumun felsefesi tarafından şekillendirilen sosyal, iletişim, dağıtım, ücret, finans, sunum/teklif ve her türlü sosyal davranışların toplamıdır (Kurumsal Davranış).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 54,
@@ -1178,7 +1189,7 @@
             "topic": "Model Kütüphaneleri",
             "explanation": "I. ve II. ifadeler Model Kütüphaneleri tanımını değil, Bileşen Kütüphaneleri tanımını (Ünite 3'te) tam olarak açıklamaktadır: Bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken, model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanır. III. ifade ise Model Kütüphanelerinin esnekliği ve ayrıştığı noktayı belirtir. Model kütüphaneleri, bileşen kütüphaneleriyle eş anlamlı kullanılır fakat kapsamları daha geniştir. Bu nedenle I ve II ifadeler Bileşen Kütüphanelerine aitken, III. ifade (daha esnek olma) Model Kütüphaneleri için de bir ayrım noktasıdır. Ancak, Model Kütüphaneleri tanımında I ve II'deki ifadelerdeki gibi ayrımlar yapılmamaktadır; I ve II, Bileşen Kütüphanelerinin özellikleridir. Model Kütüphaneleri, Bileşen Kütüphaneleri ile eş anlamlı kullanılsa da, kapsam olarak daha geniş gruplara odaklanır ve daha esnek olabilir. III. ifade model kütüphanelerinin esnekliğinden bahseder. I ve II ifadeleri ise Bileşen Kütüphaneleri tanımına daha uygundur. Ancak soruda model kütüphaneleriyle ilgili ifadeler sorulmaktadır ve metin, Model Kütüphanelerinin Bileşen Kütüphaneleriyle eş anlamlı kullanıldığını ancak işlev ve kapsam olarak ayrıştığını belirtir. I ve II, bileşen kütüphanelerinin özelliğini tanımlar. Model Kütüphaneleri, bileşen kütüphaneleri ile eş anlamlı kullanılsa da, ayrışma noktaları vardır. II. ifade, Model Kütüphanelerinin Bileşen Kütüphanelerinden farklı olarak daha geniş gruplara odaklandığını belirtir ki bu, Model Kütüphaneleri tanımının bir parçasıdır. I. ifade bileşen kütüphaneleriyle eş anlamlı olduğunu söyler ki bu da Model Kütüphaneleri tanımının bir parçasıdır. III. ifade ise esneklikten bahseder. I ve II ifadeleri doğru kabul edilirse cevap 1 ve 2 olur.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 59,
@@ -1240,7 +1251,8 @@
             "is_duplicate": true,
             "duplicate_of": 1,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 0.999436616897583
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 62,
@@ -1262,7 +1274,8 @@
             "is_duplicate": true,
             "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 63,
@@ -1282,9 +1295,8 @@
             "topic": "Seri Tasarım Tanımı",
             "explanation": "İfadelerin hepsi seri tasarım anlayışını doğru şekilde tanımlamaktadır. I. ve II. ifadeler seri tasarımın temel amacını (görsel bütünlük ve devamlılık sağlama) ve kararlarının markaya/kuruma bağlılığını belirtir. Seri tasarım yaklaşımının köklü bir markanın kimliğine aidiyet değeri katma ve hacmini genişletme katkısı vardır, dolayısıyla III. ifade ('yoktur' ifadesi nedeniyle) yanlıştır. Bu nedenle I ve II doğrudur.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 10,
-            "similarity_score": 0.9995976686477661
+            "occurrence_count": 0,
+            "duplicate_of": 10
         },
         {
             "id": 64,
@@ -1306,7 +1318,8 @@
             "is_duplicate": true,
             "duplicate_of": 17,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 65,
@@ -1346,9 +1359,9 @@
             "topic": "Tasarım Sistemi Tanımı",
             "explanation": "Ünite 8'de, tasarım sisteminin, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluşturarak fazlalığı azaltan ve tasarımı büyük ölçekte yönetmeye yarayan standartlar dizisi olduğu belirtilmiştir. Ayrıca bu sistemler esnek ve geliştirilebilir olmalıdır.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 48,
-            "similarity_score": 0.9874106049537659
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır, sadece ufak bir kelime farkı bulunmaktadır (\"tasarım materyallerinden\" vs. \"boyutta materyallerden\"). Şık setleri aynıdır ve doğru cevap (\"Portfolyo sistemi\") her iki soruda da aynıdır. Bu, kopyadır."
         },
         {
             "id": 67,
@@ -1447,8 +1460,10 @@
             "UniteNo": 6,
             "topic": "Kurum Kişiliği",
             "explanation": "Ünite 6'da, kurum davranışlarının kimliğe dönüşmesinde sistematik yapıların rol oynadığı belirtildikten sonra, \"Kurumlar ve kişiler birbiriyle kıyaslanabilir. Kurumlar da doğar, büyür, olgunlaşırlar. İnsanlardan farkları ise kendilerini sürekli yenileyebilmeleri ve uzun ömürlü olabilmeleridir. İnsanlar gibi kurumların da kişilik özellikleri vardır. Kurumları diğer kurumlardan farklılaştıran kimlikleri vardır. Kurum kimliğini belirleyen, kültürü, düşüncesi, tavır, davranışlarıdır ki bunlar görünüşüne yansır.\" denmektedir. Oluşturulan davranış biçimleri, kurum kimliğini belirleyen kültür, düşünce, tavır ve davranışların bir parçasıdır ve bunlar kurumun kimliğine yansır. Bu bağlamda en uygun terim 'Kurum Kimliği'dir (veya daha geniş anlamıyla kişilik).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "duplicate_of": 53,
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "occurrence_count": 0
         },
         {
             "id": 72,
@@ -1487,7 +1502,6 @@
             "UniteNo": 6,
             "topic": "Kurum Kimliği İhtiyacı",
             "explanation": "Kurum kimliğini oluşturma/yenileme ihtiyaçları; yeni kurulmuş olma, yenilenme ihtiyacı, yeni ürün/hizmet eklenmesi, yönetim değişimi veya kurum evlilikleri gibi nedenlerden kaynaklanabilir. Slogan, logotayp gibi unsurlar ise Kurum Kimliği Bileşenleri veya Yapıları ile ilgilidir, bir ihtiyaç nedeni değildir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -1510,7 +1524,8 @@
             "is_duplicate": true,
             "duplicate_of": 54,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 75,
@@ -1530,9 +1545,9 @@
             "topic": "Model Kütüphaneleri",
             "explanation": "Model Kütüphaneleri, genellikle bileşen kütüphaneleri ile eş anlamlı kullanılır, ancak bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken, model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanır. Model kütüphanelerinin bileşen kütüphanelerinden ayrışan temel özelliği, daha geniş çaplı gruplara odaklanmasıdır; esnek olmaları ise bir ayrışma noktası değil, genel sistem özelliğidir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
+            "occurrence_count": 0,
             "duplicate_of": 58,
-            "similarity_score": 0.994588315486908
+            "duplication_reason": "İki sorunun metni, şıkları ve doğru cevap indeksi tamamen aynıdır. Soru 2'deki <br> etiketleri yalnızca biçimlendirme farkıdır, anlamsal bir fark oluşturmamaktadır."
         },
         {
             "id": 76,
@@ -1554,7 +1569,8 @@
             "is_duplicate": true,
             "duplicate_of": 56,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 77,
@@ -1616,7 +1632,8 @@
             "is_duplicate": true,
             "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 80,
@@ -1656,9 +1673,10 @@
             "topic": "Sistem Türleri",
             "explanation": "Ünite 1'de, Fiziksel/Soyut, Açık/Kapalı, Alt/Üst Sistem, Kalıcı/Geçici Sistem ve Doğal/Yapay Sistem türleri belirtilmiştir. Belirlenimci ve Olasılıkçı Sistemler de bahsedilmiştir. Ancak 'Web' veya 'Dijital' sistem türleri bu kategorizasyon içinde doğrudan bir sistem türü olarak listelenmemiştir (ancak Açık Sistemler ile ilgili kısımlarda dijital sistemlere değinilmiştir).",
             "is_duplicate": true,
-            "duplicate_of": 23,
+            "duplicate_of": 4,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 82,
@@ -1680,7 +1698,8 @@
             "is_duplicate": true,
             "duplicate_of": 5,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 83,
@@ -1699,10 +1718,10 @@
             "UniteNo": 5,
             "topic": "Dergi Kapağı Tasarımı",
             "explanation": "Ünite 5'te, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını derginin ilk sayısından itibaren Bülent Erkmen'in üstlendiği belirtilmiştir. İlk başta kolaj odaklıyken, daha sonra fotoğrafik bir anlayışa evrildiği bilgisi verilmiştir.",
-            "occurrence_count": 2,
             "is_duplicate": true,
-            "duplicate_of": 9,
-            "similarity_score": 0.9998905062675476
+            "duplicate_of": 30,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 84,
@@ -1722,9 +1741,10 @@
             "topic": "Grid Türleri",
             "explanation": "Ünite 3'te Asimetrik Grid, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi olarak tanımlanmıştır. Bu sistemde sayfalar birbirini yansıtmaz, kopyası olabilir ve karmaşık bilgiler içeren çoklu sayfa tasarımlarında tercih edilir.",
             "is_duplicate": true,
-            "duplicate_of": 32,
+            "duplicate_of": 13,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 85,
@@ -1744,9 +1764,10 @@
             "topic": "Tasarımcılar ve Standartlar",
             "explanation": "Ünite 2'de Penguin Books'un kapak kimliğine standart getiren kişinin Jan Tschichold olduğu ve onun 'Penguin Kompozisyon Kuralları'nı geliştirdiği belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 42,
+            "duplicate_of": 28,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 86,
@@ -1766,9 +1787,10 @@
             "topic": "Altın Oran",
             "explanation": "Ünite 3'te Altın Oran'ın, İsa'dan önce 5. yüzyılda Yunanlı mimarlar tarafından keşfedilen ve daha sonra Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı oran olduğu bilgisi verilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 62,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 87,
@@ -1787,8 +1809,10 @@
             "UniteNo": 4,
             "topic": "Harita Kavramı",
             "explanation": "Ünite 4'te haritaların temel amacının 'ilgili içeriği aktarmak' olduğu belirtilmiştir. Ayrıca haritaların sadece coğrafi özellikler göstermediği (bitki örtüsü, nüfus yoğunluğu gibi ek bilgiler de verilebildiği) ve haritanın, kullanıcılarıyla aktarmak istediği içeriğe paralel iletişim kurduğu ifade edilmiştir. Dolayısıyla II. önerme hatalıdır, I. ve III. önermeler doğrudur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Sorular aynı üç öncül metni kullanmaktadır (sadece III. öncülde önemsiz bir fiil çekimi farkı vardır). Her iki sorunun doğru cevabı da aynıdır (I ve III). Şıkların sırası ve bazı çeldiriciler farklı olsa da, temel olarak aynı içeriği, aynı bilgiyi sorgulayan, anlamsal açıdan kopyadırlar.",
+            "duplicate_of": 18
         },
         {
             "id": 88,
@@ -1810,7 +1834,8 @@
             "is_duplicate": true,
             "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 89,
@@ -1830,9 +1855,10 @@
             "topic": "Ölçek İlişkisi",
             "explanation": "Ünite 4'te ölçeğin genel olarak büyütme ve küçültme oranı olarak adlandırıldığı, harita bağlamında ise 'haritanın gerçek ölçüleri küçültme bilgisi anlamında' kullanıldığı belirtilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 64,
+            "duplicate_of": 17,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 90,
@@ -1871,10 +1897,10 @@
             "UniteNo": 5,
             "topic": "Sergileme Anlatısı",
             "explanation": "Ünite 5'te, Sergileme Tasarımında Anlatı başlığı altında, \"Anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır.\" şeklinde bir tanım verilmiştir. Bu, sergileme tasarımının temel mesaj aktarım aracıdır.",
-            "occurrence_count": 2,
+            "duplication_reason": "Semantic Similarity (0.97)",
             "is_duplicate": true,
             "duplicate_of": 46,
-            "similarity_score": 0.967129647731781
+            "occurrence_count": 0
         },
         {
             "id": 92,
@@ -1913,10 +1939,10 @@
             "UniteNo": 5,
             "topic": "Sunum Tanımı",
             "explanation": "Sunum, en yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımıdır. Bu, A4 kağıtlarından dijital ekranlara kadar farklı şekillerde olabilir.",
-            "occurrence_count": 2,
+            "duplication_reason": "Fuzzy Match (>90%)",
             "is_duplicate": true,
             "duplicate_of": 45,
-            "similarity_score": 0.9896194338798523
+            "occurrence_count": 0
         },
         {
             "id": 94,
@@ -1975,8 +2001,10 @@
             "UniteNo": 6,
             "topic": "Monolitik Kimlik",
             "explanation": "Kurumsal kimlik yapıları arasında Monolitik kimlik, kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıyla karakterize edilir. Bu, tüm alt birimlerin de aynı görsel kimliği kullanması anlamına gelir.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "is_duplicate": true,
+            "duplicate_of": 51,
+            "occurrence_count": 0
         },
         {
             "id": 97,
@@ -1998,7 +2026,8 @@
             "is_duplicate": true,
             "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 98,
@@ -2020,7 +2049,8 @@
             "is_duplicate": true,
             "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 99,
@@ -2040,9 +2070,10 @@
             "topic": "ISO Standardı",
             "explanation": "ISO 216 standardı, kâğıt ölçülerinde (A4 dahil) kullanılan uluslararası bir standarttır. Bu, tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan, evrensel bir renk dili olan Pantone renk sistemi ile birlikte sıklıkla karşılaştığı yaygın sistemlerden biridir.",
             "is_duplicate": true,
-            "duplicate_of": 79,
+            "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 100,
@@ -2082,9 +2113,10 @@
             "topic": "Sistem Türleri",
             "explanation": "Ünite 1'de belirtilen sistem türleri şunlardır: Fiziksel/Soyut, Açık/Kapalı, Alt/Üst Sistem, Kalıcı/Geçici Sistem, Doğal/Yapay Sistem, Belirlenimci/Olasılıkçı Sistemler. 'Hiyerarşik' sistem tür olarak listelenmemiştir; hiyerarşi bir sistemin özelliği olarak bahsedilmiştir (örn. Alt Sistem/Üst Sistem ilişkisi).",
             "is_duplicate": true,
-            "duplicate_of": 81,
+            "duplicate_of": 4,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 102,
@@ -2104,9 +2136,10 @@
             "topic": "Sembol ve İşaretler",
             "explanation": "Ünite 4'te belirtildiği üzere, piktogramlar sözle veya yazılı olarak anlatılabilecek unsurları görsel olarak sadece bir bakışta anlatır ve yabancı dillerde anlaşılmama sorununu ortadan kaldırarak kapsayıcı bir yeni dil yaratır. Piktogramlar, bir eşyayı, bir objeyi, bir yeri, bir işleyişi veya bir kavramı yalınlaştırarak görsel yolla temsil eden sembollerdir.",
             "is_duplicate": true,
-            "duplicate_of": 82,
+            "duplicate_of": 5,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 103,
@@ -2126,9 +2159,8 @@
             "topic": "Dergi Kapağı Tasarımı",
             "explanation": "Ünite 5'te, 'Dergi Kapağı Tasarımı' başlığı altında, 'Arredamento Dekorasyon' ve 'Arredamento Mimarlık' dergilerinin kapak tasarımlarını derginin ilk sayısından itibaren Bülent Erkmen'in üstlendiği belirtilmektedir. Ayrıca bu dergilerin farklı dönemlerde farklı görsel yaklaşımlar (kolaj ve fotoğrafik) benimsediği ifade edilmiştir.",
             "is_duplicate": true,
-            "occurrence_count": 1,
-            "duplicate_of": 9,
-            "similarity_score": 0.9997696876525879
+            "occurrence_count": 0,
+            "duplicate_of": 9
         },
         {
             "id": 104,
@@ -2148,9 +2180,10 @@
             "topic": "Grid Türleri",
             "explanation": "Ünite 3'te 'Asimetrik Grid' başlığı altında, çoklu sayfa tasarımlarında, karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimi olduğu belirtilmiştir. Bu sistemde sayfalar birbirini yansıtmaz, kopyası olabilir ve daha karmaşık bilgiler içeren tasarımlar için tercih edilir.",
             "is_duplicate": true,
-            "duplicate_of": 84,
+            "duplicate_of": 13,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 105,
@@ -2170,9 +2203,10 @@
             "topic": "Tasarımcılar ve Sistem",
             "explanation": "Ünite 2'de 'Penguin Books'un dünyaca tanınan kapak kimliğine bir standart getiren Jan Tschichold'tan bahsedilmektedir. Tschichold'un getirdiği standartlar, Penguin Kompozisyon Kuralları (Penguin Composition Rules) olarak bilinir ve kitapların boyutundan logo kullanımına kadar pek çok detayı içerir.",
             "is_duplicate": true,
-            "duplicate_of": 85,
+            "duplicate_of": 28,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 106,
@@ -2192,9 +2226,10 @@
             "topic": "Altın Oran",
             "explanation": "Ünite 3'te 'Altın Oran' başlığı altında, Yunanlı mimarların MÖ 5. yüzyılda form anlayışını dayandırdıkları orantının temel kurallarının, Atina'da bulunan ünlü Parthenon Tapınağı'nın ölçülerinin dayandırıldığı 'Altın Oran' olarak adlandırıldığı bilgisi verilmiştir.",
             "is_duplicate": true,
-            "duplicate_of": 86,
+            "duplicate_of": 12,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 107,
@@ -2213,8 +2248,10 @@
             "UniteNo": 4,
             "topic": "Haritaların Özellikleri",
             "explanation": "Ünite 4'teki 'Bir Sistem Olarak Harita' başlığı altında, haritaların renk, desen, doku, yazı, sembol, ölçek gibi bileşenlere sahip olduğu belirtilmiştir. I. Haritanın amacı ilgili içeriği aktarmaktır ifadesi doğrudur. II. Haritalarda yalnızca coğrafi özellikler gösterilebilir ifadesi yanlıştır; haritalar coğrafi formların yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgi de gösterebilir. III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar ifadesi doğrudur. Bu nedenle I ve III doğru, II yanlıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplication_reason": "Soruları oluşturan öncüller (I, II, III) anlamsal ve neredeyse birebir metinsel olarak aynıdır. Doğru cevap da her iki soruda da 'I, II ve III' olarak aynıdır. Şık listesindeki ufak farklılıklar (Yalnız III yerine II ve III seçeneğinin gelmesi) sorunun özünü değiştirmez.",
+            "duplicate_of": 87
         },
         {
             "id": 108,
@@ -2254,9 +2291,10 @@
             "topic": "Yönlendirme Sistemleri",
             "explanation": "Ünite 4'te 'Yönlendirme ve İşaretleme Tasarımının Tanımı' başlığı altında, tarihte ilk profesyonel yönlendirme ve işaretleme tasarımcısının Henry Beck olduğu ve onun Londra Metrosu için 1931'de harita hazırladığı belirtilmiştir. New York metrosu için sistemi geliştiren Massimo Vignelli'den de bahsedilmiştir. Dolayısıyla New York metrosu için sistemi geliştiren tasarımcı Massimo Vignelli'dir.",
             "is_duplicate": true,
-            "duplicate_of": 88,
+            "duplicate_of": 20,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 110,
@@ -2276,9 +2314,10 @@
             "topic": "Haritada Boyut İlişkisi",
             "explanation": "Ünite 4'te 'Haritada Boyut ve Ölçek İlişkisi' başlığı altında, ölçeğin genel olarak büyütme ve küçültme oranı olarak adlandırıldığı belirtilmiştir. Harita söz konusu olduğu için ölçek bilgisi, haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılır. Yani ölçek, haritada yansıtılacak alanın boyutunu belirleyen büyütme/küçültme oranıdır.",
             "is_duplicate": true,
-            "duplicate_of": 89,
+            "duplicate_of": 17,
             "original_source": "Ara Sınav 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 111,
@@ -2300,7 +2339,8 @@
             "is_duplicate": true,
             "duplicate_of": 90,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 112,
@@ -2320,9 +2360,10 @@
             "topic": "Sergilemede Anlatı Kavramı",
             "explanation": "Sergileme tasarımında anlatı, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır ve kompozisyon kaleme alır gibi planlanması gereken içeriktir. Metinde sergileme tasarımının anlatı odaklı olduğu ve bu anlatının iletilmesi istenen mesaj olduğu vurgulanmaktadır. (Ünite 5, Sayfa 4).",
             "is_duplicate": true,
-            "duplicate_of": 46,
+            "duplicate_of": 91,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.967129647731781
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 113,
@@ -2344,7 +2385,8 @@
             "is_duplicate": true,
             "duplicate_of": 92,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 114,
@@ -2364,9 +2406,10 @@
             "topic": "Sunum Sistemi Tanımı",
             "explanation": "En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli iletişim kanallarıyla aktarımı Sunum olarak tanımlanır. Metinde, sunumun en yalın biçimiyle bu şekilde tanımlandığı belirtilmektedir. (Ünite 5, Sayfa 3).",
             "is_duplicate": true,
-            "duplicate_of": 45,
+            "duplicate_of": 93,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 0.9896194338798523
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 115,
@@ -2388,7 +2431,8 @@
             "is_duplicate": true,
             "duplicate_of": 94,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 116,
@@ -2410,7 +2454,8 @@
             "is_duplicate": true,
             "duplicate_of": 95,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 117,
@@ -2432,7 +2477,8 @@
             "is_duplicate": true,
             "duplicate_of": 96,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 118,
@@ -2452,9 +2498,10 @@
             "topic": "Kurum Sembolleri",
             "explanation": "Kurumun adı, kimliği ve faaliyet alanını simgelemek için kullanılan, genellikle tipografik (yazı temelli) veya resimsel/soyut ögelerden oluşan temel eleman Kurum Sembolleri'dir (Amblem, Logo). Metinde, Kurum Kimliği Yapıları başlığı altında Amblem, Logo ve Slogan'ın kurumun kimliğini, değerlerini temsil eden en önemli ögeler olduğu belirtilir. Amblem-logo, tipografik olarak da oluşturulabilir. (Ünite 6, Sayfa 2).",
             "is_duplicate": true,
-            "duplicate_of": 97,
+            "duplicate_of": 49,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 119,
@@ -2474,9 +2521,10 @@
             "topic": "Bileşen Kütüphaneleri",
             "explanation": "Stil rehberinden sonra gelen ve tasarım sisteminin en sık ilişki kurulan bileşenleri olan kütüphaneler, butonlar, menü öğeleri gibi küçük görsel elemanların nasıl göründüğü, davrandığı ve kodlandığı bilgileri sistemleştirir. Metinde, Bileşen kütüphaneleri'nin stil rehberinin bir sonraki adımı olduğu ve küçük görsel elemanlara odaklandığı belirtilmektedir. (Ünite 8, Sayfa 2).",
             "is_duplicate": true,
-            "duplicate_of": 98,
+            "duplicate_of": 59,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 120,
@@ -2496,9 +2544,10 @@
             "topic": "Uluslararası Kâğıt Ölçüleri",
             "explanation": "ISO (International Organization for Standardization) tarafından belirlenen ve A4 sayfa ölçüsünün de dâhil olduğu ISO216 standardı, dünyanın pek çok ülkesinde kullanılmakta olan evrensel bir kâğıt ölçüsü sistemidir. Bu, tasarımcıların uluslararası standartlara uyum sağlamasına yardımcı olur. (Ünite 1, Sayfa 1).",
             "is_duplicate": true,
-            "duplicate_of": 99,
+            "duplicate_of": 57,
             "original_source": "Dönem Sonu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 121,
@@ -2520,7 +2569,8 @@
             "is_duplicate": true,
             "duplicate_of": 100,
             "original_source": "Yaz Okulu 2023-2024",
-            "similarity_score": 1.0
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         }
     ]
 }

@@ -1,17 +1,32 @@
 # Eğitici İçerik Tasarımı - Çıkmış Sorular
 
+## Ünite 0
+
+### İptal Edilmiş Soru
+
+1. Aşağıdakilerden hangisi ihtiyaç belirlenirken izlenen adımlardan biri değildir? *(2 kez soruldu)*
+    - A-) Amaçlar ile var olan durum arasındaki tutarsızlıkları belirlemek ve analiz etmek
+    - **Cevap B-) İhtiyaç belirleme sürecinde görev alacak kişileri seçme**
+    - C-) Amaçlar oluşturmak ve onları önem derecesine göre sıralamak
+    - D-) Tutarsızlıkları öncelik sırasına dizmek
+    - E-) Her amacın var olan durumunu ya da var olan koşullarını belirlemek
+
+    > **Açıklama:** Bu soru iptal edilmiştir ve değerlendirmeye alınmamıştır.
+
+    <hr />
+
 ## Ünite 1
 
-### İhtiyaç Analizi Aşamaları
+### Stratejik Planlama Modeli
 
-1. Ayrıştırma, tanımlama, sıralama, bulguların yorumu gibi işlemlerin gerçekleştirildiği ihtiyaç analizi aşaması aşağıdakilerden hangisidir?
-    - A-) Sonuçların analizi
-    - B-) Bilgi toplama
-    - C-) Hazırlık
-    - **Cevap D-) Bilgilerin analizi**
-    - E-) Analiz
+1. Stratejik planlarının geliştirilmesi için, iç ve dış çevrenin analizinde kullanılan sistematik model aşağıdakilerden hangisidir?
+    - **Cevap A-) SWOT analizi**
+    - B-) İhtiyaç analizi
+    - C-) Program tasarımı
+    - D-) Betimsel analiz
+    - E-) Analitik analiz
 
-    > **Açıklama:** İhtiyaç analizi aşamaları; hazırlık, bilgi toplama, bilgilerin analizi ve sonuçların analizi olmak üzere dört aşamadan oluşur. Soruda bahsedilen 'ayrıştırma, tanımlama, sıralama, bulguların yorumu' işlemleri, toplanan veri ve bilgilerin analiz edildiği 'Bilgilerin analizi' aşamasında gerçekleştirilir.
+    > **Açıklama:** Stratejik planlama sürecinde, mevcut durumu ve gelecekteki hedefleri belirlemek için sistematik analiz yöntemleri kullanılır. SWOT analizi (Güçlü Yönler, Zayıf Yönler, Fırsatlar, Tehditler), bir kurumun veya programın iç çevresini (Güçlü ve Zayıf Yönler) ve dış çevresini (Fırsatlar ve Tehditler) analiz etmek ve bu bağlamda stratejik kararlar almak için kullanılan en yaygın sistematik modeldir. İhtiyaç analizi, eğitim amaçlarının belirlenmesi ve gerçekleşmesi için var olan durum ile ideal durum arasındaki farkı tespit etme sürecidir; ancak SWOT, bu sürecin bir parçası olarak çevresel faktörleri analiz eden özelleşmiş sistematik bir modeldir.
 
     <hr />
 
@@ -28,22 +43,9 @@
 
     <hr />
 
-### İhtiyaç Belirleme Adımları
-
-1. Aşağıdakilerden hangisi ihtiyaç belirlenirken izlenen adımlardan biri değildir? *(2 kez soruldu)*
-    - A-) Amaçlar ile var olan durum arasındaki tutarsızlıkları belirlemek ve analiz etmek
-    - **Cevap B-) İhtiyaç belirleme sürecinde görev alacak kişileri seçme**
-    - C-) Amaçlar oluşturmak ve onları önem derecesine göre sıralamak
-    - D-) Tutarsızlıkları öncelik sırasına dizmek
-    - E-) Her amacın var olan durumunu ya da var olan koşullarını belirlemek
-
-    > **Açıklama:** İhtiyaç belirleme genellikle dört adımdan oluşur: Amaçları oluşturma ve önem sırasına dizme, her amacın var olan durumunu belirleme, amaçlar ile var olan durum arasındaki tutarsızlıkları belirleme ve analiz etme, ve tutarsızlıkları öncelik sırasına dizme. Soru kökünde belirtilen 'İhtiyaç belirleme sürecinde görev alacak kişileri seçme' (veya hazırlık aşamasında kaynakları belirleme) ihtiyacın belirlenmesi adımlarından biri değil, ihtiyaç analizi sürecinin genel hazırlık aşamalarından biridir (Aşama 1).
-
-    <hr />
-
 ### İhtiyaç Belirleme Teknikleri
 
-1. Çalışanların davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci aşağıdaki ihtiyaç belirleme tekniklerinden hangisi ile gerçekleştirilir? *(2 kez soruldu)*
+1. Çalışanların davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci aşağıdaki ihtiyaç belirleme tekniklerinden hangisi ile gerçekleştirilir? *(4 kez soruldu)*
     - A-) Gözlem tekniği
     - **Cevap B-) Meslek (İş) Analizi**
     - C-) Görüşme tekniği
@@ -107,7 +109,7 @@
 
 ### Öğrenme Stratejileri
 
-1. Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı hale getirilmesi aşağıdaki öğrenme stratejilerinden hangisi ile açıklanır? *(2 kez soruldu)*
+1. Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı hale getirilmesi aşağıdaki öğrenme stratejilerinden hangisi ile açıklanır? *(3 kez soruldu)*
     - A-) Buluş yoluyla öğretim
     - B-) Gözden geçirme
     - **Cevap C-) Anlamlandırma**
@@ -141,16 +143,16 @@
 
     <hr />
 
-### İçerik Seçimi Stratejileri
+### İçerik Türleri
 
-1. Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı hale getirilmesi öğrenme stratejilerinden hangisi ile açıklanır?
-    - A-) Buluş yoluyla öğretim
-    - B-) Gözden geçirme
-    - C-) Tekrar
-    - **Cevap D-) Anadillendirme**
-    - E-) Örgütleme
+1. Aşağıdakilerden hangisi normatif içerikte yanıt aranan sorulardan biri değildir? *(2 kez soruldu)*
+    - A-) Nasıl olmalıydı?
+    - B-) Tekrar olur mu?
+    - C-) İyi mi, yoksa kötü mü oldu?
+    - **Cevap D-) Ne oldu?**
+    - E-) Neden oldu?
 
-    > **Açıklama:** Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı duruma getirilmesi, 'İçeriğin geçmiş yaşantılarla ilişkilendirilmesi' ilkesi ile açıklanır. Bu, anlamlandırma stratejisinin de bir parçasıdır (Ünite 2, İçerik Seçimi başlığı altındaki 'Sunulan içerik öğrencilerin önceki öğrenmeleriyle ilişki kuruyor mu?' ve Ünite 3, Anlamlandırma Stratejileri başlığı altında).
+    > **Açıklama:** Normatif içerik değer yargılarından, normlardan ve standartlardan oluşur ve insanların nasıl hareket etmesi gerektiğini açıklar. Normatif içerikte 'nasıl, neden oldu, iyi mi oldu, kötü mü oldu, nasıl olsa daha iyi olurdu' gibi yorumlamaya açık sorulara yanıt aranır. 'Ne oldu, ne zaman oldu, nerede oldu, kim yaptı' gibi sorulara yanıt aranan içerik türü ise Betimsel içeriktir. (Sayfa 1)
 
     <hr />
 
@@ -197,7 +199,7 @@
 
 ### Klasik Koşullanma İlkeleri
 
-1. Koşullanmış uyaranın olmadığı bir ortamda öğrenilmiş tepkilerin zaman içinde azalması durumu aşağıdaki ilkelerden hangisi ile açıklanır? *(3 kez soruldu)*
+1. Koşullanmış uyaranın olmadığı bir ortamda öğrenilmiş tepkilerin zaman içinde azalması durumu aşağıdaki ilkelerden hangisi ile açıklanır? *(4 kez soruldu)*
     - A-) Habercilik-Bilgilendiricilik
     - B-) Kendiliğinden Geri Gelme
     - **Cevap C-) Sönme**
@@ -450,6 +452,19 @@
 
     <hr />
 
+### Yapılandırmacılık Türleri
+
+1. Öğrenmenin, insanların birbirleriyle, farklı kültürel unsurlarla ve genel olarak toplumla etkileşime girdiğinde geliştiği görüşünü ileri süren yapılandırmacılık türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Bilişsel yapılandırmacılık
+    - B-) Radikal yapılandırmacılık
+    - C-) Bireysel yapılandırmacılık
+    - D-) Dilsel yapılandırmacılık
+    - **Cevap E-) Sosyal yapılandırmacılık**
+
+    > **Açıklama:** Sosyal yapılandırmacılık, öğrenmenin iş birliğine dayalı doğasına odaklanır ve insanların birbirleriyle etkileşim içinde öğrenmesini, bilgi inşa etmesini temel alır. (Sayfa 2)
+
+    <hr />
+
 ### e-Öğrenme İyi Uygulamaları
 
 1. Chickering ve Ehrmann'a (1996) göre, e-öğrenmede teknoloji yardımıyla oluşturulan iyi uygulamalar ve içerikler aşağıdaki hangi çıktıyı sağlamaz?
@@ -506,7 +521,7 @@
 
 ### Yaratıcı Düşünme Süreçleri
 
-1. Hermann'ın Yaratıcı Sorun Çözme Modeli altı değişik zihinsel düşünme becerisiyle ilişkilidir. Bu becerileri altı meslek grubu temsil eder. \_\_\_\_\_ alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma özelliğiyle yaratıcı problem çözme sürecini temsil eder. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Hermann'ın Yaratıcı Sorun Çözme Modeli altı değişik zihinsel düşünme becerisiyle ilişkilidir. Bu becerileri altı meslek grubu temsil eder. \_\_\_\_\_ alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma özelliğiyle yaratıcı problem çözme sürecini temsil eder. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - A-) kaşif
     - B-) polis
     - C-) dedektif
@@ -519,7 +534,7 @@
 
 ### Yaratıcı Süreç Tanımı
 
-1. I. Bireysel bir süreçtir. II. Kültürel bir süreçtir. III. Kişilik özelliklerinin birleşimidir. IV. İnsanın varlığını ortaya çıkarma sürecidir. Yaratıcı süreç ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
+1. I. Bireysel bir süreçtir. II. Kültürel bir süreçtir. III. Kişilik özelliklerinin birleşimidir. IV. İnsanın varlığını ortaya çıkarma sürecidir. Yaratıcı süreç ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur? *(3 kez soruldu)*
     - A-) Yalnız III
     - B-) I ve II
     - C-) III ve IV
@@ -623,9 +638,22 @@
 
     <hr />
 
+### Yapılandırmacılık Türleri
+
+1. Ayrıştırma, tanımlama, sıralama, bulguların yorumu gibi işlemlerin gerçekleştirildiği ihtiyaç analizi aşaması aşağıdakilerden hangisidir?
+    - A-) Sonuçların analizi
+    - B-) Bilgi toplama
+    - C-) Hazırlık
+    - **Cevap D-) Bilgilerin analizi**
+    - E-) Analiz
+
+    > **Açıklama:** Yapılandırmacı kuram, bilişsel, sosyal ve radikal yapılandırmacılık olmak üzere üç farklı yaklaşıma sahiptir. Ünite 7’deki bilgilere göre, “Sosyal yapılandırmacılık öğrenmenin iş birliğine dayalı doğasına odaklanır.” Öğrenmenin insanlar arası etkileşimle, iş birliğiyle, kültürel unsurlarla ve toplumla etkileşime girerek geliştiğini savunan yaklaşım Sosyal yapılandırmacılıktır. Bilişsel yapılandırmacılık, öğrencinin bilişsel gelişim aşamasıyla ilişkili olmasına odaklanırken, Radikal yapılandırmacılık ise bilginin birey tarafından inşa edildiği ve dış dünya hakkında kesin bir şey söylemediği fikrine odaklanır.
+
+    <hr />
+
 ### İçerik Seçim İlkeleri
 
-1. Aşağıdakilerden hangisi içeriğin aktarılabilirlik ve uygunluk ilkesini ifade eder?
+1. Aşağıdakilerden hangisi içeriğin aktarılabilirlik ve uygunluk ilkesini ifade eder? *(3 kez soruldu)*
     - A-) İçeriğin verimli olmasıdır.
     - B-) İçeriğin yapısında bulunan bilgilerin tutarlı olmasıdır.
     - **Cevap C-) Hitap edilen kitlenin hazır bulunuşluk düzeyiyle uyumlu olmasıdır.**
@@ -653,7 +681,7 @@
 
 ### Geçerlik Türleri
 
-1. Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili konudaki uzmanların görüşlerini almaktır. Yukarıdaki paragrafta anlatılan geçerlilik türü aşağıdakilerden hangisidir?
+1. Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili konudaki uzmanların görüşlerini almaktır. Yukarıdaki paragrafta anlatılan geçerlilik türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - **Cevap A-) Görünüş geçerliği**
     - B-) Kapsam geçerliği
     - C-) Tutarlılık geçerliği
@@ -663,20 +691,10 @@
     > **Açıklama:** Ünite 8'de, Geçerlik başlığı altında, 'Görünüş Geçerliği' şu şekilde tanımlanmıştır: 'Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili konudaki uzmanların görüşlerini almaktır.' Bu tanım A şıkkı ile birebir örtüşmektedir.
 
     <hr />
-1. Mert öğretmen sosyal bilgiler dersinde Türkiye'nin 7 coğrafi bölgesindeki ekonomik ve sosyal yaşamı derslerde işlemiştir. Öte yandan sınavda yalnızca Güneydoğu Anadolu bölgesi ile ilgili sorular sormuştur. Yukarıdaki anlatılanlara göre, Mert öğretmen aşağıdakilerden hangisini uygulamamıştır? *(2 kez soruldu)*
-    - A-) Yapı geçerliği
-    - **Cevap B-) Görünüş geçerliği**
-    - C-) Yordama geçerliği
-    - D-) Eşzaman geçerliği
-    - E-) Kapsam geçerliği
-
-    > **Açıklama:** Mert öğretmen, dersin genel içeriğini (7 coğrafi bölge) kapsayacak şekilde konuyu işlediği halde, sınavda sadece bir bölgeye odaklanmıştır (Güneydoğu Anadolu). Bu durum, ölçme aracının (sınavın) ölçmeyi amaçladığı tüm içeriği (7 bölge) yeterince temsil etmediğini gösterir. Bu, ölçme araçlarının kapsayıcılığı ile ilgilidir ve Kapsam Geçerliği'nin eksik olduğunu gösterir. Ancak, soruda 'uygulamamıştır' denilen şık, şıklardan birini işaretlemeyi gerektirmektedir. Görünüş Geçerliği (B şıkkı) ise aracın ne ölçtüğüyle ilgili uzman görüşüne dayanır. Kapsam Geçerliği (E şıkkı), ölçülen nitelikleri ne kadar kapsadığı ile ilgilidir ve burada içerik kapsanmamıştır. Soruda işaretlenmesi istenen şık B seçeneğidir (Görünüş Geçerliği). Görünüş Geçerliği, aracın ne ölçtüğüyle ilgili uzman görüşü alınarak belirlenir. Mert Öğretmen'in yaptığı durum (içeriğin daraltılması) Kapsam Geçerliği ile daha doğrudan ilgilidir, ancak verilen doğru şık B olduğu için, açıklamayı B'ye göre gerekçelendirelim: Görünüş geçerliği, ölçme aracının uzmanlara göre neyi ölçtüğünün doğru görünmesiyle ilgilidir. Sınavın sadece bir bölgeye odaklanması, içeriğin kapsamını tam yansıtmaması anlamına gelirken, soruda işaretlenmesi istenen şık Görünüş Geçerliği'dir. Görünüş geçerliği, aracın ne ölçtüğüyle ilgili algıyı yönetir. Bu durumda, sınavın içeriği 'kapsam' açısından eksik olsa da, işaretlenen şıkkı esas almalıyız.
-
-    <hr />
 
 ### Geçerlik Türleri: Kapsam
 
-1. Mert öğretmen sosyal bilgiler dersinde Türkiye'nin 7 coğrafi bölgesindeki ekonomik ve sosyal yaşamı derslerde işlemiştir. Öte yandan sınavda yalnızca Güneydoğu Anadolu bölgesi ile ilgili sorular sormuştur. Yukarıdaki anlatılanlara göre, Mert öğretmen aşağıdakilerden hangisini uygulamamıştır?
+1. Mert öğretmen sosyal bilgiler dersinde Türkiye'nin 7 coğrafi bölgesindeki ekonomik ve sosyal yaşamı derslerde işlemiştir. Öte yandan sınavda yalnızca Güneydoğu Anadolu bölgesi ile ilgili sorular sormuştur. Yukarıdaki anlatılanlara göre, Mert öğretmen aşağıdakilerden hangisini uygulamamıştır? *(3 kez soruldu)*
     - A-) Eşzaman geçerliği
     - **Cevap B-) Kapsam geçerliği**
     - C-) Görünüş geçerliği
@@ -765,13 +783,16 @@
 
     <hr />
 
-## Ünite Diğer
+### İhtiyaç Analizi Bileşenleri
 
-1. Stratejik planlarının geliştirilmesi için, iç ve dış çevrenin analizinde kullanılan sistematik model aşağıdakilerden hangisidir?
-    - **Cevap A-) SWOT analizi**
-    - B-) İhtiyaç analizi
-    - C-) Program tasarımı
-    - D-) Betimsel analiz
-    - E-) Analitik analiz
+1. Aşağıdakilerin hangisinde SWOT analizinin açılımı sırasıyla ve doğru olarak verilmiştir? *(4 kez soruldu)*
+    - **Cevap A-) Güçlü yönler, zayıf yönler, fırsatlar, tehditler**
+    - B-) Zayıf yönler, güçlü yönler, fırsatlar, gerçekler
+    - C-) Beklentiler, tehditler, güçlü yönler, zayıf yönler
+    - D-) Tehditler, fırsatlar, zayıf yönler, gereklilikler
+    - E-) Güçlü yönler, fırsatlar, tehditler, olumlu yönler
+
+    > **Açıklama:** Metinde SWOT analizinin açılımı veya bu analize doğrudan atıf bulunmamaktadır. Ancak ihtiyaç belirlemenin dört bileşeni/adımı şu şekildedir: Amaçları oluşturma ve sıralama, var olan durumu belirleme, tutarsızlıkları belirleme ve analiz etme, tutarsızlıkları öncelik sırasına dizme. (Sayfa 1)
+
     <hr />
 

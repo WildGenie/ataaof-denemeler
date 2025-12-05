@@ -434,7 +434,6 @@
             "UniteNo": 2,
             "topic": "Katı Modelleme Yöntemi",
             "explanation": "Ünite 2'de katı modellemenin tanımı yapılırken, bu modellerin mekanik parçalar, mimari yapılar ve tüketici ürünleri gibi tanımlanmış boyutlara ve fiziksel özelliklere sahip objelerin temsili için uygun olduğu belirtilmiştir. CSG sistemlerinin başlangıçta kullanıldığı ancak zamanla B-rep sisteminin daha yaygın hâle geldiği de not edilmiştir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {

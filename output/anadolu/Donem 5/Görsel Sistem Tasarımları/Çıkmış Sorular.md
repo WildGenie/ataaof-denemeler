@@ -2,6 +2,19 @@
 
 ## Ünite 1
 
+### Kompleksite
+
+1. -----, bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+    - **Cevap A-) Kompleksite**
+    - B-) Kompozisyon
+    - C-) Açık sistemler
+    - D-) ISO 247
+    - E-) Yaratıcı düşünce
+
+    > **Açıklama:** Soru metninde tanımı verilen kavram Kompleksite'dir. Ünite 1'deki metinlerde bu kavram, “bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı” olarak nitelendirilmektedir. Kompleksite, sistemlerin karmaşık yapısını çözmede görsel düşünme biçimlerinin önemini ortaya koyar ve sistemler arası yoğun ilişkileri ifade eder. Doğru cevap A şıkkıdır.
+
+    <hr />
+
 ### Modüler Sistemler
 
 1. Seri üretimin standartlaşan üretim bandı biçiminde kişiye özel müdahalelere olanak veren, kişiye veya ürüne özel müdahalelere olanak sağlayan yapı bloklarından oluşan sistemlere ne ad verilir?
@@ -97,7 +110,7 @@
 
 ### Dergi Kapak Tasarımı
 
-1. Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısını Şubat 1989 yılında yayımlanan (önce Arredamento Dekorasyon, 1989'dan itibaren ise Arredamento Mimarlık) dergilerin kapak tasarımlarını üstlenen ünlü grafik tasarımcı aşağıdakilerden hangisidir?
+1. Editörlüğünü Uğur Tanyeli'nin yaptığı ve ilk sayısını Şubat 1989 yılında yayımlanan (önce Arredamento Dekorasyon, 1989'dan itibaren ise Arredamento Mimarlık) dergilerin kapak tasarımlarını üstlenen ünlü grafik tasarımcı aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - **Cevap A-) Bülent Erkmen**
     - B-) Esen Karol
     - C-) Yeşim Demir
@@ -147,9 +160,22 @@
 
     <hr />
 
+### Penguin Kitap Kimliği
+
+1. Penguin Books'un dünyaca tanınan kapak kimliğine ilk kez bir standart getiren İsviçreli tasarımcı aşağıdakilerden hangisidir? *(4 kez soruldu)*
+    - A-) Milton Glaser
+    - **Cevap B-) Jan Tschichold**
+    - C-) Paula Scher
+    - D-) Karel Martens
+    - E-) Wolfgang Weingart
+
+    > **Açıklama:** Ünite 2'de, Penguin Books'un dünyaca tanınan kapak kimliğine standart getiren İsviçreli tasarımcının Jan Tschichold olduğu ve onun 'Penguin Kompozisyon Kuralları'nı oluşturduğu bilgisi yer almaktadır.
+
+    <hr />
+
 ### Seri Tasarım Tanımı
 
-1. I. Seri tasarım anlayışı, bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar. Bu metot, tüketici alışkanlıkları açısından olumlu bir hamledir.<br />II. Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markasına, ait olduğu kuruma ve içeriğine bağlıdır.<br />III. Seri tasarım yaklaşımının köklü bir markanın yerleşmiş olan kimliğine aidiyet değeri katmada katkısı yoktur.<br />Seri tasarım ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
+1. I. Seri tasarım anlayışı, bir markanın kimlik bütünlüğünü koruyup marka altında çıkan ürün gruplarının (veya serisinin) görsel tutarlılığını ve devamlılığını sağlar. Bu metot, tüketici alışkanlıkları açısından olumlu bir hamledir.<br />II. Seri tasarım mantığı doğrultusunda tasarımcının vereceği tüm kararlar, tasarımı yapılacak ürünün markasına, ait olduğu kuruma ve içeriğine bağlıdır.<br />III. Seri tasarım yaklaşımının köklü bir markanın yerleşmiş olan kimliğine aidiyet değeri katmada katkısı yoktur.<br />Seri tasarım ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur? *(2 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
@@ -288,7 +314,7 @@
 
 ### Model Kütüphaneleri
 
-1. I. Genellikle bileşen kütüphaneleri ile eş anlamlı olarak kullanılırlar fakat işlev ve kapsam olarak birbirlerinden ayrışırlar. II. Bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanırlar. III. Bileşen kütüphanelerinden ayrıştığı bir diğer nokta ise daha esnek olmalarıdır. Model Kütüphaneleri ile ilgili aşağıdaki ifadelerden hangisi/hangileri doğrudur?
+1. I. Genellikle bileşen kütüphaneleri ile eş anlamlı olarak kullanılırlar fakat işlev ve kapsam olarak birbirlerinden ayrışırlar. II. Bileşen kütüphaneleri butonlar, menü öğeleri gibi daha küçük görsel elemanlara odaklanırken model kütüphaneleri bu elemanların birlikte çalıştığı daha geniş çaplı gruplara ya da yerleşimlere odaklanırlar. III. Bileşen kütüphanelerinden ayrıştığı bir diğer nokta ise daha esnek olmalarıdır. Model Kütüphaneleri ile ilgili aşağıdaki ifadelerden hangisi/hangileri doğrudur? *(2 kez soruldu)*
     - A-) Yalnızca I
     - B-) Yalnızca II
     - C-) I ve II
@@ -368,7 +394,7 @@
 
 ### Harita Kavramı
 
-1. I. Haritanın temel amacı ilgili içeriği aktarmaktır.<br />II. Haritalarda yalnızca coğrafi özellikler gösterilebilir.<br />III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar.<br />Haritalarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
+1. I. Haritanın temel amacı ilgili içeriği aktarmaktır.<br />II. Haritalarda yalnızca coğrafi özellikler gösterilebilir.<br />III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar.<br />Haritalarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur? *(3 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
@@ -376,16 +402,6 @@
     - **Cevap E-) I ve III**
 
     > **Açıklama:** Haritalar, dünyaya ait bilgiyi aktaran yararlı ve işlevsel araçlardır. I. ifade doğrudur (İlgili içeriği aktarmak haritanın amacıdır). II. ifade yanlıştır; haritalar coğrafi özelliklerin yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgiyi de gösterebilir. III. ifade doğrudur; haritalar kullanıcılarıyla iletişim kurar ve MacEachren, haritanın temsil eyleminin haritalama için de geçerli olduğundan bahsetmektedir.
-
-    <hr />
-1. I. Haritanın temel amacı ilgili içeriği aktarmaktır.<br />II. Haritalarda yalnızca coğrafi özellikler gösterilebilir.<br />III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurar.
-    - A-) I ve II
-    - B-) Yalnız I
-    - C-) Yalnız III
-    - D-) I ve III
-    - **Cevap E-) I, II ve III**
-
-    > **Açıklama:** Ünite 4'te haritaların temel amacının 'ilgili içeriği aktarmak' olduğu belirtilmiştir. Ayrıca haritaların sadece coğrafi özellikler göstermediği (bitki örtüsü, nüfus yoğunluğu gibi ek bilgiler de verilebildiği) ve haritanın, kullanıcılarıyla aktarmak istediği içeriğe paralel iletişim kurduğu ifade edilmiştir. Dolayısıyla II. önerme hatalıdır, I. ve III. önermeler doğrudur.
 
     <hr />
 
@@ -412,19 +428,6 @@
     - E-) UX
 
     > **Açıklama:** Ölçek, genel olarak büyütme ve küçültme oranı olarak adlandırılır. Haritada ölçek bilgisi, haritanın gerçek ölçüleri küçültme bilgisi anlamında kullanılmaktadır.
-
-    <hr />
-
-### Haritaların Özellikleri
-
-1. I. Haritanın amacı ilgili içeriği aktarmaktır. II. Haritalarda yalnızca coğrafi özellikler gösterilebilir. III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar.
-    - A-) I. ve II.
-    - B-) Yalnız I.
-    - C-) II. ve III.
-    - D-) I. ve III.
-    - **Cevap E-) I, II ve III.**
-
-    > **Açıklama:** Ünite 4'teki 'Bir Sistem Olarak Harita' başlığı altında, haritaların renk, desen, doku, yazı, sembol, ölçek gibi bileşenlere sahip olduğu belirtilmiştir. I. Haritanın amacı ilgili içeriği aktarmaktır ifadesi doğrudur. II. Haritalarda yalnızca coğrafi özellikler gösterilebilir ifadesi yanlıştır; haritalar coğrafi formların yanı sıra bitki örtüsü, nüfus yoğunluğu gibi pek çok ilave bilgi de gösterebilir. III. Haritalar kullanıcılarıyla aktarmak istedikleri içeriklerine paralel biçimde iletişim kurarlar ifadesi doğrudur. Bu nedenle I ve III doğru, II yanlıştır.
 
     <hr />
 
@@ -536,7 +539,7 @@
 
 ### Sergileme Tasarımında Anlatı
 
-1. Sergileme tasarımında -----, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Üzerinde çalışılması ve bu kompozisyon kaleme alır gibi planlanması gereken içeriktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Sergileme tasarımında -----, kavramsal, sanatsal ya da ticari düzlemde izleyiciye iletilmesi istenen mesajdır. Üzerinde çalışılması ve bu kompozisyon kaleme alır gibi planlanması gereken içeriktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - **Cevap A-) anlatı**
     - B-) portfolyo
     - C-) iç mimari
@@ -549,7 +552,7 @@
 
 ### Sunum Kavramı
 
-1. En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli kanallarıyla aktarımına ne ad verilir?
+1. En yalın biçimiyle bir eser, ürün ya da fikrin izleyiciye/kullanıcıya çeşitli kanallarıyla aktarımına ne ad verilir? *(3 kez soruldu)*
     - A-) Etkinlik
     - B-) PowerPoint
     - C-) Ekran
@@ -590,7 +593,7 @@
 
 ### Kurum Kimliği Tanımı
 
-1. Kurumun oluşturduğu davranış biçimleri, ortak değerleri, inançları ve geleneklerine ne ad verilir?
+1. Kurumun oluşturduğu davranış biçimleri, ortak değerleri, inançları ve geleneklerine ne ad verilir? *(2 kez soruldu)*
     - A-) Kurum kimliği
     - B-) Kurumsal işleyiş
     - C-) Kurum logosu
@@ -613,7 +616,7 @@
     > **Açıklama:** Kurum kimliği yapıları içerisinde, tipografik elemanlar, özellikle kurumun adı olan, kurumsal iletişimin temel öğelerinden biridir. Kurum Kimliği Yapıları başlığı altında, 'Marka kimliği'nin, bir kurumun aynı görsel yapıyı kullanmayan farklı markalara sahip olması durumu olduğu, 'Logotayp'ın ise kurum adının tipografik elemanlar üzerinden şekillendirilmesi olduğu belirtilir. Kurumsal yazı karakterleri başlığı altında, logonun da bir yazı karakteri ailesi kullanılarak oluşturulabileceği belirtilir. Ancak, genellikle kurumun adı, sembolü veya her ikisinin birlikte kullanıldığı, yazılı bir ifadeyi temsil eden eleman 'Logotayp'tır.
 
     <hr />
-1. Kurumun iletişiminde tek isim ve görsel karakter kullanan kimlik türü aşağıdakilerden hangisidir?
+1. Kurumun iletişiminde tek isim ve görsel karakter kullanan kimlik türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - **Cevap A-) Monolitik kimlik**
     - B-) Marka kimliği
     - C-) Desteklenmiş kimlik
@@ -647,19 +650,6 @@
 
     <hr />
 
-### Kurum Kişiliği
-
-1. Oluşturduğu davranış biçimleri, odak değerleri, inançları ve geleneklerine ne verilir?
-    - A-) Kurumsal işleyiş
-    - B-) Kurum logosu
-    - C-) Kurum kimliği
-    - **Cevap D-) Kurum kültürü**
-    - E-) Kurumsal ün
-
-    > **Açıklama:** Ünite 6'da, kurum davranışlarının kimliğe dönüşmesinde sistematik yapıların rol oynadığı belirtildikten sonra, "Kurumlar ve kişiler birbiriyle kıyaslanabilir. Kurumlar da doğar, büyür, olgunlaşırlar. İnsanlardan farkları ise kendilerini sürekli yenileyebilmeleri ve uzun ömürlü olabilmeleridir. İnsanlar gibi kurumların da kişilik özellikleri vardır. Kurumları diğer kurumlardan farklılaştıran kimlikleri vardır. Kurum kimliğini belirleyen, kültürü, düşüncesi, tavır, davranışlarıdır ki bunlar görünüşüne yansır." denmektedir. Oluşturulan davranış biçimleri, kurum kimliğini belirleyen kültür, düşünce, tavır ve davranışların bir parçasıdır ve bunlar kurumun kimliğine yansır. Bu bağlamda en uygun terim 'Kurum Kimliği'dir (veya daha geniş anlamıyla kişilik).
-
-    <hr />
-
 ### Kurumsal Kimlik Kavramı
 
 1. Bir kuruluşun kurum kültürü, kurum felsefesi gibi soyut niteliklerinin sistematik bir iletişimle görsel ve fiziksel davranışlara dönüşmesine ne ad verilir? *(2 kez soruldu)*
@@ -686,22 +676,9 @@
 
     <hr />
 
-### Monolitik Kimlik
-
-1. Kurumun tüm iletişiminde tek isim ve görsel karakter kullanılan kimlik türü aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Marka kimliği
-    - B-) Değişken kimlik
-    - C-) Desteklenmiş kimlik
-    - D-) Sürdürülebilir kimlik
-    - **Cevap E-) Monolitik kimlik**
-
-    > **Açıklama:** Kurumsal kimlik yapıları arasında Monolitik kimlik, kurumun tüm iletişiminde tek isim ve görsel karakter kullanmasıyla karakterize edilir. Bu, tüm alt birimlerin de aynı görsel kimliği kullanması anlamına gelir.
-
-    <hr />
-
 ### Portfolyo Sistemi
 
-1. Sunum ya da sunumlara yönelik önceden hazırlanmış, tek başına çalışan, esnek ve geliştirilebilme özelliği bulunan, farklı tasarım materyallerinden hazırlanmış yapılara ne ad verilir?
+1. Sunum ya da sunumlara yönelik önceden hazırlanmış, tek başına çalışan, esnek ve geliştirilebilme özelliği bulunan, farklı tasarım materyallerinden hazırlanmış yapılara ne ad verilir? *(2 kez soruldu)*
     - A-) Tasarım
     - B-) Kurumsal kimlik sistemi
     - C-) Grid sistemi
@@ -716,7 +693,7 @@
 
 ### Bilgi Panoları
 
-1. I. Bilgi panoları, çerçevesi çizilen ve konumlandırıldığı yere özel olarak hazırlanan tasarım ürünleridir.<br />II. Taşıdıkları içeriğin sınırları bellidir ve bu içeriğe göre görselleştirilir.<br />III. Bilgi panoları pek çok ortamda pek çok amaçla kullanılabilir.<br />IV. Bilgi panoları taşıdığı içeriğin kullanıcının anlayacağı şekilde görselleştirildiği bir iletişim mecrasıdır.<br />Bilgi panoları ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
+1. I. Bilgi panoları, çerçevesi çizilen ve konumlandırıldığı yere özel olarak hazırlanan tasarım ürünleridir.<br />II. Taşıdıkları içeriğin sınırları bellidir ve bu içeriğe göre görselleştirilir.<br />III. Bilgi panoları pek çok ortamda pek çok amaçla kullanılabilir.<br />IV. Bilgi panoları taşıdığı içeriğin kullanıcının anlayacağı şekilde görselleştirildiği bir iletişim mecrasıdır.<br />Bilgi panoları ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur? *(2 kez soruldu)*
     - A-) Yalnız I
     - B-) Yalnız IV
     - C-) I, II ve III
@@ -867,15 +844,5 @@
 
     > **Açıklama:** İnsan-Bilgisayar Etkileşimi (İBE), temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmek olan alandır. Bu çalışmalar, dijital arayüzlerin ve tasarım sistemlerinin geliştirilmesinin temelini oluşturur.
 
-    <hr />
-
-## Ünite Diğer
-
-1. -----, bir sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel, kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - **Cevap A-) Kompleksite**
-    - B-) Kompozisyon
-    - C-) Açık sistemler
-    - D-) ISO 247
-    - E-) Yaratıcı düşünce
     <hr />
 
