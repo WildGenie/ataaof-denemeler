@@ -1,0 +1,2849 @@
+{
+    "questions": [
+        {
+            "id": 1001,
+            "question": "Duyularla ilgili aşağıdaki tanımlardan hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Uyaran, organizmada duyusal veya davranışsal bir tepki ortaya çıkaran herhangi bir güç, nesne veya olaydır.",
+                "Reseptörler duyu organlarının yapısında bulunan uyaranları alıp beyne ileten özelleşmiş hücre, hücre grubu ve sinir yapılarıdır.",
+                "Serebral korteks, duyuların beyinde işlemlendiği ve anlamlandırıldığı bölümdür.",
+                "Merkezi sinir sistemi, sinir sisteminin beyin ve omurilik <u>haricindeki</u> kısmına verilen addır.",
+                "Çevresel sinir sistemi, merkezi sinir sistemi ile organlar arasındaki iletişimi sağlayan sinir sistemine verilen addır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Merkezi sinir sistemi (MSS), sinir sisteminin <b>beyin ve omurilikten</b> oluşan kısmıdır. Beyin ve omurilik haricindeki kısım Çevresel Sinir Sistemi'dir.",
+            "unit": 1,
+            "topic": "1.1. Duyularla Dolu Bir Yaşam - Temel Kavramlar",
+            "source": "AUZEF Vize Soruları",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1002,
+            "question": "Duyuların algılanması süreciyle ilgili hangisi <u>doğrudur</u>?",
+            "options": [
+                "Duyuların algılanması ve işlenmesi bir süreç içerisinde gerçekleşir.",
+                "Uyarılan reseptörler, uyarıyı beyindeki serebral kortekste bulunan duyu merkezine gönderilir.",
+                "Sonra duyu merkezi kendisine iletilen uyaranları algılayarak yorumlar.",
+                "Duyu reseptörleri, merkezi sinir sistemine vücudun içinden ve dışından bilgi veren özelleşmiş yapılardır.",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Duyuların algılanması süreciyle ilgili verilen tüm ifadeler doğrudur.",
+            "unit": 1,
+            "topic": "1.1. Duyularla Dolu Bir Yaşam - Temel Kavramlar",
+            "source": "AUZEF Vize Soruları",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1003,
+            "question": "Aşağıdakilerden hangisi <u>uyaranın türüne göre</u> reseptörler sınıflamasında <u>yer almaz</u>?",
+            "options": [
+                "Kimyasal reseptörler",
+                "Isı reseptörleri",
+                "His reseptörleri",
+                "Ağrı reseptörleri",
+                "Mekanik reseptörler"
+            ],
+            "correctIndex": 2,
+            "explanation": "Uyaranın türüne göre reseptörler; Kimyasal, Mekanik, Isı, Basınç, Işık ve Ağrı reseptörleridir. 'His reseptörleri' bu sınıflamada yer almaz.",
+            "unit": 1,
+            "topic": "1.1. Duyularla Dolu Bir Yaşam - Temel Kavramlar",
+            "source": "AUZEF Vize Soruları 2021-2022",
+            "sourceInfo": "Soru 3, 17"
+        },
+        {
+            "id": 1004,
+            "question": "Yenidoğan bir bebeğin çevreyi tanıması için kullandığı en <u>temel araç</u> hangisidir?",
+            "options": [
+                "Duyular",
+                "Oyunlar",
+                "Duygular",
+                "Aileler",
+                "Akranlar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Yenidoğan bir bebek, çevresini anlamak ve keşfetmek için <b>duyularını</b> kullanır. Duyular, bu dönemde çevreyle etkileşime geçme ve bilgi toplamanın temel yoludur.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -1",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1005,
+            "question": "Duyuların aktif biçimde kullanılmaya başladığı en <u>erken dönem</u> aşağıdakilerden hangisidir?",
+            "options": [
+                "Yetişkinlik yılları",
+                "Doğumla beraber",
+                "Doğum öncesi dönem",
+                "Bir yaş civarı",
+                "Üç yaş civarı"
+            ],
+            "correctIndex": 2,
+            "explanation": "Duyular, <b>doğum öncesi dönemden</b> (anne karnından) itibaren aktif biçimde kullanılmaya başlanmaktadır.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi / Duyu Gelişimi",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 15"
+        },
+        {
+            "id": 1006,
+            "question": "Aşağıdaki durumlardan hangisi duyuların kişinin <u>güvenliğini sağlayıcı</u> işlevini ortaya koymaktadır?",
+            "options": [
+                "Ortam ışığına odaklanmak",
+                "Bozuk gıdanın tadını ayırt etmek",
+                "Müzikal sesleri tanımak",
+                "Renklerine göre nesneleri eşleştirmek",
+                "Sayı ve renk kavramını pekiştirmek"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bozuk gıdanın tadını ayırt etmek, <b>tat duyusu</b> aracılığıyla vücudun zararlı olabilecek durumlardan korunması ve güvenliğin sağlanması işlevini gösterir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1007,
+            "question": "Bebekle geçirdiği zaman göz önünde bulundurulduğunda; bebeğin gelişiminin desteklenmesi açısından hangi birey daha büyük sorumluluğa sahiptir?",
+            "options": [
+                "Kardeş",
+                "Akran",
+                "Ebeveyn",
+                "Kreş öğretmeni",
+                "Özel eğitimci"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bebeğin gelişiminin desteklenmesi açısından en büyük sorumluluğa sahip olan birey, bebekle en çok zaman geçiren <b>Ebeveyndir</b>.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Final Sınavı Soruları 2021-2022",
+            "sourceInfo": "Soru 22"
+        },
+        {
+            "id": 1008,
+            "question": "Aşağıdakilerden hangisi çocukların potansiyel gelişim düzeylerine ulaşabilmesi için gerekli olan etmenlerden biri <u>değildir</u>?",
+            "options": [
+                "Ebeveynler ile yakın ilişki",
+                "Kaliteli ev ortamı",
+                "Gelişime uygun çeşitli materyallerin sağlanması",
+                "Oyun oynama, şarkı söyleme gibi etkinliklerin yapılması",
+                "Çocuğun kendiliğinden büyüyebilmesi için özgürlük tanınması"
+            ],
+            "correctIndex": 4,
+            "explanation": "Potansiyel gelişim için destekleyici ortam, materyal ve iletişim önemlidir. <b>Çocuğun kendiliğinden büyüyebilmesi için özgürlük tanınması</b>, yeterli destek sağlanmadan gelişim potansiyeline ulaşılması için tek başına yeterli değildir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -1",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1009,
+            "question": "Aşağıdakilerden hangisi duyulara yönelik imgelerden biri <u>değildir</u>?",
+            "options": [
+                "Ses",
+                "Koku",
+                "Titreşim",
+                "Hüzün",
+                "Sembol"
+            ],
+            "correctIndex": 3,
+            "explanation": "Ses, koku, titreşim ve sembol duyusal imgelerdir. <b>Hüzün</b> ise bir duygu durumu olup, doğrudan duyulara yönelik bir imge değildir.",
+            "unit": 1,
+            "topic": "1.1. Duyularla Dolu Bir Yaşam - Temel Kavramlar",
+            "source": "Vize Sınavı 2023-2024",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 1010,
+            "question": "Aşağıdaki kavramlardan hangisi duyu çalışmaları ile etkin bir şekilde <u>öğrenilemez</u>?",
+            "options": [
+                "Pürüzlü-pürüzsüz",
+                "Sağ-sol",
+                "Açık-koyu",
+                "Sıcak-soğuk",
+                "İnce-kalın"
+            ],
+            "correctIndex": 1,
+            "explanation": "Duyu çalışmaları pürüzlü-pürüzsüz, sıcak-soğuk, ince-kalın ve renk tonları (açık-koyu) gibi algısal özellikleri öğretir. Ancak <b>Sağ-sol</b> kavramı duyu çalışmaları ile etkin bir şekilde öğrenilemez.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 2"
+        },
+        {
+            "id": 1011,
+            "question": "Kişiler arası iletişimde belirli bir duruma yönelik tanımlamalar yaparken karşı tarafın anlatılan durumu duyusal olarak algılamasına yardımcı olmak amacıyla duyulara yönelik nasıl bir ifade biçimi kullanılabilir?",
+            "options": [
+                "Duyuların geri planda tutularak açıklanması",
+                "Sadece beden diline ağırlık verilmesi",
+                "Ses tonunu yükselterek açıklama yapılması",
+                "Durumu üstü kapalı cümlelerle açıklama",
+                "Duyulara yönelik <u>sıfatların</u> kullanılması"
+            ],
+            "correctIndex": 4,
+            "explanation": "Duyulara yönelik sıfatların kullanılması, karşı tarafın anlatılan durumu duyusal olarak daha iyi algılamasına yardımcı olur.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Vize",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1012,
+            "question": "Aşağıdakilerden hangisi duyusal sıkıntılar yaşayan çocuklar için yapılacak uygulamalardan biri <u>değildir</u>?",
+            "options": [
+                "İşitsel entegrasyon eğitimi",
+                "Duyusal kaçınma desteği",
+                "Duyu uyarım yöntemleri",
+                "Duyusal entegrasyon terapisi",
+                "Duyu-motor müdahale"
+            ],
+            "correctIndex": 1,
+            "explanation": "Duyusal entegrasyon terapisi, duyu uyarım yöntemleri ve duyu-motor müdahale birer destek uygulamasıdır. <b>Duyusal kaçınma desteği</b> ise bir müdahale değil, çocuğun gösterdiği bir tepki biçimidir.",
+            "unit": 1,
+            "topic": "1.2. Duyusal Destek",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 1013,
+            "question": "Aşağıdakilerden hangisi duyuların önemi kapsamına <u>girmez</u>?",
+            "options": [
+                "Nesneleri tanıma, algıyı geliştirme becerilerini geliştirir.",
+                "Zararlı olabilecek durumları fark etmeye olanak sağlar.",
+                "Gelişimin temelini oluşturur.",
+                "Fiziksel kondisyonu geliştirir.",
+                "Zihinsel yapılanmayı destekler."
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyular; algı, zihinsel yapılanma ve güvenlik için önemlidir. Ancak <b>Fiziksel kondisyonu geliştirme</b>, duyuların doğrudan işlevi olmaktan çok, fiziksel aktiviteye bağlıdır.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Preschool Sensory Education Final Exam",
+            "sourceInfo": "Soru 9"
+        },
+        {
+            "id": 1014,
+            "question": "6 aylık bir bebek, eline aldığı bir çıngırağı tekrar tekrar sallayarak çıkardığı sesi dinlemekten keyif aldığını göstermektedir. Bu bebekle ilgili aşağıdakilerden hangisi <u>söylenemez</u>?",
+            "options": [
+                "Ses çıkarmaya odaklanıyordur.",
+                "Dikkatini belirli bir duruma veriyordur.",
+                "Refleksif tepkiler veriyordur.",
+                "Duyularını kullanıyordur.",
+                "Amaca yönelik hareket ediyordur."
+            ],
+            "correctIndex": 2,
+            "explanation": "6 aylık bir bebek çıngırağı amaçlı olarak kullanıyorsa, bu refleksif tepkiden ziyade <b>amaca yönelik</b> bir harekettir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi / Duyu Gelişimi",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1015,
+            "question": "Okul bahçesinde oyun saati sürecince Furkan büyük oranda kum alanında oynamaktadır. Ellerini toprağın içerisinde gezdirir, bulduğu farklı dokudaki taşları incelemektedir. Taşları pürüzlü ve pürüzsüz olarak ayırmaktadır. Yukarıdaki duruma bakıldığında Furkan’ın hangi duyu özelliğinin baskın olduğu söylenebilir?",
+            "options": [
+                "Görme",
+                "Tatma",
+                "Dokunma",
+                "İşitme",
+                "Koklama"
+            ],
+            "correctIndex": 2,
+            "explanation": "Furkan’ın kum, toprak ve farklı dokudaki taşlarla ilgilenmesi, pürüzlü/pürüzsüz ayrımı yapması <b>Dokunma</b> (Taktil) duyusunun baskın olduğunu gösterir.",
+            "unit": 1,
+            "topic": "1.3. Duyusal Deneyim Etkinlikleri",
+            "source": "AUZEF Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1016,
+            "question": "Nesnelerle el ile dokunmadan hissetmek ve hareket ettirmek hangi tür dokunma olarak adlandırılır?",
+            "options": [
+                "Doğrudan dokunma",
+                "Etkin dokunma",
+                "Dolaylı dokunma",
+                "Aktif dokunma",
+                "Pasif dokuma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Nesnelere dokunmadan hissetme veya dil ile nesnelere dokunma <b>Pasif dokunma</b> şeklidir.",
+            "unit": 1,
+            "topic": "1.1. Duyularla Dolu Bir Yaşam - Temel Kavramlar",
+            "source": "AUZEF Vize Soruları",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 1017,
+            "question": "İki yaşındaki bir çocuk eline aldığı bir nesnenin en ilgi çekici özelliğine dikkatini yoğunlaştırmaktadır. Yukarıda verilen durumda bu çocuk algısal olarak aşağıdakilerden hangisini gerçekleştiriyordur?",
+            "options": [
+                "Ayırt etme",
+                "Tanıma",
+                "Seçicilik",
+                "Tanımlama",
+                "Dokunma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Çocuğun nesnenin sadece <b>en ilgi çekici</b> özelliğine dikkatini odaklaması, algısal süreçte <b>Seçicilik</b> yaptığını gösterir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi / Algısal Gelişim",
+            "source": "AUZEF Final Sorusu 2022-2023",
+            "sourceInfo": "Soru 12"
+        },
+        {
+            "id": 1018,
+            "question": "Aşağıdaki duyu çeşitleri arasından hangisi diğerlerine göre daha önce gelişmektedir?",
+            "options": [
+                "Dokunma",
+                "Koklama",
+                "Görme",
+                "Tat alma",
+                "İşitme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyu sistemleri arasında gelişimini <b>en erken</b> tamamlayan (anne karnında başlayan) duyu <b>Dokunma</b> duyusudur.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi / Duyu Gelişimi",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1019,
+            "question": "Hangi yaşlar anne, baba ya da bakıcının çocukla olumlu iletişim ve etkileşim içine girmesi ile hem zihinsel hem de kişilik yapısı olarak sağlıklı ve yaşamda başarılı bireyler yetişmesinde etkili yaş dönemidir?",
+            "options": [
+                "Beş-altı yaşlar",
+                "Ergenlik çağları",
+                "İlkokul dönemi",
+                "İlk üç yıl",
+                "Hiçbiri"
+            ],
+            "correctIndex": 3,
+            "explanation": "Yaşamın <b>ilk üç yılı</b>, ebeveyn veya bakıcının çocukla olumlu iletişim ve etkileşim kurarak sağlıklı gelişimini desteklemede etkili olan kritik yaş dönemidir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -1",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1020,
+            "question": "Eğitim alanındaki önemli düşünürlerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Comenius, erken çocuklukta en iyi öğrenmenin duyular yoluyla olduğunu savunmakadır.",
+                "Duyu temelli eğitime yönelik ünlü Resimli Dünya (Orbis Pictus) isimli ilk çalışma Comenius’a aittir.",
+                "Boş levha (tabula rasa) kavramı Comenius tarafından ortaya atılmıştır.",
+                "J.J. Rousseau, çocuğun her şeyi öğrenebilecek nitelikte doğduğunu savunmaktadır.",
+                "J.J. Rousseau, çocuğun keşfetme arzusunun duyuları yoluyla karşılandığını belirtmiştir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Boş levha (tabula rasa) kavramı Comenius tarafından değil, <b>John Locke</b> tarafından ortaya atılmıştır.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi - Tarihsel Temeller",
+            "source": "Vize Deneme Sınavı 2021-2022",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 1021,
+            "question": "Aşağıdakilerden hangisi duyu eğitiminde dikkate alınabilecek göstergelerden biri <u>değildir</u>?",
+            "options": [
+                "Sohbeti sürdürme",
+                "Ağzıyla ses çıkarma",
+                "Farklı tatları ayırt etme",
+                "Göz kontağı kurma",
+                "Isı değişimini algılama"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ağızla ses çıkarma, ısı değişimi, farklı tatları ayırt etme ve göz kontağı kurma duyusal göstergelerdir. Ancak <b>Sohbeti sürdürme</b>, daha çok dil ve iletişim gelişimi ile ilgilidir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1022,
+            "question": "Duyularla algılananların beyinde somut ve anlamlı hale gelme süreci ne olarak adlandırılmaktadır?",
+            "options": [
+                "Motivasyon",
+                "Duyarlılık",
+                "Hassasiyet",
+                "Duyu işlemleme",
+                "Öğrenme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyular aracılığıyla çevreden alınan bilgilerin beyinde organize edilerek somut ve anlamlı hale gelmesi sürecine <b>Duyu işlemleme</b> adı verilir.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar ve Duyusal İşlemleme Becerisi",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 1"
+        },
+        {
+            "id": 1023,
+            "question": "Duyulardan elde edilen bilgiler beynin hangi kısmında birleşmektedir?",
+            "options": [
+                "Frontal lob",
+                "Serebellum",
+                "Oksipital lob",
+                "Parietal lob",
+                "Temporal lob"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyulardan gelen bilgiler (özellikle dokunma ve uzamsal algı) beynin entegrasyon merkezi olarak bilinen <b>Parietal lobda</b> birleşmektedir.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1024,
+            "question": "Doğumdan sonra beyin gelişiminin en hızlı olduğu dönem hangi ay aralığıdır?",
+            "options": [
+                "0-36 ay",
+                "0-72 ay",
+                "0-120 ay",
+                "36-72 ay",
+                "32-72 ay"
+            ],
+            "correctIndex": 0,
+            "explanation": "Beyin gelişiminin en hızlı olduğu dönem, doğumdan sonraki <b>0-36 ay</b> aralığıdır.",
+            "unit": 2,
+            "topic": "2.1. Beyin ve Duyu İlişkisi",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 21"
+        },
+        {
+            "id": 1025,
+            "question": "Doğum sonrasından kaç yaş civarına kadar sinaps oluşumu oldukça hızlıdır?",
+            "options": [
+                "16 yaş",
+                "14 yaş",
+                "10 yaş",
+                "6 yaş",
+                "5 yaş"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sinaps oluşumu ve nöral yenilenme, özellikle <b>6 yaş</b> civarına kadar oldukça hızlıdır.",
+            "unit": 2,
+            "topic": "2.1. Beyin ve Duyu İlişkisi",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 15"
+        },
+        {
+            "id": 1026,
+            "question": "Kaç yaş civarında beyinde nöral budama başlar?",
+            "options": [
+                "3 yaş",
+                "9 yaş",
+                "8 yaş",
+                "6 yaş",
+                "5 yaş"
+            ],
+            "correctIndex": 1,
+            "explanation": "Beyinde nöral budama yaklaşık olarak <b>dokuz yaş</b> civarında başlar.",
+            "unit": 2,
+            "topic": "2.1. Beyin ve Duyu İlişkisi",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1027,
+            "question": "Beş duyu dışında uzuvlar hareket ettirilmeden bedenin pozisyonunun algılandığı duyu olarak da bilinen duyu aşağıdakilerden hangisidir?",
+            "options": [
+                "Proprioseptif",
+                "Wernikülasyon",
+                "Retrosentif",
+                "Vestibüler",
+                "Brokal"
+            ],
+            "correctIndex": 0,
+            "explanation": "Uzuvlar hareket ettirilmeden bedenin pozisyonunun algılanmasını sağlayan duyu, <b>Proprioseptif</b> (Hareket) duyudur.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar",
+            "source": "Preschool Sensory Education Midterm Questions",
+            "sourceInfo": "Soru 20"
+        },
+        {
+            "id": 1028,
+            "question": "Vestibüler duyusunun işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sıcak-soğuk basıncı algılama",
+                "Sesleri duyup anlama",
+                "Dengenin sağlanması",
+                "Bedenin poziyonunu algılama",
+                "Kokuları algılama"
+            ],
+            "correctIndex": 2,
+            "explanation": "Vestibüler duyusu, iç kulakta yer alır ve temel işlevi <b>dengenin sağlanmasıdır</b>.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 1029,
+            "question": "Koklea ve korti hangi duyu organında yer alan organlardır?",
+            "options": [
+                "Görme",
+                "Dokunma",
+                "Tatma",
+                "Koklama",
+                "İşitme"
+            ],
+            "correctIndex": 4,
+            "explanation": "Koklea (Salyangoz) ve Korti organı, <b>İşitme</b> duyu organı olan kulakta yer alan yapılardandır.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 9"
+        },
+        {
+            "id": 1030,
+            "question": "Çocuğun vücudunu, boynunu ve başını yer çekimine karşı dik tutabilmesi hangi duyu ile ilişkilidir?",
+            "options": [
+                "Görme",
+                "İşitme",
+                "Dokunma",
+                "Denge",
+                "Hareket"
+            ],
+            "correctIndex": 3,
+            "explanation": "Vücudun yer çekimine karşı pozisyonunu ve duruşunu ayarlama yeteneği <b>Denge</b> (Vestibüler) duyusu ile ilişkilidir.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar",
+            "source": "AUZEF Vize Soruları",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1031,
+            "question": "Beş yaşındaki Aycan anasınıfındaki etkinliklere katılmakta zorluk çekmektedir. Özellikle sınıf içi ve dışındaki her hareket dikkatinin dağılmasına neden olmaktadır. Bu bilgiler ışığında, Aycan için aşağıdakilerden hangisini söylemek mümkündür?",
+            "options": [
+                "Seslere duyarlılığı vardır.",
+                "Bilişsel olarak üst düzey becerisi vardır.",
+                "Dikkatini odaklamada beceriklidir.",
+                "İşitsel olarak öğrenen bir çocuktur.",
+                "Harekete duyarlı bir çocuktur."
+            ],
+            "correctIndex": 4,
+            "explanation": "Aycan’ın her hareketten dikkatinin dağılması, vestibüler (denge/hareket) sistemine aşırı tepki gösterdiği, yani <b>Harekete duyarlı</b> bir çocuk olduğu anlamına gelir.",
+            "unit": 2,
+            "topic": "2.1. Beyin ve Duyu İlişkisi",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1032,
+            "question": "Duyu eğitiminde aşağıdaki öğrenme süreçlerinden hangisinin ele alınması <u>gerekmez</u>?",
+            "options": [
+                "Refleks",
+                "Bellek",
+                "Ayırt etme",
+                "Eşleştirme",
+                "Dikkat"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyu eğitimi; dikkat, bellek, ayırt etme ve eşleştirme gibi öğrenme süreçlerini hedefler. <b>Refleks</b> ise doğuştan gelen otomatik bir tepki olduğu için öğrenme süreçlerinden biri olarak ele alınması gerekmez.",
+            "unit": 2,
+            "topic": "2.2. Günlük Yaşamın Parçası Olarak Duyu İşlemleme",
+            "source": "AUZEF Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 11"
+        },
+        {
+            "id": 1033,
+            "question": "Zeynep oyun oynadığı sırada dışarıdan gelen bir kokuyu fark edip oyununu yarım bırakmıştır. Kokunun kaynağını bulmak için çaba göstermektedir. Buna göre Zeynep’in davranışı Dunn’ın hangi duyusal örüntü türü ile açıklanabilir?",
+            "options": [
+                "Düşük algılama",
+                "Duyusal kaçınma",
+                "Duyusal arayış",
+                "Yüksek hassasiyet",
+                "Duyusal duyarlılık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Zeynep’in uyarıcıyı aktif olarak araması, yüksek eşiğe rağmen aktif tepki verme şekli olan <b>Duyusal Arayış</b> modeline uyar.",
+            "unit": 2,
+            "topic": "2.3. Dunn’ın Oluşturduğu Duyu Modeli Maddeleri",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 1034,
+            "question": "Altı yaşındaki Ahmet uygun destek alamadığında başkalarının fark ettiklerini fark etmekte başarısızlık göstermektedir. Bu durumda Ahmet’in duyusal özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Duyusal duyarlık",
+                "Düşük algılama",
+                "Duyusal kaçınma",
+                "Duyusal rahatlama",
+                "Yüksek hassasiyet"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ahmet’in çevresel uyarıcılara karşı farkındalığının az olması, yüksek eşik ve pasif tepki ile karakterize edilen <b>Düşük Algılama</b> (Düşük Kayıt) örüntüsüne sahip olduğunu gösterir.",
+            "unit": 2,
+            "topic": "2.3. Dunn’ın Oluşturduğu Duyu Modeli Maddeleri",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 2"
+        },
+        {
+            "id": 1035,
+            "question": "Aşağıdakilerden hangisi düşük algılama modeline sahip çocukları desteklemek için yapılabilecek bir uygulamadır?",
+            "options": [
+                "Yemekte farklı tatlar sunmak",
+                "Tek başına yemesine olanak sağlamak",
+                "Yemeklerle ilgili sohbet etmek",
+                "Sofra kurulumu için yardım istemek",
+                "Yemeden önce ellerini yıkamasını istemek"
+            ],
+            "correctIndex": 0,
+            "explanation": "Düşük algılama (Low Registration) gösteren çocukları canlandırmak için <b>Yemekte farklı tatlar sunmak</b> gibi yoğun duyusal uyaranlar içeren uygulamalar önerilir.",
+            "unit": 2,
+            "topic": "2.3. Dunn’ın Oluşturduğu Duyu Modeli Maddeleri",
+            "source": "AUZEF Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1036,
+            "question": "Bir bebeğin doğduktan sonraki süreçte duyularını çok daha aktif ve etkin biçimde kullanımında aşağıdakilerden hangisi ön plana çıkmaktadır?",
+            "options": [
+                "Etkileşimsel sürecin başlaması",
+                "Beynin gelişiminin tamamlanması",
+                "Duyu İşlemlemenin yetersiz kalması",
+                "Duyusal sistemlerin oluşmaya başlaması",
+                "Sinir sisteminin duyuların tamamını işlemesi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyular anne karnında şekillenmeye başlasa da, doğumla beraber <b>etkileşimsel sürecin başlaması</b> duyuların çok daha aktif ve etkin biçimde kullanımını mümkün kılar.",
+            "unit": 2,
+            "topic": "2.1. Beyin ve Duyu İlişkisi",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 1037,
+            "question": "Erhan, sınıf içindeki etkinliklerde renkli boya kalemleri ile şekiller ve grafikler çizerek edindiği bilgileri pekiştirmektedir. Erhan ile ilgili aşağıdakilerden hangisi düşünülebilir?",
+            "options": [
+                "Görsel olarak öğrenen bir çocuktur.",
+                "Dokunarak rahat öğrenebilir.",
+                "Dinleyerek kolay öğrenebilir.",
+                "Seslere odaklanması kolaydır.",
+                "Duyusal olarak kaçınması vardır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Renkli kalemler, şekiller ve grafikler kullanarak öğrenmek, Erhan’ın <b>Görsel olarak öğrenen</b> bir çocuk olduğunu gösterir.",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi ve Uygulamaları",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 1038,
+            "question": "Bireylerde görme ve konuşma yeteneğini oluşturan beyin sistemleri ne kadar süre içerisinde yapılandırılmaktadır?",
+            "options": [
+                "İlk 4 ay",
+                "3 yaş sonrası",
+                "İlk 8 ay",
+                "İlk 1 ay",
+                "1 yaş sonrası"
+            ],
+            "correctIndex": 2,
+            "explanation": "Görmeyi ve konuşmayı sağlayan beyin sistemleri yaşamın <b>ilk 8 ayı</b> içinde hızla yapılandırılmaktadır.",
+            "unit": 2,
+            "topic": "2.1. Beyin ve Duyu İlişkisi",
+            "source": "Preschool Sensory Education Midterm Questions",
+            "sourceInfo": "Soru 20"
+        },
+        {
+            "id": 1039,
+            "question": "Nörolojik olarak bedenin koordineli olarak kullanılması sürecinde, beynin bir tarafının vücudun diğer tarafı ile ilgili yapacağı hareketi üstlenmesi durumuna verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Nöronlaşma",
+                "Sinyalizasyon",
+                "Miyelinizasyon",
+                "Koordinasyon",
+                "Lateralizasyon"
+            ],
+            "correctIndex": 4,
+            "explanation": "Beynin sağ ve sol yarıkürelerinin farklı işlevleri üstlenmesi ve bedenin bir yarısının diğer yarıküre tarafından kontrol edilmesi durumuna <b>Lateralizasyon</b> denir.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1040,
+            "question": "Duyusal işlemlemede sorunlar yaşayan çocuklarla ilgili aşağıdakilerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Görsel algılarında sorun yoktur.",
+                "Gelişimsel bir sorun değildir.",
+                "Tatma ya da koklama sorununda görülüç",
+                "Motor ya da nöral yetersizlikte görülebilir.",
+                "Otizm bozukluğunda gözlenme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyusal işlemleme sorunları, gelişimsel <b>motor ya da nöral yetersizlikler</b> yaşayan çocuklarda görülebilir.",
+            "unit": 2,
+            "topic": "2.1. Beyin ve Duyu İlişkisi",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1041,
+            "question": "Duyusal olarak yetersiz ortamların çocukların gelişiminde nasıl bir etkisi bulunmaktadır?",
+            "options": [
+                "Çocukları ulaşabilecekleri düzeyin gerisinde bırakır.",
+                "Çocukları duyularını kullanamaya teşvik eder.",
+                "Çocukların bulundukları çevreye ilgi duymasını sağlar.",
+                "Çocukları işbirliğine ve koordinasyona yönlendirir.",
+                "Çocukları görsel ve işitsel olarak uyarır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Uyaran eksikliği veya yetersiz ortamlar, çocukların <b>gelişimlerini potansiyel düzeyin gerisinde bırakır</b>.",
+            "unit": 2,
+            "topic": "2.2. Günlük Yaşamın Parçası Olarak Duyu İşlemleme",
+            "source": "Preschool Sensory Education Midterm Questions 2024-2025",
+            "sourceInfo": "Soru 11"
+        },
+        {
+            "id": 1042,
+            "question": "Tende sıcak-soğuk ve basıncı algılayan duyu aşağıdakilerden hangisidir?",
+            "options": [
+                "İşitme Duyusu",
+                "Dokunma Duyusu",
+                "Koku Duyusu",
+                "Hareket Duyusu (Proprioseptif Duyu)",
+                "Denge duyusu (Vestibüler Duyu)"
+            ],
+            "correctIndex": 1,
+            "explanation": "Tende sıcak-soğuk ve basıncı algılayan duyu <b>Dokunma Duyusudur</b> (Taktil duyu).",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 20"
+        },
+        {
+            "id": 1043,
+            "question": "Berna sınıf içindeki etkinliklerde müzikal ve ritmik etkinliklere katılmaktan keyif almakta, sınıftaki nesnelerin sesleriyle ilgilenerek ses taklitleri yapmaktan hoşlanmaktadır. Berna’nın eğitiminde hangisine odaklanmak gerekir?",
+            "options": [
+                "Doku eşleşmesi yaptırmak",
+                "Elle tutulur materyaller sunmak",
+                "Tat ve koku çalışmaları yapmak",
+                "İşitsel ve sözel uyaranlar vermek",
+                "Görsel algılamasına odaklanmak"
+            ],
+            "correctIndex": 3,
+            "explanation": "Berna’nın sesler, müzik ve ritmik etkinliklere ilgi duyması, <b>İşitsel ve sözel uyaranlar</b> verilmesine odaklanmayı gerektirir.",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1044,
+            "question": "Zihinsel gelişimin en önemli süreci aşağıdakilerden hangisidir?",
+            "options": [
+                "Algısal gelişim",
+                "Öğrenme",
+                "Dikkat",
+                "Etkileşim",
+                "Bellek"
+            ],
+            "correctIndex": 0,
+            "explanation": "Algısal gelişim, zihinsel gelişimin <b>en önemli sürecidir</b>.",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -4",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 1045,
+            "question": "Vücuttan ve çevreden alınan duygusal uyaranların bütüncül olarak daha etkin şekilde kullanılabilmesi için organize eden nörolojik sürece ne ad verilir?",
+            "options": [
+                "Duyu deneyimleme",
+                "Duyu bütünleme",
+                "Algı bütünleme",
+                "Duyu sentezleme",
+                "Algı sentezleme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Duyusal uyaranları etkin bir şekilde kullanabilmek için organize eden nörolojik sürece <b>Duyu Bütünleme</b> denir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1046,
+            "question": "Beynimizin, çevremizde olan bitenleri fark etme, değerlendirme, yaşanılan karmaşık durumları çözme yetkinliğine ne ad verilir?",
+            "options": [
+                "Duyusal entegrasyon",
+                "Duyu işlemleme",
+                "Duygusal beceriler",
+                "Duygusal yetkinlik",
+                "Duygusal entegrasyon"
+            ],
+            "correctIndex": 0,
+            "explanation": "Beynin çevredeki olayları fark etme, değerlendirme ve karmaşık durumları çözme yetkinliğine <b>Duyusal Entegrasyon</b> (Duyusal bütünleşme) adı verilir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 3, Soru 1"
+        },
+        {
+            "id": 1047,
+            "question": "Aşağıdakilerden hangisi duyusal bütünlemede yaşanılan sorunların yol açtığı etkilerden biri <u>değildir</u>?",
+            "options": [
+                "Akademik yetenekte sorunlar",
+                "Yemek yeme sorunu",
+                "Öğrenmede güçlük",
+                "Sinir sistemi bozuklukları",
+                "Dikkat ve davranış bozukluğu"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyusal bütünleme sorunları; öğrenme, davranış ve akademik alanları etkilerken, doğrudan <b>Sinir sistemi bozukluklarına</b> yol açtığı söylenemez.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 3, Soru 2"
+        },
+        {
+            "id": 1048,
+            "question": "Duyu işlemleme sorunu yaşayan çocuklarda duyu bütünlüğünü sağlamak için aşağıdakilerden hangisinin yapılması <u>önceliklidir</u>?",
+            "options": [
+                "Çocuğa uygun program belirlenmesi",
+                "Destekleyici çalışmalar gerçekleştirilmesi",
+                "Çocuğun grup çalışmalarına katılması",
+                "Çocuğun değerlendirilmesinin yapılması",
+                "Duyusal uyaranların amaca yönelik kullanılması"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyusal işlemleme sorunu olan bir çocukta müdahale programına başlamadan önce yapılması gereken ilk ve en öncelikli adım <b>Çocuğun değerlendirilmesinin yapılmasıdır</b>.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1049,
+            "question": "Aşağıdakilerden hangisi Dunn’ın ortaya attığı duyusal örüntülerden birisidir?",
+            "options": [
+                "Yüksek algılama",
+                "Duyusal sorgulama",
+                "Duyusal kaçınma",
+                "Duyusal yoksunluk",
+                "Duyusal yatkınlık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dunn’ın ortaya attığı dört duyusal örüntüden biri <b>Duyusal kaçınmadır</b>. Diğerleri düşük algılama, duyusal arayış ve duyusal duyarlılıktır.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -3",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1050,
+            "question": "Nazan Öğretmen sınıfında planladığı duyu eğitimi çalışmalarında Ali’nin belirli nesnelere dokunmada ve elinde tutmada sıkıntısı olduğunu fark etmiştir. Bu durumda Ali ile ilgili aşağıdakilerden hangisi düşünülmelidir?",
+            "options": [
+                "Düşük algılama",
+                "Duyusal uyarım",
+                "Duyusal duyarlık",
+                "Duyusal kaçınma",
+                "Duyusal arayış"
+            ],
+            "correctIndex": 3,
+            "explanation": "Ali’nin nesnelere dokunmaktan kaçınması ve elinde tutmada sıkıntı yaşaması, uyarana karşı aktif olarak kaçınma tepkisi gösterdiği <b>Duyusal Kaçınma</b> örüntüsüne sahip olduğunu düşündürmektedir.",
+            "unit": 3,
+            "topic": "3.4. Duyusal Kaçınma Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1051,
+            "question": "Dunn’un duyu modeline göre kolayca ağlayan çocuk hangi maddede yer alır?",
+            "options": [
+                "Duyusal arama",
+                "Duyusal duyarlılık",
+                "Duyusal uyarım",
+                "Düşük tahammül",
+                "Duyusal oturaklılık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kolayca ağlama ve beklenmedik tepkiler verme gibi durumlar, düşük eşiğe sahip ve pasif tepki veren <b>Duyusal Uyarım</b> (Duyusal Duyarlılık) örüntüsüne girmektedir.",
+            "unit": 3,
+            "topic": "3.5. Duyusal Duyarlılık Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Preschool Sensory Education Midterm Questions",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1052,
+            "question": "Banyo oyuncağının bulundurulmaması, tabakta tek besinin bulundurulması gibi görsel algıya yönelik çalışmalar hangi tür modelde uygulanması önerilir?",
+            "options": [
+                "Duyu farkındalığı",
+                "Duyusal arayış",
+                "Duyusal duyarlılık",
+                "Düşük algılama",
+                "Duyusal kaçınma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Bu tür uyaran azaltıcı ve sadeleştirici uygulamalar, uyaranlardan bunalan <b>Duyusal Kaçınma</b> modeline sahip çocukların desteklenmesi için önerilmektedir.",
+            "unit": 3,
+            "topic": "3.4. Duyusal Kaçınma Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "AUZEF Vize Soruları",
+            "sourceInfo": "Soru 32"
+        },
+        {
+            "id": 1053,
+            "question": "Ayşe gündelik yaşantısında duyusal olarak izlediği ve edindiği bilgileri uygulamaya geçirmek istediğinde, uygun zaman ve ortamda kendinden beklenen uygun hareketleri yapmada sorun yaşamaktadır. Ayşe’nin bu durumu aşağıdakilerden hangisidir?",
+            "options": [
+                "Duyusal işlememe sorunu",
+                "Genel denge bozukluğu",
+                "Duyusal eğilim sapması",
+                "Duygu durum bozukluğu",
+                "Hareket işlev sorunu"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyusal olarak alınan bilgiyi amaca yönelik, planlı bir motor tepkiye çevirmede yaşanan soruna <b>Duyusal İşlememe Sorunu</b> denir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Final Sınavı Sorusu",
+            "sourceInfo": "Soru 21"
+        },
+        {
+            "id": 1054,
+            "question": "Normal gelişim gösteren bir bireyde entegre çalışan ve işlemleme yapan duyular….. sağlar. Yukarıdaki boşluğa getirilebilecek en uygun ifade aşağıdakilerden hangisidir?",
+            "options": [
+                "dikkat ve odaklanmanın normalleşmesini",
+                "normal gelişimin üst düzeyde olmasını",
+                "bireyin dengeli yaşam sürmesini",
+                "görsel algının daha ileride olmasını",
+                "vücut ve beynin eşgüdümlü hareket etmesini"
+            ],
+            "correctIndex": 4,
+            "explanation": "Entegre çalışan ve işlemleme yapan duyular, <b>vücut ve beynin eşgüdümlü hareket etmesini</b> sağlar.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1055,
+            "question": "Bedensel, işitsel ve/veya görsel yetersizlikler yaşayan özel gereksinimli çocukların duyularını kullanmalarında aşağıdaki yetersizlik türlerinden hangisi görülebilmektedir?",
+            "options": [
+                "Duyusal işlemleme",
+                "Duyusal ayrım",
+                "Duyusal tepkisellik",
+                "Duyusal tutarsızlık",
+                "Duyusal gereksinim"
+            ],
+            "correctIndex": 0,
+            "explanation": "Özel gereksinimli çocuklarda duyusal bilgileri organize etme ve anlamlandırma sorunu olan <b>Duyusal işlemleme</b> yetersizliği görülebilmektedir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Final Sınavı 2023-2024",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1056,
+            "question": "Eda, yumuşak tüylü oyuncaklara ilgi duymakta ve sürekli elinde tutma ve taşıma, eliyle tüylerini okşama ve sarılma eğilimi göstermektedir. Aşağıdakilerden hangisi duyusal bütünlemeye göre Eda’nın sergilediği duyusal örüntüdür?",
+            "options": [
+                "Düşük algılama",
+                "Duyusal kaçınma",
+                "Duyusal arayış",
+                "Duyusal duyarlılık",
+                "Duyusal yeterlilik"
+            ],
+            "correctIndex": 3,
+            "explanation": "Belirli bir uyarana (yumuşak doku) karşı artan ilgi ve sürekli ona yönelme, düşük eşiğe sahip olma durumu olan <b>Duyusal Duyarlılık</b> örüntüsüne işaret eder.",
+            "unit": 3,
+            "topic": "3.5. Duyusal Duyarlılık Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi ve Uygulamaları",
+            "sourceInfo": "Soru 17"
+        },
+        {
+            "id": 1057,
+            "question": "Ali gündelik yaşantısında çevredeki hareketlerden fazlasıyla rahatsız olmaktadır. Bilmediği ortamlardaki ani hareketlere ağlayarak tepki vermektedir. Buna göre Ali’nin dahil olduğu modele göre çocuğun desteklenmesi için aşağıdakilerden hangisi yapılabileceklerden biri <u>değildir</u>?",
+            "options": [
+                "Banyoda tek bir pozisyon belirlemek",
+                "Tek başına oturabileceği ortam sağlamak",
+                "Hareket oyununda belirgin örüntüler kurma",
+                "Giysileri çocuğun görüş hizasındaki çekmecelere yerleştirmek",
+                "Halka açık alanda özgürlük tanımak"
+            ],
+            "correctIndex": 4,
+            "explanation": "Ani hareketlere ağlayarak tepki veren bir çocuk (Duyusal Kaçınma/Duyarlılık), uyaranı azaltma ihtiyacı duyar. <b>Halka açık alanda özgürlük tanımak</b>, kontrol edilemeyen aşırı uyaranlara maruz kalmasına neden olur ve destekleyici değildir.",
+            "unit": 3,
+            "topic": "3.4. Duyusal Kaçınma Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Okul Öncesi Duyu Eğitimi Sınavı Soruları",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1058,
+            "question": "Aşağıdakilerden hangisi duyu bütünleme basamaklarından biri <u>değildir</u>?",
+            "options": [
+                "Duyusal işlemleme becerilerinin gelişimi",
+                "Duyusal işlemleme becerilerinin tanımı",
+                "Duyusal işlemleme bozukluklarının tanımlanması",
+                "Duyuların kategorizasyonun yapılması",
+                "Müdahale programlarının oluşturulması"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyu bütünleme basamakları arasında <b>Duyuların kategorizasyonun yapılması</b> yer almamaktadır.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -3",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1059,
+            "question": "I. Duyusal arayış II. Duyusal kaçınma III. Duyusal hassasiyet IV. Düşük kayıt Yukarıdakilerden hangileri Dunn modeline göre duyusal süreçte kullanılan stratejilerdendir?",
+            "options": [
+                "I, II",
+                "I, II, III",
+                "II, III, IV",
+                "II, III",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "explanation": "Dunn modeline göre duyusal süreçte kullanılan stratejiler (örüntüler); Duyusal arayış, Duyusal kaçınma, Duyusal hassasiyet (Duyarlılık) ve Düşük kayıt (Düşük algılama) olmak üzere dördüdür.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Preschool Sensory Education Final Exam",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 1060,
+            "question": "İç kulakta işitme duyusu dışında gerçekleşen duyu aşağıdakilerden hangisidir?",
+            "options": [
+                "İşitme",
+                "Proprioseptif",
+                "Dokunma",
+                "Görme",
+                "Vestibüler"
+            ],
+            "correctIndex": 4,
+            "explanation": "İç kulakta işitme duyusu dışında gerçekleşen ve denge ile ilişkili olan duyu <b>Vestibüler</b> duyudur.",
+            "unit": 4,
+            "topic": "4.8. Denge duyusu (Vestibüler Duyu)",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1061,
+            "question": "Aşağıdakilerden hangisi duyularımızdan biri <u>değildir</u>?",
+            "options": [
+                "Denge",
+                "Hareket",
+                "Sezgi",
+                "İşitme",
+                "Koklama"
+            ],
+            "correctIndex": 2,
+            "explanation": "Denge (vestibüler), Hareket (proprioseptif), İşitme ve Koklama duyusal sistemlerdir. <b>Sezgi</b> ise duyusal sistemlerden biri değildir.",
+            "unit": 4,
+            "topic": "4.1. Duyusal Algıların Gelişimi",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -4",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1062,
+            "question": "Dış dünyadaki renk, parlaklık, şekil, yön, derinlik gibi özellikler hangi duyu ile algılanır?",
+            "options": [
+                "İşitme",
+                "Görme",
+                "Denge",
+                "Koku alma",
+                "Dokunma"
+            ],
+            "correctIndex": 1,
+            "explanation": "Renk, parlaklık, şekil ve derinlik gibi uzamsal özellikler <b>Görme</b> duyusu ile algılanır.",
+            "unit": 4,
+            "topic": "4.2. Görme Duyusu",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 4, Soru 4"
+        },
+        {
+            "id": 1063,
+            "question": "Bebekler yaklaşık olarak hangi ayda renkleri ayırt edebilirler?",
+            "options": [
+                "1 ay",
+                "2 ay",
+                "4 ay",
+                "6 ay",
+                "8 ay"
+            ],
+            "correctIndex": 2,
+            "explanation": "Araştırmalar, bebeklerin yaklaşık <b>4 ay</b> civarında renkleri ayırt edebildiklerini göstermektedir.",
+            "unit": 4,
+            "topic": "4.2. Görme Duyusu",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 21"
+        },
+        {
+            "id": 1064,
+            "question": "Duyu sistemi gelişiminde gerilik olan çocuklarda aşağıdaki alanlardan hangisi ile ilgili sorun görülür?",
+            "options": [
+                "İşitsel algılama",
+                "Bilişsel, sosyal, duygusal, özbakım alanları",
+                "Dikkat alanı",
+                "Görsel algılama",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Duyu sistemi gelişiminde gerilik olan çocuklarda listelenen <b>hepsi</b> (bilişsel, sosyal, duygusal, özbakım, dikkat ve algılama alanları) ile ilgili sorunlar görülür.",
+            "unit": 4,
+            "topic": "4.1. Duyusal Algıların Gelişimi",
+            "source": "Preschool Sensory Education Final Exam",
+            "sourceInfo": "Soru 12"
+        },
+        {
+            "id": 1065,
+            "question": "Duyu gelişimi sistemlerinden hangi duyu sistemi gelişimini anne karnında tamamlamaz?",
+            "options": [
+                "Vestibüler duyu sistemi",
+                "Taktil duyu sistemi",
+                "Proprioseptif duyu sistemi",
+                "Görsel duyu sistemi",
+                "Hepsi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Vestibüler, taktil ve proprioseptif duyu sistemleri gelişimini anne karnında tamamlarken, <b>Görsel duyu sistemi</b> gelişimini doğumdan sonra da devam ettirir ve tamamlamaz.",
+            "unit": 4,
+            "topic": "4.2. Görme Duyusu",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 1066,
+            "question": "Montessori yaklaşımına göre hangisi <u>söylenemez</u>?",
+            "options": [
+                "Montessori her çocuğun doğumla birlikte çevresini keşfetme eğiliminde olduğundan bahsetmektedir.",
+                "Duyular, küçük çocukların öğrenmelerini gerçekleştirmelerinde diğer eğitim programlarına göre <u>ikinci plandadır</u>.",
+                "Bebekler, doğdukları andan itibaren her yeni objeyi tanımak için ağzına doğru götürmekte ya da etraflarındaki yüzeyi tanımaya çalışmaktadır.",
+                "Doğumdan üç yaşına kadar çocuk farkında olmaksızın çevresi tarafından etkilenmekte ve çevresinde etkileştiği her şeyi zihinsel olarak emmektedir.",
+                "Çocuğun bireysel farklılığına saygı duyulur."
+            ],
+            "correctIndex": 1,
+            "explanation": "Montessori yaklaşımında duyu eğitimi (özellikle tek bir duyuya hassaslaştırma), öğrenmenin temelini oluşturur; bu nedenle duyular <b>ikinci planda değildir</b>.",
+            "unit": 5,
+            "topic": "5.2. Farklı Eğitim Modellerinde Duyu Eğitimi",
+            "source": "Vize Deneme Sınavı 2021-2022",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1067,
+            "question": "Bu eğitim yaklaşımında duyusal etkinlikler; basitten zora doğru ilerleyerek belirli bir düzen içinde gerçekleştirilirken uygulamalarda tek bir duyuya yönelerek, sadece belirli özelliklere odaklanarak hassaslaştırma ön plandadır. Yukarıda verilen eğitim modeli aşağıdakilerden hangisidir?",
+            "options": [
+                "Montessori",
+                "Reggio Emilia",
+                "Waldorf",
+                "High/Scop",
+                "Bank Street"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyusal materyallerin basitten zora, tek bir duyuyu izole ederek hassaslaştırmayı hedeflemesi <b>Montessori</b> yaklaşımının temel özelliğidir.",
+            "unit": 5,
+            "topic": "5.2. Farklı Eğitim Modellerinde Duyu Eğitimi",
+            "source": "Final Deneme Sınavı 2021-2022",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1068,
+            "question": "Aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Öğrenme sürecinde farklı duygular farklı zamanlarda etkin olabilirler.",
+                "Öğrenme, duyu organları yoluyla gerçekleşmektedir.",
+                "Çocuklar duyusal deneyimler aracılığıyla farklı biçimlerde öğrenebilirler.",
+                "Bilginin işlemlenmesinde farklı duyusal deneyimlerin bir arada olması öğrenmeyi kolaylaştırır.",
+                "Öğrenme süreci sadece görsel ve işitsel uyaranlarla olur."
+            ],
+            "correctIndex": 4,
+            "explanation": "Öğrenme süreci görsel ve işitsel uyaranların yanı sıra dokunma, tatma, koklama, hareket ve denge gibi <b>tüm duyularla</b> gerçekleşir. Bu nedenle sadece görsel ve işitsel uyaranlarla olur ifadesi yanlıştır.",
+            "unit": 5,
+            "topic": "5.3. Duyu Eğitimi ve Öğrenme Stilleri Arasındaki İlişki",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 1069,
+            "question": "Ahmet çevresinde olan biten tüm olayları öğrenmek için öncelikli olarak olayları yaşayarak hissetmeye odaklanmaktadır. Bu durumda Ahmet duyusal olarak hangi öğrenme tarzına sahiptir?",
+            "options": [
+                "Görsel",
+                "Estetik",
+                "Kinestetik",
+                "İşitsel",
+                "Bilişsel"
+            ],
+            "correctIndex": 2,
+            "explanation": "Olayları <b>yaşayarak hissetmeye</b> odaklanma, hareket ve dokunma yoluyla öğrenmeyi tercih eden <b>Kinestetik</b> öğrenme tarzına işaret eder.",
+            "unit": 5,
+            "topic": "5.3. Duyu Eğitimi ve Öğrenme Stilleri Arasındaki İlişki",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi ve Uygulamaları",
+            "sourceInfo": "Soru 13"
+        },
+        {
+            "id": 1070,
+            "question": "Aşağıdakilerden hangisi duyu eğitiminin önemleri arasında <u>yer almamaktadır</u>?",
+            "options": [
+                "Çocuğun varolan enerjisini ortaya çıkarmasına yardımcı olur.",
+                "Çocuğun öğrenme isteğini artırır.",
+                "Çocuğun özgüvenini geliştirir.",
+                "Çocuğun çok yönlü düşünme becerisini geliştirir.",
+                "Çocuğun potansiyel zeka kapasitesini artırır."
+            ],
+            "correctIndex": 4,
+            "explanation": "Duyu eğitimi; enerjiyi ortaya çıkarma, özgüveni ve çok yönlü düşünmeyi geliştirme gibi faydalar sağlar. Ancak <b>Potansiyel zeka kapasitesini artırma</b>, duyu eğitiminin doğrudan önemi arasında yer almamaktadır.",
+            "unit": 5,
+            "topic": "5.1. Duyu Eğitimi ve Çoklu Duyu Yaklaşımı",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 5, Soru 1"
+        },
+        {
+            "id": 1071,
+            "question": "Aşağıdakilerden hangisi duyusal çalışmaların ana hedeflerinden birisidir?",
+            "options": [
+                "Duygularını çeşitli yollardan ifade etme",
+                "Öz bakım becerilerini geliştirme",
+                "Çevredeki benzerlik, farklılıkları algılama, çevresel değişiklikleri fark etme",
+                "Parça-bütün ilişkisini kavrayabilme",
+                "İnce motor becerilerini destekleme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Duyusal çalışmaların ana hedeflerinden biri, çocuğun <b>Çevredeki benzerlik, farklılıkları algılaması ve çevresel değişiklikleri fark etmesidir</b>.",
+            "unit": 5,
+            "topic": "5.1. Duyu Eğitimi ve Çoklu Duyu Yaklaşımı",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 5, Soru 2"
+        },
+        {
+            "id": 1072,
+            "question": "Nilay Öğretmen duyu eğitiminde özellikle doğa ile ruhun uyumunu güçlendirici bir felsefeye odaklanan bir okul öncesi kurumunda görev yapmaktadır. Bu kurumda çocukların karşılıklı etkileşimle duyusal, bilişsel, sosyal, duygusal ve motor gelişimlerinin desteklenmesi amaçlanmaktadır. Nilay Öğretmen’in çalıştığı kurum aşağıdakilerden hangisidir?",
+            "options": [
+                "Bank Street",
+                "Waldorf",
+                "Reggio Emilia",
+                "High/Scope",
+                "Montessori"
+            ],
+            "correctIndex": 1,
+            "explanation": "Doğa ile ruhun uyumunu güçlendirici felsefeye odaklanan eğitim yaklaşımı <b>Waldorf</b> yaklaşımıdır.",
+            "unit": 5,
+            "topic": "5.2. Farklı Eğitim Modellerinde Duyu Eğitimi",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 1073,
+            "question": "Ayşe Öğretmen kitap okuma etkinliğinde çocuklara bir tavşanla sırtlan arasında geçen can yakma tartışmasıyla ilgili bir kitap okur. Kitap sonunda çocuklara kitabın içinde geçen “çörek” terimiyle ilgili de etkinlik yaptırarak bütünleştirilmiş bir program uygular. Bu çalışma sonunda çocukların hangi duyuları uyarılır?",
+            "options": [
+                "Tatma ve koklama",
+                "Görme ve tatma",
+                "İşitme ve tatma",
+                "Görme ve işitme",
+                "Görme ve dokunma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kitap okuma ve hikaye dinleme <b>Görme</b> ve <b>İşitme</b> duyularını uyarır.",
+            "unit": 5,
+            "topic": "5.5. Çoklu Duyuyu Destekleyici Etkinlik Önerileri",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 12"
+        },
+        {
+            "id": 1074,
+            "question": "Aşağıdakilerden hangisi duyulara yönelik çalışmalarda kullanılabilecek materyallerden biri <u>değildir</u>?",
+            "options": [
+                "Kum",
+                "Sabun köpüğü",
+                "Poşet",
+                "Keçe",
+                "Çalışma kâğıdı"
+            ],
+            "correctIndex": 4,
+            "explanation": "Kum, sabun köpüğü, poşet ve keçe gibi materyaller dokunsal/işitsel uyaran içerirken, <b>Çalışma kâğıdı</b> doğrudan duyuya yönelik materyal değildir.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 1"
+        },
+        {
+            "id": 1075,
+            "question": "Aşağıdakilerden hangisi dokunma duyusunu geliştirmek için kullanılabilecek materyallerin birisi <u>değildir</u>?",
+            "options": [
+                "CD’ler",
+                "Taşlar",
+                "Kum",
+                "Su",
+                "Hamurlar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Taşlar, kum, su ve hamurlar dokunsal materyallerdir. <b>CD’ler</b> ise dokunma duyusunu geliştirmek için kullanılan materyallerden biri değildir.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 4"
+        },
+        {
+            "id": 1076,
+            "question": "Aşağıdakilerden hangisi koklama duyusunu geliştirmek için kullanılabilecek materyallerden birisidir?",
+            "options": [
+                "Taze çiçek",
+                "Legolar",
+                "Boncuklar",
+                "Su",
+                "Şişe"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Taze çiçek</b>, koklama duyusunu geliştirmek için kullanılabilecek materyallerdendir.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 5"
+        },
+        {
+            "id": 1077,
+            "question": "Aşağıdaki materyallerden hangisini incelerken 5 ana duyu türlerinin tamamı kullanılabilir?",
+            "options": [
+                "Boyama sayfası",
+                "Bilgisayar destekli eşleştirme çalışması",
+                "Deney tüpündeki karışım",
+                "Gazete",
+                "Limon"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Limon</b>; Görme (rengi), Tatma (ekşiliği), Koklama (kokusu), Dokunma (kabuğu) ve İşitme (sıkılırken çıkan ses) duyularını aktive edebilir.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 3"
+        },
+        {
+            "id": 1078,
+            "question": "Aşağıdaki adları verilen etkinliklerden hangisi 0-1 yaş aralığında <u>uygulanmaz</u>?",
+            "options": [
+                "Cee oyunu",
+                "Sesi duydum",
+                "Görüyorum",
+                "Ben dönmeye başladım",
+                "Aynısını buluyorum"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Aynısını Buluyorum</b> etkinliği 19-21 aylık bebeklerde uygulanmaktadır. Diğerleri 0-1 yaş aralığında uygulanabilir.",
+            "unit": 6,
+            "topic": "6.1. Duyu Eğitiminde Oyun Etkinlikleri",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1079,
+            "question": "Aşağıdaki adı geçen etkinliklerden hangisi tat alma duyusunun gelişimine katkıda bulunur?",
+            "options": [
+                "Bu dolapta neler oluyor",
+                "Yaşadığım yeri düzenliyoruz",
+                "Kim ne yapar",
+                "Adım soyadım",
+                "Mis gibi kurabiyeler"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Mis gibi kurabiyeler</b> etkinliğinde tat alma duyusu (aynı zamanda görme, işitme, dokunma ve koku) uyarılır.",
+            "unit": 6,
+            "topic": "6.1. Duyu Eğitiminde Oyun Etkinlikleri",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 1080,
+            "question": "Aşağıdaki adları verilen etkinliklerden hangisi 1-2 yaş aralığında <u>uygulanmaz</u>?",
+            "options": [
+                "Çiziyorum, Mutluyum",
+                "Sert-Yumuşak",
+                "Sulu sünger",
+                "Prenses takıları",
+                "Cee oyunu"
+            ],
+            "correctIndex": 3,
+            "explanation": "<b>Prenses takıları</b> etkinliği 2-3 yaş aralığında (ya da 25-30 ay) uygulanırken, diğerleri 1-2 yaş aralığında veya daha erken uygulanabilir.",
+            "unit": 6,
+            "topic": "6.1. Duyu Eğitiminde Oyun Etkinlikleri",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1081,
+            "question": "I. Adım Soyadım II. Duyu Torbası III. Tekse Tek, Çiftse Çift Zıplarım IV. Prenses takıları Yukarıdaki adı geçen etkinliklerden hangileri 2-3 yaş aralığında uygulanır?",
+            "options": [
+                "Hepsi",
+                "I, II, IV",
+                "I, III, IV",
+                "II, III, IV",
+                "III, IV"
+            ],
+            "correctIndex": 0,
+            "explanation": "Listelenen tüm etkinlikler (Adım Soyadım, Duyu Torbası, Tekse Tek, Çiftse Çift Zıplarım, Prenses takıları) 2-3 yaş aralığında (25-36 ay) uygulanmaktadır.",
+            "unit": 6,
+            "topic": "6.1. Duyu Eğitiminde Oyun Etkinlikleri",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 11"
+        },
+        {
+            "id": 1082,
+            "question": "Etkinlik adı: Dans dans dans. 25-30 ay aralığında oynanan bu etkinlik sırasında özellikle hangi duyu alanları ile ilgili uyaran <u>verilmez</u>?",
+            "options": [
+                "Görme",
+                "İşitme",
+                "Vestibüler",
+                "Proprioseptif",
+                "Tat alma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Dans sırasında Görme, İşitme, Vestibüler (denge) ve Proprioseptif (hareket) duyular uyarılırken, <b>Tat alma</b> duyusu ile ilgili uyaran verilmez.",
+            "unit": 6,
+            "topic": "6.1. Duyu Eğitiminde Oyun Etkinlikleri",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 1083,
+            "question": "Begüm Öğretmen çocuklara sıcak-ılık-soğuk, ıslak-kuru, pütürlü-kaygan, sert-yumuşak gibi kavramları öğretme ve pekiştirme amacıyla çeşitli materyallerle sınıfını düzenlemek istemektedir. Bu durumda Begüm Öğretmen için sınıfında kullanmak üzere aşağıdakilerden hangisini önermek amacını gerçekleştirmeye yönelik olacaktır?",
+            "options": [
+                "Su ve kum havuzları",
+                "Bilgi işlem materyalleri",
+                "Müzik ve ritm aletleri",
+                "Ahşap ve plastik bloklar",
+                "Okuma ve yazma araçları"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sıcak-soğuk, ıslak-kuru, pürüzlü-kaygan gibi taktil ve termal kavramları öğretmek için en uygun materyaller <b>Su ve kum havuzlarıdır</b>.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi ve Uygulamaları",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1084,
+            "question": "Çocukların duyularını kullanmaya yönelik oyun etkinliklerini ve oyundaki davranışlarını zenginleştirmede …………… önemli görülmektedir. Yukarıdaki cümlede noktalı kısma aşağıdakilerden hangisi gelmesi en uygundur?",
+            "options": [
+                "görsel materyaller",
+                "aile katılımı",
+                "açık hava",
+                "işitsel materyaller",
+                "çocuğun gelişimi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Çocukların duyularını kullanmaya yönelik oyun etkinliklerini ve oyundaki davranışlarını zenginleştirmede <b>aile katılımı</b> önemli görülmektedir.",
+            "unit": 6,
+            "topic": "6.3. Duyu Oyunlarında Yetişkinlere Düşen Görevler",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1085,
+            "question": "Serebral palsy ile ilgili aşağıdakilerden hangisi <u>söylenemez</u>?",
+            "options": [
+                "Semptomlar ilerleyen dönemlerde kötüleşme gösterir.",
+                "Bulaşıcı olmayan bir beyin hastalığıdır.",
+                "Kronik bir hastalıktır.",
+                "Fiziksel ve motor yetersizlikleri içermektedir.",
+                "Duygusal ve davranışsal bozukluklar eşlik edebilir."
+            ],
+            "correctIndex": 0,
+            "explanation": "Serebral palsy'nin semptomları ilerleyen dönemlerde <b>kötüleşme göstermez</b>.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "AUZEF Vize Soruları",
+            "sourceInfo": "Soru 18"
+        },
+        {
+            "id": 1086,
+            "question": "Otistik olup duyusal sıkıntılar yaşayan çocukların desteklenmesi için hangisi önerilebilir?",
+            "options": [
+                "Duyu-motor müdahaleler",
+                "Sanat terapi",
+                "Sarılma desteği",
+                "Dans eğitimi",
+                "Beslenme programı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Otistik olup duyusal sıkıntılar yaşayan çocukların desteklenmesi için <b>Duyu-motor müdahaleler</b> (Duyusal entegrasyon terapisi) önerilebilir.",
+            "unit": 7,
+            "topic": "7.3. Otizm Spektrum Bozukluğunda Duyusal Eğitim",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 7, Soru 5"
+        },
+        {
+            "id": 1087,
+            "question": "Aşağıdaki hastalık ya da bozukluklardan hangisi için duyu temelli eğitim desteği önemlidir?",
+            "options": [
+                "Özgül öğrenme bozukluğu",
+                "Down Sendromu",
+                "Dikkat eksikliği ve hiperaktivite bozukluğu",
+                "Serebral palsy",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Özgül öğrenme bozukluğu, Down Sendromu, DEHB ve Serebral Palsy dahil olmak üzere listelenen <b>hepsi</b> için duyu temelli eğitim desteği önemlidir.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Early Childhood Sensory Education Practice Exam",
+            "sourceInfo": "Soru 9"
+        },
+        {
+            "id": 1088,
+            "question": "Aşağıdaki gelişimsel bozuklardan hangisinin prematüre bebekler görülme sıklığı normal doğan bebeklere göre daha fazladır?",
+            "options": [
+                "Zihinsel yetersizlik",
+                "Otizm spektrum bozukluğu",
+                "Özel öğrenme bozukluğu",
+                "Dikkat eksikliği hiperaktivite bozukluğu",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Prematüre bebeklerde Zihinsel yetersizlik, Otizm spektrum bozukluğu, Özel öğrenme bozukluğu ve DEHB dahil olmak üzere listelenen <b>hepsi</b>nin görülme sıklığı normal doğan bebeklere göre daha fazladır.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1089,
+            "question": "Düşük doğum ağırılığı ile doğan bir bebek için aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Doğumdan sonra küvez bakımı gerekebilmektedir.",
+                "Düşük doğum ağırlıklı çocuklar gelişimsel sorunlar açısından risklidir.",
+                "Düşük doğum ağırlıklı çocuklarda normal populasyona göre gelişimsel bozukluklar daha sık görülmektedir.",
+                "Düşük doğum ağırlıklı çocuklarda duyusal gelişim geriden gelebilir.",
+                "Düşük doğum ağırlıklı çocuklara yönelik herhangi bir tarama, erken müdahale programına gerek duyulmamaktadır."
+            ],
+            "correctIndex": 4,
+            "explanation": "Düşük doğum ağırlıklı bebekler gelişimsel risk taşır; bu nedenle <b>erken müdahale programlarına gerek duyulmaması</b> ifadesi yanlıştır.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Preschool Sensory Education Final Exam",
+            "sourceInfo": "Soru 11"
+        },
+        {
+            "id": 1090,
+            "question": "Prematüre bebekler için aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Toplumda sıklığı giderek artmaktadır.",
+                "Erken gelişim dönemlerinden itibaren izleme alınmalıdır.",
+                "Gelişimi geriden gelen çocuklar sadece izlenmeli erken müdahaleye gerek yoktur.",
+                "Prematür bebeklerde işitme ve görme ile ilgili problemler de sıklıkla görülmektedir.",
+                "Hiçbiri"
+            ],
+            "correctIndex": 2,
+            "explanation": "Prematüre bebekler riskli gruptadır; bu nedenle gelişim geriliği olan çocuklar <b>sadece izlenmemeli, erken müdahale</b> uygulanmalıdır.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 9"
+        },
+        {
+            "id": 1091,
+            "question": "Anıl otistik özellikler gösteren altı yaşında bir çocuktur. Kendisiyle konuşulduğunda duymuyormuş gibi davranmakta ve belirli materyallere dokunmakta sorunlar yaşamaktadır. Anıl ile ilgili aşağıdakilerden hangisi kesin olarak söylenebilir?",
+            "options": [
+                "Duyusal entegrasyon desteği almalıdır.",
+                "İşitsel ya da dokunsal sorunu yoktur.",
+                "Duyusal odaklanma becerisi yüksektir.",
+                "Duyularını aktif biçimde kullanabilir.",
+                "Duyusal yetersizlik sorunu görülmeyebilir"
+            ],
+            "correctIndex": 0,
+            "explanation": "Anıl'ın hem işitsel hem dokunsal tepkisizlik/kaçınma belirtileri göstermesi, duyusal bilgileri organize etme sorunu yaşadığını ve <b>Duyusal entegrasyon desteği</b> alması gerektiğini kesin olarak söylenebilir.",
+            "unit": 7,
+            "topic": "7.3. Otizm Spektrum Bozukluğunda Duyusal Eğitim",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 1092,
+            "question": "Gözde Öğretmen sınıfındaki görme bozukluğu olan öğrencisi için duyusal bütünleştirmeyi sağlamak amacıyla duyu eğitimi için etkinlik planlarken aşağıdakilerden hangisini öncelikli olarak yapmalıdır?",
+            "options": [
+                "Hareket ve denge yeteneğini geliştirmek için sportif etkinlikler planlamalıdır.",
+                "İş birliği, paylaşma ve yardımlaşmayı içeren etkinliklere odaklanmalıdır.",
+                "Çocuğun kendini ifade etmesini destekleyici çalışmalar yapmalıdır.",
+                "Görme duyusunun yanında dokunma, işitme gibi duyularını da desteklemelidir.",
+                "Sosyal ve duygusal olarak çocuğu destekleyici oyunlar oynatmalıdır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Görme yetersizliği olan çocuklarda, eksik kalan duyuyu telafi etmek ve bütünleştirmeyi sağlamak amacıyla <b>Görme duyusunun yanında dokunma, işitme gibi duyularını da desteklemelidir</b>.",
+            "unit": 7,
+            "topic": "7.4. Duyusal Yetersizlik Yaşayan Çocuklarda Duyusal Eğitim",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 19"
+        },
+        {
+            "id": 1093,
+            "question": "Begüm Öğretmen duyusal yetersizliği olan çocuklarla çalışan bir eğitimcidir. Çalıştığı çocuklarla bireysel etkinliklerinde uygun etkinlikler seçerek onları duyusal olarak yönlendirmesinde hangisine dikkat etmesi <u>önceliklidir</u>?",
+            "options": [
+                "Çocuklardan önce ailelerinin duyusal becerilerini değerlendirmek",
+                "Çocukların hangi materyalleri seçebileceklerine karar vermek",
+                "Çocukların işitsel duyarlılıklarını belirlemek",
+                "Çocukların görsel duyarlılıklarını belirlemek",
+                "Çocukların hangi duyusal işlemleme becerisine sahip olduğunu belirlemek"
+            ],
+            "correctIndex": 4,
+            "explanation": "Özel gereksinimli çocuklarla çalışacak eğitimci, müdahale öncesinde <b>Çocukların hangi duyusal işlemleme becerisine sahip olduğunu belirlemeye</b> (Hangi örüntüde olduğunu saptamaya) öncelik vermelidir.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 11"
+        },
+        {
+            "id": 1094,
+            "question": "Özgül öğrenme bozukluğu ile ilgili aşağıdakilerden hangisi <u>söylenemez</u>?",
+            "options": [
+                "Özel öğrenme bozukluğu olan çocukların dili kullanma ya da anlama ile ilgili zorlukları olabilmektedir.",
+                "Özel öğrenme bozukluğu olan çocuklar nesneleri dokunarak tanımlamada güçlük çekerler.",
+                "Özel öğrenme bozukluğu olan çocukların işitsel bellekleri yaşıtlarına kıyasla zayıftır.",
+                "Birbirlerine benzeyen sesleri ayırmada zorluklar yaşayabilmektedirler.",
+                "Temelinde görsel algılama sorunlarının olduğu öne sürülmüştür, ancak görsel takipte sorun yaşamazlar."
+            ],
+            "correctIndex": 4,
+            "explanation": "Özel öğrenme bozukluğunun temelinde görsel algılama sorunları olduğu öne sürülmüştür ve bu çocukların görsel takipte de sorun yaşamaları olasıdır. Bu nedenle <b>görsel takipte sorun yaşamazlar</b> ifadesi söylenemez.",
+            "unit": 7,
+            "topic": "7.2. Öğrenme Güçlüğünde Duyusal Eğitim",
+            "source": "Vize Sınavı 2021-2022",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1095,
+            "question": "Otizm spektrum bozukluğu olan çocuklardaki motor ve duyusal gelişimi desteklemek amacıyla aşağıdaki oyun/aktivitelerden hangisi önerilmektedir?",
+            "options": [
+                "İp atlama",
+                "Trambolinde zıplama",
+                "El arabası ile yürüme",
+                "Sürünme oyunları",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Otizm spektrum bozukluğu olan çocuklardaki motor ve duyusal gelişimi desteklemek amacıyla listelenen <b>hepsi</b> önerilmektedir.",
+            "unit": 7,
+            "topic": "7.3. Otizm Spektrum Bozukluğunda Duyusal Eğitim",
+            "source": "Early Childhood Sensory Education Practice Exam",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 1096,
+            "question": "Aşağıdakilerden hangisi duyu eğitiminde belirlenecek hedeflerden biridir?",
+            "options": [
+                "Dikkatini çevreye yoğunlaştırmak",
+                "Kaba motor becerilerini geliştirmek",
+                "Kelime dağarcığını geliştirmek",
+                "Duygu düzenlemesini geliştirmek",
+                "Toplama-çıkarma, ritmik sayma gibi matematiksel becerileri kazandırmak"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyu eğitiminde belirlenecek hedeflerden biri, çocuğun <b>Dikkatini çevreye yoğunlaştırmasını</b> sağlamaktır.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 8, Soru 1"
+        },
+        {
+            "id": 1097,
+            "question": "Aşağıdakilerden hangisi duyu eğitiminde hedeflere ulaşırken dikkat edilecek noktalardan birisi <u>değildir</u>?",
+            "options": [
+                "Çocuğun fizyolojik olarak sağlıklı olup olmadığının kontrol edilmesi",
+                "Çocuğun ilgi alanlarının fark edilmesi",
+                "Çocuğun gelişimsel düzeyi ve güçlü yanlarının saptanması",
+                "Çocuğun yaşantı sırasında öğrenim için denemeler yapmasına fırsat verilmesi",
+                "Önceden planlanmış, belirgin hatlara sahip müfredatın bulundurulması"
+            ],
+            "correctIndex": 4,
+            "explanation": "Duyu eğitiminde esneklik önemlidir. <b>Önceden planlanmış, belirgin hatlara sahip müfredatın bulundurulması</b>, hedeflere ulaşırken dikkat edilecek bir nokta değildir.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 8, Soru 2"
+        },
+        {
+            "id": 1098,
+            "question": "Çocuğa; “Görmüyorsan, karanlıkta yolunu bulmak için neler yapabilirsin?” sorusu sorulduğunda hangisini desteklemek amaçlanıyordur?",
+            "options": [
+                "Mekânda konum algısını ölçmek",
+                "Dokunsal ve görsel algısını sınamak",
+                "Duyu organlarını amaca ulaşmak için kullanmayı desteklemek",
+                "Sözcük dağarcığını arttırmak",
+                "Yer ve yön kavramını kazandırmak"
+            ],
+            "correctIndex": 2,
+            "explanation": "Görsel algı kısıtlandığında diğer duyuları kullanmaya teşvik eden bu soru, <b>Duyu organlarını amaca ulaşmak için kullanmayı desteklemeyi</b> amaçlar.",
+            "unit": 8,
+            "topic": "8.3. Duyulara Yönelik Etkinliklerin Planlanması ve Değerlendirilmesi",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 8, Soru 4"
+        },
+        {
+            "id": 1099,
+            "question": "Ayşe Öğretmen bireysel destek vereceği bir öğrencisini değerlendirirken ilgi duyduğu ve başarılı olduğu alanları merak etmiş ve çocuğun annesine sormuştur. Bu durumun nedeni aşağıdakilerden hangisi olabilir?",
+            "options": [
+                "Anneyle sıcak sohbet başlatmak",
+                "Çocuğun başarısını artırmak için planlama yapmak",
+                "İlgi duymadığı durumları da ilgi alanına almak",
+                "Ailenin yeteneklerini daha da geliştirmek",
+                "Çocuğun yetersizliğini sınamak"
+            ],
+            "correctIndex": 1,
+            "explanation": "Öğretmenin amacı, çocuğun güçlü yönlerini öğrenerek bu yönleri kullanıp <b>Çocuğun başarısını artırmak için planlama yapmaktır</b>.",
+            "unit": 8,
+            "topic": "8.3. Duyulara Yönelik Etkinliklerin Planlanması ve Değerlendirilmesi",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 8, Soru 5"
+        },
+        {
+            "id": 1100,
+            "question": "I. Ön değerlendirme yaparak çocuğun gelişim özelliğini belirlemek II. Çocuğun sevdiği işleri sıralamak III. Çocuğun fizyolojik olarak sağlığını kontrol etmek IV. Desteğe gereksinim duyulan duyusal alanı saptamak Duyu eğitim programı planlanırken yukarıdakilerden hangilerinin öncelikli olarak dikkate alınması gerekmektedir?",
+            "options": [
+                "I, II ve III",
+                "I ve III",
+                "I, III ve IV",
+                "I ve IV",
+                "II, III ve IV"
+            ],
+            "correctIndex": 2,
+            "explanation": "Duyu eğitim programı planlanırken öncelikli olarak: Ön değerlendirme (I), fizyolojik kontrol (III) ve desteğe gereksinim duyulan duyusal alanı saptamak (IV) dikkate alınmalıdır.",
+            "unit": 8,
+            "topic": "8.3. Duyulara Yönelik Etkinliklerin Planlanması ve Değerlendirilmesi",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 15"
+        },
+        {
+            "id": 1101,
+            "question": "Emine Öğretmen sınıfındaki çocuklardan birinin görmesinde bazı sorunlar olabileceğini düşünmektedir. Bu durumda öncelikli olarak hangisini yapması önerilir?",
+            "options": [
+                "Çocuğun gelişimini zamana bırakarak doğal olarak sorunun çözülmesini beklemek",
+                "Gözlerinin fizyolojik olarak, sağlıklı olup olmadığının kontrol edilmesi için sağlık kuruluşlarına yönlendirmek",
+                "Görmeyi uyarıcı ve destekleyici materyallerle çocuğa yönelik program hazırlamak",
+                "Çocuğu tek başına destekleyici uygulamalar yapmak için bireyselleştirilmiş program hazırlamak",
+                "Çocuğun sınıfta başarısız olacağını düşünerek başka bir sınıf ya da okula yönlendirmek"
+            ],
+            "correctIndex": 1,
+            "explanation": "Gelişimsel bir sorun şüphesi olduğunda öncelikli adım <b>Gözlerinin fizyolojik olarak kontrol edilmesi için sağlık kuruluşlarına yönlendirmektir</b>.",
+            "unit": 8,
+            "topic": "8.3. Duyulara Yönelik Etkinliklerin Planlanması ve Değerlendirilmesi",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1102,
+            "question": "Yavuz, beş yaşındadır. Genel olarak sağlıklı bir gelişim göstermekle beraber, vücut pozisyonunun ne konumda olduğu ve vücut ağırlığını hangi vücut kısmına doğru verdiği gibi durumları yerine getirme ve algılamada sorunlar yaşayabilmektedir. Bu durumda Yavuz’un hangi duyusunda sorun olduğu düşünülebilir?",
+            "options": [
+                "İşitme",
+                "Görme",
+                "Proprioseptif",
+                "Vestibüler",
+                "Tatma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Vücut pozisyonunun, uzuvların yerinin ve kas gerginliğinin algılanmasından sorumlu duyu <b>Proprioseptif</b> (Hareket) duyudur.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 1103,
+            "question": "Çocuk günlük yaşantısı sırasında nesnelerin birbirlerine göre farklı özelliklerini uygulamalı biçimde …………………… yöntemiyle öğrenebilir. Yukardaki noktalı boşluk için en uygun olan yöntem hangisidir?",
+            "options": [
+                "anlatım",
+                "deneme yanılma",
+                "gözlem",
+                "ezber",
+                "kopyalama"
+            ],
+            "correctIndex": 1,
+            "explanation": "Çocuk günlük yaşantısında nesnelerin farklı özelliklerini uygulamalı olarak <b>deneme yanılma</b> yöntemiyle öğrenebilir.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 28"
+        },
+        {
+            "id": 1104,
+            "question": "Cansu, sulandırılmış parmak boyaları ve nişasta karışımına parmaklarını daldırdıktan sonra büyük boy bir muşamba üzerinde çeşitli desenler oluşturmaktadır. Bu deneyim sırasında Cansu’da aşağıdaki becerilerden hangisi gelişmiştir?",
+            "options": [
+                "İşitsel algısı ve dinlenme becerisi",
+                "Temizlik ve sağlık bilgisi",
+                "Dikkatini belirli bir işe yoğunlaştırması",
+                "Büyük kas motor becerileri",
+                "Bilgiyi akılda tutma ve hatırlaması"
+            ],
+            "correctIndex": 2,
+            "explanation": "El-göz koordinasyonu ile büyük yüzeyde çalışma ve desen oluşturma, çocuğun <b>Dikkatini belirli bir işe yoğunlaştırması</b> becerisini geliştirir.",
+            "unit": 8,
+            "topic": "8.5. 3 Yaş ve Üzeri Çocuklar İçin Örnek Duyu Etkinlikleri",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 20"
+        },
+        {
+            "id": 1105,
+            "question": "Bahadır sınıf içi ve dışında gerçekleştirilen eğitimsel etkinliklerde kendisine sunulan bilgileri öğrenirken aşağıdaki duyulardan hangisini diğerlerine oranla <u>daha az kullanmaktadır</u>?",
+            "options": [
+                "Dokunma",
+                "Tatma",
+                "Hareket",
+                "Görme",
+                "İşitme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Eğitimsel etkinliklerde genellikle Görme, İşitme, Dokunma ve Hareket duyuları aktif kullanılırken, <b>Tatma</b> duyusu diğerlerine oranla daha az kullanılır.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1106,
+            "question": "Aşağıdakilerden hangisi duyuların önemi kapsamına girmez?",
+            "options": [
+                "Nesneleri tanıma, algıyı geliştirme becerilerini geliştirir.",
+                "Zararlı olabilecek durumları fark etmeye olanak sağlar.",
+                "Gelişimin temelini oluşturur.",
+                "Fiziksel kondisyonu geliştirir.",
+                "Zihinsel yapılanmayı destekler."
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyular; zihinsel yapılanmayı, algıyı ve güvenliği destekler. Ancak <b>Fiziksel kondisyonu geliştirme</b>, duyuların doğrudan işlevi değildir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Preschool Sensory Education Final Exam",
+            "sourceInfo": "Soru 9"
+        },
+        {
+            "id": 1107,
+            "question": "Bebeklik ve ilk çocukluk dönemindeki duyu gelişimiyle ilgili hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Gelişim ve öğrenme hızının her çocukta aynı olmaması, kalıtımsal ve çevresel faktörlerin ilişkisi sonucu oluşan duyusal farklılıklardan kaynaklanmaktadır.",
+                "Duyular bebeklik ve erken çocukluk yıllarında genel gelişime paralel olarak hızlı bir gelişim gösterir.",
+                "Yeni doğan bebeklerde tat duyusunun kısmen gelişmiş olmasına rağmen koku duyusu kısmen gelişmiştir.",
+                "Her bebek yaşama aynı duyu hassasiyeti ile gelemeyebilmektedir.",
+                "Tüm duyular doğumdan itibaren aktif biçimde kullanılmaya başlanmaktadır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Yeni doğan bebeklerde tat duyusunun kısmen gelişmiş olmasına rağmen, kaynaklar koku duyusunun <b>fazla gelişmemiş olduğunu</b> belirtmektedir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi / Duyu Gelişimi",
+            "source": "Vize Sınavı 2021-2022",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 1108,
+            "question": "Aşağıdakilerden hangisini söyleyen bir birey diğerlerine göre duyulardan daha çok etkileniyor olabilir?",
+            "options": [
+                "Sabah uyandığımda Emine’nin çoktan evden çıkmış olduğunu fark ettim.",
+                "Büyük bir çaba göstermeme rağmen bu konulan bir türlü anlayamıyorum.",
+                "Yumuşak ses tonu ve görünümüyle bizi büyüledi.",
+                "Hasan hayatımda tanıdığım en sıcakkanlı insandı.",
+                "Bazı günler kendimi mutsuz hissediyorum."
+            ],
+            "correctIndex": 2,
+            "explanation": "<b>Yumuşak ses tonu ve görünümü</b> ifadesi, görsel ve işitsel duyuya yönelik sıfatlar içerdiği için, bu bireyin duyusal etkileşime daha çok odaklandığını gösterir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Preschool Sensory Education Midterm Questions",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1109,
+            "question": "Çevreden gelen görme, işitme, dokunma, koklama ve tatma duyularına yönelik duyusal mesajları alan duyu sistemi hangisidir?",
+            "options": [
+                "Dışsal",
+                "Dokunsal",
+                "Erişimsel",
+                "İçsel",
+                "Merkezsel"
+            ],
+            "correctIndex": 0,
+            "explanation": "Görme, işitme, dokunma, koklama ve tatma duyularına yönelik mesajları alan sistem <b>Dışsal</b> duyu sistemidir.",
+            "unit": 1,
+            "topic": "1.1. Duyularla Dolu Bir Yaşam - Temel Kavramlar",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 19"
+        },
+        {
+            "id": 1110,
+            "question": "Reseptörlerin bulundukları yerlere göre işlevleri ile ilgili aşağıdakilerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Ekteroseptörler, vücudun dışında deride bulunur ve derinin maruz kaldığı çevresel etkiyi yansıtır.",
+                "İnteroseptörler, vücudun iç kısmında bulunan tansiyon ve pH değişimi gibi çeşitli uyaranları alır.",
+                "Teleseptörler, koku, ses, görüntü gibi uzaktan gelen uyaranları alır.",
+                "Proprioseptörler, kas, tendon, eklemler ve iç kulağın denge ile ilgili kısmında yer alırlar.",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Listelenen tüm reseptör tipleri (Ekteroseptörler, İnteroseptörler, Teleseptörler ve Proprioseptörler) bulundukları yerlere göre doğru işlevlere sahiptir.",
+            "unit": 1,
+            "topic": "1.1. Duyularla Dolu Bir Yaşam - Reseptörler",
+            "source": "Vize Deneme Sınavı 2021-2022",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1111,
+            "question": "Yediği mamayı tadından dolayı yemeyi reddeden bir bebek hangi duyusunu kullanıyordur?",
+            "options": [
+                "Denge",
+                "Görme",
+                "Tat",
+                "İşitme",
+                "Dokunma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Yemeği reddetmek, bebeğin <b>tat</b> duyusunu aktif olarak kullandığını gösterir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1112,
+            "question": "Bir okul öncesi çocuğu karşılaştığı kişilerden birinin cinsiyetini anlamasında duyusal olarak önce hangi duyusunu kullanır?",
+            "options": [
+                "Tatma",
+                "Görme",
+                "Denge",
+                "Koklama",
+                "İşitme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Cinsiyet ayrımı gibi fiziksel özelliklerin algılanmasında ilk kullanılan duyu <b>Görme</b> duyusudur.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Final Deneme Sınavı 2021-2022",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1113,
+            "question": "Bir okul öncesi çocuğu parkta arkadaşlarıyla oyun oynarken arkasından hızla yaklaşan salıncağın kendisi için tehlikeli bir durum oluşturacağını duyusal olarak önce hangi duyusu ile anlayabilir?",
+            "options": [
+                "İşitme",
+                "Tatma",
+                "Görme",
+                "Koklama",
+                "Hareket"
+            ],
+            "correctIndex": 0,
+            "explanation": "Hızla yaklaşan salıncağın oluşturduğu tehlike, çıkan ses (rüzgar, salıncağın sesi) yoluyla <b>İşitme</b> duyusuyla önce algılanabilir.",
+            "unit": 1,
+            "topic": "1.2. Duyuların Önemi",
+            "source": "Preschool Sensory Education Midterm Questions",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 1114,
+            "question": "Yavuz, beş yaşındadır. Genel olarak sağlıklı bir gelişim göstermekle beraber, vücut pozisyonunun ne konumda olduğu ve vücut ağırlığını hangi vücut kısmına doğru verdiği gibi durumları yerine getirme ve algılamada sorunlar yaşayabilmektedir. Bu durumda Yavuz’un hangi duyusunda sorun olduğu düşünülebilir?",
+            "options": [
+                "İşitme",
+                "Görme",
+                "Proprioseptif",
+                "Vestibüler",
+                "Tatma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Vücut pozisyonunun, uzuvların yerinin ve kas gerginliğinin algılanmasından sorumlu duyu <b>Proprioseptif</b> (Hareket) duyudur.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 1115,
+            "question": "Aşağıdakilerden hangisi dokunma alanına yönelik bir gösterge <u>değildir</u>?",
+            "options": [
+                "Isı değişimini algılama (sıcak-soğuk ortama tepki verme)",
+                "Ağzıyla ses çıkarma",
+                "Altı kirlendiğinde rahatsız olma",
+                "Su ve/veya kum vb. materyallere ilgi gösterme",
+                "Diş fırçalamaya ilgi gösterme"
+            ],
+            "correctIndex": 1,
+            "explanation": "<b>Ağzıyla ses çıkarma</b>, işitsel öğrenme alanının veya sözel gelişimin bir göstergesi olup, doğrudan dokunma alanına yönelik bir gösterge değildir.",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 5"
+        },
+        {
+            "id": 1116,
+            "question": "Ses çıkaran nesnelere ilgi gösterebilme hangi duyu alanının göstergesidir?",
+            "options": [
+                "İşitme",
+                "Görme",
+                "Koklama",
+                "Dokunma",
+                "Tatma"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ses çıkaran nesnelere ilgi göstermek, <b>İşitme</b> duyu alanının bir göstergesidir.",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 4"
+        },
+        {
+            "id": 1117,
+            "question": "Bebekler hangi ay civarında sesin kaynağını bulabilmekte ve ses tonlarını ayırt edebilmektedir?",
+            "options": [
+                "10 ay",
+                "18 ay",
+                "3 ay",
+                "1 ay",
+                "5 ay"
+            ],
+            "correctIndex": 4,
+            "explanation": "Bebekler yaklaşık <b>5 ay</b> civarında sesin kaynağını bulabilmekte ve ses tonlarını ayırt edebilmektedir.",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Vize",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1118,
+            "question": "Çocuklarda hoşlandıklarını, kaçındıklarını ve ne şekilde daha kolay öğrenebileceklerini belirleyebilmek amacıyla ön plana çıkan duyusal özelliklerinin belirlenmesinde bir çocuk gelişimcinin aşağıdakilerden hangisini yapması önemlidir?",
+            "options": [
+                "Resim çizdirmesi",
+                "Konuşma yapması",
+                "Ölçek uygulaması",
+                "Gözlem yapması",
+                "Form doldurtması"
+            ],
+            "correctIndex": 3,
+            "explanation": "Çocuğun bireysel duyusal özelliklerini belirlemede en önemli ve temel yöntem, doğal ortamında <b>gözlem yapmaktır</b>.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar ve Duyusal İşlemleme Becerisi",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 3"
+        },
+        {
+            "id": 1119,
+            "question": "Ayşe Öğretmen kitap okuma etkinliğinde çocuklara bir tavşanla sırtlan arasında geçen can yakma tartışmasıyla ilgili bir kitap okur. Kitap sonunda çocuklara kitabın içinde geçen “çörek” terimiyle ilgili de etkinlik yaptırarak bütünleştirilmiş bir program uygular. Bu çalışma sonunda çocukların hangi duyuları uyarılır?",
+            "options": [
+                "Tatma ve koklama",
+                "Görme ve tatma",
+                "İşitme ve tatma",
+                "Görme ve işitme",
+                "Görme ve dokunma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kitap okuma ve hikaye dinleme <b>Görme</b> ve <b>İşitme</b> duyularını uyarır.",
+            "unit": 2,
+            "topic": "2.4. Duyuların Gelişimini Destekleyici Etkinlikler",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 12"
+        },
+        {
+            "id": 1120,
+            "question": "Duyusal olarak yetersiz ortamların çocukların gelişiminde nasıl bir etkisi bulunmaktadır?",
+            "options": [
+                "Çocukları ulaşabilecekleri düzeyin gerisinde bırakır.",
+                "Çocukları duyularını kullanamaya teşvik eder.",
+                "Çocukların bulundukları çevreye ilgi duymasını sağlar.",
+                "Çocukları işbirliğine ve koordinasyona yönlendirir.",
+                "Çocukları görsel ve işitsel olarak uyarır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Uyaran eksikliği veya yetersiz ortamlar, çocukların <b>gelişimlerini potansiyel düzeyin gerisinde bırakır</b>.",
+            "unit": 2,
+            "topic": "2.2. Günlük Yaşamın Parçası Olarak Duyu İşlemleme",
+            "source": "Preschool Sensory Education Midterm Questions 2024-2025",
+            "sourceInfo": "Soru 11"
+        },
+        {
+            "id": 1121,
+            "question": "Ali sınıfındaki sanat merkezinde parmak boyasıyla hem dokunma hem de görme duyularını kullanarak çalışmalar yapmaktadır. Bu çalışması gelişimsel olarak Ali’nin beyninde somut ve anlamlı hale gelmektedir. Bu sürece verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Görsel algılama",
+                "Duyu işlemleme",
+                "Dokunsal dikkat",
+                "Görsel ayırt etme",
+                "İşitsel ayırt etme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Duyusal bilgilerin (dokunma ve görme) beyinde organize edilerek somut ve anlamlı hale gelmesi sürecine <b>Duyu işlemleme</b> adı verilir.",
+            "unit": 2,
+            "topic": "2.1. Beyindeki Duyusal Alanlar ve Duyusal İşlemleme Becerisi",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 15"
+        },
+        {
+            "id": 1122,
+            "question": "Zeynep oyun oynadığı sırada dışarıdan gelen bir kokuyu fark edip oyununu yarım bırakmıştır. Kokunun kaynağını bulmak için çaba göstermektedir. Buna göre Zeynep’in davranışı Dunn’ın hangi duyusal örüntü türü ile açıklanabilir?",
+            "options": [
+                "Düşük algılama",
+                "Duyusal kaçınma",
+                "Duyusal arayış",
+                "Yüksek hassasiyet",
+                "Duyusal duyarlılık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Zeynep’in uyarıcıyı (koku) aktif olarak araması, yüksek eşiğe rağmen aktif tepki verme şekli olan <b>Duyusal Arayış</b> modeline uyar.",
+            "unit": 3,
+            "topic": "3.3. Duyusal Arayış Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 1123,
+            "question": "Duyusal işlemlemede sorunlar yaşayan çocuklarla ilgili aşağıdakilerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "Görsel algılarında sorun yoktur.",
+                "Gelişimsel bir sorun değildir.",
+                "Tatma ya da koklama sorununda görülüç",
+                "Motor ya da nöral yetersizlikte görülebilir.",
+                "Otizm bozukluğunda gözlenme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyusal işlemleme sorunları, gelişimsel <b>motor ya da nöral yetersizlikler</b> yaşayan çocuklarda görülebilir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1124,
+            "question": "Bedensel, işitsel ve/veya görsel yetersizlikler yaşayan özel gereksinimli çocukların duyularını kullanmalarında aşağıdaki yetersizlik türlerinden hangisi görülebilmektedir?",
+            "options": [
+                "Duyusal işlemleme",
+                "Duyusal ayrım",
+                "Duyusal tepkisellik",
+                "Duyusal tutarsızlık",
+                "Duyusal gereksinim"
+            ],
+            "correctIndex": 0,
+            "explanation": "Özel gereksinimli çocuklarda duyusal bilgileri organize etme ve anlamlandırma sorunu olan <b>Duyusal işlemleme</b> yetersizliği görülebilmektedir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Final Sınavı 2023-2024",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1125,
+            "question": "Ayşe gündelik yaşantısında duyusal olarak izlediği ve edindiği bilgileri uygulamaya geçirmek istediğinde, uygun zaman ve ortamda kendinden beklenen uygun hareketleri yapmada sorun yaşamaktadır. Ayşe’nin bu durumu aşağıdakilerden hangisidir?",
+            "options": [
+                "Duyusal işlememe sorunu",
+                "Genel denge bozukluğu",
+                "Duyusal eğilim sapması",
+                "Duygu durum bozukluğu",
+                "Hareket işlev sorunu"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyusal olarak alınan bilgiyi amaca yönelik, planlı bir motor tepkiye çevirmede yaşanan soruna <b>Duyusal İşlememe Sorunu</b> denir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Final Sınavı Sorusu",
+            "sourceInfo": "Soru 21"
+        },
+        {
+            "id": 1126,
+            "question": "Normal gelişim gösteren bir bireyde entegre çalışan ve işlemleme yapan duyular….. sağlar. Yukarıdaki boşluğa getirilebilecek en uygun ifade aşağıdakilerden hangisidir?",
+            "options": [
+                "dikkat ve odaklanmanın normalleşmesini",
+                "normal gelişimin üst düzeyde olmasını",
+                "bireyin dengeli yaşam sürmesini",
+                "görsel algının daha ileride olmasını",
+                "vücut ve beynin eşgüdümlü hareket etmesini"
+            ],
+            "correctIndex": 4,
+            "explanation": "Entegre çalışan ve işlemleme yapan duyular, <b>vücut ve beynin eşgüdümlü hareket etmesini</b> sağlar.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1127,
+            "question": "Duyularla algılananların beyinde somut ve anlamlı hale gelme süreci ne olarak adlandırılmaktadır?",
+            "options": [
+                "Motivasyon",
+                "Duyarlılık",
+                "Hassasiyet",
+                "Duyu işlemleme",
+                "Öğrenme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyular aracılığıyla çevreden alınan bilgilerin beyinde organize edilerek somut ve anlamlı hale gelmesi sürecine <b>Duyu işlemleme</b> adı verilir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 1"
+        },
+        {
+            "id": 1128,
+            "question": "Aşağıdakilerden hangisi duyusal bütünlemede yaşanılan sorunların yol açtığı etkilerden biri <u>değildir</u>?",
+            "options": [
+                "Akademik yetenekte sorunlar",
+                "Yemek yeme sorunu",
+                "Öğrenmede güçlük",
+                "Sinir sistemi bozuklukları",
+                "Dikkat ve davranış bozukluğu"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyusal bütünleme sorunları; öğrenme, davranış ve akademik alanları etkilerken, doğrudan <b>Sinir sistemi bozukluklarına</b> yol açtığı söylenemez.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 3, Soru 2"
+        },
+        {
+            "id": 1129,
+            "question": "Altı yaşındaki Ahmet uygun destek alamadığında başkalarının fark ettiklerini fark etmekte başarısızlık göstermektedir. Bu durumda Ahmet’in duyusal özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Duyusal duyarlık",
+                "Düşük algılama",
+                "Duyusal kaçınma",
+                "Duyusal rahatlama",
+                "Yüksek hassasiyet"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ahmet’in çevresel uyarıcılara karşı farkındalığının az olması, yüksek eşik ve pasif tepki ile karakterize edilen <b>Düşük Algılama</b> (Düşük Kayıt) örüntüsüne sahip olduğunu gösterir.",
+            "unit": 3,
+            "topic": "3.2. Düşük Algılama Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 2"
+        },
+        {
+            "id": 1130,
+            "question": "Aşağıdakilerden hangisi düşük algılama modeline sahip çocukları desteklemek için yapılabilecek bir uygulamadır?",
+            "options": [
+                "Yemekte farklı tatlar sunmak",
+                "Tek başına yemesine olanak sağlamak",
+                "Yemeklerle ilgili sohbet etmek",
+                "Sofra kurulumu için yardım istemek",
+                "Yemeden önce ellerini yıkamasını istemek"
+            ],
+            "correctIndex": 0,
+            "explanation": "Düşük algılama (Low Registration) gösteren çocukları canlandırmak için <b>Yemekte farklı tatlar sunmak</b> gibi yoğun duyusal uyaranlar içeren uygulamalar önerilir.",
+            "unit": 3,
+            "topic": "3.2. Düşük Algılama Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "AUZEF Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1131,
+            "question": "Dunn’un duyu modeline göre kolayca ağlayan çocuk hangi maddede yer alır?",
+            "options": [
+                "Duyusal arama",
+                "Duyusal duyarlılık",
+                "Duyusal uyarım",
+                "Düşük tahammül",
+                "Duyusal oturaklılık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kolayca ağlama ve beklenmedik tepkiler verme gibi durumlar, düşük eşiğe sahip ve pasif tepki veren <b>Duyusal Uyarım</b> (Duyusal Duyarlılık) örüntüsüne girmektedir.",
+            "unit": 3,
+            "topic": "3.5. Duyusal Duyarlılık Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Preschool Sensory Education Midterm Questions",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1132,
+            "question": "Nazan Öğretmen sınıfında planladığı duyu eğitimi çalışmalarında Ali’nin belirli nesnelere dokunmada ve elinde tutmada sıkıntısı olduğunu fark etmiştir. Bu durumda Ali ile ilgili aşağıdakilerden hangisi düşünülmelidir?",
+            "options": [
+                "Düşük algılama",
+                "Duyusal uyarım",
+                "Duyusal duyarlık",
+                "Duyusal kaçınma",
+                "Duyusal arayış"
+            ],
+            "correctIndex": 3,
+            "explanation": "Ali’nin nesnelere dokunmaktan kaçınması ve elinde tutmada sıkıntı yaşaması, uyarana karşı aktif olarak kaçınma tepkisi gösterdiği <b>Duyusal Kaçınma</b> örüntüsüne sahip olduğunu düşündürmektedir.",
+            "unit": 3,
+            "topic": "3.4. Duyusal Kaçınma Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 1133,
+            "question": "Duyu işlemleme sorunu yaşayan çocuklarda duyu bütünlüğünü sağlamak için aşağıdakilerden hangisinin yapılması <u>önceliklidir</u>?",
+            "options": [
+                "Çocuğa uygun program belirlenmesi",
+                "Destekleyici çalışmalar gerçekleştirilmesi",
+                "Çocuğun grup çalışmalarına katılması",
+                "Çocuğun değerlendirilmesinin yapılması",
+                "Duyusal uyaranların amaca yönelik kullanılması"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyusal işlemleme sorunu olan bir çocukta müdahale programına başlamadan önce yapılması gereken ilk ve en öncelikli adım <b>Çocuğun değerlendirilmesinin yapılmasıdır</b>.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1134,
+            "question": "Eda, yumuşak tüylü oyuncaklara ilgi duymakta ve sürekli elinde tutma ve taşıma, eliyle tüylerini okşama ve sarılma eğilimi göstermektedir. Aşağıdakilerden hangisi duyusal bütünlemeye göre Eda’nın sergilediği duyusal örüntüdür?",
+            "options": [
+                "Düşük algılama",
+                "Duyusal kaçınma",
+                "Duyusal arayış",
+                "Duyusal duyarlılık",
+                "Duyusal yeterlilik"
+            ],
+            "correctIndex": 3,
+            "explanation": "Belirli bir uyarana (yumuşak doku) karşı artan ilgi ve sürekli ona yönelme, düşük eşiğe sahip olma durumu olan <b>Duyusal Duyarlılık</b> örüntüsüne işaret eder.",
+            "unit": 3,
+            "topic": "3.5. Duyusal Duyarlılık Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi ve Uygulamaları",
+            "sourceInfo": "Soru 17"
+        },
+        {
+            "id": 1135,
+            "question": "Zeynep oyun oynadığı sırada dışarıdan gelen bir kokuyu fark edip oyununu yarım bırakmıştır. Kokunun kaynağını bulmak için çaba göstermektedir. Buna göre Zeynep’in davranışı Dunn’ın hangi duyusal örüntü türü ile açıklanabilir?",
+            "options": [
+                "Düşük algılama",
+                "Duyusal kaçınma",
+                "Duyusal arayış",
+                "Yüksek hassasiyet",
+                "Duyusal duyarlılık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Zeynep’in uyarıcıyı aktif olarak araması, yüksek eşiğe rağmen aktif tepki verme şekli olan <b>Duyusal Arayış</b> modeline uyar.",
+            "unit": 3,
+            "topic": "3.3. Duyusal Arayış Modeline Sahip Çocukların Desteklenmesinde Neler Yapılabilir?",
+            "source": "Vize Sınavı 2022-2023",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 1136,
+            "question": "Aşağıdakilerden hangisi duyusal bütünlemede yaşanılan sorunların yol açtığı etkilerden biri <u>değildir</u>?",
+            "options": [
+                "Akademik yetenekte sorunlar",
+                "Yemek yeme sorunu",
+                "Öğrenmede güçlük",
+                "Sinir sistemi bozuklukları",
+                "Dikkat ve davranış bozukluğu"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyusal bütünleme sorunları; öğrenme, davranış ve akademik alanları etkilerken, doğrudan <b>Sinir sistemi bozukluklarına</b> yol açtığı söylenemez.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 3, Soru 2"
+        },
+        {
+            "id": 1137,
+            "question": "Duyularla algılananların beyinde somut ve anlamlı hale gelme süreci ne olarak adlandırılmaktadır?",
+            "options": [
+                "Motivasyon",
+                "Duyarlılık",
+                "Hassasiyet",
+                "Duyu işlemleme",
+                "Öğrenme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyular aracılığıyla çevreden alınan bilgilerin beyinde organize edilerek somut ve anlamlı hale gelmesi sürecine <b>Duyu işlemleme</b> adı verilir.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 2, Soru 1"
+        },
+        {
+            "id": 1138,
+            "question": "Aşağıdakilerden hangisi duyu bütünleme basamaklarından biri <u>değildir</u>?",
+            "options": [
+                "Duyusal işlemleme becerilerinin gelişimi",
+                "Duyusal işlemleme becerilerinin tanımı",
+                "Duyusal işlemleme bozukluklarının tanımlanması",
+                "Duyuların kategorizasyonun yapılması",
+                "Müdahale programlarının oluşturulması"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyu bütünleme basamakları arasında <b>Duyuların kategorizasyonun yapılması</b> yer almamaktadır.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -3",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 1139,
+            "question": "I. Duyusal arayış II. Duyusal kaçınma III. Duyusal hassasiyet IV. Düşük kayıt Yukarıdakilerden hangileri Dunn modeline göre duyusal süreçte kullanılan stratejilerdendir?",
+            "options": [
+                "I, II",
+                "I, II, III",
+                "II, III, IV",
+                "II, III",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "explanation": "Dunn modeline göre duyusal süreçte kullanılan stratejiler (örüntüler); Duyusal arayış, Duyusal kaçınma, Duyusal hassasiyet (Duyarlılık) ve Düşük kayıt (Düşük algılama) olmak üzere dördüdür.",
+            "unit": 3,
+            "topic": "3.1. Duyu Bütünleme Modeli",
+            "source": "Preschool Sensory Education Final Exam",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 1140,
+            "question": "Aşağıdakilerden hangisi duyularımızdan biri <u>değildir</u>?",
+            "options": [
+                "Denge",
+                "Hareket",
+                "Sezgi",
+                "İşitme",
+                "Koklama"
+            ],
+            "correctIndex": 2,
+            "explanation": "Denge (vestibüler), Hareket (proprioseptif), İşitme ve Koklama duyusal sistemlerdir. <b>Sezgi</b> ise duyusal sistemlerden biri değildir.",
+            "unit": 4,
+            "topic": "4.1. Duyusal Algıların Gelişimi",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -4",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1141,
+            "question": "Aşağıdaki duyu çeşitleri arasından hangisi diğerlerine göre daha önce gelişmektedir?",
+            "options": [
+                "Dokunma",
+                "Koklama",
+                "Görme",
+                "Tat alma",
+                "İşitme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyu sistemleri arasında gelişimini <b>en erken</b> tamamlayan (anne karnında başlayan) duyu <b>Dokunma</b> duyusudur.",
+            "unit": 4,
+            "topic": "4.1. Duyusal Algıların Gelişimi",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1142,
+            "question": "Duyu sistemi gelişiminde gerilik olan çocuklarda aşağıdaki alanlardan hangisi ile ilgili sorun görülür?",
+            "options": [
+                "İşitsel algılama",
+                "Bilişsel, sosyal, duygusal, özbakım alanları",
+                "Dikkat alanı",
+                "Görsel algılama",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Duyu sistemi gelişiminde gerilik olan çocuklarda listelenen <b>hepsi</b> (bilişsel, sosyal, duygusal, özbakım, dikkat, işitsel, görsel) ile ilgili sorunlar görülür.",
+            "unit": 4,
+            "topic": "4.1. Duyusal Algıların Gelişimi",
+            "source": "Preschool Sensory Education Final Exam",
+            "sourceInfo": "Soru 12"
+        },
+        {
+            "id": 1143,
+            "question": "Vestibüler duyusunun işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sıcak-soğuk basıncı algılama",
+                "Sesleri duyup anlama",
+                "Dengenin sağlanması",
+                "Bedenin poziyonunu algılama",
+                "Kokuları algılama"
+            ],
+            "correctIndex": 2,
+            "explanation": "Vestibüler duyusu, iç kulakta yer alır ve temel işlevi <b>dengenin sağlanmasıdır</b>.",
+            "unit": 4,
+            "topic": "4.8. Denge duyusu (Vestibüler Duyu)",
+            "source": "Vize Deneme Sınavı 2022-2023",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 1144,
+            "question": "Beş duyu dışında uzuvlar hareket ettirilmeden bedenin pozisyonunun algılandığı duyu olarak da bilinen duyu aşağıdakilerden hangisidir?",
+            "options": [
+                "Proprioseptif",
+                "Wernikülasyon",
+                "Retrosentif",
+                "Vestibüler",
+                "Brokal"
+            ],
+            "correctIndex": 0,
+            "explanation": "Uzuvlar hareket ettirilmeden bedenin pozisyonunun algılanmasını sağlayan duyu, <b>Proprioseptif</b> (Hareket) duyudur.",
+            "unit": 4,
+            "topic": "4.7. Hareket Duyusu (Proprioseptif Duyu)",
+            "source": "Preschool Sensory Education Midterm Questions",
+            "sourceInfo": "Soru 20"
+        },
+        {
+            "id": 1145,
+            "question": "Montessori yaklaşımına göre hangisi <u>söylenemez</u>?",
+            "options": [
+                "Montessori her çocuğun doğumla birlikte çevresini keşfetme eğiliminde olduğundan bahsetmektedir.",
+                "Duyular, küçük çocukların öğrenmelerini gerçekleştirmelerinde diğer eğitim programlarına göre <u>ikinci plandadır</u>.",
+                "Bebekler, doğdukları andan itibaren her yeni objeyi tanımak için ağzına doğru götürmekte ya da etraflarındaki yüzeyi tanımaya çalışmaktadır.",
+                "Doğumdan üç yaşına kadar çocuk farkında olmaksızın çevresi tarafından etkilenmekte ve çevresinde etkileştiği her şeyi zihinsel olarak emmektedir.",
+                "Çocuğun bireysel farklılığına saygı duyulur."
+            ],
+            "correctIndex": 1,
+            "explanation": "Montessori yaklaşımında duyu eğitimi (özellikle tek bir duyuya hassaslaştırma), öğrenmenin temelini oluşturur; bu nedenle duyular <b>ikinci planda değildir</b>.",
+            "unit": 5,
+            "topic": "5.2. Farklı Eğitim Modellerinde Duyu Eğitimi",
+            "source": "Vize Deneme Sınavı 2021-2022",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1146,
+            "question": "Bu eğitim yaklaşımında duyusal etkinlikler; basitten zora doğru ilerleyerek belirli bir düzen içinde gerçekleştirilirken uygulamalarda tek bir duyuya yönelerek, sadece belirli özelliklere odaklanarak hassaslaştırma ön plandadır. Yukarıda verilen eğitim modeli aşağıdakilerden hangisidir?",
+            "options": [
+                "Montessori",
+                "Reggio Emilia",
+                "Waldorf",
+                "High/Scop",
+                "Bank Street"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyusal materyallerin basitten zora, tek bir duyuyu izole ederek hassaslaştırmayı hedeflemesi <b>Montessori</b> yaklaşımının temel özelliğidir.",
+            "unit": 5,
+            "topic": "5.2. Farklı Eğitim Modellerinde Duyu Eğitimi",
+            "source": "Final Deneme Sınavı 2021-2022",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 1147,
+            "question": "Nilay Öğretmen duyu eğitiminde özellikle doğa ile ruhun uyumunu güçlendirici bir felsefeye odaklanan bir okul öncesi kurumunda görev yapmaktadır. Bu kurumda çocukların karşılıklı etkileşimle duyusal, bilişsel, sosyal, duygusal ve motor gelişimlerinin desteklenmesi amaçlanmaktadır. Nilay Öğretmen’in çalıştığı kurum aşağıdakilerden hangisidir?",
+            "options": [
+                "Bank Street",
+                "Waldorf",
+                "Reggio Emilia",
+                "High/Scope",
+                "Montessori"
+            ],
+            "correctIndex": 1,
+            "explanation": "Doğa ile ruhun uyumunu güçlendirici felsefeye odaklanan eğitim yaklaşımı <b>Waldorf</b> yaklaşımıdır.",
+            "unit": 5,
+            "topic": "5.2. Farklı Eğitim Modellerinde Duyu Eğitimi",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 1148,
+            "question": "Aşağıdakilerden hangisi duyusal çalışmaların ana hedeflerinden birisidir?",
+            "options": [
+                "Duygularını çeşitli yollardan ifade etme",
+                "Öz bakım becerilerini geliştirme",
+                "Çevredeki benzerlik, farklılıkları algılama, çevresel değişiklikleri fark etme",
+                "Parça-bütün ilişkisini kavrayabilme",
+                "İnce motor becerilerini destekleme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Duyusal çalışmaların ana hedeflerinden biri, çocuğun <b>Çevredeki benzerlik, farklılıkları algılaması ve çevresel değişiklikleri fark etmesidir</b>.",
+            "unit": 5,
+            "topic": "5.1. Duyu Eğitimi ve Çoklu Duyu Yaklaşımı",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 5, Soru 2"
+        },
+        {
+            "id": 1149,
+            "question": "Aşağıdakilerden hangisi duyulara yönelik çalışmalarda kullanılabilecek materyallerden biri <u>değildir</u>?",
+            "options": [
+                "Kum",
+                "Sabun köpüğü",
+                "Poşet",
+                "Keçe",
+                "Çalışma kâğıdı"
+            ],
+            "correctIndex": 4,
+            "explanation": "Kum, sabun köpüğü, poşet ve keçe duyusal materyallerdir. <b>Çalışma kâğıdı</b> ise doğrudan duyuya yönelik bir materyal değildir.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 1"
+        },
+        {
+            "id": 1150,
+            "question": "Aşağıdaki materyallerden hangisini incelerken 5 ana duyu türlerinin tamamı kullanılabilir?",
+            "options": [
+                "Boyama sayfası",
+                "Bilgisayar destekli eşleştirme çalışması",
+                "Deney tüpündeki karışım",
+                "Gazete",
+                "Limon"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Limon</b>; Görme, Tatma, Koklama, Dokunma ve İşitme duyularını aktive edebilir.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 3"
+        },
+        {
+            "id": 1151,
+            "question": "Aşağıdaki adı geçen etkinliklerden hangisi tat alma duyusunun gelişimine katkıda bulunur?",
+            "options": [
+                "Bu dolapta neler oluyor",
+                "Yaşadığım yeri düzenliyoruz",
+                "Kim ne yapar",
+                "Adım soyadım",
+                "Mis gibi kurabiyeler"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Mis gibi kurabiyeler</b> etkinliğinde tat alma duyusu (aynı zamanda görme, işitme, dokunma ve koku) uyarılır.",
+            "unit": 6,
+            "topic": "6.1. Duyu Eğitiminde Oyun Etkinlikleri",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 1152,
+            "question": "Begüm Öğretmen çocuklara sıcak-ılık-soğuk, ıslak-kuru, pütürlü-kaygan, sert-yumuşak gibi kavramları öğretme ve pekiştirme amacıyla çeşitli materyallerle sınıfını düzenlemek istemektedir. Bu durumda Begüm Öğretmen için sınıfında kullanmak üzere aşağıdakilerden hangisini önermek amacını gerçekleştirmeye yönelik olacaktır?",
+            "options": [
+                "Su ve kum havuzları",
+                "Bilgi işlem materyalleri",
+                "Müzik ve ritm aletleri",
+                "Ahşap ve plastik bloklar",
+                "Okuma ve yazma araçları"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sıcak-soğuk, ıslak-kuru, pürüzlü-kaygan gibi taktil ve termal kavramları öğretmek için en uygun materyaller <b>Su ve kum havuzlarıdır</b>.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "Okul Öncesi Dönemde Duyu Eğitimi ve Uygulamaları",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1153,
+            "question": "Aşağıdakilerden hangisi dokunma duyusunu geliştirmek için kullanılabilecek materyallerin birisi <u>değildir</u>?",
+            "options": [
+                "CD’ler",
+                "Taşlar",
+                "Kum",
+                "Su",
+                "Hamurlar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Taşlar, kum, su ve hamurlar dokunsal materyallerdir. <b>CD’ler</b> ise dokunma duyusunu geliştirmek için kullanılan materyallerden biri değildir.",
+            "unit": 6,
+            "topic": "6.2. Duyuları Destekleyici Oyun Materyalleri ve Oyuncaklar",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 6, Soru 4"
+        },
+        {
+            "id": 1154,
+            "question": "Çocukların duyularını kullanmaya yönelik oyun etkinliklerini ve oyundaki davranışlarını zenginleştirmede …………… önemli görülmektedir. Yukarıdaki cümlede noktalı kısma aşağıdakilerden hangisi gelmesi en uygundur?",
+            "options": [
+                "görsel materyaller",
+                "aile katılımı",
+                "açık hava",
+                "işitsel materyaller",
+                "çocuğun gelişimi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Çocukların duyularını kullanmaya yönelik oyun etkinliklerini ve oyundaki davranışlarını zenginleştirmede <b>aile katılımı</b> önemli görülmektedir.",
+            "unit": 6,
+            "topic": "6.3. Duyu Oyunlarında Yetişkinlere Düşen Görevler",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 1155,
+            "question": "25-30 ay aralığında oynanan 'Dans dans dans' etkinliği sırasında özellikle hangi duyu alanları ile ilgili uyaran <u>verilmez</u>?",
+            "options": [
+                "Görme",
+                "İşitme",
+                "Vestibüler",
+                "Proprioseptif",
+                "Tat alma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Dans sırasında Görme, İşitme, Vestibüler (denge) ve Proprioseptif (hareket) duyular uyarılırken, <b>Tat alma</b> duyusu ile ilgili uyaran verilmez.",
+            "unit": 6,
+            "topic": "6.1. Duyu Eğitiminde Oyun Etkinlikleri",
+            "source": "Okul Öncesi Duyu Eğitimi Deneme Sınavı",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 1156,
+            "question": "Aşağıdakilerden hangisi duyulara yönelik imgelerden biri <u>değildir</u>?",
+            "options": [
+                "Titreşim",
+                "Koku",
+                "Sembol",
+                "Ses",
+                "Hüzün"
+            ],
+            "correctIndex": 4,
+            "explanation": "Titreşim, koku, sembol ve ses duyusal imgelerdir. <b>Hüzün</b> ise bir duygu durumu olup, duyulara yönelik bir imge değildir.",
+            "unit": 6,
+            "topic": "6.4. Çocukların Duyularını Uyarmaya Yönelik Yapılabilecekler",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 1157,
+            "question": "Aşağıdaki gelişimsel bozuklardan hangisinin prematüre bebekler görülme sıklığı normal doğan bebeklere göre daha fazladır?",
+            "options": [
+                "Zihinsel yetersizlik",
+                "Otizm spektrum bozukluğu",
+                "Özel öğrenme bozukluğu",
+                "Dikkat eksikliği hiperaktivite bozukluğu",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Prematüre bebeklerde Zihinsel yetersizlik, Otizm spektrum bozukluğu, Özel öğrenme bozukluğu ve DEHB dahil olmak üzere listelenen <b>hepsi</b>nin görülme sıklığı normal doğan bebeklere göre daha fazladır.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 1158,
+            "question": "Prematüre bebekler için aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Toplumda sıklığı giderek artmaktadır.",
+                "Erken gelişim dönemlerinden itibaren izleme alınmalıdır.",
+                "Gelişimi geriden gelen çocuklar sadece izlenmeli erken müdahaleye gerek yoktur.",
+                "Prematür bebeklerde işitme ve görme ile ilgili problemler de sıklıkla görülmektedir.",
+                "Hiçbiri"
+            ],
+            "correctIndex": 2,
+            "explanation": "Gelişimi geriden gelen çocuklar <b>sadece izlenmemeli, erken müdahale</b> uygulanmalıdır.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Final Sınavı Soruları",
+            "sourceInfo": "Soru 9"
+        },
+        {
+            "id": 1159,
+            "question": "Anıl otistik özellikler gösteren altı yaşında bir çocuktur. Kendisiyle konuşulduğunda duymuyormuş gibi davranmakta ve belirli materyallere dokunmakta sorunlar yaşamaktadır. Anıl ile ilgili aşağıdakilerden hangisi kesin olarak söylenebilir?",
+            "options": [
+                "Duyusal entegrasyon desteği almalıdır.",
+                "İşitsel ya da dokunsal sorunu yoktur.",
+                "Duyusal odaklanma becerisi yüksektir.",
+                "Duyularını aktif biçimde kullanabilir.",
+                "Duyusal yetersizlik sorunu görülmeyebilir"
+            ],
+            "correctIndex": 0,
+            "explanation": "Anıl'ın hem işitsel hem dokunsal tepkisizlik/kaçınma belirtileri göstermesi, <b>Duyusal entegrasyon desteği</b> alması gerektiğini kesin olarak söylenebilir.",
+            "unit": 7,
+            "topic": "7.3. Otizm Spektrum Bozukluğunda Duyusal Eğitim",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 1160,
+            "question": "Duyu bütünlüğü eğitimini, özel gereksinimli öğrencilerinin desteklenmesinde kullanmayı amaçlayan bir eğitimci aşağıdakilerden hangi beceriyi arttırmaya odaklanmaktadır?",
+            "options": [
+                "Çocuğun estetik olarak düşünebilmesini ve organizasyon becerisini arttırabilme",
+                "Çocuğun duyu uyaranlarını organize edebilmesini sağlayarak onlara uygun cevap oluşturabilme",
+                "Çocuğun kelime hazinesini arttırarak iletişimsel becerisini geliştirebilme",
+                "Çocuğun kaba motor becerilerini geliştirme",
+                "Çocuğun bilişsel becerilerini geliştirme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Duyu bütünleme eğitiminin temel amacı, çocuğun <b>duyu uyaranlarını organize edebilmesini sağlayarak onlara uygun cevap oluşturabilmesini</b> sağlamaktır.",
+            "unit": 7,
+            "topic": "7.1. Özel Gereksinimi Olan Çocuklar ve Duyu Eğitimi",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 11"
+        },
+        {
+            "id": 1161,
+            "question": "Aşağıdakilerden hangisi duyu eğitiminde belirlenecek hedeflerden biridir?",
+            "options": [
+                "Dikkatini çevreye yoğunlaştırmak",
+                "Kaba motor becerilerini geliştirmek",
+                "Kelime dağarcığını geliştirmek",
+                "Duygu düzenlemesini geliştirmek",
+                "Toplama-çıkarma, ritmik sayma gibi matematiksel becerileri kazandırmak"
+            ],
+            "correctIndex": 0,
+            "explanation": "Duyu eğitiminde belirlenecek hedeflerden biri, çocuğun <b>Dikkatini çevreye yoğunlaştırmasını</b> sağlamaktır.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 8, Soru 1"
+        },
+        {
+            "id": 1162,
+            "question": "Aşağıdakilerden hangisi duyu eğitiminde hedeflere ulaşırken dikkat edilecek noktalardan birisi <u>değildir</u>?",
+            "options": [
+                "Çocuğun fizyolojik olarak sağlıklı olup olmadığının kontrol edilmesi",
+                "Çocuğun ilgi alanlarının fark edilmesi",
+                "Çocuğun gelişimsel düzeyi ve güçlü yanlarının saptanması",
+                "Çocuğun yaşantı sırasında öğrenim için denemeler yapmasına fırsat verilmesi",
+                "Önceden planlanmış, belirgin hatlara sahip müfredatın bulundurulması"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Önceden planlanmış, belirgin hatlara sahip müfredatın bulundurulması</b>, duyu eğitiminin bireyselleştirilmiş ve esnek yapısı nedeniyle dikkat edilecek bir nokta değildir.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 8, Soru 2"
+        },
+        {
+            "id": 1163,
+            "question": "Çocuğa; “Görmüyorsan, karanlıkta yolunu bulmak için neler yapabilirsin?” sorusu sorulduğunda hangisini desteklemek amaçlanıyordur?",
+            "options": [
+                "Mekânda konum algısını ölçmek",
+                "Dokunsal ve görsel algısını sınamak",
+                "Duyu organlarını amaca ulaşmak için kullanmayı desteklemek",
+                "Sözcük dağarcığını arttırmak",
+                "Yer ve yön kavramını kazandırmak"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bu soru, görsel algı kısıtlandığında diğer duyuları kullanmaya teşvik ederek <b>Duyu organlarını amaca ulaşmak için kullanmayı desteklemeyi</b> amaçlar.",
+            "unit": 8,
+            "topic": "8.3. Duyulara Yönelik Etkinliklerin Planlanması ve Değerlendirilmesi",
+            "source": "AUZEF Kitap Bölüm Sorusu",
+            "sourceInfo": "Bölüm 8, Soru 4"
+        },
+        {
+            "id": 1164,
+            "question": "Yasemin Öğretmen dört yaş grubunda özel gereksinimli çocuklara yönelik duyu etkinlikleri hazırlarken, bu sürece başlarken öncelikli olarak aşağıdakilerden hangisini yapması gerekmektedir?",
+            "options": [
+                "Eğitim programını tasarlamalıdır.",
+                "Bol ve yeterli materyal almalıdır.",
+                "Çocukların başarılarını övmelidir.",
+                "Çocukların ön değerlendirmesini yapmalıdır.",
+                "Sınıfın mekânsal düzenini sağlamalıdır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Özel gereksinimli çocuklara yönelik duyu etkinliklerini planlamadan önce, öğretmenin <b>Çocukların ön değerlendirmesini yapması</b>, hangi alanlarda destek gerektiğini belirlemesi için önceliklidir.",
+            "unit": 8,
+            "topic": "8.3. Duyulara Yönelik Etkinliklerin Planlanması ve Değerlendirilmesi",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 18"
+        },
+        {
+            "id": 1165,
+            "question": "I. Ön değerlendirme yaparak çocuğun gelişim özelliğini belirlemek II. Çocuğun sevdiği işleri sıralamak III. Çocuğun fizyolojik olarak sağlığını kontrol etmek IV. Desteğe gereksinim duyulan duyusal alanı saptamak Duyu eğitim programı planlanırken yukarıdakilerden hangilerinin <u>öncelikli</u> olarak dikkate alınması gerekmektedir?",
+            "options": [
+                "I, II ve III",
+                "I ve III",
+                "I, III ve IV",
+                "I ve IV",
+                "II, III ve IV"
+            ],
+            "correctIndex": 2,
+            "explanation": "Ön değerlendirme (I), fizyolojik kontrol (III) ve desteğe gereksinim duyulan duyusal alanı saptamak (IV) program planlamasında <b>öncelikli</b> olarak dikkate alınmalıdır.",
+            "unit": 8,
+            "topic": "8.3. Duyulara Yönelik Etkinliklerin Planlanması ve Değerlendirilmesi",
+            "source": "Final Sınavı 2022-2023",
+            "sourceInfo": "Soru 15"
+        },
+        {
+            "id": 1166,
+            "question": "Alihan Öğretmen çocuklar için ahşap, metal ve plastik materyallerin kullanımlarını ön plana alarak görme, işitme ve dokunmaya yönelik olarak planladığı duyu eğitimi uygulamalarında en uygun hedefleri belirlemek için dikkate alması gereken noktaları yeniden gözden geçirmiştir. Alihan Öğretmen’in bu süreçte aşağıdakilerden hangisini dikkate almasına gerek <u>yoktur</u>?",
+            "options": [
+                "Çocuğun gelişimsel düzeyinin saptanması",
+                "Çocuğun ilgi alanlarının fark edilmesi",
+                "Çocuğun fizyolojik sağlığının kontrol edilmesi",
+                "Planlı ve sınırlı müfredat oluşturulması",
+                "Çocuğun denemeler yapmasına fırsat verilmesi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duyu eğitimi esnek olmalıdır. '<b>Planlı ve sınırlı müfredat oluşturulması'</b> gibi katı bir yapıyı dikkate almasına gerek yoktur.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "Preschool Sensory Education Final Exam Questions",
+            "sourceInfo": "Soru 17"
+        },
+        {
+            "id": 1167,
+            "question": "Çocuk günlük yaşantısı sırasında nesnelerin birbirlerine göre farklı özelliklerini uygulamalı biçimde …………………… yöntemiyle öğrenebilir. Yukardaki noktalı boşluk için en uygun olan yöntem hangisidir?",
+            "options": [
+                "anlatım",
+                "deneme yanılma",
+                "gözlem",
+                "ezber",
+                "kopyalama"
+            ],
+            "correctIndex": 1,
+            "explanation": "Çocuk günlük yaşantısında nesnelerin farklı özelliklerini uygulamalı olarak <b>deneme yanılma</b> yöntemiyle öğrenebilir.",
+            "unit": 8,
+            "topic": "8.2. Duyu Eğitiminde Belirlenecek Hedefler",
+            "source": "Preschool Sensory Education Final Questions 2023-2024",
+            "sourceInfo": "Soru 28"
+        }
+    ],
+    "meta": {
+        "course_name": "Okul Öncesi Dönemde Duyu Eğitimi",
+        "term": "7. Dönem",
+        "university": "İstanbul Üniversitesi",
+        "department": "Çocuk Gelişimi"
+    }
+}

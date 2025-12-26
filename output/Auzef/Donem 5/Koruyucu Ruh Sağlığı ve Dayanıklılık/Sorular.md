@@ -1,0 +1,1790 @@
+# Koruyucu Ruh Sağlığı ve Dayanıklılık - Sorular
+
+## Ünite 1
+
+### 1.1. Çocukluk Çağındaki Olumsuz Yaşantıların ve Psikiyatrik Sorunların Yaşam Boyu Etkileri
+
+1. Konuyla ilgili bilimsel çalışmalar yaşam boyunca ortaya çıkan bütün psikiyatrik bozuklukların <u>_________</u> ilk olarak çocukluk çağında ortaya çıktığını göstermektedir.
+    - A-) dörtte birinin
+    - B-) üçte birinin
+    - **Cevap C-) yaklaşık yarısının**
+    - D-) yarısından fazlasının
+    - E-) büyük bir kısmının
+
+    > **Açıklama:** Konuyla ilgili bilimsel çalışmalar, yaşam boyunca ortaya çıkan bütün psikiyatrik bozuklukların <b>yaklaşık yarısının</b> ilk olarak çocukluk çağında ortaya çıktığını göstermektedir.
+
+    <hr />
+
+2. Günümüzdeki yaygın anlayışa göre psikiyatrik bozuklukların ortaya çıkmasındaki iki önemli etkeni genetik/biyolojik yatkınlık ve <u>_________</u> olarak özetlenebilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisinin gelmesi en uygun olacaktır?
+    - A-) fakirlik
+    - B-) enfeksiyonlar
+    - C-) kötü arkadaş çevresi
+    - **Cevap D-) olumsuz/ travmatik çevresel koşullar**
+    - E-) eğitimsizlik
+
+    > **Açıklama:** Psikiyatrik bozuklukların ortaya çıkmasındaki iki önemli etken, <b>genetik/biyolojik yatkınlık ve olumsuz/travmatik çevresel koşullardır</b>.
+
+    <hr />
+
+3. <u>_________</u>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade eder. <u>_________</u>, ise, bir insanın doğum öncesinden başlayıp ölümüne kadar geçirdiği, yapı ve fonksiyonlarının <u>_________</u> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder. Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangilerinin gelmesi uygun olacaktır?
+    - A-) Çoğalma / Olgunlaşma / gelişim
+    - B-) Olgunlaşma / Gelişme / büyüme
+    - C-) Büyüme / Olgunlaşma / gelişim
+    - **Cevap D-) Büyüme / Gelişme / olgunlaşma**
+    - E-) Gelişme / Büyüme / olgunlaşma
+
+    > **Açıklama:** <b>Büyüme</b>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade eder. <b>Gelişme</b> ise, bir insanın doğum öncesinden başlayıp ölümüne kadar geçirdiği, yapı ve fonksiyonlarının <b>olgunlaşması</b> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder.
+
+    <hr />
+
+4. 600 yıl boyunca Avrupa’da temel tıp kitabı olarak okutulan El Kanun Fit-Tıbb isimli meşhur eserinde koruyucu hekimliğie dair önemli tespit ve önerilerde bulunan ve Avrupa’da ‘Avicenna’ ismiyle meşhur olan alim kimdir?
+    - A-) Farabi
+    - B-) Sabuncuoğlu Şerafeddin
+    - C-) İbn-i Rüşd
+    - D-) Biruni
+    - **Cevap E-) İbn-i Sina**
+
+    > **Açıklama:** <b>İbn-i Sina</b>, Avrupa’da ‘Avicenna’ ismiyle meşhur olan alimdir ve 600 yıl boyunca Avrupa’da temel tıp kitabı olarak okutulan El Kanun Fit-Tıbb isimli eserinde koruyucu hekimliğe dair önemli tespit ve önerilerde bulunmuştur.
+
+    <hr />
+
+5. Büyüme ve gelişmeyle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?
+    - **Cevap A-) İnsanlarda beyin gelişimi ve sinir hücrelerinin esnekliği diğer canlılarla kıyaslandığında daha kısa sürer.**
+    - B-) Beklenmeyen gebelikler bebeğin fiziksel ve ruhsal sağlığı açısından olumsuz sonuçlarla ilişkilendirilmiştir.
+    - C-) Travmatik toplumsal olayların olduğu bir ortam bir bebeğin gelişimini farklı yönlerde etkileyebilir.
+    - D-) Ebeveynlerinin gebelik döneminde içinde bulundukları sosyal çevre bebeğin psikolojik gelişiminde etkilidir.
+    - E-) Her insanın büyüme ve gelişimi doğum öncesi dönemden başlar.
+
+    > **Açıklama:** İnsanlarda beyin gelişimi ve sinir hücrelerinin esnekliği <b>diğer canlılardan daha uzun sürer</b>. Bu nedenle esnekliğin kısa sürdüğü ifadesi yanlıştır.
+
+    <hr />
+
+### 1.2. Koruyucu Ruh Sağlığının Tanımı ve Bileşenleri
+
+1. Koruyucu ruh sağlığı ve bileşenleri için aşağıdakilerden hangisi <u>söylenemez</u>?
+    - A-) Koruyucu ruh sağlığı, ruh sağlığı hizmetlerinin önemli bir bileşenidir.
+    - B-) Birincil ve ikincil koruma özellikle çocuklarda çok önemlidir.
+    - C-) Çocuk gelişimi uzmanları koruyucu ruh sağlığının her aşamasında etkin rol alabilirler.
+    - D-) Koruyucu ruh sağlığı çalışmaları tedavi edici yaklaşımlara kıyasla daha kolay, ucuz ve etkili olabilirler.
+    - **Cevap E-) Koruyucu ruh sağlığı <u>yalnızca</u> hastalıkların ortaya çıkmamasını hedefler.**
+
+    > **Açıklama:** Koruyucu ruh sağlığı sadece hastalıkların ortaya çıkmamasını değil, aynı zamanda <b>ruh sağlığının geliştirilmesini ve korunmasını</b> da hedefler. Bu nedenle yalnızca hastalıkların ortaya çıkmamasını hedefler ifadesi yanlıştır.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi birincil veya ikincil bir koruyucu ruh sağlığı önlemi veya örneği <u>değildir</u>?
+    - A-) Gebelikte sigara-alkol-madde kullanımından kaçınmak
+    - B-) Bebeklik döneminde güvenli anne-bebek ilişkisinin kurulması
+    - **Cevap C-) Kronik şizofreni hastaları için rehabilitasyon programları**
+    - D-) Erken çocuklukta otizm taraması yapmak
+    - E-) Davranış sorunları olan çocukları tanı ve tedavi için yönlendirmek
+
+    > **Açıklama:** Kronik şizofreni hastaları için rehabilitasyon programları, <b>hastalık kronikleştikten sonra işlevselliği artırmayı hedefleyen üçüncücül koruma</b> hizmetlerine aittir, bu nedenle birincil veya ikincil koruma örneği değildir.
+
+    <hr />
+
+3. Aşağıdakinin hangisinin normal gelişen sağlıklı çocuklarda koruyucu ruh sağlığı önlemi olması <u>beklenmez</u>?
+    - A-) Travmatik olaylardan uzak tutmak
+    - B-) Ebeveynlere yönelik eğitimler
+    - C-) Medya ve internet kullanımını takip etmek
+    - **Cevap D-) Rehabilitasyon programları oluşturmak**
+    - E-) Sağlıklı beslenme ve uyku hijyeni
+
+    > **Açıklama:** Rehabilitasyon programları, <b>kronikleşen ruh sağlığı sorunları veya engelleri olan bireyler</b> için uygulanan üçüncücül koruma önlemidir. Normal gelişen sağlıklı çocuklarda önlem olarak beklenmez.
+
+    <hr />
+
+4. Çocuklarda koruyucu ruh sağlığı ve dayanıklılığın gelişmesi açısından aşağıdakilerden hangisi çocuk gelişim uzmanının işlevlerinden birisi olması <u>beklenmez</u>?
+    - A-) Sağlıklı gebelikle ilgili eğitici programlar düzenlemek
+    - B-) Küçük çocuklarda gelişimsel bozukluklara yönelik taramalar yapmak
+    - C-) Ebeveynlere yönelik baş etme ve sorun çözme eğitimleri vermek
+    - D-) Gelişimsel veya davranışsal sorunu olan çocukların eğitim ve rehabilitasyonunda yer almak
+    - **Cevap E-) Çocuklarda psikiyatrik bozuklukların tedavisini gerçekleştirmek**
+
+    > **Açıklama:** Çocuk gelişim uzmanlarının görevleri arasında sağlıklı gebelikle ilgili eğitici programlar düzenlemek, taramalar yapmak ve rehabilitasyonda yer almak gibi koruyucu ve destekleyici işlevler bulunsa da, <b>psikiyatrik bozuklukların tedavisini gerçekleştirmek</b> (ilaç tedavisi dahil) beklenmez.
+
+    <hr />
+
+### 1.3. Çocukluk ve Ergenlik Döneminde Koruyucu Ruh Sağlığının Önemi
+
+1. Çocuk gelişiminde kritik ve hassas dönemlerle ilgili olarak aşağıdakilerden hangisi <u>söylenemez</u>?
+    - A-) Çocuk gelişimi ve ruh sağlığı alanında çalışan uzmanlar kritik ve hassas dönemleri iyi bilmelidir.
+    - B-) Kritik dönemler aniden başlayıp bitme eğilimindedirler.
+    - C-) Bebeklik dönemi güvenli bağlanma için kritik dönemdir.
+    - **Cevap D-) Hassas dönemdeki eksiklerin yerine konulması <u>mümkün değildir</u>.**
+    - E-) Erken çocukluk dönemi öz kontrol becerilerinin kazanılmasında hassas dönemdir.
+
+    > **Açıklama:** <b>Hassas dönemlerdeki eksikliklerin yerine konulması mümkündür</b>. Bu nedenle eksiklerin yerine konulmasının mümkün olmadığı ifadesi söylenemez.
+
+    <hr />
+
+2. Aşağıdaki ifadelerden hangisi çocukluk ve ergenlik dönemi ruh sağlığı sorunlarının etkileri hakkında <u>söylenemez</u>?
+    - A-) Okul bırakma, suç işleme, işsizlik, madde kullanımı ve aile işlevlerinde bozulma gibi önemli psikososyal problemlere yol açabilir.
+    - **Cevap B-) Etkisi ve sonuçları sıklıkla ergenlik dönemi ile sınırlıdır.**
+    - C-) Yaşam boyu ruh sağlığı ve mutluluk açısından önemlidirler.
+    - D-) Erken yaşta başlayan psikiyatrik bozukluklar, ilerideki yaşamda da devam edebilir.
+    - E-) Yüksek oranda tedavi edilmemiş ruhsal bozukluklarla ilişkilidir.
+
+    > **Açıklama:** Çocukluk ve ergenlik dönemlerindeki ciddi ihmal veya travmatik olaylar, <b>yaşam boyu etkiler bırakabilir</b>. Bu nedenle etkilerinin sadece ergenlik dönemiyle sınırlı olduğu ifadesi yanlıştır.
+
+    <hr />
+
+3. Beynin en esnek olduğu, çevresel faktörlerin etkisine ve yeni tecrübelere en açık olunan dönemlerin <u>_________</u> olduğu bilinmektedir. Yukarıdaki boşluğa getirilebilecek en uygun ifade aşağıdakilerden hangisidir?
+    - A-) doğum öncesi
+    - **Cevap B-) doğum öncesi ve erken çocukluk yılları**
+    - C-) erken çocukluk yılları
+    - D-) ergenlik yılları
+    - E-) erken çocukluk ve ergenlik yılları
+
+    > **Açıklama:** Beynin en esnek olduğu, çevresel faktörlerin etkisine ve yeni tecrübelere en açık olunan dönemlerin <b>doğum öncesi ve erken çocukluk yılları</b> olduğu bilinmektedir.
+
+    <hr />
+
+### 1.4. Psikolojik Dayanıklılığın Tanımı ve Önemi
+
+1. Psikolojik dayanıklılık hakkında aşağıdakilerden hangisi <u>söylenemez</u>?
+    - A-) Psikolojik dayanıklılığın gelişmesi için bireyin birtakım zorluklarla karşılaşması gerekir.
+    - B-) Psikolojik dayanıklılık zaman içinde gelişen, değişen, öğrenilen bir durumdur.
+    - C-) Psikolojik dayanıklılık, kişinin zorluklarla başa çıkabilme kapasitesini tanımlar.
+    - **Cevap D-) Psikolojik dayanıklılık genetik faktörlere bağlıdır ve <u>değiştirilemez</u>.**
+    - E-) Dayanıklılık, zorluk öncesi durumuna dönebilme kapasitesini ifade eder.
+
+    > **Açıklama:** Psikolojik dayanıklılık <b>zaman içinde gelişen, değişen ve öğrenilen</b> bir durumdur. Bu nedenle, genetik faktörlere bağlı olup değiştirilemez demek yanlıştır.
+
+    <hr />
+
+2. <u>_________</u>, bir kişinin zorluklarla başa çıkabilme, adaptasyon gösterebilme ve zorluk öncesi durumuna dönebilme kapasitesini tanımlar. Yukarıdaki cümlede boş bırakılan yere hangisinin gelmesi en uygundur?
+    - **Cevap A-) Psikolojik dayanıklılık**
+    - B-) Nöroplastisite
+    - C-) Fiziksel sağlamlık
+    - D-) Nörolojik dayanıklılık
+    - E-) Koruyucu ruh sağlığı
+
+    > **Açıklama:** Bu tanım, <b>Psikolojik dayanıklılık (resilience)</b> kavramını ifade eder. Psikolojik dayanıklılık, zorluklarla başa çıkabilme, adaptasyon gösterebilme ve zorluk öncesi durumuna dönebilme kapasitesini tanımlar.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi ruh sağlığı veya dayanıklılık açısından koruyucu faktörlerden biri <u>değildir</u>?
+    - A-) Aile ve sosyal bağların güçlü olması
+    - B-) Baş edebildiği zorluklarla karşılaşmak
+    - C-) Spor veya sanata ilgisi olmak
+    - D-) İnanç sahibi olmak
+    - **Cevap E-) Sosyal medya kullanımı**
+
+    > **Açıklama:** Güçlü aile ve sosyal bağlar, spor/sanat ve inanç sahibi olmak koruyucu faktörlerdir. <b>Sosyal medya kullanımı</b> ise genellikle ruh sağlığı ve dayanıklılık açısından <b>risk faktörleri</b> arasında değerlendirilir.
+
+    <hr />
+
+## Ünite 2
+
+### 2.1. Doğum Öncesi Dönemde Genel Gelişim
+
+1. <u>_____</u>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade eder. <u>_____</u>, ise, bir insanın doğum öncesinden başlayıp ölümüne kadar geçirdiği, yapı ve fonksiyonlarının <u>_____</u> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder. Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangilerinin gelmesi uygun olacaktır?
+    - A-) Çoğalma / Olgunlaşma / gelişim
+    - B-) Olgunlaşma / Gelişme / büyüme
+    - C-) Büyüme / Olgunlaşma / gelişim
+    - **Cevap D-) Büyüme / Gelişme / olgunlaşma**
+    - E-) Gelişme / Büyüme / olgunlaşma
+
+    > **Açıklama:** <b>Büyüme</b>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade ederken; <b>Gelişme</b>, yapı ve fonksiyonların <b>olgunlaşması</b> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder.
+
+    <hr />
+
+2. Doğum öncesi dönemde bebeğin büyüme ve gelişimi açısından aşağıdakilerden hangisi <u>doğru değildir</u>?
+    - A-) Beyin gelişiminin çevresel etkilere en açık olduğu dönemdir.
+    - B-) Annenin ruhsal durumundan etkilenir.
+    - C-) Anne-bebek arasındaki duygusal bağ bu dönemde başlar.
+    - **Cevap D-) Beyin gelişimi açısından gebeliğin son aylarına kadar önemli bir gelişme olmaz.**
+    - E-) Bebeğin gelişimi genetik ve çevresel faktörlerden etkilenir.
+
+    > **Açıklama:** <b>Beyin gelişimi gebeliğin ilk haftalarından itibaren başlar</b> ve doğuma kadar devam eder. Bu dönemde hızlı ve karmaşık bir süreç yaşanır ve çevresel etkilere son derece açıktır, bu nedenle son aylara kadar gelişme olmaz ifadesi doğru değildir.
+
+    <hr />
+
+### 2.2. Gebelik Şekli
+
+1. Bir gebelik, başlangıçta istenmeyip gebeliğin ilerleyen zamanlarında isteniyor ise <u>_________</u> gebelik olarak sınıflandırılmaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+    - A-) riskli
+    - B-) gecikmiş
+    - C-) planlı
+    - D-) istenmeyen
+    - **Cevap E-) kaçırılmış**
+
+    > **Açıklama:** Gebelikler; planlı ve istenen ise beklenen gebelik, plansız ve doğuma kadar istenmeyen ise beklenmeyen gebelik, <b>konsepsiyonda istemeyip ileri bir zamanda isteniyor ise kaçırılmış gebelik</b> olarak sınıflandırılmaktadır.
+
+    <hr />
+
+2. Plansız/istenmeyen gebelikler hakkında yukarıdakilerden hangileri <u>söylenemez</u>? 
+I. Sadece Batı toplumlarında önemli bir sorun olarak görülmektedir.
+II. Erken yaşta başlayan cinsellik, evlilik dışı ilişkiler, etkili aile planlaması yöntemlerinin kullanılmaması gibi faktörler istenmeyen gebeliklerin önemli sebepleri arasındadır.
+III. Anne ve bebek açısından birçok olumsuz durumla ilişkilidir.
+IV. Bir gebelik başlangıçta istenmeyen bir gebelikse her zaman bu şekilde sonlanır.
+    - A-) I, III
+    - **Cevap B-) I, IV**
+    - C-) II, IV
+    - D-) II, III, IV
+    - E-) I, II, IV
+
+    > **Açıklama:** Plansız gebelikler <b>sadece Batı toplumlarında değil, küresel bir sorun olarak</b> karşımıza çıkmaktadır (I. söylenemez). Ayrıca, başlangıçta beklenmeyen bir gebelik, ilerleyen zamanlarda istenen bir gebeliğe dönüşebilmektedir (IV. söylenemez). Diğer ifadeler ise doğrudur.
+
+    <hr />
+
+### 2.4. Ebeveyn Psikopatolojisi
+
+1. Aşağıdakilerden hangileri gebelik döneminde koruyucu ruh sağlığı açısından <u>riskli durumlar</u> arasında yer almaktadır?
+I. İstenmeyen gebelik olması
+II. Annenin fiziksel ve/ya ruhsal sağlık durumunun iyi olması
+III. Eşler arasındaki ilişki ve uyumun iyi olması
+IV. Gebelikte sigara-alkol kullanımının olması
+    - A-) II, III ve IV
+    - B-) I ve II
+    - C-) I ve III
+    - **Cevap D-) I ve IV**
+    - E-) I, II ve III
+
+    > **Açıklama:** <b>İstenmeyen gebelik olması</b> ve <b>gebelikte sigara-alkol kullanımının olması</b>, anne ve bebek açısından birçok olumsuz sonuçla ilişkili olan risk faktörleridir. II ve III numaralı maddeler ise sağlıklı gelişim için <b>koruyucu faktörlerdir</b>.
+
+    <hr />
+
+### 2.5. Beslenme
+
+1. Gebelikte beslenme ihtiyacı ve alışkanlıkları hakkında hangileri <u>söylenemez</u>?
+I. Gebelikte demir ihtiyacının artmasına bağlı olarak demir eksikliği görülebilir.
+II. Gebelikte az miktarda sigara veya alkol kullanmanın bir sakıncası yoktur.
+III. Folik asit desteği nöral tüp defektlerinin önlenmesinde önemlidir.
+IV. Gebelikte annenin günlük besin ve kalori ihtiyacı artmaz.
+    - A-) I ve III
+    - B-) II ve III
+    - C-) I ve IV
+    - **Cevap D-) II ve IV**
+    - E-) III ve IV
+
+    > **Açıklama:** Gebelikte <b>bazal metabolizma normalin %20’si kadar artar</b>, bu nedenle annenin günlük besin ve kalori ihtiyacı artar (IV. söylenemez). Ayrıca <b>gebelikte sigara ve alkol için güvenilir bir kullanım miktarı bulunmamaktadır</b>, bu nedenle az miktarda kullanımın sakıncası yoktur ifadesi yanlıştır (II. söylenemez).
+
+    <hr />
+
+### 2.6. Sigara, Alkol ve Madde Kullanımı
+
+1. Gebelikte sigara-alkol-madde kullanımıyla ilgili olarak aşağıdakilerden hangisi <u>doğru değildir</u>?
+    - A-) Sigara kullanımı çocukta ileriki yıllarda davranım bozukluğu riskini ciddi olarak artırır.
+    - **Cevap B-) Az miktarda ve kontrollü şekilde sigara-alkol kullanmanın sakıncası yoktur.**
+    - C-) Gelişmiş ülkelerde fetal alkol sendromu genetik olmayan zihinsel yetersizliğin en önemli sebebidir.
+    - D-) Sigara ve alkol kullanımı bebekte kalıcı bedensel ve ruhsal sorunlara yol açabilir.
+    - E-) Gebelikte sigara-alkol-madde kullanımı çocuk ihmal ve istismarı olarak görülebilir.
+
+    > **Açıklama:** Gebelikte sigara ve alkol için <b>güvenilir bir kullanım miktarı bulunmamaktadır</b>. Bu maddelerin az miktarda dahi olsa kullanılması, bebek üzerinde olumsuz sonuçlar yaratabilir, bu nedenle 'az miktarda ve kontrollü kullanmanın sakıncası yoktur' ifadesi doğru değildir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi gebelikte sigara-alkol kullanımının sonuçlarından biri olarak <u>beklenmez</u>?
+    - A-) Zihinsel yetersizlik
+    - B-) Erken doğum
+    - C-) Gelişme gerilikleri
+    - **Cevap D-) Şişman bebek**
+    - E-) Davranış problemleri
+
+    > **Açıklama:** Gebelikte sigara ve alkol kullanımı, plasentayı besleyen damarlarda daralmaya neden olarak bebeğin doku ve organlarına yeterli oksijenin ulaşmasını engeller. Bu durum <b>gelişme geriliği, düşük doğum ağırlığı</b> ve erken doğum gibi sonuçlarla ilişkilidir, bu nedenle 'Şişman bebek' beklenmez.
+
+    <hr />
+
+### 2.7. Doğum Şekli
+
+1. Doğum şekli ve anne-bebeğin ruh-beden sağlığı arasındaki muhtemel ilişkiler hakkında yukarıdakilerden hangileri <u>söylenebilir</u>?
+I. Normal yolla doğan bebekler doğum esnasında “dozunda ve başa çıkılabilir” bir stresle mücadele ederek sezaryenle doğan bebeklere kıyasla ruhsal açıdan daha dayanıklı bireyler olabilir.
+II. Normal doğumda doğum sonrası iyileşme, sezaryene oranla daha hızlıdır.
+III. Sezaryen ameliyatı geçiren annelerde emzirme güçlüğü oranları daha düşük olarak saptanmıştır.
+IV. Normal yolla doğan bebekler, doğum kanalından geçerken bağırsakları için gerekli olan mikropları annenin doğum kanalından edinebilir.
+    - **Cevap A-) I, II ve IV**
+    - B-) II, III ve IV
+    - C-) I ve II
+    - D-) I, II ve III
+    - E-) II ve III
+
+    > **Açıklama:** Normal doğumun 'dozunda ve başa çıkılabilir' bir stresle mücadele sağlayarak dayanıklılıkta önemli olabileceği (I) ve iyileşmenin daha hızlı olduğu (II) söylenebilir. Ayrıca normal doğumda bebeklerin doğum kanalından geçerken bağırsakları için mikropları edinebileceği (IV) bilinmektedir. Sezaryen sonrası annenin toparlanması ve emzirmesi <b>daha güç olmaktadır</b> (III yanlıştır).
+
+    <hr />
+
+2. Aşağıdakilerden hangisi sağlıklı çocuk gelişimi açısından gebelik dönemindeki <u>koruyucu faktörler</u> arasında yer <u>almaz</u>?
+    - A-) Eşler arası uyum ve destek
+    - B-) Ebeveynlerin yüksek eğitim seviyesi
+    - **Cevap C-) Sezaryen yolla doğum**
+    - D-) Düzenli beslenme
+    - E-) Sigara ve alkolün bırakılması
+
+    > **Açıklama:** Sezaryen doğum, gerekli durumlarda hayat kurtarıcı bir cerrahi işlem olsa da, normal doğuma kıyasla bebeğin ruhsal ve fiziksel sağlığı açısından tartışmalı etkileri bulunmaktadır. Bu nedenle, <b>Sezaryen yolla doğum</b> koruyucu bir faktör olarak kabul edilmez.
+
+    <hr />
+
+### 2.8. Doğum Öncesi Bakım
+
+1. Aşağıdakilerin hangisi veya hangileri doğum öncesi bakımın amaçları arasındadır?
+I. Bebeğin biyolojik büyüme ve gelişiminin yakın takibini sağlar.
+II. Anne adayının gebelik hakkındaki bilgilerini arttırmayı, doğrularını pekiştirmeyi, yanlış alışkanlık ve tutumlarını düzeltmeyi ve kaygılarını azaltmayı hedefler.
+III. Ebeveynleri annelik ve babalık rollerine hazırlamayı amaçlar.
+    - A-) Yalnız I
+    - B-) I ve III
+    - **Cevap C-) I, II ve III**
+    - D-) II ve III
+    - E-) I ve II
+
+    > **Açıklama:** Doğum öncesi bakımın (DÖB) amaçları arasında, bebeğin biyolojik büyüme ve gelişiminin yakın takibi (I), annelerin gebelik hakkındaki bilgilerini arttırmayı ve kaygılarını azaltmayı hedeflemek (II) ve ebeveynleri annelik ve babalık rollerine hazırlamayı amaçlamak (III) yer alır.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi ülkemizde gebelerde rutin olarak uygulanan doğum öncesi bakımın bileşenlerinden biri <u>değildir</u>?
+    - A-) Gebenin kilosunu takip etmek
+    - B-) Bebeğin büyüme ve gelişimini takip etmek
+    - C-) Gebelik diyabeti açısından takip etmek
+    - **Cevap D-) Annedeki psikiyatrik sorunları tedavi etmek**
+    - E-) Anne-bebek bağlanmasını, gebelik uyumunu takip etmek
+
+    > **Açıklama:** Doğum öncesi bakım hizmetleri (DÖB) sırasında <b>Annedeki psikiyatrik sorunları tedavi etmek</b> DÖB'ün rutin bileşeni değildir. DÖB, psikiyatrik problemleri tespit edilen gebelerin ilgili profesyonellere (ruh sağlığı uzmanlarına) <b>yönlendirilmesini</b> sağlar.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi gebelik öncesinde veya sürecinde yapılması gereken bir koruyucu ruh sağlığı önlemi/uygulamasıdır?
+    - A-) Annenin sağlıklı ve dengeli beslenmesi
+    - B-) Düzenli bir doğum öncesi bakım uygulanması
+    - C-) Folik asit takviyesinin gebelikten önce başlanması
+    - D-) Ebeveyndeki psikiyatrik sorunların tedavi edilmesi
+    - **Cevap E-) Hepsi**
+
+    > **Açıklama:** Annenin sağlıklı beslenmesi, düzenli DÖB, folik asit takviyesi ve ebeveyndeki psikiyatrik sorunların tedavi edilmesi, doğum öncesi dönemde bebeğin ruh ve beden sağlığı için alınması gereken önemli koruyucu ruh sağlığı uygulamalarıdır.
+
+    <hr />
+
+4. Dört yaşındaki oğlunda birtakım davranışsal ve gelişimsel sorunlar için size başvuran bir annenin üç aylık hamile olduğunu öğrendiniz. Çocuk gelişim uzmanı olarak aşağıdakilerden hangisi bu olguda ve annede yapmanız gerekenlerden biri <u>değildir</u>?
+    - A-) Önceki ve şimdiki gebelikte sigara-alkol-madde kullanımı öyküsünü sormak
+    - B-) Çocuğa gelişimsel testler uygulamak
+    - C-) Anneye çocukla ilgili baş etme becerileri konusunda destek olmak
+    - **Cevap D-) Davranışsal sorunlara yönelik ilaç tedavisi başlamak**
+    - E-) Şimdiki gebelikle ilgili doğum öncesi bakımların yapılıp yapılmadığını sormak
+
+    > **Açıklama:** Çocuk gelişim uzmanlarının işlevi, danışmanlık ve destekleyici programları yürütmek ve tarama yapmaktır. <b>Davranışsal sorunlara yönelik ilaç tedavisi başlamak</b>, çocuk ve ergen psikiyatrisi uzmanının görevidir, çocuk gelişim uzmanının işlevi olması beklenmez.
+
+    <hr />
+
+## Ünite 3
+
+### 3.1. Bağlanmanın Tanımı ve Önemi
+
+1. Bağlanmayı, bebekle bakım veren arasındaki güvene dayalı güçlü bir duygusal bağ olarak tanımlayan, “bağlanma teorisinin” kurucusu bilim insanı aşağıdakilerden hangisidir?
+    - A-) Mary Ainsworth
+    - **Cevap B-) John Bowlby**
+    - C-) Sigmund Freud
+    - D-) Eric Ericson
+    - E-) Jean Piaget
+
+    > **Açıklama:** John Bowlby, kişinin kendisi için önemli gördüğü bir başkasına karşı geliştirdiği güçlü bir duygusal bağ olarak tanımladığı 'bağlanma teorisinin' kurucusudur.
+
+    <hr />
+
+2. Aşağıdaki kelimelerden hangisi güvenli bağlanmanın tanım ve işlevlerini anlatırken kullanılmaz?
+    - A-) Güvenlik
+    - B-) Rahatla(t)ma
+    - C-) Duygu düzenleme
+    - D-) Merak ve keşfetme
+    - **Cevap E-) Korku ve kaçınma**
+
+    > **Açıklama:** Güvenli bağlanmada çocuklar zorluklar karşısında anneye (güvenli üs) yönelerek rahatlar ve yatışır, annenin varlığında çevresini keşfetme konusunda istekli olur. Korku ve kaçınma ise güvenli bağlanmanın işlevleri arasında yer almaz.
+
+    <hr />
+
+3. Bağlanma ile ilgili olarak aşağıdakilerden hangisi doğru değildir?
+    - A-) Gebelikte başlar yaşamın ilk yıllarında gelişerek devam eder.
+    - B-) Güvenli bağlanma için ilk iki yıl kritik dönemdir.
+    - C-) Bağlanma sağlıklı bir fiziksel, ruhsal, duygusal, sosyal gelişim için temeldir.
+    - **Cevap D-) Bebekler anneden başka kimseye bağlanamaz.**
+    - E-) Biyolojik ve çevresel birçok faktör bağlanmayı etkiler.
+
+    > **Açıklama:** Bağlanma, yenidoğanın en temel ihtiyaçlarını karşılayan kişi olarak bakım verenler -sıklıkla ebeveynler- arasında kurulur. Bebekler bu ihtiyaçları için herhangi bir kimseye değil, özellikle ebeveynlerine ve kendisine bakım veren kişilere yönelmeye hazır hâlde doğarlar. Bebekle ilgilenen kişinin mutlaka anne olması gerekmez, farklı bakım verenler de bu bağı güvenle sağlayabilir. Bu sebeple 'Bebekler anneden başka kimseye bağlanamaz' ifadesi doğru değildir.
+
+    <hr />
+
+4. I. Bebeğin ihtiyaçlarının karşılanması
+II. Bebeğin güvenliğinin sağlanması
+III. Bebeğe yönelik sevgi ve şefkat beslenmesi
+IV. Bebeğin cinsiyeti
+Yukarıdakilerinden hangileri “güvenli bağlanmanın” sağlanmasında önemlidir?
+    - A-) I ve II
+    - **Cevap B-) I, II ve III**
+    - C-) I, II ve IV
+    - D-) I ve III
+    - E-) II ve III
+
+    > **Açıklama:** Güvenli bağlanma, bebeğin temel fiziksel ihtiyaçlarının karşılanması (I), fiziksel güvenliğinin sağlanması (II) ve sevgi/şefkat beslenmesi (III) gibi faktörlere dayanır. Bebeğin cinsiyeti (IV) ise güvenli bağlanmanın sağlanması açısından önemli bir faktör değildir.
+
+    <hr />
+
+5. Bağlanma ile ilgili aşağıdakilerden hangisi yanlıştır?
+    - A-) Annesinden 'Ben buradayım, seni duyuyorum, ihtiyaçlarını anlıyorum, seni önemsiyorum.' mesajlarını alan, anlaşıldığını ve kabul edildiğini hisseden çocuğun değerli olma ve güvende hissetme duygusu desteklenmiş olacaktır.
+    - **Cevap B-) Bağlanma tek taraflı bir süreçtir, annenin bebeğe bağlanmasının düzeyi, bebeğin anneye olan bağlanmasını etkilemez.**
+    - C-) Bağlanma doğum öncesi dönemden başlar, bebeklik ve erken çocukluk döneminde de devam eder.
+    - D-) Gebeliğin yirmi altıncı haftasında bebeğin algılama, tepki ve yakalama yeteneği ile annenin duygularına yanıt verdiği bilinmektedir.
+    - E-) Anne ve bebek arasındaki erken sosyal ve duygusal etkileşim, bireyin hayat boyu diğer insanlarla ilişki kurma biçimini de şekillendirir.
+
+    > **Açıklama:** Bağlanma, anne ve bebek arasında süreğenlik gösteren <b>çift yönlü bir uyumu</b> gerektirir. Annenin bebeğe bağlanmasının düzeyi, bebeğin anneye olan bağlanmasını etkiler. Bu nedenle, 'Bağlanma tek taraflı bir süreçtir' ifadesi yanlıştır.
+
+    <hr />
+
+### 3.2. Bağlanma Süreçleri
+
+1. Aşağıdakilerden hangisi anne ve bebek arasındaki güvenli bağlanmanın gerçekleştiği “kritik dönem” olarak bilinir?
+    - A-) Erken çocukluk (2-6 yaş)
+    - B-) Yenidoğan
+    - C-) Gebelik
+    - **Cevap D-) Bebeklik (0-2 yaş)**
+    - E-) Ergenlik
+
+    > **Açıklama:** Esas olarak <b>0-2 yaş dönemi</b>, anne ve bebek arasındaki bağlanmanın gerçekleştiği “kritik dönem” olarak adlandırılır. Bu dönemdeki olumlu ve tutarlı ebeveyn davranışlarıyla güvenli bağlanma kazanılabilir.
+
+    <hr />
+
+2. Bağlanmanın tam olarak biçimlenmesi ….. aylar arasındaki dönemde gerçekleşir. Bu dönemde anneden ayrılmayla görülen huzursuzluk azalır, çocuk annesiyle kısa süreli ayrılık dönemleri yaşasa da annesinin eninde sonunda geri döneceğini bilir. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?
+    - A-) 12-18
+    - **Cevap B-) 18-24**
+    - C-) 6-12
+    - D-) 0-6
+    - E-) 24-48
+
+    > **Açıklama:** Bağlanmanın tam olarak biçimlenmesi <b>18 ila 24. aylar arasındaki dönemde</b> (Dördüncü Aşama) gerçekleşir. Bu dönemde çocuk anneden ayrılmayla görülen huzursuzluk azalır çünkü annesinin geri döneceğini bilir.
+
+    <hr />
+
+### 3.3. Bağlanma Çeşitleri
+
+1. Bebeğin, yabancı birisinin varlığında ve yokluğunda annenin varlığına ve yokluğuna verdiği tepkiyi gözlemleyerek “bağlanma” süreçlerini anlamaya çalışan test aşağıdakilerden hangisidir?
+    - A-) Bağlanma Testi
+    - **Cevap B-) Yabancı Durum Testi**
+    - C-) Denver II Testi
+    - D-) Gelişimsel Tarama Testi
+    - E-) Aile Değerlendirme Testi
+
+    > **Açıklama:** Mary Ainsworth tarafından geliştirilen <b>Yabancı Durum Testi</b>, anneler ve bebekler arasındaki bağlanma biçimlerini ayrıntı olarak incelemek ve kavramsallaştırmak için kullanılır. Bebeğin yabancının varlığında ve anneden ayrılma/birleşme anlarındaki tepkileri gözlemlenir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi yabancı durum testinin aşamalarından biri değildir?
+    - A-) Yabancının odaya girerek anne ve bebekle etkileşime girmesi
+    - B-) Annenin odadan ayrılması
+    - C-) Annenin odaya girmesi, yabancının çıkması
+    - D-) Anne odadan tekrar ayrılır, bebek odada yalnız kalır
+    - **Cevap E-) Bebek odadan çıkarılır**
+
+    > **Açıklama:** Yabancı Durum Testi, bebek odada (oyuncak dolu bir oda) ve bakım veren figürlerle etkileşim halindeyken gözlemlenir. Testin aşamaları arasında bebeğin odadan çıkarılması yer almaz.
+
+    <hr />
+
+3. Anneden ayrılmaya tepkisizken, yeniden buluşma anında anneye soğuk ve reddedici davranan bir bebekte hangi tip bağlanma söz konusudur?
+    - A-) Güvenli bağlanma
+    - B-) Anksiyoz bağlanma
+    - **Cevap C-) Kaçıngan bağlanma**
+    - D-) Dezorganize bağlanma
+    - E-) Hiçbiri
+
+    > **Açıklama:** Güvensiz/kaçıngan bağlanan çocukların ayrılma anında sakin ve neredeyse tepkisizken, yeniden buluşma anında anneye karşı <b>soğuk ve reddedici davrandığı</b> gözlemlenmiştir.
+
+    <hr />
+
+4. Yabancı durum (ortam) testinde, anneden ayrılmaya aşırı tepki gösteren, anneyle kavuşmaya ise öfkeli ve reddedici tepki gösteren bebeğin bağlanma tipi aşağıdakilerden hangisidir?
+    - **Cevap A-) Güvensiz-kararsız bağlanma**
+    - B-) Güvenli bağlanma
+    - C-) Sorunsuz bağlanma
+    - D-) Dezorganize bağlanma
+    - E-) Güvensiz-kaçıngan bağlanma
+
+    > **Açıklama:** Güvensiz/anksiyöz/kararsız bağlanan çocukların ayrılma anında aşırı üzüldüğü, anneleri geri döndüğünde ise anneye karşı <b>öfkeli ve reddedici davrandıkları</b> gözlemlenmiştir.
+
+    <hr />
+
+### 3.7. Bağlanma ve Psikopatoloji
+
+1. Bağlanma bozukluklarıyla ilgili olarak aşağıdakilerden hangisi doğrudur?
+    - A-) Çocukluk ve erişkin dönemde birçok psikiyatrik bozukluğun gelişiminde önemlidir.
+    - B-) Ebeveyndeki psikiyatrik bozukluklar bağlanma bozukluğu için risk faktörüdür.
+    - C-) Bağlanma bozukluğu olan küçük çocuklar otizmi olan bir çocuk gibi görünebilirler.
+    - D-) Bağlanma bozukluğu olan çocuklar erken ve uygun müdahale ile normale dönebilirler.
+    - **Cevap E-) Hepsi.**
+
+    > **Açıklama:** Güvensiz bağlanma biçimlerinin çocukluk, ergenlik ve erişkinlik döneminde birçok psikopatolojinin (anksiyete, depresyon, davranış bozuklukları, kişilik bozuklukları, madde bağımlılığı) gelişiminde önemli risk faktörü olduğu bilinmektedir (A). Ebeveyn psikopatolojileri risk faktörüdür (B). Bağlanma bozukluğu olan çocuklar sosyal ilişkilerde zorluklar yaşayarak otizmi olan bir çocuğa benzer semptomlar gösterebilirler (C). Erken ve uygun müdahale ile bağlanma bozukluklarının geri döndürülebilir ve tedavi edilebilir nitelikte olduğu bilinmektedir (D). Bu sebeple hepsi doğrudur.
+
+    <hr />
+
+2. Güvenli bağlanmanın ruh sağlığı açısından koruyucu etki ve mekanizmalarıyla ilgili olarak aşağıdakilerden hangisi doğru değildir?
+    - A-) Beyin gelişimi ve sinaptik ağın oluşumunda önemlidir.
+    - B-) Bebeklik dönemindeki güven duygusu ileriki yıllarda insan ilişkilerinde önemlidir.
+    - C-) Kendine güven duygusunun gelişiminde önemlidir.
+    - D-) Keşfetme duygusu ve davranışını pekiştirir.
+    - **Cevap E-) Psikolojik dayanıklılık gelişiminde bir etkisi yoktur.**
+
+    > **Açıklama:** Güvenli bağlanma kuran çocukların ilerleyen dönemlerde yaşadıkları zorluklarla uygun şekilde baş eden daha 'dayanıklı' bireyler oldukları bilinmektedir. Bu nedenle, güvenli bağlanmanın <b>psikolojik dayanıklılık gelişiminde önemli bir etkisi vardır</b>.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi bebeğin bakımındaki ihmalle ilgili psikiyatrik bozukluk ya da sorunlardan biri değildir?
+    - A-) Tepkisel bağlanma bozukluğu
+    - B-) Konuşma bozuklukları
+    - C-) Sınırsız toplumsal katılım bozukluğu
+    - **Cevap D-) Otizm spektrum bozuklukları**
+    - E-) Kendine ve etrafa zarar verme davranışları
+
+    > **Açıklama:** Ağır ihmale uğrayan çocuklarda tepkisel bağlanma bozukluğu ve sınırsız toplumsal katılım bozukluğu gibi bağlanma bozuklukları ile konuşma bozuklukları görülmektedir. <b>Otizm spektrum bozuklukları</b> ise esas olarak biyolojik ve nörogelişimsel kökenli bir bozukluktur ve ihmal ile ilişkili sorunlardan biri değildir. Bağlanma bozukluğu olan küçük çocuklar otizmi olan bir çocuk gibi görünebilirler, ancak Otizm spektrum bozukluğu ihmal kaynaklı değildir.
+
+    <hr />
+
+4. 18 aylık kızını ‘hiç konuşmadığı ve kendisiyle pek ilişki kurmadığı’ şikâyetiyle size getiren bir anne ile ilgili olarak aşağıdakilerden hangisini yapmanız beklenmez?
+    - A-) Annenin gebelik öyküsü sormak
+    - B-) Bebeğin bakım öyküsünü sormak
+    - C-) Televizyon veya ekran maruziyetini sormak
+    - **Cevap D-) Bebekte bir sorun olmadığı konusunda anneye güvence vermek**
+    - E-) Bir çocuk psikiyatrisine yönlendirmek
+
+    > **Açıklama:** Çocuğun hiç konuşmaması ve ilişki kuramaması ciddi bir gelişimsel sorun göstergesidir (otizm spektrum bozukluğu veya tepkisel bağlanma bozukluğu gibi). Uzman olarak, bu belirtiler karşısında <b>bebekte bir sorun olmadığı konusunda anneye güvence vermek</b> beklenmez; tam tersine, detaylı öykü (A, B, C) alınmalı ve tanı/tedavi için çocuk psikiyatrisine (E) yönlendirilmelidir.
+
+    <hr />
+
+### 3.8. Bebeklik Döneminde Koruyucu Ruh Sağlığı Girişimleri
+
+1. Aşağıdakilerden hangisi bebeklik dönemindeki koruyucu ruh sağlığı önlemi veya girişimi olarak düşünülemez?
+    - A-) Anne-bebek ilişkisini güçlendirmek
+    - B-) Dil gelişimi için bebeğe ninni veya şarkı söylemek
+    - C-) Emzirmeyi teşvik etmek
+    - **Cevap D-) Yabancı dil öğrenmesi için bebeğe İngilizce çizgi film seyrettirmek**
+    - E-) Ebeveyne oyun ve iletişim becerileri konusunda yardım etmek
+
+    > **Açıklama:** Koruyucu ruh sağlığı açısından, özellikle dil gelişimi için kritik olan ilk yıllarda, televizyon veya ekran maruziyetinin sınırlanması önerilir. Küçük çocuklar için konuşma ve dil, ancak gerçek bir deneyimin parçasıysa anlamlıdır. Dolayısıyla, <b>yabancı dil öğrenmesi için bebeğe İngilizce çizgi film seyrettirmek</b>, koruyucu ruh sağlığı önlemi olarak düşünülemez.
+
+    <hr />
+
+### 3.9. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Anne Sütü ve Emzirme
+
+1. Emzirme ile ilgili olarak aşağıdakilerden hangisi doğrudur?
+    - A-) Güvenli bağlanmanın gelişmesinde önemlidir.
+    - B-) Annelik duygusunun gelişmesinde önemlidir.
+    - C-) Emzirme annede oksitosin salınımını uyarır.
+    - D-) Zekâ gelişiminde önemlidir.
+    - **Cevap E-) Hepsi.**
+
+    > **Açıklama:** Emzirme, anne ile bebek arasındaki güvenli bağlanmanın en önemli ve etkili araçlarından biridir (A). Emzirme ve dokunma gibi etkileşimler sırasında oksitosin hormonunun salınımıyla annede ebeveynlik duygusu (B) gelişir. Anne sütü alan bebeklerin daha büyük beyin hacmine sahip oldukları ve zekâ düzeylerinin daha iyi olduğu bilinmektedir (D). Bu nedenle hepsi doğrudur.
+
+    <hr />
+
+## Ünite 4
+
+### 4.1. Erken Çocukluk Döneminin Genel Gelişimsel Özellikleri
+
+1. Aşağıdakilerden hangisi erken çocukluk döneminin özelliklerinden biri <u>değildir</u>?
+    - A-) Merak ve keşfetme
+    - B-) Görerek öğrenme
+    - C-) Kız-erkek ayrımını yapabilme
+    - D-) Büyükleri taklit etme
+    - **Cevap E-) Nasihat yoluyla öğrenme**
+
+    > **Açıklama:** Erken çocukluk döneminde çocuklar bilişsel gelişim düzeyleri nedeniyle olaylar ve durumlar arasındaki neden-sonuç ilişkilerini yeterince kuramazlar ve soyut kavramları yeterince kavrayamazlar. Bu nedenle bu dönemde öğrenme nasihatten çok, anne-baba başta olmak üzere çevreyi gözlemleme yoluyla olur.
+
+    <hr />
+
+2. Cinsel kimlik gelişimi ve çocukluk dönemi hakkında aşağıdakilerden hangisi doğrudur?
+    - A-) Kız-erkek ayrımını yapabilme erken çocukluk dönemi özelliklerinden biri değildir.
+    - B-) Dönem sonuna doğru cinsiyetle uyumlu tercih ve davranışlar büyük ölçüde gelişmiştir.
+    - C-) Cinsel kimliğin gelişiminde ebeveyn tutum ve davranışları önemlidir.
+    - D-) Erkek çocuklar için babanın varlığı özellikle önemlidir.
+    - **Cevap E-) Hepsi.**
+
+    > **Açıklama:** Erken çocukluk döneminde kız-erkek ayrımını yapabilme, cinsel kimliğin büyük ölçüde gelişmesi, ebeveyn tutumlarının önemi ve erkek çocuklar için babanın varlığının önemi gibi tüm ifadeler doğrudur.
+
+    <hr />
+
+### 4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları
+
+1. Ebeveyn tutum ve davranışlarının koruyucu ruh sağlığı ve dayanıklılık açısından önemi/etkisi hakkında aşağıdakilerden hangisi doğrudur?
+    - A-) Ebeveynler olumlu veya olumsuz örnek olabilirler.
+    - B-) Aşırı koruyucu ebeveyn tipi dayanıklılık gelişimini zorlaştırabilir.
+    - C-) İlgisiz, sorumsuz ebeveyn çocukta riskli alışkanlıkların gelişmesini kolaylaştırır.
+    - D-) Ebeveyn tutum ve davranışları psikiyatrik bir sorunun ortaya çıkışını kolaylaştırabilir.
+    - **Cevap E-) Hepsi**
+
+    > **Açıklama:** Ebeveynlerin rol model olması (A), aşırı koruyucu tutumların dayanıklılığı zorlaştırması (B), ilgisizliğin riskli alışkanlıkları kolaylaştırması (C), ve tutumların psikiyatrik sorunları kolaylaştırması (D) göz önüne alındığında, tüm seçenekler doğrudur.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi erken çocukluk döneminde beceri kazanmanın, öğrenmenin yollarından biridir?
+    - A-) Gözlemleme
+    - B-) Deneme-yanılma
+    - C-) Merak etme
+    - D-) Taklit etme
+    - **Cevap E-) Hepsi**
+
+    > **Açıklama:** Erken çocukluk döneminde öğrenme esas olarak çevreyi gözlemleme ve büyükleri taklit etme yoluyla olur. Artan bağımsızlık sayesinde çocuklar çevreyi keşfetmeye ve yeni beceriler öğrenmeye başlarlar, bu da merak etme ve deneme-yanılma süreçlerini içerir.
+
+    <hr />
+
+3. Aşağıdaki yaygın ebeveyn tutumlarından hangisi psikolojik dayanıklılıkla <u>olumlu yönde</u> ilişkilidir?
+    - **Cevap A-) Destekleyici ve hoşgörülü aile**
+    - B-) İlgisiz ve kayıtsız aile
+    - C-) Kararsız ve tutarsız aile
+    - D-) Otoriter- katı kuralcı aile
+    - E-) Aşırı koruyucu aile
+
+    > **Açıklama:** Sevgiye dayalı, hoşgörülü, destekleyici ve sınırları belli aile modeli, ebeveynlik tutumları içinde en sağlıklı ve etkili olandır. Bu ailelerde yetişen çocuklar, ileride sağlıklı ve güvene dayalı ilişkiler kurabilen, sorumluluk sahibi, özdenetimi yüksek, mutlu ve <b>dayanıklı</b> bireyler olurlar.
+
+    <hr />
+
+4. Sevgiye dayalı ve hoşgörülü ailelerle ilgili hangisi <u>yanlıştır</u>?
+    - **Cevap A-) Sıklıkla her iki ebeveynin de çalıştığı, sosyo–ekonomik düzeyi yüksek ailelerdir.**
+    - B-) Anne – baba ile çocuk arasında sevgiye ve güvene dayalı ilişkinin hakim olduğu aile modelidir.
+    - C-) Ebeveynler ahlaki değerleri sözle değil fiillerle öğretme gayretindedirler.
+    - D-) Ebeveynler çocuklarının merakını destekler ve öğrenmeye teşvik ederler.
+    - E-) Güvenli bağlanma örüntüsü ile ilişkilidir.
+
+    > **Açıklama:** Sevgiye dayalı, hoşgörülü, destekleyici ve sınırları belli aile modeli, ebeveynlik tutumları içinde en sağlıklı ve etkili olandır. Ancak, bu ailenin temel özelliği yüksek sosyoekonomik düzey veya ebeveynlerin çalışması değildir.
+
+    <hr />
+
+5. Aşağıdakilerden hangisi olumlu ebeveynlik tutumlarından biridir?
+    - A-) Çocukların onayını almak için çabalamak
+    - B-) Çocuklarıyla ebeveynlikten ziyade yakın arkadaş ilişkisi geliştirmek
+    - **Cevap C-) Gerektiğinde sınırlar koymak ve “hayır” diyebilmek**
+    - D-) Çocukların isteklerini merkeze almak
+    - E-) Yarışmacı ve rekabetçi bir tutum sergilemek
+
+    > **Açıklama:** Sevgiye dayalı, hoşgörülü, destekleyici ve sınırları belli aile modelinde, ebeveynler çocuklarını koşulsuz severler ancak onlara sınırlar koymak konusunda tutarlı ve başarılıdır. Olumlu ebeveynlikte, <b>gerektiğinde sınırlar koymak ve 'hayır' diyebilmek</b> önemlidir.
+
+    <hr />
+
+6. Çocuğun görerek ve taklit ederek öğrenmeye en açık olduğu, anne babanın çocuğuna davranışlarıyla güzel örnek olmasının en önemli olduğu dönem aşağıdakilerden hangisidir?
+    - A-) Ergenlik
+    - B-) Bebeklik
+    - **Cevap C-) Erken çocukluk**
+    - D-) Okul çağı
+    - E-) Ön ergenlik
+
+    > **Açıklama:** Erken çocukluk döneminde (2-6 yaş) çocuklar, bilişsel gelişim düzeyleri nedeniyle öğrenmeyi nasihatten çok, <b>anne-baba başta olmak üzere çevreyi gözlemleme ve büyükleri taklit etme</b> yoluyla gerçekleştirir. Bu, ebeveynin rol model olmasının en önemli olduğu dönemdir.
+
+    <hr />
+
+7. Erken çocukluk döneminde, koruyucu ruh sağlığı ve dayanıklılık açısından en uygun aile tipi aşağıdakilerden hangisi olabilir?
+    - A-) Otoriter - katı kuralcı aile
+    - **Cevap B-) Sevgiye dayalı, destekleyici, örnek davranışlar sergileyen aile**
+    - C-) İlgisiz ve kayıtsız aile
+    - D-) Aşırı koruyucu aile
+    - E-) Kararsız ve tutarsız aile
+
+    > **Açıklama:** Sevgiye dayalı, hoşgörülü, destekleyici ve sınırları belli aile modeli, ebeveynlik tutumları içinde en sağlıklı ve etkili olandır. Bu ailelerde yetişen çocuklar, ileride öz denetimi yüksek, duygu düzenlemesini uygun şekilde yapabilen, sorunlarla etkin şeklide başa çıkabilen ve ruhsal açıdan dayanıklı bireyler olarak yetişir.
+
+    <hr />
+
+### 4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık
+
+1. Koruyucu ruh sağlığı açısından önemli olan aşağıdaki beceri veya durumlardan hangisi erken çocuklukla ilgili <u>değildir</u>?
+    - A-) Dürtü ve öfke kontrolü
+    - B-) Zevk erteleme
+    - **Cevap C-) Güvenli bağlanma**
+    - D-) Empati
+    - E-) Problem çözme
+
+    > **Açıklama:** Güvenli bağlanma, bebeklik dönemindeki (0-2 yaş) en önemli kazanım olarak kabul edilir ve bu dönem güvenli bağlanma için <u>kritik dönemdir</u>. Diğer beceriler ise erken çocukluk (okul öncesi) dönemi için hassas dönem kazanımlarıdır.
+
+    <hr />
+
+2. Psikolojik dayanıklılığın gelişmesi açısından aşağıdakilerden hangisi altı yaşındaki bir çocukta ailenin yapması <u>beklenilen bir durum değildir</u>?
+    - A-) Sorunların çözümünde çocuğa örnek olmak
+    - **Cevap B-) Çocuğu her türlü riskli durumdan uzak tutmak**
+    - C-) Çocuğun sağlıklı beslenmesini sağlamak
+    - D-) Çocuğa tarihimizden kahramanlık hikâyeleri okumak
+    - E-) Çocuğun ağaca tırmanmaya çalışmasına izin vermek
+
+    > **Açıklama:** Çocuğu tehlikeli veya riskli durumlardan korumak ebeveyn görevi olsa da, aşırı koruyucu tutumlar psikolojik dayanıklılığın gelişmesini zorlaştırır. Psikolojik dayanıklılığın gelişmesi, çocuğun <b>baş edebileceği düzeyde risk veya zorluklarla karşılaşmasını</b> gerektirir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi erken çocukluk dönemindeki koruyucu ruh sağlığı önlemlerinden biri <u>değildir</u>?
+    - A-) Ebeveynlere yönelik baş etme eğitimi vermek
+    - B-) Kreş veya anaokulunda gelişimsel veya davranışsal sorunu olan çocukları taramak
+    - **Cevap C-) Çocuklara yönelik yabancı dil eğitimleri vermek**
+    - D-) Uyku ve beslenme alışkanlıklarına dikkat etmek
+    - E-) Ciddi düzeyde dürtü ve davranış sorunu olan çocukları tedavi için yönlendirmek
+
+    > **Açıklama:** Koruyucu ruh sağlığı programları arasında, erken müdahale için tarama yapmak ve ebeveyn eğitimi vermek yer alır. Uyku ve beslenme alışkanlıkları bu dönemin kazanımları için önemlidir. Ancak yabancı dil öğrenmek, erken çocukluk döneminde <b>hassas dönem</b> olmasına rağmen, bir koruyucu ruh sağlığı önlemi olarak kabul edilmez.
+
+    <hr />
+
+4. 4-5 yaş grubu çocukların olduğu bir anaokulunda koruyucu ruh sağlığı projesi geliştirmeniz ve uygulamanız isteniyor. Aşağıdakilerden hangisini bu bağlamda yapmanız beklenmez?
+    - A-) Ailelerin sosyodemografik özellikleriyle ilgili bilgi toplamak
+    - B-) Çocuklarda teknoloji kullanımı konusunda ebeveynleri bilgilendirmek
+    - C-) Çocuklarda cinsel kimlik gelişimiyle ilgili sorunları taramak
+    - **Cevap D-) Davranışsal ve gelişimsel problemleri olan çocuklara tanı koymak**
+    - E-) Gelişimsel sorunları olan çocuklara test uygulamak
+
+    > **Açıklama:** Çocuk gelişim uzmanlarından, koruyucu ruh sağlığı projelerinde tarama testleri uygulaması (E) ve ebeveynleri bilgilendirmesi (B) beklenir. Ancak <b>davranışsal ve gelişimsel problemleri olan çocuklara tanı koymak</b>, çocuk ve ergen psikiyatrisi gibi ilgili uzmanların işlevidir, bu durum çocuk gelişim uzmanından beklenmez.
+
+    <hr />
+
+5. Aşağıdaki psikiyatrik bozukluklardan hangisi erken çocukluk döneminde kazanılmaya başlamış olması beklenilen empati becerisinin gelişmemiş olmasıyla karekterizedir?
+    - A-) Dikkat eksikliği hiperaktivite bozukluğu
+    - B-) Anksiyete bozukluğu
+    - C-) Major depresif bozukluk
+    - **Cevap D-) Antisosyal kişilik bozukluğu**
+    - E-) Şizofreni
+
+    > **Açıklama:** Empati becerilerinin yokluğu veya kısıtlılığı, <b>Antisosyal kişilik bozukluğu</b> gibi birçok psikiyatrik bozukluğun önemli belirtileri veya sebepleri arasındadır.
+
+    <hr />
+
+6. Erken çocukluk döneminde koruyucu ruh sağlığı ve dayanıklılık açısından önemli becerilerin kazanılması ve gelişmesi açısından hangisi <u>söylenemez</u>?
+    - A-) Bu dönem çocuklarında gözlemleme, taklit etme, özdeşim kurma en önemli öğrenme yöntemleridir.
+    - B-) Bu dönemde öğrenilmiş/kazanılmış becerilerin hayat boyu kalıcı olma ihtimali yüksektir.
+    - **Cevap C-) Bu dönemde öğrenilmeyen becerilerin ileriki yaşlarda öğrenilmesi <u>mümkün değildir</u>.**
+    - D-) Pek çok tutum ve becerinin kazanılabilmesi açısından hassas bir dönemdir.
+    - E-) Anne baba başta olmak üzere güzel örnek teşkil eden çevre bu becerilerin kazanılmasında oldukça önemlidir.
+
+    > **Açıklama:** Erken çocukluk dönemi hassas bir dönemdir. Hassas dönemdeki bir beceri bu dönemde kazanılmadığı takdirde, ileriki yıllarda kazanılması <b>mümkündür ama daha zordur</b>. Bu nedenle 'mümkün değildir' ifadesi söylenemez.
+
+    <hr />
+
+7. I. Biyolojik cinsiyetiyle uyumlu cinsel kimlik gelişimi
+II. Dürtü kontrolü ve zevk erteleme
+III. Alkol madde karşıtı tutum ve davranışlar
+IV. Spor ve sanatsal ilgiler
+Yukarıdakilerden hangileri erken çocukluk döneminde gerçekleşmesi beklenilen koruyucu beceri veya kazanımlardandır?
+    - A-) II, III ve IV
+    - B-) I, II ve IV
+    - **Cevap C-) I ve II**
+    - D-) II ve III
+    - E-) III ve IV
+
+    > **Açıklama:** Erken çocukluk dönemi (2-6 yaş), <b>biyolojik cinsiyetle uyumlu cinsel kimlik gelişimi</b> (I) ve <b>dürtü kontrolü ve zevk erteleme</b> (II) becerilerinin öğrenilmeye başlanması açısından hassas bir dönemdir. III ve IV numaralı beceriler (Alkol-madde karşıtı tutumlar, spor/sanatsal ilgiler) daha çok okul çağı ve ergenlik döneminde öne çıkan kazanımlardır.
+
+    <hr />
+
+8. Öz denetim becerilerinin kazanılması açısından hassas dönem olarak tanımlanan en erken gelişimsel dönem hangisidir?
+    - A-) Erişkinlik
+    - B-) Okul çağı
+    - **Cevap C-) Okul öncesi**
+    - D-) Bebeklik
+    - E-) Ergenlik
+
+    > **Açıklama:** Öz kontrol becerilerinin (öfke ve dürtü kontrolü, zevk erteleme gibi) öğrenilmeye ve kazanılmaya başlanması açısından <b>erken çocukluk dönemi (yani altı yaş öncesi) hassas dönemdir</b>. Okul öncesi dönem, erken çocukluk dönemini ifade eder.
+
+    <hr />
+
+## Ünite 5
+
+### 5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı
+
+1. Ruh sağlığı ve dayanıklılık açısından aşağıdakilerden hangisi okul çağı kazanımları arasında yer alır?
+    - A-) İletişim becerileri
+    - B-) Sorumluluk duygusu
+    - C-) Sağlıklı yaşam alışkanlıkları
+    - D-) Baş etme becerileri
+    - **Cevap E-) Hepsi**
+
+    > **Açıklama:** Okul çağında kazanılması beklenen beceriler arasında sorumluluk duygusu, akademik başarı, iletişim, kendini ifade etme ve savunma, sağlıklı öz güven, etkili sorun çözme, spor ve sanatsal beceriler, sağlıklı eğlence anlayışı, sağlıklı yaşam alışkanlıkları ve alkol-madde karşıtı bilinç gibi beceriler yer almaktadır. Bu nedenle hepsi doğrudur.
+
+    <hr />
+
+2. Okul çağı çocuğu ve bu dönemdeki koruyucu ruh sağlığı becerileri için hangisi <u>söylenemez</u>?
+    - A-) Akademik başarı ve sorumluluk duygusunun gelişmesi açısından önemli bir dönemdir.
+    - **Cevap B-) Akran etkisinin en yoğun yaşandığı dönemdir.**
+    - C-) Erken çocukluk döneminde kazanılan beceri ve alışkanlıkların pekiştiği bir dönemdir.
+    - D-) Çocuğun yeni görev ve sorumluluklarla tanıştığı, toplum tarafından kendinden beklenen ödevlerin arttığı dönemidir.
+    - E-) Sağlıklı eğlence anlayışının kazanılması önemlidir.
+
+    > **Açıklama:** Akran etkisinin en yoğun yaşandığı dönem <b>ergenlik</b> dönemidir, okul çağı değildir. Okul çağı (6-11 yaş) erken çocuklukta kazanılan becerilerin pekiştiği ve sorumlulukların arttığı bir dönemdir.
+
+    <hr />
+
+3. Akademik başarının ruh sağlığı açısından koruyucu olmasında aşağıdakilerden hangisinin rolü olması <u>beklenmez</u>?
+    - A-) Akademik başarı koruyucu bir faktör olan zekâ ile yakından ilişkilidir.
+    - B-) Akademik başarı sağlıklı öz güven gelişiminde önemlidir.
+    - **Cevap C-) Öz güveni yüksek bireyler her zaman akademik olarak başarılı olurlar.**
+    - D-) Akademik olarak başarılı çocuklar doğrudan veya dolaylı olarak riskli ortamlardan uzak dururlar.
+    - E-) Akademik başarı koruyucu bir faktör olan aile desteğini yansıtan bir faktör olabilir.
+
+    > **Açıklama:** Akademik başarı, zekâ ile ilişkili ve sağlıklı öz güven gelişiminde önemli bir rol oynar. Ancak 'Öz güveni yüksek bireylerin her zaman akademik olarak başarılı olmaları' gibi kesin bir nedensellik ilişkisinin olması beklenmez. Öz güven ve başarı arasındaki ilişki karmaşıktır, ancak akademik başarı, ruh sağlığı açısından <b>yaşam boyu koruyucu bir faktördür</b>.
+
+    <hr />
+
+4. Öz güven hakkında aşağıdakilerden hangisi doğrudur?
+    - A-) Öz güveni yüksek bireyler her zaman mutlu ve sağlıklı bireylerdir.
+    - B-) Bütün çocuklar başarı veya becerilerinden bağımsız olarak kendilerine güvenmelidir.
+    - C-) Bir çocuğun akademik olarak başarılı olması için kendine güvenmesi gerekir.
+    - **Cevap D-) Sağlıklı öz güven ruh sağlığı açısından koruyucudur.**
+    - E-) Bir çocuğun öz güvenini geliştirmek için akademik olarak başarılı olmasını sağlamak gerekir.
+
+    > **Açıklama:** Sağlıklı öz güven, okul çağında geliştirilmesi gereken beceriler arasındadır ve <b>ruh sağlığı açısından koruyucudur</b>. Sağlıklı öz güven, bireyin zorluklarla baş edebilmesini ve kendini yeterli hissetmesini destekler.
+
+    <hr />
+
+5. Öz güven ve sağlıklı öz güven hakkında aşağıdakilerden hangisi <u>söylenemez</u>?
+    - A-) Her çocuk sahip olduğu özellikler, ilgi ve yetenekleri çerçevesinde öz güven için teşvik edilmelidir.
+    - B-) Başarıya dayanmayan öz güven, yıkıcı bir silaha dönüşebilir.
+    - **Cevap C-) Bir çocuğun kendine güvenmesi için mutlaka başarılı olması gerekir.**
+    - D-) Akademik başarı sağlıklı öz güvenin bir bileşenidir.
+    - E-) Sağlıklı öz güven bir sonuçtur.
+
+    > **Açıklama:** Öz güvenin gelişimi başarıya bağlı olmaksızın desteklenmelidir. Dolayısıyla 'Bir çocuğun kendine güvenmesi için mutlaka başarılı olması gerekir' ifadesi doğru değildir.
+
+    <hr />
+
+6. Aşağıdakilerden hangisi okul çağındaki bir çocukta ebeveynin sorumlulukları arasında yer alır?
+    - A-) Çocuğu riskli ortamlardan uzak tutmak
+    - **Cevap B-) Okuldaki sorunlarıyla ilgili çocukla konuşmak**
+    - C-) Çocuğun okul dışındaki aktivitelere katılımını engellemek
+    - D-) Çocuğun tüm kararlarını onun yerine almak
+    - E-) Çocuğun öğretmenleriyle iletişim kurmasını yasaklamak
+
+    > **Açıklama:** Ebeveynlerin, çocuğun hangi sorunla nasıl baş ettiğini veya edeceğini öngörebilmesi ve gerektiğinde çocuğa yardımcı olabilmesi önemlidir. Bu kapsamda, **okuldaki sorunlarıyla ilgili çocukla konuşmak** ve çözüm becerilerini geliştirmesine yardımcı olmak ebeveynin sorumlulukları arasındadır.
+
+    <hr />
+
+7. I. Akademik başarı ve sorumluluk duygusu 
+II. Hayır deme ve kendini ifade etme becerileri 
+III. Güvenli bağlanma 
+IV. Sağlıklı eğlence anlayışı 
+Yukarıdakilerden hangileri okul döneminde (6-12 yaş) kazanılması beklenilen koruyucu becerileri arasında yer almaktadır?
+    - A-) II ve III
+    - B-) I ve II
+    - **Cevap C-) I, II ve IV**
+    - D-) II, III ve IV
+    - E-) III ve IV
+
+    > **Açıklama:** Okul dönemi (6-12 yaş) kazanımları arasında akademik başarı ve sorumluluk duygusu (I), hayır deme ve kendini ifade etme becerileri (II) ve sağlıklı eğlence anlayışı (IV) yer alır. Güvenli bağlanma (III) ise özellikle daha erken yaşlarda temelleri atılan kritik bir dönem kazanımıdır.
+
+    <hr />
+
+### 5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı
+
+1. Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının ………. oranında olduğunu bildirmektedir.
+    - A-) %1-10
+    - B-) %5-10
+    - **Cevap C-) %8-18**
+    - D-) %30-40
+    - E-) %20-30
+
+    > **Açıklama:** Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının **%8-18** oranında olduğunu bildirmektedir.
+
+    <hr />
+
+2. I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır. 
+II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur. 
+III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar. 
+IV. Eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar. 
+Yukarıdakilerden hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?
+    - A-) III ve IV
+    - **Cevap B-) I, III ve IV**
+    - C-) I, II ve III
+    - D-) I ve IV
+    - E-) I ve III
+
+    > **Açıklama:** Okul, çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlar (I). Psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlar (III). Ayrıca eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar (IV). Sağlık hizmeti maliyetleri okul tabanlı programlarla **düşürülebilir**, bu nedenle II. madde yanlıştır.
+
+    <hr />
+
+3. I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır. 
+II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur. 
+III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar. 
+Yukarıdakilerden hangisi ve hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?
+    - A-) Yalnız I
+    - **Cevap B-) I ve III**
+    - C-) II ve III
+    - D-) I ve II
+    - E-) Yalnız II
+
+    > **Açıklama:** Okulun avantajları arasında çocuk, ergen ve ailelere daha kolay ulaşılabilir olması (I) ve psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlaması (III) yer alır. Okul sistemi içinde program uygulaması maliyeti **azaltabilir**, bu nedenle II. madde doğru değildir.
+
+    <hr />
+
+4. Aşağıdaki psikiyatrik bozukluklardan hangisinin çocuklarda görülme sıklığının, okul ortamında alınabilecek tedbir ve çalışmalarla azaltılması <u>beklenmez</u>?
+    - **Cevap A-) Artikülasyon bozukluğu**
+    - B-) Depresyon
+    - C-) Sigara ve alkol kullanım bozukluğu
+    - D-) Davranım bozukluğu
+    - E-) Akran zorbalığı
+
+    > **Açıklama:** Artikülasyon bozukluğu (sesletim bozukluğu), esas olarak konuşma ve dil gelişimiyle ilgili bir durumdur. Okul ortamında uygulanan sosyal veya psikiyatrik müdahalelerle doğrudan sıklığının azaltılması beklenmez. Depresyon, madde kullanımı ve davranış sorunları ise okul temelli programlarla azaltılabilir.
+
+    <hr />
+
+### 5.3.1. Okula Başlama ve Uyum Süreci ile İlişkili Problemler ve Koruyucu Ruh Sağlığı
+
+1. Okula başlamak ve uyum süreci ile ilgili aşağıdakilerden hangisi doğru <u>değildir</u>?
+    - A-) Okul ortamı, çocuğun alıştığı aile ortamının dışına çıkarak yeni bir sosyal çevre edinmesinin ilk adımıdır.
+    - B-) Okula başlama, çocukta okulla ilişkili kaygı ve korkuların oluşmasına neden olabilir.
+    - **Cevap C-) Okula başlamak çocuklar için her zaman keyifli bir olaydır.**
+    - D-) Okula uyumla ilişkili güçlüklere ve hatta okul fobisi, okul reddi gibi durumlarla sonuçlanabilir.
+    - E-) Bu durum çocuğun daha sonraki okul yaşantısını, eğitim ve mesleki hayatını etkileyebilir.
+
+    > **Açıklama:** Okula başlama, uyulması gereken yeni kurallar ve yerine getirilmesi gereken yeni sorumluluklar getirdiğinden, bu süreç bazı çocuklarda kaygı ve korku oluşturabilir. Dolayısıyla, 'Okula başlamak çocuklar için her zaman keyifli bir olaydır' ifadesi doğru değildir.
+
+    <hr />
+
+2. I. Okula başlamadan önce çocuğun okul hakkında bilgilendirilmesi 
+II. Çocuğun okul hakkındaki sorularına gerçekçi cevapların verilmesi 
+III. Okul alışverişinin çocukla birlikte yapılması 
+IV. Çocuğun özel gereksinim gerektiren bir durumu (örneğin otizm spektrum bozukluğu) varsa bu durumun okuldan saklanması 
+Yukarıdakilerden hangileri okula başlama sürecinde çocuğun uyumunu artırmaya yönelik önerilerdendir?
+    - A-) I ve III
+    - B-) I, III ve IV
+    - **Cevap C-) I, II ve III**
+    - D-) I ve II
+    - E-) II, III ve IV
+
+    > **Açıklama:** Okula başlamadan önce bilgilendirme (I), gerçekçi cevaplar verme (II) ve okul alışverişini çocukla yapma (III) uyumu artırır. Ancak çocuğun özel gereksinimli bir durumunun okuldan saklanması (IV), uyumu artırmaya değil, zorlaştırmaya neden olur; okul yönetimi ve öğretmenlerin destek sunması için bilgilendirilmesi gerekir.
+
+    <hr />
+
+3. I-Okula başlamadan önce çocuğun okul hakkında bilgilendirilmesi 
+II-Çocuğun okul hakkındaki sorularına gerçekçi cevapların verilmesi 
+III-Okul alışverişinin çocukla birlikte yapılması 
+IV-Çocuğun özel gereksinim gerektiren bir durumu (örneğin otizm spektrum bozukluğu) varsa bu durumun okuldan saklanması 
+Yukarıdakilerden hangileri okula başlama sürecinde çocuğun uyumunu artırmaya yönelik önerilerdendir?
+    - **Cevap A-) I, II, III**
+    - B-) II, III, IV
+    - C-) I, II
+    - D-) I, III
+    - E-) I, III, IV
+
+    > **Açıklama:** Okula başlama sürecinde uyumu artırmak için çocuğu okul hakkında bilgilendirmek (I), sorularına gerçekçi cevaplar vermek (II) ve sürece dahil etmek (III - alışveriş) önemlidir. Özel gereksinimli bir durumu saklamak uyumu artırmaz (IV).
+
+    <hr />
+
+### 5.3.2. Özel Gereksinimli Çocuklar ve Koruyucu Ruh Sağlığı
+
+1. Aşağıdakilerden hangisi özel gereksinimli çocuk olarak düşünülemez?
+    - A-) Fiziksel engelli çocuk
+    - B-) Otizm spektrum bozukluğu olan çocuk
+    - C-) Özgül öğrenme bozukluğu olan çocuk
+    - D-) Üstün zekâlı çocuk
+    - **Cevap E-) Sorumsuz çocuk**
+
+    > **Açıklama:** Özel gereksinimli çocuk, bireysel ve gelişimsel özellikleri ile eğitim yeterlilikleri açısından akranlarından anlamlı farklılıklar gösteren çocuk olarak tanımlanır. Bu tanım; zihinsel yetersizlik, DEHB, ÖÖB, otizm, işitme, görme, ortopedik engeli olan bireyleri ve sürekli/uzun süreli bakım gerektiren hastalığı olan bireyleri kapsar. **Sorumsuz çocuk** bu kategoride yer almaz.
+
+    <hr />
+
+2. I. Zihinsel yetersizlik 
+II. Anksiyete bozukluğu 
+III. Özgül öğrenme bozukluğu 
+Yukarıdakilerden hangisi veya hangileri okul çağı çocuklarında özel gereksinim gerektiren durumlardandır?
+    - A-) Yalnız III
+    - B-) I-III
+    - C-) Yalnız I
+    - D-) I-II
+    - **Cevap E-) I-III**
+
+    > **Açıklama:** Özel gereksinimli çocuklar, yetersizlik alanlarına göre zihinsel yetersizlik (I) ve özgül öğrenme bozukluğu (III) olan bireyleri kapsar. Anksiyete bozukluğu (II) ise bir psikiyatrik bozukluktur, ancak tek başına özel eğitim gerektiren bir 'özel gereksinim' tanımı altında sınıflandırılmaz.
+
+    <hr />
+
+3. Aşağıdaki nörogelişimsel bozukluklardan hangisi için okul ortamında veya okul dışında çocuğa yönelik özel eğitim veya farklı programlar (örneğin kaynaştırma veya özel eğitim sınıfı) uygulanması genellikle <u>gerekmez</u>?
+    - A-) Zihinsel yetersizlik
+    - B-) Özgül öğrenme bozukluğu
+    - C-) İletişim bozuklukları
+    - D-) Otizm spektrum bozukluğu
+    - **Cevap E-) Tik bozukluğu**
+
+    > **Açıklama:** Tik bozukluğu, nörogelişimsel bir bozukluk olmasına rağmen, genellikle akademik ve sosyal işlevselliği diğer gelişimsel bozukluklar (Zihinsel yetersizlik, ÖÖB, OSB) kadar doğrudan ve şiddetli etkilemez, bu nedenle özel eğitim veya farklı programlar uygulanması genellikle gerekmez.
+
+    <hr />
+
+### 5.3.3. Dikkat Eksikliği ve Hiperaktivite Bozukluğu ve Koruyucu Ruh Sağlığı
+
+1. Aşağıdakilerden hangisi dikkat eksikliği hiperaktivite bozukluğunun ruh sağlığı ve dayanıklılık açısından oluşturduğu risklerden biri <u>değildir</u>?
+    - **Cevap A-) Enerjik olma**
+    - B-) Akademik başarısızlık
+    - C-) Ebeveyn tükenmişliği
+    - D-) Akran ilişkilerinde sorunlar
+    - E-) Riskli davranışlar
+
+    > **Açıklama:** Dikkat eksikliği ve hiperaktivite bozukluğunun (DEHB) semptomlarından biri aşırı hareketlilik olsa da, 'Enerjik olma' durumu bozukluğun doğrudan bir riski veya olumsuz sonucu olarak değil, bir belirtisi olarak kabul edilir. Akademik başarısızlık, ebeveyn tükenmişliği, akran sorunları ve riskli davranışlar ise DEHB’nin ciddi ruh sağlığı riskleridir.
+
+    <hr />
+
+### 5.3.4. Özgül Öğrenme Bozukluğu ve Koruyucu Ruh Sağlığı
+
+1. I. Akademik zorluklar 
+II. Düşük benlik saygısı 
+III. Arkadaşları tarafından kabul görmeme, dışlanma 
+IV. Alkol madde kullanımı 
+Yukarıdakilerden hangisi ya da hangileri özgül öğrenme bozukluğu olan bir çocuğun okul çağında yaşaması muhtemel zorluklar arasında yer almaktadır?
+    - A-) II, III ve IV
+    - **Cevap B-) I, II ve III**
+    - C-) Yalnız I
+    - D-) I ve II
+    - E-) I, III ve IV
+
+    > **Açıklama:** Özgül öğrenme bozukluğu (ÖÖB) olan çocuklar okuma, yazma ve aritmetik becerilerinde güçlük yaşarlar (Akademik zorluklar - I). Bu durum, kendini 'başarısız ve yetersiz' olarak algılamaya (Düşük benlik saygısı - II) ve akranları tarafından dışlanmaya (III) yol açar. Alkol/madde kullanımı (IV) ise daha çok ergenlik döneminde ortaya çıkan bir risktir ve bu sorunların uzun vadeli sonucudur.
+
+    <hr />
+
+2. Özel öğrenme bozukluğu olan bir çocuk hakkında aşağıdakilerden hangisi <u>doğru değildir</u>?
+    - **Cevap A-) Bu çocuklar ders dışı diğer alanlarda da bir şey öğrenemezler.**
+    - B-) Belirtiler yaşam boyu devam edebilir.
+    - C-) Birçoğu özel eğitim desteğinden fayda görür.
+    - D-) Erken tanı ve müdahale prognozda önemlidir.
+    - E-) Birçoğunda zaman düşük benlik saygısı gelişir.
+
+    > **Açıklama:** Özgül öğrenme bozukluğu, **sadece okuma, yazma ve aritmetik becerileri** gibi belirli alanlardaki öğrenme güçlüğünü ifade eder. Bu durum, çocuğun ders dışı diğer alanlarda (spor, sanat, sosyal beceriler) bir şey öğrenemeyeceği anlamına gelmez.
+
+    <hr />
+
+3. I. Dikkat eksikliği hiperaktivite bozukluğu 
+II. Özgül öğrenme bozukluğu 
+III. İletişim bozuklukları 
+Yukarıdakilerden hangisi veya hangileri özellikle okul çağında fark edilen ve çocuğun akademik başarısı ve okul uyumunu olumsuz etkileyen sorunlardandır?
+    - A-) I ve III
+    - B-) II ve III
+    - **Cevap C-) I ve II**
+    - D-) Yalnız I
+    - E-) Yalnız II
+
+    > **Açıklama:** Okul çağı, dikkat eksikliği hiperaktivite bozukluğu (DEHB) ve özgül öğrenme bozukluğu (ÖÖB) gibi bozuklukların akademik taleplerin artmasıyla **ortaya çıktığı ya da görünür hâle gelmeye başladığı** bir dönemdir (I, II). İletişim bozuklukları (III) ise genellikle daha erken dönemde fark edilir, ancak DEHB ve ÖÖB bu dönemde akademik uyumu en çok bozan temel sorunlardandır.
+
+    <hr />
+
+4. Bir ilköğretim okulunda birincil ve ikincil koruyucu ruh sağlığı programı uygulamayı planlıyorsunuz. Aşağıdakilerden hangisinin bu programda yer alması <u>beklenmez</u>?
+    - A-) Akran zorbalığı konusunda eğitimcileri ve çocukları bilgilendirmek
+    - **Cevap B-) Fiziksel engelli çocuklara rehabilitasyon hizmeti vermek**
+    - C-) Davranış sorunları olan çocukları tedavi için çocuk psikiyatrisine yönlendirmek
+    - D-) Ekran ve internet kullanımı konusunda ailelerle çalışmak
+    - E-) Özel gereksinimi olan çocukları belirlemek
+
+    > **Açıklama:** Birincil ve ikincil koruma, hastalıkların önlenmesini, erken tanısını ve müdahalesini (yönlendirme/tarama) içerir. Fiziksel engelli çocuklara yönelik rehabilitasyon hizmeti vermek, yeti yitimini en aza indirmeyi amaçlayan **üçüncül koruma** hizmetlerine aittir. Bu nedenle, birincil veya ikincil koruma programında yer alması beklenmez.
+
+    <hr />
+
+## Ünite 6
+
+### 6.3. Ergenlik Döneminde Duygusal Gelişim
+
+1. Ergenlik döneminin genel özellikleriyle ilgili hangisi <u>söylenemez</u>?
+    - A-) Akranları tarafından kabul görmek aileyi memnun etmekten çok daha önemli bir hale gelir.
+    - B-) Düşünce biçimleri bu dönemde gelişir.
+    - C-) Fiziksel değişimlere uyum zorlukları olumsuz psiko-sosyal sonuçlarla ilişkili olabilir.
+    - **Cevap D-) Artan bilişsel gelişim duyguların farkındalığını ve denetimini sağlayamaya yardımcı olur.**
+    - E-) Bu dönemde üreme yeteneği kazanır ve cinsel gelişim tamamlanır.
+
+    > **Açıklama:** Ergenlik döneminde bilişsel gelişim artsa da, artan bilişsel gelişim <b>her zaman</b> duyguların farkındalığını ve denetimini sağlamaya yardımcı olmaz. Aksine, cinsel arzu ve isteklerin yoğunluğuna rağmen dürtü kontrolü becerisi sıklıkla yeterince gelişmemiştir.
+
+    <hr />
+
+### 6.7. Ergenlik Döneminde Medya ve İnternet Kullanımı
+
+1. Ergenlik döneminde önemli bir sorun olan bağımlılık; kısa veya uzun vadedeki olumsuz ve zararlı etkileri ve sonuçlarına rağmen bir maddeyi kullanmaya veya bir davranışı/alışkanlığı yapmaya devam etmek olarak tanımlanabilir. Bu tanıma göre aşağıdakilerden hangisi veya hangileri bağımlılık sorunu olarak tanımlanabilir?
+I. Zamanının çoğunu bilgisayarda oyun oynayarak geçirdiği için okul başarısı ve sosyal ilişkileri bozulan ama bir türlü bilgisayardan vazgeçemeyen ergen
+II. Arkadaşının ısrarı üzerine ilk defa sigara içmeyi deneyen ergen
+III. Sürekli ders çalıştığı için sosyal aktivitelere pek katılamayan ergen
+    - **Cevap A-) Yalnız I**
+    - B-) I ve III
+    - C-) I ve II
+    - D-) Yalnız II
+    - E-) II ve III
+
+    > **Açıklama:** Tanıma göre bağımlılık, olumsuz sonuçlara rağmen devam eden kompulsif kullanımı/davranışı ifade eder. Sadece I. maddedeki ergen, okul başarısı ve sosyal ilişkileri bozulmasına rağmen <b>vazgeçemediği</b> için bağımlılık tanımına uyar. II. madde denemeyi, III. madde ise bağımlılık yerine yüksek bir çalışma tutumunu ifade eder.
+
+    <hr />
+
+### 6.8. Ergenlik Döneminde Sigara-Alkol-Madde Bağımlılığı
+
+1. Ergenlik döneminde sigara, alkol madde kullanımına karşı en az düzeyde koruyucu faktör olduğu söylenebilir?
+    - A-) Güvenli arkadaş çevresine sahip olma
+    - **Cevap B-) Sigara alkol maddelerine zararlı oldukları bilgisi**
+    - C-) Öz denetim ve zevk erteleme becerileri
+    - D-) İletişim kendini ifade etme ve hayır deme becerileri
+    - E-) Stresle baş edebilme ve sorun çözme becerileri
+
+    > **Açıklama:** <b>Sigara alkol maddelerine zararlı oldukları bilgisi</b>, tek başına yeterli bir koruyucu faktör değildir. En güçlü koruyucu faktörler, ergenin kendini koruyacağı (Hayır deme becerisi) ve dürtülerini yönetebileceği (öz denetim, baş etme becerileri) psikososyal becerilerdir.
+
+    <hr />
+
+2. Ergenlik döneminde alkol-madde kullanımı / bağımlılığı açısından aşağıdakilerden hangisi <u>doğru değildir</u>?
+    - **Cevap A-) Sigara-alkol-maddeyi ilk defa kullanan ergenlerin birçoğu bağımlılık sorunu yaşar.**
+    - B-) Çocukluk çağında tedavi edilmeyen psikiyatrik bozukluklar madde bağımlılığı riskini artırır.
+    - C-) Özellikle dikkat eksikliği ve hiperaktivite bozukluğu, karşı olma karşı gelme bozukluğu olan çocuklar risk altındadır.
+    - D-) Madde kullanımı mevcut psikiyatrik bozuklukların tedavisini zora sokar.
+    - E-) Çocuk gelişim uzmanları erken yaşta duygusal/davranışsal problemleri tespit ederek gerekli tedavilere yönlendirmelidir.
+
+    > **Açıklama:** Madde kullanımını ilk defa deneyen ergenlerin <b>birçoğu bağımlılık sorunu yaşamaz</b>. Ancak, çocukluk çağı psikiyatrik bozuklukları (DEHB gibi) madde bağımlılığı riskini artırır.
+
+    <hr />
+
+### 6.9. Ergenlik Döneminde Cinsellik
+
+1. Ergenlik döneminde cinselliği ve psikososyal açıdan riskli kılan sebepler arasında aşağıdakilerden hangisi <u>yer almaktadır</u>?
+I. Ergenler biyolojik/fizyolojik olarak cinselliğe hazır olabilseler de cinselliğin bilişsel, duygusal ve sosyal boyutlarında yeterince olgunlaşmış değillerdir.
+II. Ergenlik döneminde cinsel arzu ve isteklerin yoğunluğuna karşın, bu dürtüleri kontrol becerisi sıklıkla yeterince gelişmemiştir.
+III. Ergen gebelikleri hem anne hem de bebek sağlığı açısından riskli durumlardır.
+IV. Ergenlerin cinsel davranışlarla ilişkili riskler konusunda erişkinlerle yeteri düzeyde bilgi ve beceriye sahiptirler.
+    - A-) I ve IV
+    - B-) I, II ve IV
+    - **Cevap C-) I, II ve III**
+    - D-) II, III ve IV
+    - E-) Yalnız I
+
+    > **Açıklama:** Ergenlikte cinselliği riskli kılan faktörler arasında biyolojik olgunluğa rağmen bilişsel/duygusal olgunluğun eksikliği (I), dürtü kontrolünün yetersizliği (II) ve ergen gebeliklerinin taşıdığı riskler (III) yer alır. Ergenler, riskler konusunda <b>yeterli bilgi ve beceriye sahip değildirler</b> (IV yanlıştır).
+
+    <hr />
+
+### 6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları
+
+1. Ergenlik döneminde ruh sağlığı ve dayanıklılık açısından koruyucu beceri ve özelliklerin kazanılması için en uygun dönemdir ifadesi hakkında aşağıdakilerden hangisi doğrudur?
+    - A-) Kesinlikle doğrudur, çünkü ergenlik dönemi hızlı gelişimin yaşandığı en uygun dönemdir.
+    - **Cevap B-) Yanlıştır, bu dönem ruhsal sorunların ortaya çıkışı için riskli bir dönemdir ancak en uygun dönem erken çocukluk çağıdır.**
+    - C-) Kısmen doğrudur, bazı beceriler için uygundur ancak çoğu beceri okul çağında kazanılır.
+    - D-) Bu ifade, ergenlik döneminde edinilen bilgi ve becerilerin kalıcı olmasından dolayı doğrudur.
+    - E-) Koruyucu ruh sağlığı çalışmaları bu dönemde zorunlu olarak uygulanmalıdır.
+
+    > **Açıklama:** Ergenlik dönemi, <b>ciddi psikiyatrik bozuklukların ilk olarak ortaya çıktığı</b> ve stresörlerin mevcut problemleri çözülmesi zor hale getirdiği <b>riskli bir dönemdir</b>. Koruyucu becerilerin kazanılması için en uygun dönem ise erken çocukluk çağı gibi daha önceki hassas dönemlerdir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi ergenlik döneminde karşılaşılabilecek problemlerdendir?
+    - A-) Kimlik bunalımı
+    - B-) Riskli davranışlar deneyimleme
+    - **Cevap C-) Hepsi**
+    - D-) Patolojik internet kullanımı
+    - E-) Ebeveynlerle çatışma
+
+    > **Açıklama:** Ergenlik dönemi, <b>Kimlik bunalımı</b>, <b>riskli davranışlar</b>, <b>patolojik internet kullanımı</b> ve <b>ebeveynlerle çatışma</b> gibi sorunların hepsiyle karşılaşılabilir.
+
+    <hr />
+
+3. Yetişkin hayattaki psikiyatrik bozuklukların yarıdan fazlası ….. yaşından önce başlamaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
+    - A-) 28
+    - B-) 12
+    - C-) 8
+    - D-) 38
+    - **Cevap E-) 18**
+
+    > **Açıklama:** Yetişkin hayattaki psikiyatrik bozuklukların <b>yarıdan fazlasının</b> ilk olarak <b>18 yaşından önce</b> başladığı bilinmektedir.
+
+    <hr />
+
+4. Aşağıdakilerden hangisi ergenlik döneminde intihar girişimleri için bir risk faktörü değildir?
+    - A-) Çocukluk çağı travmaları
+    - B-) Erken yaşta başlayan cinsellik
+    - C-) Medyada intihar haberlerine maruz kalmak
+    - D-) Yakın arkadaşının intihar sonucu ölmesi
+    - **Cevap E-) Psikiyatrik muayene esnasında intihar düşüncesi olup olmadığı hakkında soru sormak**
+
+    > **Açıklama:** Çocukluk çağı travmaları, erken yaşta başlayan cinsellik, medyada intihar haberlerine maruz kalma ve yakın arkadaş kaybı intihar için risk faktörleridir. Ancak <b>Psikiyatrik muayene esnasında intihar düşüncesi olup olmadığı hakkında soru sormak</b> veya değerlendirme yapmak, koruyucu bir yaklaşımdır ve intihar riskini artırmaz.
+
+    <hr />
+
+5. Ergenlik döneminde görülen riskli bir davranış <u>değildir</u>?
+    - A-) Madde veya alkol denemek
+    - B-) Riskli cinsel aktivite
+    - C-) Sigara kullanmak
+    - **Cevap D-) Derslerine düzenli çalışmamak**
+    - E-) Şiddet içeren davranışlarda bulunmak
+
+    > **Açıklama:** Madde/alkol denemek, riskli cinsel aktivite, sigara kullanmak ve şiddet içeren davranışlar <b>doğrudan ruh sağlığını veya bedensel bütünlüğü tehdit eden riskli davranışlardır</b>. Derslerine düzenli çalışmamak ise bir davranış sorunu veya akademik başarısızlık göstergesi olup, diğerleri kadar riskli bir davranış kategorisinde değerlendirilmez.
+
+    <hr />
+
+6. Aşağıdaki psikiyatrik bozukluklardan hangisinin ilk olarak ergenlik döneminde ortaya çıkması <u>beklenmez</u>?
+    - A-) Depresyon
+    - B-) Yeme bozukluğu
+    - C-) Şizofreni
+    - **Cevap D-) Otizm spektrum bozukluğu**
+    - E-) Alkol-madde kullanım bozuklukları
+
+    > **Açıklama:** Depresyon, yeme bozukluğu, şizofreni ve alkol/madde kullanım bozuklukları sıklıkla ergenlik döneminde başlar. Ancak <b>Otizm spektrum bozukluğu</b>, genellikle yaşamın ilk yıllarında (erken çocukluk) ortaya çıkan bir nörogelişimsel bozukluktur.
+
+    <hr />
+
+7. Aşağıdakilerden hangisi ergenlik döneminde önemli bir koruyucu ruh sağlığı uygulaması olabilir?
+    - A-) Ergenlere yönelik spor alanları ve programları oluşturmak
+    - B-) Ergenlerin sivil toplum faaliyetlerine katılmalarını sağlamak
+    - C-) Güvenli ve ilgili bir sosyal çevre oluşturmak
+    - D-) Ergenleri sanatsal faaliyetlere yönlendirmek
+    - **Cevap E-) Hepsi**
+
+    > **Açıklama:** Ergenlik döneminde psikiyatrik sorunların önlenmesi ve koruyucu özelliklerin desteklenmesi için <b>güvenli sosyal çevre</b> oluşturmak, spor, sivil toplum faaliyetleri ve sanatsal faaliyetler gibi pozitif sosyal ve yapılandırılmış aktivitelere yönlendirmek kritik öneme sahiptir. Bu nedenle hepsi önemli koruyucu uygulamalardır.
+
+    <hr />
+
+## Ünite 7
+
+### 7.2. İnternet ve Medyanın İçine Doğmak
+
+1. Çocuk ve ergenlerin psikososyal ve ruhsal sağlıklarını olumsuz etkileyen aşağıdaki faktörlerden hangisi 40 yıl öncesine kıyasla <u>günümüze özgü</u> bir risk faktörüdür?
+    - A-) Aile içi şiddet
+    - B-) Yoğun çalışan anne babalar
+    - C-) Akran zorbalığı
+    - **Cevap D-) İnternet ve sosyal medya**
+    - E-) Sınav stresi
+
+    > **Açıklama:** <b>İnternet ve sosyal medya kullanımı</b>, son 40 yıl içinde ortaya çıkan ve çocukların ruh sağlığını önemli ölçüde etkileyen günümüze özgü bir risk faktörüdür. Aile içi şiddet, zorbalık ve sınav stresi gibi faktörler, uzun süredir var olan sorunlardır.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi aşırı medya ve internet kullanımının olumsuz bedensel ve ruhsal sonuçlarından biri <u>olamaz</u>?
+    - A-) Popüler kültürün hatalı söylem ve teşvikleri
+    - B-) Siber zorbalık
+    - C-) Fiziksel hareketsizlik
+    - D-) Sosyal izolasyon
+    - **Cevap E-) Uzaktaki gelişmeleri takip etme**
+
+    > **Açıklama:** Popüler kültürün olumsuz etkileri, siber zorbalık, fiziksel hareketsizlik ve sosyal izolasyon, aşırı medya/internet kullanımının olumsuz sonuçlarıdır. <b>Uzaktaki gelişmeleri takip etme</b>, internetin faydalı bir yönü olup, olumsuz bir sonuç olarak değerlendirilemez.
+
+    <hr />
+
+### 7.3. Değişen Beslenme Alışkanlıkları
+
+1. I. Depresyon ve anksiyete bozuklukları
+II. Şizofreni
+III. Özgül öğrenme bozukluğu
+IV. Yeme bozuklukları ve obezite
+Doğrudan modern yaşama tarzıyla ilişkili risk faktörlerinden dolayı yukarıdaki psikiyatrik bozukluklardan hangilerinin geçmişe kıyasla günümüzde daha fazla görüldüğünü söylemek mümkündür?
+    - A-) III – IV
+    - B-) I – II
+    - C-) I – III
+    - D-) II – IV
+    - **Cevap E-) I – IV**
+
+    > **Açıklama:** Modern yaşam tarzının getirdiği stres, hareketsizlik ve beslenme alışkanlıkları gibi risk faktörleri nedeniyle <b>Depresyon ve anksiyete bozuklukları</b> (I) ile <b>Yeme bozuklukları ve obezitenin</b> (IV) sıklığının günümüzde geçmişe göre arttığı bildirilmektedir.
+
+    <hr />
+
+### 7.4. Değişen Aile Yapısı ve Yalnızlaşma
+
+1. Günümüz modern yaşam tarzının ruh sağlığı üzerindeki olası etkileri ile ilgili aşağıdakilerden hangisi <u>söylenemez</u>?
+    - **Cevap A-) Modern yaşam tarzıyla ilişkili riskler çocuklarda erişkinlere kıyasla daha az etkilidir.**
+    - B-) Modern yaşam tarzı ruh sağlığı açısında çok yönlü etkileri olan birçok risk faktörü içermektedir.
+    - C-) Ruh sağlığı açısından koruyucu olan bir takım faktörler modern yaşam tarzında azalmış veya kaybolmuş olabillir.
+    - D-) Modern yaşam tarzıyla ilişkili imkan olarak görülen birçok durum aslında ruh sağlığı açısından önemli riskler taşıyor olabilir.
+    - E-) Depresyon ve anksiyete bozuklukları başta olmak üzere birçok psikiyatrik bozukluğun sıklığı modern toplumlarda giderek artmaktadır.
+
+    > **Açıklama:** Modern yaşam tarzıyla ilişkili riskler, <b>beyin gelişiminin hızlı olduğu erken dönemlere</b> etki ettiğinden, çocuklarda erişkinlere kıyasla <b>daha az etkili olduğu söylenemez</b>.
+
+    <hr />
+
+2. I. Değişen aile yapısı ve yalnızlaşma
+II. İş hayatındaki stres ve rekabet
+III. Değişen beslenme ve uyku alışkanlıkları
+IV. İnanç düzeyinde artış
+Yukarıdakilerden hangileri modern yaşam tarzıyla ilişkili psikososyal-ruhsal sorunların ortaya çıkmasında önemli faktörlerdendir?
+    - A-) I ve II
+    - B-) II ve III
+    - **Cevap C-) I, II ve III**
+    - D-) II, III ve IV
+    - E-) I, III ve IV
+
+    > **Açıklama:** Modern yaşam tarzıyla ilişkili risk faktörleri arasında değişen aile yapısı/yalnızlaşma (I), iş hayatındaki stres/rekabet (II), ve değişen beslenme/uyku alışkanlıkları (III) yer alır. İnanç düzeyinde <b>artış</b> değil, zayıflama veya azalma risk faktörü olarak belirtilmiştir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi günümüzde gençlerin karşılaştığı önemli bedensel veya ruhsal problem sebepleri veya kaynakları arasında yer alır?
+    - A-) inanç ve değerler sistemindeki zayıflama
+    - **Cevap B-) hepsi**
+    - C-) Fiziksel hareketsizlik
+    - D-) eğitim alanındaki yüksek performans beklentileri
+    - E-) Aile ve Sosyal destek sistemlerinin zayıflaması
+
+    > **Açıklama:** Modern yaşam tarzı risk faktörleri; inanç ve değerler sistemindeki zayıflama, fiziksel hareketsizlik, eğitim alanındaki yüksek performans beklentileri ve aile/sosyal destek sistemlerinin zayıflaması gibi birçok durumu içermektedir. Bu nedenle <b>hepsi</b> önemli problem sebepleri veya kaynakları arasında yer alır.
+
+    <hr />
+
+## Ünite 8
+
+### 8.1. Akran Zorbalığının Tanımı
+
+1. I. Güç dengesizliği bulunan kişiler arasında olması
+II. Zamansal süreklilik özelliği taşıması
+III. Kasıtlı olarak karşı tarafa zarar vermek amacıyla yapılması
+IV. Sadece fiziksel saldırganlık olarak gerçekleşmesi
+Saldırgan bir davranışın zorbalık olarak tanımlanması için yukarıdaki özelliklerin hangilerini taşıması gerekir?
+    - A-) I, II ve IV
+    - B-) II, III ve IV
+    - C-) II ve III
+    - **Cevap D-) I, II ve III**
+    - E-) I ve II
+
+    > **Açıklama:** Zorbalık, <b>güç dengesizliği</b> bulunan bireyler arasında oluşan, <b>kasıtlı olarak zarar verme</b> amacı taşıyan ve <b>zamansal süreklilik</b> özelliği gösteren saldırgan davranışlardır. Zorbalık sadece fiziksel saldırganlık (IV) olmak zorunda değildir.
+
+    <hr />
+
+2. Kendisinden fiziksel ya da psikolojik olarak daha güçlü olanların zorbalık içeren söz ve eylemlerine uğrayan kişiye ….. denir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+    - A-) zayıf
+    - B-) zorba
+    - C-) seyirci
+    - **Cevap D-) kurban**
+    - E-) zorba-kurban
+
+    > **Açıklama:** Kendisinden fiziksel ya da psikolojik olarak daha güçlü olanların zorbalık içeren söz ve eylemlerine uğrayan kişiye <b>kurban</b> denir. Zorbalık, <b>güç dengesizliği</b> ile karakterizedir.
+
+    <hr />
+
+### 8.2. Katılımcı Rolleri ve İlişkili Özellikler
+
+1. Zorba-kurbanlarla ilgili aşağıdakilerden hangisi <u>doğru değildir</u>?
+    - **Cevap A-) Çoğu özellikleri kurbanların sosyal davranış kalıplarıyla benzerlik gösterir.**
+    - B-) Sıklıkla reaktif saldırganlık davranışları gösterirler.
+    - C-) Genellikle sosyal ilişki kurma becerilerizayıftır.
+    - D-) Hem zorba davranışlarda bulunan, hem de zorbalığa maruz kalan kişilere zorba kurban denir.
+    - E-) Kendilerini zorbalık yaparak etkin kılmaya çalışırlar.
+
+    > **Açıklama:** Zorba-kurbanlar, hem zorbalık yapan hem de maruz kalan kişilerdir. Zorba-kurbanların özellikleri <b>zorba ve kurbanların özelliklerinin bir karışımıdır</b>, bu nedenle sadece kurbanların sosyal davranış kalıplarıyla benzerlik göstermesi doğru değildir.
+
+    <hr />
+
+### 8.3. Zorbalığın Türleri
+
+1. Aşağıdaki zorbalık türlerinden hangisi kızlarda erkeklerden daha fazla görülmektedir?
+    - A-) Sözel zorbalık
+    - B-) Fiziksel zorbalık
+    - **Cevap C-) İlişkisel zorbalık**
+    - D-) Cinsel zorbalık
+    - E-) Siber zorbalık
+
+    > **Açıklama:** Erkek çocuklar daha çok fiziksel zorbalığın uygulayıcısı ve kurbanı olma eğilimindeyken, kızlar ise <b>ilişkisel zorbalığın</b> (dedikodu yayma, dışlama, sosyal izolasyon) daha çok uygulayıcısı ve kurbanı olma eğilimindedir.
+
+    <hr />
+
+2. <u>…..</u> zorbalık en yaygın görülen ancak en çok gözden kaçan zorbalık türüdür. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+    - **Cevap A-) Sözel**
+    - B-) Fiziksel
+    - C-) İlişkisel
+    - D-) Cinsel
+    - E-) Sanal
+
+    > **Açıklama:** <b>Sözel zorbalık</b>, en yaygın görülen, ancak en çok gözden kaçan zorbalık türüdür.
+
+    <hr />
+
+### 8.5. Akran Zorbalığının Belirtileri
+
+1. I. Okula gitmek istememe veya okul başarısında düşme
+II. Vücudunda veya eşyalarında darp veya fiziksel hasar izleri
+III. Mutsuzluk, içine kapanıklık, davranış sorunları
+IV. Arkadaşlarından ayrılamama
+Yukarıdakilerden hangileri akran zorbalığına maruz kalan okul çağı çocuklarda zorbalıkla ilişkili belirtilerden olabilir?
+    - A-) I ve II
+    - B-) II, III ve IV
+    - C-) III ve IV
+    - **Cevap D-) I, II ve III**
+    - E-) II ve III
+
+    > **Açıklama:** Zorbalığa maruz kalan çocuklarda okula gitmek istememe (I), vücutta veya eşyalarda darp izleri (II) ve mutsuzluk/içe kapanıklık/davranış sorunları (III) sık görülen belirtilerdir. Arkadaşlarından ayrılamama (IV), doğrudan zorbalık belirtisi olarak kabul edilmez.
+
+    <hr />
+
+### 8.6. Akran Zorbalığında Risk Faktörleri ve Koruyucu Faktörler
+
+1. Akran zorbalığında zorba (zorbalık yapan) ve/veya kurban (zorbalığa maruz kalan) olmakla ilişkili risk faktörleri hakkında hangisi <u>söylenemez</u>?
+    - A-) Farklı bir görünüme veya fiziksel özelliğe sahip olmak kurban olmak için risk faktörü olabilir.
+    - B-) İstismar veya ihmal öyküsü zorbalık için önemli bir risk faktörüdür.
+    - **Cevap C-) Davranış problemleri ve sosyal sorunlar sadece zorba olmak için bir risk faktörüdür.**
+    - D-) Aile içi şiddet zorbalık için önemli bir risk faktörüdür.
+    - E-) Aşırı koruyucu-kollayıcı ebeveynlik kurban olmak için bir risk faktörüdür.
+
+    > **Açıklama:** Davranış problemleri ve sosyal sorunlar, <b>hem zorbalık yapanlar hem de zorba-kurbanlar</b> için risk faktörüdür. Bu durumun sadece zorba olmak için bir risk faktörü olduğu söylenemez.
+
+    <hr />
+
+2. Bir okulda koruyucu ruh sağlığı kapsamında akran zorbalığı mağduru olma riski olan öğrenciler belirlenecek ve onlarla çalışmalar yapılacaktır. Aşağıdakilerden seçeneklerden hangisi diğerlerine göre zorbalığa uğramak bakımından daha <u>düşük risk altındadır</u>?
+    - A-) 8 yaşında obez erkek öğrenci
+    - B-) 9 yaşında bilişsel gelişiminde gerilik olan kız öğrenci
+    - **Cevap C-) 10 yaşında özsaygısı yüksek kız öğrenci**
+    - D-) 10 yaşında cinsel kimlik karmaşası yaşayan kız öğrenci
+    - E-) 9 yaşında geçmişte zorbalığa uğramış erkek öğrenci
+
+    > **Açıklama:** Obez olmak, gelişimsel gerilik, düşük özsaygı ve geçmişte kurban olmak zorbalığa uğrama riskini artırır. <b>Özsaygısı yüksek kız öğrenci</b>, psikolojik dayanıklılık ve özgüven koruyucu faktörler olduğu için diğerlerine göre daha düşük risk altındadır.
+
+    <hr />
+
+### 8.7. Akran Zorbalığının Sonuçları
+
+1. Akran zorbalığının mağdur üzerinde meydana gelen etkileri ile ilgili olarak aşağıdakilerden hangisi <u>doğru değildir</u>?
+    - A-) Akran mağduriyeti ile düşük benlik saygısı arasındaki çift yönlü bir ilişki vardır.
+    - B-) Zorbalığa maruz kalan çocuklarda içe yönelim sorunlarının dışa vurum sorunlarının sıklığında da artış görülür.
+    - C-) Erişkin yaşamda alkol ve madde bağımlılığı çocukken zorbalığa maruz kalma ile ilişkilendirilmiştir.
+    - **Cevap D-) Zorbalık mağdurlarının erişkin yaşamda çocuklarına aşırı müdahale etmeleri, çocuklarının zorbalığı maruz kalmasını engeller.**
+    - E-) Zorbalık mağdurlarında erişkin yaşamlarında anksiyete ve depresyon ortaya çıkma ihtimali artmıştır.
+
+    > **Açıklama:** Zorbalık mağdurlarında içe yönelim (anksiyete, depresyon) ve dışa vurum (madde kullanımı) sorunları artar. Zorbalık mağdurlarının aşırı müdahale etmesinin, çocuğun zorbalığa maruz kalmasını engellediği şeklinde kesin bir bilgi bulunmamaktadır; <b>aşırı koruyucu-kollayıcı ebeveynlik</b> aksine kurban olmak için risk faktörü olabilir.
+
+    <hr />
+
+### 8.8. Koruyucu Ruh Sağlığı Açısından Akran Zorbalığı
+
+1. I. Akran zorbalığının önlenebilmesi için öğretmenlerin ve okul çalışanlarının zorbalığa dair farkındalıklarının yüksek olması gerekmektedir.
+II. Zorbalığa maruz kalma bakımından yüksek riskli çocuklar belirlenerek okuldan uzaklaştırılmaları sağlanmalıdır.
+III. Öğrencilerin iletişim becerilerini geliştirmeye, kendilerini ve hissettikleri duyguları sözlü olarak ifade edebilmelerine yönelik çalışmalar yapılmalıdır.
+Zorbalığı önleme çalışmaları ile ilgili yukardakilerden hangileri doğrudur?
+    - A-) II ve III
+    - **Cevap B-) I ve III**
+    - C-) I, II ve III
+    - D-) Yalnız II
+    - E-) I ve II
+
+    > **Açıklama:** Zorbalığın önlenmesinde öğretmen/okul çalışanlarının farkındalığı (I) ve öğrencilerin iletişim, kendini ifade etme becerilerini geliştirme çalışmaları (III) önemlidir. Zorbalığa maruz kalan çocukların okuldan uzaklaştırılması (II) <b>doğru bir yaklaşım değildir</b>.
+
+    <hr />
+
+## Ünite 9
+
+### 9.1. Okul Ruh Sağlığı
+
+1. I. Çocuk ve ergenlerde görülen psikososyal problemler çok sık görülmesi nedeniyle tüm dünyada büyük bir önem kazanmıştır.
+II. Tedavi edilmemiş ruhsal bozukluklar yüksek oranda okul bırakma, suç işleme, işsizlik, madde kullanımı ve aile işlevlerinde bozulma gibi önemli psikososyal problemlere yol açmaktadır.
+III. Okul ruh sağlığı hizmetleri; ruh sağlığının geliştirilmesi, korunması ve ruh sağlığında bozulmalar olduğu takdirde müdahalede bulunulması ile ilgili okul hizmetlerin tamamını kapsamaktadır.
+IV. Çocukluk çağı ruh sağlığı bozuklukları sık görülmesi nedeniyle okul koruyucu ruh sağlığı müdahaleleri büyük bir öneme sahiptir.
+Yukarıdaki ifadelerden hangileri doğrudur?
+    - A-) I, II
+    - B-) I, II, III
+    - **Cevap C-) I, II, III, IV**
+    - D-) II, III, IV
+    - E-) I, III, IV
+
+    > **Açıklama:** Çocuk ve ergenlerde psikososyal problemlerin sık görülmesi, tedavi edilmemiş bozuklukların yol açtığı olumsuz sonuçlar (okul bırakma, suç işleme), okul ruh sağlığı hizmetlerinin tanımı (III) ve okul koruyucu ruh sağlığı müdahalelerinin önemi (IV) ile ilgili tüm ifadeler <b>doğrudur</b>.
+
+    <hr />
+
+2. “Koruyucu okul ruh sağlığı programları iki ana başlık altında ele alınabilir. <u>…..</u> koruyucu programlarda herhangi bir seçim yapmaksızın belirli bir bölgedeki tüm çocuk veya ergenler programa dâhil edilir. <u>…..</u> koruyucu programlarda ise belirlenmiş bir toplulukta riskli grup belirlenerek bu grup için koruyucu programlar uygulanır.”
+Yukarıdaki metinde boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?
+    - A-) Hedef grup / Riskli grup
+    - B-) Riskli grup / Hedef grup
+    - **Cevap C-) Evrensel / Hedef grup**
+    - D-) Hedef grup / Evrensel
+    - E-) Riskli grup / Evrensel
+
+    > **Açıklama:** Tüm çocukları veya ergenleri kapsayan yaklaşıma <b>Evrensel</b> koruyucu programlar denir. Belirlenmiş bir toplulukta riskli grup belirlenerek bu gruba uygulanan programlara ise <b>Hedef grup</b> koruyucu programlar denir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi koruyucu okul ruh sağlığı çalışmalarında evrensel programların hedef grup programlarına kıyasla farklılık veya avantajlarından birisi <u>değildir</u>?
+    - A-) Evrensel programlarda seçilmiş bir grup olmadığı için tarama ihtiyacı ortadan kalkmış olmaktadır.
+    - **Cevap B-) Evrensel programlar hedef grup programlarına göre daha küçük gruplarda uygulanmaktadır.**
+    - C-) Evrensel programların maliyeti çoğu zaman daha fazla olabilir.
+    - D-) Evrensel programlar henüz risk altında olmayan ancak gelecekte belirti geliştirebilecek gençlere müdahale imkânı sağlayabilir.
+    - E-) Evrensel programlarda örneklem seçimi olmadığı için damgalama en aza indirgenmiş olmaktadır.
+
+    > **Açıklama:** Evrensel programlar herhangi bir seçim yapmaksızın <b>tüm çocukları</b> kapsadığı için hedef grup programlarına göre <b>daha büyük gruplarda</b> uygulanmaktadır. Bu nedenle 'daha küçük gruplarda uygulanmaktadır' ifadesi yanlıştır.
+
+    <hr />
+
+4. İyi bir koruyucu ruh sağlığı programı için aşağıdakilerden hangisi <u>söylenemez</u>?
+    - A-) Bütüncül olmalıdır. Okul, aile, sokak gibi birçok ortam için müdahaleler içermelidir.
+    - B-) Tam bir etki oluşturabilmesi için program yeterli doz ve süreye sahip olmalıdır.
+    - C-) Risk ve koruyucu faktörler göz önünde bulundurularak hazırlanmış olmalıdır.
+    - D-) Uygulanacağı coğrafi bölgenin kültür ve yaşam tarzına uygun olmalıdır.
+    - **Cevap E-) Ruh sağlığı sorunları ortaya çıktıktan sonra uygulanmalıdır.**
+
+    > **Açıklama:** Koruyucu ruh sağlığı programlarının temel amacı, sorunlar <b>ortaya çıkmadan önce</b> önlemek veya erken müdahale etmektir. Ruh sağlığı sorunları ortaya çıktıktan sonra uygulanan hizmetler <b>üçüncül koruma</b> (rehabilitasyon) kapsamına girer.
+
+    <hr />
+
+5. Aşağıdakilerden hangisi iyi bir koruyucu okul ruh sağlığı programının özellikleri arasında <u>olması beklenmez</u>?
+    - A-) Pratik uygulamalar ve karşılıklı etkileşimler içermelidir.
+    - B-) Bütüncül olmalı; okul, aile, sokak gibi birçok ortamı içermelidir.
+    - C-) Coğrafi bölgenin kültür ve yaşam tarzına uygun olmalıdır.
+    - **Cevap D-) Risk veya koruyucu faktörlerden bağımsız olarak uygulanmalıdır.**
+    - E-) Sorunların tekrar ortaya çıkma ihtimaline karşı destek seansları içermelidir.
+
+    > **Açıklama:** İyi bir koruyucu ruh sağlığı programı, <b>Risk ve koruyucu faktörler göz önünde bulundurularak hazırlanmış olmalıdır</b>. Bu faktörlerden bağımsız olarak uygulanması beklenmez.
+
+    <hr />
+
+6. I. Uygulayıcıların programdaki yönergelere uygun hareket etmemesi
+II. Okul ortamı ile ilgili farklılıklar
+III. Öğrencilerin yaşadığı toplumun kültürel özellikleri
+IV. Risk veya koruyucu faktörlerin dikkate alınması
+Yukarıdakilerden hangileri etkili bir okul ruh sağlığı programının bazı durumlarda etkisiz olmasına yol açan faktörler arasında sayılabilir?
+    - A-) II ve III
+    - **Cevap B-) I, II ve III**
+    - C-) II, III ve IV
+    - D-) III ve IV
+    - E-) I ve II
+
+    > **Açıklama:** Etkili bir okul ruh sağlığı programının etkisiz olmasına yol açan faktörler arasında, uygulayıcıların programdaki yönergelere uygun hareket etmemesi (I), okul ortamı ve farklılıkları (II), ve öğrencilerin yaşadığı toplumun kültürel özellikleri (III) sayılabilir. Risk veya koruyucu faktörlerin dikkate alınması (IV) ise programın etkili olması için bir ön koşuldur.
+
+    <hr />
+
+7. I. Koruyucu ruh sağlığı müdahaleleri ile psikiyatrik bozuklukların görülme sıklığı azaltılmaktadır.
+II. Bazı psikiyatrik bozuklukların görülme yaşının gecikmesine büyük katkı sağlamaktadır.
+III. Psikiyatrik bozuklukların tedavi maliyetini artırmaktadır.
+Yukarıdakilerden hangisi veya hangileri koruyucu okul ruh sağlığı müdahalelerinin, psikiyatrik bozuklukların önlenmesi konusundaki katkıları arasında yer almaktadır?
+    - A-) Yalnız I
+    - **Cevap B-) I ve II**
+    - C-) II ve II
+    - D-) Yalnız II
+    - E-) I ve III
+
+    > **Açıklama:** Koruyucu ruh sağlığı müdahaleleri, psikiyatrik bozuklukların görülme sıklığını azaltır (I) ve görülme yaşının gecikmesine katkı sağlar (II). İyi bir şekilde uygulandığında bu programlar maliyeti <b>artırmak yerine azaltabilir</b> (III yanlıştır).
+
+    <hr />
+
+### 9.3. Depresyon ve Anksiyete Bozuklukları İçin Koruyucu Ruh Sağlığı Uygulamaları
+
+1. ….. programı, Dünya Sağlık Örgütünün kanıta dayalı koruyucu ruh sağlığı ve dayanıklılık programı olarak kabul ettiği neredeyse tek programdır. Etkinliği birçok çalışmayla gösterilmiştir. Birçok koruyucu ruh sağlığı programının aksine etkinliği yaş, cinsiyet, programın uygulanma süresi gibi farklı değişkenlere göre değişmemektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?
+    - **Cevap A-) FRIENDS**
+    - B-) The Penn Resiliency
+    - C-) Coping Cat
+    - D-) TEACCH
+    - E-) Perry Anaokulu Projesi
+
+    > **Açıklama:** <b>FRIENDS programı</b>, Dünya Sağlık Örgütünün kanıta dayalı koruyucu ruh sağlığı ve dayanıklılık programı olarak kabul ettiği neredeyse tek programdır. Bu program, depresif ve anksiyete bozuklukları için uygulanır.
+
+    <hr />
+
+### 9.4. Alkol ve Madde Kullanım Bozukluğu
+
+1. Alkol ve madde kullanım bozuklukları için okul koruyucu ruh sağlığı müdahaleleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?
+    - **Cevap A-) Bu müdahaleler, çocuğun madde ile karşılaşabileceği kritik dönemlerden önce uygulanmalı. Çocuk ve ergeni maddeyle karşılaşabileceği ortamlara karşı hazır olmasını ve uygun baş etme becerilerinin gelişimine olanak sağlamalıdır.**
+    - B-) Çok az sayıda okul personeli ile uygulanmalı ve personele çok az bir eğitim verildikten sonra hemen başlanılmalıdır.
+    - C-) Sadece bilgi verici bir program olmalı.
+    - D-) Programın bitiminden sonra takip ve destek seansları gibi ek seanslar olmamalı.
+    - E-) Sosyal becerileri ve duygudurum düzenleme becerilerini artırmak bu programlar için önemli değildir.
+
+    > **Açıklama:** Alkol ve madde kullanım bozukluklarına yönelik koruyucu programlar, çocuğun maddeyle karşılaşabileceği <b>kritik dönemlerden önce uygulanmalı</b> ve uygun baş etme becerilerinin gelişimine olanak sağlamalıdır. Programlar sadece bilgi verici olmamalı; rol oynama, küçük grup aktiviteleri ve tartışma gibi interaktif katılım sağlamalıdır.
+
+    <hr />
+
+### 9.6. Koruyucu Ruh Sağlığı Açısından Kronik Hastalıklar
+
+1. I. Çocuk ve ergenlerin %25’i bir kronik hastalığa sahip olmakta ve yine %10’unda bu hastalıklar günlük yaşam becerilerini şiddetli bir şekilde etkilemektedir.
+II. Kronik hastalık sürecinde çocuk ve ergenler, duygusal, davranışsal ve eğitimsel problemler sıklıkla yaşamaktadır.
+III. Hastalıkla ilgili sık hastane ziyaretleri, beklenmedik hastane yatışları özellikle çocuk veya ergenin günlük yaşam rutinlerine devam edememesine aynı zamanda okul devamsızlıklarına yol açmaktadır.
+Kronik hastalıklarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?
+    - A-) I, II
+    - **Cevap B-) I, II, III**
+    - C-) II, III
+    - D-) Yalnız I
+    - E-) I, III
+
+    > **Açıklama:** Çocuk ve ergenlerin %25’i kronik bir hastalığa sahip olup %10’unda bu hastalıklar günlük yaşam becerilerini şiddetli etkilemektedir (I). Kronik hastalık sürecinde duygusal, davranışsal ve eğitimsel problemler sıkça yaşanır (II) ve sık hastane ziyaretleri/yatışları okul devamsızlıklarına yol açar (III). Bu nedenle <b>tüm ifadeler doğrudur</b>.
+
+    <hr />
+
+2. Çocukluk dönemi kronik hastalıklar ve psikososyal etkileriyle ilgili aşağıdaki ifadelerden hangisi <u>doğru değildir</u>?
+    - A-) Kronik hastalık süresinde çocuk ve ergenler, duygusal davranışsal ve eğitimsel problemler sıklıkla yaşanmaktadır
+    - B-) Kronik hastalıklar hasta olan çocukla birlikte ailenin diğer bireylerinide etkilemektedir.
+    - C-) Çocuk ve ergenlerin %25 Kronik hastalığa sahip olmakta ve %10’undada bu hastalıklar günlük yaşam becerilerini şiddetli bir biçimde etkilemektedir
+    - D-) Hastalıkla ilgili sık hastane ziyaretleri,beklenmedik hastane yatışları çocukların günlük yaşam rutinine devam edememesine ve okul devamsızlıklarına yol açmaktadır
+    - **Cevap E-) Kronik hastalığı olan çocukların hastalığın türü ve etkisinden bağımsız olarak günlük yaşam aktivitelerine katılmaları sınırlandırılmalıdır**
+
+    > **Açıklama:** Kronik hastalığı olan çocukların, hastalığın türü ve etkisinden bağımsız olarak günlük yaşam aktivitelerine katılmalarının <b>sınırlandırılması doğru değildir</b>. Koruyucu ruh sağlığı, aksine, özel gereksinimlerine uygun aktivitelere katılımlarını desteklemeyi hedefler.
+
+    <hr />
+
+### 9.7. Koruyucu Ruh Sağlığı Açısından Gelişimsel Bozukluklar
+
+1. Aşağıdakilerden hangisi bir gelişimsel bozukluk <u>değildir</u>?
+    - A-) Dikkat Eksikliği ve Hiperaktivite Bozukluğu
+    - B-) Özgül Öğrenme Güçlüğü
+    - C-) Tik Bozukluğu
+    - D-) Otizm Spektrum Bozukluğu
+    - **Cevap E-) Şizofreni**
+
+    > **Açıklama:** DEHB, Özgül Öğrenme Güçlüğü, Tik Bozukluğu ve Otizm Spektrum Bozukluğu nörogelişimsel bozukluklardır. <b>Şizofreni</b> ise genellikle ergenlik veya erişkinlik döneminde ortaya çıkan major bir psikiyatrik bozukluktur, gelişimsel bozukluk kategorisinde yer almaz.
+
+    <hr />
+
+## Ünite 10
+
+### 10.1. Çocukluk Çağı Travmaları
+
+1. Aşağıdakilerden hangisi çocukluk çağı travmaları kategorisinde <u>yer almaz</u>?
+    - A-) Cinsel istismar
+    - B-) Duygusal ihmal
+    - C-) Fiziksel istismar
+    - **Cevap D-) Fiziksel yaralanmalar**
+    - E-) Duygusal istismar
+
+    > **Açıklama:** Çocukluk çağı travmaları, ihmal ve istismar (fiziksel, cinsel, duygusal, fiziksel ihmal, duygusal ihmal) şeklinde ikiye ayrılır. <b>Fiziksel yaralanmalar</b> ise travma kategorisinde yer almaz.
+
+    <hr />
+
+2. I. Çocukluk çağı travmaları yaşamın ilerleyen dönemlerinde pek çok ruhsal bozukluğun ortaya çıkmasıyla ilişkili bulunmuştur.
+II. Beyin gelişiminin hızlı olduğu dönem olan gebelikten altı yaşına kadar ki dönem travmanın uzunlamasına etkileri için büyük öneme sahiptir.
+III. İhmal bir eylemsizlik olarak görülse de sonuçları çok büyük bir eylemdir.
+IV. İhmal bir travma değildir.
+Yukarıdaki ifadelerden hangileri doğrudur?
+    - A-) I, II
+    - B-) II, III, IV
+    - C-) I, III
+    - D-) II, III
+    - **Cevap E-) I, II, III**
+
+    > **Açıklama:** Çocukluk çağı travmalarının ileriki dönemlerde ruhsal bozukluklarla ilişkili olması (I), gebelikten altı yaşına kadar ki dönemin travmanın uzunlamasına etkileri için büyük öneme sahip olması (II) ve ihmalin (III) sonuçlarının çok büyük bir eylem olması ifadeleri doğrudur. İhmal, bir travma <b>türüdür</b> (IV yanlıştır).
+
+    <hr />
+
+### 10.1.1. İstismar
+
+1. Cinsel istismarla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?
+    - A-) Cinsel istismara uğrayan çocuklarda depresyon, anksiyete, disosiyatif bozukluklar görülebilir.
+    - **Cevap B-) Cinsel istismar nadir bir durumdur ve olaylara önemli bir kısmı açığa çıkmaktadır.**
+    - C-) Cinsel istismar çocukluk çağı travmalarının en yaygın türlerindendir.
+    - D-) Cinsel istismar bireysel ve toplumsal açıdan ağır sonuçları olan önemli bir halk sağlığı sorunudur.
+    - E-) Cinsel istismar cinsel içerikli mesajlaşma (sexting) şeklinde de olabilir.
+
+    > **Açıklama:** Cinsel istismar <b>nadir bir durum değildir</b> ve maalesef olayların <b>önemli bir kısmı açığa çıkmamaktadır</b>. İstismar, yaygın bir halk sağlığı sorunudur ve cinsel içerikli mesajlaşma (sexting) şeklinde de olabilir.
+
+    <hr />
+
+### 10.1.2. İhmal
+
+1. “…… çocuğun bakımından sorumlu kişiler tarafından çocuğun ihtiyaçlarının yeterince sağlanamaması sonucu fiziksel ve ruhsal sağlık bakımından zarara uğradığı <u>pasif bir eylemsizlik</u> durumudur.”
+Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi en uygundur?
+    - **Cevap A-) İhmal**
+    - B-) Kaza
+    - C-) İstismar
+    - D-) Travma
+    - E-) Kötülük
+
+    > **Açıklama:** Çocuğun ihtiyaçlarının yeterince sağlanmaması sonucu fiziksel ve ruhsal sağlık bakımından zarara uğradığı <b>pasif bir eylemsizlik durumu</b> <b>İhmal</b> olarak tanımlanır. İhmal, bir eylemsizlik olarak görülse de sonuçları çok büyük bir eylemdir ve bir travma türüdür.
+
+    <hr />
+
+### 10.2. Gelişim Dönemlerine Göre Travma
+
+1. Pek çok yazar <u>…..</u> yaş dönemindeki travmaları erken çocukluk çağı travmaları olarak tanımlamaktadır. Yukarıdaki boşluğa getirilebilecek en uygun seçenek aşağıdakilerden hangisidir?
+    - **Cevap A-) 0-6**
+    - B-) 0-4
+    - C-) 2-6
+    - D-) 2-12
+    - E-) 0-12
+
+    > **Açıklama:** Pek çok yazar <b>0-6 yaş</b> dönemindeki travmaları erken çocukluk çağı travmaları olarak tanımlamaktadır.
+
+    <hr />
+
+2. Çocukluk çağı travmalarının gelişim dönemlerine göre etkileri ile ilgili aşağıdaki ifadelerden hangileri doğrudur?
+    - A-) Kazanılmış becerilerde kayıp erken çocukluk çağı travmalarında ziyade 6-18 yaş arası yaşanan travmalar görülür
+    - B-) Çocukluk çağı travmalarının etkileri gelişim dönemlerine göre farklılık göstermez
+    - C-) Çocukluk üç yaşından sonra yaşadıkları travmatik Olayı tam olarak ifade edebilirler
+    - **Cevap D-) 0-3 yaş döneminde travmaya maruz kalan çocuklarda uyku problemleri gece korkuları oyunlarında travmatik temalar görülebilir**
+    - E-) Bir çocuğun 18 aylıktan önce yaşadığı bir travma ile ilgili anıyı hatırlaması ve sözel olarak ifade etmesi sık görülen bir durumdur
+
+    > **Açıklama:** 0-3 yaş döneminde travmaya maruz kalan çocuklarda, <b>uyku problemleri, gece korkuları ve oyunlarında travmatik temaların</b> görülmesi mümkündür. Travmanın etkileri gelişim dönemlerine göre farklılık gösterir.
+
+    <hr />
+
+3. <u>…..</u> yaş arası dönemde egosentrik (benmerkezcil) düşünce hâkim olduğundan çocuklar yaşadıkları travmatize edici olayların kendisi yüzünden gerçekleştiğini düşünebilirler ve suçluluk duyabilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?
+    - A-) 3-4
+    - **Cevap B-) 3-6**
+    - C-) 1-2
+    - D-) 8-10
+    - E-) 6-8
+
+    > **Açıklama:** <b>3-6 yaş</b> arası dönemde çocuklar, <b>egosentrik (benmerkezcil)</b> düşünce nedeniyle yaşadıkları travmatik olayların kendisi yüzünden gerçekleştiğini düşünüp suçluluk duyabilirler.
+
+    <hr />
+
+4. Çocuklar, <u>…..</u> yaşından sonra yaşadıkları travmatik olayı daha iyi hatırlıyor olsalar bile dil gelişimlerini tam olarak tamamlamadıkları için kendilerini tam olarak ifade edemeyebilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?
+    - A-) 7
+    - B-) 9
+    - C-) 5
+    - D-) 1
+    - **Cevap E-) 3**
+
+    > **Açıklama:** Çocuklar, <b>3 yaşından</b> sonra yaşadıkları travmatik olayı daha iyi hatırlıyor olsalar bile, dil gelişimlerini tam olarak tamamlamadıkları için kendilerini tam olarak ifade edemeyebilirler.
+
+    <hr />
+
+### 10.3. Travmanın Etkileri
+
+1. I. Kişinin yaşamsal bütünlüğünü tehdit etmesi veya bozması
+II. Kişiyi baş edilebilir ölçüde zorlaması
+III. Kişide belirgin korku, dehşet, çaresizlik hissine yol açması
+IV. Kişinin kendi baş etme mekanizmaları ile başa çıkamayacak düzeyde olması
+Yukarıdakilerden hangileri “ruhsal travma“nın özellikleri arasında yer alır?
+    - A-) I, II
+    - B-) I ve III
+    - C-) II ve III
+    - **Cevap D-) I, III ve IV**
+    - E-) Yalnız II
+
+    > **Açıklama:** Ruhsal travma; kişinin yaşamsal bütünlüğünü tehdit etmesi veya bozması (I), belirgin korku, dehşet, çaresizlik hissine yol açması (III) ve kişinin <b>kendi baş etme mekanizmaları ile başa çıkamayacak düzeyde</b> olması (IV) gibi özelliklere sahiptir. Kişiyi baş edilebilir ölçüde zorlaması (II) ruhsal travmanın değil, psikolojik dayanıklılığın gelişiminde rol oynayan günlük zorlukların özelliğidir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi yaşamsal bir olayın ruhsal bir travma olarak değerlendirmesi için gerekli özelliklerden <u>değildir</u>?
+    - A-) kayıp içermesi
+    - B-) yaşamı tehdit etmesi
+    - **Cevap C-) olayın uzun süre yaşanması**
+    - D-) olağandışı duruma bağlı olarak gelişmesi
+    - E-) ani başlangıçlı olması
+
+    > **Açıklama:** Travmatik bir olayın özellikleri arasında ani başlangıçlı olması, yaşamı tehdit etmesi ve olağandışı olması bulunur. <b>Olayın uzun süre yaşanması</b>, travmatik bir olayın temel özelliklerinden biri değildir.
+
+    <hr />
+
+3. Ruhsal travmaların insan beyni, bedeni ve psikolojisi üzerindeki etkileri hakkında aşağıdakilerden hangisi <u>söylenemez</u>?
+    - A-) Ruhsal travmalar yaşamın ilerleyen dönemlerinde ruhsal bozuklukların ortaya çıkması ve/veya şiddetlenmesine yol açar.
+    - B-) Ruhsal travma yaşayan kişilerde birçok bedensel belirti söz konusu olabilir.
+    - C-) Ruhsal travmanın yaşandığı gelişimsel dönem, travmanın etkileri açısından önemlidir.
+    - D-) Çocuk çağı travmalarının ruhsal etkileri genellikle daha fazladır.
+    - **Cevap E-) Ruhsal travmalar yalnızca beyin ve ruh sağlığı üzerinde olumsuz etkiler bırakır.**
+
+    > **Açıklama:** Ruhsal travmalar, sadece ruh sağlığını değil, aynı zamanda <b>bedensel sağlığı</b> da olumsuz etkileyebilir ve birçok fiziksel hastalığın daha fazla görülmesiyle ilişkilendirilmiştir. Dolayısıyla 'yalnızca beyin ve ruh sağlığı üzerinde olumsuz etkiler bırakır' ifadesi doğru değildir.
+
+    <hr />
+
+4. I. Depresyon
+II. Disosiyatif bozukluk
+III. Şizofreni
+IV. Anksiyete bozuklukları
+Yukarıdakilerden hangilerinin cinsel istismara uğrayan çocuklarda görülmesi <u>en olasıdır</u>?
+    - A-) I ve II
+    - **Cevap B-) I, II ve IV**
+    - C-) II, III ve IV
+    - D-) I ve III
+    - E-) I, II ve III
+
+    > **Açıklama:** Cinsel istismar gibi çocukluk çağı travmaları, özellikle <b>Depresyon</b> (I), <b>Disosiyatif bozukluk</b> (II) ve <b>Anksiyete bozukluklarının</b> (IV) görülme olasılığını artırır.
+
+    <hr />
+
+5. Aşağıdaki çocukluk çağı psikiyatrik bozukluklarından hangisi belirli bir çevresel sebebe bağlı olarak gelişen ve koruyucu ruh sağlığı önlemleriyle önlenmesi belli ölçüde mümkün olan bir durumdur?
+    - A-) Otizm spektrum bozukluğu
+    - B-) Şizofreni
+    - C-) Bipolar bozukluk
+    - D-) Özgül öğrenme bozukluğu
+    - **Cevap E-) Travma sonrası stres bozukluğu**
+
+    > **Açıklama:** Otizm, Şizofreni ve Bipolar bozukluk, biyolojik/genetik yatkınlığın ağır bastığı nörogelişimsel/psikotik bozukluklardır. <b>Travma sonrası stres bozukluğu (TSSB)</b> ise belirli bir çevresel travmatik olaya bağlı olarak geliştiği için koruyucu ruh sağlığı önlemleriyle önlenmesi <b>belli ölçüde mümkün</b> olan bir durumdur.
+
+    <hr />
+
+### 10.4. Travmaya Karşı Koruyucu Ruh Sağlığı Müdahaleleri
+
+1. I. Birincil koruma, travma yaşanmadan önce alınan önlemleri kapsar.
+II. İkincil koruma, travmayla karşılaştıktan sonra kronikleşmesini önlemek için yapılan müdahalelerdir.
+III. Üçüncül korumaya travma sonrası ruh sağlığı sorunları kronikleşen hastaların rehabilitasyon hizmetlerini içermektedir.
+Yukarıdaki ifadelerden hangisi/hangileri doğrudur?
+    - **Cevap A-) I, II, III**
+    - B-) I, II
+    - C-) Yalnız II
+    - D-) II, III
+    - E-) I, III
+
+    > **Açıklama:** Koruyucu yaklaşımlar üç başlıkta ele alınır: <b>Birincil koruma</b> (travma yaşanmadan önce önleme), <b>İkincil koruma</b> (kronikleşmeyi önlemek için erken müdahale) ve <b>Üçüncül koruma</b> (kronikleşen hastaların rehabilitasyonu). Bu nedenle üç ifade de doğrudur.
+
+    <hr />
+
+2. Aşağıdaki ifadelerden hangisi doğrudur?
+    - **Cevap A-) Çocukluk çağı travmalarını en etkili ve en az maliyetli yöntem travmaya karşı birincil koruyucu müdahale yaklaşımlarıdır.**
+    - B-) Birincil koruyucu müdahale programlarında tek boyutlu sadece çocuğu içeren programlar daha etkilidir.
+    - C-) Çocuklara cinsel istismar ile ilgili bilgi verirken özel bölge, iyi dokunuş ve kötü dokunuş gibi kavramların üstü kapalı bir şekilde ifade edilmeli.
+    - D-) Birincil koruyucu müdahale programlara genellikle ergenlik döneminde başlanılmalı.
+    - E-) Aileye yönelik psikoeğitim programlarında yalnızca çocukluk çağı travmaları ile ilgili kavramlar anlatılmalı.
+
+    > **Açıklama:** Travma gerçekleşmeden önce uygulanan <b>birincil koruyucu müdahale yaklaşımları</b>, ruh sağlığı sorunu riskini azalttığı ve tedavi maliyetini düşürdüğü için <b>en etkili ve en az maliyetli yöntemdir</b>. Birincil koruyucu programlar çok boyutlu olmalı ve üstü kapalı değil, açık ifadeler kullanılmalıdır.
+
+    <hr />
+
+3. Çocukluk çağı travmaları ile ilgili çok boyutlu birincil koruyucu program hazırlarken programa aşağıdakilerden hangisinin dâhil edilmesi gereklidir?
+    - A-) Çocuk veya ergen
+    - B-) Öğretmen ve okul personeli
+    - C-) Ebeveyn
+    - D-) Potansiyel istismarcı
+    - **Cevap E-) Hepsi**
+
+    > **Açıklama:** Çocukluk çağı travmalarının önlenmesine yönelik <b>çok boyutlu</b> birincil koruyucu programlar, çocuk/ergen, öğretmen/okul personeli, ebeveyn ve potansiyel istismarcı gibi <b>tüm bileşenlerin</b> dâhil edilmesini gereklidir.
+
+    <hr />
+

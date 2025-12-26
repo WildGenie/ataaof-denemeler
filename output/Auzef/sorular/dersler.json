@@ -1,0 +1,93 @@
+[
+    {
+        "donem": 5,
+        "dersler": [
+            {
+                "dersAdi": "Koruyucu Ruh Sağlığı ve Dayanıklılık",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Koruyucu Ruh Sağlığı ve Dayanıklılık - Sorular.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Psikometrik - Gelişimsel Ölçme Ve Değerlendirme",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Psikometrik - Gelişimsel Ölçme Ve Değerlendirme - Sorular.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Sosyal-Duygusal Gelişim",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Sosyal-Duygusal Gelişim - Sorular.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri - Sorular.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 7,
+        "dersler": [
+            {
+                "dersAdi": "Okul Öncesi Dönemde Duyu Eğitimi",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Okul Öncesi Dönemde Duyu Eğitimi - Sorular.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Oyun ve Oyun Terapisi",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Oyun ve Oyun Terapisi - Sorular.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuk Gelişimi Uygulamaları I",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Çocuk Gelişimi Uygulamaları I - Sorular.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi - Sorular.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "İlkokula Hazırlık",
+                "sources": [
+                    {
+                        "name": "Sorular",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - İlkokula Hazırlık - Sorular.json"
+                    }
+                ]
+            }
+        ]
+    }
+]

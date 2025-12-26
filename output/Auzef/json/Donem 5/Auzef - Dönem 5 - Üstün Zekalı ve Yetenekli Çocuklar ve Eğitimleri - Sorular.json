@@ -1,0 +1,2084 @@
+{
+    "questions": [
+        {
+            "id": 1001,
+            "question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": [
+                "Üstün zekalı ve yetenekli çocuklar gerek akademik hayatlarında gerekse sosyal duygusal alanda ve hatta meslek seçimlerinde pek çok sıkıntı yaşamaktadırlar.",
+                "Araştırmalar zeka, yetenek ve yaratıcılık kavramlarının tümünde genetik aktarımın ve çevrenin etkili olduğunu göstermektedir.",
+                "İlk üstün zeka araştırmacılarının çoğu, “üstün zekalı”, “dahi” ve “yetenekli” kelimelerini neredeyse birbirlerinin yerine kullanmışlardır.",
+                "Biyolojik tanımlar zekayı çevreye adaptasyon olarak görür.",
+                "Zeka ve yetenek kavramlarının tanımları konusunda araştırmacılar fikir birliğine varmışlardır."
+            ],
+            "correctIndex": 4,
+            "explanation": "Uzun yıllar üstün zekalılıkla ilgili yapılmış araştırmalar sonucunda <b>üstün zekânın tanımı ile ilgili fikir birliğine varılamamıştır</b>. Bu yüzden, zeka ve yetenek kavramlarının tanımları konusunda araştırmacılar arasında hala görüş ayrılıkları bulunmaktadır.",
+            "unit": 1,
+            "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
+            "source": "Final Soruları 2021, Vize Soruları 2024-2025, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 27, Soru 5, Soru 15"
+        },
+        {
+            "id": 1002,
+            "question": "Zekayı “yeni çevresel uyaranlarla adapte olmaya devam eden dinamik bir süreç ve bu şekilde kişinin dengeye ulaşma durumu” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Piaget",
+                "Fontana",
+                "Cattell",
+                "Bigge",
+                "Spearman"
+            ],
+            "correctIndex": 0,
+            "explanation": "Zekayı yeni çevresel uyaranlarla adapte olmaya devam eden dinamik bir süreç ve bu şekilde kişinin dengeye ulaşma durumu şeklinde tanımlayan kişi <b>Piaget</b>'dir.",
+            "unit": 1,
+            "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
+            "source": "Vize Soruları 2023-2024, 2020 Vize Soruları, Vize 2021 Deneme Sınavı",
+            "sourceInfo": "Soru 3, Soru 14, Soru 3"
+        },
+        {
+            "id": 1003,
+            "question": "Kristalize zekadan bahseden araştırmacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Horn",
+                "Cattell",
+                "Spearman",
+                "Piaget",
+                "Fontana"
+            ],
+            "correctIndex": 1,
+            "explanation": "1940’larda Raymond <b>Cattell</b>, genel zekâyı <b>kristalize zekâ</b> ve akıcı zekâ olarak iki bileşene ayırarak açıklamıştır.",
+            "unit": 1,
+            "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
+            "source": "Vize Soruları 2024-2025, Vize Soruları 2023-2024, Vize Soruları 2022-2023, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 16, Soru 13, Soru 17, Soru 7"
+        },
+        {
+            "id": 1004,
+            "question": "Aşağıdakilerden hangisi yetenek sözcüğünün karşılığını ifade etmez?",
+            "options": [
+                "Uslamlama yapabilme",
+                "Soyut düşünebilme",
+                "Düzenli çalışma",
+                "Sözcük hazinesinin zenginliği",
+                "Anlama ve yapabilme niteliği"
+            ],
+            "correctIndex": 2,
+            "explanation": "Üstün zekâlı ve üstün yetenekli çocuklar; sözcük hazinelerinin zenginliği, uslamlama, soyut düşünme kabiliyeti ve anlama/yapabilme niteliği gibi özelliklerle kendilerini belli ederler. <b>Düzenli çalışma</b> ise bir yetenekten ziyade bir davranış veya alışkanlıktır.",
+            "unit": 1,
+            "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
+            "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021",
+            "sourceInfo": "Soru 10, Soru 21"
+        },
+        {
+            "id": 1005,
+            "question": "Üstün zekalılık kavramından ilk bahseden kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Lewis Terman",
+                "Francis Galton",
+                "Robert Sternberg",
+                "Joy Paul Guilford",
+                "Leta Hollingworth"
+            ],
+            "correctIndex": 1,
+            "explanation": "‘Üstün zekâlı’ kavramı <b>ilk olarak 1869 yılında Francis Galton tarafından kullanılmış</b> bundan sonra pek çok bilim insanı üstün zekâlılıkla ilgili çeşitli tanımlamalar yapmıştır.",
+            "unit": 1,
+            "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
+            "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 16, Soru 19, Soru 12"
+        },
+        {
+            "id": 1006,
+            "question": "….. üstün zekâlı bireyi Simon ve Binet’nin geliştirdiği Stanford-Binet Zekâ Testi ile ölçülen “140 ve üzeri IQ puanına sahip kişi” şeklinde tanımlamıştır. Yukarıdaki cümledeki boşluğa aşağıdakilerden hangisi gelmelidir?",
+            "options": [
+                "Guilford",
+                "Gardner",
+                "Terman",
+                "Spearman",
+                "Sternberg"
+            ],
+            "correctIndex": 2,
+            "explanation": "<b>Terman</b>, üstün zekâlı bireyleri Simon ve Binet’nin geliştirdiği Stanford-Binet Zekâ Testi ile ölçülen <b>“140 ve üzeri IQ puanına sahip kişi”</b> şeklinde tanımlamıştır.",
+            "unit": 1,
+            "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
+            "source": "Vize Soruları 2024-2025, Vize Soruları 2022-2023, 2020 Vize Soruları",
+            "sourceInfo": "Soru 19, Soru 4, Soru 19"
+        },
+        {
+            "id": 1007,
+            "question": "Ruf (2005) üstün zekâlı çocukların davranışları ile zekâları arasındaki ilişkiyi ortaya koyan beş düzeyli bir model sunmuştur. Aşağıdakilerden hangisi, en nadir görülen beşinci düzeydeki çocukların davranışlarından biridir?",
+            "options": [
+                "Çoğu 3 yaş civarı kitap sayfalarını çevirmeye başlar.",
+                "Tamamı 1 yaşlarında bölümlü kitapları okumaya başlar.",
+                "Tamamı 1 yaşında soyut matematiksel kavramları ve temel matematiksel işlemleri anlamaya başlar.",
+                "Tamamı 2 yaş civarı yetişkin düzeyde konuşmaya başlar.",
+                "Tamamı 3 yaş civarı kendine okunan kitapları ezberleyebilir."
+            ],
+            "correctIndex": 3,
+            "explanation": "Ruf’un beş düzeyli modeline göre, en nadir görülen beşinci düzeydeki çocukların davranışlarından biri <b>tamamı 2 yaş civarı yetişkin düzeyde konuşmaya başlama</b>dır.",
+            "unit": 1,
+            "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
+            "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2024-2025, Final Soruları 2023-2024, 2024 Mezuniyet Soruları, 2021-2022 Final",
+            "sourceInfo": "Soru 20, Soru 9, Soru 2, Soru 10, Soru 13"
+        },
+        {
+            "id": 1008,
+            "question": "Aşağıdakilerden hangisi Marland Raporu’nda üstün yetenekli bireylerin yüksek performans gösterdiği ya da potansiyel yeteneğe sahip olduğu belirtilen altı alandan biri değildir?",
+            "options": [
+                "Görsel sanatlar ve sahne sanatları",
+                "Liderlik yeteneği",
+                "Duygusal zeka",
+                "Yaratıcı veya üretken düşünme",
+                "Psikomotor yetenek"
+            ],
+            "correctIndex": 2,
+            "explanation": "Marland Raporu’nda üstün yetenekliliğin altı alanı arasında; Genel entelektüel yetenek, Özel akademik yetenek, Yaratıcı veya üretken düşünme, Liderlik yeteneği, Görsel sanatlar ve sahne sanatları ve Psikomotor yetenek yer alır. <b>Duygusal zeka</b> bu alanlardan biri değildir.",
+            "unit": 1,
+            "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
+            "source": "Vize Soruları 2022-2023, Final Soruları 2022-2023",
+            "sourceInfo": "Soru 14, Soru 12"
+        },
+        {
+            "id": 1009,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı bir çocuk yetiştirmeyi zorlaştırabilen unsurlardan biri değildir?",
+            "options": [
+                "Alanla ilgili ulaşılabilir kaynakların azlığı",
+                "Güçlü okul aile işbirliği",
+                "Kısıtlı finansal kaynaklar",
+                "Üstün zekalı çocukların uyum güçlüğü yaşadıklarına yönelik inanışlar",
+                "Üstün zekalı çocuklara eğitimin gereksiz olduğuna yönelik inanışlar"
+            ],
+            "correctIndex": 1,
+            "explanation": "Üstün zekâlı bir çocuk yetiştirmeyi zorlaştıran unsurlar, alanla ilgili kaynak yetersizliği, finansal kısıtlılıklar ve üstün zekâya yönelik olumsuz inanışlardır. <b>Güçlü okul aile işbirliği</b> ise, zorlaştıran değil, aksine <b>çocuğun gelişimini destekleyen ve kolaylaştıran</b> bir unsurdur.",
+            "unit": 1,
+            "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 1010,
+            "question": "Aşağıdakilerden hangisi üstün zekalı çocukların ebeveynlerinden elde edilen bilgilere göre bebeklik yıllarında özellikle doğumu takip eden ilk aylarda gösterdikleri özelliklerden değildir?",
+            "options": [
+                "Kitaplara olağanüstü ilgi",
+                "Uyaranlara karşı tepkisizlik",
+                "Uzun dikkat süresi",
+                "Hızlı dil gelişimi",
+                "Hızlı öğrenme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Üstün zekalı çocuklar genellikle <b>çevrelerindeki dünyaya merak</b> eder ve <b>bilgiye susuzlukları</b> gidermek için ayrıntılı sorular sorarlar. Dolayısıyla <b>Uyaranlara karşı tepkisizlik</b>, üstün zekâlı çocukların bebeklik yıllarında gösterdikleri özelliklerden biri değildir.",
+            "unit": 1,
+            "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 1011,
+            "question": "Özel yetenekli birey, yaşıtlarına göre daha hızlı öğrenen, yaratıcılık, sanat, liderliğe ilişkin kapasitede önde olan, özel akademik yeteneğe sahip, soyut fikirleri anlayabilen, ilgi alanlarında bağımsız hareket etmeyi seven ve yüksek düzeyde performans gösteren birey olarak tanımlanmaktadır. Yukarıdaki tanım kaç yılında yayınlanan Özel Eğitim Hizmetleri Yönetmeliği’nde yer almaktadır?",
+            "options": [
+                "2006",
+                "2000",
+                "1991",
+                "2012",
+                "2018"
+            ],
+            "correctIndex": 4,
+            "explanation": "Özel yetenekli bireye ait bu tanım, <b>2018</b> yılında yayınlanan Özel Eğitim Hizmetleri Yönetmeliği’nde yer almaktadır.",
+            "unit": 1,
+            "topic": "1.3. Türkiye’de Üstün Zekâ Ve Üstün Yetenek İle İlgili Yapılmış Tanımlar",
+            "source": "Vize Soruları 2024-2025, Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 8, Soru 3"
+        },
+        {
+            "id": 2001,
+            "question": "Aşağıdakilerden hangisi Thurstone’ın Grup Faktörleri Kuramının bir özelliği değildir?",
+            "options": [
+                "Yedi temel zihinsel yetenek vardır.",
+                "Şans önemli bir faktördür.",
+                "Sözlü materyali anlama becerisi yüksektir.",
+                "Bellek temel zihinsel yetenek türlerinden biridir.",
+                "Yetenek türleri birbirinden bağımsızdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Thurstone birbirinden bağımsız olduğunu iddia ettiği yedi temel zihinsel yetenek belirlemiştir: Sözel anlama, Sözel akıcılık, Sayı, Algısal hız, Tümevarımsal akıl yürütme, Uzamsal görselleştirme ve Bellek. <b>Şans</b> bu yeteneklerden biri değildir. Şans faktöründen bahseden kuramcı Tannenbaum’dır.",
+            "unit": 2,
+            "topic": "2.1.1. Thurstone’ın Grup Faktörleri Kuramı",
+            "source": "Final Soruları 2023-2024, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 11, Soru 19, Soru 19"
+        },
+        {
+            "id": 2002,
+            "question": "Aşağıdaki kuramcılardan hangisi üstün zekâyı açıklamak için şans faktöründen bahseder?",
+            "options": [
+                "Joseph Renzulli",
+                "Louis Thurstone",
+                "Françoys Gagne",
+                "Abraham Tannenbaum",
+                "Robert Sternberg"
+            ],
+            "correctIndex": 3,
+            "explanation": "<b>Abraham Tannenbaum</b> (1983) üstün zekâyı açıklamak için 'Yıldız Modeli’ni geliştirmiştir ve üstün zekâlı bireylerin başarılarını etkileyen önemli bir etken olarak <b>şans</b> faktöründen de bahsetmiştir.",
+            "unit": 2,
+            "topic": "2.1.2. Tannenbaum’ın Deniz Yıldızı Modeli",
+            "source": "2024 Mezuniyet Soruları, Vize Soruları 2021 Deneme Sınavı",
+            "sourceInfo": "Soru 18, Soru 36"
+        },
+        {
+            "id": 2003,
+            "question": "Abraham Tannenbaum’ın (1983) Yıldız Modeli’ne göre, üstün zekâlı olmak için gerekli olduğu düşünülen beş faktörden biri aşağıdakilerden hangisi değildir?",
+            "options": [
+                "Mükemmellik",
+                "Özel yetenek",
+                "Zihinsel olmayan unsurlar",
+                "Genel yetenek",
+                "Çevresel destek"
+            ],
+            "correctIndex": 0,
+            "explanation": "Tannenbaum’un Yıldız Modeli beş temel faktörden bahseder: genel yetenek, özel yetenek, zihinsel olmayan unsurlar, çevresel destek ve şans. <b>Mükemmellik</b> bu faktörlerden biri olarak değerlendirilmemiştir.",
+            "unit": 2,
+            "topic": "2.1.2. Tannenbaum’ın Deniz Yıldızı Modeli",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 12, Soru 1"
+        },
+        {
+            "id": 2004,
+            "question": "Aşağıdakilerden hangisi Gardner’ın yedi zekâ türüne sonradan eklediği zekâ türlerinden biridir?",
+            "options": [
+                "İçsel-öze dönük zekâ",
+                "Görsel-uzamsal",
+                "Müziksel ritmik zekâ",
+                "Doğacı zekâ",
+                "Sosyal-kişiler arası zekâ"
+            ],
+            "correctIndex": 3,
+            "explanation": "Gardner, başlangıçta yedi zekâ türü olduğunu söylemiştir. Bu zekâ türlerine sonradan iki zekâ türü daha eklemiş ve toplam dokuz zekâ türü olduğunu ifade etmiştir. <b>Doğacı zekâ</b>, sonradan eklenen zekâ türlerinden biridir.",
+            "unit": 2,
+            "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
+            "source": "Final Soruları 2021, Vize Soruları 2021-2022, Final Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 30, Soru 9, Soru 9, Soru 8"
+        },
+        {
+            "id": 2005,
+            "question": "Çoklu Zekâ Kuramı; bilişsel bilim, gelişimsel psikoloji ve nörobilimden yararlanarak her bireyin zekâ düzeyinin yetenekler tarafından oluştuğunu ve 8 zekâ gücünün var olduğunu savunmaktadır. Yukarıda açıklamaları verilen Çoklu Zekâ Kuramı kim tarafından geliştirilmiştir?",
+            "options": [
+                "Piaget",
+                "Terman",
+                "Bruner",
+                "Vygotsky",
+                "Gardner"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çoklu Zekâ Kuramı, Amerikalı bilim insanı <b>Howard Gardner</b> tarafından geliştirilmiştir. Gardner, zekânın tek başına bir yapı olmadığını, birçok yeteneğin bir araya gelerek zekâyı oluşturduğunu ifade etmiştir.",
+            "unit": 2,
+            "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
+            "source": "Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 13, Soru 14, Soru 16"
+        },
+        {
+            "id": 2006,
+            "question": "Gardner zekâyı tanımlarken birçok yeteneğin bir araya gelerek zekâyı oluşturduğunu söylemiştir. Buna göre Gardner, birbirinden bağımsız kaç zekâ türü olduğundan bahsetmiştir?",
+            "options": [
+                "8",
+                "6",
+                "7",
+                "9",
+                "5"
+            ],
+            "correctIndex": 3,
+            "explanation": "Gardner, ilk başta birbirinden bağımsız <b>yedi zekâ türü</b> olduğunu söylemiştir. Ancak daha sonra bu yedi zekâ türüne <b>doğacı zekâ</b> ve <b>varoluşçu zekâ</b> olmak üzere iki zekâ türü daha ekleyerek toplamda <b>dokuz</b> zekâ türü olduğunu ifade etmiştir.",
+            "unit": 2,
+            "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 2007,
+            "question": "Aşağıdakilerden hangisi Howard Gardner’in “Müzikal – ritmik zeka” olarak adlandırdığı yetenek alanı ile ilgili değildir?",
+            "options": [
+                "Melodiyi doğru duyma",
+                "Ritimleri dinleme",
+                "Melodiyi tekrar edebilme",
+                "Farklı ses perdelerini algılayabilme",
+                "Melodiyi çalma"
+            ],
+            "correctIndex": 0,
+            "explanation": "Müzikal-ritmik zekâ, ritimleri dinleme, melodiyi tekrar edebilme, farklı ses perdelerini algılayabilme ve melodiyi çalma gibi becerileri içerir. <b>Melodiyi doğru duyma</b> bu yetenek alanıyla doğrudan ilişkili bir ifade olarak kabul edilmemektedir.",
+            "unit": 2,
+            "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 19"
+        },
+        {
+            "id": 2008,
+            "question": "Gardner’ın Çoklu Zekâ Teorisine göre Yön duygusu kuvvetli olan veya hareket ve kumanda kabiliyeti yüksek olan bir kişinin …… zekâsı ileri düzeyde olabilir.",
+            "options": [
+                "Bedensel-kinestetik",
+                "Mantıksal-matematiksel",
+                "Görsel-uzamsal",
+                "Müziksel ritmik zeka",
+                "Sözel-dilsel zeka"
+            ],
+            "correctIndex": 2,
+            "explanation": "Gardner’ın Çoklu Zekâ Teorisi’ne göre, <b>Görsel-uzamsal</b> zekâ, kişinin <b>yön bulma</b>, haritalar, grafikler, çizimler gibi görsel ve mekânsal bilgileri anlama ve işleme becerisini içerir. Yön duygusunun kuvvetli olması bu zekânın ileri düzeyde olduğunu gösterir.",
+            "unit": 2,
+            "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 2009,
+            "question": "Gardner’in çoklu zekâ teorisine göre ….. yüksek olan kişiler kelimelerin anlamlarına, seslere ritimlere karşı hassastırlar. Şair, yazar, politikacı gibi meslek insanlarının bu zekâ türünde ileri olduğu düşünülmektedir.",
+            "options": [
+                "görsel-uzamsal zekâsı",
+                "sözel-dilsel zekâsı",
+                "müziksel ritmik zekâsı",
+                "bedensel-kinestetik zekâsı",
+                "mantıksal-matematiksel zekâsı"
+            ],
+            "correctIndex": 1,
+            "explanation": "Gardner’ın çoklu zekâ teorisine göre <b>sözel-dilsel zekâsı</b> yüksek olan kişiler kelimelerin anlamlarına, seslere ve ritimlere karşı hassastırlar. Şair, yazar ve politikacı gibi meslek insanlarının bu zekâ türünde ileri olduğu düşünülmektedir.",
+            "unit": 2,
+            "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 2010,
+            "question": "Sternberg’in Üçlü Saç Ayağı Kuramına göre aşağıdakilerden hangisi pratik zekalı bireylerin özelliğidir?",
+            "options": [
+                "Soyut kavramlara ilgi ile karakterizedir.",
+                "Görev sorumluluğu vardır.",
+                "Keşif yapma ve yeni bir ürün ortaya çıkarma konularında başarılıdırlar.",
+                "Eleştirme ve değerlendirme yeteneğine sahiptir.",
+                "Uygulama, yapma ve bir şeyi kullanma konularında yeteneklidir."
+            ],
+            "correctIndex": 4,
+            "explanation": "Sternberg’in Üçlü Saç Ayağı Kuramına göre pratik zekâ, <b>uygulama, yapma ve bir şeyi kullanmada</b> yetenekli olmayı içerir. Analitik zekâ analiz etme ve değerlendirme ile ilgilidir. Yaratıcı zekâ ise keşif yapma ve yeni ürün ortaya çıkarma ile ilgilidir.",
+            "unit": 2,
+            "topic": "2.1.4. Sternberg’in Triarşik (Üçlü Saç Ayağı) Kuramı",
+            "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 3, Soru 17"
+        },
+        {
+            "id": 2011,
+            "question": "Joseph Renzulli’nin Üç Halka Kuramı ile Robert Sternberg’in Üçlü Saç Ayağı Kuramının ortak yanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Pratik zekâ",
+                "Görev sorumluluğu",
+                "Yaratıcılık",
+                "Analitik zekâ",
+                "Çevresel destek"
+            ],
+            "correctIndex": 2,
+            "explanation": "Amerikalı araştırmacılar Robert Sternberg'in Üçlü Saç Ayağı Kuramı ve Joseph Renzulli’nin Üç Halka Kuramının her ikisi de üstün zekânın bileşenleri arasında <b>yaratıcılık</b> kavramına yer vermektedir.",
+            "unit": 2,
+            "topic": "2.1.4. Sternberg’in Triarşik (Üçlü Saç Ayağı) Kuramı & 2.1.6. Renzulli’nin Üç Halka Kuramı",
+            "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 1, Soru 18, Soru 6, Soru 20"
+        },
+        {
+            "id": 2012,
+            "question": "Aşağıdakilerden hangisi Sternberg ve Zhang’ın Beşgen (Pentagonal) Kuramına göre bir kişinin üstün zekâlı olabilmesi için karşılaması gereken ölçütlerden biri değildir?",
+            "options": [
+                "Nadir olma",
+                "Mükemmellik",
+                "Değerli olma",
+                "Yüksek motivasyon",
+                "Kanıtlanabilirlik"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sternberg ve Zhang’ın Beşgen Kuramında yer alan üstün zekâ ölçütleri nadir olma, mükemmellik, değerli olma, kanıtlanabilirlik ve yüksek düzeyde görev taahhüdü gerektirme şeklindedir. <b>Yüksek motivasyon</b> kuramın bir kriteri değildir.",
+            "unit": 2,
+            "topic": "2.1.5. Sternberg ve Zhang’ın Beşgen (Pentagonal) Kuramı",
+            "source": "Vize Soruları 2024-2025, Vize Soruları 2021 Deneme Sınavı",
+            "sourceInfo": "Soru 17, Soru 2, Soru 12"
+        },
+        {
+            "id": 2013,
+            "question": "Renzulli üstün zekâyı nasıl tanımlamaktadır?",
+            "options": [
+                "Ortalamanın üzerinde yetenek, ileri akıl yürütme, duygusal zeka",
+                "Ortalamanın üzerinde yetenek, ileri akıl yürütme, sosyal etkileşim",
+                "Ortalamanın üzerinde yetenek, yaratıcılık ve görev taahhüdü",
+                "Akademik ve duygusal zeka ve görev taahhüdü",
+                "Akademik ve duygusal zeka ve yaratıcılık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Joseph Renzulli, üstün zekâyı <b>Ortalamanın üzerinde yetenek, Yaratıcılık</b> ve <b>Görev taahhüdü</b> olmak üzere üç öğenin kesişmesiyle oluşan bir model (Üç Halka Kuramı) olarak tanımlamaktadır.",
+            "unit": 2,
+            "topic": "2.1.6. Renzulli’nin Üç Halka Kuramı",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 2014,
+            "question": "Aşağıdakilerden hangisi Renzulli’nin üç halka kuramında bulunur?",
+            "options": [
+                "Özel akademik yetenek",
+                "Liderlik yeteneği",
+                "Görev sorumluluğu",
+                "Genel entelektüel yetenek",
+                "Analitik Zeka"
+            ],
+            "correctIndex": 2,
+            "explanation": "Joseph Renzulli’nin Üç Halka Kuramı, üstün zekâyı; <b>Ortalamanın üstünde genel ya da özel yetenek, Yaratıcılık</b> ve <b>Görev sorumluluğu</b> (motivasyon) olmak üzere üç öğenin kesişmesiyle tanımlar.",
+            "unit": 2,
+            "topic": "2.1.6. Renzulli’nin Üç Halka Kuramı",
+            "source": "Vize Soruları 2021-2022",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 2015,
+            "question": "Üstün zekâlı ve yetenekli kelimelerinin birbirinin yerine kullanılmaması gerektiğini vurgulayan kuram/model aşağıdakilerden hangisidir?",
+            "options": [
+                "Ayrımsal Üstün Zekâ ve Yetenek Modeli",
+                "Üçlü Saç Ayağı Kuramı",
+                "Deniz Yıldızı Modeli",
+                "Çoklu Zekâ Kuramı",
+                "Grup Faktörleri Kuramı"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Gagné’nin Ayrımsal Üstün Zekâ ve Yetenek Modeli</b>, üstün zekâ ve üstün yetenek kavramlarının eş anlamlı olmadığını ve birbirlerinin yerine kullanılmaması gerektiğini vurgulamıştır. Modelin temel amacı, genetik olarak var olan üstün zekâyı yaşamda var olan özel yeteneklere dönüştürmektir.",
+            "unit": 2,
+            "topic": "2.1.7. Gagné’nin Ayrımsal Üstün Zekâ ve Yetenek Modeli",
+            "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 6, Soru 20"
+        },
+        {
+            "id": 3001,
+            "question": "Üstün zekalı çocukların tanılanmaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "options": [
+                "Üstün zekalı ve yetenekli çocukların tanılanmaları genellikle formal şeklinde yapılmaktadır.",
+                "Üstün zekalı çocuklar eğer tanılanmazlarsa ilgileri ve yetenekleri doğrultusunda bir eğitim almazlar.",
+                "Üstün zekalı çocukların bazılarının davranış sorunları yaşamaları tanılanmalarını kolaylaştırmaktadır.",
+                "Tanılama öğrencilerin uygun bir eğitim alabilmeleri için üstün zekalı ve yetenekli olduklarını belirleme işidir.",
+                "Üstün zekalı çocukların tanılanmasında ön yargılar, gözlem hataları, bilgi eksikliği gibi sebeplerden dolayı yanlışlar yapılmaktadır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Üstün zekâlı çocukların davranış sorunları yaşaması, potansiyellerinin maskelenmesine yol açabilir. Bu durum, tanılanmalarını <b>zorlaştırmakta</b> ve yanlış tanılamalara neden olmaktadır.",
+            "unit": 3,
+            "topic": "3.1. Tanılamanın Amacı",
+            "source": "Vize Soruları 2020, Vize Soruları 2021-2022",
+            "sourceInfo": "Soru 24, Soru 7, Soru 4"
+        },
+        {
+            "id": 3002,
+            "question": "Leta Hollingworth’a göre tanılama prosedürü aşağıdakilerden hangisini içermez?",
+            "options": [
+                "Çocuk ve ebeveynlerle mülakatları",
+                "Okul müdürünün aday göstermesini",
+                "Başarı testlerini",
+                "Öğretmenlerin aday göstermesini",
+                "IQ testlerini"
+            ],
+            "correctIndex": 2,
+            "explanation": "Leta Hollingworth’a göre tanılama prosedürü; çocuk ve ebeveynlerle mülakatları, okul müdürünün aday göstermesini, öğretmenlerin aday göstermesini ve IQ testlerini içerir. <b>Başarı testleri</b> bu prosedürde yer almaz.",
+            "unit": 3,
+            "topic": "3.2. Üstün Zekâlı ve Yetenekli Çocukları Tanılamanın Kısa Tarihçesi",
+            "source": "Final Soruları 2022-2023, Vize Soruları 2023-2024, 2021-2022 Final",
+            "sourceInfo": "Soru 1, Soru 2, Soru 18"
+        },
+        {
+            "id": 3003,
+            "question": "ABD’de üstün zekâlıların değerlendirmesinde IQ testini takiben okullarda en sık kullanılan ikinci araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Grup başarı testleri",
+                "Yaratıcılık testleri",
+                "Öğretmen değerlendirme ölçekleri",
+                "Psikologtan alınan formlar",
+                "Liderlik ölçekleri"
+            ],
+            "correctIndex": 2,
+            "explanation": "ABD’de öğretmen değerlendirme ölçekleri, tarama ve üstün yetenekli programlara katılım amacıyla öğrencilerin belirlenmesi için en yaygın kullanılan araçlar arasındadır. Bu ölçekler muhtemelen üstün zekâlıların değerlendirmesinde IQ testini takiben okullarda <b>en sık kullanılan ikinci araçtır</b>.",
+            "unit": 3,
+            "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 13, Soru 17"
+        },
+        {
+            "id": 3004,
+            "question": "Raven İlerleyen Matrisler Testi ne tür bir testtir?",
+            "options": [
+                "Bireysel zekâ testi",
+                "Liderlik testi",
+                "Yaratıcılık testi",
+                "Grup başarı testi",
+                "Grup zekâ testi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Raven İlerleyen Matrisler Testi, genellikle <b>grup zekâ testi</b> olarak bilinir ve grup ortamında uygulanabilen bir soyut düşünme testidir.",
+            "unit": 3,
+            "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
+            "source": "Final Soruları 2024-2025, Vize Soruları 2020",
+            "sourceInfo": "Soru 7, Soru 10, Soru 15"
+        },
+        {
+            "id": 3005,
+            "question": "Aşağıdakilerden hangisi tanılamanın tarama evresine ait değildir?",
+            "options": [
+                "Öğrencinin gelişimsel ve sağlık bilgilerini de içeren geçmişi",
+                "Öğrencinin fiziksel, zihinsel, sosyal ve duygusal işlevleri, öğrenme stili ve motivasyonunu da içeren işlevleriyle ilgili öğretmen raporu",
+                "Öğrencinin hangi okula yerleşeceğine karar verilmesi",
+                "Grup ve bireysel yetenek testleri",
+                "Akran tanılaması"
+            ],
+            "correctIndex": 2,
+            "explanation": "Tanılamanın evreleri aday gösterme, tarama ve yerleştirme olarak üçe ayrılır. Öğrencinin güçlü ve zayıf olduğu alanların belirlenmesi, değerlendirilmesi ve <b>uygun okullara yerleşmeleri için karar verilmesi</b> işlemi <b>Yerleştirme</b> evresinde yapılır.",
+            "unit": 3,
+            "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
+            "source": "2021-2022 Final",
+            "sourceInfo": "Soru 21"
+        },
+        {
+            "id": 3006,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı çocuklar için bir tanılama yöntemi değildir?",
+            "options": [
+                "Başarı testlerinin uygulanması",
+                "Ebeveynden alınan bilgiler",
+                "Tutum ölçekleri uygulanması",
+                "Standardize testlerin uygulanması",
+                "Öğrencilerin akranlarının aday göstermesi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Üstün zekâlı çocukların tanılanmasında genel olarak başarı testleri, standardize zekâ ve yetenek testleri, ebeveyn bilgileri, öğretmen değerlendirme ölçekleri ve akran aday göstermesi gibi yöntemler kullanılırken, <b>Tutum ölçekleri</b> birincil tanılama yöntemi değildir.",
+            "unit": 3,
+            "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
+            "source": "Final Soruları 2021 Deneme Sınavı,2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 12, Soru 1"
+        },
+        {
+            "id": 3007,
+            "question": "Aşağıdakilerden hangisi Schack ve Starko (1990)’a göre öğretmenlerin bir öğrencinin yetenekli olduğunu belirlemede kullandıkları kriterlerden biri değildir?",
+            "options": [
+                "Yaratıcıdır.",
+                "Kendi öğrenmesini başlatır.",
+                "Hızlı ve kolay öğrenir.",
+                "Sosyo-ekonomik düzeyi yüksektir.",
+                "Meraklıdır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Öğretmenler üstün zekâlı olduğunu düşündükleri bir öğrenciyi tanılamada aday gösterirken öğrencinin özel yeteneklerine, motivasyonuna, öğrenme hızına, ve yaratıcı olup olmadığına bakarlar. <b>Öğrencinin ailesinin sosyo-ekonomik düzeyi</b>, yetenek belirlemede kullanılan bir kriter değildir.",
+            "unit": 3,
+            "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
+            "source": "Vize Soruları 2024-2025, Vize Soruları 2020",
+            "sourceInfo": "Soru 20, Soru 10, Soru 12"
+        },
+        {
+            "id": 3008,
+            "question": "Erken çocukluk döneminde üstün zekalı çocukları tanılama ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Erken çocuklukta tanılama yapmak çocuğun üstün yeteneği ile ilgili gerçekçi bir fikir vermez.",
+                "Bu dönemde tanılama yapılamaz.",
+                "Denver II bu dönemde tanılama amacı ile uygulanan bir zeka testidir.",
+                "Ebeveynler çocukların tanılanmasında öğretmenlerden daha önemli rol oynar.",
+                "Bu dönemde tanılama yapmak için daha ziyade genel yetenek testleri kullanılır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Anne babalar, çocuklarının ilk öğretmenleridir ve çocuklarının yeteneklerini ilk geliştiren kişilerdir. Bu anlamda, <b>ebeveynler çocukların tanılanmasında öğretmenlerden daha önemli rol oynar</b>, çünkü erken yaşlarda ilgi, yetenek ve becerilerin belirlenmesi, ev ortamlarının düzenlenmesi için önemlidir.",
+            "unit": 3,
+            "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
+            "source": "Vize Soruları 2021 Deneme Sınavı,Kaynak Kitap",
+            "sourceInfo": "Soru 21"
+        },
+        {
+            "id": 3009,
+            "question": "ARGEM (Araştırma Geliştirme Eğitim ve Uygulama Merkezi) okulları kaç yılında kurulmuştur?",
+            "options": [
+                "2017",
+                "2019",
+                "2007",
+                "2009",
+                "2012"
+            ],
+            "correctIndex": 0,
+            "explanation": "ARGEM (Araştırma Geliştirme Eğitim ve Uygulama Merkezi) okulları <b>2017</b> yılında kurulmuştur.",
+            "unit": 3,
+            "topic": "3.5. Türkiye’de Üstün Zekâlı ve Yeteneklilerin Tanılanması",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 1, Soru 9"
+        },
+        {
+            "id": 3010,
+            "question": "Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için kimler tarafından aday gösterilirler?",
+            "options": [
+                "Veliler",
+                "Öğretmenler Kurulu",
+                "Rehber öğretmenler",
+                "Okul müdürü",
+                "Sınıf ve şube öğretmenleri"
+            ],
+            "correctIndex": 4,
+            "explanation": "Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için <b>Sınıf ve şube öğretmenleri</b> tarafından aday gösterilirler.",
+            "unit": 3,
+            "topic": "3.5. Türkiye’de Üstün Zekâlı ve Yeteneklilerin Tanılanması",
+            "source": "Final Soruları 2022-2023, Final Soruları 2024-2025, Final Soruları 2021",
+            "sourceInfo": "Soru 13, Soru 19, Soru 4"
+        },
+        {
+            "id": 4001,
+            "question": "Eğitim ile beyindeki sinaptik bağlantıların gelişmesine verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Nöral plastisite",
+                "Nöral bağlantı",
+                "Nörobilim",
+                "Sinaps",
+                "Kortikal alan"
+            ],
+            "correctIndex": 0,
+            "explanation": "Eğitim ile beyindeki sinaptik bağlantıların gelişmesine <b>Nöral plastisite</b> adı verilmektedir. Nöral plastisite, beynin öğrenme ve deneyim yoluyla kendini yeniden düzenleme ve adapte etme yeteneğini ifade eder.",
+            "unit": 4,
+            "topic": "4.2. Nörobiyolojik Bakış Açısıyla Üstün Yetenek",
+            "source": "Vize Soruları 2021 Deneme Sınavı, Final Soruları 2021, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 23, Soru 31, Soru 8, Soru 16, Soru 7"
+        },
+        {
+            "id": 4002,
+            "question": "Aşağıdakilerden hangisi üstün yeteneklilerin beyin yapılarındaki farklılıklardan dolayı gerçekleşen bir durum değildir?",
+            "options": [
+                "Güçlü bellek",
+                "Daha hızlı tepki inhibisyonu geliştirme",
+                "Çok fazla olasılık ve fikirle aynı anda başa çıkma",
+                "Keskin görme yeteneği",
+                "Daha verimli hipotez üretebilme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Üstün yeteneklilerin beyin yapılarındaki farklılıklar; güçlü bellek, daha hızlı tepki inhibisyonu geliştirme ve daha verimli hipotez üretebilme gibi bilişsel işlevlere yol açabilir. <b>Keskin görme yeteneği</b> ise nörobiyolojik farklılıkların doğrudan bir sonucu olarak kaynaklarda belirtilmemektedir.",
+            "unit": 4,
+            "topic": "4.2. Nörobiyolojik Bakış Açısıyla Üstün Yetenek",
+            "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021, Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 8, Soru 1, Soru 8"
+        },
+        {
+            "id": 4003,
+            "question": "Üstün zekalı kişilerin beyin yapısıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+            "options": [
+                "Sinaptik bağlantılar daha fazladır.",
+                "Beyinde yalnızca frontal bölge üstün zekalılıkla ilgilidir.",
+                "Sağ beyin daha baskındır.",
+                "Korpus kallozum gelişmiştir.",
+                "Prefrontal bölgede kalınlık görülmektedir."
+            ],
+            "correctIndex": 1,
+            "explanation": "Beyin görüntüleme çalışmaları, üstün zekâlılıkla ilgili aktivitenin yalnızca frontal bölgede olmadığını, aynı zamanda beynin farklı alanlarında ve bu alanlar arasındaki bağlantılarda (korpus kallozum gibi) farklılıklar gösterdiğini ortaya koymuştur. Bu nedenle, <b>beyinde yalnızca frontal bölgenin üstün zekalılıkla ilgili olduğu</b> ifadesi yanlıştır.",
+            "unit": 4,
+            "topic": "4.2. Nörobiyolojik Bakış Açısıyla Üstün Yetenek",
+            "source": "Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 4, Soru 11"
+        },
+        {
+            "id": 4004,
+            "question": "Anne karnında yüksek düzeyde testosterona maruz kalmak aşağıdakilerden hangisine yol açmaz?",
+            "options": [
+                "Sözel dil gelişimini olumsuz etkileyebilir.",
+                "Sol hemisfer işlemleri baskılanır.",
+                "Yanlızca erkek çocukların beyninde etki yaratır.",
+                "Görsel-uzamsal beceriler üzerinde etkisi vardır.",
+                "Empati becerileri azalır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Yüksek düzeyde testosterona maruz kalmanın sözel dil gelişimi ve empati becerileri üzerinde olumsuz etkileri olabilir, ayrıca görsel-uzamsal becerilerde etki yarattığı ve sol hemisfer işlemlerini baskıladığı düşünülmektedir. Ancak bu durumun <b>yalnızca erkek çocukların beyninde etki yarattığı</b> ifadesi yanlıştır.",
+            "unit": 4,
+            "topic": "4.3. Zekâyı Etkileyen Hormonlardan: Testosteron",
+            "source": "2021-2022 Final, Final Soruları 2023-2024",
+            "sourceInfo": "Soru 4, Soru 12"
+        },
+        {
+            "id": 4005,
+            "question": "Beyin görüntüleme teknikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "options": [
+                "PET (pozitron emisyon tomografi) karmaşık serebral süreçleri çözmek için kullanılan yardımcı tekniklerden biridir.",
+                "EEG (Elektroansefalografi) beynin bilgiyi nasıl işlediği ile ilgili ayrıntıları elde etmek için bir bilgisayara kaydedilebilir.",
+                "Gelişen beyni incelemede en önemli keşiflerden biri fMRI' (işlevsel manyetik rezonans)dır.",
+                "Beyin görüntüleme teknikleri canlı beynin yapısına ve işlevlerine bakabilme imkanı sağlamaktadır.",
+                "Ortalama bir saniye içindeki beyin faaliyetlerini gözlemleyen görüntüleme yöntemine ERP adı verilir."
+            ],
+            "correctIndex": 4,
+            "explanation": "Beyin görüntüleme teknikleri canlı beynin yapısına ve işlevlerine bakabilme imkanı sağlamaktadır. EEG, fMRI ve PET bu tekniklerdendir. Ancak, <b>ortalama bir saniye içindeki beyin faaliyetlerini gözlemleyen görüntüleme yöntemine ERP adı verilir</b> ifadesi yanlıştır.",
+            "unit": 4,
+            "topic": "4.4. Üstün Zekâlılarda Bilişsel İşlevlerle İlgili Araştırmalar",
+            "source": "Final Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 18, Soru 6"
+        },
+        {
+            "id": 4006,
+            "question": "Matematik alanında üstün yetenekli bir öğrenci için aşağıdakilerden hangisi söylenemez?",
+            "options": [
+                "Broca alanı gelişmiştir.",
+                "En fazla prefrontal bölge telaffuz edilir.",
+                "Görsel imgelemesi güçlüdür.",
+                "Gelişmiş bir sağ beyni vardır.",
+                "Prekuneus aktive olur."
+            ],
+            "correctIndex": 0,
+            "explanation": "Matematiksel üstün yeteneklilerde prekuneus bölgesi aktivasyonu, güçlü görsel imgeleme ve prefrontal bölgenin rolü vurgulanmaktadır. <b>Broca alanı</b> ise öncelikli olarak dil üretimi ve sözel becerilerle ilgilidir, bu nedenle matematik yeteneği için söylenebilecek bir özellik değildir.",
+            "unit": 4,
+            "topic": "4.5. Matematik Alanında Üstün Yeteneklilerin Nörobiyolojisi",
+            "source": "Vize Soruları 2022-2023, Vize Soruları 2021 Deneme Sınavı",
+            "sourceInfo": "Soru 2, Soru 38, Soru 32, Soru 13"
+        },
+        {
+            "id": 4007,
+            "question": "Aşağıdakilerden hangisi beyinde sözel dilin anlaşılmasını sağlayan alandır?",
+            "options": [
+                "Broca",
+                "Prekuneus",
+                "İnsula",
+                "Wernicke",
+                "Korpus kallozum"
+            ],
+            "correctIndex": 3,
+            "explanation": "Beyinde sözel dilin anlaşılmasını sağlayan alana <b>Wernicke alanı</b> adı verilir. Broca alanı ise konuşmanın üretilmesi ile ilgilidir.",
+            "unit": 4,
+            "topic": "4.6. Beyinde Dil Alanı",
+            "source": "2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 2, Soru 2"
+        },
+        {
+            "id": 4008,
+            "question": "Yapı içinde zihinsel olarak, yeniden organize ederek yeni ürün oluşturma?",
+            "options": [
+                "Analiz",
+                "Uygulama",
+                "Değerlendirme",
+                "Yaratma",
+                "Sentez"
+            ],
+            "correctIndex": 3,
+            "explanation": "Yapı içinde zihinsel olarak, yeniden organize ederek yeni ürün oluşturma becerisi, üst düzey bir bilişsel işlev olan <b>Yaratma</b> (veya Sentez) basamağını ifade eder.",
+            "unit": 4,
+            "topic": "4.9. Yaratıcılık ve Beyin",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 6"
+        },
+        {
+            "id": 5001,
+            "question": "Bebeklikten yetişkinliğe kadar bireyin çevreyi, dünyayı etkili bir şekilde anlama ve düşünme yollarının bütününü ………………………………….. meydana getirmektedir. Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+            "options": [
+                "Fiziksel gelişim",
+                "Duyusal gelişim",
+                "Psikomotor gelişim",
+                "Duygusal gelişim",
+                "Bilişsel gelişim"
+            ],
+            "correctIndex": 4,
+            "explanation": "Bebeklikten yetişkinliğe kadar bireyin çevreyi, dünyayı etkili bir şekilde anlama ve düşünme yollarının bütününü <b>bilişsel gelişimi</b> meydana getirmektedir.",
+            "unit": 5,
+            "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
+            "source": "Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2023-2024, Final Soruları 2022-2023",
+            "sourceInfo": "Soru 8, Soru 33, Soru 4"
+        },
+        {
+            "id": 5002,
+            "question": "Üstün zekalı ve yetenekli çocukların bilişsel gelişimleri ile ilgili ifadelerden hangisi doğrudur?",
+            "options": [
+                "üst düzey bilişsel görevler sırasında karmaşık bilişsel yapılarını kullanırlar.",
+                "üstün zekalı ve yetenekli çocukların yaşı büyüdükçe, görevlerde daha iyi performans göstermemektedirler.",
+                "bilgi işleme hızı yaşları büyüdükçe yavaşlar.",
+                "akıl yürütme stratejilerinde zorluk yaşarlar",
+                "üstün zekalı ve yetenekli çocukların daha basit bilişsel şemaları vardır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Üstün zekalı ve yetenekli çocuklar, üst düzey bilişsel görevler sırasında <b>karmaşık bilişsel yapılarını kullanırlar</b>.",
+            "unit": 5,
+            "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
+            "source": "Vize Soruları 2021 Deneme Sınavı",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 5003,
+            "question": "Üstün yetenekli bireyler, bütün gelişim alanlarında gerçekleşen hızlı bir gelişim seyri içerisindedirler. Aşağıda verilenlerden hangisi üstün zekâlı çocukların hızlı gelişim özelliklerinden değildir?",
+            "options": [
+                "Bir alanda derinlemesine bilgi sahibi olma istekleri",
+                "Üstün bir çalışma azmine ve odaklanabilme becerisine sahip olmaları",
+                "Doymak bilmez öğrenme istekleri ve yüksek merakları",
+                "Öğrenilmesi kolay olan konulara olan yönelimleri",
+                "Parçadan bütüne varma ve genelden özele gitme becerileri"
+            ],
+            "correctIndex": 3,
+            "explanation": "Üstün zekâlı çocuklar, doymaz öğrenme istekleri ve yüksek merakları ile zorlu ve karmaşık konuları tercih ederler. Bu nedenle <b>öğrenilmesi kolay olan konulara olan yönelimleri</b> üstün zekâlı çocukların hızlı gelişim özelliklerinden biri değildir.",
+            "unit": 5,
+            "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
+            "source": "Vize Soruları 2024-2025, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 18, Soru 7"
+        },
+        {
+            "id": 5004,
+            "question": "Aşağıdakilerden hangisi zekâlı ve yetenekli bireylerin zihinsel özelliklerinden dolayı eğitim programlarında yapılacak uyarlamalardan birisi değildir?",
+            "options": [
+                "Zenginleştirilmiş eğitime tabi tutulmalıdır.",
+                "Düşünmeleri için zaman verilmelidir.",
+                "Hayat amaçları erken tespit edilmeli ve bu alana yönlendirilmelidir.",
+                "Üst düzey düşünme becerileri eğitim programına entegre edilmelidir.",
+                "Problem durumları sunularak, açık uçlu soru sorulmalıdır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Eğitim programlarında, üstün zekâlı bireylerin bilişsel gelişimlerini desteklemek için zenginleştirilmiş eğitim, üst düzey düşünme becerileri ve problem çözme durumları kullanılmalıdır. Ancak <b>hayat amaçları erken tespit edilmeli ve bu alana yönlendirilmelidir</b>, bireyin özgün potansiyelini tam olarak ortaya koymasını engelleyebileceği için bir uyarlama olarak görülmez.",
+            "unit": 5,
+            "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
+            "source": "Final Soruları 2021, Final Soruları 2024-2025",
+            "sourceInfo": "Soru 8, Soru 6, Soru 2"
+        },
+        {
+            "id": 5005,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı ve yetenekli bir çocuğun bilişsel özelliklerinden biri değildir?",
+            "options": [
+                "Geniş bilgi tabanı ve bu bilgiyi kendi yararına kullanma konusunda daha yetenekli olmaları",
+                "Karmaşık, zorlu ortamları tercih etmeleri",
+                "Problemleri hızlı çözmeleri ancak çözümü planlamada daha fazla zaman harcamaları",
+                "Hızlı empati kurmaları",
+                "Problemleri sınıflamaları"
+            ],
+            "correctIndex": 3,
+            "explanation": "Üstün zekâlı çocukların bilişsel özellikleri arasında problem çözme, üst biliş ve geniş bilgi tabanı yer alır. <b>Hızlı empati kurmaları</b> bilişsel değil, <b>duygusal/duyuşsal</b> bir özelliktir.",
+            "unit": 5,
+            "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 5006,
+            "question": "Aşağıdaki faktörlerden hangisi üstün zekâlı ve yetenekli çocuğun bilişsel gelişimini en çok etkiler?",
+            "options": [
+                "Akran baskısı",
+                "Ebeveyn desteği",
+                "Beyin gelişimi",
+                "Müfredat farklılaştırma",
+                "Eğitim ortamının ısısı"
+            ],
+            "correctIndex": 2,
+            "explanation": "Üstün zekâlı ve yetenekli çocuğun bilişsel gelişiminin temelini <b>Beyin gelişimi</b> ve işleyişi oluşturur.",
+            "unit": 5,
+            "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 5007,
+            "question": "Aşağıdaki yer alan senaryolardan hangisi üstün zekâlı ve yetenekli çocukların bilişsel gelişimini gösteren karakteristik bir özelliğidir?",
+            "options": [
+                "Akranlarıyla güçlü arkadaşlık ilişkileri kurarlar",
+                "Seçici yapıları nedeniyle akranlarından kendilerini soyutlarlar",
+                "Sorunlara hızlı çözümler bulurlar ancak planlama yaparken fazla zaman harcayabilirler",
+                "Eş zamanlı olmayan gelişimleri nedeniyle arkadaşları ile ilgili yaşadıkları sorunlara çözüm bulmakta zorluk çekerler",
+                "Duygusal olarak akranlarından daha hassastırlar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Üstün zekâlı ve yetenekli çocuklar, <b>problemleri hızlı çözmeleri</b> ancak <b>çözümü planlamada daha fazla zaman harcamaları</b> gibi bilişsel özelliklerle yaşıtlarından ayrılmaktadırlar.",
+            "unit": 5,
+            "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 18"
+        },
+        {
+            "id": 5008,
+            "question": "“Üstün zekalı ve yetenekli çocuklar ….. özellikleri ile yaşıtlarından ayrılmaktadırlar.” Yukarıdaki cümlede boş bırakılan yer aşağıdakilerden hangisi ile tamamlanamaz?",
+            "options": [
+                "planlama",
+                "strateji kurma",
+                "üst biliş",
+                "problemleri sınıflama",
+                "ben merkezci"
+            ],
+            "correctIndex": 4,
+            "explanation": "Üstün zekâlı ve yetenekli çocuklar; problemleri sınıflama, strateji kurma, planlama ve üst biliş gibi daha karmaşık yeteneklere sahip olma özellikleri ile yaşıtlarından ayrılmaktadırlar. <b>Ben merkezci</b>, üstün zekalı çocukların bir özelliği olarak kaynaklarda belirtilmemektedir.",
+            "unit": 5,
+            "topic": "5.2. Üstün Zekâlı ve Yetenekli Çocukların Beyin İşleyişi ve Zihinsel Gelişim",
+            "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 17, Soru 16, Soru 12, Soru 46"
+        },
+        {
+            "id": 5009,
+            "question": "Üstün zekalı ve yetenekli çocuklara bilginin işlenmesinde daha yüksek bir işlem hızı görülmektedir. Aşağıdakilerden hangisi yüksek işlem hızını sağlayan özelliklerden biri değildir?",
+            "options": [
+                "Zengin kelime dağarcığı",
+                "Dikkat yetenekleri",
+                "Duygular",
+                "Hafıza",
+                "Akıl yürütme stratejisi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Üstün zekâlı ve yetenekli çocuklarda bilginin işlenmesinde daha yüksek bir işlem hızı görülür. Bu hız; zengin kelime dağarcığı, dikkat yetenekleri, hafıza, bilişsel hareketlilik ve akıl yürütme stratejileri ile ilişkilidir. <b>Duygular</b>, yüksek işlem hızını sağlayan özelliklerden biri değildir.",
+            "unit": 5,
+            "topic": "5.2. Üstün Zekâlı ve Yetenekli Çocukların Beyin İşleyişi ve Zihinsel Gelişim",
+            "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021, Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 7, Soru 5, Soru 11, Soru 14, Soru 17"
+        },
+        {
+            "id": 5010,
+            "question": "Üstbiliş kullanan üstün zekâlı ve yetenekli bir öğrenci örneği hangisidir?",
+            "options": [
+                "Beste, bir matematik problemini çözmek ve bir dizi adımı takip etmek için bir kitap kullanır.",
+                "Öykü mantığını analiz ediyor ve düşündüklerinin mantıklı olup olmadığını soruyor.",
+                "Kayra Türkçe dersinde okuduğu şiirlerden birinden satırları ezberliyor.",
+                "Ayşen sınıf seviyesinden daha yüksek bir romandan okuyor.",
+                "Eda, bir deney yapmak için farklı bilimsel araçlar kullanıyor."
+            ],
+            "correctIndex": 1,
+            "explanation": "Üstbiliş (metacognition), kişinin kendi düşünme süreçlerini denetlemesi ve kontrol etmesidir. <b>Öykü'nün mantığını analiz etmesi ve düşündüklerinin mantıklı olup olmadığını sorgulaması</b>, kişinin kendi düşüncesi üzerine düşünme eylemini (üstbiliş) gerçekleştirdiğini gösterir.",
+            "unit": 5,
+            "topic": "5.2. Üstün Zekâlı ve Yetenekli Çocukların Beyin İşleyişi ve Zihinsel Gelişim",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 6001,
+            "question": "Üstün zekalı ve yetenekli çocukların sosyal ve duygusal gelişmelerini farklı olma nedenlerinden değildir?",
+            "options": [
+                "Eş zamanlı olmayan gelişim",
+                "Aşırı duyarlılık alanları",
+                "Tek çocuk olma",
+                "Mükemmelliyetçilik",
+                "Erken gelişim"
+            ],
+            "correctIndex": 2,
+            "explanation": "Üstün zekalı ve yetenekli çocukların sosyal ve duygusal gelişimlerini farklı kılan nedenler arasında eş zamanlı olmayan gelişim, aşırı duyarlılık alanları, mükemmeliyetçilik ve erken gelişim sayılabilir. Tek çocuk olma durumu, bu farklılığın nedenlerinden biri olarak kabul edilmez.",
+            "unit": 6,
+            "topic": "6.1. Giriş",
+            "source": "Final Soruları 2021, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 5, Soru 14, Soru 11"
+        },
+        {
+            "id": 6002,
+            "question": "….., bir çocuğun bir alanda ilerlemesi, ancak başka bir alanda gecikmesi, genellikle üstün zekalılığın erken bir işaretidir. Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+            "options": [
+                "Eşsiz gelişim",
+                "Sosyal gelişim",
+                "Eş zamanlı olmayan gelişim",
+                "Bilişsel gelişim",
+                "Aşırı duyarlı gelişim"
+            ],
+            "correctIndex": 2,
+            "explanation": "Eş zamanlı olmayan gelişim (Asenkronize Gelişim), bir çocuğun bir alanda (örneğin bilişsel alanda) ilerlemesi, ancak başka bir alanda (örneğin sosyal veya duygusal alanda ya da ince motor becerilerde) yaşıtlarına göre daha yavaş gelişmesidir. Bu durum, üstün zekâlı çocukların sosyal ve duygusal gelişimindeki farklılığın temel bir nedenidir.",
+            "unit": 6,
+            "topic": "6.1. Giriş",
+            "source": "Vize Soruları 2020, Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 26, Soru 18, Soru 1, Soru 13"
+        },
+        {
+            "id": 6003,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı ve yetenekli çocukların sosyal ve duygusal gelişimini destekleyici unsurlardan biri değildir?",
+            "options": [
+                "Benlik saygısını desteklemek",
+                "Rekabetçi bir ortam oluşturmak",
+                "Olumlu bir çevrede büyümek",
+                "Duygularını kabul etmek",
+                "Desteklemek ve anlaşıldığını hissettirmek"
+            ],
+            "correctIndex": 1,
+            "explanation": "Üstün zekâlı çocukların sosyal ve duygusal gelişimini desteklemek için olumlu, kabul edici ve destekleyici bir çevre gerekir. <b>Rekabetçi bir ortam oluşturmak</b>, sosyal ve duygusal gelişimi olumsuz etkileyebilir.",
+            "unit": 6,
+            "topic": "6.1. Giriş",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 4"
+        },
+        {
+            "id": 6004,
+            "question": "Aşağıdakilerden hangisi üstün zekalı ve yetenekli çocuğun sosyal ve duygusal özelliklerinden biridir?",
+            "options": [
+                "Öz farkındalık",
+                "Erken yaşta görülen idealizm",
+                "Keskin bir mizah duygusu",
+                "Liderlik yeteneği",
+                "Olağanüstü psikomotor yetenek"
+            ],
+            "correctIndex": 4,
+            "explanation": "Üstün zekalı çocukların gelişimi çok boyutludur ve sosyal ve duygusal gelişimleri erken gelişim, eş zamanlı olmayan gelişim ve aşırı duyarlılık ile sıkı bir ilişki içindedir. Olağanüstü psikomotor yetenek, üstün zekalı ve yetenekli çocukların erken gelişim gösterme eğiliminde oldukları alanlardan biri olabilir.",
+            "unit": 6,
+            "topic": "6.1. Giriş",
+            "source": "Vize Soruları 2020",
+            "sourceInfo": "Soru 27"
+        },
+        {
+            "id": 6005,
+            "question": "Aşağıdakilerden hangisi üstün zekâyı duygusal yönüne vurgu yaparak tanımlamıştır?",
+            "options": [
+                "Terman",
+                "Annemarie Roeper",
+                "Gagne",
+                "Guilford",
+                "Marland"
+            ],
+            "correctIndex": 1,
+            "explanation": "<b>Annemarie Roeper</b>, üstün zekâyı <b>duygusal yönüne</b> vurgu yaparak tanımlamıştır. Roeper’a göre üstün zekâ; daha fazla farkındalık, daha fazla duyarlılık ve zihinsel ve duygusal deneyimlere daha iyi dönüştürebilme yeteneğidir.",
+            "unit": 6,
+            "topic": "6.1. Giriş",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 6006,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı bireylerin zihinsel yeteneklerinin yanı sıra duygusal alanda gösterdiği özelliklerden biri değildir?",
+            "options": [
+                "Empati yetenekleri güçlüdür.",
+                "Duygusal duyarlılık gösterirler.",
+                "Duygusal olarak diğerlerinden daha fazla izole olurlar.",
+                "Duygularını ifade etme konusunda zorluk yaşarlar.",
+                "Yoğun duygusal yaşantılar deneyimlerler."
+            ],
+            "correctIndex": 3,
+            "explanation": "Üstün zekalı bireyler, genellikle <b>yoğun duygusal yaşantılar</b> deneyimleseler ve <b>yüksek duygusal duyarlılığa</b> sahip olsalar da, genelde duygularını ifade etme konusunda zorluk yaşamazlar. Aksine, dil yetenekleri sayesinde duygularını ifade etmede ustalık gösterebilirler.",
+            "unit": 6,
+            "topic": "6.1. Giriş",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 9"
+        },
+        {
+            "id": 6007,
+            "question": "Pozitif (olumlu) parçalanma teorisi bir kişilik gelişim teorisi olarak üstün yeteneklilerin eğitiminde önemli bir katkı sunmaktadır. Bu teorinin teorisyeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Freud",
+                "Dabrowski",
+                "Skinner",
+                "Erikson",
+                "Piaget"
+            ],
+            "correctIndex": 1,
+            "explanation": "Pozitif Parçalanma Teorisi, Polonyalı psikolog, psikiyatrist, doktor Kazimierz Dabrowski tarafından geliştirilmiş ve insani gelişmeyi anlamak için önerilen kapsamlı ve karmaşık bir teoridir. Bu teori, üstün yeteneklilerin eğitimine önemli bir katkı sağlamıştır.",
+            "unit": 6,
+            "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru 2, Soru 5"
+        },
+        {
+            "id": 6008,
+            "question": "Dabrowski’nin Pozitif Parçalanma Teorisinde yer alan aşırı duyarlılık alanlarından biri değildir?",
+            "options": [
+                "Duygusal aşırı duyarlılık",
+                "Psikososyal aşırı duyarlılık",
+                "Duyularla ilgili aşırı duyarlılık",
+                "Hayal gücü alanında aşırı duyarlılık",
+                "Psikomotor aşırı duyarlılık"
+            ],
+            "correctIndex": 1,
+            "explanation": "Dabrowski’nin Pozitif Parçalanma Teorisinde yer alan aşırı duyarlılık; psikomotor, duygusal, hayal gücü, entelektüel ve duyusal olmak üzere beş alanda görülmektedir. Psikososyal aşırı duyarlılık bu alanlardan biri değildir.",
+            "unit": 6,
+            "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
+            "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 28, Soru 31, Soru 13, Soru 20"
+        },
+        {
+            "id": 6009,
+            "question": "“Ali ilkokul birinci sınıf öğrencisidir. Okulda derslerine istekle katılmakta ve öğretmeninin her söylediğini düzenli olarak yapmaktadır. Ancak Ali’nin öğretmeninin dikkatini çeken bir sorunu vardır, o da Ali’nin sınıfta sürekli hareket hâlinde olması, sandalyesini ileri-geri itmesi, bacaklarını sallaması, kıvırmasıdır.” Bu durumda Ali’nin yaşadığı durum Dabrowski’nin aşırı duyarlık alanlarından hangisi ile ilgilidir?",
+            "options": [
+                "Duygusal aşırı duyarlılık",
+                "Duyularla ilgili aşırı duyarlılık",
+                "Psikomotor aşırı duyarlılık",
+                "Zihinsel/Entelektüel aşırı duyarlılık",
+                "Hayal gücü(İmgeleme) alanında aşırı duyarlılık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Ali'nin sürekli hareket hâlinde olması, sandalyesini ileri-geri itmesi ve bacaklarını sallaması gibi davranışlar, <b>Psikomotor aşırı duyarlılık</b> belirtileridir. Bu, enerjinin aşırı ve sürekli bir şekilde fiziksel aktiviteye dönüşmesi durumunu ifade eder.",
+            "unit": 6,
+            "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
+            "source": "Vize Soruları 2020, Final Soruları 2021-2022, Final Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 30, Soru 5, Soru 3, Soru 30"
+        },
+        {
+            "id": 6010,
+            "question": "Aşağıdakilerden hangisi psikomotor yoğunluk yaşayan üstün zekalı ve yetenekli çocuğun belirtilerinden biri değildir?",
+            "options": [
+                "Sallanan bacaklar",
+                "Tırnak yeme",
+                "Uyuma",
+                "Alışılmadık derecede hızlı konuşmaları",
+                "Kendi kendine konuşma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Psikomotor aşırı duyarlılık belirtileri arasında aşırı hareketlilik, hızlı konuşma, tırnak yeme, kıvranma ve sallanma sayılabilir. <b>Uyuma</b>, bu yoğunluk belirtilerinden biri değildir.",
+            "unit": 6,
+            "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
+            "source": "Vize Soruları 2020",
+            "sourceInfo": "Soru 36"
+        },
+        {
+            "id": 6011,
+            "question": "Aşağıdakilerden hangisi hayal gücü (İmgeleme) yaşayan üstün zekâlı ve yetenekli çocukların belirtilerinden biridir?",
+            "options": [
+                "Tikler",
+                "Sorumluluk",
+                "Tırnak yeme",
+                "Yaratıcılık",
+                "Bağlılık"
+            ],
+            "correctIndex": 3,
+            "explanation": "Dabrowski’nin teorisinde <b>Hayal gücü (İmgeleme)</b> aşırı duyarlılığı, bireyin <b>Yaratıcılık</b>, canlı hayal kurma ve zihinsel oyunlara eğilimi olarak kendini gösterir.",
+            "unit": 6,
+            "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
+            "source": "Vize Soruları 2020",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 7001,
+            "question": "Dilin iki temel bileşeninden biri olan Ekspresif Dil (Anlatım Dili) tanımına göre aşağıdakilerden hangisi yanlıştır?",
+            "options": [
+                "Zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir.",
+                "Duyu-sinir ve motor-sinir işlevleri ile gerçekleşir.",
+                "Nefes alma, ses çıkarma ve artikülasyon mekanizmaları gibi işlevleri içerir.",
+                "Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılmasıdır.",
+                "İletişim ve etkileşim aracıdır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Ekspresif Dil (Anlatım Dili), zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir ve duyu-sinir ve motor-sinir işlevleri (nefes alma, ses çıkarma, artikülasyon mekanizmaları gibi) ile gerçekleşir. <b>Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılması</b> ise diğer temel bileşen olan Reseptif Dil (Alıcı Dil, Anlama Dili) olarak tanımlanır.",
+            "unit": 7,
+            "topic": "7.1. Dilin Temel Bileşenleri",
+            "source": "Kaynak Kitap",
+            "sourceInfo": "Sayfa 70"
+        },
+        {
+            "id": 7002,
+            "question": "Aşağıdakilerden hangisi konuşmanın öğrenilmesini biyolojik kurama göre açıklamaktadır?",
+            "options": [
+                "Bebeklerin konuşmaları taklit etmesi ve erişkinlerin bunu desteklemesi ile dil öğrenilir.",
+                "Dil çeşitli bilişsel izlenimler ile bebeğe aktarılır.",
+                "Doğuştan getirilen yetenekler ve dil öğrenimine bebek programlanmıştır.",
+                "Dil genetik bir miras olarak bebeğe aktarılır.",
+                "Bebekler dili taklit ve tekrar ile öğrenir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Biyolojik yaklaşıma göre, '<b>Doğuştan getirilen yetenekler ve dil öğrenimine bebeğin bir şekilde programlanmış olduğu</b>' açıklanır. Bu kuram, beyin gelişiminin önemini vurgular ve dilin öğrenilmesinde kritik dönemler bulunduğuna işaret eder.",
+            "unit": 7,
+            "topic": "7.1.1 Tanımlar ve Yaklaşımlar",
+            "source": "Vize Soruları 2020, Vize Soruları 2021-2022",
+            "sourceInfo": "Soru 9, Soru 2"
+        },
+        {
+            "id": 7003,
+            "question": "Psikolinguistik Kurama göre, Dil Öncesi Gelişim döneminin İkinci Evresi olan Agulama dönemi ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Bu seslerin doğuştan geldiği savunulmaktadır.",
+                "Bebekler altıncı aydan itibaren ünlü ve ünsüz sesleri birlikte çıkarmaya başlarlar.",
+                "Bebekler doğumdan sonraki 2-3 hafta genellikle ağlama sesinden başka ses çıkarmazlar.",
+                "Bebekler bir yaş civarında ilk anlamlı sözcüklerini söylerler.",
+                "Üstün yetenekli bebekler bu dönemde iki hecelik kelimeler kullanmaya başlarlar."
+            ],
+            "correctIndex": 0,
+            "explanation": "Agulama, doğumdan sonra ikinci ayın ortalarında anlamsız sesler çıkarılmasıdır. İşitme engelli bebeklerin de aynı sesleri çıkardığı gözlenmiştir. Bu sebeple bu seslerin <b>doğuştan geldiği savunulmaktadır</b>.",
+            "unit": 7,
+            "topic": "7.2.1.2 İkinci Evre: Agulama",
+            "source": "Kaynak Kitap",
+            "sourceInfo": "Sayfa 72"
+        },
+        {
+            "id": 7004,
+            "question": "Aşağıdakilerden hangisi psikolinguistik kuramın evrelerinden biri değildir?",
+            "options": [
+                "Ağlama Evresi",
+                "Agulama Evresi",
+                "Cıvıldama Evresi",
+                "Sözcük Evresi",
+                "Telefonik Konuşma Evresi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Psikolinguistik kuramdaki dil öncesi gelişim evreleri; Ağlama, Agulama ve Cıvıldama evreleridir. Dilsel gelişim evreleri ise Tek Sözcük, Telegrafik Konuşma ve Tam Cümleler evreleridir. <b>Telefonik Konuşma Evresi</b> kuramın standart evrelerinden biri değildir.",
+            "unit": 7,
+            "topic": "7.2. Psikolinguistik Kuram",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 7005,
+            "question": "Dil gelişimini, doğuştan getirilen yetenekler ve dil öğrenimine bebeğin bir şekilde programlanmış olduğunu savunan görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Davranışçı yaklaşım",
+                "Bilişsel yaklaşım",
+                "Psikolinguistik yaklaşım",
+                "Ana dili yaklaşımı",
+                "Biyolojik yaklaşım"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dilin doğuştan getirilen özel bir mekanizma (LAD) sayesinde öğrenildiğini, çocuğun dili içselleştirip kurallarını anlayarak biyolojik olarak belirli düzeyde konuşmayı öğrendiğini savunan görüş <b>Psikolinguistik yaklaşım</b>dır.",
+            "unit": 7,
+            "topic": "7.2. Psikolinguistik Kuram",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 7006,
+            "question": "Aşağıdakilerden hangisi psikolinguistik kuramın evreleri ile ilgili yanlış bir çıkarım içerir?",
+            "options": [
+                "Psikolinguistik yaklaşım, çocukların dili edinme sürecinde biyolojik olarak programlanmış evrelerin varlığını savunur.",
+                "Üstün zekâlı çocuklar, psikolinguistik kurama göre bazı evreleri yaşamazlar.",
+                "Kuram, çocukların yakınında konuşulan dili içselleştirmesini esas alır.",
+                "Kurama göre tüm çocuklar aynı aşamalardan geçerek konuşmayı öğrenir.",
+                "Kuram, dilin öğrenilmesi için kritik dönemlerin varlığını destekler."
+            ],
+            "correctIndex": 1,
+            "explanation": "Psikolinguistik kuram, dil edinimin biyolojik olarak programlanmış, evrensel aşamalar izlediğini savunur. Üstün zekâlı çocuklar bu aşamalardan daha hızlı geçebilir, ancak <b>bazı evreleri yaşamadıkları</b> söylenemez.",
+            "unit": 7,
+            "topic": "7.2. Psikolinguistik Kuram",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 2"
+        },
+        {
+            "id": 7007,
+            "question": "Aşağıdakilerden hangisi üstün zekalı bir çocuğun tam cümleler evresi için söylenemez?",
+            "options": [
+                "Dilsel gelişim döneminin son evresidir.",
+                "Bu evrede tüm söylemek istediklerini en ekonomik şekilde anlatır.",
+                "Özne, nesne, eylem üçlüsünden oluşan cümleler kurmaya başlarlar.",
+                "İki yaş civarı bu evrelerden söz edilebilir.",
+                "Kelimeleri bağlayan bağlaçlar yoktur."
+            ],
+            "correctIndex": 3,
+            "explanation": "Tam Cümleler Evresi 30. aydan sonra (yaklaşık 2.5 yaş) başlar. Telegrafik Konuşma Evresi ise iki yaşındaki çocuklarda görülür ve bu evrede tüm söylemek istediklerini en ekonomik şekilde anlatırlar; özne, nesne, eylem üçlüsünden oluşan cümleler kurmaya başlarlar, ancak sözcükleri birbirine bağlayan ekler ve bağlaçlar yoktur. Bu nedenle, <b>İki yaş civarı bu evrelerden söz edilebilir</b> ifadesi, Tam Cümleler Evresi için söylenemez; bu ifade Telegrafik Konuşma Evresine aittir.",
+            "unit": 7,
+            "topic": "7.2.2. Dilsel Gelişim Dönemi",
+            "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 20, Soru 6, Soru 9, Soru 15"
+        },
+        {
+            "id": 7008,
+            "question": "Aşağıdakilerden hangisi tam cümleler evresi için söylenemez?",
+            "options": [
+                "Eklerin kullanımı başlar.",
+                "30 ay ve sonrasını kapsamaktadır.",
+                "Olumsuzluk ekleri kullanılmaya başlar.",
+                "Dilsel gelişim döneminin son evresidir.",
+                "“b”, ”p”, ”m” ünsüzleri boğumlandırılmaya başlar."
+            ],
+            "correctIndex": 4,
+            "explanation": "Tam Cümleler Evresi, 30. aydan sonra başlar ve karmaşık dilbilgisi kurallarının (ekler, olumsuzluklar) kazanıldığı evredir. <b>“b”, ”p”, ”m” ünsüzlerinin boğumlandırılması</b>, bebeklik ve dil öncesi gelişim dönemlerinde (agulama/cıvıldama evreleri) gerçekleşen fonetik süreçlerdir, bu nedenle tam cümleler evresi için söylenmesi uygun değildir.",
+            "unit": 7,
+            "topic": "7.2.2. Dilsel Gelişim Dönemi",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 7009,
+            "question": "“Kavram” ve “sözcük” birbirinden ayrılamaz bir bütün olarak varsayılabilir. Kavram çağrışım ile işitim imgesini uyandırır ve …… Aşağıdakilerden hangisi kavram oluşumunu açıklayan yukarıdaki cümlenin devamı olabilir?",
+            "options": [
+                "Kavramların isimlerinin kişilerde farklı olmasının sebebi kültürdür.",
+                "Dünyanın her yerinde ilk bir yaşa kadar çocuklar aynı sesleri çıkarır, bunun sebebi kavramların oluşmamış olmasıdır.",
+                "Sesler işitim imgesini canlandırır; işitim imgesi de çağrışım yoluyla kavramsal imgeyi uyandırır.",
+                "İşitim imgesi de kavramlar ve sözcükleri bir araya getirir.",
+                "Kavramsal imgenin uyandırılması ve çağrıştırılmasının sağlanması sözcüklerle gerçekleşir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Kavram oluşumu sürecinde, kavram çağrışım ile işitim imgesini uyandırır ve <b>sesler işitim imgesini canlandırır; işitim imgesi de çağrışım yoluyla kavramsal imgeyi uyandırır</b>. Bu, dil ve düşünce arasındaki döngüsel ilişkiyi gösterir.",
+            "unit": 7,
+            "topic": "7.3. Dilin Öğrenilmesi ve Kavram Oluşumu",
+            "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 23, Soru 7, Soru 15, Soru 5"
+        },
+        {
+            "id": 7010,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı çocuklar için söylenemez?",
+            "options": [
+                "İleri düzey okuduğunu anlama üstün zekâlı çocukların üst düzey kitaplar okumalarını sağlar.",
+                "Çoğu zaman dili ustalıkla kullanırlar.",
+                "Akranlarından daha hızlı öğrenirler.",
+                "Akranlarından önce konuşma ve okumayı öğrenebilirler.",
+                "Üst düzey dil yeteneği bu çocukların her zaman arkadaşları tarafından sevilmelerini sağlar."
+            ],
+            "correctIndex": 4,
+            "explanation": "Üstün zekâlı çocuklarda ileri okuma ve konuşma becerileri, hızlı öğrenme ve dili ustalıkla kullanma gibi özellikler görülür. Ancak, üst düzey dil yeteneğinin <b>bu çocukların her zaman arkadaşları tarafından sevilmelerini sağladığı</b> söylenemez. Üstün dil becerileri, bazen akranlarıyla sosyal farklılıklara veya anlaşılmama sorunlarına yol açabilir.",
+            "unit": 7,
+            "topic": "7.4. Özel Yetenekli Çocuklar ve Dil Gelişimleri",
+            "source": "Vize Soruları 2024-2025, Vize Soruları 2020",
+            "sourceInfo": "Soru 14, Soru 38"
+        },
+        {
+            "id": 7011,
+            "question": "“Dilsel olarak üstün zekalı ve yetenekli çocuklar kelimelerle oynamaktan hoşlanırlar. Kafiyeli kelimeler kullanabilir, farklı espriler yapmayı sevebilir. Konuşmalarında çevresindekileri şaşırtacak benzetmeler yapmayı tercih edebilirler. Sıklıkla kullanılmayan kelimeleri kullanmak ve dili eski kitapları okumaktan keyif alabilirler. Bu ilgileri de üstün zekalı ve yetenekli çocukların kelime dağarcıklarını geliştirmektedir. Gelişen kelime dağarcığı dil gelişimlerini de hızlandırmaktadır.” Yukarıdaki grup aşağıdakilerden hangisini açıklamaktadır?",
+            "options": [
+                "Erken akademik gelişim",
+                "Duygusal olarak hassaslık",
+                "Erken konuşma",
+                "Akranlarından hızlı gelişim",
+                "İleri düzey dil gelişimi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Yukarıda bahsedilen üstün dil becerileri (kelimelerle oynamaktan hoşlanma, sık kullanılmayan kelimeleri kullanma, zengin kelime dağarcığı), <b>İleri düzey dil gelişimi</b>nin özelliklerini açıklamaktadır.",
+            "unit": 7,
+            "topic": "7.5. İleri Düzey Dil Gelişimi",
+            "source": "Vize Soruları 2020, Final Soruları 2022-2023",
+            "sourceInfo": "Soru 13, Soru 17, Soru 1"
+        },
+        {
+            "id": 7012,
+            "question": "Aşağıdakilerden hangisi ileri düzey dil gelişimini açıklamaktadır?",
+            "options": [
+                "Çocukların bilişsel düzeylerinin akranlarından önde olmasıdır.",
+                "Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır.",
+                "Çocukların destekle erken okumaya başlamasıdır.",
+                "Potansiyelinin üstünde okuma becerisi göstermesidir.",
+                "Zekâ gelişiminin akranlarından önde olmasıdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "İleri düzey dil gelişimi, üstün zekâlı çocuklarda gözlemlenen ve akranlarından daha karmaşık bir dil kullanımı içeren bir durumdur. Bu durum, <b>Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır</b> şeklinde açıklanabilir.",
+            "unit": 7,
+            "topic": "7.5. İleri Düzey Dil Gelişimi",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 7013,
+            "question": "Aşağıdakilerden hangisi erken okuma için söylenemez?",
+            "options": [
+                "Çocukların evlerinde çeşitli kelime oyunları oynanması, listeler yapılması okumayı daha olumlu yönde etkileyebilir.",
+                "Erken okuyan ya da erken konuşan her çocuk üstün zekalı olmayabilir.",
+                "Çocukların geniş kelime hazinesi erken okumayı hızlandırabilir.",
+                "Erken okumaya başlayan çocukların akademik olarak akranlarından hızlı ilerlemesi söz konusudur.",
+                "Çocukların az destek vererek okumanın öğretilmesi erken okumadır."
+            ],
+            "correctIndex": 4,
+            "explanation": "Erken okuma, çocuğun okuma becerilerini yaşıtlarından önce geliştirmesi ve akademik olarak hızlı ilerlemesiyle ilişkilidir. Ancak, <b>Çocukların az destek vererek okumanın öğretilmesi erken okumadır</b> ifadesi, erken okuma tanımını karşılayan bir durum değildir.",
+            "unit": 7,
+            "topic": "7.5.2. Erken Okuma",
+            "source": "Vize Soruları 2020, Vize Soruları 2021-2022",
+            "sourceInfo": "Soru 35, Soru 1"
+        },
+        {
+            "id": 7014,
+            "question": "Aşağıdakilerden hangisi dil, düşünce ve üstün zekâlılık için söylenemez?",
+            "options": [
+                "Dil ve düşünce belirli bir zamana kadar birbirlerinden bağımsız doğrultular izlerler.",
+                "Dil ve düşünce uygun zamanda kesişirler ve bundan sonra birbirinden ayrılamazlar.",
+                "Konuşmanın gelişmesinde düşünce öncesi bir aşama, düşüncenin gelişiminde ise dil öncesi bir aşama vardır.",
+                "Zekâ ve dil gelişimi birbirinden bağımsız gelişir ve ilerler.",
+                "Düşünce ve konuşma, öz oluşum bakımından farklı köklere sahiptir."
+            ],
+            "correctIndex": 3,
+            "explanation": "Dil ve düşünce ilişkisini inceleyen Vygotsky’nin görüşlerine göre, düşünce ve konuşma öz oluşum bakımından farklı köklere sahiptir, belirli bir ana kadar bağımsız doğrultular izler ve belirli bir noktada kesişerek birbirinden ayrılamaz hale gelir. Bu nedenle, <b>Zekâ ve dil gelişimi birbirinden bağımsız gelişir ve ilerler</b> ifadesi söylenemez.",
+            "unit": 7,
+            "topic": "7.6. Dil, Düşünce ve Üstün Zekâlılık",
+            "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2021-2022, Final Soruları 2024-2025, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 11, Soru 20, Soru 12, Soru 18, Soru 15"
+        },
+        {
+            "id": 7015,
+            "question": "Aşağıdakilerden hangisi dil, düşünce ve üstün zekâlılık arasındaki ilişkiyi doğru şekilde açıklamaktadır?",
+            "options": [
+                "Dil, düşünce ve üstün zekâlılık birbirinden bağımsızdır.",
+                "Dil düşünceyi oluşturur.",
+                "Düşünce dili oluşturur.",
+                "Dil ve düşünce birbiriyle birleşerek gelişir.",
+                "Dil ve düşünce birbirini etkiler, üstün zekâlılık farklı bir kavramdır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Dil, düşünce ve üstün zekâlılık arasındaki ilişkiye dair Vygotsky’nin görüşleri temel alınmıştır. Bu yaklaşıma göre düşünce ve konuşma başlangıçta farklı köklere sahip olsa da, belirli bir noktada kesişir ve <b>Dil ve düşünce birbiriyle birleşerek gelişir</b>.",
+            "unit": 7,
+            "topic": "7.6. Dil, Düşünce ve Üstün Zekâlılık",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 7016,
+            "question": "Aşağıdakilerden hangisi üstün zekalı çocukların dil gelişimini etkileyen etmenlerden biri değildir?",
+            "options": [
+                "İki dillilik",
+                "Gözlemsel etkenler",
+                "Aile yapısı",
+                "Sosyoekonomik etkenler",
+                "Cinsiyet"
+            ],
+            "correctIndex": 1,
+            "explanation": "Üstün zekalı çocukların dil gelişimini etkileyen etmenler arasında; genetik, fizyoloji, algısal/bilişsel/nörolojik gelişim, fiziksel ve ruhsal durum, anne bebek etkileşimi ve sosyal çevre, cinsiyet, aile yapısı/iki dillilik ve sosyoekültürel/sosyoekonomik etkenler sayılmaktadır. <b>Gözlemsel etkenler</b>, bu gelişim üzerinde doğrudan bir etmen olarak kabul edilmez.",
+            "unit": 7,
+            "topic": "7.7. Dil Gelişimininde Etmenler",
+            "source": "Final Soruları 2021, Final Soruları 2023-2024, 2024 Mezuniyet Soruları",
+            "sourceInfo": "Soru 5, Soru 17, Soru 5"
+        },
+        {
+            "id": 8001,
+            "question": "Üstün zekâlı ve yetenekli çocukların eğitiminde bilginin daha yoğun, karmaşık ve ileri düzeyde sunulması aşağıdaki öğretimsel müdahalelerden hangisidir?",
+            "options": [
+                "Hızlandırma",
+                "Zenginleştirme",
+                "Destek Eğitim Odası",
+                "Farklılaştırma",
+                "Gruplama"
+            ],
+            "correctIndex": 0,
+            "explanation": "Öğretimin hızlandırılması (hızlandırma), bireyin normal eğitim programından daha ileri ve üst düzey bir programa tabi tutulması anlamına gelmektedir. Bu müdahalede bireye <b>daha karmaşık daha yoğun bir bilgi sunulur</b> ve kendi akran gruplarının aldığı eğitimin ötesinde bir eğitim alarak daha zorlayıcı etkinliklerin içerisinde yer alırlar.",
+            "unit": 8,
+            "topic": "8.2.1. Hızlandırma",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 8002,
+            "question": "Devlet okullarında sunulan sınıf yapısı; üstün zekalı ve yetenekliler eğitiminde kullanılan gruplama türlerinden hangisine örnektir?",
+            "options": [
+                "Esnek gruplama",
+                "Online sınıflar",
+                "Tam gün karma sınıflar",
+                "Geçici gruplama",
+                "Tam gün üstün zekalı ve yeteneklilere özel sınıflar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Devlet okullarında sunulan standart sınıf yapısı, üstün zekâlı ve yetenekli öğrencilerin tipik gelişim gösteren akranlarıyla bir arada olduğu <b>tam gün karma sınıflar</b> olarak adlandırılan gruplama türüne örnektir. Gruplama seçenekleri arasında yer alan bu yapı, genellikle yetenek gruplamasının en az düzeyde uygulandığı seçenektir.",
+            "unit": 8,
+            "topic": "8.2.2. Gruplama",
+            "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021, Final Soruları 2022-2023, 2023-2024 Final",
+            "sourceInfo": "Soru 23, Soru 17, Soru 10, Soru 5, Soru 1"
+        },
+        {
+            "id": 8003,
+            "question": "Devlet okullarında neden üstün yetenekli öğrenciler için özel sınıflar oluşturulmamaktadır?",
+            "options": [
+                "Çocuklar arasında ayrımcılık yaratacağı için",
+                "Ekonomik nedenlerle",
+                "Öğretmenler istemediği için",
+                "Üstün yeteneklileri eğitecek öğretmen bulunmadığı için",
+                "Veliler istemediği için"
+            ],
+            "correctIndex": 0,
+            "explanation": "Devlet okullarında üstün yetenekli öğrenciler için özel sınıflar oluşturulmamasının nedeni <b>çocuklar arasında ayrımcılık yaratacağı</b> düşüncesidir.",
+            "unit": 8,
+            "topic": "8.2.2. Gruplama",
+            "source": "Final Deneme Sınavı 2021",
+            "sourceInfo": "Soru 13"
+        },
+        {
+            "id": 8004,
+            "question": "Bireyi mümkün olduğunca çok konu ile tanıştırarak, bir çok konu ile ilgili fikir edinmesini amaçlayan zenginleştirme türü Renzulli’nin Okul Geneli Zenginleştirme Modelinin hangi türünü kapsamaktadır?",
+            "options": [
+                "Hızlandırma",
+                "I. Tür Zenginleştirme",
+                "Farklılaştırma",
+                "II. Tür Zenginleştirme",
+                "III. Tür Zenginleştirme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Renzulli’nin Okul Geneli Zenginleştirme Modeli’nde, <b>I. Tip zenginleştirme</b>, üstün zekâlı ve yetenekli bireyleri normal programda yer almayan ve mümkün olduğunca çok konu çalışma alanı ile tanıştırarak bu alanlarda deneyim kazanmalarını amaçlar.",
+            "unit": 8,
+            "topic": "8.2.3. Zenginleştirme",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 12"
+        },
+        {
+            "id": 8005,
+            "question": "Merkezinde öğrencinin yer aldığı ve öğrencinin ilgisi, hazır bulunuşluğu ve öğrenme profiline göre eğitim programının ögeleri olan içerik, süreç ve üründe uyarlama yapılması aşağıdaki öğretim müdahalelerden hangisidir?",
+            "options": [
+                "Farklılaştırma",
+                "Tam gün karma sınıflar",
+                "Hızlandırma",
+                "Zenginleştirme",
+                "Gruplama"
+            ],
+            "correctIndex": 0,
+            "explanation": "Eğitim programının farklılaştırılması (farklılaştırma), sınıftaki öğrencilerin bireysel farklılıklarına ve ihtiyaçlarına göre programda düzenlemeye gidilmesi ve öğretimin buna uygun hâle getirilmesidir. Öğretmen, öğrencilerin hazır bulunuşluk, ilgi ve öğrenme profili farklılıklarına göre içerik, süreç ve üründe uyarlamalar yapar.",
+            "unit": 8,
+            "topic": "8.2.4. Farklılaştırma",
+            "source": "Mezuniyet Soruları 2024",
+            "sourceInfo": "Soru 14, Soru 13"
+        },
+        {
+            "id": 8006,
+            "question": "Aşağıdakilerden hangisi zekâlı ve yetenekli bireylerin zihinsel özelliklerinden dolayı eğitim programlarında yapılacak uyarlamalardan birisi değildir?",
+            "options": [
+                "Zenginleştirilmiş eğitime tabi tutulmalıdır.",
+                "Düşünmeleri için zaman verilmelidir.",
+                "Hayat amaçları erken tespit edilmeli ve bu alana yönlendirilmelidir.",
+                "Üst düzey düşünme becerileri eğitim programına entegre edilmelidir.",
+                "Problem durumları sunularak, açık uçlu soru sorulmalıdır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Eğitim programlarında <b>hayat amaçlarının erken tespiti</b> yerine bireyin çok yönlü gelişimi ve yaratıcılığını destekleyen uyarlamalar yapılmalıdır. Üstün zekâlı bireylere; problem durumları sunulmalı, açık uçlu sorular sorulmalı, üst düzey düşünme becerileri entegre edilmeli ve zenginleştirilmiş eğitime tabi tutulmalıdır.",
+            "unit": 8,
+            "topic": "8.3. Zenginleştirme ve Farklılaştırma Uygulaması",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 9001,
+            "question": "Aşağıdaki yetersizlik durumlarından hangisinde üstün zekâ ve yetenek bir arada bulunmaz?",
+            "options": [
+                "Konuşma güçlüğü",
+                "İşitme yetersizliği",
+                "Otizm spektrum bozukluğu",
+                "Okuma güçlüğü",
+                "Zihin yetersizliği"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Zihin yetersizliği</b>, bilişsel işlevlerde genel bir eksiklik olarak tanımlanır ve bu durumda üstün zekâ veya yeteneklerin varlığı beklenmez. Diğer durumlar (konuşma güçlüğü, işitme yetersizliği, otizm spektrum bozukluğu ve okuma güçlüğü) üstün zekâ veya yeteneklerle birlikte bulunabilir, bu da 'iki kere farklı' durumunu oluşturur.",
+            "unit": 9,
+            "topic": "9.2. Çoklu Özel Gereksinimi Olan Üstün Zekâlı ve Yetenekliler",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 9002,
+            "question": "Birden fazla alanda üstün zekâlı ve yetenekli olan çocuklar için aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Bu çocuklardaki üstün zekâ ve yetenek potansiyeli, IQ ve akademi dışındaki alanlarda görülmez.",
+                "Asenkronize gelişim, farklı alanlardaki üstün zekâ ve yetenek potansiyelinin eş zamanlı olacak şekilde ortaya çıkmasını engelleyebilir.",
+                "Bu çocukların farklı alanlardaki üstün zekâ ve yetenek potansiyelleri, her zaman eş zamanlı olacak şekilde ortaya çıkar.",
+                "Bu çocukların hepsi, çok yüksek IQ sahibidirler.",
+                "Bu çocukların hepsi, IQ ve akademik alanlarda üstün zekâlı ve yeteneklidir."
+            ],
+            "correctIndex": 1,
+            "explanation": "Üstün zekâlı ve yetenekli çocukların gelişimi eş zamanlı olmayan gelişim (asenkronize gelişim) süreci içerisindedir. Bu durum, farklı yetenek alanlarındaki potansiyelin <b>eş zamanlı olacak şekilde ortaya çıkmasını engelleyebilir</b>.",
+            "unit": 9,
+            "topic": "9.3. Birden Fazla Alana İlişkin Yüksek Yeterlilik Görülen Çocuklar",
+            "source": "Final Soruları 2024-2025",
+            "sourceInfo": "Soru 3"
+        },
+        {
+            "id": 9003,
+            "question": "Aşağıdakilerden hangisi, iki kere farklı bir çocuk değildir?",
+            "options": [
+                "Yüksek IQ sahibi ve otizmi olan",
+                "Yüksek IQ sahibi ve yazma güçlüğü olan",
+                "Yüksek IQ sahibi ve işitme kaybı olan",
+                "Yüksek IQ sahibi ve resim alanında üstün yetenekli",
+                "Yüksek IQ sahibi ve diyabet hastası olan"
+            ],
+            "correctIndex": 3,
+            "explanation": "İki kere farklı çocuklar, hem bir özel yetenek alanına ilişkin yüksek yeterlilik hem de bir beceri alanına ilişkin <b>yetersizlik</b> görülen çocuklardır. Yüksek IQ’ya sahip olup aynı zamanda <b>resim alanında üstün yetenekli</b> olmak, birden fazla alana ilişkin yüksek yeterlilik görülen çocuk grubuna girer, iki kere farklı (yetersizlik içeren) çocuk grubuna girmez.",
+            "unit": 9,
+            "topic": "9.4. İki Kere Farklı Çocuklar",
+            "source": "Final Soruları 2022-2023, Final Soruları 2023-2024, Mezuniyet Soruları 2024",
+            "sourceInfo": "Soru 7, Soru 18, Soru 19"
+        },
+        {
+            "id": 9004,
+            "question": "Aşağıdakilerden hangisi, otizmi olan çocuklarda gözlemlenen tipik bir özellik değildir?",
+            "options": [
+                "Ani gerçekleşen değişikliklere aşırı tepki verme",
+                "Tutarsız boyutta harfler çizerek okunaksız yazı yazma",
+                "Göz kontağı kurmaktan kaçınma",
+                "Ailesi ve yaşıtlarından ziyade oyuncaklarıyla vakit geçirme",
+                "Sınırlı ilgi alanlarında, ısrarla aktivite yapmayı tercih etme"
+            ],
+            "correctIndex": 1,
+            "explanation": "<b>Tutarsız boyutta harfler çizerek okunaksız yazı yazma</b> tipik olarak otizmin değil, Öğrenme Güçlüğü’nün (özellikle Yazma Güçlüğü’nün) belirtileri arasında yer alır. Otizmi olan çocuklarda ise göz kontağı kurmaktan kaçınma ve sınırlı ilgi alanlarında ısrarla aktivite yapma gibi sosyal ve davranışsal farklılıklar gözlemlenir.",
+            "unit": 9,
+            "topic": "9.5. Otizm Spektrum Bozukluğu Olan Üstün Zekâlı ve Yetenekliler",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 8"
+        },
+        {
+            "id": 9005,
+            "question": "Özel öğrenme güçlüğü ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "options": [
+                "IQ seviyeleri düşüktür",
+                "Bu çocuklar aritmetik becerilerindeki başarısızlığa ek olarak karmaşık problemlerin çözümünde de başarısızlık sergilerler",
+                "Bu çocuklar matematiksel kavramların öğrenilmesinde sorunlar yaşarlar",
+                "Bu çocuklar yazının mekaniğinde yaşadıkları sorunlara ek olarak ifade etmek istediklerini, karşı tarafa aktarma konusunda problemler yaşarlar",
+                "Okumayı öğrenmenin mekaniğini ve okuduğunu anlamayı etkileyen bir öğrenme güçlüğüdür."
+            ],
+            "correctIndex": 0,
+            "explanation": "Özel öğrenme güçlüğü olan çocukların <b>IQ seviyeleri düşük değildir</b>. Aksine, üstün zekâlı çocuklarda da öğrenme güçlüğü görülebilir (İki Kere Farklı çocuklar). Öğrenme güçlüğü, matematiksel kavramların öğrenilmesi ve matematiksel ilişkilerin kurulmasını gerektiren işlemlerde sorunlar yaşanmasına yol açar, ancak temel olarak IQ seviyesinin düşüklüğünü göstermez.",
+            "unit": 9,
+            "topic": "9.6. Öğrenme Güçlüğü ve Üstün Zekâ ve Yetenek",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 16"
+        },
+        {
+            "id": 9006,
+            "question": "Öğrenme güçlüğü çeken çocuklarla ilgili hangisi yanlıştır?",
+            "options": [
+                "Yaşına uygun uzunlukta cümle kuramaz.",
+                "Yaşadığı kısa olayları, sırasını takip ederek anlatamaz.",
+                "Göz kontağı kuramazlar",
+                "Dil edinimi geç olur ve yaşının gerisinde kelime dağarcığı vardır.",
+                "Verilen yönergeleri takip ederken sorunlar yaşar."
+            ],
+            "correctIndex": 2,
+            "explanation": "<b>Göz kontağı kuramama</b>, daha çok Otizm Spektrum Bozukluğu olan çocuklarda görülen bir özelliktir. Öğrenme güçlüğü çeken çocuklar genellikle yaşına uygun cümle kuramama, olayları sırasıyla anlatamama, geç dil edinimi ve yönerge takip etmede sorunlar yaşayabilirler.",
+            "unit": 9,
+            "topic": "9.6. Öğrenme Güçlüğü ve Üstün Zekâ ve Yetenek",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 17"
+        },
+        {
+            "id": 9007,
+            "question": "Üstün zekâlı ve yetenekli çocuklarla ilgili aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Zihin yetersizliği görülmez.",
+                "Sadece akademik gereksinimleri vardır.",
+                "Öğrenme güçlüğü görülmez.",
+                "Hepsi çok yüksek IQ sahibidir.",
+                "Tamamı yetenek alanlarının hepsinde yüksek başarı ortaya koyar."
+            ],
+            "correctIndex": 0,
+            "explanation": "Üstün zekâlı ve yetenekli çocuklarda zihin yetersizliği genel olarak görülmez. Zira zihin yetersizliği, bilişsel işlevlerde genel bir eksiklik anlamına gelir ve üstün zekâ ile bir arada bulunması beklenmez.",
+            "unit": 9,
+            "topic": "9.7. Diğer Tür Yetersizlikleri Olan Üstün Zekâlı ve Yetenekliler",
+            "source": "Final Soruları 2024-2025",
+            "sourceInfo": "Soru 2, Soru 12"
+        },
+        {
+            "id": 10001,
+            "question": "Okul genelinde zenginleştirme modeli kaç tip zenginleştirme etkinliklerini esas almaktadır?",
+            "options": [
+                "8",
+                "5",
+                "4",
+                "3",
+                "2"
+            ],
+            "correctIndex": 3,
+            "explanation": "Renzulli’nin Okul Geneli Zenginleştirme Modeli, <b>3 tip</b> zenginleştirme etkinliğine dayanmaktadır: Tip I (Genel keşifsel faaliyetler), Tip II (Öğrenme ve düşünme becerileri eğitimi) ve Tip III (Bireysel veya küçük grup projeleri).",
+            "unit": 10,
+            "topic": "10.3.1. Okul Genelinde Zenginleştirme Modeli",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 3, Soru 9"
+        },
+        {
+            "id": 10002,
+            "question": "Aşağıdakilerden hangisi bütünleştirici eğitim modelinin 7 parçasından biri değildir?",
+            "options": [
+                "Seçim ve algılanan kontrol",
+                "Sezgi ve birleştirme",
+                "Güçlendirici dil ve davranış",
+                "Öğretmen otoritesi",
+                "Rahatlama ve stres azaltma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Barbara Clark tarafından geliştirilen Bütünleştirici Eğitim Modeli'nin 7 parçasından biri <b>Öğretmen otoritesi</b> değildir. Model, öğrencilerin sezgisel, duyuşsal, fiziksel ve bilişsel gelişimlerinin birleşmesine dayanır ve seçim, kontrol, sezgi, birleştirme, güçlü dil ve rahatlama gibi unsurları destekler.",
+            "unit": 10,
+            "topic": "10.3.2. Bütünleştirici Eğitim Modeli",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 5"
+        },
+        {
+            "id": 10003,
+            "question": "Barbara Clark (1986) tarafından geliştirilen bütünleştirici eğitim modelinin amacı; beyin üzerine araştırmaların bulgularını kullanarak, öğretmenlere evde ve okulda etkili öğretmeye ve öğrenmeye yardımcı olacak düzenli bir rehber sağlamaktır. Bu model insan beyninin ….., ….., ….. ve ….. olmak üzere başlıca dört fonksiyonunun birleşmesine dayanır. <br>Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangileri gelmelidir?",
+            "options": [
+                "sezgisel, duyuşsal, fiziksel, bilişsel",
+                "bütünsel, duygusal, sezgisel, fiziksel",
+                "bilişsel, bilgisel, duygusal, sezgisel",
+                "bilgisel, duygusal, fiziksel, sezgisel",
+                "işlemsel, duyuşsal, varoluşsal, fiziksel"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bütünleştirici eğitim modeli, insan beyninin başlıca dört fonksiyonunun birleşmesine dayanır: <b>sezgisel, duyuşsal, fiziksel</b> ve <b>bilişsel</b>. Bu model, beynin bütün fonksiyonlarının öğrencinin eğitsel deneyiminin bir parçası olmasını amaçlar.",
+            "unit": 10,
+            "topic": "10.3.2. Bütünleştirici Eğitim Modeli",
+            "source": "Final Soruları 2024-2025",
+            "sourceInfo": "Soru 17"
+        },
+        {
+            "id": 10004,
+            "question": "Otonom Öğrenenler Modeli kim/kimler tarafından geliştirilmiştir?",
+            "options": [
+                "Betss ve Knapp",
+                "Galton ve Terman",
+                "Necate Baykoç",
+                "Renzulli",
+                "Alfred Binet"
+            ],
+            "correctIndex": 0,
+            "explanation": "Otonom Öğrenenler Modeli (Autonomous Learners Model) <b>Betts ve Knapp</b> tarafından geliştirilmiştir.",
+            "unit": 10,
+            "topic": "10.3.3. Otonom Öğrenenler Modeli",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 13, Soru 16"
+        },
+        {
+            "id": 10005,
+            "question": "Bilim ve Sanat Merkezleri (Bilsem), Millî Eğitim Bakanlığı Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü tarafından üstün yetenekli çocukların eğitilmesi amacı ile hangi yılda kurulmuştur?",
+            "options": [
+                "2000",
+                "1993",
+                "2014",
+                "1985",
+                "2010"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bilim ve Sanat Merkezleri (BİLSEM) <b>1993</b> yılında Millî Eğitim Bakanlığı Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü tarafından kurulmuştur.",
+            "unit": 10,
+            "topic": "10.3.4. Bilim ve Sanat Merkezleri (BİLSEM)",
+            "source": "Final Soruları 2021, Final Soruları 2022-2023",
+            "sourceInfo": "Soru 20, Soru 15"
+        },
+        {
+            "id": 10006,
+            "question": "Bilimsel sanat merkezine kayıt yaptıran öğrenciler sırasıyla ……..,……..,…….,……..,………. programlarına alınırlar. Yukarıdaki boşluğa sırasıyla aşağıdakilerden hangisi gelmelidir?",
+            "options": [
+                "Destek Eğitimi, Uyum, Bireysel Yetenekleri Fark Ettirme, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi",
+                "Uyum, Bireysel Yetenekleri Fark Ettirme, Destek Eğitimi, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi",
+                "Uyum, Destek Eğitimi, Bireysel Yetenekleri Fark Ettirme, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi",
+                "Proje Üretimi ve Yönetimi, Özel Yetenekleri Geliştirme, Bireysel Yetenekleri Fark Ettirme, Destek Eğitimi ve Uyum",
+                "Bireysel Yetenekleri Fark Ettirme, Uyum, Destek Eğitimi, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bilim ve Sanat Merkezlerine kayıt yaptıran öğrenciler sırasıyla <b>Uyum, Destek Eğitimi, Bireysel Yetenekleri Fark Ettirme, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi</b> programlarına alınırlar.",
+            "unit": 10,
+            "topic": "10.3.4. Bilim ve Sanat Merkezleri (BİLSEM)",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 7"
+        },
+        {
+            "id": 11001,
+            "question": "Aşağıdakilerden hangisi 21. Yüzyıl Becerileri İçin Ortaklık Platformu tarafından tanımlanan 21. yüzyıl becerilerinden biri değildir?",
+            "options": [
+                "Girişim ve özyönetim",
+                "Medya okuryazarlığı",
+                "Eleştirel düşünme ve problem çözme",
+                "Akademik performans ve başarı",
+                "Esneklik ve uyum"
+            ],
+            "correctIndex": 3,
+            "explanation": "21. Yüzyıl becerileri arasında Girişim, Medya okuryazarlığı, Eleştirel düşünme ve Esneklik yer alırken, <b>Akademik performans ve başarı</b> doğrudan bu becerilerden biri olarak tanımlanmamıştır.",
+            "unit": 11,
+            "topic": "11.1. Geleceğin Dünyası ve Türkiye",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 11002,
+            "question": "Eğitim, “potansiyeli açığa çıkarmak” olarak kabul edilirse, aşağıdaki çıkarımlardan hangisi yapılamaz?",
+            "options": [
+                "Aslolan, potansiyel yeteneklerin açığa çıkarılarak ürüne dönüştürülmesidir.",
+                "İnsana yapılacak müdahahelerde varoluşuna saygı duymak esastır.",
+                "İnsan dünyaya belirli bir potansiyelle gelmektedir.",
+                "İnsan kendi hayatının nesnesi değil, öznesidir.",
+                "İnsan bir “tabula rasa” (boş levha) olarak dünyaya gelir."
+            ],
+            "correctIndex": 4,
+            "explanation": "Eğitimin potansiyeli açığa çıkarma süreci olarak görülmesi, bireyin doğuştan getirdiği bir potansiyeli olduğunu varsayar. Bu yaklaşıma göre, <b>İnsan bir “tabula rasa” (boş levha) olarak dünyaya gelir</b> çıkarımı yapılamaz.",
+            "unit": 11,
+            "topic": "11.2. İnsana Bakış Açımız",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 11003,
+            "question": "Yetenek Odaklı Eğitim Modeli açısından en uygun tanım hangisidir?",
+            "options": [
+                "Toplumsal miras ve kültürü yeni nesillere aktararak toplumla uyumu sağlama süreci",
+                "İnsan zihnini geliştirerek çevreyle uyum sağlama becerilerini geliştirme süreci",
+                "İnsan doğasına saygı duyarak potansiyelini açığa çıkarma süreci",
+                "Çevreyle etkileşim yoluyla istendik yönde kalıcı izli davranış değişikliği gerçekleştirme süreci",
+                "Problem çözme becerilerini kazandırarak toplumun saygın bir üyesi haline getirme süreci"
+            ],
+            "correctIndex": 2,
+            "explanation": "Yetenek Odaklı Eğitim Modeli, <b>insan doğasına saygı duyarak potansiyelini açığa çıkarma süreci</b> olarak tanımlanır. Bu model, bireyin doğal yeteneklerini ve varoluşunu merkezine alır.",
+            "unit": 11,
+            "topic": "11.3. Eğitim Algımız ve Eğitimden Beklentilerimiz",
+            "source": "Final Soruları 2024-2025, Final Soruları 2022-2023",
+            "sourceInfo": "Soru 13, Soru 10"
+        },
+        {
+            "id": 11004,
+            "question": "Aşağıdakilerden hangisi endüstri 4.0 ile kişilerin hayatına giren teknolojik gelişmelerden değildir?",
+            "options": [
+                "Bilgisayarın icadı",
+                "Artırılmış gerçeklik",
+                "Nöroteknoloji",
+                "Yapay zeka teknolojileri",
+                "Veri madenciliği"
+            ],
+            "correctIndex": 0,
+            "explanation": "Endüstri 4.0, <b>Yapay zeka teknolojileri, Artırılmış gerçeklik, Nöroteknoloji</b> ve <b>Veri madenciliği</b> gibi teknolojik gelişmeleri içerir. Bilgisayarın icadı ise Endüstri 4.0 öncesi bir gelişmedir.",
+            "unit": 11,
+            "topic": "11.3. Eğitim Algımız ve Eğitimden Beklentilerimiz",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 12001,
+            "question": "Yaratıcılığın yatırım modelinde Sternberg ve Lubart (1991) yaratıcılığın altı birbirinden bağımsız ama birbiri ile ilişkili altı faktörden oluştuğunu belirtmektedir. Aşağıdakilerden hangisi bu faktörlerden değildir?",
+            "options": [
+                "Bilgi",
+                "Düşünme tarzı",
+                "Çevresel faktörler",
+                "Motivasyon",
+                "İlişkiler"
+            ],
+            "correctIndex": 4,
+            "explanation": "Sternberg ve Lubart'ın Yaratıcılığın Yatırım Modeli'nde Bilgi, Düşünme Tarzı, Çevresel Faktörler, Motivasyon (ve ayrıca Zekâ, Kişilik) yer alır. <b>İlişkiler</b> bu altı faktörden biri değildir.",
+            "unit": 12,
+            "topic": "12.2. Üstün Zekâlı ve Yetenekli Bireyler ve Yaratıcılık",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 13"
+        },
+        {
+            "id": 12002,
+            "question": "Hayal kurma, nesneleri, fikirleri, olayları vs. aklın gözünden görme, zihinsel olarak imge ve fikirleri yönlendirme becerisi hangi yaratıcı düşünme yeteneğinin göstergesidir?",
+            "options": [
+                "Özgünlük",
+                "Akıcılık",
+                "Esneklik",
+                "Hayal kurma",
+                "Soyutluk"
+            ],
+            "correctIndex": 3,
+            "explanation": "Hayal kurma, nesneleri, fikirleri ve olayları zihinsel olarak görme ve yönlendirme becerisidir.",
+            "unit": 12,
+            "topic": "12.4. Yaratıcı Düşünme",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 12003,
+            "question": "Etkililik, maliyet, tutarlılık gibi dış ölçütlere göre düşüncelerin değerlendirilmesi aşağıdaki eleştirel düşünme beceri basamaklarından hangisine aittir?",
+            "options": [
+                "Analoji bulma",
+                "Değerlendirme",
+                "Yaratma",
+                "Araştırma",
+                "Çözümleme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Düşüncelerin dış ölçütlere (etkililik, maliyet, tutarlılık) göre incelenmesi ve bir karara varılması <b>Değerlendirme</b> basamağına aittir.",
+            "unit": 12,
+            "topic": "12.4. Yaratıcı Düşünme",
+            "source": "Final Soruları 2024-2025",
+            "sourceInfo": "Soru 11, Soru 20"
+        },
+        {
+            "id": 12004,
+            "question": "Güvercinden navigasyonun üretimi, akrepten anestezinin üretimi ağırlıklı ve öncelikli hangi yaratıcı düşünme yeteneğinin göstergesidir?",
+            "options": [
+                "Aktarım",
+                "Özgünlük",
+                "Esneklik",
+                "Zenginleştirme",
+                "Görselleştirme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bu örnekler, bir alandaki özelliğin (güvercinin yön bulma yeteneği veya akrebin zehrindeki kimyasal özellikler) alınarak başka bir alana (navigasyon, anestezi) <b>Aktarım</b> yapıldığını ve yeni bir ürün/fikir ortaya konduğunu gösterir. Aktarım, yaratıcı düşünme yeteneğinin göstergesidir.",
+            "unit": 12,
+            "topic": "12.4. Yaratıcı Düşünme",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 14"
+        },
+        {
+            "id": 12005,
+            "question": "Bir tasarımı geliştirmek için seçilen herhangi bir şeyin özelliklerinin o tasarıma aktarıldığı yaratıcı düşünme tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Zorlanan ilişkiler",
+                "Scamper",
+                "Altı şapkalı düşünme tekniği",
+                "Sinektik",
+                "Plus minus interesting"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Zorlanan İlişkiler</b>, seçilen herhangi bir şeyin özelliklerinin tasarıma aktarılması yoluyla yeni fikirler üretilmesini amaçlayan yaratıcı düşünme tekniğidir. Bu, Beyin Fırtınasının bir çeşidi olarak transfer etme için kullanılır.",
+            "unit": 12,
+            "topic": "12.7. Yaratıcı Düşünme Teknikleri ve Örnek Uygulamaları",
+            "source": "Final Soruları 2024-2025, Final Soruları 2021-2022",
+            "sourceInfo": "Soru 1, Soru 9"
+        },
+        {
+            "id": 13001,
+            "question": "Müzikal üstün yetenekli bir çocuk en erken hangi yaşlarda gözlemlenebilir?",
+            "options": [
+                "11-14 yaş",
+                "14-15 yaş",
+                "2-6 yaş",
+                "9-10 yaş",
+                "7-8 yaş"
+            ],
+            "correctIndex": 2,
+            "explanation": "Çocukların yaklaşık yarısında özel müziksel kımıldamalar <b>2-6 yaşları arasında</b> görülmeye başlar. Bu dönem, müzikal üstün yeteneklerin en erken gözlemlenebileceği dönemdir.",
+            "unit": 13,
+            "topic": "13.3. Müzikal Üstün Yetenekli Çocuklar Nasıl Farkedilir?",
+            "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2024-2025, Final Soruları 2021-2022, Final Soruları 2023-2024, Mezuniyet Soruları 2024",
+            "sourceInfo": "Soru 22, Soru 33, Soru 10, Soru 14, Soru 20, Soru 15"
+        },
+        {
+            "id": 13002,
+            "question": "Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için kimler tarafından aday gösterilirler?",
+            "options": [
+                "Veliler",
+                "Öğretmenler Kurulu",
+                "Rehber öğretmenler",
+                "Okul müdürü",
+                "Sınıf ve şube öğretmenleri"
+            ],
+            "correctIndex": 4,
+            "explanation": "Müzik alanında yetenekli ilköğretim çağındaki öğrenciler, Bilim ve Sanat Merkezleri’ne alım için <b>sınıf ve şube öğretmenleri</b> tarafından gözlemlenerek aday gösterilirler.",
+            "unit": 13,
+            "topic": "13.3. Müzikal Üstün Yetenekli Çocuklar Nasıl Farkedilir?",
+            "source": "Final Deneme Sınavı 2021, Final Soruları 2024-2025, Final Soruları 2022-2023, Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 9, Soru 19, Soru 13, Soru 15"
+        },
+        {
+            "id": 13003,
+            "question": "Aşağıdaki hangi kurumların lise düzeyini başarıyla bitiren öğrenciler, mezun oldukları okulun bağlı olduğu üniversitenin ilgili lisans bölümüne doğrudan geçiş yapabilmektedirler?",
+            "options": [
+                "Fen liseleri",
+                "Bilim Sanat Merkezleri",
+                "Konservatuarlar",
+                "Anadolu Güzel Sanatlar Liseleri",
+                "Spor liseleri"
+            ],
+            "correctIndex": 2,
+            "explanation": "Lise düzeyini başarıyla bitiren <b>Konservatuar</b> öğrencileri, mezun oldukları okulun bağlı olduğu üniversitenin ilgili lisans bölümüne doğrudan geçiş yapabilmektedirler.",
+            "unit": 13,
+            "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
+            "source": "Final Soruları 2021-2022, Final Soruları 2023-2024",
+            "sourceInfo": "Soru 12, Soru 7"
+        },
+        {
+            "id": 13004,
+            "question": "Aşağıdakilerden hangisi Howard Gardner’in “Müzikal – ritmik zeka” olarak adlandırdığı yetenek alanı ile ilgili değildir?",
+            "options": [
+                "Melodiyi doğru duyma",
+                "Ritimleri dinleme",
+                "Melodiyi tekrar edebilme",
+                "Farklı ses perdelerini algılayabilme",
+                "Melodiyi çalma"
+            ],
+            "correctIndex": 1,
+            "explanation": "Gardner’ın Müzikal-ritmik zekâsı farklı ses perdelerini algılayabilme, melodiyi doğru duyma, melodiyi tekrar edebilme ve melodiyi çalma gibi aktif üretim ve algı becerileriyle ilişkilidir. <b>Ritimleri dinleme</b>, bu alandaki aktif yeteneğin bir parçası olarak kabul edilmemektedir.",
+            "unit": 13,
+            "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 23"
+        },
+        {
+            "id": 13005,
+            "question": "Anadolu Güzel Sanatlar liselerine hangi yolla öğrenci alınmaktadır?",
+            "options": [
+                "Yetenek sınavı ile",
+                "Öğretmenler Kurulu kararı ile",
+                "Mezun olduğu okulun tavsiyesi ile",
+                "Okul müdürünün önerisi ile",
+                "Öğretmenin yönlendirmesiyle"
+            ],
+            "correctIndex": 0,
+            "explanation": "Anadolu Güzel Sanatlar liselerine öğrenci alımı <b>Yetenek sınavı</b> ile yapılmaktadır.",
+            "unit": 13,
+            "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
+            "source": "Final Deneme Sınavı 2021",
+            "sourceInfo": "Soru 24"
+        },
+        {
+            "id": 13006,
+            "question": "Anadolu Güzel Sanatlar Liselerine başvurabilmek için ön şart, adayın geldiği kurumda tüm sınıflarda aldığı müzik derslerinin ortalamasının en az kaç olmasıdır?",
+            "options": [
+                "1",
+                "4",
+                "3",
+                "2",
+                "5"
+            ],
+            "correctIndex": 1,
+            "explanation": "Anadolu Güzel Sanatlar Liselerine başvurabilmek için ön şart, adayın geldiği kurumda tüm sınıflarda aldığı müzik derslerinin ortalamasının en az <b>4</b> olmasıdır.",
+            "unit": 13,
+            "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 1"
+        },
+        {
+            "id": 14001,
+            "question": "Aşağıdakilerden hangisi ailenin çocuğuna karşı öncelikli görev ve sorumlulukları arasında yer almaz?",
+            "options": [
+                "Öğretmen seçimi",
+                "Güvenli bağlanma oluşturulması",
+                "Sağlıklı beslenme ihtiyaçlarının karşılanması",
+                "Barınma ihtiyacının karşılanması",
+                "Koşulsuz sevgi verilmesi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Çocukların fiziksel, duygusal ve sosyal tüm gereksinimlerini fark etme ve destekleme sorumluluğu öncelikli olarak ailededir. Barınma, beslenme, koşulsuz sevgi ve güvenli bağlanma ailenin temel sorumluluklarıyken, <b>öğretmen seçimi</b> ailenin öncelikli görev ve sorumlulukları arasında yer almaz.",
+            "unit": 14,
+            "topic": "14.1. Üstün Zekâlı Çocuğun Ailesi Olmak",
+            "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2022-2023",
+            "sourceInfo": "Soru 6, Soru 32, Soru 16"
+        },
+        {
+            "id": 14002,
+            "question": "Ebeveynlik becerileri ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Ebeveynlik becerileri yıllar içinde değişmez standarttır.",
+                "Ebeveynlik becerileri evrenseldir.",
+                "Ebeveynlik becerilerinin eğitimlerle geliştirilmesi mümkündür.",
+                "Ebeveynlik becerileri doğuştan gelir ve değiştirilemez",
+                "Ülkemizde etkililiği kanıtlanmış bir ebeveyn eğitim programı yoktur."
+            ],
+            "correctIndex": 2,
+            "explanation": "Ebeveynlik becerilerinin, çocukların gelişimini desteklemek amacıyla <b>eğitimlerle geliştirilmesi mümkündür</b>.",
+            "unit": 14,
+            "topic": "14.1. Üstün Zekâlı Çocuğun Ailesi Olmak",
+            "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2021-2022",
+            "sourceInfo": "Soru 33, Soru 18, Soru 10"
+        },
+        {
+            "id": 14003,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı çocuğunu desteklemek isteyen ebeveynler için doğru ve etkili bir öneri değildir?",
+            "options": [
+                "Kariyer seçimlerinde çevresel koşullar etkilidir.",
+                "Yaratıcı mükemmellikleri ile tanınan bireylerin çocukları daima yaratıcı olur.",
+                "Reformcuların hepsi reformist ailelerden gelir.",
+                "Merak ve keşfetme duygusu sadece kalıtım ile geçer.",
+                "Politikacıların babaları da politikacıdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Yaratıcı mükemmellikleri ile tanınan bireylerin çocuklarının <b>daima yaratıcı olacağını</b> varsaymak yanlıştır. Üstün zekâ, kalıtımsal ve çevresel bileşenleri içeren karmaşık bir süreçtir ve çocukların başarısı genetik aktarımı garanti etmez.",
+            "unit": 14,
+            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
+            "source": "Final Deneme Sınavı 2021",
+            "sourceInfo": "Soru 1, Soru 4"
+        },
+        {
+            "id": 14004,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı bir çocuk yetiştirmeyi zorlaştırabilen unsurlardan biri değildir?",
+            "options": [
+                "Kısıtlı finansal kaynaklar",
+                "Alanla ilgili ulaşılabilir kaynakların azlığı",
+                "Üstün zekâlı çocukların uyum güçlüğü yaşadıklarına yönelik inanışlar",
+                "Üstün zekâlı çocuklara eğitimin gereksiz olduğuna yönelik inanışlar",
+                "Güçlü okul aile iş birliği"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Güçlü okul aile iş birliği</b>, üstün zekâlı çocukların eğitimi ve gelişimini destekleyen olumlu bir unsurdur. Diğer seçenekler ise üstün zekâlı çocuk yetiştirmeyi zorlaştıran faktörler arasında sayılabilir.",
+            "unit": 14,
+            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 10"
+        },
+        {
+            "id": 14005,
+            "question": "“20. Yüzyıl’a damgasını vurmuş politikacı, reformcu ve sanatçı gibi seçkin kişilerin biyografilerini inceleyen uzman, incelenen seçkin kişilerin ebeveynlerinin de entelektüel ya da yaratıcı mükemmellik ve tanınırlığa sahip ebeveynler olduklarını görür”. Bu veri aşağıdaki ifadelerden hangisi ile açıklanabilir?",
+            "options": [
+                "Kariyer seçimlerinde çevresel koşullar etkilidir.",
+                "Yaratıcı mükemmellikleri ile tanınan bireylerin çocukları daima yaratıcı olur.",
+                "Reformcuların hepsi reformist ailelerden gelir.",
+                "Merak ve keşfetme duygusu sadece kalıtım ile geçer.",
+                "Politikacıların babaları da politikacıdır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Seçkin kişilerin ebeveynlerinin de başarılı olması, çocuğun kariyer gelişiminde genetik faktörlerin yanı sıra, ebeveynlerin sağladığı <b>çevresel koşulların ve rol model olmanın etkili olduğunu</b> gösterir.",
+            "unit": 14,
+            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 25"
+        },
+        {
+            "id": 14006,
+            "question": "Aşağıdakilerden hangisi üstün zekalı çocukların ebeveynlerinden elde edilen bilgilere göre bebeklik yıllarında özellikle doğumu takip eden ilk aylarda gösterdikleri özelliklerden değildir?",
+            "options": [
+                "Kitaplara olağanüstü ilgi",
+                "Uyaranlara karşı tepkisizlik",
+                "Uzun dikkat süresi",
+                "Hızlı dil gelişimi",
+                "Hızlı öğrenme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Üstün zekalı çocuklar, erken yaşlardan itibaren çevresel uyaranlara karşı oldukça duyarlı ve tepkili olurlar. Bu nedenle <b>Uyaranlara karşı tepkisizlik</b>, tipik olarak gözlemlenen bir özellik değildir. Hızlı öğrenme, uzun dikkat süresi ve kitaplara ilgi bu çocukların erken dönem özelliklerindendir.",
+            "unit": 14,
+            "topic": "14.2.1. Fark Etme",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 20, Soru 6"
+        },
+        {
+            "id": 14007,
+            "question": "Düşük başarı gösteren üstün zekalı çocuklar erken dönemde fark edilip gerekli müdahale yapılırsa, başarısızlık durumu kronikleşmeden kolay bir şekilde çözüme ulaştırılabilmektedir. Aşağıdakilerden hangisi başarıyı desteklemek için uygun bir müdahale değildir?",
+            "options": [
+                "Arkadaş ilişkileri azaltılmalı",
+                "Çalışma alışkanlıklarını gözden geçirme",
+                "Okul ile işbirliği kurulmalı",
+                "Başarıdaki ani değişimler yakından takip edilmeli",
+                "Başarısızlığın altında yatan etmenler araştırılmalı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Başarıyı desteklemek için uygun müdahaleler arasında çalışma alışkanlıklarını gözden geçirme ve okul ile işbirliği kurma gibi destekleyici adımlar yer alır. <b>Arkadaş ilişkilerinin azaltılması</b>, üstün zekâlı çocukların sosyal ve duygusal gelişimini olumsuz etkileyebileceği için uygun bir müdahale değildir.",
+            "unit": 14,
+            "topic": "14.2.3. Destek/Paylaşım",
+            "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2024-2025",
+            "sourceInfo": "Soru 18, Soru 24, Soru 8"
+        }
+    ],
+    "meta": {
+        "course_name": "Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri",
+        "term": "5. Dönem",
+        "university": "İstanbul Üniversitesi",
+        "department": "Çocuk Gelişimi"
+    }
+}
