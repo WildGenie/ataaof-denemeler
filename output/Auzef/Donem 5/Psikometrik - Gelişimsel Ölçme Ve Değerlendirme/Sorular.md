@@ -348,7 +348,7 @@
     - D-) Ebeveynlik stili testleri
     - E-) Memnuniyet anketleri
 
-    > **Açıklama:** Yaş normları, test sonucunun yaşa bağlı olarak değişebileceği durumlarda, bireyin performansını kendi yaş grubuna göre değerlendirmeyi sağlar. Özellikle gelişimin hızlı olduğu \*\*Gelişim testleri\*\* için yaş normları önemlidir.
+    > **Açıklama:** Yaş normları, test sonucunun yaşa bağlı olarak değişebileceği durumlarda, bireyin performansını kendi yaş grubuna göre değerlendirmeyi sağlar. Özellikle gelişimin hızlı olduğu **Gelişim testleri** için yaş normları önemlidir.
 
     <hr />
 
@@ -417,7 +417,7 @@
     - D-) Madde sayısının artırılması
     - E-) Örneklem büyüklüğünün artırılması
 
-    > **Açıklama:** Güvenirliği artıran faktörler arasında puanlamanın nesnel olması, madde sayısının ve örneklem büyüklüğünün artırılması sayılabilir. Ancak bir ölçüm aracının güvenirliği için <b>testin homojen</b> (aynı değişkeni ölçen) bir yapıya sahip olması gerekir; \*\*heterojen yapı\*\* güvenirliği azaltan bir faktördür.
+    > **Açıklama:** Güvenirliği artıran faktörler arasında puanlamanın nesnel olması, madde sayısının ve örneklem büyüklüğünün artırılması sayılabilir. Ancak bir ölçüm aracının güvenirliği için <b>testin homojen</b> (aynı değişkeni ölçen) bir yapıya sahip olması gerekir; **heterojen yapı** güvenirliği azaltan bir faktördür.
 
     <hr />
 
@@ -430,7 +430,7 @@
     - D-) I ve III
     - **Cevap E-) I ve IV**
 
-    > **Açıklama:** Güvenirlik analiz yöntemleri arasında \*\*İç tutarlılık\*\* ve \*\*Paralel formlar\*\* yer alır. Faktör analizi geçerlik, yüzdelik normlar ise norm belirleme yöntemidir.
+    > **Açıklama:** Güvenirlik analiz yöntemleri arasında **İç tutarlılık** ve **Paralel formlar** yer alır. Faktör analizi geçerlik, yüzdelik normlar ise norm belirleme yöntemidir.
 
     <hr />
 
@@ -443,7 +443,7 @@
     - D-) Faktör analizi
     - E-) Ölçütle karşılaştırma
 
-    > **Açıklama:** Kapsam geçerliği, ölçüm aracının ölçmeyi amaçladığı değişkenle ilişkili tüm özellikleri kapsayıp kapsamadığı ile ilgilidir. Bu geçerliği belirlemek için mantıksal yöntemler kapsamında \*\*Belirtke tablosu\*\* kullanılır.
+    > **Açıklama:** Kapsam geçerliği, ölçüm aracının ölçmeyi amaçladığı değişkenle ilişkili tüm özellikleri kapsayıp kapsamadığı ile ilgilidir. Bu geçerliği belirlemek için mantıksal yöntemler kapsamında **Belirtke tablosu** kullanılır.
 
     <hr />
 1. Ölçeğin kapsam geçerliği nedir?
@@ -466,7 +466,7 @@
     - D-) Test tekrar test skorlarının karşılaştırılması
     - E-) Paralel formların karşılaştırılması
 
-    > **Açıklama:** Yapı geçerliği, ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturup oluşturmadığını ölçer. Hesaplamada ise \*\*Faktör analizi\*\* kullanılır.
+    > **Açıklama:** Yapı geçerliği, ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturup oluşturmadığını ölçer. Hesaplamada ise **Faktör analizi** kullanılır.
 
     <hr />
 1. Yapı geçerliğinin tanımı aşağıdakilerden hangisidir?
@@ -489,7 +489,7 @@
     - D-) Paralel formlar
     - **Cevap E-) Faktör analizi**
 
-    > **Açıklama:** Geçerlik çalışmaları, ölçüm aracının belirli bir özelliği doğru şekilde ölçme yeteneğini ifade eder. Yapı geçerliğini göstermek için ise sık başvurulan yöntemlerden biri \*\*Faktör analizidir\*\*.
+    > **Açıklama:** Geçerlik çalışmaları, ölçüm aracının belirli bir özelliği doğru şekilde ölçme yeteneğini ifade eder. Yapı geçerliğini göstermek için ise sık başvurulan yöntemlerden biri **Faktör analizidir**.
 
     <hr />
 
@@ -543,7 +543,7 @@
     - D-) Ebeveynin değerlendirme sürecinin dışında tutulmasının
     - E-) Testlerin her zaman tek seansta tamamlanmasının
 
-    > **Açıklama:** Çocukların gelişimsel özelliklerinin dikkate alınması, belirli becerilerin kazanımı açısından gelişimin bazı dönemlerinin \*\*kritik dönem\*\* olarak kabul edilmesi nedeniyle önemlidir. Bu, \*\*gelişim evrelerine göre önceliklerin belirlenmesi\*\* gerektiği anlamına gelir.
+    > **Açıklama:** Çocukların gelişimsel özelliklerinin dikkate alınması, belirli becerilerin kazanımı açısından gelişimin bazı dönemlerinin **kritik dönem** olarak kabul edilmesi nedeniyle önemlidir. Bu, **gelişim evrelerine göre önceliklerin belirlenmesi** gerektiği anlamına gelir.
 
     <hr />
 
@@ -556,7 +556,7 @@
     - D-) Odada 10 dakika kadar sessiz bir şekilde beklenmesi
     - E-) Odadaki bütün oyuncakların çocuğun önüne koyulması
 
-    > **Açıklama:** Gelişimsel değerlendirme araçları uygulanmadan önce, uygulayıcının çocuğun \*\*ebeveyninden bilgi alması\*\* ve çocukla kısa bir süre oyun oynayarak etkileşim kurması yararlı olacaktır. Değerlendirme öncesi ebeveynden bilgi alınması, çocuğun gelişimsel düzeyi hakkında ön bilgi sağlar.
+    > **Açıklama:** Gelişimsel değerlendirme araçları uygulanmadan önce, uygulayıcının çocuğun **ebeveyninden bilgi alması** ve çocukla kısa bir süre oyun oynayarak etkileşim kurması yararlı olacaktır. Değerlendirme öncesi ebeveynden bilgi alınması, çocuğun gelişimsel düzeyi hakkında ön bilgi sağlar.
 
     <hr />
 1. Aşağıdaki ifadelerden hangisi gelişimsel değerlendirme konusunda <u>yanlıştır</u>? *(2 kez soruldu)*
@@ -566,7 +566,7 @@
     - D-) Değerlendirme öncesi çocuk hakkında ebeveyninden bilgi alınır.
     - E-) Prematüre bebeklerin gelişiminde düzeltilmiş yaş kullanılır.
 
-    > **Açıklama:** Gelişimsel değerlendirmede, yalnızca çocuktan değil; ebeveyn, öğretmen ve sosyal çevre gibi \*\*çok kaynaklı\*\* ve \*\*bütüncül\*\* bilgi alınması esastır.
+    > **Açıklama:** Gelişimsel değerlendirmede, yalnızca çocuktan değil; ebeveyn, öğretmen ve sosyal çevre gibi **çok kaynaklı** ve **bütüncül** bilgi alınması esastır.
 
     <hr />
 
@@ -579,7 +579,7 @@
     - D-) Çocuğun test sırasında soru sormaması için
     - E-) Çocuğun psikoloji konusundaki bilgisini artırmak için
 
-    > **Açıklama:** Çocuğun değerlendirme öncesinde bilgilendirilmesi, çocuğun süreci daha iyi anlamasını, iş birliğini ve güveni artırarak değerlendirme süresince daha sağlıklı ve \*\*uygun performans sergilemesi\*\* için gereklidir.
+    > **Açıklama:** Çocuğun değerlendirme öncesinde bilgilendirilmesi, çocuğun süreci daha iyi anlamasını, iş birliğini ve güveni artırarak değerlendirme süresince daha sağlıklı ve **uygun performans sergilemesi** için gereklidir.
 
     <hr />
 
@@ -592,7 +592,7 @@
     - D-) Çocuğun velisini rahatlatmak için
     - E-) Çocuğun mutlu olup uygulayıcıyı sevmesi için
 
-    > **Açıklama:** Isınma etkinliği, çocuğun hem değerlendiriciye hem de değerlendirme ortamına alışmasını kolaylaştırarak kendini daha rahat hissetmesine yardımcı olur. Bu, çocuğun \*\*yeni ortam ve kişiye uyum göstermesine\*\* yardımcı olur.
+    > **Açıklama:** Isınma etkinliği, çocuğun hem değerlendiriciye hem de değerlendirme ortamına alışmasını kolaylaştırarak kendini daha rahat hissetmesine yardımcı olur. Bu, çocuğun **yeni ortam ve kişiye uyum göstermesine** yardımcı olur.
 
     <hr />
 1. Çocuklarda ölçme işlemi sırasında çocuğun ölçüme uyumunun artırılabilmesi için yukarıdakilerden hangileri yapılabilir?<br />I. Ölçme işlemi sırasında başka şeylerle meşgul olmak<br />II. Ölçme işlemi sırasında çocuğun velisinin çocuğun doğru cevaplarını takdir etmesini istemek<br />III. Ölçüm öncesinde çocukla kısa bir ısınma faaliyeti yapmak<br />IV. Gerekli durumlarda ölçme işlemine ara vermek
@@ -612,7 +612,7 @@
     - **Cevap D-) Çocuğun güven duygusunu artırarak iş birliğini güçlendirir.**
     - E-) Değerlendirme sürecinin ebeveynin kontrolünde gerçekleştirilmesini sağlar
 
-    > **Açıklama:** Çocukla iyi bir çalışma ilişkisi kurmak, \*\*çocuğun güven duygusunu artırır\*\* ve bu durum \*\*test iş birliğini kolaylaştırır\*\*. İçtenlikle karşılamak ve uygun bir ton kullanmak, ilk teması olumlu kılacak davranışlardır.
+    > **Açıklama:** Çocukla iyi bir çalışma ilişkisi kurmak, **çocuğun güven duygusunu artırır** ve bu durum **test iş birliğini kolaylaştırır**. İçtenlikle karşılamak ve uygun bir ton kullanmak, ilk teması olumlu kılacak davranışlardır.
 
     <hr />
 1. Çocuklarda ölçme işlemi öncesinde ısınma faaliyeti kullanılmasının sebebi nedir?
@@ -622,7 +622,7 @@
     - D-) Çocuğun ebeveynini etkilemek
     - E-) Çocuğun özgüvenini olumlu etkilemek
 
-    > **Açıklama:** Isınma etkinliği, çocuğun hem değerlendiriciye hem de değerlendirme ortamına alışmasını kolaylaştırarak kendini daha rahat hissetmesine yardımcı olur. Bu, \*\*yeni ortam ve kişiye uyum göstermesine yardımcı olmak\*\* amacıyla yapılır.
+    > **Açıklama:** Isınma etkinliği, çocuğun hem değerlendiriciye hem de değerlendirme ortamına alışmasını kolaylaştırarak kendini daha rahat hissetmesine yardımcı olur. Bu, **yeni ortam ve kişiye uyum göstermesine yardımcı olmak** amacıyla yapılır.
 
     <hr />
 
@@ -635,7 +635,7 @@
     - D-) I ve II
     - E-) II ve III
 
-    > **Açıklama:** Yanlış olan ifadeler: \*\*I. Değerlendirmede çocuğun güçlü yönlerine odaklanılmalıdır\*\*, eksiklerine değil. \*\*III. Çocukların dikkat süreleri erişkinlerden kısadır\*\*.
+    > **Açıklama:** Yanlış olan ifadeler: **I. Değerlendirmede çocuğun güçlü yönlerine odaklanılmalıdır**, eksiklerine değil. **III. Çocukların dikkat süreleri erişkinlerden kısadır**.
 
     <hr />
 1. Aşağıdakilerden hangisi çocuğun değerlendirme sürecinde motivasyonunu artırmak için kullanılabilir?
@@ -645,7 +645,7 @@
     - D-) Değerlendirme sürecinde yapılacakların çocuktan gizli tutulması
     - E-) Değerlendirmenin mola verilmeden tamamlanması
 
-    > **Açıklama:** Değerlendirme sonunda, çocuğun gösterdiği çaba, dikkatini sürdürme isteği ve göreve katılımı \*\*takdir edilmelidir\*\*. Bu yaklaşım, çocuğun sürece karşı olumlu bir tutum geliştirmesine ve motivasyonunun artmasına katkı sağlar.
+    > **Açıklama:** Değerlendirme sonunda, çocuğun gösterdiği çaba, dikkatini sürdürme isteği ve göreve katılımı **takdir edilmelidir**. Bu yaklaşım, çocuğun sürece karşı olumlu bir tutum geliştirmesine ve motivasyonunun artmasına katkı sağlar.
 
     <hr />
 
@@ -658,7 +658,7 @@
     - D-) Tüm çocuklara iki kere test yapılması
     - E-) Etiketleyici bir dil kullanılmaması
 
-    > **Açıklama:** Gelişimsel değerlendirmenin özenle yapılması, hata olasılığını en aza indirilmelidir. Değerlendirici, test öncesinde ebeveynden bilgi almalı ve \*\*çocukla kısa süre oyun oynayarak gelişim seviyesi hakkında fikir edinmelidir\*\*.
+    > **Açıklama:** Gelişimsel değerlendirmenin özenle yapılması, hata olasılığını en aza indirilmelidir. Değerlendirici, test öncesinde ebeveynden bilgi almalı ve **çocukla kısa süre oyun oynayarak gelişim seviyesi hakkında fikir edinmelidir**.
 
     <hr />
 1. Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımının faydaları arasındadır? *(2 kez soruldu)*
@@ -668,7 +668,7 @@
     - D-) Ölçeklerin verdiği sonuçlarda genelde hata bulunmaz.
     - E-) Ölçekler, aynı anda birden çok kişiye uygulanamaz.
 
-    > **Açıklama:** Ölçekler, ruh sağlığı alanında \*\*soyut psikolojik sorunların sayısallaştırılmasını\*\* sağlar. Ayrıca geniş bir belirti kümesinin hızlı bir şekilde incelenmesini sağlar, ancak klinik değerlendirmeye alternatif değildir.
+    > **Açıklama:** Ölçekler, ruh sağlığı alanında **soyut psikolojik sorunların sayısallaştırılmasını** sağlar. Ayrıca geniş bir belirti kümesinin hızlı bir şekilde incelenmesini sağlar, ancak klinik değerlendirmeye alternatif değildir.
 
     <hr />
 
@@ -681,7 +681,7 @@
     - D-) Özellikle okul öncesi çocuklarda dikkat süresi sınırlığı göz önünde bulundurulmalıdır.
     - **Cevap E-) Çocuklar çabuk sıkılabildiği için gürültülü ve yoğun uyaran içeren ortamlar tercih edilir.**
 
-    > **Açıklama:** Değerlendirme ortamı, çocuğun dikkatini dağıtmayacak şekilde sessiz ve sade olmalıdır. \*\*Gürültülü ve yoğun uyaran içeren ortamlar\*\* tercih edilmesi, ölçüm hatalarına yol açacağı için bu süreçte <u>istenmez</u>.
+    > **Açıklama:** Değerlendirme ortamı, çocuğun dikkatini dağıtmayacak şekilde sessiz ve sade olmalıdır. **Gürültülü ve yoğun uyaran içeren ortamlar** tercih edilmesi, ölçüm hatalarına yol açacağı için bu süreçte <u>istenmez</u>.
 
     <hr />
 
@@ -694,7 +694,7 @@
     - D-) Gizliliğe daha çok dikkat edilmesini gerektirir.
     - E-) Çocuktan bilgi alınmamasına neden olur.
 
-    > **Açıklama:** Çocukların dili kullanma becerilerinin sınırlı olması, \*\*sözel diyalog sırasında dikkatinin kolaylıkla dağılmasına\*\* neden olur. Bu nedenle, küçük yaş gruplarında sözel anlatım sınırlı olduğu için oyun temelli ve görsel araçlarla değerlendirme desteklenmelidir.
+    > **Açıklama:** Çocukların dili kullanma becerilerinin sınırlı olması, **sözel diyalog sırasında dikkatinin kolaylıkla dağılmasına** neden olur. Bu nedenle, küçük yaş gruplarında sözel anlatım sınırlı olduğu için oyun temelli ve görsel araçlarla değerlendirme desteklenmelidir.
 
     <hr />
 1. Çocuğun bireysel farklılıkları değerlendirme sürecinde nasıl dikkate alınmalıdır?
@@ -704,7 +704,7 @@
     - D-) Test seçimi yalnızca ebeveynin isteğine göre yapılmalıdır.
     - E-) Değerlendirme sürecinin planı öğretmen ile birlikte yapılmalıdır.
 
-    > **Açıklama:** Çocuk değerlendirmesi, çocuğun \*\*gelişim düzeyi ve bireysel özelliklerine göre planlama yapılmasını\*\* gerektirir. Çocuklar minik yetişkinler olarak görülmemeli; gelişimsel özellikleri dikkate alınarak yaklaşılmalı ve bulgular bu çerçevede değerlendirilmelidir.
+    > **Açıklama:** Çocuk değerlendirmesi, çocuğun **gelişim düzeyi ve bireysel özelliklerine göre planlama yapılmasını** gerektirir. Çocuklar minik yetişkinler olarak görülmemeli; gelişimsel özellikleri dikkate alınarak yaklaşılmalı ve bulgular bu çerçevede değerlendirilmelidir.
 
     <hr />
 1. Aşağıdakilerden hangisi çocukları ölçme ve değerlendirmede erişkinlerden farklı olarak dikkat edilmesi gereken özelliklerden biri <u>değildir</u>?
@@ -714,7 +714,7 @@
     - D-) Geçişlerde zorlanması
     - E-) Dikkat süresinin kısa olması
 
-    > **Açıklama:** Çocuklarda dikkat süresinin kısalığı, dil becerilerinin sınırlı olması, geçişlerde zorlanma ve kritik dönemlerin olması, değerlendirmeyi yetişkinlerden farklı kılar. Ancak \*\*etiketleyici dilden olumsuz etkilenme\*\* durumu, hem çocuklar hem de yetişkinler için geçerli ortak bir özelliktir.
+    > **Açıklama:** Çocuklarda dikkat süresinin kısalığı, dil becerilerinin sınırlı olması, geçişlerde zorlanma ve kritik dönemlerin olması, değerlendirmeyi yetişkinlerden farklı kılar. Ancak **etiketleyici dilden olumsuz etkilenme** durumu, hem çocuklar hem de yetişkinler için geçerli ortak bir özelliktir.
 
     <hr />
 1. Çocuğun dikkat süresi kısa olduğu için değerlendirmede hangi uygulamaya dikkat edilmesi gerekir?
@@ -737,7 +737,7 @@
     - D-) Çocuk yorgunken test yapılması daha doğru bilgi verir.
     - **Cevap E-) Çocukla ilgili yeterli bilgi toplayıp bir kanaat oluştuktan sonra test istenmelidir.**
 
-    > **Açıklama:** Ölçme araçları, bir hipotez test etme yaklaşımıyla ele alınmalıdır. Bu nedenle, \*\*çocuğu iyi tanıyıp sorunu öğrendikten sonra\*\* ve \*\*yeterli bilgi toplayıp bir kanaat oluştuktan sonra\*\* test istenmelidir.
+    > **Açıklama:** Ölçme araçları, bir hipotez test etme yaklaşımıyla ele alınmalıdır. Bu nedenle, **çocuğu iyi tanıyıp sorunu öğrendikten sonra** ve **yeterli bilgi toplayıp bir kanaat oluştuktan sonra** test istenmelidir.
 
     <hr />
 1. Bir çocuğun değerlendirme sürecinde 'hipotez oluşturma' neden önemlidir?
@@ -747,7 +747,7 @@
     - D-) Test sonuçlarının doğru puanlanmasına katkı sağlar.
     - **Cevap E-) Ölçme araçlarının toplanan ön bilgileri doğrulayıcı ya da çürütücü veriler olarak değerlendirilmesini sağlar.**
 
-    > **Açıklama:** Hipotez test etme yaklaşımında, değerlendiricinin çocuk hakkında önceden bilgi sahibi olması ve uygulanan testleri bu bilgileri \*\*doğrulayıcı ya da çürüten veriler olarak değerlendirmesi\*\* beklenir. Bu, verilerin daha sağlıklı yorumlanmasına katkı sağlar.
+    > **Açıklama:** Hipotez test etme yaklaşımında, değerlendiricinin çocuk hakkında önceden bilgi sahibi olması ve uygulanan testleri bu bilgileri **doğrulayıcı ya da çürüten veriler olarak değerlendirmesi** beklenir. Bu, verilerin daha sağlıklı yorumlanmasına katkı sağlar.
 
     <hr />
 
@@ -760,7 +760,7 @@
     - D-) Ailenin test içeriği hakkında bilgi sahibi olmasını sağlamak.
     - E-) Testin standartizasyonunu bozmak.
 
-    > **Açıklama:** Teste yumuşak geçiş (örneğin ısınma faaliyetinden sonra), çocuğun \*\*performans kaygısı yaşamasını önleyebilir\*\* ve testi daha istekli, \*\*motive bir şekilde tamamlamasına\*\* katkı sağlar.
+    > **Açıklama:** Teste yumuşak geçiş (örneğin ısınma faaliyetinden sonra), çocuğun **performans kaygısı yaşamasını önleyebilir** ve testi daha istekli, **motive bir şekilde tamamlamasına** katkı sağlar.
 
     <hr />
 
@@ -773,7 +773,7 @@
     - D-) Portföy inceleme
     - E-) Yapılandırılmamış katılımsız gözlem
 
-    > **Açıklama:** Yapılandırılmamış katılımlı gözlem, değerlendiricinin çocukla \*\*spontane olarak oyun oynayarak\*\* çocuğu gözlemlediği bir değerlendirme yöntemidir.
+    > **Açıklama:** Yapılandırılmamış katılımlı gözlem, değerlendiricinin çocukla **spontane olarak oyun oynayarak** çocuğu gözlemlediği bir değerlendirme yöntemidir.
 
     <hr />
 
@@ -786,7 +786,7 @@
     - **Cevap D-) Çocuğa gerekirse zorla test uygulamak**
     - E-) Sonuçları uygun şekilde paylaşmak
 
-    > **Açıklama:** Çocuğun yüksek yararı ilkesine göre, \*\*çocuğa gerekirse zorla test uygulamak\*\* etik açıdan sakıncalıdır ve <b>gönüllülük ilkesine</b> aykırıdır. Değerlendirme sürecinde gönüllülük esastır.
+    > **Açıklama:** Çocuğun yüksek yararı ilkesine göre, **çocuğa gerekirse zorla test uygulamak** etik açıdan sakıncalıdır ve <b>gönüllülük ilkesine</b> aykırıdır. Değerlendirme sürecinde gönüllülük esastır.
 
     <hr />
 1. Aşağıdakilerden hangisi, psikometrik ölçme araçlarının çocuklara uygulanmasında dikkat edilmesi gerekenlerden biri <u>değildir</u>?
@@ -796,7 +796,7 @@
     - D-) Uygulayıcının eğitimli olması
     - E-) Uygun ortamın sağlanması
 
-    > **Açıklama:** Psikometrik araçların uygulanmasında, \*\*standart test talimatlarından sapılması\*\* sonuçların güvenirliğini ve geçerliğini olumsuz etkiler ve etik bir ihlaldir. Uygulayıcı testin standartlarına uygun davranmalıdır.
+    > **Açıklama:** Psikometrik araçların uygulanmasında, **standart test talimatlarından sapılması** sonuçların güvenirliğini ve geçerliğini olumsuz etkiler ve etik bir ihlaldir. Uygulayıcı testin standartlarına uygun davranmalıdır.
 
     <hr />
 
@@ -811,7 +811,7 @@
     - **Cevap D-) Rapor, ailenin çocukla ilgili düşüncelerini desteklemelidir.**
     - E-) Bireyin psikolojik durumunun tanımlanması amacıyla rapor yazılabilir.
 
-    > **Açıklama:** Psikolojik değerlendirme raporları objektif olmalıdır. Raporun amacı \*\*ailenin çocukla ilgili düşüncelerini desteklemek\*\* <u>değildir</u>. Rapor tarafsız olmalı ve bilimsel kanıtlara dayanmalıdır.
+    > **Açıklama:** Psikolojik değerlendirme raporları objektif olmalıdır. Raporun amacı **ailenin çocukla ilgili düşüncelerini desteklemek** <u>değildir</u>. Rapor tarafsız olmalı ve bilimsel kanıtlara dayanmalıdır.
 
     <hr />
 
@@ -824,7 +824,7 @@
     - D-) Test sonuçlarının gizli kalmasını sağlar.
     - E-) İlgili uzmanın memnun olmasını sağlar.
 
-    > **Açıklama:** Raporlama, \*\*öğrenilen bilgilerin bir araya getirilerek anlamlı bir bütün haline getirilmesini sağlar\*\*. Ayrıca, ölçüm yanlışlarının tespitine de katkıda bulunur.
+    > **Açıklama:** Raporlama, **öğrenilen bilgilerin bir araya getirilerek anlamlı bir bütün haline getirilmesini sağlar**. Ayrıca, ölçüm yanlışlarının tespitine de katkıda bulunur.
 
     <hr />
 
@@ -837,7 +837,7 @@
     - D-) Yargılayıcı ve yönlendirici dilden kaçınılması
     - **Cevap E-) Dolaylı ve muğlak ifadelerin tercih edilmesi**
 
-    > **Açıklama:** Adli raporlar hukuki süreçte kullanılacağı için, \*\*dolaylı ve muğlak ifadelerin tercih edilmesi\*\* yerine, açık ve net ifadeler kullanılmalıdır. Tarafsızlık ve sorulan sorulara odaklanma esastır.
+    > **Açıklama:** Adli raporlar hukuki süreçte kullanılacağı için, **dolaylı ve muğlak ifadelerin tercih edilmesi** yerine, açık ve net ifadeler kullanılmalıdır. Tarafsızlık ve sorulan sorulara odaklanma esastır.
 
     <hr />
 
@@ -850,7 +850,7 @@
     - D-) Boşanma sürecinde velayet konusunda öneri sunulmasına
     - E-) Travma sonrası ruhsal durumun saptanmasına
 
-    > **Açıklama:** Psikoeğitsel raporlar, genellikle okul çağındaki çocuklar için hazırlanır ve temel amaçları Bireyselleştirilmiş Eğitim Programı (BEP) hazırlıklarına temel oluşturmak ve \*\*eğitim destek hizmetlerinin planlanmasına\*\* odaklanmaktır.
+    > **Açıklama:** Psikoeğitsel raporlar, genellikle okul çağındaki çocuklar için hazırlanır ve temel amaçları Bireyselleştirilmiş Eğitim Programı (BEP) hazırlıklarına temel oluşturmak ve **eğitim destek hizmetlerinin planlanmasına** odaklanmaktır.
 
     <hr />
 
@@ -863,7 +863,7 @@
     - D-) Adli amaçla rapor yazılamaz.
     - E-) Çocuğun tüm geçmiş bilgisi raporda yer alır.
 
-    > **Açıklama:** Raporun dili, \*\*kime ve ne amaçla yazıldığına göre farklılıklar gösterir\*\*. Örneğin, uzmanlara sunulan raporlarda teknik, aileye sunulan raporlarda ise sade ve anlaşılır bir dil kullanılmalıdır.
+    > **Açıklama:** Raporun dili, **kime ve ne amaçla yazıldığına göre farklılıklar gösterir**. Örneğin, uzmanlara sunulan raporlarda teknik, aileye sunulan raporlarda ise sade ve anlaşılır bir dil kullanılmalıdır.
 
     <hr />
 
@@ -876,7 +876,7 @@
     - **Cevap D-) Çocuğun neden yönlendirildiği**
     - E-) Çocuğun doğum tarihi
 
-    > **Açıklama:** Tanımlayıcı bilgiler kısmında çocuğun adı, doğum tarihi ve rapor tarihi gibi bilgiler bulunur. \*\*Çocuğun neden yönlendirildiği\*\* bilgisi ise raporun ayrı bir bölümü olan \*\*Yönlendirme Nedeni\*\* kısmında yer alır.
+    > **Açıklama:** Tanımlayıcı bilgiler kısmında çocuğun adı, doğum tarihi ve rapor tarihi gibi bilgiler bulunur. **Çocuğun neden yönlendirildiği** bilgisi ise raporun ayrı bir bölümü olan **Yönlendirme Nedeni** kısmında yer alır.
 
     <hr />
 
@@ -889,7 +889,7 @@
     - D-) Çocuğun neden yönlendirildiği
     - E-) Çocuğun o güne kadar kullandığı bütün ilaçlar.
 
-    > **Açıklama:** Geçmiş Bilgisi bölümünde, \*\*çocuğun mevcut probleminde etkili olabilecek\*\* yaşam öyküsü, gelişimsel, tıbbi, akademik ve psikososyal geçmişine dair anlamlı unsurlar kronolojik bir sırayla sunulmalıdır.
+    > **Açıklama:** Geçmiş Bilgisi bölümünde, **çocuğun mevcut probleminde etkili olabilecek** yaşam öyküsü, gelişimsel, tıbbi, akademik ve psikososyal geçmişine dair anlamlı unsurlar kronolojik bir sırayla sunulmalıdır.
 
     <hr />
 
@@ -902,7 +902,7 @@
     - D-) Değerlendirmeden sonra çocuğun alacağı terapinin süresi
     - E-) Testin geçerlik ve güvenirlik katsayıları
 
-    > **Açıklama:** Bulgular ve Yorumlar kısmında, uygulanan ölçüm araçlarından elde edilen sonuçlar ve \*\*çocuğun değerlendirme sürecindeki davranışlarına ilişkin gözlemler\*\* ve uyumu aktarılmalıdır.
+    > **Açıklama:** Bulgular ve Yorumlar kısmında, uygulanan ölçüm araçlarından elde edilen sonuçlar ve **çocuğun değerlendirme sürecindeki davranışlarına ilişkin gözlemler** ve uyumu aktarılmalıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi bir psikolojik değerlendirme raporunda yer alan içerik öğeleriyle ilgili <u>yanlıştır</u>?
@@ -912,7 +912,7 @@
     - D-) Öneriler, değerlendirme bulgularıyla tutarlı ve uygulanabilir şekilde sunulmalıdır.
     - E-) Sonuç bölümü, genel bulguların özetlendiği ve kararların temellendirildiği kısımdır.
 
-    > **Açıklama:** Bulgular bölümünde yalnızca sayısal test sonuçlarına yer verilmesi yeterli <u>değildir</u>. Çocuğun \*\*davranışlarına ilişkin gözlemler\*\* ve uyumu da dahil olmak üzere, farklı değerlendirme yöntemlerinden elde edilen tüm sonuçlar sunulmalıdır.
+    > **Açıklama:** Bulgular bölümünde yalnızca sayısal test sonuçlarına yer verilmesi yeterli <u>değildir</u>. Çocuğun **davranışlarına ilişkin gözlemler** ve uyumu da dahil olmak üzere, farklı değerlendirme yöntemlerinden elde edilen tüm sonuçlar sunulmalıdır.
 
     <hr />
 
@@ -925,7 +925,7 @@
     - **Cevap D-) Özet ve öneriler**
     - E-) Yönlendirme nedeni
 
-    > **Açıklama:** Raporun en kritik ve kendi içinde bir bütün teşkil etmesi gereken kısmı \*\*Özet ve Öneriler\*\* bölümüdür. Birçok okuyucu genel durumu hızla kavramak için bu bölümden başlar.
+    > **Açıklama:** Raporun en kritik ve kendi içinde bir bütün teşkil etmesi gereken kısmı **Özet ve Öneriler** bölümüdür. Birçok okuyucu genel durumu hızla kavramak için bu bölümden başlar.
 
     <hr />
 1. Değerlendirme raporunun özet ve öneriler kısmı için hangisi doğrudur?
@@ -935,7 +935,7 @@
     - D-) Çocuğun sorununun ne olduğu yönünde hipotezler sıralanmalıdır.
     - E-) Çocuğun kimlik bilgilerini içermelidir.
 
-    > **Açıklama:** Özet ve öneriler kısmında temel bilgiler, okuyucunun genel durumu hızla kavraması için \*\*kısa ve net cümlelerle\*\* sunulmalıdır.
+    > **Açıklama:** Özet ve öneriler kısmında temel bilgiler, okuyucunun genel durumu hızla kavraması için **kısa ve net cümlelerle** sunulmalıdır.
 
     <hr />
 1. Psikolojik değerlendirme raporlarının içeriği hakkında aşağıdakilerden hangisi doğrudur?
@@ -945,7 +945,7 @@
     - D-) Değerlendirme sonuçları kısmında geçmiş bilgisi yer almalıdır.
     - E-) Tanımlayıcı bilgiler kısmı değerlendirmenin hangi amaçla yapıldığını ortaya koyar.
 
-    > **Açıklama:** Raporun en önemli bölümü olan özet ve öneriler kısmında, raporun içeriği \*\*kısa ve net cümlelerle özetlenmelidir\*\*.
+    > **Açıklama:** Raporun en önemli bölümü olan özet ve öneriler kısmında, raporun içeriği **kısa ve net cümlelerle özetlenmelidir**.
 
     <hr />
 
@@ -958,7 +958,7 @@
     - D-) Özet ve öneriler
     - E-) Yönlendirme nedeni
 
-    > **Açıklama:** Standart bir raporda tanımlayıcı bilgiler, yönlendirme nedeni, geçmiş bilgisi ve özet/öneriler gibi başlıklar bulunur. \*\*Yüzdelik normlar\*\* test sonucunun istatistiksel bir ifadesi olup, raporun içeriğini oluşturan temel başlıklar arasında yer <u>almaz</u>.
+    > **Açıklama:** Standart bir raporda tanımlayıcı bilgiler, yönlendirme nedeni, geçmiş bilgisi ve özet/öneriler gibi başlıklar bulunur. **Yüzdelik normlar** test sonucunun istatistiksel bir ifadesi olup, raporun içeriğini oluşturan temel başlıklar arasında yer <u>almaz</u>.
 
     <hr />
 
@@ -971,7 +971,7 @@
     - **Cevap D-) Kullanılan test sonuçları yalnızca puan olarak verilmeli, yorumlanmamalıdır.**
     - E-) Özet ve öneriler kısmı, okuyucunun genel durumu hızla kavramasını sağlamalıdır.
 
-    > **Açıklama:** Test sonuçları yalnızca puan olarak verilmemeli; skorlar yazıldıktan sonra \*\*anlamları açıklanarak yorumlanmalıdır\*\*.
+    > **Açıklama:** Test sonuçları yalnızca puan olarak verilmemeli; skorlar yazıldıktan sonra **anlamları açıklanarak yorumlanmalıdır**.
 
     <hr />
 
@@ -984,7 +984,7 @@
     - D-) Problemlere yönelik bilimsel olarak kanıtlanmış öneriler sunulması
     - **Cevap E-) Ailenin arzu ettiği şekilde bir içerik üretilmesi.**
 
-    > **Açıklama:** Raporun amacı, bilimsel temellere dayalı öneriler sunmak ve bireyin psikolojik durumunu tanımlamaktır. \*\*Ailenin arzu ettiği şekilde bir içerik üretilmesi\*\* etik ve bilimsel amaçlardan biri <u>değildir</u>.
+    > **Açıklama:** Raporun amacı, bilimsel temellere dayalı öneriler sunmak ve bireyin psikolojik durumunu tanımlamaktır. **Ailenin arzu ettiği şekilde bir içerik üretilmesi** etik ve bilimsel amaçlardan biri <u>değildir</u>.
 
     <hr />
 
@@ -997,7 +997,7 @@
     - D-) Testin geliştiricisinin uygulayıcı ile aynı kurumdan olması
     - E-) Testin tek seansta tamamlanabilmesi
 
-    > **Açıklama:** Etik test seçiminde temel ilke, kullanılan testin \*\*geçerlik ve güvenirlik düzeyinin yeterli olmasıdır\*\*. Ayrıca testin, çocuğun özelliklerine benzer bir örneklemde normlanmış olması gerekir.
+    > **Açıklama:** Etik test seçiminde temel ilke, kullanılan testin **geçerlik ve güvenirlik düzeyinin yeterli olmasıdır**. Ayrıca testin, çocuğun özelliklerine benzer bir örneklemde normlanmış olması gerekir.
 
     <hr />
 
@@ -1010,7 +1010,7 @@
     - D-) Testlerle kafasındaki hipotezi doğrulamaya çalışır.
     - E-) Tecrübesi olmayan testleri seçerek deneyim kazanır.
 
-    > **Açıklama:** Etik çalışan bir uygulayıcı, standart dışı bir uygulama gerektiğinde, bu durumu ve bunun sonuçlar üzerindeki muhtemel etkisini \*\*raporda açıkça belirtmelidir\*\*.
+    > **Açıklama:** Etik çalışan bir uygulayıcı, standart dışı bir uygulama gerektiğinde, bu durumu ve bunun sonuçlar üzerindeki muhtemel etkisini **raporda açıkça belirtmelidir**.
 
     <hr />
 
@@ -1023,7 +1023,7 @@
     - D-) Güçlü karakter yapısı
     - **Cevap E-) Ölçüm aracını standartlara uygun şekilde uygulama**
 
-    > **Açıklama:** Etik bir uygulayıcı, \*\*ölçüm aracını standartlara uygun şekilde uygulama\*\* yeterliliğine sahip olmalıdır. Standarda uygun uygulama, sonuçların güvenilirliği ve geçerliliği için kritik öneme sahiptir.
+    > **Açıklama:** Etik bir uygulayıcı, **ölçüm aracını standartlara uygun şekilde uygulama** yeterliliğine sahip olmalıdır. Standarda uygun uygulama, sonuçların güvenilirliği ve geçerliliği için kritik öneme sahiptir.
 
     <hr />
 1. Aşağıdakilerden hangisi, uygulayıcının etik olarak 'Yeterlik' ilkesi kapsamında dikkat etmesi gereken bir durumdur?
@@ -1033,7 +1033,7 @@
     - D-) Testin standart koşullarında gerçekleştirilmediği durumlarda bunu belirtmemek
     - **Cevap E-) Testin teorik temelleri, uygulanışı ve yorumlanması hakkında yeterli bilgiye sahip olmak**
 
-    > **Açıklama:** Yeterlik ilkesi, uygulayıcının \*\*testin teorik temelleri, uygulanışı ve yorumlanması hakkında yeterli bilgiye ve pratik beceriye sahip olmasını\*\* gerektirir.
+    > **Açıklama:** Yeterlik ilkesi, uygulayıcının **testin teorik temelleri, uygulanışı ve yorumlanması hakkında yeterli bilgiye ve pratik beceriye sahip olmasını** gerektirir.
 
     <hr />
 
@@ -1046,7 +1046,7 @@
     - D-) Yorum yapılırken alt beceri skorları dikkate alınmaz.
     - E-) Test yorumundan önce test sonuçlarının yasal olup olmadığı kontrol edilir.
 
-    > **Açıklama:** Test yorumu yapılırken, sadece sayısal puanlara değil, \*\*test davranışına\*\* da bakılır. Test sırasında gözlemlenen çocuğun iş birliği, dikkat ve motivasyon gibi özellikleri, \*\*test sonucunun güvenilir olup olmadığını belirler\*\*.
+    > **Açıklama:** Test yorumu yapılırken, sadece sayısal puanlara değil, **test davranışına** da bakılır. Test sırasında gözlemlenen çocuğun iş birliği, dikkat ve motivasyon gibi özellikleri, **test sonucunun güvenilir olup olmadığını belirler**.
 
     <hr />
 
@@ -1059,7 +1059,7 @@
     - D-) Bilimsel bir dil kullanmaya
     - E-) Çocuğa bilgi vermemeye
 
-    > **Açıklama:** Geribildirim görüşmelerinde, teknik terimlerden kaçınılarak \*\*açık, sade ve anlaşılır bir dil kullanılması\*\* önceliklidir. Bu, ailenin sonuçları daha net kavramasını sağlar.
+    > **Açıklama:** Geribildirim görüşmelerinde, teknik terimlerden kaçınılarak **açık, sade ve anlaşılır bir dil kullanılması** önceliklidir. Bu, ailenin sonuçları daha net kavramasını sağlar.
 
     <hr />
 1. Değerlendirme raporunun içeriği konusunda aileye bilgi verilirken özellikle neye dikkat edilmelidir?
@@ -1069,7 +1069,7 @@
     - **Cevap D-) Çocukla ilgili olumlu bir dil kullanmaya**
     - E-) Gerçekleri gizlemeye
 
-    > **Açıklama:** Geribildirim sırasında, raporlarda ve sözlü açıklamada \*\*çocukla ilgili olumlu bir dil kullanmaya\*\* ve etiketleyici ifadelerden kaçınmaya dikkat edilmelidir.
+    > **Açıklama:** Geribildirim sırasında, raporlarda ve sözlü açıklamada **çocukla ilgili olumlu bir dil kullanmaya** ve etiketleyici ifadelerden kaçınmaya dikkat edilmelidir.
 
     <hr />
 
@@ -1082,7 +1082,7 @@
     - **Cevap D-) Değerlendirme sonuçlarını, danışanın izni olmadan kurumlar arasında paylaşmak**
     - E-) Rapor yazımında nesnel ve tarafsız bir dil kullanmak
 
-    > **Açıklama:** Değerlendirme sonuçları, gizlilik ilkesi çerçevesinde ele alınır. \*\*Danışanın (velisinin) açık izni olmadan, test sonuçlarının kurumlar arasında paylaşılması\*\* etik bir ihlaldir ve gizlilik ilkesinin istisnaları (adli durumlar, hayati tehlike) dışında yasaktır.
+    > **Açıklama:** Değerlendirme sonuçları, gizlilik ilkesi çerçevesinde ele alınır. **Danışanın (velisinin) açık izni olmadan, test sonuçlarının kurumlar arasında paylaşılması** etik bir ihlaldir ve gizlilik ilkesinin istisnaları (adli durumlar, hayati tehlike) dışında yasaktır.
 
     <hr />
 1. Aşağıdakilerden hangisi, tüm rapor türlerinde ortak olarak bulunması gereken bir özelliktir?
@@ -1092,7 +1092,7 @@
     - D-) Yasal düzenlemelere doğrudan atıf yapılması
     - E-) Sosyal hizmet alanına yönelik öneriler sunulması
 
-    > **Açıklama:** Rapor türü ne olursa olsun (adli, klinik, psikoeğitsel), rapor yazımında \*\*etik ilkelere uyulması\*\* ve \*\*muhatabın anlayacağı sade, anlaşılır bir dil\*\* kullanılması temel bir gerekliliktir.
+    > **Açıklama:** Rapor türü ne olursa olsun (adli, klinik, psikoeğitsel), rapor yazımında **etik ilkelere uyulması** ve **muhatabın anlayacağı sade, anlaşılır bir dil** kullanılması temel bir gerekliliktir.
 
     <hr />
 
@@ -1105,7 +1105,7 @@
     - D-) Bilgilendirilme hakkı
     - E-) Ölçüm aracının sonuçlarının açıklanması
 
-    > **Açıklama:** Değerlendirme yaptıran kişinin hakları arasında bilgilendirilme, saygılı hizmet alma, test sonuçlarının açıklanması ve testin uygulanmasını öğrenme hakkı bulunur. \*\*Test geliştirme hakkı\*\* ise uygulayıcının etik sorumlulukları arasındadır, hizmet alan kişinin hakkı <u>değildir</u>.
+    > **Açıklama:** Değerlendirme yaptıran kişinin hakları arasında bilgilendirilme, saygılı hizmet alma, test sonuçlarının açıklanması ve testin uygulanmasını öğrenme hakkı bulunur. **Test geliştirme hakkı** ise uygulayıcının etik sorumlulukları arasındadır, hizmet alan kişinin hakkı <u>değildir</u>.
 
     <hr />
 
@@ -1120,7 +1120,7 @@
     - D-) Çocuğun normal gelişimi statik bir süreçtir.
     - E-) Normal gelişim, izole alanların bağımsız gelişimi sonucu ortaya çıkar.
 
-    > **Açıklama:** Normal gelişim, yalnızca kalıtsal ya da biyolojik etkenlerle sınırlı kalmayıp, \*\*genetik ve çevre şartlarının etkileşimi sonucu\*\* olur.
+    > **Açıklama:** Normal gelişim, yalnızca kalıtsal ya da biyolojik etkenlerle sınırlı kalmayıp, **genetik ve çevre şartlarının etkileşimi sonucu** olur.
 
     <hr />
 
@@ -1133,7 +1133,7 @@
     - D-) Gelişimsel bozukluk
     - **Cevap E-) Gelişimsel dönüm noktası**
 
-    > **Açıklama:** Gelişimsel sorunlar arasında Gelişim gecikmesi, gelişimsel gerileme, gelişimsel sapma ve gelişimsel bozukluklar bulunur. \*\*Gelişimsel dönüm noktaları\*\* ise gelişimin takibi için kullanılan tipik becerileri ifade eder.
+    > **Açıklama:** Gelişimsel sorunlar arasında Gelişim gecikmesi, gelişimsel gerileme, gelişimsel sapma ve gelişimsel bozukluklar bulunur. **Gelişimsel dönüm noktaları** ise gelişimin takibi için kullanılan tipik becerileri ifade eder.
 
     <hr />
 1. Gelişimsel gerileme nedir?
@@ -1143,7 +1143,7 @@
     - D-) Çocuğun belli becerileri kazanması için gereken beceriler
     - E-) Gelişim alanlarında anlamlı düzeyde gecikme olması
 
-    > **Açıklama:** Gelişimsel gerileme, \*\*çocuğun kazandığı gelişimsel becerileri kaybetmesi\*\* durumudur.
+    > **Açıklama:** Gelişimsel gerileme, **çocuğun kazandığı gelişimsel becerileri kaybetmesi** durumudur.
 
     <hr />
 1. Gelişimsel sapma nedir?
@@ -1153,7 +1153,7 @@
     - D-) Çocuğun tipik bir gelişim yörüngesi izlemesi
     - E-) Çocuğun belli becerileri kazanması için gereken beceriler
 
-    > **Açıklama:** Gelişimsel sapma, \*\*tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması\*\* durumudur.
+    > **Açıklama:** Gelişimsel sapma, **tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması** durumudur.
 
     <hr />
 1. Gelişim gecikmesi nedir?
@@ -1163,7 +1163,7 @@
     - D-) Çocuğun belli becerileri kazanması için gereken beceriler
     - **Cevap E-) Gelişim alanlarında anlamlı düzeyde gecikme olması**
 
-    > **Açıklama:** Gelişim gecikmesi, \*\*gelişim alanlarında anlamlı düzeyde gecikme olması\*\* durumunu ifade eder.
+    > **Açıklama:** Gelişim gecikmesi, **gelişim alanlarında anlamlı düzeyde gecikme olması** durumunu ifade eder.
 
     <hr />
 
@@ -1176,7 +1176,7 @@
     - D-) 154 maddeden oluşur.
     - E-) Türk çocukları için norm tablosu vardır.
 
-    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE) 154 maddeden oluşur, Türkiye'de geliştirilmiştir ve okul öncesi dönem çocuklarının gelişimsel değerlendirilmesinde kullanılır. Ancak, \*\*tüm maddeler klinisyen tarafından doldurulmaz\*\*.
+    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE) 154 maddeden oluşur, Türkiye'de geliştirilmiştir ve okul öncesi dönem çocuklarının gelişimsel değerlendirilmesinde kullanılır. Ancak, **tüm maddeler klinisyen tarafından doldurulmaz**.
 
     <hr />
 
@@ -1189,7 +1189,7 @@
     - D-) Bayley Bebekler için Gelişim Değerlendirme Ölçeği
     - **Cevap E-) Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği**
 
-    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE), Denver II, Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı (GEÇDA) ve Bayley Bebekler için Gelişim Değerlendirme Ölçeği ülkemizde kullanılan gelişim değerlendirme araçlarıdır. \*\*Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği\*\* ise aile dinamiklerini değerlendirir ve bir gelişimsel değerlendirme aracı <u>değildir</u>.
+    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE), Denver II, Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı (GEÇDA) ve Bayley Bebekler için Gelişim Değerlendirme Ölçeği ülkemizde kullanılan gelişim değerlendirme araçlarıdır. **Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği** ise aile dinamiklerini değerlendirir ve bir gelişimsel değerlendirme aracı <u>değildir</u>.
 
     <hr />
 
@@ -1202,7 +1202,7 @@
     - D-) Test sonucunun doğru olduğu varsayılır.
     - E-) Çevresel faktörler test yorumlanırken dikkate alınmaz.
 
-    > **Açıklama:** Güvenilir olduğu kabul edilen test sonuçları, \*\*çocuğun klinik durumu ve çevresel faktörler dikkate alınarak yorumlanmalıdır\*\*.
+    > **Açıklama:** Güvenilir olduğu kabul edilen test sonuçları, **çocuğun klinik durumu ve çevresel faktörler dikkate alınarak yorumlanmalıdır**.
 
     <hr />
 
@@ -1215,7 +1215,7 @@
     - D-) 5 yaşındaki çocuklarla rahatlıkla anlaşabilir.
     - E-) 5 yaşındaki bir çocuğa gelişimsel değerlendirme uygulanmaz.
 
-    > **Açıklama:** Gelişimsel değerlendirme sonucunda gelişim düzeyi kronolojik yaştan düşük çıkan bir çocuğun \*\*davranışları, belirlenen gelişim yaşına (2 yaş) göre kıyaslanarak\*\* değerlendirilmelidir.
+    > **Açıklama:** Gelişimsel değerlendirme sonucunda gelişim düzeyi kronolojik yaştan düşük çıkan bir çocuğun **davranışları, belirlenen gelişim yaşına (2 yaş) göre kıyaslanarak** değerlendirilmelidir.
 
     <hr />
 
@@ -1243,7 +1243,7 @@
     - D-) Dikkat
     - **Cevap E-) Duygudurum**
 
-    > **Açıklama:** Zekâ; bilgiyi kazanma, öğrendiklerini uygulama, plan yapabilme, yargılama ve problem çözme gibi bilişsel becerileri kapsar. \*\*Duygudurum\*\* zekânın kapsadığı bilişsel becerilere dahil <u>değildir</u>.
+    > **Açıklama:** Zekâ; bilgiyi kazanma, öğrendiklerini uygulama, plan yapabilme, yargılama ve problem çözme gibi bilişsel becerileri kapsar. **Duygudurum** zekânın kapsadığı bilişsel becerilere dahil <u>değildir</u>.
 
     <hr />
 1. Aşağıdakilerden hangileri zekânın kapsadığı becerilere dahil <u>değildir</u>?<br />I. Bilgiyi kazanma ve öğrendiklerini uygulama<br />II. Plan yapabilme<br />III. Duygu durum<br />IV. Denge
@@ -1263,7 +1263,7 @@
     - D-) Zekâsı yüksek olan bireylerin işlem hızı düşüktür.
     - E-) Zekâsı düşük olan bireylerin soyut düşünce becerisi yüksektir.
 
-    > **Açıklama:** Zekâ, \*\*karşılaştığı yeni bilgiyi öğrenme becerisi\*\* (bilgiyi kazanma) ile ilişkilidir. Zekâ, yaşam boyu değişmeyen statik bir yetenek değildir.
+    > **Açıklama:** Zekâ, **karşılaştığı yeni bilgiyi öğrenme becerisi** (bilgiyi kazanma) ile ilişkilidir. Zekâ, yaşam boyu değişmeyen statik bir yetenek değildir.
 
     <hr />
 
@@ -1276,7 +1276,7 @@
     - D-) Kristalize zeka
     - E-) Müziksel zeka
 
-    > **Açıklama:** Küme Etmeni Kuramı (Thurstone), zekânın yedi temel zihinsel yetenekten oluştuğunu savunur. Bu yetenekler arasında \*\*Sözel Kavrama\*\* yer alır.
+    > **Açıklama:** Küme Etmeni Kuramı (Thurstone), zekânın yedi temel zihinsel yetenekten oluştuğunu savunur. Bu yetenekler arasında **Sözel Kavrama** yer alır.
 
     <hr />
 
@@ -1289,7 +1289,7 @@
     - **Cevap D-) Doğa ile ilişkili zeka**
     - E-) Sözel Kavrama
 
-    > **Açıklama:** Gardner’ın Çoklu Zekâ Kuramında Görsel-uzamsal zekâ, Sözel zekâ, Bedensel-kinestetik zekâ, Mantıksal-matematiksel zekâ, Kişilerarası zekâ, Müziksel zekâ, İçsel zekâ ve \*\*Doğa ile ilişkili zekâ\*\* yer alır.
+    > **Açıklama:** Gardner’ın Çoklu Zekâ Kuramında Görsel-uzamsal zekâ, Sözel zekâ, Bedensel-kinestetik zekâ, Mantıksal-matematiksel zekâ, Kişilerarası zekâ, Müziksel zekâ, İçsel zekâ ve **Doğa ile ilişkili zekâ** yer alır.
 
     <hr />
 1. Aşağıdakilerden hangileri Gardner’in Çoklu Zekâ Kuramında yer alan zekâ alanlarındandır?<br />I. Kristalize zekâ<br />II. Kişilerarası zekâ<br />III. Akıcı zekâ<br />IV. Bedensel-kinestetik zekâ
@@ -1299,7 +1299,7 @@
     - **Cevap D-) II ve IV**
     - E-) I ve IV
 
-    > **Açıklama:** Gardner’ın kuramında \*\*Kişilerarası zekâ (II)\*\* ve \*\*Bedensel-kinestetik zekâ (IV)\*\* yer alır. Kristalize zekâ ve Akıcı zekâ ise Cattell-Horn-Carroll Kuramı'na aittir.
+    > **Açıklama:** Gardner’ın kuramında **Kişilerarası zekâ (II)** ve **Bedensel-kinestetik zekâ (IV)** yer alır. Kristalize zekâ ve Akıcı zekâ ise Cattell-Horn-Carroll Kuramı'na aittir.
 
     <hr />
 
@@ -1312,7 +1312,7 @@
     - **Cevap D-) Zeka bölümünün doğru hesaplanabilmesi için çocuk testte uygun performans göstermelidir.**
     - E-) 18 yaşından sonra zeka skorlarında belirgin değişme olması beklenir.
 
-    > **Açıklama:** Zeka testlerinin sonuçlarının güvenilir olması için, zeka bölümünün doğru hesaplanabilmesi adına \*\*çocuğun testte uygun performans göstermesi\*\* kritik öneme sahiptir.
+    > **Açıklama:** Zeka testlerinin sonuçlarının güvenilir olması için, zeka bölümünün doğru hesaplanabilmesi adına **çocuğun testte uygun performans göstermesi** kritik öneme sahiptir.
 
     <hr />
 
@@ -1325,7 +1325,7 @@
     - D-) Zeka testi sonucu elde edilen IQ puanı yorumlanmadan önce bakılacak yer test davranışıdır.
     - E-) Zeka testi sonucu test öncesinde edinilen bilgilerle anlamlı bir bütün oluşturmalıdır.
 
-    > **Açıklama:** Zekâ testi sonucu, test öncesinde çocuğa ilişkin elde edilen bilgilerle birlikte değerlendirildiğinde anlamlı bir bütüncül bakış açısı sunar. Bu nedenle, \*\*başka bilgi olmadan yorumlanması\*\* doğru <u>değildir</u>.
+    > **Açıklama:** Zekâ testi sonucu, test öncesinde çocuğa ilişkin elde edilen bilgilerle birlikte değerlendirildiğinde anlamlı bir bütüncül bakış açısı sunar. Bu nedenle, **başka bilgi olmadan yorumlanması** doğru <u>değildir</u>.
 
     <hr />
 
@@ -1338,7 +1338,7 @@
     - D-) Erken çocukluk döneminde zeka tanısı için sadece gelişim testlerinin kullanılması uygundur.
     - **Cevap E-) Zeka testleri, tek başına tanı veya karar verme amacı taşımalıdır.**
 
-    > **Açıklama:** Zekâ testleri, klinik değerlendirmenin bir parçası olarak kullanılmalı; \*\*tek başına tanı veya karar verme amacı taşımamalıdır\*\*.
+    > **Açıklama:** Zekâ testleri, klinik değerlendirmenin bir parçası olarak kullanılmalı; **tek başına tanı veya karar verme amacı taşımamalıdır**.
 
     <hr />
 
@@ -1351,7 +1351,7 @@
     - D-) Labirentler
     - **Cevap E-) İnsan çizme**
 
-    > **Açıklama:** Wechsler Çocuklar için Zeka Ölçeği-R (WÇZÖ-R) alt testleri arasında Sözcük Bulma, Küplerle Desen, Şifre ve Labirentler bulunur. \*\*İnsan çizme\*\* alt testi değildir.
+    > **Açıklama:** Wechsler Çocuklar için Zeka Ölçeği-R (WÇZÖ-R) alt testleri arasında Sözcük Bulma, Küplerle Desen, Şifre ve Labirentler bulunur. **İnsan çizme** alt testi değildir.
 
     <hr />
 1. İşitme problemi olan bir çocuğun değerlendirilmesinde hangi zeka testi kullanılmalıdır?
@@ -1361,7 +1361,7 @@
     - D-) Stanford Binet Testi
     - E-) Wechsler Çocuklar için Zeka Ölçeği-IV
 
-    > **Açıklama:** Leiter Uluslararası Performans Ölçeği, \*\*sözel iletişim gerektirmemesi\*\* nedeniyle işitme yetersizliği olan veya otizm tanısı bulunan çocuklarda kullanılmaktadır.
+    > **Açıklama:** Leiter Uluslararası Performans Ölçeği, **sözel iletişim gerektirmemesi** nedeniyle işitme yetersizliği olan veya otizm tanısı bulunan çocuklarda kullanılmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi zeka testi <u>değildir</u>?
@@ -1371,7 +1371,7 @@
     - D-) Leiter Uluslararası Performans Ölçeği
     - E-) Goodenough Harris İnsan Resmi Çizme Testi
 
-    > **Açıklama:** Stroop Testi, \*\*dikkat ve yürütücü işlevleri\*\* değerlendiren nöropsikolojik bir testtir. Diğerleri zeka testleridir.
+    > **Açıklama:** Stroop Testi, **dikkat ve yürütücü işlevleri** değerlendiren nöropsikolojik bir testtir. Diğerleri zeka testleridir.
 
     <hr />
 
@@ -1386,7 +1386,7 @@
     - **Cevap D-) Peabody Resim Kelime Eşleştirme Testi**
     - E-) Çocuklar için Algı Testi (CAT)
 
-    > **Açıklama:** Projektif testler bireylere belirsiz uyaranlar vererek kişinin iç dünyasına ulaşmayı amaçlar ve Rorschach, Luisa Düss ve Çocuklar için Algı Testi (CAT) bu türdendir. \*\*Peabody Resim Kelime Eşleştirme Testi\*\* ise alıcı dil ve kelime bilgisini ölçen bir başarı/yetenek testidir.
+    > **Açıklama:** Projektif testler bireylere belirsiz uyaranlar vererek kişinin iç dünyasına ulaşmayı amaçlar ve Rorschach, Luisa Düss ve Çocuklar için Algı Testi (CAT) bu türdendir. **Peabody Resim Kelime Eşleştirme Testi** ise alıcı dil ve kelime bilgisini ölçen bir başarı/yetenek testidir.
 
     <hr />
 
@@ -1399,7 +1399,7 @@
     - D-) Ölçeklerde genelde hata bulunmaz.
     - E-) Öğretmenlerin doldurduğu ölçeklerde genellikle hata bulunmaz.
 
-    > **Açıklama:** Ölçekler, ruh sağlığı alanında \*\*geniş bir belirti kümesinin hızlı bir şekilde incelenmesini\*\* sağlar. Ölçekler klinik değerlendirmeye alternatif <u>değildir</u>.
+    > **Açıklama:** Ölçekler, ruh sağlığı alanında **geniş bir belirti kümesinin hızlı bir şekilde incelenmesini** sağlar. Ölçekler klinik değerlendirmeye alternatif <u>değildir</u>.
 
     <hr />
 
@@ -1412,7 +1412,7 @@
     - D-) Weiss İşlevsellikte Bozulma Ölçeği
     - **Cevap E-) Güçler ve Güçlükler anketi**
 
-    > **Açıklama:** DEHB değerlendirmesinde Conners Anababa/Öğretmen Değerlendirme Ölçekleri ve Weiss İşlevsellikte Bozulma Ölçeği kullanılır. \*\*Güçler ve Güçlükler Anketi (SDQ)\*\* DEHB değerlendirmesinde kullanılan ölçeklerden <u>değildir</u>.
+    > **Açıklama:** DEHB değerlendirmesinde Conners Anababa/Öğretmen Değerlendirme Ölçekleri ve Weiss İşlevsellikte Bozulma Ölçeği kullanılır. **Güçler ve Güçlükler Anketi (SDQ)** DEHB değerlendirmesinde kullanılan ölçeklerden <u>değildir</u>.
 
     <hr />
 1. Aşağıdakilerden hangisi DEHB’nin değerlendirilmesinde kullanılan ölçeklerdendir?
@@ -1448,7 +1448,7 @@
     - D-) Dikkati kaydırma
     - **Cevap E-) Seçici dikkat**
 
-    > **Açıklama:** \*\*Seçici dikkat\*\*, dikkat bileşenlerinden biri olup, dağıtıcıları görmezden gelerek belli bir uyarana odaklanabilme becerisidir.
+    > **Açıklama:** **Seçici dikkat**, dikkat bileşenlerinden biri olup, dağıtıcıları görmezden gelerek belli bir uyarana odaklanabilme becerisidir.
 
     <hr />
 
@@ -1474,7 +1474,7 @@
     - D-) Değiştirilmiş Erken Çocukluk Dönemi Otizm Tarama Ölçeği
     - **Cevap E-) Weiss İşlevsellikte Bozulma Ölçeği**
 
-    > **Açıklama:** Otizm Spektrum Bozukluklarının (OSB) değerlendirilmesinde Otizm Davranış Kontrol Listesi, Çocukluk Çağı Otizm Derecelendirme Ölçeği ve Değiştirilmiş Erken Çocukluk Dönemi Otizm Tarama Ölçeği kullanılır. \*\*Weiss İşlevsellikte Bozulma Ölçeği\*\* ise DEHB’nin değerlendirilmesinde kullanılan bir ölçektir.
+    > **Açıklama:** Otizm Spektrum Bozukluklarının (OSB) değerlendirilmesinde Otizm Davranış Kontrol Listesi, Çocukluk Çağı Otizm Derecelendirme Ölçeği ve Değiştirilmiş Erken Çocukluk Dönemi Otizm Tarama Ölçeği kullanılır. **Weiss İşlevsellikte Bozulma Ölçeği** ise DEHB’nin değerlendirilmesinde kullanılan bir ölçektir.
 
     <hr />
 1. Aşağıdaki ölçeklerden hangisi değerlendirici tarafından çocuğu gözleyerek ve ebeveyne sorularak doldurulur?
@@ -1494,7 +1494,7 @@
     - D-) Sadece DSM-IV tanılarının değerlendirilmesini kapsar.
     - E-) Gönüllülük ilkesine uyulmadan uygulanabilir.
 
-    > **Açıklama:** PAPA, Egger ve arkadaşları tarafından \*\*2–5 yaş arası çocukların ruhsal durumunu değerlendirmek amacıyla geliştirilmiş\*\*, ebeveyn görüşmesine dayalı yapılandırılmış bir araçtır.
+    > **Açıklama:** PAPA, Egger ve arkadaşları tarafından **2–5 yaş arası çocukların ruhsal durumunu değerlendirmek amacıyla geliştirilmiş**, ebeveyn görüşmesine dayalı yapılandırılmış bir araçtır.
 
     <hr />
 
@@ -1509,7 +1509,7 @@
     - D-) Öğretmenlerin ders planlarını standartlaştırmak
     - E-) Ebeveynlerin çocuklarıyla yakınlaşmasını sağlamak
 
-    > **Açıklama:** Okul öncesi dönemde değerlendirme, gelişimsel sorunların ve \*\*gecikmelerin erken dönemde saptanmasına\*\* ve uygun destek/müdahaleye olanak sağlaması açısından kritik öneme sahiptir.
+    > **Açıklama:** Okul öncesi dönemde değerlendirme, gelişimsel sorunların ve **gecikmelerin erken dönemde saptanmasına** ve uygun destek/müdahaleye olanak sağlaması açısından kritik öneme sahiptir.
 
     <hr />
 
@@ -1522,7 +1522,7 @@
     - D-) Uygulanması yaklaşık 2 saat sürer.
     - E-) Sağ-sol ayırt etme becerisi alt testlerinden biridir.
 
-    > **Açıklama:** Metropolitan Okul Olgunluğu Testi, \*\*çocukların ilkokula hazırlık düzeylerini saptamak\*\* için kullanılır. Alt testleri arasında sağ-sol ayırt etme <u>yer almaz</u>.
+    > **Açıklama:** Metropolitan Okul Olgunluğu Testi, **çocukların ilkokula hazırlık düzeylerini saptamak** için kullanılır. Alt testleri arasında sağ-sol ayırt etme <u>yer almaz</u>.
 
     <hr />
 1. Metropolitan Okul Olgunluğu Testinin alt testlerinden <u>değildir</u>?
@@ -1532,7 +1532,7 @@
     - **Cevap D-) Sağ-sol ayırt etme**
     - E-) Sayılar
 
-    > **Açıklama:** Metropolitan Okul Olgunluğu Testi alt testleri arasında Kelime Anlama, Cümleler, Genel Bilgi, Eşleştirme, Sayılar ve Kopya Etme yer alır. \*\*Sağ-sol ayırt etme\*\* alt testi <u>değildir</u>.
+    > **Açıklama:** Metropolitan Okul Olgunluğu Testi alt testleri arasında Kelime Anlama, Cümleler, Genel Bilgi, Eşleştirme, Sayılar ve Kopya Etme yer alır. **Sağ-sol ayırt etme** alt testi <u>değildir</u>.
 
     <hr />
 
@@ -1545,7 +1545,7 @@
     - D-) Lateralleşme
     - **Cevap E-) Sözel zeka**
 
-    > **Açıklama:** Özgül Öğrenme Bozukluğu (ÖÖB) bataryaları Okuma, Yazma, Sağ-sol ayırt etme ve Lateralleşme gibi becerileri değerlendirir. \*\*Sözel zeka\*\* bu bataryanın değerlendirdiği becerilerden biri <u>değildir</u>.
+    > **Açıklama:** Özgül Öğrenme Bozukluğu (ÖÖB) bataryaları Okuma, Yazma, Sağ-sol ayırt etme ve Lateralleşme gibi becerileri değerlendirir. **Sözel zeka** bu bataryanın değerlendirdiği becerilerden biri <u>değildir</u>.
 
     <hr />
 1. Aşağıdakilerden hangisi özgül öğrenme güçlüğü test bataryasında yer alan testlerden <u>değildir</u>?
@@ -1555,7 +1555,7 @@
     - D-) Harris lateralleşme testi
     - E-) Yazma testi
 
-    > **Açıklama:** Özgül Öğrenme Güçlüğü test bataryasında Gessel gelişim figürleri testi, Head sağ-sol ayırt etme testi, Harris lateralleşme testi ve Yazma testi yer alır. \*\*Küplerle desen\*\* (WISC-R/WISC-IV alt testi) bu bataryada yer alan testlerden <u>değildir</u>.
+    > **Açıklama:** Özgül Öğrenme Güçlüğü test bataryasında Gessel gelişim figürleri testi, Head sağ-sol ayırt etme testi, Harris lateralleşme testi ve Yazma testi yer alır. **Küplerle desen** (WISC-R/WISC-IV alt testi) bu bataryada yer alan testlerden <u>değildir</u>.
 
     <hr />
 

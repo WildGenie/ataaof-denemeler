@@ -430,7 +430,7 @@
     - D-) Hazırlık, bütünleşme, yerleşme
     - E-) Hazırlık, okula başlama, bütünleşme
 
-    > **Açıklama:** Okula uyumun aşamaları sırasıyla \*\*Hazırlık, Yerleşme ve Bütünleşme\*\* olarak gerçekleşir.
+    > **Açıklama:** Okula uyumun aşamaları sırasıyla **Hazırlık, Yerleşme ve Bütünleşme** olarak gerçekleşir.
 
     <hr />
 
@@ -680,7 +680,7 @@
     - D-) Sorun çözme tekniklerini kullanma
     - E-) Öğretim ilkelerine uyma
 
-    > **Açıklama:** 1936 Programı'nın eğitim durumları arasında \*\*Ezberden kaçınma\*\* esas alınmıştır. Bu nedenle <b>Ezberleyerek öğrenmenin önemini anlatma</b> ifadesi bu esaslardan biri <u>değildir</u>.
+    > **Açıklama:** 1936 Programı'nın eğitim durumları arasında **Ezberden kaçınma** esas alınmıştır. Bu nedenle <b>Ezberleyerek öğrenmenin önemini anlatma</b> ifadesi bu esaslardan biri <u>değildir</u>.
 
     <hr />
 1. Aşağıdakilerden hangisi 1936 yılı ilkokul programının eğitim-öğretim ilkeleri arasında <u>yer almamaktadır</u>?
@@ -736,7 +736,7 @@
     - D-) 1998
     - E-) 2005
 
-    > **Açıklama:** Öğretmenin hazırlayacağı \*\*Yıllık Plan, Ünite Planı ve Günlük Planlar\*\*'dan ilk olarak <b>1968 İlkokul Programı</b>’nın eğitim durumlarıyla ilgili olan kısımda bahsedilmiştir.
+    > **Açıklama:** Öğretmenin hazırlayacağı **Yıllık Plan, Ünite Planı ve Günlük Planlar**'dan ilk olarak <b>1968 İlkokul Programı</b>’nın eğitim durumlarıyla ilgili olan kısımda bahsedilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisine 1968 ilkokul programının “yöntem ve teknikler” bölümünde yer <u>verilmemiştir</u>?
@@ -746,7 +746,7 @@
     - D-) Proje ile öğretim
     - E-) Deneylerle öğretim
 
-    > **Açıklama:** 1968 İlkokul Programı’nın 'Yöntem ve Teknikler' kısmında anlatma, soru-cevap, proje ve deney gibi teknikler yer alırken, \*\*Buluş yoluyla öğretim\*\* bu bölümde açıkça <u>yer almamaktadır</u>.
+    > **Açıklama:** 1968 İlkokul Programı’nın 'Yöntem ve Teknikler' kısmında anlatma, soru-cevap, proje ve deney gibi teknikler yer alırken, **Buluş yoluyla öğretim** bu bölümde açıkça <u>yer almamaktadır</u>.
 
     <hr />
 1. Cumhuriyet döneminde “ilk defa taslağı kullanılan program“ ve “bu programın taslağı“ sırasıyla hangi yıllarda düzenlenmiştir?
@@ -792,7 +792,7 @@
     - **Cevap D-) 1-2-3-4. sınıflar ve 30’ar saat**
     - E-) 1-2-3-4-5. sınıflar ve 30’ar saat
 
-    > **Açıklama:** Halen uygulanmakta olan 2018 İlkokul Programı; <b>1, 2, 3 ve 4. sınıflardan oluşur</b> ve her sınıf düzeyinde haftalık toplam \*\*30’ar saat\*\* ders bulunmaktadır.
+    > **Açıklama:** Halen uygulanmakta olan 2018 İlkokul Programı; <b>1, 2, 3 ve 4. sınıflardan oluşur</b> ve her sınıf düzeyinde haftalık toplam **30’ar saat** ders bulunmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi 2018 İlkokul Programı’nın yeniliklerinden biridir?
@@ -802,7 +802,7 @@
     - D-) Öğrencilerin sadece bireysel çalışmalar yapması
     - E-) Çevre eğitimine daha az yer verilmesi
 
-    > **Açıklama:** 2018 İlkokul Programı’nın yeniliklerinden biri, \*\*bütünsel bir yaklaşımla dersler arası ilişkiler kurulmasıdır\*\*.
+    > **Açıklama:** 2018 İlkokul Programı’nın yeniliklerinden biri, **bütünsel bir yaklaşımla dersler arası ilişkiler kurulmasıdır**.
 
     <hr />
 

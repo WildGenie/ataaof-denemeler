@@ -462,7 +462,7 @@
     - D-) Sosyal duygusal gelişimlerinin büyük bir kısmının tamamlanarak kişiliklerinin şekil aldığı eğitim sürecidir.
     - E-) Zihinsel ve dil gelişimlerinin büyük bir kısmının tamamlanarak kişiliklerinin şekil aldığı eğitim sürecidir.
 
-    > **Açıklama:** Okul öncesi eğitim, çocuğun doğumundan ilkokula başlayacağı güne kadar olan yılları kapsayan ve çocukların \*\*bütün hayatı boyunca önemli etkisi olan\*\* bir eğitim sürecidir. Bu dönemde bedensel, motor, sosyal duygusal, zihinsel ve dil gelişimlerinin büyük bir kısmı tamamlanarak kişiliklerinin şekil aldığı belirtilmektedir.
+    > **Açıklama:** Okul öncesi eğitim, çocuğun doğumundan ilkokula başlayacağı güne kadar olan yılları kapsayan ve çocukların **bütün hayatı boyunca önemli etkisi olan** bir eğitim sürecidir. Bu dönemde bedensel, motor, sosyal duygusal, zihinsel ve dil gelişimlerinin büyük bir kısmı tamamlanarak kişiliklerinin şekil aldığı belirtilmektedir.
 
     <hr />
 
@@ -485,7 +485,7 @@
     - D-) Dili konuşan toplumun dünya görüşünün bir kesitidir.
     - E-) Bir eserde bulunan sözcüklerin bütünü biçiminde tanımlanabilir.
 
-    > **Açıklama:** Söz varlığı, \*\*sadece\*\* bir dilde birtakım seslerin bir araya gelmesiyle kurulmuş simgeler, kodlar- ya da dilbilimdeki terimiyle göstergeler- olarak \*\*değil\*\*, aynı zamanda o dili konuşan toplumun kavramlar dünyası, maddi ve manevi kültürünün yansıtıcısı, dünya görüşünün bir kesiti olarak düşünülmelidir.
+    > **Açıklama:** Söz varlığı, **sadece** bir dilde birtakım seslerin bir araya gelmesiyle kurulmuş simgeler, kodlar- ya da dilbilimdeki terimiyle göstergeler- olarak **değil**, aynı zamanda o dili konuşan toplumun kavramlar dünyası, maddi ve manevi kültürünün yansıtıcısı, dünya görüşünün bir kesiti olarak düşünülmelidir.
 
     <hr />
 1. Hiç kimse konuştuğu dilin tüm söz varlığını bilemez. ifadesiyle vurgulanmak istenen aşağıdakilerden hangisidir?
@@ -505,7 +505,7 @@
     - **Cevap D-) Söz varlığı**
     - E-) Ses bilgisi
 
-    > **Açıklama:** Bir dilde var olan veya bir kişinin, bir topluluğun kullandığı, ayrıca bir eserde bulunan sözcüklerin bütünü biçiminde tanımlanan kavram \*\*Söz varlığıdır\*\*.
+    > **Açıklama:** Bir dilde var olan veya bir kişinin, bir topluluğun kullandığı, ayrıca bir eserde bulunan sözcüklerin bütünü biçiminde tanımlanan kavram **Söz varlığıdır**.
 
     <hr />
 
@@ -518,7 +518,7 @@
     - **Cevap D-) I, III,**
     - E-) I, III, IV
 
-    > **Açıklama:** Söz varlığı becerisini geliştirmede dikkat edilmesi gereken iki temel husus, \*\*Hedef kitlenin özelliklerini göz önünde bulundurmak\*\* (I) ve \*\*Sık kullanılan söz varlığı unsurlarına öncelik vermektir\*\* (III). Sağlıklı ve tam bir iletişimin gerçekleşmesi (IV) ise söz varlığını zenginleştirmenin genel bir gerekliliğidir, ancak öğrenici stratejisi geliştirirken öncelik (I) ve (III)'e verilir.
+    > **Açıklama:** Söz varlığı becerisini geliştirmede dikkat edilmesi gereken iki temel husus, **Hedef kitlenin özelliklerini göz önünde bulundurmak** (I) ve **Sık kullanılan söz varlığı unsurlarına öncelik vermektir** (III). Sağlıklı ve tam bir iletişimin gerçekleşmesi (IV) ise söz varlığını zenginleştirmenin genel bir gerekliliğidir, ancak öğrenici stratejisi geliştirirken öncelik (I) ve (III)'e verilir.
 
     <hr />
 1. İnsanın söz varlığını geliştirmek için sarf ettiği çaba ............ arz eder. Boşluğa uygun gelen ifade hangisidir.
@@ -528,7 +528,7 @@
     - D-) Sınırsızlık
     - E-) Sınırlılık
 
-    > **Açıklama:** İnsanın söz varlığını geliştirmek için sarf ettiği çaba \*\*süreklilik\*\* arz eder. Belli bir yaştan sonra ya da farklı koşullarda söz varlığı öğrenimi bitmez, her yaş ve koşulda gerçekleşebilir.
+    > **Açıklama:** İnsanın söz varlığını geliştirmek için sarf ettiği çaba **süreklilik** arz eder. Belli bir yaştan sonra ya da farklı koşullarda söz varlığı öğrenimi bitmez, her yaş ve koşulda gerçekleşebilir.
 
     <hr />
 1. Okul öncesi dönemde tema ağırlıklı bir izlence ile öğretim yapılacağından temanın içinde yer alan kavram alanına uygun sözcüklere yer verilmesi gerekecektir. Buna göre okul öncesi dönemde yabancı dil olarak Türkçe öğretiminde temalar belirlenirken aşağıdakilerden hangisine dikkat edilmelidir?
@@ -538,7 +538,7 @@
     - D-) Temalar sadece soyut konularda olmalıdır.
     - **Cevap E-) Öğrencinin gerçek yaşamda kolaylıkla bağ kurabileceği bir çerçeve içerisinde temalar belirlenmelidir.**
 
-    > **Açıklama:** Okul öncesi dönemde yabancı dil olarak Türkçe öğretiminde temalar belirlenirken, öğrencinin \*\*gerçek yaşamda kolaylıkla bağ kurabileceği bir çerçeve içerisinde\*\* planlamalar yapılmalıdır. Örneğin, öğrencinin ilk temas kurduğu fiziksel mekânlar (ev, okul) ve kullandıkları temel araç gereçler (oyuncaklar, okul eşyaları) dikkate alınmalıdır.
+    > **Açıklama:** Okul öncesi dönemde yabancı dil olarak Türkçe öğretiminde temalar belirlenirken, öğrencinin **gerçek yaşamda kolaylıkla bağ kurabileceği bir çerçeve içerisinde** planlamalar yapılmalıdır. Örneğin, öğrencinin ilk temas kurduğu fiziksel mekânlar (ev, okul) ve kullandıkları temel araç gereçler (oyuncaklar, okul eşyaları) dikkate alınmalıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi söz varlığı türlerinden biridir?
@@ -548,7 +548,7 @@
     - D-) Yapısal söz varlığı
     - E-) Çok yönlü söz varlığı
 
-    > **Açıklama:** Kaynaklarda söz varlığı türlerinden biri olarak \*\*Temel söz varlığı\*\* geçmektedir.
+    > **Açıklama:** Kaynaklarda söz varlığı türlerinden biri olarak **Temel söz varlığı** geçmektedir.
 
     <hr />
 1. Okuma becerisine hazırlık yapmak için kullanılan temel materyaller ve faaliyetlerden kavram geliştirme çalışmaları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır? *(2 kez soruldu)*
@@ -558,7 +558,7 @@
     - D-) Okul öncesi dönemdeki çocuklar bir grup nesne içindeki benzerlikler ve farklılıkları ayırt edebilir.
     - E-) Okul öncesi dönemdeki çocuklar nesneleri kişilerle eşleştirebilir.
 
-    > **Açıklama:** Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma döneminde olmakla birlikte, bu dönemi tam olarak \*\*tamamlamış değildir\*\*. Bu dönem hala gelişim aşamasında olabilir.
+    > **Açıklama:** Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma döneminde olmakla birlikte, bu dönemi tam olarak **tamamlamış değildir**. Bu dönem hala gelişim aşamasında olabilir.
 
     <hr />
 
@@ -571,7 +571,7 @@
     - D-) Keşif stratejileri ve Yürütücü biliş stratejileri
     - E-) Pekiştirme stratejileri ve Bellek stratejileri
 
-    > **Açıklama:** Schmitt (1997) sözcük öğrenme stratejileri konusunda yaptığı çalışmada iki önemli stratejiyi öne çıkartmıştır: \*\*Keşfetme stratejileri ve pekiştirme stratejileri\*\*.
+    > **Açıklama:** Schmitt (1997) sözcük öğrenme stratejileri konusunda yaptığı çalışmada iki önemli stratejiyi öne çıkartmıştır: **Keşfetme stratejileri ve pekiştirme stratejileri**.
 
     <hr />
 1. Aşağıdakilerden hangisi sosyal stratejilere örnektir?
@@ -604,7 +604,7 @@
     - D-) 32-42 aylar
     - E-) 45-55 aylar
 
-    > **Açıklama:** Çocuk 61-72 aylık dönemde ana dilinde \*\*sesler arasındaki farklılıkları ve benzerlikleri söyler\*\*. Sesinin tonunu, hızını, şiddetini ayarlar. \*\*Sıralı ve bileşik cümleler kurar\*\*. Cümlelerinde özneye uygun fiil kullanır. Altı ve daha fazla sözcükten oluşan cümleler kurabilir ve dilin yapısına büyük ölçüde kullanım açısından hâkimdir.
+    > **Açıklama:** Çocuk 61-72 aylık dönemde ana dilinde **sesler arasındaki farklılıkları ve benzerlikleri söyler**. Sesinin tonunu, hızını, şiddetini ayarlar. **Sıralı ve bileşik cümleler kurar**. Cümlelerinde özneye uygun fiil kullanır. Altı ve daha fazla sözcükten oluşan cümleler kurabilir ve dilin yapısına büyük ölçüde kullanım açısından hâkimdir.
 
     <hr />
 
@@ -617,7 +617,7 @@
     - D-) Giriş, eşik, özerk düzey
     - E-) Temel, bağımsız, ustalık düzeyi
 
-    > **Açıklama:** Erken çocukluk gelişimine uygun olarak söz varlığı öğretimi planlaması \*\*36-48 ay (Başlangıç I), 49-60 ay (Başlangıç II) ve 61-72 ay (Başlangıç III)\*\* aylık gruplara göre planlanmalıdır.
+    > **Açıklama:** Erken çocukluk gelişimine uygun olarak söz varlığı öğretimi planlaması **36-48 ay (Başlangıç I), 49-60 ay (Başlangıç II) ve 61-72 ay (Başlangıç III)** aylık gruplara göre planlanmalıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi okul öncesi dönemde söz varlığı öğretiminde öncelikle dikkat edilmesi gereken hususlardan biri değildir?
@@ -637,7 +637,7 @@
     - **Cevap D-) kolay - doğal**
     - E-) yapay - derin
 
-    > **Açıklama:** Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha \*\*kolay\*\* ve daha \*\*doğal\*\* bir biçimde öğrenildiği bilinmektedir. Bu durum, çocukların beyinlerinin bilişsel mekanizmalar öğrenme evresine hazır oluncaya kadar dilleri ana dili edinimi sürecine benzer bir süreçle edinebilmesi yetisine sahip olmasıyla açıklanır.
+    > **Açıklama:** Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha **kolay** ve daha **doğal** bir biçimde öğrenildiği bilinmektedir. Bu durum, çocukların beyinlerinin bilişsel mekanizmalar öğrenme evresine hazır oluncaya kadar dilleri ana dili edinimi sürecine benzer bir süreçle edinebilmesi yetisine sahip olmasıyla açıklanır.
 
     <hr />
 

@@ -42,7 +42,20 @@ def safe_convert(text):
     text = re.sub(r'<br\b[^>]*>', '\n', text, flags=re.IGNORECASE)
     text = re.sub(r'</br>', '', text, flags=re.IGNORECASE)
     converted = converter.convert(text).strip()
-    # Escape dots after numbers at the start of a line
+
+    # Unescape characters that markdownify escaped unnecessarily for our use case
+    # This prevents things like \_\_\_\_\_ appearing in the output
+    converted = converted.replace(r'\_', '_')
+    converted = converted.replace(r'\*', '*')
+    converted = converted.replace(r'\[', '[')
+    converted = converted.replace(r'\]', ']')
+    converted = converted.replace(r'\(', '(')
+    converted = converted.replace(r'\)', ')')
+    converted = converted.replace(r'\!', '!')
+    converted = converted.replace(r'\+', '+')
+    converted = converted.replace(r'\-', '-')
+
+    # Escape dots after numbers at the start of a line (To prevent unwanted automatic lists)
     converted = re.sub(r'^(\d+)\.', r'\1\.', converted, flags=re.MULTILINE)
     # Escape < except for allowed HTML tags
     allowed_tags = r'sup|sub|u|b|i|strong|em|ins'

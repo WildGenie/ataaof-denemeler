@@ -4,7 +4,7 @@
 
 ### 1.1. Çocukluk Çağındaki Olumsuz Yaşantıların ve Psikiyatrik Sorunların Yaşam Boyu Etkileri
 
-1. Konuyla ilgili bilimsel çalışmalar yaşam boyunca ortaya çıkan bütün psikiyatrik bozuklukların <u>\_\_\_\_\_\_\_\_\_</u> ilk olarak çocukluk çağında ortaya çıktığını göstermektedir.
+1. Konuyla ilgili bilimsel çalışmalar yaşam boyunca ortaya çıkan bütün psikiyatrik bozuklukların <u>_________</u> ilk olarak çocukluk çağında ortaya çıktığını göstermektedir.
     - A-) dörtte birinin
     - B-) üçte birinin
     - **Cevap C-) yaklaşık yarısının**
@@ -14,7 +14,7 @@
     > **Açıklama:** Konuyla ilgili bilimsel çalışmalar, yaşam boyunca ortaya çıkan bütün psikiyatrik bozuklukların <b>yaklaşık yarısının</b> ilk olarak çocukluk çağında ortaya çıktığını göstermektedir.
 
     <hr />
-1. Günümüzdeki yaygın anlayışa göre psikiyatrik bozuklukların ortaya çıkmasındaki iki önemli etkeni genetik/biyolojik yatkınlık ve <u>\_\_\_\_\_\_\_\_\_</u> olarak özetlenebilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisinin gelmesi en uygun olacaktır?
+1. Günümüzdeki yaygın anlayışa göre psikiyatrik bozuklukların ortaya çıkmasındaki iki önemli etkeni genetik/biyolojik yatkınlık ve <u>_________</u> olarak özetlenebilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisinin gelmesi en uygun olacaktır?
     - A-) fakirlik
     - B-) enfeksiyonlar
     - C-) kötü arkadaş çevresi
@@ -24,7 +24,7 @@
     > **Açıklama:** Psikiyatrik bozuklukların ortaya çıkmasındaki iki önemli etken, <b>genetik/biyolojik yatkınlık ve olumsuz/travmatik çevresel koşullardır</b>.
 
     <hr />
-1. <u>\_\_\_\_\_\_\_\_\_</u>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade eder. <u>\_\_\_\_\_\_\_\_\_</u>, ise, bir insanın doğum öncesinden başlayıp ölümüne kadar geçirdiği, yapı ve fonksiyonlarının <u>\_\_\_\_\_\_\_\_\_</u> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder. Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangilerinin gelmesi uygun olacaktır? *(2 kez soruldu)*
+1. <u>_________</u>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade eder. <u>_________</u>, ise, bir insanın doğum öncesinden başlayıp ölümüne kadar geçirdiği, yapı ve fonksiyonlarının <u>_________</u> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder. Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangilerinin gelmesi uygun olacaktır? *(2 kez soruldu)*
     - A-) Çoğalma / Olgunlaşma / gelişim
     - B-) Olgunlaşma / Gelişme / büyüme
     - C-) Büyüme / Olgunlaşma / gelişim
@@ -120,7 +120,7 @@
     > **Açıklama:** Çocukluk ve ergenlik dönemlerindeki ciddi ihmal veya travmatik olaylar, <b>yaşam boyu etkiler bırakabilir</b>. Bu nedenle etkilerinin sadece ergenlik dönemiyle sınırlı olduğu ifadesi yanlıştır.
 
     <hr />
-1. Beynin en esnek olduğu, çevresel faktörlerin etkisine ve yeni tecrübelere en açık olunan dönemlerin <u>\_\_\_\_\_\_\_\_\_</u> olduğu bilinmektedir. Yukarıdaki boşluğa getirilebilecek en uygun ifade aşağıdakilerden hangisidir?
+1. Beynin en esnek olduğu, çevresel faktörlerin etkisine ve yeni tecrübelere en açık olunan dönemlerin <u>_________</u> olduğu bilinmektedir. Yukarıdaki boşluğa getirilebilecek en uygun ifade aşağıdakilerden hangisidir?
     - A-) doğum öncesi
     - **Cevap B-) doğum öncesi ve erken çocukluk yılları**
     - C-) erken çocukluk yılları
@@ -143,7 +143,7 @@
     > **Açıklama:** Psikolojik dayanıklılık <b>zaman içinde gelişen, değişen ve öğrenilen</b> bir durumdur. Bu nedenle, genetik faktörlere bağlı olup değiştirilemez demek yanlıştır.
 
     <hr />
-1. <u>\_\_\_\_\_\_\_\_\_</u>, bir kişinin zorluklarla başa çıkabilme, adaptasyon gösterebilme ve zorluk öncesi durumuna dönebilme kapasitesini tanımlar. Yukarıdaki cümlede boş bırakılan yere hangisinin gelmesi en uygundur?
+1. <u>_________</u>, bir kişinin zorluklarla başa çıkabilme, adaptasyon gösterebilme ve zorluk öncesi durumuna dönebilme kapasitesini tanımlar. Yukarıdaki cümlede boş bırakılan yere hangisinin gelmesi en uygundur?
     - **Cevap A-) Psikolojik dayanıklılık**
     - B-) Nöroplastisite
     - C-) Fiziksel sağlamlık
@@ -181,7 +181,7 @@
 
 ### 2.2. Gebelik Şekli
 
-1. Bir gebelik, başlangıçta istenmeyip gebeliğin ilerleyen zamanlarında isteniyor ise <u>\_\_\_\_\_\_\_\_\_</u> gebelik olarak sınıflandırılmaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+1. Bir gebelik, başlangıçta istenmeyip gebeliğin ilerleyen zamanlarında isteniyor ise <u>_________</u> gebelik olarak sınıflandırılmaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
     - A-) riskli
     - B-) gecikmiş
     - C-) planlı
@@ -749,7 +749,7 @@
     - D-) Çocuğun tüm kararlarını onun yerine almak
     - E-) Çocuğun öğretmenleriyle iletişim kurmasını yasaklamak
 
-    > **Açıklama:** Ebeveynlerin, çocuğun hangi sorunla nasıl baş ettiğini veya edeceğini öngörebilmesi ve gerektiğinde çocuğa yardımcı olabilmesi önemlidir. Bu kapsamda, \*\*okuldaki sorunlarıyla ilgili çocukla konuşmak\*\* ve çözüm becerilerini geliştirmesine yardımcı olmak ebeveynin sorumlulukları arasındadır.
+    > **Açıklama:** Ebeveynlerin, çocuğun hangi sorunla nasıl baş ettiğini veya edeceğini öngörebilmesi ve gerektiğinde çocuğa yardımcı olabilmesi önemlidir. Bu kapsamda, **okuldaki sorunlarıyla ilgili çocukla konuşmak** ve çözüm becerilerini geliştirmesine yardımcı olmak ebeveynin sorumlulukları arasındadır.
 
     <hr />
 1. I. Akademik başarı ve sorumluluk duygusu<br />II. Hayır deme ve kendini ifade etme becerileri<br />III. Güvenli bağlanma<br />IV. Sağlıklı eğlence anlayışı<br />Yukarıdakilerden hangileri okul döneminde (6-12 yaş) kazanılması beklenilen koruyucu becerileri arasında yer almaktadır?
@@ -795,7 +795,7 @@
     - D-) Üstün zekâlı çocuk
     - **Cevap E-) Sorumsuz çocuk**
 
-    > **Açıklama:** Özel gereksinimli çocuk, bireysel ve gelişimsel özellikleri ile eğitim yeterlilikleri açısından akranlarından anlamlı farklılıklar gösteren çocuk olarak tanımlanır. Bu tanım; zihinsel yetersizlik, DEHB, ÖÖB, otizm, işitme, görme, ortopedik engeli olan bireyleri ve sürekli/uzun süreli bakım gerektiren hastalığı olan bireyleri kapsar. \*\*Sorumsuz çocuk\*\* bu kategoride yer almaz.
+    > **Açıklama:** Özel gereksinimli çocuk, bireysel ve gelişimsel özellikleri ile eğitim yeterlilikleri açısından akranlarından anlamlı farklılıklar gösteren çocuk olarak tanımlanır. Bu tanım; zihinsel yetersizlik, DEHB, ÖÖB, otizm, işitme, görme, ortopedik engeli olan bireyleri ve sürekli/uzun süreli bakım gerektiren hastalığı olan bireyleri kapsar. **Sorumsuz çocuk** bu kategoride yer almaz.
 
     <hr />
 1. I. Zihinsel yetersizlik<br />II. Anksiyete bozukluğu<br />III. Özgül öğrenme bozukluğu<br />Yukarıdakilerden hangisi veya hangileri okul çağı çocuklarında özel gereksinim gerektiren durumlardandır?
@@ -851,7 +851,7 @@
     - D-) Erken tanı ve müdahale prognozda önemlidir.
     - E-) Birçoğunda zaman düşük benlik saygısı gelişir.
 
-    > **Açıklama:** Özgül öğrenme bozukluğu, \*\*sadece okuma, yazma ve aritmetik becerileri\*\* gibi belirli alanlardaki öğrenme güçlüğünü ifade eder. Bu durum, çocuğun ders dışı diğer alanlarda (spor, sanat, sosyal beceriler) bir şey öğrenemeyeceği anlamına gelmez.
+    > **Açıklama:** Özgül öğrenme bozukluğu, **sadece okuma, yazma ve aritmetik becerileri** gibi belirli alanlardaki öğrenme güçlüğünü ifade eder. Bu durum, çocuğun ders dışı diğer alanlarda (spor, sanat, sosyal beceriler) bir şey öğrenemeyeceği anlamına gelmez.
 
     <hr />
 1. I. Dikkat eksikliği hiperaktivite bozukluğu<br />II. Özgül öğrenme bozukluğu<br />III. İletişim bozuklukları<br />Yukarıdakilerden hangisi veya hangileri özellikle okul çağında fark edilen ve çocuğun akademik başarısı ve okul uyumunu olumsuz etkileyen sorunlardandır?
@@ -861,7 +861,7 @@
     - D-) Yalnız I
     - E-) Yalnız II
 
-    > **Açıklama:** Okul çağı, dikkat eksikliği hiperaktivite bozukluğu (DEHB) ve özgül öğrenme bozukluğu (ÖÖB) gibi bozuklukların akademik taleplerin artmasıyla \*\*ortaya çıktığı ya da görünür hâle gelmeye başladığı\*\* bir dönemdir (I, II). İletişim bozuklukları (III) ise genellikle daha erken dönemde fark edilir, ancak DEHB ve ÖÖB bu dönemde akademik uyumu en çok bozan temel sorunlardandır.
+    > **Açıklama:** Okul çağı, dikkat eksikliği hiperaktivite bozukluğu (DEHB) ve özgül öğrenme bozukluğu (ÖÖB) gibi bozuklukların akademik taleplerin artmasıyla **ortaya çıktığı ya da görünür hâle gelmeye başladığı** bir dönemdir (I, II). İletişim bozuklukları (III) ise genellikle daha erken dönemde fark edilir, ancak DEHB ve ÖÖB bu dönemde akademik uyumu en çok bozan temel sorunlardandır.
 
     <hr />
 1. Bir ilköğretim okulunda birincil ve ikincil koruyucu ruh sağlığı programı uygulamayı planlıyorsunuz. Aşağıdakilerden hangisinin bu programda yer alması <u>beklenmez</u>?
@@ -871,7 +871,7 @@
     - D-) Ekran ve internet kullanımı konusunda ailelerle çalışmak
     - E-) Özel gereksinimi olan çocukları belirlemek
 
-    > **Açıklama:** Birincil ve ikincil koruma, hastalıkların önlenmesini, erken tanısını ve müdahalesini (yönlendirme/tarama) içerir. Fiziksel engelli çocuklara yönelik rehabilitasyon hizmeti vermek, yeti yitimini en aza indirmeyi amaçlayan \*\*üçüncül koruma\*\* hizmetlerine aittir. Bu nedenle, birincil veya ikincil koruma programında yer alması beklenmez.
+    > **Açıklama:** Birincil ve ikincil koruma, hastalıkların önlenmesini, erken tanısını ve müdahalesini (yönlendirme/tarama) içerir. Fiziksel engelli çocuklara yönelik rehabilitasyon hizmeti vermek, yeti yitimini en aza indirmeyi amaçlayan **üçüncül koruma** hizmetlerine aittir. Bu nedenle, birincil veya ikincil koruma programında yer alması beklenmez.
 
     <hr />
 
@@ -884,7 +884,7 @@
     - D-) %30-40
     - E-) %20-30
 
-    > **Açıklama:** Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının \*\*%8-18\*\* oranında olduğunu bildirmektedir.
+    > **Açıklama:** Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının **%8-18** oranında olduğunu bildirmektedir.
 
     <hr />
 1. I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır.<br />II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur.<br />III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar.<br />IV. Eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar.<br />Yukarıdakilerden hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?
@@ -894,7 +894,7 @@
     - D-) I ve IV
     - E-) I ve III
 
-    > **Açıklama:** Okul, çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlar (I). Psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlar (III). Ayrıca eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar (IV). Sağlık hizmeti maliyetleri okul tabanlı programlarla \*\*düşürülebilir\*\*, bu nedenle II. madde yanlıştır.
+    > **Açıklama:** Okul, çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlar (I). Psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlar (III). Ayrıca eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar (IV). Sağlık hizmeti maliyetleri okul tabanlı programlarla **düşürülebilir**, bu nedenle II. madde yanlıştır.
 
     <hr />
 1. I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır.<br />II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur.<br />III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar.<br />Yukarıdakilerden hangisi ve hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?
@@ -904,7 +904,7 @@
     - D-) I ve II
     - E-) Yalnız II
 
-    > **Açıklama:** Okulun avantajları arasında çocuk, ergen ve ailelere daha kolay ulaşılabilir olması (I) ve psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlaması (III) yer alır. Okul sistemi içinde program uygulaması maliyeti \*\*azaltabilir\*\*, bu nedenle II. madde doğru değildir.
+    > **Açıklama:** Okulun avantajları arasında çocuk, ergen ve ailelere daha kolay ulaşılabilir olması (I) ve psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlaması (III) yer alır. Okul sistemi içinde program uygulaması maliyeti **azaltabilir**, bu nedenle II. madde doğru değildir.
 
     <hr />
 1. Aşağıdaki psikiyatrik bozukluklardan hangisinin çocuklarda görülme sıklığının, okul ortamında alınabilecek tedbir ve çalışmalarla azaltılması <u>beklenmez</u>?
