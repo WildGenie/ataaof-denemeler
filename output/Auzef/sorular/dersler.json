@@ -6,17 +6,25 @@
                 "dersAdi": "Koruyucu Ruh Sağlığı ve Dayanıklılık",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 5/Auzef - Dönem 5 - Koruyucu Ruh Sağlığı ve Dayanıklılık - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Koruyucu Ruh Sağlığı ve Dayanıklılık - Alıştırma Soruları.json"
                     }
                 ]
             },
             {
-                "dersAdi": "Psikometrik - Gelişimsel Ölçme Ve Değerlendirme",
+                "dersAdi": "Psikometrik - Gelişimsel Ölçme ve Değerlendirme",
                 "sources": [
                     {
-                        "name": "Sorular",
-                        "url": "json/Donem 5/Auzef - Dönem 5 - Psikometrik - Gelişimsel Ölçme Ve Değerlendirme - Sorular.json"
+                        "name": "Çıkmış Sorular",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Psikometrik - Gelişimsel Ölçme ve Değerlendirme - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Psikometrik - Gelişimsel Ölçme ve Değerlendirme - Alıştırma Soruları.json"
                     }
                 ]
             },
@@ -24,8 +32,12 @@
                 "dersAdi": "Sosyal-Duygusal Gelişim",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 5/Auzef - Dönem 5 - Sosyal-Duygusal Gelişim - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Sosyal-duygusal Gelişim - Alıştırma Soruları.json"
                     }
                 ]
             },
@@ -33,8 +45,12 @@
                 "dersAdi": "Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 5/Auzef - Dönem 5 - Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri - Alıştırma Soruları.json"
                     }
                 ]
             }
@@ -47,8 +63,12 @@
                 "dersAdi": "Okul Öncesi Dönemde Duyu Eğitimi",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 7/Auzef - Dönem 7 - Okul Öncesi Dönemde Duyu Eğitimi - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Okul Öncesi Dönemde Duyu Eğitimi - Alıştırma Soruları.json"
                     }
                 ]
             },
@@ -56,8 +76,12 @@
                 "dersAdi": "Oyun ve Oyun Terapisi",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 7/Auzef - Dönem 7 - Oyun ve Oyun Terapisi - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Oyun ve Oyun Terapisi - Alıştırma Soruları.json"
                     }
                 ]
             },
@@ -65,8 +89,12 @@
                 "dersAdi": "Çocuk Gelişimi Uygulamaları I",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 7/Auzef - Dönem 7 - Çocuk Gelişimi Uygulamaları I - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Çocuk Gelişimi Uygulamaları I - Alıştırma Soruları.json"
                     }
                 ]
             },
@@ -74,8 +102,12 @@
                 "dersAdi": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 7/Auzef - Dönem 7 - Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi - Alıştırma Soruları.json"
                     }
                 ]
             },
@@ -83,8 +115,12 @@
                 "dersAdi": "İlkokula Hazırlık",
                 "sources": [
                     {
-                        "name": "Sorular",
+                        "name": "Çıkmış Sorular",
                         "url": "json/Donem 7/Auzef - Dönem 7 - İlkokula Hazırlık - Sorular.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - İlkokula Hazırlık - Alıştırma Soruları.json"
                     }
                 ]
             }

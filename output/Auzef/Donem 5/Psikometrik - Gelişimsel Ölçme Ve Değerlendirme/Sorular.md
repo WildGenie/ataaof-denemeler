@@ -1,19 +1,6 @@
-# Psikometrik - Gelişimsel Ölçme Ve Değerlendirme - Çıkmış Sorular
+# Psikometrik - Gelişimsel Ölçme ve Değerlendirme - Sorular
 
 ## Ünite 1
-
-### 1.1. Ölçme İşlemi
-
-1. Aşağıdakilerden hangisi dolaylı ölçme işlemi ile ölçülebilir? *(2 kez soruldu)*
-    - A-) Sertlik
-    - **Cevap B-) Mizaç**
-    - C-) Ağırlık
-    - D-) Boy
-    - E-) Sıcaklık
-
-    > **Açıklama:** Mizaç gibi psikolojik özellikler doğrudan gözlemlenemediği için dolaylı ölçme ile ölçülür. Dolaylı ölçüm yöntemleri, gözle doğrudan ölçülemeyen özelliklerin değerlendirilmesini sağlar.
-
-    <hr />
 
 ### 1.1. Ölçme Tanımı
 
@@ -27,7 +14,8 @@
     > **Açıklama:** Ölçme işlemi, herhangi bir niteliği sayısal olarak ifade etme sürecidir. Ölçme işleminin amacı ölçüte göre uygun bir karara varmak değildir; bu, değerlendirme sürecinin amacıdır.
 
     <hr />
-1. Psikometrik açıdan “ölçme” kavramı neyi ifade eder?
+
+2. Psikometrik açıdan “ölçme” kavramı neyi ifade eder?
     - A-) Test sonuçları yorumlanırken hata kaynaklarının farkında olunmasıdır.
     - **Cevap B-) Herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilmesi sürecidir.**
     - C-) Bireysel test sonuçlarını daha anlamlı hale getirmek amacıyla yapılan değişikliklerdir.
@@ -37,7 +25,8 @@
     > **Açıklama:** Ölçme, herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilmesi sürecidir. Ölçme işlemi; sayarak, sınıflandırarak veya derecelendirerek yapılabilir.
 
     <hr />
-1. Psikometride ölçme işlemi hakkında yukarıdaki ifadelerden hangileri doğrudur?<br />I. Ölçme herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilme sürecidir<br />II. Ölçme işleminin amacı ölçüte göre uygun bir karara varmaktır<br />III. Ölçme işlemi bir nitelik ifade etme yöntemi olduğu için sübjektif olmalıdır<br />IV. Ölçme işlemi sayarak sınıflandırarak derecelendirerek yapılabilir
+
+3. Psikometride ölçme işlemi hakkında yukarıdaki ifadelerden hangileri doğrudur?<br />I. Ölçme herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilme sürecidir<br />II. Ölçme işleminin amacı ölçüte göre uygun bir karara varmaktır<br />III. Ölçme işlemi bir nitelik ifade etme yöntemi olduğu için sübjektif olmalıdır<br />IV. Ölçme işlemi sayarak sınıflandırarak derecelendirerek yapılabilir
     - A-) III-IV
     - B-) II-III
     - **Cevap C-) I ve IV**
@@ -45,6 +34,30 @@
     - E-) II-IV
 
     > **Açıklama:** Ölçme, herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilmesi sürecidir (I) ve ölçme işlemi sayarak, sınıflandırarak veya derecelendirerek yapılabilir (IV). Amaç karara varmak (II) değil, değerlendirmedir ve objektif olmalıdır (III).
+
+    <hr />
+
+### 1.1. Ölçme İşlemi
+
+1. Aşağıdakilerden hangisi dolaylı ölçme işlemi ile ölçülebilir?
+    - A-) Sertlik
+    - **Cevap B-) Mizaç**
+    - C-) Ağırlık
+    - D-) Boy
+    - E-) Sıcaklık
+
+    > **Açıklama:** Mizaç gibi psikolojik özellikler doğrudan gözlemlenemediği için dolaylı ölçme ile ölçülür. Dolaylı ölçüm yöntemleri, gözle doğrudan ölçülemeyen özelliklerin değerlendirilmesini sağlar.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi dolaylı ölçme işlemiyle ölçülebilir?
+    - A-) Boy
+    - B-) Sıcaklık
+    - C-) Tepki zamanı
+    - **Cevap D-) Zeka**
+    - E-) Ağırlık
+
+    > **Açıklama:** Zeka, kişilik ya da duygular gibi özellikler doğrudan gözlemlenemediği için psikolojide ölçme çoğunlukla dolaylıdır.
 
     <hr />
 
@@ -74,26 +87,27 @@
 
     <hr />
 
-### 1.4.2.1. Sınıflama (Nominal) Ölçekleri
+### 1.4. Ölçek Türleri
 
-1. Aşağıdakilerden hangisi sınıflama ölçeklerine örnek olarak verilebilir? *(2 kez soruldu)*
-    - A-) Sınav puanları
-    - **Cevap B-) Atletlerin sırt numaraları**
-    - C-) Memnuniyet anketleri
-    - D-) Sıcaklık dereceleri
-    - E-) Yaş
+1. Aşağıdaki ölçek tiplerinden hangisi hesaplama ve istatistiklerde kullanım için en uygundur?
+    - A-) Eşit aralıklı ölçekler
+    - **Cevap B-) Eşit oranlı ölçekler**
+    - C-) Sınıflama ölçekleri
+    - D-) Sıralama ölçekleri
+    - E-) Sayısal ölçekler
 
-    > **Açıklama:** Sınıflama (Nominal) Ölçekleri, nesneleri ya da bireyleri belirli kategorilere ayırarak tanımlar. Atletlerin sırt numaraları, bu kategorilerin yalnızca sembollerle ifade edildiği bir sınıflama örneğidir; sayıların büyüklük veya sıralama anlamı taşımaz.
+    > **Açıklama:** Eşit oranlı ölçekler, gerçek (mutlak) sıfır noktasına sahiptir ve üzerlerinde gerçekleştirilen tüm matematiksel işlemler anlamlı olduğu için istatistiklerde kullanım için en uygun ve en gelişmiş ölçek türüdür.
 
     <hr />
-1. Bireyleri ya da nesneleri belirli kategorilere ayırarak tanımlayan; örneğin bir öğrenci grubunu saç rengine göre sarışın, kumral ve esmer olarak sınıflandıran ölçek türü aşağıdakilerden hangisidir?
-    - **Cevap A-) Sınıflama (Nominal) Ölçekleri**
-    - B-) Sıralama (Ordinal) Ölçekleri
-    - C-) Eşit Aralıklı (Interval) Ölçekler
-    - D-) Eşit Oranlı (Ratio) Ölçekler
-    - E-) Çoktan Seçmeli Ölçekler
 
-    > **Açıklama:** Sınıflama (Nominal) Ölçekleri, verileri kategorilere ayırmak amacıyla kullanılır; bu ölçeklerde sayılar yalnızca sembol işlevi görür, büyüklük ya da sıralama anlamı taşımaz.
+2. Aşağıdakilerden hangisi yapısal niteliklerine göre ölçek çeşitlerinden <u>değildir</u>?
+    - A-) Sıralama ölçekleri
+    - B-) Eşit oranlı ölçekler
+    - **Cevap C-) Sayısal ölçekler**
+    - D-) Sınıflama ölçekleri
+    - E-) Eşit aralıklı ölçekler
+
+    > **Açıklama:** Temel ölçek türleri Sınıflama, Sıralama, Eşit Aralıklı ve Eşit Oranlı ölçeklerdir. Sayısal ölçekler yapısal niteliklerine göre ölçek çeşitlerinden biri değildir.
 
     <hr />
 
@@ -109,7 +123,8 @@
     > **Açıklama:** Ratio (Eşit oranlı) ölçekler, gerçek sıfır noktasına sahiptir ve üzerlerinde gerçekleştirilen tüm matematiksel işlemler anlamlıdır. Hesaplama açısından en gelişmiş ölçek türü olarak kabul edilir.
 
     <hr />
-1. Aşağıdakilerden hangisi eşit oranlı ölçeklere örnektir?
+
+2. Aşağıdakilerden hangisi eşit oranlı ölçeklere örnektir?
     - A-) Likert tipi ölçekler
     - B-) Hava sıcaklığı
     - C-) Cinsiyet
@@ -119,7 +134,8 @@
     > **Açıklama:** Boy, gerçek sıfır noktasına sahip olduğu için eşit oranlı ölçeklere örnektir. Hava sıcaklığı eşit aralıklı, memnuniyet anketleri sıralama, cinsiyet ise sınıflama ölçeğidir.
 
     <hr />
-1. Aşağıdakilerden hangisi eşit oranlı ölçeklere örnek olarak verilebilir?
+
+3. Aşağıdakilerden hangisi eşit oranlı ölçeklere örnek olarak verilebilir?
     - A-) Kovadaki topların renklerine göre numaralandırılması
     - B-) IQ puanları
     - **Cevap C-) Ağırlık**
@@ -130,26 +146,169 @@
 
     <hr />
 
-### 1.4. Ölçek Türleri
+### 1.4.2.1. Sınıflama (Nominal) Ölçekleri
 
-1. Aşağıdaki ölçek tiplerinden hangisi hesaplama ve istatistiklerde kullanım için en uygundur?
-    - A-) Eşit aralıklı ölçekler
-    - **Cevap B-) Eşit oranlı ölçekler**
-    - C-) Sınıflama ölçekleri
-    - D-) Sıralama ölçekleri
-    - E-) Sayısal ölçekler
+1. Aşağıdakilerden hangisi sınıflama ölçeklerine örnek olarak verilebilir?
+    - A-) Sınav puanları
+    - **Cevap B-) Atletlerin sırt numaraları**
+    - C-) Memnuniyet anketleri
+    - D-) Sıcaklık dereceleri
+    - E-) Yaş
 
-    > **Açıklama:** Eşit oranlı ölçekler, gerçek (mutlak) sıfır noktasına sahiptir ve üzerlerinde gerçekleştirilen tüm matematiksel işlemler anlamlı olduğu için istatistiklerde kullanım için en uygun ve en gelişmiş ölçek türüdür.
+    > **Açıklama:** Sınıflama (Nominal) Ölçekleri, nesneleri ya da bireyleri belirli kategorilere ayırarak tanımlar. Atletlerin sırt numaraları, bu kategorilerin yalnızca sembollerle ifade edildiği bir sınıflama örneğidir; sayıların büyüklük veya sıralama anlamı taşımaz.
 
     <hr />
-1. Aşağıdakilerden hangisi yapısal niteliklerine göre ölçek çeşitlerinden <u>değildir</u>?
-    - A-) Sıralama ölçekleri
-    - B-) Eşit oranlı ölçekler
-    - **Cevap C-) Sayısal ölçekler**
-    - D-) Sınıflama ölçekleri
-    - E-) Eşit aralıklı ölçekler
 
-    > **Açıklama:** Temel ölçek türleri Sınıflama, Sıralama, Eşit Aralıklı ve Eşit Oranlı ölçeklerdir. Sayısal ölçekler yapısal niteliklerine göre ölçek çeşitlerinden biri değildir.
+2. Bireyleri ya da nesneleri belirli kategorilere ayırarak tanımlayan; örneğin bir öğrenci grubunu saç rengine göre sarışın, kumral ve esmer olarak sınıflandıran ölçek türü aşağıdakilerden hangisidir?
+    - **Cevap A-) Sınıflama (Nominal) Ölçekleri**
+    - B-) Sıralama (Ordinal) Ölçekleri
+    - C-) Eşit Aralıklı (Interval) Ölçekler
+    - D-) Eşit Oranlı (Ratio) Ölçekler
+    - E-) Çoktan Seçmeli Ölçekler
+
+    > **Açıklama:** Sınıflama (Nominal) Ölçekleri, verileri kategorilere ayırmak amacıyla kullanılır; bu ölçeklerde sayılar yalnızca sembol işlevi görür, büyüklük ya da sıralama anlamı taşımaz.
+
+    <hr />
+
+### 1.4.2.2. Sıralama (Ordinal) Ölçekleri
+
+1. Aşağıdakilerden hangisi sıralama ölçeklerine örnek olarak verilebilir?
+    - A-) Hava sıcaklıkları
+    - B-) Sınıftaki öğrencilerin cinsiyetlerine göre numaralandırılması
+    - C-) IQ puanları
+    - D-) Ağırlık
+    - **Cevap E-) Memnuniyet anketleri**
+
+    > **Açıklama:** Memnuniyet anketleri, bireyleri belirli bir özelliğe göre (memnuniyet düzeyi) sıraya dizer, ancak aradaki farkların büyüklüğü eşit olmayabilir. Bu, sıralama (Ordinal) ölçeğine örnektir.
+
+    <hr />
+
+### 1.6. Psikolojik Değerlendirme Yöntemleri
+
+1. Aşağıdakilerden hangisi çocuklarda kullanılan psikolojik değerlendirme yöntemleri arasında <u>yer almaz</u>?
+    - A-) Gözlem
+    - B-) Görüşme
+    - C-) Testler
+    - D-) Rol oynama yöntemi
+    - **Cevap E-) Formülasyon**
+
+    > **Açıklama:** Psikolojik değerlendirme yöntemleri arasında Gözlem, Görüşme, Testler, Rol Oynama Yöntemi ve Portföy/Dokümanlar bulunur. Formülasyon ise elde edilen tüm bilgilerin anlamlı bir bütün haline getirilerek bireyin durumunun açıklanması sürecidir, bir değerlendirme yöntemi değildir.
+
+    <hr />
+
+2. Okul ortamında arkadaşları ile sorun yaşayan bir çocuğun değerlendirmesinde hangi yöntem öncelikli olarak tercih edilmelidir?
+    - **Cevap A-) Okul gözlemi**
+    - B-) Ebeveyn görüşmesi
+    - C-) Çocuğa test uygulanması
+    - D-) Arkadaşlarına test uygulanması
+    - E-) Rol oynama yöntemi
+
+    > **Açıklama:** Okul ortamında yaşanan sosyal sorunların değerlendirilmesinde, davranışın doğal ortamında gözlemlenmesi en doğru sonucu vereceği için Okul gözlemi öncelikli olarak tercih edilmelidir.
+
+    <hr />
+
+3. Ölçüm araçları aşağıdakilerden hangi şekilde kullanılmalıdır?
+    - A-) Çocukla ilgili bilgi sahibi olmadan önce
+    - B-) Çocuğun durumunu anlamak için tek başına
+    - **Cevap C-) Çocuğu iyi tanıyıp sorunu öğrendikten sonra hipotez test etmek amacıyla**
+    - D-) Okulda çocuğun velisine bilgi vermeden
+    - E-) Çocuğun ailesi merak ettiği için
+
+    > **Açıklama:** Ölçüm araçları, çocuk hakkında öncelikle bilgi sahibi olunup, var olan sorunun öyküsü öğrenildikten sonra, klinik hipotezleri test etmek amacıyla kullanılmalıdır.
+
+    <hr />
+
+### 1.6. Değerlendirme
+
+1. Değerlendirme için aşağıdakilerden hangisi yanlıştır?
+    - A-) Değerlendirme, ölçülen şeyin değerine ilişkin sonuca varma sürecidir.
+    - **Cevap B-) Değerlendirmenin başarısı objektif olmasına bağlıdır.**
+    - C-) Değerlendirmede karar ölçüte göre verilir.
+    - D-) İyi bir ölçüt, net bir şekilde tanımlanmış ve gözden geçirilebilir olmalıdır.
+    - E-) Değerlendirmede ölçüm sonuçları dışındaki değişkenler de dikkat alınır.
+
+    > **Açıklama:** Değerlendirmenin başarısı, sadece objektif olmasına bağlı değildir; aynı zamanda ölçütlerin net bir şekilde tanımlanmasına ve ölçüm sonuçları dışındaki değişkenlerin (çevresel faktörler, test davranışı vb.) dikkate alınmasına da bağlıdır. Objektiflik tek başına başarıyı belirlemez.
+
+    <hr />
+
+### 1.6. Çocuklarda Değerlendirme Farklılıkları
+
+1. Aşağıdakilerden hangisi çocukları ölçme ve değerlendirmede erişkinlerden <u>farklı değildir</u>?
+    - A-) Beceri gelişimi için kritik dönemlerin olması
+    - B-) Dikkat süresinin kısa olması
+    - C-) Dil becerilerinin sınırlı olması
+    - D-) Geçişlerde zorlanma
+    - **Cevap E-) Etiketleyici dilden olumsuz etkilenme**
+
+    > **Açıklama:** Çocuklarda dikkat süresinin kısa olması, dil becerilerinin sınırlı olması, geçişlerde zorlanma ve kritik dönemlerin olması gibi faktörler değerlendirmeyi erişkinlerden farklı kılar. Ancak etiketleyici dilden olumsuz etkilenme durumu, hem çocuklar hem de erişkinler için geçerli ortak bir özelliktir.
+
+    <hr />
+
+2. Aşağıdakilerden hangileri çocukların ölçme ve değerlendirmesinde erişkinlerden farklı olarak dikkate alınmalıdır?<br />I. Ölçüm aracının geçerli olması<br />II. Ebeveynlerinden bilgi alınması<br />III. Oyun ve hikaye gibi yöntemler kullanılması<br />IV. Etiketleyici bir dil kullanılmaması
+    - A-) II ve IV
+    - **Cevap B-) II ve III**
+    - C-) I ve II
+    - D-) I ve IV
+    - E-) III ve IV
+
+    > **Açıklama:** Ebeveynlerden bilgi alınması (II) ve oyun ve hikaye gibi yöntemler kullanılması (III), çocukların değerlendirilmesinde erişkinlerden farklı olarak dikkate alınması gereken temel faktörlerdendir.
+
+    <hr />
+
+3. Çocuğun dikkat süresinin kısa olması değerlendirmede hangi değişikliğe neden <u>olmaz</u>?
+    - A-) Performansının yakından takip edilmesini gerektirir.
+    - B-) Ölçme işlemini çocuğun keyif alacağı bir formatta sunmayı gerektirir.
+    - C-) İşlem süresi uzarsa mola verilmesi gibi esneklikleri gerektirir.
+    - **Cevap D-) Çocuğa saygılı davranılmasını gerektirir.**
+    - E-) Odada çocuğun dikkatini dağıtacak nesnelerin bulunmamasını gerektirir.
+
+    > **Açıklama:** Çocuğa saygılı davranılması, dikkat süresinden bağımsız olarak tüm değerlendirme süreçlerinde geçerli olan temel bir etik ilkedir ve dikkat süresinin kısalığı nedeniyle ortaya çıkan bir değişiklik değildir.
+
+    <hr />
+
+### 1.6. Çocuk Değerlendirmesi Prosedürü
+
+1. Çocuklarda ölçme işlemi için yukarıdakilerden hangileri doğrudur?<br />I. Çocuğun dikkat süresi kısa olduğu için ölçüme çocuk odaya girdikten sonra hemen başlamak gerekir.<br />II. Çocukla ilgili yeterli bilgi toplayıp bir kanaat oluştuktan sonra test istenmelidir.<br />III. Testin yapılma nedeni ve içeriği ile ilgili bilgi test yapılmadan önce verilmelidir.<br />IV. Çocuk hastayken test yapılması daha doğru bilgi verir.
+    - A-) I ve II
+    - B-) I ve IV
+    - **Cevap C-) II ve III**
+    - D-) II ve IV
+    - E-) I ve III
+
+    > **Açıklama:** Çocuk hakkında bilgi toplanması ve bir kanaat oluşturulduktan sonra test istenmesi (II) ve testin yapılma nedeni ile içeriği hakkında önceden bilgi verilmesi (III) sürecin doğru yürütülmesini sağlar.
+
+    <hr />
+
+2. Ölçme işlemi öncesinde yapılması gerekenler hangileridir?<br />I. Çocuğun sağlık durumunun öğrenilmesi<br />II. Çocukla uzun süre oyun oynanması<br />III. Çocuğun velisiyle uzun süre sohbet edilmesi<br />IV. Çocuğa yapılacak işlem hakkında bilgi verilmesi
+    - A-) III ve IV
+    - B-) I ve III
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I ve IV**
+
+    > **Açıklama:** Ölçme işlemi öncesinde çocuğun sağlık durumunun öğrenilmesi (I) ve çocuğa yapılacak işlem hakkında bilgi verilmesi (IV) önemlidir. Çocukla uzun süre oyun oynamak ve velisiyle uzun sohbet etmek uygun değildir.
+
+    <hr />
+
+3. Çocuğun test performansını en uygun hale getirmek için hangisi yapılmaz?
+    - **Cevap A-) Test sonrası sonuç hakkında bilgi verilir**
+    - B-) Isınma faaliyeti kullanılır
+    - C-) Odanın düzeni çocuğa uygun hale getirilir
+    - D-) Teste yumuşak geçiş yapılır
+    - E-) Gerekirse prosedürde değişiklik yapılır.
+
+    > **Açıklama:** Test sonrası sonuç hakkında bilgi verilmesi, test performansını en uygun hale getirme amacı taşımaz; bu, etik bir gerekliliktir.
+
+    <hr />
+
+4. Çocuğun test sırasında sıkıldığı, esnediği ve teste devam etmek istemediğini söylediği durumda ne yapılabilir?
+    - A-) Annesinden çocuğunu uyarması istenir.
+    - **Cevap B-) Başka bir gün tamamlanmak üzere test ara verilir.**
+    - C-) Çocuğa testi bitirirse ödül verileceği söylenir.
+    - D-) Test bu şekilde tamamlanır.
+    - E-) Testin çocuğa uygun olmadığına karar verilir.
+
+    > **Açıklama:** Çocuğun yorgunluğu ve isteksizliği nedeniyle performansının bozulduğu durumlarda, testin sağlıklı tamamlanması için başka bir gün tamamlanmak üzere ara verilmesi gibi prosedür değişiklikleri yapılmalıdır.
 
     <hr />
 
@@ -178,7 +337,8 @@
     > **Açıklama:** Yapılandırılmamış görüşme, önceden belirlenmiş bir soru listesinin veya akışın olmadığı, doğal ortamda gelişen ve konuların görüşme sırasında kendiliğinden şekillendiği değerlendirme yöntemidir.
 
     <hr />
-1. Aşağıdakilerden hangisi yüz yüze yapılan değerlendirme görüşmelerinin faydalarından <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi yüz yüze yapılan değerlendirme görüşmelerinin faydalarından <u>değildir</u>?
     - A-) Çocuğun giyim kuşamının gözlenebilmesi
     - B-) Çocuğun sözel iletişiminin gözlenebilmesi
     - **Cevap C-) Çocuğun arkadaşları ile ilişkilerinin gözlenebilmesi**
@@ -202,128 +362,6 @@
 
     <hr />
 
-### 1.6. Değerlendirme
-
-1. Değerlendirme için aşağıdakilerden hangisi yanlıştır?
-    - A-) Değerlendirme, ölçülen şeyin değerine ilişkin sonuca varma sürecidir.
-    - **Cevap B-) Değerlendirmenin başarısı objektif olmasına bağlıdır.**
-    - C-) Değerlendirmede karar ölçüte göre verilir.
-    - D-) İyi bir ölçüt, net bir şekilde tanımlanmış ve gözden geçirilebilir olmalıdır.
-    - E-) Değerlendirmede ölçüm sonuçları dışındaki değişkenler de dikkat alınır.
-
-    > **Açıklama:** Değerlendirmenin başarısı, sadece objektif olmasına bağlı değildir; aynı zamanda ölçütlerin net bir şekilde tanımlanmasına ve ölçüm sonuçları dışındaki değişkenlerin (çevresel faktörler, test davranışı vb.) dikkate alınmasına da bağlıdır. Objektiflik tek başına başarıyı belirlemez.
-
-    <hr />
-
-### 1.6. Psikolojik Değerlendirme Yöntemleri
-
-1. Aşağıdakilerden hangisi çocuklarda kullanılan psikolojik değerlendirme yöntemleri arasında <u>yer almaz</u>?
-    - A-) Gözlem
-    - B-) Görüşme
-    - C-) Testler
-    - D-) Rol oynama yöntemi
-    - **Cevap E-) Formülasyon**
-
-    > **Açıklama:** Psikolojik değerlendirme yöntemleri arasında Gözlem, Görüşme, Testler, Rol Oynama Yöntemi ve Portföy/Dokümanlar bulunur. Formülasyon ise elde edilen tüm bilgilerin anlamlı bir bütün haline getirilerek bireyin durumunun açıklanması sürecidir, bir değerlendirme yöntemi değildir.
-
-    <hr />
-1. Okul ortamında arkadaşları ile sorun yaşayan bir çocuğun değerlendirmesinde hangi yöntem öncelikli olarak tercih edilmelidir?
-    - **Cevap A-) Okul gözlemi**
-    - B-) Ebeveyn görüşmesi
-    - C-) Çocuğa test uygulanması
-    - D-) Arkadaşlarına test uygulanması
-    - E-) Rol oynama yöntemi
-
-    > **Açıklama:** Okul ortamında yaşanan sosyal sorunların değerlendirilmesinde, davranışın doğal ortamında gözlemlenmesi en doğru sonucu vereceği için Okul gözlemi öncelikli olarak tercih edilmelidir.
-
-    <hr />
-1. Ölçüm araçları aşağıdakilerden hangi şekilde kullanılmalıdır?
-    - A-) Çocukla ilgili bilgi sahibi olmadan önce
-    - B-) Çocuğun durumunu anlamak için tek başına
-    - **Cevap C-) Çocuğu iyi tanıyıp sorunu öğrendikten sonra hipotez test etmek amacıyla**
-    - D-) Okulda çocuğun velisine bilgi vermeden
-    - E-) Çocuğun ailesi merak ettiği için
-
-    > **Açıklama:** Ölçüm araçları, çocuk hakkında öncelikle bilgi sahibi olunup, var olan sorunun öyküsü öğrenildikten sonra, klinik hipotezleri test etmek amacıyla kullanılmalıdır.
-
-    <hr />
-
-### 1.6. Çocuk Değerlendirmesi Prosedürü
-
-1. Çocuklarda ölçme işlemi için yukarıdakilerden hangileri doğrudur?<br />I. Çocuğun dikkat süresi kısa olduğu için ölçüme çocuk odaya girdikten sonra hemen başlamak gerekir.<br />II. Çocukla ilgili yeterli bilgi toplayıp bir kanaat oluştuktan sonra test istenmelidir.<br />III. Testin yapılma nedeni ve içeriği ile ilgili bilgi test yapılmadan önce verilmelidir.<br />IV. Çocuk hastayken test yapılması daha doğru bilgi verir.
-    - A-) I ve II
-    - B-) I ve IV
-    - **Cevap C-) II ve III**
-    - D-) II ve IV
-    - E-) I ve III
-
-    > **Açıklama:** Çocuk hakkında bilgi toplanması ve bir kanaat oluşturulduktan sonra test istenmesi (II) ve testin yapılma nedeni ile içeriği hakkında önceden bilgi verilmesi (III) sürecin doğru yürütülmesini sağlar.
-
-    <hr />
-1. Ölçme işlemi öncesinde yapılması gerekenler hangileridir?<br />I. Çocuğun sağlık durumunun öğrenilmesi<br />II. Çocukla uzun süre oyun oynanması<br />III. Çocuğun velisiyle uzun süre sohbet edilmesi<br />IV. Çocuğa yapılacak işlem hakkında bilgi verilmesi
-    - A-) III ve IV
-    - B-) I ve III
-    - C-) I ve II
-    - D-) II ve III
-    - **Cevap E-) I ve IV**
-
-    > **Açıklama:** Ölçme işlemi öncesinde çocuğun sağlık durumunun öğrenilmesi (I) ve çocuğa yapılacak işlem hakkında bilgi verilmesi (IV) önemlidir. Çocukla uzun süre oyun oynamak ve velisiyle uzun sohbet etmek uygun değildir.
-
-    <hr />
-1. Çocuğun test performansını en uygun hale getirmek için hangisi yapılmaz? *(2 kez soruldu)*
-    - **Cevap A-) Test sonrası sonuç hakkında bilgi verilir**
-    - B-) Isınma faaliyeti kullanılır
-    - C-) Odanın düzeni çocuğa uygun hale getirilir
-    - D-) Teste yumuşak geçiş yapılır
-    - E-) Gerekirse prosedürde değişiklik yapılır.
-
-    > **Açıklama:** Test sonrası sonuç hakkında bilgi verilmesi, test performansını en uygun hale getirme amacı taşımaz; bu, etik bir gerekliliktir.
-
-    <hr />
-1. Çocuğun test sırasında sıkıldığı, esnediği ve teste devam etmek istemediğini söylediği durumda ne yapılabilir? *(2 kez soruldu)*
-    - A-) Annesinden çocuğunu uyarması istenir.
-    - **Cevap B-) Başka bir gün tamamlanmak üzere test ara verilir.**
-    - C-) Çocuğa testi bitirirse ödül verileceği söylenir.
-    - D-) Test bu şekilde tamamlanır.
-    - E-) Testin çocuğa uygun olmadığına karar verilir.
-
-    > **Açıklama:** Çocuğun yorgunluğu ve isteksizliği nedeniyle performansının bozulduğu durumlarda, testin sağlıklı tamamlanması için başka bir gün tamamlanmak üzere ara verilmesi gibi prosedür değişiklikleri yapılmalıdır.
-
-    <hr />
-
-### 1.6. Çocuklarda Değerlendirme Farklılıkları
-
-1. Aşağıdakilerden hangisi çocukları ölçme ve değerlendirmede erişkinlerden <u>farklı değildir</u>?
-    - A-) Beceri gelişimi için kritik dönemlerin olması
-    - B-) Dikkat süresinin kısa olması
-    - C-) Dil becerilerinin sınırlı olması
-    - D-) Geçişlerde zorlanma
-    - **Cevap E-) Etiketleyici dilden olumsuz etkilenme**
-
-    > **Açıklama:** Çocuklarda dikkat süresinin kısa olması, dil becerilerinin sınırlı olması, geçişlerde zorlanma ve kritik dönemlerin olması gibi faktörler değerlendirmeyi erişkinlerden farklı kılar. Ancak etiketleyici dilden olumsuz etkilenme durumu, hem çocuklar hem de erişkinler için geçerli ortak bir özelliktir.
-
-    <hr />
-1. Aşağıdakilerden hangileri çocukların ölçme ve değerlendirmesinde erişkinlerden farklı olarak dikkate alınmalıdır?<br />I. Ölçüm aracının geçerli olması<br />II. Ebeveynlerinden bilgi alınması<br />III. Oyun ve hikaye gibi yöntemler kullanılması<br />IV. Etiketleyici bir dil kullanılmaması *(2 kez soruldu)*
-    - A-) II ve IV
-    - **Cevap B-) II ve III**
-    - C-) I ve II
-    - D-) I ve IV
-    - E-) III ve IV
-
-    > **Açıklama:** Ebeveynlerden bilgi alınması (II) ve oyun ve hikaye gibi yöntemler kullanılması (III), çocukların değerlendirilmesinde erişkinlerden farklı olarak dikkate alınması gereken temel faktörlerdendir.
-
-    <hr />
-1. Çocuğun dikkat süresinin kısa olması değerlendirmede hangi değişikliğe neden <u>olmaz</u>? *(2 kez soruldu)*
-    - A-) Performansının yakından takip edilmesini gerektirir.
-    - B-) Ölçme işlemini çocuğun keyif alacağı bir formatta sunmayı gerektirir.
-    - C-) İşlem süresi uzarsa mola verilmesi gibi esneklikleri gerektirir.
-    - **Cevap D-) Çocuğa saygılı davranılmasını gerektirir.**
-    - E-) Odada çocuğun dikkatini dağıtacak nesnelerin bulunmamasını gerektirir.
-
-    > **Açıklama:** Çocuğa saygılı davranılması, dikkat süresinden bağımsız olarak tüm değerlendirme süreçlerinde geçerli olan temel bir etik ilkedir ve dikkat süresinin kısalığı nedeniyle ortaya çıkan bir değişiklik değildir.
-
-    <hr />
-
 ### 1.7. Psikolojik Formülasyon
 
 1. Aşağıdakilerden hangisi psikolojik formülasyonda kullanılan 4P formülasyonunun bileşenleri arasında <u>yer almaz</u>?
@@ -338,6 +376,43 @@
     <hr />
 
 ## Ünite 2
+
+### 2.1. Ölçme Araçlarının Temel Özellikleri
+
+1. Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenmesi için aşağıdakilerden hangisi gereklidir?
+    - A-) Ölçüm aracının sonuçlarında hataya rastlanmamalıdır.
+    - **Cevap B-) Ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçmeli ve sonuçları tutarlı olmalıdır.**
+    - C-) Ölçüm aracı, klinik yargıya varmayı ciddi bir zaman gerektirmeden kolaylaştırmalıdır.
+    - D-) Ölçüm aracı, kolay uygulanmalı, puanlanmalı ve yorumlanmalıdır.
+    - E-) Ölçüm aracı, tüm çocuklarda kullanılabilmelidir.
+
+    > **Açıklama:** Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenebilmesi için, bu aracın <b>ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçtüğü</b> (geçerlik) ve <b>elde ettiği sonuçların tutarlı olduğu</b> (güvenirlik) uygun istatistiksel yöntemlerle gösterilmelidir.
+
+    <hr />
+
+### 2.1.1. Normlar
+
+1. Norm dayanaklı test ve değerlendirmenin amacı aşağıdakilerden hangisidir?
+    - A-) Test sonuçlarının yorumlanmasının zor olmasıdır.
+    - **Cevap B-) Bireyin aldığı puanların norm grubuyla kıyaslanarak anlamının belirlenmesidir.**
+    - C-) Ölçek sonuçlarının uzman görüşüne dayalı olarak yorumlanmasıdır.
+    - D-) Ölçüm hatalarının en aza indirilmesidir.
+    - E-) Testin farklı ölçümlerde aynı sonucu vermesidir.
+
+    > **Açıklama:** Norm dayanaklı test ve değerlendirme, <b>bireyin aldığı puanların norm grubuyla kıyaslanarak anlamının belirlenmesi</b> sürecidir. Normlar, bireysel puanların göreceli konumunu anlamamızı sağlar.
+
+    <hr />
+
+2. Normlarla ilgili ifadelerden hangisi doğrudur?
+    - A-) Çocuklarda kullanılan ölçeklerin normlarının belirlenme sürecine psikometri denir.
+    - B-) Ölçüm araçlarının belli bir amaç konusunda yararlı ve pratik bir değer taşımasına norm denir.
+    - C-) Çocuğun yaşadığı ortamın gelişimi üzerinde önemli derecede etkili olması nedeniyle normlar önemli değildir.
+    - D-) Çocuklar, çok hızlı değiştikleri için kullanılan ölçüm araçlarında normlar hesaplanamaz.
+    - **Cevap E-) Ölçüm aracının normları, kullanılması planlanan grubu temsil eden bir örneklemde belirlenmelidir.**
+
+    > **Açıklama:** Ölçüm aracının normları, uygulanacağı topluluğu temsil eden bir <b>örneklem grubunda belirlenmelidir</b>.
+
+    <hr />
 
 ### 2.1.1.1. Yaş Normları
 
@@ -365,29 +440,6 @@
 
     <hr />
 
-### 2.1.1. Normlar
-
-1. Norm dayanaklı test ve değerlendirmenin amacı aşağıdakilerden hangisidir?
-    - A-) Test sonuçlarının yorumlanmasının zor olmasıdır.
-    - **Cevap B-) Bireyin aldığı puanların norm grubuyla kıyaslanarak anlamının belirlenmesidir.**
-    - C-) Ölçek sonuçlarının uzman görüşüne dayalı olarak yorumlanmasıdır.
-    - D-) Ölçüm hatalarının en aza indirilmesidir.
-    - E-) Testin farklı ölçümlerde aynı sonucu vermesidir.
-
-    > **Açıklama:** Norm dayanaklı test ve değerlendirme, <b>bireyin aldığı puanların norm grubuyla kıyaslanarak anlamının belirlenmesi</b> sürecidir. Normlar, bireysel puanların göreceli konumunu anlamamızı sağlar.
-
-    <hr />
-1. Normlarla ilgili ifadelerden hangisi doğrudur?
-    - A-) Çocuklarda kullanılan ölçeklerin normlarının belirlenme sürecine psikometri denir.
-    - B-) Ölçüm araçlarının belli bir amaç konusunda yararlı ve pratik bir değer taşımasına norm denir.
-    - C-) Çocuğun yaşadığı ortamın gelişimi üzerinde önemli derecede etkili olması nedeniyle normlar önemli değildir.
-    - D-) Çocuklar, çok hızlı değiştikleri için kullanılan ölçüm araçlarında normlar hesaplanamaz.
-    - **Cevap E-) Ölçüm aracının normları, kullanılması planlanan grubu temsil eden bir örneklemde belirlenmelidir.**
-
-    > **Açıklama:** Ölçüm aracının normları, uygulanacağı topluluğu temsil eden bir <b>örneklem grubunda belirlenmelidir</b>.
-
-    <hr />
-
 ### 2.1.2. Güvenirlik
 
 1. Bir testin güvenirliğinin hesaplanmasında hangisi <u>kullanılmaz</u>?
@@ -400,7 +452,8 @@
     > **Açıklama:** Güvenirlik, ölçüm sonuçlarının tutarlılığını ifade eder ve İç Tutarlılık, Test-Tekrar Test veya Paralel Formlar ile ölçülür. Testin ölçüt ile benzer sonuçlar vermesi, <b>Ölçütlere Dayalı Geçerliğin</b> bir türüdür ve güvenirliğin hesaplanmasında <u>kullanılmaz</u>.
 
     <hr />
-1. Bir ölçüm aracının güvenirliği hakkında aşağıdaki ifadelerden hangisi doğrudur?
+
+2. Bir ölçüm aracının güvenirliği hakkında aşağıdaki ifadelerden hangisi doğrudur?
     - A-) Bir ölçüm aracının güvenirliği kullanışlı olmasına bağlıdır.
     - B-) Bir ölçüm aracı aynı niteliği farklı ölçücülerin ölçtüğü durumlarda farklı sonuçlar vermelidir.
     - C-) Bir ölçüm aracının aynı niteliği ölçen maddeleri arasında tutarsızlık olmalıdır.
@@ -410,7 +463,8 @@
     > **Açıklama:** Güvenirlik, ölçme sürecinden elde edilen sonuçların <b>tutarlılığını</b> ifade eder. Güvenilir bir ölçüm aracı, aynı niteliği ölçtüğü farklı ölçümlerde (zamanlarda) benzer sonuçlar vermelidir.
 
     <hr />
-1. Aşağıdakilerden hangisi bir ölçüm aracının güvenirliğini arttıran faktörlerden biri <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi bir ölçüm aracının güvenirliğini arttıran faktörlerden biri <u>değildir</u>?
     - A-) Ölçüm yapılan grubun heterojen yapıda bulunması
     - **Cevap B-) Testin heterojen bir yapıya sahip olması**
     - C-) Puanlamanın nesnel biçimde gerçekleştirilmesi
@@ -434,6 +488,19 @@
 
     <hr />
 
+### 2.1.3. Geçerlik
+
+1. Aşağıdakilerden hangisi bir ölçüm aracının geçerliğinin hesaplanmasında kullanılır?
+    - A-) İç tutarlılık
+    - B-) Yüzdelik normlar
+    - C-) Farklı zamanlarda uygulanan test sonuçlarının karşılaştırılması
+    - D-) Paralel formlar
+    - **Cevap E-) Faktör analizi**
+
+    > **Açıklama:** Geçerlik çalışmaları, ölçüm aracının belirli bir özelliği doğru şekilde ölçme yeteneğini ifade eder. Yapı geçerliğini göstermek için ise sık başvurulan yöntemlerden biri **Faktör analizidir**.
+
+    <hr />
+
 ### 2.1.3.1. Kapsam Geçerliği
 
 1. Kapsam geçerliği hesaplanmasında aşağıdakilerden hangisi kullanılır?
@@ -446,7 +513,8 @@
     > **Açıklama:** Kapsam geçerliği, ölçüm aracının ölçmeyi amaçladığı değişkenle ilişkili tüm özellikleri kapsayıp kapsamadığı ile ilgilidir. Bu geçerliği belirlemek için mantıksal yöntemler kapsamında **Belirtke tablosu** kullanılır.
 
     <hr />
-1. Ölçeğin kapsam geçerliği nedir?
+
+2. Ölçeğin kapsam geçerliği nedir?
     - **Cevap A-) Ölçüm aracının ölçmesi amaçlanan değişkeni ve onunla ilişkili özellikleri ölçmesi**
     - B-) Ölçüm sonucunun ölçütle kıyaslanması işlemi
     - C-) Ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturması
@@ -469,7 +537,8 @@
     > **Açıklama:** Yapı geçerliği, ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturup oluşturmadığını ölçer. Hesaplamada ise **Faktör analizi** kullanılır.
 
     <hr />
-1. Yapı geçerliğinin tanımı aşağıdakilerden hangisidir?
+
+2. Yapı geçerliğinin tanımı aşağıdakilerden hangisidir?
     - **Cevap A-) Ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturup oluşturmadığı**
     - B-) Ölçüm aracının sonuçlarının tutarlı olması
     - C-) Ölçüm sonucunun ölçütle kıyaslanmsı
@@ -477,19 +546,6 @@
     - E-) Ölçüm aracının amaçlanan değişkeni ve bununla ilişkili özellikleri kapsaması
 
     > **Açıklama:** Yapı geçerliği, <b>ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturup oluşturmadığıyla</b> ilgili bir kavramdır.
-
-    <hr />
-
-### 2.1.3. Geçerlik
-
-1. Aşağıdakilerden hangisi bir ölçüm aracının geçerliğinin hesaplanmasında kullanılır?
-    - A-) İç tutarlılık
-    - B-) Yüzdelik normlar
-    - C-) Farklı zamanlarda uygulanan test sonuçlarının karşılaştırılması
-    - D-) Paralel formlar
-    - **Cevap E-) Faktör analizi**
-
-    > **Açıklama:** Geçerlik çalışmaları, ölçüm aracının belirli bir özelliği doğru şekilde ölçme yeteneğini ifade eder. Yapı geçerliğini göstermek için ise sık başvurulan yöntemlerden biri **Faktör analizidir**.
 
     <hr />
 
@@ -506,20 +562,88 @@
 
     <hr />
 
-### 2.1. Ölçme Araçlarının Temel Özellikleri
+## Ünite 3
 
-1. Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenmesi için aşağıdakilerden hangisi gereklidir?
-    - A-) Ölçüm aracının sonuçlarında hataya rastlanmamalıdır.
-    - **Cevap B-) Ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçmeli ve sonuçları tutarlı olmalıdır.**
-    - C-) Ölçüm aracı, klinik yargıya varmayı ciddi bir zaman gerektirmeden kolaylaştırmalıdır.
-    - D-) Ölçüm aracı, kolay uygulanmalı, puanlanmalı ve yorumlanmalıdır.
-    - E-) Ölçüm aracı, tüm çocuklarda kullanılabilmelidir.
+### 3.1. Ölçme ve Değerlendirmede Çocukluk Dönemine Özel Farklılıklar
 
-    > **Açıklama:** Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenebilmesi için, bu aracın <b>ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçtüğü</b> (geçerlik) ve <b>elde ettiği sonuçların tutarlı olduğu</b> (güvenirlik) uygun istatistiksel yöntemlerle gösterilmelidir.
+1. Çocukların dili kullanma becerilerinin sınırlı olması ölçme ve değerlendirmede nasıl bir farklılığa neden olur?
+    - A-) Sadece çocukla konuşarak karar verilmesini sağlar.
+    - **Cevap B-) Sözel diyalogda dikkatinin kolaylıkla dağılmasına neden olur.**
+    - C-) Gürültüsüz bir ortamda çalışılmasını gerektirir.
+    - D-) Gizliliğe daha çok dikkat edilmesini gerektirir.
+    - E-) Çocuktan bilgi alınmamasına neden olur.
+
+    > **Açıklama:** Çocukların dili kullanma becerilerinin sınırlı olması, **sözel diyalog sırasında dikkatinin kolaylıkla dağılmasına** neden olur. Bu nedenle, küçük yaş gruplarında sözel anlatım sınırlı olduğu için oyun temelli ve görsel araçlarla değerlendirme desteklenmelidir.
 
     <hr />
 
-## Ünite 3
+2. Çocuğun bireysel farklılıkları değerlendirme sürecinde nasıl dikkate alınmalıdır?
+    - A-) Tüm çocuklara aynı prosedür uygulanmalıdır.
+    - B-) Sadece zeka düzeyine göre farklılık yapılmalıdır.
+    - **Cevap C-) Gelişim düzeyi ve bireysel özelliklere göre planlama yapılmalıdır.**
+    - D-) Test seçimi yalnızca ebeveynin isteğine göre yapılmalıdır.
+    - E-) Değerlendirme sürecinin planı öğretmen ile birlikte yapılmalıdır.
+
+    > **Açıklama:** Çocuk değerlendirmesi, çocuğun **gelişim düzeyi ve bireysel özelliklerine göre planlama yapılmasını** gerektirir. Çocuklar minik yetişkinler olarak görülmemeli; gelişimsel özellikleri dikkate alınarak yaklaşılmalı ve bulgular bu çerçevede değerlendirilmelidir.
+
+    <hr />
+
+3. Aşağıdakilerden hangileri çocukların ölçme ve değerlendirmesinde erişkinlerden farklı olarak dikkate alınmalıdır?<br />I. Ölçüm aracının geçerli olması<br />II. Ebeveynlerinden bilgi alınması<br />III. Oyun ve hikaye gibi yöntemler kullanılması<br />IV. Etiketleyici bir dil kullanılmaması
+    - A-) II ve IV
+    - **Cevap B-) II ve III**
+    - C-) I ve II
+    - D-) I ve IV
+    - E-) III ve IV
+
+    > **Açıklama:** Çocuk değerlendirmesinde ebeveynlerden (bakımverenlerden) bilgi alınması (Çevresel Bütünlük) ve sözel anlatım sınırlı olduğu için **oyun ve hikaye gibi yansıtmalı araçların** kullanılması, yetişkin değerlendirmesinden farklıdır.
+
+    <hr />
+
+4. Aşağıdakilerden hangisi çocukları ölçme ve değerlendirmede erişkinlerden farklı olarak dikkat edilmesi gereken özelliklerden biri <u>değildir</u>?
+    - A-) Beceri gelişimi için kritik dönemlerin olması
+    - B-) Dil becerilerinin sınırlı olması
+    - **Cevap C-) Etiketleyici dilden olumsuz etkilenmesi**
+    - D-) Geçişlerde zorlanması
+    - E-) Dikkat süresinin kısa olması
+
+    > **Açıklama:** Çocuklarda dikkat süresinin kısalığı, dil becerilerinin sınırlı olması, geçişlerde zorlanma ve kritik dönemlerin olması, değerlendirmeyi yetişkinlerden farklı kılar. Ancak **etiketleyici dilden olumsuz etkilenme** durumu, hem çocuklar hem de yetişkinler için geçerli ortak bir özelliktir.
+
+    <hr />
+
+5. Çocuğun dikkat süresinin kısa olması değerlendirmede hangi değişikliğe neden <u>olmaz</u>?
+    - A-) Performansının yakından takip edilmesini gerektirir.
+    - B-) Ölçme işlemini çocuğun keyif alacağı bir formatta sunmayı gerektirir.
+    - C-) İşlem süresi uzarsa mola verilmesi gibi esneklikleri gerektirir.
+    - **Cevap D-) Çocuğa saygılı davranılmasını gerektirir.**
+    - E-) Odada çocuğun dikkatini dağıtacak nesnelerin bulunmamasını gerektirir.
+
+    > **Açıklama:** Dikkat süresinin kısalığı, performans takibi, mola verme ve dikkat dağıtıcıları eleme gibi prosedürel değişikliklere yol açar. Ancak **çocuğa saygılı davranılması**, dikkat süresinden bağımsız olarak her değerlendirme sürecinde geçerli olan temel bir etik ilkedir.
+
+    <hr />
+
+6. Çocuğun dikkat süresi kısa olduğu için değerlendirmede hangi uygulamaya dikkat edilmesi gerekir?
+    - A-) Performansının yakından takip edilmesi
+    - B-) Testin keyifli formatta sunulması
+    - C-) İşlem süresi uzarsa mola verilmesi
+    - D-) Odada dikkat dağıtıcı nesne bulunmaması
+    - **Cevap E-) Yukarıdakilerin hepsi**
+
+    > **Açıklama:** Çocuğun dikkat süresinin sınırlı olması nedeniyle; performansın yakından takibi, molalar verilmesi, dikkat dağıtıcı nesnelerin ortamdan kaldırılması ve değerlendirme planının esnek olması gibi çeşitli uygulamalara dikkat edilmelidir.
+
+    <hr />
+
+### 3.1. Fiziksel Ortamın Etkisi
+
+1. Aşağıdakilerden hangisi çocukların değerlendirilmesinde göz önünde bulundurulması gereken faktörlerden biri <u>değildir</u>?
+    - A-) Aile ve okul gibi dışsal etkenler değerlendirme sürecinin vazgeçilmez parçalarıdır.
+    - B-) Bazı gelişimsel sorunlarda erken tanı ve müdahale, daha olumlu sonuçlara yol açar.
+    - C-) Çocuk değerlendirme süreci hakkında yaşına uygun bir dille bilgilendirilmelidir.
+    - D-) Özellikle okul öncesi çocuklarda dikkat süresi sınırlığı göz önünde bulundurulmalıdır.
+    - **Cevap E-) Çocuklar çabuk sıkılabildiği için gürültülü ve yoğun uyaran içeren ortamlar tercih edilir.**
+
+    > **Açıklama:** Değerlendirme ortamı, çocuğun dikkatini dağıtmayacak şekilde sessiz ve sade olmalıdır. **Gürültülü ve yoğun uyaran içeren ortamlar** tercih edilmesi, ölçüm hatalarına yol açacağı için bu süreçte <u>istenmez</u>.
+
+    <hr />
 
 ### 3.1.3. Çevre Algısı ve Farkındalık Düzeyi
 
@@ -559,7 +683,8 @@
     > **Açıklama:** Gelişimsel değerlendirme araçları uygulanmadan önce, uygulayıcının çocuğun **ebeveyninden bilgi alması** ve çocukla kısa bir süre oyun oynayarak etkileşim kurması yararlı olacaktır. Değerlendirme öncesi ebeveynden bilgi alınması, çocuğun gelişimsel düzeyi hakkında ön bilgi sağlar.
 
     <hr />
-1. Aşağıdaki ifadelerden hangisi gelişimsel değerlendirme konusunda <u>yanlıştır</u>? *(2 kez soruldu)*
+
+2. Aşağıdaki ifadelerden hangisi gelişimsel değerlendirme konusunda <u>yanlıştır</u>?
     - A-) Gelişimsel değerlendirme özenli bir şekilde gerçekleştirilir.
     - **Cevap B-) Değerlendirmede yalnızca çocuktan bilgi alınır.**
     - C-) Gelişimsel değerlendirmede çocuğun doğum ayı dikkate alınır.
@@ -585,7 +710,18 @@
 
 ### 3.1.10. Çocuğun Sürece Uyumunu Desteklemek
 
-1. Çocuklarda ölçme işlemi öncesinde ısınma faaliyeti neden yapılır?
+1. Çocuğun test performansını en uygun hale getirmek için hangisi yapılmaz?
+    - **Cevap A-) Test sonrası sonuç hakkında bilgi verilir**
+    - B-) Isınma faaliyeti kullanılır
+    - C-) Odanın düzeni çocuğa uygun hale getirilir
+    - D-) Teste yumuşak geçiş yapılır
+    - E-) Gerekirse prosedürde değişiklik yapılır.
+
+    > **Açıklama:** Isınma, oda düzeni, yumuşak geçiş ve prosedür değişikliği, çocuğun **uygun performans sergilemesi** için yapılan uygulamalardır. **Test sonrası sonuç hakkında bilgi verilmesi** ise etik bir gerekliliktir ve test performansını en uygun hale getirme amacı <u>taşımaz</u>.
+
+    <hr />
+
+2. Çocuklarda ölçme işlemi öncesinde ısınma faaliyeti neden yapılır?
     - A-) Testin doğru bir şekilde puanlanabilmesi için
     - **Cevap B-) Çocuğun ortam ve uygulayıcıya alışması için**
     - C-) Testin süresini uzatmak için
@@ -595,7 +731,8 @@
     > **Açıklama:** Isınma etkinliği, çocuğun hem değerlendiriciye hem de değerlendirme ortamına alışmasını kolaylaştırarak kendini daha rahat hissetmesine yardımcı olur. Bu, çocuğun **yeni ortam ve kişiye uyum göstermesine** yardımcı olur.
 
     <hr />
-1. Çocuklarda ölçme işlemi sırasında çocuğun ölçüme uyumunun artırılabilmesi için yukarıdakilerden hangileri yapılabilir?<br />I. Ölçme işlemi sırasında başka şeylerle meşgul olmak<br />II. Ölçme işlemi sırasında çocuğun velisinin çocuğun doğru cevaplarını takdir etmesini istemek<br />III. Ölçüm öncesinde çocukla kısa bir ısınma faaliyeti yapmak<br />IV. Gerekli durumlarda ölçme işlemine ara vermek
+
+3. Çocuklarda ölçme işlemi sırasında çocuğun ölçüme uyumunun artırılabilmesi için yukarıdakilerden hangileri yapılabilir?<br />I. Ölçme işlemi sırasında başka şeylerle meşgul olmak<br />II. Ölçme işlemi sırasında çocuğun velisinin çocuğun doğru cevaplarını takdir etmesini istemek<br />III. Ölçüm öncesinde çocukla kısa bir ısınma faaliyeti yapmak<br />IV. Gerekli durumlarda ölçme işlemine ara vermek
     - A-) II ve III
     - B-) I ve II
     - **Cevap C-) III ve IV**
@@ -605,7 +742,8 @@
     > **Açıklama:** Ölçüm öncesinde kısa bir ısınma faaliyeti yapmak (III) ve gerekli durumlarda ölçme işlemine ara vermek (IV), çocuğun ölçme işlemine uyum sağlamasına ve verimliliğin artırılmasına katkı sağlar.
 
     <hr />
-1. Çocukla etkili bir ilişki kurmak, değerlendirme sürecinde neden önemlidir?
+
+4. Çocukla etkili bir ilişki kurmak, değerlendirme sürecinde neden önemlidir?
     - A-) Test sonuçlarının güvenilir şekilde saklanmasını sağlar.
     - B-) Çocuğun içe kapanmasına yol açar.
     - C-) Yetişkinlerin beklentilerinin ölçülmesini sağlar.
@@ -615,7 +753,8 @@
     > **Açıklama:** Çocukla iyi bir çalışma ilişkisi kurmak, **çocuğun güven duygusunu artırır** ve bu durum **test iş birliğini kolaylaştırır**. İçtenlikle karşılamak ve uygun bir ton kullanmak, ilk teması olumlu kılacak davranışlardır.
 
     <hr />
-1. Çocuklarda ölçme işlemi öncesinde ısınma faaliyeti kullanılmasının sebebi nedir?
+
+5. Çocuklarda ölçme işlemi öncesinde ısınma faaliyeti kullanılmasının sebebi nedir?
     - **Cevap A-) Çocuğun yeni ortam ve kişiye uyum göstermesine yardımcı olmak**
     - B-) Çocuğu mutlu etmek
     - C-) Değerlendiricinin dinlenmesi
@@ -638,7 +777,8 @@
     > **Açıklama:** Yanlış olan ifadeler: **I. Değerlendirmede çocuğun güçlü yönlerine odaklanılmalıdır**, eksiklerine değil. **III. Çocukların dikkat süreleri erişkinlerden kısadır**.
 
     <hr />
-1. Aşağıdakilerden hangisi çocuğun değerlendirme sürecinde motivasyonunu artırmak için kullanılabilir?
+
+2. Aşağıdakilerden hangisi çocuğun değerlendirme sürecinde motivasyonunu artırmak için kullanılabilir?
     - **Cevap A-) Çocuğun çabasının takdir edilmesi**
     - B-) Teste ısınma yapılmadan başlanması
     - C-) Çocuğun davranışları konusunda sürekli uyarılması
@@ -661,7 +801,8 @@
     > **Açıklama:** Gelişimsel değerlendirmenin özenle yapılması, hata olasılığını en aza indirilmelidir. Değerlendirici, test öncesinde ebeveynden bilgi almalı ve **çocukla kısa süre oyun oynayarak gelişim seviyesi hakkında fikir edinmelidir**.
 
     <hr />
-1. Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımının faydaları arasındadır? *(2 kez soruldu)*
+
+2. Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımının faydaları arasındadır?
     - A-) Ölçekler, klinik değerlendirme yapılamadığı zamanlarda tanı konup tedavi kararı vermek için kullanılır.
     - **Cevap B-) Ölçekler, soyut psikolojik sorunların sayısallaştırılmasını sağlar.**
     - C-) Ölçekler, tanı koyucu testlerdir.
@@ -669,62 +810,6 @@
     - E-) Ölçekler, aynı anda birden çok kişiye uygulanamaz.
 
     > **Açıklama:** Ölçekler, ruh sağlığı alanında **soyut psikolojik sorunların sayısallaştırılmasını** sağlar. Ayrıca geniş bir belirti kümesinin hızlı bir şekilde incelenmesini sağlar, ancak klinik değerlendirmeye alternatif değildir.
-
-    <hr />
-
-### 3.1. Fiziksel Ortamın Etkisi
-
-1. Aşağıdakilerden hangisi çocukların değerlendirilmesinde göz önünde bulundurulması gereken faktörlerden biri <u>değildir</u>?
-    - A-) Aile ve okul gibi dışsal etkenler değerlendirme sürecinin vazgeçilmez parçalarıdır.
-    - B-) Bazı gelişimsel sorunlarda erken tanı ve müdahale, daha olumlu sonuçlara yol açar.
-    - C-) Çocuk değerlendirme süreci hakkında yaşına uygun bir dille bilgilendirilmelidir.
-    - D-) Özellikle okul öncesi çocuklarda dikkat süresi sınırlığı göz önünde bulundurulmalıdır.
-    - **Cevap E-) Çocuklar çabuk sıkılabildiği için gürültülü ve yoğun uyaran içeren ortamlar tercih edilir.**
-
-    > **Açıklama:** Değerlendirme ortamı, çocuğun dikkatini dağıtmayacak şekilde sessiz ve sade olmalıdır. **Gürültülü ve yoğun uyaran içeren ortamlar** tercih edilmesi, ölçüm hatalarına yol açacağı için bu süreçte <u>istenmez</u>.
-
-    <hr />
-
-### 3.1. Ölçme ve Değerlendirmede Çocukluk Dönemine Özel Farklılıklar
-
-1. Çocukların dili kullanma becerilerinin sınırlı olması ölçme ve değerlendirmede nasıl bir farklılığa neden olur?
-    - A-) Sadece çocukla konuşarak karar verilmesini sağlar.
-    - **Cevap B-) Sözel diyalogda dikkatinin kolaylıkla dağılmasına neden olur.**
-    - C-) Gürültüsüz bir ortamda çalışılmasını gerektirir.
-    - D-) Gizliliğe daha çok dikkat edilmesini gerektirir.
-    - E-) Çocuktan bilgi alınmamasına neden olur.
-
-    > **Açıklama:** Çocukların dili kullanma becerilerinin sınırlı olması, **sözel diyalog sırasında dikkatinin kolaylıkla dağılmasına** neden olur. Bu nedenle, küçük yaş gruplarında sözel anlatım sınırlı olduğu için oyun temelli ve görsel araçlarla değerlendirme desteklenmelidir.
-
-    <hr />
-1. Çocuğun bireysel farklılıkları değerlendirme sürecinde nasıl dikkate alınmalıdır?
-    - A-) Tüm çocuklara aynı prosedür uygulanmalıdır.
-    - B-) Sadece zeka düzeyine göre farklılık yapılmalıdır.
-    - **Cevap C-) Gelişim düzeyi ve bireysel özelliklere göre planlama yapılmalıdır.**
-    - D-) Test seçimi yalnızca ebeveynin isteğine göre yapılmalıdır.
-    - E-) Değerlendirme sürecinin planı öğretmen ile birlikte yapılmalıdır.
-
-    > **Açıklama:** Çocuk değerlendirmesi, çocuğun **gelişim düzeyi ve bireysel özelliklerine göre planlama yapılmasını** gerektirir. Çocuklar minik yetişkinler olarak görülmemeli; gelişimsel özellikleri dikkate alınarak yaklaşılmalı ve bulgular bu çerçevede değerlendirilmelidir.
-
-    <hr />
-1. Aşağıdakilerden hangisi çocukları ölçme ve değerlendirmede erişkinlerden farklı olarak dikkat edilmesi gereken özelliklerden biri <u>değildir</u>?
-    - A-) Beceri gelişimi için kritik dönemlerin olması
-    - B-) Dil becerilerinin sınırlı olması
-    - **Cevap C-) Etiketleyici dilden olumsuz etkilenmesi**
-    - D-) Geçişlerde zorlanması
-    - E-) Dikkat süresinin kısa olması
-
-    > **Açıklama:** Çocuklarda dikkat süresinin kısalığı, dil becerilerinin sınırlı olması, geçişlerde zorlanma ve kritik dönemlerin olması, değerlendirmeyi yetişkinlerden farklı kılar. Ancak **etiketleyici dilden olumsuz etkilenme** durumu, hem çocuklar hem de yetişkinler için geçerli ortak bir özelliktir.
-
-    <hr />
-1. Çocuğun dikkat süresi kısa olduğu için değerlendirmede hangi uygulamaya dikkat edilmesi gerekir?
-    - A-) Performansının yakından takip edilmesi
-    - B-) Testin keyifli formatta sunulması
-    - C-) İşlem süresi uzarsa mola verilmesi
-    - D-) Odada dikkat dağıtıcı nesne bulunmaması
-    - **Cevap E-) Yukarıdakilerin hepsi**
-
-    > **Açıklama:** Çocuğun dikkat süresinin sınırlı olması nedeniyle; performansın yakından takibi, molalar verilmesi, dikkat dağıtıcı nesnelerin ortamdan kaldırılması ve değerlendirme planının esnek olması gibi çeşitli uygulamalara dikkat edilmelidir.
 
     <hr />
 
@@ -740,7 +825,8 @@
     > **Açıklama:** Ölçme araçları, bir hipotez test etme yaklaşımıyla ele alınmalıdır. Bu nedenle, **çocuğu iyi tanıyıp sorunu öğrendikten sonra** ve **yeterli bilgi toplayıp bir kanaat oluştuktan sonra** test istenmelidir.
 
     <hr />
-1. Bir çocuğun değerlendirme sürecinde 'hipotez oluşturma' neden önemlidir?
+
+2. Bir çocuğun değerlendirme sürecinde 'hipotez oluşturma' neden önemlidir?
     - A-) Çocuğun bilişsel gelişimi yerine sosyal gelişimini değerlendirir.
     - B-) Ev ortamı, geçmiş deneyimler ve davranış örüntüleri hakkında bilgi verir
     - C-) Test uygulaması sırasında çocukla konuşup çocuğu yönlendirir.
@@ -777,6 +863,19 @@
 
     <hr />
 
+### 3.2.8 Gerekli Durumlarda Prosedür Değişikliği Yapılması
+
+1. Çocuğun test sırasında sıkıldığı, esnediği ve teste devam etmek istemediğini söylediği durumda ne yapılabilir?
+    - A-) Annesinden çocuğunu uyarması istenir.
+    - **Cevap B-) Başka bir gün tamamlanmak üzere test ara verilir.**
+    - C-) Çocuğa testi bitirirse ödül verileceği söylenir.
+    - D-) Test bu şekilde tamamlanır.
+    - E-) Testin çocuğa uygun olmadığına karar verilir.
+
+    > **Açıklama:** Çocuğun yorgun, huzursuz, kaygılı ya da sıkılmış görünmesi, **prosedür değişikliğini gerektirebilecek** bir durumdur. Bu durumda, test **başka bir gün tamamlanmak üzere ara verilir**.
+
+    <hr />
+
 ### 3.2.11 Etik Kurallar, Mahremiyet ve Gizlilik
 
 1. Aşağıdakilerden hangisi çocukla yapılan ölçmede dikkat edilmesi gereken etik ilkelerden biri <u>değildir</u>?
@@ -789,7 +888,8 @@
     > **Açıklama:** Çocuğun yüksek yararı ilkesine göre, **çocuğa gerekirse zorla test uygulamak** etik açıdan sakıncalıdır ve <b>gönüllülük ilkesine</b> aykırıdır. Değerlendirme sürecinde gönüllülük esastır.
 
     <hr />
-1. Aşağıdakilerden hangisi, psikometrik ölçme araçlarının çocuklara uygulanmasında dikkat edilmesi gerekenlerden biri <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi, psikometrik ölçme araçlarının çocuklara uygulanmasında dikkat edilmesi gerekenlerden biri <u>değildir</u>?
     - A-) Gelişim düzeyine uygunluk
     - B-) Kültürel duyarlılık
     - **Cevap C-) Standart test talimatlarından sapma**
@@ -801,6 +901,19 @@
     <hr />
 
 ## Ünite 4
+
+### 4.1. Raporlamanın Önemi
+
+1. Ölçme ve değerlendirme sonucunun raporlanması neden önemlidir?
+    - A-) Ölçüm yanlışlarının tespitini sağlar.
+    - B-) Çocuğun test sonuçlarını öğrenmesini sağlar.
+    - **Cevap C-) Öğrenilen bilginin anlamlı bir bütün haline getirilmesini sağlar.**
+    - D-) Test sonuçlarının gizli kalmasını sağlar.
+    - E-) İlgili uzmanın memnun olmasını sağlar.
+
+    > **Açıklama:** Raporlama, **öğrenilen bilgilerin bir araya getirilerek anlamlı bir bütün haline getirilmesini sağlar**. Ayrıca, ölçüm yanlışlarının tespitine de katkıda bulunur.
+
+    <hr />
 
 ### 4.1. Raporlama Amaçları
 
@@ -815,16 +928,16 @@
 
     <hr />
 
-### 4.1. Raporlamanın Önemi
+### 4.2. Rapor Türleri
 
-1. Ölçme ve değerlendirme sonucunun raporlanması neden önemlidir?
-    - A-) Ölçüm yanlışlarının tespitini sağlar.
-    - B-) Çocuğun test sonuçlarını öğrenmesini sağlar.
-    - **Cevap C-) Öğrenilen bilginin anlamlı bir bütün haline getirilmesini sağlar.**
-    - D-) Test sonuçlarının gizli kalmasını sağlar.
-    - E-) İlgili uzmanın memnun olmasını sağlar.
+1. Ölçme ve değerlendirme raporları için hangisi doğrudur?
+    - **Cevap A-) Raporun dili kime ve ne amaçla yazıldığına göre farklılıklar gösterir.**
+    - B-) Çocuğun diliyle yazılmış gibi ifadelerden oluşur.
+    - C-) Ailenin çocukla ilgili düşüncelerini destekler.
+    - D-) Adli amaçla rapor yazılamaz.
+    - E-) Çocuğun tüm geçmiş bilgisi raporda yer alır.
 
-    > **Açıklama:** Raporlama, **öğrenilen bilgilerin bir araya getirilerek anlamlı bir bütün haline getirilmesini sağlar**. Ayrıca, ölçüm yanlışlarının tespitine de katkıda bulunur.
+    > **Açıklama:** Raporun dili, **kime ve ne amaçla yazıldığına göre farklılıklar gösterir**. Örneğin, uzmanlara sunulan raporlarda teknik, aileye sunulan raporlarda ise sade ve anlaşılır bir dil kullanılmalıdır.
 
     <hr />
 
@@ -854,16 +967,42 @@
 
     <hr />
 
-### 4.2. Rapor Türleri
+### 4.3. Rapor Yazım Amaçları
 
-1. Ölçme ve değerlendirme raporları için hangisi doğrudur?
-    - **Cevap A-) Raporun dili kime ve ne amaçla yazıldığına göre farklılıklar gösterir.**
-    - B-) Çocuğun diliyle yazılmış gibi ifadelerden oluşur.
-    - C-) Ailenin çocukla ilgili düşüncelerini destekler.
-    - D-) Adli amaçla rapor yazılamaz.
-    - E-) Çocuğun tüm geçmiş bilgisi raporda yer alır.
+1. Ölçme ve değerlendirme raporu yazılmasının amaçlarından biri <u>değildir</u>?
+    - A-) Yönlendirme sebebine yönelik uygun açıklamalar üretilmesi
+    - B-) Bireyin psikolojik durumunu tanımlanması
+    - C-) Çocuğun güçlü yanlarının belirlenip çözüm için kullanılması
+    - D-) Problemlere yönelik bilimsel olarak kanıtlanmış öneriler sunulması
+    - **Cevap E-) Ailenin arzu ettiği şekilde bir içerik üretilmesi.**
 
-    > **Açıklama:** Raporun dili, **kime ve ne amaçla yazıldığına göre farklılıklar gösterir**. Örneğin, uzmanlara sunulan raporlarda teknik, aileye sunulan raporlarda ise sade ve anlaşılır bir dil kullanılmalıdır.
+    > **Açıklama:** Raporun amacı, bilimsel temellere dayalı öneriler sunmak ve bireyin psikolojik durumunu tanımlamaktır. **Ailenin arzu ettiği şekilde bir içerik üretilmesi** etik ve bilimsel amaçlardan biri <u>değildir</u>.
+
+    <hr />
+
+### 4.3. Psikolojik Değerlendirme Raporlarının İçeriği
+
+1. Aşağıdakilerden hangisi psikolojik değerlendirme raporlarının içeriğini oluşturmaz?
+    - A-) Tanımlayıcı bilgiler
+    - **Cevap B-) Yüzdelik normlar**
+    - C-) Geçmiş bilgisi
+    - D-) Özet ve öneriler
+    - E-) Yönlendirme nedeni
+
+    > **Açıklama:** Standart bir raporda tanımlayıcı bilgiler, yönlendirme nedeni, geçmiş bilgisi ve özet/öneriler gibi başlıklar bulunur. **Yüzdelik normlar** test sonucunun istatistiksel bir ifadesi olup, raporun içeriğini oluşturan temel başlıklar arasında yer <u>almaz</u>.
+
+    <hr />
+
+### 4.3. Rapor İçeriği
+
+1. Psikolojik değerlendirme raporlarının içeriği konusunda aşağıdaki ifadelerden hangisi yanlıştır?
+    - A-) Tanımlayıcı bilgiler kısmında rapor tarihi yer almalıdır.
+    - B-) Yönlendirme nedeni, raporda bir odak noktası olarak referans alınmalıdır.
+    - C-) Geçmiş bilgisi bölümü, mevcut problemle ilişkili olmayan gereksiz ayrıntılarla uzatılmamalıdır.
+    - **Cevap D-) Kullanılan test sonuçları yalnızca puan olarak verilmeli, yorumlanmamalıdır.**
+    - E-) Özet ve öneriler kısmı, okuyucunun genel durumu hızla kavramasını sağlamalıdır.
+
+    > **Açıklama:** Test sonuçları yalnızca puan olarak verilmemeli; skorlar yazıldıktan sonra **anlamları açıklanarak yorumlanmalıdır**.
 
     <hr />
 
@@ -905,7 +1044,8 @@
     > **Açıklama:** Bulgular ve Yorumlar kısmında, uygulanan ölçüm araçlarından elde edilen sonuçlar ve **çocuğun değerlendirme sürecindeki davranışlarına ilişkin gözlemler** ve uyumu aktarılmalıdır.
 
     <hr />
-1. Aşağıdakilerden hangisi bir psikolojik değerlendirme raporunda yer alan içerik öğeleriyle ilgili <u>yanlıştır</u>?
+
+2. Aşağıdakilerden hangisi bir psikolojik değerlendirme raporunda yer alan içerik öğeleriyle ilgili <u>yanlıştır</u>?
     - A-) Kullanılan testlerin adları ve uygulanma koşulları raporda belirtilmelidir.
     - **Cevap B-) Bulgular bölümünde yalnızca sayısal test sonuçlarına yer verilmesi yeterlidir.**
     - C-) Görüşme ve gözleme dayalı bulgular, rapora bütüncül bir bakış kazandırmak için eklenmelidir.
@@ -928,7 +1068,8 @@
     > **Açıklama:** Raporun en kritik ve kendi içinde bir bütün teşkil etmesi gereken kısmı **Özet ve Öneriler** bölümüdür. Birçok okuyucu genel durumu hızla kavramak için bu bölümden başlar.
 
     <hr />
-1. Değerlendirme raporunun özet ve öneriler kısmı için hangisi doğrudur?
+
+2. Değerlendirme raporunun özet ve öneriler kısmı için hangisi doğrudur?
     - A-) Teknik bir dille yazılmış olmalıdır.
     - B-) Değerlendirmede öğrenilen tüm bilgileri içerir.
     - **Cevap C-) Kısa ve net cümleler kullanılmalıdır.**
@@ -938,7 +1079,8 @@
     > **Açıklama:** Özet ve öneriler kısmında temel bilgiler, okuyucunun genel durumu hızla kavraması için **kısa ve net cümlelerle** sunulmalıdır.
 
     <hr />
-1. Psikolojik değerlendirme raporlarının içeriği hakkında aşağıdakilerden hangisi doğrudur?
+
+3. Psikolojik değerlendirme raporlarının içeriği hakkında aşağıdakilerden hangisi doğrudur?
     - A-) Raporlarda çocuğun geçmişine ait bilgi bulunması etik bir ihlaldir.
     - B-) Raporlarda uygulanan değerlendirme yöntemi gizli tutulmalıdır.
     - **Cevap C-) Özet ve öneriler kısmında raporun içeriği kısa ve net cümlelerle özetlenmelidir.**
@@ -949,42 +1091,40 @@
 
     <hr />
 
-### 4.3. Psikolojik Değerlendirme Raporlarının İçeriği
+### 4.7. Etik İlkeler
 
-1. Aşağıdakilerden hangisi psikolojik değerlendirme raporlarının içeriğini oluşturmaz?
-    - A-) Tanımlayıcı bilgiler
-    - **Cevap B-) Yüzdelik normlar**
-    - C-) Geçmiş bilgisi
-    - D-) Özet ve öneriler
-    - E-) Yönlendirme nedeni
+1. Aşağıdakilerden hangisi, ölçme ve değerlendirme sürecinde uyulması gereken etik kurallardan biri <u>değildir</u>?
+    - A-) Gizliliğe saygı göstererek bilgileri yalnızca yetkili kişilerle paylaşmak
+    - B-) Test uygulaması sırasında belirlenen standartlara uygun davranmak
+    - C-) Test sonuçlarını çocuğun ailesiyle açık ve yapıcı bir şekilde paylaşmak
+    - **Cevap D-) Değerlendirme sonuçlarını, danışanın izni olmadan kurumlar arasında paylaşmak**
+    - E-) Rapor yazımında nesnel ve tarafsız bir dil kullanmak
 
-    > **Açıklama:** Standart bir raporda tanımlayıcı bilgiler, yönlendirme nedeni, geçmiş bilgisi ve özet/öneriler gibi başlıklar bulunur. **Yüzdelik normlar** test sonucunun istatistiksel bir ifadesi olup, raporun içeriğini oluşturan temel başlıklar arasında yer <u>almaz</u>.
-
-    <hr />
-
-### 4.3. Rapor İçeriği
-
-1. Psikolojik değerlendirme raporlarının içeriği konusunda aşağıdaki ifadelerden hangisi yanlıştır?
-    - A-) Tanımlayıcı bilgiler kısmında rapor tarihi yer almalıdır.
-    - B-) Yönlendirme nedeni, raporda bir odak noktası olarak referans alınmalıdır.
-    - C-) Geçmiş bilgisi bölümü, mevcut problemle ilişkili olmayan gereksiz ayrıntılarla uzatılmamalıdır.
-    - **Cevap D-) Kullanılan test sonuçları yalnızca puan olarak verilmeli, yorumlanmamalıdır.**
-    - E-) Özet ve öneriler kısmı, okuyucunun genel durumu hızla kavramasını sağlamalıdır.
-
-    > **Açıklama:** Test sonuçları yalnızca puan olarak verilmemeli; skorlar yazıldıktan sonra **anlamları açıklanarak yorumlanmalıdır**.
+    > **Açıklama:** Değerlendirme sonuçları, gizlilik ilkesi çerçevesinde ele alınır. **Danışanın (velisinin) açık izni olmadan, test sonuçlarının kurumlar arasında paylaşılması** etik bir ihlaldir ve gizlilik ilkesinin istisnaları (adli durumlar, hayati tehlike) dışında yasaktır.
 
     <hr />
 
-### 4.3. Rapor Yazım Amaçları
+2. Aşağıdakilerden hangisi, tüm rapor türlerinde ortak olarak bulunması gereken bir özelliktir?
+    - A-) Tanı ifadesine yer verilmesi
+    - B-) Standart test sonuçlarının sunulması
+    - **Cevap C-) Etik ilkelere uyulması ve anlaşılır bir dil kullanılması**
+    - D-) Yasal düzenlemelere doğrudan atıf yapılması
+    - E-) Sosyal hizmet alanına yönelik öneriler sunulması
 
-1. Ölçme ve değerlendirme raporu yazılmasının amaçlarından biri <u>değildir</u>?
-    - A-) Yönlendirme sebebine yönelik uygun açıklamalar üretilmesi
-    - B-) Bireyin psikolojik durumunu tanımlanması
-    - C-) Çocuğun güçlü yanlarının belirlenip çözüm için kullanılması
-    - D-) Problemlere yönelik bilimsel olarak kanıtlanmış öneriler sunulması
-    - **Cevap E-) Ailenin arzu ettiği şekilde bir içerik üretilmesi.**
+    > **Açıklama:** Rapor türü ne olursa olsun (adli, klinik, psikoeğitsel), rapor yazımında **etik ilkelere uyulması** ve **muhatabın anlayacağı sade, anlaşılır bir dil** kullanılması temel bir gerekliliktir.
 
-    > **Açıklama:** Raporun amacı, bilimsel temellere dayalı öneriler sunmak ve bireyin psikolojik durumunu tanımlamaktır. **Ailenin arzu ettiği şekilde bir içerik üretilmesi** etik ve bilimsel amaçlardan biri <u>değildir</u>.
+    <hr />
+
+### 4.7. Ölçme ve Değerlendirme Yaptıranın Hakları
+
+1. Aşağıdakilerden hangisi ölçme ve değerlendirme yaptıran kişinin haklarından <u>değildir</u>?
+    - A-) Testin uygulanmasını öğrenme hakkı
+    - **Cevap B-) Test geliştirme hakkı**
+    - C-) Saygılı hizmet alma hakkı
+    - D-) Bilgilendirilme hakkı
+    - E-) Ölçüm aracının sonuçlarının açıklanması
+
+    > **Açıklama:** Değerlendirme yaptıran kişinin hakları arasında bilgilendirilme, saygılı hizmet alma, test sonuçlarının açıklanması ve testin uygulanmasını öğrenme hakkı bulunur. **Test geliştirme hakkı** ise uygulayıcının etik sorumlulukları arasındadır, hizmet alan kişinin hakkı <u>değildir</u>.
 
     <hr />
 
@@ -1026,7 +1166,8 @@
     > **Açıklama:** Etik bir uygulayıcı, **ölçüm aracını standartlara uygun şekilde uygulama** yeterliliğine sahip olmalıdır. Standarda uygun uygulama, sonuçların güvenilirliği ve geçerliliği için kritik öneme sahiptir.
 
     <hr />
-1. Aşağıdakilerden hangisi, uygulayıcının etik olarak 'Yeterlik' ilkesi kapsamında dikkat etmesi gereken bir durumdur?
+
+2. Aşağıdakilerden hangisi, uygulayıcının etik olarak 'Yeterlik' ilkesi kapsamında dikkat etmesi gereken bir durumdur?
     - A-) Test materyallerini internetten indirmek
     - B-) Testi sadece uygulamayı bilmek, yorumlama bilgisine ihtiyaç duymamak
     - C-) Gerektiğinde test çevirisi veya adaptasyonu için izin almak
@@ -1062,7 +1203,8 @@
     > **Açıklama:** Geribildirim görüşmelerinde, teknik terimlerden kaçınılarak **açık, sade ve anlaşılır bir dil kullanılması** önceliklidir. Bu, ailenin sonuçları daha net kavramasını sağlar.
 
     <hr />
-1. Değerlendirme raporunun içeriği konusunda aileye bilgi verilirken özellikle neye dikkat edilmelidir?
+
+2. Değerlendirme raporunun içeriği konusunda aileye bilgi verilirken özellikle neye dikkat edilmelidir?
     - A-) Çocukla oyun oynamaya
     - B-) Görüşmenin çok kısa tutulmasına
     - C-) Tüm aile üyelerinin orada olmasına
@@ -1070,42 +1212,6 @@
     - E-) Gerçekleri gizlemeye
 
     > **Açıklama:** Geribildirim sırasında, raporlarda ve sözlü açıklamada **çocukla ilgili olumlu bir dil kullanmaya** ve etiketleyici ifadelerden kaçınmaya dikkat edilmelidir.
-
-    <hr />
-
-### 4.7. Etik İlkeler
-
-1. Aşağıdakilerden hangisi, ölçme ve değerlendirme sürecinde uyulması gereken etik kurallardan biri <u>değildir</u>?
-    - A-) Gizliliğe saygı göstererek bilgileri yalnızca yetkili kişilerle paylaşmak
-    - B-) Test uygulaması sırasında belirlenen standartlara uygun davranmak
-    - C-) Test sonuçlarını çocuğun ailesiyle açık ve yapıcı bir şekilde paylaşmak
-    - **Cevap D-) Değerlendirme sonuçlarını, danışanın izni olmadan kurumlar arasında paylaşmak**
-    - E-) Rapor yazımında nesnel ve tarafsız bir dil kullanmak
-
-    > **Açıklama:** Değerlendirme sonuçları, gizlilik ilkesi çerçevesinde ele alınır. **Danışanın (velisinin) açık izni olmadan, test sonuçlarının kurumlar arasında paylaşılması** etik bir ihlaldir ve gizlilik ilkesinin istisnaları (adli durumlar, hayati tehlike) dışında yasaktır.
-
-    <hr />
-1. Aşağıdakilerden hangisi, tüm rapor türlerinde ortak olarak bulunması gereken bir özelliktir?
-    - A-) Tanı ifadesine yer verilmesi
-    - B-) Standart test sonuçlarının sunulması
-    - **Cevap C-) Etik ilkelere uyulması ve anlaşılır bir dil kullanılması**
-    - D-) Yasal düzenlemelere doğrudan atıf yapılması
-    - E-) Sosyal hizmet alanına yönelik öneriler sunulması
-
-    > **Açıklama:** Rapor türü ne olursa olsun (adli, klinik, psikoeğitsel), rapor yazımında **etik ilkelere uyulması** ve **muhatabın anlayacağı sade, anlaşılır bir dil** kullanılması temel bir gerekliliktir.
-
-    <hr />
-
-### 4.7. Ölçme ve Değerlendirme Yaptıranın Hakları
-
-1. Aşağıdakilerden hangisi ölçme ve değerlendirme yaptıran kişinin haklarından <u>değildir</u>?
-    - A-) Testin uygulanmasını öğrenme hakkı
-    - **Cevap B-) Test geliştirme hakkı**
-    - C-) Saygılı hizmet alma hakkı
-    - D-) Bilgilendirilme hakkı
-    - E-) Ölçüm aracının sonuçlarının açıklanması
-
-    > **Açıklama:** Değerlendirme yaptıran kişinin hakları arasında bilgilendirilme, saygılı hizmet alma, test sonuçlarının açıklanması ve testin uygulanmasını öğrenme hakkı bulunur. **Test geliştirme hakkı** ise uygulayıcının etik sorumlulukları arasındadır, hizmet alan kişinin hakkı <u>değildir</u>.
 
     <hr />
 
@@ -1136,7 +1242,8 @@
     > **Açıklama:** Gelişimsel sorunlar arasında Gelişim gecikmesi, gelişimsel gerileme, gelişimsel sapma ve gelişimsel bozukluklar bulunur. **Gelişimsel dönüm noktaları** ise gelişimin takibi için kullanılan tipik becerileri ifade eder.
 
     <hr />
-1. Gelişimsel gerileme nedir?
+
+2. Gelişimsel gerileme nedir?
     - **Cevap A-) Çocuğun kazandığı gelişimsel becerileri kaybetmesi**
     - B-) Tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması
     - C-) Çocuğun tipik bir gelişim yörüngesi izlemesi
@@ -1146,7 +1253,8 @@
     > **Açıklama:** Gelişimsel gerileme, **çocuğun kazandığı gelişimsel becerileri kaybetmesi** durumudur.
 
     <hr />
-1. Gelişimsel sapma nedir?
+
+3. Gelişimsel sapma nedir?
     - **Cevap A-) Tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması**
     - B-) Çocuğun kazandığı gelişimsel becerileri kaybetmesi
     - C-) Gelişim alanlarında anlamlı düzeyde gecikme olması
@@ -1156,7 +1264,8 @@
     > **Açıklama:** Gelişimsel sapma, **tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması** durumudur.
 
     <hr />
-1. Gelişim gecikmesi nedir?
+
+4. Gelişim gecikmesi nedir?
     - A-) Tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması
     - B-) Çocuğun kazandığı gelişimsel becerileri kaybetmesi
     - C-) Çocuğun tipik bir gelişim yörüngesi izlemesi
@@ -1167,48 +1276,20 @@
 
     <hr />
 
-### 5.4.2.1. Ankara Gelişim Tarama Envanteri (AGTE)
-
-1. Aşağıdakilerden hangisi Ankara Gelişim Tarama Envanteri’nin özellikleri arasında <u>yer almaz</u>?
-    - A-) Okul öncesi dönem çocuklarının gelişimsel değerlendirmesinde kullanılır.
-    - B-) Türkiye’de geliştirilmiştir.
-    - **Cevap C-) Tüm maddeler çocuğun performansına göre klinisyen tarafından doldurulur.**
-    - D-) 154 maddeden oluşur.
-    - E-) Türk çocukları için norm tablosu vardır.
-
-    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE) 154 maddeden oluşur, Türkiye'de geliştirilmiştir ve okul öncesi dönem çocuklarının gelişimsel değerlendirilmesinde kullanılır. Ancak, **tüm maddeler klinisyen tarafından doldurulmaz**.
-
-    <hr />
-
-### 5.4.2. Ülkemizde Kullanılan Gelişimsel Değerlendirme Araçları
-
-1. Aşağıdakilerden hangisi ülkemizde kullanılan gelişim değerlendirme araçlarından <u>değildir</u>?
-    - A-) Ankara Gelişim Tarama Envanteri
-    - B-) Denver II Gelişimsel Tarama Testi
-    - C-) Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı
-    - D-) Bayley Bebekler için Gelişim Değerlendirme Ölçeği
-    - **Cevap E-) Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği**
-
-    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE), Denver II, Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı (GEÇDA) ve Bayley Bebekler için Gelişim Değerlendirme Ölçeği ülkemizde kullanılan gelişim değerlendirme araçlarıdır. **Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği** ise aile dinamiklerini değerlendirir ve bir gelişimsel değerlendirme aracı <u>değildir</u>.
-
-    <hr />
-
-### 5.4.3. Gelişimsel Değerlendirme Sonuçlarının Yorumlanması
-
-1. Gelişimsel değerlendirme sonuçlarının yorumlanması konusunda aşağıdakilerden hangisi doğrudur?
-    - A-) Yalnızca gelişim testi sonucuna göre karar verilir.
-    - **Cevap B-) Test sonucu, çocuğun klinik durumu ile birlikte değerlendirilir.**
-    - C-) Test sonucuna dayanarak tanı konur.
-    - D-) Test sonucunun doğru olduğu varsayılır.
-    - E-) Çevresel faktörler test yorumlanırken dikkate alınmaz.
-
-    > **Açıklama:** Güvenilir olduğu kabul edilen test sonuçları, **çocuğun klinik durumu ve çevresel faktörler dikkate alınarak yorumlanmalıdır**.
-
-    <hr />
-
 ### 5.4. Gelişimsel Değerlendirme
 
-1. Gelişimsel değerlendirme sonucunda gelişim düzeyi yaklaşık 2 yaş olarak belirlenen 5 yaşındaki çocuk için aşağıdakilerden hangisi doğrudur?
+1. Aşağıdaki ifadelerden hangisi gelişimsel değerlendirme konusunda <u>yanlıştır</u>?
+    - A-) Gelişimsel değerlendirme özenli bir şekilde gerçekleştirilir.
+    - **Cevap B-) Değerlendirmede yalnızca çocuktan bilgi alınır.**
+    - C-) Gelişimsel değerlendirmede çocuğun doğum ayı dikkate alınır.
+    - D-) Değerlendirme öncesi çocuk hakkında ebeveyninden bilgi alınır.
+    - E-) Prematüre bebeklerin gelişiminde düzeltilmiş yaş kullanılır.
+
+    > **Açıklama:** Gelişimsel değerlendirmede, yalnızca çocuktan bilgi alınması doğru değildir. Çocukla geçirilen süre, bakımverenlerden alınan bilgiler ve uygulanan testler **bütüncül olarak değerlendirilmelidir**.
+
+    <hr />
+
+2. Gelişimsel değerlendirme sonucunda gelişim düzeyi yaklaşık 2 yaş olarak belirlenen 5 yaşındaki çocuk için aşağıdakilerden hangisi doğrudur?
     - **Cevap A-) Davranışları değerlendirilirken 2 yaşındaki çocuklarla karşılaştırılmalıdır.**
     - B-) 5 yaşındaki bir çocuktan beklenen davranışları sergiler.
     - C-) Gelişimsel değerlendirme sonucuna göre davranışları değerlendirilemez.
@@ -1232,6 +1313,45 @@
 
     <hr />
 
+### 5.4.2. Ülkemizde Kullanılan Gelişimsel Değerlendirme Araçları
+
+1. Aşağıdakilerden hangisi ülkemizde kullanılan gelişim değerlendirme araçlarından <u>değildir</u>?
+    - A-) Ankara Gelişim Tarama Envanteri
+    - B-) Denver II Gelişimsel Tarama Testi
+    - C-) Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı
+    - D-) Bayley Bebekler için Gelişim Değerlendirme Ölçeği
+    - **Cevap E-) Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği**
+
+    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE), Denver II, Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı (GEÇDA) ve Bayley Bebekler için Gelişim Değerlendirme Ölçeği ülkemizde kullanılan gelişim değerlendirme araçlarıdır. **Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği** ise aile dinamiklerini değerlendirir ve bir gelişimsel değerlendirme aracı <u>değildir</u>.
+
+    <hr />
+
+### 5.4.2.1. Ankara Gelişim Tarama Envanteri (AGTE)
+
+1. Aşağıdakilerden hangisi Ankara Gelişim Tarama Envanteri’nin özellikleri arasında <u>yer almaz</u>?
+    - A-) Okul öncesi dönem çocuklarının gelişimsel değerlendirmesinde kullanılır.
+    - B-) Türkiye’de geliştirilmiştir.
+    - **Cevap C-) Tüm maddeler çocuğun performansına göre klinisyen tarafından doldurulur.**
+    - D-) 154 maddeden oluşur.
+    - E-) Türk çocukları için norm tablosu vardır.
+
+    > **Açıklama:** Ankara Gelişim Tarama Envanteri (AGTE) 154 maddeden oluşur, Türkiye'de geliştirilmiştir ve okul öncesi dönem çocuklarının gelişimsel değerlendirilmesinde kullanılır. Ancak, **tüm maddeler klinisyen tarafından doldurulmaz**.
+
+    <hr />
+
+### 5.4.3. Gelişimsel Değerlendirme Sonuçlarının Yorumlanması
+
+1. Gelişimsel değerlendirme sonuçlarının yorumlanması konusunda aşağıdakilerden hangisi doğrudur?
+    - A-) Yalnızca gelişim testi sonucuna göre karar verilir.
+    - **Cevap B-) Test sonucu, çocuğun klinik durumu ile birlikte değerlendirilir.**
+    - C-) Test sonucuna dayanarak tanı konur.
+    - D-) Test sonucunun doğru olduğu varsayılır.
+    - E-) Çevresel faktörler test yorumlanırken dikkate alınmaz.
+
+    > **Açıklama:** Güvenilir olduğu kabul edilen test sonuçları, **çocuğun klinik durumu ve çevresel faktörler dikkate alınarak yorumlanmalıdır**.
+
+    <hr />
+
 ## Ünite 6
 
 ### 6.1. Zekâ Tanımı
@@ -1246,7 +1366,8 @@
     > **Açıklama:** Zekâ; bilgiyi kazanma, öğrendiklerini uygulama, plan yapabilme, yargılama ve problem çözme gibi bilişsel becerileri kapsar. **Duygudurum** zekânın kapsadığı bilişsel becerilere dahil <u>değildir</u>.
 
     <hr />
-1. Aşağıdakilerden hangileri zekânın kapsadığı becerilere dahil <u>değildir</u>?<br />I. Bilgiyi kazanma ve öğrendiklerini uygulama<br />II. Plan yapabilme<br />III. Duygu durum<br />IV. Denge
+
+2. Aşağıdakilerden hangileri zekânın kapsadığı becerilere dahil <u>değildir</u>?<br />I. Bilgiyi kazanma ve öğrendiklerini uygulama<br />II. Plan yapabilme<br />III. Duygu durum<br />IV. Denge
     - **Cevap A-) III ve IV**
     - B-) II ve IV
     - C-) I ve III
@@ -1256,7 +1377,8 @@
     > **Açıklama:** Zekanın kapsadığı beceriler arasında duygudurum (III) ve denge (IV) yer almaz. Bunlar duygusal ve motor becerilerdir.
 
     <hr />
-1. Zekâ ile ilgili aşağıdaki bilgilerden hangisi doğrudur?
+
+3. Zekâ ile ilgili aşağıdaki bilgilerden hangisi doğrudur?
     - A-) Zekâ, yaşam boyu değişmeyen bir yetenektir.
     - B-) Zekâsı düşük olan kişiler iyi planlama becerisine sahiptir.
     - **Cevap C-) Karşılaştığı yeni bilgiyi öğrenme becerisi zekâ ile ilişkilidir.**
@@ -1292,7 +1414,8 @@
     > **Açıklama:** Gardner’ın Çoklu Zekâ Kuramında Görsel-uzamsal zekâ, Sözel zekâ, Bedensel-kinestetik zekâ, Mantıksal-matematiksel zekâ, Kişilerarası zekâ, Müziksel zekâ, İçsel zekâ ve **Doğa ile ilişkili zekâ** yer alır.
 
     <hr />
-1. Aşağıdakilerden hangileri Gardner’in Çoklu Zekâ Kuramında yer alan zekâ alanlarındandır?<br />I. Kristalize zekâ<br />II. Kişilerarası zekâ<br />III. Akıcı zekâ<br />IV. Bedensel-kinestetik zekâ
+
+2. Aşağıdakilerden hangileri Gardner’in Çoklu Zekâ Kuramında yer alan zekâ alanlarındandır?<br />I. Kristalize zekâ<br />II. Kişilerarası zekâ<br />III. Akıcı zekâ<br />IV. Bedensel-kinestetik zekâ
     - A-) III ve IV
     - B-) II ve III
     - C-) I ve II
@@ -1316,19 +1439,6 @@
 
     <hr />
 
-### 6.8.3. Zekâ Testi Sonucunun Yorumlanması
-
-1. Zeka testinin yorumlanması için hangisi doğru değildir?
-    - A-) Yorumdan önce test davranışına bakılır.
-    - **Cevap B-) Test çocukla ilgili başka bilgi olmadan yorumlanmalıdır.**
-    - C-) Test sonucu yorumlanırken testin ölçtüğü beceriler ayrı ayrı değerlendirilmelidir.
-    - D-) Zeka testi sonucu elde edilen IQ puanı yorumlanmadan önce bakılacak yer test davranışıdır.
-    - E-) Zeka testi sonucu test öncesinde edinilen bilgilerle anlamlı bir bütün oluşturmalıdır.
-
-    > **Açıklama:** Zekâ testi sonucu, test öncesinde çocuğa ilişkin elde edilen bilgilerle birlikte değerlendirildiğinde anlamlı bir bütüncül bakış açısı sunar. Bu nedenle, **başka bilgi olmadan yorumlanması** doğru <u>değildir</u>.
-
-    <hr />
-
 ### 6.8. Zekâ Testlerinin Klinik Kullanımı
 
 1. Aşağıdaki ifadelerden hangisi zekanın ölçülmesi konusunda doğru değildir?
@@ -1339,6 +1449,19 @@
     - **Cevap E-) Zeka testleri, tek başına tanı veya karar verme amacı taşımalıdır.**
 
     > **Açıklama:** Zekâ testleri, klinik değerlendirmenin bir parçası olarak kullanılmalı; **tek başına tanı veya karar verme amacı taşımamalıdır**.
+
+    <hr />
+
+### 6.8.3. Zekâ Testi Sonucunun Yorumlanması
+
+1. Zeka testinin yorumlanması için hangisi doğru değildir?
+    - A-) Yorumdan önce test davranışına bakılır.
+    - **Cevap B-) Test çocukla ilgili başka bilgi olmadan yorumlanmalıdır.**
+    - C-) Test sonucu yorumlanırken testin ölçtüğü beceriler ayrı ayrı değerlendirilmelidir.
+    - D-) Zeka testi sonucu elde edilen IQ puanı yorumlanmadan önce bakılacak yer test davranışıdır.
+    - E-) Zeka testi sonucu test öncesinde edinilen bilgilerle anlamlı bir bütün oluşturmalıdır.
+
+    > **Açıklama:** Zekâ testi sonucu, test öncesinde çocuğa ilişkin elde edilen bilgilerle birlikte değerlendirildiğinde anlamlı bir bütüncül bakış açısı sunar. Bu nedenle, **başka bilgi olmadan yorumlanması** doğru <u>değildir</u>.
 
     <hr />
 
@@ -1354,7 +1477,8 @@
     > **Açıklama:** Wechsler Çocuklar için Zeka Ölçeği-R (WÇZÖ-R) alt testleri arasında Sözcük Bulma, Küplerle Desen, Şifre ve Labirentler bulunur. **İnsan çizme** alt testi değildir.
 
     <hr />
-1. İşitme problemi olan bir çocuğun değerlendirilmesinde hangi zeka testi kullanılmalıdır?
+
+2. İşitme problemi olan bir çocuğun değerlendirilmesinde hangi zeka testi kullanılmalıdır?
     - A-) Bilişsel Değerlendirme Sistemi
     - B-) Anadolu Sak Zeka Testi
     - **Cevap C-) Leiter Uluslararası Performans Ölçeği**
@@ -1364,7 +1488,8 @@
     > **Açıklama:** Leiter Uluslararası Performans Ölçeği, **sözel iletişim gerektirmemesi** nedeniyle işitme yetersizliği olan veya otizm tanısı bulunan çocuklarda kullanılmaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi zeka testi <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi zeka testi <u>değildir</u>?
     - **Cevap A-) Stroop Testi**
     - B-) Wechsler Çocuklar için Zeka Ölçeği-R
     - C-) Stanford Binet Testi
@@ -1377,6 +1502,30 @@
 
 ## Ünite 7
 
+### 7.1. Psikolojik Problem Tarama Amacıyla Kullanılan Ölçekler
+
+1. Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımının faydaları arasındadır?
+    - A-) Ölçekler, klinik değerlendirme yapılamadığı zamanlarda tanı konup tedavi kararı vermek için kullanılır.
+    - **Cevap B-) Ölçekler, soyut psikolojik sorunların sayısallaştırılmasını sağlar.**
+    - C-) Ölçekler, tanı koyucu testlerdir.
+    - D-) Ölçeklerin verdiği sonuçlarda genelde hata bulunmaz.
+    - E-) Ölçekler, aynı anda birden çok kişiye uygulanamaz.
+
+    > **Açıklama:** Ruh sağlığı alanında ölçek kullanımı, **soyut psikolojik sorunların sayısallaştırılmasını** ve geniş bir belirti kümesinin hızlı incelenmesini sağlar. Ölçekler klinik değerlendirmeye alternatif <u>değildir</u>.
+
+    <hr />
+
+2. Ruh sağlığı alanında ölçek kullanımı için aşağıdakilerden hangisi doğrudur?
+    - A-) Ölçek kullanımı, klinik değerlendirmeye alternatiftir.
+    - **Cevap B-) Ölçekler, geniş bir belirti kümesinin hızlı bir şekilde incelenmesini sağlar.**
+    - C-) Ölçekler aynı anda birden çok kişiye uygulanmamalıdır.
+    - D-) Ölçeklerde genelde hata bulunmaz.
+    - E-) Öğretmenlerin doldurduğu ölçeklerde genellikle hata bulunmaz.
+
+    > **Açıklama:** Ölçekler, ruh sağlığı alanında **geniş bir belirti kümesinin hızlı bir şekilde incelenmesini** sağlar. Ölçekler klinik değerlendirmeye alternatif <u>değildir</u>.
+
+    <hr />
+
 ### 7.1. Projektif Testler
 
 1. Aşağıdakilerden hangisi projektif test <u>değildir</u>?
@@ -1387,19 +1536,6 @@
     - E-) Çocuklar için Algı Testi (CAT)
 
     > **Açıklama:** Projektif testler bireylere belirsiz uyaranlar vererek kişinin iç dünyasına ulaşmayı amaçlar ve Rorschach, Luisa Düss ve Çocuklar için Algı Testi (CAT) bu türdendir. **Peabody Resim Kelime Eşleştirme Testi** ise alıcı dil ve kelime bilgisini ölçen bir başarı/yetenek testidir.
-
-    <hr />
-
-### 7.1. Psikolojik Problem Tarama Amacıyla Kullanılan Ölçekler
-
-1. Ruh sağlığı alanında ölçek kullanımı için aşağıdakilerden hangisi doğrudur?
-    - A-) Ölçek kullanımı, klinik değerlendirmeye alternatiftir.
-    - **Cevap B-) Ölçekler, geniş bir belirti kümesinin hızlı bir şekilde incelenmesini sağlar.**
-    - C-) Ölçekler aynı anda birden çok kişiye uygulanmamalıdır.
-    - D-) Ölçeklerde genelde hata bulunmaz.
-    - E-) Öğretmenlerin doldurduğu ölçeklerde genellikle hata bulunmaz.
-
-    > **Açıklama:** Ölçekler, ruh sağlığı alanında **geniş bir belirti kümesinin hızlı bir şekilde incelenmesini** sağlar. Ölçekler klinik değerlendirmeye alternatif <u>değildir</u>.
 
     <hr />
 
@@ -1415,7 +1551,8 @@
     > **Açıklama:** DEHB değerlendirmesinde Conners Anababa/Öğretmen Değerlendirme Ölçekleri ve Weiss İşlevsellikte Bozulma Ölçeği kullanılır. **Güçler ve Güçlükler Anketi (SDQ)** DEHB değerlendirmesinde kullanılan ölçeklerden <u>değildir</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi DEHB’nin değerlendirilmesinde kullanılan ölçeklerdendir?
+
+2. Aşağıdakilerden hangisi DEHB’nin değerlendirilmesinde kullanılan ölçeklerdendir?
     - A-) Tematik Algı Testi
     - **Cevap B-) Conners Anababa Değerlendirme Ölçekleri**
     - C-) Durumluk ve Sürekli Kaygı Envanteri
@@ -1477,7 +1614,8 @@
     > **Açıklama:** Otizm Spektrum Bozukluklarının (OSB) değerlendirilmesinde Otizm Davranış Kontrol Listesi, Çocukluk Çağı Otizm Derecelendirme Ölçeği ve Değiştirilmiş Erken Çocukluk Dönemi Otizm Tarama Ölçeği kullanılır. **Weiss İşlevsellikte Bozulma Ölçeği** ise DEHB’nin değerlendirilmesinde kullanılan bir ölçektir.
 
     <hr />
-1. Aşağıdaki ölçeklerden hangisi değerlendirici tarafından çocuğu gözleyerek ve ebeveyne sorularak doldurulur?
+
+2. Aşağıdaki ölçeklerden hangisi değerlendirici tarafından çocuğu gözleyerek ve ebeveyne sorularak doldurulur?
     - A-) Çocukluk Çağı Anksiyete ve Depresyon Ölçeği-Yeniden Düzenlenmiş
     - **Cevap B-) Çocukluk Çağı Otizm Derecelendirme Ölçeği**
     - C-) Weiss İşlevsellikte Bozulma Ölçeği
@@ -1487,7 +1625,8 @@
     > **Açıklama:** <b>Çocukluk Çağı Otizm Derecelendirme Ölçeği (CARS)</b>, değerlendirici tarafından çocuğun gözlemlenmesi ve ebeveynden bilgi alınmasıyla doldurulan bir araçtır.
 
     <hr />
-1. Aşağıdakilerden hangisi Okul Öncesi Dönem Psikiyatrik Değerlendirme (PAPA) aracı için doğrudur?
+
+3. Aşağıdakilerden hangisi Okul Öncesi Dönem Psikiyatrik Değerlendirme (PAPA) aracı için doğrudur?
     - A-) Sadece ergenlik dönemindeki çocukların değerlendirilmesinde kullanılır.
     - B-) Öğretmen görüşmesine dayalı yapılandırılmış bir araçtır.
     - **Cevap C-) 2–5 yaş arası çocukların ruhsal durumunu değerlendirmek amacıyla geliştirilmiştir.**
@@ -1525,7 +1664,8 @@
     > **Açıklama:** Metropolitan Okul Olgunluğu Testi, **çocukların ilkokula hazırlık düzeylerini saptamak** için kullanılır. Alt testleri arasında sağ-sol ayırt etme <u>yer almaz</u>.
 
     <hr />
-1. Metropolitan Okul Olgunluğu Testinin alt testlerinden <u>değildir</u>?
+
+2. Metropolitan Okul Olgunluğu Testinin alt testlerinden <u>değildir</u>?
     - A-) Kelime anlama
     - B-) Kopya etme
     - C-) Genel bilgi
@@ -1548,7 +1688,8 @@
     > **Açıklama:** Özgül Öğrenme Bozukluğu (ÖÖB) bataryaları Okuma, Yazma, Sağ-sol ayırt etme ve Lateralleşme gibi becerileri değerlendirir. **Sözel zeka** bu bataryanın değerlendirdiği becerilerden biri <u>değildir</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi özgül öğrenme güçlüğü test bataryasında yer alan testlerden <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi özgül öğrenme güçlüğü test bataryasında yer alan testlerden <u>değildir</u>?
     - A-) Gessel gelişim figürleri testi
     - **Cevap B-) Küplerle desen**
     - C-) Head sağ-sol ayırt etme testi

@@ -1,0 +1,47 @@
+[
+    {
+        "CourseName": "Çocuk Gelişimi Uygulamaları I",
+        "exam_id": "867694",
+        "Donem": 7
+    },
+    {
+        "CourseName": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi",
+        "exam_id": "867692",
+        "Donem": 7
+    },
+    {
+        "CourseName": "İlkokula Hazırlık",
+        "exam_id": "867684",
+        "Donem": 7
+    },
+    {
+        "CourseName": "Koruyucu Ruh Sağlığı ve Dayanıklılık",
+        "exam_id": "867689",
+        "Donem": 5
+    },
+    {
+        "CourseName": "Okul Öncesi Dönemde Duyu Eğitimi",
+        "exam_id": "867691",
+        "Donem": 7
+    },
+    {
+        "CourseName": "Oyun ve Oyun Terapisi",
+        "exam_id": "867693",
+        "Donem": 7
+    },
+    {
+        "CourseName": "Psikometrik - Gelişimsel Ölçme ve Değerlendirme",
+        "exam_id": "867690",
+        "Donem": 5
+    },
+    {
+        "CourseName": "Sosyal-Duygusal Gelişim",
+        "exam_id": "867683",
+        "Donem": 5
+    },
+    {
+        "CourseName": "Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri",
+        "exam_id": "867688",
+        "Donem": 5
+    }
+]

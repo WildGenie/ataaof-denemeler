@@ -2,13 +2,16 @@ import json
 import os
 import re
 import shutil
+import shutil
 from urllib.parse import quote
+from libs.shared import safe_html_to_markdown
 
 # Paths
-AUZEF_ROOT = '/Users/wildgenie/Projects/ATA-AOF-Grafik-Sanatlar/auzef'
+# Paths
+AUZEF_ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'output', 'Auzef')
 AUZEF_JSON_DIR = os.path.join(AUZEF_ROOT, 'json')
 AUZEF_SORULAR_DIR = os.path.join(AUZEF_ROOT, 'sorular')
-ANADOLU_INTERAKTIF_PATH = '/Users/wildgenie/Projects/ATA-AOF-Grafik-Sanatlar/anadolu/interaktif.html'
+ANADOLU_INTERAKTIF_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'anadolu', 'interaktif.html')
 
 def load_json_files():
     courses = {} # Key: Term, Value: List of course data
@@ -19,47 +22,71 @@ def load_json_files():
 
     for root, dirs, files in os.walk(AUZEF_JSON_DIR):
         for file in files:
-            if file.endswith('.json'):
-                full_path = os.path.join(root, file)
+            if not file.endswith('.json') or file.endswith('Raw.json'):
+                continue
 
-                # Extract info from filename: Auzef - Dönem {Term} - {Course} - Sorular.json
-                # or similar.
-                match = re.search(r'Auzef - Dönem (\d+) - (.+) - Sorular\.json', file)
-                if match:
-                    term = int(match.group(1))
-                    course_name = match.group(2)
+            full_path = os.path.join(root, file)
+
+            # Extract info from filename
+            # Expected formats:
+            # Auzef - Dönem {Term} - {Course} - Sorular.json
+            # Auzef - Dönem {Term} - {Course} - Alıştırma Soruları.json
+
+            term = 0
+            course_name = ""
+            type_label = "Sorular"
+
+            # Try to parse filename
+            parts = file.replace('.json', '').split(' - ')
+            if len(parts) >= 4:
+                # [Auzef, Dönem X, Course Name, Type]
+                term_str = parts[1].replace('Dönem ', '')
+                if term_str.isdigit():
+                    term = int(term_str)
+
+                # Fix for Course Names containing " - " like "Psikometrik - Gelişimsel ..."
+                # If parts length is > 4, it means course name itself had split chars.
+                # parts[0] = Auzef, parts[1] = Donem X
+                # parts[-1] is the Type suffix (Sorular.json / Alıştırma Soruları.json)
+                # Everything in between is Course Name
+
+                type_suffix = parts[-1]
+                course_name_parts = parts[2:-1] # From 2 to second last
+                course_name = " - ".join(course_name_parts)
+
+                if "Alıştırma" in type_suffix:
+                    type_label = "Alıştırma Soruları"
                 else:
-                    # Fallback if naming is different, try to guess or skip
-                    # Attempt to extract term from directory name
-                    parent_dir = os.path.basename(root)
-                    term_match = re.search(r'Donem (\d+)', parent_dir)
-                    if term_match:
-                        term = int(term_match.group(1))
-                    else:
-                        term = 99 # Misc
+                    type_label = "Çıkmış Sorular"
+            else:
+                 # Fallback logic
+                 continue
 
-                    course_name = file.replace('.json', '')
+            # Read JSON to get question count/content
+            try:
+                with open(full_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    questions = data # The file is a list of questions
+            except Exception as e:
+                print(f"Error reading {full_path}: {e}")
+                questions = []
 
-                # Read JSON to get question count/content
-                try:
-                    with open(full_path, 'r', encoding='utf-8') as f:
-                        data = json.load(f)
-                        questions = data.get('questions', [])
-                except Exception as e:
-                    print(f"Error reading {full_path}: {e}")
-                    questions = []
+            course_info = {
+                "term": term,
+                "name": course_name,
+                "type": type_label,
+                "json_path": full_path,
+                "relative_json_url": os.path.relpath(full_path, start=AUZEF_ROOT),
+                "questions": questions
+            }
 
-                course_info = {
-                    "term": term,
-                    "name": course_name,
-                    "json_path": full_path,
-                    "relative_json_url": os.path.relpath(full_path, start=AUZEF_ROOT), # Relative to interaktif.html
-                    "questions": questions
-                }
+            if term not in courses:
+                courses[term] = {}
 
-                if term not in courses:
-                    courses[term] = []
-                courses[term].append(course_info)
+            if course_name not in courses[term]:
+                courses[term][course_name] = []
+
+            courses[term][course_name].append(course_info)
 
     return courses
 
@@ -72,21 +99,73 @@ def generate_dersler_json(courses):
     # Sort terms
     sorted_terms = sorted(courses.keys())
 
+    # Load dersler.json for canonical names if possible
+    canonical_names = {}
+    try:
+        with open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'auzef', 'dersler.json'), 'r') as f:
+            dersler_ref = json.load(f)
+            for d in dersler_ref:
+                n = d.get('CourseName')
+                if n: canonical_names[n.lower()] = n
+    except:
+        pass
+
     for term in sorted_terms:
-        term_courses = courses[term]
-        # Sort courses by name
-        term_courses.sort(key=lambda x: x['name'])
+        term_courses_map = courses[term]
+
+        # Consolidate courses with case-insensitive naming
+        consolidated_map = {}
+        for c_name_raw, info_list in term_courses_map.items():
+            lower_name = c_name_raw.lower()
+            # prefer canonical name if available, else first encountered proper case
+            c_name = canonical_names.get(lower_name, c_name_raw)
+
+            # Apply fix for "Ve" capitalized inside sentence
+            def fix_course_name(text):
+                words = text.split()
+                res = []
+                for i, w in enumerate(words):
+                    if i > 0 and w.lower() in ['ve', 'ile', 'veya', 'de', 'da']:
+                        res.append(w.lower())
+                    else:
+                        res.append(w)
+                return " ".join(res)
+
+            c_name = fix_course_name(c_name)
+
+            if c_name not in consolidated_map:
+                consolidated_map[c_name] = []
+            consolidated_map[c_name].extend(info_list)
+
+        # Sort course names
+        sorted_course_names = sorted(consolidated_map.keys())
 
         dersler_list = []
-        for course in term_courses:
+        for course_name in sorted_course_names:
+            info_list = consolidated_map[course_name]
+
+            # Sort sources (Sorular first)
+            def source_sort(info):
+                if "Çıkmış" in info['type']: return 0
+                return 1
+
+            info_list.sort(key=source_sort)
+
+            sources = []
+            for info in info_list:
+                # Deduplicate sources based on type? Or just list all?
+                # Let's list all unique by type to be safe
+                if any(s['name'] == info['type'] for s in sources):
+                    continue
+
+                sources.append({
+                    "name": info['type'],
+                    "url": info['relative_json_url']
+                })
+
             dersler_list.append({
-                "dersAdi": course['name'],
-                "sources": [
-                    {
-                        "name": "Sorular",
-                        "url": course['relative_json_url']
-                    }
-                ]
+                "dersAdi": course_name,
+                "sources": sources
             })
 
         output_list.append({
@@ -99,7 +178,7 @@ def generate_dersler_json(courses):
         json.dump(output_list, f, ensure_ascii=False, indent=4)
     print(f"Generated dersler.json at {output_path}")
 
-def generate_markdown_file(course_info):
+def generate_markdown_file(course_info, include_units=None):
     questions = course_info['questions']
     course_name = course_info['name']
     term = course_info['term']
@@ -125,8 +204,9 @@ def generate_markdown_file(course_info):
 
     # Group by Unit
     grouped_by_unit = {}
-    for q in questions:
-        unit = q.get('unit')
+    for idx, q in enumerate(questions):
+        unit = q.get('unit') or q.get('Unite')
+
         unit_key = get_unit_key(unit)
         if unit_key not in grouped_by_unit:
             grouped_by_unit[unit_key] = []
@@ -134,12 +214,22 @@ def generate_markdown_file(course_info):
 
     # Sort units
     def sort_key(k):
-        m = re.search(r'(\d+)', k)
+        # Extract unit number
+        m = re.search(r'(\d+)', str(k))
         return int(m.group(1)) if m else 999
 
     sorted_units = sorted(grouped_by_unit.keys(), key=sort_key)
 
     for unit in sorted_units:
+        # Check explicit inclusions
+        # Extract unit number for filtering
+        unit_num_match = re.search(r'(\d+)', unit)
+        unit_num = int(unit_num_match.group(1)) if unit_num_match else 0
+
+        # If include_units is specified (not None/Empty) and unit_num is NOT in it, skip
+        if include_units and unit_num not in include_units:
+             continue
+
         content += f"## {unit}\n\n"
         unit_questions = grouped_by_unit[unit]
 
@@ -148,7 +238,7 @@ def generate_markdown_file(course_info):
         no_topic_questions = []
 
         for q in unit_questions:
-            topic = q.get('topic')
+            topic = q.get('topic') or q.get('Konu')
             if topic:
                 if topic not in grouped_by_topic:
                     grouped_by_topic[topic] = []
@@ -158,61 +248,84 @@ def generate_markdown_file(course_info):
 
         # Sort topics
         def topic_sort_key(t):
-             # parse 1.1.1 or 10.1.1
-             # Split by dots or other non-digits
-             nums = []
-             # Find sequence of digits
-             # Example: "10.1.1. Topic" -> [10, 1, 1]
-             # We want to match dotted numbers at start
              m = re.match(r'^([\d\.]+)', t)
              if m:
-                 parts = m.group(1).split('.')
+                 # Remove trailing dot if present to avoid empty string at end
+                 clean_ver = m.group(1).strip('.')
+                 parts = clean_ver.split('.')
+                 nums = []
                  for p in parts:
                      if p.isdigit():
                          nums.append(int(p))
-             else:
-                 # Try finding any numbers
-                 parts = re.findall(r'\d+', t)
-                 for p in parts:
-                     nums.append(int(p))
+                 # print(f"DEBUG TOPIC SORT: '{t}' -> {nums}")
+                 return nums
+             # print(f"DEBUG TOPIC SORT (NO MATCH): '{t}' -> [999]")
+             return [999]
 
-             return nums if nums else [999]
+        sorted_topics = sorted(grouped_by_topic.keys(), key=topic_sort_key)
 
-        sorted_topics = sorted(grouped_by_topic.keys(), key=lambda t: (topic_sort_key(t), t))
-
-        # Process topics
         for topic in sorted_topics:
-            q_list = grouped_by_topic[topic]
             content += f"### {topic}\n\n"
-            for idx, q in enumerate(q_list, 1):
-               content += format_question_md(q, idx)
+            for idx, q in enumerate(grouped_by_topic[topic], 1):
+                content += format_question_md(q, idx)
 
-        # Then questions without topics
         if no_topic_questions:
-            if grouped_by_topic:
-                content += f"### Diğer\n\n"
+            if sorted_topics: # Only add header if there were other topics
+                content += "### Diğer\n\n"
             for idx, q in enumerate(no_topic_questions, 1):
                 content += format_question_md(q, idx)
 
     return content
 
 def format_question_md(q, idx):
-    q_text = q.get('question', '').replace('<br>', '\n')
+    # Try different key formats (Normal vs AUZEF Standard)
+    q_text_content = q.get('question') or q.get('SoruMetni', '')
+    # Use shared converter for consistency and escaping/HTML preservation
+    q_text = safe_html_to_markdown(str(q_text_content))
+    q_text = q_text.replace('\n', '<br />') # Use br for newlines
+
+    explanation_content = q.get('explanation') or q.get('Aciklama', '')
+    explanation = safe_html_to_markdown(str(explanation_content))
+    explanation = explanation.replace('\n', '<br />')
+
+    # Handle Options and Correct Answer
+    # Format 1: 'options' list + 'correctIndex'
     options = q.get('options', [])
     correct_idx = q.get('correctIndex', -1)
-    explanation = q.get('explanation', '')
+
+    # Format 2: 'A', 'B', 'C', 'D', 'E' keys + 'DogruCevap' string
+    dogru_cevap = q.get('DogruCevap', '')
+
+    if not options and (q.get('A') or q.get('B')):
+        options = [
+            q.get('A', ''),
+            q.get('B', ''),
+            q.get('C', ''),
+            q.get('D', ''),
+            q.get('E', '')
+        ]
+        # Remove empty options at the end if any (though usually 5 options exist)
+        # Convert DogruCevap 'A' -> 0, 'B' -> 1 etc.
+        letter_map = {'A': 0, 'B': 1, 'C': 2, 'D': 3, 'E': 4}
+        correct_idx = letter_map.get(dogru_cevap, -1)
 
     md = f"{idx}. {q_text}\n"
 
     letters = ['A', 'B', 'C', 'D', 'E']
     for i, opt in enumerate(options):
+        # Skip if option text is empty and we are past valid options?
+        if not opt: continue
+
         prefix = letters[i] if i < len(letters) else '?'
         is_correct = (i == correct_idx)
 
-        if is_correct:
-            md += f"    - **Cevap {prefix}-) {opt}**\n"
-        else:
-            md += f"    - {prefix}-) {opt}\n"
+        opt_text = safe_html_to_markdown(opt)
+        opt_text = opt_text.replace('\n', ' ')
+
+        bold_wrapper = "**" if is_correct else ""
+        ans_prefix = "**Cevap " if is_correct else ""
+
+        md += f"    - {ans_prefix}{prefix}-) {opt_text}{bold_wrapper}\n"
 
     md += "\n"
 
@@ -230,45 +343,87 @@ def generate_structure_and_mds(courses):
     for term in sorted_terms:
         root_index_content += f"## Dönem {term}\n\n"
 
-        term_courses = courses[term]
-        term_courses.sort(key=lambda x: x['name'])
+        term_courses_map = courses[term]
 
-        for course in term_courses:
+        # Sort course names
+        sorted_course_names = sorted(term_courses_map.keys())
+
+        for course_name in sorted_course_names:
+            info_list = term_courses_map[course_name]
+
+            # We need to pick ONE primary source to generate the main MD structure or combine them?
+            # For now, let's pick "Çıkmış Sorular" or the first available one as the representative for MD content
+            # BUT actually, the markdown generation Logic in generate_markdown_file takes ONE "course_info" object.
+            # If we have multiple (Sorular + Alıştırma), we might want to generate separate MDs or just one combined?
+            # The current pipeline actually generates separate MDs (Sorular.md, Alıştırma Soruları.md) in the pipeline code.
+            # This script seems to be re-doing that work or doing it for static export.
+
+            # Let's prioritize "Sorular" (Çıkmış) for the main "Sorular.md" if available,
+            # but ideally we should probably iterate and generate both if we want to be complete.
+            # For the purpose of "Root Index", we link to the FOLDER.
+
+            # Let's use the first one to get name/path info
+            primary_info = info_list[0]
+            for info in info_list:
+                if "Çıkmış" in info['type']:
+                    primary_info = info
+                    break
+
             # Create Course Directory
             # Format: auzef/Donem X/CourseName/
-            course_dir_name = course['name'].replace('/', '-')
+            course_dir_name = course_name.replace('/', '-')
             term_dir_name = f"Donem {term}"
             course_path = os.path.join(AUZEF_ROOT, term_dir_name, course_dir_name)
+
+            # Apply fix for "Ve" capitalized inside sentence for directory names/links
+            def fix_course_name(text):
+                words = text.split()
+                res = []
+                for i, w in enumerate(words):
+                    if i > 0 and w.lower() in ['ve', 'ile', 'veya', 'de', 'da']:
+                        res.append(w.lower())
+                    else:
+                        res.append(w)
+                return " ".join(res)
+
+            folder_name = fix_course_name(course_name)
+            folder_name_encoded = quote(folder_name)
+
+            # Update root index with FIXED name
+            root_index_content += f"- 📂 [{folder_name}]({term_dir_name}/{folder_name_encoded}/)\n"
 
             if not os.path.exists(course_path):
                 os.makedirs(course_path)
 
-            # Generate MD content
-            md_content = generate_markdown_file(course)
-            md_filename = "Sorular.md"
-            md_file_path = os.path.join(course_path, md_filename)
+            # Prepare Course Index content
+            course_index_content = f"# {folder_name}\n\n## Ders Materyalleri\n\n"
+            course_index_content += "[🔙 Ana Sayfaya Dön](../../)\n\n"
 
-            with open(md_file_path, 'w', encoding='utf-8') as f:
-                f.write(md_content)
+            # Generate MD content for ALL sources in the info_list
+            for info in info_list:
+                md_content = generate_markdown_file(info)
 
-            # Generate Course Index MD
-            # URL encoding for links
-            md_url = quote(md_filename)
-            course_index_content = f"# {course['name']}\n\n## Ders Materyalleri\n\n### [📝 Sorular]({md_url})\n\n[🔙 Ana Sayfaya Dön](../../)\n"
+                # Determine filename based on type
+                if "Alıştırma" in info['type']:
+                    md_filename = "Alıştırma Soruları.md"
+                    label = "📝 Alıştırma Soruları"
+                else:
+                    md_filename = "Sorular.md"
+                    label = "📝 Çıkmış Sorular"
+
+                md_file_path = os.path.join(course_path, md_filename)
+                with open(md_file_path, 'w', encoding='utf-8') as f:
+                    f.write(md_content)
+
+                # Add link to course index
+                md_url = quote(md_filename)
+                course_index_content += f"- [{label}]({md_url})\n"
 
             with open(os.path.join(course_path, 'index.md'), 'w', encoding='utf-8') as f:
                 f.write(course_index_content)
 
-            # Add entry to Root Index
-            # Link format: Donem%20{Term}/{CourseEncoded}/
-
-            # Need strict URL encoding for markdown links to work on file system or github pages
-            # Path relative to root index
-            rel_path = f"{term_dir_name}/{course_dir_name}/"
-            # Encode each component
-            rel_path_encoded = "/".join([quote(part) for part in rel_path.split('/') if part])
-
-            root_index_content += f"- 📂 [{course['name']}]({rel_path_encoded}/)\n"
+            # Link to FOLDER in Root Index (Already done above with FIXED name)
+            # Remove duplicate logic if present below
 
         root_index_content += "\n---\n\n"
 

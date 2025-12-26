@@ -10,62 +10,13 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AUZEF_JSON_DIR = os.path.join(PROJECT_ROOT, "output", "Auzef", "json")
 AUZEF_MD_DIR = os.path.join(PROJECT_ROOT, "output", "Auzef")
 
-class HTMLPreservingConverter(MarkdownConverter):
-    def convert_sup(self, el, text, **kwargs):
-        return f'<sup>{text}</sup>'
-
-    def convert_sub(self, el, text, **kwargs):
-        return f'<sub>{text}</sub>'
-
-    def convert_u(self, el, text, **kwargs):
-        return f'<u>{text}</u>'
-
-    def convert_b(self, el, text, **kwargs):
-        return f'<b>{text}</b>'
-
-    def convert_i(self, el, text, **kwargs):
-        return f'<i>{text}</i>'
-
-    def convert_strong(self, el, text, **kwargs):
-        return f'<b>{text}</b>'
-
-    def convert_em(self, el, text, **kwargs):
-        return f'<i>{text}</i>'
-
-    def convert_ins(self, el, text, **kwargs):
-        return f'<ins>{text}</ins>'
-
-def safe_convert(text):
-    if not text: return ""
-    converter = HTMLPreservingConverter(autolinks=False)
-    # Replace <br> with temporary token to keep them later
-    text = re.sub(r'<br\b[^>]*>', '\n', text, flags=re.IGNORECASE)
-    text = re.sub(r'</br>', '', text, flags=re.IGNORECASE)
-    converted = converter.convert(text).strip()
-
-    # Unescape characters that markdownify escaped unnecessarily for our use case
-    # This prevents things like \_\_\_\_\_ appearing in the output
-    converted = converted.replace(r'\_', '_')
-    converted = converted.replace(r'\*', '*')
-    converted = converted.replace(r'\[', '[')
-    converted = converted.replace(r'\]', ']')
-    converted = converted.replace(r'\(', '(')
-    converted = converted.replace(r'\)', ')')
-    converted = converted.replace(r'\!', '!')
-    converted = converted.replace(r'\+', '+')
-    converted = converted.replace(r'\-', '-')
-
-    # Escape dots after numbers at the start of a line (To prevent unwanted automatic lists)
-    converted = re.sub(r'^(\d+)\.', r'\1\.', converted, flags=re.MULTILINE)
-    # Escape < except for allowed HTML tags
-    allowed_tags = r'sup|sub|u|b|i|strong|em|ins'
-    converted = re.sub(r'<(?!/?(' + allowed_tags + r')\b)', '&lt;', converted)
-    return converted
+from libs.shared import safe_html_to_markdown
+# HTMLPreservingConverter and safe_convert removed in favor of shared lib
 
 def questions_to_markdown(questions):
     md = ""
     for i, q in enumerate(questions, 1):
-        q_text = safe_convert(q.get('question', '')).replace('\n', '<br />')
+        q_text = safe_html_to_markdown(q.get('question', '')).replace('\n', '<br />')
 
         occ = q.get('occurrence_count', 1)
         badge = f" *({occ} kez soruldu)*" if occ > 1 else ""
@@ -79,11 +30,11 @@ def questions_to_markdown(questions):
             prefix = "**Cevap " if idx == correct else ""
             suffix = "**" if idx == correct else ""
 
-            cleaned_opt = safe_convert(opt).replace('\n', ' ').strip()
+            cleaned_opt = safe_html_to_markdown(opt).replace('\n', ' ').strip()
             md += f"    - {prefix}{letter}-) {cleaned_opt}{suffix}\n"
 
         if q.get('explanation'):
-            exp = safe_convert(q['explanation']).replace('\n', '<br />')
+            exp = safe_html_to_markdown(q['explanation']).replace('\n', '<br />')
             md += f"\n    > **Açıklama:** {exp}\n\n"
 
         md += "    <hr />\n"
@@ -112,10 +63,22 @@ def main():
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        questions = data.get("questions", [])
-        meta = data.get("meta", {})
-        course_name = meta.get("course_name")
-        term = meta.get("term", "")
+        if isinstance(data, list):
+            questions = data
+            # Try to extract meta from first question if possible, or fallback
+            if questions:
+                first_q = questions[0]
+                course_name = first_q.get('DersAd') or first_q.get('course_name')
+                term = str(first_q.get('Somestre', '')) or str(first_q.get('term', ''))
+            else:
+                course_name = None
+                term = None
+            meta = {}
+        else:
+            questions = data.get("questions", [])
+            meta = data.get("meta", {})
+            course_name = meta.get("course_name")
+            term = meta.get("term", "")
 
         if not course_name: continue
 

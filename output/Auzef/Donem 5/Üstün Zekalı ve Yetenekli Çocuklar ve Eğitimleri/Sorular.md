@@ -1,4 +1,4 @@
-# Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri - Çıkmış Sorular
+# Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri - Sorular
 
 ## Ünite 1
 
@@ -14,7 +14,8 @@
     > **Açıklama:** Uzun yıllar üstün zekalılıkla ilgili yapılmış araştırmalar sonucunda <b>üstün zekânın tanımı ile ilgili fikir birliğine varılamamıştır</b>. Bu yüzden, zeka ve yetenek kavramlarının tanımları konusunda araştırmacılar arasında hala görüş ayrılıkları bulunmaktadır.
 
     <hr />
-1. Zekayı “yeni çevresel uyaranlarla adapte olmaya devam eden dinamik bir süreç ve bu şekilde kişinin dengeye ulaşma durumu” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?
+
+2. Zekayı “yeni çevresel uyaranlarla adapte olmaya devam eden dinamik bir süreç ve bu şekilde kişinin dengeye ulaşma durumu” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?
     - **Cevap A-) Piaget**
     - B-) Fontana
     - C-) Cattell
@@ -24,7 +25,8 @@
     > **Açıklama:** Zekayı yeni çevresel uyaranlarla adapte olmaya devam eden dinamik bir süreç ve bu şekilde kişinin dengeye ulaşma durumu şeklinde tanımlayan kişi <b>Piaget</b>'dir.
 
     <hr />
-1. Kristalize zekadan bahseden araştırmacı aşağıdakilerden hangisidir?
+
+3. Kristalize zekadan bahseden araştırmacı aşağıdakilerden hangisidir?
     - A-) Horn
     - **Cevap B-) Cattell**
     - C-) Spearman
@@ -34,7 +36,8 @@
     > **Açıklama:** 1940’larda Raymond <b>Cattell</b>, genel zekâyı <b>kristalize zekâ</b> ve akıcı zekâ olarak iki bileşene ayırarak açıklamıştır.
 
     <hr />
-1. Aşağıdakilerden hangisi yetenek sözcüğünün karşılığını ifade etmez?
+
+4. Aşağıdakilerden hangisi yetenek sözcüğünün karşılığını ifade etmez?
     - A-) Uslamlama yapabilme
     - B-) Soyut düşünebilme
     - **Cevap C-) Düzenli çalışma**
@@ -57,7 +60,8 @@
     > **Açıklama:** ‘Üstün zekâlı’ kavramı <b>ilk olarak 1869 yılında Francis Galton tarafından kullanılmış</b> bundan sonra pek çok bilim insanı üstün zekâlılıkla ilgili çeşitli tanımlamalar yapmıştır.
 
     <hr />
-1. ….. üstün zekâlı bireyi Simon ve Binet’nin geliştirdiği Stanford-Binet Zekâ Testi ile ölçülen “140 ve üzeri IQ puanına sahip kişi” şeklinde tanımlamıştır. Yukarıdaki cümledeki boşluğa aşağıdakilerden hangisi gelmelidir?
+
+2. ….. üstün zekâlı bireyi Simon ve Binet’nin geliştirdiği Stanford-Binet Zekâ Testi ile ölçülen “140 ve üzeri IQ puanına sahip kişi” şeklinde tanımlamıştır. Yukarıdaki cümledeki boşluğa aşağıdakilerden hangisi gelmelidir?
     - A-) Guilford
     - B-) Gardner
     - **Cevap C-) Terman**
@@ -67,7 +71,8 @@
     > **Açıklama:** <b>Terman</b>, üstün zekâlı bireyleri Simon ve Binet’nin geliştirdiği Stanford-Binet Zekâ Testi ile ölçülen <b>“140 ve üzeri IQ puanına sahip kişi”</b> şeklinde tanımlamıştır.
 
     <hr />
-1. Ruf (2005) üstün zekâlı çocukların davranışları ile zekâları arasındaki ilişkiyi ortaya koyan beş düzeyli bir model sunmuştur. Aşağıdakilerden hangisi, en nadir görülen beşinci düzeydeki çocukların davranışlarından biridir?
+
+3. Ruf (2005) üstün zekâlı çocukların davranışları ile zekâları arasındaki ilişkiyi ortaya koyan beş düzeyli bir model sunmuştur. Aşağıdakilerden hangisi, en nadir görülen beşinci düzeydeki çocukların davranışlarından biridir?
     - A-) Çoğu 3 yaş civarı kitap sayfalarını çevirmeye başlar.
     - B-) Tamamı 1 yaşlarında bölümlü kitapları okumaya başlar.
     - C-) Tamamı 1 yaşında soyut matematiksel kavramları ve temel matematiksel işlemleri anlamaya başlar.
@@ -77,7 +82,8 @@
     > **Açıklama:** Ruf’un beş düzeyli modeline göre, en nadir görülen beşinci düzeydeki çocukların davranışlarından biri <b>tamamı 2 yaş civarı yetişkin düzeyde konuşmaya başlama</b>dır.
 
     <hr />
-1. Aşağıdakilerden hangisi Marland Raporu’nda üstün yetenekli bireylerin yüksek performans gösterdiği ya da potansiyel yeteneğe sahip olduğu belirtilen altı alandan biri değildir?
+
+4. Aşağıdakilerden hangisi Marland Raporu’nda üstün yetenekli bireylerin yüksek performans gösterdiği ya da potansiyel yeteneğe sahip olduğu belirtilen altı alandan biri değildir?
     - A-) Görsel sanatlar ve sahne sanatları
     - B-) Liderlik yeteneği
     - **Cevap C-) Duygusal zeka**
@@ -87,7 +93,8 @@
     > **Açıklama:** Marland Raporu’nda üstün yetenekliliğin altı alanı arasında; Genel entelektüel yetenek, Özel akademik yetenek, Yaratıcı veya üretken düşünme, Liderlik yeteneği, Görsel sanatlar ve sahne sanatları ve Psikomotor yetenek yer alır. <b>Duygusal zeka</b> bu alanlardan biri değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekâlı bir çocuk yetiştirmeyi zorlaştırabilen unsurlardan biri değildir? *(2 kez soruldu)*
+
+5. Aşağıdakilerden hangisi üstün zekâlı bir çocuk yetiştirmeyi zorlaştırabilen unsurlardan biri değildir?
     - A-) Alanla ilgili ulaşılabilir kaynakların azlığı
     - **Cevap B-) Güçlü okul aile işbirliği**
     - C-) Kısıtlı finansal kaynaklar
@@ -97,7 +104,8 @@
     > **Açıklama:** Üstün zekâlı bir çocuk yetiştirmeyi zorlaştıran unsurlar, alanla ilgili kaynak yetersizliği, finansal kısıtlılıklar ve üstün zekâya yönelik olumsuz inanışlardır. <b>Güçlü okul aile işbirliği</b> ise, zorlaştıran değil, aksine <b>çocuğun gelişimini destekleyen ve kolaylaştıran</b> bir unsurdur.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekalı çocukların ebeveynlerinden elde edilen bilgilere göre bebeklik yıllarında özellikle doğumu takip eden ilk aylarda gösterdikleri özelliklerden değildir? *(2 kez soruldu)*
+
+6. Aşağıdakilerden hangisi üstün zekalı çocukların ebeveynlerinden elde edilen bilgilere göre bebeklik yıllarında özellikle doğumu takip eden ilk aylarda gösterdikleri özelliklerden değildir?
     - A-) Kitaplara olağanüstü ilgi
     - **Cevap B-) Uyaranlara karşı tepkisizlik**
     - C-) Uzun dikkat süresi
@@ -148,7 +156,8 @@
     > **Açıklama:** <b>Abraham Tannenbaum</b> (1983) üstün zekâyı açıklamak için 'Yıldız Modeli’ni geliştirmiştir ve üstün zekâlı bireylerin başarılarını etkileyen önemli bir etken olarak <b>şans</b> faktöründen de bahsetmiştir.
 
     <hr />
-1. Abraham Tannenbaum’ın (1983) Yıldız Modeli’ne göre, üstün zekâlı olmak için gerekli olduğu düşünülen beş faktörden biri aşağıdakilerden hangisi değildir?
+
+2. Abraham Tannenbaum’ın (1983) Yıldız Modeli’ne göre, üstün zekâlı olmak için gerekli olduğu düşünülen beş faktörden biri aşağıdakilerden hangisi değildir?
     - **Cevap A-) Mükemmellik**
     - B-) Özel yetenek
     - C-) Zihinsel olmayan unsurlar
@@ -171,7 +180,8 @@
     > **Açıklama:** Gardner, başlangıçta yedi zekâ türü olduğunu söylemiştir. Bu zekâ türlerine sonradan iki zekâ türü daha eklemiş ve toplam dokuz zekâ türü olduğunu ifade etmiştir. <b>Doğacı zekâ</b>, sonradan eklenen zekâ türlerinden biridir.
 
     <hr />
-1. Çoklu Zekâ Kuramı; bilişsel bilim, gelişimsel psikoloji ve nörobilimden yararlanarak her bireyin zekâ düzeyinin yetenekler tarafından oluştuğunu ve 8 zekâ gücünün var olduğunu savunmaktadır. Yukarıda açıklamaları verilen Çoklu Zekâ Kuramı kim tarafından geliştirilmiştir?
+
+2. Çoklu Zekâ Kuramı; bilişsel bilim, gelişimsel psikoloji ve nörobilimden yararlanarak her bireyin zekâ düzeyinin yetenekler tarafından oluştuğunu ve 8 zekâ gücünün var olduğunu savunmaktadır. Yukarıda açıklamaları verilen Çoklu Zekâ Kuramı kim tarafından geliştirilmiştir?
     - A-) Piaget
     - B-) Terman
     - C-) Bruner
@@ -181,7 +191,8 @@
     > **Açıklama:** Çoklu Zekâ Kuramı, Amerikalı bilim insanı <b>Howard Gardner</b> tarafından geliştirilmiştir. Gardner, zekânın tek başına bir yapı olmadığını, birçok yeteneğin bir araya gelerek zekâyı oluşturduğunu ifade etmiştir.
 
     <hr />
-1. Gardner zekâyı tanımlarken birçok yeteneğin bir araya gelerek zekâyı oluşturduğunu söylemiştir. Buna göre Gardner, birbirinden bağımsız kaç zekâ türü olduğundan bahsetmiştir?
+
+3. Gardner zekâyı tanımlarken birçok yeteneğin bir araya gelerek zekâyı oluşturduğunu söylemiştir. Buna göre Gardner, birbirinden bağımsız kaç zekâ türü olduğundan bahsetmiştir?
     - A-) 8
     - B-) 6
     - C-) 7
@@ -191,7 +202,8 @@
     > **Açıklama:** Gardner, ilk başta birbirinden bağımsız <b>yedi zekâ türü</b> olduğunu söylemiştir. Ancak daha sonra bu yedi zekâ türüne <b>doğacı zekâ</b> ve <b>varoluşçu zekâ</b> olmak üzere iki zekâ türü daha ekleyerek toplamda <b>dokuz</b> zekâ türü olduğunu ifade etmiştir.
 
     <hr />
-1. Aşağıdakilerden hangisi Howard Gardner’in “Müzikal – ritmik zeka” olarak adlandırdığı yetenek alanı ile ilgili değildir? *(2 kez soruldu)*
+
+4. Aşağıdakilerden hangisi Howard Gardner’in “Müzikal – ritmik zeka” olarak adlandırdığı yetenek alanı ile ilgili değildir?
     - **Cevap A-) Melodiyi doğru duyma**
     - B-) Ritimleri dinleme
     - C-) Melodiyi tekrar edebilme
@@ -201,7 +213,8 @@
     > **Açıklama:** Müzikal-ritmik zekâ, ritimleri dinleme, melodiyi tekrar edebilme, farklı ses perdelerini algılayabilme ve melodiyi çalma gibi becerileri içerir. <b>Melodiyi doğru duyma</b> bu yetenek alanıyla doğrudan ilişkili bir ifade olarak kabul edilmemektedir.
 
     <hr />
-1. Gardner’ın Çoklu Zekâ Teorisine göre Yön duygusu kuvvetli olan veya hareket ve kumanda kabiliyeti yüksek olan bir kişinin …… zekâsı ileri düzeyde olabilir.
+
+5. Gardner’ın Çoklu Zekâ Teorisine göre Yön duygusu kuvvetli olan veya hareket ve kumanda kabiliyeti yüksek olan bir kişinin …… zekâsı ileri düzeyde olabilir.
     - A-) Bedensel-kinestetik
     - B-) Mantıksal-matematiksel
     - **Cevap C-) Görsel-uzamsal**
@@ -211,7 +224,8 @@
     > **Açıklama:** Gardner’ın Çoklu Zekâ Teorisi’ne göre, <b>Görsel-uzamsal</b> zekâ, kişinin <b>yön bulma</b>, haritalar, grafikler, çizimler gibi görsel ve mekânsal bilgileri anlama ve işleme becerisini içerir. Yön duygusunun kuvvetli olması bu zekânın ileri düzeyde olduğunu gösterir.
 
     <hr />
-1. Gardner’in çoklu zekâ teorisine göre ….. yüksek olan kişiler kelimelerin anlamlarına, seslere ritimlere karşı hassastırlar. Şair, yazar, politikacı gibi meslek insanlarının bu zekâ türünde ileri olduğu düşünülmektedir.
+
+6. Gardner’in çoklu zekâ teorisine göre ….. yüksek olan kişiler kelimelerin anlamlarına, seslere ritimlere karşı hassastırlar. Şair, yazar, politikacı gibi meslek insanlarının bu zekâ türünde ileri olduğu düşünülmektedir.
     - A-) görsel-uzamsal zekâsı
     - **Cevap B-) sözel-dilsel zekâsı**
     - C-) müziksel ritmik zekâsı
@@ -273,7 +287,8 @@
     > **Açıklama:** Joseph Renzulli, üstün zekâyı <b>Ortalamanın üzerinde yetenek, Yaratıcılık</b> ve <b>Görev taahhüdü</b> olmak üzere üç öğenin kesişmesiyle oluşan bir model (Üç Halka Kuramı) olarak tanımlamaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi Renzulli’nin üç halka kuramında bulunur?
+
+2. Aşağıdakilerden hangisi Renzulli’nin üç halka kuramında bulunur?
     - A-) Özel akademik yetenek
     - B-) Liderlik yeteneği
     - **Cevap C-) Görev sorumluluğu**
@@ -337,7 +352,8 @@
     > **Açıklama:** ABD’de öğretmen değerlendirme ölçekleri, tarama ve üstün yetenekli programlara katılım amacıyla öğrencilerin belirlenmesi için en yaygın kullanılan araçlar arasındadır. Bu ölçekler muhtemelen üstün zekâlıların değerlendirmesinde IQ testini takiben okullarda <b>en sık kullanılan ikinci araçtır</b>.
 
     <hr />
-1. Raven İlerleyen Matrisler Testi ne tür bir testtir?
+
+2. Raven İlerleyen Matrisler Testi ne tür bir testtir?
     - A-) Bireysel zekâ testi
     - B-) Liderlik testi
     - C-) Yaratıcılık testi
@@ -347,7 +363,8 @@
     > **Açıklama:** Raven İlerleyen Matrisler Testi, genellikle <b>grup zekâ testi</b> olarak bilinir ve grup ortamında uygulanabilen bir soyut düşünme testidir.
 
     <hr />
-1. Aşağıdakilerden hangisi tanılamanın tarama evresine ait değildir?
+
+3. Aşağıdakilerden hangisi tanılamanın tarama evresine ait değildir?
     - A-) Öğrencinin gelişimsel ve sağlık bilgilerini de içeren geçmişi
     - B-) Öğrencinin fiziksel, zihinsel, sosyal ve duygusal işlevleri, öğrenme stili ve motivasyonunu da içeren işlevleriyle ilgili öğretmen raporu
     - **Cevap C-) Öğrencinin hangi okula yerleşeceğine karar verilmesi**
@@ -357,7 +374,8 @@
     > **Açıklama:** Tanılamanın evreleri aday gösterme, tarama ve yerleştirme olarak üçe ayrılır. Öğrencinin güçlü ve zayıf olduğu alanların belirlenmesi, değerlendirilmesi ve <b>uygun okullara yerleşmeleri için karar verilmesi</b> işlemi <b>Yerleştirme</b> evresinde yapılır.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekâlı çocuklar için bir tanılama yöntemi değildir?
+
+4. Aşağıdakilerden hangisi üstün zekâlı çocuklar için bir tanılama yöntemi değildir?
     - A-) Başarı testlerinin uygulanması
     - B-) Ebeveynden alınan bilgiler
     - **Cevap C-) Tutum ölçekleri uygulanması**
@@ -367,7 +385,8 @@
     > **Açıklama:** Üstün zekâlı çocukların tanılanmasında genel olarak başarı testleri, standardize zekâ ve yetenek testleri, ebeveyn bilgileri, öğretmen değerlendirme ölçekleri ve akran aday göstermesi gibi yöntemler kullanılırken, <b>Tutum ölçekleri</b> birincil tanılama yöntemi değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi Schack ve Starko (1990)’a göre öğretmenlerin bir öğrencinin yetenekli olduğunu belirlemede kullandıkları kriterlerden biri değildir?
+
+5. Aşağıdakilerden hangisi Schack ve Starko (1990)’a göre öğretmenlerin bir öğrencinin yetenekli olduğunu belirlemede kullandıkları kriterlerden biri değildir?
     - A-) Yaratıcıdır.
     - B-) Kendi öğrenmesini başlatır.
     - C-) Hızlı ve kolay öğrenir.
@@ -377,7 +396,8 @@
     > **Açıklama:** Öğretmenler üstün zekâlı olduğunu düşündükleri bir öğrenciyi tanılamada aday gösterirken öğrencinin özel yeteneklerine, motivasyonuna, öğrenme hızına, ve yaratıcı olup olmadığına bakarlar. <b>Öğrencinin ailesinin sosyo-ekonomik düzeyi</b>, yetenek belirlemede kullanılan bir kriter değildir.
 
     <hr />
-1. Erken çocukluk döneminde üstün zekalı çocukları tanılama ile ilgili aşağıdakilerden hangisi doğrudur?
+
+6. Erken çocukluk döneminde üstün zekalı çocukları tanılama ile ilgili aşağıdakilerden hangisi doğrudur?
     - A-) Erken çocuklukta tanılama yapmak çocuğun üstün yeteneği ile ilgili gerçekçi bir fikir vermez.
     - B-) Bu dönemde tanılama yapılamaz.
     - C-) Denver II bu dönemde tanılama amacı ile uygulanan bir zeka testidir.
@@ -400,7 +420,8 @@
     > **Açıklama:** ARGEM (Araştırma Geliştirme Eğitim ve Uygulama Merkezi) okulları <b>2017</b> yılında kurulmuştur.
 
     <hr />
-1. Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için kimler tarafından aday gösterilirler? *(2 kez soruldu)*
+
+2. Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için kimler tarafından aday gösterilirler?
     - A-) Veliler
     - B-) Öğretmenler Kurulu
     - C-) Rehber öğretmenler
@@ -425,7 +446,8 @@
     > **Açıklama:** Eğitim ile beyindeki sinaptik bağlantıların gelişmesine <b>Nöral plastisite</b> adı verilmektedir. Nöral plastisite, beynin öğrenme ve deneyim yoluyla kendini yeniden düzenleme ve adapte etme yeteneğini ifade eder.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün yeteneklilerin beyin yapılarındaki farklılıklardan dolayı gerçekleşen bir durum değildir?
+
+2. Aşağıdakilerden hangisi üstün yeteneklilerin beyin yapılarındaki farklılıklardan dolayı gerçekleşen bir durum değildir?
     - A-) Güçlü bellek
     - B-) Daha hızlı tepki inhibisyonu geliştirme
     - C-) Çok fazla olasılık ve fikirle aynı anda başa çıkma
@@ -435,7 +457,8 @@
     > **Açıklama:** Üstün yeteneklilerin beyin yapılarındaki farklılıklar; güçlü bellek, daha hızlı tepki inhibisyonu geliştirme ve daha verimli hipotez üretebilme gibi bilişsel işlevlere yol açabilir. <b>Keskin görme yeteneği</b> ise nörobiyolojik farklılıkların doğrudan bir sonucu olarak kaynaklarda belirtilmemektedir.
 
     <hr />
-1. Üstün zekalı kişilerin beyin yapısıyla ilgili aşağıdakilerden hangisi yanlıştır?
+
+3. Üstün zekalı kişilerin beyin yapısıyla ilgili aşağıdakilerden hangisi yanlıştır?
     - A-) Sinaptik bağlantılar daha fazladır.
     - **Cevap B-) Beyinde yalnızca frontal bölge üstün zekalılıkla ilgilidir.**
     - C-) Sağ beyin daha baskındır.
@@ -525,7 +548,8 @@
     > **Açıklama:** Bebeklikten yetişkinliğe kadar bireyin çevreyi, dünyayı etkili bir şekilde anlama ve düşünme yollarının bütününü <b>bilişsel gelişimi</b> meydana getirmektedir.
 
     <hr />
-1. Üstün zekalı ve yetenekli çocukların bilişsel gelişimleri ile ilgili ifadelerden hangisi doğrudur?
+
+2. Üstün zekalı ve yetenekli çocukların bilişsel gelişimleri ile ilgili ifadelerden hangisi doğrudur?
     - **Cevap A-) üst düzey bilişsel görevler sırasında karmaşık bilişsel yapılarını kullanırlar.**
     - B-) üstün zekalı ve yetenekli çocukların yaşı büyüdükçe, görevlerde daha iyi performans göstermemektedirler.
     - C-) bilgi işleme hızı yaşları büyüdükçe yavaşlar.
@@ -535,7 +559,8 @@
     > **Açıklama:** Üstün zekalı ve yetenekli çocuklar, üst düzey bilişsel görevler sırasında <b>karmaşık bilişsel yapılarını kullanırlar</b>.
 
     <hr />
-1. Üstün yetenekli bireyler, bütün gelişim alanlarında gerçekleşen hızlı bir gelişim seyri içerisindedirler. Aşağıda verilenlerden hangisi üstün zekâlı çocukların hızlı gelişim özelliklerinden değildir?
+
+3. Üstün yetenekli bireyler, bütün gelişim alanlarında gerçekleşen hızlı bir gelişim seyri içerisindedirler. Aşağıda verilenlerden hangisi üstün zekâlı çocukların hızlı gelişim özelliklerinden değildir?
     - A-) Bir alanda derinlemesine bilgi sahibi olma istekleri
     - B-) Üstün bir çalışma azmine ve odaklanabilme becerisine sahip olmaları
     - C-) Doymak bilmez öğrenme istekleri ve yüksek merakları
@@ -545,7 +570,8 @@
     > **Açıklama:** Üstün zekâlı çocuklar, doymaz öğrenme istekleri ve yüksek merakları ile zorlu ve karmaşık konuları tercih ederler. Bu nedenle <b>öğrenilmesi kolay olan konulara olan yönelimleri</b> üstün zekâlı çocukların hızlı gelişim özelliklerinden biri değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi zekâlı ve yetenekli bireylerin zihinsel özelliklerinden dolayı eğitim programlarında yapılacak uyarlamalardan birisi değildir? *(2 kez soruldu)*
+
+4. Aşağıdakilerden hangisi zekâlı ve yetenekli bireylerin zihinsel özelliklerinden dolayı eğitim programlarında yapılacak uyarlamalardan birisi değildir?
     - A-) Zenginleştirilmiş eğitime tabi tutulmalıdır.
     - B-) Düşünmeleri için zaman verilmelidir.
     - **Cevap C-) Hayat amaçları erken tespit edilmeli ve bu alana yönlendirilmelidir.**
@@ -555,7 +581,8 @@
     > **Açıklama:** Eğitim programlarında, üstün zekâlı bireylerin bilişsel gelişimlerini desteklemek için zenginleştirilmiş eğitim, üst düzey düşünme becerileri ve problem çözme durumları kullanılmalıdır. Ancak <b>hayat amaçları erken tespit edilmeli ve bu alana yönlendirilmelidir</b>, bireyin özgün potansiyelini tam olarak ortaya koymasını engelleyebileceği için bir uyarlama olarak görülmez.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekâlı ve yetenekli bir çocuğun bilişsel özelliklerinden biri değildir?
+
+5. Aşağıdakilerden hangisi üstün zekâlı ve yetenekli bir çocuğun bilişsel özelliklerinden biri değildir?
     - A-) Geniş bilgi tabanı ve bu bilgiyi kendi yararına kullanma konusunda daha yetenekli olmaları
     - B-) Karmaşık, zorlu ortamları tercih etmeleri
     - C-) Problemleri hızlı çözmeleri ancak çözümü planlamada daha fazla zaman harcamaları
@@ -565,7 +592,8 @@
     > **Açıklama:** Üstün zekâlı çocukların bilişsel özellikleri arasında problem çözme, üst biliş ve geniş bilgi tabanı yer alır. <b>Hızlı empati kurmaları</b> bilişsel değil, <b>duygusal/duyuşsal</b> bir özelliktir.
 
     <hr />
-1. Aşağıdaki faktörlerden hangisi üstün zekâlı ve yetenekli çocuğun bilişsel gelişimini en çok etkiler?
+
+6. Aşağıdaki faktörlerden hangisi üstün zekâlı ve yetenekli çocuğun bilişsel gelişimini en çok etkiler?
     - A-) Akran baskısı
     - B-) Ebeveyn desteği
     - **Cevap C-) Beyin gelişimi**
@@ -575,7 +603,8 @@
     > **Açıklama:** Üstün zekâlı ve yetenekli çocuğun bilişsel gelişiminin temelini <b>Beyin gelişimi</b> ve işleyişi oluşturur.
 
     <hr />
-1. Aşağıdaki yer alan senaryolardan hangisi üstün zekâlı ve yetenekli çocukların bilişsel gelişimini gösteren karakteristik bir özelliğidir?
+
+7. Aşağıdaki yer alan senaryolardan hangisi üstün zekâlı ve yetenekli çocukların bilişsel gelişimini gösteren karakteristik bir özelliğidir?
     - A-) Akranlarıyla güçlü arkadaşlık ilişkileri kurarlar
     - B-) Seçici yapıları nedeniyle akranlarından kendilerini soyutlarlar
     - **Cevap C-) Sorunlara hızlı çözümler bulurlar ancak planlama yaparken fazla zaman harcayabilirler**
@@ -598,7 +627,8 @@
     > **Açıklama:** Üstün zekâlı ve yetenekli çocuklar; problemleri sınıflama, strateji kurma, planlama ve üst biliş gibi daha karmaşık yeteneklere sahip olma özellikleri ile yaşıtlarından ayrılmaktadırlar. <b>Ben merkezci</b>, üstün zekalı çocukların bir özelliği olarak kaynaklarda belirtilmemektedir.
 
     <hr />
-1. Üstün zekalı ve yetenekli çocuklara bilginin işlenmesinde daha yüksek bir işlem hızı görülmektedir. Aşağıdakilerden hangisi yüksek işlem hızını sağlayan özelliklerden biri değildir?
+
+2. Üstün zekalı ve yetenekli çocuklara bilginin işlenmesinde daha yüksek bir işlem hızı görülmektedir. Aşağıdakilerden hangisi yüksek işlem hızını sağlayan özelliklerden biri değildir?
     - A-) Zengin kelime dağarcığı
     - B-) Dikkat yetenekleri
     - **Cevap C-) Duygular**
@@ -608,7 +638,8 @@
     > **Açıklama:** Üstün zekâlı ve yetenekli çocuklarda bilginin işlenmesinde daha yüksek bir işlem hızı görülür. Bu hız; zengin kelime dağarcığı, dikkat yetenekleri, hafıza, bilişsel hareketlilik ve akıl yürütme stratejileri ile ilişkilidir. <b>Duygular</b>, yüksek işlem hızını sağlayan özelliklerden biri değildir.
 
     <hr />
-1. Üstbiliş kullanan üstün zekâlı ve yetenekli bir öğrenci örneği hangisidir?
+
+3. Üstbiliş kullanan üstün zekâlı ve yetenekli bir öğrenci örneği hangisidir?
     - A-) Beste, bir matematik problemini çözmek ve bir dizi adımı takip etmek için bir kitap kullanır.
     - **Cevap B-) Öykü mantığını analiz ediyor ve düşündüklerinin mantıklı olup olmadığını soruyor.**
     - C-) Kayra Türkçe dersinde okuduğu şiirlerden birinden satırları ezberliyor.
@@ -633,7 +664,8 @@
     > **Açıklama:** Üstün zekalı ve yetenekli çocukların sosyal ve duygusal gelişimlerini farklı kılan nedenler arasında eş zamanlı olmayan gelişim, aşırı duyarlılık alanları, mükemmeliyetçilik ve erken gelişim sayılabilir. Tek çocuk olma durumu, bu farklılığın nedenlerinden biri olarak kabul edilmez.
 
     <hr />
-1. ….., bir çocuğun bir alanda ilerlemesi, ancak başka bir alanda gecikmesi, genellikle üstün zekalılığın erken bir işaretidir. Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?
+
+2. ….., bir çocuğun bir alanda ilerlemesi, ancak başka bir alanda gecikmesi, genellikle üstün zekalılığın erken bir işaretidir. Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?
     - A-) Eşsiz gelişim
     - B-) Sosyal gelişim
     - **Cevap C-) Eş zamanlı olmayan gelişim**
@@ -643,7 +675,8 @@
     > **Açıklama:** Eş zamanlı olmayan gelişim (Asenkronize Gelişim), bir çocuğun bir alanda (örneğin bilişsel alanda) ilerlemesi, ancak başka bir alanda (örneğin sosyal veya duygusal alanda ya da ince motor becerilerde) yaşıtlarına göre daha yavaş gelişmesidir. Bu durum, üstün zekâlı çocukların sosyal ve duygusal gelişimindeki farklılığın temel bir nedenidir.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekâlı ve yetenekli çocukların sosyal ve duygusal gelişimini destekleyici unsurlardan biri değildir?
+
+3. Aşağıdakilerden hangisi üstün zekâlı ve yetenekli çocukların sosyal ve duygusal gelişimini destekleyici unsurlardan biri değildir?
     - A-) Benlik saygısını desteklemek
     - **Cevap B-) Rekabetçi bir ortam oluşturmak**
     - C-) Olumlu bir çevrede büyümek
@@ -653,7 +686,8 @@
     > **Açıklama:** Üstün zekâlı çocukların sosyal ve duygusal gelişimini desteklemek için olumlu, kabul edici ve destekleyici bir çevre gerekir. <b>Rekabetçi bir ortam oluşturmak</b>, sosyal ve duygusal gelişimi olumsuz etkileyebilir.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekalı ve yetenekli çocuğun sosyal ve duygusal özelliklerinden biridir?
+
+4. Aşağıdakilerden hangisi üstün zekalı ve yetenekli çocuğun sosyal ve duygusal özelliklerinden biridir?
     - A-) Öz farkındalık
     - B-) Erken yaşta görülen idealizm
     - C-) Keskin bir mizah duygusu
@@ -663,7 +697,8 @@
     > **Açıklama:** Üstün zekalı çocukların gelişimi çok boyutludur ve sosyal ve duygusal gelişimleri erken gelişim, eş zamanlı olmayan gelişim ve aşırı duyarlılık ile sıkı bir ilişki içindedir. Olağanüstü psikomotor yetenek, üstün zekalı ve yetenekli çocukların erken gelişim gösterme eğiliminde oldukları alanlardan biri olabilir.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekâyı duygusal yönüne vurgu yaparak tanımlamıştır?
+
+5. Aşağıdakilerden hangisi üstün zekâyı duygusal yönüne vurgu yaparak tanımlamıştır?
     - A-) Terman
     - **Cevap B-) Annemarie Roeper**
     - C-) Gagne
@@ -673,7 +708,8 @@
     > **Açıklama:** <b>Annemarie Roeper</b>, üstün zekâyı <b>duygusal yönüne</b> vurgu yaparak tanımlamıştır. Roeper’a göre üstün zekâ; daha fazla farkındalık, daha fazla duyarlılık ve zihinsel ve duygusal deneyimlere daha iyi dönüştürebilme yeteneğidir.
 
     <hr />
-1. Aşağıdakilerden hangisi üstün zekâlı bireylerin zihinsel yeteneklerinin yanı sıra duygusal alanda gösterdiği özelliklerden biri değildir?
+
+6. Aşağıdakilerden hangisi üstün zekâlı bireylerin zihinsel yeteneklerinin yanı sıra duygusal alanda gösterdiği özelliklerden biri değildir?
     - A-) Empati yetenekleri güçlüdür.
     - B-) Duygusal duyarlılık gösterirler.
     - C-) Duygusal olarak diğerlerinden daha fazla izole olurlar.
@@ -696,7 +732,8 @@
     > **Açıklama:** Pozitif Parçalanma Teorisi, Polonyalı psikolog, psikiyatrist, doktor Kazimierz Dabrowski tarafından geliştirilmiş ve insani gelişmeyi anlamak için önerilen kapsamlı ve karmaşık bir teoridir. Bu teori, üstün yeteneklilerin eğitimine önemli bir katkı sağlamıştır.
 
     <hr />
-1. Dabrowski’nin Pozitif Parçalanma Teorisinde yer alan aşırı duyarlılık alanlarından biri değildir?
+
+2. Dabrowski’nin Pozitif Parçalanma Teorisinde yer alan aşırı duyarlılık alanlarından biri değildir?
     - A-) Duygusal aşırı duyarlılık
     - **Cevap B-) Psikososyal aşırı duyarlılık**
     - C-) Duyularla ilgili aşırı duyarlılık
@@ -706,7 +743,8 @@
     > **Açıklama:** Dabrowski’nin Pozitif Parçalanma Teorisinde yer alan aşırı duyarlılık; psikomotor, duygusal, hayal gücü, entelektüel ve duyusal olmak üzere beş alanda görülmektedir. Psikososyal aşırı duyarlılık bu alanlardan biri değildir.
 
     <hr />
-1. “Ali ilkokul birinci sınıf öğrencisidir. Okulda derslerine istekle katılmakta ve öğretmeninin her söylediğini düzenli olarak yapmaktadır. Ancak Ali’nin öğretmeninin dikkatini çeken bir sorunu vardır, o da Ali’nin sınıfta sürekli hareket hâlinde olması, sandalyesini ileri-geri itmesi, bacaklarını sallaması, kıvırmasıdır.” Bu durumda Ali’nin yaşadığı durum Dabrowski’nin aşırı duyarlık alanlarından hangisi ile ilgilidir?
+
+3. “Ali ilkokul birinci sınıf öğrencisidir. Okulda derslerine istekle katılmakta ve öğretmeninin her söylediğini düzenli olarak yapmaktadır. Ancak Ali’nin öğretmeninin dikkatini çeken bir sorunu vardır, o da Ali’nin sınıfta sürekli hareket hâlinde olması, sandalyesini ileri-geri itmesi, bacaklarını sallaması, kıvırmasıdır.” Bu durumda Ali’nin yaşadığı durum Dabrowski’nin aşırı duyarlık alanlarından hangisi ile ilgilidir?
     - A-) Duygusal aşırı duyarlılık
     - B-) Duyularla ilgili aşırı duyarlılık
     - **Cevap C-) Psikomotor aşırı duyarlılık**
@@ -716,7 +754,8 @@
     > **Açıklama:** Ali'nin sürekli hareket hâlinde olması, sandalyesini ileri-geri itmesi ve bacaklarını sallaması gibi davranışlar, <b>Psikomotor aşırı duyarlılık</b> belirtileridir. Bu, enerjinin aşırı ve sürekli bir şekilde fiziksel aktiviteye dönüşmesi durumunu ifade eder.
 
     <hr />
-1. Aşağıdakilerden hangisi psikomotor yoğunluk yaşayan üstün zekalı ve yetenekli çocuğun belirtilerinden biri değildir?
+
+4. Aşağıdakilerden hangisi psikomotor yoğunluk yaşayan üstün zekalı ve yetenekli çocuğun belirtilerinden biri değildir?
     - A-) Sallanan bacaklar
     - B-) Tırnak yeme
     - **Cevap C-) Uyuma**
@@ -726,7 +765,8 @@
     > **Açıklama:** Psikomotor aşırı duyarlılık belirtileri arasında aşırı hareketlilik, hızlı konuşma, tırnak yeme, kıvranma ve sallanma sayılabilir. <b>Uyuma</b>, bu yoğunluk belirtilerinden biri değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi hayal gücü (İmgeleme) yaşayan üstün zekâlı ve yetenekli çocukların belirtilerinden biridir?
+
+5. Aşağıdakilerden hangisi hayal gücü (İmgeleme) yaşayan üstün zekâlı ve yetenekli çocukların belirtilerinden biridir?
     - A-) Tikler
     - B-) Sorumluluk
     - C-) Tırnak yeme
@@ -738,6 +778,19 @@
     <hr />
 
 ## Ünite 7
+
+### 7.1. Dilin Temel Bileşenleri
+
+1. Dilin iki temel bileşeninden biri olan Ekspresif Dil (Anlatım Dili) tanımına göre aşağıdakilerden hangisi yanlıştır?
+    - A-) Zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir.
+    - B-) Duyu-sinir ve motor-sinir işlevleri ile gerçekleşir.
+    - C-) Nefes alma, ses çıkarma ve artikülasyon mekanizmaları gibi işlevleri içerir.
+    - **Cevap D-) Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılmasıdır.**
+    - E-) İletişim ve etkileşim aracıdır.
+
+    > **Açıklama:** Ekspresif Dil (Anlatım Dili), zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir ve duyu-sinir ve motor-sinir işlevleri (nefes alma, ses çıkarma, artikülasyon mekanizmaları gibi) ile gerçekleşir. <b>Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılması</b> ise diğer temel bileşen olan Reseptif Dil (Alıcı Dil, Anlama Dili) olarak tanımlanır.
+
+    <hr />
 
 ### 7.1.1 Tanımlar ve Yaklaşımlar
 
@@ -752,16 +805,38 @@
 
     <hr />
 
-### 7.1. Dilin Temel Bileşenleri
+### 7.2. Psikolinguistik Kuram
 
-1. Dilin iki temel bileşeninden biri olan Ekspresif Dil (Anlatım Dili) tanımına göre aşağıdakilerden hangisi yanlıştır?
-    - A-) Zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir.
-    - B-) Duyu-sinir ve motor-sinir işlevleri ile gerçekleşir.
-    - C-) Nefes alma, ses çıkarma ve artikülasyon mekanizmaları gibi işlevleri içerir.
-    - **Cevap D-) Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılmasıdır.**
-    - E-) İletişim ve etkileşim aracıdır.
+1. Aşağıdakilerden hangisi psikolinguistik kuramın evrelerinden biri değildir?
+    - A-) Ağlama Evresi
+    - B-) Agulama Evresi
+    - C-) Cıvıldama Evresi
+    - D-) Sözcük Evresi
+    - **Cevap E-) Telefonik Konuşma Evresi**
 
-    > **Açıklama:** Ekspresif Dil (Anlatım Dili), zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir ve duyu-sinir ve motor-sinir işlevleri (nefes alma, ses çıkarma, artikülasyon mekanizmaları gibi) ile gerçekleşir. <b>Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılması</b> ise diğer temel bileşen olan Reseptif Dil (Alıcı Dil, Anlama Dili) olarak tanımlanır.
+    > **Açıklama:** Psikolinguistik kuramdaki dil öncesi gelişim evreleri; Ağlama, Agulama ve Cıvıldama evreleridir. Dilsel gelişim evreleri ise Tek Sözcük, Telegrafik Konuşma ve Tam Cümleler evreleridir. <b>Telefonik Konuşma Evresi</b> kuramın standart evrelerinden biri değildir.
+
+    <hr />
+
+2. Dil gelişimini, doğuştan getirilen yetenekler ve dil öğrenimine bebeğin bir şekilde programlanmış olduğunu savunan görüş aşağıdakilerden hangisidir?
+    - A-) Davranışçı yaklaşım
+    - B-) Bilişsel yaklaşım
+    - **Cevap C-) Psikolinguistik yaklaşım**
+    - D-) Ana dili yaklaşımı
+    - E-) Biyolojik yaklaşım
+
+    > **Açıklama:** Dilin doğuştan getirilen özel bir mekanizma (LAD) sayesinde öğrenildiğini, çocuğun dili içselleştirip kurallarını anlayarak biyolojik olarak belirli düzeyde konuşmayı öğrendiğini savunan görüş <b>Psikolinguistik yaklaşım</b>dır.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi psikolinguistik kuramın evreleri ile ilgili yanlış bir çıkarım içerir?
+    - A-) Psikolinguistik yaklaşım, çocukların dili edinme sürecinde biyolojik olarak programlanmış evrelerin varlığını savunur.
+    - **Cevap B-) Üstün zekâlı çocuklar, psikolinguistik kurama göre bazı evreleri yaşamazlar.**
+    - C-) Kuram, çocukların yakınında konuşulan dili içselleştirmesini esas alır.
+    - D-) Kurama göre tüm çocuklar aynı aşamalardan geçerek konuşmayı öğrenir.
+    - E-) Kuram, dilin öğrenilmesi için kritik dönemlerin varlığını destekler.
+
+    > **Açıklama:** Psikolinguistik kuram, dil edinimin biyolojik olarak programlanmış, evrensel aşamalar izlediğini savunur. Üstün zekâlı çocuklar bu aşamalardan daha hızlı geçebilir, ancak <b>bazı evreleri yaşamadıkları</b> söylenemez.
 
     <hr />
 
@@ -790,7 +865,8 @@
     > **Açıklama:** Tam Cümleler Evresi 30. aydan sonra (yaklaşık 2.5 yaş) başlar. Telegrafik Konuşma Evresi ise iki yaşındaki çocuklarda görülür ve bu evrede tüm söylemek istediklerini en ekonomik şekilde anlatırlar; özne, nesne, eylem üçlüsünden oluşan cümleler kurmaya başlarlar, ancak sözcükleri birbirine bağlayan ekler ve bağlaçlar yoktur. Bu nedenle, <b>İki yaş civarı bu evrelerden söz edilebilir</b> ifadesi, Tam Cümleler Evresi için söylenemez; bu ifade Telegrafik Konuşma Evresine aittir.
 
     <hr />
-1. Aşağıdakilerden hangisi tam cümleler evresi için söylenemez?
+
+2. Aşağıdakilerden hangisi tam cümleler evresi için söylenemez?
     - A-) Eklerin kullanımı başlar.
     - B-) 30 ay ve sonrasını kapsamaktadır.
     - C-) Olumsuzluk ekleri kullanılmaya başlar.
@@ -798,39 +874,6 @@
     - **Cevap E-) “b”, ”p”, ”m” ünsüzleri boğumlandırılmaya başlar.**
 
     > **Açıklama:** Tam Cümleler Evresi, 30. aydan sonra başlar ve karmaşık dilbilgisi kurallarının (ekler, olumsuzluklar) kazanıldığı evredir. <b>“b”, ”p”, ”m” ünsüzlerinin boğumlandırılması</b>, bebeklik ve dil öncesi gelişim dönemlerinde (agulama/cıvıldama evreleri) gerçekleşen fonetik süreçlerdir, bu nedenle tam cümleler evresi için söylenmesi uygun değildir.
-
-    <hr />
-
-### 7.2. Psikolinguistik Kuram
-
-1. Aşağıdakilerden hangisi psikolinguistik kuramın evrelerinden biri değildir?
-    - A-) Ağlama Evresi
-    - B-) Agulama Evresi
-    - C-) Cıvıldama Evresi
-    - D-) Sözcük Evresi
-    - **Cevap E-) Telefonik Konuşma Evresi**
-
-    > **Açıklama:** Psikolinguistik kuramdaki dil öncesi gelişim evreleri; Ağlama, Agulama ve Cıvıldama evreleridir. Dilsel gelişim evreleri ise Tek Sözcük, Telegrafik Konuşma ve Tam Cümleler evreleridir. <b>Telefonik Konuşma Evresi</b> kuramın standart evrelerinden biri değildir.
-
-    <hr />
-1. Dil gelişimini, doğuştan getirilen yetenekler ve dil öğrenimine bebeğin bir şekilde programlanmış olduğunu savunan görüş aşağıdakilerden hangisidir?
-    - A-) Davranışçı yaklaşım
-    - B-) Bilişsel yaklaşım
-    - **Cevap C-) Psikolinguistik yaklaşım**
-    - D-) Ana dili yaklaşımı
-    - E-) Biyolojik yaklaşım
-
-    > **Açıklama:** Dilin doğuştan getirilen özel bir mekanizma (LAD) sayesinde öğrenildiğini, çocuğun dili içselleştirip kurallarını anlayarak biyolojik olarak belirli düzeyde konuşmayı öğrendiğini savunan görüş <b>Psikolinguistik yaklaşım</b>dır.
-
-    <hr />
-1. Aşağıdakilerden hangisi psikolinguistik kuramın evreleri ile ilgili yanlış bir çıkarım içerir?
-    - A-) Psikolinguistik yaklaşım, çocukların dili edinme sürecinde biyolojik olarak programlanmış evrelerin varlığını savunur.
-    - **Cevap B-) Üstün zekâlı çocuklar, psikolinguistik kurama göre bazı evreleri yaşamazlar.**
-    - C-) Kuram, çocukların yakınında konuşulan dili içselleştirmesini esas alır.
-    - D-) Kurama göre tüm çocuklar aynı aşamalardan geçerek konuşmayı öğrenir.
-    - E-) Kuram, dilin öğrenilmesi için kritik dönemlerin varlığını destekler.
-
-    > **Açıklama:** Psikolinguistik kuram, dil edinimin biyolojik olarak programlanmış, evrensel aşamalar izlediğini savunur. Üstün zekâlı çocuklar bu aşamalardan daha hızlı geçebilir, ancak <b>bazı evreleri yaşamadıkları</b> söylenemez.
 
     <hr />
 
@@ -860,19 +903,6 @@
 
     <hr />
 
-### 7.5.2. Erken Okuma
-
-1. Aşağıdakilerden hangisi erken okuma için söylenemez?
-    - A-) Çocukların evlerinde çeşitli kelime oyunları oynanması, listeler yapılması okumayı daha olumlu yönde etkileyebilir.
-    - B-) Erken okuyan ya da erken konuşan her çocuk üstün zekalı olmayabilir.
-    - C-) Çocukların geniş kelime hazinesi erken okumayı hızlandırabilir.
-    - D-) Erken okumaya başlayan çocukların akademik olarak akranlarından hızlı ilerlemesi söz konusudur.
-    - **Cevap E-) Çocukların az destek vererek okumanın öğretilmesi erken okumadır.**
-
-    > **Açıklama:** Erken okuma, çocuğun okuma becerilerini yaşıtlarından önce geliştirmesi ve akademik olarak hızlı ilerlemesiyle ilişkilidir. Ancak, <b>Çocukların az destek vererek okumanın öğretilmesi erken okumadır</b> ifadesi, erken okuma tanımını karşılayan bir durum değildir.
-
-    <hr />
-
 ### 7.5. İleri Düzey Dil Gelişimi
 
 1. “Dilsel olarak üstün zekalı ve yetenekli çocuklar kelimelerle oynamaktan hoşlanırlar. Kafiyeli kelimeler kullanabilir, farklı espriler yapmayı sevebilir. Konuşmalarında çevresindekileri şaşırtacak benzetmeler yapmayı tercih edebilirler. Sıklıkla kullanılmayan kelimeleri kullanmak ve dili eski kitapları okumaktan keyif alabilirler. Bu ilgileri de üstün zekalı ve yetenekli çocukların kelime dağarcıklarını geliştirmektedir. Gelişen kelime dağarcığı dil gelişimlerini de hızlandırmaktadır.” Yukarıdaki grup aşağıdakilerden hangisini açıklamaktadır?
@@ -885,7 +915,8 @@
     > **Açıklama:** Yukarıda bahsedilen üstün dil becerileri (kelimelerle oynamaktan hoşlanma, sık kullanılmayan kelimeleri kullanma, zengin kelime dağarcığı), <b>İleri düzey dil gelişimi</b>nin özelliklerini açıklamaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi ileri düzey dil gelişimini açıklamaktadır?
+
+2. Aşağıdakilerden hangisi ileri düzey dil gelişimini açıklamaktadır?
     - A-) Çocukların bilişsel düzeylerinin akranlarından önde olmasıdır.
     - **Cevap B-) Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır.**
     - C-) Çocukların destekle erken okumaya başlamasıdır.
@@ -893,6 +924,19 @@
     - E-) Zekâ gelişiminin akranlarından önde olmasıdır.
 
     > **Açıklama:** İleri düzey dil gelişimi, üstün zekâlı çocuklarda gözlemlenen ve akranlarından daha karmaşık bir dil kullanımı içeren bir durumdur. Bu durum, <b>Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır</b> şeklinde açıklanabilir.
+
+    <hr />
+
+### 7.5.2. Erken Okuma
+
+1. Aşağıdakilerden hangisi erken okuma için söylenemez?
+    - A-) Çocukların evlerinde çeşitli kelime oyunları oynanması, listeler yapılması okumayı daha olumlu yönde etkileyebilir.
+    - B-) Erken okuyan ya da erken konuşan her çocuk üstün zekalı olmayabilir.
+    - C-) Çocukların geniş kelime hazinesi erken okumayı hızlandırabilir.
+    - D-) Erken okumaya başlayan çocukların akademik olarak akranlarından hızlı ilerlemesi söz konusudur.
+    - **Cevap E-) Çocukların az destek vererek okumanın öğretilmesi erken okumadır.**
+
+    > **Açıklama:** Erken okuma, çocuğun okuma becerilerini yaşıtlarından önce geliştirmesi ve akademik olarak hızlı ilerlemesiyle ilişkilidir. Ancak, <b>Çocukların az destek vererek okumanın öğretilmesi erken okumadır</b> ifadesi, erken okuma tanımını karşılayan bir durum değildir.
 
     <hr />
 
@@ -908,7 +952,8 @@
     > **Açıklama:** Dil ve düşünce ilişkisini inceleyen Vygotsky’nin görüşlerine göre, düşünce ve konuşma öz oluşum bakımından farklı köklere sahiptir, belirli bir ana kadar bağımsız doğrultular izler ve belirli bir noktada kesişerek birbirinden ayrılamaz hale gelir. Bu nedenle, <b>Zekâ ve dil gelişimi birbirinden bağımsız gelişir ve ilerler</b> ifadesi söylenemez.
 
     <hr />
-1. Aşağıdakilerden hangisi dil, düşünce ve üstün zekâlılık arasındaki ilişkiyi doğru şekilde açıklamaktadır?
+
+2. Aşağıdakilerden hangisi dil, düşünce ve üstün zekâlılık arasındaki ilişkiyi doğru şekilde açıklamaktadır?
     - A-) Dil, düşünce ve üstün zekâlılık birbirinden bağımsızdır.
     - B-) Dil düşünceyi oluşturur.
     - C-) Düşünce dili oluşturur.
@@ -959,7 +1004,8 @@
     > **Açıklama:** Devlet okullarında sunulan standart sınıf yapısı, üstün zekâlı ve yetenekli öğrencilerin tipik gelişim gösteren akranlarıyla bir arada olduğu <b>tam gün karma sınıflar</b> olarak adlandırılan gruplama türüne örnektir. Gruplama seçenekleri arasında yer alan bu yapı, genellikle yetenek gruplamasının en az düzeyde uygulandığı seçenektir.
 
     <hr />
-1. Devlet okullarında neden üstün yetenekli öğrenciler için özel sınıflar oluşturulmamaktadır?
+
+2. Devlet okullarında neden üstün yetenekli öğrenciler için özel sınıflar oluşturulmamaktadır?
     - **Cevap A-) Çocuklar arasında ayrımcılık yaratacağı için**
     - B-) Ekonomik nedenlerle
     - C-) Öğretmenler istemediği için
@@ -993,6 +1039,19 @@
     - E-) Gruplama
 
     > **Açıklama:** Eğitim programının farklılaştırılması (farklılaştırma), sınıftaki öğrencilerin bireysel farklılıklarına ve ihtiyaçlarına göre programda düzenlemeye gidilmesi ve öğretimin buna uygun hâle getirilmesidir. Öğretmen, öğrencilerin hazır bulunuşluk, ilgi ve öğrenme profili farklılıklarına göre içerik, süreç ve üründe uyarlamalar yapar.
+
+    <hr />
+
+### 8.3. Zenginleştirme ve Farklılaştırma Uygulaması
+
+1. Aşağıdakilerden hangisi zekâlı ve yetenekli bireylerin zihinsel özelliklerinden dolayı eğitim programlarında yapılacak uyarlamalardan birisi değildir?
+    - A-) Zenginleştirilmiş eğitime tabi tutulmalıdır.
+    - B-) Düşünmeleri için zaman verilmelidir.
+    - **Cevap C-) Hayat amaçları erken tespit edilmeli ve bu alana yönlendirilmelidir.**
+    - D-) Üst düzey düşünme becerileri eğitim programına entegre edilmelidir.
+    - E-) Problem durumları sunularak, açık uçlu soru sorulmalıdır.
+
+    > **Açıklama:** Eğitim programlarında <b>hayat amaçlarının erken tespiti</b> yerine bireyin çok yönlü gelişimi ve yaratıcılığını destekleyen uyarlamalar yapılmalıdır. Üstün zekâlı bireylere; problem durumları sunulmalı, açık uçlu sorular sorulmalı, üst düzey düşünme becerileri entegre edilmeli ve zenginleştirilmiş eğitime tabi tutulmalıdır.
 
     <hr />
 
@@ -1062,7 +1121,8 @@
     > **Açıklama:** Özel öğrenme güçlüğü olan çocukların <b>IQ seviyeleri düşük değildir</b>. Aksine, üstün zekâlı çocuklarda da öğrenme güçlüğü görülebilir (İki Kere Farklı çocuklar). Öğrenme güçlüğü, matematiksel kavramların öğrenilmesi ve matematiksel ilişkilerin kurulmasını gerektiren işlemlerde sorunlar yaşanmasına yol açar, ancak temel olarak IQ seviyesinin düşüklüğünü göstermez.
 
     <hr />
-1. Öğrenme güçlüğü çeken çocuklarla ilgili hangisi yanlıştır?
+
+2. Öğrenme güçlüğü çeken çocuklarla ilgili hangisi yanlıştır?
     - A-) Yaşına uygun uzunlukta cümle kuramaz.
     - B-) Yaşadığı kısa olayları, sırasını takip ederek anlatamaz.
     - **Cevap C-) Göz kontağı kuramazlar**
@@ -1113,7 +1173,8 @@
     > **Açıklama:** Barbara Clark tarafından geliştirilen Bütünleştirici Eğitim Modeli'nin 7 parçasından biri <b>Öğretmen otoritesi</b> değildir. Model, öğrencilerin sezgisel, duyuşsal, fiziksel ve bilişsel gelişimlerinin birleşmesine dayanır ve seçim, kontrol, sezgi, birleştirme, güçlü dil ve rahatlama gibi unsurları destekler.
 
     <hr />
-1. Barbara Clark (1986) tarafından geliştirilen bütünleştirici eğitim modelinin amacı; beyin üzerine araştırmaların bulgularını kullanarak, öğretmenlere evde ve okulda etkili öğretmeye ve öğrenmeye yardımcı olacak düzenli bir rehber sağlamaktır. Bu model insan beyninin ….., ….., ….. ve ….. olmak üzere başlıca dört fonksiyonunun birleşmesine dayanır.<br />Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangileri gelmelidir?
+
+2. Barbara Clark (1986) tarafından geliştirilen bütünleştirici eğitim modelinin amacı; beyin üzerine araştırmaların bulgularını kullanarak, öğretmenlere evde ve okulda etkili öğretmeye ve öğrenmeye yardımcı olacak düzenli bir rehber sağlamaktır. Bu model insan beyninin ….., ….., ….. ve ….. olmak üzere başlıca dört fonksiyonunun birleşmesine dayanır.<br />Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangileri gelmelidir?
     - **Cevap A-) sezgisel, duyuşsal, fiziksel, bilişsel**
     - B-) bütünsel, duygusal, sezgisel, fiziksel
     - C-) bilişsel, bilgisel, duygusal, sezgisel
@@ -1149,7 +1210,8 @@
     > **Açıklama:** Bilim ve Sanat Merkezleri (BİLSEM) <b>1993</b> yılında Millî Eğitim Bakanlığı Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü tarafından kurulmuştur.
 
     <hr />
-1. Bilimsel sanat merkezine kayıt yaptıran öğrenciler sırasıyla ……..,……..,…….,……..,………. programlarına alınırlar. Yukarıdaki boşluğa sırasıyla aşağıdakilerden hangisi gelmelidir?
+
+2. Bilimsel sanat merkezine kayıt yaptıran öğrenciler sırasıyla ……..,……..,…….,……..,………. programlarına alınırlar. Yukarıdaki boşluğa sırasıyla aşağıdakilerden hangisi gelmelidir?
     - A-) Destek Eğitimi, Uyum, Bireysel Yetenekleri Fark Ettirme, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi
     - B-) Uyum, Bireysel Yetenekleri Fark Ettirme, Destek Eğitimi, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi
     - **Cevap C-) Uyum, Destek Eğitimi, Bireysel Yetenekleri Fark Ettirme, Özel Yetenekleri Geliştirme ve Proje Üretimi ve Yönetimi**
@@ -1171,7 +1233,7 @@
     - **Cevap D-) Akademik performans ve başarı**
     - E-) Esneklik ve uyum
 
-    > **Açıklama:** 21\. Yüzyıl becerileri arasında Girişim, Medya okuryazarlığı, Eleştirel düşünme ve Esneklik yer alırken, <b>Akademik performans ve başarı</b> doğrudan bu becerilerden biri olarak tanımlanmamıştır.
+    > **Açıklama:** 21. Yüzyıl becerileri arasında Girişim, Medya okuryazarlığı, Eleştirel düşünme ve Esneklik yer alırken, <b>Akademik performans ve başarı</b> doğrudan bu becerilerden biri olarak tanımlanmamıştır.
 
     <hr />
 
@@ -1200,7 +1262,8 @@
     > **Açıklama:** Yetenek Odaklı Eğitim Modeli, <b>insan doğasına saygı duyarak potansiyelini açığa çıkarma süreci</b> olarak tanımlanır. Bu model, bireyin doğal yeteneklerini ve varoluşunu merkezine alır.
 
     <hr />
-1. Aşağıdakilerden hangisi endüstri 4.0 ile kişilerin hayatına giren teknolojik gelişmelerden değildir?
+
+2. Aşağıdakilerden hangisi endüstri 4.0 ile kişilerin hayatına giren teknolojik gelişmelerden değildir?
     - **Cevap A-) Bilgisayarın icadı**
     - B-) Artırılmış gerçeklik
     - C-) Nöroteknoloji
@@ -1238,7 +1301,8 @@
     > **Açıklama:** Hayal kurma, nesneleri, fikirleri ve olayları zihinsel olarak görme ve yönlendirme becerisidir.
 
     <hr />
-1. Etkililik, maliyet, tutarlılık gibi dış ölçütlere göre düşüncelerin değerlendirilmesi aşağıdaki eleştirel düşünme beceri basamaklarından hangisine aittir?
+
+2. Etkililik, maliyet, tutarlılık gibi dış ölçütlere göre düşüncelerin değerlendirilmesi aşağıdaki eleştirel düşünme beceri basamaklarından hangisine aittir?
     - A-) Analoji bulma
     - **Cevap B-) Değerlendirme**
     - C-) Yaratma
@@ -1248,7 +1312,8 @@
     > **Açıklama:** Düşüncelerin dış ölçütlere (etkililik, maliyet, tutarlılık) göre incelenmesi ve bir karara varılması <b>Değerlendirme</b> basamağına aittir.
 
     <hr />
-1. Güvercinden navigasyonun üretimi, akrepten anestezinin üretimi ağırlıklı ve öncelikli hangi yaratıcı düşünme yeteneğinin göstergesidir?
+
+3. Güvercinden navigasyonun üretimi, akrepten anestezinin üretimi ağırlıklı ve öncelikli hangi yaratıcı düşünme yeteneğinin göstergesidir?
     - **Cevap A-) Aktarım**
     - B-) Özgünlük
     - C-) Esneklik
@@ -1286,7 +1351,19 @@
     > **Açıklama:** Lise düzeyini başarıyla bitiren <b>Konservatuar</b> öğrencileri, mezun oldukları okulun bağlı olduğu üniversitenin ilgili lisans bölümüne doğrudan geçiş yapabilmektedirler.
 
     <hr />
-1. Anadolu Güzel Sanatlar liselerine hangi yolla öğrenci alınmaktadır?
+
+2. Aşağıdakilerden hangisi Howard Gardner’in “Müzikal – ritmik zeka” olarak adlandırdığı yetenek alanı ile ilgili değildir?
+    - A-) Melodiyi doğru duyma
+    - **Cevap B-) Ritimleri dinleme**
+    - C-) Melodiyi tekrar edebilme
+    - D-) Farklı ses perdelerini algılayabilme
+    - E-) Melodiyi çalma
+
+    > **Açıklama:** Gardner’ın Müzikal-ritmik zekâsı farklı ses perdelerini algılayabilme, melodiyi doğru duyma, melodiyi tekrar edebilme ve melodiyi çalma gibi aktif üretim ve algı becerileriyle ilişkilidir. <b>Ritimleri dinleme</b>, bu alandaki aktif yeteneğin bir parçası olarak kabul edilmemektedir.
+
+    <hr />
+
+3. Anadolu Güzel Sanatlar liselerine hangi yolla öğrenci alınmaktadır?
     - **Cevap A-) Yetenek sınavı ile**
     - B-) Öğretmenler Kurulu kararı ile
     - C-) Mezun olduğu okulun tavsiyesi ile
@@ -1296,7 +1373,8 @@
     > **Açıklama:** Anadolu Güzel Sanatlar liselerine öğrenci alımı <b>Yetenek sınavı</b> ile yapılmaktadır.
 
     <hr />
-1. Anadolu Güzel Sanatlar Liselerine başvurabilmek için ön şart, adayın geldiği kurumda tüm sınıflarda aldığı müzik derslerinin ortalamasının en az kaç olmasıdır?
+
+4. Anadolu Güzel Sanatlar Liselerine başvurabilmek için ön şart, adayın geldiği kurumda tüm sınıflarda aldığı müzik derslerinin ortalamasının en az kaç olmasıdır?
     - A-) 1
     - **Cevap B-) 4**
     - C-) 3
@@ -1320,6 +1398,17 @@
 
     <hr />
 
+2. Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için kimler tarafından aday gösterilirler?
+    - A-) Veliler
+    - B-) Öğretmenler Kurulu
+    - C-) Rehber öğretmenler
+    - D-) Okul müdürü
+    - **Cevap E-) Sınıf ve şube öğretmenleri**
+
+    > **Açıklama:** Müzik alanında yetenekli ilköğretim çağındaki öğrenciler, Bilim ve Sanat Merkezleri’ne alım için <b>sınıf ve şube öğretmenleri</b> tarafından gözlemlenerek aday gösterilirler.
+
+    <hr />
+
 ## Ünite 14
 
 ### 14.1. Üstün Zekâlı Çocuğun Ailesi Olmak
@@ -1334,7 +1423,8 @@
     > **Açıklama:** Çocukların fiziksel, duygusal ve sosyal tüm gereksinimlerini fark etme ve destekleme sorumluluğu öncelikli olarak ailededir. Barınma, beslenme, koşulsuz sevgi ve güvenli bağlanma ailenin temel sorumluluklarıyken, <b>öğretmen seçimi</b> ailenin öncelikli görev ve sorumlulukları arasında yer almaz.
 
     <hr />
-1. Ebeveynlik becerileri ile ilgili aşağıdakilerden hangisi doğrudur?
+
+2. Ebeveynlik becerileri ile ilgili aşağıdakilerden hangisi doğrudur?
     - A-) Ebeveynlik becerileri yıllar içinde değişmez standarttır.
     - B-) Ebeveynlik becerileri evrenseldir.
     - **Cevap C-) Ebeveynlik becerilerinin eğitimlerle geliştirilmesi mümkündür.**
@@ -1342,19 +1432,6 @@
     - E-) Ülkemizde etkililiği kanıtlanmış bir ebeveyn eğitim programı yoktur.
 
     > **Açıklama:** Ebeveynlik becerilerinin, çocukların gelişimini desteklemek amacıyla <b>eğitimlerle geliştirilmesi mümkündür</b>.
-
-    <hr />
-
-### 14.2.3. Destek/Paylaşım
-
-1. Düşük başarı gösteren üstün zekalı çocuklar erken dönemde fark edilip gerekli müdahale yapılırsa, başarısızlık durumu kronikleşmeden kolay bir şekilde çözüme ulaştırılabilmektedir. Aşağıdakilerden hangisi başarıyı desteklemek için uygun bir müdahale değildir?
-    - **Cevap A-) Arkadaş ilişkileri azaltılmalı**
-    - B-) Çalışma alışkanlıklarını gözden geçirme
-    - C-) Okul ile işbirliği kurulmalı
-    - D-) Başarıdaki ani değişimler yakından takip edilmeli
-    - E-) Başarısızlığın altında yatan etmenler araştırılmalı
-
-    > **Açıklama:** Başarıyı desteklemek için uygun müdahaleler arasında çalışma alışkanlıklarını gözden geçirme ve okul ile işbirliği kurma gibi destekleyici adımlar yer alır. <b>Arkadaş ilişkilerinin azaltılması</b>, üstün zekâlı çocukların sosyal ve duygusal gelişimini olumsuz etkileyebileceği için uygun bir müdahale değildir.
 
     <hr />
 
@@ -1370,7 +1447,19 @@
     > **Açıklama:** Yaratıcı mükemmellikleri ile tanınan bireylerin çocuklarının <b>daima yaratıcı olacağını</b> varsaymak yanlıştır. Üstün zekâ, kalıtımsal ve çevresel bileşenleri içeren karmaşık bir süreçtir ve çocukların başarısı genetik aktarımı garanti etmez.
 
     <hr />
-1. “20. Yüzyıl’a damgasını vurmuş politikacı, reformcu ve sanatçı gibi seçkin kişilerin biyografilerini inceleyen uzman, incelenen seçkin kişilerin ebeveynlerinin de entelektüel ya da yaratıcı mükemmellik ve tanınırlığa sahip ebeveynler olduklarını görür”. Bu veri aşağıdaki ifadelerden hangisi ile açıklanabilir?
+
+2. Aşağıdakilerden hangisi üstün zekâlı bir çocuk yetiştirmeyi zorlaştırabilen unsurlardan biri değildir?
+    - A-) Kısıtlı finansal kaynaklar
+    - B-) Alanla ilgili ulaşılabilir kaynakların azlığı
+    - C-) Üstün zekâlı çocukların uyum güçlüğü yaşadıklarına yönelik inanışlar
+    - D-) Üstün zekâlı çocuklara eğitimin gereksiz olduğuna yönelik inanışlar
+    - **Cevap E-) Güçlü okul aile iş birliği**
+
+    > **Açıklama:** <b>Güçlü okul aile iş birliği</b>, üstün zekâlı çocukların eğitimi ve gelişimini destekleyen olumlu bir unsurdur. Diğer seçenekler ise üstün zekâlı çocuk yetiştirmeyi zorlaştıran faktörler arasında sayılabilir.
+
+    <hr />
+
+3. “20. Yüzyıl’a damgasını vurmuş politikacı, reformcu ve sanatçı gibi seçkin kişilerin biyografilerini inceleyen uzman, incelenen seçkin kişilerin ebeveynlerinin de entelektüel ya da yaratıcı mükemmellik ve tanınırlığa sahip ebeveynler olduklarını görür”. Bu veri aşağıdaki ifadelerden hangisi ile açıklanabilir?
     - **Cevap A-) Kariyer seçimlerinde çevresel koşullar etkilidir.**
     - B-) Yaratıcı mükemmellikleri ile tanınan bireylerin çocukları daima yaratıcı olur.
     - C-) Reformcuların hepsi reformist ailelerden gelir.
@@ -1378,6 +1467,32 @@
     - E-) Politikacıların babaları da politikacıdır.
 
     > **Açıklama:** Seçkin kişilerin ebeveynlerinin de başarılı olması, çocuğun kariyer gelişiminde genetik faktörlerin yanı sıra, ebeveynlerin sağladığı <b>çevresel koşulların ve rol model olmanın etkili olduğunu</b> gösterir.
+
+    <hr />
+
+### 14.2.1. Fark Etme
+
+1. Aşağıdakilerden hangisi üstün zekalı çocukların ebeveynlerinden elde edilen bilgilere göre bebeklik yıllarında özellikle doğumu takip eden ilk aylarda gösterdikleri özelliklerden değildir?
+    - A-) Kitaplara olağanüstü ilgi
+    - **Cevap B-) Uyaranlara karşı tepkisizlik**
+    - C-) Uzun dikkat süresi
+    - D-) Hızlı dil gelişimi
+    - E-) Hızlı öğrenme
+
+    > **Açıklama:** Üstün zekalı çocuklar, erken yaşlardan itibaren çevresel uyaranlara karşı oldukça duyarlı ve tepkili olurlar. Bu nedenle <b>Uyaranlara karşı tepkisizlik</b>, tipik olarak gözlemlenen bir özellik değildir. Hızlı öğrenme, uzun dikkat süresi ve kitaplara ilgi bu çocukların erken dönem özelliklerindendir.
+
+    <hr />
+
+### 14.2.3. Destek/Paylaşım
+
+1. Düşük başarı gösteren üstün zekalı çocuklar erken dönemde fark edilip gerekli müdahale yapılırsa, başarısızlık durumu kronikleşmeden kolay bir şekilde çözüme ulaştırılabilmektedir. Aşağıdakilerden hangisi başarıyı desteklemek için uygun bir müdahale değildir?
+    - **Cevap A-) Arkadaş ilişkileri azaltılmalı**
+    - B-) Çalışma alışkanlıklarını gözden geçirme
+    - C-) Okul ile işbirliği kurulmalı
+    - D-) Başarıdaki ani değişimler yakından takip edilmeli
+    - E-) Başarısızlığın altında yatan etmenler araştırılmalı
+
+    > **Açıklama:** Başarıyı desteklemek için uygun müdahaleler arasında çalışma alışkanlıklarını gözden geçirme ve okul ile işbirliği kurma gibi destekleyici adımlar yer alır. <b>Arkadaş ilişkilerinin azaltılması</b>, üstün zekâlı çocukların sosyal ve duygusal gelişimini olumsuz etkileyebileceği için uygun bir müdahale değildir.
 
     <hr />
 

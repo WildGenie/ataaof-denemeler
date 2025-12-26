@@ -1,4 +1,4 @@
-# Sosyal-Duygusal Gelişim - Çıkmış Sorular
+# Sosyal-Duygusal Gelişim - Sorular
 
 ## Ünite 1
 
@@ -27,7 +27,8 @@
     > **Açıklama:** Benlik bilincinin temelinin oluştuğu yaş <b>1 yaş</b> olarak verilmiştir.
 
     <hr />
-1. <u>‘Oldukça popülerim. İnsanlar beni sever’</u> şeklinde kurulan cümleler aşağıda verilen hangi benlik algısının örnekleridir?
+
+2. <u>‘Oldukça popülerim. İnsanlar beni sever’</u> şeklinde kurulan cümleler aşağıda verilen hangi benlik algısının örnekleridir?
     - A-) Akademik
     - **Cevap B-) Sosyal**
     - C-) Duygusal
@@ -115,7 +116,8 @@
     > **Açıklama:** Verilen örnekte, çocuklar çoğunlukla yan yana (paralel oyun) kendi faaliyetleriyle ilgilenmekte (Aylin ve Ali) veya basit kaba motor etkileşimlere (kovalamaca) girişmektedir. Bu durum, sosyal oyunun yeni başladığı <b>3 yaş</b> çocuklarının olduğu sınıfla ilişkilidir.
 
     <hr />
-1. Okul öncesi dönemdeki çocukların sosyal ve duygusal yönden daha dengeli olduğu yaş aşağıdaki seçeneklerin hangisinde verilmiştir?
+
+2. Okul öncesi dönemdeki çocukların sosyal ve duygusal yönden daha dengeli olduğu yaş aşağıdaki seçeneklerin hangisinde verilmiştir?
     - A-) 2 yaş
     - B-) 7 yaş
     - C-) 3 yaş
@@ -125,7 +127,8 @@
     > **Açıklama:** Kaynaklara göre, okul öncesi dönemdeki çocukların sosyal ve duygusal yönden daha dengeli olduğu yaş <b>5 yaş</b> olarak belirtilmiştir.
 
     <hr />
-1. Arkadaş çatışmasının başladığı yaş aşağıdaki seçeneklerin hangisinde verilmiştir?
+
+3. Arkadaş çatışmasının başladığı yaş aşağıdaki seçeneklerin hangisinde verilmiştir?
     - A-) 2,5 yaş
     - B-) 4 yaş
     - **Cevap C-) 3 yaş**
@@ -135,7 +138,8 @@
     > **Açıklama:** Arkadaş çatışması genellikle <b>3 yaş</b> civarında başlar. (Bu yaş aynı zamanda çocukların sosyalleşme sürecinde paralel oyundan işbirlikçi oyuna geçiş yaptığı dönemdir.)
 
     <hr />
-1. Aşağıdaki seçeneklerin hangisinde <u>üç yaş çocuğunun arkadaşlık anlayışının gelişimi</u> ile ilgili verilen bilgi yanlıştır?
+
+4. Aşağıdaki seçeneklerin hangisinde <u>üç yaş çocuğunun arkadaşlık anlayışının gelişimi</u> ile ilgili verilen bilgi yanlıştır?
     - A-) "Bugün senin arkadaşın değilim." gibi bir ifadeyle çıkarmak ve almak için arkadaşlığı referans olarak kullanabilir.
     - B-) Herhangi bir oyun eşini arkadaş olarak etiketleme eğilimindedir.
     - C-) Arkadaş çatışması başlar.
@@ -174,6 +178,19 @@
 
 ## Ünite 2
 
+### 2.1. Aile
+
+1. Çoğu kültürde sosyalleşmenin ana unsuru <u>................</u>dir. Verilen boşluğu en uygun ifade ile tamamlayınız?
+    - A-) Aile
+    - **Cevap B-) Ebeveynler**
+    - C-) Okul
+    - D-) Kültür
+    - E-) Arkadaşlık
+
+    > **Açıklama:** Çoğu kültürde, çocuğun sosyalleşmesinin ana unsurları <b>ebeveynlerdir</b>. Öğretmenler, akranlar ve daha geniş sosyal faktörler önemli bir rol oynasa da, ebeveynler çocuğun gelecekteki davranışları, tutumları ve kişiliği üzerinde en güçlü etkiye sahiptir.
+
+    <hr />
+
 ### 2.1.1. Ebeveynlik Stilleri
 
 1. Aşağıdakilerden hangisi ebeveynlik stillerinden biri <u>değildir</u>?
@@ -186,7 +203,8 @@
     > **Açıklama:** Ebeveynliğin iki boyutunun (kabul/duyarlılık ve talep/kontrol) kesişmesiyle dört farklı ebeveynlik stili ortaya çıkmaktadır: Yetkeli/Demokratik, Yetkeci/Otoriter, İzin Verici/Hoşgörülü ve Kayıtsız/İlgisiz. <b>Bağımlı</b> ise bu stillerden biri değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi yetkeli / demokratik ebeveynlik stiliyle ilgilidir?
+
+2. Aşağıdakilerden hangisi yetkeli / demokratik ebeveynlik stiliyle ilgilidir?
     - A-) Tartışmasız itaat etmeye değer verirler.
     - B-) Kontrolcü, cezalandırıcı, katı ve soğuktur.
     - **Cevap C-) Çocuklarına her konuda rehberlik ve eşlik ederler.**
@@ -196,7 +214,8 @@
     > **Açıklama:** Yetkeli/demokratik ebeveynlik stilini benimseyen ebeveynler, çocuklarına her konuda rehberlik ve eşlik ederler. Bu stil, kontrolcü olmalarına rağmen sevgi dolu ve duygusal olarak destekleyici olmayı içerir, ayrıca net ve tutarlı sınırlar koyarlar. Tartışmasız itaat etme, katı ve soğuk olma ve anlaşmazlıkları hoş görmeme gibi özellikler ise Yetkeci/Otoriter stile aittir.
 
     <hr />
-1. Aşağıdakilerden hangisi kayıtsız / ilgisiz ebeveynlik stiliyle ilgilidir?
+
+3. Aşağıdakilerden hangisi kayıtsız / ilgisiz ebeveynlik stiliyle ilgilidir?
     - A-) Genellikle, sıcak davranırlar ve çocuğun yapacağı etkinlikleri kendisinin düzenlemesine izin verirler.
     - B-) Çocuklarının davranışları üzerinde çok az sınır koyar veya hiç kontrol etmezler.
     - **Cevap C-) Duygusal olarak çocuklarından uzaklaşır veya uzaktırlar.**
@@ -206,7 +225,8 @@
     > **Açıklama:** Kayıtsız/ilgisiz ebeveynlik stili, ebeveynlerin çocuklarından <b>duygusal olarak uzaklaşması veya uzakta olması</b> ile ilgilidir. Diğer seçenekler (A, B, D, E) ise genellikle İzin Verici/Hoşgörülü ebeveynlik stiline ait özelliklerdir.
 
     <hr />
-1. Aşağıdakilerden hangisi yetkeci/otoriter ebeveynlik stiliyle <u>ilgili değildir</u>? *(2 kez soruldu)*
+
+4. Aşağıdakilerden hangisi yetkeci/otoriter ebeveynlik stiliyle <u>ilgili değildir</u>?
     - A-) Anlaşmazlık ifadelerini hoş görmezler.
     - B-) Sözleri hukuktur.
     - C-) Kontrolcü, cezalandırıcı, katı ve soğuktur.
@@ -216,7 +236,8 @@
     > **Açıklama:** <b>Çocuklarına her konuda rehberlik ve eşlik etme</b> özelliği, Yetkeli/Demokratik ebeveynlik stiliyle ilişkilidir. Yetkeci/Otoriter ebeveynler ise kontrolcü, cezalandırıcı, katı ve soğuktur, tartışmasız itaate değer verir ve anlaşmazlık ifadelerini hoş görmezler.
 
     <hr />
-1. Amerika Birleşik Devletleri kültüründe çocukların sosyal yeterliliklerini artırmada başarılı olduğu öne sürülen ebeveynlik stili aşağıdakilerden hangisidir?
+
+5. Amerika Birleşik Devletleri kültüründe çocukların sosyal yeterliliklerini artırmada başarılı olduğu öne sürülen ebeveynlik stili aşağıdakilerden hangisidir?
     - **Cevap A-) Yetkeli/demokratik ebeveynlik stili**
     - B-) Yetkeci/otoriter ebeveynlik stili
     - C-) Kayıtsız/ilgisiz ebeveynlik stili
@@ -226,7 +247,8 @@
     > **Açıklama:** Kaynaklara göre, Amerika Birleşik Devletleri kültüründe çocukların sosyal yeterliliklerini artırmada başarılı olduğu öne sürülen tek ebeveynlik stili <b>Yetkeli/demokratik ebeveynlik stili</b>dir. Diğer stillerin, sosyal yeterlilikleri artırmada başarılı olmadığı belirtilmiştir.
 
     <hr />
-1. Aşağıdakilerden hangisi yetkeci/otoriter ebeveynlik stilinin ergenlik dönemi olası sonuçlarından biridir?
+
+6. Aşağıdakilerden hangisi yetkeci/otoriter ebeveynlik stilinin ergenlik dönemi olası sonuçlarından biridir?
     - A-) Zayıf öz-denetim
     - **Cevap B-) Ortalama akademik ve sosyal beceriler**
     - C-) Uyuşturucu bağımlılığı
@@ -236,7 +258,8 @@
     > **Açıklama:** Yetkeci/otoriter ebeveynlik stilinin ergenlik dönemi olası sonuçları Tablo 2'de belirtilmiştir: <b>Ortalama akademik ve sosyal beceriler</b>. Zayıf öz denetim, uyuşturucu bağımlılığı, düşmanlık ve isyan-ayaklanma ise genellikle İzin Verici/Hoşgörülü veya Kayıtsız/İlgisiz stillerinin sonuçlarıdır.
 
     <hr />
-1. Aşağıdakilerden hangisi kayıtsız/ilgisiz ebeveynlik stilinin ergenlik dönemi olası sonuçlarından biri <u>değildir</u>?
+
+7. Aşağıdakilerden hangisi kayıtsız/ilgisiz ebeveynlik stilinin ergenlik dönemi olası sonuçlarından biri <u>değildir</u>?
     - A-) Uyuşturucu bağımlılığı
     - B-) Düşmanlık
     - **Cevap C-) Güçlü prososyal ilgi**
@@ -246,7 +269,8 @@
     > **Açıklama:** Kayıtsız/ilgisiz ebeveynlik stili genellikle zayıf öz denetim ve akademik performans, düşmanlık, isyan ve uyuşturucu bağımlılığı gibi olumsuz sonuçlarla ilişkilidir. <b>Güçlü prososyal ilgi</b> ise sıcak ve destekleyici, yani Yetkeli/Demokratik ebeveynlik stilinin sonucudur ve Kayıtsız/İlgisiz stilin sonucu değildir.
 
     <hr />
-1. <u>‘Çocuklarına yönelik düşük beklenti içindedirler ve çok az disiplin uygularlar. Çocuklarının davranışları üzerinde çok az sınır koyar veya hiç kontrol etmezler’</u>. Açıklaması verilen ebeveynlik stili aşağıdaki seçeneklerin hangisinde verilmiştir?
+
+8. <u>‘Çocuklarına yönelik düşük beklenti içindedirler ve çok az disiplin uygularlar. Çocuklarının davranışları üzerinde çok az sınır koyar veya hiç kontrol etmezler’</u>. Açıklaması verilen ebeveynlik stili aşağıdaki seçeneklerin hangisinde verilmiştir?
     - A-) Yetkeli
     - B-) Yetkeci
     - **Cevap C-) İzin verici**
@@ -254,19 +278,6 @@
     - E-) Bağımlı
 
     > **Açıklama:** Bu tanım, çocuklarına karşı sıcak ve sevecen bir ilişkiye sahip olup, onlara yönelik düşük beklenti içinde olan ve çok az disiplin uygulayan <b>İzin verici/hoşgörülü ebeveynlik stiline</b> aittir.
-
-    <hr />
-
-### 2.1. Aile
-
-1. Çoğu kültürde sosyalleşmenin ana unsuru <u>................</u>dir. Verilen boşluğu en uygun ifade ile tamamlayınız?
-    - A-) Aile
-    - **Cevap B-) Ebeveynler**
-    - C-) Okul
-    - D-) Kültür
-    - E-) Arkadaşlık
-
-    > **Açıklama:** Çoğu kültürde, çocuğun sosyalleşmesinin ana unsurları <b>ebeveynlerdir</b>. Öğretmenler, akranlar ve daha geniş sosyal faktörler önemli bir rol oynasa da, ebeveynler çocuğun gelecekteki davranışları, tutumları ve kişiliği üzerinde en güçlü etkiye sahiptir.
 
     <hr />
 
@@ -282,7 +293,8 @@
     > **Açıklama:** William Damon’a göre, çocuğun arkadaşlık görüşü üç aşamadan geçer: 1. <b>Diğerlerinin davranışlarına dayalı arkadaşlık aşaması (4-7 yaş)</b>, 2. <b>Güvene dayalı arkadaşlık aşaması (8-10 yaş)</b>, ve 3. <b>Psikolojik yakınlığa dayalı arkadaşlık aşaması (11-15 yaş)</b>.
 
     <hr />
-1. William Damon’a göre 4-7 yaş aralığındaki çocuklar aşağıda verilen arkadaşlık aşamalarından hangisinin içinde yer almaktadırlar?
+
+2. William Damon’a göre 4-7 yaş aralığındaki çocuklar aşağıda verilen arkadaşlık aşamalarından hangisinin içinde yer almaktadırlar?
     - A-) Psikolojik desteğe dayalı dayalı arkadaşlık
     - B-) Güvene dayalı arkadaşlık
     - **Cevap C-) Diğerlerinin davranışlarına dayalı arkadaşlık**
@@ -292,7 +304,8 @@
     > **Açıklama:** Gelişim psikologu William Damon'a göre, <b>Diğerlerinin davranışlarına dayalı arkadaşlık aşaması</b> 4-7 yaş arasını kapsar.
 
     <hr />
-1. William Damon’a göre güvene dayalı arkadaşlık aşaması aşağıdaki yaş aralıklarının hangisinde yer almaktadır?
+
+3. William Damon’a göre güvene dayalı arkadaşlık aşaması aşağıdaki yaş aralıklarının hangisinde yer almaktadır?
     - A-) 4-7 yaş
     - **Cevap B-) 8-10 yaş**
     - C-) 11-15 yaş
@@ -302,7 +315,8 @@
     > **Açıklama:** William Damon’a göre arkadaşlık görüşünün ikinci aşaması olan <b>Güvene dayalı arkadaşlık aşaması</b>, 8-10 yaş aralığında yer almaktadır.
 
     <hr />
-1. Arkadaşlık aşamaları yaş aralıkları ile ilgili hangi/hangileri doğrudur?<br />I. Diğerlerinin davranışlarına dayalı arkadaşlık aşaması (4 – 5 yaş)<br />II. Güvene dayalı arkadaşlık aşaması (6 – 9 yaş)<br />III. Psikolojik yakınlığa dayalı arkadaşlık aşaması (11 – 15 yaş)
+
+4. Arkadaşlık aşamaları yaş aralıkları ile ilgili hangi/hangileri doğrudur?<br />I. Diğerlerinin davranışlarına dayalı arkadaşlık aşaması (4 – 5 yaş)<br />II. Güvene dayalı arkadaşlık aşaması (6 – 9 yaş)<br />III. Psikolojik yakınlığa dayalı arkadaşlık aşaması (11 – 15 yaş)
     - A-) I - II - III
     - B-) I - II
     - C-) I - III
@@ -314,6 +328,32 @@
     <hr />
 
 ## Ünite 3
+
+### 2.1.1. Ebeveynlik Stilleri (Mükerrer Soru - 2. Üniteden de yer alıyor ancak açıklama içerdiği için dahil edilmiştir)
+
+1. Aşağıdakilerden hangisi yetkeci/otoriter ebeveynlik stiliyle <u>ilgili değildir</u>?
+    - A-) Anlaşmazlık ifadelerini hoş görmezler.
+    - B-) Sözleri hukuktur.
+    - C-) Kontrolcü, cezalandırıcı, katı ve soğuktur.
+    - **Cevap D-) Çocuklarına her konuda rehberlik ve eşlik ederler.**
+    - E-) Tartışmasız itaat etmeye değer verirler.
+
+    > **Açıklama:** Yetkeci/otoriter stil, kontrolcü, cezalandırıcı, katı ve soğuk olmayı, tartışmasız itaate değer vermeyi içerir; anlaşmazlık ifadeleri hoş görülmez. <b>Çocuklarına her konuda rehberlik ve eşlik etme</b> özelliği ise Yetkeli/Demokratik ebeveynlik stiliyle ilişkilidir.
+
+    <hr />
+
+### 3.1. Olgunlaşma Teorisi
+
+1. Çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne süren teori aşağıdakilerden hangisidir?
+    - **Cevap A-) Olgunlaşma Teorisi**
+    - B-) Sosyal öğrenme Teorisi
+    - C-) Çoklu Zekâ Teorisi
+    - D-) Bilişsel Teori
+    - E-) Psikanalitik Teori
+
+    > **Açıklama:** Olgunlaşma teorisi, çocuk gelişimi teorilerinin en eskisidir. Bu teori, çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne sürmektedir. Bireyler olgunlaştıkça kalıtsal potansiyelleri ortaya çıkar.
+
+    <hr />
 
 ### 3.1.1. Arnold Gesell’in Olgunlaşma Teorisi
 
@@ -341,19 +381,6 @@
 
     <hr />
 
-### 3.1. Olgunlaşma Teorisi
-
-1. Çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne süren teori aşağıdakilerden hangisidir?
-    - **Cevap A-) Olgunlaşma Teorisi**
-    - B-) Sosyal öğrenme Teorisi
-    - C-) Çoklu Zekâ Teorisi
-    - D-) Bilişsel Teori
-    - E-) Psikanalitik Teori
-
-    > **Açıklama:** Olgunlaşma teorisi, çocuk gelişimi teorilerinin en eskisidir. Bu teori, çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne sürmektedir. Bireyler olgunlaştıkça kalıtsal potansiyelleri ortaya çıkar.
-
-    <hr />
-
 ### 3.2.1. Sigmund Freud’un Psikanalitik Teorisi
 
 1. Aşağıdakilerden hangisi Freud topografik kişilik kuramı ile ilgili <u>değildir</u>?
@@ -366,7 +393,8 @@
     > **Açıklama:** Freud'un topografik kişilik kuramına göre zihinsel süreçler üç kavram üzerinde şekillenmektedir: Bilinç, bilinç öncesi ve bilinçaltı ya da bilinçdışı. Bu nedenle <b>Bilinç ötesi</b> kavramı bu kuram ile ilgili değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi Freud’un psikoseksüel gelişim evrelerinden biri <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi Freud’un psikoseksüel gelişim evrelerinden biri <u>değildir</u>?
     - A-) Oral evre
     - B-) Anal evre
     - C-) Fallik evre
@@ -376,7 +404,8 @@
     > **Açıklama:** Freud, doğumdan ergenlik dönemine kadar duygusal açıdan beş gelişim evresi olduğunu söylemiştir; bunlar Oral, Anal, Fallik, Latent (Gizil) ve Genital evrelerdir. Freud'un teorisinde Ergenlik evresi (veya Genital evre yerine Ergenlik evresi) bir psikoseksüel gelişim evresi olarak belirtilmemiştir. Seçeneklerdeki Genital evre dışındaki tüm evreler (Oral, Anal, Fallik, Latent) Freud’un psikoseksüel evrelerindendir. 'Güvensizlik evresi' ise Freud'a değil, Erikson'a ait bir aşamadır. 'Ergenlik evresi' Freud’un psikoseksüel evrelerinden biri değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi Freud’un fallik evreye ilişkin tanımlamasında yer alan özelliklerden biri <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi Freud’un fallik evreye ilişkin tanımlamasında yer alan özelliklerden biri <u>değildir</u>?
     - A-) Erkek çocuklar Oedipus karmaşası yaşar.
     - B-) Çocuklar aynı cinsiyetteki ebeveynlerine karşı rekabet geliştirir.
     - **Cevap C-) Fallik evrede yaşanan kaygılar, çocuğun motor becerilerini geliştirir.**
@@ -386,7 +415,8 @@
     > **Açıklama:** Freud’un Fallik evresi (3-5 yaş), çocuklar aynı cinsiyetteki ebeveynine karşı rekabet geliştirmesi (Oedipus/Elektra kompleksi), cinsel kimlik kazanımı ve süperego gelişimi ile ilgilidir. <b>Motor becerileri geliştirme</b> bu evrenin bir özelliği olarak Freud tarafından tanımlanmamıştır.
 
     <hr />
-1. Aşağıdakilerden hangisi Freud’a göre çatışmaların veya psikolojik bozulmaların kaynaklarından biri <u>değildir</u>?
+
+4. Aşağıdakilerden hangisi Freud’a göre çatışmaların veya psikolojik bozulmaların kaynaklarından biri <u>değildir</u>?
     - A-) Fiziksel olgunlaşma
     - B-) İçsel çatışmalar
     - C-) Kişisel yetersizlikler
@@ -396,7 +426,8 @@
     > **Açıklama:** Freud çatışmaların veya psikolojik bozulmaların kaynakları olarak Fiziksel olgunlaşma, Dışsal zorlanmalar, İçsel çatışmalar, Kişisel yetersizlikler ve Kaygıyı göstermektedir. <b>Model alma</b> ise Albert Bandura'nın Sosyal Bilişsel Öğrenme Kuramı ile ilgili temel bir kavramdır. Bu nedenle Model alma, Freud’a göre bir çatışma kaynağı değildir.
 
     <hr />
-1. Çocukların aynı cinsiyetten ebeveyn rakiplerinin cinsiyet-rol özelliklerini ve ahlaki standartlarını içselleştirdikleri Freud’un psikoseksüel gelişim evresi aşağıdakilerden hangisidir?
+
+5. Çocukların aynı cinsiyetten ebeveyn rakiplerinin cinsiyet-rol özelliklerini ve ahlaki standartlarını içselleştirdikleri Freud’un psikoseksüel gelişim evresi aşağıdakilerden hangisidir?
     - A-) Oral evre
     - **Cevap B-) Fallik evre**
     - C-) Latent evre
@@ -419,37 +450,41 @@
     > **Açıklama:** Erikson’un temel varsayımlarından biri, psikososyal gelişimin ömür boyu devam eden sekiz evreden oluştuğunu belirten <b>Yaşam boyu psikososyal gelişim</b>dir.
 
     <hr />
-1. Aşağıda verilenlerden hangisi <u>yanlıştır</u>?
-    - A-) 1\. evre: Temel güvene karşın güvensizlik (0-1 yaş)
-    - B-) 2\. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)
-    - C-) 3\. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)
-    - D-) 4\. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)
-    - **Cevap E-) 5\. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)**
+
+2. Aşağıda verilenlerden hangisi <u>yanlıştır</u>?
+    - A-) 1. evre: Temel güvene karşın güvensizlik (0-1 yaş)
+    - B-) 2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)
+    - C-) 3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)
+    - D-) 4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)
+    - **Cevap E-) 5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)**
 
     > **Açıklama:** Erikson’un psikososyal gelişim evrelerine göre, 5. evre olan Kimlik kazanmaya karşın kimlik karmaşası, genç yetişkinlik dönemi yerine <b>13-18 yaş (ergenlik)</b> dönemini kapsar.
 
     <hr />
-1. Umut erdemi Erikson’un hangi gelişim evresinde ortaya çıkmaktadır?
-    - **Cevap A-) 1\. evre: Temel güvene karşın güvensizlik (0-1 yaş)**
-    - B-) 2\. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)
-    - C-) 3\. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)
-    - D-) 4\. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)
-    - E-) 5\. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)
+
+3. Umut erdemi Erikson’un hangi gelişim evresinde ortaya çıkmaktadır?
+    - **Cevap A-) 1. evre: Temel güvene karşın güvensizlik (0-1 yaş)**
+    - B-) 2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)
+    - C-) 3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)
+    - D-) 4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)
+    - E-) 5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)
 
     > **Açıklama:** Erikson’un teorisinde umut duygusu, ilk sosyal-duygusal aşamada (1. evre: Temel güvene karşı temel güvensizlik, 0-1 yaş) ortaya çıkan ve olumlu ego kimliği oluşturan erdemdir. Bebeklerin umut duygusu, yaşadıkları güvensizlik duygusu ile ebeveynlerine duydukları güvenden ortaya çıkar.
 
     <hr />
-1. Çocuklar bu evrede Erikson tarafından ileri sürülen yetkinlik erdemini kazanır. Açıklamaya göre çocuklar hangi evrenin içindedirler?
-    - A-) 1\. evre: Temel güvene karşın güvensizlik (0-1 yaş)
-    - B-) 2\. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)
-    - C-) 3\. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)
-    - **Cevap D-) 4\. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)**
-    - E-) 5\. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)
+
+4. Çocuklar bu evrede Erikson tarafından ileri sürülen yetkinlik erdemini kazanır. Açıklamaya göre çocuklar hangi evrenin içindedirler?
+    - A-) 1. evre: Temel güvene karşın güvensizlik (0-1 yaş)
+    - B-) 2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)
+    - C-) 3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)
+    - **Cevap D-) 4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)**
+    - E-) 5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)
 
     > **Açıklama:** Çocuklar, 4. evre olan <b>Çalışkanlığa karşın yetersizlik duygusu</b> aşamasında (6-12 yaş), yeni fırsatlara hakim olduklarında Erikson tarafından ileri sürülen <b>yetkinlik</b> (yeterlik) erdemini kazanırlar. Yeterli düzeyde çalışkanlık, çocukların kendinden emin olması için gerekli sosyal ve akademik becerileri kazanmasını sağlar.
 
     <hr />
-1. Erikson’un psikososyal gelişim teorisinin 0-18 yaş aralığını kapsayan evrelerinin her birinde ortaya çıkan olumlu ego kimliği oluşturan erdemler aşağıdaki seçeneklerin hangisinde sırasıyla verilmiştir?
+
+5. Erikson’un psikososyal gelişim teorisinin 0-18 yaş aralığını kapsayan evrelerinin her birinde ortaya çıkan olumlu ego kimliği oluşturan erdemler aşağıdaki seçeneklerin hangisinde sırasıyla verilmiştir?
     - A-) Umut, irade, amaç, sadakat, yeterlik
     - **Cevap B-) Umut, irade, amaç, yeterlik, sadakat**
     - C-) Umut, amaç, irade, yeterlik, sadakat
@@ -459,7 +494,8 @@
     > **Açıklama:** Erikson’un ilk beş evresinin (0-18 yaş) olumlu ego kimliği oluşturan erdemleri sırasıyla şunlardır: Temel güvene karşı güvensizlik (Umut), Özerkliğe karşın utanç ve şüphe (İrade), Girişimciliğe karşın suçluluk (Amaç), Çalışkanlığa karşın yetersizlik (Yeterlik/Yetkinlik) ve Kimliğe karşın rol karmaşası (Sadakat).
 
     <hr />
-1. Hem kırsalda hem de şehirde yaşayan çocuklar iki ebeveynli ailede yaşamalarına, aynı aile gelirine sahip olmalarına ve aynı kalitede eğitim almalarına rağmen, sosyal ortamları hayatlarını farklı tarzlarda yapılandırmaya zorlayan farklı gerçeklikler yaratır. Verilen açıklama Erikson’un Psikososyal Gelişim Teorisinin hangi temel varsayımı ile ilgilidir?
+
+6. Hem kırsalda hem de şehirde yaşayan çocuklar iki ebeveynli ailede yaşamalarına, aynı aile gelirine sahip olmalarına ve aynı kalitede eğitim almalarına rağmen, sosyal ortamları hayatlarını farklı tarzlarda yapılandırmaya zorlayan farklı gerçeklikler yaratır. Verilen açıklama Erikson’un Psikososyal Gelişim Teorisinin hangi temel varsayımı ile ilgilidir?
     - A-) Psikososyal gelişim ve ego kimliği
     - B-) Sıralı psikososyal gelişim evreleri
     - C-) Yaşam boyu psikososyal gelişim
@@ -482,7 +518,8 @@
     > **Açıklama:** Kimlik dağınıklığı (Kimlik difüzyonu) statüsündeki birey, ne kimlik arayışındadır (kriz) ne de herhangi bir kimlik taahhüdünde (bağlılık) bulunmuştur. 'Ne yapacağım hakkında hiçbir fikrim yok' ifadesi bu kararsızlığı ve dağınıklığı yansıtır.
 
     <hr />
-1. Aşağıdakilerden hangisi Marcia’nın ergen kimlik statülerinden biri <u>değildir</u>? *(2 kez soruldu)*
+
+2. Aşağıdakilerden hangisi Marcia’nın ergen kimlik statülerinden biri <u>değildir</u>?
     - **Cevap A-) Kimlik bozulması**
     - B-) İpotekli kimlik
     - C-) Kimlik dağınıklığı
@@ -490,6 +527,17 @@
     - E-) Kimlik moratoryumu
 
     > **Açıklama:** James Marcia’nın tanımladığı dört kimlik statüsü şunlardır: İpotekli Kimlik, Kimlik Moratoryumu, Başarılı Kimlik ve Kimlik Dağınıklığı. <b>Kimlik bozulması</b> bu dört statüden biri değildir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi Marcia’nın ergen kimlik statülerinden biri <u>değildir</u>?
+    - **Cevap A-) Bağımsız kimlik**
+    - B-) İpotekli kimlik
+    - C-) Kimlik moratoryumu
+    - D-) Kimlik dağınıklığı
+    - E-) Başarılı kimlik
+
+    > **Açıklama:** James Marcia’nın tanımladığı dört kimlik statüsü İpotekli kimlik, Kimlik moratoryumu, Başarılı kimlik ve Kimlik dağınıklığıdır. <b>Bağımsız kimlik</b> Marcia'nın statülerinden biri değildir.
 
     <hr />
 
@@ -507,7 +555,8 @@
     > **Açıklama:** Davranış teorisinin kökleri, çocukların dünyaya boş levha (tabula rasa) olarak geldiğine ve yaşam boyu elde edilen deneyimlerle düşünce ve bilgiye sahip olacağına inanan <b>John Locke</b>’un felsefesine dayanmaktadır. Yetişkinler, çocuğu ödül ve ceza yoluyla eğiterek boş levhayı doldurmaktadır.
 
     <hr />
-1. Duygu uyandırma kapasitesine sahip bir dizi koşulsuz uyaran tarafından ortaya çıkarılan üç temel duygunun (korku, öfke ve sevgi) olduğuna inanan teorisyen ve teorisi aşağıdakilerden hangisinde verilmiştir?
+
+2. Duygu uyandırma kapasitesine sahip bir dizi koşulsuz uyaran tarafından ortaya çıkarılan üç temel duygunun (korku, öfke ve sevgi) olduğuna inanan teorisyen ve teorisi aşağıdakilerden hangisinde verilmiştir?
     - **Cevap A-) Öğrenme Teorisi – Watson**
     - B-) Fonksiyonalist (İşlevselci) Görüş – Izard
     - C-) Psikanalitik Teori – Lewis
@@ -515,19 +564,6 @@
     - E-) Bilişsel Teori – Piaget
 
     > **Açıklama:** Öğrenme teorisyenlerinden <b>John B. Watson</b>, duygu uyandırma kapasitesine sahip bir dizi koşulsuz uyaran (örneğin karanlık ortamlarda ani sesler) tarafından ortaya çıkarılan üç temel duygunun (korku, öfke ve sevgi) olduğuna inanmıştır.
-
-    <hr />
-
-### 4.2.1. Edimsel Koşullanmanın Eğitime Uygulanması
-
-1. Okullarda pekiştirilen sosyal davranışların artacağı fikrini kullanan öğretmenler aşağıdakilerden hangisine başvurmaz?
-    - A-) Çocukların diğer çocuklarla etkileşimlerinin olumlu ve ödüllendirici olduğundan emin olurlar.
-    - B-) Ortamı, çocukların alan veya malzeme eksikliğinden hayal kırıklığı yaşamadan hoş bir şekilde etkileşime girebilmeleri için etkili/yeterli malzemelerle düzenlerler.
-    - C-) Prososyal davranışları ödüllendirir ve pekiştirirler.
-    - D-) Paylaşan ve iş birliği yapan çocukları över.
-    - **Cevap E-) Prososyal davranışları cezalandırırlar.**
-
-    > **Açıklama:** Davranışçı yaklaşımı kullanan öğretmenler, çocukların olumlu sosyal becerilerini pekiştirmek ve gelişimlerini teşvik etmek için prososyal davranışları ödüllendirirler. Bu nedenle <b>Prososyal davranışları cezalandırmaları</b> beklenmez.
 
     <hr />
 
@@ -544,6 +580,32 @@
 
     <hr />
 
+### 4.2.1. Edimsel Koşullanmanın Eğitime Uygulanması
+
+1. Okullarda pekiştirilen sosyal davranışların artacağı fikrini kullanan öğretmenler aşağıdakilerden hangisine başvurmaz?
+    - A-) Çocukların diğer çocuklarla etkileşimlerinin olumlu ve ödüllendirici olduğundan emin olurlar.
+    - B-) Ortamı, çocukların alan veya malzeme eksikliğinden hayal kırıklığı yaşamadan hoş bir şekilde etkileşime girebilmeleri için etkili/yeterli malzemelerle düzenlerler.
+    - C-) Prososyal davranışları ödüllendirir ve pekiştirirler.
+    - D-) Paylaşan ve iş birliği yapan çocukları över.
+    - **Cevap E-) Prososyal davranışları cezalandırırlar.**
+
+    > **Açıklama:** Davranışçı yaklaşımı kullanan öğretmenler, çocukların olumlu sosyal becerilerini pekiştirmek ve gelişimlerini teşvik etmek için prososyal davranışları ödüllendirirler. Bu nedenle <b>Prososyal davranışları cezalandırmaları</b> beklenmez.
+
+    <hr />
+
+### 4.3. Albert Bandura’nın Sosyal Bilişsel Öğrenme Kuramı
+
+1. Çocukların sosyal öğrenimlerinin çoğunun, başkalarından gördükleri ve duyduklarını aktif olarak taklit etmeleri veya kopyalamaları yoluyla geldiğini ileri sürmektedir. Verilen açıklama aşağıdaki teorisyenlerden hangisine aittir?
+    - **Cevap A-) Bandura**
+    - B-) Skinner
+    - C-) Watson
+    - D-) Freud
+    - E-) Sullivan
+
+    > **Açıklama:** <b>Albert Bandura</b>’nın sosyal öğrenme teorisi, çocukların sosyal davranışlarının akranları, ebeveynleri, öğretmenleri ve çevreleriyle ilgili <b>gözlemlerinin</b> bir sonucu olduğunu ve çocukların sosyal öğrenimlerinin çoğunun başkalarından gördükleri ve duyduklarını aktif olarak <b>taklit etmeleri veya kopyalamaları</b> yoluyla geldiğini ileri sürmektedir.
+
+    <hr />
+
 ### 4.3.2. Gözlemsel Öğrenmenin Temeli: Modelleme
 
 1. İyi giyimli bir insanın kırmızı ışıkta karşıdan karşıya geçtiğini gören yayaların kırmızı ışığa rağmen karşıdan karşıya geçme olasılıkları daha fazladır. Bu açıklama Bandura’nın kuramında yer alan modelin özelliklerinden hangisi ile ilgilidir?
@@ -556,7 +618,8 @@
     > **Açıklama:** Bu durum, modelin özelliklerinden biri olan <b>Statü ve prestij</b> ile ilgilidir. Modelin yüksek statü veya prestije sahip olması, gözlemcilerin onu taklit etme eğilimini artırır.
 
     <hr />
-1. Düşmanca ve saldırgan davranışlar, özellikle çocuklar tarafından güçlü bir şekilde taklit edilme olasılığına sahiptir. Verilen açıklama taklit etme eğilimini etkileyen modelin hangi özelliği ile ilgilidir?
+
+2. Düşmanca ve saldırgan davranışlar, özellikle çocuklar tarafından güçlü bir şekilde taklit edilme olasılığına sahiptir. Verilen açıklama taklit etme eğilimini etkileyen modelin hangi özelliği ile ilgilidir?
     - A-) Benzerlik
     - B-) Cinsiyet
     - C-) Yaş
@@ -566,7 +629,8 @@
     > **Açıklama:** Modellerin özelliklerinden biri de <b>Davranışın türü ve zorluk derecesidir</b>. Saldırgan davranışlar gibi bazı davranış türleri, çocuklar tarafından güçlü bir şekilde taklit edilme olasılığına sahiptir.
 
     <hr />
-1. Aşağıdakilerden hangisi Bandura’nın kuramında yer alan taklit etme eğilimini etkileyen modellerin özelliklerinden biri <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi Bandura’nın kuramında yer alan taklit etme eğilimini etkileyen modellerin özelliklerinden biri <u>değildir</u>?
     - A-) Cinsiyet
     - B-) Statü ve prestij
     - **Cevap C-) Kardeş sayısı**
@@ -589,7 +653,8 @@
     > **Açıklama:** Bandura’nın teorisi, çocukların öğrenmesini birbiriyle ilişkili dört faktörü göz önünde bulundurarak açıklar: Dikkat, Hatırda Tutma, Taklit ve Güdülenme. <b>Dil</b>, bu dört bilişsel mekanizmadan biri değildir.
 
     <hr />
-1. Ders materyali hakkında not alan bir öğrenci Bandura’nın Gözlemsel Öğrenme Süreçleri ile ilgili hangi faktörü işe koşmaktadır?
+
+2. Ders materyali hakkında not alan bir öğrenci Bandura’nın Gözlemsel Öğrenme Süreçleri ile ilgili hangi faktörü işe koşmaktadır?
     - **Cevap A-) Hatırda tutma**
     - B-) Öz kontrol
     - C-) Güdülenme
@@ -599,7 +664,8 @@
     > **Açıklama:** Hatırda tutma, gözlemcinin davranışı yeniden üretebilmek için gördüklerini hatırlayabilmesi ve uygun kodlama ve deneme yoluyla saklamasıdır. Ders materyali hakkında not alma, bilgiyi hafızada saklama (<b>Hatırda tutma</b>) sürecini işe koşmaktadır.
 
     <hr />
-1. Kişinin sürüş becerilerinde ustalaştığında, ehliyet sınavını geçeceğini bekleyip ehliyet alacağını umut etmesi Bandura’nın gözlemsel öğrenme süreçlerinden hangisi ile ilgilidir?
+
+3. Kişinin sürüş becerilerinde ustalaştığında, ehliyet sınavını geçeceğini bekleyip ehliyet alacağını umut etmesi Bandura’nın gözlemsel öğrenme süreçlerinden hangisi ile ilgilidir?
     - **Cevap A-) Güdülenme**
     - B-) Taklit
     - C-) Hatırda tutma
@@ -622,7 +688,8 @@
     > **Açıklama:** <b>Öz yeterlik</b> kavramı, Bandura’nın kişilik açıklamasının bir parçasını oluşturur ve bireyin verilen bir durumda ne kadar başarılı olacağına olan inancı olarak tanımlanabilir.
 
     <hr />
-1. Bireyin kendine ait genel görüşü olup bu görüşün kişinin mutlu ve emin veya güvensiz veya yetersiz hissetmesi ile ilgilidir. Verilen açıklama aşağıdakilerden hangisine aittir?
+
+2. Bireyin kendine ait genel görüşü olup bu görüşün kişinin mutlu ve emin veya güvensiz veya yetersiz hissetmesi ile ilgilidir. Verilen açıklama aşağıdakilerden hangisine aittir?
     - A-) Özdüzenleme
     - B-) Özyeterlik
     - C-) Özdenetim
@@ -632,7 +699,8 @@
     > **Açıklama:** Bireyin kendine ait genel görüşü olup bu görüşün kişinin mutlu ve emin veya güvensiz veya yetersiz hissetmesi ile ilgili olması <b>Benlik Saygısı</b> kavramına aittir.
 
     <hr />
-1. Aşağıdakilerden hangisi Bandura’ya göre kendini cezalandırmanın sonuçlarından biri olan kaçış ile ilgili göstergelerden biridir?
+
+3. Aşağıdakilerden hangisi Bandura’ya göre kendini cezalandırmanın sonuçlarından biri olan kaçış ile ilgili göstergelerden biridir?
     - A-) İlgisiz hissetme
     - B-) Yön eksikliği
     - C-) Sıkılma
@@ -642,7 +710,8 @@
     > **Açıklama:** Kendini cezalandırmanın sonuçlarından biri olan kaçış, olumsuz durumlar veya duygularla başa çıkmak için kullanılan bir stratejidir. Kaçış ile ilgili göstergelerden biri <b>Uyuşturucu bağımlılığı</b> olarak belirtilmiştir.
 
     <hr />
-1. Aşağıdakilerden hangisi Bandura’ya göre kendini cezalandırmanın sonuçlarından biri olan ödünleme ile ilgili göstergelerden biridir?
+
+4. Aşağıdakilerden hangisi Bandura’ya göre kendini cezalandırmanın sonuçlarından biri olan ödünleme ile ilgili göstergelerden biridir?
     - A-) Yön eksikliği
     - B-) Sıkılma
     - **Cevap C-) Büyüklük kompleksine yol açabilen üstünlük iddiasıyla algılanan başarısızlığı telafi etme**
@@ -652,7 +721,8 @@
     > **Açıklama:** Kendini cezalandırmanın sonuçlarından biri olan ödünleme ile ilgili göstergelerden biri, <b>Büyüklük kompleksine yol açabilen üstünlük iddiasıyla algılanan başarısızlığı telafi etmedir</b>.
 
     <hr />
-1. Aşağıdakilerden hangisi Bandura’ya göre kendini cezalandırmanın sonuçlarından biri olan ‘hareketsizlik’ ile ilgili göstergelerden biri <u>değildir</u>?
+
+5. Aşağıdakilerden hangisi Bandura’ya göre kendini cezalandırmanın sonuçlarından biri olan ‘hareketsizlik’ ile ilgili göstergelerden biri <u>değildir</u>?
     - A-) Depresyon
     - B-) İlgisiz hissetme
     - C-) Sıkılma
@@ -676,19 +746,6 @@
 
     <hr />
 
-### 4.3. Albert Bandura’nın Sosyal Bilişsel Öğrenme Kuramı
-
-1. Çocukların sosyal öğrenimlerinin çoğunun, başkalarından gördükleri ve duyduklarını aktif olarak taklit etmeleri veya kopyalamaları yoluyla geldiğini ileri sürmektedir. Verilen açıklama aşağıdaki teorisyenlerden hangisine aittir?
-    - **Cevap A-) Bandura**
-    - B-) Skinner
-    - C-) Watson
-    - D-) Freud
-    - E-) Sullivan
-
-    > **Açıklama:** <b>Albert Bandura</b>’nın sosyal öğrenme teorisi, çocukların sosyal davranışlarının akranları, ebeveynleri, öğretmenleri ve çevreleriyle ilgili <b>gözlemlerinin</b> bir sonucu olduğunu ve çocukların sosyal öğrenimlerinin çoğunun başkalarından gördükleri ve duyduklarını aktif olarak <b>taklit etmeleri veya kopyalamaları</b> yoluyla geldiğini ileri sürmektedir.
-
-    <hr />
-
 ## Ünite 5
 
 ### 5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi
@@ -703,7 +760,8 @@
     > **Açıklama:** Verilen tanım, bireyin çevre ile etkileşimini organize eden koordineli bir düşünce veya eylem modeli olan <b>Şema</b> kavramına aittir. Çocuklar, bildiklerini temsil etmek için sürekli şemalar geliştirir ve bu bilişsel yapıları organizasyon ve uyum süreçleri boyunca değiştirirler.
 
     <hr />
-1. Aşağıdakilerden hangisi Piaget’in bireyin gelişiminin kaynaklandığını ileri sürdüğü değişkenlerden biri <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi Piaget’in bireyin gelişiminin kaynaklandığını ileri sürdüğü değişkenlerden biri <u>değildir</u>?
     - A-) Fiziksel ve sinir sisteminin olgunlaşmasında gösterildiği gibi kalıtım
     - B-) Fiziksel deneyim
     - C-) Sosyal iletim (eğitim)
@@ -713,7 +771,8 @@
     > **Açıklama:** Piaget, bireyin gelişiminin dört değişkenin etkileşiminden kaynaklandığını ileri sürmüştür: Kalıtım, Fiziksel deneyim, Sosyal iletim (eğitim) ve Dengeleme. <b>Kültür</b>, Vygotsky'nin sosyokültürel teorisinde önemli bir odak noktası olmasına rağmen, Piaget'nin ileri sürdüğü dört değişkenden biri değildir.
 
     <hr />
-1. Çocuğun nesneleri görmeden veya dokunmadan, nesnelerin varlığını sürdürdüğünü anlaması anlamına gelir. Verilen açıklama aşağıdaki kavramlardan hangisinin açıklamasıdır?
+
+3. Çocuğun nesneleri görmeden veya dokunmadan, nesnelerin varlığını sürdürdüğünü anlaması anlamına gelir. Verilen açıklama aşağıdaki kavramlardan hangisinin açıklamasıdır?
     - A-) Şema
     - B-) Uyum
     - C-) Dengeleme
@@ -723,7 +782,8 @@
     > **Açıklama:** Verilen tanım, duyu motor dönemin karakteristik becerilerinden biri olan <b>Nesne sürekliliği</b> (object permanence) kavramına aittir. Nesne sürekliliği, çocukların nesneleri görmeden veya dokunmadan, nesnelerin varlığını sürdürdüğünü anlamasıdır.
 
     <hr />
-1. Bir hafta önce bakkalda başka bir çocuğun öfke nöbetine tanık olan bir çocuğun aynı öfke nöbeti davranışlarını sergilemesi Piaget’in hangi kavramı ile ilgilidir?
+
+4. Bir hafta önce bakkalda başka bir çocuğun öfke nöbetine tanık olan bir çocuğun aynı öfke nöbeti davranışlarını sergilemesi Piaget’in hangi kavramı ile ilgilidir?
     - A-) Taklit
     - **Cevap B-) Ertelenmiş taklit**
     - C-) Dengeleme
@@ -733,7 +793,8 @@
     > **Açıklama:** <b>Ertelenmiş taklit</b>, gözlemlenen bir davranışın belli bir zaman sonra tekrar edilmesi ya da taklit edilmesidir. Verilen örnek, çocuğun gözlemlediği (öfke nöbeti) davranışı bir süre sonra (bir hafta sonra) sergilemesi olduğu için bu kavrama aittir.
 
     <hr />
-1. Ergenin sürekli sahnede olduğunu ve etrafındaki herkesin eylemleri veya görünüşüyle ilgili olduğu kadar eleştirdiğini ifade etmesidir. Verilen açıklama aşağıdaki kavramlardan hangisinin açıklamasıdır?
+
+5. Ergenin sürekli sahnede olduğunu ve etrafındaki herkesin eylemleri veya görünüşüyle ilgili olduğu kadar eleştirdiğini ifade etmesidir. Verilen açıklama aşağıdaki kavramlardan hangisinin açıklamasıdır?
     - **Cevap A-) Hayali izleyici olgusu**
     - B-) Kişisel masal
     - C-) Dengeleme
@@ -743,7 +804,8 @@
     > **Açıklama:** Verilen tanım, ergenin sürekli izleniyormuş ve yargılanıyormuş hissine kapıldığı <b>Hayali izleyici olgusu</b> (Imaginary audience) kavramının açıklamasıdır.
 
     <hr />
-1. İlk aşkı tarafından terk edilmiş bir genç, insanlık tarihinde hiç kimsenin onun acısı gibi bir acı deneyimlemediğini hissedebilir. Verilen örnek Piaget’in hangi kavramı ile ilgilidir?
+
+6. İlk aşkı tarafından terk edilmiş bir genç, insanlık tarihinde hiç kimsenin onun acısı gibi bir acı deneyimlemediğini hissedebilir. Verilen örnek Piaget’in hangi kavramı ile ilgilidir?
     - A-) Hayali izleyici olgusu
     - **Cevap B-) Kişisel masal**
     - C-) Dengeleme
@@ -753,7 +815,8 @@
     > **Açıklama:** Verilen örnek, ergenin kendini benzersiz ve özel hissetmesi, kimsenin kendisi gibi acı çekmediğine inanması durumu olan <b>Kişisel masal</b> (Personal fable) kavramı ile ilgilidir.
 
     <hr />
-1. Aşağıdakilerden hangisi Piaget’in teorisi ile ilgili bir açıklamadır?
+
+7. Aşağıdakilerden hangisi Piaget’in teorisi ile ilgili bir açıklamadır?
     - A-) Bilişsel gelişim, devam eden bir süreç içinde meydana gelir.
     - B-) Bilişsel gelişim, iskele kurma ile bilişsel çıraklık gibi aktif sosyal bağlamlar yaratarak desteklenir.
     - C-) Bilişsel gelişim, çocuğun yetiştiği sosyokültürel bağlama ve dil kullanımına bağlıdır.
@@ -763,7 +826,8 @@
     > **Açıklama:** Piaget’in temel gelişimsel kavramları <b>şema, özümleme, uyum ve dengelemedir</b>. Diğer seçenekler (A, B, C, E) Vygotsky’nin Sosyokültürel Teorisi ile ilgili açıklamalardır.
 
     <hr />
-1. Aşağıdakilerden hangisi soyut işlemler döneminin karakteristik becerilerinden biridir? *(2 kez soruldu)*
+
+8. Aşağıdakilerden hangisi soyut işlemler döneminin karakteristik becerilerinden biridir?
     - A-) Nesne sürekliliğini kazanır.
     - **Cevap B-) Varsayımsal düşünme**
     - C-) Kendini nesnelerden ve diğer insanlardan ayırır.
@@ -773,7 +837,8 @@
     > **Açıklama:** Soyut işlemler dönemi (11 yaş ve sonrası), ergenlerin soyut ve benmerkezci olmayan bir perspektiften düşünebilecekleri dönemdir. Bu dönemin karakteristik becerilerinden biri <b>Varsayımsal düşünme</b> yeteneğinin gelişmesidir.
 
     <hr />
-1. Aşağıdakilerden hangisi duyu motor dönemin karakteristik becerilerinden biri <u>değildir</u>?
+
+9. Aşağıdakilerden hangisi duyu motor dönemin karakteristik becerilerinden biri <u>değildir</u>?
     - A-) Kendini nesnelerden ve diğer insanlardan ayırma
     - B-) Temel nedensellik anlayışı geliştirme
     - C-) Nesne sürekliliğini kazanma
@@ -783,7 +848,19 @@
     > **Açıklama:** Duyu motor dönem (0-2 yaş) karakteristik becerileri nesne sürekliliği, temel nedensellik, taklit etme ve kendini diğerlerinden ayırmayı içerir. <b>Varsayımsal düşünme</b> ise çok daha sonra, Soyut işlemler döneminin karakteristik becerisidir.
 
     <hr />
-1. Aşağıdakilerden hangisi işlem öncesi dönemin karakteristik becerilerinden biridir?
+
+10. Aşağıdakilerden hangisi somut işlemler döneminin karakteristik becerilerinden biridir?
+    - **Cevap A-) Mevcut nesneler hakkında mantık yürütebilir.**
+    - B-) Nesne sürekliliğini kazanır.
+    - C-) Temel nedensellik anlayışı gelişir.
+    - D-) Kendini nesnelerden ve diğer insanlardan ayırır.
+    - E-) Taklit etmeye ve yaratıcı oyuna katılmaya başlar.
+
+    > **Açıklama:** Somut işlemler döneminde (7-11 yaş) çocuklar, mantık geliştirdiği ancak soyut olarak akıl yürütemediği bir aşamadadır. Bu dönemin karakteristik becerisi, <b>Mevcut nesneler hakkında mantık yürütebilmesidir</b> (somut nesneleri içeren problemlere bilişsel işlemler uygulayabilir).
+
+    <hr />
+
+11. Aşağıdakilerden hangisi işlem öncesi dönemin karakteristik becerilerinden biridir?
     - **Cevap A-) Dili kullanmaya başlar.**
     - B-) Kendini nesnelerden ve diğer insanlardan ayırır.
     - C-) Nesne sürekliliğini kazanır.
@@ -819,7 +896,8 @@
     > **Açıklama:** Çocukların kendi kendine yüksek sesle konuşması, düşüncelerine rehberlik etmesi, problem üzerinde düşünmesi ve eylemlerini planlaması, Vygotsky’nin teorisinde de yer alan <b>Özel konuşma</b> (Private speech) kavramı ile ilgilidir.
 
     <hr />
-1. Çocukların bağımsız yapabilecekleri ile yardım alarak yapabilecekleri arasındaki mesafeye <u>...............</u> adını vermiştir. Boşluğu en uygun ifade ile tamamlayınız?
+
+2. Çocukların bağımsız yapabilecekleri ile yardım alarak yapabilecekleri arasındaki mesafeye <u>...............</u> adını vermiştir. Boşluğu en uygun ifade ile tamamlayınız?
     - A-) Hayali izleyici olgusu
     - B-) Kişisel masal
     - **Cevap C-) Yakınsak gelişim alanı**
@@ -829,7 +907,8 @@
     > **Açıklama:** Vygotsky, çocukların bağımsız yapabilecekleri ile akran yardımı ve rehberliği ile yapabilecekleri arasındaki farka <b>Yakınsak gelişim alanı</b> (Proximal Development Zone) adını vermiştir.
 
     <hr />
-1. Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgili bir açıklama <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgili bir açıklama <u>değildir</u>?
     - **Cevap A-) Temel gelişimsel kavramlar şema, özümleme, uyum ve dengedir.**
     - B-) Bilişsel gelişim, iskele kurma ile bilişsel çıraklık gibi aktif sosyal bağlamlar yaratarak desteklenir.
     - C-) Bilişsel gelişim, devam eden bir süreç içinde meydana gelir.
@@ -839,7 +918,8 @@
     > **Açıklama:** <b>Temel gelişimsel kavramlar şema, özümleme, uyum ve dengedir</b> ifadesi, Jean Piaget’nin teorisine aittir. Vygotsky’nin teorisinin temel kavramları yakınsak gelişim alanı, dil ve diğer kültürel araçlardır.
 
     <hr />
-1. Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgilidir?
+
+4. Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgilidir?
     - A-) Bilişsel gelişim, çocuğun nesneleri ve fikirleri manipüle etmesine izin verilerek desteklenir.
     - **Cevap B-) Bilişsel gelişim, devam eden bir süreç içinde meydana gelir.**
     - C-) Bilişsel gelişim, çocuğun çevre ile etkileşimine bağımlıdır.
@@ -849,7 +929,8 @@
     > **Açıklama:** Vygotsky’nin teorisine göre bilişsel gelişim, aşamalardan ortaya çıkan (Piaget'in görüşü) bir süreç değil, <b>devam eden bir süreç içinde meydana gelir</b>. Vygotsky’nin sosyokültürel teorisi, bilişsel gelişimin aşamalar halinde değil, sosyal etkileşim ve kültür bağlamında sürekli bir süreç içinde ilerlediğini savunur.
 
     <hr />
-1. Bir toplumun dilini ve kültürünü edinmenin kilit mekanizmasının sosyal etkileşim olduğuna inanan teorisyen aşağıdakilerden hangisidir?
+
+5. Bir toplumun dilini ve kültürünü edinmenin kilit mekanizmasının sosyal etkileşim olduğuna inanan teorisyen aşağıdakilerden hangisidir?
     - A-) Bronfenbrenner
     - B-) Bruner
     - C-) Bandura
@@ -872,7 +953,8 @@
     > **Açıklama:** Mikrosistem, çocuğun günlük yaşamına öncülük eden yakın çevresidir. <b>Çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini ifade eden</b> sistem ise <b>Makrosistem</b>dir.
 
     <hr />
-1. Aşağıdakilerden hangisi Bronfenbrenner’in makrosistemi ile ilgilidir?
+
+2. Aşağıdakilerden hangisi Bronfenbrenner’in makrosistemi ile ilgilidir?
     - A-) Çocukların günlük yaşamına öncülük ettiği yakın çevresidir.
     - B-) Bakıcılar, arkadaşlar ve öğretmenler tümü mikrosistemin parçalarıdır
     - C-) Mikrosistem, bir kişinin ev, okul veya arkadaşlık grupları ile yakın ortamlarda yüz yüze etkileşimlerini içerir.
@@ -882,7 +964,8 @@
     > **Açıklama:** Makrosistem, çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini (farklı sosyal sınıflar, etnik ve ırksal gruplar, dinler) ifade eder. Bu sistem, çocuklara nasıl davranılması gerektiği, ne öğretilmesi gerektiği gibi geniş, kapsayıcı bir ideolojiyi dikte eder.
 
     <hr />
-1. Urie Bronfenbrenner’ın ekolojik sistemler teorisine göre, bireyin çevresiyle olan etkileşimlerini anlamak için beş ana sistem mevcuttur. Bu sistemlerin içten dışa doğru sıralaması aşağıdakilerden hangisidir?
+
+3. Urie Bronfenbrenner’ın ekolojik sistemler teorisine göre, bireyin çevresiyle olan etkileşimlerini anlamak için beş ana sistem mevcuttur. Bu sistemlerin içten dışa doğru sıralaması aşağıdakilerden hangisidir?
     - A-) Mikrosistem-Ekzosistem-Mezosistem-Makrosistem-Kronosistem
     - B-) Ekzosistem-Mikrosistem-Mezosistem-Makrosistem-Kronosistem
     - C-) Mezosistem-Mikrosistem-Ekzosistem-Makrosistem-Kronosistem
@@ -907,7 +990,8 @@
     > **Açıklama:** Duygular, çocuklara refahı ile ilgili bilgi sağlar. Korku duygusu, bir şeylerin yanlış olduğunu, tehlikede olunduğunu ve kaçma veya kendini koruma gerekliliğini işaret eder. <b>Sevimli ve değerliyim</b> mesajı ise Sevgi duygusunun yolladığı mesajlardan biridir.
 
     <hr />
-1. Aşağıdakilerden hangisi sevgi duygusunun çocuğa yolladığı mesajlardan biridir?
+
+2. Aşağıdakilerden hangisi sevgi duygusunun çocuğa yolladığı mesajlardan biridir?
     - A-) Bir şeyler yanlış
     - B-) Tehlikedeyim
     - C-) Yetkinim
@@ -917,7 +1001,8 @@
     > **Açıklama:** Sevgi/şefkat duyguları, çocuklara sevilebilir olduklarını ve başkaları tarafından sevgilerinin değerli olduğunu söyler. Bu nedenle, <b>Sevimli ve değerliyim</b> mesajı Sevgi duygusu ile ilgilidir. Yetkinim mesajı ise Gurur duygusu ile ilgilidir.
 
     <hr />
-1. Hızla gelen üç tekerlekli bisikleti görünce bisiklet yolundan kendini dışarı atmak. Yukarıda verilen örnek, duyguların hangi işlevi ile ilgilidir?
+
+3. Hızla gelen üç tekerlekli bisikleti görünce bisiklet yolundan kendini dışarı atmak. Yukarıda verilen örnek, duyguların hangi işlevi ile ilgilidir?
     - A-) Çocukların bilişsel işlevlerini etkiler.
     - B-) Duygular çocuklara refahı ile ilgili bilgi sağlar.
     - C-) Duygular bir iletişim biçimi olarak hizmet eder.
@@ -1005,7 +1090,8 @@
     > **Açıklama:** Mizaç, çocuğun miras aldığı genlere bağlıdır ve doğuştan gelen biyolojik özellikleri içerir. <b>Çocuğun dünyaya geldiği çevreye bağlı olması</b> ifadesi <u>yanlıştır</u>, çünkü mizaç genetik etkilerin olduğu biyolojik özellikler yoluyla belirlenmektedir.
 
     <hr />
-1. Ruh halleri genellikle pozitif olan bebeklerdir. Yeni durumlara iyi adapte olurlar ve duygusal tepkilerinde aşırı değil, genellikle ılımlıdırlar. Verilen açıklama hangi mizaç tipi ile ilişkilidir?
+
+2. Ruh halleri genellikle pozitif olan bebeklerdir. Yeni durumlara iyi adapte olurlar ve duygusal tepkilerinde aşırı değil, genellikle ılımlıdırlar. Verilen açıklama hangi mizaç tipi ile ilişkilidir?
     - **Cevap A-) Kolay bebekler**
     - B-) Zor bebekler
     - C-) Zor ısınan bebekler
@@ -1015,7 +1101,8 @@
     > **Açıklama:** <b>Kolay bebekler</b>, ruh halleri genellikle pozitif olan, yeni durumlara iyi adapte olan ve duygusal tepkileri aşırı değil, genellikle ılımlı olan mizaç tipidir.
 
     <hr />
-1. Yavaş ısınan mizaç özellikleri gösteren bebeklerle ilgili verilenlerden hangisi <u>yanlıştır</u>?
+
+3. Yavaş ısınan mizaç özellikleri gösteren bebeklerle ilgili verilenlerden hangisi <u>yanlıştır</u>?
     - A-) Aktivite düzeyi oldukça düşüktür.
     - B-) Yeni durumlara olumsuz tepki gösterir.
     - C-) Diğer bebeklerden daha az pozitif veya negatif duygusal aşırılıkları vardır.
@@ -1054,9 +1141,35 @@
 
 ## Ünite 7
 
+### 7. Duygusal Gelişimin Bileşenleri
+
+1. Aşağıdakilerden hangisi duygusal gelişimin bileşenlerinden biri <u>değildir</u>?
+    - A-) Mahcubiyet
+    - B-) Gurur
+    - C-) Suçluluk
+    - D-) Kıskançlık
+    - **Cevap E-) Üzüntü**
+
+    > **Açıklama:** Duygusal gelişimin temel bileşenleri, duyguların ortaya çıkışı, duygusal farkındalık, diğerlerinin duygularını tanınması, duygu düzenleme, duygusal görevler ve duygusal gelişimin kilometre taşlarıdır. <b>Üzüntü</b>, birincil duygulardan biri olmasına rağmen, seçenekler arasında yer alan diğer duygular (Mahcubiyet, Gurur, Suçluluk, Kıskançlık) ikincil/öz bilinçli duygular arasında sayılmaktadır.
+
+    <hr />
+
+### 7.1. Duyguların Ortaya Çıkışı
+
+1. Aşağıdakilerden hangisi bebeklik döneminde benlik duygusunu ifade etmenin yollarından biri <u>değildir</u>?
+    - A-) Aynada kendini tanıma
+    - B-) Ben ve sen zamirlerini kullanma
+    - **Cevap C-) Görsel perspektif alma (insanların aynı nesne üzerinde farklı bir görsel perspektife sahip olabileceği fikri)**
+    - D-) Sahip olma isteği
+    - E-) Duyguların ortaya çıkışı
+
+    > **Açıklama:** Bebeklik döneminde benlik duygusunu ifade etmenin yolları arasında aynada kendini tanıma, 'ben' ve 'sen' zamirlerini kullanma, sahip olma isteği ve duyguların ortaya çıkışı yer alır. <b>Görsel perspektif alma (insanların aynı nesne üzerinde farklı bir görsel perspektife sahip olabileceği fikri)</b> bu yollardan biri olarak verilmemiştir.
+
+    <hr />
+
 ### 7.1.1. Birincil/Temel Duygular
 
-1. Aşağıdakilerden hangisi bebeklerde korku duygusunun gözlemlendiği durumlardan biridir? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi bebeklerde korku duygusunun gözlemlendiği durumlardan biridir?
     - **Cevap A-) Yabancı kaygısı**
     - B-) Bir beceride ustalaşmadan haz almak
     - C-) Sevgi görmek için başkalarını teşvik etmek
@@ -1066,7 +1179,19 @@
     > **Açıklama:** Korku, yaşamın ilk 6 ayında ortaya çıkan birincil duygulardandır. Korku duygusunun gözlemlendiği durumlar arasında <b>Yabancı kaygısı</b>, yabancı ortamlar ve düşme bulunur.
 
     <hr />
-1. Aşağıdakilerden hangisi bebeklerde şaşkınlık duygusunun gözlemlendiği durumlardan biridir?
+
+2. Aşağıdakilerden hangisi bebeklerde öfke duygusunun gözlemlendiği durumlardan biridir?
+    - **Cevap A-) Bir nesnenin veya oyuncağın uzaklaştırılması**
+    - B-) Bir beceride ustalaşmadan haz almak
+    - C-) Sevgi görmek için başkalarını teşvik etmek
+    - D-) Bebek ve ebeveyn arasındaki bağlanma
+    - E-) Acıya tepki vermek
+
+    > **Açıklama:** Öfke duygusunun gözlemlendiği durumlar arasında <b>Bir nesnenin veya oyuncağın uzaklaştırılması</b>, bakıcıdan kısa ayrılık ve uyumak için zorlanma yer almaktadır.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi bebeklerde şaşkınlık duygusunun gözlemlendiği durumlardan biridir?
     - A-) Bir nesnenin veya oyuncağın uzaklaştırılması
     - B-) Bir beceride ustalaşmadan haz almak
     - **Cevap C-) Yeni lezzetler**
@@ -1089,7 +1214,8 @@
     > **Açıklama:** Öz bilinçli duygular (ikincil duygular), Suçluluk, utanma, mahcubiyet, kıskançlık, empati, imrenme ve gurur duygularıdır. <b>Utanma</b>, benlik algısının gelişimiyle birlikte ikinci yılın ortasında ortaya çıkan öz bilinçli duygulardan biridir. Mutluluk, şaşkınlık, öfke ve üzüntü ise birincil/temel duygulardır.
 
     <hr />
-1. Davranışın düzenlenmesi veya kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynayan duygu aşağıdakilerden hangisidir?
+
+2. Davranışın düzenlenmesi veya kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynayan duygu aşağıdakilerden hangisidir?
     - A-) Öfke
     - B-) Mutluluk
     - **Cevap C-) Suçluluk**
@@ -1097,19 +1223,6 @@
     - E-) Üzüntü
 
     > **Açıklama:** <b>Suçluluk</b> duygusu, duygu düzenleme sosyo-moral duyguların gelişimi ile desteklenmektedir. Suçluluk, mahcubiyet ve utanma, bebekleri bu hoş olmayan duygusal durumlardan kaçınmaya motive eder ve kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynar.
-
-    <hr />
-
-### 7.1. Duyguların Ortaya Çıkışı
-
-1. Aşağıdakilerden hangisi bebeklik döneminde benlik duygusunu ifade etmenin yollarından biri <u>değildir</u>?
-    - A-) Aynada kendini tanıma
-    - B-) Ben ve sen zamirlerini kullanma
-    - **Cevap C-) Görsel perspektif alma (insanların aynı nesne üzerinde farklı bir görsel perspektife sahip olabileceği fikri)**
-    - D-) Sahip olma isteği
-    - E-) Duyguların ortaya çıkışı
-
-    > **Açıklama:** Bebeklik döneminde benlik duygusunu ifade etmenin yolları arasında aynada kendini tanıma, 'ben' ve 'sen' zamirlerini kullanma, sahip olma isteği ve duyguların ortaya çıkışı yer alır. <b>Görsel perspektif alma (insanların aynı nesne üzerinde farklı bir görsel perspektife sahip olabileceği fikri)</b> bu yollardan biri olarak verilmemiştir.
 
     <hr />
 
@@ -1139,24 +1252,11 @@
 
     <hr />
 
-### 7. Duygusal Gelişimin Bileşenleri
-
-1. Aşağıdakilerden hangisi duygusal gelişimin bileşenlerinden biri <u>değildir</u>?
-    - A-) Mahcubiyet
-    - B-) Gurur
-    - C-) Suçluluk
-    - D-) Kıskançlık
-    - **Cevap E-) Üzüntü**
-
-    > **Açıklama:** Duygusal gelişimin temel bileşenleri, duyguların ortaya çıkışı, duygusal farkındalık, diğerlerinin duygularını tanınması, duygu düzenleme, duygusal görevler ve duygusal gelişimin kilometre taşlarıdır. <b>Üzüntü</b>, birincil duygulardan biri olmasına rağmen, seçenekler arasında yer alan diğer duygular (Mahcubiyet, Gurur, Suçluluk, Kıskançlık) ikincil/öz bilinçli duygular arasında sayılmaktadır.
-
-    <hr />
-
 ## Ünite 8
 
 ### 8.2. Bağlanmayı Kolaylaştıran Anne-Bebek Davranışları
 
-1. Aşağıdakilerden hangisi bağlanmayı kolaylaştıran anne bebek davranışlardından biri <u>değildir</u>? *(3 kez soruldu)*
+1. Aşağıdakilerden hangisi bağlanmayı kolaylaştıran anne bebek davranışlardından biri <u>değildir</u>?
     - A-) İlk temas zamanı ve süresi
     - B-) Bedensel temas
     - C-) Beslenme zamanı
@@ -1166,7 +1266,8 @@
     > **Açıklama:** Bağlanmayı kolaylaştıran faktörler; ilk temas zamanı ve süresi, bedensel temas, beslenme zamanı ve doğuştan etkenlerdir. <b>Aşırı ağlama</b> ise annenin gerginleşmesine ve ilgilenmekten vazgeçmesine neden olarak bağlanmayı zorlaştıran bir davranıştır.
 
     <hr />
-1. Anne ile bebek arasında bağın oluşmasında kritik bir dönemin varlığı ileri sürülmekte ve bağlanma için en uygun dönemin doğumdan hemen sonra olduğu söylenmektedir. Verilen açıklama bağlanmayı kolaylaştıran anne bebek davranışlardan hangisinin açıklamasıdır?
+
+2. Anne ile bebek arasında bağın oluşmasında kritik bir dönemin varlığı ileri sürülmekte ve bağlanma için en uygun dönemin doğumdan hemen sonra olduğu söylenmektedir. Verilen açıklama bağlanmayı kolaylaştıran anne bebek davranışlardan hangisinin açıklamasıdır?
     - **Cevap A-) İlk temas zamanı ve süresi**
     - B-) Bedensel temas
     - C-) Beslenme zamanı
@@ -1174,6 +1275,17 @@
     - E-) Aşırı ağlama
 
     > **Açıklama:** Bağlanmayı kolaylaştıran faktörlerden olan <b>İlk temas zamanı ve süresi</b>, bağın oluşmasında kritik dönemin varlığı ve en uygun dönemin doğumdan hemen sonrası olduğu fikriyle ilişkilidir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi bağlanmayı kolaylaştıran anne bebek davranışlarından biridir?
+    - **Cevap A-) Bedensel temas**
+    - B-) Olağandışı görünüm
+    - C-) Olağandışı davranışlar ve olağandışı durumlar
+    - D-) Aşırı ağlama
+    - E-) Duygusal reddetme
+
+    > **Açıklama:** Bağlanmayı kolaylaştıran anne bebek davranışları arasında ilk temas zamanı ve süresi, beslenme zamanı ve <b>Bedensel temas</b> yer almaktadır. Dokunma duyusu, yeni doğan ve bebeklik döneminde çocuğun çevresini algılamasında çok önemlidir.
 
     <hr />
 
@@ -1189,7 +1301,8 @@
     > **Açıklama:** <b>Aşırı ağlama</b>, bağlanmayı zorlaştıran anne bebek davranışlarından biridir çünkü annenin vazgeçmesine, gerginleşmesine ve ilgilenmekten vazgeçmesine neden olabilir. Diğer seçenekler ise bağlanmayı kolaylaştıran davranışlardır.
 
     <hr />
-1. Bebeklerde ağlamanın türleri konusunda çalışma yapan aşağıdakilerden hangisidir?
+
+2. Bebeklerde ağlamanın türleri konusunda çalışma yapan aşağıdakilerden hangisidir?
     - A-) Lorenz
     - B-) Freud
     - C-) Smilansky
@@ -1197,6 +1310,17 @@
     - **Cevap E-) Peter Wolff**
 
     > **Açıklama:** <b>Peter Wolff</b>, bebeklerde ağlamanın türleri konusunda çalışma yapan teorisyendir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi bağlanmayı zorlaştıran anne-bebek davranışlarından biri <u>değildir</u>?
+    - A-) Olağandışı görünüm
+    - B-) Olağandışı davranışlar ve olağandışı durumlar
+    - C-) Aşırı ağlama
+    - **Cevap D-) Bedensel temas**
+    - E-) Duygusal reddetme
+
+    > **Açıklama:** Bağlanmayı zorlaştıran faktörler; olağandışı görünüm, olağandışı davranışlar, aşırı ağlama ve duygusal reddetmedir. <b>Bedensel temas</b> ise bağlanmayı kolaylaştıran faktörlerden biridir.
 
     <hr />
 
@@ -1212,7 +1336,8 @@
     > **Açıklama:** Ayrılık protestosu ve yakınlık arayışı 5 ay civarında ortaya çıkmaktadır, 10 ayda ise daha belirgin hale gelir. Yaşlara göre bağlanma davranışları kronolojisine göre 10 ay değil, <b>5 ay</b> civarında ayrılık protestosu başlar. (Ancak kaynaklar 10 ayda belirginleştiğini de belirtir, burada 7-9 ay ifadesinin yanlış eşleşmesi daha belirgindir). Ayrılık protestosu genellikle 5 ayda başlar. <b>7-9 ay: Nedeni açıklanırsa bekleyebilme</b> ifadesi 7-9 ay aralığı için doğru kabul edilirken, 10 ay ifadesi ile ilgili bir kesin bilgi eksikliği veya hatalı sıralama söz konusudur. Fakat kaynaklarda 7-9 ayda 'nedeni açıklanırsa bekleyebilme' yer alırken, 10 ayda ayrılık protestosu beklenmez. <b>10 ay: Ayrılık protestosu ve yakınlık arayışı</b> ifadesi, protestonun daha belirginleştiği bir dönem olsa da, kronolojik sıralamada hata olma ihtimali nedeniyle diğer seçenekler kontrol edilmelidir. 7-9 ayda bekleyebilme yeteneği gelişir, bu da ayrılık protestosunun bir miktar hafiflemesi anlamına gelir. 10 ayda ayrılık protestosu zaten bellidir. Kaynaklara göre en kesin hata <b>7-9 ay: Nedeni açıklanırsa bekleyebilme</b> ifadesinin sıralamasıdır (7-9 ayda daha çok yabancı kaygısı belirginleşir, bekleyebilme daha sonra gelir). Ancak sorunun işaretlediği cevap 10. ay ifadesini içeren seçenektir: Ayrılık protestosu 5 ayda başlar ve 10 ayda belirginleşir. Sorunun işaretlediği varsayılan yanlışlık, ayrılık protestosunun asıl başlangıç zamanı ile ilgilidir.
 
     <hr />
-1. Dört yaş ve sonrasında ortaya çıkan bağlanma davranışları aşağıdakilerden hangisidir?
+
+2. Dört yaş ve sonrasında ortaya çıkan bağlanma davranışları aşağıdakilerden hangisidir?
     - A-) Bakıcının planını ve motivasyonunu anlayabilme
     - **Cevap B-) Sevgi ve güven gibi soyut düşüncelere dayanan ilişki kurabilme**
     - C-) Ayrılık protestosu ve yakınlık arayışı
@@ -1222,7 +1347,8 @@
     > **Açıklama:** 4 yaş ve üstü çocuklarda, bilişsel gelişim ilerledikçe, bağlanma davranışları soyut düşüncelere dayanmaya başlar. Bu dönemdeki bağlanma davranışı, <b>Sevgi ve güven gibi soyut düşüncelere dayanan ilişki kurabilme</b>dir.
 
     <hr />
-1. 7-9 ay arasında ortaya çıkan bağlanma davranışı aşağıdakilerden hangisidir? *(2 kez soruldu)*
+
+3. 7-9 ay arasında ortaya çıkan bağlanma davranışı aşağıdakilerden hangisidir?
     - A-) Sevgi ve güven gibi soyut düşüncelere dayanan ilişki kurabilme
     - B-) Ayrılık protestosu ve yakınlık arayışı
     - **Cevap C-) Nedeni açıklanırsa bekleyebilme**
@@ -1230,6 +1356,17 @@
     - E-) Bir kişiye tercihli yönelim
 
     > **Açıklama:** 7-9 ay aralığındaki bağlanma davranışı, çocuğun bakıcının dönüşüyle ilgili zihinsel temsiller oluşturmasıyla ilgili olan <b>Nedeni açıklanırsa bekleyebilme</b>dir.
+
+    <hr />
+
+4. 3-4 yaş arasında ortaya çıkan bağlanma davranışı aşağıdakilerden hangisidir?
+    - A-) Nedeni açıklanırsa bekleyebilme
+    - B-) Ayrılık protestosu ve yakınlık arayışı
+    - C-) Bir kişiye tercihli yönelim
+    - D-) Sevgi ve güven gibi soyut düşüncelere dayanan ilişki kurabilme
+    - **Cevap E-) Bakıcının planını ve motivasyonunu anlayabilme**
+
+    > **Açıklama:** 3-4 yaş arasında ortaya çıkan bağlanma davranışı, çocuğun bilişsel olarak bakıcının bakış açısını dikkate almaya başlamasıyla ilgili olan <b>Bakıcının planını ve motivasyonunu anlayabilme</b>dir.
 
     <hr />
 
@@ -1260,7 +1397,8 @@
     > **Açıklama:** Erikson, ilk psikososyal evre olan Temel güvene karşın güvensizlik evresini (<b>0-1 yaş</b>) bağlanmanın gelişimi için kilit bir dönem olarak kabul etmiştir. Bu dönemde bir bebeğin ihtiyaçlarına sürekli olarak cevap veren bakıcı, bebeğin güven duygusunu geliştirir.
 
     <hr />
-1. Bağlanmanın temelini beslenme ve bebeğin ihtiyaçlarına cevap vermek olarak açıklayan teori aşağıdakilerden hangisidir?
+
+2. Bağlanmanın temelini beslenme ve bebeğin ihtiyaçlarına cevap vermek olarak açıklayan teori aşağıdakilerden hangisidir?
     - **Cevap A-) Psikanalitik Teori**
     - B-) Bilişsel Gelişimsel Teori
     - C-) Etolojik Teori
@@ -1283,7 +1421,8 @@
     > **Açıklama:** <b>Öğrenme teorisi</b>, bağlanmanın koşullanma ilkeleri ile açıklandığı kuramdır. Bağlanma, öğrenilmiş davranışlar dizisi olarak görülür ve yiyecek tedarikinin (pekiştireç) bağlanmayı öğrenmenin temeli olduğu varsayılır.
 
     <hr />
-1. Bebek maymunların bağlanması üzerinde beslenme ve dokunsal uyarımın etkisini karşılaştıran teorisyen aşağıdakilerden hangisidir?
+
+2. Bebek maymunların bağlanması üzerinde beslenme ve dokunsal uyarımın etkisini karşılaştıran teorisyen aşağıdakilerden hangisidir?
     - A-) Freud
     - B-) Erikson
     - C-) Spitz
@@ -1306,7 +1445,8 @@
     > **Açıklama:** Bilişsel gelişim teorisine göre, bebek bağlanmadan önce tanıdık bakıcılarını yabancılardan ayırt edebilmeli ve nesne sürekliliğini kazanmalıdır. Bu yüzden bağlanma <b>7-9 aylık</b>ken ortaya çıkmaktadır.
 
     <hr />
-1. Bağlanmanın hızlanması bilişsel gelişim teorisinin hangi kavramı ile yakından ilişkilidir?
+
+2. Bağlanmanın hızlanması bilişsel gelişim teorisinin hangi kavramı ile yakından ilişkilidir?
     - **Cevap A-) Nesne sürekliliği**
     - B-) Şema
     - C-) Uyum
@@ -1316,7 +1456,8 @@
     > **Açıklama:** Bilişsel gelişim teorisine göre bağlanmanın hızlanması, bebeğin tanıdık bakıcıların kalıcı olduğunu (<b>Nesne sürekliliği</b>) fark etmesiyle yakından ilişkilidir.
 
     <hr />
-1. Bağlanmadan önce bebeğin tanıdık bakıcılarını yabancılardan ayırt edebilmesini vurgulayan teori aşağıdakilerden hangisidir?
+
+3. Bağlanmadan önce bebeğin tanıdık bakıcılarını yabancılardan ayırt edebilmesini vurgulayan teori aşağıdakilerden hangisidir?
     - A-) Psikanalitik Teori
     - B-) Öğrenme Teorisi
     - C-) Etolojik Teori
@@ -1352,7 +1493,8 @@
     > **Açıklama:** Gelişimsel sosyal nörobilim araştırmalarına göre, anne-bebek bağlılığının gelişiminde oksitosin ve <b>Vazopressin</b> nöropeptitleri önemli rol oynamaktadır.
 
     <hr />
-1. .....................sosyal bağlanma ve annelik bakımı ile ilişkili bir nöropeptitdir. Yukarıdaki cümledeki boşluğu doldurmak için en uygun ifade aşağıdakilerden hangisidir?
+
+2. .....................sosyal bağlanma ve annelik bakımı ile ilişkili bir nöropeptitdir. Yukarıdaki cümledeki boşluğu doldurmak için en uygun ifade aşağıdakilerden hangisidir?
     - **Cevap A-) Oksitosin**
     - B-) Tiroksin
     - C-) Testosteron
@@ -1377,7 +1519,8 @@
     > **Açıklama:** Bowlby, bağlanma kuramını oluştururken Freud’un; annenin rolü, erken çocukluk döneminin önemi ve ebeveyn kaybının psikolojik travmalara yol açması gibi görüşlerinden etkilenmiştir. Kaynaklarda, <b>ebeveynleri özellikle babası ile ilişkisi</b> gelişimi üzerindeki etkisi, Freud’un Bowlby’yi etkilediği görüşler arasında sayılmaz.
 
     <hr />
-1. Aşağıdakilerden hangisi Bowly’nin bağlanma kuramının temellerinden biri <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi Bowly’nin bağlanma kuramının temellerinden biri <u>değildir</u>?
     - A-) Bir çocuk yaşamın ilk iki yılında bağlanma figüründen sürekli bakım almalıdır.
     - B-) Çocuğun birincil bakıcı ile bağlanma ilişkisi içsel çalışan modelinin geliştirilmesine yol açar.
     - C-) Anne yoksunluğunun uzun vadeli sonuçları mevcuttur.
@@ -1387,7 +1530,8 @@
     > **Açıklama:** Bowlby’nin kuramının temelleri; doğuştan bağlanma ihtiyacı, içsel çalışan model, anne yoksunluğunun uzun vadeli sonuçları ve yaşamın ilk iki yılında sürekli bakım alma gerekliliğidir. <b>Bir çocuk yaşamın ilk beş yılında bağlanma figüründen sürekli bakım almalıdır</b> ifadesi Bowly’nin temellerinden biri değildir.
 
     <hr />
-1. Bowlby’nin Monotropi Hipotezi aşağıda verilenlerden hangisi ile ilgilidir?
+
+3. Bowlby’nin Monotropi Hipotezi aşağıda verilenlerden hangisi ile ilgilidir?
     - A-) Anne yoksunluğunun uzun vadeli sonuçları mevcuttur.
     - B-) Bir çocuk yaşamın ilk yılında bağlanma figüründen sürekli bakım almalıdır.
     - **Cevap C-) Çocuk doğuştan gelen birincil bağlanma figürüne bağlanma ihtiyacı içindedir.**
@@ -1397,7 +1541,8 @@
     > **Açıklama:** <b>Monotropi Hipotezi</b>, Bowly’nin kuramında geçen ve çocuğun doğuştan gelen birincil bağlanma figürüne bağlanma ihtiyacını ve bu kişinin içsel çalışan modelin temelini oluşturmasını ifade eden kavramdır.
 
     <hr />
-1. İçsel çalışan modeller kavramı aşağıdakilerden hangisine aittir?
+
+4. İçsel çalışan modeller kavramı aşağıdakilerden hangisine aittir?
     - A-) Spitz
     - B-) Freud
     - C-) Ainsworth
@@ -1420,7 +1565,8 @@
     > **Açıklama:** Bowlby’nin bağlanma aşamaları Ön bağlanma, Bağlanmanın başlangıcı, Açık bağlanma ve Hedefi düzeltilmiş ortaklığın oluşturulması olmak üzere dört basamaktan oluşmaktadır. <b>Çoklu bağlanma</b> evresi ise Schaffer ve Emerson’a ait bir bağlanma aşamasıdır.
 
     <hr />
-1. Bowlby’nin bağlanma aşamaları kaç basamaktan oluşmaktadır?
+
+2. Bowlby’nin bağlanma aşamaları kaç basamaktan oluşmaktadır?
     - A-) 2
     - B-) 3
     - **Cevap C-) 4**
@@ -1430,7 +1576,8 @@
     > **Açıklama:** Bowlby’nin bağlanma aşamaları; Ön bağlanma, Bağlanmanın başlangıcı, Açık bağlanma ve Hedefi düzeltilmiş ortaklığın oluşturulması olmak üzere <b>4</b> basamaktan oluşmaktadır.
 
     <hr />
-1. Bowly’in öne sürdüğü ön bağlanma aşaması ile ilgili verilenlerden hangisi <u>yanlıştır</u>?
+
+3. Bowly’in öne sürdüğü ön bağlanma aşaması ile ilgili verilenlerden hangisi <u>yanlıştır</u>?
     - A-) Doğum-8-12 hafta arası oluşur
     - B-) Anneye ve diğer insanlara, tanıdık veya tanıdık olmayanlara yanıt farklılaşmamaktadır.
     - C-) Bebekler tipik olarak bir kişiyi diğerinden ayırmaz.
@@ -1440,7 +1587,8 @@
     > **Açıklama:** Bowlby’nin Ön bağlanma aşaması doğumdan 8-12 haftaya kadar sürer. <b>0-6 hafta arası yaşanır</b> ifadesi Schaffer ve Emerson’un asosyal evresine aittir.
 
     <hr />
-1. Aşağıdakilerden hangisi Schaffer ve Emerson’un bağlanma aşamalarından biri <u>değildir</u>?
+
+4. Aşağıdakilerden hangisi Schaffer ve Emerson’un bağlanma aşamalarından biri <u>değildir</u>?
     - A-) Çoklu bağlanma evresi
     - B-) Rastgele bağlanma evresi
     - C-) Özel bağlanma evresi
@@ -1450,7 +1598,8 @@
     > **Açıklama:** Schaffer ve Emerson’un bağlanma aşamaları; Asosyal, Rastgele, Özel ve Çoklu bağlanmadır. <b>Açık bağlanma evresi</b> Bowlby’nin aşamalarından biridir.
 
     <hr />
-1. Aşağıdakilerden hangisi Schaffer ve Emerson’un bağlanma aşamalarındandır?
+
+5. Aşağıdakilerden hangisi Schaffer ve Emerson’un bağlanma aşamalarındandır?
     - A-) Açık bağlanma
     - B-) Hedefi düzeltilmiş ortaklığın oluşturulması
     - **Cevap C-) Çoklu bağlanma**
@@ -1460,7 +1609,8 @@
     > **Açıklama:** Schaffer ve Emerson’un bağlanma aşamaları Asosyal evre, Rastgele bağlanma evresi, Özel bağlanma evresi ve <b>Çoklu bağlanma evresi</b>nden oluşur. Diğer seçenekler Bowlby’nin aşamalarıdır.
 
     <hr />
-1. Aşağıdakilerden hangisi Schaffer ve Emerson’un öne sürdüğü asosyal bağlanma evresi ile ilgilidir?
+
+6. Aşağıdakilerden hangisi Schaffer ve Emerson’un öne sürdüğü asosyal bağlanma evresi ile ilgilidir?
     - A-) Doğum-8-12 hafta arası oluşur
     - B-) Anneye ve diğer insanlara, tanıdık veya tanıdık olmayanlara yanıt farklılaşmamaktadır.
     - C-) Bebekler tipik olarak bir kişiyi diğerinden ayırmaz.
@@ -1483,7 +1633,8 @@
     > **Açıklama:** Bowlby’ye göre anneden ayrılığa gösterilen tepkinin aşamaları sırasıyla <b>Protesto aşaması</b>, <b>Umutsuzluk aşaması</b> ve <b>Kopma aşaması</b> olarak verilmiştir.
 
     <hr />
-1. Anne yoksunluğu konusunda çalışmaları dikkat çeken araştırmacı aşağıdakilerden hangisidir?
+
+2. Anne yoksunluğu konusunda çalışmaları dikkat çeken araştırmacı aşağıdakilerden hangisidir?
     - **Cevap A-) Spitz**
     - B-) Piaget
     - C-) Freud
@@ -1493,7 +1644,8 @@
     > **Açıklama:** <b>Spitz</b>, anneden ayrı kalan bebeklerde duygusal, bilişsel ve sosyal gelişim gerilikleri gözlemleyerek anne yoksunluğu konusunda çalışmaları dikkat çeken araştırmacılardan biridir.
 
     <hr />
-1. Aşağıdakilerden hangisi Bowly’nin anne yoksunluğunun uzun vadeli sonuçlarından biri <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi Bowly’nin anne yoksunluğunun uzun vadeli sonuçlarından biri <u>değildir</u>?
     - A-) Suçluluk
     - B-) Empati yoksunluğu
     - **Cevap C-) Bilişsel olgunluk**
@@ -1516,7 +1668,8 @@
     > **Açıklama:** Bebeklerin tanıdık olmayan biriyle karşılaştıklarında gösterdikleri sıkıntı, dikkat ve savaş <b>Yabancı kaygısı</b> olarak adlandırılmaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi çocukların yabancı kaygısını artıran faktörlerden biridir?
+
+2. Aşağıdakilerden hangisi çocukların yabancı kaygısını artıran faktörlerden biridir?
     - A-) Aşina olunan ortamlar (ev)
     - B-) Tanıdık figüre yakın fiziksel yakınlık
     - C-) Tanıdık figürden yabancıya pozitif ve destekleyici tepkiler
@@ -1541,12 +1694,13 @@
     > **Açıklama:** Mary Ainsworth’un bir yaş civarındaki bebeklerin bağlanmasını değerlendirmek için geliştirdiği standart laboratuvar tekniği olan yabancı ortam deneyi, <b>8 aşamadan</b> oluşmaktadır.
 
     <hr />
-1. Yabancı ortam deneyi ile ilgili verilenlerden hangisi <u>yanlıştır</u>?
-    - A-) 3\. aşamada değerlendirilen bağlanma davranışı yabancı kaygısıdır.
-    - B-) 4\. aşamada değerlendirilen bağlanma davranışı ayrılık anksiyetesidir.
-    - **Cevap C-) 6\. aşamada değerlendirilen bağlanma davranışı rahatlık sağlama/rahatlatmadır.**
-    - D-) 6\. aşamada değerlendirilen bağlanma davranışı ayrılık anksiyetesidir.
-    - E-) 2\. aşamada değerlendirilen bağlanma davranışı ebeveynin güvenli bir üs olmasıdır.
+
+2. Yabancı ortam deneyi ile ilgili verilenlerden hangisi <u>yanlıştır</u>?
+    - A-) 3. aşamada değerlendirilen bağlanma davranışı yabancı kaygısıdır.
+    - B-) 4. aşamada değerlendirilen bağlanma davranışı ayrılık anksiyetesidir.
+    - **Cevap C-) 6. aşamada değerlendirilen bağlanma davranışı rahatlık sağlama/rahatlatmadır.**
+    - D-) 6. aşamada değerlendirilen bağlanma davranışı ayrılık anksiyetesidir.
+    - E-) 2. aşamada değerlendirilen bağlanma davranışı ebeveynin güvenli bir üs olmasıdır.
 
     > **Açıklama:** Yabancı ortam deneyinde 6. aşamada ebeveyn geri döner ve bebek rahatlar. Yanlış olan ifade, <b>6. aşamada değerlendirilen bağlanma davranışı rahatlık sağlama/rahatlatmadır</b> ifadesidir (Çünkü bu ifade, 6. aşamanın ayrılık anksiyetesi olduğu iddiasını yanlışlayan bir seçenektir, ancak kaynaklarda bu ifadenin yanlış olduğu belirtilmiştir. 6. aşama yeniden birleşmedir, burada rahatlık sağlama değerlendirilir, ancak sorunun işaretlediği cevap bu ifadeyi yanlış kabul etmektedir).
 
@@ -1564,7 +1718,8 @@
     > **Açıklama:** Mary Ainsworth ve meslektaşları tarafından tanımlanan dört temel bağlanma stili mevcuttur: Güvenli, Güvensiz-kaçınmacı, Güvensiz-dirençli/karşı koyucu ve Güvensiz-dağınık/yönü belirsiz. <b>İçgüdüsel bağlanma</b> bu stillerden biri değildir.
 
     <hr />
-1. Çoğunlukla anneden ayrılma konusunda üzgün olmayıp ve ayrılıktan sonra tekrar bir araya geldiklerinde bile annesine yaklaşmama eğilimi göstermektedir. Verilen açıklama hangi bağlanma stili ile ilgilidir?
+
+2. Çoğunlukla anneden ayrılma konusunda üzgün olmayıp ve ayrılıktan sonra tekrar bir araya geldiklerinde bile annesine yaklaşmama eğilimi göstermektedir. Verilen açıklama hangi bağlanma stili ile ilgilidir?
     - **Cevap A-) Güvensiz-kaçınmacı (A modeli) bağlanma**
     - B-) Güvenli (B modeli) bağlanma
     - C-) Güvensiz-kararsız (C modeli) bağlanma
@@ -1574,7 +1729,8 @@
     > **Açıklama:** Bu davranışlar, anneden ayrılıkta çok az sıkıntı gösterme ve tekrar birleşmede bakıcıdan kaçınma eğilimi gösterme özellikleri ile <b>Güvensiz-kaçınmacı (A modeli) bağlanma</b> stiliyle ilgilidir.
 
     <hr />
-1. Yakın zamanda keşfedilen bağlanma modeli yabancı ortamda en çok stres altında olan ve en güvensiz görünen Amerikalı bebeklerin %5-15'ini kapsar. Verilen açıklama hangi bağlanma stili ile ilgilidir?
+
+3. Yakın zamanda keşfedilen bağlanma modeli yabancı ortamda en çok stres altında olan ve en güvensiz görünen Amerikalı bebeklerin %5-15'ini kapsar. Verilen açıklama hangi bağlanma stili ile ilgilidir?
     - A-) Güvensiz-kaçınmacı (A modeli) bağlanma
     - B-) Güvenli (B modeli) bağlanma
     - C-) Güvensiz-kararsız (C modeli) bağlanma
@@ -1584,7 +1740,8 @@
     > **Açıklama:** Bu tanım, yabancı ortamda en çok stres altında olan ve istismar/ihmal ile ilişkilendirilen <b>Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma</b> stiline aittir. Bu stil Amerikalı bebeklerin yaklaşık %5-15'ini kapsar.
 
     <hr />
-1. Bunlar genellikle bakıcıların sorun olarak görmediği çocuklardır. Varsa bağlanma figürlerine yakınlık fırsatını değerlendirmek için öfkelerini bastırmayı ve dikkatli olmayı öğrenir ancak böyle bir yakınlığın güvenilmez olduğunu ve dikkat isteyenlerin kazanamayacağını öğrenmiştir. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?
+
+4. Bunlar genellikle bakıcıların sorun olarak görmediği çocuklardır. Varsa bağlanma figürlerine yakınlık fırsatını değerlendirmek için öfkelerini bastırmayı ve dikkatli olmayı öğrenir ancak böyle bir yakınlığın güvenilmez olduğunu ve dikkat isteyenlerin kazanamayacağını öğrenmiştir. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?
     - **Cevap A-) Güvensiz-kaçınmacı (A modeli) bağlanma**
     - B-) Güvenli (B modeli) bağlanma
     - C-) Güvensiz-kararsız (C modeli) bağlanma
@@ -1594,7 +1751,8 @@
     > **Açıklama:** Bu özellikler, yakınlığın güvenilmez olduğunu öğrenmiş, öfkesini bastıran ve dışarıdan 'sorunsuz' görünen <b>Güvensiz-kaçınmacı (A modeli) bağlanma</b> stiline sahip çocukları tanımlamaktadır. Bu çocuklar içsel olarak kendilerini sevmeye layık olarak görmezler.
 
     <hr />
-1. Yaşamlarında hiçbir yetişkin bağlanma figürünün güvenilir olmadığı düşüncesine sahip ve sıklıkla istismar veya ihmal gören çocuklardır. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?
+
+5. Yaşamlarında hiçbir yetişkin bağlanma figürünün güvenilir olmadığı düşüncesine sahip ve sıklıkla istismar veya ihmal gören çocuklardır. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?
     - A-) Güvensiz-kaçınmacı (A modeli) bağlanma
     - B-) Güvenli (B modeli) bağlanma
     - C-) Güvensiz-kararsız (C modeli) bağlanma
@@ -1604,7 +1762,8 @@
     > **Açıklama:** Sıklıkla istismar veya ihmal gören ve hiçbir yetişkinin güvenilir olmadığı düşüncesine sahip olan çocuklar, <b>Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma</b> stiline sahip olmaları söz konusudur. Bu bağlanma örüntüsünün altında yatan nedenin bakım verenden korkma olduğu belirtilir.
 
     <hr />
-1. Aşağıdakilerden hangisi güvensiz-dirençli/karşı koyucu bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biri <u>değildir</u>?
+
+6. Aşağıdakilerden hangisi güvensiz-dirençli/karşı koyucu bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biri <u>değildir</u>?
     - A-) Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke
     - B-) Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk
     - C-) Yabancı tarafından rahatlatılmaya direnç gösterme
@@ -1614,7 +1773,8 @@
     > **Açıklama:** Güvensiz-dirençli/karşı koyucu bağlanan çocuklar, ebeveynlerinin gidişinden büyük sıkıntı duyar. <b>Bakıcının ayrılmasından dolayı üzüntü duymama</b> davranışı, Güvensiz-kaçınmacı bağlanma stiline ait bir özelliktir.
 
     <hr />
-1. Aşağıdakilerden hangisi yanlıştır? (Bağlanma stili yüzdeleri)
+
+7. Aşağıdakilerden hangisi yanlıştır? (Bağlanma stili yüzdeleri)
     - A-) Amerikalı bebeklerin %5-15’i güvensiz-dağınık/yönü belirsiz bağlanma göstermektedir.
     - **Cevap B-) Bir yaşındakilerin yaklaşık %10’u güvensiz-kaçınmacı bir bağ sergilemektedir.**
     - C-) Bir yaşındaki Amerikalı bebeklerin yaklaşık %60-65’i güvenli bağlanma stiline sahiptir.
@@ -1624,7 +1784,8 @@
     > **Açıklama:** Yanlış ifade <b>Bir yaşındakilerin yaklaşık %10’u güvensiz-kaçınmacı bir bağ sergilemektedir</b> ifadesidir. Kaynaklara göre Güvensiz-kaçınmacı bağlanma stili sergileyen bir yaşındakilerin yaklaşık %20'sidir.
 
     <hr />
-1. Aşağıdakilerden hangisi güvenli bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biridir?
+
+8. Aşağıdakilerden hangisi güvenli bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biridir?
     - A-) Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke
     - B-) Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk
     - C-) Yabancı tarafından rahatlatılmaya direnç gösterme
@@ -1673,7 +1834,8 @@
     > **Açıklama:** Karşı koyucu (Güvensiz-dirençli) bağlanma stili, genellikle <b>Tutarsız, genellikle yanıt vermeyen (örneğin, depresif) ebeveynlik stili</b> ile ilişkilidir.
 
     <hr />
-1. Aşağıdakilerden hangisi Ainsworth’un çocuğun bağlanma stilleriyle ilişkili anne davranışları boyutlarından biri <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi Ainsworth’un çocuğun bağlanma stilleriyle ilişkili anne davranışları boyutlarından biri <u>değildir</u>?
     - A-) Ulaşılabilir / umursamaz
     - **Cevap B-) Güvenli / güvensiz**
     - C-) Duyarlı / duyarsız
@@ -1683,7 +1845,8 @@
     > **Açıklama:** Ainsworth, bağlanma stilleriyle ilişkili anne davranışlarını Duyarlı/duyarsız, Kabul/red, İşbirlikçi/çatışmacı ve Ulaşılabilir/umursamaz olmak üzere dört boyutta incelemiştir. <b>Güvenli / güvensiz</b> kavramı ise çocukların geliştirdiği bağlanma stillerini tanımlamak için kullanılır, annenin davranış boyutu değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi güvensiz bağlanma stili ile ilgili ebeveynlik stillerinden biri <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi güvensiz bağlanma stili ile ilgili ebeveynlik stillerinden biri <u>değildir</u>?
     - **Cevap A-) Hassas, duyarlı**
     - B-) Korkutan (örneğin, aşırı ezen)
     - C-) Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)
@@ -1693,7 +1856,8 @@
     > **Açıklama:** <b>Hassas, duyarlı</b> ebeveynlik stili, güvenli bağlanma ile ilişkilidir. Güvensiz bağlanma stilleri ise reddeden, tutarsız, korkutan veya ürküten ebeveynlik stilleriyle ilişkilidir.
 
     <hr />
-1. Aşağıdakilerden hangisi kaçınmacı bağlanma stili ile ilgili ebeveynlik stilidir?
+
+4. Aşağıdakilerden hangisi kaçınmacı bağlanma stili ile ilgili ebeveynlik stilidir?
     - A-) Ürküten (örneğin, taciz eden)
     - B-) Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)
     - C-) Korkutan (örneğin, aşırı ezen)
@@ -1718,7 +1882,8 @@
     > **Açıklama:** Oyunun sosyal gelişime sağladığı yararlar arasında duyguları ifade etme, iş birliği ve paylaşma yer alır. <b>Nesnelerin özelliklerini araştırarak keşfedebilmesi</b> ise bilişsel gelişime daha çok katkı sağlayan bir alandır.
 
     <hr />
-1. Aşağıdakilerden hangisi oyunun özellikleri ile ilgili <u>yanlış</u> bir bilgidir?
+
+2. Aşağıdakilerden hangisi oyunun özellikleri ile ilgili <u>yanlış</u> bir bilgidir?
     - A-) Oyun çocuklara özgür seçim yapma hakkı veren aktif bir eylemdir.
     - B-) Oyun içten güdümlüdür.
     - **Cevap C-) Oyun süreç odaklı değil sonuç odaklı bir eylemdir.**
@@ -1731,7 +1896,7 @@
 
 ### 12.2. Oyun Sürecinde Dikkat Edilmesi Gereken Noktalar
 
-1. Aşağıdakilerden hangisi çocuk oyun oynarken yetişkinin yapması gerekenlerden biridir? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi çocuk oyun oynarken yetişkinin yapması gerekenlerden biridir?
     - A-) Çocuğun oyununa karışmak
     - B-) Çocuğun oyununda sonuca odaklanmak
     - **Cevap C-) Çocuğu ciddi bir şekilde gözlemlemek**
@@ -1739,6 +1904,17 @@
     - E-) Çocuğu oyun oynarken eleştirmek
 
     > **Açıklama:** Yetişkinin oyun sırasında yapması gerekenler arasında, çocuğun deneyimlerini anlamak ve destek sağlamak için <b>Çocuğu ciddi bir şekilde gözlemlemek</b> yer alır. Oyuna karışmak veya eleştirmek çocuğun gelişimine zarar verir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi çocuk oyun oynarken yetişkinin yapması gerekenlerden biri <u>değildir</u>?
+    - A-) İlginç bir açılım ya da uyarım sağlama amacıyla oyuna girmek
+    - B-) Oyunun sürdürülmesi amacıyla bir katılımcı olarak oyuna girmek
+    - C-) Oyuna hiç katılmayan çocuğa yardım etmek
+    - D-) Devam etmekte olan bir oyuna çocuğun girmesine yardım etmek
+    - **Cevap E-) Oyunu, dışarıdan verilecek talimatlarla yönlendirmek**
+
+    > **Açıklama:** Yetişkin, oyunu dışarıdan talimatlarla yönlendirerek çocuğun özgür seçim hakkını ve içten güdümlü doğasını bozmamalıdır. Bu, yetişkinin yapmaması gereken bir davranıştır.
 
     <hr />
 
@@ -1754,7 +1930,8 @@
     > **Açıklama:** Bu tür bir etkinlik (Duygu Çalışması), çocukların duygusal farkındalıklarını, duygularını ifade etmelerini ve yönetmelerini gerektirdiği için daha çok <b>Duygusal</b> gelişim alanını destekler.
 
     <hr />
-1. “Hayatı seviyor musun?“, “Şu an istediğin yerde misin?“, “Seni ne rahatsız eder?“, “Mücadeleci misin?“ gibi soruların sorulduğu bir oyunda desteklenen davranışlar hangileridir?
+
+2. “Hayatı seviyor musun?“, “Şu an istediğin yerde misin?“, “Seni ne rahatsız eder?“, “Mücadeleci misin?“ gibi soruların sorulduğu bir oyunda desteklenen davranışlar hangileridir?
     - A-) Sorumluluk alma
     - B-) Özgüven becerisi geliştirme
     - C-) Duygularını kontrol edebilme

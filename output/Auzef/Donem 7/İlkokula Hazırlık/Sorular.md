@@ -1,19 +1,6 @@
-# İlkokula Hazırlık - Çıkmış Sorular
+# İlkokula Hazırlık - Sorular
 
 ## Ünite 1
-
-### 1.1.1. Hazırbulunuşluk Ölçütleri
-
-1. Aşağıdakilerden hangisi MEB tarafından okul öncesi eğitim programında çocukta bulunması gereken hazırbulunuşluk ölçütleri arasında <u>yer almamaktadır</u>?
-    - A-) Çocuğun kendi temizliğini yapabilmesi
-    - **Cevap B-) Çocuğun anne ve evden kopmaması**
-    - C-) Çocuğun sorumluluk almaktan korkmaması
-    - D-) Çocuğun teneffüste kendini koruyabilmesi
-    - E-) Çocuğun öğretmenle iletişim kurabilmesi
-
-    > **Açıklama:** İlkokul Öğretim Programlarında beklenen yeterlilikler arasında, çocuğun <b>anneden ayrı oldukları için üzüntü duymaları</b> <u>yer almaz</u>. Aksine, anneden kolay ayrılabilmesi beklenir.
-
-    <hr />
 
 ### 1.1. Hazır Oluş-Hazırbulunuşluk
 
@@ -25,6 +12,19 @@
     - E-) Olgunlaşma
 
     > **Açıklama:** Hazırbulunuşluk, en genel ifadeyle çocuğun yeni öğrenmeleri gerçekleştirebilmesi için kendisinde aranan <b>bilişsel, duyuşsal ve devinişsel yeterlilikler</b> olarak tanımlanmaktadır.
+
+    <hr />
+
+### 1.1.1. Hazırbulunuşluk Ölçütleri
+
+1. Aşağıdakilerden hangisi MEB tarafından okul öncesi eğitim programında çocukta bulunması gereken hazırbulunuşluk ölçütleri arasında <u>yer almamaktadır</u>?
+    - A-) Çocuğun kendi temizliğini yapabilmesi
+    - **Cevap B-) Çocuğun anne ve evden kopmaması**
+    - C-) Çocuğun sorumluluk almaktan korkmaması
+    - D-) Çocuğun teneffüste kendini koruyabilmesi
+    - E-) Çocuğun öğretmenle iletişim kurabilmesi
+
+    > **Açıklama:** İlkokul Öğretim Programlarında beklenen yeterlilikler arasında, çocuğun <b>anneden ayrı oldukları için üzüntü duymaları</b> <u>yer almaz</u>. Aksine, anneden kolay ayrılabilmesi beklenir.
 
     <hr />
 
@@ -40,7 +40,8 @@
     > **Açıklama:** Hazırbulunuşluğu etkileyen faktörler arasında Bilişsel (Zekâ, Dil), Duygusal ve Çevresel Etmenler (Ebeveyn-çocuk, Akran-çocuk) yer alır. <b>Öğretmen-çocuk ilişkisi</b> ise hazırbulunuşluğu etkileyen temel faktörler arasında sayılmaz.
 
     <hr />
-1. Aşağıdakilerden hangisi çocukta hazırbulunuşluğu etkileyen etmenlerden birisi <u>olamaz</u>?
+
+2. Aşağıdakilerden hangisi çocukta hazırbulunuşluğu etkileyen etmenlerden birisi <u>olamaz</u>?
     - A-) Biyolojik etmenler
     - B-) Duygusal etmenler
     - C-) Çevresel etmenler
@@ -48,6 +49,19 @@
     - **Cevap E-) Öz düzenleyici etmenler**
 
     > **Açıklama:** Hazırbulunuşluğu etkileyen etmenler arasında Biyolojik, Bilişsel, Çevresel, Duygusal Etmenler ve Özbakım Becerileri yer almaktadır. <b>Öz düzenleyici etmenler</b> bu sınıflandırmada <u>yer almaz</u>.
+
+    <hr />
+
+### 1.3. Hazırbulunuşluk Değerlendirme Kuramları
+
+1. Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında <u>yer almamaktadır</u>?
+    - A-) Sosyal yapılandırmacı kuram
+    - B-) Çevreselci kuram
+    - **Cevap C-) Bilişselci kuram**
+    - D-) Olgunlaşmacı kuram
+    - E-) Etkileşimci kuram
+
+    > **Açıklama:** Hazırbulunuşluğu değerlendiren kuramlar; Olgunlaşmacı kuram, Çevreselci kuram, Sosyal yapılandırmacı kuram ve Etkileşimci kuramdır. <b>Bilişselci kuram</b>, bu dört temel kuram arasında <u>yer almaz</u>.
 
     <hr />
 
@@ -74,19 +88,6 @@
     - E-) Önceki değerlendirmelerin dikkate alınması
 
     > **Açıklama:** Sosyal yapılandırmacı kuram, hazırbulunuşluğun sosyal ve kültürel yapıdan etkilendiğini savunur. Bu nedenle, <b>Kültürel farklılıkların göz ardı edilmesi</b> bu kuramın temel dayanağına <u>aykırıdır</u>.
-
-    <hr />
-
-### 1.3. Hazırbulunuşluk Değerlendirme Kuramları
-
-1. Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında <u>yer almamaktadır</u>?
-    - A-) Sosyal yapılandırmacı kuram
-    - B-) Çevreselci kuram
-    - **Cevap C-) Bilişselci kuram**
-    - D-) Olgunlaşmacı kuram
-    - E-) Etkileşimci kuram
-
-    > **Açıklama:** Hazırbulunuşluğu değerlendiren kuramlar; Olgunlaşmacı kuram, Çevreselci kuram, Sosyal yapılandırmacı kuram ve Etkileşimci kuramdır. <b>Bilişselci kuram</b>, bu dört temel kuram arasında <u>yer almaz</u>.
 
     <hr />
 
@@ -156,7 +157,8 @@
     > **Açıklama:** Erken okuryazarlık becerilerinin temel amacı, çocuğa ilkokulda <b>okuma-yazma sürecine yardımcı olacak temel bilgi ve becerileri kazandırmak</b>tır.
 
     <hr />
-1. Aşağıdakilerden hangisi erken okuryazarlık becerilerinin okul öncesi dönemde edinilmesindeki avantajlardan biri <u>olamaz</u>?
+
+2. Aşağıdakilerden hangisi erken okuryazarlık becerilerinin okul öncesi dönemde edinilmesindeki avantajlardan biri <u>olamaz</u>?
     - A-) İlkokul 1. sınıfta okuma-yazmanın kolaylaşması
     - B-) İlerleyen yıllarda akademik becerilerin olumlu etkilenmesi
     - C-) İlerleyen yıllarda iyi bir okur-yazar olması
@@ -164,6 +166,19 @@
     - **Cevap E-) Akranlarından önce okuyabildiğinden onlarla tartışma yaşaması**
 
     > **Açıklama:** Erken okuryazarlık, akademik ve sosyal başarıyı artırır. Ancak <b>Akranlarından önce okuyabildiğinden onlarla tartışma yaşaması</b>, beklenen olumlu bir sonuç <u>değildir</u>.
+
+    <hr />
+
+### 2.3. Erken Okuryazarlık Bileşenleri
+
+1. Aşağıdakilerden hangisi erken okuryazarlık bileşenlerinden biri <u>değildir</u>?
+    - A-) Harf / alfabe bilgisi
+    - **Cevap B-) Cümle bilgisi**
+    - C-) Yazı/ baskı farkındalığı
+    - D-) Ses bilgisel farkındalık
+    - E-) Sözcük bilgisi
+
+    > **Açıklama:** Erken okuryazarlıkta temel bileşenler; harf/alfabe bilgisi, yazı/baskı farkındalığı, ses bilgisel farkındalık ve sözcük bilgisidir. <b>Cümle bilgisi</b>, daha ileri okuryazarlık aşamalarında önem kazanan bir bileşendir, ancak erken okuryazarlıkta temel bileşenler arasında <u>yer almaz</u>.
 
     <hr />
 
@@ -179,7 +194,8 @@
     > **Açıklama:** Yazı farkındalığı kazanmak için <b>sözcük bilgisi, harf bilgisi ve yazı kuralları</b> gibi becerilerin hepsi gereklidir.
 
     <hr />
-1. Erken okuryazarlık bileşenlerinden yazı ve baskı farkındalığında aşağıdakilerden hangisi <u>öğrenilmez</u>?
+
+2. Erken okuryazarlık bileşenlerinden yazı ve baskı farkındalığında aşağıdakilerden hangisi <u>öğrenilmez</u>?
     - **Cevap A-) Kelimelerin sağdan sola ve yukarıdan aşağıya okunması**
     - B-) Kitabın nasıl tutulacağının öğrenilmesi
     - C-) Cümlelerin sonunda noktalama işaretlerinin olduğunun öğrenilmesi
@@ -200,19 +216,6 @@
     - **Cevap E-) 4-5 yaş**
 
     > **Açıklama:** Alfabetik bilgiye dayalı olarak harfleri tanıma becerileri çoğunlukla <b>4-5 yaş aralığında</b> gelişim göstermektedir.
-
-    <hr />
-
-### 2.3. Erken Okuryazarlık Bileşenleri
-
-1. Aşağıdakilerden hangisi erken okuryazarlık bileşenlerinden biri <u>değildir</u>?
-    - A-) Harf / alfabe bilgisi
-    - **Cevap B-) Cümle bilgisi**
-    - C-) Yazı/ baskı farkındalığı
-    - D-) Ses bilgisel farkındalık
-    - E-) Sözcük bilgisi
-
-    > **Açıklama:** Erken okuryazarlıkta temel bileşenler; harf/alfabe bilgisi, yazı/baskı farkındalığı, ses bilgisel farkındalık ve sözcük bilgisidir. <b>Cümle bilgisi</b>, daha ileri okuryazarlık aşamalarında önem kazanan bir bileşendir, ancak erken okuryazarlıkta temel bileşenler arasında <u>yer almaz</u>.
 
     <hr />
 
@@ -241,7 +244,8 @@
     > **Açıklama:** Erken okuryazarlığı desteklemek, zengin çevre ve etkileşim gerektirir. Çocukların dil ve iletişim gelişimini aksatacağı için <b>Yetişkinlerin konuşmalarını sürekli kesmelerini sağlamak</b> yapılması gereken bir davranış <u>değildir</u>.
 
     <hr />
-1. Erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 12-24 ay arasında yapılabileceklerdendir?
+
+2. Erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 12-24 ay arasında yapılabileceklerdendir?
     - A-) Annesinin elinde en sevdiği kitabını görünce keyifli bir ses çıkarması
     - B-) Araba giderken yolda gördüğü sokak tabelalarını okuması
     - **Cevap C-) Annesi kitap okurken kitaptaki resimleri göstermesi**
@@ -251,7 +255,8 @@
     > **Açıklama:** Erken okuryazarlık eylemleri tablosuna göre, 12-24 ay aralığındaki çocuk, annesi ona kitap okurken <b>kitaptaki resimleri gösterme</b> eylemini gerçekleştirir.
 
     <hr />
-1. Erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 3 yaş ve sonrasındaki davranışlar arasında <u>yer almaz</u>?
+
+3. Erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 3 yaş ve sonrasındaki davranışlar arasında <u>yer almaz</u>?
     - A-) Çevredeki bazı logoları tanır.
     - B-) Sınıfta uydurma hecelemelerle yazdığı ilk resimli öyküyü sunar
     - C-) Annesi alışveriş listesi hazırlarken kendisi yazı yazma denemeleri yapar
@@ -261,7 +266,8 @@
     > **Açıklama:** Büyük ablası ve abisinin okuduğu kitaptan belli kelimeleri tekrarlama davranışı, genellikle 24-36 ay (2-3 yaş) aralığına ait bir eylemdir. Bu nedenle <b>3 yaş ve sonrasındaki</b> (3-6 yaş) davranışlar arasında <u>yer almaz</u>.
 
     <hr />
-1. Erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan “annesi alışveriş listesi hazırlarken, kendisi de yazı denemeleri yapar.” davranışı, aşağıdakilerden hangi yaş aralığında yer almaktadır?
+
+4. Erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan “annesi alışveriş listesi hazırlarken, kendisi de yazı denemeleri yapar.” davranışı, aşağıdakilerden hangi yaş aralığında yer almaktadır?
     - A-) 6-12 ay
     - B-) 3 yaş
     - C-) 24-36 ay
@@ -271,7 +277,8 @@
     > **Açıklama:** Çocuğun annesi alışveriş listesi hazırlarken kendisinin yazı denemeleri yapması davranışı <b>3-6 yaş</b> aralığında yer alan bir eylemdir.
 
     <hr />
-1. Çocukların erken okuryazarlık yaşantıları kazandığı alanlar arasında aşağıdakilerden hangisi <u>yer almaz</u>?
+
+5. Çocukların erken okuryazarlık yaşantıları kazandığı alanlar arasında aşağıdakilerden hangisi <u>yer almaz</u>?
     - **Cevap A-) Aile ile tartışma yapma**
     - B-) Toplumsal alışveriş
     - C-) Teknoloji
@@ -294,7 +301,8 @@
     > **Açıklama:** <b>TOPEL</b> (Test of Preschool Early Literacy), okul öncesi dönemdeki çocukların okuma ve yazma hazırbulunuşluk düzeylerini ölçmek için kullanılan bir değerlendirme aracıdır. TOPEL, öğrencilerin <b>Yazı Bilgisi, Kelime Tanımlama ve Fonolojik Farkındalık</b> gibi temel okuma ve yazma becerilerini ölçer.
 
     <hr />
-1. Aşağıdaki erken okuryazarlık becerilerinden hangileri ulusal değerlendirme araçlarından biri olan “EROT” ile <u>ölçülemez</u>?
+
+2. Aşağıdaki erken okuryazarlık becerilerinden hangileri ulusal değerlendirme araçlarından biri olan “EROT” ile <u>ölçülemez</u>?
     - A-) İfade edici dilde sözcük bilgisi
     - B-) Alıcı dilde sözcük bilgisi
     - C-) Dinlediğini anlama
@@ -306,6 +314,19 @@
     <hr />
 
 ## Ünite 3
+
+### 3.1. Okula Uyum Programlarının Kuramsal Temelleri
+
+1. Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer <u>almaz</u>?
+    - A-) Ekzosistem
+    - B-) Koronosistem
+    - C-) Mezosistem
+    - D-) Mikrosistem
+    - **Cevap E-) Atmosistem**
+
+    > **Açıklama:** Okula uyum programlarının dayandığı Ekolojik Sistemler Kuramı'nda Mikrosistem, Mezosistem, Ekzosistem, Makrosistem ve Kronosistem yer alır. Bu kuramın temel kavramları arasında <b>Atmosistem</b> <u>yer almaz</u>.
+
+    <hr />
 
 ### 3.1.1. Mikrosistem
 
@@ -320,16 +341,16 @@
 
     <hr />
 
-### 3.1. Okula Uyum Programlarının Kuramsal Temelleri
+### 3.2. Okula Uyum Programı Temel Özellikleri
 
-1. Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer <u>almaz</u>?
-    - A-) Ekzosistem
-    - B-) Koronosistem
-    - C-) Mezosistem
-    - D-) Mikrosistem
-    - **Cevap E-) Atmosistem**
+1. Okula uyum programının temel ilkeleri arasında aşağıdakilerden hangisi yer <u>almaz</u>?
+    - A-) Paydaşlarla iş birliği
+    - **Cevap B-) Öğretmenin merkez olması**
+    - C-) Okula uyum programını özümseme
+    - D-) Okula uyum programını değerlendirme
+    - E-) Çocuğu ve aileyi tanıma
 
-    > **Açıklama:** Okula uyum programlarının dayandığı Ekolojik Sistemler Kuramı'nda Mikrosistem, Mezosistem, Ekzosistem, Makrosistem ve Kronosistem yer alır. Bu kuramın temel kavramları arasında <b>Atmosistem</b> <u>yer almaz</u>.
+    > **Açıklama:** Okula uyum programının temel ilkeleri; Çocuğu ve Aileyi Tanıma, Çocuğu Merkeze Alma, Paydaşlarla İş Birliği Yapma ve Programı Değerlendirmedir. Programın merkezinde çocuk yer alırken, <b>Öğretmenin merkez olması</b> ilkesi <u>yer almaz</u>.
 
     <hr />
 
@@ -359,16 +380,16 @@
 
     <hr />
 
-### 3.2. Okula Uyum Programı Temel Özellikleri
+### 3.3. Okula Uyum Programı Boyutları
 
-1. Okula uyum programının temel ilkeleri arasında aşağıdakilerden hangisi yer <u>almaz</u>?
-    - A-) Paydaşlarla iş birliği
-    - **Cevap B-) Öğretmenin merkez olması**
-    - C-) Okula uyum programını özümseme
-    - D-) Okula uyum programını değerlendirme
-    - E-) Çocuğu ve aileyi tanıma
+1. Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?
+    - A-) Hazır çocuk ve hazır okul
+    - B-) Hazır müdür, hazır çocuk, hazır aile
+    - C-) Hazır müdür ve hazır aile
+    - **Cevap D-) Hazır aile, hazır çocuk, hazır okul**
+    - E-) Hazır aile ve hazır çocuk
 
-    > **Açıklama:** Okula uyum programının temel ilkeleri; Çocuğu ve Aileyi Tanıma, Çocuğu Merkeze Alma, Paydaşlarla İş Birliği Yapma ve Programı Değerlendirmedir. Programın merkezinde çocuk yer alırken, <b>Öğretmenin merkez olması</b> ilkesi <u>yer almaz</u>.
+    > **Açıklama:** Okula uyumun üç temel boyutu, <b>Hazır Aile, Hazır Çocuk ve Hazır Okul</b> olarak bir arada ve doğru biçimde verilmiştir.
 
     <hr />
 
@@ -384,7 +405,8 @@
     > **Açıklama:** Hazır çocuk boyutu; motor, sosyal-duyuşsal, fiziksel ve bilişsel gelişim alanlarını kapsar. <b>Psikolojik</b> gelişim, bu temel sınıflandırma içinde ayrı bir alan olarak <u>yer almaz</u>.
 
     <hr />
-1. “Motor gelişim, sosyal-duyuşsal gelişim, fiziksel gelişim ve bilişsel gelişim alanlarında hazır hale gelmesidir.” Buradaki hazır olma durumu okula uyum sürecinde aşağıdakilerden hangisi için geçerlidir?
+
+2. “Motor gelişim, sosyal-duyuşsal gelişim, fiziksel gelişim ve bilişsel gelişim alanlarında hazır hale gelmesidir.” Buradaki hazır olma durumu okula uyum sürecinde aşağıdakilerden hangisi için geçerlidir?
     - A-) Hazır okul
     - B-) Hazır bebek
     - C-) Hazır aile
@@ -405,19 +427,6 @@
     - E-) Eğitim kurumuyla iş birliği kuran
 
     > **Açıklama:** Okula hazır aile; çocuğun öz güvenini destekleyen ve gelişim özelliklerini bilen ailedir. <b>Çocuğun karşılaşabileceği her tür uyarıcıyı çevreden kaldıran</b> aşırı korumacı tutum, hazır ailenin özelliği <u>değildir</u>.
-
-    <hr />
-
-### 3.3. Okula Uyum Programı Boyutları
-
-1. Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?
-    - A-) Hazır çocuk ve hazır okul
-    - B-) Hazır müdür, hazır çocuk, hazır aile
-    - C-) Hazır müdür ve hazır aile
-    - **Cevap D-) Hazır aile, hazır çocuk, hazır okul**
-    - E-) Hazır aile ve hazır çocuk
-
-    > **Açıklama:** Okula uyumun üç temel boyutu, <b>Hazır Aile, Hazır Çocuk ve Hazır Okul</b> olarak bir arada ve doğru biçimde verilmiştir.
 
     <hr />
 
@@ -500,7 +509,8 @@
     > **Açıklama:** Okul Öncesi Eğitimi Programı çocuk merkezli, esnek, dengeli ve oyun temellidir. Aynı zamanda program, <b>Keşfederek öğrenmeyi</b> <u>önemser</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi okul öncesi eğitim programı özellikleri arasında <u>yer almamaktadır</u>?
+
+2. Aşağıdakilerden hangisi okul öncesi eğitim programı özellikleri arasında <u>yer almamaktadır</u>?
     - A-) Rehberlik hizmetine önem vermesi
     - **Cevap B-) Akademik başarıyı temel alması**
     - C-) Keşfederek öğrenmeyi hedeflemesi
@@ -510,7 +520,8 @@
     > **Açıklama:** Okul öncesi eğitim programı, Rehberlik hizmetine önem verir, oyun temelli ve yaratıcılık odaklıdır. Ancak, <b>Akademik başarıyı temel alması</b> programın özellikleri arasında <u>yer almamaktadır</u>.
 
     <hr />
-1. Aşağıdaki yeterliliklerden hangisi İlkokul Öğretim Programlarında çocukların ilkokula başlamaları için gereken yeterlilikler arasında <u>yer almaz</u>?
+
+3. Aşağıdaki yeterliliklerden hangisi İlkokul Öğretim Programlarında çocukların ilkokula başlamaları için gereken yeterlilikler arasında <u>yer almaz</u>?
     - **Cevap A-) Anneden ayrı oldukları için üzüntü duymaları**
     - B-) Tuvalet kontrolünü kazanmaları
     - C-) Kendi sorumluluklarının farkında olmaları ve bunları yerine getirmeleri
@@ -520,7 +531,8 @@
     > **Açıklama:** İlkokula başlama yeterlilikleri arasında, tuvalet kontrolü, sorumluluk bilinci, yönergelere uyma ve öz bakım becerileri yer alır. <b>Anneden ayrı oldukları için üzüntü duymaları</b>, beklenen bir yeterlilik <u>değildir</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi ilkokula hazırlık aşamasında çocuklarla yapılabilecek çalışmalar arasında <u>yer almaz</u>?
+
+4. Aşağıdakilerden hangisi ilkokula hazırlık aşamasında çocuklarla yapılabilecek çalışmalar arasında <u>yer almaz</u>?
     - A-) Sosyal çalışmalar
     - B-) Öz bakım becerileriyle ilgili çalışmalar
     - C-) Dil çalışmaları
@@ -530,7 +542,8 @@
     > **Açıklama:** İlkokula hazırlık çalışmaları; sosyal, öz bakım, dil ve fiziksel becerileri geliştirmeye odaklanır. <b>Psikolojik çalışmalar</b>, genellikle uzmanlar tarafından yürütülen spesifik süreçler olup, genel hazırlık aşamasında doğrudan <u>yer almaz</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi ilkokula hazırlık çalışmalarında yapılabilecek zihinsel çalışmalar arasında <u>yer almaz</u>?
+
+5. Aşağıdakilerden hangisi ilkokula hazırlık çalışmalarında yapılabilecek zihinsel çalışmalar arasında <u>yer almaz</u>?
     - A-) Dikkat çalışmaları
     - **Cevap B-) Kendi duygularını tanıma çalışmaları**
     - C-) Hafıza çalışmaları
@@ -540,7 +553,8 @@
     > **Açıklama:** Zihinsel çalışmalar; dikkat, hafıza, matematiksel beceriler ve bilimsel düşünme becerileri gibi unsurları içerir. <b>Kendi duygularını tanıma çalışmaları</b> ise duygusal/sosyal çalışmalar kapsamında yer alır.
 
     <hr />
-1. Aşağıdakilerden hangisi “sanat, okumaya hazırlık ve görsel materyal okuma” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>? *(2 kez soruldu)*
+
+6. Aşağıdakilerden hangisi “sanat, okumaya hazırlık ve görsel materyal okuma” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?
     - A-) Algıladıklarını hatırlar
     - B-) Günlük yaşam sembollerini tanır
     - C-) Görsel materyalleri okur
@@ -548,6 +562,30 @@
     - E-) Gösterilen sembolün anlamını söyler
 
     > **Açıklama:** Sanat ve okumaya hazırlık etkinlikleri genellikle algı, sembol tanıma ve görsel okuma üzerine odaklanır. <b>Eksilen veya eklenen nesneyi söyleme</b>, matematiksel beceri ve sayı kavramı ile ilgili bir kazanımdır.
+
+    <hr />
+
+### 4.2. Okul Öncesi Eğitimi ve İlkokul Programları Arasındaki İlişkiler
+
+1. İlkokulda ilk okuma yazmaya başlama ve ilerleme aşamasında aşağıdaki aşamalardan hangisi <u>yer almamaktadır</u>?
+    - **Cevap A-) Boyama ve çizgi çalışmaları**
+    - B-) Metin okuma
+    - C-) Harfi okuma ve yazma
+    - D-) Sesi hissetme ve tanıma
+    - E-) Harflerden hece oluşturma
+
+    > **Açıklama:** İlkokulda ilk okuma yazmaya başlama süreci, sesleri tanıma, harfleri öğrenme, hece oluşturma ve metin okumaya odaklanır. <b>Boyama ve çizgi çalışmaları</b> ise okul öncesi dönemin okuma yazmaya hazırlık aşamasında motor becerilerini destekleyici etkinliklerdir.
+
+    <hr />
+
+2. “Programlar ve sınıflar arasında ilerledikçe konuların daha detaylı bir hale gelmesi, fakat genel çerçevenin değişmeden öğrencilere sunulmasıdır.” cümlesinde anlatılan programların hangi ilkesidir?
+    - A-) Esneklik
+    - B-) Öğreticilik
+    - **Cevap C-) Sarmallık**
+    - D-) Yakınlık
+    - E-) Uzaklık
+
+    > **Açıklama:** Programların, sınıflar ilerledikçe konuların detaylanmasını, ancak genel çerçevenin korunmasını ifade eden ilke <b>Sarmallık</b>'tır.
 
     <hr />
 
@@ -563,7 +601,8 @@
     > **Açıklama:** Okul öncesi eğitim programı okuma-yazmaya hazırlık çalışmalarında harf öğretimi yapılmaz. <b>Harfleri gösterme ve yazdırma çalışmaları yaptırılması</b> <u>yanlıştır</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi “Türkçe ve Okuma-Yazmaya Hazırlık” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>? *(2 kez soruldu)*
+
+2. Aşağıdakilerden hangisi “Türkçe ve Okuma-Yazmaya Hazırlık” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?
     - A-) Dili iletişim amacıyla kullanır
     - **Cevap B-) Hece ve kelimeleri öğrenir**
     - C-) Okumanın günlük yaşamdaki önemini açıklar
@@ -586,7 +625,8 @@
     > **Açıklama:** Okul Öncesi Eğitimi Programı ve Hayat Bilgisi Öğretimi Programının temel ortak noktası, her ikisinin de çocukların <b>Günlük/ gerçek hayatla ilgili becerileri geliştirmesini</b> hedeflemesidir.
 
     <hr />
-1. Okul Öncesi Eğitimi ve Hayat Bilgisi Öğretimi Programlarında kazandırılabilecek ortak değerler arasında aşağıdakilerden hangisi yer almaktadır?
+
+2. Okul Öncesi Eğitimi ve Hayat Bilgisi Öğretimi Programlarında kazandırılabilecek ortak değerler arasında aşağıdakilerden hangisi yer almaktadır?
     - A-) Vatanseverlik
     - B-) Aile birliğine önem verme
     - C-) Adalet
@@ -596,7 +636,8 @@
     > **Açıklama:** Okul Öncesi Eğitimi ve Hayat Bilgisi Öğretimi Programlarında ortak olarak kazandırılabilecek değerler arasında Sevgi, Saygı, Sorumluluk, Dayanışma, <b>Paylaşma</b>, Hoşgörü, Yardımlaşma ve Özgüven yer alır.
 
     <hr />
-1. Aşağıdakilerden hangisi ilkokul hayat bilgisi dersinin kapsamında yer alan ana maddelerden biri <u>değildir</u>?
+
+3. Aşağıdakilerden hangisi ilkokul hayat bilgisi dersinin kapsamında yer alan ana maddelerden biri <u>değildir</u>?
     - A-) Doğa bilimleri
     - B-) Toplumsal bilimler
     - C-) Sanat
@@ -617,29 +658,6 @@
     - E-) Hacim kavramının gelişimi için çalışmalar yaptırılabilir.
 
     > **Açıklama:** Okul öncesi dönemde matematiksel çalışmalarda amaç temel kavramları (sayma, ölçme, hacim) kazandırmaktır. <b>Bölme ve çarpma işlemleri yapılabilir</b> ifadesi ileri düzey matematiksel işlemler olduğu için <u>yer almaz</u>.
-
-    <hr />
-
-### 4.2. Okul Öncesi Eğitimi ve İlkokul Programları Arasındaki İlişkiler
-
-1. İlkokulda ilk okuma yazmaya başlama ve ilerleme aşamasında aşağıdaki aşamalardan hangisi <u>yer almamaktadır</u>?
-    - **Cevap A-) Boyama ve çizgi çalışmaları**
-    - B-) Metin okuma
-    - C-) Harfi okuma ve yazma
-    - D-) Sesi hissetme ve tanıma
-    - E-) Harflerden hece oluşturma
-
-    > **Açıklama:** İlkokulda ilk okuma yazmaya başlama süreci, sesleri tanıma, harfleri öğrenme, hece oluşturma ve metin okumaya odaklanır. <b>Boyama ve çizgi çalışmaları</b> ise okul öncesi dönemin okuma yazmaya hazırlık aşamasında motor becerilerini destekleyici etkinliklerdir.
-
-    <hr />
-1. “Programlar ve sınıflar arasında ilerledikçe konuların daha detaylı bir hale gelmesi, fakat genel çerçevenin değişmeden öğrencilere sunulmasıdır.” cümlesinde anlatılan programların hangi ilkesidir?
-    - A-) Esneklik
-    - B-) Öğreticilik
-    - **Cevap C-) Sarmallık**
-    - D-) Yakınlık
-    - E-) Uzaklık
-
-    > **Açıklama:** Programların, sınıflar ilerledikçe konuların detaylanmasını, ancak genel çerçevenin korunmasını ifade eden ilke <b>Sarmallık</b>'tır.
 
     <hr />
 
@@ -683,7 +701,8 @@
     > **Açıklama:** 1936 Programı'nın eğitim durumları arasında **Ezberden kaçınma** esas alınmıştır. Bu nedenle <b>Ezberleyerek öğrenmenin önemini anlatma</b> ifadesi bu esaslardan biri <u>değildir</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi 1936 yılı ilkokul programının eğitim-öğretim ilkeleri arasında <u>yer almamaktadır</u>?
+
+2. Aşağıdakilerden hangisi 1936 yılı ilkokul programının eğitim-öğretim ilkeleri arasında <u>yer almamaktadır</u>?
     - **Cevap A-) Bilgi ve beceriler teorik olarak ele alınmalıdır.**
     - B-) Bütün dersler öğrenci düzeyine uygun olmalıdır.
     - C-) İlkokul milli bir eğitim kurumudur.
@@ -706,7 +725,8 @@
     > **Açıklama:** <b>1948 İlkokul Programı</b>, uygulamaya konulduğu 1 Kasım 1948 tarihinden itibaren 20 yıl süreyle uygulanmıştır ve bu haliyle Cumhuriyet tarihinin en uzun süre uygulanan programı olmuştur.
 
     <hr />
-1. Aşağıdakilerden hangisi 1948 yılı ilkokul programının genel amaç başlıkları arasında yer <u>almamaktadır</u>?
+
+2. Aşağıdakilerden hangisi 1948 yılı ilkokul programının genel amaç başlıkları arasında yer <u>almamaktadır</u>?
     - A-) Toplumsal
     - B-) Kişisel
     - C-) İnsan Münasebetleri
@@ -716,7 +736,8 @@
     > **Açıklama:** 1948 İlkokul Programının genel amaçları; “Toplumsal, Kişisel, İnsanlık Münasebetleri ve Ekonomik Hayat” başlıkları altında ele alınmıştır. Bu başlıklar arasında <b>Vicdan Münasebetleri</b> <u>yer almamaktadır</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi 1948 programındaki araç-gereçlerin sınıflandırılması başlığı altındaki maddeler arasında yer <u>almamaktadır</u>?
+
+3. Aşağıdakilerden hangisi 1948 programındaki araç-gereçlerin sınıflandırılması başlığı altındaki maddeler arasında yer <u>almamaktadır</u>?
     - A-) Uzmanlar veya işten anlayanlar
     - **Cevap B-) Ev araçları**
     - C-) Yardımcı araçlar
@@ -739,7 +760,8 @@
     > **Açıklama:** Öğretmenin hazırlayacağı **Yıllık Plan, Ünite Planı ve Günlük Planlar**'dan ilk olarak <b>1968 İlkokul Programı</b>’nın eğitim durumlarıyla ilgili olan kısımda bahsedilmiştir.
 
     <hr />
-1. Aşağıdakilerden hangisine 1968 ilkokul programının “yöntem ve teknikler” bölümünde yer <u>verilmemiştir</u>?
+
+2. Aşağıdakilerden hangisine 1968 ilkokul programının “yöntem ve teknikler” bölümünde yer <u>verilmemiştir</u>?
     - **Cevap A-) Buluş yoluyla öğretim**
     - B-) Anlatım yoluyla öğretim
     - C-) Soru-cevap yoluyla öğretim
@@ -749,7 +771,8 @@
     > **Açıklama:** 1968 İlkokul Programı’nın 'Yöntem ve Teknikler' kısmında anlatma, soru-cevap, proje ve deney gibi teknikler yer alırken, **Buluş yoluyla öğretim** bu bölümde açıkça <u>yer almamaktadır</u>.
 
     <hr />
-1. Cumhuriyet döneminde “ilk defa taslağı kullanılan program“ ve “bu programın taslağı“ sırasıyla hangi yıllarda düzenlenmiştir?
+
+3. Cumhuriyet döneminde “ilk defa taslağı kullanılan program“ ve “bu programın taslağı“ sırasıyla hangi yıllarda düzenlenmiştir?
     - A-) 1980 yılı taslak- 1982 yılı program
     - B-) 1946 yılı taslak- 1948 yılı program
     - C-) 1924 yılı taslak- 1926 yılı program
@@ -759,7 +782,8 @@
     > **Açıklama:** <b>1962 İlkokul Program Taslağı</b> okullarda denenmiş ve ardından geliştirilerek <b>1968 İlkokul Programı</b> olarak kabul edilmiştir. Bu, taslağı kullanılan ilk program ikilisidir.
 
     <hr />
-1. Aşağıdakilerden hangisi 1968 İlkokul Programı’nda Hayat Bilgisi dersi için belirtilen amaçlardan biridir?
+
+4. Aşağıdakilerden hangisi 1968 İlkokul Programı’nda Hayat Bilgisi dersi için belirtilen amaçlardan biridir?
     - A-) Sanatsal yetenekleri geliştirmek
     - B-) Matematiksel kavramları öğrenmek
     - **Cevap C-) Tabiat ve toplum yaşayışıyla ilgili olayları gözlemlemek**
@@ -767,6 +791,19 @@
     - E-) Çocukları sosyal bilimlere yönlendirmek
 
     > **Açıklama:** 1968 İlkokul Programı'nda Hayat Bilgisi dersinin amaçları arasında, çocuğun <b>Tabiat ve toplum yaşayışıyla ilgili olayları gözlemlemesi</b> yer almaktadır.
+
+    <hr />
+
+### 5.2. Yaklaşımların Etkisi Sonrası İlkokul Programlarına Genel Bir Bakış
+
+1. Aşağıdaki ilkokul programı ikililerinden hangileri sırasıyla, “davranışçı ve yapılandırmacı” yaklaşımların ilk olarak ortaya çıktığı programlardır?
+    - A-) 1948-2005
+    - **Cevap B-) 1998-2005**
+    - C-) 1936-2005
+    - D-) 1968-2018
+    - E-) 1998-2018
+
+    > **Açıklama:** Davranışçı yaklaşımın etkisinin yoğun olarak görüldüğü program <b>1998 İlköğretim Programı</b>’dır. Yapılandırmacı yaklaşımın belirgin olarak ilk kez ortaya çıktığı program ise <b>2005 İlköğretim Programı</b>’dır.
 
     <hr />
 
@@ -795,7 +832,8 @@
     > **Açıklama:** Halen uygulanmakta olan 2018 İlkokul Programı; <b>1, 2, 3 ve 4. sınıflardan oluşur</b> ve her sınıf düzeyinde haftalık toplam **30’ar saat** ders bulunmaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi 2018 İlkokul Programı’nın yeniliklerinden biridir?
+
+2. Aşağıdakilerden hangisi 2018 İlkokul Programı’nın yeniliklerinden biridir?
     - **Cevap A-) Bütünsel bir yaklaşımla dersler arası ilişki kurulması**
     - B-) Eski programlara geri dönüş
     - C-) Ezbere dayalı öğrenme yöntemleri
@@ -803,19 +841,6 @@
     - E-) Çevre eğitimine daha az yer verilmesi
 
     > **Açıklama:** 2018 İlkokul Programı’nın yeniliklerinden biri, **bütünsel bir yaklaşımla dersler arası ilişkiler kurulmasıdır**.
-
-    <hr />
-
-### 5.2. Yaklaşımların Etkisi Sonrası İlkokul Programlarına Genel Bir Bakış
-
-1. Aşağıdaki ilkokul programı ikililerinden hangileri sırasıyla, “davranışçı ve yapılandırmacı” yaklaşımların ilk olarak ortaya çıktığı programlardır?
-    - A-) 1948-2005
-    - **Cevap B-) 1998-2005**
-    - C-) 1936-2005
-    - D-) 1968-2018
-    - E-) 1998-2018
-
-    > **Açıklama:** Davranışçı yaklaşımın etkisinin yoğun olarak görüldüğü program <b>1998 İlköğretim Programı</b>’dır. Yapılandırmacı yaklaşımın belirgin olarak ilk kez ortaya çıktığı program ise <b>2005 İlköğretim Programı</b>’dır.
 
     <hr />
 
@@ -872,7 +897,8 @@
     > **Açıklama:** Aşırı hoşgörülü ailelerin kaçınmaları gereken davranışlardan biri <b>Çocuğun her dediğinin yapılmasıdır</b>, çünkü bu durum çocuğun öz denetim geliştirmesini engeller. Bu davranış, yapılması gerekenler arasında <u>yer almaz</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi otoriter ebeveynlik sergileyen ailelerin kaçınmaları gereken davranışlardan biridir?
+
+2. Aşağıdakilerden hangisi otoriter ebeveynlik sergileyen ailelerin kaçınmaları gereken davranışlardan biridir?
     - A-) Öğretmenin otorite olarak görülmesi gerektiğinin anlatılması
     - B-) Çocuk okula başlamadan önce ona güven duygusu aşılanmalı
     - C-) Çocuk okula başlamadan önce onun özerkliği desteklenmeli
@@ -921,7 +947,8 @@
     > **Açıklama:** Sağlıklı bir hazırbulunuşluk sürecinde ailelerin yapması gerekenler arasında kitap okumak, okul gezisi, dramatizasyon ve sosyal aktiviteler yer alır. Ancak <b>Matematik problemleri çözmek</b>, bu temel davranışlar arasında <u>yer almaz</u>, bu daha çok akademik hazırlığın bir parçası olarak düşünülebilir.
 
     <hr />
-1. Aşağıdakilerden hangisi çocuğun gelişim ve eğitiminde yer alan fonksiyonlardan biri <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi çocuğun gelişim ve eğitiminde yer alan fonksiyonlardan biri <u>değildir</u>?
     - A-) Sevgi
     - **Cevap B-) Fizyolojik**
     - C-) Ekonomik
@@ -959,7 +986,8 @@
     > **Açıklama:** İlkokula hazırbulunuşluk değerlendirmesi çok boyutlu yapılmalıdır. Bu süreçte uzmanların uyması gereken temel prensiplerden biri <b>Tek ölçme aracının kullanılması</b> <u>değildir</u>, aksine çeşitli araçlar kullanılmalıdır.
 
     <hr />
-1. İlkokula hazırbulunuşluk değerlendirilmesinde neden hem nitel hem de nicel özelliklere sahip değerlendirme araçları kullanılmalıdır?
+
+2. İlkokula hazırbulunuşluk değerlendirilmesinde neden hem nitel hem de nicel özelliklere sahip değerlendirme araçları kullanılmalıdır?
     - **Cevap A-) Değerlendirmenin kapsamlı ve gerçekçi sonuçlar vermesi için**
     - B-) Öğretmenlerin iş yükünü azaltmak için
     - C-) Sosyal becerileri iyi bir biçimde ölçmek için
@@ -967,6 +995,52 @@
     - E-) Çocukların fiziksel aktivitelerini artırmak için
 
     > **Açıklama:** İlkokula hazırbulunuşluk değerlendirmelerinde hem nitel hem de nicel araçların kullanılması, sürecin <b>kapsamlı ve gerçekçi bir şekilde ele alınmasını</b> sağlar, böylelikle öğrencilerin her yönüyle tanınması mümkün olur.
+
+    <hr />
+
+### 7.3. Test Dışı (Ölçmeye Dayalı Olmayan) Teknikler
+
+1. Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer almaktadır?
+    - A-) İlkokula hazırbulunuşluk ölçeği
+    - B-) Marmara ilköğretime hazırbulunuşluk ölçeği
+    - **Cevap C-) Mülakat ve anketler**
+    - D-) Erken okuryazarlık becerilerini değerlendirme
+    - E-) Metropolitan okul olgunluğu testi
+
+    > **Açıklama:** İlkokula hazırbulunuşluk değerlendirilmesinde kullanılan Test Dışı (Ölçmeye Dayalı Olmayan) teknikler arasında Gözlem, Gözlem Listeleri, Olay/Vaka Kaydı, Derecelendirme Ölçekleri, Oyun Teknikleri, Anket ve <b>Mülakat</b> yer alır. Bu nedenle <b>Mülakat ve anketler</b> Test Dışı Tekniklerdir.
+
+    <hr />
+
+2. Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında <u>yer alamaz</u>?
+    - A-) Gözlem
+    - B-) Özellik/ kayıt çizelgesi
+    - C-) Olay/ vaka kaydı
+    - D-) Mülakat
+    - **Cevap E-) Ölçekler**
+
+    > **Açıklama:** Test Dışı Teknikler; Gözlem, Özellik/kayıt çizelgesi, Olay/vaka kaydı ve Mülakat gibi yöntemlerdir. <b>Ölçekler</b> (standartlaştırılmış testler: IHBO, MIHO, EOBDA) ise genellikle <b>Test (Ölçmeye Dayalı) Teknikler</b> arasında yer alır.
+
+    <hr />
+
+3. Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında <u>yer alamaz</u>?
+    - A-) Gözlem
+    - B-) Özellik/ kayıt çizelgesi
+    - C-) Olay/ vaka kaydı
+    - D-) Mülakat
+    - **Cevap E-) Ölçekler**
+
+    > **Açıklama:** Test dışı (ölçmeye dayalı olmayan) teknikler arasında gözlem, olay/vaka kaydı, özellik-kayıt çizelgesi ve mülakatlar yer alır. <b>Ölçekler</b> (Derecelendirme ölçeği hariç standart testler), ölçmeye dayalı teknikler arasında yer alır.
+
+    <hr />
+
+4. Aşağıdakilerden hangisi hazırbulunuşluğun değerlendirilmesinde kullanılan test dışı ölçmeye dayalı testlerdendir?
+    - A-) İlköğretime hazırbulunuşluk ölçeği
+    - B-) Hazırbulunuşluk
+    - C-) Erken okuryazarlık ölçeği
+    - **Cevap D-) Derecelendirme ölçekleri**
+    - E-) Okuma-yazma ölçeği
+
+    > **Açıklama:** İlköğretime hazırbulunuşluk ölçeği ve Erken okuryazarlık ölçeği test (ölçmeye dayalı) tekniklerdir. Test dışı (ölçmeye dayalı olmayan) teknikler arasında ise gözlem, anket, mülakat ve <b>Derecelendirme ölçekleri</b> (Rubrikler) gibi araçlar bulunmaktadır.
 
     <hr />
 
@@ -983,29 +1057,6 @@
 
     <hr />
 
-### 7.3. Test Dışı (Ölçmeye Dayalı Olmayan) Teknikler
-
-1. Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer almaktadır? *(3 kez soruldu)*
-    - A-) İlkokula hazırbulunuşluk ölçeği
-    - B-) Marmara ilköğretime hazırbulunuşluk ölçeği
-    - **Cevap C-) Mülakat ve anketler**
-    - D-) Erken okuryazarlık becerilerini değerlendirme
-    - E-) Metropolitan okul olgunluğu testi
-
-    > **Açıklama:** İlkokula hazırbulunuşluk değerlendirilmesinde kullanılan Test Dışı (Ölçmeye Dayalı Olmayan) teknikler arasında Gözlem, Gözlem Listeleri, Olay/Vaka Kaydı, Derecelendirme Ölçekleri, Oyun Teknikleri, Anket ve <b>Mülakat</b> yer alır. Bu nedenle <b>Mülakat ve anketler</b> Test Dışı Tekniklerdir.
-
-    <hr />
-1. Aşağıdakilerden hangisi hazırbulunuşluğun değerlendirilmesinde kullanılan test dışı ölçmeye dayalı testlerdendir?
-    - A-) İlköğretime hazırbulunuşluk ölçeği
-    - B-) Hazırbulunuşluk
-    - C-) Erken okuryazarlık ölçeği
-    - **Cevap D-) Derecelendirme ölçekleri**
-    - E-) Okuma-yazma ölçeği
-
-    > **Açıklama:** İlköğretime hazırbulunuşluk ölçeği ve Erken okuryazarlık ölçeği test (ölçmeye dayalı) tekniklerdir. Test dışı (ölçmeye dayalı olmayan) teknikler arasında ise gözlem, anket, mülakat ve <b>Derecelendirme ölçekleri</b> (Rubrikler) gibi araçlar bulunmaktadır.
-
-    <hr />
-
 ### 7.4. Test (Ölçmeye Dayalı) Teknikler
 
 1. İlkokula hazırlıkta bireysel değerlendirme araçlarının avantajı nedir?
@@ -1018,7 +1069,8 @@
     > **Açıklama:** İlkokula hazırbulunuşluk sürecinde bireysel değerlendirme araçlarının kullanılması, çocukların <b>çok yönlü gelişim özelliklerini kapsamlı olarak analiz etmeye</b> olanak tanır.
 
     <hr />
-1. İlkokula hazırbulunuşluk değerlendirme sürecinde hangi faktörler dikkate alınmalıdır?
+
+2. İlkokula hazırbulunuşluk değerlendirme sürecinde hangi faktörler dikkate alınmalıdır?
     - A-) Akademik başarısı ve öğretmen görüşü, özel eğitim gereksinimi
     - B-) Ailesinin ekonomik durumu, akademik başarısı ve öğretmen görüşü
     - **Cevap C-) Çocuğun yaşı, özel eğitim gereksinimi, sosyal, psikolojik ve akademik durumu**
@@ -1028,7 +1080,8 @@
     > **Açıklama:** İlkokula hazırbulunuşluğun değerlendirilmesi sürecinde <b>çocuğun yaşı, özel eğitim gereksinimi olup olmaması, sosyal, psikolojik ve akademik açıdan hazır oluşu</b> gibi çok yönlü faktörler dikkate alınmalıdır.
 
     <hr />
-1. Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden “olgunlaşmanın” içinde yer <u>almamaktadır</u>?
+
+3. Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden “olgunlaşmanın” içinde yer <u>almamaktadır</u>?
     - A-) Öz bakım becerileri
     - **Cevap B-) Okuma-yazma becerileri**
     - C-) Bedensel gelişim
@@ -1066,7 +1119,8 @@
     > **Açıklama:** Parten’ın (1932) gelişimsel oyun çeşitleri; Yalnız oyun, Paralel oyun, İlişkisel oyun ve İş birliğine dayalı oyundur. <b>Tasarımsal oyun</b> (Yapılandırılmış oyun), Parten’ın sınıflandırmasında <u>yer almamaktadır</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi Piaget (1962) tarafından sınıflandırılan gelişimsel oyunlardan biri <u>değildir</u>?
+
+2. Aşağıdakilerden hangisi Piaget (1962) tarafından sınıflandırılan gelişimsel oyunlardan biri <u>değildir</u>?
     - A-) İşlevsel oyunlar
     - B-) Yapı inşa oyunları
     - C-) Sembolik oyunlar
@@ -1076,7 +1130,8 @@
     > **Açıklama:** Piaget'in (1962) gelişimsel oyun çeşitleri; İşlevsel oyunlar, Yapı-inşa oyunları, Sembolik oyunlar ve Kurallı oyunlardır. <b>-Mış gibi oyun</b> ifadesi, Sembolik oyunlar içinde yer alsa da, Piaget’in temel kategorilerinden biri <u>değildir</u>.
 
     <hr />
-1. Aşağıdakilerden hangisi Rubin, Fein ve Vanderbeg tarafından sınıflandırılan oyunlardan biridir?
+
+3. Aşağıdakilerden hangisi Rubin, Fein ve Vanderbeg tarafından sınıflandırılan oyunlardan biridir?
     - **Cevap A-) Yapılandırılmış oyun**
     - B-) Kurallı oyun
     - C-) Epistemik oyun
@@ -1154,7 +1209,29 @@
 
 ### 8.6.1. Erken Okuryazarlık Becerilerini Desteklemeye Yönelik Etkinlikler
 
-1. Aşağıdakilerden hangisi “Matematik” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?
+1. Aşağıdakilerden hangisi “Türkçe ve Okuma-Yazmaya Hazırlık” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?
+    - A-) Dili iletişim amacıyla kullanır.
+    - **Cevap B-) Hece ve kelimeleri öğrenir.**
+    - C-) Okumanın günlük yaşamdaki önemini açıklar.
+    - D-) Yazının günlük yaşamdaki önemini açıklar.
+    - E-) Konuşmak için sırasını bekler.
+
+    > **Açıklama:** Okul öncesi eğitim programında ilkokula hazırlık çalışmaları okuma veya yazma öğretmek amacını taşımaz. Bu etkinlikler dil becerileri (Konuşmak için sırasını bekler), Okuma farkındalığı (Okumanın önemini açıklar) ve Yazı farkındalığı (Yazının önemini açıklar) kazanımlarını içerir. <b>Hece ve kelimeleri öğrenmek</b>, bu kazanımlardan biri <u>değildir</u>.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi “sanat, okumaya hazırlık ve görsel materyal okuma” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?
+    - A-) Algıladıklarını hatırlar.
+    - B-) Günlük yaşam sembollerini tanır.
+    - C-) Görsel materyalleri okur.
+    - **Cevap D-) Eksilen veya eklenen nesneyi söyler.**
+    - E-) Gösterilen sembolün anlamını söyler.
+
+    > **Açıklama:** Sanat, okumaya hazırlık ve görsel materyal okuma etkinlikleri Bilişsel Gelişim kapsamında Algıladıklarını hatırlar (Kazanım 3), Günlük yaşam sembollerini tanır ve Görsel materyalleri okur (Kazanım 10) gibi kazanımları kullanır. <b>Eksilen veya eklenen nesneyi söyleme</b>, matematiksel beceri kazanımıdır ve bu etkinliklerin doğrudan kazanımı <u>değildir</u>.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi “Matematik” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?
     - A-) Eksilen veya eklenen nesneyi söyler.
     - B-) Nesneleri sayar.
     - C-) Belirtilen sayı kadar nesneyi söyler.

@@ -88,40 +88,86 @@ class HTMLPreservingConverter(markdownify.MarkdownConverter):
         return str(el)
     def convert_sub(self, el, text, parent_tags=None):
         return str(el)
+    def convert_u(self, el, text, parent_tags=None):
+        return str(el)
+    def convert_b(self, el, text, parent_tags=None):
+        return str(el)
+    def convert_i(self, el, text, parent_tags=None):
+        return str(el)
+    def convert_em(self, el, text, parent_tags=None):
+        return str(el)
+    def convert_strong(self, el, text, parent_tags=None):
+        return str(el)
+
+def safe_html_to_markdown(text):
+    if not text: return ""
+
+    # Pre-process text to replace <br> with newlines before markdownify
+    text = re.sub(r'<br\b[^>]*>', '\n', text, flags=re.IGNORECASE)
+    text = re.sub(r'</br>', '', text, flags=re.IGNORECASE)
+
+    converter = HTMLPreservingConverter(autolinks=False)
+    converted = converter.convert(text).strip()
+
+    # Escape dots after numbers at the start of a line to prevent markdown list parsing
+    converted = re.sub(r'^(\d+)\.', r'\1\.', converted, flags=re.MULTILINE)
+
+    # Convert escaped markdown characters back to markdown
+    # Markdownify escapes * to \*, but we might want them as * if they were in the text or converted from b/strong
+    # Wait, if we preserve b/strong as HTML, then * shouldn't be here from them.
+    # But if the text itself contained *, markdownify escapes it.
+    # However, user likely wants literal * if they typed it, OR markdown bolding if they typed it?
+    # The issue is "\*\*sadece\*\*" appearing. This means original text had "**" or converter added it and escaped it?
+    # Actually, Markdownify converts <b> to ** by default.
+    # BUT we overrode convert_b to return plain HTML.
+    # So if we see \*\*, it means the input text had ** and markdownify escaped it.
+    # OR input had <b>, we returned <b>, and nothing added **.
+    # The user says: "\*\*sadece\*\*".
+    # This implies markdownify is escaping these characters.
+    # Let's unescape common markdown syntax that we might want to be valid?
+    # Or simply unescape the backslashes for specific chars.
+
+    converted = converted.replace(r'\*\*', '**').replace(r'\*', '*')
+    converted = converted.replace(r'\_', '_')
+    converted = converted.replace(r'\.', '.')
+
+    return converted
 
 def questions_to_markdown(questions):
     md = ""
-    converter = HTMLPreservingConverter(autolinks=False)
-
-    def safe_convert(text):
-        if not text: return ""
-        # Pre-process text to replace <br> with newlines before markdownify
-        # This prevents markdownify from truncating text with multiple <br> tags
-        text = re.sub(r'<br\b[^>]*>', '\n', text, flags=re.IGNORECASE)
-        text = re.sub(r'</br>', '', text, flags=re.IGNORECASE) # Remove invalid closing tags
-        converted = converter.convert(text).strip()
-        # Escape dots after numbers at the start of a line to prevent markdown list parsing
-        converted = re.sub(r'^(\d+)\.', r'\1\.', converted, flags=re.MULTILINE)
-
-        # Escape < characters that look like start of tags, except for allowed tags (sup, sub)
-        # This prevents text like "<body>" from being treated as HTML tags in Markdown
-        converted = re.sub(r'<(?!/?(sup|sub)>)', '&lt;', converted)
-
-        return converted
+    # safe_convert was here, now using safe_html_to_markdown globally
 
     for i, q in enumerate(questions, 1):
         # Use custom converter to preserve HTML content like sup/sub
-        q_text_raw = safe_convert(q['SoruMetni'])
+        q_text_content = q.get('SoruMetni') or q.get('question') or ""
+        q_text_raw = safe_html_to_markdown(q_text_content)
         # Replace newlines with <br /> for questions, but ensure no double <br />
         q_text_formatted = q_text_raw.replace('\n', '<br />')
         # Collapse multiple <br /> and remove surrounding spaces
         q_text_formatted = re.sub(r'\s*(<br\b[^>]*>\s*)+', '<br />', q_text_formatted)
 
-        md += f"1. {q_text_formatted}\n"
+        # Get index number if provided in question object, else use enumeration
+        q_idx = i
+
+        md += f"{q_idx}. {q_text_formatted}\n"
 
         options = ['A', 'B', 'C', 'D', 'E']
         for opt in options:
-            is_correct = q['DogruCevap'] == opt
+            # Handle correct answer check
+            is_correct = False
+            correct_answer = q.get('DogruCevap') or q.get('correctAnswer') # Fallback if specific convention used
+
+            # Sometimes correct answer is index?
+            if 'correctIndex' in q and q['correctIndex'] is not None:
+                # Assuming options list matches A,B,C... order
+                # but here we iterate options A,B,C..
+                # This logic is tricky if data formats mix.
+                # Let's stick to DogruCevap matching 'A','B' etc.
+                pass
+
+            if correct_answer and str(correct_answer).strip().upper() == opt:
+                is_correct = True
+
             prefix = "**Cevap " if is_correct else ""
             suffix = "**" if is_correct else ""
 
@@ -130,7 +176,7 @@ def questions_to_markdown(questions):
 
             opt_content = q.get(opt, "")
             if opt_content:
-                opt_text_raw = safe_convert(opt_content)
+                opt_text_raw = safe_html_to_markdown(opt_content)
                 # Replace newlines with space in options
                 opt_text_formatted = opt_text_raw.replace('\n', ' ')
                 # Aggressively remove any remaining <br> tags
@@ -143,7 +189,7 @@ def questions_to_markdown(questions):
             md += f"{list_item_prefix}{opt_text_formatted}{suffix}\n"
 
         if q.get('Aciklama'):
-            explanation = safe_convert(q['Aciklama'])
+            explanation = safe_html_to_markdown(q['Aciklama'])
             # Replace newlines with <br /> to match question formatting
             explanation = explanation.replace('\n', '<br />')
             # Collapse multiple <br /> tags
