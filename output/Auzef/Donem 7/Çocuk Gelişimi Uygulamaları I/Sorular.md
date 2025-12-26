@@ -1,4 +1,4 @@
-# Çocuk Gelişimi Uygulamaları I - Sorular
+# Çocuk Gelişimi Uygulamaları I - Çıkmış Sorular
 
 ## Ünite 1
 
@@ -17,9 +17,7 @@
 
 ### 1.1.3. Çocuğun Gelişim Alanları
 
-1. Aşağıdaki ifadede boş bırakılan yere uygun gelen seçenek hangisidir?
-
-<b>“………. çocuğun vücudunun büyümesi, motor becerilerinin gelişimi ile ilgili süreçleri ifade eder.”</b>
+1. Aşağıdaki ifadede boş bırakılan yere uygun gelen seçenek hangisidir?<br /><b>“………. çocuğun vücudunun büyümesi, motor becerilerinin gelişimi ile ilgili süreçleri ifade eder.”</b>
     - A-) Özbakım gelişimi
     - B-) Bilişsel Gelişim
     - **Cevap C-) Fiziksel ve Motor Gelişim**
@@ -94,8 +92,7 @@
     > **Açıklama:** Mesleki etik ilkeleri arasında meslektaşlara rehber olmak ve yapılan hizmetlerin hukuki boyutlarının farkında olmak yer alırken, <b>Yeni fikir ve bilgileri reddetme</b> ilkelere aykırıdır.
 
     <hr />
-
-2. Çocuk gelişimi alanında çalışan profesyoneller için hangi dernek çocuklarla çalışırken gözetilmesi gereken <u>etik prensipleri</u> belirlemiştir?
+1. Çocuk gelişimi alanında çalışan profesyoneller için hangi dernek çocuklarla çalışırken gözetilmesi gereken <u>etik prensipleri</u> belirlemiştir?
     - A-) WHO
     - **Cevap B-) UNICEF**
     - C-) UNDP
@@ -105,8 +102,7 @@
     > **Açıklama:** Çocuk gelişimi alanında çalışan profesyoneller için <b>UNICEF</b>, çocuklarla çalışırken gözetilmesi gereken etik prensipleri belirleyen kurumlardan biridir.
 
     <hr />
-
-3. Çocuk çalışmalarında etik prensipler arasında aşağıda verilenlerden hangisi <u>yer almaz</u>?
+1. Çocuk çalışmalarında etik prensipler arasında aşağıda verilenlerden hangisi <u>yer almaz</u>?
     - A-) Doğru ve dürüst bilgilendirme
     - B-) Fiziksel ve duygusal güvenlik
     - C-) Profesyonellik
@@ -116,8 +112,7 @@
     > **Açıklama:** Temel etik prensipler; Doğru ve dürüst bilgilendirme, Fiziksel ve duygusal güvenlik, Profesyonellik ve Bireysel farklılıkların tanınmasıdır. <b>Çocukların sosyoekonomik durumunun değerlendirilmesi</b> temel etik prensipler arasında doğrudan yer almaz.
 
     <hr />
-
-4. Çocuklarla yapılan araştırmalarda aşağıda verilenlerden hangisi <u>esastır</u>?
+1. Çocuklarla yapılan araştırmalarda aşağıda verilenlerden hangisi <u>esastır</u>?
     - **Cevap A-) Çocuğun bilgilendirilmiş onayı**
     - B-) Çocuğun eğitim seviyesi
     - C-) Çocuğun sosyal statüsü
@@ -127,8 +122,7 @@
     > **Açıklama:** Çocuklarla yapılan araştırmalarda, çocukların ve velilerinin <b>bilgilendirilmiş onayını</b> almak esastır ve katılım tamamen gönüllü olmalıdır.
 
     <hr />
-
-5. Çocuklarla yapılan araştırmalarda çocuğun yaşına ve anlama kapasitesine uygun olarak hangi bilgilerin açıklanması esastır?
+1. Çocuklarla yapılan araştırmalarda çocuğun yaşına ve anlama kapasitesine uygun olarak hangi bilgilerin açıklanması esastır?
     - A-) Çocuğun geçmişi
     - B-) Araştırmanın maliyeti
     - **Cevap C-) Araştırmanın amacı, yöntemi, süresi ve olası riskleri**
@@ -141,30 +135,6 @@
 
 ## Ünite 2
 
-### 2.1. Çocuğu Tanıma ve Değerlendirmenin Amaçları
-
-1. Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirmenin amaçlarından biri <u>değildir</u>?
-    - A-) Çocuk için gelişimsel destek programı hazırlamak
-    - B-) Çocuğun gelişimsel takibini yapmak
-    - C-) Çocuğun ilgi ve ihtiyaçlarını tespit etmek
-    - **Cevap D-) Çocuğun zayıf yönlerini belirlemek**
-    - E-) Çocukların bireysel farklılıklarını ortaya çıkartmak
-
-    > **Açıklama:** Çocuğu tanıma ve değerlendirme süreçlerinin önemli bir amacı güçlü yönlerini keşfetmektir. Sadece <b>çocuğun zayıf yönlerini belirlemek</b> bu sürecin tek amacı değildir ve bir hata olarak kabul edilir.
-
-    <hr />
-
-2. Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirmenin temel amaçlarından birisi <u>değildir</u>?
-    - A-) Çocuğun bireysel gelişimini anlamak
-    - B-) Çocuğun güçlü yanlarını belirlemek
-    - C-) Gelişimsel veya eğitimsel programlar oluşturmak
-    - D-) Çocuğun ihtiyaçlarını anlamak
-    - **Cevap E-) Diğer çocuklarla kıyas yapmak**
-
-    > **Açıklama:** Çocuğu tanıma ve değerlendirmenin amacı, çocuğun bireysel gelişimini desteklemek ve anlamaktır. Bu amaçlar arasında <b>diğer çocuklarla kıyas yapmak</b> bulunmaz.
-
-    <hr />
-
 ### 2.1.6. Gelişimsel İzleme ve Takip Uygulamak
 
 1. Çocukların gelişimindeki değişikliklerin fark edilmesi, izlenmesi ve potansiyel sorunların erken tespiti için yapılan çalışmalar, çocuğu tanıma ve değerlendirme sürecinin hangi amacını ifade eder?
@@ -175,6 +145,19 @@
     - E-) Gelişimsel veya Eğitimsel Programlar Oluşturmak
 
     > **Açıklama:** Bu görev, çocuk gelişimcilerin en önemli görevlerinden biri olan <b>Gelişimsel İzleme ve Takip Uygulamak</b> amacına hizmet eder. Bu süreç, gelişimdeki duraklamaların veya gerilemelerin fark edilmesini sağlar.
+
+    <hr />
+
+### 2.1. Çocuğu Tanıma ve Değerlendirmenin Amaçları
+
+1. Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirmenin amaçlarından biri <u>değildir</u>? *(2 kez soruldu)*
+    - A-) Çocuk için gelişimsel destek programı hazırlamak
+    - B-) Çocuğun gelişimsel takibini yapmak
+    - C-) Çocuğun ilgi ve ihtiyaçlarını tespit etmek
+    - **Cevap D-) Çocuğun zayıf yönlerini belirlemek**
+    - E-) Çocukların bireysel farklılıklarını ortaya çıkartmak
+
+    > **Açıklama:** Çocuğu tanıma ve değerlendirme süreçlerinin önemli bir amacı güçlü yönlerini keşfetmektir. Sadece <b>çocuğun zayıf yönlerini belirlemek</b> bu sürecin tek amacı değildir ve bir hata olarak kabul edilir.
 
     <hr />
 
@@ -229,8 +212,7 @@
     > **Açıklama:** Tipik gelişim gösteren çocuklar için, 3 yaşından sonra <b>yılda en az bir kez</b> gelişimsel izleme ve değerlendirme yapılmalıdır.
 
     <hr />
-
-2. Bir çocuk 1 yaşını doldurduktan sonra 3 yaşına kadar ne kadar sürede bir gelişimsel olarak değerlendirilmek için çocuk gelişimciye gitmelidir?
+1. Bir çocuk 1 yaşını doldurduktan sonra 3 yaşına kadar ne kadar sürede bir gelişimsel olarak değerlendirilmek için çocuk gelişimciye gitmelidir?
     - A-) 8 ayda 1
     - B-) 2 ayda 1
     - C-) 12 ayda 1
@@ -253,8 +235,7 @@
     > **Açıklama:** Değerlendirme sürecinde bireyin onamının alınması ve gönüllü katılımının sağlanması <b>İsteklilik İlkesi</b> olarak adlandırılır.
 
     <hr />
-
-2. “Bir ebeveyn, çocuğunun değerlendirilmesini kabul etmez ise hiçbir koşulda çocuğuna test uygulayamazsınız.” Yukarıdaki ifade aşağıdaki hangi tanı ve değerlendirme ilkesini açıklar?
+1. “Bir ebeveyn, çocuğunun değerlendirilmesini kabul etmez ise hiçbir koşulda çocuğuna test uygulayamazsınız.” Yukarıdaki ifade aşağıdaki hangi tanı ve değerlendirme ilkesini açıklar?
     - A-) Dürüstlük İlkesi
     - **Cevap B-) İsteklilik İlkesi**
     - C-) Süreklilik İlkesi
@@ -280,7 +261,7 @@
 
 ### 2.5. Tanı ve Değerlendirme Çeşitleri
 
-1. Aşağıdakilerden hangisi <u>formal değerlendirme araçlarından</u> birisi değildir?
+1. Aşağıdakilerden hangisi <u>formal değerlendirme araçlarından</u> birisi değildir? *(3 kez soruldu)*
     - A-) Hazırbulunuşluk Testleri
     - B-) Başarı Testleri
     - **Cevap C-) Gözlem Formları**
@@ -290,8 +271,7 @@
     > **Açıklama:** Formal değerlendirme araçları standardize edilmiş testlerdir (Hazırbulunuşluk, Başarı, Yetenek, Gelişimsel Tarama). <b>Gözlem Formları</b> ise informal değerlendirme araçlarına bir örnektir.
 
     <hr />
-
-2. Çocuk gelişimcilerin sıkça kullandığı Metropolitan Okul Olgunluğu Testi hangi tür formal değerlendirme araçları sınıflandırmasına dâhil edilebilir?
+1. Çocuk gelişimcilerin sıkça kullandığı Metropolitan Okul Olgunluğu Testi hangi tür formal değerlendirme araçları sınıflandırmasına dâhil edilebilir?
     - A-) Başarı Testleri
     - B-) Genel Gelişim Tarama Testleri
     - C-) İlgi ya da Yetenek Testleri
@@ -301,8 +281,7 @@
     > **Açıklama:** Metropolitan Okul Olgunluğu Testi, çocuğun belirli bir duruma veya olaya (okula) hazır olup olmadığını belirlemek amacıyla kullanılan <b>Hazırbulunuşluk Testleri</b> kategorisine girmektedir.
 
     <hr />
-
-3. Ankara Gelişim Tarama Envanteri (AGTE), aşağıda verilen değerlendirme araçlarından hangisinin kapsamına girmektedir?
+1. Ankara Gelişim Tarama Envanteri (AGTE), aşağıda verilen değerlendirme araçlarından hangisinin kapsamına girmektedir?
     - A-) Başarı Testleri
     - B-) Hazırbulunuşluk Testleri
     - C-) Gözlem Formları
@@ -312,8 +291,7 @@
     > **Açıklama:** Denver II, AGTE ve GEÇDA gibi araçlar, çocuğun dil, bilişsel, sosyal veya motor becerileri gibi farklı gelişim alanlarını değerlendirme fırsatı sunan <b>Genel Gelişim Tarama Testleri</b>’ne örnek olarak verilebilir.
 
     <hr />
-
-4. Aşağıdakilerden hangisi <u>hazırbulunuşluk testlerine</u> dâhil edilebilir?
+1. Aşağıdakilerden hangisi <u>hazırbulunuşluk testlerine</u> dâhil edilebilir?
     - **Cevap A-) Metropolitan Okul Olgunluğu Testi**
     - B-) Denver II Gelişimsel Tarama Envanteri
     - C-) Erken Matematik Kabiliyetleri Testi
@@ -323,19 +301,7 @@
     > **Açıklama:** <b>Hazırbulunuşluk Testleri</b>, çocuğun belirli bir duruma veya olaya (örneğin okula) hazır olup olmadığını belirlemek amacıyla kullanılır. Bu kategoride çocuk gelişimcilerin sıkça kullandığı araç <b>Metropolitan Okul Olgunluğu Testi</b>'dir.
 
     <hr />
-
-5. Aşağıdakilerden hangisi <u>informal değerlendirme araçlarından</u> birisi değildir?
-    - A-) Ev Ödevleri
-    - B-) Görüşme Notları
-    - C-) Gözlem Listeleri
-    - D-) Çocukların Resimleri
-    - **Cevap E-) Ankara Gelişim Tarama Envanteri**
-
-    > **Açıklama:** İnformal değerlendirme araçları nitel veriler sunar (Gözlemler, Görüşmeler, Dokümanlar, vb.). <b>Ankara Gelişim Tarama Envanteri</b> (AGTE) ise standartlaştırılmış, sayısal sonuçlar veren formal bir değerlendirme aracıdır.
-
-    <hr />
-
-6. <u>Denver II Gelişimsel Tarama Envanteri</u> aşağıdaki değerlendirme türlerinden hangisine girmektedir?
+1. <u>Denver II Gelişimsel Tarama Envanteri</u> aşağıdaki değerlendirme türlerinden hangisine girmektedir?
     - A-) Nitel Değerlendirme
     - B-) İnformal Değerlendirme
     - **Cevap C-) Formal Değerlendirme**
@@ -345,8 +311,7 @@
     > **Açıklama:** Denver II, geçerlik ve güvenirliği yapılmış, sayısal sonuçlar veren ve normlar dahilinde oluşturulmuş bir <b>Formal Değerlendirme</b> aracıdır.
 
     <hr />
-
-7. Erken Matematik Kabiliyetleri Ölçeği hangi tür formal değerlendirme araçlarından birisidir?
+1. Erken Matematik Kabiliyetleri Ölçeği hangi tür formal değerlendirme araçlarından birisidir?
     - **Cevap A-) İlgi veya Yetenek Testi**
     - B-) Gözlem Formu
     - C-) Hazırbulunuşluk Testi
@@ -354,17 +319,6 @@
     - E-) Başarı Testi
 
     > **Açıklama:** Formal değerlendirme araçları dört grupta incelenir; Erken Matematik Kabiliyetleri Ölçeği, <b>İlgi ya da Yetenek Testleri</b> grubunda yer alır.
-
-    <hr />
-
-8. Aşağıdakilerden hangisi informal değerlendirme araçlarından biri <u>değildir</u>?
-    - **Cevap A-) Metropolitan okul olgunluğu testi**
-    - B-) Sanat etkinliğinde çocuğun yaptığı resimler
-    - C-) Sosyal beceri gözlem formu
-    - D-) Sınıf içi oyun oynama becerisi kontrol listesi
-    - E-) Aile tutumu görüşme formu
-
-    > **Açıklama:** İnformal değerlendirme araçları; gözlem, görüşme ve dokümanları içerir. <b>Metropolitan okul olgunluğu testi</b>, geçerlik ve güvenirlik çalışması yapılmış formal bir hazırbulunuşluk testidir.
 
     <hr />
 
@@ -395,8 +349,7 @@
     > **Açıklama:** TÜİK’in 2019 tarihli Aile Yapısı Araştırması'na göre Türkiye’de en yaygın aile yapısı <b>Çekirdek Aile</b> modelidir.
 
     <hr />
-
-2. Aşağıda verilen aile tiplerinden hangisi, <u>boşanmış ebeveynlerin belirli dönemlerde çocuklarını yanlarında tuttukları</u> aile yapısını ifade eder?
+1. Aşağıda verilen aile tiplerinden hangisi, <u>boşanmış ebeveynlerin belirli dönemlerde çocuklarını yanlarında tuttukları</u> aile yapısını ifade eder?
     - A-) Çocuksuz Aile
     - B-) Geniş Aile
     - C-) Birleşik Aile
@@ -406,8 +359,7 @@
     > **Açıklama:** Tanımı yapılan aile yapısı, ebeveynlerin dönüşümlü olarak çocuklarının bakımı ve velayetini üstlendiği <b>Dönüşümlü Velayetli Aile</b>'dir.
 
     <hr />
-
-3. Geleneksel Türk toplumunda oldukça yaygın olan; anne-baba, çocuklar, büyükanne-büyükbaba, amca-teyze ve kuzenlerin bir arada yaşadığı aile yapısını ifade eden aile tipi aşağıdakilerden hangisidir?
+1. Geleneksel Türk toplumunda oldukça yaygın olan; anne-baba, çocuklar, büyükanne-büyükbaba, amca-teyze ve kuzenlerin bir arada yaşadığı aile yapısını ifade eden aile tipi aşağıdakilerden hangisidir?
     - A-) Tek Ebeveynli Aile
     - B-) Çocuksuz Aile
     - C-) Çekirdek Aile
@@ -456,8 +408,7 @@
     > **Açıklama:** Çocuğun doğumuyla başlayan ve yeni bakım sorumluluklarının üstlenildiği evre, <b>Küçük Çocuklu Aile</b> evresidir.
 
     <hr />
-
-2. <u>Duvall Aile Yaşam Döngüsü</u> modelini geliştiren kişi kimdir?
+1. <u>Duvall Aile Yaşam Döngüsü</u> modelini geliştiren kişi kimdir?
     - A-) Evelyn Patterson
     - B-) Sarah Riggio
     - C-) Mikulincer & Shaver
@@ -481,22 +432,9 @@
 
     <hr />
 
-### 3.2. Aile Danışmanlığının Tanımı Önemi ve Amaçları
-
-1. Ailelerin karşılaştığı sorunlara çözüm üreten ve bu sorunların üstesinden gelmelerine yardımcı olan uzman aşağıdakilerden hangisidir?
-    - A-) Anne baba programcısı
-    - B-) Aile rehberi
-    - **Cevap C-) Aile danışmanı**
-    - D-) Aile katılımcısı
-    - E-) Aile eğitimcisi
-
-    > **Açıklama:** Açıklaması verilen uzman <b>Aile danışmanı</b>'dır.
-
-    <hr />
-
 ### 3.2.1. Aile Danışmanlığı Olabilmek için Gereken Koşullar ve Eğitim Süreci
 
-1. Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi <u>eğitim programını almak zorundadır</u>?
+1. Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi <u>eğitim programını almak zorundadır</u>? *(2 kez soruldu)*
     - A-) Eğitimde Drama Eğitim Programı
     - **Cevap B-) Aile Danışmanlığı Eğitim Programı**
     - C-) Çocuk Ergen Psikopatoloji Eğitim Programı
@@ -506,8 +444,7 @@
     > **Açıklama:** Aile Danışma Merkezlerinde çalışmak isteyen çocuk gelişimciler (lisans mezuniyetleri haricinde), yasal şart olarak belirlenen süre ve içerikteki <b>Aile Danışmanlığı Eğitim Programını</b> (genellikle 450 saatlik) tamamlamak zorundadırlar.
 
     <hr />
-
-2. Aile Danışmanı olabilmek için belirlenen koşullar arasında, çocuk gelişimi gibi belirli lisans bölümlerinden mezun olanlar için aşağıdakilerden hangisi <b>doğru bir koşuldur</b>?
+1. Aile Danışmanı olabilmek için belirlenen koşullar arasında, çocuk gelişimi gibi belirli lisans bölümlerinden mezun olanlar için aşağıdakilerden hangisi <b>doğru bir koşuldur</b>?
     - A-) Tıp fakültesi mezunları direkt olarak aile danışmanı unvanını alabilirler.
     - B-) 4 yıllık lisans programlarından mezun olanlar en az beş yüz saati teorik eğitim almalıdırlar.
     - C-) Aile danışmanlığı sertifikası için Milli Eğitim Bakanlığından izin alınması gereklidir.
@@ -543,8 +480,7 @@
     > **Açıklama:** Aile danışmanlarının görevi sadece sorunları değerlendirmek ve tedavi etmekten ibaret değildir; aynı zamanda aile içi ilişkileri güçlendirmek ve bireylere bilgi/beceri kazandırmak da amaçlanır. Bu nedenle <b>C seçeneği yanlıştır</b>.
 
     <hr />
-
-2. Aile ve Sosyal Hizmetler Bakanlığı’na bağlı Aile Danışma Merkezlerinde çalışan meslek profesyonellerinden beklenilen ilk resmî koşul aşağıdakilerden hangisinde doğru olarak verilmiştir?
+1. Aile ve Sosyal Hizmetler Bakanlığı’na bağlı Aile Danışma Merkezlerinde çalışan meslek profesyonellerinden beklenilen ilk resmî koşul aşağıdakilerden hangisinde doğru olarak verilmiştir?
     - **Cevap A-) 450 saatlik aile danışmanlığı eğitim programını başarıyla tamamlama**
     - B-) Yüksek lisans programından mezun olma
     - C-) Herhangi bir lisans programından mezun olma
@@ -555,9 +491,22 @@
 
     <hr />
 
+### 3.2. Aile Danışmanlığının Tanımı Önemi ve Amaçları
+
+1. Ailelerin karşılaştığı sorunlara çözüm üreten ve bu sorunların üstesinden gelmelerine yardımcı olan uzman aşağıdakilerden hangisidir?
+    - A-) Anne baba programcısı
+    - B-) Aile rehberi
+    - **Cevap C-) Aile danışmanı**
+    - D-) Aile katılımcısı
+    - E-) Aile eğitimcisi
+
+    > **Açıklama:** Açıklaması verilen uzman <b>Aile danışmanı</b>'dır.
+
+    <hr />
+
 ### 3.3.1. Çocuk Odaklı Aile Danışmanlığına Ailelerin Başvuru Nedenleri
 
-1. Aile Danışma Merkezlerinde ailelere sıklıkla hangi danışma hizmeti verilmektedir?
+1. Aile Danışma Merkezlerinde ailelere sıklıkla hangi danışma hizmeti verilmektedir? *(2 kez soruldu)*
     - **Cevap A-) Boşanma Süreci Danışmanlığı**
     - B-) Kardeş Kıskançlığı Danışmanlığı
     - C-) Bilişsel Davranışçı Terapi Danışmanlığı
@@ -593,8 +542,7 @@
     > **Açıklama:** Aile Danışma Merkezlerinde ailelere sıklıkla verilen hizmetlerden biri <b>Boşanma Süreci Danışmanlığı</b>’dır.
 
     <hr />
-
-2. Çocuk odaklı danışmanlıkta hangi yaklaşım, çocuğun <u>olumsuz düşünce kalıplarını ve davranışlarını tanımlamaya ve değiştirmeye</u> yardımcı olmayı amaçlar?
+1. Çocuk odaklı danışmanlıkta hangi yaklaşım, çocuğun <u>olumsuz düşünce kalıplarını ve davranışlarını tanımlamaya ve değiştirmeye</u> yardımcı olmayı amaçlar?
     - A-) Oyun Terapisi
     - B-) Çözüm Odaklı Kısa Terapi
     - **Cevap C-) Bilişsel Davranışçı Terapi**
@@ -606,91 +554,6 @@
     <hr />
 
 ## Ünite 4
-
-### 4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı
-
-1. Türkiye’de şu an uygulanan Okul Öncesi Eğitim Programı hangi yılda geliştirilmiştir?
-    - A-) 2002
-    - B-) 2006
-    - C-) 2010
-    - **Cevap D-) 2013**
-    - E-) 2018
-
-    > **Açıklama:** Türkiye’de şu an okul öncesi eğitim kurumlarında aktif olarak uygulanan <b>Okul Öncesi Eğitim Programıdır</b>.
-
-    <hr />
-
-2. Aşağıdakilerden hangisi Türkiye’de uygulanan Okul Öncesi Eğitim Programının temel amaçlarından birisi <u>değildir</u>?
-    - A-) İlkokulda gerekli olan temel becerileri kazandırmak
-    - **Cevap B-) En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek**
-    - C-) Türkçeyi doğru ve güzel kullanmasını sağlamak
-    - D-) Dezavantajlı çocuklar ve aileleri için demokratik eğitim fırsatları sunmak
-    - E-) Çocuklara iyi alışkanlıklar kazandırmak
-
-    > **Açıklama:** Programın temel amaçları arasında fiziksel, bilişsel, ve duyu gelişimlerini desteklemek, temel beceriler kazandırmak ve Türkçe dilini etkili kullanmalarını sağlamak yer alır. <b>En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek</b> temel amaçlardan biri <u>değildir</u>.
-
-    <hr />
-
-3. Aşağıdaki verilen bilgilerden hangisi <u>Okul Öncesi Eğitim Programı</u> kapsamında doğru bir bilgi değildir?
-    - **Cevap A-) Öğretmen merkezli bir programdır.**
-    - B-) Oyun temelli bir programdır.
-    - C-) Esnek bir programdır.
-    - D-) Değerlendirme çok yönlü olarak gerçekleştirilir.
-    - E-) Gelişim odaklı bir programdır.
-
-    > **Açıklama:** 2013 Okul Öncesi Eğitim Programı; çocuk merkezli, oyun temelli, gelişim odaklı ve esnek bir programdır. Bu nedenle <b>Öğretmen merkezli bir programdır</b> ifadesi <u>doğru değildir</u>.
-
-    <hr />
-
-4. 2013 Okul öncesi eğitim programı ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?
-    - A-) Kazanım ve göstergeler bulunur.
-    - **Cevap B-) Okul öncesinde değerlendirme tek yönlüdür.**
-    - C-) Okul öncesinde etkinlikler oyun temellidir.
-    - D-) Okul öncesi eğitim programı gelişimseldir.
-    - E-) Okul öncesinde aile katılımı olmalıdır.
-
-    > **Açıklama:** Okul öncesi eğitimde değerlendirme, çocuk, öğretmen ve program değerlendirmesi olmak üzere <b>çok yönlü</b> gerçekleştirilir. Bu nedenle <b>değerlendirmenin tek yönlü olduğu</b> ifadesi <u>yanlıştır</u>.
-
-    <hr />
-
-5. I. Programda yıllık, aylık ve günlük plan hazırlanmalıdır.
-II. Etkinlikler bilinmeyenden bilinene doğru ilerlemelidir.
-III. Köşeler yerine öğrenme merkezleri yer alır.
-Yukarıda verilen bilgilerden hangisi ya da hangileri Okul Öncesi Eğitim Programı için <u>doğru verilen bir bilgidir</u>?
-    - A-) I ve II
-    - B-) II ve III
-    - **Cevap C-) Yalnız III**
-    - D-) I ve III
-    - E-) I-II-III
-
-    > **Açıklama:** Programda yıllık plan <u>hazırlanmaz</u>, sadece günlük ve aylık planlar hazırlanır. Etkinlikler <b>bilinenden bilinmeyene</b> doğru ilerlemelidir (II yanlış). Köşeler yerine <b>öğrenme merkezleri</b> yer alır (III doğru).
-
-    <hr />
-
-6. Okul Öncesi Eğitim Programında yukarıdaki değerlendirme modellerinden hangisi ya da hangileri yapılmalıdır?
-I. Programı Değerlendirme
-II. Çocuğu Değerlendirme
-III. Öğretmenin Kendini Değerlendirmesi
-    - A-) Yalnız II
-    - B-) I ve II
-    - C-) II ve III
-    - D-) Yalnız I
-    - **Cevap E-) I-II-III**
-
-    > **Açıklama:** Okul Öncesi Eğitim Programında değerlendirme <b>çok yönlüdür</b> ve <b>Programı Değerlendirme, Çocuğu Değerlendirme ve Öğretmenin Kendini Değerlendirmesi</b> olmak üzere üç tür değerlendirme de yer almaktadır.
-
-    <hr />
-
-7. Sınıf ne kadar küçük olursa olsun, bir okul öncesi sınıfında <u>en az kaç tane öğrenme merkezi</u> olma zorunluluğu vardır?
-    - A-) 1
-    - **Cevap B-) 2**
-    - C-) 3
-    - D-) 4
-    - E-) 5
-
-    > **Açıklama:** Okul öncesi eğitim programı, sınıfın büyüklüğü ne olursa olsun <b>en az 2 öğrenme merkezi</b> bulunmasını önermektedir.
-
-    <hr />
 
 ### 4.1.1. Türkiye'de Okul Öncesi Eğitim Programının Tarihçesi
 
@@ -731,6 +594,79 @@ III. Öğretmenin Kendini Değerlendirmesi
 
     <hr />
 
+### 4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı
+
+1. Türkiye’de şu an uygulanan Okul Öncesi Eğitim Programı hangi yılda geliştirilmiştir?
+    - A-) 2002
+    - B-) 2006
+    - C-) 2010
+    - **Cevap D-) 2013**
+    - E-) 2018
+
+    > **Açıklama:** Türkiye’de şu an okul öncesi eğitim kurumlarında aktif olarak uygulanan <b>Okul Öncesi Eğitim Programıdır</b>.
+
+    <hr />
+1. Aşağıdakilerden hangisi Türkiye’de uygulanan Okul Öncesi Eğitim Programının temel amaçlarından birisi <u>değildir</u>?
+    - A-) İlkokulda gerekli olan temel becerileri kazandırmak
+    - **Cevap B-) En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek**
+    - C-) Türkçeyi doğru ve güzel kullanmasını sağlamak
+    - D-) Dezavantajlı çocuklar ve aileleri için demokratik eğitim fırsatları sunmak
+    - E-) Çocuklara iyi alışkanlıklar kazandırmak
+
+    > **Açıklama:** Programın temel amaçları arasında fiziksel, bilişsel, ve duyu gelişimlerini desteklemek, temel beceriler kazandırmak ve Türkçe dilini etkili kullanmalarını sağlamak yer alır. <b>En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek</b> temel amaçlardan biri <u>değildir</u>.
+
+    <hr />
+1. Aşağıdaki verilen bilgilerden hangisi <u>Okul Öncesi Eğitim Programı</u> kapsamında doğru bir bilgi değildir?
+    - **Cevap A-) Öğretmen merkezli bir programdır.**
+    - B-) Oyun temelli bir programdır.
+    - C-) Esnek bir programdır.
+    - D-) Değerlendirme çok yönlü olarak gerçekleştirilir.
+    - E-) Gelişim odaklı bir programdır.
+
+    > **Açıklama:** 2013 Okul Öncesi Eğitim Programı; çocuk merkezli, oyun temelli, gelişim odaklı ve esnek bir programdır. Bu nedenle <b>Öğretmen merkezli bir programdır</b> ifadesi <u>doğru değildir</u>.
+
+    <hr />
+1. 2013 Okul öncesi eğitim programı ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?
+    - A-) Kazanım ve göstergeler bulunur.
+    - **Cevap B-) Okul öncesinde değerlendirme tek yönlüdür.**
+    - C-) Okul öncesinde etkinlikler oyun temellidir.
+    - D-) Okul öncesi eğitim programı gelişimseldir.
+    - E-) Okul öncesinde aile katılımı olmalıdır.
+
+    > **Açıklama:** Okul öncesi eğitimde değerlendirme, çocuk, öğretmen ve program değerlendirmesi olmak üzere <b>çok yönlü</b> gerçekleştirilir. Bu nedenle <b>değerlendirmenin tek yönlü olduğu</b> ifadesi <u>yanlıştır</u>.
+
+    <hr />
+1. I. Programda yıllık, aylık ve günlük plan hazırlanmalıdır.<br />II. Etkinlikler bilinmeyenden bilinene doğru ilerlemelidir.<br />III. Köşeler yerine öğrenme merkezleri yer alır.<br />Yukarıda verilen bilgilerden hangisi ya da hangileri Okul Öncesi Eğitim Programı için <u>doğru verilen bir bilgidir</u>?
+    - A-) I ve II
+    - B-) II ve III
+    - **Cevap C-) Yalnız III**
+    - D-) I ve III
+    - E-) I-II-III
+
+    > **Açıklama:** Programda yıllık plan <u>hazırlanmaz</u>, sadece günlük ve aylık planlar hazırlanır. Etkinlikler <b>bilinenden bilinmeyene</b> doğru ilerlemelidir (II yanlış). Köşeler yerine <b>öğrenme merkezleri</b> yer alır (III doğru).
+
+    <hr />
+1. Okul Öncesi Eğitim Programında yukarıdaki değerlendirme modellerinden hangisi ya da hangileri yapılmalıdır?<br />I. Programı Değerlendirme<br />II. Çocuğu Değerlendirme<br />III. Öğretmenin Kendini Değerlendirmesi
+    - A-) Yalnız II
+    - B-) I ve II
+    - C-) II ve III
+    - D-) Yalnız I
+    - **Cevap E-) I-II-III**
+
+    > **Açıklama:** Okul Öncesi Eğitim Programında değerlendirme <b>çok yönlüdür</b> ve <b>Programı Değerlendirme, Çocuğu Değerlendirme ve Öğretmenin Kendini Değerlendirmesi</b> olmak üzere üç tür değerlendirme de yer almaktadır.
+
+    <hr />
+1. Sınıf ne kadar küçük olursa olsun, bir okul öncesi sınıfında <u>en az kaç tane öğrenme merkezi</u> olma zorunluluğu vardır?
+    - A-) 1
+    - **Cevap B-) 2**
+    - C-) 3
+    - D-) 4
+    - E-) 5
+
+    > **Açıklama:** Okul öncesi eğitim programı, sınıfın büyüklüğü ne olursa olsun <b>en az 2 öğrenme merkezi</b> bulunmasını önermektedir.
+
+    <hr />
+
 ### 4.2. Okul Öncesi Eğitim Programının Akışı
 
 1. Okul öncesi eğitim programında çocuklar okula geldiklerinde ilk uygulanan <u>günlük akış</u> aşağıdakilerden hangisidir?
@@ -743,8 +679,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Okul öncesi eğitim kurumlarında günlük akış taslağında çocuklar okula geldiğinde gerçekleştirilen ilk aktivite <b>Güne Başlama Zamanı</b> olmalıdır.
 
     <hr />
-
-2. Sınıf içerisinde etkinlik yapan Belma Öğretmen çocuklara “Biraz önce okuduğumuz hikaye kitabında hangi kahramanlar vardı?” diye soruyor. Bu soru aşağıdaki sorulardan hangisine girmektedir?
+1. Sınıf içerisinde etkinlik yapan Belma Öğretmen çocuklara “Biraz önce okuduğumuz hikaye kitabında hangi kahramanlar vardı?” diye soruyor. Bu soru aşağıdaki sorulardan hangisine girmektedir?
     - **Cevap A-) Betimleyici Soru**
     - B-) Kazanımı Yönelik Soru
     - C-) Duyuşsal Soru
@@ -754,8 +689,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Etkinlik içindeki bir durumu veya olayı çocuktan anlatmasını isteyen, yaşadığı durumları tekrar gözden geçirmesini sağlayan sorular <b>Betimleyici Sorular</b>'dır.
 
     <hr />
-
-3. Aşağıdakilerden hangisi 2013 Okul Öncesi Eğitim Programı kapsamında günlük akış içinde <u>yer almayan</u> bir zaman dilimidir?
+1. Aşağıdakilerden hangisi 2013 Okul Öncesi Eğitim Programı kapsamında günlük akış içinde <u>yer almayan</u> bir zaman dilimidir?
     - A-) Günü Değerlendirme Zamanı
     - B-) Etkinlik Zamanı
     - C-) Oyun Zamanı
@@ -768,7 +702,7 @@ III. Öğretmenin Kendini Değerlendirmesi
 
 ### 4.3. Okul Öncesi Eğitim Programında Uyarlama
 
-1. Okul Öncesi Eğitim Programında <u>özel gereksinimli çocuklar</u> için etkinlikler üzerinde yapılan düzenlemeler ne olarak adlandırılmaktadır?
+1. Okul Öncesi Eğitim Programında <u>özel gereksinimli çocuklar</u> için etkinlikler üzerinde yapılan düzenlemeler ne olarak adlandırılmaktadır? *(2 kez soruldu)*
     - A-) Gün Akışı
     - B-) Oryantasyon
     - C-) Bütünleştirme
@@ -778,8 +712,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Özel gereksinimli çocukların etkinlikten maksimum verim alabilmesi için etkinlikte, malzemelerde ya da eğitim ortamında yapılan düzenlemelere <b>Uyarlama</b> adı verilir.
 
     <hr />
-
-2. 2013 Okul Öncesi Eğitim Programı kapsamında etkinlikler üzerinde yapılan <b>Uyarlama</b> uygulamaları hangi çocuk grubuna yöneliktir?
+1. 2013 Okul Öncesi Eğitim Programı kapsamında etkinlikler üzerinde yapılan <b>Uyarlama</b> uygulamaları hangi çocuk grubuna yöneliktir?
     - A-) Boşanmış aile çocuklarına
     - B-) Başka okuldan gelmiş çocuklara
     - C-) İlk defa okula başlayan çocuklara
@@ -830,8 +763,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk evleri, çocukların aile ortamına yakın bir çevrede yetiştirilmesi amacıyla <b>yurt binası şeklinde değil, ev formatında</b> düzenlenmiştir.
 
     <hr />
-
-2. Bir çocuk evinde kalan çocuklar arasında en fazla kaç yaş aranmaktadır?
+1. Bir çocuk evinde kalan çocuklar arasında en fazla kaç yaş aranmaktadır?
     - A-) 1 Yaş
     - B-) 2 Yaş
     - **Cevap C-) 3 Yaş**
@@ -841,8 +773,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk Evleri Çalışma Usul ve Esasları Hakkında Yönetmelik’e göre, aynı çocuk evinde kalan çocuklar arasında yaş farkı <b>en fazla 3 yaş</b> olmalıdır.
 
     <hr />
-
-3. Aşağıdakilerden hangisi bir Çocuk Evinde görev yapan Çocuk Gelişimcinin görevi <u>değildir</u>?
+1. Aşağıdakilerden hangisi bir Çocuk Evinde görev yapan Çocuk Gelişimcinin görevi <u>değildir</u>?
     - A-) Çocuklara gelişim testi uygulamak
     - B-) Çocuklara eğitim programı hazırlamak
     - C-) Çocukların gelişimlerini takip etmek
@@ -852,8 +783,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk gelişimciler çocukların gelişimini takip eder ve eğitim programı hazırlar. <b>Çocukların tıbbi değerlendirmelerini yapmak</b> tıp doktorlarının veya sağlık personelinin görevidir.
 
     <hr />
-
-4. Belediyelere bağlı olan Çocuk Evlerinin temel hedef kitlesi aşağıdakilerden hangisidir?
+1. Belediyelere bağlı olan Çocuk Evlerinin temel hedef kitlesi aşağıdakilerden hangisidir?
     - A-) 0-1 yaş arası bebekler ve anneleri
     - B-) 11-15 yaş üstün yetenekli çocuklar
     - C-) Bağımlılıkla mücadele eden çocuklar
@@ -876,8 +806,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Tanımı yapılan ve risk altındaki çocuklara (suça sürüklenmiş, suç mağduru, sokak çocukları) koruma ve bakım hizmeti veren Aile ve Sosyal Hizmetler Bakanlığı’na bağlı kurum <b>Çocuk Destek Merkezleri</b>'dir.
 
     <hr />
-
-2. Çocuk Destek Merkezlerinde (ÇODEM) çocuklara uygulanan eğitim programı aşağıdakilerden hangisidir?
+1. Çocuk Destek Merkezlerinde (ÇODEM) çocuklara uygulanan eğitim programı aşağıdakilerden hangisidir?
     - A-) DESTEK Çocuk Eğitim Programı
     - B-) FLOORTİME Çocuk Destek Programı
     - C-) Montessori Eğitim Programı
@@ -887,8 +816,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk Destek Merkezlerinde çocukların psikososyal iyi oluşlarını amaçlamak için <b>ANKA Çocuk Destek Programı</b> uygulanmaktadır.
 
     <hr />
-
-3. <u>ANKA Çocuk Destek Programının</u> bileşenlerinden birisi aşağıdakilerden hangisi <u>değildir</u>?
+1. <u>ANKA Çocuk Destek Programının</u> bileşenlerinden birisi aşağıdakilerden hangisi <u>değildir</u>?
     - A-) Grup Çalışması
     - B-) Aile Çalışmaları
     - **Cevap C-) Bilişsel Destek Bileşeni**
@@ -898,8 +826,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** ANKA Çocuk Destek Programı'nın yedi bileşeni arasında Bireysel risk belirleme, Destekleyici ortamın bileşenleri, Grup çalışmaları, Bireysel danışmanlık, Aile çalışmaları, Destekleyici personel için yaklaşım ilkeleri ve Krize müdahalede kurumsal yaklaşım bulunur. <b>Bilişsel Destek Bileşeni</b> bileşenlerden biri <u>değildir</u>.
 
     <hr />
-
-4. Aile ve Sosyal Hizmetler Bakanlığı’na bağlı olarak açılan Çocuk Destek Merkezleri’ne hangi grup çocuklar <u>dahil edilmez</u>?
+1. Aile ve Sosyal Hizmetler Bakanlığı’na bağlı olarak açılan Çocuk Destek Merkezleri’ne hangi grup çocuklar <u>dahil edilmez</u>?
     - A-) Sokak çocukları
     - B-) Koruma altına alınan çocuklar
     - **Cevap C-) Üstün yetenekli çocuklar**
@@ -909,8 +836,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk Destek Merkezleri risk altındaki veya destek gerektiren çocuk gruplarına (madde bağımlılığı, suça sürüklenme, sokak çocukluğu) hizmet verirken, <b>Üstün yetenekli çocuklar</b> bu merkezlerin hedef kitlesine <u>dahil edilmezler</u>.
 
     <hr />
-
-5. Aile ve Sosyal Hizmetler Bakanlığı’na bağlı olan Çocuk Destek Merkezlerinde yer alan ve çocukların kullanabileceği uygun masalar, sandalyeler, ders kitapları, kitaplıklar ve benzeri eğitimsel içerikli materyallere yer verilen alan aşağıdakilerden hangisidir?
+1. Aile ve Sosyal Hizmetler Bakanlığı’na bağlı olan Çocuk Destek Merkezlerinde yer alan ve çocukların kullanabileceği uygun masalar, sandalyeler, ders kitapları, kitaplıklar ve benzeri eğitimsel içerikli materyallere yer verilen alan aşağıdakilerden hangisidir?
     - **Cevap A-) Eğitim Odası**
     - B-) Revir
     - C-) Bireysel Görüşme Odası
@@ -923,29 +849,7 @@ III. Öğretmenin Kendini Değerlendirmesi
 
 ### 5.3. Aile Danışma Merkezleri
 
-1. Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi <u>eğitim programını</u> almak zorundadır?
-    - A-) Eğitimde Drama Eğitim Programı
-    - **Cevap B-) Aile Danışmanlığı Eğitim Programı**
-    - C-) Çocuk Ergen Psikopatoloji Eğitim Programı
-    - D-) Oyun Terapi Programı
-    - E-) Çocuk-Aile İletişim Eğitim Programı
-
-    > **Açıklama:** Aile Danışma Merkezlerinde çalışmak isteyen çocuk gelişimciler (lisans mezuniyetleri haricinde), yasal şart olarak belirlenen süre ve içerikteki <b>Aile Danışmanlığı Eğitim Programını</b> tamamlamak zorundadırlar.
-
-    <hr />
-
-2. Aile Danışma Merkezlerinde ailelere sıklıkla hangi <u>danışma hizmeti</u> verilmektedir?
-    - **Cevap A-) Boşanma Süreci Danışmanlığı**
-    - B-) Kardeş Kıskançlığı Danışmanlığı
-    - C-) Bilişsel Davranışçı Terapi Danışmanlığı
-    - D-) İş Bulma Hizmet Danışmanlığı
-    - E-) Boşanma Süreci Hukuki Danışmanlığı
-
-    > **Açıklama:** Aile Danışma Merkezlerinde ailelere en sıklıkla verilen hizmet, boşanma öncesi ve sonrası uyum programları içeren <b>Boşanma Süreci Danışmanlığı</b> hizmetidir.
-
-    <hr />
-
-3. Bir Aile Danışma Merkezi açmayı planlarken, hangi 3 farklı bölümün olması gerekmektedir?
+1. Bir Aile Danışma Merkezi açmayı planlarken, hangi 3 farklı bölümün olması gerekmektedir?
     - **Cevap A-) Bekleme Salonu – Görüşme Odası – Diğer Bölümler**
     - B-) Oyun Salonu – Terapi Salonu – Mutfak
     - C-) Çocuk Bölümü – Ebeveyn Bölümü – Diğer Bölümler
@@ -955,8 +859,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Aile Danışma Merkezi açmak için gerekli olan temel fiziksel özellikler arasında <b>Bekleme Salonu, Görüşme Odası ve Diğer Bölümler</b> (Yönetici odası, arşiv vb.) yer almaktadır.
 
     <hr />
-
-4. Aile Danışma Merkezi açmak için en az kaç adet görüşme odası açılması gerekmektedir?
+1. Aile Danışma Merkezi açmak için en az kaç adet görüşme odası açılması gerekmektedir?
     - A-) 1
     - **Cevap B-) 2**
     - C-) 5
@@ -979,8 +882,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Sosyal Hizmet Merkezleri, çocuklardan engellilere ve kadınlara kadar birçok farklı hedef kitlesini kapsayan <b>Dezavantajlı Veya Riskli Gruplar</b>'a hizmet sunmayı amaçlar.
 
     <hr />
-
-2. Sosyal Hizmet Merkezlerinde görev alan sosyal çalışma görevlileri hangi alanlardan mezun olabilir?
+1. Sosyal Hizmet Merkezlerinde görev alan sosyal çalışma görevlileri hangi alanlardan mezun olabilir?
     - A-) Mühendislik
     - B-) Tıp
     - C-) İşletme
@@ -1003,8 +905,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Umut Evleri, <b>Aile ve Sosyal Hizmetler Bakanlığı</b>'na bağlı alt birimler olarak hizmet vermektedir.
 
     <hr />
-
-2. Aile ve Sosyal Hizmetler Bakanlığına bağlı olan Umut Evleri kimler için açılmış ve kimlere hizmet vermektedir?
+1. Aile ve Sosyal Hizmetler Bakanlığına bağlı olan Umut Evleri kimler için açılmış ve kimlere hizmet vermektedir?
     - A-) İhmal ve istismara maruz kalmış çocuklara
     - B-) Okul öncesi eğitim kurumlarına devam eden çocuklara
     - C-) Depremzede çocuklara
@@ -1014,8 +915,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Umut Evleri, Aile ve Sosyal Hizmetler Bakanlığına bağlı olarak <b>engelli bireylere</b> hizmet vermek için açılmıştır.
 
     <hr />
-
-3. Yasal olarak bir Umut Evinde en az ve en fazla kaç birey kalabilmektedir?
+1. Yasal olarak bir Umut Evinde en az ve en fazla kaç birey kalabilmektedir?
     - A-) En az 5 en fazla 8
     - B-) En az 1 en fazla 3
     - C-) En az 3 en fazla 5
@@ -1040,8 +940,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk gelişimcilerin Sağlık Bakanlığı'na bağlı çalışma sahalarından biri de Halk Sağlığı Genel Müdürlüğü'ne bağlı olan Toplum Sağlığı Merkezleri'dir.
 
     <hr />
-
-2. Sağlık Bakanlığına bağlı kurumların hangisinde çocuk gelişimciler görev yapmamaktadır?
+1. Sağlık Bakanlığına bağlı kurumların hangisinde çocuk gelişimciler görev yapmamaktadır?
     - **Cevap A-) Acil Sağlık Hizmetleri Genel Müdürlüğü**
     - B-) Sağlık Hizmetleri Genel Müdürlüğü
     - C-) Halk Sağlığı Genel Müdürlüğü
@@ -1051,8 +950,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Kaynaklarda, çocuk gelişimcilerin genellikle Sağlığın Geliştirilmesi, Sağlık Hizmetleri, Kamu Hastaneleri ve Halk Sağlığı Genel Müdürlüklerine bağlı birimlerde çalıştığı belirtilmektedir. Acil Sağlık Hizmetleri Genel Müdürlüğü'nde görev almadıkları ifade edilmiştir.
 
     <hr />
-
-3. Aşağıdaki merkezlerden hangisi Sağlık Bakanlığına bağlı çocuk gelişimcilerin görev yapabileceği merkezlerden biri değildir?
+1. Aşağıdaki merkezlerden hangisi Sağlık Bakanlığına bağlı çocuk gelişimcilerin görev yapabileceği merkezlerden biri değildir?
     - A-) Halk Sağlığı Genel Müdürlüğü
     - B-) Kamu Hastaneleri
     - C-) Yatan Hasta Servisleri
@@ -1060,19 +958,6 @@ III. Öğretmenin Kendini Değerlendirmesi
     - E-) Çocuk İzlem Merkezleri
 
     > **Açıklama:** Sağlık Bakanlığı’na bağlı kurumlar hastaneler, Çocuk İzlem Merkezleri ve Halk Sağlığı Merkezleri gibi birimleri içerir. Sevgi Evleri, Aile ve Sosyal Hizmetler Bakanlığı’na bağlıdır.
-
-    <hr />
-
-### 6.2. Sağlık Bakanlığı’na Bağlı Kurumlar
-
-1. Sağlık Bakanlığı’na bağlı kuruluşlarda çalışan çocuk gelişimciler aşağıdaki bakanlık ve birimlerden hangisinde çalışamaz?
-    - A-) Sağlığın Geliştirilmesi Genel Müdürlüğü
-    - B-) Halk Sağlığı Genel Müdürlüğü
-    - C-) Sağlık Hizmetleri Genel Müdürlüğü
-    - D-) Kamu Hastaneler Genel Müdürlüğü
-    - **Cevap E-) Aile ve Sosyal Politikalar Bakanlığı**
-
-    > **Açıklama:** Çocuk gelişimciler Halk Sağlığı, Sağlık Hizmetleri ve Kamu Hastaneleri Genel Müdürlüklerine bağlı birimlerde çalışabilirken, Aile ve Sosyal Politikalar Bakanlığı (şimdiki Aile ve Sosyal Hizmetler Bakanlığı) Sağlık Bakanlığı’ndan bağımsız bir kuruluştur.
 
     <hr />
 
@@ -1088,8 +973,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk gelişimciler, gelişimsel destek programı uygulamak ve aileye danışmanlık yapmakla görevlidir. Ancak, çocuk gelişimcilerin görev tanımında ilaç yazmak veya tıbbi tedavi planlamak yer almaz.
 
     <hr />
-
-2. Hastanelerde çalışan çocuk gelişimciler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+1. Hastanelerde çalışan çocuk gelişimciler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
     - **Cevap A-) İlaç yazar.**
     - B-) Aileye danışmanlık yapar.
     - C-) Gelişim takibi yapar.
@@ -1112,8 +996,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Amerikan Pediatri Akademisi'ne göre, çocuk gelişimi biriminde standart tarama testlerinin uygulanma amacı çocukların fiziksel ve zihinsel gelişimlerini değerlendirmektir.
 
     <hr />
-
-2. Çocuk gelişimi biriminde gelişimleri desteklenen grup seçeneklerden hangisinde eksik ya da yanlış verilmiştir?
+1. Çocuk gelişimi biriminde gelişimleri desteklenen grup seçeneklerden hangisinde eksik ya da yanlış verilmiştir?
     - **Cevap A-) 0- 15 yaş**
     - B-) tipik gelişim gösteren
     - C-) Atipik gelişim gösteren
@@ -1175,8 +1058,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk İzlem Merkezlerinin ana amacı, cinsel istismar şüphesi bulunan travma yaşamış çocuğun ikinci bir travma yaşamasını engelleyerek, istismar mağduru çocuğun beden ve ruh sağlığını korumaktır.
 
     <hr />
-
-2. Çocuk İzlem Merkezlerinde (ÇİM) görev yapan multidisipliner ekipte seçeneklerden hangisi çalışmaz?
+1. Çocuk İzlem Merkezlerinde (ÇİM) görev yapan multidisipliner ekipte seçeneklerden hangisi çalışmaz?
     - A-) Psikolog
     - B-) Çocuk Gelişimci
     - C-) Hemşire
@@ -1186,8 +1068,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk İzlem Merkezleri (ÇİM) multidisipliner bir yapıdır ve Psikolog, Çocuk Gelişimci, Hemşire, Polis gibi meslek grupları görev yapar. Ancak Hâkim, ÇİM bünyesinde çalışan bir personel değildir, adli süreci yürüten dışarıdan bir makamdır.
 
     <hr />
-
-3. …………..çocuk istismarı ve ihmal olaylarına müdahale eden ve bu konularda hizmet veren multidisipliner kuruluşlardır.
+1. …………..çocuk istismarı ve ihmal olaylarına müdahale eden ve bu konularda hizmet veren multidisipliner kuruluşlardır.
     - A-) Hastane Çocuk Gelişim Üniteleri
     - **Cevap B-) Çocuk İzlem Merkezleri (ÇİM)**
     - C-) Ana-Çocuk Sağlığı ve Aile Planlama Merkezleri
@@ -1197,8 +1078,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Verilen tanım, istismar ve ihmal olaylarına müdahale eden ve travma yaşamış çocuğun ikincil travma yaşamasını önleyen Çocuk İzlem Merkezlerini (ÇİM) ifade eder.
 
     <hr />
-
-4. Çocuk İzlem Merkezi (ÇİM) ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+1. Çocuk İzlem Merkezi (ÇİM) ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
     - A-) ÇİM'ler, istismar şüphesi bulunan travma yaşamış çocuğun ikinci bir travma yaşamasını engellemeyi amaçlar.
     - B-) Çocuk İzlem Merkezlerindeki çocuk gelişimciler çocukla adli görüşmeci olarak görüşme yapabilmektedir.
     - C-) ÇİM'de görüşme yapan yetkili kişi, ayna arkasından yönlendirilir ve görüşme kamera kaydına alınır.
@@ -1206,6 +1086,19 @@ III. Öğretmenin Kendini Değerlendirmesi
     - **Cevap E-) ÇİM'lerin ana amacı, çocukların gelişimini desteklemek ve onlara eğitim sağlamaktır.**
 
     > **Açıklama:** Çocuk İzlem Merkezlerinin ana amacı, istismar şüphesi bulunan çocuğun ikinci bir travma yaşamasını engellemeyi sağlamaktır. Eğitim sağlamak birincil amaçları arasında değildir.
+
+    <hr />
+
+### 6.2. Sağlık Bakanlığı’na Bağlı Kurumlar
+
+1. Sağlık Bakanlığı’na bağlı kuruluşlarda çalışan çocuk gelişimciler aşağıdaki bakanlık ve birimlerden hangisinde çalışamaz?
+    - A-) Sağlığın Geliştirilmesi Genel Müdürlüğü
+    - B-) Halk Sağlığı Genel Müdürlüğü
+    - C-) Sağlık Hizmetleri Genel Müdürlüğü
+    - D-) Kamu Hastaneler Genel Müdürlüğü
+    - **Cevap E-) Aile ve Sosyal Politikalar Bakanlığı**
+
+    > **Açıklama:** Çocuk gelişimciler Halk Sağlığı, Sağlık Hizmetleri ve Kamu Hastaneleri Genel Müdürlüklerine bağlı birimlerde çalışabilirken, Aile ve Sosyal Politikalar Bakanlığı (şimdiki Aile ve Sosyal Hizmetler Bakanlığı) Sağlık Bakanlığı’ndan bağımsız bir kuruluştur.
 
     <hr />
 
@@ -1221,8 +1114,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk gelişimcilerin toplum sağlığı merkezlerindeki görevleri arasında eğitimler verme, danışmanlık yapma ve gelişimsel değerlendirmeler yer alırken, Öğrencilere birebir ders verme görevi yer almaz.
 
     <hr />
-
-2. Toplum Sağlığı Merkezlerinin ana görevi aşağıdakilerden hangisidir?
+1. Toplum Sağlığı Merkezlerinin ana görevi aşağıdakilerden hangisidir?
     - A-) Çocukların fiziksel ihtiyaçlarına yanıt vermek
     - B-) Öğrencilere eğitim vermek
     - C-) Yalnızca çocuklara yönelik hizmet vermek
@@ -1261,41 +1153,6 @@ III. Öğretmenin Kendini Değerlendirmesi
 
 ## Ünite 7
 
-### 7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri
-
-1. Aşağıdakilerden hangisi Milli Eğitim Bakanlığı Özel Eğitim Hizmetleri yönetmeliğinde özel eğitimin tanımı olarak belirtilmiştir?
-    - **Cevap A-) Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.**
-    - B-) Özel eğitim ihtiyaçları olan bireylerin normal gelişim gösteren akranlarıyla birlikte aynı sınıfta eğitime entegre edilmesidir.
-    - C-) Bireyin bir yaralanma veya sapma nedeniyle karşılaştığı zorluklar.
-    - D-) Bireyin yaş, cinsiyet, sosyal ve kültürel faktörlere göre belirlenen rolleri yeterli bir şekilde yerine getirememesi durumudur.
-    - E-) Bireyin gelişim özellikleri bakımından diğer akranlarından anlamlı şekilde farklılık göstermesi.
-
-    > **Açıklama:** Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.
-
-    <hr />
-
-2. Aşağıdakilerden hangisi “Özel Eğitim” ile ilgili yanlış bir ifadedir?
-    - A-) Özel eğitimde birey merkezli yaklaşım benimsenir.
-    - B-) Özel eğitim, bireysel ve gelişimsel özellikleri gözeterek uygun ortamlarda sürdürülen eğitimdir.
-    - **Cevap C-) Özel eğitim, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir.**
-    - D-) Özel olarak yetiştirilmiş personel ile uygun ortamlarda sürdürülen eğitimdir.
-    - E-) Özel eğitimin amacı, özel ihtiyaçları olan kişilere sağlanan eğitim şeklidir.
-
-    > **Açıklama:** Özel eğitim; zihinsel, duygusal, davranışsal ve diğer özel gereksinimleri olan bireyleri de kapsar. Dolayısıyla, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir ifadesi yanlıştır.
-
-    <hr />
-
-3. Özel Eğitim Hizmetleri Yönetmeliği’ne göre özel eğitim ile ilgili verilen bilgilerden hangisi yanlıştır?
-    - A-) Özel eğitim gerektiren çocuklar, standart eğitim hizmetlerinden tam anlamıyla faydalanmada zorluk yaşarlar.
-    - B-) Öğrencinin bireysel ihtiyaçlarına odaklanmak özel eğitimde kritik öneme sahiptir.
-    - **Cevap C-) Özel eğitim gereksinimleri, yalnızca doğuştan gelir.**
-    - D-) Özel Eğitim Hizmetleri Yönetmeliği’ne göre bu bireyler, akranlarından anlamlı düzeyde farklılık gösteren bireylerdir.
-    - E-) Özel gereksinimli çocuklar, sahip oldukları özellikler ve ihtiyaçlar temelinde farklı kategorilere ayrılırlar.
-
-    > **Açıklama:** Özel eğitim gereksinimlerinin yalnızca doğuştan geldiği bilgisi yanlıştır; bu gereksinimler gelişimsel süreçte sonradan da ortaya çıkabilir.
-
-    <hr />
-
 ### 7.1.1. Özel Eğitimin İlkeleri
 
 1. Aşağıdakilerden hangisi eğitsel değerlendirme ve tanılama sürecinin temel ilkelerinden biri değildir?
@@ -1321,8 +1178,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Özel gereksinim sınıflandırmaları, tipik gelişim seyrinden farklılık gösteren bireyleri kapsar. Tipik gelişim gösteren çocuklar bu sınıflandırmanın dışında yer alır.
 
     <hr />
-
-2. “Özel gereksinimli çocuklar” ifadesini aşağıdaki şıklardan hangisi tanımlar?
+1. “Özel gereksinimli çocuklar” ifadesini aşağıdaki şıklardan hangisi tanımlar?
     - A-) Standart eğitim hizmetlerinden tam anlamıyla faydalanabilen bireyler.
     - B-) Sadece fiziksel sorunları olan bireyler.
     - **Cevap C-) 0-18 yaş arasında, belirli alanlarda öğrenme zorlukları yaşayan veya gelişimleri diğer çocuklardan farklı olan bireyler.**
@@ -1345,8 +1201,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** BEP, özel eğitim ihtiyacı olan bireyler için belirlenen eğitsel ihtiyaçları ve hedefleri doğrultusunda izlenecek yöntemleri ve stratejileri tanımlayan bir eğitim dokümanıdır.
 
     <hr />
-
-2. Bireyselleştirilmiş Eğitim Programı (BEP) geliştirme biriminde, öğrencinin bilişsel, duygusal ve sosyal ihtiyaçlarına dair değerlendirmelerde bulunarak bu konularda rehberlik sağlayan meslek mensubu aşağıdakilerden hangisidir?
+1. Bireyselleştirilmiş Eğitim Programı (BEP) geliştirme biriminde, öğrencinin bilişsel, duygusal ve sosyal ihtiyaçlarına dair değerlendirmelerde bulunarak bu konularda rehberlik sağlayan meslek mensubu aşağıdakilerden hangisidir?
     - A-) Öğrencinin öğretmen(ler)i
     - B-) Fizyoterapist, ergoterapist veya diğer sağlık profesyonelleri
     - **Cevap C-) Okul psikoloğu**
@@ -1354,19 +1209,6 @@ III. Öğretmenin Kendini Değerlendirmesi
     - E-) Özel eğitim uzmanı
 
     > **Açıklama:** BEP geliştirme biriminde, öğrencinin bilişsel, duygusal ve sosyal ihtiyaçlarına dair değerlendirmelerde bulunarak bu konularda rehberlik sağlayan kişi Okul psikoloğu'dur.
-
-    <hr />
-
-### 7.1.4. Kaynaştırma/Bütünleştirme Yoluyla Eğitim
-
-1. Okul Öncesi Eğitim Programında özel gereksinimli çocuklar için etkinlikler üzerinde yapılan düzenlemeler ne olarak adlandırılmaktadır?
-    - A-) Gün Akışı
-    - B-) Oryantasyon
-    - C-) Bütünleştirme
-    - D-) Planlama
-    - **Cevap E-) Uyarlama**
-
-    > **Açıklama:** Özel gereksinimli çocuklar için etkinlikler üzerinde yapılan düzenlemeler Uyarlama olarak adlandırılmaktadır.
 
     <hr />
 
@@ -1409,6 +1251,39 @@ III. Öğretmenin Kendini Değerlendirmesi
 
     <hr />
 
+### 7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri
+
+1. Aşağıdakilerden hangisi Milli Eğitim Bakanlığı Özel Eğitim Hizmetleri yönetmeliğinde özel eğitimin tanımı olarak belirtilmiştir?
+    - **Cevap A-) Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.**
+    - B-) Özel eğitim ihtiyaçları olan bireylerin normal gelişim gösteren akranlarıyla birlikte aynı sınıfta eğitime entegre edilmesidir.
+    - C-) Bireyin bir yaralanma veya sapma nedeniyle karşılaştığı zorluklar.
+    - D-) Bireyin yaş, cinsiyet, sosyal ve kültürel faktörlere göre belirlenen rolleri yeterli bir şekilde yerine getirememesi durumudur.
+    - E-) Bireyin gelişim özellikleri bakımından diğer akranlarından anlamlı şekilde farklılık göstermesi.
+
+    > **Açıklama:** Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.
+
+    <hr />
+1. Aşağıdakilerden hangisi “Özel Eğitim” ile ilgili yanlış bir ifadedir?
+    - A-) Özel eğitimde birey merkezli yaklaşım benimsenir.
+    - B-) Özel eğitim, bireysel ve gelişimsel özellikleri gözeterek uygun ortamlarda sürdürülen eğitimdir.
+    - **Cevap C-) Özel eğitim, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir.**
+    - D-) Özel olarak yetiştirilmiş personel ile uygun ortamlarda sürdürülen eğitimdir.
+    - E-) Özel eğitimin amacı, özel ihtiyaçları olan kişilere sağlanan eğitim şeklidir.
+
+    > **Açıklama:** Özel eğitim; zihinsel, duygusal, davranışsal ve diğer özel gereksinimleri olan bireyleri de kapsar. Dolayısıyla, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir ifadesi yanlıştır.
+
+    <hr />
+1. Özel Eğitim Hizmetleri Yönetmeliği’ne göre özel eğitim ile ilgili verilen bilgilerden hangisi yanlıştır?
+    - A-) Özel eğitim gerektiren çocuklar, standart eğitim hizmetlerinden tam anlamıyla faydalanmada zorluk yaşarlar.
+    - B-) Öğrencinin bireysel ihtiyaçlarına odaklanmak özel eğitimde kritik öneme sahiptir.
+    - **Cevap C-) Özel eğitim gereksinimleri, yalnızca doğuştan gelir.**
+    - D-) Özel Eğitim Hizmetleri Yönetmeliği’ne göre bu bireyler, akranlarından anlamlı düzeyde farklılık gösteren bireylerdir.
+    - E-) Özel gereksinimli çocuklar, sahip oldukları özellikler ve ihtiyaçlar temelinde farklı kategorilere ayrılırlar.
+
+    > **Açıklama:** Özel eğitim gereksinimlerinin yalnızca doğuştan geldiği bilgisi yanlıştır; bu gereksinimler gelişimsel süreçte sonradan da ortaya çıkabilir.
+
+    <hr />
+
 ### 7.2.1. Özel Eğitim ve Rehabilitasyon Merkezleri
 
 1. Özel Eğitim ve Rehabilitasyon Merkezlerinin temel amacı aşağıdakilerden hangisidir?
@@ -1421,8 +1296,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Özel Eğitim ve Rehabilitasyon Merkezleri, temel olarak özel eğitim ihtiyacı olan bireylerin eğitim ve rehabilitasyon ihtiyaçlarını karşılamak üzere kurulmuştur. Amaç; bireyin toplumsal rollerini yerine getirebilmesini ve çevreye uyumunu sağlamaktır.
 
     <hr />
-
-2. Özel Eğitim Anaokulu açmak için en önemli koşul aşağıdakilerden hangisidir?
+1. Özel Eğitim Anaokulu açmak için en önemli koşul aşağıdakilerden hangisidir?
     - A-) Akıllı bina olması
     - **Cevap B-) Müstakil bir yapı olması**
     - C-) Bahçesinin olması
@@ -1432,8 +1306,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Özel eğitim anaokulu açılabilmesi için açılması düşünülen yapının muhakkak müstakil bir yapı olması yönetmelikte en önemli koşul olarak belirtilmiştir.
 
     <hr />
-
-3. Bir çocuk gelişimci olarak Özel Gereksinimli Çocuklar için bir ilkokul açmak istiyorsunuz. Yönetmeliğe göre açacağınız okulda en az kaç sınıfın olması gerekmektedir?
+1. Bir çocuk gelişimci olarak Özel Gereksinimli Çocuklar için bir ilkokul açmak istiyorsunuz. Yönetmeliğe göre açacağınız okulda en az kaç sınıfın olması gerekmektedir?
     - A-) 1 sınıf
     - B-) 2 sınıf
     - C-) 3 sınıf
@@ -1456,8 +1329,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Rehberlik ve Araştırma Merkezleri (RAM), öğrencilerin zorluklarını tespit etmek, değerlendirmek ve yönlendirme kararları almak amacıyla Milli Eğitim Bakanlığı'na bağlı olarak faaliyet gösterir.
 
     <hr />
-
-2. Çocuk gelişimi ve eğitimcisinin Rehberlik ve Araştırma Merkezleri (RAM)’ndeki görevlerinden biri değildir?
+1. Çocuk gelişimi ve eğitimcisinin Rehberlik ve Araştırma Merkezleri (RAM)’ndeki görevlerinden biri değildir?
     - A-) Danışanları fizikî, zihinsel ve sosyal gelişim bakımından incelemek.
     - B-) Alanıyla ilgili konularda ailelere ve öğretmenlere rehberlik etmek.
     - **Cevap C-) Alanıyla ilgili konularda hastanelerde tedavi uygulamalarına katılmak.**
@@ -1467,8 +1339,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Çocuk gelişimciler, gelişimsel incelemeler yapar ve rehberlik hizmeti sunar; ancak hastanelerde tedavi uygulamalarına katılmak RAM'lardaki görevleri arasında yer almaz.
 
     <hr />
-
-3. Aşağıdakilerden hangisi özel yetenekli olan bireyler için açılan kurumlardan biridir?
+1. Aşağıdakilerden hangisi özel yetenekli olan bireyler için açılan kurumlardan biridir?
     - A-) Rehberlik ve Araştırma Merkezleri
     - B-) Uygulama Anaokulları
     - C-) Bağımsız Anaokulları
@@ -1493,8 +1364,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Mesleki ve teknik eğitimin temel amacı, ekonomik ve sosyal sektörlerin ihtiyaç duyduğu nitelikli işgücünü yetiştirerek ekonomik ve sosyal sektörlerin işgücü taleplerini karşılamaktır.
 
     <hr />
-
-2. Aşağıdakilerden hangisi mesleki ve teknik eğitimin tanımıyla ilgili verilen bilgilere göre doğru bir ifade değildir?
+1. Aşağıdakilerden hangisi mesleki ve teknik eğitimin tanımıyla ilgili verilen bilgilere göre doğru bir ifade değildir?
     - A-) Mesleki ve teknik eğitim, öğrenciyi yükseköğretime hazırlayan öğretim kurumlarıdır.
     - B-) Mesleki eğitim, farklı ekonomik sektörlerde, toplumsal yaşam içerisinde yer alan mesleklerin gerektirdiği genel mesleki eğitimi ifade eder.
     - C-) Mesleki ve teknik eğitim, öğrencinin kabul gören mesleğini seçmesini ve bu alanda eğitim almasını sağlar.
@@ -1504,8 +1374,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Mesleki eğitimin tanımı, teknoloji kullanımının yanı sıra, pratik becerileri, tutum ve bilgiyi de içerir. Dolayısıyla, Mesleki eğitim, sadece teknoloji kullanımını kapsar ifadesi doğru değildir.
 
     <hr />
-
-3. Çocuk gelişimi ve eğitimi çerçeve öğretim programı, öğrencilere işletmelerde meslek eğitim uygulama fırsatı tanıyan hangi kanunla ilişkilidir?
+1. Çocuk gelişimi ve eğitimi çerçeve öğretim programı, öğrencilere işletmelerde meslek eğitim uygulama fırsatı tanıyan hangi kanunla ilişkilidir?
     - A-) 1937 Sayılı Eğitim Kanunu
     - **Cevap B-) 3308 Sayılı Çıraklık ve Mesleki Eğitim Kanunu**
     - C-) 2125 Sayılı Mesleki Beceri Kanunu
@@ -1513,19 +1382,6 @@ III. Öğretmenin Kendini Değerlendirmesi
     - E-) 2569 Sayılı Öğrenci Uygulamaları Kanunu
 
     > **Açıklama:** Öğrencilere işletmelerde meslek eğitim uygulamaları, 1986 yılında çıkarılan 3308 Sayılı Çıraklık ve Mesleki Eğitim Kanunu’na göre başlamıştır.
-
-    <hr />
-
-### 8.2. Mesleki ve Teknik Eğitiminin Tarihçesi
-
-1. Mesleki ve Teknik Eğitim düşünüldüğünde mesleki eğitim okullarının öncüsü aşağıdakilerden hangisidir?
-    - A-) Sanayi Mektepleri
-    - B-) Mekteb-i Osmani
-    - C-) Darülfünun
-    - D-) Darülmaarif
-    - **Cevap E-) Islahhane**
-
-    > **Açıklama:** Mithat Paşa'nın 1861'de kimsesiz çocuklara meslek kazandırmayı hedeflediği Islahhane, mesleki eğitim okullarının öncüsü olmuştur.
 
     <hr />
 
@@ -1554,8 +1410,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** 3308 sayılı Mesleki Eğitim Kanunu’na göre, meslek dersi öğretmenleri okul ile işletme arasındaki işbirliği sürecinde koordinatör öğretmen sıfatıyla aktif rol üstlenirler.
 
     <hr />
-
-2. Çocuk gelişimi branş öğretmenlerinin görevleri arasında aşağıdakilerden hangisi yer almaz?
+1. Çocuk gelişimi branş öğretmenlerinin görevleri arasında aşağıdakilerden hangisi yer almaz?
     - **Cevap A-) Öğrencilere alanı ile ilgili sadece teorik bilgi kazandırır.**
     - B-) Program kapsamında güncel gelişmeleri takip eder ve uygular.
     - C-) Öğrencilerin sorunlarını dinler ve çözümüne destek olur.
@@ -1565,8 +1420,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Öğretmenler sadece teorik bilgi kazandırmakla yetinmezler. Mesleki ve teknik eğitimde öğrenciler uygulamalı beceri ve bilgi kazanmalıdır. Dolayısıyla, Öğrencilere alanı ile ilgili sadece teorik bilgi kazandırır ifadesi yanlıştır.
 
     <hr />
-
-3. Çocuk gelişimi ve eğitimi alan öğretmeninin, mesleki ve teknik eğitimde öğrencilere aşağıda verilen konulardan hangisine rehberlik etmektedir?
+1. Çocuk gelişimi ve eğitimi alan öğretmeninin, mesleki ve teknik eğitimde öğrencilere aşağıda verilen konulardan hangisine rehberlik etmektedir?
     - A-) Yalnızca alan bilgisi aktarma ve sınavla değerlendirme
     - **Cevap B-) Çocuğun gelişim aşamalarını tanıma ve bu gelişime uygun davranışlar sergileme**
     - C-) Yalnızca konu anlatımı yapma ve öğrencilere not verme
@@ -1576,8 +1430,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Bu alandaki eğitim, çocuğun gelişim aşamalarını tanıma ve bu gelişime uygun davranışlar sergileme konularında bilgi ve beceri kazandırmaya odaklanır.
 
     <hr />
-
-4. İdeal öğretmen kavramı, Lamm'ın (1972, 2000) ortaya koyduğu dört ana başlık arasında aşağıdakilerden hangisini içermez?
+1. İdeal öğretmen kavramı, Lamm'ın (1972, 2000) ortaya koyduğu dört ana başlık arasında aşağıdakilerden hangisini içermez?
     - A-) Kültürlenme
     - B-) Sosyalleşme
     - C-) Bireyselleşme
@@ -1587,8 +1440,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Lamm'ın 'ideal öğretmenler' için belirlediği dört ana başlık Kültürlenme, Sosyalleşme, Bireyselleşme ve Disiplin'dir. Toplumsallaşma bu ana başlıklar arasında yer almaz. (Not: Toplumsallaşma, Sosyalleşme ile sıkça karıştırılan bir seçenektir).
 
     <hr />
-
-5. Çocuk gelişimi ve eğitimi alanına öğretmen atamalarına ilişkin bilgilerden hangisi doğrudur?
+1. Çocuk gelişimi ve eğitimi alanına öğretmen atamalarına ilişkin bilgilerden hangisi doğrudur?
     - A-) Sadece Çocuk Gelişimi bölümü mezunları Mesleki ve Teknik liselerde öğretmen olabilirler.
     - B-) Çocuk Gelişimi bölümü mezunları doğrudan öğretmen olarak atanabilirler.
     - **Cevap C-) Pedagojik formasyon eğitimi ya da tezsiz yüksek lisans yapma koşulu, Çocuk Gelişimi bölümü mezunları için öğretmenlik için bir zorunluluktur.**
@@ -1611,8 +1463,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** 3308 Sayılı Çıraklık ve Mesleki Eğitim Kanunu’na göre, öğrenciler iki gün okullarda teorik eğitim almakta ve üç gün işletmelerde uygulamalı eğitim yapmaktadır.
 
     <hr />
-
-2. Çocuk gelişimi ve eğitimi çerçeve öğretim programının hangi bileşeni, öğrencilere kendi yetenekleri, ilgileri ve hedefleri doğrultusunda bireysel olarak öğrenme ve gelişme fırsatları sunar?
+1. Çocuk gelişimi ve eğitimi çerçeve öğretim programının hangi bileşeni, öğrencilere kendi yetenekleri, ilgileri ve hedefleri doğrultusunda bireysel olarak öğrenme ve gelişme fırsatları sunar?
     - A-) Genel Kültür
     - B-) Yükseköğretim Hazırlığı
     - C-) Mesleki Yönlendirme
@@ -1622,8 +1473,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Bu bileşen, öğrencilere kendi yetenekleri, ilgileri ve hedefleri doğrultusunda bireysel olarak öğrenme ve gelişme fırsatları sunan Kişisel Gelişim’dir.
 
     <hr />
-
-3. Mesleki eğitim programlarında, genel yetkinliklerin yanı sıra etik değerlere uygun davranma gibi özellikleri kapsayan beceri seti hangi kategori altında ele alınmaktadır?
+1. Mesleki eğitim programlarında, genel yetkinliklerin yanı sıra etik değerlere uygun davranma gibi özellikleri kapsayan beceri seti hangi kategori altında ele alınmaktadır?
     - A-) İleri Mesleki Beceriler
     - B-) Özel Mesleki Beceriler
     - C-) Genel Eğitim Becerileri
@@ -1631,6 +1481,19 @@ III. Öğretmenin Kendini Değerlendirmesi
     - E-) Seçmeli Meslek Dersleri
 
     > **Açıklama:** Genel yetkinlikler ve etik değerlere uygun davranma gibi özellikleri kapsayan beceri seti, programın odak noktasını oluşturan Temel Mesleki Beceriler kategorisi altında ele alınmaktadır.
+
+    <hr />
+
+### 8.2. Mesleki ve Teknik Eğitiminin Tarihçesi
+
+1. Mesleki ve Teknik Eğitim düşünüldüğünde mesleki eğitim okullarının öncüsü aşağıdakilerden hangisidir?
+    - A-) Sanayi Mektepleri
+    - B-) Mekteb-i Osmani
+    - C-) Darülfünun
+    - D-) Darülmaarif
+    - **Cevap E-) Islahhane**
+
+    > **Açıklama:** Mithat Paşa'nın 1861'de kimsesiz çocuklara meslek kazandırmayı hedeflediği Islahhane, mesleki eğitim okullarının öncüsü olmuştur.
 
     <hr />
 
@@ -1648,8 +1511,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Açılacak kurumların yüksek gerilim hattından uzakta ve en az 50 metre yakınlarında akaryakıt istasyonunun olmamasına dikkat edilmektedir.
 
     <hr />
-
-2. Milli Eğitim Bakanlığına bağlı olarak açılacak bir kurumun, alkollü içecek satışı yapan yerlerden ve eğlence mekanlarından en az ne kadar uzakta olması gerekmektedir?
+1. Milli Eğitim Bakanlığına bağlı olarak açılacak bir kurumun, alkollü içecek satışı yapan yerlerden ve eğlence mekanlarından en az ne kadar uzakta olması gerekmektedir?
     - A-) 50 metre
     - **Cevap B-) 100 metre**
     - C-) 200 metre
@@ -1659,8 +1521,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** MEB yönetmeliğine göre, eğitim kurumları alkollü içki satışı yapan yerlerden ve eğlence mekanlarından en az 100 metre uzakta olmalıdır.
 
     <hr />
-
-3. Aşağıdakilerden hangisi Milli Eğitim Bakanlığına bağlı olarak açacağınız herhangi bir kurum için ortak genel koşullardan (olmazsa olmaz) birisidir?
+1. Aşağıdakilerden hangisi Milli Eğitim Bakanlığına bağlı olarak açacağınız herhangi bir kurum için ortak genel koşullardan (olmazsa olmaz) birisidir?
     - A-) Kurumun en az 500 m² kapalı alanı olması
     - B-) Ahşaptan yapılmış bir yapı olması
     - C-) En az 50 personel çalıştırılması
@@ -1670,8 +1531,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Açılacak olan kurumun engelli bireylerin erişimine uygun olarak hazırlanması, tüm eğitim kurumları için ortak belirlenmiş genel esaslardan ve temel bir şarttır.
 
     <hr />
-
-4. Milli Eğitim Bakanlığına bağlı olarak açılan kurumlarda etkinlik odaları ya da sınıflar çocuk başına belli bir metrekarede olması gerekmektedir. Aşağıdaki hangi kurumda çocuk başına düşen metrekare oranı en yüksek olmalıdır?
+1. Milli Eğitim Bakanlığına bağlı olarak açılan kurumlarda etkinlik odaları ya da sınıflar çocuk başına belli bir metrekarede olması gerekmektedir. Aşağıdaki hangi kurumda çocuk başına düşen metrekare oranı en yüksek olmalıdır?
     - A-) Ortaokul derslikleri
     - B-) Lise derslikleri
     - C-) İlkokul derslikleri
@@ -1681,8 +1541,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Mevzuata göre, çocuk başına düşen metrekare miktarı okul öncesi dönem çocukları için etkinlik veya oyun odasında en az 2,40 metrekare olmalıdır. İlkokul için 1,60 metrekare, ortaokul/lise için 1,85 metrekare gerekmektedir.
 
     <hr />
-
-5. Özel bir anaokulu açarken yönetmeliğe göre okulda en az kaç çocuğun olması gerekmektedir?
+1. Özel bir anaokulu açarken yönetmeliğe göre okulda en az kaç çocuğun olması gerekmektedir?
     - A-) 5 çocuk
     - B-) 10 çocuk
     - **Cevap C-) 20 çocuk**
@@ -1692,8 +1551,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Millî Eğitim Bakanlığı Kurum Açma Yönetmeliği'ne göre bir anaokulu açmak için okulda en az 20 çocuğun kayıt yaptırmış olması beklenmektedir.
 
     <hr />
-
-6. Yönetmeliğe göre açılmış olan bir okul öncesi eğitim kurumunda ilave bir anasınıfı açmak istendiğinde, açılacak olan yeni sınıfta en az kaç çocuk bulunmalıdır?
+1. Yönetmeliğe göre açılmış olan bir okul öncesi eğitim kurumunda ilave bir anasınıfı açmak istendiğinde, açılacak olan yeni sınıfta en az kaç çocuk bulunmalıdır?
     - A-) 6 çocuk
     - **Cevap B-) 10 çocuk**
     - C-) 8 çocuk
@@ -1703,8 +1561,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Millî Eğitim Bakanlığı yönetmeliği kapsamında, anaokulunda en az 20 çocuk bulunması gerekirken; ana sınıfı (ilave sınıf olarak düşünülebilir) açılacaksa sınıfta en az 10 çocuğun bulunması gerekmektedir.
 
     <hr />
-
-7. Kaç yaşını doldurmuş çocuklar, ebeveynlerin yazılı izni olmadan ilkokula kayıt yaptırabilmektedir?
+1. Kaç yaşını doldurmuş çocuklar, ebeveynlerin yazılı izni olmadan ilkokula kayıt yaptırabilmektedir?
     - A-) 48 aylık
     - B-) 52 aylık
     - C-) 58 aylık
@@ -1714,8 +1571,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** İlkokul 1. sınıfa 69 aylığını doldurmuş her çocuk kayıt yaptırılabilmektedir. Eğer çocuk 66-67 veya 68 aylık ise, ebeveynlerinin yazılı isteği doğrultusunda kaydı yapılabilir.
 
     <hr />
-
-8. Üniversite bünyesinde açılan ve 36-72 aylık çocuklara hem eğitimsel hem de gelişimsel destek veren, ilgili bölümlerin staj ve uygulama imkanlarını sunan okul öncesi kurumlara ne ad verilir?
+1. Üniversite bünyesinde açılan ve 36-72 aylık çocuklara hem eğitimsel hem de gelişimsel destek veren, ilgili bölümlerin staj ve uygulama imkanlarını sunan okul öncesi kurumlara ne ad verilir?
     - A-) Bağımsız Anaokulları
     - B-) İlkokula Bağlı Anaokulları
     - C-) Çocuk Üniversiteleri
@@ -1751,8 +1607,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Özel eğitim anaokulu açılabilmesi için açılması düşünülen yapının muhakkak müstakil bir yapı olması yönetmelikte en önemli koşul olarak belirtilmiştir.
 
     <hr />
-
-2. Milli Eğitim Bakanlığı yönetmeliğine göre, bir özel eğitim anaokulu açabilmek için en az kaç tane etkinlik ya da oyun odası açılması gerekmektedir?
+1. Milli Eğitim Bakanlığı yönetmeliğine göre, bir özel eğitim anaokulu açabilmek için en az kaç tane etkinlik ya da oyun odası açılması gerekmektedir?
     - A-) 2
     - **Cevap B-) 4**
     - C-) 6
@@ -1762,8 +1617,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Özel eğitim anaokulu açılabilmesi için bu yapının içinde en az 4 adet etkinlik ya da oyun odasının olması standartlaştırılmıştır.
 
     <hr />
-
-3. Bir çocuk gelişimci olarak Bedensel Engelli Bireylere yönelik ilkokul veya ortaokul açmak istiyorsunuz. Yönetmeliğe göre açacağınız okulda en az kaç sınıfın olması gerekmektedir?
+1. Bir çocuk gelişimci olarak Bedensel Engelli Bireylere yönelik ilkokul veya ortaokul açmak istiyorsunuz. Yönetmeliğe göre açacağınız okulda en az kaç sınıfın olması gerekmektedir?
     - A-) 1 sınıf
     - B-) 2 sınıf
     - C-) 3 sınıf
@@ -1773,8 +1627,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Bedensel engelli çocuklara ait ilkokul ya da ortaokul düzeyinde bir kurum açılacaksa, yönetmeliğe göre en az 4 sınıfın olması gerekmektedir.
 
     <hr />
-
-4. Özel yetenekli bireylere yönelik Bilim ve Sanat Merkezi (BİLSEM) açmak ile ilgili olarak, açılacak olan merkezin kurulacağı yerleşim yerinin nüfusunun en az ne kadar olması beklenmektedir?
+1. Özel yetenekli bireylere yönelik Bilim ve Sanat Merkezi (BİLSEM) açmak ile ilgili olarak, açılacak olan merkezin kurulacağı yerleşim yerinin nüfusunun en az ne kadar olması beklenmektedir?
     - A-) En az 50.000
     - **Cevap B-) En az 100.000**
     - C-) En az 80.000
@@ -1797,8 +1650,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Aile Danışmanlığı Merkezi yönetmeliğinde bekleme salonu, en az 2 görüşme odası, yönetici odası ve arşiv gibi bölümler açıkça belirtilmiştir. Ancak en az 750 kişi kapasiteli konferans salonu bu gereklilikler arasında yer almaz.
 
     <hr />
-
-2. Aile Danışma Merkezleri Yönetmeliği kapsamında, bu merkezlerde bulunması gereken 3 farklı ana bölüm aşağıdakilerden hangisidir?
+1. Aile Danışma Merkezleri Yönetmeliği kapsamında, bu merkezlerde bulunması gereken 3 farklı ana bölüm aşağıdakilerden hangisidir?
     - A-) Oyun Salonu – Terapi Salonu – Mutfak
     - B-) Giriş Bölümü – Bekleme Salonu – Terapi Odaları
     - C-) Çocuk Bölümü – Ebeveyn Bölümü – Diğer Bölümler
@@ -1823,12 +1675,7 @@ III. Öğretmenin Kendini Değerlendirmesi
     > **Açıklama:** Anne-Çocuk Oyun Merkezleri hafta içi ve 8.30-17.00 saatleri arasında hizmet vermektedir. Bu nedenle, 7 gün 24 saat hizmet vermektedir ifadesi doğru değildir.
 
     <hr />
-
-2. Aşağıda verilen maddelerden hangisi ya da hangileri Anne-Çocuk Oyun Merkezinin amaçlarından birisidir?
-
-I. Güvenli Oyun Alanları Sağlamak
-II. Annelere Etkin Oyun Oynama Becerisini Kazandırma
-III. Çocukların Teknolojik Okur Yazarlığını Arttırmak
+1. Aşağıda verilen maddelerden hangisi ya da hangileri Anne-Çocuk Oyun Merkezinin amaçlarından birisidir?<br />I. Güvenli Oyun Alanları Sağlamak<br />II. Annelere Etkin Oyun Oynama Becerisini Kazandırma<br />III. Çocukların Teknolojik Okur Yazarlığını Arttırmak
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I ve II**
@@ -1838,8 +1685,7 @@ III. Çocukların Teknolojik Okur Yazarlığını Arttırmak
     > **Açıklama:** Anne-Çocuk Oyun Merkezlerinin temel amaçları arasında çocukların gelişimini desteklemek amacıyla güvenilir oyun alanları sağlamak ve annelere çocuklarıyla nasıl oyun oynayacakları konusunda eğitim vererek etkin oyun oynama becerisini kazandırmak yer alır.
 
     <hr />
-
-3. Belediyelere bağlı olan Anne Çocuk Oyun Merkezlerinin işlevi ile ilgili verilen bilgilerden hangisi yanlıştır?
+1. Belediyelere bağlı olan Anne Çocuk Oyun Merkezlerinin işlevi ile ilgili verilen bilgilerden hangisi yanlıştır?
     - A-) Merkezde farklı meslek alanlarından profesyoneller yer alır.
     - B-) Merkezde sadece 1 merkez sorumlusu görev alır.
     - C-) Bu merkezde anneler ve çocuklar kayıt edilir.
@@ -1862,8 +1708,7 @@ III. Çocukların Teknolojik Okur Yazarlığını Arttırmak
     > **Açıklama:** Çocuk Koruma Evleri, belediyeler tarafından açılan ve 0-18 yaş arasındaki bakıma ve korunmaya ihtiyacı olan çocuk ve gençlere geçici süreli rehabilitasyon hizmeti sunan yerlerdir.
 
     <hr />
-
-2. Çocuk Koruma Evlerinde kalan çocukların ne kadar sürelik periyotlarda rutin sağlık kontrolleri yapılmaktadır?
+1. Çocuk Koruma Evlerinde kalan çocukların ne kadar sürelik periyotlarda rutin sağlık kontrolleri yapılmaktadır?
     - A-) 3 ayda bir
     - **Cevap B-) 6 ayda bir**
     - C-) 8 ayda bir
@@ -1873,8 +1718,7 @@ III. Çocukların Teknolojik Okur Yazarlığını Arttırmak
     > **Açıklama:** Çocuk Koruma Evlerinde kalan çocukların rutin sağlık kontrolleri 6 ayda bir yapılmaktadır.
 
     <hr />
-
-3. Aşağıdaki hangi kurum, belediyelere bağlı olarak yürütülmekte ve 0-18 yaş arasındaki korunmaya ihtiyacı olan çocuk ve gençlerin geçici süreliğine rehabilitasyonunun sağlanmasını hedeflemektedir?
+1. Aşağıdaki hangi kurum, belediyelere bağlı olarak yürütülmekte ve 0-18 yaş arasındaki korunmaya ihtiyacı olan çocuk ve gençlerin geçici süreliğine rehabilitasyonunun sağlanmasını hedeflemektedir?
     - A-) Engellileri İyileştirme ve Hizmet Merkezleri
     - **Cevap B-) Çocuk Koruma Evleri**
     - C-) Anne-Çocuk Oyun Merkezleri
@@ -1897,8 +1741,7 @@ III. Çocukların Teknolojik Okur Yazarlığını Arttırmak
     > **Açıklama:** Belediyelere bağlı olarak hizmet veren Çocuk Evleri, belediye sınırları içinde 3 ila 5 yaş arasındaki (36-60 aylık) çocuklara yönelik etkinlikler düzenleyen merkezlerdir.
 
     <hr />
-
-2. Belediyelere bağlı Çocuk Evlerinde hangi program uygulanmaktadır?
+1. Belediyelere bağlı Çocuk Evlerinde hangi program uygulanmaktadır?
     - **Cevap A-) Okul Öncesi Eğitim Programı**
     - B-) Üstün Yetenekliler Eğitim Programı
     - C-) Otizmle Mücadele Erken Eğitim Programı
@@ -1934,12 +1777,7 @@ III. Çocukların Teknolojik Okur Yazarlığını Arttırmak
     > **Açıklama:** Kadın Danışma Merkezleri, kadınlara Psikolojik Destek, Hukuksal Destek, Sosyal Destek ve Ekonomik Destek hizmetlerini sunar. Ancak, bu merkezlerin hizmetleri arasında Sağlıksal Destek yer almamaktadır.
 
     <hr />
-
-2. Aşağıda verilen hizmetlerden hangisi ya da hangileri belediyelere bağlı olan Kadın Dayanışma Merkezleri’nde kadınlara sunulan hizmetlerden biridir?
-
-I. Ekonomik Destek Hizmeti
-II. Mesleki Danışmanlık Hizmeti
-III. Okuma Yazma Beceri Öğretim Hizmeti
+1. Aşağıda verilen hizmetlerden hangisi ya da hangileri belediyelere bağlı olan Kadın Dayanışma Merkezleri’nde kadınlara sunulan hizmetlerden biridir?<br />I. Ekonomik Destek Hizmeti<br />II. Mesleki Danışmanlık Hizmeti<br />III. Okuma Yazma Beceri Öğretim Hizmeti
     - A-) Yalnız III
     - B-) Yalnız I
     - C-) I ve III
@@ -1988,8 +1826,7 @@ III. Okuma Yazma Beceri Öğretim Hizmeti
     > **Açıklama:** Aile Danışmanlık ve Eğitim Merkezlerinde 0-6 yaş grubu çocuklara gelişimsel tarama olarak M-CHAT, Denver II ve AGTE testleri uygulanmaktadır. Cattell 2A Zeka Testi ise bu listede yer alan bir tarama testi değildir.
 
     <hr />
-
-2. M-CHAT Tarama ölçeği hangi özel gereksinimi belirlemeye yarayan bir ölçme aracıdır?
+1. M-CHAT Tarama ölçeği hangi özel gereksinimi belirlemeye yarayan bir ölçme aracıdır?
     - A-) Down Sendromu
     - **Cevap B-) Otizm**
     - C-) Asperger

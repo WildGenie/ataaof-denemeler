@@ -15,7 +15,9 @@
             "unit": 1,
             "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
             "source": "Final Soruları 2021, Vize Soruları 2024-2025, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 27, Soru 5, Soru 15"
+            "sourceInfo": "Soru 27, Soru 5, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1002,
@@ -32,7 +34,9 @@
             "unit": 1,
             "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
             "source": "Vize Soruları 2023-2024, 2020 Vize Soruları, Vize 2021 Deneme Sınavı",
-            "sourceInfo": "Soru 3, Soru 14, Soru 3"
+            "sourceInfo": "Soru 3, Soru 14, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1003,
@@ -49,7 +53,9 @@
             "unit": 1,
             "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2023-2024, Vize Soruları 2022-2023, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 16, Soru 13, Soru 17, Soru 7"
+            "sourceInfo": "Soru 16, Soru 13, Soru 17, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1004,
@@ -66,7 +72,9 @@
             "unit": 1,
             "topic": "1.1. Zekânın ve Yeteneğin Tanımı",
             "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021",
-            "sourceInfo": "Soru 10, Soru 21"
+            "sourceInfo": "Soru 10, Soru 21",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1005,
@@ -83,7 +91,9 @@
             "unit": 1,
             "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
             "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 16, Soru 19, Soru 12"
+            "sourceInfo": "Soru 16, Soru 19, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1006,
@@ -100,7 +110,9 @@
             "unit": 1,
             "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2022-2023, 2020 Vize Soruları",
-            "sourceInfo": "Soru 19, Soru 4, Soru 19"
+            "sourceInfo": "Soru 19, Soru 4, Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1007,
@@ -117,7 +129,9 @@
             "unit": 1,
             "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
             "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2024-2025, Final Soruları 2023-2024, 2024 Mezuniyet Soruları, 2021-2022 Final",
-            "sourceInfo": "Soru 20, Soru 9, Soru 2, Soru 10, Soru 13"
+            "sourceInfo": "Soru 20, Soru 9, Soru 2, Soru 10, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1008,
@@ -134,7 +148,9 @@
             "unit": 1,
             "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
             "source": "Vize Soruları 2022-2023, Final Soruları 2022-2023",
-            "sourceInfo": "Soru 14, Soru 12"
+            "sourceInfo": "Soru 14, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1009,
@@ -151,7 +167,9 @@
             "unit": 1,
             "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
             "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 16"
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 1010,
@@ -168,7 +186,9 @@
             "unit": 1,
             "topic": "1.2. Üstün Zekâ ve Üstün Yetenek",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 1011,
@@ -185,7 +205,9 @@
             "unit": 1,
             "topic": "1.3. Türkiye’de Üstün Zekâ Ve Üstün Yetenek İle İlgili Yapılmış Tanımlar",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 8, Soru 3"
+            "sourceInfo": "Soru 8, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2001,
@@ -202,7 +224,9 @@
             "unit": 2,
             "topic": "2.1.1. Thurstone’ın Grup Faktörleri Kuramı",
             "source": "Final Soruları 2023-2024, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 11, Soru 19, Soru 19"
+            "sourceInfo": "Soru 11, Soru 19, Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2002,
@@ -219,7 +243,9 @@
             "unit": 2,
             "topic": "2.1.2. Tannenbaum’ın Deniz Yıldızı Modeli",
             "source": "2024 Mezuniyet Soruları, Vize Soruları 2021 Deneme Sınavı",
-            "sourceInfo": "Soru 18, Soru 36"
+            "sourceInfo": "Soru 18, Soru 36",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2003,
@@ -236,7 +262,9 @@
             "unit": 2,
             "topic": "2.1.2. Tannenbaum’ın Deniz Yıldızı Modeli",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 12, Soru 1"
+            "sourceInfo": "Soru 12, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2004,
@@ -253,7 +281,9 @@
             "unit": 2,
             "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
             "source": "Final Soruları 2021, Vize Soruları 2021-2022, Final Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 30, Soru 9, Soru 9, Soru 8"
+            "sourceInfo": "Soru 30, Soru 9, Soru 9, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2005,
@@ -270,7 +300,9 @@
             "unit": 2,
             "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
             "source": "Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 13, Soru 14, Soru 16"
+            "sourceInfo": "Soru 13, Soru 14, Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2006,
@@ -287,7 +319,9 @@
             "unit": 2,
             "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2007,
@@ -304,7 +338,9 @@
             "unit": 2,
             "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
             "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 19"
+            "sourceInfo": "Soru 19",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 2008,
@@ -321,7 +357,9 @@
             "unit": 2,
             "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2009,
@@ -338,7 +376,9 @@
             "unit": 2,
             "topic": "2.1.3. Gardner’in Çoklu Zekâ Teorisi",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2010,
@@ -355,7 +395,9 @@
             "unit": 2,
             "topic": "2.1.4. Sternberg’in Triarşik (Üçlü Saç Ayağı) Kuramı",
             "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 3, Soru 17"
+            "sourceInfo": "Soru 3, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2011,
@@ -372,7 +414,9 @@
             "unit": 2,
             "topic": "2.1.4. Sternberg’in Triarşik (Üçlü Saç Ayağı) Kuramı & 2.1.6. Renzulli’nin Üç Halka Kuramı",
             "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 1, Soru 18, Soru 6, Soru 20"
+            "sourceInfo": "Soru 1, Soru 18, Soru 6, Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2012,
@@ -389,7 +433,9 @@
             "unit": 2,
             "topic": "2.1.5. Sternberg ve Zhang’ın Beşgen (Pentagonal) Kuramı",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2021 Deneme Sınavı",
-            "sourceInfo": "Soru 17, Soru 2, Soru 12"
+            "sourceInfo": "Soru 17, Soru 2, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2013,
@@ -406,7 +452,9 @@
             "unit": 2,
             "topic": "2.1.6. Renzulli’nin Üç Halka Kuramı",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2014,
@@ -423,7 +471,9 @@
             "unit": 2,
             "topic": "2.1.6. Renzulli’nin Üç Halka Kuramı",
             "source": "Vize Soruları 2021-2022",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2015,
@@ -440,7 +490,9 @@
             "unit": 2,
             "topic": "2.1.7. Gagné’nin Ayrımsal Üstün Zekâ ve Yetenek Modeli",
             "source": "Vize Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 6, Soru 20"
+            "sourceInfo": "Soru 6, Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3001,
@@ -457,7 +509,9 @@
             "unit": 3,
             "topic": "3.1. Tanılamanın Amacı",
             "source": "Vize Soruları 2020, Vize Soruları 2021-2022",
-            "sourceInfo": "Soru 24, Soru 7, Soru 4"
+            "sourceInfo": "Soru 24, Soru 7, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3002,
@@ -474,7 +528,9 @@
             "unit": 3,
             "topic": "3.2. Üstün Zekâlı ve Yetenekli Çocukları Tanılamanın Kısa Tarihçesi",
             "source": "Final Soruları 2022-2023, Vize Soruları 2023-2024, 2021-2022 Final",
-            "sourceInfo": "Soru 1, Soru 2, Soru 18"
+            "sourceInfo": "Soru 1, Soru 2, Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3003,
@@ -491,7 +547,9 @@
             "unit": 3,
             "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 13, Soru 17"
+            "sourceInfo": "Soru 13, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3004,
@@ -508,7 +566,9 @@
             "unit": 3,
             "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
             "source": "Final Soruları 2024-2025, Vize Soruları 2020",
-            "sourceInfo": "Soru 7, Soru 10, Soru 15"
+            "sourceInfo": "Soru 7, Soru 10, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3005,
@@ -525,7 +585,9 @@
             "unit": 3,
             "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
             "source": "2021-2022 Final",
-            "sourceInfo": "Soru 21"
+            "sourceInfo": "Soru 21",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3006,
@@ -542,7 +604,9 @@
             "unit": 3,
             "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
             "source": "Final Soruları 2021 Deneme Sınavı,2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 12, Soru 1"
+            "sourceInfo": "Soru 12, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3007,
@@ -559,7 +623,9 @@
             "unit": 3,
             "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2020",
-            "sourceInfo": "Soru 20, Soru 10, Soru 12"
+            "sourceInfo": "Soru 20, Soru 10, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3008,
@@ -576,7 +642,9 @@
             "unit": 3,
             "topic": "3.4. Üstün Zekâlı Çocukların Tanılanmasında Evreler",
             "source": "Vize Soruları 2021 Deneme Sınavı,Kaynak Kitap",
-            "sourceInfo": "Soru 21"
+            "sourceInfo": "Soru 21",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3009,
@@ -593,7 +661,9 @@
             "unit": 3,
             "topic": "3.5. Türkiye’de Üstün Zekâlı ve Yeteneklilerin Tanılanması",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 1, Soru 9"
+            "sourceInfo": "Soru 1, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3010,
@@ -610,7 +680,9 @@
             "unit": 3,
             "topic": "3.5. Türkiye’de Üstün Zekâlı ve Yeteneklilerin Tanılanması",
             "source": "Final Soruları 2022-2023, Final Soruları 2024-2025, Final Soruları 2021",
-            "sourceInfo": "Soru 13, Soru 19, Soru 4"
+            "sourceInfo": "Soru 13, Soru 19, Soru 4",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 4001,
@@ -627,7 +699,9 @@
             "unit": 4,
             "topic": "4.2. Nörobiyolojik Bakış Açısıyla Üstün Yetenek",
             "source": "Vize Soruları 2021 Deneme Sınavı, Final Soruları 2021, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 23, Soru 31, Soru 8, Soru 16, Soru 7"
+            "sourceInfo": "Soru 23, Soru 31, Soru 8, Soru 16, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4002,
@@ -644,7 +718,9 @@
             "unit": 4,
             "topic": "4.2. Nörobiyolojik Bakış Açısıyla Üstün Yetenek",
             "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021, Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 8, Soru 1, Soru 8"
+            "sourceInfo": "Soru 8, Soru 1, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4003,
@@ -661,7 +737,9 @@
             "unit": 4,
             "topic": "4.2. Nörobiyolojik Bakış Açısıyla Üstün Yetenek",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 4, Soru 11"
+            "sourceInfo": "Soru 4, Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4004,
@@ -678,7 +756,9 @@
             "unit": 4,
             "topic": "4.3. Zekâyı Etkileyen Hormonlardan: Testosteron",
             "source": "2021-2022 Final, Final Soruları 2023-2024",
-            "sourceInfo": "Soru 4, Soru 12"
+            "sourceInfo": "Soru 4, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4005,
@@ -695,7 +775,9 @@
             "unit": 4,
             "topic": "4.4. Üstün Zekâlılarda Bilişsel İşlevlerle İlgili Araştırmalar",
             "source": "Final Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 18, Soru 6"
+            "sourceInfo": "Soru 18, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4006,
@@ -712,7 +794,9 @@
             "unit": 4,
             "topic": "4.5. Matematik Alanında Üstün Yeteneklilerin Nörobiyolojisi",
             "source": "Vize Soruları 2022-2023, Vize Soruları 2021 Deneme Sınavı",
-            "sourceInfo": "Soru 2, Soru 38, Soru 32, Soru 13"
+            "sourceInfo": "Soru 2, Soru 38, Soru 32, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4007,
@@ -729,7 +813,9 @@
             "unit": 4,
             "topic": "4.6. Beyinde Dil Alanı",
             "source": "2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 2, Soru 2"
+            "sourceInfo": "Soru 2, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4008,
@@ -746,7 +832,9 @@
             "unit": 4,
             "topic": "4.9. Yaratıcılık ve Beyin",
             "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5001,
@@ -763,7 +851,9 @@
             "unit": 5,
             "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
             "source": "Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2023-2024, Final Soruları 2022-2023",
-            "sourceInfo": "Soru 8, Soru 33, Soru 4"
+            "sourceInfo": "Soru 8, Soru 33, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5002,
@@ -780,7 +870,9 @@
             "unit": 5,
             "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
             "source": "Vize Soruları 2021 Deneme Sınavı",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5003,
@@ -797,7 +889,9 @@
             "unit": 5,
             "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 18, Soru 7"
+            "sourceInfo": "Soru 18, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5004,
@@ -814,7 +908,9 @@
             "unit": 5,
             "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
             "source": "Final Soruları 2021, Final Soruları 2024-2025",
-            "sourceInfo": "Soru 8, Soru 6, Soru 2"
+            "sourceInfo": "Soru 8, Soru 6, Soru 2",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 5005,
@@ -831,7 +927,9 @@
             "unit": 5,
             "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
             "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 16"
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5006,
@@ -848,7 +946,9 @@
             "unit": 5,
             "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
             "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5007,
@@ -865,7 +965,9 @@
             "unit": 5,
             "topic": "5.1. Üstün Zekâlı ve Yetenekli Çocukların Bilişsel Gelişimi",
             "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 18"
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5008,
@@ -882,7 +984,9 @@
             "unit": 5,
             "topic": "5.2. Üstün Zekâlı ve Yetenekli Çocukların Beyin İşleyişi ve Zihinsel Gelişim",
             "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 17, Soru 16, Soru 12, Soru 46"
+            "sourceInfo": "Soru 17, Soru 16, Soru 12, Soru 46",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5009,
@@ -899,7 +1003,9 @@
             "unit": 5,
             "topic": "5.2. Üstün Zekâlı ve Yetenekli Çocukların Beyin İşleyişi ve Zihinsel Gelişim",
             "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021, Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 7, Soru 5, Soru 11, Soru 14, Soru 17"
+            "sourceInfo": "Soru 7, Soru 5, Soru 11, Soru 14, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5010,
@@ -916,7 +1022,9 @@
             "unit": 5,
             "topic": "5.2. Üstün Zekâlı ve Yetenekli Çocukların Beyin İşleyişi ve Zihinsel Gelişim",
             "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6001,
@@ -933,7 +1041,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Final Soruları 2021, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 5, Soru 14, Soru 11"
+            "sourceInfo": "Soru 5, Soru 14, Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6002,
@@ -950,7 +1060,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Vize Soruları 2020, Vize Soruları 2022-2023, Vize Soruları 2023-2024, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 26, Soru 18, Soru 1, Soru 13"
+            "sourceInfo": "Soru 26, Soru 18, Soru 1, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6003,
@@ -967,7 +1079,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6004,
@@ -984,7 +1098,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Vize Soruları 2020",
-            "sourceInfo": "Soru 27"
+            "sourceInfo": "Soru 27",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6005,
@@ -1001,7 +1117,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6006,
@@ -1018,7 +1136,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 9"
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6007,
@@ -1035,7 +1155,9 @@
             "unit": 6,
             "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 2, Soru 5"
+            "sourceInfo": "Soru 2, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6008,
@@ -1052,7 +1174,9 @@
             "unit": 6,
             "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
             "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 28, Soru 31, Soru 13, Soru 20"
+            "sourceInfo": "Soru 28, Soru 31, Soru 13, Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6009,
@@ -1069,7 +1193,9 @@
             "unit": 6,
             "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
             "source": "Vize Soruları 2020, Final Soruları 2021-2022, Final Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 30, Soru 5, Soru 3, Soru 30"
+            "sourceInfo": "Soru 30, Soru 5, Soru 3, Soru 30",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6010,
@@ -1086,7 +1212,9 @@
             "unit": 6,
             "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
             "source": "Vize Soruları 2020",
-            "sourceInfo": "Soru 36"
+            "sourceInfo": "Soru 36",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6011,
@@ -1103,24 +1231,9 @@
             "unit": 6,
             "topic": "6.2. Dabrowski’nin Duygusal Gelişim Teorisi",
             "source": "Vize Soruları 2020",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 7001,
-            "question": "Dilin iki temel bileşeninden biri olan Ekspresif Dil (Anlatım Dili) tanımına göre aşağıdakilerden hangisi yanlıştır?",
-            "options": [
-                "Zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir.",
-                "Duyu-sinir ve motor-sinir işlevleri ile gerçekleşir.",
-                "Nefes alma, ses çıkarma ve artikülasyon mekanizmaları gibi işlevleri içerir.",
-                "Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılmasıdır.",
-                "İletişim ve etkileşim aracıdır."
-            ],
-            "correctIndex": 3,
-            "explanation": "Ekspresif Dil (Anlatım Dili), zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir ve duyu-sinir ve motor-sinir işlevleri (nefes alma, ses çıkarma, artikülasyon mekanizmaları gibi) ile gerçekleşir. <b>Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılması</b> ise diğer temel bileşen olan Reseptif Dil (Alıcı Dil, Anlama Dili) olarak tanımlanır.",
-            "unit": 7,
-            "topic": "7.1. Dilin Temel Bileşenleri",
-            "source": "Kaynak Kitap",
-            "sourceInfo": "Sayfa 70"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7002,
@@ -1137,7 +1250,28 @@
             "unit": 7,
             "topic": "7.1.1 Tanımlar ve Yaklaşımlar",
             "source": "Vize Soruları 2020, Vize Soruları 2021-2022",
-            "sourceInfo": "Soru 9, Soru 2"
+            "sourceInfo": "Soru 9, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7001,
+            "question": "Dilin iki temel bileşeninden biri olan Ekspresif Dil (Anlatım Dili) tanımına göre aşağıdakilerden hangisi yanlıştır?",
+            "options": [
+                "Zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir.",
+                "Duyu-sinir ve motor-sinir işlevleri ile gerçekleşir.",
+                "Nefes alma, ses çıkarma ve artikülasyon mekanizmaları gibi işlevleri içerir.",
+                "Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılmasıdır.",
+                "İletişim ve etkileşim aracıdır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Ekspresif Dil (Anlatım Dili), zihinsel kavramın bir ses imgesi aracılığıyla ifadesidir ve duyu-sinir ve motor-sinir işlevleri (nefes alma, ses çıkarma, artikülasyon mekanizmaları gibi) ile gerçekleşir. <b>Sözel uyaranların duyu-sinir ağı ve işitsel-algısal süreçler aracılığı ile alınması ve anlaşılması</b> ise diğer temel bileşen olan Reseptif Dil (Alıcı Dil, Anlama Dili) olarak tanımlanır.",
+            "unit": 7,
+            "topic": "7.1. Dilin Temel Bileşenleri",
+            "source": "Kaynak Kitap",
+            "sourceInfo": "Sayfa 70",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7003,
@@ -1154,58 +1288,9 @@
             "unit": 7,
             "topic": "7.2.1.2 İkinci Evre: Agulama",
             "source": "Kaynak Kitap",
-            "sourceInfo": "Sayfa 72"
-        },
-        {
-            "id": 7004,
-            "question": "Aşağıdakilerden hangisi psikolinguistik kuramın evrelerinden biri değildir?",
-            "options": [
-                "Ağlama Evresi",
-                "Agulama Evresi",
-                "Cıvıldama Evresi",
-                "Sözcük Evresi",
-                "Telefonik Konuşma Evresi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Psikolinguistik kuramdaki dil öncesi gelişim evreleri; Ağlama, Agulama ve Cıvıldama evreleridir. Dilsel gelişim evreleri ise Tek Sözcük, Telegrafik Konuşma ve Tam Cümleler evreleridir. <b>Telefonik Konuşma Evresi</b> kuramın standart evrelerinden biri değildir.",
-            "unit": 7,
-            "topic": "7.2. Psikolinguistik Kuram",
-            "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 7005,
-            "question": "Dil gelişimini, doğuştan getirilen yetenekler ve dil öğrenimine bebeğin bir şekilde programlanmış olduğunu savunan görüş aşağıdakilerden hangisidir?",
-            "options": [
-                "Davranışçı yaklaşım",
-                "Bilişsel yaklaşım",
-                "Psikolinguistik yaklaşım",
-                "Ana dili yaklaşımı",
-                "Biyolojik yaklaşım"
-            ],
-            "correctIndex": 2,
-            "explanation": "Dilin doğuştan getirilen özel bir mekanizma (LAD) sayesinde öğrenildiğini, çocuğun dili içselleştirip kurallarını anlayarak biyolojik olarak belirli düzeyde konuşmayı öğrendiğini savunan görüş <b>Psikolinguistik yaklaşım</b>dır.",
-            "unit": 7,
-            "topic": "7.2. Psikolinguistik Kuram",
-            "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 7006,
-            "question": "Aşağıdakilerden hangisi psikolinguistik kuramın evreleri ile ilgili yanlış bir çıkarım içerir?",
-            "options": [
-                "Psikolinguistik yaklaşım, çocukların dili edinme sürecinde biyolojik olarak programlanmış evrelerin varlığını savunur.",
-                "Üstün zekâlı çocuklar, psikolinguistik kurama göre bazı evreleri yaşamazlar.",
-                "Kuram, çocukların yakınında konuşulan dili içselleştirmesini esas alır.",
-                "Kurama göre tüm çocuklar aynı aşamalardan geçerek konuşmayı öğrenir.",
-                "Kuram, dilin öğrenilmesi için kritik dönemlerin varlığını destekler."
-            ],
-            "correctIndex": 1,
-            "explanation": "Psikolinguistik kuram, dil edinimin biyolojik olarak programlanmış, evrensel aşamalar izlediğini savunur. Üstün zekâlı çocuklar bu aşamalardan daha hızlı geçebilir, ancak <b>bazı evreleri yaşamadıkları</b> söylenemez.",
-            "unit": 7,
-            "topic": "7.2. Psikolinguistik Kuram",
-            "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Sayfa 72",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7007,
@@ -1222,7 +1307,9 @@
             "unit": 7,
             "topic": "7.2.2. Dilsel Gelişim Dönemi",
             "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 20, Soru 6, Soru 9, Soru 15"
+            "sourceInfo": "Soru 20, Soru 6, Soru 9, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7008,
@@ -1239,7 +1326,66 @@
             "unit": 7,
             "topic": "7.2.2. Dilsel Gelişim Dönemi",
             "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7004,
+            "question": "Aşağıdakilerden hangisi psikolinguistik kuramın evrelerinden biri değildir?",
+            "options": [
+                "Ağlama Evresi",
+                "Agulama Evresi",
+                "Cıvıldama Evresi",
+                "Sözcük Evresi",
+                "Telefonik Konuşma Evresi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Psikolinguistik kuramdaki dil öncesi gelişim evreleri; Ağlama, Agulama ve Cıvıldama evreleridir. Dilsel gelişim evreleri ise Tek Sözcük, Telegrafik Konuşma ve Tam Cümleler evreleridir. <b>Telefonik Konuşma Evresi</b> kuramın standart evrelerinden biri değildir.",
+            "unit": 7,
+            "topic": "7.2. Psikolinguistik Kuram",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7005,
+            "question": "Dil gelişimini, doğuştan getirilen yetenekler ve dil öğrenimine bebeğin bir şekilde programlanmış olduğunu savunan görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Davranışçı yaklaşım",
+                "Bilişsel yaklaşım",
+                "Psikolinguistik yaklaşım",
+                "Ana dili yaklaşımı",
+                "Biyolojik yaklaşım"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dilin doğuştan getirilen özel bir mekanizma (LAD) sayesinde öğrenildiğini, çocuğun dili içselleştirip kurallarını anlayarak biyolojik olarak belirli düzeyde konuşmayı öğrendiğini savunan görüş <b>Psikolinguistik yaklaşım</b>dır.",
+            "unit": 7,
+            "topic": "7.2. Psikolinguistik Kuram",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7006,
+            "question": "Aşağıdakilerden hangisi psikolinguistik kuramın evreleri ile ilgili yanlış bir çıkarım içerir?",
+            "options": [
+                "Psikolinguistik yaklaşım, çocukların dili edinme sürecinde biyolojik olarak programlanmış evrelerin varlığını savunur.",
+                "Üstün zekâlı çocuklar, psikolinguistik kurama göre bazı evreleri yaşamazlar.",
+                "Kuram, çocukların yakınında konuşulan dili içselleştirmesini esas alır.",
+                "Kurama göre tüm çocuklar aynı aşamalardan geçerek konuşmayı öğrenir.",
+                "Kuram, dilin öğrenilmesi için kritik dönemlerin varlığını destekler."
+            ],
+            "correctIndex": 1,
+            "explanation": "Psikolinguistik kuram, dil edinimin biyolojik olarak programlanmış, evrensel aşamalar izlediğini savunur. Üstün zekâlı çocuklar bu aşamalardan daha hızlı geçebilir, ancak <b>bazı evreleri yaşamadıkları</b> söylenemez.",
+            "unit": 7,
+            "topic": "7.2. Psikolinguistik Kuram",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7009,
@@ -1256,7 +1402,9 @@
             "unit": 7,
             "topic": "7.3. Dilin Öğrenilmesi ve Kavram Oluşumu",
             "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2022-2023, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 23, Soru 7, Soru 15, Soru 5"
+            "sourceInfo": "Soru 23, Soru 7, Soru 15, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7010,
@@ -1273,41 +1421,9 @@
             "unit": 7,
             "topic": "7.4. Özel Yetenekli Çocuklar ve Dil Gelişimleri",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2020",
-            "sourceInfo": "Soru 14, Soru 38"
-        },
-        {
-            "id": 7011,
-            "question": "“Dilsel olarak üstün zekalı ve yetenekli çocuklar kelimelerle oynamaktan hoşlanırlar. Kafiyeli kelimeler kullanabilir, farklı espriler yapmayı sevebilir. Konuşmalarında çevresindekileri şaşırtacak benzetmeler yapmayı tercih edebilirler. Sıklıkla kullanılmayan kelimeleri kullanmak ve dili eski kitapları okumaktan keyif alabilirler. Bu ilgileri de üstün zekalı ve yetenekli çocukların kelime dağarcıklarını geliştirmektedir. Gelişen kelime dağarcığı dil gelişimlerini de hızlandırmaktadır.” Yukarıdaki grup aşağıdakilerden hangisini açıklamaktadır?",
-            "options": [
-                "Erken akademik gelişim",
-                "Duygusal olarak hassaslık",
-                "Erken konuşma",
-                "Akranlarından hızlı gelişim",
-                "İleri düzey dil gelişimi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Yukarıda bahsedilen üstün dil becerileri (kelimelerle oynamaktan hoşlanma, sık kullanılmayan kelimeleri kullanma, zengin kelime dağarcığı), <b>İleri düzey dil gelişimi</b>nin özelliklerini açıklamaktadır.",
-            "unit": 7,
-            "topic": "7.5. İleri Düzey Dil Gelişimi",
-            "source": "Vize Soruları 2020, Final Soruları 2022-2023",
-            "sourceInfo": "Soru 13, Soru 17, Soru 1"
-        },
-        {
-            "id": 7012,
-            "question": "Aşağıdakilerden hangisi ileri düzey dil gelişimini açıklamaktadır?",
-            "options": [
-                "Çocukların bilişsel düzeylerinin akranlarından önde olmasıdır.",
-                "Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır.",
-                "Çocukların destekle erken okumaya başlamasıdır.",
-                "Potansiyelinin üstünde okuma becerisi göstermesidir.",
-                "Zekâ gelişiminin akranlarından önde olmasıdır."
-            ],
-            "correctIndex": 1,
-            "explanation": "İleri düzey dil gelişimi, üstün zekâlı çocuklarda gözlemlenen ve akranlarından daha karmaşık bir dil kullanımı içeren bir durumdur. Bu durum, <b>Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır</b> şeklinde açıklanabilir.",
-            "unit": 7,
-            "topic": "7.5. İleri Düzey Dil Gelişimi",
-            "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 14, Soru 38",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7013,
@@ -1324,7 +1440,47 @@
             "unit": 7,
             "topic": "7.5.2. Erken Okuma",
             "source": "Vize Soruları 2020, Vize Soruları 2021-2022",
-            "sourceInfo": "Soru 35, Soru 1"
+            "sourceInfo": "Soru 35, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7011,
+            "question": "“Dilsel olarak üstün zekalı ve yetenekli çocuklar kelimelerle oynamaktan hoşlanırlar. Kafiyeli kelimeler kullanabilir, farklı espriler yapmayı sevebilir. Konuşmalarında çevresindekileri şaşırtacak benzetmeler yapmayı tercih edebilirler. Sıklıkla kullanılmayan kelimeleri kullanmak ve dili eski kitapları okumaktan keyif alabilirler. Bu ilgileri de üstün zekalı ve yetenekli çocukların kelime dağarcıklarını geliştirmektedir. Gelişen kelime dağarcığı dil gelişimlerini de hızlandırmaktadır.” Yukarıdaki grup aşağıdakilerden hangisini açıklamaktadır?",
+            "options": [
+                "Erken akademik gelişim",
+                "Duygusal olarak hassaslık",
+                "Erken konuşma",
+                "Akranlarından hızlı gelişim",
+                "İleri düzey dil gelişimi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Yukarıda bahsedilen üstün dil becerileri (kelimelerle oynamaktan hoşlanma, sık kullanılmayan kelimeleri kullanma, zengin kelime dağarcığı), <b>İleri düzey dil gelişimi</b>nin özelliklerini açıklamaktadır.",
+            "unit": 7,
+            "topic": "7.5. İleri Düzey Dil Gelişimi",
+            "source": "Vize Soruları 2020, Final Soruları 2022-2023",
+            "sourceInfo": "Soru 13, Soru 17, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7012,
+            "question": "Aşağıdakilerden hangisi ileri düzey dil gelişimini açıklamaktadır?",
+            "options": [
+                "Çocukların bilişsel düzeylerinin akranlarından önde olmasıdır.",
+                "Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır.",
+                "Çocukların destekle erken okumaya başlamasıdır.",
+                "Potansiyelinin üstünde okuma becerisi göstermesidir.",
+                "Zekâ gelişiminin akranlarından önde olmasıdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "İleri düzey dil gelişimi, üstün zekâlı çocuklarda gözlemlenen ve akranlarından daha karmaşık bir dil kullanımı içeren bir durumdur. Bu durum, <b>Çocukların ileri kelime hazinesi ve ileri cümle yapısı kullanmasıdır</b> şeklinde açıklanabilir.",
+            "unit": 7,
+            "topic": "7.5. İleri Düzey Dil Gelişimi",
+            "source": "Vize Deneme Sınavı 2023",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7014,
@@ -1341,7 +1497,9 @@
             "unit": 7,
             "topic": "7.6. Dil, Düşünce ve Üstün Zekâlılık",
             "source": "Vize Soruları 2020, Vize Soruları 2021 Deneme Sınavı, Vize Soruları 2021-2022, Final Soruları 2024-2025, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 11, Soru 20, Soru 12, Soru 18, Soru 15"
+            "sourceInfo": "Soru 11, Soru 20, Soru 12, Soru 18, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7015,
@@ -1358,7 +1516,9 @@
             "unit": 7,
             "topic": "7.6. Dil, Düşünce ve Üstün Zekâlılık",
             "source": "Vize Deneme Sınavı 2023",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7016,
@@ -1375,7 +1535,9 @@
             "unit": 7,
             "topic": "7.7. Dil Gelişimininde Etmenler",
             "source": "Final Soruları 2021, Final Soruları 2023-2024, 2024 Mezuniyet Soruları",
-            "sourceInfo": "Soru 5, Soru 17, Soru 5"
+            "sourceInfo": "Soru 5, Soru 17, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8001,
@@ -1392,7 +1554,9 @@
             "unit": 8,
             "topic": "8.2.1. Hızlandırma",
             "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 16"
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8002,
@@ -1409,7 +1573,9 @@
             "unit": 8,
             "topic": "8.2.2. Gruplama",
             "source": "Final Soruları 2021 Deneme Sınavı, Final Soruları 2021, Final Soruları 2022-2023, 2023-2024 Final",
-            "sourceInfo": "Soru 23, Soru 17, Soru 10, Soru 5, Soru 1"
+            "sourceInfo": "Soru 23, Soru 17, Soru 10, Soru 5, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8003,
@@ -1426,7 +1592,9 @@
             "unit": 8,
             "topic": "8.2.2. Gruplama",
             "source": "Final Deneme Sınavı 2021",
-            "sourceInfo": "Soru 13"
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8004,
@@ -1443,7 +1611,9 @@
             "unit": 8,
             "topic": "8.2.3. Zenginleştirme",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 12"
+            "sourceInfo": "Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8005,
@@ -1460,24 +1630,9 @@
             "unit": 8,
             "topic": "8.2.4. Farklılaştırma",
             "source": "Mezuniyet Soruları 2024",
-            "sourceInfo": "Soru 14, Soru 13"
-        },
-        {
-            "id": 8006,
-            "question": "Aşağıdakilerden hangisi zekâlı ve yetenekli bireylerin zihinsel özelliklerinden dolayı eğitim programlarında yapılacak uyarlamalardan birisi değildir?",
-            "options": [
-                "Zenginleştirilmiş eğitime tabi tutulmalıdır.",
-                "Düşünmeleri için zaman verilmelidir.",
-                "Hayat amaçları erken tespit edilmeli ve bu alana yönlendirilmelidir.",
-                "Üst düzey düşünme becerileri eğitim programına entegre edilmelidir.",
-                "Problem durumları sunularak, açık uçlu soru sorulmalıdır."
-            ],
-            "correctIndex": 2,
-            "explanation": "Eğitim programlarında <b>hayat amaçlarının erken tespiti</b> yerine bireyin çok yönlü gelişimi ve yaratıcılığını destekleyen uyarlamalar yapılmalıdır. Üstün zekâlı bireylere; problem durumları sunulmalı, açık uçlu sorular sorulmalı, üst düzey düşünme becerileri entegre edilmeli ve zenginleştirilmiş eğitime tabi tutulmalıdır.",
-            "unit": 8,
-            "topic": "8.3. Zenginleştirme ve Farklılaştırma Uygulaması",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 14, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9001,
@@ -1494,7 +1649,9 @@
             "unit": 9,
             "topic": "9.2. Çoklu Özel Gereksinimi Olan Üstün Zekâlı ve Yetenekliler",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9002,
@@ -1511,7 +1668,9 @@
             "unit": 9,
             "topic": "9.3. Birden Fazla Alana İlişkin Yüksek Yeterlilik Görülen Çocuklar",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9003,
@@ -1528,7 +1687,9 @@
             "unit": 9,
             "topic": "9.4. İki Kere Farklı Çocuklar",
             "source": "Final Soruları 2022-2023, Final Soruları 2023-2024, Mezuniyet Soruları 2024",
-            "sourceInfo": "Soru 7, Soru 18, Soru 19"
+            "sourceInfo": "Soru 7, Soru 18, Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9004,
@@ -1545,7 +1706,9 @@
             "unit": 9,
             "topic": "9.5. Otizm Spektrum Bozukluğu Olan Üstün Zekâlı ve Yetenekliler",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9005,
@@ -1562,7 +1725,9 @@
             "unit": 9,
             "topic": "9.6. Öğrenme Güçlüğü ve Üstün Zekâ ve Yetenek",
             "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 16"
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9006,
@@ -1579,7 +1744,9 @@
             "unit": 9,
             "topic": "9.6. Öğrenme Güçlüğü ve Üstün Zekâ ve Yetenek",
             "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 17"
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9007,
@@ -1596,7 +1763,9 @@
             "unit": 9,
             "topic": "9.7. Diğer Tür Yetersizlikleri Olan Üstün Zekâlı ve Yetenekliler",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 2, Soru 12"
+            "sourceInfo": "Soru 2, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10001,
@@ -1613,7 +1782,9 @@
             "unit": 10,
             "topic": "10.3.1. Okul Genelinde Zenginleştirme Modeli",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 3, Soru 9"
+            "sourceInfo": "Soru 3, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10002,
@@ -1630,7 +1801,9 @@
             "unit": 10,
             "topic": "10.3.2. Bütünleştirici Eğitim Modeli",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10003,
@@ -1647,7 +1820,9 @@
             "unit": 10,
             "topic": "10.3.2. Bütünleştirici Eğitim Modeli",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 17"
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10004,
@@ -1664,7 +1839,9 @@
             "unit": 10,
             "topic": "10.3.3. Otonom Öğrenenler Modeli",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 13, Soru 16"
+            "sourceInfo": "Soru 13, Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10005,
@@ -1681,7 +1858,9 @@
             "unit": 10,
             "topic": "10.3.4. Bilim ve Sanat Merkezleri (BİLSEM)",
             "source": "Final Soruları 2021, Final Soruları 2022-2023",
-            "sourceInfo": "Soru 20, Soru 15"
+            "sourceInfo": "Soru 20, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10006,
@@ -1698,7 +1877,9 @@
             "unit": 10,
             "topic": "10.3.4. Bilim ve Sanat Merkezleri (BİLSEM)",
             "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 11001,
@@ -1715,7 +1896,9 @@
             "unit": 11,
             "topic": "11.1. Geleceğin Dünyası ve Türkiye",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 11002,
@@ -1732,7 +1915,9 @@
             "unit": 11,
             "topic": "11.2. İnsana Bakış Açımız",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 11003,
@@ -1749,7 +1934,9 @@
             "unit": 11,
             "topic": "11.3. Eğitim Algımız ve Eğitimden Beklentilerimiz",
             "source": "Final Soruları 2024-2025, Final Soruları 2022-2023",
-            "sourceInfo": "Soru 13, Soru 10"
+            "sourceInfo": "Soru 13, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 11004,
@@ -1766,7 +1953,9 @@
             "unit": 11,
             "topic": "11.3. Eğitim Algımız ve Eğitimden Beklentilerimiz",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12001,
@@ -1783,7 +1972,9 @@
             "unit": 12,
             "topic": "12.2. Üstün Zekâlı ve Yetenekli Bireyler ve Yaratıcılık",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 13"
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12002,
@@ -1800,7 +1991,9 @@
             "unit": 12,
             "topic": "12.4. Yaratıcı Düşünme",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12003,
@@ -1817,7 +2010,9 @@
             "unit": 12,
             "topic": "12.4. Yaratıcı Düşünme",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 11, Soru 20"
+            "sourceInfo": "Soru 11, Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12004,
@@ -1834,7 +2029,9 @@
             "unit": 12,
             "topic": "12.4. Yaratıcı Düşünme",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12005,
@@ -1851,41 +2048,9 @@
             "unit": 12,
             "topic": "12.7. Yaratıcı Düşünme Teknikleri ve Örnek Uygulamaları",
             "source": "Final Soruları 2024-2025, Final Soruları 2021-2022",
-            "sourceInfo": "Soru 1, Soru 9"
-        },
-        {
-            "id": 13001,
-            "question": "Müzikal üstün yetenekli bir çocuk en erken hangi yaşlarda gözlemlenebilir?",
-            "options": [
-                "11-14 yaş",
-                "14-15 yaş",
-                "2-6 yaş",
-                "9-10 yaş",
-                "7-8 yaş"
-            ],
-            "correctIndex": 2,
-            "explanation": "Çocukların yaklaşık yarısında özel müziksel kımıldamalar <b>2-6 yaşları arasında</b> görülmeye başlar. Bu dönem, müzikal üstün yeteneklerin en erken gözlemlenebileceği dönemdir.",
-            "unit": 13,
-            "topic": "13.3. Müzikal Üstün Yetenekli Çocuklar Nasıl Farkedilir?",
-            "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2024-2025, Final Soruları 2021-2022, Final Soruları 2023-2024, Mezuniyet Soruları 2024",
-            "sourceInfo": "Soru 22, Soru 33, Soru 10, Soru 14, Soru 20, Soru 15"
-        },
-        {
-            "id": 13002,
-            "question": "Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için kimler tarafından aday gösterilirler?",
-            "options": [
-                "Veliler",
-                "Öğretmenler Kurulu",
-                "Rehber öğretmenler",
-                "Okul müdürü",
-                "Sınıf ve şube öğretmenleri"
-            ],
-            "correctIndex": 4,
-            "explanation": "Müzik alanında yetenekli ilköğretim çağındaki öğrenciler, Bilim ve Sanat Merkezleri’ne alım için <b>sınıf ve şube öğretmenleri</b> tarafından gözlemlenerek aday gösterilirler.",
-            "unit": 13,
-            "topic": "13.3. Müzikal Üstün Yetenekli Çocuklar Nasıl Farkedilir?",
-            "source": "Final Deneme Sınavı 2021, Final Soruları 2024-2025, Final Soruları 2022-2023, Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 9, Soru 19, Soru 13, Soru 15"
+            "sourceInfo": "Soru 1, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 13003,
@@ -1902,24 +2067,9 @@
             "unit": 13,
             "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
             "source": "Final Soruları 2021-2022, Final Soruları 2023-2024",
-            "sourceInfo": "Soru 12, Soru 7"
-        },
-        {
-            "id": 13004,
-            "question": "Aşağıdakilerden hangisi Howard Gardner’in “Müzikal – ritmik zeka” olarak adlandırdığı yetenek alanı ile ilgili değildir?",
-            "options": [
-                "Melodiyi doğru duyma",
-                "Ritimleri dinleme",
-                "Melodiyi tekrar edebilme",
-                "Farklı ses perdelerini algılayabilme",
-                "Melodiyi çalma"
-            ],
-            "correctIndex": 1,
-            "explanation": "Gardner’ın Müzikal-ritmik zekâsı farklı ses perdelerini algılayabilme, melodiyi doğru duyma, melodiyi tekrar edebilme ve melodiyi çalma gibi aktif üretim ve algı becerileriyle ilişkilidir. <b>Ritimleri dinleme</b>, bu alandaki aktif yeteneğin bir parçası olarak kabul edilmemektedir.",
-            "unit": 13,
-            "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 23"
+            "sourceInfo": "Soru 12, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 13005,
@@ -1936,7 +2086,9 @@
             "unit": 13,
             "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
             "source": "Final Deneme Sınavı 2021",
-            "sourceInfo": "Soru 24"
+            "sourceInfo": "Soru 24",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 13006,
@@ -1953,7 +2105,28 @@
             "unit": 13,
             "topic": "13.2. Müzikal Üstün Yetenekli Çocuklar Kimlerdir?",
             "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 13001,
+            "question": "Müzikal üstün yetenekli bir çocuk en erken hangi yaşlarda gözlemlenebilir?",
+            "options": [
+                "11-14 yaş",
+                "14-15 yaş",
+                "2-6 yaş",
+                "9-10 yaş",
+                "7-8 yaş"
+            ],
+            "correctIndex": 2,
+            "explanation": "Çocukların yaklaşık yarısında özel müziksel kımıldamalar <b>2-6 yaşları arasında</b> görülmeye başlar. Bu dönem, müzikal üstün yeteneklerin en erken gözlemlenebileceği dönemdir.",
+            "unit": 13,
+            "topic": "13.3. Müzikal Üstün Yetenekli Çocuklar Nasıl Farkedilir?",
+            "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2024-2025, Final Soruları 2021-2022, Final Soruları 2023-2024, Mezuniyet Soruları 2024",
+            "sourceInfo": "Soru 22, Soru 33, Soru 10, Soru 14, Soru 20, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 14001,
@@ -1970,7 +2143,9 @@
             "unit": 14,
             "topic": "14.1. Üstün Zekâlı Çocuğun Ailesi Olmak",
             "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2022-2023",
-            "sourceInfo": "Soru 6, Soru 32, Soru 16"
+            "sourceInfo": "Soru 6, Soru 32, Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 14002,
@@ -1987,75 +2162,9 @@
             "unit": 14,
             "topic": "14.1. Üstün Zekâlı Çocuğun Ailesi Olmak",
             "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2021-2022",
-            "sourceInfo": "Soru 33, Soru 18, Soru 10"
-        },
-        {
-            "id": 14003,
-            "question": "Aşağıdakilerden hangisi üstün zekâlı çocuğunu desteklemek isteyen ebeveynler için doğru ve etkili bir öneri değildir?",
-            "options": [
-                "Kariyer seçimlerinde çevresel koşullar etkilidir.",
-                "Yaratıcı mükemmellikleri ile tanınan bireylerin çocukları daima yaratıcı olur.",
-                "Reformcuların hepsi reformist ailelerden gelir.",
-                "Merak ve keşfetme duygusu sadece kalıtım ile geçer.",
-                "Politikacıların babaları da politikacıdır."
-            ],
-            "correctIndex": 1,
-            "explanation": "Yaratıcı mükemmellikleri ile tanınan bireylerin çocuklarının <b>daima yaratıcı olacağını</b> varsaymak yanlıştır. Üstün zekâ, kalıtımsal ve çevresel bileşenleri içeren karmaşık bir süreçtir ve çocukların başarısı genetik aktarımı garanti etmez.",
-            "unit": 14,
-            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
-            "source": "Final Deneme Sınavı 2021",
-            "sourceInfo": "Soru 1, Soru 4"
-        },
-        {
-            "id": 14004,
-            "question": "Aşağıdakilerden hangisi üstün zekâlı bir çocuk yetiştirmeyi zorlaştırabilen unsurlardan biri değildir?",
-            "options": [
-                "Kısıtlı finansal kaynaklar",
-                "Alanla ilgili ulaşılabilir kaynakların azlığı",
-                "Üstün zekâlı çocukların uyum güçlüğü yaşadıklarına yönelik inanışlar",
-                "Üstün zekâlı çocuklara eğitimin gereksiz olduğuna yönelik inanışlar",
-                "Güçlü okul aile iş birliği"
-            ],
-            "correctIndex": 4,
-            "explanation": "<b>Güçlü okul aile iş birliği</b>, üstün zekâlı çocukların eğitimi ve gelişimini destekleyen olumlu bir unsurdur. Diğer seçenekler ise üstün zekâlı çocuk yetiştirmeyi zorlaştıran faktörler arasında sayılabilir.",
-            "unit": 14,
-            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 10"
-        },
-        {
-            "id": 14005,
-            "question": "“20. Yüzyıl’a damgasını vurmuş politikacı, reformcu ve sanatçı gibi seçkin kişilerin biyografilerini inceleyen uzman, incelenen seçkin kişilerin ebeveynlerinin de entelektüel ya da yaratıcı mükemmellik ve tanınırlığa sahip ebeveynler olduklarını görür”. Bu veri aşağıdaki ifadelerden hangisi ile açıklanabilir?",
-            "options": [
-                "Kariyer seçimlerinde çevresel koşullar etkilidir.",
-                "Yaratıcı mükemmellikleri ile tanınan bireylerin çocukları daima yaratıcı olur.",
-                "Reformcuların hepsi reformist ailelerden gelir.",
-                "Merak ve keşfetme duygusu sadece kalıtım ile geçer.",
-                "Politikacıların babaları da politikacıdır."
-            ],
-            "correctIndex": 0,
-            "explanation": "Seçkin kişilerin ebeveynlerinin de başarılı olması, çocuğun kariyer gelişiminde genetik faktörlerin yanı sıra, ebeveynlerin sağladığı <b>çevresel koşulların ve rol model olmanın etkili olduğunu</b> gösterir.",
-            "unit": 14,
-            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 25"
-        },
-        {
-            "id": 14006,
-            "question": "Aşağıdakilerden hangisi üstün zekalı çocukların ebeveynlerinden elde edilen bilgilere göre bebeklik yıllarında özellikle doğumu takip eden ilk aylarda gösterdikleri özelliklerden değildir?",
-            "options": [
-                "Kitaplara olağanüstü ilgi",
-                "Uyaranlara karşı tepkisizlik",
-                "Uzun dikkat süresi",
-                "Hızlı dil gelişimi",
-                "Hızlı öğrenme"
-            ],
-            "correctIndex": 1,
-            "explanation": "Üstün zekalı çocuklar, erken yaşlardan itibaren çevresel uyaranlara karşı oldukça duyarlı ve tepkili olurlar. Bu nedenle <b>Uyaranlara karşı tepkisizlik</b>, tipik olarak gözlemlenen bir özellik değildir. Hızlı öğrenme, uzun dikkat süresi ve kitaplara ilgi bu çocukların erken dönem özelliklerindendir.",
-            "unit": 14,
-            "topic": "14.2.1. Fark Etme",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 20, Soru 6"
+            "sourceInfo": "Soru 33, Soru 18, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 14007,
@@ -2072,7 +2181,47 @@
             "unit": 14,
             "topic": "14.2.3. Destek/Paylaşım",
             "source": "Final Deneme Sınavı 2021, Final Soruları 2021, Final Soruları 2024-2025",
-            "sourceInfo": "Soru 18, Soru 24, Soru 8"
+            "sourceInfo": "Soru 18, Soru 24, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 14003,
+            "question": "Aşağıdakilerden hangisi üstün zekâlı çocuğunu desteklemek isteyen ebeveynler için doğru ve etkili bir öneri değildir?",
+            "options": [
+                "Kariyer seçimlerinde çevresel koşullar etkilidir.",
+                "Yaratıcı mükemmellikleri ile tanınan bireylerin çocukları daima yaratıcı olur.",
+                "Reformcuların hepsi reformist ailelerden gelir.",
+                "Merak ve keşfetme duygusu sadece kalıtım ile geçer.",
+                "Politikacıların babaları da politikacıdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Yaratıcı mükemmellikleri ile tanınan bireylerin çocuklarının <b>daima yaratıcı olacağını</b> varsaymak yanlıştır. Üstün zekâ, kalıtımsal ve çevresel bileşenleri içeren karmaşık bir süreçtir ve çocukların başarısı genetik aktarımı garanti etmez.",
+            "unit": 14,
+            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
+            "source": "Final Deneme Sınavı 2021",
+            "sourceInfo": "Soru 1, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 14005,
+            "question": "“20. Yüzyıl’a damgasını vurmuş politikacı, reformcu ve sanatçı gibi seçkin kişilerin biyografilerini inceleyen uzman, incelenen seçkin kişilerin ebeveynlerinin de entelektüel ya da yaratıcı mükemmellik ve tanınırlığa sahip ebeveynler olduklarını görür”. Bu veri aşağıdaki ifadelerden hangisi ile açıklanabilir?",
+            "options": [
+                "Kariyer seçimlerinde çevresel koşullar etkilidir.",
+                "Yaratıcı mükemmellikleri ile tanınan bireylerin çocukları daima yaratıcı olur.",
+                "Reformcuların hepsi reformist ailelerden gelir.",
+                "Merak ve keşfetme duygusu sadece kalıtım ile geçer.",
+                "Politikacıların babaları da politikacıdır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Seçkin kişilerin ebeveynlerinin de başarılı olması, çocuğun kariyer gelişiminde genetik faktörlerin yanı sıra, ebeveynlerin sağladığı <b>çevresel koşulların ve rol model olmanın etkili olduğunu</b> gösterir.",
+            "unit": 14,
+            "topic": "14.2. Üstün Zekâlı Çocuğu Olan Ebeveynlerin Yaşadıkları Güçlükler",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 25",
+            "occurrence_count": 1,
+            "is_duplicate": false
         }
     ],
     "meta": {

@@ -15,7 +15,9 @@
             "unit": 1,
             "topic": "1.1.1. Çocuk Kavramı",
             "source": "Deneme Sınavı, Farklı Deneme ve Ünite Soruları",
-            "sourceInfo": "Soru 10, Cevap 10, Soru 1, Cevap 9, Ünite Soruları Soru 9"
+            "sourceInfo": "Soru 10, Cevap 10, Soru 1, Cevap 9, Ünite Soruları Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1002,
@@ -32,7 +34,9 @@
             "unit": 1,
             "topic": "1.1.3. Çocuğun Gelişim Alanları",
             "source": "2023-2024 Vize Soruları, 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru 20, Soru 19"
+            "sourceInfo": "Soru 20, Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1003,
@@ -49,7 +53,9 @@
             "unit": 1,
             "topic": "1.1.4. Çocuk Gelişimci Kimdir? Ne İş Yapar?",
             "source": "Vize Soruları 2024-2025, 2023-2024 Final Soruları",
-            "sourceInfo": "Soru-1, Soru 5"
+            "sourceInfo": "Soru-1, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1004,
@@ -66,7 +72,9 @@
             "unit": 1,
             "topic": "1.2.4. İçişleri Bakanlığı’na Bağlı Kurumlar",
             "source": "2023-2024 Vize Soruları, 2024-2025 Final Soruları, 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru 2, Soru 19, Soru 8"
+            "sourceInfo": "Soru 2, Soru 19, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1005,
@@ -83,7 +91,9 @@
             "unit": 1,
             "topic": "1.2.7. Kültür ve Turizm Bakanlığı’na Bağlı Kurumlar",
             "source": "Deneme Sınavı, Ünite Soruları",
-            "sourceInfo": "Soru 9, Soru 6, Soru 4, Soru-8"
+            "sourceInfo": "Soru 9, Soru 6, Soru 4, Soru-8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1006,
@@ -100,7 +110,9 @@
             "unit": 1,
             "topic": "1.3.1. Çocuk Gelişiminde Etik Davranışların Standartları",
             "source": "Final Deneme Sınavları, Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 5; Ünite Soruları Soru 5, Soru 10, Cevap 5"
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 5; Ünite Soruları Soru 5, Soru 10, Cevap 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1007,
@@ -117,7 +129,9 @@
             "unit": 1,
             "topic": "1.3.2. Çocuk Gelişiminde Etik Prensipler",
             "source": "Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Soru-2, Soru 15, Soru 7, Soru 3, Soru 18"
+            "sourceInfo": "Soru-2, Soru 15, Soru 7, Soru 3, Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1008,
@@ -134,7 +148,9 @@
             "unit": 1,
             "topic": "1.3.2. Çocuk Gelişiminde Etik Prensipler",
             "source": "Vize ve Final Deneme Sınavları, Deneme Sınavı",
-            "sourceInfo": "Vize Deneme Sınavı 4, Soru 8; Final Deneme Sınavı 9, Soru 6, Soru 1"
+            "sourceInfo": "Vize Deneme Sınavı 4, Soru 8; Final Deneme Sınavı 9, Soru 6, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1009,
@@ -151,7 +167,9 @@
             "unit": 1,
             "topic": "1.3.2. Çocuk Gelişiminde Etik Prensipler",
             "source": "Ünite Soruları, Final Deneme Sınavları ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Soru-3, Ünite Soruları Soru 3; Final Deneme Sınavı 4, Soru 10, Soru 11, Soru 14"
+            "sourceInfo": "Soru-3, Ünite Soruları Soru 3; Final Deneme Sınavı 4, Soru 10, Soru 11, Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1010,
@@ -168,7 +186,9 @@
             "unit": 1,
             "topic": "1.3.2. Çocuk Gelişiminde Etik Prensipler",
             "source": "Ünite Soruları, Çeşitli Ünite ve Deneme Sınavları, Deneme Sınavı",
-            "sourceInfo": "Soru-1, Ünite Soruları Soru 1; Vize Deneme Sınavı 5, Soru 20, Soru 16, Soru 12, Soru 2"
+            "sourceInfo": "Soru-1, Ünite Soruları Soru 1; Vize Deneme Sınavı 5, Soru 20, Soru 16, Soru 12, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1011,
@@ -185,41 +205,9 @@
             "unit": 1,
             "topic": "1.3.2. Çocuk Gelişiminde Etik Prensipler",
             "source": "Çeşitli Ünite ve Deneme Sınavları, Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Ünite Soruları Soru 4; Vize Deneme Sınavı 5, Soru 13, Soru 20"
-        },
-        {
-            "id": 2001,
-            "question": "Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirmenin amaçlarından biri <u>değildir</u>?",
-            "options": [
-                "Çocuk için gelişimsel destek programı hazırlamak",
-                "Çocuğun gelişimsel takibini yapmak",
-                "Çocuğun ilgi ve ihtiyaçlarını tespit etmek",
-                "Çocuğun zayıf yönlerini belirlemek",
-                "Çocukların bireysel farklılıklarını ortaya çıkartmak"
-            ],
-            "correctIndex": 3,
-            "explanation": "Çocuğu tanıma ve değerlendirme süreçlerinin önemli bir amacı güçlü yönlerini keşfetmektir. Sadece <b>çocuğun zayıf yönlerini belirlemek</b> bu sürecin tek amacı değildir ve bir hata olarak kabul edilir.",
-            "unit": 2,
-            "topic": "2.1. Çocuğu Tanıma ve Değerlendirmenin Amaçları",
-            "source": "Ünite Soruları, Deneme Sınavı, Vize Soruları 2023-2024",
-            "sourceInfo": "Soru-1, Soru 2, Soru 1, Soru 4, Soru 17"
-        },
-        {
-            "id": 2002,
-            "question": "Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirmenin temel amaçlarından birisi <u>değildir</u>?",
-            "options": [
-                "Çocuğun bireysel gelişimini anlamak",
-                "Çocuğun güçlü yanlarını belirlemek",
-                "Gelişimsel veya eğitimsel programlar oluşturmak",
-                "Çocuğun ihtiyaçlarını anlamak",
-                "Diğer çocuklarla kıyas yapmak"
-            ],
-            "correctIndex": 4,
-            "explanation": "Çocuğu tanıma ve değerlendirmenin amacı, çocuğun bireysel gelişimini desteklemek ve anlamaktır. Bu amaçlar arasında <b>diğer çocuklarla kıyas yapmak</b> bulunmaz.",
-            "unit": 2,
-            "topic": "2.1. Çocuğu Tanıma ve Değerlendirmenin Amaçları",
-            "source": "2024 Üç Ders Soruları, Vize Soruları 2023-2024",
-            "sourceInfo": "Üç Ders Soruları Soru 6, Soru-4"
+            "sourceInfo": "Ünite Soruları Soru 4; Vize Deneme Sınavı 5, Soru 13, Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2003,
@@ -236,7 +224,28 @@
             "unit": 2,
             "topic": "2.1.6. Gelişimsel İzleme ve Takip Uygulamak",
             "source": "Ünite Sorusu",
-            "sourceInfo": "Bölüm Özeti"
+            "sourceInfo": "Bölüm Özeti",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 2001,
+            "question": "Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirmenin amaçlarından biri <u>değildir</u>?",
+            "options": [
+                "Çocuk için gelişimsel destek programı hazırlamak",
+                "Çocuğun gelişimsel takibini yapmak",
+                "Çocuğun ilgi ve ihtiyaçlarını tespit etmek",
+                "Çocuğun zayıf yönlerini belirlemek",
+                "Çocukların bireysel farklılıklarını ortaya çıkartmak"
+            ],
+            "correctIndex": 3,
+            "explanation": "Çocuğu tanıma ve değerlendirme süreçlerinin önemli bir amacı güçlü yönlerini keşfetmektir. Sadece <b>çocuğun zayıf yönlerini belirlemek</b> bu sürecin tek amacı değildir ve bir hata olarak kabul edilir.",
+            "unit": 2,
+            "topic": "2.1. Çocuğu Tanıma ve Değerlendirmenin Amaçları",
+            "source": "Ünite Soruları, Deneme Sınavı, Vize Soruları 2023-2024",
+            "sourceInfo": "Soru-1, Soru 2, Soru 1, Soru 4, Soru 17",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 2004,
@@ -253,7 +262,9 @@
             "unit": 2,
             "topic": "2.2.3. Çocuğun İçerisinde Bulunduğu Mekân/Ortam Özellikleri",
             "source": "Deneme Sınavı ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Ünite Soruları Soru 10; Deneme Sınavı, Soru 18, Soru 11"
+            "sourceInfo": "Ünite Soruları Soru 10; Deneme Sınavı, Soru 18, Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2005,
@@ -270,7 +281,9 @@
             "unit": 2,
             "topic": "2.3.1. Erkenlik İlkesi",
             "source": "Deneme Sınavı ve Ünite Soruları, Deneme Sınavı, Vize Soruları 2023-2024",
-            "sourceInfo": "Ünite Soruları Soru 3; Deneme Sınavı, 2023-2024 Vize Soruları, Soru 6, Soru 13"
+            "sourceInfo": "Ünite Soruları Soru 3; Deneme Sınavı, 2023-2024 Vize Soruları, Soru 6, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2006,
@@ -287,7 +300,9 @@
             "unit": 2,
             "topic": "2.3.3. Çeşitlilik İlkesi",
             "source": "2024-2025 Vize Soruları, Deneme Sınavı",
-            "sourceInfo": "2024-2025 Vize Soruları, Soru 11, Soru 6, Soru 10, Soru 4"
+            "sourceInfo": "2024-2025 Vize Soruları, Soru 11, Soru 6, Soru 10, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2007,
@@ -304,7 +319,9 @@
             "unit": 2,
             "topic": "2.3.4. Süreklilik İlkesi",
             "source": "Ünite Soruları, Deneme Sınavı, Vize Soruları 2023-2024, Final Soruları 2024-2025",
-            "sourceInfo": "Soru-2; 2024-2025 Final Soruları, Soru 11, Soru 13, Soru 9, Soru 15, Soru 19"
+            "sourceInfo": "Soru-2; 2024-2025 Final Soruları, Soru 11, Soru 13, Soru 9, Soru 15, Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2008,
@@ -321,7 +338,9 @@
             "unit": 2,
             "topic": "2.3.4. Süreklilik İlkesi",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru-19"
+            "sourceInfo": "Soru-19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2009,
@@ -338,7 +357,9 @@
             "unit": 2,
             "topic": "2.3.6. İsteklilik İlkesi",
             "source": "Vize Soruları 2024-2025, Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru-13, Soru 15, Soru 12"
+            "sourceInfo": "Soru-13, Soru 15, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2010,
@@ -355,7 +376,9 @@
             "unit": 2,
             "topic": "2.3.6. İsteklilik İlkesi",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru-12"
+            "sourceInfo": "Soru-12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2011,
@@ -372,7 +395,9 @@
             "unit": 2,
             "topic": "2.3.7. Gizlilik İlkesi",
             "source": "Deneme Sınavı, Ünite Soruları",
-            "sourceInfo": "Soru 15, Soru 19, Soru 9, Soru 6, Soru 5, Soru-9"
+            "sourceInfo": "Soru 15, Soru 19, Soru 9, Soru 6, Soru 5, Soru-9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2012,
@@ -389,7 +414,9 @@
             "unit": 2,
             "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
             "source": "Deneme Sınavı ve Deneme Sınavı, Ünite Soruları",
-            "sourceInfo": "Deneme Sınavı, Soru 4, Soru 19, Soru-5"
+            "sourceInfo": "Deneme Sınavı, Soru 4, Soru 19, Soru-5",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 2013,
@@ -406,7 +433,9 @@
             "unit": 2,
             "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
             "source": "Deneme Sınavı, Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 17, Soru 7"
+            "sourceInfo": "Soru 17, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2014,
@@ -423,7 +452,9 @@
             "unit": 2,
             "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
             "source": "Deneme Sınavı",
-            "sourceInfo": "Soru 11, Soru 5, Soru 3"
+            "sourceInfo": "Soru 11, Soru 5, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2015,
@@ -440,24 +471,9 @@
             "unit": 2,
             "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
             "source": "Deneme Sınavı ve Ünite Soruları",
-            "sourceInfo": "Ünite Soruları Soru 6; Deneme Sınavı,Soru 10"
-        },
-        {
-            "id": 2016,
-            "question": "Aşağıdakilerden hangisi <u>informal değerlendirme araçlarından</u> birisi değildir?",
-            "options": [
-                "Ev Ödevleri",
-                "Görüşme Notları",
-                "Gözlem Listeleri",
-                "Çocukların Resimleri",
-                "Ankara Gelişim Tarama Envanteri"
-            ],
-            "correctIndex": 4,
-            "explanation": "İnformal değerlendirme araçları nitel veriler sunar (Gözlemler, Görüşmeler, Dokümanlar, vb.). <b>Ankara Gelişim Tarama Envanteri</b> (AGTE) ise standartlaştırılmış, sayısal sonuçlar veren formal bir değerlendirme aracıdır.",
-            "unit": 2,
-            "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
-            "source": "Deneme Sınavı ve Deneme Sınavı, Ünite Soruları",
-            "sourceInfo": "Deneme Sınavı, Ünite Soruları Soru 7; Deneme Sınavı,Soru 3"
+            "sourceInfo": "Ünite Soruları Soru 6; Deneme Sınavı,Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2017,
@@ -474,7 +490,9 @@
             "unit": 2,
             "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
             "source": "2023-2024 Vize Soruları, 2023-2024 Bütünleme Soruları",
-            "sourceInfo": "Soru-10, Soru 5"
+            "sourceInfo": "Soru-10, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2018,
@@ -491,24 +509,9 @@
             "unit": 2,
             "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru-18"
-        },
-        {
-            "id": 2019,
-            "question": "Aşağıdakilerden hangisi informal değerlendirme araçlarından biri <u>değildir</u>?",
-            "options": [
-                "Metropolitan okul olgunluğu testi",
-                "Sanat etkinliğinde çocuğun yaptığı resimler",
-                "Sosyal beceri gözlem formu",
-                "Sınıf içi oyun oynama becerisi kontrol listesi",
-                "Aile tutumu görüşme formu"
-            ],
-            "correctIndex": 0,
-            "explanation": "İnformal değerlendirme araçları; gözlem, görüşme ve dokümanları içerir. <b>Metropolitan okul olgunluğu testi</b>, geçerlik ve güvenirlik çalışması yapılmış formal bir hazırbulunuşluk testidir.",
-            "unit": 2,
-            "topic": "2.5. Tanı ve Değerlendirme Çeşitleri",
-            "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru-19"
+            "sourceInfo": "Soru-18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2020,
@@ -525,7 +528,9 @@
             "unit": 2,
             "topic": "2.6. Tanı ve Değerlendirme Araçlarının Karşılaştırılması",
             "source": "Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Soru-8, Soru 15, Soru 13, Soru 4, Soru 5"
+            "sourceInfo": "Soru-8, Soru 15, Soru 13, Soru 4, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3001,
@@ -542,7 +547,9 @@
             "unit": 3,
             "topic": "3.1.1. Aile Tipleri",
             "source": "Vize Soruları 2024-2025, Deneme Sınavı, Final Soruları 2023-2024, Deneme Sınavı",
-            "sourceInfo": "Soru-16, Soru 1, Soru 6"
+            "sourceInfo": "Soru-16, Soru 1, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3002,
@@ -559,7 +566,9 @@
             "unit": 3,
             "topic": "3.1.1. Aile Tipleri",
             "source": "Final Deneme Sınavı 6 ve Vize Deneme Sınavları, Deneme Sınavı",
-            "sourceInfo": "Ünite Soruları Soru 2; Vize Deneme Sınavı 4, Soru 16; Final Deneme Sınavı 6, Soru 7, Soru 2"
+            "sourceInfo": "Ünite Soruları Soru 2; Vize Deneme Sınavı 4, Soru 16; Final Deneme Sınavı 6, Soru 7, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3003,
@@ -576,58 +585,9 @@
             "unit": 3,
             "topic": "3.1.1. Aile Tipleri",
             "source": "Vize Soruları 2023-2024, Final Soruları 2024-2025",
-            "sourceInfo": "Soru-5, Soru 16"
-        },
-        {
-            "id": 3004,
-            "question": "Çocuğun doğumuyla başlar. Aile çocuğun bakım ve eğitimi gibi yeni sorumluluklarla karşılaşılır. Verilen açıklama aile yaşam döngüsü sürecinin hangi evresine aittir?",
-            "options": [
-                "Yeni Evli-Çocuksuz Aile",
-                "Evden Ayrılan Çocuklu Aile",
-                "Okul Dönemi Çocuklu Aile",
-                "Ergen Çocuklu Aile",
-                "Küçük Çocuklu Aile"
-            ],
-            "correctIndex": 4,
-            "explanation": "Çocuğun doğumuyla başlayan ve yeni bakım sorumluluklarının üstlenildiği evre, <b>Küçük Çocuklu Aile</b> evresidir.",
-            "unit": 3,
-            "topic": "3.1.3. Aile Yaşam Döngüsü",
-            "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru-7"
-        },
-        {
-            "id": 3005,
-            "question": "<u>Duvall Aile Yaşam Döngüsü</u> modelini geliştiren kişi kimdir?",
-            "options": [
-                "Evelyn Patterson",
-                "Sarah Riggio",
-                "Mikulincer & Shaver",
-                "E.G Duvall",
-                "Patterson & Repacholi"
-            ],
-            "correctIndex": 3,
-            "explanation": "Aile yaşam döngüsü modelini geliştiren kişi <b>E.G Duvall</b>'dır.",
-            "unit": 3,
-            "topic": "3.1.3. Aile Yaşam Döngüsü",
-            "source": "Final Deneme Sınavı 6 ve Ünite Soruları",
-            "sourceInfo": "Ünite Soruları Soru 5; Final Deneme Sınavı 6, Soru 13"
-        },
-        {
-            "id": 3006,
-            "question": "Aşağıdakilerden hangisi aile içi iletişimin, çocuğun gelişimine <u>olumlu etkilerinden biri olarak belirtilmemiştir</u>?",
-            "options": [
-                "Kritik düşünme yeteneği kazanma",
-                "Sosyal becerilerin gelişimi",
-                "Özgüvenin azalması",
-                "Duygusal düzenleme becerisi kazanma",
-                "Güvenli bağlanma stilini benimseme"
-            ],
-            "correctIndex": 2,
-            "explanation": "Aile içi iletişimin olumlu etkileri arasında özgüvenin artması beklenir. <b>Özgüvenin azalması</b>, olumlu bir etki olarak gösterilmemiştir.",
-            "unit": 3,
-            "topic": "3.1.4. Aile İçi Dinamiklerin Gelişim Üzerindeki Rolü",
-            "source": "Vize Deneme Sınavı 3 ve Final Deneme Sınavı 7, Deneme Sınavı",
-            "sourceInfo": "Vize Deneme Sınavı 3, Soru 20; Final Deneme Sınavı 7, Soru 18, Soru 17, Soru 4"
+            "sourceInfo": "Soru-5, Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3007,
@@ -644,7 +604,9 @@
             "unit": 3,
             "topic": "3.1.2.1. Sağlıklı Aile Özellikleri",
             "source": "2023-2024 Vize Soruları",
-            "sourceInfo": "Vize Soruları 2023-2024, Soru 1"
+            "sourceInfo": "Vize Soruları 2023-2024, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3008,
@@ -661,24 +623,66 @@
             "unit": 3,
             "topic": "3.1.2.2. Sağlıksız Aile Özellikleri",
             "source": "2023-2024 Vize Soruları ve Ünite Soruları, Bütünleme Soruları, Deneme Sınavı",
-            "sourceInfo": "Ünite Soruları Soru 3; Vize Soruları 2023-2024, Soru 3; Bütünleme Soruları Soru 20, Soru 9, Soru 12"
+            "sourceInfo": "Ünite Soruları Soru 3; Vize Soruları 2023-2024, Soru 3; Bütünleme Soruları Soru 20, Soru 9, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 3009,
-            "question": "Ailelerin karşılaştığı sorunlara çözüm üreten ve bu sorunların üstesinden gelmelerine yardımcı olan uzman aşağıdakilerden hangisidir?",
+            "id": 3004,
+            "question": "Çocuğun doğumuyla başlar. Aile çocuğun bakım ve eğitimi gibi yeni sorumluluklarla karşılaşılır. Verilen açıklama aile yaşam döngüsü sürecinin hangi evresine aittir?",
             "options": [
-                "Anne baba programcısı",
-                "Aile rehberi",
-                "Aile danışmanı",
-                "Aile katılımcısı",
-                "Aile eğitimcisi"
+                "Yeni Evli-Çocuksuz Aile",
+                "Evden Ayrılan Çocuklu Aile",
+                "Okul Dönemi Çocuklu Aile",
+                "Ergen Çocuklu Aile",
+                "Küçük Çocuklu Aile"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çocuğun doğumuyla başlayan ve yeni bakım sorumluluklarının üstlenildiği evre, <b>Küçük Çocuklu Aile</b> evresidir.",
+            "unit": 3,
+            "topic": "3.1.3. Aile Yaşam Döngüsü",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Soru-7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3005,
+            "question": "<u>Duvall Aile Yaşam Döngüsü</u> modelini geliştiren kişi kimdir?",
+            "options": [
+                "Evelyn Patterson",
+                "Sarah Riggio",
+                "Mikulincer & Shaver",
+                "E.G Duvall",
+                "Patterson & Repacholi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Aile yaşam döngüsü modelini geliştiren kişi <b>E.G Duvall</b>'dır.",
+            "unit": 3,
+            "topic": "3.1.3. Aile Yaşam Döngüsü",
+            "source": "Final Deneme Sınavı 6 ve Ünite Soruları",
+            "sourceInfo": "Ünite Soruları Soru 5; Final Deneme Sınavı 6, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3006,
+            "question": "Aşağıdakilerden hangisi aile içi iletişimin, çocuğun gelişimine <u>olumlu etkilerinden biri olarak belirtilmemiştir</u>?",
+            "options": [
+                "Kritik düşünme yeteneği kazanma",
+                "Sosyal becerilerin gelişimi",
+                "Özgüvenin azalması",
+                "Duygusal düzenleme becerisi kazanma",
+                "Güvenli bağlanma stilini benimseme"
             ],
             "correctIndex": 2,
-            "explanation": "Açıklaması verilen uzman <b>Aile danışmanı</b>'dır.",
+            "explanation": "Aile içi iletişimin olumlu etkileri arasında özgüvenin artması beklenir. <b>Özgüvenin azalması</b>, olumlu bir etki olarak gösterilmemiştir.",
             "unit": 3,
-            "topic": "3.2. Aile Danışmanlığının Tanımı Önemi ve Amaçları",
-            "source": "2024 Üç Ders Soruları ve 2023-2024 Vize Soruları",
-            "sourceInfo": "Üç Ders Soruları Soru 7; Vize Soruları 2023-2024, Soru 17"
+            "topic": "3.1.4. Aile İçi Dinamiklerin Gelişim Üzerindeki Rolü",
+            "source": "Vize Deneme Sınavı 3 ve Final Deneme Sınavı 7, Deneme Sınavı",
+            "sourceInfo": "Vize Deneme Sınavı 3, Soru 20; Final Deneme Sınavı 7, Soru 18, Soru 17, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3010,
@@ -695,7 +699,9 @@
             "unit": 3,
             "topic": "3.2.1. Aile Danışmanlığı Olabilmek için Gereken Koşullar ve Eğitim Süreci",
             "source": "Vize Deneme Sınavı 4 ve Final Deneme Sınavı 5",
-            "sourceInfo": "Vize Deneme Sınavı 4, Soru 19; Final Deneme Sınavı 5, Soru 10"
+            "sourceInfo": "Vize Deneme Sınavı 4, Soru 19; Final Deneme Sınavı 5, Soru 10",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 3011,
@@ -712,7 +718,9 @@
             "unit": 3,
             "topic": "3.2.1. Aile Danışmanlığı Olabilmek için Gereken Koşullar ve Eğitim Süreci",
             "source": "Deneme Sınavı",
-            "sourceInfo": "Soru 6, Soru 15, Soru 3"
+            "sourceInfo": "Soru 6, Soru 15, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3012,
@@ -729,7 +737,9 @@
             "unit": 3,
             "topic": "3.2.2. Aile Danışmanı Olma Koşulları",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru-19"
+            "sourceInfo": "Soru-19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3013,
@@ -746,7 +756,9 @@
             "unit": 3,
             "topic": "3.2.4. Aile Danışmanı Ne İş Yapar?",
             "source": "Deneme Sınavı",
-            "sourceInfo": "Soru 2, Soru 3, Soru 5"
+            "sourceInfo": "Soru 2, Soru 3, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3014,
@@ -763,7 +775,28 @@
             "unit": 3,
             "topic": "3.2.4. Aile Danışmanı Ne İş Yapar?",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru-17"
+            "sourceInfo": "Soru-17",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3009,
+            "question": "Ailelerin karşılaştığı sorunlara çözüm üreten ve bu sorunların üstesinden gelmelerine yardımcı olan uzman aşağıdakilerden hangisidir?",
+            "options": [
+                "Anne baba programcısı",
+                "Aile rehberi",
+                "Aile danışmanı",
+                "Aile katılımcısı",
+                "Aile eğitimcisi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Açıklaması verilen uzman <b>Aile danışmanı</b>'dır.",
+            "unit": 3,
+            "topic": "3.2. Aile Danışmanlığının Tanımı Önemi ve Amaçları",
+            "source": "2024 Üç Ders Soruları ve 2023-2024 Vize Soruları",
+            "sourceInfo": "Üç Ders Soruları Soru 7; Vize Soruları 2023-2024, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3015,
@@ -780,7 +813,9 @@
             "unit": 3,
             "topic": "3.3.1. Çocuk Odaklı Aile Danışmanlığına Ailelerin Başvuru Nedenleri",
             "source": "Final Deneme Sınavı 2 ve Vize Deneme Sınavı 5",
-            "sourceInfo": "Final Deneme Sınavı 2, Soru 4; Vize Deneme Sınavı 5, Soru 8"
+            "sourceInfo": "Final Deneme Sınavı 2, Soru 4; Vize Deneme Sınavı 5, Soru 8",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 3016,
@@ -797,7 +832,9 @@
             "unit": 3,
             "topic": "3.3.2. Çocuk Odaklı Danışmanlık Süreci",
             "source": "Vize Deneme Sınavı 4 ve Final Deneme Sınavı 6, Ünite Soruları, Deneme Sınavı, Final Deneme Sınavı 7",
-            "sourceInfo": "Vize Deneme Sınavı 4, Soru 9; Final Deneme Sınavı 6, Soru 9; Final Deneme Sınavı 7, Soru 6, Soru-10, Soru 10"
+            "sourceInfo": "Vize Deneme Sınavı 4, Soru 9; Final Deneme Sınavı 6, Soru 9; Final Deneme Sınavı 7, Soru 6, Soru-10, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3017,
@@ -814,7 +851,9 @@
             "unit": 3,
             "topic": "3.3.3. Çocuk Odaklı Danışmanlıkta Kullanılan Yaklaşımlar",
             "source": "Final Deneme Sınavı 7 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Ünite Soruları Soru 8; Final Deneme Sınavı 7, Soru 3, Soru 16, Soru 14"
+            "sourceInfo": "Ünite Soruları Soru 8; Final Deneme Sınavı 7, Soru 3, Soru 16, Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3018,
@@ -831,126 +870,9 @@
             "unit": 3,
             "topic": "3.3.3. Çocuk Odaklı Danışmanlıkta Kullanılan Yaklaşımlar",
             "source": "Final Deneme Sınavı 1 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 1, Soru 3; Ünite Soruları Soru 9, Soru 19, Soru 12"
-        },
-        {
-            "id": 4001,
-            "question": "Türkiye’de şu an uygulanan Okul Öncesi Eğitim Programı hangi yılda geliştirilmiştir?",
-            "options": [
-                "2002",
-                "2006",
-                "2010",
-                "2013",
-                "2018"
-            ],
-            "correctIndex": 3,
-            "explanation": "Türkiye’de şu an okul öncesi eğitim kurumlarında aktif olarak uygulanan <b>Okul Öncesi Eğitim Programıdır</b>.",
-            "unit": 4,
-            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
-            "source": "Ünite Soruları, Vize Soruları 2023-2024, Deneme Sınavı",
-            "sourceInfo": "Soru-1, Soru 18, Soru 8"
-        },
-        {
-            "id": 4002,
-            "question": "Aşağıdakilerden hangisi Türkiye’de uygulanan Okul Öncesi Eğitim Programının temel amaçlarından birisi <u>değildir</u>?",
-            "options": [
-                "İlkokulda gerekli olan temel becerileri kazandırmak",
-                "En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek",
-                "Türkçeyi doğru ve güzel kullanmasını sağlamak",
-                "Dezavantajlı çocuklar ve aileleri için demokratik eğitim fırsatları sunmak",
-                "Çocuklara iyi alışkanlıklar kazandırmak"
-            ],
-            "correctIndex": 1,
-            "explanation": "Programın temel amaçları arasında fiziksel, bilişsel, ve duyu gelişimlerini desteklemek, temel beceriler kazandırmak ve Türkçe dilini etkili kullanmalarını sağlamak yer alır. <b>En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek</b> temel amaçlardan biri <u>değildir</u>.",
-            "unit": 4,
-            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
-            "source": "Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Soru-2, Soru 7, Soru 10"
-        },
-        {
-            "id": 4003,
-            "question": "Aşağıdaki verilen bilgilerden hangisi <u>Okul Öncesi Eğitim Programı</u> kapsamında doğru bir bilgi değildir?",
-            "options": [
-                "Öğretmen merkezli bir programdır.",
-                "Oyun temelli bir programdır.",
-                "Esnek bir programdır.",
-                "Değerlendirme çok yönlü olarak gerçekleştirilir.",
-                "Gelişim odaklı bir programdır."
-            ],
-            "correctIndex": 0,
-            "explanation": "2013 Okul Öncesi Eğitim Programı; çocuk merkezli, oyun temelli, gelişim odaklı ve esnek bir programdır. Bu nedenle <b>Öğretmen merkezli bir programdır</b> ifadesi <u>doğru değildir</u>.",
-            "unit": 4,
-            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
-            "source": "Final Deneme Sınavı 4 ve Ünite Soruları, Vize Soruları 2023-2024, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 15; Ünite Soruları Soru 3, Soru 20, Soru 6, Soru 16"
-        },
-        {
-            "id": 4004,
-            "question": "2013 Okul öncesi eğitim programı ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?",
-            "options": [
-                "Kazanım ve göstergeler bulunur.",
-                "Okul öncesinde değerlendirme tek yönlüdür.",
-                "Okul öncesinde etkinlikler oyun temellidir.",
-                "Okul öncesi eğitim programı gelişimseldir.",
-                "Okul öncesinde aile katılımı olmalıdır."
-            ],
-            "correctIndex": 1,
-            "explanation": "Okul öncesi eğitimde değerlendirme, çocuk, öğretmen ve program değerlendirmesi olmak üzere <b>çok yönlü</b> gerçekleştirilir. Bu nedenle <b>değerlendirmenin tek yönlü olduğu</b> ifadesi <u>yanlıştır</u>.",
-            "unit": 4,
-            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
-            "source": "2024-2025 Vize Soruları",
-            "sourceInfo": "2024-2025 Vize Soruları, Soru 18"
-        },
-        {
-            "id": 4005,
-            "question": "I. Programda yıllık, aylık ve günlük plan hazırlanmalıdır.<br>II. Etkinlikler bilinmeyenden bilinene doğru ilerlemelidir.<br>III. Köşeler yerine öğrenme merkezleri yer alır.<br>Yukarıda verilen bilgilerden hangisi ya da hangileri Okul Öncesi Eğitim Programı için <u>doğru verilen bir bilgidir</u>?",
-            "options": [
-                "I ve II",
-                "II ve III",
-                "Yalnız III",
-                "I ve III",
-                "I-II-III"
-            ],
-            "correctIndex": 2,
-            "explanation": "Programda yıllık plan <u>hazırlanmaz</u>, sadece günlük ve aylık planlar hazırlanır. Etkinlikler <b>bilinenden bilinmeyene</b> doğru ilerlemelidir (II yanlış). Köşeler yerine <b>öğrenme merkezleri</b> yer alır (III doğru).",
-            "unit": 4,
-            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
-            "source": "Final Deneme Sınavı 4 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 5; Ünite Soruları Soru 5, Soru 19"
-        },
-        {
-            "id": 4006,
-            "question": "Okul Öncesi Eğitim Programında yukarıdaki değerlendirme modellerinden hangisi ya da hangileri yapılmalıdır?<br>I. Programı Değerlendirme<br>II. Çocuğu Değerlendirme<br>III. Öğretmenin Kendini Değerlendirmesi",
-            "options": [
-                "Yalnız II",
-                "I ve II",
-                "II ve III",
-                "Yalnız I",
-                "I-II-III"
-            ],
-            "correctIndex": 4,
-            "explanation": "Okul Öncesi Eğitim Programında değerlendirme <b>çok yönlüdür</b> ve <b>Programı Değerlendirme, Çocuğu Değerlendirme ve Öğretmenin Kendini Değerlendirmesi</b> olmak üzere üç tür değerlendirme de yer almaktadır.",
-            "unit": 4,
-            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
-            "source": "Final Deneme Sınavı 3, 4 ve Ünite Soruları, Vize Soruları 2023-2024, 2024 Üç Ders Soruları",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 8; Ünite Soruları Soru 8; 2024 Üç Ders Soruları, Soru 12, Soru 20, Soru 18, Soru 3"
-        },
-        {
-            "id": 4007,
-            "question": "Sınıf ne kadar küçük olursa olsun, bir okul öncesi sınıfında <u>en az kaç tane öğrenme merkezi</u> olma zorunluluğu vardır?",
-            "options": [
-                "1",
-                "2",
-                "3",
-                "4",
-                "5"
-            ],
-            "correctIndex": 1,
-            "explanation": "Okul öncesi eğitim programı, sınıfın büyüklüğü ne olursa olsun <b>en az 2 öğrenme merkezi</b> bulunmasını önermektedir.",
-            "unit": 4,
-            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
-            "source": "Final Deneme Sınavı 3, 4 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 10; Ünite Soruları Soru 10, Soru 15, Soru 17"
+            "sourceInfo": "Final Deneme Sınavı 1, Soru 3; Ünite Soruları Soru 9, Soru 19, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4008,
@@ -967,7 +889,9 @@
             "unit": 4,
             "topic": "4.1.1. Türkiye'de Okul Öncesi Eğitim Programının Tarihçesi",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru-14"
+            "sourceInfo": "Soru-14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4009,
@@ -984,7 +908,9 @@
             "unit": 4,
             "topic": "4.1.2. Programın Temel İlkeleri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru-14"
+            "sourceInfo": "Soru-14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4010,
@@ -1001,7 +927,142 @@
             "unit": 4,
             "topic": "4.1.3. Çocuğun Gelişim Alanları",
             "source": "Final Deneme Sınavı 4 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 4; Ünite Soruları Soru 4, Soru 14, Soru 13"
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 4; Ünite Soruları Soru 4, Soru 14, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4001,
+            "question": "Türkiye’de şu an uygulanan Okul Öncesi Eğitim Programı hangi yılda geliştirilmiştir?",
+            "options": [
+                "2002",
+                "2006",
+                "2010",
+                "2013",
+                "2018"
+            ],
+            "correctIndex": 3,
+            "explanation": "Türkiye’de şu an okul öncesi eğitim kurumlarında aktif olarak uygulanan <b>Okul Öncesi Eğitim Programıdır</b>.",
+            "unit": 4,
+            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
+            "source": "Ünite Soruları, Vize Soruları 2023-2024, Deneme Sınavı",
+            "sourceInfo": "Soru-1, Soru 18, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4002,
+            "question": "Aşağıdakilerden hangisi Türkiye’de uygulanan Okul Öncesi Eğitim Programının temel amaçlarından birisi <u>değildir</u>?",
+            "options": [
+                "İlkokulda gerekli olan temel becerileri kazandırmak",
+                "En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek",
+                "Türkçeyi doğru ve güzel kullanmasını sağlamak",
+                "Dezavantajlı çocuklar ve aileleri için demokratik eğitim fırsatları sunmak",
+                "Çocuklara iyi alışkanlıklar kazandırmak"
+            ],
+            "correctIndex": 1,
+            "explanation": "Programın temel amaçları arasında fiziksel, bilişsel, ve duyu gelişimlerini desteklemek, temel beceriler kazandırmak ve Türkçe dilini etkili kullanmalarını sağlamak yer alır. <b>En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek</b> temel amaçlardan biri <u>değildir</u>.",
+            "unit": 4,
+            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
+            "source": "Ünite Soruları, Deneme Sınavı",
+            "sourceInfo": "Soru-2, Soru 7, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4003,
+            "question": "Aşağıdaki verilen bilgilerden hangisi <u>Okul Öncesi Eğitim Programı</u> kapsamında doğru bir bilgi değildir?",
+            "options": [
+                "Öğretmen merkezli bir programdır.",
+                "Oyun temelli bir programdır.",
+                "Esnek bir programdır.",
+                "Değerlendirme çok yönlü olarak gerçekleştirilir.",
+                "Gelişim odaklı bir programdır."
+            ],
+            "correctIndex": 0,
+            "explanation": "2013 Okul Öncesi Eğitim Programı; çocuk merkezli, oyun temelli, gelişim odaklı ve esnek bir programdır. Bu nedenle <b>Öğretmen merkezli bir programdır</b> ifadesi <u>doğru değildir</u>.",
+            "unit": 4,
+            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
+            "source": "Final Deneme Sınavı 4 ve Ünite Soruları, Vize Soruları 2023-2024, Deneme Sınavı",
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 15; Ünite Soruları Soru 3, Soru 20, Soru 6, Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4004,
+            "question": "2013 Okul öncesi eğitim programı ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Kazanım ve göstergeler bulunur.",
+                "Okul öncesinde değerlendirme tek yönlüdür.",
+                "Okul öncesinde etkinlikler oyun temellidir.",
+                "Okul öncesi eğitim programı gelişimseldir.",
+                "Okul öncesinde aile katılımı olmalıdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Okul öncesi eğitimde değerlendirme, çocuk, öğretmen ve program değerlendirmesi olmak üzere <b>çok yönlü</b> gerçekleştirilir. Bu nedenle <b>değerlendirmenin tek yönlü olduğu</b> ifadesi <u>yanlıştır</u>.",
+            "unit": 4,
+            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
+            "source": "2024-2025 Vize Soruları",
+            "sourceInfo": "2024-2025 Vize Soruları, Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4005,
+            "question": "I. Programda yıllık, aylık ve günlük plan hazırlanmalıdır.<br>II. Etkinlikler bilinmeyenden bilinene doğru ilerlemelidir.<br>III. Köşeler yerine öğrenme merkezleri yer alır.<br>Yukarıda verilen bilgilerden hangisi ya da hangileri Okul Öncesi Eğitim Programı için <u>doğru verilen bir bilgidir</u>?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "Yalnız III",
+                "I ve III",
+                "I-II-III"
+            ],
+            "correctIndex": 2,
+            "explanation": "Programda yıllık plan <u>hazırlanmaz</u>, sadece günlük ve aylık planlar hazırlanır. Etkinlikler <b>bilinenden bilinmeyene</b> doğru ilerlemelidir (II yanlış). Köşeler yerine <b>öğrenme merkezleri</b> yer alır (III doğru).",
+            "unit": 4,
+            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
+            "source": "Final Deneme Sınavı 4 ve Ünite Soruları, Deneme Sınavı",
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 5; Ünite Soruları Soru 5, Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4006,
+            "question": "Okul Öncesi Eğitim Programında yukarıdaki değerlendirme modellerinden hangisi ya da hangileri yapılmalıdır?<br>I. Programı Değerlendirme<br>II. Çocuğu Değerlendirme<br>III. Öğretmenin Kendini Değerlendirmesi",
+            "options": [
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "Yalnız I",
+                "I-II-III"
+            ],
+            "correctIndex": 4,
+            "explanation": "Okul Öncesi Eğitim Programında değerlendirme <b>çok yönlüdür</b> ve <b>Programı Değerlendirme, Çocuğu Değerlendirme ve Öğretmenin Kendini Değerlendirmesi</b> olmak üzere üç tür değerlendirme de yer almaktadır.",
+            "unit": 4,
+            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
+            "source": "Final Deneme Sınavı 3, 4 ve Ünite Soruları, Vize Soruları 2023-2024, 2024 Üç Ders Soruları",
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 8; Ünite Soruları Soru 8; 2024 Üç Ders Soruları, Soru 12, Soru 20, Soru 18, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4007,
+            "question": "Sınıf ne kadar küçük olursa olsun, bir okul öncesi sınıfında <u>en az kaç tane öğrenme merkezi</u> olma zorunluluğu vardır?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correctIndex": 1,
+            "explanation": "Okul öncesi eğitim programı, sınıfın büyüklüğü ne olursa olsun <b>en az 2 öğrenme merkezi</b> bulunmasını önermektedir.",
+            "unit": 4,
+            "topic": "4.1. Türkiye’de Uygulanan Okul Öncesi Eğitim Programı",
+            "source": "Final Deneme Sınavı 3, 4 ve Ünite Soruları, Deneme Sınavı",
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 10; Ünite Soruları Soru 10, Soru 15, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4011,
@@ -1018,7 +1079,9 @@
             "unit": 4,
             "topic": "4.2. Okul Öncesi Eğitim Programının Akışı",
             "source": "Final Deneme Sınavı 4 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 9; Ünite Soruları Soru 9, Soru 1, Soru 6, Soru 18"
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 9; Ünite Soruları Soru 9, Soru 1, Soru 6, Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4012,
@@ -1035,7 +1098,9 @@
             "unit": 4,
             "topic": "4.2. Okul Öncesi Eğitim Programının Akışı",
             "source": "Final Deneme Sınavı 4 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 7; Ünite Soruları Soru 7, Soru 3"
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 7; Ünite Soruları Soru 7, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4013,
@@ -1052,7 +1117,9 @@
             "unit": 4,
             "topic": "4.2. Okul Öncesi Eğitim Programının Akışı",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru-17"
+            "sourceInfo": "Soru-17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4014,
@@ -1069,7 +1136,9 @@
             "unit": 4,
             "topic": "4.3. Okul Öncesi Eğitim Programında Uyarlama",
             "source": "Final Deneme Sınavı 3, 4 ve Ünite Soruları, Final Deneme Sınavı 9, 2024-2025 Final Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 3, Soru 3; Ünite Soruları Soru 6; 2024-2025 Final Soruları, Soru 8, Soru 19, Soru 14"
+            "sourceInfo": "Final Deneme Sınavı 3, Soru 3; Ünite Soruları Soru 6; 2024-2025 Final Soruları, Soru 8, Soru 19, Soru 14",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 4015,
@@ -1086,7 +1155,9 @@
             "unit": 4,
             "topic": "4.3. Okul Öncesi Eğitim Programında Uyarlama",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 8, Soru 17"
+            "sourceInfo": "Soru 8, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4016,
@@ -1103,7 +1174,9 @@
             "unit": 4,
             "topic": "4.4. Programda Kullanılan Soru Türleri",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru-16"
+            "sourceInfo": "Soru-16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4017,
@@ -1120,7 +1193,9 @@
             "unit": 4,
             "topic": "4.5. Öğrenme Merkezleri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru-8"
+            "sourceInfo": "Soru-8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5001,
@@ -1137,7 +1212,9 @@
             "unit": 5,
             "topic": "5.1. Çocuk Evleri",
             "source": "Vize Soruları 2024-2025, Vize Soruları 2023-2024 (Bütünleme)",
-            "sourceInfo": "Soru-3, Soru 20, Soru 6"
+            "sourceInfo": "Soru-3, Soru 20, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5002,
@@ -1154,7 +1231,9 @@
             "unit": 5,
             "topic": "5.1. Çocuk Evleri",
             "source": "Ünite Soruları, Vize Soruları 2023-2024, Deneme Sınavı",
-            "sourceInfo": "Soru-9, Soru-2, Soru 11, Soru 9, Soru 2"
+            "sourceInfo": "Soru-9, Soru-2, Soru 11, Soru 9, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5003,
@@ -1171,7 +1250,9 @@
             "unit": 5,
             "topic": "5.1. Çocuk Evleri",
             "source": "Ünite Soruları, Deneme Sınavı, Vize Deneme Sınavı 1",
-            "sourceInfo": "Soru-10, Soru 10, Soru 12, Soru 8, Soru 20"
+            "sourceInfo": "Soru-10, Soru 10, Soru 12, Soru 8, Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5004,
@@ -1188,7 +1269,9 @@
             "unit": 5,
             "topic": "5.1. Çocuk Evleri",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru-6"
+            "sourceInfo": "Soru-6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5005,
@@ -1205,7 +1288,9 @@
             "unit": 5,
             "topic": "5.2. Çocuk Destek Merkezleri",
             "source": "2023-2024 Vize Soruları, 2024 Üç Ders Soruları",
-            "sourceInfo": "Vize Soruları 2023-2024, Soru 9, Soru 5, Soru 8"
+            "sourceInfo": "Vize Soruları 2023-2024, Soru 9, Soru 5, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5006,
@@ -1222,7 +1307,9 @@
             "unit": 5,
             "topic": "5.2. Çocuk Destek Merkezleri",
             "source": "Final ve Vize Deneme Sınavları, Deneme Sınavı,2024 Üç Ders Soruları",
-            "sourceInfo": "Final Deneme Sınavı 1, Soru 1; Vize Deneme Sınavı 2, Soru 18, Soru 14, Soru 9"
+            "sourceInfo": "Final Deneme Sınavı 1, Soru 1; Vize Deneme Sınavı 2, Soru 18, Soru 14, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5007,
@@ -1239,7 +1326,9 @@
             "unit": 5,
             "topic": "5.2. Çocuk Destek Merkezleri",
             "source": "Vize ve Final Deneme Sınavları, Deneme Sınavı, Ünite Soruları",
-            "sourceInfo": "Vize Deneme Sınavı 5, Soru 5; Final Deneme Sınavı 2, Soru 14; Vize Deneme Sınavı 1, Soru 7, Soru-8"
+            "sourceInfo": "Vize Deneme Sınavı 5, Soru 5; Final Deneme Sınavı 2, Soru 14; Vize Deneme Sınavı 1, Soru 7, Soru-8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5008,
@@ -1256,7 +1345,9 @@
             "unit": 5,
             "topic": "5.2. Çocuk Destek Merkezleri",
             "source": "2023-2024 Vize ve 2024-2025 Final Soruları",
-            "sourceInfo": "Vize Soruları 2023-2024, Soru 7; Final Soruları 2024-2025, Soru 1, Soru 3, Soru 12"
+            "sourceInfo": "Vize Soruları 2023-2024, Soru 7; Final Soruları 2024-2025, Soru 1, Soru 3, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5009,
@@ -1273,41 +1364,9 @@
             "unit": 5,
             "topic": "5.2. Çocuk Destek Merkezleri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru-18"
-        },
-        {
-            "id": 5010,
-            "question": "Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi <u>eğitim programını</u> almak zorundadır?",
-            "options": [
-                "Eğitimde Drama Eğitim Programı",
-                "Aile Danışmanlığı Eğitim Programı",
-                "Çocuk Ergen Psikopatoloji Eğitim Programı",
-                "Oyun Terapi Programı",
-                "Çocuk-Aile İletişim Eğitim Programı"
-            ],
-            "correctIndex": 1,
-            "explanation": "Aile Danışma Merkezlerinde çalışmak isteyen çocuk gelişimciler (lisans mezuniyetleri haricinde), yasal şart olarak belirlenen süre ve içerikteki <b>Aile Danışmanlığı Eğitim Programını</b> tamamlamak zorundadırlar.",
-            "unit": 5,
-            "topic": "5.3. Aile Danışma Merkezleri",
-            "source": "Final ve Vize Deneme Sınavları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 5, Soru 10; Vize Deneme Sınavı 5, Soru 5, Soru 19"
-        },
-        {
-            "id": 5011,
-            "question": "Aile Danışma Merkezlerinde ailelere sıklıkla hangi <u>danışma hizmeti</u> verilmektedir?",
-            "options": [
-                "Boşanma Süreci Danışmanlığı",
-                "Kardeş Kıskançlığı Danışmanlığı",
-                "Bilişsel Davranışçı Terapi Danışmanlığı",
-                "İş Bulma Hizmet Danışmanlığı",
-                "Boşanma Süreci Hukuki Danışmanlığı"
-            ],
-            "correctIndex": 0,
-            "explanation": "Aile Danışma Merkezlerinde ailelere en sıklıkla verilen hizmet, boşanma öncesi ve sonrası uyum programları içeren <b>Boşanma Süreci Danışmanlığı</b> hizmetidir.",
-            "unit": 5,
-            "topic": "5.3. Aile Danışma Merkezleri",
-            "source": "Vize ve Final Deneme Sınavları, Deneme Sınavı",
-            "sourceInfo": "Vize Deneme Sınavı 1, Soru 1; Final Deneme Sınavı 2, Soru 4; Final Deneme Sınavı 8, Soru 18, Soru 9"
+            "sourceInfo": "Soru-18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5012,
@@ -1324,7 +1383,9 @@
             "unit": 5,
             "topic": "5.3. Aile Danışma Merkezleri",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru-18"
+            "sourceInfo": "Soru-18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5013,
@@ -1341,7 +1402,9 @@
             "unit": 5,
             "topic": "5.3. Aile Danışma Merkezleri",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru-11"
+            "sourceInfo": "Soru-11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5014,
@@ -1358,7 +1421,9 @@
             "unit": 5,
             "topic": "5.4. Sosyal Hizmet Merkezleri",
             "source": "Vize ve Final Deneme Sınavları, Deneme Sınavı, Ünite Soruları",
-            "sourceInfo": "Vize Deneme Sınavı 4, Soru 1; Final Deneme Sınavı 1, Soru 8, Soru 3, Soru 16, Soru-3"
+            "sourceInfo": "Vize Deneme Sınavı 4, Soru 1; Final Deneme Sınavı 1, Soru 8, Soru 3, Soru 16, Soru-3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5015,
@@ -1375,7 +1440,9 @@
             "unit": 5,
             "topic": "5.4. Sosyal Hizmet Merkezleri",
             "source": "Final ve Vize Deneme Sınavları, Deneme Sınavı, Ünite Soruları",
-            "sourceInfo": "Final Deneme Sınavı 5, Soru 4; Final Deneme Sınavı 2, Soru 2; Vize Deneme Sınavı 1, Soru 18, Soru-4"
+            "sourceInfo": "Final Deneme Sınavı 5, Soru 4; Final Deneme Sınavı 2, Soru 2; Vize Deneme Sınavı 1, Soru 18, Soru-4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5016,
@@ -1392,7 +1459,9 @@
             "unit": 5,
             "topic": "5.5. Umut Evleri",
             "source": "Vize ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Vize Deneme Sınavı 4, Soru 3; Vize Deneme Sınavı 5, Soru 1; Ünite Soruları Soru 1, Soru 10, Soru 15"
+            "sourceInfo": "Vize Deneme Sınavı 4, Soru 3; Vize Deneme Sınavı 5, Soru 1; Ünite Soruları Soru 1, Soru 10, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5017,
@@ -1409,7 +1478,9 @@
             "unit": 5,
             "topic": "5.5. Umut Evleri",
             "source": "Final Soruları 2023-2024, Final Soruları 2024-2025, Deneme Sınavı",
-            "sourceInfo": "Soru 16, Soru 20, Soru 9"
+            "sourceInfo": "Soru 16, Soru 20, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5018,
@@ -1426,7 +1497,9 @@
             "unit": 5,
             "topic": "5.5. Umut Evleri",
             "source": "Çeşitli Deneme Sınavları ve 2023-2024 Bütünleme Soruları, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 2, Soru 3; Vize Deneme Sınavı 1, Soru 2; 2023-2024 Bütünleme Soru 16"
+            "sourceInfo": "Final Deneme Sınavı 2, Soru 3; Vize Deneme Sınavı 1, Soru 2; 2023-2024 Bütünleme Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6001,
@@ -1443,7 +1516,9 @@
             "unit": 6,
             "topic": "6.1. Sağlık Bakanlığına Bağlı Kurumlar",
             "source": "Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Soru-10, Soru 3, Soru 4"
+            "sourceInfo": "Soru-10, Soru 3, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6002,
@@ -1460,7 +1535,9 @@
             "unit": 6,
             "topic": "6.1. Sağlık Bakanlığına Bağlı Kurumlar",
             "source": "Final Soruları 2023-2024, 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru-20, Soru 11"
+            "sourceInfo": "Soru-20, Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6003,
@@ -1477,24 +1554,9 @@
             "unit": 6,
             "topic": "6.1. Sağlık Bakanlığına Bağlı Kurumlar",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru-13"
-        },
-        {
-            "id": 6004,
-            "question": "Sağlık Bakanlığı’na bağlı kuruluşlarda çalışan çocuk gelişimciler aşağıdaki bakanlık ve birimlerden hangisinde çalışamaz?",
-            "options": [
-                "Sağlığın Geliştirilmesi Genel Müdürlüğü",
-                "Halk Sağlığı Genel Müdürlüğü",
-                "Sağlık Hizmetleri Genel Müdürlüğü",
-                "Kamu Hastaneler Genel Müdürlüğü",
-                "Aile ve Sosyal Politikalar Bakanlığı"
-            ],
-            "correctIndex": 4,
-            "explanation": "Çocuk gelişimciler Halk Sağlığı, Sağlık Hizmetleri ve Kamu Hastaneleri Genel Müdürlüklerine bağlı birimlerde çalışabilirken, Aile ve Sosyal Politikalar Bakanlığı (şimdiki Aile ve Sosyal Hizmetler Bakanlığı) Sağlık Bakanlığı’ndan bağımsız bir kuruluştur.",
-            "unit": 6,
-            "topic": "6.2. Sağlık Bakanlığı’na Bağlı Kurumlar",
-            "source": "Ünite Soruları ve Deneme Sınavı",
-            "sourceInfo": "Ünite Soruları Soru 6; Deneme Sınavı,Soru 6"
+            "sourceInfo": "Soru-13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6005,
@@ -1511,7 +1573,9 @@
             "unit": 6,
             "topic": "6.2.1. Kamu Hastaneleri Genel Müdürlüğünde Çalışan Çocuk Gelişimciler",
             "source": "Deneme Sınavı, Ünite Sorusu, Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 12, Soru 18, Soru 2, Soru 1"
+            "sourceInfo": "Soru 12, Soru 18, Soru 2, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6006,
@@ -1528,7 +1592,9 @@
             "unit": 6,
             "topic": "6.2.1. Kamu Hastaneleri Genel Müdürlüğünde Çalışan Çocuk Gelişimciler",
             "source": "Deneme Sınavı",
-            "sourceInfo": "Deneme Sınavı,Soru 2"
+            "sourceInfo": "Deneme Sınavı,Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6007,
@@ -1545,7 +1611,9 @@
             "unit": 6,
             "topic": "6.2.2. Çocuk Gelişimi Birimi",
             "source": "Final Soruları 2023-2024, 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru 15, Soru 2"
+            "sourceInfo": "Soru 15, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6008,
@@ -1562,7 +1630,9 @@
             "unit": 6,
             "topic": "6.2.2. Çocuk Gelişimi Birimi",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 4, Soru 13, Soru-7"
+            "sourceInfo": "Soru 4, Soru 13, Soru-7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6009,
@@ -1579,7 +1649,9 @@
             "unit": 6,
             "topic": "6.2.3. Yatan Hasta Servisleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Deneme Sınavı, Soru-3"
+            "sourceInfo": "Deneme Sınavı, Soru-3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6010,
@@ -1596,7 +1668,9 @@
             "unit": 6,
             "topic": "6.2.4. Hastane Oyun Odaları",
             "source": "Deneme Sınavı,-6 ve -8, Ünite Sorusu",
-            "sourceInfo": "Deneme Sınavı, Deneme Sınavı, Soru-9"
+            "sourceInfo": "Deneme Sınavı, Deneme Sınavı, Soru-9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6011,
@@ -1613,7 +1687,9 @@
             "unit": 6,
             "topic": "6.2.5. Gelişimsel Pediatri Ünitesi",
             "source": "Deneme Sınavı",
-            "sourceInfo": "Deneme Sınavı, Soru 20"
+            "sourceInfo": "Deneme Sınavı, Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6012,
@@ -1630,7 +1706,9 @@
             "unit": 6,
             "topic": "6.2.6. Çocuk İzlem Merkezi (ÇİM)",
             "source": "Deneme Sınavı, Ünite Soruları, Deneme Sınavı, Final Soruları 2024-2025",
-            "sourceInfo": "Deneme Sınavı, Soru-8, Soru 18"
+            "sourceInfo": "Deneme Sınavı, Soru-8, Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6013,
@@ -1647,7 +1725,9 @@
             "unit": 6,
             "topic": "6.2.6. Çocuk İzlem Merkezi (ÇİM)",
             "source": "Deneme Sınavı",
-            "sourceInfo": "Deneme Sınavı,Soru 10"
+            "sourceInfo": "Deneme Sınavı,Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6014,
@@ -1664,7 +1744,9 @@
             "unit": 6,
             "topic": "6.2.6. Çocuk İzlem Merkezi (ÇİM)",
             "source": "2024-2025 Vize Soruları",
-            "sourceInfo": "2024-2025 Vize Soruları, Soru 2"
+            "sourceInfo": "2024-2025 Vize Soruları, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6015,
@@ -1681,7 +1763,28 @@
             "unit": 6,
             "topic": "6.2.6. Çocuk İzlem Merkezi (ÇİM)",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru-10"
+            "sourceInfo": "Soru-10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6004,
+            "question": "Sağlık Bakanlığı’na bağlı kuruluşlarda çalışan çocuk gelişimciler aşağıdaki bakanlık ve birimlerden hangisinde çalışamaz?",
+            "options": [
+                "Sağlığın Geliştirilmesi Genel Müdürlüğü",
+                "Halk Sağlığı Genel Müdürlüğü",
+                "Sağlık Hizmetleri Genel Müdürlüğü",
+                "Kamu Hastaneler Genel Müdürlüğü",
+                "Aile ve Sosyal Politikalar Bakanlığı"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çocuk gelişimciler Halk Sağlığı, Sağlık Hizmetleri ve Kamu Hastaneleri Genel Müdürlüklerine bağlı birimlerde çalışabilirken, Aile ve Sosyal Politikalar Bakanlığı (şimdiki Aile ve Sosyal Hizmetler Bakanlığı) Sağlık Bakanlığı’ndan bağımsız bir kuruluştur.",
+            "unit": 6,
+            "topic": "6.2. Sağlık Bakanlığı’na Bağlı Kurumlar",
+            "source": "Ünite Soruları ve Deneme Sınavı",
+            "sourceInfo": "Ünite Soruları Soru 6; Deneme Sınavı,Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6016,
@@ -1698,7 +1801,9 @@
             "unit": 6,
             "topic": "6.3. Halk Sağlığı Genel Müdürlüğü Bünyesinde Çalışan Çocuk Gelişimci",
             "source": "Final Soruları 2023-2024, Final Soruları 2024-2025",
-            "sourceInfo": "Soru 7, Soru 5"
+            "sourceInfo": "Soru 7, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6017,
@@ -1715,7 +1820,9 @@
             "unit": 6,
             "topic": "6.3. Halk Sağlığı Genel Müdürlüğü Bünyesinde Çalışan Çocuk Gelişimci",
             "source": "Vize ve Final Deneme Sınavları",
-            "sourceInfo": "Deneme Sınavı, Deneme Sınavı,Soru 8"
+            "sourceInfo": "Deneme Sınavı, Deneme Sınavı,Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6018,
@@ -1732,7 +1839,9 @@
             "unit": 6,
             "topic": "6.4. Ana-Çocuk Sağlığı ve Aile Planlama Merkezleri (AÇSAP)",
             "source": "Deneme Sınavı",
-            "sourceInfo": "Soru 7, Soru 14, Soru 11, Soru 8"
+            "sourceInfo": "Soru 7, Soru 14, Soru 11, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6019,
@@ -1749,58 +1858,9 @@
             "unit": 6,
             "topic": "6.5. Çocuk Gelişimcinin Görev ve Sorumlulukları",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru-1"
-        },
-        {
-            "id": 7001,
-            "question": "Aşağıdakilerden hangisi Milli Eğitim Bakanlığı Özel Eğitim Hizmetleri yönetmeliğinde özel eğitimin tanımı olarak belirtilmiştir?",
-            "options": [
-                "Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.",
-                "Özel eğitim ihtiyaçları olan bireylerin normal gelişim gösteren akranlarıyla birlikte aynı sınıfta eğitime entegre edilmesidir.",
-                "Bireyin bir yaralanma veya sapma nedeniyle karşılaştığı zorluklar.",
-                "Bireyin yaş, cinsiyet, sosyal ve kültürel faktörlere göre belirlenen rolleri yeterli bir şekilde yerine getirememesi durumudur.",
-                "Bireyin gelişim özellikleri bakımından diğer akranlarından anlamlı şekilde farklılık göstermesi."
-            ],
-            "correctIndex": 0,
-            "explanation": "Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.",
-            "unit": 7,
-            "topic": "7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri",
-            "source": "Final Deneme Sınavı 7 ve Ünite Soruları",
-            "sourceInfo": "Ünite Soruları Soru 1, Final Deneme Sınavı 7, Soru 16"
-        },
-        {
-            "id": 7002,
-            "question": "Aşağıdakilerden hangisi “Özel Eğitim” ile ilgili yanlış bir ifadedir?",
-            "options": [
-                "Özel eğitimde birey merkezli yaklaşım benimsenir.",
-                "Özel eğitim, bireysel ve gelişimsel özellikleri gözeterek uygun ortamlarda sürdürülen eğitimdir.",
-                "Özel eğitim, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir.",
-                "Özel olarak yetiştirilmiş personel ile uygun ortamlarda sürdürülen eğitimdir.",
-                "Özel eğitimin amacı, özel ihtiyaçları olan kişilere sağlanan eğitim şeklidir."
-            ],
-            "correctIndex": 2,
-            "explanation": "Özel eğitim; zihinsel, duygusal, davranışsal ve diğer özel gereksinimleri olan bireyleri de kapsar. Dolayısıyla, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir ifadesi yanlıştır.",
-            "unit": 7,
-            "topic": "7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri",
-            "source": "Final Soruları 2024-2025, Final Soruları 2023-2024",
-            "sourceInfo": "Soru 6, Soru 16"
-        },
-        {
-            "id": 7003,
-            "question": "Özel Eğitim Hizmetleri Yönetmeliği’ne göre özel eğitim ile ilgili verilen bilgilerden hangisi yanlıştır?",
-            "options": [
-                "Özel eğitim gerektiren çocuklar, standart eğitim hizmetlerinden tam anlamıyla faydalanmada zorluk yaşarlar.",
-                "Öğrencinin bireysel ihtiyaçlarına odaklanmak özel eğitimde kritik öneme sahiptir.",
-                "Özel eğitim gereksinimleri, yalnızca doğuştan gelir.",
-                "Özel Eğitim Hizmetleri Yönetmeliği’ne göre bu bireyler, akranlarından anlamlı düzeyde farklılık gösteren bireylerdir.",
-                "Özel gereksinimli çocuklar, sahip oldukları özellikler ve ihtiyaçlar temelinde farklı kategorilere ayrılırlar."
-            ],
-            "correctIndex": 2,
-            "explanation": "Özel eğitim gereksinimlerinin yalnızca doğuştan geldiği bilgisi yanlıştır; bu gereksinimler gelişimsel süreçte sonradan da ortaya çıkabilir.",
-            "unit": 7,
-            "topic": "7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri",
-            "source": "2024-2025 Final Soruları ve Bütünleme Soruları",
-            "sourceInfo": "2024-2025 Final Soruları, Soru 14; 2023-2024 Bütünleme Soruları, Soru 8"
+            "sourceInfo": "Soru-1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7004,
@@ -1817,7 +1877,9 @@
             "unit": 7,
             "topic": "7.1.1. Özel Eğitimin İlkeleri",
             "source": "Final Deneme Sınavı 7 ve Ünite Soruları, Deneme Sınavı",
-            "sourceInfo": "Ünite Soruları Soru 3, Final Deneme Sınavı 7, Soru 15, Soru 9"
+            "sourceInfo": "Ünite Soruları Soru 3, Final Deneme Sınavı 7, Soru 15, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7005,
@@ -1834,7 +1896,9 @@
             "unit": 7,
             "topic": "7.1.2. Özel Gereksinimli Çocuk",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 3, Soru 8, Soru 2, Cevap 2"
+            "sourceInfo": "Soru 3, Soru 8, Soru 2, Cevap 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7006,
@@ -1851,7 +1915,9 @@
             "unit": 7,
             "topic": "7.1.2. Özel Gereksinimli Çocuk",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 20, Soru 1, Soru 4, Cevap 4"
+            "sourceInfo": "Soru 20, Soru 1, Soru 4, Cevap 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7007,
@@ -1868,7 +1934,9 @@
             "unit": 7,
             "topic": "7.1.3. Bireyselleştirilmiş Eğitim Programları (BEP)",
             "source": "Deneme Sınavı,Bütünleme Soruları 2023-2024, Üç Ders Soruları 2024, Ünite Soruları",
-            "sourceInfo": "Soru 1, Soru 18, Soru 6, Soru 12, Soru-6"
+            "sourceInfo": "Soru 1, Soru 18, Soru 6, Soru 12, Soru-6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7008,
@@ -1885,24 +1953,9 @@
             "unit": 7,
             "topic": "7.1.3. Bireyselleştirilmiş Eğitim Programları (BEP)",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 4, Soru 8"
-        },
-        {
-            "id": 7009,
-            "question": "Okul Öncesi Eğitim Programında özel gereksinimli çocuklar için etkinlikler üzerinde yapılan düzenlemeler ne olarak adlandırılmaktadır?",
-            "options": [
-                "Gün Akışı",
-                "Oryantasyon",
-                "Bütünleştirme",
-                "Planlama",
-                "Uyarlama"
-            ],
-            "correctIndex": 4,
-            "explanation": "Özel gereksinimli çocuklar için etkinlikler üzerinde yapılan düzenlemeler Uyarlama olarak adlandırılmaktadır.",
-            "unit": 7,
-            "topic": "7.1.4. Kaynaştırma/Bütünleştirme Yoluyla Eğitim",
-            "source": "Final Deneme Sınavı 4, 9 ve Ünite Soruları",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 6; Final Deneme Sınavı 9, Soru 19; Ünite Soruları Soru 6"
+            "sourceInfo": "Soru 4, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7010,
@@ -1919,7 +1972,9 @@
             "unit": 7,
             "topic": "7.1.4.1. Tam Zamanlı Kaynaştırma/Bütünleştirme Yoluyla Eğitim",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 12, Soru 11, Soru 5"
+            "sourceInfo": "Soru 12, Soru 11, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7011,
@@ -1936,7 +1991,9 @@
             "unit": 7,
             "topic": "7.1.5. Destek eğitim programları",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 2, Soru 19, Soru 7"
+            "sourceInfo": "Soru 2, Soru 19, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7012,
@@ -1953,7 +2010,66 @@
             "unit": 7,
             "topic": "7.1.6. Bireysel eğitim",
             "source": "Bütünleme Soruları 2023-2024, Üç Ders Soruları 2024 (Açıklama)",
-            "sourceInfo": "Soru 14, Soru 11"
+            "sourceInfo": "Soru 14, Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7001,
+            "question": "Aşağıdakilerden hangisi Milli Eğitim Bakanlığı Özel Eğitim Hizmetleri yönetmeliğinde özel eğitimin tanımı olarak belirtilmiştir?",
+            "options": [
+                "Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.",
+                "Özel eğitim ihtiyaçları olan bireylerin normal gelişim gösteren akranlarıyla birlikte aynı sınıfta eğitime entegre edilmesidir.",
+                "Bireyin bir yaralanma veya sapma nedeniyle karşılaştığı zorluklar.",
+                "Bireyin yaş, cinsiyet, sosyal ve kültürel faktörlere göre belirlenen rolleri yeterli bir şekilde yerine getirememesi durumudur.",
+                "Bireyin gelişim özellikleri bakımından diğer akranlarından anlamlı şekilde farklılık göstermesi."
+            ],
+            "correctIndex": 0,
+            "explanation": "Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.",
+            "unit": 7,
+            "topic": "7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri",
+            "source": "Final Deneme Sınavı 7 ve Ünite Soruları",
+            "sourceInfo": "Ünite Soruları Soru 1, Final Deneme Sınavı 7, Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7002,
+            "question": "Aşağıdakilerden hangisi “Özel Eğitim” ile ilgili yanlış bir ifadedir?",
+            "options": [
+                "Özel eğitimde birey merkezli yaklaşım benimsenir.",
+                "Özel eğitim, bireysel ve gelişimsel özellikleri gözeterek uygun ortamlarda sürdürülen eğitimdir.",
+                "Özel eğitim, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir.",
+                "Özel olarak yetiştirilmiş personel ile uygun ortamlarda sürdürülen eğitimdir.",
+                "Özel eğitimin amacı, özel ihtiyaçları olan kişilere sağlanan eğitim şeklidir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Özel eğitim; zihinsel, duygusal, davranışsal ve diğer özel gereksinimleri olan bireyleri de kapsar. Dolayısıyla, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir ifadesi yanlıştır.",
+            "unit": 7,
+            "topic": "7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri",
+            "source": "Final Soruları 2024-2025, Final Soruları 2023-2024",
+            "sourceInfo": "Soru 6, Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7003,
+            "question": "Özel Eğitim Hizmetleri Yönetmeliği’ne göre özel eğitim ile ilgili verilen bilgilerden hangisi yanlıştır?",
+            "options": [
+                "Özel eğitim gerektiren çocuklar, standart eğitim hizmetlerinden tam anlamıyla faydalanmada zorluk yaşarlar.",
+                "Öğrencinin bireysel ihtiyaçlarına odaklanmak özel eğitimde kritik öneme sahiptir.",
+                "Özel eğitim gereksinimleri, yalnızca doğuştan gelir.",
+                "Özel Eğitim Hizmetleri Yönetmeliği’ne göre bu bireyler, akranlarından anlamlı düzeyde farklılık gösteren bireylerdir.",
+                "Özel gereksinimli çocuklar, sahip oldukları özellikler ve ihtiyaçlar temelinde farklı kategorilere ayrılırlar."
+            ],
+            "correctIndex": 2,
+            "explanation": "Özel eğitim gereksinimlerinin yalnızca doğuştan geldiği bilgisi yanlıştır; bu gereksinimler gelişimsel süreçte sonradan da ortaya çıkabilir.",
+            "unit": 7,
+            "topic": "7.1. Özel Eğitim Tanımı, Amacı ve İlkeleri",
+            "source": "2024-2025 Final Soruları ve Bütünleme Soruları",
+            "sourceInfo": "2024-2025 Final Soruları, Soru 14; 2023-2024 Bütünleme Soruları, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7013,
@@ -1970,7 +2086,9 @@
             "unit": 7,
             "topic": "7.2.1. Özel Eğitim ve Rehabilitasyon Merkezleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 9, Soru 8, Cevap 8"
+            "sourceInfo": "Soru 9, Soru 8, Cevap 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7014,
@@ -1987,7 +2105,9 @@
             "unit": 7,
             "topic": "7.2.1. Özel Eğitim ve Rehabilitasyon Merkezleri",
             "source": "Final Deneme Sınavı 8 ve 9, Deneme Sınavı",
-            "sourceInfo": "Final Deneme Sınavı 8, Soru 17; Final Deneme Sınavı 9, Soru 8, Cevap 7"
+            "sourceInfo": "Final Deneme Sınavı 8, Soru 17; Final Deneme Sınavı 9, Soru 8, Cevap 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7015,
@@ -2004,7 +2124,9 @@
             "unit": 7,
             "topic": "7.2.1. Özel Eğitim ve Rehabilitasyon Merkezleri",
             "source": "Final Deneme Sınavı 4, 7 ve 9, Ünite Sorusu",
-            "sourceInfo": "Final Deneme Sınavı 4, Soru 14; Final Deneme Sınavı 7, Soru 5; Final Deneme Sınavı 9, Soru 9"
+            "sourceInfo": "Final Deneme Sınavı 4, Soru 14; Final Deneme Sınavı 7, Soru 5; Final Deneme Sınavı 9, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7016,
@@ -2021,7 +2143,9 @@
             "unit": 7,
             "topic": "7.2.2. Rehberlik Araştırma Merkezleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 6, Soru 9"
+            "sourceInfo": "Soru 6, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7017,
@@ -2038,7 +2162,9 @@
             "unit": 7,
             "topic": "7.2.2. Rehberlik Araştırma Merkezleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 19, Soru 10, Cevap 10"
+            "sourceInfo": "Soru 19, Soru 10, Cevap 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7018,
@@ -2055,7 +2181,9 @@
             "unit": 7,
             "topic": "7.2.2. Rehberlik Araştırma Merkezleri",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru-1"
+            "sourceInfo": "Soru-1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8001,
@@ -2072,7 +2200,9 @@
             "unit": 8,
             "topic": "8.1. Mesleki ve Teknik Eğitim Nedir?",
             "source": "2024-2025 Final Soruları, 2023-2024 Final Soruları, 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru 3, Soru 17"
+            "sourceInfo": "Soru 3, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8002,
@@ -2089,7 +2219,9 @@
             "unit": 8,
             "topic": "8.1. Mesleki ve Teknik Eğitim Nedir?",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 3, Soru 10, Cevap 10"
+            "sourceInfo": "Soru 3, Soru 10, Cevap 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8003,
@@ -2106,24 +2238,9 @@
             "unit": 8,
             "topic": "8.1. Mesleki ve Teknik Eğitim Nedir?",
             "source": "Final Deneme Sınavı 5 ve Final Deneme Sınavı 6, Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Final Deneme Sınavı 5, Soru 15; Final Deneme Sınavı 6, Soru 6, Soru 4, Cevap 4"
-        },
-        {
-            "id": 8004,
-            "question": "Mesleki ve Teknik Eğitim düşünüldüğünde mesleki eğitim okullarının öncüsü aşağıdakilerden hangisidir?",
-            "options": [
-                "Sanayi Mektepleri",
-                "Mekteb-i Osmani",
-                "Darülfünun",
-                "Darülmaarif",
-                "Islahhane"
-            ],
-            "correctIndex": 4,
-            "explanation": "Mithat Paşa'nın 1861'de kimsesiz çocuklara meslek kazandırmayı hedeflediği Islahhane, mesleki eğitim okullarının öncüsü olmuştur.",
-            "unit": 8,
-            "topic": "8.2. Mesleki ve Teknik Eğitiminin Tarihçesi",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 5, Soru 10"
+            "sourceInfo": "Final Deneme Sınavı 5, Soru 15; Final Deneme Sınavı 6, Soru 6, Soru 4, Cevap 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8005,
@@ -2140,7 +2257,9 @@
             "unit": 8,
             "topic": "8.2.1. Çocuk Gelişimi ve Eğitimi Alanı",
             "source": "Final Deneme Sınavı 1 ve Final Deneme Sınavı 8, 2023-2024 Final Soruları, Ünite Sorusu",
-            "sourceInfo": "Final Deneme Sınavı 1, Soru 6; Final Deneme Sınavı 8, Soru 1; 2023-2024 Final Soruları, Soru 9"
+            "sourceInfo": "Final Deneme Sınavı 1, Soru 6; Final Deneme Sınavı 8, Soru 1; 2023-2024 Final Soruları, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8006,
@@ -2157,7 +2276,9 @@
             "unit": 8,
             "topic": "8.2.2. Çocuk Gelişimi ve Eğitimi Alan Öğretmeninin Özellikleri",
             "source": "2023-2024 Final Soruları, 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru 12, Soru 17, Soru 8, Soru 13"
+            "sourceInfo": "Soru 12, Soru 17, Soru 8, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8007,
@@ -2174,7 +2295,9 @@
             "unit": 8,
             "topic": "8.2.2. Çocuk Gelişimi ve Eğitimi Alan Öğretmeninin Özellikleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 5, Soru 8, Soru 19, Cevap 8"
+            "sourceInfo": "Soru 5, Soru 8, Soru 19, Cevap 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8008,
@@ -2191,7 +2314,9 @@
             "unit": 8,
             "topic": "8.2.2. Çocuk Gelişimi ve Eğitimi Alan Öğretmeninin Özellikleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 20, Soru 6, Soru 14, Cevap 6"
+            "sourceInfo": "Soru 20, Soru 6, Soru 14, Cevap 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8009,
@@ -2208,7 +2333,9 @@
             "unit": 8,
             "topic": "8.2.2. Çocuk Gelişimi ve Eğitimi Alan Öğretmeninin Özellikleri",
             "source": "Final Deneme Sınavı 8, Final Deneme Sınavı 9 ve 2024-2025 Final Soruları, Ünite Sorusu",
-            "sourceInfo": "Final Deneme Sınavı 8, Soru 7; Final Deneme Sınavı 9, Soru 20; 2024-2025 Final Soruları, Soru 4; Final Deneme Sınavı 1, Soru 18, Cevap 7"
+            "sourceInfo": "Final Deneme Sınavı 8, Soru 7; Final Deneme Sınavı 9, Soru 20; 2024-2025 Final Soruları, Soru 4; Final Deneme Sınavı 1, Soru 18, Cevap 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8010,
@@ -2225,7 +2352,9 @@
             "unit": 8,
             "topic": "8.2.2. Çocuk Gelişimi ve Eğitimi Alan Öğretmeninin Özellikleri",
             "source": "Final Deneme Sınavı 1 ve Final Deneme Sınavı 9, Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Final Deneme Sınavı 1, Soru 8; Final Deneme Sınavı 9, Soru 12, Cevap 9"
+            "sourceInfo": "Final Deneme Sınavı 1, Soru 8; Final Deneme Sınavı 9, Soru 12, Cevap 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8011,
@@ -2242,7 +2371,9 @@
             "unit": 8,
             "topic": "8.2.3. Çocuk Gelişimi ve Eğitimi Çerçeve Öğretim Programının Özellikleri",
             "source": "Deneme Sınavı,2023-2024 Bütünleme Soruları, Ünite Sorusu",
-            "sourceInfo": "Soru 11, Soru 14, Soru 2, Cevap 2"
+            "sourceInfo": "Soru 11, Soru 14, Soru 2, Cevap 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8012,
@@ -2259,7 +2390,9 @@
             "unit": 8,
             "topic": "8.2.3. Çocuk Gelişimi ve Eğitimi Çerçeve Öğretim Programının Özellikleri",
             "source": "Deneme Sınavı,2024-2025 Final Soruları, Ünite Sorusu",
-            "sourceInfo": "Soru 4, Soru 3, Soru 11, Cevap 3"
+            "sourceInfo": "Soru 4, Soru 3, Soru 11, Cevap 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8013,
@@ -2276,7 +2409,28 @@
             "unit": 8,
             "topic": "8.2.3. Çocuk Gelişimi ve Eğitimi Çerçeve Öğretim Programının Özellikleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 14, Soru 5, Soru 1, Cevap 5"
+            "sourceInfo": "Soru 14, Soru 5, Soru 1, Cevap 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8004,
+            "question": "Mesleki ve Teknik Eğitim düşünüldüğünde mesleki eğitim okullarının öncüsü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanayi Mektepleri",
+                "Mekteb-i Osmani",
+                "Darülfünun",
+                "Darülmaarif",
+                "Islahhane"
+            ],
+            "correctIndex": 4,
+            "explanation": "Mithat Paşa'nın 1861'de kimsesiz çocuklara meslek kazandırmayı hedeflediği Islahhane, mesleki eğitim okullarının öncüsü olmuştur.",
+            "unit": 8,
+            "topic": "8.2. Mesleki ve Teknik Eğitiminin Tarihçesi",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 5, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9001,
@@ -2293,7 +2447,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 11, Cevap 1, Soru 1"
+            "sourceInfo": "Soru 11, Cevap 1, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9002,
@@ -2310,7 +2466,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 4, Cevap 2, Soru 17"
+            "sourceInfo": "Soru 4, Cevap 2, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9003,
@@ -2327,7 +2485,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "2024-2025 Final Soruları",
-            "sourceInfo": "Soru 5, Soru 15"
+            "sourceInfo": "Soru 5, Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9004,
@@ -2344,7 +2504,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 3, Soru 17, Cevap 3"
+            "sourceInfo": "Soru 3, Soru 17, Cevap 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9005,
@@ -2361,7 +2523,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 6, Cevap 8"
+            "sourceInfo": "Soru 6, Cevap 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9006,
@@ -2378,7 +2542,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "2024-2025 Final Soruları",
-            "sourceInfo": "Soru 9, Soru 13"
+            "sourceInfo": "Soru 9, Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9007,
@@ -2395,7 +2561,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 3, Cevap 10, Soru 4"
+            "sourceInfo": "Soru 3, Cevap 10, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9008,
@@ -2412,7 +2580,9 @@
             "unit": 9,
             "topic": "9.1. Okul Öncesi Eğitim Ve İlköğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 2, Cevap 1, Soru 5"
+            "sourceInfo": "Soru 2, Cevap 1, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9009,
@@ -2429,7 +2599,9 @@
             "unit": 9,
             "topic": "9.2. Ortaöğretim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 7, Cevap 7"
+            "sourceInfo": "Soru 7, Cevap 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9010,
@@ -2446,7 +2618,9 @@
             "unit": 9,
             "topic": "9.3. Özel Eğitim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 17, Cevap 7, Soru 8"
+            "sourceInfo": "Soru 17, Cevap 7, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9011,
@@ -2463,7 +2637,9 @@
             "unit": 9,
             "topic": "9.3. Özel Eğitim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "2023-2024 Bütünleme Soruları",
-            "sourceInfo": "Soru 17, Soru 12"
+            "sourceInfo": "Soru 17, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9012,
@@ -2480,7 +2656,9 @@
             "unit": 9,
             "topic": "9.3. Özel Eğitim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 5, Cevap 9"
+            "sourceInfo": "Soru 5, Cevap 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9013,
@@ -2497,7 +2675,9 @@
             "unit": 9,
             "topic": "9.3. Özel Eğitim Kurumlarının Açılması İle İlgili Koşullar",
             "source": "2024-2025 Final Soruları",
-            "sourceInfo": "Soru 2, Soru 11"
+            "sourceInfo": "Soru 2, Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9014,
@@ -2514,7 +2694,9 @@
             "unit": 9,
             "topic": "9.4. Aile Danışmanlığı Merkezi Açma İle İlgili Koşullar",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 2, Cevap 11, Soru 10"
+            "sourceInfo": "Soru 2, Cevap 11, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9015,
@@ -2531,7 +2713,9 @@
             "unit": 9,
             "topic": "9.4. Aile Danışmanlığı Merkezi Açma İle İlgili Koşullar",
             "source": "2023-2024 Final Soruları",
-            "sourceInfo": "Soru 10, Soru 18"
+            "sourceInfo": "Soru 10, Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10001,
@@ -2548,7 +2732,9 @@
             "unit": 10,
             "topic": "10.1. Anne-Çocuk Oyun Merkezleri",
             "source": "Deneme Sınavı,2024 Üç Ders Soruları, 2023-2024 Final Soruları, Ünite Sorusu",
-            "sourceInfo": "Soru 1, Soru 17, Soru 19, Soru 12"
+            "sourceInfo": "Soru 1, Soru 17, Soru 19, Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10002,
@@ -2565,7 +2751,9 @@
             "unit": 10,
             "topic": "10.1. Anne-Çocuk Oyun Merkezleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10003,
@@ -2582,7 +2770,9 @@
             "unit": 10,
             "topic": "10.1. Anne-Çocuk Oyun Merkezleri",
             "source": "Çocuk Gelişimi Uygulamaları-1 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru-19"
+            "sourceInfo": "Soru-19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10004,
@@ -2599,7 +2789,9 @@
             "unit": 10,
             "topic": "10.2. Çocuk Koruma Evleri",
             "source": "Deneme Sınavı,2023-2024 Bütünleme Soruları, Ünite Sorusu",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10005,
@@ -2616,7 +2808,9 @@
             "unit": 10,
             "topic": "10.2. Çocuk Koruma Evleri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4"
+            "sourceInfo": "Soru-4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10006,
@@ -2633,7 +2827,9 @@
             "unit": 10,
             "topic": "10.2. Çocuk Koruma Evleri",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru-3"
+            "sourceInfo": "Soru-3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10007,
@@ -2650,7 +2846,9 @@
             "unit": 10,
             "topic": "10.3. Çocuk Evleri",
             "source": "Deneme Sınavı,2023-2024 Final Soruları, Ünite Sorusu",
-            "sourceInfo": "Soru 3, Soru 19, Soru 9, Soru 5"
+            "sourceInfo": "Soru 3, Soru 19, Soru 9, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10008,
@@ -2667,7 +2865,9 @@
             "unit": 10,
             "topic": "10.3. Çocuk Evleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 6, Soru 11, Cevap 6"
+            "sourceInfo": "Soru 6, Soru 11, Cevap 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10009,
@@ -2684,7 +2884,9 @@
             "unit": 10,
             "topic": "10.4. Çocuk Ve Gençlik Merkezleri",
             "source": "2023-2024 Final Soruları",
-            "sourceInfo": "Soru 13"
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10010,
@@ -2701,7 +2903,9 @@
             "unit": 10,
             "topic": "10.5. Kadın Danışma Merkezleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 7, Soru 14, Soru 20, Cevap 7"
+            "sourceInfo": "Soru 7, Soru 14, Soru 20, Cevap 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10011,
@@ -2718,7 +2922,9 @@
             "unit": 10,
             "topic": "10.5. Kadın Danışma Merkezleri",
             "source": "2024-2025 Final Soruları",
-            "sourceInfo": "Soru 18, Soru 17"
+            "sourceInfo": "Soru 18, Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10012,
@@ -2735,7 +2941,9 @@
             "unit": 10,
             "topic": "10.6. Engelli İyileştirme Ve Hizmet Merkezleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 10, Cevap 10"
+            "sourceInfo": "Soru 10, Cevap 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10013,
@@ -2752,7 +2960,9 @@
             "unit": 10,
             "topic": "10.7. Kadın Çocuk Sağlığı Ve Gelişim Merkezleri",
             "source": "2024-2025 Final Soruları",
-            "sourceInfo": "Soru 8, Soru 10"
+            "sourceInfo": "Soru 8, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10014,
@@ -2769,7 +2979,9 @@
             "unit": 10,
             "topic": "10.8. Aile Danışmanlık Ve Eğitim Merkezleri",
             "source": "Deneme Sınavı, Ünite Sorusu",
-            "sourceInfo": "Soru 8, Cevap 8"
+            "sourceInfo": "Soru 8, Cevap 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10015,
@@ -2786,7 +2998,9 @@
             "unit": 10,
             "topic": "10.8. Aile Danışmanlık Ve Eğitim Merkezleri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-9"
+            "sourceInfo": "Soru-9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         }
     ],
     "meta": {

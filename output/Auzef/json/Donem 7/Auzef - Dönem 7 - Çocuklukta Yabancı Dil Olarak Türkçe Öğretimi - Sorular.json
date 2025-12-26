@@ -15,364 +15,9 @@
             "unit": 1,
             "topic": "1.1. Giriş",
             "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 1 / Soru 21"
-        },
-        {
-            "id": 1002,
-            "question": "Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya ne ad verilir?",
-            "options": [
-                "Evrensel dilbilgisi",
-                "Aradil",
-                "Ana dili",
-                "İkinci dil",
-                "İkidillilik"
-            ],
-            "correctIndex": 0,
-            "explanation": "Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya <b>Evrensel dilbilgisi</b> adı verilir.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 2 / Soru 22"
-        },
-        {
-            "id": 1003,
-            "question": "Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Yukarıdaki bu duruma ne ad verilir?",
-            "options": [
-                "İkidillilik",
-                "Fosilleşme",
-                "Aradil",
-                "Ana dili",
-                "Edinim"
-            ],
-            "correctIndex": 2,
-            "explanation": "Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Bu duruma <b>Aradil</b> adı verilir.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 3 / Soru 23"
-        },
-        {
-            "id": 1004,
-            "question": "Aşağıdakilerden hangisi Selinker’in ortaya koyduğu aradilin özelliklerinden birisidir?",
-            "options": [
-                "Evrensellik",
-                "Kolaylılık",
-                "Çekiniklik",
-                "Karmaşıklık",
-                "Geçirgenlik"
-            ],
-            "correctIndex": 4,
-            "explanation": "Aradilin geçirgenlik, dinamiklik ve sistematiklik olmak üzere üç temel özelliği bulunmaktadır. Bu özelliklerden biri <b>Geçirgenliktir</b>.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 4 / Soru 24"
-        },
-        {
-            "id": 1005,
-            "question": "Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna ne ad verilir?",
-            "options": [
-                "Geçirgenlik",
-                "Fosilleşme",
-                "Dinamiklik",
-                "Kod değiştirme",
-                "Sistematiklik"
-            ],
-            "correctIndex": 1,
-            "explanation": "Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna <b>Fosilleşme</b> adı verilir.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 5 / Soru 25"
-        },
-        {
-            "id": 1006,
-            "question": "Annesi Almanca babası Türkçe konuşan iki dilli bir çocuk annesiyle Almanca konuşurken babası tarafından bir soru yöneltilmesi durumunda hemen Türkçe yanıt verip annesi ile Almanca konuşmaya devam edebilir. Yukarıdaki bu durum aşağıdakilerden hangisidir?",
-            "options": [
-                "Kod değiştirme",
-                "Kod karıştırma",
-                "Kodlama",
-                "Karmalaştırma",
-                "Karıştırma"
-            ],
-            "correctIndex": 0,
-            "explanation": "İki dilli bir çocuğun konuşma sırasında diller arasında anlık olarak geçiş yapması durumu <b>Kod değiştirme</b> olarak adlandırılır.",
-            "unit": 1,
-            "topic": "1.4. İki dillilikte Dil Kullanımı",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 6 / Soru 26"
-        },
-        {
-            "id": 1007,
-            "question": "Aradil her ne kadar bireyin sahip olduğu ana dilin ve hedef dilin kurallarının karıştırılmasıyla oluşturuluyor olsa da kendi içerisinde incelendiğinde oldukça tutarlı kurallara sahip olduğu ancak bu kuralların ana dilinden ve hedef dilden farklılaşabileceği görülmektedir. Yukarıda aradilin hangi özelliği vurgulanmaktadır?",
-            "options": [
-                "Geçirgenlik",
-                "Sistematiklik",
-                "Dinamiklik",
-                "Karmaşıklık",
-                "Fosilleşme"
-            ],
-            "correctIndex": 1,
-            "explanation": "Ara dilin kendi içerisinde kural yönetimli olması ve tutarlı kurallara sahip olması, aradilin <b>Sistematiklik</b> özelliğini vurgulamaktadır.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 7 / Soru 27"
-        },
-        {
-            "id": 1008,
-            "question": "Bireyin sahip olduğu dillerden birinde var olan bir dilbilgisi yapısının yeni edindiği dile aktarması ve bu aktarımın yeni dildeki edinim sürecini kolaylaştırması durumuna ne ad verilir?",
-            "options": [
-                "Geçişim",
-                "Karmalaştırma",
-                "Aktarımsız tam kabul",
-                "Olumlu aktarım",
-                "Olumsuz aktarım"
-            ],
-            "correctIndex": 3,
-            "explanation": "Bir dilde var olan bir dilbilgisi yapısının yeni edindiği dile aktarılması ve bu aktarımın yeni dildeki edinim sürecini <b>kolaylaştırması</b> durumu <b>Olumlu aktarım</b> olarak adlandırılır.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 8 / Soru 28"
-        },
-        {
-            "id": 1009,
-            "question": "Arapça ve Türkçe bilen ikidilli bir çocuğun Arapça konuşarken Türkçe sözcükleri cümlelerinin içerisine yerleştirmesi durumu aşağıdakilerden hangisine örnektir?",
-            "options": [
-                "Kod değiştirme",
-                "Kod karıştırma",
-                "Fosilleşme",
-                "Edinim",
-                "Öğrenim"
-            ],
-            "correctIndex": 1,
-            "explanation": "İki dilli bir çocuğun bir dildeki cümle yapısı içerisine diğer dilden sözcükleri yerleştirmesi durumu <b>Kod karıştırma</b> olarak adlandırılır.",
-            "unit": 1,
-            "topic": "1.4. İki dillilikte Dil Kullanımı",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 9 / Soru 29"
-        },
-        {
-            "id": 1010,
-            "question": "Krashen’e göre ……….; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken …….., yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir. Yukarıdaki boşluklara aşağıdaki kavramlardan hangisi getirilmelidir?",
-            "options": [
-                "Edinim-anadilleştirme",
-                "Öğrenme-anadilleştirme",
-                "Karmalaştırma-Fosilleşme",
-                "Öğrenme-edinim",
-                "Edinim-öğrenme"
-            ],
-            "correctIndex": 4,
-            "explanation": "Krashen’e göre <b>Edinim</b>; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken <b>Öğrenme</b>, yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 10 / Soru 30"
-        },
-        {
-            "id": 1011,
-            "question": "Aşağıdaki seçeneklerden hangisi İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlardan biri olarak kabul edilir?",
-            "options": [
-                "Tam Aktarım Tam Kabul Varsayımı",
-                "Yalın Ağaçlar Varsayımı",
-                "Sözdizimi Başlanşıç Aşaması Varsayımı",
-                "Değer Taşımayan Özellikler Varsayımı",
-                "Etkisel Filtre Varsayımı"
-            ],
-            "correctIndex": 0,
-            "explanation": "Tam Aktarım Tam Kabul Varsayımı, ikinci dilde dil bilgisi edinim sürecine ilişkin yaklaşımlardan biridir.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 1012,
-            "question": "Okuldaki öğrencilerinin yarısının Flemenkçe yarsının ise Almanca bildiği okulda Fremenkçe-Almanca ikidilli eğitim programı düzenlemek hangi ikidilli eğitim yaklaşımına girmektedir?",
-            "options": [
-                "İşe dayalı öğrenme",
-                "İletişimsel yaklaşım",
-                "Tek yönlü daldırma",
-                "İki yönlü daldırma",
-                "İçerik tabanlı öğrenme"
-            ],
-            "correctIndex": 3,
-            "explanation": "Öğrencilerin bir kısmının bir dili, diğer kısmının ise başka bir dili bildiği okullarda uygulanan ve her iki dilin de eğitim programında yer aldığı ikidilli eğitim yaklaşımı <b>İki yönlü daldırma</b> olarak adlandırılır.",
-            "unit": 1,
-            "topic": "1.7. İki dilli Eğitim",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 6"
-        },
-        {
-            "id": 1013,
-            "question": "Annesi ve babası tek dilli 12 yaşındaki İngiliz olan bir çocuğun İngiltere’de Fransız lisesine gitmesi ve burada Fransızca eğitim alması durumu aşağıdakilerden hangisine girmektedir?",
-            "options": [
-                "Azınlık dil grubu - ikinci dil öğrenenler",
-                "Azınlık dil grubu - Eş zamanlı ikidilliler",
-                "Çoğunluk dil grubu - Eş zamanlı ikidilliler",
-                "Çoğunluk dil grubu - ikinci dil öğrenenler",
-                "Aile ikidilliliği - eş zamanlı ikidilliler"
-            ],
-            "correctIndex": 3,
-            "explanation": "Annesi ve babası tek dilli, 12 yaşındaki İngiliz çocuğun (çoğunluk dil grubu) İngiltere’de Fransız lisesine giderek Fransızca eğitim alması durumu <b>Çoğunluk dil grubu- ikinci dil öğrenenler</b> kategorisine girmektedir.",
-            "unit": 1,
-            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
-            "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 5"
-        },
-        {
-            "id": 1014,
-            "question": "Suriyeli ve ana dili Arapça olan ve Türkçe bilmeyen bir aileye mensup 12 yaşındaki bir çocuğun Türkiye’ye göç ederek Türkçe eğitim veren bir okula başlaması durumunda aşağıdaki gruplardan hangisine girecektir?",
-            "options": [
-                "Çoğunluk dil grubu- ikinci dil öğrenenler",
-                "Azınlık dil grubu- Eş zamanlı ikidilliler",
-                "Çoğunluk dil grubu- Eş zamanlı ikidilliler",
-                "Azınlık dil grubu- ikinci dil öğrenenler",
-                "Aile ikidilliliği- eş zamanlı ikidilliler"
-            ],
-            "correctIndex": 3,
-            "explanation": "Suriyeli ve ana dili Arapça olan bir çocuğun Türkiye’de Türkçe eğitim veren okula başlaması durumu, azınlık dil grubundan birinin yeni bir dil öğrenmesi nedeniyle <b>Azınlık dil grubu- ikinci dil öğrenenler</b> kategorisine girer.",
-            "unit": 1,
-            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 6"
-        },
-        {
-            "id": 1015,
-            "question": "Ülkeye bir öğrenci ailesiyle göç etmiş ve dilini bilmediği bu ülkedeki bir okula yerleştirilmiştir. Okulda tek dilli bir ortam bulunmaktadır. Öğrenci hedef dile ilişkin temel bilgisi olmasa da bu eğitim ortamında tek dilli biçimde eğitim almaya başlamıştır. Yukarıda aktarılan durumda hangi yöntem uygulanmaktadır?",
-            "options": [
-                "Etkileşimli edinim",
-                "Tüm fiziksel tepki",
-                "Kısmi daldırma",
-                "Tek yönlü daldırma",
-                "İki yönlü daldırma"
-            ],
-            "correctIndex": 3,
-            "explanation": "Öğrencinin dilini bilmediği bir ülkede, tek dilli bir okul ortamında hedef dilde eğitim almaya başlaması durumu <b>Tek yönlü daldırma</b> yöntemidir.",
-            "unit": 1,
-            "topic": "1.7. İki dilli Eğitim",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 1016,
-            "question": "İrlanda Cumhuriyetinde gündelik yaşamda, eğitim kurumlarında İngilizce kullanılmasına karşın bu ülkede İrlandaca dili de bulunmaktadır. İrlandaca bilen sayısı gittikçe azaldığı için kimi okullarda tek dilli İrlandaca eğitim verildiği görülmektedir. Yukarıda aktarılan eğitim durumu aşağıdakilerden hangisini örneklendirmektedir?",
-            "options": [
-                "eklemeli daldırma",
-                "kaynaştırma eğitimi",
-                "grup eğitimi",
-                "iki yönlü daldırma",
-                "yerli dillere daldırma"
-            ],
-            "correctIndex": 4,
-            "explanation": "İrlandaca gibi yerel dillerin bilen sayısının azalmasını önlemek amacıyla tek dilli eğitim verilmesi <b>yerli dillere daldırma</b> yaklaşımını örneklendirmektedir.",
-            "unit": 1,
-            "topic": "1.7. İki dilli Eğitim",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 1017,
-            "question": "I. Hedef dilin kurallarından bağımsız bir gelişim söz konusudur. II. Hedef dille sınırlı düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülür. IV. Hedef dilin kurallarından bağımsız bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?",
-            "options": [
-                "Anadilleştirme",
-                "Yerlileştirme",
-                "Fosilleşme",
-                "Karmalaştırma",
-                "Etkileşim"
-            ],
-            "correctIndex": 0,
-            "explanation": "Hedef dilin kurallarından bağımsız gelişim, sınırlı etkileşim ve karmalaştırmanın görülmesi, Anderson tarafından ortaya konulan <b>Anadilleştirme</b> (Nativization) sürecini belirtir.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 1018,
-            "question": "I. Hedef dilin kurallarına bağımlı bir gelişim söz konusudur. II. Hedef dille yeterli düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülmez ya da az görülür. IV. Hedef dilin kurallarına göre bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?",
-            "options": [
-                "Anadilleştirme",
-                "Yerlileştirme",
-                "Fosilleşme",
-                "Karmalaştırma",
-                "Etkileşim"
-            ],
-            "correctIndex": 1,
-            "explanation": "Hedef dilin kurallarına bağımlı gelişim, yeterli düzeyde etkileşim ve karmalaştırmanın az görülmesi, Anderson tarafından ortaya konulan <b>Yerlileştirme</b> (Acculturation) sürecini belirtir.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 1019,
-            "question": "İkinci dil edinimi sürecinde kimi durumlarda birey hedef dil topluluğundan kendini uzaklaştırır. Bu durumda hedef dili öğrenen bireyin toplulukla olan mesafesi artar. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?",
-            "options": [
-                "Toplumsal mesafe",
-                "Psikolojik mesafe",
-                "Anadilleştirme",
-                "Yerlileştirme",
-                "Fosilleşme"
-            ],
-            "correctIndex": 0,
-            "explanation": "İkinci dil edinimi sürecinde bireyin hedef dil topluluğundan kendini uzaklaştırması durumu, <b>Toplumsal mesafe</b> ile ilgilidir.",
-            "unit": 1,
-            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 9"
-        },
-        {
-            "id": 1020,
-            "question": "İkinci dil edinimi sürecinde bireylerde dil şoku, kültür şoku olup olmaması güdülenmişlik düzeyleri ve ego sınırları dil ediniminde etkilidir. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?",
-            "options": [
-                "Toplumsal mesafe",
-                "Psikolojik mesafe",
-                "Anadilleştirme",
-                "Yerlileştirme",
-                "Fosilleşme"
-            ],
-            "correctIndex": 1,
-            "explanation": "Dil şoku, kültür şoku, güdülenmişlik düzeyi ve ego sınırları gibi içsel faktörler <b>Psikolojik mesafe</b> ile ilgilidir.",
-            "unit": 1,
-            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
-            "source": "Final Deneme Sınavı 2021-3",
-            "sourceInfo": "Soru 12"
-        },
-        {
-            "id": 1021,
-            "question": "İkinci dil edinim sürecinde bireylerin anlamlandırabileceğinin ötesinde bir dile maruz kalması edinim sürecinde soruna sebep olabilir. Sözgelimi, Türkçe bilmeyen bir öğrenci sadece üniversitede derslerde Türkçeye maruz kalırsa buradaki dil Türkçe gelişimini yeterince desteklemeyecektir. Yukarıda vurgulanmaya çalışılan özellik aşağıdakilerden hangisidir?",
-            "options": [
-                "Toplumsal mesafenin önemi",
-                "Etkileşimin önemli",
-                "Dil aktarımının önemi",
-                "Diller arasındaki benzerliğin önemli",
-                "Anlaşılır girdinin önemi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Bu durum, Krashen’in de belirttiği gibi, bireyin mevcut dil seviyesinin (i) bir adım ötesi (i+1) ile karşılaşmasının edinim sürecini olumsuz etkileyeceğini, bu nedenle <b>Anlaşılır girdinin önemi</b>ni vurgulamaktadır.",
-            "unit": 1,
-            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 10"
-        },
-        {
-            "id": 1022,
-            "question": "İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemesi durumu zaman içerisinde dil aşınmasına da sebep olabilmektedir. Yukarıda bahsedilen ikidillilik türü aşağıdakilerden hangisidir?",
-            "options": [
-                "Eşzamanlı ikidillilik",
-                "Çekinik ikidillilik",
-                "Yeni başlayan ikidillilik",
-                "Baskın ikidillilik",
-                "Sıralı ikidillilik"
-            ],
-            "correctIndex": 1,
-            "explanation": "İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemenin yaşanması ve dil aşınmasına sebep olması durumu <b>Çekinik ikidillilik</b> olarak adlandırılmaktadır.",
-            "unit": 1,
-            "topic": "1.4. İki dillilikte Dil Kullanımı",
-            "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 1 / Soru 21",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1023,
@@ -389,7 +34,9 @@
             "unit": 1,
             "topic": "1.2. İki dillilik Sürecinin Yaş ile İlişkisi",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1024,
@@ -406,7 +53,9 @@
             "unit": 1,
             "topic": "1.2. İki dillilik Sürecinin Yaş ile İlişkisi",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 17"
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1025,
@@ -423,58 +72,9 @@
             "unit": 1,
             "topic": "1.2. İki dillilik Sürecinin Yaş ile İlişkisi",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 11"
-        },
-        {
-            "id": 1026,
-            "question": "Annesi ve babasının ana dili Türkçe olan ve Türkiye’de yaşayan bir çocuk 12 yaşında sadece İngilizce eğitim veren okula gönderilmiştir. Aşağıdakilerden hangisi bu çocuğun durumunu en iyi biçimde betimler?",
-            "options": [
-                "Çoğunluk dil grubuna ait eş zamanlı iki dilliler",
-                "Azınlık dil grubuna ait eş zamanlı iki dilliler",
-                "Azınlık dil grubuna ait ikinci dil öğrenenler",
-                "Azınlık dil grubuna ait geç iki dilliler",
-                "Çoğunluk dil grubuna ait ikinci dil öğrenenler"
-            ],
-            "correctIndex": 4,
-            "explanation": "Türkiye'de yaşayan ve ana dili Türkçe olan bir çocuğun (çoğunluk dil grubu) 12 yaşında İngilizce eğitim veren bir okula gönderilmesi, çocuğun <b>Çoğunluk dil grubuna ait ikinci dil öğrenenler</b> olduğunu betimler.",
-            "unit": 1,
-            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
-            "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 10"
-        },
-        {
-            "id": 1027,
-            "question": "Dışsal topluluklar içerisinde iki dilden birisi daha az destek ile karşılaşmakta ve devlet politikası olarak bireylerin belirli dillere zorlanabildiği görülmektedir. Bu durumda devletler ikidillileri de devletin benimsediği dili kullanmaya yöneltmektedir. Böylece bireylerin sahip oldukları dillerden birisi büyük oranda devre dışı kalmaktadır. Yukarıda açıklanmaya çalışılan durum aşağıdakilerden hangisidir?",
-            "options": [
-                "Eklemeli ikidillilik",
-                "Baskın ikidillilik",
-                "Eksiltmeli ikidillilik",
-                "Seçmeli ikidillilik",
-                "Aile ikidilliği"
-            ],
-            "correctIndex": 2,
-            "explanation": "Devlet politikaları nedeniyle bireyin sahip olduğu dillerden birisinin büyük oranda devre dışı bırakılması ve daha az destekle karşılaşması durumu <b>Eksiltmeli ikidillilik</b> olarak adlandırılır.",
-            "unit": 1,
-            "topic": "1.7. İki dilli Eğitim",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 1028,
-            "question": "İkinci dil edinimi sürecinde iletişimde bir sorun oluştuğunda bu sorunun giderilmesine yönelik olarak karşı tarafın ürettiği birim aşağıdakilerden hangisidir?",
-            "options": [
-                "Tetik",
-                "Tepki",
-                "Sinyal",
-                "Onarım",
-                "Yanıt"
-            ],
-            "correctIndex": 0,
-            "explanation": "Anlamda uzlaşma sürecinde karşı taraf için problem oluşturan dilsel yapılara <b>Tetik</b> adı verilir.",
-            "unit": 1,
-            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1029,
@@ -491,58 +91,389 @@
             "unit": 1,
             "topic": "1.2. İki dillilik Sürecinin Yaş ile İlişkisi",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 1030,
-            "question": "Kanada iki dilli bir toplumdur ve kimi okullarda İngilizce-Fransızca iki dilli eğitim verilir. Dolayısıyla öğrencilerin yarısının İngilizce yarsının ise Fransızca bildiği kimi durumlarda İngilizce-Fransızca iki dilli eğitim programı görülebilir. Bu durum hangi iki dilli eğitim yaklaşımını yansıtmaktadır?",
+            "id": 1013,
+            "question": "Annesi ve babası tek dilli 12 yaşındaki İngiliz olan bir çocuğun İngiltere’de Fransız lisesine gitmesi ve burada Fransızca eğitim alması durumu aşağıdakilerden hangisine girmektedir?",
             "options": [
-                "Evrensel dile daldırma",
-                "Yeni dile daldırma",
-                "Azınlık diline daldırma",
-                "İki yönlü daldırma",
-                "Tek yönlü daldırma"
+                "Azınlık dil grubu - ikinci dil öğrenenler",
+                "Azınlık dil grubu - Eş zamanlı ikidilliler",
+                "Çoğunluk dil grubu - Eş zamanlı ikidilliler",
+                "Çoğunluk dil grubu - ikinci dil öğrenenler",
+                "Aile ikidilliliği - eş zamanlı ikidilliler"
             ],
             "correctIndex": 3,
-            "explanation": "Öğrencilerin yarısının bir dili, diğer yarısının ise diğer dili bildiği, her iki dilin de programda yer aldığı eğitim yaklaşımı <b>İki yönlü daldırma</b> yaklaşımını yansıtmaktadır.",
+            "explanation": "Annesi ve babası tek dilli, 12 yaşındaki İngiliz çocuğun (çoğunluk dil grubu) İngiltere’de Fransız lisesine giderek Fransızca eğitim alması durumu <b>Çoğunluk dil grubu- ikinci dil öğrenenler</b> kategorisine girmektedir.",
             "unit": 1,
-            "topic": "1.7. İki dilli Eğitim",
-            "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 14"
+            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 1031,
-            "question": "İki dilli eğitim kurumlarında uygulanan kimi daldırma programlarında çocuklar zamanının yarısını (%50’si) hedef dil ile geçirmektedir. Bu tür bir daldırmaya verilen ad aşağıdakilerden hangisidir?",
+            "id": 1014,
+            "question": "Suriyeli ve ana dili Arapça olan ve Türkçe bilmeyen bir aileye mensup 12 yaşındaki bir çocuğun Türkiye’ye göç ederek Türkçe eğitim veren bir okula başlaması durumunda aşağıdaki gruplardan hangisine girecektir?",
             "options": [
-                "Tam zamanlı daldırma",
-                "Yapılandırılmış daldırma",
-                "Kısmi zamanlı daldırma",
-                "Yerli dillere daldırma",
-                "Tek yönlü daldırma"
+                "Çoğunluk dil grubu- ikinci dil öğrenenler",
+                "Azınlık dil grubu- Eş zamanlı ikidilliler",
+                "Çoğunluk dil grubu- Eş zamanlı ikidilliler",
+                "Azınlık dil grubu- ikinci dil öğrenenler",
+                "Aile ikidilliliği- eş zamanlı ikidilliler"
             ],
-            "correctIndex": 2,
-            "explanation": "Çocukların eğitim zamanının yarısını (%50’si) hedef dil ile geçirdiği daldırma programlarına <b>Kısmi zamanlı daldırma</b> adı verilir.",
+            "correctIndex": 3,
+            "explanation": "Suriyeli ve ana dili Arapça olan bir çocuğun Türkiye’de Türkçe eğitim veren okula başlaması durumu, azınlık dil grubundan birinin yeni bir dil öğrenmesi nedeniyle <b>Azınlık dil grubu- ikinci dil öğrenenler</b> kategorisine girer.",
             "unit": 1,
-            "topic": "1.7. İki dilli Eğitim",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 7"
+            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 1032,
-            "question": "Türkiye’de İngilizce kursuna giderek ana dilin olumsuz etkilenmeden yeni bir dil edinilmesi ikidillilik bağlamında aşağıdakilerden hangisi olarak tanımlanmaktadır?",
+            "id": 1019,
+            "question": "İkinci dil edinimi sürecinde kimi durumlarda birey hedef dil topluluğundan kendini uzaklaştırır. Bu durumda hedef dili öğrenen bireyin toplulukla olan mesafesi artar. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?",
             "options": [
-                "Dışsal ikidillilik",
-                "Seçmeli ikidillilik",
-                "Durumsal ikidillilik",
-                "Eksiltmeli ikidillilik",
-                "Eklemeli ikidillilik"
+                "Toplumsal mesafe",
+                "Psikolojik mesafe",
+                "Anadilleştirme",
+                "Yerlileştirme",
+                "Fosilleşme"
+            ],
+            "correctIndex": 0,
+            "explanation": "İkinci dil edinimi sürecinde bireyin hedef dil topluluğundan kendini uzaklaştırması durumu, <b>Toplumsal mesafe</b> ile ilgilidir.",
+            "unit": 1,
+            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1020,
+            "question": "İkinci dil edinimi sürecinde bireylerde dil şoku, kültür şoku olup olmaması güdülenmişlik düzeyleri ve ego sınırları dil ediniminde etkilidir. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?",
+            "options": [
+                "Toplumsal mesafe",
+                "Psikolojik mesafe",
+                "Anadilleştirme",
+                "Yerlileştirme",
+                "Fosilleşme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Dil şoku, kültür şoku, güdülenmişlik düzeyi ve ego sınırları gibi içsel faktörler <b>Psikolojik mesafe</b> ile ilgilidir.",
+            "unit": 1,
+            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
+            "source": "Final Deneme Sınavı 2021-3",
+            "sourceInfo": "Soru 12",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 1026,
+            "question": "Annesi ve babasının ana dili Türkçe olan ve Türkiye’de yaşayan bir çocuk 12 yaşında sadece İngilizce eğitim veren okula gönderilmiştir. Aşağıdakilerden hangisi bu çocuğun durumunu en iyi biçimde betimler?",
+            "options": [
+                "Çoğunluk dil grubuna ait eş zamanlı iki dilliler",
+                "Azınlık dil grubuna ait eş zamanlı iki dilliler",
+                "Azınlık dil grubuna ait ikinci dil öğrenenler",
+                "Azınlık dil grubuna ait geç iki dilliler",
+                "Çoğunluk dil grubuna ait ikinci dil öğrenenler"
             ],
             "correctIndex": 4,
-            "explanation": "Yeni bir dilin öğrenilmesi sırasında diğer dilin olumsuz etkilenmediği durum <b>Eklemeli ikidillilik</b> olarak tanımlanmaktadır.",
+            "explanation": "Türkiye'de yaşayan ve ana dili Türkçe olan bir çocuğun (çoğunluk dil grubu) 12 yaşında İngilizce eğitim veren bir okula gönderilmesi, çocuğun <b>Çoğunluk dil grubuna ait ikinci dil öğrenenler</b> olduğunu betimler.",
             "unit": 1,
-            "topic": "1.7. İki dilli Eğitim",
-            "source": "Final Deneme Sınavı 2021-3",
-            "sourceInfo": "Soru 5"
+            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1028,
+            "question": "İkinci dil edinimi sürecinde iletişimde bir sorun oluştuğunda bu sorunun giderilmesine yönelik olarak karşı tarafın ürettiği birim aşağıdakilerden hangisidir?",
+            "options": [
+                "Tetik",
+                "Tepki",
+                "Sinyal",
+                "Onarım",
+                "Yanıt"
+            ],
+            "correctIndex": 0,
+            "explanation": "Anlamda uzlaşma sürecinde karşı taraf için problem oluşturan dilsel yapılara <b>Tetik</b> adı verilir.",
+            "unit": 1,
+            "topic": "1.3. İki dillilik ve Toplumsal Etkileşim",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1006,
+            "question": "Annesi Almanca babası Türkçe konuşan iki dilli bir çocuk annesiyle Almanca konuşurken babası tarafından bir soru yöneltilmesi durumunda hemen Türkçe yanıt verip annesi ile Almanca konuşmaya devam edebilir. Yukarıdaki bu durum aşağıdakilerden hangisidir?",
+            "options": [
+                "Kod değiştirme",
+                "Kod karıştırma",
+                "Kodlama",
+                "Karmalaştırma",
+                "Karıştırma"
+            ],
+            "correctIndex": 0,
+            "explanation": "İki dilli bir çocuğun konuşma sırasında diller arasında anlık olarak geçiş yapması durumu <b>Kod değiştirme</b> olarak adlandırılır.",
+            "unit": 1,
+            "topic": "1.4. İki dillilikte Dil Kullanımı",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 6 / Soru 26",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1009,
+            "question": "Arapça ve Türkçe bilen ikidilli bir çocuğun Arapça konuşarken Türkçe sözcükleri cümlelerinin içerisine yerleştirmesi durumu aşağıdakilerden hangisine örnektir?",
+            "options": [
+                "Kod değiştirme",
+                "Kod karıştırma",
+                "Fosilleşme",
+                "Edinim",
+                "Öğrenim"
+            ],
+            "correctIndex": 1,
+            "explanation": "İki dilli bir çocuğun bir dildeki cümle yapısı içerisine diğer dilden sözcükleri yerleştirmesi durumu <b>Kod karıştırma</b> olarak adlandırılır.",
+            "unit": 1,
+            "topic": "1.4. İki dillilikte Dil Kullanımı",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 9 / Soru 29",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1022,
+            "question": "İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemesi durumu zaman içerisinde dil aşınmasına da sebep olabilmektedir. Yukarıda bahsedilen ikidillilik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Eşzamanlı ikidillilik",
+                "Çekinik ikidillilik",
+                "Yeni başlayan ikidillilik",
+                "Baskın ikidillilik",
+                "Sıralı ikidillilik"
+            ],
+            "correctIndex": 1,
+            "explanation": "İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemenin yaşanması ve dil aşınmasına sebep olması durumu <b>Çekinik ikidillilik</b> olarak adlandırılmaktadır.",
+            "unit": 1,
+            "topic": "1.4. İki dillilikte Dil Kullanımı",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1002,
+            "question": "Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya ne ad verilir?",
+            "options": [
+                "Evrensel dilbilgisi",
+                "Aradil",
+                "Ana dili",
+                "İkinci dil",
+                "İkidillilik"
+            ],
+            "correctIndex": 0,
+            "explanation": "Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya <b>Evrensel dilbilgisi</b> adı verilir.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 2 / Soru 22",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1003,
+            "question": "Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Yukarıdaki bu duruma ne ad verilir?",
+            "options": [
+                "İkidillilik",
+                "Fosilleşme",
+                "Aradil",
+                "Ana dili",
+                "Edinim"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Bu duruma <b>Aradil</b> adı verilir.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 3 / Soru 23",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1004,
+            "question": "Aşağıdakilerden hangisi Selinker’in ortaya koyduğu aradilin özelliklerinden birisidir?",
+            "options": [
+                "Evrensellik",
+                "Kolaylılık",
+                "Çekiniklik",
+                "Karmaşıklık",
+                "Geçirgenlik"
+            ],
+            "correctIndex": 4,
+            "explanation": "Aradilin geçirgenlik, dinamiklik ve sistematiklik olmak üzere üç temel özelliği bulunmaktadır. Bu özelliklerden biri <b>Geçirgenliktir</b>.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 4 / Soru 24",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1005,
+            "question": "Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna ne ad verilir?",
+            "options": [
+                "Geçirgenlik",
+                "Fosilleşme",
+                "Dinamiklik",
+                "Kod değiştirme",
+                "Sistematiklik"
+            ],
+            "correctIndex": 1,
+            "explanation": "Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna <b>Fosilleşme</b> adı verilir.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 5 / Soru 25",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1007,
+            "question": "Aradil her ne kadar bireyin sahip olduğu ana dilin ve hedef dilin kurallarının karıştırılmasıyla oluşturuluyor olsa da kendi içerisinde incelendiğinde oldukça tutarlı kurallara sahip olduğu ancak bu kuralların ana dilinden ve hedef dilden farklılaşabileceği görülmektedir. Yukarıda aradilin hangi özelliği vurgulanmaktadır?",
+            "options": [
+                "Geçirgenlik",
+                "Sistematiklik",
+                "Dinamiklik",
+                "Karmaşıklık",
+                "Fosilleşme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ara dilin kendi içerisinde kural yönetimli olması ve tutarlı kurallara sahip olması, aradilin <b>Sistematiklik</b> özelliğini vurgulamaktadır.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 7 / Soru 27",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1008,
+            "question": "Bireyin sahip olduğu dillerden birinde var olan bir dilbilgisi yapısının yeni edindiği dile aktarması ve bu aktarımın yeni dildeki edinim sürecini kolaylaştırması durumuna ne ad verilir?",
+            "options": [
+                "Geçişim",
+                "Karmalaştırma",
+                "Aktarımsız tam kabul",
+                "Olumlu aktarım",
+                "Olumsuz aktarım"
+            ],
+            "correctIndex": 3,
+            "explanation": "Bir dilde var olan bir dilbilgisi yapısının yeni edindiği dile aktarılması ve bu aktarımın yeni dildeki edinim sürecini <b>kolaylaştırması</b> durumu <b>Olumlu aktarım</b> olarak adlandırılır.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 8 / Soru 28",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1010,
+            "question": "Krashen’e göre ……….; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken …….., yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir. Yukarıdaki boşluklara aşağıdaki kavramlardan hangisi getirilmelidir?",
+            "options": [
+                "Edinim-anadilleştirme",
+                "Öğrenme-anadilleştirme",
+                "Karmalaştırma-Fosilleşme",
+                "Öğrenme-edinim",
+                "Edinim-öğrenme"
+            ],
+            "correctIndex": 4,
+            "explanation": "Krashen’e göre <b>Edinim</b>; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken <b>Öğrenme</b>, yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Deneme Sınavı",
+            "sourceInfo": "Soru 10 / Soru 30",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1011,
+            "question": "Aşağıdaki seçeneklerden hangisi İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlardan biri olarak kabul edilir?",
+            "options": [
+                "Tam Aktarım Tam Kabul Varsayımı",
+                "Yalın Ağaçlar Varsayımı",
+                "Sözdizimi Başlanşıç Aşaması Varsayımı",
+                "Değer Taşımayan Özellikler Varsayımı",
+                "Etkisel Filtre Varsayımı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Tam Aktarım Tam Kabul Varsayımı, ikinci dilde dil bilgisi edinim sürecine ilişkin yaklaşımlardan biridir.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1017,
+            "question": "I. Hedef dilin kurallarından bağımsız bir gelişim söz konusudur. II. Hedef dille sınırlı düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülür. IV. Hedef dilin kurallarından bağımsız bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?",
+            "options": [
+                "Anadilleştirme",
+                "Yerlileştirme",
+                "Fosilleşme",
+                "Karmalaştırma",
+                "Etkileşim"
+            ],
+            "correctIndex": 0,
+            "explanation": "Hedef dilin kurallarından bağımsız gelişim, sınırlı etkileşim ve karmalaştırmanın görülmesi, Anderson tarafından ortaya konulan <b>Anadilleştirme</b> (Nativization) sürecini belirtir.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 1018,
+            "question": "I. Hedef dilin kurallarına bağımlı bir gelişim söz konusudur. II. Hedef dille yeterli düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülmez ya da az görülür. IV. Hedef dilin kurallarına göre bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?",
+            "options": [
+                "Anadilleştirme",
+                "Yerlileştirme",
+                "Fosilleşme",
+                "Karmalaştırma",
+                "Etkileşim"
+            ],
+            "correctIndex": 1,
+            "explanation": "Hedef dilin kurallarına bağımlı gelişim, yeterli düzeyde etkileşim ve karmalaştırmanın az görülmesi, Anderson tarafından ortaya konulan <b>Yerlileştirme</b> (Acculturation) sürecini belirtir.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 1021,
+            "question": "İkinci dil edinim sürecinde bireylerin anlamlandırabileceğinin ötesinde bir dile maruz kalması edinim sürecinde soruna sebep olabilir. Sözgelimi, Türkçe bilmeyen bir öğrenci sadece üniversitede derslerde Türkçeye maruz kalırsa buradaki dil Türkçe gelişimini yeterince desteklemeyecektir. Yukarıda vurgulanmaya çalışılan özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Toplumsal mesafenin önemi",
+                "Etkileşimin önemli",
+                "Dil aktarımının önemi",
+                "Diller arasındaki benzerliğin önemli",
+                "Anlaşılır girdinin önemi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Bu durum, Krashen’in de belirttiği gibi, bireyin mevcut dil seviyesinin (i) bir adım ötesi (i+1) ile karşılaşmasının edinim sürecini olumsuz etkileyeceğini, bu nedenle <b>Anlaşılır girdinin önemi</b>ni vurgulamaktadır.",
+            "unit": 1,
+            "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1033,
@@ -559,7 +490,9 @@
             "unit": 1,
             "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 19"
+            "sourceInfo": "Soru 19",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 1034,
@@ -576,7 +509,142 @@
             "unit": 1,
             "topic": "1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1012,
+            "question": "Okuldaki öğrencilerinin yarısının Flemenkçe yarsının ise Almanca bildiği okulda Fremenkçe-Almanca ikidilli eğitim programı düzenlemek hangi ikidilli eğitim yaklaşımına girmektedir?",
+            "options": [
+                "İşe dayalı öğrenme",
+                "İletişimsel yaklaşım",
+                "Tek yönlü daldırma",
+                "İki yönlü daldırma",
+                "İçerik tabanlı öğrenme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Öğrencilerin bir kısmının bir dili, diğer kısmının ise başka bir dili bildiği okullarda uygulanan ve her iki dilin de eğitim programında yer aldığı ikidilli eğitim yaklaşımı <b>İki yönlü daldırma</b> olarak adlandırılır.",
+            "unit": 1,
+            "topic": "1.7. İki dilli Eğitim",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 1015,
+            "question": "Ülkeye bir öğrenci ailesiyle göç etmiş ve dilini bilmediği bu ülkedeki bir okula yerleştirilmiştir. Okulda tek dilli bir ortam bulunmaktadır. Öğrenci hedef dile ilişkin temel bilgisi olmasa da bu eğitim ortamında tek dilli biçimde eğitim almaya başlamıştır. Yukarıda aktarılan durumda hangi yöntem uygulanmaktadır?",
+            "options": [
+                "Etkileşimli edinim",
+                "Tüm fiziksel tepki",
+                "Kısmi daldırma",
+                "Tek yönlü daldırma",
+                "İki yönlü daldırma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Öğrencinin dilini bilmediği bir ülkede, tek dilli bir okul ortamında hedef dilde eğitim almaya başlaması durumu <b>Tek yönlü daldırma</b> yöntemidir.",
+            "unit": 1,
+            "topic": "1.7. İki dilli Eğitim",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 1016,
+            "question": "İrlanda Cumhuriyetinde gündelik yaşamda, eğitim kurumlarında İngilizce kullanılmasına karşın bu ülkede İrlandaca dili de bulunmaktadır. İrlandaca bilen sayısı gittikçe azaldığı için kimi okullarda tek dilli İrlandaca eğitim verildiği görülmektedir. Yukarıda aktarılan eğitim durumu aşağıdakilerden hangisini örneklendirmektedir?",
+            "options": [
+                "eklemeli daldırma",
+                "kaynaştırma eğitimi",
+                "grup eğitimi",
+                "iki yönlü daldırma",
+                "yerli dillere daldırma"
+            ],
+            "correctIndex": 4,
+            "explanation": "İrlandaca gibi yerel dillerin bilen sayısının azalmasını önlemek amacıyla tek dilli eğitim verilmesi <b>yerli dillere daldırma</b> yaklaşımını örneklendirmektedir.",
+            "unit": 1,
+            "topic": "1.7. İki dilli Eğitim",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1027,
+            "question": "Dışsal topluluklar içerisinde iki dilden birisi daha az destek ile karşılaşmakta ve devlet politikası olarak bireylerin belirli dillere zorlanabildiği görülmektedir. Bu durumda devletler ikidillileri de devletin benimsediği dili kullanmaya yöneltmektedir. Böylece bireylerin sahip oldukları dillerden birisi büyük oranda devre dışı kalmaktadır. Yukarıda açıklanmaya çalışılan durum aşağıdakilerden hangisidir?",
+            "options": [
+                "Eklemeli ikidillilik",
+                "Baskın ikidillilik",
+                "Eksiltmeli ikidillilik",
+                "Seçmeli ikidillilik",
+                "Aile ikidilliği"
+            ],
+            "correctIndex": 2,
+            "explanation": "Devlet politikaları nedeniyle bireyin sahip olduğu dillerden birisinin büyük oranda devre dışı bırakılması ve daha az destekle karşılaşması durumu <b>Eksiltmeli ikidillilik</b> olarak adlandırılır.",
+            "unit": 1,
+            "topic": "1.7. İki dilli Eğitim",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1030,
+            "question": "Kanada iki dilli bir toplumdur ve kimi okullarda İngilizce-Fransızca iki dilli eğitim verilir. Dolayısıyla öğrencilerin yarısının İngilizce yarsının ise Fransızca bildiği kimi durumlarda İngilizce-Fransızca iki dilli eğitim programı görülebilir. Bu durum hangi iki dilli eğitim yaklaşımını yansıtmaktadır?",
+            "options": [
+                "Evrensel dile daldırma",
+                "Yeni dile daldırma",
+                "Azınlık diline daldırma",
+                "İki yönlü daldırma",
+                "Tek yönlü daldırma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Öğrencilerin yarısının bir dili, diğer yarısının ise diğer dili bildiği, her iki dilin de programda yer aldığı eğitim yaklaşımı <b>İki yönlü daldırma</b> yaklaşımını yansıtmaktadır.",
+            "unit": 1,
+            "topic": "1.7. İki dilli Eğitim",
+            "source": "Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1031,
+            "question": "İki dilli eğitim kurumlarında uygulanan kimi daldırma programlarında çocuklar zamanının yarısını (%50’si) hedef dil ile geçirmektedir. Bu tür bir daldırmaya verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Tam zamanlı daldırma",
+                "Yapılandırılmış daldırma",
+                "Kısmi zamanlı daldırma",
+                "Yerli dillere daldırma",
+                "Tek yönlü daldırma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Çocukların eğitim zamanının yarısını (%50’si) hedef dil ile geçirdiği daldırma programlarına <b>Kısmi zamanlı daldırma</b> adı verilir.",
+            "unit": 1,
+            "topic": "1.7. İki dilli Eğitim",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 1032,
+            "question": "Türkiye’de İngilizce kursuna giderek ana dilin olumsuz etkilenmeden yeni bir dil edinilmesi ikidillilik bağlamında aşağıdakilerden hangisi olarak tanımlanmaktadır?",
+            "options": [
+                "Dışsal ikidillilik",
+                "Seçmeli ikidillilik",
+                "Durumsal ikidillilik",
+                "Eksiltmeli ikidillilik",
+                "Eklemeli ikidillilik"
+            ],
+            "correctIndex": 4,
+            "explanation": "Yeni bir dilin öğrenilmesi sırasında diğer dilin olumsuz etkilenmediği durum <b>Eklemeli ikidillilik</b> olarak tanımlanmaktadır.",
+            "unit": 1,
+            "topic": "1.7. İki dilli Eğitim",
+            "source": "Final Deneme Sınavı 2021-3",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 2001,
@@ -593,7 +661,9 @@
             "unit": 2,
             "topic": "2.2.1. Kültür Uyuşumu Modeli",
             "source": "Vize Soruları 2021-2022",
-            "sourceInfo": "Soru 20 / Soru 1"
+            "sourceInfo": "Soru 20 / Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2002,
@@ -610,24 +680,9 @@
             "unit": 2,
             "topic": "2.2.1. Kültür Uyuşumu Modeli",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 14 / Soru 6"
-        },
-        {
-            "id": 2003,
-            "question": "İkinci dil edinimi sürecinde bireylerde dil şoku, kültür şoku olup olmaması güdülenmişlik düzeyleri ve ego sınırları dil ediniminde etkilidir. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?",
-            "options": [
-                "Toplumsal mesafe",
-                "Psikolojik mesafe",
-                "Anadilleştirme",
-                "Yerlileştirme",
-                "Fosilleşme"
-            ],
-            "correctIndex": 1,
-            "explanation": "Dil edinimi sürecindeki bireye özgü durumları ifade eden ve dil şoku yaşayıp yaşamama, dil egosunun var olup olmaması, güdülenme düzeyi gibi durumları içeren etmenler <b>Psikolojik mesafe</b>yi oluşturmaktadır.",
-            "unit": 2,
-            "topic": "2.2.1. Kültür Uyuşumu Modeli",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 3 / Soru 15"
+            "sourceInfo": "Soru 14 / Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2004,
@@ -644,58 +699,9 @@
             "unit": 2,
             "topic": "2.2.1. Kültür Uyuşumu Modeli",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 8 / Soru 14"
-        },
-        {
-            "id": 2005,
-            "question": "İkinci dil edinimi sürecinde bireyler ikinci dillerinde ana dillerinden kurallara, sözcüklere yer verebilmektedir. Bu durumda hedef dil kullanımlarının içerisinde ana dillerinden öğeler yer alabilmektedir. Yukarıda açıklanan duruma verilen ad aşağıdakilerden hangisidir?",
-            "options": [
-                "Pekiştirme",
-                "Karmalaştırma",
-                "Fosilleşme",
-                "Daldırma",
-                "Ana dilleştirme"
-            ],
-            "correctIndex": 1,
-            "explanation": "<b>Karmalaşma ya da karmalaştırma</b>, bireyin ana dili ile ikinci dilinin kurallarını, sözcüklerini karıştırarak kullanması durumudur. Bu durum, edinimin belirli bir sürecinde normal olarak değerlendirilebilmektedir.",
-            "unit": 2,
-            "topic": "2.2.2. Karmalaştırma Varsayımı",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 1 / Soru 17"
-        },
-        {
-            "id": 2006,
-            "question": "I. Hedef dilin kurallarına bağımlı bir gelişim söz konusudur. II. Hedef dille yeterli düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülmez ya da az görülür. IV. Hedef dilin kurallarına göre bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?",
-            "options": [
-                "Anadilleştirme",
-                "Yerlileştirme",
-                "Fosilleşme",
-                "Karmalaştırma",
-                "Etkileşim"
-            ],
-            "correctIndex": 1,
-            "explanation": "Bu özellikler, Anderson'un Ana dilleştirme Modeli içerisinde yer alan <b>Yerlileştirme</b> sürecini ifade etmektedir. Yerlileştirme, dil edinicisinin ana dilinden getirdiği dilsel normları <b>hedef dilin sistemine uydurma sürecini</b> ve dışsal normlara daha fazla duyarlılık gösteren bir edinim biçimini ifade eder.",
-            "unit": 2,
-            "topic": "2.2.3. Ana dilleştirme Modeli",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 2007,
-            "question": "I. Hedef dilin kurallarından bağımsız bir gelişim söz konusudur.<br>II. Hedef dille sınırlı düzeyde bir etkileşim vardır.<br>III. Dil edinim sürecinde karmalaştırma görülür.<br>IV. Hedef dilin kurallarından bağımsız bir ikinci dil edinimi süreci söz konusudur.<br>Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?",
-            "options": [
-                "Anadilleştirme",
-                "Yerlileştirme",
-                "Fosilleşme",
-                "Karmalaştırma",
-                "Etkileşim"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bu özellikler, Anderson’un Ana dilleştirme Modeli’nde yer alan <b>Ana dilleştirme</b> (Nativization) sürecini ifade eder. Bu süreçte bireyler <b>kendi ana dillerini referans</b> almakta ve hedef dili kendi ana dillerine uydurarak edinmektedirler, bu yüzden de <b>karmalaştırma görülür</b> ve <b>hedef dilin kurallarından bağımsız bir gelişim</b> söz konusudur.",
-            "unit": 2,
-            "topic": "2.2.3. Ana dilleştirme Modeli",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 8 / Soru 20"
+            "sourceInfo": "Soru 8 / Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2008,
@@ -712,58 +718,9 @@
             "unit": 2,
             "topic": "2.2.4. Etkileşim Varsayımı",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 9 / Soru 5"
-        },
-        {
-            "id": 2009,
-            "question": "Ülkeye bir öğrenci ailesiyle göç etmiş ve dilini bilmediği bu ülkedeki bir okula yerleştirilmiştir. Okulda tek dilli bir ortam bulunmaktadır Öğrenci hedef dile ilişkin temel bilgisi olmasa da bu eğitim ortamında tek dilli biçimde eğitim almaya başlamıştır. Yukarıda aktarılan durumda hangi yöntem uygulanmaktadır?",
-            "options": [
-                "Etkileşimli edinim",
-                "Tüm fiziksel tepki",
-                "Kısmi daldırma",
-                "Tek yönlü daldırma",
-                "İki yönlü daldırma"
-            ],
-            "correctIndex": 3,
-            "explanation": "Bu durum, çocuğun sahip olduğu ilk dilin büyük oranda ihmal edildiği ve öğrencinin dilini bilmediği ülkede <b>tek dilli eğitim veren bir kurumda eğitim görmeye başladığı</b> <b>Tek yönlü daldırma</b> programına örnektir.",
-            "unit": 2,
-            "topic": "2.3. Daldırma Yöntemi",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 3"
-        },
-        {
-            "id": 2010,
-            "question": "Okuldaki öğrencilerinin yarısının Flemenkçe yarsının ise Almanca bildiği okulda Fremenkçe-Almanca ikidilli eğitim programı düzenlemek hangi ikidilli eğitim yaklaşımına girmektedir?",
-            "options": [
-                "İşe dayalı öğrenme",
-                "İletişimsel yaklaşım",
-                "Tek yönlü daldırma",
-                "İki yönlü daldırma",
-                "İçerik tabanlı öğrenme"
-            ],
-            "correctIndex": 3,
-            "explanation": "Okulda eğitim gören <b>iki farklı grubun</b> (Flemenkçe ve Almanca bilen öğrenciler) bulunduğu ve <b>iki dilin de gelişiminin önemsendiği</b> ikidilli eğitim programı <b>İki yönlü daldırma</b> yaklaşımına girmektedir.",
-            "unit": 2,
-            "topic": "2.3. Daldırma Yöntemi",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 6 / Soru 13"
-        },
-        {
-            "id": 2011,
-            "question": "İki dilli eğitim kurumlarında uygulanan kimi daldırma programlarında çocuklar zamanının yarısını (%50’si) hedef dil ile geçirmektedir. Bu tür bir daldırmaya verilen ad aşağıdakilerden hangisidir?",
-            "options": [
-                "Yapılandırılmış daldırma",
-                "Tam zamanlı daldırma",
-                "Kısmi zamanlı daldırma",
-                "Yerli dillere daldırma",
-                "Tek yönlü daldırma"
-            ],
-            "correctIndex": 2,
-            "explanation": "Program içerisinde hedef dil ile ne kadar karşılaşıldığı ile ilgili olan ve çocukların eğitim zamanının belirli kısımlarını (örneğin %50’si) hedef dil ile geçirdiği daldırma programlarına <b>Kısmi zamanlı daldırma</b> adı verilir.",
-            "unit": 2,
-            "topic": "2.3. Daldırma Yöntemi",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 7 / Soru 11"
+            "sourceInfo": "Soru 9 / Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2012,
@@ -780,7 +737,9 @@
             "unit": 2,
             "topic": "2.3. Daldırma Yöntemi",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 6 / Soru 8"
+            "sourceInfo": "Soru 6 / Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2013,
@@ -797,7 +756,9 @@
             "unit": 2,
             "topic": "2.3. Daldırma Yöntemi",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 16 / Soru 18"
+            "sourceInfo": "Soru 16 / Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2014,
@@ -814,7 +775,9 @@
             "unit": 2,
             "topic": "2.3. Daldırma Yöntemi",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 9 / Soru 15"
+            "sourceInfo": "Soru 9 / Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2015,
@@ -831,7 +794,9 @@
             "unit": 2,
             "topic": "2.3. Daldırma Yöntemi",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 20 / Soru 5"
+            "sourceInfo": "Soru 20 / Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3001,
@@ -848,7 +813,9 @@
             "unit": 3,
             "topic": "3.1. Giriş",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 18 / Soru 14 / Soru 10"
+            "sourceInfo": "Soru 18 / Soru 14 / Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3002,
@@ -865,7 +832,9 @@
             "unit": 3,
             "topic": "3.1. Söz Varlığı Nedir?",
             "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 13 / Soru 3"
+            "sourceInfo": "Soru 13 / Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3003,
@@ -882,7 +851,9 @@
             "unit": 3,
             "topic": "3.1. Söz Varlığı Nedir?",
             "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3004,
@@ -899,7 +870,9 @@
             "unit": 3,
             "topic": "3.1. Söz Varlığı Nedir?",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 17 / Soru 18 / Soru 8"
+            "sourceInfo": "Soru 17 / Soru 18 / Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3005,
@@ -916,7 +889,9 @@
             "unit": 3,
             "topic": "3.1. Söz Varlığı Nedir?",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 6 / Soru 8 / Soru 20"
+            "sourceInfo": "Soru 6 / Soru 8 / Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3006,
@@ -933,7 +908,9 @@
             "unit": 3,
             "topic": "3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi",
             "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3007,
@@ -950,7 +927,9 @@
             "unit": 3,
             "topic": "3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi",
             "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 6 / Soru 2 / Soru 7"
+            "sourceInfo": "Soru 6 / Soru 2 / Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3008,
@@ -967,92 +946,9 @@
             "unit": 3,
             "topic": "3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 19 / Soru 9 / Soru 8 / Soru 2 / Soru 5"
-        },
-        {
-            "id": 3009,
-            "question": "Schmitt’in sözcük öğrenme stratejileri konusunda yaptığı çalışmada öne çıkardığı iki önemli strateji aşağıdakilerden hangileridir?",
-            "options": [
-                "Keşfetme stratejileri ve pekiştirme stratejileri",
-                "Tespit stratejileri ve Sosyal stratejileri",
-                "Bellek stratejileri ve Bilişsel stratejileri",
-                "Keşif stratejileri ve Yürütücü biliş stratejileri",
-                "Pekiştirme stratejileri ve Bellek stratejileri"
-            ],
-            "correctIndex": 0,
-            "explanation": "Schmitt (1997) sözcük öğrenme stratejileri konusunda yaptığı çalışmada iki önemli stratejiyi öne çıkartmıştır: **Keşfetme stratejileri ve pekiştirme stratejileri**.",
-            "unit": 3,
-            "topic": "3.4. Sözcük Öğrenme Stratejileri",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 1 / Soru 10"
-        },
-        {
-            "id": 3010,
-            "question": "Aşağıdakilerden hangisi sosyal stratejilere örnektir?",
-            "options": [
-                "İletişimde bulunduğu kişiden açıklamalarda bulunmasını isteme ya da öğrenme aşamasında başkalarıyla işbirliği içinde birlikte çalışmaya gayret göstermek",
-                "Yabancı dilde iletişimde meydana gelebilecek stres ve korku gibi duyguları azaltmak veya arkadaşlarla öğretmenle, okul arkadaşıyla yabancı dili öğrenirken veya kullanırken oluşan duyguları hakkında konuşmak",
-                "Bir metnin içeriği hakkında varsayımda bulunmak veya bir metni özetlemek",
-                "Kelimeler arasında zihinsel bağlantı kurmak",
-                "Dilsel açıdan zor olan bir ifadeyi açımlayarak farklı biçimlerde dile getirmek yada mimik, jest gibi sözsüz iletişimden faydalanmak"
-            ],
-            "correctIndex": 0,
-            "explanation": "Keşfetme stratejilerinin alt dalı olan sosyal stratejiler, anlamı bilinmeyen bir sözcükle karşılaşıldığında anlamı bilenlere danışarak sözcüğü öğrenmeyi kapsar. Buna göre, öğretmene ifadenin ana dili tercümesini sorma, sözcük anlamını sınıf arkadaşlarına sorma veya grup çalışması yoluyla kelimenin anlamını keşfetme gibi yaklaşımlar bu stratejinin örneklerindendir. Seçeneklerdeki ilk madde bu durumu özetlemektedir.",
-            "unit": 3,
-            "topic": "3.4. Sözcük Öğrenme Stratejileri",
-            "source": "Vize Çıkmış Sorular 2020",
-            "sourceInfo": "Soru 27"
-        },
-        {
-            "id": 3011,
-            "question": "Aşağıdakilerden hangisi bilişsel stratejinin yöntemidir?",
-            "options": [
-                "Sözcüğün anlamını öğrenicinin kendi başına çıkarması",
-                "Öğrenilenlerin kontrol edilmesi için kullanılan strateji",
-                "Öğrenicinin sözcüğü başkalarının yardımıyla anlaması",
-                "Sözcüklerin tekrar yardımıyla öğrenilmesi",
-                "Sözcükleri ön bilgilerden hareketle hatırlama"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bilişsel stratejiler, pekiştirme stratejileri arasında yer almakta ve sözcüğü yazarak tekrar etme, sözcük listeleri kullanma gibi yöntemleri içerir. Ancak öğrenicinin sözcüğün anlamını kendi başına çıkarması, keşfetme stratejilerinden metinsel bağlamdan tahmin etme gibi yöntemlerle ilişkilidir.",
-            "unit": 3,
-            "topic": "3.4. Sözcük Öğrenme Stratejileri",
-            "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 22"
-        },
-        {
-            "id": 3012,
-            "question": "Erken çocukluk gelişimine uygun olarak planlama aşağıdakilerden hangisinde doğru olarak verilmiştir.",
-            "options": [
-                "Başlangıç I, Başlangıç II, Başlangıç III",
-                "Temel, ara, ileri düzey",
-                "A1, A2, B1, B2, C1 ve C2",
-                "Giriş, eşik, özerk düzey",
-                "Temel, bağımsız, ustalık düzeyi"
-            ],
-            "correctIndex": 0,
-            "explanation": "Erken çocukluk gelişimine uygun olarak söz varlığı öğretimi planlaması **36-48 ay (Başlangıç I), 49-60 ay (Başlangıç II) ve 61-72 ay (Başlangıç III)** aylık gruplara göre planlanmalıdır.",
-            "unit": 3,
-            "topic": "3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi",
-            "source": "Vize Deneme Sınavı 2021",
-            "sourceInfo": "Soru 8 / Soru 11 / Soru 10"
-        },
-        {
-            "id": 3013,
-            "question": "Aşağıdakilerden hangisi okul öncesi dönemde söz varlığı öğretiminde öncelikle dikkat edilmesi gereken hususlardan biri değildir?",
-            "options": [
-                "Öğretim sürecinin merkezine oyun yerleştirilmesi",
-                "Ezberlenmesi gereken sözcük listelerinin aileye verilmesi",
-                "Millî Eğitim Bakanlığının Okul Öncesi Eğitim Programı'nın ilkelerinin göz önünde tutulması",
-                "Grup etkinliklerinin öncelenmesi",
-                "Birden fazla duyuya hitap edecek etkinlikler ile öğrenmenin etkili ve başarılı olabileceği göz önünde tutulması"
-            ],
-            "correctIndex": 1,
-            "explanation": "Okul öncesi dönemde yabancı dil öğretiminde, öğretim sürecinin merkezine oyunun yerleştirilmesi, grup etkinliklerinin öncelenmesi, birden fazla duyuya hitap edecek etkinliklerin kullanılması ve MEB Okul Öncesi Eğitim Programının ilkelerinin göz önünde tutulması gerekir. Bu dönem çocuklarının çok daha kolay sıkılabilecekleri ve motive olabilecekleri göz önünde tutularak ezberlemeye dayalı yöntemler (sözcük listeleri verme) bu hususlardan biri olarak değerlendirilmez.",
-            "unit": 3,
-            "topic": "3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 5 / Soru 18"
+            "sourceInfo": "Soru 19 / Soru 9 / Soru 8 / Soru 2 / Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3014,
@@ -1069,41 +965,9 @@
             "unit": 3,
             "topic": "3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 15 / Soru 6 / Soru 14 / Soru 10"
-        },
-        {
-            "id": 3015,
-            "question": "Aşağıdakilerden hangisi çocuğun ana dilinde sesler arasındaki farklılıkları ve benzerlikleri söylemesi, ses tonunu, hızını ve şiddetini ayarlaması, sıralı ve bileşik cümleleri kurması gibi ciddi değişimlerin olduğu dönemdir?",
-            "options": [
-                "61-72 aylar",
-                "55- 60 aylar",
-                "50-60 aylar",
-                "32-42 aylar",
-                "45-55 aylar"
-            ],
-            "correctIndex": 0,
-            "explanation": "Çocuk 61-72 aylık dönemde ana dilinde **sesler arasındaki farklılıkları ve benzerlikleri söyler**. Sesinin tonunu, hızını, şiddetini ayarlar. **Sıralı ve bileşik cümleler kurar**. Cümlelerinde özneye uygun fiil kullanır. Altı ve daha fazla sözcükten oluşan cümleler kurabilir ve dilin yapısına büyük ölçüde kullanım açısından hâkimdir.",
-            "unit": 3,
-            "topic": "3.5.3. 61-72 Aylık Çocuklarda Söz Varlığı Öğretimi",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 19 / Soru 16 / Soru 7 / Soru 5"
-        },
-        {
-            "id": 3016,
-            "question": "Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha ….. ve daha ….. bir biçimde öğrenildiği bilinmektedir. Yukarıdaki cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?",
-            "options": [
-                "karmaşık - doğal",
-                "çetrefilli - yapay",
-                "derin - kolay",
-                "kolay - doğal",
-                "yapay - derin"
-            ],
-            "correctIndex": 3,
-            "explanation": "Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha **kolay** ve daha **doğal** bir biçimde öğrenildiği bilinmektedir. Bu durum, çocukların beyinlerinin bilişsel mekanizmalar öğrenme evresine hazır oluncaya kadar dilleri ana dili edinimi sürecine benzer bir süreçle edinebilmesi yetisine sahip olmasıyla açıklanır.",
-            "unit": 3,
-            "topic": "3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi",
-            "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 17 / Soru 9 / Soru 18 / Soru 9 / Soru 12"
+            "sourceInfo": "Soru 15 / Soru 6 / Soru 14 / Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3017,
@@ -1120,7 +984,142 @@
             "unit": 3,
             "topic": "3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 16 / Soru 1 / Soru 16"
+            "sourceInfo": "Soru 16 / Soru 1 / Soru 16",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 3009,
+            "question": "Schmitt’in sözcük öğrenme stratejileri konusunda yaptığı çalışmada öne çıkardığı iki önemli strateji aşağıdakilerden hangileridir?",
+            "options": [
+                "Keşfetme stratejileri ve pekiştirme stratejileri",
+                "Tespit stratejileri ve Sosyal stratejileri",
+                "Bellek stratejileri ve Bilişsel stratejileri",
+                "Keşif stratejileri ve Yürütücü biliş stratejileri",
+                "Pekiştirme stratejileri ve Bellek stratejileri"
+            ],
+            "correctIndex": 0,
+            "explanation": "Schmitt (1997) sözcük öğrenme stratejileri konusunda yaptığı çalışmada iki önemli stratejiyi öne çıkartmıştır: **Keşfetme stratejileri ve pekiştirme stratejileri**.",
+            "unit": 3,
+            "topic": "3.4. Sözcük Öğrenme Stratejileri",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 1 / Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3010,
+            "question": "Aşağıdakilerden hangisi sosyal stratejilere örnektir?",
+            "options": [
+                "İletişimde bulunduğu kişiden açıklamalarda bulunmasını isteme ya da öğrenme aşamasında başkalarıyla işbirliği içinde birlikte çalışmaya gayret göstermek",
+                "Yabancı dilde iletişimde meydana gelebilecek stres ve korku gibi duyguları azaltmak veya arkadaşlarla öğretmenle, okul arkadaşıyla yabancı dili öğrenirken veya kullanırken oluşan duyguları hakkında konuşmak",
+                "Bir metnin içeriği hakkında varsayımda bulunmak veya bir metni özetlemek",
+                "Kelimeler arasında zihinsel bağlantı kurmak",
+                "Dilsel açıdan zor olan bir ifadeyi açımlayarak farklı biçimlerde dile getirmek yada mimik, jest gibi sözsüz iletişimden faydalanmak"
+            ],
+            "correctIndex": 0,
+            "explanation": "Keşfetme stratejilerinin alt dalı olan sosyal stratejiler, anlamı bilinmeyen bir sözcükle karşılaşıldığında anlamı bilenlere danışarak sözcüğü öğrenmeyi kapsar. Buna göre, öğretmene ifadenin ana dili tercümesini sorma, sözcük anlamını sınıf arkadaşlarına sorma veya grup çalışması yoluyla kelimenin anlamını keşfetme gibi yaklaşımlar bu stratejinin örneklerindendir. Seçeneklerdeki ilk madde bu durumu özetlemektedir.",
+            "unit": 3,
+            "topic": "3.4. Sözcük Öğrenme Stratejileri",
+            "source": "Vize Çıkmış Sorular 2020",
+            "sourceInfo": "Soru 27",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3011,
+            "question": "Aşağıdakilerden hangisi bilişsel stratejinin yöntemidir?",
+            "options": [
+                "Sözcüğün anlamını öğrenicinin kendi başına çıkarması",
+                "Öğrenilenlerin kontrol edilmesi için kullanılan strateji",
+                "Öğrenicinin sözcüğü başkalarının yardımıyla anlaması",
+                "Sözcüklerin tekrar yardımıyla öğrenilmesi",
+                "Sözcükleri ön bilgilerden hareketle hatırlama"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bilişsel stratejiler, pekiştirme stratejileri arasında yer almakta ve sözcüğü yazarak tekrar etme, sözcük listeleri kullanma gibi yöntemleri içerir. Ancak öğrenicinin sözcüğün anlamını kendi başına çıkarması, keşfetme stratejilerinden metinsel bağlamdan tahmin etme gibi yöntemlerle ilişkilidir.",
+            "unit": 3,
+            "topic": "3.4. Sözcük Öğrenme Stratejileri",
+            "source": "Bütünleme Soruları 2021",
+            "sourceInfo": "Soru 22",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3015,
+            "question": "Aşağıdakilerden hangisi çocuğun ana dilinde sesler arasındaki farklılıkları ve benzerlikleri söylemesi, ses tonunu, hızını ve şiddetini ayarlaması, sıralı ve bileşik cümleleri kurması gibi ciddi değişimlerin olduğu dönemdir?",
+            "options": [
+                "61-72 aylar",
+                "55- 60 aylar",
+                "50-60 aylar",
+                "32-42 aylar",
+                "45-55 aylar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Çocuk 61-72 aylık dönemde ana dilinde **sesler arasındaki farklılıkları ve benzerlikleri söyler**. Sesinin tonunu, hızını, şiddetini ayarlar. **Sıralı ve bileşik cümleler kurar**. Cümlelerinde özneye uygun fiil kullanır. Altı ve daha fazla sözcükten oluşan cümleler kurabilir ve dilin yapısına büyük ölçüde kullanım açısından hâkimdir.",
+            "unit": 3,
+            "topic": "3.5.3. 61-72 Aylık Çocuklarda Söz Varlığı Öğretimi",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 19 / Soru 16 / Soru 7 / Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3012,
+            "question": "Erken çocukluk gelişimine uygun olarak planlama aşağıdakilerden hangisinde doğru olarak verilmiştir.",
+            "options": [
+                "Başlangıç I, Başlangıç II, Başlangıç III",
+                "Temel, ara, ileri düzey",
+                "A1, A2, B1, B2, C1 ve C2",
+                "Giriş, eşik, özerk düzey",
+                "Temel, bağımsız, ustalık düzeyi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Erken çocukluk gelişimine uygun olarak söz varlığı öğretimi planlaması **36-48 ay (Başlangıç I), 49-60 ay (Başlangıç II) ve 61-72 ay (Başlangıç III)** aylık gruplara göre planlanmalıdır.",
+            "unit": 3,
+            "topic": "3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi",
+            "source": "Vize Deneme Sınavı 2021",
+            "sourceInfo": "Soru 8 / Soru 11 / Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3013,
+            "question": "Aşağıdakilerden hangisi okul öncesi dönemde söz varlığı öğretiminde öncelikle dikkat edilmesi gereken hususlardan biri değildir?",
+            "options": [
+                "Öğretim sürecinin merkezine oyun yerleştirilmesi",
+                "Ezberlenmesi gereken sözcük listelerinin aileye verilmesi",
+                "Millî Eğitim Bakanlığının Okul Öncesi Eğitim Programı'nın ilkelerinin göz önünde tutulması",
+                "Grup etkinliklerinin öncelenmesi",
+                "Birden fazla duyuya hitap edecek etkinlikler ile öğrenmenin etkili ve başarılı olabileceği göz önünde tutulması"
+            ],
+            "correctIndex": 1,
+            "explanation": "Okul öncesi dönemde yabancı dil öğretiminde, öğretim sürecinin merkezine oyunun yerleştirilmesi, grup etkinliklerinin öncelenmesi, birden fazla duyuya hitap edecek etkinliklerin kullanılması ve MEB Okul Öncesi Eğitim Programının ilkelerinin göz önünde tutulması gerekir. Bu dönem çocuklarının çok daha kolay sıkılabilecekleri ve motive olabilecekleri göz önünde tutularak ezberlemeye dayalı yöntemler (sözcük listeleri verme) bu hususlardan biri olarak değerlendirilmez.",
+            "unit": 3,
+            "topic": "3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 5 / Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3016,
+            "question": "Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha ….. ve daha ….. bir biçimde öğrenildiği bilinmektedir. Yukarıdaki cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?",
+            "options": [
+                "karmaşık - doğal",
+                "çetrefilli - yapay",
+                "derin - kolay",
+                "kolay - doğal",
+                "yapay - derin"
+            ],
+            "correctIndex": 3,
+            "explanation": "Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha **kolay** ve daha **doğal** bir biçimde öğrenildiği bilinmektedir. Bu durum, çocukların beyinlerinin bilişsel mekanizmalar öğrenme evresine hazır oluncaya kadar dilleri ana dili edinimi sürecine benzer bir süreçle edinebilmesi yetisine sahip olmasıyla açıklanır.",
+            "unit": 3,
+            "topic": "3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi",
+            "source": "Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 17 / Soru 9 / Soru 18 / Soru 9 / Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4001,
@@ -1137,313 +1136,9 @@
             "unit": 4,
             "topic": "4.1. Giriş",
             "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 15 / Soru 6"
-        },
-        {
-            "id": 4002,
-            "question": "Aşağıdakilerden hangisi dinleme ve işitme arasındaki farklılıklardan biri değildir.",
-            "options": [
-                "İşitme doğal bir süreç dinleme ise öğrenilmesi gereken bir beceridir.",
-                "İşitme irade dışında gerçekleşebilir, dinleme ise bilinçli bir süreçtir.",
-                "İşitme dinlemenin sadece bir ögesidir.",
-                "İşitme kulağın işittiği tüm seslerin aktarılmasıyken dinleme odaklanılan seslerin ayırt edilmesini gerektirir.",
-                "İşitme ve dinleme irade dışı gerçekleşebilir."
-            ],
-            "correctIndex": 4,
-            "explanation": "İşitme irade dışında gerçekleşebilirken, <b>dinleme bilinçli bir süreçtir</b> ve irade gerektirir. Dolayısıyla hem işitmenin hem de dinlemenin irade dışı gerçekleştiğini söyleyen ifade yanlıştır. Diğer yandan dinleme öğrenilmesi gereken bir beceriyken, işitme doğal bir süreçtir.",
-            "unit": 4,
-            "topic": "4.3. Dinleme ve işitme arasındaki farklılıklar",
-            "source": "Vize Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 4003,
-            "question": "Sohbet ve tartışma gibi eylemlerde soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan dinleme türüdür tanımı aşağıdakilerden hangisine aittir?",
-            "options": [
-                "Etkileşimli dinleme",
-                "Etkileşimsiz dinleme",
-                "Olumlu dinleme",
-                "Olumsuz dinleme",
-                "Aktif dinleme"
-            ],
-            "correctIndex": 0,
-            "explanation": "Sohbet ve tartışma gibi eylemlerde <b>soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan</b> dinleme türü <b>Etkileşimli Dinleme</b>dir. Etkileşimli dinleme, mesajın tam ve eksiksiz olarak alınabilmesi için tarafların eleştirel ve empatik bir tutum sergilemesini gerektirir.",
-            "unit": 4,
-            "topic": "4.4. Dinleme Türleri",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 7 / Soru 9"
-        },
-        {
-            "id": 4004,
-            "question": "Aşağıdakilerden hangileri dinleme etkinliğinin aşamalarıdır?",
-            "options": [
-                "Etkileşimsiz dinleme, Olumlu dinleme, Olumsuz dinleme",
-                "Aktif dinleme, Etkileşimli dinleme, Olumlu dinleme",
-                "Dinleme ortamı, dinleme materyali, dinleme bağlamı",
-                "Dinleme öncesi, dinleme sırası, dinleme sonrası",
-                "Görsellerle seçme, Diyalog tamamlama, Eşleştirme"
-            ],
-            "correctIndex": 3,
-            "explanation": "Dinleme etkinlikleri üç aşamada gerçekleşmektedir: <b>Dinleme öncesi, dinleme sırası ve dinleme sonrası</b>.",
-            "unit": 4,
-            "topic": "4.5. Dinlemenin Aşamaları",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 4005,
-            "question": "Dinleme sürecinde ………, …………… ve ……………. teknikleri olmak üzere üç aşamadan bahsedilir. Boşluğa uygun gelen terimler aşağıdakilerden hangileridir.",
-            "options": [
-                "anlama - yapılandırma - düzenleme",
-                "Dinleme ortamını inceleme - Dinleme materyalini inceleme - Bağlam oluşturma",
-                "İlgi oluşturma - Ön bilgileri harekete geçirme - Dinleme amacını belirleme",
-                "Görsellerle seçme - Diyalog tamamlama - Dinleme öncesi tahminlerle karşılaştırma",
-                "Farklılıkları bulma - Eşleştirme - Resimleri sıraya dizme"
-            ],
-            "correctIndex": 0,
-            "explanation": "Güneş’e (2007) göre dinleme sürecinde, yani dinleme sırası aşamasında, <b>anlama, yapılandırma ve düzenleme</b> teknikleri olmak üzere üç aşamadan bahsedilmektedir.",
-            "unit": 4,
-            "topic": "4.5.2. Dinleme Sırası",
-            "source": "Vize Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 15"
-        },
-        {
-            "id": 4006,
-            "question": "Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklerden biri değildir.",
-            "options": [
-                "Görsellerle seçme",
-                "Diyalog tamamlama",
-                "Farklılıkları bulma",
-                "Eşleştirme",
-                "Bağlam oluşturma"
-            ],
-            "correctIndex": 4,
-            "explanation": "<b>Bağlam oluşturma</b>, dinleme etkinliğinin <b>Dinleme Öncesi</b> aşamasında yapılan bir hazırlık aktivitesidir ve öğrencinin kimin nerede, ne hakkında konuşacağını tahmin etmesini içerir. Görsellerle seçme, diyalog tamamlama, farklılıkları bulma ve eşleştirme ise dinleme sırasında yapılabilecek etkinlik örneklerindendir.",
-            "unit": 4,
-            "topic": "4.5.2. Dinleme Sırası",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 12"
-        },
-        {
-            "id": 4007,
-            "question": "Özetleme, yorumlama, değerlendirme ve soru-cevaplar dinleme etkinliklerinin hangi aşamasında gerçekleşir.",
-            "options": [
-                "Dinleme öncesi",
-                "Dinleme sırası",
-                "Görsel seçme",
-                "Dinleme sonrası",
-                "Eşleştirme"
-            ],
-            "correctIndex": 3,
-            "explanation": "Dinlemenin tamamlanmasından sonraki aşama olan <b>Dinleme Sonrası</b> süreci, dinleme metnini <b>özetleme, yorumlama, değerlendirme ve soru-cevapları</b> içerir.",
-            "unit": 4,
-            "topic": "4.5.3. Dinleme Sonrası",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 13"
-        },
-        {
-            "id": 4008,
-            "question": "Aşağıdakilerden hangisi Yabancılara Türkçe öğretimi dinleme etkinliklerinde dikkat edilmesi gereken hususlardan biri değildir.",
-            "options": [
-                "Ders kitabına ya da öğretmenin ayrıca hazırladığı bir çalışmaya paralel olarak yapılacak olan dinleme etkinlikleri öncesinde iyi bir planlama yapılmalıdır.",
-                "Öğretmen derste kullanmayı düşündüğü bir dinleme parçasını önceden kendisi dinlemelidir. İlgili dinleme parçasının uygun olup olmadığını kontrol etmelidir.",
-                "Dinleme parçaları yabancılara Türkçe öğretiminde belirlenen seviyelere uygun olmalıdır.",
-                "Kullanılması düşünülen dinleme parçaları gelişigüzel seçilmelidir.",
-                "Dinleme parçaları genel ahlak kurallarına ve ilgili ülkenin milli-manevi değerlerine aykırı seslendirmeler içermemelidir."
-            ],
-            "correctIndex": 3,
-            "explanation": "Yabancılara Türkçe öğretimi dinleme etkinliklerinde dinleme parçalarının <b>gelişigüzel seçilmesi</b> değil, belirlenen seviyelere uygun olması, söyleniş hızına, telaffuzuna ve anlaşılabilirliğine dikkat edilmesi ve iyi bir planlama yapılması gerekmektedir.",
-            "unit": 4,
-            "topic": "4.5.3. Dinleme Sonrası",
-            "source": "Vize Soruları 2022",
-            "sourceInfo": "Soru 14"
-        },
-        {
-            "id": 4009,
-            "question": "Aşağıdakilerden hangileri dinleme sonrasında kullanılacak tekniklerdendir. I. Konuşmada verilen bilgileri değerlendirme, II. Sunu biçimi ve içeriği değerlendirme, III. Nedenleri, kaynağını ve bakış açılarını değerlendirme, IV. Sözel ve sözel olmayan ipuçlarını değerlendirme, V. Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilme,",
-            "options": [
-                "I, II, III, IV",
-                "I, II",
-                "I, IV",
-                "I, II, III",
-                "Hepsi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Güneş'e (2007) göre dinleme sonrasında kullanılacak teknikler arasında I, II, III ve IV. maddeler yer alır. Ayrıca Schwartz’a göre dinleme sonrası etkinliklerinin temel amaçları arasında <b>Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilmesi</b> (V. madde) de bulunmaktadır. Bu nedenle tüm seçenekler dinleme sonrası süreçle ilgilidir.",
-            "unit": 4,
-            "topic": "4.5.3. Dinleme Sonrası",
-            "source": "Vize Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 5"
-        },
-        {
-            "id": 4010,
-            "question": "Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru ………. ve ……….. becerisi kazandırmada yardımcı olmaktadır. Boşluklara uygun gelen ifadeler hangileridir.",
-            "options": [
-                "dinleme - yazma",
-                "yazma- konuşma",
-                "telaffuz - konuşma",
-                "telaffuz - okuma",
-                "okuma - dinleme"
-            ],
-            "correctIndex": 2,
-            "explanation": "Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru <b>telaffuz ve konuşma becerisi</b> kazandırmada yardımcı olmaktadır. Öğrenciler sınıf içinde en çok dinledikleri kişi olan öğretmenlerinin konuşmalarını taklit ettiklerinden, öğretmenin doğru telaffuz etmesi önemlidir.",
-            "unit": 4,
-            "topic": "4.5.3. Dinleme Sonrası",
-            "source": "Vize Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 3"
-        },
-        {
-            "id": 4011,
-            "question": "Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklere örnek olamaz?",
-            "options": [
-                "Dinleme etkinliğinde yer alan bir diyaloğun öğreniciler tarafından tamamlanması",
-                "Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi",
-                "Dinleme metni ile ilgili ve ilgisiz çeşitli görseller verilerek bu görsellerden dinleme metnine ait olanının seçilmesi",
-                "Dinleme metni kendisine verilen öğreniciden, dinlediği ile yazılı metin arasındaki farklılıkları bulması",
-                "Öğreniciler dinleme etkinliğinin özelliğine göre kendilerine verilen resimleri eşleştirmesi"
-            ],
-            "correctIndex": 1,
-            "explanation": "Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi, Dinleme Öncesi aşamasında yer alan <b>İlgi oluşturma</b> etkinliğidir. Diğer seçenekler ise dinleme sırasında (Dinleme Anı) yapılabilecek aktivitelerdir.",
-            "unit": 4,
-            "topic": "4.5.2. Dinleme Sırası",
-            "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 10"
-        },
-        {
-            "id": 4012,
-            "question": "I. Grup – konferans II. Kişiler arası – televizyon seyretme III. Kişiler arası – sohbet etme IV. Bireysel – müzik dinleme Yukarıda verilen dinleme etkinlikleri eşleştirmelerinden hangisi veya hangileri yanlıştır?",
-            "options": [
-                "II ve III",
-                "III ve IV",
-                "I, II ve IV",
-                "Yalnız II",
-                "I ve III"
-            ],
-            "correctIndex": 3,
-            "explanation": "Televizyon seyretme, cevap vermeyi gerektirmeyen, bir tarafın pasif kaldığı <b>Etkileşimsiz Dinleme</b> türüdür. Bu nedenle II. maddede yer alan 'Kişiler arası' dinleme türü ile eşleştirilmesi yanlıştır.",
-            "unit": 4,
-            "topic": "4.4. Dinleme Türleri",
-            "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 19"
-        },
-        {
-            "id": 4013,
-            "question": "Aşağıdakilerden hangisi bir dinleme öncesi etkinliği değildir?",
-            "options": [
-                "Materyal inceleme",
-                "Ön bilgileri harekete geçirme",
-                "Amaç belirleme",
-                "Bağlam oluşturma",
-                "Soru belirleme"
-            ],
-            "correctIndex": 4,
-            "explanation": "Dinleme Öncesi etkinlikleri dinleme ortamını inceleme, dinleme materyalini inceleme, bağlam oluşturma, ilgi oluşturma, ön bilgileri harekete geçirme, dinleme amacını belirleme, dinleme yöntemini ve biçimini belirleme şeklinde sıralanır. <b>Soru belirleme</b> bu etkinliklerden biri olarak doğrudan listelenmemiştir.",
-            "unit": 4,
-            "topic": "4.5.1. Dinleme Öncesi",
-            "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 3"
-        },
-        {
-            "id": 4014,
-            "question": "Aşağıdakilerden hangisi dinleme sonrasında kullanılacak tekniklere bir örnek değildir?",
-            "options": [
-                "Sunu biçimi ve içeriği değerlendirme",
-                "Konuşmada verilen bilgileri değerlendirme",
-                "Dinleme yöntemini ve biçimini belirleme",
-                "Nedenleri, kaynağını ve bakış açılarını değerlendirme",
-                "Sunu biçimi ve içeriği değerlendirme"
-            ],
-            "correctIndex": 2,
-            "explanation": "Dinleme yöntemini ve biçimini belirleme, dinlemenin başlangıcında (Dinleme Öncesi) gerçekleştirilen bir eylemdir. Diğer seçenekler ise Dinleme Sonrası aşamasında kullanılan tekniklerdir.",
-            "unit": 4,
-            "topic": "4.5.3. Dinleme Sonrası",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 10"
-        },
-        {
-            "id": 4015,
-            "question": "Dinleme etkinliğine hazırlık aşamasına ….. denir.",
-            "options": [
-                "okuma öncesi",
-                "dinleme dönemi",
-                "yazma öncesi",
-                "dinleme sonrası",
-                "dinleme öncesi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Dinleme etkinliğine hazırlık aşamasına <b>Dinleme Öncesi</b> denir. Bu aşama fiziksel ve zihinsel boyutları içerir.",
-            "unit": 4,
-            "topic": "4.5.1. Dinleme Öncesi",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 2"
-        },
-        {
-            "id": 4016,
-            "question": "Dinleme sürecinde çocuklar etkin olmalıdırlar. Aksi takdirde dinleme eylemi öncelikle seçerek dinlemeye, ardından da duyduklarını önemsememeye dönüşür. Dinlemede çocuğun etken hâle getirilebilmesi amacıyla anne ve baba rehberlik etmelidir. Bu süreçte anne ve baba iyi birer dinleyici olmalıdır. Yukarıdaki paragrafta aşağıdakilerden hangisi vurgulanmaktadır?",
-            "options": [
-                "Dinleme eğitiminde ailenin rolü",
-                "Dinleme eğitiminde öğretmenin rolü",
-                "Dinleme eğitiminde kurumun rolü",
-                "Dinleme eğitiminde etkinliklerin rolü",
-                "Dinleme eğitiminde arkadaş grubunun rolü"
-            ],
-            "correctIndex": 0,
-            "explanation": "Paragrafta, dinleme sürecinde çocukların etkin hâle getirilmesi amacıyla <b>anne ve babanın rehberlik etmesi</b> ve <b>iyi birer dinleyici olması</b> gerektiği vurgulanmıştır. Bu durum, <b>Dinleme eğitiminde ailenin rolü</b>ne dikkat çekmektedir.",
-            "unit": 4,
-            "topic": "4.8. Dinleme Becerisinin Gelişiminde Aile Unsuru",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 6 / Soru 20"
-        },
-        {
-            "id": 4017,
-            "question": "Konuşma ve bilgiler arasında bağ kurma; soruları belirleme; açıklayıcı noktaları not alma; sözel olmayan ipuçlarını gözleme (jestler, ifadeler, duruş, vb.); anlaşılmayan yerleri belirleme ve sorular sorma; kendi kelimeleriyle konuşmanın özetini yapma; yeni bir kelimenin anlamını belirlemek için konuşma bütününden yararlanma, ….. tekniklerine örnek olarak gösterilebilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
-            "options": [
-                "yapılandırma",
-                "anlama",
-                "görselleştirme",
-                "sunu",
-                "düzenleme"
-            ],
-            "correctIndex": 1,
-            "explanation": "Bu maddeler, Güneş'in (2007) dinleme sürecinde bahsettiği <b>anlama tekniklerine</b> örnek olarak gösterilebilir. Anlama teknikleri, konuşma ve bilgiler arasında bağ kurma, sorular belirleme, anlaşılmayan yerleri belirleyip sorular sorma gibi iletişimsel yeterliliği geliştiren eylemleri içerir.",
-            "unit": 4,
-            "topic": "4.5.2. Dinleme Sırası",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 7 / Soru 36"
-        },
-        {
-            "id": 4018,
-            "question": "Okulöncesi eğitim kurumlarının hedef kitlesi sebebiyle dinleme ortamı bazen istenilen seviyede olmayabilir. Bu sebeple öncelikle fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir. Bu ifadeye göre bir eğitici dinleme öncesinde aşağıdakilerden hangisini yapmalıdır?",
-            "options": [
-                "Dinleme materyali hazırlamalı",
-                "Dinleme yöntemini belirlemeli",
-                "Dinleme ortamını incelemeli",
-                "İlgi oluşturmalı",
-                "Bağlam oluşturmalı"
-            ],
-            "correctIndex": 2,
-            "explanation": "Dinleme Öncesi etkinliklerinden biri <b>Dinleme ortamını inceleme</b>dir. Bu süreç, dinlemenin gerçekleşeceği fiziksel ortamın belirlenmesi ve buna uygun hâle getirilmesi sürecini içerir. Okulöncesi kurumlarda fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir.",
-            "unit": 4,
-            "topic": "4.5.1. Dinleme Öncesi",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 10 / Soru 14"
-        },
-        {
-            "id": 4019,
-            "question": "– I. İşitme öğrenilmesi gereken bir beceriyken dinleme ise doğal bir süreçtir. – II. İşitme dinlemenin sadece bir ögesidir. – III. İşitme dinlemenin bir parçası iken dinleme anlamanın bir parçasıdır. – IV. İşitme irade dışında gerçekleşebilirken dinleme ise bilinçli bir süreçtir. Yukarıdaki numaralandırılmış cümlelerden hangisi ya da hangileri yanlıştır?",
-            "options": [
-                "I ve III",
-                "III ve IV",
-                "Yalnız III",
-                "Yalnız I",
-                "I ve II"
-            ],
-            "correctIndex": 3,
-            "explanation": "Yanlış olan ifade <b>Yalnız I</b>'dir. Çünkü işitme doğal bir süreçtir ve öğrenilmesi gereken bir beceri değildir. Tersine, dinleme bilinçli bir süreçtir ve öğrenilmesi gereken bir beceridir. II, III ve IV. ifadeler ise doğrudur: İşitme, dinlemenin sadece bir ögesidir; dinleme anlamanın bir parçasıdır; işitme irade dışı gerçekleşirken dinleme bilinçli bir süreçtir.",
-            "unit": 4,
-            "topic": "4.3. Dinleme ve işitme arasındaki farklılıklar",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 18 / Soru 13"
+            "sourceInfo": "Soru 15 / Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4020,
@@ -1460,7 +1155,142 @@
             "unit": 4,
             "topic": "4.1. Giriş",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 19 / Soru 1"
+            "sourceInfo": "Soru 19 / Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4002,
+            "question": "Aşağıdakilerden hangisi dinleme ve işitme arasındaki farklılıklardan biri değildir.",
+            "options": [
+                "İşitme doğal bir süreç dinleme ise öğrenilmesi gereken bir beceridir.",
+                "İşitme irade dışında gerçekleşebilir, dinleme ise bilinçli bir süreçtir.",
+                "İşitme dinlemenin sadece bir ögesidir.",
+                "İşitme kulağın işittiği tüm seslerin aktarılmasıyken dinleme odaklanılan seslerin ayırt edilmesini gerektirir.",
+                "İşitme ve dinleme irade dışı gerçekleşebilir."
+            ],
+            "correctIndex": 4,
+            "explanation": "İşitme irade dışında gerçekleşebilirken, <b>dinleme bilinçli bir süreçtir</b> ve irade gerektirir. Dolayısıyla hem işitmenin hem de dinlemenin irade dışı gerçekleştiğini söyleyen ifade yanlıştır. Diğer yandan dinleme öğrenilmesi gereken bir beceriyken, işitme doğal bir süreçtir.",
+            "unit": 4,
+            "topic": "4.3. Dinleme ve işitme arasındaki farklılıklar",
+            "source": "Vize Deneme Sınavı 2021-2",
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4019,
+            "question": "– I. İşitme öğrenilmesi gereken bir beceriyken dinleme ise doğal bir süreçtir. – II. İşitme dinlemenin sadece bir ögesidir. – III. İşitme dinlemenin bir parçası iken dinleme anlamanın bir parçasıdır. – IV. İşitme irade dışında gerçekleşebilirken dinleme ise bilinçli bir süreçtir. Yukarıdaki numaralandırılmış cümlelerden hangisi ya da hangileri yanlıştır?",
+            "options": [
+                "I ve III",
+                "III ve IV",
+                "Yalnız III",
+                "Yalnız I",
+                "I ve II"
+            ],
+            "correctIndex": 3,
+            "explanation": "Yanlış olan ifade <b>Yalnız I</b>'dir. Çünkü işitme doğal bir süreçtir ve öğrenilmesi gereken bir beceri değildir. Tersine, dinleme bilinçli bir süreçtir ve öğrenilmesi gereken bir beceridir. II, III ve IV. ifadeler ise doğrudur: İşitme, dinlemenin sadece bir ögesidir; dinleme anlamanın bir parçasıdır; işitme irade dışı gerçekleşirken dinleme bilinçli bir süreçtir.",
+            "unit": 4,
+            "topic": "4.3. Dinleme ve işitme arasındaki farklılıklar",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 18 / Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4003,
+            "question": "Sohbet ve tartışma gibi eylemlerde soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan dinleme türüdür tanımı aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Etkileşimli dinleme",
+                "Etkileşimsiz dinleme",
+                "Olumlu dinleme",
+                "Olumsuz dinleme",
+                "Aktif dinleme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sohbet ve tartışma gibi eylemlerde <b>soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan</b> dinleme türü <b>Etkileşimli Dinleme</b>dir. Etkileşimli dinleme, mesajın tam ve eksiksiz olarak alınabilmesi için tarafların eleştirel ve empatik bir tutum sergilemesini gerektirir.",
+            "unit": 4,
+            "topic": "4.4. Dinleme Türleri",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 7 / Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4012,
+            "question": "I. Grup – konferans II. Kişiler arası – televizyon seyretme III. Kişiler arası – sohbet etme IV. Bireysel – müzik dinleme Yukarıda verilen dinleme etkinlikleri eşleştirmelerinden hangisi veya hangileri yanlıştır?",
+            "options": [
+                "II ve III",
+                "III ve IV",
+                "I, II ve IV",
+                "Yalnız II",
+                "I ve III"
+            ],
+            "correctIndex": 3,
+            "explanation": "Televizyon seyretme, cevap vermeyi gerektirmeyen, bir tarafın pasif kaldığı <b>Etkileşimsiz Dinleme</b> türüdür. Bu nedenle II. maddede yer alan 'Kişiler arası' dinleme türü ile eşleştirilmesi yanlıştır.",
+            "unit": 4,
+            "topic": "4.4. Dinleme Türleri",
+            "source": "Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4013,
+            "question": "Aşağıdakilerden hangisi bir dinleme öncesi etkinliği değildir?",
+            "options": [
+                "Materyal inceleme",
+                "Ön bilgileri harekete geçirme",
+                "Amaç belirleme",
+                "Bağlam oluşturma",
+                "Soru belirleme"
+            ],
+            "correctIndex": 4,
+            "explanation": "Dinleme Öncesi etkinlikleri dinleme ortamını inceleme, dinleme materyalini inceleme, bağlam oluşturma, ilgi oluşturma, ön bilgileri harekete geçirme, dinleme amacını belirleme, dinleme yöntemini ve biçimini belirleme şeklinde sıralanır. <b>Soru belirleme</b> bu etkinliklerden biri olarak doğrudan listelenmemiştir.",
+            "unit": 4,
+            "topic": "4.5.1. Dinleme Öncesi",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4015,
+            "question": "Dinleme etkinliğine hazırlık aşamasına ….. denir.",
+            "options": [
+                "okuma öncesi",
+                "dinleme dönemi",
+                "yazma öncesi",
+                "dinleme sonrası",
+                "dinleme öncesi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Dinleme etkinliğine hazırlık aşamasına <b>Dinleme Öncesi</b> denir. Bu aşama fiziksel ve zihinsel boyutları içerir.",
+            "unit": 4,
+            "topic": "4.5.1. Dinleme Öncesi",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4018,
+            "question": "Okulöncesi eğitim kurumlarının hedef kitlesi sebebiyle dinleme ortamı bazen istenilen seviyede olmayabilir. Bu sebeple öncelikle fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir. Bu ifadeye göre bir eğitici dinleme öncesinde aşağıdakilerden hangisini yapmalıdır?",
+            "options": [
+                "Dinleme materyali hazırlamalı",
+                "Dinleme yöntemini belirlemeli",
+                "Dinleme ortamını incelemeli",
+                "İlgi oluşturmalı",
+                "Bağlam oluşturmalı"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dinleme Öncesi etkinliklerinden biri <b>Dinleme ortamını inceleme</b>dir. Bu süreç, dinlemenin gerçekleşeceği fiziksel ortamın belirlenmesi ve buna uygun hâle getirilmesi sürecini içerir. Okulöncesi kurumlarda fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir.",
+            "unit": 4,
+            "topic": "4.5.1. Dinleme Öncesi",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 10 / Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4021,
@@ -1477,7 +1307,9 @@
             "unit": 4,
             "topic": "4.5.1. Dinleme Öncesi",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 13"
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4022,
@@ -1494,7 +1326,85 @@
             "unit": 4,
             "topic": "4.5.1. Dinleme Öncesi",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 17 / Soru 15"
+            "sourceInfo": "Soru 17 / Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4005,
+            "question": "Dinleme sürecinde ………, …………… ve ……………. teknikleri olmak üzere üç aşamadan bahsedilir. Boşluğa uygun gelen terimler aşağıdakilerden hangileridir.",
+            "options": [
+                "anlama - yapılandırma - düzenleme",
+                "Dinleme ortamını inceleme - Dinleme materyalini inceleme - Bağlam oluşturma",
+                "İlgi oluşturma - Ön bilgileri harekete geçirme - Dinleme amacını belirleme",
+                "Görsellerle seçme - Diyalog tamamlama - Dinleme öncesi tahminlerle karşılaştırma",
+                "Farklılıkları bulma - Eşleştirme - Resimleri sıraya dizme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Güneş’e (2007) göre dinleme sürecinde, yani dinleme sırası aşamasında, <b>anlama, yapılandırma ve düzenleme</b> teknikleri olmak üzere üç aşamadan bahsedilmektedir.",
+            "unit": 4,
+            "topic": "4.5.2. Dinleme Sırası",
+            "source": "Vize Deneme Sınavı 2021-2",
+            "sourceInfo": "Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4006,
+            "question": "Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklerden biri değildir.",
+            "options": [
+                "Görsellerle seçme",
+                "Diyalog tamamlama",
+                "Farklılıkları bulma",
+                "Eşleştirme",
+                "Bağlam oluşturma"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Bağlam oluşturma</b>, dinleme etkinliğinin <b>Dinleme Öncesi</b> aşamasında yapılan bir hazırlık aktivitesidir ve öğrencinin kimin nerede, ne hakkında konuşacağını tahmin etmesini içerir. Görsellerle seçme, diyalog tamamlama, farklılıkları bulma ve eşleştirme ise dinleme sırasında yapılabilecek etkinlik örneklerindendir.",
+            "unit": 4,
+            "topic": "4.5.2. Dinleme Sırası",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4011,
+            "question": "Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklere örnek olamaz?",
+            "options": [
+                "Dinleme etkinliğinde yer alan bir diyaloğun öğreniciler tarafından tamamlanması",
+                "Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi",
+                "Dinleme metni ile ilgili ve ilgisiz çeşitli görseller verilerek bu görsellerden dinleme metnine ait olanının seçilmesi",
+                "Dinleme metni kendisine verilen öğreniciden, dinlediği ile yazılı metin arasındaki farklılıkları bulması",
+                "Öğreniciler dinleme etkinliğinin özelliğine göre kendilerine verilen resimleri eşleştirmesi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi, Dinleme Öncesi aşamasında yer alan <b>İlgi oluşturma</b> etkinliğidir. Diğer seçenekler ise dinleme sırasında (Dinleme Anı) yapılabilecek aktivitelerdir.",
+            "unit": 4,
+            "topic": "4.5.2. Dinleme Sırası",
+            "source": "Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4017,
+            "question": "Konuşma ve bilgiler arasında bağ kurma; soruları belirleme; açıklayıcı noktaları not alma; sözel olmayan ipuçlarını gözleme (jestler, ifadeler, duruş, vb.); anlaşılmayan yerleri belirleme ve sorular sorma; kendi kelimeleriyle konuşmanın özetini yapma; yeni bir kelimenin anlamını belirlemek için konuşma bütününden yararlanma, ….. tekniklerine örnek olarak gösterilebilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+            "options": [
+                "yapılandırma",
+                "anlama",
+                "görselleştirme",
+                "sunu",
+                "düzenleme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bu maddeler, Güneş'in (2007) dinleme sürecinde bahsettiği <b>anlama tekniklerine</b> örnek olarak gösterilebilir. Anlama teknikleri, konuşma ve bilgiler arasında bağ kurma, sorular belirleme, anlaşılmayan yerleri belirleyip sorular sorma gibi iletişimsel yeterliliği geliştiren eylemleri içerir.",
+            "unit": 4,
+            "topic": "4.5.2. Dinleme Sırası",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 7 / Soru 36",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4023,
@@ -1511,7 +1421,142 @@
             "unit": 4,
             "topic": "4.5.2. Dinleme Sırası",
             "source": "Final Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 19"
+            "sourceInfo": "Soru 19",
+            "occurrence_count": 3,
+            "is_duplicate": false
+        },
+        {
+            "id": 4007,
+            "question": "Özetleme, yorumlama, değerlendirme ve soru-cevaplar dinleme etkinliklerinin hangi aşamasında gerçekleşir.",
+            "options": [
+                "Dinleme öncesi",
+                "Dinleme sırası",
+                "Görsel seçme",
+                "Dinleme sonrası",
+                "Eşleştirme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Dinlemenin tamamlanmasından sonraki aşama olan <b>Dinleme Sonrası</b> süreci, dinleme metnini <b>özetleme, yorumlama, değerlendirme ve soru-cevapları</b> içerir.",
+            "unit": 4,
+            "topic": "4.5.3. Dinleme Sonrası",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4008,
+            "question": "Aşağıdakilerden hangisi Yabancılara Türkçe öğretimi dinleme etkinliklerinde dikkat edilmesi gereken hususlardan biri değildir.",
+            "options": [
+                "Ders kitabına ya da öğretmenin ayrıca hazırladığı bir çalışmaya paralel olarak yapılacak olan dinleme etkinlikleri öncesinde iyi bir planlama yapılmalıdır.",
+                "Öğretmen derste kullanmayı düşündüğü bir dinleme parçasını önceden kendisi dinlemelidir. İlgili dinleme parçasının uygun olup olmadığını kontrol etmelidir.",
+                "Dinleme parçaları yabancılara Türkçe öğretiminde belirlenen seviyelere uygun olmalıdır.",
+                "Kullanılması düşünülen dinleme parçaları gelişigüzel seçilmelidir.",
+                "Dinleme parçaları genel ahlak kurallarına ve ilgili ülkenin milli-manevi değerlerine aykırı seslendirmeler içermemelidir."
+            ],
+            "correctIndex": 3,
+            "explanation": "Yabancılara Türkçe öğretimi dinleme etkinliklerinde dinleme parçalarının <b>gelişigüzel seçilmesi</b> değil, belirlenen seviyelere uygun olması, söyleniş hızına, telaffuzuna ve anlaşılabilirliğine dikkat edilmesi ve iyi bir planlama yapılması gerekmektedir.",
+            "unit": 4,
+            "topic": "4.5.3. Dinleme Sonrası",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4009,
+            "question": "Aşağıdakilerden hangileri dinleme sonrasında kullanılacak tekniklerdendir. I. Konuşmada verilen bilgileri değerlendirme, II. Sunu biçimi ve içeriği değerlendirme, III. Nedenleri, kaynağını ve bakış açılarını değerlendirme, IV. Sözel ve sözel olmayan ipuçlarını değerlendirme, V. Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilme,",
+            "options": [
+                "I, II, III, IV",
+                "I, II",
+                "I, IV",
+                "I, II, III",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Güneş'e (2007) göre dinleme sonrasında kullanılacak teknikler arasında I, II, III ve IV. maddeler yer alır. Ayrıca Schwartz’a göre dinleme sonrası etkinliklerinin temel amaçları arasında <b>Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilmesi</b> (V. madde) de bulunmaktadır. Bu nedenle tüm seçenekler dinleme sonrası süreçle ilgilidir.",
+            "unit": 4,
+            "topic": "4.5.3. Dinleme Sonrası",
+            "source": "Vize Deneme Sınavı 2021-2",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4010,
+            "question": "Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru ………. ve ……….. becerisi kazandırmada yardımcı olmaktadır. Boşluklara uygun gelen ifadeler hangileridir.",
+            "options": [
+                "dinleme - yazma",
+                "yazma- konuşma",
+                "telaffuz - konuşma",
+                "telaffuz - okuma",
+                "okuma - dinleme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru <b>telaffuz ve konuşma becerisi</b> kazandırmada yardımcı olmaktadır. Öğrenciler sınıf içinde en çok dinledikleri kişi olan öğretmenlerinin konuşmalarını taklit ettiklerinden, öğretmenin doğru telaffuz etmesi önemlidir.",
+            "unit": 4,
+            "topic": "4.5.3. Dinleme Sonrası",
+            "source": "Vize Deneme Sınavı 2021-2",
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4014,
+            "question": "Aşağıdakilerden hangisi dinleme sonrasında kullanılacak tekniklere bir örnek değildir?",
+            "options": [
+                "Sunu biçimi ve içeriği değerlendirme",
+                "Konuşmada verilen bilgileri değerlendirme",
+                "Dinleme yöntemini ve biçimini belirleme",
+                "Nedenleri, kaynağını ve bakış açılarını değerlendirme",
+                "Sunu biçimi ve içeriği değerlendirme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dinleme yöntemini ve biçimini belirleme, dinlemenin başlangıcında (Dinleme Öncesi) gerçekleştirilen bir eylemdir. Diğer seçenekler ise Dinleme Sonrası aşamasında kullanılan tekniklerdir.",
+            "unit": 4,
+            "topic": "4.5.3. Dinleme Sonrası",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4004,
+            "question": "Aşağıdakilerden hangileri dinleme etkinliğinin aşamalarıdır?",
+            "options": [
+                "Etkileşimsiz dinleme, Olumlu dinleme, Olumsuz dinleme",
+                "Aktif dinleme, Etkileşimli dinleme, Olumlu dinleme",
+                "Dinleme ortamı, dinleme materyali, dinleme bağlamı",
+                "Dinleme öncesi, dinleme sırası, dinleme sonrası",
+                "Görsellerle seçme, Diyalog tamamlama, Eşleştirme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Dinleme etkinlikleri üç aşamada gerçekleşmektedir: <b>Dinleme öncesi, dinleme sırası ve dinleme sonrası</b>.",
+            "unit": 4,
+            "topic": "4.5. Dinlemenin Aşamaları",
+            "source": "Vize Soruları 2022",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4016,
+            "question": "Dinleme sürecinde çocuklar etkin olmalıdırlar. Aksi takdirde dinleme eylemi öncelikle seçerek dinlemeye, ardından da duyduklarını önemsememeye dönüşür. Dinlemede çocuğun etken hâle getirilebilmesi amacıyla anne ve baba rehberlik etmelidir. Bu süreçte anne ve baba iyi birer dinleyici olmalıdır. Yukarıdaki paragrafta aşağıdakilerden hangisi vurgulanmaktadır?",
+            "options": [
+                "Dinleme eğitiminde ailenin rolü",
+                "Dinleme eğitiminde öğretmenin rolü",
+                "Dinleme eğitiminde kurumun rolü",
+                "Dinleme eğitiminde etkinliklerin rolü",
+                "Dinleme eğitiminde arkadaş grubunun rolü"
+            ],
+            "correctIndex": 0,
+            "explanation": "Paragrafta, dinleme sürecinde çocukların etkin hâle getirilmesi amacıyla <b>anne ve babanın rehberlik etmesi</b> ve <b>iyi birer dinleyici olması</b> gerektiği vurgulanmıştır. Bu durum, <b>Dinleme eğitiminde ailenin rolü</b>ne dikkat çekmektedir.",
+            "unit": 4,
+            "topic": "4.8. Dinleme Becerisinin Gelişiminde Aile Unsuru",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 6 / Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5001,
@@ -1528,7 +1573,9 @@
             "unit": 5,
             "topic": "5.1. Giriş",
             "source": "Final Soruları",
-            "sourceInfo": "Soru 1 / Soru 1 / Soru 1"
+            "sourceInfo": "Soru 1 / Soru 1 / Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5002,
@@ -1545,7 +1592,9 @@
             "unit": 5,
             "topic": "5.2. Konuşma Eğitimiyle İlgili Temel Terimler",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 10 / Soru 5"
+            "sourceInfo": "Soru 10 / Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5003,
@@ -1562,7 +1611,9 @@
             "unit": 5,
             "topic": "5.2. Konuşma Eğitimiyle İlgili Temel Terimler",
             "source": "Final Deneme Sınavı 2021-1",
-            "sourceInfo": "Soru 4 / Soru 19"
+            "sourceInfo": "Soru 4 / Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5004,
@@ -1579,7 +1630,9 @@
             "unit": 5,
             "topic": "5.2. Konuşma Eğitimiyle İlgili Temel Terimler",
             "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 15"
+            "sourceInfo": "Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5005,
@@ -1596,7 +1649,9 @@
             "unit": 5,
             "topic": "5.3. Konuşma Süreci ve Aşamaları",
             "source": "Final Deneme Sınavı 2021-1",
-            "sourceInfo": "Soru 12 / Soru 5 / Soru 13 / Soru 7"
+            "sourceInfo": "Soru 12 / Soru 5 / Soru 13 / Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5006,
@@ -1613,41 +1668,9 @@
             "unit": 5,
             "topic": "5.3. Konuşma Süreci ve Aşamaları",
             "source": "Final Deneme Sınavı 2021-1",
-            "sourceInfo": "Soru 18 / Soru 10 / Soru 4 / Soru 10"
-        },
-        {
-            "id": 5007,
-            "question": "Aşağıdaki seçeneklerden hangisi okulöncesi dönemde konuşma becerisini geliştirmek için öğreticilerin öncelikle dikkate almaları gereken hususlara dahil edilemez?",
-            "options": [
-                "Konuşma eğitiminde söz varlığı öğretimi ve dinleme eğitimlerinde olduğu gibi tema ağırlıklı olarak oluşturulan izlencelere göre planlama yapılmalıdır.",
-                "Okulöncesi dönemde konuşma becerisini geliştirmek için çocukların Türkçe konuşulan ortamlarda iletişim sürecine katılmalarını desteklemek temel amaç olmalıdır.",
-                "Okulöncesi dönemdeki konuşma eğitiminde, özel gereksinimli çocukların diğer öğrencilerle aynı programa göre dikkate alınması gerekir.",
-                "Temalar, çocukların kolaylıkla farkına varabileceği, yaşamlarının içinden unsurlar içermeli, somuttan soyuta doğru planlanmalıdır.",
-                "Konuşma eğitimde kültür aktarımı etkinlik planlamada yer almalıdır."
-            ],
-            "correctIndex": 2,
-            "explanation": "Öğreticilerin dikkat etmesi gereken hususlardan biri, konuşma eğitiminde <b>özel gereksinimli çocukların ihtiyaçlarına göre program planlanmalı ve uyarlanmalıdır</b>. Bu nedenle, 'özel gereksinimli çocukların diğer öğrencilerle aynı programa göre dikkate alınması gerekir' ifadesi doğru bir husus değildir.",
-            "unit": 5,
-            "topic": "5.4. Konuşma Becerisini Geliştirme",
-            "source": "Final Deneme Sınavı 2021-1",
-            "sourceInfo": "Soru 6 / Soru 3 / Soru 14 / Soru 6"
-        },
-        {
-            "id": 5008,
-            "question": "Aşağıdakilerden hangisinde konuşma becerisini geliştirmeye dönük olarak öğretmenlerin en çok kullandıkları alıştırmalar doğru sırada verilmiştir?",
-            "options": [
-                "İletişimsel alıştırmalar - mekanik alıştırmalar - bireysel alıştırmalar",
-                "Anlamlı alıştırmalar - mekanik alıştırmalar - iletişimsel alıştırmalar",
-                "Bireysel alıştırmalar - anlamlı alıştırmalar - mekanik alıştırmalar",
-                "Mekanik alıştırmalar - anlamlı alıştırmalar - iletişimsel alıştırmalar",
-                "Mekanik alıştırmalar - bireysel alıştırmalar - anlamlı alıştırmalar"
-            ],
-            "correctIndex": 3,
-            "explanation": "Demirel'e göre, konuşma becerisini geliştirmeye dönük olarak öğretmenlerin en çok kullandıkları alıştırma ve izlenecek sıra: <b>Mekanik Alıştırmalar, Anlamlı Alıştırmalar ve İletişimsel Alıştırmalar</b> şeklindedir.",
-            "unit": 5,
-            "topic": "5.4. Konuşma Becerisini Geliştirme",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 13 / Soru 8 / Soru 7 / Soru 13"
+            "sourceInfo": "Soru 18 / Soru 10 / Soru 4 / Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5009,
@@ -1664,7 +1687,9 @@
             "unit": 5,
             "topic": "5.4.1. Seslerin Öğretimi",
             "source": "Vize Soruları 2020",
-            "sourceInfo": "Soru 24 / Soru 29 / Soru 21"
+            "sourceInfo": "Soru 24 / Soru 29 / Soru 21",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5010,
@@ -1681,7 +1706,9 @@
             "unit": 5,
             "topic": "5.4.2.2. Müzik",
             "source": "Final Soruları",
-            "sourceInfo": "Soru 9 / Soru 9 / Soru 15"
+            "sourceInfo": "Soru 9 / Soru 9 / Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5011,
@@ -1698,7 +1725,9 @@
             "unit": 5,
             "topic": "5.4.2.3. Hikâye Okuma/Anlatma",
             "source": "Final Deneme Sınavı 2021-1",
-            "sourceInfo": "Soru 8 / Soru 13 / Soru 10 / Soru 8"
+            "sourceInfo": "Soru 8 / Soru 13 / Soru 10 / Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5012,
@@ -1715,7 +1744,9 @@
             "unit": 5,
             "topic": "5.4.2.5. Grup Etkinlikleri",
             "source": "Final Soruları",
-            "sourceInfo": "Soru 7 / Soru 10"
+            "sourceInfo": "Soru 7 / Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5013,
@@ -1732,7 +1763,47 @@
             "unit": 5,
             "topic": "5.4.2.6. Diğer Etkinlikler",
             "source": "Final Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 25 / Soru 25 / Soru 26"
+            "sourceInfo": "Soru 25 / Soru 25 / Soru 26",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5007,
+            "question": "Aşağıdaki seçeneklerden hangisi okulöncesi dönemde konuşma becerisini geliştirmek için öğreticilerin öncelikle dikkate almaları gereken hususlara dahil edilemez?",
+            "options": [
+                "Konuşma eğitiminde söz varlığı öğretimi ve dinleme eğitimlerinde olduğu gibi tema ağırlıklı olarak oluşturulan izlencelere göre planlama yapılmalıdır.",
+                "Okulöncesi dönemde konuşma becerisini geliştirmek için çocukların Türkçe konuşulan ortamlarda iletişim sürecine katılmalarını desteklemek temel amaç olmalıdır.",
+                "Okulöncesi dönemdeki konuşma eğitiminde, özel gereksinimli çocukların diğer öğrencilerle aynı programa göre dikkate alınması gerekir.",
+                "Temalar, çocukların kolaylıkla farkına varabileceği, yaşamlarının içinden unsurlar içermeli, somuttan soyuta doğru planlanmalıdır.",
+                "Konuşma eğitimde kültür aktarımı etkinlik planlamada yer almalıdır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Öğreticilerin dikkat etmesi gereken hususlardan biri, konuşma eğitiminde <b>özel gereksinimli çocukların ihtiyaçlarına göre program planlanmalı ve uyarlanmalıdır</b>. Bu nedenle, 'özel gereksinimli çocukların diğer öğrencilerle aynı programa göre dikkate alınması gerekir' ifadesi doğru bir husus değildir.",
+            "unit": 5,
+            "topic": "5.4. Konuşma Becerisini Geliştirme",
+            "source": "Final Deneme Sınavı 2021-1",
+            "sourceInfo": "Soru 6 / Soru 3 / Soru 14 / Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5008,
+            "question": "Aşağıdakilerden hangisinde konuşma becerisini geliştirmeye dönük olarak öğretmenlerin en çok kullandıkları alıştırmalar doğru sırada verilmiştir?",
+            "options": [
+                "İletişimsel alıştırmalar - mekanik alıştırmalar - bireysel alıştırmalar",
+                "Anlamlı alıştırmalar - mekanik alıştırmalar - iletişimsel alıştırmalar",
+                "Bireysel alıştırmalar - anlamlı alıştırmalar - mekanik alıştırmalar",
+                "Mekanik alıştırmalar - anlamlı alıştırmalar - iletişimsel alıştırmalar",
+                "Mekanik alıştırmalar - bireysel alıştırmalar - anlamlı alıştırmalar"
+            ],
+            "correctIndex": 3,
+            "explanation": "Demirel'e göre, konuşma becerisini geliştirmeye dönük olarak öğretmenlerin en çok kullandıkları alıştırma ve izlenecek sıra: <b>Mekanik Alıştırmalar, Anlamlı Alıştırmalar ve İletişimsel Alıştırmalar</b> şeklindedir.",
+            "unit": 5,
+            "topic": "5.4. Konuşma Becerisini Geliştirme",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 13 / Soru 8 / Soru 7 / Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6001,
@@ -1749,7 +1820,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Final Soruları 2023-2024 / Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 17 / Soru 2 / Soru 1"
+            "sourceInfo": "Soru 17 / Soru 2 / Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6002,
@@ -1766,7 +1839,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Final Deneme Sınavı 2021 / Final Soruları 2021-2022",
-            "sourceInfo": "Soru 7 / Soru 2 / Soru 12"
+            "sourceInfo": "Soru 7 / Soru 2 / Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6003,
@@ -1783,7 +1858,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Final Deneme Sınavı 2021 / Final Deneme-1",
-            "sourceInfo": "Soru 5 / Soru 17 / Soru 13"
+            "sourceInfo": "Soru 5 / Soru 17 / Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6004,
@@ -1800,24 +1877,9 @@
             "unit": 6,
             "topic": "6.1. Giriş",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 16 / Soru 12"
-        },
-        {
-            "id": 6005,
-            "question": "Yazılı materyal üzerinde gerçekleşen bilişsel eyleme verilen ad aşağıdakilerden hangisidir?",
-            "options": [
-                "Dinleme",
-                "Öğrenme",
-                "Yazma",
-                "Edinme",
-                "Okuma"
-            ],
-            "correctIndex": 4,
-            "explanation": "<b>Okuma</b>, en temel anlamda <b>yazılı materyal üzerinde gerçekleşen bilişsel eylem</b> olarak tanımlanabilir.",
-            "unit": 6,
-            "topic": "6.4. Okuma Becerisi ve Gelişimi",
-            "source": "Final Soruları 2022-2023 / Final Soruları 2023-2024",
-            "sourceInfo": "Soru 17 / Soru 5 / Soru 10 / Soru 20"
+            "sourceInfo": "Soru 16 / Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6006,
@@ -1834,7 +1896,9 @@
             "unit": 6,
             "topic": "6.2.1. Sınama Yoluyla Öğrenme",
             "source": "Final Deneme Sınavı 2021 / Final Deneme-1",
-            "sourceInfo": "Soru 19 / Soru 15 / Soru 20"
+            "sourceInfo": "Soru 19 / Soru 15 / Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6007,
@@ -1851,7 +1915,9 @@
             "unit": 6,
             "topic": "6.2.1. Sınama Yoluyla Öğrenme",
             "source": "Final Deneme Sınavı 2021 / Final Soruları 2022-2023",
-            "sourceInfo": "Soru 14 / Soru 5 / Soru 20"
+            "sourceInfo": "Soru 14 / Soru 5 / Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6008,
@@ -1868,7 +1934,9 @@
             "unit": 6,
             "topic": "6.2.1. Sınama Yoluyla Öğrenme",
             "source": "Final Deneme Sınavı 2021 / Final Deneme-1",
-            "sourceInfo": "Soru 16 / Soru 2"
+            "sourceInfo": "Soru 16 / Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6009,
@@ -1885,7 +1953,9 @@
             "unit": 6,
             "topic": "6.2.2. Kavrama Yoluyla Öğrenme",
             "source": "Final Deneme Sınavı 2021",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6010,
@@ -1902,7 +1972,9 @@
             "unit": 6,
             "topic": "6.2.2. Kavrama Yoluyla Öğrenme",
             "source": "Final Deneme Sınavı 2021 / Final Deneme-1",
-            "sourceInfo": "Soru 8 / Soru 7 / Soru 19"
+            "sourceInfo": "Soru 8 / Soru 7 / Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6011,
@@ -1919,7 +1991,9 @@
             "unit": 6,
             "topic": "6.2.2. Kavrama Yoluyla Öğrenme",
             "source": "Final Deneme-1",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6012,
@@ -1936,24 +2010,28 @@
             "unit": 6,
             "topic": "6.3. Yabancı Dil Olarak Türkçe Okuma ve Yazmaya Hazırlık",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 6 / Soru 15"
+            "sourceInfo": "Soru 6 / Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 6013,
-            "question": "Okuma becerisine hazırlık yapmak için kullanılan temel materyaller ve faaliyetlerden kavram geliştirme çalışmaları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+            "id": 6005,
+            "question": "Yazılı materyal üzerinde gerçekleşen bilişsel eyleme verilen ad aşağıdakilerden hangisidir?",
             "options": [
-                "Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma dönemini tamamlamıştır.",
-                "Çocuklarda sayı gelişimi; sayısal farklılıklara dikkat etme, çok ve azı ayırt etme, yetişkini taklit ederek sayma, ezbere gelişigüzel ve ritmik sayma, sayma ile ilgili kuralları öğrenme, nesnelerle sayı sözcüklerini eşleyerek sayma şeklinde gerçekleşir.",
-                "Okul öncesi dönemde kavram geliştirme çalışmaları için gruplama çalışmaları yapılabilir.",
-                "Okul öncesi dönemdeki çocuklar bir grup nesne içindeki benzerlikler ve farklılıkları ayırt edebilir.",
-                "Okul öncesi dönemdeki çocuklar nesneleri kişilerle eşleştirebilir."
+                "Dinleme",
+                "Öğrenme",
+                "Yazma",
+                "Edinme",
+                "Okuma"
             ],
-            "correctIndex": 0,
-            "explanation": "Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma dönemini <b>tamamlamış değildir</b>; bu dönem hala gelişim aşamasında olabilir. Bu nedenle 'Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma dönemini tamamlamıştır.' ifadesi yanlıştır.",
+            "correctIndex": 4,
+            "explanation": "<b>Okuma</b>, en temel anlamda <b>yazılı materyal üzerinde gerçekleşen bilişsel eylem</b> olarak tanımlanabilir.",
             "unit": 6,
             "topic": "6.4. Okuma Becerisi ve Gelişimi",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 16 / Soru 1"
+            "source": "Final Soruları 2022-2023 / Final Soruları 2023-2024",
+            "sourceInfo": "Soru 17 / Soru 5 / Soru 10 / Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6014,
@@ -1970,7 +2048,9 @@
             "unit": 6,
             "topic": "6.5. Yazma Becerisi ve Gelişimi",
             "source": "Bütünleme Soruları 2022-2023 / Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 9 / Soru 16 / Soru 6"
+            "sourceInfo": "Soru 9 / Soru 16 / Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6015,
@@ -1987,7 +2067,9 @@
             "unit": 6,
             "topic": "6.5. Yazma Becerisi ve Gelişimi",
             "source": "Final Soruları 2022-2023 / Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 1 / Soru 2 / Soru 9 / Soru 8"
+            "sourceInfo": "Soru 1 / Soru 2 / Soru 9 / Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6016,
@@ -2004,7 +2086,9 @@
             "unit": 6,
             "topic": "6.6. Yazı Öncesi Etkinlikler",
             "source": "Final Deneme Sınavı 2021 / Final Deneme-1",
-            "sourceInfo": "Soru 2 / Soru 13 / Soru 3 / Soru 19"
+            "sourceInfo": "Soru 2 / Soru 13 / Soru 3 / Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7001,
@@ -2021,7 +2105,9 @@
             "unit": 7,
             "topic": "7.3. İki dillilik Olgusu Karşısında Yarım Dillilik Olgusu",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 2 / Soru 4"
+            "sourceInfo": "Soru 2 / Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7002,
@@ -2038,24 +2124,9 @@
             "unit": 7,
             "topic": "7.7. İki dilde Akıcılık Düzeyi",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 12 / Soru 15"
-        },
-        {
-            "id": 7003,
-            "question": "Türkiye’de İngilizce kursuna giderek ana dilin olumsuz etkilenmeden yeni bir dil edinilmesi ikidillilik bağlamında aşağıdakilerden hangisi olarak tanımlanmaktadır?",
-            "options": [
-                "Dışsal ikidillilik",
-                "Seçmeli ikidillilik",
-                "Durumsal ikidillilik",
-                "Eksiltmeli ikidillilik",
-                "Eklemeli ikidillilik"
-            ],
-            "correctIndex": 4,
-            "explanation": "İki dillilik sürecinde yeni edinilen ikinci dilin birinci dile herhangi bir olumsuz etkisinin olmadığı gelişim durumuna <b>Eklemeli iki dillilik</b> denir. Entelektüel amaçlarla ikinci dil edinimi bu duruma örnek olarak gösterilebilir.",
-            "unit": 7,
-            "topic": "7.8. İkinci Dilin Birinci Dile Etkisi",
-            "source": "Vize Deneme Sınavı 2021-1",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 12 / Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7004,
@@ -2072,7 +2143,9 @@
             "unit": 7,
             "topic": "7.8. İkinci Dilin Birinci Dile Etkisi",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7005,
@@ -2089,7 +2162,9 @@
             "unit": 7,
             "topic": "7.8. İkinci Dilin Birinci Dile Etkisi",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7006,
@@ -2106,7 +2181,9 @@
             "unit": 7,
             "topic": "7.8. İkinci Dilin Birinci Dile Etkisi",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 16"
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8001,
@@ -2123,7 +2200,9 @@
             "unit": 8,
             "topic": "8.2. Etkinlik Öncesi, Etkinlik Sırası ve Etkinlik Sonrası",
             "source": "Final Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 18"
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8002,
@@ -2140,7 +2219,9 @@
             "unit": 8,
             "topic": "8.2. Etkinlik Öncesi, Etkinlik Sırası ve Etkinlik Sonrası",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 17"
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8003,
@@ -2157,7 +2238,9 @@
             "unit": 8,
             "topic": "8.2. Etkinlik Öncesi, Etkinlik Sırası ve Etkinlik Sonrası",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 13"
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8004,
@@ -2174,24 +2257,9 @@
             "unit": 8,
             "topic": "8.3. Biçim-Anlam-Kullanım",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 11"
-        },
-        {
-            "id": 8005,
-            "question": "Bir öğretmen gerçek hayattaki durumları düşünerek kendisi bir metin oluşturması ve bunu sınıf ortamında kullanması durumunda hangi girdi biçimini kullanmış olur?",
-            "options": [
-                "Tamamen özgün girdi",
-                "Kısmen değiştirilmiş özgün girdi",
-                "Uyarlanmış girdi",
-                "Benzetilmiş girdi",
-                "Özgün olmaya girdi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Gerçek yaşamdaki durumlara benzetme kaygısı güdülmeden yazar tarafından öğretim amacıyla oluşturulan girdi biçimi <b>Özgün Olmayan Girdi</b> biçimidir.",
-            "unit": 8,
-            "topic": "8.4.2. Özgünlük",
-            "source": "Final Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8006,
@@ -2208,7 +2276,9 @@
             "unit": 8,
             "topic": "8.4.2.2. Girdi Özgünlüğü",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8007,
@@ -2225,41 +2295,28 @@
             "unit": 8,
             "topic": "8.4.2.2. Girdi Özgünlüğü",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 8008,
-            "question": "Aşağıdakilerden hangisi dilin parçalarüstü özelliklerine ilişkin bir dinleme hedefidir?",
+            "id": 8005,
+            "question": "Bir öğretmen gerçek hayattaki durumları düşünerek kendisi bir metin oluşturması ve bunu sınıf ortamında kullanması durumunda hangi girdi biçimini kullanmış olur?",
             "options": [
-                "Duygusal tepkileri ayırt etme",
-                "Temel sözcük dizimi için dinleme",
-                "Biçimbirimleri ayırt etmeye yönelik dinleme",
-                "Sesbirimleri ayırt etme",
-                "Tümcelerdeki ezgi örüntüleri arasındaki farkı ayırt etme"
+                "Tamamen özgün girdi",
+                "Kısmen değiştirilmiş özgün girdi",
+                "Uyarlanmış girdi",
+                "Benzetilmiş girdi",
+                "Özgün olmaya girdi"
             ],
             "correctIndex": 4,
-            "explanation": "Dinleme görevlerinde, <b>parçalarüstü (suprasegmental) özellikler</b> vurgu, durak ve ezgi (intonasyon) gibi unsurları içerir. Bu nedenle, <b>Tümcelerdeki ezgi örüntüleri arasındaki farkı ayırt etme</b> parçalarüstü özelliklere ilişkin bir dinleme hedefidir.",
+            "explanation": "Gerçek yaşamdaki durumlara benzetme kaygısı güdülmeden yazar tarafından öğretim amacıyla oluşturulan girdi biçimi <b>Özgün Olmayan Girdi</b> biçimidir.",
             "unit": 8,
-            "topic": "8.5.1. Sınıf İçi Dinleme Görevleri",
+            "topic": "8.4.2. Özgünlük",
             "source": "Final Deneme Sınavı 2021-2",
-            "sourceInfo": "Soru 19"
-        },
-        {
-            "id": 8009,
-            "question": "Aşağıdakilerden hangisi dilin parçalı özelliklerine ilişkin bir dinleme hedefidir?",
-            "options": [
-                "“a” sesi ile “e” sesini ayırt etme",
-                "Tümcedeki sözcük vurgusunu belirleme",
-                "Tümcedeki durakları belirleme",
-                "Kavşakları belirleme",
-                "Tümcelerdeki ezgi örüntüleri arasındaki farkı ayırt etme"
-            ],
-            "correctIndex": 0,
-            "explanation": "Dilin <b>parçalı (segmental) özellikleri</b> sesbirimleri (fonemleri) içerir. Bu nedenle, “<b>a” sesi ile “e” sesini ayırt etme</b> bir sesbirim ayrımı hedefidir ve parçalı özelliklere ilişkindir.",
-            "unit": 8,
-            "topic": "8.5.1. Sınıf İçi Dinleme Görevleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8010,
@@ -2276,7 +2333,9 @@
             "unit": 8,
             "topic": "8.5.2. Sınıf İçi Konuşma Görevleri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         }
     ],
     "meta": {

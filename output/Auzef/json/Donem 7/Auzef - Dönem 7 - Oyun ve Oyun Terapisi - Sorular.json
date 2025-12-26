@@ -15,41 +15,9 @@
             "unit": 1,
             "topic": "1.1. Oyun Nedir?",
             "source": "Final Sınavı",
-            "sourceInfo": "Final 2024-2025 Soru 19 / 2021 Soru 3"
-        },
-        {
-            "id": 102,
-            "question": "Aşağıdaki kuramların hangisinin temelinde oyunun <ins>evrimsel biyolojik sürecin bir ürünü</ins> olduğu ve oyun gelişiminin <ins>insan soyunun evrimsel gelişimini izlediği</ins> yer alır?",
-            "options": [
-                "Psikososyal Oyun Teorisi",
-                "Özünü Yineleme Kuramı",
-                "Psikodinamik Oyun Teorisi",
-                "İçgüdü-Eylem Kuramı",
-                "Becerilerin Eğitimi Teorisi"
-            ],
-            "correctIndex": 1,
-            "explanation": "<ins>Özünü Yineleme Kuramı</ins>, çocuğun atalarının deneyimlerini oyunda tekrar yaşayarak ilkel içgüdülerini kullandığını ve oyunun evrimsel biyolojik bir süreç olduğunu savunur.",
-            "unit": 1,
-            "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Kuramları)",
-            "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 13; Bütünleme 2022 Soru 7"
-        },
-        {
-            "id": 103,
-            "question": "Oyun ile ilgili teorilerden hangisinin açıklaması şu şekildedir: “Oyun yoluyla çocuk yaşam boyunca gerekli olabilecek <ins>uyum becerilerini kazanır</ins>. Amaçsız gibi görünen eylemlerin aslında <ins>biyolojik bir amacı</ins> vardır. Uyum sağlamak ve gerektiğinde kullanmak için, taklit ile hazır oluşluğu sağlar”?",
-            "options": [
-                "Bilişsel gelişim",
-                "Fazla enerjiyi tüketme teorisi",
-                "Psikodinamik kuram",
-                "İç güdü-Eylem kuramı",
-                "Özünü Yineleme kuramı"
-            ],
-            "correctIndex": 3,
-            "explanation": "Bu açıklama, oyunun gelecekteki rollere hazırlık ve <ins>uyum becerilerini kazanma</ins> işlevi gördüğünü belirten <ins>İçgüdü-Eylem Kuramı</na> (alıştırma kuramı) ile ilgilidir.",
-            "unit": 1,
-            "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Kuramları)",
-            "source": "Vize ve Final Sınav Soruları",
-            "sourceInfo": "Vize 2021 Soru 31"
+            "sourceInfo": "Final 2024-2025 Soru 19 / 2021 Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 104,
@@ -66,7 +34,9 @@
             "unit": 1,
             "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)",
             "source": "Bütünleme ve Vize Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 4; Vize 2024-2025 Soru 5"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 4; Vize 2024-2025 Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 105,
@@ -83,7 +53,9 @@
             "unit": 1,
             "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)",
             "source": "Vize ve Final Soruları",
-            "sourceInfo": "Vize 2024-2025 Soru 2; Final 2022-2023 Soru 17"
+            "sourceInfo": "Vize 2024-2025 Soru 2; Final 2022-2023 Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 106,
@@ -100,7 +72,9 @@
             "unit": 1,
             "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)",
             "source": "Vize ve Bütünleme Soruları",
-            "sourceInfo": "Vize 2023-2024 Soru 12; Bütünleme 2022-2023 Soru 7"
+            "sourceInfo": "Vize 2023-2024 Soru 12; Bütünleme 2022-2023 Soru 7",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 107,
@@ -117,41 +91,9 @@
             "unit": 1,
             "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)",
             "source": "Vize Soruları",
-            "sourceInfo": "Vize 2024-2025 Soru 17"
-        },
-        {
-            "id": 108,
-            "question": "Psikoseksüel gelişim dönemlerine göre <ins>Latans Dönemi</ins> hangi yaş grubunu içerir?",
-            "options": [
-                "0-1 yaş",
-                "1-3 yaş",
-                "3-5 yaş",
-                "6-11 yaş",
-                "11 yaş sonrası"
-            ],
-            "correctIndex": 3,
-            "explanation": "Psikoseksüel gelişim dönemlerinden <ins>Latans (Gizil) Dönemi</ins>, genellikle <ins>6-11 yaş</ins> aralığını içerir.",
-            "unit": 1,
-            "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)",
-            "source": "Vize Soruları",
-            "sourceInfo": "Vize 2021 Soru 26"
-        },
-        {
-            "id": 109,
-            "question": "“Bir çocuk <ins>kalemkutusunu bebek gibi</ins> kullanarak oyun kurar.” Yukarıda verilen oyun aşağıdakilerden hangisine örnektir?",
-            "options": [
-                "Kurallı oyun",
-                "İşlevsel Oyun",
-                "Sembolik oyun",
-                "Taklit oyunu",
-                "Hiçbirisi"
-            ],
-            "correctIndex": 2,
-            "explanation": "Bir nesneyi başka bir nesne yerine kullanarak (mış gibi yaparak) oyun kurma, <ins>Sembolik oyuna</ins> örnektir. Bu, 2-4 yaş aralığında yaygındır.",
-            "unit": 1,
-            "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Türleri)",
-            "source": "Vize ve Üç Ders Soruları",
-            "sourceInfo": "Vize 2021 Soru 12; Üç Ders 2024 Soru 17"
+            "sourceInfo": "Vize 2024-2025 Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 110,
@@ -168,7 +110,9 @@
             "unit": 1,
             "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)",
             "source": "Vize Soruları",
-            "sourceInfo": "Vize 2021 Soru 30"
+            "sourceInfo": "Vize 2021 Soru 30",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 111,
@@ -185,7 +129,66 @@
             "unit": 1,
             "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)",
             "source": "Final ve Vize Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 10; Vize 2024-2025 Soru 7"
+            "sourceInfo": "Final 2023-2024 Soru 10; Vize 2024-2025 Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 102,
+            "question": "Aşağıdaki kuramların hangisinin temelinde oyunun <ins>evrimsel biyolojik sürecin bir ürünü</ins> olduğu ve oyun gelişiminin <ins>insan soyunun evrimsel gelişimini izlediği</ins> yer alır?",
+            "options": [
+                "Psikososyal Oyun Teorisi",
+                "Özünü Yineleme Kuramı",
+                "Psikodinamik Oyun Teorisi",
+                "İçgüdü-Eylem Kuramı",
+                "Becerilerin Eğitimi Teorisi"
+            ],
+            "correctIndex": 1,
+            "explanation": "<ins>Özünü Yineleme Kuramı</ins>, çocuğun atalarının deneyimlerini oyunda tekrar yaşayarak ilkel içgüdülerini kullandığını ve oyunun evrimsel biyolojik bir süreç olduğunu savunur.",
+            "unit": 1,
+            "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Kuramları)",
+            "source": "Final ve Bütünleme Soruları",
+            "sourceInfo": "Final 2023-2024 Soru 13; Bütünleme 2022 Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 103,
+            "question": "Oyun ile ilgili teorilerden hangisinin açıklaması şu şekildedir: “Oyun yoluyla çocuk yaşam boyunca gerekli olabilecek <ins>uyum becerilerini kazanır</ins>. Amaçsız gibi görünen eylemlerin aslında <ins>biyolojik bir amacı</ins> vardır. Uyum sağlamak ve gerektiğinde kullanmak için, taklit ile hazır oluşluğu sağlar”?",
+            "options": [
+                "Bilişsel gelişim",
+                "Fazla enerjiyi tüketme teorisi",
+                "Psikodinamik kuram",
+                "İç güdü-Eylem kuramı",
+                "Özünü Yineleme kuramı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Bu açıklama, oyunun gelecekteki rollere hazırlık ve <ins>uyum becerilerini kazanma</ins> işlevi gördüğünü belirten <ins>İçgüdü-Eylem Kuramı</na> (alıştırma kuramı) ile ilgilidir.",
+            "unit": 1,
+            "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Kuramları)",
+            "source": "Vize ve Final Sınav Soruları",
+            "sourceInfo": "Vize 2021 Soru 31",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 109,
+            "question": "“Bir çocuk <ins>kalemkutusunu bebek gibi</ins> kullanarak oyun kurar.” Yukarıda verilen oyun aşağıdakilerden hangisine örnektir?",
+            "options": [
+                "Kurallı oyun",
+                "İşlevsel Oyun",
+                "Sembolik oyun",
+                "Taklit oyunu",
+                "Hiçbirisi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bir nesneyi başka bir nesne yerine kullanarak (mış gibi yaparak) oyun kurma, <ins>Sembolik oyuna</ins> örnektir. Bu, 2-4 yaş aralığında yaygındır.",
+            "unit": 1,
+            "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Türleri)",
+            "source": "Vize ve Üç Ders Soruları",
+            "sourceInfo": "Vize 2021 Soru 12; Üç Ders 2024 Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 112,
@@ -202,24 +205,9 @@
             "unit": 1,
             "topic": "1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Türleri)",
             "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2022-2023 Soru 1; Bütünleme 2023-2024 Soru 19"
-        },
-        {
-            "id": 113,
-            "question": "Aşağıdakilerden hangisi <ins>oyunun terapötik işlevlerinden</ins> biri değildir?",
-            "options": [
-                "Duygusal iyilik halini destekleme",
-                "İletişim kolaylaştırıcılık",
-                "Sosyal ilişkileri destekleme",
-                "Kişisel güçleri arttırma",
-                "Zekâ düzeyinde artış"
-            ],
-            "correctIndex": 4,
-            "explanation": "Oyunun terapötik işlevleri duygusal, iletişimsel ve sosyal alanlardadır. <ins>Zekâ düzeyinde doğrudan bir artış</ins> sağlaması terapötik amaçlar arasında sayılmaz.",
-            "unit": 1,
-            "topic": "1.3. Oyunun Terapötik İşlevleri",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 1, Soru 4"
+            "sourceInfo": "Final 2022-2023 Soru 1; Bütünleme 2023-2024 Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 114,
@@ -236,7 +224,9 @@
             "unit": 1,
             "topic": "1.3.1. İletişim Kolaylaştırıcılık",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 1, Soru 3"
+            "sourceInfo": "Ünite 1, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 115,
@@ -253,7 +243,9 @@
             "unit": 1,
             "topic": "1.3.2. Duygusal İyilik Halini Destekleme",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 1, Soru 5"
+            "sourceInfo": "Ünite 1, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 116,
@@ -270,7 +262,9 @@
             "unit": 1,
             "topic": "1.3.2. Duygusal İyilik Halini Destekleme",
             "source": "Vize ve Üç Ders Soruları",
-            "sourceInfo": "Vize 2023-2024 Soru 16; Üç Ders 2024 Soru 4"
+            "sourceInfo": "Vize 2023-2024 Soru 16; Üç Ders 2024 Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 117,
@@ -287,7 +281,9 @@
             "unit": 1,
             "topic": "1.3.3. Sosyal İlişkileri Destekleme",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 1, Soru 6"
+            "sourceInfo": "Ünite 1, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 118,
@@ -304,7 +300,28 @@
             "unit": 1,
             "topic": "1.3.4. Kişisel Güçleri Arttırma",
             "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 4; Bütünleme 2023-2024 Soru 11"
+            "sourceInfo": "Final 2024-2025 Soru 4; Bütünleme 2023-2024 Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi <ins>oyunun terapötik işlevlerinden</ins> biri değildir?",
+            "options": [
+                "Duygusal iyilik halini destekleme",
+                "İletişim kolaylaştırıcılık",
+                "Sosyal ilişkileri destekleme",
+                "Kişisel güçleri arttırma",
+                "Zekâ düzeyinde artış"
+            ],
+            "correctIndex": 4,
+            "explanation": "Oyunun terapötik işlevleri duygusal, iletişimsel ve sosyal alanlardadır. <ins>Zekâ düzeyinde doğrudan bir artış</ins> sağlaması terapötik amaçlar arasında sayılmaz.",
+            "unit": 1,
+            "topic": "1.3. Oyunun Terapötik İşlevleri",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 1, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 119,
@@ -321,7 +338,9 @@
             "unit": 1,
             "topic": "1.4.1. Psikanalitik Çocuk Terapisi",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 1, Soru 1"
+            "sourceInfo": "Ünite 1, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 120,
@@ -338,58 +357,9 @@
             "unit": 1,
             "topic": "1.4.1. Psikanalitik Çocuk Terapisi",
             "source": "Bütünleme ve Final Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 5; Final 2024-2025 Soru 1"
-        },
-        {
-            "id": 121,
-            "question": "Ayşe 5 yaşında anaokuluna giden bir kız çocuğudur. Son 2 aydır öğretmenleri Ayşe’nin <ins>parmak emmeye</ins> başladığını fark etmişler ve ailesi ile konuştuklarında geçtiğimiz dönem bir kardeşi doğduğunu öğrenmişler. Bu durumda Ayşe’nin verdiği tepkiye verilen ad aşağıdakilerden hangisidir?",
-            "options": [
-                "Aktarım - Yapma bozma",
-                "Karşıt aktarım - İnkar",
-                "Savunma mekanizması - İnkar",
-                "Aktarım - Regresyon",
-                "Savunma mekanizması - Regresyon"
-            ],
-            "correctIndex": 4,
-            "explanation": "Yaşadığı stres veya kaygıya tepki olarak daha erken bir gelişim evresine (bebeklik dönemi davranışı olan parmak emmeye) geri dönmesi <ins>Savunma Mekanizması - Regresyon</ins> olarak adlandırılır.",
-            "unit": 1,
-            "topic": "1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)",
-            "source": "Vize ve Final Soruları",
-            "sourceInfo": "Vize 2024-2025 Soru 18; Final 2023-2024 Soru 4"
-        },
-        {
-            "id": 122,
-            "question": "Genelde dürtüsel ve öfkeli olan bir ressamın eserlerinin daha dışavurumcu ve güçlü fırça darbeleri içermesi ne tür <ins>savunma düzeneğine</ins> örnektir?",
-            "options": [
-                "Bastırma",
-                "Saldırganla özdeşim",
-                "Pasif agresyon",
-                "Yüceltme",
-                "İnkar"
-            ],
-            "correctIndex": 3,
-            "explanation": "<ins>Yüceltme</ins> (Sublimation), kabul edilemez dürtülerin (agresyon/dürtüsellik) toplum tarafından onaylanan, yaratıcı bir aktiviteye (sanat) dönüştürülmesidir.",
-            "unit": 1,
-            "topic": "1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)",
-            "source": "Vize Soruları",
-            "sourceInfo": "Vize 2024-2025 Soru 3"
-        },
-        {
-            "id": 123,
-            "question": "Aşağıdaki örneklerden hangisi kendisine bir görev verildiğinde itiraz etmeyen ama sürekli <ins>erteleyen ve geciktiren</ins> bir kişinin davranışını tanımlar?",
-            "options": [
-                "Regresyon",
-                "Represyon",
-                "İnkar",
-                "Pasif agresyon",
-                "Yapma bozma"
-            ],
-            "correctIndex": 3,
-            "explanation": "Açıkça karşı çıkmadan, olumsuz davranışlarla (erteleme, geciktirme) direnç gösterme <ins>Pasif Agresyon</ins> savunma mekanizmasına örnektir.",
-            "unit": 1,
-            "topic": "1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)",
-            "source": "Vize Soruları",
-            "sourceInfo": "Vize 2024-2025 Soru 1"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 5; Final 2024-2025 Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 124,
@@ -406,7 +376,66 @@
             "unit": 1,
             "topic": "1.4.1. Psikanalitik Çocuk Terapisi (Kuramcılar)",
             "source": "Vize Soruları",
-            "sourceInfo": "Vize 2023-2024 Soru 3"
+            "sourceInfo": "Vize 2023-2024 Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 121,
+            "question": "Ayşe 5 yaşında anaokuluna giden bir kız çocuğudur. Son 2 aydır öğretmenleri Ayşe’nin <ins>parmak emmeye</ins> başladığını fark etmişler ve ailesi ile konuştuklarında geçtiğimiz dönem bir kardeşi doğduğunu öğrenmişler. Bu durumda Ayşe’nin verdiği tepkiye verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Aktarım - Yapma bozma",
+                "Karşıt aktarım - İnkar",
+                "Savunma mekanizması - İnkar",
+                "Aktarım - Regresyon",
+                "Savunma mekanizması - Regresyon"
+            ],
+            "correctIndex": 4,
+            "explanation": "Yaşadığı stres veya kaygıya tepki olarak daha erken bir gelişim evresine (bebeklik dönemi davranışı olan parmak emmeye) geri dönmesi <ins>Savunma Mekanizması - Regresyon</ins> olarak adlandırılır.",
+            "unit": 1,
+            "topic": "1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)",
+            "source": "Vize ve Final Soruları",
+            "sourceInfo": "Vize 2024-2025 Soru 18; Final 2023-2024 Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 122,
+            "question": "Genelde dürtüsel ve öfkeli olan bir ressamın eserlerinin daha dışavurumcu ve güçlü fırça darbeleri içermesi ne tür <ins>savunma düzeneğine</ins> örnektir?",
+            "options": [
+                "Bastırma",
+                "Saldırganla özdeşim",
+                "Pasif agresyon",
+                "Yüceltme",
+                "İnkar"
+            ],
+            "correctIndex": 3,
+            "explanation": "<ins>Yüceltme</ins> (Sublimation), kabul edilemez dürtülerin (agresyon/dürtüsellik) toplum tarafından onaylanan, yaratıcı bir aktiviteye (sanat) dönüştürülmesidir.",
+            "unit": 1,
+            "topic": "1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)",
+            "source": "Vize Soruları",
+            "sourceInfo": "Vize 2024-2025 Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 123,
+            "question": "Aşağıdaki örneklerden hangisi kendisine bir görev verildiğinde itiraz etmeyen ama sürekli <ins>erteleyen ve geciktiren</ins> bir kişinin davranışını tanımlar?",
+            "options": [
+                "Regresyon",
+                "Represyon",
+                "İnkar",
+                "Pasif agresyon",
+                "Yapma bozma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Açıkça karşı çıkmadan, olumsuz davranışlarla (erteleme, geciktirme) direnç gösterme <ins>Pasif Agresyon</ins> savunma mekanizmasına örnektir.",
+            "unit": 1,
+            "topic": "1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)",
+            "source": "Vize Soruları",
+            "sourceInfo": "Vize 2024-2025 Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 125,
@@ -423,7 +452,9 @@
             "unit": 1,
             "topic": "1.4.2. Çocuk Merkezli Oyun Terapisi",
             "source": "Bütünleme Soruları",
-            "sourceInfo": "Bütünleme 2022-2023 Soru 7"
+            "sourceInfo": "Bütünleme 2022-2023 Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 126,
@@ -440,160 +471,9 @@
             "unit": 1,
             "topic": "1.4.2. Çocuk Merkezli Oyun Terapisi",
             "source": "Final Soruları",
-            "sourceInfo": "Final 2022-2023 Soru 4"
-        },
-        {
-            "id": 127,
-            "question": "“Oyunun kendisi bir psikoterapidir.” sözü kime aittir?",
-            "options": [
-                "Axline",
-                "Winnicott",
-                "Rogers",
-                "Freud",
-                "Klein"
-            ],
-            "correctIndex": 1,
-            "explanation": "Bu ünlü söz, oyunun çocukların duygusal ve bilişsel gelişimi için bir 'ara yüz' olduğunu söyleyen <ins>D. W. Winnicott'a</ins> aittir.",
-            "unit": 1,
-            "topic": "1.4.3. Deneyimsel Oyun Terapisi",
-            "source": "Vize ve Final Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 9; Vize 2023-2024 Soru 7"
-        },
-        {
-            "id": 128,
-            "question": "Psikodinamik yaklaşımda <ins>“yeterince iyi anne ve geçiş nesnesi”</ins> kavramını kullanan terapist kimdir?",
-            "options": [
-                "Anna Freud",
-                "Melanie Klein",
-                "Erik Ericson",
-                "John Bowlby",
-                "Donald Winnicott"
-            ],
-            "correctIndex": 4,
-            "explanation": "Geçiş nesnesi ve yeterince iyi anne (good enough mother) kavramlarını geliştiren kuramcı <ins>Donald Winnicott'tır</ins>.",
-            "unit": 1,
-            "topic": "1.4.3. Deneyimsel Oyun Terapisi",
-            "source": "Vize ve Üç Ders Soruları",
-            "sourceInfo": "Vize 2021 Soru 33; Üç Ders 2024 Soru 19"
-        },
-        {
-            "id": 129,
-            "question": "Oyun odasına ve oyuncaklara ihtiyaç duymadan gerçekleşen, <ins>ebeveyn ve çocuk arasındaki bağa ve ilişkiyi onarıp geliştirmeye</ins> odaklanan oyun terapisi yöntemi aşağıdakilerden hangisidir?",
-            "options": [
-                "Theraplay",
-                "Adleryan oyun terapisi",
-                "Deneyimsel oyun terapisi",
-                "Psikanalitik çocuk oyun terapisi",
-                "Çocuk merkezli oyun terapisi"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bu tanım, ebeveyn-çocuk arasındaki sağlıklı <ins>bağlanmayı</ins> hedefleyen, yapı, bağlılık, besleme ve mücadele boyutlarında etkinliklerle ilerleyen ilişki odaklı <ins>Theraplay</ı</ins> açıklamaktadır.",
-            "unit": 1,
-            "topic": "1.4.5. Theraplay",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 1, Soru 8; Ünite 4, Soru 3"
-        },
-        {
-            "id": 130,
-            "question": "Theraplay ile ilgili aşağıdakilerden hangisi <ins>söylenemez</ins>?",
-            "options": [
-                "Theraplay kökenini <ins>davranışçı kuramdan</ins> almıştır.",
-                "Temel amacı oyun aracılığıyla ebeveyn-çocuk arası etkileşimin arttırılmasıdır.",
-                "Oyun sırasında bebeklerin sahip olduğu bağlanma özellikleri gözlemlenir.",
-                "Gelişimsel öykü ile ilgili bilgi seanslardan önce alınır.",
-                "Terapist, ebeveynlerle çocukların o an içinde iletişime geçmelerini kolaylaştırır."
-            ],
-            "correctIndex": 0,
-            "explanation": "Theraplay, kökenini <ins>davranışçı kuramdan almamıştır</ins>, aksine <ins>bağlanma kuramından</ins> alır ve bu kurama dayalı olarak ebeveyn-çocuk arasındaki bağı güçlendirmeyi amaçlar.",
-            "unit": 1,
-            "topic": "1.4.5. Theraplay",
-            "source": "Bütünleme ve Final Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 3; Final 2022-2023 Soru 7"
-        },
-        {
-            "id": 131,
-            "question": "Aşağıdaki theraplay ile ilgili terim-tanım eşleştirmelerinden hangisi yanlıştır?",
-            "options": [
-                "Theraplay terapisti: Anne-babalar için rehberlik ederek yapılandırma sunar.",
-                "Besleme boyutu: Burada amaç çocuğun <ins>beceri geliştirmesinin</ins> hedeflenmesi ve özgüvenin oluşturulmasına yardımcı olmaktır.",
-                "Yapı boyutu: Çocuğun içinde bulunduğu atmosferin güvenli olmasıdır.",
-                "Güvenli üs: Güvenli bağlanan bebeklerin çevreyi keşfederken anneye atfettikleri görevdir.",
-                "Bağlılık boyutu: Ebeveynlerin çocukları ile kurduğu pozitif iletişimdir."
-            ],
-            "correctIndex": 1,
-            "explanation": "Beceri geliştirme ve yeterlilik hissinin oluşturulması amacı <ins>Mücadele</ins> boyutuna aittir. <ins>Besleme boyutu</ins> ise çocuğa bakım verme ve duygusal destek sağlamakla ilgilidir.",
-            "unit": 1,
-            "topic": "1.4.5. Theraplay",
-            "source": "Final ve Üç Ders Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 17; Üç Ders 2024 Soru 13"
-        },
-        {
-            "id": 132,
-            "question": "Aşağıdakilerden hangisi Theraplay oyun terapisinin hedeflerinden birisi <ins>değildir</ins>?",
-            "options": [
-                "Anne ve bebek arasındaki ilişkiye ve ihtiyaçlarına odaklanarak bu ihtiyaçların karşılanmasıdır.",
-                "Çocuğun beceri geliştirmesinin hedeflenmesi ve bu sayede kendisine olan özgüveni ve yeterlilik hissinin oluşturulmasına yardımcı olmaktır.",
-                "Ebeveyn ve çocuk arasında uyumlu ve keyifli bir etkileşimi amaçlar.",
-                "Ebeveyn ve çocuk arasındaki duygusal bağın güçlendirilmesini sağlar.",
-                "Öncelikle <ins>ebeveynin ruh sağlığında iyileşmeyi</ins> hedefler."
-            ],
-            "correctIndex": 4,
-            "explanation": "Theraplay temel olarak <ins>ebeveyn-çocuk ilişkisini</ins> ve çocuğun gelişimini hedefler. <ins>Öncelikle ebeveynin ruh sağlığında iyileşmeyi hedeflemesi</ins>, Theraplay’ın doğrudan ve birincil hedefi değildir.",
-            "unit": 1,
-            "topic": "1.4.5. Theraplay",
-            "source": "Final Sınavı",
-            "sourceInfo": "Final 2021 Soru 6"
-        },
-        {
-            "id": 133,
-            "question": "Bağlanma Kuramına göre sağlıklı nüfusun yüzde kaçında <ins>güvenli bağlanma</ins> gelişmiştir?",
-            "options": [
-                "Yüzde 50",
-                "Yüzde 75",
-                "Yüzde 65",
-                "Yüzde 100",
-                "Yüzde 80"
-            ],
-            "correctIndex": 2,
-            "explanation": "Bağlanma Kuramına göre, sağlıklı nüfusun yaklaşık <ins>yüzde 65’inde</ins> güvenli bağlanma stili gelişmiştir.",
-            "unit": 1,
-            "topic": "1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)",
-            "source": "Final Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 5"
-        },
-        {
-            "id": 134,
-            "question": "Bebek annesi ayrıldığında <ins>aşırı tepki veriyor</ins> ve annesi geldiğinde <ins>umursamaz davranıyorsa</ins> bu bebekteki bağlanma türü hangisidir?",
-            "options": [
-                "Kaygılı kararsız bağlanma",
-                "Korkusuz bağlanma",
-                "Kaygılı kaçıngan bağlanma",
-                "Güvenli bağlanma",
-                "Dezorganize bağlanma"
-            ],
-            "correctIndex": 4,
-            "explanation": "Bu tutarsız ve düzensiz tepki örüntüsü (<ins>aşırı tepkiyi umursamazlık takip etmesi</ins>) <ins>Dezorganize Bağlanma</ya</ins> işaret eder. İhmal ve istismar görmüş çocuklarda daha sık görülür.",
-            "unit": 1,
-            "topic": "1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)",
-            "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 20; Bütünleme 2022-2023 Soru 13"
-        },
-        {
-            "id": 135,
-            "question": "“Bu bebekler anneleri varken bile <ins>huzursuzdurlar</ins> ve anne ile kavuşunca yine de <ins>protestoya devam edebilirler</ins>.”<br>Yukarıda verilen tanımlama hangi bağlanma türü için belirgindir?",
-            "options": [
-                "Güvenli bağlanma",
-                "Kaçıngan",
-                "Anksiyöz kaçıngan",
-                "Anksiyöz-ambivalan",
-                "Dezorganize"
-            ],
-            "correctIndex": 3,
-            "explanation": "Huzursuz davranışlar ve anneye karşı çelişkili/kararsız tepkiler (<ins>protestonun devam etmesi</ins>), <ins>Anksiyöz-Ambivalan</ins> bağlanma türünün belirgin özelliğidir.",
-            "unit": 1,
-            "topic": "1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)",
-            "source": "Üç Ders Soruları",
-            "sourceInfo": "Üç Ders 2024 Soru 12"
+            "sourceInfo": "Final 2022-2023 Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 136,
@@ -610,7 +490,180 @@
             "unit": 1,
             "topic": "1.4.2. Çocuk Merkezli Oyun Terapisi",
             "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 9; Bütünleme 2022 Soru 3"
+            "sourceInfo": "Final 2024-2025 Soru 9; Bütünleme 2022 Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 127,
+            "question": "“Oyunun kendisi bir psikoterapidir.” sözü kime aittir?",
+            "options": [
+                "Axline",
+                "Winnicott",
+                "Rogers",
+                "Freud",
+                "Klein"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bu ünlü söz, oyunun çocukların duygusal ve bilişsel gelişimi için bir 'ara yüz' olduğunu söyleyen <ins>D. W. Winnicott'a</ins> aittir.",
+            "unit": 1,
+            "topic": "1.4.3. Deneyimsel Oyun Terapisi",
+            "source": "Vize ve Final Soruları",
+            "sourceInfo": "Final 2023-2024 Soru 9; Vize 2023-2024 Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 128,
+            "question": "Psikodinamik yaklaşımda <ins>“yeterince iyi anne ve geçiş nesnesi”</ins> kavramını kullanan terapist kimdir?",
+            "options": [
+                "Anna Freud",
+                "Melanie Klein",
+                "Erik Ericson",
+                "John Bowlby",
+                "Donald Winnicott"
+            ],
+            "correctIndex": 4,
+            "explanation": "Geçiş nesnesi ve yeterince iyi anne (good enough mother) kavramlarını geliştiren kuramcı <ins>Donald Winnicott'tır</ins>.",
+            "unit": 1,
+            "topic": "1.4.3. Deneyimsel Oyun Terapisi",
+            "source": "Vize ve Üç Ders Soruları",
+            "sourceInfo": "Vize 2021 Soru 33; Üç Ders 2024 Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 129,
+            "question": "Oyun odasına ve oyuncaklara ihtiyaç duymadan gerçekleşen, <ins>ebeveyn ve çocuk arasındaki bağa ve ilişkiyi onarıp geliştirmeye</ins> odaklanan oyun terapisi yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Theraplay",
+                "Adleryan oyun terapisi",
+                "Deneyimsel oyun terapisi",
+                "Psikanalitik çocuk oyun terapisi",
+                "Çocuk merkezli oyun terapisi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bu tanım, ebeveyn-çocuk arasındaki sağlıklı <ins>bağlanmayı</ins> hedefleyen, yapı, bağlılık, besleme ve mücadele boyutlarında etkinliklerle ilerleyen ilişki odaklı <ins>Theraplay</ı</ins> açıklamaktadır.",
+            "unit": 1,
+            "topic": "1.4.5. Theraplay",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 1, Soru 8; Ünite 4, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 130,
+            "question": "Theraplay ile ilgili aşağıdakilerden hangisi <ins>söylenemez</ins>?",
+            "options": [
+                "Theraplay kökenini <ins>davranışçı kuramdan</ins> almıştır.",
+                "Temel amacı oyun aracılığıyla ebeveyn-çocuk arası etkileşimin arttırılmasıdır.",
+                "Oyun sırasında bebeklerin sahip olduğu bağlanma özellikleri gözlemlenir.",
+                "Gelişimsel öykü ile ilgili bilgi seanslardan önce alınır.",
+                "Terapist, ebeveynlerle çocukların o an içinde iletişime geçmelerini kolaylaştırır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Theraplay, kökenini <ins>davranışçı kuramdan almamıştır</ins>, aksine <ins>bağlanma kuramından</ins> alır ve bu kurama dayalı olarak ebeveyn-çocuk arasındaki bağı güçlendirmeyi amaçlar.",
+            "unit": 1,
+            "topic": "1.4.5. Theraplay",
+            "source": "Bütünleme ve Final Soruları",
+            "sourceInfo": "Bütünleme 2023-2024 Soru 3; Final 2022-2023 Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 131,
+            "question": "Aşağıdaki theraplay ile ilgili terim-tanım eşleştirmelerinden hangisi yanlıştır?",
+            "options": [
+                "Theraplay terapisti: Anne-babalar için rehberlik ederek yapılandırma sunar.",
+                "Besleme boyutu: Burada amaç çocuğun <ins>beceri geliştirmesinin</ins> hedeflenmesi ve özgüvenin oluşturulmasına yardımcı olmaktır.",
+                "Yapı boyutu: Çocuğun içinde bulunduğu atmosferin güvenli olmasıdır.",
+                "Güvenli üs: Güvenli bağlanan bebeklerin çevreyi keşfederken anneye atfettikleri görevdir.",
+                "Bağlılık boyutu: Ebeveynlerin çocukları ile kurduğu pozitif iletişimdir."
+            ],
+            "correctIndex": 1,
+            "explanation": "Beceri geliştirme ve yeterlilik hissinin oluşturulması amacı <ins>Mücadele</ins> boyutuna aittir. <ins>Besleme boyutu</ins> ise çocuğa bakım verme ve duygusal destek sağlamakla ilgilidir.",
+            "unit": 1,
+            "topic": "1.4.5. Theraplay",
+            "source": "Final ve Üç Ders Soruları",
+            "sourceInfo": "Final 2023-2024 Soru 17; Üç Ders 2024 Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 132,
+            "question": "Aşağıdakilerden hangisi Theraplay oyun terapisinin hedeflerinden birisi <ins>değildir</ins>?",
+            "options": [
+                "Anne ve bebek arasındaki ilişkiye ve ihtiyaçlarına odaklanarak bu ihtiyaçların karşılanmasıdır.",
+                "Çocuğun beceri geliştirmesinin hedeflenmesi ve bu sayede kendisine olan özgüveni ve yeterlilik hissinin oluşturulmasına yardımcı olmaktır.",
+                "Ebeveyn ve çocuk arasında uyumlu ve keyifli bir etkileşimi amaçlar.",
+                "Ebeveyn ve çocuk arasındaki duygusal bağın güçlendirilmesini sağlar.",
+                "Öncelikle <ins>ebeveynin ruh sağlığında iyileşmeyi</ins> hedefler."
+            ],
+            "correctIndex": 4,
+            "explanation": "Theraplay temel olarak <ins>ebeveyn-çocuk ilişkisini</ins> ve çocuğun gelişimini hedefler. <ins>Öncelikle ebeveynin ruh sağlığında iyileşmeyi hedeflemesi</ins>, Theraplay’ın doğrudan ve birincil hedefi değildir.",
+            "unit": 1,
+            "topic": "1.4.5. Theraplay",
+            "source": "Final Sınavı",
+            "sourceInfo": "Final 2021 Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 133,
+            "question": "Bağlanma Kuramına göre sağlıklı nüfusun yüzde kaçında <ins>güvenli bağlanma</ins> gelişmiştir?",
+            "options": [
+                "Yüzde 50",
+                "Yüzde 75",
+                "Yüzde 65",
+                "Yüzde 100",
+                "Yüzde 80"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bağlanma Kuramına göre, sağlıklı nüfusun yaklaşık <ins>yüzde 65’inde</ins> güvenli bağlanma stili gelişmiştir.",
+            "unit": 1,
+            "topic": "1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)",
+            "source": "Final Soruları",
+            "sourceInfo": "Final 2023-2024 Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 134,
+            "question": "Bebek annesi ayrıldığında <ins>aşırı tepki veriyor</ins> ve annesi geldiğinde <ins>umursamaz davranıyorsa</ins> bu bebekteki bağlanma türü hangisidir?",
+            "options": [
+                "Kaygılı kararsız bağlanma",
+                "Korkusuz bağlanma",
+                "Kaygılı kaçıngan bağlanma",
+                "Güvenli bağlanma",
+                "Dezorganize bağlanma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Bu tutarsız ve düzensiz tepki örüntüsü (<ins>aşırı tepkiyi umursamazlık takip etmesi</ins>) <ins>Dezorganize Bağlanma</ya</ins> işaret eder. İhmal ve istismar görmüş çocuklarda daha sık görülür.",
+            "unit": 1,
+            "topic": "1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)",
+            "source": "Final ve Bütünleme Soruları",
+            "sourceInfo": "Final 2024-2025 Soru 20; Bütünleme 2022-2023 Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 135,
+            "question": "“Bu bebekler anneleri varken bile <ins>huzursuzdurlar</ins> ve anne ile kavuşunca yine de <ins>protestoya devam edebilirler</ins>.”<br>Yukarıda verilen tanımlama hangi bağlanma türü için belirgindir?",
+            "options": [
+                "Güvenli bağlanma",
+                "Kaçıngan",
+                "Anksiyöz kaçıngan",
+                "Anksiyöz-ambivalan",
+                "Dezorganize"
+            ],
+            "correctIndex": 3,
+            "explanation": "Huzursuz davranışlar ve anneye karşı çelişkili/kararsız tepkiler (<ins>protestonun devam etmesi</ins>), <ins>Anksiyöz-Ambivalan</ins> bağlanma türünün belirgin özelliğidir.",
+            "unit": 1,
+            "topic": "1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)",
+            "source": "Üç Ders Soruları",
+            "sourceInfo": "Üç Ders 2024 Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 201,
@@ -627,7 +680,9 @@
             "unit": 2,
             "topic": "2.1. Oyun Terapisi Odasının Genel Özellikleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 6"
+            "sourceInfo": "Ünite 2, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 202,
@@ -644,7 +699,9 @@
             "unit": 2,
             "topic": "2.1. Oyun Terapisi Odasının Genel Özellikleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 10"
+            "sourceInfo": "Ünite 2, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 203,
@@ -661,7 +718,9 @@
             "unit": 2,
             "topic": "2.1. Oyun Terapisi Odasının Genel Özellikleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 7"
+            "sourceInfo": "Ünite 2, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 204,
@@ -678,7 +737,9 @@
             "unit": 2,
             "topic": "2.1. Oyun Terapisi Odasının Genel Özellikleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 4"
+            "sourceInfo": "Ünite 2, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 205,
@@ -695,7 +756,9 @@
             "unit": 2,
             "topic": "2.1. Oyun Terapisi Odasının Genel Özellikleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 1"
+            "sourceInfo": "Ünite 2, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 206,
@@ -712,7 +775,9 @@
             "unit": 2,
             "topic": "2.1. Oyun Terapisi Odasının Genel Özellikleri",
             "source": "Vize ve Üç Ders Soruları",
-            "sourceInfo": "Vize 2021 Soru 24; Üç Ders 2024 Soru 6"
+            "sourceInfo": "Vize 2021 Soru 24; Üç Ders 2024 Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 207,
@@ -729,7 +794,9 @@
             "unit": 2,
             "topic": "2.1. Oyun Terapisi Odasının Genel Özellikleri",
             "source": "Final Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 16"
+            "sourceInfo": "Final 2023-2024 Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 208,
@@ -746,7 +813,9 @@
             "unit": 2,
             "topic": "2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları",
             "source": "Vize ve Final Soruları",
-            "sourceInfo": "Vize 2021 Soru 36; Final 2022-2023 Soru 13"
+            "sourceInfo": "Vize 2021 Soru 36; Final 2022-2023 Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 209,
@@ -763,7 +832,9 @@
             "unit": 2,
             "topic": "2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 3"
+            "sourceInfo": "Ünite 2, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 210,
@@ -780,7 +851,9 @@
             "unit": 2,
             "topic": "2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 8"
+            "sourceInfo": "Ünite 2, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 211,
@@ -797,7 +870,9 @@
             "unit": 2,
             "topic": "2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları",
             "source": "Vize Soruları",
-            "sourceInfo": "Vize 2023-2024 Soru 20; Vize 2024-2025 Soru 20"
+            "sourceInfo": "Vize 2023-2024 Soru 20; Vize 2024-2025 Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 212,
@@ -814,7 +889,9 @@
             "unit": 2,
             "topic": "2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 5"
+            "sourceInfo": "Ünite 2, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 213,
@@ -831,7 +908,9 @@
             "unit": 2,
             "topic": "2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları",
             "source": "Vize ve Üç Ders Soruları",
-            "sourceInfo": "Vize 2021 Soru 35; Üç Ders 2024 Soru 5"
+            "sourceInfo": "Vize 2021 Soru 35; Üç Ders 2024 Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 214,
@@ -848,7 +927,9 @@
             "unit": 2,
             "topic": "2.3. Oyun Terapisi Malzeme Seçiminde Dikkat Edilecek Hususlar",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 9"
+            "sourceInfo": "Ünite 2, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 215,
@@ -865,24 +946,9 @@
             "unit": 2,
             "topic": "2.3. Oyun Terapisi Malzeme Seçiminde Dikkat Edilecek Hususlar",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 2, Soru 2"
-        },
-        {
-            "id": 216,
-            "question": "Kum tepsisi terapisi yapmak için yukarıdakilerden hangileri <ins>gerekli değildir</ins>?<br>I. Terapi kumu<br>II. Terapi odası<br>III. Kum yoksa öğütülmüş tahıllar<br>IV. <ins>Tepsi yoksa yerde serbest kum</ins><br>V. Minyatürler<br>VI. <ins>Ahşap bebek evi</ins>",
-            "options": [
-                "IV ve V",
-                "II, III ve V",
-                "IV ve VI",
-                "II ve VI",
-                "I, III ve IV"
-            ],
-            "correctIndex": 2,
-            "explanation": "Kum tepsisi terapisi için bir tepsinin ve minyatürlerin olması esastır. Bu nedenle <ins>yerde serbest kum (IV)</ins> ve <ins>Ahşap bebek evi (VI)</ins> zorunlu bileşenler arasında sayılmaz.",
-            "unit": 2,
-            "topic": "2.4. Kum Terapisi ve Figürlerin Düzenlenmesi",
-            "source": "Final Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 3; Bütünleme 2022 Soru 12"
+            "sourceInfo": "Ünite 2, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 217,
@@ -899,7 +965,9 @@
             "unit": 2,
             "topic": "2.4.1. Kum Tepsisi (Sandtray)",
             "source": "Bütünleme ve Final Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 7; Final 2024-2025 Soru 17"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 7; Final 2024-2025 Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 218,
@@ -916,7 +984,9 @@
             "unit": 2,
             "topic": "2.4.1. Kum Tepsisi (Sandtray)",
             "source": "Final Sınavı",
-            "sourceInfo": "Final 2021 Soru 10; Final 2023-2024 Soru 6"
+            "sourceInfo": "Final 2021 Soru 10; Final 2023-2024 Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 219,
@@ -933,7 +1003,9 @@
             "unit": 2,
             "topic": "2.4.1. Kum Tepsisi (Sandtray)",
             "source": "Final Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 14; Final 2023-2024 Soru 14"
+            "sourceInfo": "Final 2024-2025 Soru 14; Final 2023-2024 Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 220,
@@ -950,7 +1022,9 @@
             "unit": 2,
             "topic": "2.4.1. Kum Tepsisi (Sandtray)",
             "source": "Final ve Üç Ders Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 15; Üç Ders 2024 Soru 11"
+            "sourceInfo": "Final 2024-2025 Soru 15; Üç Ders 2024 Soru 11",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 221,
@@ -967,7 +1041,9 @@
             "unit": 2,
             "topic": "2.4.2. Terapötik Materyaller (Minyatür Figürler ve Objeler)",
             "source": "Bütünleme ve Final Soruları",
-            "sourceInfo": "Bütünleme 2022 Soru 1; Final 2021 Soru 17"
+            "sourceInfo": "Bütünleme 2022 Soru 1; Final 2021 Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 222,
@@ -984,7 +1060,28 @@
             "unit": 2,
             "topic": "2.4.2. Terapötik Materyaller (Minyatür Figürler ve Objeler)",
             "source": "Bütünleme Soruları",
-            "sourceInfo": "Bütünleme 2022-2023 Soru 1"
+            "sourceInfo": "Bütünleme 2022-2023 Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 216,
+            "question": "Kum tepsisi terapisi yapmak için yukarıdakilerden hangileri <ins>gerekli değildir</ins>?<br>I. Terapi kumu<br>II. Terapi odası<br>III. Kum yoksa öğütülmüş tahıllar<br>IV. <ins>Tepsi yoksa yerde serbest kum</ins><br>V. Minyatürler<br>VI. <ins>Ahşap bebek evi</ins>",
+            "options": [
+                "IV ve V",
+                "II, III ve V",
+                "IV ve VI",
+                "II ve VI",
+                "I, III ve IV"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kum tepsisi terapisi için bir tepsinin ve minyatürlerin olması esastır. Bu nedenle <ins>yerde serbest kum (IV)</ins> ve <ins>Ahşap bebek evi (VI)</ins> zorunlu bileşenler arasında sayılmaz.",
+            "unit": 2,
+            "topic": "2.4. Kum Terapisi ve Figürlerin Düzenlenmesi",
+            "source": "Final Soruları",
+            "sourceInfo": "Final 2023-2024 Soru 3; Bütünleme 2022 Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 301,
@@ -1001,7 +1098,9 @@
             "unit": 3,
             "topic": "3.1.1. Oyun Terapisi Nedir?",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 3, Soru 1"
+            "sourceInfo": "Ünite 3, Soru 1",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 302,
@@ -1018,7 +1117,9 @@
             "unit": 3,
             "topic": "3.2. Oyun Terapisinin Gelişimsel İşlevleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 3, Soru 3"
+            "sourceInfo": "Ünite 3, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 303,
@@ -1035,7 +1136,9 @@
             "unit": 3,
             "topic": "3.3.1. Yönlendirmesiz (Çocuk Merkezli) Oyun Terapisinde Terapistin Rolü",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 3, Soru 2"
+            "sourceInfo": "Ünite 3, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 304,
@@ -1052,7 +1155,9 @@
             "unit": 3,
             "topic": "3.3.1. Yönlendirmesiz (Çocuk Merkezli) Oyun Terapisinde Terapistin Rolü",
             "source": "Bütünleme ve Final Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 15; Üç Ders 2024 Soru 9"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 15; Üç Ders 2024 Soru 9",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 305,
@@ -1069,7 +1174,9 @@
             "unit": 3,
             "topic": "3.3.1. Yönlendirmesiz (Çocuk Merkezli) Oyun Terapisinde Terapötik Süreç",
             "source": "Bütünleme ve Final Soruları",
-            "sourceInfo": "Bütünleme 2022 Soru 3; Final 2024-2025 Soru 9"
+            "sourceInfo": "Bütünleme 2022 Soru 3; Final 2024-2025 Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 306,
@@ -1086,7 +1193,9 @@
             "unit": 3,
             "topic": "3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç",
             "source": "Bütünleme ve Üç Ders Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 6; Üç Ders 2024 Soru 6"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 6; Üç Ders 2024 Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 307,
@@ -1103,7 +1212,9 @@
             "unit": 3,
             "topic": "3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç",
             "source": "Bütünleme Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 4"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 308,
@@ -1120,7 +1231,9 @@
             "unit": 3,
             "topic": "3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç",
             "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 2; Bütünleme 2022 Soru 19"
+            "sourceInfo": "Final 2024-2025 Soru 2; Bütünleme 2022 Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 309,
@@ -1137,7 +1250,9 @@
             "unit": 3,
             "topic": "3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 3, Soru 6"
+            "sourceInfo": "Ünite 3, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 310,
@@ -1154,7 +1269,9 @@
             "unit": 3,
             "topic": "3.3.3. Psikodinamik Oyun Terapisinde Terapistin Rolü",
             "source": "Bütünleme ve Vize Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 8; Vize 2021 Soru 19"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 8; Vize 2021 Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 311,
@@ -1171,7 +1288,9 @@
             "unit": 3,
             "topic": "3.3.3. Psikodinamik Oyun Terapisinde Terapötik Süreç",
             "source": "Final Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 10 / 19"
+            "sourceInfo": "Final 2024-2025 Soru 10 / 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 312,
@@ -1188,7 +1307,9 @@
             "unit": 3,
             "topic": "3.3.4. Eklektik Oyun Terapisinde Terapötik Süreç",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 3, Soru 10"
+            "sourceInfo": "Ünite 3, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 313,
@@ -1205,7 +1326,9 @@
             "unit": 3,
             "topic": "3.4.1. Kum Oyunu (Sandplay Therapy) Terapisinde Terapötik Süreç",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 3, Soru 4"
+            "sourceInfo": "Ünite 3, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 314,
@@ -1222,24 +1345,9 @@
             "unit": 3,
             "topic": "3.5.1. Terapistin Tutumu Nasıl Olmalıdır?",
             "source": "Bütünleme ve Vize Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 14; Vize 2024-2025 Soru 14"
-        },
-        {
-            "id": 315,
-            "question": "Oyun terapisindeki seanslar gruplanırsa aşağıdaki sıralamalardan hangisi <ins>doğru</ins> olur?",
-            "options": [
-                "Dayanışma İlişkisi Geliştirme - Yapılandırılmış Çalışma - Sonlandırma",
-                "Başlangıç - Ayrıntılı Çalışma - Aileyle Çalışma - Veda",
-                "Çocukla İlişki Kurma - Çocukla Dayanışma - Sonlandırma",
-                "Tanışma - Ayrıntılı Çalışma - Sonlandırma",
-                "Dayanışma İlişkisi Geliştirme - Ayrıntılı Çalışma - Sonlandırma"
-            ],
-            "correctIndex": 4,
-            "explanation": "Oyun terapisindeki genel seans sıralaması; <ins>Dayanışma İlişkisi Geliştirme</ins> (güven inşa etme), <ins>Ayrıntılı Çalışma</ins> (müdahale) ve <ins>Sonlandırma</ins> (veda/kazanımları pekiştirme) şeklindedir.",
-            "unit": 3,
-            "topic": "3.6. Oyun Terapisinde Uygulama Süreçleri",
-            "source": "Bütünleme ve Üç Ders Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 12; Üç Ders 2024 Soru 20"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 14; Vize 2024-2025 Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 316,
@@ -1256,7 +1364,9 @@
             "unit": 3,
             "topic": "3.6.1. Ön Görüşme ve Değerlendirme",
             "source": "Bütünleme Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 2; Bütünleme 2022 Soru 12"
+            "sourceInfo": "Bütünleme 2023-2024 Soru 2; Bütünleme 2022 Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 317,
@@ -1273,7 +1383,28 @@
             "unit": 3,
             "topic": "3.6.5. Sürecin Sonlandırılması",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 3, Soru 5"
+            "sourceInfo": "Ünite 3, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 315,
+            "question": "Oyun terapisindeki seanslar gruplanırsa aşağıdaki sıralamalardan hangisi <ins>doğru</ins> olur?",
+            "options": [
+                "Dayanışma İlişkisi Geliştirme - Yapılandırılmış Çalışma - Sonlandırma",
+                "Başlangıç - Ayrıntılı Çalışma - Aileyle Çalışma - Veda",
+                "Çocukla İlişki Kurma - Çocukla Dayanışma - Sonlandırma",
+                "Tanışma - Ayrıntılı Çalışma - Sonlandırma",
+                "Dayanışma İlişkisi Geliştirme - Ayrıntılı Çalışma - Sonlandırma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Oyun terapisindeki genel seans sıralaması; <ins>Dayanışma İlişkisi Geliştirme</ins> (güven inşa etme), <ins>Ayrıntılı Çalışma</ins> (müdahale) ve <ins>Sonlandırma</ins> (veda/kazanımları pekiştirme) şeklindedir.",
+            "unit": 3,
+            "topic": "3.6. Oyun Terapisinde Uygulama Süreçleri",
+            "source": "Bütünleme ve Üç Ders Soruları",
+            "sourceInfo": "Bütünleme 2023-2024 Soru 12; Üç Ders 2024 Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 401,
@@ -1290,75 +1421,9 @@
             "unit": 4,
             "topic": "4.1. Oyun Terapisinde Ebeveyn ve Aile Katılımı",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 4, Soru 9"
-        },
-        {
-            "id": 402,
-            "question": "Aşağıdakilerden hangisi Ray ve Landreth’e göre ebeveyn danışmanlıklarının amaçları arasında yer <ins>almaz</ins>?",
-            "options": [
-                "Ebeveyne destek olmak",
-                "Ebeveynlere <ins>bireysel psikolojik danışmanlık hizmeti sunmak</ins>",
-                "Ebeveyne bilgi ve beceri öğretimi",
-                "Terapi sürecinin ilerlemesinin izlenmesi",
-                "Terapi ile beraber ebeveynin tutum veya davranışlarının değerlendirilerek değişimini sağlamak"
-            ],
-            "correctIndex": 1,
-            "explanation": "Ebeveyn danışmanlığı, çocuğun sorunlarına odaklanmış bilgi ve beceri öğretimine yöneliktir. <ins>Bireysel psikolojik danışmanlık hizmeti</ins> vermek, birincil amaç değildir.",
-            "unit": 4,
-            "topic": "4.4. Ebeveyn Danışmanlığı ve Ebeveyn Danışmanlığında Sıkça Ele Alınan Konular",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 4, Soru 1"
-        },
-        {
-            "id": 403,
-            "question": "<ins>Aile terapisi kuramı ve çocuk merkezli oyun terapisini</ins> birleştiren terapi türü aşağıdakilerden hangisidir?",
-            "options": [
-                "Aile danışmanlığı",
-                "Filial terapi",
-                "Kum tepsisi terapisi",
-                "Psikodrama",
-                "Theraplay"
-            ],
-            "correctIndex": 1,
-            "explanation": "<ins>Filial terapi</ins> (Aile Katılımlı Oyun Terapisi), ebeveyni terapötik aracı olarak kullanarak <ins>Çocuk Merkezli Oyun Terapisi</nin</ins> ilkelerini <ins>Aile Terapisi</nin</ins> sistemik bakış açısıyla birleştirir.",
-            "unit": 4,
-            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
-            "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 5; Bütünleme 2022-2023 Soru 3"
-        },
-        {
-            "id": 404,
-            "question": "Aşağıdakilerden hangisi <ins>Filial Terapi’de</ins> kullanılan beceriler arasında yer <ins>almaz</ins>?",
-            "options": [
-                "Empatik yansıtma",
-                "Yapılandırma",
-                "Oyunla dikkat testi uygulama",
-                "Sınır koyma",
-                "Çocuk merkezli hayali oyun"
-            ],
-            "correctIndex": 2,
-            "explanation": "Filial terapide amaçlanan; ilişkiyi güçlendirmek ve ebeveyn becerilerini artırmaktır. <ins>Oyunla dikkat testi uygulamak</ins> (tanısal ve yapılandırılmış bir teknik) bu beceriler arasında yer almaz.",
-            "unit": 4,
-            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 3"
-        },
-        {
-            "id": 405,
-            "question": "Aşağıdakilerden hangisi <ins>Filial Terapi’nin amaçlarından değildir</ins>?",
-            "options": [
-                "Ebeveyn-çocuk ilişki kalitesini iyileştirmek",
-                "Ebeveyn-çocuk arasındaki güvenli bağı ve yakınlığı arttırmak",
-                "Sevgi başta olmak üzere duyguları ifade etmelerini güçlendirmek",
-                "Sorun çözme becerileri geliştirmek",
-                "Çocukta görülen <ins>bilişsel sorunları düzeltmek</ins>"
-            ],
-            "correctIndex": 4,
-            "explanation": "Filial terapi, duygusal ve ilişkisel sorunlara odaklanır. <ins>Çocukta görülen bilişsel sorunları düzeltmek</ins> (örneğin öğrenme güçlüğü) terapinin doğrudan amacı değildir.",
-            "unit": 4,
-            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
-            "source": "Final Sınavı",
-            "sourceInfo": "Final 2021 Soru 1"
+            "sourceInfo": "Ünite 4, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 406,
@@ -1375,75 +1440,9 @@
             "unit": 4,
             "topic": "4.3 Farklı Oyun Terapilerinde Ebeveyn ve Aile Katılımı",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 4, Soru 6"
-        },
-        {
-            "id": 407,
-            "question": "Filial terapi uygulamaları ile ilgili aşağıdaki ifadelerden hangisi <ins>yanlıştır</ins>?",
-            "options": [
-                "Filial terapi uygulaması için çocuk merkezli oyun terapisi hakkında bilgi verilmelidir.",
-                "Filial terapisti öncelikle nasıl oyun teknikleri uygulanacağını aileye gösterir.",
-                "Filial terapi uygulamaları evdeki seanslara döndüğünde <ins>sınır koyulmaz</ins>.",
-                "Filial terapi süresi, yaşanan sorun ve ailenin durumuna göre değişkenlik gösterir.",
-                "Filial terapi uygulamalarında uygun olan, ebeveynlerin tüm çocukları ile ayrı ayrı seansları yapmasıdır."
-            ],
-            "correctIndex": 2,
-            "explanation": "Filial terapide, evdeki seanslarda bile <ins>yapılandırma ve sınır koyma becerisi</ins> kullanılmalıdır. Bu nedenle 'sınır koyulmaz' ifadesi <ins>yanlıştır</ins>.",
-            "unit": 4,
-            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
-            "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 9 / 13; Bütünleme 2022-2023 Soru 8"
-        },
-        {
-            "id": 408,
-            "question": "Aşağıdakilerden hangisi Filial Terapi’de ebeveyne sunulan ve gerçekleştirmesi gereken temel becerilerden birisi <ins>değildir</ins>?",
-            "options": [
-                "Empatik dinleme becerisi",
-                "Sınır koyma becerisi",
-                "Seansları yapılandırma",
-                "Süpervizyonluk yapma",
-                "Çocuğun hayali oyununda verilen role grime"
-            ],
-            "correctIndex": 3,
-            "explanation": "Filial terapide ebeveynin rolü; <ins>Yapılandırma, Empatik Dinleme, Çocuk Merkezli Hayali Oyun ve Sınır Koyma</ins> becerilerini uygulamaktır. <ins>Süpervizyonluk yapma</ins>, ebeveynin değil <ins>terapistin</ins> görevidir.",
-            "unit": 4,
-            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
-            "source": "Final Sınavı",
-            "sourceInfo": "Final 2021 Soru 11"
-        },
-        {
-            "id": 409,
-            "question": "Sınır koyma aşamaları yukarıda karışık halde verilmiştir. Sınır koyma aşamalarının doğru sıralanmış hali aşağıdakilerden hangisidir?<br>1. Uygun alternatifler sunmak<br>2. Çocuğun duygularını ve isteklerini anlamak<br>3. Kararlı bir biçimde sınırı uygulamak<br>4. Sınırı açık ve net şekilde ifade etmek",
-            "options": [
-                "2-4-1-3",
-                "4-2-3-1",
-                "2-4-3-1",
-                "4-2-1-3",
-                "3-2-4-1"
-            ],
-            "correctIndex": 0,
-            "explanation": "Sınır koymanın doğru sıralaması ACT (Accept - Kabul Et, Communicate - İletişim Kur, Target - Hedefle) yöntemine benzerdir: 1) <ins>Duyguları ve istekleri anlama (2)</ins>, 2) <ins>Sınırı açık ve net şekilde ifade etme (4)</ins>, 3) <ins>Uygun alternatifler sunma (1)</ins>, 4) <ins>Kararlı bir biçimde sınırı uygulama (3)</ins>.",
-            "unit": 4,
-            "topic": "4.4.3. Sınır Koyma",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 4, Soru 4"
-        },
-        {
-            "id": 410,
-            "question": "“Yüzümü çizmen hâlinde oyun odasından ayrılmamız gerekeceğini söylediğimi hatırla. Yüzümü çizmeyi seçtiğin için, şimdi odadan çıkmak zorundayız.” Terapistin bu ifadesi hangi kavrama denk düşer?",
-            "options": [
-                "İlişki kurma",
-                "Empatik konuşma",
-                "Sınırları ifade etme",
-                "Uyarıda bulunma",
-                "Sonucunu uygulama"
-            ],
-            "correctIndex": 4,
-            "explanation": "Terapist, önceden belirlenen sınırın ihlali durumunda kararlı bir şekilde <ins>Sonucunu uygulama</ins> aşamasını gerçekleştirmektedir.",
-            "unit": 4,
-            "topic": "4.4.3. Sınır Koyma",
-            "source": "Bütünleme ve Final Soruları",
-            "sourceInfo": "Bütünleme 2023-2024 Soru 1; Final 2022-2023 Soru 8"
+            "sourceInfo": "Ünite 4, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 411,
@@ -1460,7 +1459,161 @@
             "unit": 4,
             "topic": "4.3.2.2. Psikanalitik Oyun Terapisinde Ebeveyn ve Aile Katılımı",
             "source": "Ünite ve Vize Soruları",
-            "sourceInfo": "Vize 2021 Soru 3; Ünite 4, Anahtar Kavram"
+            "sourceInfo": "Vize 2021 Soru 3; Ünite 4, Anahtar Kavram",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 403,
+            "question": "<ins>Aile terapisi kuramı ve çocuk merkezli oyun terapisini</ins> birleştiren terapi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Aile danışmanlığı",
+                "Filial terapi",
+                "Kum tepsisi terapisi",
+                "Psikodrama",
+                "Theraplay"
+            ],
+            "correctIndex": 1,
+            "explanation": "<ins>Filial terapi</ins> (Aile Katılımlı Oyun Terapisi), ebeveyni terapötik aracı olarak kullanarak <ins>Çocuk Merkezli Oyun Terapisi</nin</ins> ilkelerini <ins>Aile Terapisi</nin</ins> sistemik bakış açısıyla birleştirir.",
+            "unit": 4,
+            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
+            "source": "Final ve Bütünleme Soruları",
+            "sourceInfo": "Final 2024-2025 Soru 5; Bütünleme 2022-2023 Soru 3",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 404,
+            "question": "Aşağıdakilerden hangisi <ins>Filial Terapi’de</ins> kullanılan beceriler arasında yer <ins>almaz</ins>?",
+            "options": [
+                "Empatik yansıtma",
+                "Yapılandırma",
+                "Oyunla dikkat testi uygulama",
+                "Sınır koyma",
+                "Çocuk merkezli hayali oyun"
+            ],
+            "correctIndex": 2,
+            "explanation": "Filial terapide amaçlanan; ilişkiyi güçlendirmek ve ebeveyn becerilerini artırmaktır. <ins>Oyunla dikkat testi uygulamak</ins> (tanısal ve yapılandırılmış bir teknik) bu beceriler arasında yer almaz.",
+            "unit": 4,
+            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 6, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 405,
+            "question": "Aşağıdakilerden hangisi <ins>Filial Terapi’nin amaçlarından değildir</ins>?",
+            "options": [
+                "Ebeveyn-çocuk ilişki kalitesini iyileştirmek",
+                "Ebeveyn-çocuk arasındaki güvenli bağı ve yakınlığı arttırmak",
+                "Sevgi başta olmak üzere duyguları ifade etmelerini güçlendirmek",
+                "Sorun çözme becerileri geliştirmek",
+                "Çocukta görülen <ins>bilişsel sorunları düzeltmek</ins>"
+            ],
+            "correctIndex": 4,
+            "explanation": "Filial terapi, duygusal ve ilişkisel sorunlara odaklanır. <ins>Çocukta görülen bilişsel sorunları düzeltmek</ins> (örneğin öğrenme güçlüğü) terapinin doğrudan amacı değildir.",
+            "unit": 4,
+            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
+            "source": "Final Sınavı",
+            "sourceInfo": "Final 2021 Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 407,
+            "question": "Filial terapi uygulamaları ile ilgili aşağıdaki ifadelerden hangisi <ins>yanlıştır</ins>?",
+            "options": [
+                "Filial terapi uygulaması için çocuk merkezli oyun terapisi hakkında bilgi verilmelidir.",
+                "Filial terapisti öncelikle nasıl oyun teknikleri uygulanacağını aileye gösterir.",
+                "Filial terapi uygulamaları evdeki seanslara döndüğünde <ins>sınır koyulmaz</ins>.",
+                "Filial terapi süresi, yaşanan sorun ve ailenin durumuna göre değişkenlik gösterir.",
+                "Filial terapi uygulamalarında uygun olan, ebeveynlerin tüm çocukları ile ayrı ayrı seansları yapmasıdır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Filial terapide, evdeki seanslarda bile <ins>yapılandırma ve sınır koyma becerisi</ins> kullanılmalıdır. Bu nedenle 'sınır koyulmaz' ifadesi <ins>yanlıştır</ins>.",
+            "unit": 4,
+            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
+            "source": "Final ve Bütünleme Soruları",
+            "sourceInfo": "Final 2024-2025 Soru 9 / 13; Bütünleme 2022-2023 Soru 8",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 408,
+            "question": "Aşağıdakilerden hangisi Filial Terapi’de ebeveyne sunulan ve gerçekleştirmesi gereken temel becerilerden birisi <ins>değildir</ins>?",
+            "options": [
+                "Empatik dinleme becerisi",
+                "Sınır koyma becerisi",
+                "Seansları yapılandırma",
+                "Süpervizyonluk yapma",
+                "Çocuğun hayali oyununda verilen role grime"
+            ],
+            "correctIndex": 3,
+            "explanation": "Filial terapide ebeveynin rolü; <ins>Yapılandırma, Empatik Dinleme, Çocuk Merkezli Hayali Oyun ve Sınır Koyma</ins> becerilerini uygulamaktır. <ins>Süpervizyonluk yapma</ins>, ebeveynin değil <ins>terapistin</ins> görevidir.",
+            "unit": 4,
+            "topic": "4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı",
+            "source": "Final Sınavı",
+            "sourceInfo": "Final 2021 Soru 11",
+            "occurrence_count": 2,
+            "is_duplicate": false
+        },
+        {
+            "id": 409,
+            "question": "Sınır koyma aşamaları yukarıda karışık halde verilmiştir. Sınır koyma aşamalarının doğru sıralanmış hali aşağıdakilerden hangisidir?<br>1. Uygun alternatifler sunmak<br>2. Çocuğun duygularını ve isteklerini anlamak<br>3. Kararlı bir biçimde sınırı uygulamak<br>4. Sınırı açık ve net şekilde ifade etmek",
+            "options": [
+                "2-4-1-3",
+                "4-2-3-1",
+                "2-4-3-1",
+                "4-2-1-3",
+                "3-2-4-1"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sınır koymanın doğru sıralaması ACT (Accept - Kabul Et, Communicate - İletişim Kur, Target - Hedefle) yöntemine benzerdir: 1) <ins>Duyguları ve istekleri anlama (2)</ins>, 2) <ins>Sınırı açık ve net şekilde ifade etme (4)</ins>, 3) <ins>Uygun alternatifler sunma (1)</ins>, 4) <ins>Kararlı bir biçimde sınırı uygulama (3)</ins>.",
+            "unit": 4,
+            "topic": "4.4.3. Sınır Koyma",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 4, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 410,
+            "question": "“Yüzümü çizmen hâlinde oyun odasından ayrılmamız gerekeceğini söylediğimi hatırla. Yüzümü çizmeyi seçtiğin için, şimdi odadan çıkmak zorundayız.” Terapistin bu ifadesi hangi kavrama denk düşer?",
+            "options": [
+                "İlişki kurma",
+                "Empatik konuşma",
+                "Sınırları ifade etme",
+                "Uyarıda bulunma",
+                "Sonucunu uygulama"
+            ],
+            "correctIndex": 4,
+            "explanation": "Terapist, önceden belirlenen sınırın ihlali durumunda kararlı bir şekilde <ins>Sonucunu uygulama</ins> aşamasını gerçekleştirmektedir.",
+            "unit": 4,
+            "topic": "4.4.3. Sınır Koyma",
+            "source": "Bütünleme ve Final Soruları",
+            "sourceInfo": "Bütünleme 2023-2024 Soru 1; Final 2022-2023 Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 402,
+            "question": "Aşağıdakilerden hangisi Ray ve Landreth’e göre ebeveyn danışmanlıklarının amaçları arasında yer <ins>almaz</ins>?",
+            "options": [
+                "Ebeveyne destek olmak",
+                "Ebeveynlere <ins>bireysel psikolojik danışmanlık hizmeti sunmak</ins>",
+                "Ebeveyne bilgi ve beceri öğretimi",
+                "Terapi sürecinin ilerlemesinin izlenmesi",
+                "Terapi ile beraber ebeveynin tutum veya davranışlarının değerlendirilerek değişimini sağlamak"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ebeveyn danışmanlığı, çocuğun sorunlarına odaklanmış bilgi ve beceri öğretimine yöneliktir. <ins>Bireysel psikolojik danışmanlık hizmeti</ins> vermek, birincil amaç değildir.",
+            "unit": 4,
+            "topic": "4.4. Ebeveyn Danışmanlığı ve Ebeveyn Danışmanlığında Sıkça Ele Alınan Konular",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 4, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 501,
@@ -1477,75 +1630,9 @@
             "unit": 5,
             "topic": "5.1.1. Yönlendirmesiz Oyun Terapisinin Temel İlkeleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 5, Soru 1"
-        },
-        {
-            "id": 502,
-            "question": "Aşağıdaki ifadelerden hangisi yönlendirmesiz oyun terapisinde terapistin rolünü en iyi tanımlar?",
-            "options": [
-                "Oyuna hemen katılmak için çocuğu teşvik etmek",
-                "Seansın sonunda çocuğa ödül vermek",
-                "Çocuğun duygusal açılımı için zaman tanımak",
-                "Her seansta farklı materyal sunmak",
-                "Seans sırasında hedef belirlemek"
-            ],
-            "correctIndex": 2,
-            "explanation": "Yönlendirmesiz terapide terapist, çocuğun kendi kendini yönlendirme kapasitesine güvenir ve <ins>duygusal açılımı için zaman tanıyarak</ins> süreci hızlandırmaktan kaçınır.",
-            "unit": 5,
-            "topic": "5.1.4. Terapistin Konumu",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 5, Soru 5"
-        },
-        {
-            "id": 503,
-            "question": "Yönlendirmesiz oyun terapisinde oyuncak seçiminde <ins>popüler kültür figürlerinden</ins> uzak durulmasının nedeni nedir?",
-            "options": [
-                "Daha pahalı oyuncaklara yer açmak",
-                "Çocuğun dikkatini farklı yöne çekmek",
-                "Yaratıcılığı sınırlayan temalardan kaçınmak",
-                "Oyuncakları kolayca tanıyabilmek",
-                "Çocuğun yaşını belirlemek"
-            ],
-            "correctIndex": 2,
-            "explanation": "Yönlendirmesiz oyun terapisinde kullanılan oyuncaklar, popüler kültürden uzak olmalı ve <ins>yaratıcılığı sınırlayan temalardan kaçınarak</ins> çocuğun kendi duygusal ifadesini geliştirmesine olanak tanımalıdır.",
-            "unit": 5,
-            "topic": "5.1.3. Oyun Odasında Bulunması Gereken Materyaller",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 5, Soru 6"
-        },
-        {
-            "id": 504,
-            "question": "Aşağıdakilerden hangisi yönlendirmesiz oyun terapisinde ebeveyn katılımının amaçlarından biri <ins>değildir</ins>?",
-            "options": [
-                "Terapötik kazanımların ev ortamına taşınması",
-                "Ebeveynin çocukla empatik ilişki geliştirmesi",
-                "Ebeveynin sınır koyma becerilerini desteklemek",
-                "Ebeveynin terapi sürecine <ins>doğrudan yön vermesi</ins>",
-                "Ebeveynin duygusal farkındalığını artırmak"
-            ],
-            "correctIndex": 3,
-            "explanation": "Yönlendirmesiz oyun terapisinde terapist, çocuğun özerkliğine güvenir. Bu nedenle, <ins>Ebeveynin terapi sürecine doğrudan yön vermesi</ins> amaçlanan bir durum değildir.",
-            "unit": 5,
-            "topic": "5.1.5. Ebeveyn Katılımı",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 5, Soru 7"
-        },
-        {
-            "id": 505,
-            "question": "Terapistin “Oyunumuz beş dakika sonra sona erecek.” demesi ne tür bir sınıra örnektir?",
-            "options": [
-                "Mekânsal sınır",
-                "Etik sınır",
-                "Zihinsel sınır",
-                "Zamansal sınır",
-                "Davranışsal sınır"
-            ],
-            "correctIndex": 3,
-            "explanation": "Seansın ne zaman başlayıp ne zaman biteceğinin belirlenmesi ve çocuğa önceden bildirilmesi <ins>Zamansal sınır</ins> koyma ilkesine örnektir.",
-            "unit": 5,
-            "topic": "5.1.6. Terapötik Sınırlar",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 5, Soru 8"
+            "sourceInfo": "Ünite 5, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 506,
@@ -1562,41 +1649,9 @@
             "unit": 5,
             "topic": "5.1.1. Yönlendirmesiz Oyun Terapisinin Temel İlkeleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 5, Soru 9"
-        },
-        {
-            "id": 507,
-            "question": "Çocuk merkezli oyun terapisinde, oyuncakların belli kategorilerde seçilmesinin temel amacı nedir?",
-            "options": [
-                "Akademik gelişimi artırmak",
-                "Oyunu kontrol altına almak",
-                "Duygu ifadesini ve keşfi desteklemek",
-                "Disiplin kazandırmak",
-                "Terapistin çocuğu yönlendirmesini kolaylaştırmak"
-            ],
-            "correctIndex": 2,
-            "explanation": "Oyuncaklar, çocukların kelimeleri, oyun ise onların dili olduğu için, materyallerin kategorilerde seçilmesinin temel amacı çocuğun <ins>duygu ifadesini ve keşfi desteklemektir</ins>.",
-            "unit": 5,
-            "topic": "5.1.3. Oyun Odasında Bulunması Gereken Materyaller",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 5, Soru 10"
-        },
-        {
-            "id": 508,
-            "question": "Aşağıdakilerden hangisi <ins>yönlendirmesiz oyun terapisi</ins> için yanlıştır?",
-            "options": [
-                "Çocuk aktif rol oynar.",
-                "Terapist aktif rol oynar.",
-                "Baştan hedefler belirlenmesi gerekli değildir.",
-                "Çocuğun koşulsuz kabulü esastır.",
-                "Oyun odasında sınırların olması esastır."
-            ],
-            "correctIndex": 1,
-            "explanation": "Yönlendirmesiz oyun terapisinde <ins>çocuk aktif rol oynar</ins>. Terapist ise kolaylaştırıcı ve pasif bir katılımcıdır, <ins>aktif rol oynamaz</ins>.",
-            "unit": 5,
-            "topic": "5.1.4. Terapistin Konumu",
-            "source": "Vize Sınavı",
-            "sourceInfo": "Vize 2021 Soru 4; Ünite 5"
+            "sourceInfo": "Ünite 5, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 509,
@@ -1613,41 +1668,9 @@
             "unit": 5,
             "topic": "5.1.1. Yönlendirmesiz Oyun Terapisinin Temel İlkeleri",
             "source": "Bütünleme Sınavı",
-            "sourceInfo": "Bütünleme 2022 Soru 10"
-        },
-        {
-            "id": 510,
-            "question": "Aşağıdakilerden hangisi çocuk merkezli oyun terapileri ile ilgili <ins>söylenemez</ins>?",
-            "options": [
-                "Problem çözümü yerine öncelikle ilişkiye odaklanır.",
-                "Çocuk aktif rol alır.",
-                "Yönlendirmesiz bir oyun terapisi türüdür.",
-                "Terapist <ins>katılım göstermemelidir</ins>.",
-                "Axline ile temelleri atılmıştır."
-            ],
-            "correctIndex": 3,
-            "explanation": "Çocuk merkezli oyun terapisinde terapist, çocuğun oyununa eşlik eden ve uygun katılım sağlayan bir figürdür; bu nedenle <ins>“Terapist katılım göstermemelidir”</ins> ifadesi yanlıştır.",
-            "unit": 5,
-            "topic": "5.1.4. Terapistin Konumu",
-            "source": "Üç Ders Soruları",
-            "sourceInfo": "Üç Ders 2024 Soru 8"
-        },
-        {
-            "id": 511,
-            "question": "Aşağıdakilerden hangisi çocuk merkezli oyun terapisi ile ilgili <ins>yanlış</ins> bir ifadedir?",
-            "options": [
-                "Çocuk yönetir, terapist izler.",
-                "Serbest oyun içerir ve oyun terapisindeki sınırlar burada yoktur.",
-                "Terapist çocuğun adlandırmalarına sadık kalarak yansıtmalar yapar.",
-                "Çocuğun özgürce oyun oynayarak kendisini ortaya koyacağını savunur.",
-                "Terapinin ilk hedefi ilişki kurmadır."
-            ],
-            "correctIndex": 1,
-            "explanation": "Yönlendirmesiz (Çocuk Merkezli) oyun terapisinde dahi <ins>sınırların olması</ins> (güvenlik, etik, zamansal) esastır; bu sınırlar çocuğun gelişimini destekler. Dolayısıyla <ins>“sınırlar burada yoktur”</ins> ifadesi yanlıştır.",
-            "unit": 5,
-            "topic": "5.1.6. Terapötik Sınırlar",
-            "source": "Final ve Bütünleme Soruları",
-            "sourceInfo": "Final 2022-2023 Soru 12; Bütünleme 2022-2023 Soru 16"
+            "sourceInfo": "Bütünleme 2022 Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 512,
@@ -1664,7 +1687,142 @@
             "unit": 5,
             "topic": "5.1.1. Yönlendirmesiz Oyun Terapisinin Temel İlkeleri",
             "source": "Vize Sınavı",
-            "sourceInfo": "Vize 2021 Soru 4"
+            "sourceInfo": "Vize 2021 Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 503,
+            "question": "Yönlendirmesiz oyun terapisinde oyuncak seçiminde <ins>popüler kültür figürlerinden</ins> uzak durulmasının nedeni nedir?",
+            "options": [
+                "Daha pahalı oyuncaklara yer açmak",
+                "Çocuğun dikkatini farklı yöne çekmek",
+                "Yaratıcılığı sınırlayan temalardan kaçınmak",
+                "Oyuncakları kolayca tanıyabilmek",
+                "Çocuğun yaşını belirlemek"
+            ],
+            "correctIndex": 2,
+            "explanation": "Yönlendirmesiz oyun terapisinde kullanılan oyuncaklar, popüler kültürden uzak olmalı ve <ins>yaratıcılığı sınırlayan temalardan kaçınarak</ins> çocuğun kendi duygusal ifadesini geliştirmesine olanak tanımalıdır.",
+            "unit": 5,
+            "topic": "5.1.3. Oyun Odasında Bulunması Gereken Materyaller",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 5, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 507,
+            "question": "Çocuk merkezli oyun terapisinde, oyuncakların belli kategorilerde seçilmesinin temel amacı nedir?",
+            "options": [
+                "Akademik gelişimi artırmak",
+                "Oyunu kontrol altına almak",
+                "Duygu ifadesini ve keşfi desteklemek",
+                "Disiplin kazandırmak",
+                "Terapistin çocuğu yönlendirmesini kolaylaştırmak"
+            ],
+            "correctIndex": 2,
+            "explanation": "Oyuncaklar, çocukların kelimeleri, oyun ise onların dili olduğu için, materyallerin kategorilerde seçilmesinin temel amacı çocuğun <ins>duygu ifadesini ve keşfi desteklemektir</ins>.",
+            "unit": 5,
+            "topic": "5.1.3. Oyun Odasında Bulunması Gereken Materyaller",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 5, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 502,
+            "question": "Aşağıdaki ifadelerden hangisi yönlendirmesiz oyun terapisinde terapistin rolünü en iyi tanımlar?",
+            "options": [
+                "Oyuna hemen katılmak için çocuğu teşvik etmek",
+                "Seansın sonunda çocuğa ödül vermek",
+                "Çocuğun duygusal açılımı için zaman tanımak",
+                "Her seansta farklı materyal sunmak",
+                "Seans sırasında hedef belirlemek"
+            ],
+            "correctIndex": 2,
+            "explanation": "Yönlendirmesiz terapide terapist, çocuğun kendi kendini yönlendirme kapasitesine güvenir ve <ins>duygusal açılımı için zaman tanıyarak</ins> süreci hızlandırmaktan kaçınır.",
+            "unit": 5,
+            "topic": "5.1.4. Terapistin Konumu",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 5, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 508,
+            "question": "Aşağıdakilerden hangisi <ins>yönlendirmesiz oyun terapisi</ins> için yanlıştır?",
+            "options": [
+                "Çocuk aktif rol oynar.",
+                "Terapist aktif rol oynar.",
+                "Baştan hedefler belirlenmesi gerekli değildir.",
+                "Çocuğun koşulsuz kabulü esastır.",
+                "Oyun odasında sınırların olması esastır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Yönlendirmesiz oyun terapisinde <ins>çocuk aktif rol oynar</ins>. Terapist ise kolaylaştırıcı ve pasif bir katılımcıdır, <ins>aktif rol oynamaz</ins>.",
+            "unit": 5,
+            "topic": "5.1.4. Terapistin Konumu",
+            "source": "Vize Sınavı",
+            "sourceInfo": "Vize 2021 Soru 4; Ünite 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 504,
+            "question": "Aşağıdakilerden hangisi yönlendirmesiz oyun terapisinde ebeveyn katılımının amaçlarından biri <ins>değildir</ins>?",
+            "options": [
+                "Terapötik kazanımların ev ortamına taşınması",
+                "Ebeveynin çocukla empatik ilişki geliştirmesi",
+                "Ebeveynin sınır koyma becerilerini desteklemek",
+                "Ebeveynin terapi sürecine <ins>doğrudan yön vermesi</ins>",
+                "Ebeveynin duygusal farkındalığını artırmak"
+            ],
+            "correctIndex": 3,
+            "explanation": "Yönlendirmesiz oyun terapisinde terapist, çocuğun özerkliğine güvenir. Bu nedenle, <ins>Ebeveynin terapi sürecine doğrudan yön vermesi</ins> amaçlanan bir durum değildir.",
+            "unit": 5,
+            "topic": "5.1.5. Ebeveyn Katılımı",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 5, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 505,
+            "question": "Terapistin “Oyunumuz beş dakika sonra sona erecek.” demesi ne tür bir sınıra örnektir?",
+            "options": [
+                "Mekânsal sınır",
+                "Etik sınır",
+                "Zihinsel sınır",
+                "Zamansal sınır",
+                "Davranışsal sınır"
+            ],
+            "correctIndex": 3,
+            "explanation": "Seansın ne zaman başlayıp ne zaman biteceğinin belirlenmesi ve çocuğa önceden bildirilmesi <ins>Zamansal sınır</ins> koyma ilkesine örnektir.",
+            "unit": 5,
+            "topic": "5.1.6. Terapötik Sınırlar",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 5, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 511,
+            "question": "Aşağıdakilerden hangisi çocuk merkezli oyun terapisi ile ilgili <ins>yanlış</ins> bir ifadedir?",
+            "options": [
+                "Çocuk yönetir, terapist izler.",
+                "Serbest oyun içerir ve oyun terapisindeki sınırlar burada yoktur.",
+                "Terapist çocuğun adlandırmalarına sadık kalarak yansıtmalar yapar.",
+                "Çocuğun özgürce oyun oynayarak kendisini ortaya koyacağını savunur.",
+                "Terapinin ilk hedefi ilişki kurmadır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Yönlendirmesiz (Çocuk Merkezli) oyun terapisinde dahi <ins>sınırların olması</ins> (güvenlik, etik, zamansal) esastır; bu sınırlar çocuğun gelişimini destekler. Dolayısıyla <ins>“sınırlar burada yoktur”</ins> ifadesi yanlıştır.",
+            "unit": 5,
+            "topic": "5.1.6. Terapötik Sınırlar",
+            "source": "Final ve Bütünleme Soruları",
+            "sourceInfo": "Final 2022-2023 Soru 12; Bütünleme 2022-2023 Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 601,
@@ -1681,109 +1839,9 @@
             "unit": 6,
             "topic": "6.1. Filial Terapi",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 8"
-        },
-        {
-            "id": 602,
-            "question": "<ins>Aile terapisi kuramı ve çocuk merkezli oyun terapisini</ins> birleştiren terapi türü aşağıdakilerden hangisidir?",
-            "options": [
-                "Aile danışmanlığı",
-                "Filial terapi",
-                "Kum tepsisi terapisi",
-                "Psikodrama",
-                "Theraplay"
-            ],
-            "correctIndex": 1,
-            "explanation": "Filial terapi (Aile Katılımlı Oyun Terapisi), <ins>Aile Terapisi kuramı</nsi ile <ins>Çocuk Merkezli Oyun Terapisi</nin</ins> ilkelerini birleştirerek ebeveyni terapötik aracı olarak kullanır.",
-            "unit": 6,
-            "topic": "6.1. Filial Terapi",
-            "source": "Final Sınavı",
-            "sourceInfo": "Final 2024-2025 Soru 5; Final 2021 Soru 15"
-        },
-        {
-            "id": 603,
-            "question": "Aşağıdakilerden hangisi Filial Terapi’de ebeveyne öğretilecek temel beceriler arasında yer <ins>almamaktadır</ins>?",
-            "options": [
-                "Yapılandırma",
-                "Çocuğun Liderliğini Takip Etme",
-                "Oyunu yönlendirme",
-                "Empatik Dinleme",
-                "Sınır Çizme"
-            ],
-            "correctIndex": 2,
-            "explanation": "Filial Terapi, çocuk merkezli oyun terapisi ilkelerine dayanır; bu nedenle ebeveynin rolü <ins>oyunu yönlendirmek</ins> değil, çocuğun liderliğini takip etmektir.",
-            "unit": 6,
-            "topic": "6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 4, Soru 7"
-        },
-        {
-            "id": 604,
-            "question": "Aşağıdakilerden hangisi Filial Terapi’de ebeveynlere sunulan ve gerçekleştirmesi gereken temel becerilerden birisi <ins>değildir</ins>?",
-            "options": [
-                "Empatik dinleme becerisi",
-                "Sınır koyma becerisi",
-                "Seansları yapılandırma",
-                "Süpervizyonluk yapma",
-                "Çocuğun hayali oyununda verilen role grime"
-            ],
-            "correctIndex": 3,
-            "explanation": "Temel ebeveyn becerileri Yapılandırma, Empatik Dinleme, Çocuk Merkezli Hayali Oyun ve Sınır Koymadır. <ins>Süpervizyonluk yapma</ins>, ebeveynin değil <ins>terapistin</ins> görevidir.",
-            "unit": 6,
-            "topic": "6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri",
-            "source": "Final Sınavı",
-            "sourceInfo": "Final 2021 Soru 11"
-        },
-        {
-            "id": 605,
-            "question": "Filial Terapi yaklaşımının en temel farkı aşağıdakilerden hangisidir?",
-            "options": [
-                "Çocuğun sorularla yönlendirilmesini sağlamak",
-                "Ebeveynin çocuğun davranışlarını düzeltmesi",
-                "Çocuğun duygularını anlama ve yargılamadan kabul etme",
-                "Çocuğun bilişsel performansını artırmak",
-                "Sessizliği engelleyerek çocukla sürekli konuşmak"
-            ],
-            "correctIndex": 2,
-            "explanation": "Filial terapi, yönlendirici olmayan oyun terapisinin ilkelerine dayanır. En temel farkı, ebeveynin çocuğun <ins>duygularını anlama ve yargılamadan kabul etme</ins> becerisini kazanmasını sağlamaktır.",
-            "unit": 6,
-            "topic": "6.6.2. Empatik Dinleme Becerisi (Empathic Listening)",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 4"
-        },
-        {
-            "id": 606,
-            "question": "Aşağıdakilerden hangisi Filial Terapi’nin <ins>yapılandırma becerisi</ins> ile doğrudan ilişkilidir?",
-            "options": [
-                "Çocuğun sınırları test etmesine izin vermek",
-                "Seans boyunca ebeveynin çocuğa direktifler vermesi",
-                "Seans süresinin başlangıç ve bitişinin net şekilde belirlenmesi",
-                "Çocuğun davranışlarını ödüllerle pekiştirmek",
-                "Sessizlikleri sözel müdahaleyle kırmak"
-            ],
-            "correctIndex": 2,
-            "explanation": "Yapılandırma becerisi, çocuğun özel oyun zamanının <ins>sınırlarını, kurallarını ve süresini</ins> (başlangıç ve bitişini) kavrayabilmesini sağlayan temel bir ebeveynlik becerisidir.",
-            "unit": 6,
-            "topic": "6.6.1. Yapılandırma Becerisi (Structuring Skill)",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 5"
-        },
-        {
-            "id": 607,
-            "question": "Filial Terapi’de “oyunun lideri çocuktur” ilkesi en çok hangi terapi bileşenine karşılık gelir?",
-            "options": [
-                "Süpervizyon",
-                "Yönlendirici olmayan oyun",
-                "Empatik dinleme",
-                "Sınır koyma",
-                "Ebeveyn eğitimi"
-            ],
-            "correctIndex": 1,
-            "explanation": "Oyunun çocuk tarafından yönetilmesi ilkesi, Filial Terapinin temel aldığı <ins>Yönlendirici olmayan oyun</ins> (Çocuk Merkezli Oyun Terapisi) yaklaşımından gelmektedir.",
-            "unit": 6,
-            "topic": "6.6.3. Çocuk Merkezli Hayali Oyun (Child-Centered Imaginary Play)",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 6"
+            "sourceInfo": "Ünite 6, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 608,
@@ -1800,58 +1858,28 @@
             "unit": 6,
             "topic": "6.3. Filial Terapi’nin Amaçları ve Hedefleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 7"
+            "sourceInfo": "Ünite 6, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 609,
-            "question": "Aşağıdakilerden hangisi Filial Terapi sürecinin <ins>sonlandırılmasını</ins> gerektiren bir durumdur?",
+            "id": 606,
+            "question": "Aşağıdakilerden hangisi Filial Terapi’nin <ins>yapılandırma becerisi</ins> ile doğrudan ilişkilidir?",
             "options": [
-                "Ebeveynin yeterli beceri kazanması ve hedeflere ulaşılması",
-                "Çocuğun oyunlara katılmak istememesi",
-                "Terapistin eğitimine devam etmek istemesi",
-                "Ailenin terapi ücretini ödeyememesi",
-                "Seansların yeterince uzun sürmemesi"
-            ],
-            "correctIndex": 0,
-            "explanation": "Filial terapinin sonlandırma aşaması, terapinin başlangıcında ele alınan <ins>amaçlara ulaşılıp ulaşılmadığının değerlendirildiği</ins> ve ebeveynin beceri kazandığının görüldüğü aşamadır.",
-            "unit": 6,
-            "topic": "6.6.5. Terapiden Ayrılma (Sonlandırma)",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 9"
-        },
-        {
-            "id": 610,
-            "question": "Filial Terapi sürecinde önerilen oyuncak türlerinden biri aşağıdakilerden hangisidir?",
-            "options": [
-                "Sadece elektronik oyuncaklar",
-                "Ders kitapları",
-                "Kuklalar ve figürler",
-                "Zeka test materyalleri",
-                "Video oyunları"
+                "Çocuğun sınırları test etmesine izin vermek",
+                "Seans boyunca ebeveynin çocuğa direktifler vermesi",
+                "Seans süresinin başlangıç ve bitişinin net şekilde belirlenmesi",
+                "Çocuğun davranışlarını ödüllerle pekiştirmek",
+                "Sessizlikleri sözel müdahaleyle kırmak"
             ],
             "correctIndex": 2,
-            "explanation": "Filial Terapi, çocuk merkezli oyun terapisinden gelen oyuncak kategorilerini kullanır; bu nedenle <ins>Kuklalar ve figürler</ins> gibi sembolik dışavurumu sağlayan materyaller önerilir.",
+            "explanation": "Yapılandırma becerisi, çocuğun özel oyun zamanının <ins>sınırlarını, kurallarını ve süresini</ins> (başlangıç ve bitişini) kavrayabilmesini sağlayan temel bir ebeveynlik becerisidir.",
             "unit": 6,
-            "topic": "6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri",
+            "topic": "6.6.1. Yapılandırma Becerisi (Structuring Skill)",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 6, Soru 10"
-        },
-        {
-            "id": 611,
-            "question": "Filial terapi uygulamaları ile ilgili aşağıdaki ifadelerden hangisi <ins>yanlıştır</ins>?",
-            "options": [
-                "Filial terapi uygulaması için çocuk merkezli oyun terapisi hakkında bilgi verilmelidir.",
-                "Filial terapisti öncelikle nasıl oyun teknikleri uygulanacağını aileye gösterir.",
-                "Filial terapi uygulamaları evdeki seanslara döndüğünde <ins>sınır koyulmaz</ins>.",
-                "Filial terapi süresi, yaşanan sorun ve ailenin durumuna göre değişkenlik gösterir.",
-                "Filial terapi uygulamalarında uygun olan, ebeveynlerin tüm çocukları ile ayrı ayrı seansları yapmasıdır."
-            ],
-            "correctIndex": 2,
-            "explanation": "Filial terapide, ebeveynlere sınır koyma becerisi öğretilir ve evdeki oyun saatlerinde dahi <ins>sınır koyulması gerekir</ins>. Dolayısıyla <ins>“sınır koyulmaz”</ins> ifadesi yanlıştır.",
-            "unit": 6,
-            "topic": "6.6.4. Sınır Koyma Becerisi (Limit-Setting Skill)",
-            "source": "Bütünleme Sınavı",
-            "sourceInfo": "Bütünleme 2022-2023 Soru 8"
+            "sourceInfo": "Ünite 6, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 612,
@@ -1868,7 +1896,104 @@
             "unit": 6,
             "topic": "6.6.1. Yapılandırma Becerisi (Structuring Skill)",
             "source": "Bütünleme Sınavı",
-            "sourceInfo": "Bütünleme 2022 Soru 7"
+            "sourceInfo": "Bütünleme 2022 Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 605,
+            "question": "Filial Terapi yaklaşımının en temel farkı aşağıdakilerden hangisidir?",
+            "options": [
+                "Çocuğun sorularla yönlendirilmesini sağlamak",
+                "Ebeveynin çocuğun davranışlarını düzeltmesi",
+                "Çocuğun duygularını anlama ve yargılamadan kabul etme",
+                "Çocuğun bilişsel performansını artırmak",
+                "Sessizliği engelleyerek çocukla sürekli konuşmak"
+            ],
+            "correctIndex": 2,
+            "explanation": "Filial terapi, yönlendirici olmayan oyun terapisinin ilkelerine dayanır. En temel farkı, ebeveynin çocuğun <ins>duygularını anlama ve yargılamadan kabul etme</ins> becerisini kazanmasını sağlamaktır.",
+            "unit": 6,
+            "topic": "6.6.2. Empatik Dinleme Becerisi (Empathic Listening)",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 6, Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 607,
+            "question": "Filial Terapi’de “oyunun lideri çocuktur” ilkesi en çok hangi terapi bileşenine karşılık gelir?",
+            "options": [
+                "Süpervizyon",
+                "Yönlendirici olmayan oyun",
+                "Empatik dinleme",
+                "Sınır koyma",
+                "Ebeveyn eğitimi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Oyunun çocuk tarafından yönetilmesi ilkesi, Filial Terapinin temel aldığı <ins>Yönlendirici olmayan oyun</ins> (Çocuk Merkezli Oyun Terapisi) yaklaşımından gelmektedir.",
+            "unit": 6,
+            "topic": "6.6.3. Çocuk Merkezli Hayali Oyun (Child-Centered Imaginary Play)",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 6, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 609,
+            "question": "Aşağıdakilerden hangisi Filial Terapi sürecinin <ins>sonlandırılmasını</ins> gerektiren bir durumdur?",
+            "options": [
+                "Ebeveynin yeterli beceri kazanması ve hedeflere ulaşılması",
+                "Çocuğun oyunlara katılmak istememesi",
+                "Terapistin eğitimine devam etmek istemesi",
+                "Ailenin terapi ücretini ödeyememesi",
+                "Seansların yeterince uzun sürmemesi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Filial terapinin sonlandırma aşaması, terapinin başlangıcında ele alınan <ins>amaçlara ulaşılıp ulaşılmadığının değerlendirildiği</ins> ve ebeveynin beceri kazandığının görüldüğü aşamadır.",
+            "unit": 6,
+            "topic": "6.6.5. Terapiden Ayrılma (Sonlandırma)",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 6, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 603,
+            "question": "Aşağıdakilerden hangisi Filial Terapi’de ebeveyne öğretilecek temel beceriler arasında yer <ins>almamaktadır</ins>?",
+            "options": [
+                "Yapılandırma",
+                "Çocuğun Liderliğini Takip Etme",
+                "Oyunu yönlendirme",
+                "Empatik Dinleme",
+                "Sınır Çizme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Filial Terapi, çocuk merkezli oyun terapisi ilkelerine dayanır; bu nedenle ebeveynin rolü <ins>oyunu yönlendirmek</ins> değil, çocuğun liderliğini takip etmektir.",
+            "unit": 6,
+            "topic": "6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 4, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 610,
+            "question": "Filial Terapi sürecinde önerilen oyuncak türlerinden biri aşağıdakilerden hangisidir?",
+            "options": [
+                "Sadece elektronik oyuncaklar",
+                "Ders kitapları",
+                "Kuklalar ve figürler",
+                "Zeka test materyalleri",
+                "Video oyunları"
+            ],
+            "correctIndex": 2,
+            "explanation": "Filial Terapi, çocuk merkezli oyun terapisinden gelen oyuncak kategorilerini kullanır; bu nedenle <ins>Kuklalar ve figürler</ins> gibi sembolik dışavurumu sağlayan materyaller önerilir.",
+            "unit": 6,
+            "topic": "6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 6, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 701,
@@ -1885,24 +2010,9 @@
             "unit": 7,
             "topic": "7.1.2. Çocuklarda Gelişim Dönemine Bağlı Duygu Düzenleme Becerilerinin Gelişimi",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 7, Soru 1"
-        },
-        {
-            "id": 702,
-            "question": "Oyun terapisinde kullanılan <ins>“Hayatını Renklendir”</ins> tekniğinin temel amacı nedir?",
-            "options": [
-                "Çocuğun akademik becerilerini değerlendirmek",
-                "Çocuğun fiziksel koordinasyonunu geliştirmek",
-                "Çocuğun yaşamındaki duygusal deneyimleri sembolik olarak ifade etmesini sağlamak",
-                "Çocuğun bilişsel performansını ölçmek",
-                "Çocuğun sosyal becerilerini test etmek"
-            ],
-            "correctIndex": 2,
-            "explanation": "“Hayatını Renklendir” tekniği, <ins>Yaratıcı Sanat Teknikleri</ins> grubuna girer ve çocuğun duygusal deneyimlerini farklı bir biçimde dışa vurabilmesi, yani <ins>sembolik olarak ifade etmesini sağlamak</ın> temel amacıdır.",
-            "unit": 7,
-            "topic": "7.3.4. Yaratıcı Sanat Teknikleri",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 7, Soru 5"
+            "sourceInfo": "Ünite 7, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 703,
@@ -1919,7 +2029,9 @@
             "unit": 7,
             "topic": "7.2. Terapötik Süreçte Öfke İfadesinin Değerlendirilmesi",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 7, Soru 6"
+            "sourceInfo": "Ünite 7, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 704,
@@ -1936,7 +2048,28 @@
             "unit": 7,
             "topic": "7.3.3. Rol Oynama Teknikleri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 7, Soru 7"
+            "sourceInfo": "Ünite 7, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 702,
+            "question": "Oyun terapisinde kullanılan <ins>“Hayatını Renklendir”</ins> tekniğinin temel amacı nedir?",
+            "options": [
+                "Çocuğun akademik becerilerini değerlendirmek",
+                "Çocuğun fiziksel koordinasyonunu geliştirmek",
+                "Çocuğun yaşamındaki duygusal deneyimleri sembolik olarak ifade etmesini sağlamak",
+                "Çocuğun bilişsel performansını ölçmek",
+                "Çocuğun sosyal becerilerini test etmek"
+            ],
+            "correctIndex": 2,
+            "explanation": "“Hayatını Renklendir” tekniği, <ins>Yaratıcı Sanat Teknikleri</ins> grubuna girer ve çocuğun duygusal deneyimlerini farklı bir biçimde dışa vurabilmesi, yani <ins>sembolik olarak ifade etmesini sağlamak</ın> temel amacıdır.",
+            "unit": 7,
+            "topic": "7.3.4. Yaratıcı Sanat Teknikleri",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 7, Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 705,
@@ -1953,7 +2086,9 @@
             "unit": 7,
             "topic": "7.4. Uygulamalara Dair İpuçları ve Etik Hususlar",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 7, Soru 8"
+            "sourceInfo": "Ünite 7, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 706,
@@ -1970,7 +2105,9 @@
             "unit": 7,
             "topic": "7.4. Uygulamalara Dair İpuçları ve Etik Hususlar",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 7, Soru 10"
+            "sourceInfo": "Ünite 7, Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 801,
@@ -1987,7 +2124,9 @@
             "unit": 8,
             "topic": "8.2. Gelişimsel Sorunların Belirtileri ve Çocuk Üzerindeki Etkileri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 1"
+            "sourceInfo": "Ünite 8, Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 802,
@@ -2004,7 +2143,9 @@
             "unit": 8,
             "topic": "8.2. Gelişimsel Sorunların Belirtileri ve Çocuk Üzerindeki Etkileri",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 2"
+            "sourceInfo": "Ünite 8, Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 803,
@@ -2021,24 +2162,9 @@
             "unit": 8,
             "topic": "8.3. Oyun Terapisinin Çocuk Gelişimindeki Rolü",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 3"
-        },
-        {
-            "id": 804,
-            "question": "Aşağıdakilerden hangisi oyun terapisinin temel amaçlarından biri <ins>değildir</ins>?",
-            "options": [
-                "Çocuğun duygularını ifade etmesi",
-                "Çocuğun akademik başarısını artırmak",
-                "Duygusal iyilik halini desteklemek",
-                "Gelişimsel zorluklarla başa çıkmayı kolaylaştırmak",
-                "Çocuğun iç dünyasını anlamak"
-            ],
-            "correctIndex": 1,
-            "explanation": "Oyun terapisi bilişsel gelişimi dolaylı olarak destekleyebilirken, <ins>Çocuğun akademik başarısını artırmak</ins> doğrudan ve temel amaçlardan biri değildir.",
-            "unit": 8,
-            "topic": "8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 5"
+            "sourceInfo": "Ünite 8, Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 805,
@@ -2055,7 +2181,9 @@
             "unit": 8,
             "topic": "8.3. Oyun Terapisinin Çocuk Gelişimindeki Rolü",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 6"
+            "sourceInfo": "Ünite 8, Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 806,
@@ -2072,24 +2200,9 @@
             "unit": 8,
             "topic": "8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 7"
-        },
-        {
-            "id": 807,
-            "question": "Aşağıdakilerden hangisi oyun terapisi sürecinde dikkat edilmesi gereken bir unsurdur?",
-            "options": [
-                "Terapistin sınırları net koyması",
-                "Çocuğa sürekli müdahale etmek",
-                "Oyun sırasında akademik konulara girmek",
-                "Çocuğun oyun sürecini sürekli kesmek",
-                "Oyun materyallerini sınırlamak"
-            ],
-            "correctIndex": 0,
-            "explanation": "Terapötik sürecin en önemli unsurlarından biri, güvenli ve öngörülebilir bir ortam sağlamak için <ins>Terapistin sınırları net koymasıdır</ins>.",
-            "unit": 8,
-            "topic": "8.9. Oyun Terapisinin Uygulama Süreci ve Terapistin Rolü",
-            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 8"
+            "sourceInfo": "Ünite 8, Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 808,
@@ -2106,7 +2219,9 @@
             "unit": 8,
             "topic": "8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi",
             "source": "Oyun ve Oyun Terapisi Ünite Soruları",
-            "sourceInfo": "Ünite 8, Soru 9"
+            "sourceInfo": "Ünite 8, Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 809,
@@ -2123,24 +2238,28 @@
             "unit": 8,
             "topic": "8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi",
             "source": "Final ve Vize Soruları",
-            "sourceInfo": "Final 2023-2024 Soru 19; Vize 2021 Soru 5"
+            "sourceInfo": "Final 2023-2024 Soru 19; Vize 2021 Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 810,
-            "question": "Aşağıdakilerden hangisi <ins>tanısal değerlendirme</ins> amaçlı oyun terapisinin kullanılmasına örnek <ins>değildir</ins>?",
+            "id": 807,
+            "question": "Aşağıdakilerden hangisi oyun terapisi sürecinde dikkat edilmesi gereken bir unsurdur?",
             "options": [
-                "Theraplay",
-                "Welt tekniği",
-                "Yapılandırılmış oyun testleri",
-                "Sceno testi",
-                "ADOS görüşmesi"
+                "Terapistin sınırları net koyması",
+                "Çocuğa sürekli müdahale etmek",
+                "Oyun sırasında akademik konulara girmek",
+                "Çocuğun oyun sürecini sürekli kesmek",
+                "Oyun materyallerini sınırlamak"
             ],
             "correctIndex": 0,
-            "explanation": "<ins>Theraplay</ins> (Bağlanma kuramı temelli), temel olarak <ins>müdahaleye yönelik</ins> bir terapi yöntemidir ve tanısal değerlendirme amaçlı kullanılmaz. Diğerleri ise yapılandırılmış veya yarı yapılandırılmış değerlendirme araçlarıdır.",
+            "explanation": "Terapötik sürecin en önemli unsurlarından biri, güvenli ve öngörülebilir bir ortam sağlamak için <ins>Terapistin sınırları net koymasıdır</ins>.",
             "unit": 8,
-            "topic": "8.3.1. Oyun Terapisinde Kullanılan Temel Teknikler ve Araçlar",
-            "source": "Final, Vize ve Üç Ders Soruları",
-            "sourceInfo": "Final 2024-2025 Soru 7; Vize 2022-2023 Soru 4; Üç Ders 2024 Soru 11"
+            "topic": "8.9. Oyun Terapisinin Uygulama Süreci ve Terapistin Rolü",
+            "source": "Oyun ve Oyun Terapisi Ünite Soruları",
+            "sourceInfo": "Ünite 8, Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         }
     ],
     "meta": {

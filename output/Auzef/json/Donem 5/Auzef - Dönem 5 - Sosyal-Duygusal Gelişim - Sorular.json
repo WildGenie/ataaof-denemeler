@@ -1,23 +1,6 @@
 {
     "questions": [
         {
-            "id": 1001,
-            "question": "Bir insanı diğerlerinden ayıran bedensel, zihinsel ve ruhsal özelliklerinin tümü olarak değerlendirilir. Verilen tanım aşağıdakilerden hangisine aittir?",
-            "options": [
-                "Sosyal olgunluk",
-                "Benlik",
-                "Sosyalleşme",
-                "Sosyal gelişim",
-                "Kişilik"
-            ],
-            "correctIndex": 4,
-            "explanation": "Kişilik, bir insanı diğerlerinden ayıran bedensel, zihinsel ve ruhsal özelliklerinin tümü olarak değerlendirilir. Kaynaklar bu tanımın <b>Kişilik</b> kavramına ait olduğunu belirtmektedir.",
-            "unit": 1,
-            "topic": "1.2.2. Kişilik",
-            "source": "Vize Soruları 2020-2023",
-            "sourceInfo": "Q1 (2021), Q18 (2020-2), Q10 (2022), Q13 (2023)"
-        },
-        {
             "id": 1002,
             "question": "..............doğumdan itibaren başlayan, yaşam boyu devam eden, kişinin başkaları ile iyi ilişkiler kurmasını ve içinde yaşadığı topluma uyumunu sağlayan bir süreçtir. Boşluğu tamamlayan en uygun ifade aşağıdaki seçeneklerin hangisinde verilmiştir?",
             "options": [
@@ -32,7 +15,9 @@
             "unit": 1,
             "topic": "1.1. Sosyal Gelişimin Tanımı ve Önemi",
             "source": "Ünite Soruları ve Vize Soruları 2020-2023",
-            "sourceInfo": "Soru-1 (Ünite 1), Q8 (2020-2), Q18 (2022), Q3 (2023)"
+            "sourceInfo": "Soru-1 (Ünite 1), Q8 (2020-2), Q18 (2022), Q3 (2023)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1003,
@@ -49,7 +34,9 @@
             "unit": 1,
             "topic": "1.2.1. Benlik",
             "source": "Ünite Soruları ve Vize Soruları 2022",
-            "sourceInfo": "Soru-2 (Ünite 1), Q20 (2022)"
+            "sourceInfo": "Soru-2 (Ünite 1), Q20 (2022)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1004,
@@ -66,92 +53,28 @@
             "unit": 1,
             "topic": "1.2.1. Benlik",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-3 (Ünite 1)"
+            "sourceInfo": "Soru-3 (Ünite 1)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 1005,
-            "question": "Aşağıdaki ifadelerden hangisi gelişim dönemlerine göre sosyal gelişimle ilgili <u>yanlış</u> bir eşleştirmedir?",
+            "id": 1001,
+            "question": "Bir insanı diğerlerinden ayıran bedensel, zihinsel ve ruhsal özelliklerinin tümü olarak değerlendirilir. Verilen tanım aşağıdakilerden hangisine aittir?",
             "options": [
-                "0-6 hafta: Bebeğe iletişimsel bir varlık olarak davranır.",
-                "6-8 hafta: Aşırı heyecandan kaçınmak için geri çekilir ve ara verme gereksiniminin farkına varır.",
-                "3 ay: Sosyal rutinler geliştirir.",
-                "5 ay: Etkileşimi devam ettirmek için nesnelerle oyun geliştirir.",
-                "1-2 yaş: Sosyal rutinler geliştirir."
+                "Sosyal olgunluk",
+                "Benlik",
+                "Sosyalleşme",
+                "Sosyal gelişim",
+                "Kişilik"
             ],
             "correctIndex": 4,
-            "explanation": "Sosyal rutinlerin gelişimi (örneğin, el sallama, ce-eee oynama) <b>3 ay</b> civarında başlar. Dolayısıyla ‘1-2 yaş: Sosyal rutinler geliştirir’ ifadesi, sosyal gelişimin kilometre taşları kronolojisine göre <u>yanlış</u> bir eşleştirmedir.",
+            "explanation": "Kişilik, bir insanı diğerlerinden ayıran bedensel, zihinsel ve ruhsal özelliklerinin tümü olarak değerlendirilir. Kaynaklar bu tanımın <b>Kişilik</b> kavramına ait olduğunu belirtmektedir.",
             "unit": 1,
-            "topic": "1.3.1. Bebeklik Döneminde Sosyal Gelişim",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-5 (Ünite 1)"
-        },
-        {
-            "id": 1006,
-            "question": "Ayşe öğretmenin sınıfında aşağıdaki durum yaşanmaktadır.<br>‘Aylin, oyuncak bebeğini faaliyet masasının üstünde yürütürken kendi kendine şarkı söylüyor. Ali, oyuncak arabasını halının üstünde bir ileri bir geri sürerken motor sesleri çıkarıyor. Ecem ise Ahmet’i sınıfın içinde bir oraya bir buraya kovalıyor.’<br>Bu açıklamaya göre Ayşe öğretmenin sınıfı aşağıdaki yaşlardan hangisidir?",
-            "options": [
-                "0-2 yaş çocukların olduğu sınıf",
-                "3 yaş çocuklarının olduğu sınıf",
-                "4-5 yaş çocuklarının olduğu sınıf",
-                "6 yaş çocukların olduğu sınıf",
-                "İlkokul 1.sınıf"
-            ],
-            "correctIndex": 1,
-            "explanation": "Verilen örnekte, çocuklar çoğunlukla yan yana (paralel oyun) kendi faaliyetleriyle ilgilenmekte (Aylin ve Ali) veya basit kaba motor etkileşimlere (kovalamaca) girişmektedir. Bu durum, sosyal oyunun yeni başladığı <b>3 yaş</b> çocuklarının olduğu sınıfla ilişkilidir.",
-            "unit": 1,
-            "topic": "1.3.2. İlk Çocukluk Döneminde Sosyal Gelişim",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 1)"
-        },
-        {
-            "id": 1007,
-            "question": "Okul öncesi dönemdeki çocukların sosyal ve duygusal yönden daha dengeli olduğu yaş aşağıdaki seçeneklerin hangisinde verilmiştir?",
-            "options": [
-                "2 yaş",
-                "7 yaş",
-                "3 yaş",
-                "4 yaş",
-                "5 yaş"
-            ],
-            "correctIndex": 4,
-            "explanation": "Kaynaklara göre, okul öncesi dönemdeki çocukların sosyal ve duygusal yönden daha dengeli olduğu yaş <b>5 yaş</b> olarak belirtilmiştir.",
-            "unit": 1,
-            "topic": "1.3.2. İlk Çocukluk Döneminde Sosyal Gelişim",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-7 (Ünite 1)"
-        },
-        {
-            "id": 1008,
-            "question": "Aşağıdaki seçeneklerin hangisinde Lawrence Kohlberg’in toplumsal cinsiyet kimliğinin gelişim evreleri sırasıyla verilmiştir?",
-            "options": [
-                "Cinsiyeti etiketleme aşaması/Cinsiyet stabilitesi aşaması/Toplumsal cinsiyet sabitliği aşaması",
-                "Cinsiyet stabilitesi aşaması/Toplumsal cinsiyet sabitliği aşaması/ Cinsiyeti etiketleme aşaması",
-                "Cinsiyeti etiketleme aşaması/ Toplumsal cinsiyet sabitliği aşaması/ Cinsiyet stabilitesi aşaması",
-                "Toplumsal cinsiyet sabitliği aşaması/Cinsiyeti etiketleme aşaması/Cinsiyet stabilitesi aşaması",
-                "Cinsiyet stabilitesi aşaması/Cinsiyeti etiketleme aşaması/Toplumsal cinsiyet sabitliği aşaması"
-            ],
-            "correctIndex": 0,
-            "explanation": "Lawrence Kohlberg’in bilişsel gelişim düzeyine dayanan cinsiyet anlayışının aşamaları sırasıyla <b>Cinsiyeti etiketleme aşaması</b>, <b>Cinsiyet stabilitesi aşaması</b> ve <b>Toplumsal cinsiyet sabitliği aşaması</b> olarak verilmiştir.",
-            "unit": 1,
-            "topic": "1.4.1. Cinsel Kimlik Kazanımı",
-            "source": "Ünite Soruları ve Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru-9 (Ünite 1), Q9 (2022), Q19 (2021-2022)"
-        },
-        {
-            "id": 1009,
-            "question": "Aşağıdakilerden hangisi prososyal davranış örneklerinden biri <u>değildir</u>?",
-            "options": [
-                "Paylaşma",
-                "Yardımlaşma",
-                "İş birliği",
-                "Fedakârlık",
-                "Benlik"
-            ],
-            "correctIndex": 4,
-            "explanation": "Prososyal davranışlar, başkalarına yardım etme veya fayda sağlama amacı güden gönüllü davranışlardır (Paylaşma, yardımlaşma, iş birliği, fedakârlık). <b>Benlik</b> ise, kişinin kendine ait algısı ve görüşü olup, prososyal bir davranış örneği değildir.",
-            "unit": 1,
-            "topic": "1.4.2. Prososyal Davranışlar",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-10 (Ünite 1)"
+            "topic": "1.2.2. Kişilik",
+            "source": "Vize Soruları 2020-2023",
+            "sourceInfo": "Q1 (2021), Q18 (2020-2), Q10 (2022), Q13 (2023)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1010,
@@ -168,7 +91,9 @@
             "unit": 1,
             "topic": "1.2.3. Sosyalleşme",
             "source": "Vize Soruları 2020 ve Final Soruları 2023-2024",
-            "sourceInfo": "Q10 (Vize 2020), Q20 (Final 2023-2024)"
+            "sourceInfo": "Q10 (Vize 2020), Q20 (Final 2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1011,
@@ -185,7 +110,9 @@
             "unit": 1,
             "topic": "1.2.5. Öz Denetim/Öz Düzenleme",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Q16 (Final 2022-2023)"
+            "sourceInfo": "Q16 (Final 2022-2023)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1012,
@@ -202,7 +129,66 @@
             "unit": 1,
             "topic": "1.2.6. Sosyal Olgunluk",
             "source": "Bütünleme Soruları 2022-2023 ve Vize Soruları 2023-2024",
-            "sourceInfo": "Q20 (Bütünleme 2022-2023), Q8 (Vize 2023-2024)"
+            "sourceInfo": "Q20 (Bütünleme 2022-2023), Q8 (Vize 2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1005,
+            "question": "Aşağıdaki ifadelerden hangisi gelişim dönemlerine göre sosyal gelişimle ilgili <u>yanlış</u> bir eşleştirmedir?",
+            "options": [
+                "0-6 hafta: Bebeğe iletişimsel bir varlık olarak davranır.",
+                "6-8 hafta: Aşırı heyecandan kaçınmak için geri çekilir ve ara verme gereksiniminin farkına varır.",
+                "3 ay: Sosyal rutinler geliştirir.",
+                "5 ay: Etkileşimi devam ettirmek için nesnelerle oyun geliştirir.",
+                "1-2 yaş: Sosyal rutinler geliştirir."
+            ],
+            "correctIndex": 4,
+            "explanation": "Sosyal rutinlerin gelişimi (örneğin, el sallama, ce-eee oynama) <b>3 ay</b> civarında başlar. Dolayısıyla ‘1-2 yaş: Sosyal rutinler geliştirir’ ifadesi, sosyal gelişimin kilometre taşları kronolojisine göre <u>yanlış</u> bir eşleştirmedir.",
+            "unit": 1,
+            "topic": "1.3.1. Bebeklik Döneminde Sosyal Gelişim",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-5 (Ünite 1)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1006,
+            "question": "Ayşe öğretmenin sınıfında aşağıdaki durum yaşanmaktadır.<br>‘Aylin, oyuncak bebeğini faaliyet masasının üstünde yürütürken kendi kendine şarkı söylüyor. Ali, oyuncak arabasını halının üstünde bir ileri bir geri sürerken motor sesleri çıkarıyor. Ecem ise Ahmet’i sınıfın içinde bir oraya bir buraya kovalıyor.’<br>Bu açıklamaya göre Ayşe öğretmenin sınıfı aşağıdaki yaşlardan hangisidir?",
+            "options": [
+                "0-2 yaş çocukların olduğu sınıf",
+                "3 yaş çocuklarının olduğu sınıf",
+                "4-5 yaş çocuklarının olduğu sınıf",
+                "6 yaş çocukların olduğu sınıf",
+                "İlkokul 1.sınıf"
+            ],
+            "correctIndex": 1,
+            "explanation": "Verilen örnekte, çocuklar çoğunlukla yan yana (paralel oyun) kendi faaliyetleriyle ilgilenmekte (Aylin ve Ali) veya basit kaba motor etkileşimlere (kovalamaca) girişmektedir. Bu durum, sosyal oyunun yeni başladığı <b>3 yaş</b> çocuklarının olduğu sınıfla ilişkilidir.",
+            "unit": 1,
+            "topic": "1.3.2. İlk Çocukluk Döneminde Sosyal Gelişim",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-6 (Ünite 1)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1007,
+            "question": "Okul öncesi dönemdeki çocukların sosyal ve duygusal yönden daha dengeli olduğu yaş aşağıdaki seçeneklerin hangisinde verilmiştir?",
+            "options": [
+                "2 yaş",
+                "7 yaş",
+                "3 yaş",
+                "4 yaş",
+                "5 yaş"
+            ],
+            "correctIndex": 4,
+            "explanation": "Kaynaklara göre, okul öncesi dönemdeki çocukların sosyal ve duygusal yönden daha dengeli olduğu yaş <b>5 yaş</b> olarak belirtilmiştir.",
+            "unit": 1,
+            "topic": "1.3.2. İlk Çocukluk Döneminde Sosyal Gelişim",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-7 (Ünite 1)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1013,
@@ -219,7 +205,9 @@
             "unit": 1,
             "topic": "1.3.2. İlk Çocukluk Döneminde Sosyal Gelişim",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Q2 (Vize 2024-2025)"
+            "sourceInfo": "Q2 (Vize 2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1014,
@@ -236,24 +224,47 @@
             "unit": 1,
             "topic": "1.3.2. İlk Çocukluk Döneminde Sosyal Gelişim",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Q16 (Vize 2024-2025)"
+            "sourceInfo": "Q16 (Vize 2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 2001,
-            "question": "Çoğu kültürde sosyalleşmenin ana unsuru <u>................</u>dir. Verilen boşluğu en uygun ifade ile tamamlayınız?",
+            "id": 1008,
+            "question": "Aşağıdaki seçeneklerin hangisinde Lawrence Kohlberg’in toplumsal cinsiyet kimliğinin gelişim evreleri sırasıyla verilmiştir?",
             "options": [
-                "Aile",
-                "Ebeveynler",
-                "Okul",
-                "Kültür",
-                "Arkadaşlık"
+                "Cinsiyeti etiketleme aşaması/Cinsiyet stabilitesi aşaması/Toplumsal cinsiyet sabitliği aşaması",
+                "Cinsiyet stabilitesi aşaması/Toplumsal cinsiyet sabitliği aşaması/ Cinsiyeti etiketleme aşaması",
+                "Cinsiyeti etiketleme aşaması/ Toplumsal cinsiyet sabitliği aşaması/ Cinsiyet stabilitesi aşaması",
+                "Toplumsal cinsiyet sabitliği aşaması/Cinsiyeti etiketleme aşaması/Cinsiyet stabilitesi aşaması",
+                "Cinsiyet stabilitesi aşaması/Cinsiyeti etiketleme aşaması/Toplumsal cinsiyet sabitliği aşaması"
             ],
-            "correctIndex": 1,
-            "explanation": "Çoğu kültürde, çocuğun sosyalleşmesinin ana unsurları <b>ebeveynlerdir</b>. Öğretmenler, akranlar ve daha geniş sosyal faktörler önemli bir rol oynasa da, ebeveynler çocuğun gelecekteki davranışları, tutumları ve kişiliği üzerinde en güçlü etkiye sahiptir.",
-            "unit": 2,
-            "topic": "2.1. Aile",
+            "correctIndex": 0,
+            "explanation": "Lawrence Kohlberg’in bilişsel gelişim düzeyine dayanan cinsiyet anlayışının aşamaları sırasıyla <b>Cinsiyeti etiketleme aşaması</b>, <b>Cinsiyet stabilitesi aşaması</b> ve <b>Toplumsal cinsiyet sabitliği aşaması</b> olarak verilmiştir.",
+            "unit": 1,
+            "topic": "1.4.1. Cinsel Kimlik Kazanımı",
+            "source": "Ünite Soruları ve Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru-9 (Ünite 1), Q9 (2022), Q19 (2021-2022)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1009,
+            "question": "Aşağıdakilerden hangisi prososyal davranış örneklerinden biri <u>değildir</u>?",
+            "options": [
+                "Paylaşma",
+                "Yardımlaşma",
+                "İş birliği",
+                "Fedakârlık",
+                "Benlik"
+            ],
+            "correctIndex": 4,
+            "explanation": "Prososyal davranışlar, başkalarına yardım etme veya fayda sağlama amacı güden gönüllü davranışlardır (Paylaşma, yardımlaşma, iş birliği, fedakârlık). <b>Benlik</b> ise, kişinin kendine ait algısı ve görüşü olup, prososyal bir davranış örneği değildir.",
+            "unit": 1,
+            "topic": "1.4.2. Prososyal Davranışlar",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-1 (Ünite 2)"
+            "sourceInfo": "Soru-10 (Ünite 1)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2002,
@@ -270,7 +281,9 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-2 (Ünite 2), Soru-4 (Ünite 2)"
+            "sourceInfo": "Soru-2 (Ünite 2), Soru-4 (Ünite 2)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2003,
@@ -287,7 +300,9 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Vize Soruları 2021-2022",
-            "sourceInfo": "Q12 (2021-2022)"
+            "sourceInfo": "Q12 (2021-2022)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2004,
@@ -304,7 +319,9 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Vize Soruları 2021-2022 ve 2023-2024",
-            "sourceInfo": "Q18 (2021-2022), Q4 (2023-2024)"
+            "sourceInfo": "Q18 (2021-2022), Q4 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2005,
@@ -321,7 +338,9 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Vize Soruları 2020 ve 2022",
-            "sourceInfo": "Q18 (2022), Q12 (2020-2)"
+            "sourceInfo": "Q18 (2022), Q12 (2020-2)",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 2006,
@@ -338,7 +357,9 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Q8 (2022-2023)"
+            "sourceInfo": "Q8 (2022-2023)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2007,
@@ -355,7 +376,9 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Q15 (2024-2025), Q6 (Ünite 2)"
+            "sourceInfo": "Q15 (2024-2025), Q6 (Ünite 2)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2008,
@@ -372,7 +395,9 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q2 (2023-2024), Q13 (2023-2024)"
+            "sourceInfo": "Q2 (2023-2024), Q13 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2009,
@@ -389,7 +414,28 @@
             "unit": 2,
             "topic": "2.1.1. Ebeveynlik Stilleri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-5 (Ünite 2)"
+            "sourceInfo": "Soru-5 (Ünite 2)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 2001,
+            "question": "Çoğu kültürde sosyalleşmenin ana unsuru <u>................</u>dir. Verilen boşluğu en uygun ifade ile tamamlayınız?",
+            "options": [
+                "Aile",
+                "Ebeveynler",
+                "Okul",
+                "Kültür",
+                "Arkadaşlık"
+            ],
+            "correctIndex": 1,
+            "explanation": "Çoğu kültürde, çocuğun sosyalleşmesinin ana unsurları <b>ebeveynlerdir</b>. Öğretmenler, akranlar ve daha geniş sosyal faktörler önemli bir rol oynasa da, ebeveynler çocuğun gelecekteki davranışları, tutumları ve kişiliği üzerinde en güçlü etkiye sahiptir.",
+            "unit": 2,
+            "topic": "2.1. Aile",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-1 (Ünite 2)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2010,
@@ -406,7 +452,9 @@
             "unit": 2,
             "topic": "2.2. Akran İlişkileri",
             "source": "Vize Soruları 2022-2023 ve 2023-2024",
-            "sourceInfo": "Q4 (2022-2023), Q20 (2023-2024)"
+            "sourceInfo": "Q4 (2022-2023), Q20 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2011,
@@ -423,7 +471,9 @@
             "unit": 2,
             "topic": "2.2. Akran İlişkileri",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Q12 (2023-2024)"
+            "sourceInfo": "Q12 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2012,
@@ -440,7 +490,9 @@
             "unit": 2,
             "topic": "2.2. Akran İlişkileri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-10 (Ünite 2)"
+            "sourceInfo": "Soru-10 (Ünite 2)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2013,
@@ -457,7 +509,9 @@
             "unit": 2,
             "topic": "2.2. Akran İlişkileri",
             "source": "Bütünleme Soruları 2022",
-            "sourceInfo": "Q17 (2022 Bütünleme)"
+            "sourceInfo": "Q17 (2022 Bütünleme)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3001,
@@ -474,211 +528,9 @@
             "unit": 3,
             "topic": "3.1.1. Arnold Gesell’in Olgunlaşma Teorisi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-1 (Ünite 3)"
-        },
-        {
-            "id": 3002,
-            "question": "Aşağıdakilerden hangisi Freud topografik kişilik kuramı ile ilgili <u>değildir</u>?",
-            "options": [
-                "Bilinç",
-                "Bilinç öncesi",
-                "Bilinçaltı",
-                "Bilinçdışı",
-                "Bilinç ötesi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Freud'un topografik kişilik kuramına göre zihinsel süreçler üç kavram üzerinde şekillenmektedir: Bilinç, bilinç öncesi ve bilinçaltı ya da bilinçdışı. Bu nedenle <b>Bilinç ötesi</b> kavramı bu kuram ile ilgili değildir.",
-            "unit": 3,
-            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-2 (Ünite 3)"
-        },
-        {
-            "id": 3003,
-            "question": "Aşağıdakilerden hangisi Freud’un psikoseksüel gelişim evrelerinden biri <u>değildir</u>?",
-            "options": [
-                "Oral evre",
-                "Anal evre",
-                "Fallik evre",
-                "Gizil evre",
-                "Ergenlik evresi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Freud, doğumdan ergenlik dönemine kadar duygusal açıdan beş gelişim evresi olduğunu söylemiştir; bunlar Oral, Anal, Fallik, Latent (Gizil) ve Genital evrelerdir. Freud'un teorisinde Ergenlik evresi (veya Genital evre yerine Ergenlik evresi) bir psikoseksüel gelişim evresi olarak belirtilmemiştir. Seçeneklerdeki Genital evre dışındaki tüm evreler (Oral, Anal, Fallik, Latent) Freud’un psikoseksüel evrelerindendir. 'Güvensizlik evresi' ise Freud'a değil, Erikson'a ait bir aşamadır. 'Ergenlik evresi' Freud’un psikoseksüel evrelerinden biri değildir.",
-            "unit": 3,
-            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
-            "source": "Ünite Soruları ve Vize Soruları",
-            "sourceInfo": "Soru-3 (Ünite 3), Q4 (2020), Q5 (2022)"
-        },
-        {
-            "id": 3004,
-            "question": "Erikson’ göre psikososyal gelişme yaşam boyu devam eden sekiz evreden oluşmaktadır. Verilen açıklama Erikson’un psikososyal gelişim teorisinin temel varsayımlarından hangisine aittir?",
-            "options": [
-                "Yaşam boyu psikososyal gelişim",
-                "Etkileşimci bir bakış açısı",
-                "Psikososyal gelişim",
-                "Sıralı psikososyal gelişim evreleri",
-                "Ego kimliği"
-            ],
-            "correctIndex": 0,
-            "explanation": "Erikson’un temel varsayımlarından biri, psikososyal gelişimin ömür boyu devam eden sekiz evreden oluştuğunu belirten <b>Yaşam boyu psikososyal gelişim</b>dir.",
-            "unit": 3,
-            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4 (Ünite 3)"
-        },
-        {
-            "id": 3005,
-            "question": "Aşağıda verilenlerden hangisi <u>yanlıştır</u>?",
-            "options": [
-                "1. evre: Temel güvene karşın güvensizlik (0-1 yaş)",
-                "2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)",
-                "3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)",
-                "4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)",
-                "5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)"
-            ],
-            "correctIndex": 4,
-            "explanation": "Erikson’un psikososyal gelişim evrelerine göre, 5. evre olan Kimlik kazanmaya karşın kimlik karmaşası, genç yetişkinlik dönemi yerine <b>13-18 yaş (ergenlik)</b> dönemini kapsar.",
-            "unit": 3,
-            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-5 (Ünite 3)"
-        },
-        {
-            "id": 3006,
-            "question": "Umut erdemi Erikson’un hangi gelişim evresinde ortaya çıkmaktadır?",
-            "options": [
-                "1. evre: Temel güvene karşın güvensizlik (0-1 yaş)",
-                "2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)",
-                "3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)",
-                "4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)",
-                "5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)"
-            ],
-            "correctIndex": 0,
-            "explanation": "Erikson’un teorisinde umut duygusu, ilk sosyal-duygusal aşamada (1. evre: Temel güvene karşı temel güvensizlik, 0-1 yaş) ortaya çıkan ve olumlu ego kimliği oluşturan erdemdir. Bebeklerin umut duygusu, yaşadıkları güvensizlik duygusu ile ebeveynlerine duydukları güvenden ortaya çıkar.",
-            "unit": 3,
-            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 3)"
-        },
-        {
-            "id": 3007,
-            "question": "Çocuklar bu evrede Erikson tarafından ileri sürülen yetkinlik erdemini kazanır. Açıklamaya göre çocuklar hangi evrenin içindedirler?",
-            "options": [
-                "1. evre: Temel güvene karşın güvensizlik (0-1 yaş)",
-                "2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)",
-                "3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)",
-                "4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)",
-                "5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)"
-            ],
-            "correctIndex": 3,
-            "explanation": "Çocuklar, 4. evre olan <b>Çalışkanlığa karşın yetersizlik duygusu</b> aşamasında (6-12 yaş), yeni fırsatlara hakim olduklarında Erikson tarafından ileri sürülen <b>yetkinlik</b> (yeterlik) erdemini kazanırlar. Yeterli düzeyde çalışkanlık, çocukların kendinden emin olması için gerekli sosyal ve akademik becerileri kazanmasını sağlar.",
-            "unit": 3,
-            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-7 (Ünite 3)"
-        },
-        {
-            "id": 3008,
-            "question": "<u>“Açıkçası, ne yapacağım hakkında hiçbir fikrim yok.”</u> diye düşünen bir ergen aşağıdaki seçeneklerin hangisinde verilen Marcia’nin ergen kimlik statüsündedir?",
-            "options": [
-                "Kimlik dağınıklığı",
-                "İpotekli kimlik",
-                "Kimlik moratoryumu",
-                "Başarılı kimlik",
-                "Hacizli kimlik"
-            ],
-            "correctIndex": 0,
-            "explanation": "Kimlik dağınıklığı (Kimlik difüzyonu) statüsündeki birey, ne kimlik arayışındadır (kriz) ne de herhangi bir kimlik taahhüdünde (bağlılık) bulunmuştur. 'Ne yapacağım hakkında hiçbir fikrim yok' ifadesi bu kararsızlığı ve dağınıklığı yansıtır.",
-            "unit": 3,
-            "topic": "3.2.3. James Marcia’nın Kimlik Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-8 (Ünite 3)"
-        },
-        {
-            "id": 3009,
-            "question": "Erikson’un psikososyal gelişim teorisinin 0-18 yaş aralığını kapsayan evrelerinin her birinde ortaya çıkan olumlu ego kimliği oluşturan erdemler aşağıdaki seçeneklerin hangisinde sırasıyla verilmiştir?",
-            "options": [
-                "Umut, irade, amaç, sadakat, yeterlik",
-                "Umut, irade, amaç, yeterlik, sadakat",
-                "Umut, amaç, irade, yeterlik, sadakat",
-                "Umut, yeterlik, irade, amaç, sadakat",
-                "İrade, umut, amaç, yeterlik, sadakat"
-            ],
-            "correctIndex": 1,
-            "explanation": "Erikson’un ilk beş evresinin (0-18 yaş) olumlu ego kimliği oluşturan erdemleri sırasıyla şunlardır: Temel güvene karşı güvensizlik (Umut), Özerkliğe karşın utanç ve şüphe (İrade), Girişimciliğe karşın suçluluk (Amaç), Çalışkanlığa karşın yetersizlik (Yeterlik/Yetkinlik) ve Kimliğe karşın rol karmaşası (Sadakat).",
-            "unit": 3,
-            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q7 (2023-2024), Q12 (2023-2024)"
-        },
-        {
-            "id": 3010,
-            "question": "Çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne süren teori aşağıdakilerden hangisidir?",
-            "options": [
-                "Olgunlaşma Teorisi",
-                "Sosyal öğrenme Teorisi",
-                "Çoklu Zekâ Teorisi",
-                "Bilişsel Teori",
-                "Psikanalitik Teori"
-            ],
-            "correctIndex": 0,
-            "explanation": "Olgunlaşma teorisi, çocuk gelişimi teorilerinin en eskisidir. Bu teori, çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne sürmektedir. Bireyler olgunlaştıkça kalıtsal potansiyelleri ortaya çıkar.",
-            "unit": 3,
-            "topic": "3.1. Olgunlaşma Teorisi",
-            "source": "Vize Soruları 2021-2022, 2022-2023, 2023-2024",
-            "sourceInfo": "Q2 (2021-2022), Q1 (2022-2023), Q18 (2023-2024), Q1 (2023-2024)"
-        },
-        {
-            "id": 3011,
-            "question": "Aşağıdakilerden hangisi Freud’un fallik evreye ilişkin tanımlamasında yer alan özelliklerden biri <u>değildir</u>?",
-            "options": [
-                "Erkek çocuklar Oedipus karmaşası yaşar.",
-                "Çocuklar aynı cinsiyetteki ebeveynlerine karşı rekabet geliştirir.",
-                "Fallik evrede yaşanan kaygılar, çocuğun motor becerilerini geliştirir.",
-                "Kız çocuklar Elektra kompleksi geliştirir.",
-                "Rekabet çatışmaları, çocuğun aynı cinsiyetten ebeveyni ile özdeşleşene kadar devam eder."
-            ],
-            "correctIndex": 2,
-            "explanation": "Freud’un Fallik evresi (3-5 yaş), çocuklar aynı cinsiyetteki ebeveynine karşı rekabet geliştirmesi (Oedipus/Elektra kompleksi), cinsel kimlik kazanımı ve süperego gelişimi ile ilgilidir. <b>Motor becerileri geliştirme</b> bu evrenin bir özelliği olarak Freud tarafından tanımlanmamıştır.",
-            "unit": 3,
-            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
-            "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Q3 (2024-2025)"
-        },
-        {
-            "id": 3012,
-            "question": "Aşağıdakilerden hangisi Freud’a göre çatışmaların veya psikolojik bozulmaların kaynaklarından biri <u>değildir</u>?",
-            "options": [
-                "Fiziksel olgunlaşma",
-                "İçsel çatışmalar",
-                "Kişisel yetersizlikler",
-                "Model alma",
-                "Dışsal zorlanmalar"
-            ],
-            "correctIndex": 3,
-            "explanation": "Freud çatışmaların veya psikolojik bozulmaların kaynakları olarak Fiziksel olgunlaşma, Dışsal zorlanmalar, İçsel çatışmalar, Kişisel yetersizlikler ve Kaygıyı göstermektedir. <b>Model alma</b> ise Albert Bandura'nın Sosyal Bilişsel Öğrenme Kuramı ile ilgili temel bir kavramdır. Bu nedenle Model alma, Freud’a göre bir çatışma kaynağı değildir.",
-            "unit": 3,
-            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
-            "source": "Vize Soruları 2020-2023",
-            "sourceInfo": "Q19 (2020), Q8 (2022), Q11 (2023-2024)"
-        },
-        {
-            "id": 3013,
-            "question": "Çocukların aynı cinsiyetten ebeveyn rakiplerinin cinsiyet-rol özelliklerini ve ahlaki standartlarını içselleştirdikleri Freud’un psikoseksüel gelişim evresi aşağıdakilerden hangisidir?",
-            "options": [
-                "Oral evre",
-                "Fallik evre",
-                "Latent evre",
-                "Anal evre",
-                "Genital evre"
-            ],
-            "correctIndex": 1,
-            "explanation": "<b>Fallik evre</b> (3-6 yaş), çocukların aynı cinsiyetten ebeveyn ile özdeşleşme yoluyla, ebeveyn rakiplerinin cinsiyet-rol özelliklerini ve ahlaki standartlarını içselleştirdikleri dönemdir. Bu süreç vicdan (süperego) gelişimine yol açar.",
-            "unit": 3,
-            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Q10 (2023-2024), Q16 (2023-2024)"
+            "sourceInfo": "Soru-1 (Ünite 3)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3014,
@@ -695,24 +547,218 @@
             "unit": 3,
             "topic": "3.1.2. G. Stanley Hall’ın Olgunlaşma Teorisi",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Q3 (2024-2025), Q19 (2024-2025)"
+            "sourceInfo": "Q3 (2024-2025), Q19 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 3015,
-            "question": "Aşağıdakilerden hangisi yetkeci/otoriter ebeveynlik stiliyle <u>ilgili değildir</u>?",
+            "id": 3010,
+            "question": "Çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne süren teori aşağıdakilerden hangisidir?",
             "options": [
-                "Anlaşmazlık ifadelerini hoş görmezler.",
-                "Sözleri hukuktur.",
-                "Kontrolcü, cezalandırıcı, katı ve soğuktur.",
-                "Çocuklarına her konuda rehberlik ve eşlik ederler.",
-                "Tartışmasız itaat etmeye değer verirler."
+                "Olgunlaşma Teorisi",
+                "Sosyal öğrenme Teorisi",
+                "Çoklu Zekâ Teorisi",
+                "Bilişsel Teori",
+                "Psikanalitik Teori"
+            ],
+            "correctIndex": 0,
+            "explanation": "Olgunlaşma teorisi, çocuk gelişimi teorilerinin en eskisidir. Bu teori, çocukların gelişimi üzerinde en fazla etkiye genetik yapının sahip olduğunu öne sürmektedir. Bireyler olgunlaştıkça kalıtsal potansiyelleri ortaya çıkar.",
+            "unit": 3,
+            "topic": "3.1. Olgunlaşma Teorisi",
+            "source": "Vize Soruları 2021-2022, 2022-2023, 2023-2024",
+            "sourceInfo": "Q2 (2021-2022), Q1 (2022-2023), Q18 (2023-2024), Q1 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3002,
+            "question": "Aşağıdakilerden hangisi Freud topografik kişilik kuramı ile ilgili <u>değildir</u>?",
+            "options": [
+                "Bilinç",
+                "Bilinç öncesi",
+                "Bilinçaltı",
+                "Bilinçdışı",
+                "Bilinç ötesi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Freud'un topografik kişilik kuramına göre zihinsel süreçler üç kavram üzerinde şekillenmektedir: Bilinç, bilinç öncesi ve bilinçaltı ya da bilinçdışı. Bu nedenle <b>Bilinç ötesi</b> kavramı bu kuram ile ilgili değildir.",
+            "unit": 3,
+            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-2 (Ünite 3)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3003,
+            "question": "Aşağıdakilerden hangisi Freud’un psikoseksüel gelişim evrelerinden biri <u>değildir</u>?",
+            "options": [
+                "Oral evre",
+                "Anal evre",
+                "Fallik evre",
+                "Gizil evre",
+                "Ergenlik evresi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Freud, doğumdan ergenlik dönemine kadar duygusal açıdan beş gelişim evresi olduğunu söylemiştir; bunlar Oral, Anal, Fallik, Latent (Gizil) ve Genital evrelerdir. Freud'un teorisinde Ergenlik evresi (veya Genital evre yerine Ergenlik evresi) bir psikoseksüel gelişim evresi olarak belirtilmemiştir. Seçeneklerdeki Genital evre dışındaki tüm evreler (Oral, Anal, Fallik, Latent) Freud’un psikoseksüel evrelerindendir. 'Güvensizlik evresi' ise Freud'a değil, Erikson'a ait bir aşamadır. 'Ergenlik evresi' Freud’un psikoseksüel evrelerinden biri değildir.",
+            "unit": 3,
+            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
+            "source": "Ünite Soruları ve Vize Soruları",
+            "sourceInfo": "Soru-3 (Ünite 3), Q4 (2020), Q5 (2022)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3011,
+            "question": "Aşağıdakilerden hangisi Freud’un fallik evreye ilişkin tanımlamasında yer alan özelliklerden biri <u>değildir</u>?",
+            "options": [
+                "Erkek çocuklar Oedipus karmaşası yaşar.",
+                "Çocuklar aynı cinsiyetteki ebeveynlerine karşı rekabet geliştirir.",
+                "Fallik evrede yaşanan kaygılar, çocuğun motor becerilerini geliştirir.",
+                "Kız çocuklar Elektra kompleksi geliştirir.",
+                "Rekabet çatışmaları, çocuğun aynı cinsiyetten ebeveyni ile özdeşleşene kadar devam eder."
+            ],
+            "correctIndex": 2,
+            "explanation": "Freud’un Fallik evresi (3-5 yaş), çocuklar aynı cinsiyetteki ebeveynine karşı rekabet geliştirmesi (Oedipus/Elektra kompleksi), cinsel kimlik kazanımı ve süperego gelişimi ile ilgilidir. <b>Motor becerileri geliştirme</b> bu evrenin bir özelliği olarak Freud tarafından tanımlanmamıştır.",
+            "unit": 3,
+            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
+            "source": "Vize Soruları 2024-2025",
+            "sourceInfo": "Q3 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3012,
+            "question": "Aşağıdakilerden hangisi Freud’a göre çatışmaların veya psikolojik bozulmaların kaynaklarından biri <u>değildir</u>?",
+            "options": [
+                "Fiziksel olgunlaşma",
+                "İçsel çatışmalar",
+                "Kişisel yetersizlikler",
+                "Model alma",
+                "Dışsal zorlanmalar"
             ],
             "correctIndex": 3,
-            "explanation": "Yetkeci/otoriter stil, kontrolcü, cezalandırıcı, katı ve soğuk olmayı, tartışmasız itaate değer vermeyi içerir; anlaşmazlık ifadeleri hoş görülmez. <b>Çocuklarına her konuda rehberlik ve eşlik etme</b> özelliği ise Yetkeli/Demokratik ebeveynlik stiliyle ilişkilidir.",
+            "explanation": "Freud çatışmaların veya psikolojik bozulmaların kaynakları olarak Fiziksel olgunlaşma, Dışsal zorlanmalar, İçsel çatışmalar, Kişisel yetersizlikler ve Kaygıyı göstermektedir. <b>Model alma</b> ise Albert Bandura'nın Sosyal Bilişsel Öğrenme Kuramı ile ilgili temel bir kavramdır. Bu nedenle Model alma, Freud’a göre bir çatışma kaynağı değildir.",
             "unit": 3,
-            "topic": "2.1.1. Ebeveynlik Stilleri (Mükerrer Soru - 2. Üniteden de yer alıyor ancak açıklama içerdiği için dahil edilmiştir)",
-            "source": "Vize Soruları 2021-2022, 2023-2024",
-            "sourceInfo": "Q3 (2021-2022), Q4 (2023-2024), Q12 (2023-2024)"
+            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
+            "source": "Vize Soruları 2020-2023",
+            "sourceInfo": "Q19 (2020), Q8 (2022), Q11 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3013,
+            "question": "Çocukların aynı cinsiyetten ebeveyn rakiplerinin cinsiyet-rol özelliklerini ve ahlaki standartlarını içselleştirdikleri Freud’un psikoseksüel gelişim evresi aşağıdakilerden hangisidir?",
+            "options": [
+                "Oral evre",
+                "Fallik evre",
+                "Latent evre",
+                "Anal evre",
+                "Genital evre"
+            ],
+            "correctIndex": 1,
+            "explanation": "<b>Fallik evre</b> (3-6 yaş), çocukların aynı cinsiyetten ebeveyn ile özdeşleşme yoluyla, ebeveyn rakiplerinin cinsiyet-rol özelliklerini ve ahlaki standartlarını içselleştirdikleri dönemdir. Bu süreç vicdan (süperego) gelişimine yol açar.",
+            "unit": 3,
+            "topic": "3.2.1. Sigmund Freud’un Psikanalitik Teorisi",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Q10 (2023-2024), Q16 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3004,
+            "question": "Erikson’ göre psikososyal gelişme yaşam boyu devam eden sekiz evreden oluşmaktadır. Verilen açıklama Erikson’un psikososyal gelişim teorisinin temel varsayımlarından hangisine aittir?",
+            "options": [
+                "Yaşam boyu psikososyal gelişim",
+                "Etkileşimci bir bakış açısı",
+                "Psikososyal gelişim",
+                "Sıralı psikososyal gelişim evreleri",
+                "Ego kimliği"
+            ],
+            "correctIndex": 0,
+            "explanation": "Erikson’un temel varsayımlarından biri, psikososyal gelişimin ömür boyu devam eden sekiz evreden oluştuğunu belirten <b>Yaşam boyu psikososyal gelişim</b>dir.",
+            "unit": 3,
+            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-4 (Ünite 3)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3005,
+            "question": "Aşağıda verilenlerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "1. evre: Temel güvene karşın güvensizlik (0-1 yaş)",
+                "2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)",
+                "3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)",
+                "4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)",
+                "5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)"
+            ],
+            "correctIndex": 4,
+            "explanation": "Erikson’un psikososyal gelişim evrelerine göre, 5. evre olan Kimlik kazanmaya karşın kimlik karmaşası, genç yetişkinlik dönemi yerine <b>13-18 yaş (ergenlik)</b> dönemini kapsar.",
+            "unit": 3,
+            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-5 (Ünite 3)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3006,
+            "question": "Umut erdemi Erikson’un hangi gelişim evresinde ortaya çıkmaktadır?",
+            "options": [
+                "1. evre: Temel güvene karşın güvensizlik (0-1 yaş)",
+                "2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)",
+                "3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)",
+                "4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)",
+                "5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)"
+            ],
+            "correctIndex": 0,
+            "explanation": "Erikson’un teorisinde umut duygusu, ilk sosyal-duygusal aşamada (1. evre: Temel güvene karşı temel güvensizlik, 0-1 yaş) ortaya çıkan ve olumlu ego kimliği oluşturan erdemdir. Bebeklerin umut duygusu, yaşadıkları güvensizlik duygusu ile ebeveynlerine duydukları güvenden ortaya çıkar.",
+            "unit": 3,
+            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-6 (Ünite 3)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3007,
+            "question": "Çocuklar bu evrede Erikson tarafından ileri sürülen yetkinlik erdemini kazanır. Açıklamaya göre çocuklar hangi evrenin içindedirler?",
+            "options": [
+                "1. evre: Temel güvene karşın güvensizlik (0-1 yaş)",
+                "2. evre: Özerkliğe karşın utanç ve şüphe (2-3 yaş)",
+                "3. evre: Girişimciliğe karşın suçluluk duygusu (4-5 yaş)",
+                "4. evre: Çalışkanlığa karşın yetersizlik duygusu (6-12 yaş)",
+                "5. evre: Kimlik kazanmaya karşın kimlik karmaşası (genç yetişkinlik)"
+            ],
+            "correctIndex": 3,
+            "explanation": "Çocuklar, 4. evre olan <b>Çalışkanlığa karşın yetersizlik duygusu</b> aşamasında (6-12 yaş), yeni fırsatlara hakim olduklarında Erikson tarafından ileri sürülen <b>yetkinlik</b> (yeterlik) erdemini kazanırlar. Yeterli düzeyde çalışkanlık, çocukların kendinden emin olması için gerekli sosyal ve akademik becerileri kazanmasını sağlar.",
+            "unit": 3,
+            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-7 (Ünite 3)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3009,
+            "question": "Erikson’un psikososyal gelişim teorisinin 0-18 yaş aralığını kapsayan evrelerinin her birinde ortaya çıkan olumlu ego kimliği oluşturan erdemler aşağıdaki seçeneklerin hangisinde sırasıyla verilmiştir?",
+            "options": [
+                "Umut, irade, amaç, sadakat, yeterlik",
+                "Umut, irade, amaç, yeterlik, sadakat",
+                "Umut, amaç, irade, yeterlik, sadakat",
+                "Umut, yeterlik, irade, amaç, sadakat",
+                "İrade, umut, amaç, yeterlik, sadakat"
+            ],
+            "correctIndex": 1,
+            "explanation": "Erikson’un ilk beş evresinin (0-18 yaş) olumlu ego kimliği oluşturan erdemleri sırasıyla şunlardır: Temel güvene karşı güvensizlik (Umut), Özerkliğe karşın utanç ve şüphe (İrade), Girişimciliğe karşın suçluluk (Amaç), Çalışkanlığa karşın yetersizlik (Yeterlik/Yetkinlik) ve Kimliğe karşın rol karmaşası (Sadakat).",
+            "unit": 3,
+            "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Q7 (2023-2024), Q12 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3016,
@@ -729,7 +775,28 @@
             "unit": 3,
             "topic": "3.2.2. Erik Erikson’un Psikososyal Gelişim Teorisi",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Q17 (2022-2023), Q4 (2022-2023)"
+            "sourceInfo": "Q17 (2022-2023), Q4 (2022-2023)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3008,
+            "question": "<u>“Açıkçası, ne yapacağım hakkında hiçbir fikrim yok.”</u> diye düşünen bir ergen aşağıdaki seçeneklerin hangisinde verilen Marcia’nin ergen kimlik statüsündedir?",
+            "options": [
+                "Kimlik dağınıklığı",
+                "İpotekli kimlik",
+                "Kimlik moratoryumu",
+                "Başarılı kimlik",
+                "Hacizli kimlik"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kimlik dağınıklığı (Kimlik difüzyonu) statüsündeki birey, ne kimlik arayışındadır (kriz) ne de herhangi bir kimlik taahhüdünde (bağlılık) bulunmuştur. 'Ne yapacağım hakkında hiçbir fikrim yok' ifadesi bu kararsızlığı ve dağınıklığı yansıtır.",
+            "unit": 3,
+            "topic": "3.2.3. James Marcia’nın Kimlik Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-8 (Ünite 3)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3017,
@@ -746,24 +813,9 @@
             "unit": 3,
             "topic": "3.2.3. James Marcia’nın Kimlik Teorisi",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Q18 (2022-2023), Q4 (2022-2023)"
-        },
-        {
-            "id": 3018,
-            "question": "Aşağıdakilerden hangisi Marcia’nın ergen kimlik statülerinden biri <u>değildir</u>?",
-            "options": [
-                "Bağımsız kimlik",
-                "İpotekli kimlik",
-                "Kimlik moratoryumu",
-                "Kimlik dağınıklığı",
-                "Başarılı kimlik"
-            ],
-            "correctIndex": 0,
-            "explanation": "James Marcia’nın tanımladığı dört kimlik statüsü İpotekli kimlik, Kimlik moratoryumu, Başarılı kimlik ve Kimlik dağınıklığıdır. <b>Bağımsız kimlik</b> Marcia'nın statülerinden biri değildir.",
-            "unit": 3,
-            "topic": "3.2.3. James Marcia’nın Kimlik Teorisi",
-            "source": "Bütünleme Soruları 2022",
-            "sourceInfo": "Q10 (2022)"
+            "sourceInfo": "Q18 (2022-2023), Q4 (2022-2023)",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 4001,
@@ -780,7 +832,9 @@
             "unit": 4,
             "topic": "4.1. John B. Watson’un Davranışçı Teorisi",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Q12 (2024-2025)"
+            "sourceInfo": "Q12 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4002,
@@ -797,24 +851,9 @@
             "unit": 4,
             "topic": "4.1. John B. Watson’un Davranışçı Teorisi",
             "source": "Vize ve Final Soruları 2020-2024",
-            "sourceInfo": "Q14 (Vize 2020), Q7 (Final 2023-2024)"
-        },
-        {
-            "id": 4003,
-            "question": "Aşağıdakilerden hangisi davranışçıların inandığı görüşlerden biri <u>değildir</u>?",
-            "options": [
-                "Birey davranışı veya doğru tepkisi için ödül veya pekiştirme aldığında öğrenme gerçekleşir.",
-                "İhtiyaçların başka bir kişi veya çevresel faktörler tarafından karşılanıp veya karşılanmaması sonucunda öğrenme meydana gelir.",
-                "Çocuğun davranışını ödül veya pekiştirme izlediğinde davranışı tekrar edecektir.",
-                "Çocuğun davranışını hoş olmayan bir şey izler veya görmezden gelinirse davranış sönecektir.",
-                "Çocuğun davranışını hoş olmayan bir şey izler veya görmezden gelinirse davranış tekrar edecektir."
-            ],
-            "correctIndex": 4,
-            "explanation": "Davranışçılar, çocuğun davranışını hoş olmayan bir şey izler veya görmezden gelinirse davranışın <b>söneceğine</b> inanırlar. Bu nedenle, çocuğun davranışını hoş olmayan bir şeyin izlemesi veya görmezden gelinmesi durumunda davranışın tekrar edeceğine inanılması <u>yanlıştır</u>.",
-            "unit": 4,
-            "topic": "4.2. Burrhus Frederic Skinner’in Edimsel Öğrenme Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-1 (Ünite 4)"
+            "sourceInfo": "Q14 (Vize 2020), Q7 (Final 2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4004,
@@ -831,24 +870,28 @@
             "unit": 4,
             "topic": "4.2.1. Edimsel Koşullanmanın Eğitime Uygulanması",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-2 (Ünite 4)"
+            "sourceInfo": "Soru-2 (Ünite 4)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 4005,
-            "question": "Çocukların sosyal öğrenimlerinin çoğunun, başkalarından gördükleri ve duyduklarını aktif olarak taklit etmeleri veya kopyalamaları yoluyla geldiğini ileri sürmektedir. Verilen açıklama aşağıdaki teorisyenlerden hangisine aittir?",
+            "id": 4003,
+            "question": "Aşağıdakilerden hangisi davranışçıların inandığı görüşlerden biri <u>değildir</u>?",
             "options": [
-                "Bandura",
-                "Skinner",
-                "Watson",
-                "Freud",
-                "Sullivan"
+                "Birey davranışı veya doğru tepkisi için ödül veya pekiştirme aldığında öğrenme gerçekleşir.",
+                "İhtiyaçların başka bir kişi veya çevresel faktörler tarafından karşılanıp veya karşılanmaması sonucunda öğrenme meydana gelir.",
+                "Çocuğun davranışını ödül veya pekiştirme izlediğinde davranışı tekrar edecektir.",
+                "Çocuğun davranışını hoş olmayan bir şey izler veya görmezden gelinirse davranış sönecektir.",
+                "Çocuğun davranışını hoş olmayan bir şey izler veya görmezden gelinirse davranış tekrar edecektir."
             ],
-            "correctIndex": 0,
-            "explanation": "<b>Albert Bandura</b>’nın sosyal öğrenme teorisi, çocukların sosyal davranışlarının akranları, ebeveynleri, öğretmenleri ve çevreleriyle ilgili <b>gözlemlerinin</b> bir sonucu olduğunu ve çocukların sosyal öğrenimlerinin çoğunun başkalarından gördükleri ve duyduklarını aktif olarak <b>taklit etmeleri veya kopyalamaları</b> yoluyla geldiğini ileri sürmektedir.",
+            "correctIndex": 4,
+            "explanation": "Davranışçılar, çocuğun davranışını hoş olmayan bir şey izler veya görmezden gelinirse davranışın <b>söneceğine</b> inanırlar. Bu nedenle, çocuğun davranışını hoş olmayan bir şeyin izlemesi veya görmezden gelinmesi durumunda davranışın tekrar edeceğine inanılması <u>yanlıştır</u>.",
             "unit": 4,
-            "topic": "4.3. Albert Bandura’nın Sosyal Bilişsel Öğrenme Kuramı",
+            "topic": "4.2. Burrhus Frederic Skinner’in Edimsel Öğrenme Teorisi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-3 (Ünite 4)"
+            "sourceInfo": "Soru-1 (Ünite 4)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4006,
@@ -865,7 +908,9 @@
             "unit": 4,
             "topic": "4.3.2. Gözlemsel Öğrenmenin Temeli: Modelleme",
             "source": "Vize Soruları 2020-2023",
-            "sourceInfo": "Q4 (2021 Vize), Q16 (2020 Vize), Q4 (2022 Vize), Q16 (2023-2024 Vize)"
+            "sourceInfo": "Q4 (2021 Vize), Q16 (2020 Vize), Q4 (2022 Vize), Q16 (2023-2024 Vize)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4007,
@@ -882,7 +927,9 @@
             "unit": 4,
             "topic": "4.3.2. Gözlemsel Öğrenmenin Temeli: Modelleme",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 4)"
+            "sourceInfo": "Soru-6 (Ünite 4)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4008,
@@ -899,7 +946,9 @@
             "unit": 4,
             "topic": "4.3.2. Gözlemsel Öğrenmenin Temeli: Modelleme",
             "source": "Vize Soruları",
-            "sourceInfo": "Q4 (Ünite 4), Q3 (2022 Vize), Q13 (2021 Vize), Q17 (2023-2024 Vize)"
+            "sourceInfo": "Q4 (Ünite 4), Q3 (2022 Vize), Q13 (2021 Vize), Q17 (2023-2024 Vize)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4009,
@@ -916,7 +965,9 @@
             "unit": 4,
             "topic": "4.3.3. Gözlemsel Öğrenme Süreçleri/Sosyal Öğrenmenin Bilişsel Mekanizması",
             "source": "Vize Soruları 2020-2022",
-            "sourceInfo": "Q8 (2021 Vize), Q9 (2020 Vize), Q21 (2022 Bütünleme)"
+            "sourceInfo": "Q8 (2021 Vize), Q9 (2020 Vize), Q21 (2022 Bütünleme)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4010,
@@ -933,7 +984,9 @@
             "unit": 4,
             "topic": "4.3.3. Gözlemsel Öğrenme Süreçleri/Sosyal Öğrenmenin Bilişsel Mekanizması",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Q18 (2024-2025)"
+            "sourceInfo": "Q18 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4011,
@@ -950,7 +1003,9 @@
             "unit": 4,
             "topic": "4.3.3. Gözlemsel Öğrenme Süreçleri/Sosyal Öğrenmenin Bilişsel Mekanizması",
             "source": "Vize Soruları 2020-2023",
-            "sourceInfo": "Q7 (2020 Vize), Q12 (2022 Vize), Q6 (2023-2024 Vize)"
+            "sourceInfo": "Q7 (2020 Vize), Q12 (2022 Vize), Q6 (2023-2024 Vize)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4012,
@@ -967,7 +1022,9 @@
             "unit": 4,
             "topic": "4.3.4. Bandura’nın Kişilik Açıklamasının Parçasını Oluşturan Diğer Önemli Kavramlar",
             "source": "Vize Soruları 2020-2024",
-            "sourceInfo": "Q6 (2020 Vize), Q9 (Ünite 4), Q13 (2024-2025 Vize)"
+            "sourceInfo": "Q6 (2020 Vize), Q9 (Ünite 4), Q13 (2024-2025 Vize)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4013,
@@ -984,7 +1041,9 @@
             "unit": 4,
             "topic": "4.3.4. Bandura’nın Kişilik Açıklamasının Parçasını Oluşturan Diğer Önemli Kavramlar",
             "source": "Ünite Soruları ve Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru-8 (Ünite 4), Q14 (Bütünleme 2023-2024)"
+            "sourceInfo": "Soru-8 (Ünite 4), Q14 (Bütünleme 2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4014,
@@ -1001,7 +1060,9 @@
             "unit": 4,
             "topic": "4.3.4. Bandura’nın Kişilik Açıklamasının Parçasını Oluşturan Diğer Önemli Kavramlar",
             "source": "Vize Soruları 2021 ve Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Q7 (2021 Vize), Q2 (2022-2023 Bütünleme)"
+            "sourceInfo": "Q7 (2021 Vize), Q2 (2022-2023 Bütünleme)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4015,
@@ -1018,7 +1079,9 @@
             "unit": 4,
             "topic": "4.3.4. Bandura’nın Kişilik Açıklamasının Parçasını Oluşturan Diğer Önemli Kavramlar",
             "source": "Vize Soruları 2020 ve Bütünleme Soruları 2022",
-            "sourceInfo": "Q13 (2020 Vize), Q1 (2022 Bütünleme)"
+            "sourceInfo": "Q13 (2020 Vize), Q1 (2022 Bütünleme)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4016,
@@ -1035,7 +1098,9 @@
             "unit": 4,
             "topic": "4.3.4. Bandura’nın Kişilik Açıklamasının Parçasını Oluşturan Diğer Önemli Kavramlar",
             "source": "Vize Soruları 2020 ve 2024-2025",
-            "sourceInfo": "Q7 (2020 Vize), Q14 (2024-2025 Vize)"
+            "sourceInfo": "Q7 (2020 Vize), Q14 (2024-2025 Vize)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4017,
@@ -1052,7 +1117,28 @@
             "unit": 4,
             "topic": "4.3.5. Sosyal Bilişsel Teorinin Eğitime Uygulanması",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Q6 (2022-2023 Final)"
+            "sourceInfo": "Q6 (2022-2023 Final)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4005,
+            "question": "Çocukların sosyal öğrenimlerinin çoğunun, başkalarından gördükleri ve duyduklarını aktif olarak taklit etmeleri veya kopyalamaları yoluyla geldiğini ileri sürmektedir. Verilen açıklama aşağıdaki teorisyenlerden hangisine aittir?",
+            "options": [
+                "Bandura",
+                "Skinner",
+                "Watson",
+                "Freud",
+                "Sullivan"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Albert Bandura</b>’nın sosyal öğrenme teorisi, çocukların sosyal davranışlarının akranları, ebeveynleri, öğretmenleri ve çevreleriyle ilgili <b>gözlemlerinin</b> bir sonucu olduğunu ve çocukların sosyal öğrenimlerinin çoğunun başkalarından gördükleri ve duyduklarını aktif olarak <b>taklit etmeleri veya kopyalamaları</b> yoluyla geldiğini ileri sürmektedir.",
+            "unit": 4,
+            "topic": "4.3. Albert Bandura’nın Sosyal Bilişsel Öğrenme Kuramı",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-3 (Ünite 4)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5001,
@@ -1069,7 +1155,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-1 (Ünite 5)"
+            "sourceInfo": "Soru-1 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5002,
@@ -1086,7 +1174,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Vize Soruları 2021-2023 ve Ünite Soruları",
-            "sourceInfo": "Q15 (2021), Q9 (2022), Q9 (2022-2023), Soru-2 (Ünite 5)"
+            "sourceInfo": "Q15 (2021), Q9 (2022), Q9 (2022-2023), Soru-2 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5003,
@@ -1103,7 +1193,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Vize Soruları 2020-2023 ve Ünite Soruları",
-            "sourceInfo": "Q16 (2020-2), Q5 (2021), Q16 (2022), Q19 (2023-2024), Soru-3 (Ünite 5)"
+            "sourceInfo": "Q16 (2020-2), Q5 (2021), Q16 (2022), Q19 (2023-2024), Soru-3 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5004,
@@ -1120,7 +1212,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4 (Ünite 5)"
+            "sourceInfo": "Soru-4 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5005,
@@ -1137,7 +1231,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-5 (Ünite 5)"
+            "sourceInfo": "Soru-5 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5006,
@@ -1154,75 +1250,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 5)"
-        },
-        {
-            "id": 5007,
-            "question": "Çocuklar akan bir diyalogda kendi kendine yüksek sesle konuşur ancak bu konuşmayı düşüncelerine rehberlik etmek, bir problem üzerinde düşünmek ve eylemlerini planlamak için kullanır. Verilen açıklama aşağıdakilerden hangisi ile ilgilidir?",
-            "options": [
-                "Hayali izleyici olgusu",
-                "Kişisel masal",
-                "Dengeleme",
-                "Nesne sürekliliği",
-                "Özel konuşma"
-            ],
-            "correctIndex": 4,
-            "explanation": "Çocukların kendi kendine yüksek sesle konuşması, düşüncelerine rehberlik etmesi, problem üzerinde düşünmesi ve eylemlerini planlaması, Vygotsky’nin teorisinde de yer alan <b>Özel konuşma</b> (Private speech) kavramı ile ilgilidir.",
-            "unit": 5,
-            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-7 (Ünite 5)"
-        },
-        {
-            "id": 5008,
-            "question": "Çocukların bağımsız yapabilecekleri ile yardım alarak yapabilecekleri arasındaki mesafeye <u>...............</u> adını vermiştir. Boşluğu en uygun ifade ile tamamlayınız?",
-            "options": [
-                "Hayali izleyici olgusu",
-                "Kişisel masal",
-                "Yakınsak gelişim alanı",
-                "Nesne sürekliliği",
-                "Özel konuşma"
-            ],
-            "correctIndex": 2,
-            "explanation": "Vygotsky, çocukların bağımsız yapabilecekleri ile akran yardımı ve rehberliği ile yapabilecekleri arasındaki farka <b>Yakınsak gelişim alanı</b> (Proximal Development Zone) adını vermiştir.",
-            "unit": 5,
-            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-8 (Ünite 5)"
-        },
-        {
-            "id": 5009,
-            "question": "Aşağıdakilerden hangisi Bronfenbrenner’in mikrosistemi ile ilgili <u>değildir</u>?",
-            "options": [
-                "Çocukların günlük yaşamına öncülük ettiği yakın çevresidir.",
-                "Bakıcılar, arkadaşlar ve öğretmenler tümü mikrosistemin parçalarıdır",
-                "Mikrosistem, bir kişinin ev, okul veya arkadaşlık grupları ile yakın ortamlarında yüz yüze etkileşimlerini içerir.",
-                "Bir anne ve bir çocuk arasındaki etkileşim, bir çocuk ve bir akran arasındaki veya iki kardeş arasındaki etkileşim bir mikrosistem oluşturur.",
-                "Çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini ifade eder"
-            ],
-            "correctIndex": 4,
-            "explanation": "Mikrosistem, çocuğun günlük yaşamına öncülük eden yakın çevresidir. <b>Çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini ifade eden</b> sistem ise <b>Makrosistem</b>dir.",
-            "unit": 5,
-            "topic": "5.4. Urie Bronfenbrenner’in Çevresel/Ekolojik Sistemler Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-9 (Ünite 5)"
-        },
-        {
-            "id": 5010,
-            "question": "Aşağıdakilerden hangisi Bronfenbrenner’in makrosistemi ile ilgilidir?",
-            "options": [
-                "Çocukların günlük yaşamına öncülük ettiği yakın çevresidir.",
-                "Bakıcılar, arkadaşlar ve öğretmenler tümü mikrosistemin parçalarıdır",
-                "Mikrosistem, bir kişinin ev, okul veya arkadaşlık grupları ile yakın ortamlarda yüz yüze etkileşimlerini içerir.",
-                "Bir anne ve bir çocuk arasındaki etkileşim, bir çocuk ve bir akran arasındaki veya iki kardeş arasındaki etkileşim bir mikrosistem oluşturur.",
-                "Çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini ifade eder"
-            ],
-            "correctIndex": 4,
-            "explanation": "Makrosistem, çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini (farklı sosyal sınıflar, etnik ve ırksal gruplar, dinler) ifade eder. Bu sistem, çocuklara nasıl davranılması gerektiği, ne öğretilmesi gerektiği gibi geniş, kapsayıcı bir ideolojiyi dikte eder.",
-            "unit": 5,
-            "topic": "5.4. Urie Bronfenbrenner’in Çevresel/Ekolojik Sistemler Teorisi",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-10 (Ünite 5)"
+            "sourceInfo": "Soru-6 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5011,
@@ -1239,24 +1269,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Vize Soruları 2020-2022",
-            "sourceInfo": "Q12 (2020-2), Q9 (2020-2)"
-        },
-        {
-            "id": 5012,
-            "question": "Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgili bir açıklama <u>değildir</u>?",
-            "options": [
-                "Temel gelişimsel kavramlar şema, özümleme, uyum ve dengedir.",
-                "Bilişsel gelişim, iskele kurma ile bilişsel çıraklık gibi aktif sosyal bağlamlar yaratarak desteklenir.",
-                "Bilişsel gelişim, devam eden bir süreç içinde meydana gelir.",
-                "Çocuk sözlü etkileşimlerle onları teşvik eden yetenekli başkaları ile etkileşime girdikçe bilişsel gelişim ilerler.",
-                "Bilişsel gelişim, çocuğun yetiştiği sosyokültürel bağlama ve dil kullanımına bağlıdır."
-            ],
-            "correctIndex": 0,
-            "explanation": "<b>Temel gelişimsel kavramlar şema, özümleme, uyum ve dengedir</b> ifadesi, Jean Piaget’nin teorisine aittir. Vygotsky’nin teorisinin temel kavramları yakınsak gelişim alanı, dil ve diğer kültürel araçlardır.",
-            "unit": 5,
-            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
-            "source": "Vize ve Bütünleme Soruları 2020-2024",
-            "sourceInfo": "Q2 (2020-2), Q19 (2021-2022), Q3 (2022-2023), Q19 (2023-2024), Q20 (2024-2025)"
+            "sourceInfo": "Q12 (2020-2), Q9 (2020-2)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5013,
@@ -1273,7 +1288,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Vize ve Bütünleme Soruları 2020-2022",
-            "sourceInfo": "Q17 (2020-2), Q19 (2022), Q37 (Ünite Sorusu)"
+            "sourceInfo": "Q17 (2020-2), Q19 (2022), Q37 (Ünite Sorusu)",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 5014,
@@ -1290,24 +1307,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Q19 (2022), Q12 (2022-2023)"
-        },
-        {
-            "id": 5015,
-            "question": "Aşağıdakilerden hangisi somut işlemler döneminin karakteristik becerilerinden biridir?",
-            "options": [
-                "Mevcut nesneler hakkında mantık yürütebilir.",
-                "Nesne sürekliliğini kazanır.",
-                "Temel nedensellik anlayışı gelişir.",
-                "Kendini nesnelerden ve diğer insanlardan ayırır.",
-                "Taklit etmeye ve yaratıcı oyuna katılmaya başlar."
-            ],
-            "correctIndex": 0,
-            "explanation": "Somut işlemler döneminde (7-11 yaş) çocuklar, mantık geliştirdiği ancak soyut olarak akıl yürütemediği bir aşamadadır. Bu dönemin karakteristik becerisi, <b>Mevcut nesneler hakkında mantık yürütebilmesidir</b> (somut nesneleri içeren problemlere bilişsel işlemler uygulayabilir).",
-            "unit": 5,
-            "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
-            "source": "Vize ve Bütünleme Soruları 2020-2023",
-            "sourceInfo": "Q5 (2020-1), Q15 (2022-2023 Bütünleme), Q1 (2023-2024)"
+            "sourceInfo": "Q19 (2022), Q12 (2022-2023)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5016,
@@ -1324,41 +1326,9 @@
             "unit": 5,
             "topic": "5.1. Jean Piaget’nin Bilişsel Gelişim Teorisi",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Q7 (2023-2024)"
-        },
-        {
-            "id": 5017,
-            "question": "Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgilidir?",
-            "options": [
-                "Bilişsel gelişim, çocuğun nesneleri ve fikirleri manipüle etmesine izin verilerek desteklenir.",
-                "Bilişsel gelişim, devam eden bir süreç içinde meydana gelir.",
-                "Bilişsel gelişim, çocuğun çevre ile etkileşimine bağımlıdır.",
-                "Bilişsel gelişim olgunlaşma ile başlar ve zihin bilişsel çatışma tarafından uyarıldıkça ilerler.",
-                "Bilişsel gelişim, aşamalardan ortaya çıkar."
-            ],
-            "correctIndex": 1,
-            "explanation": "Vygotsky’nin teorisine göre bilişsel gelişim, aşamalardan ortaya çıkan (Piaget'in görüşü) bir süreç değil, <b>devam eden bir süreç içinde meydana gelir</b>. Vygotsky’nin sosyokültürel teorisi, bilişsel gelişimin aşamalar halinde değil, sosyal etkileşim ve kültür bağlamında sürekli bir süreç içinde ilerlediğini savunur.",
-            "unit": 5,
-            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
-            "source": "Vize Soruları 2020-2022",
-            "sourceInfo": "Q1 (2020-2), Q7 (2022)"
-        },
-        {
-            "id": 5018,
-            "question": "Bir toplumun dilini ve kültürünü edinmenin kilit mekanizmasının sosyal etkileşim olduğuna inanan teorisyen aşağıdakilerden hangisidir?",
-            "options": [
-                "Bronfenbrenner",
-                "Bruner",
-                "Bandura",
-                "Vygotsky",
-                "Piaget"
-            ],
-            "correctIndex": 3,
-            "explanation": "<b>Lev Vygotsky</b>’nin Sosyokültürel Teorisi, bir toplumun dilini ve kültürünü edinmenin kilit mekanizmasının <b>sosyal etkileşim</b> olduğuna inanır.",
-            "unit": 5,
-            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
-            "source": "Final ve Vize Soruları 2023-2025",
-            "sourceInfo": "Q20 (2023-2024 Final), Q19 (2024-2025 Vize)"
+            "sourceInfo": "Q7 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5019,
@@ -1375,7 +1345,142 @@
             "unit": 5,
             "topic": "5.2. Jerome Bruner’in Bilişsel Gelişim Teorisi",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Q8 (2024-2025)"
+            "sourceInfo": "Q8 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5007,
+            "question": "Çocuklar akan bir diyalogda kendi kendine yüksek sesle konuşur ancak bu konuşmayı düşüncelerine rehberlik etmek, bir problem üzerinde düşünmek ve eylemlerini planlamak için kullanır. Verilen açıklama aşağıdakilerden hangisi ile ilgilidir?",
+            "options": [
+                "Hayali izleyici olgusu",
+                "Kişisel masal",
+                "Dengeleme",
+                "Nesne sürekliliği",
+                "Özel konuşma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çocukların kendi kendine yüksek sesle konuşması, düşüncelerine rehberlik etmesi, problem üzerinde düşünmesi ve eylemlerini planlaması, Vygotsky’nin teorisinde de yer alan <b>Özel konuşma</b> (Private speech) kavramı ile ilgilidir.",
+            "unit": 5,
+            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-7 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5008,
+            "question": "Çocukların bağımsız yapabilecekleri ile yardım alarak yapabilecekleri arasındaki mesafeye <u>...............</u> adını vermiştir. Boşluğu en uygun ifade ile tamamlayınız?",
+            "options": [
+                "Hayali izleyici olgusu",
+                "Kişisel masal",
+                "Yakınsak gelişim alanı",
+                "Nesne sürekliliği",
+                "Özel konuşma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Vygotsky, çocukların bağımsız yapabilecekleri ile akran yardımı ve rehberliği ile yapabilecekleri arasındaki farka <b>Yakınsak gelişim alanı</b> (Proximal Development Zone) adını vermiştir.",
+            "unit": 5,
+            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-8 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5012,
+            "question": "Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgili bir açıklama <u>değildir</u>?",
+            "options": [
+                "Temel gelişimsel kavramlar şema, özümleme, uyum ve dengedir.",
+                "Bilişsel gelişim, iskele kurma ile bilişsel çıraklık gibi aktif sosyal bağlamlar yaratarak desteklenir.",
+                "Bilişsel gelişim, devam eden bir süreç içinde meydana gelir.",
+                "Çocuk sözlü etkileşimlerle onları teşvik eden yetenekli başkaları ile etkileşime girdikçe bilişsel gelişim ilerler.",
+                "Bilişsel gelişim, çocuğun yetiştiği sosyokültürel bağlama ve dil kullanımına bağlıdır."
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Temel gelişimsel kavramlar şema, özümleme, uyum ve dengedir</b> ifadesi, Jean Piaget’nin teorisine aittir. Vygotsky’nin teorisinin temel kavramları yakınsak gelişim alanı, dil ve diğer kültürel araçlardır.",
+            "unit": 5,
+            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
+            "source": "Vize ve Bütünleme Soruları 2020-2024",
+            "sourceInfo": "Q2 (2020-2), Q19 (2021-2022), Q3 (2022-2023), Q19 (2023-2024), Q20 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5017,
+            "question": "Aşağıdakilerden hangisi Vygotsky’nin teorisi ile ilgilidir?",
+            "options": [
+                "Bilişsel gelişim, çocuğun nesneleri ve fikirleri manipüle etmesine izin verilerek desteklenir.",
+                "Bilişsel gelişim, devam eden bir süreç içinde meydana gelir.",
+                "Bilişsel gelişim, çocuğun çevre ile etkileşimine bağımlıdır.",
+                "Bilişsel gelişim olgunlaşma ile başlar ve zihin bilişsel çatışma tarafından uyarıldıkça ilerler.",
+                "Bilişsel gelişim, aşamalardan ortaya çıkar."
+            ],
+            "correctIndex": 1,
+            "explanation": "Vygotsky’nin teorisine göre bilişsel gelişim, aşamalardan ortaya çıkan (Piaget'in görüşü) bir süreç değil, <b>devam eden bir süreç içinde meydana gelir</b>. Vygotsky’nin sosyokültürel teorisi, bilişsel gelişimin aşamalar halinde değil, sosyal etkileşim ve kültür bağlamında sürekli bir süreç içinde ilerlediğini savunur.",
+            "unit": 5,
+            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
+            "source": "Vize Soruları 2020-2022",
+            "sourceInfo": "Q1 (2020-2), Q7 (2022)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5018,
+            "question": "Bir toplumun dilini ve kültürünü edinmenin kilit mekanizmasının sosyal etkileşim olduğuna inanan teorisyen aşağıdakilerden hangisidir?",
+            "options": [
+                "Bronfenbrenner",
+                "Bruner",
+                "Bandura",
+                "Vygotsky",
+                "Piaget"
+            ],
+            "correctIndex": 3,
+            "explanation": "<b>Lev Vygotsky</b>’nin Sosyokültürel Teorisi, bir toplumun dilini ve kültürünü edinmenin kilit mekanizmasının <b>sosyal etkileşim</b> olduğuna inanır.",
+            "unit": 5,
+            "topic": "5.3. Lev Semenovich Vygotsky’nin Sosyokültürel Teorisi",
+            "source": "Final ve Vize Soruları 2023-2025",
+            "sourceInfo": "Q20 (2023-2024 Final), Q19 (2024-2025 Vize)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5009,
+            "question": "Aşağıdakilerden hangisi Bronfenbrenner’in mikrosistemi ile ilgili <u>değildir</u>?",
+            "options": [
+                "Çocukların günlük yaşamına öncülük ettiği yakın çevresidir.",
+                "Bakıcılar, arkadaşlar ve öğretmenler tümü mikrosistemin parçalarıdır",
+                "Mikrosistem, bir kişinin ev, okul veya arkadaşlık grupları ile yakın ortamlarında yüz yüze etkileşimlerini içerir.",
+                "Bir anne ve bir çocuk arasındaki etkileşim, bir çocuk ve bir akran arasındaki veya iki kardeş arasındaki etkileşim bir mikrosistem oluşturur.",
+                "Çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini ifade eder"
+            ],
+            "correctIndex": 4,
+            "explanation": "Mikrosistem, çocuğun günlük yaşamına öncülük eden yakın çevresidir. <b>Çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini ifade eden</b> sistem ise <b>Makrosistem</b>dir.",
+            "unit": 5,
+            "topic": "5.4. Urie Bronfenbrenner’in Çevresel/Ekolojik Sistemler Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-9 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5010,
+            "question": "Aşağıdakilerden hangisi Bronfenbrenner’in makrosistemi ile ilgilidir?",
+            "options": [
+                "Çocukların günlük yaşamına öncülük ettiği yakın çevresidir.",
+                "Bakıcılar, arkadaşlar ve öğretmenler tümü mikrosistemin parçalarıdır",
+                "Mikrosistem, bir kişinin ev, okul veya arkadaşlık grupları ile yakın ortamlarda yüz yüze etkileşimlerini içerir.",
+                "Bir anne ve bir çocuk arasındaki etkileşim, bir çocuk ve bir akran arasındaki veya iki kardeş arasındaki etkileşim bir mikrosistem oluşturur.",
+                "Çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini ifade eder"
+            ],
+            "correctIndex": 4,
+            "explanation": "Makrosistem, çocuğun ait olduğu tüm toplumu ve çocuğun çeşitli alt kültürlerini (farklı sosyal sınıflar, etnik ve ırksal gruplar, dinler) ifade eder. Bu sistem, çocuklara nasıl davranılması gerektiği, ne öğretilmesi gerektiği gibi geniş, kapsayıcı bir ideolojiyi dikte eder.",
+            "unit": 5,
+            "topic": "5.4. Urie Bronfenbrenner’in Çevresel/Ekolojik Sistemler Teorisi",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-10 (Ünite 5)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5020,
@@ -1392,7 +1497,9 @@
             "unit": 5,
             "topic": "5.4. Urie Bronfenbrenner’in Çevresel/Ekolojik Sistemler Teorisi",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Q6 (2024-2025)"
+            "sourceInfo": "Q6 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6001,
@@ -1409,7 +1516,9 @@
             "unit": 6,
             "topic": "6.3. Duyguların İşlevleri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-1 (Ünite 6)"
+            "sourceInfo": "Soru-1 (Ünite 6)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6002,
@@ -1426,7 +1535,9 @@
             "unit": 6,
             "topic": "6.3. Duyguların İşlevleri",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-2 (Ünite 6)"
+            "sourceInfo": "Soru-2 (Ünite 6)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6003,
@@ -1443,24 +1554,9 @@
             "unit": 6,
             "topic": "6.3. Duyguların İşlevleri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Q12 (2024-2025)"
-        },
-        {
-            "id": 6004,
-            "question": "Duyguların hedeflere ulaşmak ve çevreye uyum sağlamak için yardımcı olduğunu vurgulayan teori / görüş aşağıdakilerden hangisidir?",
-            "options": [
-                "Genetik-olgunlaşma Teorisi",
-                "Bilişsel Teori",
-                "Öğrenme Teorisi",
-                "Fonksiyonalist (işlevselci) Görüş",
-                "Psikanalitik Teori"
-            ],
-            "correctIndex": 3,
-            "explanation": "<b>Fonksiyonalist (işlevselci) görüş</b>, duygusal gelişime çağdaş bir yaklaşımdır ve duyguların hedeflere ulaşmak ve çevreye uyum sağlamak için yardımcı olduğunu vurgular. İşlevsel perspektif, bilişsel ve öğrenme perspektiflerinin özelliklerini birleştirir ve duyguların sosyal ilişkilerin kurulmasında ve sürdürülmesindeki rolünü vurgular.",
-            "unit": 6,
-            "topic": "6.5.3. Fonksiyonalist (İşlevselci) Görüş",
-            "source": "Vize Soruları 2020-2024",
-            "sourceInfo": "Q3 (2020), Q12 (2021), Q17 (2022), Q6 (2023-2024), Q1 (2024-2025)"
+            "sourceInfo": "Q12 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6005,
@@ -1477,7 +1573,9 @@
             "unit": 6,
             "topic": "6.4. Duygusal Gelişimin Tanımı",
             "source": "Ünite Soruları ve Vize Soruları 2020-2023",
-            "sourceInfo": "Soru-8 (Ünite 6), Q11 (2020), Q16 (2021), Q15 (2022), Q12 (2023-2024)"
+            "sourceInfo": "Soru-8 (Ünite 6), Q11 (2020), Q16 (2021), Q15 (2022), Q12 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6006,
@@ -1494,24 +1592,9 @@
             "unit": 6,
             "topic": "6.5.1. Genetik-Olgunlaşma Teorisi",
             "source": "Vize Soruları 2020-2024",
-            "sourceInfo": "Q4 (2020), Q7 (2021), Q6 (2022), Q15 (2023-2024), Q7 (2024-2025)"
-        },
-        {
-            "id": 6007,
-            "question": "Duygusal gelişimin ebeveyn çocuk etkileşimi bağlamında kısmen ego gelişiminin bir sonucu olduğunu vurgulayan teori / görüş aşağıdakilerden hangisidir?",
-            "options": [
-                "Psikanalitik Teori",
-                "Genetik-olgunlaşma Teorisi",
-                "Bilişsel Teori",
-                "Öğrenme Teorisi",
-                "Fonksiyonalist (işlevselci) Görüş"
-            ],
-            "correctIndex": 0,
-            "explanation": "Birçok psikanalitik kuramcı, duygusal gelişimin ebeveyn çocuk etkileşimi bağlamında kısmen ego gelişiminin bir sonucu olduğuna inanmıştır. Örneğin Spitz, ebeveyn çocuk etkileşiminin duygusal gelişimle iki şekilde bağlantılı olduğunu savunmuştur.",
-            "unit": 6,
-            "topic": "6.5.5. Psikanalitik Teori",
-            "source": "Ünite Soruları ve Vize Soruları 2020-2023",
-            "sourceInfo": "Soru-9 (Ünite 6), Q3 (2020), Q9 (2021), Q14 (2023-2024)"
+            "sourceInfo": "Q4 (2020), Q7 (2021), Q6 (2022), Q15 (2023-2024), Q7 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6008,
@@ -1528,7 +1611,47 @@
             "unit": 6,
             "topic": "6.5.2. Öğrenme Teorisi",
             "source": "Ünite Soruları, Final ve Vize Soruları 2023-2024",
-            "sourceInfo": "Soru-3 (Ünite 6), Q7 (Final 2023-2024), Q10 (Vize 2024-2025)"
+            "sourceInfo": "Soru-3 (Ünite 6), Q7 (Final 2023-2024), Q10 (Vize 2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6004,
+            "question": "Duyguların hedeflere ulaşmak ve çevreye uyum sağlamak için yardımcı olduğunu vurgulayan teori / görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Genetik-olgunlaşma Teorisi",
+                "Bilişsel Teori",
+                "Öğrenme Teorisi",
+                "Fonksiyonalist (işlevselci) Görüş",
+                "Psikanalitik Teori"
+            ],
+            "correctIndex": 3,
+            "explanation": "<b>Fonksiyonalist (işlevselci) görüş</b>, duygusal gelişime çağdaş bir yaklaşımdır ve duyguların hedeflere ulaşmak ve çevreye uyum sağlamak için yardımcı olduğunu vurgular. İşlevsel perspektif, bilişsel ve öğrenme perspektiflerinin özelliklerini birleştirir ve duyguların sosyal ilişkilerin kurulmasında ve sürdürülmesindeki rolünü vurgular.",
+            "unit": 6,
+            "topic": "6.5.3. Fonksiyonalist (İşlevselci) Görüş",
+            "source": "Vize Soruları 2020-2024",
+            "sourceInfo": "Q3 (2020), Q12 (2021), Q17 (2022), Q6 (2023-2024), Q1 (2024-2025)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6007,
+            "question": "Duygusal gelişimin ebeveyn çocuk etkileşimi bağlamında kısmen ego gelişiminin bir sonucu olduğunu vurgulayan teori / görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Psikanalitik Teori",
+                "Genetik-olgunlaşma Teorisi",
+                "Bilişsel Teori",
+                "Öğrenme Teorisi",
+                "Fonksiyonalist (işlevselci) Görüş"
+            ],
+            "correctIndex": 0,
+            "explanation": "Birçok psikanalitik kuramcı, duygusal gelişimin ebeveyn çocuk etkileşimi bağlamında kısmen ego gelişiminin bir sonucu olduğuna inanmıştır. Örneğin Spitz, ebeveyn çocuk etkileşiminin duygusal gelişimle iki şekilde bağlantılı olduğunu savunmuştur.",
+            "unit": 6,
+            "topic": "6.5.5. Psikanalitik Teori",
+            "source": "Ünite Soruları ve Vize Soruları 2020-2023",
+            "sourceInfo": "Soru-9 (Ünite 6), Q3 (2020), Q9 (2021), Q14 (2023-2024)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6009,
@@ -1545,7 +1668,9 @@
             "unit": 6,
             "topic": "6.6.1. Çocuğun Biyolojisi",
             "source": "Bütünleme Soruları 2023-2024 ve Ünite Soruları",
-            "sourceInfo": "Q4 (2023-2024 Bütünleme), Q31 (Mizaç)"
+            "sourceInfo": "Q4 (2023-2024 Bütünleme), Q31 (Mizaç)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6010,
@@ -1562,7 +1687,9 @@
             "unit": 6,
             "topic": "6.6.1. Çocuğun Biyolojisi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 6)"
+            "sourceInfo": "Soru-6 (Ünite 6)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6011,
@@ -1579,7 +1706,9 @@
             "unit": 6,
             "topic": "6.6.1. Çocuğun Biyolojisi",
             "source": "Vize Soruları 2020",
-            "sourceInfo": "Q20 (2020), Q31 (2022)"
+            "sourceInfo": "Q20 (2020), Q31 (2022)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6012,
@@ -1596,7 +1725,9 @@
             "unit": 6,
             "topic": "6.6.3. Çocuğun Çevresi",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-7 (Ünite 6)"
+            "sourceInfo": "Soru-7 (Ünite 6)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6013,
@@ -1613,58 +1744,9 @@
             "unit": 6,
             "topic": "6.6.6. Kültür",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-5 (Ünite 6)"
-        },
-        {
-            "id": 7001,
-            "question": "Aşağıdakilerden hangisi duygusal gelişimin bileşenlerinden biri <u>değildir</u>?",
-            "options": [
-                "Mahcubiyet",
-                "Gurur",
-                "Suçluluk",
-                "Kıskançlık",
-                "Üzüntü"
-            ],
-            "correctIndex": 4,
-            "explanation": "Duygusal gelişimin temel bileşenleri, duyguların ortaya çıkışı, duygusal farkındalık, diğerlerinin duygularını tanınması, duygu düzenleme, duygusal görevler ve duygusal gelişimin kilometre taşlarıdır. <b>Üzüntü</b>, birincil duygulardan biri olmasına rağmen, seçenekler arasında yer alan diğer duygular (Mahcubiyet, Gurur, Suçluluk, Kıskançlık) ikincil/öz bilinçli duygular arasında sayılmaktadır.",
-            "unit": 7,
-            "topic": "7. Duygusal Gelişimin Bileşenleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-1 (Ünite 7)"
-        },
-        {
-            "id": 7002,
-            "question": "Aşağıdakilerden hangisi öz bilinçli duygulardan biridir?",
-            "options": [
-                "Mutluluk",
-                "Şaşkınlık",
-                "Öfke",
-                "Utanma",
-                "Üzüntü"
-            ],
-            "correctIndex": 3,
-            "explanation": "Öz bilinçli duygular (ikincil duygular), Suçluluk, utanma, mahcubiyet, kıskançlık, empati, imrenme ve gurur duygularıdır. <b>Utanma</b>, benlik algısının gelişimiyle birlikte ikinci yılın ortasında ortaya çıkan öz bilinçli duygulardan biridir. Mutluluk, şaşkınlık, öfke ve üzüntü ise birincil/temel duygulardır.",
-            "unit": 7,
-            "topic": "7.1.2. İkincil /Öz Bilinçli Duygular",
-            "source": "Final Soruları 2021 ve 2022-2023",
-            "sourceInfo": "Q1, Q3, Q7"
-        },
-        {
-            "id": 7003,
-            "question": "Davranışın düzenlenmesi veya kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynayan duygu aşağıdakilerden hangisidir?",
-            "options": [
-                "Öfke",
-                "Mutluluk",
-                "Suçluluk",
-                "Şaşkınlık",
-                "Üzüntü"
-            ],
-            "correctIndex": 2,
-            "explanation": "<b>Suçluluk</b> duygusu, duygu düzenleme sosyo-moral duyguların gelişimi ile desteklenmektedir. Suçluluk, mahcubiyet ve utanma, bebekleri bu hoş olmayan duygusal durumlardan kaçınmaya motive eder ve kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynar.",
-            "unit": 7,
-            "topic": "7.1.2. İkincil /Öz Bilinçli Duygular",
-            "source": "Final Soruları 2021 ve 2022-2023",
-            "sourceInfo": "Q2, Q7, Q13"
+            "sourceInfo": "Soru-5 (Ünite 6)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7004,
@@ -1681,24 +1763,9 @@
             "unit": 7,
             "topic": "7.1.1. Birincil/Temel Duygular",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4 (Ünite 7)"
-        },
-        {
-            "id": 7005,
-            "question": "Aşağıdakilerden hangisi bebeklerde öfke duygusunun gözlemlendiği durumlardan biridir?",
-            "options": [
-                "Bir nesnenin veya oyuncağın uzaklaştırılması",
-                "Bir beceride ustalaşmadan haz almak",
-                "Sevgi görmek için başkalarını teşvik etmek",
-                "Bebek ve ebeveyn arasındaki bağlanma",
-                "Acıya tepki vermek"
-            ],
-            "correctIndex": 0,
-            "explanation": "Öfke duygusunun gözlemlendiği durumlar arasında <b>Bir nesnenin veya oyuncağın uzaklaştırılması</b>, bakıcıdan kısa ayrılık ve uyumak için zorlanma yer almaktadır.",
-            "unit": 7,
-            "topic": "7.1.1. Birincil/Temel Duygular",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-5 (Ünite 7)"
+            "sourceInfo": "Soru-4 (Ünite 7)",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 7006,
@@ -1715,7 +1782,47 @@
             "unit": 7,
             "topic": "7.1.1. Birincil/Temel Duygular",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 7)"
+            "sourceInfo": "Soru-6 (Ünite 7)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7002,
+            "question": "Aşağıdakilerden hangisi öz bilinçli duygulardan biridir?",
+            "options": [
+                "Mutluluk",
+                "Şaşkınlık",
+                "Öfke",
+                "Utanma",
+                "Üzüntü"
+            ],
+            "correctIndex": 3,
+            "explanation": "Öz bilinçli duygular (ikincil duygular), Suçluluk, utanma, mahcubiyet, kıskançlık, empati, imrenme ve gurur duygularıdır. <b>Utanma</b>, benlik algısının gelişimiyle birlikte ikinci yılın ortasında ortaya çıkan öz bilinçli duygulardan biridir. Mutluluk, şaşkınlık, öfke ve üzüntü ise birincil/temel duygulardır.",
+            "unit": 7,
+            "topic": "7.1.2. İkincil /Öz Bilinçli Duygular",
+            "source": "Final Soruları 2021 ve 2022-2023",
+            "sourceInfo": "Q1, Q3, Q7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7003,
+            "question": "Davranışın düzenlenmesi veya kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynayan duygu aşağıdakilerden hangisidir?",
+            "options": [
+                "Öfke",
+                "Mutluluk",
+                "Suçluluk",
+                "Şaşkınlık",
+                "Üzüntü"
+            ],
+            "correctIndex": 2,
+            "explanation": "<b>Suçluluk</b> duygusu, duygu düzenleme sosyo-moral duyguların gelişimi ile desteklenmektedir. Suçluluk, mahcubiyet ve utanma, bebekleri bu hoş olmayan duygusal durumlardan kaçınmaya motive eder ve kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynar.",
+            "unit": 7,
+            "topic": "7.1.2. İkincil /Öz Bilinçli Duygular",
+            "source": "Final Soruları 2021 ve 2022-2023",
+            "sourceInfo": "Q2, Q7, Q13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7007,
@@ -1732,7 +1839,9 @@
             "unit": 7,
             "topic": "7.1. Duyguların Ortaya Çıkışı",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-7 (Ünite 7)"
+            "sourceInfo": "Soru-7 (Ünite 7)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7008,
@@ -1749,7 +1858,9 @@
             "unit": 7,
             "topic": "7.4. Duygu Düzenleme",
             "source": "Bütünleme Soruları 2022",
-            "sourceInfo": "Q19"
+            "sourceInfo": "Q19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7009,
@@ -1766,7 +1877,28 @@
             "unit": 7,
             "topic": "7.5. Duygusal Görevler",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-10 (Ünite 7)"
+            "sourceInfo": "Soru-10 (Ünite 7)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7001,
+            "question": "Aşağıdakilerden hangisi duygusal gelişimin bileşenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Mahcubiyet",
+                "Gurur",
+                "Suçluluk",
+                "Kıskançlık",
+                "Üzüntü"
+            ],
+            "correctIndex": 4,
+            "explanation": "Duygusal gelişimin temel bileşenleri, duyguların ortaya çıkışı, duygusal farkındalık, diğerlerinin duygularını tanınması, duygu düzenleme, duygusal görevler ve duygusal gelişimin kilometre taşlarıdır. <b>Üzüntü</b>, birincil duygulardan biri olmasına rağmen, seçenekler arasında yer alan diğer duygular (Mahcubiyet, Gurur, Suçluluk, Kıskançlık) ikincil/öz bilinçli duygular arasında sayılmaktadır.",
+            "unit": 7,
+            "topic": "7. Duygusal Gelişimin Bileşenleri",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-1 (Ünite 7)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8001,
@@ -1783,58 +1915,9 @@
             "unit": 8,
             "topic": "8.2. Bağlanmayı Kolaylaştıran Anne-Bebek Davranışları",
             "source": "Ünite Soruları ve Final Soruları 2021",
-            "sourceInfo": "Soru-1 (Ünite 8), Q13, Q19"
-        },
-        {
-            "id": 8002,
-            "question": "Aşağıdakilerden hangisi bağlanmayı zorlaştıran anne bebek davranışlardından biridir?",
-            "options": [
-                "İlk temas zamanı ve süresi",
-                "Bedensel temas",
-                "Beslenme zamanı",
-                "Doğuştan etkenler",
-                "Aşırı ağlama"
-            ],
-            "correctIndex": 4,
-            "explanation": "<b>Aşırı ağlama</b>, bağlanmayı zorlaştıran anne bebek davranışlarından biridir çünkü annenin vazgeçmesine, gerginleşmesine ve ilgilenmekten vazgeçmesine neden olabilir. Diğer seçenekler ise bağlanmayı kolaylaştıran davranışlardır.",
-            "unit": 8,
-            "topic": "8.3. Bağlanmayı Zorlaştıran Anne Bebek Davranışları",
-            "source": "Ünite Soruları ve Final Soruları 2023-2024",
-            "sourceInfo": "Soru-2 (Ünite 8), Q9"
-        },
-        {
-            "id": 8003,
-            "question": "Yaşlara veya aylara göre bağlanma davranışları ile ilgili verilenlerden hangisi <u>yanlıştır</u>?",
-            "options": [
-                "Doğum sonrası: Bir kişiye tercihli yönelim",
-                "10 ay: Ayrılık protestosu ve yakınlık arayışı",
-                "7-9 ay: Nedeni açıklanırsa bekleyebilme",
-                "3-4 yaş: Bakıcının planını ve motivasyonunu anlayabilme",
-                "4 yaş ve üstü: Sevgi ve güven gibi soyut düşüncelere dayanan ilişki kurabilme"
-            ],
-            "correctIndex": 1,
-            "explanation": "Ayrılık protestosu ve yakınlık arayışı 5 ay civarında ortaya çıkmaktadır, 10 ayda ise daha belirgin hale gelir. Yaşlara göre bağlanma davranışları kronolojisine göre 10 ay değil, <b>5 ay</b> civarında ayrılık protestosu başlar. (Ancak kaynaklar 10 ayda belirginleştiğini de belirtir, burada 7-9 ay ifadesinin yanlış eşleşmesi daha belirgindir). Ayrılık protestosu genellikle 5 ayda başlar. <b>7-9 ay: Nedeni açıklanırsa bekleyebilme</b> ifadesi 7-9 ay aralığı için doğru kabul edilirken, 10 ay ifadesi ile ilgili bir kesin bilgi eksikliği veya hatalı sıralama söz konusudur. Fakat kaynaklarda 7-9 ayda 'nedeni açıklanırsa bekleyebilme' yer alırken, 10 ayda ayrılık protestosu beklenmez. <b>10 ay: Ayrılık protestosu ve yakınlık arayışı</b> ifadesi, protestonun daha belirginleştiği bir dönem olsa da, kronolojik sıralamada hata olma ihtimali nedeniyle diğer seçenekler kontrol edilmelidir. 7-9 ayda bekleyebilme yeteneği gelişir, bu da ayrılık protestosunun bir miktar hafiflemesi anlamına gelir. 10 ayda ayrılık protestosu zaten bellidir. Kaynaklara göre en kesin hata <b>7-9 ay: Nedeni açıklanırsa bekleyebilme</b> ifadesinin sıralamasıdır (7-9 ayda daha çok yabancı kaygısı belirginleşir, bekleyebilme daha sonra gelir). Ancak sorunun işaretlediği cevap 10. ay ifadesini içeren seçenektir: Ayrılık protestosu 5 ayda başlar ve 10 ayda belirginleşir. Sorunun işaretlediği varsayılan yanlışlık, ayrılık protestosunun asıl başlangıç zamanı ile ilgilidir.",
-            "unit": 8,
-            "topic": "8.4. Yaşlara Göre Bağlanma Davranışları",
-            "source": "Ünite Soruları ve Final Soruları 2022-2023",
-            "sourceInfo": "Soru-3 (Ünite 8), Q13, Q18"
-        },
-        {
-            "id": 8004,
-            "question": "Bebeklerde tepkisiz, yavaş veya sinirli görünmelerini sağlayan davranış özellikleri, potansiyel olarak bakıcılarını bebeğe yabancılaştırabilir. Verilen açıklama bağlanmayı etkileyen faktörlerden hangisi ile ilgilidir?",
-            "options": [
-                "Kültürler arası farklılıklar",
-                "Ebeveynlerin özelikleri",
-                "Çocukların özellikleri",
-                "Aile ortamları",
-                "Ebeveynlik stilleri"
-            ],
-            "correctIndex": 2,
-            "explanation": "Bebeğin tepkisiz, yavaş veya sinirli görünmesi gibi mizaç özellikleri, genetik mirasla ilişkilidir ve <b>Çocukların özellikleri</b> faktörü altında incelenir. Bu özellikler, bakıcıların etkileşimini zorlaştırarak bağlanmayı olumsuz etkileyebilir.",
-            "unit": 8,
-            "topic": "8.6. Bağlanmayı Etkileyen Faktörler",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4 (Ünite 8)"
+            "sourceInfo": "Soru-1 (Ünite 8), Q13, Q19",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 8005,
@@ -1851,7 +1934,28 @@
             "unit": 8,
             "topic": "8.2. Bağlanmayı Kolaylaştıran Anne-Bebek Davranışları",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-7 (Ünite 8)"
+            "sourceInfo": "Soru-7 (Ünite 8)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8002,
+            "question": "Aşağıdakilerden hangisi bağlanmayı zorlaştıran anne bebek davranışlardından biridir?",
+            "options": [
+                "İlk temas zamanı ve süresi",
+                "Bedensel temas",
+                "Beslenme zamanı",
+                "Doğuştan etkenler",
+                "Aşırı ağlama"
+            ],
+            "correctIndex": 4,
+            "explanation": "<b>Aşırı ağlama</b>, bağlanmayı zorlaştıran anne bebek davranışlarından biridir çünkü annenin vazgeçmesine, gerginleşmesine ve ilgilenmekten vazgeçmesine neden olabilir. Diğer seçenekler ise bağlanmayı kolaylaştıran davranışlardır.",
+            "unit": 8,
+            "topic": "8.3. Bağlanmayı Zorlaştıran Anne Bebek Davranışları",
+            "source": "Ünite Soruları ve Final Soruları 2023-2024",
+            "sourceInfo": "Soru-2 (Ünite 8), Q9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8006,
@@ -1868,7 +1972,28 @@
             "unit": 8,
             "topic": "8.3. Bağlanmayı Zorlaştıran Anne Bebek Davranışları",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-10 (Ünite 8)"
+            "sourceInfo": "Soru-10 (Ünite 8)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8003,
+            "question": "Yaşlara veya aylara göre bağlanma davranışları ile ilgili verilenlerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Doğum sonrası: Bir kişiye tercihli yönelim",
+                "10 ay: Ayrılık protestosu ve yakınlık arayışı",
+                "7-9 ay: Nedeni açıklanırsa bekleyebilme",
+                "3-4 yaş: Bakıcının planını ve motivasyonunu anlayabilme",
+                "4 yaş ve üstü: Sevgi ve güven gibi soyut düşüncelere dayanan ilişki kurabilme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ayrılık protestosu ve yakınlık arayışı 5 ay civarında ortaya çıkmaktadır, 10 ayda ise daha belirgin hale gelir. Yaşlara göre bağlanma davranışları kronolojisine göre 10 ay değil, <b>5 ay</b> civarında ayrılık protestosu başlar. (Ancak kaynaklar 10 ayda belirginleştiğini de belirtir, burada 7-9 ay ifadesinin yanlış eşleşmesi daha belirgindir). Ayrılık protestosu genellikle 5 ayda başlar. <b>7-9 ay: Nedeni açıklanırsa bekleyebilme</b> ifadesi 7-9 ay aralığı için doğru kabul edilirken, 10 ay ifadesi ile ilgili bir kesin bilgi eksikliği veya hatalı sıralama söz konusudur. Fakat kaynaklarda 7-9 ayda 'nedeni açıklanırsa bekleyebilme' yer alırken, 10 ayda ayrılık protestosu beklenmez. <b>10 ay: Ayrılık protestosu ve yakınlık arayışı</b> ifadesi, protestonun daha belirginleştiği bir dönem olsa da, kronolojik sıralamada hata olma ihtimali nedeniyle diğer seçenekler kontrol edilmelidir. 7-9 ayda bekleyebilme yeteneği gelişir, bu da ayrılık protestosunun bir miktar hafiflemesi anlamına gelir. 10 ayda ayrılık protestosu zaten bellidir. Kaynaklara göre en kesin hata <b>7-9 ay: Nedeni açıklanırsa bekleyebilme</b> ifadesinin sıralamasıdır (7-9 ayda daha çok yabancı kaygısı belirginleşir, bekleyebilme daha sonra gelir). Ancak sorunun işaretlediği cevap 10. ay ifadesini içeren seçenektir: Ayrılık protestosu 5 ayda başlar ve 10 ayda belirginleşir. Sorunun işaretlediği varsayılan yanlışlık, ayrılık protestosunun asıl başlangıç zamanı ile ilgilidir.",
+            "unit": 8,
+            "topic": "8.4. Yaşlara Göre Bağlanma Davranışları",
+            "source": "Ünite Soruları ve Final Soruları 2022-2023",
+            "sourceInfo": "Soru-3 (Ünite 8), Q13, Q18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8007,
@@ -1885,7 +2010,9 @@
             "unit": 8,
             "topic": "8.4. Yaşlara Göre Bağlanma Davranışları",
             "source": "Final Soruları 2021-2022 ve Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q13, Q5, Q1, Q9"
+            "sourceInfo": "Q13, Q5, Q1, Q9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8008,
@@ -1902,58 +2029,28 @@
             "unit": 8,
             "topic": "8.4. Yaşlara Göre Bağlanma Davranışları",
             "source": "Final ve Bütünleme Soruları 2022-2024",
-            "sourceInfo": "Q6, Q13, Q5"
+            "sourceInfo": "Q6, Q13, Q5",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
-            "id": 8009,
-            "question": "3-4 yaş arasında ortaya çıkan bağlanma davranışı aşağıdakilerden hangisidir?",
+            "id": 8004,
+            "question": "Bebeklerde tepkisiz, yavaş veya sinirli görünmelerini sağlayan davranış özellikleri, potansiyel olarak bakıcılarını bebeğe yabancılaştırabilir. Verilen açıklama bağlanmayı etkileyen faktörlerden hangisi ile ilgilidir?",
             "options": [
-                "Nedeni açıklanırsa bekleyebilme",
-                "Ayrılık protestosu ve yakınlık arayışı",
-                "Bir kişiye tercihli yönelim",
-                "Sevgi ve güven gibi soyut düşüncelere dayanan ilişki kurabilme",
-                "Bakıcının planını ve motivasyonunu anlayabilme"
+                "Kültürler arası farklılıklar",
+                "Ebeveynlerin özelikleri",
+                "Çocukların özellikleri",
+                "Aile ortamları",
+                "Ebeveynlik stilleri"
             ],
-            "correctIndex": 4,
-            "explanation": "3-4 yaş arasında ortaya çıkan bağlanma davranışı, çocuğun bilişsel olarak bakıcının bakış açısını dikkate almaya başlamasıyla ilgili olan <b>Bakıcının planını ve motivasyonunu anlayabilme</b>dir.",
+            "correctIndex": 2,
+            "explanation": "Bebeğin tepkisiz, yavaş veya sinirli görünmesi gibi mizaç özellikleri, genetik mirasla ilişkilidir ve <b>Çocukların özellikleri</b> faktörü altında incelenir. Bu özellikler, bakıcıların etkileşimini zorlaştırarak bağlanmayı olumsuz etkileyebilir.",
             "unit": 8,
-            "topic": "8.4. Yaşlara Göre Bağlanma Davranışları",
-            "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Q17"
-        },
-        {
-            "id": 8010,
-            "question": "Aşağıdakilerden hangisi bağlanmayı zorlaştıran anne-bebek davranışlarından biri <u>değildir</u>?",
-            "options": [
-                "Olağandışı görünüm",
-                "Olağandışı davranışlar ve olağandışı durumlar",
-                "Aşırı ağlama",
-                "Bedensel temas",
-                "Duygusal reddetme"
-            ],
-            "correctIndex": 3,
-            "explanation": "Bağlanmayı zorlaştıran faktörler; olağandışı görünüm, olağandışı davranışlar, aşırı ağlama ve duygusal reddetmedir. <b>Bedensel temas</b> ise bağlanmayı kolaylaştıran faktörlerden biridir.",
-            "unit": 8,
-            "topic": "8.3. Bağlanmayı Zorlaştıran Anne Bebek Davranışları",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Q21"
-        },
-        {
-            "id": 8011,
-            "question": "Aşağıdakilerden hangisi bağlanmayı kolaylaştıran anne bebek davranışlarından biridir?",
-            "options": [
-                "Bedensel temas",
-                "Olağandışı görünüm",
-                "Olağandışı davranışlar ve olağandışı durumlar",
-                "Aşırı ağlama",
-                "Duygusal reddetme"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bağlanmayı kolaylaştıran anne bebek davranışları arasında ilk temas zamanı ve süresi, beslenme zamanı ve <b>Bedensel temas</b> yer almaktadır. Dokunma duyusu, yeni doğan ve bebeklik döneminde çocuğun çevresini algılamasında çok önemlidir.",
-            "unit": 8,
-            "topic": "8.2. Bağlanmayı Kolaylaştıran Anne-Bebek Davranışları",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Q17"
+            "topic": "8.6. Bağlanmayı Etkileyen Faktörler",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-4 (Ünite 8)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9001,
@@ -1970,75 +2067,9 @@
             "unit": 9,
             "topic": "9.1. Psikanalitik Teori Çerçevesinden Bağlanma",
             "source": "Ünite Soruları ve Final Soruları 2021-2022",
-            "sourceInfo": "Soru-1 (Ünite 9), Q39"
-        },
-        {
-            "id": 9002,
-            "question": "Bu kurama göre bağlanma, koşullanma ilkeleri ile açıklanmaktadır. Açıklaması verilen kuram aşağıdakilerden hangisidir?",
-            "options": [
-                "Psikanalitik teori",
-                "Öğrenme teorisi",
-                "Bilişsel gelişim teorisi",
-                "Etolojik teori",
-                "Freud’un teorisi"
-            ],
-            "correctIndex": 1,
-            "explanation": "<b>Öğrenme teorisi</b>, bağlanmanın koşullanma ilkeleri ile açıklandığı kuramdır. Bağlanma, öğrenilmiş davranışlar dizisi olarak görülür ve yiyecek tedarikinin (pekiştireç) bağlanmayı öğrenmenin temeli olduğu varsayılır.",
-            "unit": 9,
-            "topic": "9.2. Öğrenme Teorisi Çerçevesinden Bağlanma",
-            "source": "Ünite Soruları ve Final Soruları 2024-2025",
-            "sourceInfo": "Soru-2 (Ünite 9), Q1"
-        },
-        {
-            "id": 9003,
-            "question": "Bilişsel gelişim teorisine göre bağlanma ne zaman ortaya çıkmaktadır?",
-            "options": [
-                "0-2 ay",
-                "3-4 ay",
-                "5-6 ay",
-                "7-9 ay",
-                "12 ay"
-            ],
-            "correctIndex": 3,
-            "explanation": "Bilişsel gelişim teorisine göre, bebek bağlanmadan önce tanıdık bakıcılarını yabancılardan ayırt edebilmeli ve nesne sürekliliğini kazanmalıdır. Bu yüzden bağlanma <b>7-9 aylık</b>ken ortaya çıkmaktadır.",
-            "unit": 9,
-            "topic": "9.3. Bilişsel Gelişim Teorisi Çerçevesinden Bağlanma",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-3 (Ünite 9)"
-        },
-        {
-            "id": 9004,
-            "question": "Bağlanmanın hızlanması bilişsel gelişim teorisinin hangi kavramı ile yakından ilişkilidir?",
-            "options": [
-                "Nesne sürekliliği",
-                "Şema",
-                "Uyum",
-                "Özümseme",
-                "Dengeleme"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bilişsel gelişim teorisine göre bağlanmanın hızlanması, bebeğin tanıdık bakıcıların kalıcı olduğunu (<b>Nesne sürekliliği</b>) fark etmesiyle yakından ilişkilidir.",
-            "unit": 9,
-            "topic": "9.3. Bilişsel Gelişim Teorisi Çerçevesinden Bağlanma",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4 (Ünite 9)"
-        },
-        {
-            "id": 9005,
-            "question": "Bu yaklaşımın ana varsayımı, insanlar da dâhil olmak üzere tüm türlerin evrim boyunca hayatta kalmasına bir şekilde katkıda bulunan bir takım doğuştan gelen davranışsal eğilimlerle doğmasıdır. Açıklaması verilen kuram aşağıdakilerden hangisidir?",
-            "options": [
-                "Psikanalitik teori",
-                "Öğrenme teorisi",
-                "Bilişsel gelişim teorisi",
-                "Etolojik teori",
-                "Freud’un teorisi"
-            ],
-            "correctIndex": 3,
-            "explanation": "Verilen açıklama, bağlanmanın evrimsel bir işleve sahip olduğunu ve hayatta kalmaya hizmet ettiğini savunan <b>Etolojik teori</b> yaklaşımına aittir.",
-            "unit": 9,
-            "topic": "9.4. Etolojik Teori Çerçevesinden Bağlanma",
-            "source": "Ünite Soruları ve Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru-5 (Ünite 9), Q1, Q18"
+            "sourceInfo": "Soru-1 (Ünite 9), Q39",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9006,
@@ -2055,7 +2086,28 @@
             "unit": 9,
             "topic": "9.1. Psikanalitik Teori Çerçevesinden Bağlanma",
             "source": "Final Soruları 2023-2024 ve 2022-2023",
-            "sourceInfo": "Q5, Q6, Q10"
+            "sourceInfo": "Q5, Q6, Q10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 9002,
+            "question": "Bu kurama göre bağlanma, koşullanma ilkeleri ile açıklanmaktadır. Açıklaması verilen kuram aşağıdakilerden hangisidir?",
+            "options": [
+                "Psikanalitik teori",
+                "Öğrenme teorisi",
+                "Bilişsel gelişim teorisi",
+                "Etolojik teori",
+                "Freud’un teorisi"
+            ],
+            "correctIndex": 1,
+            "explanation": "<b>Öğrenme teorisi</b>, bağlanmanın koşullanma ilkeleri ile açıklandığı kuramdır. Bağlanma, öğrenilmiş davranışlar dizisi olarak görülür ve yiyecek tedarikinin (pekiştireç) bağlanmayı öğrenmenin temeli olduğu varsayılır.",
+            "unit": 9,
+            "topic": "9.2. Öğrenme Teorisi Çerçevesinden Bağlanma",
+            "source": "Ünite Soruları ve Final Soruları 2024-2025",
+            "sourceInfo": "Soru-2 (Ünite 9), Q1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9007,
@@ -2072,7 +2124,47 @@
             "unit": 9,
             "topic": "9.2. Öğrenme Teorisi Çerçevesinden Bağlanma",
             "source": "Final Soruları 2021 ve 2022",
-            "sourceInfo": "Q32, Q5, Q8, Q2, Q9"
+            "sourceInfo": "Q32, Q5, Q8, Q2, Q9",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 9003,
+            "question": "Bilişsel gelişim teorisine göre bağlanma ne zaman ortaya çıkmaktadır?",
+            "options": [
+                "0-2 ay",
+                "3-4 ay",
+                "5-6 ay",
+                "7-9 ay",
+                "12 ay"
+            ],
+            "correctIndex": 3,
+            "explanation": "Bilişsel gelişim teorisine göre, bebek bağlanmadan önce tanıdık bakıcılarını yabancılardan ayırt edebilmeli ve nesne sürekliliğini kazanmalıdır. Bu yüzden bağlanma <b>7-9 aylık</b>ken ortaya çıkmaktadır.",
+            "unit": 9,
+            "topic": "9.3. Bilişsel Gelişim Teorisi Çerçevesinden Bağlanma",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-3 (Ünite 9)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 9004,
+            "question": "Bağlanmanın hızlanması bilişsel gelişim teorisinin hangi kavramı ile yakından ilişkilidir?",
+            "options": [
+                "Nesne sürekliliği",
+                "Şema",
+                "Uyum",
+                "Özümseme",
+                "Dengeleme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bilişsel gelişim teorisine göre bağlanmanın hızlanması, bebeğin tanıdık bakıcıların kalıcı olduğunu (<b>Nesne sürekliliği</b>) fark etmesiyle yakından ilişkilidir.",
+            "unit": 9,
+            "topic": "9.3. Bilişsel Gelişim Teorisi Çerçevesinden Bağlanma",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-4 (Ünite 9)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9008,
@@ -2089,7 +2181,28 @@
             "unit": 9,
             "topic": "9.3. Bilişsel Gelişim Teorisi Çerçevesinden Bağlanma",
             "source": "Final Soruları 2021-2022 ve Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Q28, Q14"
+            "sourceInfo": "Q28, Q14",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 9005,
+            "question": "Bu yaklaşımın ana varsayımı, insanlar da dâhil olmak üzere tüm türlerin evrim boyunca hayatta kalmasına bir şekilde katkıda bulunan bir takım doğuştan gelen davranışsal eğilimlerle doğmasıdır. Açıklaması verilen kuram aşağıdakilerden hangisidir?",
+            "options": [
+                "Psikanalitik teori",
+                "Öğrenme teorisi",
+                "Bilişsel gelişim teorisi",
+                "Etolojik teori",
+                "Freud’un teorisi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Verilen açıklama, bağlanmanın evrimsel bir işleve sahip olduğunu ve hayatta kalmaya hizmet ettiğini savunan <b>Etolojik teori</b> yaklaşımına aittir.",
+            "unit": 9,
+            "topic": "9.4. Etolojik Teori Çerçevesinden Bağlanma",
+            "source": "Ünite Soruları ve Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru-5 (Ünite 9), Q1, Q18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9009,
@@ -2106,7 +2219,9 @@
             "unit": 9,
             "topic": "9.5. Gelişimsel Sosyal Nörobilim ve Bağlanma",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q17, Q11"
+            "sourceInfo": "Q17, Q11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9010,
@@ -2123,24 +2238,9 @@
             "unit": 9,
             "topic": "9.5. Gelişimsel Sosyal Nörobilim ve Bağlanma",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q14, Q16"
-        },
-        {
-            "id": 10001,
-            "question": "Aşağıdakilerden hangisi Bowly’nin bağlanma aşamalarından biri <u>değildir</u>?",
-            "options": [
-                "Hedefi düzeltilmiş ortaklığın oluşturulması",
-                "Çoklu bağlanma",
-                "Açık bağlanma",
-                "Bağlanma başlangıcı",
-                "Ön bağlanma"
-            ],
-            "correctIndex": 1,
-            "explanation": "Bowlby’nin bağlanma aşamaları Ön bağlanma, Bağlanmanın başlangıcı, Açık bağlanma ve Hedefi düzeltilmiş ortaklığın oluşturulması olmak üzere dört basamaktan oluşmaktadır. <b>Çoklu bağlanma</b> evresi ise Schaffer ve Emerson’a ait bir bağlanma aşamasıdır.",
-            "unit": 10,
-            "topic": "10.3. Bağlanma Aşamaları",
-            "source": "Final Soruları 2021 ve Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q6, Q4, Q16"
+            "sourceInfo": "Q14, Q16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10002,
@@ -2157,24 +2257,9 @@
             "unit": 10,
             "topic": "10.2. Bowly’nin Bağlanma Teorisinin Temelleri",
             "source": "Final Soruları 2021 ve 2022-2023",
-            "sourceInfo": "Q9, Q15, Q2"
-        },
-        {
-            "id": 10003,
-            "question": "Bowlby’ye göre bebekler birincil bakıcıları ile aralarında güçlü bir bağ oluşturmakta eğer bu bağlanma ortadan kalkar veya bozulursa büyük endişe ve sıkıntı ortaya çıkmaktadır. Bu ayrılığa gösterilen tepkinin aşamaları aşağıdakilerden hangisinde sırayla verilmiştir?",
-            "options": [
-                "Umutsuzluk aşaması – Kopma aşaması – Protesto aşaması",
-                "Kopma aşaması – Protesto aşaması – Umutsuzluk aşaması",
-                "Protesto aşaması – Kopma aşaması – Umutsuzluk aşaması",
-                "Umutsuzluk aşaması – Protesto aşaması – Kopma aşaması",
-                "Protesto aşaması – Umutsuzluk aşaması – Kopma aşaması"
-            ],
-            "correctIndex": 4,
-            "explanation": "Bowlby’ye göre anneden ayrılığa gösterilen tepkinin aşamaları sırasıyla <b>Protesto aşaması</b>, <b>Umutsuzluk aşaması</b> ve <b>Kopma aşaması</b> olarak verilmiştir.",
-            "unit": 10,
-            "topic": "10.4. Anne Yoksunluğu",
-            "source": "Final Soruları 2021 ve 2022",
-            "sourceInfo": "Q36, Q2, Q1, Q22, Q4, Q4, Q4, Q15"
+            "sourceInfo": "Q9, Q15, Q2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10004,
@@ -2191,7 +2276,9 @@
             "unit": 10,
             "topic": "10.2. Bowly’nin Bağlanma Teorisinin Temelleri",
             "source": "Final Soruları 2021 ve Bütünleme Soruları 2022",
-            "sourceInfo": "Q18, Q4, Q14"
+            "sourceInfo": "Q18, Q4, Q14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10005,
@@ -2208,7 +2295,9 @@
             "unit": 10,
             "topic": "10.2. Bowly’nin Bağlanma Teorisinin Temelleri",
             "source": "Final Soruları 2022-2023 ve 2021",
-            "sourceInfo": "Q1, Q29"
+            "sourceInfo": "Q1, Q29",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10006,
@@ -2225,7 +2314,28 @@
             "unit": 10,
             "topic": "10.2. Bowly’nin Bağlanma Teorisinin Temelleri",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q19, Q10"
+            "sourceInfo": "Q19, Q10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10001,
+            "question": "Aşağıdakilerden hangisi Bowly’nin bağlanma aşamalarından biri <u>değildir</u>?",
+            "options": [
+                "Hedefi düzeltilmiş ortaklığın oluşturulması",
+                "Çoklu bağlanma",
+                "Açık bağlanma",
+                "Bağlanma başlangıcı",
+                "Ön bağlanma"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bowlby’nin bağlanma aşamaları Ön bağlanma, Bağlanmanın başlangıcı, Açık bağlanma ve Hedefi düzeltilmiş ortaklığın oluşturulması olmak üzere dört basamaktan oluşmaktadır. <b>Çoklu bağlanma</b> evresi ise Schaffer ve Emerson’a ait bir bağlanma aşamasıdır.",
+            "unit": 10,
+            "topic": "10.3. Bağlanma Aşamaları",
+            "source": "Final Soruları 2021 ve Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Q6, Q4, Q16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10007,
@@ -2242,58 +2352,9 @@
             "unit": 10,
             "topic": "10.3. Bağlanma Aşamaları",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4 (Ünite 10)"
-        },
-        {
-            "id": 10008,
-            "question": "Anne yoksunluğu konusunda çalışmaları dikkat çeken araştırmacı aşağıdakilerden hangisidir?",
-            "options": [
-                "Spitz",
-                "Piaget",
-                "Freud",
-                "Gardner",
-                "Bruner"
-            ],
-            "correctIndex": 0,
-            "explanation": "<b>Spitz</b>, anneden ayrı kalan bebeklerde duygusal, bilişsel ve sosyal gelişim gerilikleri gözlemleyerek anne yoksunluğu konusunda çalışmaları dikkat çeken araştırmacılardan biridir.",
-            "unit": 10,
-            "topic": "10.4. Anne Yoksunluğu",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-5 (Ünite 10)"
-        },
-        {
-            "id": 10009,
-            "question": "Bebeklerin tanıdık olmayan biriyle karşılaştıklarında gösterdikleri dikkat ve savaştır. Boşluğu en uygun ifade ile tamamlayınız?",
-            "options": [
-                "Ayrılık kaygısı",
-                "Davranışsal inhibisyon",
-                "Yabancı kaygısı",
-                "Sosyal kaygı",
-                "Utangaçlık"
-            ],
-            "correctIndex": 2,
-            "explanation": "Bebeklerin tanıdık olmayan biriyle karşılaştıklarında gösterdikleri sıkıntı, dikkat ve savaş <b>Yabancı kaygısı</b> olarak adlandırılmaktadır.",
-            "unit": 10,
-            "topic": "10.5.1. Yabancı Kaygısı",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 10)"
-        },
-        {
-            "id": 10010,
-            "question": "Aşağıdakilerden hangisi çocukların yabancı kaygısını artıran faktörlerden biridir?",
-            "options": [
-                "Aşina olunan ortamlar (ev)",
-                "Tanıdık figüre yakın fiziksel yakınlık",
-                "Tanıdık figürden yabancıya pozitif ve destekleyici tepkiler",
-                "Aktif, arkadaş canlısı, güler yüzlü ifadeler sergilemek",
-                "Pasif ve ciddi ifade sergilemek"
-            ],
-            "correctIndex": 4,
-            "explanation": "Yabancı kaygısını azaltan faktörler; tanıdık ortamlar ve pozitif tepkilerdir. <b>Pasif ve ciddi ifade sergilemek</b> ise çocuğun tanıdık figürden tehdit algılamasına yol açarak yabancı kaygısını artıran bir faktördür.",
-            "unit": 10,
-            "topic": "10.5.1. Yabancı Kaygısı",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-8 (Ünite 10)"
+            "sourceInfo": "Soru-4 (Ünite 10)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10011,
@@ -2310,7 +2371,9 @@
             "unit": 10,
             "topic": "10.3. Bağlanma Aşamaları",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-9 (Ünite 10)"
+            "sourceInfo": "Soru-9 (Ünite 10)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10012,
@@ -2327,7 +2390,9 @@
             "unit": 10,
             "topic": "10.3. Bağlanma Aşamaları",
             "source": "Final Soruları 2021 ve 2024-2025",
-            "sourceInfo": "Q20, Q16"
+            "sourceInfo": "Q20, Q16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10013,
@@ -2344,24 +2409,9 @@
             "unit": 10,
             "topic": "10.3. Bağlanma Aşamaları",
             "source": "Final Soruları 2021 ve Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q27, Q8, Q17"
-        },
-        {
-            "id": 10014,
-            "question": "Aşağıdakilerden hangisi Bowly’nin anne yoksunluğunun uzun vadeli sonuçlarından biri <u>değildir</u>?",
-            "options": [
-                "Suçluluk",
-                "Empati yoksunluğu",
-                "Bilişsel olgunluk",
-                "Depresyon",
-                "Saldırganlık"
-            ],
-            "correctIndex": 2,
-            "explanation": "Bowlby’nin anne yoksunluğunun uzun vadeli sonuçları arasında saldırganlık, empati yoksunluğu ve depresyon sayılabilir. <b>Bilişsel olgunluk</b>, anne yoksunluğunun olumsuz sonuçlarından biri değildir.",
-            "unit": 10,
-            "topic": "10.4. Anne Yoksunluğu",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Q33"
+            "sourceInfo": "Q27, Q8, Q17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10015,
@@ -2378,7 +2428,104 @@
             "unit": 10,
             "topic": "10.3. Bağlanma Aşamaları",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-10 (Ünite 10)"
+            "sourceInfo": "Soru-10 (Ünite 10)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10003,
+            "question": "Bowlby’ye göre bebekler birincil bakıcıları ile aralarında güçlü bir bağ oluşturmakta eğer bu bağlanma ortadan kalkar veya bozulursa büyük endişe ve sıkıntı ortaya çıkmaktadır. Bu ayrılığa gösterilen tepkinin aşamaları aşağıdakilerden hangisinde sırayla verilmiştir?",
+            "options": [
+                "Umutsuzluk aşaması – Kopma aşaması – Protesto aşaması",
+                "Kopma aşaması – Protesto aşaması – Umutsuzluk aşaması",
+                "Protesto aşaması – Kopma aşaması – Umutsuzluk aşaması",
+                "Umutsuzluk aşaması – Protesto aşaması – Kopma aşaması",
+                "Protesto aşaması – Umutsuzluk aşaması – Kopma aşaması"
+            ],
+            "correctIndex": 4,
+            "explanation": "Bowlby’ye göre anneden ayrılığa gösterilen tepkinin aşamaları sırasıyla <b>Protesto aşaması</b>, <b>Umutsuzluk aşaması</b> ve <b>Kopma aşaması</b> olarak verilmiştir.",
+            "unit": 10,
+            "topic": "10.4. Anne Yoksunluğu",
+            "source": "Final Soruları 2021 ve 2022",
+            "sourceInfo": "Q36, Q2, Q1, Q22, Q4, Q4, Q4, Q15",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10008,
+            "question": "Anne yoksunluğu konusunda çalışmaları dikkat çeken araştırmacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Spitz",
+                "Piaget",
+                "Freud",
+                "Gardner",
+                "Bruner"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Spitz</b>, anneden ayrı kalan bebeklerde duygusal, bilişsel ve sosyal gelişim gerilikleri gözlemleyerek anne yoksunluğu konusunda çalışmaları dikkat çeken araştırmacılardan biridir.",
+            "unit": 10,
+            "topic": "10.4. Anne Yoksunluğu",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-5 (Ünite 10)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10014,
+            "question": "Aşağıdakilerden hangisi Bowly’nin anne yoksunluğunun uzun vadeli sonuçlarından biri <u>değildir</u>?",
+            "options": [
+                "Suçluluk",
+                "Empati yoksunluğu",
+                "Bilişsel olgunluk",
+                "Depresyon",
+                "Saldırganlık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bowlby’nin anne yoksunluğunun uzun vadeli sonuçları arasında saldırganlık, empati yoksunluğu ve depresyon sayılabilir. <b>Bilişsel olgunluk</b>, anne yoksunluğunun olumsuz sonuçlarından biri değildir.",
+            "unit": 10,
+            "topic": "10.4. Anne Yoksunluğu",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Q33",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10009,
+            "question": "Bebeklerin tanıdık olmayan biriyle karşılaştıklarında gösterdikleri dikkat ve savaştır. Boşluğu en uygun ifade ile tamamlayınız?",
+            "options": [
+                "Ayrılık kaygısı",
+                "Davranışsal inhibisyon",
+                "Yabancı kaygısı",
+                "Sosyal kaygı",
+                "Utangaçlık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bebeklerin tanıdık olmayan biriyle karşılaştıklarında gösterdikleri sıkıntı, dikkat ve savaş <b>Yabancı kaygısı</b> olarak adlandırılmaktadır.",
+            "unit": 10,
+            "topic": "10.5.1. Yabancı Kaygısı",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-6 (Ünite 10)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10010,
+            "question": "Aşağıdakilerden hangisi çocukların yabancı kaygısını artıran faktörlerden biridir?",
+            "options": [
+                "Aşina olunan ortamlar (ev)",
+                "Tanıdık figüre yakın fiziksel yakınlık",
+                "Tanıdık figürden yabancıya pozitif ve destekleyici tepkiler",
+                "Aktif, arkadaş canlısı, güler yüzlü ifadeler sergilemek",
+                "Pasif ve ciddi ifade sergilemek"
+            ],
+            "correctIndex": 4,
+            "explanation": "Yabancı kaygısını azaltan faktörler; tanıdık ortamlar ve pozitif tepkilerdir. <b>Pasif ve ciddi ifade sergilemek</b> ise çocuğun tanıdık figürden tehdit algılamasına yol açarak yabancı kaygısını artıran bir faktördür.",
+            "unit": 10,
+            "topic": "10.5.1. Yabancı Kaygısı",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-8 (Ünite 10)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 11001,
@@ -2395,245 +2542,9 @@
             "unit": 11,
             "topic": "11.2. Bağlanmanın Ölçümü",
             "source": "Ünite Soruları",
-            "sourceInfo": "Soru-1 (Ünite 11)"
-        },
-        {
-            "id": 11002,
-            "question": "Aşağıdakilerden hangisi bağlanma stillerinden biri <u>değildir</u>?",
-            "options": [
-                "Güvensiz-kaçınmacı (A modeli) bağlanma",
-                "Güvenli (B modeli) bağlanma",
-                "Güvensiz-kararsız (C modeli) bağlanma",
-                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
-                "İçgüdüsel bağlanma"
-            ],
-            "correctIndex": 4,
-            "explanation": "Mary Ainsworth ve meslektaşları tarafından tanımlanan dört temel bağlanma stili mevcuttur: Güvenli, Güvensiz-kaçınmacı, Güvensiz-dirençli/karşı koyucu ve Güvensiz-dağınık/yönü belirsiz. <b>İçgüdüsel bağlanma</b> bu stillerden biri değildir.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-2 (Ünite 11)"
-        },
-        {
-            "id": 11003,
-            "question": "Çoğunlukla anneden ayrılma konusunda üzgün olmayıp ve ayrılıktan sonra tekrar bir araya geldiklerinde bile annesine yaklaşmama eğilimi göstermektedir. Verilen açıklama hangi bağlanma stili ile ilgilidir?",
-            "options": [
-                "Güvensiz-kaçınmacı (A modeli) bağlanma",
-                "Güvenli (B modeli) bağlanma",
-                "Güvensiz-kararsız (C modeli) bağlanma",
-                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
-                "İçgüdüsel bağlanma"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bu davranışlar, anneden ayrılıkta çok az sıkıntı gösterme ve tekrar birleşmede bakıcıdan kaçınma eğilimi gösterme özellikleri ile <b>Güvensiz-kaçınmacı (A modeli) bağlanma</b> stiliyle ilgilidir.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-3 (Ünite 11)"
-        },
-        {
-            "id": 11004,
-            "question": "Yakın zamanda keşfedilen bağlanma modeli yabancı ortamda en çok stres altında olan ve en güvensiz görünen Amerikalı bebeklerin %5-15'ini kapsar. Verilen açıklama hangi bağlanma stili ile ilgilidir?",
-            "options": [
-                "Güvensiz-kaçınmacı (A modeli) bağlanma",
-                "Güvenli (B modeli) bağlanma",
-                "Güvensiz-kararsız (C modeli) bağlanma",
-                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
-                "İçgüdüsel bağlanma"
-            ],
-            "correctIndex": 3,
-            "explanation": "Bu tanım, yabancı ortamda en çok stres altında olan ve istismar/ihmal ile ilişkilendirilen <b>Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma</b> stiline aittir. Bu stil Amerikalı bebeklerin yaklaşık %5-15'ini kapsar.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-4 (Ünite 11)"
-        },
-        {
-            "id": 11005,
-            "question": "Yeniden birleşme dönemleri sırasında bakıcıdan dikkat çekici bir şekilde kaçınır. Örneğin, onu görmezden gelerek, oyuncaklara dikkatini vererek, geri dönme veya emekleyerek uzaklaşma gibi. Verilen açıklama hangi bağlanma stili ile ilgilidir?",
-            "options": [
-                "Güvensiz-kaçınmacı (A modeli) bağlanma stili/A1 alt boyutu",
-                "Güvensiz-kaçınmacı (A modeli) bağlanma stili/ A2 alt boyutu",
-                "Güvensiz-kararsız (C modeli) bağlanma stili/C1 alt boyutu",
-                "Güvensiz-kararsız (C modeli) bağlanma stili/C2 alt boyutu",
-                "Güvenli (B modeli) bağlanma stili/B4 alt boyutu"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bu davranışlar, bakıcıdan kaçınma eğilimi gösterme ve dikkatini başka şeylere verme gibi özellikler sergileyen <b>Güvensiz-kaçınmacı (A modeli) bağlanma stili/A1 alt boyutu</b> ile ilişkilidir.",
-            "unit": 11,
-            "topic": "11.4. Bağlanma Stillerinin Alt Boyutları",
-            "source": "Ünite Soruları ve Final Soruları 2024-2025",
-            "sourceInfo": "Soru-5 (Ünite 11), Q5"
-        },
-        {
-            "id": 11006,
-            "question": "Bunlar genellikle bakıcıların sorun olarak görmediği çocuklardır. Varsa bağlanma figürlerine yakınlık fırsatını değerlendirmek için öfkelerini bastırmayı ve dikkatli olmayı öğrenir ancak böyle bir yakınlığın güvenilmez olduğunu ve dikkat isteyenlerin kazanamayacağını öğrenmiştir. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?",
-            "options": [
-                "Güvensiz-kaçınmacı (A modeli) bağlanma",
-                "Güvenli (B modeli) bağlanma",
-                "Güvensiz-kararsız (C modeli) bağlanma",
-                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
-                "İçgüdüsel bağlanma"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bu özellikler, yakınlığın güvenilmez olduğunu öğrenmiş, öfkesini bastıran ve dışarıdan 'sorunsuz' görünen <b>Güvensiz-kaçınmacı (A modeli) bağlanma</b> stiline sahip çocukları tanımlamaktadır. Bu çocuklar içsel olarak kendilerini sevmeye layık olarak görmezler.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-6 (Ünite 11)"
-        },
-        {
-            "id": 11007,
-            "question": "Yaşamlarında hiçbir yetişkin bağlanma figürünün güvenilir olmadığı düşüncesine sahip ve sıklıkla istismar veya ihmal gören çocuklardır. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?",
-            "options": [
-                "Güvensiz-kaçınmacı (A modeli) bağlanma",
-                "Güvenli (B modeli) bağlanma",
-                "Güvensiz-kararsız (C modeli) bağlanma",
-                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
-                "İçgüdüsel bağlanma"
-            ],
-            "correctIndex": 3,
-            "explanation": "Sıklıkla istismar veya ihmal gören ve hiçbir yetişkinin güvenilir olmadığı düşüncesine sahip olan çocuklar, <b>Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma</b> stiline sahip olmaları söz konusudur. Bu bağlanma örüntüsünün altında yatan nedenin bakım verenden korkma olduğu belirtilir.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-7 (Ünite 11)"
-        },
-        {
-            "id": 11008,
-            "question": "Aşağıdakilerden hangisi kaçınmacı bağlanma stili ile ilgili çocukların içsel çalışan modeli örneklerinden biri <u>değildir</u>?",
-            "options": [
-                "Diğer insanlar mevcut değil ve reddediyor.",
-                "Kendimi korumak zorundayım.",
-                "Ben sevilmeye layığım.",
-                "İhtiyaçlarımı karşılayamıyorum.",
-                "Kendimi nasıl koruyacağımı bilmiyorum."
-            ],
-            "correctIndex": 2,
-            "explanation": "Kaçınmacı bağlanan çocuklar, diğer insanların reddedici olduğu ve kendilerini korumaları gerektiği düşüncesindedirler. <b>Ben sevilmeye layığım</b> ifadesi, güvenli bağlanma stili ile ilişkili içsel çalışan modelin bir örneğidir.",
-            "unit": 11,
-            "topic": "11.5. Bağlanma Stillerine Göre Çocuk ve Bakıcı Özellikleri",
-            "source": "Ünite Soruları",
-            "sourceInfo": "Soru-8 (Ünite 11)"
-        },
-        {
-            "id": 11009,
-            "question": "Aşağıdakilerden hangisi güvensiz-dirençli/karşı koyucu bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biri <u>değildir</u>?",
-            "options": [
-                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
-                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
-                "Yabancı tarafından rahatlatılmaya direnç gösterme",
-                "Bakıcının gidişinden büyük sıkıntı duyma",
-                "Bakıcının ayrılmasından dolayı üzüntü duymama"
-            ],
-            "correctIndex": 4,
-            "explanation": "Güvensiz-dirençli/karşı koyucu bağlanan çocuklar, ebeveynlerinin gidişinden büyük sıkıntı duyar. <b>Bakıcının ayrılmasından dolayı üzüntü duymama</b> davranışı, Güvensiz-kaçınmacı bağlanma stiline ait bir özelliktir.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Final Soruları 2021 ve 2022-2023",
-            "sourceInfo": "Q7, Q10, Q17"
-        },
-        {
-            "id": 11010,
-            "question": "Aşağıdakilerden hangisi yanlıştır? (Bağlanma stili yüzdeleri)",
-            "options": [
-                "Amerikalı bebeklerin %5-15’i güvensiz-dağınık/yönü belirsiz bağlanma göstermektedir.",
-                "Bir yaşındakilerin yaklaşık %10’u güvensiz-kaçınmacı bir bağ sergilemektedir.",
-                "Bir yaşındaki Amerikalı bebeklerin yaklaşık %60-65’i güvenli bağlanma stiline sahiptir.",
-                "Bir yaşındakilerin yaklaşık %20’si güvensiz-kaçınmacı bir bağ sergilemektedir.",
-                "Bir yaşındakilerin yaklaşık %10’u bu tür güvensiz-karşı koyucu bağlanma göstermektedir."
-            ],
-            "correctIndex": 1,
-            "explanation": "Yanlış ifade <b>Bir yaşındakilerin yaklaşık %10’u güvensiz-kaçınmacı bir bağ sergilemektedir</b> ifadesidir. Kaynaklara göre Güvensiz-kaçınmacı bağlanma stili sergileyen bir yaşındakilerin yaklaşık %20'sidir.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Q8"
-        },
-        {
-            "id": 11011,
-            "question": "Aşağıdakilerden hangisi karşı koyucu bağlanma stili ile ilgili ebeveynlik sitilidir?",
-            "options": [
-                "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
-                "Korkutan (örneğin, aşırı ezen)",
-                "Ürküten (örneğin, taciz eden)",
-                "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
-                "Hassas, duyarlı"
-            ],
-            "correctIndex": 3,
-            "explanation": "Karşı koyucu (Güvensiz-dirençli) bağlanma stili, genellikle <b>Tutarsız, genellikle yanıt vermeyen (örneğin, depresif) ebeveynlik stili</b> ile ilişkilidir.",
-            "unit": 11,
-            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
-            "source": "Final Soruları 2021 ve 2022-2023",
-            "sourceInfo": "Q14, Q4"
-        },
-        {
-            "id": 11012,
-            "question": "Aşağıdakilerden hangisi Ainsworth’un çocuğun bağlanma stilleriyle ilişkili anne davranışları boyutlarından biri <u>değildir</u>?",
-            "options": [
-                "Ulaşılabilir / umursamaz",
-                "Güvenli / güvensiz",
-                "Duyarlı / duyarsız",
-                "İşbirlikçi / çatışmacı",
-                "Kabul / red"
-            ],
-            "correctIndex": 1,
-            "explanation": "Ainsworth, bağlanma stilleriyle ilişkili anne davranışlarını Duyarlı/duyarsız, Kabul/red, İşbirlikçi/çatışmacı ve Ulaşılabilir/umursamaz olmak üzere dört boyutta incelemiştir. <b>Güvenli / güvensiz</b> kavramı ise çocukların geliştirdiği bağlanma stillerini tanımlamak için kullanılır, annenin davranış boyutu değildir.",
-            "unit": 11,
-            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
-            "source": "Final Soruları 2021 ve Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Q22, Q7, Q19"
-        },
-        {
-            "id": 11013,
-            "question": "Aşağıdakilerden hangisi güvensiz bağlanma stili ile ilgili ebeveynlik stillerinden biri <u>değildir</u>?",
-            "options": [
-                "Hassas, duyarlı",
-                "Korkutan (örneğin, aşırı ezen)",
-                "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
-                "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
-                "Ürküten (örneğin, taciz eden)"
-            ],
-            "correctIndex": 0,
-            "explanation": "<b>Hassas, duyarlı</b> ebeveynlik stili, güvenli bağlanma ile ilişkilidir. Güvensiz bağlanma stilleri ise reddeden, tutarsız, korkutan veya ürküten ebeveynlik stilleriyle ilişkilidir.",
-            "unit": 11,
-            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
-            "source": "Final Soruları 2021 ve 2023-2024",
-            "sourceInfo": "Q23, Q3, Q13"
-        },
-        {
-            "id": 11014,
-            "question": "Aşağıdakilerden hangisi güvenli bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biridir?",
-            "options": [
-                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
-                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
-                "Yabancı tarafından rahatlatılmaya direnç gösterme",
-                "Bakıcının gidişinden büyük sıkıntı duyma",
-                "Bakıcının ayrılmasından dolayı üzgün olma"
-            ],
-            "correctIndex": 4,
-            "explanation": "Güvenli bağlanan bebekler, bakıcının ayrılığından dolayı üzüntü duyarlar ve geri döndüğünde hızlıca rahatlama gösterirler. <b>Bakıcının ayrılmasından dolayı üzgün olma</b> davranışı bu stilin bir parçasıdır.",
-            "unit": 11,
-            "topic": "11.3. Bağlanma Stilleri",
-            "source": "Final Soruları 2021 ve 2023-2024",
-            "sourceInfo": "Q30, Q18"
-        },
-        {
-            "id": 11015,
-            "question": "Aşağıdakilerden hangisi kaçınmacı bağlanma stili ile ilgili ebeveynlik stilidir?",
-            "options": [
-                "Ürküten (örneğin, taciz eden)",
-                "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
-                "Korkutan (örneğin, aşırı ezen)",
-                "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
-                "Hassas, duyarlı"
-            ],
-            "correctIndex": 3,
-            "explanation": "Kaçınmacı bağlanma stili, bebeğin sinyallerini reddeden, tepkisiz veya aşırı uyarıcı, müdahaleci ebeveynlik stiliyle ilişkilidir.",
-            "unit": 11,
-            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
-            "source": "Final Soruları 2021 ve Bütünleme Soruları 2022",
-            "sourceInfo": "Q31, Q4, Q15, Q15, Q13"
+            "sourceInfo": "Soru-1 (Ünite 11)",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 11016,
@@ -2650,7 +2561,275 @@
             "unit": 11,
             "topic": "11.2. Bağlanmanın Ölçümü",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q18, Q6"
+            "sourceInfo": "Q18, Q6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11002,
+            "question": "Aşağıdakilerden hangisi bağlanma stillerinden biri <u>değildir</u>?",
+            "options": [
+                "Güvensiz-kaçınmacı (A modeli) bağlanma",
+                "Güvenli (B modeli) bağlanma",
+                "Güvensiz-kararsız (C modeli) bağlanma",
+                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
+                "İçgüdüsel bağlanma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Mary Ainsworth ve meslektaşları tarafından tanımlanan dört temel bağlanma stili mevcuttur: Güvenli, Güvensiz-kaçınmacı, Güvensiz-dirençli/karşı koyucu ve Güvensiz-dağınık/yönü belirsiz. <b>İçgüdüsel bağlanma</b> bu stillerden biri değildir.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-2 (Ünite 11)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11003,
+            "question": "Çoğunlukla anneden ayrılma konusunda üzgün olmayıp ve ayrılıktan sonra tekrar bir araya geldiklerinde bile annesine yaklaşmama eğilimi göstermektedir. Verilen açıklama hangi bağlanma stili ile ilgilidir?",
+            "options": [
+                "Güvensiz-kaçınmacı (A modeli) bağlanma",
+                "Güvenli (B modeli) bağlanma",
+                "Güvensiz-kararsız (C modeli) bağlanma",
+                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
+                "İçgüdüsel bağlanma"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bu davranışlar, anneden ayrılıkta çok az sıkıntı gösterme ve tekrar birleşmede bakıcıdan kaçınma eğilimi gösterme özellikleri ile <b>Güvensiz-kaçınmacı (A modeli) bağlanma</b> stiliyle ilgilidir.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-3 (Ünite 11)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11004,
+            "question": "Yakın zamanda keşfedilen bağlanma modeli yabancı ortamda en çok stres altında olan ve en güvensiz görünen Amerikalı bebeklerin %5-15'ini kapsar. Verilen açıklama hangi bağlanma stili ile ilgilidir?",
+            "options": [
+                "Güvensiz-kaçınmacı (A modeli) bağlanma",
+                "Güvenli (B modeli) bağlanma",
+                "Güvensiz-kararsız (C modeli) bağlanma",
+                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
+                "İçgüdüsel bağlanma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Bu tanım, yabancı ortamda en çok stres altında olan ve istismar/ihmal ile ilişkilendirilen <b>Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma</b> stiline aittir. Bu stil Amerikalı bebeklerin yaklaşık %5-15'ini kapsar.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-4 (Ünite 11)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11006,
+            "question": "Bunlar genellikle bakıcıların sorun olarak görmediği çocuklardır. Varsa bağlanma figürlerine yakınlık fırsatını değerlendirmek için öfkelerini bastırmayı ve dikkatli olmayı öğrenir ancak böyle bir yakınlığın güvenilmez olduğunu ve dikkat isteyenlerin kazanamayacağını öğrenmiştir. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?",
+            "options": [
+                "Güvensiz-kaçınmacı (A modeli) bağlanma",
+                "Güvenli (B modeli) bağlanma",
+                "Güvensiz-kararsız (C modeli) bağlanma",
+                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
+                "İçgüdüsel bağlanma"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bu özellikler, yakınlığın güvenilmez olduğunu öğrenmiş, öfkesini bastıran ve dışarıdan 'sorunsuz' görünen <b>Güvensiz-kaçınmacı (A modeli) bağlanma</b> stiline sahip çocukları tanımlamaktadır. Bu çocuklar içsel olarak kendilerini sevmeye layık olarak görmezler.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-6 (Ünite 11)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11007,
+            "question": "Yaşamlarında hiçbir yetişkin bağlanma figürünün güvenilir olmadığı düşüncesine sahip ve sıklıkla istismar veya ihmal gören çocuklardır. Özellikleri sıralanan çocuklar hangi bağlanma stiline sahip olmaları söz konusudur?",
+            "options": [
+                "Güvensiz-kaçınmacı (A modeli) bağlanma",
+                "Güvenli (B modeli) bağlanma",
+                "Güvensiz-kararsız (C modeli) bağlanma",
+                "Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma",
+                "İçgüdüsel bağlanma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sıklıkla istismar veya ihmal gören ve hiçbir yetişkinin güvenilir olmadığı düşüncesine sahip olan çocuklar, <b>Güvensiz-dağınık/yönü belirsiz (D modeli) bağlanma</b> stiline sahip olmaları söz konusudur. Bu bağlanma örüntüsünün altında yatan nedenin bakım verenden korkma olduğu belirtilir.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-7 (Ünite 11)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11009,
+            "question": "Aşağıdakilerden hangisi güvensiz-dirençli/karşı koyucu bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biri <u>değildir</u>?",
+            "options": [
+                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
+                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
+                "Yabancı tarafından rahatlatılmaya direnç gösterme",
+                "Bakıcının gidişinden büyük sıkıntı duyma",
+                "Bakıcının ayrılmasından dolayı üzüntü duymama"
+            ],
+            "correctIndex": 4,
+            "explanation": "Güvensiz-dirençli/karşı koyucu bağlanan çocuklar, ebeveynlerinin gidişinden büyük sıkıntı duyar. <b>Bakıcının ayrılmasından dolayı üzüntü duymama</b> davranışı, Güvensiz-kaçınmacı bağlanma stiline ait bir özelliktir.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Final Soruları 2021 ve 2022-2023",
+            "sourceInfo": "Q7, Q10, Q17",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11010,
+            "question": "Aşağıdakilerden hangisi yanlıştır? (Bağlanma stili yüzdeleri)",
+            "options": [
+                "Amerikalı bebeklerin %5-15’i güvensiz-dağınık/yönü belirsiz bağlanma göstermektedir.",
+                "Bir yaşındakilerin yaklaşık %10’u güvensiz-kaçınmacı bir bağ sergilemektedir.",
+                "Bir yaşındaki Amerikalı bebeklerin yaklaşık %60-65’i güvenli bağlanma stiline sahiptir.",
+                "Bir yaşındakilerin yaklaşık %20’si güvensiz-kaçınmacı bir bağ sergilemektedir.",
+                "Bir yaşındakilerin yaklaşık %10’u bu tür güvensiz-karşı koyucu bağlanma göstermektedir."
+            ],
+            "correctIndex": 1,
+            "explanation": "Yanlış ifade <b>Bir yaşındakilerin yaklaşık %10’u güvensiz-kaçınmacı bir bağ sergilemektedir</b> ifadesidir. Kaynaklara göre Güvensiz-kaçınmacı bağlanma stili sergileyen bir yaşındakilerin yaklaşık %20'sidir.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Q8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11014,
+            "question": "Aşağıdakilerden hangisi güvenli bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biridir?",
+            "options": [
+                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
+                "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
+                "Yabancı tarafından rahatlatılmaya direnç gösterme",
+                "Bakıcının gidişinden büyük sıkıntı duyma",
+                "Bakıcının ayrılmasından dolayı üzgün olma"
+            ],
+            "correctIndex": 4,
+            "explanation": "Güvenli bağlanan bebekler, bakıcının ayrılığından dolayı üzüntü duyarlar ve geri döndüğünde hızlıca rahatlama gösterirler. <b>Bakıcının ayrılmasından dolayı üzgün olma</b> davranışı bu stilin bir parçasıdır.",
+            "unit": 11,
+            "topic": "11.3. Bağlanma Stilleri",
+            "source": "Final Soruları 2021 ve 2023-2024",
+            "sourceInfo": "Q30, Q18",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11005,
+            "question": "Yeniden birleşme dönemleri sırasında bakıcıdan dikkat çekici bir şekilde kaçınır. Örneğin, onu görmezden gelerek, oyuncaklara dikkatini vererek, geri dönme veya emekleyerek uzaklaşma gibi. Verilen açıklama hangi bağlanma stili ile ilgilidir?",
+            "options": [
+                "Güvensiz-kaçınmacı (A modeli) bağlanma stili/A1 alt boyutu",
+                "Güvensiz-kaçınmacı (A modeli) bağlanma stili/ A2 alt boyutu",
+                "Güvensiz-kararsız (C modeli) bağlanma stili/C1 alt boyutu",
+                "Güvensiz-kararsız (C modeli) bağlanma stili/C2 alt boyutu",
+                "Güvenli (B modeli) bağlanma stili/B4 alt boyutu"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bu davranışlar, bakıcıdan kaçınma eğilimi gösterme ve dikkatini başka şeylere verme gibi özellikler sergileyen <b>Güvensiz-kaçınmacı (A modeli) bağlanma stili/A1 alt boyutu</b> ile ilişkilidir.",
+            "unit": 11,
+            "topic": "11.4. Bağlanma Stillerinin Alt Boyutları",
+            "source": "Ünite Soruları ve Final Soruları 2024-2025",
+            "sourceInfo": "Soru-5 (Ünite 11), Q5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11008,
+            "question": "Aşağıdakilerden hangisi kaçınmacı bağlanma stili ile ilgili çocukların içsel çalışan modeli örneklerinden biri <u>değildir</u>?",
+            "options": [
+                "Diğer insanlar mevcut değil ve reddediyor.",
+                "Kendimi korumak zorundayım.",
+                "Ben sevilmeye layığım.",
+                "İhtiyaçlarımı karşılayamıyorum.",
+                "Kendimi nasıl koruyacağımı bilmiyorum."
+            ],
+            "correctIndex": 2,
+            "explanation": "Kaçınmacı bağlanan çocuklar, diğer insanların reddedici olduğu ve kendilerini korumaları gerektiği düşüncesindedirler. <b>Ben sevilmeye layığım</b> ifadesi, güvenli bağlanma stili ile ilişkili içsel çalışan modelin bir örneğidir.",
+            "unit": 11,
+            "topic": "11.5. Bağlanma Stillerine Göre Çocuk ve Bakıcı Özellikleri",
+            "source": "Ünite Soruları",
+            "sourceInfo": "Soru-8 (Ünite 11)",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11011,
+            "question": "Aşağıdakilerden hangisi karşı koyucu bağlanma stili ile ilgili ebeveynlik sitilidir?",
+            "options": [
+                "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
+                "Korkutan (örneğin, aşırı ezen)",
+                "Ürküten (örneğin, taciz eden)",
+                "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
+                "Hassas, duyarlı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Karşı koyucu (Güvensiz-dirençli) bağlanma stili, genellikle <b>Tutarsız, genellikle yanıt vermeyen (örneğin, depresif) ebeveynlik stili</b> ile ilişkilidir.",
+            "unit": 11,
+            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
+            "source": "Final Soruları 2021 ve 2022-2023",
+            "sourceInfo": "Q14, Q4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11012,
+            "question": "Aşağıdakilerden hangisi Ainsworth’un çocuğun bağlanma stilleriyle ilişkili anne davranışları boyutlarından biri <u>değildir</u>?",
+            "options": [
+                "Ulaşılabilir / umursamaz",
+                "Güvenli / güvensiz",
+                "Duyarlı / duyarsız",
+                "İşbirlikçi / çatışmacı",
+                "Kabul / red"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ainsworth, bağlanma stilleriyle ilişkili anne davranışlarını Duyarlı/duyarsız, Kabul/red, İşbirlikçi/çatışmacı ve Ulaşılabilir/umursamaz olmak üzere dört boyutta incelemiştir. <b>Güvenli / güvensiz</b> kavramı ise çocukların geliştirdiği bağlanma stillerini tanımlamak için kullanılır, annenin davranış boyutu değildir.",
+            "unit": 11,
+            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
+            "source": "Final Soruları 2021 ve Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Q22, Q7, Q19",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11013,
+            "question": "Aşağıdakilerden hangisi güvensiz bağlanma stili ile ilgili ebeveynlik stillerinden biri <u>değildir</u>?",
+            "options": [
+                "Hassas, duyarlı",
+                "Korkutan (örneğin, aşırı ezen)",
+                "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
+                "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
+                "Ürküten (örneğin, taciz eden)"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Hassas, duyarlı</b> ebeveynlik stili, güvenli bağlanma ile ilişkilidir. Güvensiz bağlanma stilleri ise reddeden, tutarsız, korkutan veya ürküten ebeveynlik stilleriyle ilişkilidir.",
+            "unit": 11,
+            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
+            "source": "Final Soruları 2021 ve 2023-2024",
+            "sourceInfo": "Q23, Q3, Q13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 11015,
+            "question": "Aşağıdakilerden hangisi kaçınmacı bağlanma stili ile ilgili ebeveynlik stilidir?",
+            "options": [
+                "Ürküten (örneğin, taciz eden)",
+                "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
+                "Korkutan (örneğin, aşırı ezen)",
+                "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
+                "Hassas, duyarlı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kaçınmacı bağlanma stili, bebeğin sinyallerini reddeden, tepkisiz veya aşırı uyarıcı, müdahaleci ebeveynlik stiliyle ilişkilidir.",
+            "unit": 11,
+            "topic": "11.6. Bağlanma Stilleriyle İlişkili Anne Davranışları",
+            "source": "Final Soruları 2021 ve Bütünleme Soruları 2022",
+            "sourceInfo": "Q31, Q4, Q15, Q15, Q13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12001,
@@ -2667,7 +2846,9 @@
             "unit": 12,
             "topic": "12.1. Giriş",
             "source": "Final Soruları 2021 ve Bütünleme Soruları 2022-2024",
-            "sourceInfo": "Q24, Q1, Q7"
+            "sourceInfo": "Q24, Q1, Q7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12002,
@@ -2684,7 +2865,9 @@
             "unit": 12,
             "topic": "12.1. Giriş",
             "source": "Final Soruları 2021",
-            "sourceInfo": "Q34"
+            "sourceInfo": "Q34",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12003,
@@ -2701,7 +2884,9 @@
             "unit": 12,
             "topic": "12.2. Oyun Sürecinde Dikkat Edilmesi Gereken Noktalar",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Q14"
+            "sourceInfo": "Q14",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 12004,
@@ -2718,24 +2903,9 @@
             "unit": 12,
             "topic": "12.5. Orta ve Son Çocukluk Döneminde Sosyal Duygusal Gelişimi Destekleyen Oyun Temelli Etkinlik Örnekleri",
             "source": "Final Soruları 2021 ve Bütünleme Soruları 2022-2024",
-            "sourceInfo": "Q37, Q3, Q18, Q8"
-        },
-        {
-            "id": 12005,
-            "question": "Aşağıdakilerden hangisi çocuk oyun oynarken yetişkinin yapması gerekenlerden biri <u>değildir</u>?",
-            "options": [
-                "İlginç bir açılım ya da uyarım sağlama amacıyla oyuna girmek",
-                "Oyunun sürdürülmesi amacıyla bir katılımcı olarak oyuna girmek",
-                "Oyuna hiç katılmayan çocuğa yardım etmek",
-                "Devam etmekte olan bir oyuna çocuğun girmesine yardım etmek",
-                "Oyunu, dışarıdan verilecek talimatlarla yönlendirmek"
-            ],
-            "correctIndex": 4,
-            "explanation": "Yetişkin, oyunu dışarıdan talimatlarla yönlendirerek çocuğun özgür seçim hakkını ve içten güdümlü doğasını bozmamalıdır. Bu, yetişkinin yapmaması gereken bir davranıştır.",
-            "unit": 12,
-            "topic": "12.2. Oyun Sürecinde Dikkat Edilmesi Gereken Noktalar",
-            "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Q12, Q16"
+            "sourceInfo": "Q37, Q3, Q18, Q8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 12006,
@@ -2752,7 +2922,9 @@
             "unit": 12,
             "topic": "12.5. Orta ve Son Çocukluk Döneminde Sosyal Duygusal Gelişimi Destekleyen Oyun Temelli Etkinlik Örnekleri",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Q20"
+            "sourceInfo": "Q20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         }
     ],
     "meta": {

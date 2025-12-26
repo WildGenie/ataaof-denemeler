@@ -15,7 +15,9 @@
             "unit": 1,
             "topic": "1.1. Çocukluk Çağındaki Olumsuz Yaşantıların ve Psikiyatrik Sorunların Yaşam Boyu Etkileri",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1002,
@@ -32,7 +34,9 @@
             "unit": 1,
             "topic": "1.1. Çocukluk Çağındaki Olumsuz Yaşantıların ve Psikiyatrik Sorunların Yaşam Boyu Etkileri",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1003,
@@ -49,7 +53,9 @@
             "unit": 1,
             "topic": "1.1. Çocukluk Çağındaki Olumsuz Yaşantıların ve Psikiyatrik Sorunların Yaşam Boyu Etkileri",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 1004,
@@ -66,7 +72,9 @@
             "unit": 1,
             "topic": "1.1. Çocukluk Çağındaki Olumsuz Yaşantıların ve Psikiyatrik Sorunların Yaşam Boyu Etkileri",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 17"
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1005,
@@ -83,7 +91,9 @@
             "unit": 1,
             "topic": "1.1. Çocukluk Çağındaki Olumsuz Yaşantıların ve Psikiyatrik Sorunların Yaşam Boyu Etkileri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1006,
@@ -100,7 +110,9 @@
             "unit": 1,
             "topic": "1.2. Koruyucu Ruh Sağlığının Tanımı ve Bileşenleri",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1007,
@@ -117,7 +129,9 @@
             "unit": 1,
             "topic": "1.2. Koruyucu Ruh Sağlığının Tanımı ve Bileşenleri",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1008,
@@ -134,7 +148,9 @@
             "unit": 1,
             "topic": "1.2. Koruyucu Ruh Sağlığının Tanımı ve Bileşenleri",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1009,
@@ -151,7 +167,9 @@
             "unit": 1,
             "topic": "1.2. Koruyucu Ruh Sağlığının Tanımı ve Bileşenleri",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1010,
@@ -168,7 +186,9 @@
             "unit": 1,
             "topic": "1.3. Çocukluk ve Ergenlik Döneminde Koruyucu Ruh Sağlığının Önemi",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1011,
@@ -185,7 +205,9 @@
             "unit": 1,
             "topic": "1.3. Çocukluk ve Ergenlik Döneminde Koruyucu Ruh Sağlığının Önemi",
             "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1012,
@@ -202,7 +224,9 @@
             "unit": 1,
             "topic": "1.3. Çocukluk ve Ergenlik Döneminde Koruyucu Ruh Sağlığının Önemi",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 16"
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1013,
@@ -219,7 +243,9 @@
             "unit": 1,
             "topic": "1.4. Psikolojik Dayanıklılığın Tanımı ve Önemi",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1014,
@@ -236,7 +262,9 @@
             "unit": 1,
             "topic": "1.4. Psikolojik Dayanıklılığın Tanımı ve Önemi",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1015,
@@ -253,24 +281,9 @@
             "unit": 1,
             "topic": "1.4. Psikolojik Dayanıklılığın Tanımı ve Önemi",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 9"
-        },
-        {
-            "id": 2001,
-            "question": "<u>_____</u>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade eder. <u>_____</u>, ise, bir insanın doğum öncesinden başlayıp ölümüne kadar geçirdiği, yapı ve fonksiyonlarının <u>_____</u> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder. Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangilerinin gelmesi uygun olacaktır?",
-            "options": [
-                "Çoğalma / Olgunlaşma / gelişim",
-                "Olgunlaşma / Gelişme / büyüme",
-                "Büyüme / Olgunlaşma / gelişim",
-                "Büyüme / Gelişme / olgunlaşma",
-                "Gelişme / Büyüme / olgunlaşma"
-            ],
-            "correctIndex": 3,
-            "explanation": "<b>Büyüme</b>, bir insanın ölçülebilir fiziksel parametrelerindeki artışı ifade ederken; <b>Gelişme</b>, yapı ve fonksiyonların <b>olgunlaşması</b> ya da farklılaşarak yetkinleşmesi yönündeki değişmeyi ifade eder.",
-            "unit": 2,
-            "topic": "2.1. Doğum Öncesi Dönemde Genel Gelişim",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2002,
@@ -287,7 +300,9 @@
             "unit": 2,
             "topic": "2.1. Doğum Öncesi Dönemde Genel Gelişim",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2003,
@@ -304,7 +319,9 @@
             "unit": 2,
             "topic": "2.2. Gebelik Şekli",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2004,
@@ -321,7 +338,9 @@
             "unit": 2,
             "topic": "2.2. Gebelik Şekli",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 20"
+            "sourceInfo": "Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2005,
@@ -338,7 +357,9 @@
             "unit": 2,
             "topic": "2.4. Ebeveyn Psikopatolojisi",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2006,
@@ -355,7 +376,9 @@
             "unit": 2,
             "topic": "2.5. Beslenme",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 9"
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2007,
@@ -372,7 +395,9 @@
             "unit": 2,
             "topic": "2.6. Sigara, Alkol ve Madde Kullanımı",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2008,
@@ -389,7 +414,9 @@
             "unit": 2,
             "topic": "2.6. Sigara, Alkol ve Madde Kullanımı",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2009,
@@ -406,7 +433,9 @@
             "unit": 2,
             "topic": "2.7. Doğum Şekli",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2010,
@@ -423,7 +452,9 @@
             "unit": 2,
             "topic": "2.7. Doğum Şekli",
             "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 16"
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2011,
@@ -440,7 +471,9 @@
             "unit": 2,
             "topic": "2.8. Doğum Öncesi Bakım",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2012,
@@ -457,7 +490,9 @@
             "unit": 2,
             "topic": "2.8. Doğum Öncesi Bakım",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2013,
@@ -474,7 +509,9 @@
             "unit": 2,
             "topic": "2.8. Doğum Öncesi Bakım",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2014,
@@ -491,7 +528,9 @@
             "unit": 2,
             "topic": "2.8. Doğum Öncesi Bakım",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3001,
@@ -508,7 +547,9 @@
             "unit": 3,
             "topic": "3.1. Bağlanmanın Tanımı ve Önemi",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 20"
+            "sourceInfo": "Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3002,
@@ -525,7 +566,9 @@
             "unit": 3,
             "topic": "3.1. Bağlanmanın Tanımı ve Önemi",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3003,
@@ -542,7 +585,9 @@
             "unit": 3,
             "topic": "3.1. Bağlanmanın Tanımı ve Önemi",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3004,
@@ -559,7 +604,9 @@
             "unit": 3,
             "topic": "3.1. Bağlanmanın Tanımı ve Önemi",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 9"
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3005,
@@ -576,7 +623,9 @@
             "unit": 3,
             "topic": "3.1. Bağlanmanın Tanımı ve Önemi",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 19"
+            "sourceInfo": "Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3006,
@@ -593,7 +642,9 @@
             "unit": 3,
             "topic": "3.2. Bağlanma Süreçleri",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 12"
+            "sourceInfo": "Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3007,
@@ -610,7 +661,9 @@
             "unit": 3,
             "topic": "3.2. Bağlanma Süreçleri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 18"
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3008,
@@ -627,7 +680,9 @@
             "unit": 3,
             "topic": "3.3. Bağlanma Çeşitleri",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 13"
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3009,
@@ -644,7 +699,9 @@
             "unit": 3,
             "topic": "3.3. Bağlanma Çeşitleri",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3010,
@@ -661,7 +718,9 @@
             "unit": 3,
             "topic": "3.3. Bağlanma Çeşitleri",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3011,
@@ -678,7 +737,9 @@
             "unit": 3,
             "topic": "3.3. Bağlanma Çeşitleri",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3012,
@@ -695,7 +756,9 @@
             "unit": 3,
             "topic": "3.7. Bağlanma ve Psikopatoloji",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3013,
@@ -712,7 +775,9 @@
             "unit": 3,
             "topic": "3.7. Bağlanma ve Psikopatoloji",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3014,
@@ -729,7 +794,9 @@
             "unit": 3,
             "topic": "3.7. Bağlanma ve Psikopatoloji",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3015,
@@ -746,7 +813,9 @@
             "unit": 3,
             "topic": "3.7. Bağlanma ve Psikopatoloji",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3016,
@@ -763,7 +832,9 @@
             "unit": 3,
             "topic": "3.8. Bebeklik Döneminde Koruyucu Ruh Sağlığı Girişimleri",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 9"
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3017,
@@ -780,7 +851,9 @@
             "unit": 3,
             "topic": "3.9. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Anne Sütü ve Emzirme",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4001,
@@ -797,109 +870,9 @@
             "unit": 4,
             "topic": "4.1. Erken Çocukluk Döneminin Genel Gelişimsel Özellikleri",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 4002,
-            "question": "Koruyucu ruh sağlığı açısından önemli olan aşağıdaki beceri veya durumlardan hangisi erken çocuklukla ilgili <u>değildir</u>?",
-            "options": [
-                "Dürtü ve öfke kontrolü",
-                "Zevk erteleme",
-                "Güvenli bağlanma",
-                "Empati",
-                "Problem çözme"
-            ],
-            "correctIndex": 2,
-            "explanation": "Güvenli bağlanma, bebeklik dönemindeki (0-2 yaş) en önemli kazanım olarak kabul edilir ve bu dönem güvenli bağlanma için <u>kritik dönemdir</u>. Diğer beceriler ise erken çocukluk (okul öncesi) dönemi için hassas dönem kazanımlarıdır.",
-            "unit": 4,
-            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 4003,
-            "question": "Psikolojik dayanıklılığın gelişmesi açısından aşağıdakilerden hangisi altı yaşındaki bir çocukta ailenin yapması <u>beklenilen bir durum değildir</u>?",
-            "options": [
-                "Sorunların çözümünde çocuğa örnek olmak",
-                "Çocuğu her türlü riskli durumdan uzak tutmak",
-                "Çocuğun sağlıklı beslenmesini sağlamak",
-                "Çocuğa tarihimizden kahramanlık hikâyeleri okumak",
-                "Çocuğun ağaca tırmanmaya çalışmasına izin vermek"
-            ],
-            "correctIndex": 1,
-            "explanation": "Çocuğu tehlikeli veya riskli durumlardan korumak ebeveyn görevi olsa da, aşırı koruyucu tutumlar psikolojik dayanıklılığın gelişmesini zorlaştırır. Psikolojik dayanıklılığın gelişmesi, çocuğun <b>baş edebileceği düzeyde risk veya zorluklarla karşılaşmasını</b> gerektirir.",
-            "unit": 4,
-            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 5"
-        },
-        {
-            "id": 4004,
-            "question": "Aşağıdakilerden hangisi erken çocukluk dönemindeki koruyucu ruh sağlığı önlemlerinden biri <u>değildir</u>?",
-            "options": [
-                "Ebeveynlere yönelik baş etme eğitimi vermek",
-                "Kreş veya anaokulunda gelişimsel veya davranışsal sorunu olan çocukları taramak",
-                "Çocuklara yönelik yabancı dil eğitimleri vermek",
-                "Uyku ve beslenme alışkanlıklarına dikkat etmek",
-                "Ciddi düzeyde dürtü ve davranış sorunu olan çocukları tedavi için yönlendirmek"
-            ],
-            "correctIndex": 2,
-            "explanation": "Koruyucu ruh sağlığı programları arasında, erken müdahale için tarama yapmak ve ebeveyn eğitimi vermek yer alır. Uyku ve beslenme alışkanlıkları bu dönemin kazanımları için önemlidir. Ancak yabancı dil öğrenmek, erken çocukluk döneminde <b>hassas dönem</b> olmasına rağmen, bir koruyucu ruh sağlığı önlemi olarak kabul edilmez.",
-            "unit": 4,
-            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 4005,
-            "question": "Ebeveyn tutum ve davranışlarının koruyucu ruh sağlığı ve dayanıklılık açısından önemi/etkisi hakkında aşağıdakilerden hangisi doğrudur?",
-            "options": [
-                "Ebeveynler olumlu veya olumsuz örnek olabilirler.",
-                "Aşırı koruyucu ebeveyn tipi dayanıklılık gelişimini zorlaştırabilir.",
-                "İlgisiz, sorumsuz ebeveyn çocukta riskli alışkanlıkların gelişmesini kolaylaştırır.",
-                "Ebeveyn tutum ve davranışları psikiyatrik bir sorunun ortaya çıkışını kolaylaştırabilir.",
-                "Hepsi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Ebeveynlerin rol model olması (A), aşırı koruyucu tutumların dayanıklılığı zorlaştırması (B), ilgisizliğin riskli alışkanlıkları kolaylaştırması (C), ve tutumların psikiyatrik sorunları kolaylaştırması (D) göz önüne alındığında, tüm seçenekler doğrudur.",
-            "unit": 4,
-            "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 4006,
-            "question": "Aşağıdakilerden hangisi erken çocukluk döneminde beceri kazanmanın, öğrenmenin yollarından biridir?",
-            "options": [
-                "Gözlemleme",
-                "Deneme-yanılma",
-                "Merak etme",
-                "Taklit etme",
-                "Hepsi"
-            ],
-            "correctIndex": 4,
-            "explanation": "Erken çocukluk döneminde öğrenme esas olarak çevreyi gözlemleme ve büyükleri taklit etme yoluyla olur. Artan bağımsızlık sayesinde çocuklar çevreyi keşfetmeye ve yeni beceriler öğrenmeye başlarlar, bu da merak etme ve deneme-yanılma süreçlerini içerir.",
-            "unit": 4,
-            "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 9"
-        },
-        {
-            "id": 4007,
-            "question": "4-5 yaş grubu çocukların olduğu bir anaokulunda koruyucu ruh sağlığı projesi geliştirmeniz ve uygulamanız isteniyor. Aşağıdakilerden hangisini bu bağlamda yapmanız beklenmez?",
-            "options": [
-                "Ailelerin sosyodemografik özellikleriyle ilgili bilgi toplamak",
-                "Çocuklarda teknoloji kullanımı konusunda ebeveynleri bilgilendirmek",
-                "Çocuklarda cinsel kimlik gelişimiyle ilgili sorunları taramak",
-                "Davranışsal ve gelişimsel problemleri olan çocuklara tanı koymak",
-                "Gelişimsel sorunları olan çocuklara test uygulamak"
-            ],
-            "correctIndex": 3,
-            "explanation": "Çocuk gelişim uzmanlarından, koruyucu ruh sağlığı projelerinde tarama testleri uygulaması (E) ve ebeveynleri bilgilendirmesi (B) beklenir. Ancak <b>davranışsal ve gelişimsel problemleri olan çocuklara tanı koymak</b>, çocuk ve ergen psikiyatrisi gibi ilgili uzmanların işlevidir, bu durum çocuk gelişim uzmanından beklenmez.",
-            "unit": 4,
-            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4008,
@@ -916,24 +889,47 @@
             "unit": 4,
             "topic": "4.1. Erken Çocukluk Döneminin Genel Gelişimsel Özellikleri",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 4009,
-            "question": "Aşağıdaki psikiyatrik bozukluklardan hangisi erken çocukluk döneminde kazanılmaya başlamış olması beklenilen empati becerisinin gelişmemiş olmasıyla karekterizedir?",
+            "id": 4005,
+            "question": "Ebeveyn tutum ve davranışlarının koruyucu ruh sağlığı ve dayanıklılık açısından önemi/etkisi hakkında aşağıdakilerden hangisi doğrudur?",
             "options": [
-                "Dikkat eksikliği hiperaktivite bozukluğu",
-                "Anksiyete bozukluğu",
-                "Major depresif bozukluk",
-                "Antisosyal kişilik bozukluğu",
-                "Şizofreni"
+                "Ebeveynler olumlu veya olumsuz örnek olabilirler.",
+                "Aşırı koruyucu ebeveyn tipi dayanıklılık gelişimini zorlaştırabilir.",
+                "İlgisiz, sorumsuz ebeveyn çocukta riskli alışkanlıkların gelişmesini kolaylaştırır.",
+                "Ebeveyn tutum ve davranışları psikiyatrik bir sorunun ortaya çıkışını kolaylaştırabilir.",
+                "Hepsi"
             ],
-            "correctIndex": 3,
-            "explanation": "Empati becerilerinin yokluğu veya kısıtlılığı, <b>Antisosyal kişilik bozukluğu</b> gibi birçok psikiyatrik bozukluğun önemli belirtileri veya sebepleri arasındadır.",
+            "correctIndex": 4,
+            "explanation": "Ebeveynlerin rol model olması (A), aşırı koruyucu tutumların dayanıklılığı zorlaştırması (B), ilgisizliğin riskli alışkanlıkları kolaylaştırması (C), ve tutumların psikiyatrik sorunları kolaylaştırması (D) göz önüne alındığında, tüm seçenekler doğrudur.",
             "unit": 4,
-            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4006,
+            "question": "Aşağıdakilerden hangisi erken çocukluk döneminde beceri kazanmanın, öğrenmenin yollarından biridir?",
+            "options": [
+                "Gözlemleme",
+                "Deneme-yanılma",
+                "Merak etme",
+                "Taklit etme",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Erken çocukluk döneminde öğrenme esas olarak çevreyi gözlemleme ve büyükleri taklit etme yoluyla olur. Artan bağımsızlık sayesinde çocuklar çevreyi keşfetmeye ve yeni beceriler öğrenmeye başlarlar, bu da merak etme ve deneme-yanılma süreçlerini içerir.",
+            "unit": 4,
+            "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4010,
@@ -950,7 +946,9 @@
             "unit": 4,
             "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
             "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4011,
@@ -967,7 +965,9 @@
             "unit": 4,
             "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
             "source": "Bütünleme Soruları 2021-2022 Final",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4012,
@@ -984,41 +984,9 @@
             "unit": 4,
             "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
             "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 35"
-        },
-        {
-            "id": 4013,
-            "question": "Erken çocukluk döneminde koruyucu ruh sağlığı ve dayanıklılık açısından önemli becerilerin kazanılması ve gelişmesi açısından hangisi <u>söylenemez</u>?",
-            "options": [
-                "Bu dönem çocuklarında gözlemleme, taklit etme, özdeşim kurma en önemli öğrenme yöntemleridir.",
-                "Bu dönemde öğrenilmiş/kazanılmış becerilerin hayat boyu kalıcı olma ihtimali yüksektir.",
-                "Bu dönemde öğrenilmeyen becerilerin ileriki yaşlarda öğrenilmesi <u>mümkün değildir</u>.",
-                "Pek çok tutum ve becerinin kazanılabilmesi açısından hassas bir dönemdir.",
-                "Anne baba başta olmak üzere güzel örnek teşkil eden çevre bu becerilerin kazanılmasında oldukça önemlidir."
-            ],
-            "correctIndex": 2,
-            "explanation": "Erken çocukluk dönemi hassas bir dönemdir. Hassas dönemdeki bir beceri bu dönemde kazanılmadığı takdirde, ileriki yıllarda kazanılması <b>mümkündür ama daha zordur</b>. Bu nedenle 'mümkün değildir' ifadesi söylenemez.",
-            "unit": 4,
-            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
-            "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 13"
-        },
-        {
-            "id": 4014,
-            "question": "I. Biyolojik cinsiyetiyle uyumlu cinsel kimlik gelişimi<br>II. Dürtü kontrolü ve zevk erteleme<br>III. Alkol madde karşıtı tutum ve davranışlar<br>IV. Spor ve sanatsal ilgiler<br>Yukarıdakilerden hangileri erken çocukluk döneminde gerçekleşmesi beklenilen koruyucu beceri veya kazanımlardandır?",
-            "options": [
-                "II, III ve IV",
-                "I, II ve IV",
-                "I ve II",
-                "II ve III",
-                "III ve IV"
-            ],
-            "correctIndex": 2,
-            "explanation": "Erken çocukluk dönemi (2-6 yaş), <b>biyolojik cinsiyetle uyumlu cinsel kimlik gelişimi</b> (I) ve <b>dürtü kontrolü ve zevk erteleme</b> (II) becerilerinin öğrenilmeye başlanması açısından hassas bir dönemdir. III ve IV numaralı beceriler (Alkol-madde karşıtı tutumlar, spor/sanatsal ilgiler) daha çok okul çağı ve ergenlik döneminde öne çıkan kazanımlardır.",
-            "unit": 4,
-            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 35",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4015,
@@ -1035,7 +1003,9 @@
             "unit": 4,
             "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4016,
@@ -1052,7 +1022,142 @@
             "unit": 4,
             "topic": "4.2. Erken Çocukluk Döneminde Ailenin Rolü ve Yaygın Ebeveyn Tutumları",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4002,
+            "question": "Koruyucu ruh sağlığı açısından önemli olan aşağıdaki beceri veya durumlardan hangisi erken çocuklukla ilgili <u>değildir</u>?",
+            "options": [
+                "Dürtü ve öfke kontrolü",
+                "Zevk erteleme",
+                "Güvenli bağlanma",
+                "Empati",
+                "Problem çözme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Güvenli bağlanma, bebeklik dönemindeki (0-2 yaş) en önemli kazanım olarak kabul edilir ve bu dönem güvenli bağlanma için <u>kritik dönemdir</u>. Diğer beceriler ise erken çocukluk (okul öncesi) dönemi için hassas dönem kazanımlarıdır.",
+            "unit": 4,
+            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4003,
+            "question": "Psikolojik dayanıklılığın gelişmesi açısından aşağıdakilerden hangisi altı yaşındaki bir çocukta ailenin yapması <u>beklenilen bir durum değildir</u>?",
+            "options": [
+                "Sorunların çözümünde çocuğa örnek olmak",
+                "Çocuğu her türlü riskli durumdan uzak tutmak",
+                "Çocuğun sağlıklı beslenmesini sağlamak",
+                "Çocuğa tarihimizden kahramanlık hikâyeleri okumak",
+                "Çocuğun ağaca tırmanmaya çalışmasına izin vermek"
+            ],
+            "correctIndex": 1,
+            "explanation": "Çocuğu tehlikeli veya riskli durumlardan korumak ebeveyn görevi olsa da, aşırı koruyucu tutumlar psikolojik dayanıklılığın gelişmesini zorlaştırır. Psikolojik dayanıklılığın gelişmesi, çocuğun <b>baş edebileceği düzeyde risk veya zorluklarla karşılaşmasını</b> gerektirir.",
+            "unit": 4,
+            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4004,
+            "question": "Aşağıdakilerden hangisi erken çocukluk dönemindeki koruyucu ruh sağlığı önlemlerinden biri <u>değildir</u>?",
+            "options": [
+                "Ebeveynlere yönelik baş etme eğitimi vermek",
+                "Kreş veya anaokulunda gelişimsel veya davranışsal sorunu olan çocukları taramak",
+                "Çocuklara yönelik yabancı dil eğitimleri vermek",
+                "Uyku ve beslenme alışkanlıklarına dikkat etmek",
+                "Ciddi düzeyde dürtü ve davranış sorunu olan çocukları tedavi için yönlendirmek"
+            ],
+            "correctIndex": 2,
+            "explanation": "Koruyucu ruh sağlığı programları arasında, erken müdahale için tarama yapmak ve ebeveyn eğitimi vermek yer alır. Uyku ve beslenme alışkanlıkları bu dönemin kazanımları için önemlidir. Ancak yabancı dil öğrenmek, erken çocukluk döneminde <b>hassas dönem</b> olmasına rağmen, bir koruyucu ruh sağlığı önlemi olarak kabul edilmez.",
+            "unit": 4,
+            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4007,
+            "question": "4-5 yaş grubu çocukların olduğu bir anaokulunda koruyucu ruh sağlığı projesi geliştirmeniz ve uygulamanız isteniyor. Aşağıdakilerden hangisini bu bağlamda yapmanız beklenmez?",
+            "options": [
+                "Ailelerin sosyodemografik özellikleriyle ilgili bilgi toplamak",
+                "Çocuklarda teknoloji kullanımı konusunda ebeveynleri bilgilendirmek",
+                "Çocuklarda cinsel kimlik gelişimiyle ilgili sorunları taramak",
+                "Davranışsal ve gelişimsel problemleri olan çocuklara tanı koymak",
+                "Gelişimsel sorunları olan çocuklara test uygulamak"
+            ],
+            "correctIndex": 3,
+            "explanation": "Çocuk gelişim uzmanlarından, koruyucu ruh sağlığı projelerinde tarama testleri uygulaması (E) ve ebeveynleri bilgilendirmesi (B) beklenir. Ancak <b>davranışsal ve gelişimsel problemleri olan çocuklara tanı koymak</b>, çocuk ve ergen psikiyatrisi gibi ilgili uzmanların işlevidir, bu durum çocuk gelişim uzmanından beklenmez.",
+            "unit": 4,
+            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4009,
+            "question": "Aşağıdaki psikiyatrik bozukluklardan hangisi erken çocukluk döneminde kazanılmaya başlamış olması beklenilen empati becerisinin gelişmemiş olmasıyla karekterizedir?",
+            "options": [
+                "Dikkat eksikliği hiperaktivite bozukluğu",
+                "Anksiyete bozukluğu",
+                "Major depresif bozukluk",
+                "Antisosyal kişilik bozukluğu",
+                "Şizofreni"
+            ],
+            "correctIndex": 3,
+            "explanation": "Empati becerilerinin yokluğu veya kısıtlılığı, <b>Antisosyal kişilik bozukluğu</b> gibi birçok psikiyatrik bozukluğun önemli belirtileri veya sebepleri arasındadır.",
+            "unit": 4,
+            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4013,
+            "question": "Erken çocukluk döneminde koruyucu ruh sağlığı ve dayanıklılık açısından önemli becerilerin kazanılması ve gelişmesi açısından hangisi <u>söylenemez</u>?",
+            "options": [
+                "Bu dönem çocuklarında gözlemleme, taklit etme, özdeşim kurma en önemli öğrenme yöntemleridir.",
+                "Bu dönemde öğrenilmiş/kazanılmış becerilerin hayat boyu kalıcı olma ihtimali yüksektir.",
+                "Bu dönemde öğrenilmeyen becerilerin ileriki yaşlarda öğrenilmesi <u>mümkün değildir</u>.",
+                "Pek çok tutum ve becerinin kazanılabilmesi açısından hassas bir dönemdir.",
+                "Anne baba başta olmak üzere güzel örnek teşkil eden çevre bu becerilerin kazanılmasında oldukça önemlidir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Erken çocukluk dönemi hassas bir dönemdir. Hassas dönemdeki bir beceri bu dönemde kazanılmadığı takdirde, ileriki yıllarda kazanılması <b>mümkündür ama daha zordur</b>. Bu nedenle 'mümkün değildir' ifadesi söylenemez.",
+            "unit": 4,
+            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4014,
+            "question": "I. Biyolojik cinsiyetiyle uyumlu cinsel kimlik gelişimi<br>II. Dürtü kontrolü ve zevk erteleme<br>III. Alkol madde karşıtı tutum ve davranışlar<br>IV. Spor ve sanatsal ilgiler<br>Yukarıdakilerden hangileri erken çocukluk döneminde gerçekleşmesi beklenilen koruyucu beceri veya kazanımlardandır?",
+            "options": [
+                "II, III ve IV",
+                "I, II ve IV",
+                "I ve II",
+                "II ve III",
+                "III ve IV"
+            ],
+            "correctIndex": 2,
+            "explanation": "Erken çocukluk dönemi (2-6 yaş), <b>biyolojik cinsiyetle uyumlu cinsel kimlik gelişimi</b> (I) ve <b>dürtü kontrolü ve zevk erteleme</b> (II) becerilerinin öğrenilmeye başlanması açısından hassas bir dönemdir. III ve IV numaralı beceriler (Alkol-madde karşıtı tutumlar, spor/sanatsal ilgiler) daha çok okul çağı ve ergenlik döneminde öne çıkan kazanımlardır.",
+            "unit": 4,
+            "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
+            "source": "Vize Soruları 2022-2023",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4017,
@@ -1069,7 +1174,9 @@
             "unit": 4,
             "topic": "4.3. Erken Çocukluk Döneminde Koruyucu Ruh Sağlığı ve Dayanıklılık",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5001,
@@ -1086,7 +1193,9 @@
             "unit": 5,
             "topic": "5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5002,
@@ -1103,7 +1212,9 @@
             "unit": 5,
             "topic": "5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 17"
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5003,
@@ -1120,7 +1231,9 @@
             "unit": 5,
             "topic": "5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5004,
@@ -1137,7 +1250,9 @@
             "unit": 5,
             "topic": "5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5005,
@@ -1154,7 +1269,9 @@
             "unit": 5,
             "topic": "5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı",
             "source": "Vize Soruları 2024-2025",
-            "sourceInfo": "Soru 11"
+            "sourceInfo": "Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5006,
@@ -1171,7 +1288,9 @@
             "unit": 5,
             "topic": "5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5007,
@@ -1188,75 +1307,9 @@
             "unit": 5,
             "topic": "5.2. Koruyucu Ruh Sağlığı ve Dayanıklılık Açısından Okul Çağı",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 5008,
-            "question": "Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının ………. oranında olduğunu bildirmektedir.",
-            "options": [
-                "%1-10",
-                "%5-10",
-                "%8-18",
-                "%30-40",
-                "%20-30"
-            ],
-            "correctIndex": 2,
-            "explanation": "Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının **%8-18** oranında olduğunu bildirmektedir.",
-            "unit": 5,
-            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
-            "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 18"
-        },
-        {
-            "id": 5009,
-            "question": "I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır. <br>II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur. <br>III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar. <br>IV. Eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar. <br>Yukarıdakilerden hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?",
-            "options": [
-                "III ve IV",
-                "I, III ve IV",
-                "I, II ve III",
-                "I ve IV",
-                "I ve III"
-            ],
-            "correctIndex": 1,
-            "explanation": "Okul, çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlar (I). Psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlar (III). Ayrıca eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar (IV). Sağlık hizmeti maliyetleri okul tabanlı programlarla **düşürülebilir**, bu nedenle II. madde yanlıştır.",
-            "unit": 5,
-            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
-            "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 11"
-        },
-        {
-            "id": 5010,
-            "question": "I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır. <br>II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur. <br>III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar. <br>Yukarıdakilerden hangisi ve hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?",
-            "options": [
-                "Yalnız I",
-                "I ve III",
-                "II ve III",
-                "I ve II",
-                "Yalnız II"
-            ],
-            "correctIndex": 1,
-            "explanation": "Okulun avantajları arasında çocuk, ergen ve ailelere daha kolay ulaşılabilir olması (I) ve psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlaması (III) yer alır. Okul sistemi içinde program uygulaması maliyeti **azaltabilir**, bu nedenle II. madde doğru değildir.",
-            "unit": 5,
-            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
-            "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 5"
-        },
-        {
-            "id": 5011,
-            "question": "Aşağıdaki psikiyatrik bozukluklardan hangisinin çocuklarda görülme sıklığının, okul ortamında alınabilecek tedbir ve çalışmalarla azaltılması <u>beklenmez</u>?",
-            "options": [
-                "Artikülasyon bozukluğu",
-                "Depresyon",
-                "Sigara ve alkol kullanım bozukluğu",
-                "Davranım bozukluğu",
-                "Akran zorbalığı"
-            ],
-            "correctIndex": 0,
-            "explanation": "Artikülasyon bozukluğu (sesletim bozukluğu), esas olarak konuşma ve dil gelişimiyle ilgili bir durumdur. Okul ortamında uygulanan sosyal veya psikiyatrik müdahalelerle doğrudan sıklığının azaltılması beklenmez. Depresyon, madde kullanımı ve davranış sorunları ise okul temelli programlarla azaltılabilir.",
-            "unit": 5,
-            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
-            "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5012,
@@ -1273,7 +1326,9 @@
             "unit": 5,
             "topic": "5.3.1. Okula Başlama ve Uyum Süreci ile İlişkili Problemler ve Koruyucu Ruh Sağlığı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5013,
@@ -1290,24 +1345,9 @@
             "unit": 5,
             "topic": "5.3.1. Okula Başlama ve Uyum Süreci ile İlişkili Problemler ve Koruyucu Ruh Sağlığı",
             "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 3"
-        },
-        {
-            "id": 5014,
-            "question": "I-Okula başlamadan önce çocuğun okul hakkında bilgilendirilmesi <br>II-Çocuğun okul hakkındaki sorularına gerçekçi cevapların verilmesi <br>III-Okul alışverişinin çocukla birlikte yapılması <br>IV-Çocuğun özel gereksinim gerektiren bir durumu (örneğin otizm spektrum bozukluğu) varsa bu durumun okuldan saklanması <br>Yukarıdakilerden hangileri okula başlama sürecinde çocuğun uyumunu artırmaya yönelik önerilerdendir?",
-            "options": [
-                "I, II, III",
-                "II, III, IV",
-                "I, II",
-                "I, III",
-                "I, III, IV"
-            ],
-            "correctIndex": 0,
-            "explanation": "Okula başlama sürecinde uyumu artırmak için çocuğu okul hakkında bilgilendirmek (I), sorularına gerçekçi cevaplar vermek (II) ve sürece dahil etmek (III - alışveriş) önemlidir. Özel gereksinimli bir durumu saklamak uyumu artırmaz (IV).",
-            "unit": 5,
-            "topic": "5.3.1. Okula Başlama ve Uyum Süreci ile İlişkili Problemler ve Koruyucu Ruh Sağlığı",
-            "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 2"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 5015,
@@ -1324,7 +1364,9 @@
             "unit": 5,
             "topic": "5.3.2. Özel Gereksinimli Çocuklar ve Koruyucu Ruh Sağlığı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5016,
@@ -1341,7 +1383,9 @@
             "unit": 5,
             "topic": "5.3.2. Özel Gereksinimli Çocuklar ve Koruyucu Ruh Sağlığı",
             "source": "Vize Soruları 2023-2024",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5017,
@@ -1358,7 +1402,9 @@
             "unit": 5,
             "topic": "5.3.2. Özel Gereksinimli Çocuklar ve Koruyucu Ruh Sağlığı",
             "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5018,
@@ -1375,7 +1421,9 @@
             "unit": 5,
             "topic": "5.3.3. Dikkat Eksikliği ve Hiperaktivite Bozukluğu ve Koruyucu Ruh Sağlığı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5019,
@@ -1392,7 +1440,9 @@
             "unit": 5,
             "topic": "5.3.4. Özgül Öğrenme Bozukluğu ve Koruyucu Ruh Sağlığı",
             "source": "Vize Soruları 2022-2023",
-            "sourceInfo": "Soru 15"
+            "sourceInfo": "Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5020,
@@ -1409,7 +1459,9 @@
             "unit": 5,
             "topic": "5.3.4. Özgül Öğrenme Bozukluğu ve Koruyucu Ruh Sağlığı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 9"
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5021,
@@ -1426,7 +1478,9 @@
             "unit": 5,
             "topic": "5.3.4. Özgül Öğrenme Bozukluğu ve Koruyucu Ruh Sağlığı",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5022,
@@ -1443,7 +1497,85 @@
             "unit": 5,
             "topic": "5.3.4. Özgül Öğrenme Bozukluğu ve Koruyucu Ruh Sağlığı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5008,
+            "question": "Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının ………. oranında olduğunu bildirmektedir.",
+            "options": [
+                "%1-10",
+                "%5-10",
+                "%8-18",
+                "%30-40",
+                "%20-30"
+            ],
+            "correctIndex": 2,
+            "explanation": "Yüksek gelirli ülkelerde yapılan epidemiyolojik çalışmalar, okul çağı çocuklarında herhangi bir psikiyatrik bozukluk görülme sıklığının **%8-18** oranında olduğunu bildirmektedir.",
+            "unit": 5,
+            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
+            "source": "Vize Soruları 2023-2024",
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5009,
+            "question": "I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır. <br>II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur. <br>III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar. <br>IV. Eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar. <br>Yukarıdakilerden hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?",
+            "options": [
+                "III ve IV",
+                "I, III ve IV",
+                "I, II ve III",
+                "I ve IV",
+                "I ve III"
+            ],
+            "correctIndex": 1,
+            "explanation": "Okul, çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlar (I). Psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlar (III). Ayrıca eğitimcilerden çocuk hakkında görüş alınabilmesini sağlar (IV). Sağlık hizmeti maliyetleri okul tabanlı programlarla **düşürülebilir**, bu nedenle II. madde yanlıştır.",
+            "unit": 5,
+            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
+            "source": "Final Soruları 2024-2025",
+            "sourceInfo": "Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5010,
+            "question": "I. Okul çocuk, ergen ve ailelere daha kolay ulaşılabilecek bir ortam sağlamaktadır. <br>II. Sağlık hizmeti maliyetlerinin azalmasında bir etkisi yoktur. <br>III. Okul ortamı psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bir şekilde bilgi kaynağına ulaşılmasını sağlar. <br>Yukarıdakilerden hangisi ve hangileri koruyucu ruh sağlığı açısından okul ortamının kullanılmasının avantaj veya kolaylıkları arasında yer almaktadır?",
+            "options": [
+                "Yalnız I",
+                "I ve III",
+                "II ve III",
+                "I ve II",
+                "Yalnız II"
+            ],
+            "correctIndex": 1,
+            "explanation": "Okulun avantajları arasında çocuk, ergen ve ailelere daha kolay ulaşılabilir olması (I) ve psikiyatrik bozuklukla ilgili belirtilerin daha uzun süre izlenmesi ve daha doğru bilgi kaynağına ulaşılmasını sağlaması (III) yer alır. Okul sistemi içinde program uygulaması maliyeti **azaltabilir**, bu nedenle II. madde doğru değildir.",
+            "unit": 5,
+            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
+            "source": "Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5011,
+            "question": "Aşağıdaki psikiyatrik bozukluklardan hangisinin çocuklarda görülme sıklığının, okul ortamında alınabilecek tedbir ve çalışmalarla azaltılması <u>beklenmez</u>?",
+            "options": [
+                "Artikülasyon bozukluğu",
+                "Depresyon",
+                "Sigara ve alkol kullanım bozukluğu",
+                "Davranım bozukluğu",
+                "Akran zorbalığı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Artikülasyon bozukluğu (sesletim bozukluğu), esas olarak konuşma ve dil gelişimiyle ilgili bir durumdur. Okul ortamında uygulanan sosyal veya psikiyatrik müdahalelerle doğrudan sıklığının azaltılması beklenmez. Depresyon, madde kullanımı ve davranış sorunları ise okul temelli programlarla azaltılabilir.",
+            "unit": 5,
+            "topic": "5.3. Okul Çağı Çocuğunda Psikososyal Problemler ve Koruyucu Ruh Sağlığı",
+            "source": "Final Soruları 2024-2025",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6001,
@@ -1460,143 +1592,9 @@
             "unit": 6,
             "topic": "6.3. Ergenlik Döneminde Duygusal Gelişim",
             "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 6002,
-            "question": "Ergenlik döneminde ruh sağlığı ve dayanıklılık açısından koruyucu beceri ve özelliklerin kazanılması için en uygun dönemdir ifadesi hakkında aşağıdakilerden hangisi doğrudur?",
-            "options": [
-                "Kesinlikle doğrudur, çünkü ergenlik dönemi hızlı gelişimin yaşandığı en uygun dönemdir.",
-                "Yanlıştır, bu dönem ruhsal sorunların ortaya çıkışı için riskli bir dönemdir ancak en uygun dönem erken çocukluk çağıdır.",
-                "Kısmen doğrudur, bazı beceriler için uygundur ancak çoğu beceri okul çağında kazanılır.",
-                "Bu ifade, ergenlik döneminde edinilen bilgi ve becerilerin kalıcı olmasından dolayı doğrudur.",
-                "Koruyucu ruh sağlığı çalışmaları bu dönemde zorunlu olarak uygulanmalıdır."
-            ],
-            "correctIndex": 1,
-            "explanation": "Ergenlik dönemi, <b>ciddi psikiyatrik bozuklukların ilk olarak ortaya çıktığı</b> ve stresörlerin mevcut problemleri çözülmesi zor hale getirdiği <b>riskli bir dönemdir</b>. Koruyucu becerilerin kazanılması için en uygun dönem ise erken çocukluk çağı gibi daha önceki hassas dönemlerdir.",
-            "unit": 6,
-            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
-            "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 6"
-        },
-        {
-            "id": 6003,
-            "question": "Aşağıdakilerden hangisi ergenlik döneminde karşılaşılabilecek problemlerdendir?",
-            "options": [
-                "Kimlik bunalımı",
-                "Riskli davranışlar deneyimleme",
-                "Hepsi",
-                "Patolojik internet kullanımı",
-                "Ebeveynlerle çatışma"
-            ],
-            "correctIndex": 2,
-            "explanation": "Ergenlik dönemi, <b>Kimlik bunalımı</b>, <b>riskli davranışlar</b>, <b>patolojik internet kullanımı</b> ve <b>ebeveynlerle çatışma</b> gibi sorunların hepsiyle karşılaşılabilir.",
-            "unit": 6,
-            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
-            "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 6004,
-            "question": "Yetişkin hayattaki psikiyatrik bozuklukların yarıdan fazlası ….. yaşından önce başlamaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
-            "options": [
-                "28",
-                "12",
-                "8",
-                "38",
-                "18"
-            ],
-            "correctIndex": 4,
-            "explanation": "Yetişkin hayattaki psikiyatrik bozuklukların <b>yarıdan fazlasının</b> ilk olarak <b>18 yaşından önce</b> başladığı bilinmektedir.",
-            "unit": 6,
-            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
-            "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 6005,
-            "question": "Aşağıdakilerden hangisi ergenlik döneminde intihar girişimleri için bir risk faktörü değildir?",
-            "options": [
-                "Çocukluk çağı travmaları",
-                "Erken yaşta başlayan cinsellik",
-                "Medyada intihar haberlerine maruz kalmak",
-                "Yakın arkadaşının intihar sonucu ölmesi",
-                "Psikiyatrik muayene esnasında intihar düşüncesi olup olmadığı hakkında soru sormak"
-            ],
-            "correctIndex": 4,
-            "explanation": "Çocukluk çağı travmaları, erken yaşta başlayan cinsellik, medyada intihar haberlerine maruz kalma ve yakın arkadaş kaybı intihar için risk faktörleridir. Ancak <b>Psikiyatrik muayene esnasında intihar düşüncesi olup olmadığı hakkında soru sormak</b> veya değerlendirme yapmak, koruyucu bir yaklaşımdır ve intihar riskini artırmaz.",
-            "unit": 6,
-            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
-            "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 6006,
-            "question": "Ergenlik döneminde sigara, alkol madde kullanımına karşı en az düzeyde koruyucu faktör olduğu söylenebilir?",
-            "options": [
-                "Güvenli arkadaş çevresine sahip olma",
-                "Sigara alkol maddelerine zararlı oldukları bilgisi",
-                "Öz denetim ve zevk erteleme becerileri",
-                "İletişim kendini ifade etme ve hayır deme becerileri",
-                "Stresle baş edebilme ve sorun çözme becerileri"
-            ],
-            "correctIndex": 1,
-            "explanation": "<b>Sigara alkol maddelerine zararlı oldukları bilgisi</b>, tek başına yeterli bir koruyucu faktör değildir. En güçlü koruyucu faktörler, ergenin kendini koruyacağı (Hayır deme becerisi) ve dürtülerini yönetebileceği (öz denetim, baş etme becerileri) psikososyal becerilerdir.",
-            "unit": 6,
-            "topic": "6.8. Ergenlik Döneminde Sigara-Alkol-Madde Bağımlılığı",
-            "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 6007,
-            "question": "Ergenlik döneminde alkol-madde kullanımı / bağımlılığı açısından aşağıdakilerden hangisi <u>doğru değildir</u>?",
-            "options": [
-                "Sigara-alkol-maddeyi ilk defa kullanan ergenlerin birçoğu bağımlılık sorunu yaşar.",
-                "Çocukluk çağında tedavi edilmeyen psikiyatrik bozukluklar madde bağımlılığı riskini artırır.",
-                "Özellikle dikkat eksikliği ve hiperaktivite bozukluğu, karşı olma karşı gelme bozukluğu olan çocuklar risk altındadır.",
-                "Madde kullanımı mevcut psikiyatrik bozuklukların tedavisini zora sokar.",
-                "Çocuk gelişim uzmanları erken yaşta duygusal/davranışsal problemleri tespit ederek gerekli tedavilere yönlendirmelidir."
-            ],
-            "correctIndex": 0,
-            "explanation": "Madde kullanımını ilk defa deneyen ergenlerin <b>birçoğu bağımlılık sorunu yaşamaz</b>. Ancak, çocukluk çağı psikiyatrik bozuklukları (DEHB gibi) madde bağımlılığı riskini artırır.",
-            "unit": 6,
-            "topic": "6.8. Ergenlik Döneminde Sigara-Alkol-Madde Bağımlılığı",
-            "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 6008,
-            "question": "Ergenlik döneminde görülen riskli bir davranış <u>değildir</u>?",
-            "options": [
-                "Madde veya alkol denemek",
-                "Riskli cinsel aktivite",
-                "Sigara kullanmak",
-                "Derslerine düzenli çalışmamak",
-                "Şiddet içeren davranışlarda bulunmak"
-            ],
-            "correctIndex": 3,
-            "explanation": "Madde/alkol denemek, riskli cinsel aktivite, sigara kullanmak ve şiddet içeren davranışlar <b>doğrudan ruh sağlığını veya bedensel bütünlüğü tehdit eden riskli davranışlardır</b>. Derslerine düzenli çalışmamak ise bir davranış sorunu veya akademik başarısızlık göstergesi olup, diğerleri kadar riskli bir davranış kategorisinde değerlendirilmez.",
-            "unit": 6,
-            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
-            "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 6009,
-            "question": "Aşağıdaki psikiyatrik bozukluklardan hangisinin ilk olarak ergenlik döneminde ortaya çıkması <u>beklenmez</u>?",
-            "options": [
-                "Depresyon",
-                "Yeme bozukluğu",
-                "Şizofreni",
-                "Otizm spektrum bozukluğu",
-                "Alkol-madde kullanım bozuklukları"
-            ],
-            "correctIndex": 3,
-            "explanation": "Depresyon, yeme bozukluğu, şizofreni ve alkol/madde kullanım bozuklukları sıklıkla ergenlik döneminde başlar. Ancak <b>Otizm spektrum bozukluğu</b>, genellikle yaşamın ilk yıllarında (erken çocukluk) ortaya çıkan bir nörogelişimsel bozukluktur.",
-            "unit": 6,
-            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
-            "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6010,
@@ -1613,24 +1611,47 @@
             "unit": 6,
             "topic": "6.7. Ergenlik Döneminde Medya ve İnternet Kullanımı",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 12"
+            "sourceInfo": "Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 6011,
-            "question": "Aşağıdakilerden hangisi ergenlik döneminde önemli bir koruyucu ruh sağlığı uygulaması olabilir?",
+            "id": 6006,
+            "question": "Ergenlik döneminde sigara, alkol madde kullanımına karşı en az düzeyde koruyucu faktör olduğu söylenebilir?",
             "options": [
-                "Ergenlere yönelik spor alanları ve programları oluşturmak",
-                "Ergenlerin sivil toplum faaliyetlerine katılmalarını sağlamak",
-                "Güvenli ve ilgili bir sosyal çevre oluşturmak",
-                "Ergenleri sanatsal faaliyetlere yönlendirmek",
-                "Hepsi"
+                "Güvenli arkadaş çevresine sahip olma",
+                "Sigara alkol maddelerine zararlı oldukları bilgisi",
+                "Öz denetim ve zevk erteleme becerileri",
+                "İletişim kendini ifade etme ve hayır deme becerileri",
+                "Stresle baş edebilme ve sorun çözme becerileri"
             ],
-            "correctIndex": 4,
-            "explanation": "Ergenlik döneminde psikiyatrik sorunların önlenmesi ve koruyucu özelliklerin desteklenmesi için <b>güvenli sosyal çevre</b> oluşturmak, spor, sivil toplum faaliyetleri ve sanatsal faaliyetler gibi pozitif sosyal ve yapılandırılmış aktivitelere yönlendirmek kritik öneme sahiptir. Bu nedenle hepsi önemli koruyucu uygulamalardır.",
+            "correctIndex": 1,
+            "explanation": "<b>Sigara alkol maddelerine zararlı oldukları bilgisi</b>, tek başına yeterli bir koruyucu faktör değildir. En güçlü koruyucu faktörler, ergenin kendini koruyacağı (Hayır deme becerisi) ve dürtülerini yönetebileceği (öz denetim, baş etme becerileri) psikososyal becerilerdir.",
             "unit": 6,
-            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "topic": "6.8. Ergenlik Döneminde Sigara-Alkol-Madde Bağımlılığı",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6007,
+            "question": "Ergenlik döneminde alkol-madde kullanımı / bağımlılığı açısından aşağıdakilerden hangisi <u>doğru değildir</u>?",
+            "options": [
+                "Sigara-alkol-maddeyi ilk defa kullanan ergenlerin birçoğu bağımlılık sorunu yaşar.",
+                "Çocukluk çağında tedavi edilmeyen psikiyatrik bozukluklar madde bağımlılığı riskini artırır.",
+                "Özellikle dikkat eksikliği ve hiperaktivite bozukluğu, karşı olma karşı gelme bozukluğu olan çocuklar risk altındadır.",
+                "Madde kullanımı mevcut psikiyatrik bozuklukların tedavisini zora sokar.",
+                "Çocuk gelişim uzmanları erken yaşta duygusal/davranışsal problemleri tespit ederek gerekli tedavilere yönlendirmelidir."
+            ],
+            "correctIndex": 0,
+            "explanation": "Madde kullanımını ilk defa deneyen ergenlerin <b>birçoğu bağımlılık sorunu yaşamaz</b>. Ancak, çocukluk çağı psikiyatrik bozuklukları (DEHB gibi) madde bağımlılığı riskini artırır.",
+            "unit": 6,
+            "topic": "6.8. Ergenlik Döneminde Sigara-Alkol-Madde Bağımlılığı",
             "source": "Ders E-Kitap",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6012,
@@ -1647,7 +1668,142 @@
             "unit": 6,
             "topic": "6.9. Ergenlik Döneminde Cinsellik",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 18"
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6002,
+            "question": "Ergenlik döneminde ruh sağlığı ve dayanıklılık açısından koruyucu beceri ve özelliklerin kazanılması için en uygun dönemdir ifadesi hakkında aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Kesinlikle doğrudur, çünkü ergenlik dönemi hızlı gelişimin yaşandığı en uygun dönemdir.",
+                "Yanlıştır, bu dönem ruhsal sorunların ortaya çıkışı için riskli bir dönemdir ancak en uygun dönem erken çocukluk çağıdır.",
+                "Kısmen doğrudur, bazı beceriler için uygundur ancak çoğu beceri okul çağında kazanılır.",
+                "Bu ifade, ergenlik döneminde edinilen bilgi ve becerilerin kalıcı olmasından dolayı doğrudur.",
+                "Koruyucu ruh sağlığı çalışmaları bu dönemde zorunlu olarak uygulanmalıdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Ergenlik dönemi, <b>ciddi psikiyatrik bozuklukların ilk olarak ortaya çıktığı</b> ve stresörlerin mevcut problemleri çözülmesi zor hale getirdiği <b>riskli bir dönemdir</b>. Koruyucu becerilerin kazanılması için en uygun dönem ise erken çocukluk çağı gibi daha önceki hassas dönemlerdir.",
+            "unit": 6,
+            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "source": "Ders E-Kitap",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6003,
+            "question": "Aşağıdakilerden hangisi ergenlik döneminde karşılaşılabilecek problemlerdendir?",
+            "options": [
+                "Kimlik bunalımı",
+                "Riskli davranışlar deneyimleme",
+                "Hepsi",
+                "Patolojik internet kullanımı",
+                "Ebeveynlerle çatışma"
+            ],
+            "correctIndex": 2,
+            "explanation": "Ergenlik dönemi, <b>Kimlik bunalımı</b>, <b>riskli davranışlar</b>, <b>patolojik internet kullanımı</b> ve <b>ebeveynlerle çatışma</b> gibi sorunların hepsiyle karşılaşılabilir.",
+            "unit": 6,
+            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "source": "Bütünleme Soruları 2021",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6004,
+            "question": "Yetişkin hayattaki psikiyatrik bozuklukların yarıdan fazlası ….. yaşından önce başlamaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+            "options": [
+                "28",
+                "12",
+                "8",
+                "38",
+                "18"
+            ],
+            "correctIndex": 4,
+            "explanation": "Yetişkin hayattaki psikiyatrik bozuklukların <b>yarıdan fazlasının</b> ilk olarak <b>18 yaşından önce</b> başladığı bilinmektedir.",
+            "unit": 6,
+            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "source": "Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6005,
+            "question": "Aşağıdakilerden hangisi ergenlik döneminde intihar girişimleri için bir risk faktörü değildir?",
+            "options": [
+                "Çocukluk çağı travmaları",
+                "Erken yaşta başlayan cinsellik",
+                "Medyada intihar haberlerine maruz kalmak",
+                "Yakın arkadaşının intihar sonucu ölmesi",
+                "Psikiyatrik muayene esnasında intihar düşüncesi olup olmadığı hakkında soru sormak"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çocukluk çağı travmaları, erken yaşta başlayan cinsellik, medyada intihar haberlerine maruz kalma ve yakın arkadaş kaybı intihar için risk faktörleridir. Ancak <b>Psikiyatrik muayene esnasında intihar düşüncesi olup olmadığı hakkında soru sormak</b> veya değerlendirme yapmak, koruyucu bir yaklaşımdır ve intihar riskini artırmaz.",
+            "unit": 6,
+            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "source": "Ders E-Kitap",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6008,
+            "question": "Ergenlik döneminde görülen riskli bir davranış <u>değildir</u>?",
+            "options": [
+                "Madde veya alkol denemek",
+                "Riskli cinsel aktivite",
+                "Sigara kullanmak",
+                "Derslerine düzenli çalışmamak",
+                "Şiddet içeren davranışlarda bulunmak"
+            ],
+            "correctIndex": 3,
+            "explanation": "Madde/alkol denemek, riskli cinsel aktivite, sigara kullanmak ve şiddet içeren davranışlar <b>doğrudan ruh sağlığını veya bedensel bütünlüğü tehdit eden riskli davranışlardır</b>. Derslerine düzenli çalışmamak ise bir davranış sorunu veya akademik başarısızlık göstergesi olup, diğerleri kadar riskli bir davranış kategorisinde değerlendirilmez.",
+            "unit": 6,
+            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "source": "Ders E-Kitap",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6009,
+            "question": "Aşağıdaki psikiyatrik bozukluklardan hangisinin ilk olarak ergenlik döneminde ortaya çıkması <u>beklenmez</u>?",
+            "options": [
+                "Depresyon",
+                "Yeme bozukluğu",
+                "Şizofreni",
+                "Otizm spektrum bozukluğu",
+                "Alkol-madde kullanım bozuklukları"
+            ],
+            "correctIndex": 3,
+            "explanation": "Depresyon, yeme bozukluğu, şizofreni ve alkol/madde kullanım bozuklukları sıklıkla ergenlik döneminde başlar. Ancak <b>Otizm spektrum bozukluğu</b>, genellikle yaşamın ilk yıllarında (erken çocukluk) ortaya çıkan bir nörogelişimsel bozukluktur.",
+            "unit": 6,
+            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 6011,
+            "question": "Aşağıdakilerden hangisi ergenlik döneminde önemli bir koruyucu ruh sağlığı uygulaması olabilir?",
+            "options": [
+                "Ergenlere yönelik spor alanları ve programları oluşturmak",
+                "Ergenlerin sivil toplum faaliyetlerine katılmalarını sağlamak",
+                "Güvenli ve ilgili bir sosyal çevre oluşturmak",
+                "Ergenleri sanatsal faaliyetlere yönlendirmek",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Ergenlik döneminde psikiyatrik sorunların önlenmesi ve koruyucu özelliklerin desteklenmesi için <b>güvenli sosyal çevre</b> oluşturmak, spor, sivil toplum faaliyetleri ve sanatsal faaliyetler gibi pozitif sosyal ve yapılandırılmış aktivitelere yönlendirmek kritik öneme sahiptir. Bu nedenle hepsi önemli koruyucu uygulamalardır.",
+            "unit": 6,
+            "topic": "6.10. Ergenlik Döneminde Psikiyatrik Bozukluklar ve İntihar Davranışları",
+            "source": "Ders E-Kitap",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7001,
@@ -1664,58 +1820,9 @@
             "unit": 7,
             "topic": "7.2. İnternet ve Medyanın İçine Doğmak",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 20"
-        },
-        {
-            "id": 7002,
-            "question": "Günümüz modern yaşam tarzının ruh sağlığı üzerindeki olası etkileri ile ilgili aşağıdakilerden hangisi <u>söylenemez</u>?",
-            "options": [
-                "Modern yaşam tarzıyla ilişkili riskler çocuklarda erişkinlere kıyasla daha az etkilidir.",
-                "Modern yaşam tarzı ruh sağlığı açısında çok yönlü etkileri olan birçok risk faktörü içermektedir.",
-                "Ruh sağlığı açısından koruyucu olan bir takım faktörler modern yaşam tarzında azalmış veya kaybolmuş olabillir.",
-                "Modern yaşam tarzıyla ilişkili imkan olarak görülen birçok durum aslında ruh sağlığı açısından önemli riskler taşıyor olabilir.",
-                "Depresyon ve anksiyete bozuklukları başta olmak üzere birçok psikiyatrik bozukluğun sıklığı modern toplumlarda giderek artmaktadır."
-            ],
-            "correctIndex": 0,
-            "explanation": "Modern yaşam tarzıyla ilişkili riskler, <b>beyin gelişiminin hızlı olduğu erken dönemlere</b> etki ettiğinden, çocuklarda erişkinlere kıyasla <b>daha az etkili olduğu söylenemez</b>.",
-            "unit": 7,
-            "topic": "7.4. Değişen Aile Yapısı ve Yalnızlaşma",
-            "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 6"
-        },
-        {
-            "id": 7003,
-            "question": "I. Değişen aile yapısı ve yalnızlaşma<br>II. İş hayatındaki stres ve rekabet<br>III. Değişen beslenme ve uyku alışkanlıkları<br>IV. İnanç düzeyinde artış<br>Yukarıdakilerden hangileri modern yaşam tarzıyla ilişkili psikososyal-ruhsal sorunların ortaya çıkmasında önemli faktörlerdendir?",
-            "options": [
-                "I ve II",
-                "II ve III",
-                "I, II ve III",
-                "II, III ve IV",
-                "I, III ve IV"
-            ],
-            "correctIndex": 2,
-            "explanation": "Modern yaşam tarzıyla ilişkili risk faktörleri arasında değişen aile yapısı/yalnızlaşma (I), iş hayatındaki stres/rekabet (II), ve değişen beslenme/uyku alışkanlıkları (III) yer alır. İnanç düzeyinde <b>artış</b> değil, zayıflama veya azalma risk faktörü olarak belirtilmiştir.",
-            "unit": 7,
-            "topic": "7.4. Değişen Aile Yapısı ve Yalnızlaşma",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 11"
-        },
-        {
-            "id": 7004,
-            "question": "Aşağıdakilerden hangisi günümüzde gençlerin karşılaştığı önemli bedensel veya ruhsal problem sebepleri veya kaynakları arasında yer alır?",
-            "options": [
-                "inanç ve değerler sistemindeki zayıflama",
-                "hepsi",
-                "Fiziksel hareketsizlik",
-                "eğitim alanındaki yüksek performans beklentileri",
-                "Aile ve Sosyal destek sistemlerinin zayıflaması"
-            ],
-            "correctIndex": 1,
-            "explanation": "Modern yaşam tarzı risk faktörleri; inanç ve değerler sistemindeki zayıflama, fiziksel hareketsizlik, eğitim alanındaki yüksek performans beklentileri ve aile/sosyal destek sistemlerinin zayıflaması gibi birçok durumu içermektedir. Bu nedenle <b>hepsi</b> önemli problem sebepleri veya kaynakları arasında yer alır.",
-            "unit": 7,
-            "topic": "7.4. Değişen Aile Yapısı ve Yalnızlaşma",
-            "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 15"
+            "sourceInfo": "Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7005,
@@ -1732,7 +1839,9 @@
             "unit": 7,
             "topic": "7.2. İnternet ve Medyanın İçine Doğmak",
             "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7006,
@@ -1749,7 +1858,66 @@
             "unit": 7,
             "topic": "7.3. Değişen Beslenme Alışkanlıkları",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 15"
+            "sourceInfo": "Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7002,
+            "question": "Günümüz modern yaşam tarzının ruh sağlığı üzerindeki olası etkileri ile ilgili aşağıdakilerden hangisi <u>söylenemez</u>?",
+            "options": [
+                "Modern yaşam tarzıyla ilişkili riskler çocuklarda erişkinlere kıyasla daha az etkilidir.",
+                "Modern yaşam tarzı ruh sağlığı açısında çok yönlü etkileri olan birçok risk faktörü içermektedir.",
+                "Ruh sağlığı açısından koruyucu olan bir takım faktörler modern yaşam tarzında azalmış veya kaybolmuş olabillir.",
+                "Modern yaşam tarzıyla ilişkili imkan olarak görülen birçok durum aslında ruh sağlığı açısından önemli riskler taşıyor olabilir.",
+                "Depresyon ve anksiyete bozuklukları başta olmak üzere birçok psikiyatrik bozukluğun sıklığı modern toplumlarda giderek artmaktadır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Modern yaşam tarzıyla ilişkili riskler, <b>beyin gelişiminin hızlı olduğu erken dönemlere</b> etki ettiğinden, çocuklarda erişkinlere kıyasla <b>daha az etkili olduğu söylenemez</b>.",
+            "unit": 7,
+            "topic": "7.4. Değişen Aile Yapısı ve Yalnızlaşma",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7003,
+            "question": "I. Değişen aile yapısı ve yalnızlaşma<br>II. İş hayatındaki stres ve rekabet<br>III. Değişen beslenme ve uyku alışkanlıkları<br>IV. İnanç düzeyinde artış<br>Yukarıdakilerden hangileri modern yaşam tarzıyla ilişkili psikososyal-ruhsal sorunların ortaya çıkmasında önemli faktörlerdendir?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "I, II ve III",
+                "II, III ve IV",
+                "I, III ve IV"
+            ],
+            "correctIndex": 2,
+            "explanation": "Modern yaşam tarzıyla ilişkili risk faktörleri arasında değişen aile yapısı/yalnızlaşma (I), iş hayatındaki stres/rekabet (II), ve değişen beslenme/uyku alışkanlıkları (III) yer alır. İnanç düzeyinde <b>artış</b> değil, zayıflama veya azalma risk faktörü olarak belirtilmiştir.",
+            "unit": 7,
+            "topic": "7.4. Değişen Aile Yapısı ve Yalnızlaşma",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7004,
+            "question": "Aşağıdakilerden hangisi günümüzde gençlerin karşılaştığı önemli bedensel veya ruhsal problem sebepleri veya kaynakları arasında yer alır?",
+            "options": [
+                "inanç ve değerler sistemindeki zayıflama",
+                "hepsi",
+                "Fiziksel hareketsizlik",
+                "eğitim alanındaki yüksek performans beklentileri",
+                "Aile ve Sosyal destek sistemlerinin zayıflaması"
+            ],
+            "correctIndex": 1,
+            "explanation": "Modern yaşam tarzı risk faktörleri; inanç ve değerler sistemindeki zayıflama, fiziksel hareketsizlik, eğitim alanındaki yüksek performans beklentileri ve aile/sosyal destek sistemlerinin zayıflaması gibi birçok durumu içermektedir. Bu nedenle <b>hepsi</b> önemli problem sebepleri veya kaynakları arasında yer alır.",
+            "unit": 7,
+            "topic": "7.4. Değişen Aile Yapısı ve Yalnızlaşma",
+            "source": "Bütünleme Soruları 2021",
+            "sourceInfo": "Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8001,
@@ -1766,143 +1934,9 @@
             "unit": 8,
             "topic": "8.1. Akran Zorbalığının Tanımı",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 14"
-        },
-        {
-            "id": 8002,
-            "question": "Aşağıdaki zorbalık türlerinden hangisi kızlarda erkeklerden daha fazla görülmektedir?",
-            "options": [
-                "Sözel zorbalık",
-                "Fiziksel zorbalık",
-                "İlişkisel zorbalık",
-                "Cinsel zorbalık",
-                "Siber zorbalık"
-            ],
-            "correctIndex": 2,
-            "explanation": "Erkek çocuklar daha çok fiziksel zorbalığın uygulayıcısı ve kurbanı olma eğilimindeyken, kızlar ise <b>ilişkisel zorbalığın</b> (dedikodu yayma, dışlama, sosyal izolasyon) daha çok uygulayıcısı ve kurbanı olma eğilimindedir.",
-            "unit": 8,
-            "topic": "8.3. Zorbalığın Türleri",
-            "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 8003,
-            "question": "<u>…..</u> zorbalık en yaygın görülen ancak en çok gözden kaçan zorbalık türüdür. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
-            "options": [
-                "Sözel",
-                "Fiziksel",
-                "İlişkisel",
-                "Cinsel",
-                "Sanal"
-            ],
-            "correctIndex": 0,
-            "explanation": "<b>Sözel zorbalık</b>, en yaygın görülen, ancak en çok gözden kaçan zorbalık türüdür.",
-            "unit": 8,
-            "topic": "8.3. Zorbalığın Türleri",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 20"
-        },
-        {
-            "id": 8004,
-            "question": "Akran zorbalığında zorba (zorbalık yapan) ve/veya kurban (zorbalığa maruz kalan) olmakla ilişkili risk faktörleri hakkında hangisi <u>söylenemez</u>?",
-            "options": [
-                "Farklı bir görünüme veya fiziksel özelliğe sahip olmak kurban olmak için risk faktörü olabilir.",
-                "İstismar veya ihmal öyküsü zorbalık için önemli bir risk faktörüdür.",
-                "Davranış problemleri ve sosyal sorunlar sadece zorba olmak için bir risk faktörüdür.",
-                "Aile içi şiddet zorbalık için önemli bir risk faktörüdür.",
-                "Aşırı koruyucu-kollayıcı ebeveynlik kurban olmak için bir risk faktörüdür."
-            ],
-            "correctIndex": 2,
-            "explanation": "Davranış problemleri ve sosyal sorunlar, <b>hem zorbalık yapanlar hem de zorba-kurbanlar</b> için risk faktörüdür. Bu durumun sadece zorba olmak için bir risk faktörü olduğu söylenemez.",
-            "unit": 8,
-            "topic": "8.6. Akran Zorbalığında Risk Faktörleri ve Koruyucu Faktörler",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 10"
-        },
-        {
-            "id": 8005,
-            "question": "Bir okulda koruyucu ruh sağlığı kapsamında akran zorbalığı mağduru olma riski olan öğrenciler belirlenecek ve onlarla çalışmalar yapılacaktır. Aşağıdakilerden seçeneklerden hangisi diğerlerine göre zorbalığa uğramak bakımından daha <u>düşük risk altındadır</u>?",
-            "options": [
-                "8 yaşında obez erkek öğrenci",
-                "9 yaşında bilişsel gelişiminde gerilik olan kız öğrenci",
-                "10 yaşında özsaygısı yüksek kız öğrenci",
-                "10 yaşında cinsel kimlik karmaşası yaşayan kız öğrenci",
-                "9 yaşında geçmişte zorbalığa uğramış erkek öğrenci"
-            ],
-            "correctIndex": 2,
-            "explanation": "Obez olmak, gelişimsel gerilik, düşük özsaygı ve geçmişte kurban olmak zorbalığa uğrama riskini artırır. <b>Özsaygısı yüksek kız öğrenci</b>, psikolojik dayanıklılık ve özgüven koruyucu faktörler olduğu için diğerlerine göre daha düşük risk altındadır.",
-            "unit": 8,
-            "topic": "8.6. Akran Zorbalığında Risk Faktörleri ve Koruyucu Faktörler",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 6"
-        },
-        {
-            "id": 8006,
-            "question": "Akran zorbalığının mağdur üzerinde meydana gelen etkileri ile ilgili olarak aşağıdakilerden hangisi <u>doğru değildir</u>?",
-            "options": [
-                "Akran mağduriyeti ile düşük benlik saygısı arasındaki çift yönlü bir ilişki vardır.",
-                "Zorbalığa maruz kalan çocuklarda içe yönelim sorunlarının dışa vurum sorunlarının sıklığında da artış görülür.",
-                "Erişkin yaşamda alkol ve madde bağımlılığı çocukken zorbalığa maruz kalma ile ilişkilendirilmiştir.",
-                "Zorbalık mağdurlarının erişkin yaşamda çocuklarına aşırı müdahale etmeleri, çocuklarının zorbalığı maruz kalmasını engeller.",
-                "Zorbalık mağdurlarında erişkin yaşamlarında anksiyete ve depresyon ortaya çıkma ihtimali artmıştır."
-            ],
-            "correctIndex": 3,
-            "explanation": "Zorbalık mağdurlarında içe yönelim (anksiyete, depresyon) ve dışa vurum (madde kullanımı) sorunları artar. Zorbalık mağdurlarının aşırı müdahale etmesinin, çocuğun zorbalığa maruz kalmasını engellediği şeklinde kesin bir bilgi bulunmamaktadır; <b>aşırı koruyucu-kollayıcı ebeveynlik</b> aksine kurban olmak için risk faktörü olabilir.",
-            "unit": 8,
-            "topic": "8.7. Akran Zorbalığının Sonuçları",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 8007,
-            "question": "I. Okula gitmek istememe veya okul başarısında düşme<br>II. Vücudunda veya eşyalarında darp veya fiziksel hasar izleri<br>III. Mutsuzluk, içine kapanıklık, davranış sorunları<br>IV. Arkadaşlarından ayrılamama<br>Yukarıdakilerden hangileri akran zorbalığına maruz kalan okul çağı çocuklarda zorbalıkla ilişkili belirtilerden olabilir?",
-            "options": [
-                "I ve II",
-                "II, III ve IV",
-                "III ve IV",
-                "I, II ve III",
-                "II ve III"
-            ],
-            "correctIndex": 3,
-            "explanation": "Zorbalığa maruz kalan çocuklarda okula gitmek istememe (I), vücutta veya eşyalarda darp izleri (II) ve mutsuzluk/içe kapanıklık/davranış sorunları (III) sık görülen belirtilerdir. Arkadaşlarından ayrılamama (IV), doğrudan zorbalık belirtisi olarak kabul edilmez.",
-            "unit": 8,
-            "topic": "8.5. Akran Zorbalığının Belirtileri",
-            "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 8008,
-            "question": "Zorba-kurbanlarla ilgili aşağıdakilerden hangisi <u>doğru değildir</u>?",
-            "options": [
-                "Çoğu özellikleri kurbanların sosyal davranış kalıplarıyla benzerlik gösterir.",
-                "Sıklıkla reaktif saldırganlık davranışları gösterirler.",
-                "Genellikle sosyal ilişki kurma becerilerizayıftır.",
-                "Hem zorba davranışlarda bulunan, hem de zorbalığa maruz kalan kişilere zorba kurban denir.",
-                "Kendilerini zorbalık yaparak etkin kılmaya çalışırlar."
-            ],
-            "correctIndex": 0,
-            "explanation": "Zorba-kurbanlar, hem zorbalık yapan hem de maruz kalan kişilerdir. Zorba-kurbanların özellikleri <b>zorba ve kurbanların özelliklerinin bir karışımıdır</b>, bu nedenle sadece kurbanların sosyal davranış kalıplarıyla benzerlik göstermesi doğru değildir.",
-            "unit": 8,
-            "topic": "8.2. Katılımcı Rolleri ve İlişkili Özellikler",
-            "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 9"
-        },
-        {
-            "id": 8009,
-            "question": "I. Akran zorbalığının önlenebilmesi için öğretmenlerin ve okul çalışanlarının zorbalığa dair farkındalıklarının yüksek olması gerekmektedir.<br>II. Zorbalığa maruz kalma bakımından yüksek riskli çocuklar belirlenerek okuldan uzaklaştırılmaları sağlanmalıdır.<br>III. Öğrencilerin iletişim becerilerini geliştirmeye, kendilerini ve hissettikleri duyguları sözlü olarak ifade edebilmelerine yönelik çalışmalar yapılmalıdır.<br>Zorbalığı önleme çalışmaları ile ilgili yukardakilerden hangileri doğrudur?",
-            "options": [
-                "II ve III",
-                "I ve III",
-                "I, II ve III",
-                "Yalnız II",
-                "I ve II"
-            ],
-            "correctIndex": 1,
-            "explanation": "Zorbalığın önlenmesinde öğretmen/okul çalışanlarının farkındalığı (I) ve öğrencilerin iletişim, kendini ifade etme becerilerini geliştirme çalışmaları (III) önemlidir. Zorbalığa maruz kalan çocukların okuldan uzaklaştırılması (II) <b>doğru bir yaklaşım değildir</b>.",
-            "unit": 8,
-            "topic": "8.8. Koruyucu Ruh Sağlığı Açısından Akran Zorbalığı",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 30"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 8010,
@@ -1919,7 +1953,161 @@
             "unit": 8,
             "topic": "8.1. Akran Zorbalığının Tanımı",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 18"
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8008,
+            "question": "Zorba-kurbanlarla ilgili aşağıdakilerden hangisi <u>doğru değildir</u>?",
+            "options": [
+                "Çoğu özellikleri kurbanların sosyal davranış kalıplarıyla benzerlik gösterir.",
+                "Sıklıkla reaktif saldırganlık davranışları gösterirler.",
+                "Genellikle sosyal ilişki kurma becerilerizayıftır.",
+                "Hem zorba davranışlarda bulunan, hem de zorbalığa maruz kalan kişilere zorba kurban denir.",
+                "Kendilerini zorbalık yaparak etkin kılmaya çalışırlar."
+            ],
+            "correctIndex": 0,
+            "explanation": "Zorba-kurbanlar, hem zorbalık yapan hem de maruz kalan kişilerdir. Zorba-kurbanların özellikleri <b>zorba ve kurbanların özelliklerinin bir karışımıdır</b>, bu nedenle sadece kurbanların sosyal davranış kalıplarıyla benzerlik göstermesi doğru değildir.",
+            "unit": 8,
+            "topic": "8.2. Katılımcı Rolleri ve İlişkili Özellikler",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8002,
+            "question": "Aşağıdaki zorbalık türlerinden hangisi kızlarda erkeklerden daha fazla görülmektedir?",
+            "options": [
+                "Sözel zorbalık",
+                "Fiziksel zorbalık",
+                "İlişkisel zorbalık",
+                "Cinsel zorbalık",
+                "Siber zorbalık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Erkek çocuklar daha çok fiziksel zorbalığın uygulayıcısı ve kurbanı olma eğilimindeyken, kızlar ise <b>ilişkisel zorbalığın</b> (dedikodu yayma, dışlama, sosyal izolasyon) daha çok uygulayıcısı ve kurbanı olma eğilimindedir.",
+            "unit": 8,
+            "topic": "8.3. Zorbalığın Türleri",
+            "source": "Final Soruları 2022-2023",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8003,
+            "question": "<u>…..</u> zorbalık en yaygın görülen ancak en çok gözden kaçan zorbalık türüdür. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+            "options": [
+                "Sözel",
+                "Fiziksel",
+                "İlişkisel",
+                "Cinsel",
+                "Sanal"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Sözel zorbalık</b>, en yaygın görülen, ancak en çok gözden kaçan zorbalık türüdür.",
+            "unit": 8,
+            "topic": "8.3. Zorbalığın Türleri",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8007,
+            "question": "I. Okula gitmek istememe veya okul başarısında düşme<br>II. Vücudunda veya eşyalarında darp veya fiziksel hasar izleri<br>III. Mutsuzluk, içine kapanıklık, davranış sorunları<br>IV. Arkadaşlarından ayrılamama<br>Yukarıdakilerden hangileri akran zorbalığına maruz kalan okul çağı çocuklarda zorbalıkla ilişkili belirtilerden olabilir?",
+            "options": [
+                "I ve II",
+                "II, III ve IV",
+                "III ve IV",
+                "I, II ve III",
+                "II ve III"
+            ],
+            "correctIndex": 3,
+            "explanation": "Zorbalığa maruz kalan çocuklarda okula gitmek istememe (I), vücutta veya eşyalarda darp izleri (II) ve mutsuzluk/içe kapanıklık/davranış sorunları (III) sık görülen belirtilerdir. Arkadaşlarından ayrılamama (IV), doğrudan zorbalık belirtisi olarak kabul edilmez.",
+            "unit": 8,
+            "topic": "8.5. Akran Zorbalığının Belirtileri",
+            "source": "Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8004,
+            "question": "Akran zorbalığında zorba (zorbalık yapan) ve/veya kurban (zorbalığa maruz kalan) olmakla ilişkili risk faktörleri hakkında hangisi <u>söylenemez</u>?",
+            "options": [
+                "Farklı bir görünüme veya fiziksel özelliğe sahip olmak kurban olmak için risk faktörü olabilir.",
+                "İstismar veya ihmal öyküsü zorbalık için önemli bir risk faktörüdür.",
+                "Davranış problemleri ve sosyal sorunlar sadece zorba olmak için bir risk faktörüdür.",
+                "Aile içi şiddet zorbalık için önemli bir risk faktörüdür.",
+                "Aşırı koruyucu-kollayıcı ebeveynlik kurban olmak için bir risk faktörüdür."
+            ],
+            "correctIndex": 2,
+            "explanation": "Davranış problemleri ve sosyal sorunlar, <b>hem zorbalık yapanlar hem de zorba-kurbanlar</b> için risk faktörüdür. Bu durumun sadece zorba olmak için bir risk faktörü olduğu söylenemez.",
+            "unit": 8,
+            "topic": "8.6. Akran Zorbalığında Risk Faktörleri ve Koruyucu Faktörler",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8005,
+            "question": "Bir okulda koruyucu ruh sağlığı kapsamında akran zorbalığı mağduru olma riski olan öğrenciler belirlenecek ve onlarla çalışmalar yapılacaktır. Aşağıdakilerden seçeneklerden hangisi diğerlerine göre zorbalığa uğramak bakımından daha <u>düşük risk altındadır</u>?",
+            "options": [
+                "8 yaşında obez erkek öğrenci",
+                "9 yaşında bilişsel gelişiminde gerilik olan kız öğrenci",
+                "10 yaşında özsaygısı yüksek kız öğrenci",
+                "10 yaşında cinsel kimlik karmaşası yaşayan kız öğrenci",
+                "9 yaşında geçmişte zorbalığa uğramış erkek öğrenci"
+            ],
+            "correctIndex": 2,
+            "explanation": "Obez olmak, gelişimsel gerilik, düşük özsaygı ve geçmişte kurban olmak zorbalığa uğrama riskini artırır. <b>Özsaygısı yüksek kız öğrenci</b>, psikolojik dayanıklılık ve özgüven koruyucu faktörler olduğu için diğerlerine göre daha düşük risk altındadır.",
+            "unit": 8,
+            "topic": "8.6. Akran Zorbalığında Risk Faktörleri ve Koruyucu Faktörler",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8006,
+            "question": "Akran zorbalığının mağdur üzerinde meydana gelen etkileri ile ilgili olarak aşağıdakilerden hangisi <u>doğru değildir</u>?",
+            "options": [
+                "Akran mağduriyeti ile düşük benlik saygısı arasındaki çift yönlü bir ilişki vardır.",
+                "Zorbalığa maruz kalan çocuklarda içe yönelim sorunlarının dışa vurum sorunlarının sıklığında da artış görülür.",
+                "Erişkin yaşamda alkol ve madde bağımlılığı çocukken zorbalığa maruz kalma ile ilişkilendirilmiştir.",
+                "Zorbalık mağdurlarının erişkin yaşamda çocuklarına aşırı müdahale etmeleri, çocuklarının zorbalığı maruz kalmasını engeller.",
+                "Zorbalık mağdurlarında erişkin yaşamlarında anksiyete ve depresyon ortaya çıkma ihtimali artmıştır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Zorbalık mağdurlarında içe yönelim (anksiyete, depresyon) ve dışa vurum (madde kullanımı) sorunları artar. Zorbalık mağdurlarının aşırı müdahale etmesinin, çocuğun zorbalığa maruz kalmasını engellediği şeklinde kesin bir bilgi bulunmamaktadır; <b>aşırı koruyucu-kollayıcı ebeveynlik</b> aksine kurban olmak için risk faktörü olabilir.",
+            "unit": 8,
+            "topic": "8.7. Akran Zorbalığının Sonuçları",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8009,
+            "question": "I. Akran zorbalığının önlenebilmesi için öğretmenlerin ve okul çalışanlarının zorbalığa dair farkındalıklarının yüksek olması gerekmektedir.<br>II. Zorbalığa maruz kalma bakımından yüksek riskli çocuklar belirlenerek okuldan uzaklaştırılmaları sağlanmalıdır.<br>III. Öğrencilerin iletişim becerilerini geliştirmeye, kendilerini ve hissettikleri duyguları sözlü olarak ifade edebilmelerine yönelik çalışmalar yapılmalıdır.<br>Zorbalığı önleme çalışmaları ile ilgili yukardakilerden hangileri doğrudur?",
+            "options": [
+                "II ve III",
+                "I ve III",
+                "I, II ve III",
+                "Yalnız II",
+                "I ve II"
+            ],
+            "correctIndex": 1,
+            "explanation": "Zorbalığın önlenmesinde öğretmen/okul çalışanlarının farkındalığı (I) ve öğrencilerin iletişim, kendini ifade etme becerilerini geliştirme çalışmaları (III) önemlidir. Zorbalığa maruz kalan çocukların okuldan uzaklaştırılması (II) <b>doğru bir yaklaşım değildir</b>.",
+            "unit": 8,
+            "topic": "8.8. Koruyucu Ruh Sağlığı Açısından Akran Zorbalığı",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 30",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9001,
@@ -1936,7 +2124,9 @@
             "unit": 9,
             "topic": "9.1. Okul Ruh Sağlığı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9002,
@@ -1953,7 +2143,9 @@
             "unit": 9,
             "topic": "9.1. Okul Ruh Sağlığı",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9003,
@@ -1970,7 +2162,9 @@
             "unit": 9,
             "topic": "9.1. Okul Ruh Sağlığı",
             "source": "Final Soruları 2022-2023",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9004,
@@ -1987,7 +2181,9 @@
             "unit": 9,
             "topic": "9.1. Okul Ruh Sağlığı",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9005,
@@ -2004,7 +2200,9 @@
             "unit": 9,
             "topic": "9.1. Okul Ruh Sağlığı",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9006,
@@ -2021,75 +2219,9 @@
             "unit": 9,
             "topic": "9.1. Okul Ruh Sağlığı",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 19"
-        },
-        {
-            "id": 9007,
-            "question": "Alkol ve madde kullanım bozuklukları için okul koruyucu ruh sağlığı müdahaleleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
-            "options": [
-                "Bu müdahaleler, çocuğun madde ile karşılaşabileceği kritik dönemlerden önce uygulanmalı. Çocuk ve ergeni maddeyle karşılaşabileceği ortamlara karşı hazır olmasını ve uygun baş etme becerilerinin gelişimine olanak sağlamalıdır.",
-                "Çok az sayıda okul personeli ile uygulanmalı ve personele çok az bir eğitim verildikten sonra hemen başlanılmalıdır.",
-                "Sadece bilgi verici bir program olmalı.",
-                "Programın bitiminden sonra takip ve destek seansları gibi ek seanslar olmamalı.",
-                "Sosyal becerileri ve duygudurum düzenleme becerilerini artırmak bu programlar için önemli değildir."
-            ],
-            "correctIndex": 0,
-            "explanation": "Alkol ve madde kullanım bozukluklarına yönelik koruyucu programlar, çocuğun maddeyle karşılaşabileceği <b>kritik dönemlerden önce uygulanmalı</b> ve uygun baş etme becerilerinin gelişimine olanak sağlamalıdır. Programlar sadece bilgi verici olmamalı; rol oynama, küçük grup aktiviteleri ve tartışma gibi interaktif katılım sağlamalıdır.",
-            "unit": 9,
-            "topic": "9.4. Alkol ve Madde Kullanım Bozukluğu",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 6"
-        },
-        {
-            "id": 9008,
-            "question": "I. Çocuk ve ergenlerin %25’i bir kronik hastalığa sahip olmakta ve yine %10’unda bu hastalıklar günlük yaşam becerilerini şiddetli bir şekilde etkilemektedir.<br>II. Kronik hastalık sürecinde çocuk ve ergenler, duygusal, davranışsal ve eğitimsel problemler sıklıkla yaşamaktadır.<br>III. Hastalıkla ilgili sık hastane ziyaretleri, beklenmedik hastane yatışları özellikle çocuk veya ergenin günlük yaşam rutinlerine devam edememesine aynı zamanda okul devamsızlıklarına yol açmaktadır.<br>Kronik hastalıklarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
-            "options": [
-                "I, II",
-                "I, II, III",
-                "II, III",
-                "Yalnız I",
-                "I, III"
-            ],
-            "correctIndex": 1,
-            "explanation": "Çocuk ve ergenlerin %25’i kronik bir hastalığa sahip olup %10’unda bu hastalıklar günlük yaşam becerilerini şiddetli etkilemektedir (I). Kronik hastalık sürecinde duygusal, davranışsal ve eğitimsel problemler sıkça yaşanır (II) ve sık hastane ziyaretleri/yatışları okul devamsızlıklarına yol açar (III). Bu nedenle <b>tüm ifadeler doğrudur</b>.",
-            "unit": 9,
-            "topic": "9.6. Koruyucu Ruh Sağlığı Açısından Kronik Hastalıklar",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 9009,
-            "question": "Çocukluk dönemi kronik hastalıklar ve psikososyal etkileriyle ilgili aşağıdaki ifadelerden hangisi <u>doğru değildir</u>?",
-            "options": [
-                "Kronik hastalık süresinde çocuk ve ergenler, duygusal davranışsal ve eğitimsel problemler sıklıkla yaşanmaktadır",
-                "Kronik hastalıklar hasta olan çocukla birlikte ailenin diğer bireylerinide etkilemektedir.",
-                "Çocuk ve ergenlerin %25 Kronik hastalığa sahip olmakta ve %10’undada bu hastalıklar günlük yaşam becerilerini şiddetli bir biçimde etkilemektedir",
-                "Hastalıkla ilgili sık hastane ziyaretleri,beklenmedik hastane yatışları çocukların günlük yaşam rutinine devam edememesine ve okul devamsızlıklarına yol açmaktadır",
-                "Kronik hastalığı olan çocukların hastalığın türü ve etkisinden bağımsız olarak günlük yaşam aktivitelerine katılmaları sınırlandırılmalıdır"
-            ],
-            "correctIndex": 4,
-            "explanation": "Kronik hastalığı olan çocukların, hastalığın türü ve etkisinden bağımsız olarak günlük yaşam aktivitelerine katılmalarının <b>sınırlandırılması doğru değildir</b>. Koruyucu ruh sağlığı, aksine, özel gereksinimlerine uygun aktivitelere katılımlarını desteklemeyi hedefler.",
-            "unit": 9,
-            "topic": "9.6. Koruyucu Ruh Sağlığı Açısından Kronik Hastalıklar",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 40"
-        },
-        {
-            "id": 9010,
-            "question": "Aşağıdakilerden hangisi bir gelişimsel bozukluk <u>değildir</u>?",
-            "options": [
-                "Dikkat Eksikliği ve Hiperaktivite Bozukluğu",
-                "Özgül Öğrenme Güçlüğü",
-                "Tik Bozukluğu",
-                "Otizm Spektrum Bozukluğu",
-                "Şizofreni"
-            ],
-            "correctIndex": 4,
-            "explanation": "DEHB, Özgül Öğrenme Güçlüğü, Tik Bozukluğu ve Otizm Spektrum Bozukluğu nörogelişimsel bozukluklardır. <b>Şizofreni</b> ise genellikle ergenlik veya erişkinlik döneminde ortaya çıkan major bir psikiyatrik bozukluktur, gelişimsel bozukluk kategorisinde yer almaz.",
-            "unit": 9,
-            "topic": "9.7. Koruyucu Ruh Sağlığı Açısından Gelişimsel Bozukluklar",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9011,
@@ -2106,7 +2238,9 @@
             "unit": 9,
             "topic": "9.1. Okul Ruh Sağlığı",
             "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 9012,
@@ -2123,262 +2257,85 @@
             "unit": 9,
             "topic": "9.3. Depresyon ve Anksiyete Bozuklukları İçin Koruyucu Ruh Sağlığı Uygulamaları",
             "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 10001,
-            "question": "I. Kişinin yaşamsal bütünlüğünü tehdit etmesi veya bozması<br>II. Kişiyi baş edilebilir ölçüde zorlaması<br>III. Kişide belirgin korku, dehşet, çaresizlik hissine yol açması<br>IV. Kişinin kendi baş etme mekanizmaları ile başa çıkamayacak düzeyde olması<br>Yukarıdakilerden hangileri “ruhsal travma“nın özellikleri arasında yer alır?",
+            "id": 9007,
+            "question": "Alkol ve madde kullanım bozuklukları için okul koruyucu ruh sağlığı müdahaleleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
             "options": [
-                "I, II",
-                "I ve III",
-                "II ve III",
-                "I, III ve IV",
-                "Yalnız II"
-            ],
-            "correctIndex": 3,
-            "explanation": "Ruhsal travma; kişinin yaşamsal bütünlüğünü tehdit etmesi veya bozması (I), belirgin korku, dehşet, çaresizlik hissine yol açması (III) ve kişinin <b>kendi baş etme mekanizmaları ile başa çıkamayacak düzeyde</b> olması (IV) gibi özelliklere sahiptir. Kişiyi baş edilebilir ölçüde zorlaması (II) ruhsal travmanın değil, psikolojik dayanıklılığın gelişiminde rol oynayan günlük zorlukların özelliğidir.",
-            "unit": 10,
-            "topic": "10.3. Travmanın Etkileri",
-            "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 10002,
-            "question": "Aşağıdakilerden hangisi yaşamsal bir olayın ruhsal bir travma olarak değerlendirmesi için gerekli özelliklerden <u>değildir</u>?",
-            "options": [
-                "kayıp içermesi",
-                "yaşamı tehdit etmesi",
-                "olayın uzun süre yaşanması",
-                "olağandışı duruma bağlı olarak gelişmesi",
-                "ani başlangıçlı olması"
-            ],
-            "correctIndex": 2,
-            "explanation": "Travmatik bir olayın özellikleri arasında ani başlangıçlı olması, yaşamı tehdit etmesi ve olağandışı olması bulunur. <b>Olayın uzun süre yaşanması</b>, travmatik bir olayın temel özelliklerinden biri değildir.",
-            "unit": 10,
-            "topic": "10.3. Travmanın Etkileri",
-            "source": "Final Soruları 2021",
-            "sourceInfo": "Soru 29"
-        },
-        {
-            "id": 10003,
-            "question": "Aşağıdakilerden hangisi çocukluk çağı travmaları kategorisinde <u>yer almaz</u>?",
-            "options": [
-                "Cinsel istismar",
-                "Duygusal ihmal",
-                "Fiziksel istismar",
-                "Fiziksel yaralanmalar",
-                "Duygusal istismar"
-            ],
-            "correctIndex": 3,
-            "explanation": "Çocukluk çağı travmaları, ihmal ve istismar (fiziksel, cinsel, duygusal, fiziksel ihmal, duygusal ihmal) şeklinde ikiye ayrılır. <b>Fiziksel yaralanmalar</b> ise travma kategorisinde yer almaz.",
-            "unit": 10,
-            "topic": "10.1. Çocukluk Çağı Travmaları",
-            "source": "Final Soruları 2021-2022",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 10004,
-            "question": "“…… çocuğun bakımından sorumlu kişiler tarafından çocuğun ihtiyaçlarının yeterince sağlanamaması sonucu fiziksel ve ruhsal sağlık bakımından zarara uğradığı <u>pasif bir eylemsizlik</u> durumudur.”<br>Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi en uygundur?",
-            "options": [
-                "İhmal",
-                "Kaza",
-                "İstismar",
-                "Travma",
-                "Kötülük"
+                "Bu müdahaleler, çocuğun madde ile karşılaşabileceği kritik dönemlerden önce uygulanmalı. Çocuk ve ergeni maddeyle karşılaşabileceği ortamlara karşı hazır olmasını ve uygun baş etme becerilerinin gelişimine olanak sağlamalıdır.",
+                "Çok az sayıda okul personeli ile uygulanmalı ve personele çok az bir eğitim verildikten sonra hemen başlanılmalıdır.",
+                "Sadece bilgi verici bir program olmalı.",
+                "Programın bitiminden sonra takip ve destek seansları gibi ek seanslar olmamalı.",
+                "Sosyal becerileri ve duygudurum düzenleme becerilerini artırmak bu programlar için önemli değildir."
             ],
             "correctIndex": 0,
-            "explanation": "Çocuğun ihtiyaçlarının yeterince sağlanmaması sonucu fiziksel ve ruhsal sağlık bakımından zarara uğradığı <b>pasif bir eylemsizlik durumu</b> <b>İhmal</b> olarak tanımlanır. İhmal, bir eylemsizlik olarak görülse de sonuçları çok büyük bir eylemdir ve bir travma türüdür.",
-            "unit": 10,
-            "topic": "10.1.2. İhmal",
-            "source": "Bütünleme Soruları 2022-2023",
-            "sourceInfo": "Soru 9"
+            "explanation": "Alkol ve madde kullanım bozukluklarına yönelik koruyucu programlar, çocuğun maddeyle karşılaşabileceği <b>kritik dönemlerden önce uygulanmalı</b> ve uygun baş etme becerilerinin gelişimine olanak sağlamalıdır. Programlar sadece bilgi verici olmamalı; rol oynama, küçük grup aktiviteleri ve tartışma gibi interaktif katılım sağlamalıdır.",
+            "unit": 9,
+            "topic": "9.4. Alkol ve Madde Kullanım Bozukluğu",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 10005,
-            "question": "I. Çocukluk çağı travmaları yaşamın ilerleyen dönemlerinde pek çok ruhsal bozukluğun ortaya çıkmasıyla ilişkili bulunmuştur.<br>II. Beyin gelişiminin hızlı olduğu dönem olan gebelikten altı yaşına kadar ki dönem travmanın uzunlamasına etkileri için büyük öneme sahiptir.<br>III. İhmal bir eylemsizlik olarak görülse de sonuçları çok büyük bir eylemdir.<br>IV. İhmal bir travma değildir.<br>Yukarıdaki ifadelerden hangileri doğrudur?",
+            "id": 9008,
+            "question": "I. Çocuk ve ergenlerin %25’i bir kronik hastalığa sahip olmakta ve yine %10’unda bu hastalıklar günlük yaşam becerilerini şiddetli bir şekilde etkilemektedir.<br>II. Kronik hastalık sürecinde çocuk ve ergenler, duygusal, davranışsal ve eğitimsel problemler sıklıkla yaşamaktadır.<br>III. Hastalıkla ilgili sık hastane ziyaretleri, beklenmedik hastane yatışları özellikle çocuk veya ergenin günlük yaşam rutinlerine devam edememesine aynı zamanda okul devamsızlıklarına yol açmaktadır.<br>Kronik hastalıklarla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
             "options": [
                 "I, II",
-                "II, III, IV",
-                "I, III",
-                "II, III",
-                "I, II, III"
-            ],
-            "correctIndex": 4,
-            "explanation": "Çocukluk çağı travmalarının ileriki dönemlerde ruhsal bozukluklarla ilişkili olması (I), gebelikten altı yaşına kadar ki dönemin travmanın uzunlamasına etkileri için büyük öneme sahip olması (II) ve ihmalin (III) sonuçlarının çok büyük bir eylem olması ifadeleri doğrudur. İhmal, bir travma <b>türüdür</b> (IV yanlıştır).",
-            "unit": 10,
-            "topic": "10.1. Çocukluk Çağı Travmaları",
-            "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 26"
-        },
-        {
-            "id": 10006,
-            "question": "Pek çok yazar <u>…..</u> yaş dönemindeki travmaları erken çocukluk çağı travmaları olarak tanımlamaktadır. Yukarıdaki boşluğa getirilebilecek en uygun seçenek aşağıdakilerden hangisidir?",
-            "options": [
-                "0-6",
-                "0-4",
-                "2-6",
-                "2-12",
-                "0-12"
-            ],
-            "correctIndex": 0,
-            "explanation": "Pek çok yazar <b>0-6 yaş</b> dönemindeki travmaları erken çocukluk çağı travmaları olarak tanımlamaktadır.",
-            "unit": 10,
-            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
-            "source": "Final Soruları 2024-2025",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 10007,
-            "question": "Çocukluk çağı travmalarının gelişim dönemlerine göre etkileri ile ilgili aşağıdaki ifadelerden hangileri doğrudur?",
-            "options": [
-                "Kazanılmış becerilerde kayıp erken çocukluk çağı travmalarında ziyade 6-18 yaş arası yaşanan travmalar görülür",
-                "Çocukluk çağı travmalarının etkileri gelişim dönemlerine göre farklılık göstermez",
-                "Çocukluk üç yaşından sonra yaşadıkları travmatik Olayı tam olarak ifade edebilirler",
-                "0-3 yaş döneminde travmaya maruz kalan çocuklarda uyku problemleri gece korkuları oyunlarında travmatik temalar görülebilir",
-                "Bir çocuğun 18 aylıktan önce yaşadığı bir travma ile ilgili anıyı hatırlaması ve sözel olarak ifade etmesi sık görülen bir durumdur"
-            ],
-            "correctIndex": 3,
-            "explanation": "0-3 yaş döneminde travmaya maruz kalan çocuklarda, <b>uyku problemleri, gece korkuları ve oyunlarında travmatik temaların</b> görülmesi mümkündür. Travmanın etkileri gelişim dönemlerine göre farklılık gösterir.",
-            "unit": 10,
-            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
-            "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 17"
-        },
-        {
-            "id": 10008,
-            "question": "<u>…..</u> yaş arası dönemde egosentrik (benmerkezcil) düşünce hâkim olduğundan çocuklar yaşadıkları travmatize edici olayların kendisi yüzünden gerçekleştiğini düşünebilirler ve suçluluk duyabilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
-            "options": [
-                "3-4",
-                "3-6",
-                "1-2",
-                "8-10",
-                "6-8"
-            ],
-            "correctIndex": 1,
-            "explanation": "<b>3-6 yaş</b> arası dönemde çocuklar, <b>egosentrik (benmerkezcil)</b> düşünce nedeniyle yaşadıkları travmatik olayların kendisi yüzünden gerçekleştiğini düşünüp suçluluk duyabilirler.",
-            "unit": 10,
-            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 10009,
-            "question": "Ruhsal travmaların insan beyni, bedeni ve psikolojisi üzerindeki etkileri hakkında aşağıdakilerden hangisi <u>söylenemez</u>?",
-            "options": [
-                "Ruhsal travmalar yaşamın ilerleyen dönemlerinde ruhsal bozuklukların ortaya çıkması ve/veya şiddetlenmesine yol açar.",
-                "Ruhsal travma yaşayan kişilerde birçok bedensel belirti söz konusu olabilir.",
-                "Ruhsal travmanın yaşandığı gelişimsel dönem, travmanın etkileri açısından önemlidir.",
-                "Çocuk çağı travmalarının ruhsal etkileri genellikle daha fazladır.",
-                "Ruhsal travmalar yalnızca beyin ve ruh sağlığı üzerinde olumsuz etkiler bırakır."
-            ],
-            "correctIndex": 4,
-            "explanation": "Ruhsal travmalar, sadece ruh sağlığını değil, aynı zamanda <b>bedensel sağlığı</b> da olumsuz etkileyebilir ve birçok fiziksel hastalığın daha fazla görülmesiyle ilişkilendirilmiştir. Dolayısıyla 'yalnızca beyin ve ruh sağlığı üzerinde olumsuz etkiler bırakır' ifadesi doğru değildir.",
-            "unit": 10,
-            "topic": "10.3. Travmanın Etkileri",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 13"
-        },
-        {
-            "id": 10010,
-            "question": "Çocuklar, <u>…..</u> yaşından sonra yaşadıkları travmatik olayı daha iyi hatırlıyor olsalar bile dil gelişimlerini tam olarak tamamlamadıkları için kendilerini tam olarak ifade edemeyebilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
-            "options": [
-                "7",
-                "9",
-                "5",
-                "1",
-                "3"
-            ],
-            "correctIndex": 4,
-            "explanation": "Çocuklar, <b>3 yaşından</b> sonra yaşadıkları travmatik olayı daha iyi hatırlıyor olsalar bile, dil gelişimlerini tam olarak tamamlamadıkları için kendilerini tam olarak ifade edemeyebilirler.",
-            "unit": 10,
-            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 11"
-        },
-        {
-            "id": 10011,
-            "question": "I. Depresyon<br>II. Disosiyatif bozukluk<br>III. Şizofreni<br>IV. Anksiyete bozuklukları<br>Yukarıdakilerden hangilerinin cinsel istismara uğrayan çocuklarda görülmesi <u>en olasıdır</u>?",
-            "options": [
-                "I ve II",
-                "I, II ve IV",
-                "II, III ve IV",
-                "I ve III",
-                "I, II ve III"
-            ],
-            "correctIndex": 1,
-            "explanation": "Cinsel istismar gibi çocukluk çağı travmaları, özellikle <b>Depresyon</b> (I), <b>Disosiyatif bozukluk</b> (II) ve <b>Anksiyete bozukluklarının</b> (IV) görülme olasılığını artırır.",
-            "unit": 10,
-            "topic": "10.3. Travmanın Etkileri",
-            "source": "Final Soruları 2023-2024",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 10012,
-            "question": "Aşağıdaki çocukluk çağı psikiyatrik bozukluklarından hangisi belirli bir çevresel sebebe bağlı olarak gelişen ve koruyucu ruh sağlığı önlemleriyle önlenmesi belli ölçüde mümkün olan bir durumdur?",
-            "options": [
-                "Otizm spektrum bozukluğu",
-                "Şizofreni",
-                "Bipolar bozukluk",
-                "Özgül öğrenme bozukluğu",
-                "Travma sonrası stres bozukluğu"
-            ],
-            "correctIndex": 4,
-            "explanation": "Otizm, Şizofreni ve Bipolar bozukluk, biyolojik/genetik yatkınlığın ağır bastığı nörogelişimsel/psikotik bozukluklardır. <b>Travma sonrası stres bozukluğu (TSSB)</b> ise belirli bir çevresel travmatik olaya bağlı olarak geliştiği için koruyucu ruh sağlığı önlemleriyle önlenmesi <b>belli ölçüde mümkün</b> olan bir durumdur.",
-            "unit": 10,
-            "topic": "10.3. Travmanın Etkileri",
-            "source": "Bütünleme Soruları 2023-2024",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 10013,
-            "question": "I. Birincil koruma, travma yaşanmadan önce alınan önlemleri kapsar.<br>II. İkincil koruma, travmayla karşılaştıktan sonra kronikleşmesini önlemek için yapılan müdahalelerdir.<br>III. Üçüncül korumaya travma sonrası ruh sağlığı sorunları kronikleşen hastaların rehabilitasyon hizmetlerini içermektedir.<br>Yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
-            "options": [
                 "I, II, III",
-                "I, II",
-                "Yalnız II",
                 "II, III",
+                "Yalnız I",
                 "I, III"
             ],
-            "correctIndex": 0,
-            "explanation": "Koruyucu yaklaşımlar üç başlıkta ele alınır: <b>Birincil koruma</b> (travma yaşanmadan önce önleme), <b>İkincil koruma</b> (kronikleşmeyi önlemek için erken müdahale) ve <b>Üçüncül koruma</b> (kronikleşen hastaların rehabilitasyonu). Bu nedenle üç ifade de doğrudur.",
-            "unit": 10,
-            "topic": "10.4. Travmaya Karşı Koruyucu Ruh Sağlığı Müdahaleleri",
+            "correctIndex": 1,
+            "explanation": "Çocuk ve ergenlerin %25’i kronik bir hastalığa sahip olup %10’unda bu hastalıklar günlük yaşam becerilerini şiddetli etkilemektedir (I). Kronik hastalık sürecinde duygusal, davranışsal ve eğitimsel problemler sıkça yaşanır (II) ve sık hastane ziyaretleri/yatışları okul devamsızlıklarına yol açar (III). Bu nedenle <b>tüm ifadeler doğrudur</b>.",
+            "unit": 9,
+            "topic": "9.6. Koruyucu Ruh Sağlığı Açısından Kronik Hastalıklar",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 10014,
-            "question": "Aşağıdaki ifadelerden hangisi doğrudur?",
+            "id": 9009,
+            "question": "Çocukluk dönemi kronik hastalıklar ve psikososyal etkileriyle ilgili aşağıdaki ifadelerden hangisi <u>doğru değildir</u>?",
             "options": [
-                "Çocukluk çağı travmalarını en etkili ve en az maliyetli yöntem travmaya karşı birincil koruyucu müdahale yaklaşımlarıdır.",
-                "Birincil koruyucu müdahale programlarında tek boyutlu sadece çocuğu içeren programlar daha etkilidir.",
-                "Çocuklara cinsel istismar ile ilgili bilgi verirken özel bölge, iyi dokunuş ve kötü dokunuş gibi kavramların üstü kapalı bir şekilde ifade edilmeli.",
-                "Birincil koruyucu müdahale programlara genellikle ergenlik döneminde başlanılmalı.",
-                "Aileye yönelik psikoeğitim programlarında yalnızca çocukluk çağı travmaları ile ilgili kavramlar anlatılmalı."
-            ],
-            "correctIndex": 0,
-            "explanation": "Travma gerçekleşmeden önce uygulanan <b>birincil koruyucu müdahale yaklaşımları</b>, ruh sağlığı sorunu riskini azalttığı ve tedavi maliyetini düşürdüğü için <b>en etkili ve en az maliyetli yöntemdir</b>. Birincil koruyucu programlar çok boyutlu olmalı ve üstü kapalı değil, açık ifadeler kullanılmalıdır.",
-            "unit": 10,
-            "topic": "10.4. Travmaya Karşı Koruyucu Ruh Sağlığı Müdahaleleri",
-            "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 10015,
-            "question": "Çocukluk çağı travmaları ile ilgili çok boyutlu birincil koruyucu program hazırlarken programa aşağıdakilerden hangisinin dâhil edilmesi gereklidir?",
-            "options": [
-                "Çocuk veya ergen",
-                "Öğretmen ve okul personeli",
-                "Ebeveyn",
-                "Potansiyel istismarcı",
-                "Hepsi"
+                "Kronik hastalık süresinde çocuk ve ergenler, duygusal davranışsal ve eğitimsel problemler sıklıkla yaşanmaktadır",
+                "Kronik hastalıklar hasta olan çocukla birlikte ailenin diğer bireylerinide etkilemektedir.",
+                "Çocuk ve ergenlerin %25 Kronik hastalığa sahip olmakta ve %10’undada bu hastalıklar günlük yaşam becerilerini şiddetli bir biçimde etkilemektedir",
+                "Hastalıkla ilgili sık hastane ziyaretleri,beklenmedik hastane yatışları çocukların günlük yaşam rutinine devam edememesine ve okul devamsızlıklarına yol açmaktadır",
+                "Kronik hastalığı olan çocukların hastalığın türü ve etkisinden bağımsız olarak günlük yaşam aktivitelerine katılmaları sınırlandırılmalıdır"
             ],
             "correctIndex": 4,
-            "explanation": "Çocukluk çağı travmalarının önlenmesine yönelik <b>çok boyutlu</b> birincil koruyucu programlar, çocuk/ergen, öğretmen/okul personeli, ebeveyn ve potansiyel istismarcı gibi <b>tüm bileşenlerin</b> dâhil edilmesini gereklidir.",
-            "unit": 10,
-            "topic": "10.4. Travmaya Karşı Koruyucu Ruh Sağlığı Müdahaleleri",
+            "explanation": "Kronik hastalığı olan çocukların, hastalığın türü ve etkisinden bağımsız olarak günlük yaşam aktivitelerine katılmalarının <b>sınırlandırılması doğru değildir</b>. Koruyucu ruh sağlığı, aksine, özel gereksinimlerine uygun aktivitelere katılımlarını desteklemeyi hedefler.",
+            "unit": 9,
+            "topic": "9.6. Koruyucu Ruh Sağlığı Açısından Kronik Hastalıklar",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 40",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 9010,
+            "question": "Aşağıdakilerden hangisi bir gelişimsel bozukluk <u>değildir</u>?",
+            "options": [
+                "Dikkat Eksikliği ve Hiperaktivite Bozukluğu",
+                "Özgül Öğrenme Güçlüğü",
+                "Tik Bozukluğu",
+                "Otizm Spektrum Bozukluğu",
+                "Şizofreni"
+            ],
+            "correctIndex": 4,
+            "explanation": "DEHB, Özgül Öğrenme Güçlüğü, Tik Bozukluğu ve Otizm Spektrum Bozukluğu nörogelişimsel bozukluklardır. <b>Şizofreni</b> ise genellikle ergenlik veya erişkinlik döneminde ortaya çıkan major bir psikiyatrik bozukluktur, gelişimsel bozukluk kategorisinde yer almaz.",
+            "unit": 9,
+            "topic": "9.7. Koruyucu Ruh Sağlığı Açısından Gelişimsel Bozukluklar",
             "source": "Bölüm Soruları",
-            "sourceInfo": "Soru 9"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 10016,
@@ -2395,7 +2352,294 @@
             "unit": 10,
             "topic": "10.1.1. İstismar",
             "source": "Bütünleme Soruları 2021",
-            "sourceInfo": "Soru 14"
+            "sourceInfo": "Soru 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10004,
+            "question": "“…… çocuğun bakımından sorumlu kişiler tarafından çocuğun ihtiyaçlarının yeterince sağlanamaması sonucu fiziksel ve ruhsal sağlık bakımından zarara uğradığı <u>pasif bir eylemsizlik</u> durumudur.”<br>Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi en uygundur?",
+            "options": [
+                "İhmal",
+                "Kaza",
+                "İstismar",
+                "Travma",
+                "Kötülük"
+            ],
+            "correctIndex": 0,
+            "explanation": "Çocuğun ihtiyaçlarının yeterince sağlanmaması sonucu fiziksel ve ruhsal sağlık bakımından zarara uğradığı <b>pasif bir eylemsizlik durumu</b> <b>İhmal</b> olarak tanımlanır. İhmal, bir eylemsizlik olarak görülse de sonuçları çok büyük bir eylemdir ve bir travma türüdür.",
+            "unit": 10,
+            "topic": "10.1.2. İhmal",
+            "source": "Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10003,
+            "question": "Aşağıdakilerden hangisi çocukluk çağı travmaları kategorisinde <u>yer almaz</u>?",
+            "options": [
+                "Cinsel istismar",
+                "Duygusal ihmal",
+                "Fiziksel istismar",
+                "Fiziksel yaralanmalar",
+                "Duygusal istismar"
+            ],
+            "correctIndex": 3,
+            "explanation": "Çocukluk çağı travmaları, ihmal ve istismar (fiziksel, cinsel, duygusal, fiziksel ihmal, duygusal ihmal) şeklinde ikiye ayrılır. <b>Fiziksel yaralanmalar</b> ise travma kategorisinde yer almaz.",
+            "unit": 10,
+            "topic": "10.1. Çocukluk Çağı Travmaları",
+            "source": "Final Soruları 2021-2022",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10005,
+            "question": "I. Çocukluk çağı travmaları yaşamın ilerleyen dönemlerinde pek çok ruhsal bozukluğun ortaya çıkmasıyla ilişkili bulunmuştur.<br>II. Beyin gelişiminin hızlı olduğu dönem olan gebelikten altı yaşına kadar ki dönem travmanın uzunlamasına etkileri için büyük öneme sahiptir.<br>III. İhmal bir eylemsizlik olarak görülse de sonuçları çok büyük bir eylemdir.<br>IV. İhmal bir travma değildir.<br>Yukarıdaki ifadelerden hangileri doğrudur?",
+            "options": [
+                "I, II",
+                "II, III, IV",
+                "I, III",
+                "II, III",
+                "I, II, III"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çocukluk çağı travmalarının ileriki dönemlerde ruhsal bozukluklarla ilişkili olması (I), gebelikten altı yaşına kadar ki dönemin travmanın uzunlamasına etkileri için büyük öneme sahip olması (II) ve ihmalin (III) sonuçlarının çok büyük bir eylem olması ifadeleri doğrudur. İhmal, bir travma <b>türüdür</b> (IV yanlıştır).",
+            "unit": 10,
+            "topic": "10.1. Çocukluk Çağı Travmaları",
+            "source": "Bütünleme Soruları 2021",
+            "sourceInfo": "Soru 26",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10006,
+            "question": "Pek çok yazar <u>…..</u> yaş dönemindeki travmaları erken çocukluk çağı travmaları olarak tanımlamaktadır. Yukarıdaki boşluğa getirilebilecek en uygun seçenek aşağıdakilerden hangisidir?",
+            "options": [
+                "0-6",
+                "0-4",
+                "2-6",
+                "2-12",
+                "0-12"
+            ],
+            "correctIndex": 0,
+            "explanation": "Pek çok yazar <b>0-6 yaş</b> dönemindeki travmaları erken çocukluk çağı travmaları olarak tanımlamaktadır.",
+            "unit": 10,
+            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
+            "source": "Final Soruları 2024-2025",
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10007,
+            "question": "Çocukluk çağı travmalarının gelişim dönemlerine göre etkileri ile ilgili aşağıdaki ifadelerden hangileri doğrudur?",
+            "options": [
+                "Kazanılmış becerilerde kayıp erken çocukluk çağı travmalarında ziyade 6-18 yaş arası yaşanan travmalar görülür",
+                "Çocukluk çağı travmalarının etkileri gelişim dönemlerine göre farklılık göstermez",
+                "Çocukluk üç yaşından sonra yaşadıkları travmatik Olayı tam olarak ifade edebilirler",
+                "0-3 yaş döneminde travmaya maruz kalan çocuklarda uyku problemleri gece korkuları oyunlarında travmatik temalar görülebilir",
+                "Bir çocuğun 18 aylıktan önce yaşadığı bir travma ile ilgili anıyı hatırlaması ve sözel olarak ifade etmesi sık görülen bir durumdur"
+            ],
+            "correctIndex": 3,
+            "explanation": "0-3 yaş döneminde travmaya maruz kalan çocuklarda, <b>uyku problemleri, gece korkuları ve oyunlarında travmatik temaların</b> görülmesi mümkündür. Travmanın etkileri gelişim dönemlerine göre farklılık gösterir.",
+            "unit": 10,
+            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
+            "source": "Bütünleme Soruları 2021",
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10008,
+            "question": "<u>…..</u> yaş arası dönemde egosentrik (benmerkezcil) düşünce hâkim olduğundan çocuklar yaşadıkları travmatize edici olayların kendisi yüzünden gerçekleştiğini düşünebilirler ve suçluluk duyabilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+            "options": [
+                "3-4",
+                "3-6",
+                "1-2",
+                "8-10",
+                "6-8"
+            ],
+            "correctIndex": 1,
+            "explanation": "<b>3-6 yaş</b> arası dönemde çocuklar, <b>egosentrik (benmerkezcil)</b> düşünce nedeniyle yaşadıkları travmatik olayların kendisi yüzünden gerçekleştiğini düşünüp suçluluk duyabilirler.",
+            "unit": 10,
+            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10010,
+            "question": "Çocuklar, <u>…..</u> yaşından sonra yaşadıkları travmatik olayı daha iyi hatırlıyor olsalar bile dil gelişimlerini tam olarak tamamlamadıkları için kendilerini tam olarak ifade edemeyebilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+            "options": [
+                "7",
+                "9",
+                "5",
+                "1",
+                "3"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çocuklar, <b>3 yaşından</b> sonra yaşadıkları travmatik olayı daha iyi hatırlıyor olsalar bile, dil gelişimlerini tam olarak tamamlamadıkları için kendilerini tam olarak ifade edemeyebilirler.",
+            "unit": 10,
+            "topic": "10.2. Gelişim Dönemlerine Göre Travma",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10001,
+            "question": "I. Kişinin yaşamsal bütünlüğünü tehdit etmesi veya bozması<br>II. Kişiyi baş edilebilir ölçüde zorlaması<br>III. Kişide belirgin korku, dehşet, çaresizlik hissine yol açması<br>IV. Kişinin kendi baş etme mekanizmaları ile başa çıkamayacak düzeyde olması<br>Yukarıdakilerden hangileri “ruhsal travma“nın özellikleri arasında yer alır?",
+            "options": [
+                "I, II",
+                "I ve III",
+                "II ve III",
+                "I, III ve IV",
+                "Yalnız II"
+            ],
+            "correctIndex": 3,
+            "explanation": "Ruhsal travma; kişinin yaşamsal bütünlüğünü tehdit etmesi veya bozması (I), belirgin korku, dehşet, çaresizlik hissine yol açması (III) ve kişinin <b>kendi baş etme mekanizmaları ile başa çıkamayacak düzeyde</b> olması (IV) gibi özelliklere sahiptir. Kişiyi baş edilebilir ölçüde zorlaması (II) ruhsal travmanın değil, psikolojik dayanıklılığın gelişiminde rol oynayan günlük zorlukların özelliğidir.",
+            "unit": 10,
+            "topic": "10.3. Travmanın Etkileri",
+            "source": "Bütünleme Soruları 2022-2023",
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10002,
+            "question": "Aşağıdakilerden hangisi yaşamsal bir olayın ruhsal bir travma olarak değerlendirmesi için gerekli özelliklerden <u>değildir</u>?",
+            "options": [
+                "kayıp içermesi",
+                "yaşamı tehdit etmesi",
+                "olayın uzun süre yaşanması",
+                "olağandışı duruma bağlı olarak gelişmesi",
+                "ani başlangıçlı olması"
+            ],
+            "correctIndex": 2,
+            "explanation": "Travmatik bir olayın özellikleri arasında ani başlangıçlı olması, yaşamı tehdit etmesi ve olağandışı olması bulunur. <b>Olayın uzun süre yaşanması</b>, travmatik bir olayın temel özelliklerinden biri değildir.",
+            "unit": 10,
+            "topic": "10.3. Travmanın Etkileri",
+            "source": "Final Soruları 2021",
+            "sourceInfo": "Soru 29",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10009,
+            "question": "Ruhsal travmaların insan beyni, bedeni ve psikolojisi üzerindeki etkileri hakkında aşağıdakilerden hangisi <u>söylenemez</u>?",
+            "options": [
+                "Ruhsal travmalar yaşamın ilerleyen dönemlerinde ruhsal bozuklukların ortaya çıkması ve/veya şiddetlenmesine yol açar.",
+                "Ruhsal travma yaşayan kişilerde birçok bedensel belirti söz konusu olabilir.",
+                "Ruhsal travmanın yaşandığı gelişimsel dönem, travmanın etkileri açısından önemlidir.",
+                "Çocuk çağı travmalarının ruhsal etkileri genellikle daha fazladır.",
+                "Ruhsal travmalar yalnızca beyin ve ruh sağlığı üzerinde olumsuz etkiler bırakır."
+            ],
+            "correctIndex": 4,
+            "explanation": "Ruhsal travmalar, sadece ruh sağlığını değil, aynı zamanda <b>bedensel sağlığı</b> da olumsuz etkileyebilir ve birçok fiziksel hastalığın daha fazla görülmesiyle ilişkilendirilmiştir. Dolayısıyla 'yalnızca beyin ve ruh sağlığı üzerinde olumsuz etkiler bırakır' ifadesi doğru değildir.",
+            "unit": 10,
+            "topic": "10.3. Travmanın Etkileri",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10011,
+            "question": "I. Depresyon<br>II. Disosiyatif bozukluk<br>III. Şizofreni<br>IV. Anksiyete bozuklukları<br>Yukarıdakilerden hangilerinin cinsel istismara uğrayan çocuklarda görülmesi <u>en olasıdır</u>?",
+            "options": [
+                "I ve II",
+                "I, II ve IV",
+                "II, III ve IV",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 1,
+            "explanation": "Cinsel istismar gibi çocukluk çağı travmaları, özellikle <b>Depresyon</b> (I), <b>Disosiyatif bozukluk</b> (II) ve <b>Anksiyete bozukluklarının</b> (IV) görülme olasılığını artırır.",
+            "unit": 10,
+            "topic": "10.3. Travmanın Etkileri",
+            "source": "Final Soruları 2023-2024",
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10012,
+            "question": "Aşağıdaki çocukluk çağı psikiyatrik bozukluklarından hangisi belirli bir çevresel sebebe bağlı olarak gelişen ve koruyucu ruh sağlığı önlemleriyle önlenmesi belli ölçüde mümkün olan bir durumdur?",
+            "options": [
+                "Otizm spektrum bozukluğu",
+                "Şizofreni",
+                "Bipolar bozukluk",
+                "Özgül öğrenme bozukluğu",
+                "Travma sonrası stres bozukluğu"
+            ],
+            "correctIndex": 4,
+            "explanation": "Otizm, Şizofreni ve Bipolar bozukluk, biyolojik/genetik yatkınlığın ağır bastığı nörogelişimsel/psikotik bozukluklardır. <b>Travma sonrası stres bozukluğu (TSSB)</b> ise belirli bir çevresel travmatik olaya bağlı olarak geliştiği için koruyucu ruh sağlığı önlemleriyle önlenmesi <b>belli ölçüde mümkün</b> olan bir durumdur.",
+            "unit": 10,
+            "topic": "10.3. Travmanın Etkileri",
+            "source": "Bütünleme Soruları 2023-2024",
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10013,
+            "question": "I. Birincil koruma, travma yaşanmadan önce alınan önlemleri kapsar.<br>II. İkincil koruma, travmayla karşılaştıktan sonra kronikleşmesini önlemek için yapılan müdahalelerdir.<br>III. Üçüncül korumaya travma sonrası ruh sağlığı sorunları kronikleşen hastaların rehabilitasyon hizmetlerini içermektedir.<br>Yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "I, II, III",
+                "I, II",
+                "Yalnız II",
+                "II, III",
+                "I, III"
+            ],
+            "correctIndex": 0,
+            "explanation": "Koruyucu yaklaşımlar üç başlıkta ele alınır: <b>Birincil koruma</b> (travma yaşanmadan önce önleme), <b>İkincil koruma</b> (kronikleşmeyi önlemek için erken müdahale) ve <b>Üçüncül koruma</b> (kronikleşen hastaların rehabilitasyonu). Bu nedenle üç ifade de doğrudur.",
+            "unit": 10,
+            "topic": "10.4. Travmaya Karşı Koruyucu Ruh Sağlığı Müdahaleleri",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10014,
+            "question": "Aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Çocukluk çağı travmalarını en etkili ve en az maliyetli yöntem travmaya karşı birincil koruyucu müdahale yaklaşımlarıdır.",
+                "Birincil koruyucu müdahale programlarında tek boyutlu sadece çocuğu içeren programlar daha etkilidir.",
+                "Çocuklara cinsel istismar ile ilgili bilgi verirken özel bölge, iyi dokunuş ve kötü dokunuş gibi kavramların üstü kapalı bir şekilde ifade edilmeli.",
+                "Birincil koruyucu müdahale programlara genellikle ergenlik döneminde başlanılmalı.",
+                "Aileye yönelik psikoeğitim programlarında yalnızca çocukluk çağı travmaları ile ilgili kavramlar anlatılmalı."
+            ],
+            "correctIndex": 0,
+            "explanation": "Travma gerçekleşmeden önce uygulanan <b>birincil koruyucu müdahale yaklaşımları</b>, ruh sağlığı sorunu riskini azalttığı ve tedavi maliyetini düşürdüğü için <b>en etkili ve en az maliyetli yöntemdir</b>. Birincil koruyucu programlar çok boyutlu olmalı ve üstü kapalı değil, açık ifadeler kullanılmalıdır.",
+            "unit": 10,
+            "topic": "10.4. Travmaya Karşı Koruyucu Ruh Sağlığı Müdahaleleri",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 10015,
+            "question": "Çocukluk çağı travmaları ile ilgili çok boyutlu birincil koruyucu program hazırlarken programa aşağıdakilerden hangisinin dâhil edilmesi gereklidir?",
+            "options": [
+                "Çocuk veya ergen",
+                "Öğretmen ve okul personeli",
+                "Ebeveyn",
+                "Potansiyel istismarcı",
+                "Hepsi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Çocukluk çağı travmalarının önlenmesine yönelik <b>çok boyutlu</b> birincil koruyucu programlar, çocuk/ergen, öğretmen/okul personeli, ebeveyn ve potansiyel istismarcı gibi <b>tüm bileşenlerin</b> dâhil edilmesini gereklidir.",
+            "unit": 10,
+            "topic": "10.4. Travmaya Karşı Koruyucu Ruh Sağlığı Müdahaleleri",
+            "source": "Bölüm Soruları",
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         }
     ],
     "meta": {

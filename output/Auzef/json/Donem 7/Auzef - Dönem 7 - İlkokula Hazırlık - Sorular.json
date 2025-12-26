@@ -1,23 +1,6 @@
 {
     "questions": [
         {
-            "id": 1001,
-            "question": "“En genel şekilde çocuğun yeni öğrenmeleri gerçekleştirebilmeleri için kendisinde aranan bilişsel, duyuşsal ve devinişsel yeterliklerdir.” şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
-            "options": [
-                "Hazırbulunuşluk",
-                "Öğrenme",
-                "Gelişim",
-                "Büyüme",
-                "Olgunlaşma"
-            ],
-            "correctIndex": 0,
-            "explanation": "Hazırbulunuşluk, en genel ifadeyle çocuğun yeni öğrenmeleri gerçekleştirebilmesi için kendisinde aranan <b>bilişsel, duyuşsal ve devinişsel yeterlilikler</b> olarak tanımlanmaktadır.",
-            "unit": 1,
-            "topic": "1.1. Hazır Oluş-Hazırbulunuşluk",
-            "source": "Vize/Final Deneme Sınavları",
-            "sourceInfo": "Soru 1, 14, 3"
-        },
-        {
             "id": 1002,
             "question": "Aşağıdakilerden hangisi MEB tarafından okul öncesi eğitim programında çocukta bulunması gereken hazırbulunuşluk ölçütleri arasında <u>yer almamaktadır</u>?",
             "options": [
@@ -32,7 +15,28 @@
             "unit": 1,
             "topic": "1.1.1. Hazırbulunuşluk Ölçütleri",
             "source": "Vize/Final Deneme Sınavları",
-            "sourceInfo": "Soru 2, 1"
+            "sourceInfo": "Soru 2, 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1001,
+            "question": "“En genel şekilde çocuğun yeni öğrenmeleri gerçekleştirebilmeleri için kendisinde aranan bilişsel, duyuşsal ve devinişsel yeterliklerdir.” şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Hazırbulunuşluk",
+                "Öğrenme",
+                "Gelişim",
+                "Büyüme",
+                "Olgunlaşma"
+            ],
+            "correctIndex": 0,
+            "explanation": "Hazırbulunuşluk, en genel ifadeyle çocuğun yeni öğrenmeleri gerçekleştirebilmesi için kendisinde aranan <b>bilişsel, duyuşsal ve devinişsel yeterlilikler</b> olarak tanımlanmaktadır.",
+            "unit": 1,
+            "topic": "1.1. Hazır Oluş-Hazırbulunuşluk",
+            "source": "Vize/Final Deneme Sınavları",
+            "sourceInfo": "Soru 1, 14, 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1003,
@@ -49,7 +53,9 @@
             "unit": 1,
             "topic": "1.2. Hazırbulunuşluğu Etkileyen Etmenler",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1004,
@@ -66,24 +72,9 @@
             "unit": 1,
             "topic": "1.2. Hazırbulunuşluğu Etkileyen Etmenler",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 8, 18"
-        },
-        {
-            "id": 1005,
-            "question": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında <u>yer almamaktadır</u>?",
-            "options": [
-                "Sosyal yapılandırmacı kuram",
-                "Çevreselci kuram",
-                "Bilişselci kuram",
-                "Olgunlaşmacı kuram",
-                "Etkileşimci kuram"
-            ],
-            "correctIndex": 2,
-            "explanation": "Hazırbulunuşluğu değerlendiren kuramlar; Olgunlaşmacı kuram, Çevreselci kuram, Sosyal yapılandırmacı kuram ve Etkileşimci kuramdır. <b>Bilişselci kuram</b>, bu dört temel kuram arasında <u>yer almaz</u>.",
-            "unit": 1,
-            "topic": "1.3. Hazırbulunuşluk Değerlendirme Kuramları",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 13, 17"
+            "sourceInfo": "Soru 8, 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1006,
@@ -100,7 +91,9 @@
             "unit": 1,
             "topic": "1.3.1. Olgunlaşmacı Görüş",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1007,
@@ -117,7 +110,28 @@
             "unit": 1,
             "topic": "1.3.3. Sosyal-Yapılandırmacı Görüş",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 6, 16"
+            "sourceInfo": "Soru 6, 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 1005,
+            "question": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında <u>yer almamaktadır</u>?",
+            "options": [
+                "Sosyal yapılandırmacı kuram",
+                "Çevreselci kuram",
+                "Bilişselci kuram",
+                "Olgunlaşmacı kuram",
+                "Etkileşimci kuram"
+            ],
+            "correctIndex": 2,
+            "explanation": "Hazırbulunuşluğu değerlendiren kuramlar; Olgunlaşmacı kuram, Çevreselci kuram, Sosyal yapılandırmacı kuram ve Etkileşimci kuramdır. <b>Bilişselci kuram</b>, bu dört temel kuram arasında <u>yer almaz</u>.",
+            "unit": 1,
+            "topic": "1.3. Hazırbulunuşluk Değerlendirme Kuramları",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 13, 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1008,
@@ -134,7 +148,9 @@
             "unit": 1,
             "topic": "1.4. Okul Öncesinden İlkokula Geçişte Hazırbulunuşluk",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1009,
@@ -151,7 +167,9 @@
             "unit": 1,
             "topic": "1.5. İlkokula Hazırbulunuşlukla İlgili Yaklaşımlar",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 8, 17"
+            "sourceInfo": "Soru 8, 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 1010,
@@ -168,7 +186,9 @@
             "unit": 1,
             "topic": "1.6. İlkokula Hazırbulunuşluk Aile-Okul İş Birliği",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2001,
@@ -185,7 +205,9 @@
             "unit": 2,
             "topic": "2.1. Okul Öncesinde Erken Okuryazarlık",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 1, 15"
+            "sourceInfo": "Soru 1, 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2002,
@@ -202,7 +224,9 @@
             "unit": 2,
             "topic": "2.2. Okul Öncesinde Erken Okuryazarlık Gelişimini Desteklemenin Önemi",
             "source": "İlkokula Hazırlık 2023-2024 Final Soruları",
-            "sourceInfo": "Soru 4, 13"
+            "sourceInfo": "Soru 4, 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2003,
@@ -219,24 +243,9 @@
             "unit": 2,
             "topic": "2.2. Okul Öncesinde Erken Okuryazarlık Gelişimini Desteklemenin Önemi",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 4, 11"
-        },
-        {
-            "id": 2004,
-            "question": "Aşağıdakilerden hangisi erken okuryazarlık bileşenlerinden biri <u>değildir</u>?",
-            "options": [
-                "Harf / alfabe bilgisi",
-                "Cümle bilgisi",
-                "Yazı/ baskı farkındalığı",
-                "Ses bilgisel farkındalık",
-                "Sözcük bilgisi"
-            ],
-            "correctIndex": 1,
-            "explanation": "Erken okuryazarlıkta temel bileşenler; harf/alfabe bilgisi, yazı/baskı farkındalığı, ses bilgisel farkındalık ve sözcük bilgisidir. <b>Cümle bilgisi</b>, daha ileri okuryazarlık aşamalarında önem kazanan bir bileşendir, ancak erken okuryazarlıkta temel bileşenler arasında <u>yer almaz</u>.",
-            "unit": 2,
-            "topic": "2.3. Erken Okuryazarlık Bileşenleri",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 1, 5"
+            "sourceInfo": "Soru 4, 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2005,
@@ -253,7 +262,9 @@
             "unit": 2,
             "topic": "2.3.1. Yazı / Baskı Farkındalığı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 14, 11"
+            "sourceInfo": "Soru 14, 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2006,
@@ -270,7 +281,9 @@
             "unit": 2,
             "topic": "2.3.1. Yazı / Baskı Farkındalığı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 6, 15"
+            "sourceInfo": "Soru 6, 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2007,
@@ -287,7 +300,28 @@
             "unit": 2,
             "topic": "2.3.2. Harf/Alfabe Bilgisi",
             "source": "İlkokula Hazırlık 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru 13"
+            "sourceInfo": "Soru 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 2004,
+            "question": "Aşağıdakilerden hangisi erken okuryazarlık bileşenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Harf / alfabe bilgisi",
+                "Cümle bilgisi",
+                "Yazı/ baskı farkındalığı",
+                "Ses bilgisel farkındalık",
+                "Sözcük bilgisi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Erken okuryazarlıkta temel bileşenler; harf/alfabe bilgisi, yazı/baskı farkındalığı, ses bilgisel farkındalık ve sözcük bilgisidir. <b>Cümle bilgisi</b>, daha ileri okuryazarlık aşamalarında önem kazanan bir bileşendir, ancak erken okuryazarlıkta temel bileşenler arasında <u>yer almaz</u>.",
+            "unit": 2,
+            "topic": "2.3. Erken Okuryazarlık Bileşenleri",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 1, 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2008,
@@ -304,7 +338,9 @@
             "unit": 2,
             "topic": "2.4.2. Sözel Çalışma Belleği ve Erken Okuryazarlık",
             "source": "İlkokula Hazırlık 2023-2024 Final Soruları",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2009,
@@ -321,7 +357,9 @@
             "unit": 2,
             "topic": "2.6. Okul Öncesi Erken Okuryazarlık Yaşantıları",
             "source": "İlkokula Hazırlık 2023-2024 Vize Soruları",
-            "sourceInfo": "Soru 16, 9"
+            "sourceInfo": "Soru 16, 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2010,
@@ -338,7 +376,9 @@
             "unit": 2,
             "topic": "2.6. Okul Öncesi Erken Okuryazarlık Yaşantıları",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 2, 11"
+            "sourceInfo": "Soru 2, 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2011,
@@ -355,7 +395,9 @@
             "unit": 2,
             "topic": "2.6. Okul Öncesi Erken Okuryazarlık Yaşantıları",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 3"
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2012,
@@ -372,7 +414,9 @@
             "unit": 2,
             "topic": "2.6. Okul Öncesi Erken Okuryazarlık Yaşantıları",
             "source": "İlkokula Hazırlık 2023-2024 Final Soruları",
-            "sourceInfo": "Soru 16, 5"
+            "sourceInfo": "Soru 16, 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2013,
@@ -389,7 +433,9 @@
             "unit": 2,
             "topic": "2.6. Okul Öncesi Erken Okuryazarlık Yaşantıları",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 10, 16"
+            "sourceInfo": "Soru 10, 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2014,
@@ -406,7 +452,9 @@
             "unit": 2,
             "topic": "2.7. Erken Okuryazarlık Becerilerinin Gelişiminde Paylaşımlı Kitap Okumanın Önemi",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 2015,
@@ -423,24 +471,9 @@
             "unit": 2,
             "topic": "2.7. Erken Okuryazarlık Becerilerinin Gelişiminde Paylaşımlı Kitap Okumanın Önemi",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 9, 4"
-        },
-        {
-            "id": 3001,
-            "question": "Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer <u>almaz</u>?",
-            "options": [
-                "Ekzosistem",
-                "Koronosistem",
-                "Mezosistem",
-                "Mikrosistem",
-                "Atmosistem"
-            ],
-            "correctIndex": 4,
-            "explanation": "Okula uyum programlarının dayandığı Ekolojik Sistemler Kuramı'nda Mikrosistem, Mezosistem, Ekzosistem, Makrosistem ve Kronosistem yer alır. Bu kuramın temel kavramları arasında <b>Atmosistem</b> <u>yer almaz</u>.",
-            "unit": 3,
-            "topic": "3.1. Okula Uyum Programlarının Kuramsal Temelleri",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 18"
+            "sourceInfo": "Soru 9, 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3002,
@@ -457,24 +490,28 @@
             "unit": 3,
             "topic": "3.1.1. Mikrosistem",
             "source": "İlkokula Hazırlık 2023-2024 Vize Soruları",
-            "sourceInfo": "Soru 11, 13"
+            "sourceInfo": "Soru 11, 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 3003,
-            "question": "Okula uyum programının temel ilkeleri arasında aşağıdakilerden hangisi yer <u>almaz</u>?",
+            "id": 3001,
+            "question": "Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer <u>almaz</u>?",
             "options": [
-                "Paydaşlarla iş birliği",
-                "Öğretmenin merkez olması",
-                "Okula uyum programını özümseme",
-                "Okula uyum programını değerlendirme",
-                "Çocuğu ve aileyi tanıma"
+                "Ekzosistem",
+                "Koronosistem",
+                "Mezosistem",
+                "Mikrosistem",
+                "Atmosistem"
             ],
-            "correctIndex": 1,
-            "explanation": "Okula uyum programının temel ilkeleri; Çocuğu ve Aileyi Tanıma, Çocuğu Merkeze Alma, Paydaşlarla İş Birliği Yapma ve Programı Değerlendirmedir. Programın merkezinde çocuk yer alırken, <b>Öğretmenin merkez olması</b> ilkesi <u>yer almaz</u>.",
+            "correctIndex": 4,
+            "explanation": "Okula uyum programlarının dayandığı Ekolojik Sistemler Kuramı'nda Mikrosistem, Mezosistem, Ekzosistem, Makrosistem ve Kronosistem yer alır. Bu kuramın temel kavramları arasında <b>Atmosistem</b> <u>yer almaz</u>.",
             "unit": 3,
-            "topic": "3.2. Okula Uyum Programı Temel Özellikleri",
-            "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 2"
+            "topic": "3.1. Okula Uyum Programlarının Kuramsal Temelleri",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3004,
@@ -491,7 +528,9 @@
             "unit": 3,
             "topic": "3.2.2. Çocuğu Merkeze Alma",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 12"
+            "sourceInfo": "Soru 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3005,
@@ -508,24 +547,28 @@
             "unit": 3,
             "topic": "3.2.3. Paydaşlarla İş Birliği Yapma",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 4, 1"
+            "sourceInfo": "Soru 4, 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 3006,
-            "question": "Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?",
+            "id": 3003,
+            "question": "Okula uyum programının temel ilkeleri arasında aşağıdakilerden hangisi yer <u>almaz</u>?",
             "options": [
-                "Hazır çocuk ve hazır okul",
-                "Hazır müdür, hazır çocuk, hazır aile",
-                "Hazır müdür ve hazır aile",
-                "Hazır aile, hazır çocuk, hazır okul",
-                "Hazır aile ve hazır çocuk"
+                "Paydaşlarla iş birliği",
+                "Öğretmenin merkez olması",
+                "Okula uyum programını özümseme",
+                "Okula uyum programını değerlendirme",
+                "Çocuğu ve aileyi tanıma"
             ],
-            "correctIndex": 3,
-            "explanation": "Okula uyumun üç temel boyutu, <b>Hazır Aile, Hazır Çocuk ve Hazır Okul</b> olarak bir arada ve doğru biçimde verilmiştir.",
+            "correctIndex": 1,
+            "explanation": "Okula uyum programının temel ilkeleri; Çocuğu ve Aileyi Tanıma, Çocuğu Merkeze Alma, Paydaşlarla İş Birliği Yapma ve Programı Değerlendirmedir. Programın merkezinde çocuk yer alırken, <b>Öğretmenin merkez olması</b> ilkesi <u>yer almaz</u>.",
             "unit": 3,
-            "topic": "3.3. Okula Uyum Programı Boyutları",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 2, 8"
+            "topic": "3.2. Okula Uyum Programı Temel Özellikleri",
+            "source": "Ders Kitabı Ünite Soruları",
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3007,
@@ -542,7 +585,9 @@
             "unit": 3,
             "topic": "3.3.1. Hazır Çocuk",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 17, 6"
+            "sourceInfo": "Soru 17, 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3008,
@@ -559,7 +604,9 @@
             "unit": 3,
             "topic": "3.3.1. Hazır Çocuk",
             "source": "İlkokula Hazırlık 2023-2024 Final Soruları",
-            "sourceInfo": "Soru 14, 15"
+            "sourceInfo": "Soru 14, 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3009,
@@ -576,7 +623,28 @@
             "unit": 3,
             "topic": "3.3.2. Hazır Aile",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 3006,
+            "question": "Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?",
+            "options": [
+                "Hazır çocuk ve hazır okul",
+                "Hazır müdür, hazır çocuk, hazır aile",
+                "Hazır müdür ve hazır aile",
+                "Hazır aile, hazır çocuk, hazır okul",
+                "Hazır aile ve hazır çocuk"
+            ],
+            "correctIndex": 3,
+            "explanation": "Okula uyumun üç temel boyutu, <b>Hazır Aile, Hazır Çocuk ve Hazır Okul</b> olarak bir arada ve doğru biçimde verilmiştir.",
+            "unit": 3,
+            "topic": "3.3. Okula Uyum Programı Boyutları",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 2, 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3010,
@@ -593,7 +661,9 @@
             "unit": 3,
             "topic": "3.4. Okula Uyumun Aşamaları",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 16, 8"
+            "sourceInfo": "Soru 16, 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3011,
@@ -610,7 +680,9 @@
             "unit": 3,
             "topic": "3.5.1. İlkokul 1. Sınıf Sonunda Öğrencilerin Edindiği Kazanımlar",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 4, 9, 1"
+            "sourceInfo": "Soru 4, 9, 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3012,
@@ -627,7 +699,9 @@
             "unit": 3,
             "topic": "3.7. Uyum Sürecinde Kaçınılması Gereken Davranışlar",
             "source": "Ders Kitabı Ünite Soruları",
-            "sourceInfo": "Soru 10, 12"
+            "sourceInfo": "Soru 10, 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3013,
@@ -644,7 +718,9 @@
             "unit": 3,
             "topic": "3.8. Uyum Sürecinde Öğretmenden Beklentiler",
             "source": "İlkokula Hazırlık 2023-2024 Bütünleme Soruları",
-            "sourceInfo": "Soru 17"
+            "sourceInfo": "Soru 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 3014,
@@ -661,7 +737,9 @@
             "unit": 3,
             "topic": "3.9. Uyum Sürecinde Okul Yönetiminden Beklentiler",
             "source": "İlkokula Hazırlık 2023-2024 Final Soruları",
-            "sourceInfo": "Soru 15, 14"
+            "sourceInfo": "Soru 15, 14",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4001,
@@ -678,7 +756,9 @@
             "unit": 4,
             "topic": "4.1. Okul Öncesinde İlkokula Hazırlık Aşaması",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 1, 10"
+            "sourceInfo": "Soru 1, 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4002,
@@ -695,7 +775,9 @@
             "unit": 4,
             "topic": "4.1. Okul Öncesinde İlkokula Hazırlık Aşaması",
             "source": "İlkokula Hazırlık 2023-2024 Vize Soruları",
-            "sourceInfo": "Soru 4, 18"
+            "sourceInfo": "Soru 4, 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4003,
@@ -712,7 +794,9 @@
             "unit": 4,
             "topic": "4.1. Okul Öncesinde İlkokula Hazırlık Aşaması",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4004,
@@ -729,7 +813,9 @@
             "unit": 4,
             "topic": "4.1. Okul Öncesinde İlkokula Hazırlık Aşaması",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 20, 4, 5"
+            "sourceInfo": "Soru 20, 4, 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4005,
@@ -746,7 +832,9 @@
             "unit": 4,
             "topic": "4.1. Okul Öncesinde İlkokula Hazırlık Aşaması",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 5, 10"
+            "sourceInfo": "Soru 5, 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4006,
@@ -763,41 +851,9 @@
             "unit": 4,
             "topic": "4.1. Okul Öncesinde İlkokula Hazırlık Aşaması",
             "source": "Auzef İlk Okula Hazırlık Final Deneme Sınavı-7",
-            "sourceInfo": "Soru 9, 7"
-        },
-        {
-            "id": 4007,
-            "question": "İlkokulda ilk okuma yazmaya başlama ve ilerleme aşamasında aşağıdaki aşamalardan hangisi <u>yer almamaktadır</u>?",
-            "options": [
-                "Boyama ve çizgi çalışmaları",
-                "Metin okuma",
-                "Harfi okuma ve yazma",
-                "Sesi hissetme ve tanıma",
-                "Harflerden hece oluşturma"
-            ],
-            "correctIndex": 0,
-            "explanation": "İlkokulda ilk okuma yazmaya başlama süreci, sesleri tanıma, harfleri öğrenme, hece oluşturma ve metin okumaya odaklanır. <b>Boyama ve çizgi çalışmaları</b> ise okul öncesi dönemin okuma yazmaya hazırlık aşamasında motor becerilerini destekleyici etkinliklerdir.",
-            "unit": 4,
-            "topic": "4.2. Okul Öncesi Eğitimi ve İlkokul Programları Arasındaki İlişkiler",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 7, 4"
-        },
-        {
-            "id": 4008,
-            "question": "“Programlar ve sınıflar arasında ilerledikçe konuların daha detaylı bir hale gelmesi, fakat genel çerçevenin değişmeden öğrencilere sunulmasıdır.” cümlesinde anlatılan programların hangi ilkesidir?",
-            "options": [
-                "Esneklik",
-                "Öğreticilik",
-                "Sarmallık",
-                "Yakınlık",
-                "Uzaklık"
-            ],
-            "correctIndex": 2,
-            "explanation": "Programların, sınıflar ilerledikçe konuların detaylanmasını, ancak genel çerçevenin korunmasını ifade eden ilke <b>Sarmallık</b>'tır.",
-            "unit": 4,
-            "topic": "4.2. Okul Öncesi Eğitimi ve İlkokul Programları Arasındaki İlişkiler",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 17, 9"
+            "sourceInfo": "Soru 9, 7",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 4009,
@@ -814,7 +870,9 @@
             "unit": 4,
             "topic": "4.2.1. Okul Öncesi Eğitimi ve İlkokul Türkçe Dersi Arasındaki İlişkiler",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 10, 8"
+            "sourceInfo": "Soru 10, 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4010,
@@ -831,7 +889,9 @@
             "unit": 4,
             "topic": "4.2.1. Okul Öncesi Eğitimi ve İlkokul Türkçe Dersi Arasındaki İlişkiler",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 10, 1"
+            "sourceInfo": "Soru 10, 1",
+            "occurrence_count": 2,
+            "is_duplicate": false
         },
         {
             "id": 4011,
@@ -848,7 +908,9 @@
             "unit": 4,
             "topic": "4.2.2. Okul Öncesi Eğitimi ve İlkokul Hayat Bilgisi Dersi Arasındaki İlişkiler",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 8, 1"
+            "sourceInfo": "Soru 8, 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4012,
@@ -865,7 +927,9 @@
             "unit": 4,
             "topic": "4.2.2. Okul Öncesi Eğitimi ve İlkokul Hayat Bilgisi Dersi Arasındaki İlişkiler",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 12, 4"
+            "sourceInfo": "Soru 12, 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4013,
@@ -882,7 +946,9 @@
             "unit": 4,
             "topic": "4.2.2. Okul Öncesi Eğitimi ve İlkokul Hayat Bilgisi Dersi Arasındaki İlişkiler",
             "source": "İlkokula Hazırlık 2023-2024 Vize Soruları",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 4014,
@@ -899,7 +965,47 @@
             "unit": 4,
             "topic": "4.2.3. Okul Öncesi Eğitimi ve İlkokul Matematik Dersi Arasındaki İlişkiler",
             "source": "İlkokula Hazırlık 2023-2024 Bütünleme Soruları",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4007,
+            "question": "İlkokulda ilk okuma yazmaya başlama ve ilerleme aşamasında aşağıdaki aşamalardan hangisi <u>yer almamaktadır</u>?",
+            "options": [
+                "Boyama ve çizgi çalışmaları",
+                "Metin okuma",
+                "Harfi okuma ve yazma",
+                "Sesi hissetme ve tanıma",
+                "Harflerden hece oluşturma"
+            ],
+            "correctIndex": 0,
+            "explanation": "İlkokulda ilk okuma yazmaya başlama süreci, sesleri tanıma, harfleri öğrenme, hece oluşturma ve metin okumaya odaklanır. <b>Boyama ve çizgi çalışmaları</b> ise okul öncesi dönemin okuma yazmaya hazırlık aşamasında motor becerilerini destekleyici etkinliklerdir.",
+            "unit": 4,
+            "topic": "4.2. Okul Öncesi Eğitimi ve İlkokul Programları Arasındaki İlişkiler",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 7, 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 4008,
+            "question": "“Programlar ve sınıflar arasında ilerledikçe konuların daha detaylı bir hale gelmesi, fakat genel çerçevenin değişmeden öğrencilere sunulmasıdır.” cümlesinde anlatılan programların hangi ilkesidir?",
+            "options": [
+                "Esneklik",
+                "Öğreticilik",
+                "Sarmallık",
+                "Yakınlık",
+                "Uzaklık"
+            ],
+            "correctIndex": 2,
+            "explanation": "Programların, sınıflar ilerledikçe konuların detaylanmasını, ancak genel çerçevenin korunmasını ifade eden ilke <b>Sarmallık</b>'tır.",
+            "unit": 4,
+            "topic": "4.2. Okul Öncesi Eğitimi ve İlkokul Programları Arasındaki İlişkiler",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 17, 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5001,
@@ -916,7 +1022,9 @@
             "unit": 5,
             "topic": "5.1.1. 1924 İlkokul Programı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 1, 16"
+            "sourceInfo": "Soru 1, 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5002,
@@ -933,7 +1041,9 @@
             "unit": 5,
             "topic": "5.1.2. 1926 İlkokul Programı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 10, 20"
+            "sourceInfo": "Soru 10, 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5003,
@@ -950,7 +1060,9 @@
             "unit": 5,
             "topic": "5.1.3. 1936 İlkokul Programı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 18, 11"
+            "sourceInfo": "Soru 18, 11",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5004,
@@ -967,7 +1079,9 @@
             "unit": 5,
             "topic": "5.1.3. 1936 İlkokul Programı",
             "source": "İlkokula Hazırlık 2023-2024 Bütünleme Soruları",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5005,
@@ -984,7 +1098,9 @@
             "unit": 5,
             "topic": "5.1.4. 1948 İlkokul Programı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 4, 4"
+            "sourceInfo": "Soru 4, 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5006,
@@ -1001,7 +1117,9 @@
             "unit": 5,
             "topic": "5.1.4. 1948 İlkokul Programı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 5, 12"
+            "sourceInfo": "Soru 5, 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5007,
@@ -1018,7 +1136,9 @@
             "unit": 5,
             "topic": "5.1.4. 1948 İlkokul Programı",
             "source": "İlkokula Hazırlık 2024 Üç Ders Soruları",
-            "sourceInfo": "Soru 15, 12"
+            "sourceInfo": "Soru 15, 12",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5008,
@@ -1035,7 +1155,9 @@
             "unit": 5,
             "topic": "5.1.5. 1962 İlkokul Programı Taslağı ve 1968 İlkokul Programı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 6, 16"
+            "sourceInfo": "Soru 6, 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5009,
@@ -1052,7 +1174,9 @@
             "unit": 5,
             "topic": "5.1.5. 1962 İlkokul Programı Taslağı ve 1968 İlkokul Programı",
             "source": "Auzef İlk Okula Hazırlık Final Deneme Sınavı-7",
-            "sourceInfo": "Soru 3, 7, 15"
+            "sourceInfo": "Soru 3, 7, 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5010,
@@ -1069,7 +1193,9 @@
             "unit": 5,
             "topic": "5.1.5. 1962 İlkokul Programı Taslağı ve 1968 İlkokul Programı",
             "source": "İlkokula Hazırlık 2023-2024 Bütünleme Soruları",
-            "sourceInfo": "Soru 16, 17"
+            "sourceInfo": "Soru 16, 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5011,
@@ -1086,24 +1212,9 @@
             "unit": 5,
             "topic": "5.1.5. 1962 İlkokul Programı Taslağı ve 1968 İlkokul Programı",
             "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
-            "sourceInfo": "Soru 20"
-        },
-        {
-            "id": 5012,
-            "question": "Aşağıdaki ilkokul programı ikililerinden hangileri sırasıyla, “davranışçı ve yapılandırmacı” yaklaşımların ilk olarak ortaya çıktığı programlardır?",
-            "options": [
-                "1948-2005",
-                "1998-2005",
-                "1936-2005",
-                "1968-2018",
-                "1998-2018"
-            ],
-            "correctIndex": 1,
-            "explanation": "Davranışçı yaklaşımın etkisinin yoğun olarak görüldüğü program <b>1998 İlköğretim Programı</b>’dır. Yapılandırmacı yaklaşımın belirgin olarak ilk kez ortaya çıktığı program ise <b>2005 İlköğretim Programı</b>’dır.",
-            "unit": 5,
-            "topic": "5.2. Yaklaşımların Etkisi Sonrası İlkokul Programlarına Genel Bir Bakış",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 8, 20"
+            "sourceInfo": "Soru 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5013,
@@ -1120,7 +1231,9 @@
             "unit": 5,
             "topic": "5.2.2. 2005 İlköğretim Programı ve Yapılandırmacı Yaklaşım",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 12, 8, 9"
+            "sourceInfo": "Soru 12, 8, 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5014,
@@ -1137,7 +1250,9 @@
             "unit": 5,
             "topic": "5.2.3. 2018 İlkokul Programı",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 10, 9, 13"
+            "sourceInfo": "Soru 10, 9, 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 5015,
@@ -1154,7 +1269,28 @@
             "unit": 5,
             "topic": "5.2.3. 2018 İlkokul Programı",
             "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
-            "sourceInfo": "Soru 19"
+            "sourceInfo": "Soru 19",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 5012,
+            "question": "Aşağıdaki ilkokul programı ikililerinden hangileri sırasıyla, “davranışçı ve yapılandırmacı” yaklaşımların ilk olarak ortaya çıktığı programlardır?",
+            "options": [
+                "1948-2005",
+                "1998-2005",
+                "1936-2005",
+                "1968-2018",
+                "1998-2018"
+            ],
+            "correctIndex": 1,
+            "explanation": "Davranışçı yaklaşımın etkisinin yoğun olarak görüldüğü program <b>1998 İlköğretim Programı</b>’dır. Yapılandırmacı yaklaşımın belirgin olarak ilk kez ortaya çıktığı program ise <b>2005 İlköğretim Programı</b>’dır.",
+            "unit": 5,
+            "topic": "5.2. Yaklaşımların Etkisi Sonrası İlkokul Programlarına Genel Bir Bakış",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 8, 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6001,
@@ -1171,7 +1307,9 @@
             "unit": 6,
             "topic": "6.2.1. İlkokula Hazırbulunuşlukta Otoriter Aile Tutumu",
             "source": "İlkokula Hazırlık Final Deneme Sınavları",
-            "sourceInfo": "Soru 1, 17"
+            "sourceInfo": "Soru 1, 17",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6002,
@@ -1188,7 +1326,9 @@
             "unit": 6,
             "topic": "6.2.2. İlkokula Hazırbulunuşlukta Aşırı Hoşgörülü Aile Tutumu",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 6, 2"
+            "sourceInfo": "Soru 6, 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6003,
@@ -1205,7 +1345,9 @@
             "unit": 6,
             "topic": "6.2.3. İlkokula Hazırbulunuşlukta İlgisiz Aile Tutumu",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 5"
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6004,
@@ -1222,7 +1364,9 @@
             "unit": 6,
             "topic": "6.2.4. Demokratik Aile Tutumu",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 10"
+            "sourceInfo": "Soru 10",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6005,
@@ -1239,7 +1383,9 @@
             "unit": 6,
             "topic": "6.2.4. Demokratik Aile Tutumu",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 9"
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6006,
@@ -1256,7 +1402,9 @@
             "unit": 6,
             "topic": "6.3. Aile Tutumlarını Etkileyen Faktörler",
             "source": "İlkokula Hazırlık Final Deneme Sınavı 2023",
-            "sourceInfo": "Soru 6, 5"
+            "sourceInfo": "Soru 6, 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6007,
@@ -1273,7 +1421,9 @@
             "unit": 6,
             "topic": "6.4. İlkokula Hazırbulunuşluk Sürecinde Ailelerin Yapması Gerekenler",
             "source": "İlkokula Hazırlık Final Deneme Sınavı 2023",
-            "sourceInfo": "Soru 6"
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6008,
@@ -1290,7 +1440,9 @@
             "unit": 6,
             "topic": "6.5. Aile Destekli İlkokula Hazırbulunuşluk Etkinlikleri",
             "source": "İlkokula Hazırlık Final Deneme Sınavı 2023",
-            "sourceInfo": "Soru 7"
+            "sourceInfo": "Soru 7",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 6009,
@@ -1307,7 +1459,9 @@
             "unit": 6,
             "topic": "6.5. Aile Destekli İlkokula Hazırbulunuşluk Etkinlikleri",
             "source": "İlkokula Hazırlık Final Deneme Sınavı 2023",
-            "sourceInfo": "Soru 8"
+            "sourceInfo": "Soru 8",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7001,
@@ -1324,7 +1478,9 @@
             "unit": 7,
             "topic": "7.1. İlkokul Hazırbulunuşluğun Gözlemlenmesi",
             "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 12, 20"
+            "sourceInfo": "Soru 12, 20",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7002,
@@ -1341,7 +1497,9 @@
             "unit": 7,
             "topic": "7.2. İlkokula Hazırbulunuşluk Değerlendirilmesinde Kullanılabilecek Alternatif Değerlendirme Araçları",
             "source": "Auzef İlk Okula Hazırlık Final Deneme Sınavı-7",
-            "sourceInfo": "Soru 4"
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7003,
@@ -1358,41 +1516,9 @@
             "unit": 7,
             "topic": "7.2. İlkokula Hazırbulunuşluk Değerlendirilmesinde Kullanılabilecek Alternatif Değerlendirme Araçları",
             "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
-            "sourceInfo": "Soru 1, 2"
-        },
-        {
-            "id": 7004,
-            "question": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer almaktadır?",
-            "options": [
-                "İlkokula hazırbulunuşluk ölçeği",
-                "Marmara ilköğretime hazırbulunuşluk ölçeği",
-                "Mülakat ve anketler",
-                "Erken okuryazarlık becerilerini değerlendirme",
-                "Metropolitan okul olgunluğu testi"
-            ],
-            "correctIndex": 2,
-            "explanation": "İlkokula hazırbulunuşluk değerlendirilmesinde kullanılan Test Dışı (Ölçmeye Dayalı Olmayan) teknikler arasında Gözlem, Gözlem Listeleri, Olay/Vaka Kaydı, Derecelendirme Ölçekleri, Oyun Teknikleri, Anket ve <b>Mülakat</b> yer alır. Bu nedenle <b>Mülakat ve anketler</b> Test Dışı Tekniklerdir.",
-            "unit": 7,
-            "topic": "7.3. Test Dışı (Ölçmeye Dayalı Olmayan) Teknikler",
-            "source": "Auzef İlk Okula Hazırlık Final Deneme Sınavı-7",
-            "sourceInfo": "Soru 5"
-        },
-        {
-            "id": 7005,
-            "question": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında <u>yer alamaz</u>?",
-            "options": [
-                "Gözlem",
-                "Özellik/ kayıt çizelgesi",
-                "Olay/ vaka kaydı",
-                "Mülakat",
-                "Ölçekler"
-            ],
-            "correctIndex": 4,
-            "explanation": "Test Dışı Teknikler; Gözlem, Özellik/kayıt çizelgesi, Olay/vaka kaydı ve Mülakat gibi yöntemlerdir. <b>Ölçekler</b> (standartlaştırılmış testler: IHBO, MIHO, EOBDA) ise genellikle <b>Test (Ölçmeye Dayalı) Teknikler</b> arasında yer alır.",
-            "unit": 7,
-            "topic": "7.3. Test Dışı (Ölçmeye Dayalı Olmayan) Teknikler",
-            "source": "Auzef İlk Okula Hazırlık Final Deneme Sınavı-8",
-            "sourceInfo": "Soru 18, 6"
+            "sourceInfo": "Soru 1, 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
             "id": 7006,
@@ -1409,279 +1535,28 @@
             "unit": 7,
             "topic": "7.3.7. Anket",
             "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
-            "sourceInfo": "Soru 1"
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
         },
         {
-            "id": 7007,
-            "question": "İlkokula hazırlıkta bireysel değerlendirme araçlarının avantajı nedir?",
+            "id": 7004,
+            "question": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer almaktadır?",
             "options": [
-                "Sınıf düzenini ve disiplini sağlamak",
-                "Öğrencilerin sosyal becerilerini geliştirmek",
-                "Çocukların çok yönlü gelişim özelliklerini kapsamlı olarak analiz etmek",
-                "Çocukların sadece akademik performansını değerlendirmek",
-                "Okulun fiziki koşullarını iyileştirmek"
+                "İlkokula hazırbulunuşluk ölçeği",
+                "Marmara ilköğretime hazırbulunuşluk ölçeği",
+                "Mülakat ve anketler",
+                "Erken okuryazarlık becerilerini değerlendirme",
+                "Metropolitan okul olgunluğu testi"
             ],
             "correctIndex": 2,
-            "explanation": "İlkokula hazırbulunuşluk sürecinde bireysel değerlendirme araçlarının kullanılması, çocukların <b>çok yönlü gelişim özelliklerini kapsamlı olarak analiz etmeye</b> olanak tanır.",
-            "unit": 7,
-            "topic": "7.4. Test (Ölçmeye Dayalı) Teknikler",
-            "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
-            "sourceInfo": "Soru 18"
-        },
-        {
-            "id": 7008,
-            "question": "İlkokula hazırbulunuşluk değerlendirme sürecinde hangi faktörler dikkate alınmalıdır?",
-            "options": [
-                "Akademik başarısı ve öğretmen görüşü, özel eğitim gereksinimi",
-                "Ailesinin ekonomik durumu, akademik başarısı ve öğretmen görüşü",
-                "Çocuğun yaşı, özel eğitim gereksinimi, sosyal, psikolojik ve akademik durumu",
-                "Okulun fiziki şartları, sosyal, psikolojik ve akademik durumu",
-                "Çocuğun yaşı ve fiziksel gelişimi, özel eğitim gereksinimi"
-            ],
-            "correctIndex": 2,
-            "explanation": "İlkokula hazırbulunuşluğun değerlendirilmesi sürecinde <b>çocuğun yaşı, özel eğitim gereksinimi olup olmaması, sosyal, psikolojik ve akademik açıdan hazır oluşu</b> gibi çok yönlü faktörler dikkate alınmalıdır.",
-            "unit": 7,
-            "topic": "7.4. Test (Ölçmeye Dayalı) Teknikler",
-            "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
-            "sourceInfo": "Soru 14, 15"
-        },
-        {
-            "id": 7009,
-            "question": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden “olgunlaşmanın” içinde yer <u>almamaktadır</u>?",
-            "options": [
-                "Öz bakım becerileri",
-                "Okuma-yazma becerileri",
-                "Bedensel gelişim",
-                "Kağıt kesebilme becerileri",
-                "İnce ve kalın kas kullanma becerileri"
-            ],
-            "correctIndex": 1,
-            "explanation": "Olgunlaşma, bedensel gelişim, öz bakım becerileri ve motor beceriler (kağıt kesebilme, ince ve kalın kas kullanımı) gibi gelişimsel özellikleri içerir. <b>Okuma-yazma becerileri</b> ise olgunlaşmanın bir çıktısı olmakla birlikte, temel gelişimsel özelliklerden 'olgunlaşmanın' içinde doğrudan <u>yer almamaktadır</u>.",
-            "unit": 7,
-            "topic": "7.4. Test (Ölçmeye Dayalı) Teknikler",
-            "source": "İlkokula Hazırlık Deneme Sınavı",
-            "sourceInfo": "Soru 16"
-        },
-        {
-            "id": 8001,
-            "question": "Aşağıdakilerden hangisi Parten (1932) tarafından sınıflandırılan gelişimsel oyun çeşitleri arasında yer <u>almamaktadır</u>?",
-            "options": [
-                "İş birliğine dayalı oyun",
-                "Tasarımsal oyun",
-                "Paralel oyun",
-                "İlişkisel oyun",
-                "Yalnız oyun"
-            ],
-            "correctIndex": 1,
-            "explanation": "Parten’ın (1932) gelişimsel oyun çeşitleri; Yalnız oyun, Paralel oyun, İlişkisel oyun ve İş birliğine dayalı oyundur. <b>Tasarımsal oyun</b> (Yapılandırılmış oyun), Parten’ın sınıflandırmasında <u>yer almamaktadır</u>.",
-            "unit": 8,
-            "topic": "8.2. Oyun Çeşitleri",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 1"
-        },
-        {
-            "id": 8002,
-            "question": "Aşağıdakilerden hangisi Piaget (1962) tarafından sınıflandırılan gelişimsel oyunlardan biri <u>değildir</u>?",
-            "options": [
-                "İşlevsel oyunlar",
-                "Yapı inşa oyunları",
-                "Sembolik oyunlar",
-                "Kurallı oyunlar",
-                "-Mış gibi oyun"
-            ],
-            "correctIndex": 4,
-            "explanation": "Piaget'in (1962) gelişimsel oyun çeşitleri; İşlevsel oyunlar, Yapı-inşa oyunları, Sembolik oyunlar ve Kurallı oyunlardır. <b>-Mış gibi oyun</b> ifadesi, Sembolik oyunlar içinde yer alsa da, Piaget’in temel kategorilerinden biri <u>değildir</u>.",
-            "unit": 8,
-            "topic": "8.2. Oyun Çeşitleri",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 2"
-        },
-        {
-            "id": 8003,
-            "question": "Aşağıdakilerden hangisi Rubin, Fein ve Vanderbeg tarafından sınıflandırılan oyunlardan biridir?",
-            "options": [
-                "Yapılandırılmış oyun",
-                "Kurallı oyun",
-                "Epistemik oyun",
-                "Oyuncu oyun",
-                "İş birliğine dayalı oyun"
-            ],
-            "correctIndex": 0,
-            "explanation": "Rubin, Fein ve Vanderbeg’in gelişimsel oyun çeşitleri arasında İşlevsel oyun, <b>Yapılandırılmış oyun</b> ve -Mış gibi oyun yer almaktadır.",
-            "unit": 8,
-            "topic": "8.2. Oyun Çeşitleri",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 3"
-        },
-        {
-            "id": 8004,
-            "question": "Aşağıdakilerden hangisi çocuğun ilkokula hazır oluşunda öğrenmesini gerçekleştirirken oyunun önemine ilişkin doğru bir bilgi <u>vermemektedir</u>?",
-            "options": [
-                "Sosyo-ekonomik becerileri oyunla ilişkilendirir.",
-                "Duygusal becerileri oyunla ilişkilendirir.",
-                "Bilişsel becerileri oyunla ilişkilendirir.",
-                "Gerçek yaşam becerilerini oyunla ilişkilendirir.",
-                "Motor becerilerini oyunla ilişkilendirir."
-            ],
-            "correctIndex": 0,
-            "explanation": "Oyun, çocuğun duygusal, bilişsel, motor ve gerçek yaşam (sosyal) becerilerini geliştirmesine yardımcı olur. <b>Sosyo-ekonomik becerileri oyunla ilişkilendirme</b>, oyunun doğrudan önemine ilişkin bir bilgi <u>değildir</u>.",
-            "unit": 8,
-            "topic": "8.1. İlkokula Hazırlıkta Oyun",
-            "source": "Mezuniyet/Bütünleme Soruları",
-            "sourceInfo": "Soru 1, 16"
-        },
-        {
-            "id": 8005,
-            "question": "Aşağıdakilerden hangisi ilkokula hazır bulunuşlukta kullanılabilecek oyunlardan yapılarına göre sınıflandırılan oyun türlerinden biri <u>değildir</u>?",
-            "options": [
-                "Hayali oyun",
-                "Sosyo-dramatik oyun",
-                "Grup oyunları",
-                "Açık hava oyunları",
-                "Dijital oyunlar"
-            ],
-            "correctIndex": 3,
-            "explanation": "Yapılarına göre oyun türleri; Hayali, Sosyo-dramatik, Grup ve Dijital oyunlardır. <b>Açık hava oyunları</b>, oynandığı yere göre oyun türleri arasında yer alır.",
-            "unit": 8,
-            "topic": "8.3.1. Yapılarına Göre Oyun Türleri",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 4"
-        },
-        {
-            "id": 8006,
-            "question": "Aşağıdakilerden hangisi sınıflandırmasına göre bakıldığında “açık hava-kapalı alan” oyun türlerinin genel adıdır?",
-            "options": [
-                "Yapılarına göre",
-                "Hareketlilik derecesine göre",
-                "Oynandığı yere göre",
-                "Duygu derecesine göre",
-                "İçeriğine göre"
-            ],
-            "correctIndex": 2,
-            "explanation": "Oyun türleri, temel olarak yapılarına, oynandığı yere, içeriğine ve hareketlilik derecesine göre sınıflandırılmıştır. <b>Açık hava oyunları ve kapalı alan oyunları</b>, <b>Oynandığı yere göre</b> oyunlar sınıflandırmasına aittir.",
-            "unit": 8,
-            "topic": "8.3.2. Oynandığı Yere Göre Oyunlar",
-            "source": "Mezuniyet/Bütünleme Soruları",
-            "sourceInfo": "Soru 5, 13"
-        },
-        {
-            "id": 8007,
-            "question": "Aşağıdaki seçeneklerden hangisinde “Ünsal’ın” sınıflamasını yaptığı “içeriğine göre oyun türleri” bir arada ve doğru şekilde verilmiştir?",
-            "options": [
-                "Dijital, müzikli, grup oyunları",
-                "Müzikli, açık hava oyunları, kapalı hava oyunları",
-                "Riskli, müzikli, parmak oyunları",
-                "Isındırıcı, müzikli, dinlendirici",
-                "Riskli, açık hava oyunları, kapa hava oyunları"
-            ],
-            "correctIndex": 2,
-            "explanation": "İlkokula hazırbulunuşlukta oyun türleri sınıflandırılırken, <b>İçeriğine göre oyun türleri</b>; <b>Riskli oyunlar, Müzikli oyunlar ve Parmak oyunları</b> şeklinde sıralanmıştır.",
-            "unit": 8,
-            "topic": "8.3.3. İçeriğine Göre Oyun Türleri",
-            "source": "Final Deneme Sınavları",
-            "sourceInfo": "Soru 12, 1"
-        },
-        {
-            "id": 8008,
-            "question": "“Isıtıcı, Hareketli ve Dinlendirici oyun” şeklinde sınıflandırılan oyunlar aşağıdakilerden hangi türe girmektedir?",
-            "options": [
-                "Hareketlilik derecesine göre oyunlar",
-                "İçeriğine göre oyunlar",
-                "Yapılarına göre oyunlar",
-                "Oynandığı yere göre oyunlar",
-                "Oyunu ortaya koyan kişiye göre oyunlar"
-            ],
-            "correctIndex": 0,
-            "explanation": "<b>Isıtıcı oyun, hareketli oyun ve dinlendirici oyun</b>, <b>Hareketlilik derecesine göre oyunlar</b> şeklinde sınıflandırılmıştır.",
-            "unit": 8,
-            "topic": "8.3.4. Hareketlilik Derecesine Göre Oyunlar",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 5"
-        },
-        {
-            "id": 8009,
-            "question": "Aşağıdakilerden hangisi ilkokul hazırlıkta okul öncesinde bulunan öğrenme merkezleri arasında <u>yer almaz</u>?",
-            "options": [
-                "Dramatik oyun merkezi",
-                "Sanat merkezi",
-                "Psikoloji merkezi",
-                "Açık hava oyun alanları",
-                "Fen merkezi"
-            ],
-            "correctIndex": 2,
-            "explanation": "Okul öncesi eğitim programında yer alan öğrenme merkezleri arasında Blok, Dramatik Oyun, Sanat, Kitap, Fen ve Müzik merkezleri ile Açık Hava Oyun Alanları yer almaktadır. <b>Psikoloji merkezi</b>, öğrenme merkezleri arasında <u>yer almaz</u>.",
-            "unit": 8,
-            "topic": "8.4. İlkokula Hazırlık Oyun Materyalleri",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 6"
-        },
-        {
-            "id": 8010,
-            "question": "Aşağıdakilerden hangisi “Türkçe ve Okuma-Yazmaya Hazırlık” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?",
-            "options": [
-                "Dili iletişim amacıyla kullanır.",
-                "Hece ve kelimeleri öğrenir.",
-                "Okumanın günlük yaşamdaki önemini açıklar.",
-                "Yazının günlük yaşamdaki önemini açıklar.",
-                "Konuşmak için sırasını bekler."
-            ],
-            "correctIndex": 1,
-            "explanation": "Okul öncesi eğitim programında ilkokula hazırlık çalışmaları okuma veya yazma öğretmek amacını taşımaz. Bu etkinlikler dil becerileri (Konuşmak için sırasını bekler), Okuma farkındalığı (Okumanın önemini açıklar) ve Yazı farkındalığı (Yazının önemini açıklar) kazanımlarını içerir. <b>Hece ve kelimeleri öğrenmek</b>, bu kazanımlardan biri <u>değildir</u>.",
-            "unit": 8,
-            "topic": "8.6.1. Erken Okuryazarlık Becerilerini Desteklemeye Yönelik Etkinlikler",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 8"
-        },
-        {
-            "id": 8011,
-            "question": "Aşağıdakilerden hangisi “sanat, okumaya hazırlık ve görsel materyal okuma” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?",
-            "options": [
-                "Algıladıklarını hatırlar.",
-                "Günlük yaşam sembollerini tanır.",
-                "Görsel materyalleri okur.",
-                "Eksilen veya eklenen nesneyi söyler.",
-                "Gösterilen sembolün anlamını söyler."
-            ],
-            "correctIndex": 3,
-            "explanation": "Sanat, okumaya hazırlık ve görsel materyal okuma etkinlikleri Bilişsel Gelişim kapsamında Algıladıklarını hatırlar (Kazanım 3), Günlük yaşam sembollerini tanır ve Görsel materyalleri okur (Kazanım 10) gibi kazanımları kullanır. <b>Eksilen veya eklenen nesneyi söyleme</b>, matematiksel beceri kazanımıdır ve bu etkinliklerin doğrudan kazanımı <u>değildir</u>.",
-            "unit": 8,
-            "topic": "8.6.1. Erken Okuryazarlık Becerilerini Desteklemeye Yönelik Etkinlikler",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 7"
-        },
-        {
-            "id": 8012,
-            "question": "Aşağıdakilerden hangisi “Matematik” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?",
-            "options": [
-                "Eksilen veya eklenen nesneyi söyler.",
-                "Nesneleri sayar.",
-                "Belirtilen sayı kadar nesneyi söyler.",
-                "Saydığı nesnelerin kaç tane olduğunu söyler.",
-                "Nesneleri birbiriyle toplar ve çıkarma yapar."
-            ],
-            "correctIndex": 4,
-            "explanation": "Okul öncesi matematik etkinlikleri sayma, nesne miktarını söyleme ve eksilen/eklenen nesneyi söyleme gibi kazanımlara odaklanır. Ancak, <b>Nesneleri birbiriyle toplar ve çıkarma yapar</b> ifadesi, okul öncesi dönem için ileri düzey matematiksel bir işlem olup bu kazanımlar arasında <u>yer almaz</u>.",
-            "unit": 8,
-            "topic": "8.6.1. Erken Okuryazarlık Becerilerini Desteklemeye Yönelik Etkinlikler",
-            "source": "Ders Kitabı Bölüm Soruları",
-            "sourceInfo": "Soru 9"
-        },
-        {
-            "id": 8013,
-            "question": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında <u>yer alamaz</u>?",
-            "options": [
-                "Gözlem",
-                "Özellik/ kayıt çizelgesi",
-                "Olay/ vaka kaydı",
-                "Mülakat",
-                "Ölçekler"
-            ],
-            "correctIndex": 4,
-            "explanation": "Test dışı (ölçmeye dayalı olmayan) teknikler arasında gözlem, olay/vaka kaydı, özellik-kayıt çizelgesi ve mülakatlar yer alır. <b>Ölçekler</b> (Derecelendirme ölçeği hariç standart testler), ölçmeye dayalı teknikler arasında yer alır.",
+            "explanation": "İlkokula hazırbulunuşluk değerlendirilmesinde kullanılan Test Dışı (Ölçmeye Dayalı Olmayan) teknikler arasında Gözlem, Gözlem Listeleri, Olay/Vaka Kaydı, Derecelendirme Ölçekleri, Oyun Teknikleri, Anket ve <b>Mülakat</b> yer alır. Bu nedenle <b>Mülakat ve anketler</b> Test Dışı Tekniklerdir.",
             "unit": 7,
             "topic": "7.3. Test Dışı (Ölçmeye Dayalı Olmayan) Teknikler",
-            "source": "Final Deneme Sınavı",
-            "sourceInfo": "Soru 6"
+            "source": "Auzef İlk Okula Hazırlık Final Deneme Sınavı-7",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 3,
+            "is_duplicate": false
         },
         {
             "id": 8014,
@@ -1698,7 +1573,256 @@
             "unit": 7,
             "topic": "7.3. Test Dışı (Ölçmeye Dayalı Olmayan) Teknikler",
             "source": "Bütünleme Soruları",
-            "sourceInfo": "Soru 15"
+            "sourceInfo": "Soru 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7007,
+            "question": "İlkokula hazırlıkta bireysel değerlendirme araçlarının avantajı nedir?",
+            "options": [
+                "Sınıf düzenini ve disiplini sağlamak",
+                "Öğrencilerin sosyal becerilerini geliştirmek",
+                "Çocukların çok yönlü gelişim özelliklerini kapsamlı olarak analiz etmek",
+                "Çocukların sadece akademik performansını değerlendirmek",
+                "Okulun fiziki koşullarını iyileştirmek"
+            ],
+            "correctIndex": 2,
+            "explanation": "İlkokula hazırbulunuşluk sürecinde bireysel değerlendirme araçlarının kullanılması, çocukların <b>çok yönlü gelişim özelliklerini kapsamlı olarak analiz etmeye</b> olanak tanır.",
+            "unit": 7,
+            "topic": "7.4. Test (Ölçmeye Dayalı) Teknikler",
+            "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
+            "sourceInfo": "Soru 18",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7008,
+            "question": "İlkokula hazırbulunuşluk değerlendirme sürecinde hangi faktörler dikkate alınmalıdır?",
+            "options": [
+                "Akademik başarısı ve öğretmen görüşü, özel eğitim gereksinimi",
+                "Ailesinin ekonomik durumu, akademik başarısı ve öğretmen görüşü",
+                "Çocuğun yaşı, özel eğitim gereksinimi, sosyal, psikolojik ve akademik durumu",
+                "Okulun fiziki şartları, sosyal, psikolojik ve akademik durumu",
+                "Çocuğun yaşı ve fiziksel gelişimi, özel eğitim gereksinimi"
+            ],
+            "correctIndex": 2,
+            "explanation": "İlkokula hazırbulunuşluğun değerlendirilmesi sürecinde <b>çocuğun yaşı, özel eğitim gereksinimi olup olmaması, sosyal, psikolojik ve akademik açıdan hazır oluşu</b> gibi çok yönlü faktörler dikkate alınmalıdır.",
+            "unit": 7,
+            "topic": "7.4. Test (Ölçmeye Dayalı) Teknikler",
+            "source": "İlkokula Hazırlık 2024-2025 Final Soruları",
+            "sourceInfo": "Soru 14, 15",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 7009,
+            "question": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden “olgunlaşmanın” içinde yer <u>almamaktadır</u>?",
+            "options": [
+                "Öz bakım becerileri",
+                "Okuma-yazma becerileri",
+                "Bedensel gelişim",
+                "Kağıt kesebilme becerileri",
+                "İnce ve kalın kas kullanma becerileri"
+            ],
+            "correctIndex": 1,
+            "explanation": "Olgunlaşma, bedensel gelişim, öz bakım becerileri ve motor beceriler (kağıt kesebilme, ince ve kalın kas kullanımı) gibi gelişimsel özellikleri içerir. <b>Okuma-yazma becerileri</b> ise olgunlaşmanın bir çıktısı olmakla birlikte, temel gelişimsel özelliklerden 'olgunlaşmanın' içinde doğrudan <u>yer almamaktadır</u>.",
+            "unit": 7,
+            "topic": "7.4. Test (Ölçmeye Dayalı) Teknikler",
+            "source": "İlkokula Hazırlık Deneme Sınavı",
+            "sourceInfo": "Soru 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8004,
+            "question": "Aşağıdakilerden hangisi çocuğun ilkokula hazır oluşunda öğrenmesini gerçekleştirirken oyunun önemine ilişkin doğru bir bilgi <u>vermemektedir</u>?",
+            "options": [
+                "Sosyo-ekonomik becerileri oyunla ilişkilendirir.",
+                "Duygusal becerileri oyunla ilişkilendirir.",
+                "Bilişsel becerileri oyunla ilişkilendirir.",
+                "Gerçek yaşam becerilerini oyunla ilişkilendirir.",
+                "Motor becerilerini oyunla ilişkilendirir."
+            ],
+            "correctIndex": 0,
+            "explanation": "Oyun, çocuğun duygusal, bilişsel, motor ve gerçek yaşam (sosyal) becerilerini geliştirmesine yardımcı olur. <b>Sosyo-ekonomik becerileri oyunla ilişkilendirme</b>, oyunun doğrudan önemine ilişkin bir bilgi <u>değildir</u>.",
+            "unit": 8,
+            "topic": "8.1. İlkokula Hazırlıkta Oyun",
+            "source": "Mezuniyet/Bütünleme Soruları",
+            "sourceInfo": "Soru 1, 16",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8001,
+            "question": "Aşağıdakilerden hangisi Parten (1932) tarafından sınıflandırılan gelişimsel oyun çeşitleri arasında yer <u>almamaktadır</u>?",
+            "options": [
+                "İş birliğine dayalı oyun",
+                "Tasarımsal oyun",
+                "Paralel oyun",
+                "İlişkisel oyun",
+                "Yalnız oyun"
+            ],
+            "correctIndex": 1,
+            "explanation": "Parten’ın (1932) gelişimsel oyun çeşitleri; Yalnız oyun, Paralel oyun, İlişkisel oyun ve İş birliğine dayalı oyundur. <b>Tasarımsal oyun</b> (Yapılandırılmış oyun), Parten’ın sınıflandırmasında <u>yer almamaktadır</u>.",
+            "unit": 8,
+            "topic": "8.2. Oyun Çeşitleri",
+            "source": "Ders Kitabı Bölüm Soruları",
+            "sourceInfo": "Soru 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8002,
+            "question": "Aşağıdakilerden hangisi Piaget (1962) tarafından sınıflandırılan gelişimsel oyunlardan biri <u>değildir</u>?",
+            "options": [
+                "İşlevsel oyunlar",
+                "Yapı inşa oyunları",
+                "Sembolik oyunlar",
+                "Kurallı oyunlar",
+                "-Mış gibi oyun"
+            ],
+            "correctIndex": 4,
+            "explanation": "Piaget'in (1962) gelişimsel oyun çeşitleri; İşlevsel oyunlar, Yapı-inşa oyunları, Sembolik oyunlar ve Kurallı oyunlardır. <b>-Mış gibi oyun</b> ifadesi, Sembolik oyunlar içinde yer alsa da, Piaget’in temel kategorilerinden biri <u>değildir</u>.",
+            "unit": 8,
+            "topic": "8.2. Oyun Çeşitleri",
+            "source": "Ders Kitabı Bölüm Soruları",
+            "sourceInfo": "Soru 2",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8003,
+            "question": "Aşağıdakilerden hangisi Rubin, Fein ve Vanderbeg tarafından sınıflandırılan oyunlardan biridir?",
+            "options": [
+                "Yapılandırılmış oyun",
+                "Kurallı oyun",
+                "Epistemik oyun",
+                "Oyuncu oyun",
+                "İş birliğine dayalı oyun"
+            ],
+            "correctIndex": 0,
+            "explanation": "Rubin, Fein ve Vanderbeg’in gelişimsel oyun çeşitleri arasında İşlevsel oyun, <b>Yapılandırılmış oyun</b> ve -Mış gibi oyun yer almaktadır.",
+            "unit": 8,
+            "topic": "8.2. Oyun Çeşitleri",
+            "source": "Ders Kitabı Bölüm Soruları",
+            "sourceInfo": "Soru 3",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8005,
+            "question": "Aşağıdakilerden hangisi ilkokula hazır bulunuşlukta kullanılabilecek oyunlardan yapılarına göre sınıflandırılan oyun türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Hayali oyun",
+                "Sosyo-dramatik oyun",
+                "Grup oyunları",
+                "Açık hava oyunları",
+                "Dijital oyunlar"
+            ],
+            "correctIndex": 3,
+            "explanation": "Yapılarına göre oyun türleri; Hayali, Sosyo-dramatik, Grup ve Dijital oyunlardır. <b>Açık hava oyunları</b>, oynandığı yere göre oyun türleri arasında yer alır.",
+            "unit": 8,
+            "topic": "8.3.1. Yapılarına Göre Oyun Türleri",
+            "source": "Ders Kitabı Bölüm Soruları",
+            "sourceInfo": "Soru 4",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8006,
+            "question": "Aşağıdakilerden hangisi sınıflandırmasına göre bakıldığında “açık hava-kapalı alan” oyun türlerinin genel adıdır?",
+            "options": [
+                "Yapılarına göre",
+                "Hareketlilik derecesine göre",
+                "Oynandığı yere göre",
+                "Duygu derecesine göre",
+                "İçeriğine göre"
+            ],
+            "correctIndex": 2,
+            "explanation": "Oyun türleri, temel olarak yapılarına, oynandığı yere, içeriğine ve hareketlilik derecesine göre sınıflandırılmıştır. <b>Açık hava oyunları ve kapalı alan oyunları</b>, <b>Oynandığı yere göre</b> oyunlar sınıflandırmasına aittir.",
+            "unit": 8,
+            "topic": "8.3.2. Oynandığı Yere Göre Oyunlar",
+            "source": "Mezuniyet/Bütünleme Soruları",
+            "sourceInfo": "Soru 5, 13",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8007,
+            "question": "Aşağıdaki seçeneklerden hangisinde “Ünsal’ın” sınıflamasını yaptığı “içeriğine göre oyun türleri” bir arada ve doğru şekilde verilmiştir?",
+            "options": [
+                "Dijital, müzikli, grup oyunları",
+                "Müzikli, açık hava oyunları, kapalı hava oyunları",
+                "Riskli, müzikli, parmak oyunları",
+                "Isındırıcı, müzikli, dinlendirici",
+                "Riskli, açık hava oyunları, kapa hava oyunları"
+            ],
+            "correctIndex": 2,
+            "explanation": "İlkokula hazırbulunuşlukta oyun türleri sınıflandırılırken, <b>İçeriğine göre oyun türleri</b>; <b>Riskli oyunlar, Müzikli oyunlar ve Parmak oyunları</b> şeklinde sıralanmıştır.",
+            "unit": 8,
+            "topic": "8.3.3. İçeriğine Göre Oyun Türleri",
+            "source": "Final Deneme Sınavları",
+            "sourceInfo": "Soru 12, 1",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8008,
+            "question": "“Isıtıcı, Hareketli ve Dinlendirici oyun” şeklinde sınıflandırılan oyunlar aşağıdakilerden hangi türe girmektedir?",
+            "options": [
+                "Hareketlilik derecesine göre oyunlar",
+                "İçeriğine göre oyunlar",
+                "Yapılarına göre oyunlar",
+                "Oynandığı yere göre oyunlar",
+                "Oyunu ortaya koyan kişiye göre oyunlar"
+            ],
+            "correctIndex": 0,
+            "explanation": "<b>Isıtıcı oyun, hareketli oyun ve dinlendirici oyun</b>, <b>Hareketlilik derecesine göre oyunlar</b> şeklinde sınıflandırılmıştır.",
+            "unit": 8,
+            "topic": "8.3.4. Hareketlilik Derecesine Göre Oyunlar",
+            "source": "Ders Kitabı Bölüm Soruları",
+            "sourceInfo": "Soru 5",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8009,
+            "question": "Aşağıdakilerden hangisi ilkokul hazırlıkta okul öncesinde bulunan öğrenme merkezleri arasında <u>yer almaz</u>?",
+            "options": [
+                "Dramatik oyun merkezi",
+                "Sanat merkezi",
+                "Psikoloji merkezi",
+                "Açık hava oyun alanları",
+                "Fen merkezi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Okul öncesi eğitim programında yer alan öğrenme merkezleri arasında Blok, Dramatik Oyun, Sanat, Kitap, Fen ve Müzik merkezleri ile Açık Hava Oyun Alanları yer almaktadır. <b>Psikoloji merkezi</b>, öğrenme merkezleri arasında <u>yer almaz</u>.",
+            "unit": 8,
+            "topic": "8.4. İlkokula Hazırlık Oyun Materyalleri",
+            "source": "Ders Kitabı Bölüm Soruları",
+            "sourceInfo": "Soru 6",
+            "occurrence_count": 1,
+            "is_duplicate": false
+        },
+        {
+            "id": 8012,
+            "question": "Aşağıdakilerden hangisi “Matematik” etkinlikleri hazırlanırken kullanılan kazanımlardan biri <u>değildir</u>?",
+            "options": [
+                "Eksilen veya eklenen nesneyi söyler.",
+                "Nesneleri sayar.",
+                "Belirtilen sayı kadar nesneyi söyler.",
+                "Saydığı nesnelerin kaç tane olduğunu söyler.",
+                "Nesneleri birbiriyle toplar ve çıkarma yapar."
+            ],
+            "correctIndex": 4,
+            "explanation": "Okul öncesi matematik etkinlikleri sayma, nesne miktarını söyleme ve eksilen/eklenen nesneyi söyleme gibi kazanımlara odaklanır. Ancak, <b>Nesneleri birbiriyle toplar ve çıkarma yapar</b> ifadesi, okul öncesi dönem için ileri düzey matematiksel bir işlem olup bu kazanımlar arasında <u>yer almaz</u>.",
+            "unit": 8,
+            "topic": "8.6.1. Erken Okuryazarlık Becerilerini Desteklemeye Yönelik Etkinlikler",
+            "source": "Ders Kitabı Bölüm Soruları",
+            "sourceInfo": "Soru 9",
+            "occurrence_count": 1,
+            "is_duplicate": false
         }
     ],
     "meta": {
