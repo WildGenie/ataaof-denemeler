@@ -1,7 +1,9 @@
-
 import os
 
-target_dir = "/Users/wildgenie/Projects/ataaof-denemeler/output/Auzef/json"
+# Determine the project root directory
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+AUZEF_DIR = os.path.join(BASE_DIR, 'output', 'Auzef')
+target_dir = os.path.join(AUZEF_DIR, 'json')
 
 for root, dirs, files in os.walk(target_dir):
     for file in files:

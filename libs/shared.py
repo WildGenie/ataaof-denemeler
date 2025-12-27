@@ -1,11 +1,26 @@
 import re
 import html
-import markdownify
-from bs4 import BeautifulSoup
+try:
+    import markdownify
+    HAS_MARKDOWNIFY = True
+except ImportError:
+    HAS_MARKDOWNIFY = False
+try:
+    from bs4 import BeautifulSoup
+    HAS_BEAUTIFULSOUP = True
+except ImportError:
+    HAS_BEAUTIFULSOUP = False
 
 def clean_html(text):
     if not text:
         return ""
+
+    # Decode entities
+    text = html.unescape(text)
+
+    if not HAS_BEAUTIFULSOUP:
+        # Fallback: Just return unescaped text without stripping tags
+        return text.strip()
 
     # Decode entities first
     text = html.unescape(text)
@@ -37,17 +52,18 @@ def clean_html(text):
     for tag in soup.find_all('font'):
         tag.unwrap()
 
-    # 4. Strip attributes from strict tags
-    strict_tags = ['strong', 'b', 'i', 'em', 'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'ul', 'li', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre', 'sup', 'sub', 'br']
+    # 4. Strip attributes from strict tags (preserving formatting)
+    strict_tags = ['strong', 'b', 'i', 'em', 'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'ul', 'li', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre', 'sup', 'sub', 'br', 'ins']
     for tag_name in strict_tags:
         for tag in soup.find_all(tag_name):
             tag.attrs = {}
 
-    # 5. Smart strip for ol, p, u, span
+    # 5. Smart strip for ol, p, u, span, ins
     allowed_attrs = {
         'ol': ['type', 'start', 'style'],
         'p': ['style'],
         'u': ['style'],
+        'ins': ['style'],
         'span': ['style']
     }
     for tag_name, allowed in allowed_attrs.items():
@@ -64,49 +80,71 @@ def clean_html(text):
             if not tag.find(['img', 'br', 'a']):
                 tag.decompose()
 
-    # 7. Convert <p> tags to <br>
-    for p in soup.find_all('p'):
-        p.append(soup.new_tag('br'))
-        p.unwrap()
+    # 7. Unwrap p and div tags (they often cause line breaks)
+    for tag in soup.find_all(['p', 'div']):
+        # If the tag has content, ensure it has a newline after it
+        if tag.get_text(strip=True):
+            tag.insert_after(soup.new_string("\n"))
+        tag.unwrap()
 
     # Get string
-    cleaned_text = str(soup).strip()
+    cleaned_text = soup.decode_contents().strip()
 
-    # Collapse multiple spaces
+    # Collapse multiple spaces and remove isPasted markers
+    cleaned_text = cleaned_text.replace('id="isPasted"', '')
     cleaned_text = re.sub(r'[ \t]+', ' ', cleaned_text)
 
-    # Collapse multiple <br> tags
+    # Remove empty tags again after unwrapping (often leaves <b></b> etc)
+    cleaned_text = re.sub(r'<([a-z0-9]+)[^>]*>\s*</\1>', '', cleaned_text, flags=re.IGNORECASE)
+
+    # Collapse multiple newlines/br tags
+    cleaned_text = re.sub(r'\n+', '\n', cleaned_text)
     cleaned_text = re.sub(r'(<br\b[^>]*>\s*)+', '<br/>', cleaned_text, flags=re.IGNORECASE)
 
-    # 8. Remove trailing <br> tags
-    cleaned_text = re.sub(r'\s*<br\b[^>]*>\s*$', '', cleaned_text, flags=re.IGNORECASE)
+    # Remove leading/trailing line breaks (avoid stripping < and > from tags)
+    # Use negative lookahead to ensure we don't match < followed by a tag name
+    cleaned_text = re.sub(r'^(\s|\n|<br\b[^>]*>)+(?!<[a-z])', '', cleaned_text, flags=re.IGNORECASE)
+    cleaned_text = re.sub(r'(?<![a-z/])(\s|\n|<br\b[^>]*>)+$', '', cleaned_text, flags=re.IGNORECASE)
 
-    return cleaned_text
+    return cleaned_text.strip()
 
-class HTMLPreservingConverter(markdownify.MarkdownConverter):
-    def convert_sup(self, el, text, parent_tags=None):
-        return str(el)
-    def convert_sub(self, el, text, parent_tags=None):
-        return str(el)
-    def convert_u(self, el, text, parent_tags=None):
-        return str(el)
-    def convert_b(self, el, text, parent_tags=None):
-        return str(el)
-    def convert_i(self, el, text, parent_tags=None):
-        return str(el)
-    def convert_em(self, el, text, parent_tags=None):
-        return str(el)
-    def convert_strong(self, el, text, parent_tags=None):
-        return str(el)
+if HAS_MARKDOWNIFY:
+    class HTMLPreservingConverter(markdownify.MarkdownConverter):
+        def convert_sup(self, el, text, parent_tags=None):
+            return str(el)
+        def convert_sub(self, el, text, parent_tags=None):
+            return str(el)
+        def convert_u(self, el, text, parent_tags=None):
+            return str(el)
+        def convert_b(self, el, text, parent_tags=None):
+            return str(el)
+        def convert_i(self, el, text, parent_tags=None):
+            return str(el)
+        def convert_em(self, el, text, parent_tags=None):
+            return str(el)
+        def convert_strong(self, el, text, parent_tags=None):
+            return str(el)
+        def convert_ins(self, el, text, parent_tags=None):
+            return str(el)
+else:
+    class HTMLPreservingConverter:
+        def convert(self, text):
+            # Fallback: Return original text with minor cleanups
+            return text
 
 def safe_html_to_markdown(text):
     if not text: return ""
 
     # Pre-process text to replace <br> with newlines before markdownify
-    text = re.sub(r'<br\b[^>]*>', '\n', text, flags=re.IGNORECASE)
+    # Strip spaces around br tags to avoid " ? <br />" artifacts
+    text = re.sub(r'\s*<br\b[^>]*>\s*', '\n', text, flags=re.IGNORECASE)
     text = re.sub(r'</br>', '', text, flags=re.IGNORECASE)
 
-    converter = HTMLPreservingConverter(autolinks=False)
+    if HAS_MARKDOWNIFY:
+        converter = HTMLPreservingConverter(autolinks=False)
+    else:
+        converter = HTMLPreservingConverter()
+
     converted = converter.convert(text).strip()
 
     # Escape dots after numbers at the start of a line to prevent markdown list parsing
@@ -130,6 +168,9 @@ def safe_html_to_markdown(text):
     converted = converted.replace(r'\*\*', '**').replace(r'\*', '*')
     converted = converted.replace(r'\_', '_')
     converted = converted.replace(r'\.', '.')
+
+    # Strip trailing spaces from each line to prevent " <br />" artifacts later
+    converted = re.sub(r' +$', '', converted, flags=re.MULTILINE)
 
     return converted
 

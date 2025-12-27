@@ -1,9 +1,260 @@
 [
     {
+        "donem": 1,
+        "dersler": [
+            {
+                "dersAdi": "Anatomi",
+                "id": "839754",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Auzef - Dönem 1 - Anatomi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi I",
+                "id": "839747",
+                "sources": []
+            },
+            {
+                "dersAdi": "Bilimsel Araştırma Teknikleri",
+                "id": "839751",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Auzef - Dönem 1 - Bilimsel Araştırma Teknikleri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Psikoloji",
+                "id": "839750",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Auzef - Dönem 1 - Psikoloji - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Sosyolojiye Giriş",
+                "id": "839752",
+                "sources": []
+            },
+            {
+                "dersAdi": "Türk Dili I",
+                "id": "839746",
+                "sources": []
+            },
+            {
+                "dersAdi": "Yabancı Dil I",
+                "id": "839748",
+                "sources": []
+            },
+            {
+                "dersAdi": "Yabancı Öğrenciler İçin Atatürk İlkeleri ve İnkılap Tarihi I",
+                "id": "839756",
+                "sources": []
+            },
+            {
+                "dersAdi": "Yabancı Öğrenciler İçin Türk Dili I",
+                "id": "839755",
+                "sources": []
+            }
+        ]
+    },
+    {
+        "donem": 2,
+        "dersler": [
+            {
+                "dersAdi": "Anne-Çocuk Beslenmesi",
+                "id": "839782",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Auzef - Dönem 2 - Anne-Çocuk Beslenmesi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi II",
+                "id": "839773",
+                "sources": []
+            },
+            {
+                "dersAdi": "Gelişim Psikolojisi",
+                "id": "839778",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Auzef - Dönem 2 - Gelişim Psikolojisi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Türk Dili II",
+                "id": "839774",
+                "sources": []
+            },
+            {
+                "dersAdi": "Yabancı Dil II",
+                "id": "839775",
+                "sources": []
+            },
+            {
+                "dersAdi": "Yabancı Öğrenciler İçin Türk Dili II",
+                "id": "839779",
+                "sources": []
+            },
+            {
+                "dersAdi": "Yaşam Becerileri",
+                "id": "839786",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Auzef - Dönem 2 - Yaşam Becerileri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "İstatistik",
+                "id": "839776",
+                "sources": []
+            }
+        ]
+    },
+    {
+        "donem": 3,
+        "dersler": [
+            {
+                "dersAdi": "Anne Çocuk Sağlığı",
+                "id": "839763",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Auzef - Dönem 3 - Anne Çocuk Sağlığı - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Erken Çocukluk Eğitimine Giriş",
+                "id": "839764",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Auzef - Dönem 3 - Erken Çocukluk Eğitimine Giriş - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Fiziksel Büyüme ve Motor Gelişim",
+                "id": "839759",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Auzef - Dönem 3 - Fiziksel Büyüme ve Motor Gelişim - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Oyun ve Oyun Materyalleri",
+                "id": "839758",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Auzef - Dönem 3 - Oyun ve Oyun Materyalleri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuk Edebiyatı",
+                "id": "839753",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Auzef - Dönem 3 - Çocuk Edebiyatı - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Özel Eğitime Giriş",
+                "id": "839749",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Auzef - Dönem 3 - Özel Eğitime Giriş - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 4,
+        "dersler": [
+            {
+                "dersAdi": "Bilişsel ve Dil Gelişimi",
+                "id": "839789",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Auzef - Dönem 4 - Bilişsel ve Dil Gelişimi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Erken Çocukluk Eğitimde Yaklaşımlar ve Programlar",
+                "id": "839788",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Auzef - Dönem 4 - Erken Çocukluk Eğitimde Yaklaşımlar ve Programlar - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Erken Çocukluk Eğitiminde Eğitici Drama",
+                "id": "839796",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Auzef - Dönem 4 - Erken Çocukluk Eğitiminde Eğitici Drama - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Erken Çocuklukta Fen ve Matematik Eğitimi",
+                "id": "839787",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Auzef - Dönem 4 - Erken Çocuklukta Fen ve Matematik Eğitimi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocukluk Döneminde Sanat ve Yaratıcılık",
+                "id": "839790",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Auzef - Dönem 4 - Çocukluk Döneminde Sanat ve Yaratıcılık - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "İlk Yardım",
+                "id": "839780",
+                "sources": []
+            }
+        ]
+    },
+    {
         "donem": 5,
         "dersler": [
             {
                 "dersAdi": "Koruyucu Ruh Sağlığı ve Dayanıklılık",
+                "id": "839767",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -16,7 +267,18 @@
                 ]
             },
             {
+                "dersAdi": "Okul Öncesi Eğitim Programları-I",
+                "id": "839765",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Okul Öncesi Eğitim Programları-I - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
                 "dersAdi": "Psikometrik - Gelişimsel Ölçme ve Değerlendirme",
+                "id": "839768",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -30,6 +292,7 @@
             },
             {
                 "dersAdi": "Sosyal-Duygusal Gelişim",
+                "id": "839761",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -37,12 +300,23 @@
                     },
                     {
                         "name": "Alıştırma Soruları",
-                        "url": "json/Donem 5/Auzef - Dönem 5 - Sosyal-duygusal Gelişim - Alıştırma Soruları.json"
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Sosyal-Duygusal Gelişim - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuk Hakları ve Hukuku",
+                "id": "839760",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Auzef - Dönem 5 - Çocuk Hakları ve Hukuku - Alıştırma Soruları.json"
                     }
                 ]
             },
             {
                 "dersAdi": "Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri",
+                "id": "839766",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -57,10 +331,86 @@
         ]
     },
     {
+        "donem": 6,
+        "dersler": [
+            {
+                "dersAdi": "Ahlaki Gelişim ve Değerler Eğitimi",
+                "id": "839784",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Auzef - Dönem 6 - Ahlaki Gelişim ve Değerler Eğitimi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Aile Danışmanlığı",
+                "id": "839781",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Auzef - Dönem 6 - Aile Danışmanlığı - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Gelişimsel Psikopatoloji",
+                "id": "839795",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Auzef - Dönem 6 - Gelişimsel Psikopatoloji - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Okul Öncesi Eğitim Programları-II",
+                "id": "839791",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Auzef - Dönem 6 - Okul Öncesi Eğitim Programları-II - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuk Gelişimi Araştırmaları",
+                "id": "839783",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Auzef - Dönem 6 - Çocuk Gelişimi Araştırmaları - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuk ve Müzik",
+                "id": "839792",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Auzef - Dönem 6 - Çocuk ve Müzik - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "donem": 7,
         "dersler": [
             {
+                "dersAdi": "Anne Baba Eğitimi",
+                "id": "839757",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Auzef - Dönem 7 - Anne Baba Eğitimi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
                 "dersAdi": "Okul Öncesi Dönemde Duyu Eğitimi",
+                "id": "839769",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -74,6 +424,7 @@
             },
             {
                 "dersAdi": "Oyun ve Oyun Terapisi",
+                "id": "839771",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -87,6 +438,7 @@
             },
             {
                 "dersAdi": "Çocuk Gelişimi Uygulamaları I",
+                "id": "839772",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -100,6 +452,7 @@
             },
             {
                 "dersAdi": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi",
+                "id": "839770",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -113,6 +466,7 @@
             },
             {
                 "dersAdi": "İlkokula Hazırlık",
+                "id": "839762",
                 "sources": [
                     {
                         "name": "Çıkmış Sorular",
@@ -121,6 +475,71 @@
                     {
                         "name": "Alıştırma Soruları",
                         "url": "json/Donem 7/Auzef - Dönem 7 - İlkokula Hazırlık - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 8,
+        "dersler": [
+            {
+                "dersAdi": "Erken Çocukluk Döneminde Yabancı Dil Eğitimi",
+                "id": "839794",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Auzef - Dönem 8 - Erken Çocukluk Döneminde Yabancı Dil Eğitimi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Risk Altında Bulunan Çocuklar ve Eğitimleri",
+                "id": "839785",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Auzef - Dönem 8 - Risk Altında Bulunan Çocuklar ve Eğitimleri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yönetim ve Liderlik",
+                "id": "839777",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Auzef - Dönem 8 - Yönetim ve Liderlik - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuk Gelişimi Stajı",
+                "id": "839799",
+                "sources": []
+            },
+            {
+                "dersAdi": "Çocuk Gelişimi Uygulamaları II",
+                "id": "839797",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Auzef - Dönem 8 - Çocuk Gelişimi Uygulamaları II - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Çocuk Gelişiminde Girişimcilik",
+                "id": "839793",
+                "sources": []
+            },
+            {
+                "dersAdi": "Çocuklukta Beyin Gelişimi",
+                "id": "839798",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Auzef - Dönem 8 - Çocuklukta Beyin Gelişimi - Alıştırma Soruları.json"
                     }
                 ]
             }

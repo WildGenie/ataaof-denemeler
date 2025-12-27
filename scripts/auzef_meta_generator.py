@@ -2,8 +2,12 @@ import json
 import os
 import re
 import shutil
-import shutil
+import sys
 from urllib.parse import quote
+
+# Add project root to sys.path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from libs.shared import safe_html_to_markdown
 
 # Paths
@@ -11,7 +15,7 @@ from libs.shared import safe_html_to_markdown
 AUZEF_ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'output', 'Auzef')
 AUZEF_JSON_DIR = os.path.join(AUZEF_ROOT, 'json')
 AUZEF_SORULAR_DIR = os.path.join(AUZEF_ROOT, 'sorular')
-ANADOLU_INTERAKTIF_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'anadolu', 'interaktif.html')
+ANADOLU_INTERAKTIF_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'output', 'Anadolu', 'interaktif.html')
 
 def load_json_files():
     courses = {} # Key: Term, Value: List of course data
@@ -99,7 +103,7 @@ def generate_dersler_json(courses):
     # Sort terms
     sorted_terms = sorted(courses.keys())
 
-    # Load dersler.json for canonical names if possible
+    # Load dersler.json for canonical names if possible (Legacy)
     canonical_names = {}
     try:
         with open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'auzef', 'dersler.json'), 'r') as f:
@@ -110,39 +114,89 @@ def generate_dersler_json(courses):
     except:
         pass
 
+    # Load Official Curriculum (Generated from parse_curriculum.py)
+    curriculum_map = {} # Key: normalized_lower_name -> {name: OfficialName, term: OfficialTerm}
+    curriculum_courses = []
+    try:
+         with open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'auzef', 'curriculum_courses.json'), 'r', encoding='utf-8') as f:
+             curriculum_courses = json.load(f)
+             for c in curriculum_courses:
+                 # Normalize regex-like for better matching
+                 # Remove spaces, Turkish chars normalization if needed (simple lower for now)
+                 norm_name = c['name'].lower().strip()
+                 curriculum_map[norm_name] = c
+    except Exception as e:
+        print(f"Warning: Could not load curriculum_courses.json: {e}")
+
+    # Helper for normalization
+    def normalize_name(n):
+        return n.lower().strip()
+
+
     for term in sorted_terms:
         term_courses_map = courses[term]
 
         # Consolidate courses with case-insensitive naming
-        consolidated_map = {}
+        # Merging Logic:
+        # 1. Use existing scanned courses.
+        # 2. Add missing curriculum courses for this term.
+
+        # We need a new map that includes everything.
+        final_term_courses = {}
+
+        def fix_course_name(text):
+            words = text.split()
+            res = []
+            for i, w in enumerate(words):
+                if i > 0 and w.lower() in ['ve', 'ile', 'veya', 'de', 'da']:
+                    res.append(w.lower())
+                else:
+                    res.append(w.title())
+            return " ".join(res)
+
+        # Process Scanned Courses
         for c_name_raw, info_list in term_courses_map.items():
-            lower_name = c_name_raw.lower()
-            # prefer canonical name if available, else first encountered proper case
-            c_name = canonical_names.get(lower_name, c_name_raw)
+            lower_name = c_name_raw.lower().strip()
 
-            # Apply fix for "Ve" capitalized inside sentence
-            def fix_course_name(text):
-                words = text.split()
-                res = []
-                for i, w in enumerate(words):
-                    if i > 0 and w.lower() in ['ve', 'ile', 'veya', 'de', 'da']:
-                        res.append(w.lower())
-                    else:
-                        res.append(w)
-                return " ".join(res)
+            # Try to match with curriculum
+            official_name = c_name_raw # Default
 
-            c_name = fix_course_name(c_name)
+            # 1. Direct match
+            if lower_name in curriculum_map:
+                official_name = curriculum_map[lower_name]['name']
 
-            if c_name not in consolidated_map:
-                consolidated_map[c_name] = []
-            consolidated_map[c_name].extend(info_list)
+            # 2. Fuzzy/Canonical match fallback
+            elif lower_name in canonical_names:
+                official_name = canonical_names[lower_name]
+
+            # Apply "Ve" fix if no official match found (or even if found, just to be safe if official has different casing preference?)
+            # Actually official dict should have correct casing.
+            if lower_name not in curriculum_map:
+                 official_name = fix_course_name(official_name)
+
+            if official_name not in final_term_courses:
+                final_term_courses[official_name] = []
+            final_term_courses[official_name].extend(info_list)
+
+        # Add Missing Curriculum Courses for THIS Term
+        # Only add if not already present (fuzzy check)
+        existing_normalized = set(k.lower().strip() for k in final_term_courses.keys())
+
+        for c in curriculum_courses:
+            if c['term'] == term:
+                official_name = c['name']
+                norm_official = official_name.lower().strip()
+
+                if norm_official not in existing_normalized:
+                    # Add as a placeholder course with no sources
+                    final_term_courses[official_name] = []
 
         # Sort course names
-        sorted_course_names = sorted(consolidated_map.keys())
+        sorted_course_names = sorted(final_term_courses.keys())
 
         dersler_list = []
         for course_name in sorted_course_names:
-            info_list = consolidated_map[course_name]
+            info_list = final_term_courses[course_name]
 
             # Sort sources (Sorular first)
             def source_sort(info):
@@ -163,8 +217,15 @@ def generate_dersler_json(courses):
                     "url": info['relative_json_url']
                 })
 
+            # Get ID from curriculum map if available
+            course_id = None
+            lower_name = course_name.lower().strip()
+            if lower_name in curriculum_map:
+                course_id = curriculum_map[lower_name].get('id')
+
             dersler_list.append({
                 "dersAdi": course_name,
+                "id": course_id,
                 "sources": sources
             })
 
@@ -173,10 +234,45 @@ def generate_dersler_json(courses):
             "dersler": dersler_list
         })
 
+    # Add Terms from Curriculum that might have NO scanned files (e.g. Terms that were totally missing)
+    # Check if we missed any terms present in curriculum
+    curriculum_terms = set(c['term'] for c in curriculum_courses)
+    processed_terms = set(sorted_terms)
+    missing_terms = curriculum_terms - processed_terms
+
+    for term in sorted(list(missing_terms)):
+        # Don't skip term 1 if it's in curriculum
+
+        term_courses = [c for c in curriculum_courses if c['term'] == term]
+        dersler_list = []
+        for c in term_courses:
+             dersler_list.append({
+                "dersAdi": c['name'],
+                "id": c.get('id'),
+                "sources": [] # No sources
+            })
+
+        # Insert in order? output_list is sorted by term.
+        # Just append and sort later.
+        output_list.append({
+            "donem": term,
+            "dersler": sorted(dersler_list, key=lambda x: x['dersAdi'])
+        })
+
+    # Re-sort output_list by donem
+    output_list.sort(key=lambda x: x['donem'])
+
     output_path = os.path.join(AUZEF_SORULAR_DIR, 'dersler.json')
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(output_list, f, ensure_ascii=False, indent=4)
-    print(f"Generated dersler.json at {output_path}")
+        json.dump(output_list, f, indent=4, ensure_ascii=False)
+
+    # Also save to the project root auzef/dersler.json as requested
+    root_dersler_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'auzef', 'dersler.json')
+    with open(root_dersler_path, 'w', encoding='utf-8') as f:
+        json.dump(output_list, f, indent=4, ensure_ascii=False)
+
+    print(f"Generated dersler.json with {len(output_list)} semesters.")
+    return output_list
 
 def generate_markdown_file(course_info, include_units=None):
     questions = course_info['questions']

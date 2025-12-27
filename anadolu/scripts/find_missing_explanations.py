@@ -62,5 +62,8 @@ def find_missing_explanations(base_dir):
         print("No missing explanations found!")
 
 if __name__ == "__main__":
-    base_dir = "/Users/wildgenie/Projects/ataaof-denemeler/output/anadolu/json"
+    # Determine the project root directory (two levels up from scripts)
+    SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
+    BASE_DIR = os.path.dirname(os.path.dirname(SCRIPTS_DIR))
+    base_dir = os.path.join(BASE_DIR, "output", "Anadolu", "json")
     find_missing_explanations(base_dir)

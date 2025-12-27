@@ -1,0 +1,326 @@
+[
+  {
+    "term": 1,
+    "code": "ACCG1001",
+    "id": "839754",
+    "name": "Anatomi"
+  },
+  {
+    "term": 1,
+    "code": "ODAI0001",
+    "id": "839747",
+    "name": "Atatürk İlkeleri ve İnkılap Tarihi I"
+  },
+  {
+    "term": 1,
+    "code": "ACCG1003",
+    "id": "839751",
+    "name": "Bilimsel Araştırma Teknikleri"
+  },
+  {
+    "term": 1,
+    "code": "ACCG1002",
+    "id": "839750",
+    "name": "Psikoloji"
+  },
+  {
+    "term": 1,
+    "code": "ACCG1004",
+    "id": "839752",
+    "name": "Sosyolojiye Giriş"
+  },
+  {
+    "term": 1,
+    "code": "ODTD0001",
+    "id": "839746",
+    "name": "Türk Dili I"
+  },
+  {
+    "term": 1,
+    "code": "ODYD0001",
+    "id": "839748",
+    "name": "Yabancı Dil I"
+  },
+  {
+    "term": 1,
+    "code": "ODAI0001",
+    "id": "839756",
+    "name": "Yabancı Öğrenciler İçin Atatürk İlkeleri ve İnkılap Tarihi I"
+  },
+  {
+    "term": 1,
+    "code": "ODTD0001",
+    "id": "839755",
+    "name": "Yabancı Öğrenciler İçin Türk Dili I"
+  },
+  {
+    "term": 2,
+    "code": "ACCG1007",
+    "id": "839782",
+    "name": "Anne-Çocuk Beslenmesi"
+  },
+  {
+    "term": 2,
+    "code": "ODAI0002",
+    "id": "839773",
+    "name": "Atatürk İlkeleri ve İnkılap Tarihi II"
+  },
+  {
+    "term": 2,
+    "code": "ACCG1008",
+    "id": "839778",
+    "name": "Gelişim Psikolojisi"
+  },
+  {
+    "term": 2,
+    "code": "ACCG1005",
+    "id": "839776",
+    "name": "İstatistik"
+  },
+  {
+    "term": 2,
+    "code": "ODTD0002",
+    "id": "839774",
+    "name": "Türk Dili II"
+  },
+  {
+    "term": 2,
+    "code": "ODYD0002",
+    "id": "839775",
+    "name": "Yabancı Dil II"
+  },
+  {
+    "term": 2,
+    "code": "ODTD0002",
+    "id": "839779",
+    "name": "Yabancı Öğrenciler İçin Türk Dili II"
+  },
+  {
+    "term": 2,
+    "code": "ACCG1006",
+    "id": "839786",
+    "name": "Yaşam Becerileri"
+  },
+  {
+    "term": 3,
+    "code": "ACCG2003",
+    "id": "839763",
+    "name": "Anne Çocuk Sağlığı"
+  },
+  {
+    "term": 3,
+    "code": "ACCG2004",
+    "id": "839753",
+    "name": "Çocuk Edebiyatı"
+  },
+  {
+    "term": 3,
+    "code": "ACCG2005",
+    "id": "839764",
+    "name": "Erken Çocukluk Eğitimine Giriş"
+  },
+  {
+    "term": 3,
+    "code": "ACCG2002",
+    "id": "839759",
+    "name": "Fiziksel Büyüme ve Motor Gelişim"
+  },
+  {
+    "term": 3,
+    "code": "ACCG2006",
+    "id": "839758",
+    "name": "Oyun ve Oyun Materyalleri"
+  },
+  {
+    "term": 3,
+    "code": "ACCG2001",
+    "id": "839749",
+    "name": "Özel Eğitime Giriş"
+  },
+  {
+    "term": 4,
+    "code": "ACCG2007",
+    "id": "839789",
+    "name": "Bilişsel ve Dil Gelişimi"
+  },
+  {
+    "term": 4,
+    "code": "ACCG2008",
+    "id": "839790",
+    "name": "Çocukluk Döneminde Sanat ve Yaratıcılık"
+  },
+  {
+    "term": 4,
+    "code": "ACCG2011",
+    "id": "839788",
+    "name": "Erken Çocukluk Eğitimde Yaklaşımlar ve Programlar"
+  },
+  {
+    "term": 4,
+    "code": "ACCG2009",
+    "id": "839796",
+    "name": "Erken Çocukluk Eğitiminde Eğitici Drama"
+  },
+  {
+    "term": 4,
+    "code": "ACCG2012",
+    "id": "839787",
+    "name": "Erken Çocuklukta Fen ve Matematik Eğitimi"
+  },
+  {
+    "term": 4,
+    "code": "ACCG2010",
+    "id": "839780",
+    "name": "İlk Yardım"
+  },
+  {
+    "term": 5,
+    "code": "ACCG3002",
+    "id": "839760",
+    "name": "Çocuk Hakları ve Hukuku"
+  },
+  {
+    "term": 5,
+    "code": "ACCG3005",
+    "id": "839767",
+    "name": "Koruyucu Ruh Sağlığı ve Dayanıklılık"
+  },
+  {
+    "term": 5,
+    "code": "ACCG3001",
+    "id": "839765",
+    "name": "Okul Öncesi Eğitim Programları-I"
+  },
+  {
+    "term": 5,
+    "code": "ACCG3006",
+    "id": "839768",
+    "name": "Psikometrik - Gelişimsel Ölçme ve Değerlendirme"
+  },
+  {
+    "term": 5,
+    "code": "ACCG3003",
+    "id": "839761",
+    "name": "Sosyal-Duygusal Gelişim"
+  },
+  {
+    "term": 5,
+    "code": "ACCG3004",
+    "id": "839766",
+    "name": "Üstün Zekalı ve Yetenekli Çocuklar ve Eğitimleri"
+  },
+  {
+    "term": 6,
+    "code": "ACCG3012",
+    "id": "839784",
+    "name": "Ahlaki Gelişim ve Değerler Eğitimi"
+  },
+  {
+    "term": 6,
+    "code": "ACCG3013",
+    "id": "839781",
+    "name": "Aile Danışmanlığı"
+  },
+  {
+    "term": 6,
+    "code": "ACCG3011",
+    "id": "839783",
+    "name": "Çocuk Gelişimi Araştırmaları"
+  },
+  {
+    "term": 6,
+    "code": "ACCG3010",
+    "id": "839792",
+    "name": "Çocuk ve Müzik"
+  },
+  {
+    "term": 6,
+    "code": "ACCG3008",
+    "id": "839795",
+    "name": "Gelişimsel Psikopatoloji"
+  },
+  {
+    "term": 6,
+    "code": "ACCG3007",
+    "id": "839791",
+    "name": "Okul Öncesi Eğitim Programları-II"
+  },
+  {
+    "term": 7,
+    "code": "ACCG4002",
+    "id": "839757",
+    "name": "Anne Baba Eğitimi"
+  },
+  {
+    "term": 7,
+    "code": "ACCG4004",
+    "id": "839772",
+    "name": "Çocuk Gelişimi Uygulamaları I"
+  },
+  {
+    "term": 7,
+    "code": "ACCG4011",
+    "id": "839770",
+    "name": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi"
+  },
+  {
+    "term": 7,
+    "code": "ACCG4003",
+    "id": "839762",
+    "name": "İlkokula Hazırlık"
+  },
+  {
+    "term": 7,
+    "code": "ACCG4006",
+    "id": "839769",
+    "name": "Okul Öncesi Dönemde Duyu Eğitimi"
+  },
+  {
+    "term": 7,
+    "code": "ACCG4001",
+    "id": "839771",
+    "name": "Oyun ve Oyun Terapisi"
+  },
+  {
+    "term": 8,
+    "code": "ACCG4020",
+    "id": "839799",
+    "name": "Çocuk Gelişimi Stajı"
+  },
+  {
+    "term": 8,
+    "code": "ACCG4008",
+    "id": "839797",
+    "name": "Çocuk Gelişimi Uygulamaları II"
+  },
+  {
+    "term": 8,
+    "code": "ACCG4019",
+    "id": "839793",
+    "name": "Çocuk Gelişiminde Girişimcilik"
+  },
+  {
+    "term": 8,
+    "code": "ACCG4010",
+    "id": "839798",
+    "name": "Çocuklukta Beyin Gelişimi"
+  },
+  {
+    "term": 8,
+    "code": "ACCG4009",
+    "id": "839794",
+    "name": "Erken Çocukluk Döneminde Yabancı Dil Eğitimi"
+  },
+  {
+    "term": 8,
+    "code": "ACCG4005",
+    "id": "839785",
+    "name": "Risk Altında Bulunan Çocuklar ve Eğitimleri"
+  },
+  {
+    "term": 8,
+    "code": "ACCG4007",
+    "id": "839777",
+    "name": "Yönetim ve Liderlik"
+  }
+]

@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import time
+import re
 from tqdm import tqdm
 from libs.pipeline import QuestionPipeline
 from libs.shared import clean_html, questions_to_markdown
@@ -62,6 +63,7 @@ class AuzefPipeline(QuestionPipeline):
             response.raise_for_status()
             result = response.json()
             if "Questions" in result:
+                time.sleep(0.5) # Added sleep here as per instruction
                 return result["Questions"]
             return []
         except Exception as e:
@@ -80,14 +82,30 @@ class AuzefPipeline(QuestionPipeline):
     def get_filename_prefix(self, course):
         return "Auzef"
 
+    def get_content_key(self, q):
+        # Normalize content to detect duplicates with different IDs
+        import html
+        def normalize(text):
+            if not text: return ""
+            # Strip tags and normalize spaces for comparison
+            text = html.unescape(text)
+            text = re.sub(r'<[^>]*>', '', text)
+            return " ".join(text.lower().split())
+
+        parts = []
+        parts.append(normalize(q.get("Text") or q.get("SoruMetni") or ""))
+        for opt in ['A', 'B', 'C', 'D', 'E']:
+            parts.append(normalize(q.get(opt, "")))
+        # Include correct answer
+        parts.append(str(q.get("CorrectAnswer") or q.get("DogruCevap") or "").strip().upper())
+        return "|".join(parts)
+
     def process_course(self, course, target_unit=None, tqdm_position=None):
         course_name = course.get("CourseName")
         raw_course_name = course_name # for compatibility with old code block below if needed
         donem = course.get("Donem", 0)
 
-        # Filter out Donem 1
-        if str(donem) == "1":
-            return False
+        # No longer filtering out Donem 1
 
         exam_id = course.get("exam_id")
 
@@ -119,12 +137,18 @@ class AuzefPipeline(QuestionPipeline):
 
         # Load existing raw questions
         raw_questions_map = {}
+        content_map = {}
+
         if os.path.exists(filepath_raw):
             try:
                 with open(filepath_raw, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     for q in data:
-                        raw_questions_map[q["QuestionId"]] = q
+                        q_id = q["QuestionId"]
+                        ckey = self.get_content_key(q)
+                        if ckey not in content_map:
+                            raw_questions_map[q_id] = q
+                            content_map[ckey] = q_id
             except:
                 pass
 
@@ -142,8 +166,10 @@ class AuzefPipeline(QuestionPipeline):
                 pass
 
         # Iteration logic: AUZEF might return random questions, so we try multiple times
-        attempts = 1 if self.no_cache and initial_count > 0 else 10
-        if not exam_id: attempts = 0
+        # We use a patience counter: if we see no new questions for 30 attempts, we stop.
+        attempts = 300 if exam_id else 0
+        patience = 30
+        no_new_strikes = 0
 
         for i in range(attempts):
             batch = self.fetch_raw_questions(course, silent=(tqdm_position is not None))
@@ -152,25 +178,54 @@ class AuzefPipeline(QuestionPipeline):
             batch_new = 0
             for q in batch:
                 q_id = q["QuestionId"]
-                if q_id not in raw_questions_map:
+                content_key = self.get_content_key(q)
+
+                # Check both ID and Content
+                if q_id not in raw_questions_map and content_key not in content_map:
                     raw_questions_map[q_id] = q
+                    content_map[content_key] = q_id
                     batch_new += 1
                     new_count += 1
 
-            if batch_new == 0 and i > 1: break
+            if batch_new == 0:
+                no_new_strikes += 1
+            else:
+                no_new_strikes = 0 # Reset patience if we find something new
+
+            if no_new_strikes >= patience and i > 2: # Give it at least 3 tries
+                break
+
             time.sleep(0.5)
 
         if len(raw_questions_map) > 0 or len(cikmis_questions) > 0:
             # Save raw if we fetched anything
             if new_count > 0 or (self.no_cache and initial_count == 0 and len(raw_questions_map) > 0):
                 final_raw = list(raw_questions_map.values())
+                # Sort by unit and ID
+                final_raw.sort(key=lambda x: (int(str(x.get("unite_id", 0)) or 0), x.get("QuestionId", "")))
                 with open(filepath_raw, 'w', encoding='utf-8') as f:
                     json.dump(final_raw, f, indent=4, ensure_ascii=False)
 
             # Transform Alıştırma (Practice) questions
-            alistirma_questions = [self.transform_question(q, course, q.get("unite_id", 0)) for q in raw_questions_map.values()]
+            alistirma_questions = []
+            for q in raw_questions_map.values():
+                u_id = q.get("unite_id", 0)
+                try:
+                    u_id = int(str(u_id))
+                except:
+                    u_id = 0
+                alistirma_questions.append(self.transform_question(q, course, u_id))
+
+            # Sort by unit and ID
+            alistirma_questions.sort(key=lambda x: (int(str(x.get("Unite", 0)) or 0), x.get("SoruID", "")))
 
             # cikmis_questions is already loaded above
+            # Ensure it's also sorted and units are ints
+            if cikmis_questions:
+                 for q in cikmis_questions:
+                     try: q["Unite"] = int(str(q.get("Unite", 0)))
+                     except: q["Unite"] = 0
+                 cikmis_questions.sort(key=lambda x: (int(str(x.get("Unite", 0)) or 0), x.get("SoruID", "")))
 
             # Save processed Alıştırma
             if alistirma_questions:

@@ -46,7 +46,20 @@ def main():
         return
 
     with open(DERSLER_FILE, 'r', encoding='utf-8') as f:
-        courses = json.load(f)
+        data = json.load(f)
+
+    # Flatten and map courses from grouped format
+    courses = []
+    for group in data:
+        donem = group.get("donem")
+        for ders in group.get("dersler", []):
+            course_item = {
+                "CourseName": ders.get("dersAdi"),
+                "exam_id": ders.get("id"),
+                "Donem": donem,
+                "token": os.getenv("AUZEF_TOKEN") # Fallback to env token
+            }
+            courses.append(course_item)
 
     # Filter courses
     filtered_courses = []

@@ -1,0 +1,1100 @@
+[
+    {
+        "QuestionId": "176037240e3146dce70ebb02d6564cd7",
+        "Text": "<p>Eğitici drama tekniği ile ilgili aşağıda verilenlerden hangisi doğrudur?</p>",
+        "A": "<p>Çocuğun tüm alanlardaki eğitimi için uygulanan bir eğitim tekniğidir.</p>",
+        "B": "<p>Amacı sadece oyun yaratma yoluyla çocuğun eğlenmesini sağlamaktır.</p>",
+        "C": "<p>Sadece yetişkinlere yönelik olarak uygulanan bir tekniktir.</p>",
+        "D": "<p>Sadece özel gereksinimli çocuklara yönelik olarak uygulanan bir tekniktir.</p>",
+        "E": "<p id=\"isPasted\">Psikolojik rahatsızlıkları tedavi etmek için geliştirilen bir tekniktir.</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "234904a428936724bcdc1cf6a9299a51",
+        "Text": "<p>Çocuklarla drama uygulamalarının tarihçesiyle ilgili olarak aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>İlk kez Amerika ve İngiltere’de çocuklarla drama uygulamaları gerçekleştirilmiştir.</p>",
+        "B": "<p>Çocuklarla drama uygulamalarının tarihi 1920’lere dayanmaktadır.</p>",
+        "C": "<p>II. Dünya Savaşı esnasında çeşitli güçlükler yaşayan çocuklara yardım etmek amaçlı kullanılmıştır.</p>",
+        "D": "<p>İlk zamanlar özel gereksinimli çocuklara yönelik olarak geliştirilmiş, daha sonra normal gelişim gösteren çocuklarla drama uygulamaları gerçekleştirilmeye başlanmıştır.</p>",
+        "E": "<p id=\"isPasted\">Drama ile tiyatronun birbirinden farklı tarafları olduğu düşünülmüştür.</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "3efa06a0c7599bf0e70844494983d54d",
+        "Text": "<p id=\"isPasted\">I. Eğitici drama tekniğinde önceden belirlenen kuralların değiştirilmesi mümkün <u>değildir</u>.</p><p>II. Eğitici drama tekniği amaçları açık ve net bir şekilde önceden belirlenmiş grup etkinliklerini içerir.</p><p>III. Eğitici drama çocukların öğretmenleriyle birlikte katılımını gerektiren etkinlikleri içerir.</p><p>Yukarıdakilerden hangisi/hangileri eğitici drama tekniğiyle ilgili doğru bilgi vermektedir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p>II ve III</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "41115757c253ebe060c1a5724d09ce7f",
+        "Text": "<p>Eğitici drama kazanma-kaybetme temeline dayanan çocuk oyunlarını içerir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "767f1b73c3916dec645cbb08d6f024da",
+        "Text": "<p>Eğitici drama tekniği ile ilgili aşağıda verilenlerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>J.J. Rousseau’nun “sosyal ve fiziksel çevrede yaşayarak eğitim” görüşüne uygundur.</p>",
+        "B": "<p>Son yıllarda ülkemizde hızla yaygınlaşmaktadır.</p>",
+        "C": "<p>Pedagojik drama olarak da adlandırmaktadır.</p>",
+        "D": "<p>Çocuğun yaratıcılık kazanmasını amaçlar.</p>",
+        "E": "<p>Amaçlarından biri oyun yaratmadır.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "8cf1f0f0e7d291bc9215950789513afa",
+        "Text": "<p>Drama seyirciler için oynandığından estetik kaygılar güdülür.</p>",
+        "A": "<p>Yanlış</p>",
+        "B": "<p id=\"isPasted\">Doğru</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "8f107b7d073a38afe86049c4bd868bb2",
+        "Text": "<p>Eğitici drama tekniğindeki grup etkinlikleri aşağıdaki becerilerden hangisini doğrudan <u id=\"isPasted\">gerektirmez</u>?</p>",
+        "A": "<p>Bilişsel beceriler</p>",
+        "B": "<p>Sosyal beceriler</p>",
+        "C": "<p>Psiko-motor beceriler</p>",
+        "D": "<p>Sözel-dil becerileri</p>",
+        "E": "<p>Öz bakım becerileri</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "f3eac30b239995ec0fb086909dba9dc1",
+        "Text": "<p>Eğitici drama daha çok yetişkinlere yönelik psikolojik tedavi yöntemi olarak bilinir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 1
+    },
+    {
+        "QuestionId": "03f964759b433754a6f7f2b1a4b75a60",
+        "Text": "<p>Aşağıdaki gelişmelerden hangisinin drama uygulamalarının önemini arttırdığı <u id=\"isPasted\">söylenemez</u>?</p>",
+        "A": "<p>İç göç</p>",
+        "B": "<p>Çekirdek ailelerin artması</p>",
+        "C": "<p>Geniş ailelerin artması</p>",
+        "D": "<p>Boşanmaların artması</p>",
+        "E": "<p id=\"isPasted\">Şiddetin artması</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 2
+    },
+    {
+        "QuestionId": "508a6c86039934ec74b416136581a99a",
+        "Text": "<p>Aşağıdakilerden hangisi televizyonun drama uygulamalarının önemini arttıran etkilerinden biridir?</p>",
+        "A": "<p>Çok sayıda kanalın yayın yapması sayesinde çeşitliliğin artması</p>",
+        "B": "<p>İnsan iletişimi ve ilişkileri üzerinde iletişim yetersizliği ve saldırganlık gibi olumsuz etkilere sebep olması</p>",
+        "C": "<p>Televizyon kullanımında yetişkinlerin çocuklara sınır koyması</p>",
+        "D": "<p>Çocukların televizyon kullanımının yetişkinler tarafından yönlendirilmesi</p>",
+        "E": "<p id=\"isPasted\">Çocuklar için hazırlanan programlar sayesinde çocukların kavram gelişiminin desteklenmesi</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 2
+    },
+    {
+        "QuestionId": "6e46a59a27436c8b18fa597aa412dee4",
+        "Text": "<p id=\"isPasted\">I. Ebeveynleri boşanmış &ccedil;ocuklar</p><p>II. Yoksulluk yaşayan &ccedil;ocuklar</p><p>III. Anne ve baba dışındaki akrabalarıyla birlikte yaşayan &ccedil;ocuklar</p><p>Eğitici drama uygulamaları yukarıda belirtilen &ccedil;ocuklardan hangilerinin yaşadıkları olumsuz durumları en aza indirmek konusunda &ouml;nemlidir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p>",
+        "CorrectAnswer": "C",
+        "unite_id": 2
+    },
+    {
+        "QuestionId": "7354c8537ea3a913ecbc9ca9b0afc40d",
+        "Text": "<p>Eğitimin bireyleri bilişsel olarak ve meslekî hazırlığa yönelik bilgilerle donatmasının yeterli olmadığını, bilişsel becerilerin yanı sıra kişilik gelişimi, duygusal ve kişiler arası alanda da işlevsel beceriler kazanılmanın gerekliliğini ifade ederek drama gibi eğitim yöntemlerine duyulan ihtiyacı ortaya koyan yaklaşım aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Çok kültürlü eğitim yaklaşımı</p>",
+        "B": "<p>Çok boyutlu eğitim yaklaşımı</p>",
+        "C": "<p>Hümanist eğitim yaklaşımı</p>",
+        "D": "<p>Eğitimde bütüncül yaklaşım</p>",
+        "E": "<p id=\"isPasted\">Yaşayarak öğrenme yaklaşımı</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 2
+    },
+    {
+        "QuestionId": "b8745b12775c6d7301db7829120efca3",
+        "Text": "<p>Medyanın giderek artan hâkimiyeti drama uygulamalarının önemini arttırmıştır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 2
+    },
+    {
+        "QuestionId": "c6ef72f0dbcc35ac39de2cc36bf3a6f4",
+        "Text": "<p>‘‘Sözünün eri olmak gerekir.’’ gibi unutulmaya yüz tutmuş değerlerin sonraki kuşaklara aktarılmasında drama etkinlikleri önemli bir yere sahiptir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 2
+    },
+    {
+        "QuestionId": "df0fa6f242eba8be2584e02aff8c79ad",
+        "Text": "<p id=\"isPasted\"></p><p>I. Çalışan anne sayısındaki artış</p><p>II. İnsanlar arasında rekabetin artması</p><p>III. Yakın akrabaların çocuğun eğitimindeki etkisinin azalması</p><p>Yukarıdaki durumlardan hangisinin/hangilerinin eğitici drama uygulamalarının önemini arttırdığı söylenebilir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>I ve II</p>",
+        "C": "<p>I ve III</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p>I, II ve III</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 2
+    },
+    {
+        "QuestionId": "087d3af40895c27c101e6c080a44dca1",
+        "Text": "<p>Hümanist Eğitim yaklaşımına göre eğitici drama oyunundan sonra ayrıntılı şekilde organize edilmiş değerlendirme bölümünün uygulanması gereklidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "4c18d4bf56df26b71f9a8a2169de112d",
+        "Text": "<p id=\"isPasted\"><strong></strong></p><p>I. Çocukların potansiyellerini en üst düzeyde gerçekleştirmelerini sağlamak</p><p>II. Çocukların kendilerine güven kazanmalarını sağlamak</p><p>III. Çocuğun kendi kendisine yetebilen bağımsız bir birey olmasını sağlamak</p><p>Hümanist Eğitim yaklaşımına göre yukarıdakilerden hangisi/hangileri çocuklara özgürlük verilmesinin gerekçesidir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p>I, II ve III</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "6c81cd81957daa4542573b9af3f2fc06",
+        "Text": "<p>Aşağıdakilerden hangisi Hümanist Eğitim yaklaşımında dramanın önemli bir yere sahip olmasının sebeplerinden biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Dramanın öğrencilerin duygularına, psikolojik gereksinimlerine yer vermesi</p>",
+        "B": "<p>Drama etkinliklerinin mümkün olan tüm biçimlerde öğrencilerin aktif olmalarını sağlaması</p>",
+        "C": "<p>Drama etkinliklerinin çocuk merkezli öğrenme ortamı oluşmasına katkı sağlaması</p>",
+        "D": "<p>Drama etkinliklerinde öğrenciyi strese sokacak değerlendirme kısmına yer verilmemesi</p>",
+        "E": "<p id=\"isPasted\">Eğitici drama yaklaşımının katılanların özgür gelişimine katkı sağlaması</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "81933de36481a987372c9dbcb0444dd5",
+        "Text": "<p>Hümanist Eğitim yaklaşımına göre dramaya yalnızca rol oynayarak ve canlandırarak katılmak öğrenciyi aktif kılmak için <u id=\"isPasted\">yeterlidir</u>.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "9c6d962ed096275b87fbcdf7b348825d",
+        "Text": "<p>Hümanist Eğitim yaklaşımı ile ilgili aşağıdaki bilgilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>İnsanın doğuştan olumlu bir varlık olduğu görüşüne sahiptir.</p>",
+        "B": "<p>Eğitim ortamında öğretmen, öğrenci ve yöneticiler arasındaki kişiler arası ilişkileri önemli bulur.</p>",
+        "C": "<p>Öğrencilerin keşfederek ve anlamlandırarak öğrenmesi gerekliliğini dile getirmiştir.</p>",
+        "D": "<p>Anne ve babaların eğitimin olmazsa olmaz unsuru olarak okuldaki grup süreçlerine katılması gerektiğini savunur.</p>",
+        "E": "<p>Eğitim sürecinde öğrencinin aktif ve pasif olacağı etkinliklere dengeli şekilde yer verilmesi gerektiğini savunur.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "b44f84592f1805ba578b1abc9df6f86c",
+        "Text": "<p id=\"isPasted\"><strong></strong></p><p>I. Çocuk merkezli olması</p><p>II. Özgür olması</p><p>III. Geleneksel öğretim biçimlerine yer verilmesi</p><p>Hümanist Eğitim yaklaşımına göre eğitim ortamında bulunması gereken özellikler yukarıdakilerden hangisi/hangileridir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>I ve II</p>",
+        "C": "<p>I ve III</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "d96a19799e0ec25da3b3970f85ff2ef2",
+        "Text": "<p>Hümanist Eğitim yaklaşımına göre eğitici drama sırasında çocuk hem bedensel hem de zihinsel olarak aktif olmalıdır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "e431e753dcb381fe2e814448307185f3",
+        "Text": "<p>Aşağıdakilerden hangisi Hümanist Eğitim Yaklaşımına göre çocukların sahip oldukları potansiyelin ortaya çıkarılması için yapılması gerekenlerden biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>İnsanın aktif yapısının göz önüne alınması gereklidir.</p>",
+        "B": "<p>Eğitici drama uygulamalarına yer verilmelidir.</p>",
+        "C": "<p>Eğitim ortamının didaktik olmaktan ödün vermemesine dikkat edilmelidir.</p>",
+        "D": "<p>Çocuğun başkalarına bağımlı kalmadan karar verebilme becerisini kazanması sağlanmalıdır.</p>",
+        "E": "<p id=\"isPasted\">Öğrencilerin teorik bilgilerden ziyade öğrenmeyi öğrenmesi sağlanmalıdır.</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 3
+    },
+    {
+        "QuestionId": "4462803f536bb87814f2cd1ec94bdc15",
+        "Text": "<p id=\"isPasted\">I. Drama etkinliğini katılanların, kimi zaman içinde yaşadıkları kimi zaman pasif oldukları bir süreç olarak görür.</p><p>II. Özellikle davranışçı öğrenme kuramlarının önerdiği bir öğrenme yöntemidir.</p><p>III. Canlandırılan durumlar gerçek olmasa da etkinliğin kendisini gerçek bir yaşantı olarak görür.</p><p>Yukarıda verilenlerden hangisi/hangileri yaşantılara dayalı öğrenme tekniği için doğrudur?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>Yalnız III</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 4
+    },
+    {
+        "QuestionId": "52b0bd1ab7659e73c69d61c7f59d2977",
+        "Text": "<p>Etkileşim yolu ile öğrenme ile ilgili olarak aşağıda verilenlerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Montessori, Rousseau, Pestalozzi, Vygotsky ve Froebel etkileşim yoluyla öğrenmenin öneminden bahsetmiştir.</p>",
+        "B": "<p>Çocuğun kurduğu etkileşimler arkadaşlarından ve öğretmeninden pek çok kavram, konu ve kural öğrenmesini sağlayabilir.</p>",
+        "C": "<p>Grup süreçleri ile öğrenme olarak da adlandırılabilir.</p>",
+        "D": "<p>Etkileşimle öğrenme her iki tarafında aktif katılımıyla gerçekleşir.</p>",
+        "E": "<p>Etkileşimle öğrenmede modelin davranışlarını gözlemlemek yeterlidir.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 4
+    },
+    {
+        "QuestionId": "5755731af61834362ef42a76b913c21e",
+        "Text": "<p>Farklı yetenekte olan çocukların birbirlerine yardımcı olarak öğrendikleri görüşü aşağıdaki öğrenme türlerinden hangisinin temelini oluşturur?</p>",
+        "A": "<p>Tartışarak öğrenme</p>",
+        "B": "<p>İş birliği kurarak öğrenme</p>",
+        "C": "<p>Yaşantılara dayalı öğrenme</p>",
+        "D": "<p>Etkileşim yolu ile öğrenme</p>",
+        "E": "<p id=\"isPasted\">Sosyal öğrenme</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 4
+    },
+    {
+        "QuestionId": "5e3e3d44807cf3b034a37f1579a8686f",
+        "Text": "<p>Gelecekteki iş yaşamında çok önemli bir beceri olarak ortaya çıkacak olan çocukların ortak bir amaç için başkalarıyla birlikte hem onların katkılarını destekleyip kabul ederek hem de kendi görüş ve yeteneklerini ortaya koyarak çalışabilme alışkanlığı kazanmasını amaçlayan eğitici dramadaki öğrenme türü hangisidir?</p>",
+        "A": "<p>İş birliği kurarak öğrenme</p>",
+        "B": "<p>Tartışarak öğrenme</p>",
+        "C": "<p>Keşfederek öğrenme</p>",
+        "D": "<p>Etkileşim yolu ile öğrenme</p>",
+        "E": "<p id=\"isPasted\">Yaşantılara dayalı öğrenme</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 4
+    },
+    {
+        "QuestionId": "90ba1a29afe71459f13834155ea21dfe",
+        "Text": "<p>Okul öncesi dönem çocukları sözel anlatımlardan çok, harekete dayalı tekniklerle daha etkili öğrenirler.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 4
+    },
+    {
+        "QuestionId": "ac8d60f217be8552a7fa68e2225a8968",
+        "Text": "<p>Aşağıdakilerden hangisi dramada yer verilen öğrenme türlerinden biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Yaşantılara dayalı öğrenme</p>",
+        "B": "<p>Aktif öğrenme</p>",
+        "C": "<p>Tartışarak öğrenme</p>",
+        "D": "<p>Kavram öğrenme</p>",
+        "E": "<p>Gösterim yoluyla öğrenme</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 4
+    },
+    {
+        "QuestionId": "ef899e4b3c13d2dcaffc8dbcf9d3580d",
+        "Text": "<p>Drama etkinliklerinde duyguların açığa çıkması sayesinde insanın kendisini ve diğer kişileri psikolojik yönden fark etmesi şeklinde duygusal öğrenme gerçekleşebilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 4
+    },
+    {
+        "QuestionId": "0ee678b8ffdf28433f0e63be3d787078",
+        "Text": "<p>Aşağıdakilerden hangisi oyun ile eğitici dramanın benzer yönlerinden biridir?</p>",
+        "A": "<p>Kendiliğinden başlama</p>",
+        "B": "<p>Kurallara sahip olma</p>",
+        "C": "<p>Etkinliğin sonunda değerlendirme yapılması</p>",
+        "D": "<p>Sonucun değil sürecin önemli olması</p>",
+        "E": "<p id=\"isPasted\">Eğitim amaçlarının belli olması</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "171eb471f7ac15a0d55c1e079c01480b",
+        "Text": "<p>Drama etkinlikleri az çok belirgin kurallara sahip olma, sözlü ve sözsüz iletişime dayalı olma, iş birliği ve rol oynamayı gerektirme gibi yönleriyle paralel oyunla benzerlik gösterir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "1bbdc102ec58a0d2cf5ea7eaf930bd24",
+        "Text": "<p>Drama çocuğun kendisinin ve başkalarının duygularına duyarlılık geliştirmesine yardımcı olur.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "1cfdcc8f453c434534dec3dbc28c97c6",
+        "Text": "<p>Drama etkinlikleri sırasında düşüncelerinin yargılanmadan, eleştirilmeden kabul edildiğini gören çocukta aşağıdaki becerilerden hangisi gelişir?</p>",
+        "A": "<p>İletişim becerileri</p>",
+        "B": "<p>Duyguların farkına varma ve ifade etme</p>",
+        "C": "<p>Bağımsız düşünme ve karar verme</p>",
+        "D": "<p>Kendilik kavramı</p>",
+        "E": "<p id=\"isPasted\">Yaratıcılık ve hayal gücü</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "37ef22d97f616978885afd3656b3b6e6",
+        "Text": "<p>Aşağıdakilerden hangisi eğitici dramanın çocuk eğitiminde sağlayabileceği yararlardan biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Çocuğun kendisini tanımasına ve içinde yaşadığı dünyayı öğrenmesine katkı sağlar.</p>",
+        "B": "<p>Harekete dayalı teknikleri kullanarak çocukların daha etkili öğrenmesini sağlar.</p>",
+        "C": "<p>Çocuğun sosyal ilişkilerde gerekli sosyal becerileri kazanmasını sağlar.</p>",
+        "D": "<p>Çocuklar başkalarının düşüncelerine hoşgörülü yaklaşmayı öğrenir.</p>",
+        "E": "<p>Kuralların değişmezliğini kabul etmeyi ve itaati öğrenir.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "5c94374415b95504169fce747de73c6f",
+        "Text": "<p>Çocukların arkadaşlık ilişkilerinin gelişmesinde drama etkinlikleri önemlidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "6c6d71f07bbed6e8cd762319f8f1906a",
+        "Text": "<p id=\"isPasted\">I. Zihinsel kapasite IV. Bağımsız düşünme ve karar verme</p><p>II. Yaratıcılık ve hayal gücü V. Sebat</p><p>III. İletişim becerileri VI. Akademik başarı</p><p><strong></strong>Drama etkinlikleri yukarıda verilenlerden kaç tanesinin gelişmesine katkı sağlar?</p>",
+        "A": "<p>6</p>",
+        "B": "<p>5</p>",
+        "C": "<p>4</p>",
+        "D": "<p>3</p>",
+        "E": "<p id=\"isPasted\">2</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "6ddacf8c58bbeae483767f5b713b0b88",
+        "Text": "<p id=\"isPasted\">I. Çocuğun kendilik algısı kazanmasını sağlama</p><p>II. Çocuğun iletişim becerilerini geliştirme</p><p>III. Çocukta kavram öğrenmeyi geliştirme</p><p>Yukarıdakilerden hangisi/hangileri okul öncesi eğitimde dramanın <u>özel amaçlarındandır</u>?</p>",
+        "A": "<p>Yalnız II</p>",
+        "B": "<p>I ve II</p>",
+        "C": "<p>I ve III</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p>I, II ve III</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "ca2a00357561d147e8a0aea3195e3b70",
+        "Text": "<p>Drama etkinlikleri çocukların hem motor hem de zihinsel anlamda performansını arttırabilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 5
+    },
+    {
+        "QuestionId": "1030bcd4eadf06b35c22d1339705d6aa",
+        "Text": "<p>Zihinde canlandırma tekniği kullanılırken çocukların önceden yaşantı geçirdikleri, bildikleri nesne, kelime, olay ve durumlar tercih edilmelidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "780caeb93dddd30842406c7784a7f964",
+        "Text": "<p>Doğaçlama dramada lider tarafından belirlenen etkinliğin başlama noktası, geçtiği bir yer ve oynanacak belirli roller bulunur.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "92e2d61138233a878efb66a4dd002fbd",
+        "Text": "<p>Aşağıdakilerden hangisi drama için uygun çevrenin sahip olması gereken özelliklerden biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Canlı ve gelişmeye açık olmalıdır.</p>",
+        "B": "<p>Rahatlama ve konsantrasyon çalışmalarında çocukların birbirlerine dokunamayacakları genişlikte olmalıdır.</p>",
+        "C": "<p>Çocuğa her ayrıntıyı hazır sunmalıdır.</p>",
+        "D": "<p>Fiziksel mekân olarak sınırları olsa da hayalî anlamda sınırları olmamalıdır.</p>",
+        "E": "<p id=\"isPasted\">Çocuğa her yönden güven vermelidir.</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "b7c323dd5ed97766bf6332fe77630cd6",
+        "Text": "<p>Drama etkinliğine çocuğun kendisinden bir şeyler katması, değişiklik yapması eğitici drama uygulamalarının rahatlatıcı etkisi olmasını sağlar.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "bbab39f80369bbfe1d156d2eabbb81b9",
+        "Text": "<p id=\"isPasted\"></p><p>I. Dramaya katılanların performasına göre ödüllendirilmesi veya eleştirilmesi</p><p>II. Çocukların etkinlik esnasındaki hatalı davranışlarına yönelik gerekli düzeltici geri bildirim sağlanması</p><p>III. Öğretmenin çocukları kendi düzenine göre yerleştirmesi ya da oturtması</p><p>Yukarıdaki davranışlardan hangisinin/hangilerinin drama esnasında yapılması <u>hatalıdır</u>?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız III</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "c958a2e998d700feef93cc51a9eca3a9",
+        "Text": "<p>Drama etkinlikleriyle ilgili aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Drama etkinliklerinde canlandırmayı kolaylaştırmak için bazı araç gereç ve aksesuarlar kullanılabilir.</p>",
+        "B": "<p>Öğretmen drama çalışmasının başında daha aktif olmalı, yavaş yavaş kendini geri çekmelidir.</p>",
+        "C": "<p>Drama lideri öğrencilerine yalnızca söz hakkı vermekle kalmaz, etkinliklerin belirlenmesinde onların özgür seçimlerini kabul eder.</p>",
+        "D": "<p>Öğretmen kendi duygularını ifade ederek çocuklara örnek olmalı, onların da kendi duygularını ifade etmeleri konusunda desteklemelidir.</p>",
+        "E": "<p>Öğretmen çocukların dikkatinin dağılmasını önlemek için mümkün olan en kısa sürede etkinliği sonlandırmalıdır.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "d2aabdb8a9958a974251de3be03feb9a",
+        "Text": "<p>Aşağıdakilerden hangisi drama uygulamaları sırasında göz önüne alınması gereken koşullardan biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Öğretmenin oyunun içinde yer alması</p>",
+        "B": "<p>Kazanan ya da kaybeden taraf bulunmaması</p>",
+        "C": "<p>Çocuğun yaptığı davranış ne olursa olsun kabul edilmesi</p>",
+        "D": "<p>Sonuca değil sürece önem verilmesi</p>",
+        "E": "<p id=\"isPasted\">Canlı ve gelişmeye açık bir çevre seçilmesi</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "d40f370a99ad568625f3fbbe7bbec290",
+        "Text": "<p>Drama etkinliklerinde bazen çocukların gürültü çıkarmasına izin verildiği gibi bazen de sessiz kalmaları sağlanmalıdır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "e7c67f2348fc0d9810280b5cee805056",
+        "Text": "<p>Aşağıdakilerden hangisi dramaya katılım gösteren bir çocuğun derin düzeyde öğrenirken gösterdiği özelliklerden biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Konsantrasyon</p>",
+        "B": "<p>Yaratıcılık</p>",
+        "C": "<p>Israrlı tutum</p>",
+        "D": "<p>Hareketlilik</p>",
+        "E": "<p id=\"isPasted\">Doyuma ulaşma</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 6
+    },
+    {
+        "QuestionId": "38e34c46091b619dd9ec3afb2a128cbe",
+        "Text": "<p>Aşağıdakilerden hangisi tartışma düzeyleri aşamasında öğretmenin işlevlerinden biri <u id=\"isPasted\">değildir?</u></p>",
+        "A": "<p>Tartışma soruları drama oyununun hemen bitiminde sorulmalıdır.</p>",
+        "B": "<p>Tartışma soruları gruba sırasıyla birer birer sorulur ve çocuklara düşünüp yanıtlayabilecekleri kadar süre verilir.</p>",
+        "C": "<p>Sorular için çocuklardan gelen yanıtlar çok yetersiz olursa öğretmen bazı sorular için kendisinden örnekler verebilir.</p>",
+        "D": "<p>Tartışma soruları drama oyunundan sonra yapılan destekleyici etkinliklerden sonra sorulmalıdır.</p>",
+        "E": "<p id=\"isPasted\">Tartışma aşamasının en başında oyunun yapısına uygunsa zihinde canlandırma alıştırması yapılarak oynanan oyun, çocuklar tarafından kendi sözcükleri ve cümleleriyle kavramlaştırılır ve tanımlanır.</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 7
+    },
+    {
+        "QuestionId": "5a04871d7c67fcd42b49b2957f0d86e9",
+        "Text": "<p>Aşağıdakilerden hangisi dramayı başlatırken dikkat edilmesi gereken noktalardan biri <u id=\"isPasted\">değildir?</u></p>",
+        "A": "<p>Öğretmen elindeki eğitim planı ve programını göz önüne alarak kazanım ve gösterge davranışları belirlemelidir.</p>",
+        "B": "<p>Drama etkinliğinin (drama oyunu, tartışma, tamamlayıcı çalışmalar) yapılacağı mekânı hazırlamalıdır.</p>",
+        "C": "<p>Drama oyunu bitimindeki tartışma düzeylerine ilişkin sorular oyun esnasında oluşturulmalıdır.</p>",
+        "D": "<p>Uygulanmak üzere seçilen drama oyununun gerektirdiği malzemeleri temin edip sınıfa önceden getirmelidir.</p>",
+        "E": "<p id=\"isPasted\">Tartışma aşamasından sonra uygulanacak tamamlayıcı/destekleyici etkinlikler için uygun öğretim tekniklerini seçerek gerekli malzemeleri hazırlamalıdır.</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 7
+    },
+    {
+        "QuestionId": "81a2f043c6b059859c1407261d6eec42",
+        "Text": "<p>Aşağıdakilerden hangisi drama oyunu aşamasında dikkat edilmesi gereken noktalardan biri <u id=\"isPasted\">değildir?</u></p>",
+        "A": "<p>Öğretmen oyunu hangi yöntemle yöneteceğini önceden belirlemelidir.</p>",
+        "B": "<p>Drama oyunu etkili bir biçimde uygulanabilmesi için çocuklar açısından ön bilgi yani hazır oluş gerektiriyorsa ön bilgi sağlanmalıdır.</p>",
+        "C": "<p>Öğretmen drama oyununda canlandırılacak rolleri çocuklara tanıtıp dağıtmalıdır.</p>",
+        "D": "<p>Rolün içeriği ve nasıl canlandırılacağı ile ilgili tüm ayrıntılar çocuklara verilir.</p>",
+        "E": "<p id=\"isPasted\">Öğretmen varsa kendi rolünü de belirler ve tanımlar.</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 7
+    },
+    {
+        "QuestionId": "db3ac32aa8c7d1dab7c3e9d1b1033019",
+        "Text": "<p>Aşağıdakilerden hangisi destekleyici etkinliklerde öğretmenin davranışlarından biri <u id=\"isPasted\">değildir?</u></p>",
+        "A": "<p>Destekleyici tamamlayıcı etkinlikler tartışma sorularına rehber olmalıdır.</p>",
+        "B": "<p>Drama oyunu sonrasında uygulanacak destekleyici etkinliklerin güçlük derecesi çocukların gelişim düzeylerine uygun olmalıdır.</p>",
+        "C": "<p>Drama oyunu sonrasında destekleyici etkinlikler bir ya da iki çalışmadan fazla olmamalıdır.</p>",
+        "D": "<p>Uygulanacak destekleyici etkinlikler için önceden hazırlık yapmak ve gerekli malzemeleri önceden sınıfa getirmek uygun olur.</p>",
+        "E": "<p id=\"isPasted\">Destekleyici/tamamlayıcı etkinlikler oynanan drama oyunundan çıkarsanan, oyundaki rollerle, konularla ilgili olmalıdır.</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 7
+    },
+    {
+        "QuestionId": "eef11ab1d578ea7a738de9f49320145b",
+        "Text": "<p id=\"isPasted\">I. Eğitici dramayı başlatma</p><p>II. Drama oyunu</p><p>III. Tartışma düzeyleri-Sorular</p><p>IV. Destekleyici/Tamamlayıcı etkinlikler</p><p>Eğitici drama uygulamalarının aşamaları aşağıdakilerden hangisinde doğru verilmiştir?</p>",
+        "A": "<p>I-III-IV-II</p>",
+        "B": "<p>I-II-IV-III</p>",
+        "C": "<p>I-III-II-IV</p>",
+        "D": "<p>I-II-III-IV</p>",
+        "E": "<p id=\"isPasted\">I-IV-II-III</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 7
+    },
+    {
+        "QuestionId": "1ad1a641008b6f59d187544186e43a14",
+        "Text": "<p>Tartışma düzeyleri arasında duygusal düzeydeki soruların özel bir yeri vardır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "2c419ed3ca082a934c3f6b644c450c9a",
+        "Text": "<p>Aşağıdakilerden hangisi grup tartışmasının yararlarından biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Öğretmen tarafından çocukların ne anlayıp anlamadığının değerlendirilmesi mümkün olur.</p>",
+        "B": "<p>Öğretmenin ileriye yönelik plan yapmasını kolaylaştırır.</p>",
+        "C": "<p>Çocukların bilinç düzeylerinin geliştirmek olanağı yaratılmış olur.</p>",
+        "D": "<p>Çocukların iç dünyaları hakkında bilgi almak mümkün olur.</p>",
+        "E": "<p>Çocukların hareket becerilerini geliştirir.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "600dae88a3a8f8cc8afbf4663cf2ae0c",
+        "Text": "<p>Drama oyunundaki kavramlar, olgular, olaylar ve nesnelerle ilgili akademik bilgileri ortaya çıkarmayı ya da anımsatmayı amaçlayan sorulara tartışma bölümünün hangi düzeyinde yer verilir?</p>",
+        "A": "<p>Zihinde canlandırma</p>",
+        "B": "<p>Tanımsal düzey</p>",
+        "C": "<p>Bilişsel düzey</p>",
+        "D": "<p>Yaşantısal düzey</p>",
+        "E": "<p id=\"isPasted\">Geliştirme düzeyi</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "657ee6afe8fa10eae2c38000c04ae36b",
+        "Text": "<p>Çocuğun oynadığı oyunu sözcüklere dökerek anlatmasına, oyunda geçen rolleri, nesneleri, karakterleri adlandırmasına tartışma bölümünün hangi düzeyinde yer verilir?</p>",
+        "A": "<p>Zihinde canlandırma düzeyi</p>",
+        "B": "<p>Tanımsal düzey</p>",
+        "C": "<p>Duygusal düzey</p>",
+        "D": "<p>Bilişsel düzey</p>",
+        "E": "<p id=\"isPasted\">Yaşantısal düzey</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "71d7c1b7dc1423ca315ccf0502a0bfb2",
+        "Text": "<p>Çocukların kendilerine sunulan gerçeğin de ötesini tahmin etmeye, yaratıcılıklarını kullanarak sorunlara çözüm getirmeye çaba harcamaları amacıyla sorulan sorulara tartışma bölümünün hangi düzeyinde yer verilir?</p>",
+        "A": "<p>Tanımsal düzey</p>",
+        "B": "<p>Bilişsel düzey</p>",
+        "C": "<p>Geliştirme düzeyi</p>",
+        "D": "<p>Zihinde canlandırma düzeyi</p>",
+        "E": "<p id=\"isPasted\">Yaşantısal düzey</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "7c928466abe1933ed83ac53de713321c",
+        "Text": "<p>Drama etkinliği sonunda yapılan grup tartışması ile ilgili aşağıda verilen bilgilerden hangisi doğrudur?</p>",
+        "A": "<p>Yaşanılan ve hissedilenlerin ifade edildiği, tanımlandığı, anlamlandırıldığı bir tartışmadır.</p>",
+        "B": "<p>Çocukların performanslarının değerlendirilmesini sağlar.</p>",
+        "C": "<p>Etkinliği izleyenlerin görüşleri alınır.</p>",
+        "D": "<p>Tanımsal, bilişsel ve yaşantısal düzey olmak üzere üç düzeyden oluşur.</p>",
+        "E": "<p id=\"isPasted\">Grup tartışmasına öğretmen isterse yer vermeyebilir.</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "8c130e5405f71908faf46350e196e1bd",
+        "Text": "<p>Her drama etkinliğinden sonra zihinde canlandırma yapılması gerekli olmayabilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "9d6d2c6f24e514515a8cb1fa28849490",
+        "Text": "<p>Olay, durum, öykü ve roller yaşanılıp üzerinde durulmadığında öğrenme için yeterli olmayabilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 8
+    },
+    {
+        "QuestionId": "0295aadd49a078cf1dbc21edbb8db7c8",
+        "Text": "<p>Proje temelli öğrenme ile ilgili olarak aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Hümanist Eğitim yaklaşımının benimsediği önemli bir öğrenme yoludur.</p>",
+        "B": "<p>Çocukların akranlarla ve bazı yetişkinliklerle iş birliği ilişkileri geliştirebilmelerine katkı sağlar.</p>",
+        "C": "<p>Çocukların birey olarak bilgi kaynaklarını ve bilginin kendisini araştırmalarına ve elde etmelerine katkı sağlar.</p>",
+        "D": "<p>Çocukların elde ettikleri bilgileri sistemli ve etkili bir biçimde sunabilmelerine katkı sağlar.</p>",
+        "E": "<p id=\"isPasted\">Çocukların akranlarından ve öğretmenlerinden aldığı dönütler sayesinde gelişmelerini amaçlar.</p><p>Aşağıdaki ifadeyi okuyarak doğru ise parantez içine (D) harfini, yanlış ise (Y) harfini yazınız.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 9
+    },
+    {
+        "QuestionId": "0b417e123415e8a0e9c7692a275d110c",
+        "Text": "<p>Eğitici drama etkinlikleri değerlendirilirken her çocuk tek tek değerlendirilir ve bu değerlendirme onlara iletilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 9
+    },
+    {
+        "QuestionId": "417d01f3c3e7bb0f24784bdc147bb52b",
+        "Text": "<p>Örgütleme stratejisinde aşağıdakilerden hangisine <u id=\"isPasted\">yer verilmez</u>?</p>",
+        "A": "<p>Dramada yaşananların çocuklar ve öğretmen tarafından sözel olarak özetlenmesi</p>",
+        "B": "<p>Bilgiler arasında ilişkiler kurularak örgütlenmesi</p>",
+        "C": "<p>Önceden bilinenlerle yeni öğrenilenlerin ilişkilendirilmesi</p>",
+        "D": "<p>Dramada yaşananların ve sonradan tartışılanların yeniden düzenlenmesi</p>",
+        "E": "<p>Drama etkinliği sırasında yaşananların adlandırılması ve tanımlanması</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 9
+    },
+    {
+        "QuestionId": "4f173e64135104a4cf2e500c36fb0a0c",
+        "Text": "<p>Aşağıdakilerden hangisi drama uygulamalarını daha etkili hâle getirmek için önemlidir?</p>",
+        "A": "<p>Drama etkinliklerini çocukların alışkın oldukları ortamlarda gerçekleştirme</p>",
+        "B": "<p>Drama çalışmalarını müze ya da park gibi gerçek ortamlarda gerçekleştirme</p>",
+        "C": "<p>Drama çalışmalarında katılımcıların akranlardan oluşması</p>",
+        "D": "<p>Katılımcıların yaratıcılıklarını kullanmalarını sağlamak için sınırlı sayıda materyal kullanma</p>",
+        "E": "<p id=\"isPasted\">Katılımcıların sessiz bir şekilde birbirilerini dinlemelerini sağlama</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 9
+    },
+    {
+        "QuestionId": "82fab389115f7baece82e8ea9532e52f",
+        "Text": "<p>Eğitici dramanın değerlendirilmesi ile ilgili aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Çocuklar tek tek değil, genel olarak grup değerlendirilir.</p>",
+        "B": "<p>Öğretmen değerlendirmeyi kendisi için yapar.</p>",
+        "C": "<p>Değerlendirmede önemli olan nicelik değil niteliktir.</p>",
+        "D": "<p>Eğitim tekniklerinin amacına ulaşıp ulaşmadığının belirlenmesi için gereklidir.</p>",
+        "E": "<p id=\"isPasted\">Düzenli olarak her hafta drama uygulanan bir grupta yaklaşık olarak 2-4 ayda bir değerlendirme yapılmalıdır.</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 9
+    },
+    {
+        "QuestionId": "b6c288407d3cb5a4d158253a763f78f2",
+        "Text": "<p id=\"isPasted\">I. Anne babaları da bir biçimde eğitici drama çalışmalarına katmak</p><p>II. Az sayıda katılımcıyla drama uygulamalarını gerçekleştirmek</p><p>III. Proje temelli öğrenme yaklaşımını benimsemek</p><p>Yukarıda verilenlerden hangisi/hangileri eğitici drama uygulamalarının etkisini arttırabilir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız III</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 9
+    },
+    {
+        "QuestionId": "1fbba5426e47542ba44b07a73684951e",
+        "Text": "<p>Aşağıda tanımlanan çocuklardan hangilerinin drama etkinliklerinden alacakları yararın <u id=\"isPasted\">sınırlı</u> olması muhtemeldir?</p>",
+        "A": "<p>Sözel yetenekleri etkileşimde bulunmaya yeterli olan çocuklar</p>",
+        "B": "<p>Öğretmenlerin yönergelerini anlayabilen çocuklar</p>",
+        "C": "<p>Dikkatini verebilen çocuklar</p>",
+        "D": "<p>Kısa ve uzun süreli belleğini etkili şekilde kullanabilen çocuklar</p>",
+        "E": "<p>Nesneleri sadece amacına uygun kullanabilen çocuklar</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "219c671a8cd7a94e9f86ca5c96d625e5",
+        "Text": "<p>Bir çocuğun masanın altını ev gibi kullanması aşağıda verilen bilişsel süreçlerden hangisini ifade eder?</p>",
+        "A": "<p>Zihinde canlandırma</p>",
+        "B": "<p>Taklit etme</p>",
+        "C": "<p>Hareketlerle simgeleştirme</p>",
+        "D": "<p>Nesnelerle simgeleştirme</p>",
+        "E": "<p id=\"isPasted\">Yönerge anlama</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "596ed024667400aea2e4b74d950d36c5",
+        "Text": "<p>Dramada çocuğun aktif katılımı ancak kendi beden hareketleri sayesinde mümkündür.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "7a8fd3977d1fdb65c55c9acc7d04d0dd",
+        "Text": "<p id=\"isPasted\">I. Bir uyarıcıyla ya da düşünceyle ilgili davranışta bulunabilecek kadar yeterince uzun süre dikkatini yoğunlaştırabilmesi</p><p>II. Nesne, olay ve durumları kendi zihninde canlandırabilmesi ve yaşayabilmesi</p><p>III. Sesini etkili kullanabilmesi</p><p><strong></strong>Çocuğun drama etkinliklerine kendisine yarar sağlayacak şekilde katılabilmesi için yukarıda verilenlerden <u>hangisi/hangileri gereklidir</u>?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "7e592b30bc470e37cef0acda05942da8",
+        "Text": "<p>Öğretmenin yönergesiyle çocuğun kendini soğuk bir kış gününde kardan adam yaparken düşünebilmesi aşağıda verilen bilişsel süreçlerden hangisini ifade eder?</p>",
+        "A": "<p>Taklit etme</p>",
+        "B": "<p>Zihinde canlandırma</p>",
+        "C": "<p>Yönerge anlama</p>",
+        "D": "<p>Hareketlerle simgeleştirme</p>",
+        "E": "<p id=\"isPasted\">Nesnelerle simgeleştirme</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "c3e17abc87a9f1e547b9ea1eb0102472",
+        "Text": "<p>Taklit etme çocuklarda doğum ile birlikte başlar.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "d64621a2cce1775d3eec025bb855556d",
+        "Text": "<p>Taklit etme, dikkati yoğunlaştırma, zihinde canlandırma gibi bilişsel süreçlerde yeterince gelişmemiş olan çocuklar drama etkinliğine dâhil edilmemelidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "f8ee97386494cb558e934b7a62a05763",
+        "Text": "<p>Taklit etme ile ilgili olarak aşağıda verilenlerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Öğrenme yollarından biridir.</p>",
+        "B": "<p>Çocuklarda doğum ile birlikte görülmeye başlanır.</p>",
+        "C": "<p>Drama etkinliklerinde kullanımı çocukların birbirlerini gözleyerek öğrenmelerine yardımcı olur.</p>",
+        "D": "<p>Çocuklar için he zaman yarar sağlar.</p>",
+        "E": "<p id=\"isPasted\">Çocuklar için olumsuz olduğu durumlar da söz konusu olabilir.</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 10
+    },
+    {
+        "QuestionId": "55dd2e21f12d117760dbec96abd658ed",
+        "Text": "<p id=\"isPasted\">I. Drama etkinliğinin müzik eşliğinde yapılması</p><p>II. Çocukların oyunu kuklalar aracılığıyla canlandırması</p><p>III. Çocuklar arasında aktif olarak oynayanlar ile seyircilerin yer değiştirmesi</p><p>Yukarıda verilenlerden hangisi/hangileri drama esnasında özel bir teknik olarak kullanılabilir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>I ve II</p>",
+        "C": "<p>I ve III</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 11
+    },
+    {
+        "QuestionId": "561d26ff0e74f3de708e40803993fb0b",
+        "Text": "<p>Bir önceki aşamada anne olan çocuğun bir sonraki aşamada çocuk rolünü oynaması ve etkinliğin tekrarlanması aşağıdaki tekniklerden hangisini ifade eder?</p>",
+        "A": "<p>Rol oynama</p>",
+        "B": "<p>Rol değiştirme</p>",
+        "C": "<p>Paralel çalışma</p>",
+        "D": "<p>Pandomim</p>",
+        "E": "<p id=\"isPasted\">Duyusal algılama</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 11
+    },
+    {
+        "QuestionId": "6efc1b6289cbc2145ee3100368704911",
+        "Text": "<p>Öykü/olay canlandırma eğitici dramada sıklıkla kullanılan bir tekniktir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 11
+    },
+    {
+        "QuestionId": "7a69efacf4121638e6e0c55cc6a34382",
+        "Text": "<p>Öğretmenin drama etkinliğine grubun bir parçası olarak doğrudan katılması aşağıdaki tekniklerden hangisini ifade eder?</p>",
+        "A": "<p>Rol değiştirme</p>",
+        "B": "<p>Katılımcı liderlik</p>",
+        "C": "<p>Paralel çalışma</p>",
+        "D": "<p>Pandomim</p>",
+        "E": "<p id=\"isPasted\">Doğaçlama</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 11
+    },
+    {
+        "QuestionId": "8805c12d3da5bec18c59b73f83696075",
+        "Text": "<p>Çocukların kendi küçük gruplarında birbirleriyle iş birliği yaparken, bir yandan büyük grubun bir parçası olmayı sürdürerek bir ölçüde özgün bir şekilde çalışmayı öğrenmelerine yardımcı olan teknik aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Pandomim</p>",
+        "B": "<p>Rol oynama</p>",
+        "C": "<p>Rol değiştirme</p>",
+        "D": "<p>Duyusal algılama</p>",
+        "E": "<p>Paralel çalışma</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 11
+    },
+    {
+        "QuestionId": "d2b5ea964b2cafbea5d8f0d6216169ae",
+        "Text": "<p>Kendi hâline bırakılan çocuklar pandomimi tek başına ya da arkadaşları ile oynarken özgürce kullanırlar.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 11
+    },
+    {
+        "QuestionId": "fae35bd8b2015f30a57e0678fa3cf257",
+        "Text": "<p>Eğitici dramada kullanılan teknikler ile ilgili aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Kuklalar aracılığı ile drama oyunları çocukların ilgisini en çok çeken tekniklerden biridir.</p>",
+        "B": "<p>Öykü/olay canlandırma tekniği kullanılacağı zaman öğretmen önce öykü veya olayı baştan sona anlatmalıdır.</p>",
+        "C": "<p>Pandomim yolu ile dramada canlandırılabilecek olan davranışlar, olaylar, nesneler sınırsızdır.</p>",
+        "D": "<p>Müzikle drama daha önce hiç drama etkinliğine katılmamış çocuklarla kullanılması gereken bir tekniktir.</p>",
+        "E": "<p id=\"isPasted\">Diğer duyulardan alınabilecek duyumları engellenerek, tek bir duyudan elde edilen duyumlara odaklanılan duyusal algılama çalışmaları çocukların konsantrasyon becerilerini geliştirmektedir.</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 11
+    },
+    {
+        "QuestionId": "01780d9a6fe574dd54e32b2c57505ad8",
+        "Text": "<p>Aşağıdakilerden hangisi drama uygulamaları ile ilgili doğru bir bilgidir?</p>",
+        "A": "<p>Drama uygulamalarının bir amacı da grubun öğretmeni ile çocuklar arasındaki ilişkileri geliştirmek ve derinleştirmektir.</p>",
+        "B": "<p>Psikodrama gibi tedavi amacı olduğundan bir psikolog tarafından uygulanması daha uygundur.</p>",
+        "C": "<p>Öğretmen uygulama sırasında otoriter tutum takınmalıdır.</p>",
+        "D": "<p>Drama uygulayacak öğretmen yetiştirirken öğretmen adaylarının sadece çocuklarla pratik yapması sağlanır.</p>",
+        "E": "<p id=\"isPasted\">Öğretmen adaylarının birbirlerinden etkilenmelerini önlemek için uygulamalar esnasında yalnızca öğretmen adayı ve çocuklar olmasına dikkat edilir.</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "08b685c5df82c965e01b403215307f51",
+        "Text": "<p>Öğrenme grubunun asıl (kendi) öğretmeni en uygun drama uygulayıcısıdır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "46301143e8c943e4669f80a1a766ce8b",
+        "Text": "<p>Aşağıdakilerden hangisi drama uygulayacak olan öğretmenin eğitilmesinde izlenecek aşamalardan biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Eğitici dramanın amaçları ve tekniği konusunda kuramsal bilgilerin verilmesi</p>",
+        "B": "<p>Drama etkinliklerini diğer öğretmen adayları ile birlikte yapması sağlanarak etkinlikleri yaşamasına olanak verilmesi</p>",
+        "C": "<p>Öğretmen adaylarından oluşan gruba liderlik ederek drama uygulaması yapmasının sağlanması</p>",
+        "D": "<p>Öğretmen adayının doğaçlama çalışmaları ile uygulamalara başlamasının sağlanması</p>",
+        "E": "<p id=\"isPasted\">Öğretmen adayının az sayıda çocuktan oluşan bir grupla, kolay drama örneklerinden başlayarak uygulama yapmasının sağlanması</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "57d5e3e7155391e35d254a9128bc6a86",
+        "Text": "<p id=\"isPasted\">I. Kendini serbest bırakmayı öğrenme alıştırmaları</p><p>II. Drama etkinliklerini diğer öğretmen adayları ile birlikte yapmasının sağlanması</p><p>III. Eğitici dramanın amaçları ve tekniği konusunda kuramsal bilgi verilmesi</p><p>IV. Öğretmen adayının az sayıda çocuktan oluşan bir grupta kolay drama örneklerinden başlayarak uygulama yapması</p><p>Yukarıda verilen drama uygulayacak öğretmenin eğitilmesinde izlenecek aşamalar aşağıdaki şıklardan hangisinde doğru sıralanmıştır?</p>",
+        "A": "<p>I-II-III-IV</p>",
+        "B": "<p>I-III-II-IV</p>",
+        "C": "<p>III-I-II-IV</p>",
+        "D": "<p>III-II-I-IV</p>",
+        "E": "<p id=\"isPasted\">III-II-IV-I</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "89c3a8bb1d67bd50c7142dabc0682761",
+        "Text": "<p>Aşağıdakilerden hangisi drama öğretmenin kazanması gereken niteliklerden biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Çocukları oldukları gibi kabul etme</p>",
+        "B": "<p>Yönetmekten çok yol gösterme</p>",
+        "C": "<p>Sempatik bir lider olma</p>",
+        "D": "<p>Çocukların önerilerini dikkate alma</p>",
+        "E": "<p>Etkinliğin sınırlarını iyi belirleme ve bunun dışına hiç çıkmama</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "a1a8b625af95208a51813c6aacc62209",
+        "Text": "<p>Drama uygulayacak öğretmenin yetiştirilmesindeki ilk aşama kendini serbest bırakma alıştırmaları yapmaktır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "cad2391f78edbd5c7286005a9f292811",
+        "Text": "<p>Drama uygulamaya karar veren bir öğretmenin en çok karşılaşabileceği güçlük dramayı uygulayacağı grubun büyüklüğüdür.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "cecc9e942c507deb186e5964d99f230a",
+        "Text": "<p>Öğretmen adayına kendini serbest bırakmayı öğrenme alıştırmaları yaptırılmasının sebebi duygularının farkına varan, duygularını ifade edebilen, rahat ve doğal bir kişilik kazanmasına yardımcı olmaktır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "e8f8475e401a2a2fb6e55090afe34363",
+        "Text": "<p>Drama etkinlikleri sırasında öğretmenin çocuklara sevgisini gösterebilmesi önemlidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "ebcccdebd3e934736207b75b62ce00b2",
+        "Text": "<p id=\"isPasted\">I. Drama etkinliklerini bir psikolog ile birlikte uygulamasında fayda vardır.</p><p>II. Drama etkinlikleri sırasında öğretmen çocuklara sevgisini göstermelidir.</p><p>III. Drama etkinliğine katılan her çocuk için gelişmeye uygun bir çevre hazırlamalıdır.</p><p><strong></strong>Drama öğretmeniyle ilgili olarak yukarıda verilenlerden hangisi/hangileri <u>doğrudur</u>?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>Yalnız III</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p id=\"isPasted\">III ve III</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 12
+    },
+    {
+        "QuestionId": "0a45eb06c59ea25d43c87c71804aebeb",
+        "Text": "<p>Aşağıdakilerden hangisi grup tartışmasında öğretmenin çocukların söylediğini tekrarlamasının faydalarından biri <u id=\"isPasted\">değildir</u>?</p>",
+        "A": "<p>Çocuğu dinlediğini göstermek</p>",
+        "B": "<p>Söz hakkı alan çocuğu diğerlerinin dinlemesini sağlamak</p>",
+        "C": "<p>Çocuğa anlaşıldığı mesajını vermek</p>",
+        "D": "<p>Çocuğu ne kadar anladığını göstermek</p>",
+        "E": "<p id=\"isPasted\">Gelen mesajı hem söyleyen kişinin hem de diğerlerinin daha iyi anlamasını sağlamak</p><p></p>",
+        "CorrectAnswer": "B",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "2ee97da1db1021457146c0b3ce9924d8",
+        "Text": "<p>Drama etkinliğine isteyen çocuğun istediği kadar katılmasına izin verilmelidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "3478e1dfd17dbe85308697d889ea00e4",
+        "Text": "<p>Yukarıdakilerden hangisi/hangileri drama uygulayacak öğretme verilebilecek doğru bir öneridir?</p>",
+        "A": "<p>Grup bütünlüğünü bozmamak için ne olursa olsun grubu bölmemelidir.</p>",
+        "B": "<p>Çocukların istedikleri arkadaşlarıyla yan yana olmalarına izin vermelidir.</p>",
+        "C": "<p>Katılmak istemeyen çocukların etkinlik dışında kalmalarına izin vermemeli, onları da mutlaka sürece dâhil etmelidir.</p>",
+        "D": "<p>Çocuk iyi performans gösterdiyse onu teşvik etmek adına ödüllendirmelidir.</p>",
+        "E": "<p>Etkinlik esnasında alay etme gibi davranışlarla karşılaşan öğretmen etkinliği kesmeli, alay eden çocukları grubun dışına çıkarmalı ya da başka bir ortamda denetim altına alınmalarını sağlamalıdır.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "7d46ef137895f28bcd1913f4e56276d0",
+        "Text": "<p>Öğretmen çocukların özelliklerine göre onları gruplamalı ya da yan yana gelmelerini engellemelidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "8e75317c78ace2743ada66f89a4a34f6",
+        "Text": "<p>Drama etkinlikleri sonrasında grup tartışması ve değerlendirmesinde aşağıdakilerden hangisinin yapılması <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Öğretmenin grupta tartışılan ve vurgulanan önemli bilgileri özetlemesi</p>",
+        "B": "<p>Çocukların tüm duygularının koşulsuz olarak kabul edilmesi</p>",
+        "C": "<p>Öğretmenin çocuğun söylediğini toparlayan bir ifadeyle onun söylediğini tekrarlaması</p>",
+        "D": "<p>Öğretmenin “Bakalım önce kim doğru cevabı verebilecek?” gibi öğrencileri katılmaya teşvik edici cümleler kurması</p>",
+        "E": "<p id=\"isPasted\">Öğretmenin sorduğu sorularla ilgili gerekli durumlarda yönlendirici sorular sorması</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "afb0214aa86d2f0240129df25db08329",
+        "Text": "<p>Grup değerlendirmesi sırasında yalnızca açık uçlu soruların sorulması yeterlidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "bd4f72273fd97cc4e82760e9645ca756",
+        "Text": "<p id=\"isPasted\">I. Açık uçlu sorular sormak</p><p>II. Çocukların sorularını “güzel soru” şeklinde olumlu olarak değerlendirmek</p><p>III. İhtiyaç duyulduğunda yönlendirici soru sormak</p><p>Eğitici drama etkinliği sonrasında yapılan grup değerlendirmesinin amacına ulaşması için yukarıda verilenlerden hangisinin/hangilerinin yapılması gereklidir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız III</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "c38c808e39bd142ea0bc1e33d9942724",
+        "Text": "<p>Drama uygulanacak olan grup kaç kişi olursa olsun bölünmemelidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p>Yanlış</p>",
+        "CorrectAnswer": "B",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "de1e040042fa18e207b24d9d80a9708e",
+        "Text": "<p id=\"isPasted\">I. Gruptaki çocuk sayısı 20’yi aştığında grubu ikiye bölebilir.</p><p>II. Saldırgan ve oyunu bozan davranışlar hariç her davranışı kabul etmelidir.</p><p>III. Çocukların yoğun talep gösterdiği bir rol varsa bu rolü etkinlikten çıkarmalı, diğer rolleri çocuklara paylaştırmalıdır.</p><p>Drama uygulayacak öğretmen drama etkinliğinin daha etkili olması için yukarıdakilerden hangisine/hangilerine dikkat etmelidir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>YaInız II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "C",
+        "unite_id": 13
+    },
+    {
+        "QuestionId": "1b8e232476f0b040e193fc9d38db3252",
+        "Text": "<p>Rahatlama, gevşeme çalışmalarıyla ilgili aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Amaçlarından biri çocukların dikkatlerini bedenlerine yoğunlaştırmalarını ve bedenlerinin farkına varmalarını sağlamaktır.</p>",
+        "B": "<p>Çocukların bedensel olarak rahatlamalarını sağlamak amaçlanır.</p>",
+        "C": "<p>Stresi azaltıcı çalışmalardır.</p>",
+        "D": "<p>Rahat, hoş bir çevre yaratır.</p>",
+        "E": "<p>Lider, alıştırmaların neye yarayacağını çocuklara önceden açıklamamalı, kendilerine buldurmaya çalışmalıdır.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "29ab42ce3b260eee8b9a87e355fcd12c",
+        "Text": "<p>Rahatlama, gevşeme çalışmalarında çocukların sandalyelerinde rahat bir pozisyonda oturmalarına da izin verilebilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p><p></p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "5897997d5f67eb6c43e4201e07c5aaff",
+        "Text": "<p>Tanışma/selamlaşma/isim öğrenme çalışmaları çocukların sosyalleşmeleri açısından önem taşımaktadır.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "76ed7930b073c0cd8988b441610f94d1",
+        "Text": "<p>Tanışma/selamlaşma/isim öğrenme çalışmalarıyla ilgili aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Çocukların sosyalleşmeleri açısından önemlidir.</p>",
+        "B": "<p>Çocukların insanların birbirlerinden farklı olduğunu, isimlerin farklılıklarını anlamaları temelinde beklenir.</p>",
+        "C": "<p>Çocukların arkadaş edinme becerilerini geliştirir.</p>",
+        "D": "<p>İsim sorma ve öğrenme, kendini ismi ile tanıtma davranışlarını kazandırmayı amaçlar.</p>",
+        "E": "<p>Uzun zamandır birlikte olan gruplarda bu çalışmaların yapılmasına gerek yoktur.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "785a9ad75c9ea0b7921511164758f753",
+        "Text": "<p>Rahatlama, gevşeme çalışmaları yaşanan güncel problemlerden sonra uygulanabilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "85b6a9b63d804bb590fbf984e244d6c2",
+        "Text": "<p>İlişki kurma, iletişim ve hareket çalışmalarıyla ilgili aşağıdakilerden hangisi <u id=\"isPasted\">yanlıştır</u>?</p>",
+        "A": "<p>Birbirleriyle tanışmış çocuklarla gerçekleştirilir.</p>",
+        "B": "<p>Çocuklar arasındaki iletişimi, sosyal ilişkileri geliştirmeyi amaçlar.</p>",
+        "C": "<p>Harekete dayalı etkinlikleri içerir.</p>",
+        "D": "<p>Çocuklar bu etkinlikler sayesinde bedensel enerjilerini harekete geçirir.</p>",
+        "E": "<p>Birbirini tanımayan çocukların birbirleriyle iletişim kurmalarını sağlayan etkinliklerdir.</p>",
+        "CorrectAnswer": "E",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "9157c038260b13137082939ccfb8ef2c",
+        "Text": "<p>İlişki kurma, iletişim ve hareket çalışmaları birbirlerinin isimlerini öğrenmiş, birbirleriyle tanışmış olan çocuklarla gerçekleştirilmelidir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "a58adcb0a97fd53bbb6178a71fae7f74",
+        "Text": "<p>Tanışma, selamlaşma çalışmaları çocuğun kendini diğer insanlardan ayırt etmesini sağlayabilir.</p>",
+        "A": "<p>Doğru</p>",
+        "B": "<p id=\"isPasted\">Yanlış</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "ea6d85c652dcc5333e0cc852c29b6e59",
+        "Text": "<p id=\"isPasted\">I. Çocukların mutlaka yere uzanmaları sağlanmalıdır.</p><p>II. Çocukların iç ve dış uyarıcıları görmeyip verilen yönergeye konsantre olmaları sağlanmalıdır.</p><p>III. Lider, alıştırmaların neye yarayacağını çocuklara çalışmaya başlamadan önce açıklamalıdır.</p><p>Yukarıdakilerden hangisi/hangileri rahatlama, gevşeme çalışmaları hakkında doğru bilgidir?</p>",
+        "A": "<p>Yalnız I</p>",
+        "B": "<p>Yalnız II</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p id=\"isPasted\">I, II ve III</p><p></p>",
+        "CorrectAnswer": "D",
+        "unite_id": 14
+    },
+    {
+        "QuestionId": "f92b16126256e6864bde25ca7fe230a0",
+        "Text": "<p id=\"isPasted\">I. Tanışma, selamlaşma, isim öğrenme</p><p>II. İlişki kurma, iletişim ve hareket çalışmaları</p><p>III. Rahatlama, gevşeme çalışmaları</p><p>Yukarıdaki çalışmaların uygulanma sırası aşağıdakilerden hangisinde doğru verilmiştir?</p>",
+        "A": "<p>I-II-III</p>",
+        "B": "<p>I-III-II</p>",
+        "C": "<p>II-III-I</p>",
+        "D": "<p>II-I-III</p>",
+        "E": "<p id=\"isPasted\">III-I-II</p><p></p>",
+        "CorrectAnswer": "A",
+        "unite_id": 14
+    }
+]

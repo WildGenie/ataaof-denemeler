@@ -27,8 +27,8 @@ def get_auzef_headers(exam_id, token=None):
 
     return {
         "Accept": "*/*",
-        "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Accept-Language": "tr,en-US;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "tr-TR,tr;q=0.9",
         "Connection": "keep-alive",
         "Content-Type": "application/x-www-form-urlencoded",
         "Host": "auzefdeneme.istanbul.edu.tr",
@@ -37,10 +37,7 @@ def get_auzef_headers(exam_id, token=None):
         "Sec-Fetch-Dest": "empty",
         "Sec-Fetch-Mode": "cors",
         "Sec-Fetch-Site": "same-origin",
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
-        "sec-ch-ua": '"Microsoft Edge";v="143\", "Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"',
-        "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": '"macOS"',
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko)",
         "Cookie": cookie
     }
 
@@ -58,7 +55,16 @@ def map_to_standard_format(q, course_name, unit_id):
     # Text: str (HTML)
     # A, B, C, D, E: str (HTML)
     # CorrectAnswer: str (A, B, C, D, E)
-    # unite_id: int
+    # unite_id: int / str
+
+    raw_u_id = q.get("unite_id")
+    if raw_u_id is None:
+        raw_u_id = unit_id
+
+    try:
+        final_unit = int(str(raw_u_id))
+    except (ValueError, TypeError):
+        final_unit = 0
 
     return {
         "SoruID": q.get("QuestionId"),
@@ -70,7 +76,7 @@ def map_to_standard_format(q, course_name, unit_id):
         "E": clean_html(q.get("E", "")),
         "DogruCevap": q.get("CorrectAnswer", ""),
         "DersAd": course_name,
-        "Unite": q.get("unite_id", unit_id or 0),
+        "Unite": final_unit,
         "Somestre": 0,
         "Aciklama": clean_html(q.get("Explanation", ""))
     }
