@@ -1,0 +1,313 @@
+[
+    {
+        "course": "Görsel Estetik",
+        "material_ids": [
+            "633974",
+            "633986",
+            "634074",
+            "634055",
+            "634077",
+            "634039",
+            "634021",
+            "633995",
+            "634063",
+            "633999",
+            "634092"
+        ]
+    },
+    {
+        "course": "Mitoloji ve Din",
+        "material_ids": [
+            "527018",
+            "527057",
+            "591977",
+            "527043",
+            "527010",
+            "556670",
+            "575084",
+            "527053",
+            "527022",
+            "541425"
+        ]
+    },
+    {
+        "course": "Temel Fotoğrafçılık",
+        "material_ids": [
+            "522781",
+            "574638",
+            "522755",
+            "522739",
+            "541186",
+            "522765",
+            "522747",
+            "522743",
+            "522748",
+            "591728"
+        ]
+    },
+    {
+        "course": "Görsel İletişim ve Tasarım Tarihi",
+        "material_ids": [
+            "516201",
+            "622593",
+            "492762",
+            "492716",
+            "571097",
+            "492757",
+            "574660",
+            "565285"
+        ]
+    },
+    {
+        "course": "İleri Tipografi",
+        "material_ids": [
+            "618224",
+            "622596",
+            "548563",
+            "565288"
+        ]
+    },
+    {
+        "course": "Anadolu Kültür Tarihi",
+        "material_ids": [
+            "571096",
+            "574659",
+            "565284",
+            "443028",
+            "618220"
+        ]
+    },
+    {
+        "course": "Tipografi",
+        "material_ids": [
+            "622594",
+            "607600",
+            "607580",
+            "607538",
+            "607588",
+            "607549",
+            "607597"
+        ]
+    },
+    {
+        "course": "Yeni Medya Sanatı",
+        "material_ids": [
+            "582785",
+            "582794",
+            "582834",
+            "591741",
+            "626546",
+            "582809",
+            "582819",
+            "582837"
+        ]
+    },
+    {
+        "course": "Sanatta Eleştirel Düşünce",
+        "material_ids": [
+            "523140",
+            "574665",
+            "541200",
+            "591742",
+            "556445",
+            "596754",
+            "626548",
+            "523126"
+        ]
+    },
+    {
+        "course": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+        "material_ids": [
+            "634550",
+            "634564",
+            "634626",
+            "634599",
+            "634606",
+            "634578",
+            "634586"
+        ]
+    },
+    {
+        "course": "Sayısal Görüntüleme Teknolojileri",
+        "material_ids": [
+            "523001",
+            "523002",
+            "523000",
+            "523017",
+            "591737",
+            "596749",
+            "523035",
+            "626537",
+            "556440",
+            "574654"
+        ]
+    },
+    {
+        "course": "Engellilik ve Erişilebilir Tasarım",
+        "material_ids": [
+            "634895",
+            "634882",
+            "634892",
+            "634903",
+            "634928"
+        ]
+    },
+    {
+        "course": "Ambalaj Tasarımı",
+        "material_ids": [
+            "634819",
+            "634816",
+            "634852",
+            "634807"
+        ]
+    },
+    {
+        "course": "Görsel İletişim ve Kuramları",
+        "material_ids": [
+            "591744",
+            "626552",
+            "576082",
+            "596756",
+            "576073",
+            "576085"
+        ]
+    },
+    {
+        "course": "Eğitici İçerik Tasarımı",
+        "material_ids": [
+            "606563",
+            "622602",
+            "606565",
+            "606545",
+            "618230",
+            "626558"
+        ]
+    },
+    {
+        "course": "Dijital Medya ve Arayüz Tasarımı",
+        "material_ids": [
+            "626555",
+            "565292",
+            "622600",
+            "574672",
+            "618228",
+            "571104"
+        ]
+    },
+    {
+        "course": "Temel Sanat ve Tasarım Eğitimi",
+        "material_ids": [
+            "634423",
+            "634486",
+            "634483",
+            "634466",
+            "634474",
+            "634450",
+            "634425",
+            "634424"
+        ]
+    },
+    {
+        "course": "Dijital Kültür",
+        "material_ids": [
+            "607483",
+            "607503",
+            "607412",
+            "607440",
+            "622595",
+            "607449",
+            "607395",
+            "618223"
+        ]
+    },
+    {
+        "course": "Sanat Tarihi",
+        "material_ids": [
+            "453215",
+            "443386"
+        ]
+    },
+    {
+        "course": "Dijital Görüntüleme İşleme Yöntemleri",
+        "material_ids": [
+            "565290",
+            "622598",
+            "618226",
+            "571102",
+            "626551",
+            "574668"
+        ]
+    },
+    {
+        "course": "Kurumsal Kimlik Tasarımı",
+        "material_ids": [
+            "634701",
+            "634662",
+            "634673",
+            "634653",
+            "634665"
+        ]
+    },
+    {
+        "course": "Bilgi Görselleştirme",
+        "material_ids": [
+            "626560",
+            "622603",
+            "606507",
+            "606527",
+            "606525"
+        ]
+    },
+    {
+        "course": "Sürdürülebilir Grafik Tasarım",
+        "material_ids": [
+            "606600",
+            "626557",
+            "622601",
+            "606602",
+            "618229"
+        ]
+    },
+    {
+        "course": "Dijital Video Kurgu ve Efekt",
+        "material_ids": [
+            "618227",
+            "565291",
+            "574670",
+            "626553",
+            "571103",
+            "622599"
+        ]
+    },
+    {
+        "course": "Görsel Sistem Tasarımları",
+        "material_ids": [
+            "634778",
+            "634750",
+            "634741",
+            "634775",
+            "634738",
+            "634729"
+        ]
+    },
+    {
+        "course": "Tasarım Etiği ve Hukuku",
+        "material_ids": [
+            "596764",
+            "591752"
+        ]
+    },
+    {
+        "course": "Hareketli Grafik Tasarımı",
+        "material_ids": [
+            "591749",
+            "596761"
+        ]
+    },
+    {
+        "course": "Yapay Zeka ve Tasarım",
+        "material_ids": [
+            "618235"
+        ]
+    }
+]

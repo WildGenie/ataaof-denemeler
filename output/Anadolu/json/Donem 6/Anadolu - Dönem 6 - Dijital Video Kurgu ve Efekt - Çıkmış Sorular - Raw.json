@@ -1,0 +1,1804 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi <u>\"temanın çağrışımlar ile aktarılmasını\"</u> ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Sembolizm",
+                "Leit-motif",
+                "Zıtlıklar",
+                "Signifier",
+                "Montage"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi Edwin Porter'in yönettiği filmlerden biridir?",
+            "options": [
+                "Arka Pencere",
+                "Trenin Gara Girişi",
+                "Bir Ulusun Doğuşu",
+                "Hoşgörüsüzlük",
+                "Amerikalı İtfaiyecinin Hayatı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 3,
+            "question": "Bir görüntüye ait RGB renk verilerinin birleştirilip tek bir sinyal olarak, tek bir kablo üzerinden aktarıldığı sinyal çeşidine ne ad verilir?",
+            "options": [
+                "Ses sinyali",
+                "Komponent sinyal",
+                "Kompozit sinyal",
+                "Dijital sinyal",
+                "Görüntü sinyali"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi görüntüde kare hızının (frame rate) tanımıdır?",
+            "options": [
+                "Çerçeve içindeki yatay ve dikey kare sayılarıdır.",
+                "Kare ve çerçeve arasındaki hızdır.",
+                "Bir saniye başına düşen kare sayısıdır.",
+                "Bir film boyunca ekranda görünen kare açısıdır.",
+                "Karelerin aralarındaki hız durumudur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 5,
+            "question": "Baş plan olarak da bilinen ve duyguları en iyi yansıtan çekim ölçeği aşağıdakilerden hangisidir?",
+            "options": [
+                "Bel plan",
+                "Göğüs plan",
+                "Çok yakın plan",
+                "Yakın plan",
+                "Ayrıntı plan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 6,
+            "question": "Kameranın çok hızlı bir şekilde sağa ya da sola doğru çevrinmesine ne ad verilir?",
+            "options": [
+                "Hızlı çekim",
+                "Ani pan",
+                "Hızlı oynatım",
+                "Akan çekim",
+                "Ağır çekim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 7,
+            "question": "Proje panelinde oluşturduğunuz yeni projeniz için düzenlemeye geçmeden önce dosyalarınızı ______ gerekir.",
+            "options": [
+                "sesi eklemek",
+                "Kamu spotu kurgusu",
+                "Reklam filmi kurgusu",
+                "Müzik videosu kurgusu",
+                "Ses kurgusu"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 8,
+            "question": "Akışlı ve B-Roll çekimlerin devreye girdiği iş akışı aşağıdakilerden hangisidir?",
+            "options": [
+                "Belgesel röportaj kurgusu",
+                "Kamu spotu kurgusu",
+                "Reklam filmi kurgusu",
+                "Müzik videosu kurgusu",
+                "Ses kurgusu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi Adobe Premiere Pro'da içe aktarmada desteklenen ses dosya türlerinden biri <u>değildir</u>?",
+            "options": [
+                "MP3",
+                "MP4",
+                "AAC",
+                "AIFF",
+                "WAV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 10,
+            "question": "Görüntüye in ve out verdikten sonra sekansta imleci görüntüyü girmek istediğimiz yere getirir ve virgül tuşuna basarız. Seçtiğimiz görüntü sekansa imlecin sağ tarafını ittirerek girer. Yukarıda anlatılan kurgu tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Overwrite edit",
+                "Dissolve edit",
+                "Mask edit",
+                "Cut edit",
+                "Insert edit"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdakilerden hangisi Footage klasöründe yer alır?",
+            "options": [
+                "Raporlar",
+                "Yazılar",
+                "Notlar",
+                "Videolar",
+                "Grafikler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 12,
+            "question": "Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farka ne ad verilir?",
+            "options": [
+                "Kontrast oranı",
+                "Gama",
+                "Siyah ve beyaz dengesi",
+                "Renk dengesi",
+                "Piksel yoğunluğu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 13,
+            "question": "Bir pikselin sayısal değeri ile gerçek parlaklığı arasındaki ilişkiye ne ad verilir?",
+            "options": [
+                "Piksel artışı",
+                "Siyah seviyesi",
+                "Gama",
+                "Piksel yoğunluğu",
+                "Beyaz dengesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 14,
+            "question": "Vectorscope üzerindeki bir renk, merkez noktasıyla uzaklaşmaya başladıkça o renk aşağıdakilerden hangisi değişir?",
+            "options": [
+                "Tonu",
+                "Renk ayarı",
+                "Siyah dengesi",
+                "Beyaz dengesi",
+                "Doygunluğu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 15,
+            "question": "Aşağıdakilerden hangisi Spill teriminin tanımıdır?",
+            "options": [
+                "Bilgisayar tarafından oluşturulan görüntüler ile film ve televizyonda dijital olarak oluşturulan görsel efektleri tanımlamar.",
+                "Yeşil ekrandan özneye geri yansıyan renkli ışığı ifade eder.",
+                "Gerçekçi bir görüntü oluşturabilmek için her bir karenin canlı aksiyondaki karakterler ya da nesneler üzerinden çizimidir.",
+                "Karakterin ışık koşullarının canlı aksiyon çekimdeki ışık koşullarına uygun hale getirilmesi ve renk doğrulama süreçlerinin tamamını tanımlayan terimdir.",
+                "Arka planda yer alması gereken öğeler, istenen açı, ışık koşulu ve materyal ile oluşturulmasını ifade eder."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 16,
+            "question": "Mevcut çekimlerden daha panoramik bir en boy oranına (aspect ratio) ihtiyaç duyulduğunda aşağıdaki yöntemlerden hangisi uygulanmalıdır?",
+            "options": [
+                "Set genişletme",
+                "Kamera takibi",
+                "Hareket takibi",
+                "Mat boyama",
+                "Kalabalık kopyalama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 17,
+            "question": "Aşağıdakilerden hangisi görsel efekt uygulama süreçlerinden biri <u>değildir</u>?",
+            "options": [
+                "Matchmove (Hareket Eşleştirme)",
+                "Rotoskop (Rotoscoping)",
+                "Digital Matte Painting (Dijital Mat Boyama)",
+                "Freeze Frame (Kare Dondurma)",
+                "Chroma Key (Mavi-Yeşil Perde)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 18,
+            "question": "Film sesini oluşturan üç temel ögeye dördüncü olarak ______ ögesini de eklemek gerekir.",
+            "options": [
+                "müzik",
+                "diyalog",
+                "sessizlik",
+                "ortam sesi",
+                "ses efektleri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 19,
+            "question": "Ses sinyalinin en düşük ve en yüksek seviyesi arasındaki farka ne ad verilir?",
+            "options": [
+                "Toplam güç",
+                "Sessizlik",
+                "Gürültü",
+                "Yetersiz seviye",
+                "Dinamik alan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 20,
+            "question": "Film öyküsünde yer alan, film izleyicisiyle beraber filmdeki karakterlerin de işittiği tüm seslere ne ad verilir?",
+            "options": [
+                "Öyküsel ses",
+                "Ekran içi ses",
+                "Ses perspektifi",
+                "Doğrudan ses",
+                "Kontrapuntal ses"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574670"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi \".'</br>çağrışımlar ile aktarılmasını\" ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Sembolizm",
+                "Leit-motif",
+                "Zıtlıklar",
+                "Signifier",
+                "Montage"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi Edwin Porter'in yönettiği filmlerden biridir?",
+            "options": [
+                "Arka Pencere",
+                "Trenin Gara Girişi",
+                "Bir Ulusun Doğuşu",
+                "Hoşgörüsüzlük",
+                "Amerikalı İtfaiyecinin Hayatı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 23,
+            "question": "Bir görüntüye ait RGB renk verilerinin birleştirilip tek bir sinyal olarak, tek bir kablo üzerinden aktarıldığı sinyal çeşidine ne ad verilir?",
+            "options": [
+                "Ses sinyali",
+                "Komponent sinyal",
+                "Kompozit sinyal",
+                "Dijital sinyal",
+                "Görüntü sinyali"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisi görüntüde kare hızının (frame rate) tanımıdır?",
+            "options": [
+                "Çerçeve içindeki yatay ve dikey kare sayılarıdır.",
+                "Kare ve çerçeve arasındaki hızdır.",
+                "Bir saniye başına düşen kare sayısıdır.",
+                "Bir film boyunca ekranda görünen kare sayısıdır.",
+                "Karelerin aralarındaki hız durumudur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 25,
+            "question": "Baş plan olarak da bilinen ve duyguları en iyi yansıtan çekim ölçeği aşağıdakilerden hangisidir?",
+            "options": [
+                "Bel plan",
+                "Göğüs plan",
+                "Çok yakın plan",
+                "Yakın plan",
+                "Ayrıntı plan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 26,
+            "question": "Kameranın çok hızlı bir şekilde sağa ya da sola doğru çevrinmesine ne ad verilir?",
+            "options": [
+                "Hızlı çekim",
+                "Ani pan",
+                "Hızlı oynatım",
+                "Akan çekim",
+                "Ağır çekim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 27,
+            "question": "Proje panelinde oluşturduğunuz yeni projeniz için düzenlemeye geçmeden önce dosyalarınızı __________ gerekir.",
+            "options": [
+                "içe aktararak",
+                "render ederek",
+                "simetrik etmek",
+                "import etmek",
+                "sıkıştırmak"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Belgesel röportaj kurgusu",
+                "Kamu spotu kurgusu",
+                "Reklam filmi kurgusu",
+                "Müzik videosu kurgusu",
+                "Ses kurgusu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangisi Adobe Premiere Pro'da içe aktarmada desteklenen ses dosya türlerinden biri <u>değildir</u>?",
+            "options": [
+                "MP3",
+                "MP4",
+                "AAC",
+                "AIFF",
+                "WAV"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 30,
+            "question": "Görüntüye in ve out verdikten sonra sekansta imleci görüntüyü girmek istediğimiz yere getirir ve virgül tuşuna basarız. Seçtiğimiz görüntü sekansa imlecin sağ tarafını ittirerek girer. Yukarıda anlatılan kurgu tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Overwrite edit",
+                "Dissolve edit",
+                "Mask edit",
+                "Cut edit",
+                "Insert edit"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 31,
+            "question": "Aşağıdakilerden hangisi Footage klasöründe yer alır?",
+            "options": [
+                "Raporlar",
+                "Yazılar",
+                "Notlar",
+                "Videolar",
+                "Grafikler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 32,
+            "question": "Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farka ne ad verilir?",
+            "options": [
+                "Kontrast oranı",
+                "Gama",
+                "Siyah ve beyaz dengesi",
+                "Renk dengesi",
+                "Piksel yoğunluğu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 33,
+            "question": "Bir pikselin sayısal değeri ile gerçek parlaklığı arasındaki ilişkiye ne ad verilir?",
+            "options": [
+                "Piksel artışı",
+                "Siyah seviyesi",
+                "Gama",
+                "Piksel yoğunluğu",
+                "Beyaz dengesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 34,
+            "question": "Vectorscope üzerindeki bir renk, merkez noktasından uzaklaşmaya başladığında o rengin aşağıdaki temel bileşenlerinden hangisi <u>değişir</u>?",
+            "options": [
+                "Tonu",
+                "Renk ayarı",
+                "Siyah dengesi",
+                "Beyaz dengesi",
+                "Doygunluğu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdakilerden hangisi Spill teriminin tanımıdır?",
+            "options": [
+                "Bilgisayar tarafından oluşturulan görüntüler ile film ve televizyonda dijital olarak oluşturulan görsel efektleri tanımlamar.",
+                "Yeşil ekrandan özneye geri yansıyan renkli ışığı ifade eder.",
+                "Gerçekçi bir görüntü oluşturabilmek için her bir karenin canlı aksiyondaki karakterler ya da nesneler üzerinden çizimidir.",
+                "Karakterin ışık koşullarının canlı aksiyon çekimdeki ışık koşullarına uygun hale getirilmesi ve renk doğrulama süreçlerinin tamamını tanımlayan terimdir.",
+                "Arka planda yer alması gereken öğeler, istenen açı, ışık koşulu ve materyal ile oluşturulmasını ifade eder."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 36,
+            "question": "Mevcut çekimlerden daha panoramik bir en boy oranına (aspect ratio) ihtiyaç duyulduğunda aşağıdaki yöntemlerden hangisi uygulanmalıdır?",
+            "options": [
+                "Set genişletme",
+                "Kamera takibi",
+                "Hareket takibi",
+                "Mat boyama",
+                "Kalabalık kopyalama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi görsel efekt uygulama süreçlerinden biri <u>değildir</u>?",
+            "options": [
+                "Matchmove (Hareket Eşleştirme)",
+                "Rotoskop (Rotoscoping)",
+                "Digital Matte Painting (Dijital Mat Boyama)",
+                "Freeze Frame (Kare Dondurma)",
+                "Chroma Key (Mavi-Yeşil Perde)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 38,
+            "question": "Film sesini oluşturan üç temel ögeye dördüncü olarak __________ ögesini de eklemek gerekir.",
+            "options": [
+                "müzik",
+                "diyalog",
+                "sessizlik",
+                "ortam sesi",
+                "ses efektleri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 39,
+            "question": "Ses sinyalinin en düşük ve en yüksek seviyesi arasındaki farka ne ad verilir?",
+            "options": [
+                "Toplam güç",
+                "Sessizlik",
+                "Gürültü",
+                "Yetersiz seviye",
+                "Dinamik alan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 40,
+            "question": "Film öyküsünde yer alan, film izleyicisiyle beraber filmdeki karakterlerin de işittiği tüm seslere ne ad verilir?",
+            "options": [
+                "Öyküsel ses",
+                "Ekran içi ses",
+                "Ses perspektifi",
+                "Doğrudan ses",
+                "Kontrapuntal ses"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626553"
+        },
+        {
+            "id": 41,
+            "question": "Aşağıdakilerden hangisi Georges Melies'in filmlerinden biridir?",
+            "options": [
+                "Kaybolan Kadın",
+                "Büyük Tren Soygunu",
+                "Trenin Gara Girişi",
+                "Bisiklet Hırsızları",
+                "Kuşlar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 42,
+            "question": "Aşağıdakilerden hangisi Edwin Porter'in yönettiği filmlerden biridir?",
+            "options": [
+                "Bir Ulusun Doğuşu",
+                "Arka Pencere",
+                "Trenin Gara Girişi",
+                "Amerikalı İtfaiyecinin Hayatı",
+                "Hoşgörüsüzlük"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 43,
+            "question": "Aşağıdakilerden hangisi Lumiere Kardeşler'in yönettiği filmlerden biridir?",
+            "options": [
+                "Büyük Tren Soygunu",
+                "İşçilerin Fabrikadan Çıkışı",
+                "Yurttaş Kane",
+                "Bisiklet Hırsızı",
+                "Ay'a Seyahat"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 44,
+            "question": "Aşağıdakilerden hangisi \"temanın çağrışımlar ile aktarılması\"nı ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Leit-motif",
+                "Signifier",
+                "Montage",
+                "Zıtlıklar",
+                "Sembolizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 45,
+            "question": "Aşağıdakilerden hangisi görüntüde kare hızının (frame rate) tanımıdır?",
+            "options": [
+                "Çerçeve içindeki yatay ve dikey kare sayısıdır.",
+                "Bir film boyunca ekranda görünen kare sayısıdır.",
+                "Bir saniye başına düşen kare sayısıdır.",
+                "Karelerin aralarındaki hız durumudur.",
+                "Kare ve çerçeve arasındaki hızdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 46,
+            "question": "Bir görüntüde kare içindeki uzamsal fazlalıkları saptayıp onları azaltmayı amaçlayan sıkıştırma yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kareler arası sıkıştırma",
+                "Sahneler arası sıkıştırma",
+                "Kare sayısını azaltma",
+                "Sahne sayısını azaltma",
+                "Kare içi sıkıştırma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 47,
+            "question": "Aşağıdakilerden hangisi <u>ilk</u> hareketli görüntü cihazıdır?",
+            "options": [
+                "Gearofon",
+                "Kinema",
+                "Stenograf",
+                "Kinetograf",
+                "Gramofon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 48,
+            "question": "Bir görüntüye ait RGB renk verilerinin birleştirilip tek bir sinyal olarak, tek bir kablo üzerinden aktarıldığı sinyal çeşidine ne ad verilir?",
+            "options": [
+                "Kompozit sinyal",
+                "Komponent sinyal",
+                "Dijital sinyal",
+                "Görüntü sinyali",
+                "Ses sinyali"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 49,
+            "question": "___ ekrandaki görüntünün kendinden sonraki görüntü tarafından ekranın bir tarafına doğru itilerek ekrandan çıkarılmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Donma tekniği",
+                "İris-out",
+                "Silme tekniği",
+                "Netleşme",
+                "Bindirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi kurgunun temel amaçlarından biri <u>değildir</u>?",
+            "options": [
+                "Dramatik vurguyu belirginleştirmek",
+                "Kamera kullanımını kolaylaştırmak",
+                "Alt metin oluşturmak",
+                "Anlatı açıklığını sağlamak",
+                "Estetik ögeler arasında denge oluşturmak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 51,
+            "question": "Bir sahnenin ya da filmin sonunda ekrandaki görüntünün son karesinin bir süre ekranda kalmasına ne ad verilir?",
+            "options": [
+                "Silme",
+                "İris",
+                "Kesme",
+                "Zincirle",
+                "Donma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 52,
+            "question": "Baş plan olarak da bilinen ve duyguları en iyi yansıtan çekim ölçeği aşağıdakilerden hangisidir?",
+            "options": [
+                "Bel plan",
+                "Göğüs plan",
+                "Yakın plan",
+                "Çok yakın plan",
+                "Ayrıntı plan"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 53,
+            "question": "Gerçek dünyadaki renkler dijital hale getirilirken görüntünün her pikselinde renklerin ne kadar yoğun, derin bir şekilde temsil edileceğini belirleyen değer aşağıdakilerden hangisidir?",
+            "options": [
+                "Çerçeve oranı",
+                "Bit derinliği",
+                "Tarama yöntemi",
+                "Kare Hızı",
+                "Piksel sayısı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 54,
+            "question": "Kameranın çok hızlı bir şekilde sağa ya da sola doğru çevrilmesine ne ad verilir?",
+            "options": [
+                "Hızlı çekim",
+                "Akan çekim",
+                "Hızlı oynatım",
+                "Ağır çekim",
+                "Ani pan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 55,
+            "question": "Aşağıdaki hangisi bir projenin son halinin, kullanıma veya dağıtıma için uygun bir dosya formatında kaydedilmesi işlemidir?",
+            "options": [
+                "Export",
+                "Ön İzleme",
+                "Import",
+                "Kodlama",
+                "Render"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 56,
+            "question": "Bir sahnedeki mekânsal tutarlılığı ve yönelimi korumaya yarayan en önemli unsur aşağıdakilerden hangisidir?",
+            "options": [
+                "Geçiş kuralı",
+                "Hareket uyumu",
+                "180 derece kuralı",
+                "Hareket yönü",
+                "Bakış yönü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 57,
+            "question": "Proje panelinde oluşturduğunuz yeni projeniz için düzenlemeye geçmeden önce dosyalarınızı ____ gerekir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "export etmek",
+                "sıkıştırmak",
+                "senkron etmek",
+                "import etmek",
+                "render etmek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 58,
+            "question": "Aşağıdakilerden hangisi zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı izlenmesini sağlar?",
+            "options": [
+                "Program Monitörü",
+                "Kaynak Monitörü",
+                "Efekt Kontrolleri",
+                "Ses Mikseri",
+                "Araçlar Paneli"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 59,
+            "question": "Adobe Premiere Pro'nun 2023 sürümü olan 24.0.3'te aşağıdaki yapay zeka platformlarından hangisi ile zenginleştirilmiş özellikler sunulmuştur?",
+            "options": [
+                "Adobe Creative Suite",
+                "Adobe Smart Edit",
+                "Adobe Cloud Al",
+                "Adobe Intelligence",
+                "Adobe Sensei"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 60,
+            "question": "Aşağıdakilerden hangisi Adobe Premiere Pro'da içe aktarmada desteklenen ses dosya türlerinden biri <u>değildir</u>?",
+            "options": [
+                "MP3",
+                "AIFF",
+                "AAC",
+                "MP4",
+                "WAV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565291"
+        },
+        {
+            "id": 61,
+            "question": "Aşağıdakilerden hangisi Edwin Porter'in yönettiği filmlerden biridir?",
+            "options": [
+                "Amerikalı İtfaiyecinin Hayatı",
+                "Arka Pencere",
+                "Trenin Gara Girişi",
+                "Bir Ulusun Doğuşu",
+                "Hoşgörüsüzlük"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi izleyici isteği doğrultusunda öykü anlatımına yönelen <b>ilk yönetmenlerden</b> biridir?",
+            "options": [
+                "Lumiere Kardeşler",
+                "Edwin Porter",
+                "Pudovkin",
+                "Orson Welles",
+                "Rudolph Arnheim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 63,
+            "question": "Aşağıdakilerden hangisi görsel sürekliliği sağlayabilmek için kurgudan kurguya geçişleri içeren sürekliliği temel alan montaj türüdür?",
+            "options": [
+                "Sekmeli montaj",
+                "Tonal montaj",
+                "Ritmik montaj",
+                "Efekte dayalı montaj",
+                "Uzunluk montajı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 64,
+            "question": "Aşağıdakilerden hangisi \"temanın çağrışımlar ile aktarılmasını” ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Zıtlıklar",
+                "Signifier",
+                "Sembolizm",
+                "Montage",
+                "Leit-motif"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 65,
+            "question": "Kurgunun yer aldığı aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Prodüksiyon",
+                "Tretman",
+                "Sinopsis",
+                "Post prodüksiyon",
+                "Pre prodüksiyon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 66,
+            "question": "Televizyon yayınlarında video görüntüsünü oluşturmak için kullanılan iki temel tarama yönteminden biri olan ve 576p, 1080p gibi ifadelerde \"p\" harfi ile gösterilen tarama yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Görüntü hızı (video rate) tarama",
+                "Tek geçişli (progressive) tarama",
+                "Bit derinliği (bit rate) tarama",
+                "Kareli (piksel) tarama",
+                "Geçmeli (interlaced) tarama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 67,
+            "question": "Bir görüntüye ait RGB renk verilerinin birleştirilip tek bir sinyal olarak, tek bir kablo üzerinden aktarıldığı sinyal çeşidine ne ad verilir?",
+            "options": [
+                "Dijital sinyal",
+                "Komponent sinyal",
+                "Kompozit sinyal",
+                "Görüntü sinyali",
+                "Ses sinyali"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 68,
+            "question": "Kurguda işleyişin hızlanması için görüntülerin daha az yer kaplayan düşük kalitede kopyalarının çıkarılmasına ne ad verilir?",
+            "options": [
+                "Seçmeli format",
+                "Bilgisayar (computer) format",
+                "Kurgu (editing) format",
+                "Vekil (proxy) format",
+                "Büyük (big) format"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 69,
+            "question": "Ön Kurgu (Off-line editing) işlemi bittikten sonra hangi görüntülerin kullanıldığını, hangi çekimin hangi aralığının kullanıldığını kaydetmek için kullanılan listeye ne ad verilir?",
+            "options": [
+                "Çekim listesi (SL)",
+                "Yapım sonrası (post prodüksiyon) listesi (PPL)",
+                "Çekim senaryosu (SS)",
+                "Kurgu karar listesi (EDL)",
+                "Film çekim takvimi (MSS)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 70,
+            "question": "Bir görüntüde kare içindeki uzamsal fazlalıkları değil, kareden kareye oluşan geçici fazlalığı saptayıp onları azaltmayı amaçlayan sıkıştırma yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kareyi silme",
+                "Sahneler arası sıkıştırma",
+                "Kareler arası sıkıştırma",
+                "Sahne sayısını azaltma",
+                "Kare içi doldurma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 71,
+            "question": "Bir sahnede seyirci üzerinde gerginlik yaratan bir olayın sonuçlanmasını ya da sonucun seyirciye gösterilmesini geciktirmeye ne ad verilir?",
+            "options": [
+                "Kesme geciktirmesi",
+                "Kısa kesme",
+                "Parça",
+                "Geriye gidiş",
+                "30 derece kuralı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 72,
+            "question": "Bir sahnedeki mekânsal tutarlılığı ve yönelimi korumaya yarayan <b>en önemli unsur</b> aşağıdakilerden hangisidir?",
+            "options": [
+                "Hareket yönü",
+                "Bakış yönü",
+                "Geçiş kuralı",
+                "Hareket uyumu",
+                "180 derece kuralı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 73,
+            "question": "Aşağıdakilerden hangisi devamlılık kurgu anlayışının bileşenlerinden biri <u>değildir</u>?",
+            "options": [
+                "180 derece kuralı",
+                "30 derece kuralı",
+                "Hareket uyumu",
+                "Çekim ölçeği uyumu",
+                "Sıçramalı kesme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 74,
+            "question": "Baş plan olarak da bilinen ve duyguları en iyi yansıtan çekim ölçeği aşağıdakilerden hangisidir?",
+            "options": [
+                "Bel plan",
+                "Göğüs plan",
+                "Yakın plan",
+                "Çok yakın plan",
+                "Ayrıntı plan"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 75,
+            "question": "Siyah ekranda beliren küçük bir dairenin gittikçe genişleyerek tüm ekranı kaplaması tekniğine ne ad verilir?",
+            "options": [
+                "Netleşme",
+                "İris-in",
+                "Bindirme",
+                "Açılma",
+                "Kararma"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı izlenmesini sağlar?",
+            "options": [
+                "Program Monitörü",
+                "Kaynak Monitörü",
+                "Efekt Kontrolleri",
+                "Araçlar Paneli",
+                "Ses Mikseri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 77,
+            "question": "Adobe Premiere Pro'nun 2023 sürümü olan 24.0.3'te aşağıdaki yapay zeka platformlarından hangisi ile zenginleştirilmiş özellikler sunmuştur?",
+            "options": [
+                "Adobe Creative Suite",
+                "Adobe Cloud Al",
+                "Adobe Smart Edit",
+                "Adobe Intelligence",
+                "Adobe Sensei"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 78,
+            "question": "Aşağıdakilerden hangisi Adobe Premiere Pro'da içe aktarmada desteklenen ses dosya türlerinden biri <u>değildir</u>?",
+            "options": [
+                "AAC",
+                "WAV",
+                "MFF",
+                "MP4",
+                "MP3"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdaki codeclerden hangisi geniş uyumluluk ve dengeli dosya boyutu/kalite oranı için sıklıkla tercih edilir?",
+            "options": [
+                "UHD",
+                "H.264",
+                "MPEG-5",
+                "ProRes",
+                "M4A"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 80,
+            "question": "___ orijinal medya dosyalarının daha küçük, daha az işlem gücü gerektiren versiyonlarıdır ve özellikle düşük performanslı bilgisayarlarda veya büyük ve karmaşık projelerde düzenleme sürecini hızlandırır.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Proxy Dosyaları",
+                "Zip Dosyalar",
+                "Exe Dosyalar",
+                "Sıkıştırılmış Dosyalar",
+                "Çıktı Dosyaları"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618227"
+        },
+        {
+            "id": 81,
+            "question": "Aşağıdakilerden hangisi \"kinetografı\" ilk kullanan kişilerden biridir?",
+            "options": [
+                "Sergei Eisenstein",
+                "Ernest Hemingway",
+                "Rudolph Arnheim",
+                "Thomas Edison",
+                "Walt Disney"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 82,
+            "question": "Kurguda işleyişin hızlanması için görüntülerin daha az yer kaplayan düşük kalitede kopyalarının çıkarılmasına ne ad verilir?",
+            "options": [
+                "Büyük (big) format",
+                "Vekil (proxy) format",
+                "Küçük (little) format",
+                "Kurgu (editing) format",
+                "Bilgisayar (computer) format"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 83,
+            "question": "Aşağıdakilerden hangisi Adobe Premiere Pro'da içe aktarmada desteklenen video dosya türlerinden biri <u>değildir</u>?",
+            "options": [
+                "MOV",
+                "AVI",
+                "WMV",
+                "EXE",
+                "MP4"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 84,
+            "question": "Siyah ekranda beliren küçük bir dairenin gittikçe genişleyerek tüm ekranı kaplaması tekniğine ne ad verilir?",
+            "options": [
+                "Netleşme",
+                "Kararma",
+                "Açılma",
+                "Bindirme",
+                "İris-in"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 85,
+            "question": "Film ve video prodüksiyonunda ana aksiyon olmayan tüm görüntülere ne ad verilir?",
+            "options": [
+                "Master shots",
+                "B- Roll",
+                "Master Roll",
+                "A- Roll",
+                "Back-up Roll"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 86,
+            "question": "İki farklı mekânda meydana gelen ve birbirleriyle bağlantılı olan iki olay arasında kesmelerle gidip gelme tekniğine ne ad verilir?",
+            "options": [
+                "Sıçramalı kesme",
+                "Eşlemeli kesme",
+                "Kesme geciktirmesi",
+                "Çapraz kesme",
+                "Kısa kesme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 87,
+            "question": "A-roll ve B-Roll çekimlerin devreye girdiği iş akışı aşağıdakilerden hangisidir?",
+            "options": [
+                "Müzik videosu kurgusu",
+                "Reklam filmi kurgusu",
+                "Belgesel röportaj kurgusu",
+                "Ses kurgusu",
+                "Kamu spotu kurgusu"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 88,
+            "question": "Tek bir renk tonunun tüm varyasyonlarının kullanıldığı renk şeması aşağıdakilerden hangisidir?",
+            "options": [
+                "Monolog",
+                "Üçlü renk düzeni",
+                "Analog",
+                "Tamamlayıcı",
+                "Monokromatik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 89,
+            "question": "Vectorscope üzerindeki bir renk, merkez noktadan uzaklaşmaya başladıkça o rengin aşağıdaki temel bileşenlerinden hangisi değişir?",
+            "options": [
+                "Doygunluğu",
+                "Beyaz dengesi",
+                "Siyah dengesi",
+                "Renk ayarı",
+                "Tonu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 90,
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [
+                "A seçeneği",
+                "B seçeneği",
+                "C seçeneği",
+                "D seçeneği",
+                "E seçeneği"
+            ],
+            "correctIndex": -1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 91,
+            "question": "Karakterlerin özellikle gözlerindeki odaklanma, yön değiştirme gibi faktörlerden dolayı yapılan kesme türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Ritim",
+                "Bilgi kesmesi",
+                "Motivasyon kesmesi",
+                "Ses kesmesi",
+                "Renk kesmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 92,
+            "question": "Görüntüdeki bir kısmı izole ederek sadece o kısımla ilgili ayarlar yapmaya olanak sağlayan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Log",
+                "Primaries bars",
+                "RGB",
+                "YRGB",
+                "Qualifier"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 93,
+            "question": "Aşağıdakilerden hangisi Spill teriminin tanımıdır?",
+            "options": [
+                "Karakterin ışık koşullarının canlı aksiyon çekimdeki ışık koşullarına uygun hale getirilmesi ve renk doğrulama süreçlerinin tamamını tanımlayan terimdir.",
+                "Yeşil ekrandan özneye geri yansıyan renkli ışığı ifade eder.",
+                "Arka planda yer alması gereken ögeler, istenen açı, ışık koşulu ve materyal ile oluşturulmasını ifade eder.",
+                "Bilgisayar tarafından oluşturulan görüntüler ile film ve televizyonda dijital olarak oluşturulan görsel efektleri tanımlamalar.",
+                "Gerçekçi bir görüntü oluşturabilmek için her bir nesnenin ışık akışındaki koordinatını, ya da nesneler üzerindeki çizimleri."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 94,
+            "question": "Aşağıdakilerden hangisi kalabalık kopyalama (crowd duplication) yaparken dikkat edilmesi gerekenlerden biri <u>değildir</u>?",
+            "options": [
+                "Mat boyama",
+                "Rotoskop",
+                "Renk doğrulama",
+                "Maskeleme",
+                "Key'leme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 95,
+            "question": "Aşağıdakilerden hangisi 3 boyutlu post prodüksiyonun amaçlarından biri <u>değildir</u>?",
+            "options": [
+                "Devamlılığı desteklemek",
+                "İzleyici beklentisini ve göz konforunu en üst düzeye çıkarmak",
+                "Canlı aksiyon çekimlerin miktarını azaltmak",
+                "Derinlik izlenimi yaratmak",
+                "Yaratıcılığı desteklemek"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 96,
+            "question": "Aşağıdakilerden hangisi görsel efekt uygulama süreçlerinden biri <u>değildir</u>?",
+            "options": [
+                "Freeze Frame (Kare Dondurma)",
+                "Chroma Key (Mavi-Yeşil Perde)",
+                "Rotoskop (Rotoscoping)",
+                "Matchmove (Hareket Eşleştirme)",
+                "Digital Matte Painting (Dijital Mat Boyama)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 97,
+            "question": "Aşağıdakilerden hangisi ses köprüsü oluşturma yöntemlerinden biridir?",
+            "options": [
+                "Fade-in",
+                "Fade-up",
+                "Fade-out",
+                "Cut",
+                "J-cut"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 98,
+            "question": "Film sesini oluşturan üç temel ögeye dördüncü olarak ----- ögesini de eklemek gerekir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "ses efektleri",
+                "ortam sesi",
+                "sessizlik",
+                "müzik",
+                "diyalog"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 99,
+            "question": "Ses sinyalinin en düşük ve en yüksek seviyesi arasındaki farka ne ad verilir?",
+            "options": [
+                "Toplam güç",
+                "Dinamik alan",
+                "Yetersiz seviye",
+                "Sessizlik",
+                "Gürültü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 100,
+            "question": "Film öyküsünde yer alan, film izleyicisiyle beraber filmdeki karakterlerin de işittiği tüm seslere ne ad verilir?",
+            "options": [
+                "Öyküsel ses",
+                "Ekran içi ses",
+                "Kontrapuntal ses",
+                "Ses perspektifi",
+                "Doğrudan ses"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571103"
+        },
+        {
+            "id": 101,
+            "question": "Aşağıdakilerden hangisi bilinen ilk hareketli görüntü cihazıdır?",
+            "options": [
+                "Stenograf",
+                "Kinema",
+                "Gramofon",
+                "Gearofon",
+                "Kinetograf"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 102,
+            "question": "Bir görüntüde kare içindeki uzamsal fazlalıkları saptayıp onları azaltmayı amaçlayan sıkıştırma yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kare içi sıkıştırma",
+                "Kare sayısını azaltma",
+                "Sahne sayısını azaltma",
+                "Sahneler arası sıkıştırma",
+                "Kareler arası sıkıştırma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 103,
+            "question": "Kameranın çok hızlı bir şekilde sağa ya da sola doğru çevrinmesine ne ad verilir?",
+            "options": [
+                "Ağır çekim",
+                "Hızlı oynatım",
+                "Hızlı çekim",
+                "Akan çekim",
+                "Ani pan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 104,
+            "question": "Aşağıdakilerden hangisi Adobe Premiere Pro’da içe aktarmada desteklenen video dosya türlerinden biri <u>değildir</u>?",
+            "options": [
+                "WMV",
+                "MOV",
+                "MP4",
+                "WAV",
+                "AVI"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 105,
+            "question": "• İzleyici bir sonra ne görmek ister?<br>• İzleyici bir sonra ne görmelidir?<br>• İzleyici bir sonra ne göremez?<br>• İzleyicinin bir sonra ne görmesini isterim?<br>Yukarıdaki soruları sormak kurgudaki hangi faktörün izini sürmektir?",
+            "options": [
+                "Ses",
+                "İnce kurgu",
+                "Marker",
+                "Bilgi",
+                "Motivasyon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 106,
+            "question": "Bir film kurgusunun sağlıklı ilerleyebilmesi için kesmenin zamanlamasının anlatı bağlamında değerlendirilmesi gerekir. Yukarıdaki durumda sorulması gereken soru aşağıdakilerden hangisidir?",
+            "options": [
+                "Çekimin netliği nasıl?",
+                "Kesmenin marker işareti var mı?",
+                "Kesmenin nedeni nedir?",
+                "Kesmenin biçimi nasıl?",
+                "Çekimin devamlılığı nasıl?"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 107,
+            "question": "Hangi kareden sonrasına keseceğiniz konusunda kararsızsanız, kısa kürek prensibi uzun kesin. Yukarıdaki ifade edilen kurgu prensibi aşağıdakilerden hangisidir?",
+            "options": [
+                "Bilgi",
+                "Pay bırakmak",
+                "Motivasyon",
+                "Ses doğrusu",
+                "Duygu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 108,
+            "question": "Film ve video prodüksiyonunda ana aksiyon olmayan tüm görüntülere ne ad verilir?",
+            "options": [
+                "Master Roll",
+                "Back-up Roll",
+                "A- Roll",
+                "B- Roll",
+                "Master shots"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 109,
+            "question": "Görüntüdeki bir kısmı izole ederek sadece o kısımla ilgili ayarlar yapmaya olanak sağlayan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Log",
+                "Qualifier",
+                "YRGB",
+                "Primaries bars",
+                "RGB"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 110,
+            "question": "İki çekim arasındaki renk uyumunu sağlarken aşağıdaki hangi görüntüleme aracı iki çekimi bir arada görmeyi sağlar?",
+            "options": [
+                "Dissolve",
+                "Curve",
+                "Wipe",
+                "RGB",
+                "Blur"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 111,
+            "question": "Vectorscope üzerindeki bir renk, merkez noktadan uzaklaşmaya başladıkça o rengin aşağıdaki temel bileşenlerinden hangisi değişir?",
+            "options": [
+                "Beyaz dengesi",
+                "Siyah dengesi",
+                "Tonu",
+                "Renk ayarı",
+                "Doygunluğu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 112,
+            "question": "Aşağıdakilerden hangisi 3 boyutlu post prodüksiyonun amaçlarından biri <u>değildir</u>?",
+            "options": [
+                "Canlı aksiyon çekimlerin miktarını azaltmak",
+                "İzleyici beklentisini ve göz konforunu en üst düzeye çıkarmak",
+                "Devamlılığı desteklemek",
+                "Derinlik izlenimi yaratmak",
+                "Yaratıcılığı desteklemek"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 113,
+            "question": "Motion Capture süreci ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bir aktörün, kameranın izleyebileceği özel işaretlerle (veya performans yakalama durumunda, oyuncunun yüzüne boyanmış noktalarla) kaplı bir hareket yakalama giysisi giyerek aksiyon içinde bulunması ile gerçekleşir.",
+                "Oyuncunun sadece el, kol hareketlerini belirli bir rota izleyrek taklit eder.",
+                "Bu süreç bir oyuncunun yüz ifadelerini kaydetmeyi içerdiğinde, buna genellikle \"Performans Yakalama\" denir.",
+                "3 boyutlu karakter oyuncunun gerçekleştirdiği en ufak hareketi bile gerçekçi bir şekilde yapar.",
+                "Kameralar ve sensörler tarafından yakalanan veriler, daha sonra hareket yakalama yazılımı kullanılarak bir 3 boyutlu iskelet modeline eşlenir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 114,
+            "question": "Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farka ne ad verilir?",
+            "options": [
+                "Gama",
+                "Siyah ve beyaz dengesi",
+                "Renk dengesi",
+                "Piksel yoğunluğu",
+                "Kontrast oranı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 115,
+            "question": "Mevcut çekimlerden daha panoramik bir en boy oranına (aspect ratio) ihtiyaç duyulduğunda aşağıdaki yöntemlerden hangisi uygulanmalıdır?",
+            "options": [
+                "Set genişletme",
+                "Kalabalık kopyalama",
+                "Hareket takibi",
+                "Mat boyama",
+                "Kamera takibi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 116,
+            "question": "Gerçekçi bir görüntü oluşturabilmek için her bir karenin canlı aksiyondaki karakterler ya da nesneler üzerinden çizilmesine ne ad verilir?",
+            "options": [
+                "Extrude",
+                "Keying",
+                "Rotoskop",
+                "Pen Tool",
+                "Green Screen"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 117,
+            "question": "Film sesini oluşturan üç temel ögeye dördüncü olarak --------- ögesini de eklemek gerekir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "ortam sesi",
+                "ses aksı",
+                "müzik",
+                "sessizlik",
+                "diyalog"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 118,
+            "question": "Ses kayıtlarında kullanılan mikrofon ile bilgisayar hoparlörleri birbirine yakın olduğunda aşağıdakilerden hangisi oluşur?",
+            "options": [
+                "Video sinyalde titreme",
+                "Bilgisayar ses kartında aşırı ısınma",
+                "Seste geri dönüş",
+                "Timecode hatası",
+                "Seste patlama"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 119,
+            "question": "Video görüntü ile videoya bağlı olan ses kanalı/kanalları istenildiğinde birbirinden bağımsız hale getirebilir ve tekrar birbirine bağlanabilir. Yukarıdaki ifadeye göre bu işlemleri gerçekleştirmek için aşağıdaki hangi ikili kullanılır?",
+            "options": [
+                "Unlink ve Link",
+                "Fade-down ve Fade-up",
+                "Pan ve solo",
+                "Fade-in ve Fade-out",
+                "Cut ve Crossfade"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        },
+        {
+            "id": 120,
+            "question": "Kurgu yazılımında ses kliplerine ayrı ayrı ses efektleri eklenip uygulanabildiği gibi bu işlemi ses mikseri aracılığıyla yapmayı da sağlayan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Media Browser",
+                "Audio Track Mixer",
+                "Effect Controls",
+                "Hard Limiter",
+                "Clip FX Editor"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622599"
+        }
+    ]
+}

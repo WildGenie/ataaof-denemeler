@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdaki arkeolojik buluntulardan hangisi antik dönemde bir dizi spor hareketinin nasıl yapılacağını açıklayan çizimler içerir?",
+            "options": [
+                "Efes Antik Kenti",
+                "Göbeklitepe Sit Alanı",
+                "Parteon Rölyef ve Heykelleri",
+                "Truva Antik Kenti",
+                "Khnumhotepin Mezarı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 2,
+            "question": "\"Fotoğraf çekerken objektifin açık kaldığı süre, ışık girme süresi\" aşağıdakilerden hangisini tanımlar?",
+            "options": [
+                "Ritim",
+                "Hareket hızı",
+                "Poz",
+                "Fi fenomeni",
+                "Ağ tabaka izlenimi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 3,
+            "question": "Bir tarafı mikroskobik boyutta ışığa duyarlı gümüş halojenür kristalleri içeren bir jelatin emülsiyonu ile kaplanmış bir şerite ______ denir.",
+            "options": [
+                "afiş",
+                "mercek",
+                "objektif",
+                "deklanşör",
+                "film"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisinde camera kullanılmamıştır?",
+            "options": [
+                "Diaphonarama",
+                "Gökbilim çalışmaları",
+                "Saat yapımı",
+                "Büyülü Fener (Lanterna Magica)",
+                "Fantazmagorya (Phantasmagoria)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıdaki isimlerden hangisi Sinematograf'ın mucidi sayılır?",
+            "options": [
+                "George Eastman",
+                "Charles-Émile Reynaud",
+                "Louis ve Auguste Lumière",
+                "Eadweard Muybridge",
+                "Joseph-Nicéphore Niépce"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi ilk kez \"televizyon grafikleri\" kavramının yerleşmesini sağlayan, İngiltere'de bulunan bir televizyon yayın kuruluşudur?",
+            "options": [
+                "CNN",
+                "BBC",
+                "NBC",
+                "PBS",
+                "TNT"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi eğlence sektöründe hareketli grafiklerin kullanım alanlarından biridir?",
+            "options": [
+                "Sahne animasyonları",
+                "Fragman videoları",
+                "Platform arayüzleri",
+                "LED ekranlar",
+                "Açılış sekanları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 8,
+            "question": "Aşağıdakilerden hangisi hareketli grafiklerin eğitici içeriklerde kullanım hedeflerindendir?",
+            "options": [
+                "Tanınır bir kimlik yaratmak",
+                "Medyada görünür olma hayali",
+                "Rekabet ortamının gereği",
+                "Güçlü görselliğin estetik boyutu",
+                "Soyut kavramların daha iyi anlaşılması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdaki hangisi program ve reklam arasında geçişte kullanılan, kanal logolarının veya program isimlerinin 2-5 saniyelik kısa sunumuna yönelik TV grafiklerindendir?",
+            "options": [
+                "Gösteri paketi",
+                "Jenerik",
+                "TV Bumpers",
+                "Lower Thirds",
+                "Interstitials"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 10,
+            "question": "Aşağıdakilerden hangisi film jenerik tasarımının kullanımlarından değildir?",
+            "options": [
+                "Filmin en başında",
+                "Filmin sonunda",
+                "Filmin başında ve sonunda",
+                "İlk sahneden hemen sonra",
+                "Kapanış sahnesinden önce"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 11,
+            "question": "Görüntü ile müziğin beraber kullanıldığı hareketli grafik tasarım uygulamalarında, müziğin üstlendiği üç temel işlev aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Destekleyici müzik-Yapı-Leitmotif",
+                "Leitmotif-Destekleyici müzik-Fon müziği",
+                "Görüntü ile uyum-Leitmotif-Destekleyici müzik",
+                "Fon müziği-Ses efektleri-Leitmotif",
+                "Korelasyon-Leitmotif-Destekleyici müzik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 12,
+            "question": "Ses dalgalarının bir yüzey veya gerisindeki malzeme tarafından emilme sürecine ne ad verilir?",
+            "options": [
+                "Tını",
+                "Yayılım",
+                "Dağılım",
+                "Soğurma",
+                "Eko"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 13,
+            "question": "Yazılı iletişimin başlangıç noktası kabul edilen ve üzeri çivi yazısı ile işlenen yüzey aşağıdakilerden hangisidir?",
+            "options": [
+                "Parşömen",
+                "Hayvan derisi",
+                "Kağıt",
+                "Kil tablet",
+                "Yaprak"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi \"tipografi ve hareket\" kavramlarının kullanım şekline göre değişen tanımlarından biri <u>değildir</u>?",
+            "options": [
+                "Kavramsal tipografi",
+                "İzleyicinin yer değiştirmesi ile hareket kazanan tipografi",
+                "Kinetik tipografi",
+                "Kendinden hareket eden tipografi",
+                "Hareketli tipografi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 15,
+            "question": "Kendi varlığını ifade etme çabasıyla örtüşen ilkel imge yaratma dürtüsü, yaşanan hangi kırılma noktasından sonra kendi içinde tutarlı ve sistemli bir üretim haline gelmeye başlamıştır?",
+            "options": [
+                "Transistörün icadı",
+                "Bilişsel devrim ve ardıl gelişmeler",
+                "Sesin kaydedilebilmesi",
+                "Fotoğraf teknolojilerindeki ilerleme",
+                "Matbaanın icadı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdakilerden hangisi simetrik dengenin özelliğidir?",
+            "options": [
+                "Bir tasarım yüzeyi yatay ve dikey eksende eşit dağılıma sahiptir.",
+                "Kompozisyonda ayna görüntüsü oluşmaz.",
+                "Rorschach mürekkep lekesi yatay simetri örneğidir.",
+                "Tasarım yüzeyi yatay ve dikey eksende boyut ve ağırlık bakımından eşit parçalara sahip değildir.",
+                "Kristalografik denge simetrik bir denge değildir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 17,
+            "question": "Aşağıdaki eşleştirmelerden hangisi \"yön zıtlığı\"nı ifade eder?",
+            "options": [
+                "Koyu-Açık",
+                "Derin-Sığ",
+                "Düz-Pürüzlü",
+                "Dik-Diyagonal",
+                "Canlı-Donuk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 18,
+            "question": "Aşağıdakilerden hangisi hareketli grafiklerin özelliklerinden <u>değildir</u>?",
+            "options": [
+                "Hareketli grafikleri yalnızca hareket eden grafikler olarak tanımlamak yeterlidir.",
+                "Zamana dayalı olarak hareket ya da değişim gösteren görsel ögelerin kombinasyonudur.",
+                "Hareket ve anlatı temellerine sahiptir.",
+                "Görüntülere bir müzik ya da ses eşlik edebilir.",
+                "Tipografi, fotoğraf, illüstrasyon, animasyon, video gibi tasarım unsurlarını içerir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdakilerden hangisi bir ritim türüdür?",
+            "options": [
+                "Yavaş ritim",
+                "Akıcı ritim",
+                "Durağan ritim",
+                "Asimetrik ritim",
+                "Dalgalı ritim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 20,
+            "question": "Gestalt ilkelerinden biri olan -------, tasarım alanı içerisinde yer alan görsel ögeler arasında kurulan bağlantılardır.",
+            "options": [
+                "devamlılık",
+                "şekil-zemin",
+                "yakınlık",
+                "benzerlik",
+                "tamamlama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591749"
+        },
+        {
+            "id": 21,
+            "question": "\"-------\" hızla gelişen dünyamızda sanat, politika, kültür gibi farklı alanlarda öncülük yapan, geleneksel olmayan ve standart kalıpların dışına çıkan, yenilikçi tasarımlar ve tasarımcılar için kullanılan terimdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "Dadaizm",
+                "Realist",
+                "Konstrüktivizm",
+                "Avangart",
+                "Postmodern"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 22,
+            "question": "Jenerik tasarımı konusunda “Film Başlıkları – Grafik Tasarımcı için Yeni Bir Alan\" isimli makale yazan ünlü tasarımcı kimdir?",
+            "options": [
+                "Stanley Kubrick",
+                "Otto Preminger",
+                "Pablo Ferro",
+                "Saul Bass",
+                "Zeki Demirkubuz"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi bekleme süresine sebep olduğu için web sitelerinde kullanımı azalan hareketli grafiktir?",
+            "options": [
+                "Navigasyon sistemleri",
+                "Site haritası",
+                "Splash pages",
+                "Bannerlar",
+                "Sayfalar arası geçişler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisi hareketli grafiklerin, \"karmaşık ve soyut kavramlar\"ın daha iyi anlaşılmasını sağlamaya çalıştığı kullanım alanıdır?",
+            "options": [
+                "Film başlıkları",
+                "Eğitim",
+                "Tanıtım videoları",
+                "Televizyon reklamları",
+                "Video oyunlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 25,
+            "question": "Aşağıdakilerden hangisi analog fotoğraf, el ile üretilmiş afiş, resim gibi basılı formlarda bulunan ve sayısallaştırılmamış görüntülere verilen genel isimdir?",
+            "options": [
+                "Örneksel görüntü",
+                "Sayısal görüntü",
+                "Dijital görüntü",
+                "Vektörel görüntü",
+                "Piksel tabanlı görüntü"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 26,
+            "question": "Hareketli grafiklerde ses kullanımında dikkat edilmesi gereken, sesin iki temel işlevinden biri olan sahneyi doğrudan yansıtmadığı, yalnızca görsel unsurlardan tanımlayan özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Tını",
+                "Frekans",
+                "Hiper gerçeklik",
+                "Genlik",
+                "Görüntü ile uyum (korelasyon)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 27,
+            "question": "I. Figür zemine göre izleyiciye daha yakın görünür.<br>II. Zıtlıklar ile güçlü şekil-zemin ilişkileri oluşturulabilir.<br>III. Şekil pozitif, zemin negatiftir.<br>IV. Zemin, figürün önünde yer alır.<br>Yukarıdakilerden hangisi/hangileri şekil-zemin ilkesinin özelliklerindendir?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve III",
+                "II ve IV",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangisi hareketli grafik tasarımının temel ilkelerinden biri <u>değildir</u>?",
+            "options": [
+                "Bütünlük",
+                "Uyum",
+                "Denge",
+                "Oran-orantı",
+                "Ritim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 29,
+            "question": "\"Jenerikler\" yapım sürecinin hangi aşamasında çalışmaya eklenir?",
+            "options": [
+                "Prodüksiyon aşamasında, çekimler sırasında",
+                "Post-prodüksiyon aşaması, kaba kurgu yapılırken",
+                "Yapım aşamalarına geçmeden önce, yaratıcı özet hazırlanırken",
+                "Ön-prodüksiyon aşamasında, görsel senaryo oluşturulurken",
+                "Post-prodüksiyon aşaması, ince kurgu yapılırken"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 30,
+            "question": "Aşağıdakilerden hangisi yaratıcı özeti, proje özetinden ayıran özelliklerden biridir?",
+            "options": [
+                "Bütçeyle ilgili bilgi bulunmaktadır.",
+                "Zaman çizelgesi içerir.",
+                "Ekibin çalışmayla ilgili bilgi sahibi olmasını sağlar.",
+                "Yaratıcı stratejiler geliştirmek için gerekli bilgiler toparlanır.",
+                "Çalışmanın tam olarak ne hakkında olduğu belirtilir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 31,
+            "question": "Post-prodüksiyon aşamasına geçilmeden önce aşağıdakilerden hangisinin kesin olarak tamamlanmış olması gerekir?",
+            "options": [
+                "Animatikler ve müzik",
+                "En önemli çekimler ve animasyonlar",
+                "Kaba kurgu ve ses-görüntü senkronizasyonu",
+                "Bütün çekimler, animasyonlar, müzik ve sesler",
+                "Çalışmanın sunumunun yapılacağı ortamın ayarlanması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 32,
+            "question": "2D animasyonlar hangi türden görüntülerle çalışır?",
+            "options": [
+                "Yalnızca yükseklik ve genişliği olan görüntüler",
+                "3D modeller",
+                "Hacme sahip ancak yükseklik ve genişliği olmayan görüntüler",
+                "Hacme sahip objeler",
+                "Derinlikli görüntüler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 33,
+            "question": "Aşağıdakilerden hangisi bir animasyon projesinin \"zaman\" açısından etkin bir şekilde yönetilmesinin nedenlerindendir?",
+            "options": [
+                "Proje maliyetlerini azaltır.",
+                "Proje sürecini uzatır.",
+                "İşgücü gereksinimini azaltır.",
+                "Animasyonun görsel kalitesini artırır.",
+                "Daha karmaşık sahneler oluşturmayı sağlar."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 34,
+            "question": "Aşağıdaki animasyon türlerinden hangisinde 2D animasyon yazılımları, grafik çizim tabletleri ve dijital kalemler gibi kolay erişilebilir araçlar sıklıkla kullanılır?",
+            "options": [
+                "Motion capture animasyon",
+                "Kısıtlı animasyon",
+                "Rotoskop",
+                "Cel animasyon",
+                "3D animasyon"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 35,
+            "question": "Hareketli grafiklerin üretiminde kullanıcı dostu arayüzü, kullanım kolaylığı ve kapsamlı özellikleri ile öne çıkan 3 boyutlu yazılım aşağıdakilerden hangisidir?",
+            "options": [
+                "Adobe After Effects",
+                "Autodesk Maya",
+                "Maxon Cinema 4D",
+                "Adobe Photoshop",
+                "Maxon Trapcode Suite"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 36,
+            "question": "After Effects yazılımda bulunan \"hareket izleme\" eklentisine ne ad verilir?",
+            "options": [
+                "Synthesis",
+                "Form",
+                "Mocha",
+                "Latte",
+                "Trapcode paketi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 37,
+            "question": "Hareketli grafikleri aynı zamanda bir mobil uygulamanın ya da mobil cihazın ara yüzünde çalıştıran ortama ne ad verilir?",
+            "options": [
+                "AA",
+                "GUI",
+                "UX",
+                "CG",
+                "UI"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 38,
+            "question": "Hareketli grafikler için gerçek zamanlı görselleştirmenin en önemli sonuçlarından biri aşağıdakilerden hangisidir?",
+            "options": [
+                "Daha yüksek çözünürlüklü hareketli grafiklerin yapılabilmesi",
+                "Karmaşık ışıklandırma ve doku efektlerinin hesaplanabilmesi",
+                "Render ve üretim sürelerinin azalması",
+                "Çok detaylı üç boyutlu modellerin oluşturulabilmesi",
+                "Mevcut iki boyutlu film sahnelerinin üç boyutlu olarak yeniden üretilebilmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 39,
+            "question": "\"Büyük görüntü veri kümeleri üzerinde eğitilerek benzersiz tasarımlar, çizimler ve hatta tüm kompozisyonları oluşturabilmektedir.\" Yukarıdaki ifade aşağıdakilerden hangisi için söylenebilir?",
+            "options": [
+                "Üretken yapay zeka",
+                "Stil transferi",
+                "Gerçek zamanlı görselleştirme",
+                "Yapay zeka",
+                "Çoklu modalite"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        },
+        {
+            "id": 40,
+            "question": "Otomobillerde araç ile ilgili hız, devir, yakıt durumu gibi bilgiler ile hız sınırı veya navigasyon gibi yol ile ilgili bilgilerin ön cama yansıtılmasıyla, sürücünün gözünü yoldan ayırmadan bu bilgileri edinebilmesini sağlayan sistem aşağıdakilerden hangisine örnek gösterilebilir?",
+            "options": [
+                "Genişletilmiş sanallık",
+                "Gerçek zamanlı görselleştirme",
+                "Sanal gerçeklik",
+                "Artırılmış sanallık",
+                "Artırılmış gerçeklik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596761"
+        }
+    ]
+}

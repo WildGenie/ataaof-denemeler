@@ -1,0 +1,2704 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik aşağıdakilerden hangisidir?",
+            "options": [
+                "Tahta baskı yapılabilmesi",
+                "Döküm yapabilmesi",
+                "Mühür ve silindir yapabilmesi",
+                "Kâğıt üretebilmesi",
+                "Metal baskıyı hareketli hurufat ile yapabilmesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 2,
+            "question": "İbrahim Müteferrika tarafından basılan ilk kitap aşağıdakilerden hangisidir?",
+            "options": [
+                "Haklar Bildirgesi",
+                "Vankulu Lügatı",
+                "Cihannüma",
+                "Tuhfetü'l Kibar",
+                "Temel Olaylar Atlası"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 3,
+            "question": "Aşağıdakilerden hangisi \"ideogram\"ın tanımıdır?",
+            "options": [
+                "Elle yazılan sanatsal eserlerdir.",
+                "Tahta baskılar dışında kullanılan baskıların genel adıdır.",
+                "Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergelerdir.",
+                "Bir düşünceyi betimlemek için cilttenlenen göstergelerdir.",
+                "Bir düşünceyi betimlemek için kullanılan karmaşık göstergelerdir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 4,
+            "question": "Tek tek yazı karakterlerini iki yana yaslı satırlarda basmak için kullanılan makine aşağıdakilerden hangisidir?",
+            "options": [
+                "Linotype",
+                "Hurufat",
+                "Fotogravür",
+                "Monotype",
+                "Fournier"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 5,
+            "question": "Kare kapital ve rustik yazı dışında 4. yüzyıldan itibaren resmi yazışmalar için tercih edilen biçem aşağıdakilerden hangisidir?",
+            "options": [
+                "Adasal",
+                "Gotik",
+                "Lombard",
+                "Karolenj",
+                "Anziyal"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 6,
+            "question": "Geometrik bölmelere sahip asimetrik sayfa düzeninin ve geometrik yapıda kalın, köşeli tırnaksız (sans serif) yazı karakterinin kullanıldığı sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "İsviçre Stili",
+                "De Stijl",
+                "New York Okulu",
+                "Dadaizm",
+                "Fütürizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 7,
+            "question": "İsviçre Tipografisi ile ilişkilendirilen Univers fontunun tasarımcısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Max Bill",
+                "Max Miedinger",
+                "Paul Rand",
+                "Adrian Frutiger",
+                "Jan Tschichold"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 8,
+            "question": "Ağırlıklar, genişlikler, optik boyut, tırnaklıdan (serif) tırnaksıza (sans serif) gibi çeşitli varyasyonların oluşturulmasına olanak sağlayan font formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Değişken Fontlar",
+                "OpenType",
+                "Bitmap Font",
+                "Postscript Type 1",
+                "Metafont"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 9,
+            "question": "1960'lı yıllarda basılı sayfa üzerinde hareket algısı ile New York şehrinin canlılığını aktarmak için kavramsal tipografiyi kullanan tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Piet Mondrian",
+                "Van Doesburg",
+                "Leo Lionni",
+                "Vilmos Huszar",
+                "Laszlo Moholy-Nagy"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 10,
+            "question": "Jan Tschichold aşağıdaki akımlardan hangisinin öncüsü olarak görülmüştür?",
+            "options": [
+                "De Stijl",
+                "Yeni Tipografi",
+                "Sürrealizm",
+                "Bauhaus",
+                "Dadaizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 11,
+            "question": "Mother & Child, Marriage gibi logotayplara sahip, harfleri ve sözcükleri imgelere dönüştürerek tasarımlarında figüratif tipografiye yer veren tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Siegfried Odermatt",
+                "Adrian Frutiger",
+                "Herb Lubalin",
+                "Gene Federico",
+                "Don Egensteiner"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 12,
+            "question": "Emigre dergisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Geleneksel tasarım kurallarına uygun tasarlanmıştır.",
+                "Dergide moda, siyaset ve film gibi içeriklere yer verilmektedir.",
+                "Dergide tasarımında kullanılan, boşluk, noktalama, yazı karakteri kullanımı alışılmış tipografi kurallarına uygundur.",
+                "Sayfa tasarımlarında tipografi daha önce görülmemiş yeni bir anlayış ile ele alınmıştır.",
+                "Dergide temel tipografi anlayışı okunabilirlik üzerinedir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 13,
+            "question": "Mrs Eaves yazı karakteri aşağıdaki fontların hangisinden ilham alınarak tasarlanmıştır?",
+            "options": [
+                "Baskerville",
+                "Times New Roman",
+                "Helvetica",
+                "Bodoni",
+                "Futura"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 14,
+            "question": "Fudoni yazı karakteri aşağıdaki hangi iki yazı karakterinin birleşimi ile üretilmiştir?",
+            "options": [
+                "Helvetica - Baskerville",
+                "Futura - Bodoni",
+                "Filosofia - Futura",
+                "Rosetta - Times New Roman",
+                "Maxmix - Helvetica"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 15,
+            "question": "Karakterleri/harfleri oluşturan çizgilerin (stroke) sonundaki küçük yatay çizgiler ya da ayaklara ne ad verilir?",
+            "options": [
+                "Bitiş (Finial)",
+                "Kol (Arm)",
+                "Kuyruk (Tail)",
+                "Kulak (Ear)",
+                "Tırnak (Serif)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 16,
+            "question": "Grafik ve yazıların tanınmasına ve yazıcıya ulaştırılarak çıktı alınmasını sağlayan tanımlama dili aşağıdakilerden hangisidir?",
+            "options": [
+                "Linotype",
+                "Tex",
+                "Truetype",
+                "Postscript",
+                "Microsoft"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 17,
+            "question": "Bir yazı karakterinin belli bir açı oranıyla eğilmesiyle oluşturulan varyasyona ne ad verilir?",
+            "options": [
+                "Oblique",
+                "Extended",
+                "Light",
+                "Condensed",
+                "Thin"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 18,
+            "question": "Bir satırdaki metnin tüm harflerinin aynı düzlemde yan yana dizildiği çizgiye ne ad verilir?",
+            "options": [
+                "Descent",
+                "Orta Çizgi (Mean Line)",
+                "Taban Çizgi (Baseline)",
+                "Ascent",
+                "Büyük Harf Çizgisi (Cap Line)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 19,
+            "question": "1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteri aşağıdakilerden hangisidir?",
+            "options": [
+                "Century",
+                "Black Letter",
+                "Baskerville",
+                "Jenson",
+                "Garamond"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi tırnaklı (serif) yazı karakterlerinden biri <u>değildir</u>?",
+            "options": [
+                "Baskerville",
+                "Garamond",
+                "Didot",
+                "Rockwell",
+                "Gill Sans"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607529"
+        },
+        {
+            "id": 21,
+            "question": "Roma İmparatorluğunda kazanılan zaferler için anıtların üzerine yazılan yazılara ne ad verilmiştir?",
+            "options": [
+                "Venedik Kapital",
+                "Floransa Kapital",
+                "Milano Kapital",
+                "Antik Kapital",
+                "Trajan Kapital"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 22,
+            "question": "1455 yılında, Gutenberg basımevinde baskısının yapıldığı belgelenen ilk kitap aşağıdakilerden hangisidir?",
+            "options": [
+                "Biblia Sacra",
+                "Astronomi Takvimi",
+                "Mainz Mezmurlar Kitabı",
+                "Kırkiki Satırlı İncil",
+                "Vankulu Lügatı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 23,
+            "question": "-----, alfabe, piktogramik alfabelerden farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdaki seçeneklerden hangisi tamamlar?",
+            "options": [
+                "Uygur",
+                "Fonetik",
+                "Piktogramik",
+                "Latin",
+                "Göktürk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 24,
+            "question": "Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelere ne ad verilir?",
+            "options": [
+                "İdeogram",
+                "Hiyeroglif",
+                "Yazı",
+                "Piktogram",
+                "Alfabe"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 25,
+            "question": "Palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek gibi malzemelerin eski çağlardaki kullanım amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Yazı yüzeyi",
+                "Mürekkep boya",
+                "Fırça ucu",
+                "Cilt kaplaması",
+                "Kurşun kalem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 26,
+            "question": "Jan Tschichold aşağıdaki akımlardan hangisinin öncüsü olarak görülmüştür?",
+            "options": [
+                "De Stijl",
+                "Sürrealizm",
+                "Dadaizm",
+                "Bauhaus",
+                "Yeni Tipografi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 27,
+            "question": "Fudoni yazı karakteri aşağıdaki hangi iki yazı karakterinin birleşimi ile üretilmiştir?",
+            "options": [
+                "Rosetta - Times New Roman",
+                "Futura - Bodoni",
+                "Maxmix - Helvetica",
+                "Filosofia - Futura",
+                "Helvetica - Baskerville"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 28,
+            "question": "Sayfa üzerindeki metin ve görsellerin dengeyi sağlamak adına metin ya da görsellerin ağırlığının bir tarafa hâkim bir şekilde yerleştirilmesine ne ad verilir?",
+            "options": [
+                "Simetrik kompozisyon",
+                "Dengeli kompozisyon",
+                "Zıt kompozisyon",
+                "Açık kompozisyon",
+                "Asimetrik kompozisyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangileri Fütürizmin en temel özelliklerindendir?",
+            "options": [
+                "Seslerin ve hareketin kullanımı",
+                "Tekrarlama, bulanıklaştırma, büyültme, küçültme",
+                "Doğru okumayı etkileyen tasarımlar",
+                "Hız, hareket, eşzamanlılık, özgünlük, heyecan ve ses kavramları",
+                "Gerçekçi, görünür, etkileyeci tasarımlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 30,
+            "question": "De Stijl akımında ünlü eserler veren sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Herbert Bayer",
+                "Pablo Picasso",
+                "Piet Mondrian",
+                "Alexander Rodchenko",
+                "Flippo Tommaso Marinetti"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 31,
+            "question": "-----, Walter Gropius'un öncülüğünde ---- tarihinde açılan çağdaş sanat ve tasarım anlayışı güden bir sanat ve tasarım okuludur. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+            "options": [
+                "Bauhaus - 1919",
+                "De Stijl - 1920",
+                "HAAS-1930",
+                "Futura - 1935",
+                "Bauer - 1950"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 32,
+            "question": "MetaDesign, (1979) United Designers (2002) ve Edenspiekermann (2009) gibi önemli tasarım stüdyolarını kurucusu ve Heidelberg Printing, Volkswagen ve Berlin Transit gibi uluslararası şirketlerin tasarım süreçlerinin yöneticiliğini yapmış kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Jonathan Barnbrook",
+                "Erik Spiekermann",
+                "Zuzana Licko",
+                "Neville Brody",
+                "Eric Van Bloklar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 33,
+            "question": "Emigre dergisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dergide tasarımında kullanılan, boşluk, noktalama, yazı karakteri kullanımı alışılmış tipografi kurallarına uygundur.",
+                "Geleneksel tasarım kurallarına uygun tasarlanmıştır.",
+                "Sayfa tasarımlarında tipografi daha önce görülmemiş yeni bir anlayış ile ele alınmıştır.",
+                "Dergide moda, siyaset ve film gibi içeriklere yer verilmektedir.",
+                "Dergide temel tipografi anlayışı okunabilirlik üzerinedir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 34,
+            "question": "Aşağıdakilerden hangisinde vektör yazı karakteri oluşturma teknolojileri birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Postscript - TrueType - Metafont",
+                "Bitmap - TrueType - Değişken Font",
+                "TEX - Bitmap - Metafont",
+                "Display Font - Postscript - TrueType",
+                "Bitmap - Display Font - Postscript"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdakilerden hangisi PostScript'in tanımıdır?",
+            "options": [
+                "Sayısal tipografinin yeni yollarının adıdır.",
+                "Adobe tarafından kullanıma sunulan Type özelliği.",
+                "Aldus tarafından üretilen Pagemaker sayfa düzenleme programıdır.",
+                "Apple Macintosh bilgisayarlarının yeni sürümüdür.",
+                "Adobe yazılım firması tarafından geliştirilmiş tanımlama ve baskı denetim dilidir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 36,
+            "question": "Bir satırdaki metnin tüm harflerinin aynı düzlemde yan yana dizildiği çizgiye ne ad verilir?",
+            "options": [
+                "Büyük Harf Çizgisi (Cap Line)",
+                "Orta Çizgi (Mean Line)",
+                "Taban Çizgi (Baseline)",
+                "Descent",
+                "Ascent"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 37,
+            "question": "1957'de Max Miedinger tarafından tasarlanan, dünyada en yaygın olarak kullanılan, son derece okunaklı sans serif yazı karakteri aşağıdakilerden hangisidir?",
+            "options": [
+                "Univers",
+                "Helvetica",
+                "Arial",
+                "Akzidens Grotesk",
+                "Trajan"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 38,
+            "question": "----- bir yazı karakteri olan Futura, Paul Renner tarafından 1927 yılında tasarlanan, 20. yüzyılın en etkili yazı karakteri tasarımlarından biridir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Blackletter",
+                "Script",
+                "Eşit en",
+                "Geometrik",
+                "Grotesk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 39,
+            "question": "Tipografide, yazı karakterini oluşturan karakter setlerinin kelime arası boşluklarını düzenlemeye ne ad verilir?",
+            "options": [
+                "Punto",
+                "Sans Serif",
+                "Tracking",
+                "Slab Serif",
+                "Curving"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 40,
+            "question": "Matbaacılıkta bazı yazı karakteri ailelerinde, büyük harf görünümünde olan, ancak boyları küçük harf \"x\" yüksekliğinde olacak şekilde tasarlanan harflere ne ad verilir?",
+            "options": [
+                "Small Caps",
+                "Minuscules",
+                "Uppercase",
+                "Lowercase",
+                "Point Size"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607588"
+        },
+        {
+            "id": 41,
+            "question": "M.Ö 2000'lerde icat edildiği Bergama'dan gelen özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "papirüs",
+                "tablet",
+                "hasır",
+                "kağıt",
+                "parşömen"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 42,
+            "question": "Roma İmparatorluğunda kazanılan zaferler için anıtların üzerine yazılan yazılara ne ad verilmiştir?",
+            "options": [
+                "Trajan Kapital",
+                "Venedik Kapital",
+                "Milano Kapital",
+                "Floransa Kapital",
+                "Antik Kapital"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 43,
+            "question": "Madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlayan ilk uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Likyalılar",
+                "Hititler",
+                "Lidyalılar",
+                "Sümerler",
+                "Asurlular"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 44,
+            "question": "İbrahim Müteferrika tarafından basılan ilk kitap aşağıdakilerden hangisidir?",
+            "options": [
+                "Haklar Bildirgesi",
+                "Vankulu Lügatı",
+                "Cihannüma",
+                "Tuhfetü'l Kibar",
+                "Temel Olaylar Atlası"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 45,
+            "question": "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ------ denir. Yukarıdaki cümleyi aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "piktogram",
+                "tipografi",
+                "alfabe",
+                "yazı",
+                "ideogram"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 46,
+            "question": "------ ışık, açık ve nesnelerin tonlamayı etkilemesiyle fotoğraf kağıdı üzerine yansıyan siluet olarak adlandırılabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kaligram",
+                "Linotype",
+                "Tipogram",
+                "Monotype",
+                "Fotogram"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 47,
+            "question": "Tolbert Lanston 1887 yılında, sıcak metalden tek karakterler oluşturan ------ makinesini icat etmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "litografi",
+                "el baskı makinesi",
+                "monotype",
+                "linotype",
+                "matbaa"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 48,
+            "question": "Sayfa üzerindeki metin ve Görsellerin dengeyi sağlamak adına metin ya da Görsellerin ağırlığının bir tarafa hâkim bir şekilde yerleştirilmesine ne ad verilir?",
+            "options": [
+                "Açık kompozisyon",
+                "Asimetrik kompozisyon",
+                "Simetrik kompozisyon",
+                "Zıt kompozisyon",
+                "Dengeli kompozisyon"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 49,
+            "question": "Mother & Child, Marriage gibi logotayplarda Herb Lubalin'in benimsediği tasarım anlayışı aşağıdakilerin hangisidir?",
+            "options": [
+                "Çok renkli bir tasarım anlayışı benimsemiştir.",
+                "Tamamen illüstratif unsurlar kullanmıştır.",
+                "Harfleri ve sözcükleri imgelere dönüştürerek tasarımlarında figüratif tipografi kullanmıştır.",
+                "Harflerin düzenlenmesinde rastlantısal denemeler yapmıştır.",
+                "Tasarimlarını yalnız iki harf ile oluşturmuştur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi Erik Spiekermann'ın tasarlamış olduğu fontlardan biri <u>değildir</u>?",
+            "options": [
+                "FF Meta",
+                "Berliner Grotesk",
+                "FF Unit",
+                "Gotik",
+                "ITC Officina"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 51,
+            "question": "Van Doesburg gibi tasarımcıların çalışmalarında yuvarlak formların terk edildiği ve dar dikdörtgen bloklar içinde yapılandırılan harflerin tercih edildiği tasarım anlayışı aşağıdaki akımlardan hangisinde ortaya çıkmıştır?",
+            "options": [
+                "İsviçre Tipografisi",
+                "Dadaist Tipografisi",
+                "Fütürist Tipografi",
+                "New York Okulu Etkisinde Tipografi",
+                "De Stijl Etkisinde Tipografi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 52,
+            "question": "Aşağıdakilerden hangisinde vektör yazı karakteri oluşturma teknolojileri birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Postscript - TrueType - Metafont",
+                "TEX - Bitmap - Metafont",
+                "Bitmap - Display Font - Postscript",
+                "Bitmap - TrueType - Değişken Font",
+                "Display Font - Postscript - TrueType"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 53,
+            "question": "Aşağıdakilerden hangisi Max Kismian'ı sayısal font tasarımında öncü yapan çalışmalarından biridir?",
+            "options": [
+                "Blur",
+                "Berliner Grotesk",
+                "FF Meta",
+                "Fudoni",
+                "Harlem"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 54,
+            "question": "Fred Woodward'ın tasarım anlayışı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Yazıların görsel anlatımına önem göstermiş, yazar karakterlerini ve görselleri içerikle eşleştirmiştir.",
+                "Dergi yanıltacak tasarımlar üretmemiştir.",
+                "Modern tipografini anlayışına sık sıkıya bağlıdır.",
+                "Yazıları özgürce kullanmamış geleneksel tipografi kurallarına uygun tasarımlar üretmiştir.",
+                "Bir dergiyi tek bir font ile tasarlayabilir"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 55,
+            "question": "Grafik ve yazıların tanınmasına ve yazıcıya ulaştırılarak çıktı alınmasını sağlayan tanımlama dili aşağıdakilerden hangisidir?",
+            "options": [
+                "Truetype",
+                "Linotype",
+                "Microsoft",
+                "Postscript",
+                "Tex"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 56,
+            "question": "Aşağıdakilerden hangisi Ligature'ın tanımıdır?",
+            "options": [
+                "Tırnaklı yazı karakterlerinde görülen en ince çizgidir.",
+                "Ard arda gelen iki harfin birleştirilerek tek bir harf haline dönüştürülmesidir.",
+                "Sadece iki katlı küçük harflerin alt kısmına verilen özel isimdir.",
+                "Harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen isimdir.",
+                "Karakterlerin taban çizgisinin altında kalan parçalarıdır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 57,
+            "question": "Aşağıdakilerden hangisi eşit-en sistemi alt yapılarını gösteren temel geometrik formlardır?",
+            "options": [
+                "Üçgen, daire, beşgen",
+                "Halka, kare, Küp",
+                "Elips, yamuk, dikdörtgen",
+                "Beşgen, daire, kare",
+                "Küp, silindir, altıgen"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 58,
+            "question": "Aşağıdakilerden hangisi eski biçem (old style) geometrik alt yapılı yazı karakterlerinden biridir?",
+            "options": [
+                "Gill Sans",
+                "Times New Roman",
+                "Helvetica",
+                "Humanist",
+                "Baskerville"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 59,
+            "question": "Bir metni, yazı tipi boyutunu veya satır aralığını değiştirmeden gerekli bir alana sığdırmak için \"-------\" ayarı yapılabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "thin",
+                "x-yüksekliği",
+                "leading",
+                "italic",
+                "tracking"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 60,
+            "question": "------ bir yazı karakteri olan Futura, Paul Renner tarafından 1927 yılında tasarlanan, 20. yüzyılın en etkili yazı karakteri tasarımlarından biridir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Blackletter",
+                "Geometrik",
+                "Eşit en",
+                "Script",
+                "Grotesk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618222"
+        },
+        {
+            "id": 61,
+            "question": "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?",
+            "options": [
+                "Logogram",
+                "Yazı",
+                "Simge",
+                "Piktogram",
+                "Fonetik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi Fütürizmin genel özelliklerinden biridir?",
+            "options": [
+                "İşlevsellik",
+                "Dekorasyon",
+                "Süsleme",
+                "Geleneksellik",
+                "Eşzamanlılık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 63,
+            "question": "Bir yazı karakterinin birden çok varyasyonunun (ağırlıklar, genişlikler, optik boyut, tırnaklıdan tırnaksıza gibi) oluşturulmasına olanak tanıyan ve dosya alanından tasarruf sağlayan yazı formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bitmap Font",
+                "Type 3 Font",
+                "Variable Font",
+                "TrueType Font",
+                "Postscript Font"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 64,
+            "question": "Karmaşık bir mesajı anlaşılır bir biçimde basitleştirilebilmek için görsel verileri vurgu sıralamasına göre düzenlemeye yardımcı olan tasarım ilkesine ne ad verilir?",
+            "options": [
+                "Görsel hiyerarşi",
+                "Ritim",
+                "Denge",
+                "Oran-orantı",
+                "Bütünlük"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 65,
+            "question": "Aşağıdakilerden hangisi oluşturulacak metnin algılanabilir bir düzen içerisinde olmasını öncelikli olarak sağlar?",
+            "options": [
+                "Üst Uzantılar Çizgisi",
+                "Satır Çizgisi",
+                "Alt Uzantılar Çizgisi",
+                "X Yüksekliği",
+                "Orta Çizgi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 66,
+            "question": "Küçük parçalardan oluşan görsel elemanların yakınlıkları nedeni ile tek bir büyük parça olarak algılanmasını sağlayan gestalt ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Benzerlik İlkesi",
+                "Şekil-zemin İlkesi",
+                "Yakınlık İlkesi",
+                "Devamlılık İlkesi",
+                "Tamamlama İlkesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 67,
+            "question": "Tasarımda genellikle simetrik ve asimetrik dengeden söz edilmektedir.",
+            "options": [
+                "tipografik / resimsel",
+                "boş / dolu",
+                "simetrik / asimetrik",
+                "sık / seyrek",
+                "koyu / açık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 68,
+            "question": "Aşağıdakilerden hangisi tipografik düzenlemelerde görsel ağırlığı belirleyen faktörlerden biri <u>değildir</u>?",
+            "options": [
+                "Devamlılık",
+                "Konumlandırma",
+                "Şekil",
+                "Renk",
+                "Büyük-küçük ilişkisi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 69,
+            "question": "Geleneksel iletişim tasarımı ortamı olan afişin şu anki yansıması olarak adlandırılabilecek basılı grafik ürün aşağıdakilerden hangisidir?",
+            "options": [
+                "Jenerik",
+                "Banner",
+                "Broşür",
+                "Billboard",
+                "Kitap kapağı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 70,
+            "question": "Form ile oluşturulan kurumsal simge aşağıdakilerden hangisidir?",
+            "options": [
+                "Logotype",
+                "Amblem",
+                "İşaret",
+                "Tabela",
+                "Tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 71,
+            "question": "Yazının boyutlandırılması için basılı ortamlarda endüstri standardı olan punto ölçeklendirme biçimi kullanılırken, dijital ortamlarda piksel ölçeklendirmesi kullanılmaktadır.",
+            "options": [
+                "CMYK / RGB",
+                "tram / bitmap",
+                "santimetre / inç",
+                "punto / piksel",
+                "true type / variable font"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 72,
+            "question": "İçeriği oluşturan metin ve görseller ile sayfa kenarı arasındaki çevrelenen negatif alanlara ne ad verilir?",
+            "options": [
+                "Akış Çizgisi",
+                "Satır",
+                "Modül",
+                "Sütun",
+                "Marjin"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 73,
+            "question": "80'li yıllarda ekran odaklı piksel teknolojisine ayak uyduran yeni dijital yazı karakterleri olarak kullanılan yazı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Bitmap Font",
+                "True Type",
+                "Variable Font",
+                "Type 3 Font",
+                "Postscript Type 1"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 74,
+            "question": "Aşağıdakilerden hangisi bir \"altın dikdörtgen\" örneğidir?",
+            "options": [
+                "A4 Kâğıt",
+                "Kapı Ölçüsü",
+                "Cep Telefonu Ekranı",
+                "5/4 Bilgisayar Ekranı",
+                "16/9 TV Ekranı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 75,
+            "question": "Belirli harf çiftlerinin birlikte kullanımından doğan kötü görüntülerin giderilmesi amacıyla karakter aralıklarına el ile müdahale edilmesine ne ad verilir?",
+            "options": [
+                "Espas",
+                "Leading",
+                "Letterspacing",
+                "Tracking",
+                "Kerning"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden biri <u>değildir</u>?",
+            "options": [
+                "Soldan blok",
+                "Dikey blok",
+                "Ortadan blok",
+                "Tam blok",
+                "Sağdan blok"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 77,
+            "question": "Aşağıdakilerden hangisi 'allograf'ın tanımıdır?",
+            "options": [
+                "Harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisidir.",
+                "İki harf arasındaki boşluğun optik olarak dengelenmesidir.",
+                "Karakter çizgisinin bitiminde bulunan küçük çıkıntılardır.",
+                "Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir.",
+                "Karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 78,
+            "question": "Aşağıdaki harflerin hangisi hem tek katlı hem de çift katlı harf olarak kullanılır?",
+            "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 79,
+            "question": "Başlık yazı karakterleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Başlık yazı karakterleri 24 punto ve üzeri yazılar için tasarlanmaktadır.",
+                "Başlık yazı karakterleri gövde metinlerinde kullanılır.",
+                "Başlık yazı karakterleri küçük puntoların kullanıldığı tasarımlarda kullanılmalıdır.",
+                "Başlık yazı karakterleri 12 punto ve üzeri yazılar için tasarlanmaktadır.",
+                "Başlık yazı karakterleri dergi ve gazete gövde metinleri için kullanılır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 80,
+            "question": "Aşağıdakilerden hangisi bir yazı karakterinin okunurluğuna katkıda bulunan elemanlardan biri <u>değildir</u>?",
+            "options": [
+                "x- yüksekliği",
+                "Karakter Ağırlığı",
+                "Dış Boşluklar",
+                "Harf Çizgisi Kontrastı",
+                "Karakter Genişliği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607538"
+        },
+        {
+            "id": 81,
+            "question": "Palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek gibi malzemelerin eski çağlardaki kullanım amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Fırça ucu",
+                "Kurşun kalem",
+                "Mürekkep boya",
+                "Cilt kaplaması",
+                "Yazı yüzeyi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 82,
+            "question": "Grafik ve yazıların tanınmasına ve yazıcıya ulaştırılarak çıktı alınmasını sağlayan tanımlama dili aşağıdakilerden hangisidir?",
+            "options": [
+                "Linotype",
+                "Tex",
+                "Truetype",
+                "Postscript",
+                "Microsoft"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 83,
+            "question": "Karakterleri/harfleri oluşturan çizgilerin (stroke) sonundaki küçük yatay çizgiler ya da ayaklara ne ad verilir?",
+            "options": [
+                "Kulak (Ear)",
+                "Bitiş (Finial)",
+                "Tırnak (Serif)",
+                "Kuyruk (Tail)",
+                "Kol (Arm)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 84,
+            "question": "Grafik tasarımda 1950'lerde yeni şekillerin sunulmasıyla ikonoklazm ifade edilen yaklaşımların hakim olduğu bir dönemde uluslararası Tipografik Stil Hareketi aşağıdaki ülkelerden hangisinde ortaya çıkmıştır?",
+            "options": [
+                "Hollanda",
+                "İtalya",
+                "ABD",
+                "İrlanda",
+                "İsviçre"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 85,
+            "question": "Görsel ağırlık ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Soğuk renk, sıcak renge göre daha ağırdır.",
+                "Büyük şekil, küçük şekilden ağırdır.",
+                "Büyük bir gri form, küçük bir siyah form ile dengelenebilir.",
+                "Dokulu bir şekil, dokusuz bir şekle göre daha ağırdır.",
+                "Donuk tonlar hafif, parlak tonlar ağırdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 86,
+            "question": "Tasarım elemanlarının, kompozisyonun merkezinde bir noktadan yayılarak oluşturduğu denge türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Asimetrik Denge",
+                "Dinamik Denge",
+                "Bakışımlı Denge",
+                "Radyal Denge",
+                "Optik Denge"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 87,
+            "question": "Simetrik bir yapıya sahip, bir veya daha fazla kelimenin farklı yönlerden de okunabildiği tipografik düzenlemelere ne ad verilir?",
+            "options": [
+                "Eğlenceli tasarım",
+                "Ambigram",
+                "Simetrik tipografi",
+                "Logogram",
+                "Piktogram"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 88,
+            "question": "Kapalılık olarak da bilinen tasarım ilkesine göre ayrı parçalardan oluşan ya da dış hatları tamamen tamamlanmayan görsel elemanlar bir bütün olarak algılanabilir. Kimi zaman boş bir alan bile bir nesne olarak algılanabilir. Yukarıda anlatılan Gestalt ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Benzerlik İlkesi",
+                "Şekil-zemin İlkesi",
+                "Tamamlama İlkesi",
+                "Devamlılık İlkesi",
+                "Yakınlık İlkesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 89,
+            "question": "Teknolojinin tipografi alanındaki en büyük gelişmesi olarak tanımlanan geleneksel font ailesi kavramını dönüştürerek olasılıklı değişkenlik sağlar.",
+            "options": [
+                "Variable Fontlar",
+                "Kaligrafik Fontlar",
+                "Display Fontlar",
+                "Grotesk Fontlar",
+                "Tırnaksız (Sans-serif) Fontlar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 90,
+            "question": "Aşağıdakilerden hangisi basılı ortamlarda tipografinin kullanıldığı yüzeylerden biri <u>değildir</u>?",
+            "options": [
+                "Afiş",
+                "Film jeneriği",
+                "Bilboard",
+                "Katalog",
+                "Broşür"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 91,
+            "question": "Dijital ortamlarda yazının boyutlandırılması için en uygun ölçü birimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Metre (m)",
+                "Milimetre (mm)",
+                "Piksel (Px)",
+                "İnç (in)",
+                "Santimetre (cm)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 92,
+            "question": "Tipografinin gelişiminde en büyük hızlanmayı ve çeşitliliği sağlayan gelişme aşağıdakilerden hangisidir?",
+            "options": [
+                "Serigrafik baskının bulunuşu",
+                "1920 ile 1950 arasında yaşanan gelişmeler",
+                "İlk gazetelerin ortaya çıkışı",
+                "Dizgilerin <u>el</u>, <u>masaüstü</u> yayıncılık teknolojisinin gelişmesi",
+                "El yazması kitaplardan matbaaya geçiş"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 93,
+            "question": "\"Kerning\" ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Farklı boşluk düzenine sahip harflerdir.",
+                "Harf arası sistemematik boşluk hesaplama cetvelidir.",
+                "Küçük harflerden oluşan kelimelerin yapısal benzerlikleridir.",
+                "Harflerin iç ve dış boşluklarıdır.",
+                "Belirli bir harf çiftinin varsayılan karakter aralıklarına el ile müdahale edilmesidir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 94,
+            "question": "______ dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir.",
+            "options": [
+                "Paragraf yazıları",
+                "Lorem ipsum",
+                "Geniş sütun yazıları",
+                "Soldan bloklama",
+                "Modüler yazılar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 95,
+            "question": "Aşağıdakilerden hangisi tipografide fazla dar veya geniş bırakılan boşlukların yol açtığı sorunlardan biridir?",
+            "options": [
+                "Okunurluk",
+                "Gürültü",
+                "Benzerlik",
+                "Ritim",
+                "Piksel"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 96,
+            "question": "Aşağıdakilerden hangisi tasarımda kullanılan en temel ızgara çeşitlerinden biri <u>değildir</u>?",
+            "options": [
+                "Blok ızgara",
+                "İleri, geri ızgara",
+                "Modüler ızgara",
+                "Sütun ızgara",
+                "Hiyerarşik ızgara"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 97,
+            "question": "Küçük harfin büyük harfe göre yüksekliğinin tipografideki karşılığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Karakter Genişliği",
+                "Karakter Ağırlığı",
+                "x- Yüksekliği",
+                "Yazı Karakteri",
+                "Bitişik Yazılar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 98,
+            "question": "Aşağıdakilerden hangisi karakter ağırlığının tanımıdır?",
+            "options": [
+                "Yazı karakterinin ağırlığı, tırnaklı harflerin tırnaklarının inceliği ve kalınlığıdır.",
+                "Yazı karakterinin ağırlığı, harf çizgisi kontrastının harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisidir.",
+                "Yazı karakterinin ağırlığı, yüksekliğine göre ne kadar geniş olduğuna bağlıdır.",
+                "Yazı karakterinin ağırlığı, Harflerin belirgin olup olmamasıdır.",
+                "Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 99,
+            "question": "Aşağıdakilerden hangisi bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklardan biri <u>değildir</u>?",
+            "options": [
+                "Tipografinin Doğası",
+                "Karakter Genişliği",
+                "x- Yüksekliği",
+                "Bitişik Yazılar",
+                "Tırnaklı ve Tırnaksız Yazılar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 100,
+            "question": "______ koyu renk zeminde açık renk harflerin kullanılmasıdır.",
+            "options": [
+                "Allograf",
+                "Nehirler",
+                "Uyumlama",
+                "Dişi yazı",
+                "Kırıntılar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607597"
+        },
+        {
+            "id": 101,
+            "question": "alfabe, piktogramik alfabelerden tamamen farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Latin",
+                "Fonetik",
+                "Göktürk",
+                "Uygur",
+                "Piktogramik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 102,
+            "question": "Grafik tasarımda 1950'lilerde yeni teknolojilerin sunduğu olanaklarla ifade edilen yaklaşımların hakim olduğu bir dönemde \"Uluslararası Tipografik Stil hareketi\" aşağıdaki ülkelerden hangisinde ortaya çıkmıştır?",
+            "options": [
+                "ABD",
+                "Hollanda",
+                "İsviçre",
+                "İrlanda",
+                "İtalya"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 103,
+            "question": "Matbaacılıkta bazı yazı karakteri ailelerinde, büyük harf görünümünde olan, ancak boyları küçük harf \"x\" yüksekliğinde olacak şekilde tasarlanan harflere ne ad verilir?",
+            "options": [
+                "Lowercase",
+                "Point Size",
+                "Uppercase",
+                "Minuscules",
+                "Small Caps"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 104,
+            "question": "Verilmek istenen mesaj doğrultusunda, tasarım yüzeyi üzerinde yer alan görsel elemanların, baskınlık derecesine göre ölçülendirilerek düzenlenmesine ne ad verilir?",
+            "options": [
+                "Görsel hiyerarşi",
+                "Vurgu",
+                "Denge",
+                "Mizanpaj",
+                "Asimetrik denge"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 105,
+            "question": "MetaDesign, (1979) United Designers (2002) ve Edenspiekermann (2009) gibi önemli tasarım stüdyolarını kurucusu ve Heidelberg Printing, Volkswagen ve Berlin Transit gibi uluslararası şirketlerin tasarım süreçlerinin yöneticiliğini yapmış kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Neville Brody",
+                "Zuzana Licko",
+                "Erik Spiekermann",
+                "Jonathan Barnbrook",
+                "Eric Van Blokland"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 106,
+            "question": "\"Görsel ağırlık, konum ve düzenlemenin birbiriyle olan ilişkisi göz önünde bulundurulmalıdır.\" ifadesi aşağıdaki tasarım ilkelerinden hangisi ile ilgilidir?",
+            "options": [
+                "Ritim",
+                "Denge",
+                "Vurgu",
+                "Oran-orantı",
+                "Görsel hiyerarşi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi etkili bir tipografik hiyerarşi için kullanılması gerekenlerden biri <u>değildir</u>?",
+            "options": [
+                "Bilgilerin önem sırası belirlenmelidir.",
+                "Metni vurgulayıcı unsurlar kullanılmalıdır.",
+                "Hizalama ve sütun kullanımı ile devamlılık sağlanmalıdır.",
+                "Metni ayırıcı işaretler kullanılmalıdır.",
+                "Kenar çubukları ve madde işaretleri kullanılmamalıdır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 108,
+            "question": "Simetrik bir yapıya sahip, bir veya daha fazla kelimenin farklı yönlerden de okunabildiği tipografik düzenlemelere ne ad verilir?",
+            "options": [
+                "Eğlenceli tasarım",
+                "Ambigram",
+                "Piktogram",
+                "Simetrik tipografi",
+                "Logogram"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 109,
+            "question": "Aşağıdakilerden hangisi Nike Logosunda kullanılan yazı karakteridir?",
+            "options": [
+                "Helvetica Condensed Black Italic",
+                "Helvetica Condensed Italic",
+                "Helvetica Narrow Condensed",
+                "Helvetica Narrow Bold",
+                "Helvetica Condensed Black"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 110,
+            "question": "Otoyollarda kullanılan dış mekân yönlendirme tasarımlarında harf yüksekliği kaç cm. olmalıdır?",
+            "options": [
+                "10 cm",
+                "12 cm",
+                "15 cm",
+                "24 cm",
+                "40 cm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 111,
+            "question": "Aşağıdakilerden hangisi basılı ortamlarda tipografinin kullanıldığı yüzeylerden biri <u>değildir</u>?",
+            "options": [
+                "Film jeneriği",
+                "Broşür",
+                "Bilboard",
+                "Afiş",
+                "Katalog"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 112,
+            "question": "Sayfa tasarımında layout oluşturulurken tasarlanan sağ sayfa terimi ve sol sayfanın tipografik terimleri aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Light - Bold",
+                "Lorem - İpsum",
+                "En - Boy",
+                "Verso - Recto",
+                "Dul - Yetim"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 113,
+            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? bir kurum, kuruluş ya da düşüncenin akılda kalıcı ve benzersiz bir görselleştirme ile temsil edilmesidir.",
+            "options": [
+                "Font",
+                "Logo",
+                "İdeogram",
+                "Piktogram",
+                "Tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 114,
+            "question": "Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir?",
+            "options": [
+                "Gestalt kuramı prensibi",
+                "Punto prensibi",
+                "Altın oran prensibi",
+                "Grid sistemi",
+                "Kağıt ölçüsü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 115,
+            "question": "Aşağıdakilerden hangisi tipografide fazla dar veya geniş bırakılan boşlukların yol açtığı sorunlardan biridir?",
+            "options": [
+                "Benzerlik",
+                "Punto",
+                "Okunurluk",
+                "Piksel",
+                "Denge"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 116,
+            "question": "tasarlama yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Tam blok",
+                "Modül",
+                "Fibonacci",
+                "Izgara sistemi",
+                "Altın dikdörtgen"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 117,
+            "question": "Aşağıdakilerden hangisi bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklardan biri <u>değildir</u>?",
+            "options": [
+                "x- yüksekliği",
+                "Karakter ağırlığı",
+                "Karakter genişliği",
+                "Harf çizgisi kontrastı",
+                "Yazı boyutu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 118,
+            "question": "Aşağıdakilerden hangisi karakter ağırlığının tanımıdır?",
+            "options": [
+                "Yazı karakterinin ağırlığı, yüksekliğine göre ne kadar geniş olduğuna bağlıdır.",
+                "Yazı karakterinin ağırlığı, harf çizgisi kontrastının harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisidir.",
+                "Yazı karakterinin ağırlığı, tırnaklı harflerin tırnaklarının inceliği ve kalınlığıdır.",
+                "Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir.",
+                "Yazı karakterinin ağırlığı, Harflerin belirgin olup olmamasıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 119,
+            "question": "Aşağıdaki terim-tanım eşleştirmelerinden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Kırıntılar - paragraf sonlarında kalan çoğul öbeklerdir.",
+                "Uyumlama - iki harf arasındaki boşluğun özel olarak ayarlanmasıdır.",
+                "Nehir - sağ sol hizalanmış metinlerde oluşan beyaz boşluklardır.",
+                "Serif - karakter çizgisinin bitiminde bulunan küçük çıkıntılardır.",
+                "Sans serif - tırnaksız olan yazı karakterlerini ifade etmektedir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 120,
+            "question": "Bir harf karakterinin genişliği (character width), yüksekliğine göre ne kadar geniş olduğuna bağlıdır. Buna göre daha dar oranlara sahip yani darlaştırılmış/daraltılmış harf formlarına ne ad verilir?",
+            "options": [
+                "Regular",
+                "Medium",
+                "Extended",
+                "Condensed",
+                "Light"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622594"
+        },
+        {
+            "id": 121,
+            "question": "Aşağıdakilerden hangisi \"ideogram\"ın tanımıdır?",
+            "options": [
+                "Elle yazılan sanatsal eserlerdir.",
+                "Bir düşünceyi betimlemek için ciltlenen göstergelerdir.",
+                "Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergelerdir.",
+                "Tahta baskılar dışında kullanılan baskıların genel adıdır.",
+                "Bir düşünceyi betimlemek için kullanılan karmaşık göstergelerdir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 122,
+            "question": "Gutenberg basımevinde 1448'de basılan ilk ürün aşağıdakilerden hangisidir?",
+            "options": [
+                "Astronomi Takvimi",
+                "The Apocalypse",
+                "Kırkiki Satırlı İncil",
+                "Mainz Mezmurlar Kitabı",
+                "The Nuremberg Chronicle"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 123,
+            "question": "1960 yılında afiş tasarımlarında basit piktografik ögelere ve doğrudan aktarıma yer vererek \"Golden Arm\" film afişini yapan tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Adrian Frutiger",
+                "Filippo Tommaso Marinetti",
+                "Saul Bass",
+                "Max Miedinger",
+                "Leo Lionni"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 124,
+            "question": "Aşağıdakilerden hangisi piksel tabanlı tipografik bir formattır?",
+            "options": [
+                "Type 1",
+                "Type 3",
+                "OpenType",
+                "Bitmap",
+                "TrueType"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 125,
+            "question": "Dr. Donald Knuth tarafından geliştirilen ve dijital teknoloji ile font tasarımı yapılmasını sağlayan yazılım aşağıdakilerden hangisidir?",
+            "options": [
+                "Metafont",
+                "Dafont",
+                "Monotype",
+                "Opentype",
+                "Fotodizgi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 126,
+            "question": "Hem sembolik hem de dışavurumcu bir anlayışın var olabileceğini savunan Amerikan grafik tasarımı temsilcilerinden olan tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Tristan Tzara",
+                "Walter Gropius",
+                "Paul Rand",
+                "Herbert Bayer",
+                "Lewis Carol"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 127,
+            "question": "Fudoni yazı karakteri aşağıdaki hangi iki yazı karakterinin birleşimi ile üretilmiştir?",
+            "options": [
+                "Maxmix - Helvetica",
+                "Futura - Bodoni",
+                "Filosofia - Futura",
+                "Helvetica - Baskerville",
+                "Rosetta - Times New Roman"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 128,
+            "question": "Bir metni oluşturan satırların arasındaki boşluk/mesafeye ne ad verilir?",
+            "options": [
+                "Ascender",
+                "Descender",
+                "Kerning",
+                "Tracking",
+                "Leading"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 129,
+            "question": "1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteri aşağıdakilerden hangisidir?",
+            "options": [
+                "Jenson",
+                "Century",
+                "Garamond",
+                "Baskerville",
+                "Black Letter"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 130,
+            "question": "Eski Biçem (Old Style) İlk Roma biçemi yazı karakterlerinin kaynağı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gutenberg hareketli hurufatları",
+                "Blackletter El Yazması",
+                "Roma yazıtları",
+                "Trajan Sütunu",
+                "Orta çağ metinleri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 131,
+            "question": "Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Vurgu",
+                "Ritim",
+                "Görsel hiyerarşi",
+                "Simetrik denge",
+                "Oran-orantı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 132,
+            "question": "Aşağıdakilerden hangisi tipografik hiyerarşinin sağlanmasında etkili <u>değildir</u>?",
+            "options": [
+                "Metni ayırmaya ve vurgulamaya yardımcı alt başlıkların, büyük-küçük harflerin ve paragraf girişlerinin kullanılması",
+                "En önemli bilgilerin odak noktası haline getirilmesi",
+                "Kenar boşluklarını ve beyaz alanları vurgu oluşturmak için kullanılması",
+                "Bilgilerin önem sırasının belirlenmesi",
+                "Tasarım yüzeyi elemanların aynı özelliklere sahip olması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 133,
+            "question": "Tüm kelime işlemci programların metin düzenleme menüsünde bulunan \"¶\"- paragraf sembolü aşağıdaki işlemlerden hangisinde kullanılır?",
+            "options": [
+                "Yazı alanıyla ilgili kotrollerin yapılacağı pencereyi açma / kapama kısayolunda",
+                "Yazı alanındaki paragraf başı-sonu ve kelimeler arası bırakılan boşlukların görünür hale getirilmesinde",
+                "Yazı alanı sonundaki tireleme yönetimini sağlamada",
+                "Oluşturulan metin bloğunun harf, kelime ve satır arası boşluklarının düzenlemesinde",
+                "Yazı alanındaki paragraf başı girinti/çıkıntılarını düzenlemede"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 134,
+            "question": "Yazının boyutlandırılması için basılı ortamlarda endüstri standardı olan ölçeklendirme biçimi kullanılırken, dijital ortamlarda ölçeklendirmesi kullanılmaktadır. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "santimetre / inç",
+                "CMYK/RGB",
+                "tram / bitmap",
+                "true type / variable font",
+                "punto / piksel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 135,
+            "question": "Tipografik ögelerin görsel açıdan estetik şekilde organize edilebilmesini sağlayan, tasarımın genelinde tutarlılık sağlayan kılavuz sisteme ne ad verilir?",
+            "options": [
+                "Izgara (grid)",
+                "Marjin",
+                "Hücre",
+                "Şablon",
+                "Modül"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 136,
+            "question": "Aşağıdakilerden hangisi bir \"altın dikdörtgen\" örneğidir?",
+            "options": [
+                "Cep Telefonu Ekranı",
+                "Kapı Ölçüsü",
+                "A4 Kâğıt",
+                "5/4 Bilgisayar Ekranı",
+                "16/9 TV Ekranı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 137,
+            "question": "Geleneksel iletişim tasarımı ortamı olan afişin şu anki yansıması olarak adlandırılabilecek basılı grafik ürün aşağıdakilerden hangisidir?",
+            "options": [
+                "Jenerik",
+                "Banner",
+                "Kitap kapağı",
+                "Broşür",
+                "Billboard"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 138,
+            "question": "iki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir. Bu ayarlara özellikle başlıklarda ve büyük punto kullanımında dikkat edilmelidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kırıntılar (Rags)",
+                "Punto Boyutu",
+                "x- yüksekliği",
+                "Uyumlama (Kerning)",
+                "Allograf"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 139,
+            "question": "Eğik yazılar ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Eğik yazı karakterleri okuma hızını arttırmaktadır ve uzun metin blokları için uygundur.",
+                "Metin içerisinde vurgu sağlamak ve sözlü ifadeleri ayırt etmek için kullanılmaktadır.",
+                "Eğik yazılar bir yazı karakterinin ekseni 7 ila 20 derece arasında eğimli versiyonudur.",
+                "Eğik yazılar İtalik ve Oblik olarak iki çeşittir.",
+                "İtalik yazı karakterlerinde bazı harfler tekrar tasarlanır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 140,
+            "question": "Aşağıdakilerden hangisi 'allograf'ın tanımıdır?",
+            "options": [
+                "Harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisidir.",
+                "Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir.",
+                "Karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır.",
+                "İki harf arasındaki boşluğun optik olarak dengelenmesidir.",
+                "Karakter çizgisinin bitiminde bulunan küçük çıkıntılardır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607549"
+        },
+        {
+            "id": 141,
+            "question": "Ortaçağ Avrupa'sında 4. ve 9. yüzyıllar arasında resmi ve kutsal metinleri yazmak için aşağıdaki yazı biçemlerinden hangisi kullanılmıştır?",
+            "options": [
+                "Codex Vaticanus",
+                "Anziyal",
+                "Karolenj",
+                "Rustik",
+                "Trajan Kapital"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 142,
+            "question": "Grafik tasarımda 1950'lilerde yeni teknolojilerin sunduğu olanaklarla ifade edilen yaklaşımların hakim olduğu bir dönemde \"Uluslararası Tipografik Stil Hareketi\" aşağıdaki ülkelerden hangisinde ortaya çıkmıştır?",
+            "options": [
+                "Hollanda",
+                "İrlanda",
+                "İsviçre",
+                "İtalya",
+                "ABD"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 143,
+            "question": "Birinci Dünya Savaşı esnasında grafik tasarımı ve tipografiyi etkileyen ve yenilikçi görülen \"Konstrüktivizm\" aşağıdaki ülkelerden hangisinde ortaya çıkmıştır?",
+            "options": [
+                "Rusya",
+                "Almanya",
+                "ABD",
+                "İngiltere",
+                "İtalya"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 144,
+            "question": "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir <u>madde</u> üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?",
+            "options": [
+                "Simge",
+                "Yazı",
+                "Logogram",
+                "Fonetik",
+                "Piktogram"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 145,
+            "question": "Aşağıdakilerden hangisi Max Kisman'ı sayısal font tasarımında öncü yapan çalışmalarından biridir?",
+            "options": [
+                "Blur",
+                "FF Meta",
+                "Fudoni",
+                "Berliner Grotesk",
+                "Harlem"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 146,
+            "question": "Dr. Donald Knuth tarafından geliştirilen ve dijital teknoloji ile font tasarımı yapılmasını sağlayan yazılım aşağıdakilerden hangisidir?",
+            "options": [
+                "Monotype",
+                "Dafont",
+                "Opentype",
+                "Fotodizgi",
+                "Metafont"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 147,
+            "question": "Aşağıdakilerden hangisi Ligature'ın tanımıdır? A) Harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen isimdir.<br>B) Karakterlerin taban çizgisinin altında kalan parçalarıdır.<br>C) Tırnaklı yazı karakterlerinde görülen en ince çizgidir.<br>D) Ard arda gelen iki harfin birleştirilerek tek bir harf haline dönüştürülmesidir.<br>E) Sadece iki katlı küçük harflerin alt kısmına verilen özel isimdir.",
+            "options": [
+                "Harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen isimdir.",
+                "Karakterlerin taban çizgisinin altında kalan parçalarıdır.",
+                "Tırnaklı yazı karakterlerinde görülen en ince çizgidir.",
+                "Ard arda gelen iki harfin birleştirilerek tek bir harf haline dönüştürülmesidir.",
+                "Sadece iki katlı küçük harflerin alt kısmına verilen özel isimdir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 148,
+            "question": "Bir metni oluşturan satırların arasındaki boşluk/mesafeye ad verilir?",
+            "options": [
+                "Ascender",
+                "Leading",
+                "Kerning",
+                "Descender",
+                "Tracking"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 149,
+            "question": "Karmaşık bir mesajı anlaşılır bir biçimde basitleştirilebilmek için görsel verileri vurgu sıralamasına göre düzenlemeye yardımcı olan tasarım ilkesine ne ad verilir?",
+            "options": [
+                "Oran-orantı",
+                "Ritim",
+                "Bütünlük",
+                "Görsel hiyerarşi",
+                "Denge"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 150,
+            "question": "Küçük parçalardan oluşan görsel elemanların yakınlıkları nedeni ile tek bir büyük parça olarak algılanmasını sağlayan gestalt ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Yakınlık İlkesi",
+                "Tamamlama İlkesi",
+                "Benzerlik İlkesi",
+                "Şekil-zemin İlkesi",
+                "Devamlılık İlkesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 151,
+            "question": "Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangsidir?",
+            "options": [
+                "Görsel hiyerarşi",
+                "Oran-orantı",
+                "Simetrik denge",
+                "Ritim",
+                "Vurgu"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 152,
+            "question": "-------, sesi taşıyan harfler vasıtasıyla içeriği sesle görselleştiren yapıdır. ------- ise yazıya anlam, hiyerarşi ve ruh kazandırır. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "Basılı yazı / Dijital yazı",
+                "Broşür / Bilbord",
+                "Logo / Logotayp",
+                "Yazı / Tipografi",
+                "Başlık / Altyazı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 153,
+            "question": "80'li yıllarda ekran odaklı piksel teknolojisine ayak uyduran yeni dijital yazı karakterleri olarak kullanılan yazı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Bitmap Font",
+                "Open Type",
+                "True Type",
+                "Postscript Type 1",
+                "Variable Font"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 154,
+            "question": "Belirli harf çiftlerinin birlikte kullanımından doğan kötü görüntülerin giderilmesi amacıyla karakter aralıklarına el ile müdahale edilmesine ne ad verilir?",
+            "options": [
+                "Letterspacing",
+                "Espas",
+                "Tracking",
+                "Leading",
+                "Kerning"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 155,
+            "question": "Hillner'e göre, 1980 sonrası yazının tipografi pratiğindeki gelişimini hızlandıran unsur aşağıdakilerden hangisidir?",
+            "options": [
+                "İletişim tasarımı",
+                "Tipografi tasarımcıları",
+                "Teknolojik gelişmeler",
+                "Gösterge bilim",
+                "Masaüstü yayıncılar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 156,
+            "question": "İçeriği oluşturan metin ve görseller ile sayfa kenarı arasındaki çevrelenen negatif alanlara ne ad verilir?",
+            "options": [
+                "Akış Çizgisi",
+                "Marjin",
+                "Modül",
+                "Sütun",
+                "Satır"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 157,
+            "question": "Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden <u>değildir</u>?",
+            "options": [
+                "Tam blok",
+                "Soldan blok",
+                "Sağdan blok",
+                "Ortadan blok",
+                "Dikey blok"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 158,
+            "question": "İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesine denmektedir. Bu ayarlara özellikle başlıklarda ve büyük punto kullanımında dikkat edilmelidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kırıntılar (Rags)",
+                "Punto Boyutu",
+                "x- yüksekliği",
+                "Uyumlama (Kerning)",
+                "Allograf"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 159,
+            "question": "Aşağıdakilerden hangisi \"Allograf\"ın tanımıdır?",
+            "options": [
+                "Yazı karakterindeki bir harfin iki veya daha fazla alternatifli biçimidir.",
+                "Yazı karakterinin iç boşluklarıdır.",
+                "Yazı karakterindeki tek katlı harflerdir.",
+                "Yazı karakterinin yarı kapalı iç boşluklarıdır.",
+                "Yazı karakterindeki çift katlı harflerdir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 160,
+            "question": "Aşağıdakilerden hangisi bir yazı karakterinin okunurluğuna katkıda bulunan elemanlardan biri <u>değildir</u>?",
+            "options": [
+                "Karakter Ağırlığı",
+                "Karakter Genişliği",
+                "x- yüksekliği",
+                "Harf Çizgisi Kontrastı",
+                "Dış Boşluklar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607580"
+        },
+        {
+            "id": 161,
+            "question": "Gutenberg basımevinde 1448'de basılan ilk ürün aşağıdakilerden hangisidir?",
+            "options": [
+                "Astronomi Takvimi",
+                "The Apocalypse",
+                "Tipografik Kitap",
+                "The Nuremberg Chronicle",
+                "Mainz Mezmurlar Kitabı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 162,
+            "question": "M.Ö 2000'lerde icat edildiği Bergama'dan gelen özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "kağıt",
+                "parşömen",
+                "hasır",
+                "papirüs",
+                "tablet"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 163,
+            "question": "1960'lı yıllarda basılı sayfa üzerinde hareket algısı ile New York şehrinin canlılığını aktarmak için kavramsal tipografiyi kullanan tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Van Doesburg",
+                "Leo Lionni",
+                "Piet Mondrian",
+                "Laszlo Moholy-Nagy",
+                "Vilmos Huszar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 164,
+            "question": "Aşağıdakilerden hangisi Fütürizmin genel özelliklerinden biridir?",
+            "options": [
+                "Dekorasyon",
+                "İşlevsellik",
+                "Geleneksellik",
+                "Suçlama",
+                "Eşzamanlılık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 165,
+            "question": "Emigre dergisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dergide tasarımında kullanılan, boşluk, noktalama, yazı karakteri kullanımı alışılmış tipografi kurallarına uygundur.",
+                "Dergide moda, siyaset ve film gibi içeriklere yer verilmektedir.",
+                "Sayfa tasarımlarında tipografi daha önce görülmemiş yeni bir anlayış ile ele alınmıştır.",
+                "Dergide temel tipografi anlayışı okunabilirlik üzerinedir.",
+                "Geleneksel tasarım kurallarına uygun tasarlanmıştır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 166,
+            "question": "Bir yazı karakterinde bulunan tüm karakterlerin üzerinde durduğu hayali çizgiye ne ad verilir?",
+            "options": [
+                "Meanline",
+                "Ascent",
+                "X yüksekliği",
+                "Baseline",
+                "Descent"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 167,
+            "question": "Aşağıdakilerden hangisi piksel tabanlı tipografik bir formattır?",
+            "options": [
+                "Type 1",
+                "Bitmap",
+                "Type 3",
+                "OpenType",
+                "TrueType"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 168,
+            "question": "Karmaşık bir mesajı anlaşılır bir biçimde basitleştirilebilmek için görsel verileri vurgu sıralamasına göre düzenlemeye yardımcı olan tasarım ilkesine ne ad verilir?",
+            "options": [
+                "Görsel hiyerarşi",
+                "Ritim",
+                "Denge",
+                "Oran-orantı",
+                "Bütünlük"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 169,
+            "question": "\"Roma tipi\" olarak da adlandırılan yazı karakterleri aşağıdakilerden hangisidir?",
+            "options": [
+                "San Serif",
+                "Grotesk",
+                "Slab Serif",
+                "Serifli",
+                "Bold"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 170,
+            "question": "Aşağıdakilerden hangisi tipografik hiyerarşinin sağlanmasında etkili <u>değildir</u>?",
+            "options": [
+                "Bilgilerin önem sırasının belirlenmesi",
+                "Kenar boşluklarını ve beyaz alanları vurgu oluşturmak için kullanılması",
+                "Metni ayırmaya ve vurgulamaya yardımcı alt başlıkların, büyük-küçük harflerin ve paragraf girişlerinin kullanılması",
+                "En önemli bilgilerin odak noktası haline getirilmesi",
+                "Tasarım yüzeyi üzerinde yer alan elemanların aynı özelliklere sahip olması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 171,
+            "question": "Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangsidir?",
+            "options": [
+                "Simetrik denge",
+                "Vurgu",
+                "Görsel hiyerarşi",
+                "Oran-orantı",
+                "Ritim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 172,
+            "question": "Norman Ives'e göre, \"firmanın görüntüsü\" olarak adlandırılan eleman aşağıdakilerden hangisidir?",
+            "options": [
+                "Soyut form",
+                "Tipografi",
+                "Logo",
+                "Harf",
+                "Amblem"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 173,
+            "question": "Aşağıdakilerden hangisi Nike Logosunda kullanılan yazı karakteridir?",
+            "options": [
+                "Helvetica Narrow Bold",
+                "Helvetica Narrow Condensed",
+                "Helvetica Condensed Italic",
+                "Helvetica Condensed Black",
+                "Helvetica Condensed Black Italic"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 174,
+            "question": "Ekran teknolojilerini temel alan karakterlerin genel adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Varnable Fonts",
+                "Sistem Fontu",
+                "Ekran Fontu",
+                "Bitmap yazı karakteri",
+                "Open Type"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 175,
+            "question": "Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranının eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir?",
+            "options": [
+                "Gestalt kuramı prensibi",
+                "Punto prensibi",
+                "Altın oran prensibi",
+                "Grid sistemi",
+                "Kağıt ölçüsü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 176,
+            "question": "tasarıma yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Izgara sistemi",
+                "Altın dikdörtgen",
+                "Fibonacci",
+                "Modül",
+                "Tam blok"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 177,
+            "question": "Bir yazı karakterinin iç boşlukları ne kadar okunurluğu o kadar zor olabilir. İç boşlukları ne kadar okunurluğu artar. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "inceyse - kalınsa",
+                "kalınsa - inceyse",
+                "inceyse - büyükse",
+                "büyükse - küçükse",
+                "küçükse - büyükse"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 178,
+            "question": "Bloklama yöntemleri yazının okunurluğunu ve sayfada görünümünü etkilemektedir. Bu bağlamda tüm satırlar soldan ve sağdan aynı doğrultuda keskin biçimde hizalamaya ne denir?",
+            "options": [
+                "Soldan Blok",
+                "Sağdan Blok",
+                "Tam Blok",
+                "Ortalı Blok",
+                "Dikey Blok"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 179,
+            "question": "Aşağıdakilerden hangisi paragrafları birbirinden ayırt edebilmek için kullanılan yöntemlerden biri <u>değildir</u>?",
+            "options": [
+                "Satır Arası Boşluğu ile Paragraf Ayrımı",
+                "Paragraf Başı Tirelemesi",
+                "Asılı Girinti ile Paragraf Ayrımı",
+                "Paragraf Başı Girintisi",
+                "Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        },
+        {
+            "id": 180,
+            "question": "Aşağıdakilerden hangisi bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklardan biri <u>değildir</u>?",
+            "options": [
+                "x- yüksekliği",
+                "Tırnaklı ve Tırnaksız Yazılar",
+                "Karakter Genişliği",
+                "Bitişik Yazılar",
+                "Tipografinin Doğası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607600"
+        }
+    ]
+}

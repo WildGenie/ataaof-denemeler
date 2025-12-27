@@ -1,0 +1,1504 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi üç boyutlu tipografinin kullanım alanlarından biri <u>değildir</u>?",
+            "options": [
+                "Reklam",
+                "Mimari",
+                "Baskı",
+                "Bilgilendirme",
+                "Yer imi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 2,
+            "question": "Şehirlerde rastlanan, genellikle şehir ismini de içeren, turistlerin önünde fotoğraf çektirdiği büyük ölçülerde üç boyutlu tipografik düzenlemelere ne ad verilir?",
+            "options": [
+                "Heykel",
+                "Yer imi",
+                "Mimari tipografi",
+                "Oyun amaçlı tipografi",
+                "Tipo-texture"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 3,
+            "question": "Mayakovski'nin \"For The Voice\" başlıklı şiir kitabı için yaptığı tasarımları deneysel tipografinin önemli örneklerini oluşturan Lissitzky, aşağıdaki sanat hareketlerinden hangisi içerisinde yer alır?",
+            "options": [
+                "Konstrüktivizm",
+                "Fütürizm",
+                "Kübizm",
+                "Dadaizm",
+                "De Stijl"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi oluşturma yöntemlerine göre üç boyutlu tipografi sınıfında yer alır?",
+            "options": [
+                "Reklam amaçlı üç boyutlu tipografi",
+                "Yer imi olarak üç boyutlu tipografi",
+                "Bilgilendirme amaçlı üç boyutlu tipografi",
+                "Hareket ya da performans amaçlı üç boyutlu tipografi",
+                "Sanat ve tasarım amaçlı üç boyutlu tipografi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıdakilerden hangisi \"oluşturulma yöntemlerine göre üç boyutlu tipografi\" sınıfında yer alır?",
+            "options": [
+                "Mimari imge olarak üç boyutlu tipografi",
+                "Bilgilendirme amaçlı üç boyutlu tipografi",
+                "Sanat ve tasarım olarak üç boyutlu tipografi",
+                "Hazır malzemelerden oluşturulan üç boyutlu tipografi",
+                "Oyun amaçlı ve obje çıkışlı üç boyutlu tipografi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi modernizm içerisinde yer alan sanat hareketlerinden biri değildir?",
+            "options": [
+                "Kübizm",
+                "Dadaizm",
+                "Realizm",
+                "Fütürizm",
+                "Konstrüktivizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 7,
+            "question": "Odağına hareketi koyan deneysel tipografi grubu aşağıdakilerden hangisidir?",
+            "options": [
+                "Teknoloji temelli deneysel tipografi",
+                "Hareket temelli deneysel tipografi",
+                "Performans temelli deneysel tipografi",
+                "Malzeme temelli deneysel tipografi",
+                "Mecra temelli deneysel tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 8,
+            "question": "Oluşturma yöntemlerine göre üç boyutlu tipografi grubunda yer alan ve bakış açısına göre değişen tipografi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Hareketli tipografi",
+                "Performans tipografisi",
+                "Yer imi",
+                "Anamorfik tipografi",
+                "Tipografik heykel"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 9,
+            "question": "Hareketli tipografiyi izleyici ile buluşturan ilk mecra aşağıdakilerden hangisidir?",
+            "options": [
+                "Bilgisayar",
+                "İnternet",
+                "Televizyon",
+                "Işıklı panolar",
+                "Sinema"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 10,
+            "question": "Tasarımda deneysellik kavramı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Gözlemlenebilir ve yanlışlanabilir rasyonel bilgi elde edilir.",
+                "Sonuca değil, yaratıcı sürece odaklanır.",
+                "Sınırları belirsiz ve ucu açık bir süreçtir.",
+                "Ürünlerin biçim ve ölçülerine ilişkin kalıplar ortadan kalkar.",
+                "Deneyin başarılı olması beklenmez."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 11,
+            "question": "Deneysel tipografinin hologram, sanal gerçeklik (virtual reality), artırılmış gerçeklik (augmented reality) gibi yollarla deneyimlendiği deneysel tipografi grubu aşağıdakilerden hangisidir?",
+            "options": [
+                "Mecra temelli deneysel tipografi",
+                "Teknoloji temelli deneysel tipografi",
+                "Sanat temelli deneysel tipografi",
+                "Malzeme temelli deneysel tipografi",
+                "Hareket temelli deneysel tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 12,
+            "question": "Kadraj, kamera hareketi ve kurgu kavramları, hareketli tipografiyi oluşturan aşağıdaki özelliklerden hangisini belirler?",
+            "options": [
+                "Sinematografik özellikler",
+                "Fonksiyonel özellikler",
+                "Animatik özellikler",
+                "Kompozisyonel özellikler",
+                "Biçimsel özellikler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 13,
+            "question": "Hareketli tipografi 1960'lardan sonra televizyonda özellikle kanal kimliği oluşturulmasında önemli bir unsur hâline gelmiştir. 1981 yılında hareketli tipografiye dayanan, Manhattan Design ekibi tarafından gerçekleştirilen kimlik tasarımını kullanan televizyon kanalı aşağıdakilerden hangisidir?",
+            "options": [
+                "NBC",
+                "CBS",
+                "ABC",
+                "MTV",
+                "Channel 4"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 14,
+            "question": "Amerikalı kavramsal sanatçı ve tasarımcı Barbara Kruger'in tipografiyi etkili biçimde kullandığı eserleri aşağıdaki sanat alanlarından hangisine aittir?",
+            "options": [
+                "Heykel sanatı",
+                "Resim Sanatı",
+                "Kitap sanatı",
+                "Kaligrafi",
+                "Yerleştirme sanatı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 15,
+            "question": "Ekran üzerindeki tipografinin ya da görüntünün keskinliğini ve netliğini tanımlamak için kullanılan ölçü aşağıdakilerden hangisidir?",
+            "options": [
+                "Punto",
+                "Çözünürlük",
+                "Piksel",
+                "Ton",
+                "Yoğunluk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdakilerden hangisi hareketli tipografiyi oluşturan biçimsel özelliklerden biri <u>değildir</u>?",
+            "options": [
+                "Yazının postürü",
+                "Yazı boyutu ve x-yüksekliği",
+                "Yazının hiyerarşisi",
+                "Yazı ağırlık ve genişliği",
+                "Yazı karakteri seçimi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 17,
+            "question": "İlk uygulamalarında kitap etiketi olarak ortaya çıkmış fakat günümüzde baskı resim sanatının bir alt alanı olarak varlığını sürdüren ve tipografiyi doğal olarak içinde barındıran baskı resim formu aşağıdakilerden hangisidir?",
+            "options": [
+                "Grafiti",
+                "Gravür",
+                "Enstalasyon",
+                "Litografi",
+                "Ekslibris"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 18,
+            "question": ":Eski dilde \"harfler\" anlamına gelir. Tipo baskıda kullanılan metal harfleri tanımlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Hurufat",
+                "Mizanpaj",
+                "Exlibris",
+                "Kanvas",
+                "Dizgi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 19,
+            "question": "İcra edenler tarafından sanat fakat bazılarına göre yasa dışı ve rahatsızlık verici anarşist bir eylem olarak görülen sokak sanatının önemli bir parçası olan yazı ve resim formu aşağıdakilerden hangisidir?",
+            "options": [
+                "Hüsn-i hat",
+                "Tipografi",
+                "Grafitti",
+                "Kaligrafi",
+                "Harfleme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi yazının metin özelliğini bozmadan yapılan sanatsal çalışmalara ne ad verilir?",
+            "options": [
+                "Grafiti",
+                "Kaligrafi",
+                "Harfleme",
+                "Tipografi",
+                "ASCII art"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565288"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi üç boyutlu tipografiyi iki boyutlu tipografiden ayıran farklardan biridir?",
+            "options": [
+                "Geleneksel tipografi kurallarından bağımsız olması",
+                "Okunabilirliğinin daha düşük olması",
+                "Mekânla etkileşime girebilmesi",
+                "Sadece dijital ortamda oluşturulabilmesi",
+                "Daha az malzeme kullanması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 22,
+            "question": "Şehirlerde rastlanan, genellikle şehir ismini de içeren, turistlerin önünde fotoğraf çektirdiği büyük ölçülerde üç boyutlu tipografik düzenlemelere ne ad verilir?",
+            "options": [
+                "Heykel",
+                "Yer imi",
+                "Mimari tipografi",
+                "Oyun amaçlı tipografi",
+                "Tipo-texture"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi üç boyutlu tipografinin kullanım alanlarından biri <u>değildir</u>?",
+            "options": [
+                "Baskı",
+                "Reklam",
+                "Yer imi",
+                "Bilgilendirme",
+                "Mimari"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 24,
+            "question": "Mimari alfabeler olarak adlandırdığı üç boyutlu alfabe çalışmaları 1980'li yıllarda ün kazanan, bu tarz çalışmalarıyla dünya çapında tanınan Japon grafik tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Hayao Miyazaki",
+                "Haruki Murakami",
+                "Takenobu Igarashi",
+                "Oki Sato",
+                "Shigeo Fukuda"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 25,
+            "question": "Jenny Holzer, \"Lustmord\" adlı deneysel tipografik çalışmasını aşağıdaki yüzeylerden hangisi üzerine uygulamıştır?",
+            "options": [
+                "Kağıt",
+                "Dijital ekran",
+                "Cam",
+                "Ahşap",
+                "İnsan bedeni"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 26,
+            "question": "Oluşturma yöntemlerine göre üç boyutlu tipografi grubunda yer alan ve bakış açısına göre değişen tipografi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Hareketli tipografi",
+                "Anamorfik tipografi",
+                "Tipografik heykel",
+                "Yer imi",
+                "Performans tipografisi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 27,
+            "question": "Odağına hareketi koyan deneysel tipografi grubu aşağıdakilerden hangisidir?",
+            "options": [
+                "Hareket temelli deneysel tipografi",
+                "Malzeme temelli deneysel tipografi",
+                "Mecra temelli deneysel tipografi",
+                "Performans temelli deneysel tipografi",
+                "Teknoloji temelli deneysel tipografi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 28,
+            "question": "Filippo Marinetti'nin tipografik denemeleri aşağıdaki sanat akımlarının hangisi içinde değerlendirilir?",
+            "options": [
+                "De Stijl",
+                "Konstrüktivizm",
+                "Minimalizm",
+                "Bauhaus",
+                "Fütürizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangisi güncel deneysel tipografi yaklaşımlarından biri <u>değildir</u>?",
+            "options": [
+                "Malzeme temelli deneysel tipografi",
+                "Teknoloji temelli deneysel tipografi",
+                "Hareket temelli deneysel tipografi",
+                "Mecra temelli deneysel tipografi",
+                "Sanat temelli deneysel tipografi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 30,
+            "question": "Dadaizm sanat hareketi içerisinde yer alan ve kes-yapıştır yazıların olduğu tipografik ögeleri foto montaj ile harmanlayan Avusturyalı tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Raoul Hausmann",
+                "Neville Brody",
+                "David Carson",
+                "Paula Scher",
+                "Stefan Sagmeister"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 31,
+            "question": "Aşağıdakilerden hangisi hareketli tipografiyi oluşturan biçimsel özelliklerden biri <u>değildir</u>?",
+            "options": [
+                "Yazı boyutu ve x-yüksekliği",
+                "Yazı karakteri seçimi",
+                "Yazı ağırlık ve genişliği",
+                "Yazının hiyerarşisi",
+                "Yazının postürü"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 32,
+            "question": "Hareketli tipografide de kullanılan, hareketin kaç karede gerçekleşeceğini ele alan animasyon ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sahneleme (Staging)",
+                "Zamanlama (Timing)",
+                "Ters Hareket (Anticipation)",
+                "İkincil Hareket (Secondary Action)",
+                "Sıkışma ve Esneme (Squash and Stretch)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 33,
+            "question": "Ekran üzerindeki tipografinin görüntünün keskinliğini ya da netliğini tanımlamak için kullanılan ölçü aşağıdakilerden hangisidir?",
+            "options": [
+                "Piksel",
+                "Yoğunluk",
+                "Çözünürlük",
+                "Punto",
+                "Ton"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 34,
+            "question": "Aşağıdaki sanatçılardan hangisi erken dönem hareketli tipografi alanında üretim yapmıştır?",
+            "options": [
+                "Jan Tschichold",
+                "Herb Lubalin",
+                "Emil Ruder",
+                "Paul Rand",
+                "Saul Bass"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 35,
+            "question": "Kadraj, kamera hareketi ve kurgu kavramları, hareketli tipografiyi oluşturan aşağıdaki özelliklerden hangisini belirler?",
+            "options": [
+                "Biçimsel özellikler",
+                "Kompozisyonel özellikler",
+                "Animatik özellikler",
+                "Sinematografik özellikler",
+                "Fonksiyonel özellikler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 36,
+            "question": "Aşağıdakilerden hangisi yazının ilk izlerinin görüldüğü kullanım alanlarından biridir?",
+            "options": [
+                "Sanatsal bir ifade biçimi olarak başlamıştır.",
+                "Öncelikle matbaa teknolojisi ile ortaya çıkmıştır.",
+                "Doğa ve düşmanlara karşı yapılan büyü ve tılsımlar.",
+                "İlk yazılar taşa/deri/oluşturulmuştur.",
+                "Sadece estetik kaygılarla oluşturulmuştur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi \"okunurluk\" (legibility) özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Çarpan sayısı",
+                "Çizgi kontrastı",
+                "x-yüksekliği",
+                "Karakter biçimi",
+                "Çizgi ağırlığı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 38,
+            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Mizahpaşı",
+                "Kanvas",
+                "Dizgi",
+                "Hurufat",
+                "Exlibris"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 39,
+            "question": "İcra edenler tarafından sanat fakat bazılarına göre yasa dışı ve rahatsızlık verici anarşist bir eylem olarak görülen sokak sanatının önemli bir parçası olan yazı ve resim formu aşağıdakilerden hangisidir?",
+            "options": [
+                "Harfleme",
+                "Grafiti",
+                "Hüsn-i hat",
+                "Kaligrafi",
+                "Tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdakilerden hangisi \"Ekslibris\"in tanımıdır?",
+            "options": [
+                "Tipografi ile oluşturulmuş enstalasyonlardır.",
+                "Tipografi ile üretilen şiir ve edebi eserlerdir.",
+                "Kaligrafi ile oluşturulmuş büyük ölçekli harf tasarımlarını gösteren bir kaynaktır.",
+                "Kitap sahibini tanımlayan küçük boyutlu baskı resimleridir.",
+                "El yazması kitap sanatını anlatan bir terimdir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618224"
+        },
+        {
+            "id": 41,
+            "question": "Bir yerin hayal edilebilirliğini ve hatırlanabilirliğini arttıran \"I amstardam\", \"I love NY\" gibi tipografik uygulamaları da bulunan oluşumlar aşağıdakilerden hangisidir?",
+            "options": [
+                "Yer imi",
+                "Anamorfik",
+                "Typo texture",
+                "Mimari tipografi",
+                "İkon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 42,
+            "question": "Aşağıdakilerden hangisi postmodernist deneysel dilin geliştirilmesinde öncü olmuş grafik tasarımcılardan biri <u>değildir</u>?",
+            "options": [
+                "April Greiman",
+                "Neville Brody",
+                "Jan Tschichold",
+                "Stefan Sagmeister",
+                "Chris Ashworth"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 43,
+            "question": "Sinemada hareketli tipografi kullanan ilk isim aşağıdakilerden hangisidir?",
+            "options": [
+                "Saul Bass",
+                "Man Ray",
+                "Marcel Duschamp",
+                "Georges Méliès",
+                "Marc Allegret"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 44,
+            "question": "Arap harfleriyle oluşturulan güzel yazı sanatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Grafiti",
+                "Hüsn-i hat",
+                "Kaligrafi",
+                "Harfleme",
+                "Tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 45,
+            "question": "Alfabenin özgün bir tasarımını tamamlamak için kullanılan terim ne ad verilir?",
+            "options": [
+                "Yazı karakteri",
+                "Yazı stili",
+                "Yazı ailesi",
+                "Glif",
+                "Karakter"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 46,
+            "question": "Aşağıdakilerden hangisi yazı karakterlerinin seriflerine göre sınıflandırılmasında yer alan gruplardan biri <u>değildir</u>?",
+            "options": [
+                "Serifsizler",
+                "Kavisli serifliler",
+                "Kare serifliler",
+                "Düz serifliler",
+                "Yuvarlak serifliler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 47,
+            "question": "\"Text or Black Letter\" ismiyle de anılan yazı karakteri türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Roman",
+                "Gotik",
+                "Sans Serif",
+                "Kare Serif",
+                "El Yazısı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 48,
+            "question": "Minisküllerde harfin taban çizgisinden aşağıya sarkan kısmını tanımlayan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "Aksan (assent)",
+                "Taban çizgisi (baseline)",
+                "Üst uzantı (ascender)",
+                "Alt uzantı (descender)",
+                "Uç nokta (terminal)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 49,
+            "question": "Geniş mekânlara yönelik yapılan büyük boy duvar grafiklerine ne ad verilir?",
+            "options": [
+                "Yer imi",
+                "Yazıyapı",
+                "Süpergrafik",
+                "Yazıresim",
+                "Mimari yazı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 50,
+            "question": "Hector Guimard tarafından tasarlanan hâlâ Paris sokağını tanımlamaya devam eden, yapı ile tipografinin en güzel birleşimlerinden birini örnekleyen Paris metrosunun meşhur giriş tabelası aşağıdaki sanat hareketlerinden hangisi içerisinde yer alır?",
+            "options": [
+                "Jugendstil",
+                "Bauhaus",
+                "Art Deco",
+                "Art Nouveau",
+                "Arts and Crafts"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 51,
+            "question": "-------: Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış yazıdır. Yukarıdaki cümlede boş bırakılan yeri <u>doğru şekilde</u> tamamlar?",
+            "options": [
+                "Grafiti",
+                "Text",
+                "Tipografi",
+                "Kaligrafi",
+                "Harfleme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 52,
+            "question": "Cadde ve sokak tabelaları, numaralandırmalar, apartman isimlerinin yanı sıra yine kente ait kanalizasyon, telefon, elektrik su gibi altyapı sistemlerinin kayıt bilgilerini taşıyan tipografik unsurlar aşağıdaki çevresel grafik alanlarından hangisi içerisinde yer alır?",
+            "options": [
+                "Mimari Tipografi",
+                "Normatif Tipografi",
+                "Kayıtsal Tipografi",
+                "Ticari Tipografi",
+                "Sanatsal Tipografi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 53,
+            "question": "1902 yılında tasarladığı \"Die Zeit\" telgraf bürosu ile tabela tasarımında yeni bir anlayış ortaya koyan, Viyana Sesesyonu döneminin mimarı aşağıdakilerden hangisidir?",
+            "options": [
+                "Jules Chéret",
+                "Otto Wagner",
+                "Hector Guimard",
+                "Henri de Toulouse Lautrec",
+                "Peter Behrens"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 54,
+            "question": "Gotik, İtalik, Ünsial, Roman Kapital gibi kaligrafi yazıları için kullanılan malzeme aşağıdakilerden hangisidir?",
+            "options": [
+                "Kesik uçlu kalem",
+                "Daldırma kalem",
+                "Dolma kalem",
+                "Fırça kalem",
+                "Trilin"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 55,
+            "question": "Bütünlüğü, uyumu, dengeyi, ritmi ve ruhu göstermek için güzel ve anlamlı işaretlerle yazı yazma sanatına ne ad verilir?",
+            "options": [
+                "Harfleme",
+                "Litografi",
+                "Kaligrafi",
+                "Tipografi",
+                "Gravür"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 56,
+            "question": "Postmodern estetiğin popüler bileşenlerinden biri olan, geçmişin ve modası geçmiş tasarımların tekrarını içeren yaklaşım aşağıdakilerden hangisidir?",
+            "options": [
+                "Punk",
+                "Vintage",
+                "Pastiş",
+                "Grunge",
+                "Retro"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 57,
+            "question": "Kökeni ABD'de tabela ressamlığının bir meslek olarak başladığı 1950'li ve 1960'lı yıllara dayanan fırça yazının karşılığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kaligrafi",
+                "Harfleme",
+                "Tipografi",
+                "Grafiti",
+                "Hat sanatı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 58,
+            "question": "Vernaküler kavramı ilk olarak aşağıdaki hangi alanda kullanılmıştır?",
+            "options": [
+                "Endüstri tasarımı",
+                "Grafik",
+                "Sinema",
+                "Mimari",
+                "Reklam"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 59,
+            "question": "Sözcük olarak \"yerli, yöreye özgü\" anlamına gelen, postmodernizm içinde bir yaklaşım olarak yer alan tarz aşağıdakilerden hangisidir?",
+            "options": [
+                "Vernaküler",
+                "Grunge",
+                "Punk",
+                "Retro",
+                "Nostalji"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 60,
+            "question": "Minneapolis'te gıda etiketlerine sıcak, nostaljik, güven verici etki yaratmak için Resimsel Modernizm, Ekspresyonizm ve Art Deco'nun yanı sıra vernaküleri kullanan dekoratif retro üsluplarıyla ünlenen tasarım grubu aşağıdakilerden hangisidir?",
+            "options": [
+                "M&Co Studio",
+                "Push Pin Studio",
+                "The Night Gallery",
+                "G&C Design",
+                "Duffy Design Group"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571100"
+        },
+        {
+            "id": 61,
+            "question": "Aşağıdakilerden hangisi oluşturma yöntemlerine göre üç boyutlu tipografi sınıfında yer alır?",
+            "options": [
+                "Sanat ve tasarım amaçlı üç boyutlu tipografi",
+                "Hareket ya da performans amaçlı üç boyutlu tipografi",
+                "Bilgilendirme amaçlı üç boyutlu tipografi",
+                "Yer imi olarak üç boyutlu tipografi",
+                "Reklam amaçlı üç boyutlu tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 62,
+            "question": "Mayakovski'nin \"For The Voice\" başlıklı şiir kitabı için yaptığı tasarımları deneysel tipografinin önemli örneklerini oluşturan Lissitzky, aşağıdaki sanat hareketlerinden hangisi içerisinde yer alır?",
+            "options": [
+                "Dadaizm",
+                "Kübizm",
+                "Konstrüktivizm",
+                "Rasyonalizm",
+                "De Stijl"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 63,
+            "question": "Hareketli tipografiyi izleyici ile buluşturan ilk mecra aşağıdakilerden hangisidir?",
+            "options": [
+                "Işıklı panolar",
+                "Bilgisayar",
+                "Sinema",
+                "Televizyon",
+                "İnternet"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 64,
+            "question": "Yazının metin özelliğini bozmadan yapılan sanatsal çalışmalar ne ad verilir?",
+            "options": [
+                "Kaligrafi",
+                "Harfleme",
+                "Grafiti",
+                "Tipografi",
+                "ASCII art"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 65,
+            "question": "Gutenberg'in bastığı kırk iki satırlık İncil'de kullandığı, dönemin el yazısı üzerine temellenen yazı karakterleri aşağıdaki türlerden hangisi içinde yer alır?",
+            "options": [
+                "Gotik",
+                "Roman",
+                "Kare Serif",
+                "Sans Serif",
+                "Tür Dışı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 66,
+            "question": "\"Egyptian\" ismiyle de anılan yazı karakteri türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Gotikler",
+                "Kare Serifliler",
+                "Sans Serifler",
+                "Romanlar",
+                "El Yazısı Benzerleri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 67,
+            "question": "Aşağıdaki yazılardan hangisi Gotik türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Rotunda",
+                "Textura",
+                "Fraktur",
+                "Schwabacher",
+                "Bodoni"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 68,
+            "question": "Aşağıdakilerden hangisi Bauhaus ekolünün tipografi ile mimariyi birleştirdiği önemli örneklerden biridir?",
+            "options": [
+                "Empire State Binası'nın Tabelası",
+                "Bauhaus Dessau Binası ve Tipografisi",
+                "Pompidou Sanat Merkezi",
+                "Anıtkabir Yazıtları",
+                "Eames'in IBM Fuar Pavyonu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 69,
+            "question": "Aşağıdakilerden hangisi tipografi terminolojisinde \"x-yüksekliği\"nin tanımıdır?",
+            "options": [
+                "Minisküllerin alt ve üst uzantılarıyla birlikte tam yüksekliğidir.",
+                "Seriflerin harflere eklediği yüksekliğidir.",
+                "Minisküllerin gövde yüksekliğidir.",
+                "Büyük harflerin yüksekliğidir.",
+                "Harflerin kalınlığını belirleyen faktördür."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 70,
+            "question": "Roma döneminde taş anıtlarda kullanılan ve bugün de etkisini sürdüren yazı karakteri aşağıdakilerden hangisidir?",
+            "options": [
+                "Helvetica",
+                "Times New Roman",
+                "Gotham",
+                "Roma Kapital Yazısı",
+                "Futura"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 71,
+            "question": "Hector Guimard tarafından tasarlanan hâlâ Paris sokağını tanımlamaya devam eden, yapı ile tipografinin en güzel birleşimlerinden birini örnekleyen Paris metrosunun meşhur giriş tabelası aşağıdaki sanat hareketlerinden hangisi içerisinde yer alır?",
+            "options": [
+                "Art Deco",
+                "Bauhaus",
+                "Arts and Crafts",
+                "Jugendstil",
+                "Art Nouveau"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 72,
+            "question": "Aşağıdakilerden hangisi çevresel grafik tasarımın alt alanlarından biri <u>değildir</u>?",
+            "options": [
+                "Dijital Tipografi",
+                "Mimari Tipografi",
+                "Sanatsal Tipografi",
+                "Normatif Tipografi",
+                "Ticari Tipografi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 73,
+            "question": "Gotik, İtalik, Ünsial, Roman Kapital gibi kaligrafi yazıları için kullanılan <u>tipografi</u> genellikle aşağıdaki anlayışlarından hangisidir?",
+            "options": [
+                "Daldırma kalem",
+                "Fırça kalem",
+                "Dolma kalem",
+                "Kesik uçlu kalem",
+                "Trilin"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 74,
+            "question": "Demotik ve Hiyeratik yazılar aşağıdaki kültürlerden hangisine aittir?",
+            "options": [
+                "Mısır",
+                "Türk",
+                "İspanyol",
+                "Yunan",
+                "Roma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 75,
+            "question": "Harfleme (lettering) çalışmaları genellikle aşağıdaki hangi alanda kullanılır?",
+            "options": [
+                "Mimari çizimler",
+                "Teknik çizimler",
+                "Tabela tasarımı",
+                "Matbaa baskıları",
+                "Kitap ciltleme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi harfleme (lettering) tekniğinin özelliklerinden biridir?",
+            "options": [
+                "Sadece kaligrafi sanatçıları tarafından uygulanabilir olması",
+                "Harflerin tamamının dijital ortamda oluşturulması",
+                "Harflerin yalnızca serifli olarak tasarlanması",
+                "Harflerin tek tek elle çizilmesi ve genellikle benzersiz bir tasarım oluşturulması",
+                "Önceden belirlenmiş yazı karakterlerinin kullanılması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 77,
+            "question": "Vernaküler tipografinin en belirgin özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Profesyonel tasarımcılar tarafından geliştirilmesi",
+                "Belirli bir bölgenin kültürel kimliğini yansıtması",
+                "Yalnızca büyük şirketler tarafından kullanılması",
+                "Tipografik hiyerarşiye sıkı sıkıya bağlı olması",
+                "Evrensel standartlara uyum sağlaması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 78,
+            "question": "Vernaküler tipografi genellikle aşağıdaki tasarımlar anlayışlarından hangisinin bir parçası olarak görülür?",
+            "options": [
+                "Bauhaus ekolü",
+                "Minimalist tasarım",
+                "Dijital tasarım",
+                "Modernist tasarım",
+                "Postmodernist tasarım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 79,
+            "question": "Postmodern estetiğin popüler bileşenlerinden biri olan, geçmişin ve modası geçmiş tasarımların tekrarını içeren yaklaşım aşağıdakilerden hangisidir?",
+            "options": [
+                "Punk",
+                "Vintage",
+                "Grunge",
+                "Retro",
+                "Pastiş"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 80,
+            "question": "Minneapolis'te gıda etiketlerine sıcak, nostaljik, güven verici etki yaratmak için Resimsel Modernizm, Ekspresyonizm ve Art Deco'nun yanı sıra vernaküleri kullanan dekoratif retro üsluplarıyla ünlenen tasarım grubu aşağıdakilerden hangisidir?",
+            "options": [
+                "Duffy Design Group",
+                "M&Co Studio",
+                "Push Pin Studio",
+                "The Night Gallery",
+                "G&C Design"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622596"
+        },
+        {
+            "id": 81,
+            "question": "Aşağıdakilerden hangisi üç boyutlu tipografinin kullanım alanlarından biri <u>değildir</u>?",
+            "options": [
+                "Baskı",
+                "Mimari",
+                "Yer imi",
+                "Reklam",
+                "Bilgilendirme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 82,
+            "question": "Mayakovski'nin \"For The Voice\" başlıklı şiir kitabı için yaptığı tasarımları deneysel tipografinin önemli örneklerini oluşturan Lissitzky, aşağıdaki sanat hareketlerinden hangisi içerisinde yer alır?",
+            "options": [
+                "De Stijl",
+                "Dadaizm",
+                "Kübizm",
+                "Konstrüktivizm",
+                "Fütürizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 83,
+            "question": "Aşağıdakilerden hangisi kullanım alanlarına göre üç boyutlu tipografi sınıfında yer alır?",
+            "options": [
+                "Bakış açısına göre değişen (Anamorfik) üç boyutlu tipografi",
+                "Yer imi amacıyla oluşturulan üç boyutlu tipografi",
+                "Işık-gölge kullanılarak oluşturulan üç boyutlu tipografi",
+                "Kesip çıkarma yöntemiyle oluşturulan üç boyutlu tipografi",
+                "Çeşitli nesneler kullanılarak oluşturulan üç boyutlu tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 84,
+            "question": "Aşağıdaki şairlerden hangisinin deneysel tipografinin ilk örneklerinin görüldüğü, yazılı içeriği aktaran harflerin ve sözcüklerin içerikle eşdeğer biçimde var olduğu \"görsel şiir\" türünde eseri <u>bulunmaz</u>?",
+            "options": [
+                "Charles Bukowski",
+                "Stéphane Mallarmé",
+                "Guillaume Apollinaire",
+                "Vladimir V. Mayakovski",
+                "Filippo T. Marinetti"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 85,
+            "question": "Hareketli tipografiyi izleyici ile buluşturan ilk mecra aşağıdakilerden hangisidir?",
+            "options": [
+                "Işıklı panolar",
+                "İnternet",
+                "Bilgisayar",
+                "Sinema",
+                "Televizyon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 86,
+            "question": "Hareketli tipografide de kullanılan, hareketin kaç karede gerçekleşeceğini ele alan animasyon ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sahneleme (Staging)",
+                "Zamanlama (Timing)",
+                "İkincil Hareket (Secondary Action)",
+                "Sıkışma ve Esneme (Squash and Stretch)",
+                "Ters Hareket (Anticipation)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 87,
+            "question": "Grafik tasarım ve tipografi ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Tipografi bilgiyi hiyerarşik bir düzen içinde vermelidir.",
+                "Tipografi, okunurluk (legibility) ve okuturluk (readability) prensiplerine göre şekillenmelidir.",
+                "Tipografi düzenlenirken en önemli kıstas estetik olmalıdır.",
+                "Tipografi verilen mesaja uygun olmalıdır.",
+                "Tipografinin hedef kitle düşünülerek belirlenmesi gerekir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 88,
+            "question": "İcra edenler tarafından sanat fakat bazılarına göre yasa dışı ve rahatsızlık verici anarşist bir eylem olarak görülen sokak sanatının önemli bir parçası olan yazı ve resim formu aşağıdakilerden hangisidir?",
+            "options": [
+                "Hüsn-i hat",
+                "Grafiti",
+                "Harfleme",
+                "Kaligrafi",
+                "Tipografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 89,
+            "question": "Aşağıdaki yazı karakterlerinden hangisi \"Sans Serif\" yazı karakteri türü içinde yer <u>almaz</u>?",
+            "options": [
+                "Times New Roman",
+                "Akzidenz Grotesk",
+                "Helvetica",
+                "Avant Garde Gothic",
+                "Gill Sans"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 90,
+            "question": "Alfabenin küçük harflerini tanımlamak için kullanılan tipografi terimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Uppercase",
+                "Majüskül",
+                "Miniskül",
+                "Ligature",
+                "Capital"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 91,
+            "question": "1919 yılında Weimar'da Walter Gropius tarafından temelleri atılan, seri üretimle estetiğin, biçim ile işlevin bir arada olması gerektiğini savunan ekol aşağıdakilerden hangisidir?",
+            "options": [
+                "Arts and Crafts",
+                "Art Deco",
+                "Art Nouveau",
+                "Jugendstil",
+                "Bauhaus"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 92,
+            "question": "Alfabenin özgün bir tasarımını tanımlamak için kullanılan terime ne ad verilir?",
+            "options": [
+                "Yazı Fontu",
+                "Yazı karakteri",
+                "Yazı ailesi",
+                "Karakter",
+                "Glif"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 93,
+            "question": "1902 yılında tasarladığı \"Die Zeit\" telgraf bürosu ile tabela tasarımında yeni bir anlayış ortaya koyan, Viyana Sesesyonu döneminin mimarı aşağıdakilerden hangisidir?",
+            "options": [
+                "Jules Chéret",
+                "Henri de Toulouse Lautrec",
+                "Otto Wagner",
+                "Peter Behrens",
+                "Hector Guimard"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 94,
+            "question": "Bir müzenin, bir aktarma sisteminin, bir havaalanının, bir ofis binasının ya da bütün bir şehrin görüntüsüne önemli bir boyut ekleyebilen, nerede olduğumuzu, nereye gitmek istediğimizi ve oraya nasıl ulaşacağımızı bize gösteren markalama, işaret, harita ve yönle ilgili araçların birleşimidir.<br>Yukarıdaki paragrafta anlatılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Tabela sistemi",
+                "Yol göstericiler",
+                "Yön işaretleri",
+                "Yer imleri",
+                "Yönlendirme sistemi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 95,
+            "question": "-------: Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metindir.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kaligrafi",
+                "Text",
+                "Tipografi",
+                "Harfleme",
+                "Grafiti"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 96,
+            "question": "Kaligrafi, harfleme ve tipografi alanlarında katkılar sağlayan Arts and Crafts hareketinin öncülüğünü yapmış kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Eduard Hoffmann",
+                "Hermann Zapf",
+                "Stanlay Morrison",
+                "Eric Gill",
+                "William Morris"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 97,
+            "question": "2000 yılında yayımlanan, Manhattan sokaklarındaki kent tipografik mirasını kaynak olarak kullanan, 2018 Amerika başkanlık seçim kampanyalarında kullanılmasıyla büyük ün kazanan Gotham yazı karakterinin tasarımcısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Barry Deck",
+                "Edward Fella",
+                "Tobias Frere-Jones",
+                "Kelly Barnbrook",
+                "Ivan Chermayeff"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 98,
+            "question": "Vernakülerin görsel iletişim tasarımındaki yerinin sağlamlaşmasında rol sahibi olan önemli tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Tibor Kalman",
+                "Edward Jonston",
+                "Stefan Segmaister",
+                "Paula Scher",
+                "Michael Bierut"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 99,
+            "question": "Güzel yazı yazma sanatı olarak özetlenebilecek sanat alanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Grafiti",
+                "Ekslibris",
+                "Harfleme",
+                "Kaligrafi",
+                "Tipografi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        },
+        {
+            "id": 100,
+            "question": "Vernaküler kavramı ilk olarak aşağıdaki hangi alanda kullanılmıştır?",
+            "options": [
+                "Sinema",
+                "Grafik",
+                "Endüstri tasarımı",
+                "Reklam",
+                "Mimari"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "548563"
+        }
+    ]
+}

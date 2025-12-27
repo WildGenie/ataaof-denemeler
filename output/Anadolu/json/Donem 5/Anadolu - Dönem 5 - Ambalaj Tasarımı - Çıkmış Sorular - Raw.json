@@ -1,0 +1,1804 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "1800'lü yılların ortalarında endüstriyel plastik malzemelerin gelişimi gerçekleşmiş olsa da, 1908 yılında geliştirilen tamamen su geçirmez özelliği ile 1920'li yıllarda gıda ambalajı olarak muazzam bir başarı elde etmiştir. Transparan olma özelliği ile ambalajın içini görünür kılan bu malzeme, tüketicilerin ambalaj içerisinde ürünü doğrudan görebilmesini olanaklı kılmıştır.",
+            "options": [
+                "silikon",
+                "selofan",
+                "cam",
+                "lateks",
+                "pleksiglas"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir?",
+            "options": [
+                "İri yapraklardan yapılmış keseler",
+                "Toprak kullanılarak üretilmiş çömlekler",
+                "Hayvan derisinden yapılmış heybeler",
+                "At kuyruğundan örülmüş çantalar",
+                "Koyun tüylerinden üretilen yün heyber"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 3,
+            "question": "Aşağıdakilerden hangisi ambalaj malzemesi camın sunduğu avantajlardan biridir?",
+            "options": [
+                "Kimyasal maddelere karşı dayanıklı olması nedeniyle kimyasal ürünlerin güvenli bir şekilde saklanmasını sağlaması",
+                "Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla ekonomik bir seçenek olması",
+                "Ürünlerin nakliye ve depolama süreçlerinde güvenli ve dayanıklı olmasına imkan vermesi",
+                "Taşıma maliyetlerini azaltması ve lojistik süreçlerini kolaylaştırması",
+                "Doğada oldukça kolay ve hızlı çözünebilmesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 4,
+            "question": "sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir süreçtir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi tamamlar?",
+            "options": [
+                "Sürdürülebilirlik",
+                "Ambalajlama",
+                "Tasarım",
+                "Görsel iletişim",
+                "Ticari faaliyet"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıdakilerden hangisi ambalaj atıklarını ve çevreye verilen zararı azaltmak için kullanılan ambalaj türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Biyoplastik ambalaj",
+                "Yok olan ambalaj",
+                "Yenebilir ambalaj",
+                "Plastik ambalaj",
+                "Geri dönüşümlü ambalaj"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 6,
+            "question": "Tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmeyi, onların yaratıcılıklarını ortaya çıkarmayı, tasarım öge ve ilkelerini kavratmayı, algı ve anlamlandırma süreçleri ile görsel bir dil öğretmeyi amaçlayan öğreti aşağıdakilerden hangisidir?",
+            "options": [
+                "Gestalt kuramı",
+                "Tasarım sosyolojisi",
+                "Tipografi tasarımı",
+                "Yaratıcı reklamcılık",
+                "Temel tasarım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 7,
+            "question": "Ambalajın yapısal tasarımı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bir ürünün ambalaj yapısında hangi katmanın birincil, ikincil ya da üçüncül ambalaj olduğu, bu katmanların önem sırasına göre belirlenir.",
+                "Her üründe mutlaka hem birincil, hem ikincil hem de üçüncül ambalaj bulunma gerekliliği yoktur.",
+                "Ürünün içeriği, yapısı ve formu gereğince ambalajın yapısal tasarımı içten dışa yapılabilir.",
+                "Yapısal tasarım, ambalajın kullanılabilirlik, dayanıklılık ve estetik gibi faktörleri göz önünde bulundurarak, ürünün korunmasını, taşınmasını, depolanmasını ve tüketiciye sunulmasını en iyi şekilde sağlamayı amaçlar.",
+                "Ambalajın yapısal tasarımında göz önüne alınması gereken unsurlardan birisi de yasal zorunluluklardır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 8,
+            "question": "Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin kelimeyi temsil ettiği yazı sistemine ne ad verilir?",
+            "options": [
+                "Logografik yazı",
+                "Piktografik yazı",
+                "İdeografik yazı",
+                "Asemik yazı",
+                "Tipografik yazı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 9,
+            "question": "İnsanın fiziksel ve psikolojik özelliklerini inceleyerek insanın makine ve çevre ile olan uyumunu inceleyen bilim alanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Antropometri",
+                "Fizyoloji",
+                "Ergonomi",
+                "Anatomi",
+                "Ortopedi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 10,
+            "question": "Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?",
+            "options": [
+                "Plastik",
+                "Kağıt",
+                "Cam",
+                "Krom",
+                "Ahşap"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 11,
+            "question": "LDPE, HDPE, PP gibi çeşitleri bulunan ambalaj malzemesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Silikon",
+                "Epoksi",
+                "Cam",
+                "Plastik",
+                "Mukavva"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 12,
+            "question": "Form üzerindeki detaylar eksik olsa da izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve hafızasını kullanarak söz konusu formu bütün gibi algılanmasını açıklayan Gestalt ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Yakınlık ilkesi",
+                "Devamlılık (ortak hareket) ilkesi",
+                "Tamamlama (kapatma) ilkesi",
+                "Benzerlik ilkesi",
+                "Simetri ilkesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 13,
+            "question": "Tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına kullanılan düzenlemeye ne ad verilir?",
+            "options": [
+                "Sinopsis",
+                "Storyboard",
+                "Skeç",
+                "Billboard",
+                "Moodboard"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi yazı karakterlerinin tasarımı, düzenlenmesi ve kullanımıyla ilgilenen sanat ve bilim dalıdır?",
+            "options": [
+                "Tipoloji",
+                "Taksonomi",
+                "Kaligrafi",
+                "Tipografi",
+                "Semiyoloji"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 15,
+            "question": "Ambalaj tasarımında tasarım fikri oluşturulurken pazar araştırmaları, tüketici anketleri, odak grupları, rekabet analizi ve sosyal medya analizi gibi adımları barındıran süreç aşağıdakilerden hangisidir?",
+            "options": [
+                "İnovasyon",
+                "Marka analizi",
+                "Yaratıcı fikir üretimi",
+                "Baskı öncesi hazırlık",
+                "Lojistik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 16,
+            "question": "Ambalaj tasarım sürecinde ambalajın yapısal tasarımını oluşturarak şekil, boyut ve düzeni belirleme sorumluluğu aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Endüstriyel tasarımcı",
+                "Üretici",
+                "Tüketici",
+                "Yönetici",
+                "Kullanıcı arayüzü tasarımcısı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 17,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımında malzeme seçimini etkileyen faktörlerden biri <u>değildir</u>?",
+            "options": [
+                "Ürünü koruma",
+                "Tüketici deneyimi",
+                "Orijinallik",
+                "Marka imajı",
+                "Maliyet"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 18,
+            "question": "Tasarımda yaratıcı nesif sürecine ortay çıkan eskizlerin ve tasarımların bir elemanı ile yaratıcı yönetmenle paylaşıldığı, hangi tasarım unsurlarına gidilmesi gerektiğinin kararlaştırıldığı, tasarım ekibinin fikri ve eksikliklerle ilgili görüşlerini paylaştığı aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Sunum hazırlığı",
+                "Bilgi toplama",
+                "İlk eskizler",
+                "AR-GE",
+                "Grup eleştirisi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 19,
+            "question": "Bir inçlik alandaki nokta sayısını gösteren ve baskı çözünürlüğünü ifade eden değer aşağıdakilerden hangisidir?",
+            "options": [
+                "DPI",
+                "CCP",
+                "MP",
+                "EPS",
+                "MB"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 20,
+            "question": "Ambalajların gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bütünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getiren ambalaj türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Dördüncü seviye ambalaj",
+                "Beşinci seviye ambalaj",
+                "Birinci seviye ambalaj",
+                "Üçüncü seviye ambalaj",
+                "İkinci seviye ambalaj"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634807"
+        },
+        {
+            "id": 21,
+            "question": "kavramı tüketicilerin ürünün kaynağına ulaşabilmesine, üreticilerin sahiplik haklarını korumasına ve tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Yukarıdaki cümlede boş bırakılan yeri <u>doğru şekilde</u> aşağıdakilerden hangisi tamamlar?",
+            "options": [
+                "Litografi",
+                "Editoryal",
+                "Marka",
+                "Kamu",
+                "Ticaret"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 22,
+            "question": "yazı, fikirleri sembollerle anlatır ve bu semboller farklı kişiler tarafından farklı yorumlanabilir. Bu yazı sistemleri, fikirlerin daha soyut bir şekilde ifade edilmesini sağlar, bu da yorum farklılıklarına neden olabilir. Yukarıdaki paragrafta boş bırakılan yeri <u>doğru şekilde</u> aşağıdakilerden hangisi tamamlar?",
+            "options": [
+                "Tipografik",
+                "Monografik",
+                "Hiyeroglif",
+                "İdeografik",
+                "Fonografik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi erken dönem esnek <u>kullanılan materyallere</u> bir örnektir?",
+            "options": [
+                "Plastik",
+                "Lastik",
+                "Silikon",
+                "Folyon",
+                "Kağıt"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde <u>kullanılan rijit ambalajlara</u> bir örnektir?",
+            "options": [
+                "İri yapraklardan yapılmış keseler",
+                "Hayvan derisinden yapılmış heybeler",
+                "Toprak kullanılarak üretilmiş çömlekler",
+                "At kuyruğundan örülmüş çantalar",
+                "Koyun tüylerinden üretilen yün heybeler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 25,
+            "question": "Form üzerindeki detaylar eksik olsa da izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve hafızasını kullanarak söz konusu formu bütün gibi algılanmasını açıklayan Gestalt ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Yakınlık ilkesi",
+                "Benzerlik ilkesi",
+                "Simetri ilkesi",
+                "Tamamlama (kapatma) ilkesi",
+                "Devamlılık (ortak hareket) ilkesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 26,
+            "question": "Ambalaj için içerik çeşitli hallerde (sıvı, katı, gaz, kompozit)olabilir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi kompozit içeriğe bir örnektir?",
+            "options": [
+                "Sprey deodorant",
+                "Deterjan",
+                "Kuruyemiş",
+                "Un",
+                "Yumurta"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 27,
+            "question": "Ottmar Mergenthaler tarafından 1884 yılında icat edilen, baskı teknolojisinde büyük bir ilerleme sağlayan ve dizgi açısından çığır açıcı yenilikler getiren makine aşağıdakilerden hangisidir?",
+            "options": [
+                "Serigrafi",
+                "Transfer",
+                "Linotip",
+                "Daktilo",
+                "Ofset"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 28,
+            "question": "Ambalaj tasarımında tasarımı oluşturan ögelerin görsel ağırlıklarının eşit şekilde dağıtılmasını öneren tasarım ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Denge",
+                "Ritim",
+                "Vurgu",
+                "Hiyerarşi",
+                "Kontrast"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 29,
+            "question": "Ambalaj Tasarımının geniş kapsamı içerisinde ve buna bağlı olarak şekillenen farklı amaçlara yönelik bütüncül bir çözüm önerebilmesi için birçok disiplinin ortak çalışması gerekmektedir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu disiplinlerden biri <u>değildir</u>?",
+            "options": [
+                "Lojistik",
+                "Mimarlık",
+                "Endüstriyel tasarım",
+                "Pazarlama",
+                "Mühendislik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 30,
+            "question": "Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan ilki \"temel amaçlar\" olarak düşünebileceğimiz: güvenlik, koruma, fiziksel dayanıklılık, bilgilendirme ve etiketleme, taşınabilirlik, kullanım kolaylığı, görünüm ve sürdürülebilirliktir. Diğer işlev ise \"----- \" olarak yorumlayabileceğimiz: dikkat ve ilgi çekme, motivasyon oluşturma, arzu ve istek uyandırmadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Yaratıcı amaçlar",
+                "Yan amaçlar",
+                "İnovasyon",
+                "Niyet ve hedefler",
+                "Araştırma geliştirme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 31,
+            "question": "Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?",
+            "options": [
+                "Plastik",
+                "Ahşap",
+                "Krom",
+                "Cam",
+                "Kağıt"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 32,
+            "question": "Tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına kullanılan düzenlemeye ne ad verilir?",
+            "options": [
+                "Moodboard",
+                "Storyboard",
+                "Sinopsis",
+                "Billboard",
+                "Skeç"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 33,
+            "question": "Dayanıklı ve sert bir plastik malzemedir. Gıda saklama kapları, şişeler, oyuncaklar ve otomotiv ambalajları gibi birçok alanda kullanılır. Yukarıda tanımlanan plastik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "PP",
+                "HDPE",
+                "PET",
+                "LDPE",
+                "PVC"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 34,
+            "question": "Tasarım sürecinde toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin sayısı gibi unsurlar aşağıdaki araştırma türlerinden hangisine örnektir?",
+            "options": [
+                "Nitel araştırma",
+                "Nicel araştırma",
+                "Öznel araştırma",
+                "Kesitsel araştırma",
+                "Betimleyici araştırma"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 35,
+            "question": "Marka yönetimi sürecinin temel adımlarından biri olan ve marka sahiplerine markalarını daha etkili bir şekilde yönetme ve geliştirme imkânı sağlayan sürece ne ad verilir?",
+            "options": [
+                "Pazar araştırması",
+                "Kurum kimliği",
+                "Marka analizi",
+                "Tüketici anketi",
+                "Araştırma geliştirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 36,
+            "question": "Ambalaj tasarım sürecinde ambalajın yapısal tasarımını oluşturarak şekil, boyut ve düzeni belirleme sorumluluğu aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Üretici",
+                "Tüketici",
+                "Yönetici",
+                "Kullanıcı arayüzü tasarımcısı",
+                "Endüstriyel tasarımcı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 37,
+            "question": "Bir inçlik alandaki nokta sayısını gösteren ve baskı çözünürlüğünü ifade eden değer aşağıdakilerden hangisidir?",
+            "options": [
+                "MP",
+                "EPS",
+                "MB",
+                "DPI",
+                "CCP"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 38,
+            "question": "Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu <u>board</u>) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır?",
+            "options": [
+                "AR-GE (Araştırma - geliştirme)",
+                "Yaratıcı düşünme",
+                "Pazar araştırması",
+                "Prototip oluşturma",
+                "Marka analizi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 39,
+            "question": "Fonksiyonel açıdan ele alındığında ambalaj malzemelerinin seçiminde, malzemenin ve maliyeti gibi özellikler ön plana çıkar. Yukarıdaki cümlede boş bırakılan yeri <u>doğru şekilde</u> aşağıdakilerden hangisi tamamlar?",
+            "options": [
+                "Estetiği",
+                "Dikkat çekiciliği",
+                "Yalınlığı",
+                "Orijinalliği",
+                "Koruyuculuğu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 40,
+            "question": "Endüstri ürünleri tasarımcılarının tüketicilerin bir fonksiyonu gerçekleştirmeyi düşünmeden yapabilmesine imkan tanıyan özellikleri tasarıma dahil etmesi yaklaşımına ne ad verilir?",
+            "options": [
+                "Sezgisel tasarım",
+                "Ergonomik tasarım",
+                "Etkileşimli tasarım",
+                "Duyusal tasarım",
+                "İnovatif tasarım"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634827"
+        },
+        {
+            "id": 41,
+            "question": "kavramı tüketicilerin ürünün kaynağına ulaşabilmesine, üreticilerin sahiplik haklarını korumasına ve tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kamu",
+                "Editoryal",
+                "Ticaret",
+                "Marka",
+                "Litografi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 42,
+            "question": "Ambalaj tasarımında tasarımı oluşturan ögelerin görsel ağırlıklarının eşit şekilde dağıtılmasını öneren tasarım ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Denge",
+                "Ritim",
+                "Vurgu",
+                "Kontrast",
+                "Hiyerarşi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 43,
+            "question": "Tasarım sürecinde toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin unsurları aşağıdaki araştırma türlerinden hangisine örnektir?",
+            "options": [
+                "Kesitsel araştırma",
+                "Öznel araştırma",
+                "Betimleyici araştırma",
+                "Nicel araştırma",
+                "Nitel araştırma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 44,
+            "question": "Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır?",
+            "options": [
+                "Marka analizi",
+                "Pazar araştırması",
+                "AR-GE (Araştırma - geliştirme)",
+                "Prototip oluşturma",
+                "Yaratıcı düşünme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 45,
+            "question": "Aşağıdaki ambalaj malzemelerinden hangisi hafif, ekonomik, geri dönüştürülebilir, baskıya uygun ancak nem ve ısıya dayanıksızdır?",
+            "options": [
+                "Plastik",
+                "Metal",
+                "Kumaş",
+                "Kâğıt",
+                "Cam"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 46,
+            "question": "ambalaj malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Metal",
+                "Kâğıt",
+                "Plastik",
+                "Cam",
+                "Ahşap"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 47,
+            "question": "ilkelerinin benimsenmesi, karbon ayak izini en aza indirirken ürünün yaşam döngüsünü en üst düzeye çıkarabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Aktif tasarım",
+                "Temel tasarım",
+                "Yaşam boyu tasarım",
+                "Akıllı tasarım",
+                "Bütüncül tasarım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 48,
+            "question": "Ürünleri tüketiciye sunma süreci kapsamında, taşıma, depolama, nakliye ve dağıtım aşamalarında ürünlerin zarar görmesine neden olabilecek muhtemel darbelere ve titreşimlere karşı korumak amacıyla kullanılan malzemeye ne ad verilir?",
+            "options": [
+                "Jelatin",
+                "Kapak",
+                "Yastık",
+                "Folyo",
+                "Kompozit"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 49,
+            "question": "Ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme yöntemlerinin tümünün uygulanabildiği ambalaj malzemesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Ahşap",
+                "Plastik",
+                "Cam",
+                "Metal",
+                "Kâğıt"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımında izlenen yol haritasındaki adımlardan biri <u>değildir</u>?",
+            "options": [
+                "Deneysel tasarım",
+                "Tasarım",
+                "Bilgilendirme",
+                "Baskıya hazırlık",
+                "Proje planlama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 51,
+            "question": "Aşağıdakilerden hangisi aktif ambalaj sistemlerinde kullanılan bileşenlerden biri <u>değildir</u>?",
+            "options": [
+                "Oksijen tutucular",
+                "Aroma ve koku alıcılar/salıcılar",
+                "Etilen tutucular",
+                "Antioksidanlar",
+                "Solventler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 52,
+            "question": "Belirli bir ürün veya marka ile özdeşleşen tipografik bir çözüm yaratmayı, tüketiciyle yazı tipi aracılığıyla zihinsel ve duygusal bir bağ kurmayı hedefleyen tasarım yaklaşımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Tipografik hiyerarşi",
+                "Tipografik sınırlandırma",
+                "Sürdürülebilir tipografi",
+                "Sahiplenilebilir tipografi",
+                "Kontrast tipografi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 53,
+            "question": "Ana markaya bir atıfta bulunmadan çeşitlilik için geliştirilen, her bir markaya farklılaşma ve uzmanlaşma için fırsat sunarken ana yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap veren marka türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Monolitik marka",
+                "Bağımsız marka",
+                "Özgün marka",
+                "Onaylayıcı marka",
+                "Temsili marka"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 54,
+            "question": "İşletmelerin potansiyeli yüksek markalarını 'kiralamasına' olanak sağlayarak, bir tarafın başka bir tarafa sözleşmede belirtilen süre boyunca üretim haklarını yasal bir biçimde devretmesine ne ad verilir?",
+            "options": [
+                "Lisanslama",
+                "Kurumsallaşma",
+                "Pazarlama",
+                "Markalaşma",
+                "Küreselleşme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 55,
+            "question": "Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür?",
+            "options": [
+                "Birincil ambalaj",
+                "İkincil ambalaj",
+                "Duyusal ambalaj",
+                "Tüketici ambalajı",
+                "Fonksiyonel ambalaj"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 56,
+            "question": "bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur. Örneğin bir kutu içeceği ele alırsak: kutu sıvıyı muhafaza etmek için bir araçtır, ise ürünle ilgili bir dizi değeri temsil eder. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "Marka / reklam",
+                "Reklam / logo",
+                "Ambalaj / marka",
+                "Pazarlama / ambalaj",
+                "Reklam / ambalaj"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 57,
+            "question": "Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "Atık Bildirme Yönergesi",
+                "Ambalaj ve Ambalaj Atıkları Yönergesi",
+                "Ambalaj Atıklarının Kontrolü Yönetmeliği",
+                "Atık Çerçeve Yönergesi",
+                "Tek Kullanımlık Plastikler ile İlgili Yönerge"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 58,
+            "question": "Aşağıdakilerden hangisi ambalajların atık haline gelmesini engellemenin ve yeni ambalaj üretimini azaltmanın yollarından olan ambalajların yeniden kullanımına dair temel senaryolardan biri <u>değildir</u>?",
+            "options": [
+                "Başka amaçla yeniden kullanım",
+                "Tekrar doldurma",
+                "Geri dönüşüm",
+                "Üreticiye/dağıtıcıya iade",
+                "Başka kullanıcılarla paylaşım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 59,
+            "question": "Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri <u>değildir</u>?",
+            "options": [
+                "İkna etme",
+                "Gönüllülük",
+                "Vergilendirme",
+                "Ücretlendirme",
+                "Yasaklama"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 60,
+            "question": "Ambalajların çoğunun da bu gruba dahil kabul edildiği, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan ürünlere ne ad verilir?",
+            "options": [
+                "Kayıp ürün",
+                "Pasif ürün",
+                "Aktif ürün",
+                "Ara ürün",
+                "Yan ürün"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634816"
+        },
+        {
+            "id": 61,
+            "question": "Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir?",
+            "options": [
+                "Piktografik yazı",
+                "Logografik yazı",
+                "Tipografik yazı",
+                "İdeografik yazı",
+                "Asemik yazı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 62,
+            "question": "...... sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir senaryo dahilinde ürün, sistem, hizmet ve stratejilerin kurgulanması ve hayata geçirilmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri <u>hangisi</u> doğru şekilde tamamlar?",
+            "options": [
+                "Ambalajlama",
+                "Ticari faaliyet",
+                "Sürdürülebilirlik",
+                "Tasarım",
+                "Görsel iletişim"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 63,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımında malzeme <u><u>değildir</u></u>?",
+            "options": [
+                "Marka imajı",
+                "Ürünü koruma",
+                "Tüketici deneyimi",
+                "Maliyet",
+                "Orijinallik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 64,
+            "question": "Yapı tasarımı tamamlanmış ambalaj ya da ambalaj bileşenlerinin, pilyaj, perforaj, kesim, yapıştırma, kazıma vb. yerlerin gerçek ölçülerde gösterildiği iki boyutlu çizimine ne ad verilir?",
+            "options": [
+                "Tasarım planı",
+                "Açılım planı",
+                "Ölçü planı",
+                "Taslak planı",
+                "Şablon planı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 65,
+            "question": "LDPE, HDPE, PP gibi çeşitleri bulunan ambalaj malzemesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Mukavva",
+                "Silikon",
+                "Cam",
+                "Plastik",
+                "Epoksi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 66,
+            "question": "Birinci baskı ile bir milyonuncu baskının kalitesinin aynı olmasına imkan sağlayan ve baskı kalıplarının diğer baskı kalıplarına göre daha dayanıklı olması ile öne çıkan baskı tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Tifdruk",
+                "Dijital Baskı",
+                "Ofset / Tipografi",
+                "Serigrafi",
+                "Tampon baskı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 67,
+            "question": "Plastik, kâğıt ve metal dahil olmak üzere çok çeşitli malzemelerden yapılabilen; çanta, kese ve diğer ambalaj türlerini oluşturmak için kullanılan ince malzeme katmanlarına ne ad verilir?",
+            "options": [
+                "Yastık",
+                "Seperatör",
+                "Film",
+                "Folyo",
+                "Kapak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 68,
+            "question": "Birden fazla malzemenin bir arada kullanılmasıyla oluşan ambalajlara ne ad verilir?",
+            "options": [
+                "Kompozit ambalaj",
+                "Flexible ambalaj",
+                "Kombine ambalaj",
+                "Alaşım ambalaj",
+                "Primer ambalaj"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 69,
+            "question": "...... terimi, geleneksel muhafaza ve korumanın ötesinde ek işlevler sağlayabilen teknolojileri içeren ambalajları ifade etmektedir. Yukarıdaki cümlede boş bırakılan yeri <u>hangisi</u> doğru şekilde tamamlar?",
+            "options": [
+                "Etkileşimli ambalaj",
+                "Akıllı ambalaj",
+                "Aktif ambalaj",
+                "Yeni nesil ambalaj",
+                "Entegre ambalaj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 70,
+            "question": "Aşağıdakilerden hangisi etkileşimli ambalaj tasarımının işlevlerinden biri <u>değildir</u>?",
+            "options": [
+                "Sürdürülebilir kullanımını sağlamak",
+                "Ürünün kullanım amaçlarını çeşitlendirmek",
+                "Marka kişiliğini vurgulamak",
+                "Ambalajının ek değerini artırmak",
+                "Sahteciliği Önlemek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 71,
+            "question": "Aşağıdakilerden hangisi <u>içerikle ilgili</u> problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür?",
+            "options": [
+                "İkincil ambalaj",
+                "Duyusal ambalaj",
+                "Tüketici ambalajı",
+                "Birincil ambalaj",
+                "Fonksiyonel ambalaj"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 72,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımında \"NFC etiketleri\"nin genellikle hizmet ettiği amaçtır?",
+            "options": [
+                "Ambalajların dayanıklılığını artırmak",
+                "Ürünlerin sıcaklık kontrolünü sağlamak",
+                "Tüketicilerin ek ürün bilgilerini, promosyonlara ve etkileşimli pazarlama kampanyalarına erişimini sağlamak",
+                "Ürünlerin raf ömrünü uzatmak",
+                "Ambalajların su geçirmezlik özelliğini artırmak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 73,
+            "question": "...... bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur. Örneğin bir kutu içeceği ele alırsak: kutu sıvıyı muhafaza etmek için bir araçtır, ...... ise ürünle ilgili bir dizi değeri temsil eder. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "Pazarlama / ambalaj",
+                "Reklam / ambalaj",
+                "Ambalaj / marka",
+                "Marka / reklam",
+                "Reklam / logo"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 74,
+            "question": "Geçmişten günümüze birçok ulusal marka, toplumun bir parçası haline gelmiştir. İnsanların birlikte büyüdükleri ve yetişkinlik dönemleri boyunca nostaljik bir bağlılık duymaya devam ettikleri pek çok ürün örneği vardır. Bu durumun örnekleri özellikle gıda ürünleri için oldukça fazladır. Yukarıdaki paragrafta anlatılan marka türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Popüler markalar",
+                "Nostaljik markalar",
+                "Duygusal markalar",
+                "Sadakat markaları",
+                "Kültür markaları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 75,
+            "question": "İnsani eylemleri ve kararları yönlendiren, temel insan arzularının ve korkularının sembolik temsillerine ne ad verilir?",
+            "options": [
+                "Ethos",
+                "Logos",
+                "Pathos",
+                "Arketip",
+                "Retorik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi mekanik birleştirme yöntemlerine bir örnektir?",
+            "options": [
+                "Geometrik geçme",
+                "Ultrasonik kaynak",
+                "Titreşimli kaynak",
+                "Yapıştırıcı ile birleştirme",
+                "Çözücü ile birleştirme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 77,
+            "question": "Üretim, tüketim ve hizmet süreçlerinde atık oluşumunun önlenmesi/azaltılması, yeniden kullanıma öncelik verilmesi, oluşan atıkların ise kaynağında ayrı biriktirilerek toplanması, geri dönüşüm veya geri kazanımının sağlanarak bertarafa gönderilecek atık miktarının azaltılmasını hedefleyen yaklaşıma ne ad verilir?",
+            "options": [
+                "Sürdürülebilirlik",
+                "Ekolojik tasarım",
+                "Sorumlu ve bilinçli tüketim",
+                "Uzatılmış üretici sorumluluğu",
+                "Sıfır atık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 78,
+            "question": "Aşağıdakilerden hangisi Hunter'a göre, beş ana müşteri tipinden biri <u>değildir</u>?",
+            "options": [
+                "İhtiyaç temelli",
+                "İndirim kovalayan",
+                "Amaçsızca dolaşan",
+                "Yeni müşteri",
+                "Sadık müşteri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri <u>değildir</u>?",
+            "options": [
+                "Gönüllülük",
+                "Ücretlendirme",
+                "İkna etme",
+                "Yasaklama",
+                "Vergilendirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 80,
+            "question": "Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "Atık Çerçeve Yönergesi",
+                "Ambalaj ve Ambalaj Atıkları Yönergesi",
+                "Ambalaj Atıklarının Kontrolü Yönetmeliği",
+                "Tek Kullanımlık Plastikler ile İlgili Yönerge",
+                "Atık Bildirme Yönergesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634852"
+        },
+        {
+            "id": 81,
+            "question": "Aşağıdakilerden hangisi ambalaj atıklarını ve çevreye verilen zararı azaltmak için kullanılan ambalaj türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Plastik ambalaj",
+                "Yok olan ambalaj",
+                "Biyoplastik ambalaj",
+                "Geri dönüşümlü ambalaj",
+                "Yenebilir ambalaj"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdakilerden hangisi ambalaj malzemesi olarak kullanılan camın sunduğu avantajlardan biridir?",
+            "options": [
+                "Ürünlerin nakliye ve depolama süreçlerinde güvenli ve dayanıklı olmasına imkan vermesi",
+                "Kimyasal maddelere karşı dayanıklı olması nedeniyle kimyasal ürünlerin güvenli bir şekilde saklanmasını sağlaması",
+                "Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla ekonomik bir seçenek olması",
+                "Doğada oldukça kolay ve hızlı çözünebilmesi",
+                "Taşıma maliyetlerini azaltması ve lojistik süreçlerini kolaylaştırması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 83,
+            "question": "İnsanın fiziksel ve psikolojik özelliklerini inceleyerek insanın makine ve çevre ile olan uyumunu inceleyen bilim alanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Ergonomi",
+                "Anatomi",
+                "Fizyoloji",
+                "Ortopedi",
+                "Antropometri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 84,
+            "question": "LDPE, HDPE, PP gibi çeşitleri bulunan ambalaj malzemesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Silikon",
+                "Epoksi",
+                "Cam",
+                "Plastik",
+                "Mukavva"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 85,
+            "question": "Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?",
+            "options": [
+                "Kağıt",
+                "Ahşap",
+                "Plastik",
+                "Cam",
+                "Krom"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 86,
+            "question": "------ sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir senaryo dahilinde ürün, sistem, hizmet ve stratejilerin kurgulanması ve hayata geçirilmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Tasarım",
+                "Ambalajlama",
+                "Ticari faaliyet",
+                "Sürdürülebilirlik",
+                "Görsel iletişim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 87,
+            "question": "Yapı tasarımı tamamlanmış ambalaj ya da ambalaj bileşenlerinin, pilyaj, perforaj, kesim, yapıştırma, kazıma vb. yerlerin gerçek ölçülerde gösterildiği iki boyutlu çizimine ne ad verilir?",
+            "options": [
+                "Şablon planı",
+                "Ölçü planı",
+                "Açılım planı",
+                "Taslak planı",
+                "Tasarım planı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 88,
+            "question": "Aşağıdakilerden hangisi yazı karakterlerinin tasarımı, düzenlenmesi ve kullanımıyla ilgilenen sanat ve bilim dalıdır?",
+            "options": [
+                "Tipoloji",
+                "Taksonomi",
+                "Kaligrafi",
+                "Tipografi",
+                "Semiyoloji"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 89,
+            "question": "Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemler, sürecin aşağıdaki kısımlarından hangisi içinde yer alır?",
+            "options": [
+                "Marka analizi",
+                "AR-GE (Araştırma - geliştirme)",
+                "Prototip oluşturma",
+                "Pazar araştırması",
+                "Yaratıcı düşünme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 90,
+            "question": "İlaç sektöründeki akıllı ambalajlar, ürün bütünlüğünü ve yasal gerekliliklere uygunluğu sağlamak üzere korumalı mühürler ve sıcaklık izleme gibi özellikler içermektedir. Yukarıdaki anlatılana göre bu sistem akıllı ambalajın hangi özelliğinin bir örneğidir?",
+            "options": [
+                "Müşteri etkileşimi",
+                "Tedarik zinciri optimizasyonu",
+                "Farmasötik uyumluluk",
+                "Veriye dayalı içgörüler",
+                "Sahteciliğe karşı önlemler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür?",
+            "options": [
+                "Duyusal ambalaj",
+                "Fonksiyonel ambalaj",
+                "Birincil ambalaj",
+                "İkincil ambalaj",
+                "Tüketici ambalajı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 92,
+            "question": "------ malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Ahşap",
+                "Cam",
+                "Kâğıt",
+                "Metal",
+                "Plastik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 93,
+            "question": "Kağıt ambalajların iç ve dış yüzeyine kaplama, laminasyon ve lak gibi işlemlerin uygulanmasının temel amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Satış aşamasında diğer ürünler arasından öne çıkarak tüketicinin ilgisini çekmek",
+                "Nakliye giderlerinden tasarruf etmek",
+                "Aynı malzemeyi kullanarak davranış özellikleri farklı ambalajlar üretmek",
+                "Geri dönüşümü ve sürdürülebilirliği artırmak",
+                "Ambalajın üretim maliyetini düşürmek"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 94,
+            "question": "------, bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur. Örneğin bir kutu içeceği ele alırsak: kutu sıvıyı muhafaza etmek için bir araçtır, ------ ise ürünle ilgili bir dizi değeri temsil eder. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "Reklam / ambalaj",
+                "Reklam / logo",
+                "Pazarlama / ambalaj",
+                "Marka / reklam",
+                "Ambalaj / marka"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 95,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımı ve markalaşma süreçlerine dahil olan unsurlardan biri <u>değildir</u>?",
+            "options": [
+                "Ses tonu",
+                "Mizah",
+                "Retorik",
+                "Renk",
+                "Parapsikoloji"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 96,
+            "question": "------, iki elektronik cihaz arasında 4 cm veya daha kısa bir mesafe üzerinden iletişim kurulmasını sağlayan bir dizi iletişim protokolüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "loT",
+                "NFC",
+                "TTI",
+                "QR Kod",
+                "RFID"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 97,
+            "question": "İşletmelerin potansiyeli yüksek markalarını 'kiralamasına' olanak sağlayarak, bir tarafın başka bir tarafa sözleşmede belirtilen süre boyunca üretim haklarını yasal bir biçimde devretmesine ne ad verilir?",
+            "options": [
+                "Pazarlama",
+                "Markalaşma",
+                "Lisanslama",
+                "Küreselleşme",
+                "Kurumsallaşma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 98,
+            "question": "Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "Ambalaj Atıklarının Kontrolü Yönetmeliği",
+                "Atık Bildirme Yönergesi",
+                "Atık Çerçeve Yönergesi",
+                "Ambalaj ve Ambalaj Atıkları Yönergesi",
+                "Tek Kullanımlık Plastikler ile İlgili Yönerge"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 99,
+            "question": "Aşağıdakilerden hangisi ambalajların atık haline gelmesini engellemenin ve yeni ambalaj üretimini azaltmanın yollarından olan ambalajların yeniden kullanımına dair temel senaryolardan biri <u>değildir</u>?",
+            "options": [
+                "Tekrar doldurma",
+                "Üreticiye/dağıtıcıya iade",
+                "Başka kullanıcılarla paylaşım",
+                "Başka amaçla yeniden kullanım",
+                "Geri dönüşüm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 100,
+            "question": "Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri <u>değildir</u>?",
+            "options": [
+                "Ücretlendirme",
+                "Vergilendirme",
+                "Yasaklama",
+                "İkna etme",
+                "Gönüllülük"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634819"
+        },
+        {
+            "id": 101,
+            "question": "Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir?",
+            "options": [
+                "İdeografik yazı",
+                "Piktografik yazı",
+                "Asemik yazı",
+                "Logografik yazı",
+                "Tipografik yazı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 102,
+            "question": "Form üzerindeki detaylar eksik olsa da izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve hafızasını kullanarak söz konusu formu bütün gibi algılanmasını açıklayan Gestalt ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Yakınlık ilkesi",
+                "Benzerlik ilkesi",
+                "Simetri ilkesi",
+                "Tamamlama (kapatma) ilkesi",
+                "Devamlılık (ortak hareket) ilkesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 103,
+            "question": "Ambalaj için içerik çeşitli hallerde (sıvı, katı, gaz, kompozit) olabilir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi kompozit içeriğe bir örnektir?",
+            "options": [
+                "Yumurta",
+                "Deterjan",
+                "Sprey deodorant",
+                "Un",
+                "Kuruyemiş"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 104,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir?",
+            "options": [
+                "İri yapraklardan yapılmış keseler",
+                "Toprak kullanılarak üretilmiş çömlekler",
+                "Koyun tüylerinden üretilen yün heybeler",
+                "Hayvan derisinden yapılmış heybeler",
+                "At kuyruğundan örülmüş çantalar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 105,
+            "question": "Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?",
+            "options": [
+                "Kağıt",
+                "Plastik",
+                "Cam",
+                "Krom",
+                "Ahşap"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 106,
+            "question": "Tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına kullanılan düzenlemeye ne ad verilir?",
+            "options": [
+                "Sinopsis",
+                "Storyboard",
+                "Billboard",
+                "Moodboard",
+                "Skeç"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 107,
+            "question": "Ambalajların gruplandırılıp plastik filmlerle paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bütünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getiren ambalaj türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Birinci seviye ambalaj",
+                "İkinci seviye ambalaj",
+                "Üçüncü seviye ambalaj",
+                "Dördüncü seviye ambalaj",
+                "Beşinci seviye ambalaj"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 108,
+            "question": "Ambalaj tasarım sürecinde ambalajın yapısal tasarımını oluşturarak şekil, boyut ve düzeni belirleme sorumluluğu aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Tüketici",
+                "Endüstriyel tasarımcı",
+                "Kullanıcı arayüzü tasarımcısı",
+                "Üretici",
+                "Yönetici"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 109,
+            "question": "Ürünleri tüketiciye sunma süreci kapsamında, taşıma, depolama, nakliye ve dağıtım aşamalarında ürünlerin zarar görmesine neden olabilecek muhtemel darbelere ve titreşimlere karşı korumak amacıyla kullanılan malzemeye ne ad verilir?",
+            "options": [
+                "Yastık",
+                "Kapak",
+                "Folyo",
+                "Jelatin",
+                "Kompozit"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 110,
+            "question": "Aşağıdaki ambalaj malzemelerinden hangisi hafif, ekonomik, geri dönüştürülebilir, baskıya uygun ancak nem ve ısıya dayanıksızdır?",
+            "options": [
+                "Cam",
+                "Plastik",
+                "Kumaş",
+                "Metal",
+                "Kâğıt"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 111,
+            "question": "Aşağıdakilerden hangisi kabarcıklı ambalaj olarak da bilinen, bir ürünün ön yüzünün etrafında ısıyla şekillendirilen ve şeffaf plastikten görülmesini sağlayan ambalaj türüdür?",
+            "options": [
+                "Kompozit ambalaj",
+                "Blister ambalaj",
+                "Flexible ambalaj",
+                "Skin ambalaj",
+                "Rijit ambalaj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 112,
+            "question": "Aşağıdakilerden hangisi aktif ambalaj sistemlerinde kullanılan bileşenlerden biri <u>değildir</u>?",
+            "options": [
+                "Oksijen tutucular",
+                "Aroma ve koku alıcılar/salıcılar",
+                "Etilen tutucular",
+                "Antioksidanlar",
+                "Solventler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 113,
+            "question": "Etkileşimli ambalaj tasarımında uyumluluk, aşağıdaki kavramlardan hangisi ile doğrudan ilişkilidir?",
+            "options": [
+                "Tasarım bütünlüğü",
+                "Çevresel şartlara uygunluk",
+                "İnsan odaklı tasarım",
+                "Ergonomik tasarım",
+                "Kullanım kolaylığı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 114,
+            "question": "Ana markaya bir atıfta bulunmadan çeşitlilik için geliştirilen, her bir markaya farklılaşma ve uzmanlaşma için fırsat sunarken ana markanın olumsuz yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap veren marka türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Monolitik marka",
+                "Onaylayıcı marka",
+                "Özgün marka",
+                "Bağımsız marka",
+                "Temsili marka"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 115,
+            "question": "İlkelerinin benimsenmesi, karbon ayak izini en aza indirirken ürünün yaşam döngüsünü en üst düzeye çıkarabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Akıllı tasarım",
+                "Bütüncül tasarım",
+                "Aktif tasarım",
+                "Temel tasarım",
+                "Yaşam boyu tasarım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 116,
+            "question": "Markalaşma yaklaşımı olarak ele alındığında, \"Google\" aşağıdaki hangi marka modeline bir örnektir?",
+            "options": [
+                "Onaylayıcı marka",
+                "Sınırsız marka",
+                "Monolitik marka",
+                "Bağımsız marka",
+                "Lisanslı marka"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 117,
+            "question": "Ambalaj tasarımı müşterilerin duyularına, tercihlerine ve ihtiyaçlarına hitap ederek onlarla duygusal bir bağ kurabilecek, markanın kişiliğini, ses tonunu, <u>sade</u> ve sadakati teşvik edebilecektir. Yukarıda ifade edilen özellikler ambalaj tasarımının marka yönetimindeki rollerinden hangisini tanımlar?",
+            "options": [
+                "İnşa etme",
+                "İletişim",
+                "Marka kimliği ifadesi",
+                "Koruma",
+                "Satış"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 118,
+            "question": "Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "Atık Bildirme Yönergesi",
+                "Ambalaj Atıklarının Kontrolü Yönetmeliği",
+                "Ambalaj ve Ambalaj Atıkları Yönergesi",
+                "Atık Çerçeve Yönergesi",
+                "Tek Kullanımlık Plastikler ile İlgili Yönerge"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 119,
+            "question": "Aşağıdakilerden hangisi endüstriyel ürünlerin yaşam döngüsü basamaklarından biri <u>değildir</u>?",
+            "options": [
+                "Ana kaynak",
+                "Faydalı ömür sonu",
+                "Kullanım",
+                "Üretim",
+                "Nakliye"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        },
+        {
+            "id": 120,
+            "question": "Aşağıdakilerden hangisi ambalajların atık haline gelmesini engellemenin ve yeni ambalaj üretimini azaltmanın yollarından olan ambalajların yeniden kullanımına dair temel senaryolardan biri <u>değildir</u>?",
+            "options": [
+                "Tekrar doldurma",
+                "Üreticiye/dağıtıcıya iade",
+                "Başka kullanıcılarla paylaşım",
+                "Geri dönüşüm",
+                "Başka amaçla yeniden kullanım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634855"
+        }
+    ]
+}

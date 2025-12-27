@@ -1,0 +1,1304 @@
+[
+    {
+        "Index": 3488813,
+        "Question": "<p>Dijital görüntü nedir?</p>",
+        "Answer": "<p>Dijital görüntü, piksel olarak da bilinen resim ögelerinden oluşan, belirli özelliği ve renk yoğunluğu olan görüntünün, dijital ortama belirli boyutlarda aktarılarak oluşturulan hâline denir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488815,
+        "Question": "<p>Dijital görüntü, iki basit değişkenin bir fonksiyonu olarak nasıl tanımlanır?</p>",
+        "Answer": "<p>İki basit değişkenin bir fonksiyonu olarak tanımlanabilir. Dijital görüntü, f(x,y) olarak tanımlanan bir fonksiyonda “f” şiddet birimi (örneğin parlaklık) ve (x,y) değişkenleri ise görüntünün koordinatlarıdır. Dijital bir görüntü, elemanları uzaydaki x,y koordinatlarına karşılık gelen noktaların parlaklık değerlerini içeren bir matristir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488816,
+        "Question": "<p>Vektör nedir?</p>",
+        "Answer": "<p>Vektör, görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi <br />bilgilerinin saklandığı görüntü yapısıdır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488820,
+        "Question": "<p>Sinyal nedir?</p>",
+        "Answer": "<p>Fiziksel değişkenlerin durumu hakkında, verilerin aktarımını sağlayan ve sayısal olarak bir “f” fonksiyonu ile gösterilen kavramdır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488821,
+        "Question": "<p>Bir dijital görüntüde sinyal nasıl kodlanır ve sinyaller kaça ayrılır?</p>",
+        "Answer": "<p>Sinyal, bir dijital görüntünün içeriğindeki görüntü verisini x ve y koordinat düzlemi üzerinde parlaklık verisi ile birlikte kodlamaktadır. Sinyaller analog ve dijital olarak iki farklı şekilde ayrılmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488823,
+        "Question": "<p>Piksel nedir?</p>",
+        "Answer": "<p>Dijital görüntünün elde edilmesini ağlayan ve kontrol edilebilen en küçük birimdir. Piksel, İngilizce “pixel” yani “Picture Elements” kelimelerinden kısaltılarak üretilmiş bir kelimedir. Resim parçası anlamına gelen piksel, sayısal bir görüntüyü oluşturan ışığa duyarlı hücreler ya da kareler için kullanılır. Dijital görüntü denildiğinde piksellerden oluşan bir yapı akla gelmelidir. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488825,
+        "Question": "<p>Dijital görüntü işlemede de tasarım ile ilgili alanlarda en yoğun olarak hangi yazılımlar kullanılır? </p>",
+        "Answer": "<p>En yoğun kullanılan ve bilinen Adobe tarafından geliştirilen Illustrator yazılımıdır. Corel Draw programı da vektör temelli çalışan, yoğun şekilde PC’lerde kullanılan bir yazılımdır. </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488828,
+        "Question": "<p>Çözünürlük nedir ve  High Definition (HD), High Definition (FHD) ne demektir?<br /><br /></p>",
+        "Answer": "<p>İngilizcesi “resolution” olan, birim ölçüdeki piksel sayısına verilen isimdir. Örneğin 1920x1080px denildiğinde 1920 yatay 1080 dikey pikselden oluşan bir dijital görüntü kastedilmektedir. Bazı çözünürlüklerin yükseklik ve genişlik ölçüleri standartlaştırılmış ve özel isimler verilmiştir. 1280x720 px çözünürlük High Definition (HD) ve 1920x1080px çözünürlük Full High Definition (FHD) dönemleri itibariyle yoğun kullanılan çözünürlük standartlarıdır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488832,
+        "Question": "<p>Ton , doygunluk ve parlaklık nedir?</p>",
+        "Answer": "<p>Ton, rengin belirli bir niteliğe ve onu diğerlerinden görsel olarak ayrıştırmamızı sağlayan <br />özellikleri tanımlar. Tonlar ışığın farklı dalga boyları tarafından meydana getirilir. </p> <p>Doygunluk, bir rengin saflığını belirler ve rengin griye olan mesafesini tanımlar. </p> <p>Parlaklık, bu nitelik rengin koyuluk ve açıklık oranlarını tanımlar. Işık değerindeki değişimler rengin siyah ya da beyazla karıştırılmasıyla elde edilir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488837,
+        "Question": "<p>Toplamsal renk modeli (RGB) nedir?</p>",
+        "Answer": "<p>RGB bilgisayar ekranlarında kullanılan toplamsal bir renk alanıdır.</p> <p>Bilgisayar ekranlarında olduğu gibi arka fonda siyah zemin bulunmaktadır. Rengi ışık kaynaklarından çıkan fotonlar oluşturur. Renklerin tümünü birleştirdiğimizde beyaza ulaşırız. Bu senteze de toplamsal renk modeli denir. İngilizce Red, Green ve Blue renklerinin baş harflerinin kısaltılmasından oluşur.  RGB ile renk oluşturmak için üç ışık ışını (bir kırmızı, bir yeşil ve bir mavi) üst üste binmelidir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488844,
+        "Question": "<p>Çıkarımsal renk sentezi (CMYK) nedir?</p>",
+        "Answer": "<p>CMYK dört renkli baskı süreçlerinde kullanılan çıkarımsal bir renk alanıdır.  İngilizce Cyan, Magenta, Yellow ve Key renklerinin baş harflerinden oluşur. Cam göbeği, Macenta, Sarı ve Siyahtan oluşur. Bu dört renk baskı amacıyla kullanılır. RGB renk alanını kullanan bilgisayarlardaki dijital görüntüler baskı amacıyla CMYK renk alanına dönüştürülerek basılır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488846,
+        "Question": "<p>Dijital görüntüler için temel dosya formatları nelerdir?</p>",
+        "Answer": "<p>Dijital görüntüler için temel dosya formatları bakıldığında BMP, GIF, JPEG, TIFF, PNG, PSD, <br />PDF, EPS ve AI’dir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488848,
+        "Question": "<p>Dijital görüntünün elde edilmesine ait ilk uygulama hangi tarihte nerede ve hangi işlem için yapılmıştır?</p>",
+        "Answer": "<p>Dijital görüntünün elde edilmesine ait ilk uygulama 1920 yılında Amerika ve Avrupa kıtaları arasında deniz altından görüntü aktarımı için telgraf kablolarının kullanılması ile başlamaktadır. Gazete endüstrisinin fotoğraf verilerini hızlı bir şekilde kıtalar arasında gönderimi amacıyla, New York ve Londra şehirleri arasında deniz altından giden telgraf hatları kullanılarak ilk dijital görüntü transferi gerçekleştirilmiştir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488850,
+        "Question": "<p>Bartlane sistemi nedir?</p>",
+        "Answer": "<p>Dijital görüntünün ilk ilkel örneklerinden biri Bartlane Sistemi’dir.  Bartlane kablolu görüntü iletim sistemi ile bir görüntüyü Atlantik’den taşımak için gereken süre bir haftadan fazlayken üç saatten daha azına inmiştir. Sistem, İngiliz ve Amerikan otomatik telgraf sistemlerinde kullanılan Baudot Bandı adı verilen telgraf bandı ile görüntülerin kodlanarak iletilmesi temelinde çalışmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488851,
+        "Question": "<p>Charles Csuri kimdir?</p>",
+        "Answer": "<p>Dijital sanatın ve animasyonun öncüsü olarak adlandırılan Amerikalı sanatçı ve bilgisayar sanatı öncüsü Charles Csuri, bir profesör, güzel sanatçı ve bilgisayar bilimcisi olarak, araştırmaları ve sanatsal vizyonu, 3D bilgisayar grafikleri, bilgisayar animasyonu, oyunlar ve 3D baskı için yeni sanatsal araçlar yaratan yazılımlarda bu alanda ilklerden olmuştur.</p> <p>Sanatçının \"Sinek Kuşu\" filmi dijital animasyonun ilk örneklerindendir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488852,
+        "Question": "<p>Dijital ve geleneksel sanat ürünlerinin birlikte kullanıldığı ilk örnek nedir ve kim yapmıştır?</p>",
+        "Answer": "<p>Amerikalı sanatçı Lillian Schwartz, Leonardo da Vinci’nin çalışmalarını bilgisayarlarla yaptığı deneylerde yoğun bir şekilde kullanmıştır. Leonardo da Vinci’nin otoportresinin görüntüsünü Mona Lisa ile benzerlikleri göstermek için eşleyerek Mona/Leo eserini dijital görüntü işlemlerini kullanarak bilgisayar ortamında bir araya getirmiş olduğu çalışması Dijital ve geleneksel sanat ürünlerinin birlikte kullanıldığı ilk örnektir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488853,
+        "Question": "<p>Generatif sanat kavramı ne demektir?</p>",
+        "Answer": "<p>Bilim, teknoloji ve sanatı bir araya getirerek bilgisayar tabanlı süreçlerle elde edilen sanat yapıtlarıyla sanat ortamını etkileyen ve dönüştüren yaklaşımlardan birisidir. Sanatsal üretim sürecinde otokontrol sisteminin kullanıldığı çağdaş sanat yaklaşımıdır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488854,
+        "Question": "<p>Sanal gerçeklik ortamı ne demektir?</p>",
+        "Answer": "<p>3B bilgisayar grafikleri ve etkileşimli 3B ses, başa takılan bir ekran ve nefes alma ve <br />dengeye dayalı gerçek zamanlı hareket izleme özelliğine sahip sürükleyici, etkileşimli bir sanal gerçeklik ortamıdır. Benlik ile dünya arasındaki algı etkileşimini keşfetmek için bir alandır, yani çevredeki alanda benliğin bilinç olarak algılanmasını sağlayan bir yerdir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488855,
+        "Question": "<p>Türkiye’deki sanat camiasını dijital sanatla tanıştıran kişi kimdir?</p>",
+        "Answer": "<p>Özcan Onur, Türkiye’deki sanat camiasını dijital sanatla ve dijital görüntü işleme ile <br />tanıştıran kişidir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488856,
+        "Question": "<p>Mimariyi, medya sanatlarını, veri bilimini ve yapay zekâyı buluşturan Türk sanatçı kimdir?</p>",
+        "Answer": "<p>Mimariyi, medya sanatlarını, veri bilimini ve yapay zekâyı buluşturan, dünyada yapay zekâ sanatının başlamasına çalışmaları ile destek veren ve gelişimine katkı sağlayan Refik Anadol da bu genç sanatçılardan biridir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3488956,
+        "Question": "<p>\"Baskı teknikleri\", ne işe yarar, ne demektir açıklayınız?</p>",
+        "Answer": "<p>Farklı yöntem ve kanallarla edinilmiş bilginin, belirli bir kaynaktan geniş kitlelere yayılmasını mümkün kılar, yazı ve görsel unsurların farklı yüzeyler üzerine, farklı yöntemler kullanılarak aktarılıp çoğaltılması işlemidir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488957,
+        "Question": "<p>Görsel tasarım ürünlerinin üretim süreci başlatıldığında bazı istenmeyen durumlarla karşılaşılabilir. Bunlardan bazıları nelerdir?<br /><br /></p>",
+        "Answer": "<p>• Ürün için ön görülen teknik özelliklerin üretimi, normalden daha fazla zaman alabilir ya da maddi olarak daha maliyetli olabilir. <br />• Ürünün istenilen özellikte üretilmesi günümüz teknolojileriyle mümkün olmayabilir. <br />• Çalışmada kullanılan renkler istenildiği gibi görünmeyebilir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488958,
+        "Question": "<p>Görsel tasarım ürünü ne demektir, ne işe yarar?</p>",
+        "Answer": "<p> “Mesajı iletme ya da mesajı almada yardımcı olacak her türlü görsel ürünlerdir”. Bu ürünler, herhangi bir kurumun kendini ifade edeceği görsel kimlik kılavuzu veya ilk defa karşılaştığımız bir ürünün etiketinde tanıtım şekli olarak karşımıza çıkabilir. Görsel tasarım ürünlerinin amacı mesajı hedef kitleye en kısa yoldan net bir şekilde aktarmaktır. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488959,
+        "Question": "<p>Kurumsal görsel kimlik kılavuzu nedir?</p>",
+        "Answer": "<p>Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapçıktır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488973,
+        "Question": "<p>Reklam ve pazarlama için tasarım ürünlerinelerdir? Bu ürünlerin temelindeki tasarım ürünü nedir?</p>",
+        "Answer": "<p>Afiş, El İlanı, Folyo, Branda, Billboard, Raket, Durak Reklamları, Silindir Board, Megalight, Sokak Board, Duvar Giydirme Reklamları, Araç Giydirme Reklamları, vb. Bir kurum ya da kuruluşun ürünün tanıtılması ya da satışının artırılması gibi farklı amaçlar için kullanılan kitle iletişim araçları olan görsel tasarım ürünleridir. Bu ürünlerin temelinde afiş bulunmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488975,
+        "Question": "<p>Afiş nedir?</p>",
+        "Answer": "<p>Sosyal hayatın her alanında karşılaşabileceğimiz ve kitle iletişim araçlarından biri olan afiş, haber niteliği olan bir olayı topluma duyurmak için, belirli standartlar gözetilerek farklı yüzeylere tasarlanan ve şehirlerin belirli yerlerine asılan duyurulardır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488977,
+        "Question": "<p>Bir afiş tasarlanırken dikkat edilmesi gereken kriterler nelerdir?</p>",
+        "Answer": "<p>Bir afiş tasarlanırken, hedef kitleler tarafından algılanması için ilk şart olan “dikkat çekicilik”, ulaştırılmak istenilen mesaj ile hedef kitlenin çıkardığı anlamın aynı olması için “sadelik ve biçim”, baskı teknikleriyle kolay ve makul maliyetlerle üretilebilmesi “endüstriyel ve ekonomiklik” ve “estetik” özelliklerdir.<br /><br /></p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488993,
+        "Question": "<p>En çok karşılaştığımız yayın tasarımı ürünleri nelerdir? Hedeflerine nasıl ulaştırılır?</p>",
+        "Answer": "<p>Gazete, Kitap, Katalog, Dergi, vb. ürünlerdir.Kitle iletişim araçları yoluyla hedef kitle ile iletişim kuran ürünlerdir. Günümüzde en çok gazete, dergi ve kataloglardır. </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488995,
+        "Question": "<p>Etiket ve ambalaj nedir?</p>",
+        "Answer": "<p>Etiket: Bir ürünün, markasını, bileşen özelliklerini, kullanım şeklini, miktarını, vb. gibi özellikleri içeren materyallere denir.<br /> Ambalaj: Temel olarak bir ürünü dış etkilerden korumak, ürünle ilgili imaj oluşturmak ve kullanıcıyı bilgilendirmek amacıyla farklı malzemelerden yapılan ürün tamamlayıcısına denir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488996,
+        "Question": "<p>Matbaacılıkta \"Forma\" ne demektir?</p>",
+        "Answer": "<p>Standart bir tabaka kâğıdın, üç kez katlanmasıyla elde edilen, matbaacılıkta kullanılan temel hesaplama birimlerinden biridir. Sekiz ön, sekiz arka olmak üzere 16 sayfadan oluşur. 4 sayfalık planlama çeyrek forma, 8 sayfalık planlama yarım forma ve 16 sayfalık planlama tam forma olarak ifade edilir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489006,
+        "Question": "<p>Kâğıdın özellikleri, görsel tasarımcıya yapmış olduğu tasarımın üretimi öncesinde hangi bilgileri verir? </p>",
+        "Answer": "<p>Tasarımcının kâğıdın yüzey yapısını bilmesi çalışmada kullanacağı renklerin nasıl görüneceği hakkında; kâğıdın gramaj bilgisi basılı ürün toplamda ne kadar ağırlıkta olacağı ve özellikle kâğıtların katlanma özellikleri.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489007,
+        "Question": "<p>Renk nedir?</p>",
+        "Answer": "<p>Cisimlere çarpan ışığın yansıması ile görme duyusunda bıraktığı etkiye renk denir. Işık kaynağından gelen ışınlar cisimlere çarpar, cisimler doğası gereği ışığın bir kısmını yansıtmazken bir kısmını yansıtır. Yansıyan bu ışınlar göze ulaştığında bıraktığı etkiye renk denir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489008,
+        "Question": "<p>Renkleri bilimsel olarak ilk inceleyen kişi kimdir ? Nasıl bir deney yapmıştır?</p>",
+        "Answer": "<p>Renkleri bilimsel olarak ilk inceleyen Isaac Newton'dur. Yaptığı deneye göre güneşten gelen ışınların prizmadan geçirilmesiyle yedi temel renk ortaya çıkmıştır. En düşük dalga boyundan en yüksek dalga boyuna doğru sırasıyla mor, lacivert, mavi, yeşil, sarı, turuncu ve kırmızı birleştiğinde beyaz ışık rengi ortaya çıkarmıştır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489009,
+        "Question": "<p>Rengi tanımlayan özellikler nelerdir?</p>",
+        "Answer": "<p>Rengi tanımlayan üç temel özellik vardır. Bu özelliklerden ilki olan “Hue” rengin spektrumdaki yeridir ve renklerin ayırt edilmesini sağlayan bu özelliktir.  İkinci özellik “Saturation”dır. Bu özellik güçlü, doygun, saf renkleri; zayıf, romantik renklerden ayırmasını sağlayan özelliktir.  Üçüncü özellik olan “Brightness” ise rengin yansıma oranı ve bir rengin koyuluğunun/açıklığının ölçümüdür.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489010,
+        "Question": "<p>\"RGB Renk Modeli\" nedir nerede kullanılır?</p>",
+        "Answer": "<p>Dijital platformlarda sunulacak ürünlerde kullanılır. RGB Renk Modeli, elektronik cihazların ışık kullanılarak oluşturulması prensibine dayanır. Modeli oluşturan kırmızı (R), yeşil (G) ve mavi (B) ışık renklerinin istenilen oranlarda birleştirilmesiyle görünür spektrumda renk oluşturulur.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489011,
+        "Question": "<p>\"CMYK Renk Modeli\" nedir nerede kullanılır?</p>",
+        "Answer": "<p>Cyan (mavi), Magenta (kırmızı), Yellow (sarı) ve Black (siyah) renklerinden oluşan, matbaa endüstrisinde kullanılan baskı makineleri ve yazıcılarda kullanılan mürekkep ya da toner kullanılarak renklerin oluşturulduğu renk modelidir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489012,
+        "Question": "<p>Matbaa alanında kullanılan renk ve ton yapısı bakımından baskı türleri nelerdir?</p>",
+        "Answer": "<p>Tek tonlu (tire) baskı, yarımton (tramlı) baskı, trikromi (CMYK) baskı, özel (spot/ pantone) renk baskı ve hexachrome baskı olmak üzere beş çeşit baskı türü vardır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489013,
+        "Question": "<p>\"Masaüstü yayıncılık (destoppublishing)\" nedir?</p>",
+        "Answer": "<p>Matbaada basılacak her türlü materyalin ya da dijital platformlarda yayımlanacak dijital içeriklerin bilgisayar programlarıyla ve diğer baskı öncesi cihazlarla işlenerek dijital ortama aktarılması işlemlerine masaüstü yayıncılık denir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489014,
+        "Question": "<p>Baskı teknolojinde kullanılan çözünürlük türleri nelerdir?</p>",
+        "Answer": "<p>Baskı teknolojilerinde kullanılan; DPI (Dot Per Inch), PPI (Pixel Per Inch) ve LPI (Line Per Inch) temel olarak kullanılan üç çözünürlük birimi vardır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3489015,
+        "Question": "<p>Baskı sonrası yapılan işlemler nelerdir?</p>",
+        "Answer": "<p>Kesim, dikiş, şekillendirme, ciltleme, spiral, sıvama, amerikan cilt, selefon, lak, vernik, yapıştırma gibi işlemlerdir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3488812,
+        "Question": "<p>Kullanıcı deneyimi (UX) tasarımı nedir?</p>",
+        "Answer": "<p>Bir ürünün son kullanıcılarının davranışlarını anlamakla başlayan yaklaşım, hizmet veya sistem sürecidir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488814,
+        "Question": "<p>Kullanıcı arayüzü nedir?</p>",
+        "Answer": "<p>“İnsan-makine birlikteliğinin bir sonucu olarak ortaya çıkan ve ikisi arasındaki etkileşimin yaşandığı alana kullanıcı arayüzü denir”</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488817,
+        "Question": "<p>Başarılı bir arayüz tasarımı oluşturabilmek için hangi ilkelere dikkat edilmelidir?</p>",
+        "Answer": "<p>Başarılı bir arayüz tasarımı oluşturabilmek için gerekli ilkeleri şu başlıklar altında sıralayabiliriz;</p> <p>Denge, Yalınlık, Bütünlük, Hiyerarşi, Vurgu.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488818,
+        "Question": "<p>Arayüz tasarım alanında hangi denge türleri vardır?</p>",
+        "Answer": "<p>Tasarım alanı içerisinde simetrik ve asimetrik olmak üzere iki türlü denge vardır. Simetrik denge, dikey ya da yatay bir eksene eşit oranlarda yerleşen ve benzerlikten dolayı oluşan denge sistemidir. Asimetrik denge ise daha fazla görsel çeşitlilik sunar. </p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488819,
+        "Question": "<p>Arayüz tasarımında bütünlük hangi anlama gelmektedir?</p>",
+        "Answer": "<p>Birlik ya da uyum olarak da bilinen bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel ögeler ile bağlantılı olması ve tasarımın tüm parçalarının uyum içerisinde olması anlamına gelmektedir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488822,
+        "Question": "<p>Arayüz tasarımı ögeleri nelerdir?</p>",
+        "Answer": "<p>Nokta, çizgi, şekil, renk, sembol, ikon vb., fotoğraf, illüstrasyon, tipografi, bilgi grafiği (İnfografik, site haritalar, hareketli görüntü (video), hareketli grafik, animasyon.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488824,
+        "Question": "<p> Dijital renk sistemine göre ışık bazlı renk modeli hangisidir?</p>",
+        "Answer": "<p>Kullanıcı Deneyimi (UX) ve Kullanıcı Arayüz (UI) tasarımının ele <br />alındığı konumuz kapsamında, dijital renk sistemine göre ışık bazlı olarak karşımıza çıkan RGB renk modelini bilmemiz önemlidir. “Red- Green- Blue” <br />kelimelerinin baş harflerinden oluşan RGB renk modeli, kırmızı (red), yeşil (green) ve blue (mavi) renklerin kullanılmasıyla dijital ekranda oldukça <br />fazla renk seçeneğinin elde edilebileceği sonsuz bir ışık uzayıdır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488826,
+        "Question": "<p>Layout ve Wireframe hangi süreçleri tanımlar?</p>",
+        "Answer": "<p>Layout ve Wireframe karıştırılmamalıdır. Layout tasarımın genel taslağını, wireframe ise tasarım ögelerinin bağlantı noktalarını ve yönünü belirlemek üzere çalışılan süreci tanımlar.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488827,
+        "Question": "<p>Nesnelerin İnterneti “Internet of Things ne demektir?</p>",
+        "Answer": "<p>“Internet of Things” kelimesi İngilizcede kısaca ‘IoT’ olarak ifade edilir. Bu kelime Türkçede “Nesnelerin İnterneti” olarak adlandırılmaktadır. IoT, birbiriyle ilişki kurabilen, dijital makine, nesne veya tanımlayıcılar sayesinde ağa <br />gerek duymaksızın, veri aktarabilen sistemlere verilen isimdir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488829,
+        "Question": "<p>3B Haritalama nedir?</p>",
+        "Answer": "<p>3B Haritalama; arttırılmış gerçeklikle, düzensiz şekle sahip nesnelerin üzerine yansıtılan video projeksiyon görüntü tekniklerini içeren bir terimdir. 3B Haritalama, son yıllarda teknolojinin gelişimiyle ortaya çıkan Lazer, Otonom Robot, Kızıl Ötesi Sensör, GPS, AR- VR gibi teknolojik uygulamaları içerisinde barındıran geniş bir çalışma alanıdır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488830,
+        "Question": "<p>E-kitapların, kullandığı teknoloji veya okuma aracının sınırlılıklarından kaynaklanan dezavantajları nelerdir?</p>",
+        "Answer": "<p>E-kitapların, kullandığı teknoloji veya okuma aracının sınırlılıklarından kaynaklanan dezavantajları da bulunmaktadır. Harici bir güç kaynağına ihtiyaç <br />duymalarından kaynaklanan şarj problemleri, düşük çözünürlüklü cihazların kullanılması nedeniyle okuyucuların yaşadığı göz ve baş ağrıları, temel sorunlardır. Özellikle etkileşimli e-kitaplarda bazı durumlarda telif hakkı ihlali gibi sorunlar yaşanabilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488831,
+        "Question": "<p>Günümüzde görsel tasarım içeriği oluşturulabilecek ana akım sosyal medya platformları nelerdir?</p>",
+        "Answer": "<p>Facebook, Linkedln, Tiktok, YouTube, Twitter, Instagram.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488833,
+        "Question": "<p>Linkedln hangi amaçla kullanılan bir sosyal ağdır?</p>",
+        "Answer": "<p>LinkedIn, iş dünyasındaki profesyonellerin yeni ilişkiler kurmak, geliştirmek ve devam ettirmek için kullandıkları sosyal bir ağdır. Ancak asıl amaç, iş ilanı verenler ile işe alınmak amacıyla özgeçmişlerini gönderenler arasında iletişim kurmak için kullanılmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488834,
+        "Question": "<p>Süresi on beş saniye ile üç dakika arasında değişen  kısa videolar yapmak için kullanılan sosyal ağ hangisidir?</p>",
+        "Answer": "<p>Tiktok dans, komedi ve eğitim gibi türlerde, süresi on beş saniye ile üç <br />dakika arasında değişen çeşitli kısa videolar yapmak için kullanılmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488836,
+        "Question": "<p>Canlı video açma özelliği bulunan sosyal ağ hangisidir?</p>",
+        "Answer": "<p>Instagram’da canlı video açma özelliği bulunmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488838,
+        "Question": "<p>Bilgi grafiği (infografik) ne demektir?</p>",
+        "Answer": "<p>Bir durumu, olayı ya da bir konuyu anlatan karmaşık bilgilerin/verilerin kolay algılanabilir bir biçimde organize edilerek, izleyiciye görsel olarak sunulmasıdır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488839,
+        "Question": "<p>Tasarımda vurgu etkisi nasıl oluşturulabilir?</p>",
+        "Answer": "<p>Tasarımda vurgu etkisi, oran-orantı, renk ve doku ile oluşturulabileceği gibi, tasarım yüzeyi üzerinde beyaz alanın doğru kullanılması ile de oluşturulabilir. Ayrıca bir tasarımda vurgulama yapmak, tasarımın dengesini <br />değiştirebilir. Kimi zaman yanlızca bir resim, fotoğraf ya da tipografik bir düzenleme; kimi zaman ise fotoğraf ya da resmin belli bir kesiti, tipografik <br />düzenlemede yer alan belirli harfler veya heceler tasarımda vurgu noktasını oluşturabilir. Öte yandan gruplandırılmış birden fazla ögenin yer aldığı daha <br />büyük alanlar da ilgi noktasını oluşturabilir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488841,
+        "Question": "<p>İllüstrasyon ne demektir?</p>",
+        "Answer": "<p>Bir metnin veya bir fikrin, açıklanması ve anlamın güçlendirilmesi amacıyla yapılan resimlemeler için illüstrasyon tanımı kullanılır.  İllüstrasyonun amacı, bir metinin içeriğini, görseller yoluyla okuyucuya iletmektir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488842,
+        "Question": "<p>Arayüz tasarımında kullanılacak olan tipografik düzenlemelerin oluşturulma sürecinde dikkat edilmesi gereken noktalar nelerdir?</p>",
+        "Answer": "<p>Arayüz tasarımında kullanılacak olan tipografik düzenlemelerin oluşturulma sürecinde; boyut-ağırlık, yükseliş ve düşüşler, beyaz boşluk kullanımı, satır yüksekliği, hizalama, çizgi ve taban çizgisi, takip edilebilir göz boşluğu ve karakter aralıklarına dikkat edilmelidir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3488845,
+        "Question": "<p>Kullanıcı arayüz tasarımcısının, arayüz tasarımı için dijital görsel tasarımın hangi alt birimlerine hakim olması gerekmektedir?</p>",
+        "Answer": "<p>Kullanıcı Arayüz tasarımcısının, arayüz tasarımı için Sayfa Düzeni (Layout), Site Haritası, Navigasyon Mantığı, ilk Örnek (Prototip)’lerle çalışma <br />gibi dijital görsel tasarımın alt birimlerine hakim olması gereklidir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3489209,
+        "Question": "<p>Hareketli grafik ne demektir?</p>",
+        "Answer": "<p>Hareketli grafikler, etkili görüntüler (tasarımlar) oluşturmak için çok çeşitli efektler kullanılarak birkaç şekil grubunun birlikte koreografisinin yapıldığı bir animasyon biçimidir. </p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489210,
+        "Question": "<p>Hareketli grafik oluştururken dikkat edilmesi gereken tasarım ögeleri ve ilkeleri nelerdir?</p>",
+        "Answer": "<p>Hareketli grafikler, genellikle görüntülerin, videonun ve tipografinin zaman <br />içinde hareketini, döndürülmesini veya ölçeklenmesini kapsadığı için grafik tasarım içerisinde kullanılan tasarım ögeleri, şekil, çizgi, tipografi, renk, gibi unsurlar da sıklıkla yer almaktadır. Ayın zamanda hareketli grafik oluştururken, “Denge, Görsel Hiyerarşi, Vurgu, Ritim, Oran Orantı ve Bütünlük” gibi tasarım ilkelerinden yararlanılmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489211,
+        "Question": "<p>İyi bir hareketli grafik videosu üretmek için sırasıyla uygulanması gereken adımlar nelerdir?</p>",
+        "Answer": "<p>Görüşme (Brief),  Araştırma,  Moodboard,  Storyboard,  Modelleme,  Hareketlendirme, Kamera, Kaplama, Işıklandırma, Render, Montaj ve Kurgu.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489212,
+        "Question": "<p>Storyboard aşamasında yapılan işlemler nelerdir?</p>",
+        "Answer": "<p>Storyboard: Yapılacak olan video sahneler ve geçişler hâlinde çizilir. Storyboard (hikâye panosu) aşamasında video değerlendirilir, bir değişiklik istenirse bu aşamada yapılır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489213,
+        "Question": "<p>Render aşamasında yapılan işlemler nelerdir?</p>",
+        "Answer": "<p>Render: Modellenen, hareketlendirilen, kaplanan sonra ışıklandırılan nesneler ile üretilen videoların görselleri, render motorları ile nesneleri, ışıkları, efektleri ve diğer detayları hesaplanır ve görüntüleri (hareketli veya durağan) üretilir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489214,
+        "Question": "<p>Cel animasyon nedir?</p>",
+        "Answer": "<p>Cel animasyon, en geleneksel animasyon biçimlerinden biridir ve genellikle <br />karakterler olmak üzere nesnelerin şeffaf selüloit yapraklara elle çizilmesi ve <br />boyalı arka planlara yerleştirilmesi ile oluşur. Bu yapraklar animasyonlu cel <br />olarak bilinir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489215,
+        "Question": "<p>Gres kalemi nedir?</p>",
+        "Answer": "<p>Gres kalemi, sertleştirilmiş renkli balmumundan yapılmış bir yazı aracıdır ve sert, parlak, gözenekli olmayan yüzeyleri işaretlemek için kullanışlıdır. Bu kalem genellikle, bir mum boyaya benzeyen ancak daha güçlü toksik olmayan opak balmumundan yapılır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489216,
+        "Question": "<p>Cut-out yöntemiyle animasyon nasıl oluşturulur?</p>",
+        "Answer": "<p>Bu yöntemde, animasyondaki tüm parçalar ayrı ayrı hareket ettirilerek yapılmaktadır. Elde kesilmiş ögeler öndeki figür, arka plan ve yazılar gibi ayrı katmanlara yerleştirilerek hareket ettirilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489217,
+        "Question": "<p>Stop Motion animasyon nedir?</p>",
+        "Answer": "<p>Kareleri oluşturulan görüntülerin her karesi için fotoğraflar çekilmektedir. Oluşturulan nesne hareket ettirilir ve her adımı fotoğraflanır. <br />Stop-motion animasyon, bir nesnenin adımlarını fotoğraflayarak nesneyi her çekim arasında küçük değişimlerle hareket ettirme işlemidir. Tekrarlanan bu küçük değişimler birleştirildiğinde sürekli hareket yanılsaması verir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489218,
+        "Question": "<p>Rotoskopi yöntemiyle nasıl animasyon oluşturulur?</p>",
+        "Answer": "<p>Rotoskopi, gerçek görüntüleri çizgi film görüntülerine dönüştürmek için kullanılan bir animasyon tekniğidir. Herhangi bir ortamda çekilen gerçek görüntüler farklı bir arka plan veya sahneye alınıp kare kare birleştirmektedir</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489219,
+        "Question": "<p>Motion capture yöntemi nasıl uygulanır?</p>",
+        "Answer": "<p>Gerçek aktörlerin hareketlerinin 3 boyutlu iskelet sistemine aktarılmasına ve sonrasında bilgisayara alınarak hareketlendirilerek oluşturulmasına verilen isimdir. Bu yöntem ile kayıt edilen aktörlerin yerini bilgisayarda çizgi, şekil, nesne veya üretilen hayali karakterler alabilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489220,
+        "Question": "<p>Cinema 4D yazılımı hangi amaçla kullanılmaktadır?</p>",
+        "Answer": "<p>Cinema 4D yazılımı üç boyutlu hareketli grafikler, ürün görselleştirmeleri, video, animasyon gibi grafik unsurlarını oluşturmak için kullanılmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489221,
+        "Question": "<p>Cinema 4D arayüzünün ana yönetici menüsüleri nelerdir?</p>",
+        "Answer": "<p>Nesne Yöneticisi (Object Manager) Menüsü, . Nitelik Yöneticisi (Attributes Manager) menüsü,  Koordinatlar Yöneticisi (Coordinates Manager) Menüsü, Malzeme Yöneticisi (Materials Manager) Menüsü.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489222,
+        "Question": "<p>Adobe After Effects yazılımı ile yapılabilecek işlemler nelerdir?</p>",
+        "Answer": "<p>After Effects yazılımı, 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımıdır. Photoshop ve Illustrator gibi temel grafik yazılımlarında oluşturulan ögeleri hareketli grafik tasarımın parçası olarak canlandırmak ve işlemek için After Effects’te bir araya getirebilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489223,
+        "Question": "<p>Adobe Premiere yazılımı ile yapılabilecek işlemler nelerdir?</p>",
+        "Answer": "<p>Adobe Premiere, hareketli grafik tasarımcılarının geçişler, görsel efektler, ses efektleri, müzik ve birden fazla videoyu birbirine ekleme gibi son dokunuşları eklemek için kullandıkları montaj yazılımıdır. Videonun son halini alması için gereken akış ve senkronizasyon gibi düzenlemeler Adobe Premiere yazılımı <br />kullanılarak yapılabilmektedir.. Adobe Premiere ve benzer özelliklere sahip Final Cut Pro gibi yazılımların tümü, Adobe After Effects, Cinema 4d, 3ds Max gibi yazılımlarla kullanıcıların çalışmaları bittikten sonra hazırlanan hareketli grafik görüntülerinin bir video halini alabilmesi için kullanabilmektedir. Adobe firması After Effects ve Premiere’i yazılımlarının entegre olarak çalışmasını sağlayarak hareketli grafik tasarımcıları için Adobe Premiere yazılımını önemli bir son düzenleme aracı haline getirdiği söylenebilir. Adobe Premiere yazılımı, video geçişleri, efektler, hareketli grafik şablonları, jenerikler, alt yazı düzenlemeleri ve çoklu video formatlarıyla çalışma imkânı vermektedir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489224,
+        "Question": "<p>Temel olarak hareketli grafik kullanım alanları nelerdir?</p>",
+        "Answer": "<p>Hareketli grafik kullanım alanları temel olarak üçe ayrılabilir, Bunlar: Sinema, Televizyon ve Dijital Ortamlar olarak sınıflandırılabilir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489225,
+        "Question": "<p>İlk film jeneriği örnekleri neleri içermektedir?</p>",
+        "Answer": "<p>Film jeneriklerinin ilk örnekleri sessiz filmlerde bulunabilir. Bunlar, izleyiciyi ana film başlığı, ekip ve yetenek hakkında bilgilendiren basit, animasyonsuz başlık kartlarından oluşmaktaydı, genellikle bir filmin en başına yerleştirilen ve büyük stüdyolar tarafından istihdam edilen harf sanatçıları tarafından oluşturulan ilk başlık kartları, tipik olarak siyah bir arka plan üzerinde beyaz yazı karakteriyle sunuldu ancak kısa süre sonra çizgiler, ana hatlar veya küçük çizimler gibi bazı küçük süslemeler de içermekteydi.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489226,
+        "Question": "<p>Film jeneriklerinin işlevleri nelerdir?</p>",
+        "Answer": "<p>Film jeneriklerinin işlevleri<br />• Filmin tonunu, hızını ve türünü göstererek izleyiciyi hazırlar<br />• Beklenti oluşturur<br />• Duygusal bir tepki yaratır; seyirciyi meşgul eder ve heyecanlandırır<br />• Konuyu gölgede bırakmadan önceden film hakkında haber verir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489227,
+        "Question": "<p>Televizyonda hareketli grafiklerin yoğun olarak kullanıldığı alanlar hangileridir?</p>",
+        "Answer": "<p>Kanal logosu sunumu, televizyon yayıncılığı, reklamcılığı, programlar arası kurumsal jenerikler, haber, spor bültenleri gibi kurumsal program jenerikleri ve dizi jenerikleri gibi alanlarda hareketli grafik yoğun kullanılmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3489228,
+        "Question": "<p>Dijital ortamlarda hareketli grafiğin kullanıldığı alanlar nelerdir?</p>",
+        "Answer": "<p>Bilgisayar oyunları ve tanıtımları, kurumsal logo ve proje sunumları, etkileşimli CD’ler, müzik videoları, dijital ekranlar gibi alanlarda hareketli grafik kullanılmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3488921,
+        "Question": "<p>Generatif sanat ne demektir?</p> ",
+        "Answer": "<p>Generatif sanat, kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder.  </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488922,
+        "Question": "<p>2009 yılında Londra’da bulunan kraliyete ait Victoria &amp; Albert Müzesi’nin programında yer verdiği Dijital Sanat sergisinin adı nedir?</p> ",
+        "Answer": "<p>2009 yılında Londra’da bulunan kraliyete ait Victoria &amp; Albert Müzesi’nin programında yer verdiği Dijital Sanat sergisinin adı “Decode: Dijital Design Sensations”tır. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488923,
+        "Question": "<p>Max/MSP nedir?</p> ",
+        "Answer": "<p>Max/MSP müzik ve etkileşimli multimedya türleri için kullanılan görsel bir programlama dilidir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488924,
+        "Question": "<p>Dijital bir sanat eserinin üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar nelerdir?</p>",
+        "Answer": "<p>Dijital bir sanat eserinin üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar şunlardır:</p> <ul> <li>Bilgisayar/mobil cihaz/tablet donanımları, (Benzersiz</li> <li>İşletim sistemleri (Windows, MacOS, Android),</li> <li>Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.) ve</li> <li>Yardımcı teknik araçlar (Çizim kalemi vs) </li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488925,
+        "Question": "<p>NFT’nin İngilizce açılımı nedir ve bu açılım Türkçe’ye ne olarak çevrilmiştir?</p> ",
+        "Answer": "<p>NFT’nin İngilizce açılımı Non-Fungible Token (Benzersiz simge)dir. Türkçe’ye  “Nitelikli Fikri Tapu” olarak çevrilmiştir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488926,
+        "Question": "<p>Photoshop, Illustrator, ArtRage gibi durağan ya da hareketli görüntüleri işleyebilen programlarda sıklıkla kullanılan saydam ve üstüste getirilebilen yapılara ne ad verilir?</p> ",
+        "Answer": "<p>Photoshop, Illustrator, ArtRage gibi durağan ya da hareketli görüntüleri işleyebilen programlarda sıklıkla kullanılan saydam ve üstüste getirilebilen yapılara  “katman”(Layer) adı verilir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488927,
+        "Question": "<p>Enstalasyon nedir?</p> ",
+        "Answer": "<p>“Enstalasyon” açık veya kapalı mekanlarda yapılan ve çoğunlukla izleyicilerin katılımını öngören, onlarla etkileşime giren bir sanat tarzıdır. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488928,
+        "Question": "<p>Vektör sanatı nedir?</p> ",
+        "Answer": "<p>Vektör sanatı, dijital görüntü işleme ve vektörel tasarım yazılımları aracılığıyla üretilen bir dijital sanat türüdür.  </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488929,
+        "Question": "<p>Raster nedir?</p> ",
+        "Answer": "<p>Raster, yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kullanılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türüdür.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488930,
+        "Question": "<p>Video haritalama nedir?</p> ",
+        "Answer": "<p>Video haritalama, herhangi bir yüzeyi (binaları, yüzeyleri ve neredeyse her türlü karmaşık yüzeyleri veya üç boyutlu nesneleri) dinamik bir ekranda dönüştüren bir projeksiyon tekniğidir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488931,
+        "Question": "<p>TouchDesigner nasıl bir programdır?</p> ",
+        "Answer": "<p>Dünya çapında eserlerini video haritalama yöntemiyle izleyicisiyle buluşturan birçok sanatçı tarafından kullanılan TouchDesigner, gerçek zamanlı grafikler üretme, düzenleme, kompoze etme ve hareket tasarlama amacıyla kullanılan, ‘node’ tabanlı bir görsel programlama ortamıdır. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488932,
+        "Question": "<p>TouchDesigner’in öne çıkan bazı özellikleri nelerdir?</p> ",
+        "Answer": "<p>TouchDesigner’in öne çıkan bazı özellikleri şunlardır:</p> <ul> <li>Gerçek zamanlı 3B görselleştirme motoruyla sıkı entegrasyon, projeksiyon kurulumlarının eksiksiz ön görselleştirilmesine olanak tanır.</li> <li>Haritalama, kubbe, VR, birleştirme ve ortam ışıkları için çok çeşitli projeksiyon formatları için destek sunar.</li> <li>Yansıtma yüzeyine ilişkin çarpıklık oluşturma ve maskeleme için birçok barındırır.</li> <li>Serbest biçimli ve bezier şekilleri de dahil olmak üzere gelişmiş 2B haritalama ve maskeleme için eşleştirici aracına sahiptir.</li> <li>3B görüntülere ilişkin projeksiyon hizalama ve kalibrasyon için “Camschnapr” aracı vardır.</li> <li>2B çıktıdan optik bir 3B yanılsaması yaratan efekt türlerine sahiptir.</li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488933,
+        "Question": "<p>NFT sanatı hangi sanatçının hangi eseriyle popülerleşmiştir?</p> ",
+        "Answer": "<p>NFT sanat kavramı Beeple adıyla tanınan Amerikalı sanatçı Mike Winkelmann’ın The First 5000 Days isimli eseriyle popülerlik kazanmıştır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488934,
+        "Question": "<p>Generatif sanat nasıl işlemektedir?</p>  ",
+        "Answer": "<p>Generatif sanatta öncelikle bilgisayar yazılımları aracılığıyla eserin oluşturulma sürecine ilişkin bir dizi kurallar oluşturulur. Daha sonra bir bilgisayar sizin adınıza yeni eserler üretmek için bu kurallara uyar. Bir fikri keşfetmek için günler hatta aylar harcayabilen geleneksel sanatçıların aksine, generatif tasarım sanatçıları, saniyeler içinde binlerce fikir üretmek için bilgisayarları kullanır. Generatif sanat alanında çalışan sanatçılar yeni bir sanat estetiği yaratmak için bilgisayarların işlem gücünden yararlanır.  </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488935,
+        "Question": "<p>OpenFrameworks nedir?</p>  ",
+        "Answer": "<p>OpenFrameworks, yaratıcı kodlama için açık kaynaklı bir C++ yazılım dilinde programlanmış bir uygulamadır. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488936,
+        "Question": "<p>Prosedürel modelleme nedir?</p> ",
+        "Answer": "<p>Prosedürel modelleme, yazılım ve tasarım uygulamaları aracılığıyla bir dizi teknik kurallar dizisinden üç boyutlu modeller ve dokular içeren grafikleri yaratmaya ilişkin kullanılan bir tasarım sürecidir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488947,
+        "Question": "<p>Mandelbulb nedir?</p> ",
+        "Answer": "<p>Mandelbulb basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan  ve generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımıdır. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488948,
+        "Question": "<p>Silk yazılımının amacı nedir?</p> ",
+        "Answer": "<p>Silk yazılımı aracılığı ile kullanıcıların ekrana çizdiği çizgiler simetrik olarak diğer yönlere yansıtılır ve böylece basit kurallar ile temel girdiler anında çok daha ayrıntılı, karmaşık ve sofistike biçimlere dönüştürebilir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488949,
+        "Question": "<p>Arbaro hangi amaçla kullanılır?</p>\n<p></p>",
+        "Answer": "<p>Java programlama diliyle yazılan Arbaro, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulamasıdır.  </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488950,
+        "Question": "<p>Sayısal veri heykeli neyi ifade etmektedir?</p> ",
+        "Answer": "<p>Sayısal veri heykeli, görsel, ses, metin vs. gibi sayısal verilerin çeşitli yapay zekâ algoritmaları ve parametreleriyle birbiriyle ilişkili hale getirilerek oluşturulan sanal ya da fiziksel tasarımları ifade etmektedir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488951,
+        "Question": "<p>Dall-e yazılımı ne işe yaramaktadır?</p> ",
+        "Answer": "<p>İnternet tabanlı bir browser üzerinden erişilerek girilen herhangi bir yazılı metin üzerinden yapay zekâ aracılığıyla gerçekçi görüntü ve imajlar oluşturabilen Dall-E yazılımı. Yazılı olarak anlamlı ya da rastgele girilen metinlerin oldukça gerçekçi imajlara çevrilebildiği bir yapay zekâ uygulamasıdır. Dall-e çeşitli kavram, nitelik ve stilleri birleştirerek oldukça etkili bir veri görselleştirme mimarisine sahiptir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488952,
+        "Question": "<p>Doğrusal olmayan düzenleme (NLE) nedir?</p> ",
+        "Answer": "<p>Doğrusal olmayan düzenleme (NLE): Ses, görüntü ve video düzenleme için dijital dosya formatlarını kullanan ve görüntü dosyaları üzerinde tam erişime sahip, işleme ve düzenleme biçimidir. </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488953,
+        "Question": "<p>Renk düzenlemesi hareketli görüntülerin anlamlı bir bütün olarak bir araya getirildiği post prodüksiyon sürecinde hangi işlevleri yerine getirir?</p> ",
+        "Answer": "<p>Renk düzenlemesi hareketli görüntülerin anlamlı bir bütün olarak bir araya getirildiği post prodüksiyon sürecinde şu işlevleri yerine getirir:</p> <ul> <li>Renklere ilişkin doğru seviye ve doygunluk oranlarının belirlenmesi,</li> <li>Renklere ilişkin doğru ve hassas ayarlamaların yapılabilmesi,</li> <li>Çekim ve sahneler arasında görsel tutarlılığın yaratılması. </li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488954,
+        "Question": "<p>Davinci Resolve’un temel özelliklerinden bazıları nelerdir?</p>  <p>D</p>",
+        "Answer": "<p>Davinci Resolve’un temel özelliklerinden bazıları şunlardır:</p> <ul> <li>Görüntü düzenleme ve derecelendirme araçları,</li> <li>Görüntü kurgulamaya ilişkin gelişmiş araçlar,</li> <li>Ses düzenlemeye ilişkin gerçek zamanlı efektler,</li> <li>Görsel efekt ve hareketli grafik oluşturma,</li> <li>Hedefli renk derecelendirme,</li> <li>Çoklu kamera desteği,</li> <li>Bulut tabanlı iş akış modeli,</li> <li>Yüzlerce farklı dosya formatıyla uyumlu çalışabilme,</li> <li>Apple neural engine desteği,</li> <li>2K, 4K, 8K, HDR ve diğer çözünürlüklerle çalışabilme</li> <li>Çok kullanıcılı çalışma özelliği.</li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3488955,
+        "Question": "<p>Yapısal dijital video kavramı neyi ifade etmektedir?</p> ",
+        "Answer": "<p>Yapısal dijital video kavramı, görüntü dosyalarının hata, gürültü, sıkıştırma ve geri bildirim gibi yapısal özelliklerinin yazılım ve algoritmalar aracılığıyla manipüle edilmesine dayanan yeni bir deneysel sinema estetiğini ifade etmektedir? </p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3489087,
+        "Question": "<p>Yeni medyanın üç temel özelliği nedir?</p> ",
+        "Answer": "<p>Yeni medyanın üç temel özelliği vardır:</p> <ul> <li>Etkileşim (Interaction)</li> <li>Kitlesizleştirme (Demassification)</li> <li>Eşzamansızlık (Asekron) </li> </ul>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489088,
+        "Question": "<p>Web 1.0’ın özellikleri nelerdir?</p> ",
+        "Answer": "<p>Web 1.0 (1990 – 2000), kullanıcıların tek yönlü olarak karşıdaki içerikle iletişime geçtiği, statik sitelerden oluşan, geleneksel medyadan farkı olmayan, insanların sadece izleyip dinledikleri, içerik sunan sitelerden oluşmaktaydı. Kullanıcılar başka kullanıcılar ile iletişim kuramaz, web üzerinden alışveriş yapamazlardı. Bu dönem uzmanlar tarafından salt okunur web olarak tanımlanmaktadır </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489089,
+        "Question": "<p>Web 2.0’ın özellikleri nelerdir?</p>  ",
+        "Answer": "<p>Web 2.0 (2000 – 2010) ile sosyal medyanın ön plana çıktığı, insanların da katılabildiği, içerik sunabildiği, yönetebildiği etkileşimli, dinamik ve çift yönlü siteler ortaya çıkmaya başladı. Artık insanlar sadece izleyip dinleyen olmaktan çıkıp aynı zamanda yazabiliyor, içeriğe katkı sağlayabiliyor, bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor hâle geldiler. Paylaşım siteleri, blog sayfaları, e-posta gibi uygulamalar buna örnek gösterilebilir. Bu dönem uzmanlar tarafından sosyal web olarak tanımlanmaktadır.</p>  ",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489090,
+        "Question": "<p>Web 3.0’ın özellikleri nelerdir?</p>  ",
+        "Answer": "<p>Web 3.0 (2010 – 2020) içeriklerin anlamlandırılması olarak tanımlanan, kişiselleştirilmiş deneyim sunan bir süreçtir. Arama ve gezinme geçmişimizi kaydeden tarayıcılar, internette bir arama yaptığımızda arama sonuçlarını geçmiş deneyimlerimizle anlamlandırarak bize kişiselleştirilmiş arama sonuçları verir. Kontrolün insan elinden çıkarak verilerin yapay zekalar tarafından okunup yorumlandığı ve akıllı hâle geldiği süreçtir.  </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489091,
+        "Question": "<p>Yakın gelecekte hayatımızda hissedeceğimiz web 4.0 (2020 – 2030) nasıl bir sistem olacaktır?</p> ",
+        "Answer": "<p>Yakın gelecekte hayatımızda çok daha fazla hissedeceğimiz web 4.0 (2020 – 2030) ise sabit disklerin kullanılmadığı tamamen web üzerinden ve sanallaştırma üzerinden bulut sistemler ile karşımıza çıkacaktır. İnsanların cihazlarına herhangi bir program kurma ihtiyacı olmadan, cihazlarında herhangi bir veri depolamak zorunda kalmadan tüm işlemlerin bulut sistemler üzerinden gerçekleştiği bir altyapı kullanacaktır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489092,
+        "Question": "<p>NPC (Non Player Character) nedir?</p> ",
+        "Answer": "<p>NPC (Non Player Character): bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489093,
+        "Question": "<ul> <li>Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için hangi basamakları bilmek gerekir?</li> </ul> ",
+        "Answer": "<p>Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için şu basamakları bilmek gerekir:</p>  <ol> <li>Karakteri ve model türünü tasarlama,</li> <li>Modelleme için hazırlık aşamasında eskiz oluşturma,3 boyutlu programda karakteri modelleme,</li> <li>Karakterin dokularını hazırlama ve UV doku koordinatlarını haritalama,</li> <li>Dokular ve kabartma haritaları oluşturma, 6. Animasyon öncesi karakter ağına (mesh) iki ayaklı bir iskelet uygulama,</li> <li>Oyun sırasında bir oyun motoru tarafından çağrılacak animasyon dizileri oluşturma.</li> </ol>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489094,
+        "Question": "<p>Oyun motoru nedir?</p> ",
+        "Answer": "<p>Oyun motoru, programlama dilleri ile oluşturulan, içerisinde çeşitli fonksiyonları, görsel kütüphaneleri barındıran, oyun geliştirmek için kullanılan programlardır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489095,
+        "Question": "<p>Unreal engine nedir?</p> ",
+        "Answer": "<p>Unreal Engine, Epic Games şirketinin 1998 yılında C++ kullanarak geliştirdiği oyun motorudur. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489096,
+        "Question": "<p>Filmlerde ve oyunlarda kullanılan nesneler hangi sistemle oluşturulmaktadır?</p> ",
+        "Answer": "<p>Filmlerde ve oyunlarda kullanılan nesneler, poligon geometri sistemi ile oluşturulmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489097,
+        "Question": "<p>Nanite özelliği neyi sunmaktadır?</p> ",
+        "Answer": "<p>Nanite özelliği oyunlarda yüksek çözünürlükten feragat etmeden gerçekçi deneyimler yaşamamızı sağlamakta, görüntü kalitesinden ödün vermeden geometrik ayrıntıları daha gerçekçi şekilde sunmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489099,
+        "Question": "<p>Unreal Engine 5’te kullanılan ışığın doğal bir şekilde ortama dinamik olarak uyum sağlamasına imkân tanıyarak görsel kaliteyi arttıran ve geliştiricilerin ışık haritası oluşturmasını pratik bir hâle getiren aydınlatma aracı nedir?</p> ",
+        "Answer": "<p>Unreal Engine 5’te kullanılan ışığın doğal bir şekilde ortama dinamik olarak uyum sağlamasına imkân tanıyarak görsel kaliteyi arttıran ve geliştiricilerin ışık haritası oluşturmasını pratik bir hâle getiren aydınlatma aracı “Lumen” dir. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489101,
+        "Question": "<p>Oyunlar, ana karakter üzerinden oynandığı için oyuncunun yönlendirdiği karakter sürekli olarak hareket hâlindedir ve genelde devamlı olarak ekranda, oyuncunun gözü önündedir. Bu nedenle oyunun ana karakterinin de gerçekçi olarak modellenmesi gerekmektedir. Sabit nesneler foto gerçekçi bir şekilde modellenerek oyuna yerleştirilebilirken devamlı hareket hâlinde olan ana karakterde zorluklar ortaya çıkmaktadır. Özellikle karakterin ten dokusu ve rengi, mimikleri, dudak ve vücut hareketleri oyuncuyu gerçeklik algısından uzaklaştırmaktadır. Bu sorunu ortadan kaldırmak için Unreal Engine 5 ile kullanılan program nedir?</p> ",
+        "Answer": "<p>Söz konusu sorunu ortadan kaldırmak için Unreal Engine 5 ile kullanılan program Meta Human Creator’dur.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489102,
+        "Question": "<p>Dataprot adlı web sayfasında yayımlanan rapora göre ortalama bilgisayar oyuncusu yaşı kaçtır?</p>  ",
+        "Answer": "<p>Dataprot adlı web sayfasında yayımlanan rapora göre ortalama bilgisayar oyuncusu yaşı 35’tir.  </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489103,
+        "Question": "<p>Klasik reklamcılıkla oyunlar içerisine yerleştrme şeklindeki reklamcılık arasında ne fark vardır?</p> ",
+        "Answer": "<p>Klasik reklamcılıkta, hedef kitlenin reklamı o anda izleyip izlemediği ölçülememektedir. Reklam ekranda olduğu esnada kullanıcı başka bir şeyle ilgileniyor olabilir. Fakat oyunlar içerisine yerleştirilen reklamlarda oyuncu o anda oyunu oynadığı için reklama maruz kalmakta ve her koşulda marka hedef kitlesine ulaşmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489104,
+        "Question": "<p>Klasik reklamcılıkla oyunlar içerisine yerleştrme şeklindeki reklamcılık arasında ne fark vardır?</p> ",
+        "Answer": "<p>Klasik reklamcılıkta, hedef kitlenin reklamı o anda izleyip izlemediği ölçülememektedir. Reklam ekranda olduğu esnada kullanıcı başka bir şeyle ilgileniyor olabilir. Fakat oyunlar içerisine yerleştirilen reklamlarda oyuncu o anda oyunu oynadığı için reklama maruz kalmakta ve her koşulda marka hedef kitlesine ulaşmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489105,
+        "Question": "<p>Sanal konserler nasıl tanımlanmaktadır?</p> ",
+        "Answer": "<p>Sanal konserler, sanal bir avatarın suretinin sanal gerçeklik içinde sanal bir sahneye yansıtılarak, önceden kaydedilmiş müzikle senkronize edilen bir performans olarak tanımlanmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489106,
+        "Question": "<p>İlk sinema filmi özel efektini kim hangi yılda kullanmıştır?</p> ",
+        "Answer": "<p>İlk sinema filmi özel efektini Alfred Clark 1895’te kullanmıştır. </p> ",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489107,
+        "Question": "<p>1897 yılında Albert II Smith Humpty Dumpty Circus filiminde hangi tekniği bulmuştur.</p> ",
+        "Answer": "<p>1897 yılında Albert II Smith, durdurma hilesini kullanarak çektiği Humpty Dumpty Circus filmi ile stop motion tekniğini bulmuştur.  </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489108,
+        "Question": "<p>Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark eden ve bunun gibi görsel yanılgıları kullanarak 500’ün üzerinde kısa film çeken “Sinema büyücüsü” lakaplı yönetmen kimdir?</p> ",
+        "Answer": "<p>Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark eden ve  bunun gibi görsel yanılgıları kullanarak 500’ün üzerinde kısa film çeken “Sinema büyücüsü” lakaplı yönetmen Georges Méliès’tir. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489109,
+        "Question": "<p>“Traveling Matte” tekniğini kim hangi yılda bulmuştur?</p> ",
+        "Answer": "<p>“Traveling Matte” tekniğini  Frank Williams 1918 yılında bulmuştur. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489110,
+        "Question": "<p>Traveling matte tekniği nedir?</p> ",
+        "Answer": "<p>1910’larda bulunan cam boyama tekniği ile filmde yer alacak sabit görseller bir camın üzerine çizilerek kameranın önüne yerleştirildi. Bu teknik ile büyük yapıların inşa edilmesine gerek kalmadı ve film maliyetleri düşürülmüş oldu. Bu tekniğin başarılı bir şekilde uygulanabilmesi için kameranın sabit olması gerekiyordu. Bu problemi aşabilmek için 1918’de Frank Williams “Traveling Matte” tekniğini buldu. Bu teknik kameranın sabit kalma zorunluluğunu ortadan kaldırıyordu. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489111,
+        "Question": "<p>Yellowscreen tekniğinin kullanıldığı, gerçek oyuncularla animasyon karakterlerin aynı sahnelerde bir arada oldukları 1964 tarihli Robert Stevenson tarafından yönetilen ve en iyi özel efekt dalında akademi (Oscar) ödülü alan film hangisidir?</p> ",
+        "Answer": "<p>Yellowscreen tekniğinin kullanıldığı, gerçek oyuncularla animasyon karakterlerin aynı sahnelerde bir arada oldukları 1964 tarihli Robert Stevenson tarafından yönetilen ve en iyi özel efekt dalında akademi (Oscar) ödülü alan film Mary Poppins’tir. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489112,
+        "Question": "<ul> <li>Oyuncuların arka plandan ayrılması gereken çekimlerde neden yeşil renk mavi rengin yerini almıştır?</li> </ul> ",
+        "Answer": "<p>Oyuncuların arka plandan ayrılması gereken çekimlerde neden yeşil renk mavi rengin yerini almıştır çünkü yeşil, maviye göre,</p> <ul> <li>Teknik olarak kontrol edilmesi daha kolaydır.</li> <li>Maliyet açısından daha ucuzdur.</li> <li>Dijital ekranlarda daha parlak durduğu için ayırt edilmesi daha kolaydır.</li> <li>İstenen etkiyi alabilmek için daha az aydınlatılmaya ihtiyaç duyar.</li> <li>Mavi renk dış çekimlerde gökyüzü rengi ile karışabildiği için yeşil renk daha başarılı sonuçlar verir.</li> <li>Kostümlerde ve setlerde neredeyse hiç tercih edilmeyen bir renk olduğu için arka planla karışma ihtimali yoktur.</li> <li>Mavi gözler ve mavi kot pantolonlar da mavi ekran efekti uygulandığında “kaybolmaya” karşı savunmasız olduğu için yeşil, daha güvenli bir renk olarak kabul edilmiş ve kullanılmaya başlanmıştır. Bu nedenle artık bu teknoloji Green Screen (Yeşil ekran) olarak adlandırılmaktadır. </li> </ul>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489113,
+        "Question": "<p>CGI’ın İngilizce ve Türkçe açılımı nedir?</p>  ",
+        "Answer": "<p>CGI ‘ın İnhilizce ve Türkçe açılımı Computer Generated Imagery - Bilgisayarda Oluşturulmuş Görüntüler’dir. </p> ",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489114,
+        "Question": "<p>CGI oluşturulurken kullanılan programlardan kaba modellemeleri yapmak için kullanılan genelde hangisidir?</p> ",
+        "Answer": "<p>CGI oluşturulurken kaba modellemeleri yapmak için genellikle kullanılan program Blender’dır.   </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489115,
+        "Question": "<ul> <li>CGI oluşturulurken refining ve displacement işlemleri hangi programla yapılır?</li> </ul> ",
+        "Answer": "<p>CGI oluşturulurken refining ve displacement işlemleri Maya programı ile yapılır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489116,
+        "Question": "<p>CGI oluşturulurken dokular ve bumpmap için hangi program kullanılır?</p>  ",
+        "Answer": "<p>CGI oluşturulurken dokular ve bumpmap için Mudbox programı kullanılır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489117,
+        "Question": "<p>CGI oluşturulurken Color correction işleminden sonra görüntüye son hali hangi programla verilir?</p> ",
+        "Answer": "<p>CGI oluşturulurken Color correction işleminden sonra görüntüye son hali After effects programı ile verilir. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489118,
+        "Question": "<p>CGI ile elde edilen görüntülerin kurgulanması hangi program ile yapılır?</p> ",
+        "Answer": "<p>CGI ile elde edilen görüntülerin kurgulanması Premier  Pro ile yapılır.  </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489119,
+        "Question": "<p>CGI ile elde edilen görüntülerde ses ve videonun senkronizasyonu hangi programla yapılır?</p> ",
+        "Answer": "<p>CGI ile elde edilen görüntülerde ses ve videonun senkronizasyonu Adobe Audition programı ile yapılır.  </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489120,
+        "Question": "<p>CGI görüntüleri kullanılmış olan filmin çeşitli sıkıştırmacodecleri kullanılarak dışarı aktarılması için hangi program kullanılır?</p> ",
+        "Answer": "<p>CGI görüntüleri kullanılmış olan filmin çeşitli sıkıştırmacodecleri kullanılarak dışarı aktarılması için Adobe Media Encoder kullanılır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489121,
+        "Question": "<p>Sinema filmlerinde endüstri standardı kaç fps’dir?</p>  ",
+        "Answer": "<p>Sinema filmleri endüstri standardı olarak 24fps’de  çekilir. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489122,
+        "Question": "<p>Optik motion capture yöntemi nasıl işlemektedir?</p> ",
+        "Answer": "<p>Optik motion capture yönteminde  hareketi izlemek için üst düzey kameralara ihtiyaç duyulur. Performansı gerçekleştirecek olan aktör üzerinde çeşitli yansıtıcı işaretçiler bulnan özel olarak üretilmiş bir kıyafet giyer.  İşaretler oyuncunun eklem yerlerine yerleştirilir. Oyuncu hareket ettikçe eklemler de hareket eder ve işaretler arasında ortaya çıkan pozisyon ve açılar kameralar tarafından kaydedilerek bilgisayara aktarılır ve X Y Z koordinatları olarak sayısallaştırılır. Bilgisayara aktarılan bu veriler 3 boyutlu programlarla oluşturulan iskelet biçimindeki karakter ile senkronize edilir, işaret noktaları iskeletin işaret noktaları ile eşleştirilir ve karakter tüm hareketleri yapmaya başlar. Kaydedilen bu görüntülerin her karesi güçlü bilgisayarlarda tek tek render edilerek son hâlleri verilir. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489123,
+        "Question": "<p>Motion capture tekniğindeki ikinci yöntem olan Inertial Motion Capture (Hareketsiz hareket yakalama) tekniği daha çok nerelerde kullanılır?</p> ",
+        "Answer": "<p>Inertial Motion Capture (Hareketsiz hareket yakalama) tekniği daha çok oyunlarda, animasyonlu canlı yayınlarda ve sanal gerçeklik çalışmalarında kullanılır. </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489124,
+        "Question": "<p>Örneğin, bir arabayla yolda ilerleme sahnesinde, çekimin yapıldığı araç çukurlar ya da tümsekler tarafından sarsılmakta ve virajlarda çekim açısı değişmektedir. Ancak stüdyodaki araç sabittir ve görüntüler arasında uyumsuzluk oluşur. Bu sorun nasıl çözülmüştür?</p> ",
+        "Answer": "<p>LED duvar tekniği kullanılırken bu sorun Unreal Engine oyun motoru ile çözülmüştür. 3D sanatçıları tarafından tasarlanan 3 boyutlu görüntüler unreal engine kullanılarak LED ekrana yansıtılmakta ve görüntü kayıt yapan kamera ile senkronize edilerek arka plan görüntüsünün kamera hareketleri ile uyumlu bir şekilde hareket etmesi sağlanmaktadır. Böylece arka plan ile öndeki görüntünün bir bütün olarak algılanması sağlanmaktadır.  </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3489125,
+        "Question": "<p>LED duvar yönteminin yeşil ekrana göre en önemli avantajı nedir?</p> ",
+        "Answer": "<p>LED duvar yönteminin yeşil ekrana göre en önemli avantajı şudur: Yeşil ekran yönteminde oyuncuların ve parlak yüzeylerin üzerine “spill” denilen ve yeşil panolardan gelen yeşil bir ışık yansır. Bu da gerçekçiliği azaltmaktadır. Parlak yüzeylere yansıyan yeşil rengin yerine sonradan eklenen görüntünün yansımasının yerleştirilmesi ise zorlu bir süreçtir. Led duvar yönteminde oyuncuların ve parlak yüzeylerin üzerine zaten o anda arkadan bulunan görüntü yansımakta ve böylece gerçekçilik artmakta ve sonradan yansıma yerleştirmeye gerek kalmamaktadır.  </p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3488899,
+        "Question": "<p>Verinin enformasyona ve bilgiye dönüşüm süreci nasıl gerçekleşmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Canlılar, duyu organları aracılığı ile topladıkları analog verileri dijital verilere dönüştürür. Benzer şekilde makineler de sensörleri (algılayıcılar) aracılığı ile dış ortamdan topladıkları analog verileri dijital verilere dönüştürürler. Canlılar dijital verileri nöronlar aracılığı ile beyinlerinde işler, benzer verileri ilişkilendirir, kıyaslamalar aracılığıyla çıkarımlarda bulunur. Makineler ise dijital verileri işlemci adı verilen merkezi işlem birimi aracılığıyla işleyerek gruplama, ilişkilendirme ve çıkarımlarda bulunurlar. Canlılar ve makinelerde işlenen veriler gruplandırıldığı, ilişkilendirildiği yani işlendiği durumda veri işlenmiş ve enformasyon biçimini almış olur.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488900,
+        "Question": "<p>Veri nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Veri kavramı, ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir. Bir başka ifade ile ölçüm, deney, gözlem ya da araştırma yoluyla elde edilen işlenmemiş ham hâldeki enformasyon parçacığıdır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488901,
+        "Question": "<p>Büyük verinin sahip olması gereken özellikler nelerdir?</p>",
+        "Answer": "<p>Büyük verinin sahip olması gereken 5 özelliği vardır. Bu özellikler şunlardır:<br />• Hacim olarak yüksek kapasitede veri içermelidir.<br />• Farklı özelliklere sahip birçok veriden oluşmalıdır.<br />• Sürekli ve yüksek hızla güncellenmeli ve ulaşılabilir olmalıdır. <br />• İşlenebilmesi için değerli verileri içermelidir.<br />• Büyük veri ihtiyaca yönelik doğru verilerden oluşmalıdır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488902,
+        "Question": "<p>Veri madenciliği nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Belirli bir ihtiyacı karşılamak ya da bir amacı gerçekleştirmek için büyük verilerin ileri düzey tekniklerle analiz edilmesi sonucu işlenerek değerli verilerin elde edilmesi sürecine veri madenciliği denir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488903,
+        "Question": "<p>Veri madenciliği hangi süreçleri içermektedir?</p>",
+        "Answer": "<p>Veri madenciliği 7 farklı süreci içermektedir. Bu süreçler şunlardır:<br />• veri tanımlama,<br />• veri toplama ve filtreleme,<br />• veri dönüşümü,<br />• veri doğrulama ve temizleme,<br />• veri birleştirme ve sunma,<br />• veri analizi ve veri görselleştirmedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488904,
+        "Question": "<p>Yapay zekâ nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Doğadaki canlıların davranışlarını makinelerin de gerçekleştirebilmelerini sağlamak amacıyla, canlı sistemleri ve insan beynini model alan yapay zekâ çalışmaları; günlük hayatın farklı alanlarında ürünler vermesinin yanında, tahmin, sınıflandırma, kümeleme gibi amaçlar için de kullanılmaktadır. Baker ve Smith (2019) yapay zekâyı, bilgisayarların<br />karşılaştıkları problemleri makine öğrenmesi yolu ile çözerek bilişsel görevleri yerine getirme olarak tanımlamışlardır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488905,
+        "Question": "<p>Derin öğrenme nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Yapay sinir ağları gibi insan anatomisinden örnek alınarak geliştirilen algoritmalar geliştirerek makinelerin farklı durumlara yönelik insan gibi düşünüp yorum yapabilmesini<br />sağlama sürecine derin öğrenme adı verilebilir. Derin öğrenme makinenin insanlar gibi deneyimleyerek verilen örnekler üzerinden çıkarım yapmasını ve böylece en iyi sonucu üretmesini sağlamaktadır. Derin öğrenme, yapay sinir ağlarını temel alan makine öğrenmesi alt kümesidir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488906,
+        "Question": "<p>Makine öğrenmesi nasıl gerçekleşmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Makineler verilerle öğrenir. Makineler, mevcut verilerle, matematiksel algoritmalara dayalı hesaplamalar yaparak bu verilerden bir kurallar bütünü, bir bağlam olarak modeller üretir. Makine öğrenmesinin temelinde mevcut verilerden oluşmuş modeller vardır. Yani makinenin mevcut verilerden yola çıkarak belirli matematiksel algoritmalara<br />dayalı hesaplamalar yaparak model oluşturduğu an öğrenmeye başlamıştır diyebiliriz.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488907,
+        "Question": "<p>Makine öğrenmesi nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Makine öğrenmesi bilgisayarlara karar verme yeteneği kazandırılmasıdır. Makine öğrenmesi, bir problemi o probleme ait veriye göre modelleyen bilgisayar algoritmalarının genel adıdır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488908,
+        "Question": "<p style=\"text-align: justify;\">Öğrenenlerin ödevlerini ve sınavlarını notlandırmadan önce öğrenci ürünlerinde kopya ya da intihal algılamak ve sınav esnasında öğrenene ait web kamerası ve sensörlerle öğrenenin kopya çekip çekmediğini denetlemek amacıyla hangi algoritmalar kullanılmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Öğrenenlerin ödevlerini ve sınavlarını notlandırmadan önce öğrenci ürünlerinde kopya ya da intihal algılamak ve sınav esnasında öğrenene ait web kamerası ve sensörlerle öğrenenin kopya çekip çekmediğini denetlemek amacıyla makine öğrenmesi algoritmalarını kullanabiliriz.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488909,
+        "Question": "<p>Naive Bayes algoritması ne için kullanılmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Naive Bayes algoritmasının temel çalışma mantığı, belirli bir olay meydana geldiğinde araştırılan diğer olayın oluşma olasılığı nedir sorusunu sormaktır. Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında bayes algoritmaları kullanılabilir. Çevrimiçi öğrenme ortamlarında Naive Bayes algoritması kullanılarak sistemden ayrılma ihtimali olan öğrenenleri tahmin etmek amacıyla kullanılabilir. Ayrıca çok sayıda belge biçimindeki öğrenme kaynaklarının da otomatik bir şekilde sınıflandırılması sağlanabilir.<br /><br /></p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488910,
+        "Question": "<p style=\"text-align: justify;\">Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için hangi istatistiksel yaklaşım kullanılmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Lojistik regresyon, bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşımdır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488911,
+        "Question": "<p>Makine öğrenmesi öğrenme şekline göre nasıl sınıflanmaktadır? </p>",
+        "Answer": "<p style=\"text-align: justify;\">Makine öğrenmesi öğrenme şekline göre ikiye ayrılmaktadır. Bunlar denetimli öğrenme ve denetimsiz öğrenmedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488912,
+        "Question": "<p>Verinin enformasyona dönüşüm sürecinin son aşaması nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Veriyi araştırma, toplama, doğrulama, temizleme, analiz etme ve görselleştirme aşamalarını içererek verinin enformasyona dönüşüm sürecinin son aşaması veri görselleştirmedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488913,
+        "Question": "<p>Veri görselleştirmenin amacı nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Veri görselleştirmenin amacı, bireylerin görme duyusunu uyararak karmaşık verileri anlamlandırmalarına yardımcı olmaktır. </p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488914,
+        "Question": "<p>Veri görselleştirmenin tarihsel gelişimi ne zaman başlamıştır?</p>",
+        "Answer": "<p>Veri görselleştirmenin tarihsel gelişimi tarihsel süreç içerisinde 1600’lü yıllardan itibaren başlamıştır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488915,
+        "Question": "<p style=\"text-align: justify;\">Bilgisayar programları aracılığıyla gerçekleştirilen veri görselleştirmenin ilk günlerinde, enformasyonları tabloya, çubuk grafiğine veya pasta grafiğine dönüştürmek için hangi araç kullanılmaktaydı?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Bilgisayar programları aracılığıyla gerçekleştirilen veri görselleştirmenin ilk günlerinde, enformasyonları tabloya, çubuk grafiğine veya pasta grafiğine dönüştürmek için Microsoft Excel elektronik tablosu aracı kullanılmaktaydı.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488916,
+        "Question": "<p>Verileri görselleştirmek için kullanılan araçlara hangi programlar örnek verilebilir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Verileri görselleştirmek için kullanılan araçlara Microsoft Excel, Google Charts, Tableau, Microsoft Power BI, VOSviewer, Python (matplotlib, seaborn, plotly kütüphaneleri), R, Qlik, Datawrapper, Chartlist, Flourish programları örnek olarak verilebilir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488917,
+        "Question": "<p style=\"text-align: justify;\">Hangi görsel analitik platformu büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488918,
+        "Question": "<p>VOSviewer bilgisayar programı hangi amaçla kullanılmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır. VOSviewer’ın veri görselleştirme özellikleri, büyük verilerle çalışırken oldukça kullanışlıdır. VOSviewer, bir alıntı, ortak alıntı veya bibliyografik bağlantı ağına dayalı yayınların, yazarların veya dergilerin haritalarını oluşturmak veya bir ortak oluşum ağına dayalı anahtar kelime haritaları oluşturmak için kullanılabilir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488919,
+        "Question": "<p style=\"text-align: justify;\">Veri görselleştirmesinin gerçekleştirildiği ağ haritasına bakıldığında, makalelerin gerçekleştirildiği ülkeler nasıl sıralanmaktadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Veri görselleştirmesinin gerçekleştirildiği ağ haritasına bakıldığında, makalelerin gerçekleştirildiği ülkelerin sırasıyla Çin, Tayvan ve Türkiye olduğu bilgisi rahatlıkla görülebilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488920,
+        "Question": "<p>IMAGEN uygulamasının kullanıcılar için henüz kullanıma açık olmamasının sebebi nedir?</p>",
+        "Answer": "<p>IMAGEN uygulaması üzerinden üretilecek görsellerin kötü amaçlı kullanımını engellemek için kötü amaçlı kullanım senaryolarının uygulama algoritmalarından temizlenmesi süreci devam ettiği için son kullanıcılar için henüz kullanıma açık değildir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3488857,
+        "Question": "<p>İletişim sözcüğünün Latince anlamı nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">İletişim Latince commun -halk/topluluk- kökünden türetilmiş bir kavram olan communication (iletişim), “bilgi ve düşüncelerin değiş-tokuşunu” ifade eder.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488858,
+        "Question": "<p>Theodrson ve Theodrson’a göre İletişim ne anlama gelmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Theodrson ve Theodrson’a (1969) göre, “İletişim; en az iki kişinin veya grupların toplum içerisinde sembollerle duygu, düşünce, heyecan, fikir veya eylemlerini birbirlerine aktarması olarak ifade eder”.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488859,
+        "Question": "<p style=\"text-align: justify;\">Görsel iletişimle algılanan ve belleğe kaydedilen anlamlar nasıl bir özelliğe sahiptir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Görsel iletişimle algılanan ve belleğe kaydedilen anlamlar uzun süreli bir kalıcılık sağlarlar. Örnek verilecek olursa trafik işaretleri evrensel göstergelerle ve kabul görmüşlükle oluşturulan bir görsel dil olduğu için kolaylıkla anlaşılmaktadır. </p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488860,
+        "Question": "<p>Sözel ve görsel iletişimdeki merkezler nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Sözel iletişimde merkez alıcı iken, görsel iletişimde merkez, “anlamlandırılan görseldir”.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488861,
+        "Question": "<p>“Bildirişim” terimi ne anlama gelmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Tüm dünyayı saran enformatik çağı içerisinde “iletişim” terimi kadar önemli bir terimde “bildirişim” terimidir. Bildirişim, bildiri ile oluşturulan iletişimin karşı tarafa yapılması sonucu buradaki alıcıların verici durumuna geçerek geri bildirim gerçekleşmesiyle sonuçlanır. Böylece bir aktarım değiş/tokuşu söz konusudur.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488872,
+        "Question": "<p style=\"text-align: justify;\">Görsel iletişimin bir parçası olan göstergeler ortaya çıkış nedenlerine göre nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Görsel iletişimin bir parçası olan göstergeleri (im, işaret, alamet, simge vs.) ortaya çıkış nedenlerine göre \"Saymaca Göstergeler\" ve \"Simgesel Göstergeler\" olarak ikiye ayrılabilir. </p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488873,
+        "Question": "<p style=\"text-align: justify;\">Anlam/içerik ilişkisi anlamında herhangi bir neden sonuç bağlamı hakkında bilgi vermeyen göstergeler hangi göstergelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Anlam/içerik ilişkisi anlamında herhangi bir neden sonuç bağlamı hakkında bilgi vermeyen göstergeler Saymaca Göstergelerdir. Örnek olarak da “SÖZ” kavramını verebiliriz. Sadece türetildiği toplum tarafından anlamlandırma sürecine tabi olurlar.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488874,
+        "Question": "<p style=\"text-align: justify;\">Toplumun daha geniş bir kısmı tarafından kolaylıkla anlamlandırılabilen ve biçimsel ifadesi evrensel bir kabul görmüşlük ifade eden göstergeler hangi göstergelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Toplumun daha geniş bir kısmı tarafından kolaylıkla anlamlandırılabilen ve biçimsel ifadesi evrensel bir kabul görmüşlük ifade eden göstergeler Simgesel Göstergelerdir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488876,
+        "Question": "<p>Gösterge sözcüğü ne anlama gelmektedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Gösterge sözcüğü İngilizcede sıkça kullanılan işaret anlamına gelen “sign” ve Fransızcada kullanılan “Signe” sözcüğüyle neredeyse aynı anlamda kullanılır. Türkçede dal, nişan, im, işaret, alamet sözcükleriyle anlamdaştır. Gösterge gösteren ve gösterilen kavramını<br />içerisinde birlikte barındırır. Bildiri veya mesajın fiziksel anlatımıdır. Bu dil içerisindeki sözcükler, müzik içerisindeki notalar, sesler, matematikteki formüller, resimdeki çizgiler veya renklerde birer gösterge niteliği taşımaktadır. Göstergeler birey ve bireyler arası bildirişimin bir nevi fiziksel anlatımıdır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488879,
+        "Question": "<p>Kaç çeşit gösterge vardır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Göstergeler algılama gerçekleşmemiş bir durumu işaret eden, algılanma gerçekleşmiş bir durumu açıklar. Doğal ve yapay olarak ikiye ayrılırlar.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488881,
+        "Question": "<p style=\"text-align: justify;\">Kararmış bulut göstergesi yağmurun yağacağını işaret ederken hangi gösterge konumundadır?</p>",
+        "Answer": "<p>Kararmış bulut göstergesi yağmurun yağacağını işaret ederken doğal gösterge konumundadır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488883,
+        "Question": "<p style=\"text-align: justify;\">Bir polisin trafikte kullandığı beden dili hangi gösterge konumundadır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Bir polisin trafikte kullandığı beden dili yapay göstergeler arasında yer alır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488884,
+        "Question": "<p>Göstergelerin temel özellikleri ve yapısal ifade biçimleri nelerdir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Göstergeler dil bilimciler için temel yapı taşıdır. Göstergelerin temel özellikleri ve yapısal ifade biçimi açıklanacak olursa:<br />• Anlamın fiziksel bir ifade biçimidir.<br />• Kendi anlamı dışında başka anlamlara sızma yaratır.<br />• İnsanlarca gösterge olarak tanımlanıp algılama sonrası bir anlam taşıması gerekir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488890,
+        "Question": "<p>Sembol nedir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Sembol, toplumsal katmanların üzerinde yoğun bir uzlaşı sağlayarak kavramlara veya nesnelere hatta işaretlere bir anlam sorumluluğu yüklediği şeylerdir. Dilimizde sembol ve simge sözcükleri neredeyse anlamdaş olarak kullanıldığı sık sık görülür.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488891,
+        "Question": "<p style=\"text-align: justify;\">Konuşma dilinin seslerinden yola çıkarak üretilen simgesel işaretler ne olarak adlandırılır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Konuşma dilinin seslerinden yola çıkarak üretilen simgesel işaretler FONOGRAM olarak adlandırılır. Alfabede yer alan sesli/sessiz harfler iyi birer örnektir. </p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488892,
+        "Question": "<p>Kavramsal nitelik olarak bir sözcüğü veya kelimeyi temsil etmeyi amaçlayan yazılı veya resimli sembollere ne denir?</p>",
+        "Answer": "<p>Kavramsal nitelik olarak bir sözcüğü veya kelimeyi temsil etmeyi amaçlayan yazılı veya resimli sembollere LOGOGRAM denir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488893,
+        "Question": "<p>Semboller kendi içerisinde nasıl sınıflandırılmaktadır? </p>",
+        "Answer": "<p style=\"text-align: justify;\">Sembolleri kendi içerisinde sınıflandırmak mümkündür. Bu sınıflandırma imge ve kavramlar üzerinden yola çıkılarak oluşur. İmge özelliği taşıyan semboller (piktogram) ve kavram özelliği taşıyan semboller (ideogram) olarak sınıflandırılır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488894,
+        "Question": "<p>Göstergebilimin bir bilim dalı olarak ele alınmasını kim sağlamıştır?</p>",
+        "Answer": "<p style=\"text-align: justify;\">İsviçreli olan ve dilbilimci olarak tanınan Saussure’ün 1916’da yayımlanan Genel Dilbilim<br />Dersleri, göstergebilimin bir bilim dalı olarak ele alınmasını sağlamıştır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488895,
+        "Question": "<p>Göstergeler ister dil dizgesi olsun ister görsel göstergeler olsun semiyotik açıdan sistemli bir şekilde incelenirken bu kapsamda hangi inceleme modelleri ön plana çıkmaktadır? </p>",
+        "Answer": "<p style=\"text-align: justify;\">Göstergeler ister dil dizgesi olsun ister görsel göstergeler olsun semiyotik açıdan sistemli bir şekilde incelenmelidir. Bu kapsamda aşağıdaki gibi üç tür başlıkla bir öneri sunulabilir:</p> <p style=\"text-align: justify;\">Syntax: Birden fazla gösterge arasında hipotetik(varsayımsal) ilişkileri ve bağıntıyı inceler. </p> <p style=\"text-align: justify;\">Semantik: Göstergeler tarafından imlenen nesneler veya onlarla ilişkilenen kavramların anlamsal bağını irdeler.</p> <p style=\"text-align: justify;\">Pragmatik: Göstergeleri alımlayan ve verici konumunda olan öznelerle göstergeler arasındaki bağıntıyı irdeler.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488896,
+        "Question": "<p>Göstergebilimin yorumlama yetisi ve tartışma yetisini güçlü kılabilmesi açısından en çok kullanılan anlamlama türleri hangileridir?</p>",
+        "Answer": "<p>Göstergebilimin yorumlama yetisi ve tartışma yetisini güçlü kılabilmesi açısından en çok kullanılan anlamlama türleri düzanlam ile yananlamdır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488897,
+        "Question": "<p>Bir sözün ait olduğu toplum ve kültürde fazlasıyla kabul görmüş anlamı dışında başka bir söz olarak ifade edilmesine ya da kullanılmasına ne denir?</p>",
+        "Answer": "<p style=\"text-align: justify;\">Bir sözün ait olduğu toplum ve kültürde fazlasıyla kabul görmüş anlamı dışında başka bir söz olarak ifade edilmesi ya da kullanılması eğretileme (metafor) olarak tanımlanır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3488898,
+        "Question": "<p>Düzdeğişmece sözcüğü etimolojik olarak ne anlama gelmektedir?</p>",
+        "Answer": "<p>Düzdeğişmece (Metonomi/Metonymy), söz için dilbilim kapsamında türetilmiş bir terimdir. Bir nesneyi, objeyi veya imgeyi çağrıştırmak, temsiliyet kazandırmak için çağrışımsal bir parçasından ya da ayrıntısından yararlanmak olarak düşünülebilir. Etimolojik (kelime köken bilim) açısından düzdeğişmece “yerine koyma/adlandırma” terimlerinden türemiştir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    }
+]

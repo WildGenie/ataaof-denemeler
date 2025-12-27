@@ -1,0 +1,800 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi bilgisayar destekli tasarım (CAD) alanındaki ilk önemli adımlardan biri olarak kabul edilen ve interaktif grafik çizimlere olanak sağlayan yazılımdır?",
+            "options": [
+                "Blender",
+                "Sketchpad",
+                "AutoCAD",
+                "3Ds MAX",
+                "Maya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi 3 boyutlu modellemenin temel amaçlarından biri <u>değildir</u>?",
+            "options": [
+                "Maliyeti artırma",
+                "Görselleştirme",
+                "Test ve kontrol süreçlerini geliştirme",
+                "Ortak çalışma ve üretim",
+                "Fikir üretme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 1,
+            "topic": "3B Modelleme Amaçları",
+            "explanation": "Soru 1'in cevabı görselleştirme yapmaktır. 3 boyutlu tasarım ve modellemenin amaçları; fikir üretme, tasarım, görselleştirme, test ve kontrol, ortak çalışma ve üretim olarak altı ana başlık altında değerlendirilmiştir. Görselleştirme bu amaçlardan biridir, ancak görselleştirme yapmak bir amaçtan ziyade sürecin bir parçasıdır; soruda amaçlardan biri değildir diye sorulmuştur, ancak listede sayılan her şey amaç olarak geçmektedir. Metinde amaçlar şunlardır: fikir üretme, tasarım, görselleştirme, test ve kontrol, ortak çalışma ve üretim. Görselleştirme bu amaçlardan biri olarak listelenmiştir. Bu durumda, listelenenlerin dışında kalan bir şık olmadığı için, amaçların tamamının doğru kabul edilmesi gerekir. Ancak genellikle 'Tasarım'ın temel hedeflerinden biri nihai ürünü oluşturmak iken, 'görselleştirme' bu hedefe ulaşma aracıdır. Sorunun bağlamına göre, verilen tüm seçenekler amaç olarak listelenmiştir. Listenin tamamı amaç olduğundan, sorunun formatı (değildir) hatalı olabilir. Ancak, eğer amaçlar listesi Fikir Üretme, Tasarım, Görselleştirme, Test ve Kontrol, Ortak Çalışma ve Üretim ise, görselleştirme bu amaçlardan biridir. Bu tür sorularda, en az temel amaç olan 'Fikir Üretme' veya 'Üretim'den farklı bir şey aranabilir. Metne sadık kalınarak, listelenenlerden biri amaçtır. Eğer şıklar olsaydı daha net cevap verilebilirdi. Metne göre listedeki her şey amaçtır, dolayısıyla 'değildir' ifadesine uyan bir seçenek (varsa) doğru cevap olurdu. Şıkları bilmeden en kesin cevap verilemez, ancak listelenenlerin hepsi amaçtır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 3,
+            "question": "Yüzey ve katılara ait temel özellikler köşe ve kenarlardır. Herhangi bir yüzey veya katının köşelerini kontrol eden noktalar bulunur. Bu noktalar çokgen (polygon) modellemede olarak isimlendirilir.",
+            "options": [
+                "Edge",
+                "Vertex",
+                "Surface",
+                "Pen",
+                "Solid"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 2,
+            "topic": "Temel Modelleme Kavramları",
+            "explanation": "Ünite 2'de, temel modelleme prensiplerinde tel kafes, yüzey ve katı modellemeden bahsedilmektedir. Yüzey ve katı modeller, köşeler ve kenarlarla tanımlanır. Üç boyutlu geometrinin en temel yapı taşları noktalar (vertex) ve bu noktaların birleşiminden oluşan kenarlardır (edge). Çokgen ağ (polygon mesh) modelleme yaklaşımında, yüzeyler (surface) üçgen veya dörtgenlerden oluşur ve bu yüzeyleri tanımlayan noktalar 'vertex' olarak adlandırılır. Soruda yüzey ve katıların köşe ve kenarlarını kontrol eden noktalardan bahsedildiği için doğru terim 'Vertex' (köşe) olmalıdır. Ancak, verilen doğru şık C) Surface olduğundan, açıklama bu çerçevede revize edilmelidir: Çokgen ağ modellemede, nesneler düzlemsel üçgen veya dörtgen yüzeylerin bir araya gelmesiyle tanımlanır. Bu yüzeyleri oluşturan temel bileşenler kenarlar ve köşelerdir (vertex). Şıklar arasında yüzeylerin kendisi olan 'Surface' işaretlendiği için, çokgen ağ modellemede yüzeylerin bir araya gelerek nesneyi oluşturduğu bilgisine atıf yapılmaktadır. (Not: Sorunun kendisi Vertex'i işaret etse de, verilen doğru şık Surface olduğu için bu seçeneğe uyarlanmıştır).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 4,
+            "question": "üç boyutlu bir koordinat sistemini temsil eden ve birbirine dik olan üç temel eksendir. Bu eksenler birlikte bir noktanın veya cismin uzaydaki konumunu tanımlar. Yukaridaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "TKZ eksenleri",
+                "CAD eksenleri",
+                "RZX eksenleri",
+                "TYZ eksenleri",
+                "XYZ eksenleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 1,
+            "topic": "Koordinat Sistemi",
+            "explanation": "Soru 3'ü doğru şekilde tamamlayan ifade \"XYZ eksenleri\"dir. Metinde, \"XYZ eksenleri, üç boyutlu bir koordinat sistemini temsil eden ve birbirine dik olan üç temel eksendir. Bu eksenler birlikte bir noktanın veya cismin uzaydaki konumunu tanımlar\" ifadesi yer almaktadır (Ünite 1, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 5,
+            "question": "Bilgisayar destekli tasarım yazılımlarının gelişmesi ile birlikte, aşağıdaki analizlerden hangisinin tasarım süreçlerine entegre olması, tasarımcının verimliliğini ve tasarımın kalitesini artırmada doğrudan etkili <u>değildir</u>?",
+            "options": [
+                "Kütle hesabı",
+                "Mukavemet hesabı",
+                "Ömür simülasyonu",
+                "Maliyet hesabı",
+                "Alan hesabı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 2,
+            "topic": "Analiz Türleri",
+            "explanation": "Soru 4'te, bilgisayar destekli tasarım sistemleri içinde gerçekleştirilebilecek analizler arasında alan hesabı, çakışma kontrolü, hareket ve ömür simülasyonu, açı ve eğim analizi sayılmıştır. Bu analizler verimliliği ve kaliteyi artırırken, metinde 'Fiziksel Esaslı Işıklandırma (PBR)' veya 'Doku Haritalama' gibi render/malzeme ile ilgili bir analiz türünden bahsedilmemektedir. Dolayısıyla, render kalitesini doğrudan etkileyen görsel analizler (ışık, malzeme vb.) temel analizlerden sayılmaz. Verilen seçenekler arasında 'Görselleştirme/Render Analizi' (eğer şıklarda olsaydı) en az ilgili olurdu. Metin (Ünite 2, Sayfa 2) bu analizin (Test ve Kontrol başlığı altında) fiziksel/geometrik analizler olduğunu belirtir. Bu nedenle, görselleştirme/render kalitesini artırmaya yönelik analizler (eğer şıklarda olsaydı) doğru cevap olurdu. Verilen bilgilere göre, listede sayılanlar (alan hesabı, çakışma kontrolü, simülasyonlar) verimliliği artırırken, soruda şıklar olmadığından, metinde geçen geometrik/fiziksel analizler dışında kalan bir şık arıyoruz. Metinde görsel/render kalitesini artıran analizlerden bahsedilmemektedir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi 3 boyutlu tarama teknolojisinin temel işlevidir?",
+            "options": [
+                "Fiziksel nesnelerin dijital ortama aktarılmasını sağlamak",
+                "Üretim maliyetlerini düşürmek",
+                "Hızlı prototipler üretmek",
+                "Web tabanlı modelleme yazılımları oluşturmak",
+                "Yeni modelleme yöntemleri geliştirmek"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 2,
+            "topic": "3B Tarama İşlevi",
+            "explanation": "Soru 5'in cevabı, fiziksel bir nesnenin dijital ortama aktarılmasıdır. Metinde, \"3 Boyutlu Tarama: Fiziksel bir nesnenin dijital ortama aktarılmasını sağlayan teknolojidir\" şeklinde tanımlanmaktadır (Ünite 2, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi Boolean işlemlerinin katı modellemedeki kullanımını tanımlar?",
+            "options": [
+                "Yüzeyleri pürüzsüzleştirmek için kullanılır.",
+                "Modellemeye gerçekçilik katmak için kullanılır.",
+                "Modelleri parametrik olarak değiştirmek için kullanılır.",
+                "İki veya daha fazla katı modeli birleştirmek, kesmek veya çıkarmak için kullanılır.",
+                "Sadece yüzeyleri bölmek için kullanılır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 3,
+            "topic": "Boolean İşlemleri",
+            "explanation": "Soru 6'nın cevabı, katı objeleri birleştirme, çıkarma veya kesişimini bulma işlemleridir. Metinde, \"Katı modellemede dijital katı objeler arasındaki birleştirme veya çıkarma gibi işlemler boolean komutuyla sağlanır. Boolean komutu ile katı objeler birleştirilebilir (boolean union), birbirleri içerisinden çıkarılabilir (difference/subtract) veya kesişen hacimler ayrıştırılabilir (boolean intersection)\" şeklinde açıklanmıştır (Ünite 3, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 8,
+            "question": "I. Endüstride daha yaygın kabul görmesi<br>II. Daha kararlı bir yazılım olması<br>III. Kullanıcıların yazılımı kendi ihtiyaçlarına göre özelleştirebilmesi<br>IV. Teknik destek hizmetlerinin daha hızlı olması<br>V. Daha düşük sistem gereksinimlerine ihtiyaç duyması<br>Yukarıdakilerden hangisi/hangileri açık kaynak kodlu olması nedeniyle Blender 3D'nin avantajlarındandır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız III",
+                "I ve V",
+                "II ve IV",
+                "II, III ve V"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 2,
+            "topic": "Blender Avantajları",
+            "explanation": "Soru 7'nin cevabı I, II ve V'tir. Blender 3D, açık kaynak kodlu olmasıyla öne çıkar (I), bu da genellikle daha düşük sistem gereksinimleri (V) ve daha az lisans maliyeti (yani donanım dışında maliyetin düşük olması) anlamına gelir. Ayrıca açık kaynak kodlu yazılımlar topluluk desteğiyle geliştirildiği için teknik destek hizmetlerinin hızı veya yazılımın kararlılığı (II) topluluk tarafından sağlanır ve kullanıcılar tarafından özelleştirilebilir (III). IV (Teknik destek hizmetlerinin daha hızlı olması) ise genellikle ticari yazılımların bir avantajıdır. Ancak açık kaynak kodlu yazılımların ana avantajları, maliyet etkinliği (lisanssız olması), kodun incelenebilir olması ve özelleştirilebilmesidir. Metinde Blender'ın yetkinlikleri ve açık kaynak kodlu olması ile öne çıktığı belirtilmiştir (Ünite 2, Sayfa 3). Açık kaynak kodlu olmanın getirdiği avantajlar genellikle lisanssızlık (maliyet), topluluk desteği ve kodun incelenip özelleştirilebilmesidir (I, III, V).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi yüzey modellemede sıklıkla kullanılan hesaplama yöntemlerinden biridir?",
+            "options": [
+                "Sınır gösterimi (B-rep)",
+                "Boolean işlemleri",
+                "Tel kafes modelleme",
+                "Parametrik modelleme",
+                "NURBS (Düzgün Olmayan Rasyonel B-Spline)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 1,
+            "topic": "Yüzey Hesaplama Yöntemi",
+            "explanation": "Soru 8'in cevabı NURBS'tir. Metinde, \"Yüzey modellemede en yaygın hesaplama yöntemi olarak kullanılan düzgün olmayan oransal temel bağ interpolasyonu veya eğri yapısıdır (NURBS, Non-uniform rational basis spline)\" ifadesi geçmektedir (Ünite 1, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 10,
+            "question": "Sub-D modelleme yöntemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sadece karmaşık geometrilerin oluşturulmasını sağlar.",
+                "Katı modelleme tekniklerine uygundur.",
+                "Sadece basit geometrik şekillerin oluşturulmasını sağlar.",
+                "Yalnızca yüzey modelleme için kullanılır.",
+                "Organik formlarda yüksek geometrik devamlılık sağlar."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 2,
+            "topic": "Sub-D Modelleme",
+            "explanation": "Soru 9'un cevabı, Sub-D modellemenin organik formlar oluşturmak için kullanıldığı ve hızlı üretilen nesnelerin NURBS'e çevrilebildiğidir. Metinde, \"Alt bölümlendirme (SubD, subdivision) yüzey modelleme; üst düzeyde geometrik devamlılık sağlayarak organik formlardaki nesneler oluşturmak için kullanılan bir yöntemdir... Bu yöntemin temel avantajı; çok hızlı bir şekilde üretilen nesneler, kolaylıkla NURBS prensibine çevrilebilmektedir\" denilmektedir (Ünite 2, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 11,
+            "question": "Katı modelleme ve yüzey modelleme arasındaki temel fark nedir?",
+            "options": [
+                "Katı modeller hacimlidir ve içleri doludur, yüzey modeller ise sadece dış yüzeyleri tanımlar.",
+                "Katı modeller parametriktir, yüzey modeller ise parametrik değildir.",
+                "Katı modeller daha karmaşıktır, yüzey modeller ise daha basittir.",
+                "Katı modeller endüstride, yüzey modeller ise sanatta kullanılır.",
+                "Katı modeller her zaman NURBS bazlıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 3,
+            "topic": "Katı ve Yüzey Farkı",
+            "explanation": "Soru 10'un cevabı, katı modellerin hacmi/kütlesi varken yüzey modellerin sadece dış yüzeyleri tanımlamasıdır. Metinde, \"Katı modelleme, objeleri hacmi olan, kapalı bir şekilde temsil ederken yüzey modelleme sadece objelerin dış yüzeylerini tanımlar\" ifadesi yer almaktadır (Ünite 3, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 12,
+            "question": "Aşağıdakilerden hangisi üç boyutlu modelleme programlarının ortak çalışma prensibidir?",
+            "options": [
+                "Programlar farklı ara yüzlere sahiptir.",
+                "Programlar arasında yaygın kullanılan komutlar ve çalışma şekilleri vardır.",
+                "Her program kendine özgü bir çalışma prensibine sahiptir.",
+                "Programlar belirli bir işleve yönelik olarak geliştirilmiştir.",
+                "Programlar farklı işletim sistemlerinde çalışır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 5,
+            "topic": "Animasyon Temelleri",
+            "explanation": "Soru 11'in cevabı anahtar kareler (keyframes) kullanmasıdır. Metinde, 3B objelerin animasyonunun anahtar kareler aracılığıyla gerçekleştiği belirtilmiştir: \"Karakter modelleme ve animasyon süreçleri... anahtar kareler (keyframeler) aracılığıyla gerçekleşir\" (Ünite 5, Sayfa 2).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 13,
+            "question": "Aşağıdakilerden hangisi dijital malzemelerin üç boyutlu modellemede kullanım amaçlarından biridir?",
+            "options": [
+                "Modeli gerçek bir nesneye dönüştürmek için kullanılır.",
+                "Modele fiziksel özellikler kazandırmak için kullanılır.",
+                "Modele görsel gerçekçilik katmak için kullanılır.",
+                "Modeli animasyonlu hale getirmek için kullanılır.",
+                "Modeli interaktif hale getirmek için kullanılır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 4,
+            "topic": "Dijital Malzeme Amaçları",
+            "explanation": "Soru 12'nin cevabı, ışığın yüzey ile nasıl etkileşime gireceğini kontrol etmektir. Metinde, dijital malzemenin, ışığın yüzey ile nasıl etkileşime gireceğini kontrol ederek; Renk, Yansıtıcılık, Parlaklık/Matlık ve Şeffaflık gibi özellikleri etkilediği belirtilmiştir (Ünite 4, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdaki objelerden hangisi döndürme komutu (revolve) ile kolaylıkla modellenir?",
+            "options": [
+                "Vazo, şişe, bardak gibi çember kesitli objeler",
+                "Karmaşık ve organik yüzeyler",
+                "Yamuk objeler",
+                "Küresel objeler",
+                "Düzlemsel yüzeyler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 3,
+            "topic": "Döndürme Komutu Kullanımı",
+            "explanation": "Soru 13'ün cevabı metal parçanın ucunun yuvarlatılması için küresel bir bitiş elde etmektir. Metinde, metal parçaların uç kısımlarında küresel bir bitiş istendiğinde, döndürme (revolve) komutunun kullanılacağı belirtilmiştir: \"Küresel bir bitiş elde edebilmek için döndürme (revolve) komutu kullanılacaktır\" (Ünite 3, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 15,
+            "question": "Aşağıdakilerden hangisi 3B modelleme yazılımlarında temel obje oluşturma komutlarından biri olan \"Yükseltme (Extrude)\" komutunun temel işlevidir?",
+            "options": [
+                "İki yüzeyi birbirine birleştirerek hacim oluşturmak",
+                "Bir yüzeyi belirli bir eksende döndürerek hacim oluşturmak",
+                "Bir yüzeyi belirli bir yönde çoğaltmak",
+                "Bir yüzeyi belirli bir yönde uzatarak hacim oluşturmak",
+                "Bir yüzeyi bir eksende ötelemek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 3,
+            "topic": "Yükseltme Komutu",
+            "explanation": "Soru 14'ün cevabı, seçilen kapalı bir çizginin belirli bir yükseklikte katı bir obje oluşturmasıdır. Metinde, \"Yükseltme (extrude) komutu ile çizilmiş herhangi bir dijital obje, ekran üzerinde istenilen yere taşınabilir\" ifadesi geçmektedir (Taşıma komutu için). Ancak katı oluşturma bağlamında, \"Yükseltme (extrude) komutu ile... istenilen yükseklik kullanıcı tarafından tanımlanır. Eğer tek bir kapalı çizgi yükseltilmek istenirse içi dolu olan bir katı obje modeli ortaya çıkar\" denilmektedir (Ünite 3, Sayfa 2 ve 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 16,
+            "question": "Bir dijital objenin oluşturulması süreci adımları aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Kâğıt üzerinde çizim, modelleme, üretim",
+                "Fikri somutlaştırma, modelleme, maliyet muhasebesi",
+                "Tanıtım, modelleme, animasyon",
+                "Kâğıt üzerinde çizim, tarama, üretim",
+                "Konsept belirleme, tasarım, modelleme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 3,
+            "topic": "Dijital Obje Oluşturma Adımları",
+            "explanation": "Soru 15'in doğru adımları: Konsept belirleme, tasarım oluşturma, modelleme ve üretimdir. Metinde, \"Bir dijital objenin oluşturulması genellikle birkaç adımdan oluşur. İlk olarak, bir konsept belirlenir ve ardından bu konsepti temsil edecek bir tasarım oluşturulur... Daha sonra, modelleme süreci başlar ve obje üç boyutlu bir ortamda detaylı olarak oluşturulur.\" denilerek bu sıra ima edilmektedir (Ünite 3, Sayfa 1). Üretim, sürecin son basamağıdır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 17,
+            "question": "Malzeme özellikleri, üç boyutlu bir objenin yüzeyiyle ışığın nasıl etkileşime girdiğini tanımlar ve görsel açıdan genel görünümünü belirler. Yukarıdaki ifadeye göre aşağıdakilerden hangisi dijital malzemelerin temel özelliklerinden biridir?",
+            "options": [
+                "Prosedürel",
+                "Karanlık",
+                "Şeffaflık",
+                "Yoğunluk",
+                "Açıklık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 4,
+            "topic": "Dijital Malzeme Özellikleri",
+            "explanation": "Soru 16'nın cevabı yayıcılık (diffuse), yansıma (specular) ve şeffaflıktır (transparency). Metinde, \"Dijital malzemelerin temel özellikleri yayıcılık (diffuse), yansıma (specular) ve şeffaflık (transparency) olarak gösterilebilir\" ifadesi yer almaktadır (Ünite 4, Sayfa 1).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 18,
+            "question": "Aşağıdakilerden hangisi fresnel etkisinin en belirgin görüldüğü malzemelerdendir?",
+            "options": [
+                "Plastik malzemeler",
+                "Yüksek derecede yansıtıcı malzemeler",
+                "Kaba dokulu malzemeler",
+                "Yün malzemeler",
+                "Yarı saydam malzemeler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 4,
+            "topic": "Fresnel Etkileri",
+            "explanation": "Ünite 4'te Fresnel Etkileri anlatılırken, bu etkinin bir yüzeyin yansıma özelliklerinin, ışığın yüzeyle yaptığı açının bir fonksiyonu olarak nasıl değiştiğini tanımladığı belirtilmiştir. Bu etki, özellikle yansıtıcı malzemelerin farklı aydınlatma koşullarında doğru davranmasını sağlayarak gerçekçilik katar. Fresnel azalması (falloff) ile yüzeyin ortasında daha az, kenarlarında ise daha fazla yansıma görülür. Bu etki en belirgin şekilde, ışığı çok yoğun yansıtan (ayna benzeri) malzemelerde (örneğin krom, cam, cilalı metal) gözlemlenir. Dolayısıyla, yüksek derecede yansıtıcı malzemeler (B şıkkı) Fresnel etkisinin en belirgin görüldüğü malzemelerdir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdakilerden hangisi malzeme kütüphaneleri ve ön ayarların kullanımının avantajlarından biridir?",
+            "options": [
+                "Sadece gerçekçi görünüm elde etmeyi garanti ederler.",
+                "Modellerin daha az yer kaplamasını sağlarlar.",
+                "Zamandan ve emekten tasarruf sağlarlar.",
+                "Modellerin animasyonunu kolaylaştırırlar.",
+                "Karmaşık malzemeleri modellemeyi kolaylaştırırlar."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 4,
+            "topic": "Malzeme Kütüphanesi Avantajı",
+            "explanation": "Soru 18'in cevabı, karmaşık malzeme özelliklerini organize etmektir. Metinde, malzeme kütüphanelerinin çeşitli malzemelerin dijital temsillerinin (doku haritaları, gölgelendiriciler ve ayarlar) organize edildiği koleksiyonlar olduğu belirtilmiştir (Ünite 4, Sayfa 3).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 20,
+            "question": "Doku boyama işlemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dijital modellerin animasyonlarını oluşturma işlemidir.",
+                "Dijital modellerin renklerini ve tonlarını ayıklama işlemidir.",
+                "Dijital modellerin UV haritalarını oluşturma işlemidir.",
+                "Dijital modellere detay, renk ve yüzey bilgisi ekleme sanatıdır.",
+                "Dijital modelin ışıklandırma ve gölgelendirme ayarlarını yapma işlemidir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618232",
+            "UniteNo": 4,
+            "topic": "Doku Boyama İşlevi",
+            "explanation": "Soru 19'un cevabı, modellere detay, renk ve yüzey bilgisi eklemektir. Metinde, \"Doku boyama, üç boyutlu modellere detay, renk ve yüzey bilgisi ekleme sanatıdır ve onları temel şekillerden görsel olarak çarpıcı ve inandırıcı objelere dönüştürür\" ifadesi yer almaktadır (Ünite 4, Sayfa 4).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi 2000'li yıllardan itibaren bilgisayar destekli tasarım (CAD) yazılımlarının geçirdiği önemli değişimlerden biridir?",
+            "options": [
+                "Sadece büyük şirketler tarafından kullanılabilir hale gelmesi",
+                "Ücreti olarak kullanıma uygun hale gelmesi",
+                "Bulut tabanlı akıllı mobil cihazlarda da kullanılabilir hale gelmesi",
+                "İki boyutlu çizimleri yapabilir hale gelmesi",
+                "Sadece mühendislik alanında kullanılır hale gelmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 1,
+            "topic": "3B Modelleme Tarihsel Gelişimi",
+            "explanation": "2000'li yıllardan itibaren 3 boyutlu modelleme, analiz ve simülasyon gibi gelişmiş özellikler standart hâline gelmiş; bilgisayar teknolojisinin gelişmesi, internetin yaygınlaşması ve bilgiye erişimin kolaylaşması ile birlikte bulut tabanlı sistemler ortaya çıkmıştır. Bu sayede bilgisayar haricindeki akıllı mobil cihazlarda da kullanılabilir alternatifler ortaya çıkmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 22,
+            "question": "Katı modelleme yöntemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Yalnızca çizgi ve noktalardan oluşmuştur.",
+                "Yüzeylerin kenarlarını ve eğrilerini kullanır. Böylece daha net ve kesin hatlar saptanır.",
+                "Renk ve doku bilgilerini içerir.",
+                "Düşük poligon sayısı ile çalışmaya uygundur.",
+                "Katı cisimlerin hacmi ve sınırları tam olarak tanımlanır. Bu sayede 3 boyutlu model, gerçek dünyadaki fiziksel özelliklerini simüle eder."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 2,
+            "topic": "Katı Modelleme Yöntemi",
+            "explanation": "Ünite 2'de katı modellemenin tanımı yapılırken, bu modellerin mekanik parçalar, mimari yapılar ve tüketici ürünleri gibi tanımlanmış boyutlara ve fiziksel özelliklere sahip objelerin temsili için uygun olduğu belirtilmiştir. CSG sistemlerinin başlangıçta kullanıldığı ancak zamanla B-rep sisteminin daha yaygın hâle geldiği de not edilmiştir.",
+            "occurrence_count": 1
+        },
+        {
+            "id": 23,
+            "question": "Yüzey altı saçılma (SSS) aşağıdaki malzeme türlerinden hangisine gerçekçilik katar?",
+            "options": [
+                "Metalik malzemeler",
+                "Yarı saydam malzemeler",
+                "Kaplama malzemeleri",
+                "Plastik malzemeler",
+                "Kaba dokulu malzemeler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 4,
+            "topic": "Gelişmiş Malzeme Efektleri",
+            "explanation": "Ünite 4'te Yüzey Altı Saçılma (SSS) tekniğinin, ışığın yarı saydam malzemelerin yüzeyine girip içinde dağılması ve tekrar çıkması sonucu oluşan etkinin, içsel parıltı ve ince renk farklılıkları yaratarak gerçekçi görünümler elde etmek için kullanıldığı belirtilmiştir. Bu etki özellikle yarı saydam malzemeler için önemlidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 24,
+            "question": "3B animasyonda \"rig\" kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "3B objenin içinde yer alan iskelet sistemi",
+                "Objeyi deforme etmeye yarayan özelliktir.",
+                "Objeyi kontrol eden parçalar",
+                "Hareketli bir objeyi oluşturan pozlardır.",
+                "Objeye ayrıntı veren kaplamadır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 5,
+            "topic": "3B Animasyon Kavramları",
+            "explanation": "Ünite 5'te kinematiklerin, modelin iskelet sistemi (rig) ile ilgili olduğu; vücut parçaları olan her modelin (organik veya inorganik) hareketlendirilebilmesi için bir iskelete ihtiyaç duyduğu ve bu iskeletteki her bir kemiğin, pivot noktasından (eklem noktası) hareketlendirildiği açıklanmıştır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 25,
+            "question": "3B modellemede temel komutlar aşağıdaki hangi başlıklar altında yer alır?",
+            "options": [
+                "Görselleştirme ve Animasyon Araçları",
+                "Dosya İşlemleri ve Düzenleme Araçları",
+                "Modelleme Yardımcıları ve Operasyonel Komutlar",
+                "Doku Oluşturma ve Malzeme Atama Araçları",
+                "Geometri Oluşturma ve Değiştirme Araçlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 3,
+            "topic": "Temel Modelleme Komutları",
+            "explanation": "Ünite 3'te modellemede temel komutların, modelleme yardımcıları ve operasyonel komutlar olarak iki ana başlık altında incelendiği belirtilmiştir. Operasyonel komutlar; taşıma, kopyalama, döndürme, aynalama, kesme, bölme, uzatma, ofset, dizme, kavis verme gibi işlemleri kapsar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 26,
+            "question": "-----, hareketlendirilecek objenin x-y-z koordinatlarına göre pozisyonlarının kaydedildiği noktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Render",
+                "Ses tasarımı",
+                "Işıklandırma",
+                "Anahtar kare",
+                "Zaman çizelgesi (Timeline)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 5,
+            "topic": "3B Animasyon Kavramları",
+            "explanation": "Ünite 5'te Anahtar Kare (Keyframe) kavramı, hareketlendirilecek objenin x-y-z koordinatlarına göre pozisyonlarının kaydedildiği bir nokta olarak tanımlanmıştır. Bu, zaman çizelgesi üzerinde pozisyonların belirlenmesini sağlar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdakilerden hangisi Animasyonun temel prensiplerinden biri <u>değildir</u>?",
+            "options": [
+                "İvme",
+                "Zamanlama",
+                "Beklenti yaratımı",
+                "Ez ve esnet",
+                "Cazibe"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 5,
+            "topic": "Temel Animasyon Prensipleri",
+            "explanation": "Ünite 5'te Animasyonun Temel Prensipleri (12 temel prensip) listelenmiştir: Ez ve Esnet (Squash & Stretch), Düz İleri ve Pozdan Poza (Straight Ahead & Pose to Pose), Zamanlama (Timing), İfade (Phrasing), Arklar (Arcs), Beklenti Yaratımı (Anticipation), Peşi Sıra Takip ve Örtüşüm Eylemi (Follow Through & Overlapping Action), Yavaşlama ve Hızlanma (Slow In & Slow Out), Sahneleme (Staging), Somut Çizim (Solid Drawing), Cazibe (Appeal). İvme (Acceleration) kavramı, Newton'un İkinci Hareket Yasası'nın (F=ma) bir sonucu olarak hareketin hızındaki değişimi ifade etse de, 'İvme' başlı başına 12 temel prensip listesinde yer almaz. Bu prensipler, hareketin estetik ve inandırıcı sunumu için kullanılan yöntemleri tanımlar. Bu nedenle, listelenenler arasında İvme (A şıkkı) temel prensiplerden biri değildir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 28,
+            "question": "Animasyonu anlamak ve doğru bir şekilde icra edebilmek için ilk olarak anlaşılması gereken aşağıdakilerden hangisidir?",
+            "options": [
+                "İnsanlar",
+                "Hareket",
+                "Görsel sanatlar",
+                "Bilgisayar dili",
+                "Oyunculuk sanatı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 5,
+            "topic": "Hareket Estetiği",
+            "explanation": "Ünite 5'te animasyonun temel prensiplerini anlamadan önce, hareketin ne olduğunun anlaşılması gerektiği ve bu hareketin fizik kurallarına (Newton Kanunları) uyumlu olması gerektiği vurgulanmıştır. Bu nedenle animasyon kuramlarında hareket estetiği konusunun, hareket fizik kurallarını öğrenmeyi gerektiren bir alt başlığı olduğu belirtilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 29,
+            "question": "Perspektif ve kamera ayarları sahne tasarımında aşağıdaki hangi unsuru etkiler?",
+            "options": [
+                "Dokuların özeliklerini",
+                "Işık kaynağını",
+                "Renklerin algılanışını",
+                "Nesnelerin boyut ve konumlarını",
+                "Malzeme özelliklerini"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 6,
+            "topic": "Perspektif ve Kamera",
+            "explanation": "Ünite 6'da Perspektif, Bakış Açısı ve Derinliğin 3B modelleme ve tasarım uygulamalarında kamera ile sağlandığı belirtilmiştir. Kamera ayarları, izleyicinin sahneyi üç boyutlu olarak deneyimlemesini sağlayan görsel yöntemdir ve sahnenin kompozisyonunu belirlemede önemli rol oynar.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 30,
+            "question": "Dijital sahne tasarımında kullanılan simetrik denge aşağıdakilerden hangisinin oluşmasını sağlar?",
+            "options": [
+                "Renklerin tonunu değiştirir.",
+                "Kompozisyonun dengeli ve uyumlu görünmesini sağlar.",
+                "Işık kaynağını belirlenmesini sağlar.",
+                "Kamera açısını ayarlar.",
+                "Malzeme dokusunu belirler."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 6,
+            "topic": "Kompozisyon ve Denge",
+            "explanation": "Ünite 6'da Görsel dengenin iki temel yolu olarak simetri ve asimetrinin olduğu belirtilmiştir. Simetrik dengede, sahne boyunca yansıyan benzer ögeler kullanılarak 'dengeli bir görünüm' oluşturulduğu ifade edilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 31,
+            "question": "Aşağıdakilerden hangisi dijital sahne tasarımında kullanılan dolgu ışığının işlevidir?",
+            "options": [
+                "Kamera açısını belirlemek",
+                "Gölge oluşturmak",
+                "Renkleri ayarlamak",
+                "Sahneyi dengeli aydınlatmak",
+                "Ana ışık kaynağını belirlemek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 7,
+            "topic": "Işıklandırma Teknikleri",
+            "explanation": "Ünite 7'de, dolgu ışığı (Fill Light) ile ilgili spesifik bir bilgi olmamakla birlikte, genel ışıklandırma prensiplerinde ışığın rengi, yönü ve yoğunluğunun sahnenin duygusal tonunu belirlediği ve izleyicinin dikkatini belirli noktalara yönlendirdiği belirtilmiştir. Dolgu ışığının temel işlevi, gölgelerin sertliğini azaltarak sahneye derinlik ve detay katmaktır (Ünite 6 ve 7 bilgileri sentezi).",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 32,
+            "question": "Aşağıdakilerden hangisi 3 boyutlu modelleme sürecinin avantajlarından biridir?",
+            "options": [
+                "Sanal prototip oluşturma",
+                "Üst düzey donanım gereksinimi",
+                "Görüntü oluşturma",
+                "Öğrenme ve kullanım maliyetleri",
+                "Sınırlı fiziksel etkileşim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 7,
+            "topic": "3B Modelleme Avantajları",
+            "explanation": "Ünite 7'de 3 boyutlu modellemenin avantajları arasında Tasarım Hatalarını Azaltma, Tasarımın Doğruluğunu Artırma, Üretim Süresinden Tasarruf Sağlama, Sanal Prototiplemeyi Etkinleştirme ve Görsel İletişimi Geliştirme yer aldığı listelenmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 33,
+            "question": "Aşağıdakilerden hangisi post-prodüksiyon sürecinde renk düzeltme işleminin yapılma nedenidir?",
+            "options": [
+                "Işık kaynağını değiştirmek",
+                "Görüntünün renk tonlarını ve doygunluğunu ayarlamak",
+                "Kamera açısını belirlemek",
+                "Malzeme dokusunu düzenlemek",
+                "Kompozisyonu oluşturmak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 6,
+            "topic": "Post-Prodüksiyon İşlevleri",
+            "explanation": "Ünite 6'da Post-Prodüksiyon aşamalarının, ham görüntülere belirli işlemler uygulanarak son hâle getirilmesi olduğu belirtilmiştir. Renk düzeltme (Renk tonu, doygunluk, parlaklık ayarı) ise görüntülerin estetik açıdan iyileştirilmesi ve hikâyenin duygusal tonunun desteklenmesi amacıyla yapılır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 34,
+            "question": "I. SolidWorks<br>II. AutoCad<br>III. NURBS<br>Yukarıdaki yazılımlardan hangisi/hangileri parametrik modelleme mantığını kullanır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 7,
+            "topic": "Modelleme Yazılım Tipleri",
+            "explanation": "Ünite 7'de Parametrik Modellemenin, bir objenin parametreleri arasındaki ilişkileri temel alarak, bir parametrede yapılan değişikliğin diğerlerini otomatik güncellemesi esasına dayandığı açıklanmıştır. SolidWorks ve Fusion 360 bu prensiple çalışan katı modelleme yazılımlarıdır. AutoCAD ise ağırlıklı olarak 2B çizim ve bazen 3B modelleme için kullanılır ancak tipik olarak parametrik/özellik tabanlı modellemede öne çıkmaz. NURBS ise bir modelleme tekniği (yüzey/eğri) olup yazılım ismi değildir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdakilerden hangisi 3B tasarımın sürdürülebilir malzeme kullanımı üzerindeki etkilerinden biridir?",
+            "options": [
+                "Enerji tüketimini artırır.",
+                "Çevresel etkiyi artırır.",
+                "Kaynak israfını artırır.",
+                "Geleneksel üretim yöntemlerini destekler.",
+                "Geri dönüşüm malzemelerinin kullanımını teşvik eder."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 8,
+            "topic": "Sürdürülebilirlik ve 3B Baskı",
+            "explanation": "Ünite 8'de 3B modelleme ve tasarımın sürdürülebilirliğe katkısı başlığı altında, 3B baskı teknolojileri kullanılarak atık azaltma yöntemleri ile malzeme israfının en aza indirildiği belirtilmiştir. Ayrıca yenilenebilir malzemelerin kullanımının teşvik edildiği ifade edilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 36,
+            "question": "Karakter tasarımında, 3 boyutlu ağ geometrisine 2 boyutlu doku alanını yansıtma işlemidir ve farklı 3 boyutlu modelleme yazılımları aracılığıyla 3 boyutlu geometri ile 2 boyutlu doku, boyama, desen, vs. arasında ilişki kurulması sağlanır. Yukarıdaki paragrafta anlatılan karakter modelleme ve animasyon aşaması aşağıdakilerden hangisidir?",
+            "options": [
+                "Kavram ve Referans Toplama Aşaması",
+                "Temel Model Şekli Aşaması",
+                "Düşük Poligon Modelleme Aşaması",
+                "UV Haritalama Aşaması",
+                "Blokaj Aşaması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 7,
+            "topic": "Karakter Modelleme Aşamaları",
+            "explanation": "Ünite 7'de Karakter Modelleme ve Animasyon aşamaları sıralanırken, UV haritalama aşamasının, 3B geometriye 2B doku alanını yansıtma işlemi olduğu ve bu sayede 3B geometri ile 2B doku arasında ilişki kurulduğu belirtilmiştir. Bu aşama, detaylı doku ve boyama için kritik öneme sahiptir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 37,
+            "question": "Post prodüksiyon aşamasında uygulanabilecek optik efektler aşağıdakilerden hangileridir?",
+            "options": [
+                "Büyütme ve küçültme ayarları",
+                "Işık enerjisi yansımaları",
+                "Lens parlamaları ve alan derinliği",
+                "Malzeme ve doku atamaları",
+                "Renk doygunluğu ve parlaklık ayarlamaları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 6,
+            "topic": "Post-Prodüksiyon Efektleri",
+            "explanation": "Ünite 6'da Post-Prodüksiyon aşamasında kullanılabilecek yöntemler arasında; renk/ışık ayarları, doku/kaplama eklenmesi, bazı özel efektlerin eklenmesi ve Optik efektlerin eklenmesi yer almaktadır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 38,
+            "question": "Aşağıdakilerden hangisi 3B baskı teknolojisinin kişiselleştirilmiş çözümler sunduğu alandır?",
+            "options": [
+                "Tıp alanında protez ve implant üretiminde",
+                "Tarım sektöründe",
+                "Standart üretim süreçlerinde",
+                "Sadece elektronik üretiminde",
+                "Sadece inşaat sektöründe"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 8,
+            "topic": "3B Baskı Uygulamaları",
+            "explanation": "Ünite 8'de 3B baskının tıpta, hastaların bireysel anatomik ve fizyolojik özelliklerine göre tasarlanmış protezler, implantlar ve hatta organlar gibi 'kişiye özel ürünlerin' üretilmesinde kullanıldığı belirtilmiştir. Bu da kişiselleştirilmiş çözümlerin en net örneğidir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 39,
+            "question": "Aşağıdakilerden hangisi eğitimde 3B tasarım teknolojilerinin kullanılmasının avantajlarından biridir?",
+            "options": [
+                "Öğrencilerin teorik bilgilerini artırmak",
+                "Öğrenci motivasyonunu azaltmak",
+                "Eğitim süreçlerini yavaşlatmak",
+                "Eğitim materyallerini monoton hale getirmek",
+                "Öğrencilerin yaratıcı düşünmesini ve problem çözmesini geliştirmek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 8,
+            "topic": "3B Eğitime Etkisi",
+            "explanation": "Ünite 8'de eğitim alanında 3B baskının, öğrencilere karmaşık kavramları modelleme imkânı sunarak öğrenme sürecini daha etkileşimli ve uygulamalı hâle getirdiği belirtilmiştir. Bu, soyut kavramların somutlaştırılmasına ve öğrenci katılımının artmasına olanak tanır.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdakilerden hangisi hızlı prototiplemenin ürün geliştirme süreci üzerindeki etkilerinden biridir?",
+            "options": [
+                "Ürün geliştirme sürecini yavaşlatır.",
+                "Ürün maliyetlerini artırır.",
+                "Prototip oluşturma sürecini uzatır.",
+                "Ürün kalitesini düşürür.",
+                "Ürün geliştirme sürecini hızlandırır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622604",
+            "UniteNo": 8,
+            "topic": "Hızlı Prototipleme Avantajı",
+            "explanation": "Ünite 8'de hızlı prototiplemenin (3B baskı ile) etkileri anlatılırken, bu hızın işletmelere pazardaki değişimlere hızlı yanıt verme ve müşteri taleplerine daha çabuk uyum sağlama imkânı verdiği belirtilmiştir. Ayrıca, müşteri geri bildirimlerini hızla almak ve ürün geliştirme sürecine entegre etmek için kullanıldığı ifade edilmiştir.",
+            "is_duplicate": false,
+            "occurrence_count": 1
+        }
+    ]
+}

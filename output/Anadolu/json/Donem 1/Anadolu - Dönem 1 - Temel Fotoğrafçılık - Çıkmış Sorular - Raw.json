@@ -1,0 +1,3304 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi orta format fotoğraf makinelerinden biridir?",
+            "options": [
+                "Stereoskobik Makineler",
+                "Panaromik Makineler",
+                "İnstant ve Rapid Makineler",
+                "Körüklü katlanabilir makineler",
+                "Polaroid Land Makineler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 2,
+            "question": "İşığın artış veya azalışının ışık kaynağının konuya olan mesafesinin değişiminin karesi ile ters orantılı olması durumuna ne ad verilir?",
+            "options": [
+                "Aydınlanma Yasası",
+                "Ters Kare Yasası",
+                "Altın Oran",
+                "Üçe Bir Oranı",
+                "Örtücü Hızı Değeri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 3,
+            "question": "Fotoğraf yüzeyinde amacına uygun kullanılan boşluklara ------- denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "doku",
+                "ışık",
+                "espas",
+                "derinlik",
+                "fon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 4,
+            "question": "Aydınlatma kaynaklarının ortaya çıkardığı renk ısıları aşağıdaki değerlerden hangisiyle ifade edilir?",
+            "options": [
+                "Doygunluk",
+                "F Değeri",
+                "Kontrast",
+                "Stop",
+                "Kelvin"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıdakilerden hangisi fotoğraf makinelerinin objektifleri için kullanılan AF ifadesinin anlamıdır?",
+            "options": [
+                "Otomatik diyafram",
+                "Otomatik örtücü hızı",
+                "Otomatik renk ısısı",
+                "Otomatik netleme",
+                "Otomatik baskı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 6,
+            "question": "Otomatik netleme yapan (Af) fotoğraf makinelerinde, objektifin üzerindeki M harfi seçildiğinde çekim sürecinde aşağıdakilerden hangisi görülür?",
+            "options": [
+                "Makinenin üzerindeki flaş manuel olarak çalışır.",
+                "Makinenin manuel özelliği devreye girer otomatik netleme mümkün hâle getirilmiş olur.",
+                "Makinenin AF özelliği devre dışı bırakılarak manuel (elle) netleme mümkün hâle getirilmiş olur.",
+                "Makinenin otomatik pozlama özelliği devre dışı bırakılarak manuel pozlama mümkün hâle getirilmiş olur.",
+                "Makinenin manuel pozlama özelliği devre dışı bırakılarak otomatik pozlama mümkün hâle getirilmiş olur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 7,
+            "question": "İki ya da daha fazla maddenin herhangi bir oranda bir araya gelerek oluşturdukları homojen karışımlara ne ad verilir?",
+            "options": [
+                "Solüsyon",
+                "Sıvı",
+                "Küvet",
+                "Karışım",
+                "Işık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 8,
+            "question": "Küçük format film kullanan fotoğraf makineleri yabancı literatürde hangi İngilizce kavram ile tanımlanır?",
+            "options": [
+                "Little format",
+                "Pocket format",
+                "Short format",
+                "Mini format",
+                "Thin format"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 9,
+            "question": "Fotoğraf makinelerinde film boyutu aynı zamanda aşağıdaki kavramlardan hangisi ile tanımlanır?",
+            "options": [
+                "Yüzey",
+                "Çap",
+                "Format",
+                "Espas",
+                "Alan"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 10,
+            "question": "Bu soru sınavda <u>iptal edilmiştir</u>.",
+            "options": [
+                "İptal Seçeneği A",
+                "İptal Seçeneği B",
+                "İptal Seçeneği C",
+                "İptal Seçeneği D",
+                "İptal Seçeneği E"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 11,
+            "question": "Fotoğrafçılıkta kullanılan önemli parçalardan biri olan ve objektifin önüne taşıyıcıyla ya da vidalanıp takılarak kullanılan saydam, cam, asetat ya da jelatinden yapılan çeşitli renklerde üretilmiş aparatlara ne ad verilir?",
+            "options": [
+                "Film",
+                "Örtücü",
+                "Diyafram",
+                "Filtreler",
+                "Deklanşör"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 12,
+            "question": "Fotoğraf çekildikten sonra fotoğrafik duyarlıkta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir?",
+            "options": [
+                "Gizli görüntü",
+                "Netsiz görüntü",
+                "Pozitif görüntü",
+                "Saydam görüntü",
+                "Negatif görüntü"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 13,
+            "question": "Tüm objektif türleri içerisinde görüş açısı <b>en geniş</b> olan objektif türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Perspektif Kontrolllü Shift Obkektifler",
+                "Balık Gözü Objektifler",
+                "Normal Açılı Objektifler",
+                "Dar Açılı Objektifler",
+                "Zoom Objektifler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi agrandizörün parçalarından biri <u>değildir</u>?",
+            "options": [
+                "Işık kaynağı",
+                "Yükseklik seviye ayarı",
+                "Tank",
+                "Net ayarı",
+                "Taban"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 15,
+            "question": "I. Uzun pozlama gerektiren çekimlerde<br>II. Makro ve ya teleobjektif isteyen özel çekimlerde<br>III. Hareketli spor müsabakalarında elimizin titremesinden kaynaklanan flu görüntülere sebep olan sonuçları engellemek amacıyla<br>Yukarıdaki durumlardan hangisi/hangilerinde tripod kullanmak gerekir?",
+            "options": [
+                "Yalnız I",
+                "I ve II",
+                "I ve III",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 16,
+            "question": "I. Fotoğrafa ilgi duyan ancak yeteri kadar teknik bilgisi olmayanlar için üretilmiş pratik kullanımlı makinelerdir.<br>II. Objektif gövdeden ayrılabilir ve değiştirilebilir.<br>III. Genellikle gövde arkasında LCD bir ekran bulunur ve bakaç görevi görür.<br>Kompakt sayısal makineler ile ilgili yukarıdaki ifadelerden hangileri <u>yanlıştır</u>?",
+            "options": [
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 17,
+            "question": "Fotoğraf makinesi iki temel parçadan oluşmaktadır. Bunlar ------ ve ------ olarak sıralanabilir. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi birlikte doğru olarak tamamlar?",
+            "options": [
+                "filtre ve objektif",
+                "gövde ve objektif",
+                "film ve filtre",
+                "film ve gövde",
+                "film ve objektif"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 18,
+            "question": "Aşağıdakilerden hangisi sayısal fotoğraf makineleri üretim biçimlerine göre sınıflandırılmasında yer <u>almaz</u>?",
+            "options": [
+                "DSLR-like kompakt makineler",
+                "Kompakt sayısal makineler",
+                "Sayısal arkalıklı makineler",
+                "70 mm film orta format makineleri",
+                "Basit kompakt sayısal makineler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 19,
+            "question": "Bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafik aşağıdaki kavramlardan hangisi ile tanımlanır?",
+            "options": [
+                "Görüntü dosyası formatı",
+                "Beyaz ayarı",
+                "Piksel",
+                "ISO hızı",
+                "Histogram"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 20,
+            "question": "Dijital ekran teknolojileri üzerinde gösterilen görüntünün <b>en küçük</b> birimine ne ad verilir?",
+            "options": [
+                "Piksel",
+                "Byte",
+                "Bit",
+                "CCD",
+                "Dot"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556431"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi orta boy fotoğraf makinelerinden biridir?",
+            "options": [
+                "Panaromik Makineler",
+                "Polaroid Land Makineler",
+                "Stereoskobik Makineler",
+                "İnstant ve Rapid Makineler",
+                "Körüklü katlanabilir makineler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi model 35mm'lik film kullanan ilk ticari taşınabilir kameradır?",
+            "options": [
+                "Nikon F",
+                "Leica A",
+                "Rolleiflex",
+                "Contax S",
+                "Canon Pellix"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 23,
+            "question": "Fotoğrafik görüntü üzerinde düzeltilmesi zor ve yeşil bir tonlama yapan ışık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Gün ışığı",
+                "Tungsten ışık",
+                "Floresan ışık",
+                "Gün ışığı",
+                "LED ışık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 24,
+            "question": "Fotoğrafta renk kullanımı temel gurubunda yer alan, tablo gibi renklendirmeyi anımsatan ve resimsel kompozisyonu ifade eden düzenleme aşağıdakilerden hangisidir?",
+            "options": [
+                "Resimsel renk",
+                "Düzenleyici renk",
+                "Sembolik renk",
+                "Tarihsel renk",
+                "Psikolojik renk"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 25,
+            "question": "Çoğunlukla manzara ve topluluk fotoğrafları için kullanılan pozometre ölçüm modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Çoklu Nokta Ölçüm",
+                "Merkez Ağırlıklı Ortalama Ölçüm",
+                "Noktasal Ölçüm",
+                "Ortalama Ölçüm",
+                "Genel Değerlendirmeli Matrix Ölçüm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 26,
+            "question": "Siluet çekimlerinde sıklıkla kullanılan ve kontrastı en <b>yüksek</b> olan aydınlatma türü hangisidir?",
+            "options": [
+                "Yanal Aydınlatma",
+                "Alt Aydınlatma",
+                "Cephe Aydınlatma",
+                "Ters Aydınlatma",
+                "Tepe Aydınlatma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 27,
+            "question": "Konunun, fotoğraf sanatçısının inisiyatifiyle fotoğraf çerçevesi içerisinde sonlandığı kompozisyon türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kapalı kompozisyon",
+                "Açık kompozisyon",
+                "Serbest kompozisyon",
+                "Paralel düzenleme",
+                "Aktif dengeleme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangisi kompozisyonda fotoğrafik ögelerden <u>değildir</u>?",
+            "options": [
+                "Nokta ve çizgi",
+                "Leke",
+                "Ritim",
+                "Doku",
+                "Bakış açısı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 29,
+            "question": "Ayrı bakaçlı fotoğraf makinelerinde vizör ile objektifin farklı görüş açıları olması nedeniyle görüntüde meydana gelen kayba ne ad verilir?",
+            "options": [
+                "Kontrast",
+                "Paralaks hatası",
+                "APS",
+                "ISO",
+                "Gren"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 30,
+            "question": "Aşağıdakilerden hangisi özel amaçlı fotoğraf makinelerinden biridir?",
+            "options": [
+                "SLR makineler",
+                "AF makineler",
+                "Polaroid makineler",
+                "TRL makineler",
+                "Orta format makineler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 31,
+            "question": "Ayrı bakaçlı manuel netlik sistemine sahip üst düzey makinelerde netlik kontrolüne yarayan sisteme ne ad verilir?",
+            "options": [
+                "Netlik bileziği",
+                "Otomatik netleme",
+                "Netlik motoru",
+                "Net alan derinliği",
+                "Telemetre"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 32,
+            "question": "Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir?",
+            "options": [
+                "Hipo görüntü",
+                "Gizli görüntü",
+                "Saptanmış görüntü",
+                "Karanlık görüntü",
+                "Kapalı görüntü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 33,
+            "question": "Bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine pozitif olarak basılmasına ne ad verilir?",
+            "options": [
+                "Test Baskısı",
+                "Büyük Boy Baskı",
+                "Kontak Baskı",
+                "Negatif Baskı",
+                "Kâğıt Baskısı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 34,
+            "question": "Siyah beyaz fotoğrafçılıkta kullanılan, kontrast etkisi en <b>güçlü</b> olan filtre aşağıdakilerden hangisidir?",
+            "options": [
+                "Kırmızı filtre",
+                "Mavi filtre",
+                "Yeşil filtre",
+                "Mor filtre",
+                "Siyah filtre"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 35,
+            "question": "Yatay ve düşey düzlemde cetvel göstergesi görevi görür. Kâğıdın hareket etmesi engeller. Kâğıdın dışa doğru kıvrılarak bombe yapmasını engelleyerek düz durmasını sağlar.<br>Yukarıda anlatılan argandisör birimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Şase",
+                "Marjör",
+                "Filtre",
+                "Objektif",
+                "Işık kaynağı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 36,
+            "question": "Görüntüyü kaydetmek için kullanılan filmlerin yerini alan fotoğraf malzemesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Pozometre",
+                "Tripod",
+                "Flaş",
+                "Hafıza kartı",
+                "Objektif"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdakilerden hangisi kontrast azaltıcı filtrelerden biridir?",
+            "options": [
+                "Mavi filtre",
+                "Açık sarı filtre",
+                "Koyu sarı filtre",
+                "Turuncu filtre",
+                "Kırımızı filtre"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 38,
+            "question": "Hem filmin hem de dijitalin sunabileceği en <b>iyi kaliteyi</b> bir araya getiren, üç katmanlı yenilikçi tasarım sunan sensör türü aşağıdakilerden hangisidir?",
+            "options": [
+                "CCD",
+                "CMOS",
+                "Foveon",
+                "Live MOS",
+                "SLR"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 39,
+            "question": "Kameranın çoğu durumda optimal pozu sağlamak için perde hızını ve diyaframı entegre bir programa göre otomatik ayarladığı pozlama modu aşağıdakilerden hangisidir?",
+            "options": [
+                "AV-Diyagram öncelikli otomatik mod",
+                "TV-Enstantane öncelikli otomatik mod",
+                "M-Manuel pozlama modu",
+                "Portre modu",
+                "P-Programlı otomatik mod"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 40,
+            "question": "1988 yılında 400 kilopiksel CCD sensörlü ilk sayısal kamerasını üreten marka aşağıdakilerden hangisidir?",
+            "options": [
+                "Mavica",
+                "Nikon",
+                "Sony",
+                "Fujix",
+                "Kodak"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "522747"
+        },
+        {
+            "id": 41,
+            "question": "Dijital veya analog fotoğraf makinelerinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzeneğe _________ denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "flash",
+                "diyafram",
+                "deklanşör",
+                "enstantane (örtücü)",
+                "vizör (bakaç)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 42,
+            "question": "Fotoğraf makinelerinde konuyu çerçevelemeye yarayan optik sisteme ne ad verilir?",
+            "options": [
+                "Vizör",
+                "Enstantane",
+                "Objektif",
+                "Örtücü",
+                "Diyafram"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 43,
+            "question": "Işığın maddeler üzerine düşerek maddeler tarafından kısmen emilmesi ve gözün retinasına yansıtılmasıyla ortaya çıkan algılama olayına ne ad verilir?",
+            "options": [
+                "Ters ışık",
+                "Isı",
+                "Yansıma",
+                "Renk",
+                "Celvin"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 44,
+            "question": "Fotoğraf çekiminde kullanılan aydınlatma kaynağını tek yönlü olarak yumuşatan bez ya da kumaş destekli kutuya benzer yapıdaki ekipman aşağıdakilerden hangisidir?",
+            "options": [
+                "Spot ışıklar",
+                "Dâhilî Pozometre",
+                "Softbox",
+                "Dağıtıcı/Difüzör",
+                "Paraflaşlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 45,
+            "question": "Dalga boyu en yüksek değere sahip olan renk aşağıdakilerden hangisidir?",
+            "options": [
+                "Mavi",
+                "Kırmızı",
+                "Yeşil",
+                "Turuncu",
+                "Sarı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 46,
+            "question": "Gölgelerin, nesnelerin arkasına düştüğü aydınlatma türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Ön aydınlatma",
+                "Ters Işık",
+                "Yan Işık",
+                "Alttan aydınlatma",
+                "Tungsten aydınlatma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 47,
+            "question": "Pozometre ya da diğer adıyla ışık ölçerin işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Işığın sıcaklığını ölçmek",
+                "Işığın açısını azaltmak",
+                "Flaş ışığının şiddetini bulmak",
+                "Işığın rengini ölçmek",
+                "Işık miktarının şiddetini ölçmek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 48,
+            "question": "Bir ruloya sarılı negatif filmi bulan bilim adamı aşağıdakilerden hangisidir?",
+            "options": [
+                "Daniello Barbaro",
+                "George Eastman",
+                "Thomas Wedgwood",
+                "Johannes Kepler",
+                "Girolamo Cardano"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 49,
+            "question": "Fotoğrafı çeken fotoğrafçının konuyu oluştururken inisiyatif kullanması, konuya müdahil olarak çektiği fotoğraf ile ilgili kararları alması aşağıdaki hangi kavram ile tanımlanır?",
+            "options": [
+                "Pasif düzenleme",
+                "Rastgele çerçeveleme",
+                "Bilinçli çerçeveleme",
+                "Aktif düzenleme",
+                "Görsel düzenleme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 50,
+            "question": "Yatay ve düşey düzlemde cetvel göstergesi görevi görür. Kâğıdın hareket etmesi engeller. Kâğıdın dışa doğru kıvrılarak bombe yapmasını engelleyerek düz durmasını sağlar. Yukarıda anlatılan argandisör birimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Filtre",
+                "Objektif",
+                "Marjör",
+                "Işık kaynağı",
+                "Şase"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 51,
+            "question": "--------- makinelerde paralaks hatası oluşmaz. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Stereoskopik",
+                "SLR",
+                "Ayrı bakaçlı",
+                "TLR",
+                "Panoramik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 52,
+            "question": "Çekim yaptığımız ortamdaki konuya yansıyan ışığı ölçerek bu ışığın diyafram ve enstantane cinsinden karşılığını veren ve doğru enstantane diyafram ayarı yapmamızı sağlayan cihazlara --------- denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Tripod",
+                "Hafıza kartı",
+                "Flaş",
+                "Objektif",
+                "Pozometre"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 53,
+            "question": "Poz değerinin çekim esnasında olması gerekenden daha az uygulanması durumunda ortaya çıkan soluk ve açık renkli tonların hakim olduğu negatif aşağıdakilerden hangisidir?",
+            "options": [
+                "Az geliştirilmiş negatif",
+                "Aşırı geliştirilmiş negatif",
+                "Az pozlanmış negatif",
+                "Doğru pozlanmış ve geliştirilmiş negatif",
+                "Çok pozlanmış negatif"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 54,
+            "question": "Tarihte, Normandiya Çıkarması'nı fotoğraflaması ile tanınan ve analog fotoğraf tarihinin en ünlü savaş fotoğrafçılarından biri olan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Thomas Wedgwood",
+                "Robert Capa",
+                "Henry Fox Talbot",
+                "George Eastman",
+                "Joseph Nicephore Niepce"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 55,
+            "question": "Fotoğraf çekildikten sonra fotoğrafik duyarlıkta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir?",
+            "options": [
+                "Gizli görüntü",
+                "Afoksiyon",
+                "Rötr",
+                "Seyreltme",
+                "Saptama banyosu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 56,
+            "question": "Filtreler ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Makinemizdeki objektif çapı ile kullanacağımız filtrenin çapının aynı olması gerekmektedir.",
+                "Objektif kapaklarının iç yüzeyinde ve objektifin üzerinde çapının kaç milimetre olduğu yazmaktadır bu nedenle filtre tercihi yaparken sahip olduğunan objektiflere göre hareket etmek gerekir.",
+                "Filtrenin görevi temelde objektife gelen ışığı süzmek veya kesmektir.",
+                "Fotoğraf makinelerinde kullandığımız objektiflerin çapları birbirinden farklı olduğundan her filtre her objektife takılamaz.",
+                "Filtrelerin hepsi standart üretilir ve tüm objektiflere uyumludur."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 57,
+            "question": "Dijital fotoğraf makinelerinde düzenlenmemiş ve işlenmemiş ham görüntü verilerinin doğrudan belleğe yazılmasıyla oluşan görüntü dosyası formatına ne ad verilir?",
+            "options": [
+                "PDF",
+                "JPEG",
+                "BMP",
+                "RAW",
+                "TIFF"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 58,
+            "question": "Çekilecek nesne veya konuya 1-2 cm mesafeden netlik yapabilen objektif türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Makro Objektifler",
+                "Normal Açılı Objektifler",
+                "Dar Açılı Objektifler",
+                "Perspektif Kontrollü Shift Objektifler",
+                "Süper Tele Objektifler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 59,
+            "question": "Dijital ekran teknolojileri üzerinde gösterilen görüntünün <b>en küçük</b> birimine ne ad verilir?",
+            "options": [
+                "RGB",
+                "Sensör",
+                "Piksel",
+                "ISO",
+                "RAW"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 60,
+            "question": "Fotoğrafta analogdan, sayısala geçişin <b>ilk prototipi</b> olan fotoğraf makinesini icat eden kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Philippe Kahn",
+                "Robert Capa",
+                "Thomas Wedgwood",
+                "George Eastman",
+                "Steven Sasson"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "522748"
+        },
+        {
+            "id": 61,
+            "question": "Venedikli mimar ve yazar olan Daniello Barbaronun, \"Camera Obscura\" fotoğraf makinasına yaptığı katkı aşağıdakilerden hangisidir?",
+            "options": [
+                "İkinci bir mercek takması",
+                "Karanlık odanın boyutlarının hesaplanması",
+                "Camera Lucidayı yapması",
+                "Fotoğraf makinelerinde kullanılan aynadaki yansıma kuralını bulması",
+                "Birinci merceği takması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 62,
+            "question": "Photoshop programının RAW formatındaki fotoğraflara yapılacak özel işlemler için ihtiyaç duyduğu eklenti aşağıdakilerden hangisidir?",
+            "options": [
+                "Adobe Photoshop DSLR",
+                "Adobe Lightroom",
+                "Adobe Photoshop JPEG",
+                "Adobe Illustrator",
+                "Adobe Photoshop Camera RAW"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 63,
+            "question": "Stereoskobik fotoğraf makinesi ile çekilen görüntünün özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Görüntünün üç boyutlu olarak görülebilmesi",
+                "Görüntü için tabaka film kullanılabilmesi",
+                "Objektiflerden biri ile görüntünün kadrajlanabilmesi",
+                "Bir fotoğraf çekiminde tek görüntü elde edilebilmesi",
+                "Görüntünün fotoğraf kartına basılmış olarak verilebilmesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 64,
+            "question": "Kullanıcının doğru pozlama yapabilmek için ISO değerlerini kontrol edebildiği, enstantane ve diyafram değerlerinin ise makine tarafından atandığı çekim modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Diyafram öncelikli pozlama",
+                "Program modu",
+                "Enstantane öncelikli pozlama",
+                "Bulb modu",
+                "Elle / manuel pozlama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 65,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinde beyaz ayarı menüsünde bulunan ayarlamalardan biri <u>değildir</u>?",
+            "options": [
+                "Chiaroscuro",
+                "AWB",
+                "Gün ışığı modu",
+                "Gölge modu",
+                "Tungsten ışık modu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 66,
+            "question": "I. Ontolojik okuma<br>II. Şiirsel okuma<br>III. Estetik okuma<br>IV. Göstergebilimsel okuma<br>V. Grafiksel okuma<br>Yukarıdakilerden hangileri fotoğraf okuma yöntemlerindendir?",
+            "options": [
+                "Yalnız II",
+                "I ve II",
+                "I, III ve IV",
+                "II, III, IV ve V",
+                "I, II, III, IV ve V"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 67,
+            "question": "Çoğunlukla manzara ve topluluk fotoğrafları için kullanılan pozometre ölçüm modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Noktasal Ölçüm",
+                "Ortalama Ölçüm",
+                "Merkez Ağırlıklı Ortalama Ölçüm",
+                "Genel Değerlendirmeli Matrix Ölçüm",
+                "Çoklu Nokta Ölçüm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 68,
+            "question": "Fotoğrafçının imgesinde oluşturduğu konuyu fotoğraf yüzeyinde (dikey/yatay dikdörtgen çerçeve) yer alan anlatım ögeleriyle, izleyicinin algısında organize bir biçimde düzenlemesi ve sunmasına ne ad verilir?",
+            "options": [
+                "Görüntü estetiği",
+                "Pasif düzenleme",
+                "Öngörü",
+                "Kompozisyon",
+                "Aktif düzenleme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 69,
+            "question": "Objektiften geçen görüntünün 45 derece ile ayna yardımıyla önce bakaç üzerinde makinenin üst kısmındaki prizmaya, oradan da göze ulaştırıldığı tek objektifli yansıtmalı makina türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Küçük formatlı filimli",
+                "Büyük formatlı film kullanan",
+                "Ayrı bakaçlı",
+                "TRL tek objektifli yansıtmalı",
+                "SLR tek objektifli yansıtmalı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 70,
+            "question": "Bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine pozitif olarak basılmasına ne ad verilir?",
+            "options": [
+                "Kâğıt Baskısı",
+                "Test Baskısı",
+                "Kontak Baskı",
+                "Büyük Boy Baskı",
+                "Negatif Baskı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 71,
+            "question": "Küçük format film kullanan fotoğraf makinelerinin diğer adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Dar boy",
+                "Minyatür boy",
+                "Oval boy",
+                "Hibe boy",
+                "Kısa boy"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 72,
+            "question": "Otomatik netleme sistemine sahip fotoğraf makineleri aşağıdaki kısaltmalardan hangisiyle kodlanır?",
+            "options": [
+                "AF",
+                "ISO",
+                "C",
+                "TLR",
+                "F"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 73,
+            "question": "Aşağıdakilerden hangisi (RC) fotoğraf kağıdı katmanlarından biri <u>değildir</u>?",
+            "options": [
+                "Kağıt Arakatmanı",
+                "Koruyucu Katman",
+                "Emülsiyon Katmanı",
+                "Negatif Katman",
+                "Polietilen Katmanı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 74,
+            "question": "Tank ya da küvet hareket ettirilerek kimyasal eriyiğin emülsiyon yüzeyinin tamamını kaplamasının sağlandığı işleme ne ad verilir?",
+            "options": [
+                "Geliştirme işlemi",
+                "Saptama işlemi",
+                "Sabitleme işlemi",
+                "Durdurma işlemi",
+                "Ajitasyon işlemi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 75,
+            "question": "Aşağıdakilerden hangisi fotoğraf makinesi için hafıza kartı seçerken dikkat edilmesi gereken özelliklerden biridir?",
+            "options": [
+                "Objektifin önüne takılabilmesi",
+                "Filtre ile beraber kullanılabilmesi",
+                "Okuma yazma hızının yüksek, kapasitesinin fazla olması",
+                "Işığın şiddetini ölçebilmesi",
+                "Cep telefonuna takılabilmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 76,
+            "question": "Objektifin sahip olduğu en açık diyafram değerinde iken içeriye aldığı ışık miktarına ne ad verilir?",
+            "options": [
+                "Işık ölçüsü",
+                "Işık geçirgenliği",
+                "Işık hüzmesi",
+                "Işık limiti",
+                "Işık açıklığı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 77,
+            "question": "Aşağıdakilerden hangisi gün ışığında kontrastlığı yumuşatmak amacı ile kullanılan filtrelerden biridir?",
+            "options": [
+                "Koyu sarı filtre",
+                "Turuncu filtre",
+                "Açık sarı filtre",
+                "Mavi filtre",
+                "Kırımızı filtre"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 78,
+            "question": "35 mm film boyutuna eşdeğer görülen, sensör boyutu 36x24 mm ölçülerinde ve odak çarpanı \"1\" olan sayısal fotoğraf makinelerine ne ad verilir?",
+            "options": [
+                "Sayısal arkalıklı makineler",
+                "Basit kompakt sayısal fotoğraf makineleri",
+                "DSLR full-frame (tam çerçeve) makineler",
+                "Polaroid fotoğraf makineleri",
+                "Kompakt sayısal fotoğraf makineleri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 79,
+            "question": "CCD'ler ile ilgili ifadelerden hangisi/hangileri doğrudur?<br>I. CCD'ler bir görüntüyü siyah beyaz olarak korur.<br>II. Sonrasında renkli bir görüntü oluşturmak için ışığı; kırmızı, yeşil ve mavi filtrelerden geçirir. Bu işlem Bayer dosya deseni ismi ile anılır.<br>III. Her filtre sadece bir dalga boyuna izin verir ve sadece bir rengin kaydedilmesine izin veren herhangi bir piksele geçer.",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 80,
+            "question": "Sensörden gelen dijital veriler hiçbir işleme tabi tutulmadan ham olarak doğrudan belleğe yazılan görüntü dosyalama formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "TIFF",
+                "JPEG",
+                "PSD",
+                "RAW",
+                "PNG"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "522781"
+        },
+        {
+            "id": 81,
+            "question": "Aşağıdakilerden hangisi enstantane'nin tanımıdır?",
+            "options": [
+                "Fotoğraf makinesinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzenektir.",
+                "Fotoğraf makinelerinde konuyu çerçevelemeye yarayan optik sistemdir.",
+                "Fotoğraf makinesi objektiflerine takılan bir apart ile ışık miktarını yüzdelik olarak ayarlayan düzenektir.",
+                "Fotoğraf makinesinde cisimlerden gelen ışınları alıp film ya da algılayıcı yüzeyine aktaran mercek sistemidir.",
+                "Çekilecek nesnenin netliğinin yapılabilen düzenektir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 82,
+            "question": "Renklerin ilişkisine dair bulgular ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Açık renkler koyu bir zıt renkle güçlü bir kontrast oluşturur.",
+                "Renk ile ilgili düzenlemeler kompozisyon ögelerinden bağımsız düşünülebilir.",
+                "Koyu tonlar zıt renk olmayan koyu zeminlerde zayıf görünürler.",
+                "Açık renkler koyu renklerin yanında daha açık, koyu renkler ise beyazın yanında daha koyu algılanır.",
+                "Bir rengin algısı yanındaki diğer renklere göre değişim gösterir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 83,
+            "question": "Aşağıdakilerden hangisi renk ısısı ölçü birimi olarak kullanılır?",
+            "options": [
+                "Fahrenheit",
+                "Santigrad",
+                "Celsius",
+                "Watt",
+                "Kelvin"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 84,
+            "question": "Venedikli mimar ve yazar olan Daniello Barbaronun, \"Camera Obscura\" fotoğraf makinasına yaptığı katkı aşağıdakilerden hangisidir?",
+            "options": [
+                "İkinci bir mercek takması",
+                "Karanlık odanın boyutlarının hesaplanması",
+                "Birinci merceği takması",
+                "Camera Lucidayı yapması",
+                "Fotoğraf makinelerinde kullanılan aynadaki yansıma kuralını bulması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 85,
+            "question": "Pozometre ya da diğer adıyla ışık ölçerin işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Işığın rengini ölçmek",
+                "Işığın sıcaklığını ölçmek",
+                "Flaş ışığının şiddetini engellemek",
+                "Işığın açısını azaltmak",
+                "Işığın şidetini ölçmek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 86,
+            "question": "Aydınlatma kaynaklarının ortaya çıkardığı renk ısıları aşağıdaki değerlerden hangisiyle ifade edilir?",
+            "options": [
+                "Stop",
+                "Doygunluk",
+                "Kelvin",
+                "f değeri",
+                "Kontrast"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 87,
+            "question": "Model veya portre çekimi yapan bir fotoğrafçının kurguyu yönlendirip modelin nasıl durması gerektiğine, ne giyinmesi gerektiğine ve nereye bakması gerektiğine karar verdiği düzenlemelere denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "durağan düzenleme",
+                "devingen düzenleme",
+                "pasif düzenleme",
+                "kompozisyon",
+                "aktif düzenleme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 88,
+            "question": "Aşağıdakilerden hangisi fotoğraf makinelerinin objektifleri için kullanılan AF ifadesinin anlamıdır?",
+            "options": [
+                "Otomatik renk ısısı",
+                "Otomatik diyafram",
+                "Otomatik baskı",
+                "Otomatik netleme",
+                "Otomatik örtücü hızı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 89,
+            "question": "Fotoğrafta gözün <b>ilk</b> takıldığı ve bütün içerisinde <b>ilk</b> hissedilen kompozisyon ögesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Nokta",
+                "Eğri",
+                "Leke",
+                "Çizgi",
+                "Doku"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 90,
+            "question": "Ayrı bakaçlı fotoğraf makinelerinde vizör ile objektifin farklı görüş açıları olması nedeniyle görüntüde meydana gelen kayba ne ad verilir?",
+            "options": [
+                "Perspekrtif hatası",
+                "Paralaks hatası",
+                "Bakaç hatası",
+                "Ölçek hatası",
+                "Açı hatası"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 91,
+            "question": "En açıktan en koyu tona geçinceye kadar bir film ya da fotoğraf kâğıdında ara gri tonlarının varlığı ya da yokluğuna ne ad verilir?",
+            "options": [
+                "Kağıt ara katmanı",
+                "Polarizen",
+                "Filtre",
+                "Kontrast",
+                "Koruyucu"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 92,
+            "question": "35mm film kullanan fotoğraf makinelerinde film yüzeyi boyutu aşağıdakilerden hangisidir?",
+            "options": [
+                "70x70 mm",
+                "34x51 mm",
+                "24x36 mm",
+                "16x24 mm",
+                "8x12 mm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 93,
+            "question": "Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir?",
+            "options": [
+                "Nötr",
+                "Ajitasyon",
+                "Saptama banyosu",
+                "Gizli görüntü",
+                "Seyreltme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 94,
+            "question": "Çok pozlanmış negatif ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Işıklı alanları aşırı yoğun ve koyu bir negatif görünür.",
+                "Duyarlıktaki gümüş tuzları kümelenerek grenler oluşur.",
+                "Siyah renkler koyu grilere dönüşür.",
+                "Koyu gözüken alanlarda ışık patlamalarının olduğu ve detayların azaldığı görülür.",
+                "Çekim esnasında olması gerekenden daha fazla pozlama yapılmıştır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 95,
+            "question": "Görüntüyü kaydetmek için kullanılan filmlerin yerini alan fotoğraf malzemesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Hafıza kartı",
+                "Pozometre",
+                "Tripod",
+                "Objektif",
+                "Flaş"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 96,
+            "question": "200 mm ve üstü odak uzaklığına sahip objektifler aşağıdaki gruplardan hangisine girer?",
+            "options": [
+                "Makro açılı objektifler",
+                "Süper tele objektifler",
+                "Normal açılı objektifler",
+                "Balık gözü objektifler",
+                "Geniş açılı objektifer"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 97,
+            "question": "Işığın parlak yüzeylerde meydana getirdiği yansımaya ne ad verilir?",
+            "options": [
+                "Efekt",
+                "Renk",
+                "Projektör",
+                "Polarizasyon",
+                "Tungsten"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 98,
+            "question": "Toplamsal Renk Sentezi olan RGB renk modelindeki renkler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Yeşil - Turuncu - Mor",
+                "Sarı - Yeşil - Mavi",
+                "Mavi - Sarı - Kırmızı",
+                "Kırmızı - Sarı - Mavi",
+                "Kırmızı - Yeşil - Mavi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 99,
+            "question": "Dijital fotoğraf makinelerinin oluşturacağı çözünürlüğü belirten ölçü birimine ne ad verilir?",
+            "options": [
+                "ISO hızı",
+                "RGB",
+                "Megapiksel",
+                "Histogram",
+                "Toz piksel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 100,
+            "question": "Dijital fotoğraf makinelerinde düzenlenmemiş ve işlenmemiş ham görüntü verilerinin doğrudan belleğe yazılmasıyla oluşan görüntü dosyası formatına ne ad verilir?",
+            "options": [
+                "RAW",
+                "JPEG",
+                "TIFF",
+                "BMP",
+                "PDF"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574638"
+        },
+        {
+            "id": 101,
+            "question": "Fotoğraf makinelerinin objektiflerinde, film ya da algılayıcının yüzeyine ulaşacak ışık miktarını ayarlayan düzenek aşağıdakilerden hangisidir?",
+            "options": [
+                "Vizör",
+                "Diyafram",
+                "Örtücü",
+                "Sensör",
+                "Objektif"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 102,
+            "question": "Fotoğrafın değişmeyen temel unsuru aşağıdakilerden hangisidir?",
+            "options": [
+                "RAW görüntü oluşturulması",
+                "Negatifinin olması",
+                "Digital görüntü olması",
+                "Görüntünün kopyalanabilmesi",
+                "Değişken objektiflerle görüntü oluşturulması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 103,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin özelliklerinden biridir?",
+            "options": [
+                "Fotoğraf filmi kullanmaları",
+                "Sabit objektifli olmaları",
+                "Özel kasetli film kullanmaları",
+                "SLR fotoğraf makineleriyle aynı olmaları",
+                "Değiştirilebilir tek objektifli olmaları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 104,
+            "question": "Görüntüyü üç boyutlu olarak görebilmek için üzerinde bulunan iki ayrı kamera ile aynı anda iki farklı açıdan çekim yapabilen makine türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Panaromik",
+                "SLR",
+                "TLR",
+                "İnstant ve rapid",
+                "Stereoskobik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 105,
+            "question": "Dijital veya analog fotoğraf makinelerinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzeneğe ______ denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "vizör (bakaç)",
+                "enstantane (örtücü)",
+                "deklanşör",
+                "flash",
+                "diyafram"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 106,
+            "question": "Fotoğraf makinasında parazitlenme ya da gürültüyü (noise) aza indirmek için öncelikle dikkat edilmesi gereken birim aşağıdakilerden hangisidir?",
+            "options": [
+                "ISO",
+                "Diyafram",
+                "Pozometre",
+                "Enstantane",
+                "Kelvin"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi soğuk renklerden biridir?",
+            "options": [
+                "Sarı",
+                "Beyaz",
+                "Yeşil",
+                "Kırmızı",
+                "Turuncu"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 108,
+            "question": "Fotoğraftaki genel renk doygunluğunu aşağıdakilerden hangisi etkiler?",
+            "options": [
+                "Renk değeri",
+                "Pozlandırma",
+                "Renk ısısı",
+                "Parlaklık",
+                "Kontrast"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 109,
+            "question": "DSLR fotoğraf makinelerinde, JPEG dışında makinelerin kaydedebildiği sıkıştırılmamış format aşağıdakilerden hangisidir?",
+            "options": [
+                "Exposure",
+                "Photoshop",
+                "Highlights",
+                "RAW",
+                "White Balance"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 110,
+            "question": "______ ışığın artış veya azalışının ışık kaynağının konuya olan mesafesinin değişiminin karesi ile ters orantılı olmasını anlatır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Işık kaynakları",
+                "Işığın kalitesi",
+                "Parlaklık",
+                "Kontrast",
+                "Ters kare yasası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 111,
+            "question": "Gölgelerin, nesnelerin arkasına düştüğü aydınlatma türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Ters Işık",
+                "Alttan aydınlatma",
+                "Ön aydınlatma",
+                "Dengeli aydınlatma",
+                "Yan Işık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 112,
+            "question": "Hareketli konuların bilinçli bir şekilde net <u>olmayan</u> ve bulanık fotoğrafları çekilmek istendiğinde aşağıdakilerden hangisinin yapılması gerekir?",
+            "options": [
+                "Enstantene değerini azaltmak",
+                "Diyafram değerini azaltmak",
+                "Doğru pozlama yapmak",
+                "Alan derinliğini artırmak",
+                "ISO değerini artırmak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 113,
+            "question": "Cephe aydınlatması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Siluet çekimlerinde sıklıkla kullanılır.",
+                "Konunun iç boyutluluğunu, derinliğini ve kontrastını arttırmak amacıyla sıklıkla kullanılır.",
+                "Hacim ve derinlik etkisi düşük seviyededir.",
+                "Kontrastı en yüksek olan aydınlatma türüdür.",
+                "Aydınlatma kaynağının konunun sağ ya da sol tarafında kaldığı konumu ifade eder."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 114,
+            "question": "Pozometre ya da diğer adıyla ışık ölçerin işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Işığın sıcaklığını ölçmek",
+                "Işığın açısını azaltmak",
+                "Işık miktarının şiddetini ölçmek",
+                "Flaş ışığının şiddetini bulmak",
+                "Işığın rengini ölçmek"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 115,
+            "question": "Makinenin, doğru ışık koşullarında, enstantane, diyafram, beyaz ayarı ve ISO değerleriyle en doğru netleme koşulunun sağlanmasına ne ad verilir?",
+            "options": [
+                "Keskinlik",
+                "Belirginlik",
+                "Kompozisyon",
+                "Ufuk çizgisi",
+                "Hareket"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 116,
+            "question": "Fotoğraf yüzeyinde ve hemen hemen tüm görsel sanatlarda iskelet konumunda olan, gözün ilk takıldığı ve ilk hissedilen komposizyon ögesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Nokta",
+                "Çizgi",
+                "Doku",
+                "Leke",
+                "Renk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 117,
+            "question": "Işık kaynağının renk sıcaklığından kaynaklanan sapmaların engellenerek görüntünün en doğru renklerle oluşturulmasını sağlamak için yapılan düzeltmeye ______ denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "matrix ölçüm",
+                "doğru pozlama",
+                "poz telafisi",
+                "eşdeğerlilik yasası",
+                "beyaz ayarı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 118,
+            "question": "Hareket içermeyen dingin (doğa, manzara, vs.) konuları fotoğraflamak için aşağıdaki çerçeve şekillerinden hangisi tercih edilir?",
+            "options": [
+                "Dairesel",
+                "Yatay dikdörtgen",
+                "Kare",
+                "Dikey dikdörtgen",
+                "Diyagonal"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 119,
+            "question": "Hareket eden nesnelerin fotoğraflanırken, arka veya ön planda hız, hareket hissini verecek etkilerin oluşturulmasına ______ uygulaması denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "ters ışık",
+                "gestalt",
+                "belirginlik",
+                "pan",
+                "keskinlik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 120,
+            "question": "Aşağıdaki fotoğrafçılık alanlarından hangisi aktif düzenleme içinde yer alır?",
+            "options": [
+                "Moda fotoğrafçılığı",
+                "Haber fotoğrafçılığı",
+                "Çocuk ve çocuk oyunlarının fotoğrafçılığı",
+                "Sokak fotoğrafçılığı",
+                "Vahşi hayvan fotoğrafçılığı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "522739"
+        },
+        {
+            "id": 121,
+            "question": "Dar açılı objektiflerin <b>temel özelliği</b> aşağıdakilerden hangisidir?",
+            "options": [
+                "İnsan gözünün görebildiği açıya en yakın görüşü sağlaması",
+                "Odak uzaklığının normal objektiften daha büyük olması",
+                "En geniş açıya sahip objektif olması",
+                "Alan derinliğinin en fazla olduğu objektif olması",
+                "Genel amaçlı kullanımlarda tercih edilmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 122,
+            "question": "1826 yılında Fransız Joseph Nicephore Niepce, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden <b>ilk defa bir görüntüyü</b> sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir. Yukarıdaki bilgiye göre, Niepce'nin <b>ilk fotoğrafları</b> aynı zamanda hangi isimle adlandırılır?",
+            "options": [
+                "Helyograf",
+                "Fotoğraf",
+                "Dagerotip",
+                "Gerçek imaj",
+                "Latent imaj"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 123,
+            "question": "Dijital veya analog fotoğraf makinelerinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzeneğe ________ denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "vizör (bakaç)",
+                "enstantane (örtücü)",
+                "deklanşör",
+                "diyafram",
+                "flash"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 124,
+            "question": "Toplamsal <b>ana renkler</b> aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Siyah - beyaz",
+                "Sarı - turkuaz - eflatun",
+                "Kırmızı - mavi - yeşil",
+                "Kırmızı - sarı - eflatun",
+                "Yeşil - beyaz"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 125,
+            "question": "Atatürk'ün fotoğraflarını çekerek portre geleneğini devam ettiren ve <b>ilk foto muhabiri</b> unvanı ile atanan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Vasil Kargopoulo",
+                "Şinasi Barutçu",
+                "Selahattin Giz",
+                "Ara Güler",
+                "Cemal Işıksel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 126,
+            "question": "Aşağıdakilerden hangisi fotoğraf makinesinin <b>ana elemanlarından</b> biri <u>değildir</u>?",
+            "options": [
+                "Film",
+                "Örtücü",
+                "Diyafram",
+                "Vizör",
+                "Objektif"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 127,
+            "question": "Fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmak için kullanılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Detay",
+                "Parlaklık",
+                "Işığın Şiddeti",
+                "Kontrast",
+                "Işığın Kalitesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 128,
+            "question": "Işığın renk sıcaklığını ölçmek için ------ isimli birim kullanılmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "metre",
+                "santigrad",
+                "celsius",
+                "fahrenheit",
+                "kelvin"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 129,
+            "question": "Gölgelerin, nesnelerin arkasına düştüğü aydınlatma türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Alttan aydınlatma",
+                "Ters Işık",
+                "Ön aydınlatma",
+                "Yan Işık",
+                "Tungsten aydınlatma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 130,
+            "question": "Işığın artış veya azalışının ışık kaynağının konuya olan mesafesinin değişiminin karesi ile ters orantılı olması durumuna ne ad verilir?",
+            "options": [
+                "Ters Kare Yasası",
+                "Altın Oran",
+                "Örtücü Hızı Değeri",
+                "Üçe Bir Oranı",
+                "Aydınlanma Yasası"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 131,
+            "question": "Doğru pozlamayı elde etmek için ayarlanması gereken değerler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Diyafram - enstantane - netleme modu",
+                "Enstantane - diyafram - beyaz ayarı",
+                "Çözünürlük - enstantane - diyafram",
+                "Diyafram - enstantane - ISO",
+                "Diyafram - ISO - odak uzunluğu"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 132,
+            "question": "Aşağıdakilerden hangisi LED aydınlatma donanımlarının avantajlarından biri <u>değildir</u>?",
+            "options": [
+                "Kullanım kolaylığı",
+                "Renk kararlılığı",
+                "Portatif, hafif ve taşınabilir olması",
+                "Daha güçlü ve uzun ömürlü olmaları",
+                "Yüksek enerji sarfiyatı sağlamaları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 133,
+            "question": "Fotoğraf çekiminde kullanılan aydınlatma kaynağını tek yönlü olarak yumuşatan bez ya da kumaş destekli kutuya benzer yapıdaki ekipman aşağıdakilerden hangisidir?",
+            "options": [
+                "Dağıtıcı/Difüzör",
+                "Spot ışıklar",
+                "Softbox",
+                "Dâhilî Pozometre",
+                "Paraflaşlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 134,
+            "question": "Diyafram öncelikli pozlamayı belirten fotoğraf çekim modunun kısaltması aşağıdakilerden hangisidir?",
+            "options": [
+                "P",
+                "AE - L",
+                "Tv / S",
+                "Av / A",
+                "B"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 135,
+            "question": "Fotoğraf okuma süreci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Fotoğraf okurken makinenin türü yargımızı etkiler.",
+                "Fotoğraf her okuyanda farklı sonuç ve tartışma yaratır.",
+                "Fotoğraf her okuyanda aynı imgeyi çağrıştırır.",
+                "Fotoğraf her okuyanın birikimiyle sınırlı <u>değildir</u>.",
+                "Fotoğraf her okuyanda aynı öyküyü oluşturur."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 136,
+            "question": "Fotoğrafı çeken fotoğrafçının konuyu oluştururken inisiyatif kullanması, konuya müdahil olarak çektiği fotoğraf ile ilgili kararları alması aşağıdaki hangi kavram ile tanımlanır?",
+            "options": [
+                "Bilinçli çerçeveleme",
+                "Pasif düzenleme",
+                "Aktif düzenleme",
+                "Rastgele çerçeveleme",
+                "Görsel düzenleme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 137,
+            "question": "Fotoğraf çekiminde konunun siluet şeklinde görülmesi istendiğinde aşağıdaki aydınlatma türlerinden hangisi tercih edilir?",
+            "options": [
+                "Tepe aydınlatma",
+                "Yanal aydınlatma",
+                "Alt aydınlatma",
+                "Ters aydınlatma",
+                "Cephe aydınlatma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 138,
+            "question": "Fotoğraf çerçevesi içerisine alınan nesnelerin, ön plan ve arka plan ilişkisi veya yan yana geldiklerinde birbirleriyle oluşturdukları ilişki aşağıdaki kavramlardan hangisiyle tanımlanır?",
+            "options": [
+                "Oran Orantı",
+                "Ritim",
+                "Uyum",
+                "Perspektif",
+                "Zıtlık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 139,
+            "question": "Aşağıdakilerden hangisi kompozisyonun <b>yapısal ögelerinden</b> biridir?",
+            "options": [
+                "Işık",
+                "Keskinlik",
+                "Bakış açısı",
+                "Belirginlik",
+                "Denge"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 140,
+            "question": "İki noktayı bir birine bağlayan doğru olarak tanımlanan ve fotoğrafik bir anlatımda <b>ilk anlatım elemanı</b> olarak bilinen yapısal öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Boşluk",
+                "Çizgi",
+                "Leke",
+                "Ritim",
+                "Işık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "522755"
+        },
+        {
+            "id": 141,
+            "question": "Atatürk'ün fotoğraflarını çekerek portre geleneğini devam ettiren ve ilk foto muhabiri unvanı ile atanan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Selahattin Giz",
+                "Cemal Işıksel",
+                "Şinasi Barutçu",
+                "Vasil Kargopoulo",
+                "Ara Güler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 142,
+            "question": "Görüntüyü üç boyutlu görebilmek için aynı anda iki farklı açıdan çekilmiş fotoğrafın birine bir gözle, diğerine diğer gözle bakılan fotoğraf türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Küçük boy fotoğraf",
+                "Panaromik fotoğraf",
+                "Instant fotoğraf",
+                "Stereoskobik fotoğraf",
+                "Rapid fotoğraf"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 143,
+            "question": "140°'lik bir sahanın görüntülenmesi için kullanılan fotoğraf makinesi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Stereoskobik Makineler",
+                "Rapid Makineler",
+                "70 mm makineler",
+                "Instant Makineler",
+                "Panaromik Makineler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 144,
+            "question": "1826 yılında Fransız Joseph Nicephore Niepce, yaklaşık sekiz saatlik bir pozlamayla evinin penceresinden ilk defa bir görüntüyü sabitlemiştir. Pencereden görünüm görüntüsü, ilk fotoğraf olarak kabul edilir. Yukarıdaki bilgiye göre, Niepce'nin ilk fotoğrafları aynı zamanda hangi isimle adlandırılır?",
+            "options": [
+                "Gerçek imaj",
+                "Fotoğraf",
+                "Latent imaj",
+                "Helyograf",
+                "Dagerotip"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 145,
+            "question": "Bu soru iptal edilmiştir.",
+            "options": [
+                "A Seçeneği (İptal)",
+                "B Seçeneği (İptal)",
+                "C Seçeneği (İptal)",
+                "D Seçeneği (İptal)",
+                "E Seçeneği (İptal)"
+            ],
+            "correctIndex": -1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 146,
+            "question": "Bir renk ve bu rengin tonlarının fotoğrafın tümünde yer alması aşağıdaki kavramlardan hangisi ile tanımlanır?",
+            "options": [
+                "Çıkarımsal renk sentezi",
+                "Hakim renk",
+                "Toplamsal renk sentezi",
+                "Renk tonu",
+                "Renk uyumu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 147,
+            "question": "Fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmak için kullanılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Detay",
+                "Işığın Şiddeti",
+                "Parlaklık",
+                "Kontrast",
+                "Işığın Kalitesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 148,
+            "question": "Aşağıdakilerden hangisi DSLR fotoğraf makinelerinde beyaz ayarı menüsünde bulunan ayarlamalardan biri <u>değildir</u>?",
+            "options": [
+                "Chiaroscuro",
+                "Gün ışığı modu",
+                "Gölge modu",
+                "Tungsten ışık modu",
+                "AWB"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 149,
+            "question": "Fotoğraf çekiminde kullanılan aydınlatma kaynağını tek yönlü olarak yumuşatan bez ya da kumaş destekli kutuya benzer yapıdaki ekipman aşağıdakilerden hangisidir?",
+            "options": [
+                "Paraflaşlar",
+                "Spot ışıklar",
+                "Softbox",
+                "Dağıtıcı/Difüzör",
+                "Dâhilî Pozometre"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 150,
+            "question": "Aşağıdakilerden hangisi renk ısısı ölçü birimi olarak kullanılır?",
+            "options": [
+                "Santigrad",
+                "Kelvin",
+                "Celsius",
+                "Watt",
+                "Fahrenheit"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 151,
+            "question": "Fotoğrafta renk kullanımı temel gurubunda yer alan, tablo gibi renklendirmeyi anımsatan ve resimsel kompozisyonu ifade eden düzenleme aşağıdakilerden hangisidir?",
+            "options": [
+                "Tarihsel renk",
+                "Düzenleyici renk",
+                "Sembolik renk",
+                "Resimsel renk",
+                "Psikolojik renk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 152,
+            "question": "El tipi olarak bilinen pozometreler aşağıdakilerden hangisidir?",
+            "options": [
+                "Analog pozometreler",
+                "Mekanik pozometreler",
+                "Dijital pozometreler",
+                "Dahili pozometreler",
+                "Harici pozometreler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 153,
+            "question": "Siluet çekimlerinde sıklıkla kullanılan ve kontrastı en yüksek olan aydınlatma türü hangisidir?",
+            "options": [
+                "Cephe Aydınlatma",
+                "Alt Aydınlatma",
+                "Ters Aydınlatma",
+                "Tepe Aydınlatma",
+                "Yanal Aydınlatma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 154,
+            "question": "Aşağıdakilerden hangisi LED aydınlatma donanımlarının avantajlarından biri <u>değildir</u>?",
+            "options": [
+                "Yüksek enerji sarfiyatı sağlamaları",
+                "Portatif, hafif ve taşınabilir olması",
+                "Daha güçlü ve uzun ömürlü olmaları",
+                "Renk kararlılığı",
+                "Kullanım kolaylığı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 155,
+            "question": "Fotoğraf yüzeyinde oluşturulan kompozisyonda yüzeysel boşlukların organizasyonuna ne ad verilir?",
+            "options": [
+                "Renk espası",
+                "Derinlik espası",
+                "Ritim espası",
+                "Işık espası",
+                "Yüzey espası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 156,
+            "question": "Fotoğrafı çeken fotoğrafçının konuyu oluştururken inisiyatif kullanması, konuya müdahil olarak çektiği fotoğraf ile ilgili kararları alması aşağıdaki hangi kavram ile tanımlanır?",
+            "options": [
+                "Aktif düzenleme",
+                "Pasif düzenleme",
+                "Rastgele çerçeveleme",
+                "Bilinçli çerçeveleme",
+                "Görsel düzenleme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 157,
+            "question": "Dalga boyu en yüksek değere sahip olan renk aşağıdakilerden hangisidir?",
+            "options": [
+                "Sarı",
+                "Yeşil",
+                "Mavi",
+                "Turuncu",
+                "Kırmızı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 158,
+            "question": "Aşağıdakilerden hangisi Gestalt kuramının ilkelerinden biri <u>değildir</u>?",
+            "options": [
+                "Devamlılık ve benzerlik",
+                "Karmaşıklık",
+                "Simetri",
+                "Şekil zemin ilişkisi",
+                "Tamamlama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 159,
+            "question": "Fotoğraf makinelerinde diyafram değeri aşağıdaki harflerden hangisi ile ifade edilir?",
+            "options": [
+                "e",
+                "h",
+                "f",
+                "g",
+                "d"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 160,
+            "question": "İki noktayı bir birine bağlayan doğru olarak tanımlanan ve fotoğrafik bir anlatımda ilk anlatım elemanı olarak bilinen yapısal öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Çizgi",
+                "Ritim",
+                "Leke",
+                "Boşluk",
+                "Işık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541186"
+        },
+        {
+            "id": 161,
+            "question": "Doğada gözle görülebilen maddi varlık ve şekillerin ışık ve bazı kimyasal maddeler yardımıyla ışığa karşı duyarlı hâle getirilmiş film veya herhangi bir madde üzerine saptanması için fiziksel ve kimyasal işleme ne ad verilir?",
+            "options": [
+                "Film",
+                "Pozometre",
+                "Video",
+                "Fotoğraf",
+                "Diyafram"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 162,
+            "question": "Fotoğraf makinesinde, dürbün, mikroskop gibi optik aletlerde cisimlerden gelen ışınları alıp film ya da algılayıcı yüzeyine aktaran yakınsak mercek veya mercek sistemine ne ad verilir?",
+            "options": [
+                "Objektif",
+                "Örtücü",
+                "Dürbün",
+                "Deklanşör",
+                "ISO"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 163,
+            "question": "Fotoğrafçılıkta \"f\" adı verilen ve 1.2 - 1.4 - 1.8 - 2 - 2.8 - 4 - 5.6 - 8 - 11 - 16 - 22 - 32 şeklinde belli bir rakamsal standardı bulunan değer aşağıdakilerden hangisidir?",
+            "options": [
+                "Film hızı",
+                "Enstantane",
+                "Örtücü hızı",
+                "Diyafram açıklığı",
+                "Örtücü açıklığı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 164,
+            "question": "140°'lik bir sahanın görüntülenmesi için kullanılan fotoğraf makinesi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Stereoskobik Makineler",
+                "Rapid Makineler",
+                "Instant Makineler",
+                "70 mm makineler",
+                "Panaromik Makineler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 165,
+            "question": "Dijital veya analog fotoğraf makinelerinin içinde veya objektifinde bulunan ve objektif içinden geçen ışınları kesmeye yarayan düzeneğe ------ denir.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "diyafram",
+                "enstantane (örtücü)",
+                "flash",
+                "pozometre",
+                "vizör (bakaç)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 166,
+            "question": "Aşağıdakilerden hangisi renk ısısı ölçü birimi olarak kullanılır?",
+            "options": [
+                "Kelvin",
+                "Watt",
+                "Santigrad",
+                "Fahrenheit",
+                "Celsius"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 167,
+            "question": "Bir renk ve bu rengin tonlarının fotoğrafın tümünde yer alması aşağıdaki kavramlardan hangisi ile tanımlanır?",
+            "options": [
+                "Hakim renk",
+                "Toplamsal renk sentezi",
+                "Çıkarımsal renk sentezi",
+                "Renk uyumu",
+                "Renk tonu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 168,
+            "question": "Fotoğraf görüntüsünün veya nesnelerin en açık ve en koyu tonlarının farkını anlatmak için hangi kullanılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Fahrenheit",
+                "Işığın Şiddeti",
+                "Parlaklık",
+                "Kelvin",
+                "Kontrastlık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 169,
+            "question": "Fotoğrafta renk kullanımı temel gurubunda yer alan, tablo gibi renklendirmeyi anımsatan ve resimsel kompozisyonu ifade eden düzenleme aşağıdakilerden hangisidir?",
+            "options": [
+                "Psikolojik renk",
+                "Tarihsel renk",
+                "Sembolik renk",
+                "Düzenleyici renk",
+                "Resimsel renk"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 170,
+            "question": "Aşağıdakilerden hangisi standart enstantane değerlerinden biri <u>değildir</u>?",
+            "options": [
+                "1/30",
+                "1/45",
+                "1/60",
+                "1/125",
+                "1/250"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 171,
+            "question": "Aşağıdakilerden hangisi sıkıştırılmamış fotoğraf dosya formatlarından biridir?",
+            "options": [
+                "RAW",
+                "JPGA",
+                "JPEG",
+                "MOV",
+                "GIF"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 172,
+            "question": "Kullanıcının yalnızca enstantaneyi kontrol ettiği, diyaframın ise seçilen enstantane değerine göre otomatik olarak makine tarafından belirlendiği çekim modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Diyafram Öncelikli",
+                "Enstantane Öncelikli",
+                "Program Modu",
+                "Manuel Mod",
+                "Bulb Modu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 173,
+            "question": "Fotoğraf makinelerinde diyafram değeri aşağıdaki harflerden hangisi ile ifade edilir?",
+            "options": [
+                "e",
+                "f",
+                "h",
+                "g",
+                "d"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 174,
+            "question": "Aşağıdakilerden hangisi LED aydınlatma donanımlarının avantajlarından biri <u>değildir</u>?",
+            "options": [
+                "Portatif, hafif ve taşınabilir olması",
+                "Kullanım kolaylığı",
+                "Yüksek enerji sarfiyatı sağlamaları",
+                "Renk kararlılığı",
+                "Daha güçlü ve uzun ömürlü olmaları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 175,
+            "question": "İki noktayı bir birine bağlayan doğru olarak tanımlanan ve fotoğrafik bir anlatımda ilk anlatım elemanı olarak bilinen yapısal öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Leke",
+                "Işık",
+                "Ritim",
+                "Çizgi",
+                "Boşluk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 176,
+            "question": "Aşağıdakilerden hangisi pozlama dengesinin tanımıdır?",
+            "options": [
+                "Fotoğrafta yer alan kişilerin çerçeve içinde dağılımlarını sağlar.",
+                "Fotoğrafta dolu ve boş alan oranların dengesidir.",
+                "Fotoğrafın grafik ağırlıklarını ifade eden değerdir.",
+                "Fotoğrafta yer alan kişilerin kendi dengelerini fotoğrafa yansıtma biçimleridir.",
+                "Film ya da duyarlı yüzeylerin görüntü oluşturmak için ihtiyaç duydukları ışık miktarının oranlanmasıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 177,
+            "question": "Model veya portre çekimi yapan bir fotoğrafçının kurguyu yönlendirip modelin nasıl durması gerektiğine, ne giyinmesi gerektiğine ve nereye bakması gerektiğine karar verdiği düzenlemelere ------ denir.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "devingen düzenleme",
+                "durağan düzenleme",
+                "aktif düzenleme",
+                "kompozisyon",
+                "pasif düzenleme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 178,
+            "question": "Fotoğraf yüzeyinde oluşturulan kompozisyonda yüzeysel boşlukların organizasyonuna ne ad verilir?",
+            "options": [
+                "Renk espası",
+                "Derinlik espası",
+                "Ritim espası",
+                "Yüzey espası",
+                "Işık espası"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 179,
+            "question": "Dalga boyu en yüksek değere sahip olan renk aşağıdakilerden hangisidir?",
+            "options": [
+                "Turuncu",
+                "Kırmızı",
+                "Sarı",
+                "Yeşil",
+                "Mavi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 180,
+            "question": "Pasif düzenleme ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?<br>I. Fotoğrafı çeken fotoğrafçının konuyu oluştururken konuya hiçbir şekilde müdahalesinin olmaz.<br>II. Pasif düzenleme içerisinde konunun tekrarlanma şansı neredeyse yoktur.<br>III. Pasif düzenlemeye Moda fotoğrafçılığı ve model çekimleri örnek olarak verilebilir.",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591728"
+        },
+        {
+            "id": 181,
+            "question": "Aşağıdakilerden hangisi fotoğraf makinesinin ana elemanlarından biri <u>değildir</u>?",
+            "options": [
+                "Örtücü",
+                "Diyafram",
+                "Objektif",
+                "Vizör",
+                "Film"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 182,
+            "question": "Aydınlatma kaynaklarının ortaya çıkardığı renk ısıları aşağıdaki değerlerden hangisiyle ifade edilir?",
+            "options": [
+                "Stop",
+                "Kelvin",
+                "F değeri",
+                "Doygunluk",
+                "Kontrast"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 183,
+            "question": "Fotoğraf yüzeyinde amacına uygun kullanılan boşluklara ---- denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "doku",
+                "fon",
+                "ışık",
+                "espas",
+                "derinlik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 184,
+            "question": "Ayrı bakaçlı fotoğraf makinelerinde vizör ile objektifin farklı görüş açıları olması nedeniyle görüntüde meydana gelen kayba ne ad verilir?",
+            "options": [
+                "Paralaks hatası",
+                "Perspektif hatası",
+                "Ölçek hatası",
+                "Açı hatası",
+                "Bakaç hatası"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 185,
+            "question": "Photoshop programının RAW formatındaki fotoğraflara yapılacak özel işlemler için ihtiyaç duyduğu eklenti aşağıdakilerden hangisidir?",
+            "options": [
+                "Adobe Photoshop DSLR",
+                "Adobe Photoshop JPEG",
+                "Adobe Illustrator",
+                "Adobe Lightroom",
+                "Adobe Photoshop Camera RAW"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 186,
+            "question": "Ön yüzeylerinde birbiriyle bağlantılı iki ayrı objektif taşıyan fotoğraf makineleri aşağıdaki kavramlardan hangisiyle tanımlanır?",
+            "options": [
+                "Tek objektifli yansıtmalı fotoğraf makineleri",
+                "TLR Çift objektifli yansıtmalı fotoğraf makineleri",
+                "Tek objektifli yansıtmasız fotoğraf makineleri",
+                "Çift objektifli yansıtmasız fotoğraf makineleri",
+                "Bakaçsız fotoğraf makineleri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 187,
+            "question": "I. SLR Makineler<br>II. Polaroid Makineler<br>III. Panoramik Makineler<br>IV. TLR Makineler<br>Yukarıdakilerden hangileri özel amaçlı makine türlerindendir?",
+            "options": [
+                "I ve II",
+                "I ve III",
+                "I ve IV",
+                "II ve III",
+                "II ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 188,
+            "question": "Aşağıdakilerden hangisi fotoğraf kağıdı katmanları arasında yer <u>almaz</u>?",
+            "options": [
+                "Koruyucu katman",
+                "Emüysiyon katmanı",
+                "Gümüş katman",
+                "Polietilen katmanı",
+                "Kağıt arakatmanı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 189,
+            "question": "Sıvı halde hazır satılıp belirli oranlarda su ile karıştırılarak seyreltilen ve karanlık odada film yıkama ya da baskıda kullanılan banyolara ne ad verilir?",
+            "options": [
+                "Stok banyo",
+                "Geliştirme banyosu",
+                "Durdurma banyosu",
+                "Saptama banyosu",
+                "Ajitasyon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 190,
+            "question": "Otomatik netleme sistemine sahip fotoğraf makineleri aşağıdaki kısaltmalardan hangisiyle kodlanır?",
+            "options": [
+                "F",
+                "TLR",
+                "ISO",
+                "AF",
+                "C"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 191,
+            "question": "---- bir negatif filmin tüm karelerinin birebir boyutta tek bir kâğıt üzerine basılmış pozitif hâlidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Küçük baskı",
+                "Test baskısı",
+                "Kontak baskı",
+                "Büyük baskı",
+                "Agrandisman baskı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 192,
+            "question": "Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir?",
+            "options": [
+                "Netsiz görüntü",
+                "Negatif görüntü",
+                "Saydam görüntü",
+                "Pozitif görüntü",
+                "Gizli görüntü"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 193,
+            "question": "Yeşil tonlarını daha aydınlık ve parlak bir hâle getirirken, mavi rengin yoğunluğunu artıran filtre aşağıdakilerden hangisidir?",
+            "options": [
+                "Açık sarı filtre",
+                "Orta sarı filtre",
+                "Koyu sarı filtre",
+                "Yeşil filtre",
+                "Mavi filtre"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 194,
+            "question": "Aşağıdakilerden hangisi gün ışığında kontrastlığı yumuşatmak amacı ile kullanılan filtrelerden biridir?",
+            "options": [
+                "Açık sarı filtre",
+                "Koyu sarı filtre",
+                "Mavi filtre",
+                "Kırımızı filtre",
+                "Turuncu filtre"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 195,
+            "question": "Çekim yapılan ortamdaki konuya yansıyan ışığı ölçerek bu ışığın diyafram ve enstantane cinsinden karşılığını veren ve doğru enstantane diyafram ayarı yapmayı sağlayan cihazlara ne ad verilir?",
+            "options": [
+                "Pozometreler",
+                "Hafıza kartları",
+                "Üç ayaklar",
+                "Flaşlar",
+                "Deklanşör kablosu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 196,
+            "question": "Hem filmin hem de dijitalin sunabileceği en iyi kaliteyi bir araya getiren, üç katmanlı yenilikçi tasarım sunan sensör türü aşağıdakilerden hangisidir?",
+            "options": [
+                "CMOS",
+                "Foveon",
+                "Live MOS",
+                "CCD",
+                "SLR"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 197,
+            "question": "Bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafik aşağıdaki kavramlardan hangisi ile tanımlanır?",
+            "options": [
+                "ISO hızı",
+                "Beyaz ayarı",
+                "Histogram",
+                "Piksel",
+                "Görüntü dosyası formatı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 198,
+            "question": "200 mm ve üstü odak uzaklığına sahip objektifler aşağıdaki gruplardan hangisine girer?",
+            "options": [
+                "Balık gözü objektifler",
+                "Dar açılı objektifler",
+                "Normal açılı objektifler",
+                "Geniş açılı objektifer",
+                "Süper tele objektifler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 199,
+            "question": "35 mm film boyutuna eşdeğer görülen, sensör boyutu 36x24 mm ölçülerinde ve odak çarpanı \"1\" olan sayısal fotoğraf makinelerine ne ad verilir?",
+            "options": [
+                "Polaroid fotoğraf makineleri",
+                "Basit kompakt sayısal fotoğraf makineleri",
+                "Kompakt sayısal fotoğraf makineleri",
+                "DSLR full-frame(tam çerçeve) makineler",
+                "Sayısal arkalıklı makineler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 200,
+            "question": "1981 yılında Sony markasının piyasaya sürdüğü ilk sayısal fotoğraf makinesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Mavica-Magnetic Video Camera",
+                "Sony Portapack",
+                "Kodak",
+                "Nikon",
+                "Canon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "522743"
+        },
+        {
+            "id": 201,
+            "question": "Aşağıdakilerden hangisi model 35mm'lik film kullanan ilk ticari kameradır?",
+            "options": [
+                "Nikon F",
+                "Leica A",
+                "Contax S",
+                "Canon Pellix",
+                "Rolleiflex"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 202,
+            "question": "Photoshop gibi fotoğrafa müdahale yazılımlarında fotoğraftaki en yüksek poz değerini ayarlayan bölüm aşağıdakilerden hangisidir?",
+            "options": [
+                "Exposure",
+                "Black",
+                "Highlights",
+                "Contrast",
+                "Shadows"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 203,
+            "question": "Aydınlatma kaynaklarının ortaya çıkardığı renk ısıları aşağıdaki değerlerden hangisiyle ifade edilir?",
+            "options": [
+                "Doygunluk",
+                "F değeri",
+                "Stop",
+                "Kelvin",
+                "Kontrast"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 204,
+            "question": "Aşağıdakilerden hangisi kompozisyonun fotoğrafik ögelerinden biri <u>değildir</u>?",
+            "options": [
+                "Kontrast",
+                "Ufuk çizgisi",
+                "Işık",
+                "Çerçeve seçimi",
+                "Bakış açısı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 205,
+            "question": "Fotoğraf makinelerinde film boyutu aynı zamanda aşağıdaki kavramlardan hangisi ile tanımlanır?",
+            "options": [
+                "Çap",
+                "Yüzey",
+                "Alan",
+                "Format",
+                "Espas"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 206,
+            "question": "Küçük format film kullanan fotoğraf makineleri yabancı literatürde hangi İngilizce kavram ile tanımlanır?",
+            "options": [
+                "Mini format",
+                "Thin format",
+                "Pocket format",
+                "Small format",
+                "Little format"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 207,
+            "question": "Otomatik netleme sistemine sahip fotoğraf makineleri aşağıdaki kısaltmalardan hangisiyle kodlanır?",
+            "options": [
+                "AF",
+                "TLR",
+                "F",
+                "C",
+                "ISO"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 208,
+            "question": "35mm film kullanan fotoğraf makinelerinde film yüzeyi boyutu aşağıdakilerden hangisidir?",
+            "options": [
+                "70x70 mm",
+                "34x51 mm",
+                "24x36 mm",
+                "16x24 mm",
+                "8x12 mm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 209,
+            "question": "En açıktan en koyu tona geçinceye kadar bir film ya da fotoğraf kağıdında ara gri tonlarının varlığı ya da yokluğuna ne ad verilir?",
+            "options": [
+                "Filtre",
+                "Kontrast",
+                "Kâğıt ara katmanı",
+                "Polietilen",
+                "Koruyucu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 210,
+            "question": "Temel görevi objektife gelen ışığı süzmek veya kesmek olan parça aşağıdakilerden hangisidir?",
+            "options": [
+                "Film",
+                "Flaş",
+                "Netlik halkası",
+                "Deklanşör",
+                "Filtreler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 211,
+            "question": "Aşağıdakilerden hangisi (RC) fotoğraf kağıdı katmanlarından biri <u>değildir</u>?",
+            "options": [
+                "Negatif Katman",
+                "Koruyucu Katman",
+                "Emüysiyon Katmanı",
+                "Kağıt Arakatmanı",
+                "Polietilen Katmanı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 212,
+            "question": "İki ya da daha fazla maddenin herhangi bir oranda bir araya gelerek oluşturdukları homojen karışımlara ne ad verilir?",
+            "options": [
+                "Atık",
+                "Sıvı",
+                "Küvet",
+                "Solüsyon",
+                "Karışım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 213,
+            "question": "Fotoğraf çekildikten sonra fotoğrafik duyarkatta, pozlama sonucunda oluşan ancak gözle görülemeyen görüntüye ne ad verilir?",
+            "options": [
+                "Negatif görüntü",
+                "Gizli görüntü",
+                "Netsiz görüntü",
+                "Saydam görüntü",
+                "Pozitif görüntü"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 214,
+            "question": "Özellikle mimari fotoğraf çekimlerinde uzun binalarda meydana gelen perspektif hatalarını düzeltebilmek ve alan derinliği kontrolünü sağlayabilmek için kullanılan objektif türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Zoom Objektifler",
+                "Makro Objektifler",
+                "Dar Açılı Objektifler",
+                "Geniş Açılı Objektifler",
+                "Perspektif Kontrolllü Shift Objektifler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 215,
+            "question": "Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Dar Açılı Objektifler",
+                "Normal Açılı Objektifler",
+                "Perspektif Kontrolllü Shift Obkektifler",
+                "Balık Gözü Objektifler",
+                "Zoom Objektifler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 216,
+            "question": "Perde hızı ve diyafram kontrolünü kişinin belirlediği, değişken ışık koşullarında, fotoğraf makinesindeki ayarlara tamamen müdahale etmek için kullanılan pozlama modu aşağıdakilerden hangisidir?",
+            "options": [
+                "Makro",
+                "Enstantane Öncelikli Otomatik",
+                "Diyafram Öncelikli Otomatik",
+                "Programlı Otomatik",
+                "Manuel Pozlama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 217,
+            "question": "Yeşil tonlarını daha aydınlık ve parlak bir hâle getirirken, mavi rengin yoğunluğunu artıran filtre aşağıdakilerden hangisidir?",
+            "options": [
+                "Orta sarı filtre",
+                "Açık sarı filtre",
+                "Mavi filtre",
+                "Koyu sarı filtre",
+                "Yeşil filtre"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 218,
+            "question": "Bir görüntüdeki parlaklık değerlerinin aralığını gösteren grafik aşağıdaki kavramlardan hangisi ile tanımlanır?",
+            "options": [
+                "Görüntü dosyası formatı",
+                "Histogram",
+                "Piksel",
+                "ISO hızı",
+                "Beyaz ayarı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 219,
+            "question": "Toplamsal Renk Sentezi olan <b>RGB</b> renk modelindeki renkler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Sarı - Yeşil - Mavi",
+                "Kırmızı - Sarı - Mavi",
+                "Kırmızı - Yeşil - Mavi",
+                "Mavi - Sarı - Kırmızı",
+                "Yeşil - Turuncu - Mor"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        },
+        {
+            "id": 220,
+            "question": "Dijital fotoğraf makinelerinde düzenlenmemiş ve işlenmemiş ham görüntü verilerinin doğrudan belleğe yazılmasıyla oluşan görüntü dosyası formatına ne ad verilir?",
+            "options": [
+                "PDF",
+                "JPEG",
+                "BMP",
+                "TIFF",
+                "RAW"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "522765"
+        }
+    ]
+}

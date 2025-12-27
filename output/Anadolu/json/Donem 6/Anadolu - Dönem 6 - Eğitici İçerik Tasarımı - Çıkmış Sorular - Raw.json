@@ -1,0 +1,1792 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Stratejik planlarının geliştirilmesi için, iç ve dış çevrenin analizinde kullanılan sistematik model aşağıdakilerden hangisidir?",
+            "options": [
+                "SWOT analizi",
+                "İhtiyaç analizi",
+                "Program tasarımı",
+                "Betimsel analiz",
+                "Analitik analiz"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi ihtiyaç belirlenirken izlenen adımlardan biri <u>değildir</u>?",
+            "options": [
+                "Amaçlar ile var olan durum arasındaki tutarsızlıkları belirlemek ve analiz etmek",
+                "İhtiyaç belirleme sürecinde görev alacak kişileri seçme",
+                "Amaçlar oluşturmak ve onları önem derecesine göre sıralamak",
+                "Tutarsızlıkları öncelik sırasına dizmek",
+                "Her amacın var olan durumunu ya da var olan koşullarını belirlemek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 3,
+            "question": "Ayrıştırma, tanımlama, sıralama, bulguların yorumu gibi işlemlerin gerçekleştirildiği ihtiyaç analizi aşaması aşağıdakilerden hangisidir?",
+            "options": [
+                "Sonuçların analizi",
+                "Bilgi toplama",
+                "Hazırlık",
+                "Bilgilerin analizi",
+                "Analiz"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 4,
+            "question": "Üst düzey yönetimin, bireylerin daha etkin ya da verimli performans göstermeleri için belirlediği ihtiyaç türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Karşılaştırmalı ihtiyaç",
+                "Hissedilen/Algılanan ihtiyaç",
+                "Açıklanan ya da talep edilen ihtiyaç",
+                "Normatif ihtiyaç",
+                "Beklenen ya da gelecekteki ihtiyaç"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 5,
+            "question": "Çalışanların davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci aşağıdaki ihtiyaç belirleme tekniklerinden hangisi ile gerçekleştirilir?",
+            "options": [
+                "Gözlem tekniği",
+                "Meslek (İş) Analizi",
+                "Görüşme tekniği",
+                "Progel tekniği",
+                "Anket tekniği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi betimsel içerikte yanıt aranan sorulardan biridir?",
+            "options": [
+                "Ne oldu?",
+                "İyi mi, yoksa kötü mü oldu?",
+                "Nasıl olmalıydı?",
+                "Neden oldu?",
+                "Ne tür olur mu?"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 7,
+            "question": "Tasarımcı içeriği sunarken metinde \"doğal ve tarihi yapıtlar korunmazsa neler olabilir?\" gibi bir soru sorarak okuyucunun geçmişi ve geleceği kestirmesine olanak sağlamaktadır. Yukarıdaki anlatılana göre, tasarımcı içerikle ilgili aşağıdaki hangi ilkeyi kullanmıştır?",
+            "options": [
+                "Düzey",
+                "Alıştırma",
+                "Soyutlama",
+                "Şema",
+                "Vardama"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 8,
+            "question": "Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı hale getirilmesi aşağıdaki öğrenme stratejilerinden hangisi ile açıklanır?",
+            "options": [
+                "Buluş yoluyla öğretim",
+                "Gözden geçirme",
+                "Anlamlandırma",
+                "Tekrar",
+                "Örgütleme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi eğitim programının ögelerinden biri <u>değildir</u>?",
+            "options": [
+                "Amaç",
+                "Yöntem-teknik",
+                "İçerik",
+                "Öğretme-öğrenme süreci",
+                "Değerlendirme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 10,
+            "question": "Önemli yerlerin altını çizen bir okuyucu aşağıdaki öğrenme stratejilerinden hangisini kullanmıştır?",
+            "options": [
+                "Sunuş yoluyla öğretim",
+                "Anlamlandırma",
+                "Örgütleme",
+                "Altını çizme",
+                "Buluş yoluyla öğretim"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdakilerden hangisi Albert Bandura'nın gözlemsel öğrenme sürecinde yer alan dört temel unsurdan biri <u>değildir</u>?",
+            "options": [
+                "Akılda tutma",
+                "Dikkat",
+                "Uygulama",
+                "Yeniden üretim",
+                "Motivasyon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 12,
+            "question": "Aşağıdakilerden hangisi Premack ilkesinin uygulanmasına bir örnektir?",
+            "options": [
+                "Bireylerin istemedikleri bir işi tamamlamaları durumunda sadece övgü ile ödüllendirilmesi.",
+                "Okulda öğrencilere sevdikleri bir aktiviteyi yapma özgürlüğü tanınması.",
+                "Hoşlanmadığı bir etkinliğe katılmak istemeyen bir çocuğun ceza ile korkutulması.",
+                "Bir yetişkinin spora gitmeyi sevmediği halde, her gün spor yapmaya zorlanması.",
+                "Bir öğrencinin sıkıcı bir derse karşı ilgisini artırmak için video oyunlarına izin verilmesi."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 13,
+            "question": "Koşullanmış uyaranın olmadığı bir ortamda öğrenilmiş tepkilerin zaman içinde azalması durumu aşağıdaki ilkelerden hangisi ile açıklanır?",
+            "options": [
+                "Habercilik-Bilgilendiricilik",
+                "Kendiliğinden Geri Gelme",
+                "Sönme",
+                "Pekiştirme",
+                "Bitişiklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 14,
+            "question": "Gestalt Öğrenme Kuramı'nda algısal örgütlemeye yardımcı olan tüm algı yasalarını içeren temel ilkeye ne ad verilir?",
+            "options": [
+                "Pragnanz",
+                "Algısal değişmezlik",
+                "Tamamlama",
+                "İçgörü",
+                "Yakınlık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 15,
+            "question": "Bana bir düzine sağlıklı, iyi yapılı bebek ve onları yetiştirmek için kendime ait bir dünya verin, ben de rastgele birini alıp, yeteneklerine, eğilimlerine, mesleki ilgilerine ve genetik bağlarına bakmaksızın, rastgele seçtiğim çocuklardan her birini özel bir alanda doktor, avukat, sanatçı, tüccar ve hatta dilenci ve hırsız olmak üzere eğitmeyi garanti edeyim. Yukarıdaki paragrafta ifade edilen görüş, aşağıdaki öğrenme kuramlarından hangisine dayandırılır?",
+            "options": [
+                "Gestalt Kuramı",
+                "Yapılandırmacılık",
+                "Sosyal Öğrenme Kuram",
+                "Bilişsel Kuramlar",
+                "Davranışçılık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 16,
+            "question": ": Sayısal verilerin görsel olarak ifade edilmesidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Algı",
+                "Grafikler",
+                "Yazı",
+                "Birlik",
+                "Duygular"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 17,
+            "question": "Görsel uyarıcıları fark etme ve bunların ayrımını yapabilme ve daha önceki tecrübelerle bağlantı kurmak suretiyle bu uyarıcıları deşifre edebilme yeteneğine ne ad verilir?",
+            "options": [
+                "Algı",
+                "Tasarım",
+                "Duyu",
+                "Görsel Algı",
+                "Duyum"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 18,
+            "question": "Sayfa tasarımında yazı karakteri seçimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Okuyucu zihninde karmaşa yaratmamak için fazla çeşitlilik göstermemelidir.",
+                "Yazı karakterinin rengi görsel ile aynı olmalıdır.",
+                "Yazı karakterleri konu başlığına sürekli değişmeli ve gelişmelidir.",
+                "Başlık ve metin yazı karakterleri farklı olmalıdır.",
+                "Bol çeşitli dikkat çekici ve akıcı olması okunurluluğu kolaylaştırır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 19,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 20,
+            "question": "Araştırmalara göre bir görsele bakıldığında gözün en çok odaklandığı nokta aşağıdakilerden hangisidir?",
+            "options": [
+                "Sağ üst",
+                "Sol alt",
+                "Sağ alt",
+                "Orta üst",
+                "Sol üst"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606545"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi görsel iletişim tasarımı alanında dünyadaki eğilimlerin yönünü belirlemeye yönelik kullanılan ihtiyaç analizi tekniğidir?",
+            "options": [
+                "Alanyazın incelemesi",
+                "Doküman inceleme",
+                "Anket",
+                "Görüşme",
+                "Veri toplama"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi bir mesleğin ya da uzmanlık gerektiren beceri profilinin ortaya konulmasını sağlayarak ihtiyaçların belirlenmesine olanak tanıyan tekniktir?",
+            "options": [
+                "Gözlem tekniği",
+                "Görüşme tekniği",
+                "Anket tekniği",
+                "Progel tekniği",
+                "Meslek (İş) analizi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerin hangisinde SWOT analizinin açılımı sırasıyla ve doğru olarak verilmiştir?",
+            "options": [
+                "Güçlü yönler, zayıf yönler, fırsatlar, tehditler",
+                "Zayıf yönler, güçlü yönler, fırsatlar, gerçekler",
+                "Beklentiler, tehditler, güçlü yönler, zayıf yönler",
+                "Tehditler, fırsatlar, zayıf yönler, gereklilikler",
+                "Güçlü yönler, fırsatlar, tehditler, olumlu yönler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisi ihtiyaç belirlenirken izlenen adımlardan biri <u>değildir</u>?",
+            "options": [
+                "Tutarsızlıkları öncelik sırasına dizmek",
+                "Her amacın var olan durumunu ya da var olan koşullarını belirlemek",
+                "İhtiyaç belirleme sürecinde görev alacak kişileri seçme",
+                "Amaçlar oluşturmak ve onları önem derecesine göre sıralamak",
+                "Amaçlar ile var olan durum arasındaki tutarsızlıkları belirlemek ve analiz etmek"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 25,
+            "question": "Çalışanların davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci aşağıdaki ihtiyaç belirleme tekniklerinden hangisi ile gerçekleştirilir?",
+            "options": [
+                "Anket tekniği",
+                "Gözlem tekniği",
+                "Görüşme tekniği",
+                "Meslek (İş) Analizi",
+                "Progel tekniği"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 26,
+            "question": "Önemli yerlerin altını çizen bir okuyucu aşağıdaki öğrenme stratejilerinden hangisini kullanmıştır?",
+            "options": [
+                "Sunuş yoluyla öğretim",
+                "Anlamlandırma",
+                "Buluş yoluyla öğretim",
+                "Örgütleme",
+                "Altını çizme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 27,
+            "question": "Sarmal içerik yaklaşımının kullanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "İçerik işlenirken konuların yeri ve zamanı geldikçe yer yer tekrar edilir.",
+                "Konuların aşamaları dar ve kısıtlıdır.",
+                "Geniş konular giderek küçük birimlere ayrılır.",
+                "Çevrede kazanılan yaşantıların içerikte derlenerek yansıtılır.",
+                "İçerikte başka ülkelerin bakış açıları dikkate alınmalıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 28,
+            "question": "Tasarımcı içeriği sunarken metinde \"doğal ve tarihi yapıtlar korunmazsa neler olabilir?\" gibi bir soru sorarak okuyucunun geçmişi ve geleceği kestirmesine olanak sağlamaktadır. Yukarıdaki anlatılana göre, tasarımcı içerikle ilgili aşağıdaki hangi ilkeyi kullanmıştır?",
+            "options": [
+                "Düzey",
+                "Şema",
+                "Vardama",
+                "Soyutlama",
+                "Alıştırma"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 29,
+            "question": "-------: öğrenmenin gerçekleşebilmesi için gereken ön bilgilerin kazanılması, öğrenme yeterliliğin oluşmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Hedef davranışlara uygunluk",
+                "Hazırbulunuşluk",
+                "Felsefi, bilimsel bilgi ile içerik",
+                "Davranışsal amaçlar",
+                "Çağdaş, sanatsal bilgi ile içerik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 30,
+            "question": "Aşağıdakilerden hangisi normatif içerikte yanıt aranan sorulardan biri <u>değildir</u>?",
+            "options": [
+                "Nasıl olmalıydı?",
+                "Tekrar olur mu?",
+                "İyi mi, yoksa kötü mü oldu?",
+                "Ne oldu?",
+                "Neden oldu?"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 31,
+            "question": "Gestalt kuramına göre etkili bir içerik sunumu hazırlarken aşağıdakilerden hangisine dikkat edilmelidir?",
+            "options": [
+                "İçerik sunumunda problem çözme becerilerinin göz ardı edilmesine",
+                "Katılımcıların pasif bir şekilde bilgiyi almasına",
+                "Bilgilerin rastgele ve düzensiz bir şekilde sunulmasına",
+                "Görsel, işitsel ve dokunsal öğelerin kullanımından kaçınılmasına",
+                "İçeriğin bütünsel ve anlamlı bir bağlam içinde sunulmasına"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 32,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 33,
+            "question": "Aşağıdakilerden hangisi klasik koşullanma sürecinde göz önünde bulundurulması gereken ilkelerden biridir?",
+            "options": [
+                "Özyineleme",
+                "Geriye Dönük İşleme",
+                "Anlamlandırma",
+                "Bilişsel Haritalama",
+                "Bitişiklik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 34,
+            "question": "Koşullanmış uyaranın olmadığı bir ortamda öğrenilmiş tepkinin zaman içinde azalması durumu aşağıdaki ilkelerden hangisi ile açıklanır?",
+            "options": [
+                "Bitişiklik",
+                "Pekiştirme",
+                "Habercilik-Bilgilendiricilik",
+                "Sönme",
+                "Kendiliğinden Geri Gelme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 35,
+            "question": "Bazı görsellerde, yüzeyde eksik parçalar bulunsa da zihin bu görselleri bütün olarak algılayabilir. Eksik çizgilere rağmen zihnin oluşturduğu bütünlük algısı, görseli tamamlanmış gibi görmemizi sağlar. Yukarıdaki paragrafta anlatılan algılama ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Yakınlık",
+                "Tamamlama",
+                "Şekil-Zemin",
+                "Süreklilik",
+                "Benzerlik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 36,
+            "question": "Öğrenmenin, insanların birbirleriyle, farklı kültürel unsurlarla ve genel olarak toplumla etkileşime girdiğinde geliştiği görüşünü ileri süren yapılandırmacılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Bilişsel yapılandırmacılık",
+                "Radikal yapılandırmacılık",
+                "Bireysel yapılandırmacılık",
+                "Dilsel yapılandırmacılık",
+                "Sosyal yapılandırmacılık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 37,
+            "question": "Bir görselin tasarımında soyut ya da somut ögeleri hedef kitlenin aşağıdaki özelliklerinden hangisine göre belirlemek gerekir?",
+            "options": [
+                "Yaş grubuna",
+                "Cinsiyetine",
+                "Okuduğu bölüme",
+                "Fiziksel özelliklerine",
+                "Alışkanlıklarına"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 38,
+            "question": "Görsel uyarıcıları fark etme ve bunların ayrımını yapabilme ve daha önceki tecrübelerle bağlantı kurmak suretiyle bu uyarıcıları deşifre edebilme yeteneğine ne ad verilir?",
+            "options": [
+                "Tasarım",
+                "Algı",
+                "Görsel Algı",
+                "Duyu",
+                "Duyum"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 39,
+            "question": "-------: Sayısal verilerin görsel olarak ifade edilmesidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Algı",
+                "Grafikler",
+                "Yazı",
+                "Birlik",
+                "Duygular"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 40,
+            "question": "Sayfa tasarımında yazı karakteri seçimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Başlık ve metin yazı karakterleri farklı olmalıdır.",
+                "Yazı karakterinin rengi görsel ile aynı olmalıdır.",
+                "Okuyucu zihninde karmaşa yaratmamak için fazla çeşitlilik göstermemelidir.",
+                "Yazı karakterleri konu başlığına sürekli değişmeli ve şmelidir.",
+                "Bol çeşitli dikkat çekici ve akıcı olması okunurluğu kolaylaştırır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618230"
+        },
+        {
+            "id": 41,
+            "question": "Aşağıdakilerin hangisinde SWOT analizinin açılımı sırasıyla ve doğru olarak verilmiştir?",
+            "options": [
+                "Zayıf yönler, güçlü yönler, fırsatlar, gerçekler",
+                "Beklentiler, tehditler, güçlü yönler, zayıf yönler",
+                "Güçlü yönler, fırsatlar, tehditler, olumlu yönler",
+                "Güçlü yönler, zayıf yönler, fırsatlar, tehditler",
+                "Tehditler, fırsatlar, zayıf yönler, gereklilikler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 42,
+            "question": "Aşağıdakilerden hangisi normatif içerikte yanıt aranan sorulardan biri <u>değildir</u>?",
+            "options": [
+                "İyi mi, yoksa kötü mü oldu?",
+                "Tekrar olur mu?",
+                "Ne oldu?",
+                "Nasıl olmalıydı?",
+                "Neden oldu?"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 43,
+            "question": "Öğrenmenin, insanların birbirleriyle, farklı kültürel unsurlarla ve genel olarak toplumla etkileşime girdiğinde geliştiği görüşünü ileri süren yapılandırmacılık türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sosyal yapılandırmacılık",
+                "Bireysel yapılandırmacılık",
+                "Bilişsel yapılandırmacılık",
+                "Dilsel yapılandırmacılık",
+                "Radikal yapılandırmacılık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 44,
+            "question": "Yeryüzünün tümünün ya da bir bölümünün çeşitli özelliklerinin belirli bir ölçekte küçültülerek, bir düzlem üzerine özel işaret ve tanımlayıcı bilgilerle yansıtılarak oluşturulan görsel türüne ne ad verilir?",
+            "options": [
+                "Şablon",
+                "Fotoğraf",
+                "Harita",
+                "Video",
+                "Minyatür"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 45,
+            "question": "_____ analog bilgi, veri, süreç veya sistemlerin dijital formata dönüştürülmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kriptolama",
+                "Sayısallaştırma",
+                "Analoglaştırma",
+                "Standardizasyon",
+                "Optimize Etme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 46,
+            "question": "E-öğrenme içeriklerinin oluşturulmasında kullanılan ve basit, düşük etkileşimli içerikler için uygun olan web geliştirme aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Authorware",
+                "ToolBook Instructo",
+                "Global Al Hub",
+                "Microsoft FrontPage",
+                "InDesign"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 47,
+            "question": "Belirli görevleri veya işleri insan müdahalesi olmadan gerçekleştiren sistem veya yazılımlara genel olarak ne ad verilir?",
+            "options": [
+                "Bulut depolama",
+                "Algoritmik işlem",
+                "Otomasyon",
+                "Algoritmik işlem",
+                "Uygulama programlama arayüzü (API)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 48,
+            "question": "Aşağıdakilerin hangisi ile birlikte sadece bilgiye ulaşmak değil, içerik oluşturup paylaşmak da mümkün hale gelmiştir?",
+            "options": [
+                "Web 2.0",
+                "Web 3.0",
+                "Web 4.0",
+                "VR",
+                "AR"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 49,
+            "question": "Hermann'ın Yaratıcı Sorun Çözme Modeli altı değişik zihinsel düşünme becerisiyle ilişkilidir. Bu becerileri altı meslek grubu temsil eder. _____ alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma özelliğiyle yaratıcı problem çözme sürecini temsil eder. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "kaşif",
+                "polis",
+                "dedektif",
+                "yargıç",
+                "sanatçı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi yaratıcılığı etkiliyen öznel (kişisel) etkenlerden biridir?",
+            "options": [
+                "Güvensizlik",
+                "Tembellik",
+                "Yersiz eleştiri",
+                "Otoriter yönetim",
+                "Hiyerarşi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 51,
+            "question": "Aşağıdakilerden hangisi yaratıcı bireyin özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Belirsizliğe tolerans gösterme",
+                "Sorgulayıcı olma",
+                "Esnek düşünebilme",
+                "Gerçekçi olma",
+                "Karmaşık işlere ilgi duyma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 52,
+            "question": "I. Bireysel bir süreçtir. II. Kültürel bir süreçtir. III. Kişilik özelliklerinin birleşimidir. IV. İnsanın varlığını ortaya çıkarma sürecidir. Yaratıcı süreç ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız III",
+                "I ve II",
+                "III ve IV",
+                "I, II, ve III",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 53,
+            "question": "Aşağıdakilerden hangisi eleştirel pedagoglar tarafından belirtilen bireyin sahip olması gereken niteliklerden biri <u>değildir</u>?",
+            "options": [
+                "Sosyal adalet duygusu gelişmiştir.",
+                "Özgürleşmeyi amaç edinmiştir.",
+                "Demokratik kişilik özelliklerine sahiptir.",
+                "Toplumsal ve siyasal katılımı benimsemez.",
+                "Toplumsal alandaki gerçekliği sorgulayabilir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 54,
+            "question": "Aşağıdakilerden hangisi Nosich'nin (2018) oluşturduğu eleştirel düşünmenin özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Belirli bir amaç doğrultusunda gerçekleşmesi",
+                "Yaratıcı düzenlemeleri gerektirmesi",
+                "Yansıtıcı bir şekilde ilerlemesi",
+                "Belirli standartlar gözetilerek yapılması",
+                "Mantıklı olmayı gerektirmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 55,
+            "question": "Aşağıdakilerden hangisi içeriğin aktarılabilirlik ve uygunluk ilkesini ifade eder?",
+            "options": [
+                "İçeriğin verimli olmasıdır.",
+                "İçeriğin yapısında bulunan bilgilerin tutarlı olmasıdır.",
+                "Hitap edilen kitlenin hazır bulunuşluk düzeyiyle uyumlu olmasıdır.",
+                "İçeriğin bilimsel gelişmelerden hareketle oluşturulmasıdır.",
+                "İçerik tasarımının mantıklı bir şekilde yapılmasıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 56,
+            "question": "Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili konudaki uzmanların görüşlerini almaktır. Yukarıdaki paragrafta anlatılan geçerlilik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Görünüş geçerliği",
+                "Kapsam geçerliği",
+                "Tutarlılık geçerliği",
+                "Kullanışlılık geçerliği",
+                "Ölçüt geçerliği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 57,
+            "question": "Bireyin şeyler ve onların bilgisiyle ilgili giriştiği bilme çabasının çerçevesi şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Yöntem",
+                "Teori",
+                "Teknik",
+                "Kuram",
+                "Paradigma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 58,
+            "question": "Mert öğretmen sosyal bilgiler dersinde Türkiye'nin 7 coğrafi bölgesindeki ekonomik ve sosyal yaşamı derslerde işlemiştir. Öte yandan sınavda yalnızca Güneydoğu Anadolu bölgesi ile ilgili sorular sormuştur. Yukarıdaki anlatılanlara göre, Mert öğretmen aşağıdakilerden hangisini <u>uygulamamıştır</u>?",
+            "options": [
+                "Eşzaman geçerliği",
+                "Kapsam geçerliği",
+                "Görünüş geçerliği",
+                "Yordama geçerliği",
+                "Yapı geçerliği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 59,
+            "question": "Bir sınav kağıdında en üstte yazan \"ilk üç soru 7 puan, diğer sorular 10 puandır.\" şeklindeki ifade aşağıdakilerden hangisi ile açıklanır?",
+            "options": [
+                "Karar",
+                "Ölçüm",
+                "Ölçüt",
+                "Değerlendirme",
+                "Ölçme kuralı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 60,
+            "question": "Tasarımcıların hedef kitlenin deneyimlerini maksimum etki için optimize etmelerine olanak tanır. Hangisinin daha iyi performans gösterdiğini görmek için bir tasarımın iki versiyonunun karşılaştırılmasını içeren bu yöntem, kullanıcı davranışı ve tercihleri hakkında çok değerli bilgiler sağlayabilir. Yukarıda anlatılan ölçme ve değerlendirme uygulaması aşağıdakilerden hangisidir?",
+            "options": [
+                "A/B testi",
+                "Kelime ilişkilendirme testi",
+                "Doğru-yanlış testleri",
+                "Sözlü sınavlar",
+                "Tanılayıcı dallanmış ağaç"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606563"
+        },
+        {
+            "id": 61,
+            "question": "Üst düzey yönetimin, bireylerin daha etkin ya da verimli performans göstermeleri için belirlediği ihtiyaç türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Karşılaştırmalı ihtiyaç",
+                "Açıklanan ya da talep edilen ihtiyaç",
+                "Normatif ihtiyaç",
+                "Hissedilen/Algılanan ihtiyaç",
+                "Beklenen ya da gelecekteki ihtiyaç"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi eğitim programının ögelerinden biri <u>değildir</u>?",
+            "options": [
+                "Yöntem-teknik",
+                "Amaç",
+                "İçerik",
+                "Öğretme-öğrenme süreci",
+                "Değerlendirme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 63,
+            "question": "Aşağıdakilerden hangisi Premack ilkesinin uygulanmasına bir örnektir?",
+            "options": [
+                "Bireylerin istemedikleri bir işi tamamlamaları durumunda sadece övgü ile ödüllendirilmesi.",
+                "Bir öğrencinin sıkıcı bir derse karşı ilgisini artırmak için video oyunlarına izin verilmesi.",
+                "Okulda öğrencilere sevdikleri bir aktiviteyi yapma özgürlüğü tanınması.",
+                "Bir yetişkinin spora gitmeyi sevmediği halde her gün spor yapmaya zorlanması.",
+                "Hoşlanmadığı bir etkinliğe katılmak istemeyen bir çocuğun ceza ile korkutulması."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 64,
+            "question": "Yeryüzünün tümünün ya da bir bölümünün çeşitli özelliklerinin belirli bir ölçekte küçültülerek, bir düzlem üzerine özel işaret ve tanımlayıcı bilgilerle yansıtılarak oluşturulan görsel türüne ne ad verilir?",
+            "options": [
+                "Fotoğraf",
+                "Minyatür",
+                "Harita",
+                "Şablon",
+                "Video"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 65,
+            "question": "Chickering ve Ehrmann'a (1996) göre, e-öğrenmede teknoloji yardımıyla oluşturulan iyi uygulamalar ve içerikler aşağıdaki hangi çıktıyı <u>sağlamaz</u>?",
+            "options": [
+                "Aktif öğrenme tekniklerinin kullanılması",
+                "Öğrenen ve kurum arasındaki ilişkinin kuvvetlendirilmesi",
+                "Öğrenenler arasında rekabetin artırılması",
+                "Hızlı geri bildirim sağlanması",
+                "Farklı yeteneklerin ve öğrenme yollarının dikkate alınması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 66,
+            "question": "E-öğrenme içeriklerinin oluşturulmasında kullanılan ve basit, düşük etkileşimli içerikler için uygun olan web geliştirme aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Authorware",
+                "Microsoft FrontPage",
+                "ToolBook Instructo",
+                "Global Al Hub",
+                "InDesign"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 67,
+            "question": "Temeli cebire dayana -----, matematik ve bilgisayar bilimlerinde belirli bir problemi çözmek veya bir hesaplama yapmak için kullanılan, iyi tanımlanmış sonlu bir talimat dizisi olarak tanımlanmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "protokol",
+                "denklem",
+                "teorem",
+                "fonksiyon",
+                "algoritma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 68,
+            "question": "Aşağıdakilerden hangisi belirli görevleri veya işleri insan müdahalesi olmadan gerçekleştiren sistem veya yazılımı ifade eden kavramdır?",
+            "options": [
+                "Bulut depolama",
+                "Algoritmik işlem",
+                "Uygulama programlama arayüzü (API)",
+                "İşletim sistemi",
+                "Otomasyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 69,
+            "question": "Aşağıdakilerden hangisi yaratıcı bireyin özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Gerçekçi olma",
+                "Belirsizliğe tolerans gösterme",
+                "Karmaşık işlere ilgi duyma",
+                "Esnek düşünebilme",
+                "Sorgulayıcı olma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 70,
+            "question": "I. Çevresel etmenlerin sonucudur.<br>II. Kültürel bir süreçtir.<br>III. Kişilik özelliklerinin birleşimidir.<br>IV. Teknolojik varlığını ortaya çıkarma sürecidir.<br>Yaratıcı süreç ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "III ve IV",
+                "I, II ve III",
+                "II, III, IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 71,
+            "question": "Aşağıdakilerden hangisi yaratıcı düşünme süreci aşamalarından biri <u>değildir</u>?",
+            "options": [
+                "Uygulama",
+                "Fikrin geliştirilmesi",
+                "Kuluçka",
+                "Fikrin doğması",
+                "Hazırlık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 72,
+            "question": "Altı şapka düşünme tekniğinde bulunan, siyah şapka ile cevaplanan sorular aşağıdakilerden hangileridir?",
+            "options": [
+                "Şu ana kadar ne başarıldı?, Hangi kararlar alındı?",
+                "Ne gibi sorunlar ortaya çıkabilir? Olabilecek en kötü durum nedir?",
+                "Duygular ön olanda mı?, Bir konuyu duygular ve hislerle mi ele almalıyız?",
+                "Şimdi ne yapılabilir?, Konun özeti nedir?",
+                "Ne tür bilgilere sahibiz? Eksik bilgiler nelerdir?"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 73,
+            "question": "Aşağıdakilerden hangisi eleştirel pedagoglar tarafından belirtilen bireyin sahip olması gereken niteliklerden biri <u>değildir</u>?",
+            "options": [
+                "Sosyal adalet duygusu gelişmiştir.",
+                "Özgürleşmeyi amaç edinmiştir.",
+                "Demokratik kişilik özelliklerine sahiptir.",
+                "Toplumsal ve siyasal katılımı benimsemez.",
+                "Toplumsa alandaki gerçekliği sorgulayabilir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 74,
+            "question": "Bireyin şeyler ve onların bilgisiyle ilgili giriştiği bilme çabasının çerçevesi şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Kuram",
+                "Kaynak",
+                "Teknik",
+                "Yöntem",
+                "Paradigma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 75,
+            "question": "Aşağıdakilerden hangisi Post-pozitivizmin temel özelliklerinden biridir?",
+            "options": [
+                "Bütünlüğü koruma ve birleştirme",
+                "Kurallara ve şekilciliğe bağlılık",
+                "Büyük anlatıların güçlendirilmesi",
+                "Parçalanma, kuralcılık ve şekilciliğin yerinden edilmesi",
+                "Tek ve değişmez gerçekliği savunma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 76,
+            "question": "Facione'ye (1990) göre, eleştirel düşünme becerileri arasında aşağıdakilerden hangisi yer alır?",
+            "options": [
+                "Düşünceleri yüzeysel değerlendirme",
+                "Kendi bilişsel süreçlerini göz ardı etme",
+                "Olay, olgu ve kavramlar arasındaki ilişkileri belirleme",
+                "Bilgiyi rastgele yorumlama",
+                "Herhangi bir iddiayı sorgulamadan kabul etme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 77,
+            "question": "Ölçme aracının hangi niteliği ölçtüğüyle ilgili uzman görüşüne danışılmasıdır. Ölçme aracının neyi ölçtüğüyle değil ne ölçüyor göründüğüyle ilgilidir. Ölçme aracının kullanılacağı amaç için uygun olup olmadığıyla ilgili o konudaki uzmanların görüşlerini almaktır. Yukarıdaki paragrafta anlatılan geçerlilik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Görünüş geçerliği",
+                "Kapsam geçerliği",
+                "Tutarlılık geçerliği",
+                "Kullanışlılık geçerliği",
+                "Ölçüt geçerliği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 78,
+            "question": "Bir öğrenci sınav sonrasında şu ifadeyi kullanmıştır: \"Sorular konu içerikleriyle tam olarak örtüşmüyordu ve derslerde vurgulanan konular yerine farklı konulardan sorular soruldu. Bu yüzden gerçek bilgilerimi yansıtamadım.\" Yukarıdaki paragrafa göre, bu sınavın hangi açıdan yetersiz olduğu söylenir?",
+            "options": [
+                "Tutarlılık",
+                "Kararlılık",
+                "Güvenilirlik",
+                "Ölçme duyarlılığı",
+                "Geçerlik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 79,
+            "question": "Ölçme işlemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Ölçme işlemi ile değerlendirme süreci aynı anlama gelir.",
+                "Ölçme işlemi yalnızca nicel sonuçlar verir, nitel ölçümler yapılamaz.",
+                "Ölçme, bir niteliğin gözlenerek sonuçlarının sayılar veya sembollerle ifade edilmesini sağlar.",
+                "Ölçme sonuçları, her zaman kesin bir başarı veya başarısızlık ifadesi taşır.",
+                "Ölçme işlemi sadece eğitim alanında kullanılmaktadır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 80,
+            "question": "Tasarımcıların hedef kitlenin deneyimlerini maksimum etki için optimize etmelerine olanak tanır. Hangisinin daha iyi performans gösterdiğini görmek için bir tasarımın iki versiyonunun karşılaştırılmasını içeren bu yöntem, kullanıcı davranışı ve tercihleri hakkında çok değerli bilgiler sağlayabilir. Yukarıda anlatılan ölçme ve değerlendirme uygulaması aşağıdakilerden hangisidir?",
+            "options": [
+                "Kelime ilişkilendirme testi",
+                "Sözlü sınavlar",
+                "Tanılayıcı dallanmış ağaç",
+                "A/B testi",
+                "Doğru-yanlış testleri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622602"
+        },
+        {
+            "id": 81,
+            "question": "Çalışanların gözlemlenebilir iş davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci aşağıdaki ihtiyaç belirleme tekniklerinden hangisi ile gerçekleştirilir?",
+            "options": [
+                "Progel tekniği",
+                "Anket tekniği",
+                "Görüşme tekniği",
+                "Meslek (İş) Analizi",
+                "Gözlem tekniği"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdakilerin hangisinde SWOT analizinin açılımı sırasıyla ve doğru olarak verilmiştir?",
+            "options": [
+                "Güçlü yönler, fırsatlar, tehditler, olumlu yönler",
+                "Güçlü yönler, zayıf yönler, fırsatlar, tehditler",
+                "Tehditler, fırsatlar, zayıf yönler, gereklilikler",
+                "Beklentiler, tehditler, güçlü yönler, zayıf yönler",
+                "Zayıf yönler, güçlü yönler, fırsatlar, gerçekler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 83,
+            "question": "Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı hale getirilmesi aşağıdaki öğrenme stratejilerinden hangisi ile açıklanır?",
+            "options": [
+                "Buluş yoluyla öğretim",
+                "Gözden geçirme",
+                "Tekrar",
+                "Anadığindime",
+                "Örgütleme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 84,
+            "question": "Tasarımcı içeriği sunarken metinde \"doğal ve tarihi yapıtlar korunmazsa neler olabilir?\" gibi bir soru sorarak okuyucunun geçmişi ve geleceği kestirmesine olanak sağlamaktadır. Yukarıdaki anlatılana göre, tasarımcı içerikle ilgili aşağıdaki hangi ilkeyi kullanmıştır?",
+            "options": [
+                "Soyutlama",
+                "Vardama",
+                "Alıştırma",
+                "Düzey",
+                "Şema"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 85,
+            "question": "Yeryüzünün tümünün ya da bir bölümünün çeşitli özelliklerinin belirli bir ölçekte küçültülerek, bir düzlem üzerine özel işaret ve tanımlayıcı bilgilerle yansıtılarak oluşturulan görsel türüne ne ad verilir?",
+            "options": [
+                "Harita",
+                "Video",
+                "Minyatür",
+                "Şablon",
+                "Fotoğraf"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 86,
+            "question": "Koşullanmış uyaranın olmadığı bir ortamda öğrenilmiş tepkilerin zaman içinde azalması durumu aşağıdaki ilkelerden hangisi ile açıklanır?",
+            "options": [
+                "Bitişiklik",
+                "Kendiliğinden Geri Gelme",
+                "Sönme",
+                "Habercilik-Bilgilendiricilik",
+                "Pekiştirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 87,
+            "question": "Aşağıdakilerden hangisi Premack ilkesinin uygulanmasına bir örnektir?",
+            "options": [
+                "Okulda öğrencilere sevdikleri bir aktiviteyi yapma özgürlüğü tanınması.",
+                "Bir öğrencinin sıkıcı bir derse karşı ilgisini artırmak için video oyunlarına izin verilmesi.",
+                "Bir yetişkinin spora gitmeyi sevmediği halde, her gün spor yapmaya zorlanması.",
+                "Bireylerin istemedikleri bir işi tamamlamaları durumunda sadece övgü ile ödüllendirilmesi.",
+                "Hoşlanmadığı bir etkinliğe katılmak istemeyen bir çocuğun ceza ile korkutulması."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 88,
+            "question": "Araştırmalara göre bir görsele bakıldığında gözün en çok odaklandığı nokta aşağıdakilerden hangisidir?",
+            "options": [
+                "Sol üst",
+                "Sol alt",
+                "Sağ alt",
+                "Sağ üst",
+                "Orta üst"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 89,
+            "question": "E-öğrenme içeriklerinin oluşturulmasında kullanılan ve basit, düşük etkileşimli içerikler için uygun olan web geliştirme aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Microsoft FrontPage",
+                "Global AI Hub",
+                "Authorware",
+                "InDesign",
+                "ToolBook Instructo"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 90,
+            "question": "Aşağıdakilerden hangisi Johannes Gutenberg'in icadı olup, kitapların ve basılı materyallerin seri üretimini sağlayarak içerik üretiminde devrim yaratmıştır?",
+            "options": [
+                "Yazı sistemleri",
+                "Dijital yayıncılık",
+                "Matbaa",
+                "Parşömen",
+                "El yazması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 91,
+            "question": "hikâye anlatıcılarına, görsel, video, ses ve metinler ile dinleyicinin hayal gücüne ulaşma fırsatı sunarak çeşitli yazılımlar aracılığıyla hikâyelerini geniş bir kitleyle paylaşma imkânı vermektedir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Sanal gerçeklik",
+                "Dijital gerçeklik",
+                "Dijital öyküler",
+                "Dijital gazeteler",
+                "Dijital radyolar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 92,
+            "question": "Aşağıdakilerden hangisi yaratıcılığı etkiliyen öznel (kişisel) etkenlerden biridir?",
+            "options": [
+                "Güvensizlik",
+                "Yersiz eleştiri",
+                "Otoriter yönetim",
+                "Hiyerarşi",
+                "Tembellik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 93,
+            "question": "Hermann'ın Yaratıcı Sorun Çözme Modeli altı değişik zihinsel düşünme becerisiyle ilişkilidir. Bu becerileri altı meslek grubu temsil eder. alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma özelliğiyle yaratıcı problem çözme sürecini temsil eder. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "dedektif",
+                "polis",
+                "sanatçı",
+                "yargıç",
+                "kaşif"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 94,
+            "question": "I. Bireysel bir süreçtir.<br>II. Kültürel bir süreçtir.<br>III. Kişilik özelliklerinin birleşimidir.<br>IV. İnsanın varlığını ortaya çıkarma sürecidir.<br>Yaratıcı süreç ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız III",
+                "I ve II",
+                "III ve IV",
+                "I, II, ve III",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 95,
+            "question": "Aşğıdakilerden hangisi içeriğin aktarılabilirlik ve uygunluk ilkesini ifade eder?",
+            "options": [
+                "İçeriğin bilimsel gelişmelerden hareketle oluşturulmasıdır.",
+                "İçeriğin yapısında bulunan bilgilerin tutarlı olmasıdır.",
+                "İçeriğin verimli olmasıdır.",
+                "Hitap edilen kitlenin hazır bulunuşluk düzeyiyle uyumlu olmasıdır.",
+                "İçerik tasarımının mantıklı bir şekilde yapılmasıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 96,
+            "question": "Aşağıdakilerden hangisi Nosich'nin (2018) oluşturduğu eleştirel düşünmenin özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Belirli bir amaç doğrultusunda gerçekleşmesi",
+                "Yansıtıcı bir şekilde ilerlemesi",
+                "Belirli standartlar gözetilerek yapılması",
+                "Yaratıcı düzenlemeleri gerektirmesi",
+                "Mantıklı olmayı gerektirmesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 97,
+            "question": "Mert öğretmen sosyal bilgiler dersinde Türkiye'nin 7 coğrafi bölgesindeki ekonomik ve sosyal yaşamı derslerde işlemiştir. Öte yandan sınavda yalnızca Güneydoğu Anadolu bölgesi ile ilgili sorular sormuştur. Yukarıdaki anlatılanlara göre, Mert öğretmen aşağıdakilerden hangisini uygulamamıştır?",
+            "options": [
+                "Yapı geçerliği",
+                "Görünüş geçerliği",
+                "Yordama geçerliği",
+                "Eşzaman geçerliği",
+                "Kapsam geçerliği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 98,
+            "question": "Bireyin şeyler ve onların bilgisiyle ilgili giriştiği bilme çabasının çerçevesi şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Yöntem",
+                "Paradigma",
+                "Kuram",
+                "Teori",
+                "Teknik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 99,
+            "question": "Ölçme aracının hazırlanması, uygulanması ve puanlanması aşamalarındaki kolaylık, pratiklik ve ekonomiklik şeklinde tanımlanabilir. Bir ölçme aracının ekonomik olması, etik ve yasal konulara karşı duyarlı bir şekilde hazırlanması, uygulama süresinin uzun olmaması, puanlamasının kolay olması ve puanlardan elde edilen yorumlamaların kolay yapılabilmesi gerekmektedir. Yukarıdaki paragrafta anlatılan ölçme aracı özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanışlılık",
+                "Yordama geçerliliği",
+                "Ölçüt geçerliği",
+                "Değişmezlik",
+                "Kararlılık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 100,
+            "question": "I. Tasarımcılara çalışmaları hakkında objektif geri bildirim sağlayarak kişisel önyargıları azaltır ve tasarımlarını daha geniş bir bakış açısından görmelerini sağlar.<br>II. Tasarımcılar görsel iletişimin etkinliğini değerlendirerek tasarımlarının amaçlanan hedef ve mesajlarla uyumlu olup olmadığını doğrulayabilirler.<br>III. Değerlendirmeden elde edilen içgörüler, tasarımcıların güçlü ve zayıf yönlerini belirlemelerine yardımcı olarak çalışmalarını iyileştirmelerine ve tasarımlarının genel kalitesini artırmalarına olanak tanır.<br>Yukarıdaki ifadelerden hangisi/hangileri görsel iletişim tasarımında ölçme ve değerlendirme uygulamalarının tasarımcılar için olumlu özellikleri arasında yer alır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606565"
+        },
+        {
+            "id": 101,
+            "question": "Çalışanların gözlemlenebilir iş davranışlarına, bu davranışlarla neyin başarıldığına ve hangi teknolojilerin gerekli olduğuna ilişkin sistematik veri toplama süreci aşağıdaki ihtiyaç belirleme tekniklerinden hangisi ile gerçekleştirilir?",
+            "options": [
+                "Progel tekniği",
+                "Anket tekniği",
+                "Görüşme tekniği",
+                "Meslek (İş) Analizi",
+                "Gözlem tekniği"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 102,
+            "question": "Aşağıdakilerin hangisinde SWOT analizinin açılımı sırasıyla ve doğru olarak verilmiştir?",
+            "options": [
+                "Güçlü yönler, fırsatlar, tehditler, olumlu yönler",
+                "Güçlü yönler, zayıf yönler, fırsatlar, tehditler",
+                "Tehditler, fırsatlar, zayıf yönler, gereklilikler",
+                "Beklentiler, tehditler, güçlü yönler, zayıf yönler",
+                "Zayıf yönler, güçlü yönler, fırsatlar, gerçekler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 103,
+            "question": "Yeni gelen bilgilerin bireyin uzun süreli belleğindeki bilgilerle karşılaştırılarak anlamlı hale getirilmesi öğrenme stratejilerinden hangisi ile açıklanır?",
+            "options": [
+                "Buluş yoluyla öğretim",
+                "Gözden geçirme",
+                "Tekrar",
+                "Anadillendirme",
+                "Örgütleme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 104,
+            "question": "Tasarımcı içeriği sunarken metinde \"doğal ve tarihi yapıtlar korunmazsa neler olabilir?\" gibi bir soru sorarak okuyucunun geçmişi ve geleceği kestirmesine olanak sağlamaktadır. Yukarıdaki anlatılana göre, tasarımcı içerikle ilgili aşağıdaki hangi ilkeyi kullanmıştır?",
+            "options": [
+                "Soyutlama",
+                "Vardama",
+                "Alıştırma",
+                "Düzey",
+                "Şema"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 105,
+            "question": "Yeryüzünün tümünün ya da bir bölümünün çeşitli özelliklerinin belirli bir ölçekte küçültülerek, bir düzlem üzerine özel işaret ve tanımlayıcı bilgilerle yansıtılarak oluşturulan görsel türüne ne ad verilir?",
+            "options": [
+                "Harita",
+                "Video",
+                "Minyatür",
+                "Şablon",
+                "Fotoğraf"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 106,
+            "question": "Koşullanmış uyaranın olmadığı bir ortamda öğrenilmiş tepkilerin zaman içinde azalması durumu aşağıdaki ilkelerden hangisi ile açıklanır?",
+            "options": [
+                "Bitişiklik",
+                "Kendiliğinden Geri Gelme",
+                "Sönme",
+                "Habercilik-Bilgilendiricilik",
+                "Pekiştirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi Premack ilkesinin uygulanmasına bir örnektir?",
+            "options": [
+                "Okulda öğrencilere sevdikleri bir aktiviteyi yapma özgürlüğü tanınması.",
+                "Bir öğrencinin sıkıcı bir derse karşı ilgisini artırmak için video oyunlarına izin verilmesi.",
+                "Bir yetişkinin spora gitmeyi sevmediği halde, her gün spor yapmaya zorlanması.",
+                "Bireylerin istemedikleri bir işi tamamlamaları durumunda sadece övgü ile ödüllendirilmesi.",
+                "Hoşlanmadığı bir etkinliğe katılmak istemeyen bir çocuğun ceza ile korkutulması."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 108,
+            "question": "Araştırmalara göre bir görsele bakıldığında gözün en çok odaklandığı nokta aşağıdakilerden hangisidir?",
+            "options": [
+                "Sol üst",
+                "Sol alt",
+                "Sağ alt",
+                "Sağ üst",
+                "Orta üst"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 109,
+            "question": "E-öğrenme içeriklerinin oluşturulmasında kullanılan ve basit, düşük etkileşimli içerikler için uygun olan web geliştirme aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Microsoft FrontPage",
+                "Global AI Hub",
+                "Authorware",
+                "InDesign",
+                "ToolBook Instructo"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 110,
+            "question": "Aşağıdakilerden hangisi Johannes Gutenberg'in icadı olup, kitapların ve basılı materyallerin seri üretimini sağlayarak içerik üretiminde devrim yaratmıştır?",
+            "options": [
+                "Yazı sistemleri",
+                "Dijital yayıncılık",
+                "Matbaa",
+                "Parşömen",
+                "El yazması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 111,
+            "question": "hikâye anlatıcılarına, görsel, video, ses ve metinler ile dinleyicinin hayal gücüne ulaşma fırsatı sunarak çeşitli yazılımlar aracılığıyla hikâyelerini geniş bir kitleyle paylaşma imkânı vermektedir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Sanal gerçeklik",
+                "Dijital gerçeklik",
+                "Dijital öyküler",
+                "Dijital gazeteler",
+                "Dijital radyolar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 112,
+            "question": "Aşağıdakilerden hangisi yaratıcılığı etkiliyen öznel (kişisel) etkenlerden biridir?",
+            "options": [
+                "Güvensizlik",
+                "Yersiz eleştiri",
+                "Otoriter yönetim",
+                "Hiyerarşi",
+                "Tembellik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 113,
+            "question": "Hermann'ın Yaratıcı Sorun Çözme Modeli altı değişik zihinsel düşünme becerisiyle ilişkilidir. Bu becerileri altı meslek grubu temsil eder. alternatif bakış açıları üretme, üretilen çözümlerin eyleme dönüştürülmesi için planlar ve denemeler yapma özelliğiyle yaratıcı problem çözme sürecini temsil eder. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "dedektif",
+                "polis",
+                "sanatçı",
+                "yargıç",
+                "kaşif"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 114,
+            "question": "I. Bireysel bir süreçtir.<br>II. Kültürel bir süreçtir.<br>III. Kişilik özelliklerinin birleşimidir.<br>IV. İnsanın varlığını ortaya çıkarma sürecidir.<br>Yaratıcı süreç ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız III",
+                "I ve II",
+                "III ve IV",
+                "I, II, ve III",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 115,
+            "question": "Aşğıdakilerden hangisi içeriğin aktarılabilirlik ve uygunluk ilkesini ifade eder?",
+            "options": [
+                "İçeriğin bilimsel gelişmelerden hareketle oluşturulmasıdır.",
+                "İçeriğin yapısında bulunan bilgilerin tutarlı olmasıdır.",
+                "İçeriğin verimli olmasıdır.",
+                "Hitap edilen kitlenin hazır bulunuşluk düzeyiyle uyumlu olmasıdır.",
+                "İçerik tasarımının mantıklı bir şekilde yapılmasıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 116,
+            "question": "Aşağıdakilerden hangisi Nosich'nin (2018) oluşturduğu eleştirel düşünmenin özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Belirli bir amaç doğrultusunda gerçekleşmesi",
+                "Yansıtıcı bir şekilde ilerlemesi",
+                "Belirli standartlar gözetilerek yapılması",
+                "Yaratıcı düzenlemeleri gerektirmesi",
+                "Mantıklı olmayı gerektirmesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 117,
+            "question": "Mert öğretmen sosyal bilgiler dersinde Türkiye'nin 7 coğrafi bölgesindeki ekonomik ve sosyal yaşamı derslerde işlemiştir. Öte yandan sınavda yalnızca Güneydoğu Anadolu bölgesi ile ilgili sorular sormuştur. Yukarıdaki anlatılanlara göre, Mert öğretmen aşağıdakilerden hangisini uygulamamıştır?",
+            "options": [
+                "Yapı geçerliği",
+                "Görünüş geçerliği",
+                "Yordama geçerliği",
+                "Eşzaman geçerliği",
+                "Kapsam geçerliği"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 118,
+            "question": "Bireyin şeyler ve onların bilgisiyle ilgili giriştiği bilme çabasının çerçevesi şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Yöntem",
+                "Paradigma",
+                "Kuram",
+                "Teori",
+                "Teknik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 119,
+            "question": "Ölçme aracının hazırlanması, uygulanması ve puanlanması aşamalarındaki kolaylık, pratiklik ve ekonomiklik şeklinde tanımlanabilir. Bir ölçme aracının ekonomik olması, etik ve yasal konulara karşı duyarlı bir şekilde hazırlanması, uygulama süresinin uzun olmaması, puanlamasının kolay olması ve puanlardan elde edilen yorumlamaların kolay yapılabilmesi gerekmektedir. Yukarıdaki paragrafta anlatılan ölçme aracı özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanışlılık",
+                "Yordama geçerliliği",
+                "Ölçüt geçerliği",
+                "Değişmezlik",
+                "Kararlılık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        },
+        {
+            "id": 120,
+            "question": "I. Tasarımcılara çalışmaları hakkında objektif geri bildirim sağlayarak kişisel önyargıları azaltır ve tasarımlarını daha geniş bir bakış açısından görmelerini sağlar.<br>II. Tasarımcılar görsel iletişimin etkinliğini değerlendirerek tasarımlarının amaçlanan hedef ve mesajlarla uyumlu olup olmadığını doğrulayabilirler.<br>III. Değerlendirmeden elde edilen içgörüler, tasarımcıların güçlü ve zayıf yönlerini belirlemelerine yardımcı olarak çalışmalarını iyileştirmelerine ve tasarımlarının genel kalitesini artırmalarına olanak tanır.<br>Yukarıdaki ifadelerden hangisi/hangileri görsel iletişim tasarımında ölçme ve değerlendirme uygulamalarının tasarımcılar için olumlu özellikleri arasında yer alır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626558"
+        }
+    ]
+}

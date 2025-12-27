@@ -1,0 +1,1136 @@
+[
+    {
+        "Index": 3763393,
+        "Question": "<p>Thomas Kuhn’a göre bilgi nedir?</p>",
+        "Answer": "<p>Thomas Kuhn’un belirttiği gibi bilgi statik bir varlık değil, zaman içinde gelişen dinamik bir süreçtir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763394,
+        "Question": "<p>Bilgi ile veri arasındaki ilişki nedir?</p>",
+        "Answer": "<p>Veriler, çeşitli kaynaklardan toplanan ham, düzenlenmemiş gerçekler olarak görülebilir. Öte yandan bilgi, bu verilerin işlenmesinin, anlamlı ve kullanışlı hâle getirilmesinin sonucudur. Bu nedenle, veri ve bilgi birbirine bağımlı ve bağlantılıdır; veriler, bilgi yaratılmasının temelini oluşturur.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763395,
+        "Question": "<p>Bilgi ile veri arasındaki temel fark nedir?</p>",
+        "Answer": "<p>Veri ile bilgi arasındaki temel fark, verinin ham, analiz edilmemiş malzeme olması, bilginin ise anlam ve bağlam sağlayan işlenmiş ve analiz edilmiş veri olmasıdır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763396,
+        "Question": "<p>Günümüzde bilgiye erişim konusunda genel durum nedir?</p>",
+        "Answer": "<p>Günümüzün hızlı dünyasında bilgiye erişim her zamankinden daha kolay hâle gelirken mevcut bilgilerin bolluğu nedeniyle kaynakların doğruluğunu ve güvenilirliğini belirlemek giderek zorlaştı. İletişim kanallarının çeşitli ve son derece hızlı olması nedeniyle yanlış bilgi ya da dezenformasyon toplum içerisinde hızla yayılabilmektedir. Bu da günümüz dünyasında önemli bir sorun hâline gelmiştir<strong>.</strong></p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763397,
+        "Question": "<p>Doğru ve güvenilir bilgiye erişimin sağlanması sürecinin bileşenleri nelerdir?</p>",
+        "Answer": "<p>Doğru ve güvenilir bilgiye erişimin sağlanmasında <em>güvenilir bilgi kaynakları</em>, <em>medya okuryazarlığı</em> <em>ve eleştirel düşünme becerileri</em> ve <em>sorumlu gazetecilik</em> sürecin önemli bileşenleridir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763398,
+        "Question": "<p>Medya okuryazarlığı nedir?</p>",
+        "Answer": "<p>Medya okuryazarlığı medyaya erişme, analiz etme, değerlendirme ve yaratma yeteneğini içerir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763399,
+        "Question": "<p>Dünyamızda bilginin artması ve paylaşım hızının çoğalmasının sebepleri nelerdir?</p>",
+        "Answer": "<p>Matbaanın icadı, sanayi devrimi, kitle iletişim araçlarındaki gelişmeler, ulaşım araçlar gibi gelişmelerin sonucu olarak dünyadaki bilgi miktarı artmış ve paylaşım hızı çoğalmıştır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763400,
+        "Question": "<p>Günümüzde bilginin çoğalmasının beraberinde getirdiği dezavantaj nedir?</p>",
+        "Answer": "<p>Bilginin çoğalması zaman içerisinde bir dezavantajı da beraberinde getirmiştir. Bilgiye erişim serbestlik ve gelişen teknolojiyle birlikte kolaylaşırken bilgi bombardımanına dönüşen içeriğin içinden önemlilerini “ayıklamak” zorlaşmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763401,
+        "Question": "<p>Bilgi görselleştirme neden önemlidir?</p>",
+        "Answer": "<p>Bilgi görselleştirme çağımızın en önemli güçlerinden biridir. Bilgiyi netleştirerek alıcının algısına aktarır; bunların hepsi bilginin özümsenmesi için gereklidir. Bu, kullanıcıya gerekli bilgilerin iletilmesini garanti eder.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763402,
+        "Question": "<p>Spiekermann’a göre bilgi görselleştirmede dikkat edilmesi gereken önemli noktalar nelerdir?</p>",
+        "Answer": "<p>Spiekermann’a göre modern dünyada bilgi görselleştirme tasarımlarını herkesin anlayabileceği şekilde organize bir şekilde yazmaya ve sunmaya ihtiyaç olduğu açıktır. Bilgi görselleştirme tasarımı şansa bırakılırsa ortaya çıkan sonuç bilgilendirme kaosu olacaktır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763403,
+        "Question": "<p>Bilgi görselleştirmeyi oluşturan disiplinler nasıl sınıflandırılabilir?</p>",
+        "Answer": "<p>Bilgi görselleştirmeyi oluşturan disiplinler temelde iki grupta sınıflandırılabilir:</p> <ul> <li>Bilgilendirme yapan bilimler (information sciences) ve</li> <li>Tasarım üzerine çalışan branşlar (design arts).</li> </ul>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763404,
+        "Question": "<p>Bilgi görselleştirme nedir?</p>",
+        "Answer": "<p>Bilgi görselleştirme, kullanıcıların belirlenen gereksinimleri doğrultusunda, mesajın taşıyacağı içeriğin ve sunulacağı ortamın belirlenmesi, planlanması ve biçimlendirilmesi olarak tanımlanmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763405,
+        "Question": "<p>Bilgi görselleştirmenin bileşenleri nelerdir?</p>",
+        "Answer": "<p>Bilgi görselleştirmenin bileşenleri:</p> <ul> <li>Problemin tanımlanması</li> <li>Kullanıcı</li> <li>Tasarımda ortam</li> <li>Planlama</li> <li>Biçimlendirme</li> </ul>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763406,
+        "Question": "<p>Edward Tufte’ye göre günümüzde bilgi görselleştirme kavramından ne anlaşılmaktadır?  </p>",
+        "Answer": "<p>Edward Tufte’ye göre günümüzde bilgi görselleştirme denince, <em>bilgilendirici malzemenin estetik grafik tasarımı</em> anlaşılır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763407,
+        "Question": "<p>Terry Irwin’e göre bilgi görselleştirme nedir?</p>",
+        "Answer": "<p>Terry Irwin bilgi görselleştirmeyi “halk için tasarlanmış dil” olarak tanımlamaktadır. Yapılan emek, insanların dünyayı kavraması ve algılaması için bir iletişim biçimi olacaktır. Sonuçta bu onların yaşadıkları dünyayı anlamalarını sağlayacaktır.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763408,
+        "Question": "<p>Viyana’daki IIID’ye göre profesyonel bir tasarım için bilgi görselleştirme tasarımcısının sahip olması gereken nitelikler nelerdir?</p>",
+        "Answer": "<p>Bilgi görselleştirme tasarımcısı;</p> <ul> <li>Hem yenilikçi hem de sistematik düşünceye sahip olmalı,</li> <li>Çalışacağı alanda yeterli derecede bilgi sahibi olabilmeli,</li> <li>Görsel mesajın iletişim özellikleri ve kendi içindeki iletişimi hakkında bilgiye sahip olmalı,</li> <li>İlgili alışkanlıkları, eğilimleri, standartları, kuralları ve altında yatan teorileri bilmeli,</li> <li>İletişim medyası ve özellikle görsel iletişime ilişkin teknik gerekliliklere aşina olmalı,</li> <li>Algılama, mantık ve tepkiyi yanına alarak bilgilendirmeye yönelik insanın iletişim kurma becerilerine aşina olmalı,</li> <li>Kullanıcıyla iletişime geçen bilgilendirmenin kazanımlarını dikkate alacak yetide olmalı,</li> <li>Hareketli ya da durağan yazı ve resmin oluşturulması üzerine bilgi sahibi olmalı,</li> <li>Bilgiyi, iletişim amaçlı mesajın yeterince dikkati çekebileceği kadar ilginç ve çekici tasarlayabilmeli,</li> <li>Bilgilendirmenin sürekliliği için gerekli ayarlamaların yapılabileceği şekilde bilgi ve bilgi sistemlerini etkileşimli yapmayı anlamalı,</li> <li>Hem ana diliyle hem de İngilizceyle etkili bir biçimde iletişim kurabilecek yetkinliğe sahip olmalı,</li> <li>Destek verebilecek diğer bilimlerin (psikoloji, dilbilim, sosyal bilimler, bilgisayar bilimleri, istatistik gibi) kapsamı ve kapasitesi hakkında bilgi sahibi olmalı ve bu bilim dallarından gelen uzmanlarla kullanıcının farklı kültürel birikimlerinden ötürü farklılaşma gerektirebilecek projeler yürütebilmeli,</li> <li>Çeşitli tasarım aşamaları ve uygulamaların da oluşabilecek maliyetler hakkında bilgi sahibi olabilmeli,</li> <li>Hizmetlerini müşterilerine sunduğu değer ve gerekli zorunlulukların birlikte işleyebileceği bir biçime dönüştürmeli,</li> <li>Hedeflenen kitle ve toplumun tamamının gereksinimlerine yönelik ortak sorumluluk duymalıdır.</li> </ul>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763409,
+        "Question": "<p>Grafik tasarımcıları kimlerdir?</p>",
+        "Answer": "<p>Grafik tasarımcıları, bilgi görselleştirme tasarımı fikrini yaygınlaştıran ve ayrı bir disiplin olarak tanınmasına katkıda bulunan kişilerdir.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763410,
+        "Question": "<p>Grafik tasarımın özü nedir?</p>",
+        "Answer": "<p><strong>G</strong>rafik tasarımın özü mesajın içeriğinin belirlenmesi ve hedef kitleye göre görselleştirilmesidir.  </p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763411,
+        "Question": "<p>AIGA’dan Mark Spencer Reynolds’a göre bilgi görselleştirme tasarımı ile grafik tasarım arasındaki ayrım nedir?</p>",
+        "Answer": "<p>Reynolds’a göre bilgi görselleştirme tasarımı ile grafik tasarım arasındaki ayrım,</p> <ul> <li>tasarımcının görevinin gerekliliklerinden,</li> <li>tasarımcının görevinin amacından ve</li> <li>bu bağlamda mevcut olan bilgi miktarından kaynaklanmaktadır.</li> </ul>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763412,
+        "Question": "<p>Bruce Ian Meader’e göre bilgi görselleştirme tasarımı ile grafik tasarımı arasındaki ayrım nedir?</p>",
+        "Answer": "<p>Bilgi görselleştirme tasarımı işlevselliğe odaklanırken, grafik tasarımın mutlaka bununla ilgilenmesi gerekmez. Grafik tasarımın amacı hem görsel hem de yazılı dilin yanı sıra içerik, işlev, tutarlılık, algı, okunabilirlik ve verimlilikten yararlanmaktır. Grafiklerin tasarımı ve bilgi görselleştirmeleri kuzendir. Aradaki fark, bilgi görselleştirme tasarımı konularının önemli bir işlevsel amaca sahip olması ve çok fazla bilgi gerektirmesidir. Başarısız grafik tasarım denemeleri izleyicinin istenilen mesajı alamamasına yol açarken, en uç sonuç ise iletişimin kesintiye uğraması olarak değerlendirilebilir. Ancak bilgi görselleştirme projelerinin tasarımı başarısız olursa daha ciddi sonuçlar doğurabilir: yanlış adrese gitmek, yanlış hap almak, konuyu yanlış yorumlamak ve diğer sorunlar.</p>",
+        "Title": null,
+        "UniteNo": 1
+    },
+    {
+        "Index": 3763413,
+        "Question": "<p>Antik Mısır’daki ilk bilgigrafi örnekleri olan hiyeroglifler ve papirüslerden hangi amaçlarla faydalanılmıştır?</p>",
+        "Answer": "<p>Antik Mısır’daki hiyeroglifler ve papirüsler de benzer biçimde, tarihi olayları belgelemek, günlük yaşamı aktarmak, coğrafi konumları göstermek mitolojik hikayeleri tasvir etmek, dini ve ona ilişkin ritüelleri daha tanımlı hâle getirmek gibi amaçlarla faydalanılmıştır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763414,
+        "Question": "<p>Bilgigrafilerin erken dönem kullanım amaçları nelerdir?</p>",
+        "Answer": "<p>Erken dönem bilgigrafiler</p> <ul> <li>tarihi olayları belgelemek,</li> <li>günlük yaşamı aktarmak,</li> <li>coğrafi konumları göstermek</li> <li>mitolojik hikayeleri tasvir etmek,</li> <li>dini ve ona ilişkin ritüelleri daha tanımlı hâle getirmek</li> <li>gökyüzündeki gezegenlerin ve yıldızların konumlarını ve hareketlerini kaydetmek ve</li> <li>astrolojiye dayalı tahminleri ve analizleri ifade etmek</li> </ul> <p>için kullanılmıştır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763415,
+        "Question": "<p>Bilgigrafi açısından Chauvet Mağarası’nın önemi nedir?</p>",
+        "Answer": "<p>Mağara resimleri bilgigrafilerin ilk ataları sayılabilir. Tüm tarih öncesi mağaraların arasında da Chauvet Mağarası hem en eski hem de en korunmuş olması nedeniyle öne çıkmaktadır. Yaklaşık 30.000 yıl önceye ait fakat yaklaşık 20.000 yıl önce girişine düşen bir kaya nedeniyle dış dünyayla bağlantısı kesilmesi sonucu iyi görselde korunmuş binden fazla tarihi buz çağına dayanan mağara resmini içermektedir. Bu çizimler, çeşitli hayvan figürleri, insanlar ve soyut semboller gibi farklı içerikleri yansıtmakta ve sanatsal önemlerinin yanı sıra prehistorik dönemin günlük yaşamı, avcılık faaliyetleri ve bu faaliyetlere ilişkin ritüelleri ve o günde yaşamış olan insanların etraflarını nasıl algıladıklarını ortaya koyan önemli belgelerdir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763416,
+        "Question": "<p>“Seyahat Rehberi” olarak kabul gören ilk eser nedir?</p>",
+        "Answer": "<p>“Ölüler Kitabı” Antik Mısır’da mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilmiş bir eserdir. Bu kitaplar, dinî inanca göre, metin ve görsellerle öneriler ve bilgiler sunarak ölüm sonrası ruhların Krallık yolculuğuna yardım etmektedir. Tarihçi Margaret Bunson’a bu yazıtların amacı, ölen kişinin öteki dünyanın efsanevi yaratıkları ve tehlikeleriyle mücadele etmesini sağlamak ve yeraltı dünyasının özel aşamalarının erişim şifrelerini öğretmesi olarak değerlendirmektedir.</p> <p>Bilgi tasarımı profesörü Rune Pettersson’un ifadesiyle, bu papirüsler ilk “seyahat rehberleri” olarak tasarlanmış ve ölüm ve sonrasının daha kontrol edilebilir bir deneyim hâline getirilmesi amaçlanmıştır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763417,
+        "Question": "<p>Lully bilgi öğretisinin yapısını nasıl temsil etmiştir?</p>",
+        "Answer": "<p>Lully’nin öğretisinin temeli, varoluşun birliğine inanması ve bunun bilgiyle güçlendirmesidir. Herhangi bir nesneyi veya bir olguyu bütünün bir bileşeni olarak tanımlama yeteneğine sahiptir. Bilgigrafi tarihinde de ağaç metaforundan sıklıkla yararlanıldığı görüldüğü üzere, Lully da öğretilerinin yapısını bir ağaç şeklinde tasvir etmektedir.</p> <p>Bilgi ağacı, Lully’nin “Bilimler Ağacı (L’Arbre des sciences)” isimli kitabında, birbirinin parçası olan farklı bilim ve sanat dallarının oluşturduğu on altı küçük tekil ağacın birleşimi olarak tasvir edilmiştir. Lully dini, tasavvufi ve rasyonel düşüncenin bir karışımı olarak ağaç sembolünden faydalanarak öğretisini sınıflandırmaktadır. Bu bilim ağacı tasviri, bilginin görsel olarak iletimi ve değerlendirilmesinde oldukça anlamlıdır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763418,
+        "Question": "<p>İlk selenografi çalışmalarıyla yeni bir bilim dalının ortaya çıkmasını kim sağlamıştır?</p>",
+        "Answer": "<p>Optik gözlemlerine dayanarak Ay’ın ilk haritasını çizen Galileo Galilei’dir. Gelişmiş haritalarınki kadar kesin olmamasına rağmen o gün için yeni bir bilim dalı olan selenografiyi ortaya çıkmasını sağlamıştır.</p> <p>Galilei’nin ilk kullandığı araç görüntüyü yalnızca üç kez büyütebilirken optik gücü büyüklük sırasına göre arttırarak, görüntüyü otuz iki kat daha büyüterek daha ciddi bir analog oluşturmayı başarmıştır. Kalem ve mürekkep kullanılarak üretilmiş ay tasviri 1610 yılının mart ayında Venedik’te yayımlanan “Sidereus Nuncius (Yıldız Habercisi)” isimli astronomik broşürde sunulan bir dizi çizimin bir bölümünü oluşturmaktadır. Çizimler, Dünya’nın doğal uydusunun yüzeyinde çok sayıda krater ve dağ olduğunu ortaya koymuş ve o güne kadar yer etmiş fikirlerle çelişmiş ve ilk kez ayın teleskopik gözlemleri bilimsel bir çalışmada belgelenmiştir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763419,
+        "Question": "<p>18. Yüzyılda gerçekleşen devrimler, keşifler ve düşünsel akımlardaki gelişmelerin bilginin görselleştirilmesine katkıları neler olmuştur?</p>",
+        "Answer": "<p>Fransız devrimi sırasında halkı devrimle ilgili bilgilendirme işi görselleştirmelerle sağlanmıştır.</p> <p>Sanayi Devrimiyle daha da karmaşık hâle gelen iş akışı ve işgücü yönetimine ilişkin teknik konular diyagramlar ve görselleştirmeler sayesinde kontrol edilebilir hâle getirilmiştir.</p> <p>Genişleyen sömürgecilik faaliyetleri harita çalışmalarını gerektirmiş, bilimsel keşifler yine görsel sunumlarla paylaşılmış ve bilgi çok daha anlaşılır olarak paylaşılmıştır.</p> <p>Tüm bu büyük devrimler, keşifler ve düşünsel akımlar çerçevesinde bilgigrafi gelişim göstermiş ve bilgi görselleştirmenin yeni formları ve yaklaşımları bu yüzyılda denenmiş önceki örneklerine kıyaslandığında bilginin görselleştirilmesi evrim geçirmiştir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763420,
+        "Question": "<p>İngiliz teolog, din adamı ve filozof Joseph Priestley’in hazırladığı “Biyografi Tablosu”nun özelliği nedir?</p>",
+        "Answer": "<p>İngiliz teolog, din adamı ve filozof Joseph Priestley, 1765 yılında MÖ 1200 ile 1800 yılları arasında yaşamış tarihin önemli figürlerini gösteren bir “Biyografi Tablosu” yayımlamıştır. Yaklaşık olarak 60x90 cm boyutundaki bir diyagram içeren ve iki bin isimden oluşan kitapçıkla, öğrencileri için tarih ve genel politikadaki derslerini somutlaştırmıştır. 1769 yılına gelindiğinde ise daha yeni versiyonu olarak “Yeni Bir Tarih Grafiği”ni tekrar yayımlanmıştır. Priestley’e göre diyagramlarla öğretim farklı insanlar ve farklı tarihsel olaylar arasındaki ilişki görülerek daha etkin biçimde gerçekleşecektir. Bu bilgigrafilerin önemi, bugün tanıdığımız bilgigrafilere benzer biçimde çalışılmış eğitim amacıyla üretilen ilk örneklerden olmasıdır.  </p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763421,
+        "Question": "<ol start=\"19\"> <li>Yüzyılda bilgigrafilerin kullanım alanları neler olmuştur?</li> </ol>",
+        "Answer": "<ul> <li> Sanayi devrimine bağlı gelişen ekonomilerin istatistiki görselleştirmeleri,</li> <li>Yeryüzünün yeni keşfedilen toprakları ve güzergahları sayesinde haritacılıktaki ilerlemeler,</li> <li>Küresel nüfusun artışı buna bağlı gelişen doğum, ölüm oranları ve epidemik hastalıkların görselleştirilmeleri,</li> <li>İşçi sınıfı ve kadın haklarına yönelik hareketlerin anlatılmasında görselleştirilmeler</li> <li>Darwin’in evrim teorisi gibi bilimsel ilerlemelerin dergi ve kitaplardaki gösterimler</li> </ul> <p>için diyagram ve görselleştirmelerden yararlanılması bilgigrafilerin kullanımını bir zorunluluk hâline getirmiş ve bilgigrafiler bu günkülere benzer nitelikler kazanarak meşruiyetini kazanmıştır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763422,
+        "Question": "<p>John Snow’un çizdiği Londra’daki kolera salgını gösteren haritanın önemi nedir?</p>",
+        "Answer": "<p>Tarihteki, kaotik kriz durumlarından kurtulmaya yardımca olan örneklerden biri John Snow’un 1854’te Londra’daki kolera salgını haritasıdır. Snow, Londra’nın Soho bölgesindeki ölümlerin önemli bir bölümünün Broad Caddesi’ndeki kamuya açık bir pompaya dayalı olduğunu haritalayarak açıkça kanıtlamış ve bu sayede şehirde kanalizasyon ve su teminiyle ilgili önlemler alınmak zorunda kalınmıştır. Büyük protestolara rağmen pompanın kullanımın sonlandırılmasıyla mahalledeki kolera ölümleri azalmıştır. Gelecekteki coğrafi bilgi teknolojilerinin de habercisi olarak görülen harita, aynı zamanda coğrafi yöntemlerin salgınları analiz etmek amacıyla kullanıldığı önemli haritalardan biridir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763423,
+        "Question": "<p>Florence Nightingale’in, 1858’de yayımladığı tıbbi verilerin gül grafikleri yöntemiyle temsili hangi açıdan önemlidir?</p>",
+        "Answer": "<p>Bilgigrafiler sayesinde yaşanılan önemli farkındalıklardan biri İngiliz hemşire Florence Nightingale’in, 1858’de yayımladığı döngüsel bir zaman modeli kullanarak ürettiği tıbbi verilerin temsilidir. Nightingale, “Doğu Ordusunda Ölüm Nedenleri Diyagramı” isimli çalışmada savaştaki ölümlerin çoğunun hijyen eksikliği ve bulaşıcı hastalıklar gibi önlenebilir sebeplerden olduğunu net bir biçimde ortaya koymuştur. Ölüm verileri “gül grafikleri” ya da “kutup grafiği” olarak bilinen yöntem kullanılarak gösterilmiştir. Nightingale İngiliz Hükümeti’ni daha iyi sağlık sistemlerine olan ihtiyaca ikna eden grafiği tıpta bir dönüm noktası olarak kabul görmektedir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763424,
+        "Question": "<p>Edward Tufte’ye göre bugüne kadar çizilmiş en iyi istatistik grafiği hangisidir?</p>",
+        "Answer": "<p>Charles Joseph Minard, tematik haritacılıkta ve istatistiksel grafiklerin yaratıcı çözümlemelerinde başat isimlerden biridir. En bilinen çalışması 1869 yılında tasarladığı, Napolyon’un 1812 Rusya seferindeki Büyük Ordusu’nun kaderini gösteren seferin akış haritasıdır ve bu tasarım geniş çeşitliliğe sahip verileriyle zaman içinde yer değiştirerek basit bir sayısal gösterimden çok daha öğretici, derinlikli ve istikrarlı bir hikâye anlatmaktadır. <em>Askeri gücün büyüklüğü, konumu, ileri ve geri hareket yönü ve aynı tarihlerdeki sıcaklık verileri</em> gibi pek çok değişkene aynı çalışma içinde açıklıkla yer verilmiştir. Bilgigrafi dünyası için önemli bir yazar olan Edward Tufte, bu haritanın şimdiye kadar çizilmiş en iyi istatistik grafik olabileceğini belirtmektedir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763425,
+        "Question": "<p>Mendeleev’in tasarlamış olduğu periyodik tablo hangi açıdan önemlidir?</p>",
+        "Answer": "<p>Mendeleev “Kimya Prensipleri” isimli kitabında elementleri atom ağırlığını arttırma sırasına göre sıralamış, dikey sütunlar ve benzer niteliklere sahip elemanları aynı sıraya dizmesini sağlayan yatay sıralar olarak tablolaştırmıştır. Bu çalışmanın benzersiz noktalarından biri atomik ağırlıklarını ve özelliklerini de tahmin etmiş olsa da henüz keşfedilmeyen elementler için tabloda boşluklar bırakmıştır. 1870’lerde tahminlerinin birçoğunu yerine getiren yeni unsurların keşfi, Mendeleev’in periyodik sistemine artan ilgiyi de beraberinde getirmiş ve sadece bir çalışma nesnesi değil, bir araştırma aracı hâline gelmiştir. Mendeleev’in tablosu verinin doğru değerlendirilmesi ve bilgi mimarisinin sağlamlığı açısından oldukça önemli bir tasarımdır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763426,
+        "Question": "<p>İlk piktogram örneğini kim kullanmıştır?</p>",
+        "Answer": "<p>İrlanda asıllı editör, coğrafyacı, gazeteci, istatistikçi ve yazar Michael George Mulhall (1836-1900) çeşitli renk ve boyutlarda kullanılabilecek piktogramlar tasarlamış ve bu basitleştirilmiş görsellerle verinin temsilinde etkin bir görselleştirme elde etmiştir. Örneğin, bir ineğin farklı büyüklükteki siluet görüntülerini, farklı ülkelerdeki et üretimini temsil edebilir ve okuyucu bu farklı alanların boyutlarını karşılaştırmalı olarak aynı anda görebilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763427,
+        "Question": "<p>20 Yüzyılda ve 21. Yüzyılın ilk çeyreğinde bilgigrafinin tasarımı ve hızlı yayılımını etkileyen temel unsurlar nelerdir?</p>",
+        "Answer": "<ol start=\"20\"> <li>Yüzyıl ve içinde bulunduğumuz 21. yüzyılın ilk çeyreğindeki internet ve teknolojinin hızı görselleştirme ve bilgigrafiler için patlama çağıdır. Dijital teknolojilerdeki ilerleme bilgisayar, tasarım ve veri araçlarının gelişimi ve televizyon, sinema, internetle hayatımıza giren sosyal medya platformları görsel medya alanları ve araçlarındaki ilerleme daha çok bilgigrafi tasarlanmasını ve daha hızlı yayılmasını sağlamıştır.</li> </ol>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763428,
+        "Question": "<p>ISOTYPE nasıl doğmuştur?</p>",
+        "Answer": "<p>Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Neurath, Viyana merkezli konut, şehircilik, toplum ve ekonomi başlıklarıyla ilgili iki müzenin kurulmasını sağlamış ve bu müzeleri yönetmiştir. Müzelerin sergilerini oluşturmak için çalışırken, aralarında grafik tasarımcı Gerd Arntz’ın da bulunduğu ekibiyle birlikte önceleri “Viyana Yöntemi” olarak isimlendirdikleri görsel bir dil yaratmışlardır. Daha sonra ismine “Uluslararası Tipografik Resim Eğitimi Sistemi ISOTYPE” dedikleri bu ikonik görsel dil, “bazı değerli bilgileri sunmak, çarpıcı bir şekilde bir ilişki veya gelişme göstermek, ilgiyi uyandırmak, dikkati yönlendirmek ve seyirciyi aktif katılıma teşvik eden görsel bir argüman sunmak” için kullanılan yalınlaştırılmış görseller ve kendine has kompozisyon sınırlılıklarından oluşmaktadır. Uluslararası bir dil yaratma arzusuyla ortaya çıkan ISOTYPE hareketi, özellikle katmanlı ve istatistiki bilgiyi vermek için görsel temsiller kullanılmasını öngörmektedir. ISOTYPE, metin, sayı ve karmaşık diagramlardan oluşan uzunca satırları okumakta zorlanan pek çok kişi için, bir dil veya teknik detayları bilme ihtiyacının ortadan kaldırılarak, resimlerin çekiciliğinden faydalanılıp mesajın aktarılması sağlamaktadır ve özellikle eğitim alanındaki her faaliyet için kullanım değerine sahiptir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763429,
+        "Question": "<p>İngiliz Henry Beck’in bilgigrafiye getirdiği katkı nedir?</p>",
+        "Answer": "<p>İngiliz asıllı Henry Beck tarihe damga vuran Londra Metrosu’nun yeni ve çarpıcı haritasının ilk taslağını 1930’ların başlarında çizmiştir. Beck tasarımında, o güne kadarki haritalarda uygulanan ölçek ve coğrafi doğruluktan vazgeçerek, her tren hattını renklendirildiği ve yalnızca düz ve 45 derecelik açılı çizgiler kullanıldığı devrim niteliğindeki haritasının temelini atmıştır. Beck’in zeki, temiz ve renkli tasarımı günümüzün ikonik tasarımlarından biridir. Beck’in haritası dünyanın en tanınmış ve etkili transit haritasıdır, öyle ki dünyanın birçok büyük şehirlerinde benzerleri üretilmiştir.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763430,
+        "Question": "<p>İKEA’nın bilgigrafiye getirdiği katkı nedir?</p>",
+        "Answer": "<p>İKEA, yassı ambalaj ve kolay montaj konseptini yaratarak mobilya endüstrisini değiştirdi. Bilgi görselleştirmeyi kullanarak, ürünlerinin nasıl monte edileceğini müşterilere açıklamış ve pazarlamada yeni bir akımın başlamasına sebep olmuştur.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763431,
+        "Question": "<p>Sagan tarafından tasarlanan Pioner Plakasının amacı nedir?</p>",
+        "Answer": "<p>Amerikalı gök bilimci ve astrobiyolog Carl Edward Sagan, NASA tarafından Dünya dışı ilk bağlantı için bir görsel mesaj oluşturma konusunda görevlendirilmiştir.</p> <p>Birkaç güçlü simgeye sıkıştırılmış elzem bilgilerle dolu tasarımı, 15,25x22,8 cm boyutlarındaki altın kaplama bir alüminyum plakaya kazınmış, Pioneer 10 isimli uzay aracına korumalı bir biçimde monte edilmiş ve 1972 yılında uzaya doğru fırlatılmıştır.</p> <p>Plakada, uzay aracıyla rastlaşabilecek akıllı yaşam formlarına kendimizi tanıtabilmek için tasarlanmış evrendeki konumumuza dair çeşitli simgeler, kimyasal elementlerin sembolleri, matematiksel semboller ve çizgisel olarak betimlenmiş çıplak bir erkek ve kadın figürü bulunmaktadır.</p> <p>Pioneer Plakası, zamanın bir yerinde uzayda karşılaşabilecek dünya dışı varlıklara Dünya ve insanoğluna ait bilgileri aktarma ya çalışan bir tür görsel iletişim denemesi olarak tarihe geçmiştir ve uzayda insanlığın izlerine dair kalıcı bir belge bırakmayı amaçlamıştır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763432,
+        "Question": "<p>Nigel Holmes’un bilgigrafi tasarımında temel prensibi nedir?</p>",
+        "Answer": "<p>İngiliz grafik tasarımcısı, yazar, teorisyen ve çizer Nigel Holmes, günümüz bilgigrafi tasarımcıları arasında kendine has üslubu, tecrübesi ve yaratıcılığıyla öne çıkan isimlerden biridir.</p> <p>Holmes’un bilgigrafi tasarımındaki temel prensibi bilginin eğlenceli anlatımıyla aktarımının daha etkili olacağıdır ve bilgigrafiği tasarımlarının her birinde bu çaba görülmektedir. Holmes, “Bir insanı gülümsetebilir ve bilgilendirebilirseniz, ilgisini kazanmış olursunuz ve okuyucunun hafızasında kalırsınız. Mizah esastır.” diyerek tasarımlarının odağını neden gülümsetme ye bağladığını açıklamıştır.</p>",
+        "Title": null,
+        "UniteNo": 2
+    },
+    {
+        "Index": 3763362,
+        "Question": "<p>Bilgigrafiler kapsam ve işlevine göre sınıflandırıldığında hangi gruplara ayrılmaktadır?</p>",
+        "Answer": "<p>Kapsam ve işlevine göre sınıflandırıldığında, bilgigrafiler 9 gruba ayrılabilmektedir. Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma Bilgigrafileri ve Hiyerarşi Bilgigrafileridir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763363,
+        "Question": "<p>İstatistiksel bilgigrafiler hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>İstatistiksel bilgigrafiler, bir veri setinin içeriğinin incelenmesi, veriler içindeki yapıların gözlemlenmesi, istatistiksel varsayımların kontrol edilmesi veya bir analizin sonuçlarının iletilmesi amaçlarıyla kullanılabilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763364,
+        "Question": "<p>Öğretici bilgigrafiler hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Öğretici bilgigrafiler, bir konunun özelleşmiş ya da genel durumunu aktarmak amacıyla kullanılan bir bilgigrafi türüdür. Ayrıca belirli bir konunun genel bakışını paylaşmak, yeni bir fikir veya konsepti tanıtmak, sade bir blog yazısı veya makaleyi okuyucular için daha ilgi çekici hâle getirmek veya son derece teknik bir konuyu, konuya aşina olmayan bir kitleye sunmak gibi amaçlara da hizmet edebilir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763365,
+        "Question": "<p>Zaman çizelgesi bilgigrafileri hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Bir zaman çizelgesi, bir konunun kronolojik olay sırasını görsel olarak sunmak için kullanılan, etkili bir bilgigrafi türüdür.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763366,
+        "Question": "<p>SWOT analizi nedir?</p>",
+        "Answer": "<p>SWOT analizi, bir organizasyonun içsel dinamikleri (güçlü ve zayıf yönler) ile dış çevresel faktörleri (fırsatlar ve tehditler) değerlendiren bir stratejik araçtır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763367,
+        "Question": "<p>SWOT analizi hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>SWOT analizi organizasyonların kendi kapasitelerini anlamalarına, stratejik hedefler belirlemelerine ve rekabet avantajı elde etmelerine yardımcı olur. Güçlü yönler ve fırsatlar kullanılarak organizasyonlar başarıya giden yolda ilerlerken, zayıf yönlerin giderilmesi ve tehditlerin ele alınması için stratejiler geliştirilir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763368,
+        "Question": "<p>SWOT analizi hangi alanlarda kullanılabilir?</p>",
+        "Answer": "<p>SWOT analizi, işletmelerden sivil toplum kuruluşlarına kadar birçok alanda yaygın olarak kullanılmaktadır ve karar verme süreçlerinde önemli bir rol oynamaktadır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763369,
+        "Question": "<p>Süreç bilgigrafileri hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Bir proje, görev veya stratejinin tamamlanması için gereken adımları görselleştirmek için süreç bilgigrafileri kullanılır. Süreç bilgigrafileri, bir süreci görselleştirmek, özetlemek ve basitleştirmek için özel olarak tasarlanmıştır. Bu bilgigrafiler, pazarlama stratejilerini, yeni çalışan katılımını, müşteri yolculuk haritalarını, ürün kılavuzlarını, tarifleri ve daha fazlasını görselleştirmek için idealdir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763370,
+        "Question": "<p>Anatomi bilgigrafileri hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Anatomik bilgigrafiler, belirli bir konu hakkındaki bilgileri parçalayarak, bir araç veya hizmetin nasıl çalıştığını görsel olarak ileten grafiklerdir. Bu bilgigrafi türü, bir nesnenin farklı kısımlarını vurgulamak veya bir şeyin nasıl çalıştığını açıklamak için kullanılabilir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763371,
+        "Question": "<p>Akış şeması bilgigrafileri hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Akış şeması bilgigrafileri, karar verme araçları olarak kullanılan ve belirli soruları yanıtlamaya yardımcı olan grafiklerdir. Bu bilgigrafiler, bir sorudan başlayarak sorunu netleştirmeye yardımcı olmak için bir dizi soru sunar ve sonunda ihtiyaçlara uygun birkaç olası yanıtla sonuçlanır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763372,
+        "Question": "<p>Coğrafi bilgi ve konum bilgigrafileri hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Coğrafi bilgigrafiler, konumlar veya demografik verileri görsel olarak sunmak için kullanılabilecek en uygun görselleştirme yöntemlerinden biridir. Bir yerin bir olguya veya olaya bağlamasına yardımcı olur, anlaşılabilirliği artırır ve dikkat çekicilik sağlar. Özellikle büyük veri setlerini anlaşılır bir şekilde iletmek veya demografik trendleri vurgulamak için kullanılan etkili bir araçtır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763373,
+        "Question": "<p>Karşılaştırma bilgigrafileri hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Karşılaştırma bilgigrafileri, karar verme süreçlerini hızlandırarak daha etkili bir şekilde yapılmasını sağlayan grafiklerdir. Genel olarak tablolara benzer bir yapıya sahiptir. Bir kavramın veya öğenin özelliklerini bir sütunda sunarken, diğer bir nesnenin veya kavramın karşılaştırılabilir özelliklerini yan yana bir sütunda gösterirler. Karşılaştırma bilgigrafileri bloglar, sosyal medya ve e-postalarda sıkça kullanılan popüler bir bilgigrafi stilidir. Temelde, iki veya daha fazla nesne, yer, fikir veya kavram arasında karar verirken netlik sağlanması amacına hizmet etmek üzere kullanılırlar.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763374,
+        "Question": "<p>Hiyerarşi bilgigrafileri hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Bir konuyu öncelik sırasına göre sunan bilgigrafiler, hiyerarşi bilgigrafileri kategorisine dâhil edilebilmektedir. Bu tür grafikler genellikle piramit veya akış şeması biçiminde düzenlenir ve önemli bilgilerin hızlı bir şekilde fark edilerek anlaşılmasını sağlarlar.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763385,
+        "Question": "<p>Veri görselleştirme ve bilgigrafi alanında tanınmış bir Amerikalı istatistikçi, bilgisayar bilimci, yazar ve profesör olan Edward Tufte'ye göre bilgigrafinin sunumunda hangi tür anlatımlar vardır?</p>",
+        "Answer": "<p>Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir: doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân<br />kullanarak anlatım, küçük çoğaltmalar.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763386,
+        "Question": "<p>Bilgigrafi tasarımcıları için temel olarak hangi medya formatları bulunmaktadır?</p>",
+        "Answer": "<p>Bilgigrafi tasarımcıları için temelde altı farklı bilgigrafi medya formatı bulunmaktadır: Statik, Yakınlaştırılabilir, Tıklanabilir, Hareketlendirilmiş, Video, Etkileşimli.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763387,
+        "Question": "<p>Statik bilgigrafi nedir, hangi amaçla kullanılır?</p>",
+        "Answer": "<p>Statik bilgigrafiler, sabit bir yapıya sahiptir ve genellikle bir resim veya görüntü dosyası olarak sunulur. Çoğunlukla kâğıt üzerinde veya dijital platformlarda görüntülenir ve inte-<br />raktif özellikler içermez. Statik bilgigrafiler, bilgiyi basit ve anlaşılır bir şekilde sunma amacını taşır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763388,
+        "Question": "<p>Yakınlaştırılabilir bilgigrafi nedir, hangi amaçla kullanılır?</p>",
+        "Answer": "<p>Yakınlaştırılabilir bilgigrafiler, kullanıcılara daha fazla ayrıntıya inme veya belirli bir konuya derinlemesine bakma imkânı sunan etkileşimli bilgigrafilerdir. Bu tür bilgigrafiler, temel bir görüntü veya ana hikâye sunar ve kullanıcılar bu ana hikâyeden ayrıntılara doğru yakınlaşabilirler.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763389,
+        "Question": "<p>Tıklanabilir bilgigrafi nedir, ne için kullanılır?</p>",
+        "Answer": "<p>Tıklanabilir bilgigrafiler, belirli bir bölgeye veya veri noktasına tıkladığınızda ilgili bilgilerin veya görsellerin daha büyük bir pencerede veya yan panelde görüntülendiği bir tür etkileşimi içerir. Bu tür bilgigrafiler, kullanıcıların bilgiye kişiselleştirilmiş bir şekilde erişmelerini ve ilgi alanlarına göre bilgi keşfetmelerini sağlar. Genellikle daha büyük ve karmaşık veri setlerini etkileşimli bir şekilde sunmak için kullanılırlar.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763390,
+        "Question": "<p>Hareketlendirilmiş bilgigrafi nedir, hangi amaçla kullanılır?</p>",
+        "Answer": "<p>Hareketlendirilmiş bilgigrafi verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi türüdür. Bu tür bilgigrafiler, verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur. Hareketlendirilmiş bilgigrafiler, bilgiyi daha çarpıcı ve etkileyici bir şekilde sunmanın yanı sıra izleyicilerin ilgisini daha iyi çekme potansiyeline sahiptir.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763391,
+        "Question": "<p>Video bilgigrafi nedir, hangi amaçla kullanılır?</p>",
+        "Answer": "<p>Video bilgigrafileri, verilerin, bilgilerin ve hikâyelerin video formatında sunulduğu ve izleyicilere görsel bir anlatım sunan bir türdür. Bu tür bilgigrafiler, metin, grafikler, ses ve hareketli görüntülerin birleştirilmesiyle oluşturulur ve karmaşık bilgilerin anlatılması ile anlaşılmasını kolaylaştırır. Video bilgigrafiler, belirli bir konsepti veya veri setini açıklamak veya görselleştirmek için kullanılır.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763392,
+        "Question": "<p>Etkileşimli bilgigrafi nedir, hangi amaçla kullanılır?</p>",
+        "Answer": "<p>Etkileşimli bilgigrafiler, izleyicilere sunulan verileri veya görselleştirmeleri kısmen kontrol etme imkanı tanıyan tasarımlardır. Bu tür tasarımların popülerliği, izleyicileri bilgiyle daha uzun süre meşgul etme yeteneği nedeniyle yüksektir, çünkü statik bilgigrafilere göre daha fazla etkileşime olanak tanırlar. Bu tür tasarımlar, bağımsız veri görselleştirmeleri olarak sunulabileceği gibi, daha büyük bir bilgigrafi tasarımının bir parçası olarak da yer<br />alabilirler.</p>",
+        "Title": null,
+        "UniteNo": 3
+    },
+    {
+        "Index": 3763447,
+        "Question": "<p>\"Bilgi Mimarisi\" neyi ifade eder?</p>",
+        "Answer": "<p>Bilgi mimarisi (information architecture) teriminin ağızdan ağıza yayılması, ilk kez bir mimar olan Richard Saul Wurman tarafından 1970’lerin sonunda kullanımı ile başlamış olsa da uygulamada bir tasarım uğraşı olmaktan çok, enformasyon ve kütüphane biliminden devşirilen düşünce, araç ve tekniklerinin ilerletilmesi ile ortaya çıkmıştır (Fenn ve Hobbs, 2014). Ancak Wurman’ın özgün bakış açısına sadık kalarak, özellikle basılı medyaya yönelik grafik tasarım alanında, bilginin görsel temsilinin yapılandırılmasını ifade etmek üzere de kullanılmaktadır. Öte yandan, medya uzamı kavramının çerçevesi grafik tasarımla sınırlı olmayıp çok daha geniştir. Aynı zamanda bilgisayar bilimleri çerçevesinde, verinin akışı, depolanması ve birbirleri ile ilişkilerini ifade eden bir terim olarak da kullanılmaya devam etmektedir. 1980’lerde, bilgisayar bilimleri çerçevesinde, bilgi sistemlerinin donanım mimarisini ifade etmek üzere kullanılan bilgi mimarisi kavramı, yine aynı dönemde örgütsel ve ticari bağlamda bilgi ağlarını inceleyen çalışma alanını tarif etmek üzere de kullanılır. Günümüzde bilgi mimarisi dendiğinde, başta web siteleri olmak üzere, çeşitli medya uzamlarında sunulan bilginin organizasyonu, etiketlenmesi, dolaşımı ve aranması ile ilgili, çıkış noktasında kütüphane ve enformasyon bilimi alanı bulunan bir disiplin anlaşılmaktadır. Ancak bilgi sistemleri ile etkileşimin ekran başında kullanılan bilgisayarlarla sınırlı kalmayıp sensörler ve ağlar aracılığı ile gündelik hayatın çeşitli etkinliklerine nüfuz etmesi ile ortaya çıkan “yaygın bilişim” (pervasive computing) alanında, özellikle akıllı binalar gibi her yerde bilişim (ubiquitous computing) uygulamalarına ilişkin olarak da bilgi mimarisi kavramı ile karşılaşılmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763448,
+        "Question": "<p>Bilgiye erişim bağlamında \"bilgi mimarisi\" ne şekilde tanımlanabilir?</p>",
+        "Answer": "<p>Rosenfeld, Morville ve Arango (2015), enformasyon ve kütüphane biliminden yola çıkarak, bilgiye erişim bağlamında bilgi mimarisi terimini şu maddeler içinde tanımlamışlardır:<br />1. Paylaşımlı bilgi ortamlarının yapısal tasarımı,<br />2. Dijital, fiziksel ya da ikisi arasında geçişken sistemlerde; bilgiyi organize etmek, etiketlemek, aramak ve içinde dolaşmak işlerinin bir birleşimi,<br />3. Bilgi ürünleri ve bilgiyle ilgili deneyimleri; kullanılabilirlik, bulunabilirlik ve anlaşılırlığı destekleyecek şekillendirme sanatı ve bilimi,<br />4. Dijital ortam üzerinde tasarım ve mimarlık prensiplerini uygulamaya odaklanmış gelişmekte olan bir disiplin ve uygulama alanı.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763449,
+        "Question": "<p>Bilgi mimarisi çerçevesinde yapılandırma, organize etme ve etiketleme neyi ifade eder?</p>",
+        "Answer": "<p>Yapılandırma, bilginin parçacıklılığı ile ilgilidir. Yapılandırma, bilgiyi alt parçalara bölerek ve bu parçaları birbirleri ile ilişkilendirerek gerçekleştirilir. Anlaşılır ve işlevsel bir ilişkilendirme ile bilgi organize edilir. Alt parçalar ve birbiri ile ilişkilendirilmiş alt parçaların oluşturduğu alt gruplara bir isim verilerek etiketleme yapılır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763450,
+        "Question": "<p>\"Kavramsal içerik modeli\" nedir?</p>",
+        "Answer": "<p>Dijital içerikler için kullanılan yapılandırma yaklaşımlarına “kavramsal içerik modeli” denir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763451,
+        "Question": "<p>\"Bilgi tasarımı\" neyi ifade eder?</p>",
+        "Answer": "<p>Doğru parçacıklar hâlinde yapılandırılmış, anlamsal ilişkiler çerçevesinde organize edilmiş ve içeriği hakkında doğru bir izlenim uyandıracak şekilde etiketlenmiş bilgi \"bilgi mimarisi\" alanının nesnesidir. Bu bilgiyi en doğru ve eksiksiz, yani etkin, en kolay şekilde anlaşılacak,<br />yani verimli bir biçimde sunmak ise, bilgi tasarımının ilgi alanıdır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763452,
+        "Question": "<p>\"Bilgi mimarisi\" ve \"bilgi tasarımı\" uygulamaları kimler tarafından yapılır?</p>",
+        "Answer": "<p>Uygulamada, bilgi mimarisini oluşturan ve bilgi tasarımını yapan kişiler çok yakın çalışmaktadır, hatta çoğu kez aynı kişi her iki görevi de üstlenmektedir. Web veya diğer dijital platformlar için tasarlanan bilgi sistemi projelerinde, etkileşim tasarımcısı olarak adlandırılan kişinin çalışmasının önemli bir bölümü bilgi mimarisine ilişkindir. Bilgi tasarımı ise, arayüz tasarımcısı tarafından gerçekleştirilir. Çok büyük çaplı olmayan projelerde, sıklıkla her iki görevin de tek bir kişi tarafından yerine getirilmesi söz konusudur.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763453,
+        "Question": "<p>\"Bilgi hiyerarşisi\" neyi ifade eder?</p>",
+        "Answer": "<p>Yönetim bilimi çerçevesinde bilgi, veriden bilgeliğe uzanan bir hiyerarşi çerçevesinde incelenmiştir. İlk kez Ackoff (1989) tarafından literatüre eklenen ve İngilizcedeki veri, bilgi birikimi ve bilgelik sözcüklerinin ilk harfleri ile DIKW (data - information - knowledge - wisdom / veri - bilgi - bilgi birikimi - bilgelik) piramidi olarak da anılan bu hiyerarşik yaklaşım, küçük farklarla da olsa çok pek çok araştırmacı tarafından ele alınmıştır (Rowley, 2007).</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763454,
+        "Question": "<p>\"Veri görselleştirme\" neyi ifade eder?</p>",
+        "Answer": "<p>Veri bilimi, istatistik ve bilgisayar bilimi ile paralel gelişen bir alandır. Başlangıç noktası istatistiğe dayanmakla beraber, günümüzde çok çeşitli alt dalları ve yaklaşımları olan bir disipline dönüşmüştür. Veri görselleştirme de bu alt dallardan biridir. Veri bilimcilerin sık sık yararlandığı pasta grafik, sütun grafik, histogram, kutu grafiği ve dağılım grafiği gibi veri görselleştirme biçimlerinin yanı sıra karar ağaçları, yapay sinir ağları ya da özdüzenleyici haritalar gibi kümeleme analizi yaklaşımları ise veri görselleştirmenin ön plana çıktığı veri modelleme biçimleridir. Tüm bu veri görselleştirme yöntemleri ve diğer metotlar, verinin ilişkili olduğu alana özgü bir problemi çözüme ulaştırmak için kullanılır. </p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763455,
+        "Question": "<p>Veri bilimi hangi alanlarda kullanılabilir?</p>",
+        "Answer": "<p>Müşteri ilişkileri yönetimi, finans, reklamcılık gibi ticari faaliyetlerden telekomünikasyon ve yazılım gibi planlamaya ihtiyaç duyan işlere; oyun ve eğlence sistemleri veya sosyal medya kullanıcı verilerinden, güvenlik, anti-terörizm, sosyal güvenlik ve sosyal hizmetler gibi kamu faaliyetlerine ilişkin verilere; her alanda veri biliminden faydalanılmaktadır. Veri bilimcinin görevi, alana özgü problemi anlayarak bunu bir veri bilimi problemi hâline<br />dönüştürmek, ardından da eldeki veriyi problemi çözmek üzere kullanmaktır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763456,
+        "Question": "<p>Nicel veri nedir?</p>",
+        "Answer": "<p>Veri, sayılarla ifade edilebilen bir karaktere sahip olabilir. Bu tür verilere nicel ya da kantitatif veri adı verilir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763457,
+        "Question": "<p>Zihin haritası nedir?</p>",
+        "Answer": "<p>Eğitim ve yaratıcı düşünme alanında yaygın bir araç olan “zihin haritaları” nitel verinin görselleştirilmesine örnektir. Zihin haritaları, çeşitli kavramlar arasındaki anlamsal ya da diğer ilişkileri görsel bir şekilde aktarırlar.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763458,
+        "Question": "<p>Sürekli ve ayrık veriler arasında ne fark vardır?</p>",
+        "Answer": "<p>Sürekli veriler, çok sayıda ondalık basamaktan oluşan çok hassas değerlere sahip olabilir. Ayrık veriler ise doğal sayılar da denen tam sayılar ile ifade edilir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763459,
+        "Question": "<p>Evet/Hayır şeklindeki gözlemlerden oluşan veriyi ifade etmek için hangi değerler kullanılır?</p>",
+        "Answer": "<p>Veri sadece “evet” ya da “hayır” şeklinde ifade edilecek gözlemlerden oluşuyorsa, bu veriyi ifade etmek için üç değer kullanılabilir:<br />1. Evet cevaplarının sayısı<br />2. Toplam cevap sayısı<br />3. Evet cevaplarının toplam cevaplara oranını gösteren yüzde değeri.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763460,
+        "Question": "<p>Korelasyon terimi sayısal veriler bağlamında neyi ifade eder?</p>",
+        "Answer": "<p>Korelasyon, her ne kadar gündelik dilde sıkça kullandığımız bir kavram olsa da sayısal veriler bağlamında kullanıldığında, iki veriden birinin artarken diğerinin de artmasını, ya da tam tersi azalmasını ifade eder.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763461,
+        "Question": "<p>Nominal (sınıflama) ölçüm neyi ifade eder?</p>",
+        "Answer": "<p>Nominal (sınıflama) ölçümler sınıflandırmaları, taksonomileri ya da tipolojileri ifade edebilirler. Nominal veriler, bazen de evet-hayır, doğru-yanlış gibi dikotom (iki seçenekli) verilerin ifadesi olarak karşımıza çıkarlar.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763462,
+        "Question": "<p>Ordinal (sıralama) ölçüm neyi ifade eder?</p>",
+        "Answer": "<p>Ordinal (sıralama) ölçümler, doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek kademeleri ifade ederler.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763463,
+        "Question": "<p>Interval (aralık) ölçüm neyi ifade eder?</p>",
+        "Answer": "<p>Interval (aralık) ölçümler, eşit aralıklarla oluşturulmuş ancak başlangıç noktası “0” olmayan değerlerdir. Örneğin sıcaklık ölçümleri, interval türündedir. Sıcaklığın 0°C olması, bir yokluk ifade etmez.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763464,
+        "Question": "<p>Özel veri türleri nelerdir?</p>",
+        "Answer": "<p>Bazı veri türleri, farklı bir şekilde işlenmeleri gerektiği için özel kabul edilirler. Tarih ve zaman verisi, gün, ay, yıl, saat, dakika, saniye gibi farklı bileşenlerin farklı dizilimlerde sunulması ile ifade edildiği için, bu tür veriler üzerinde hesaplamalı işlemler ve sıralamalar yapmak farklı bir yaklaşım gerektirir. Coğrafi veriler, posta kodları, enlem/boylam çiftleri, ülke ve şehir kodları gibi farklı biçimlerde verilebilir. Sadece enlem / boylam verilerinde hesaplamalı işlemler yapılması söz konusu olacaktır. Diğerleri, nominal olarak ifade edilen kategorik verilerdir. Aynı şekilde, metin dizgesi olarak ifade edilen veriler de kategoriktirler. Örneğin, illeri metin dizgesi olarak isimleri ile de belirtsek, rakamsal nominal değerler olarak il plaka numaraları ile de belirtsek kategorik veri olacaklardır.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763465,
+        "Question": "<p>Uzamsal / Yapısal veri neyi ifade eder?</p>",
+        "Answer": "<p>Uzamsal / yapısal veri tanımlamalara yöneliktir. Örneğin bir coğrafi bölgedeki hastalığa, suça, ya da ev fiyatlarına ilişkin paternlere dair ya da bir devletin, kurumların ya da örgütlerin ne şekilde organize olduğuna ilişkin verilerdir. Uzamsal / yapısal veri söz konusu olduğunda, haritalar ve hiyerarşi / organizasyon şemaları, sıklıkla karşılaştığımız veri görselleştirme biçimleridir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763466,
+        "Question": "<p>Zamansal / Nedensel veri neyi ifade eder?</p>",
+        "Answer": "<p>Zamansal / nedensel veri açıklamalar ve hikayeler ile ilgilidir. Örneğin bireylerin edimleri, nüfustaki, eğitimdeki, gayri safi millî hasıladaki değişimler gibi veriler, zamansal / nedensel verilerdir. Bu tür verileri görsel olarak ifade ederken akış diyagramları ya da çizgi grafikler ön plana çıkar.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763468,
+        "Question": "<p>DIKW (data - information - knowledge - wisdom) piramidi neyi ifade eder?</p>",
+        "Answer": "<p>Veri (D), temel olguları ifade ederken, bilgi (I), verinin bir bağlama yerleştirildiği durumu ifade eder. Bilgi birikimi (K), deneyimler ve bilgilere dayalı birikimi temsil eder. Bilgelik (W) ise, bu bilgiyi düşünerek değerlendiren ve anlamlandıran bir seviyedir.</p>",
+        "Title": null,
+        "UniteNo": 4
+    },
+    {
+        "Index": 3763504,
+        "Question": "<p>Bilginin yayılımındaki en büyük sıçrama ne ile olmuştur?</p>",
+        "Answer": "<p>Bilginin yayılmasındaki en büyük sıçramanın yazının icadı olduğu tartış masızdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763505,
+        "Question": "<p>Yazının icadından önce bilginin aktarılmasında hangi etkili yöntemler kullanılmıştır?</p>",
+        "Answer": "<p>Bilginin aktarılmasında yazının icadından önce önemli faaliyetlerden biri usta çırak ilişkisine benzer deneyim aktarımıdır.</p> <p>Bir diğer aktarın yöntemi de resimler, semboller ve diğer görsel işaretler aracılığıyla gerçekleştirilmiştir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763506,
+        "Question": "<p>Deneyim aktarımı nedir?</p>",
+        "Answer": "<p>Bilginin aktarılmasında yazının icadından önce sözlü bilgiyi yaygınlaştıran önemli bir faaliyet deneyim aktarımıdır. Usta çırak ilişkisine benzer bu bilgi türü yazılı bir kaynakta kayıt altına alınmaksızın uzun yıllar varlığını korumuş, kazanılan deneyimin doğru ve kesintisiz aktarılmasıyla birlikte önemli ölçüde bir birikimin oluşmasına yarar sağlamıştır. Pek çok kültürde öğrenciler öğreticileri ile aynı işin üzerinde birlikte çalışarak öğrenir. Bu yöntem, el işi becerilerinin, geleneksel tıbbın ve diğer pratik uygulamaların öğrenilmesinde kullanılmıştır. Yazının icadı ve yerleşmesiyle birlikte bu tür deneyime dayalı bilgiler öğrenci ile öğreticinin yan yana yer almadığı yerlere de taşınabilmiş ve uygarlığın gelişimine katkıda bulunmuştur.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763507,
+        "Question": "<p>Bilginin yaygınlaştırılmasında bilgiyi kayıt altına almanın önemi nedir?</p>",
+        "Answer": "<p>Bilginin metne dönüşmesi aynı zamanda kayıt altına alınması anlamına gelmektedir. Bilginin kayıt altına alınması birbirinden uzak coğrafi alanlar ve uzun zaman dilimleri arasında bilginin aktarımına olanak sağlamıştır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763508,
+        "Question": "<p>Yazılı metinlerin “bilgi mimarisi” olarak bahsedilmesinin sebebi nedir?</p>",
+        "Answer": "<p>Metinlerin yazının ilk icat edildiği zamanlarda bile doğru akışla yazıldığı, karışık sırayla yazılmadığı söylenebilir. Metinler her zaman bir kurguya sahip olmuş, günlük konuşmada sıkça rastlanılan devrik akış metne taşınmamıştır. Yazı öncesinden beri var olan insanların sözlü iletişim kurma becerileri metin oluştururken devreye girmiş ve yazılı metinler en başından beri anlamlı bir akışa sahip olmuştur. Bu nedenle yazının icadıyla başlayan dönemde de oluşturulan metinlerde bir “bilgi mimarisi” olduğundan bahsedilebilir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763509,
+        "Question": "<p>Metin içinde bilgi ne zaman liste yöntemiyle verilir?</p>",
+        "Answer": "<p>Paragraf içerisinde yer alamayacak kadar detaylı bilgiler liste hâlinde verilebilir. Satır satır yazılacak içerik için liste yöntemi kullanılır. Maddeler hâlinde verilen bilgiler, okuyucunun konuyu daha kolay hazmetmesini sağlar.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763510,
+        "Question": "<p>Bilginin görselleştirilmesinde günümüzde en çok başvurulun yöntem nedir?</p>",
+        "Answer": "<p>Grafikler bilginin günümüzdeki en çok başvurulan bilgi ve içerik görselleştirme yöntemidir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763511,
+        "Question": "<p>Bilginin tablo biçiminde görselleştirilmesi nedir?</p>",
+        "Answer": "<p>Bilginin tablo biçiminde görselleştirilmesi verilerin düzenli ve anlaşılır bir şekilde sunulmasına yardımcı olan bir yöntemdir. Tablolar, sayıları ya da yazılı verileri organize etmek, karşılaştırmak ve analiz etmek için kullanılır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763512,
+        "Question": "<p>Bilginin tablo biçiminde gösterilmesinde kullanılan öğeler nelerdir?</p>",
+        "Answer": "<p>Sayılar, yazılı metinler ve fotoğraf/çizim vb. çeşitli görsel formları içerebilir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763513,
+        "Question": "<p>Bilginin tablo biçiminde gösterilmesinin avantajları nelerdir?</p>",
+        "Answer": "<p>Bilginin tablo biçiminde gösterilmesi pek çok avantaj sağlamaktadır.</p> <ul> <li>Verilerin düzenli ve anlaşılır bir şekilde sunulmasını sağlayarak birçok veriyi düzenli bir yapıda göstermekte ve karmaşık verilerin kolayca anlaşılmasına yardımcı olmaktadır.</li> <li>Farklı sınıflandırma kriterlerine göre sıralama olanağı sunarak sayfalar dolusu verinin bir göz atımı süresinde görülmesini, algılanmasını ve analiz edilmesini sağlar.</li> <li>Verilerin karşılaştırılması ve analizinde birbirinden farklı veri setleri aynı görüntü alanı içerisinde yer alabilir.</li> <li>Veri işleme programlarında kullanılarak verilerin sıralanması, filtrelenmesi, hesaplanması ve grafik olarak gösterilmesi gibi işlemler kolayca yapılabilir.</li> <li>Bunun yanı sıra sürekli veri akışının olduğu örneklerde verilerin hızlı ve kolay bir şekilde güncellenmesine olanak sağlar.</li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763514,
+        "Question": "<p>Bilginin görselleştirilmesinde tablo yönteminin dezavantajları nelerdir?</p>",
+        "Answer": "<p>Tablo formatı her ne kadar pek çok yararlı özelliğe sahip olsa da günümüz dünyasında birtakım dezavantajlara sahiptir.</p> <ul> <li>Bunların en başta geleni tablo formatında gösterilen verinin önemini yansıtacak ilave bir görselleştirmenin tablo alanında yapılamıyor olmasıdır.</li> <li>Sayısal verilerin yoğunluğuna bağlı satır ve sütun sayılarının artması da bu sorunun derinleşmesine, dikkat edilmesi gereken önemli değerlerin diğer ortalama değerler arasında kaybolup gitmesine neden olabilmektedir.</li> <li>Tablonun bir diğer dezavantajı da tablonun hedef kitlesinde kendini göstermektedir. Tablolar tasarımları itibariyle hemen herkesin algılayabileceği birer veri görselleştirme aracıdır. Ancak biçimsel aynılıktan kaynaklanan sorunlar, tekrarlardan kaynaklanan görsel karmaşa tabloların yalnızca yansıttığı konunun uzmanları tarafından takip edilebilmesi sonucunu beraberinde getirmektedir.</li> <li>Tablolar, belirli bir sayıda sütun ve satırla sınırlıdır ki bu da bazı durumlarda tüm verilerin gösterilmesi ne engel olabilir. Kısıtlı alandaki yoğun gösterim ve görsel yönden düzgün hazırlanmayan tablolar verilerin yanlış yorumlanmasına ve beklentinin aksine yanlış kararlar alınmasına neden olabilir.</li> <li>Tablonun amacını yerine getirebilmesi için “rahatlıkla okunabiliyor olması” gerekmektedir. Bu noktada tablonun tasarımı öne çıkmaktadır. Herhangi bir tasarım unsuruna sahip olmayan bir tablonun uzmanlar tarafından okunması ile sıradan vatandaşlar tarafından okunması arasında önemli fark olacaktır. Kullanıcı faktörü bütün iletişim tasarım ürünlerinde olduğu gibi burada da göz önünde bulundurulmalıdır.</li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763515,
+        "Question": "<p>Bilginin görselleştirilmesinde içerik neden önemlidir?</p>",
+        "Answer": "<p>Bilgi görselleştirme içerikle sıkı ilişkilidir. Bilgi görselleştirme tasarımı, ortada düzgün bir içerik varsa amacına ulaşır. Bahsedilen içerik doğru hazırlanmamışsa, rasyonel değilse, fazla genişletilmiş ya da fazla daraltılmışsa hazırlanacak bilgi görselleştirmenin doğru bir sonuca varacağı söylenemez. İnsanlar kimi zaman kolaylıkla yanılmakta ve hatalı içeriklere kapılmaktadır. Bilgi, kavramsal olarak özünde doğruluğu içermelidir. Bu nedenle bilgi görselleştirmenin kayıtsız şartsız doğruları sunma misyonu olmalıdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763516,
+        "Question": "<p>Bilgi görselleştirme sürecinde matematiğin önemi nedir?</p>",
+        "Answer": "<p>Bilgi görselleştirme sürecinde rakamlar görsel formlara dönüştürülürken matematiksel doğruluk temel alınarak hareket edilmelidir. Bilgi görselleştirme tasarım sürecinde çözüm yolu her zaman matematiksel doğruluktan geçmelidir. Birbiriyle ilişkili veriler matematiksel kesinlikte karşılaştırılmalıdır. Oluşturulacak soyut ya da somut formlarda her zaman matematiksel doğrular uygulanmalıdır. Bilgi görselleştirmede matematik verilerin analiz edilmesi, yorumlanması ve etkili bir şekilde sunulması için önemli bir araçtır. Sahip olduğu yöntemler, verilerin görselleştirilmesinde kullanılan grafik türleriyle birlikte kullanılabilir. Örneğin, bir verinin ortalaması, dağılımın merkezi eğilimini ve değişkenliğini; bir analizin sonucu olan çizgi ya da sütun grafiği de iki değişken arasındaki ilişkiyi gösterebilir. Bu matematiksel yöntemlerin kullanımı, verilerin daha anlaşılır ve etkili bir şekilde sunulmasına yardımcı olabilir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763517,
+        "Question": "<p>Bilgi görselleştirme tasarımında hataların nedenleri nelerdir?</p>",
+        "Answer": "<p>Bilgi görselleştirme tasarımındaki hatalar öncelikle bilgisizlikten, daha sonra empati noksanlığından ve en son da kötü niyetli çarpıtma eylemlerin kaynaklanmaktadır.</p> <ul> <li>En büyük hata verilerin doğru nesnel karşılıklarla yansıtılmamasıdır. Uzunluk, ağırlık, miktar, mesafe, süre gibi nesnel verilerin kullanıldığı bütün çalışmaların matematiksel olarak birbiriyle tutarlı olması gerekmektedir. Herhangi bir bilgi görselleştirme grafiğine bakan birisi, bu matematiksel nesnellikten kaynaklanan farklılıklar ile çalışmanın verdiği mesajı algılayabilirler. Bu nedenle verilerin sayfaya sığdır komutuyla değil, tutarlı bir hesaplamayla kâğıda yansıtılması gerekir.</li> <li>Karşılaşılan bir diğer sorun empati olarak adlandırılabilir. Karşıdaki insanın da kendi algı kapasitesinde olacağını varsayarak karmaşık içerikleri karmaşık denilebilecek şekilde görselleştirmek bir tür empati yoksunluğu gibi değerlendirilebilir. Konunun içindeki kişiler o alanda sahip oldukları birikim sayesinde zorlanmadan her veriyi okuyup verilerin altındaki anlamı ortaya çıkartabilirler. Ancak konunun dışında kalanların olmayan bilgi birikimleriyle benzer bir performansı sürdürmeleri imkân dâhilinde olamaz.</li> <li>Son olarak kasıtlı olarak yapılan çarpıtmaları kapsamaktadır. Özellikle kamuyu ilgilendiren önemli konularda bilinçli olarak çarpıtılan grafik görselleştirme kitlelerin ülkedeki olumsuz göstergeleri olumlu algılamasına ve bu nedenle gerçeklerden uzak kalmasına neden olabilir.</li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763518,
+        "Question": "<p>Bilgi görselleştirmede estetik kavramıyla kastedilen nedir?</p>",
+        "Answer": "<p>Estetik derken, birbiriyle uyumlu renkler, konunun içeriğine uygun yazı karakterleri, görsellerin ve metnin dengeli bir kompozisyonla bir araya getirilmesi kastedilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763519,
+        "Question": "<p>Bilgi görselleştirme tasarımının bileşenleri nelerdir?</p>",
+        "Answer": "<p>Bilgi görselleştirme tasarımının bileşenleri:</p> <ul> <li>İçeriğin gösterilmesi</li> <li>Bilgi görselleştirme ve estetik</li> <li>Bilgi görselleştirmede metin ve görsel temsilci oluşturma</li> <li>Rengin kullanımı</li> <li>Grafik gösterimlerin kullanılması</li> </ul>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763520,
+        "Question": "<p>Bilginin görselleştirilmesinde çizgi ve sütun grafikleri ne zaman kullanılmalıdır?</p>",
+        "Answer": "<p>Sütun grafikleri, verilerin değişimini göstermek için kullanılır. Verilerin zamana bağlı değişimini göstermek için çizgi grafikleri etkili bir araçtır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763521,
+        "Question": "<p>Bilginin görselleştirilmesinde pasta dilimi grafikleri ne zaman kullanılmalıdır?</p>",
+        "Answer": "<p>Pasta dilimi grafikleri, bir bütünün parçalarının oranlarını göstermek için kullanılan bir görselleştirme aracıdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763522,
+        "Question": "<p>Bilgi görselleştirmede ağaç grafikleri ne zaman kullanılır?</p>",
+        "Answer": "<p>Bilgi görselleştirmede ağaç grafikleri, verilerin hiyerarşik yapıda gösterilmesi gereken durumlarda kullanılan önemli bir araçtır. Ağaç grafikleri, bir ana gövdeden oluşan dalları gösteren yapıları nedeniyle birbiriyle bağlantılı verilerin görselleştirilmesi için son derece yararlıdır. Özellikle hiyerarşik ve kademeli verilerin görselleştirilmesi için kullanışlıdır.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763523,
+        "Question": "<p>Bilgi görselleştirmede diyagramlar ve şemalar ne zaman kullanılır?</p>",
+        "Answer": "<p>Bilgi görselleştirmede diyagramlar ve şemalar, karmaşık bilgi ve ilişkileri açıklamak için sıklıkla kullanılır. Diyagramlar farklı şekiller ve semboller kullanarak farklı bileşenleri ve bunlar arasındaki ilişkileri gösteren grafiklerdir. Şemalar ise belirli bir süreci veya işlemi gösteren, adım adım takip edilen grafiklerdir. Bu tür görselleştirmeler, belirli bir konuda açıklama yapmak, bir karar vermeyi göstermek veya farklı faktörleri görsel olarak göstermek için kullanılabilir.</p> <p>Diyagramlar ve şemalar, bir işletmenin ya da bir sistemin içindeki ilişkileri ve bağıntıları açıklamak için de kullanılabilir.</p>",
+        "Title": null,
+        "UniteNo": 5
+    },
+    {
+        "Index": 3763584,
+        "Question": "<p>Bilgigrafide tasarımın temel bileşenleri nelerdir?</p>",
+        "Answer": "<p>Bilgigrafide tasarımın temel bileşenleri ölçek, oran ve hiyerarşidir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763585,
+        "Question": "<p>Bilgigrafi tasarımında hiyerarşi prensibi nedir?</p>",
+        "Answer": "<p>Hiyerarşi, tüm tasarım ürünlerinde olduğu gibi bilgigrafi tasarımında da bilginin öncelik sırasına göre tasarlanmasına yarayan ayrıca izleyiciyi de belirlenen bu düzen içinde yönlendiren temel prensiptir. İzleyiciyi belirli bir akışta bilgiye yönlendirilerek, tasarımın anlamını güçlendirir, algılanması kolaylaştırılır ve bilgiler arasında daha net bir ilişki kurulmasına olanak tanınır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763586,
+        "Question": "<p>Bilgigrafi tasarımında ölçek ve oran prensibi nedir?</p>",
+        "Answer": "<p>Ölçek ve oran tasarımın denge ve düzenini oluşturarak, bilgigrafinin doğası gereği içinde barındırdığı büyük hacimli bilginin oransal olarak karşılaştırılması ve izleyici tarafından daha kolayca sindirilmesini sağlamaktadır. Doğru ölçek ve oran kullanımı, bilginin daha iyi kavranması, akılda kalması ve doğru değerlendirilmesi açısından yararlıdır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763587,
+        "Question": "<p>Gestalt psikolojisinin temel ilkesi nedir?</p>",
+        "Answer": "<p>Gestalt psikolojisinde temel fikir, algının parçalarının toplamından farklı ve daha fazlasını oluşturduğudur. Gestalt ilkeleri, dünyanın sadece dışsal bir varlık olmadığını, aynı zamanda algılama sürecinde inşa edildiğini vurgular. Gestalt psikolojisi, algı sürecini ve insanların dünyayı nasıl gördüğünü anlama konusunda yeni bir perspektif sunar ve bütünsel bir bakış açısının önemini vurgular.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763588,
+        "Question": "<p>Gestalt ilkeleri nelerdir?</p>",
+        "Answer": "<p>Özellikle sanatçılar ve tasarımcılar tarafından sıklıkla odaklanılan bazı Gestalt ilkeleri şunlardır:</p> <ul> <li>Yakınlık İlkesi</li> <li>Benzerlik İlkesi</li> <li>Devamlılık İlkesi</li> <li>Kapalılık İlkesi</li> <li>Figür-Zemin İlkesi</li> </ul>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763589,
+        "Question": "<p>Bilgigrafide yakınlık ilkesi neden önemlidir?</p>",
+        "Answer": "<p>Yakınlık ilkesi, nesnelerin birbirlerine olan mesafeye dayalı olarak nasıl algılandığını açıklar. Bu ilkeye göre, nesneler bir arada bulunduklarında bir grup oluştururlar ve bu grup içinde daha yakın olan nesneler, birlikte algılanma eğilimindedir.</p> <p>Bilgigrafide, metin, görsel ögeler, grafikler, tablolar ve diğer veri ögeleri bulunur. Yakınlık ilkesi, benzer veya birbirine bağlı veri ögelerini bir arada gruplandırarak izleyicinin bu ilişkiyi hızla kavramasını sağlar. Yakınlık ilkesi bilgigrafi tasarımında bilgileri düzenlemek, gruplandırmak ve izleyicinin hızlıca anlamasını sağlamak için güçlü bir araçtır. Bu ilke, bilgigrafilerin etkili iletişim araçları olmalarını sağlar ve karmaşık verilerin görsel olarak anlaşılabilir hâle gelmesine yardımcı olur.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763590,
+        "Question": "<p>Bilgigrafide benzerlik ilkesi neden önemlidir?</p>",
+        "Answer": "<p>Benzerlik ilkesi, görsel algıda ve bireylerin nesneleri veya ögeleri bir araya getirme eğilimindeki bir yasa olarak tanımlanır. Bu ilkeye göre, benzer görünen ögeler bir araya gelme eğilimindedir ve insanlar bu tür ögeleri bir grup olarak algılar.</p> <p>Tasarımın anlaşılabilirliğini ve etkililiğini artırmak için benzer ögeleri gruplamak ve farklı ögeleri ayırt etmek için benzerlik ilkesi kullanılır. Bu, izleyicilere görsel olarak karmaşıklığı azaltırken bilgileri daha iyi işlemeleri için yardımcı olabilir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763591,
+        "Question": "<p>Bilgigrafide devamlılık ilkesi neden önemlidir?</p>",
+        "Answer": "<p>Devamlılık ilkesi, insanların görsel algılamalarında birçok ögeyi sürekli ve kesintisiz bir şekilde izlemeye eğilimli olduklarını ifade eder. Bu ilke, nesnelerin veya ögelerin birbirine doğal bir akışla bağlandığında veya bir çizginin, desenin veya ögenin diğerine kesintisiz bir şekilde uzandığında, insanların bu bağlantıları izlemeye devam etme eğiliminde olduğunu vurgular.</p> <p>Bilgigrafi tasarımında devamlılık ilkesi, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763592,
+        "Question": "<p>Bilgigrafide kapalılık ilkesi neden önemlidir?</p>",
+        "Answer": "<p>Kapalılık ilkesi, algıda bütünü oluşturan görsel ögelerin, eksik veya tamamlanmamış formları tamamlama eğiliminde olduğunu açıklar. Bu ilkeye göre, insanlar eksik olan bilgileri doldurma veya birleştirme eğilimindedirler, böylece karmaşık veya kısmi görüntülerdeki eksiklikleri kapatır ve anlamlı bir bütün oluşturur. Bu ilke, insanların görsel bilgileri düzenli ve anlamlı bir şekilde algılamalarına yardımcı olur.</p> <p>Bilgigrafi tasarımında kapalılık ilkesi, birçok farklı bilgi ögesini veya nesneyi içeren karmaşık bir bilgigrafiyi daha düzenli ve anlamlı hâle getirme amacı taşır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763593,
+        "Question": "<p>Bilgigrafide figür-zemin ilkesi neden önemlidir?</p>",
+        "Answer": "<p>Figür-zemin ilkesi, nesnelerin bir arka plana karşı nasıl algılandığıdır. Bu ilkeye göre, bir nesnenin bir arka plana göre algılanması, nesnenin ve arka planın birbirinden ayrılabilir ve net bir şekilde tanımlanabilir olmasını sağlayabilir. Figür, odaklanılan nesneyi temsil eder, zemin ise figürün önünde bulunan arka planı ifade eder. İnsan zihni, bir nesnenin çevresindeki zeminden ayrılmasını ve dikkat çekici hâle gelmesini tercih eder, beyin çelişkide ve belirsizlikte kalmayı sevmez. Bu, görsel algılamanın önemli bir parçasıdır çünkü nesneleri ve desenleri tanımlamamıza ve anlamamıza yardımcı olur.</p> <p>Figür-zemin ilkesi, tasarımın netlik, vurgu ve dikkat dağıtma konularında büyük öneme sahiptir. Bir tasarım ögesini (figürü) zeminden ayırarak izleyicinin belirli bir nesneye veya bilgi parçasına daha kolay odaklanmasını sağlayabiliriz. İyi bir figür-zemin ilişkisi, bilgigrafiler ve diğer grafik tasarımlar da karmaşık verileri daha anlaşılır hâle getirmemize yardımcı olabilir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763594,
+        "Question": "<p>Bilgigrafide hiyerarşi ilkesinin önemi nedir?</p>",
+        "Answer": "<p>Bilgigrafi tasarımında hiyerarşi, bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak noktasının belirlenmesi açısından temel ilkedir. Hiyerarşi, farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır. Görsellerde açık bir hiyerarşi, izleyiciyi çeken bir odak noktası sunar ve bu, estetik açıdan daha çekici bir tasarım oluşturur. Hiyerarşi, izleyicinin belirli bir sıralamaya göre bilgiyi algılamasına rehberlik eder ve tasarımın etkili bir şekilde iletilmesine yardımcı olur.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763595,
+        "Question": "<p>Tipografi nedir?</p>",
+        "Answer": "<p>Tipografi, yazılı metinlere görsel bir biçim verme aracıdır. Tipografi, yazı karakterlerinin düzenlenmesi ve sunulmasıyla ilgilidir. Farklı yazı tipleri ve boyutları, metnin estetik görünümünü ve okunabilirliğini etkiler. Yazı tipi seçimi, tasarımın amacına ve hedef kitlesine bağlıdır. Aynı zamanda tipografi, metinlerin hiyerarşisini belirler ve izleyiciyi yönlendirir. Okunabilirlik ve okuturluk, tipografinin temel unsurlarıdır ve yazının düzgün bir şekilde düzenlenmesini ve sunulmasını içerir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763596,
+        "Question": "<p>Okuturluk ve okunurluk kavramları arasındaki fark nedir?</p>",
+        "Answer": "<p>Okuturluk, yazı karakterinin kendi kendisini okutma özelliği ile ilgilidir. Okuturluk için, yazı karakterinin belirli özelliklere sahip olması gerekir. Bu özellikler arasında harf formlarının farklılığı, yeterli kontrast, büyük x yüksekliği, geniş iç boşluklar ve temiz harf biçimleri bulunur. Okuturluk için uygun bir yazı tipi seçimi yapılmalı ve tasarım özellikleri hedef kitlenin ihtiyaçlarına uygun olmalıdır.</p> <p>Okunurluk ise yazının düzenlenerek kolayca okunur hâle getirilmesini ifade eder. Okunurluk ise yazının boyutu, rengi, alan kullanımı ve düzenlemesi gibi faktörlere odaklanır. Bu, yazının bir kompozisyon içinde mantıklı ve uyumlu bir şekil de yerleştirilmesini içerir. Okunurluk için yazının sunulacağı ortama uygun bir düzenleme yapılmalı, yazı büyüklüğü ve kullanılacak renk dikkatle seçilmelidir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763597,
+        "Question": "<p>Bilgigrafi tasarımında ızgara (grid) kullanımı nedir?</p>",
+        "Answer": "<p>Grid (ızgara), tasarım elemanlarının düzenlenmesinde kullanılan temel bir araçtır. Grid, sayfa veya ekran üzerinde düzenli sütunlar ve satırlarla oluşturulan bir yapıdır. Tasarımın içeriği bu ızgara sistemine göre yerleştirildiğinde, tasarım düzenli, açık ve kolayca anlaşılır hâle gelir. Grid, bilgi yoğun projelerde bilgilerin düzenli bir şekilde sunulmasına yardımcı olur. Grid kullanımı, tasarımın temel taşlarından biridir ve içerdiği sütunlar ve satırlar, tasarımcılara içeriği düzenleme, hiyerarşi oluşturma ve vurgulama konusunda rehberlik eder.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763598,
+        "Question": "<p>Bilgigrafide renkler hangi amaçlarla kullanılır?</p>",
+        "Answer": "<p>Renk kullanımının bilgigrafi tasarımındaki rolünün açıklanması mümkündür:</p> <ul> <li>Vurgu: Bilgigrafilerde, belirli verileri vurgulamak için kullanılır.</li> <li>Kategorizasyon: Bilgigrafilerde çok sayıda veriyi kategorilere ayırmak için renkler kullanılır.</li> <li>Zaman ve Değişim Betimlemesi: Renkler aynı verinin zaman içindeki değişimini veya karşılaştırmalarını göstermek için kullanılabilir.</li> <li>Renk Kodlaması: Renkler, deneyimler sonucu elde edilmiş mevcut bilgileri hızlıca tanımlamak için kullanılır.</li> <li>Uyum ve Zıtlık: Renklerin birbiriyle nasıl uyum sağladığı veya zıtlık yarattığı bilgigrafi tasarımı içinde verinin görselleştirme amacına uygun olarak kullanılabilir.</li> </ul>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763599,
+        "Question": "<p>Grafik sistemlerinin iletişim aracı olarak kullanılmasının faydaları nelerdir?</p>",
+        "Answer": "<p>Grafik sistemleri, karmaşık verilerin sayısal bir liste veya sözlü açıklamalar yerine grafik ögelerle temsil edildiği bir yöntemdir. Görsel ögeler, sayılar tablosundaki verileri anlama sürecinden daha hızlı ve etkili bir şekilde aktarıldığı için, bu yöntem durum veya sürecin anlaşılmasını kolaylaştırır. İnsan beyninin karmaşık verileri hızla işlemesine olanak tanır ve sayıların kültür, dil veya ırk farklarına bakılmaksızın evrensel bir iletişim aracı olarak işlev görür.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763600,
+        "Question": "<p>Yaygın kullanılan görsel bilgi sistemleri nelerdir?</p>",
+        "Answer": "<p>Görsel bilgi sistemlerinin yaygın kullanılan türleri:</p> <ul> <li>çizelgeler,</li> <li>diyagramlar,</li> <li>grafikler,</li> <li>piramitler,</li> <li>ağaçlar,</li> <li>haritalar,</li> <li>şemalar ve</li> <li>tablolardır.</li> </ul>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763601,
+        "Question": "<p>Grafik sistemlerinin parametreleri nelerdir?</p>",
+        "Answer": "<p>Parametreler arasında grafik format, entelektüel amaç veya işlev, içerik türü, anlamı yapılandırma biçimleri ve disiplin kökenleri yer alır.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763602,
+        "Question": "<p>Grafik format nedir?</p>",
+        "Answer": "<p>Grafik format, verilerin görsel olarak temsil edildiği yapı veya düzen biçimidir. Bu grafik formatlar, belirli bilgiyi aktarmak veya belirli bir amacı yerine getirmek için kullanılan tasarım ve düzenlemeleri içerir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763603,
+        "Question": "<p>Grafik sistemlerde anlamı yapılandırma biçimleri nedir?</p>",
+        "Answer": "<p>Grafik sistemlerde “anlamı yapılandırma biçimleri,” bir grafik veya görselin bilgiyi nasıl organize ettiğini ve anlam inşa ettiğini belirtir. İfade edilen bilginin yapılandırılma şekli, görselin hangi unsurlarını bir araya getirildiği, hangi özelliklerin vurgulandığı ve nasıl bir anlamın oluşturulduğunu tanımlar. Bu anlamı yapılandırma biçimleri, görselin hangi tür anlam ilişkilerini içerdiğini ve izleyiciye nasıl bir hikâye veya mesaj ilettiğini gösterir.</p>",
+        "Title": null,
+        "UniteNo": 6
+    },
+    {
+        "Index": 3763534,
+        "Question": "<p>Veri sızıntısı neyi ifade eder?</p>",
+        "Answer": "<p>Veri sızıntısı, sadece izin verilmiş kullanıcıların erişimine açık verilerin, bilgi işlem sisteminin kusurlarından yararlanılarak yetkisiz kişilerce ele geçirilmesiyle gerçekleşir. Verilerin bu şekilde elde edilmesi ahlaken ve hukuken sorunlu addedilmekle birlikte, araştırmacı gazeteciliğin “gazeteci olmayan bilgi kaynaklarından bilgi edinme” yöntemi çerçevesinden bakıldığında (Landert ve Miscione, 2017), sızdırılan verinin kullanımında kamu yararı olması durumunda, bu şekilde elde verilerin haber değeri taşıdığı görülmektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763535,
+        "Question": "<p>Veri kazıma neyi ifade eder?</p>",
+        "Answer": "<p>Veri kazıma, bir bilgisayar yazılımı tarafından, insanlar tarafından okunmak üzere üretilen çıktının yeniden işlenerek veriye dönüştürülmesine denilmektedir. Web ortamında veri kazıma yapmak için web sitelerinin standart yapısından faydalanılır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763536,
+        "Question": "<p>Nicel veriye dayanan gazetecilikte kullanılan başlıca araçler nelerdir?</p>",
+        "Answer": "<p>Çeşitli kaynaklar, nicel veriye dayanan gazetecilikte kullanılan başlıca aracın hesap tabloları olduğuna vurgu yapmaktadırlar. Ancak çok fazla veri ya da yapılan analizlerin karmaşıklığı sebebi ile hesap tablolarının yetersiz kaldığı noktada, programlama içeren araçların kullanımı da söz konusu olur (Simon, 2021). Hesap tablosu yazılımlarının ayrılmaz bir parçası olan grafik araçları da veri gazetecileri tarafından sıklıkla kullanılırlar.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763537,
+        "Question": "<p>Habercilikte kullanılan veri görselleştirmeler hangi temel amaçlara hizmet eder?</p>",
+        "Answer": "<p>Zaman içindeki değişimi göstermek, değerleri birbirleri ile kıyaslamak, ilişkileri ve akışları göstermek.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763538,
+        "Question": "<p>“Önce mobil” sloganı, veri haberciliğini ne şekilde etkilemiştir?</p>",
+        "Answer": "<p>Okuyucuların çoğunun haberlere küçük ekranlı mobil telefonlardan erişmesi, detaylı ve etkileşimli görselleştirmelerin yerini sütun ve çizgi grafikler gibi daha temel formlara bırakmasına sebep olmuştur. Türkçeye “kaydırarak anlatım” olarak çevrilebilecek scrollytelling biçimindeki, sayfa kaydırıldıkça veri görsellerinin değiştiği haber sunumları ortadan kalkmıştır. Ancak küçük ekranlardan kaynaklanan güçlükler tasarımcıları yaratıcı çözümler bulmaya da zorlamaktadır. Mobil cihazları küçük bir ekran olmanın ötesinde sensörler ile dolu bir cihaz olarak görmek, bu cihazların sağladığı artırılmış gerçeklik ve sanal gerçeklik olanaklarını da göz önüne almak, veri görselleştirmede yeni açılımlar sağlayabilir (Aisch ve Rost, 2021).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763539,
+        "Question": "<p>Etkileşimli veri görselleştirmelerinin azalmasının sebepleri nelerdir?</p>",
+        "Answer": "<p>Etkileşimli veri görselleştirmelerinin kullanımının oldukça azalmasının öncelikli nedeni, “önce mobil” yaklaşımı olmakla birlikte, tek neden bu değildir. Veri görselleştirmenin “son dakika” haberlerinin de bir parçası hâline gelmesi ve hazır uygulamaların çeşitliliğinin artması da yayıncıları bu uygulamalarla kolaylıkla üretilen grafikleri kullanmaya<br />yöneltmiştir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763540,
+        "Question": "<p>Veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörler neler olabilir?</p>",
+        "Answer": "<p>Kennedy vd. (2021) veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörleri şu başlıklar altında incelemiştir:<br />• Haberin konusu,<br />• Verinin kaynağı ve haberin yayımlandığı mecra,<br />• Okuyucunun inanç ve görüşleri,<br />• Zaman,<br />• Okuyucunun özgüveni ve becerileri,<br />• Duygular.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763541,
+        "Question": "<p>Veri gazeteciliğinin kilit bileşenleri nelerdir?</p>",
+        "Answer": "<p>Veri gazeteciliği, haberlerde önemli bir yer tutmaktadır, ve verilerin analizi, görselleştirilmesi ve etkileşimli sunumu bu alandaki kilit bileşenlerdir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763542,
+        "Question": "<p>Bilgisayar destekli habercilik ne zaman ortaya çıkmıştır?</p>",
+        "Answer": "<p>İstatistiksel yaklaşımlarla veri analizine dayanan “bilgisayar destekli habercilik” 1960’larda ortaya çıkmıştır. 1980’ler ve 90’larda önem kazanmış olmakla birlikte (Nguyen ve Lugo-Ocando, 2016), özellikle ABD ve İngiltere’deki bazı yayın kuruluşlarının haber odalarında 2000’li yılların ortasından başlayarak bilgisayar programcılarının da bu alanda çalışmaya başladığı görülmektedir (Parasie ve Dagiral, 2013).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763543,
+        "Question": "<p>Nitel verilere dayanan bilgi görselleştirme hangi alanlarda yaygın olarak kullanılır?</p>",
+        "Answer": "<p>Habercilik alanında bilgi görselleştirme mimari, anatomi, tarih gibi bilimsel alanlardaki nitel verilere dayalı görsel çalışmaları da kapsamaktadır. Bu tür çalışmalar, özellikle bilimsel bilgileri geniş kitlelere aktarma amacını taşıyan popüler bilim dergiciliğinde önemli bir yere sahiptir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763544,
+        "Question": "<p>Veri görselleştirme hangi açılardan önem taşır?</p>",
+        "Answer": "<p>Veri görselleştirmeleri, aynı fotoğraf, video ve illüstrasyonlar gibi, haberi okuyucu/izleyici için ilginç ve anlaşılır kılan önemli bir bileşendir. Ancak fotoğraf, video ve illüstrasyondan farklı olarak duygusal olmaktan çok bilişsel bir öneme sahiptirler. İyi tasarlanmış bir veri görselleştirmesi izleyiciye çabuk ve derin bir kavrayış olanağı sağlayabilir, dolambaçlı bir hikâyenin karışıklığının üstesinden gelerek asıl meseleyi ortaya koyar (McGhee, 2012). Tüm bunlara ek olarak veri görselleştirme, sadece haberin sunumunun bir parçası olmayıp haberin ortaya çıkarılması sürecinde de gazetecinin başlıca araçlarından biridir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763545,
+        "Question": "<p>Veri görselleştirmede en sık kullanılan etkileşim öğeleri nelerdir?</p>",
+        "Answer": "<p>Veri görselleştirmede en çok rastlanan etkileşim öğesi haritalar için sağlanan yakınlaşma/uzaklaşma araçlarıdır. Sadece belli bir yılın seçim sonuçlarını göstermeyi sağlayan etkileşimli tablolar gibi listelenen farklı değişkenlere göre filtreleme yapmayı sağlayan araçların yanı sıra arama araçları da yaygındır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763546,
+        "Question": "<p>Gazetecilik faaliyetinin çıktısı olan \"haber\" hangi sorulara cevap verir?</p>",
+        "Answer": "<p>Gazetecilik faaliyetinin çıktısı olan haber “Ne?”, “Nerede?”, “Nasıl?”, “Neden?”, “Ne zaman?” ve “Kim?” sorularına (5N1K) cevap verir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763547,
+        "Question": "<p>Haber içeriğinde veri görselleştirme neden tercih edilir?</p>",
+        "Answer": "<p>İnsan beyninin büyük bir kısmı görsel bilgiyi işlemeye ayrılmıştır. Bu sebeple, veri görselleştirmeleri sadece çarpıcı biçimleri ile okuyucuların/izleyicilerin ilgisini çekmekle kalmayıp aynı zamanda çok güçlü bir bilişsel etkiye de sahiptirler. Estetik olarak etkileyici olmakla beraber, fotoğraf ve videoya göre daha az duygulanım içerirler. Ölçülebilir gerçekleri ifade ederler. Medya organlarının çoğunlukla belirli bir görüşten okuyuculara odaklandığı günümüzde, veri gazeteciliği ve dolayısı ile veri görselleştirme, gerçek olgulara dayalı, tarafgirlikten uzak bir haber anlatısı olanağı sunar (McGhee, 2021).</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763548,
+        "Question": "<p>Zaman içindeki değişimi göstermek için en sık kullanılan veri görselleştirme yöntemleri hangileridir?</p>",
+        "Answer": "<p>Zaman içindeki değişimi gösteren grafikler, sıklıkla bir büyüklük ya da oranın değişimini gösterirler. Bu doğrultuda kullanılan en yaygın biçimler çizgi ve sütun grafiklerdir ancak diğer biçimlerin tercih edildiği de görülmektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763549,
+        "Question": "<p>Değerleri birbirleriyle kıyaslamak amacıyla en sık kullanılan veri görselleştirme yöntemleri hangileridir?</p>",
+        "Answer": "<p>Değerleri birbirleriyle kıyaslamak amacıyla en sık kullanılan veri görselleştirme yöntemleri sütun ve pasta grafikleridir. </p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763550,
+        "Question": "<p>Gazetecilik alanında veri görselleştirme kimler tarafından yapılır?</p>",
+        "Answer": "<p>Görselleştirmenin kim tarafından yapılacağı kurumdan kuruma değişmektedir. Bazı kurumlarda yayımlanacak olan veri görselleştirmeleri veri analistleri tarafından yapılırken, bazı kurumlarda bu görev grafik departmanlarına verilmektedir (Kennedy v.d., 2021). Ancak veri görselleştirme çoğu kez de haberciler, analistler ve tasarımcıların birlikte çaba gösterdiği bir takım çalışmasıdır. Özellikle nitel veri söz konusu olduğunda, görselleştirilecek verinin detaylarını kavramak üzere tasarımcının habercilerle beraber sahada bizzat çalışması bile söz konusu olabilir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763551,
+        "Question": "<p>Habercilikte veri görselleştirmesi yaparken okuyucu kitlesi ne şekilde dikkate alınır?</p>",
+        "Answer": "<p>Duygusal tepkiler, görselleştirmede sunulan veri, görsel stil, görselleştirmenin konusu, kaynağı ya da okuyucunun görselleştirmeyi anlamak için kullandığı öz becerileri ile ilişkili olarak memnuniyetten öfkeye, üzüntüden sevgiye, empatiden heyecana, utançtan suçluluğa çok farklı şekillerde ortaya çıkabilmektedir. Aynı veri görselleştirmesi, bir okur tarafından beğeni ile karşılanırken, bir diğeri için itici olabilmektedir. Bu bulgulara dayanarak, habercilikte veri görselleştirmesi yaparken okuyucu kitlesinin inanç ve görüşleri, bilişsel becerileri ve duygularının da tasarımcı tarafından göz önüne alması gerektiği ortaya çıkmaktadır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763552,
+        "Question": "<p>Veri gazeteciliğinde verinin okuyucular için anlaşılır ve ilginç hâle gelmesi nasıl sağlanabilir?</p>",
+        "Answer": "<p>Veri gazeteciliğinde veriyi işlemenin ve analiz etmenin yanı sıra, veriyi okuyucular için anlaşılır ve ilginç hâle getirmek için görselleştirmeler de kullanılır. Bu süreç, verinin görselleştirilmesi ile başlar, ardından görselleştirmenin anlamı düşünülür, ardından bulgular belgelenir ve veride bazı dönüşümler yapılır.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763553,
+        "Question": "<p>Veri gazeteciği haberlerinin sunumundaki görselleştirmelerde kaç boyutlu grafikler tercih edilir?</p>",
+        "Answer": "<p>Ağırlıkla okuyucunun kolay anlayacağı, iki boyut içeren sütun, çizgi ve pasta grafikler kullanılmaktadır. Daha fazla boyuta olanak veren kabarcık ya da örümcek/radar gibi görselleştirme biçimleri çok daha az tercih edilmektedir.</p>",
+        "Title": null,
+        "UniteNo": 7
+    },
+    {
+        "Index": 3763554,
+        "Question": "<p>Nesnelerin İnterneti (Internet of Things: IoT) neyi ifade eder?</p>",
+        "Answer": "<p>Nesnelerin İnterneti (Internet of Things: IoT) akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir. Günümüzde pek çok akıllı cihaz (Ev asistanları, Mobil cihazlar ya da otomobiller) nesnelerin internet prensibi ile bilgi alışverişinde bulunarak kullanıcısının hayatını daha verimli hâle getirmeyi amaçlamaktadır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763555,
+        "Question": "<p>Günümüzde bilgi görselleştirme alanının dönüşümü hangi alanlarda gözlemlenebilir?</p>",
+        "Answer": "<p>Bugün bilgi görselleştirme alanının üç kapsayıcı başlık üzerindeki gelişmelerin etkisiyle kabuk değiştirdiğini gözlemlemek mümkündür. Bu alanlar özetle;<br />• Veri tanımının ve bağlamının genişlemesi,<br />• Veri’nin deneyimlenme biçimi üzerindeki değişiklikler. Statik veri yerini alan dinamik akış (Streaming),<br />• Değişen tasarım araçları ve teknolojik olanaklar, olarak tariflenebilir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763556,
+        "Question": "<p>Akış (Streaming) neyi ifade eder?</p>",
+        "Answer": "<p>Akış (Streaming) verinin sürekli biçimde değiştiği, anlık olarak izlendiği ve sadece gerekli olduğu zamanlarda depolandığı bilgi deneyimleme biçimidir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763557,
+        "Question": "<p>Artırılmış Gerçeklik (AR) neyi ifade eder?</p> <div id=\"simple-translate\" class=\"simple-translate-light-theme\"> <div> <div class=\"simple-translate-button \" style=\"background-image: url('moz-extension://98fd3db9-1950-4f6b-bbb2-dba1406ed452/icons/512.png'); height: 22px; width: 22px; top: 10px; left: 10px;\"> </div> <div class=\"simple-translate-panel isShow\" style=\"width: 65px; height: 50px; top: 49.9px; left: 133.675px; font-size: 13px;\"> <div class=\"simple-translate-result-wrapper\" style=\"overflow: hidden;\"> <div class=\"simple-translate-move\" draggable=\"true\"> </div> <div class=\"simple-translate-result-contents\"> <p class=\"simple-translate-result\" dir=\"auto\">(İLE)</p> <p class=\"simple-translate-candidate\" dir=\"auto\"> </p> </div> </div> </div> </div> </div>",
+        "Answer": "<p>Artırılmış Gerçeklik (AR) çeşitli teknolojik cihazlar aracılığıyla çevremizde gördüğümüz fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması anlamına gelmektedir. Bugün pek çok mobil telefon, tablet ya da oyunlar ile kolaylıkla deneyimlenebilir, ulaşılabilir bir teknoloji hâline dönüşmüştür.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763558,
+        "Question": "<p>Karma Gerçeklik (MR) neyi ifade eder?</p> <div id=\"simple-translate\" class=\"simple-translate-light-theme\"> <div> <div class=\"simple-translate-button \" style=\"background-image: url('moz-extension://98fd3db9-1950-4f6b-bbb2-dba1406ed452/icons/512.png'); height: 22px; width: 22px; top: 10px; left: 10px;\"> </div> <div class=\"simple-translate-panel isShow\" style=\"width: 204px; height: 82px; top: 49.9px; left: 47.6417px; font-size: 13px;\"> <div class=\"simple-translate-result-wrapper\" style=\"overflow: hidden;\"> <div class=\"simple-translate-move\" draggable=\"true\"> </div> <div class=\"simple-translate-result-contents\"> <p class=\"simple-translate-result\" dir=\"auto\">(BAY)</p> <p class=\"simple-translate-candidate\" dir=\"auto\">kısaltma: bay, bey, beyefendi</p> </div> </div> </div> </div> </div>",
+        "Answer": "<p>Karma Gerçeklik (MR) dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünyanın melezi olarak tanımlanabilir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763559,
+        "Question": "<p>Deneyimde akış kavramının yaratıcısı Csikszentmihalyi'ye göre başarılı bir etkileşimin temel özellikleri nelerdir?</p>",
+        "Answer": "<p>Csikszentmihalyi başarılı bir etkileşimin temel özelliklerini yedi ana başlık üzerinde özetlemiştir:<br />1. Dengeli Bir Mücadele: Bir bilgiyi almak ya da işlemi yapmak için gerekli olan zorluğun derecesi hedeflenen kitlenin becerileri ile örtüşmelidir.<br />2. Konsantrasyon: Tasarlanan aktivite ya da arayüz sınırlı bir alanda yüksek derecede konsantrasyona izin vermelidir.<br />3. Öz Bilincin Terk Edilmesi: Kullanıcı farkındalığı ile eylemlerini birleştirebilmelidir.<br />4. Zaman Kavramının Yitimi: Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir.<br />5. Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br />6. Kontrol Hissi: Kullanıcı ortam üzerinde mutlak kontrol hissini almalıdır.<br />7. Ödüllendirici: Aktivite sonunda kullanıcısını ödüllendirmelidir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763560,
+        "Question": "<p>Kullanıcı Deneyimi Tasarımı (UX) neyi ifade eder?</p> <div id=\"simple-translate\" class=\"simple-translate-light-theme\"> <div> <div class=\"simple-translate-button \" style=\"background-image: url('moz-extension://98fd3db9-1950-4f6b-bbb2-dba1406ed452/icons/512.png'); height: 22px; width: 22px; top: 10px; left: 10px;\"> </div> <div class=\"simple-translate-panel isShow\" style=\"width: 64px; height: 50px; top: 49.9px; left: 193.442px; font-size: 13px;\"> <div class=\"simple-translate-result-wrapper\" style=\"overflow: hidden;\"> <div class=\"simple-translate-move\" draggable=\"true\"> </div> <div class=\"simple-translate-result-contents\"> <p class=\"simple-translate-result\" dir=\"auto\">(UX)</p> <p class=\"simple-translate-candidate\" dir=\"auto\"> </p> </div> </div> </div> </div> </div>",
+        "Answer": "<p>Kullanıcı Deneyimi Tasarımı (UX) görsel iletişimin anlık etkileşimler olmaktan çıkıp, zamana yayılan, davranış değişikliği yaratabilen, alışkanlıklarımızı belirleyen ve duygular ortaya çıkaran ve en önemlisi tüm bunları süreklilik içinde yapabilen eylemler ve etkileşimler bütünü olarak algılanmasını öneren yenilikçi bir tasarım yaklaşımıdır. Günümüzde genellikle mobil uygulamalar ya da web siteleri gibi sayısal ürünler özelinde yoğun olarak telaffuz edilse de müze tasarımlarından, sergileme tasarımlarına, yönlendirme sistemlerinden servis tasarımlarına pek çok alanda varlığı ya da önerdiği iletişim yöntemlerinin uygulandığı izlenebilir (Bayar, 2021).</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763561,
+        "Question": "<p>Duygusal Etki Şeması yönteminin kapsam ve amaçları nelerdir?</p>",
+        "Answer": "<p>Kentucky temelli Solid Light Inc. tasarım ofisinin geliştirdiği bir yöntem olan Duygusal Etki Şeması grafik mekân içinde ziyaretçinin hangi duyguları hissedeceği ve hikâyenin nasıl iniş çıkışlarla ilerleyeceği ve hangi alanda hangi bilginin nasıl bir ruh hâli ile görselleştirileceğinin planlanmasını kapsamaktadır. Bu sayede veri ve bilginin izleyiciyi ürkütmeden ya da bilişsel olarak zorlamadan bir akış içinde ve çok daha kapsayıcı bir hisle aktarılması hedeflenmiştir. Daha da önemlisi ziyaretçi bu alandan çıktığında zihninde bilginin yanı sıra uzun dönem hafızasında bilgi ile eşleyerek daha uzun süre saklayabileceği anılarla ayrılmaktadır (Lupton, 2017).</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763562,
+        "Question": "<p>Yinelemeli Tasarım Yaklaşımı neyi ifade eder?</p>",
+        "Answer": "<p>Yinelemeli Tasarım Yaklaşımı tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir. Bu yaklaşım tasarımın kullanıma girmesinde önce başlar, gerçek kullanım sırasında da sürekli biçimde alınan verilerin değerlendirilmesi ile devam eder. Dolayısıyla tasarım ömrü boyunca bitmeyen bir döngüyle kendini yeniler, iyileştirir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763563,
+        "Question": "<p>Artırılmış Gerçeklik (AR) ve Karma Gerçeklik (MR) teknolojileri neler sağlar?</p>",
+        "Answer": "<p>Temel olarak gerçek zamanlı görüntünün teknoloji yardımıyla zenginleştirilmesi prensibine dayanan karma gerçeklik (MR) ve artırılmış gerçeklik (AR) teknolojileri bugün bilgi görselleştirme adına yenilikçi çalışmaların üretildiği pek çok örneğin temelini oluşturmaktadır. Gerçek zamanlı ve etkileşimli görseller aracılığıyla bilgi aktarmak bugün en verimli yöntemlerden biridir (Saratchadran, 2022). Bu yenilikçi teknolojiler iki boyutlu gerçekliğin üzerine yeni bir görsel katman daha yaratarak çalışır, çevremiz üzerindeki algımızı zenginleştirir, bilgiyi gerçek zamanlı biçimde harici bir fiziksel yüzeye gereksinim duymadan bize aktarırlar.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763564,
+        "Question": "<p>Mekânsal artırılmış gerçeklik uygulamaları neler sağlar?</p>",
+        "Answer": "<p>Artırılmış gerçeklik tabanlı deneyimler bilgi görselleştirme alanında yalnızca bireysel teknolojiler çerçevesinde değil aynı zamanda mekân ve sergi deneyimlerinde de son yıllarda gitgide adından söz ettirmeye başlamıştır. Özellikle tematik ve veri tabanlı görselleştirmelerde etkileyici ve etkileşimli bir mekân yaratmak adına büyük yansı ve sensörler aracılığı ile oldukça etkileyici ve gerçek üstü deneyimler yaratılabilmektedir. Bu bağlamda veri hem bilgi aktarma işlevi görürken aynı zamanda içinde dolaşılan bir yere dönüşür. Onu deneyimleyen birey verinin ve içeriğin dünyasında belirli bir zaman dilimi geçirir. Bu etkileşim oldukça etkili bir odaklanma ve heyecan kaynağı yaratır. Bu heyecan ve etkilenim dolaylı yoldan bilginin aktarımının daha direkt ve verimli hâle gelmesini sağlar.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763565,
+        "Question": "<p>Gösterge ve kontrol panelleri gibi arabirimlerin tasarımında nelere dikkat edilmelidir?</p>",
+        "Answer": "<p>Gösterge ve kontrol panelleri gibi arabirimlerin tasarımında veriyi katmanlar hâlinde derinleştirerek sunmak önem taşır. En üst katmanda büyük bir bilişsel yük gerektirmeden hızlı iletişim kurmaya yarayan renk bir belirteç olarak çalışırken, ayrıntılı bilgi talep edildiğinde ikinci aşamada grafik gösterimler devreye girmelidir. Bu tip arabirim tasarımlarında öncelik her zaman kolay anlaşılırlık ve kullanışlılık olmalıdır. Bu nedenle grafik arayüzlerde önceden öğrenilmiş basit simgeler, kendini açıkça belli eden buton tasarımları ya da uzaktan rahat takip edilen liste ve grafikler seçmek önem taşır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763566,
+        "Question": "<p>Skeuomorfik tasarım anlayışı neyi ifade eder?</p>",
+        "Answer": "<p>Skeuomorfik: Doğadaki görsel gerçekliği ve tepkileri taklit eden tasarım anlayışı.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763567,
+        "Question": "<p>Bilgi görselleştirmede etkileşimin önemi nedir?</p>",
+        "Answer": "<p>Bilgi görselleştirme, kavramanın temel aşamaları olan “uygulama” ve “değerlendirme” arasındaki köprüyü kurmaya yardımcı olur. Bugün çağdaş medyalar özelinde düşünüldüğünde etkileşim, bu köprünün en temel yapı taşlarından biridir. Etkileşim, bilgi görselleştirmede “izleyici” kavramını “kullanıcı” ile değiştirir. Bilgi ile olan iletişimde izlenim ve görsel etkilenimin yanına kullanım ve deneyimi ekler. Bilgi görselleştirmede etkileşimin yarattığı en önemli çıktılardan biri de akış’ın yaratılmasındaki tetikleyici rolüdür.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763568,
+        "Question": "<p>Anlık depremlerin takip edildiği bir arayüzü izlemek ile, depremlerin coğrafya tarihini nasıl şekillendirdiğini gösteren bir sergiyi gezmek arasında ne gibi farklar vardır?</p>",
+        "Answer": "<p>İki örnek arasındaki en temel fark bilginin durağan biçimde veya akış içinde edinilmesidir. Akış içinde karşılaşılan bilgi hızlı karar almayı ve harekete geçmeyi gerektiren çağdaş bir pratikken, durağan bir veriyi gözlemlemek özümseme ve uzun dönemli hafızaya yer etme konusunda kişiye daha çok olanak bırakır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763579,
+        "Question": "<p>Veri ve bilgiyle kurulan ilişki çağdaş tasarım anlayışları doğrultusunda ne şekilde ele alınmaktadır?</p>",
+        "Answer": "<p>Veri, anlık ya da kısa süreli etkileşimde bulunduğumuz bir bilgi bütünü olmaktan öte gündelik hayatımıza dâhil olan, sürekliliği bulunan ve etkisinin büyüklüğüyle yaşama biçimimizi ve alışkanlıklarımızı değiştirebilecek kadar kuvvetli bir değişken, daha kapsamlı deyişiyle bir deneyim hâline dönüşmektedir. Tasarım odağında bu değişim iletişim stratejilerinin yeniden planlanması ve tasarım süreçlerine pek çok yenilikçi yöntemin eklemlenmesini beraberinde getirmiştir. Bugün bu karmaşık iletişim problemlerine çözümler geliştiren tasarımcılar tasarımı iki boyutlu, estetik problemleri önceleyen bir görselleştirme çabası olarak görmenin ötesinde, işlevsellik, insan algısı, duygular, anatomik sınırlar gibi pek çok yeni boyutu tasarım sürecinin bir parçası hâline getirmiştir. Daha kapsayıcı bir ifadeyle deneyim ve etkileşim günümüzde veri ile diyaloğumuzu kuran en önemli iletişim bileşenlerinden biri hâline gelmiştir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763580,
+        "Question": "<p>Kullanıcı deneyimi tasarımında sürekliliğin önemi nedir?</p>",
+        "Answer": "<p>Dijital mecraların ulaşılabilirliği, günlük hayat içindeki yaygınlığı ve kullanım sıklığı göz önüne alındığında aktarılan bilgi bireyin günlük hayatını, kararlarını, düşüncelerini ya da toparlayıcı bir ifadeyle hayatı yaşama biçimini etkileyecek kadar tesirlidir. Bu noktada süreklilik en ayırt edici kavramlardan biridir. Bugünün tasarım tüketicisi özellikle dijital medya örneğinde değerlendirildiğinde basılı materyallerin yanında tasarım ile çok daha uzun soluklu ve sürekli evrimleşen bir ilişki içindedir. Tıpkı tasarım tüketicisinde olduğu gibi tasarım ürünleri de yinelemeli tasarım yaklaşımı ile adeta yaşayan bir organizma gibi tanımlanabilir. Kullanıcılardan alınan geri bildirimlere göre sürekli biçimde kendini yenileyen, iyileştiren ve gerçek problemlere çözüm aramayı deneyen sayısal ürünler bugün ömürsüz birer üretim olarak tanımlanabilir. Dolayısıyla iletişim kurduğu kitle ile olan bu süresiz ilişki onun hayatını şekillendirecek kadar kuvvetli deneyimlere dönüşmeye meyillidir. Bilgi görselleştirme odağıyla bu ilişki değerlendirildiğinde ise bilginin aktarımında seçilen yeni mecralar anlık bir karşılaşma ya da görsel iletişim olmanın ötesinde sürekli değişen veriyi belirli dönemlerde aralıksız biçimde kullanıcısına aktaran, canlı, yaşayan, evirilen birer medyaya dönüşmüşlerdir (Bayar, 2022).</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763581,
+        "Question": "<p>Akıllı gözlük teknolojileri ürün tasarım sürecine ne gibi yenilikler getirmiştir?</p>",
+        "Answer": "<p>Akıllı gözlük teknolojileri ürün tasarım bağlamında değerlendirildiğinde verinin günlük yaşam akışı içine katılmasında pek çok yeni tasarım çözümünü de beraberinde getiren öncü fikirlerden biri olarak tanımlanabilir. Hareket, dikkat, ışık, ses, dinamik arabirim, göz takibi gibi yeni girdileri ve değişkenleri tasarım sürecinin bir parçası hâline getiren akıllı gözlük sistemleri geleceğin donanımları adına da tasarımcılara yeni bir açılım sağlamıştır</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763582,
+        "Question": "<p>Gerçek zamanlı veri görselleştirmenin kullanıldığı arabirimlerin özellikleri nelerdir?</p>",
+        "Answer": "<p>Gerçek zamanlı veri görselleştirmeler yalnızca fabrikalar ya da üretim tesisleri değil bugün pek çok bireyin günlük kullanımında da gitgide daha sıklıkla karşılaştığı arabirimler olarak değerlendirilebilir. Finansal okur yazarlığın artışı, bankacılığın dijitalleşmesi ve bireyselleşmesi, farklı yatırım modellerinin her geçen gün gündeme gelmesi, veri ve grafik okuma bilgisinin her geçen gün önem kazanmasına sebep olmuştur. Bu gelişmeler ışığında karmaşık verileri daha anlaşılır hâle sokabilen, rahat kullanılabilen ve takip edilebilen gündelik kullanıcı odaklı dijital uygulamalar bu sistem içinde daha kolaylıkla kendine yer edinebilir hâle gelmiştir. Sürekli akıştaki verinin bir profesyonele gereksinim duymadan analiz edilebilmesini ve anlamlı iç görüler çıkarılmasını hedefleyen bu platformlar veriyi tıpkı kontrol paneli tasarımlarında olduğu gibi bölerek ve derinleştirerek izleyicisine iletmektedir. Bu bağlamda örnekleri yalnızca finansal uygulamalar özelinde değil, kişisel sağlık takip uygulamaları, spor ve aktivite takibi uygulamaları gibi anlık veri toplayan ve sunan pek çok örnek üzerinde genişletmek mümkündür. Tüm bu örneklerin ortak özelliği bilgiyi ve veriyi kolay sayılabilir hâle getirerek kullanıcısını karar almaya ve aksiyona teşvik etmeleridir.</p>",
+        "Title": null,
+        "UniteNo": 8
+    },
+    {
+        "Index": 3763583,
+        "Question": "<p>Otomobillerde kullanılan bilgi görselleştirme geçmişten günümüze nasıl bir değişim geçirmiştir?</p>",
+        "Answer": "<p>Yakın dönemde pek çok otomobil üreticisinin kullanıcı ile görsel iletişimini köklü biçimde dönüştürerek yeniden tasarladığını izlemek mümkündür. Şüphesiz otomobiller üretimlerinin en erken dönemlerinden bu yana belirli mekanik paneller aracılığı ile kullanıcılarıyla görsel bir iletişim kurmaktadır. Hız göstergeleri, devir göstergeleri, sıcaklık, arıza vs. gibi göstergeler otomobiller özelinde bilgi görselleştirmenin en erken örnekleri olarak verilebilir. Bugün ise ulaşım deneyimi yeni teknolojinin etkisiyle gitgide karmaşıklaşmakta, dahası pek çok ek bilgi ya da durum sürücüye ve hatta yolcuyla paylaşılmaktadır. Basit mekanik verilerin yanında hava durumu, trafik durumu, yol tarifi, eğlence araçları vs. gibi her geçen gün zenginleşen bir veri yığınıyla kullanıcı karşı karşıyadır. Bu yoğun bilgi yığınını görselleştirmek yeni nesil otomobil üreticileri için karmaşık bir tasarım problemi hâline dönüşmüştür. Bu tasarım probleminin çözümü bugün iç mekânın her alanına yayılan dijital ekranlar aracılığı ile çözülmeye başlanmıştır.</p>",
+        "Title": null,
+        "UniteNo": 8
+    }
+]

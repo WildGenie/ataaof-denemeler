@@ -1,0 +1,2704 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi \"aracılı ortam\" kavramına bir örnektir?",
+            "options": [
+                "Pandomim",
+                "Dans",
+                "Resim",
+                "Söz düellosu",
+                "Şarkı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 2,
+            "question": "Yeni medya sanatı eseri içeren ilk serginin açıldığı yer aşağıdakilerden hangisidir?",
+            "options": [
+                "New York Modern Sanat Müzesi",
+                "San Francisco Modern Sanat Müzesi",
+                "Howard Wise Galerisi",
+                "Stuttgart Teknik Üniversitesi Stüdyo Galerisi",
+                "Londra Çağdaş Sanatlar Enstitüsü"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 3,
+            "question": "I. Kinetik Sanat II. Işık Sanatı III. Fovizm Akımı IV. Video Sanatı Yukarıdakilerden hangileri yeni medya sanatının kökenleri içerisinde etkilidir?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "III ve IV",
+                "I, II ve III",
+                "I, II ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 4,
+            "question": "I. Eser sahibinin muğlaklaşması II. Değişkenlik ve rastgelelik III. Maddesizleşme IV. Katılımcılık V. Telif haklarının olmaması Yukarıdakilerden hangileri yeni medya sanatı eserlerinin özelliklerindendir?",
+            "options": [
+                "I, III ve V",
+                "II, IV ve V",
+                "I, II, III ve IV",
+                "I, II, III ve V",
+                "I, II, IV ve V"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 5,
+            "question": "\"Mona/Leo\" ve \"The Morphing of Mona / Mona'nın Dönüşümü” isimli eserleri ile tanınan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Cory Arcangel",
+                "Lillian F. Schwartz",
+                "Jeffrey Shaw",
+                "Joan Heemskerk",
+                "Nancy Burson"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 6,
+            "question": "Escher'in Paradoksunu anlatan Penrose merdivenleri aşağıdaki dizilerden hangisinde kullanılmıştır?",
+            "options": [
+                "Squid Game",
+                "Peaky Blinders",
+                "Dark",
+                "Dexter",
+                "Westworld"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 7,
+            "question": "Planların neden-sonuç ilişkisini yansıtır biçimde oluşturulduğu kurgu türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Paralel Kurgu",
+                "Nedensel Kurgu",
+                "Paralelleştirilen Kurgu",
+                "Anlatı Kurgusu",
+                "Rasyonel Kurgu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 8,
+            "question": "Felsefe tarihinde estetik kavramı ile ilgili ilk kuram öneren filozof aşağıdakilerden hangisidir?",
+            "options": [
+                "Empedokles",
+                "Marx",
+                "Hegel",
+                "Baumgarten",
+                "Descartes"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 9,
+            "question": "Bireylerin olay, durum veya nesneleri yani, çevreleri bu kendilerine özgü algılama eğilimleri, şeklinde tanımlanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "duygusal algılama",
+                "simgesel algılama",
+                "seçimleyici algılama",
+                "kültürel algılama",
+                "biçimsel algılama"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 10,
+            "question": "Estetiğin ayrı bir alan olarak tanımlanmasını sağlayan ana kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Yararlı",
+                "İyi",
+                "Hoş",
+                "Doğru",
+                "Güzel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 11,
+            "question": "I. Gerçek ve sanalın arasında sınırlar olması II. İnsanların medyaya dönüşmesi III. Gerçekliği kendi bulaşıcı sanal özleri ile istila etmeleri IV. Elit tedarikçiler ve sanat idaresinin elinde olan nesneleri kırmaları, maskelerini düşürmeleri V. Fiziksel ile sanalın birbirinden ayrışması, uzaklaşması Yukarıdakilerden hangileri Manifest.AR grubu sanat manifestosunun öne sürdüğü fikirler ve özü açısından doğrudur?",
+            "options": [
+                "I ve II",
+                "III ve IV",
+                "I, III ve IV",
+                "II, III ve IV",
+                "II, III ve V"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 12,
+            "question": "\"Dijital klonları bireylerin kendileri hakkında başka başka hikayeler anlatacaktır\" düşüncesi aşağıdaki eserlerden hangisinin düşüncesidir?",
+            "options": [
+                "Placeholder",
+                "BodyScan (In/Out) – Vücut Taraması (İç/Dış)",
+                "LifeClipper",
+                "[domestic] - [eve ait]",
+                "The Legible City – Okunaklı Şehir"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 13,
+            "question": "Maurice Benayoun'un, “Inside the Tunnel Under the Atlantic / Atlantik'in Altındaki Tünelin içinde (1995)\" isimli çalışması ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Katılımcılar etkileşimde bulunmak için beyin-bilgisayar arayüzü kullanmaktadır.",
+                "Deneyimleyenler karşılıklı görüntülü konuşma yapabilmektedir.",
+                "Gerçek zamanlı üretilmiş grafikler vardır.",
+                "Projeksiyon ile perde üzerine yansıtılan imgelerle etkileşime girilmektedir.",
+                "Etkileşimli müzik vardır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 14,
+            "question": "Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklik ile gelecekte ortaya çıkacak diğer olası gerçeklikleri tek bir çatı altında toplayan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "Meta gerçeklik",
+                "Bükülmüş gerçeklik",
+                "Sanal gerçeklik",
+                "Fiziksel gerçeklik",
+                "Genişletilmiş gerçeklik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 15,
+            "question": "Aşağıdakilerden hangisi Jean Baudrillard'ın öne sürdüğü \"Simülakr\" teriminin tanımıdır?",
+            "options": [
+                "Sayısal ortamda üretilmiş sanat eseridir.",
+                "Sanal nesnelerin fiziksel dünyadaki iz düşümü.",
+                "Bir gerçeklik olarak algılanmak isteyen görünüm.",
+                "Yeni medya sanatının genel adı.",
+                "Edimselliğin felsefede kullanılan terimi."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 16,
+            "question": "Toplumsal medya paylaşımları, ağ günlükleri, bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin anlamlı ve işlenebilir biçime dönüştürülmesine ne ad verilir?",
+            "options": [
+                "Ham veri",
+                "Veri bilimi",
+                "Veri depolama",
+                "Veri madenciliği",
+                "Büyük veri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 17,
+            "question": "Gerçek ile referans miktarının karşılaştırılmasının gösterildiği nicel mesaj türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sapma",
+                "Frekans dağılımı",
+                "Nominal karşılaştırma",
+                "Sıralama",
+                "Korelasyon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 18,
+            "question": "Julian Olivar'ın web üzerindeki hareketleri inanılmaz mühendislik bahçeleri olarak tasvir eden projesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Homes for Sale",
+                "At This Rate",
+                "Siyah Beyaz",
+                "Packet Garden",
+                "2060"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 19,
+            "question": "Amerikan etnik çeşitliliğinin dijital izlerinden yola çıkarak geliştirilen American Varietal projesini ortaya koyan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "George Legrady",
+                "Jason Salavon",
+                "Giorgia Lupi",
+                "Mark Napier",
+                "Kynaston McShine"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 20,
+            "question": "-------, verilerin üç boyutunu görüntüleyen bir grafik türüdür. Yukarıdaki cümlede boş bıtakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kabarcık grafiği",
+                "Dağılım grafiği",
+                "Çubuk grafiği",
+                "Pasta grafiği",
+                "Dağılım grafiği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "582785"
+        },
+        {
+            "id": 21,
+            "question": "Yeni medya sanatı ve iletişim alanlarında ortam (medyum) terimi aşağıdakilerden hangisini tanımlamak için kullanılır?",
+            "options": [
+                "Sanatta soyut bilgiyi tanımlamaktadır.",
+                "İki kişi arasında iletilen bilgiyi tanımlamaktadır.",
+                "İletişimde kullanılan aracıları tanımlamaktadır.",
+                "İletişim ve iletişim alanları ayrıştıran anlamı tanımlamaktadır.",
+                "Sanat eserlerindeki temel anlamı tanımlamaktadır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 22,
+            "question": "I. Kinetik Sanat II. Işık Sanatı III. Fovizm Akımı IV. Video Sanatı Yukarıdakilerden hangileri yeni medya sanatının kökenleri içerisinde etkilidir?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "III ve IV",
+                "I, II ve III",
+                "I, II ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 23,
+            "question": "Walter Benjamin'in \"Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı\" metninde odaklandığı konu aşağıdakilerden hangisidir?",
+            "options": [
+                "Fotoğrafın mekanik olarak üretilmesinin resim sanatına olumlu katkıları",
+                "Sanat yapıtlarının insanlar tarafından taklit edilme tarihçesi",
+                "Fotoğrafın tarihsel gelişimi ve icadının sanat dünyasındaki etkileri",
+                "Sanat yapıtlarının insan tarafından taklit edilebileceğini, yeniden üretilebileceğini ancak mekanik olarak bir sanat yapıtının üretilmesinin yeni bir şey olduğu",
+                "Sanat yapıtlarının hakikilik ve orijinallik kavramları üzerine düşünceler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 24,
+            "question": "Fotoğrafın icadının sanat alanında yarattığı etki aşağıdakilerden hangisidir?",
+            "options": [
+                "Fotoğraf, sadece endüstriyel kullanım için geliştirilmiştir ve sanatla bir ilgisi yoktur.",
+                "Fotoğraf, sanatı etkilememiştir ve sanat akademileri üzerinde herhangi bir etkisi yoktur.",
+                "Fotoğraf, sanatı değiştirmiş ve geleneksel sanat anlayışını sorgulatmıştır.",
+                "Sanat akademilerini güçlendirmiştir.",
+                "Fotoğraf, sanatın gelişimini engellemiştir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 25,
+            "question": "Sanatın tanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sanat, kültürel evrim sürecinde farklı anlamlar almıştır.",
+                "Sanat, sadece görsel eserlerin yaratılmasıyla ilgilidir.",
+                "Sanat, her toplulukta aynı anlama sahiptir.",
+                "Sanatın tanımı zaman içinde değişmez ve sabittir.",
+                "Sanat, sadece estetik bir değere sahiptir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdakilerden hangisi dijital estetiğin çıktılarında ya da ürünlerinde maddi getiri anlamında kullanılan en bariz örnektir?",
+            "options": [
+                "Blockchain",
+                "Metaverse",
+                "Sanal alem",
+                "Web 2.0",
+                "NFT"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 27,
+            "question": "Dijital sanatın özellikleri ve etkileri hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dijital sanat, sadece kod, yazılım veya veri yardımıyla oluşan maddesiz sanatı kapsar.",
+                "Dijital sanat, geleneksel sanatın estetik fonksiyonunu birinci plana koyar ve teknolojiyi ikinci plana bırakır.",
+                "Dijital sanat, izleyici ile sanat eseri arasındaki mesafeyi ortadan kaldırarak izleyiciyi sanal bir gerçekliğe taşır.",
+                "Dijital sanat, herhangi bir estetik değere sahip olmayan verilerin sadece görsel olarak sunulmasından ibarettir.",
+                "Dijital sanat, insanın sanatın merkezinde olduğunu vurgular ve teknolojiyi ikincil bir rolde tutar."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangileri kurgunun temel işlevleridir?",
+            "options": [
+                "Yaratıcı düşünme ve analitik düşünme işlevleri",
+                "Dizilim, hareket ve ritmik işlevler",
+                "Anlamlandırma ve geliştirme işlevleri",
+                "Estetik ve semiyotik işlevler",
+                "Algılama ve sağlama işlevleri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 29,
+            "question": "Escher'in Paradoksunu anlatan Penrose merdivenleri aşağıdaki dizilerden hangisinde kullanılmıştır?",
+            "options": [
+                "Dexter",
+                "Westworld",
+                "Squid Game",
+                "Dark",
+                "Peaky Blinders"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 30,
+            "question": "Analog ve dijital kavramları arasındaki temel fark aşağıdakilerden hangisidir?",
+            "options": [
+                "Analog ortamlar, bilgiyi sürekli olarak depolar ve iletilir, dijital ise fiziksel bir form taşımadan kodlarla depolanır ve iletilir.",
+                "Analog bilgisayarlar, dijital bilgisayarlarla karşılaştırıldığında daha hızlıdır.",
+                "Analog ve dijital kavramları arasındaki fark sadece kelime kökenlerinden kaynaklanır.",
+                "Analog ve dijital kavramları arasındaki fark sadece kelime kökenlerinden kaynaklanır.",
+                "Analog veriler, her zaman daha kaliteli ve kesintisizdir, dijital veriler ise sık sık kesintiye uğrar."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 31,
+            "question": "Estetiğin ayrı bir alan olarak tanımlanmasını sağlayan ana kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "İyi",
+                "Doğru",
+                "Hoş",
+                "Yararlı",
+                "Güzel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 32,
+            "question": ":Sayısal ortam ile etkileşime giren kullanıcıların, ortamla fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Mecazi",
+                "Bedenlenme",
+                "Genelgeçer",
+                "Avatar",
+                "Varoluşsal"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 33,
+            "question": "Genişletilmiş gerçeklik (XR/extended Reality) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "XR, yalnızca görme ve işitme duyularını kullanarak sayısal evrende etkileşime girmeyi sağlar.",
+                "XR, kullanıcıların el hareketlerini sayısal dünyaya konumlandırırken dokunsal geri bildirim sağlamaz.",
+                "XR terimi, yalnızca sanal gerçeklikle ilgili bir kavramı ifade eder ve artırılmış gerçeklikle ilişkilendirilmez.",
+                "Geri bildirimli koltuklar, kullanıcıların fiziksel hareketlerini sayısal dünya ya ileterek duyumsal deneyimler sunar.",
+                "Koku ve tat simülatörleri, kimyasal bileşenler kullanarak sayısal olarak işlenmiş duyusal deneyimler sunar."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 34,
+            "question": "Aşağıdakilerden hangisi Jean Baudrillard'ın öne sürdüğü \"Simülakr\" teriminin tanımıdır?",
+            "options": [
+                "Sayısal ortamda üretilmiş sanat eseridir.",
+                "Bir gerçeklik olarak algılanmak isteyen görünüm.",
+                "Sanal nesnelerin fiziksel dünyadaki iz düşümü.",
+                "Edimselliğin felsefede kullanılan terimi.",
+                "Yeni medya sanatının genel adı."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 35,
+            "question": "Sanal kelimesiyle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sanal, yalnızca görsel imgelerle ilgilidir ve diğer duyusal deneyimleri kapsamaz.",
+                "Sanal kelimesi, sadece son yıllarda kullanılmaya başlanmış bir terimdir ve tarihsel bir geçmişi yoktur.",
+                "Sanal, gerçeğin zıttı olan bir kavramdır ve her zaman gerçek dışıdır.",
+                "Sanal kelimesi, Latince kökenli olup, potansiyel varoluşu ifade eder.",
+                "Sanal kelimesi, sadece bilgisayarlar ve teknoloji ile İlişkilendirilir ve diğer bağlamlarda kullanılmaz."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 36,
+            "question": "-------, verilerin üç boyutunu görüntüleyen bir grafik türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kabarcık grafiği",
+                "Dağılım grafiği",
+                "Çubuk grafiği",
+                "Pasta grafiği",
+                "Dağılım grafiği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 37,
+            "question": "Çubuk grafiği ve pasta grafiği gibi günümüzde yaygın olarak kullanılan bir çok grafiğin öncüsünü yapan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Pierre de Fermat",
+                "Blaise Pascal",
+                "John Tukey",
+                "Rene Descartes",
+                "William Playfair"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 38,
+            "question": "Aşağıdakilerden hangisi veri görselleştirmenin temel amacıdır?",
+            "options": [
+                "Verileri çoğaltma",
+                "Verileri şifreleme",
+                "Verileri analiz etme",
+                "Verileri grafiksel olarak temsil etme",
+                "Ham verileri saklama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 39,
+            "question": "Julian Olivar'ın web üzerindeki hareketleri inanılmaz mühendislik bahçeleri olarak tasvir eden projesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Homes for Sale",
+                "Packet Garden",
+                "Siyah Beyaz",
+                "At This Rate",
+                "2060"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdakilerden hangisi infografik ve dataviz arasındaki temel farklardan biridir?",
+            "options": [
+                "İnfografikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.",
+                "İnfografikler veri doğruluğu bakımından daha güçlüdür, datavizler ise daha az doğrudur.",
+                "İnfografikler farklı verilerle yeniden kullanılabilirken, datavizler manuel müdahale gerektirir.",
+                "İnfografikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür.",
+                "İnfografikler bilgisayarlar aracılığıyla algoritmik olarak çizilir, datavizler ise elle çizilir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "582819"
+        },
+        {
+            "id": 41,
+            "question": "I. Kinetik Sanat II. Işık Sanatı III. Fovizm Akımı IV. Video Sanatı Yukarıdakilerden hangileri yeni medya sanatının kökenleri içerisinde etkilidir?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "III ve IV",
+                "I, II ve III",
+                "I, II ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 42,
+            "question": "Sanatın tanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sanatın tanımı zaman içinde değişmez ve sabittir.",
+                "Sanat, kültürel evrim sürecinde farklı anlamlar almıştır.",
+                "Sanat, sadece estetik bir değere sahiptir.",
+                "Sanat, her toplulukta aynı anlama sahiptir.",
+                "Sanat, sadece görsel eserin yaratılmasıyla ilgilidir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 43,
+            "question": "Fotoğrafın icadının sanat alanında yarattığı etki aşağıdakilerden hangisidir?",
+            "options": [
+                "Fotoğraf, sanatı etkilememiştir ve sanat akademileri üzerinde herhangi bir etkisi yoktur.",
+                "Sanat akademilerini güçlendirmiştir.",
+                "Fotoğraf, sanatın gelişimini engellemiştir.",
+                "Fotoğraf, sadece endüstriyel kullanım için geliştirilmiştir ve sanatla bir ilgisi yoktur.",
+                "Fotoğraf, sanatı değiştirmiş ve geleneksel sanat anlayışını sorgulatmıştır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 44,
+            "question": "Aşağıdakilerden hangisi yeni medya sanatının tanımlanırken belirtilen altı temel özellikten biri <u>değildir</u>?",
+            "options": [
+                "Sanal",
+                "Kitleselleştirme",
+                "Etkileşimli",
+                "Simüle edilmesi",
+                "Sayısal (dijital)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 45,
+            "question": "Escher'in Paradoksunu anlatan Penrose merdivenleri aşağıdaki dizilerden hangisinde kullanılmıştır?",
+            "options": [
+                "Dark",
+                "Peaky Blinders",
+                "Squid Game",
+                "Westworld",
+                "Dexter"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 46,
+            "question": "Sanatın mekanik bir şekilde üretilebilmesinin etkilerine yönelik önemli görüşlerden biri \"Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı\" isimli metinle ortaya çıkmıştır. Yukarıdaki cümlede anlatılan metnin yazarı aşağıdakilerden hangisidir?",
+            "options": [
+                "Klimnt",
+                "Fleming",
+                "Adorno",
+                "Benjamin",
+                "Niépce"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 47,
+            "question": "Estetiğin ayrı bir alan olarak tanımlanmasını sağlayan ana kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Güzel",
+                "Yararlı",
+                "Hoş",
+                "İyi",
+                "Doğru"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 48,
+            "question": "-------; tamamının veya çoğunluğunun gerçekte var olması bulunulan dönemin koşullarında pek olanaklı görünmeyen parçaların kompoze edilmesi ile ortaya çıkarılan mekânlar olarak ifade edilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Meta mekânlar",
+                "Sınırlı mekânlar",
+                "Fiziksel mekânlar",
+                "Uzay mekân",
+                "Kurgusal mekânlar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 49,
+            "question": "Beyin ancak sinirsel akımlarla birleştirilmiş elektriksel sinyallerin lisanından anlar, bu nedenle her duyu organı aldığı fiziksel enerjiyi mutlaka öncelikle elektrik enerjisine çevirir. Yukarıdaki paragrafta tanımlanan kavram aşağıdaki başlıklardan hangisine aittir?",
+            "options": [
+                "Fark Eşiği",
+                "Duyumsal Uyum",
+                "Duyusal Kodlama",
+                "Duyu Sistemleri",
+                "Mutlak Eşik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangileri kurgunun temel işlevleridir?",
+            "options": [
+                "Anlamlandırma ve geliştirme işlevleri",
+                "Algılama ve sağlama işlevleri",
+                "Dizilim, hareket ve ritmik işlevler",
+                "Estetik ve semiyotik işlevler",
+                "Yaratıcı düşünme ve analitik düşünme işlevleri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 51,
+            "question": "Norbert Wiener'in \"sibernetik\" kavramını tanımlarken temel aldığı unsurlar aşağıdakilerden hangisidir?",
+            "options": [
+                "İnsan ve makineler arasındaki ilişki ile sosyal ve politik yapıların kontrolü",
+                "Biyolojik, sosyal ve sembolik sistemlerdeki haberleşme ve kontrol süreçleri",
+                "Otomatikleştirilmiş mekanizmalar ile yalnızca dini yapıların analizi",
+                "İnsan ve makineler arasındaki farkların vurgulanması",
+                "Sadece matematiksel analizlerin biyolojik sistemlere uyarlanması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 52,
+            "question": "Aşağıdaki sanallık kavramı ile ilgili ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sanal bir nesnenin gerçek bir varoluşa sahip olması zorunludur.",
+                "Sanal kavramı, sadece teknolojik cihazlarla ilgili bir terim olup tarihsel bir geçmişi yoktur.",
+                "Sanallık, yalnızca dijital cihazlar ve özel gözlüklerle deneyimlenebilen bir olgudur.",
+                "Aynadaki görüntüler gerçek varoluşun bir parçası olduğundan sanal kabul edilmezler.",
+                "Sanal nesneler ve olaylar, geçmişte yaşanmış ya da gelecekte olma olasılığı bulunan olgular olabilir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 53,
+            "question": "Aşağıdakilerden hangisi simülasyonun temel elemanlarından biri <u>değildir</u>?",
+            "options": [
+                "Kaynak dizge",
+                "Simülatör",
+                "Model",
+                "Gerçeklik",
+                "Soyutlama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 54,
+            "question": "\"Augmented Groove\" isimli artırılmış gerçeklik çalışması katılımcılara aşağıdaki imkanlardan hangisini sunar?",
+            "options": [
+                "Müzik performanslarını hologramlarla yönetme",
+                "Dijital sinyalleri sanat eseri olarak kullanma",
+                "Fiziksel kartları manipüle ederek müzik üretme",
+                "Stereoskopik üç boyutlu görüntüleri izleme",
+                "Gerçek mekanlarda dijital verileri görselleştirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 55,
+            "question": "------ üç boyutunu görüntüleyen bir grafik türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kabarcık grafiği",
+                "Çubuk grafiği",
+                "Açılım grafiği",
+                "Dağılım grafiği",
+                "Pasta grafiği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 56,
+            "question": "Analog ve dijital kavramları arasındaki temel fark aşağıdakilerden hangisidir?",
+            "options": [
+                "Analog bilgisayarlar, dijital bilgisayarlarla karşılaştırıldığında daha hızlıdır.",
+                "Analog ve dijital kavramları arasında büyük bir ayrım yoktur. Büyük oranda benzeşme vardır.",
+                "Analog veriler, her zaman daha kaliteli ve kesintisizdir, dijital veriler ise sık sık kesintiye uğrar.",
+                "Analog ortamlar, bilgiyi fiziksel olarak depolar ve iletilir, dijital ise fiziksel bir form taşımadan kodlarla depolanır ve iletilir.",
+                "Analog ve dijital kavramları arasındaki fark sadece kelime kökenlerinden kaynaklanır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 57,
+            "question": "Julian Olivar'ın web üzerindeki hareketleri inanılmaz mühendislik bahçeleri olarak tasvir eden projesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Siyah Beyaz",
+                "Packet Garden",
+                "2060",
+                "At This Rate",
+                "Homes for Sale"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 58,
+            "question": "Aşağıdakilerden hangisi veri görselleştirmenin temel amacıdır?",
+            "options": [
+                "Verileri grafiksel olarak temsil etme",
+                "Ham verileri saklama",
+                "Verileri analiz etme",
+                "Verileri çoğaltma",
+                "Verileri şifreleme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 59,
+            "question": "Veri görselleştirmede kullanılan .CSV dosyalarının temel avantajı nedir?",
+            "options": [
+                "CSV dosyaları her zaman yüksek kalite ve bütünlük sağlar.",
+                "CSV dosyaları görselleştirme işlemlerini hızlandırır.",
+                "CSV dosyaları yalnızca metin verilerini destekler.",
+                "Veri görselleştirme araçları, verileri .CSV dosyalarından doğrudan içe aktarabilir.",
+                "CSV dosyaları yalnızca sayısal verileri destekler."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 60,
+            "question": "Toplumsal medya paylaşımları, ağ günlükleri, bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin anlamlı ve işlenebilir biçime dönüştürülmesine ne ad verilir?",
+            "options": [
+                "Büyük veri",
+                "Veri madenciliği",
+                "Veri depolama",
+                "Veri bilimi",
+                "Ham veri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591741"
+        },
+        {
+            "id": 61,
+            "question": "Yeni medya sanatı ve iletişim alanlarında ortam (medyum) terimi aşağıdakilerden hangisini tanımlamak için kullanılır?",
+            "options": [
+                "Sanat eserlerindeki temel anlamı tanımlamaktadır.",
+                "İletişimde kullanılan aracıları tanımlamaktadır.",
+                "Sanatta soyut bilgiyi tanımlamaktadır.",
+                "İki kişi arasında iletilen bilgiyi tanımlamaktadır.",
+                "Sanat ve İletişim alanları ayrıştıran özelliklerini tanımlamaktadır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi estetik kavramında bahsedilen estetik fenomenin dört ana elemanından biri<u>dür</u>?",
+            "options": [
+                "Çevre",
+                "Zıtlık",
+                "Mantık",
+                "Boyutsallık",
+                "Akılsallık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 63,
+            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamalar? :Sayısal ortam ile etkileşime giren kullanıcıların, ortama fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir.",
+            "options": [
+                "Avatar",
+                "Mecazi",
+                "Varoluşsal",
+                "Genelgeçer",
+                "Bedelenme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 64,
+            "question": "Bozulma, video sanatçısı Nam June Paik'in çalışmalarında kullandığı eski bir yöntemdir. Bu yöntem en eski ... sanatı türlerinden biridir.",
+            "options": [
+                "glitch sanatı",
+                "bozma sanatı",
+                "Fotoğraf sanatı",
+                "Video sanatı",
+                "baskı sanatı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 65,
+            "question": "Belirli bir süre boyunca tek bir değişkenin yakalanıp izlendiği nicel mesaj türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Korelasyon",
+                "Sapma",
+                "Zaman serisi",
+                "Sıralama",
+                "Parçadan bütüne"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 66,
+            "question": "Basılı gazete veya dergi ya da radyo yayını gibi kullanıcılarına hiç veya çok az etkileşim olanağı sunan geleneksel kitle iletişim araçlarının aksine, metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardır.",
+            "options": [
+                "Yeni sanat",
+                "Etkileşimli ortam",
+                "Konvansiyonel medya",
+                "Dijital sanat",
+                "Multimedya"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 67,
+            "question": "Metaverse'in internetin yeni versiyonu olması iddiasının kaynağı aşağıdakilerden hangisidir?",
+            "options": [
+                "Web 3.0",
+                "Kripto para",
+                "Sosyal medya",
+                "Web 2.0",
+                "Dijitalleşme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 68,
+            "question": "Makinelerin tıpkı insan gibi düşünebileceklerinin sinyallerini veren ilk kitap aşağıdakilerden hangisidir?",
+            "options": [
+                "Geniac",
+                "Giant Brains: Or Machines That Think",
+                "Radio Electronics",
+                "Computers and Automation",
+                "Brainiac"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 69,
+            "question": "Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular veya hayranlar tarafından değiştirilme süreci aşağıdaki terimlerden hangisi ile ifade edilir?",
+            "options": [
+                "Prosedürelcilik",
+                "Yöndeşme",
+                "Transmedya",
+                "Modlama",
+                "Karşı oyun"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 70,
+            "question": "Oyunsallaşmanın medya ürünlerinde görünürlüğünün artışı 1990'lı yıllarda birlikte ivme kazanmıştır. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu dönüşümün sinemaya yansıması olarak değerlendirilebilecek bir örnektir?",
+            "options": [
+                "Koş Lola Koş (1998)",
+                "Schindler'in Listesi (1993)",
+                "Hayalet (1990)",
+                "Titanik (1997)",
+                "Can Dostum (1997)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 71,
+            "question": "Kural tabanlı sistemler üzerinden argüman oluşturabilme sürecini ifade etmek üzere, Ian Bogost ------ termini kullanır. Yukardaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamalar?",
+            "options": [
+                "karşı oyun",
+                "prosedürel retorik",
+                "avantgart oyun",
+                "transmedya",
+                "yöndeşme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 72,
+            "question": "Bir portre fotoğrafını ünlü portre eserlerinden birinin tarzına dönüştürebilen uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "Aaron",
+                "GANbreeder",
+                "The painting fool",
+                "Cartoonify",
+                "Alportraits"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 73,
+            "question": "Oyun mekanikleri kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Oyunların oynanacağı platformun özelliklerini ifade eder.",
+                "Oyunun görsel-işitsel öğelerini ifade eder.",
+                "Oyunun oynanacağı donanım özelliklerini ifade eder.",
+                "Oyunun kazanılması için gerekli taktikleri ifade eder.",
+                "Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 74,
+            "question": "Bilgisayar temelli sanat eserinin içeriği ve önemi ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "R-art",
+                "CA-art",
+                "Cl-art",
+                "Evo-art",
+                "VR-art"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 75,
+            "question": "İki Bilgisayar Satranç Oynuyor adlı eserin sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Nil Yalter",
+                "Hale Tenger",
+                "Onur Sönmez",
+                "Ergül Özkutan",
+                "Teoman Madra"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 76,
+            "question": "Bir programı delikli kartlara kaydederek, generatif dokuma sanatında bir devrim yaratan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Jacquard",
+                "Georg Nees",
+                "Boden ve Edmonds",
+                "Ian Goodfellow",
+                "Frieder Nake"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 77,
+            "question": "Generatif bir sistemde meydana gelen değişim mekanizmalarıdır. Birbirleri üzerinde işlem yapan ya da birbirleriyle etkileşime giren varlıkları kapsarlar. Yukarıdaki cümlede tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Süreç",
+                "Varlıklar",
+                "Duyusal çıktılar",
+                "Algoritma",
+                "Çevresel etkileşim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 78,
+            "question": "Türkiye'de Yeni medya Sanatı'nın dönüm noktalarından biri olarak kabul edilebilecek, 2010 yılında İstanbul'un Kültür Başkenti ilan edilmesi ile Haydarpaşa Garında uygulanan Mapping projesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Piksel",
+                "Nerd",
+                "Kakafoni",
+                "Yekpare",
+                "Bilinmeyen kod"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 79,
+            "question": "İki Bilgisayar Satranç Oynuyor adlı eserin sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Nil Yalter",
+                "Hale Tenger",
+                "Onur Sönmez",
+                "Ergül Özkutan",
+                "Teoman Madra"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 80,
+            "question": "Türkiye'deki Yeni Medya Sanatı alanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dünyadaki ilk eserlerin Türkiye'den çıkmıştır.",
+                "Bu alanlara özel yüksek öğretim ilk Türkiye'de başlamıştır.",
+                "Yeni Medya ile Geleneksel Sanatların birleştirildiği çokça örnek vardır.",
+                "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
+                "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "582794"
+        },
+        {
+            "id": 81,
+            "question": "Yeni medya sanatı ve iletişim alanlarında ortam (medyum) terimi aşağıdakilerden hangisini tanımlamak için kullanılır?",
+            "options": [
+                "Sanat eserlerindeki temel anlamı tanımlamaktadır.",
+                "İletişimde kullanılan aracıları tanımlamaktadır.",
+                "Sanatta soyut bilgiyi tanımlamaktadır.",
+                "İki kişi arasında iletilen bilgiyi tanımlamaktadır.",
+                "Sanat ve İletişim alanları ayrıştıran özelliklerini tanımlamaktadır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdakilerden hangisi estetik kavramında bahsedilen estetik fenomenin dört ana elemanından <u>değildir</u>?",
+            "options": [
+                "Çevre",
+                "Zıtlık",
+                "Mantık",
+                "Boyutsallık",
+                "Akılsallık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 83,
+            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? :Sayısal ortam ile etkileşime giren kullanıcıların, ortama fiziksel olarak etkileşime girdikleri algısının yaratılmasına denmektedir.",
+            "options": [
+                "Avatar",
+                "Mecazi",
+                "Varoluşsal",
+                "Genelgeçer",
+                "Bedenlenme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 84,
+            "question": "Bozulma, video sanatçısı Nam June Paik'in çalışmalarında kullandığı eski bir yöntemdir. Bu yöntem en eski ... sanatı türlerinden biridir.",
+            "options": [
+                "glitch sanatı",
+                "bozma sanatı",
+                "Fotoğraf sanatı",
+                "Video sanatı",
+                "baskı sanatı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 85,
+            "question": "Belirli bir süre boyunca tek bir değişkenin yakalanıp izlendiği nicel mesaj türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Korelasyon",
+                "Sapma",
+                "Zaman serisi",
+                "Sıralama",
+                "Parçadan bütüne"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 86,
+            "question": "Basılı gazete veya dergi ya da radyo yayını gibi kullanıcılarına hiç veya çok az etkileşim olanağı sunan geleneksel kitle iletişim araçlarının aksine, metin, ses, görsel, hareketli görüntü ve film, video gibi farklı formatlardaki bilgiyi etkileşimli olarak kullanıcılara sunan ortamlardır. Yukarıda anlatılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Yeni sanat",
+                "Etkileşimli ortam",
+                "Konvansiyonel medya",
+                "Dijital sanat",
+                "Multimedya"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 87,
+            "question": "Metaverse'in internetin yeni versiyonu olması iddiasının kaynağı aşağıdakilerden hangisidir?",
+            "options": [
+                "Web 3.0",
+                "Kripto para",
+                "Sosyal medya",
+                "Web 2.0",
+                "Dijitalleşme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 88,
+            "question": "Makinelerin tıpkı insan gibi düşünebileceklerinin sinyallerini veren ilk kitap aşağıdakilerden hangisidir?",
+            "options": [
+                "Geniac",
+                "Giant Brains: Or Machines That Think",
+                "Radio Electronics",
+                "Computers and Automation",
+                "Brainiac"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 89,
+            "question": "Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular veya hayranlar tarafından değiştirilme süreci aşağıdakilerden hangisi ile ifade edilir?",
+            "options": [
+                "Prosedürelcilik",
+                "Yöndeşme",
+                "Transmedya",
+                "Modlama",
+                "Karşı oyun"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 90,
+            "question": "Oyunsallaşmanın medya ürünlerinde görünürlüğünün artışı 1990'lı yıllarda birlikte ivme kazanmıştır. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu dönüşümün sinemaya yansıması olarak değerlendirilebilecek bir örnektir?",
+            "options": [
+                "Koş Lola Koş (1998)",
+                "Schindler'in Listesi (1993)",
+                "Hayalet (1990)",
+                "Titanik (1997)",
+                "Can Dostum (1997)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 91,
+            "question": "Kural tabanlı sistemler üzerinden argüman oluşturabilme sürecini ifade etmek üzere, Ian Bogost ---------- termini kullanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "karşı oyun",
+                "prosedürel retorik",
+                "avantgart oyun",
+                "transmedya",
+                "yöndeşme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 92,
+            "question": "Bir portre fotoğrafını ünlü portre eserlerinden birinin tarzına dönüştürebilen uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "Aaron",
+                "GANbreeder",
+                "The painting fool",
+                "Cartoonify",
+                "Alportraits"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 93,
+            "question": "Oyun mekanikleri kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Oyunların oynanacağı platformun özelliklerini ifade eder.",
+                "Oyunun görsel-işitsel öğelerini ifade eder.",
+                "Oyunun oynanacağı donanım özelliklerini ifade eder.",
+                "Oyunun kazanılması için gerekli taktikleri ifade eder.",
+                "Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 94,
+            "question": "Bilgisayar temelli sanat eserinin içeriği ve önemi ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "R-art",
+                "CA-art",
+                "Cl-art",
+                "Evo-art",
+                "VR-art"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 95,
+            "question": "Bilgisayar temelli sanat eserinin içeriği ve önemi ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "R-art",
+                "CA-art",
+                "Cl-art",
+                "Evo-art",
+                "VR-art"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 96,
+            "question": "Bir programı delikli kartlara kaydederek, generatif dokuma sanatında bir devrim yaratan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Jacquard",
+                "Georg Nees",
+                "Boden ve Edmonds",
+                "Ian Goodfellow",
+                "Frieder Nake"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 97,
+            "question": "Generatif bir sistemde meydana gelen değişim mekanizmalarıdır. Birbirleri üzerinde işlem yapan ya da birbirleriyle etkileşime giren varlıkları kapsarlar. Yukarıdaki cümlede tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Süreç",
+                "Varlıklar",
+                "Duyusal çıktılar",
+                "Algoritma",
+                "Çevresel etkileşim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 98,
+            "question": "Türkiye'de Yeni medya Sanatı'nın dönüm noktalarından biri olarak kabul edilebilecek, 2010 yılında İstanbul'un Kültür Başkenti ilan edilmesi ile Haydarpaşa Garında uygulanan Mapping projesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Piksel",
+                "Nerd",
+                "Kakafoni",
+                "Yekpare",
+                "Bilinmeyen kod"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 99,
+            "question": "İki Bilgisayar Satranç Oynuyor adlı eserin sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Nil Yalter",
+                "Hale Tenger",
+                "Onur Sönmez",
+                "Ergül Özkutan",
+                "Teoman Madra"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 100,
+            "question": "Türkiye'deki Yeni Medya Sanatı alanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dünyadaki ilk eserlerin Türkiye'den çıkmıştır.",
+                "Bu alanlara özel yüksek öğretim ilk Türkiye'de başlamıştır.",
+                "Yeni Medya ile Geleneksel Sanatların birleştirildiği çokça örnek vardır.",
+                "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
+                "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "582834"
+        },
+        {
+            "id": 101,
+            "question": "Dijital sanatın özellikleri ve etkileri hakkında aşağıdaki ifadelerden hangisi doğrudur?A) Dijital sanat, geleneksel sanatın estetik fonksiyonunu birinci plana koyar ve teknolojiyi ikinci plana bırakır.<br>B) Dijital sanat, sadece kod, yazılım veya veri yardımıyla oluşan maddesiz sanatı kapsar.<br>C) Dijital sanat, izleyici ile sanat eseri arasındaki mesafeyi ortadan kaldırarak izleyiciyi sanal bir gerçekliğe taşır.<br>D) Dijital sanat, herhangi bir estetik değere sahip olmayan verilerin sadece görsel olarak sunulmasından ibarettir.<br>E) Dijital sanat, insanın sanatın merkezinde olduğunu vurgular ve teknolojiyi ikincil bir rolde tutar.",
+            "options": [
+                "Dijital sanat, geleneksel sanatın estetik fonksiyonunu birinci plana koyar ve teknolojiyi ikinci plana bırakır.",
+                "Dijital sanat, sadece kod, yazılım veya veri yardımıyla oluşan maddesiz sanatı kapsar.",
+                "Dijital sanat, izleyici ile sanat eseri arasındaki mesafeyi ortadan kaldırarak izleyiciyi sanal bir gerçekliğe taşır.",
+                "Dijital sanat, herhangi bir estetik değere sahip olmayan verilerin sadece görsel olarak sunulmasından ibarettir.",
+                "Dijital sanat, insanın sanatın merkezinde olduğunu vurgular ve teknolojiyi ikincil bir rolde tutar."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 102,
+            "question": "Aşağıdakilerden hangisi 2000'li yıllarda internet ve teknolojik gelişmelerin sanatçılara sunduğu yeni olanaklardan biri <u>değildir</u>?A) Nesnelerin internetinin sanatın alanına girmesi<br>B) İnternet kullanımının yaygınlaşarak sanatın toplumsal etkisini kaybetmesi<br>C) Kodlama bilmeyen kullanıcıların sosyal medya ile sanat eserleri oluşturması<br>D) Akıllı telefonların sanat eserlerinde dijital üretim için temel araç haline gelmesi<br>E) Yapay zekanın sanatçılar tarafından kullanılması",
+            "options": [
+                "Nesnelerin internetinin sanatın alanına girmesi",
+                "İnternet kullanımının yaygınlaşarak sanatın toplumsal etkisini kaybetmesi",
+                "Kodlama bilmeyen kullanıcıların sosyal medya ile sanat eserleri oluşturması",
+                "Akıllı telefonların sanat eserlerinde dijital üretim için temel araç haline gelmesi",
+                "Yapay zekanın sanatçılar tarafından kullanılması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 103,
+            "question": "Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklik ile gelecekte ortaya çıkacak diğer olası gerçeklikleri tek bir çatı altında toplayan terim aşağıdakilerden hangisidir?A) Fiziksel gerçeklik<br>B) Meta gerçeklik<br>C) Genişletilmiş gerçeklik<br>D) Sanal gerçeklik<br>E) Bükülmüş gerçeklik",
+            "options": [
+                "Fiziksel gerçeklik",
+                "Meta gerçeklik",
+                "Genişletilmiş gerçeklik",
+                "Sanal gerçeklik",
+                "Bükülmüş gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 104,
+            "question": "Aşağıdakilerden hangisi infografik ve dataviz arasındaki temel farklardan biridir?A) İnfografikler veri doğruluğu bakımından daha güçlüdür, datavizler ise daha az doğrudur.<br>B) İnfografikler bilgisayarlar aracılığıyla algoritmik olarak çizilir, datavizler ise elle çizilir.<br>C) İnfografikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.<br>D) İnfografikler farklı verilerle yeniden kullanılabilirken, datavizler manuel müdahale gerektirir.<br>E) İnfografikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür.",
+            "options": [
+                "İnfografikler veri doğruluğu bakımından daha güçlüdür, datavizler ise daha az doğrudur.",
+                "İnfografikler bilgisayarlar aracılığıyla algoritmik olarak çizilir, datavizler ise elle çizilir.",
+                "İnfografikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.",
+                "İnfografikler farklı verilerle yeniden kullanılabilirken, datavizler manuel müdahale gerektirir.",
+                "İnfografikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 105,
+            "question": "Metaverse'in internetin yeni versiyonu olması iddiasının kaynağı aşağıdakilerden hangisidir?A) Dijitalleşme<br>B) Kripto para<br>C) Web 2.0<br>D) Sosyal medya<br>E) Web 3.0",
+            "options": [
+                "Dijitalleşme",
+                "Kripto para",
+                "Web 2.0",
+                "Sosyal medya",
+                "Web 3.0"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 106,
+            "question": "Google Deep Dream'in sanat alanındaki etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?A) Deep Dream'in sanat tarzı \"Inceptionism\" olarak adlandırılmıştır.<br>B) Deep Dream, yalnızca matematiksel verilerle resim üretmektedir.<br>C) Deep Dream, sadece sanatçıların yönlendirmesiyle resim yapabilmektedir.<br>D) The Painting Fool ve Deep Dream benzer algoritmalar kullanmaktadır.<br>E) Yapay zekanın sanatla ilgisi, sadece görsel sanatlarla sınırlı kalmıştır.",
+            "options": [
+                "Deep Dream'in sanat tarzı \"Inceptionism\" olarak adlandırılmıştır.",
+                "Deep Dream, yalnızca matematiksel verilerle resim üretmektedir.",
+                "Deep Dream, sadece sanatçıların yönlendirmesiyle resim yapabilmektedir.",
+                "The Painting Fool ve Deep Dream benzer algoritmalar kullanmaktadır.",
+                "Yapay zekanın sanatla ilgisi, sadece görsel sanatlarla sınırlı kalmıştır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 107,
+            "question": "Wabi-sabi estetiğiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?A) Wabi-sabi, yalnızca Japon sanatında uygulanır.<br>B) Kintsugi felsefesi, nesnelerin kusurluluğunu göz ardı eder ve onları mükemmel hale getirmeyi amaçlar.<br>C) Wabi-sabi, nesnelerin her zaman eksiksiz ve mükemmel olması gerektiğini savunur.<br>D) Wabi-sabi estetiği, geçicilik ve kusurluluğu kabul eden bir dünya görüşüdür.<br>E) Wabi-sabi estetiği, mükemmelliği ve kusursuzluğu hedefler.",
+            "options": [
+                "Wabi-sabi, yalnızca Japon sanatında uygulanır.",
+                "Kintsugi felsefesi, nesnelerin kusurluluğunu göz ardı eder ve onları mükemmel hale getirmeyi amaçlar.",
+                "Wabi-sabi, nesnelerin her zaman eksiksiz ve mükemmel olması gerektiğini savunur.",
+                "Wabi-sabi estetiği, geçicilik ve kusurluluğu kabul eden bir dünya görüşüdür.",
+                "Wabi-sabi estetiği, mükemmelliği ve kusursuzluğu hedefler."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 108,
+            "question": "Elektronik edebiyatın türleri ve özellikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?A) Elektronik edebiyat eserleri, çoğunlukla basılı kitap formatında sunulur.<br>B) Elektronik edebiyatın teknolojiyle olan ilişkisi, okurun dikkatini çekmek için ikinci plandadır.<br>C) Elektronik edebiyat, yalnızca basit teknolojilerle müzik çalan çocuk kitaplarını içerir.<br>D) Elektronik edebiyat türleri, geleneksel edebiyat türlerine hiçbir mekanik özellik eklemez.<br>E) Hiper metin şiir ve kinetik şiir, elektronik edebiyatın türleri arasında yer alır.",
+            "options": [
+                "Elektronik edebiyat eserleri, çoğunlukla basılı kitap formatında sunulur.",
+                "Elektronik edebiyatın teknolojiyle olan ilişkisi, okurun dikkatini çekmek için ikinci plandadır.",
+                "Elektronik edebiyat, yalnızca basit teknolojilerle müzik çalan çocuk kitaplarını içerir.",
+                "Elektronik edebiyat türleri, geleneksel edebiyat türlerine hiçbir mekanik özellik eklemez.",
+                "Hiper metin şiir ve kinetik şiir, elektronik edebiyatın türleri arasında yer alır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 109,
+            "question": "Oyun araştırmacısı Ian Bogost'a göre, aşağıdakilerden hangisi prosedürelci sanat oyunlarının özelliklerinden biridir?A) Bu oyunlarda görsel, işitsel, metinsel ögeler ikincil niteliktedir. Prosedürelci oyunlar 'içe bakış' odaklı deneyime teşvik etmesi<br>B) Oyuncuların pasif bir rol üstlenmelerini teşvik etmesi<br>C) Oyun mekaniklerinin hikaye anlatımında ikincil bir önem taşıması<br>D) Görsel ve işitsel unsurların yoğun olarak kullanılması<br>E) Grafiklerin ve seslerin gerçekçi bir deneyim sunması ve bu deneyimin balılık kullanılması",
+            "options": [
+                "Bu oyunlarda görsel, işitsel, metinsel ögeler ikincil niteliktedir. Prosedürelci oyunlar 'içe bakış' odaklı deneyime teşvik etmesi",
+                "Oyuncuların pasif bir rol üstlenmelerini teşvik etmesi",
+                "Oyun mekaniklerinin hikaye anlatımında ikincil bir önem taşıması",
+                "Görsel ve işitsel unsurların yoğun olarak kullanılması",
+                "Grafiklerin ve seslerin gerçekçi bir deneyim sunması ve bu deneyimin balılık kullanılması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 110,
+            "question": "Belçikalı bağımsız oyun tasarımcıları Auriea Harvey ve Michaël Samyn'in kurduğu Tale of Tales yapımının 2009 tarihli \"Fatale\" adlı oyunu aşağıdaki eserlerin hangisinden esinlenmiştir?A) William Shakespeare'in \"Hamlet\" adlı oyunundan<br>B) Franz Kafka'nın \"Dönüşüm\" adlı romanından<br>C) Edgar Allan Poe'nun \"Kara Kedi\" adlı öyküsünden<br>D) George Orwell'ın \"1984\" adlı romanından<br>E) Oscar Wilde'ın \"Salome\" adlı piyesinden",
+            "options": [
+                "William Shakespeare'in \"Hamlet\" adlı oyunundan",
+                "Franz Kafka'nın \"Dönüşüm\" adlı romanından",
+                "Edgar Allan Poe'nun \"Kara Kedi\" adlı öyküsünden",
+                "George Orwell'ın \"1984\" adlı romanından",
+                "Oscar Wilde'ın \"Salome\" adlı piyesinden"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 111,
+            "question": "Sanat oyunları (artgame) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?A) Bir fikrin, duygunun prosedürel olarak iletildiği oyunları ifade eder.<br>B) Oyuncuların belirli hikayeleri takip etmelerine yönelik sıkı kurallara sahiptir.<br>C) Görsel ve işitsel unsurların eksikliği ve sadece soyut kavramlara odaklanan bir tarz benimsenmiştir.<br>D) Ticari oyunlardaki türsel konvansiyonlara sıkı sıkıya bağlıdırlar.<br>E) Oyunun oynanma veya etkileşim etme gibi sıradan oyunsal eylemlere odaklanmasıdır.",
+            "options": [
+                "Bir fikrin, duygunun prosedürel olarak iletildiği oyunları ifade eder.",
+                "Oyuncuların belirli hikayeleri takip etmelerine yönelik sıkı kurallara sahiptir.",
+                "Görsel ve işitsel unsurların eksikliği ve sadece soyut kavramlara odaklanan bir tarz benimsenmiştir.",
+                "Ticari oyunlardaki türsel konvansiyonlara sıkı sıkıya bağlıdırlar.",
+                "Oyunun oynanma veya etkileşim etme gibi sıradan oyunsal eylemlere odaklanmasıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 112,
+            "question": "Aşağıdakilerden hangisi, Pearson'a göre, generatif sanatın temel araçlarından biridir?A) Doğadaki fiziksel süreçler<br>B) Yapay zeka ve makine öğrenmesi<br>C) Geleneksel sanat yöntemleri<br>D) Algoritmalar<br>E) Bilgisayarlar ve yazılımlar",
+            "options": [
+                "Doğadaki fiziksel süreçler",
+                "Yapay zeka ve makine öğrenmesi",
+                "Geleneksel sanat yöntemleri",
+                "Algoritmalar",
+                "Bilgisayarlar ve yazılımlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi Dorin ve McCormack'ın generatif sanat için önerdiği çerçevede yer alan dört ana bileşenden biri olan \"varlıklar\"ı tanımlar?A) Varlıklar, duyusal çıktılarla etkileşim halinde olan biyolojik faktörlerdir.<br>B) Generatif sistemlerde kullanılan malzemeler olup, gerçek, kavramsal, fiziksel veya biyolojik olabilirler.<br>C) Generatif sanat süreçlerinin üzerinde çalıştığı malzemelerdir ve her zaman fiziksel olmalıdır.<br>D) Varlıklar, duyusal çıktılarla etkileşim halinde olan çevresel faktörlerdir.<br>E) Varlıklar, sadece kimyasal süreçler içeren generatif sanat çalışmalarında bulunur.",
+            "options": [
+                "Varlıklar, duyusal çıktılarla etkileşim halinde olan biyolojik faktörlerdir.",
+                "Generatif sistemlerde kullanılan malzemeler olup, gerçek, kavramsal, fiziksel veya biyolojik olabilirler.",
+                "Generatif sanat süreçlerinin üzerinde çalıştığı malzemelerdir ve her zaman fiziksel olmalıdır.",
+                "Varlıklar, duyusal çıktılarla etkileşim halinde olan çevresel faktörlerdir.",
+                "Varlıklar, sadece kimyasal süreçler içeren generatif sanat çalışmalarında bulunur."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 114,
+            "question": "Aşağıdakilerden hangisi dijital oyunların yüksek sanat sayılmaması gerektiğine ilişkin görüşleri savunan teorisyenlerden biridir?A) Roger Ebert<br>B) Diğdem Sezen<br>C) Alexander Calder<br>D) Stephane Mallarme<br>E) Roy Ascott",
+            "options": [
+                "Roger Ebert",
+                "Diğdem Sezen",
+                "Alexander Calder",
+                "Stephane Mallarme",
+                "Roy Ascott"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 115,
+            "question": "bir algoritmanın çalışma prensiplerini tanımlayan ve makinenin değil, insanın algoritmayı anlaması için oluşturulan talimatları kapsar.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?A) Programlar<br>B) Akış şemaları<br>C) Komutlar<br>D) Sözde kodlar<br>E) Fonksiyonlar",
+            "options": [
+                "Programlar",
+                "Akış şemaları",
+                "Komutlar",
+                "Sözde kodlar",
+                "Fonksiyonlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 116,
+            "question": "Bir portre fotoğrafını ünlü portre eserlerinden birinin tarzına dönüştürebilen uygulama aşağıdakilerden hangisidir?A) Cartoonify<br>B) Aaron<br>C) Alportraits<br>D) The painting fool<br>E) GANbreeder",
+            "options": [
+                "Cartoonify",
+                "Aaron",
+                "Alportraits",
+                "The painting fool",
+                "GANbreeder"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 117,
+            "question": "Aşağıdakilerden hangisi Onur Sönmez'in eserlerinde teknoloji ve insan ilişkisini ele alırken kullandığı en önemli temalardan biridir?A) Doğanın korunması<br>B) Yapay zeka ve otonomi<br>C) Geleneksel sanat formları<br>D) Sanatın ekonomik değeri<br>E) İletişim teknolojileri",
+            "options": [
+                "Doğanın korunması",
+                "Yapay zeka ve otonomi",
+                "Geleneksel sanat formları",
+                "Sanatın ekonomik değeri",
+                "İletişim teknolojileri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 118,
+            "question": "Refik Anadol'un sanat çalışmaları genellikle aşağıdaki hangi özellikle ön plana çıkar?A) Soyut veri analizi<br>B) Estetik anlatılar<br>C) Figüratif heykeller<br>D) Tarihsel belgeler<br>E) İkonik portreler",
+            "options": [
+                "Soyut veri analizi",
+                "Estetik anlatılar",
+                "Figüratif heykeller",
+                "Tarihsel belgeler",
+                "İkonik portreler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 119,
+            "question": "Türkiye'deki Yeni Medya Sanatı alanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?A) Yeni Medya ile Geleneksel Sanatların birleştirildiği çokça örnek vardır.<br>B) Yeni Medya Sanatı alanında bolca teşvik verilmektedir.<br>C) Bu alanlara özel yüksek öğretim ilk Türkiye'de başlamıştır.<br>D) Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır.<br>E) Dünyadaki ilk eserlerin Türkiye'den çıkmıştır.",
+            "options": [
+                "Yeni Medya ile Geleneksel Sanatların birleştirildiği çokça örnek vardır.",
+                "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
+                "Bu alanlara özel yüksek öğretim ilk Türkiye'de başlamıştır.",
+                "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır.",
+                "Dünyadaki ilk eserlerin Türkiye'den çıkmıştır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 120,
+            "question": "Hangisi Yeni Medya Sanatı alt başlıklarından biridir?A) Minyatür<br>B) E-Posta<br>C) Mektup<br>D) Ebru<br>E) Baskı",
+            "options": [
+                "Minyatür",
+                "E-Posta",
+                "Mektup",
+                "Ebru",
+                "Baskı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596753"
+        },
+        {
+            "id": 121,
+            "question": "Yeni medya sanatı ve iletişim alanlarında ortam (medyum) terimi aşağıdakilerden hangisini tanımlamak için kullanılır?",
+            "options": [
+                "İletişimde kullanılan aracıları tanımlamaktadır.",
+                "İki kişi arasında iletilen bilgiyi tanımlamaktadır.",
+                "Sanatta soyut bilgiyi tanımlamaktadır.",
+                "Sanat ve İletişim alanları ayrıştıran özelliklerini tanımlamaktadır.",
+                "Sanat eserlerindeki temel anlamı tanımlamaktadır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 122,
+            "question": "Estetiğin ayrı bir alan olarak tanımlanmasını sağlayan ana kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "İyi",
+                "Doğru",
+                "Hoş",
+                "Yararlı",
+                "Güzel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 123,
+            "question": "Aşağıdakilerden hangisi “aracılı ortam” kavramına bir örnektir?",
+            "options": [
+                "Şarkı",
+                "Söz düellosu",
+                "Dans",
+                "Resim",
+                "Pandomim"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 124,
+            "question": "Planların neden-sonuç ilişkisini yansıtır biçimde oluşturulduğu kurgu türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Rasyonel Kurgu",
+                "Nedensel Kurgu",
+                "Anlatı Kurgusu",
+                "Paralel Kurgu",
+                "Paralelleştirilen Kurgu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 125,
+            "question": "Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklik ile gelecekte ortaya çıkacak diğer olası gerçeklikleri tek bir çatı altında toplayan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "Meta gerçeklik",
+                "Fiziksel gerçeklik",
+                "Bükülmüş gerçeklik",
+                "Sanal gerçeklik",
+                "Genişletilmiş gerçeklik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 126,
+            "question": "Aşağıdakilerden hangisi Jean Baudrillard'ın öne sürdüğü \"Simülakr\" teriminin tanımıdır?",
+            "options": [
+                "Bir gerçeklik olarak algılanmak isteyen görünüm.",
+                "Yeni medya sanatının genel adı.",
+                "Sayısal ortamda üretilmiş sanat eseridir.",
+                "Edimselliğin felsefede kullanılan terimi.",
+                "Sanal nesnelerin fiziksel dünyadaki iz düşümü."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 127,
+            "question": "Çubuk grafiği ve pasta grafiği gibi günümüzde yaygın olarak kullanılan bir çok grafiğin öncülüğünü yapan kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "John Tukey",
+                "William Playfair",
+                "Rene Descartes",
+                "Pierre de Fermat",
+                "Blaise Pascal"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 128,
+            "question": "Gerçek ile referans miktarının karşılaştırılmasının gösterildiği nicel mesaj türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Korelasyon",
+                "Sapma",
+                "Frekans dağılımı",
+                "Sıralama",
+                "Nominal karşılaştırma"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 129,
+            "question": "Metaverse'in internetin yeni versiyonu olması iddiasının kaynağı aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijitalleşme",
+                "Kripto para",
+                "Sosyal medya",
+                "Web 2.0",
+                "Web 3.0"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 130,
+            "question": "Makinelerin tıpkı insanlar gibi düşünebileceklerinin sinyallerini veren ilk kitap aşağıdakilerden hangisidir?",
+            "options": [
+                "Geniac",
+                "Computers and Automation",
+                "Giant Brains: Or Machines That Think",
+                "Radio Electronics",
+                "Brainiac"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 131,
+            "question": "Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular tarafından değiştirilme veya hayranlar tarafından değiştirilme süreci aşağıdaki terimlerden hangisi ile ifade edilir?",
+            "options": [
+                "Prosedürelcilik",
+                "Modlama",
+                "Yöndeşme",
+                "Karşı oyun",
+                "Transmedya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 132,
+            "question": "Ziyaretçilerin, Guardian'da yayınlanan 10 makaleden elde edilen ve duygusal olan anahtar kelimelere verdikleri tepkileri resmeden eser aşağıdakilerden hangisidir?",
+            "options": [
+                "AARON",
+                "Brain Team",
+                "DALL-E",
+                "The Painting Fool",
+                "OpenAI"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 133,
+            "question": "bir algoritmanın çalışma prensiplerini tanımlayan ve makinenin değil, insanın algoritmayı anlaması için oluşturulan talimatları kapsar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Akış şemaları",
+                "Komutlar",
+                "Sözde kodlar",
+                "Fonksiyonlar",
+                "Programlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 134,
+            "question": "Oyun mekanikleri kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Oyunların oynanacağı platformun özelliklerini ifade eder.",
+                "Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır.",
+                "Oyunun kazanılması için gerekli taktikleri ifade eder.",
+                "Oyunun görsel-işitsel öğelerini ifade eder.",
+                "Oyunun oynanacağı donanım özelliklerini ifade eder."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 135,
+            "question": "Aşağıdakilerden hangisi kültürün oyunlaşması bağlamında bir örnek <u>değildir</u>?",
+            "options": [
+                "Filmlerin olay örgülerinin izleyiciye oyunsal bir seyir deneyimi sunması",
+                "Oyunların eğitim, siyaset, haber, sanat gibi ilk anda oyun oynama ile birlikte düşünülmeyen alanlara ilerlemesi",
+                "Medya ürünlerinde oyunsal öğelerin görünürlüğünün artması",
+                "Medya anlatı modellerinin basitleşmesi",
+                "Mobil medyaların katılımcı deneyimler sunacak şekilde transmedyal anlatıları genişletmesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 136,
+            "question": "Bir portre fotoğrafını ünlü portre eserlerinden birinin tarzına dönüştürebilen uygulama aşağıdakilerden hangisidir?",
+            "options": [
+                "The painting fool",
+                "Cartoonify",
+                "AIportraits",
+                "Aaron",
+                "GANbreeder"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 137,
+            "question": "Türkiye'deki Yeni Medya Sanatı alanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır.",
+                "Yeni Medya ile Geleneksel Sanatların birleştirildiği çokça örnek vardır.",
+                "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
+                "Bu alanlara özel yüksek öğretim ilk Türkiye'de başlamıştır.",
+                "Dünyadaki ilk eserlerin Türkiye'den çıkmıştır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 138,
+            "question": "Bilgisayar temelli sanat eserinin içeriği ve formunun, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Evo-art",
+                "R-art",
+                "VR-art",
+                "Cl-art",
+                "CA-art"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 139,
+            "question": "2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen yeni medya sanatını İstanbul'da temsil eden oluşumlardandır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Zoom",
+                "Entropi",
+                "Piksel",
+                "Digilogue",
+                "Bit"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 140,
+            "question": "Türkiye'de Yeni medya Sanatı'nın dönüm noktalarından biri olarak kabul edilebilecek, 2010 yılında İstanbul'un Kültür Başkenti ilan edilmesi ile Haydarpaşa Garında uygulanan Mapping projesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Yekpare",
+                "Kakafoni",
+                "Bilinmeyen kod",
+                "Nerd",
+                "Piksel"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "582809"
+        },
+        {
+            "id": 141,
+            "question": "Planların neden-sonuç ilişkisini yansıtır biçimde oluşturulduğu kurgu türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Paralel Kurgu",
+                "Nedensel Kurgu",
+                "Paralelleştirilen Kurgu",
+                "Anlatı Kurgusu",
+                "Rasyonel Kurgu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 142,
+            "question": "Fotoğrafın icadının sanat alanında yarattığı etki aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanat akademilerini güçlendirmiştir.",
+                "Fotoğraf, sadece endüstriyel kullanım için geliştirilmiştir ve sanatla bir ilgisi yoktur.",
+                "Fotoğraf, sanatı etkilememiştir ve sanat akademileri üzerinde herhangi bir etkisi yoktur.",
+                "Fotoğraf, sanatı değiştirmiş ve geleneksel sanat anlayışını sorgulatmıştır.",
+                "Fotoğraf, sanatın gelişimini engellemiştir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 143,
+            "question": "Eser sahibinin muğlaklaşması<br>Dopdolu bir estetik<br>Raddeleşmiş izlemezlik<br>Kalıcılık<br>Varlık farklarının olmaması<br>Yukarıdakilerden hangileri yeni medya sanatı eserlerinin özelliklerinden biridir?",
+            "options": [
+                "I, II ve III",
+                "I, II ve V",
+                "II, III ve IV",
+                "III, IV ve V",
+                "I, II, IV ve V"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 144,
+            "question": "Escher'in Paradoksunu anlatan Penrose merdivenleri aşağıdaki dizilerden hangisinde kullanılmıştır?",
+            "options": [
+                "Peaky Blinders",
+                "Squid Game",
+                "Dark",
+                "Westworld",
+                "Dexter"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 145,
+            "question": "Sanal kelimesiyle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sanal, gerçeğin zit olan bir kavramdır ve her zaman gerçek değildir.",
+                "Sanal, yalnızca görsel imgelerle ilgilidir ve diğer duyusal deneyimleri kapsamaz.",
+                "Sanal kelimesi, sadece son yıllarda üretilmiş olup, başlı başına bir terimdir ve tarihsel bir geçmişi yoktur.",
+                "Sanal kelimesi, sadece bilgisayarlar ve teknoloji ile ilişkilidir ve diğer bağlamlarda kullanılmaz.",
+                "Sanal kelimesi Latince kökenli olup, potansiyel varlığı ifade eder."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 146,
+            "question": "Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklik ile gelecekte ortaya çıkacak diğer olası gerçeklikleri tek bir çatı altında toplayan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanal gerçeklik",
+                "Genişletilmiş gerçeklik",
+                "Büyütülmüş gerçeklik",
+                "Yüksek gerçeklik",
+                "Meta gerçeklik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 147,
+            "question": "Aşağıdaki bilgilerden hangisi informatik ve dataviz arasındaki temel farklardan biridir?",
+            "options": [
+                "İnformatikler veri doğruluğu bakımından daha az güçlüdür, datavizler ise daha az doğrudur.",
+                "İnformatikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür.",
+                "İnformatikler bilgisayarlar aracılığıyla mantıksal olarak gelişir, datavizler ise ele çizilir.",
+                "İnformatikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.",
+                "İnformatikler farklı verilerle yeniden kurgulanabilirken datavizler manuel müdahale gerektirir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 148,
+            "question": "Yukarıdaki cümlelerde boş bırakılan yeri aşağıdaki-lerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Pasta grafiği",
+                "Dağılım grafiği",
+                "Kadaracık grafiği",
+                "Yalın grafiği",
+                "Çubuk grafiği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 149,
+            "question": "Ziyaretçilerin, Guardian'da yayınlanan 10 makaleden elde edilen ve duygusal olan anahtar kelimelere verdikleri tepkileri resmeden eser aşağıdakilerden hangisidir?",
+            "options": [
+                "The Painting Fool",
+                "AARON",
+                "OpenAl",
+                "Brain Team",
+                "DALL-E"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 150,
+            "question": "Dijital oyun sanatı (game art) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dijital oyun sanatı, dijital oyunlardaki şiddet içeriğini desteklemek amacıyla oluşturulan bir türdür.",
+                "Dijital oyun sanatı grafikleri, ticari dijital oyunlardan daha gelişmiş ve kalitelidir.",
+                "Dijital oyun sanatı örnekleri, genellikle müze ve galerilerde sergilenmek üzere üretilir.",
+                "Dijital oyun sanatı, sadece ABD'de üretilmiştir.",
+                "Dijital oyun sanatı örnekleri bağımsız ve tanımsızdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 151,
+            "question": "Alan Stanford'un kullanıcıyla rüya kurabilecek, gerçeklik arasında neredeyse kullanıcının bilinçaltına seyahat etmesini izin veren bir deneyimi sunan, Kullanıcının dijital envanterine içerik girdikleri bu sonsuz alana her türden değişiklik yapma özgürlüğüne sahiptir.",
+            "options": [
+                "Etkileşimli",
+                "Artiverse'ü",
+                "Yapay zekası",
+                "Mekan",
+                "Soyutlaması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 152,
+            "question": "Anlam veya etkinin kısmen veya tamamen görsel yollarla, kelime veya harf kalıpları ve diğer tipografik araçlar kullanılarak aktarıldığı şiir türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Somut şiir",
+                "Yeni şiir",
+                "Pastoral şiir",
+                "Kinetik şiir",
+                "Lirik şiir"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 153,
+            "question": "Aşağıdakilerden hangisi kültürün oyunlaşması bağlamında bir örnek <u>değildir</u>?",
+            "options": [
+                "Mobil medyaların katılımcı deneyimler sunacak şekilde transmedyal anlatıları genişletmesi",
+                "Filmlerin olay örgülerinin izleyiciye oyunsal bir seyir deneyimi sunması",
+                "Medya ürünlerinde oyunsal öğelerin görünürlüğünün artması",
+                "Medya anlatı modellerinin basitleşmesi",
+                "Oyunların eğitim, siyaset, haber, sanat gibi ilk anda oyun oynama ile birlikte düşünülmeyen alanlara ilerlemesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 154,
+            "question": "Oyun mekanikleri kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Oyunun görsel-işitsel öğelerini ifade eder.",
+                "Oyunun kazanılması için gerekli taktikleri ifade eder.",
+                "Oyunun oynanacağı donanım özelliklerini ifade eder.",
+                "Oyunların oynanacağı platformun özelliklerini ifade eder.",
+                "Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 155,
+            "question": "Türkiye'deki Yeni Medya Sanatı alanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dünyadaki ilk eserlerin Türkiye'den çıkmıştır.",
+                "Bu alanlara özel yüksek öğretim ilk Türkiye'de başlamıştır.",
+                "Yeni Medya ile Geleneksel Sanatların birleştirildiği çokça örnek vardır.",
+                "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
+                "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 156,
+            "question": "Generatif sanat sistemlerinin dört ana bileşeni aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Renkler, Formlar, Sanatçı, İzleyici",
+                "Bilgisayar, Fırça, Tuval, Duvar",
+                "Sanatçı, Galeri, Küratör, Eleştirmen",
+                "Varlıklar, Süreç, Çevresel Etkileşim, Duyusal Çıktılar",
+                "Varlıklar, Yapılar, Etkinlikler, Sonuçlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 157,
+            "question": "Bilgisayar temelli sanat eserinin içeriği ve formunun, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Cl-art",
+                "CA-art",
+                "VR-art",
+                "R-art",
+                "Evo-art"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 158,
+            "question": "Aşağıdakilerden hangisi IDE'nin tanımıdır?",
+            "options": [
+                "Var olan bir formu yeni bir şey oluşturmak için manipüle etmek için kullanılan sistemdir.",
+                "Nesneleri kendine benzer şekilde tekrar etme sürecidir.",
+                "Hızlı ve kolay şekilde yazılım geliştirilebilmesi amacıyla oluşturulmuş yazılım uygulamasıdır.",
+                "İnsan beyninin bilgi işleme tekniğinden esinlenerek geliştirilmiş bir bilgi işlem teknolojisidir.",
+                "Bir sürecin çıktısı üzerinde etkisi olan bir değerlendirme raporudur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 159,
+            "question": "2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen yeni medya sanatını İstanbul'da temsil eden oluşumlardandır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Piksel",
+                "Zoom",
+                "Entropi",
+                "Digilogue",
+                "Bit"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 160,
+            "question": "Hangisi Yeni Medya Sanatı alt başlıklarından biridir?",
+            "options": [
+                "Ebru",
+                "Baskı",
+                "Mektup",
+                "Minyatür",
+                "E-Posta"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "582837"
+        },
+        {
+            "id": 161,
+            "question": "Planların neden-sonuç ilişkisini yansıtır biçimde oluşturulduğu kurgu türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Paralel Kurgu",
+                "Nedensel Kurgu",
+                "Paralelleştirilen Kurgu",
+                "Anlatı Kurgusu",
+                "Rasyonel Kurgu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 162,
+            "question": "Fotoğrafın icadının sanat alanında yarattığı etki aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanat akademilerini güçlendirmiştir.",
+                "Fotoğraf, sadece endüstriyel kullanım için geliştirilmiştir ve sanatla bir ilgisi yoktur.",
+                "Fotoğraf, sanatı etkilememiştir ve sanat akademileri üzerinde herhangi bir etkisi yoktur.",
+                "Fotoğraf, sanatı değiştirmiş ve geleneksel sanat anlayışını sorgulatmıştır.",
+                "Fotoğraf, sanatın gelişimini engellemiştir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 163,
+            "question": "Eser sahibinin muğlaklaşması<br>II. Doğrusal ve rastgelelik<br>III. Kadersizleşme<br>IV. Klişeler<br>V. Kalıcılığının olmaması<br>Yukarıdakilerden hangileri yeni medya sanatı eserlerinin özelliklerindendir?",
+            "options": [
+                "I, II ve III",
+                "I, III ve V",
+                "II, III ve IV",
+                "I, II, IV ve V",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 164,
+            "question": "Escher'in Paradoksunu anlatan Penrose merdivenleri aşağıdaki dizilerden hangisinde kullanılmıştır?",
+            "options": [
+                "Peaky Blinders",
+                "Squid Game",
+                "Dark",
+                "Westworld",
+                "Dexter"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 165,
+            "question": "Sanal kelimesiyle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sanal, gerçeğin zıttı olan bir kavramdır ve her zaman gerçek dışıdır.",
+                "Sanal kelimesi, görsel imgelerle ilgilidir ve diğer duyusal deneyimleri kapsamaz.",
+                "Sanal kelimesi, sadece son yıllarda üretilmesine başlanmış bir terimdir ve tarihsel bir geçmişi yoktur.",
+                "Sanal kelimesi, sadece bilgisayarlar ve teknoloji ile ilişkilidir ve diğer bağlamlarda kullanılmaz.",
+                "Sanal kelimesi Latince kökenli olup, potansiyel varlığı ifade eder."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 166,
+            "question": "Artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklik ile gelecekte ortaya çıkacak diğer olası gerçeklikleri tek bir çatı altında toplayan terim aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanal gerçeklik",
+                "Genişletilmiş gerçeklik",
+                "Bütünleşmiş gerçeklik",
+                "Yüzey gerçeklik",
+                "Meta gerçeklik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 167,
+            "question": "Aşağıdaki hangi bilgi ve veri arasındaki temel farklardan biridir?",
+            "options": [
+                "İnfografikler veri doğruluğu bakımından daha güçlüdür, datavizler ise daha az doğrudur.",
+                "İnfografikler büyük verileri görselleştirmek için kullanılırken, datavizler estetik açıdan daha güçlüdür.",
+                "İnfografikler bilgisayarlar aracılığıyla otomatik olarak üretilir, datavizler ise elle çizilir.",
+                "İnfografikler estetik açıdan güçlüdür, datavizler ise veri açısından zengindir.",
+                "İnfografikler farklı verilerle yeniden kurgulanabilirken datavizler manuel müdahale gerektirir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 168,
+            "question": "Yukarıdaki cümlede boş bırakılan yeri aşağıdaki grafik türlerinden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Pasta grafiği",
+                "Dağılım grafiği",
+                "Kademeler grafiği",
+                "Yüzey grafiği",
+                "Çubuk grafiği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 169,
+            "question": "Ziyaretçilerin, Guardian'da yayınlanan 10 makaleden elde edilen ve duygusal olan anahtar kelimelere verdikleri tepkileri resmeden eser aşağıdakilerden hangisidir?",
+            "options": [
+                "The Painting Fool",
+                "AARON",
+                "OpenAl",
+                "Brain Team",
+                "DALL-E"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 170,
+            "question": "Dijital oyun sanatı (game art) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dijital oyun sanatı, dijital oyunlardaki şiddet içeriğini desteklemek amacıyla oluşturulan bir türdür.",
+                "Dijital oyun sanatı grafikleri, ticari dijital oyunlardan daha gelişmiş ve kalitelidir.",
+                "Dijital oyun sanatı örnekleri, genellikle müze ve galerilerde sergilenmek üzere üretilir.",
+                "Dijital oyun sanatı, sadece ABD'de üretilmiştir.",
+                "Dijital oyun sanatı örnekleri bağımsız ve tanımsızdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 171,
+            "question": "Alan Stanfor'un kullanıcıyla rüya/gerçeklik arasında neredeyse kullanıcının bilinçaltına seyahat etmesini izin veren bir deneyimi sunan Kullanıcının dijital avatarları, içerik gönderdikleri bu sonsuz alanda her türden değişiklik yapma özgürlüğüne sahiptirler.<br>Yukarıdaki paragrafların boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Etkileşimli",
+                "Artiverse'ü",
+                "Yapay zekası",
+                "Mekan",
+                "Soyutlaması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 172,
+            "question": "Anlam veya etkinin kısmen veya tamamen görsel yollarla kelime veya harf kalıpları ve diğer tipografik araçlar kullanılarak açıklandığı şiir türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Somut şiir",
+                "Yeni şiir",
+                "Pastoral şiir",
+                "Kinetik şiir",
+                "Lirik şiir"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 173,
+            "question": "Aşağıdakilerden hangisi kültürün oyunlaşması bağlamında bir örnek <u>değildir</u>?",
+            "options": [
+                "Mobil medyaların katılımcı deneyimler sunacak şekilde transmedyal anlatıları genişletmesi",
+                "Filmlerin olay örgülerinin izleyiciye oyunsal bir seyir deneyimi sunması",
+                "Medya ürünlerinde oyunsal öğelerin görünürlüğünün artması",
+                "Medya anlatı modellerinin basitleşmesi",
+                "Oyunların eğitim, siyaset, haber, sanat gibi ilk anda oyun oynama ile birlikte düşünülmeyen alanlara ilerlemesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 174,
+            "question": "Oyun mekanikleri kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Oyunun görsel-işitsel öğelerini ifade eder.",
+                "Oyunun kazanılması için gerekli taktikleri ifade eder.",
+                "Oyunun oynanacağı donanım özelliklerini ifade eder.",
+                "Oyunların oynanacağı platformun özelliklerini ifade eder.",
+                "Oyun mekanikleri oyuncuların sistem ile nasıl ilişki kuracağını belirleyen kurallardır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 175,
+            "question": "Türkiye'deki Yeni Medya Sanatı alanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Dünyadaki ilk eserlerin Türkiye'den çıkmıştır.",
+                "Bu alanlara özel yüksek öğretim ilk Türkiye'de başlamıştır.",
+                "Yeni Medya ile Geleneksel Sanatların birleştirildiği çokça örnek vardır.",
+                "Yeni Medya Sanatı alanında bolca teşvik verilmektedir.",
+                "Türkiye'de geç yaygınlaşmasına karşın dünya çapında yetkin sanatçılarımız vardır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 176,
+            "question": "Generatif sanat sistemlerinin dört ana bileşeni aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Renkler, Formlar, Sanatçı, İzleyici",
+                "Bilgisayar, Fırça, Tuval, Duvar",
+                "Sanatçı, Galeri, Küratör, Eleştirmen",
+                "Varlıklar, Süreç, Çevresel Etkileşim, Duyusal Çıktılar",
+                "Varlıklar, Yapılar, Etkinlikler, Sonuçlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 177,
+            "question": "Bilgisayar temelli sanat eserinin içeriği ve formunun, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Cl-art",
+                "CA-art",
+                "VR-art",
+                "R-art",
+                "Evo-art"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 178,
+            "question": "Aşağıdakilerden hangisi IDE'nin tanımıdır?",
+            "options": [
+                "Var olan bir formu yeni bir şey oluşturmak için manipüle etmek için kullanılan sistemdir.",
+                "Nesneleri kendine benzer şekilde tekrar etme sürecidir.",
+                "Hızlı ve kolay şekilde yazılım geliştirilebilmesi amacıyla oluşturulmuş yazılım uygulamasıdır.",
+                "İnsan beyninin bilgi işleme tekniğinden esinlenerek geliştirilmiş bir bilgi işlem teknolojisidir.",
+                "Bir sürecin çıktısı üzerinde etkisi olan bir değerlendirme raporudur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 179,
+            "question": "2020 yılından itibaren dijital iş üreten sanatçılara destek ve eğitim programı olarak ortaya çıkan Hande Şekerciler ve Arda Yalkın tarafından yürütülen yeni medya sanatını İstanbul'da temsil eden oluşumlardandır.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Piksel",
+                "Zoom",
+                "Entropi",
+                "Digilogue",
+                "Bit"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        },
+        {
+            "id": 180,
+            "question": "Hangisi Yeni Medya Sanatı alt başlıklarından biridir?",
+            "options": [
+                "Ebru",
+                "Baskı",
+                "Mektup",
+                "Minyatür",
+                "E-Posta"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626546"
+        }
+    ]
+}

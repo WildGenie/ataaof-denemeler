@@ -1,0 +1,1803 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş hizmetlerinden biri <u>değildir</u>?",
+            "options": [
+                "İşe girecek bireyleri tespit etme",
+                "Mesleki yönlendirme",
+                "Kamu veya özel sektörde işe yerleştirme",
+                "İş arama becerileri ve mülakat teknikleri eğitimi",
+                "Aktif iş gücü programlarına yönlendirme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi kaynaştırma uygulamalarında kullanılabilecek düzenlemelerden biri <u>değildir</u>?",
+            "options": [
+                "Videolarda sesli betimleme",
+                "Videolarda altyazı kullanımı",
+                "Büyük puntolu yazı kullanımı",
+                "Küçük puntolu yazı kullanımı",
+                "Olguları betimleyen görsel kullanımı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 3,
+            "question": "I. Engelli aylığı<br>II. Muhtaç aylığı<br>III. Spor eğitimi desteği<br>IV. Evde bakım desteği<br>Yukarıda sıralanan sosyal destek hizmetlerinden hangileri Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından verilir?",
+            "options": [
+                "I ve II",
+                "II ve IV",
+                "I, II ve III",
+                "I, II ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 4,
+            "question": "Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle ilişkilidir?",
+            "options": [
+                "Kullanımda esneklik",
+                "Algılanabilir bilgi",
+                "Eşitlikçi kullanım",
+                "Hata toleransı",
+                "Düşük fiziksel çaba"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 5,
+            "question": "Engelli bireylerin eğitimlerini düzenleyen, özel eğitimin ilkelerinin belirlendiği yasal düzenleme aşağıdakilerden hangisidir?",
+            "options": [
+                "Türkiye Cumhuriyeti Anayasası",
+                "Engelliler Hakkında Kanun",
+                "Özel Eğitim Hakkında Kanun Hükmünde Kararname",
+                "Avrupa Sosyal Şartı",
+                "Çocuk Hakları Bildirgesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 6,
+            "question": "I. Kullanımda seçenekler sunar.<br>II. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar.<br>III. Kullanım hızına uyumluluk sağlar.<br>Yukarıdakilerden hangisi/hangileri kullanımda esneklik ilkesinin sağladıkları arasında yer alır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 7,
+            "question": "Fiziksel, zihinsel, ruhsal ve duyusal yetilerinde çeşitli düzeyde kayıplarından dolayı topluma diğer bireylerle birlikte eşit koşullarda tam ve etkin katılım sağlayamayan bireye ne ad verilir?",
+            "options": [
+                "Engelli birey",
+                "Üstün zekalı birey",
+                "Bozukluğu olan birey",
+                "Farklı birey",
+                "Azınlık birey"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 8,
+            "question": "Aşağıdakilerden hangisi evrensel tasarım ilkelerinden biri <u>değildir</u>?",
+            "options": [
+                "Basit ve Sezgisel Kullanım",
+                "Çevreye duyarlılık",
+                "Hata Toleransı",
+                "Algılanabilir Bilgi",
+                "Kullanımda Esneklik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdaki yardımcı teknolojilerden hangisi işitme yetersizliği olan bireyler için tasarlanmış ürünlerden biridir?",
+            "options": [
+                "Braille",
+                "Blind Cap",
+                "Sesli kitap",
+                "WeWalk akıllı baston",
+                "Sound Shirt"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 10,
+            "question": "Ürünlerin, çevrenin/mekânın, programların ve hizmetlerin uyarlamaya veya özel bir düzenlemeye ya da tasarıma ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlanmasına ne ad verilir?",
+            "options": [
+                "Kaynaştırma",
+                "Evrensel tasarım",
+                "Yardımcı teknoloji",
+                "Kapsayıcılık",
+                "Erişilebilirlik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 11,
+            "question": "Kullanıcıların ihtiyaçlarının araştırılması, tasarım odaklı düşüncenin ilk aşaması aşağıdakilerden hangisidir?",
+            "options": [
+                "Açıklama",
+                "Araştırma",
+                "Test",
+                "Empati"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 12,
+            "question": "Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Duygu ve davranış bozukluğu",
+                "Zihinsel yetersizlik",
+                "Görme yetersizliği",
+                "Fiziksel yetersizlik",
+                "İşitme yetersizliği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 13,
+            "question": "Dijital ortam tasarımlarında hareketsizlik veya hareketliliğinin kullanıcılar açısından verimli, konforlu ve minimum yorgunlukla kullanılabilir olmasını ifade eden evrensel tasarım ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Düşük fiziksel çaba",
+                "Kullanımda esneklik",
+                "Adil, eşitlikçi kullanım",
+                "Hatalara tolerans",
+                "Basit ve sezgisel kullanım"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 14,
+            "question": "Tasarlanan dijital ortamın, her kullanıcısı için kullanım şeklinin aynı veya benzer olmasını gerektiren ilke aşağıdakilerden hangisidir?",
+            "options": [
+                "Algılanabilir bilgi",
+                "Kullanımda esneklik",
+                "Dijital yetkinlik",
+                "Adil, eşitlikçi kullanım",
+                "Basit ve sezgisel kullanım"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 15,
+            "question": "Rastlantısal olarak görülebilecek ancak ortak bir kültürdeki insanlara anlam ifade eden kelimeler veya kelime öbekleridir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Gönderen",
+                "Sembol",
+                "Gösterenler",
+                "Mesaj",
+                "Tasarımcı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 16,
+            "question": "Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine anlaşmaya ne ad verilir?",
+            "options": [
+                "İndeks",
+                "Düz anlatım",
+                "Sembol",
+                "Yan anlam",
+                "Uylaşım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 17,
+            "question": "Engelliler için görsel tasarımda tipografi kullanımı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Metinleri okumayı zorlaştıran arka plan imaj ve renk kullanımından kaçınılmalıdır.",
+                "Metin çok uzun değilse tırnaklı ve süslü font kullanımı tercih edilmelidir.",
+                "Küçük yazı tipi ve harf gövdesindeki ince ayrıntılar (serifli) bulunan yazı fontları tercih edilmemelidir.",
+                "Hedef kitlenin iyi araştırılması gerekir, yetersizlik türüne göre gereksinim bilinmelidir.",
+                "Disleksi veya dikkat eksikliği olan bireylerin dikkat sürelerinin kısa olması nedeniyle kolay okunabilir font seçilmelidir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 18,
+            "question": "Dijital teknolojilerin karmaşıklığı, düşük gelir, işsizlik, eşlik eden sağlık sorunları, düşük sosyal statü, engel durumları ve sınırlı eğitim fırsatları gibi faktörlerin internet kullanımını sınırlandırması nedeniyle bireylerin sosyal dışlanma yaşamasına ne ad verilir?",
+            "options": [
+                "Dijital Katılım",
+                "Siber Zorbalık",
+                "Dijital Uçurum",
+                "Dijital Obezite",
+                "Dijital Farkındalık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 19,
+            "question": "Fiziksel engelli bir öğrenci için bilgisayar faresinin hem sağ hem sol elle kullanılabilir şekilde tasarlanması evrensel tasarımın aşağıdaki ilkelerinden hangisi ile ilişkilidir?",
+            "options": [
+                "Kullanımda esneklik",
+                "Algılanabilir bilgi",
+                "Hatalara tolerans",
+                "Basit ve sezgisel kullanım",
+                "Düşük fiziksel çaba"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 20,
+            "question": "Bir haber sitesinde çok sayıda metin, resim, video ve fotoğraf çok hızlı şekilde değişmekte ve her içerik birlikte görüntülenebilmektedir. Yukarıdaki örnek dijital ortamın aşağıdaki özelliklerinden hangisi ile ilişkilidir?",
+            "options": [
+                "Yaygınlık",
+                "Yakınsaklık",
+                "Bağlantısallık",
+                "Akışkanlık",
+                "Asimetriklik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "634882"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş koçluğu hizmetlerinden biri <u>değildir</u>?",
+            "options": [
+                "İşe girecek bireyleri tespit etme",
+                "İş arama becerileri ve mülakat teknikleri eğitimi",
+                "Mesleki yönlendirme",
+                "Aktif iş gücü programlarına yönlendirme",
+                "Kamu veya özel sektörde işe yerleştirme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 22,
+            "question": "Yukarıda \"erken müdahale\" uygulamasına yönelik ifadelerden hangileri doğrudur? I. Doğumdan 5 yaşına kadar olan risk altındaki çocukları kapsar. II. Yetersizliğin etkisini azaltmak üzere düzenlenir. III. İlerleyen dönemde öğrenme ve gelişim sorunlarının ortaya çıkmasını önler. IV. Ailelerin dahil olmadığı, öğretmen merkezli uygulamalardır. V. Terapi, tedavi, eğitim programı, beslenme müdahalesi veya aile desteği gibi düzenlemeleri kapsar.",
+            "options": [
+                "I, ve III",
+                "I, II ve III",
+                "II, III ve IV",
+                "II, III, IV ve V",
+                "I, II, III ve V"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi kaynaştırma düzenlemelerinden biri <u>değildir</u>?",
+            "options": [
+                "Videolarda sesli betimleme",
+                "Videolarda altyazı kullanımı",
+                "Küçük puntolu yazı kullanımı",
+                "Olguları betimleyen görsel kullanımı",
+                "Büyük puntolu yazı kullanımı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 24,
+            "question": "Engel döngüsü aşağıdakilerin hangisinde sırayla ve doğru olarak verilmiştir?",
+            "options": [
+                "Bozukluk-Yetersizlik-Eksiklik-Engel",
+                "Bozukluk-Zedelenme-Yetersizlik-Engel",
+                "Zedelenme-Eksiklik-Yetersizlik -Bozukluk",
+                "Zedelenme-Bozukluk-Engel-Yetersizlik",
+                "Engel-Bozukluk-Zedelenme-Yetersizlik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 25,
+            "question": "Yukarıda sıralanan sosyal destek hizmetlerinden hangileri Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından verilir? I. Engelli aylığı II. Muhtaç aylığı III. Spor eğitimi desteği IV. Evde bakım desteği",
+            "options": [
+                "I ve II",
+                "II ve IV",
+                "I, II ve III",
+                "I, II ve IV",
+                "I, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 26,
+            "question": "Yukarıdakilerden hangisi/hangileri kullanımda esneklik ilkesinin sağladıkları arasında yer alır? I. Kullanımda seçenekler sunar. II. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar. III. Kullanım hızına uyumluluk sağlar.",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdaki hizmetlerden hangisi e-erişilebilirlik hizmetleri arasında yer alır?",
+            "options": [
+                "Telefon rehberi",
+                "Bina içindeki renkli bilgilendirme levhaları",
+                "Akıllı baston",
+                "e-Devlet kapısı uygulamasının disleksi eklentisi",
+                "VR gözlük"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 28,
+            "question": "Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir?",
+            "options": [
+                "Erişilebilirlik",
+                "Bütünleştirme",
+                "Kaynaştırma",
+                "Kapsayıcılık",
+                "Evrensellik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 29,
+            "question": "Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilşkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle İlişkilidir?",
+            "options": [
+                "Hata toleransı",
+                "Kullanımda esneklik",
+                "Düşük fiziksel çaba",
+                "Eşitlikçi kullanım",
+                "Algılanabilir bilgi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 30,
+            "question": "Konu hakkındaki bilgilerin bir araya getirilerek değerlendirilip taslaklar ya da eskizler oluşturulduğu görsel iletişim tasarım süreci aşaması aşağıdakilerden hangisidir?",
+            "options": [
+                "Araştırma (bilgi toplama)",
+                "Fikir üretimi (yaratıcılık ve buluş süreci)",
+                "Kavramların geliştirilmesi (çözüm oluşturma)",
+                "Tasarım uygulamasının ortaya konması (uygulama)",
+                "Tasarımın değerlendirilmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 31,
+            "question": "Yukarıda yardımcı teknolojiler ile ilgili ifadelerden hangileri doğrudur? I. Yardımcı teknolojiler engelli bireylerin günlük yaşam aktivitelerine pratik çözümler sağlar. II. Yardımcı teknolojiler engelli bireylerin işlevsel yeteneklerini artırır, sürdürür veya iyileştirir. III. Yardımcı teknolojiler yalnızca engelli bireyler için geliştirilmiş, sosyal destek hizmetidir. IV. Yardımcı teknoloji bir ekipman parçası, bir yazılım programı veya bir ürün sistemdir.",
+            "options": [
+                "I ve II",
+                "I ve III",
+                "I, II ve III",
+                "I, II ve IV",
+                "II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 32,
+            "question": "Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine anlaşmaya ne ad verilir?",
+            "options": [
+                "Uylaşım",
+                "Yan anlam",
+                "Düz anlatım",
+                "Sembol",
+                "İndeks"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 33,
+            "question": "Yukarıdaki ifadelerden özel gereksinimli bireylere yönelik tipografi düzenlemelerinden hangileri doğrudur? I. Süslü yazı karakterinden kaçınılmalıdır. II. Okumayı zorlaştıran arka plan imaj ve renklerinden kaçınılmalıdır. III. Bir tasarımda olabildiğince fazla yazı tipi kullanılmalıdır.",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 34,
+            "question": "Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Zihinsel yetersizlik",
+                "Görme yetersizliği",
+                "İşitme yetersizliği",
+                "Duygu ve davranış bozukluğu",
+                "Fiziksel yetersizlik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 35,
+            "question": "Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir?",
+            "options": [
+                "Kullanıcı dostu",
+                "Kullanıcı düşüncesi",
+                "Kullanıcı deneyimi",
+                "Kullanıcı arayüzü",
+                "Kullanıcı tasarımı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 36,
+            "question": "Dijital ortamlarda bilgi sunumunda yoğun paragraflar yerine kısa metinler kullanmak aşağıdaki evrensel tasarım ilkelerinden hangisi ile ilgilidir?",
+            "options": [
+                "Algılanabilir bilgi",
+                "Basit ve sezgisel kullanım",
+                "Kullanımda esneklik",
+                "Düşük fiziksel çaba",
+                "Hata toleransı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 37,
+            "question": "Radyo dinlemek ve televizyon izlemek için podcast, youtube, ilgili web sayfaları ya da çeşitli mobil uygulamalar gibi yeni dijital ortamların kullanılabilmesi dijital ortamların aşağıdaki özelliklerinden hangisi ile İlişkilidir?",
+            "options": [
+                "Bağlantısallık",
+                "Çeşitlilik",
+                "Akışkanlık",
+                "Yakınsaklık",
+                "Geçişlilik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 38,
+            "question": "Aşağıdakilerden hangisi fiziksel engelli bireyler için tasarlanmış teknolojilerden biridir?",
+            "options": [
+                "Videolar için altyazılar",
+                "Oyun çubukları ve uyarlanmış fare",
+                "Sesli kitaplar",
+                "Braille ekranları",
+                "Yazılı metinler için titreşimler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 39,
+            "question": "Aşağıdakilerden hangisi evrensel tasarım ilkelerinden biri <u>değildir</u>?",
+            "options": [
+                "Adil, eşitlikçi kullanım",
+                "Kullanımda esneklik",
+                "Basit ve sezgisel kullanım",
+                "Algılanabilir bilgi",
+                "Yakınsaklık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 40,
+            "question": "Dijital ortam tasarımlarında hareketsizlik veya hareketliliğinin kullanıcılar açısından verimli, konforlu ve minimum yorgunlukla kullanılabilir olmasını ifade eden evrensel tasarım ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanımda esneklik",
+                "Adil, eşitlikçi kullanım",
+                "Düşük fiziksel çaba",
+                "Hatalara tolerans",
+                "Basit ve sezgisel kullanım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "634903"
+        },
+        {
+            "id": 41,
+            "question": "Engellilerin haklarına kavuştuğu ilk yasal düzenleme aşağıdakilerden hangisidir?",
+            "options": [
+                "İnsan Hakları Evrensel Bildirgesi",
+                "Avrupa Sosyal Şartı",
+                "Türkiye Cumhuriyeri Anayasası",
+                "Çocuk Hakları Bildirgesi",
+                "Engelliler Hakkında Kanun"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 42,
+            "question": "Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir?",
+            "options": [
+                "Evrensellik",
+                "Erişilebilirlik",
+                "Kaynaştırma",
+                "Bütünleştirme",
+                "Kapsayıcılık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 43,
+            "question": "Sabah elimize aldığımız diş fırçamızdan kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir?",
+            "options": [
+                "Kullanıcı tasarımı",
+                "Kullanıcı dostu",
+                "Kullanıcı deneyimi",
+                "Kullanıcı düşüncesi",
+                "Kullanıcı arayüzü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 44,
+            "question": "Aşağıdakilerden hangisi dijital ortamın özelliklerinden biri <u>değildir</u>?",
+            "options": [
+                "Akışkanlık",
+                "Bağlantısallık",
+                "Yakınsallık",
+                "Çeşitlilik",
+                "Kapsayıcılık"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 45,
+            "question": "Aşağıdaki programlardan hangisi matematik becerilerinin geliştirilmesi için tasarlanmıştır?",
+            "options": [
+                "BOB BOOKS",
+                "123 ANIMAL COUNTING HD",
+                "HAPPY LITTLE FARMER",
+                "MY TALK MOBILE",
+                "PROLOQUO2GO"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 46,
+            "question": "Aşağıdakilerden hangisi işitme kayıplı bireyler için tasarlanan erişilebilir tasarım uygulamalarından biri <u>değildir</u>?",
+            "options": [
+                "Yapay zekalı beyaz baston",
+                "Ontenna giyilebilir teknoloji",
+                "Commu konsept cihazı",
+                "HearWear Projesi",
+                "Hearingbot yapay zeka destekli robot"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 47,
+            "question": "Aşağıdakilerden hangisi erişilebilirliğin eğitim boyutuyla ilgili konularından biridir?",
+            "options": [
+                "Okul binasında rampa kullanılması",
+                "Teknolojik araçların temin edilmesi",
+                "Sınıf ortamında taşınabilir koltuk kullanılması",
+                "Müfredatın uyarlanması",
+                "Sınıf ışık düzeyinin uyarlanması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 48,
+            "question": "I. Robotlara insansı özellikler kazandırılır.<br>II. İnsan-bilgisayar etkileşimidir.<br>III. Otizmli bireylerde etkililiği sınırlıdır.<br>Yukarıdaki robot teknolojisi ile ilgili bilgilerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 49,
+            "question": "Türkiye'de özel gereksinimli bireylerin kendilerine sunulan çeşitli hizmetlerden ve desteklerden yararlanabilmesi için aldıkları sağlık kurulu raporu aşağıdakilerden hangisidir?",
+            "options": [
+                "ASPB",
+                "BEP",
+                "RAM",
+                "KHK",
+                "ÇÖZGER"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 50,
+            "question": "I. İşitme kayıplı bireylere acil durumda hizmet sunan Sağlık Bakanlığı Engelsiz Sağlık İletişim Merkezi (ESİM) hizmet vermektedir.<br>II. Sadece işitme kayıplı bireylere özel acil servisler kurulmuştur.<br>III. 112 acil servisinde özel TİD tercümanları görevlendirilmiştir.<br>İşitme kayıplı bireylere sunulan sağlık hizmetleriyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 51,
+            "question": "I. Meslek yüksekokullarının odyometri programından mezun olanlar yapabilir.<br>II. Ölçümü yapanlara odyometri teknikeri adı verilir.<br>III. Odyologlar ölçüm aşamasına dahil olmaz.<br>Odyogram ölçümüyle ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 52,
+            "question": "Aşağıdakilerden hangisi optik olmayan araçlardan biridir?",
+            "options": [
+                "Fosforlu bant",
+                "Biyoptik tasarımlar",
+                "Büyüteçli gözlük",
+                "Ayaklı büyüteçler",
+                "Teleskoplar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 53,
+            "question": "İç kulakta yer alan işitme organı (koklea veya salyangoz) ya da beyne giden işitme sinirlerindeki bozukluk sonucu oluşan işitme kaybı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Merkezi işitme kaybı",
+                "İletimsel işitme kaybı",
+                "Karışık tip işitme kaybı",
+                "Duyu-sinirsel işitme kaybı",
+                "Şiddetli işitme kaybı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 54,
+            "question": "I. Psilomotor gelişim yavaşlar.<br>II. Yineleyici davranışlar ortaya çıkar.<br>III. Omurga geriye doğru güçlenir.<br>Görme yetersizliğinin gelişim üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 55,
+            "question": "Aşağıdakilerden hangisi yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan uygulamalardan biridir?",
+            "options": [
+                "VoiceOver",
+                "Seeing AI",
+                "NVDA",
+                "JAWS",
+                "GVZ NetOkur"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 56,
+            "question": "Aşağıdakilerden hangisi ses çıkışlı (konuşma üreten) iletişim araçlarından biridir?",
+            "options": [
+                "VOCA",
+                "Akıllı saat",
+                "WeWalk",
+                "Beyaz baston",
+                "İşitme cihazı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 57,
+            "question": "Aşağıdakilerden hangisi düşük düzey yardımcı teknolojilerden biridir?",
+            "options": [
+                "Ses kayıt cihazı",
+                "Hesap makinesi",
+                "FM sistemler",
+                "İletişim panosu",
+                "İşitme cihazı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 58,
+            "question": "Aşağıdakilerden hangisi doğum öncesi süreçte gelişen, gözde renk pigmentlerinin olmadığı kalıtımsal görme yetersizliği türüdür?",
+            "options": [
+                "Maküler dejenerasyon",
+                "Albinizm",
+                "Kortikal görme yetersizliği",
+                "Diyabetik retinopati",
+                "Optik sinir atrofisi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 59,
+            "question": "Yüksek düzey teknolojilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Maliyeti çok düşüktür.",
+                "Mekanik aksamları tek fonksiyonludur.",
+                "Kullanılabilirliği basit yapıdadır.",
+                "Özelleştirilebilmesi zordur.",
+                "Bilgisayar yazılımı içerebilen karmaşık yapıdadır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 60,
+            "question": "Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?",
+            "options": [
+                "Tekerlekli sandalye binişli otobüs",
+                "Mikro anahtarlı bebek yatağı",
+                "Havuza girme düzeneği",
+                "Alt yazı içeren videolar",
+                "Braille baskı sistemleri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "634892"
+        },
+        {
+            "id": 61,
+            "question": "Fiziksel, zihinsel, ruhsal ve duyusal yetilerinde çeşitli düzeyde kayıplarından dolayı topluma diğer bireylerle birlikte eşit koşullarda tam ve etkin katılım sağlayamayan bireye ne ad verilir?",
+            "options": [
+                "Farklı birey",
+                "Engelli birey (özel gereksinimli birey)",
+                "Azınlık birey",
+                "Üstün zekalı birey",
+                "Bozukluğu olan birey"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 62,
+            "question": "Ürünlerin, çevrenin/mekânın, programların ve hizmetlerin uyarlamaya veya özel bir düzenlemeye ya da tasarıma ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlanmasına ne ad verilir?",
+            "options": [
+                "Yardımcı teknoloji",
+                "Kaynaştırma",
+                "Kapsayıcılık",
+                "Evrensel tasarım",
+                "Erişilebilirlik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 63,
+            "question": "Kullanıcıların ihtiyaçlarının araştırıldığı, düşüncenin ilk aşaması tasarım odaklı aşağıdakilerden hangisidir?",
+            "options": [
+                "Açıklama",
+                "Test",
+                "Empati",
+                "Araştırma",
+                "Prototip"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 64,
+            "question": "Fiziksel engelli bir öğrenci için bilgisayar faresinin hem sağ hem sol elle kullanılabilir şekilde tasarlanması evrensel tasarımın aşağıdaki ilkelerinden hangisi ile ilişkilidir?",
+            "options": [
+                "Hatalara tolerans",
+                "Algılanabilir bilgi",
+                "Basit ve sezgisel kullanım",
+                "Düşük fiziksel çaba",
+                "Kullanımda esneklik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 65,
+            "question": "Gelişimsel yetersizliği olan bireylerle yaygın olarak kullanılan; etkinlik çizelgeleri, takvimler, kontrol listeleri, renk kodları, görsel senaryolar, grafik düzenleyiciler/şemalar, kural hatırlatıcı kartlar, resim ve fotoğraflar, resim değiş tokuşuna dayalı materyaller aşağıdaki erişilebilirlik çalışmalarından hangisi kapsamındadır?",
+            "options": [
+                "Görsel destekler",
+                "Müfredat uyarlaması",
+                "Öğretim yöntemi uyarlaması",
+                "Fiziksel düzenleme",
+                "İleri düzey teknoloji"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 66,
+            "question": "I. Robotlara insansı özellikler kazandırılır.<br>II. İnsan-bilgisayar etkileşimidir.<br>III. Otizmli bireylerde etkililiği sınırlıdır.<br>Yukarıdaki robot teknolojisi ile ilgili bilgilerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 67,
+            "question": "Bireyin özel eğitim hizmetlerinden yararlanabilmesi için tıbbi tanı sonrası eğitsel tanı alması gerekir. Yukarıdaki bilgiye göre, eğitsel tanı aşağıdaki hangi kurum tarafından verilir?",
+            "options": [
+                "Psikolog kliniği",
+                "Rehabilitasyon Merkezi",
+                "Özel eğitim uygulama okulu",
+                "Acil servis",
+                "Rehberlik ve Araştırma Merkezi (RAM)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 68,
+            "question": "Zihin yetersizliğinin tanımında bahsedilen \"uyumsal davranışlar\"ı kapsayan kategoriler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Kavramsal-işlevsel-dilsel",
+                "İşlevsel-kişiler arası-dil",
+                "Akademik-günlük-işlevsel",
+                "Kavramsal-sosyal-pratik",
+                "Güvenlik-iş/uğraşı-akademik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 69,
+            "question": "Aşağıdakilerden hangisi işitme kayıplı bireylerin dil ve iletişim düzeylerini etkileyen etmenlerden biri <u>değildir</u>?",
+            "options": [
+                "İşitme Kayıplı Bireyin Fiziksel Özellikleri",
+                "İşitme Kayıplı Olma Yaşı ve İşitme Kaybının Derecesi",
+                "Cihaz Takma Yaşı ve Süresi",
+                "Eğitim Ortamı ve Yaklaşımı",
+                "Ailenin Sosyo-Kültürel ve Ekonomik Düzeyi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 70,
+            "question": "İç kulakta yer alan işitme organı (koklea veya salyangoz) ya da beyne giden işitme sinirlerindeki bozukluk sonucu oluşan işitme kaybı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Karışık tip işitme kaybı",
+                "Duyu-sinirsel işitme kaybı",
+                "Merkezi işitme kaybı",
+                "Şiddetli işitme kaybı",
+                "İletimsel işitme kaybı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 71,
+            "question": "Özel gereksinimli bireylerin, engelli kimlik kartı alabilmeleri için engel oranı en az yüzde kaç olmalıdır?",
+            "options": [
+                "%20",
+                "%30",
+                "%40",
+                "%50",
+                "%40"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 72,
+            "question": "Özel gereksinimli öğrencilerin ihtiyacına uygun olarak eğitim aldıkları sınıf dışı eğitim ortamına ne ad verilir?",
+            "options": [
+                "Bütünleştirme ortamı",
+                "Kaynaştırma sınıfı",
+                "Destek eğitim odası",
+                "Kaynaştırma odası",
+                "Özel eğitim sınıfı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 73,
+            "question": "Aşağıdakilerden hangisi az görenler için <u>optik olmayan</u> araçlardan biridir?",
+            "options": [
+                "Büyüteçli gözlük",
+                "Kontrast (şekil-zemin zıtlığı) artıran araçlar",
+                "Teleskoplar",
+                "Biyoptik tasarımlar",
+                "Elle tutulan tek gözle kullanılan araçlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 74,
+            "question": "Aşağıdakilerden hangisi doğum öncesi süreçte gelişen, gözde renk pigmentlerinin olmadığı kalıtımsal görme yetersizliği türüdür?",
+            "options": [
+                "Albinizm",
+                "Optik sinir atrofisi",
+                "Kortikal görme yetersizliği",
+                "Maküler dejenerasyon",
+                "Diyabetik retinopati"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 75,
+            "question": "Aşağıdakilerden hangisi görme yetersizliği olan bireylere yönelik erişilebilir tasarım uygulamaları ve bağımsız hareket becerilerine ilişkin araçlardan biridir?",
+            "options": [
+                "Küptaş kasa",
+                "Akıllı/sesli baston",
+                "Braille alfabesi",
+                "Seeing Al uygulaması",
+                "Kinestetik kum"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi düşük düzey yardımcı teknolojilerden biridir?",
+            "options": [
+                "FM sistemler",
+                "İşitme cihazı",
+                "Hesap makinesi",
+                "İletişim panosu",
+                "Ses kayıt cihazı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 77,
+            "question": "Aşağıdakilerden hangisi görme yetersizliği olan bireylerin matematik öğretiminde kullanılan araçlardan biridir?",
+            "options": [
+                "Beyaz baston",
+                "Rehber köpek",
+                "Gözlük",
+                "JAWS",
+                "Küptaş"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 78,
+            "question": "Aşağıdakilerden hangisi ACYE olan bireylerin seyahat ve ulaşım araçlarında kullandıkları yardımcı teknolojilerden biridir?",
+            "options": [
+                "Karşıdan karşıya geçişte yardım butonu",
+                "Uyarlanmış banyo oturağı",
+                "Uyarlanmış tabak",
+                "Dokunmatik ekran",
+                "Akıllı saat"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?",
+            "options": [
+                "Mikro anahtarlı bebek yatağı",
+                "Braille baskı sistemleri",
+                "Tekerlekli sandalye binişli otobüs",
+                "Alt yazı içeren videolar",
+                "Havuza girme düzeneği"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 80,
+            "question": "Aşağıdakilerden hangisi ses çıkışlı (konuşma üreten) iletişim araçlarından biridir?",
+            "options": [
+                "Akıllı saat",
+                "WeWalk",
+                "Beyaz baston",
+                "VOCA",
+                "İşitme cihazı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "634928"
+        },
+        {
+            "id": 81,
+            "question": "Ürünlerin, çevrenin/mekânın, programların ve hizmetlerin uyarlamaya veya özel bir düzenlemeye ya da tasarıma ihtiyaç duymadan, mümkün olan en geniş ölçekte insanlar tarafından kullanılabilecek şekilde tasarlanmasına ne ad verilir?",
+            "options": [
+                "Erişilebilirlik",
+                "Yardımcı teknoloji",
+                "Kapsayıcılık",
+                "Kaynaştırma",
+                "Evrensel tasarım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 82,
+            "question": "Yukarıda sıralanan sosyal destek hizmetlerinden hangileri Aile ve Sosyal Hizmetler Bakanlığı (ASHB) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından verilir? I. Engelli aylığı II. Muhtaç aylığı III. Spor eğitimi desteği IV. Evde bakım desteği",
+            "options": [
+                "I ve II",
+                "II ve IV",
+                "I, II ve III",
+                "I, II ve IV",
+                "I, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 83,
+            "question": "Engellilerin haklarına kavuştuğu ilk yasal düzenleme aşağıdakilerden hangisidir?",
+            "options": [
+                "Avrupa Sosyal Şartı",
+                "İnsan Hakları Evrensel Bildirgesi",
+                "Engelliler Hakkında Kanun",
+                "Çocuk Hakları Bildirgesi",
+                "Türkiye Cumhuriyeti Anayasası"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 84,
+            "question": "Yukarıdakilerden hangisi/hangileri kullanımda esneklik ilkesinin sağladıkları arasında yer alır? I. Kullanımda seçenekler sunar. II. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar. III. Kullanım hızına uyumluluk sağlar.",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 85,
+            "question": "Sabah elimize aldığımız diş fırçasından kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza kadar hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir?",
+            "options": [
+                "Kullanıcı tasarımı",
+                "Kullanıcı dostu",
+                "Kullanıcı deneyimi",
+                "Kullanıcı düşüncesi",
+                "Kullanıcı arayüzü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 86,
+            "question": "Fiziksel engelli bir öğrenci için bilgisayar faresinin hem sağ hem sol elle kullanılabilir şekilde tasarlanması evrensel tasarımın aşağıdaki ilkelerinden hangisi ile ilişkilidir?",
+            "options": [
+                "Kullanımda esneklik",
+                "Hatalara tolerans",
+                "Düşük fiziksel çaba",
+                "Algılanabilir bilgi",
+                "Basit ve sezgisel kullanım"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 87,
+            "question": "Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Zihinsel yetersizlik",
+                "Görme yetersizliği",
+                "Duygu ve davranış bozukluğu",
+                "Fiziksel yetersizlik",
+                "İşitme yetersizliği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 88,
+            "question": "I. Robotlara insansı özellikler kazandırılır. II. İnsan-bilgisayar etkileşimidir. III. Otizmli bireylerde etkililiği sınırlıdır. Yukarıdaki robot teknolojisi ile ilgili bilgilerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 89,
+            "question": "Bir haber sitesinde çok sayıda metin, resim, video ve fotoğraf çok hızlı şekilde değişmekte ve her içerik birlikte görüntülenebilmektedir. Yukarıdaki örnek dijital ortamın aşağıdaki özelliklerinden hangisi ile ilişkilidir?",
+            "options": [
+                "Akışkanlık",
+                "Yaygınlık",
+                "Asimetriklik",
+                "Bağlantısallık",
+                "Yakınsaklık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 90,
+            "question": "Belli rutinlere bağlı kalmak, sınırlı ilgi alanlarına sahip olma otizmin aşağıdaki özelliklerinden hangisinde yer alır?",
+            "options": [
+                "Psikomotor özellikler",
+                "İletişimsel özellikler",
+                "Bilişsel özellikler",
+                "Davranışsal özellikler",
+                "Kişisel özellikler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 91,
+            "question": "AAIDD'nin zihin yetersizliği tanımında yer alan uyumsal beceriler aşağıdakilerden hangisidir?",
+            "options": [
+                "Kavramsal, psikomotor ve iletişimsel davranışlar",
+                "Kavramsal, sosyal ve pratik uyumsal davranışlar",
+                "İletişimsel, dilsel ve toplumsal beceriler",
+                "Bilişsel, dilsel ve sosyal davranışlar",
+                "Bilişsel, psikomotor ve pratik uyumsal davranışlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 92,
+            "question": "Erken tanılama ve cihazın tüm gün takılı olması işitme kayıplı bireylerin dil ve iletişimlerini etkileyen aşağıdaki etmenlerden hangisiyle ilişkilidir?",
+            "options": [
+                "Zeka Düzeyi",
+                "Ailenin Sosyo-Kültürel ve Ekonomik Düzeyi",
+                "Eğitim Ortamı ve Yöntemi",
+                "Cihaz Takma Yaşı ve Süresi",
+                "İşitme Kaybı Olma Yaşı ve İşitme Kaybının Derecesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 93,
+            "question": "I. İşitme kayıplı bireylere acil durumda hizmet sunan Sağlık Bakanlığı Engelsiz Sağlık İletişim Merkezi (ESİM) hizmet vermektedir. II. Sadece işitme kayıplı bireylere özel acil servisler kurulmuştur. III. 112 acil servisinde özel TİD görevlendirilmiştir. İşitme kayıplı bireylere sunulan sağlık hizmetleriyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "I ve III",
+                "I ve II",
+                "Yalnız II",
+                "II ve III"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 94,
+            "question": "Aşağıdakilerden hangisi işitme kayıplı bireyler için tasarlanan erişilebilir tasarım uygulamalarından biri <u>değildir</u>?",
+            "options": [
+                "Yapay zekalı beyaz baston",
+                "Ontenna giyilebilir teknoloji",
+                "HearWear Projesi",
+                "Hearingbot yapay zeka destekli robot",
+                "Commu konsept cihazı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 95,
+            "question": "Aşağıdakilerden hangisi yönelim ve bağımsız hareketi destekleyecek tasarımlardan biri <u>değildir</u>?",
+            "options": [
+                "Sesli ve dokunsal mezuralar",
+                "Kavşaklarda dokunsal grafikler",
+                "Hafif taşınabilir bastonlar",
+                "Bina içi dokunsal numaralama sistemleri",
+                "İmza aparatı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 96,
+            "question": "Ege tamamen görme kayıplı bir yetişkindir. Bir festivale katılmak istemektedir. Yukarıdaki ifadeye göre aşağıdaki destek hizmetlerden hangisi Ege için en uygundur?",
+            "options": [
+                "Okuma çubuğu",
+                "Sesli kitap",
+                "Braille alfabe tableti",
+                "Rehber kişi/köpek",
+                "Elektronik duyma cihazı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 97,
+            "question": "Aşağıdakilerden hangisi düşük düzey yardımcı teknolojilerden biridir?",
+            "options": [
+                "İletişim panosu",
+                "Hesap makinesi",
+                "Ses kayıt cihazı",
+                "İşitme cihazı",
+                "FM sistemler"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 98,
+            "question": "Aşağıdakilerden hangisi doğum öncesi süreçte gelişen, gözde renk pigmentlerinin olmadığı kalıtımsal görme yetersizliği türüdür?",
+            "options": [
+                "Kortikal görme yetersizliği",
+                "Optik sinir atrofisi",
+                "Albinizm",
+                "Diyabetik retinopati",
+                "Maküler dejenerasyon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 99,
+            "question": "Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?",
+            "options": [
+                "Mikro anahtarlı bebek yatağı",
+                "Tekerlekli sandalye binişli otobüs",
+                "Braille baskı sistemleri",
+                "Alt yazı içeren videolar",
+                "Havuza girme düzeneği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 100,
+            "question": "Aşağıdakilerden hangisi ağır ve çoklu yetersizliği olan bireyler için erişilebilir teknoloji seçeneklerinden biri <u>değildir</u>?",
+            "options": [
+                "Dokunsal Braille baskı",
+                "Yardımcı dinleme sistemi",
+                "Ses kontrollü telefon",
+                "Erişilebilirlik sembolü",
+                "Yumuşak, mat renkli tasarım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "634895"
+        },
+        {
+            "id": 101,
+            "question": "Aşağıdakilerden hangisi engelli bireylerin istihdamında yer alan iş koçluğu hizmetlerinden biri <u>değildir</u>?",
+            "options": [
+                "Aktif iş gücü programlarına yönlendirme",
+                "İş arama becerileri ve mülakat teknikleri eğitimi",
+                "Kamu veya özel sektörde işe yerleştirme",
+                "İşe girecek bireyleri tespit etme",
+                "Mesleki yönlendirme"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 102,
+            "question": "Engelli bireylerin eğitimlerini düzenleyen, özel eğitimin ilkelerinin belirlendiği yasal düzenleme aşağıdakilerden hangisidir?",
+            "options": [
+                "Özel Eğitim Hakkında Kanun Hükmünde Kararname",
+                "Çocuk Hakları Bildirgesi",
+                "Türkiye Cumhuriyeti Anayasası",
+                "Engelliler Hakkında Kanun",
+                "Avrupa Sosyal Şartı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 103,
+            "question": "Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojilerinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasına ne ad verilir?",
+            "options": [
+                "Kaynaştırma",
+                "Erişilebilirlik",
+                "Engelleme",
+                "Evrensellik",
+                "Kapsayıcılık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 104,
+            "question": "Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle ilişkilidir?",
+            "options": [
+                "Eşitlikçi kullanım",
+                "Düşük fiziksel çaba",
+                "Algılanabilir bilgi",
+                "Kullanımda esneklik",
+                "Hata toleransı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 105,
+            "question": "Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Görme yetersizliği",
+                "İşitme yetersizliği",
+                "Fiziksel yetersizlik",
+                "Zihinsel yetersizlik",
+                "Duygu ve davranış bozukluğu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 106,
+            "question": "Tasarlanan dijital ortamın, her kullanıcısı için kullanım şeklinin aynı veya benzer olmasını gerektiren ilke aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijital yetkinlik",
+                "Kullanımda esneklik",
+                "Algılanabilir bilgi",
+                "Basit ve sezgisel kullanım",
+                "Adil, eşitlikçi kullanım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 107,
+            "question": "Sabah elimize aldığımız diş fırçasından kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza kadar hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir?",
+            "options": [
+                "Kullanıcı dostu",
+                "Kullanıcı düşüncesi",
+                "Kullanıcı arayüzü",
+                "Kullanıcı deneyimi",
+                "Kullanıcı tasarımı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 108,
+            "question": "Dijital ortam tasarımlarında hareketsizlik veya hareketliliğinin kullanıcılar açısından verimli, konforlu ve minimum yorgunlukla kullanılabilir olmasını ifade eden evrensel tasarım ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Düşük fiziksel çaba",
+                "Hatalara tolerans",
+                "Adil, eşitlikçi kullanım",
+                "Kullanımda esneklik",
+                "Basit ve sezgisel kullanım"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 109,
+            "question": "Aşağıdakilerden hangisi erişilebilirliğin eğitim boyutuyla ilgili konularından biridir?",
+            "options": [
+                "Okul binasında rampa kullanılması",
+                "Sınıf ortamında taşınabilir koltuk kullanılması",
+                "Teknolojik araçların temin edilmesi",
+                "Sınıf ışık düzeyinin uyarlanması",
+                "Müfredatın uyarlanması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 110,
+            "question": "Aşağıdakilerden hangisi alanyazında yer alan ve özellikle gelişimsel yetersizlik grubundaki OSB olan bireylerle kullanılan güncel teknolojilerden biridir?",
+            "options": [
+                "Renkli kalemler",
+                "Robot teknolojileri",
+                "Bilgisayar yazılımları",
+                "AH yazı desteği",
+                "Ses üreten cihazlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 111,
+            "question": "AAIDD'nin zihin yetersizliği tanımında yer alan uyumsal beceriler aşağıdakilerden hangisidir?",
+            "options": [
+                "Kavramsal, psikomotor ve iletişimsel davranışlar",
+                "Bilişsel, psikomotor ve pratik uyumsal davranışlar",
+                "İletişimsel, dilsel ve toplumsal beceriler",
+                "Bilişsel, dilsel ve sosyal davranışlar",
+                "Kavramsal, sosyal ve pratik uyumsal davranışlar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 112,
+            "question": "İşitme, bir kaynaktan sesin belli bir şiddet ve frekansta enerji olarak dalgalar halinde yayılmasıdır. II. Sesin frekansı bir başka deyişle saniyedeki titreşim sayısına bağlı olarak sesin ince veya kalınlığı (tiz/bas) değişmektedir. III. Histogram, kişinin işitebildiği ses miktarını ve iki kulaktaki işitme kaybını gösteren bir grafiktir. İşitme süreciyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi işitme kayıplı bireyler için yardımcı ve destekleyici teknolojiler kategorilerinden \"işitme teknolojileri\" içinde yer alır?",
+            "options": [
+                "Ses tanıma yazılımı",
+                "Işıklı kapı zili",
+                "Uyarı alarm sistemleri",
+                "Sanal klavye",
+                "FM sistemleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 114,
+            "question": "I. Meslek yüksekokullarının odiyometri programından mezun olanlar yapabilir. II. Ölçümü yapanlara odiyometri teknikeri adı verilir. III. Odyologlar ölçüm aşamasına dahil olmaz. Odyogram ölçümüyle ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 115,
+            "question": "Aşağıdakilerden hangisi görme yetersizliği olan kişilerin çevrelerindeki tüm görsel ögeleri ses yoluyla algılamasını sağlayan yapay zeka uygulamasıdır?",
+            "options": [
+                "Perkins Braille",
+                "Seeing AI",
+                "Konuşan saat",
+                "VoiceOver",
+                "WeWalk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 116,
+            "question": "Göz içi basıncının artması sonucu retinadaki sinirlerin etkilendiği ve tedavi edilmediği zaman görme alanında azalma ortaya çıkan yetersizliğe ne ad verilir?",
+            "options": [
+                "Glokom",
+                "Optik sinir atrofisi",
+                "Maküler dejenerasyon",
+                "Kortikal yetersizlik",
+                "Albinizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 117,
+            "question": "I. Psikomotor gelişim yavaşlar. II. Yineleyici davranışlar ortaya çıkar. III. Omurga geriye doğru güçlenir. Görme yetersizliğinin gelişim üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 118,
+            "question": "Aşağıdakilerden hangisi ağır ve çoklu yetersizliği olan bireyler için erişilebilir teknoloji seçeneklerinden biri <u>değildir</u>?",
+            "options": [
+                "Erişilebilirlik sembolü",
+                "Ses kontrollü telefon",
+                "Yardımcı dinleme sistemi",
+                "Yumuşak, mat renkli tasarım",
+                "Dokunsal Braille baskı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 119,
+            "question": "Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?",
+            "options": [
+                "Mikro anahtarlı bebek yatağı",
+                "Tekerlekli sandalye binişli otobüs",
+                "Braille baskı sistemleri",
+                "Alt yazı içeren videolar",
+                "Havuza girme düzeneği"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        },
+        {
+            "id": 120,
+            "question": "Aşağıdakilerden hangisi ses çıkışlı (konuşma üreten) iletişim araçlarından biridir?",
+            "options": [
+                "Akıllı saat",
+                "İşitme cihazı",
+                "Beyaz baston",
+                "VOCA",
+                "WeWalk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "634931"
+        }
+    ]
+}

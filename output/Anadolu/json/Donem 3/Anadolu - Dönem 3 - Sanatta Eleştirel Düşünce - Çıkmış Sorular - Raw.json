@@ -1,0 +1,2704 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Pozitivizm (olguculuk) ve determinizm (belirlenimcilik) aşağıdaki edebiyat anlayışlarından hangisinin felsefi temeli olarak kabul edilir?",
+            "options": [
+                "Gerçekçilik (Realizm)",
+                "Gerçeküstücülük (Sürrealizm)",
+                "İzlenimcilik",
+                "Modernizm",
+                "Romantizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 2,
+            "question": "İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan akıl yürütme formlarına ne ad verilir?",
+            "options": [
+                "Çıkarım",
+                "Öncül",
+                "Safsata",
+                "Sonuç",
+                "Tasım"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 3,
+            "question": "Ele aldığı metnin anlamını müziğe daha güçlü ve doğrudan bir şekilde yansıtabilmek için Rönesans döneminin yaygın tercihleri ve alışıldık ses ortamına eleştirel bir yaklaşımla madrigallerinde kromatizme sıkça yer veren besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Di Lasso",
+                "Gesualdo",
+                "Hildegard von Bingen",
+                "Monteverdi",
+                "Palestrina"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 4,
+            "question": "Edebiyatın öncelikli işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Anlatı (öykü anlatmak)",
+                "Arınma (katharsis)",
+                "Bilgi aktarmak",
+                "İnsanı anlamak",
+                "Zevk vermek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 5,
+            "question": "Sanatın kaynağını açıklamak için \"Prometheus\" söylencesine başvuran ve ilk kez Yansıtma Kuramını ortaya koyan düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Sokrates",
+                "Heraklitos",
+                "Platon",
+                "Aristoteles",
+                "Diyojen"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 6,
+            "question": "Orta Çağ liturjik müziğinde önceki örneklere göre daha geniş bir ses bölgesi için ilahiler besteleyen rahibe-besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Euripides",
+                "Gesualdo",
+                "Hildegard von Bingen",
+                "Jubilus",
+                "Saint-Saëns"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 7,
+            "question": "Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütüne ne ad verilir?",
+            "options": [
+                "Çıkarım",
+                "Geçerlilik",
+                "Kavram",
+                "Kip",
+                "Önerme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 8,
+            "question": "Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince \"insana\" anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye saldırır. Yukarıda söz edilen safsata türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Dağıtılmamış Orta Terim",
+                "Yanlış İkilem",
+                "Artbileşenin Evetlenmesi",
+                "Korkuluk Safsatası",
+                "Kişi Karalama Safsatası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 9,
+            "question": "\"Roman, büyük bir yolun üstünde gezdirilen bir aynadır.\" tanımını yapan ve gerçekçi sanat anlayışının edebiyattaki en önemli temsilcilerinden biri olarak kabul edilen yazar aşağıdakilerden hangisidir?",
+            "options": [
+                "Camus",
+                "Erasmus",
+                "Goethe",
+                "Stendhal",
+                "Sartre"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 10,
+            "question": "Tümdengelimli bir akıl yürütmenin düzgün bir çıkarım olma özelliğine; yani, doğru olduğu verilen veya kabul edilen öncüllerden doğru sonuca zorunlu olarak götürme özelliğine ne ad verilir?",
+            "options": [
+                "Doğruluk",
+                "Geçerlilik",
+                "Kuvvet",
+                "Sağlamlık",
+                "Zorunluluk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 11,
+            "question": "19. yüzyılda özellikle Alman besteciler arasında iki karşıt görüşü yansıtan \"İlerlemeciler ve Gelenekçiler\" kamplaşmasında, gelenekçi tarafın bayraktarlığını yapan ve geleneksel türlerde müzik yazmaya devam etmiş olan besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Wagner",
+                "Brahms",
+                "Liszt",
+                "Beethoven",
+                "Mozart"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 12,
+            "question": "Bir kişi kendisine yeterli nedenler verildiği halde fikrini değiştirmemekte direniyorsa, aşağıdaki tutumlardan hangisini benimsediği söylenebilir?",
+            "options": [
+                "Dogmacılık",
+                "Eleştirel Düşünme",
+                "Gerçekçilik",
+                "Ilımlı Muhafazakârlık",
+                "İdealizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 13,
+            "question": "Edebiyatın dili olarak da adlandırılan \"gölge dil\"in en yoğun kullanıldığı edebi tür aşağıdakilerden hangisidir?",
+            "options": [
+                "Deneme",
+                "Günce",
+                "Şiir",
+                "Öykü",
+                "Roman"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 14,
+            "question": "Tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı, \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir.\" görüşü ile tiyatro sanatına güçlü bir eleştiri getiren kuramcı ve aynı zamanda yönetmen aşağıdakilerden hangisidir?",
+            "options": [
+                "Beckett",
+                "Brecht",
+                "Çehov",
+                "Meyerhold",
+                "Schechner"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 15,
+            "question": "Nesnel gerçekliğin insan zihnindeki estetik tasarımına ne ad verilir?",
+            "options": [
+                "Tansık",
+                "Görüngü",
+                "İmge",
+                "Nesnelleştirme",
+                "Kavram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 16,
+            "question": "Romantizm sanat anlayışını ilk kez sistemli bir estetik kuram hâline sokan, sanatı \"duygunun dile getirilmesi\" olarak tanımlayan ve sanatçının bir dâhi olduğunu söyleyen sanat felsefecisi aşağıdakilerden hangisidir?",
+            "options": [
+                "G. Lukacs",
+                "J. Ducasse",
+                "R. G. Collingwood",
+                "E. Veron",
+                "B. Croce"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 17,
+            "question": "Müzik tarihinde, Barok dönemin başlangıcı kabul edilen ve 17. yüzyılın başlarında ortaya çıkan tür aşağıdakilerden hangisidir?",
+            "options": [
+                "Gregoryan ezgisi",
+                "Opera",
+                "Rastlamsal müzik",
+                "Senfoni",
+                "Senfonik şiir"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 18,
+            "question": "\"Kişinin değerini bulmaya çalıştığı şeyle bağlı olmayan dışarıdaki olumlu ya da olumsuz bir değeri, duyguyu, bağı o şeyin değerliymiş gibi kabul edip ona yansıtması\" aşağıdaki değerini bulma yöntemlerinden hangisini tanımlar?",
+            "options": [
+                "Değer Yüklemek",
+                "Değer Atmak",
+                "Değer Biçmek",
+                "Değer Saptamak",
+                "Değer Tutturmak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 19,
+            "question": "Felsefede, hazcılık, hazzın mutlak anlamda iyi olduğunu, insan eylemlerinin nihai anlamda haz sağlayacak bir biçimde planlanması gerektiğini, sürekli haz verene yönelmenin en uygun davranış biçimi olduğunu savunan felsefi görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Determinizm",
+                "Empirizm",
+                "Romantizm",
+                "Varoluşçuluk",
+                "Hedonizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 20,
+            "question": "Günümüzdeki anlamıyla geçerlik taşıyabilecek düzeydeki sanat eleştirisine ve örneklerine aşağıdaki yüzyılların hangisinden itibaren rastlanmaktadır?",
+            "options": [
+                "14. yüzyıldan",
+                "15. yüzyıldan",
+                "16. yüzyıldan",
+                "17. yüzyıldan",
+                "18. yüzyıldan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2022-2023",
+            "material_id": "523118"
+        },
+        {
+            "id": 21,
+            "question": "Sanatı, alıcının duyguları ve psikolojisinden yola çıkarak açıklamaya çalışan sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Rus Gerçekçiliği Kuramı",
+                "Rus Biçimciliği Kuramı",
+                "Batı Gerçekçiliği Kuramı",
+                "Duygusal Etki Kuramları",
+                "Modern Yansıtma Kuramları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 22,
+            "question": "19. yüzyılda özellikle Alman besteciler arasında iki karşıt görüşü yansıtan \"İlerlemeciler ve Gelenekçiler\" kamplaşmasında, gelenekçi tarafın bayraktarlığını yapan ve geleneksel türlerde müzik yazmaya devam etmiş olan besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Mozart",
+                "Beethoven",
+                "Liszt",
+                "Brahms",
+                "Wagner"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 23,
+            "question": "Nesnel gerçekliğin insan zihnindeki estetik tasarımı<u>na</u> ne ad verilir?",
+            "options": [
+                "Görüngü",
+                "İmge",
+                "Kavram",
+                "Nesnelleştirme",
+                "Eylem"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 24,
+            "question": "\"Kişinin değerini bulmaya çalıştığı şeyle bağlı olmayan dışarıdaki olumlu ya da olumsuz bir değeri, duyguyu, bağı o şeyin değerliymiş gibi kabul edip ona yansıtması\" aşağıdaki değerini bulma yöntemlerinden hangisini tanımlar?",
+            "options": [
+                "Değer Atmak",
+                "Değer Biçmek",
+                "Değer Saptamak",
+                "Değer Tutturmak",
+                "Değer Yüklemek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 25,
+            "question": "Orta Çağ liturjik müziğinde önceki örneklere göre daha geniş bir ses bölgesi için ilahiler besteleyen rahibe-besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Jubilus",
+                "Saint-Säens",
+                "Hildegard von Bingen",
+                "Euripides",
+                "Gesualdo"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 26,
+            "question": "Eleştiri kavramı ilk kez ne zaman kullanılmıştır?",
+            "options": [
+                "İlk Çağ",
+                "Rönesans",
+                "Antik Yunan",
+                "Orta Çağ",
+                "Antik Çağ"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 27,
+            "question": "Tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir.\" görüşü doğrultusunda güçlü bir eleştiri getiren sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Schechner",
+                "Meyerhold",
+                "Brecht",
+                "Çehov",
+                "Beckett"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangisi genel bir yargıdan onun özel bir örneğini çıkarma üzerine kurulu bir düşünme yöntemidir?",
+            "options": [
+                "Tümdengelim",
+                "Önerme",
+                "Tümevarım",
+                "Çıkarım",
+                "Analoji"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 29,
+            "question": "\"Site yönetici seçiminde ya bana oy verirsiniz ya da çok kötü hizmet alırsınız.\" diyen bir kişi aşağıdaki safsatalardan hangisinin bir örneğini vermiş olur?",
+            "options": [
+                "Kişi Karalama Safsatası",
+                "Dağıtılmamış Orta Terim",
+                "Korkuluk Safsatası",
+                "Önbileşenin Değillenmesi",
+                "Yanlış İkilem Safsatası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 30,
+            "question": "Sanatın kaynağını açıklamak için \"Prometheus\" söylencesine başvuran ve ilk kez Yansıtma Kuramını ortaya koyan düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Aristoteles",
+                "Diyojen",
+                "Heraklitos",
+                "Platon",
+                "Sokrates"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 31,
+            "question": "Bir ezgiyi başka bir ya da birkaç ezgi ile çok seslendirme tekniğine ne ad verilir?",
+            "options": [
+                "Madrigal",
+                "Kontrpuan",
+                "Melizma",
+                "Litürjik",
+                "Armoni"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 32,
+            "question": "Edebiyatın dili olarak da adlandırılan \"gölge dil'in en yoğun kullanıldığı edebi tür aşağıdakilerden hangisidir?",
+            "options": [
+                "Öykü",
+                "Şiir",
+                "Roman",
+                "Günce",
+                "Deneme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 33,
+            "question": "\"Edebiyat, dünyayı, özellikle de insanı öteki insanlara gösterendir.\" diyen ve 1964 yılında Nobel Edebiyat Ödülü'ne değer görülen ancak bu ödülü kabul etmeyen edebiyatçı/yazar kimliğinin yanı sıra çağdaş felsefeye yön veren bir filozof olarak da tanınan düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Jean Paul Sartre",
+                "Ernest Hemingway",
+                "H.D. Zimmermann",
+                "Ioanna Kuçuradi",
+                "Terry Eagleton"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 34,
+            "question": "İlk yapıtlarından itibaren alışıldık modelleri, İlişkileri ve kalıpları tekrarlamak yerine, her yapıtında yeni bir tasarımın peşinden gitmiş ve yaratıcılığı temel ölçüt olarak benimsemiş ve her bir senfonisini öncekinin aşılması üzerine kuran besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Mozart",
+                "Liszt",
+                "Brahms",
+                "Wagner",
+                "Beethoven"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 35,
+            "question": "Bir çıkarımın en güçlü haline ulaşmaya çalışırken, o çıkarımın demediği bir şeyi ona dedirtmek yanlış olur. Bu nedenle bir çıkarımı yeniden ifade edeceksek, o çıkarımın demek istediğini doğru yansıtmamız gerekir. Yukarıdaki sözleri söyleyen kişi aşağıdaki ilkelerden hangisini vurgulamaktadır?",
+            "options": [
+                "Geçerlilik",
+                "Akılcılık",
+                "Sadakat",
+                "Hayırseverlik",
+                "Gerçekçilik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 36,
+            "question": "\"Roman, büyük bir yolun üstünde gezdirilen bir aynadır.\" tanımını yapan ve gerçekçi sanat anlayışının edebiyattaki en önemli temsilcilerinden biri olarak kabul edilen yazar aşağıdakilerden hangisidir?",
+            "options": [
+                "Stendhal",
+                "Sartre",
+                "Erasmus",
+                "Camus",
+                "Goethe"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 37,
+            "question": "Katharsis; sanat aracılığı ile \"Acıma ve korku duygularını uyandırmak suretiyle bu duyguların arınmasını sağlar.\" diyen filozof aşağıdakilerden hangisidir?",
+            "options": [
+                "Diyojen",
+                "Heraklitos",
+                "Aristoteles",
+                "Platon",
+                "Sokrates"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 38,
+            "question": "Edebiyat kuramları söz konusu olduğunda, yalnızca ülkemizde değil, tüm dünyada temel kaynaklardan birisi olarak gösterilen ve 1973 yılında Türk Dil Kurumu, Bilim Ödülü'ne değer görülen \"Edebiyat Kuramları ve Eleştiri\" adlı kitap aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Edip Cansever",
+                "Mermi Uygur",
+                "Ahmet Anıbal",
+                "Berna Moran",
+                "İoanna Kuçuradi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 39,
+            "question": "İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan akıl yürütme formlarına ne ad verilir?",
+            "options": [
+                "Öncül",
+                "Tasım",
+                "Sonuç",
+                "Safsata",
+                "Çıkarım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 40,
+            "question": "P veya Q<br>Değil-P<br>Öyleyse, Q<br>Yukarıdaki akıl yürütme formuna ne ad verilir?",
+            "options": [
+                "Modus Ponens",
+                "Modus Tollens",
+                "Önbileşenin Değillenmesi",
+                "Artbileşenin Evetlenmesi",
+                "Modus Tollendo Ponens"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "541200"
+        },
+        {
+            "id": 41,
+            "question": "\"Akıl yürütme\" olarak düşünme hangi formel bir bilim ile doğrudan ilişkisini göz önüne serer?",
+            "options": [
+                "Mantık",
+                "Epik",
+                "Estetik",
+                "Etik",
+                "Ahlak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 42,
+            "question": "Bir notanın/akorun bir merkez (eksen) oluşturduğu ve diğer notaların/akorların bu merkezin etrafında hiyerarşik ilişkiler kurduğu ses sistemine ne ad verilir?",
+            "options": [
+                "Akor",
+                "Armoni",
+                "Artikülasyon",
+                "Perküsyon",
+                "Tonalite"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 43,
+            "question": "\"Site yöneticisi seçiminde ya bana oy verirsiniz ya da çok kötü hizmet alırsınız.\" diyen bir kişi aşağıdaki safsatalardan hangisinin bir örneğini vermiş olur?",
+            "options": [
+                "Dağıtılmamış Orta Terim",
+                "Kişi Karalama Safsatası",
+                "Korkuluk Safsatası",
+                "Önbileşenin Değillenmesi",
+                "Yanlış İkilem Safsatası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 44,
+            "question": "Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince \"insana\" anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye saldırır. Yukarıda söz edilen safsata türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Artbileşenin Evetlenmesi",
+                "Dağıtılmamış Orta Terim",
+                "Kişi Karalama Safsatası",
+                "Korkuluk Safsata",
+                "Yanlış İkilem"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 45,
+            "question": "Edebiyatın dili olarak da adlandırılan \"gölge dil'in en yoğun kullanıldığı edebi tür aşağıdakilerden hangisidir?",
+            "options": [
+                "Deneme",
+                "Günce",
+                "Şiir",
+                "Öykü",
+                "Roman"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 46,
+            "question": "Aristoteles'in Platon ve Aristoteles'in eleştirel yaklaşımlarını geliştirmeye çalışarak sanat ve özerklikle konusunda birçok kitap kaleme alan aşağıdakilerden hangisidir?",
+            "options": [
+                "Platonov",
+                "Bocaccio",
+                "Herakleitos",
+                "Theophrastus",
+                "Descartes"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 47,
+            "question": "\"Roman, büyük bir yolun üstünde gezdirilen bir aynadır.\" tanımını yapan ve gerçekçi sanat anlayışının edebiyattaki en önemli temsilcilerinden biri olarak kabul edilen yazar aşağıdakilerden hangisidir?",
+            "options": [
+                "Camus",
+                "Stendhal",
+                "Goethe",
+                "Sartre",
+                "Erasmus"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 48,
+            "question": "Tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir.\" görüşü doğrultusunda güçlü bir eleştiri getiren sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Beckett",
+                "Brecht",
+                "Çehov",
+                "Meyerhold",
+                "Schechner"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 49,
+            "question": "Sanat yapıtındaki her ögenin ve bağıntının yapıtın değeri için gerekli olması; gereksiz hiçbir ögenin ve bağıntının bulunmaması ve bunlardan her birinin yalnız kendi hesabına rol oynamakla kalmayıp diğerlerini de etkilemesi ile sağlanan düzene ne ad verilir?",
+            "options": [
+                "Organik birlik",
+                "Mozaik",
+                "Asamblaj",
+                "Otantik bütünlük",
+                "Sinerji"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 50,
+            "question": "Öncüllerden çıkarım yoluyla elde edilen yeni önermeye ne ad verilir?",
+            "options": [
+                "Sonuç",
+                "Safsata",
+                "Çıkarım",
+                "Tasım",
+                "Öncül"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 51,
+            "question": "Felsefede, hazcılık, hazzın mutlak anlamda iyi olduğunu, insan eylemlerinin nihai anlamda haz sağlayacak bir biçimde planlanması gerektiğini, sürekli haz verene yönelmenin en uygun davranış biçimi olduğunu savunan felsefi görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Agnostisizm",
+                "Hedonizm",
+                "Nihilizm",
+                "Hazcılık",
+                "Pozitivizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 52,
+            "question": "Çözümleyici ve bireşimci düşünce (analiz-sentez) tez-antitez, tümevarım, tümdengelim, sorgulama, eleştirel düşünce ve bakış aşağıdakilerden hangisi ile olanaklıdır?",
+            "options": [
+                "Kuramsal",
+                "Ahlaksal",
+                "Kavramsal",
+                "Anlatımsal",
+                "Tarihsel"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 53,
+            "question": "Sanatın, dolayısıyla edebiyatın \"İdeayı/Özü\" yansıttığını ileri süren filozof aşağıdakilerden hangisidir?",
+            "options": [
+                "Hegel",
+                "Platon",
+                "Kant",
+                "Aristoteles",
+                "Sokrates"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 54,
+            "question": "Bir şeye dikkati yönelterek, duyular yoluyla o şeyin bilincine varmaya ne ad verilir?",
+            "options": [
+                "Bilgi",
+                "Algı",
+                "Anlama",
+                "Dikkat",
+                "Duyu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 55,
+            "question": "Orta Çağ liturjik müziğinde önceki örneklere göre daha geniş bir ses bölgesi için ilahiler besteleyen rahibe-besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Euripides",
+                "Gesualdo",
+                "Hildegard von Bingen",
+                "Jubilus",
+                "Saint-Säens"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 56,
+            "question": "Sanatın kaynağını açıklamak için \"Prometheus\" söylencesine başvuran ve ilk kez Yansıtma Kuramını ortaya koyan düşünür aşağıdakilerden hangisidir?",
+            "options": [
+                "Sokrates",
+                "Heraklitos",
+                "Aristoteles",
+                "Diyojen",
+                "Platon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 57,
+            "question": "\"Para, alkış falan gözümde yok. Öyle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile.\" Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir?",
+            "options": [
+                "Ahmet Adnan Saygun",
+                "Cemal Reşit Rey",
+                "Fazıl Say",
+                "İlhan Usmanbaş",
+                "Ulvi Cemal Erkin"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 58,
+            "question": "Komedya türünde, koronun bir anda seyirciye doğru yürüyerek olay akışının dışında, gündemde olan bir olaydan bahsettiği kesitlere ne ad verilir?",
+            "options": [
+                "Suflör",
+                "Replik",
+                "Parabasis",
+                "Tirat",
+                "Tragedya"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 59,
+            "question": "Günümüzdeki anlamıyla geçerlik taşıyabilecek düzeydeki sanat eleştirisine ve örneklerine aşağıdaki yüzyılların hangisinden itibaren rastlanmaktadır?",
+            "options": [
+                "14. yüzyıldan",
+                "15. yüzyıldan",
+                "16. yüzyıldan",
+                "17. yüzyıldan",
+                "18. yüzyıldan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 60,
+            "question": "Aşağıdakilerden hangisi genel bir yargıdan onun özel bir örneğini çıkarma üzerine kurulu bir düşünme yöntemidir?",
+            "options": [
+                "Tümevarım",
+                "Tümdengelim",
+                "Analoji",
+                "Çıkarım",
+                "Önerme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "591742"
+        },
+        {
+            "id": 61,
+            "question": "\"Sanat, alışkanlıkları kırmalıdır. görüşünü savunurlar. Alışkanlıkları kırmanın yolu da sanatta \"Biçim\" aracılığıyla olabilir. Amaç gerçekliği yansıtmak değil, onu değişik biçimde göstermek-algılatmak olmalıdır. Yukarıda söz edilen sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Rus Biçimciliği",
+                "Romantizm",
+                "Anglo-Amerikan Biçimciliği",
+                "Hedonizm",
+                "Yapısalcılık"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 62,
+            "question": "Damien Hirst'in ünlendiği heykeli aşağıdakilerden hangisidir?",
+            "options": [
+                "Ölü Köpekbalığı",
+                "Gezinen Fare",
+                "Kanatsız Kuş",
+                "Ağaca Çıkan Kedi",
+                "Sürünen Yılan"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 63,
+            "question": "Bir çıkarımın en güçlü haline ulaşmaya çalışırken, o çıkarımın demediği bir şeyi ona dedirtmek yanlış olur. Bu nedenle bir çıkarımı yeniden ifade edeceksek, o çıkarımın demek istediğini doğru yansıtmamız gerekir. Yukarıdaki akıl yürütme formuna ne ad verilir?",
+            "options": [
+                "Akılcılık",
+                "Geçerlilik",
+                "Gerçekçilik",
+                "Hayırseverlik",
+                "Sadakat"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 64,
+            "question": "Müziği oluşturan ses yüksekliği, ritim, süre, dinamik, artikülasyon ve çalgılama gibi parametrelerin bir kısmında bestecinin seçimi yorumcuya bıraktığı yazı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Atonal müzik",
+                "Empresyonist müzik",
+                "Leitmotif",
+                "Rastlamsal müzik",
+                "Senfonik şiir"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 65,
+            "question": "Neo-Empresyonistlerin kullandığı ve fırçanın noktasal dokunuşlarla renklerin birbirleriyle etkileşiminin yarattığı renk teorisine dayalı sanat biçemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Divizyonizm",
+                "Ekspresif",
+                "Pointilizm",
+                "Skala",
+                "Tuşe"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 66,
+            "question": "Resim sanatında parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratacak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir?",
+            "options": [
+                "Çizgisel perspektif",
+                "Chiaroscuro",
+                "Asimetri",
+                "Genre",
+                "Sfumato"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 67,
+            "question": "Yukarıdaki akıl yürütme formuna ne ad verilir?",
+            "options": [
+                "Modus Tollendo Ponens",
+                "Modus Ponens",
+                "Modus Tollens",
+                "Önbileşenin Değillenmesi",
+                "Artbileşenin Evetlenmesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 68,
+            "question": "Hiciv amaçlı deformasyon ile karakterize edilen çizim tekniği tarihte ilk olarak aşağıdaki sanatçılardan hangisine atfedilir?",
+            "options": [
+                "Gian Lorenzo Bernini",
+                "Leonardo da Vinci",
+                "Erhard Schön",
+                "William Hogarth",
+                "Annibale Carracci"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 69,
+            "question": "Aşağıdakilerden hangisi, hem gerçeği göstermek hem de gerçekliğin sınırlarını aşmak isteyen alternatif bir gerçeklik arayışı olarak da tanımlanan; betimlemeyle değil, çağrışımlarla, benzeşimlerle, sezgi ile anlaşılanı, \"görülmeyeni görmeye\" çağıran edebiyat anlayışını ifade eder?",
+            "options": [
+                "Klasisizm",
+                "Doğalcılık (Natüralizm)",
+                "Gerçekçilik (Realizm)",
+                "Sembolizm",
+                "Postmodernizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 70,
+            "question": "Geleneksel (klasik) anlatı sinemasının dramatik yapısında gerilimin had safhaya ulaştığı aşamaya ne ad verilir?",
+            "options": [
+                "Arınma (Katharsis)",
+                "Doruk noktası",
+                "Çatışma",
+                "Düğüm",
+                "Serim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 71,
+            "question": "Heykel sanatının tek boyutlu bir yontuculuk olayı olmadığını, çok yönlü bir entelektüel birikim ve yorum işi olduğunu göstermiştir. Tasarlamak ve yaratmak bizden, teknik uygulama, teknisyenlerden, atölye çalışanlarındandır, düşüncesi gereği hayatı boyunca sürekli bir araştırma, inceleme, okuma, yargılama ve eleştirme içinde olmuş, sürekli projeler, öneriler ve yargılar geliştirmiştir --- ---. Bu yönüyle de \"Çağdaş Heykel\" kavramına ve olgusuna çok önemli açılımlar ve boyutlar eklemiştir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "Michangelo",
+                "Duchamp",
+                "Rodin",
+                "Henry Moore",
+                "Giacometti"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 72,
+            "question": "Sanatta modernizmin ya da modern sanatın ilk güçlü akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Klasik sanat",
+                "Romantizm",
+                "Toplumcu gerçekçilik",
+                "Gerçekçilik",
+                "Sembolizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 73,
+            "question": "Deneysel sinemanın öncü kuramcısı ve yönetmen Kuleşov'a göre, her sanatın bir gereci ve bu gereci söz konusu sanata uygulamak için de bir yöntemi vardır. Sinemanın gereci film parçalarıdır (çekimlerdir). Sinema sanatında bu gereci yaratıcı şekilde bir araya getiren yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Alan derinliği",
+                "Plan sekans",
+                "Mizansen",
+                "Kurgu",
+                "Pozlama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 74,
+            "question": "1930'ların Almanya'sında Nazi propagandasıyla mücadele etmek için afiş tasarlayan ve bu yüzden Gestapo'nun en çok arananlar listesine aldığı tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Lucian Bernhard",
+                "El Lissitzky",
+                "John Heartfield",
+                "Eugène Samuel Grasset",
+                "Aleksander Mikhailovich Rodchenko"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 75,
+            "question": "Sanatın gerçekliği yansıtan bir ayna olduğu görüşünü ilk kez dile getiren filozof aşağıdakilerden hangisidir?",
+            "options": [
+                "Platon",
+                "Aristoteles",
+                "Kant",
+                "Hegel",
+                "Sartre"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 76,
+            "question": "Spor eleştiri genel olarak aşağıdakilerden hangisinin değerlendirmesidir?",
+            "options": [
+                "Alkış ve tezahürat",
+                "Beceri ve performans",
+                "Rekor ve başarı",
+                "Sayı ve gol",
+                "Süre ve zaman"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 77,
+            "question": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein aşağıdaki sanat akımlarından hangisi ile tanınırlar?",
+            "options": [
+                "Fluxus",
+                "Kavramsal sanat",
+                "Op-Art",
+                "Video art",
+                "Pop- Art"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 78,
+            "question": "Athena Heykeli aşağıdakilerden hangisini temsil etmektedir?",
+            "options": [
+                "Denizler tanrıçasını",
+                "Ölümsüzlük tanrıçasını",
+                "Şimşek ve yıkıcılık tanrıçasını",
+                "Yeraltı dünyası tanrıçasını",
+                "Bilgelik ve savaş tanrıçasını"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 79,
+            "question": "Fransız yazar, eleştirmen Jules Barbey d'Aurevilly'in karikatür tanımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Tortuları dibe çökmüş bir kavanozun güçlü bir şekilde çalkalanmış etkisidir.",
+                "Ahlak ve akademik temsil kurallarını bozarak, düzenin gizlediklerini görünür kılmaktır.",
+                "Gülünç veya hoş olmayan yüklemeler yapan grafik hicivdir.",
+                "Bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır.",
+                "İnsan ve toplumla ilgili her tür olayı konu alarak abartılı bir biçimde veren, düşündürücü ve güldürücü resimdir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 80,
+            "question": "Beethoven geleneğinin yarattığı model ve yaklaşımları reddederek 20. yüzyıla yön verecek yeni armoni ve biçim arayışlarına girişen Fransız besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Lutoslawski",
+                "Stravinsky",
+                "Erik Satie",
+                "Debussy",
+                "Couperin"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2022-2023",
+            "material_id": "523126"
+        },
+        {
+            "id": 81,
+            "question": "At üzerinde heykelini yaptıran padişah aşağıdakilerden hangisidir?",
+            "options": [
+                "II. Abdülhamit",
+                "Sultan Abdülaziz",
+                "II. Mahmut",
+                "Fatih Sultan Mehmet",
+                "Yavuz Sultan Selim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 82,
+            "question": "Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince \"insana\" anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye saldırır. Yukarıda söz edilen safsata türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Artbileşenin Evetlenmesi",
+                "Dağıtılmamış Orta Terim",
+                "Kişi Karalama Safsatası",
+                "Korkuluk Safsatası",
+                "Yanlış İkilem"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 83,
+            "question": "Sanat, alışkanlıkları kırmalıdır. görüşünü savunurlar. Alışkanlıkları kırmanın yolu da sanatta \"Biçim\" aracılığıyla olabilir. Amaç gerçekliği yansıtmak değil, onu değişik biçimde göstermek-algılatmak olmalıdır. Yukarıda söz edilen sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Hedonizm",
+                "Romantizm",
+                "Anglo-Amerikan Biçimciliği",
+                "Rus Biçimciliği",
+                "Yapısalcılık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 84,
+            "question": "Magna Mater (Ana Tanrıça) heykellerinin yapılış amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Verimliliği artırma",
+                "Bulaşıcı hastalıktan korunma",
+                "Geleceğe mesaj verme",
+                "Estetik bir obje olarak üretme",
+                "Ana erkil bir toplum yapısını temsil etme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 85,
+            "question": "Edebiyatın öncelikli işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "İnsanı anlamak",
+                "Anlatı (öykü anlatmak)",
+                "Zevk vermek",
+                "Arınma (katharsis)",
+                "Bilgi aktarmak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 86,
+            "question": "Alman grafik tasarımcısı Lucian Bernhard'ın öncülük ettiği \"poster stili\" ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Kadınlar daha önceleri sanatta tasvir edilmedikleri seviyede konumlandırılmıştır.",
+                "Dekoratif süslemeler, bezemeler öne çıkmaktadır.",
+                "Nazi Almanyası'nın maskesini düşürmeye çalışarak toplumsal eleştirinin uygulanmasıdır.",
+                "Stilize görüntü ve düz renk, yalın bir dil, basitleştirilmiş şekiller ve nesneler kullanılmıştır.",
+                "Konusu genelde kabare, müzikal gibi gösteri sanatlarıdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 87,
+            "question": "Bir şeyi duyurmak veya tanıtmak için hazırlanan, kalabalığın görebileceği yere asılmış, genellikle resimli duvar ilanı olarak tanımlanan görsel iletişim aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Fotoğraf",
+                "Minyatür",
+                "Karikatür",
+                "İllüstrasyon",
+                "Afiş"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 88,
+            "question": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein aşağıdaki sanat akımlarından hangisi ile tanınırlar?",
+            "options": [
+                "Pop- Art",
+                "Op-Art",
+                "Kavramsal sanat",
+                "Fluxus",
+                "Video art"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 89,
+            "question": "Tümdengelimli bir akıl yürütmenin düzgün bir çıkarım olma özelliğine; yani, doğru olduğu verilen veya kabul edilen öncüllerden doğru sonuca zorunlu olarak götürme özelliğine ne ad verilir?",
+            "options": [
+                "Doğruluk",
+                "Geçerlilik",
+                "Kuvvet",
+                "Sağlamlık",
+                "Zorunluluk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 90,
+            "question": "Neo-Empresyonistlerin kullandığı ve fırçanın noktasal dokunuşlarla renklerin birbirleriyle etkileşiminin yarattığı renk teorisine dayalı sanat biçemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Divizyonizm",
+                "Tuşe",
+                "Ekspresif",
+                "Skala",
+                "Pointilizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdakilerden hangisi, hem gerçeği göstermek hem de gerçekliğin sınırlarını aşmak isteyen alternatif bir gerçeklik arayışı olarak da tanımlanan; betimlemeyle değil, çağrışımlarla, benzeşimlerle, sezgi ile anlaşılanı, \"görülmeyeni görmeye\" çağıran edebiyat anlayışını ifade eder?",
+            "options": [
+                "Gerçekçilik (Realizm)",
+                "Sembolizm",
+                "Klasisizm",
+                "Postmodernizm",
+                "Doğalcılık (Natüralizm)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 92,
+            "question": "\"Para, alkış falan gözümde yok. Öyle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile.\" Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir?",
+            "options": [
+                "Cemal Reşit Rey",
+                "Fazıl Say",
+                "Ulvi Cemal Erkin",
+                "Ahmet Adnan Saygun",
+                "İlhan Usmanbaş"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 93,
+            "question": "\"Balkon Heykelleri\"ni aşağıdaki sanatçılardan hangisi yapmıştır?",
+            "options": [
+                "Claud Monet",
+                "Anish Kapoor",
+                "Jeff Koons",
+                "Giovanni Anselmo",
+                "Albert Dürer"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 94,
+            "question": "Batı sanatında özellikle çıplak kadın figürünün esas alındığı betimleme türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Soyut resim",
+                "Peyzaj",
+                "Nü",
+                "Figüratif resim",
+                "Natürmort"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 95,
+            "question": "Müziği oluşturan ses yüksekliği, ritim, süre, dinamik, artikülasyon ve çalgılama gibi parametrelerin bir kısmında bestecinin seçimi yorumcuya bıraktığı yazı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Empresyonist müzik",
+                "Senfonik şiir",
+                "Leitmotif",
+                "Atonal müzik",
+                "Rastlamsal müzik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 96,
+            "question": "Bir filmin felsefi eleştirisinde ilk aşama ya da atılması gereken ilk adım aşağıdakilerden hangisidir?",
+            "options": [
+                "Filmi doğru anlamak",
+                "Filme nesnel yaklaşmak",
+                "Filmi çözümlemek",
+                "Filme değer yakıştırmak",
+                "Filme değer biçmek"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 97,
+            "question": "Aşağıdakilerden hangisi karikatürcüler tarafından kullanılan ele alma tekniklerinden biri <u>değildir</u>?",
+            "options": [
+                "Aşağılama",
+                "Gizleme",
+                "Abartma",
+                "Şakacılık",
+                "Çelişki"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 98,
+            "question": "Spor eleştirisi genel olarak aşağıdakilerden hangisinin değerlendirmesidir?",
+            "options": [
+                "Alkış ve tezahürat",
+                "Süre ve zaman",
+                "Sayı ve gol",
+                "Beceri ve performans",
+                "Rekor ve başarı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 99,
+            "question": "Aşağıdaki filmlerden hangisi sinemada modern (çağdaş) anlatının bir örneği ve bir film olarak da geleneksel sinema diline karşı bir ayaklanma olarak kabul edilir?",
+            "options": [
+                "Potemkin Zırhlısı (Sergei Eisenstein)",
+                "Umut (Yılmaz Güney)",
+                "Serseri Aşıklar (Jean-Luc Godard)",
+                "Susuz Yaz (Metin Erksan)",
+                "Hoşgörüsüzlük (D.W. Griffith)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 100,
+            "question": "\"Film çekilmez, inşa edilir. Bu inşayı, yaratımı gerçekleştiren ise kurgudur.\" ifadesi aşağıdaki film kuramlarından hangisine aittir?",
+            "options": [
+                "Gerçekçi kuram",
+                "Avangart (öncü) kuram",
+                "Yeni Gerçekçi kuram",
+                "Biçimci kuram",
+                "Gösterge bilimsel kuram"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "556445"
+        },
+        {
+            "id": 101,
+            "question": "At üzerinde heykelini yaptıran padişah aşağıdakilerden hangisidir?",
+            "options": [
+                "II. Abdülhamit",
+                "Sultan Abdülaziz",
+                "II. Mahmut",
+                "Fatih Sultan Mehmet",
+                "Yavuz Sultan Selim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 102,
+            "question": "Uzman eleştirisi olarak teknik eleştiri, temel olarak sanat-bilim alanlarından hangisine dayanır?",
+            "options": [
+                "Sanat Psikolojisi",
+                "Sanat Sosyolojisi",
+                "Estetik",
+                "Sanat Felsefesi",
+                "Sanat Tarihi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 103,
+            "question": "Resim sanatında parlaklık ve karanlık arasındaki vurgulu kontrastı, keskin karşıtlar yaratarak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir?",
+            "options": [
+                "Çizgisel perspektif",
+                "Sfumato",
+                "Genre",
+                "Chiaroscuro",
+                "Asimetri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 104,
+            "question": "\"Film çekilmez, inşa edilir. Bu inşayı, yaratımı gerçekleştiren ise kurgudur.\" ifadesi aşağıdaki film kuramlarından hangisine aittir?",
+            "options": [
+                "Gerçekçi kuram",
+                "Yeni Gerçekçi kuram",
+                "Biçimci kuram",
+                "Gösterge bilimsel kuram",
+                "Avangart (öncü) kuram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 105,
+            "question": "İcat edildiği tarih olan 1895'ten bu yana kendi dilinde bize öyküler anlatan ve modern mitoloji olarak da adlandırılan sanat alanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bale",
+                "Sinema",
+                "Performans",
+                "Fotoğraf",
+                "Opera"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 106,
+            "question": "Sanatın, edebiyatın dilindeki yalanı, söylenmiş bu en güzel ve doğru yalanı alternatif bir dünya kurgulamak olarak adlandıran ve sanatçıyı da alternatif bir dünya kurgulama eylemini gerçekleştiren kişi olarak tanımlayan aşağıdakilerden hangisidir?",
+            "options": [
+                "Edip Cansever",
+                "Berna Moran",
+                "İoanna Kuçuradi",
+                "Mermi Uygur",
+                "Ahmet Cemal"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 107,
+            "question": "Resim özelliği ile anlatmak istediklerini temel olarak doğadan öykünerek Mısırlıların bulduğu yazı biçimine ne ad verilir?",
+            "options": [
+                "Hiyeroglif",
+                "Logogram",
+                "Faistos",
+                "Piktogram",
+                "Kaligrafi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 108,
+            "question": "Deneysel sinemanın öncü kuramcısı ve yönetmen Kuleşov'a göre, her sanatın bir gereci ve bu gereci söz konusu sanata uygulamak için de bir yöntemi vardır. Sinemanın gereci film parçalarıdır (çekimlerdir). Sinema sanatında bu gereci yaratıcı şekilde bir araya getiren yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Plan sekans",
+                "Mizansen",
+                "Alan derinliği",
+                "Pozlama",
+                "Kurgu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 109,
+            "question": "Neo-Empresyonistlerin kullandığı ve fırçanın noktasal dokunuşlarla renklerin birbirleriyle etkileşiminin yarattığı renk teorisine dayalı sanat biçemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Divizyonizm",
+                "Skala",
+                "Pointilizm",
+                "Ekspresif",
+                "Tuşe"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 110,
+            "question": "Sanatta modernizmin ya da modern sanatın ilk güçlü akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gerçekçilik",
+                "Toplumcu gerçekçilik",
+                "Klasik sanat",
+                "Romantizm",
+                "Sembolizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 111,
+            "question": "Hiciv amaçlı deformasyon ile karakterize edilen çizim tekniği tarihte ilk olarak aşağıdaki sanatçılardan hangisine atfedilir?",
+            "options": [
+                "William Hogarth",
+                "Leonardo da Vinci",
+                "Gian Lorenzo Bernini",
+                "Annibale Carracci",
+                "Erhard Schön"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 112,
+            "question": "Romantizm'in öncülerinden, toplumsal olayları sert, eleştirel gerçekçi ve yer yer ürkütücü üslubuyla resmederek karanlığın en iyi anlatıcılarından, \"3 Mayıs 1808\" adlı tablosu, âdeta İspanya'nın çektiği acının bir simgesi olan ressam aşağıdakilerden hangisidir?",
+            "options": [
+                "Francisco Goya",
+                "Jean François Millet",
+                "David Friedrich",
+                "Gustave Courbe",
+                "Delacroix"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 113,
+            "question": "Belirli kusurlarını modele dökmek, özgün olanın bir portreden daha vurucu olduğu izlenimi vermek için insanları gözlemleyerek çizen, bilinen en eski modern karikatür örnekleri aşağıdaki sanatçılardan hangisi tarafından verilmiştir?",
+            "options": [
+                "Vincent van Gogh",
+                "Erhard Schon",
+                "Leonardo da Vinci",
+                "Gian Lorenzo Bernini",
+                "Pablo Picasso"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 114,
+            "question": "Bir veya daha fazla ortak özelliği olan iki nesneden biri için geçerli olan bir özelliği diğerine de atfetme şeklinde yapılan akıl yürütme biçimine ne ad verilir?",
+            "options": [
+                "Tümdengelimli",
+                "Çıkarım",
+                "Antoloji",
+                "Tümevarımlı",
+                "Analoji"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 115,
+            "question": "Bugünkü karikatür tanımına uyan, siyasal toplumsal ilişkilerini anlatmak için papirüs ve kireçtaşı üzerine resmedilmiş başrolü kedi ve fare olan hayvan betimlemeleri insanları simgelemiş birçok toplumsal konunun işlendiği çizimler tarihte aşağıdakilerin hangisinde görülür?",
+            "options": [
+                "Antik Roma",
+                "Orta Çağ",
+                "Antik Yunan",
+                "Eski Mısır",
+                "Mezopotamya"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 116,
+            "question": "Modern sanat ve modernist eğilimlerden sonra gelişen kavramsal sanat veya güncel/çağdaş sanat disiplinleri ve plastik sanatların düşünce geleneği içinde daha eleştirel bir tutum takınması olgusu, özellikle hangi yıldan sonra belirgin bir şekilde ortaya çıkmaya başlamıştır?",
+            "options": [
+                "1930",
+                "1940",
+                "1950",
+                "1960",
+                "1970"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 117,
+            "question": "Aşağıdaki devrimlerden hangisi getirdiği özgürlük ve eşitlik ideali, siyasi ve sosyal yapıyla birlikte, o ana kadar bir zanaatkâr olan besteci-müzisyenin toplumsal konumunu ve rolünü de değiştirmeye başlar?",
+            "options": [
+                "Fransız Devrimi",
+                "Sanayi Devrimi",
+                "Ekim Devrimi",
+                "Amerikan Devrimi",
+                "Cumhuriyet Devrimi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 118,
+            "question": "Heykel sanatının tek boyutlu bir yontuculuk olayı olmadığını, çok yönlü bir entelektüel birikim ve yorum işi olduğunu göstermiştir. Tasarlamak ve yaratmak bizden, teknik uygulama, teknisyenlerden, atölye çalışanlarındandır, düşüncesi gereği hayatı boyunca sürekli bir araştırma, inceleme, okuma, yargılama ve eleştirme içinde olmuş, sürekli projeler, öneriler ve yargılar geliştirmiştir. Bu yönüyle de \"Çağdaş Heykel\" kavramına ve olgusuna çok önemli açılımlar ve boyutlar eklemiştir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "Giacometti",
+                "Rodin",
+                "Henry Moore",
+                "Duchamp",
+                "Michelangelo"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 119,
+            "question": "1930'ların Almanya'sında Nazi propagandasıyla mücadele etmek için afiş tasarlayan ve bu yüzden Gestapo'nun en çok arananlar listesine aldığı tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Lucian Bernhard",
+                "John Heartfield",
+                "El Lissitzky",
+                "Eugène Samuel Grasset",
+                "Aleksander Mikhailovich Rodchenko"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 120,
+            "question": "Paslanmaz çelikten \"Balon Heykel\"lerini aşağıdaki sanatçılardan hangisi yapmıştır?",
+            "options": [
+                "Jeff Koons",
+                "Anish Kapoor",
+                "Giovanni Anselmo",
+                "Claud Monet",
+                "Albert Dürer"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596754"
+        },
+        {
+            "id": 121,
+            "question": "Athena Heykeli aşağıdakilerden hangisini temsil etmektedir?",
+            "options": [
+                "Denizler tanrıçasını",
+                "Ölümsüzlük tanrıçasını",
+                "Şimşek ve yıkıcılık tanrıçasını",
+                "Yeraltı dünyası tanrıçasını",
+                "Bilgelik ve savaş tanrıçasını"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 122,
+            "question": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein aşağıdaki sanat akımlarından hangisi ile tanınırlar?",
+            "options": [
+                "Fluxus",
+                "Kavramsal sanat",
+                "Op-Art",
+                "Video art",
+                "Pop- Art"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 123,
+            "question": "Neo-Empresyonistlerin kullandığı noktasal dokunuşlarla renklerin birbirleriyle etkileşiminin yarattığı renk teorisine dayalı sanat biçemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Skala",
+                "Tüpe",
+                "Ekspresif",
+                "Pupüplizm",
+                "Divizyonizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 124,
+            "question": "Aşağıdakilerden hangisi eleştiri türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Sözlü Eleştiri",
+                "Yazılı Eleştiri",
+                "Şifreli Eleştiri",
+                "İnceleme Eleştirisi",
+                "Yargılama Eleştirisi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 125,
+            "question": "Resim sanatında parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratacak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir?",
+            "options": [
+                "Genre",
+                "Sfumato",
+                "Çizgisel perspektif",
+                "Chiaroscuro",
+                "Asimetri"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 126,
+            "question": "Spor eleştiri genel olarak aşağıdakilerden hangisinin değerlendirmesidir?",
+            "options": [
+                "Alkış ve tezahürat",
+                "Rekor ve başarı",
+                "Beceri ve performans",
+                "Sayı ve gol",
+                "Süre ve zaman"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 127,
+            "question": "\"Ya benimle evlenirsin ya da ömür boyu mutsuz olursun.\" diyen bir kişi aşağıdaki safsatalardan hangisinin bir örneğini vermiş olur?",
+            "options": [
+                "Dağıtılmamış Orta Terim",
+                "Kişi Karalama Safsatası",
+                "Korkuluk Safsatası",
+                "Önbileşenin Değillenmesi",
+                "Yanlış İkilem Safsatası"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 128,
+            "question": "Deneysel sinemanın öncü kuramcısı ve yönetmen Kuleşov'a göre, her sanatın bir gereci ve bu gereci söz konusu sanata uygulamak için de bir yöntemi vardır. Sinemanın gereci film parçalarıdır (çekimlerdir). Sinema sanatında bu gereci yaratıcı şekilde bir araya getiren yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Kurgu",
+                "Mizansen",
+                "Alan derinliği",
+                "Pozlama",
+                "Plan sekans"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 129,
+            "question": "Aşağıdakilerden hangisi, hem gerçeği göstermek hem de gerçekliğin sınırlarını aşmak isteyen alternatif bir gerçeklik arayışı olarak da tanımlanan; betimlemeyle değil, çağrışımlarla, benzeşimlerle, sezgi ile anlaşıl anı, \"görülmeyeni görmeye çağıran edebiyat anlayışını ifade eder?",
+            "options": [
+                "Sembolizm",
+                "Klasisizm",
+                "Doğalcılık (Natüralizm)",
+                "Gerçekçilik (Realizm)",
+                "Postmodernizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 130,
+            "question": "Aşağıdakilerden hangisi Rönesans sanatının felsefi temeli olan hümanizmin ve eleştirel düşüncenin edebiyattaki başyapıtlarından biri olarak kabul edilir?",
+            "options": [
+                "Bulantı (Jean Paul Sartre)",
+                "Deliliğe Övgü (Erasmus)",
+                "Madam Bovary (Gustave Flaubert)",
+                "Yabancı (Albert Camus)",
+                "Yeraltından Notlar (Dostoyevski)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 131,
+            "question": "Damien Hirst'in ünlendiği aşağıdaki eserlerden hangisidir?",
+            "options": [
+                "Sürünen Yılan",
+                "Kanatsız Kuş",
+                "Ağaca Çıkan Kedi",
+                "Ölü Köpekbalığı",
+                "Gezinen Fare"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 132,
+            "question": "Fransız yazar, eleştirmen Jules Barbey d'Aurevilly'in karikatür tanımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır.",
+                "Gülünç veya hoş olmayan yüklemeler yapan grafik hicivdir.",
+                "Ahlak ve akademik temsil kurallarını bozarak, düzenin gizlediklerini görünür kılmaktır.",
+                "Tortuları dibe çökmüş bir kavanozun güçlü bir şekilde çalkalanması etkisidir.",
+                "İnsan ve toplumla ilgili her tür olayı konu alarak abartılı bir biçimde düşündürücü ve güldürücü resimdir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 133,
+            "question": "Fountain/Çeşme heykeli aşağıdaki sanatçılardan hangisine aittir?",
+            "options": [
+                "Degas",
+                "Duchamp",
+                "Fidias",
+                "Kosuth",
+                "Rodin"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 134,
+            "question": "“Para, alkış falan gözümde yok. Öğle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile.\" Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir?",
+            "options": [
+                "Ahmet Adnan Saygun",
+                "Cemal Reşit Rey",
+                "Fazıl Say",
+                "İlhan Usmanbaş",
+                "Ulvi Cemal Erkin"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 135,
+            "question": "P veya Q<br>Değil-P<br>Öyleyse, Q<br>Yukarıdaki akıl yürütme formuna ne ad verilir?",
+            "options": [
+                "Modus Tollens",
+                "Önbileşenin Değillenmesi",
+                "Modus Tollendo Ponens",
+                "Artbileşenin Evetlenmesi",
+                "Modus Ponens"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 136,
+            "question": "O zamana kadar yalnızca güçlüler ve seçkinlerin hakim olduğu bilgi alanıyla sınırlı olan karikatür, aşağıdakilerden hangisinden sonra farklı zümrelere yayılmaya ve gelişmeye başlamıştır?",
+            "options": [
+                "I. Dünya Savaşı",
+                "Fransız Devrimi",
+                "Matbaanın İcadı",
+                "Otuz Yıl Savaşları",
+                "Rönesans Dönemi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 137,
+            "question": "Geleneksel (klasik) anlatı sinemasının dramatik yapısında gerilimin had safhaya ulaştığı aşamaya ne ad verilir?",
+            "options": [
+                "Çatışma",
+                "Doruk noktası",
+                "Arınma (Katharsis)",
+                "Düğüm",
+                "Serim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 138,
+            "question": "1930'ların Almanya'sında Nazizm propagandasıyla mücadele etmek için afiş tasarlayan ve bu yüzden Gestapo'nun en çok arananlar listesine aldığı tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "Aleksander Mikhailovich Rodchenko",
+                "El Lissitzky",
+                "Eugène Samuel Grasset",
+                "Lucian Bernhard",
+                "John Heartfield"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 139,
+            "question": "Beethoven geleneğinin yarattığı model ve yaklaşımları reddederek 20. yüzyıla yön verecek yeni armoni ve biçim arayışlarına girişen Fransız besteci aşağıdakilerden hangisidir?",
+            "options": [
+                "Debussy",
+                "Saint-Säens",
+                "Couperin",
+                "Stravinsky",
+                "Lutoslawski"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 140,
+            "question": "Sanatta modernizmin ya da modern sanatın ilk güçlü akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Gerçekçilik",
+                "Sembolizm",
+                "Romantizm",
+                "Toplumcu gerçekçilik",
+                "Klasik sanat"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "523140"
+        },
+        {
+            "id": 141,
+            "question": "Bir şeyi duyurmak veya tanıtmak için hazırlanan, kalabalığın görebileceği yere asılmış, genellikle resimli duvar ilanı olarak tanımlanan görsel İletişim aracı aşağıdakilerden hangisidir?",
+            "options": [
+                "Minyatür",
+                "Karikatür",
+                "Afiş",
+                "İllüstrasyon",
+                "Fotoğraf"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 142,
+            "question": "Athena Heykeli aşağıdakilerden hangisini temsil etmektedir?",
+            "options": [
+                "Şimşek ve yıkıcılık tanrıçasını",
+                "Bilgelik ve savaş tanrıçasını",
+                "Yeraltı dünyası tanrıçasını",
+                "Ölümsüzlük tanrıçasını",
+                "Denizler tanrıçasını"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 143,
+            "question": "Resim sanatında parlaklık ile karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratacak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir?",
+            "options": [
+                "Genre",
+                "Asimetri",
+                "Sfumato",
+                "Chiaroscuro",
+                "Çizgisel perspektif"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 144,
+            "question": "Hiciv amaçlı deformasyon ile karakterize edilen çizim tekniği tarihte ilk olarak aşağıdaki sanatçılardan hangisine atfedilir?",
+            "options": [
+                "Annibale Carracci",
+                "Erhard Schön",
+                "Gian Lorenzo Bernini",
+                "Leonardo da Vinci",
+                "William Hogarth"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 145,
+            "question": "Tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı, \"Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir.\" görüşü ile tiyatro sanatına güçlü bir eleştiri getiren kuramcı ve aynı zamanda yönetmen aşağıdakilerden hangisidir?",
+            "options": [
+                "Çehov",
+                "Meyerhold",
+                "Brecht",
+                "Beckett",
+                "Schechner"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 146,
+            "question": "\"Film çekilmez, inşa edilir. Bu inşayı, yaratımı gerçekleştiren ise kurgudur.\" ifadesi aşağıdaki film kuramlarından hangisine aittir?",
+            "options": [
+                "Gerçekçi kuram",
+                "Gösterge bilimsel kuram",
+                "Avangart (öncü) kuram",
+                "Biçimci kuram",
+                "Yeni Gerçekçi kuram"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 147,
+            "question": "Sanatın gerçekliği yansıtan bir ayna olduğu görüşünü ilk kez dile getiren filozof aşağıdakilerden hangisidir?",
+            "options": [
+                "Kant",
+                "Aristoteles",
+                "Platon",
+                "Sartre",
+                "Hegel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 148,
+            "question": "Geleneksel (klasik) anlatı sinemasının dramatik yapısında gerilimin had safhaya ulaştığı aşamaya ne ad verilir?",
+            "options": [
+                "Doruk noktası",
+                "Düğüm",
+                "Serim",
+                "Arınma (Katharsis)",
+                "Çatışma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 149,
+            "question": "Gerçekçilik ve Doğalcılık (Realizm ve Natüralizm) için geçerli olan sanat ilkesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanat güzellik içindir.",
+                "Sanat bilgi içindir.",
+                "Sanat sanat içindir.",
+                "Sanat estetik içindir.",
+                "Sanat toplum içindir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 150,
+            "question": "\"Sanat her türlü gerçeği ayıp (AHLAK), günah (DİN), suç (ADALET) gibi ket vuruculardan kurtulmuş olarak yansıtmalıdır.\" anlayışı aşağıdaki kuramlardan hangisiyle ortaya çıkmıştır?",
+            "options": [
+                "Aktarımcı Anlatımcılık Kuramı",
+                "Platon'un Yansıtma Kuramı",
+                "Neo-Klasik Yansıtma Kuramı",
+                "Aristoteles'in Yansıtma Kuramı",
+                "Modern Yansıtma Kuramları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 151,
+            "question": "Öncüllerin sonucunu desteklediği akıl yürütme biçimlerine ne ad verilir?",
+            "options": [
+                "Öncül",
+                "Safsata",
+                "Tasım",
+                "Sonuç",
+                "Çıkarım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 152,
+            "question": "Resim yüzeyinin alışılan dikey konumundan yatay konuma geçmesi ve resmin üretilmesi sırasında eylemin kendisinin resim haline dönüşme sürecini tanımlayan Action Painting, Beden-Hareket-Eylem Resmi aşağıdaki sanatçılardan hangisiyle tanınır?",
+            "options": [
+                "Marc Chagall",
+                "Willem de Kooning",
+                "Robert Rauschenberg",
+                "Jackson Pollock",
+                "Franz Kline"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 153,
+            "question": "Damien Hirst'in ünlendiği heykeli aşağıdakilerden hangisidir?",
+            "options": [
+                "Kanatsız Kuş",
+                "Ölü Köpekbalığı",
+                "Sürünen Yılan",
+                "Ağaca Çıkan Kedi",
+                "Gezinen Fare"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 154,
+            "question": "Aşağıdakilerden hangisi genel bir yargıdan onun özel bir örneğini çıkarma üzerine kurulu bir düşünme yöntemidir?",
+            "options": [
+                "Önerme",
+                "Analoji",
+                "Arıtm",
+                "Tümevarım",
+                "Tümdengelim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 155,
+            "question": "Fountain/Çeşme heykeli aşağıdaki sanatçılardan hangisine aittir?",
+            "options": [
+                "Rodin",
+                "Duchamp",
+                "Kosuth",
+                "Fidias",
+                "Degas"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 156,
+            "question": "Felsefede, hazcılık, hazzın mutlak anlamda iyi olduğunu, insan eylemlerinin nihai anlamda haz sağlayacak bir biçimde planlanması gerektiğini, sürekli haz verene yönelmenin en uygun davranış biçimi olduğunu savunan felsefi görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Determinizm",
+                "Romantizm",
+                "Hedonizm",
+                "Empirizm",
+                "Varoluşçuluk"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 157,
+            "question": "Sanatta modernizmin ya da modern sanatın ilk güçlü akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Toplumcu gerçekçilik",
+                "Gerçekçilik",
+                "Klasik sanat",
+                "Romantizm",
+                "Sembolizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 158,
+            "question": "1930'ların Almanya'sında Nazi propagandasıyla mücadele etmek için afiş tasarlayan ve bu yüzden Gestapo'nun en çok arananlar listesine aldığı tasarımcı aşağıdakilerden hangisidir?",
+            "options": [
+                "John Heartfield",
+                "Aleksander Mikhailovich Rodchenko",
+                "Lucian Bernhard",
+                "Eugène Samuel Grasset",
+                "El Lissitzky"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 159,
+            "question": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein aşağıdaki sanat akımlarından hangisi ile tanınırlar?",
+            "options": [
+                "Kavramsal sanat",
+                "Op-Art",
+                "Fluxus",
+                "Video art",
+                "Pop-Art"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 160,
+            "question": "19. yüzyılda Antik Yunan'dan beri seçkin insanları, tanrıları, asilleri, kahramanları konu alan tragedyayı halktan, sıradan insanların yaşamları üzerine kurarak çarpıcı bir değişiklik yaratan ve türlerin değişmez özelliklerine karşı bir eleştiri getiren tiyatrocu aşağıdakilerden hangisidir?",
+            "options": [
+                "Büchner",
+                "Goethe",
+                "Schiller",
+                "Ibsen",
+                "2. Georg"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "574665"
+        },
+        {
+            "id": 161,
+            "question": "Spor eleştirisi genel olarak aşağıdakilerden hangisinin değerlendirmesidir?",
+            "options": [
+                "Süre ve zaman",
+                "Beceri ve performans",
+                "Rekor ve başarı",
+                "Alkış ve tezahürat",
+                "Sayı ve gol"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 162,
+            "question": "\"Sanat, alışkanlıkları kırmalıdır\" görüşünü savunurlar. Alışkanlıkları kırmanın yolu da sanatta \"Biçim\" aracılığıyla olabilir. Amaç gerçekliği yansıtmak değil, onu değişik biçimde göstermek-algılatmak olmalıdır. Yukarıda söz edilen sanat kuramı aşağıdakilerden hangisidir?",
+            "options": [
+                "Anglo-Amerikan Biçimciliği",
+                "Hedonizm",
+                "Romantizm",
+                "Yapısalcılık",
+                "Rus Biçimciliği"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 163,
+            "question": "Bir kişi kendisine yeterli nedenler verildiği halde fikrini değiştirmemekte direniyorsa, aşağıdakilerden hangisini benimsediği söylenebilir?",
+            "options": [
+                "Gerçekçilik",
+                "İdealizm",
+                "Dogmacılık",
+                "Eleştirel Düşünme",
+                "Ilımlı Muhafazakârlık"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 164,
+            "question": "Öncüllerin sonucu desteklemediği akıl yürütme biçimlerine ne ad verilir?",
+            "options": [
+                "Sonuç",
+                "Çıkarım",
+                "Tasım",
+                "Öncül",
+                "Safsata"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 165,
+            "question": "Edebiyatın öncelikli işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Arınma (katharsis)",
+                "Bilgi aktarmak",
+                "İnsanı anlamak",
+                "Zevk vermek",
+                "Anlatı (öykü anlatmak)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 166,
+            "question": "Müziği oluşturan ses yüksekliği, ritim, süre, dinamik, artikülasyon ve çalgılama gibi parametrelerin bir kısmında bestecinin seçimi yorumcuya bıraktığı yazı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Atonal müzik",
+                "Empresyonist müzik",
+                "Leitmotif",
+                "Rastlamsal müzik",
+                "Senfonik şiir"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 167,
+            "question": "Müzik tarihinde, Barok dönemin de başlangıcı kabul edilen ve 17. yüzyılın başlarında ortaya çıkan tür aşağıdakilerden hangisidir?",
+            "options": [
+                "Opera",
+                "Rastlamsal müzik",
+                "Senfoni",
+                "Senfonik şiir",
+                "Gregoriyen ezgisi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 168,
+            "question": "Sanatın gerçekliği yansıtan bir ayna olduğu görüşünü ilk kez dile getiren filozof aşağıdakilerden hangisidir?",
+            "options": [
+                "Hegel",
+                "Sartre",
+                "Kant",
+                "Aristoteles",
+                "Platon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 169,
+            "question": "Toz boyalara tutucu malzeme olarak yumurta akı katılarak elde edilen boya malzemesine ne ad verilir?",
+            "options": [
+                "Fresko",
+                "Tempera",
+                "Chiaroscuro",
+                "Sfumato",
+                "Mozaik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 170,
+            "question": "Neo-Empresyonistlerin kullandığı ve fırçanın noktasal dokunuşlarla renklerin birbirleriyle etkileşiminin yarattığı renk teorisine dayalı sanat biçemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Tuşe",
+                "Ekspresif",
+                "Pointilizm",
+                "Skala",
+                "Divizyonizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 171,
+            "question": "Yunan mitolojisinde ve bu mitolojiye göre konum alıp, oluşturulan heykellerde görülen ve gökyüzünün hakimi olan tanrı aşağıdakilerden hangisidir?",
+            "options": [
+                "Zeus",
+                "Herkül",
+                "Athena",
+                "Hades",
+                "Poseidon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 172,
+            "question": "Richard Hamilton, Andy Warhol ve Roy Lichtenstein aşağıdaki sanat akımlarından hangisi ile tanınırlar?",
+            "options": [
+                "Fluxus",
+                "Kavramsal sanat",
+                "Op-Art",
+                "Video art",
+                "Pop-Art"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 173,
+            "question": "Damien Hirst'in ünlendiği heykeli aşağıdakilerden hangisidir?",
+            "options": [
+                "Ağaca Çıkan Kedi",
+                "Gezinen Fare",
+                "Kanatsız Kuş",
+                "Ölü Köpekbalığı",
+                "Sürünen Yılan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 174,
+            "question": "Magna Mater (Ana Tanrıça) heykellerinin yapılış amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bulaşıcı hastalıktan korunma",
+                "Estetik bir obje olarak üretme",
+                "Verimliliği artırma",
+                "Geleceğe mesaj verme",
+                "Ana erkil bir toplum yapısını temsil etme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 175,
+            "question": "Deneysel sinemanın öncü kuramcısı ve yönetmen Kuleşov'a göre, her sanatın bir gereci ve bu gereci söz konusu sanata uygulamak için de bir yöntemi vardır. Sinemanın gereci film parçalarıdır (çekimlerdir). Sinema sanatında bu gereci yaratıcı şekilde bir araya getiren yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "Alan derinliği",
+                "Kurgu",
+                "Mizansen",
+                "Plan sekans",
+                "Pozlama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 176,
+            "question": "Sanatta modernizmin ya da modern sanatın ilk güçlü akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Romantizm",
+                "Klasik sanat",
+                "Toplumcu gerçekçilik",
+                "Gerçekçilik",
+                "Sembolizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 177,
+            "question": "Aşağıdakilerden hangisi karikatürcüler tarafından kullanılan konu ele alma tekniklerinden biri <u>değildir</u>?",
+            "options": [
+                "Abartma",
+                "Aşağılama",
+                "Çelişki",
+                "Gizleme",
+                "Şakacılık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 178,
+            "question": "Her öykü bir anlatıdır fakat her anlatı bir öykü <u>değildir</u>. Yukarıdaki cümleden yola çıkı bir anlatının öykü olabilmesi için temel olarak aşağıdaki ögelerden hangisine sahip olması gerekir?",
+            "options": [
+                "Konuya",
+                "Olay örgüsüne",
+                "Kahramana",
+                "Hikayeye",
+                "İçeriğe"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 179,
+            "question": "Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubu olarak başlayan kaba gülünçlüklerden, tuhaf ve olmayacak şakalaşmalardan yararlanan, karşıt görüntüleri, bağdaşmaz durumları şaşırtıcı biçimde birleştiren güldürü üslup biçimine ne ad verilir?",
+            "options": [
+                "Grotesk",
+                "Totem",
+                "Minyatür",
+                "Karikatür",
+                "Mozaik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        },
+        {
+            "id": 180,
+            "question": "Aşağıdakilerden hangisi \"Kültürel Afiş\" türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Konser Afişi",
+                "Sinema Afişi",
+                "Tiyatro Afişi",
+                "Ürün Afişi",
+                "Sergi Afişi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626548"
+        }
+    ]
+}

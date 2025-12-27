@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "I. Tasarım süreçleri disiplinler arası iş birliği gerektirir. II. Yalnızca sanatsal ve estetik kaygılar üzerine kuruludur. III. Kullanıcı odaklı bir yaklaşımla geliştirilmelidir. IV. Yaratıcılık sürecin başat unsurudur. Yukarıdakilerden hangileri tasarım sürecinin temel özelliklerindendir?",
+            "options": [
+                "I ve II",
+                "I ve III",
+                "II ve IV",
+                "I, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi Vitruvius'un tasarım ve mimarlık alanında ortaya koyduğu temel ilkelerden biridir?",
+            "options": [
+                "Dayanıklılık",
+                "Estetik",
+                "Simetri",
+                "Doğallık",
+                "Minimalizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 3,
+            "question": "Tasarım kültürünün tarihsel gelişim sürecinde, 1960'larda İngiltere'de ortaya çıkan ve genç nesil için parlak, kullanışlı olmayan ancak ekonomik ürünlerle tüketim kültürünü destekleyen akım aşağıdakilerden hangisidir?",
+            "options": [
+                "Minimalist Tasarım",
+                "Radikal Tasarım",
+                "Pop Tasarım",
+                "Fonksiyonel Tasarım",
+                "Postmodern Tasarım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 4,
+            "question": "Sanayi Devrimi ve sonrasında yaşanan tasarım dönüşümü ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bauhaus Okulu, tasarımın yalnızca sanatsal bir süreç olduğunu savunmuştur.",
+                "İngiltere'de, tasarım eğitiminin pratik ve işlevselliği vurgulaması gerektiği savunulmuştur.",
+                "Arts and Crafts Hareketi, endüstrileşmeye tepki olarak doğmuş ve zanaat üretimine vurgu yapmıştır.",
+                "Kristal Saray, prefabrik yapı teknolojisinin ilk büyük ölçekli başarılarından biridir.",
+                "Tasarımın estetikten ziyade işlevsel boyutlarına odaklanarak dekoratif unsurların ikinci olduğu savunmuştur."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 5,
+            "question": "Hofstede Kültürel Boyutlar Teorisi'nde bir toplumda daha az güce sahip bireylerin, gücün eşit olmayan şekilde dağıtılmasını ne ölçüde kabul ettiğini aşağıdaki kavramlardan hangisi ile açıklar?",
+            "options": [
+                "Bireycilik",
+                "Maskülenlik",
+                "Uzun Dönem Yönelim",
+                "Güç Mesafesi",
+                "Belirsizlikten Kaçınma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 6,
+            "question": "Aşağıdakilerden hangisi sunum metinlerinin hazırlanmasında izlenmesi gereken adımlardan biri <u>değildir</u>?",
+            "options": [
+                "Doğru, etkili ve entelektüel gücü yüksek sözcükler kullanılır.",
+                "Metinlerin etkisini artırmak için olabildiğince bilgi yüklemesi yapılır.",
+                "Metinlerin akıcı olmasına özen gösterilir.",
+                "Taslaklarda çalışmaların kavramsal ve güçlü yönlerini vurgulamaya özen gösterilir.",
+                "Her çalışma veya projeyi anlatan taslak metinler hazırlanır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 7,
+            "question": "Portfolyo türleri ve formatları ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Profesyonel portfolyolar staj ya da iş başvuruları için hazırlanan portfolyolardır.",
+                "Taşınabilir portfolyolar, fiziksel malzemelerle kişiselleştirilebilir.",
+                "Hedef kitleye göre portfolyo formatı belirlemek gereksizdir.",
+                "Akademik portfolyolar, belirli bir format gerektirebilir.",
+                "Portfolyo malzemeleri, izleyici üzerinde farklı algılar yaratabilir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 8,
+            "question": "Taşınabilir portfolyolar ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Bir tanıtım nesnesi olarak hizmet eder.",
+                "Birden çok duyuyu harekete geçirir.",
+                "Kişiye özgü tasarlanır ya da kişiselleştirilebilir.",
+                "Portfolyo iç elemanlarını taşımaya, korumaya ve sunmaya yardımcı olur.",
+                "Her sunum gününde her saat istenilen kişilerle zahmetsizce paylaşılabilir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi portfolyo web platformlarının amaçları arasında yer <u>almaz</u>?",
+            "options": [
+                "Çalışmaları sergilemek",
+                "Taşınabilir portfolyoları sergilemek",
+                "Ağ kurmak",
+                "Geniş kitlelere ulaşmak",
+                "İş fırsatları yaratmak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 10,
+            "question": "Aşağıdakilerden hangisi sunum provasının sağladığı avantajlardan biri <u>değildir</u>?",
+            "options": [
+                "Zamanı iyi yönetmek",
+                "Dönüt almak",
+                "Özgüveni artırmak",
+                "Maliyeti düşürmek",
+                "Ses tonu ve beden dili kontrolünü sağlamak"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 11,
+            "question": "Art Basel aşağıdaki organizasyon türlerinden hangisine bir örnektir?",
+            "options": [
+                "Uluslararası Sanat Festivali",
+                "Büyük Sanat Galerisi",
+                "Uluslararası Sanat Fuarı",
+                "Uluslararası Sanat Sergisi",
+                "Büyük Ticari Fuar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 12,
+            "question": "Mimari yapılarda duvar içinde bırakılan arkeolojik, etnografik, güncel ya da fütüristik olarak ziyaretçiyi <u>kabul etmeyen</u> mekânlara ne ad verilir?",
+            "options": [
+                "Bordür",
+                "Niş",
+                "Galeri",
+                "Arkolit",
+                "Kartolayper"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 13,
+            "question": "Geleneksel müzecilik anlayışının dışında antropolojik, etnografik, güncel ya da fütüristik temalarda, küratör olarak ziyaretçiden <u>bilgilendirmek</u> amacıyla kurulan mekânlara ne ad verilir?",
+            "options": [
+                "Bilgilendirme merkezi",
+                "Bilim merkezi",
+                "Enstitü",
+                "Galeri",
+                "Müze"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi küratörlerin sorumluluklarından biri <u>değildir</u>?",
+            "options": [
+                "Sergi temasını tanımlamak",
+                "Sanatçılar ile görüşmeler yapmak",
+                "Sergilenecek eserleri seçmek",
+                "Sergileri tasarlamak ve düzenlemek",
+                "Teknik donanım ve montaj ile ilgilenmek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 15,
+            "question": "Bir sanat kurumunun, tematik müzenin ya da kültür yapısının temasından, mekân seçiminden, sunulacak eserler ve sanatçıları belirleyen, ayrıca tüm bunları düzenleyen kişiye ne ad verilir?",
+            "options": [
+                "Müze müdürü",
+                "Sanatçı",
+                "Küratör",
+                "Mimar",
+                "Grafik tasarımcı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 16,
+            "question": "Çevrim içi iletişimde popüler hale gelmiş, metin mesajlarını geliştirmek ve duyguları görsel olarak ifade etmek için bağlamla uyumlu görsel temsiller ileten ve çeşitli anlam düzeylerini artırarak yazılı metni tamamlayan pazarlama uygulaması aşağıdakilerden hangisidir?",
+            "options": [
+                "GIF",
+                "Şema",
+                "Gradyan",
+                "İdeogram",
+                "Tipografi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 17,
+            "question": "Aşağıdakilerden hangisi şablon kullanımının faydalarından biri <u>değildir</u>?",
+            "options": [
+                "Marka kimliğinin güçlendirilmesi",
+                "Pazarlama stratejisinin genel tutarlılığının artırılması",
+                "Hedef kitle nezdinde marka algısı ve bilinirliğinin olumlu yönde etkilenmesi",
+                "Marka mesajlarının farklı platformlarda tekdüze sunulması",
+                "Markanın sürekli olarak farklı ve yenilikçi bir imaj sergilemesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 18,
+            "question": "Aşağıdakilerden hangisi simetrik tasarımların tercih edilmesinin temel nedenidir?",
+            "options": [
+                "Asimetrik tasarımlardan daha karmaşık olmaları",
+                "Bilişsel olarak daha kolay işlenebilmeleri",
+                "İnsanları rasyonel kararlar almaya yönlendirmeleri",
+                "Daha fazla bilgi içermeleri",
+                "Duygusal tepkileri tetiklemeleri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdakilerden hangisi görsel iletişimin pazarlama alanındaki önemli işlevlerinden biridir?",
+            "options": [
+                "Rakip firmaların ürünlerini tanıtmak",
+                "Hedef kitlenin dikkatini çekmek ve duyguları harekete geçirmek",
+                "Tüketici davranışlarını olumsuz etkilemek",
+                "Sadece geleneksel pazarlama yöntemlerinde kullanmak",
+                "Marka bilinirliğini azaltmak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi görsel iletişimin temel ögelerinden biri <u>değildir</u>?",
+            "options": [
+                "Tipografi",
+                "Görüntüler",
+                "Renk",
+                "Düzen",
+                "İşitsel ögeler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618233"
+        },
+        {
+            "id": 21,
+            "question": "Aşağıdakilerden hangisi tasarım süreçlerinin aşamalarından biri <u>değildir</u>?",
+            "options": [
+                "Prototipleme",
+                "Fikir geliştirme",
+                "Pazarlama",
+                "Araştırma",
+                "Analiz"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi çevrimdışı dijital portfolyo tasarımında <u>kullanılmaz</u>?",
+            "options": [
+                "Apple Keynote",
+                "Google Slides",
+                "Canva",
+                "Microsoft Excel",
+                "Adobe InDesign"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdakilerden hangisi küratörlerin çalışma alanları içinde yer <u>almaz</u>?",
+            "options": [
+                "Sanat merkezleri",
+                "Yerel yönetimler",
+                "Müzeler",
+                "Kültür merkezleri",
+                "Festival standları"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 24,
+            "question": "Aşağıdakilerden hangisi pazarlamada renklerin marka kimliğinin oluşturulmasında kullanım alanlarından biri <u>değildir</u>?",
+            "options": [
+                "Ürün fiyatlandırması",
+                "Ambalaj",
+                "Dağıtım",
+                "Reklam",
+                "Marka logosu tasarımı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 25,
+            "question": "3D modelleme ve baskı teknolojilerinin kullanım alanları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "3D modelleme, basılı medyada kullanılan görsel efektlerle sınırlıdır.",
+                "Maya, sadece vektör tabanlı grafik tasarım projeleri üzerinde çalışır.",
+                "Karmaşık yüzey geometrilerini modellemek ve dijital prototipler oluşturmak için kullanılır.",
+                "3D baskı, yalnızca sanatsal projeler için geliştirilmiştir.",
+                "Blender, fotoğraf düzenleme ve ışık ayarları için kullanılır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 26,
+            "question": "İcatların etkileme potansiyeli özelliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Sadece belirli bir kullanıcı kitlesine hitap etme özelliği vardır.",
+                "İcatlar, toplum, endüstri veya bilim alanlarında önemli katkılar sağlama kapasitesine sahiptir.",
+                "Mevcut ürünleri geliştirme amacı taşımaz.",
+                "Geçici bir çözüm olmayı sağlar.",
+                "Sadece bireysel kullanım için geliştirilir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdakilerden hangisi Blok Zincir Teknolojisinin tasarım süreçlerindeki en önemli katkılarından biridir?",
+            "options": [
+                "Dijital eserlerin çoğaltılmasını teşvik eder",
+                "Dijital eserlerin anonim kalmasını sağlar.",
+                "Veri görselleştirme araçlarıyla doğrudan entegrasyon sunar.",
+                "Blok zincir teknolojisi, yalnızca finans sektöründe kullanılır.",
+                "Dijital eserlerin güvenli bir şekilde kayıt altına alınmasını sağlayarak fikri mülkiyet haklarını korur."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 28,
+            "question": "Aşağıdakilerden hangisi inovasyon sürecinde sürdürülebilirlik özelliğini ifade eder?",
+            "options": [
+                "Farklı unsurları bir araya getirerek yeni bir bütün oluşturmak",
+                "Sadece teknolojik yenilikleri kapsamak",
+                "Ekonomi, sosyal ve çevre alanlarında kalıcı ve geçerli çözümler sunmak",
+                "Mevcut yöntemleri uzun süre değiştirmemek",
+                "Sadece ekonomik faydaya odaklanmak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 29,
+            "question": "Aşağıdakilerden hangisi yeni teknolojilerin tasarım alanındaki dezavantajlarından biridir?",
+            "options": [
+                "Yeni iş fırsatları yaratması",
+                "Kullanıcı odaklı tasarımı güçlendirmesi",
+                "Küresel erişim sağlaması",
+                "Yüksek maliyetlere neden olması",
+                "Verimliliği artırması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 30,
+            "question": "Aşağıdakilerden hangisi görsel iletişim tasarımcılarının çalışma alanlarından biri <u>değildir</u>?",
+            "options": [
+                "Animasyon ve oyun tasarımı",
+                "İnşaat sektörü",
+                "Eğitim ve akademik materyallerin yazımı",
+                "Reklam ve pazarlama",
+                "Grafik tasarım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 31,
+            "question": "Portföy ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Yalnızca gerçek müşteri projeleri içermelidir.",
+                "Sosyal medya varlığıyla desteklenmesi faydalıdır.",
+                "Portföy, tasarımcının yeteneklerini ve stilini sergileyen en güçlü araçtır.",
+                "Yaratıcı projeleri de içermesi önemlidir.",
+                "Çevrimiçi platformlarda da paylaşılabilir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 32,
+            "question": "Aşağıdakilerden hangisi görsel iletişim tasarımında en yaygın olarak kullanılan yazılım araçlarından biridir?",
+            "options": [
+                "Excel",
+                "Microsoft Word",
+                "AutoCAD",
+                "Adobe Photoshop",
+                "QuickBooks"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 33,
+            "question": "Danimarka'da uygulanan enerji kooperatifleri modelinin özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Yerel toplulukların enerji projelerine katılımını engellemek",
+                "Sadece kâr amacı gütmek",
+                "Profesyonellerin enerji projelerine katılımını sağlamak",
+                "Yenilenebilir enerji projelerini dışlamak",
+                "Ekonomik fayda yaratmak ve çevresel sürdürülebilirliği desteklemek"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 34,
+            "question": "Aşağıdakilerden hangisi kültürel ve sanatsal etkinliklerin farkındalık yaratmada başarılı bir örneğidir?",
+            "options": [
+                "Banksy",
+                "Klimt",
+                "Monet",
+                "Dali",
+                "SEGD"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 35,
+            "question": "Earth Hour etkinliği ile dünya genelinde iklim değişikliği ve enerji tasarrufu gibi çevresel konulara dikkat çekmek amacıyla aşağıdakilerden hangisi yapılır?",
+            "options": [
+                "Işıkları yakmak",
+                "Sadece müzik etkinlikleri düzenlemek",
+                "Yerel etkinlikler düzenlemek",
+                "Yeşil renk kıyafetler giyinmek",
+                "Işıkları kapatmak"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 36,
+            "question": "Topluluk katılımının tanımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bireylerin ve grupların sosyal, ekonomik ve çevresel konular üzerinde etkili olabilmelerini sağlayan bir süreçtir.",
+                "Yerel toplulukların yalnızca ekonomik kalkınmasını sağlama çalışmalarıdır.",
+                "Bireylerin sadece sosyal sorunları ele almasıdır.",
+                "Karar alma süreçlerine katılmama durumunudur.",
+                "Bireysel projelerin sürdürülme çabalarıdır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 37,
+            "question": "Kullanılabilirlik testlerinin temel amacı aşağıdakilerden hangisidir?",
+            "options": [
+                "Ürün maliyetlerini azaltmak",
+                "Kullanıcıların bir ürünle nasıl etkileşime girdiğini anlamak",
+                "Kullanıcıların duygusal tepkilerini ölçmek",
+                "Kullanıcıların demografik verilerini toplamak",
+                "Ürün özelliklerini tanıtmak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 38,
+            "question": "Tasarım yönetiminde multidisipliner ekiplerin rolü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kullanıcı geri bildirimlerini göz ardı etmek",
+                "Yalnızca tasarımcılardan oluşan ekipler oluşturmak",
+                "Ürünlerin yalnızca pazarlama stratejilerini geliştirmek",
+                "Farklı disiplinlerden gelen uzmanların bir araya gelmesini sağlamak",
+                "Sadece teknik sorunları çözmek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 39,
+            "question": "Hassenzahl'ın hedonik kalite kavramı neyi ifade eder?",
+            "options": [
+                "Ürünün maliyet ve performans oranını",
+                "Ürünün minimalist ve sade tasarımını",
+                "Ürünün estetik, duygusal ve kişisel anlamını",
+                "Bir ürünün temel işlevlerini ne kadar iyi yerine getirdiğini",
+                "Kullanıcıların ürünle ilgili hataları tanıma ve kurtarma becerilerini"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        },
+        {
+            "id": 40,
+            "question": "A/B testi, kullanıcı deneyimi araştırmalarında neyi ölçmek için kullanılır?",
+            "options": [
+                "Kullanıcıların demografik verilerini",
+                "İki farklı tasarımın performansını",
+                "Kullanıcıların doğal ortamlarındaki davranışlarını",
+                "Kullanıcıların duygusal tepkilerini",
+                "Personaların bilgi mimarisi tercihlerini karşılaştırmak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622605"
+        }
+    ]
+}

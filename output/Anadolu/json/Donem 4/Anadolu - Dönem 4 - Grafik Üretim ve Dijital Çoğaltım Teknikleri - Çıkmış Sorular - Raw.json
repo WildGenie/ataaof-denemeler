@@ -1,0 +1,1803 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi Osmanlı İmparatorluğu'nda ilk Türk matbaasını kuran kişidir?",
+            "options": [
+                "İbrahim Müteferrika",
+                "Damat İbrahim Paşa",
+                "Sait Efendi",
+                "Ahmed İhsan",
+                "Mehmet Çelebi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 2,
+            "question": "I. Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması II. Gravür tasarımın arayüz programının farklılığı III. Oyma işleminin lazer ışınlarıyla yapılması Yukarıdakilerden hangisi/hangileri lazer işleme teknolojisinin elektromekanik yöntemle arasındaki temel farklardandır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 3,
+            "question": "Planografi olarak da bilinen baskı tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Elek Baskı",
+                "Sablon Baskı",
+                "Çukur Baskı",
+                "Düz Baskı",
+                "Yüksek Baskı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 4,
+            "question": "Tipo baskı kalıbının tüm yüzeyinin aynı kalitede baskı yapması için kalıp altından veya kazan kağıdında yapılan yükseklik ayarlarına ne ad verilir?",
+            "options": [
+                "Garnitür",
+                "Gale",
+                "Mizantren",
+                "Vizo",
+                "Çift"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 5,
+            "question": "Bugüne ulaşan bilinen en eski baskıresim örneği sayılan eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Beş Alman Askeri",
+                "Babil İncili",
+                "The Flagellation",
+                "Gutenberg İncili",
+                "Diamond Sutra"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 6,
+            "question": "I. El Tezgahları (Presler) II. Pedal Makineleri (Düz kazanlı presler) III. Basit Baskı Makineleri IV. Ofset Baskı Makineleri Yukarıdakilerden hangileri Tipo baskı makine sistemleri arasında yer alır?",
+            "options": [
+                "I ve II",
+                "I ve IV",
+                "I, II ve III",
+                "I, II ve IV",
+                "I, III ve V"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 7,
+            "question": "Baskı altı malzemesinin nemlendirilmiş ve mürekkep verilmiş kalıpla buluştuğu ve baskının gerçekleştiği sisteme ne ad verilir?",
+            "options": [
+                "Blanket silindiri",
+                "Baskı ünitesi",
+                "Mürekkep ünitesi",
+                "Kalıp silindiri",
+                "Nemlendirme ünitesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 8,
+            "question": "Aşağıdakilerden hangisi ofset baskı sisteminin temel bileşenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Baskı silindiri",
+                "Mürekkepleme ünitesi",
+                "Kalıp silindiri",
+                "Nemlendirme ünitesi",
+                "Ön değerlendirme alanı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 9,
+            "question": "Isıya maruz kalmadığı durumlarda günlerce taze kalabilir. Özellikle tekstil baskısında kullanılır. Bu mürekkepler daha yoğun krema gibi bir kıvama sahiptir, akıcı değildir. Yukarıdaki paragrafta anlatılan serigrafi mürekkebi türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Su bazlı mürekkep",
+                "Solvent bazlı mürekkep",
+                "Pigment bazlı mürekkep",
+                "Plastisol mürekkep",
+                "UV mürekkep"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 10,
+            "question": "Aşağıdakilerden hangisi serigrafi baskının öncüsü olduğu bilinen tekniktir?",
+            "options": [
+                "Şablon Baskı",
+                "Çukur Baskı",
+                "Kumaş Baskı",
+                "Yüksek Baskı",
+                "Düz Baskı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 11,
+            "question": "Bilgisayardan eleğe kalıp hazırlama yöntemi olarak bilinen yöntem aşağıdakilerden hangisidir?",
+            "options": [
+                "RISO CTS",
+                "FPS",
+                "DTS",
+                "RISO DTS",
+                "CTS"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 12,
+            "question": "Elde edilen ya da üretilen görüntünün monitörlerde ve projeksiyon cihazlarında nasıl görüntüleneceğini belirleyen profillere ne ad verilir?",
+            "options": [
+                "Web Profili",
+                "Ekran Profilleri",
+                "Çıktı Profilleri",
+                "U.S Shetfed Profili",
+                "Giriş Profilleri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 13,
+            "question": "Bir rengin spektrumdaki yerine ne ad verilir?",
+            "options": [
+                "Renk Türü",
+                "Valör",
+                "Kroma",
+                "Doygunluk",
+                "Değer"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdaki ağaçların hangisinin lifi daha kısa olduğu için kalın ve kaba dokulu kağıt üretiminde kullanılır?",
+            "options": [
+                "Ladin",
+                "Kavak",
+                "Meşe",
+                "Köknar",
+                "Çam"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 15,
+            "question": "Tüm baskı birimlerinin tutarlı bir şekilde aynı sonuçları sağladığından emin olmak için aşağıdakilerden hangisinin yapılması gerekir?",
+            "options": [
+                "Özelleştirme",
+                "Stabilizasyon",
+                "Kalibrasyon",
+                "Aylaklama",
+                "Genelleştirme"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 16,
+            "question": "Çok hafif ve ince, transparan bir kağıt türüdür. Genellikle ambalaj sektöründe kırılacak objeleri korumak amacıyla kullanılmaktadır. Yukarıda verilen kağıt türü aşağıdakilerden hangisidir?",
+            "options": [
+                "I. Hamur Kağıt",
+                "Karton",
+                "Pelür",
+                "II. Hamur Kağıt",
+                "Bristol"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 17,
+            "question": "I. Kağıt su yönünde daha kolay yırtılır ve katlanır. II. Kağıt su yönünde daha katı, tok ve sağlamdır. III. Kağıdın havadan nem aldığı zaman boyutlarındaki değişmeler su yönünde olur. Kağıdın su yönü ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "II ve III"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 18,
+            "question": "Piksel verilerini depolamak için seçilen tekniğe bağlı olarak kayıplı veya kayıpsız olabilir. Bazıları, iki seviyeli (siyah beyaz) görüntüler için nispeten iyi kayıpsız sıkıştırma sunar. Bazı dijital kameralar, kayıpsız depolama için LZW sıkıştırma algoritmasını kullanarak görüntüleri bu formatta kaydedebilir. Yukarıda anlatılan raster görüntü formatı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "TIFF",
+                "GIF",
+                "JPEG",
+                "PNG",
+                "HEIC"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 19,
+            "question": "Glifleri ikinci dereceden Bezier eğrileriyle tanımlanmaktadır. Hâlen yaygın olarak tercih edilmekte ve tüm büyük işletim sistemlerinde kullanılabilmektedir. Dosya uzantıları \"ttf\" kısaltması ile belirlenmiştir. Yukarıda anlatılan font formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Vektör Fontlar",
+                "TrueType Fontlar",
+                "Type1 Fontlar",
+                "OpenType Fontlar",
+                "Type3 Fontlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 20,
+            "question": "I. Genellikle vektör dosyalarından küçüktür. II. Milyonlarca piksel ve yüksek ayrıntı seviyeleri içerebilir. III. Büyük boyutları, cihaz depolama alanını etkileyebilir. IV. Web'de sayfa yükleme hızını yavaşlatabilir. Raster dosyalar ile yukarıdaki ifadelerden hangileri doğrudur?",
+            "options": [
+                "I ve ll",
+                "II ve III",
+                "I, II ve III",
+                "II, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "606644"
+        },
+        {
+            "id": 21,
+            "question": "I. Keskin ve temiz görüntüler üretir. II. Baskı kalıpları hızlı ve kolay üretilir. III. Ticari baskıda yüksek kaliteli baskı üretmenin en ucuz yöntemidir. Yukarıdakilerden hangisi/hangileri ofset baskının diğer baskı türlerine göre avantajlarındandır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 22,
+            "question": "Vitreografi tekniği aşağıdaki baskı türlerinden hangisi içinde yer alır?",
+            "options": [
+                "Mono Baskı",
+                "Elek Baskı",
+                "Yüksek Baskı",
+                "Düz Baskı",
+                "Çukur Baskı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 23,
+            "question": "Tipo baskıda dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan, genellikle iki punto genişliğindeki metale ne ad verilir?",
+            "options": [
+                "Hurufat",
+                "Boş Takım",
+                "Anterzin",
+                "Vizo",
+                "Kıymıtür"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 24,
+            "question": "Tipo baskı sistemindeki en önemli özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Değişken miktarlarda mürekkep alabildiğinden ton değerlerinin değişken ve belirsiz olması",
+                "Karakter dizgi tekniklerinin sınırlı olması",
+                "Genellikle sanatsal çalışmalar için tercih edilmesi",
+                "Tipo baskı sistemi ile yapılan kesim, kırım, gofre ve sıcak yaldız işlemlerinin diğer baskı sistemlerinde yapılamaması",
+                "Hibrit teknolojisi sayesinde çok sayıda baskı üretilebilmesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 25,
+            "question": "Kağıt üzerine basılarak bugüne ulaşmış, baskıresimin bilinen en eski örneği sayılan eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Babil İncili",
+                "Gutenberg İncili",
+                "Diamond Sutra",
+                "The Flagellation",
+                "Beş Alman Askeri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdakilerden hangisi fotomekanik baskıresim tekniğinin gelişmesinde kilit rol oynayan jelatin lakı bulan ve patentini alan sanatçıdır?",
+            "options": [
+                "W. H. F. Talbot",
+                "Paul Pretsch",
+                "J. P. Niepce",
+                "Frederich Leighton",
+                "Moritz von Jacobi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 27,
+            "question": "Orijinal bir fotoğrafı noktalara ve baskı reprodüksiyonuna uygun değişen boyutlara ayırma eylemine ne ad verilir?",
+            "options": [
+                "Litografi",
+                "Fotolitografi",
+                "Yarı ton",
+                "Flekso",
+                "Tipo"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 28,
+            "question": "I. Yüksek Baskı II. Çukur Baskı III. Elek Baskı IV. Düz Baskı<br>Yukarıdakilerden hangileri baskı tekniklerindendir?",
+            "options": [
+                "I ve II",
+                "I, II ve III",
+                "I, III ve IV",
+                "II, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 29,
+            "question": "Baskı altı malzemesinin nemlendirilmiş ve mürekkep verilmiş kalıpla buluştuğu ve baskının gerçekleştiği sisteme ne ad verilir?",
+            "options": [
+                "Baskı ünitesi",
+                "Nemlendirme ünitesi",
+                "Kalıp silindiri",
+                "Blanket silindiri",
+                "Mürekkep ünitesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 30,
+            "question": "Nufilm adlı lake film teknolojisini icat eden kişi aşağıdakilerden hangisidir?",
+            "options": [
+                "Samuel Simon",
+                "Charles Peter",
+                "Joe Ulano",
+                "Edward Owens",
+                "Roy Beck"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 31,
+            "question": "Dijital grafiklerin üretiminde tercih edilen, renkleri tanımlarken 6 haneli kodlar kullanan ve RGB sistemindeki 3 rengin olası tüm permütasyonlarını bu kodlarla karşılayan renk sistemine ne ad verilir?",
+            "options": [
+                "CIE sistemi",
+                "Ekran Renkleri",
+                "RGB",
+                "HEX",
+                "CMYK"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 32,
+            "question": "Elde edilen ya da üretilen görüntünün monitörlerde ve projeksiyon cihazlarında nasıl görüntüleneceğini belirleyen profillere ne ad verilir?",
+            "options": [
+                "Giriş Profilleri",
+                "Ekran Profilleri",
+                "Çıktı Profilleri",
+                "U.S Shetfed Profili",
+                "Web Profili"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 33,
+            "question": "Güzel sanatlarda resim bezinin, üzerine gerildiği pahlı tahta çerçeve olarak da kullanıl ır. Serigrafide elek kalıbın çevresine adı da verilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "kasnak",
+                "askı",
+                "merdane",
+                "katagami",
+                "silindir"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 34,
+            "question": "araçlarının en çok kullanılanlarından biri olmanın yanı sıra tüm temel renk kanallarına ayrı ayrı müdahale etme seçenekleri sayesinde kontrollü ve doğal renk ayarlamaları yapmaya olanak tanıyan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Ton/Doygunluk",
+                "Ters Çevir",
+                "Ağartıcı",
+                "Seçmeli Renk",
+                "Düzeyler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdaki ağaçların hangisinin lifi daha kısa olduğu için kalın ve kaba dokulu kağıt üretiminde kullanılır?",
+            "options": [
+                "Ladin",
+                "Meşe",
+                "Köknar",
+                "Çam",
+                "Kavak"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 36,
+            "question": "I. Genellikle raster dosyalarından küçüktür. II. Büyük boyutları, cihaz depolama alanını etkileyebilir. III. Web'de sayfa yükleme hızlarını yavaşlatabilir.<br>Vektör dosyalar ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız III",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 37,
+            "question": "I. Kağıt su yönünde daha kolay yırtılır ve katlanır. II. Kağıt su yönünde daha katı, tok ve sağlamdır. III. Kağıdın havadan nem aldığı zaman boyutlarındaki değişmeler su yönünde olur.<br>Kağıdın su yönü ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 38,
+            "question": "Kağıdın ilk icat edildiği ülke aşağıdakilerden hangisidir?",
+            "options": [
+                "Kore",
+                "Japonya",
+                "Türkistan",
+                "Amerika",
+                "Çin"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 39,
+            "question": "Glifleri ikinci dereceden Bezier eğrileriyle tanımlanmaktadır. Hâlen yaygın olarak tercih edilmekte ve tüm büyük işletim sistemlerinde kullanılabilmektedir. Dosya uzantıları \"ttf\" kısaltması ile belirlenmiştir.<br>Yukarıda anlatılan font formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "Vektör Fontlar",
+                "TrueType Fontlar",
+                "Type3 Fontlar",
+                "Type1 Fontlar",
+                "OpenType Fontlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 40,
+            "question": "\".PSD\" dosya formatı aşağıdaki programların hangisinin ürettiği dosya formatıdır?",
+            "options": [
+                "İllustrator",
+                "Photoshop",
+                "İndesign",
+                "Premier",
+                "Afetr Effects"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606664"
+        },
+        {
+            "id": 41,
+            "question": "Tifdruk baskı teknolojisi aşağıdaki geleneksel baskı metodlarından hangisini kullanmaktadır?",
+            "options": [
+                "Yüksek Baskı",
+                "Çukur Baskı",
+                "Şablon Baskı",
+                "Taş Baskı",
+                "Düz Baskı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 42,
+            "question": "Genellikle zor şekillerin üzerine baskı yapma amacıyla kullanılır. Tıbbi cihazlar (şırıngalar, cerrahi aletler vb.) şeker, kozmetik ambalajlar (krem kutuları, parfüm şişeleri vb.). Bu ürünler net ve düzgün bir yüzeye sahip olmadığından dolayı bu baskı türü için uygundur. Yukarıda anlatılan baskı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Hibrit baskı",
+                "Hızlı baskı",
+                "Tampon baskı",
+                "Flesko baskı",
+                "Sanatsal baskı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 43,
+            "question": "-----, basılı materyaller yollarından biridir. Gazeteler, dergiler, broşürler, kırtasiye malzemeleri ve kitaplar bu baskı yöntemi ile yapılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Flesko baskı",
+                "Fotogravür",
+                "Ofset baskı",
+                "Tramlı baskı",
+                "Tampon baskı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 44,
+            "question": "Aşağıdakilerden hangisi Osmanlı İmparatorluğu'nda ilk Türk matbaasını kuran kişidir?",
+            "options": [
+                "İbrahim Müteferrika",
+                "Sait Efendi",
+                "Damat İbrahim Paşa",
+                "Ahmed İhsan",
+                "Mehmet Çelebi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 45,
+            "question": "Tipo Baskıda çember içindeki sayfa boşluklarının düzenlenmesi için kullanılan malzemeye ne ad verilir?",
+            "options": [
+                "Altlık",
+                "Vizo",
+                "Klişe",
+                "Garnitür",
+                "Anterlin"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 46,
+            "question": "Planografi olarak da bilinen baskı tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Şablon Baskı",
+                "Düz Baskı",
+                "Elek Baskı",
+                "Yüksek Baskı",
+                "Çukur Baskı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 47,
+            "question": "Kalıpların bağlanmak ve taşınmak üzere yerleştirildiği tablaya ne ad verilir?",
+            "options": [
+                "Gale",
+                "Baskı",
+                "Vizo",
+                "Altlık",
+                "Anterlin"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 48,
+            "question": "Tipo baskı sistemindeki en önemli özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Karakter dizgi tekniklerinin sınırlı olması",
+                "Hibrit teknolojisi sayesinde çok sayıda baskı üretilebilmesi",
+                "Değişken miktarlarda mürekkep alabildiğinden ton değerlerinin değişken ve belirsiz olması",
+                "Tipo baskı sistemi ile yapılan kesim, kırım, gofre ve sıcak yaldız işlemlerinin diğer baskı sistemlerinde yapılamaması",
+                "Genellikle sanatsal çalışmalar için tercih edilmesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 49,
+            "question": "I. Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması II. Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı III. Oyma işleminin lazer ışınlarıyla yapılması Yukarıdakilerden hangisi/hangileri lazer işleme teknolojisinin elektro mekanik yöntemle arasındaki farklılıklardandır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 50,
+            "question": "I. El Tezgahları (Presler) II. Pedal Makineleri (Düz kazanlı presler) III. Silindir Kazanlı Baskı Makineleri IV. Ofset Baskı Makineleri Yukarıdakilerden hangileri Tipo baskı makine sistemleri arasında yer alır?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "I, II ve III",
+                "I, II ve IV",
+                "I, III ve IV"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 51,
+            "question": "Tipo baskı kalıbının üzerine iyi kalitede baskı yapılması için kalıp altından veya kazanan kağıdından yapılan yükseklik ayarlarına ne ad verilir?",
+            "options": [
+                "Vizo",
+                "Çift",
+                "Garnitür",
+                "Mizantren",
+                "Gale"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 52,
+            "question": "I. Yayıncılık basımları II. Ambalaj basımları III. Ürün etiketi basımları IV. Tv reklam ürünleri Yukarıdakilerden hangisi/hangileri tifdruk baskının endüstriyel alandaki genel kullanım alanlarını oluşturur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız IV",
+                "I ve II",
+                "II ve IV",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 53,
+            "question": "Paul Pretsch'in geliştirip patentini aldığı bu teknik ışığa duyarlı emülsiyonun metal plaka üzerine uygulanıp pozlanmasıyla elde edilen görüntünün baskısının alınması ile sonuca ulaşılan bir çukurbaskı yöntemidir. Yukarıda anlatılan çukur baskı yöntemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Fotogravür",
+                "Fotogalvanografi",
+                "Serigrafi",
+                "Aquatint",
+                "Kalotip"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 54,
+            "question": "Baskı altı malzemesinin nemlendirilmiş ve mürekkep verilmiş kalıpla buluştuğu ve baskının gerçekleştiği sisteme ne ad verilir?",
+            "options": [
+                "Mürekkep ünitesi",
+                "Nemlendirme ünitesi",
+                "Baskı ünitesi",
+                "Blanket silindiri",
+                "Kalıp silindiri"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 55,
+            "question": "Kağıt üzerine basılarak bugüne ulaşmış, baskıresimin bilinen en eski örneği sayılan eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Beş Alman Askeri",
+                "Gutenberg İncili",
+                "Babil İncili",
+                "The Flagellation",
+                "Diamond Sutra"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 56,
+            "question": "------: ilk metal çukur baskı örneğidir. noktalı baskı olarak bilinen bu baskılar, 15. yüzyılın ikinci yarısında yapılmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Kurukazıma",
+                "Asit oyma",
+                "Ağaç baskı",
+                "Crible",
+                "Mezzotint"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 57,
+            "question": "Ofset baskıda baskının gerçekleşmesinde kullanılacak mürekkebi merdaneler (silindirler) aracılığıyla kalıba taşıyan üniteye ne ad verilir?",
+            "options": [
+                "Mürekkepleme ünitesi",
+                "Baskı silindiri",
+                "Nemlendirme ünitesi",
+                "Blanket silindiri",
+                "Kalıp silindiri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 58,
+            "question": "Rotatif ofset adıyla da bilinen ofset baskı tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Tabaka ofset baskı",
+                "Web Ofset Baskı",
+                "Nemlendirme Sistemli Ofset Baskı",
+                "Susuz (Kuru) Ofset Baskı",
+                "Fleksografi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 59,
+            "question": "I. Electrolnk II. Termal elektro mürekkep transfer teknolojisi III. Anında renk değiştirme Yukarıdakilerden hangisi/hangileri Dijital ofset baskı sürecinin temel teknolojilerindendir?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 60,
+            "question": "Aşağıdakilerden hangisi ofset baskı sisteminin temel bileşenlerinden <u>biri</u> <u>değildir</u>?",
+            "options": [
+                "Ön değerlendirme alanı",
+                "Mürekkepleme ünitesi",
+                "Nemlendirme ünitesi",
+                "Baskı silindiri",
+                "Kalıp silindiri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606652"
+        },
+        {
+            "id": 61,
+            "question": "Genellikle zor şekillerin üzerine baskı yapma amacıyla kullanılır. Tıbbi cihazlar (şırıngalar, cerrahi aletler vb.) şeker, kozmetik ambalajlar (krem kutuları, parfüm şişeleri vb.). Bu ürünler net ve düzgün bir yüzeye sahip olmadığından dolayı bu baskı türü için uygundur.<br>Yukarıda anlatılan baskı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Flesko baskı",
+                "Tampon baskı",
+                "Hibrit baskı",
+                "Hızlı baskı",
+                "Sanatsal baskı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi Osmanlı'da matbaanın geç gelişmesinin nedenlerinden biridir?",
+            "options": [
+                "Kitap üretimi için kâğıt ihtiyacının yeteri kadar karşılanmaması",
+                "Matbaanın Avrupa'dan geç gelmesi",
+                "Osmanlı'da güzel yazı yazmaya verilmemesi",
+                "Yeteri kadar kaliteli cihazlar olmaması",
+                "Matbaacılıkla ilgili ilgi eksikliği"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 63,
+            "question": "Planografi olarak da bilinen baskı tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Ahşap Baskı",
+                "Yüksek Baskı",
+                "Düz Baskı",
+                "Elek Baskı",
+                "Çukur Baskı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 64,
+            "question": "Aşağıdakilerden hangisi Osmanlı'da matbaadan çıkan ilk kitaptır?",
+            "options": [
+                "Kitâb-ı Mukaddes",
+                "İncil",
+                "Süleymaniye Külliyesi hatıratı",
+                "Lügati-Vankuli",
+                "Elmas Sutra"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 65,
+            "question": "Aşağıdakilerden hangisi Osmanlı İmparatorluğu'nda ilk Türk matbaasını kuran kişidir?",
+            "options": [
+                "İbrahim Müteferrika",
+                "Ahmed İhsan",
+                "Damat İbrahim Paşa",
+                "Mehmet Çelebi",
+                "Sait Efendi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 66,
+            "question": "Endüstriyel baskı teknikleri, kullanılan ve uygulanan teknik kalıpların yapılarına göre beşe ayrılmaktadır.<br>Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu tekniklerden biri <u>değildir</u>?",
+            "options": [
+                "Dijital baskı",
+                "Yüz baskı",
+                "Çukur baskı",
+                "Taş baskı",
+                "Yüksek baskı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 67,
+            "question": "Aşağıdakilerden hangisi tipo baskı kalıbı hazırlarken kullanılan malzemelerden biri <u>değildir</u>?",
+            "options": [
+                "Klişe",
+                "Fotoğrafik film",
+                "Espas",
+                "Vizo",
+                "Hurufat"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 68,
+            "question": "Tipo baskı sistemindeki en önemli özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "Genellikle sanatsal çalışmalar için tercih edilmesi",
+                "Karakter dizgi tekniklerinin sınırlı olması",
+                "Tipo baskı sistemi ile yapılan kesim, kırım, gofre ve sıcak yaldız işlemlerinin diğer baskı sistemlerinde yapılamaması",
+                "Değişken miktarlarda mürekkep alabildiğinden ton değerlerinin değişken ve belirsiz olması",
+                "Hibrit teknolojisi sayesinde çok sayıda baskı üretilebilmesi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 69,
+            "question": "I. Yayıncılık basımları<br>II. Ambalaj basımları<br>III. Ürün etiketi basımları<br>IV. Tv reklam ürünleri<br>Yukarıdakilerden hangisi/hangileri tifdruk baskının endüstriyel alandaki genel kullanım alanınlarını oluşturur?",
+            "options": [
+                "Yalnız I",
+                "Yalnız IV",
+                "I ve II",
+                "II ve IV",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 70,
+            "question": "Tipo baskı tekniğinin tarihsel süreci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Tipo baskı, yalnızca el yazması kitaplar için kullanılmıştır.",
+                "Tipo baskı, kaliteli bir üretim için elverişli değildir.",
+                "Tipo baskı tekniği, 21. yüzyılda gelişmeye başlamıştır.",
+                "Tipo baskı tekniğinin ilk prototipi 11. yüzyılda Çinliler tarafından geliştirilmiştir.",
+                "Tipo baskının mucidi Mısır medeniyetidir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 71,
+            "question": "I. El Tezgahları<br>II. Pedal Makineleri (Düz kazanlı presler)<br>III. Silindir Kazanlı Baskı Makineleri<br>IV. Ofset Baskı Makineleri<br>Yukarıdakilerden hangileri tipo baskı makine sistemleri arasında yer alır?",
+            "options": [
+                "I ve II",
+                "II ve III",
+                "I, II ve III",
+                "I, II ve IV",
+                "I, III ve IV"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 72,
+            "question": ": İlk metal çukur baskı örneğidir. noktalı baskı olarak bilinen bu baskılar, 15. yüzyılın ikinci yarısında yapılmıştır.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Crible",
+                "Kurukazıma",
+                "Mezzotint",
+                "Ağaç baskı",
+                "Asit oyma"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 73,
+            "question": "Çin'de bulunduğu bilinen kağıt hangi yüzyılda bulunmuştur?",
+            "options": [
+                "I. Yüzyıl",
+                "II. Yüzyıl",
+                "III. Yüzyıl",
+                "IV. Yüzyıl",
+                "V. Yüzyıl"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 74,
+            "question": "Gazeteler, kitaplar, dergi ve broşürler gibi yüksek baskı sayısına sahip ürünler ve baskı sonrasında forma hâline getirilerek ciltleme işlemi uygulanacak işler için uygun olan ofset baskı türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Nemlendirme sistemli ofset",
+                "Tabaka ofset",
+                "Kuru ofset",
+                "Web ofset"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 75,
+            "question": "Rotogravür baskı makinesi ile aşağıdaki yüzeylerden hangilerinin üzerine baskı yapılır?",
+            "options": [
+                "Naylon, polietilen ve alüminyum",
+                "Sadece baskı kalıpları",
+                "Ahşap ve metal",
+                "Kumaş ve desenleri",
+                "Sadece tekstil ürünleri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 76,
+            "question": "Aşağıdakilerden hangisi tifdruk baskının diğer çukur baskı yöntemlerinden ayıran en önemli avantajıdır?",
+            "options": [
+                "Sanatsal eserlerin baskısı için kullanılması",
+                "Yalnızca özel sanat baskıları için uygulanması",
+                "Karmaşık yapılı sistemlerden biri olması",
+                "Büyük tirajlı baskıların alınabilmesine olanak vermesi",
+                "Küçük ölçekli tasarımların baskıları için uygulanabilmesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 77,
+            "question": "Ofset baskı tekniğinin dayandığı prensip aşağıdakilerden hangisidir?",
+            "options": [
+                "Yüksek sıcaklığın olmaması",
+                "Su ve solüsyonun karışması",
+                "Su ve yağın birbirine karışmaması",
+                "Solvent ve suyun birleşmesi",
+                "Kimyasal reaksiyonlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 78,
+            "question": "I. Pigmentler<br>II. Taşıyıcı akışkanlar<br>III. Bağlayıcı akışkanlar<br>IV. Çözücüler<br>Yukarıdakilerden hangileri mürekkeplerin bileşenlerindendir?",
+            "options": [
+                "I, II ve III",
+                "I, II ve IV",
+                "I, III ve IV",
+                "II, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdakilerden hangisi fotolitografi tekniğini ilk kullanan ve icat eden kişidir?",
+            "options": [
+                "Engelmann",
+                "Joseph Niepce",
+                "Henry Talbot",
+                "Alois Senefelder",
+                "Louis Ducos du Hauron"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 80,
+            "question": "I. Electrolnk<br>II. Termal ofset<br>III. Anında renk değiştirme<br>Yukarıdakilerden hangisi/hangileri Dijital ofset baskı sürecinin temel teknolojilerindendir?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "Yalnız III",
+                "I ve II",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618225"
+        },
+        {
+            "id": 81,
+            "question": "1. I. Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması II. Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı III. Oyma işleminin lazer ışınlarıyla yapılması Yukarıdakilerden hangisi/hangileri lazer işleme teknolojisinin elektromekanik yöntemle arasındaki temel farklardandır?",
+            "options": [
+                "A) Yalnız I",
+                "B) Yalnız II",
+                "C) I ve II",
+                "D) II ve III",
+                "E) I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 82,
+            "question": "2. Aşağıdakilerden hangisi padişah fermanıyla Osmanlı'da kurulan matbaada basılan ilk kitaptır?",
+            "options": [
+                "A) Sihah il-Cevheri",
+                "B) Lügati-Vankuli",
+                "C) Evliya Çelebi Seyahatnamesi",
+                "D) Dîvânu Lugâti't-Türk",
+                "E) Muhakemetü'l Lugateyn"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 83,
+            "question": "3. Aşağıdakilerden hangisi yazının milattan önce ortaya çıktığı bin yıldır?",
+            "options": [
+                "A) M.Ö. 5000",
+                "B) M.Ö. 4000",
+                "C) M.Ö. 3000",
+                "D) M.Ö. 2000",
+                "E) M.Ö. 1000"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 84,
+            "question": "4. I. Termal ofset transfer teknolojisi II. Anında renk değiştirme III. Elektro mürekkep Yukarıdakilerden hangisi/hangileri dijital ofset baskı sürecinin temel teknolojisini oluşturur?",
+            "options": [
+                "A) Yalnız I",
+                "B) Yalnız II",
+                "C) Yalnız III",
+                "D) I ve II",
+                "E) I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 85,
+            "question": "5. Serigrafi tekniğinde elek üzerine sürülen ışığa duyarlı malzemeye ne ad verilir?",
+            "options": [
+                "A) Pigment",
+                "B) Emülsiyon",
+                "C) Rakle",
+                "D) Mürekkep",
+                "E) UV mürekkep"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 86,
+            "question": "6. Bu aracı kullanarak, fotoğraf ya da illüstrasyon gibi görsellerin renklerini daha doygun ya da daha soluk hale getirmek ve renkleri değiştirmek mümkündür.",
+            "options": [
+                "A) Parlaklık/Kontrast",
+                "B) Ton/Doygunluk",
+                "C) Düzeyler",
+                "D) Invert",
+                "E) Levels"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 87,
+            "question": "7. Serigrafi tekniğinin türediği geleneksel baskı tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "A) Düz Baskı",
+                "B) Şablon Baskı",
+                "C) Monotip Baskı",
+                "D) Yüksek baskı",
+                "E) Çukur Baskı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 88,
+            "question": "8. I. Görüntü dijital olarak bilgisayar ortamında hazırlanır. II. Emülsiyon çekilmiş kalıp baskı kullanılır. III. UV ışık ile kurutma ve yıkama aşamaları mevcuttur. CTS (Computer to Screen) yöntemi ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "A) Yalnız I",
+                "B) Yalnız II",
+                "C) Yalnız III",
+                "D) I ve II",
+                "E) I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 89,
+            "question": "9. Bir rengin griye doğru canlılığını kaybederek nötrleştiği skalada saflık derecesini betimlemek için kullanılan renk terimi aşağıdakilerden hangisidir?",
+            "options": [
+                "A) Valör",
+                "B) Değer",
+                "C) Kroma",
+                "D) Renk tonu",
+                "E) Renk özü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 90,
+            "question": "10. Bir görselin renklerini tek komutla negatif oluşturacak şekilde tersine çevirmeyi sağlayan ve uygulandığı görseldeki renklerin tümünü renk çemberindeki karşıt rengine çeviren komut aşağıdakilerden hangisidir?",
+            "options": [
+                "A) Parlaklık/Kontrast",
+                "B) Ton/Doygunluk",
+                "C) Düzeyler",
+                "D) Invert",
+                "E) Levels"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 91,
+            "question": "11. Kaba ve kalın dokulu kağıtlar aşağıdaki ağaç türlerinden hangisinin kullanılması ile elde edilir?",
+            "options": [
+                "A) Kayın",
+                "B) Kavak",
+                "C) Köknar",
+                "D) Çam",
+                "E) Ladin"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 92,
+            "question": "12. Isıya maruz kalmadığı durumlarda kurumadan günlerce taze kalabilir. Özellikle tekstil baskısında kullanılır. Bu mürekkepler daha yoğun krema gibi bir kıvama sahiptir, akıcı değildir.",
+            "options": [
+                "A) Su bazlı mürekkep",
+                "B) Solvent bazlı mürekkep",
+                "C) Plastisol mürekkep",
+                "D) Pigment bazlı mürekkep",
+                "E) UV mürekkep"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 93,
+            "question": "13. Renkleri aygıttan bağımsız bir şekilde tanımlamanın tek yöntemine ne ad verilir?",
+            "options": [
+                "A) Gamut",
+                "B) ICC Profili",
+                "C) CIE sistemi",
+                "D) PCS- Profil Bağlantı Alanı",
+                "E) Renk gamı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 94,
+            "question": ":İçinde ağaç miktarı az, selüloz miktarı fazla olan beyaz renkli kağıtlardır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "A) Pelür",
+                "B) Bristol",
+                "C) Kuşe",
+                "D) I.Hamur",
+                "E) II.Hamur"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 95,
+            "question": "15. Aşağıdakilerden hangisi çıkartma kağıtları için kullanılan kağıt ebadıdır?",
+            "options": [
+                "A) 50x70",
+                "B) 52x87",
+                "C) 64x90",
+                "D) 68x100",
+                "E) 70x100"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 96,
+            "question": "16. I. AVI II. MOV III. MP4 IV. EMF Yukarıdakilerden hangileri hareketli görüntü formatlarındandır?",
+            "options": [
+                "A) I ve II",
+                "B) I ve III",
+                "C) II ve IV",
+                "D) I, II ve III",
+                "E) I, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 97,
+            "question": "17. Bir kağıdın baskıda mürekkep alan yüzünün arka yüzü etkileyip etkilememesi kağıdın aşağıdaki özelliklerinden hangisi ile ilgilidir?",
+            "options": [
+                "A) Kağıdın dokusu",
+                "B) Kağıdın yüzeyi",
+                "C) Kağıdın rengi",
+                "D) Kağıdın şekli",
+                "E) Kağıdın yoğunluğu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 98,
+            "question": "18. Taşınabilir Ağ Grafikleri anlamına gelen kayıpsız bir görüntü biçimine sahip dosya türü aşağıdakilerden hangisidir?",
+            "options": [
+                "A) JPEG",
+                "B) PNG",
+                "C) HEIC",
+                "D) HEX",
+                "E) PSD"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 99,
+            "question": "19. Grafik Değişim Biçimi olarak bilinen, keskin çizgileri koruduğu için çizgi sanatı ve metin içeren görüntüler gibi ton değerleri olmayan düz grafikler için kullanılan dosya formatı aşağıdakilerden hangisidir?",
+            "options": [
+                "A) GIF",
+                "B) HEIC",
+                "C) TIFF",
+                "D) PSD",
+                "E) JPEG"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 100,
+            "question": "20. I. Vektör görüntü dosyalarında çözünürlük önemli bir sorundur. II. Vektör görüntüler, yeniden ölçeklendirebilir ve yeniden şekillendirebilir. III. Vektör görüntüler, daha sınırlı sayıda renk taşır. Vektör görüntü ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "A) Yalnız I",
+                "B) I ve II",
+                "C) I ve III",
+                "D) II ve III",
+                "E) I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606661"
+        },
+        {
+            "id": 101,
+            "question": "Kağıt üzerine basılarak bugüne ulaşmış, baskıresimin bilinen en eski örneği sayılan eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Babil İncili",
+                "The Flagellation",
+                "Gutenberg İncili",
+                "Beş Alman Askeri",
+                "Diamond Sutra"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 102,
+            "question": "Tifdruk baskı teknolojisi aşağıdaki geleneksel baskı metotlarından hangisini kullanmaktadır?",
+            "options": [
+                "Düz Baskı",
+                "Yüksek Baskı",
+                "Taş Baskı",
+                "Çukur Baskı",
+                "Şablon Baskı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 103,
+            "question": "Tipo baskıda dizilen satırların birbirine karışıp bozulmaması için satır aralarına konulan, genellikle iki punto genişliğindeki metale ne ad verilir?",
+            "options": [
+                "Vizo",
+                "Boş Takım",
+                "Anterlin",
+                "Hurufat",
+                "Garnitür"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 104,
+            "question": "Baskı altı malzemesinin nemlendirilmiş ve mürekkep verilmiş kalıpla buluştuğu ve baskının gerçekleştiği sisteme ne ad verilir?",
+            "options": [
+                "Mürekkep ünitesi",
+                "Kalıp silindiri",
+                "Nemlendirme ünitesi",
+                "Blanket silindiri",
+                "Baskı ünitesi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 105,
+            "question": "Serigrafi tekniğinde kullanılan boya sıyırıcıya ne ad verilir?",
+            "options": [
+                "Elek",
+                "Rakle",
+                "Emülsiyon",
+                "Mürekkep",
+                "Kurutma rafı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 106,
+            "question": "Aşağıdakilerden hangisi dijital renk yönetim sisteminin temel amacıdır?",
+            "options": [
+                "Farklı cihazlar arasında renk uyumsuzluğunu önlemek",
+                "Ekran renklerini iyileştirmek",
+                "Grafiklerin yalnızca dijital ortamda doğru görünmesini sağlamak",
+                "Renkli yazıcıların renkleri doğru üretmesini sağlamak",
+                "Renklerin yazılımda doğru miktar ayarlarında görünmesini sağlamak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi serigrafi baskı tekniğinde kullanılan malzemedir?",
+            "options": [
+                "Plastik şablon",
+                "Silikon şablonlar",
+                "Bronz plakalar",
+                "Bakır kalıp",
+                "İpek kumaş"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 108,
+            "question": "Serigrafi tekniğinin türediği geleneksel baskı tekniği aşağıdakilerden hangisidir?",
+            "options": [
+                "Yüksek Baskı",
+                "Çukur Baskı",
+                "Şablon Baskı",
+                "Düz Baskı",
+                "Monotip Baskı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 109,
+            "question": "Aşağıdakilerden hangisi bir renk yönetimi sisteminde stabilizasyonun amacıdır?",
+            "options": [
+                "Ekipmanın doğru şekilde kalibre edilmesini sağlamak",
+                "Ekipmanın her seferinde aynı sonuçları üretmesini sağlamak",
+                "Renk doğruluğu sağlayacak profillerin oluşturulması sağlamak",
+                "Grafik yazılımlarının doğru çalışmasını sağlamak",
+                "Renkli cihazların kullanıcı profillerinin belirlenmesini sağlamak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 110,
+            "question": "Çoğaltılacak basılı bir grafik ürünün tasarım RGB ile tasarlanıp CMYK'ya çevrildiğinde aşağıdaki durumlardan hangisi yaşanır?",
+            "options": [
+                "Renkler soluklaşır.",
+                "Renkler daha canlı ve doygun hale gelir.",
+                "Hiçbir renk kaybı yaşanmaz.",
+                "Hiçbir değişiklik olmaz, renkler aynen kalır.",
+                "Renkler tam anlamıyla kaybolur."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 111,
+            "question": "Renk düzenleme araçlarının en çok kullanılanlarından biri olmanın yanı sıra tüm temel renk kanallarına ayrı ayrı müdahale etme seçenekleri sayesinde kontrollü ve doğal renk ayarlamaları yapmaya olanak tanıyan araç aşağıdakilerden hangisidir?",
+            "options": [
+                "Ters Çevir",
+                "Ton/Doygunluk",
+                "Düzeyler",
+                "Seçmeli Renk",
+                "Eğriler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 112,
+            "question": "I. Yüksek Baskı<br>II. Çukur Baskı<br>III. Elek Baskı<br>IV. Düz Baskı<br>Yukarıdakilerden hangileri baskı tekniklerindendir?",
+            "options": [
+                "I ve II",
+                "I, II ve III",
+                "I, III ve IV",
+                "II, III ve IV",
+                "I, II, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 113,
+            "question": "Kağıt katlama işlemi ile ilgili olarak hangisi <u>doğru değildir</u>?",
+            "options": [
+                "Katlama işleminin gerekli olup olmadığına karar verme editöre aittir.",
+                "Kırım işlemi, tirajı yüksek olan işler için otomatik makinelerde yapılır.",
+                "Kağıt katlama, baskı sonrası kağıtların sıralanarak ciltlenebilmesi için yapılır.",
+                "Kırım işlemi düşük tirajlı işler için elle yapılır.",
+                "Kağıt katlama işlemi, baskı türüne göre değişiklik gösterir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 114,
+            "question": "Amerikan ciltleme yöntemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Yalnızca ince kağıtlar için uygundur.",
+                "Kitapların kapaklarını oluşturur.",
+                "Sıcak tutkallama kullanılır.",
+                "Tel dikişle yapılır.",
+                "Yüksek sayfalı dergiler için uygundur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 115,
+            "question": "Bir kağıdın baskıda mürekkep alan yüzünün arka yüzü etkileyip etkilememesi kağıdın aşağıdaki özelliklerinden hangisi ile ilgilidir?",
+            "options": [
+                "Kağıdın dokusu",
+                "Kağıdın yüzeyi",
+                "Kağıdın rengi",
+                "Kağıdın yoğunluğu",
+                "Kağıdın şekli"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 116,
+            "question": "Taşınabilir Ağ Grafikleri anlamına gelen kayıpsız bir görüntü biçimine sahip dosya türü aşağıdakilerden hangisidir?",
+            "options": [
+                "JPEG",
+                "PNG",
+                "HEIC",
+                "HEX",
+                "PSD"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 117,
+            "question": "Aşağıdakilerden hangisi çıkartma kağıtları için kullanılan kağıt ebadıdır?",
+            "options": [
+                "50x70",
+                "52x87",
+                "64x90",
+                "70x100",
+                "70x100"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 118,
+            "question": "UV baskı ile ilgili aşağıdaki ifadelerden hangisi <u>doğrudur</u>?",
+            "options": [
+                "UV baskı daha düşük maliyetlidir.",
+                "UV baskı düşük kaliteli baskı sonuçları verir.",
+                "UV baskı, özel formüle edilmiş mürekkepler kullanarak altında sertleşeğe sağlayan mürekkepler kullanır.",
+                "UV baskı sadece kağıt yüzeylerinde çalışır.",
+                "UV baskı yalnızca fotokopi makinelerinde kullanılabilir."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 119,
+            "question": "Dijital grafik tasarımın temelini oluşturan unsurlar aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Renk ve doku",
+                "Tipografi ve interaktif özellikler",
+                "Tipografi, hareket ve teknik",
+                "Görsel, tipografi, hareket ve etkileşim",
+                "Görsel, tipografi ve teknik"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        },
+        {
+            "id": 120,
+            "question": ".... ile web ve diğer durumlar için çok yönlü, komut dosyası yazılabilir, çok amaçlı bir vektör formatı ihtiyacını (ve birkaç şirketin girişimini) karşılamak için World Wide Web Konsorsiyumu tarafından oluşturulan ve geliştirilen açık kaynak bir standarttır.<br>Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                ".EPS",
+                ".SVG",
+                ".GIF",
+                ".JPEG",
+                ".TIFF"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622597"
+        }
+    ]
+}

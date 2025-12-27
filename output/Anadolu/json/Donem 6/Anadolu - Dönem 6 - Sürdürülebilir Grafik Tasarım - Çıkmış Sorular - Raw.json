@@ -1,0 +1,1786 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Aşağıdakilerden hangisi yapay/yarı doğal ekosistemlerin temel yapısını oluşturan ögelerden biridir?",
+            "options": [
+                "Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir.",
+                "Çok sayıda canlı türü ve yeterli ekolojik faktörleri içerir.",
+                "Genetik çeşitlilik çok yüksektir.",
+                "Tüm enerji ve biyolojik döngüler insan desteği olmaksızın gerçekleşir.",
+                "Canlılar arası besin zincirleri uzun ve karmaşıktır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 2,
+            "question": "Aşağıdakilerden hangisi ekosistem hizmetlerinin temel mal ve hizmet akışlarına dönüştürülmesi konusunda kültürel hizmetlerden biridir?",
+            "options": [
+                "Tozlaşma ve tohum dağılımı",
+                "Zararlılara karşı direnç",
+                "Genetik kaynaklar",
+                "Rekreasyon ve estetik değerler",
+                "Besin kaynağı ve gıda"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 3,
+            "question": "İşlevsel bir birim olarak etkileşim hâlinde olan bitki, hayvan ve mikroorganizma toplulukları ve bunların cansız çevrelerinden oluşan doğal ve dinamik yapılara ne ad verilir?",
+            "options": [
+                "İnovasyon",
+                "Tedarik",
+                "Ardıllık",
+                "Rekreasyon",
+                "Ekosistem"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdaki kavramlardan hangisi bir alanın, bir ürünün veya hizmetin yeni süreçler uygulayarak, yeni teknikleri kullanarak veya yeni değer yaratmak için başarılı fikirler oluşturarak yenilendiği ve güncellendiği bir süreçtir?",
+            "options": [
+                "İnovasyon",
+                "Sürdürülebilirlik",
+                "Faktör",
+                "Organizma",
+                "Ekosistem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 5,
+            "question": "-----: Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "İnovasyon",
+                "Ardıllık",
+                "Etkileşim",
+                "Metafor",
+                "Reaksiyon"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 6,
+            "question": "3 boyutlu sanat objesinin, heykelin, görsel sanatçılardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Akümülasyon sanatı",
+                "Dekolaj sanatı",
+                "Asamblaj sanatı",
+                "Kolaj sanatı",
+                "Junk sanatı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 7,
+            "question": "Üst üste katmanlar hâlinde yerleştirilmiş afiş, resim ya da basılı kâğıtların bazı bölümlerinin kesilip çıkarılmasıyla oluşturulan sanat eserine ne ad verilir?",
+            "options": [
+                "Mizanpaj",
+                "Asamblaj",
+                "Dekolaj",
+                "Akümülasyon",
+                "Montaj"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 8,
+            "question": "Atık objelerin istiflenip, asılıp, bantlanıp ve birleştirilmesi ile oluşturulan sanat eserlerine ne ad verilir?",
+            "options": [
+                "Kolaj",
+                "Akümülasyon",
+                "Dekolaj",
+                "Asamblaj",
+                "Montaj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 9,
+            "question": "----: Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Dekolaj",
+                "Asamblaj",
+                "Kolaj",
+                "Montaj",
+                "Akümülasyon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 10,
+            "question": "Aşağıdakilerden hangisi eko dizayn ilkelerinden biri <u>değildir</u>?",
+            "options": [
+                "Üretim sürecinde daha az kaynak kullanmak",
+                "Daha az kirlilik ve atık üretmek",
+                "Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak",
+                "Ürünlerin imalatında daha az malzeme kullanılmak",
+                "Yeniden kullanımı ve geri dönüşümü kolaylaştırmak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 11,
+            "question": "İki veya daha fazla sayıdaki aynı veya farklı gruptaki malzemelerin en iyi özelliklerini bir araya getirerek veya yeni bir özellik ortaya çıkarmak amacıyla, malzemelerin makro seviyede birleştirilmesine ne ad verilir?",
+            "options": [
+                "Kompozit malzeme",
+                "Tekstil ürün",
+                "Bertaraf",
+                "Polivinil klorür",
+                "Kompost"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 12,
+            "question": "Genellikle su ve içecek ambalajlarında kullanılan plastik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "PP (Polipropilen)",
+                "PS (polistiren)",
+                "LDPE (Düşük Yoğunluklu Polietilen)",
+                "PET (Polietilen Tereftalat)",
+                "HDPE (Yüksek Yoğunluklu Polietilen)"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 13,
+            "question": "Organik maddelerin daha basit organik ve inorganik maddelere ayrıştırılması işlemine ne ad verilir?",
+            "options": [
+                "Gofre",
+                "Pepurpose",
+                "Polipropilen",
+                "Bertaraf",
+                "Kompost"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 14,
+            "question": "Tarihte ilk belgelenmiş geri dönüşüm ürünü 1031 yılında aşağıdaki ülkelerden hangisinde elde edilmiştir?",
+            "options": [
+                "Japonya",
+                "Maceristan",
+                "Rusya",
+                "Azerbaycan",
+                "İrlanda"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 15,
+            "question": "Aşağıdaki yöntemlerden hangisi 1994'te çıkan ve ilk eko tasarım kılavuzlarından olan söz (promise) yaklaşımıdır?",
+            "options": [
+                "Eko-Kıyaslama (Eco-Benchmarking)",
+                "EkoTekrarTasarım (EcoReDesign)",
+                "Eko Yenileşim (Eco Inovasyon)",
+                "Yeşil parlaklık (Greenwashing)",
+                "Eko-markalama (Eco-branding)"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 16,
+            "question": "İşlevini yitirmiş kabul edilen her şeyin daha yüksek kaliteye ve estetik değerlere dönüştürülerek yeniden kullanılmasına ne ad verilir?",
+            "options": [
+                "Sıfır atık",
+                "Önleme",
+                "Kompost",
+                "İleri dönüşüm",
+                "Bertaraf"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 17,
+            "question": "Bir ürünün planlanmasından, hammaddenin elde edilmesine, fonksiyonel bir ürüne dönüşmesine ve kullanım ömrü sonrasına kadar tüm yaşam döngüsünün tasarlanması aşağıdaki kavramlardan hangi ile ifade edilir?",
+            "options": [
+                "Geri dönüşüm",
+                "Yaşam süresi",
+                "Eko tasarım",
+                "Enerji kazanımı",
+                "Yeniden üretim"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 18,
+            "question": "I. Tasarımcı, bir ürünün kullanım süresi ve çevresel etkisi hakkında bilgi sahibi olmalıdır.<br>II. Tasarımcı üretim sonrası çevresel etkileri en aza indirmek için nereye odaklanacağını bilmelidir.<br>III. Tasarım sonuçlarının genel olarak biraz olumsuz bir etkisi olacaksa, tasarımcının tüm yaşam döngüsü boyunca birçok potansiyel etkiyi göz önünde bulundurması gerekir.<br>Yukarıdaki ifadelerden hangisi/hangileri eko tasarım çözümlerinde tasarımcının odaklanması gereken konular arasında yer alır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "II ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdaki kavramlardan hangisi sürdürülebilirlik hedeflerine ulaşma, çevre koruma ve iyileştirme amacına hizmet eden bir pazar aracıdır?",
+            "options": [
+                "Yeşil halkla ilişkiler",
+                "Eko-markalama",
+                "Yeşil parlaklık",
+                "Yeşil tasarım",
+                "Eko etiketleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 20,
+            "question": "Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biridir?",
+            "options": [
+                "Güvenli imha için tasarım",
+                "Kaynak tasarrufu için tasarım",
+                "En az tüketim için tasarım",
+                "Demontaj için tasarım",
+                "Yeniden kullanım için tasarım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "606580"
+        },
+        {
+            "id": 21,
+            "question": " -----: Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Etkileşim",
+                "Metafor",
+                "Ardıllık",
+                "İnovasyon",
+                "Reaksiyon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 22,
+            "question": "Aşağıdakilerden hangisi ekosistem hizmetleri kavramının geliştirilmesinin nedenidir?",
+            "options": [
+                "Ekosistemlerin insanlar için öneminin yeni keşfedilmesi",
+                "Tarımsal üretimi artırma çabaları",
+                "İnsanların doğaya olan ilgisinin artması",
+                "Çevresel bozulmaların tamamen durdurulması",
+                "İnsan kaynaklı ekosistem kayıplarının artması ve ekosistem faydalarının korunma ihtiyacı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 23,
+            "question": "Aşağıdaki kavramlardan hangisi bir alanın, bir ürünün veya hizmetin yeni süreçler uygulayarak, yeni teknikleri kullanarak veya yeni değer yaratmak için başarılı fikirler oluşturarak yenilendiği ve güncellendiği bir süreçtir?",
+            "options": [
+                "İnovasyon",
+                "Sürdürülebilirlik",
+                "Faktör",
+                "Organizmam",
+                "Ekosistem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 24,
+            "question": "Sürdürülebilir kalkınma modeli, aşağıdakilerden hangisini amaçlamaktadır?",
+            "options": [
+                "Ekosistem hizmetlerinin yok olmasını sağlama",
+                "Sadece mevcut neslin ihtiyaçlarını karşılama",
+                "Çevresel bozulmaların artmasına destek",
+                "Gelecek nesillerin de kaynaklardan faydalanabilmesi ve bugünün ihtiyaçlarını sağlama",
+                "Doğal kaynakların hızlı tüketilmesine destek olma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 25,
+            "question": "Aşağıdakilerden hangisi ekosistem hizmetlerinin temel mal ve hizmet akışlarına dönüştürülmesi konusunda tedarik hizmetlerden biridir?",
+            "options": [
+                "Eğitim ve ilham",
+                "Kriz yönetimi",
+                "Genetik kaynaklar",
+                "Maddi araştırmalar",
+                "Madde döngüsü"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 26,
+            "question": "Aşağıdakilerden hangisi sürdürülebilir sanat uygulamalarının desteklenme nedenlerinden biri <u>değildir</u>?",
+            "options": [
+                "Erişilebilir ve uygun maliyetli malzemelerden yapılması",
+                "Ekonomik büyümeyi artırması",
+                "Siyasi ve sosyal meselelerin altını çizmesi",
+                "Yaratıcılığı desteklemesi",
+                "Çevre sorunları hakkında toplumu bilgilendirmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 27,
+            "question": "Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasıdır. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Akümülasyon",
+                "Dekolaj",
+                "Kolaj",
+                "Asamblaj",
+                "Montaj"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 28,
+            "question": "Çevreye, topluma ve ekonomiye verilen zararı önlemek veya onarmak için ürünlerin, hizmetlerin, süreçlerin veya sistemlerin tasarlanmasını veya yeniden tasarlanmasına ne ad verilir?",
+            "options": [
+                "Yeşil Sanat",
+                "Yenilenebilir enerji",
+                "Biyo-Sanat",
+                "Eko dizayn",
+                "Ekolojik sanat"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 29,
+            "question": "Atık objelerin istiflenip, asılıp, bantlanıp ve birleştirilmesi ile oluşturulan sanat eserlerine ne ad verilir?",
+            "options": [
+                "Kolaj",
+                "Akümülasyon",
+                "Dekolaj",
+                "Montaj",
+                "Asamblaj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 30,
+            "question": "3 boyutlu sanat objesinin, heykelin, görsel sanatlardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Kolaj sanatı",
+                "Asamblaj sanatı",
+                "Dekolaj sanatı",
+                "Akümülasyon sanatı",
+                "Junk sanatı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 31,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 32,
+            "question": "Aşağıdakilerden hangisi ambalaj tasarımında geri dönüşümü kolaylaştırmak için dikkate alınması gereken unsurlardan biridir?",
+            "options": [
+                "Ürüne uygun boyutlandırma ve gereksiz boşluklardan kaçınma",
+                "Sadece ambalajın estetiği",
+                "Elektronik cihaz kullanımı",
+                "Sadece geri dönüştürülmüş kağıt kullanımı",
+                "Ambalajın boyutunu artırmak"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 33,
+            "question": "Geri dönüşüm sürecinde, atıklar, çeşitli fiziksel, kimyasal veya biyokimyasal işlemlere tabi tutularak geri dönüştürülürler. Burada ortaya çıkan hammadde ----- olarak adlandırılır. Yukarıdaki paragrafta boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "birincil hammadde",
+                "yan ürün",
+                "ikincil hammadde",
+                "çöp",
+                "atık ürün"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 34,
+            "question": "Organik maddelerin daha basit organik ve inorganik maddelere ayrıştırılması işlemine ne ad verilir?",
+            "options": [
+                "Gofre",
+                "Polipropilen",
+                "Pepurpose",
+                "Bertaraf",
+                "Kompost"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 35,
+            "question": "Aşağıdakilerden hangisi \"Energy Star\" etiketinin tüketicilere anlatmak istediği konudur?",
+            "options": [
+                "Sera gazı emisyonlarının azaltılması ve enerji verimliliği",
+                "Geri dönüştürülebilir ambalaj kullanımı",
+                "Su tasarrufu sağlayan ürünlerin belirlenmesi",
+                "Kimyasal içermeyen organik ürünlerin tanımlanması",
+                "Yenilenebilir enerji kaynaklarının kullanımı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 36,
+            "question": "İki veya daha fazla sayıdaki aynı veya farklı gruptaki malzemelerin en iyi özelliklerini bir araya getirerek veya yeni bir özellik ortaya çıkarmak amacıyla, malzemelerin makro seviyede birleştirilmesine ne ad verilir?",
+            "options": [
+                "Tekstil ürün",
+                "Bertaraf",
+                "Kompost",
+                "Kompozit malzeme",
+                "Polivinil klorür"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 37,
+            "question": "Aşağıdaki tasarım projelerinden hangisi biyolojik olarak parçalanabilir malzemeler kullanarak tüketiciyi bilinçlendirmeyi amaçlar?",
+            "options": [
+                "Ekolojik Kartvizit",
+                "Çevre-Dostu Sebze Etiketi",
+                "Unilever'in Yeşil Logosu",
+                "Plastik Poşet Değilim",
+                "Büyüyen Kartvizit"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 38,
+            "question": "Eko etiketin tüketicinin bilinçlendirilmesindeki önemli ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Eko etiket, tüketiciye ürünün rengini belirten bir etikettir.",
+                "Eko etiket, tüketiciye ürünün hammaddelerini listeyen bir etikettir.",
+                "Eko etiket, tüketiciye ürünün kokusunu tanıtan bir etikettir.",
+                "Eko etiket, tüketiciye ürünün çevresel etkilerini belirten bir etikettir.",
+                "Eko etiket, tüketiciye ürünün ağırlığını gösteren bir etikettir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 39,
+            "question": "Bir ürünün planlanmasından, hammaddenin elde edilmesine, fonksiyonel bir ürüne dönüşmesine ve kullanım ömrü sonrasına kadar tüm yaşam döngüsünün tasarlanması aşağıdaki kavramlardan hangi ile ifade edilir?",
+            "options": [
+                "Enerji kazanımı",
+                "Eko tasarım",
+                "Geri dönüşüm",
+                "Yaşam süresi",
+                "Yeniden üretim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 40,
+            "question": "Aşağıdaki kavramlardan hangisi sürdürülebilirlik hedeflerine ulaşma, çevre koruma ve iyileştirme amacına hizmet eden bir pazar aracıdır?",
+            "options": [
+                "Eko-markalama",
+                "Yeşil parlaklık",
+                "Yeşil halkla ilişkiler",
+                "Eko etiketleme",
+                "Yeşil tasarım"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618229"
+        },
+        {
+            "id": 41,
+            "question": "Aşağıdakilerden hangisi ekosistem hizmetlerinin temel mal ve hizmet akışlarına dönüştürülmesindeki destek hizmetlerden biridir?",
+            "options": [
+                "Madde döngüsü",
+                "Genetik kaynaklar",
+                "Zararlılara karşı direnç",
+                "Rekreasyon ve estetik değerler",
+                "Doğa bilgisi, eğitim ve ilham"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 42,
+            "question": "Alışveriş poşetleri, ekmek paketleri, diş macunu tüpleri, saklama kapları yapımında aşağıdaki plastik türlerinden hangisi kullanılır?",
+            "options": [
+                "PP (Polipropilen)",
+                "PP (Polipropilen)",
+                "PVC (Polivinil Klorür)",
+                "PET (Polietilen Tereftalat)",
+                "LDPE (Düşük Yoğunluklu Polietilen)"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 43,
+            "question": "Eko etiket, tüketicinin ürün ile ilgili bilinçlendirilmesindeki önemli ifadelerden hangisi doğrudur?",
+            "options": [
+                "Eko etiket, tüketiciye ürünün ağırlığını gösteren bir etikettir.",
+                "Eko etiket, tüketiciye ürünün rengini belirten bir etikettir.",
+                "Eko etiket, tüketiciye ürünün hammaddelerini listeyen bir etikettir.",
+                "Eko etiket, tüketiciye ürünün çevresel etkilerini belirten bir etikettir.",
+                "Eko etiket, tüketiciye ürünün kokusunu tanıtan bir etikettir."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 44,
+            "question": "Aşağıdakilerden hangisi tüm canlıların yaşamsal faaliyet ve konumlarına duyarlı, doğadan yararlanan ve toplumsal değişim yaratan çalışmalardır?",
+            "options": [
+                "Ekolojik Sanat",
+                "Biyo-Sanat",
+                "Upcycling",
+                "Eko Dizayn",
+                "Land Art"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 45,
+            "question": "Geçmişi Orta Çağlardaki ahşap baskılara ve Gutenberg'in icadı olan baskı makinesine kadar dayanan -----, klasik baskı yöntemlerinden biridir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "serigrafi baskı",
+                "inkjet baskı",
+                "lazer baskı",
+                "ofset litografi baskı",
+                "tipo baskı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 46,
+            "question": "Aşağıdakilerin hangisinde bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanılır?",
+            "options": [
+                "Gofre",
+                "Vektörel grafik",
+                "Raster grafik",
+                "Dijital grafik",
+                "Hibrit"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 47,
+            "question": "Kâğıt üzerinde fiziksel basınç ile oluşturulan kabartma etkisine ne ad verilir?",
+            "options": [
+                "Katlama",
+                "Raster",
+                "Gofre",
+                "Selefon",
+                "Fleksografi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 48,
+            "question": "Bir malın üretim aşamalarında kendiliğinden ya da üretim yöntemi ve teknolojisine bağlı olarak oluşan hammadde azalımını ne ad verilir?",
+            "options": [
+                "Katlama",
+                "Fire",
+                "Gofre",
+                "Ciltleme",
+                "Selefon"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 49,
+            "question": "Aşağıdakilerden hangisi basılı bir kağıdın en az bir kez olmak üzere mümkün olduğunca katlanarak kitap, dergi, katalog gibi ciltli yayınların sayfaları olacak şekle getirilmiş halidir?",
+            "options": [
+                "Selefon",
+                "Emülsiyon",
+                "Braille",
+                "Spiral",
+                "Forma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdaki kavramlardan hangisi genellikle kaplama malzemesi olarak kullanılan selüloz temelli, ince ve şeffaf film tabakasıdır?",
+            "options": [
+                "Selefon",
+                "Baskı",
+                "Konsept",
+                "Serigrafi",
+                "Tone"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 51,
+            "question": "Ambalajın ürünün önceden belirlenmiş hacmini ya da ağırlığını rahatça içermeye uygun şekilde tasarlanmasına ne ad verilir?",
+            "options": [
+                "Estetik",
+                "Ekonomiklik",
+                "Kapsama",
+                "Yerleştirme",
+                "Kolaylık sağlama"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 52,
+            "question": "Tasarıma yön veren temel duygu, kavram ya da fikir olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Strateji",
+                "Konsept",
+                "Selefon",
+                "Forma",
+                "Uygulama"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 53,
+            "question": "Aşağıdakilerden hangisi camın gıda ambalajlarında kullanılmasının dezavantajlarından biridir?",
+            "options": [
+                "Kısa ömürlü olması, geri dönüşüm ve maliyet",
+                "Dayanıklılık, esneklik ve çevre dostuluğu",
+                "Yoğunluk, geri dönüşüm maliyeti",
+                "Ağırlık, geri dönüşümündeki enerji sarfiyatı ve kırılganlık",
+                "Esneklik, enerji artışı ve dayanıklılık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 54,
+            "question": "Tüm mürekkeplerin ortak noktası içlerinde uygulandıkları yüzeyi renklendirmeye yarayan ve ------ adı verilen maddelerin oluşudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "pigment",
+                "lak",
+                "gofre",
+                "spiral",
+                "selefon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 55,
+            "question": "Çevre dostu olduğunu iddia veya ima eden, ancak aslında tüketicileri yanıltmaya yönelik uygulamaları ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Ekolojik yanılgı",
+                "Ekolojik yanılsama",
+                "Yeşil yalan",
+                "Yeşil",
+                "Çevre cilası"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 56,
+            "question": "Aşağıdakilerden hangisi ambalajın <u>işlevlerinden biri değildir</u>?",
+            "options": [
+                "Kapsama",
+                "Koruma",
+                "Estetik",
+                "Bir araya getirme",
+                "Kolaylık sağlama"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 57,
+            "question": "Kağıdın orijinal rengini beyazlatmak ve parlaklığını artırmak için kağıt üretimi sırasında uygulanan kimyasal işlemlere ne ad verilir?",
+            "options": [
+                "Miselle",
+                "Boksit",
+                "Silikat",
+                "Hidrat",
+                "Ağartma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 58,
+            "question": "Aşağıdakilerden hangisi intihal teriminin tanımıdır?",
+            "options": [
+                "Bir kişinin eserini yasal yollarla koruma altına alması kullanımı engellemesidir.",
+                "Bir kişinin eserini başka biriyle paylaşmasıdır.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanmasıdır.",
+                "Bir kişinin eserini daha önce yayımlanmış bir esere dayanarak oluşturması, örenek ve emsal göstermesidir.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kullanmasıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 59,
+            "question": "I. Tasarımcı, halka zarar verecek projelerden kaçınmalıdır. II. Tasarımcı, her türlü iletişim tasarımında mesajları açık bir şekilde temsil etmeli ve yanlış, yanıltıcı ve aldatıcı tanıtımlardan kaçınmalıdır. III. İş olanaklarını takip eden tasarımcılar, adil ve açık rekabeti desteklemelidir. IV. Tasarımcı, kültürel değerlere ve inançlara duyarlı olmaya çalışmalı ve karşılıklı anlayışı teşvik eden ve cesaretlendiren adil ve dengeli iletişim tasarımı geliştirmelidir. Tasarımcının halka karşı sorumluluğuna ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+            "options": [
+                "Yalnız IV",
+                "I ve II",
+                "I ve IV",
+                "I, II ve IV",
+                "I, III ve IV"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 60,
+            "question": "First Things First (İlk Önce Öncelikler) manifestosu aşağıdaki tasarımcılardan hangisi tarafından yayınlanmıştır?",
+            "options": [
+                "Milton Glaser",
+                "Steve Cutts",
+                "David Bailey",
+                "Ken Garland",
+                "Saul Bass"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "606600"
+        },
+        {
+            "id": 61,
+            "question": "Aşağıdakilerden hangisi tüm canlıların yaşamsal faaliyet ve konumlarına duyarlı, doğadan yararlanan ve toplumsal değişim yaratan çalışmalardır?",
+            "options": [
+                "Land Art",
+                "Ekolojik Sanat",
+                "Eko Dizayn",
+                "Biyo-Sanat",
+                "Upcycling"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 62,
+            "question": "Aşağıdakilerden hangisi yapay/yarı doğal ekosistemlerin temel yapısını oluşturan ögelerden biri<u>dür</u>?",
+            "options": [
+                "Çok sayıda canlı türü ve yeterli ekolojik faktörleri içerir.",
+                "Genetik çeşitlilik çok yüksektir.",
+                "Tüm enerji ve biyolojik döngüler insan desteği olmaksızın gerçekleşir.",
+                "Canlılar arası besin zincirleri uzun ve karmaşıktır.",
+                "Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 63,
+            "question": "Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biri<u>dür</u>?",
+            "options": [
+                "Kaynak tasarrufu için tasarım",
+                "Güvenli imha için tasarım",
+                "En az tüketim için tasarım",
+                "Yeniden kullanım için tasarım",
+                "Demontaj için tasarım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 64,
+            "question": "Tarihte ilk belgelenmiş geri dönüşüm ürünü 1031 yılında aşağıdaki ülkelerden hangisinde elde edilmiştir?",
+            "options": [
+                "Azerbaycan",
+                "Japonya",
+                "Maceristan",
+                "İrlanda",
+                "Rusya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 65,
+            "question": "-----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar?",
+            "options": [
+                "Hibrit",
+                "Akordeon",
+                "Selefon",
+                "Raster grafik",
+                "İnkjet"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 66,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 67,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 68,
+            "question": "Grafik üretim süreçlerinde kullanılan temel mürekkeplerin bileşenleri aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "options": [
+                "Renklendirici maddeler, akışkanlar, yardımcı katkı maddeleri",
+                "Su, pigment, bağlayıcı",
+                "Yağ, pigment, bağlayıcı",
+                "Su, taşıyıcı, solvent",
+                "Asit, su, pigment"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 69,
+            "question": "Aşağıdaki grafik üretim sürecindeki hangi aşama fotoğraf, illüstrasyon ve metin gibi tasarım elemanlarının bir araya getirilerek nihai ürünün nasıl görüneceğini şekillendirmeyi içerir?",
+            "options": [
+                "Yaratıcı fikir ve konsept geliştirme",
+                "Sayfa düzeni (yerleşim)",
+                "Stratejik planlama",
+                "Baskı öncesi hazırlık",
+                "Baskı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 70,
+            "question": "Aşağıdakilerden hangisi hibrit grafik tasarım çözümlerine bir örnektir?",
+            "options": [
+                "Bir televizyon reklamı",
+                "Basılı bir kitap kapağı",
+                "Gazeteye basılan bir reklam afişi",
+                "Sadece dijital ortamda kullanılan bir mobil uygulama ikonu",
+                "Karekod etiketi ile erişilen çevrimiçi restoran menüsü"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 71,
+            "question": "Aşağıdakilerden hangisi bir malzemenin sürdürülebilir kabul edilmesi için sağlaması gereken koşullardan biri<u>dür</u>?",
+            "options": [
+                "Malzemenin estetik oluğu göstermek",
+                "Üretim sürecinde kullanılan iş gücünün ucuz olması sağlamak",
+                "Malzemenin fiyatını her zaman sabit tutmak",
+                "Nihai üründeki her malzemenin geri dönüştürülebilirliğini kontrol etmek",
+                "Analiz ve raporları düzenlemek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 72,
+            "question": "Aşağıdakilerden hangisi koyu renkli cam şişelerin tercih edilme nedenidir?",
+            "options": [
+                "İçindeki sıvıyı güneş ışınlarından korumak",
+                "Estetik bir görünüm sağlamak",
+                "Ürünün taşınmasını kolaylaştırmak",
+                "Kullanım kolaylığı sağlamak",
+                "Raf ömrünü artırmak için"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 73,
+            "question": "Grafik üretim sürecinde oluşan katı atıkların çoğunluğu aşağıdaki materyallerin hangisi oluşturur?",
+            "options": [
+                "Plastik",
+                "Kimyasal maddeler",
+                "Solventler",
+                "Kağıt ve karton",
+                "Metal gereçler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 74,
+            "question": "Kağıdın orijinal rengini beyazlatmak ve parlaklığını artırmak için kağıt üretimi sırasında uygulanan kimyasal işlemlere ne ad verilir?",
+            "options": [
+                "Ağartma",
+                "Miselle",
+                "Silikat",
+                "Hidrat",
+                "Boksit"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 75,
+            "question": "Aşağıdaki ambalaj türlerinden hangisi tüketicinin ilgisini çekmek için en fazla tasarım ve yatırım gerektirir?",
+            "options": [
+                "Geri dönüşüm ambalajı",
+                "İkincil ambalaj",
+                "Birincil ambalaj",
+                "Nakliye ambalajı",
+                "Üçüncül ambalaj"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 76,
+            "question": "Gıda ambalajı kullanımda aşağıdaki malzemelerden hangisi sağlıklıdır?",
+            "options": [
+                "Metal",
+                "Kağıt",
+                "Plastik",
+                "Cam",
+                "Ahşap"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 77,
+            "question": "Aşağıdaki hangisi görsel kirliliğin daha çok görüldüğü yerlerdir?",
+            "options": [
+                "Kırsal alanlar",
+                "Şehirler, kentleşmenin yoğun olduğu bölgeler",
+                "Endüstriyel alanlar",
+                "Evler ve iç mekanlar",
+                "Doğal parklar ve ormanlar"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 78,
+            "question": "Aşağıdakilerden hangisi intihal teriminin tanımı<u>dır</u>?",
+            "options": [
+                "Bir kişinin eserini başka biriyle paylaşmasıdır.",
+                "Bir kişinin eserini yasal yollarla koruma altına alması kullanımı engellemesidir.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kullanmasıdır.",
+                "Bir kişinin eserini daha önce yayımlanmış bir esere dayanarak oluşturması, örnek ve emsal göstermesidir.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanması<u>dır</u>."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 79,
+            "question": "Aşağıdakilerden hangisi grafik tasarımcıların kağıt kullanımında sürdürülebilirlik bilinciyle hareket etmelerinin yaratacağı etkilerden biri<u>dir</u>?",
+            "options": [
+                "Tasarımcılar, yalnızca dijital ortamda çalışmalı böylece kağıt tasarrufu sağlanabilir.",
+                "Tasarımcılar, her projede aynı kağıt türünü kullanarak katkı sağlayabilirler.",
+                "Tasarımcılar, kullanılan kağıt türüne ve baskı sürecine dikkat ederek, geri dönüşüm oranını artırabilirler.",
+                "Tasarımcılar, yalnızca kağıt tasarrufu sağlamak için düşük kaliteli kağıt kullanmalıdır.",
+                "Tasarımcılar, yalnızca çok sayıda dijital kopya üreterek destek olabilirler."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 80,
+            "question": "Çevre dostu olduğunu iddia veya ima eden, ancak aslında tüketicileri yanıltmaya yönelik uygulamaları ifade eden kavram aşağıdakilerden hangisi<u>dir</u>?",
+            "options": [
+                "Yeşil badana",
+                "Ekolojik yanılgı",
+                "Ekolojik yanılsama",
+                "Yeşil yalan",
+                "Çevre cilası"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622601"
+        },
+        {
+            "id": 81,
+            "question": "-----: Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Reaksiyon",
+                "Etkileşim",
+                "Ardıllık",
+                "İnovasyon",
+                "Metafor"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 82,
+            "question": "Aşağıdaki kavramlardan hangisi bir alanın, bir ürünün veya hizmetin yeni süreçler uygulayarak, yeni teknikleri kullanarak veya yeni değer yaratmak için başarılı fikirler oluşturarak yenilendiği ve güncellendiği bir süreçtir?",
+            "options": [
+                "İnovasyon",
+                "Ekosistem",
+                "Organizasyon",
+                "Sürdürülebilirlik",
+                "Faktör"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 83,
+            "question": "3 boyutlu sanat objesinin, heykelin, görsel sanatlardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Dekolaj sanatı",
+                "Asamblaj sanatı",
+                "Akümülasyon sanatı",
+                "Junk sanatı",
+                "Kolaj sanatı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 84,
+            "question": "Atık objelerin istiflenip, asılıp, bantlanıp ve birleştirilmesi ile oluşturulan sanat eserlerine ne ad verilir?",
+            "options": [
+                "Montaj",
+                "Akümülasyon",
+                "Kolaj",
+                "Asamblaj",
+                "Dekolaj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 85,
+            "question": "Tarihte ilk belgelenmiş geri dönüşüm ürünü 1031 yılında aşağıdaki ülkelerden hangisinde elde edilmiştir?",
+            "options": [
+                "Japonya",
+                "Maceristan",
+                "Rusya",
+                "Azerbaycan",
+                "İrlanda"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 86,
+            "question": "Aşağıdaki kavramlardan hangisi sürdürülebilirlik hedeflerine ulaşma, çevre koruma ve iyileştirme amacına hizmet eden bir pazar aracıdır?",
+            "options": [
+                "Yeşil parlaklık",
+                "Eko etiketleme",
+                "Eko-markalama",
+                "Yeşil tasarım",
+                "Yeşil halkla ilişkiler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 87,
+            "question": "Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biridir?",
+            "options": [
+                "Kaynak tasarrufu için tasarım",
+                "En az tüketim için tasarım",
+                "Yeniden kullanım için tasarım",
+                "Demontaj için tasarım",
+                "Güvenli imha için tasarım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 88,
+            "question": "Genellikle su ve İçecek ambalajlarında kullanılan plastik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "PET (Polietilen Tereftalat)",
+                "PP (Polipropilen)",
+                "LDPE (Düşük Yoğunluklu Polietilen)",
+                "PS (polistiren)",
+                "HDPE (Yüksek Yoğunluklu Polietilen)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 89,
+            "question": "Bir malın üretim aşamalarında kendiliğinden ya da üretim yöntemi ve teknolojisine bağlı olarak oluşan hammadde azalımını ne ad verilir?",
+            "options": [
+                "Ciltleme",
+                "Katlama",
+                "Gofre",
+                "Selefon",
+                "Fire"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 90,
+            "question": "-----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar?",
+            "options": [
+                "Hibrit",
+                "İnkjet",
+                "Selefon",
+                "Raster grafik",
+                "Akordeon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 91,
+            "question": "Üzerine baskı yapılmış olan kâğıt ya da kartonun, baskıdan sonra ince ve şeffaf bir filmle kaplanmasına ne ad verilir?",
+            "options": [
+                "Hibrit",
+                "Selefon",
+                "Raster",
+                "Ciltleme",
+                "Gofre"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 92,
+            "question": "Tasarımda yön veren temanın duygu, kavram ya da fikir olarak belirlenmesi ve malzeme, artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Forma",
+                "Selefon",
+                "Strateji",
+                "Konsept",
+                "Uygulama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 93,
+            "question": "Aşağıdakilerden hangisi mürekkebin sertlik, parlaklık, yapışma gibi özelliklerini etkileyen, pigmentlerin baskı yüzeyine tutunmalarını sağlayan maddelerden biridir?",
+            "options": [
+                "Polietilen",
+                "Selefon",
+                "Reçineler",
+                "Sentetik",
+                "Spiral"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 94,
+            "question": "Aşağıdakilerden hangisi basılı bir kağıdın en az bir kez olmak üzere mümkün olduğunca katlanarak kitap, dergi, katalog gibi ciltli yayınların sayfaları olacak şekle getirilmiş halidir?",
+            "options": [
+                "Braille",
+                "Emülsiyon",
+                "Spiral",
+                "Selefon",
+                "Forma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 95,
+            "question": "Satış ambalajı ya da ----- olarak da adlandırılan birincil ambalaj, bir ürünle doğrudan temas hâlinde olan ve ürünün kendini kapsayan ----- bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "ambalaj",
+                "hedef ambalajı",
+                "dış ambalajı",
+                "iç ambalaj",
+                "kompozit ambalaj"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 96,
+            "question": "Kağıdın orijinal rengini beyazlatmak ve parlaklığını artırmak için kağıt üretimi sırasında uygulanan kimyasal işlemlere ne ad verilir?",
+            "options": [
+                "Miselle",
+                "Boksit",
+                "Silikat",
+                "Hidrat",
+                "Ağartma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 97,
+            "question": "Aşağıdakilerden hangisi intihal teriminin tanımıdır?",
+            "options": [
+                "Bir kişinin eserini yasal yollarla koruma altına alması kullanımı engellemesidir.",
+                "Bir kişinin eserini başka biriyle paylaşmasıdır.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanmasıdır.",
+                "Bir kişinin eserini daha önce yayımlanmış bir esere dayanarak oluşturması, örenek ve emsal göstermesidir.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kullanmasıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 98,
+            "question": "First Things First (İlk Önce Öncelikler) manifestosu aşağıdaki tasarımcılardan hangisi tarafından yayınlanmıştır?",
+            "options": [
+                "Ken Garland",
+                "David Bailey",
+                "Milton Glaser",
+                "Saul Bass",
+                "Steve Cutts"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 99,
+            "question": "Çevre dostu olduğunu iddia veya ima eden, ancak aslında tüketicileri yanıltmaya yönelik uygulamaları ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Ekolojik yanılsama",
+                "Yeşil badana",
+                "Yeşil yalan",
+                "Ekolojik yanılgı",
+                "Çevre cilası"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 100,
+            "question": "Gıda ambalajı kullanımda aşağıdaki malzemelerden hangisi sağlıklıdır?",
+            "options": [
+                "Kağıt",
+                "Plastik",
+                "Metal",
+                "Ahşap",
+                "Cam"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "606602"
+        },
+        {
+            "id": 101,
+            "question": "-----, Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir.<br>Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "Reaksiyon",
+                "Etkileşim",
+                "Ardıllık",
+                "İnovasyon",
+                "Metafor"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 102,
+            "question": "Aşağıdaki kavramlardan hangisi bir alanın, bir ürünün veya hizmetin yeni süreçler uygulayarak, yeni teknikleri kullanarak veya yeni değer yaratmak için başarılı fikirler oluşturarak yenilendiği ve güncellendiği bir süreçtir?",
+            "options": [
+                "İnovasyon",
+                "Ekosistem",
+                "Organizmaya",
+                "Sürdürülebilirlik",
+                "Faktör"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 103,
+            "question": "3 boyutlu sanat objesinin, heykelin, görsel sanatlardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Dekolaj sanatı",
+                "Asamblaj sanatı",
+                "Akümülasyon sanatı",
+                "Junk sanatı",
+                "Kolaj sanatı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 104,
+            "question": "Atık objelerin istiflenip, asılıp, bantlanıp ve birleştirilmesi ile oluşturulan sanat eserlerine ne ad verilir?",
+            "options": [
+                "Montaj",
+                "Akümülasyon",
+                "Kolaj",
+                "Asamblaj",
+                "Dekolaj"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 105,
+            "question": "Tarihte ilk belgelenmiş geri dönüşüm ürünü 1031 yılında aşağıdaki ülkelerden hangisinde elde edilmiştir?",
+            "options": [
+                "Japonya",
+                "Maceristan",
+                "Rusya",
+                "Azerbaycan",
+                "İrlanda"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 106,
+            "question": "Aşağıdaki kavramlardan hangisi sürdürülebilirlik hedeflerine ulaşma, çevre koruma ve iyileştirme amacına hizmet eden bir pazar aracıdır?",
+            "options": [
+                "Yeşil parlaklık",
+                "Eko etiketleme",
+                "Eko-markalama",
+                "Yeşil tasarım",
+                "Yeşil halkla ilişkiler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biridir?",
+            "options": [
+                "Kaynak tasarrufu için tasarım",
+                "En az tüketim için tasarım",
+                "Yeniden kullanım için tasarım",
+                "Demontaj için tasarım",
+                "Güvenli imha için tasarım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 108,
+            "question": "Genellikle su ve içecek ambalajlarında kullanılan plastik türü aşağıdakilerden hangisidir?",
+            "options": [
+                "PET (Polietilen Tereftalat)",
+                "PP (Polipropilen)",
+                "LDPE (Düşük Yoğunluklu Polietilen)",
+                "PS (polistiren)",
+                "HDPE (Yüksek Yoğunluklu Polietilen)"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 109,
+            "question": "Bir malın üretim aşamalarında kendiliğinden ya da üretim yöntemi ve teknolojisine bağlı olarak oluşan hammadde azalımını ne ad verilir?",
+            "options": [
+                "Ciltleme",
+                "Katlama",
+                "Gofre",
+                "Selefon",
+                "Fire"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 110,
+            "question": "-----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir.<br>Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar?",
+            "options": [
+                "Hibrit",
+                "İnkjet",
+                "Selefon",
+                "Raster grafik",
+                "Akordeon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 111,
+            "question": "Üzerine baskı yapılmış olan kâğıt ya da kartonun, baskıdan sonra ince ve şeffaf bir filmle kaplanmasına ne ad verilir?",
+            "options": [
+                "Hibrit",
+                "Selefon",
+                "Raster",
+                "Ciltleme",
+                "Gofre"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 112,
+            "question": "Tasarımda yön veren tema, duygu, kavram ya da fikirleri karşılamak, düzenlemek, organize etmek, aralarındaki ilişkiyi belirlemek anlamlarına gelen, tasarım sürecinin ilk aşamalarından biri olan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Forma",
+                "Selefon",
+                "Strateji",
+                "Konsept",
+                "Uygulama"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 113,
+            "question": "Aşağıdakilerden hangisi mürekkebin sertlik, parlaklık, yapışma gibi özelliklerini etkileyen, pigmentlerin baskı yüzeyine tutunmalarını sağlayan maddelerden biridir?",
+            "options": [
+                "Polietilen",
+                "Selefon",
+                "Reçineler",
+                "Sentetik",
+                "Spiral"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 114,
+            "question": "Aşağıdakilerden hangisi basılı bir kağıdın en az bir kez olmak üzere mümkün olduğunca katlanarak kitap, dergi, katalog gibi ciltli yayınların sayfaları olacak şekle getirilmiş halidir?",
+            "options": [
+                "Braille",
+                "Emülsiyon",
+                "Spiral",
+                "Selefon",
+                "Forma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 115,
+            "question": "Satış ambalajı ya da ----- olarak da adlandırılan birincil ambalaj, bir ürünle doğrudan temas hâlinde olan ve ürünün kendini kapsayan ambalajdır.<br>Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "ambalaj",
+                "nature ambalajı",
+                "dış ambalajı",
+                "iç ambalaj",
+                "kompozit ambalaj"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 116,
+            "question": "Kağıdın orijinal rengini beyazlatmak ve parlaklığını artırmak için kağıt üretimi sırasında uygulanan kimyasal işlemlere ne ad verilir?",
+            "options": [
+                "Miselle",
+                "Boksit",
+                "Silikat",
+                "Hidrat",
+                "Ağartma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 117,
+            "question": "Aşağıdakilerden hangisi intihal teriminin tanımıdır?",
+            "options": [
+                "Bir kişinin eserini yasal yollarla koruma altına alması kullanımı engellemesidir.",
+                "Bir kişinin eserini başka biriyle paylaşmasıdır.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanmasıdır.",
+                "Bir kişinin eserini daha önce yayımlanmış bir esere dayanarak oluşturması, örenek ve emsal göstermesidir.",
+                "Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kullanmasıdır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 118,
+            "question": "First Things First (İlk Önce Öncelikler) manifestosu aşağıdaki tasarımcılardan hangisi tarafından yayınlanmıştır?",
+            "options": [
+                "Ken Garland",
+                "David Bailey",
+                "Milton Glaser",
+                "Saul Bass",
+                "Steve Cutts"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 119,
+            "question": "Çevre dostu olduğunu iddia veya ima eden, ancak aslında tüketicileri yanıltmaya yönelik uygulamaları ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Ekolojik yanılsama",
+                "Yeşil badana",
+                "Yeşil yalan",
+                "Ekolojik yanılgı",
+                "Çevre cilası"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        },
+        {
+            "id": 120,
+            "question": "Gıda ambalajı kullanımda aşağıdaki malzemelerden hangisi sağlıklıdır?",
+            "options": [
+                "Kağıt",
+                "Plastik",
+                "Metal",
+                "Ahşap",
+                "Cam"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2024-2025",
+            "material_id": "626557"
+        }
+    ]
+}

@@ -1,0 +1,3004 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Altın, gümüş karışımı elektron adı verilen madenden basılan parayı icat eden aşağıdaki Anadolu Uygarlıklarından hangisidir?",
+            "options": [
+                "Likya",
+                "Frig",
+                "Hitit",
+                "Lidya",
+                "Urartu"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 2,
+            "question": "Giza'daki firavun Kefren'e ait olduğu düşünülen insan başlı ve aslan vücuduna sahip anıtsal sfenksin başında iki kulağı açıkta bırakan adı verilen kral/firavun başlığı bulunmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "nemes",
+                "pilon",
+                "lamaşşu",
+                "peristil",
+                "hipostil"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 3,
+            "question": "Japonya'da da resim, Çin'de olduğu gibi sanatından gelişmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "seramik",
+                "yazı",
+                "heykel",
+                "mimari",
+                "minyatür"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 4,
+            "question": "Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler aşağıdaki uygarlıklardan hangisine aittir?",
+            "options": [
+                "Med",
+                "Pers",
+                "Elam",
+                "Selefkos",
+                "Sasani"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 5,
+            "question": "Aşağıdakilerden hangisi Klasik Dönem Antik Yunan heykeltıraşlığının, stilistik ve anatomik gelişim açısından incelendiği evrelerden biri <u>değildir</u>?",
+            "options": [
+                "Olgun",
+                "Erken",
+                "Geç",
+                "Zengin",
+                "İleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 6,
+            "question": "Etrüsk merkezlerinde bulunmuş pişmiş topraktan yapılmış serbest heykeller, Dönem Antik Yunan heykellerinden esinlenmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "Arkaik",
+                "Geç Helenistik",
+                "Klasik",
+                "Helenistik",
+                "Geç klasik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 7,
+            "question": "Bizans imparatorlarının IV.-IX. yüzyıllar arasında kesintisiz olarak yaşadıkları saray aşağıdakilerden hangisidir?",
+            "options": [
+                "Rhegion Sarayı",
+                "Büyük Saray",
+                "Magnaura Sarayı",
+                "Blakhernai Sarayı",
+                "Mangana Sarayı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 8,
+            "question": "İsa'nın sağında Meryem, solunda Vaftizci Yahya ile birlikte tasvir edildiği sahnenin adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Eloisa Meryem",
+                "Koimesis",
+                "Deesis",
+                "Pantakrator",
+                "Anatasis"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 9,
+            "question": "Türk Yakut da denilen Yakutu Müstasemi'nin oluşturduğu altı çeşit yazı aşağıdakilerden hangisiyle anılır?",
+            "options": [
+                "Aklam-ı Sitte",
+                "Reyhani",
+                "Nesih",
+                "Muhakkak",
+                "Sülüs"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 10,
+            "question": "XIII. sonları ile XIV. yüzyılın başlarında başta Rey olmak üzere Kaşan'da hem sır altı hem de sır üstü tekniği olan tekniği geliştirilmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "slip boyama",
+                "lüster",
+                "püskürtme boyama",
+                "minai",
+                "sgrafitto"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 11,
+            "question": "762-765 yılları arasında, Abbasi Mansur tarafından kurulan kent aşağıdakilerden hangisidir?",
+            "options": [
+                "Kayravan",
+                "Kairat",
+                "Şam",
+                "Kudüs",
+                "Bağdat"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 12,
+            "question": "II. Gıyaseddin Keyhüsrev tarafından Antalya-Alanya yolunda inşa ettirilen şahın düzenlenmesi bulunmayan han aşağıdakilerden hangisidir?",
+            "options": [
+                "Kayseri Sultan Han",
+                "Şarapsa Han",
+                "Alara Han",
+                "Karatay Han",
+                "Aksaray Sultan Hanı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 13,
+            "question": "Anadolu'da en erken tarihli kapalı avlulu medreseleri inşa eden Türk devleti ya da beyliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Selçuklular",
+                "Saltuklular",
+                "Artuklular",
+                "Danişmendliler",
+                "Mengücekoğulları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 14,
+            "question": "956'da olan \"Kitâbü Suveri'l-Kevâkibi's-Sâbite” adlı el yazması eser aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Beydeba",
+                "Feridüddin Attar",
+                "Abdurrahman es-Sufi",
+                "Harîrî",
+                "Nizami"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 15,
+            "question": "I. Otto, II. Otto ve III. Otto devirlerini kapsayan dönem Avrupa'da hangi sanat akımı olarak bilinmektedir?",
+            "options": [
+                "Erken Romanesk",
+                "Barok",
+                "Gotik",
+                "Klasisizm",
+                "Realizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 16,
+            "question": "Aşağıdaki akımlardan hangisinin sanatçıları perspektif kurgusundan uzaklaşmış, oran ve ölçüde deformasyona gitmiş, eserlerinde beklenmedik yerlerden gelen ışığa yer vermişlerdir?",
+            "options": [
+                "Gotik",
+                "Maniyyerist",
+                "Rokoko",
+                "Rönesans",
+                "Barok"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 17,
+            "question": "Resimlerinde zengin hayal gücü hissedilen, Lorenzo Medici Villası'na yaptığı mitolojik \"İlkbahar\" ve \"Venüs'ün Doğuşu\" tabloları en tanınmış eserleri arasında bulunan ressam aşağıdakilerden hangisidir?",
+            "options": [
+                "Pietro Della Francesca",
+                "Andrea Mantagne",
+                "Pietro di Cosimo",
+                "Filippo Lippi",
+                "Sandro Boticelli"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 18,
+            "question": "Romantizm akımının en iyi örneklerinden kabul edilen \"Saman Arabası\" adlı tablo aşağıdaki sanatçılardan hangisine aittir?",
+            "options": [
+                "Kasimir",
+                "Dada",
+                "Constable",
+                "Cario",
+                "Vladimir"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 19,
+            "question": "William Morris önderliğinde XIX. yüzyılın sonunda Endüstri Devrimi'nin sanatsal karmaşasına karşı İngiltere'de ortaya çıkmış, hareketli sanatlar ve el sanatları anlamına gelen sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Romantizm",
+                "Gotik",
+                "Barok",
+                "Art Nouveau",
+                "Arts and Crafts"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 20,
+            "question": "Antik Roma'nın üçüz kahramanlarından Horaceları babalarının karşısında şehirleri için ölene kadar savaşmaya and içerken gösteren \"Horacelar'ın Yemini\" adlı tablo aşağıdaki sanat akımlarından hangisinin ürünüdür?",
+            "options": [
+                "Realizm",
+                "Oryantalizm",
+                "Ön-Raffaelloculuk",
+                "Neoklasisizm",
+                "Romantizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2020-2021",
+            "material_id": "428618"
+        },
+        {
+            "id": 21,
+            "question": "Adını Kuzey Irak'ta Musul yakınlarında kurulmuş bir yerleşimden alan, kerpiç duvarlı çok mekanlı yapıların ve ham bakırdan dövülmek suretiyle takıların yapıldığı, MÖ altıncı binin başlarına tarihlenen Mezopotamya kültür devresi aşağıdakilerden hangisidir?",
+            "options": [
+                "Hassuna kültürü",
+                "Uruk kültürü",
+                "Obeyd kültürü",
+                "Halaf kültürü",
+                "Samarra kültürü"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 22,
+            "question": "956'da yazılmış olan \"Kitâbü Suveri'l-Kevâkibi's-Sâbite\" adlı el yazması eser aşağıdakilerden hangisine aittir?",
+            "options": [
+                "Feridüddin Attar",
+                "Harîrî",
+                "Nizami",
+                "Beydeba",
+                "Abdurrahman es-Sufi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 23,
+            "question": "Fatımi Döneminde Kahire'de inşa edilen ilk cami aşağıdakilerden hangisidir?",
+            "options": [
+                "Kutubiye Camii",
+                "Tinmel Camii",
+                "Kayravan Camii",
+                "el-Ezher Camii",
+                "Kurtuba Camii"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 24,
+            "question": "Georges Seurat tarafından empresyonizm ve renk üzerine yapılmış bilimsel çalışmaların etkisiyle gerçekleşen teknik aşağıdakilerden hangisidir?",
+            "options": [
+                "Dadaizm",
+                "Sürrealizm",
+                "Puantizm",
+                "Fovizm",
+                "Ekspresyonizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 25,
+            "question": "Aşağıdakilerden hangisi Efes-Yamaç evlerinin freskolarında işlenen konulardan biri <u>değildir</u>?",
+            "options": [
+                "Tevrat'dan sahneler",
+                "Balık ve kuş tasvirleri",
+                "Antik Yunan mitolojisi",
+                "Günlük hayattan sahneler",
+                "Roma mitolojisi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 26,
+            "question": "Ağırlıklı olarak din, felsefe ve hukuk alanlarında eğitim verilen, 1158 yılında Avrupa'da kurulan ilk üniversite aşağıdakilerden hangisidir?",
+            "options": [
+                "Napoli",
+                "Bologna",
+                "Padova",
+                "Paris",
+                "Oxford"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdakilerden hangisi genellikle yoğun dekorasyonu olan ve cami yapılarının kıble duvarında yer alan içbükey nişin adıdır?",
+            "options": [
+                "Yarım kubbe",
+                "Kavsara",
+                "Eksadra",
+                "Tromp",
+                "Mihrap"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 28,
+            "question": "\"Mezopotamya\" terimi kültürel olarak aşağıdaki uygarlıklardan hangisini <u>kapsamaz</u>?",
+            "options": [
+                "Babil",
+                "Akkad",
+                "Sümer",
+                "Frig",
+                "Asur"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 29,
+            "question": "Vitruvius'a göre, plan tasarımında değişmeyen eş bir birimi (modül) temel alan geometrik ve matematiksel tasarım anlayışının mucidi aşağıdakilerden hangisidir?",
+            "options": [
+                "Alexandros",
+                "Hermogenes",
+                "II. Eumenes",
+                "Lysippos",
+                "Hippodamos"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 30,
+            "question": "Kudüs'te Hacerü-I Muallak adıyla anılan kutsal kayayı içerisine alacak biçimde inşa edilmiş olan merkezî planlı yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kubbetü's Sultan",
+                "Kubbe-i Hadra",
+                "Kubbe-i Mina",
+                "Kubbetü's Süleybiye",
+                "Kubbetü's Sakhra"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 31,
+            "question": "Köln Katedrali'nde bulunan 970 tarihli anıtsal ölçülerde yapılmış bağımsız ahşap heykellerin bilinen ilk örneğidir. Yukarıdaki cümlede boş bırakılan yeri tamamlayan aşağıdakilerden hangisidir?",
+            "options": [
+                "Mathilda Haçı",
+                "Beninghausen Haçı",
+                "Gero Haçı",
+                "Grek Haçı",
+                "Gerresheim Haçı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 32,
+            "question": "Bir dinîn törenlerine ve tapınma biçimine ilişkin kuralların tümüne ne ad verilir?",
+            "options": [
+                "İnsula",
+                "Diakon",
+                "Altar",
+                "Litürji",
+                "Katholikon"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 33,
+            "question": "İtalya'da Rönesans fikrinin doğmasına katkıda bulunan, dinî konuları altın yaldız zeminden kurtarmış, perspektifi mekân içine sokmuş, figürlerde ifadeye önem vermiş, acı, keder, mutluluk gibi duyguları belirgin figürler betimlemiş Gotik dönemin önemli sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Cimabue",
+                "Duccio",
+                "Giotto",
+                "Simone Martini",
+                "A. Lorenzetti"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 34,
+            "question": "MÖ 6. yüzyılda Hindistan'da ortaya çıkan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören ve bir mezhebe bağlı olarak ortaya çıkan mimari üslup aşağıdakilerden hangisidir?",
+            "options": [
+                "Çayna üslubu",
+                "Eyâlet üslubu",
+                "Kuzey Hindistan üslubu",
+                "Güneydoğu Hindistan üslubu",
+                "Hinan-Hint üslubu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 35,
+            "question": "II. Mahmud zamanında inşa edilen Ampir üsluplu Osmanlı cami aşağıdakilerden hangisidir?",
+            "options": [
+                "Laleli Camii",
+                "Dolmabahçe Camii",
+                "Nusretiye Camii",
+                "Ortaköy Camii",
+                "Nur-u Osmaniye Camii"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 36,
+            "question": "Kuzey ve Doğu Hindistan üslubunda içinde ilah heykeli olan, yüksek, piramit şeklindeki mabetlere ne ad verilir?",
+            "options": [
+                "Kisra",
+                "Kailasa",
+                "Siriringam",
+                "Sikra",
+                "İndra"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 37,
+            "question": "Mihrap önünde bulunan kubbesi, dört eyvanlı revaklı avlusu ile Büyük Selçukluların eyvanlı cami tipinin en gelişmiş örneği olan 1135 tarihli yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Edirne Üç Şerefeli Camii",
+                "Muğak Atari Camii",
+                "Gülpayegân Camii",
+                "Isfahan Mescidi Cuması",
+                "Zevvare Mescidi Cuması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 38,
+            "question": "William Morris önderliğinde XIX. yüzyılın sonunda Endüstri Devrimi'nin sanatsal karmaşasına karşı İngiltere'de ortaya çıkmış, hareketli sanatlar ve el sanatları anlamına gelen sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Barok",
+                "Arts and Crafts",
+                "Art Nouveau",
+                "Romantizm",
+                "Gotik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 39,
+            "question": "Roma kentinde inşa edilmiş en erken tarihli tapınak aşağıdakilerden hangisidir?",
+            "options": [
+                "Sovana Tapınağı",
+                "Jupiter Tapınağı",
+                "Veii Tapınağı",
+                "Fortuna Virilis Tapınağı",
+                "Volsinii Tapınağı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 40,
+            "question": "Doğayı gözlemleyerek ışığın anlık değişen etkilerini yakalamayı amaçlayan akım aşağıdakilerden hangisidir?",
+            "options": [
+                "Empresyonizm",
+                "Sembolizm",
+                "Süprematizm",
+                "Ekspresyonizm",
+                "Fovizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "453215"
+        },
+        {
+            "id": 41,
+            "question": "I. Otto, II. Otto ve III. Otto devirlerini kapsayan dönem Avrupa'da hangi sanat akımı olarak bilinmektedir?",
+            "options": [
+                "Klasisizm",
+                "Realizm",
+                "Gotik",
+                "Erken Romanesk",
+                "Barok"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 42,
+            "question": "Aşağıdakilerden hangisi Artuklulara ait iç avlulu bir camidir?",
+            "options": [
+                "Mardin Latifiye Camii",
+                "Harput Ulu Camii",
+                "Kızıltepe Ulu Camii",
+                "Silvan Ulu Camii",
+                "Mardin Ulu Camii"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 43,
+            "question": "Pablo Picasso ile birlikte Kübizm akımını başlatan, ölüdoğa ustası olarak anılan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Paul Cézanne",
+                "Georges Seurat",
+                "Auguste Renoir",
+                "Edgar Degas",
+                "Georges Braque"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 44,
+            "question": "Sultan Abdülmecid tarafından, Karabet ve Nikolas Balyan adlı iki mimara inşa ettirilen Osmanlı saray yapısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Dolmabahçe Sarayı",
+                "İshakpaşa Sarayı",
+                "Yıldız Sarayı",
+                "Beylerbeyi Sarayı",
+                "Çırağan Sarayı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 45,
+            "question": "Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere ne ad verilir?",
+            "options": [
+                "Saçak",
+                "Litik",
+                "Revak",
+                "Kerpiç",
+                "Kubbe"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 46,
+            "question": "Aşağıdakilerden hangisi Antik Çağ'da İonya olarak adlandırılan Batı Anadolu kıyıları ve Ege adalarında daha yaygın olarak benimsenmiş, İon Düzeninde inşa edilmiş tapınaklardan biri <u>değildir</u>?",
+            "options": [
+                "Efes Artemis Tapınağı",
+                "Sardes Artemis Tapınağı",
+                "Samos (Sisam) Adası'ndaki Hera Tapınağı",
+                "Paestum Basilika (Hera I) Tapınağı",
+                "Didyma Apollon Tapınağı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 47,
+            "question": "Dini konuları din dışı günlük sahnelerle ele alan, doğaçlama ve yansıtma özelliği bulunan, \"Bakhüs\" ve \"Aziz John'un Katli\" adlı yağlıboya eserleri bulunan ressam aşağıdakilerden hangisidir?",
+            "options": [
+                "Frans Hals",
+                "Michelangelo Caravaggio",
+                "Paulus Rubens",
+                "Jan Vermeer",
+                "Francisco Goya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 48,
+            "question": "5. yüzyılda yaşamış, ismi bilinen en eski Japon ressamı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kanaoka",
+                "Ahimi",
+                "Kabanari",
+                "Kintada",
+                "İnshiraga"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 49,
+            "question": "Rönesans mimarisinin özelliği olarak ilk kez duvarlara dayalı yarım payelerin kullanıldığı yapı olarak tanımlanan Ruccellai Sarayı ve Pompei villaları gibi revaklı iç avluya sahip, yuvarlak kemer biçimli alınlıkların altında yer alan üçgen alınlıklı pencere düzenleri ile cephesinin hareketlendirildiği, Lorenzo Medici için Floransa'da yapılan Ricardi Sarayının mimarı olan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Leon Battista Alberti",
+                "Michelangelo",
+                "Andrea Palladio",
+                "Filippo Brunelleschi",
+                "Donate Bramante"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi açık ya da kapalı bir mekan içinde yaratılan, sanatçı-izleyici katılımlı bir sanatsal üretim biçimidir?",
+            "options": [
+                "Superstroke",
+                "Dışavurum",
+                "Küreselleşme",
+                "Superflat",
+                "Enstalasyon"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 51,
+            "question": "Mısır uygarlığında dünyevi yaşamla uhrevi yaşamı birleştirdiği ya da ayırdığı düşünülen büyük kapıya ne ad verilir?",
+            "options": [
+                "Mezar",
+                "Pilon",
+                "Mastaba",
+                "Hipostile",
+                "Peristil"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 52,
+            "question": "Hz. Peygamber, aşağıdakilerin hangisinde namaz kılarken kıble yönünü Kâbe yönüne çevirmiştir?",
+            "options": [
+                "Mescidü'l Haram",
+                "Mescid-i Nebi",
+                "Benî Selime Mescidi",
+                "Kuba Mescidi",
+                "Mescid-ül Aksa"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 53,
+            "question": "Anadolu'ya MÖ üçüncü bin yılın başlarında Kafkasya'dan göç ettikleri varsayılan; başkenti Çorum ili sınırları içinde kalan, eski adı Hattuşa, günümüzdeki adı ise Boğazköy olan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Urartu",
+                "Frig",
+                "Sümer",
+                "Lidya",
+                "Hitit"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 54,
+            "question": "Eserlerin ticari ürün olarak kullanılmasına dolayısıyla satılmasına karşı olan, 1965 yılında yaptığı “Bir ve Üç Sandalye\" adlı eseriyle, sanat yapıtının gerçekte düşüncenin iletilmesinde kullanılan bir araç olduğunu vurgulayan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Marcel Ducamp",
+                "Roy Lichtenstein",
+                "Joseph Kosuth",
+                "Allan Kaprow",
+                "Alexander Calder"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 55,
+            "question": "Göktürk mezar külliyeleri aşağıdaki bölgelerin hangisinde bulunur?",
+            "options": [
+                "Orhun ve Yenisey Irmakları arasındaki bölgede",
+                "Altun ve Yış bölgesinde",
+                "Katanda bölgesinde",
+                "Noin ve Ula bölgesinde",
+                "Pazırık bölgesinde"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 56,
+            "question": "Yunan Sanatında Zengin stil olarak adlandırılan (MÖ 420-400) dönemde, Olympia Zeus Tapınağı'nın köşe akroteleri ile tapınağın karşısında yüksek bir kaide üzerinde yerleştirilen Zafer Tanrıçası Nike heykelini yapmış olan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Alkamenes",
+                "Agorakritios",
+                "Myron",
+                "Paionios",
+                "Phedias"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 57,
+            "question": "Aşağıdakilerden hangisi Efes-Yamaç evlerinin freskolarında işlenen konulardan biri <u>değildir</u>?",
+            "options": [
+                "Roma mitolojisi",
+                "Tevrat'dan sahneler",
+                "Balık ve kuş tasvirleri",
+                "Günlük hayattan sahneler",
+                "Antik Yunan mitolojisi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 58,
+            "question": "Harf uçlarına yaprak biçiminin verilmesiyle yazı sanatına bitkisel bezemenin sokulduğu, çiçekli kûfi yazı ilk kez aşağıdaki dönem ve yapılardan hangisinde kullanılmıştır?",
+            "options": [
+                "Abbasi Dönemi-Nayin Mescid-i Cuması",
+                "Emevi Dönemi-Kasrü'l Hayri el-Garbi",
+                "Abbasi Dönemi-Ukaydır Sarayı",
+                "Abbasi Dönemi-Cevsak'ül Hakani Sarayı",
+                "Emevi Dönemi-Şam Emeviye Camii"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 59,
+            "question": "Eczacıların, merhem ve kuru ilaçlar için kullandıkları, İspanyolca barril fıçı, varil demek olan kavanoz türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Usturlap",
+                "Lüster",
+                "Albarello",
+                "Stuko",
+                "Perdah"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 60,
+            "question": "Üzerlerine Son Akşam Yemeği, Pantakrator İsa, Meryem vb. tasvirlerin işlendiği, özellikle Makedonya Sülalesi zamanında gerçekleştirilmiş maden eserlerde aşağıdaki tekniklerden hangisi uygulanmıştır?",
+            "options": [
+                "Lüster",
+                "Savatlama",
+                "Chamlevé",
+                "Mine",
+                "Sgrafitto"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "516835"
+        },
+        {
+            "id": 61,
+            "question": "İslam dünyasının ilk düzenli medresesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Buruciye Medresesi",
+                "Sahabiye Medresesi",
+                "Yakutiye Medresesi",
+                "Nizamiye Medresesi",
+                "Kasımiye Medresesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 62,
+            "question": "Giza'daki firavun Kefren'e ait olduğu düşünülen insan başlı ve aslan vücuduna sahip anıtsal sfenksin başında iki kulağı açıkta bırakan adı verilen kral/firavun başlığı bulunmaktadır. Yukarıdaki cümlede boş bırakılan yeri doğru olarak tamamlar?",
+            "options": [
+                "hipostil",
+                "lamaşşu",
+                "nemes",
+                "peristil",
+                "pilon"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 63,
+            "question": "Saltukluların Erzincan Tercan'da bulunan 13. yüzyıla tarihlendirilen, ortadaki dilimli gövdeli kümbeti çevreleyen on bir nişli çevre duvarı ile tasarımı açısından Anadolu'daki tek örnek olan yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Sitti Melik Kümbeti",
+                "Mama Hatun Kümbeti",
+                "Emîr Saltuk Kümbeti",
+                "Döner Kümbet",
+                "Kirkkızlar Kümbeti"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 64,
+            "question": "Üç yandan duvarla sınırlanmış, bir yönden büyük bir kemerle dışarıya ya da avluya açılan üzeri tonoz örtülü mekânlara ne ad verilir?",
+            "options": [
+                "Sundurma",
+                "Revak",
+                "Kervansaray",
+                "Şadırvan",
+                "Eyvan"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 65,
+            "question": "Buda'nın hayatından kesitlerin tasvir edildiği, günümüze gelebilen ve Hint resim sanatı hakkında bilgi veren yegâne eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Tac Mahal",
+                "Odhaipur Sarayı",
+                "Gwalior Sarayı",
+                "Kaylassa Mabedi",
+                "Ajunta Mabedi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 66,
+            "question": "Kilisenin doğusunda bulunan ve ibadet yönünü gösteren genellikle dışa taşkın içten yarım daire olan bölüm aşağıdakilerden hangisidir?",
+            "options": [
+                "Apsis",
+                "Diakonikon",
+                "Naos",
+                "Prothesis",
+                "Nef"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 67,
+            "question": "Georges Seurat'ın empresyonizm ve renk üzerine yapılmış bilimsel çalışmaların etkisiyle geliştirdiği teknik aşağıdakilerden hangisidir?",
+            "options": [
+                "Dadaizm",
+                "Fovizm",
+                "Sürrealizm",
+                "Puantizm",
+                "Ekspresyonizm"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 68,
+            "question": "Orta Çağ Avrupa sanatının en önemli üsluplarından olan üslup, 12. yüzyılın 2. yarısında Fransa'da ortaya çıkmış ve buradan yayılarak 15. yüzyıla kadar tüm Avrupa'da etkisini göstermiştir. Yukarıdaki cümlede boş bırakılan yeri doğru olarak tamamlar?",
+            "options": [
+                "Neobarok",
+                "Gotik",
+                "Karolenj",
+                "Neoklasik",
+                "Romanesk"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 69,
+            "question": "İstanbul'da fetihten sonra inşa edilen ilk külliye aşağıdakilerden hangisidir?",
+            "options": [
+                "Fatih Külliyesi",
+                "Rüstem Paşa Külliyesi",
+                "Şehzade Külliyesi",
+                "Yeni Cami Külliyesi",
+                "Süleymaniye Külliyesi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 70,
+            "question": "İsa'nın sağında Meryem, solunda Vaftizci Yahya ile birlikte tasvir edildiği sahnenin adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Eloisa Meryem",
+                "Pantakrator",
+                "Deesis",
+                "Anastasis",
+                "Koimesis"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 71,
+            "question": "Tipik bir Roma hamamında beden hareketlerinin gerçekleştiği ve aynı zamanda genç erkeklerin spor alanı olan açık avluya ne ad verilir?",
+            "options": [
+                "Apodyterium",
+                "Frigidarium",
+                "Palaestra",
+                "Calidarium",
+                "Tepidarium"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 72,
+            "question": "Dünya mimarlık tarihinin en ünlü anıtlarından biri olan, Roma'da inşa edilen, ününü kusursuz kubbe tasarımına borçlu olan Pantheon aşağıdaki imparatorlardan hangisinin zamanında inşa edilmiştir?",
+            "options": [
+                "Augustus",
+                "Hadrianus",
+                "Nero",
+                "Cladius",
+                "Konstantin"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 73,
+            "question": "Aşağıdakilerden hangisi sanatsal bir olaya seyircinin aktif olarak dahil olması ile gerçekleşir?",
+            "options": [
+                "Pop Sanat",
+                "Kinetik Sanat",
+                "Süreç Sanatı",
+                "İlişkisel Sanat",
+                "Vücut Sanatı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 74,
+            "question": "970-72 yılında tamamlanan, harimi mihrap duvarına paralel beş sahından oluşan, mihrap ekseni, paralel sahınları dikine kesen bir sahinla vurgulanmış ve mihrap önü bir kubbe ile örtülmüş, orta sahının iki ucunda, Kayravan Camii'nde olduğu gibi iki kubbe yükselen Kahire'deki ilk Fatımi yapısı aşağıdakilerden hangisidir?",
+            "options": [
+                "El-Akmer Camii",
+                "El-Hâkim Camii",
+                "El-Ezher Camii",
+                "Salih İsmâil Camii",
+                "El-Cüyuşi Camii"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 75,
+            "question": "Köln Katedrali'nde bulunan 970 tarihli anıtsal ölçülerde yapılmış bağımsız ahşap heykellerin bilinen ilk örneğidir. Yukarıdaki cümlede boş bırakılan yeri doğru olarak tamamlar?",
+            "options": [
+                "Gero Haçı",
+                "Grek Haçı",
+                "Gerresheim Haçı",
+                "Mathilda Haçı",
+                "Beninghausen Haçı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 76,
+            "question": "2007'den itibaren İtalya Torino'da ortaya çıkan, sanatçı, yazar ve şairlerin birbirinden ilham alarak karşılıklı etkileşimlerle yaratıcı olacakları konusunda ilkeler benimseyen Immagine&Poesia anlayışının öncüsü aşağıdakilerden hangisidir?",
+            "options": [
+                "Bruce Wands",
+                "Billy Childish",
+                "Charles Thomson",
+                "Takashi Murakami",
+                "Aeronwy Thomas"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 77,
+            "question": "Türk Yakut da denilen Yakutu Müstasemi'nin oluşturduğu altı çeşit yazı aşağıdakilerden hangisiyle anılır?",
+            "options": [
+                "Sülüs",
+                "Aklam-ı Sitte",
+                "Reyhani",
+                "Nesih",
+                "Muhakkak"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 78,
+            "question": "Tuşba'da özgün ve görkemli bir örneği bulunan, yüksek kayalıklar üzerine kurulmuş, çevresi surlarla kuşatılmış, içinde saray, tapınak, depo mekânları ve atölyelerin bulunduğu yönetim birimine ne ad verilir?",
+            "options": [
+                "Ortostad",
+                "Ryhton",
+                "Tümülüs",
+                "Lamaşşu",
+                "Sitadel"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 79,
+            "question": "Abbasi halifesi el-Mutasım tarafından Dicle Nehri kıyısında inşa ettirilen saray aşağıdakilerden hangisidir?",
+            "options": [
+                "Tak-ı Kisra",
+                "Kasrü'l Hayri el-Garbi",
+                "Rusafa Sarayı",
+                "Cevsakü'l-Hakani",
+                "Kasr Mışatta"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 80,
+            "question": "İtalya'da Rönesans fikrinin doğmasına katkıda bulunan, yaptığı freskler ve tempera resimlerinde yeni bir anlayış görülen, resimlediği eserlerde, İncil konuları ve alegorik konuları şeritler hâlinde işleyen, dinî konuları altın yaldız zeminden kurtarmış, perspektifi mekân içine sokmuş, figürlerde ifadeye önem vermiş, acı, keder, mutluluk gibi duyguları belirgin figürler betimlemiş, Fransız heykeltıraşların heykellerde vermeye çalıştığı doğal ifadelerin resimlerinde bulunduğu sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Giotto",
+                "Duccio",
+                "A.Lorenzetti",
+                "Simone Martini",
+                "Cimabue"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "575287"
+        },
+        {
+            "id": 81,
+            "question": "İstanbul'daki Nea Kilisesi'nin plan tipi nedir ve kim tarafından yaptırılmıştır?",
+            "options": [
+                "Transeptli Bazilika-I. Konstantinos",
+                "Helenistik Bazilika-l. Iustinianus",
+                "Kapalı Yunan Haçı-I.Basileios",
+                "Merkezi Planlı-I. Konstantinos",
+                "Merkezi Planlı-I. Basileios"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 82,
+            "question": "İstanbul'da Hipodrom'un ortasında bulunan eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Gotlar Sütunu",
+                "Kıztaşı",
+                "Çemberlitaş Sütunu",
+                "Milion taşı",
+                "Yılanlı Sütun"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 83,
+            "question": "Hayvan biçiminde tasvir edilen Eski Mısır tanrılarından Anubis'in başı, aşağıdaki hayvanlardan hangisinin başıdır?",
+            "options": [
+                "İnek",
+                "Timsah",
+                "Kedi",
+                "Aslan",
+                "Çakal"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 84,
+            "question": "\"Mezopotamya\" terimi kültürel olarak aşağıdaki uygarlıklardan hangisini <u>kapsamaz</u>?",
+            "options": [
+                "Sümer",
+                "Asur",
+                "Frig",
+                "Babil",
+                "Akkad"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 85,
+            "question": "Hind-i Çin sanatında da görülen bir eşyayı, bir objeyi, bir yeri, bir işleyişi, bir kavramı yazı-resimle temsil eden grafik sembole ne ad verilir?",
+            "options": [
+                "Pitogram",
+                "Nara",
+                "Kohun",
+                "Asuka",
+                "Yayoi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 86,
+            "question": "Temel biçimini büyük ölçüde Cumhuriyet Dönemi'nde kazanan Roma mimarlığına özgü kentsel yaşamının önemli bina türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Stoa",
+                "Circus",
+                "Odeion",
+                "Prytaneion",
+                "Agora"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 87,
+            "question": "Antik Çağda İonya (lonia) olarak adlandırılan bölge aşağıdakilerden hangisidir?",
+            "options": [
+                "Güney İtalya ve Sicilya",
+                "Kuzeybatı Anadolu",
+                "Kuzey İtalya",
+                "Batı Anadolu kıyıları ve Ege adaları",
+                "Orta İtalya"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 88,
+            "question": "Aşağıdakilerden hangisi Efes-Yamaç evlerinin freskolarında işlenen konulardan biri <u>değildir</u>?",
+            "options": [
+                "Tevrat'dan sahneler",
+                "Antik Yunan mitolojisi",
+                "Roma mitolojisi",
+                "Günlük hayattan sahneler",
+                "Balık ve kuş tasvirleri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 89,
+            "question": "Küçük boyutlarda yapılan ve geniş kenarlarından dürülen Japon resimlerinin genel adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Ruatai",
+                "Tosa",
+                "Kakemono",
+                "Guanti",
+                "Makimono"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 90,
+            "question": "Roma kentinde inşa edilmiş en erken tarihli tapınak aşağıdakilerden hangisidir?",
+            "options": [
+                "Fortuna Virilis Tapınağı",
+                "Sovana Tapınağı",
+                "Jupiter Tapınağı",
+                "Veii Tapınağı",
+                "Volsinii Tapınağı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 91,
+            "question": "Ayasofya'nın karşısında Sultanahmet Meydanı'nın kuzeybatı köşesinde bulunan, Bizans İmparatorluğu'nda, başkent İstanbul'a ulaşan tüm Antik Roma yollarının başlangıç noktası ve dünya üzerindeki diğer şehirlerin bu şehre uzaklığının hesaplanmasında kullanılan sıfır noktasına verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+                "Çemberlitaş",
+                "Milion",
+                "Obelisk",
+                "Bovis",
+                "Mese"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 92,
+            "question": "Buda'ya ait eşyaların korunduğu dairesel tabanlı bir kaide üstünde yükselen silindirik gövdeli kubbe örtülü, kutsal makamlara ne verilir?",
+            "options": [
+                "Sançi",
+                "Barkat",
+                "Sarnah",
+                "Stupa",
+                "Vihara"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 93,
+            "question": "I. Konstantinos'un İstanbul'da inşa ettirdiği, özellikle İmparator I. Iustinianos ve Teofilos zamanlarında birçok kez yeniden yapılan, genişletilen ya da onarılan Bizans sarayı aşağıdakilerden hangisidir?",
+            "options": [
+                "Büyük Saray",
+                "Magnaura Sarayı",
+                "Blakherna Sarayı",
+                "Boukoleon Sarayı",
+                "Platin Sarayı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 94,
+            "question": "Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere ne ad verilir?",
+            "options": [
+                "Kubbe",
+                "Saçak",
+                "Fılik",
+                "Kerpiç",
+                "Revak"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 95,
+            "question": "Anadolu'ya MÖ üçüncü bin yılın başlarında Kafkasya'dan göç ettikleri varsayılan; başkenti Çorum ili sınırları içinde kalan, eski adı Hattuşa olan günümüzdeki adı ise Boğazköy olan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Lidya",
+                "Hitit",
+                "Frig",
+                "Sümer",
+                "Urartu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 96,
+            "question": "Üzeri kırmızı ve siyah boyalı eşkenar dörtgen ve dama kompozisyonlarıyla bezenmiş, yayvan ağızlı, kısa boyunlu seramik kaplar Gansu seramiklerinin aşağıdaki evrelerinden hangisinde üretilmiştir?",
+            "options": [
+                "Şindien",
+                "Ciacing",
+                "Maçang",
+                "Banşan",
+                "Ming"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 97,
+            "question": "MÖ 6. yüzyılda Hindistan'da ortaya çıkan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören ve bir mezhebe bağlı olarak ortaya çıkan mimari üslup aşağıdakilerden hangisidir?",
+            "options": [
+                "Cayna üslubu",
+                "Eyalet üslubu",
+                "Yunan-Hint üslubu",
+                "Güney Hindistan üslubu",
+                "Kuzey Hindistan üslubu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 98,
+            "question": "Uşak Müzesi'nde sergilenen Batı Anadolu Tümülüslerinden ele geçirilmiş, dönemin giysi ve saç modelleri hakkında bilgi veren duvar resimleri aşağıdaki uygarlıklarından hangisine aittir?",
+            "options": [
+                "Urartu",
+                "İyon",
+                "Hitit",
+                "Lidya",
+                "Frig"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 99,
+            "question": "Sümer uygarlığının bilinen en eski merkezi Uruk'tur. Kette Sümerlere özgü bir yapı türü olan yani kule tapınaklar bulunur. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "dolmenler",
+                "zigguratlar",
+                "höyükler",
+                "megaronlar",
+                "tümülüsler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 100,
+            "question": "Aşağıdaki arkaik dönem yapılarından hangisi Dor Düzeni'nin en erken tarihli örneğidir?",
+            "options": [
+                "Efes Artemis Tapınağı",
+                "Didyma Apollon Tapınağı",
+                "Siphnoslular Hazine Binası",
+                "Sardes Artemis Tapınağı",
+                "Assos Athena Tapınağı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "443386"
+        },
+        {
+            "id": 101,
+            "question": "Aşağıdakilerden hangisi Antik Çağ'da İonya olarak adlandırılan Batı Anadolu kıyıları ve Ege adalarında daha yaygın olarak benimsenmiş, İon Düzeninde inşa edilmiş tapınaklardan biri <u>değildir</u>?",
+            "options": [
+                "Samos (Sisam) Adası'ndaki Hera Tapınağı",
+                "Didyma Apollon Tapınağı",
+                "Sardes Artemis Tapınağı",
+                "Efes Artemis Tapınağı",
+                "Paestum Basilika (Hera I) Tapınağı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 102,
+            "question": "Çin'de yapılan 50 cm yükseklikteki tunç Buda heykelleri, genellikle aşağıdaki çiçeklerin hangisi üzerinde bağdaş kurmuş vaziyettedir?",
+            "options": [
+                "Orkide",
+                "Lotüs",
+                "Nilüfer",
+                "Papatya",
+                "Karanfil"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 103,
+            "question": "811-1057 yılları arasındaki Bizans tarihinin anlatıldığı, 600 resim içeren el yazması aşağıdakilerden hangisidir?",
+            "options": [
+                "Yeşu Rulosu",
+                "Paris Mezmuru",
+                "Ioannes Skylitzes Kroniği",
+                "8. No'lu Oktateukh",
+                "Viyana Genesis"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 104,
+            "question": "Babürlüler zamanında Şah Cihan'ın vefat eden eşi Mümtaz Mahal için Ağra'da yaptırdığı, türbe ve camiden oluşan, beyaz mermerden yaptırılan bu yapı için Osmanlılardan mimar istediği bilinen eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Odhaipur Sarayı",
+                "Gwalior Sarayı",
+                "Tac Mahal",
+                "Kumba Sarayı",
+                "Delhi Cuma Camii"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 105,
+            "question": "Boğazköy'de erken örneklerinden birini gördüğümüz, insan başlı, aslan vücutlu hayali yaratık aşağıdakilerden hangisidir?",
+            "options": [
+                "Ryhton",
+                "Hiyeroglif",
+                "Ortostad",
+                "Sfenks",
+                "Lamaşşu"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 106,
+            "question": "Kiliselerde halkın ibadet ettiği orta ve yan neflerden meydana gelen mekân aşağıdakilerden hangisidir?",
+            "options": [
+                "Diakon",
+                "Naos",
+                "Nef",
+                "Apsis",
+                "Pastoforium"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 107,
+            "question": "Duvar sıvası üzerine daha yaşken toprak boyalarla yapılan resimlere ne ad verilir?",
+            "options": [
+                "Fresk",
+                "Revak",
+                "Mozaik",
+                "Abadana",
+                "Kerub"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 108,
+            "question": "Tipik bir Roma hamamında sauna hücrelerinin de yer aldığı asıl yıkanma bölümüne ne ad verilir?",
+            "options": [
+                "Palaestra",
+                "Apodyterium",
+                "Frigidarium",
+                "Tepidarium",
+                "Calidarium"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 109,
+            "question": "Günümüzde Topkapı Sarayı dış bahçesinde, Gülhane Parkı Sarayburnu girişinde bulunan, yüksekliği 18.5 metre olan, kaidesinde yer alan genel kabule göre II. Claudius'un ya da I. Konstantinos'un zaferi anısına dikilen eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Yılanlı Sütun",
+                "Obelisk",
+                "Gotlar Sütunu",
+                "Çembelitaş Sütunu",
+                "Kıztaşı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 110,
+            "question": "Genç bir atleti, yıkanmadan önce vücudundaki ter ve çamuru, strigilis adı verilen bir aletle temizlerken gösteren, orijinali tunçtan yapılmış Apoxymenos ve Herakles Farnese heykellerinde, sanatçıya atfedilen yeni oranlar sisteminin gözlemlendiği, Büyük İskender'in sarayında da çalışmış olan, Erken Helenistik Dönemin en ünlü sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Paionios",
+                "Lysippos",
+                "Myron",
+                "Phedias",
+                "Alkamenes"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 111,
+            "question": "Yaklaşık 430'da II. Theodosius'un eğitmeni tarafından yaptırılmış, esas mekânı 6. yüzyılın başlarında kiliseye dönüştürülerek Azize Euphemia'ya ait kutsal emanetlerin buraya taşındığı saray yapısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Antiochus Sarayı",
+                "Myrelaion Sarayı",
+                "Nymphaion Sarayı",
+                "Lausos Sarayı",
+                "Brias Sarayı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 112,
+            "question": "Üzerinde Dacia Seferi'ni (MS 113) anlatımcı bir üslupla betimleyen kabartmaların yer aldığı Roma döneminin en önemli eserleri arasında yer alan sütunun adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Zafer Tanrıçası Victoria (Nike)",
+                "Titus",
+                "Theodosius",
+                "Traianus",
+                "Marcus Aurelius"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 113,
+            "question": "Sus şehri kazılarında kale ve saray kapılarının iki yanında koruyucu olarak yerleştirilmiş heykelleri ile karşılaştığımız, insan başlı-boğa vücutlu karma yaratık aşağıdakilerden hangisidir?",
+            "options": [
+                "Sfenks",
+                "Kerub",
+                "Lamassu",
+                "Gryps",
+                "Kentaur"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 114,
+            "question": "İran-Arap devrinde Muhammed İbni Haccac tarafından yaptırılan İran'ın ilk camisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Zevvare Mescid-i Cuması",
+                "Ardistan Mescid-i Cuması",
+                "İsfahan Mescid-i Cuması",
+                "Kazvin Cuma Camii",
+                "Gülpayegan Mescid-i Cuması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 115,
+            "question": "Friglerin kentleşme ve mimarlık alanında ulaştıkları düzeyin en iyi izlenebildiği, Sakarya ile Porsuk nehirlerinin birleşme noktasına yakın olarak kurulmuş olan yerleşim merkezi aşağıdakilerden hangisidir?",
+            "options": [
+                "Gordion",
+                "Çatalhöyük",
+                "Boğazköy",
+                "Sardes",
+                "Tuşba"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 116,
+            "question": "Knidos kenti için yaptığı ünlü Aphrodite, Hermes ve çocuk Dionysos, Apollon Sauroktonos (kertenkele kovalayan) heykellerini yapan çıplak tanrı ve tanrıça heykelleri ile ün yapmış sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Agorakritios",
+                "Praxiteles",
+                "Skopas",
+                "Alkamenes",
+                "Paionios"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 117,
+            "question": "Mısır'ın firavunluğa yükselen tek kraliçesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Akhenaton",
+                "Amenhotep",
+                "Mentuhotep",
+                "Senmut",
+                "Hatshepsut"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 118,
+            "question": "Ortodoks Hristiyan Kilisesi'nde önemli on iki olaydan biri olan, \"İsa'nın Cehenneme Inişi\" sahnesine ne ad verilir?",
+            "options": [
+                "Koimesis",
+                "Deesis",
+                "Son Yargı",
+                "Anastasis",
+                "Ankostik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 119,
+            "question": "Sami krallıklarının öncüsü olan ve krallarını doğrudan tanrı gibi gören Mezopotamya Uygarlığı aşağıdakilerden hangisidir?",
+            "options": [
+                "Akkad",
+                "Sümer",
+                "Asur",
+                "Babil",
+                "Lagaş"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 120,
+            "question": "Farklı zamanlarda oluşan kültür katmanlarının toprakla üstlerinin örtülmesi ile oluşan doğal tepeciklere ne ad verilir?",
+            "options": [
+                "Menhir",
+                "Stel",
+                "Litik",
+                "Obsidiyen",
+                "Höyük"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "565652"
+        },
+        {
+            "id": 121,
+            "question": "Japonya'da resim, Çin'de olduğu gibi sanatından gelişmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "heykel",
+                "seramik",
+                "oymacılık",
+                "maden",
+                "yazı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 122,
+            "question": "İstanbul Kara Surları (408-413)'nı aşağıdaki Bizans imparatorlarından hangisi yaptırmıştır?",
+            "options": [
+                "Constantinus",
+                "II. Teodosios",
+                "Manuel Komnenos",
+                "Septimus Severius",
+                "Basileus"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 123,
+            "question": "Volkanik püskürtmelerle ortaya çıkmış ve özellikle Neolitik Çağ'da yaygın olarak alet yapımında kullanılmış volkanik cama ne ad verilir?",
+            "options": [
+                "Höyük",
+                "Stel",
+                "Obsidiyen",
+                "Menhir",
+                "Figürin"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 124,
+            "question": "I. Konstantinos'un İstanbul'da inşa ettirdiği, özellikle İmparator I. Iustinianos ve Teofilos zamanlarında birçok kez yeniden yapılan, genişletilen ya da onarılan Bizans sarayı aşağıdakilerden hangisidir?",
+            "options": [
+                "Blakherna Sarayı",
+                "Büyük Saray",
+                "Boukoleon Sarayı",
+                "Magnaura Sarayı",
+                "Platin Sarayı"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 125,
+            "question": "Friglerin kentleşme ve mimarlık alanında ulaştıkları düzeyin en iyi izlenebildiği, Sakarya ile Porsuk nehirlerinin birleşme noktasına yakın olarak kurulmuş olan yerleşim merkezi aşağıdakilerden hangisidir?",
+            "options": [
+                "Tuşba",
+                "Gordion",
+                "Sardes",
+                "Çatalhöyük",
+                "Boğazköy"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 126,
+            "question": "Budacılığa ait mabetlerin, en üstteki avlularında, yüksek bir kaide üstünde adı verilen, içinde Buda'nın kutsal makamının yer aldığı üç bölümlü asıl mabet yapısı bunulur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+                "miya",
+                "tori",
+                "obaku",
+                "tago",
+                "hondô"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 127,
+            "question": "Erken Bizans Dönemi'nde İstanbul'da hipodrom ortasına dikilen \"Yılanlı Sütun\" diğer adıyla \"Burmalı Sütun\" aşağıdaki şehirlerin hangisinde bulunan Apollon Tapınağı'ndan getirilmiştir?",
+            "options": [
+                "Delfi",
+                "Milano",
+                "Roma",
+                "Ksanthos",
+                "Letoon"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 128,
+            "question": "Eski İran'da Zerdüştler'in tapınmak üzere yaptıkları, önlerinde bir avlu bulunan yaklaşık iki metre yükseklikteki kare tabanlı bir kaide üzerinde yer alan, köşelerindeki birer payenin bulunduğu kutsal makamları olan tapınaklara ne ad verilir?",
+            "options": [
+                "Ateşgede",
+                "Mâbed",
+                "Revak",
+                "Kerub",
+                "Abadana"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 129,
+            "question": "Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler aşağıdaki uygarlıklardan hangisine aittir?",
+            "options": [
+                "Selefkos",
+                "Med",
+                "Pers",
+                "Sasani",
+                "Elam"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 130,
+            "question": "Tuşba'da özgün ve görkemli bir örneği bulunan, yüksek kayalıklar üzerine kurulmuş, çevresi surlarla kuşatılmış, içinde saray, tapınak, depo mekânları ve atölyelerin bulunduğu yönetim birimine ne ad verilir?",
+            "options": [
+                "Sitadel",
+                "Tümülüs",
+                "Ryhton",
+                "Ortostad",
+                "Lamaşşu"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 131,
+            "question": "Friglerin en özgün eserlerinin örneklerini bulduğumuz, bir mezar odasının üstüne taş, toprak yığılarak yapılan tepelere ne ad verilir?",
+            "options": [
+                "Sitadel",
+                "Fibula",
+                "Ortostad",
+                "Tümülüs",
+                "Höyük"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 132,
+            "question": "Üzerinde Dacia Seferi'ni (MS 113) anlatımcı bir üslupla betimleyen kabartmaların yer aldığı Roma döneminin en önemli eserleri arasında yer alan inşa ettiren imparatorun adıyla tanınan sütunun adı aşağıdakilerden hangisidir?",
+            "options": [
+                "Zafer Tanrıçası Victoria (Nike)",
+                "Titus",
+                "Theodosius",
+                "Traianus",
+                "Marcus Aurelius"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 133,
+            "question": "Klasik dönem Yunan sanatının idealizasyonuna öykünen bir göründüğü, Primaporta olarak adlandırılan heykel aşağıdaki imparatorlardan hangisine aittir?",
+            "options": [
+                "Cladius",
+                "Tiberius",
+                "Augustus",
+                "Neron",
+                "Marcus Aurelius"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 134,
+            "question": "Athena Parthenon Tapınağı'nın yapı malzemesi aşağıdakilerden hangisidir?",
+            "options": [
+                "Taş",
+                "Kerpiç ve taş",
+                "Mermer",
+                "Kerpiç",
+                "Killi toprak"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 135,
+            "question": "Tipik bir Roma hamamında beden hareketlerinin gerçekleştiği ve aynı zamanda genç erkeklerin spor alanı olan açık avluya ne ad verilir?",
+            "options": [
+                "Calidarium",
+                "Frigidarium",
+                "Apodyterium",
+                "Palaestra",
+                "Tepidarium"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 136,
+            "question": "Aşağıdakilerden hangisi merkezî planlı yapı türlerinden biri <u>değildir</u>?",
+            "options": [
+                "Oktagon",
+                "Tek nefli",
+                "Heksagon",
+                "Tetrakonkhos",
+                "Rotonda"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 137,
+            "question": "Pompei yakınlarında bulunan ve adını Yunan Şarap Tanrısı Dionysos adına yapılan gizemli bir kültle ilişkili olan duvar resimlerinden alan yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Misterler Villası",
+                "Grifonlar Evi",
+                "Altın Ev",
+                "Vettii Evi",
+                "Boscoreale Villası"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 138,
+            "question": "Eski İran hükümdarlarının taht salonlarına ve da içeren önü sütunlu taraylalarına ne ad verilir?",
+            "options": [
+                "Ateşgede",
+                "Kerub",
+                "Revak",
+                "Abadana",
+                "Frek"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 139,
+            "question": "MÖ 9. yüzyılda Frig Uygarlığında gelişen maden işçiliğini yansıtan, çengelli iğnenin atası olduğuna inanılan eser aşağıdakilerden hangisidir?",
+            "options": [
+                "Ortostad",
+                "Lamaşşu",
+                "İdol",
+                "Ziggurat",
+                "Fibula"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 140,
+            "question": "Orta Bizans Döneminde, Anadolu'da ve Balkanlar'da toprak kayıplarının yaşandığı 610 yılı ile ikonoklazma akımının bittiği 842 yılı arasını kapsayan döneme ne ad verilir?",
+            "options": [
+                "Laskaris Dönemi",
+                "Isavrian Dönemi",
+                "Paleologos Dönemi",
+                "Karanlık Dönem",
+                "I. Iustinianos Dönemi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618576"
+        },
+        {
+            "id": 141,
+            "question": "Mengüceklilerin döneminde Ahmet Şah ve eşi Turan Melike Sultan tarafından yaptırılmış, 1985 yılında Dünya Kültür Mirası Listesi'ne girmiş olan, mimarisi ve eşsiz süslemeleriyle Anadolu Türk mimarisinin en kıymetli eserleri arasında yer alan yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Mardin Emineddin Külliyesi",
+                "Kayseri Gevher Nesibe Maristanı",
+                "Sivas Divriği Ulu Camii ve Şifahanesi",
+                "Niksar Yağıbasan Medresesi",
+                "Erzurum Ulu Camii"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 142,
+            "question": "Claude Monet'in Gün Doğumu (İzlenim) adlı eserinden yola çıkarak Impression terimini kullanan ve böylece Empresyonizm akıma adını veren eleştirmen aşağıdakilerden hangisidir?",
+            "options": [
+                "Roger Eliot Fry",
+                "Maurice de Vlaminck",
+                "Theodore Rousseau",
+                "Louis Leroy",
+                "Louis Vauxcelles"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 143,
+            "question": "Bir dinîn törenlerine ve tapınma biçimine ilişkin kuralların tümüne ne ad verilir?",
+            "options": [
+                "İnsula",
+                "Diakon",
+                "Katholikon",
+                "Litürji",
+                "Altar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 144,
+            "question": "1063 yılında Busketos isimli Yunanlı bir mimar tarafından yapılmış, 5 nefli, transeptli bazilikal planlı, orta nefi düz tavan, yan nefleri çapraz tonoz örtülü, yanında vaftizhane, eğik çan kulesi ve Campo Santo (anıtsal mezarlık) bulunan yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Modena Katedrali",
+                "Verona San Zeno Bazilikası",
+                "Pisa Katedrali",
+                "Parma Katedrali",
+                "Lizbon Katedrali"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 145,
+            "question": "Primaporta olarak adlandırılan heykel aşağıdaki imparatorlardan hangisine aittir?",
+            "options": [
+                "Marcus Aurelius",
+                "Tiberius",
+                "Cladius",
+                "Neron",
+                "Augustus"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 146,
+            "question": "İsa'nın çarmıha gerildiği haçın parçalarının saklandığı kutulara ne ad verilir?",
+            "options": [
+                "Staurotek",
+                "Polykandilion",
+                "Paten",
+                "Enkolpion",
+                "Fykisis"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 147,
+            "question": "Muvahhid Dönemi mimarı olan Ahmed Ben Baso tarafından yapımına 1184 yılında başlanan 1198'de tamamlanan yapı aşağıdakilerden hnagisidir?",
+            "options": [
+                "Kutubiye Camii",
+                "Rabat Hasan Camii",
+                "Sevilla Alcazar Sarayı",
+                "La Giralda minaresi",
+                "Elhambra Sarayı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 148,
+            "question": "1900'lerin başında Henry Matisse öncülüğünde Fransa'da geliştirilen, temsilcileri arasında Andre Derain, Maurice de Vlaminck, Henry Charles Manguin ve Georges Rouault'un sayılabileceği sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Romantizm",
+                "Fovizm",
+                "Empresyonizm",
+                "Sembolizm",
+                "Realizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 149,
+            "question": "Eski İran topraklarındaki ilk siyasi birliğin kuruluşunu gerçekleştiren uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+                "Med",
+                "Part",
+                "İskit",
+                "Pers",
+                "Elam"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 150,
+            "question": "Terra kotta asker heykelleri aşağıdaki Çin hanedanlık dönemlerinden hangisinde yapılmıştır?",
+            "options": [
+                "Ming Hanedanlığı",
+                "Zhou Hanedanlığı",
+                "Qin Hanedanlığı",
+                "Shang (Yin) Hanedanlığı",
+                "Xia Hanedanlığı"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 151,
+            "question": "------, Anadolu'da Erken Tunç Çağı'nda yaygın olarak inşa edilen ve iki odadan oluşan ev tipidir. Ev planı girişte küçük bir ön oda, arkada ise ocaklı uzun bir odadan oluşur. Yukarıda paragrafta boş bırakılan yeri <u>tamamlar</u>?",
+            "options": [
+                "Sitadel",
+                "Megaron",
+                "Ortostad",
+                "Fibula",
+                "Ziggurat"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 152,
+            "question": "Halife Abdülmelik tarafından Kudüs'te, kutsal alan içinde bir tavaf yapısı ve ziyaretgâh olarak yaptırılmış, Hacerü-l Muallak adıyla anılan kutsal kayayı içerisine alacak biçimde merkezî planlı, sekizgen biçimli bir alana oturan, çift cidarlı ahşap strüktürlü kubbe ile örtülü İslam yapısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kubbet'üs Süleybiye",
+                "Kubbetü's Sakhra",
+                "Mescid-i Nebevi",
+                "Mescidü'l Aksa",
+                "Beyt-i Mamur"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 153,
+            "question": "Suriye Emevilerinin, üst üste bindirilmiş üç dikdörtgen prizma biçimli minaresi, planı ve at nalı kemerleriyle Kuzeybatı Afrika ve Endülüs camilerine örnek teşkil eden camisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kayravan (Sidi Ukbe) Camii",
+                "Mecidü'l Aksa",
+                "El Hakim Camii",
+                "El Akmer Camii",
+                "Salih Talai Camii"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 154,
+            "question": "Mihrap önünde bulunan kubbesi, dört eyvanlı revaklı avlusu ile Büyük Selçukluların eyvanlı cami tipinin en gelişmiş örneği olan 1135 tarihli yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "İsfahan Mescidi Cuması",
+                "İsfahan Mescidi Cuması",
+                "Zevvare Mescidi Cuması",
+                "Gülpayegân Camii",
+                "Muğak Atari Camii"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 155,
+            "question": "Hindistan'da Delhi Sultanlığı'nı kuran Kutbeddin Aybek döneminde Delhi'de inşa edilen Kutbü'l-İslam Caminin yanında bulunan, aşağıdan yukarıya doğru daralarak 73 m yüksekliğe ulaşan, dilimli gövdeli ve beş şerefeli, kırmızı kum taşı ve beyaz mermer malzemenin kullanıldığı minareye ne ad verilir?",
+            "options": [
+                "Kayıtbay Minaresi",
+                "El-Arus Minaresi",
+                "Malviya",
+                "Gopuran",
+                "Kutub Minar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 156,
+            "question": "Rönesans kavramını, Antik Çağ felsefesi ile kültür ve sanatının yeniden doğuşu anlamında ilk kez kullanan, araştırmaları ve kuramları nedeniyle sanat tarihinin kavramsal olarak babası sayılan ressam ve mimar aşağıdakilerden hangisidir?",
+            "options": [
+                "Giorgio Vasari",
+                "Filippo Brunelleschi",
+                "Bernardo Buontalenti",
+                "Lorenzo Ghiberti",
+                "Donato Bramante"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 157,
+            "question": "1909'da İtalyan Şair Filippo Tommaso Marinetti tarafından manifestosu hazırlanan, resim, heykel, mimarlık, tasarım alanlarında ilkeleri belirlenen, endüstrileşme ve buna bağlı olarak kent yaşamında meydana gelen değişimlerin etkili olduğu, dinamizme ve teknolojiye hayranlık duyan, hız, gelişip değişen ve makineleşen dünyadan etkilenmiş sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kübizm",
+                "Fütürizm",
+                "Fovizm",
+                "Ekspresyonizm",
+                "Konstrüktivizm"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 158,
+            "question": "Ağırlıklı olarak din, felsefe ve hukuk alanlarında eğitim verilen, 1158 yılında Avrupa'da kurulan ilk üniversite aşağıdakilerden hangisidir?",
+            "options": [
+                "Oxford",
+                "Padova",
+                "Paris",
+                "Napoli",
+                "Bologna"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 159,
+            "question": "Adını Kuzey Irak'ta Musul yakınlarında kurulmuş bir yerleşimden alan, kerpiç duvarlı çok mekanlı yapıların ve ham bakırdan dövülmek suretiyle takıların yapıldığı, MÖ altıncı binin başlarına tarihlenen Mezopotamya kültür devresi aşağıdakilerden hangisidir?",
+            "options": [
+                "Uruk kültürü",
+                "Samarra kültürü",
+                "Obeyd kültürü",
+                "Hassuna kültürü",
+                "Halaf kültürü"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 160,
+            "question": "Vitruvius'a göre, plan tasarımında değişmeyen eş bir birimi (modül) temel alan geometrik ve matematiksel tasarım anlayışının mucidi aşağıdakilerden hangisidir?",
+            "options": [
+                "Hermogenes",
+                "Lysippos",
+                "Alexandros",
+                "II. Eumenes",
+                "Hippodamos"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "449034"
+        },
+        {
+            "id": 161,
+            "question": "İslamiyetin en önemli yapısı olan, granit taştan inşa edilen, 13 m yüksekliğindeki dikdörtgen prizma biçimli, sade ve süslemesiz Kâbe'nin doğu köşesine ne ad verilir?",
+            "options": [
+                "El-Mescidü'l Haram",
+                "Hacerü'l Esved",
+                "Şâmî",
+                "Irakî",
+                "Yemânî"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 162,
+            "question": "Abbasi Dönemi yapılarının iç mekânlarında, Herzfeld tarafından somuttan soyuta doğru A, B ve C harfleriyle sınıflandırılan süsleme üsluplarının, motiflerin, geometrik bir düzende uygulandığı, İslami stuko örneklerinin ve Türk etkilerinin görüldüğü ilk İslam şehri aşağıdakilerden hangisidir?",
+            "options": [
+                "Medine",
+                "Bağdat",
+                "Kurtuba",
+                "Samarra",
+                "Fustat"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 163,
+            "question": "Aşağıdaki sanatçılardan hangisi Die Brücke (Köprü) grubunun kurucu üyeleri arasında <u>yer almaz</u>?",
+            "options": [
+                "Fritz Bleyl",
+                "Karl Schmidt-Rottluff",
+                "Edward Munch",
+                "Ernst Ludwing Kirchner",
+                "Erich Heckel"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 164,
+            "question": "Kiliselerde naos ve bemayı ayıran, üzerinde genellikle 12 Bayram sahnelerinin tasvir edildiği ikonaların asılı olduğu duvara ne ad verilir?",
+            "options": [
+                "İkona",
+                "Nef",
+                "Galeri",
+                "Atrium",
+                "İkonastasis"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 165,
+            "question": "1874-1886 yılları arasında açılan yedi sergiye katılan \"Auguste Renoir, Camille Pisarro, Alfred Sisley, Edgar Degas, Berthe Morisot ve Paul Cézanne\" aşağıdaki akımlardan hangisinde eserler vermişlerdir?",
+            "options": [
+                "Romantizm",
+                "Realizm",
+                "Empresyonizm",
+                "Fovizm",
+                "Sembolizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 166,
+            "question": "Rönesans kavramı, ilk kez araştırmaları ve kuramları nedeniyle sanat tarihinin kavramsal olarak babası sayılan hangi ressam ve mimar tarafından Antik Çağ felsefe ve düşüncesi ile kültür ve sanatının yeniden doğuşu anlamında kullanılmıştır?",
+            "options": [
+                "Lorenzo Ghiberti",
+                "Giorgio Vasari",
+                "Andrea Mantegna",
+                "Massaccio",
+                "Brunelleschi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 167,
+            "question": "Charlotte Corday adındaki kadın tarafından bıçaklanan Fransız Devrimi'nin liderlerinden Paul Marat'ın ölümünün resmedildiği, olayın tüm trajedisine karşın hareket ve abartılmış ifadelerin olmadığı, açık seçiklik, yalınlık, ulusal bir kahramanın yüceltilmesi gibi özellikleriyle neoklasik sanatın ünlü örneklerinden biri olan \"Marat'ın Ölümü\" adlı eser aşağıdaki sanatçılardan hangisine aittir?",
+            "options": [
+                "Vincenzo Camuccini",
+                "Antonio Canova",
+                "Felice Giani",
+                "Jean Auguste Dominique Ingres",
+                "Jacques-Louis David"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 168,
+            "question": "Charlemagne döneminde üretilmiş en önemli resimli el yazmalarından biri olan, Roma Dönemi el yazmalarının minyatürlerine benzer bir üslupla 778-820 yıllarında hazırlanmış olan Lorsch İncili aşağıdaki merkezlerin hangisinde bulunan sarayda üretilmiştir?",
+            "options": [
+                "Köln",
+                "Aachen",
+                "Reims",
+                "Salzburg",
+                "Sant Gallen"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 169,
+            "question": "Yağlıboya resme geçinceye kadar kullanılmış, ahşap üzerine yumurta, su, tutkal ve balmumunun bağlayıcı olarak sürüldüğü boya türüne ne ad verilir?",
+            "options": [
+                "Lüster",
+                "Emay",
+                "Tempera",
+                "Perdah",
+                "Sanguine"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 170,
+            "question": "Kare ya da çokgen biçimli bir alanın köşelerinde bulunan sütun ya da payelerle taşınan dışarıya açık kemerle oluşturulmuş, üstü piramidal çatı ya da kubbe örtülü yapılara ne ad verilir?",
+            "options": [
+                "Maristan",
+                "Kümbet",
+                "Ribat",
+                "Baldaken",
+                "Zaviye"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 171,
+            "question": "İçlerinde Umberto Boccioni ve Giacoma Balla gibi sanatçıların bulunduğu, anlık görüntüler yerine nesnelerin hareket halini hissettirmeyi amaçlayan, parlak ve canlı renkleri, dinamik biçimleri tercih eden sanatçılar hangi sanat akımının ilkelerine uygun eserler vermişlerdir?",
+            "options": [
+                "Fütürizm",
+                "Süprematizm",
+                "Fovizm",
+                "Kübizm",
+                "Konstrüktivizm"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 172,
+            "question": "Aşağıdakilerden hangisi Akkad Dönemi'nin en önemli krallarından birinin adıyla anılan steldir?",
+            "options": [
+                "Gudea",
+                "Ur-Nanşe",
+                "Nannar",
+                "II. Aşurnasirpal",
+                "Naram-Sin"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 173,
+            "question": "Yunan sanatında ciddi yüz ifadesinden dolayı \"Ciddi Stil\" olarak da adlandırılan heykeller klasik dönemin hangi evresinde yapılmıştır?",
+            "options": [
+                "Zengin Klasik Dönem",
+                "Olgun Klasik Dönem",
+                "Geç Klasik Dönem",
+                "Erken Klasik Dönem",
+                "Arkaik Dönem"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 174,
+            "question": "Uygur Döneminin surlarla çevrili şehir ve kalelerine ne ad verilir?",
+            "options": [
+                "Ordu Balık",
+                "Kasır",
+                "Külliye",
+                "Balbal",
+                "Baldaken"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 175,
+            "question": "Fâtımi Döneminde Kahire'de inşa edilen ilk cami aşağıdakilerden hangisidir?",
+            "options": [
+                "Kurtuba Camii",
+                "Tinmel Camii",
+                "Kutubiye Camii",
+                "el-Ezher Camii",
+                "Kayravan Camii"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 176,
+            "question": "Michelangelo tarafından Floransa San Lorenzo Kilisesine de eklenen mezar şapellerine ne ad verilir?",
+            "options": [
+                "Payanda",
+                "Sacristy",
+                "Rustika",
+                "Codex",
+                "Pilastr"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 177,
+            "question": "Mihrap önünde bulunan kubbesi, dört eyvanlı revaklı avlusu ile Büyük Selçukluların eyvanlı cami tipinin en gelişmiş örneği olan 1135 tarihli yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Zevvare Mescidi Cuması",
+                "Muğak Atari Camii",
+                "Gülpayegân Camii",
+                "Edirne Üç Şerefeli Camii",
+                "İsfehan Mescidi Cuması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 178,
+            "question": "Hicret sırasında Hz. Muhammed'in Medine yakınlarında kıldığı ilk cuma namazı ve okunan ilk cuma hutbesinin ardından burada inşa edilen mescit ya da cami aşağıdakilerden hangisidir?",
+            "options": [
+                "Kûfe Camii",
+                "Mescid-i Kıbleteyn",
+                "Kuba Mescidi",
+                "Mescid-i Nebevi",
+                "Amr Camii"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 179,
+            "question": "Saltukluların Erzincan Tercan'da 13. yy'da inşa ettikleri, ortadaki dilimli gövdeli kümbeti çevreleyen on bir nişli çevre duvarı ile Anadolu'daki tek örnek olan yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Döner Kümbet",
+                "Güdük Minare Türbesi",
+                "Ümmühan Hatun Türbesi",
+                "Sarı Saltuk Türbesi",
+                "Mama Hatun Kümbeti"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 180,
+            "question": "Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler aşağıdaki uygarlıklardan hangisine aittir?",
+            "options": [
+                "Elam",
+                "Sasani",
+                "Med",
+                "Selefkos",
+                "Pers"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "571463"
+        },
+        {
+            "id": 181,
+            "question": "İtalya'nın önemli sanatçılarından olan Verrocchio'nun doğa gözlemciliğinden etkilenmiş, Lorenzo Medici Villası'na yaptığı mitolojik İlkbahar (Primavera) ve Venüs'ün Doğuşu tabloları ile tanıdığımız sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Paolo Uccello",
+                "Sandro Boticelli",
+                "Filippo Lippi",
+                "Andrea Mantagne",
+                "Gentile Bellini"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 182,
+            "question": "1874-1886 yılları arasında açılan yedi sergiye katılan \"Auguste Renoir, Camille Pisarro, Alfred Sisley, Edgar Degas, Berthe Morisot ve Paul Cézanne\" aşağıdaki akımlardan hangisinde eserler vermişlerdir?",
+            "options": [
+                "Sembolizm",
+                "Fovizm",
+                "Empresyonizm",
+                "Realizm",
+                "Romantizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 183,
+            "question": "\"Yetimler Yurdu binası\" ve \"Floransa Katedrali (Santa Maria Della Fiore)'nin üzerine yaptığı sekizgen prizma gövdeli yüksek bir kasnak üzerinde yükselen, aydınlık feneri bulunan 8 dilimli bir kubbesi ile tanıdığımız, Rönesans mimarisinin öncüsü kabul edilen sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+                "Paolo Veronese",
+                "Tiziano Vecelli",
+                "Paolo Uccello",
+                "Leonardo Da Vinci",
+                "Filippo Brunelleschi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 184,
+            "question": "Tipik bir Roma hamamında sauna hücrelerinin de yer aldığı asıl yıkanma bölümüne ne ad verilir?",
+            "options": [
+                "Palaestra",
+                "Calidarium",
+                "Frigidarium",
+                "Tepidarium",
+                "Apodyterium"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 185,
+            "question": "Anadolu Selçuklularında 1-avlulu ve kapalı kısımlılar, 2-kapalı bir kısımdan oluşanlar, 3-avludan oluşanlar ve 4-bir merkezî yapı etrafında gelişenler olmak üzere dört plan tipinde görülen ticaret yapıları aşağıdakilerden hangisidir?",
+            "options": [
+                "Kümbet",
+                "Kasır",
+                "Maristan",
+                "Kervansaray",
+                "Zaviye"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 186,
+            "question": "Barbizon ekolünün ressamlarından biri olan, manzaradan figüre geçmiş ve resimlerinde köy yaşamından sahneleri, tarlalarda çalışan kadın ve erkekleri tüm gerçekçilikleri ile betimlemeyen, \"Başak Toplayan Kadınlar, Ekiciler, Ekmek Yapan Kadın\" gibi eserleriyle bilinen Realizmin önde gelen sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Manet",
+                "Courbet",
+                "Renoir",
+                "Daumier",
+                "Millet"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 187,
+            "question": "Fâtımî halifesi Faiz Bi-Nasrillah'ın veziri tarafından 1190 yılında yaptırılan, yer kotundan 3,80 m yüksekte olduğu için üç tarafının zemin katlarında dükkânların yer aldığı Fatımilerin son mimari eseri aşağıdakilerden hangisidir?",
+            "options": [
+                "El-Ezher Camii",
+                "Salih Talai Camii",
+                "El-Hâkim Camii",
+                "El-Akmer Camii",
+                "El-Cuyuşi Camii"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 188,
+            "question": "İmparator Teofilos (829-842) tarafından Arap saraylarına benzetilerek inşa ettirildiği bilinen Bizans sarayı aşağıdakilerden hangisidir?",
+            "options": [
+                "Brias Sarayı",
+                "Rhegion Sarayı",
+                "Nymphaion Sarayı",
+                "Myrelaion Sarayı",
+                "Magnaura Sarayı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 189,
+            "question": "970-72 yılında tamamlanan, harimi mihrap duvarına paralel beş sahından oluşan, mihrap ekseni, paralel sahınları dikine kesen bir sahınla vurgulanmış ve mihrap önü bir kubbe ile örtülmüş, orta sahının iki ucunda, Kayravan Camii'nde olduğu gibi iki kubbe yükselen Kahire'deki ilk Fatımi yapısı aşağıdakilerden hangisidir?",
+            "options": [
+                "El-Ezher Camii",
+                "El-Akmer Camii",
+                "El-Cuyuşi Camii",
+                "Salih Talai Camii",
+                "El-Hâkim Camii"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 190,
+            "question": "Fransız düşünür Auguste Comte'un geliştirdiği, pozitivist felsefeden etkilenen, şimdiki anı yüceltmiş, gerçek dünyanın dikkatli bir gözlemle, doğru, nesnel ve tarafsız betimlenmesini amaçlamış, edebi ve dinsel konuların yerini iş ve işçilik temalarının aldığı, önde gelen sanatçıları Gustave Courbet ve Jean François Millet olan sanat akımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Romantizm",
+                "Empresyonizm",
+                "Realizm",
+                "Ekspresyonizm",
+                "Sembolizm"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 191,
+            "question": "İslam ülkelerinde hastane yapılarına ne ad verilmektedir?",
+            "options": [
+                "Zaviye",
+                "Maristan",
+                "Ribat",
+                "Külliye",
+                "Kasır"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 192,
+            "question": "5. yüzyılda yaşamış ismi bilinen en eski Japon ressamı aşağıdakilerden hangisidir?",
+            "options": [
+                "Kanaoka",
+                "Kabanari",
+                "İnshiraga",
+                "Ahimi",
+                "Kintada"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 193,
+            "question": "Aşağıdaki sanatçılardan hangisi Die Brücke (Köprü) grubunun kurucu üyeleri arasında yer <u>almaz</u>?",
+            "options": [
+                "Edward Munch",
+                "Ernst Ludwing Kirchner",
+                "Fritz Bleyl",
+                "Erich Heckel",
+                "Karl Schmidt-Rottluff"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 194,
+            "question": "Sümerlere özgü bir yapı türü olan zigguratların, MÖ 3500 ile MÖ 3100 arasında yapılmış, badanalı tuğla duvarlarıyla Uruk'ta bulunan ilk örneklerinden birisi aşağıdakilerden hangisidir?",
+            "options": [
+                "Ur",
+                "Koka Zanbil",
+                "Nannar",
+                "Beyaz Tapınak",
+                "Çoğa Zenbil"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 195,
+            "question": "İslam dünyasında genellikle kent dışlarında inşa edilen hükümdarlara ait yüksek duvar ve burçlarla tahkim edilmiş korunaklı şato benzeri yapılara ne ad verilmektedir?",
+            "options": [
+                "Külliye",
+                "Ribat",
+                "Maristan",
+                "Kasır",
+                "Kümbet"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 196,
+            "question": "Michelangelo tarafından 1523-1529 yılları arasında Floransa San Lorenzo Kilisesine eklenen bölüm aşağıdakilerden hangisidir?",
+            "options": [
+                "Codex",
+                "Payanda",
+                "Rustika",
+                "Pilastr",
+                "Sacristy"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 197,
+            "question": "Anadolu'nun en erken tarihli kapalı avlulu medreselerini inşa eden beylik aşağıdakilerden hangisidir?",
+            "options": [
+                "Mengücekliler",
+                "Saltuklular",
+                "Danişmendliler",
+                "Artuklular",
+                "Dilmaçoğulları"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 198,
+            "question": "1479-81 yıllarında İstanbul'a gelerek Fatih Sultan Mehmet'in portresini yapan rönesans sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+                "Leonardo Da Vinci",
+                "Sandro Boticelli",
+                "Pierro di Cosimo",
+                "Gentile Bellini",
+                "Paolo Uccello"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 199,
+            "question": "İnananları namaza çağırmak için ezanın okunup işlevinin yapıldığı, camiyle bağlantılı ya da yakınında yer alan, camiden daha yüksekçe inşa edilmiş, ilk kullanımı, Şam Emeviye Camisinde karşımıza çıkan mimari yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Son cemaat Yeri",
+                "Minber",
+                "Mihrap",
+                "Şerefe",
+                "Minare"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        },
+        {
+            "id": 200,
+            "question": "Camilerde üzerlerinde hutbe okunan, basamaklarla çıkılan, iki basamaklı ilk şekli ile peygamberin zamanından beri varlığı bilinen, İmamın kullanımına ayrılmış olan litürjik öge aşağıdakilerden hangisidir?",
+            "options": [
+                "Minber",
+                "Minare",
+                "Mihrab",
+                "Şerefe",
+                "Harim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622946"
+        }
+    ]
+}

@@ -1,0 +1,3292 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Mathieu Tremblin'in bir stok imaj sitesinin filigranını boş duvarın üzerine tebeşirle çizerek yaptığı ve sonra fotoğrafını çekerek ürettiği Watermark (Filigran) isimli proje Yeni Estetik açısından nasıl yorumlanabilir?",
+            "options": [
+                "Sayısal olan yapay zekânın, insan zekası ile boy ölçüşemeyeceği",
+                "Sayısal dünya haricinde sanat yapıtından bahsedilemez olduğu",
+                "Sayısal imgeleme tekniklerinin geleneksel yöntemlerden üstün olduğu",
+                "Sayısal yöntemlerle üretilen sanatın gerilemekte olduğu",
+                "Sayısal dünyanın fiziksel dünyaya sızdığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 2,
+            "question": "İlk çevrimiçi topluluk aşağıdakilerden hangisidir?",
+            "options": [
+                "Wikipedia",
+                "WELL",
+                "YouTube",
+                "eBay",
+                "BitTorrent"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 3,
+            "question": "Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim (ler) olduğu tam olarak bilinmeyen kişi veya grup aşağıdakilerden hangisidir?",
+            "options": [
+                "Hiro Nakamura",
+                "Martti Malmi",
+                "Vitalik Buterin",
+                "Satoshi Nakamoto",
+                "Tim Berners - Lee"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 4,
+            "question": "Ivan Shuterland tarafından 1968 yılında icat edilen, görünüşü ve ağırlığı sebebiyle \"Demokles'in Kılıcı\" yakıştırması yapılan sistem, aşağıdaki terimlerden hangisinin ilk defa insanlar tarafından sayısal olarak deneyimlenmesini sağlamıştır?",
+            "options": [
+                "Siber uzay",
+                "Sanal gerçeklik",
+                "Artırılmış gerçeklik",
+                "Karma gerçeklik",
+                "Fiziksel gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 5,
+            "question": "Kriptoparaların elektronik ortamda en büyük eksikliklerden olan güvenlik ve kopyalanma sorununu aşmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "Blokzincir",
+                "İnternet",
+                "Ağ mimarisi",
+                "Endüstri 4.0",
+                "Merkezsizlik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 6,
+            "question": "Bitcoin'in işlem şeffaflığı ve kullanıcı mahremiyeti arasındaki dengeyi korumak için kullandığı ve kırılması günümüz süper bilgisayarları tarafından bile on yıllar sürebilecek olan güvenlik standardı aşağıdakilerden hangisidir?",
+            "options": [
+                "ERC20",
+                "SHA256",
+                "SHA –1",
+                "SHA512",
+                "FIPS 46"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi bir medya platformu <u>değildir</u>?",
+            "options": [
+                "Tiktok",
+                "Twitter",
+                "Facebook",
+                "Star Trek",
+                "Tumblr"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 8,
+            "question": "Sayısal ortamlar sayesinde insan hayatında ne gibi bir değişiklik ortaya çıkmıştır?",
+            "options": [
+                "İnsanların birbirleri ile olan iletişimi azalmıştır.",
+                "İnsanların zihinsel aktivitelerinde yavaşlama görülmüştür.",
+                "İnsanların sportif aktivitelerine engel olmuştur.",
+                "Sanat akımları ile insanlar sayısallaşmaya karşı durmaya başlamıştır.",
+                "Günlük yapılan aktiviteler sayısal ortamlara taşınmıştır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 9,
+            "question": "Artırılmış gerçeklik ya da sanal gerçeklik uygulamalarıyla gerçek fiziki coğrafi mekân ve dijital mekânın iç içe geçtiği mekânlara ne ad verilir?",
+            "options": [
+                "Melez/hibrit mekân",
+                "Gerçek mekân",
+                "Özel mekân",
+                "Ortak mekân",
+                "Kamusal mekân"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 10,
+            "question": "Bireylerin kendileriyle benzer yaş, cinsiyet, etnik köken, sosyoekonomik durum ve kişisel inançlar gibi tanımlayıcı özellikleri paylaşan diğer insanlarla güçlü sosyal bağlantılar kurma eğilimini ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Siber zorbalık",
+                "Nefret söylemi",
+                "Anonimlik",
+                "Homofili",
+                "Trollük"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 11,
+            "question": "İnsanların, 2010'lu yıllarda daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır?",
+            "options": [
+                "Bilgi çağı",
+                "Dijital çağ",
+                "Endüstri 4.0",
+                "Sosyal Ağ",
+                "Yeni medya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 12,
+            "question": "Aşağıdakilerden hangisi internet üzerinde topluluk oluşturmada kullanılan mecralardan biri <u>değildir</u>?",
+            "options": [
+                "Whatsapp",
+                "Facebook",
+                "Kıraathane",
+                "İnternet forumları",
+                "Telegram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 13,
+            "question": "Dijital oyun yayıncılığının yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir?",
+            "options": [
+                "Twitch",
+                "Facebook",
+                "Blogger",
+                "Twitter",
+                "Youtube"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 14,
+            "question": "Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları doğrudan tedarikçilere bağlayarak; ____ gibi avantajlar da sağlar.",
+            "options": [
+                "aktivizm",
+                "veri güvenliği",
+                "anonimlik",
+                "konum verisi",
+                "aracısızlaştırma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 15,
+            "question": "Bitcoin'i resmi para birimi olarak kabul eden ilk devlet aşağıdakilerden hangisidir?",
+            "options": [
+                "Endonezya",
+                "Çin",
+                "Paraguay",
+                "El Salvador",
+                "Dominik Cumhuriyeti"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 16,
+            "question": "Mark Skwarek, Sander Veenhof ve Tamiko Thiel'in sanatçıları arasında bulunduğu, 2010 yılında New York Modern Sanat Müzesinde (MoMa) gerçekleşen WeARinMoMa sergisinin öne çıkan özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Sergi için müzeden izin alınmamış olması",
+                "İlk defa içinde karma gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde genişletilmiş gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde sanal gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde artırılmış gerçeklik ile üretilmiş eserler bulunan sergi olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 17,
+            "question": "Clement Valla'nın \"Google Earth'den Posta Kartları\" isimli çalışması hangi fikre dayanarak oluşturmuştur?",
+            "options": [
+                "Sanal gerçeklik sanat manifestosuna",
+                "Yazılımın içerisindeki kodların birbirleri ile çakışması fikrine",
+                "Artırılmış gerçeklik sanat manifestosuna",
+                "Karma gerçeklik sanat manifestosuna",
+                "Uydu görüntüleriyle kuş bakışı dünyanın güzelliğinin izleyicileri etkileyeceğine"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 18,
+            "question": "Aşağıdakilerden hangisi konum verilerinin kullanımına İlişkin etik ve sorumlu yaklaşımları desteklemek amacıyla oluşturulan Locus Charter İlkeleri'nden biri <u>değildir</u>?",
+            "options": [
+                "Verilerin daha sonra bireylerin veya konumlarının tanınmasına neden olacak şekilde kullanılmasını engellemek için önlemler alınması",
+                "Veri kullanıcılarının, bireysel veya toplu konum verilerinin ayrımcılık, istismar veya zarar amaçlı kullanımını önlemekle sorumlu olması",
+                "Konum verilerini toplayan platform ve araştırmacıların, kullanıcılara verilerinin kullanacağını belirterek yasal ve etik sorumluluktan kaçınabilmeleri",
+                "Veri setlerindeki yanlılığı anlamaya ve ayrımcı sonuçlardan kaçınmaya özen gösterilmesi",
+                "Belirli bir amaçla konum verisini kullanacak olanların yalnızca yeterli, ilgili ve hedefle sınırlı kişisel verileri kullanması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 19,
+            "question": "Aşağıdakilerden hangisi Büyük Veri kaynaklarından biri <u>değildir</u>?",
+            "options": [
+                "Ağlar",
+                "Ses ve görüntü cihazları",
+                "Oyuncaklar",
+                "İnternet",
+                "Kayıtlar (logs)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 20,
+            "question": "Facebook bir ------- alanı olarak görülebilir.",
+            "options": [
+                "kriptopara",
+                "hava alma",
+                "kütüphane",
+                "jeolojik unsur",
+                "dijital aktivizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607395"
+        },
+        {
+            "id": 21,
+            "question": "Mathieu Tremblin'in bir stok imaj sitesinin filigranını boş duvarın üzerine tebeşirle çizerek yaptığı ve sonra fotoğrafını çekerek ürettiği Watermark (Filigran) isimli proje Yeni Estetik açısından nasıl yorumlanabilir?",
+            "options": [
+                "Sayısal olan yapay zekânın, insan zekası ile boy ölçüşemeyeceği",
+                "Sayısal dünya haricinde sanat yapıtından bahsedilemez olduğu",
+                "Sayısal imgeleme tekniklerinin geleneksel yöntemlerden üstün olduğu",
+                "Sayısal yöntemlerle üretilen sanatın gerilemekte olduğu",
+                "Sayısal dünyanın fiziksel dünyaya sızdığı"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 22,
+            "question": "İlk çevrimiçi topluluk aşağıdakilerden hangisidir?",
+            "options": [
+                "Wikipedia",
+                "WELL",
+                "YouTube",
+                "eBay",
+                "BitTorrent"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 23,
+            "question": "Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim (ler) olduğu tam olarak bilinmeyen kişi veya grup aşağıdakilerden hangisidir?",
+            "options": [
+                "Hiro Nakamura",
+                "Martti Malmi",
+                "Vitalik Buterin",
+                "Satoshi Nakamoto",
+                "Tim Berners - Lee"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 24,
+            "question": "Ivan Shuterland tarafından 1968 yılında icat edilen, görünüşü ve ağırlığı sebebiyle \"Demokles'in Kılıcı\" yakıştırması yapılan sistem, aşağıdaki terimlerden hangisinin ilk defa insanlar tarafından sayısal olarak deneyimlenmesini sağlamıştır?",
+            "options": [
+                "Siber uzay",
+                "Sanal gerçeklik",
+                "Artırılmış gerçeklik",
+                "Karma gerçeklik",
+                "Fiziksel gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 25,
+            "question": "Kriptoparaların elektronik ortamda en büyük eksikliklerden olan güvenlik ve kopyalanma sorununu aşmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "Blokzincir",
+                "İnternet",
+                "Ağ mimarisi",
+                "Endüstri 4.0",
+                "Merkezsizlik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 26,
+            "question": "Bitcoin'in işlem şeffaflığı ve kullanıcı mahremiyeti arasındaki dengeyi korumak için kullandığı ve kırılması günümüz süper bilgisayarları tarafından bile on yıllar sürebilecek olan güvenlik standardı aşağıdakilerden hangisidir?",
+            "options": [
+                "ERC20",
+                "SHA256",
+                "SHA-1",
+                "SHA512",
+                "FIPS 46"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 27,
+            "question": "Aşağıdakilerden hangisi bir medya platformu <u>değildir</u>?",
+            "options": [
+                "Tiktok",
+                "Twitter",
+                "Facebook",
+                "Star Trek",
+                "Tumblr"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 28,
+            "question": "Sayısal ortamlar sayesinde insan hayatında ne gibi bir değişiklik ortaya çıkmıştır?",
+            "options": [
+                "İnsanların birbirleri ile olan iletişimi azalmıştır.",
+                "İnsanların zihinsel aktivitelerinde yavaşlama görülmüştür.",
+                "İnsanların sportif aktivitelerine engel olmuştur.",
+                "Sanat akımları ile insanlar sayısallaşmaya karşı durmaya başlamıştır.",
+                "Günlük yapılan aktiviteler sayısal ortamlara taşınmıştır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 29,
+            "question": "Artırılmış gerçeklik ya da sanal gerçeklik uygulamalarıyla gerçek fiziki coğrafi mekân ve dijital mekânın iç içe geçtiği mekânlara ne ad verilir?",
+            "options": [
+                "Melez/hibrit mekân",
+                "Gerçek mekân",
+                "Özel mekân",
+                "Ortak mekân",
+                "Kamusal mekân"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 30,
+            "question": "Bireylerin kendileriyle benzer yaş, cinsiyet, etnik köken, sosyoekonomik durum ve kişisel inançlar gibi tanımlayıcı özellikleri paylaşan diğer insanlarla güçlü sosyal bağlantılar kurma eğilimini ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Siber zorbalık",
+                "Nefret söylemi",
+                "Anonimlik",
+                "Homofili",
+                "Trollük"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 31,
+            "question": "İnsanların, 2010'lu yıllarda daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır?",
+            "options": [
+                "Bilgi çağı",
+                "Yeni medya",
+                "Dijital çağ",
+                "Endüstri 4.0",
+                "Sosyal Ağ"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 32,
+            "question": "Aşağıdakilerden hangisi internet üzerinde topluluk oluşturmada kullanılan mecralardan biri <u>değildir</u>?",
+            "options": [
+                "Whatsapp",
+                "Facebook",
+                "Kıraathane",
+                "İnternet forumları",
+                "Telegram"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 33,
+            "question": "Dijital oyun yayıncılığının yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir?",
+            "options": [
+                "Twitch",
+                "Facebook",
+                "Blogger",
+                "Twitter",
+                "Youtube"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 34,
+            "question": "Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları doğrudan tedarikçilere bağlayarak; ... gibi avantajlar da sağlar.",
+            "options": [
+                "aktivizm",
+                "veri güvenliği",
+                "anonimlik",
+                "konum verisi",
+                "aracısızlaştırma"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 35,
+            "question": "Bitcoin'i resmi para birimi olarak kabul eden ilk devlet aşağıdakilerden hangisidir?",
+            "options": [
+                "Endonezya",
+                "Çin",
+                "Paraguay",
+                "El Salvador",
+                "Dominik Cumhuriyeti"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 36,
+            "question": "Mark Skwarek, Sander Veenhof ve Tamiko Thiel'in sanatçıları arasında bulunduğu, 2010 yılında New York Modern Sanat Müzesinde (MoMa) gerçekleşen WeARinMoMa sergisinin öne çıkan özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Sergi için müzeden izin alınmamış olması",
+                "İlk defa içinde karma gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde genişletilmiş gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde sanal gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde artırılmış gerçeklik ile üretilmiş eserler bulunan sergi olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 37,
+            "question": "Clement Valla'nın \"Google Earth'den Posta Kartları\" isimli çalışması hangi fikre dayanarak oluşturmuştur?",
+            "options": [
+                "Sanal gerçeklik sanat manifestosuna",
+                "Yazılımın içerisindeki kodların birbirleri ile çakışması fikrine",
+                "Artırılmış gerçeklik sanat manifestosuna",
+                "Karma gerçeklik sanat manifestosuna",
+                "Uydu görüntüleriyle kuş bakışı dünyanın güzelliğinin izleyicileri etkileyeceğine"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 38,
+            "question": "Aşağıdakilerden hangisi konum verilerinin kullanımına İlişkin etik ve sorumlu yaklaşımları desteklemek amacıyla oluşturulan Locus Charter İlkeleri'nden biri <u>değildir</u>?",
+            "options": [
+                "Verilerin daha sonra bireylerin veya konumlarının tanınmasına neden olacak şekilde kullanılmasını engellemek için önlemler alınması",
+                "Veri kullanıcılarının, bireysel veya toplu konum verilerinin ayrımcılık, istismar veya zarar amaçlı kullanımını önlemekle sorumlu olması",
+                "Konum verilerini toplayan platform ve araştırmacıların, kullanıcılara verilerinin kullanacağını belirterek yasal ve etik sorumluluktan kaçınabilmeleri",
+                "Veri setlerindeki yanlılığı anlamaya ve ayrımcı sonuçlardan kaçınmaya özen gösterilmesi",
+                "Belirli bir amaçla konum verisini kullanacak olanların yalnızca yeterli, ilgili ve hedefle sınırlı kişisel verileri kullanması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 39,
+            "question": "Aşağıdakilerden hangisi Büyük Veri kaynaklarından biri <u>değildir</u>?",
+            "options": [
+                "Ağlar",
+                "Ses ve görüntü cihazları",
+                "Oyuncaklar",
+                "İnternet",
+                "Kayıtlar (logs)"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 40,
+            "question": "Facebook bir ------- alanı olarak görülebilir.",
+            "options": [
+                "kriptopara",
+                "hava alma",
+                "kütüphane",
+                "jeolojik unsur",
+                "dijital aktivizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2021-2022",
+            "material_id": "607440"
+        },
+        {
+            "id": 41,
+            "question": "Sanal gerçeklikte olduğu gibi, artırılmış gerçeklikte de oyun piyasası bu yeni ortamın olanaklarını değerlendirmektedir. Artırılmış gerçeklik ortamını geniş kitlelerin ilk oyun deneyimlemesini sağlayan aşağıdakilerden hangisidir?",
+            "options": [
+                "Catan World Explorers",
+                "Harry Potter Wizards Unite",
+                "Zombies, Run",
+                "Ingress",
+                "Pokemon GO"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 42,
+            "question": "Artırılmış gerçeklik ya da sanal gerçeklik uygulamalarıyla gerçek fiziki coğrafi mekân ve dijital mekânın iç içe geçtiği mekânlara ne ad verilir?",
+            "options": [
+                "Gerçek mekân",
+                "Ortak mekân",
+                "Melez/hibrit mekân",
+                "Kamusal mekân",
+                "Özel mekân"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 43,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [
+                "Bu soru iptal edilmiştir.",
+                "Bu soru iptal edilmiştir.",
+                "Bu soru iptal edilmiştir.",
+                "Bu soru iptal edilmiştir.",
+                "Bu soru iptal edilmiştir."
+            ],
+            "correctIndex": -1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 44,
+            "question": "Blokzincir teknolojisinin temelini oluşturan özellikler aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+            "options": [
+                "Merkezsiz bir mimari yapısıyla işlem kayıtlarının şeffaf olması ve sistem güvenliğinin yüksek kriptoloji standartlarıyla sağlanması",
+                "Merkezi bir yönetim yapısıyla mahremiyetin kullanıcının inisiyatifine bırakılması ve sistem güvenliğinin kriptoloji standartlarına dayanması",
+                "Merkezi bir kontrolle işlem kayıtlarının şeffaflığı ve güvenliğin yüksek kriptoloji standartlarıyla sağlanması",
+                "Merkezi bir mimari yapısıyla işlem kayıtlarının gizliliği ve mahremiyetin kullanıcının inisiyatifine bırakılması",
+                "Merkezsiz bir mimari yapısıyla, işlem kayıtlarının gizliliği ve mahremiyetin merkezi bir otoriteye dayanması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 45,
+            "question": "Aşağıdakilerden hangisi sanal gerçeklik bağlamında \"gömülme\" kavramını tanımlar?",
+            "options": [
+                "Sayısal gerçeklikteki medya deneyimlerini belirten bir terimdir.",
+                "Kullanıcıların sayısal dünyanın içine tam olarak gömüldüğü bir sistemdir.",
+                "Kullanıcıların gerçek tehlikelere maruz kaldığı bir durumu ifade eder.",
+                "Sanal gerçeklikte ses ve görsel duyumsamaların oluşturulma şeklini belirten bir terimdir.",
+                "Bilgisayar oyunlarındaki etkileşimleri ifade eden bir terimdir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 46,
+            "question": "Kamusal alanın önemi ve işlevi üzerine çalışan teorisyenlerden biri olan Habermas'a göre, kamusal alan demokrasinin ön koşuludur. Buna göre, aşağıdakilerden hangisi kamusal alanın işlevleri arasında yer alır?",
+            "options": [
+                "Sadece aydınlar ve burjuva sınıfının fikir alışverişine hizmet etmek",
+                "Toplumu ilgilendiren sorunları tartışma ve kolektif çözümler geliştirme",
+                "Yalnızca devlet politikalarını denetleme işlevi",
+                "Kamusal alanın devlet, sermaye ve aile gibi diğer güçlerden bağımsız olması",
+                "Sadece ekonomik gelişmeleri değerlendirmek"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 47,
+            "question": "\"Sosyal değişimin merkezinde medya teknolojileri vardır.\" düşüncesi aşağıdaki hangi kuramsal yaklaşım kapsamında yer alır?",
+            "options": [
+                "Yapısalcılık",
+                "Semiyoloji",
+                "Ağ teorisi",
+                "Kültürel konstrüktivizm",
+                "Teknolojik determinizm"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 48,
+            "question": "Blokzincir teknolojisi ile dijital bir defterde depolanan ve dijital bir varlığın benzersiz olduğunu onaylayan veri birimi aşağıdakilerden hangisidir?",
+            "options": [
+                "Byte",
+                "IOTA",
+                "NFT",
+                "DAO",
+                "SHA256"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 49,
+            "question": "Kriptoparaların ortaya çıkışında ve işleyişinde etkili olan temel faktör aşağıdakilerden hagisidir?",
+            "options": [
+                "Kriptoparalar, dijital teknoloji gelişmeleriyle var olmuştur.",
+                "Kriptoparaların varlığı, sadece bankacılık sistemini kurtarma operasyonlarına bir alternatif olma ihtiyacından kaynaklanmıştır.",
+                "Kriptoparaların ortaya çıkışı ve işleyişi, sadece 2008 ABD Finans Krizi'nin etkisi altında gerçekleşmiştir.",
+                "Kriptoparalar, dijitalleşme sonrasında paradaki merkezsizleşme ihtiyacının bir sonucu olarak ortaya çıkmıştır ve toplulukların da etkisiyle işlemektedir.",
+                "Kriptoparaların işleyişi, gazetelerin kağıt ortamdan dijital medyaya geçişiyle benzerlik göstermektedir ve toplulukların etkisi yoktur."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 50,
+            "question": "Aşağıdakilerden hangisi Blokzincir teknolojisinin kripto para birimleri dışında kullanılabileceği alanları eksiksiz ifade eder?",
+            "options": [
+                "Akıllı sözleşmeler",
+                "Sadece kopyalanma sorunlarındaki çözümler",
+                "Sadece Bitcoin gibi önermeler",
+                "Sadece finansal düzenlemeler",
+                "Yalnızca dijital para uygulamaları"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 51,
+            "question": "İlk çevrimiçi topluluk aşağıdakilerden hangisidir?",
+            "options": [
+                "Wikipedia",
+                "WELL",
+                "BitTorrent",
+                "eBay",
+                "YouTube"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 52,
+            "question": "\"Akıllı sözleşmeler\" için aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "Tüm süreç dijital ortamda aracılar vasıtası ile sürdürülür.",
+                "Sadece kurumlar arasında kullanılabilir.",
+                "Sürece ilişkin protokol maddeleri yazılı olarak mutabakat altına alınır.",
+                "Sadece kişiler arasında kullanılabilir.",
+                "Hem toplumsal hem de ticari amaçla kullanılabilirler."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 53,
+            "question": "Bir makinenin düşünüp düşünemeyeceği konusundaki tartışmalar hangi icattan sonra başlamıştır?",
+            "options": [
+                "Babbage'ın Analiz Motoru",
+                "Antikythera Mekanizması",
+                "El Cezeri'nin Fil Saati",
+                "Kempelen'in Mekanik Türk'ü",
+                "Leibniz'in Kademeli Hesaplayıcısı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 54,
+            "question": "Aşağıdakilerden hangisi algoritmaların adil işleyişine engel değildir?",
+            "options": [
+                "Büyük teknoloji şirketlerinin iş modelleri",
+                "Coğrafi farklılıklar",
+                "Alternatif enerji kaynakları",
+                "Irkçılık",
+                "Toplumsal cinsiyet"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 55,
+            "question": "Rheingold'un çevrimiçi topluluklar hakkındaki görüşü aşağıdakilerden hangisidir?",
+            "options": [
+                "Çevrimiçi toplulukların başarısının temel nedenlerinden biri, insanların toplumsal olarak aidiyet ihtiyacı hissetmeleridir.",
+                "Çevrimiçi topluluklar sadece eğlence amaçlı kullanıldığında başarılı olacaktır.",
+                "Çevrimiçi topluluklar sadece bilgi almak için kullanılır, etkileşim kurmak toplumsal bir ihtiyaç değildir.",
+                "Çevrimiçi toplulukların varlığına şüphe ile yaklaşmış ve elektronik iletişimin gerçek topluluk özelliklerini taşımadığını savunmuştur.",
+                "Çevrimiçi toplulukların dijital oyun grupları dışında kullanımı gerçek amacına hizmet etmeyecektir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 56,
+            "question": "Oyun teknolojilerinin gelişimiyle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "CS GO, Valorant ve League of Legends gibi oyunlar, düşük işletim gücüne sahip bilgisayarlarda oynanabilir.",
+                "Beraber oynama pratiği, internet sayesinde gerçekleşmiş ve video oyunlarının gelişimine katkı sağlamıştır.",
+                "Programlamanın ve kodlamanın sınırları, oyun teknolojileri yüzünden sürekli daralmaktadır.",
+                "Multiplayer oyunlar, kapalı ağlarda başlayarak zamanla internetin yaygınlaşmasıyla birlikte ortaya çıkmıştır.",
+                "Twitch.tv platformu, oyun izletme ve izleme kültürü ile ilgili yeni mesleklerin ortaya çıkmasına katkıda bulunmamıştır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 57,
+            "question": "Çevrimiçi toplulukların temel bileşenleriyle aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Çevrimiçi topluluklar, sadece gruplar arasında etkileşime odaklanan bir yapıya sahiptir.",
+                "Çevrimiçi topluluklar yalnızca bireysel ihtiyaçları karşılamak amacıyla kullanılır ve grup boyutları önemli değildir.",
+                "Ortak bir amaç, topluluk üyelerinin davranışlarını yönlendiren kurallar ve sosyal etkileşime aracılık eden teknik bir sistem içermez.",
+                "Çevrimiçi topluluklar sadece bireysel ve teknoloji boyutlarını içerir.",
+                "İnsanlar arasında toplumsal etkileşimi, ortak bir amaç, kurallar ve teknik bir sistem içeren dört temel bileşenden oluşur."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 58,
+            "question": "2009 yılında Bitcoin finansal bir işleyiş olarak hayata geçirildiğinde onu var edecek tüm teknik bileşenler ve kavramlar olgunluğa ermişti. Aşağıdakilerden hangisi bu bileşen ve kavramlardan biri <u>değildir</u>?",
+            "options": [
+                "Deneysel altyapı projelerinde deneyim kazanılması",
+                "İş kanıtı sistemleri",
+                "ABD'deki bankacılık ve finans sektörünün akıllı para politikaları",
+                "Extropians gibi toplulukların varlıkları",
+                "Açık anahtar kriptografisi"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 59,
+            "question": "Aşağıdakilerden hangisi artırılmış gerçeklik sanatının özelliklerinden biridir?",
+            "options": [
+                "Sanatçıları fiziksel gerçeklikle sınırlar, ekranların atıl yapısından kurtarır.",
+                "Sanat eserlerini fiziksel gerçeklikle sınırlar, sanat piyasasının hiyerarşik yapısından kurtarır.",
+                "Sanatçıları sanat piyasasının hiyerarşik yapısına bağlı kılar, zaman ve mekân sınırlamalarını ortadan kaldırır.",
+                "Sanat eserlerini viral ve sayısal bir ruhla ele geçirir, sanat piyasasının hiyerarşik yapısından kurtarır.",
+                "Seyircileri yeni bir fiziksel gerçekliğin içine çeker, ekranların atıl yapısından kurtarır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 60,
+            "question": "İnsanların sayısal dünyayı algılaması için kullanılan araçlara ne ad verilir?",
+            "options": [
+                "Gerçeklik ortamlandırıcıları",
+                "Projeksiyonlar",
+                "Sanal gerçeklik gözlükleri",
+                "Artırılmış gerçeklik gözlükleri",
+                "MP3 çalarlar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2023-2024",
+            "material_id": "607491"
+        },
+        {
+            "id": 61,
+            "question": "Aşağıdakilerden hangisi Büyük Veri'yi geleneksel veri yönetiminden ayıran temel özelliklerden biridir?",
+            "options": [
+                "Verinin yalnızca yapılandırılmış (structured) formatta saklanması",
+                "Veri kaynaklarının yalnızca kurumsal sistemlerle sınırlı olması",
+                "Geleneksel yöntemlerle kolayca işlenebilir olması",
+                "Sadece metin tabanlı verilerden oluşması",
+                "Verinin yüksek hacimli, çeşitli ve yüksek hızda üretiliyor olması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 62,
+            "question": "Dijital oyun yayıncılığının yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir?",
+            "options": [
+                "Twitch",
+                "Facebook",
+                "Youtube",
+                "Twitter",
+                "Blogger"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 2,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 63,
+            "question": "Bir anlatıyı/hikayeyi izleyiciye, dinleyiciye ya da okuyucuya anlatmak için birden çok mecranın kullanılması ve hikayenin ancak kullanılan mecraların hepsinin tüketimiyle elde edilmesinin mümkün olması durumu aşağıdakilerden hangisidir?",
+            "options": [
+                "Yeni medya",
+                "Transmedya",
+                "Geleneksel medya",
+                "Yapay zeka",
+                "Dijital medya"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 64,
+            "question": "Aşağıdakilerden hangisi paranın merkezsizleşme sürecine girmesinin nedenlerinden biri olarak gösterilebilir?",
+            "options": [
+                "Paranın yalnızca devlet kontrolünde olması gerektiği düşüncesinin yaygınlaşması",
+                "Dijitalleşmenin finansal sistemleri daha merkezi hâle getirmesi",
+                "Kâğıt paranın tamamen ortadan kalkarak yerine tek tip dijital paranın gelmesi",
+                "2008 ABD Finans Krizi ile geleneksel finans sisteminin risklerinin ortaya çıkması",
+                "Kriptoparaların yalnızca büyük finans kuruluşları tarafından kullanılması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 65,
+            "question": "Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim (ler) olduğu tam olarak bilinmeyen kişi ya da kişiler aşağıdakilerden hangisidir?",
+            "options": [
+                "Tim Berners - Lee",
+                "Hiro Nakamura",
+                "Satoshi Nakamoto",
+                "Martti Malmi",
+                "Vitalik Buterin"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 66,
+            "question": "Manuel Castells tarihsel olarak toplumsal ağların her zaman bulunduğunu; ağ toplumunu ayıran kilit faktörün ise bu dönemde <u> </u> ve <u> </u> teknolojilerinin kullanımının yaygınlaşması olduğunu vurgular.",
+            "options": [
+                "bilgi / iletişim",
+                "kurum / elektronik",
+                "kitle / çoğaltma",
+                "çözümleme / baskı",
+                "VR / AR"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 67,
+            "question": "Aşağıdakilerden hangisi artırılmış gerçeklik teknolojisinin eğitim alanında sunduğu en önemli avantajlarından biridir?",
+            "options": [
+                "Öğrencilerin fiziksel ortamdan tamamen soyutlanarak tamamen sanal bir dünyaya geçiş yapmalarını sağlaması",
+                "Eğitimin yalnızca belirli bir yaş grubu için uygulanabilir olmasını desteklemesi",
+                "Öğrencilerin yalnızca teorik bilgileri ezberleyerek öğrenmelerine odaklanması",
+                "Öğrencilerin sadece görsel içeriklerle sınırlı kalmasını sağlayarak deneyimsel öğrenmeyi kısıtlaması",
+                "Fiziksel ortamın olanaklarını sayısal ortamın avantajlarıyla birleştirerek etkileşimli bir öğrenme deneyimi sunması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 68,
+            "question": "Bitcoin sisteminin güvenliğini artıran temel unsur aşağıdakilerden hangisidir?",
+            "options": [
+                "İşlemlerin tek bir merkezde tutulması ve düzenli olarak denetlenmesi",
+                "SHA256 kriptografi standardı sayesinde yüksek güvenlik sağlaması",
+                "Kullanıcıların kimlik bilgilerinin merkezi bir sistemde saklanması",
+                "Kredi kartı şirketleri tarafından yönetilen bir sistem olması",
+                "İşlem kayıtlarının yalnızca yetkilendirilmiş kişiler tarafından erişilebilir olması"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 8,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 69,
+            "question": "Adorno ve Horkheimer'in Kültür Endüstrisi teorisine göre popüler kültürün temel işlevi aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanat ve medya yoluyla toplumsal yapıları politikadan bağımsız olarak şekillendirmek",
+                "Kültürel üretimi bireylerin kontrolüne bırakarak medya tekellerini ortadan kaldırmak",
+                "Kapitalist düzeni eleştiren bağımsız medya içeriklerinin çoğalmasını sağlamak",
+                "Toplumu edilgenliğe itmek için standartlaşmış kültürel ürünler üretmek",
+                "Bireylerin özgün ifade biçimlerini teşvik etmek ve siyasete katılımı artırmak"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 70,
+            "question": "Aralarında güven problemi olan iki veya daha fazla sayıda sosyal veya ticari tarafın sorununu ortadan kaldırmaya yarayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "Blokzincir",
+                "Kriptopara",
+                "Sosyal medya",
+                "Ağ",
+                "Artırılmış gerçeklik"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 10,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 71,
+            "question": "Büyük Veri ve yapay zekâ algoritmalarında toplumsal cinsiyet önyargılarının oluşmasının temel nedeni aşağıdakilerden hangisidir?",
+            "options": [
+                "Algoritmaların tamamen tarafsız ve nesnel matematiksel işlemlerle oluşturulması",
+                "Algoritmaların, belirli bir cinsiyet veya etnik grubun bakış açısını yansıtan sınırlı veri setleriyle geliştirilmesi",
+                "Yapay zekâ çalışmalarının yalnızca kadın araştırmacılar tarafından yürütülmesi",
+                "Büyük Veri'nin insan etkisinden bağımsız olarak kendiliğinden şekillenmesi",
+                "Algoritmaların tüm toplumsal grupları eşit şekilde temsil eden veri setleriyle eğitilmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 72,
+            "question": "Kamusal alanı; devletten, sermayeden / piyasadan ve ailenin mahrem hayatından ayrı bir güç ve demokrasinin ön koşulu olarak gören teorisyen aşağıdakilerden hangisidir?",
+            "options": [
+                "Staler",
+                "Castells",
+                "Habermas",
+                "Van Dijk",
+                "Malina"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 73,
+            "question": "\"Yeni Estetik\" kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Orta çağdaki hakim güzellik algısının modern dünya görüşü ile yenilenmesidir.",
+                "Postmodernizmin başlangıcında üretilen öncül eserlerin insanlar üzerinde yarattığı algının tanımlanmasıdır.",
+                "Z kuşağının güzellik algısını açıklamak için kullanılan şemsiye terimdir.",
+                "Makinelerin birbirlerini algılama biçiminden doğan bir estetik kavramıdır.",
+                "Sayısal teknolojilerin görsel dilinin fiziksel dünyaya akarak, sayısal ve fiziksel dünyayı iç içe geçirmesidir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 13,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 74,
+            "question": "Alan Turing'in bilgisayar tarihindeki önemi aşağıdakilerden hangisine dayanmaktadır?",
+            "options": [
+                "4. dereceden polinominal fonksiyonları tanımlamıştır.",
+                "Fortran bilgisayar dilinin mucididir.",
+                "Yapay zekâya giden yoldaki en önemli fikirlerden birinin sahibidir.",
+                "İkili kod sistemini bulmuştur.",
+                "Dokuma tezgahları için kart sistemini bulmuştur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 14,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 75,
+            "question": "Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon <u> </u>",
+            "options": [
+                "ağ mimarisidir",
+                "dağıtık ağ mimarisidir",
+                "İnternet'tir",
+                "akıllı sözleşmelerdir",
+                "nesnelerin internetidir"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 76,
+            "question": "Platon'un Mağara Alegorisi'nde \"gerçeklik\" hakkında yansıtılan görüş aşağıdakilerden hangisidir?",
+            "options": [
+                "Çevremizde duyumsadıklarımızın gerçeğin kendisi olduğu",
+                "Gerçeğe ancak idealar yoluyla varılabileceği",
+                "Gerçekliğin yalnızca Tanrı tarafından gözlemlenebildiği",
+                "Gerçekliğin makineler tarafından üretilebileceği",
+                "Gerçeğin sadece doğada var olduğu"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 16,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 77,
+            "question": "18. yüzyılda ortaya çıkan, rakipleriyle satranç oynayan, Mekanik Türk adı verilen robot aşağıdaki teknolojilerden hangisinin ilham kaynağı olarak olarak görülmektedir?",
+            "options": [
+                "Yapay zekâ",
+                "Hesap makinesi",
+                "Metaverse",
+                "Dijital bilgisayarlar",
+                "Analog bilgisayarlar"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 17,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 78,
+            "question": "Konum tabanlı servislerin yaygınlaşmasıyla birlikte sosyal medya kullanıcıları aşağıdakilerden hangisini yapma olanağına sahip olmuştur?",
+            "options": [
+                "Konum verilerini yalnızca kamu görevlileriyle paylaşma zorunluluğu",
+                "Sadece geçmişe dönük konum bilgilerini paylaşabilme",
+                "Sosyal medya platformlarında anonim olarak konum paylaşma",
+                "Konum verilerinin yalnızca bireysel kullanım için saklanması",
+                "Konum bildirimlerine fotoğraf, video ve yorum ekleyebilme"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 79,
+            "question": "\"Trollük” kavramının tanımı aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijital ortamda bir bağlantıya tıklamanızı sağlamak için abartılı, dikkat çekici ve/veya yanıltıcı şekilde atılmış başlıklar kullanmak",
+                "Farklı sosyoekonomik düzeylerdeki insanların, dezavantajlı grupların, hanelerin, ülkelerin ve coğrafi bölgelerin internet başta olmak üzere dijital iletişim teknolojilerine erişimlerinde ve ondan yararlanmalarında gözlenen eşitsizlikler",
+                "Enformasyon ve iletişim teknolojilerinin bir birey ya da bireylerden oluşan grubu yıldırma, mağdur etme, taciz etme ya da zulmetme gibi amaçlarla kullanılması",
+                "İnternet'te insanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışmak, alaycı söylemlerle hakaret ederek rahatsızlık vermek",
+                "Mevcut bir görüntü veya videoda yer alan bir kişinin, yapay sinir ağları kullanarak bir başka kişinin görüntüsü ile değiştirilmesi"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 80,
+            "question": "Jenny Preece'e (2000) göre aşağıdakilerden hangisi çevrimiçi bir topluluğun temel bileşenlerinden biridir?",
+            "options": [
+                "Fiziksel mekânda yüz yüze etkileşim kuran bireyler",
+                "Rastgele bir araya gelmiş ve ortak amacı olmayan bireyler",
+                "Topluluk üyelerinin davranışlarını yönlendiren prensipler",
+                "Sadece bireysel amaçlara hizmet eden kişisel dijital alanlar",
+                "Dijital platformlardan bağımsız olarak varlığını sürdüren gruplar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Ara Sınav 2024-2025",
+            "material_id": "618223"
+        },
+        {
+            "id": 81,
+            "question": "İnternet ve dijital İletişim teknolojileri sayesinde bireylerin ve grupların dijital bilgi ağları etrafında örgütlendiği yeni toplumsal yaşamı betimlemek için kullanılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Homofili",
+                "Tüketim toplumu",
+                "Kamusal alan",
+                "Kitle toplumu",
+                "Ağ toplumu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 82,
+            "question": "\"Sosyal değişimin merkezinde medya teknolojileri vardır.\" düşüncesi aşağıdaki hangi kuramsal yaklaşım kapsamında yer alır?",
+            "options": [
+                "Semiyoloji",
+                "Teknolojik determinizm",
+                "Ağ teorisi",
+                "Kültürel konstrüktivizm",
+                "Yapısalcılık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 83,
+            "question": "World Wide Web (WWW) standartlarını geliştirerek internetin kitlesel bir iletişim ortamına dönüşmesinin temellerini atan bilim insanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Marshall McLuhan",
+                "Elon Musk",
+                "Tim Berners - Lee",
+                "Bill Gates",
+                "Donald Davies"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 84,
+            "question": "Bir makinenin düşünüp düşünemeyeceği konusundaki tartışmalar hangi icattan sonra başlamıştır?",
+            "options": [
+                "Leibniz'in Kademeli Hesaplayıcısı",
+                "Babbage'ın Analiz Motoru",
+                "El Cezeri'nin Fil Saati",
+                "Kempelen'in Mekanik Türk'ü",
+                "Antikythera Mekanizması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 85,
+            "question": "Bilgisayarların birbiriyle konuşmasını sağlayan ARPANET teknolojisiyle oluşan ilk ağdan sonra farklı ağların birbirine bağlanmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "TCP/IP",
+                "HTTP",
+                "HTML",
+                "WWW",
+                "FTP"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 86,
+            "question": "Sanal ve gerçek nesnelerin bir araya geldiği dijital uzam ve fiziki uzam arasında melez bir ortam oluşturulması sürecidir. Kamera entegre edilmiş akıllı telefonların ve tabletlerin yaygınlaşması, bu uygulamaların yaygınlaşması sonucunu doğurmuştur. Yukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Artırılmış gerçeklik",
+                "Sanal gerçeklik",
+                "Platformizasyon",
+                "Mobil oyun",
+                "Sihirli çember"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 87,
+            "question": "Aşağıdaki eserlerden hangisi Walter Benjamin'in ortaya koyduğu özgürleşen sanat eseri kavramına örnek olarak gösterilebilir?",
+            "options": [
+                "Art Nouveau",
+                "Mona Lisa",
+                "Baskı resim",
+                "Heykel sanatı",
+                "Van Gogh Alive sergisi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 88,
+            "question": "Richard Bartle, çok-oyunculu dijital oyunlar üzerine yaptığı çalışmalarda hâkim dört oyuncu tipinin bulunduğunu öne sürer. Bu tipler içinde oyun uzamına odaklanan oyuncular aşağıdakilerden hangisidir?",
+            "options": [
+                "Sosyalleşenler",
+                "Başaranlar",
+                "Katiller",
+                "Kaşifler",
+                "Gündelik oyuncular"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 89,
+            "question": "Celia Pearce (2009) dijital kültürün en baskın kültürel formu olarak dijital oyunları, 21. yüzyılın <u>geçici</u> ortamı olarak nitelendirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "dijital",
+                "iletişim",
+                "kültür",
+                "geçici",
+                "etkileşim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 90,
+            "question": "\"Yeni medya ile başlayan dijital kültür çağında, sanat nesnesi; roman, şiir gibi edebiyat formlarından, performansa, oyuna kadar geleneksel konsept ve kategoriler <u>yok olmaktadırlar</u>.\" Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "yok olmaktadırlar",
+                "etkileşimli olmuşlardır",
+                "yeniden tanımlanmaktadır",
+                "yerlerini yeni sanata bırakmışlar",
+                "yenileriyle tanımlanırlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 91,
+            "question": "Aşağıdaki kuramcılardan hangisi 1980'lerde \"ev merkezli\" toplum ve \"eve elektronik iş verme\" olgusunu gündeme getirmiştir?",
+            "options": [
+                "Walter Benjamin",
+                "Marshal McLuhan",
+                "Manuel Castells",
+                "Umberto Eco",
+                "Alvin Toffler"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 92,
+            "question": "Aşağıdaki oyunlardan hangisi 1971'de Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturmuştur?",
+            "options": [
+                "Solitaire",
+                "Dama",
+                "Spacewar!",
+                "Tennis for two",
+                "Pong"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 93,
+            "question": "Leonardo da Vinci tasarladığı, oturup, kalkabilen ve kafasını oynatabilen robotik Şövalye konusunda aşağıdakilerden hangisinden ilham almıştır?",
+            "options": [
+                "El Cezeri",
+                "Electro",
+                "Galatea",
+                "Çapek",
+                "Golem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 94,
+            "question": "Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan veri olarak tanımlanan veri türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sıralanabilen nitel veri",
+                "Sınıflanabilen nitel veri",
+                "Yapılandırılmamış veriler",
+                "Kesikli nicel veri",
+                "Sürekli nicel veri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 95,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 96,
+            "question": "Ağ analizini kolaylaştıran önemli yeniliklerden biri, İlişkisel verileri görselleştirmek için tasarlanmış yazılımların ortaya çıkışıdır. Aşağıdakilerden hangisi bu yazılımlara örnek olarak gösterilebilir?",
+            "options": [
+                "Topic modelling",
+                "SAA",
+                "Moreno",
+                "Ecxel",
+                "Graph Commons"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 97,
+            "question": "1960'ların ortalarında Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon'un insani problem çözme metotlarını bilgisayar kullanarak simule etmeye yarayan çok amaçlı programı aşağıdakilerden hangisidir?",
+            "options": [
+                "Enigma",
+                "Deep Blue",
+                "Genel Problem Çözücü",
+                "ELIZA",
+                "First-Order Logic"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 98,
+            "question": "Aşağıdakilerden hangisi yapılandırılmış verilerin özelliklerinden biridir?",
+            "options": [
+                "Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları",
+                "Bir sistem ya da düzen içerisinde tanımlanmış olmaları",
+                "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları",
+                "Daha çok depolama alanı gerektirmeleri",
+                "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 99,
+            "question": "Isaac Asimov robotları konu eden bir dizi hikaye yazmış ve bunları I Robot adıyla 1950'de yayımlamıştır. Bu hikayelerdeki en önemli ve paylaşılan şey üç robot kuralıdır. 1985'te bu üç kurala sonradan eklenen zeroth kuralı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez.",
+                "Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.",
+                "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot hareketsiz kalarak bir insanın zarar görmesine izin veremez.",
+                "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez.",
+                "Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 100,
+            "question": "Aşağıdaki robot karakterlerden hangisi insansal özellikleri yönüyle diğerlerinden ayrılır?",
+            "options": [
+                "Replikantlar",
+                "İnsansılar",
+                "Frankenstein",
+                "C3PO",
+                "Cylonlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607412"
+        },
+        {
+            "id": 101,
+            "question": "İnternet ve dijital İletişim teknolojileri sayesinde bireylerin ve grupların dijital bilgi ağları etrafında örgütlendiği yeni toplumsal yaşamı betimlemek için kullanılan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Homofili",
+                "Tüketim toplumu",
+                "Kamusal alan",
+                "Kitle toplumu",
+                "Ağ toplumu"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 102,
+            "question": "\"Sosyal değişimin merkezinde medya teknolojileri vardır.\" düşüncesi aşağıdaki hangi kuramsal yaklaşım kapsamında yer alır?",
+            "options": [
+                "Semiyoloji",
+                "Teknolojik determinizm",
+                "Ağ teorisi",
+                "Kültürel konstrüktivizm",
+                "Yapısalcılık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 103,
+            "question": "World Wide Web (WWW) standartlarını geliştirerek internetin kitlesel bir iletişim ortamına dönüşmesinin temellerini atan bilim insanı aşağıdakilerden hangisidir?",
+            "options": [
+                "Marshall McLuhan",
+                "Elon Musk",
+                "Tim Berners - Lee",
+                "Bill Gates",
+                "Donald Davies"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 104,
+            "question": "Bir makinenin düşünüp düşünemeyeceği konusundaki tartışmalar hangi icattan sonra başlamıştır?",
+            "options": [
+                "Leibniz'in Kademeli Hesaplayıcısı",
+                "Babbage'ın Analiz Motoru",
+                "El Cezeri'nin Fil Saati",
+                "Kempelen'in Mekanik Türk'ü",
+                "Antikythera Mekanizması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 105,
+            "question": "Bilgisayarların birbiriyle konuşmasını sağlayan ARPANET teknolojisiyle oluşan ilk ağdan sonra farklı ağların birbirine bağlanmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "TCP/IP",
+                "HTTP",
+                "HTML",
+                "WWW",
+                "FTP"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 106,
+            "question": "Sanal ve gerçek nesnelerin bir araya geldiği dijital uzam ve fiziki uzam arasında melez bir ortam oluşturulması sürecidir. Kamera entegre edilmiş akıllı telefonların ve tabletlerin yaygınlaşması, bu uygulamaların yaygınlaşması sonucunu doğurmuştur. Yukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Artırılmış gerçeklik",
+                "Sanal gerçeklik",
+                "Platformizasyon",
+                "Mobil oyun",
+                "Sihirli çember"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 107,
+            "question": "Aşağıdaki eserlerden hangisi Walter Benjamin'in ortaya koyduğu özgürleşen sanat eseri kavramına örnek olarak gösterilebilir?",
+            "options": [
+                "Art Nouveau",
+                "Mona Lisa",
+                "Baskı resim",
+                "Heykel sanatı",
+                "Van Gogh Alive sergisi"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 108,
+            "question": "Richard Bartle, çok-oyunculu dijital oyunlar üzerine yaptığı çalışmalarda hâkim dört oyuncu tipinin bulunduğunu öne sürer. Bu tipler içinde oyun uzamına odaklanan oyuncular aşağıdakilerden hangisidir?",
+            "options": [
+                "Sosyalleşenler",
+                "Başaranlar",
+                "Katiller",
+                "Kaşifler",
+                "Gündelik oyuncular"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 109,
+            "question": "Celia Pearce (2009) dijital kültürün en baskın kültürel formu olarak dijital oyunları, 21. yüzyılın ortamı olarak nitelendirir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "dijital",
+                "iletişim",
+                "kültür",
+                "geçici",
+                "etkileşim"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 110,
+            "question": "\"Yeni medya ile başlayan dijital kültür çağında, sanat nesnesi; roman, şiir gibi edebiyat formlarından, performansa, oyuna kadar geleneksel konsept ve kategoriler -------.\" Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "yok olmaktadırlar",
+                "etkileşimli olmuşlardır",
+                "yeniden tanımlanmaktadır",
+                "yerlerini yeni sanata bırakmışlardır",
+                "yenileriyle tanımlanırlar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 111,
+            "question": "Aşağıdaki kuramcılardan hangisi 1980'lerde \"ev merkezli\" toplum ve \"eve elektronik iş verme\" olgusunu gündeme getirmiştir?",
+            "options": [
+                "Walter Benjamin",
+                "Marshal McLuhan",
+                "Manuel Castells",
+                "Alvin Toffler",
+                "Umberto Eco"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 112,
+            "question": "Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturmuştur?",
+            "options": [
+                "Solitaire",
+                "Dama",
+                "Spacewar!",
+                "Tennis for two",
+                "Pong"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 113,
+            "question": "Leonardo da Vinci tasarladığı, oturup, kalkabilen ve kafasını oynatabilen robotik Şövalye konusunda aşağıdakilerden hangisinden ilham almıştır?",
+            "options": [
+                "El Cezeri",
+                "Electro",
+                "Galatea",
+                "Çapek",
+                "Golem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 114,
+            "question": "Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan veri olarak tanımlanan veri türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sıralanabilen nitel veri",
+                "Sınıflanabilen nitel veri",
+                "Yapılandırılmamış veriler",
+                "Kesikli nicel veri",
+                "Sürekli nicel veri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 115,
+            "question": "Bu soru iptal edilmiştir. <br><b>(BU SORU İPTAL EDİLMİŞTİR)</b>",
+            "options": [],
+            "correctIndex": -1,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 116,
+            "question": "Ağ analizini kolaylaştıran önemli yeniliklerden biri, İlişkisel verileri görselleştirmek için tasarlanmış yazılımların ortaya çıkışıdır. Aşağıdakilerden hangisi bu yazılımlara örnek olarak gösterilebilir?",
+            "options": [
+                "Topic modelling",
+                "SAA",
+                "Moreno",
+                "Excel",
+                "Graph Commons"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 117,
+            "question": "1960'ların ortalarında Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon'un insani problem çözme metotlarını bilgisayar kullanarak simule etmeye yarayan çok amaçlı programı aşağıdakilerden hangisidir?",
+            "options": [
+                "Enigma",
+                "Deep Blue",
+                "Genel Problem Çözücü",
+                "ELIZA",
+                "First-Order Logic"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 118,
+            "question": "Aşağıdakilerden hangisi yapılandırılmış verilerin özelliklerinden biridir?",
+            "options": [
+                "Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları",
+                "Bir sistem ya da düzen içerisinde tanımlanmış olmaları",
+                "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları",
+                "Daha çok depolama alanı gerektirmeleri",
+                "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 119,
+            "question": "Isaac Asimov robotları konu eden bir dizi hikaye yazmış ve bunları I Robot adıyla 1950'de yayımlamıştır. Bu hikayelerdeki en önemli ve paylaşılan şey üç robot kuralıdır. 1985'te bu üç kurala sonradan eklenen zeroth kuralı aşağıdakilerden hangisidir?",
+            "options": [
+                "Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez.",
+                "Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.",
+                "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot hareketsiz kalarak bir insanın zarar görmesine izin veremez.",
+                "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez.",
+                "Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 120,
+            "question": "Aşağıdaki robot karakterlerden hangisi insansal özellikleri yönüyle diğerlerinden ayrılır?",
+            "options": [
+                "Replikantlar",
+                "İnsansılar",
+                "Frankenstein",
+                "C3PO",
+                "Cylonlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2021-2022",
+            "material_id": "607449"
+        },
+        {
+            "id": 121,
+            "question": "Aşağıdakilerden hangisi merkezsizlik kavramının İnternet ağıyla ilişkisini doğru bir şekilde açıklar? A) İnternet ağının doğal bir özelliği olan merkezsizlik, ilk başlarda tek bir noktadan yönetilmeye çalışılan sosyal ve ticari süreçleri etkilemez. B) İnternet protokolünün doğasında bulunan bağlantı ve fırsat eşitliği, merkezî işleyişi bozar ve ağın mimarisini merkezsizleştirmeye başlar. C) Merkezsizlik, İnternet ağının tek bir noktadan yönetilmeye çalışıldığı ilk dönemlerde ortaya çıkmış bir kavramdır. D) İnternet protokolü, merkezi bir yapıya sahip olduğu için bağlantı ve fırsat eşitliği sağlayamaz. E) Merkezsizlik, İnternet ağının doğal bir özelliği değildir ve ağın yönetimi her zaman tek bir merkezden yapılır.",
+            "options": [
+                "İnternet ağının doğal bir özelliği olan merkezsizlik, ilk başlarda tek bir noktadan yönetilmeye çalışılan sosyal ve ticari süreçleri etkilemez.",
+                "İnternet protokolünün doğasında bulunan bağlantı ve fırsat eşitliği, merkezî işleyişi bozar ve ağın mimarisini merkezsizleştirmeye başlar.",
+                "Merkezsizlik, İnternet ağının tek bir noktadan yönetilmeye çalışıldığı ilk dönemlerde ortaya çıkmış bir kavramdır.",
+                "İnternet protokolü, merkezi bir yapıya sahip olduğu için bağlantı ve fırsat eşitliği sağlayamaz.",
+                "Merkezsizlik, İnternet ağının doğal bir özelliği değildir ve ağın yönetimi her zaman tek bir merkezden yapılır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 122,
+            "question": "Aşağıdaki oyun yazılımcıların yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir? A) Facebook B) Youtube C) Twitter D) Tweezer E) Twitch",
+            "options": [
+                "Facebook",
+                "Youtube",
+                "Twitter",
+                "Tweezer",
+                "Twitch"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 123,
+            "question": "Aşağıdakilerden hangisi yeni medya sanatı ortamlarının biri ve aynı zamanda sosyal medya alt türü olarak değerlendirilen çok kullanıcılı, açık kaynak kodlu oyun Second Life'ın ilham aldığı romandır? A) Neuromancer B) The Bladerunner C) Dune D) Animal Farm E) Snow Crash",
+            "options": [
+                "Neuromancer",
+                "The Bladerunner",
+                "Dune",
+                "Animal Farm",
+                "Snow Crash"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 124,
+            "question": "Akılcı davranışlar göstermek yalnızca mantık kurallarına göre hareket etmekle sınırlı kalmamaktadır. Bazen muhtemel en iyi çıktıyı ya da sonucu elde etmek gerekir. Bu durum özellikle kararlaşmak ortamlarındaki problem çözümlerini tanımlamak için kullanılır. Bir çözümün kabulü, çabuk uyum sağlama da burada bir hesaplama yapmak ve istenilen geleceği için yapay zeka çok fazla veriye ihtiyaç duymaktadır. Bu bağlamda yukarıdaki açıklama hangi yapay zeka tanımlamasına aittir? A) Akılcı Fail Yaklaşımı B) Akılcı Düşünme C) İnsanca Düşünmek D) İnsanca Eylemek E) Bilişsel Modelleme",
+            "options": [
+                "Akılcı Fail Yaklaşımı",
+                "Akılcı Düşünme",
+                "İnsanca Düşünmek",
+                "İnsanca Eylemek",
+                "Bilişsel Modelleme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 125,
+            "question": "Sade bilgisayarlar bilim alanında uzmanlaşmış insanlar tarafından kullanılan <u>değil</u>, nesnel bilgisyarların kişisel bilgisayarlara evrilmesini sağlayan teknoloji aşağıdakilerden hangisidir? A) Ana Kurt B) Kurumsal bilgisayarlar C) Mikro işlemciler D) Görüntücüler E) Grafik kart",
+            "options": [
+                "Ana Kurt",
+                "Kurumsal bilgisayarlar",
+                "Mikro işlemciler",
+                "Görüntücüler",
+                "Grafik kart"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 126,
+            "question": "James Bridle'ın \"yeni estetik\" kavramının temel dayanağı aşağıdakilerden hangisidir? A) Sayısal teknolojilerin insanlarla işbirliği yapmasının zararları B) Dijital kameraların oluşturduğu bozuk ve pikselli görüntülerin insanlar arasında nasıl algılandığı C) SXSW konferansında ortaya atılan sayısal teknolojilerin estetik değeri D) İnsan ve makine arasındaki ayrımın gittikçe belirsizleşmesinin insan yaşamına etkisi E) İnsanlar ve makineler arasında belirgin bir ayrım bulunması",
+            "options": [
+                "Sayısal teknolojilerin insanlarla işbirliği yapmasının zararları",
+                "Dijital kameraların oluşturduğu bozuk ve pikselli görüntülerin insanlar arasında nasıl algılandığı",
+                "SXSW konferansında ortaya atılan sayısal teknolojilerin estetik değeri",
+                "İnsan ve makine arasındaki ayrımın gittikçe belirsizleşmesinin insan yaşamına etkisi",
+                "İnsanlar ve makineler arasında belirgin bir ayrım bulunması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 127,
+            "question": "Aşağıdakilerden hangisi Doğal Dil İşleme (DDİ) görevleri arasında yer <u>almaz</u>? A) Dilbilgisel etiketleme B) Regresyon analizi C) İsimlendirilmiş varlık tanıma D) Duygu-Sentiment analizi E) Konuşmadan metne aktarım",
+            "options": [
+                "Dilbilgisel etiketleme",
+                "Regresyon analizi",
+                "İsimlendirilmiş varlık tanıma",
+                "Duygu-Sentiment analizi",
+                "Konuşmadan metne aktarım"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 128,
+            "question": "\"Cogito Ergo Sum\" deyişi aşağıdaki düşünürlerden hangisine aittir? A) Goethe B) Zupancic C) Descartes D) Condorcet E) Helvetius",
+            "options": [
+                "Goethe",
+                "Zupancic",
+                "Descartes",
+                "Condorcet",
+                "Helvetius"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 129,
+            "question": "Özgün içerik türünde ve yapısında olan ve geleneksel analitik araçlar tarafından ayrıştırılamayan \"tipik insan tarafından oluşturulan yapılandırılmamış veri\" türü aşağıdakilerden hangisidir? A) E-posta B) Web C) İletişim teknolojileri ve mobil veri D) Metin dosyaları E) Sosyal medya",
+            "options": [
+                "E-posta",
+                "Web",
+                "İletişim teknolojileri ve mobil veri",
+                "Metin dosyaları",
+                "Sosyal medya"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 130,
+            "question": "Dijital oyunların, oyuncuların ve dijital oyunlar etrafında gelişen kültürün ----------- bir yapısı yoktur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A) teknolojik B) heterojen C) dinamik D) sosyolojik E) homojen",
+            "options": [
+                "teknolojik",
+                "heterojen",
+                "dinamik",
+                "sosyolojik",
+                "homojen"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 131,
+            "question": "Kullanıcılar ürettikleri ve paylaştıkları yazılı, sesli, görüntülü içeriğe ----- atayarak arama motorları aracılığıyla diğer kullanıcıların bu içeriğe kolayca ulaşmalarını sağlarlar. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar? A) blog B) log C) etiket D) bulut E) kelime",
+            "options": [
+                "blog",
+                "log",
+                "etiket",
+                "bulut",
+                "kelime"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 132,
+            "question": "Hangi Doğal Dil İşleme (DDİ) uygulaması çok büyük hacimli verilerde genel yapı ve kapsama genel bir bakış açısı sağlama olanağı sunar? A) İstatistiksel modelleme B) Derin öğrenme C) Nicel araştırma D) Topic modelling E) Veri yapılandırma",
+            "options": [
+                "İstatistiksel modelleme",
+                "Derin öğrenme",
+                "Nicel araştırma",
+                "Topic modelling",
+                "Veri yapılandırma"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 133,
+            "question": "Aşağıdakilerden hangisi yapılandırılmış verilerin ayırt edici özelliklerinden biridir? A) Bir sistem ya da düzen içerisinde tanımlanmış olmaları B) Daha çok depolama alanı gerektirmeleri C) Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları D) Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi E) Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları",
+            "options": [
+                "Bir sistem ya da düzen içerisinde tanımlanmış olmaları",
+                "Daha çok depolama alanı gerektirmeleri",
+                "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları",
+                "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi",
+                "Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 134,
+            "question": "Aşağıdaki ifadelerden hangisi Johan Huizinga'nın oyun tanımı kapsamına girer? A) Belirgin bir amaçları yoktur. B) Özgürce razı olunan etkinliklerdir. C) Belirli bir zaman ve mekan içinde gerçekleşmezler. D) Dijital oyunları kapsar. E) Kuralları esnek etkinliklerdir.",
+            "options": [
+                "Belirgin bir amaçları yoktur.",
+                "Özgürce razı olunan etkinliklerdir.",
+                "Belirli bir zaman ve mekan içinde gerçekleşmezler.",
+                "Dijital oyunları kapsar.",
+                "Kuralları esnek etkinliklerdir."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 135,
+            "question": "Yeni medya sanatıyla ilgili aşağıdaki yargılardan hangisi doğrudur? A) Yeni medya sanatı geçicidir. B) Yeni medya sanatı kod bilgisi gerektirir. C) Yeni medya sanatı geleneksel sanat adına bir tehdittir. D) Yeni medya sanatı birden fazla duyuya hitap etme potansiyelindedir. E) Glitch sanatının dijitalleşmesiyle ortaya çıkmıştır.",
+            "options": [
+                "Yeni medya sanatı geçicidir.",
+                "Yeni medya sanatı kod bilgisi gerektirir.",
+                "Yeni medya sanatı geleneksel sanat adına bir tehdittir.",
+                "Yeni medya sanatı birden fazla duyuya hitap etme potansiyelindedir.",
+                "Glitch sanatının dijitalleşmesiyle ortaya çıkmıştır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 136,
+            "question": "Janet H. Murray'in, dijital medyanın ifadesel olanaklarını tartışırken söz ettiği dört temel özelliği aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir? A) Prosedürellik, Katılım, Uzamsallık, Tasarım B) Enformasyon, Prosedürellik, Ansiklopedik nitelik, Tasarım C) Prosedürellik, Katılım, Ansiklopedik nitelik, Uzamsallık D) Katılım, Uzamsallık, Nitelik, Değer E) Deneyimsellik, Tasarım, Prosedürellik, Katılım",
+            "options": [
+                "Prosedürellik, Katılım, Uzamsallık, Tasarım",
+                "Enformasyon, Prosedürellik, Ansiklopedik nitelik, Tasarım",
+                "Prosedürellik, Katılım, Ansiklopedik nitelik, Uzamsallık",
+                "Katılım, Uzamsallık, Nitelik, Değer",
+                "Deneyimsellik, Tasarım, Prosedürellik, Katılım"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 137,
+            "question": "2030 yılında bir insanî yapay zekânın ortaya çıkacağını daha 2000 yılındayken iddia eden düşünür aşağıdakilerden hangisidir? A) Baudrillard B) Zizek C) Searle D) Minsky E) Kurzweil",
+            "options": [
+                "Baudrillard",
+                "Zizek",
+                "Searle",
+                "Minsky",
+                "Kurzweil"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 138,
+            "question": "Leonardo da Vinci tasarladığı, oturup, kalkabilen ve kafasını oynatabilen robotik Şövalye konusunda aşağıdakilerden hangisinden ilham almıştır? A) Electro B) El Cizri C) Gezegen D) Golem E) Galatea",
+            "options": [
+                "Electro",
+                "El Cizri",
+                "Gezegen",
+                "Golem",
+                "Galatea"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 139,
+            "question": "Dijital uçurum kavramı ile ilgili aşağıdaki tanımlardan hangisi doğrudur? A) İnternetin ve diğer dijital iletişim teknolojilerinin yaygın kullanımı B) Dijital teknolojilere erişimdeki farklılıklar C) Dijital eşitsizliklerin genel bir tanımı D) Dezavantajlı grupların dijital teknolojilere erişimindeki eşitsizlikler E) Diğer sosyal medya platformlarının kullanımı",
+            "options": [
+                "İnternetin ve diğer dijital iletişim teknolojilerinin yaygın kullanımı",
+                "Dijital teknolojilere erişimdeki farklılıklar",
+                "Dijital eşitsizliklerin genel bir tanımı",
+                "Dezavantajlı grupların dijital teknolojilere erişimindeki eşitsizlikler",
+                "Diğer sosyal medya platformlarının kullanımı"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 140,
+            "question": "Juul (2005) kapsayıcı ve betimleyici bir tanım önermekle birlikte, bazı örneklerin bu tanımın sınırlarını zorladığını ve bazı örneklerin de oyun nitelikleri taşımalarına karşın tanımsal sınırların dışında kaldığını savunur. Buna göre, aşağıdakilerden hangisi Juul'un oyun ile oyun olmayan arasında kalan sınır örneklerinden biridir? A) Cities Skylines B) Satranç C) Solitaire D) Futbol E) Tenis",
+            "options": [
+                "Cities Skylines",
+                "Satranç",
+                "Solitaire",
+                "Futbol",
+                "Tenis"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2023-2024",
+            "material_id": "607500"
+        },
+        {
+            "id": 141,
+            "question": "Üretken sanat (Generative Art) ve NFT'ler arasındaki <u>İlişkiyle</u> ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "NFT'ler yalnızca geleneksel sanat eserlerini dijital ortama taşımak için kullanılırken, üretken sanat tamamen bağımsız bir alan olarak gelişmiştir.",
+                "Üretken sanat, sanatçılar tarafından geliştirilen algoritmalar aracılığıyla benzersiz parçalar üretir ve NFT'lerin oluşturulmasında avantaj sağlar.",
+                "Üretken sanat, algoritmalar kullanılarak tamamen rastgele eserler oluşturan bir sanat türüdür ve NFT'lerle herhangi bir İlişkisi yoktur.",
+                "Üretken sanat eserleri yalnızca fiziksel ortamda üretilebilen ve NFT'lere uygun olmayan bir sanat türüdür.",
+                "NFT'ler yalnızca dijital resimler için kullanılabilir, üretken sanat ise tamamen fiziksel galerilere dayalı bir sanat akımıdır."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 142,
+            "question": "Leydi Augusta Ada Lovelace'in bilgisayar tarihindeki önemi aşağıdakilerden hangisidir?",
+            "options": [
+                "İlk bilgisayar oyununu tasarlayan kişi olması",
+                "Ticari olarak satılan ilk bilgisayarın tasarımcısı olması",
+                "İlk bilgisayar programcısı olması",
+                "Bilgisayarla ilk ses kaydı alınan kişi olması",
+                "Fark motorunun tasarımcısı olması"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 143,
+            "question": "OpenAl tarafından Ocak 2021'de yayınlanan, DALL-E algoritmaları tarafından üretilmiş görüntülerin ayırt edici özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Yapay zekânın üretimi olması",
+                "Fotoğraf formatında olması",
+                "Resim olması",
+                "Çizim olması",
+                "Tasarım eseri olması"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 144,
+            "question": "Farklı sosyoekonomik düzeylerdeki insanların, dezavantajlı grupların, hanelerin, ülkelerin ve coğrafi bölgelerin internet başta olmak üzere dijital iletişim teknolojilerine erişimlerinde ve ondan yararlanmalarında gözlenen eşitsizlikleri anlatan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Trollük",
+                "Homofili",
+                "Sanal/siber zorbalık",
+                "Dijital uçurum",
+                "Kamusal alan"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 145,
+            "question": "Aşağıdakilerden hangisi sosyal ağ analizinin (SAA) temel varsayımlarından biridir?",
+            "options": [
+                "Sosyal bilimlerde ağ haritaları gereksizdir.",
+                "Bireyler karmaşık sosyal ilişki ağları oluştururlar.",
+                "Sanayileşme sosyal ağların oluşumunu tamamen engeller.",
+                "Sosyal ağlar sadece geleneksel topluluklarda bulunur.",
+                "Bireyler toplum içinde birbirleriyle ilişki kurmadan bağımsız yaşarlar."
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 146,
+            "question": "Walter Benjamin'in \"Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı\" adlı makalesinde sanatın yeniden üretilebilirliği ile ilgili temel görüşü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sanat eserlerinin mekanik çoğaltımı, onların özgün değerini ve \"aura\"sını tamamen yok eder.",
+                "Sanatın yeniden üretilebilir olması, sanatın endüstrileşmesini hızlandırarak onu bir meta haline getirir.",
+                "Benjamin, Adorno ve Lukacs gibi Frankfurt Okulu düşünürleriyle aynı şekilde mekanik çoğaltımı olumsuz bir gelişme olarak değerlendirir.",
+                "Sanat eserlerinin mekanik çoğaltımı, onların tarihsel ve kültürel bağlamlarını tamamen ortadan kaldırır.",
+                "Çoğaltma teknolojileri, sanat yapıtlarını kutsal törenlerden bağımsız hale getirerek onları demokratikleştirir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 147,
+            "question": "Henry Jenkins'in geliştirdiği kavramı internet sayesinde sıradan vatandaşların kamusal alana daha kolay ve aktif bir şekilde katılabilir olmasını kastetmektedir. Yukarıdaki cümledeki boşluğu hangisi doğru şekilde tamamlar?",
+            "options": [
+                "katılımcı demokrasi",
+                "kültür endüstrisi",
+                "katılımcı kültür",
+                "popüler kültür",
+                "dijital kültür"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 148,
+            "question": "Kültür ve teknoloji arasındaki ilişkiyi değerlendirirken kültürün endüstrileşmesi kavramını ortaya atan düşünürlerden biri aşağıdakilerden hangisidir?",
+            "options": [
+                "Max Horkheimer",
+                "Martin Heidegger",
+                "Neil Postman",
+                "Armand Matteland",
+                "Alan Turing"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 149,
+            "question": "Aşağıdakilerden hangisi robotik alanında mekanik sistemler geliştirerek Leonardo Da Vinci'ye ilham kaynağı olmuştur?",
+            "options": [
+                "Isaac Asimov",
+                "Frederich Kaufmann",
+                "John McCarthy",
+                "İsmail El Cezeri",
+                "Alan Turing"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 150,
+            "question": "Aşağıdakilerden hangisi Uygulama Programlama Arayüzü (UPA) kullanımıyla ilgili doğru bir ifadedir?",
+            "options": [
+                "Verileri manuel olarak toplama gereksinimini artırır.",
+                "Sadece belirli programlama dilleriyle erişilebilir.",
+                "Web kazıma yöntemlerine kıyasla daha düzensiz veri sağlar.",
+                "Verileri yalnızca metin formatında depolar.",
+                "Sürekli ve gözetimsiz veri toplamaya olanak tanır."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 151,
+            "question": "Oyunun sunduğu olanakları derinlemesine keşfetmeye ve oyun uzamına odaklanan oyunculardır. Puan ya da ödül kazanmak öncelikli değildir. Oyun dünyası içinde yapılan keşifler ödül yerine geçer. Oyunun daha önce ulaşılmamış uzamsal noktalarına erişmek, oyunun gizlenmiş paskalya yumurtalarını keşfetmek, gizli bir geçitten geçmek gibi keşfedilmemiş yeni deneyimlerin peşinden giderler. Yukarıda açıklaması verilen oyuncu tipi aşağıdakilerden hangisidir?",
+            "options": [
+                "Kahramanlar",
+                "Kaşifler",
+                "Katiller",
+                "Sosyal/eğlenceler",
+                "Giderler"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 152,
+            "question": "Ciddi oyunlar (serious games) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Tüm oyunlar doğal olarak ciddi oyun kategorisine girer, çünkü hepsi bir tür öğrenme süreci içerir.",
+                "Eğlenceli olmaması gereken, tamamen akademik veya işle ilgili konulara odaklanan oyunlardır.",
+                "Ciddi oyunlar, belirli bir eğitimsel veya pratik amacı olan, oyun dışı bağlamlarda kullanılan dijital oyunlardır.",
+                "Ciddi oyunlar, yalnızca askeri ve savunma amaçlı olarak kullanılan oyunları ifade eder.",
+                "Ciddi oyunlar, yalnızca bireysel oyuncuların deneyimlerini geliştirmek için tasarlanmıştır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 153,
+            "question": "ISO standartlarına göre bir robot nasıl tanımlanmaktadır?",
+            "options": [
+                "Otomatik olarak kontrol edilen, üç boyutlu, çok amaçlı bir manipülatördür.",
+                "İnsan müdahalesi olmadan çalışan herhangi bir elektronik cihazdır.",
+                "Sadece yazılımsal sistemlerden oluşan bir algoritmadır.",
+                "Sadece insana benzeyen makinelerden oluşur.",
+                "Yapay zekâ ile donatılmış bir sistemdir."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 154,
+            "question": "Blokzincirleri çok daha etkin ve işleyişi daha yönetilebilir hâle getiren inovasyon akıllı sözleşmelerdir. İlk akıllı sözleşmeler hangi kriptoparanın blokzinciri üzerinde yer almaktadır?",
+            "options": [
+                "Litecoin",
+                "Celo",
+                "Dogecoin",
+                "Bitcoin",
+                "Ethereum"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 155,
+            "question": "Aşağıdakilerden hangisi Lofti Zadeh'in yapay zekâ çalışmalarına getirdiği önemli katkılardan biridir?",
+            "options": [
+                "Turing testi ile yapay zekâyı değerlendirmek",
+                "Newell ve Simon'un Genel Problem Çözücüsü'nü geliştirmek",
+                "Yapay zekânın ilk kez resmî olarak tanımlandığı toplantıyı düzenlemek",
+                "Bilgisayarların yalnızca ikili sistem yerine insan düşüncesine daha yakın şekilde çalışabileceğini savunmak",
+                "İlk chatbot olan ELIZA'yı geliştirmek"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 156,
+            "question": "Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan veri olarak tanımlanan veri türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sınıflanabilen nitel veri",
+                "Sıralanabilen nitel veri",
+                "Yapılandırılmamış veriler",
+                "Kesikli nicel veri",
+                "Sürekli nicel veri"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 157,
+            "question": "Lev Manovich'in \"estetik toplum\" kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Estetik toplumda görsel güzellik sadece sanat alanıyla sınırlıdır ve ticari ürünlerde estetik anlayışı bulunmamaktadır.",
+                "Estetik toplum, sanat eserlerinin ekonomik değerinin giderek arttığı ve ticari malların sanattan bağımsız olduğu bir düzeni ifade eder.",
+                "Manovich'e göre estetik toplum, güzel görüntüler, arayüzler ve nesnelerin ekonomik ve sosyal işleyişin merkezinde olduğu bir yapıyı ifade eder.",
+                "Estetik toplum, sosyal medyanın sanattan tamamen bağımsız olduğu ve estetik anlayışın yalnızca geleneksel sanat dallarında görüldüğü bir kavramdır.",
+                "Manovich, dijital teknolojilerin estetik toplum üzerindeki etkisini reddederek, geleneksel sanat anlayışının korunması gerektiğini savunur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 158,
+            "question": "Juul (2005) kapsayıcı ve betimleyici bir terim önermekle birlikte, bazı örneklerin bu terimin sınırlarını zorladığını ve bazı örneklerin de oyun niteliklerinin taşımalarına karşın bu tanımın sınırlarına dışına taştığını savunur. Buna göre, aşağıdakilerden hangisi Juul'un oyun olarak adlandırdığı terimin örneklerinden biridir?",
+            "options": [
+                "Satranç",
+                "Tenis",
+                "Solitaire",
+                "Futbol",
+                "Cities Skylines"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 159,
+            "question": "Ağ analizini kolaylaştıran önemli yeniliklerden biri, ilişkisel verileri görselleştirmek için tasarlanmış yazılımların ortaya çıkışıdır. Aşağıdakilerden hangisi bu yazılımlara örnek olarak gösterilebilir?",
+            "options": [
+                "Moreno",
+                "Graph Commons",
+                "Excel",
+                "SAA",
+                "Topic modelling"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 160,
+            "question": "Aşağıdakilerden hangisi e-sporun temel özellikleriyle ilgili doğru bir ifadedir?",
+            "options": [
+                "E-spor turnuvalarında tüm oyuncular aynı donanım ve yazılımı kullanmak zorundadır.",
+                "E-spor yalnızca bireysel oyuncuların yarıştığı bir oyun formatıdır.",
+                "E-spor etkinlikleri yalnızca fiziksel mekânlarda düzenlenebilir, çevrimiçi ortamda gerçekleşemez.",
+                "E-spor, profesyonel oyuncular ve sponsorlar tarafından desteklendiği rekabetçi video oyunu müsabakalarını içerir.",
+                "E-spor oyunları, yalnızca spor türündeki video oyunlarından oluşmaktadır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "622595"
+        },
+        {
+            "id": 161,
+            "question": "Kültür ve teknoloji arasındaki İlişkiyi değerlendirirken kültürün endüstrileşmesi kavramını ortaya atan düşünürlerden biri aşağıdakilerden hangisidir?",
+            "options": [
+                "Max Horkheimer",
+                "Martin Heidegger",
+                "Neil Postman",
+                "Armand Matteland",
+                "Alan Turing"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 162,
+            "question": "Sanal gerçeklikte olduğu gibi, artırılmış gerçeklikte de oyun piyasası bu yeni ortamın olanaklarını değerlendirmektedir. Artırılmış gerçeklik ortamını geniş kitlelerin deneyimlemesini sağlayan ilk oyun aşağıdakilerden hangisidir?",
+            "options": [
+                "Catan World Explorers",
+                "Harry Potter Wizards Unite",
+                "Zombies, Run",
+                "Pokemon GO",
+                "Ingress"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 163,
+            "question": "Duyusal algı, algı bilimi, duygu bilimi olarak açıklanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Güzellik",
+                "Estetik",
+                "Yapay zekâ",
+                "Güzel sanatlar",
+                "Bulanık mantık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 164,
+            "question": "Juul (2005) kapsayıcı ve betimleyici bir tanım önermekle birlikte, bazı örneklerin bu tanımın sınırlarını zorladığını ve bazı örneklerin de oyun nitelikleri taşımalarına karşın bu tanımsal sınırların dışında kaldığını savunur. Aşağıdakilerden hangileri Juul'un tanımsal sınırları arasında kalan oyunlardan biridir?",
+            "options": [
+                "Satranç",
+                "Tenis",
+                "Cities Skylines",
+                "Futbol",
+                "Solitaire"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 165,
+            "question": "Matematiksel bir nesnellik gözükse de insanların geliştirdiği algoritmaların insanların taşıdığı ön yargıları da barındırmasıyla bazı durumlarda sosyal eşitsizliklerin yeniden yaratılmasına neden olmasını açıklayan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijital izler",
+                "Sosyal ağ analizi",
+                "Büyük veri",
+                "Akıllı sözleşmeler",
+                "Algoritmik düzen"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 166,
+            "question": "Fransız düşünür Voltaire kültür kavramını \"...aklın bazı yetenek birimlerinin amaca elverişli düşünsel çalışma ve pratiklerle geliştirilmesi'dir\" şeklinde tanımlar. Bu tanımdan yola çıkarak kültür kavramının aşağıdakilerden hangisi ile doğrudan ilişkili olduğu söylenebilir?",
+            "options": [
+                "Eğitim",
+                "Antropoloji",
+                "Biyoloji",
+                "Doğa",
+                "Teknoloji"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 167,
+            "question": "Kamusal alanı; devletten, sermayeden / piyasadan ve ailenin mahrem hayatından ayrı bir güç ve demokrasinin ön koşulu olarak gören teorisyen aşağıdakilerden hangisidir?",
+            "options": [
+                "Castells",
+                "Malina",
+                "Van Dijk",
+                "Habermas",
+                "Staler"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 168,
+            "question": "\"Teknokrasi dönemi\" ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Araç kullanan toplumlar dönemini tanımlar.",
+                "Kültür teknolojinin ortaya çıkış koşullarını ve kullanımını kesin olarak tanımlar.",
+                "Teknoloji ile kültür arasında bir çatışma vardır.",
+                "Teknoloji gelenek ve kültür tarafından tanımlanır.",
+                "Kültür teknoloji olmuştur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 169,
+            "question": "Aşağıdakilerden hangisi yapılandırılmış verilerin ayırt edici özelliklerinden biridir?",
+            "options": [
+                "Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları",
+                "Bir sistem ya da düzen içerisinde tanımlanmış olmaları",
+                "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları",
+                "Daha çok depolama alanı gerektirmeleri",
+                "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 170,
+            "question": "Blokzincirleri çok daha etkin ve işleyişi daha yönetilebilir hâle getiren inovasyon akıllı sözleşmelerdir. İlk akıllı sözleşmeler hangi kriptoparanın blokzinciri üzerinde yer almaktadır?",
+            "options": [
+                "Litecoin",
+                "Bitcoin",
+                "Celo",
+                "Dogecoin",
+                "Ethereum"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 171,
+            "question": "Manuel Castells tarihsel olarak toplumsal ağların her zaman bulunduğunu; ağ toplumunu ayıran kilit faktörün ise bu dönemde teknolojilerinin kullanımının yaygınlaşması olduğunu vurgular. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?",
+            "options": [
+                "kitap/ çoğaltma",
+                "VR/AR",
+                "kurum / elektronik",
+                "çoğaltma / baskı",
+                "bilgi / iletişim"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 172,
+            "question": "Aşağıdaki oyunlardan hangisi 1971'de Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturmuştur?",
+            "options": [
+                "Tennis for two",
+                "Dama",
+                "Spacewar!",
+                "Solitaire",
+                "Pong"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 173,
+            "question": "Aşağıdakilerden hangisi Preece'a göre çevirmiçi toplulukların dört temel bileşeninden biri <u>değildir</u>?",
+            "options": [
+                "Oyun amaçlı çevrimiçi gruplar",
+                "Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler",
+                "Çıkar, ihtiyaç ya da iş birliği yapmak gibi ortak bir amaç",
+                "Kendi ihtiyaçlarını karşılamak amacıyla toplumsal olarak etkileşime giren insanlar",
+                "Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir sistem"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 174,
+            "question": "Özgün içerik türünde ve yapısında olan ve geleneksel analitik araçlar tarafından ayrıştırılamayan \"tipik insan tarafından oluşturulan yapılandırılmamış veri\" türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Sosyal medya",
+                "İletişim teknolojileri ve mobil veri",
+                "Metin dosyaları",
+                "E-posta",
+                "Web"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 175,
+            "question": "Bilgisayarların birbiriyle konuşmasını sağlayan ARPANET ile oluşan ilk ağdan sonraki bir diğer önemli icat olan ve farklı ağların birbirine bağlanmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "HTTP",
+                "TCP/IP",
+                "HTML",
+                "URL",
+                "WWW"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 176,
+            "question": "Dijital kültür çağında ortaya çıkmış olan \"özgür yazılım\" konseptiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Kullanıcıya kopyalama ve dağıtma hakkı sunmayan bir yazılımdır.",
+                "Büyük teknoloji devlerinin tekelindedir.",
+                "Bedavadır.",
+                "Kullanıcıya kullanma ve geliştirme hakkı verir.",
+                "Ticarileşmenin sonucunda ortaya çıkan pahalı bir yazılımdır."
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 177,
+            "question": "\"Enstrümanlar, sensörler, internet işlemleri, e-posta, video, tıklama akışları ve/veya bugün ve gelecekte mevcut olan diğer tüm dijital kaynaklardan oluşturulan geniş, çeşitli, karmaşık, uzunlamasına ve/veya dağıtılmış veri kümelerini\" kapsayan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Dijitalleşme",
+                "Verileşme",
+                "Yapılandırılmış veri",
+                "Algoritma",
+                "Büyük veri"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 178,
+            "question": "Dijital oyun yayıncılığının yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir?",
+            "options": [
+                "Blogger",
+                "Twitter",
+                "Youtube",
+                "Facebook",
+                "Twitch"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 179,
+            "question": "Sayısal ortamlar sayesinde insan hayatında ne gibi bir değişiklik ortaya çıkmıştır?",
+            "options": [
+                "İnsanların sportif aktivitelerine engel olmuştur.",
+                "İnsanların zihinsel aktivitelerinde yavaşlama görülmüştür.",
+                "Günlük yapılan aktiviteler sayısal ortamlara taşınmıştır.",
+                "Sanat akımları ile insanlar sayısallaşmaya karşı durmaya başlamıştır.",
+                "İnsanların birbirleri ile olan iletişimi azalmıştır."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 180,
+            "question": "Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim (ler) olduğu tam olarak bilinmeyen kişi veya grup aşağıdakilerden hangisidir?",
+            "options": [
+                "Satoshi Nakamoto",
+                "Tim Berners - Lee",
+                "Martti Malmi",
+                "Vitalik Buterin",
+                "Hiro Nakamura"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2021-2022",
+            "material_id": "607415"
+        },
+        {
+            "id": 181,
+            "question": "Aşağıdakilerden hangisi Büyük Veri kaynaklarından biri <u>değildir</u>?",
+            "options": [
+                "Ses ve görüntü cihazları",
+                "Kayıtlar (logs)",
+                "Ağlar",
+                "İnternet",
+                "Oyuncaklar"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 182,
+            "question": "Dijital oyunların, oyuncuların ve dijital oyunlar etrafında gelişen kültürün <u>boşluk</u> bir yapısı yoktur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "heterojen",
+                "homojen",
+                "dinamik",
+                "teknolojik",
+                "sosyolojik"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 183,
+            "question": "\"Sosyal değişimin merkezinde medyayı teknolojileri vardır.\" düşüncesi aşağıdaki hangi kuramsal yaklaşım kapsamında yer alır?",
+            "options": [
+                "Ağ teorisi",
+                "Kültürel konstrüktivizm",
+                "Semiyoloji",
+                "Teknolojik determinizm",
+                "Yapısalcılık"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 184,
+            "question": "Kullanıcılar ürettikleri ve paylaştıkları yazılı, sesli, görüntü içeriğe <u>boşluk</u> atayarak arama motorları aracılığıyla diğer kullanıcıların bu içeriğe kolayca ulaşmalarını sağlarlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "etiket",
+                "kelime",
+                "bulut",
+                "log",
+                "blog"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 185,
+            "question": "Ivan Shuterland tarafından 1968 yılında icat edilen, görünüşü ve ağırlığı sebebiyle \"Demokles'in Kılıcı\" yakıştırması yapılan sistem, aşağıdaki terimlerden hangisinin ilk defa insanlar tarafından sayısal olarak deneyimlenmesini sağlamıştır?",
+            "options": [
+                "Siber uzay",
+                "Sanal gerçeklik",
+                "Artırılmış gerçeklik",
+                "Karma gerçeklik",
+                "Fiziksel gerçeklik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 186,
+            "question": "Isaac Asimov robotları konu eden bir dizi hikaye yazmış ve bunları I Robot adıyla 1950'de yayımlamıştır. Bu hikayelerdeki en önemli ve paylaşılan şey üç robot kuralıdır. 1985'te bu üç kurala sonradan eklenen zeroth kuralı aşağıdakilerden hangisidir?",
+            "options": [
+                "Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır.",
+                "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot hareketsiz kalarak bir insanın zarar görmesine izin veremez.",
+                "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez.",
+                "Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.",
+                "Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 187,
+            "question": "Sadece bilgisayar bilimi alanında uzmanlaşmış insanlar tarafından kullanılan 2. nesil bilgisayarların kişisel bilgisayarlara evrilmesini sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "Kurumsal bilgisayarlar",
+                "Mikro işlemciler",
+                "Şifre çözücüler",
+                "Ana kart",
+                "Grafik kart"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 188,
+            "question": "Hollandalı araştırmacı Joost Raessens (2006), oyunsal iletişimin ortamlarının yaygınlaşması ve gündelik yaşamın bir parçası hâline gelmeleri sürecini aşağıdakilerden hangisi ile ifade eder?",
+            "options": [
+                "Oyun kültürü",
+                "Platform oyunları",
+                "Bilgisayar oyunları",
+                "Kültürün oyunlaşması",
+                "Dijital oyunlar"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 189,
+            "question": "Sanal gerçeklikte olduğu gibi, artırılmış gerçeklikte de oyun piyasası bu yeni ortamın olanaklarını değerlendirmektedir. Artırılmış gerçeklik ortamını geniş kitlelerin deneyimlemesini sağlayan ilk aşağıdakilerden hangisidir?",
+            "options": [
+                "Pokemon GO",
+                "Catan World Explorers",
+                "Ingress",
+                "Harry Potter Wizards Unite",
+                "Zombies, Run"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 190,
+            "question": "Facebook bir <u>boşluk</u> alanı olarak görülebilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "kriptopara",
+                "dijital aktivizm",
+                "jeolojik unsur",
+                "hava alma",
+                "kütüphane"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 191,
+            "question": "Aşağıdakilerden hangisi haritalama, navigasyon, yön bulma ve konum ile yakınlık algılamada kullanılan elektronik teknolojilerden biri <u>değildir</u>?",
+            "options": [
+                "Sonar",
+                "GPS",
+                "USB",
+                "Bluetooth",
+                "Radar"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 192,
+            "question": "Blokzincirleri çok daha etkin ve işleyişi daha yönetilebilir hâle getiren inovasyon akıllı sözleşmelerdir. İlk akıllı sözleşmeler hangi kriptoparanın blokzinciri üzerinde yer almaktadır?",
+            "options": [
+                "Dogecoin",
+                "Litecoin",
+                "Bitcoin",
+                "Celo",
+                "Ethereum"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 193,
+            "question": "\"Teknokrasi dönemi\" ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Teknoloji ile kültür arasında bir çatışma vardır.",
+                "Kültür teknolojinin ortaya çıkış koşullarını ve kullanımını kesin olarak tanımlar.",
+                "Araç kullanan toplumlar dönemini tanımlar.",
+                "Kültür teknoloji olmuştur.",
+                "Teknoloji gelenek ve kültür tarafından tanımlanır."
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 194,
+            "question": "Kamusal alanı; devletten, sermayeden / piyasadan ve ailenin mahrem hayatından ayrı bir güç ve demokrasinin ön koşulu olarak gören teorisyen aşağıdakilerden hangisidir?",
+            "options": [
+                "Castells",
+                "Staler",
+                "Malina",
+                "Habermas",
+                "Van Dijik"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 195,
+            "question": "1960'ların ortalarında Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon'un insani problem çözme metotlarını bilgisayar kullanarak simüle etmeye yarayan çok amaçlı programı aşağıdakilerden hangisidir?",
+            "options": [
+                "First-Order Logic",
+                "Genel Problem Çözücü",
+                "Enigma",
+                "ELIZA",
+                "Deep Blue"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 196,
+            "question": "İnsanların, 2010'lu yıllardan itibaren giderek daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır?",
+            "options": [
+                "Bilgi çağı",
+                "Sosyal Ağ",
+                "Dijital çağ",
+                "Endüstri 4.0",
+                "Yeni medya"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 197,
+            "question": "Bir kullanıcının veya fiziksel bir nesnenin, sanal bir nesne tarafından temsil edilmesine ne ad verilir?",
+            "options": [
+                "Memex",
+                "Simulakr",
+                "Avatar",
+                "Videoplace",
+                "Arivis"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 198,
+            "question": "OpenAI tarafından Ocak 2021'de yayınlanan, DALL-E algoritmaları tarafından üretilmiş görüntülerin ayırt edici özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "Resim olması",
+                "Fotoğraf formatında olması",
+                "Çizim olması",
+                "Yapay zekanın üretimi olması",
+                "Tasarım eseri olması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 199,
+            "question": "Hangi Doğal Dil İşleme (DDİ) uygulaması çok büyük hacimli verilerde genel yapı ve kapsama genel bir bakış açısı sağlama olanağı sağlar?",
+            "options": [
+                "Topic modelling",
+                "Derin öğrenme",
+                "Nicel araştırma",
+                "Veri yapılandırma",
+                "İstatistiksel modelleme"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 200,
+            "question": "Ağ analizini kolaylaştıran önemli yeniliklerden biri, İlişkisel verileri görselleştirmek için tasarlanmış yazılımların ortaya çıkışıdır. Aşağıdakilerden hangisi bu yazılımlara örnek olarak gösterilebilir?",
+            "options": [
+                "SAA",
+                "Topic modelling",
+                "Graph Commons",
+                "Excel",
+                "Moreno"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2022-2023",
+            "material_id": "607483"
+        },
+        {
+            "id": 201,
+            "question": "Yeterli sayıda insanın, dijital ortamda kişisel ilişki ağları oluşturmak amacıyla insani duygularla kamusal tartışmalara girmeleri ve bunu yeterli sürede sürdürmeleri sonucunda ağdan ortaya çıkan toplumsal kültürel kümelere ne ad verilir?",
+            "options": [
+                "Çevrimiçi topluluk",
+                "Kamusal alan",
+                "Homofili",
+                "Sanal gerçeklik",
+                "Konum verisi"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 1,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 202,
+            "question": "\"Oyunları diğer oyuncularla sosyalleşebilecekleri ortamlar olarak değerlendirirler. Oyun oynama süreci ikincil önemdedir. Oyunun kendisi sosyal etkileşim için bir aracı görevi görür.\" Yukarıda açıklaması verilen oyuncu tipi aşağıdakilerden hangisidir?",
+            "options": [
+                "Katılımcılar",
+                "Kahramanlar",
+                "Sosyalleşenler",
+                "Başaranlar",
+                "Katiller"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 203,
+            "question": "Aşağıdakilerden hangisi Preece'a göre çevrimiçi toplulukların dört temel bileşeninden biri <u>değildir</u>?",
+            "options": [
+                "Kendi toplumsal olarak etkileşime giren insanlar",
+                "Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler",
+                "Çıkar, ihtiyaç ya da iş birliği yapmak gibi ortak bir amaç",
+                "Oyun amaçlı çevrimiçi gruplar",
+                "Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir sistem"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 3,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 204,
+            "question": "Duyusal algı, algı bilimi, duygu bilimi olarak açıklanan kavram aşağıdakilerden hangisidir?",
+            "options": [
+                "Güzellik",
+                "Estetik",
+                "Yapay zekâ",
+                "Güzel sanatlar",
+                "Bulanık mantık"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 4,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 205,
+            "question": "Alan Turing'in bilgisayar tarihindeki önemi aşağıdakilerden hangisine dayanmaktadır?",
+            "options": [
+                "4. dereceden polinominal fonksiyonları tanımlamıştır.",
+                "İkili kod sistemini bulmuştur.",
+                "Fortran bilgisayar dilinin mucididir.",
+                "Dokuma tezgahları için kart sistemini bulmuştur.",
+                "Yapay zekaya giden yoldaki fikirlerden birinin sahibidir."
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 5,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 206,
+            "question": "Hollandalı araştırmacı Joost Raessens (2006), oyunsal iletişimin ortamlarının yaygınlaşması ve gündelik yaşamın bir parçası hâline gelmeleri sürecini aşağıdakilerden hangisi ile ifade eder?",
+            "options": [
+                "Oyun kültürü",
+                "Platform oyunları",
+                "Bilgisayar oyunları",
+                "Dijital oyunlar",
+                "Kültürün oluşuması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 6,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 207,
+            "question": "Bitcoin'in işlem şeffaflığı ve kullanıcı mahremiyeti arasındaki dengeyi korumak için kullandığı ve kırılması günümüz süper bilgisayarları tarafından bile on yıllar sürebilecek olan güvenlik standardı aşağıdakilerden hangisidir?",
+            "options": [
+                "SHA256",
+                "FIPS 46",
+                "SHA512",
+                "ERC20",
+                "SHA-1"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 7,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 208,
+            "question": "Aşağıdakilerden hangisi büyük veri kaynaklarından biridir?",
+            "options": [
+                "Basılı dergiler",
+                "Broşürler",
+                "Ses ve görüntü cihazları",
+                "Kitaplar",
+                "Basılı gazeteler"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 8,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 209,
+            "question": "Bilgisayarların birbiriyle konuşmasını sağlayan ARPANET ile oluşan ilk ağdan sonraki bir diğer önemli icat olan ve farklı ağların birbirine bağlanmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "HTTP",
+                "TCP/IP",
+                "HTML",
+                "URL",
+                "WWW"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 9,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 210,
+            "question": "Mark Skwarek, Sander Veenhof ve Tamiko Thiel'in sanatçıları arasında bulunduğu, 2010 yılında New York Modern Sanat Müzesinde (MoMa) gerçekleşen WeARinMoMa sergisinin öne çıkan özelliği aşağıdakilerden hangisidir?",
+            "options": [
+                "İlk defa içinde genişletilmiş gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde sanal gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "İlk defa içinde artırılmış gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "Sergi için müzeden izin alınmamış olması",
+                "İlk defa içinde karma gerçeklik ile üretilmiş eserler bulunan sergi olması"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 10,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 211,
+            "question": "\"Teknokrasi dönemi\" ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+                "Araç kullanan toplumlar dönemini tanımlar.",
+                "Kültür teknolojinin ortaya çıkış koşullarını ve kullanımını kesin olarak tanımlar.",
+                "Teknoloji ile Kültür arasında bir çatışma vardır.",
+                "Teknoloji gelenek ve kültür tarafından tanımlanır.",
+                "Kültür teknoloji olmuştur."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 11,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 212,
+            "question": "Ağ analizini kolaylaştıran önemli yeniliklerden biri, İlişkisel verileri görselleştirmek için tasarlanmış yazılımların ortaya çıkışıdır. Aşağıdakilerden hangisi bu yazılımlara örnek olarak gösterilebilir?",
+            "options": [
+                "Topic modelling",
+                "SAA",
+                "Moreno",
+                "Excel",
+                "Graph Commons"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 12,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 213,
+            "question": "Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon <u>--------</u>. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "İnternet'tir",
+                "akıllı sözleşmelerdir",
+                "nesnelerin internetidir",
+                "dağıtık ağ mimarisidir",
+                "ağ mimarisidir"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 214,
+            "question": "Fransız düşünür Voltaire kültür kavramını \"...aklın bazı yetenek birimlerinin amaca elverişli düşünsel çalışma ve pratiklerle geliştirilmesidir\" şeklinde tanımlar. Bu tanımdan yola çıkarak kültür kavramının aşağıdakilerden hangisi ile doğrudan ilişkili olduğu söylenebilir?",
+            "options": [
+                "Eğitim",
+                "Teknoloji",
+                "Doğa",
+                "Biyoloji",
+                "Antropoloji"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 14,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 215,
+            "question": "Aşağıdaki robot karakterlerden hangisi insansal özellikleri yönüyle diğerlerinden ayrılır?",
+            "options": [
+                "Replikantlar",
+                "İnsansılar",
+                "Cylonlar",
+                "C3PO",
+                "Frankenstein"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 216,
+            "question": "İnsanların, 2010'lu yıllardan itibaren giderek daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır?",
+            "options": [
+                "Dijital çağ",
+                "Bilgi çağı",
+                "Sosyal Ağ",
+                "Endüstri 4.0",
+                "Yeni medya"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 16,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 217,
+            "question": "1960'ların ortalarında Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon'un insani problem çözme metotlarını bilgisayar kullanarak simule etmeye yarayan çok amaçlı programı aşağıdakilerden hangisidir?",
+            "options": [
+                "First-Order Logic",
+                "Genel Problem Çözücü",
+                "Enigma",
+                "ELIZA",
+                "Deep Blue"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 17,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 218,
+            "question": "Aşağıdakilerden hangisi kamusal alan tartışmaları bağlamında <u><u>önemli</u></u> bir düşünürdür?",
+            "options": [
+                "Spinoza",
+                "Ziya Gökalp",
+                "Habermas",
+                "Henry Ford",
+                "Descartes"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 18,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 219,
+            "question": "----------- bir sosyal medya platformudur.",
+            "options": [
+                "Tiktok",
+                "TRT",
+                "LOL",
+                "Star Wars",
+                "Netflix"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 19,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        },
+        {
+            "id": 220,
+            "question": "Aşağıdakilerden hangisi yapılandırılmış verilerin ayırt edici özelliklerinden biridir?",
+            "options": [
+                "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi",
+                "Daha çok depolama alanı gerektirmeleri",
+                "Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları",
+                "Bir sistem ya da düzen içerisinde tanımlanmış olmaları",
+                "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 20,
+            "source": "Yaz Okulu 2023-2024",
+            "material_id": "607503"
+        }
+    ]
+}

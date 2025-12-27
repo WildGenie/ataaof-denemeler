@@ -1,0 +1,720 @@
+[
+    {
+        "donem": 1,
+        "dersler": [
+            {
+                "dersAdi": "Görsel Estetik",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Görsel Estetik - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Görsel Estetik - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Görsel Estetik - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Mitoloji ve Din",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Mitoloji ve Din - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Mitoloji ve Din - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Mitoloji ve Din - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Temel Fotoğrafçılık",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Temel Fotoğrafçılık - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Temel Fotoğrafçılık - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Temel Fotoğrafçılık - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Temel Sanat ve Tasarım Eğitimi",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Temel Sanat ve Tasarım Eğitimi - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Temel Sanat ve Tasarım Eğitimi - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Temel Sanat ve Tasarım Eğitimi - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yabancı Dil Dersleri",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/Anadolu - Dönem 1 - Yabancı Dil Dersleri - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 2,
+        "dersler": [
+            {
+                "dersAdi": "Anadolu Kültür Tarihi",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Anadolu Kültür Tarihi - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Anadolu Kültür Tarihi - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Anadolu Kültür Tarihi - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Dijital Kültür",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Dijital Kültür - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Dijital Kültür - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Dijital Kültür - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Görsel İletişim ve Tasarım Tarihi",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Görsel İletişim ve Tasarım Tarihi - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Görsel İletişim ve Tasarım Tarihi - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Görsel İletişim ve Tasarım Tarihi - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tipografi",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Tipografi - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Tipografi - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Tipografi - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yabancı Dil Dersleri",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/Anadolu - Dönem 2 - Yabancı Dil Dersleri - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 3,
+        "dersler": [
+            {
+                "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi I",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Atatürk İlkeleri ve İnkılap Tarihi I - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Atatürk İlkeleri ve İnkılap Tarihi I - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Görsel Tasarımda Yaratıcı Düşünme Teknikleri",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Görsel Tasarımda Yaratıcı Düşünme Teknikleri - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Görsel Tasarımda Yaratıcı Düşünme Teknikleri - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Görsel Tasarımda Yaratıcı Düşünme Teknikleri - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Sanatta Eleştirel Düşünce",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Sanatta Eleştirel Düşünce - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Sanatta Eleştirel Düşünce - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Sanatta Eleştirel Düşünce - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Sayısal Görüntüleme Teknolojileri",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Sayısal Görüntüleme Teknolojileri - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Sayısal Görüntüleme Teknolojileri - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Sayısal Görüntüleme Teknolojileri - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Türk Dili I",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Türk Dili I - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Türk Dili I - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yeni Medya Sanatı",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Yeni Medya Sanatı - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Yeni Medya Sanatı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 3/Anadolu - Dönem 3 - Yeni Medya Sanatı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 4,
+        "dersler": [
+            {
+                "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi II",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Atatürk İlkeleri ve İnkılap Tarihi II - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Atatürk İlkeleri ve İnkılap Tarihi II - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Dijital Görüntüleme İşleme Yöntemleri",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Dijital Görüntüleme İşleme Yöntemleri - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Dijital Görüntüleme İşleme Yöntemleri - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Dijital Görüntüleme İşleme Yöntemleri - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Grafik Üretim ve Dijital Çoğaltım Teknikleri",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Grafik Üretim ve Dijital Çoğaltım Teknikleri - Çıkmış Sorular - Raw.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Grafik Üretim ve Dijital Çoğaltım Teknikleri - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Grafik Üretim ve Dijital Çoğaltım Teknikleri - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Sanat Tarihi",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Sanat Tarihi - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Sanat Tarihi - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Sanat Tarihi - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Türk Dili II",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Türk Dili II - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - Türk Dili II - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "İleri Tipografi",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - İleri Tipografi - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - İleri Tipografi - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 4/Anadolu - Dönem 4 - İleri Tipografi - Sorularla Ogrenelim.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 5,
+        "dersler": [
+            {
+                "dersAdi": "Ambalaj Tasarımı",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Ambalaj Tasarımı - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Ambalaj Tasarımı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Ambalaj Tasarımı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Engellilik ve Erişilebilir Tasarım",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Engellilik ve Erişilebilir Tasarım - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Engellilik ve Erişilebilir Tasarım - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Engellilik ve Erişilebilir Tasarım - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Görsel Sistem Tasarımları",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Görsel Sistem Tasarımları - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Görsel Sistem Tasarımları - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Görsel Sistem Tasarımları - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Görsel İletişim ve Kuramları",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Görsel İletişim ve Kuramları - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Görsel İletişim ve Kuramları - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Görsel İletişim ve Kuramları - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Kurumsal Kimlik Tasarımı",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Kurumsal Kimlik Tasarımı - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Kurumsal Kimlik Tasarımı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 5/Anadolu - Dönem 5 - Kurumsal Kimlik Tasarımı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 6,
+        "dersler": [
+            {
+                "dersAdi": "Bilgi Görselleştirme",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Bilgi Görselleştirme - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Bilgi Görselleştirme - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Bilgi Görselleştirme - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Dijital Medya ve Arayüz Tasarımı",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Dijital Medya ve Arayüz Tasarımı - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Dijital Medya ve Arayüz Tasarımı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Dijital Medya ve Arayüz Tasarımı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Dijital Video Kurgu ve Efekt",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Dijital Video Kurgu ve Efekt - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Dijital Video Kurgu ve Efekt - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Dijital Video Kurgu ve Efekt - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Eğitici İçerik Tasarımı",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Eğitici İçerik Tasarımı - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Eğitici İçerik Tasarımı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Eğitici İçerik Tasarımı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Sürdürülebilir Grafik Tasarım",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Sürdürülebilir Grafik Tasarım - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Sürdürülebilir Grafik Tasarım - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 6/Anadolu - Dönem 6 - Sürdürülebilir Grafik Tasarım - Sorularla Ogrenelim.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 7,
+        "dersler": [
+            {
+                "dersAdi": "Dijital Oyun Tasarımı",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Dijital Oyun Tasarımı - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Dijital Oyun Tasarımı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Dijital Oyun Tasarımı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Hareketli Grafik Tasarımı",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Hareketli Grafik Tasarımı - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Hareketli Grafik Tasarımı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Hareketli Grafik Tasarımı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Posthümanist Tasarım Yaklaşımları",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Posthümanist Tasarım Yaklaşımları - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Posthümanist Tasarım Yaklaşımları - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Posthümanist Tasarım Yaklaşımları - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tasarım Etiği ve Hukuku",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Tasarım Etiği ve Hukuku - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Tasarım Etiği ve Hukuku - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Tasarım Etiği ve Hukuku - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Öğretim Tasarımı",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Öğretim Tasarımı - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 7/Anadolu - Dönem 7 - Öğretim Tasarımı - Sorularla Ogrenelim.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 8,
+        "dersler": [
+            {
+                "dersAdi": "3B Tasarım ve Modelleme",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - 3B Tasarım ve Modelleme - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - 3B Tasarım ve Modelleme - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - 3B Tasarım ve Modelleme - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Reklam Tasarım ve Uygulamaları",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Reklam Tasarım ve Uygulamaları - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Reklam Tasarım ve Uygulamaları - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Reklam Tasarım ve Uygulamaları - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tasarım Süreçleri ve Yönetimi",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Tasarım Süreçleri ve Yönetimi - Çıkmış Sorular - Raw.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Tasarım Süreçleri ve Yönetimi - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Tasarım Süreçleri ve Yönetimi - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tasarımda Sıralı Anlatım ve Öykülendirme",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Tasarımda Sıralı Anlatım ve Öykülendirme - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Tasarımda Sıralı Anlatım ve Öykülendirme - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Tasarımda Sıralı Anlatım ve Öykülendirme - Sorularla Ogrenelim.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yapay Zeka ve Tasarım",
+                "sources": [
+                    {
+                        "name": "Çıkmış Sorular (AI)",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Yapay Zeka ve Tasarım - Çıkmış Sorular - Enriched.json"
+                    },
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Yapay Zeka ve Tasarım - Alıştırma Soruları.json"
+                    },
+                    {
+                        "name": "Sorularla Öğrenelim",
+                        "url": "json/Donem 8/Anadolu - Dönem 8 - Yapay Zeka ve Tasarım - Sorularla Ogrenelim.json"
+                    }
+                ]
+            }
+        ]
+    }
+]

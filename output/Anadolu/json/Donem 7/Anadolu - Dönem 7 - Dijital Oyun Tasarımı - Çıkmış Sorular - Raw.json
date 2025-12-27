@@ -1,0 +1,304 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Fantastik karakterlere yönelik hafif düzeyde şiddet veya insan benzeri karakterlere yönelik gerçekçi olmayan şiddet gösteren oyunlar PEGI tarafından hangi yaş kategorisinde değerlendirilir?",
+            "options": [
+                "3",
+                "7",
+                "12",
+                "16",
+                "18"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 1,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 2,
+            "question": "Scratch adlı oyun geliştirme platformu ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?",
+            "options": [
+                "Geniş bir topluluğa sahiptir.",
+                "Yeterlilikleri sürekli gelişmektedir.",
+                "Metin tabanlı kod yazımı gerektirir.",
+                "Ücretsiz olarak kullanılabilir.",
+                "Başta çocuklar olmak üzere her yaştan bireye hitap eder."
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 2,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 3,
+            "question": "Dijital oyun tasarımında modellere renk ve desen eklenen aşama aşağıdakilerden hangisidir?",
+            "options": [
+                "Yayınlama",
+                "Tekstürlendirme",
+                "Modelleme",
+                "Konsept Tasarımı",
+                "Kümeleme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 3,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 4,
+            "question": "Aşağıdakilerden hangisi ücretsiz ve açık kaynaklı bir ses düzenleme aracıdır?",
+            "options": [
+                "Cry Engine",
+                "Blender",
+                "Audacity",
+                "Unity 3D",
+                "Sound-Max"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 4,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 5,
+            "question": "Unity 3D ortamında bir değişkenin değerinin editör üzerinden ayarlanabilir olmasını sağlamak için kullanılan özellik aşağıdakilerden hangisidir?",
+            "options": [
+                "SerializeField",
+                "Instantiate",
+                "OnCollide",
+                "Private",
+                "Editable"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 5,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 6,
+            "question": "Unity 3D ortamında, oyun çalıştığı esnada bir tuşa basıldığında veya belirli bir zamandan sonra nesneler oluşturmayı sağlayan fonksiyon aşağıdakilerden hangisidir?",
+            "options": [
+                "Instantiate()",
+                "Start()",
+                "Build()",
+                "GetKeyDown()",
+                "Destroy()"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 6,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 7,
+            "question": "Aşağıdakilerden hangisi Unity 3D ortamında bulunan kare ile bir önceki kare arasındaki zaman farkını veren C# fonksiyonudur?",
+            "options": [
+                "Time.frameCount()",
+                "Frame.Time()",
+                "Frame.time Difference()",
+                "Time.deltaTime()",
+                "Time.Difference()"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 7,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 8,
+            "question": "Unity 3D aşağıdaki programlama dillerinden hangisinin kullanımını destekler?",
+            "options": [
+                "Pascal",
+                "Fortran",
+                "Java",
+                "C++",
+                "C#"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 8,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 9,
+            "question": "Aşağıdakilerden hangisi yapay zekanın alt dallarından biri <u>değildir</u>?",
+            "options": [
+                "Veri Madenciliği",
+                "Derin Öğrenme",
+                "Uzman Sistemler",
+                "Makine Öğrenimi",
+                "İşletim Sistemleri"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 9,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 10,
+            "question": "Unity Muse aşağıdaki işlevlerden hangisine sahip <u>değildir</u>?",
+            "options": [
+                "Sprite oluşturma",
+                "Veritabanı olarak kullanım",
+                "Texture oluşturma",
+                "Kod yazma",
+                "Sohbet ile fikir edinme"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 10,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 11,
+            "question": "Aşağıdakilerden hangisi oyun içerisinde bulunan sistemlerin ya da karakterlerin farklı durum ve senaryolar için akıllıca karar almasını sağlayan yapay zeka boyutudur?",
+            "options": [
+                "Karar verme süreçlerinde oyun yapay zekâsı kullanımı",
+                "Tahmin etme süreçlerinde oyun yapay zekâsı kullanımı",
+                "Üç boyutlu modelleme süreçlerinde oyun yapay zekâsı kullanımı",
+                "Oyun içi tanıtım süreçlerinde oyun yapay zekâsı kullanımı",
+                "Grafik oluşturma süreçlerinde oyun yapay zekâsı kullanımı"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 11,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 12,
+            "question": "I. Spline Al II. Edge III. Masterpiece X Yukarıdakilerden hangisi/hangileri üç boyutlu modelleme süreçlerinde kullanılabilecek yapay zeka araçlarıdır?",
+            "options": [
+                "Yalnız I",
+                "Yalnız III",
+                "I ve II",
+                "I ve III",
+                "I, II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 12,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 13,
+            "question": "Mobil dijital oyun sektöründe en çok indirme sayısına sahip olan oyun türü aşağıdakilerden hangisidir?",
+            "options": [
+                "Açık dünya",
+                "Basit oynanan",
+                "Aksiyon",
+                "Rol yapma",
+                "Macera"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 13,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 14,
+            "question": "Aşağıdakilerden hangisi dijital bir oyunun arama motorlarında daha üst sıraya çıkması için gerçekleştirilen süreci tanımlar?",
+            "options": [
+                "MMO",
+                "SEO",
+                "PUB",
+                "APK",
+                "RPG"
+            ],
+            "correctIndex": 1,
+            "exam_question_number": 14,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 15,
+            "question": "I. APK II. EXE III. AAB Yukarıdakilerden hangisi/hangileri oyun dosyası olarak Google Play Console'a yüklenebilir?",
+            "options": [
+                "Yalnız I",
+                "Yalnız II",
+                "I ve II",
+                "I ve III",
+                "II ve III"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 15,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 16,
+            "question": "\"Oyun geliştirme sürecindeki testler ------- ve ------- terimleri ile de anılırlar.\" Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?",
+            "options": [
+                "kalite güvencesi/hata ayıklama",
+                "lisans Sözleşmesi/anlaşmalar",
+                "geliştirme/yayınlama",
+                "kontrol/değerlendirme",
+                "onay/geri bildirim"
+            ],
+            "correctIndex": 0,
+            "exam_question_number": 16,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 17,
+            "question": "Gelecekte oyun geliştirmeyi oyuncu beklentileriyle uyumlu kılmak için yola çıkan aktörler bütününe ne ad verilir?",
+            "options": [
+                "Oyun ekibi",
+                "Sosyal oyunculuk",
+                "Build sistemi",
+                "Programlama ekosistemi",
+                "Çapraz oyunculuk"
+            ],
+            "correctIndex": 3,
+            "exam_question_number": 17,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 18,
+            "question": "Aşağıdakilerden hangisi yakın bir gelecekte Sora ve benzeri platformların öngörülen gelişmelerinden biri <u>değildir</u>?",
+            "options": [
+                "Oyun senaristlerinin hayal güçlerini sesten metine-metinden videoya denemesi",
+                "Sahte oynanış videoları üreterek popülerlik ve portföy sağlaması",
+                "Farklı görsel ve metinsel öğeleri birleştirerek video kitaplar üretmesi",
+                "Edebi şaheserlerin oyunlarının görsel altyapısının sağlanması",
+                "Oyunlara entegre yapay zeka araçlarına destek sağlanmaması"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 18,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 19,
+            "question": "\"2019 yılı itibariyle Dünya Sağlık Örgütü (DSÖ) tarafından -------, uluslararası ortak hastalıklar sıralamasına 11. sıradan girmiştir.\" Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+                "depresyon",
+                "dijital obezite",
+                "dijital oyun bağımlılığı",
+                "dijital istifçilik",
+                "hareketsizlik"
+            ],
+            "correctIndex": 2,
+            "exam_question_number": 19,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        },
+        {
+            "id": 20,
+            "question": "Gameband ve Supersuit örnekleri arasında yer alır. Bilgisayar başında olunmadan da oynanış sürdürülebilmektedir. Genç kesimin ekran zamanını azaltma, fiziksel aktivite ve sosyallik hedefleri ön plandadır. Yukarıda temel özellikleri verilen ve oyun dünyasının geleceğinde yer edineceği düşünülen teknoloji aşağıdakilerden hangisidir?",
+            "options": [
+                "E-spor",
+                "Bulut oyunculuğu",
+                "Yüz tanımalı oyunculuk",
+                "Sosyal oyunculuk",
+                "Gizlilik odaklı oyunculuk"
+            ],
+            "correctIndex": 4,
+            "exam_question_number": 20,
+            "source": "Dönem Sonu 2024-2025",
+            "material_id": "596765"
+        }
+    ]
+}
