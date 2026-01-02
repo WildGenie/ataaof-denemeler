@@ -12,9 +12,7 @@ from libs.pipeline import QuestionPipeline
 from libs.ata_lib import (
     DERSLER_FILE,
     RAW_JSON_DIR,
-    JSON_DIR,
-    FULL_JSON_DIR,
-    MD_DIR
+    OUTPUT_DIR
 )
 
 BASE_URL = "https://vtakip.ataaof.edu.tr/atametaservice.asmx/GetDenemeSoruByUnite"
@@ -22,13 +20,52 @@ BASE_URL = "https://vtakip.ataaof.edu.tr/atametaservice.asmx/GetDenemeSoruByUnit
 class AtaPipeline(QuestionPipeline):
     def __init__(self, no_cache=False, offline=False):
         super().__init__(
-            raw_dir=RAW_JSON_DIR,
-            json_dir=JSON_DIR,
-            full_json_dir=FULL_JSON_DIR,
-            md_dir=MD_DIR,
+            output_root=OUTPUT_DIR,
             no_cache=no_cache,
             offline=offline
         )
+
+    def generate_dersler_json(self):
+        """Generates the central dersler.json for ATA-AÖF matching the Anadolu/Auzef format."""
+        if not os.path.exists(DERSLER_FILE):
+            return
+
+        with open(DERSLER_FILE, 'r', encoding='utf-8') as f:
+            courses = json.load(f)
+
+        structured = []
+        for i in range(1, 9):
+            structured.append({"donem": i, "dersler": []})
+
+        for course in courses:
+            donem_raw = course.get("Donem")
+            try:
+                donem = int(donem_raw) if donem_raw else None
+            except (ValueError, TypeError):
+                donem = None
+
+            if not donem or donem > 8:
+                continue
+
+            safe_name = self.get_safe_course_name(course)
+            prefix = self.get_filename_prefix(course)
+
+            course_entry = {
+                "dersAdi": course.get("CourseName"),
+                "id": str(course.get("DersId")),
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": f"json/Donem {donem}/{prefix} - Dönem {donem} - {safe_name} - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+            structured[donem-1]["dersler"].append(course_entry)
+
+        output_path = os.path.join(self.output_root, "sorular", "dersler.json")
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(structured, f, ensure_ascii=False, indent=4)
+        tqdm.write(f"  Generated {output_path}")
 
     def fetch_raw_questions(self, course, unit, silent=False):
         ders_id = course.get("DersId")
@@ -231,6 +268,9 @@ def main():
                 for future in as_completed(futures):
                     success, name = future.result()
                     pbar.update(1)
+
+        # Always generate dersler.json after all courses processed
+        AtaPipeline(no_cache=args.no_cache, offline=args.offline).generate_dersler_json()
     else:
         pipeline = AtaPipeline(no_cache=args.no_cache, offline=args.offline)
         with tqdm(total=len(filtered_courses), desc="Processing courses", unit="course") as pbar:
@@ -238,6 +278,7 @@ def main():
                 pbar.set_postfix_str(f"{course.get('CourseName', 'Unknown')[:20]}", refresh=True)
                 pipeline.process_course(course, target_unit=args.unit)
                 pbar.update(1)
+        pipeline.generate_dersler_json()
 
 if __name__ == "__main__":
     main()

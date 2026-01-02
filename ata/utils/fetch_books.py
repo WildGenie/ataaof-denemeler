@@ -9,10 +9,13 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(
 from libs.ata_lib import (
     setup_directories,
     DERSLER_FILE,
-    PDF_DIR
+    OUTPUT_DIR
 )
 
 BASE_URL = "https://oys.ataaof.edu.tr/ktpcik/{ders_id}.pdf"
+
+def get_safe_course_name(name):
+    return "".join([c for c in name if c.isalnum() or c in (' ', '-', '_')]).strip()
 
 def fetch_booklet(course):
     ders_id = course.get("DersId")
@@ -20,18 +23,35 @@ def fetch_booklet(course):
     donem = course.get("Donem")
 
     url = BASE_URL.format(ders_id=ders_id)
-    safe_course_name = "".join([c for c in course_name if c.isalnum() or c in (' ', '-', '_')]).strip()
-    filename = f"{donem} - {safe_course_name} - 2025-2026 Ara Sınav (Vize) Soruları - ATA-AÖF.pdf"
-    filepath = os.path.join(PDF_DIR, filename)
+    safe_course_name = get_safe_course_name(course_name)
+
+    # Target directory: Donem X/Course/Materyaller
+    course_dir = os.path.join(OUTPUT_DIR, f"Donem {donem}", safe_course_name)
+    materyaller_dir = os.path.join(course_dir, "Materyaller")
+
+    if not os.path.exists(materyaller_dir):
+        # Only create if course dir exists, otherwise we might be creating ghost folders?
+        # But pipeline should have created course folders.
+        # Actually pipeline creates folders on demand. If we fetch books first, we might need to create them.
+        os.makedirs(materyaller_dir, exist_ok=True)
+
+    filename = "2025-2026 Ara Sınav (Vize) Soruları.pdf"
+    filepath = os.path.join(materyaller_dir, filename)
 
     if os.path.exists(filepath):
-        print(f"Skipping {course_name} (already exists).")
-        return
+        # Check size?
+        if os.path.getsize(filepath) > 0:
+            print(f"Skipping {course_name} (already exists).")
+            return
 
     print(f"Downloading booklet for {course_name} ({ders_id})...")
     try:
         response = requests.get(url, timeout=60)
+        # Check content type and length
         if response.status_code == 200 and "pdf" in response.headers.get("Content-Type", "").lower():
+            if len(response.content) < 1000: # Some empty PDFs are small
+                 print(f"  Warning: Small PDF ({len(response.content)} bytes) for {course_name}.")
+
             with open(filepath, 'wb') as f:
                 f.write(response.content)
             print(f"  Saved to {filename}")

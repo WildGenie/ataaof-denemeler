@@ -1,0 +1,442 @@
+[
+    {
+        "donem": 1,
+        "dersler": [
+            {
+                "dersAdi": "İletişime Giriş",
+                "id": "34080",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/ATA-AÖF - Dönem 1 - İletişime Giriş - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Genel Sanat Tarihi",
+                "id": "82515",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/ATA-AÖF - Dönem 1 - Genel Sanat Tarihi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Temel Bilgi Teknolojileri I",
+                "id": "34122",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/ATA-AÖF - Dönem 1 - Temel Bilgi Teknolojileri I - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Temel Fotoğrafçılık",
+                "id": "39202",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/ATA-AÖF - Dönem 1 - Temel Fotoğrafçılık - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Temel Tasarım I",
+                "id": "82514",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/ATA-AÖF - Dönem 1 - Temel Tasarım I - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yabancı Dil I",
+                "id": "10064",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 1/ATA-AÖF - Dönem 1 - Yabancı Dil I - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 2,
+        "dersler": [
+            {
+                "dersAdi": "Reklam Fotoğrafçılığı",
+                "id": "39130",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/ATA-AÖF - Dönem 2 - Reklam Fotoğrafçılığı - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Temel Tasarım II",
+                "id": "82513",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/ATA-AÖF - Dönem 2 - Temel Tasarım II - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Sanat Sosyolojisi",
+                "id": "39029",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/ATA-AÖF - Dönem 2 - Sanat Sosyolojisi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Görme Biçimleri",
+                "id": "82516",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/ATA-AÖF - Dönem 2 - Görme Biçimleri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Grafik Tasarım Tarihi",
+                "id": "82517",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/ATA-AÖF - Dönem 2 - Grafik Tasarım Tarihi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yabancı Dil II",
+                "id": "9915",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 2/ATA-AÖF - Dönem 2 - Yabancı Dil II - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 3,
+        "dersler": [
+            {
+                "dersAdi": "Sayısal Fotoğraf",
+                "id": "73380",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/ATA-AÖF - Dönem 3 - Sayısal Fotoğraf - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Grafik Tasarım I",
+                "id": "59563",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/ATA-AÖF - Dönem 3 - Grafik Tasarım I - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Reklam Analizleri",
+                "id": "39129",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/ATA-AÖF - Dönem 3 - Reklam Analizleri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tipografi",
+                "id": "82518",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/ATA-AÖF - Dönem 3 - Tipografi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi I",
+                "id": "14170",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/ATA-AÖF - Dönem 3 - Atatürk İlkeleri ve İnkılap Tarihi I - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Türk Dili I",
+                "id": "6646",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 3/ATA-AÖF - Dönem 3 - Türk Dili I - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 4,
+        "dersler": [
+            {
+                "dersAdi": "Tasarımda Tipografi",
+                "id": "82520",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/ATA-AÖF - Dönem 4 - Tasarımda Tipografi - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Masaüstü Yayıncılık",
+                "id": "51909",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/ATA-AÖF - Dönem 4 - Masaüstü Yayıncılık - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Görsel İletişim Tasarımı",
+                "id": "39120",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/ATA-AÖF - Dönem 4 - Görsel İletişim Tasarımı - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Grafik Tasarım II",
+                "id": "82519",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/ATA-AÖF - Dönem 4 - Grafik Tasarım II - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi II",
+                "id": "14696",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/ATA-AÖF - Dönem 4 - Atatürk İlkeleri ve İnkılap Tarihi II - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Türk Dili II",
+                "id": "9474",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 4/ATA-AÖF - Dönem 4 - Türk Dili II - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 5,
+        "dersler": [
+            {
+                "dersAdi": "Web Tasarımının Temelleri",
+                "id": "39642",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/ATA-AÖF - Dönem 5 - Web Tasarımının Temelleri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Grafik Üretim Teknikleri",
+                "id": "82521",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/ATA-AÖF - Dönem 5 - Grafik Üretim Teknikleri - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Reklam Grafiği",
+                "id": "82522",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/ATA-AÖF - Dönem 5 - Reklam Grafiği - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tasarım Okumaları",
+                "id": "77458",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/ATA-AÖF - Dönem 5 - Tasarım Okumaları - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Özgün Baskı Teknikleri",
+                "id": "82523",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 5/ATA-AÖF - Dönem 5 - Özgün Baskı Teknikleri - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 6,
+        "dersler": [
+            {
+                "dersAdi": "Reklamda Yaratıcılık",
+                "id": "73366",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/ATA-AÖF - Dönem 6 - Reklamda Yaratıcılık - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Göstergebilim",
+                "id": "21477",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/ATA-AÖF - Dönem 6 - Göstergebilim - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tasarımda Fotoğraf Kullanımı",
+                "id": "82524",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/ATA-AÖF - Dönem 6 - Tasarımda Fotoğraf Kullanımı - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Yayın Grafiği",
+                "id": "82525",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/ATA-AÖF - Dönem 6 - Yayın Grafiği - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Ambalaj Tasarımı",
+                "id": "82526",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 6/ATA-AÖF - Dönem 6 - Ambalaj Tasarımı - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 7,
+        "dersler": [
+            {
+                "dersAdi": "İllüstrasyon",
+                "id": "3052",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/ATA-AÖF - Dönem 7 - İllüstrasyon - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tanıtım Fotoğrafı",
+                "id": "82527",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/ATA-AÖF - Dönem 7 - Tanıtım Fotoğrafı - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Görsel Kimlik ve Marka Tasarımı",
+                "id": "82528",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 7/ATA-AÖF - Dönem 7 - Görsel Kimlik ve Marka Tasarımı - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "donem": 8,
+        "dersler": [
+            {
+                "dersAdi": "Dijital Kültür ve Sosyal Medya",
+                "id": "73370",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/ATA-AÖF - Dönem 8 - Dijital Kültür ve Sosyal Medya - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Tasarımda Kurgu ve Analiz",
+                "id": "82530",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/ATA-AÖF - Dönem 8 - Tasarımda Kurgu ve Analiz - Alıştırma Soruları.json"
+                    }
+                ]
+            },
+            {
+                "dersAdi": "Bilgilendirme Tasarımı",
+                "id": "82529",
+                "sources": [
+                    {
+                        "name": "Alıştırma Soruları",
+                        "url": "json/Donem 8/ATA-AÖF - Dönem 8 - Bilgilendirme Tasarımı - Alıştırma Soruları.json"
+                    }
+                ]
+            }
+        ]
+    }
+]
