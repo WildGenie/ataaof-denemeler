@@ -17,6 +17,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümledeki özne (\"Antalya and Adana\") <b>çoğul</b> bir yapıyı (iki şehir) ifade ettiği için, \"to be\" fiilinin çoğul formu olan <b>\"are\"</b> kullanılmalıdır.",
         "Donem": 1
     },
     {
@@ -37,6 +38,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "\"How old are you?\" sorusu yaş sormak için kullanılır ve cevap genellikle <b>\"I am\"</b> yapısıyla başlar, ardından yaş belirtilir. (Örn: I am twenty.)",
         "Donem": 1
     },
     {
@@ -57,6 +59,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Preposition'dan (with) sonra gelen kelime, cümlede <b>nesne zamiri (object pronoun)</b> pozisyonundadır. \"We\" öznesinin nesne hali <b>\"us\"</b>'tır.",
         "Donem": 1
     },
     {
@@ -77,6 +80,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlenin ilk kısmındaki çoğul özne (\"Our English teachers\") yerine kullanılabilecek <b>özne zamiri</b> (subject pronoun) <b>\"They\"</b>'dir. Çoğul özneye uygun \"to be\" fiili ise <b>\"are\"</b>'dır. (They are new in Turkey.)",
         "Donem": 1
     },
     {
@@ -97,6 +101,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>\"I\"</b> öznesi ile kullanılan \"to be\" fiilinin doğru çekimi <b>\"am\"</b>'dir.",
         "Donem": 1
     },
     {
@@ -117,6 +122,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Özne (\"Michael Jackson\") <b>tekil (He)</b> olduğu için, \"to be\" fiilinin doğru çekimi <b>\"is\"</b>'dir.",
         "Donem": 1
     },
     {
@@ -137,6 +143,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Özne (\"My father and I\") <b>çoğul</b> bir yapıyı (biz) ifade ettiği için, \"to be\" fiilinin çoğul formu olan <b>\"are\"</b> kullanılmalıdır.",
         "Donem": 1
     },
     {
@@ -157,6 +164,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Özne (\"My sister and my brother\") <b>iki kişiyi (çoğul)</b> ifade ettiği için, \"to be\" fiilinin doğru formu <b>\"are\"</b>'dır.",
         "Donem": 1
     },
     {
@@ -177,6 +185,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Özne (\"Our pet dog Tarçın\") <b>tekil</b> bir varlık (It) olduğu için, \"to be\" fiilinin doğru çekimi <b>\"is\"</b>'dir.",
         "Donem": 1
     },
     {
@@ -197,6 +206,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu bir <b>bilgi sorma (Wh-question)</b> cümlesidir. Özne (\"your name\") <b>tekil</b> olduğu için, \"What\" kelimesinden hemen sonra tekil \"to be\" fiili olan <b>\"is\"</b> gelmelidir.",
         "Donem": 1
     },
     {
@@ -217,6 +227,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "<b>\"You\"</b> öznesi ile kullanılan \"to be\" fiilinin doğru çekimi <b>\"are\"</b>'dır. \"Where are you from?\" kalıbı, birinin nerede olduğunu sormak için kullanılır.",
         "Donem": 1
     },
     {
@@ -237,6 +248,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>\"I\"</b> öznesi ile kullanılan \"to be\" fiilinin doğru çekimi <b>\"am\"</b>'dir.",
         "Donem": 1
     },
     {
@@ -257,6 +269,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlenin öznesi (\"your sister and brother\") <b>çoğul</b> (iki kişi) olduğu için, \"How old\" soru kalıbında kullanılan \"to be\" fiili <b>\"are\"</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -277,6 +290,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Özne (\"My laptop\") <b>tekil</b> (It) olduğu için, \"to be\" fiilinin doğru çekimi <b>\"is\"</b>'dir.",
         "Donem": 1
     },
     {
@@ -297,6 +311,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlenin ikinci kısmı (\"I am Turkish\") önceki ifadenin olumsuz olması gerektiğini gösterir. <b>\"I\"</b> öznesi için \"to be\" fiilinin olumsuz formu <b>\"am not\"</b>'tır.",
         "Donem": 1
     },
     {
@@ -317,6 +332,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "İkinci cümle (\"He is a school principal\") önceki ifadenin (bir mühendis olmadığı) <b>olumsuz</b> olması gerektiğini gösterir. Tekil özne <b>\"He\"</b> için olumsuz \"to be\" formu <b>\"isn't\"</b> (is not)'tır.",
         "Donem": 1
     },
     {
@@ -337,6 +353,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cevapta (\"Next Saturday\") bir <b>zaman</b> ifadesi verildiği için, soruda zamanı sormak için kullanılan soru kelimesi <b>\"When\"</b> (Ne zaman) kullanılmalıdır.",
         "Donem": 1
     },
     {
@@ -357,6 +374,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Devamındaki yaş bilgileri (21 ve 18) kardeşlerin <b>ikiz olmadığını</b> göstermektedir. Çoğul özne (\"My sister and my brother\") için olumsuz \"to be\" formu <b>\"aren't\"</b> (are not)'tır.",
         "Donem": 1
     },
     {
@@ -377,6 +395,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "İkinci cümle (\"It is a German car\") önceki ifadenin (Japon arabası olmadığı) <b>olumsuz</b> olması gerektiğini gösterir. Tekil özne <b>\"Our car\" (It)</b> için olumsuz \"to be\" formu <b>\"isn't\"</b> (is not)'tır.",
         "Donem": 1
     },
     {
@@ -397,6 +416,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "\"When\" soru kelimesinden sonra gelen özne (\"your birthday\") <b>tekil</b> olduğu için, \"to be\" fiilinin doğru çekimi <b>\"is\"</b>'dir.",
         "Donem": 1
     },
     {
@@ -417,6 +437,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "The question \"How old are you?\" (Kaç yaşındasın?) kişinin yaşını sormak için kullanılır. Cevap verirken, <b>I am</b> yapısı kullanılır ve ardından yaş belirtilir (örneğin, <b>I am ten</b>). Bu, İngilizcede yaş belirtmenin standart yolu olan, 'to be' fiili ile kurulan temel bir ifadedir.",
         "Donem": 1
     },
     {
@@ -437,6 +458,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede özne (subject) <b>'your wife'</b> (eşin) tekil üçüncü şahıstır (She/It). İngilizcede tekil üçüncü şahıs öznelerle soru oluşturulurken 'to be' fiilinin <b>'Is'</b> formu kullanılır. Bu nedenle doğru cevap 'Is' olmalıdır. (<b>Is</b> your wife an English teacher? - Eşin İngilizce öğretmeni mi?)",
         "Donem": 1
     },
     {
@@ -457,6 +479,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "\"How are you today?\" (Bugün nasılsın?) kişiye nasıl hissettiğini sormak için kullanılan yaygın bir selamlaşma ifadesidir. Cevap olarak genellikle <b>iyi olma durumunu</b> belirten ifadeler kullanılır, örneğin <b>I am fine</b>, <b>I am good</b>, veya <b>I'm well</b>.",
         "Donem": 1
     },
     {
@@ -477,6 +500,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu diyalogda, A kişisi bugünün hangi gün olduğunu soruyor. İngilizcede zamanı, günü veya hava durumunu sorarken ve belirtirken temel özne olarak genellikle <b>'it'</b> zamiri kullanılır. Doğru ifadeyi tamamlamak için <b>'it'</b> kullanılmalıdır: \"Which day is <b>it</b> today?\" (Bugün hangi gün?).",
         "Donem": 1
     },
     {
@@ -497,6 +521,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlenin öznesi <b>'Nisa and Caner'</b> (Nisa ve Caner) çoğuldur (They). İngilizcede çoğul öznelerle (We, You, They) 'to be' fiilinin <b>'Are'</b> formu kullanılır. Dolayısıyla, \"Nisa and Caner <b>are</b> married\" (Nisa ve Caner evliler) doğru yapıdır.",
         "Donem": 1
     },
     {
@@ -517,6 +542,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "İlk cümlede bahsedilen kişi <b>Dilek</b>'tir ve kendisi annedir (kadın, tekil). Bir sonraki cümlede Dilek'ten tekrar bahsederken İngilizcede kadınlar için kullanılan tekil şahıs zamiri olan <b>'She'</b> kullanılmalıdır. \"<b>She</b> is a nurse.\" (O, bir hemşiredir.)",
         "Donem": 1
     },
     {
@@ -537,6 +563,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlenin öznesi <b>'I'</b> (ben) olduğu için 'to be' fiilinin <b>'am'</b> formu kullanılır. İkinci cümle (\"My test scores are not good.\") kişinin mutlu olmadığını gösterdiği için, fiilin olumsuz hali olan <b>'am not'</b> kullanılmalıdır. \"I <b>am not</b> happy with my test scores.\" (Sınav sonuçlarımdan mutlu değilim.)",
         "Donem": 1
     },
     {
@@ -557,6 +584,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "\"How old are you?\" sorusuna cevap verirken, kişi yaşını İngilizce olarak ifade etmelidir. Standart yapı <b>'I am'</b> (Ben ... yaşındayım) ile başlar ve ardından yaş (sayı) gelir.",
         "Donem": 1
     },
     {
@@ -577,6 +605,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "\"How old are you?\" sorusu, birinin yaşını sormak için kullanılır. Cevap verirken, kullanılan temel ifade yapısı <b>'I am'</b> (Ben ... yaşındayım) olmalıdır, ardından yaş rakamı söylenir.",
         "Donem": 1
     },
     {
@@ -597,6 +626,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlenin öznesi <b>'your eyes'</b> (gözlerin) çoğuldur. İngilizcede çoğul öznelerle (We, You, They) soru sorarken 'to be' fiilinin <b>'Are'</b> formu kullanılır. Bu nedenle doğru cevap \"are\" olmalıdır: \"What color <b>are</b> your eyes?\" (Gözlerin ne renk?)",
         "Donem": 1
     },
     {
@@ -617,6 +647,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede her iki boşlukta da özne çoğuldur ('My sister and I' ve 'We'). Bu nedenle 'to be' fiilinin <b>'Are'</b> formu kullanılır. İkinci cümlede ('We teachers') mesleklerinin öğretmen olduğu belirtildiği için, birinci cümlede doktor olmadıkları varsayılır (zıtlık).<br/>Birinci boşluğa <b>aren't</b> (are not) getirilmelidir: \"My sister and I <b>aren't</b> doctors.\"<br/>İkinci boşluğa ise <b>are</b> getirilmelidir: \"We <b>are</b> teachers.\" Sıralama (aren't, are) olmalıdır.",
         "Donem": 1
     },
     {
@@ -637,6 +668,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, 'everyday' (her gün) ifadesiyle <b>Geniş Zaman (Simple Present Tense)</b> yapısında bir rutini sormaktadır. Konu 'your sister' (kız kardeşin), yani <b>üçüncü tekil şahıstır (She)</b>. Geniş zamanda üçüncü tekil şahısla soru sorulurken yardımcı fiil olarak <b>Does</b> kullanılır. Ana fiil (brush) ise yalın halde kalır. Bu nedenle boşluğa <b>Does</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -657,6 +689,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, genel bir beğeniyi ifade etmektedir. Bu durum <b>Geniş Zaman (Simple Present Tense)</b> ile ifade edilir. Özne <b>I</b> olduğunda, fiil <b>yalın halde</b> kullanılır. Eğer seçeneklerde 'like' varsa, boşluğa <b>like</b> getirilmelidir. (I <b>like</b> fruits very much.)",
         "Donem": 1
     },
     {
@@ -677,6 +710,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki 'every evening' (her akşam) ifadesi bir rutini gösterir ve <b>Geniş Zaman (Simple Present Tense)</b> gerektirir. Özne 'Mary' <b>üçüncü tekil şahıs</b> (She) olduğu için, fiil <b>-s/-es takısı</b> almalıdır. Eğer fiil 'watch' ise, doğru çekim <b>watches</b> olur. (Mary <b>watches</b> TV...)",
         "Donem": 1
     },
     {
@@ -697,6 +731,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "İlk cümle ('My father is a non-smoker') babanın sigara içmediğini belirtir. Bu, eylemin <b>%0 sıklıkla</b> gerçekleştiği anlamına gelir. Bu sıklığı ifade eden doğru zarf <b>never</b> (asla) olmalıdır. <b>Sıklık zarfları</b> genellikle ana fiilden (smokes) önce gelir. (He <b>never</b> smokes.)",
         "Donem": 1
     },
     {
@@ -717,6 +752,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Boşluğa, 'family' isminden önce gelerek ailenin kime ait olduğunu gösteren bir <b>iyelik sıfatı</b> (Possessive Adjective) gelmelidir. Cümlenin öznesi 'She' olduğu için, buna karşılık gelen iyelik sıfatı <b>her</b>'dır. (She lives in Antalya with <b>her</b> family.)",
         "Donem": 1
     },
     {
@@ -737,6 +773,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede fiilin <b>Geniş Zaman (Simple Present Tense)</b>'e göre çekimlenmiş hali istenmektedir. Özne 'Susan' <b>üçüncü tekil şahıs</b> (She) olduğu için, fiilin sonuna <b>-s takısı</b> gelmelidir. Eğer fiil 'learn' ise, doğru form <b>learns</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -757,6 +794,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki 'usually' ve 'every day' ifadeleri genel bir durumu veya rutini belirtir ve <b>Geniş Zaman</b> gerektirir. Özne <b>It</b> (üçüncü tekil şahıs) olduğu için, fiil ('rain') <b>-s takısı</b> almalıdır. Doğru fiil <b>rains</b>'dir. (It usually <b>rains</b> every day here.)",
         "Donem": 1
     },
     {
@@ -777,6 +815,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle, <b>always</b> (her zaman) sıklık zarfı ile bir alışkanlığı belirtir ve <b>Geniş Zaman</b> yapısındadır. Özne <b>We</b> olduğu için, fiil ('drink' veya 'have') <b>yalın halde</b> kullanılmalıdır. Doğru cevap <b>drink</b> veya <b>have</b>'dir.",
         "Donem": 1
     },
     {
@@ -797,6 +836,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, mutfaktaki hoş bir kokuyu (genel durumu) ifade eder. Özne <b>It</b> (üçüncü tekil şahıs) olduğu için, duyusal fiil ('smell') <b>-s takısı</b> almalıdır. Doğru fiil <b>smells</b>'tir. (It <b>smells</b> very delicious...)",
         "Donem": 1
     },
     {
@@ -817,6 +857,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>Generally</b> (genellikle) sıklık zarfı, eylemin bir alışkanlık olduğunu ve <b>Geniş Zaman</b> kullanılması gerektiğini gösterir. Özne <b>We</b> olduğu için, fiil (sing) <b>yalın halde</b> kalmalıdır: <b>sing</b>. (We generally <b>sing</b> songs...)",
         "Donem": 1
     },
     {
@@ -837,6 +878,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, Nancy'nin bir şeyi sevdiğini (tercih ettiğini) ifade eder ve fiilden sonra <b>gerund</b> (V+ing) yapısı gelmiştir. Özne 'Nancy' <b>üçüncü tekil şahıs</b> olduğu için, kullanılan 'like' veya 'enjoy' fiili <b>-s takısı</b> almalıdır. Doğru form <b>likes</b> veya <b>enjoys</b>'tur.",
         "Donem": 1
     },
     {
@@ -857,6 +899,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle bir genel durumu veya alışkanlığı ifade eder. Özne 'The girls' (Kızlar) <b>çoğul</b> bir isimdir. <b>Geniş Zamanda</b> çoğul öznelerle fiil <b>yalın halde</b> kullanılır. Bu yüzden 'play' fiilinin doğru çekimi <b>play</b>'dir.",
         "Donem": 1
     },
     {
@@ -877,6 +920,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, zamanın nasıl geçirildiğine dair bir alışkanlığı belirtir. Özne <b>We</b> olduğu için, <b>Geniş Zaman</b> fiili (örneğin 'spend') <b>yalın halde</b> kalmalıdır: <b>spend</b>. (We <b>spend</b> most of our time...)",
         "Donem": 1
     },
     {
@@ -897,6 +941,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, bir alışkanlığı veya hobiyi belirtir. Özne <b>He</b> (üçüncü tekil şahıs) olduğu için, <b>Geniş Zamanda</b> fiil ('walk') <b>-s takısı</b> almalıdır. Doğru form <b>walks</b>'tur. (He <b>walks</b> on mountains.)",
         "Donem": 1
     },
     {
@@ -917,6 +962,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, Nancy'nin genel bir tercihini (sevdiğini) ifade eder. 'Likes' (sever) fiili ve ardından gelen 'eating' (yemeyi) gerund yapısı dikkate alındığında, cümlenin en yakın Türkçe karşılığı: <b>Nancy meyve ve sebze yemeyi sever</b>.",
         "Donem": 1
     },
     {
@@ -937,6 +983,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu bir <b>Geniş Zaman</b> sorusudur ve 'senin boş zamanlarında ne yaparsın' anlamındadır. İngilizcede 'sen' öznesiyle soru sormak için <b>Do</b> yardımcı fiili kullanılır. Doğru İngilizce karşılığı: <b>What do you do in your free time?</b>",
         "Donem": 1
     },
     {
@@ -957,6 +1004,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki zaman zarfı <b>now</b> (şimdi) olduğu için, eylem konuşma anında gerçekleşmektedir. Bu durum <b>Şimdiki Zaman (Present Continuous Tense)</b> gerektirir. Özne 'Our children' (Çocuklarımız) <b>çoğul</b> olduğu için, yardımcı fiil <b>are</b> ve fiilin <b>-ing</b> almış hali kullanılır. Doğru form: <b>are swimming</b>.",
         "Donem": 1
     },
     {
@@ -977,6 +1025,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki <b>at the weekends</b> (hafta sonları) ifadesi, düzenli bir alışkanlık veya rutini gösterir ve <b>Geniş Zaman</b> gerektirir. Özne <b>I</b> olduğunda, fiil ('play') <b>yalın halde</b> kullanılır: <b>play</b>.",
         "Donem": 1
     },
     {
@@ -997,6 +1046,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle, genel bir eğilimi veya tercihi ifade eder. 'Tercih etmek' fiili (prefer) İngilizcede genellikle <b>Geniş Zamanda</b> kullanılır (state verb). Doğru çeviri: <b>Many people prefer living near the seaside nowadays.</b>",
         "Donem": 1
     },
     {
@@ -1017,6 +1067,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Bu cümle, kalıcı bir ikamet yerini ifade eder ve <b>Geniş Zaman</b> gerektirir. Özne 'O' (He/She) <b>üçüncü tekil şahıs</b> olduğu için, 'yaşamak' fiili <b>-s takısı</b> almalıdır. Doğru İngilizce karşılığı: <b>He/She lives in England.</b>",
         "Donem": 1
     },
     {
@@ -1037,6 +1088,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu cümle, İngilizce'de <b>Geniş Zaman (Simple Present Tense)</b> yapısında bir olumsuzluk gerektirmektedir. 'I' öznesi için olumsuzluk eki <b>'do not'</b> veya kısaltılmış hali olan <b>'don't'</b> kullanılır. <br>Doğru cevap ('don't' varsayarsak) cümlenin anlamını 'Ben müzik dinlemem' şeklinde olumsuz yapar. Geniş zamanda <b>I, You, We, They</b> özneleri için <b>'don't'</b> yardımcı fiili kullanılır.",
         "Donem": 1
     },
     {
@@ -1057,6 +1109,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Özne <b>'Your father'</b> (Senin baban) olup, gramatik olarak <b>üçüncü tekil şahıs</b> (He) kategorisindedir. İngilizce'de <b>Geniş Zaman (Simple Present Tense)</b> olumlu cümlelerinde, He/She/It öznelerinden sonra gelen ana fiile <b>'-s'</b> veya <b>'-es'</b> takısı eklenmelidir.<br>Cümle, fiilin 'works' (çalışır) şeklinde çekimlenmesini gerektirir: 'Your father still <b>works</b> in the same company.' (Baban hala aynı şirkette çalışıyor.)",
         "Donem": 1
     },
     {
@@ -1077,6 +1130,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu cümle, İngilizce'de <b>fiziksel betimleme</b> (physical description) yapmak için kullanılır. <b>'Her'</b> kelimesi 'onun' anlamına gelir ve kadınlar için sahiplik bildirir. <b>'Hair'</b> saç, <b>'curly'</b> ise kıvırcık demektir.<br>Cümlenin Türkçe karşılığı 'Onun saçı kıvırcıktır' veya kısaca 'Saçları kıvırcıktır' olmalıdır.",
         "Donem": 1
     },
     {
@@ -1097,6 +1151,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlede kullanılan <b>'every day'</b> (her gün) ifadesi, cümlenin bir alışkanlık veya günlük rutin ifade ettiğini ve bu nedenle <b>Geniş Zaman (Simple Present Tense)</b> kullanılması gerektiğini gösterir. Özne <b>'My mom'</b> (Annem) yani üçüncü tekil şahıs (She) olduğu için, fiil <b>'-s'</b> veya <b>'-es'</b> eki almalıdır. 'Watch' fiili '-ch' ile bittiği için <b>'watches'</b> şeklinde çekimlenmelidir.",
         "Donem": 1
     },
     {
@@ -1117,6 +1172,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "A kişisi <b>'What do you do in your free time?'</b> (Boş zamanında ne yaparsın?) diyerek, B kişisinin <b>hobilerini</b> ve düzenli olarak yaptığı aktiviteleri sormaktadır. <br>Cevap, 'I' öznesiyle başlayan ve bir aktiviteyi belirten bir Geniş Zaman cümlesi olmalıdır. Örneğin, 'I listen to music' veya 'I read books' gibi bir ifade boşluğa getirilmelidir.",
         "Donem": 1
     },
     {
@@ -1137,6 +1193,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Ronaldo üçüncü tekil şahıstır (He). Futbolcu olduğu bilgisi, onun düzenli olarak futbol oynadığını belirtir. <b>Geniş Zaman (Simple Present Tense)</b> kullanılırken, 'He' öznesiyle fiile <b>'-s'</b> takısı eklenmelidir.<br>'Play' fiilinin doğru çekimi <b>'plays'</b> olmalıdır. (He <b>plays</b> football.)",
         "Donem": 1
     },
     {
@@ -1157,6 +1214,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "B kişisinin cevabı <b>'I am an engineer'</b> (Ben mühendisim) olduğuna göre, A kişisinin 'Senin işin nedir?' anlamını verecek bir soru sorması gerekmektedir. <br><b>'Your'</b> kelimesi 'senin' anlamına gelen bir <b>iyelik sıfatıdır (possessive adjective)</b> ve soruya uygun olan tek seçenektir. (What is <b>your</b> job?)",
         "Donem": 1
     },
     {
@@ -1177,6 +1235,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "<b>Sıklık zarfları (Frequency adverbs)</b>, bir eylemin ne kadar sık gerçekleştiğini belirtmek için kullanılırlar ve tipik olarak <b>Geniş Zaman (Simple Present Tense)</b> ile birlikte kullanılırlar. <br>Bu zarflara örnek olarak <b>'always'</b> (her zaman), <b>'usually'</b> (genellikle), <b>'often'</b> (sık sık), <b>'sometimes'</b> (bazen) ve <b>'never'</b> (asla) verilebilir. Bu zarflar rutinleri ve alışkanlıkları ifade eder.",
         "Donem": 1
     },
     {
@@ -1197,6 +1256,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki <b>'twice a day'</b> (günde iki kez) ifadesi bir alışkanlık ve rutin belirttiği için <b>Geniş Zaman (Simple Present Tense)</b> kullanılmalıdır. <br>Özne <b>'She'</b> (O) üçüncü tekil şahıs olduğu için fiil çekimlenirken <b>'-s'</b> veya <b>'-es'</b> takısı alır. 'Brush' fiili '-sh' ile bittiği için doğru çekim <b>'brushes'</b> olmalıdır. (She <b>brushes</b> her teeth twice a day.)",
         "Donem": 1
     },
     {
@@ -1217,6 +1277,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu cümle, <b>evrensel bir gerçeği</b> (general fact) ifade etmektedir. Evrensel gerçekler İngilizce'de her zaman <b>Geniş Zaman (Simple Present Tense)</b> ile ifade edilir. <br>Özne <b>'The sun'</b> (Güneş), gramatik olarak üçüncü tekil şahıs (It) olduğu için, fiil <b>'rise'</b> (doğmak) ek almalıdır. Bu kurala göre doğru çekim <b>'rises'</b> olmalıdır. (The sun <b>rises</b> in the east.)",
         "Donem": 1
     },
     {
@@ -1237,6 +1298,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Özne <b>'Sarp'</b>, üçüncü tekil şahıs (He) olduğu için, <b>Geniş Zaman (Simple Present Tense)</b> kuralına göre fiil <b>'-s'</b> takısı almalıdır. Bu cümle Sarp'ın bir yeteneğini/alışkanlığını belirtmektedir. <br>'Play' fiilinin doğru çekimi <b>'plays'</b> olmalıdır. (Sarp <b>plays</b> the piano very well.)",
         "Donem": 1
     },
     {
@@ -1257,6 +1319,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede bahçede bir yüzme havuzunun varlığından bahsedilmektedir. İngilizcede bir şeyin varlığını belirtmek için kullanılan yapı <b>'There is' (tekil)</b> veya <b>'There are' (çoğul)</b>'dır. 'swimming pool' tekil ve sayılabilen bir isimdir. Tekil, sayılabilen isimlerden önce <b>'a'</b> (sessiz harfle başlayanlar için) veya <b>'an'</b> (sesli harfle başlayanlar için) belirsiz tanımlığı kullanılır. 'swimming pool' sessiz harf sesiyle başladığı için doğru cevap <b>'a'</b> olmalıdır. <br/>(There is <b>a</b> swimming pool in the garden.)",
         "Donem": 1
     },
     {
@@ -1277,6 +1340,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle, Sinem'in fiziksel bir özelliğini (saçını) tanımladığı için sahiplik (possession) veya özellik belirtme fiili olan <b>'have/has'</b> yapısı kullanılmalıdır. Özne <b>'Sinem'</b> (tekil, üçüncü şahıs: She) olduğu için, Simple Present Tense kurallarına göre <b>'has'</b> veya <b>'has got'</b> fiili kullanılmalıdır. <br/>(Sinem <b>has</b> curly and long hair.)",
         "Donem": 1
     },
     {
@@ -1297,6 +1361,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede <b>'any'</b> kelimesi geçtiği için cümlenin olumsuz veya soru olması gerekmektedir. Cümle, bardakta suyun var olmadığını (existence) belirtmektedir. <b>'Water' (su)</b> sayılamayan bir isim olduğu için tekil yapı kullanılır (is). Olumsuzluk için <b>'There isn't' (There is not)</b> yapısı doğru olandır. <br/>(<b>There isn't</b> any water in the glass.)",
         "Donem": 1
     },
     {
@@ -1317,6 +1382,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle dağlarda çok miktarda oksijenin varlığından bahsetmektedir. İngilizcede varlık belirtmek için <b>'There is'</b> veya <b>'There are'</b> kullanılır. Özne olan <b>'oxygen' (oksijen)</b> sayılamayan (uncountable) bir isimdir ve bu nedenle dilbilgisel olarak tekil kabul edilir. Bu yüzden <b>'There is'</b> yapısı doğru olandır. ('a lot of' ifadesi miktar belirtse de, sayılamayan isimle kullanıldığında fiil tekil kalır.) <br/>(<b>There is</b> a lot of oxygen in the mountains.)",
         "Donem": 1
     },
     {
@@ -1337,6 +1403,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümledeki ilk kısım ('I’m not a rich person'), ikinci kısmın olumsuz bir sahiplik ifade etmesi gerektiğini gösterir. Özne <b>'I'</b> olduğu için Simple Present Tense'de olumsuz sahiplik <b>'do not have' (don't have)</b> şeklinde kurulur. <br/>(I’m not a rich person. I <b>don't have</b> a sports car.)",
         "Donem": 1
     },
     {
@@ -1357,6 +1424,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, ailenin bir eve sahip olduğunu belirtmektedir. <b>'My family'</b> (Ailem) İngilizcede genellikle tekil bir birim (it) olarak kabul edilir ve bu nedenle sahiplik fiili olarak <b>'has'</b> veya <b>'has got'</b> kullanılmalıdır. <br/>(My family <b>has</b> a nice house in Bursa.)",
         "Donem": 1
     },
     {
@@ -1377,6 +1445,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede sahiplik ifade edilmektedir. Özne <b>'My brother Hakan and I'</b> (Kardeşim Hakan ve Ben) çoğuldur (We). Çoğul özneler için sahiplik fiili olarak <b>'have'</b> veya <b>'have got'</b> kullanılır. <br/>(My brother Hakan and I <b>have</b> a dog.)",
         "Donem": 1
     },
     {
@@ -1397,6 +1466,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle amcanın iki motosiklete sahip olduğunu belirtmektedir. Özne <b>'My uncle'</b> (Amcam) tekil üçüncü şahıstır (He). Tekil üçüncü şahıslar için sahiplik fiili olarak <b>'has'</b> veya <b>'has got'</b> kullanılır. <br/>(My uncle <b>has</b> two motorbikes.)",
         "Donem": 1
     },
     {
@@ -1417,6 +1487,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, sepetteki elmaların varlığını ifade etmektedir. <b>'Apples'</b> çoğul sayılabilen bir isimdir. Çoğul sayılabilen isimlerle kullanılabilen niceleyiciler (quantifiers) arasında 'some', 'many', 'a lot of', 'five' gibi ifadeler bulunur. Ancak <b>'a'</b> ve <b>'an'</b>, yalnızca tekil sayılabilen isimlerden önce kullanılır. Dolayısıyla, boşluğa kesinlikle <b>'a'</b> veya <b>'an'</b> getirilemez.",
         "Donem": 1
     },
     {
@@ -1437,6 +1508,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, 'Arkadaşlarım harika öğretmenlerdir' anlamını vermekte, yani özne ile tanımı eşitlemektedir. Bu nedenle 'olmak' fiilinin (to be) doğru formu kullanılmalıdır. Özne <b>'My friends'</b> (Arkadaşlarım) çoğul olduğu için (They), Simple Present Tense’de <b>'are'</b> fiili kullanılır. <br/>(My friends <b>are</b> great teachers.)",
         "Donem": 1
     },
     {
@@ -1457,6 +1529,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Hayrettin'in yeni bir dağ bisikletine sahip olduğunu belirten bir cümledir. Özne <b>'Hayrettin'</b> tekil üçüncü şahıs (He) olduğu için sahiplik fiili <b>'has'</b> veya <b>'has got'</b> olmalıdır. <br/>(Hayrettin <b>has</b> a new mountain bike.)",
         "Donem": 1
     },
     {
@@ -1477,6 +1550,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle, onların bir spor arabaya sahip olduğunu belirtmektedir. Özne <b>'They'</b> çoğul olduğu için sahiplik fiili <b>'have'</b> veya <b>'have got'</b> kullanılmalıdır. <br/>(They <b>have</b> an American sports car.)",
         "Donem": 1
     },
     {
@@ -1497,6 +1571,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, Emma'nın birçok akrabaya sahip olduğunu belirtmektedir. Özne <b>'Emma'</b> tekil üçüncü şahıs (She) olduğu için sahiplik fiili <b>'has'</b> veya <b>'has got'</b> olmalıdır. <br/>(Emma <b>has</b> lots of relatives.)",
         "Donem": 1
     },
     {
@@ -1517,6 +1592,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, benim ve arkadaşımın bir probleme sahip olduğunu belirtmektedir. Özne <b>'My friend Nicolas and I'</b> (Biz/We) çoğul olduğu için sahiplik fiili <b>'have'</b> veya <b>'have got'</b> kullanılmalıdır. <br/>(My friend Nicolas and I <b>have</b> a problem.)",
         "Donem": 1
     },
     {
@@ -1537,6 +1613,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, Joe ve Frank'in bir kız kardeşe sahip olduğunu belirtmektedir. Özne <b>'Joe and Frank'</b> çoğul (They) olduğu için sahiplik fiili <b>'have'</b> veya <b>'have got'</b> kullanılmalıdır. <br/>(Joe and Frank <b>have</b> a sister.)",
         "Donem": 1
     },
     {
@@ -1557,6 +1634,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Verilen kelimeler, <b>'have got'</b> yapısıyla kurulmuş bir sahiplik cümlesi oluşturmaktadır. İngilizcede kurallı bir cümle yapısı Özne + Yüklem + Nesne şeklindedir. Burada yüklem 'have got'tur. Doğru sıralama: Özne (we) + Sahiplik Fiili (have got) + Miktar (five) + Nesne (concert tickets). <br/>Doğru cümle: <b>We have got five concert tickets.</b>",
         "Donem": 1
     },
     {
@@ -1577,6 +1655,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Verilen kelimeler, <b>'There is'</b> yapısıyla kurulmuş bir varlık (existence) cümlesi oluşturmaktadır. Cümle, bir arabanın otoparkta var olduğunu ifade etmelidir. Doğru sıralama: Varlık İfadesi (There is) + Nesne (a car) + Yer Edatı (at) + Yer (the car park). <br/>Doğru cümle: <b>There is a car at the car park.</b>",
         "Donem": 1
     },
     {
@@ -1597,6 +1676,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Verilen kelimeler, basit bir sahiplik cümlesi (have) oluşturmaktadır. Standart pozitif cümle yapısı: Özne (I) + Yüklem (have) + Nesne (some problems). <br/>Doğru cümle: <b>I have some problems.</b>",
         "Donem": 1
     },
     {
@@ -1617,6 +1697,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle teyzenin dört çocuğu olduğunu belirtmektedir. Özne <b>'My aunt'</b> (Teyzem) tekil üçüncü şahıstır (She). Tekil üçüncü şahıslar için sahiplik fiili olarak <b>'has'</b> veya <b>'has got'</b> kullanılır. <br/>(My aunt <b>has</b> four children.)",
         "Donem": 1
     },
     {
@@ -1637,6 +1718,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, Ziona Chana'nın sahip olduğu eş ve çocuk sayısını belirtmektedir. Özne <b>'Ziona Chana'</b> tekil üçüncü şahıs (He) olduğu için sahiplik fiili olarak <b>'has'</b> veya <b>'has got'</b> kullanılmalıdır. Bu fiil, aile üyelerine veya diğer nesnelere sahip olmayı ifade eder. <br/>(Ziona Chana <b>has</b> 39 wives, 94 children and 33 grandchildren.)",
         "Donem": 1
     },
     {
@@ -1657,6 +1739,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu cümle, İngilizcede isimleri belirtmek için kullanılan <b>tanımlıklar (articles)</b> konusunu içermektedir. İlk boşlukta, \"car\" (araba) kelimesi ilk kez tanıtıldığı ve tekil, sayılabilen bir isim olduğu için belirsiz tanımlık <b>\"a\"</b> kullanılır (\"a car\").<br>İkinci boşlukta ise, artık bahsedilen araba spesifik hale geldiği (önceki cümlede adı geçtiği) için belirli tanımlık <b>\"the\"</b> kullanılır (\"The car is very nice\"). Bu nedenle doğru sıralama \"a / the\" olmalıdır.",
         "Donem": 1
     },
     {
@@ -1677,6 +1760,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu cümle, <b>Simple Present Tense</b> (Geniş Zaman) yapısını ve sahip olmayı ifade eden fiilleri gerektirir. Cümle Robert'ın (he) bir aileye sahip olduğunu belirtmektedir. Özne \"he\" (Robert) olduğu için, sahip olmayı belirten fiil olan \"have\" üçüncü tekil şahıs kuralına uygun olarak <b>\"has\"</b> şeklinde çekimlenmelidir.<br>Cümlenin anlamı \"Robert çok mutlu çünkü kalabalık bir ailesi var/sahip.\" şeklinde tamamlanır.",
         "Donem": 1
     },
     {
@@ -1697,6 +1781,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu diyalogda, bir yerdeki nesnelerin veya yapıların varlığı sorulup cevaplanmaktadır. Tekil bir şeyin varlığını belirtmek için kullanılan yapı <b>\"There is\"</b> ifadesidir. Cevapta bahsedilen \"a big shopping center\" (büyük bir alışveriş merkezi) tekil olduğu için, boşluğa <b>\"there is\"</b> getirilmelidir.<br>Eğer birden fazla nesneden bahsedilseydi (\"shops and restaurants\"), \"There are\" kullanılırdı.",
         "Donem": 1
     },
     {
@@ -1717,6 +1802,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Bu cümle, bir şeyin var olmadığını belirten <b>\"There is / There are\"</b> yapısının olumsuz halini kullanmaktadır. Cümlede \"gift\" (hediye) tekil bir isimdir ve olumsuz cümlelerde sıklıkla kullanılan <b>\"any\"</b> kelimesi yer almaktadır. Bu nedenle, tekil ve olumsuz form olan <b>\"isn't\"</b> (is not) doğru cevaptır.<br>Cümlenin anlamı: \"Burada hiçbir hediye yok.\"",
         "Donem": 1
     },
     {
@@ -1737,6 +1823,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Boş bırakılan yere <b>\"How many\"</b> getirilmelidir. Çünkü \"students\" (öğrenciler) sayılabilen çoğul bir isimdir. Miktarını sormak için sayılabilen çoğul isimlerle birlikte <b>\"How many\"</b> kullanılır. Sayılamayan isimler için ise \"How much\" kullanılır. Soru, sınıfta kaç öğrenci olduğunu sormaktadır.",
         "Donem": 1
     },
     {
@@ -1757,6 +1844,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede \"water\" (su) sayılamayan bir isimdir ve \"It is not enough\" (Yeterli değil) ifadesi olumsuz bir anlam katmaktadır. Sayılamayan isimlerle yetersizliği vurgulamak için <b>\"little\"</b> (çok az, neredeyse hiç) kullanılır. <b>\"A little\"</b> ise 'biraz, yeterli miktarda' anlamına gelirken; <b>\"little\"</b> olumsuz anlam taşır ve eksikliği belirtir. Bu bağlamda, yeterli olmama durumu <b>\"little\"</b> ile ifade edilmelidir.",
         "Donem": 1
     },
     {
@@ -1777,6 +1865,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle olumlu bir ifadedir (\"There is...\"). \"Sugar\" (şeker) sayılamayan bir isimdir. Olumlu cümlelerde ve sayılamayan isimlerle belirsiz bir miktar belirtmek için genellikle <b>\"some\"</b> kullanılır. <b>\"Some\"</b>, 'biraz, birkaç' anlamına gelir.",
         "Donem": 1
     },
     {
@@ -1797,6 +1886,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, Simple Present Tense (Geniş Zaman) yapısında bir soru cümlesidir. Yardımcı fiil olarak <b>\"does\"</b> kullanıldığı için, boşluğa gelecek fiil (bus otobüsün istasyona varması/gelmesi) yalın halde (V1) olmalıdır. Eğer seçeneklerde 'arrive' varsa, \"What time does the bus <b>arrive</b> the station?\" anlamlı ve doğru bir yapıdır.",
         "Donem": 1
     },
     {
@@ -1817,6 +1907,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Konuşma, A kişisinin aç olduğunu söylemesi ve B kişisinin \"But (Ama)...\" diye cevap vermesi üzerine kuruludur. Bu, paranın (money - sayılamayan isim) yetersiz olduğu anlamına gelir. Sayılamayan isimlerle olumsuz veya yetersiz miktarı belirtmek için <b>\"little\"</b> (çok az) veya <b>\"not much\"</b> kullanılır. <b>\"Little\"</b>, yetersizlik ve olumsuzluk vurgusu yapar, bu yüzden doğru cevaptır.",
         "Donem": 1
     },
     {
@@ -1837,6 +1928,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "\"Kangroos and elephants\" (kangurular ve filler) sayılabilen çoğul isimlerdir. Olumlu cümlelerde sayılabilen çoğul isimlerin miktarını belirtmek için <b>\"many\"</b>, <b>\"some\"</b> veya <b>\"a lot of\"</b> gibi ifadeler kullanılır. <b>\"A lot of\"</b> hem sayılabilen hem de sayılamayan isimlerle olumlu cümlelerde yaygın olarak kullanılır ve büyük bir miktarı ifade eder.",
         "Donem": 1
     },
     {
@@ -1857,6 +1949,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede \"apples and oranges\" (elma ve portakallar) sayılabilen çoğul isimlerdir. Sayılabilen isimlerin miktarını sormak için <b>\"How many\"</b> kullanılır. Bu nedenle boşluğa <b>\"many\"</b> gelmelidir. (How many apples and oranges did you put in the box?)",
         "Donem": 1
     },
     {
@@ -1877,6 +1970,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle olumsuz bir yapıdır: \"There isn’t...\". Sayılamayan isim olan \"water\" (su) ile birlikte, olumsuz cümlelerde belirsiz bir miktar (hiç) belirtmek için <b>\"any\"</b> kullanılır. Anlamı şudur: Şişede <b>hiç</b> su yok.",
         "Donem": 1
     },
     {
@@ -1897,6 +1991,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "\"Friends\" (arkadaşlar) sayılabilen çoğul bir isimdir. Cümle olumlu olduğu için (I have...), belirsiz bir miktar (birkaç) belirtmek amacıyla <b>\"some\"</b> kullanılmalıdır. <b>\"Some\"</b>, sayılabilen çoğul ve sayılamayan isimlerle olumlu cümlelerde kullanılır.",
         "Donem": 1
     },
     {
@@ -1917,6 +2012,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Boşluktan sonra gelen ifade \"single ticket\" (tek yön bilet), tekil ve sayılabilen bir isimdir. İsim sessiz harfle başladığı için (s), belirsiz tekil isimler için kullanılan <b>\"a\"</b> (bir) artikeli getirilmelidir. Bu bir seçim sorusudur: \"Tek yön mü yoksa gidiş-dönüş bileti mi istersiniz?\"",
         "Donem": 1
     },
     {
@@ -1937,6 +2033,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı cümle, \"There is <b>much</b> traffic in İstanbul\" (İstanbul'da çok trafik var) veya daha yaygın kullanımıyla \"There is a lot of traffic in İstanbul\" yapısıdır. Verilen kelimeler arasında 'much', 'traffic' ve 'is' olduğundan, doğru yapı <b>\"There is much traffic in İstanbul.\"</b> olmalıdır. <b>Traffic</b> (trafik) sayılamayan bir isimdir, bu yüzden 'is' ve 'much' kullanılır.",
         "Donem": 1
     },
     {
@@ -1957,6 +2054,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle olumsuz bir ifadedir: \"I didn’t get...\". \"Rest\" (dinlenme) bu bağlamda sayılamayan bir isimdir. Olumsuz cümlelerde sayılamayan isimlerle 'hiç' anlamını vermek için <b>\"any\"</b> kullanılır. Cümlenin anlamı: Dün gece <b>hiç</b> dinlenemedim/uyuyamadım.",
         "Donem": 1
     },
     {
@@ -1977,6 +2075,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "\"Milk\" (süt) sayılamayan bir isimdir. Sayılamayan isimlerin miktarını sormak için <b>\"How much\"</b> kullanılır. Cümlenin anlamı: Ortalama bir günde ne kadar süt içersin?",
         "Donem": 1
     },
     {
@@ -1997,6 +2096,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "\"Traffic\" (trafik) sayılamayan bir isimdir. <b>\"A lot of\"</b> hem sayılabilen hem de sayılamayan isimlerle olumlu cümlelerde yaygın olarak 'çok' anlamında kullanılır. <b>\"There is a lot of traffic in İstanbul\"</b> yapısı doğru ve doğal bir ifadedir. \"Much\" daha çok soru ve olumsuz cümlelerde tercih edilir.",
         "Donem": 1
     },
     {
@@ -2017,6 +2117,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "\"Musical instruments\" (müzik enstrümanları) sayılabilen çoğul isimlerdir. Cümle olumlu olduğu ve çoğul isim içerdiği için \"There are...\" yapısıyla birlikte, 'çok sayıda' anlamını veren <b>\"many\"</b> veya <b>\"a lot of\"</b> kullanılabilir. Eğer seçeneklerde <b>\"many\"</b> varsa, bu ifade 'çok sayıda' müzik aleti olduğunu belirtir.",
         "Donem": 1
     },
     {
@@ -2037,6 +2138,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "\"Car\" (araba) tekil ve sayılabilen bir isimdir ve sessiz harf (c) ile başlamaktadır. Tekil, belirsiz bir nesneyi belirtmek için <b>\"a\"</b> belirsiz artikeli kullanılır. Cümlenin anlamı: Bu bir arabadır. (It is <b>a</b> car.)",
         "Donem": 1
     },
     {
@@ -2057,6 +2159,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "\"Busses\" (otobüsler) sayılabilen çoğul bir isimdir. Sayılabilen isimlerin sayısını sormak için <b>\"How many\"</b> kullanılır. Bu nedenle boşluğa <b>\"many\"</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -2077,6 +2180,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede bahsi geçen özne \"children\" (çocuklar) çoğul bir isimdir. <b>\"There is/There are\"</b> yapısında, çoğul isimlerle birlikte <b>\"are\"</b> kullanılır. \"There <b>are</b> no children in the garden\" (Bahçede hiç çocuk yok) anlamı sağlanır.",
         "Donem": 1
     },
     {
@@ -2097,6 +2201,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "\"Time\" (zaman) bu bağlamda sayılamayan bir isimdir. Cümle, <b>\"Could you give me...\"</b> yapısıyla bir rica veya teklif ifade etmektedir. Olumlu rica ve teklif cümlelerinde sayılamayan isimlerle birlikte <b>\"some\"</b> kullanılır. Anlamı: Bana <b>biraz</b> zaman verebilir misin, lütfen?",
         "Donem": 1
     },
     {
@@ -2117,6 +2222,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle olumsuz bir ifadedir: \"We don't have...\". \"Cheese\" (peynir) sayılamayan bir isimdir. Olumsuz cümlelerde ve sayılamayan isimlerle 'hiç' anlamını vermek için <b>\"any\"</b> kullanılır. Anlamı: Bizde <b>hiç</b> peynir yok.",
         "Donem": 1
     },
     {
@@ -2137,6 +2243,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede boş bırakılan yere gelmesi gereken ifade, uncountable (sayılamayan) bir isim olan <b>traffic</b> (trafik) kelimesinin miktarını belirtmelidir. Eğer seçenekler arasında yaygın bir miktar belirteci varsayarsak, 'çok' anlamına gelen <b>a lot of</b> ifadesi en uygunudur. <b>A lot of</b>, hem sayılabilir hem de sayılamayan isimlerle olumlu cümlelerde kullanılabilen standart bir miktar zarfıdır. Bu yapı, Ankara'da çok trafik olduğunu belirtir.",
         "Donem": 1
     },
     {
@@ -2157,6 +2264,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki ipucu, un/sayılamayan bir isim olan <b>flour</b> (un) miktarının <b>not enough</b> (yeterli değil) olduğunu ve bu yüzden daha fazla alınması gerektiğini belirtmektedir. Sayılamayan isimlerle kullanılan ve 'çok az, neredeyse hiç yok' anlamını vererek olumsuz bir durumu ifade eden miktar belirteci <b>little</b>'dır. (Eğer <b>a little</b> getirilseydi, 'az ama yeterli' anlamı çıkardı, bu da cümlenin devamıyla çelişirdi.)",
         "Donem": 1
     },
     {
@@ -2177,6 +2285,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede boşluktan sonra gelen <b>sugar</b> (şeker) sayılamayan bir isimdir. Cümlenin devamındaki <b>I don't like sweet too much</b> (çok tatlı sevmem) ifadesi, çayda az miktarda şeker olduğunu (ve bunun yeterli olduğunu) göstermektedir. Sayılamayan isimlerle kullanılan ve 'az, biraz' anlamına gelerek yeterli veya olumlu bir durumu ifade eden doğru miktar belirteci <b>a little</b>'dır.",
         "Donem": 1
     },
     {
@@ -2197,6 +2306,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, ofisteki <b>laptops</b> (dizüstü bilgisayarlar) sayısını sormaktadır. <b>Laptops</b>, sayılabilen çoğul bir isimdir. Sayılabilen isimlerin miktarını sormak için kullanılan soru kelimesi kalıbı <b>How many</b>'dir. (How much sayılamayan isimler için kullanılır.)",
         "Donem": 1
     },
     {
@@ -2217,6 +2327,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu bir bilet gişesi diyaloğudur. <b>Single ticket</b> (tek yön bilet) ifadesinin alternatifi sorulmaktadır. Genellikle tren veya otobüs yolculuklarında tek yön biletin zıttı ve diğer seçeneği <b>return ticket</b> (gidiş-dönüş bilet) veya <b>round-trip ticket</b>'tır. Yolcunun 'Single, please' demesi, bu ikili seçenekten birini seçtiğini doğrular.",
         "Donem": 1
     },
     {
@@ -2237,6 +2348,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Yolcu, <b>What time does the bus leave?</b> (Otobüs saat kaçta kalkıyor?) diye sormaktadır. Bu bir zaman sorusudur ve memurun cevabının spesifik bir zaman içermesi gerekmektedir. Örneğin: 'It leaves at 8 o'clock.' gibi bir zaman bilgisi vermesi beklenir.",
         "Donem": 1
     },
     {
@@ -2257,6 +2369,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "<b>Bread</b> (ekmek) genellikle sayılamayan bir isim olarak kabul edilir. Bu bir ricadır ('Can you give me...'). Sayılamayan isimlerle veya sayılabilen çoğul isimlerle, belirsiz bir miktar talep ederken veya teklif yaparken olumlu cümlelerde ve kibar rica cümlelerinde <b>some</b> kullanılır.",
         "Donem": 1
     },
     {
@@ -2277,6 +2390,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlede boşluktan sonra <b>time</b> (zaman) sayılamayan bir isim gelmektedir. Cümlenin devamındaki <b>Let’s go to a nice restaurant</b> (Hadi güzel bir restorana gidelim) ifadesi, dışarıda yemek yemek için yeterli/bol miktarda zamanları olduğunu göstermektedir. Bu bağlamda, 'çok zamanımız var' anlamına gelen <b>a lot of</b> (veya <b>plenty of</b>) ifadesi en uygunudur.",
         "Donem": 1
     },
     {
@@ -2297,6 +2411,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle, oturma odasında bir şeyin olduğunu belirtmektedir (<b>There is some...</b>). 'Some' genellikle sayılamayan isimlerle veya sayılabilen çoğul isimlerle kullanılır. Ancak yüklem <b>is</b> olduğu için, boşluğa kesinlikle <b>tekil bir sayılamayan isim</b> gelmelidir. Oturma odası bağlamında yaygın ve sayılamayan bir isim <b>furniture</b> (mobilya) kelimesidir. (Furniture her zaman tekil kabul edilir.)",
         "Donem": 1
     },
     {
@@ -2317,6 +2432,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümledeki boşluktan önce kullanılan <b>\"for\"</b> edatı bir yönelme veya amaç belirtmektedir. Bu yapıdan sonra mutlaka bir <b>nesne zamiri</b> (object pronoun: me, you, him, her, it, us, them) kullanılmalıdır. Bu zamir, eylemin kendisine yöneltildiği veya eylemden etkilenen kişiyi/nesneyi ifade eder. Doğru nesne zamiri seçeneklere bağlıdır (örneğin 'them' veya 'me').",
         "Donem": 1
     },
     {
@@ -2337,6 +2453,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede yer alan <b>\"right now\"</b> (şu anda) ifadesi, eylemin konuşma anında devam ettiğini belirtir. Bu nedenle <b>Şimdiki Zaman (Present Continuous Tense)</b> kullanılmalıdır. Şimdiki Zaman yapısı: Özne + <b>am/is/are</b> + <b>fiil + -ing</b> şeklindedir. Melek (tekil üçüncü şahıs) olduğu için doğru yapı <b>is watching</b> (izliyor) olmalıdır.",
         "Donem": 1
     },
     {
@@ -2357,6 +2474,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu cümlede ikinci kısım (The video is for...) ilk kısımda bahsedilen <b>\"My children\"</b> (Çocuklarım) ifadesine atıf yapmaktadır. Çocuklar çoğul olduğu için (they), bu ismin yerini tutacak nesne zamiri <b>\"them\"</b> (onlar için) olmalıdır. Edatlardan sonra genellikle nesne zamirleri kullanılır.",
         "Donem": 1
     },
     {
@@ -2377,6 +2495,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlede kullanılan <b>\"at the moment\"</b> (şu anda) zaman zarfı, eylemin tam konuşma anında gerçekleştiğini ifade eder. Bu durum, <b>Şimdiki Zaman (Present Continuous)</b> kullanımını gerektirir. Melek (She) tekil özne olduğu için, boşluğa <b>is</b> yardımcı fiili ile fiilin <b>-ing</b> almış hali (örneğin 'is sleeping') gelmelidir.",
         "Donem": 1
     },
     {
@@ -2397,6 +2516,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Diyalogda B kişisi, o anki bir isteğini veya ihtiyacını dile getirmektedir. Bu tür anlık ve kişisel istekler için genellikle <b>\"want\"</b> (istemek) fiili <b>Geniş Zamanda (Simple Present)</b> kullanılır (I want). 'Want' fiili, genelde durumu belirten (stative) bir fiil olduğu için Şimdiki Zamanda (-ing) kullanılmaz. (Kibar bir ifade için 'I would like' da yaygındır.)",
         "Donem": 1
     },
     {
@@ -2417,6 +2537,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümledeki <b>\"am\"</b> yardımcı fiili ve <b>\"now\"</b> (şimdi) zaman zarfı, <b>Şimdiki Zaman (Present Continuous)</b> kullanıldığını gösterir. \"I am\" yapısını tamamlamak için ana fiilin <b>\"-ing\"</b> eki almış hali (eating, having vb.) getirilmelidir. Doğru cevap <b>am eating/am having</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -2437,6 +2558,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümledeki <b>\"now\"</b> (şimdi) zaman zarfı, eylemin şu anda yapılıyor olduğunu gösterir ve <b>Şimdiki Zaman (Present Continuous)</b> gerektirir. Özne 'I' olduğu için boşluğa <b>am having</b> ya da <b>am eating</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -2457,6 +2579,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede <b>\"are\"</b> yardımcı fiili kullanıldığı için, bu yapı <b>Şimdiki Zaman (Present Continuous)</b> kalıbındadır. Bu kalıbı tamamlamak amacıyla fiilin mutlaka <b>\"-ing\"</b> eki almış hali (örneğin <b>wearing</b> veya <b>putting on</b>) getirilmelidir.",
         "Donem": 1
     },
     {
@@ -2477,6 +2600,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede ana fiil <b>\"studying\" (-ing)</b> ve zaman zarfı <b>\"now\"</b> (şimdi) bulunduğu için, bu bir <b>Şimdiki Zaman</b> cümlesidir. Bu yapıyı kurmak için gerekli olan yardımcı fiil (to be) eksiktir. Özne <b>\"My sister\"</b> (Tekil, He/She) olduğu için uygun yardımcı fiil <b>\"is\"</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -2497,6 +2621,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede <b>\"now\"</b> zaman zarfı ve <b>\"waiting\" (-ing)</b> fiili bulunduğu için, bu bir <b>Şimdiki Zaman (Present Continuous)</b> soru cümlesidir. Soru yapısında <b>am/is/are</b> yardımcı fiilleri cümlenin başına gelir. Özne <b>\"you\"</b> olduğu için, doğru yardımcı fiil <b>\"Are\"</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -2517,6 +2642,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki <b>\"now\"</b> zaman zarfı, şu anda gerçekleşen bir eylemi ifade eder. Bu nedenle <b>Şimdiki Zaman</b> yapısı kullanılmalıdır. 'I' öznesi için yardımcı fiil <b>\"am\"</b> ve fiilin <b>-ing</b> almış hali (am having/am eating) boşluğa gelmelidir.",
         "Donem": 1
     },
     {
@@ -2537,6 +2663,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede fiil <b>\"enjoying\" (-ing)</b> formunda olduğu için bu bir <b>Şimdiki Zaman (Present Continuous)</b> cümlesidir. Özne <b>\"We\"</b> (çoğul) olduğu için, bu yapıya uygun yardımcı fiil <b>\"are\"</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -2557,6 +2684,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede <b>\"right now\"</b> (tam şu anda) ifadesi geçtiği için <b>Şimdiki Zaman</b> soru kalıbı kullanılmalıdır. Soru yapısı: WH-word + <b>am/is/are</b> + Özne + <b>Fiil + -ing</b>. Sarp (tekil) olduğu için ilk boşluğa <b>\"is\"</b>, ikinci boşluğa ise fiilin -ing almış hali (örneğin <b>doing</b>) gelmelidir.",
         "Donem": 1
     },
     {
@@ -2577,6 +2705,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümledeki <b>\"at the moment\"</b> ifadesi ve ana fiilin <b>\"working\" (-ing)</b> hali, cümlenin <b>Şimdiki Zaman (Present Continuous)</b> yapısında olduğunu gösterir. 'I' öznesi için kullanılan yardımcı fiil <b>\"am\"</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -2597,6 +2726,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "<b>\"Please do not disturb him\"</b> (Lütfen onu rahatsız etmeyin) uyarısı, kişinin o anda devam eden bir eylemle meşgul olduğunu ima eder. Bu nedenle <b>Şimdiki Zaman (Present Continuous)</b> kullanılmalıdır. Özne \"He\" olduğu için doğru yapı <b>is</b> yardımcı fiili ile fiilin <b>-ing</b> almış halidir (is sleeping, is studying vb.).",
         "Donem": 1
     },
     {
@@ -2617,6 +2747,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Diyalogdaki ilk kısım (\"What happened?\") hemen ardından gelen ve şu anda devam eden bir durumu sorguladığı için <b>Şimdiki Zaman (Present Continuous)</b> kullanılmalıdır. Soru yapısında özne \"you\" olduğu için, boşluklara sırasıyla <b>are</b> ve fiilin <b>-ing</b> almış hali (örneğin <b>crying</b>, ağlıyorsun) getirilmelidir.",
         "Donem": 1
     },
     {
@@ -2637,6 +2768,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlenin başındaki ünlem belirten ifade <b>\"Look!\"</b> (Bak!), eylemin tam konuşma anında gerçekleştiğini belirtir ve <b>Şimdiki Zaman (Present Continuous)</b> kullanılmasını gerektirir. \"They\" (onlar) öznesi çoğul olduğu için <b>are</b> yardımcı fiili ve fiilin <b>-ing</b> eki almış hali (örneğin are building) kullanılmalıdır.",
         "Donem": 1
     },
     {
@@ -2657,6 +2789,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "<b>\"Please, be quiet\"</b> (Lütfen sessiz ol) uyarısı ve <b>\"now\"</b> zaman zarfı, devam eden bir eylemin varlığını işaret eder. Bu durum <b>Şimdiki Zaman (Present Continuous)</b> kullanımını gerektirir. Özne \"The baby\" (tekil) olduğu için, boşluğa <b>is sleeping</b> (uyuyor) gibi bir ifade gelmelidir.",
         "Donem": 1
     },
     {
@@ -2677,6 +2810,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede <b>\"is\"</b> yardımcı fiili ve <b>\"now\"</b> (şimdi) zaman zarfı kullanıldığı için, boşluğa fiilin <b>Şimdiki Zaman (Present Continuous)</b> kuralına uygun olarak <b>\"-ing\"</b> eki almış hali (studying/learning) getirilmelidir.",
         "Donem": 1
     },
     {
@@ -2697,6 +2831,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlenin başındaki <b>\"Listen!\"</b> (Dinle!) uyarısı, konuşma anında gerçekleşen bir sesi/eylemi bildirdiği için <b>Şimdiki Zaman (Present Continuous)</b> kullanılır. Özne <b>\"Someone\"</b> (Biri) tekil kabul edildiği için <b>is knocking</b> (çalıyor) ya da <b>is ringing</b> (çalıyor) gibi bir yapı gelmelidir.",
         "Donem": 1
     },
     {
@@ -2717,6 +2852,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'at the moment' (şu anda) zaman zarfı kullanılmıştır. Bu ifade, eylemin konuşma anında gerçekleştiğini belirtir ve bu nedenle <b>Present Continuous Tense</b> (Şimdiki Zaman) kullanılmasını gerektirir. Present Continuous Tense yapısı (özne + am/is/are + Ving) şeklindedir. Özne ('Andrea Bocelli') tekil olduğu için 'is' yardımcı fiili ve ana fiilin -ing eki almış hali (örn: singing) getirilmelidir. Dolayısıyla boşluğa 'is' yardımcı fiilinden sonra gelen -ing'li fiil (örneğin 'singing' veya 'performing') gereklidir.",
         "Donem": 1
     },
     {
@@ -2737,6 +2873,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "A kişisinin sorusu ('Who does he want to call?') 'kimi' aramak istediğini sormaktadır. Bu soruya cevap verilirken, aramak istenen kişi bir isimle ya da <b>nesne zamiri</b> (object pronoun) ile belirtilmelidir. Örneğin, 'He wants to call <b>her</b>' (onu aramak istiyor) veya 'He wants to call <b>Alp</b>' gibi bir cevap uygun olacaktır. Cevabın 'who' sorusunu karşılaması esastır.",
         "Donem": 1
     },
     {
@@ -2757,6 +2894,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Verilen Türkçe cümledeki 'dinlemiyordu' ifadesi, geçmişte belirli bir süre devam eden bir eylemin olumsuz halini belirtir ve <b>Past Continuous Tense</b> (Geçmişte Devam Eden Zaman) yapısını gerektirir. Past Continuous Tense yapısı (özne + was/were + not + Ving) şeklindedir. 'Öğrenciler' (The students) çoğul özne olduğu için 'were not' (veya kısaltması 'weren't') yardımcı fiili ve 'dinlemek' fiilinin -ing almış hali ('listening') kullanılmalıdır. Doğru çeviri: 'The students <b>weren't listening</b> to the teacher'.",
         "Donem": 1
     },
     {
@@ -2777,6 +2915,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu diyalog, telefonda kimin aradığının sorulması ve cevaplanması durumunu göstermektedir. Telefonda kendini tanıtırken İngilizcede yaygın olarak kullanılan ifade 'It's <b>me</b>'dir. Bu ifade, 'telefondaki benim' anlamına gelir. Dolayısıyla boşluğa 'me' zamiri (veya konuşanın adı) gelmelidir.",
         "Donem": 1
     },
     {
@@ -2797,6 +2936,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Verilen cümle 'Çınar writes letters to his friends' <b>Simple Present Tense</b> (Geniş Zaman) ile yazılmıştır ve Çınar'ın genel bir alışkanlığını ifade eder. Cümlenin <b>Present Continuous Tense</b>'e (Şimdiki Zamana) çevrilmesi istendiğinde, eylemin şu anda gerçekleştiği vurgulanmalıdır. Yapı (özne + is + Ving) olmalıdır. Çınar tekil olduğu için 'is' yardımcı fiili ve 'write' fiilinin -ing almış hali ('writing') kullanılır. Doğru dönüşüm: 'Çınar <b>is writing</b> letters to his friends'.",
         "Donem": 1
     },
     {
@@ -2817,6 +2957,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlenin ilk kısmı ('We usually have a picnic at weekends') <b>Simple Present Tense</b> ile genel bir alışkanlığı belirtir. 'But today' (ama bugün) ve 'at the moment' (şu anda) ifadeleri ise bu alışkanlıktan farklı, konuşma anında gerçekleşen bir eylemi işaret eder. Bu nedenle ikinci kısımda <b>Present Continuous Tense</b> kullanılmalıdır. Özne ('we') çoğul olduğu için 'are' yardımcı fiili ve 'watch' fiilinin -ing almış hali ('watching') getirilmelidir: 'we <b>are watching</b> a movie at home at the moment'.",
         "Donem": 1
     },
     {
@@ -2837,6 +2978,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Boşluktan sonra gelen cümlede ('They are very beautiful') çoğul zamir ('They') ve çoğul 'are' yardımcı fiili kullanıldığı için, boşluğa getirilecek nesnenin <b>çoğul bir isim</b> olması gerekir. Örneğin, 'shoes' (ayakkabılar) veya 'earrings' (küpeler) gibi çoğul bir nesne cümlenin anlam bütünlüğünü sağlar.",
         "Donem": 1
     },
     {
@@ -2857,6 +2999,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "'Listen!' (Dinle!) ünlemi, dinleyicinin dikkatini o anda gerçekleşen bir sese veya eyleme çekmek için kullanılır. Bu durum, cümlenin <b>Present Continuous Tense</b> olmasını gerektirir. 'Someone' (birisi) öznesi daima tekil kabul edilir, bu yüzden 'is' yardımcı fiili ve fiilin -ing almış hali (örneğin 'knocking' - vuruyor) kullanılmalıdır: 'Someone <b>is knocking</b> at the door'.",
         "Donem": 1
     },
     {
@@ -2877,6 +3020,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlede 'at the moment' (şu anda) ifadesi bulunduğundan <b>Present Continuous Tense</b> kullanılmalıdır. İkinci cümle ('I can help you') yardım edebileceğini belirttiği için, ilk cümlenin anlamı 'şu anda meşgul olmamak' yönünde olmalıdır, yani olumsuz yapıda olması beklenir. 'I' öznesi ile 'am not' kullanılır ve ardından -ing'li bir fiil gelir (örneğin 'working' veya 'busy'). En uygun ifade, 'I <b>am not working</b> at the moment' (Şu anda çalışmıyorum) olacaktır, bu da yardım edebilme durumunu mantıklı kılar.",
         "Donem": 1
     },
     {
@@ -2897,6 +3041,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede \"last weekend\" (geçen hafta sonu) ifadesi geçmiş zamanı işaret eder. İngilizcede <b>Simple Past Tense</b> (Geçmiş Zaman) ile soru sorarken, özneden (you) önce yardımcı fiil olarak <b>Did</b> kullanılır. Did kullanıldığında esas fiil (play) <b>mastar haliyle</b> (V1) kalır. Bu nedenle boşluğa 'Did' getirilmelidir.",
         "Donem": 1
     },
     {
@@ -2917,6 +3062,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede \"last summer\" (geçen yaz) ifadesi geçmiş zamanı gösterir. Bu tip geçmiş zamanda durum bildiren veya bir yerde bulunmayı ifade eden cümlelerde <b>'to be' fiilinin geçmiş zaman formu</b> kullanılır. \"We\" öznesi için kullanılan geçmiş zaman formu <b>were</b>'dir.",
         "Donem": 1
     },
     {
@@ -2937,6 +3083,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "A kişisi \"Duygu arkadaşlarını nerede gördü?\" diye <b>Simple Past Tense</b> (Geçmiş Zaman) ile yer (Where) sormaktadır. Cevap verirken özne (She/Duygu) ile başlanır ve fiilin <b>ikinci hali</b> (V2) kullanılır. 'See' fiilinin ikinci hali <b>saw</b>'dur ve arkasından bir yer belirtilmelidir. Cevabın \"She saw them...\" şeklinde başlaması gerekir.",
         "Donem": 1
     },
     {
@@ -2957,6 +3104,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "B kişisinin cevabı \"I went to cinema with my wife.\" (Eşimle sinemaya gittim) Simple Past Tense şeklindedir ve yapılan bir aktiviteyi anlatır. Yapılan aktiviteyi sormak için <b>What did you do?</b> (Ne yaptın?) sorusu kullanılır. Geçmiş zaman olduğu için <b>Did</b> yardımcı fiili kullanılarak soru oluşturulur.",
         "Donem": 1
     },
     {
@@ -2977,6 +3125,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede iki araba karşılaştırılmaktadır. İlk kısımda \"My car\" (Benim arabam) denilmiştir. İkinci kısımda ise \"senin araban\" anlamına gelen bir iyelik zamirine ihtiyaç vardır. <b>yours</b> kelimesi <b>possessive pronoun</b> (iyelik zamiri) olup, \"Your car\" yerine kullanılır ve karşılaştırmayı tamamlar.",
         "Donem": 1
     },
     {
@@ -2997,6 +3146,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlede \"Last summer\" (Geçen yaz) ifadesi geçmiş zamanı (<b>Simple Past Tense</b>) gerektirir. 'Go' fiilinin düzensiz geçmiş zaman hali (V2) <b>went</b>'tir. Bu, geçmişte tamamlanmış bir hareketi ifade eder.",
         "Donem": 1
     },
     {
@@ -3017,6 +3167,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede \"3 years ago\" (3 yıl önce) ifadesi geçmiş zamanda tamamlanmış bir eylemi belirtir. Bu nedenle <b>Simple Past Tense</b> kullanılır. Boşluğa, 'başlamak' veya 'bitirmek' fiilinin geçmiş zaman hali gelmelidir (örneğin 'I started/finished'). Düzenli geçmiş zaman fiilleri -ed takısı alır, örneğin <b>finished</b>.",
         "Donem": 1
     },
     {
@@ -3037,6 +3188,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "İngilizcede kurallı Simple Past Tense cümle dizilimi: <b>Özne (Subject) + Fiilin İkinci Hali (V2) + Nesne (Object) + Zaman ifadesi</b> şeklindedir. Doğru dizilim: \"We <b>watched</b> a nice film <b>yesterday</b>.\"",
         "Donem": 1
     },
     {
@@ -3057,6 +3209,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "\"Last year\" (geçen yıl) ifadesi geçmiş zamanı gösterir. Geçmiş zamanda durum bildiren cümlelerde <b>'to be' fiilinin geçmiş zaman hali</b> kullanılır. \"I\" öznesi için kullanılan geçmiş zaman formu <b>was</b>'dır.",
         "Donem": 1
     },
     {
@@ -3077,6 +3230,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, <b>Simple Past Tense</b> ile kurulmuş bir soru cümlesidir ('Did' ve 'last Saturday' kullanılmış). Geçmiş zamanda soru sorarken yardımcı fiil olarak <b>Did</b> kullanıldığı için, esas fiil <b>mastar halinde</b> (V1) kalmalıdır. 'Play' fiilinin mastar hali <b>play</b>'dir.",
         "Donem": 1
     },
     {
@@ -3097,6 +3251,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede \"Last night\" (Dün gece) ifadesi geçmiş zamanı (<b>Simple Past Tense</b>) işaret eder. Cümlede boşluğa gelecek fiil, geçmiş zaman haliyle (V2) olmalıdır. Eğer 'evde kalmak' anlamı hedefleniyorsa, 'stay' fiilinin düzenli geçmiş zaman hali <b>stayed</b>'dir.",
         "Donem": 1
     },
     {
@@ -3117,6 +3272,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "\"In 1998\" ifadesi geçmişte kesin bir zamanı belirtir ve <b>Simple Past Tense</b> kullanılmasını gerektirir. 'Ziyaret etmek' anlamındaki 'visit' fiilinin düzenli geçmiş zaman hali <b>visited</b>'dir. (He <b>visited</b> Turkey in 1998.)",
         "Donem": 1
     },
     {
@@ -3137,6 +3293,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede \"Two months ago\" (İki ay önce) ifadesi geçmiş zamanı gösterir ve yer (in England) bildirir. \"They\" öznesi için <b>'to be' fiilinin geçmiş zaman formu</b> <b>were</b>'dür.",
         "Donem": 1
     },
     {
@@ -3157,6 +3314,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Bu cümle, iki araba arasında zıtlık kurmaktadır. \"My car is black\" dedikten sonra, diğer arabanın (örneğin senin arabanın) beyaz olduğu söylenir. <b>yours</b> kelimesi <b>iyelik zamiri</b> (Possessive Pronoun) olup \"Your car\" yerine geçerek karşılaştırmayı tamamlar.",
         "Donem": 1
     },
     {
@@ -3177,6 +3335,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "\"A couple\" (birkaç, iki tane) miktar ifadesi, genellikle <b>of</b> edatıyla birlikte kullanılır ve arkasından çoğul bir isim gelir. \"A couple <b>of</b> shoes\" (birkaç çift ayakkabı) ifadesi kalıp olarak doğrudur.",
         "Donem": 1
     },
     {
@@ -3197,6 +3356,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "A kişisi \"Dün gece neredeydin?\" diye geçmiş zamanda <b>'to be' fiili</b> (Where were you) ile soru soruyor. \"I\" öznesi ile cevap verilirken 'to be' fiilinin geçmiş zaman hali olan <b>was</b> kullanılır.",
         "Donem": 1
     },
     {
@@ -3217,6 +3377,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede \"yesterday\" (dün) ifadesi geçmiş zamanı (<b>Simple Past Tense</b>) işaret eder. 'Help' (yardım etmek) fiilinin düzenli geçmiş zaman hali (V2) <b>helped</b>'dir.",
         "Donem": 1
     },
     {
@@ -3237,6 +3398,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, \"last week\" (geçen hafta) ifadesiyle geçmiş zamanı belirtir ve <b>olumsuz (negative)</b> yapıdadır (didn't). Simple Past Tense olumsuz cümlelerde yardımcı fiil olarak <b>didn’t</b> kullanıldıktan sonra esas fiil <b>mastar halinde</b> (V1) kalmalıdır. 'Go' fiilinin V1 hali <b>go</b>'dur.",
         "Donem": 1
     },
     {
@@ -3257,6 +3419,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "\"In 2010\" ifadesi geçmişte kesin bir zamanı belirtir. Cümlenin devamındaki 'playing basketball' ifadesiyle eylemin başlangıcı ifade edilmektedir. 'Start' (başlamak) fiilinin düzenli geçmiş zaman hali <b>started</b>'dır.",
         "Donem": 1
     },
     {
@@ -3277,6 +3440,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, \"Your book\" (Senin kitabın) ile başka bir kitabı karşılaştırmaktadır. Boşluğa gelecek kelime, \"My book\" (Benim kitabım) yerine kullanılan <b>iyelik zamiri</b> olmalıdır. <b>mine</b> kelimesi \"My + Noun\" yerine geçer ve zıtlığı tamamlar.",
         "Donem": 1
     },
     {
@@ -3297,6 +3461,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlede kullanılan \"last summer\" (geçen yaz) ifadesi, olayın geçmiş zamanda, belirli bir anda gerçekleştiğini belirtir ve bu nedenle <b>Geniş Zamanın Hikayesi (Past Simple Tense)</b> kullanılmalıdır. Öznenin (My wife and I = We) çoğul olması nedeniyle 'to be' fiilinin geçmiş zaman formu olarak <b>'were'</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -3317,6 +3482,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede boş bırakılan yere, cümlenin öznesi görevini üstlenecek bir <b>iyelik zamiri (Possessive Pronoun)</b> getirilmelidir. Bu zamir, cümlenin ikinci kısmında 'are' çoğul fiili ile kullanılarak, 'kendi arkadaşlarım/onların arkadaşları' gibi bir anlam yaratır. Örneğin, 'Mine' (Benimkiler, yani benim arkadaşlarım) doğruysa, bu <b>isim yerine geçen iyelik zamiri</b> doğru yapıyı oluşturur ve kendisinden sonra isim gerektirmez.",
         "Donem": 1
     },
     {
@@ -3337,6 +3503,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede kullanılan <b>\"yesterday\"</b> (dün) kelimesi, olayın geçmiş zamanda gerçekleştiğini gösterir ve <b>Geniş Zamanın Hikayesi (Past Simple Tense)</b> kullanılmasını gerektirir. 'To be' fiilinin Past Simple soru yapısında, özne 'you' olduğu için yardımcı fiil olarak <b>'were'</b> kullanılmalıdır. Soru yapısı: <b>Wh-word + were/was + Subject + ...?</b>",
         "Donem": 1
     },
     {
@@ -3357,6 +3524,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'the cat is...' ifadesi, kedinin kime ait olduğunu belirtmektedir. Kedi, 'my wife' (eşim) olarak belirtilen kişiye aittir. Cümleyi tamamlamak için ismin yerini tutan ve sahipliği belirten <b>iyelik zamiri (Possessive Pronoun)</b> gereklidir. 'My wife' (o kadın) için kullanılan iyelik zamiri <b>'hers'</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -3377,6 +3545,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "İki ismi birbirine bağlayarak aitlik, sahiplik veya ilişki bildiren temel edat (preposition) <b>'of'</b> kullanılır. \"What is the name <b>of</b> the cat?\" yapısı, 'kedinin adı' anlamını verirken <b>aitlik/iyelik</b> ilişkisini kurar. Bu tip yapılar genellikle 'isim + of + isim' şeklinde kurulur.",
         "Donem": 1
     },
     {
@@ -3397,6 +3566,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Verilen Türkçe cümlenin ('Hakan geçen Cumartesi futbol oynamadı') İngilizce karşılığı <b>Geniş Zamanın Hikayesi (Past Simple Tense)</b> olumsuz yapısıyla kurulmalıdır. Past Simple olumsuz yapısı: <b>Subject + didn't + V1 (fiilin yalın hali) + Object + Time Expression</b>. 'Geçen Cumartesi' ifadesi <b>'last Saturday'</b> olarak çevrilir. Doğru ifade: \"Hakan <b>didn't play</b> football last Saturday.\"",
         "Donem": 1
     },
     {
@@ -3417,6 +3587,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede zaman zarfı olarak <b>\"yesterday\"</b> (dün) geçtiği için, cümlenin <b>Geniş Zamanın Hikayesi (Past Simple Tense)</b> ile kurulması gerekir. Past Simple Tense'te, olumlu cümlelerde fiilin <b>ikinci hali (V2)</b> kullanılır. Seçilmesi gereken fiil, cümleyi geçmiş zamanda anlamlı kılabilecek, V2 formunda bir fiil olmalıdır (örneğin 'visited' veya 'saw').",
         "Donem": 1
     },
     {
@@ -3437,6 +3608,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle <b>Geniş Zamanın Hikayesi (Past Simple Tense)</b> olumsuz yapısındadır (didn’t...). İngilizcede Past Simple Tense'te olumsuzluk yapısı <b>didn't</b> ile kurulduğunda, ardından gelen ana fiil daima <b>yalın halde (V1 - Base Form)</b> kullanılmalıdır (Örn: didn't <b>tell</b>, didn't <b>know</b>).",
         "Donem": 1
     },
     {
@@ -3457,6 +3629,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümledeki zaman zarfı <b>\"yesterday\"</b> (dün) olduğu için <b>Geniş Zamanın Hikayesi (Past Simple Tense)</b> kullanılmalıdır. Past Simple olumlu cümle yapısında fiil, özne ne olursa olsun <b>ikinci hali (V2)</b> ile çekimlenir. Bu kural, düzenli ve düzensiz fiiller için geçerlidir.",
         "Donem": 1
     },
     {
@@ -3477,6 +3650,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'yesterday' (dün) zaman zarfı kullanıldığı için geçmiş zamanda bir olaydan bahsediliyor ve 'she called an ambulance' (ambulans çağırdı) eylemi, Dilek'in yaşadığı durumun acil bir durum olduğunu gösteriyor. Boşluğa gelmesi gereken kelime 'an' artikeli ile uyumlu ve acil bir durumu ifade eden bir isimdir. Genellikle bu tür durumlarda 'accident' (kaza) veya 'emergency' (acil durum) gibi kelimeler kullanılır. Eğer doğru cevap 'accident' ise, cümle 'Dilek had an <b>accident</b> yesterday' şeklinde tamamlanır. Bu, Simple Past Tense kullanılarak geçmişteki tek bir olayın anlatımına örnektir.",
         "Donem": 1
     },
     {
@@ -3497,6 +3671,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle 'I saw Cenk and Ali yesterday' (Dün Cenk ve Ali'yi gördüm) Simple Past Tense ile kurulmuştur. İkinci kısım, görülen kişilerin o anki durumunu veya yaptıkları eylemi belirtmelidir. Eğer cevap Simple Past ile devam ediyorsa, 'They <b>were</b> happy' veya 'They <b>went</b> home' gibi ifadeler gelebilir. Eğer seçenekler bir eylem belirtiyorsa, örneğin 'They were talking' gibi bir Past Continuous yapısı da gelebilir, ancak en temel Simple Past anlatımında genellikle bir durum veya tamamlanmış bir eylem belirtilir. Temel yapıya uygun olarak, Simple Past yardımcı fiili olan <b>be</b> fiilinin geçmiş hali 'were' ile bir durumun tasviri yapılır (örneğin: They <b>were</b> at the park).",
         "Donem": 1
     },
     {
@@ -3517,6 +3692,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Boşluktan sonra gelen 'are' fiili ve 'books' çoğul ismi, boşluğa gelmesi gereken kelimenin çoğul bir işaret zamiri (demonstrative pronoun) olması gerektiğini gösterir. Bu, yakındaki çoğul nesneleri işaret eden <b>These</b> (bunlar) veya uzaktaki çoğul nesneleri işaret eden <b>Those</b> (şunlar) kelimelerinden biri olmalıdır. Bu kelimeler cümlenin öznesi olarak kullanılabilir. (Örnek: <b>These</b> are my books.)",
         "Donem": 1
     },
     {
@@ -3537,6 +3713,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, Serpil'in doğum yılını (in 1985) ve yerini (in Holland) belirtmektedir. Geçmişte birinin doğduğu bilgisi verilirken her zaman Simple Past Tense’in pasif yapısı olan <b>was born</b> veya <b>were born</b> kullanılır. Özne Serpil (tekil) olduğu için doğru ifade <b>was born</b> olmalıdır. (Serpil <b>was born</b> in 1985 in Holland.)",
         "Donem": 1
     },
     {
@@ -3557,6 +3734,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki 'When you called me' (Beni aradığında) kısmı Simple Past Tense'tir ve geçmişte kısa süren bir olayı (arama eylemi) belirtir. Bu kısa eylem, genellikle arka planda devam etmekte olan daha uzun bir eylemi (Past Continuous) kesintiye uğratır. Bu nedenle ikinci kısımda <b>Past Continuous Tense</b> yapısı (was/were + Ving) kullanılmalıdır. (Örnek: When you called me, I <b>was taking</b> a shower.)",
         "Donem": 1
     },
     {
@@ -3577,6 +3755,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede 'while' (iken) bağlacı kullanılmıştır. 'While', genellikle iki eylemin geçmişte aynı anda devam ettiğini belirtmek için <b>Past Continuous Tense</b> ile kullanılır. 'The earthquake began' Simple Past Tense iken, 'we playing PS3' kısmı Past Continuous (geçmişte devam eden eylem) olmalıdır. 'We' öznesi çoğul olduğu için Past Continuous yardımcı fiili olarak <b>were</b> kullanılmalıdır. (we <b>were</b> playing PS3.)",
         "Donem": 1
     },
     {
@@ -3597,6 +3776,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede 'studying at university' ifadesi fiilin -ing formuyla birlikte kullanılmıştır. Bu yapı, 3 yıl önce geçmişte devam eden bir eylemi veya durumu anlatmak için <b>Past Continuous Tense</b> gerektirir. Özne 'They' (çoğul) olduğu için, yardımcı fiil olarak <b>were</b> kullanılmalıdır. (They <b>were</b> studying at university 3 years ago.)",
         "Donem": 1
     },
     {
@@ -3617,6 +3797,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Verilen kelimelerden Simple Past Tense'te anlamlı ve kurallı bir cümle oluşturulmalıdır. İngilizcede temel cümle yapısı: Özne + Fiil + Yer/Zaman Zarfı şeklindedir. 'Got up' birleşik bir fiildir. Doğru sıralama: Özne (Mustafa) + Fiil (got up) + Zaman ifadesi (at 7 o'clock) olmalıdır. (<b>Mustafa got up at 7 o'clock.</b>)",
         "Donem": 1
     },
     {
@@ -3637,6 +3818,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede 'I was' yardımcı fiili ve 'at this time yesterday' (dün bu saatte) zaman ifadesi, eylemin geçmişte belirli bir anda devam ettiğini gösterir ve <b>Past Continuous Tense</b> kullanılmasını gerektirir. 'Bicycle' (bisiklet) ile yapılan eylem 'sürmek' (ride) olduğu için, fiilin -ing hali olan <b>riding</b> boşluğa getirilmelidir. (I was <b>riding</b> bicycle at this time yesterday.)",
         "Donem": 1
     },
     {
@@ -3657,6 +3839,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümledeki 'doing' fiilinin -ing hali ve 'when you arrived' yapısı, bu cümlenin <b>Past Continuous Soru Tensesi</b> olduğunu gösterir. 'What' soru kelimesinden sonra yardımcı fiil gelmelidir. Özne 'he' (tekil) olduğu için, kullanılması gereken yardımcı fiil <b>was</b> olmalıdır. (What <b>was</b> he doing when you arrived at home?)",
         "Donem": 1
     },
     {
@@ -3677,6 +3860,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu cümle, <b>Simple Past</b> (When you called me) ve <b>Past Continuous</b> tenslerinin kullanımını gerektiren klasik bir kesinti senaryosudur. 'Beni aradığında' kısa bir eylem olup, arka planda devam eden 'ödev yapma' eylemini kesmiştir. Bu nedenle boşluğa Past Continuous yapısı (I öznesi için <b>was doing</b>) getirilmelidir. (I <b>was doing</b> my homework.)",
         "Donem": 1
     },
     {
@@ -3697,6 +3881,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Bu soru 142808 ile aynı yapıdadır. 'When you called me' (Beni aradığında) Simple Past eylemi, devam eden bir eylemi kesmiştir. Özne 'I' olduğu için <b>Past Continuous Tense</b> yardımcı fiili ve fiilin -ing hali kullanılmalıdır: <b>was doing</b>. (I <b>was doing</b> my homework.)",
         "Donem": 1
     },
     {
@@ -3717,6 +3902,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, 'at 8 o’clock yesterday' zaman ifadesiyle geçmişte belirli bir anda devam eden bir eylemi sormaktadır. Bu bir <b>Past Continuous Soru Cümlesi</b>dir. Boşluğa yardımcı fiil (Was/Were) gelmelidir. Eğer varsayılan özne 'you', 'we' veya 'they' ise <b>Were</b>, 'he', 'she', 'it' veya 'I' ise <b>Was</b> kullanılır. Eğer boşluğun arkasından bir özne gelecekse (örn: Were you), bu boşluğa gelen kelime yardımcı fiil <b>Was</b> veya <b>Were</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -3737,6 +3923,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Boşluktan sonra gelen 'building' kelimesi tekil bir isimdir ve 'is very old' tekil fiili ile takip edilmektedir. İkinci cümle ('They built it 3000 years ago') binanın çok eski olduğunu vurgular. Bu yapıda isimden hemen önce gelen kelime bir işaret sıfatı (Demonstrative Adjective) olmalıdır: <b>This</b> (bu) veya <b>That</b> (şu/o). (Örnek: <b>That</b> building is very old.)",
         "Donem": 1
     },
     {
@@ -3757,6 +3944,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Verilen kelimelerden <b>Past Continuous Tense</b> (Geçmişte Devam Eden Zaman) yapısında bir cümle kurulmalıdır. Temel Past Continuous sıralaması: Özne + was/were + Ving + Nesne + Zaman İfadesi. Doğru sıralama: Özne (I) + Yardımcı Fiil (was) + Ana Fiil (riding) + Nesne (bicycle) + Zaman İfadesi (at this time yesterday). (<b>I was riding bicycle at this time yesterday.</b>)",
         "Donem": 1
     },
     {
@@ -3777,6 +3965,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede 'washing his car' ifadesi fiilin -ing haliyle kullanılmıştır ve 'Yesterday' zaman zarfı geçmişte devam eden bir eylemi işaret eder. Bu durum <b>Past Continuous Tense</b> kullanımını gerektirir. Özne 'he' (tekil) olduğu için, kullanılması gereken yardımcı fiil <b>was</b> olmalıdır. (Yesterday he <b>was</b> washing his car.)",
         "Donem": 1
     },
     {
@@ -3797,6 +3986,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümledeki 'When I woke up' (Uyandığımda) kısmı Simple Past Tense'tir. Onların 'having breakfast' (kahvaltı yapıyor olma) eylemi, ben uyandığımda devam eden bir eylemdi. Özne 'they' (çoğul) olduğu için, <b>Past Continuous Tense</b> yardımcı fiili olarak <b>were</b> kullanılmalıdır. (They <b>were</b> having breakfast.)",
         "Donem": 1
     },
     {
@@ -3817,6 +4007,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede 'while' (iken) bağlacı kullanılmıştır. 'While', genellikle geçmişte aynı anda gerçekleşen iki uzun eylemi bağlar. 'I called the police and the ambulance' Simple Past'tır ve arka planda 'they driving away' (uzaklaşıyor olma) eylemi devam ediyordu. Özne 'they' (çoğul) olduğu için Past Continuous yardımcı fiili olarak <b>were</b> kullanılmalıdır. (while they <b>were</b> driving away.)",
         "Donem": 1
     },
     {
@@ -3837,6 +4028,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, 'he going yesterday' yapısı ve sondaki soru işareti ile <b>Past Continuous Soru Cümlesi</b> olduğunu gösterir. Eğer bu bir Yes/No sorusu ise, yardımcı fiil başa gelmelidir. Özne 'he' (tekil) olduğu için, kullanılması gereken yardımcı fiil <b>Was</b> olmalıdır. (<b>Was</b> he going yesterday?)",
         "Donem": 1
     },
     {
@@ -3857,6 +4049,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede 'books' (kitaplar) sayılabilen çoğul bir isimdir ve 'last summer' ifadesi geçmiş zamanda tamamlanmış bir eylemi belirtir. Boşluğa gelmesi gereken kelime, sayılabilen çoğul isimleri niteleyen bir miktar belirtecidir (quantifier). Bu bağlamda, 'çok sayıda' anlamına gelen <b>many</b> veya <b>a lot of</b> gibi niceleyiciler uygundur. (Örnek: I read <b>many</b> books last summer.)",
         "Donem": 1
     },
     {
@@ -3877,6 +4070,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu cümle, 2000 yıl önce inşa edilmiş, yani <b>çok eski ve tarihi</b> bir binayı işaret etmektedir. Boşluğa gelmesi gereken kelime, genellikle o binanın tekilliğini veya spesifik bir yapı olduğunu vurgulayan bir belirteç olmalıdır (The, This, That). Sorunun içeriği, <b>mimari</b> ve <b>tarihsel zaman dilimleri</b> (2000 years ago) kavramlarını içerdiği için ilgili ünitede bu tür yapılarla ilgili kelimelerin (örneğin: castle, monument, ancient) öğrenilmesi önemlidir. Eğer doğru cevap \"The\" ise, bu, bağlam içinde bilinen tekil bir nesneyi (<b>the building</b>) işaret ettiği için mantıklıdır. Eğer seçenek bir işaret sıfatıysa (That), uzaklığı belirtmektedir.",
         "Donem": 1
     },
     {
@@ -3897,6 +4091,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu cümle, geçmişte <b>aynı anda devam eden iki eylemi</b> anlatmaktadır. 'While' (iken) bağlacı, genellikle her iki cümlenin de <b>Past Continuous Tense</b> (Geçmiş Devamlı Zaman) ile kurulmasını gerektirir: While + S + was/were + Ving, S + was/were + Ving. İlk kısım 'I was watching TV' olduğuna göre, ikinci kısım da 'he' öznesine uygun olarak 'was + Ving' formunda olmalıdır (Örn: <b>was studying</b> / <b>was sleeping</b>). Bu yapı, iki uzun eylemin geçmişte birbiriyle kesişmeden eş zamanlı ilerlediğini ifade eder.",
         "Donem": 1
     },
     {
@@ -3917,6 +4112,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle, babanın sağlık sorunları (health problems) olduğunu belirtmektedir. Sağlık sorunları olan birinin ihtiyacı olan şey <b>tıbbi bir yardım veya hizmettir</b>. Bu nedenle, boşluğa 'medical' (tıbbi) kelimesiyle birlikte kullanılan ve ihtiyaç duyulan hizmeti anlatan bir isim gelmelidir. Doğru cevap büyük olasılıkla <b>care</b> (bakım) ya da <b>treatment</b> (tedavi) olmalıdır. <b>Medical care</b> (tıbbi bakım), sağlık sorunları için gerekli olan yardımı ifade eden en yaygın kullanılan ifadedir.",
         "Donem": 1
     },
     {
@@ -3937,6 +4133,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki zaman yapısı <b>Past Continuous Tense</b>'dir ('was playing'). Past Continuous Tense'de kullanılan yardımcı fiil (was/were), özne ile uyumlu olmalıdır. 'Was' yardımcı fiili sadece <b>tekil özneler</b> (I, He, She, It veya tekil isimler) ile kullanılır. Soru, boşluğa hangisinin <b>getirilemeyeceğini</b> sorduğuna göre, gelmeyecek olan kelime <b>çoğul bir özne</b> olmalıdır (Örn: <b>They</b>, We, You veya The boys). Çünkü bu özneler 'was' değil, <b>were</b> yardımcı fiilini gerektirir.",
         "Donem": 1
     },
     {
@@ -3957,6 +4154,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu cümle, iki farklı nesneyi (book) karşılaştıran bir yapı kullanmaktadır ('...boring, but that book interesting'). İngilizcede tekil nesneleri işaret etmek ve karşılaştırmak için <b>demonstrative adjectives</b> (işaret sıfatları) kullanılır. 'That' (o, şu) uzak olanı işaret ederken, karşıtlık yaratmak için boşluğa <b>This</b> (bu) kelimesi gelmelidir. \"This book\" (yakın olan) ve \"that book\" (uzak olan) bu yapıyı tamamlar. Her iki kelime de <b>tekil isimler</b> (book) ile doğru uyum içindedir.",
         "Donem": 1
     },
     {
@@ -3977,6 +4175,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Bu soru, <b>Past Continuous Tense</b> (Geçmiş Devamlı Zaman) yapısında kurulmuş bir bilgi sorusudur. Cümle yapısı ('What ... you doing') ve bağlam ('You didn’t answer my call', yani geçmişteki belirli bir anda ne yaptığı soruluyor) bunu göstermektedir. Past Continuous Tense'de 'You' öznesi ile kullanılan yardımcı fiil daima <b>were</b> olmalıdır. Doğru ve tam soru cümlesi 'What <b>were</b> you doing yesterday?' şeklindedir. Yardımcı fiillerin özneye göre kullanımı bu ünitenin temel konusudur.",
         "Donem": 1
     },
     {
@@ -3997,6 +4196,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Bu cümle, eylemin 2015'te başlayıp hala devam ettiğini veya sonuçlarının güncel olduğunu belirten <b>Present Perfect Tense</b> ile kurulmuştur (has worked). Belirli bir zaman başlangıç noktasını ('2015' gibi) belirtmek için <b>since</b> edatı kullanılır. Bu nedenle boşluğa <b>since</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -4017,6 +4217,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, deneyimleri sorgulayan bir <b>Present Perfect Tense</b> sorusudur (Have you...). Bu yapıda fiilin üçüncü hali (<b>Past Participle - V3</b>) kullanılır. 'Görmek' eyleminin V3 hali <b>seen</b> olduğu için boşluğa 'seen' getirilmelidir.",
         "Donem": 1
     },
     {
@@ -4037,6 +4238,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "B kişisinin cevabı (She has been there <b>for 5 days</b>) eylemin süresini belirtmektedir. Present Perfect Tense ile süreyi sormak için kullanılan temel soru kalıbı <b>How long</b>'dur (Ne kadar süredir?). Dolayısıyla boşluğa <b>How long has she been there?</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -4057,6 +4259,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu cümle <b>Present Perfect Tense</b> ile olumsuz olarak kurulmuştur (hasn't finished). Genellikle olumsuz cümlelerin veya soru cümlelerinin sonunda, bir eylemin <b>henüz</b> tamamlanmadığını belirtmek için <b>yet</b> zarfı kullanılır.",
         "Donem": 1
     },
     {
@@ -4077,6 +4280,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle <b>Present Perfect Tense</b> ile kurulmuştur (have lived) ve '1999' belirli bir başlangıç noktasıdır. Belirli bir zaman başlangıcını belirtmek için <b>since</b> (o zamandan beri) kullanılır. Süre uzunluğu belirtilseydi 'for' kullanılırdı.",
         "Donem": 1
     },
     {
@@ -4097,6 +4301,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "<b>So far</b> (şimdiye kadar) ifadesi, o ana kadar tamamlanmış deneyimleri veya başarıları anlatmak için <b>Present Perfect Tense</b> gerektirir. Özne 'I' olduğu için yardımcı fiil <b>have</b> ve ardından fiilin V3 hali (örneğin <b>visited</b>) gelmelidir.",
         "Donem": 1
     },
     {
@@ -4117,6 +4322,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "<b>Ever</b> (hiç) zarfı, bir deneyimin yaşanıp yaşanmadığını sormak için <b>Present Perfect Tense</b> soru cümlelerinde kullanılır. Fiil (seen) V3 halinde olduğu için, özneye uygun yardımcı fiil cümlenin başına gelmelidir. Yapı <b>Have you ever seen Japan?</b> şeklinde olmalıdır.",
         "Donem": 1
     },
     {
@@ -4137,6 +4343,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu cümle, bir eylemin tamamlandığını belirten <b>Present Perfect Tense</b> ile kurulmuştur (has finished). Eylemin beklenenden önce veya halihazırda tamamlandığını vurgulamak için <b>already</b> (çoktan) veya şimdiye kadarki bir başarıyı vurgulayan <b>so far</b> zarfı kullanılabilir.",
         "Donem": 1
     },
     {
@@ -4157,6 +4364,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>Present Perfect Tense</b> olumsuz cümlelerde (haven’t finished), eylemin henüz gerçekleşmediğini vurgulamak için cümlenin sonunda <b>yet</b> (henüz) zarfı kullanılır.",
         "Donem": 1
     },
     {
@@ -4177,6 +4385,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu bir <b>Present Perfect Tense</b> soru cümlesidir. Özne 'you' olduğu için cümlenin ilk boşluğuna yardımcı fiil <b>Have</b>, ikinci boşluğa ise ana fiilin üçüncü hali (V3), örneğin 'duymak' fiilinin V3 hali olan <b>heard</b> (Beni duydun mu?) gelmelidir. Yapı <b>Have you [V3] me?</b> şeklindedir.",
         "Donem": 1
     },
     {
@@ -4197,6 +4406,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, olayların veya maddelerin sırasını belirtmek için kullanılan <b>sıra sayılarını</b> (ordinal numbers) istemektedir. 'First' (Birinci) ve 'Third' (Üçüncü) arasındaki boşluğa <b>Second</b> (İkinci), 'Third'den sonraki boşluğa ise <b>Fourth</b> (Dördüncü) gelmelidir.",
         "Donem": 1
     },
     {
@@ -4217,6 +4427,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "İkinci (<b>second</b>) ve dördüncü (<b>fourth</b>) sıra sayıları arasında yer alan sayı <b>third</b> (üçüncü)'tür.",
         "Donem": 1
     },
     {
@@ -4237,6 +4448,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu bir <b>Present Perfect Tense</b> soru cümlesidir. Yardımcı fiil (Have) ve özne (you) zaten verilmiştir. Ana fiilin <b>V3</b> hali gelmelidir. Ödevin tamamlanıp tamamlanmadığını sormak için <b>finished</b> (tamamlamak/bitirmek) fiilinin V3 hali kullanılır.",
         "Donem": 1
     },
     {
@@ -4257,6 +4469,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, deneyim veya sonuç bildiren <b>Present Perfect Tense</b> ile kurulmuştur. Yardımcı fiil (have) mevcut olduğundan, boşluğa ana fiilin <b>V3</b> hali gelmelidir. Filmler için 'izlemek' fiilinin V3 hali <b>watched</b> veya 'görmek' fiilinin V3 hali <b>seen</b> uygundur.",
         "Donem": 1
     },
     {
@@ -4277,6 +4490,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "<b>Just</b> (az önce) zarfı, bir eylemin çok kısa süre önce tamamlandığını belirtmek için <b>Present Perfect Tense</b> ile kullanılır. Cümlede yardımcı fiil (has) mevcut olduğundan, boşluğa ana fiilin <b>V3</b> hali gelmelidir. Eve varmak eylemi için V3 hali <b>arrived</b> uygundur.",
         "Donem": 1
     },
     {
@@ -4297,6 +4511,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede <b>Present Perfect Tense</b> yapısı (have gone) kullanılmıştır. Boşluğa, eylemin az önce (<b>just</b>) veya çoktan (<b>already</b>) gerçekleştiğini belirten bir zaman zarfı gelmelidir. Bu zarflar, genellikle yardımcı fiil (have/has) ile fiilin V3 hali arasına yerleştirilir.",
         "Donem": 1
     },
     {
@@ -4317,6 +4532,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>Present Perfect Tense</b> olumsuz cümlelerde (haven’t completed), eylemin henüz tamamlanmadığını belirtmek için cümlenin sonunda <b>yet</b> (henüz) zarfı kullanılır.",
         "Donem": 1
     },
     {
@@ -4337,6 +4553,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu cümle, konuşma anında geçerli olan bir isteği ifade etmektedir. 'Want' (istemek) bir <b>durum fiili (state verb)</b> olduğu için genellikle <b>Simple Present Tense</b> ile kullanılır. Özne 'She' olduğu için fiil -s eki almalıdır: <b>wants</b>.",
         "Donem": 1
     },
     {
@@ -4357,6 +4574,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlenin ilk kısmı konuşma anındaki eylemi belirtse de (hızlı konuşmak), 'understand' (anlamak) fiili bir <b>durum fiilidir</b>. Durum fiilleri, kural gereği genellikle <b>Present Continuous Tense</b> yerine <b>Simple Present Tense</b> ile kullanılır. Bu nedenle olumsuz yapıda <b>don't understand</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -4377,6 +4595,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu cümle, bir eylemin (yaşamak) <b>süresini</b> (5 yıl) belirten <b>Present Perfect Tense</b> ile kurulmuştur (have lived). Süre uzunluğunu belirtmek için <b>for</b> (boyunca) edatı kullanılır. Eğer belirli bir başlangıç tarihi ('2015' gibi) olsaydı, 'since' kullanılırdı.",
         "Donem": 1
     },
     {
@@ -4397,6 +4616,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, <b>Present Perfect Tense</b> yapısını kullanmaktadır (I have...). Bu yapı, yardımcı fiil <b>have/has</b> ve ardından fiilin <b>past participle (V3)</b> halini gerektirir. Anahtar kelimeleri kaybetmek (lose) fiilinin V3 hali <b>lost</b>'tur. Bu tense, anahtarların geçmişte kaybedildiğini ve bu durumun (anahtarların olmaması) hala geçerli olduğunu ifade eder.",
         "Donem": 1
     },
     {
@@ -4417,6 +4637,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "A kişisinin sorusu olan <b>“How long has she been there?”</b>, bir durumun veya eylemin ne kadar süredir devam ettiğini sormaktadır. Bu tür sürece yönelik sorulara cevap verirken genellikle <b>Present Perfect Tense</b> kullanılır ve süre belirtmek için <b>for</b> (bir zaman dilimi için) veya <b>since</b> (bir başlangıç noktası için) kullanılır. Örneğin, 'She has been there <b>for</b> two hours' (İki saattir orada) şeklinde cevap verilmelidir.",
         "Donem": 1
     },
     {
@@ -4437,6 +4658,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümledeki boşluktan sonra listelenen 'a table and four chairs' (bir masa ve dört sandalye), genel olarak ev eşyalarının bir kategorisine örnektir. Bu eşyaların genel adı <b>furniture</b> (mobilya)'dır. Furniture İngilizcede <b>sayılamayan bir isimdir</b> (uncountable noun) ve bu nedenle önünde 'some' ile kullanılması yapısal olarak doğrudur.",
         "Donem": 1
     },
     {
@@ -4457,6 +4679,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümledeki <b>“for five years”</b> ifadesi, eylemin beş yıllık bir <b>süreç</b> boyunca devam ettiğini göstermektedir. Bu, <b>Present Perfect Simple Tense</b> kullanılmasını gerektirir. Eğer fiil 'sahip olmak' (have) ise, doğru yapı <b>have + had</b> yani 'I have had this car for five years' olmalıdır. Bu yapı, eylemin geçmişte başladığını ve şu ana kadar devam ettiğini belirtir.",
         "Donem": 1
     },
     {
@@ -4477,6 +4700,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, <b>Present Perfect Tense</b> kullanmaktadır (I have finished). Boşluğa, eylemi niteleyen ve yardımcı fiil (have) ile temel fiil (finished) arasına yerleştirilen bir <b>zaman zarfı</b> gelmelidir. Eğer ödevin çok kısa süre önce bittiği vurgulanmak isteniyorsa, <b>just</b> (henüz/az önce) zarfı kullanılır. <b>Just</b>, Present Perfect ile birlikte en sık kullanılan zarflardan biridir ve eylemin <b>çok yeni</b> tamamlandığını ifade eder.",
         "Donem": 1
     },
     {
@@ -4497,6 +4721,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "A kişisi \"What have you been doing?\" (Ne yapıyorsun/yapmaktaydın?) diye sorarak, son zamanlarda devam eden veya sonucu hala etkili olan bir aktiviteyi sormaktadır. Bu soru, <b>Present Perfect Continuous Tense</b> ile kurulmuştur (have/has + been + V-ing). Bu nedenle, B kişisinin cevabı da genellikle bu tense ile, yakın zamanda yapılan veya devam eden bir eylemi belirterek verilmelidir. Örneğin, \"I have been studying English\" veya \"I have been cleaning the house\" gibi bir cevap beklenir. Bu tense, <b>geçmişte başlayıp hala devam eden veya yakın zamanda bitmiş ve sonucu görülen eylemleri</b> vurgular.",
         "Donem": 1
     },
     {
@@ -4517,6 +4742,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "B kişisinin cevabında \"I did it two hours ago\" (Onu iki saat önce yaptım) ifadesi, eylemin beklenen zamandan önce veya çoktan tamamlandığını belirtmektedir. <b>'Already'</b> zarfı, genellikle <b>Present Perfect Simple</b> ile kullanılır ve bir eylemin beklenenden önce tamamlandığını vurgular. \"Yet\" olumsuz veya soru cümlelerinde kullanılırken, \"just\" ise çok kısa süre önce biten eylemleri belirtir. İki saat önce tamamlanmış bir eylem için, tamamlanma vurgusu 'already' ile yapılır.",
         "Donem": 1
     },
     {
@@ -4537,6 +4763,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle <b>Present Perfect Simple</b> yapısındadır (have + V3) ve geçmişten şimdiye kadar olan bir deneyimi veya tekrarlanan bir eylemi anlatmaktadır. Boşluğa, bu deneyimin sıklığını belirten bir ifade gelmelidir (örneğin 'many times', 'recently'). Bu zaman zarfları, <b>yaşanmış deneyimleri veya tamamlanmış sayısal sonuçları</b> belirtmek için Present Perfect Simple ile sıkça kullanılır.",
         "Donem": 1
     },
     {
@@ -4557,6 +4784,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>'Lately'</b> (son zamanlarda) ifadesi, geçmişte başlayıp konuşma anına kadar devam eden bir eylemi veya durumu belirtir. Bu tür zaman ifadeleri, genellikle <b>Present Perfect Simple</b> veya <b>Present Perfect Continuous</b> tense'leri gerektirir. Continuous tense, özellikle eylemin devamlılığını veya geçici doğasını vurgulamak için tercih edilir (Örn: I have been studying lately). Simple tense ise sonucu veya genel durumu belirtmek için kullanılabilir (Örn: I haven't seen her lately).",
         "Donem": 1
     },
     {
@@ -4577,6 +4805,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle <b>Present Perfect Continuous</b> yapısındadır (have been living). Boşluktan sonra gelen \"10 years\" ifadesi, eylemin devam ettiği <b>süreyi (duration)</b> belirtir. Bu tür süre ifadeleri için daima <b>'for'</b> edatı kullanılır. <b>'Since'</b> ise eylemin başladığı kesin zaman noktasını belirtmek için kullanılır.",
         "Donem": 1
     },
     {
@@ -4597,6 +4826,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "B kişisinin cevabı \"For five hours\" (Beş saattir) şeklinde bir süreyi belirtmektedir. Bir eylemin ne kadar süredir devam ettiğini sormak için kullanılan soru kalıbı <b>'How long'</b>dur. Cümledeki \"been watching\" yapısı ise sorunun <b>Present Perfect Continuous</b> tense ile sorulduğunu gösterir. Doğru soru kalıbı bu durumda \"How long have\" olmalıdır.",
         "Donem": 1
     },
     {
@@ -4617,6 +4847,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "A kişisi, \"How long have you been working...\" (Ne kadar süredir çalışıyorsun?) diye sorarak eylemin süresini öğrenmek istemektedir. <b>'Since'</b> ile başlayan cevaplar, bu eylemin başladığı <b>kesin zaman noktasını</b> (bir tarih, bir olay, bir yaş vb.) belirtmelidir. Örnek: Since 2010 / Since I graduated / Since last summer. Bu, eylemin o noktadan başlayıp günümüze kadar devam ettiğini gösterir.",
         "Donem": 1
     },
     {
@@ -4637,6 +4868,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümle \"I have been watching the game...\" şeklinde Present Perfect Continuous yapısındadır. \"Ten minutes\" ifadesi eylemin devam ettiği <b>süreyi (period of time)</b> belirtir. Bu nedenle, doğru edat <b>'for'</b> olmalıdır. <b>'For'</b> bir süreyi, 'since' ise başlangıç anını ifade eder.",
         "Donem": 1
     },
     {
@@ -4657,6 +4889,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede zaman zarfı olarak <b>'lately'</b> (son zamanlarda) ve eylemi olarak <b>'doing'</b> (V-ing) bulunmaktadır. Bu durum, cümlenin <b>Present Perfect Continuous Tense</b> ile kurulması gerektiğini gösterir. Soru yapısı bu tense için (Soru Kelimesi) + have/has + Özne + been + V-ing şeklindedir. Dolayısıyla, boşluğa \"have you been\" gelmelidir.",
         "Donem": 1
     },
     {
@@ -4677,6 +4910,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "B kişisinin cevabı \"For two hours\" (İki saattir) şeklinde bir süreyi (duration) belirtmektedir. Süreyi soran soru kelimesi daima <b>'How long'</b>dur. Cümledeki \"have you been working\" yapısı, sorunun Present Perfect Continuous tense'te olduğunu doğrular.",
         "Donem": 1
     },
     {
@@ -4697,6 +4931,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Zaman ifadesi \"This week\" (Bu hafta) olup, henüz tamamlanmamış bir zaman dilimini belirtir. \"Three books\" (üç kitap) ise tamamlanmış <b>sayısal bir sonucu veya miktarı</b> ifade eder. Miktarı veya sonucu vurgulamak için <b>Present Perfect Simple</b> tense kullanılır. Bu durumda \"I have read\" (Okudum) doğru cevaptır.",
         "Donem": 1
     },
     {
@@ -4717,6 +4952,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>'So far'</b> (Şimdiye kadar) ifadesi, geçmişten konuşma anına kadar olan süredeki kümülatif deneyimi veya başarıyı belirtir. Bu, <b>Present Perfect Simple</b> tense kullanımını zorunlu kılar (have/has + V3). Cümlenin bağlamına göre \"I have seen\" (Gördüm) ya da \"I haven't seen\" (Görmedim) şeklinde bir deneyim ifadesi gereklidir.",
         "Donem": 1
     },
     {
@@ -4737,6 +4973,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, \"for five days\" (beş gündür) ifadesi ile eylemin devam süresini belirtmektedir ve eylem fiili <b>'staying' (V-ing)</b> şeklindedir. Bu durum <b>Present Perfect Continuous</b> tense kullanımını gerektirir. Öznenin \"I\" olması nedeniyle doğru yardımcı fiil <b>\"have been\"</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -4757,6 +4994,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle <b>'since 8 pm last night'</b> (dün akşam 8'den beri) ifadesiyle başlangıç noktasını ve 'sleeping' (V-ing) fiilini kullanmaktadır. Bu, eylemin devam ettiğini gösterir ve <b>Present Perfect Continuous</b> tense gerektirir. Özne \"My sister\" (tekil) olduğu için doğru yardımcı fiil <b>\"has been\"</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -4777,6 +5015,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Soru <b>'How long'</b> ile başlamaktadır ve 'working' (V-ing) eylemini içerir. Bu, <b>Present Perfect Continuous</b> tense ile sürenin sorgulandığını gösterir. \"You\" öznesi için soru yapısı \"How long <b>have you been</b> working...\" şeklinde olmalıdır.",
         "Donem": 1
     },
     {
@@ -4797,6 +5036,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki \"watched this film twice\" ifadesi, geçmişten bugüne kadar <b>tamamlanmış bir deneyimi veya sonucu</b> (iki kez izleme) belirtir. Bu, <b>Present Perfect Simple</b> tense kullanımını gerektirir (have/has + V3). \"I\" öznesi için doğru yardımcı fiil <b>\"have\"</b>dir.",
         "Donem": 1
     },
     {
@@ -4817,6 +5057,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle \"for days\" (günlerdir) ifadesiyle süreyi belirtmektedir ve eylem fiili 'be' (ill = hasta olmak/olmakta) durumudur. Durum fiilleri (stative verbs) genellikle <b>Present Perfect Simple</b> ile kullanılır. Özne \"She\" olduğu için doğru yapı <b>\"has been\"</b> (olmuştur) şeklindedir. (She has been ill for days).",
         "Donem": 1
     },
     {
@@ -4837,6 +5078,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede <b>'for hours'</b> (saatlerdir) ifadesi, eylemin ne kadar süredir devam ettiğini vurgular. Devam eden ve süresi belirtilen eylemler için <b>Present Perfect Continuous</b> tense kullanılır. Bu durumda \"We <b>have been waiting</b> here for hours\" yapısı en uygunudur, eylemin hala devam ettiğini veya yeni bittiğini vurgular.",
         "Donem": 1
     },
     {
@@ -4857,6 +5099,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "<b>'So far'</b> (Şimdiye kadar) ifadesi, o ana kadar elde edilen <b>kümülatif sonucu veya deneyimi</b> belirtir. Bu bağlamda, eylem tamamlanmıştır ve <b>Present Perfect Simple</b> tense kullanılır. Fiilin 3. hali olan 'visited' kullanılarak, \"I <b>have visited</b> ten countries so far\" yapısı oluşturulur.",
         "Donem": 1
     },
     {
@@ -4877,6 +5120,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, Present Perfect Continuous (have been living) kullanarak eylemin günümüze kadar devam ettiğini belirtmektedir. <b>'Since'</b> bağlacının ardından gelen cümlecik, bu eylemin başladığı <b>kesin geçmiş zaman noktasını</b> (starting point) tanımlar. Bu tür zaman noktaları genellikle <b>Simple Past Tense</b> ile ifade edilir. Bu nedenle, 'graduate' fiilinin Simple Past hali olan <b>\"graduated\"</b> kullanılmalıdır.",
         "Donem": 1
     },
     {
@@ -4897,6 +5141,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümle, eylemin (yemek yemenin) \bhemen şimdi (just)\b tamamlandığını ve bunun mevcut durum üzerindeki etkisini (aç olmama) belirtmektedir. Bu tür hemen tamamlanmış eylemleri ifade etmek için \bPresent Perfect Simple\b (have + V3) kullanılır. Bu durumda boşluğa 'I have just \bhad\b dinner' veya 'I have just \bfinished\b dinner' gibi bir ifade gelmelidir.",
         "Donem": 1
     },
     {
@@ -4917,6 +5162,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, sabah başlayan ve \bşu ana kadar devam eden\b bir eylemi ifade etmektedir. Zaman başlangıcını belirten \b'since'\b kelimesi bu yapıyı gerektirir. Eylemin sürekliliğini vurgulamak için genellikle \bPresent Perfect Continuous\b (have been + Ving) kullanılır. Bu nedenle boşluğa 'I have \bbeen working\b since the morning' gibi bir ifade gelmelidir.",
         "Donem": 1
     },
     {
@@ -4937,6 +5183,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, iki hafta önce başlayan ve \bhala devam eden\b bir durumu (hasta olmayı) ifade eder. Belirli bir süredir devam eden durumları anlatmak için \bPresent Perfect Simple\b kullanılır. 'Be' fiili durum belirttiği için Continuous yerine Simple tercih edilir. Süre belirtmek için \b'for'\b edatı kullanılır. Boşluğa 'He \bhas been\b ill' gelmelidir.",
         "Donem": 1
     },
     {
@@ -4957,6 +5204,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, öğle vaktinden beri (midday) \bdevam eden bir bekleme eylemini\b ve bu eylemin süresini vurgulamaktadır. Başlangıç noktasını belirten \b'since'\b ile birlikte, eylemin sürekliliğini vurgulamak için \bPresent Perfect Continuous\b (have been + Ving) yapısı kullanılmalıdır. Boşluğa 'We \bhave been waiting\b' gelmelidir.",
         "Donem": 1
     },
     {
@@ -4977,6 +5225,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Alice'in \"Yes, I have\" şeklindeki kısa cevabı, sorunun \bPresent Perfect Simple\b ile sorulmuş bir 'Yes/No' sorusu olması gerektiğini gösterir (\bHave + Özne + V3\b). Bu yapı, geçmişte yapılan ancak şimdiki zamanla bağlantılı olan veya yaşam tecrübesi soran eylemler için kullanılır. (Örn: 'Have you \bseen\b her before?')",
         "Donem": 1
     },
     {
@@ -4997,6 +5246,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, 2020 yılında başlayan ve \bhala devam eden bir yaşam durumunu\b ifade eder. Başlangıç noktasını belirten \b'since'\b ile birlikte, yerleşik ve uzun süreli durumları anlatmak için genellikle \bPresent Perfect Simple\b (\bhas lived\b) kullanılır.",
         "Donem": 1
     },
     {
@@ -5017,6 +5267,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "B kişisinin cevabı \b'For five years'\b (beş yıldır) şeklinde bir süre belirttiği için, A kişisinin bu süreyi sorgulayan bir soru sorması gerekmektedir. Süreç veya müddet sorgulamak için kullanılan soru zarfı \b'How long'\b (Ne kadar süredir) dur. Cümle \bPresent Perfect Continuous\b yapısındadır.",
         "Donem": 1
     },
     {
@@ -5037,6 +5288,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, eylemin (çalışmanın) \bbu sabah başladığını ve halen devam ettiğini\b (Present Perfect Continuous) belirtmektedir. Eylemin başladığı \bkesin zaman noktasını\b (this morning) ifade etmek için \b'since'\b edatı kullanılır. Süreç belirtmek için 'for', başlangıç noktası belirtmek için '\bsince\b' kullanılır.",
         "Donem": 1
     },
     {
@@ -5057,6 +5309,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Uçağı (plane) kaçırma eylemi, gidilmesi gereken yerin <b>airport</b> (havaalanı) olduğunu gösterir. Cümle, uçağı kaçırma sebebinin havaalanına geç varmak olduğunu ifade eder. Bu bir temel <b>vocabulary</b> (kelime bilgisi) sorusudur.",
         "Donem": 1
     },
     {
@@ -5077,6 +5330,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümledeki <b>after</b> bağlacı, iki geçmiş eylemi sıralamaktadır. 'He <b>had sold</b> his car' (arabasını satmış olma) eylemi Past Perfect ile ifade edilmiş olup, daha önce gerçekleşen eylemdir. Araba satıldıktan sonra gerçekleşen 'a house buying' (ev alma) eylemi için ise <b>Simple Past</b> tense (bought) kullanılmalıdır. Simple Past, geçmişte belirli bir zamanda gerçekleşip bitmiş eylemleri ifade eder.",
         "Donem": 1
     },
     {
@@ -5097,6 +5351,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "<b>Before</b> bağlacı, Ali'nin varmasından (arrived - Simple Past) önce trenin istasyondan ayrıldığını belirtir. İki geçmiş olaydan daha önce gerçekleşen eylem (trenin ayrılması) için <b>Past Perfect</b> tense (had left) kullanılmalıdır. Past Perfect, geçmişteki bir olaydan önce tamamlanmış eylemleri ifade eder.",
         "Donem": 1
     },
     {
@@ -5117,6 +5372,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümledeki <b>after</b> bağlacı, telefonla aranma (called - Simple Past) eyleminden önce bir başka eylemin gerçekleştiğini gösterir. Bu daha önceki eylem <b>Past Perfect</b> yapısında olmalıdır. 'I had <b>V3</b>' kalıbı gereklidir. Örneğin: 'I had <b>slept</b>' veya 'I had <b>gone to bed</b>'. Bu yapı, arama eyleminden önce tamamlanan eylemi belirtir.",
         "Donem": 1
     },
     {
@@ -5137,6 +5393,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede <b>before</b> bağlacı kullanılmıştır ve eski arabayı satma (sold - Simple Past) eylemi daha sonra gerçekleşmiştir. Yeni araba alma eylemi daha önce gerçekleştiği için <b>Past Perfect</b> tense kullanılmalıdır. Past Perfect, <b>had</b> yardımcı fiili ve fiilin <b>üçüncü hali (V3)</b> ile kurulur. Boşluğa <b>had</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -5157,6 +5414,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki <b>because</b> (çünkü) bağlacı neden-sonuç ilişkisi kurar. Dışarı çıkmama (didn’t go out - Simple Past) eyleminin nedeni, ödevin yapılmamış olmasıdır. Ödevin yapılmamış olması daha önce gerçekleştiği için ikinci boşluğa <b>Past Perfect</b> (hadn’t done) gelmelidir. Birinci boşluğa ise <b>Simple Past</b> ile kurulan olumsuz fiil (didn’t go) gelmelidir.",
         "Donem": 1
     },
     {
@@ -5177,6 +5435,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Öğretmenin kızgın olması (was angry - Simple Past) durumu, öğrencilerin ödevlerini yapmamış olmasından kaynaklanmıştır. Ödevin yapılmamış olması durumu, kızgınlık anından daha önce gerçekleştiği için bu kısımda <b>Past Perfect</b> (hadn’t done) kullanılmalıdır. Past Perfect, geçmişte gerçekleşen bir eylemin nedenini belirtmek için kullanılır.",
         "Donem": 1
     },
     {
@@ -5197,6 +5456,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Filmin sıkıcı olması (was boring - Simple Past) durumu, konuşmacının filmi daha önce izlemiş olmasından kaynaklanmaktadır. 'It <b>before</b>' ifadesi, sıkıcılık durumundan önce gerçekleşen eylemi vurgular. Bu nedenle boşluğa <b>Past Perfect</b> (had seen/watched) getirilmelidir.",
         "Donem": 1
     },
     {
@@ -5217,6 +5477,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>When</b> bağlacı ile iki geçmiş eylem birleştirilmiştir. Eve varması (arrived - Simple Past) eylemi gerçekleştiğinde, ebeveynlerinin uyuma/yatma eylemi ondan daha önce tamamlanmıştır. İlk eylem için <b>Simple Past</b> (arrived), daha önce tamamlanan eylem için ise <b>Past Perfect</b> (had slept/gone to bed) kullanılmalıdır.",
         "Donem": 1
     },
     {
@@ -5237,6 +5498,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu cümle, İngiltere'ye gitme eyleminden (went - Simple Past) daha önce gerçekleşen bir eylemi (İngilizce öğrenme) sormaktadır. Geçmişteki bir eylemden daha önce tamamlanmış bir eylemi sormak için <b>Past Perfect</b> soru yapısı kullanılır. Bu yapı, cümlenin başında <b>Had</b> yardımcı fiilini gerektirir (Had you learnt...).<br/>Past Perfect = <b>Had + Özne + V3</b>.",
         "Donem": 1
     },
     {
@@ -5257,6 +5519,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Yağmurun başlaması eyleminden (started - Simple Past) önce futbol oynama eylemi tamamlanmıştır. <b>Before</b> bağlacı ile sıralanan geçmiş eylemlerden daha eski olanı için <b>Past Perfect</b> (had played) kullanılır. Past Perfect, diğer geçmiş eylemlere göre kronolojik olarak daha geride kalan eylemleri gösterir.",
         "Donem": 1
     },
     {
@@ -5277,6 +5540,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "<b>After</b> bağlacı, bankada çalışma eyleminin (had worked - Past Perfect) yeni bir işte çalışmaya başlamadan önce tamamlandığını gösterir. Daha eski eylem <b>Past Perfect</b> (had worked), daha yeni eylem ise <b>Simple Past</b> (started) ile ifade edilir. 'For ten years' ifadesi, bu eylemin diğer eylemden önce bir süre devam ettiğini belirtir.",
         "Donem": 1
     },
     {
@@ -5297,6 +5561,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Karakterler hakkında bilgi sahibi olma (knew - Simple Past) eylemi, o kitabı daha önce okumuş olma eylemine dayanır. Bilme eyleminden önce gerçekleşen okuma eylemi için <b>Past Perfect</b> (had read) kullanılmalıdır. Cümledeki <b>before</b> zarfı da Past Perfect kullanımını destekleyen önemli bir ipucudur.",
         "Donem": 1
     },
     {
@@ -5317,6 +5582,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Otobüs durağına varış eylemi (arrived - Simple Past) gerçekleştiğinde, otobüsün kalkmış olma eylemi ondan daha önce tamamlanmıştır. Bu nedenle otobüsün eylemi için <b>Past Perfect</b> (had left) kullanılmalıdır. <b>Already</b> (zaten) zarfı, eylemin beklenen zamandan önce tamamlandığını vurgular ve Past Perfect ile sıklıkla kullanılır.",
         "Donem": 1
     },
     {
@@ -5337,6 +5603,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "<b>After</b> bağlacından sonraki cümle <b>Past Perfect</b> (had invited) ile ifade edilmiştir, bu da davet etme eyleminin daha önce gerçekleştiğini gösterir. Sonraki eylem (yemek hazırlamaya başlama) ise <b>Simple Past</b> (started) ile ifade edilmelidir. İki geçmiş olaydan sonraki (ikincil) eylem Simple Past ile verilir.",
         "Donem": 1
     },
     {
@@ -5357,6 +5624,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "1990'larda Almanya'da yaşaması, geçmişte belirli bir zamanda gerçekleşen bitmiş bir eylem olduğu için <b>Simple Past</b> (lived) kullanılır. Ancak Belçika'da yaşaması, bu zamandan <b>before that</b> (önce) gerçekleştiği için <b>Past Perfect</b> (had lived) ile ifade edilmelidir. Past Perfect, geçmişteki referans noktasından daha eski eylemleri belirtir.",
         "Donem": 1
     },
     {
@@ -5377,6 +5645,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Eve varma ve bilmeme eylemleri (Simple Past) gerçekleştiğinde, arkadaşlarının partiyi organize etme eylemi bu olaylardan daha önce tamamlanmıştı. Arkadaşlarının eylemi, Simple Past eyleminden önce gerçekleştiği için <b>Past Perfect</b> (had prepared/planned) kullanılmalıdır.",
         "Donem": 1
     },
     {
@@ -5397,6 +5666,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Soruları kolayca cevaplama eylemi (Simple Past veya Past Perfect olarak kabul edilse bile), sınava girmeden önce çok sıkı çalışmış olmaktan kaynaklanmaktadır. Çalışma eylemi sonuçtan ve sınavdan daha önce tamamlandığı için <b>Past Perfect</b> (had studied) kullanılmalıdır. Boşluğa <b>had</b> yardımcı fiili gelmelidir.",
         "Donem": 1
     },
     {
@@ -5417,6 +5687,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Kızgın olma durumu (was angry - Simple Past), arkadaşının onu partiye davet etmeme eyleminden kaynaklanmıştır. Davet etmeme durumu kızgınlık anından daha önce gerçekleştiği için <b>Past Perfect</b> negatif yapısı (hadn't invited) kullanılmalıdır. Boşluğa <b>hadn't</b> getirilmelidir.",
         "Donem": 1
     },
     {
@@ -5437,6 +5708,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Sinemaya varış eylemi (arrived - Simple Past) gerçekleştiğinde, filmin başlama eylemi ondan daha önce tamamlanmıştı. İki geçmiş eylemden daha eski olanı (filmin başlaması) belirtmek için <b>Past Perfect</b> (had started) kullanılır. Bu, genellikle bir hayal kırıklığı veya geç kalma durumunu ifade eder.",
         "Donem": 1
     },
     {
@@ -5457,6 +5729,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Bu cümle, geçmişte art arda gerçekleşen iki eylemi ifade etmektedir. Komşunun anahtarları vermesi (Action 1), tatile gitmesinden (Action 2) <b>daha önce</b> gerçekleşmiştir. Geçmişte daha önce olan eylemi ifade etmek için <b>Past Perfect Tense</b> (had + V3) kullanılır (örneğin: had given), daha sonra olan eylemi ifade etmek için ise <b>Past Simple Tense</b> (V2) kullanılır (örneğin: left).<br/>Doğru yapı: My neighbour <b>had given</b> me the keys... before he <b>left</b> for holiday.",
         "Donem": 1
     },
     {
@@ -5477,6 +5750,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Diyalog, Jane'in sınavı neden kaçırdığına dair bir neden sormaktadır. Cevap (Terry'nin cümlesi) bu kaçırma olayının <b>sebebini</b> belirtmelidir. Geçmişteki bir olayın (sınavı kaçırma) sebebini açıklarken, sebebi teşkil eden daha önceki eylem veya durumu vurgulamak için sıklıkla <b>Past Perfect Tense</b> kullanılır. Bu, sınavı kaçırma eyleminden önce gerçekleşen ve kaçırmaya yol açan eylemi açıklar. Örnek bir cevap: 'She <b>hadn't set</b> her alarm clock.' veya 'The bus <b>had already left</b> before she arrived.'",
         "Donem": 1
     },
     {
@@ -5497,6 +5771,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, sınavın zorluğunu tanımlayan bir sıfat gerektirmektedir. 'She had expected an easier exam' (Daha kolay bir sınav beklemişti) ifadesi, sınavın beklenenin aksine zor, meşakkatli veya yorucu olduğunu ima eder. Bu bağlama uygun ve zorluğu vurgulayan sıfatlar arasında <b>demanding</b> (zahmetli, talepkâr), <b>difficult</b> (zor) veya <b>challenging</b> (meydan okuyucu) bulunur. Seçilen sıfat, 'hard' kelimesini destekleyerek sınavın yüksek beklenti ve çaba gerektirdiğini belirtmelidir.",
         "Donem": 1
     },
     {
@@ -5517,6 +5792,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu cümle, geçmişte art arda gerçekleşen iki eylemi gösterir: otobüsün ayrılması ve kişinin otogara varması. 'Before' (önce) bağlacı, otobüsün ayrılma eyleminin, kişinin otogara varma eyleminden <b>daha önce</b> gerçekleştiğini açıkça belirtir. Bu nedenle, daha önce gerçekleşen eylem için <b>Past Perfect Tense</b> (had + V3) kullanılır: 'The bus <b>had left</b>'. Daha sonra gerçekleşen eylem ise Past Simple Tense ile verilmiştir ('I got').",
         "Donem": 1
     },
     {
@@ -5537,6 +5813,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümle, ayakkabıları alamama (Past Simple: couldn't buy) durumunun <b>nedenini</b> açıklamaktadır. Parayı kaybetme eylemi, ayakkabıları alamama eyleminden <b>daha önce</b> gerçekleşmiş olmalıdır. Geçmişteki bir eylemin (alamama) sebebini belirten ve bu sebebin daha önce gerçekleştiğini gösteren yapılar için <b>Past Perfect Tense</b> (had + V3) kullanılır. Dolayısıyla boşluğa 'had lost' getirilmelidir: She couldn’t buy the shoes because she <b>had lost</b> her money.",
         "Donem": 1
     },
     {
@@ -5557,6 +5834,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Soru, birinin <b>fiziksel görünüşünü</b> sormaktadır (\"What does your brother look like?\"). Bu ifade, karakterini değil, boyunu, kilosunu, saç rengini vb. dış özelliklerini öğrenmeyi amaçlar. Cevapta bir fiziksel tanım verilmesi beklenir.",
         "Donem": 1
     },
     {
@@ -5577,6 +5855,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Soru, gelecekteki bir olay (yarınki maç) hakkındaki <b>fikri</b> sormaktadır. Cevap olarak bir görüş veya tahmin belirtilmesi gerekir. Bu tür tahminler genellikle 'I think' yapısıyla başlar ve <b>Simple Future Tense (will)</b> kullanılarak tamamlanır, örneğin: 'I think it will be a fantastic game.'",
         "Donem": 1
     },
     {
@@ -5597,6 +5876,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede <b>gelecek zaman</b> zarfı olan 'tomorrow' (yarın) bulunmaktadır. Bu tür kesinleşmiş veya genel gelecek eylemleri ifade etmek için <b>Simple Future Tense</b> (will + V1) yapısı kullanılır. Ayşe tekil olduğu için de fiil yalın halde kalır (will visit).",
         "Donem": 1
     },
     {
@@ -5617,6 +5897,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Kişinin <b>başkalarını umursamadığı</b> ('He doesn’t care about others') bilgisi verilmiştir. Bu özellik, kişinin <b>bencil</b> (selfish) olduğunu gösterir. Cümleyi tamamlayacak uygun sıfat 'selfish' olmalıdır.",
         "Donem": 1
     },
     {
@@ -5637,6 +5918,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Soru, kişinin <b>kilosu</b> hakkında seçenek sunmaktadır (\"Is he fat or thin?\"). Cevap, kişinin kilosuyla ilgili bir sıfat içermelidir. 'He is <b>neither fat nor thin</b>' (Ne şişman ne zayıf) veya 'He is <b>of medium build</b>' (orta yapılı) gibi bir fiziksel tanım beklenir.",
         "Donem": 1
     },
     {
@@ -5657,6 +5939,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Ali'nin <b>çalışmayı sevmediği</b> ('He doesn’t like working') belirtilmiştir. Bu durum, onun <b>tembel</b> (lazy) bir kişiliğe sahip olduğunu gösterir.",
         "Donem": 1
     },
     {
@@ -5677,6 +5960,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlenin <b>olumsuz gelecek zaman</b> (negative future) olarak tamamlanması istenmektedir. Gelecek zamanın olumsuz formu <b>will not</b> veya kısaltması olan <b>won't</b> yapısı ile kurulur: 'Your brother <b>won't pass</b> the exam.' (Kardeşin sınavı geçmeyecek.)",
         "Donem": 1
     },
     {
@@ -5697,6 +5981,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Soru, bir restoranda başlangıç yemeği (<b>starter</b>) olarak ne isteneceğini sormaktadır. Cevap, sipariş vermek için kullanılan <b>I'll have...</b> (I will have...) yapısını içermeli ve ardından bir yiyecek adı (örneğin <b>soup</b> veya <b>salad</b>) gelmelidir.",
         "Donem": 1
     },
     {
@@ -5717,6 +6002,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Kişinin <b>asla yalan söylemediği</b> ('He never lies') belirtilmiştir. Bu durum, onun <b>dürüst</b> (honest) olduğunu ifade eder.",
         "Donem": 1
     },
     {
@@ -5737,6 +6023,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Arkadaşının <b>çalışmayı sevdiği</b> ('likes working') belirtilmiştir. Bu, onun <b>çalışkan</b> (hardworking) olduğunu ifade eden pozitif bir kişilik özelliğidir.",
         "Donem": 1
     },
     {
@@ -5757,6 +6044,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Kişinin <b>konuşmayı sevmediği</b> ('She doesn’t like talking') bilgisi verilmiştir. Bu, onun <b>sessiz</b> (quiet) veya <b>utangaç</b> (shy) bir yapıda olduğunu gösterir.",
         "Donem": 1
     },
     {
@@ -5777,6 +6065,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Soru, kibarca salata teklif etmektedir (<b>would you like</b>). Cevap bu teklifi kabul veya reddetmeyi içermelidir. Kabul ederken 'Yes, please' veya 'Yes, I would' denilebilir.",
         "Donem": 1
     },
     {
@@ -5797,6 +6086,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "'I think' (sanırım/bence) ifadesi, genellikle <b>kişisel tahminleri</b> belirtir. Hava tahminleri veya kişisel inanca dayalı tahminler için <b>Simple Future Tense</b> (will + V1) kullanılır. Cümle, 'I think it <b>will rain</b> tonight' şeklinde tamamlanmalıdır.",
         "Donem": 1
     },
     {
@@ -5817,6 +6107,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Soru, <b>ayranın ne olduğunu</b> sormaktadır. Cevap, ayranın tanımını (geleneksel Türk içeceği) içermelidir: 'It is a <b>traditional Turkish drink</b> made of yoghurt and water.'",
         "Donem": 1
     },
     {
@@ -5837,6 +6128,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Kişinin <b>beklemeyi sevmediği</b> ('He doesn’t like waiting') belirtilmiştir. Bu durum, onun <b>sabırsız</b> (impatient) olduğunu ifade eder.",
         "Donem": 1
     },
     {
@@ -5857,6 +6149,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Kişinin <b>çalışmayı sevdiği</b> belirtilmiştir. Bu, onun <b>çalışkan</b> (hardworking) olduğunu gösteren pozitif bir kişilik özelliğidir. (Soru 143516 ile aynı bağlamdadır.)",
         "Donem": 1
     },
     {
@@ -5877,6 +6170,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "'Everything will be fine' (Her şey yolunda olacak) ifadesi bir güvence verir. Boşluğa, bu güvenceye bağlı olarak endişeli olunmadığını belirten bir sıfat gelmelidir. Bu bağlamda en uygun sıfat <b>worried</b> (endişeli) veya <b>concerned</b> (kaygılı) olur.",
         "Donem": 1
     },
     {
@@ -5897,6 +6191,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "'I will help you later' (Daha sonra yardım edeceğim) ifadesi, şu anki eylemin bir öncelik veya plan olduğunu gösterir. Bir projeyi bitirme niyeti veya planı genellikle <b>be going to</b> yapısıyla ifade edilir: 'I <b>am going to finish</b> a project.'",
         "Donem": 1
     },
     {
@@ -5917,6 +6212,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Diyalogda içecekler hakkında bir tercih sunulmuştur. Bu, konuşma anında verilen bir <b>anlık karar</b>dır. Anlık kararlar için <b>Simple Future Tense</b> (will + V1) kullanılır. Bu nedenle boşluk 'I <b>will have</b>' şeklinde tamamlanmalıdır.",
         "Donem": 1
     },
     {
@@ -5937,6 +6233,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "'We are looking forward to...' (dört gözle bekliyoruz) ifadesi, bahsedilen eylemin (Perge'yi ziyaret etme) <b>önceden planlanmış bir niyet</b> olduğunu gösterir. Önceden kararlaştırılmış planlar için <b>be going to</b> yapısı kullanılır. Doğru ifade 'We <b>are going to visit</b> Perge' olmalıdır.",
         "Donem": 1
     },
     {
@@ -5957,6 +6254,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümledeki \"We've bought the tickets\" (Biletleri aldık) ifadesi, gelecek hafta Londra'ya gitme eyleminin kesinleşmiş, önceden ayarlanmış bir <b>düzenleme (fixed arrangement)</b> olduğunu göstermektedir. İngilizcede, gelecekteki kesinleşmiş planları ve sabitlenmiş düzenlemeleri ifade etmek için yaygın olarak <b>Present Continuous (Şimdiki Zaman)</b> yapısı kullanılır. Cümlenin öznesi \"We\" olduğu için, boşluğa \"are going\" ifadesi getirilmelidir. (We <b>are going</b> to London next week.)",
         "Donem": 1
     },
     {
@@ -5977,6 +6275,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bu diyalog, bir restoranda geçmektedir. Tara menüyü aldıktan sonra (Here you are), boş bırakılan yere <b>siparişini bildiren</b> bir ifade gelmelidir. Restoranda sipariş vermek için kibar ve yaygın kullanılan kalıplar \"I'd like...\" (İsterim) veya \"I'll have...\" (Şunu alacağım) yapılarıdır. Bu yapılar <b>nazik rica ve tercihi</b> belirtir. (Örn: I'll have the roast chicken, please.)",
         "Donem": 1
     },
     {
@@ -5997,6 +6296,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki \"because it is too late now\" (çünkü şimdi çok geç) ifadesi, Filiz'in belirtilen eylemi (örneğin ders çalışma, dışarı çıkma gibi bir eylem) yapma <b>imkansızlığını veya yeteneksizliğini</b> zaman kısıtlaması nedeniyle ifade etmektedir. Bu durumda boşluğa \"yapamaz\" anlamı veren <b>'can't'</b> modal fiili getirilmelidir. 'Can't', <b>beceriksizlik ya da engel</b> durumlarında kullanılır. (Filiz <b>can't study</b> today, because it is too late now.)",
         "Donem": 1
     },
     {
@@ -6017,6 +6317,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümledeki \"because his computer’s speed is not good\" (çünkü bilgisayarının hızı iyi değil) ifadesi, öznenin yeni bir dizüstü bilgisayar alma <b>zorunluluğunu (necessity)</b> ortaya koyar. Üçüncü tekil şahıs ('He') için zorunluluk bildiren en yaygın yapılar <b>must</b> veya <b>has to</b>'dur. <b>'Has to'</b>, genellikle dış etkenlerden kaynaklanan zorunlulukları veya kuralları ifade ederken kullanılır ve \"to\" ile birlikte fiilin yalın hali gelir. (He <b>has to</b> buy a new laptop.)",
         "Donem": 1
     },
     {
@@ -6037,6 +6338,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "A kişisi \"What is she like?\" (O nasıl biridir?) sorusuyla birinin <b>kişilik özelliklerini</b> sormaktadır. B kişisinin yanıtında belirtilen \"She always thinks negatively\" (Her zaman olumsuz düşünür) ifadesi, bu kişinin <b>kötümser</b> bir yapıya sahip olduğunu gösterir. Bu nedenle boşluğa \"kötümser\" anlamına gelen <b>pessimistic</b> kelimesi getirilmelidir. (Kişi, olumlu düşünseydi <b>optimistic</b> (iyimser) olurdu.)",
         "Donem": 1
     },
     {
@@ -6057,6 +6359,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bu cümlede, kütüphanenin otobüs durağına göre konumunu belirtmek için bir yer edatı kullanılmalıdır. Seçenekler arasında (varsayılan doğru cevap) <b>\"next to\"</b> (yanında) edatı, bir şeyin hemen bitişiğinde olduğunu gösterir ve iki yer arasındaki yakın konumu ifade etmek için en yaygın kullanılan ifadelerden biridir.",
         "Donem": 1
     },
     {
@@ -6077,6 +6380,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Şehirler, ülkeler ve büyük coğrafi alanlar gibi geniş yerleşim yerlerinde ikamet etme durumunu ifade ederken genellikle <b>\"in\"</b> edatı kullanılır. \"Cenk lives in Bursa\" (Cenk Bursa'da yaşıyor) ifadesi bu coğrafi genişlik kuralına uyar.",
         "Donem": 1
     },
     {
@@ -6097,6 +6401,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "B kişisi, \"It’s behind the hospital\" (Hastanenin arkasında) diyerek bir yerin konumunu tarif etmektedir. Bu tür bir cevabı tetikleyecek soru, o yerin nerede olduğunu soran bir soru olmalıdır. <b>\"Where is the...\"</b> kalıbı, bir yerin konumunu sormak için kullanılan temel soru kalıbıdır.",
         "Donem": 1
     },
     {
@@ -6117,6 +6422,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede \"my books\" (kitaplarım) ve \"her books\" (onun kitapları) olmak üzere iki farklı nesne grubu belirtilmiştir. Bir nesnenin iki farklı nesne veya grup arasında olduğunu belirtmek için <b>\"between\"</b> (arasında) edatı kullanılır.",
         "Donem": 1
     },
     {
@@ -6137,6 +6443,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Nesnelerin bir yüzeyin üzerine temas halinde olduğunu belirtmek için <b>\"on\"</b> edatı kullanılır. Bir resmin duvarda asılı olduğunu ifade etmek için \"on the wall\" ifadesi doğru kullanımdır.",
         "Donem": 1
     },
     {
@@ -6157,6 +6464,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Eğer kale, birden fazla ağaç tarafından çevrelenmiş veya ağaçların ortasında yer alıyorsa, <b>\"among\"</b> (arasında/içinde) edatı kullanılır. Bu, üç veya daha fazla nesnenin ortasında olmayı ifade eder.",
         "Donem": 1
     },
     {
@@ -6177,6 +6485,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "A kişisi lisenin nerede olduğunu sormaktadır (Where is...). B kişisi ise bu soruya lisenin yerini tarif eden bir cümleyle cevap vermelidir. Bir yerin konumunu belirtmek için kullanılan en yaygın yapılar <b>yer edatları</b> (next to, opposite, behind vb.) içeren konumlardır, örneğin \"It is next to the library.\"",
         "Donem": 1
     },
     {
@@ -6197,6 +6506,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Bir nesnenin kapalı bir alanın, kutunun veya çantanın <b>içinde</b> olduğunu belirtmek için <b>\"in\"</b> edatı kullanılır. CD'lerin çantanın içinde olduğunu ifade etmek için bu edat uygundur.",
         "Donem": 1
     },
     {
@@ -6217,6 +6527,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Radyo, televizyon gibi yayın mecraları veya programları hakkında konuşurken <b>\"on\"</b> edatı kullanılır. \"Nothing on TV\" (TV'de hiçbir şey yok) ifadesi bu kurala uyar.",
         "Donem": 1
     },
     {
@@ -6237,6 +6548,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "İnsanların altın, elmas gibi değerli eşyaları satın aldıkları yer <b>\"jeweller's\"</b> (kuyumcu/mücevherci dükkanı) veya <b>\"jewellery shop\"</b>dur. Bu, verilen ürün kategorisi için doğru mekandır.",
         "Donem": 1
     },
     {
@@ -6257,6 +6569,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlenin anlamı \"Yemeği (öğünümüzü) ... yeriz.\" şeklindedir. Yemek yenen ve bu hizmetin verildiği ticari yerlere <b>\"restaurant\"</b> (restoran) denir.",
         "Donem": 1
     },
     {
@@ -6277,6 +6590,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "İnsanların akşam yemeği (dinner) yedikleri yer evin içindeki <b>\"dining room\"</b> (yemek odası) veya dışarıda bir restorandır. \"In the\" yapısı evin bir bölümünü işaret eder ve bu bağlamda \"dining room\" doğru cevaptır.",
         "Donem": 1
     },
     {
@@ -6297,6 +6611,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Babamın hasta olduğu belirtilmiştir (sick). Hastaların tedavi gördüğü ve kaldığı yer <b>\"hospital\"</b> (hastane)'dir. Cümle, babanın sağlık durumu nedeniyle nerede olduğunu açıklamaktadır.",
         "Donem": 1
     },
     {
@@ -6317,6 +6632,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Tatilde olmayı ifade eden İngilizcedeki sabit ifade kalıbı <b>\"on holiday\"</b> şeklindedir. Bu, zaman ve durum belirtmek için kullanılan yaygın bir deyimsel kullanımdır.",
         "Donem": 1
     },
     {
@@ -6337,6 +6653,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "A kişisi postanenin yerini sormaktadır. B kişisi bu soruya yer tarifi ile cevap vermelidir. Karşılıklı konuşmayı tamamlayan ifade, postane nerede olduğunu açıklayan, <b>yer edatları</b> (next to, opposite, behind vb.) içeren bir konum tanımı olmalıdır.",
         "Donem": 1
     },
     {
@@ -6357,6 +6674,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Ekmek (bread) satın aldığımız yer <b>\"bakery\"</b> (fırın/ekmek dükkanı)'dır. Bu, verilen ürün için spesifik ticaret yeridir.",
         "Donem": 1
     },
     {
@@ -6377,6 +6695,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Bir dükkanın sokağın köşesinde bulunduğunu ifade etmek için yaygın olarak kullanılan ifade <b>\"on the corner\"</b> veya <b>\"at the corner\"</b> dır. Bu, belirli bir noktadaki konumu belirtir.",
         "Donem": 1
     },
     {
@@ -6397,6 +6716,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Ülkeler, şehirler ve geniş bölgeler için ikamet edilen yeri belirtmek amacıyla <b>\"in\"</b> edatı kullanılır. \"Live in England\" ifadesi bu kurala uyar.",
         "Donem": 1
     },
     {
@@ -6417,6 +6737,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu cümle yol tarifi vermektedir. Bir sokak boyunca veya üzerinde hareket etme eylemini ifade etmek için <b>\"go along\"</b> (boyunca gitmek) veya <b>\"go down/straight on\"</b> ifadeleri kullanılır. Bu, hareketin başlangıcını tarif eder.",
         "Donem": 1
     },
     {
@@ -6437,6 +6758,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Bir şeyin bir kapalı alandan (çanta, kutu vb.) çıkarılması, içeriden dışarıya doğru hareketini ifade etmek için <b>\"out of\"</b> (içinden/dışarı) edat grubu kullanılır. 'Taking a gun out of his bag' (Çantasından silahı çıkarmak) anlamını verir.",
         "Donem": 1
     },
     {
@@ -6457,6 +6779,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki boşluğa, öznenin (He) iki kişi (his mother and brother) arasındaki konumunu belirten bir edat gerekmektedir. İki belirgin nesne, kişi veya yer arasında bulunma durumunu ifade eden edat <b>between</b>'dir. Bu nedenle doğru seçenek <b>between</b> olmalıdır.",
         "Donem": 1
     },
     {
@@ -6477,6 +6800,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle yapısı \"... of the hospital\" şeklinde olup, taksinin hastaneye göre yerini bildiren bir konum edatı gereklidir. İngilizcede yer belirtmek için sıkça kullanılan birleşik edatlardan biri <b>in front of</b>'dur (önünde). Boşluğa <b>in front</b> getirilerek, \"The taxi is <b>in front of</b> the hospital\" (Taksi hastanenin önündedir) anlamı sağlanır. <b>In front of</b>, bir şeyin hemen önünde veya yüzünün ona dönük olduğu anlamına gelir.",
         "Donem": 1
     },
     {
@@ -6497,6 +6821,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Bu paragrafta yol tarifi verilmektedir. Otobüsten indikten sonra bankayı solda göreceği ve bankadan sonra sağa döneceği belirtilmiştir. Bu hareket sırası, bankanın yanından <b>geçilmesi</b> gerektiğini gösterir. Bir noktanın veya nesnenin (bankanın) bir yanından diğer yanına doğru hareket etmeyi ifade eden edat <b>past</b>'tır. \"Go <b>past</b> the bank\" ifadesi, bankayı geçip yoluna devam etmesini emreder.",
         "Donem": 1
     },
     {
@@ -6517,6 +6842,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede kullanılan <b>hiding</b> (saklanmak) fiili gizlenmeyi ifade eder. Duvarın, oğlanı gizlediği bir konum belirtilmelidir. Bir nesnenin arkasında, görüş alanının dışında kalmayı ifade eden edat <b>behind</b>'dir. Bu nedenle \"The boy is hiding <b>behind</b> the wall\" (Çocuk duvarın arkasında saklanıyor) doğru ifadeyi oluşturur.",
         "Donem": 1
     },
     {
@@ -6537,6 +6863,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Aranılan kitabın yerini, bir raf (the shelf) ile ilişkilendirerek belirtmek gerekmektedir. Kitap, rafın yatay yüzeyi üzerinde durmaktadır. Yatay bir yüzey üzerinde teması ve konumu ifade etmek için kullanılan doğru edat <b>on</b>'dur. Bu bağlamda, \"The book you are looking for is <b>on</b> the shelf\" (Aradığın kitap raftadır) doğru kullanımdır.",
         "Donem": 1
     },
     {
@@ -6557,6 +6884,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "A: 'When were you born?' (Ne zaman doğdun?) sorusu, kişinin doğum tarihini öğrenmeye yöneliktir. Cevabın 'I was born' ile başlayıp tam bir tarih veya yılı belirtmesi beklenir. Örneğin: '<b>I was born on 12 June 1990</b>'.",
         "Donem": 1
     },
     {
@@ -6577,6 +6905,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Belirli ayları (December, January, February) veya mevsimleri belirtirken kullanılan zaman edatı <b>'in'</b> dir. 'It snows here every year <b>in</b> December, January, and February.' (Burada her yıl Aralık, Ocak ve Şubat'ta kar yağar.)",
         "Donem": 1
     },
     {
@@ -6597,6 +6926,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Haftanın günleri (Sundays, Monday, vb.) ile birlikte kullanılan zaman edatı <b>'on'</b> dur. 'Do you go to school <b>on</b> Sundays?'",
         "Donem": 1
     },
     {
@@ -6617,6 +6947,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki 9:30 gibi kesin ve tam bir saati belirtirken kullanılan zaman edatı <b>'at'</b> dir. 'We will meet <b>at</b> 9:30.'",
         "Donem": 1
     },
     {
@@ -6637,6 +6968,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Bir eylemin ne kadar süredir (two years) devam ettiğini belirtmek için <b>'for'</b> edatı kullanılır. Present Perfect Tense ile sıklıkla birlikte kullanılır. 'My advisor has been living in Dubai <b>for</b> two years.'",
         "Donem": 1
     },
     {
@@ -6657,6 +6989,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "A'nın sorusu ('When did the bus leave?') otobüsün geçmişte ne zaman ayrıldığını sorar. Cevap, geçmiş zaman (Simple Past) kullanarak spesifik bir saati belirtmelidir. Örneğin: '<b>It left an hour ago</b>' veya '<b>It left at ten o'clock</b>'.",
         "Donem": 1
     },
     {
@@ -6677,6 +7010,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "B'nin cevabı ('He was born on 23 April 1998.') bir doğum tarihi içerdiği için, A'nın sorusu bu bilgiyi soran <b>'When was he born?'</b> (O ne zaman doğdu?) olmalıdır.",
         "Donem": 1
     },
     {
@@ -6697,6 +7031,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Sadece ay adı (May) belirtildiğinde kullanılan zaman edatı <b>'in'</b> dir. Eğer tam bir tarih olsaydı 'on' kullanılırdı, ancak sadece ay ve yıl varsa 'in' kullanılır. 'I got married <b>in</b> May in 2018.'",
         "Donem": 1
     },
     {
@@ -6717,6 +7052,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümle, öğle vakti (At midday) iki saat süren bir durumu anlatmaktadır. Bu bağlamda, <b>'break'</b> (mola/ara) kelimesi, iki saatlik bir zaman dilimini ifade ederek cümleyi anlamca doğru tamamlar. 'At midday there was a two-hour <b>break</b>.'",
         "Donem": 1
     },
     {
@@ -6737,6 +7073,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Saatleri (six o’clock) belirtmek için kullanılan edat <b>'at'</b> tir. 'He got up <b>at</b> six o’clock.'",
         "Donem": 1
     },
     {
@@ -6757,6 +7094,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Ayın gününü (the 27th) içeren tam tarihler veya belirli günler için <b>'on'</b> edatı kullanılır. 'My brother’s birthday is <b>on</b> the 27th of April.'",
         "Donem": 1
     },
     {
@@ -6777,6 +7115,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Sadece yılı (2017) belirtirken kullanılan zaman edatı <b>'in'</b> dir. 'I met my girlfriend <b>in</b> 2017.'",
         "Donem": 1
     },
     {
@@ -6797,6 +7136,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Mevsim isimlerinden (Autumn) önce kullanılan zaman edatı <b>'in'</b> dir. 'The Black Sea Region has much rain <b>in</b> Autumn.'",
         "Donem": 1
     },
     {
@@ -6817,6 +7157,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "A: 'When did you arrive at the station?' (İstasyona ne zaman vardın?) sorusu Geçmiş Zaman ile sorulmuştur. Cevap, varış zamanını geçmiş zaman kalıbıyla vermelidir. Örneğin: '<b>I arrived an hour ago</b>' veya '<b>I arrived at noon</b>'.",
         "Donem": 1
     },
     {
@@ -6837,6 +7178,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Yılları (2011) belirtirken kullanılan zaman edatı <b>'in'</b> dir. 'Zübeyde started working for Paradise Boutique <b>in</b> 2011.'",
         "Donem": 1
     },
     {
@@ -6857,6 +7199,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Haftanın günleri (Wednesday) ile kullanılan zaman edatı <b>'on'</b> dur. Gün, noon (öğle) gibi bir zaman dilimi ile belirtilse bile, baskın kural günlerde 'on' kullanılmasıdır. 'Selma is leaving <b>on</b> Wednesday noon.'",
         "Donem": 1
     },
     {
@@ -6877,6 +7220,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "İlk boşlukta tam saati (10 o'clock) belirtmek için <b>'at'</b>, ikinci boşlukta ise 'the weekends' ifadesi için yaygın olarak <b>'on'</b> (veya bazı kullanımlarda 'at') edatı kullanılır. Doğru kombinasyon <b>at</b> ve <b>on</b> olmalıdır. 'She usually gets up <b>at</b> 10 o'clock <b>on</b> the weekends.'",
         "Donem": 1
     },
     {
@@ -6897,6 +7241,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Joe'nun cevabı 'Of course <b>by bus</b>.' (Elbette otobüsle.) diyerek ulaşım şeklini belirttiği için, Jack'in sorusu bu şekli soran <b>'How did you go?'</b> (Nasıl gittiniz?) olmalıdır.",
         "Donem": 1
     },
     {
@@ -6917,6 +7262,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Altı çizili <b>'famous'</b> (ünlü, meşhur) kelimesinin yerine geçebilecek eş anlamlı kelime <b>'well-known'</b> (iyi bilinen) kelimesidir. Her ikisi de yaygın olarak tanınan anlamına gelir.",
         "Donem": 1
     },
     {
@@ -6937,6 +7283,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "'The weekend' ifadesiyle birlikte İngilizcede <b>'at'</b> veya Amerikan İngilizcesinde <b>'on'</b> edatı kullanılır. Sık kullanılan ve genellikle doğru kabul edilen seçeneklerden biri <b>'on'</b> dur. 'What do you think about having a picnic <b>on</b> the weekend?'",
         "Donem": 1
     },
     {
@@ -6977,6 +7324,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'than' kelimesi kullanıldığı için karşılaştırma (comparative) yapısı gereklidir. Life standards (yaşam standartları) genellikle 'high' (yüksek) sıfatıyla nitelenir. Avrupa'nın Afrika'ya göre daha iyi standartlara sahip olduğu varsayılırsa, boşluğa 'high' sıfatının karşılaştırma hali olan <b>'higher'</b> gelmelidir. Karşılaştırma yapısı: <b>Sıfat + -er + than</b>.",
         "Donem": 1
     },
     {
@@ -6997,6 +7345,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede 'than' kelimesi kullanıldığı için karşılaştırma (comparative) yapısı gereklidir. Dede ve baba arasındaki tipik karşılaştırma yaş üzerinedir. 'Old' (yaşlı) sıfatının karşılaştırma hali olan <b>'older'</b> boşluğa getirilmelidir. <br/>Yapı: <b>My grandfather is older than my father.</b>",
         "Donem": 1
     },
     {
@@ -7017,6 +7366,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede 'I expected' ifadesiyle bir karşılaştırma yapılmaktadır. Sınavın beklenenden nasıl olduğu ifade edilecektir. Bu bağlamda, genellikle 'than' ile kullanılan bir karşılaştırma sıfatı gereklidir (örneğin 'easier than', 'harder than'). Eğer beklenen daha kolaydıysa 'harder than', daha zor idiyse 'easier than' kullanılır. Diyalogun akışına göre en uygun karşılaştırma yapısı, sıklıkla <b>'easier than'</b> veya <b>'more difficult than'</b> olur.",
         "Donem": 1
     },
     {
@@ -7037,6 +7387,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'than' kelimesi kullanıldığı için Erzurum ve Bursa kış mevsiminde soğukluk açısından karşılaştırılmaktadır. 'Cold' (soğuk) sıfatının karşılaştırma hali olan <b>'colder'</b> boşluğa getirilmelidir. <br/>Yapı: <b>Erzurum is colder than Bursa in winter.</b>",
         "Donem": 1
     },
     {
@@ -7057,6 +7408,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 4,
+        "Aciklama": "Cümlede 'in the world' (dünyadaki) ifadesi kullanıldığı için üstünlük (superlative) yapısı gereklidir. Altın, dünyadaki en değerli/pahalı metallerden biridir. 'Expensive' (pahalı) gibi uzun bir sıfatın üstünlük hali <b>'the most expensive'</b> şeklinde kullanılır. <br/>Üstünlük Yapısı: <b>the + most + uzun sıfat.</b>",
         "Donem": 1
     },
     {
@@ -7077,6 +7429,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede 'in the world' ifadesi kullanıldığı ve 'the' harfi verildiği için üstünlük (superlative) yapısı gereklidir. Nil Nehri, dünyanın en uzun nehridir. 'Long' (uzun) sıfatının üstünlük hali olan <b>'longest'</b> boşluğa getirilmelidir. <br/>Üstünlük Yapısı: <b>The + kısa sıfat + -est.</b>",
         "Donem": 1
     },
     {
@@ -7097,6 +7450,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümle, Ali'nin sınıftaki diğer tüm öğrencilerden (diğerleri ondan daha kötü) daha iyi olduğunu belirtmektedir. Bu durum, üstünlük (superlative) yapısı gerektirir ve Ali'nin sınıfın en iyisi olduğunu ifade eder. 'Good' (iyi) sıfatının düzensiz üstünlük hali <b>'the best'</b> olmalıdır. <br/>Yapı: <b>Ali is the best student in the class.</b>",
         "Donem": 1
     },
     {
@@ -7117,6 +7471,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede 'than' kelimesi kullanıldığı için karşılaştırma (comparative) yapısı gereklidir. 52 yaşındaki kişinin 30 yaşındaki kişiden daha yaşlı olduğu ifade edilmektedir. 'Old' sıfatının karşılaştırma hali olan <b>'older'</b> boşluğa getirilmelidir. <br/>Yapı: <b>I am older than you.</b>",
         "Donem": 1
     },
     {
@@ -7137,6 +7492,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede iki dağ ('Mount Ağrı' ve 'Mount Palandöken') karşılaştırılmaktadır ve boşluktan sonra gizli bir 'than' kullanımı veya 'than' kelimesinin kendisi beklenmektedir. Ağrı Dağı, Palandöken'den daha yüksektir. 'High' (yüksek) sıfatının karşılaştırma hali <b>'higher than'</b> boşluğa getirilmelidir. <br/>Yapı: <b>Sıfat + -er + than.</b>",
         "Donem": 1
     },
     {
@@ -7157,6 +7513,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede 'in the world' (dünyadaki) ifadesi kullanıldığı için üstünlük (superlative) yapısı gereklidir. Verilen boy ölçüsü (74.61 cm) onun çok kısa olduğunu gösterir. 'Short' (kısa) sıfatının üstünlük hali olan <b>'the shortest'</b> boşluğa getirilmelidir. <br/>Üstünlük Yapısı: <b>He Pingping is the shortest man in the world.</b>",
         "Donem": 1
     },
     {
@@ -7177,6 +7534,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Cümlede iki nehir ('The Nile' ve 'the Yeşilırmak') karşılaştırılmaktadır. Karşılaştırma yapısı olan 'than' kullanılmalıdır. Nil Nehri, Yeşilırmak'tan çok daha uzundur. 'Long' (uzun) sıfatının karşılaştırma hali <b>'longer than'</b> boşluğa getirilmelidir.",
         "Donem": 1
     },
     {
@@ -7197,6 +7555,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'than' kelimesi kullanıldığı için karşılaştırma (comparative) yapısı gereklidir. Gül ve papatya genellikle güzellik açısından karşılaştırılır. 'Beautiful' (güzel) uzun bir sıfat olduğu için karşılaştırma hali <b>'more beautiful'</b> ile yapılır. <br/>Yapı: <b>more + uzun sıfat + than.</b>",
         "Donem": 1
     },
     {
@@ -7217,6 +7576,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede 'than' kelimesi kullanıldığı için karşılaştırma (comparative) yapısı gereklidir. Bir kilogram muz ile bir elma arasındaki karşılaştırma genellikle ağırlık veya fiyat üzerinedir. Eğer fiyat karşılaştırılıyorsa, muz daha pahalı olabilir. 'Expensive' (pahalı) uzun bir sıfat olduğu için karşılaştırma hali <b>'more expensive'</b> olmalıdır. <br/>Yapı: <b>more + uzun sıfat + than.</b>",
         "Donem": 1
     },
     {
@@ -7237,6 +7597,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 1,
+        "Aciklama": "Cümlede 'the' ve 'in the world' (dünyadaki) ifadeleri kullanıldığı için üstünlük (superlative) yapısı gereklidir. Nil Nehri, dünyanın en uzun nehridir. 'Long' sıfatının üstünlük hali olan <b>'longest'</b> boşluğa getirilmelidir. <br/>Üstünlük Yapısı: <b>The + kısa sıfat + -est.</b>",
         "Donem": 1
     },
     {
@@ -7257,6 +7618,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'than' kelimesi kullanıldığı için filler ve aslanlar arasında karşılaştırma (comparative) yapısı gereklidir. Filler, aslanlardan daha büyük ve ağırdır. 'Big' (büyük) sıfatının karşılaştırma hali olan ve son harfi iki kere yazılan <b>'bigger'</b> boşluğa getirilmelidir. <br/>Yapı: <b>Sıfat + -er + than.</b>",
         "Donem": 1
     },
     {
@@ -7277,6 +7639,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Cümlede 'of the school' (okulun) ifadesi kullanıldığı için Ahmet'in okuldaki öğrenciler arasındaki üstünlüğü ifade edilmelidir (superlative). Bir öğrencinin başarısı genellikle 'good' (iyi) sıfatıyla ölçülür. 'Good' sıfatının düzensiz üstünlük hali <b>'the best'</b> olmalıdır. <br/>Üstünlük Yapısı: <b>Ahmet is the best student of the school.</b>",
         "Donem": 1
     },
     {
@@ -7297,6 +7660,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "Duru, soruyu Adana olarak cevaplıyor ve ekliyor: 'Maybe it's the hottest city now in August.' (Belki de ağustosta şu an en sıcak şehir). Bu, Rachael'ın en sıcak şehri soran bir soru sorduğunu gösterir. Üstünlük belirten soru kalıbı kullanılmalıdır. Örneğin: <b>'Which is the hottest city in Turkey?'</b>",
         "Donem": 1
     },
     {
@@ -7317,6 +7681,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 2,
+        "Aciklama": "Büyük bir şehirde yaşamanın ne olduğu soruluyor. Bu bağlamda büyük şehir hayatının yararları veya dezavantajları (pros/cons) kastedilmektedir. Cümleye uygun olan ve çoğul isim gerektiren kelime <b>'advantages'</b> (avantajlar) veya <b>'disadvantages'</b> (dezavantajlar) olabilir. Genellikle bu tür listelemelerde <b>'advantages'</b> (faydaları) daha yaygın kullanılır.",
         "Donem": 1
     },
     {
@@ -7337,6 +7702,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 3,
+        "Aciklama": "Cümlede 'Among all the students' (Tüm öğrenciler arasında) ve 'the' kelimesi kullanıldığı için üstünlük (superlative) yapısı gereklidir. Ashley'nin matematik başarısı kıyaslanmaktadır. 'Good' (iyi) sıfatının düzensiz üstünlük hali <b>'best'</b> olmalıdır. <br/>Yapı: <b>Ashley is the best at math.</b>",
         "Donem": 1
     },
     {
@@ -7357,6 +7723,7 @@
         "DersId": 355,
         "OBSDersId": 10064,
         "CevapSira": 5,
+        "Aciklama": "İlk boşlukta 'the... I've ever heard' yapısı nedeniyle üstünlük (superlative) formu gereklidir. İkinci boşlukta ise 'than him' ifadesi nedeniyle karşılaştırma (comparative) formu gereklidir. Eğer şarkıcının sesi kötü bulunuyorsa, sırasıyla 'bad' sıfatının düzensiz halleri kullanılır: <br/>1. Boşluk (Superlative): <b>the worst</b> <br/>2. Boşluk (Comparative): <b>worse</b> <br/>Yapı: <b>bad / worse / the worst.</b>",
         "Donem": 1
     }
 ]

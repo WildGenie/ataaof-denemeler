@@ -1,0 +1,1106 @@
+[
+    {
+        "SoruID": 173009,
+        "Aciklama": "Kompakt flaş (CompactFlash - <b>CF</b>) kartlar, <b>dijital fotoğraf makinelerinde depolama ortamı</b> olarak kullanılmaya başlanmıştır. İlk CF kartını kullanan kompakt fotoğraf makinelerinin piyasaya sürüldüğü yıl 1997/1998 dönemine denk gelmektedir. Bu teknoloji, görüntülerin hızlı ve güvenilir bir şekilde depolanmasını sağlayarak dijital fotoğrafçılığın gelişiminde kritik bir rol oynamıştır."
+    },
+    {
+        "SoruID": 173010,
+        "Aciklama": "Türkiye'de dijital görüntüleme teknolojisinin ilk kez kullanıldığı alan <b>gazetecilik ve basın sektörü</b> olmuştur. Gazeteler ve haber ajansları, olay yerinden hızlıca fotoğraf çekip merkeze <b>elektronik olarak iletme</b> zorunluluğu nedeniyle, hızla bu yeni teknolojiyi benimsemişlerdir. Bu durum, haberlerin güncelliğini ve iletim hızını ciddi ölçüde artırmıştır."
+    },
+    {
+        "SoruID": 173011,
+        "Aciklama": "Modern dijital tarama teknolojisinin öncüsü olarak kabul edilen <b>davul tarayıcı</b> (drum scanner), 1957 yılında <b>Russell Kirsch</b> tarafından geliştirilmiştir. Bu cihazla taranan ilk resim, Kirsch'ün o sırada üç aylık olan oğlu <b>Walden'ın fotoğrafı</b> olmuştur. Bu tarama, yalnızca 30.976 piksel çözünürlüğündeydi ve dijital görüntülemenin başlangıcını işaret etmiştir."
+    },
+    {
+        "SoruID": 173012,
+        "Aciklama": "Dünyada kullanılan ilk dijital tarayıcı, 1957 yılında ABD Ulusal Standartlar Bürosu'nda (NBS) <b>Russell Kirsch</b> tarafından geliştirilen <b>Davul Tarayıcı</b> (Drum Scanner) veya NBS Tarayıcısı'dır. Bu cihaz, fiziksel görüntüleri bilgisayar tarafından işlenebilir hale getiren <b>dijital bitmap matrisine</b> dönüştürmüştür."
+    },
+    {
+        "SoruID": 173013,
+        "Aciklama": "İlk kez <b>CCD (Charge-Coupled Device)</b> sensörünü kullanarak geliştirilen düzlem yataklı (flatbed) tarayıcılar, 1980'li yıllarda ticari olarak yaygınlaşmıştır. CCD teknolojisi, tarayıcıların daha küçük, daha hızlı ve daha ucuz hale gelmesini sağlamıştır. İlk ticari düzlem tarayıcıların mucitleri genellikle bu teknolojiyi geliştiren <b>Microtek</b> gibi firmaların mühendisleridir."
+    },
+    {
+        "SoruID": 173014,
+        "Aciklama": "Dünyanın ilk ticari olarak piyasaya sürülen entegre kameralı cep telefonu, 2000 yılının Kasım ayında Japonya'da <b>Sharp</b> firması tarafından <b>J-SH04</b> modeli olarak üretilmiştir. Bu cihaz, kullanıcıların çektikleri fotoğrafları anında paylaşmalarına olanak tanıyarak mobil iletişimde bir devrim yaratmıştır."
+    },
+    {
+        "SoruID": 173016,
+        "Aciklama": "Genellikle bir kişisel bilgisayarla (PC) kullanılmak üzere geliştirilen ilk görüntü tarayıcılar, 1980'li yılların ortalarında piyasaya sürülmüştür. Bu öncü cihazlardan biri, 1984 yılında <b>Apple Macintosh</b> bilgisayarları için tasarlanan ve <b>masaüstü yayıncılık (DTP)</b> devrimine zemin hazırlayan <b>ThunderScan</b>'dir."
+    },
+    {
+        "SoruID": 173017,
+        "Aciklama": "Cep telefonlarında kullanıcı dostu ve akıcı bir <b>panorama (geniş açı fotoğraf) çekim modu</b>nu ilk kez yaygınlaştırarak mobil işletim sistemlerine entegre eden firma <b>Apple</b>'dır. Bu özellik, 2012 yılında <b>iPhone 5</b> ile sunulmuş ve otomatik görüntü birleştirme (stitching) teknolojisi sayesinde geniş sahnelerin kolayca yakalanmasını sağlamıştır."
+    },
+    {
+        "SoruID": 178442,
+        "Aciklama": "Dünyada ilk kez halka açık ve geniş çaplı televizyon yayınının yapıldığı spor organizasyonu, 1936 yılında gerçekleştirilen <b>Berlin Yaz Olimpiyatları</b>'dır. Bu yayınlar, o dönemki teknoloji kısıtlılıkları nedeniyle doğrudan evlere ulaşmasa da, özel izleme odalarında gösterilerek <b>televizyon yayıncılığının</b> büyük bir organizasyonda ilk kullanımını sağlamıştır."
+    },
+    {
+        "SoruID": 178443,
+        "Aciklama": "Amerikan Deniz Piyadeleri tarafından 1989 Panama Kanalı operasyonunda kullanılan ve savaş alanından anlık görüntü paylaşımı yapılan ilk kamera, genellikle <b>Nikon QV-1000C</b> gibi erken dönem <b>Still Video (Durağan Video) sistemleri</b> veya bunların askeri modifikasyonlarıdır. Bu sistemler, görüntüleri manyetik diske kaydederek hızla iletme yeteneği sayesinde <b>anlık askeri istihbarat</b> ve medya raporlamasına olanak tanımıştır."
+    },
+    {
+        "SoruID": 178444,
+        "Aciklama": "Günümüzdeki <b>CCD (Charge-Coupled Device)</b> sensör teknolojisinin atası sayılabilecek olan ve 1974 yılında ilk ticari ürününü piyasaya süren şirket <b>Fairchild Semiconductor</b>'dur. Bu şirket, 100x100 piksellik ilk CCD görüntü sensörünü (MV-101) pazara sunarak dijital görüntülemenin temelini atmıştır."
+    },
+    {
+        "SoruID": 178445,
+        "Aciklama": "1970'lerin başında film kullanmaksızın, tamamen <b>elektronik yollarla görüntüleme</b> çalışmalarına girişen ve bu alanda çığır açan şirket <b>Kodak</b>'tır. Kodak mühendisi <b>Steven Sasson</b>, 1975 yılında dünyanın ilk dijital fotoğraf makinesi prototipini geliştirerek filmsız görüntüleme konseptini hayata geçirmiştir."
+    },
+    {
+        "SoruID": 178446,
+        "Aciklama": "Dünyanın ilk dijital fotoğraf makinesinin mucidi, 1975 yılında Eastman Kodak firmasında çalışan mühendis <b>Steven Sasson</b>'dur. Sasson'un prototipi, bir CCD sensörü kullanarak siyah beyaz görüntüleri manyetik kasete kaydetmiş ve bu alanda bir dönüm noktası olmuştur."
+    },
+    {
+        "SoruID": 178447,
+        "Aciklama": "1981 yılında Sony’nin piyasaya sürdüğü, film kullanmayan ve görüntüleri manyetik disk (Mavipak) üzerine kayıt yapan makinesinin ismi <b>Sony Mavica (Magnetic Video Camera)</b>'dır. Mavica, görüntüyü elektronik olarak yakalaması ve televizyon ekranında gösterilmesi sayesinde <b>dijital fotoğrafçılığın ticarileşmesinde</b> önemli bir adımdır."
+    },
+    {
+        "SoruID": 178448,
+        "Aciklama": "Fotoğrafçılık dünyasının en önemli markalarından biri olan Kodak firmasının kurucusu <b>George Eastman</b>'dır. Eastman, özellikle <b>rulo filmin</b> icadı ve 1888'de Kodak kamera ile 'Siz düğmeye basın, gerisini bize bırakın' sloganını kullanarak fotoğrafçılığı kitlelere ulaştırmıştır."
+    },
+    {
+        "SoruID": 178449,
+        "Aciklama": "Megapiksel (bir milyon piksel) çözünürlüğünü aşan dünyanın ilk ticari sensörü, 1986 yılında <b>Kodak</b> tarafından üretilen <b>KAF-1300</b> modelidir. Bu sensör, 1280 x 1024 çözünürlüğe sahip olup, toplamda <b>1.3 milyon piksel</b> içermektedir. Bu gelişme, yüksek çözünürlüklü dijital fotoğrafçılığın başlangıcını işaret etmiştir."
+    },
+    {
+        "SoruID": 178450,
+        "Aciklama": "İlk kez çekilen görüntüleri anında kameranın arkasındaki ekranda izleme olanağı sunan <b>sıvı kristal ekranlı (LCD) kompakt makinenin</b> ismi, 1995 yılında piyasaya sürülen <b>Casio QV-10</b>'dur. Bu özellik, dijital fotoğraf makinelerinin kullanım kolaylığını ve popülaritesini artırmada kilit rol oynamıştır."
+    },
+    {
+        "SoruID": 178451,
+        "Aciklama": "2003 yılında piyasaya sürülen ve <b>tüketici seviyesinde uygun fiyatlı DSLR</b> (Digital Single-Lens Reflex) pazarını başlatan <b>Canon EOS 300D</b>, <b>6.3 megapiksel</b> çözünürlüğe sahip bir CMOS sensör kullanmıştır. Bu makine, profesyonel kalitedeki dijital fotoğrafçılığı amatörlerin erişimine açan önemli bir modeldir."
+    },
+    {
+        "SoruID": 331673,
+        "Aciklama": "Dijital görüntü teknolojilerinin yaygınlaşması, görüntülerin <b>fotoğraf düzenleme yazılımları</b> aracılığıyla kolayca manipüle edilebilmesini sağlamıştır. Bu durum, gerçeklik algısını kökten değiştirmiştir. Hem I. (Ünlü portrelerde gerçeklik algısının sarsılması), hem II. (Cilalı, kusursuz imajların yoğunlaşması) hem de III. (Gerçekliğin abartılması veya idealize edilmesi) maddeleri, dijital düzenleme araçlarının <b>gerçekliğin sunumu</b> üzerindeki etkilerini göstermektedir. Dolayısıyla, bu değişimlerin hepsi dijitalleşme ile ilişkilidir."
+    },
+    {
+        "SoruID": 331676,
+        "Aciklama": "Film kullanmaksızın görüntüleri <b>manyetik disk (Mavipak)</b> üzerine kayıt yapan ilk fotoğraf makinesi olan <b>Mavica</b>'yı (Magnetic Video Camera) pazara sunan firma <b>Sony</b>'dir (1981). Mavica, film gerektirmeyen elektronik görüntüleme sistemlerinin ticari olarak ulaşılabilir ilk örneğiydi."
+    },
+    {
+        "SoruID": 331687,
+        "Aciklama": "Dijital görüntü üretme teknolojilerinin yaygınlaşması, sayılan üç alanın da temelden dönüşmesine yol açmıştır. <b>Basın yayın</b> sektörü, masaüstü yayıncılık (DTP) ve dijital dizgi araçları sayesinde geleneksel yöntemlerden sıyrılmış, görsel materyal üretimini hızlandırmıştır. <b>Reklam</b> sektörü, yüksek çözünürlüklü dijital grafiklerin ve manipülasyon yeteneklerinin artmasıyla yaratıcılığını ve üretim hızını maksimize etmiştir. <b>Sosyal medya</b> ise tamamen dijital görsel içeriğe dayalı bir yapıya sahip olduğundan, bu teknolojiden en çok etkilenen ve onu kullanan alan olmuştur. Bu nedenle, I, II ve III numaralı maddelerin hepsi dijital görüntü teknolojilerinden en fazla etkilenen ve dönüşen alanlardır."
+    },
+    {
+        "SoruID": 331691,
+        "Aciklama": "1987 yılında <b>Thomas Knoll</b> ve kardeşi <b>John Knoll</b> tarafından geliştirilmeye başlanan ve 1990 yılında Adobe Systems tarafından piyasaya sürülen program <b>Adobe Photoshop</b>'tur. Photoshop, günümüzde endüstri standardı haline gelmiş ve dijital görüntü işleme, fotoğraf düzenleme ve grafik tasarım alanlarında dünya çapında en yaygın kullanılan yazılımdır. Görüntülerin manipülasyonu, rötuşlanması ve kompozit oluşturulması gibi konularda sunduğu güçlü araçlar sayesinde dijital sanatın ve profesyonel fotoğrafçılığın vazgeçilmez bir aracı haline gelmiştir."
+    },
+    {
+        "SoruID": 173019,
+        "Aciklama": "Işık kaynakları, <b>doğal ışık kaynakları</b> (Güneş, Ay, yıldızlar) ve <b>yapay ışık kaynakları</b> (ampul, LED, flaş, mum) olarak ikiye ayrılır. Soruda yapay ışık kaynaklarından biri olmayanı bulmak hedeflenmektedir. Bu durumda cevabın doğal bir kaynak olması gerekir. Örneğin, Güneş veya Ay yapay ışık kaynakları arasında <u>yer almaz</u>."
+    },
+    {
+        "SoruID": 173020,
+        "Aciklama": "Fotoğraf kompozisyonunda kullanılan tasarım elemanları görsel unsurlardır. Bunlar fotoğraf karesinin estetik ve yapısal bütünlüğünü oluşturan <b>çizgi</b>, <b>şekil</b>, <b>doku</b>, <b>renk</b>, <b>ton</b> ve <b>alan</b> gibi ögelerdir. Ses veya koku gibi görsel olmayan unsurlar bu elemanlardan biri <u>değildir</u>."
+    },
+    {
+        "SoruID": 173021,
+        "Aciklama": "Bir nesnenin sadece rengi değil, aynı zamanda dış yüzeyinin sertliği, pürüzlülüğü, parlaklığı veya yumuşaklığı gibi <b>fiziksel yüzey özelliklerinin</b> (doku) fotoğrafta ön plana çıkarılmasıyla oluşturulan kompozisyon türü <b>Doku Kompozisyonu</b>'dur. Doku, derinlik ve gerçeklik hissi verir."
+    },
+    {
+        "SoruID": 173022,
+        "Aciklama": "Fotoğraf karesinin hem dikey hem de yatay olarak ikişer çizgiyle eşit üç parçaya bölünmesi sonucu oluşan kompozisyon prensibi <b>Üçte Bir Kuralı</b>'dır. Bu çizgilerin kesiştiği <b>dört nokta</b>, ana konunun veya önemli görsel unsurların yerleştirilmesi gereken <b>güç noktaları</b> olarak kabul edilir."
+    },
+    {
+        "SoruID": 173023,
+        "Aciklama": "Üçte bir kuralının temel prensibi, ana konunun kadrajın tam merkezinden uzaklaştırılarak, kompozisyon çizgilerine veya <b>güç noktalarına</b> yerleştirilmesine dayanır. Bu uygulama, merkez odaklı simetrinin aksine, fotoğrafa <b>dinamizm</b>, <b>görsel denge</b> ve <b>gözü yönlendirme</b> yeteneği kazandırır."
+    },
+    {
+        "SoruID": 173024,
+        "Aciklama": "Simetrik kompozisyon, kadrajın dikey veya yatay bir eksen boyunca bölündüğünde iki yarısının birbirine <b>ayna görüntüsü</b> gibi eş ve dengeli olmasını ifade eder. Bu tür kompozisyonlar izleyicide <b>mutlak denge</b> ve statik bir huzur hissi yaratır. Simetrinin aksine asimetrik kompozisyon, dengeyi eşit olmayan görsel ağırlıklarla kurar."
+    },
+    {
+        "SoruID": 173026,
+        "Aciklama": "Renk teorisine göre, birbirinin karşısında yer alan ve bir arada kullanıldığında birbirlerinin gücünü artıran renklere <b>tamamlayıcı (zıt) renkler</b> denir. Kırmızının zıt (tamamlayıcı) rengi <b>Camgöbeği (Cyan)</b>'dir. (RGB modelinde Kırmızının zıttı Camgöbeği, Mavi'nin zıttı Sarı, Yeşil'in zıttı Magenta'dır.)"
+    },
+    {
+        "SoruID": 173028,
+        "Aciklama": "Renkler psikolojik etkilerine göre <b>sıcak</b> ve <b>soğuk</b> olarak ayrılır. Soğuk renkler; uzaklık, huzur ve sükûnet hissi verirler. Temel soğuk renkler <b>Mavi</b>, <b>Yeşil</b> ve <b>Mor</b>'dur. Sarı, Turuncu ve Kırmızı ise sıcak renkler grubundadır. Dolayısıyla sarı, turuncu veya kırmızı soğuk renkler arasında <u>yer almaz</u>."
+    },
+    {
+        "SoruID": 173029,
+        "Aciklama": "Işık kaynağının kısmen ya da tamamen konunun arkasından gelmesi durumuna <b>Ters Işık</b> (Backlight) denir. Ters ışık, konunun çevresinde parlak bir çerçeve (rim light) oluşturabilir veya konu yüzeyini gölgeli bırakarak <b>silüet</b> etkisi yaratmak için kullanılır."
+    },
+    {
+        "SoruID": 173031,
+        "Aciklama": "Işık, konuya geliş yönüne (açısına) göre; <b>ön ışık</b>, <b>yan ışık</b>, <b>tepe ışığı</b> ve <b>ters ışık</b> gibi gruplara ayrılır. Işığın <b>kalitesi</b> (sert veya yumuşak olması) ya da <b>şiddeti</b> ise ışığın açısıyla ilgili olmayan, farklı bir sınıflandırma kriteridir."
+    },
+    {
+        "SoruID": 178452,
+        "Aciklama": "Işık, fotoğrafı doğrudan etkileyen en önemli unsurdur. Işık, fotoğrafın <b>pozlamasını</b>, <b>renk sıcaklığını</b>, <b>kontrastını</b> ve objelerin <b>doku</b> görünümünü doğrudan belirler. Konunun fiziki boyutu veya sesi gibi ışıkla doğrudan ilgili olmayan unsurlar, ışığın fotoğrafı etkilediği unsurlar arasında <u>yer almaz</u>."
+    },
+    {
+        "SoruID": 178453,
+        "Aciklama": "Fotoğrafta kaydedilebilen en parlak (açık) alan ile en koyu (karanlık) alan arasındaki ton farkı, <b>Kontrast</b> veya <b>Ton Aralığı</b> (Dynamic Range) olarak ifade edilir. Yüksek kontrast, bu farkın belirgin ve keskin olduğu anlamına gelirken, düşük kontrast farkın az olduğunu gösterir."
+    },
+    {
+        "SoruID": 178454,
+        "Aciklama": "Fotoğrafta belirli bir düzen, uyum veya frekansla ardışık olarak tekrarlanan nesnelerle ya da şekillerle oluşturulan kompozisyon biçimi <b>Ritim</b> veya <b>Tekrar</b> olarak adlandırılır. Ritim, izleyicinin gözünü kadraj içinde akıcı bir şekilde hareket ettirir."
+    },
+    {
+        "SoruID": 178455,
+        "Aciklama": "Konuya sağdan veya soldan gelen ışık yönüne <b>Yan Işık</b> (Sidelight) denir. Yan ışık, konunun bir tarafını aydınlatırken diğer tarafında derin gölgeler oluşturur. Bu, fotoğraftaki objelere <b>hacim</b> ve <b>üç boyutluluk</b> hissi kazandırmada en etkili ışık yönüdür."
+    },
+    {
+        "SoruID": 178456,
+        "Aciklama": "Renk tekerleği üzerinde birbirine zıt konumlarda yer alan renklere <b>Tamamlayıcı (Complementary) Renkler</b> denir. Bu renkler, birlikte kullanıldıklarında birbirlerinin canlılığını ve doygunluğunu en üst düzeye çıkararak görsel çarpıcılığı artırırlar (Örn: Mavi/Sarı, Kırmızı/Camgöbeği)."
+    },
+    {
+        "SoruID": 178458,
+        "Aciklama": "Üçte bir kuralı uygulanırken kadraj 2 dikey ve 2 yatay çizgiyle bölünür. Bu çizgilerin kesişim noktaları, fotoğrafçıların konuyu yerleştirmesi için önerilen <b>güç noktalarıdır</b>. Bu prensipte toplam <b>4</b> adet kesişim noktası oluşur."
+    },
+    {
+        "SoruID": 178459,
+        "Aciklama": "Renk teorisine göre temel zıt renk çiftlerinden biri Mavi ve Sarı'dır. Mavinin tamamlayıcı (zıt) rengi <b>Sarı</b>'dır. Bu iki renk, kontrastları sayesinde göz alıcı bir uyum oluşturur."
+    },
+    {
+        "SoruID": 178461,
+        "Aciklama": "Sıcak renkler grubunda <b>Kırmızı</b>, <b>Turuncu</b> ve <b>Sarı</b> yer alır. Bu renkler enerji, yakınlık ve hareketlilik hissi uyandırır. Mavi, Yeşil ve Mor ise soğuk renkler grubuna dahildir. Bu nedenle, Mavi veya Yeşil gibi soğuk bir renk sıcak renkler arasında <u>yer almaz</u>."
+    },
+    {
+        "SoruID": 178463,
+        "Aciklama": "Üçte bir kuralının uygulanmasındaki temel amaç, ana konuyu merkezden kaydırarak kadrajda <b>denge</b>, <b>estetik uyum</b> ve <b>dinamizm</b> sağlamaktır. Merkez dışına yerleştirilen konunun bulunduğu alan (güç noktaları), izleyicinin gözünü fotoğrafta daha rahat dolaşmaya teşvik eder."
+    },
+    {
+        "SoruID": 178465,
+        "Aciklama": "Fotoğraf çekimi sırasında vizörden bakarken görüntüyü düzenlemekte kullanılan kompozisyon prensipleri, görsel yerleştirme kurallarıdır (Üçte bir kuralı, Simetri, Çizgi kullanımı, Alan derinliği vb.). <b>Pozlama ayarları</b> (diyafram, enstantane) veya <b>odaklama</b> gibi unsurlar ise görüntüyü yerleştirme değil, fotoğrafın teknik kalitesini ayarlama süreçleridir."
+    },
+    {
+        "SoruID": 331699,
+        "Aciklama": "Fotoğrafta <b>kadraj</b> (çerçeveleme) seçimi ve çerçeve içindeki <b>ögelerin yerleşimi</b>, izleyiciye iletilmek istenen mesajı en etkili şekilde sunmak için yapılan düzenlemelerin tümüne <b>kompozisyon</b> denir. Kompozisyon, fotoğrafın görsel yapısını ve estetik kalitesini belirleyen en temel unsurdur."
+    },
+    {
+        "SoruID": 331705,
+        "Aciklama": "Fotoğrafta kompozisyonu oluşturan <b>çizgiler</b>, izleyici üzerinde farklı duygusal etkiler yaratır. <b>Yatay çizgiler</b> genellikle ufuk çizgisini veya dingin bir yüzeyi çağrıştırdığı için izleyicide <b>kararlılık, istikrar, yumuşaklık ve huzur</b> hissi uyandırır. Dikey çizgiler genellikle güç ve yükseklik hissi verirken, çapraz/eğri çizgiler hareket ve dinamizm hissi yaratır."
+    },
+    {
+        "SoruID": 331709,
+        "Aciklama": "Kompozisyonda <b>ritim</b> (ahenk), kadraj içinde yer alan görsel <b>unsurların</b> (şekiller, renkler, dokular vb.) belirli bir düzen ve <b>uyum içerisinde ardışık olarak tekrarlanmasıdır</b>. Bu tekrarlar izleyicinin gözünü fotoğrafta gezdirir ve fotoğrafa akıcılık katar."
+    },
+    {
+        "SoruID": 331719,
+        "Aciklama": "<b>Simetrik kompozisyon</b>, görüntünün merkez ekseninin sağ ve sol tarafındaki ögelerin birbirine benzer veya aynı olması durumudur. Bu dengeleyici yapı, izleyicide güçlü bir <b>sabitlik ve durağanlık</b> hissi uyandırır ve basit bir anlatımı öne çıkarır. Üçte bir kuralı ve vurgu-ilgi merkezi genellikle daha dinamik veya dengesiz (asimetrik) yapılar oluşturur, dolayısıyla durağanlık için Simetrik kompozisyon (Yalnız I) doğrudur."
+    },
+    {
+        "SoruID": 331728,
+        "Aciklama": "Fotoğrafta <b>sadeliği</b> (minimalizmi) sağlamak, izleyicinin ana konuya odaklanmasını kolaylaştırır ve anlatımı güçlendirir. Bu durum, gereksiz dikkat dağıtıcı unsurları ortadan kaldırmayı gerektirir. Bu nedenle: I. <b>Görüntüdeki fazlalıkların çerçeve dışına çıkarılması</b>, II. <b>Çerçeveye olabildiğince az nesne alınması</b> ve III. <b>Basit ve açık bir anlatımın tercih edilmesi</b>, sadelik için yapılması gereken temel uygulamalar arasında yer alır."
+    },
+    {
+        "SoruID": 173066,
+        "Aciklama": "Dijital fotoğraf makinelerinde, filmli makinelerdeki film bölgesinin yerini <b>görüntü algılayıcı</b> (sensör) alır. Bu algılayıcı (genellikle <b>CCD</b> veya <b>CMOS</b>), ışığı yakalar ve dijital veriye dönüştürür. Bu, dijital fotoğrafçılığın temelini oluşturan bileşendir."
+    },
+    {
+        "SoruID": 173069,
+        "Aciklama": "Bu özellik, genellikle <b>Super Zoom Makineler</b> (Köprü kameralar) olarak bilinen makine türüne aittir. Bu makineler, değiştirilemeyen tek bir lense sahip olmalarına rağmen, inanılmaz geniş bir <b>zoom aralığına</b> (değişken odak uzaklığı) ulaşabilirler. Bu, amatör ve yarı profesyonel kullanıcılar için esnek çekim imkanları sunar."
+    },
+    {
+        "SoruID": 173073,
+        "Aciklama": "En yüksek megapiksel özelliğine sahip makine türü <b>Orta Format Makineler</b>'dir. Bu makineler, diğer türlere göre çok daha büyük sensör ebatlarına (örneğin 44x33 mm) sahip oldukları için, genellikle 100 megapiksel ve üzeri çözünürlük değerlerine ulaşabilirler. Bu da detay gerektiren profesyonel işler için idealdir."
+    },
+    {
+        "SoruID": 173079,
+        "Aciklama": "Bu tanım <b>360 Derece Kameraları</b> işaret eder. Bu makineler, iki adet 180 derecelik lensi sırt sırta kullanarak aynı anda çekim yapar ve görüntüleri dahili yazılım (stitching) ile birleştirerek tek bir küresel (360 derece) fotoğraf veya video oluşturur."
+    },
+    {
+        "SoruID": 173089,
+        "Aciklama": "Profesyonel, sağlam ve dayanıklı modeller genellikle <b>DSLR</b>, <b>Aynasız</b> (Mirrorless) veya <b>Orta Format</b> makinelerdir. <b>Kompakt Makineler</b> (Point-and-shoot), genellikle tüketici sınıfı, hafif ve plastikten yapılmış olup profesyonel kullanımın gerektirdiği dayanıklılığa sahip değildir."
+    },
+    {
+        "SoruID": 173111,
+        "Aciklama": "Uydu ile bağlantı kurarak fotoğraf dosyasına konum bilgisini (enlem, boylam vb.) yazan özellik <b>GPS</b> (Global Konumlandırma Sistemi) veya yaygın adıyla <b>Geotagging</b>'dir. Bu bilgi, fotoğrafın nerede çekildiğini kaydetmek için EXIF verilerine işlenir."
+    },
+    {
+        "SoruID": 173115,
+        "Aciklama": "DSLR ifadesinin açılımı <b>Digital Single-Lens Reflex</b>'tir. Türkçe karşılığı <b>Dijital Tek Lensli Yansıtmalı</b> makinedir ve görüntü almak için ayna mekanizması kullanan dijital fotoğraf makinelerini ifade eder."
+    },
+    {
+        "SoruID": 173119,
+        "Aciklama": "Öncü aksiyon kamera üreticisi <b>GoPro</b>, bazı aparatlar veya özel muhafazalar aracılığıyla iki adet kamerasını yan yana kullanarak <b>stereoskopik (3D)</b> video çekimi yapma imkanı sunan sistemler geliştirmiştir (Örneğin GoPro Fusion veya eski Hero 3D sistemleri)."
+    },
+    {
+        "SoruID": 173123,
+        "Aciklama": "Drone kameralar kullanılarak yapılan selfie (özçekim) çekimine <b>Dronie</b> adı verilir. Bu çekim türü, drone'un yüksekten veya uzaklaşarak geniş bir çevreyi kadraja dahil ettiği dinamik özçekim videoları veya fotoğraflarıdır."
+    },
+    {
+        "SoruID": 173126,
+        "Aciklama": "Mekanik deklanşörlerin sınırlarını (genellikle 1/8000 sn) aşan 1/40.000 saniye gibi çok yüksek enstantane hızlarına ulaşabilen makine türü <b>Aynasız Makineler</b>'dir. Bu hızlar, aynasız sistemlerde bulunan <b>elektronik deklanşör</b> özelliği sayesinde mümkün olur."
+    },
+    {
+        "SoruID": 178467,
+        "Aciklama": "Karşılaştırılan profesyonel ve yarı profesyonel makine türlerine göre (DSLR, Aynasız vb.) <b>Kompakt Makineler</b>, en küçük gövde yapısına sahiptir ve en hafif fotoğraf makinesi grubunu oluşturur. Genellikle cepte taşınabilir boyutlardadırlar."
+    },
+    {
+        "SoruID": 178469,
+        "Aciklama": "Aksiyon kameraları küçük, dayanıklı, suya dayanıklı ve geniş açılı lenslere sahiptir. Ancak, profesyonel kameralarda bulunan <b>değiştirilebilir lens kullanımı</b> aksiyon kameralarının temel özellikleri arasında <u>yer almaz</u>; genellikle sabit, tek bir lensle kullanılırlar."
+    },
+    {
+        "SoruID": 178472,
+        "Aciklama": "360 derece kameralar, etraflarındaki tüm sahneyi tek bir karede yakalamak üzere tasarlanmış özel cihazlardır (Örnek: Insta360, Ricoh Theta). Canon EOS veya Nikon Z gibi isimler, genellikle standart <b>DSLR</b> veya <b>Aynasız</b> makine serilerine aittir ve 360 derece çekim yapmazlar."
+    },
+    {
+        "SoruID": 178475,
+        "Aciklama": "Piyasaya sürülen ilk belirgin 3D web kameralarından biri <b>Minoru 3D Webcam</b>'dir. Bu kamera, iki lensi sayesinde stereoskopik görüntü yakalayarak kullanıcıların 3 boyutlu video akışı yapmasını sağlamıştır."
+    },
+    {
+        "SoruID": 178479,
+        "Aciklama": "Drone fotoğrafçılığı, uzaktan yönetilen veya otonom <b>hava araçları</b> (İHA – İnsansız Hava Aracı, İngilizce: UAV) ile yapılan çekim türüdür. İnsansız Uçak Sistemi (UAS) terimi de bu hava araçlarını kapsar."
+    },
+    {
+        "SoruID": 178482,
+        "Aciklama": "Akıllı cep telefonları, otomatik modlar, yazılımsal işlemler ve anında paylaşım gibi özelliklere sahiptir. Ancak, genellikle <b>değiştirilebilir lens sistemi</b> kullanma imkanı sunmazlar. Sensör boyutunu manuel ayarlama gibi bir özellik de fiziksel olarak sensör sabit olduğundan mümkün değildir."
+    },
+    {
+        "SoruID": 178486,
+        "Aciklama": "<b>Aynasız makineler</b>, adından da anlaşılacağı gibi ayna mekanizmasını çıkararak daha küçük bir gövdeye sahiptir. Optik vizör yerine, görüntüyü doğrudan sensörden alıp dijital olarak yansıtan bir <b>Elektronik Vizör (EVF)</b> kullanırlar. Sensör, tüm dijital kameraların olmazsa olmaz parçasıdır."
+    },
+    {
+        "SoruID": 178487,
+        "Aciklama": "Orta Format (Medium Format) sensörler, 35mm (Full Frame) sensörlerden (36x24 mm) daha büyüktür. Dijital orta format sensörler için yaygın olarak kullanılan bir ebat <b>44x33 mm</b>'dir. Bu büyük ebat, üstün görüntü kalitesi ve detay sunar."
+    },
+    {
+        "SoruID": 178488,
+        "Aciklama": "Genellikle, daha büyük sensör boyutuna sahip olan orta format makineler, 35 mm makinelere kıyasla daha geniş ton yelpazesi yakaladıkları için, 35 mm makinelerden <b>daha düşük</b> dinamik aralık alınırken orta formatta bu <b>daha yüksek</b> olur."
+    },
+    {
+        "SoruID": 178489,
+        "Aciklama": "Büyük ve orta format makinelerin film şasisi yerine takılan, sensör, elektronik devreler ve depolama birimlerini içeren dijital görüntü algılayıcısına <b>Dijital Sırt</b> (Digital Back) adı verilir. Bu, geleneksel film gövdelerinin dijitalleşmesini sağlayan kritik bir bileşendir."
+    },
+    {
+        "SoruID": 173135,
+        "Aciklama": "Objektifin <b>optik yaklaştırma oranı (zoom)</b>, en uzun odak uzaklığının (tele) en kısa odak uzaklığına (geniş açı) bölünmesiyle elde edilir.<br>Bu soruda verilen odak uzaklığı aralığı 24 mm (geniş açı) ile 3000 mm (tele) arasındadır (35 mm karşılığı).<br>Optik yaklaştırma oranı hesaplaması: 3000 mm / 24 mm = <b>125X</b>'tir."
+    },
+    {
+        "SoruID": 173140,
+        "Aciklama": "Objektifler, bir araya getirilmiş birden fazla <b>mercek (lens)</b> grubundan oluşur. Görüntünün kalitesi, keskinliği, renk sapmaları ve çözünürlüğü gibi tüm optik özellikler, bu <b>merceklerin tasarımı</b>, kalitesi, kaplamaları ve dizilişi tarafından belirlenir. Objektifin ana işlevi olan görüntünün algılayıcıya net ve doğru bir şekilde düşürülmesini mercekler sağlar."
+    },
+    {
+        "SoruID": 173146,
+        "Aciklama": "Objektiflerin ön kısmında, filtrelerin takıldığı yuvanın çapı, uluslararası standart olarak <b>milimetre (mm)</b> cinsinden ifade edilir. Bu ölçü, polarize, UV veya ND gibi filtrelerin doğru boyutta seçilmesini sağlar."
+    },
+    {
+        "SoruID": 173154,
+        "Aciklama": "Işık geçirgenliği, objektiften geçen ışık miktarını ve kalitesini belirler. Bu özellikler arasında <b>T-stop değeri</b> (gerçek geçirgenliği gösteren), lens kaplamaları ve vinyetleme (köşelerde ışık kaybı) bulunur.<br>Ancak, <b>Alan derinliği (Depth of Field)</b>, ışık geçirgenliğinin bir özelliği değil, diyafram açıklığı, odak uzaklığı ve nesne mesafesine bağlı olarak değişen optik bir etkidir."
+    },
+    {
+        "SoruID": 173157,
+        "Aciklama": "Tam çerçeve (full frame) bir kamera gövdesi için <b>50 mm odak uzaklığına</b> sahip bir objektif, insan gözünün tek gözle baktığı andaki görüş açısına (yaklaşık 46 derece) en yakın sonucu verir. Bu nedenle 50 mm, genellikle <b>Normal Lens</b> olarak adlandırılır."
+    },
+    {
+        "SoruID": 173159,
+        "Aciklama": "<b>Sabit odaklı (Prime) objektifler</b>, değişken odaklı (zoom) lenslere kıyasla daha az mercek elemanına ve daha basit optik tasarımlara sahiptir. Bu basitlik, <b>daha az optik sapma</b>, daha yüksek ışık geçirgenliği ve genellikle <b>üstün görüntü kalitesi</b> (keskinlik ve kontrast) sağlar. Ayrıca boyutları daha küçüktür ve üretim maliyetleri düşüktür."
+    },
+    {
+        "SoruID": 173166,
+        "Aciklama": "<b>Sabit odaklı (Prime) objektifler</b>, yalnızca tek bir odak uzaklığına sahiptir ve optik zoom yapamazlar. Eğer bir objektifin üzerinde yalnızca tek bir milimetre değeri (örneğin <b>35 mm</b>, 50 mm, 85 mm) yazıyorsa, o objektif sabit odaklıdır."
+    },
+    {
+        "SoruID": 173174,
+        "Aciklama": "<b>Balık gözü (Fisheye) objektifler</b>, özellikle kısa odak uzaklıkları nedeniyle son derece geniş bir açısal görüş alanına sahiptirler. Çoğu balık gözü objektif, <b>180 derece</b> veya bazen daha fazlasını kapsayan dairesel veya tam çerçeve (diagonal) görüntüler üretecek şekilde tasarlanmıştır, bu da belirgin bir geometrik bozulmaya (eğrilme) neden olur."
+    },
+    {
+        "SoruID": 173178,
+        "Aciklama": "<b>Geniş açılı objektifler</b>, kısa odak uzaklıkları nedeniyle, fotoğraf karesindeki nesneler arasındaki mesafeyi abartma eğilimindedir. Bu durum, ön plandaki nesnelerin büyük, arka plandaki nesnelerin ise olduğundan daha küçük ve daha uzak görünmesine neden olur. Bu etki, fotoğrafta güçlü bir <b>derinlik hissi (perspektif abartısı)</b> oluşturmak için kullanılır."
+    },
+    {
+        "SoruID": 173206,
+        "Aciklama": "Gerçek bir <b>Makro (Macro) objektif</b>, nesneyi fotoğraf makinesi algılayıcısı üzerinde <b>gerçek boyutunda (1:1 büyütme)</b> yansıtabilme yeteneğine sahip olmalıdır. Bu, algılayıcı üzerindeki görüntünün boyutunun, nesnenin gerçek hayattaki boyutuyla aynı olduğu anlamına gelir ve odaklanma yeteneği sonsuzdan bu orana kadar uzanır."
+    },
+    {
+        "SoruID": 331747,
+        "Aciklama": "Işığın oluşturduğu görüntünün hassas bir şekilde odaklanarak algılayıcının (sensörün) üzerine düşürülmesini sağlayan, <b>birden fazla mercek grubundan</b> oluşan karmaşık optik düzenek <b>Objektif (Lens)</b> olarak adlandırılır. Objektif, fotoğraf makinesinin temel görüntü oluşturma aracıdır."
+    },
+    {
+        "SoruID": 331749,
+        "Aciklama": "Objektifin temel işlevleri arasında <b>odak uzaklığını belirlemek</b>, <b>ışığı toplamak ve odaklamak</b>, ve <b>diyafram aracılığıyla alan derinliğini kontrol etmek</b> bulunur. Objektifin optik bir düzenek olması nedeniyle, görüntü oluşturma sürecine doğrudan etki etmeyen <b>Perde hızı (Shutter speed)</b> ayarının mekanik düzenlemesi gibi işlevler genellikle kamera gövdesi tarafından gerçekleştirilir."
+    },
+    {
+        "SoruID": 331752,
+        "Aciklama": "Objektifin fotoğraf makinesi gövdesine mekanik ve elektronik olarak bağlanmasını sağlayan metal kısım <b>Bayonet (Lens Mount)</b> olarak adlandırılır. Her makine üreticisinin veya sisteminin kendine özgü bir bayonet tasarımı vardır (örneğin Canon EF, Nikon F, Sony E)."
+    },
+    {
+        "SoruID": 331755,
+        "Aciklama": "Odak uzaklığı, normal lenslerden (50 mm) daha uzun olan objektifler, <b>Tele objektifler</b> olarak adlandırılır. Bu lensler, <b>uzak mesafedeki nesneleri</b> daha büyük ve daha yakın göstererek detaylı fotoğraflar çekmek için tasarlanmıştır."
+    },
+    {
+        "SoruID": 331760,
+        "Aciklama": "<b>Makro (Macro) lensler</b>, diğer objektif türlerine göre çok daha kısa minimum odaklanma mesafelerine (minimum focus distance) sahiptirler. Bu sayede, normalde gözle zor görülen küçük nesnelerin veya detayların, sensör üzerinde yüksek büyütme oranlarıyla (genellikle 1:1 veya daha fazla) fotoğraflanmasını sağlarlar."
+    },
+    {
+        "SoruID": 173210,
+        "Aciklama": "Flaşın aydınlatma mesafesi, <b>Kılavuz Numarası (Guide Number - GN)</b> formülüyle hesaplanır: GN = Diyafram (f/) x Mesafe (m). Bu durumda, soruda verilen pozlandırma değeri 54'ün (54 EV), 100 ISO için Kılavuz Numarası (GN) olarak kabul edildiği varsayılır (GN=54).<br>Mesafe = GN / Diyafram = 54 / 1.4 ≈ 38.57 metre. Şıklarda bu değere en yakın standart değer olan <b>yaklaşık 40 metre</b> doğru cevap olacaktır."
+    },
+    {
+        "SoruID": 173215,
+        "Aciklama": "Profesyonel fotoğraf makinelerinde, standart bir flaş kızağına (hot shoe) monte edilerek kullanılan ve makineye entegre olmayan, kendi güç kaynağı ve kontrol mekanizması bulunan bu harici flaş ünitelerine <b>Tepe Flaşları (Speedlight/Hot Shoe Flash)</b> adı verilir. Bu flaşlar dahili flaşlara göre daha güçlü ve esnektir."
+    },
+    {
+        "SoruID": 173219,
+        "Aciklama": "Objektife 10 cm gibi çok yakın mesafelerde yapılan <b>makro fotoğrafçılıkta</b>, objektifin konuya gölge düşürmesini engellemek ve homojen, çepeçevre aydınlatma sağlamak için özel olarak tasarlanmış olan <b>Halka Flaş (Ring Flash)</b> kullanılır. Halka flaş, objektifin etrafına takılır ve gölgesiz aydınlatma sağlar."
+    },
+    {
+        "SoruID": 173226,
+        "Aciklama": "Sürekli ışık kaynakları arasında LED ışıkların halojen lambalara göre en önemli üstünlüğü, halojen lambaların aksine, çok daha <b>düşük enerji tüketmeleri</b> ve buna bağlı olarak aşırı <b>ısı üretmemeleridir</b>. Ayrıca LED'ler halojen lambalara göre çok daha <b>uzun ömürlüdür</b>."
+    },
+    {
+        "SoruID": 173231,
+        "Aciklama": "Hafıza kartlarında kullanılan 'x' değeri, okuma hızını temsil eder. 1x hızı standart olarak yaklaşık <b>150 KB/s (kilobayt/saniye)</b> olarak kabul edilir. Buna göre, 600x hız: 600 x 150 KB/s = 90.000 KB/s'ye eşittir. Bu değer megabayt cinsinden <b>90 MB/s (Megabayt/saniye)</b> hızını temsil eder."
+    },
+    {
+        "SoruID": 173234,
+        "Aciklama": "Güvenli Dijital (SD) hafıza kartları kapasitelerine göre sınıflandırılır. SDXC (eXtended Capacity) standardı, 64 GB'tan başlayarak maksimum <b>2 TB (Terabayt)</b> kapasiteye ulaşabilen kartları ifade eder. SDHC kartlar 32 GB'a kadar, standart SD kartlar ise 2 GB'a kadar destekler."
+    },
+    {
+        "SoruID": 173237,
+        "Aciklama": "Birçok DSLR ve aynasız fotoğraf makinesinin gövdesinin altına takılan ve genellikle dikey tutuş kolaylığı sağlamasının yanı sıra bir veya daha fazla ekstra pilin muhafaza edilmesini sağlayarak <b>batarya ömrünü uzatan</b> aksesuara <b>Batarya Kabzası (Battery Grip)</b> adı verilir."
+    },
+    {
+        "SoruID": 173241,
+        "Aciklama": "Profesyonel tripotlarda kullanılan en yaygın malzemeler alüminyum ve karbondur. <b>Karbon Fiber (Carbon Fiber)</b> tripotlar, alüminyum muadillerine göre <b>%30'a kadar daha hafif</b> olmasına rağmen yüksek dayanıklılık, titreşim emme yeteneği ve sağlamlık sundukları için tercih edilirler."
+    },
+    {
+        "SoruID": 173244,
+        "Aciklama": "<b>UV (Ultra Viole) filtreler</b> temel olarak morötesi ışınları bloke ederek uzak mesafelerde ortaya çıkan atmosferik <b>puslanmayı (haze) azaltır</b> ve objektifin ön merceğini fiziksel hasarlardan korur. Ancak, UV filtreler renklerin doygunluğunu veya kontrastını artırma gibi birincil göreve sahip değildir; bu, daha çok <b>Polarize Filtrelerin</b> (CPL) işidir."
+    },
+    {
+        "SoruID": 173247,
+        "Aciklama": "<b>Polarize Filtre (Circular Polarizer - CPL)</b>, metalik olmayan yüzeylerden (su, cam, parlak yapraklar vb.) gelen <b>istenmeyen yansımaları ve parlamayı</b> önemli ölçüde ortadan kaldıran veya azaltan filtredir. Ayrıca, gökyüzünün mavisini derinleştirerek ve renkleri zenginleştirerek doygun bir görüntü oluşmasına imkan tanır."
+    },
+    {
+        "SoruID": 178514,
+        "Aciklama": "Flaş ışığı, gün ışığına (Daylight) eşdeğer spektrumda ışık üretmek üzere tasarlanmıştır. Standart flaş ışığının renk sıcaklığı, genellikle <b>5500 Kelvin (K°)</b> ile 5600 Kelvin arasında kabul edilir. Bu, güneşli öğle vakti ışığına karşılık gelen değerdir."
+    },
+    {
+        "SoruID": 178516,
+        "Aciklama": "Flaşın gücünü ve maksimum aydınlatma mesafesini belirlemek için kullanılan değere <b>Kılavuz Numarası</b> denir. İngilizce'deki karşılığı olan Guide Number’ın kısaltması <b>GN</b> olarak ifade edilir ve pozlandırma değeri hesaplamalarında kullanılır."
+    },
+    {
+        "SoruID": 178518,
+        "Aciklama": "Stüdyo tipi haricî flaşmetre yerine, fotoğraf makinesinin objektifinden (lensinden) geçerek doğrudan sensöre (veya özel bir ölçüm sensörüne) düşen ışığı baz alarak flaş gücünü otomatik olarak ayarlayan sisteme <b>TTL (Through The Lens - Objektiften Geçerek)</b> flaş ölçüm türü denir."
+    },
+    {
+        "SoruID": 178519,
+        "Aciklama": "Yüksek watt güçlerine sahip (800W, 1500W gibi) ve ışığı şekillendirmek için <b>softbox</b>, <b>tas (reflektör)</b> gibi modifiye edicilerin kullanıldığı, ana elektrik şebekesiyle çalışan yapay ışık kaynaklarına <b>Stüdyo Flaşları (Studio Strobes)</b> veya Monolight denir. Bu sistemler, yüksek güç ve hassas kontrol gerektiren stüdyo ortamları için idealdir."
+    },
+    {
+        "SoruID": 178521,
+        "Aciklama": "Güncel profesyonel ve yarı profesyonel fotoğraf makinelerinde kullanılan başlıca dört hafıza kartı sınıfı şunlardır: Yüksek hız ve kapasiteye sahip <b>CFexpress</b>, daha önceki yüksek hızlı standart olan <b>XQD</b>, yaygın olarak kullanılan <b>Secure Digital (SD)</b> kartları ve profesyonel alanda hala kullanılan daha büyük formatlı <b>CompactFlash (CF)</b> kartlarıdır."
+    },
+    {
+        "SoruID": 178523,
+        "Aciklama": "Güvenli veri kullanımı için hafıza kartının makineye özgü optimizasyonunu sağlamak amacıyla <b>kartı daima makine içinde formatlamak</b> gerekir. Kartı doldurup tamamen boşaltmadan sürekli kullanmak, kartın dosya sisteminde bozulmalara ve veri kaybına yol açabilir. Veri kaybını en aza indirmek için <b>kartı dolmadan formatlamaktan kaçınmak</b> genellikle yanlış bir uygulamadır; tam tersine, düzenli formatlama kart sağlığını korur."
+    },
+    {
+        "SoruID": 178525,
+        "Aciklama": "<b>Tripot</b> kelimesi, Latince’de 'üç ayaklı' anlamına gelen 'tri' (üç) ve 'pod' (ayak) kelimelerinden türemiştir. Adından da anlaşılacağı gibi, kamerayı stabil tutmak için <b>üç adet ayağa</b> sahiptir."
+    },
+    {
+        "SoruID": 178526,
+        "Aciklama": "Özellikle <b>video çekimlerinde</b> veya hassas <b>panorama kaydırmalarında</b> kameranın yatay ve dikey eksende sarsıntısız, yumuşak ve kontrollü hareket etmesini sağlamak amacıyla kullanılan tripot kafa türüne <b>Akışkan Kafa (Fluid Head)</b> denir. Bu kafa, içerisindeki akışkan damperleme sistemi sayesinde pürüzsüz kamera hareketlerine izin verir."
+    },
+    {
+        "SoruID": 331764,
+        "Aciklama": "Dijital fotoğraf makinelerinde çekilen fotoğrafların dijital veriler halinde kalıcı olarak saklanmasını sağlayan en temel aksesuar <b>Hafıza Kartı (Memory Card)</b>'dır. Çekilen her fotoğraf ve video bu karta kaydedilir."
+    },
+    {
+        "SoruID": 331767,
+        "Aciklama": "Flaşın fotoğrafçılıkta birden çok amacı vardır:<br>I. Yetersiz ışık koşullarında <b>konuyu aydınlatmak</b> (Ana ışık veya dolgu ışığı olarak).<br>II. Gölge ve kontrastı kontrol ederek, ışıkla belirli <b>görüntü ögelerine vurgu yapmak</b>.<br>III. Hızlı çakma süresi sayesinde hareketi <b>dondurarak özel efektler oluşturmak</b> (veya yavaş senkronizasyon ile hareket izi yaratmak).<br>Bu nedenle, yukarıdaki tüm maddeler (I, II ve III) flaş kullanımının amaçları arasında yer alır."
+    },
+    {
+        "SoruID": 331770,
+        "Aciklama": "Bütün flaşların ışık gücü belirli bir indeksle ifade edilir. Soruda boş bırakılan yere gelmesi gereken ifade, profesyonel stüdyo flaşlarının (paraflaş) gücünü belirten birimdir. Bu birim, genellikle <b>Watt Saniye (W/s)</b> veya <b>Joule</b> olarak ifade edilir. Watt Saniye, flaşın bir deşarj sırasında harcadığı enerji miktarını ölçerek, doğrudan flaşın maksimum ışık çıkış potansiyelini gösterir.<br>Bu, taşınabilir flaşlarda (tepe flaşları) kullanılan ve mesafeye bağlı olarak diyafram ayarını hesaplamaya yarayan <b>Kılavuz Numarası (Guide Number - GN)</b> yönteminden farklı, daha mutlak bir güç ölçümüdür."
+    },
+    {
+        "SoruID": 331773,
+        "Aciklama": "1994 yılında <b>Sandisk</b> tarafından tanıtılan ve yüksek depolama kapasitesi ile hızlı işlem performansı sunan bu kart türü <b>CompactFlash (CF)</b> kartıdır. CF kartları, boyutları ve iç yapılarının dayanıklılığı sayesinde uzun yıllar boyunca özellikle profesyonel <b>üst düzey DSLR</b> fotoğraf makinelerinde tercih edilen ana depolama standardı olmuştur. Hızlı işlem süresi, yüksek çözünürlüklü ve seri çekim gerektiren profesyonel fotoğrafçılık uygulamaları için hayati önem taşır."
+    },
+    {
+        "SoruID": 331776,
+        "Aciklama": "Görünür ışıktan daha kısa dalga boyuna sahip olan ve 10 nm ila 400 nm aralığında bulunan elektromanyetik radyasyon, yani <b>morötesi ışınım (UV)</b>, fotoğraf çekimlerinde istenmeyen mavi renk kaymalarına, kontrast kaybına ve bulanıklığa neden olabilir. Bu ışınların film düzlemine veya dijital sensöre ulaşmasını önlemek amacıyla kullanılan filtre türü <b>UV Filtresi (Morötesi Filtre)</b>'dir. UV filtreleri, aynı zamanda objektifin ön camını toz, kir ve çiziklere karşı koruyan pratik bir görev de üstlenir."
+    },
+    {
+        "SoruID": 173287,
+        "Aciklama": "Pozlama üçgenindeki üç temel unsurdan ikisi (Diyafram ve Enstantane) fiziksel ışık kontrol mekanizmalarıyken, <b>ISO (Hassasiyet)</b> diğerlerinden farklı olarak sensöre düşen sinyalin elektronik/dijital olarak yükseltilmesini ifade eder. Bu nedenle, ISO bir sensör duyarlılığı ayarı olup, fiziki bir araç olmaktan çok <b>yazılımsal bir uygulama</b> olarak kabul edilir."
+    },
+    {
+        "SoruID": 173289,
+        "Aciklama": "Görüntünün pozlamasına etki eden kamera ayarları, <b>Pozlama Üçgeni</b> olarak adlandırılan üç temel unsurdur: <b>Diyafram Açıklığı</b> (lensin açıklığı), <b>Enstantane Hızı</b> (pozlama süresi) ve <b>ISO Hassasiyeti</b> (ışığa duyarlılık). Bu üç unsur, sensöre ulaşan toplam ışık miktarını ve süresini belirler."
+    },
+    {
+        "SoruID": 173291,
+        "Aciklama": "Diyafram, ISO ve enstantane hızının, kameranın önerdiği doğru pozlama değerlerine bakılmaksızın kullanıcı tarafından tamamen belirlendiği pozlama modu <b>Manuel (M) Modu</b>'dur. Bu mod, fotoğrafçıya pozlama üzerinde <b>tam yaratıcı kontrol</b> sağlar."
+    },
+    {
+        "SoruID": 173292,
+        "Aciklama": "Giriş seviyesi kameraların yaygın amatör modları genellikle önceden ayarlanmış sahne modlarıdır (Portre, Manzara, Spor vb.). <b>Manuel (M) Modu</b>, <b>Diyafram Öncelikli (Av)</b> veya <b>Enstantane Öncelikli (Tv/S)</b> gibi pozlama üzerinde doğrudan kontrol sağlayan modlar, genellikle yaratıcı veya yarı otomatik modlar kategorisinde yer alır ve yaygın amatör (sahne) modlar arasında sayılmazlar."
+    },
+    {
+        "SoruID": 173293,
+        "Aciklama": "<b>Eş Değerlilik İlkesi (Reciprocity)</b>, toplam pozlama değerinin sabit tutulması için pozlama unsurlarının telafi edilebilir olmasını ifade eder. ISO 100 ile f/8 ve 1/125 saniye değerleri verildiğinde, bu değerlere eş değer bir başka değer çifti bulunmalıdır. Enstantane hızını bir durak hızlandırıp (1/250 saniyeye), diyaframı bir durak açarsak (<b>f/5.6</b>'ya), ışık miktarı aynı kalır. Doğru eş değer değerlerden biri <b>f/5.6 ve 1/250 saniye</b> olmalıdır."
+    },
+    {
+        "SoruID": 173294,
+        "Aciklama": "Yaygın olarak kullanılan ışık ölçüm metotları şunlardır: <b>Çok Alanlı (Matriks/Değerlendirici)</b>, <b>Merkez Ağırlıklı</b> ve <b>Noktasal (Spot)</b> ölçüm. Bu modlar, kameranın sahnenin ışığını nasıl analiz edeceğini belirler. Şıklarda bu üç temel mod dışında kalan bir seçenek (örneğin bir pozlama modu veya odaklama ayarı) ışık ölçüm metodu değildir."
+    },
+    {
+        "SoruID": 173296,
+        "Aciklama": "Makinede sensör veya film önünü kapatıp açarak pozlama süresini (zamanlamayı) kontrol eden mekanik parça <b>Perde (Shutter)</b>'dir. Perdenin açık kalma süresi ise <b>Enstantane Hızı</b> olarak adlandırılır."
+    },
+    {
+        "SoruID": 173298,
+        "Aciklama": "Alan derinliğini (net görünen ön ve arka plan mesafesi) değiştiren üç ana kriter bulunmaktadır: 1. <b>Diyafram Açıklığı</b> (Diyafram ne kadar açık olursa alan derinliği o kadar azalır). 2. <b>Odak Uzaklığı</b> (Odak uzaklığı arttıkça alan derinliği azalır). 3. <b>Konuya Uzaklık</b> (Konuya yaklaştıkça alan derinliği azalır)."
+    },
+    {
+        "SoruID": 173300,
+        "Aciklama": "Işığın az olmasından, yetersiz pozlamadan veya yüksek ISO kullanılmasından kaynaklanan, özellikle koyu (gölgeli) alanlarda oluşan hatalı renkte ve yapıda pikselleşmeye <b>Gürültü (Noise)</b> veya <b>Kumlanma</b> adı verilir. Renk bilgisinin bozulduğu bu tür gürültüye <b>Kromatik Gürültü</b> denir."
+    },
+    {
+        "SoruID": 173302,
+        "Aciklama": "Otomatik netleme (AF) alanı modları, kameranın netleme noktalarını nasıl seçeceğini ve kullanacağını belirler. Yaygın modlar arasında <b>Tek Nokta AF</b>, <b>Dinamik Alan AF</b> veya <b>Otomatik Alan AF</b> yer alır. <b>Çok Alanlı Ölçüm</b>, <b>Merkez Ağırlıklı Ölçüm</b> veya <b>Noktasal Ölçüm</b> gibi kavramlar ise ışık ölçüm modlarıdır ve otomatik netleme alanı modlarından biri değildir."
+    },
+    {
+        "SoruID": 178529,
+        "Aciklama": "Fotoğrafta pozlandırma (exposure), sensöre ulaşan ışık yoğunluğu (Diyafram tarafından belirlenen) ve bu ışığa maruz kalma <b>süresi</b> (<b>Enstantane Hızı</b> tarafından belirlenen) ile belirlenir. Boş bırakılan yere 'süre' kavramını temsil eden <b>Enstantane Hızı</b> veya genel olarak <b>Süre</b> kavramı gelmelidir."
+    },
+    {
+        "SoruID": 178532,
+        "Aciklama": "Kamera pozlama modu kadranında genellikle <b>M, Av/A, Tv/S, P</b> ve Otomatik/Sahne modları bulunur. <b>Beyaz Ayarı (White Balance)</b>, fotoğrafın renk sıcaklığını belirleyen bir ayardır, ancak ana pozlama modu seçme kadranında bir mod olarak <u>yer almaz</u>; genellikle ayrı bir düğme veya menü ayarıdır."
+    },
+    {
+        "SoruID": 178539,
+        "Aciklama": "Bu mod <b>Enstantane Öncelikli (Tv veya S) Modu</b> olarak adlandırılır. Kullanıcının sadece istediği <b>Enstantane Hızını</b> (pozlama süresini) belirlediği, buna karşılık makinenin sahnenin ışığına göre uygun <b>Diyafram Açıklığını</b> otomatik olarak hesapladığı yarı otomatik bir moddur."
+    },
+    {
+        "SoruID": 178542,
+        "Aciklama": "Pozlama, sensöre ulaşan ışığın <b>Yoğunluğu</b> ile sensörün bu ışığa maruz kaldığı <b>Sürenin</b> çarpımıdır. Formül: Pozlama = <b>Işık Yoğunluğu</b> x Süre. Eş değerlilik ilkesi, bu çarpımın sabit kaldığı sürece yoğunluk ve sürenin değiştirilebileceğini ifade eder."
+    },
+    {
+        "SoruID": 178545,
+        "Aciklama": "Çerçevenin birçok küçük parçaya bölünerek her bir bölümden poz okuması alındığı ve genel bir <b>ortalama hesaplaması</b> yapılarak en dengeli pozlamanın belirlenmeye çalışıldığı ölçüm metodu <b>Çok Alanlı Ölçüm (Matrix/Evaluative Metering)</b> olarak adlandırılır."
+    },
+    {
+        "SoruID": 178547,
+        "Aciklama": "Temel veya tam duraklar (full stops), bir önceki değere göre ışık miktarını tam olarak iki kat artıran veya yarıya indiren değerlerdir. Standart tam duraklar: 1, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250 saniye vb. <b>1/100 saniye</b> gibi değerler, genellikle 1/3 veya 1/2 durak artışlarında kullanılan ara değerlerdir, temel (tam) durak değildir."
+    },
+    {
+        "SoruID": 178548,
+        "Aciklama": "Diyafram açıklığı (f/stop) değeri, <b>Odak Uzaklığı</b>'nın (F) <b>Efektif Optik Çap</b>'a (D) bölünmesiyle hesaplanır. <br/>Formül: f/stop = F / D. <br/>Verilenler: F=50 mm, D=25 mm. <br/>f/stop = 50 / 25 = 2. <br/>Maksimum diyafram açıklığı <b>f/2</b> olur."
+    },
+    {
+        "SoruID": 178551,
+        "Aciklama": "Kamera az ışık koşullarında (düşük kontrast nedeniyle) netlemede zorlandığında, doğru netleme yapabilmek için <b>AF Yardımcı Işını (AF Assist Beam)</b> kullanılır. Bu ışın, sahneyi kısa süreliğine aydınlatarak kameranın netlik sensörlerinin <b>kontrastı algılamasına</b> yardımcı olur."
+    },
+    {
+        "SoruID": 331779,
+        "Aciklama": "Pozlamaya etki eden temel unsurlar, fotoğrafçılığın temeli olan <b>Pozlama Üçgeni</b>'ni oluşturur. Bu unsurlar: I. <b>Enstantane hızı</b>, II. <b>Diyafram açıklığı</b> ve III. <b>ISO hassasiyeti</b>'dir. Dolayısıyla, hepsi (I, II ve III) pozlamaya etki eder."
+    },
+    {
+        "SoruID": 331782,
+        "Aciklama": "Bu açıklama <b>Program (P) Otomatik Modu</b>'nu tanımlar. P modunda makine, diyafram ve enstantane hızını otomatik olarak belirleyerek iyi bir pozlama dengesi kurar, ancak kullanıcıya <b>ISO hassasiyetini</b> ve <b>pozlama telafisini</b> (exposure compensation) ayarlama seçeneğini bırakarak duruma ince ayar yapma imkanı tanır."
+    },
+    {
+        "SoruID": 331785,
+        "Aciklama": "Bu ölçüm modu, genellikle <b>Çok Alanlı</b> (Matrix) veya <b>Değerlendirici</b> (Evaluative) ölçüm olarak adlandırılır. Kamera, çerçeveyi birçok küçük bölgeye ayırır ve her bir bölgedeki ışık değerini ayrı ayrı okur. Bu okumaları, sahnenin genel parlaklık dağılımını, odak noktasını ve ton farklılıklarını dikkate alan karmaşık bir algoritma ile analiz eder.<br>Amaç, özellikle zorlu ışık koşullarında (kontrastlı sahneler) bile en doğru ve dengeli pozlama sonucunu elde etmektir. Diğer basit ölçüm modlarına (merkez ağırlıklı veya spot ölçüm) göre daha güvenilir genel ortalama değerler sunar."
+    },
+    {
+        "SoruID": 331789,
+        "Aciklama": "Cümlede boş bırakılan yere getirilmesi gereken ifade <b>enstantane (perde) hızı</b>dır. Enstantane hızı, sensörün ne kadar süreyle ışığa maruz kalacağını belirler ve fotoğrafçılıkta hareketin kontrolü için temel araçtır. Konudaki hareketi <b>dondurmak</b> veya keskinleştirmek için yüksek bir enstantane hızı kullanılır (örneğin 1/500 saniye, 1/1000 saniye veya daha yüksek).<br>Bu hız ne kadar yüksek olursa, perde o kadar kısa süre açık kalır ve hareket eden nesnelerde ortaya çıkan bulanıklık (hareket bulanıklığı) o kadar azalır. Hareketli kuşlar gibi hızlı nesneler için yüksek hızlar elzemdir."
+    },
+    {
+        "SoruID": 331790,
+        "Aciklama": "Fotoğraftaki <b>net alan derinliği</b> (Depth of Field - DoF), bir sahnenin hem önünde hem de arkasında kabul edilebilir düzeyde net görünen kısmıdır. Listelenen üç ögenin tamamı (I, II ve III) alan derinliğini doğrudan etkileyen faktörlerdir:<br>I. <b>Diyafram Açıklığı:</b> Diyafram ne kadar açık (küçük f/ değeri), alan derinliği o kadar sığ olur.<br>II. <b>Lensin Odak Uzaklığı:</b> Odak uzaklığı ne kadar uzun olursa (telefoto), alan derinliği o kadar azalır.<br>III. <b>Konuya Uzaklık:</b> Kameranın konuya olan mesafesi azaldıkça (yakın çekim), alan derinliği dramatik şekilde azalır.<br>Bu nedenle, doğru seçenek bu üç faktörün hepsini içeren şıktır."
+    },
+    {
+        "SoruID": 173333,
+        "Aciklama": "Basın fotoğrafının temel türleri, güncel olayları ve yaşamı belgelemeyi amaçlayan <b>haber fotoğrafı</b>, <b>spor fotoğrafı</b>, <b>röportaj fotoğrafı</b> ve <b>magazin fotoğrafı</b> gibi alanları kapsar. Bu fotoğraf türü, kamuoyunu bilgilendirme işlevi görür. Habercilik amacı taşımayan ve genellikle yapay ışıklarla çekilen <b>stüdyo portre fotoğrafı</b>, basın fotoğrafının doğrudan türlerinden biri olarak kabul edilmez, çünkü amacı anlık ve gerçek bir durumu belgelemek değildir."
+    },
+    {
+        "SoruID": 173334,
+        "Aciklama": "Basın fotoğrafının estetik ölçütleri, fotoğrafın <b>anlatım gücü</b>, <b>etkileyicilik</b>, <b>kompozisyon dengesi</b> ve <b>teknik yeterliliği</b> ile ilgilidir. Basın fotoğrafı mümkün olduğunca doğal ışık koşullarında çekilen anlık gerçekliği yansıtmalıdır. Bu nedenle, <b>yapay ışık kullanımı zorunluluğu</b>, fotoğrafın estetik veya teknik bir ölçütü değil, aksine çoğu zaman habercilik ortamında hız ve doğallığı düşürebilecek bir durumdur."
+    },
+    {
+        "SoruID": 173335,
+        "Aciklama": "Reklam ve tanıtım fotoğrafçılığında ürünleri en iyi şekilde aydınlatmak ve görsel çekicilik katmak için <b>softboxlar</b>, <b>reflektörler</b>, <b>stüdyo flaşları</b> ve <b>tripodlar</b> gibi ışığı kontrol eden ve stabilite sağlayan yardımcı araçlar kullanılır. <b>Hava durumu gözlem istasyonu</b> ise genellikle dış mekân, manzara veya doğa fotoğrafçılığı planlamasında rol oynar ve reklam stüdyosu çekimlerinde temel yardımcı araç-gereç sayılmaz."
+    },
+    {
+        "SoruID": 173336,
+        "Aciklama": "Reklam fotoğrafçılığının temel amacı ikna etmektir. Bu nedenle fotoğrafların <b>ürünü öne çıkarma</b>, <b>hedef kitleye uygun mesaj iletme</b> ve <b>yüksek görsel çekiciliğe</b> sahip olması gerekir. Reklam fotoğrafçılığı doğası gereği bir pazarlama aracıdır ve ürünü olumlu yönde vurgular. Bu bağlamda, <b>tarafsız habercilik yaklaşımı</b>, basın fotoğrafçılığı için gerekli bir nitelik iken, reklam fotoğrafçılığında bulunması gereken bir özellik değildir."
+    },
+    {
+        "SoruID": 173337,
+        "Aciklama": "Makro objektifler nesneleri yüksek oranda büyüterek detayları yakalar. Ancak büyütme oranı ne kadar artarsa, odak noktasının önündeki ve arkasındaki netlik alanı (<b>alan derinliği</b>) o kadar azalır ve <b>çok sığ hale gelir</b>. Bu durum, makro fotoğrafçının nesnenin tamamını keskin tutmada büyük zorluk yaşamasına neden olur ve çekim sırasında tripod ve hassas odaklama gerektirir."
+    },
+    {
+        "SoruID": 173338,
+        "Aciklama": "Manzara fotoğrafçılığında dinamik ve dengeli bir kompozisyon elde etmek için genellikle <b>Üçte Bir Kuralı</b> (Rule of Thirds) uygulanır. Ufuk çizgisinin kadrajın tam ortasına (1/2) yerleştirilmesi fotoğrafı durağanlaştırır. Estetik olarak doğru konumlandırma, ufuk çizgisini kadrajın alt <b>1/3'lük</b> çizgisine (gökyüzü vurgulanıyorsa) veya üst <b>2/3'lük</b> çizgisine (ön plan vurgulanıyorsa) yerleştirmektir."
+    },
+    {
+        "SoruID": 173339,
+        "Aciklama": "Fotoğraf makinesi sensörünün ışığa karşı hassasiyetini artıran <b>yüksek ISO</b> değerleri, düşük ışık koşullarında çekim yapmaya olanak tanır. Ancak, ISO yükseltildiğinde sensördeki elektriksel sinyaller de yükseltilir ve bu durum, özellikle karanlık bölgelerde görüntünün piksellenmesine, grenli veya benekli görünmesine neden olan <b>kumlanma</b> (noise) sorununu beraberinde getirir."
+    },
+    {
+        "SoruID": 173340,
+        "Aciklama": "Mimari fotoğrafçılık, yapıların hatlarını ve perspektifini doğru yakalamayı gerektirir. Temel ekipmanlar arasında <b>tilt-shift objektifler</b> (perspektif düzeltme için), <b>geniş açılı objektifler</b> ve <b>sağlam tripodlar</b> bulunur. <b>Halkalı flaş</b> (Ring Flash) ise makro fotoğrafçılıkta veya yakın plan portre çekimlerinde objeyi gölgesiz aydınlatmak için kullanılan özel bir ekipmandır ve mimari fotoğrafçılığın temel ekipman listesinde yer almaz."
+    },
+    {
+        "SoruID": 173355,
+        "Aciklama": "Mimari fotoğrafçılıkta, binaların dikey çizgilerinin birbirine yaklaşarak yamuk görünmesi (perspektif bozulması) sıkça rastlanan bir sorundur. Bu optik bozulmayı, fotoğraf makinesini eğmeden, objektifin optik eksenini kaydırmasını sağlayan özel olarak tasarlanmış <b>tilt-shift objektiflerin kullanılması</b> en etkili çekim anı çözüm yöntemidir."
+    },
+    {
+        "SoruID": 173359,
+        "Aciklama": "Makro objektifler, çok kısa mesafeden netleme yapabilme ve <b>yüksek büyütme oranına</b> (genellikle 1:1) sahip olma özellikleriyle bilinirler. Ancak, yüksek büyütme oranına bağlı olarak <b>alan derinliği oldukça sığdır</b>. Dolayısıyla, makro objektiflerin temel özelliklerinden biri, sınırsız veya geniş bir alan derinliği sağlamak değil, tam tersine alan derinliğinin çok dar olmasıdır."
+    },
+    {
+        "SoruID": 178552,
+        "Aciklama": "Basın fotoğrafının temel işlevleri; <b>bilgilendirme</b>, <b>olaya tanıklık etme</b>, <b>belgeleme</b> ve toplumsal hafızayı oluşturmadır. Basın fotoğrafı, habercilik etiği ve gerçeğe uygunluk çerçevesinde kamu yararını gözetir. <b>Ticari ürün satışını garanti etme</b> işlevi ise reklam fotoğrafçılığının temel amacıdır ve basın fotoğrafının işlevleri arasında yer almaz."
+    },
+    {
+        "SoruID": 178553,
+        "Aciklama": "Haber fotoğrafının teknik nitelikleri arasında fotoğrafın <b>keskinliği</b>, <b>doğru pozlanmış olması</b> ve kompozisyonunun haberi desteklemesi yer alır. Haber fotoğrafçılığında temel kural, fotoğrafın olay anını doğru yansıtmasıdır. Bu nedenle, <b>yoğun manipülasyon içermesi</b> haber fotoğrafının teknik veya etik bir niteliği değil, mesleki dürüstlüğe aykırı bir durumdur."
+    },
+    {
+        "SoruID": 178554,
+        "Aciklama": "Reklam fotoğrafçılığı, hedef kitlenin dikkatini çekerek marka bilinirliğini artırmayı ve ürün veya hizmetin çekiciliğini vurgulamayı amaçlar. Nihai ve en genel amaç, potansiyel müşteriyi ürünü arzulamaya yönlendirerek <b>tüketiciyi satın almaya ikna etmektir</b>."
+    },
+    {
+        "SoruID": 178555,
+        "Aciklama": "Reklam ve tanıtım fotoğrafçılığı, <b>ürün fotoğrafçılığı</b> (still life), <b>moda fotoğrafçılığı</b>, <b>gıda fotoğrafçılığı</b> ve <b>kurumsal mekân fotoğrafçılığı</b> gibi pek çok ticari amaca hizmet eden türü içerir. <b>Arkeolojik belgeleme fotoğrafçılığı</b> ise bilimsel ve tarihsel kayıt tutma amacıyla yapılır ve reklam veya tanıtım amacı taşımaz."
+    },
+    {
+        "SoruID": 178556,
+        "Aciklama": "Makro fotoğrafçılıkta çok dar olan alan derinliğini ve hassas netlemeyi yönetmek için <b>mikro ayarlı odaklama kızakları</b> ve <b>tripodlar</b> kullanılır. Ayrıca, yeterli ışık sağlamak için <b>halkalı flaşlar</b> önemli yardımcı araçlardır. <b>ND Filtreler</b> (Yoğunluk Filtreleri) ise ışık miktarını azaltmak, genellikle uzun pozlama yapmak için manzara fotoğrafçılığında kullanılır ve makro fotoğrafçılığın temel yardımcı araçlarından değildir."
+    },
+    {
+        "SoruID": 178557,
+        "Aciklama": "Manzara fotoğrafçılığında ideal ışık koşullarını sunan ve fotoğrafa sıcaklık, yumuşaklık ve uzun gölgeler katan zaman dilimi <b>altın saat</b> olarak adlandırılır. Bu zaman dilimi, <b>gün doğumundan hemen sonraki ilk saat</b> ve <b>gün batımından hemen önceki son saat</b> olarak kabul edilir."
+    },
+    {
+        "SoruID": 178558,
+        "Aciklama": "Manzara fotoğrafçılığında kompozisyon ve ışık kontrolü için <b>tripodlar</b>, <b>polarize filtreler</b> ve <b>dereceli ND filtreler</b> gibi ekipmanlar yaygın kullanılır. <b>Makro odaklama kızakları</b> ise küçük objelerin mikron seviyesinde hareket ettirilip üst üste bindirilmiş netlik katmanları oluşturmak (focus stacking) amacıyla makro fotoğrafçılıkta kullanılan özel bir araçtır ve manzara fotoğrafçılığında temel yardımcı ekipmanlardan değildir."
+    },
+    {
+        "SoruID": 178559,
+        "Aciklama": "Mimari fotoğrafçılık, binalar, yapılar, iç ve dış mekânlar, tarihi yapılar ve <b>şehir manzaraları</b> gibi inşa edilmiş çevrenin estetik ve belgesel amaçlı görüntülenmesiyle ilgilenir. Bu alan, yapının formunu ve tasarımını vurgular. <b>Atom altı parçacıkların görüntülenmesi</b> ise bilimsel araştırma ve laboratuvar uzmanlık alanına girer ve mimari fotoğrafçılığın kapsamı dışındadır."
+    },
+    {
+        "SoruID": 178560,
+        "Aciklama": "\"Drone\" kelimesi, havadan fotoğraf ve video çekimi için fotoğrafçılıkta yaygın olarak kullanılan uzaktan kumandalı hava araçlarını tanımlar. Türk Dil Kurumu (TDK) tarafından bu teknolojik cihazlar için belirlenen Türkçe karşılık, yaygın olarak kabul görmüş olan <b>İnsansız Hava Aracı (İHA)</b>'dır veya nadiren kullanılan spesifik terimler mevcuttur. (Not: Eğer şıklarda 'Uçangöz' varsa, o da TDK'nın önerdiği karşılıklardan biridir, ancak İHA genel kabul görmüştür.)"
+    },
+    {
+        "SoruID": 331793,
+        "Aciklama": "Güncel olayları, toplumsal değişimleri ve yaşam tarzı hikâyelerini, gerçekliği koruyarak ve doğrudan bir anlatımla belgeleyen fotoğraf türüne <b>Belgesel Fotoğrafçılık</b> denir. Bu tür, genellikle süreli yayınlarda veya uzun süreli projelerde yer alır ve kamuoyunu bilgilendirme ve farkındalık yaratma amacını taşır. Basın fotoğrafçılığı da bu geniş kategoriye girer."
+    },
+    {
+        "SoruID": 331796,
+        "Aciklama": "Hedef kitlenin düşünce ve alışkanlıklarını etkileyerek onlarda satın alma isteği uyandırmayı amaçlayan fotoğraf türü <b>Reklam Fotoğrafçılığı</b> veya daha geniş anlamıyla Ticari Fotoğrafçılıktır. Bu tür, ürün veya hizmetlerin cazip yönlerini vurgulayarak belirli bir <b>algı yaratmak</b> ve <b>ticari kazanç</b> sağlamak için çekilir. Çekimler genellikle stüdyo ortamında veya kontrollü setlerde, yapay ışık ve düzenlemelerle gerçekleştirilir."
+    },
+    {
+        "SoruID": 331798,
+        "Aciklama": "Çevremizdeki küçük nesnelere veya detaylara çok yakın mesafelerden yaklaşarak bu nesnelerin gerçek boyutlarından daha büyük görüntüler elde etmeyi hedefleyen fotoğraf türü <b>Makro Fotoğrafçılık</b>'tır. Bu teknik, özellikle böcekler, çiçek detayları veya diğer küçük objelerin <b>mikro dünyasını büyüterek</b> izleyiciye sunar. Bu, özel lensler (makro lensler) ve yakın odaklama yetenekleri gerektirir."
+    },
+    {
+        "SoruID": 331801,
+        "Aciklama": "Fotoğraf makinelerinde net alan derinliği (fotoğrafın net olduğu ön ve arka plan mesafesi) kullanılan <b>diyafram değeri</b> (f-stop) ile doğrudan ilişkilidir.<br>Diyafram değeri sayısal olarak yükseldikçe (örneğin f/16, f/22), diyafram açıklığı küçülür ve bu da net alan derinliğini <b>en yüksek düzeye</b> çıkarır. Manzara fotoğrafçılığında, genellikle hem ön planın hem de arka planın net olması istendiği için en yüksek f-sayısına sahip olan (en küçük açıklık) diyafram değeri tercih edilir."
+    },
+    {
+        "SoruID": 331803,
+        "Aciklama": "Doğallıktan ziyade, set, ışık ve kompozisyonun bütünüyle kontrol altına alındığı ve yoğun <b>yapay uygulamalara</b> (styling, yapay ışıklandırma, post-prodüksiyon) önem verilen fotoğraf türleri genellikle <b>Moda</b> veya <b>Reklam Fotoğrafçılığı</b>dır. Bu türler, gerçekliği idealize edilmiş veya çarpıtılmış bir şekilde sunmayı amaçlar ve stüdyo ortamının sağladığı tam kontrole dayanır. Buna karşın, Belgesel veya Doğa fotoğrafçılığı genellikle doğallığa odaklanır."
+    },
+    {
+        "SoruID": 173369,
+        "Aciklama": "Bu tanım, dijital fotoğrafçılıkta kullanılan ve boyutu geleneksel 35mm film karesi (yaklaşık 36mm x 24mm) ile <b>birebir aynı</b> olan algılayıcı sensör tipini ifade eder: <b>Full-frame (Tam Çerçeve)</b>. Full-frame sensörler, objektifin sunduğu tüm görüş alanını kısıtlama olmaksızın yakalar ve genellikle daha yüksek görüntü kalitesi sunar."
+    },
+    {
+        "SoruID": 173374,
+        "Aciklama": "Kameranın veya objektifin hareketiyle oluşacak görüntü bulanıklığını (titremeyi) azaltmak için tasarlanmış bu teknolojiye <b>Görüntü Sabitleme (Image Stabilization)</b> denir. Bu özellik, özellikle düşük <b>enstantane hızlarında</b> veya tripotsuz elde çekim yaparken keskin fotoğraflar elde etmek için büyük kolaylık sağlar."
+    },
+    {
+        "SoruID": 173377,
+        "Aciklama": "RAW, JPEG ve TIFF gibi kısaltmalar, dijital fotoğraf makinesi tarafından yakalanan <b>sayısal görüntü verisinin depolanma şeklini</b> belirten temel <b>görüntü dosya formatlarıdır</b>. JPEG sıkıştırmalı ve kayıplıyken, RAW ham sensör verisini içerir ve maksimum düzenleme esnekliği sunar."
+    },
+    {
+        "SoruID": 173379,
+        "Aciklama": "Fotoğrafik bir sahneyi aydınlatmak için kullanılan standart <b>flaşlar</b>, saf <b>gün ışığını</b> taklit etmek üzere kalibre edilmiştir. Flaşların renk sıcaklığı standardı, genellikle <b>5500 Kelvin (K)</b> ile 5600 Kelvin (K) aralığındadır. Bu değer, doğru beyaz ayarının yapılabilmesi için önemli bir referans noktasıdır."
+    },
+    {
+        "SoruID": 173382,
+        "Aciklama": "Dijital fotoğraf makineleriyle çekilen fotoğrafların <b>sayısal veri</b> olarak depolandığı gerece <b>Hafıza Kartı</b> denir. Piyasada en yaygın kullanılan tipleri <b>SD (Secure Digital)</b>, CF (CompactFlash) veya XQD kartlarıdır. Bu kartlar, çekilen görüntülerin kaydedilmesi ve makineden dışarı aktarılması için hayati öneme sahiptir."
+    },
+    {
+        "SoruID": 173386,
+        "Aciklama": "Dijital fotoğraf makinelerinde bulunan <b>kulaklık çıkışı</b>, video kaydı sırasında kameramanın kaydettiği <b>sesin kalitesini ve seviyesini</b> anlık olarak <b>izlemesi</b> (monitor etmesi) amacını taşır. Bu sayede, hatalı ses kayıtlarının önüne geçilir ve kayıt kalitesi kontrol edilir."
+    },
+    {
+        "SoruID": 173391,
+        "Aciklama": "\"1/15, 1/30, 1/60, 1/125, 1/500\" şeklinde verilen değerler, fotoğrafçılığın temel pozlama ayarlarından biri olan <b>Enstantane Hızını</b> (Shutter Speed) ifade eder. Bu rakamlar, fotoğraf makinesinin perdesinin <b>saniyenin kaçta biri</b> kadar süreyle açık kalacağını belirtir."
+    },
+    {
+        "SoruID": 173394,
+        "Aciklama": "Full-frame olmayan (APS-C gibi) sensörlerde kullanılan bir objektifin odak uzaklığının, 35mm (full-frame) eşdeğerini bulmak için <b>Çarpan Faktörü</b> kullanılır. 1.5 çarpanlı bir makinede 50mm objektif kullanıldığında, görüş açısı olarak karşılığı 50mm * 1.5 = <b>75mm</b>'dir. Bu durum, objektifin daha 'zoomlanmış' bir etki yaratmasına neden olur."
+    },
+    {
+        "SoruID": 173395,
+        "Aciklama": "Algılayıcı sensörün standartlardan <b>çok daha az miktarda ışığa maruz bırakılması</b> durumu, <b>Yetersiz Pozlama (Under Exposure / Alt Pozlama)</b> olarak adlandırılır. Bu durum, fotoğrafın genel olarak karanlık çıkmasına ve gölge alanlardaki detayların kaybolmasına yol açar."
+    },
+    {
+        "SoruID": 173396,
+        "Aciklama": "Dijital görüntünün temel yapıtaşı olan, tek bir birimi ifade eden, rengi ve parlaklığı temsil eden bu yapıya <b>Piksel</b> (Picture Element) adı verilir. Bir dijital görüntü, milyonlarca pikselin birleşimiyle oluşur."
+    },
+    {
+        "SoruID": 178561,
+        "Aciklama": "Analog kameralarda kullanılan ışığa duyarlı filmin yerini dijital makinelerde alan ve ışığı yakalayarak <b>sayısal veriye</b> dönüştüren temel parça <b>Görüntü Algılayıcı Sensördür</b> (CMOS veya CCD). Görüntü, bu sensör yüzeyinde oluşur."
+    },
+    {
+        "SoruID": 178563,
+        "Aciklama": "Tam çerçeve (Full Frame) sensör boyutu, geleneksel 35mm filmin (film karesinin) standart ölçülerini esas alır. Bu standart boyut <b>36mm x 24mm</b>’dir. Bu sensörler, özellikle profesyonel ve yüksek kaliteli fotoğrafçılıkta tercih edilir."
+    },
+    {
+        "SoruID": 178564,
+        "Aciklama": "Objektiflerde veya makine gövdesinde bulunan <b>Görüntü Sabitleyici (Image Stabilization)</b> düzeneği, temel olarak <b>kamera sarsıntılarından kaynaklanan bulanıklığı</b> (titremeyi) azaltmak için kullanılır. Bu, özellikle düşük ışıkta veya uzun odak uzaklıklarında elde çekim yaparken görüntü keskinliğini korumaya yardımcı olur."
+    },
+    {
+        "SoruID": 178567,
+        "Aciklama": "Fotoğraf makinesi üzerinde bulunan <b>lens kilidi</b> (veya objektif kilidi düğmesi), objektifin makine gövdesine (bayonet) <b>güvenli bir şekilde takılı kalmasını</b> sağlar. Objektifi çıkarmak için bu kilide basmak zorunludur. Bu, objektifin istenmeyen durumlarda yerinden çıkmasını engeller."
+    },
+    {
+        "SoruID": 178570,
+        "Aciklama": "Fotoğrafçıya konuyu göz ile takip etme ve <b>kompozisyonu kadraja alma</b> imkanı veren optik veya elektronik görüntüleme sistemine <b>Vizör (Viewfinder)</b> denir. DSLR makinelerde optik, aynasız makinelerde ise elektronik vizörler kullanılır."
+    },
+    {
+        "SoruID": 178572,
+        "Aciklama": "Fotoğraf makinelerinde doğru diyafram ve enstantane hızını belirlemek amacıyla, objektiften geçen ışığın miktarını hassas biçimde ölçen düzeneğe <b>Pozometre (Işık Ölçer / Light Meter)</b> denir. Pozometre, fotoğrafçının yeterli pozlama yapmasına yardımcı olur."
+    },
+    {
+        "SoruID": 178574,
+        "Aciklama": "Enstantane ayarlarında 'B' ile işaretlenen <b>'Bulb'</b> seçeneği, deklanşöre basılı tutulduğu sürece perdenin açık kalmasını sağlar. Bu mod, özellikle standart enstantane hızlarının yetersiz kaldığı, <b>birkaç saniyeden daha uzun süren uzun pozlamalar</b> (gece manzarası, yıldız izi vb.) için kullanılır."
+    },
+    {
+        "SoruID": 178577,
+        "Aciklama": "Objektiften geçen ışığın, ne kadar süre ile sensör yüzeyini pozlandıracağını (yani sensörün ışığa maruz kalma süresini) kontrol eden düzeneğe <b>Enstantane (Örtücü)</b> denir. Enstantane hızı, pozlama süresini belirler ve hareketin fotoğrafta nasıl görüneceğini doğrudan etkiler."
+    },
+    {
+        "SoruID": 178579,
+        "Aciklama": "Fotoğrafçının diyafram, enstantane hızı ve ISO gibi tüm <b>pozlama değerlerini tamamen kendi isteğiyle</b> belirlemesine ve ayarlamasına olanak tanıyan mod türüne <b>Manuel Mod (M)</b> denir. Bu mod, yaratıcı kontrolün en üst düzeyde olduğu moddur."
+    },
+    {
+        "SoruID": 178582,
+        "Aciklama": "Aynasız (Mirrorless) makinelerin temel çalışma prensibinde, ışık doğrudan sensöre düşer ve görüntü elektronik olarak ekrana veya vizöre yansıtılır. Bu yapısal özellik nedeniyle, DSLR makinelerde bulunan ve görüntüyü optik vizöre ileten <b>ayna mekanizması</b> ve <b>pentaprizma</b> (veya pentamirror) aynasız fotoğraf makinelerinde <b>bulunmaz</b>."
+    },
+    {
+        "SoruID": 178613,
+        "Aciklama": "Sayısal fotoğraf iş akışı üç ana aşamadan oluşur: Çekim Öncesi, Çekim Anı ve Çekim Sonrası. Çekim öncesi aşaması, fotoğrafçının planlama yaptığı, ekipmanları kontrol ettiği (piller, hafıza kartları) ve ortamı hazırladığı süreci kapsar. Bu aşamada ekipmanların temizliği, bataryaların şarj edilmesi ve kartların formatlanması esastır. Eğer sorunun doğru cevabının 'Harici disk' veya 'Arşivleme yazılımı' gibi bir seçenek olduğunu varsayarsak, bu tür ekipman ve yazılımlar genellikle <b>çekim sonrası</b> aşamada, yani fotoğrafların aktarılması ve arşivlenmesi sırasında kullanılır."
+    },
+    {
+        "SoruID": 178614,
+        "Aciklama": "Çekim anı, fotoğraf makinesi üzerindeki temel teknik ayarların yapıldığı zamandır. Bu unsurlar arasında <b>pozlama (enstantane, diyafram, ISO)</b>, <b>beyaz ayarı (WB)</b>, <b>netleme (focus)</b> ve <b>kompozisyon</b> bulunur. Ancak dosyaları etiketleme, yedekleme veya arşivleme amaçlı sıralama gibi işlemler, iş akışının <b>çekim sonrası</b> aşamasına aittir ve çekim anında karar verilmesi gereken unsurlar arasında yer almaz."
+    },
+    {
+        "SoruID": 178615,
+        "Aciklama": "Fotoğrafçılıkta pozlama, görüntünün sensör üzerine ne kadar ışık düşeceğinin kontrolüdür. Pozlamayı kontrol eden temel üç bileşen (pozlama üçgeni) şunlardır: <b>Enstantane (perde hızı)</b>, <b>Diyafram (açıklık)</b> ve <b>ISO (ışığa duyarlılık)</b>. Bu üç unsur, pozlama seçeneklerini oluşturur. Eğer doğru cevap olarak sunulan şık, bu üçünden farklı bir teknik özellik (örneğin, Dosya Formatı, Renk Uzayı) ise, bu seçenek pozlama ayarları arasında yer almaz."
+    },
+    {
+        "SoruID": 178617,
+        "Aciklama": "Görüntü kalitesini maksimum düzeyde korumak ve çekim sonrası düzenleme (post-prodüksiyon) esnekliği sağlamak için tercih edilen kayıt formatı <b>RAW</b>'dır. RAW, fotoğraf makinesinin sensöründen gelen ham veriyi kayıpsız bir şekilde saklar, bu da düzenleme sırasında <b>görüntü kaybına uğramadan</b> pozlama, renk ve beyaz ayarı gibi kritik değişikliklerin yapılmasına olanak tanır. JPEG ise sıkıştırılmış ve kayıplı bir formattır."
+    },
+    {
+        "SoruID": 178619,
+        "Aciklama": "Dijital görüntüleri fotoğraf makinesinden bilgisayara aktarmak için kullanılan yaygın yöntemler arasında <b>Hafıza Kart Okuyucular (Card Reader)</b>, fotoğraf makinesini doğrudan bilgisayara bağlayan <b>USB kabloları</b> veya bazı durumlarda kablosuz bağlantılar (Wi-Fi, Bluetooth) bulunur. Eğer doğru şık, fotoğraf aktarım işlevi olmayan bir cihazı (örneğin, harici bir monitör veya profesyonel bir tarayıcı) işaret ediyorsa, o ekipman bu amaçla kullanılamaz."
+    },
+    {
+        "SoruID": 178620,
+        "Aciklama": "Fotoğraf arşivlerini bulut sistemlerinde depolamak için kullanılan başlıca online servis sağlayıcıları arasında <b>Google Drive, Dropbox, Microsoft OneDrive</b> ve <b>Adobe Creative Cloud</b> gibi büyük depolama ve senkronizasyon hizmetleri yer alır. Bu hizmetler, arşivlerin yedeklenmesi ve her yerden erişilebilir olmasına olanak sağlar. Eğer doğru şık, bir sosyal medya platformu (Instagram, Twitter) veya bir masaüstü düzenleme programı (Photoshop, GIMP) ise, bunlar birincil bulut depolama servisi olarak kabul edilmez."
+    },
+    {
+        "SoruID": 178622,
+        "Aciklama": "Sayısal fotoğraf arşivlemesi (Digital Asset Management - DAM) için kullanılan yazılımlar, fotoğrafları organize etmek, anahtar kelime eklemek, derecelendirmek ve hızlı arama yapmak amacıyla tasarlanmıştır. Önde gelen örnekler <b>Adobe Lightroom, Capture One ve Adobe Bridge</b>'dir. Eğer doğru cevap olarak belirtilen seçenek, bu amaçlar için tasarlanmamış (örneğin bir metin düzenleyici, basit bir görüntüleyici ya da işletim sistemi) ise, bu bir arşivleme yazılımı değildir."
+    },
+    {
+        "SoruID": 178624,
+        "Aciklama": "Sayısal fotoğraf arşiv yazılımları, genellikle fotoğraf düzenleme iş akışının ilk adımı olan organizasyon ve kataloglama işlevlerini yerine getirir. <b>Adobe Lightroom</b>, bu tür yazılımların en popüler örneklerinden biridir. Lightroom, hem kataloglama (arşivleme) hem de kayıpsız düzenleme özelliklerini bir arada sunar. Diğer örnekler Adobe Bridge ve Capture One'dır."
+    },
+    {
+        "SoruID": 178627,
+        "Aciklama": "Yazılımsız arşivleme, fotoğrafların <b>manuel klasör hiyerarşileri</b> ve <b>anlamlı dosya adları</b> kullanılarak düzenlenmesini ifade eder. Bu yöntemin faydaları arasında maliyetin düşük olması, basitlik ve klasör yapısının kontrolünün tamamen kullanıcıda olması sayılabilir. Ancak yazılımların sağladığı gelişmiş özellikler, örneğin fotoğrafların içeriklerine göre otomatik etiketlenmesi, hızlı metaveri aramaları veya yüz tanıma gibi işlevler, yazılımsız arşivlemede <b>sağlanamaz</b>."
+    },
+    {
+        "SoruID": 180182,
+        "Aciklama": "RAW gibi yüksek çözünürlüklü veya sıkıştırılmamış dosyaların MB cinsinden büyüklüğü arttıkça, bu dosyaların kaydedilmesi, saklanması ve işlenmesi için daha fazla kaynağa ihtiyaç duyulur. Bu durumda öncelikli olarak <b>yüksek kapasiteli depolama alanı</b> (HDD/SSD) ve bu dosyaları makineden makineye taşımak için <b>hızlı aktarım cihazlarına</b> (hızlı kart okuyucular) olan ihtiyaç artar."
+    },
+    {
+        "SoruID": 180184,
+        "Aciklama": "Büyük dijital arşivlerin verimli bir şekilde yönetilebilmesi, hızlı aranabilmesi ve işlenebilmesi için bilgisayar sisteminin güçlü olması gerekir. Özellikle <b>hızlı disk erişimi</b> (SSD kullanımı), yeterli <b>RAM (bellek)</b> ve güçlü bir <b>merkezi işlem birimi (CPU)</b>, bu işlemlerin hızlı ve kesintisiz yapılabilmesi için temel gereksinimlerdir. SSD'ler, mekanik disklere göre dosya erişim ve katalog arama hızını büyük ölçüde artırır."
+    },
+    {
+        "SoruID": 180187,
+        "Aciklama": "Tüm sayısal verilerin belli bir mantık ve düzen içerisinde saklanması, gerektiğinde kolay ve hızlı bir şekilde bulunabilmesi ve erişilebilmesi süreci, temel olarak <b>Sayısal Arşivleme</b> veya <b>Dijital Varlık Yönetimi (DAM)</b> olarak tanımlanır. İyi bir arşivleme sistemi, iş akışının verimliliğini maksimize eder."
+    },
+    {
+        "SoruID": 180195,
+        "Aciklama": "Bulut depolamanın avantajları arasında yedekleme kolaylığı, her yerden erişim ve donanım arızasına karşı koruma yer alır. Ancak bulut sistemleri kullanılırken en büyük dezavantajlardan biri, büyük dosyaların yüklenmesi ve indirilmesi için <b>yüksek hızda ve sürekli internet bağlantısına</b> ihtiyaç duyulmasıdır. Ayrıca, depolama alanının büyüklüğüne göre <b>sürekli abonelik maliyeti</b> doğurması da bir dezavantajdır."
+    },
+    {
+        "SoruID": 180198,
+        "Aciklama": "Adobe Bridge, bir Dijital Varlık Yöneticisidir (DAM). Bridge; dosyaları organize etmek, sıralamak, metaveri eklemek, anahtar kelime girmek ve dosyaları önizlemek için kullanılır. Ancak Bridge, fotoğraflar üzerinde <b>piksel tabanlı detaylı düzenleme</b> (örneğin, kırpma, rötuş, katmanlarla çalışma) yapamaz. Bu tür işlemler için Adobe Photoshop gibi yazılımlar gereklidir."
+    },
+    {
+        "SoruID": 180199,
+        "Aciklama": "Arşivleme yazılımları, fotoğrafların sınıflandırılması ve yönetimi için tasarlanmıştır. <b>Adobe Lightroom, Capture One ve Adobe Bridge</b> bu alanda kullanılan profesyonel araçlardır. Eğer seçenekler arasında, yalnızca temel fotoğraf düzenleme veya web tasarımı gibi farklı amaçlara hizmet eden bir yazılım (örneğin, Adobe Dreamweaver veya MS Paint) yer alıyorsa, o yazılım birincil arşivleme yazılımı değildir."
+    },
+    {
+        "SoruID": 180201,
+        "Aciklama": "Çekim esnasında en sık karşılaşılan olumsuzluklar, pilin bitmesi veya hafıza kartının dolması/arızalanmasıdır. Bu durumları engellemek ve iş akışının kesintiye uğramamasını sağlamak için öncelikli olarak yanımızda <b>yedek pil</b> ve <b>yedek hafıza kartı</b> bulundurmak hayati önem taşır. Bu ekipmanlar, çekimin devamlılığını garanti eder."
+    },
+    {
+        "SoruID": 180202,
+        "Aciklama": "Yazılımsız arşivleme (klasör temelli sistem), herhangi bir üçüncü taraf yazılıma bağımlı olmaksızın, işletim sisteminin klasör ve dosya isimlendirme özelliklerini kullanır. Bu sistemin başarılı olması ve düzenli kalması için kullanıcının <b>tutarlı ve mantıksal bir klasör yapısı</b> oluşturması ve bu yapıya tam olarak uyması, ayrıca <b>anlamlı ve sistematik dosya isimlendirmeleri</b> kullanması şarttır. Disiplin bu yöntemin anahtarıdır."
+    },
+    {
+        "SoruID": 180203,
+        "Aciklama": "Renk uzayları, bir görüntünün gösterebileceği renk gamını belirler. <b>Adobe RGB</b>, internet standardı olan sRGB'den daha geniş bir renk gamına (daha fazla canlı renk tonu) sahiptir. Bu seçenek, fotoğraflar profesyonel düzeyde düzenlenecek, geniş renk gamını destekleyen monitörlerde görüntülenecek ve özellikle bu geniş gamı basabilecek <b>yüksek kaliteli baskı makinelerinde</b> çıktı alınacaksa tercih edilmelidir. Aksi takdirde, standart sRGB çoğu kullanım (web, sosyal medya) için yeterlidir."
+    },
+    {
+        "SoruID": 178658,
+        "Aciklama": "Sayısal fotoğraf işleme programları genellikle <b>piksel tabanlı (raster)</b> görüntüleri düzenlemek için kullanılır. Adobe Photoshop, GIMP veya Lightroom gibi programlar bu amaca hizmet ederken, video düzenleme programları (örneğin Adobe Premiere Pro) veya metin düzenleme programları (örneğin Microsoft Word) sayısal fotoğraf işleme programı <b>değildir</b>."
+    },
+    {
+        "SoruID": 178660,
+        "Aciklama": "Adobe firması, dijital görüntüleme ve multimedya alanında dünya çapında standart kabul edilen birçok yazılım üretmektedir. Bunlar arasında en bilinen ve endüstri standardı olan sayısal fotoğraf işleme programı <b>Adobe Photoshop</b>'tur. Ayrıca <b>Adobe Lightroom</b> da fotoğraf arşivleme ve kayıpsız düzenleme için Adobe tarafından üretilmiştir."
+    },
+    {
+        "SoruID": 178662,
+        "Aciklama": "Her fotoğraf işleme programının genellikle kendine özgü ve <b>katman/düzenleme verilerini</b> koruyan bir temel dosya uzantısı vardır. Örneğin <b>Photoshop</b> için <b>.PSD</b>, GIMP için .XCF'dir. Bir uzantı ile programın yanlış eşleştirilmesi (örneğin Photoshop'un temel uzantısının .JPG olarak belirtilmesi) doğru olmayan ilişkiyi gösterir."
+    },
+    {
+        "SoruID": 178665,
+        "Aciklama": "Yüksek dinamik aralık, yani <b>HDR (High Dynamic Range)</b> fotoğrafçılık, aşırı parlak ve aşırı gölgeli alanlardaki detayları tek bir karede yakalamayı amaçlar. Bu teknik, aynı sahnenin farklı pozlamalarda çekilmiş birden fazla fotoğrafının, özel yazılımlar kullanılarak <b>tek bir görüntüde birleştirilmesiyle</b> elde edilir."
+    },
+    {
+        "SoruID": 178667,
+        "Aciklama": "Panoramik fotoğraf, birden fazla fotoğrafın yatay veya dikey olarak birleştirilmesi (stitching) yoluyla geniş açılı, genellikle 180 dereceden fazla görüş alanını kapsayan görüntüler oluşturma tekniğidir. Bu işlem için <b>Adobe Photoshop</b>'un 'Photomerge' özelliği veya <b>Hugin</b> gibi özel panoramik yazılımlar kullanılabilir."
+    },
+    {
+        "SoruID": 178669,
+        "Aciklama": "Adobe Photoshop programının temel dosya uzantısı <b>.PSD (Photoshop Document)</b>'dir. Bu uzantı, görüntüyü <b>katmanları, yolları, maskeleri</b> ve diğer düzenleme özellikleriyle birlikte kaydetme yeteneğine sahiptir, böylece daha sonra düzenlemeye devam edilebilir."
+    },
+    {
+        "SoruID": 178670,
+        "Aciklama": "Sayısal fotoğraf işleme programları genellikle <b>piksel tabanlı (raster)</b> çalışır, yani görüntüyü renk ve parlaklık bilgisi içeren küçük kare birimler olan piksellerden oluşmuş kabul ederler. <b>Adobe Photoshop</b> bu kategorinin en bilinen örneğidir ve bu yapısı sayesinde fotoğraflar üzerinde detaylı rötuş ve düzenleme yapılabilir."
+    },
+    {
+        "SoruID": 178671,
+        "Aciklama": "Yüksek çözünürlüklü fotoğraf düzenleme işlemleri için bilgisayarın <b>RAM (bellek)</b> kapasitesi, hızlı <b>CPU (işlemci)</b> ve <b>SSD</b> gibi hızlı depolama birimleri kritik öneme sahiptir. Monitör kalibrasyon cihazı önemli bir çevre birimi olsa da, fotoğraf işleme performansını etkilemeyen unsurların (örneğin, harici ses kartının kalitesi veya optik sürücü) önemi <b>yoktur</b>."
+    },
+    {
+        "SoruID": 178672,
+        "Aciklama": "Ekran siperliği (monitor hood), monitör ekranına düşen <b>dış ışık yansımalarını</b> ve çevresel aydınlatmanın ekranın renk algısını bozmasını engeller. Amacı, fotoğraf düzenleme sürecinde renklerin ve parlaklığın <b>mümkün olan en doğru</b> şekilde görüntülenmesini sağlamaktır."
+    },
+    {
+        "SoruID": 180206,
+        "Aciklama": "<b>Katman tabanlı</b> çalışma sistemi, kullanıcıların görüntünün farklı bölümlerini veya efektlerini birbirinden bağımsız olarak düzenlemesine olanak tanıyan temel bir özelliktir. Photoshop'a alternatif olarak geliştirilen popüler açık kaynaklı programlardan biri olan <b>GIMP</b> (GNU Image Manipulation Program) de bu katman (layer) sistemini sunmaktadır."
+    },
+    {
+        "SoruID": 180208,
+        "Aciklama": "Adobe Lightroom, iş akışını yönetmek için modüler bir yapı kullanır. Temel modülleri arasında <b>Library (Kütüphane)</b>, <b>Develop (Geliştirme)</b>, Map (Harita), Book (Kitap), Slideshow (Slayt Gösterisi), Print (Baskı) ve Web bulunur. Bu temel iş akışı modülleri dışında kalan bir seçenek (örneğin, 3D Modelleme veya Animasyon modülü), Lightroom'un 5 temel modülünden biri <b>değildir</b>."
+    },
+    {
+        "SoruID": 180210,
+        "Aciklama": "Fotoğraf çalışmaları için ekran seçiminde <b>renk gamutu</b> (Adobe RGB veya sRGB desteği), <b>yüksek çözünürlük</b> ve <b>kalibrasyon</b> yeteneği önemlidir. Ancak, ekranın <b>Yenileme Hızı (Refresh Rate)</b> (örneğin 144 Hz gibi), video düzenleme veya oyunlar için önemli olsa da, statik fotoğraf düzenleme çalışmalarının kalitesi üzerinde doğrudan bir etkisi <b>yoktur</b>."
+    },
+    {
+        "SoruID": 180212,
+        "Aciklama": "GIMP (GNU Image Manipulation Program) programının kendi temel dosya formatı, katmanlar ve diğer düzenleme bilgilerini saklayan <b>.XCF</b> uzantısıdır. GIMP, bu format sayesinde yapılan tüm düzenlemeleri korur ve daha sonra çalışmaya devam etme imkanı sunar."
+    },
+    {
+        "SoruID": 180214,
+        "Aciklama": "Ekran üzerine düşen yansımalar ve ışık sızıntıları, fotoğraf düzenlemesi sırasında renk ve tonların yanlış değerlendirilmesine yol açar. Bu yansımaları engellemek ve doğru renk görünümünü sağlamak için kullanılan aparat <b>Ekran Siperliği (Monitor Hood)</b> olarak adlandırılır."
+    },
+    {
+        "SoruID": 180216,
+        "Aciklama": "<b>RAW formatı</b>, işlenmemiş ham kamera verilerini içerir. Bu formatta çekilen bir fotoğraf Photoshop'ta açılmak istendiğinde, yazılım otomatik olarak Photoshop'un eklentisi olan ve RAW dosyalarını işlemek için kullanılan <b>Camera RAW</b> penceresini (veya modülünü) açar. Bu arayüzde temel pozlama ve renk ayarları kayıpsız olarak yapılır."
+    },
+    {
+        "SoruID": 180217,
+        "Aciklama": "Adobe Lightroom, fotoğraf arşivlerini yönetme (kataloglama), toplu işlem yapma ve <b>kayıpsız (non-destructive)</b> düzenlemeler için mükemmeldir. Ancak Lightroom, Photoshop'un uzmanlık alanı olan <b>karmaşık piksel tabanlı manipülasyonları</b> (örneğin derin kompozitleme, ileri seviye klonlama veya maske tabanlı filtreler) yapma yeteneğine sahip <b>değildir</b>."
+    },
+    {
+        "SoruID": 180218,
+        "Aciklama": "Analog dönemin 'işlenmemiş film negatifine' benzetilen ve sensörden gelen tüm ham veriyi koruyan dosya türü <b>RAW formatıdır</b>. Bu format, fotoğrafçıya beyaz dengesi, pozlama ve renk düzeltmeleri için en geniş aralığı sunar ve genellikle <b>dijital negatif</b> olarak adlandırılır."
+    },
+    {
+        "SoruID": 180220,
+        "Aciklama": "Geniş alanların veya 360 derecelik açıların görüntülenmesini sağlayan, birden fazla fotoğrafın birleştirilmesi esasına dayanan bu teknik, <b>Panoramik Fotoğrafçılık</b> olarak adlandırılır. Bu işlem, özel yazılımlar (örneğin Photoshop Photomerge) aracılığıyla görüntülerin dikişsiz bir şekilde birleştirilmesiyle gerçekleştirilir."
+    },
+    {
+        "SoruID": 180221,
+        "Aciklama": "Camera RAW, genellikle <b>global ve temel kayıpsız düzenlemeler</b> (pozlama, beyaz dengesi, temel ton ve renk ayarlamaları) için kullanılır. Ancak, görüntüyü kesip başka bir görüntüyle birleştirmek, detaylı bir klonlama işlemi yapmak veya <b>katman tabanlı karmaşık manipülasyonlar</b> uygulamak, Photoshop'un ana çalışma alanı gerektiren işlemlerdir ve Camera RAW'da <b>yapılamaz</b>."
+    },
+    {
+        "SoruID": 178676,
+        "Aciklama": "<b>Adobe Photoshop</b>'ta programın genel ayarlarını ve kişiselleştirmelerini yapmak için kullanılan \"tercihler\" menüsü (Preferences), Windows işletim sistemlerinde genellikle <b>Edit (Düzenle)</b> menüsü altında, Mac işletim sistemlerinde ise <b>Photoshop</b> menüsü altında yer alan bir komut ile açılır.<br>Bu menü; çalışma alanı, performans ayarları, dosya kaydetme tercihleri ve programın genel davranışını düzenlemeye olanak tanır."
+    },
+    {
+        "SoruID": 178680,
+        "Aciklama": "Yeni bir çalışma alanı veya doküman oluşturmak için kullanılan komut <b>File (Dosya)</b> menüsü altında bulunan <b>New (Yeni)</b> komutudur. Bu komut, kullanıcının boyut, çözünürlük, renk modu ve arka plan içeriği gibi özellikleri belirleyerek sıfırdan bir görsel oluşturmasını sağlar.<br>Bu işlemin kısa yolu genellikle <b>Ctrl + N</b> (Windows) veya <b>Cmd + N</b> (Mac)'dir."
+    },
+    {
+        "SoruID": 178682,
+        "Aciklama": "<b>Edit (Düzenle)</b> menüsü, çalışma alanındaki seçili öğeler üzerinde temel düzenleme ve dönüştürme işlemleri yapmak için kullanılır. Bu menü, <b>kesme (Cut)</b>, <b>kopyalama (Copy)</b>, <b>yapıştırma (Paste)</b> gibi pano işlemlerinin yanı sıra, görselin boyutunu ve şeklini değiştirmeye yarayan <b>Transform (Dönüştür)</b> komutlarını (örneğin, döndürme, eğme, serbest dönüştürme) içerir. Ayrıca <b>Preferences (Tercihler)</b> de bu menüde yer alır."
+    },
+    {
+        "SoruID": 178689,
+        "Aciklama": "Renkli bir görseli, renk tonlarının <b>ışık/koyuluk değerleri (tonal değerler)</b> üzerinde kontrol sahibi olarak siyah beyaza dönüştürmek için <b>Image (Görüntü)</b> menüsü altındaki <b>Adjustments (Ayarlamalar)</b> seçeneğinde yer alan <b>Black & White (Siyah Beyaz)</b> komutu kullanılmalıdır. Bu komut, kullanıcıya orijinal renk kanallarını ayrı ayrı ayarlayarak daha zengin ve kontrollü bir gri tonlama elde etme imkanı sunar."
+    },
+    {
+        "SoruID": 178691,
+        "Aciklama": "Photoshop'ta metin katmanları oluşturma, metinlerin yönünü değiştirme, metin üzerinde <b>rasterleştirme</b> (Rasterize Type) veya metin görünümlerini düzenleme gibi işlemler <b>Type (Yazı/Metin)</b> menüsü altında yer alan komutlar ile gerçekleştirilir. Bu menü metinle ilgili tüm ileri düzey yönetim araçlarını barındırır."
+    },
+    {
+        "SoruID": 178694,
+        "Aciklama": "<b>Select (Seçim)</b> menüsünde bulunan <b>Inverse (Tersine Çevir)</b> komutu, halihazırda yapılmış olan bir seçimi tersine çevirerek, daha önce seçili olmayan alanı seçili hale getirir ve daha önce seçili olan alanı seçimden çıkarır.<br>Bu işlev, özellikle karmaşık seçimlerin etrafındaki arka planı hedeflemek için hızlı ve pratik bir çözüm sunar. Kısayolu genellikle <b>Shift + Ctrl + I</b>'dır."
+    },
+    {
+        "SoruID": 178695,
+        "Aciklama": "Photoshop'ta zaten açılmış ve düzenlenmiş olan bir görseli, özellikle <b>Akıllı Nesne (Smart Object)</b> olarak kaydedilmişse, ham veri düzenleme yeteneklerine sahip olan <b>Camera Raw</b> penceresinde tekrar açmak için <b>Filter (Filtre)</b> menüsü altında bulunan <b>Camera Raw Filter (Camera Raw Filtresi)</b> komutu kullanılır. Bu, tahribatsız bir şekilde detaylı ton, renk ve keskinlik ayarları yapmaya olanak tanır."
+    },
+    {
+        "SoruID": 178697,
+        "Aciklama": "Çalışma esnasında görsellere uygulanan her bir müdahaleyi (adım) kaydederek, kullanıcının geriye dönük olarak yapılan değişiklikleri iptal etmesine veya belirli bir adıma geri dönmesine olanak sağlayan panel <b>History (Geçmiş)</b> panelidir. Bu panel, bir çalışma sırasında yapılan işlemleri kronolojik sırayla listeler ve birden fazla geri alma (Undo) adımı sunar."
+    },
+    {
+        "SoruID": 178702,
+        "Aciklama": "<b>Kontrol Paneli (Options Bar)</b>, Photoshop arayüzünde menü çubuğunun hemen altında yer alır. İçeriği, o an <b>aktif olarak seçilen araca (tool)</b> göre sürekli olarak değişir. Seçilen aracın ayarlarını, boyutunu, opasitesini, modunu ve diğer özelleştirilebilir parametrelerini gösterir ve bu ayarların hızla yapılmasını sağlar."
+    },
+    {
+        "SoruID": 178704,
+        "Aciklama": "Çalışılan dokümanı mevcut dosya konumundan farklı bir yere veya farklı bir dosya ismiyle kaydetmek için <b>File (Dosya)</b> menüsü altındaki <b>Save As (Farklı Kaydet)</b> komutu kullanılır. Bu komutun kısayolu genellikle <b>Shift + Ctrl + S</b> (Windows) veya <b>Shift + Cmd + S</b> (Mac) şeklindedir."
+    },
+    {
+        "SoruID": 180223,
+        "Aciklama": "<b>Tercihler (Preferences)</b> menüsü, Photoshop programının <b>genel çalışma ortamı ayarlarını</b>, performans (Scratch Disk, RAM kullanımı), arayüz rengi, birimler ve cetveller gibi global ayarlarını kişiselleştirmeye yarar.<br>Bu menü, doğrudan görsel üzerindeki katmanların boyutunu değiştirme, bir filtre uygulama veya <b>görüntü ayarı (Adjustments)</b> yapma gibi anlık doküman müdahalelerini gerçekleştirmek için kullanılmaz; bu tür işlemler <b>Edit</b>, <b>Image</b> veya <b>Filter</b> menüleri aracılığıyla yapılır."
+    },
+    {
+        "SoruID": 180224,
+        "Aciklama": "Photoshop'un menü çubuğu, programın ana işlevlerini barındıran standart menü gruplarından oluşur. Bu menüler, <b>File (Dosya)</b>, <b>Edit (Düzenle)</b>, <b>Image (Görüntü)</b>, <b>Layer (Katman)</b>, <b>Type (Yazı)</b>, <b>Select (Seçim)</b>, <b>Filter (Filtre)</b>, <b>View (Görünüm)</b> ve <b>Window (Pencere)</b> gibi ana bölümleri içerir ve yazılımın tüm yeteneklerine erişimi sağlar."
+    },
+    {
+        "SoruID": 180226,
+        "Aciklama": "<b>File (Dosya)</b> menüsü, dokümanların açılması, kaydedilmesi, dışa aktarılması (Export) ve baskı işlemleri gibi <b>dosya yönetim operasyonlarını</b> içerir. Bu menünün temel amacı dosyalarla etkileşim kurmaktır. Görselin rengini veya tonunu değiştirmek (Image menüsü işi) ya da bir katmanı serbestçe dönüştürmek (Edit menüsü işi) gibi doğrudan <b>içerik düzenleme</b> işlemleri File menüsü ile gerçekleştirilemez."
+    },
+    {
+        "SoruID": 180228,
+        "Aciklama": "<b>Edit (Düzenle)</b> menüsü altındaki <b>Transform (Dönüştür)</b> komut grubu, seçili katman veya seçim alanı üzerinde <b>geometrik değişiklikler</b> yapmaya yarar. Bu komutlar <b>Scale (Ölçekleme)</b>, <b>Rotate (Döndürme)</b>, <b>Skew (Eğme)</b>, <b>Distort (Bozma)</b> ve <b>Warp (Çarpıtma)</b> gibi işlevleri içerir. Dönüştürme komutlarının görevi görselin şeklini, boyutunu veya oryantasyonunu değiştirmektir; renk veya tonal ayarlama bu grubun görevi değildir."
+    },
+    {
+        "SoruID": 180230,
+        "Aciklama": "Görsellerin parlaklık, kontrast, renk doygunluğu, renk tonu ve seviyeleri gibi <b>ayrıntılı renk ve ton düzenlemelerinin</b> yapıldığı ana menü <b>Image (Görüntü)</b> menüsüdür. Bu menü altındaki <b>Adjustments (Ayarlamalar)</b> seçeneği (Levels, Curves, Hue/Saturation, Exposure vb.) profesyonel renk düzenlemeleri için kullanılır."
+    },
+    {
+        "SoruID": 180232,
+        "Aciklama": "Çalışmanın piksel boyutlarını ve dolayısıyla çözünürlüğünü değiştirmek için kullanılan komut <b>Image (Görüntü)</b> menüsü altında bulunan <b>Image Size (Görüntü Boyutu)</b> komutudur. Bu komut, görselin hem <b>fiziksel boyutlarını</b> hem de <b>çözünürlüğünü</b> aynı anda kontrol etmeyi sağlar ve yeniden örnekleme (resampling) yaparak piksel sayısını değiştirir."
+    },
+    {
+        "SoruID": 180234,
+        "Aciklama": "Kamera objektiflerinin neden olduğu bozulmaları ve yatay/dikey çizgilerdeki perspektif hatalarını düzeltmek için kullanılan komut penceresi <b>Filter (Filtre)</b> menüsü altında bulunan <b>Lens Correction (Objektif Düzeltme)</b> penceresidir. Bu araç, özellikle mimari çekimlerde ortaya çıkan <b>eğrilikleri ve perspektif kaçmalarını</b> düzeltmek için tasarlanmıştır."
+    },
+    {
+        "SoruID": 180235,
+        "Aciklama": "Görsellere sanatsal, bulanıklık (blur), stilize etme veya çeşitli deformasyonlar uygulama gibi <b>özel görünümler (efektler)</b> elde etmek için kullanılan komutlar <b>Filter (Filtre)</b> menüsü altında toplanmıştır. Bu menü, görselin piksellerini manipüle ederek dramatik değişiklikler yapmaya olanak tanıyan geniş bir yelpazede araç sunar."
+    },
+    {
+        "SoruID": 180237,
+        "Aciklama": "Photoshop’ta bir görselin farklı bileşenlerini, metinleri, şekilleri ve efektleri bağımsız olarak yönetmeyi ve müdahale etmeyi sağlayan temel panel <b>Layers (Katmanlar)</b> panelidir. Bu panel, katmanların <b>görünürlüğünü</b>, <b>opasitesini</b>, <b>karıştırma modlarını (Blending Modes)</b> ve <b>kilitleme durumlarını</b> kontrol etmeye olanak tanır ve karmaşık tasarımların düzenlenmesinde merkezî rol oynar."
+    },
+    {
+        "SoruID": 180240,
+        "Aciklama": "<b>Control + S</b> (Windows) veya <b>Command + S</b> (Mac) kısayol komutu, çalışılan doküman üzerinde yapılan en son değişiklikleri, mevcut dosya ismi ve konumuna kaydetme işlevini (<b>Save / Kaydet</b>) gerçekleştirir. Bu işlem, dosyanın üzerine yazılır ve hızlı bir şekilde ilerlemenin korunmasını sağlar."
+    },
+    {
+        "SoruID": 178737,
+        "Aciklama": "Boya (pigment) renklerinde <b>ana renklerin</b> (Kırmızı, Sarı, Mavi - geleneksel) eşit oranda karıştırılması sonucu <b>ara renkler</b> (ikincil renkler) elde edilir. Bu ara renkler, örneğin kırmızının sarı ile karışımından oluşan turuncu, sarının mavi ile karışımından oluşan yeşil veya kırmızının mavi ile karışımından oluşan mordur."
+    },
+    {
+        "SoruID": 178738,
+        "Aciklama": "<b>Beyaz ışık</b>, aslında tüm görünür renklerin birleşimidir. Bu ışık bir prizmadan geçirildiğinde, farklı dalga boylarına sahip renkler farklı açılarda kırılarak ayrılırlar. Bu olaya <b>dispersiyon</b> denir ve ortaya çıkan renk dizilimi <b>görünür tayfı</b> (spektrum) oluşturur (Kırmızı, Turuncu, Sarı, Yeşil, Mavi, İndigo, Mor)."
+    },
+    {
+        "SoruID": 178739,
+        "Aciklama": "<b>Renk sıcaklığı</b>, Kelvin (K) cinsinden ölçülür ve ışığın rengini ifade eder. Düşük Kelvin değerleri (5500K altı), ışığın daha \"sıcak\" olduğunu gösterir ve bu ışıklar spektrumun <b>kırmızı ve sarı</b> uçlarına doğru kayarak daha fazla sıcak tonlar içerir. 5500K ve üzeri değerler ise daha soğuk (mavi/beyaz) tonları işaret eder."
+    },
+    {
+        "SoruID": 178740,
+        "Aciklama": "<b>Doğal ışık kaynakları</b>, insan müdahalesi olmadan doğada kendiliğinden ışık yayan nesnelerdir. Bu kaynaklara örnek olarak <b>Güneş</b>, yıldızlar, şimşek, ateş ve bazı biyolüminesan canlılar verilebilir."
+    },
+    {
+        "SoruID": 178741,
+        "Aciklama": "Renk sentezleri (modelleri), renkleri tanımlamak, ölçmek ve <b>cihazlar arasında tutarlı bir şekilde yeniden üretmek</b> için kullanılır (Örn: Ekranlarda, baskıda). Kullanım amaçları arasında <b>renk reprodüksiyonu</b> ve <b>standardizasyon</b> yer alır. Sanatsal değeri artırmak gibi subjektif bir amaç, modelin doğrudan teknik kullanım amacı değildir."
+    },
+    {
+        "SoruID": 178742,
+        "Aciklama": "<b>RGB</b>, <b>Toplamsal (Additive) Renk Sistemi</b> olarak bilinir ve genellikle dijital ekranlarda (monitörler, televizyonlar) ışık yayarak renk oluşturur. Kısaltma, sistemin ana renklerini temsil eder: <b>R</b>ed (Kırmızı), <b>G</b>reen (Yeşil) ve <b>B</b>lue (Mavi). Dolayısıyla \"G\" harfi <b>Yeşil</b> rengi temsil etmektedir."
+    },
+    {
+        "SoruID": 178743,
+        "Aciklama": "RGB sistemi, <b>ışık renklerinin</b> birleştirilmesi prensibine dayanır (Toplamsal Sentez). Üç ana rengin (Kırmızı, Yeşil, Mavi) <b>eşit ve maksimum</b> oranlarda birleşimi, tüm ışık dalga boylarının göze ulaşmasını sağlar ve bu da <b>Beyaz</b> rengi oluşturur."
+    },
+    {
+        "SoruID": 178744,
+        "Aciklama": "<b>CMYK</b>, <b>Çıkarımsal (Subtractive) Renk Sistemi</b> olup, mürekkep veya boya kullanarak baskı endüstrisinde yaygın olarak kullanılır. Kısaltma: <b>C</b>yan (Siyan), <b>M</b>agenta (Macenta), <b>Y</b>ellow (Sarı) ve <b>K</b>ey (Anahtar renk) anlamına gelir. Baskıda anahtar renk olarak genellikle <b>Siyah</b> (Black) kullanılır."
+    },
+    {
+        "SoruID": 178745,
+        "Aciklama": "CMYK sistemi mürekkep veya pigment kullanımına dayanır. Bu sistemde <b>Beyaz</b>, mürekkebin yokluğu ile temsil edilir. Yani, beyaz kağıt üzerine hiç mürekkep sürülmediğinde beyaz elde edilir. Bu durumda tüm renk bileşenlerinin değeri <b>%0</b> olmalıdır: C=0, M=0, Y=0, K=0."
+    },
+    {
+        "SoruID": 178746,
+        "Aciklama": "<b>RGB renk alanı</b> (Color Space), RGB ana renklerini kullanarak tanımlanabilecek renk gamını belirler ve bu renklerin cihazlar arasında tutarlılığını sağlamaya yardımcı olur. En yaygın kullanılan RGB tabanlı renk alanları arasında <b>sRGB</b>, <b>Adobe RGB</b> ve <b>ProPhoto RGB</b> bulunur."
+    },
+    {
+        "SoruID": 180241,
+        "Aciklama": "Boya renklerinde (pigment) kullanılan geleneksel <b>ana renkler</b>, diğer renklerin karıştırılmasıyla elde edilemeyen temel renklerdir. Geleneksel sanat renk modelinde bu renkler <b>Kırmızı, Sarı ve Mavi</b>'dir (RYB)."
+    },
+    {
+        "SoruID": 180242,
+        "Aciklama": "Renk tayfı, beyaz ışığın prizmadan geçirilmesiyle ortaya çıkan ve insan gözüyle görülebilen renkler dizisidir (spektrum). Bu renkler sırasıyla <b>Kırmızı, Turuncu, Sarı, Yeşil, Mavi, İndigo ve Mor</b>'dur. Listelenen tüm renkler tayf içinde yer alır."
+    },
+    {
+        "SoruID": 180243,
+        "Aciklama": "Rengin insan gözü tarafından algılanabilmesi için üç temel unsur gereklidir: 1) <b>Işık kaynağı</b> (ışık olmalı), 2) Işığı yansıtan/soğuran <b>Nesne</b> ve 3) Yansıyan ışığı algılayan <b>Gözlemci</b>. Bu unsurlardan biri olmazsa renk algısı gerçekleşemez."
+    },
+    {
+        "SoruID": 180244,
+        "Aciklama": "Işığın göreli sıcaklığını veya soğukluğunu ifade eden <b>renk sıcaklığı</b> ölçü birimi, <b>Kelvin (K)</b>'dir. Bu birim, termodinamik sıcaklık ölçeğini geliştiren <b>William Thompson</b> (Lord Kelvin) onuruna adlandırılmıştır."
+    },
+    {
+        "SoruID": 180245,
+        "Aciklama": "<b>Doğal gün ışığı</b>, bulutluluk ve saate bağlı olarak değişmekle birlikte, uluslararası standartlarda referans alınan ortalama standart gün ışığı renk sıcaklığı yaklaşık olarak <b>6500 Kelvin (K)</b> olarak kabul edilir (D65 standardı). Bu değer, nötr beyaz ışığı temsil eder."
+    },
+    {
+        "SoruID": 180246,
+        "Aciklama": "Renk modelleri (sentezleri), renkleri sayısal olarak tanımlamak için genellikle üç temel parametre kullanır. Bunlar <b>Ton (Hue)</b> (rengin kendisi), <b>Doygunluk (Saturation)</b> (rengin saflığı/yoğunluğu) ve <b>Parlaklık (Brightness/Luminosity)</b> (rengin açıklığı/koyuluğu) unsurlarıdır (Örn: HSB/HSL modelleri)."
+    },
+    {
+        "SoruID": 180247,
+        "Aciklama": "<b>Cihaz bağımlı renk modelleri</b> (Örn: RGB, CMYK), bir cihazdan (ekran, yazıcı) diğerine geçerken renklerin tutarlı bir şekilde yeniden üretilememesi problemine sahiptir. Çünkü sonuç, o cihazın özel donanımına ve ayarlarına bağlıdır. Bu modellerin özelliği, tutarsız sonuçlar vermesidir; dolayısıyla <b>tutarlılık sağlamak</b> bu modellerin bir özelliği değildir."
+    },
+    {
+        "SoruID": 180248,
+        "Aciklama": "<b>Toplamsal (Additive) Renk Sentezi</b> (RGB), ışık ile çalışır, ana renkleri (Kırmızı, Yeşil, Mavi) karıştırarak daha parlak renkler elde eder ve tüm ana renklerin birleşimi <b>Beyaz</b> verir. Bu sistemde pigment (boya) kullanılmaz, siyah ise ışığın yokluğudur."
+    },
+    {
+        "SoruID": 180249,
+        "Aciklama": "<b>Çıkarımsal (Subtractive) Renk Sentezi</b>, nesnelerin ışık dalgalarını emmesi (soğurması) ve yansıtması prensibine dayanır. Bu sentez genellikle <b>boya, mürekkep veya pigment</b> ile çalışır ve renkleri karıştırarak daha koyu renkler elde eder (ışığı çıkarır). Bu sistemin temel örneği <b>CMYK</b>'dır."
+    },
+    {
+        "SoruID": 180250,
+        "Aciklama": "CMYK, baskı endüstrisinde kullanılan ana renk modelidir. Bu modelin bileşenleri <b>Siyan (Cyan)</b>, Macenta (Magenta), Sarı (Yellow) ve Anahtar (Key - Siyah) renklerdir. Siyan rengi bu sentezin temel bileşenlerinden biridir."
+    },
+    {
+        "SoruID": 180261,
+        "Aciklama": "Renk yönetiminin uygulanmasındaki en önemli neden, <b>farklı cihazlar</b> (kamera, monitör, yazıcı vb.) arasında renklerin mümkün olduğunca tutarlı ve doğru şekilde gösterilmesini/üretilmesini sağlamaktır. Amaç, dijital ortamda <b>görüntülenen</b> ve <b>çıktısı alınan</b> renkler arasındaki farkı en aza indirmektir. Bu, profesyonel iş akışlarında <b>renk doğruluğunu</b> (color fidelity) garanti etmek için hayati önem taşır."
+    },
+    {
+        "SoruID": 180262,
+        "Aciklama": "Görülebilir renk spektrumunda daha geniş bir renk alanına (gamut) sahip olan, standart RGB (sRGB) gibi dar alanlara göre <b>ProPhoto RGB</b> veya <b>Adobe RGB</b> gibi geniş gamlı RGB renk uzaylarıdır. Teorik olarak ise, insan gözünün algılayabildiği tüm renkleri temsil edebilen <b>CIE Lab</b> (L*a*b*) renk uzayı, tüm cihaz bağımlı renk uzaylarını kapsar ve en geniş alanı temsil eder. Bu geniş alanlar, özellikle <b>görüntü yakalama</b> ve <b>düzenleme</b> sırasında daha zengin renk bilgisini korumayı sağlar."
+    },
+    {
+        "SoruID": 180263,
+        "Aciklama": "Fotoğraf makinelerinde bulunan <b>beyaz ayarı</b> (White Balance) özelliğinin temel kullanım amacı, çekim yapılan ortamdaki <b>ışık kaynağının renk sıcaklığını</b> (Kelvin değeri) dengelemektir. Farklı ışık kaynakları farklı renk tonlarına (color cast) sahiptir. Beyaz ayarı, bu tonları nötralize ederek, fotoğraf çekilen nesnelerin ve özellikle <b>beyaz renklerin</b> gerçekte olduğu gibi, yani renk sapması olmadan doğru görünmesini sağlar."
+    },
+    {
+        "SoruID": 180264,
+        "Aciklama": "Beyaz ayarı seçeneklerinin yanlış kullanımı, kullanılan ışık kaynağının renk sıcaklığına (örneğin sıcak tungsten ışığı) uygun olmayan bir ayarın (örneğin soğuk gün ışığı ayarı) seçilmesidir. Bu durum, görüntülerde <b>istenmeyen renk kaymalarına</b> yol açar. Örneğin, sıcak bir ortamda Gün Işığı (Daylight) ayarı kullanmak, görüntünün <b>aşırı mavi/soğuk</b> görünmesine neden olacaktır. Doğru kullanım, ortamın ışık sıcaklığını doğru şekilde eşlemeyi gerektirir."
+    },
+    {
+        "SoruID": 180265,
+        "Aciklama": "Renk yönetimi iş akışı içinde, monitörde yapılacak bir fotoğraf çalışması (düzenleme) için öncelikli olarak <b>yazıcı çıktı profillerinin oluşturulmasına veya düzenlenmesine</b> (ICC profile for printer) gerek duyulmaz. Monitör aşamasında kritik olanlar monitörün <b>kalibrasyonu</b>, ortam ışığı ayarları ve kullanılan <b>RGB çalışma alanının</b> seçilmesidir. Çıktı profilleri, çalışma tamamlanıp baskıya hazırlanırken devreye girer."
+    },
+    {
+        "SoruID": 180266,
+        "Aciklama": "Bir monitörün kalibrasyonu yapılırken, kalibrasyon için kullanılan <b>kolorimetrenin</b> (renkölçerin) monitör ekranının <b>orta kısmında</b> veya <b>merkeze yakın bir bölgesinde</b> durması gerekmektedir. Bu bölge, ekranın genel performansını ve parlaklık/renk dağılımını en iyi yansıtan alandır. Cihaz, doğru ölçüm yapabilmesi için ekrana ışıksız ve doğrudan temas etmelidir."
+    },
+    {
+        "SoruID": 180267,
+        "Aciklama": "Bir monitörün kalibrasyonunu yapmak için kullanılan cihaz / donanım, genellikle <b>kolorimetre</b> (Colorimeter) veya <b>spektrofotometredir</b> (Spectrophotometer). Bu cihazlar, monitörün yaydığı rengi ölçerek, belirlenen hedeflere (örneğin D65 beyaz noktası, 2.2 Gama) göre monitör profilini (ICC/ICM) oluşturur ve monitörün <b>renklerini doğrulukla göstermesini</b> sağlar."
+    },
+    {
+        "SoruID": 180268,
+        "Aciklama": "Kalibrasyon için kullanılan <b>kolorimetre</b> veya <b>spektrofotometre</b> cihazları/donanımları, monitör ekranından yayılan ışığın <b>spektral dağılımını ölçme</b> ve bu ölçümleri kullanarak monitörün mevcut renk sapmalarını düzeltecek bir <b>ICC profili</b> (International Color Consortium profili) oluşturma işlemini gerçekleştirir. Bu profil, renk yönetim sistemi tarafından kullanılarak monitördeki renklerin hedeflenen standartlara göre ayarlanmasını sağlar."
+    },
+    {
+        "SoruID": 180269,
+        "Aciklama": "Monitör kalibrasyonunun, ekranın aydınlatma bileşenlerinin zamanla özelliklerini kaybetmesi ve renk sapmalarının oluşması nedeniyle, genellikle <b>iki ila dört haftada bir</b> yapılması önerilir. Profesyonel renk kritik işlerde <b>düzenli kalibrasyon</b>, iş akışında sürekli <b>renk tutarlılığını</b> garanti altına almak için elzemdir."
+    },
+    {
+        "SoruID": 180270,
+        "Aciklama": "Monitör kalibrasyonunda öncelikli ve ilk olarak yapılması gereken işlem, monitörün doğru ve stabil ölçümler yapabilmek için <b>ısınmasını sağlamaktır</b>. Monitörlerin istikrarlı parlaklık ve renk çıkışı sunabilmesi için genellikle 30 dakika kadar açık kalması önerilir. Ayrıca, kalibrasyondan önce parlaklık ve kontrast gibi temel ayarların fabrika ayarlarına veya önerilen başlangıç değerlerine getirilmesi de kritik bir ön hazırlık adımıdır."
+    },
+    {
+        "SoruID": 178750,
+        "Aciklama": "Boya renkleri (pigment) <b>çıkarımsal renk sistemi</b>ne (Subtractive Color System) girer. Bu sistemde iki ana rengin (kırmızı, sarı, mavi) eşit oranlarda karıştırılmasıyla oluşan renklere <b>ara renk</b> (sekonder renk) denir. Doğru cevap, iki ana rengin karıştırılmasıyla elde edilen Yeşil, Turuncu veya Mor renklerinden biri olmalıdır."
+    },
+    {
+        "SoruID": 178752,
+        "Aciklama": "Beyaz ışık, bir prizmadan geçirildiğinde <b>kırılma</b> (dispersiyon) olayı gerçekleşir ve ışık bileşenlerine ayrılır. Bu bileşenler, elektromanyetik spektrumun görünür bölgesini oluşturan <b>gökkuşağı renkleri</b>dir: Kırmızı, Turuncu, Sarı, Yeşil, Mavi ve Mor (Violet)."
+    },
+    {
+        "SoruID": 178759,
+        "Aciklama": "Renk sentezleri, temelde <b>RGB</b> (eklemeli) ve <b>CMYK</b> (çıkarımsal) modelleri üzerinden çalışır ve renklerin dijital ortamlarda veya baskıda doğru şekilde üretilmesini ve yönetilmesini amaçlar. Kullanım amaçları arasında görüntüleme, baskı ve renk uzayı tanımlama bulunur; ancak bu sistemler, renkleri yok etmek yerine üretmeyi ve standardize etmeyi hedefler."
+    },
+    {
+        "SoruID": 178761,
+        "Aciklama": "<b>RGB</b> renk sistemi, dijital ekranlar ve monitörler gibi ışık yayan cihazlar için kullanılan <b>eklemeli (additive)</b> bir modeldir. Kısaltmadaki 'R', 'G' ve 'B' harfleri İngilizce ana renkleri temsil eder: R=Red (Kırmızı), G=<b>Green (Yeşil)</b>, B=Blue (Mavi)."
+    },
+    {
+        "SoruID": 178762,
+        "Aciklama": "RGB renk modelinde (eklemeli sistem), ışık renkleri birbiri üzerine eklendiğinde parlaklık artar. <b>Üç ana rengin</b> (Kırmızı, Yeşil, Mavi) eşit ve maksimum yoğunlukta birleşimi, maksimum parlaklığı temsil eden <b>beyaz</b> rengi oluşturur."
+    },
+    {
+        "SoruID": 178764,
+        "Aciklama": "<b>CMYK</b> renk sistemi, baskı süreçlerinde kullanılan <b>çıkarımsal (subtractive)</b> bir modeldir. C (Cyan), M (Magenta) ve Y (Yellow) renklerini takiben gelen 'K' harfi, anahtar rengi ifade eden <b>Key Color</b>'ı temsil eder ve pratikte <b>Siyah</b> (Black) rengi için kullanılır. Bu, siyah mürekkebin tonlama ve derinlik için kritik olmasından kaynaklanır."
+    },
+    {
+        "SoruID": 178767,
+        "Aciklama": "CMYK modelinde renkler, mürekkebin ışığı soğurması prensibiyle oluşur. <b>Beyaz</b>, baskıda mürekkep kullanılmadığı ve kâğıdın orijinal renginin tamamen yansıtıldığı anlamına gelir. Dolayısıyla, beyaz rengi elde etmek için tüm mürekkep değerleri <b>%0</b> olmalıdır (C=0, M=0, Y=0, K=0)."
+    },
+    {
+        "SoruID": 178770,
+        "Aciklama": "Renk alanları (Color Spaces), cihazlar arası tutarlılığı sağlamak için tanımlanmıştır. <b>RGB</b> renk modeline dayalı en yaygın kullanılan renk alanları, web ve genel kullanım için standart olan <b>sRGB</b> ve daha geniş renk gamına sahip olan <b>Adobe RGB</b> gibi alanlardır."
+    },
+    {
+        "SoruID": 180271,
+        "Aciklama": "Dijital bir görüntüdeki veya ekrandaki çözünürlük yoğunluğunu ifade eden terim, <b>inç başına düşen piksel sayısı</b>dır. Bu değer, İngilizce kısaltmasıyla <b>PPI (Pixels Per Inch)</b> olarak adlandırılır. Baskı noktalarının yoğunluğunu ifade eden DPI (Dots Per Inch) terimi ile karıştırılmamalıdır."
+    },
+    {
+        "SoruID": 180272,
+        "Aciklama": "Yüksek kaliteli, standart profesyonel baskı işleri için genel kabul gören çözünürlük değeri <b>300 DPI (Dots Per Inch)</b>'dır. Bu çözünürlük, baskının yüksek detaylı ve pürüzsüz görünmesi için gereken minimum yoğunluktur. Poster gibi uzaktan bakılacak büyük baskılar için daha düşük DPI değerleri (örneğin 150 DPI) yeterli olabilirken, standart baskıda 300 DPI kuraldır."
+    },
+    {
+        "SoruID": 180274,
+        "Aciklama": "Mürekkep püskürtmeli (Inkjet) yazıcılar sıvı <b>mürekkep</b> kullanır ve genellikle <b>CMYK</b> renk seti veya bunun açık tonlu varyasyonlarını (Light Cyan, Light Magenta) kullanırlar. <b>Toner</b>, elektrostatik yüklenmiş toz formunda bir sarf malzemesidir ve mürekkep püskürtmeli yazıcıların değil, <b>lazer yazıcıların</b> kullandığı baskı malzemesidir."
+    },
+    {
+        "SoruID": 180275,
+        "Aciklama": "Mürekkep püskürtmeli yazıcılar sıvı kartuş kullanırken, <b>Lazer Yazıcılar</b> baskıyı gerçekleştirmek için mürekkep yerine ince toz halinde pigment içeren <b>toner</b> kullanırlar. Toner, elektrik yükü yardımıyla kağıda aktarılır ve bir ısıtıcı (fırınlayıcı) tarafından sabitlenir."
+    },
+    {
+        "SoruID": 180276,
+        "Aciklama": "A4 boyutunda, yüksek hızda ve çok sayıda kopyanın alınması gereken ofis ortamları gibi yüksek hacimli kullanımlar için sayfa başı maliyeti düşük ve baskı hızı yüksek olan <b>Lazer Yazıcılar</b> tercih edilmelidir. Mürekkep püskürtmeli yazıcılar genellikle daha yavaştır."
+    },
+    {
+        "SoruID": 180277,
+        "Aciklama": "Geniş format yazıcılar (plotter), standart masaüstü yazıcıların (genellikle A3+) ötesinde, büyük boyutlarda baskı yapmak için tasarlanmıştır. Bu tür yazıcıların baskı genişliği endüstriyel standartlara göre genel olarak en az <b>17 inç</b> (yaklaşık 43.2 cm) genişliğinden başlar."
+    },
+    {
+        "SoruID": 180278,
+        "Aciklama": "Mürekkep püskürtmeli yazıcılar, ısı veya piezoelektrik yöntemlerle sıvı mürekkebi kağıda atar. Bu cihazlar kartuş veya tank sistemleri kullanır. <b>Toner fırınlayıcı (Fuser)</b>, toneri kağıda eriten ve sabitleyen bir parçadır ve sadece <b>lazer yazıcılarda</b> bulunur."
+    },
+    {
+        "SoruID": 180279,
+        "Aciklama": "Standart CMYK (4 renk) genel baskılar için yeterlidir. Ancak, yeterli kalitede ve geniş ton aralığına sahip fotoğraf baskıları için, özellikle cilt tonlarındaki geçişleri yumuşatmak amacıyla, mürekkep püskürtmeli yazıcıların genellikle <b>6 mürekkepli</b> (CMYK'ya ek olarak açık tonlar veya özel siyah mürekkepler) olması önerilir."
+    },
+    {
+        "SoruID": 180280,
+        "Aciklama": "Baskı kalitesi (çözünürlük, renk sayısı, doğru renk profili) temel özelliklere bağlıdır. <b>Çift taraflı baskı (Duplex)</b> özelliği, kâğıt tasarrufu ve verimlilik sağlayan bir kolaylık özelliğidir, ancak basılı çıktının görsel kalitesini artırmak için zorunlu bir gereklilik değildir."
+    }
+]

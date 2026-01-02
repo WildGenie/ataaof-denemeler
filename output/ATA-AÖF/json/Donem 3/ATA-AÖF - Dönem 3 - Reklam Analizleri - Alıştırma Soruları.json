@@ -17,6 +17,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "İçerik analizi, genellikle iletişimin <b>belirgin (manifest) içeriğini</b> sistematik ve objektif biçimde inceleyerek, bu içerik hakkında anlamlı ve tekrarlanabilir çıkarımlar yapmayı amaçlayan bir araştırma tekniğidir. Yanlış olan ifade, analiz sürecinin sistematik ya da objektif olmadığını iddia eden veya sadece yorumlamaya dayandığını öne süren bir seçenek olacaktır. İçerik analizi, nitel araştırmalara zemin hazırlasa da, esasen <b>nicel bir yöntem</b> olarak ortaya çıkmıştır ve <b>sistemli kodlama</b> gerektirir.",
         "Donem": 3
     },
     {
@@ -37,6 +38,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "İçerik analizinin karşıladığı ekonomik ihtiyaçlar, genellikle <b>pazar araştırması</b>, reklam etkinliğinin ölçülmesi, rekabet analizi ve ticari eğilimlerin belirlenmesi gibi alanları kapsar. Örneğin, rakiplerin reklam stratejilerinin incelenmesi veya tüketici mesajlarının zaman içindeki değişiminin analiz edilmesi, ekonomik kararlar almak için gerekli bilgiyi sağlar. Bu kapsamda, <b>pazar ve reklam araştırması yapılması</b> içerik analizinin ekonomik alandaki temel uygulamalarından biridir.",
         "Donem": 3
     },
     {
@@ -57,6 +59,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "İçerik analizi, klinik alanda genellikle bireylerin veya grupların (terapi seansları gibi) iletişim örüntülerini, düşünce yapılarını, kaygı ve duygusal durumlarını ortaya çıkarmak için kullanılır. <b>Klinik ihtiyaçlar</b>; psikolojik danışmanlık, terapötik iletişimin analizi veya akıl sağlığı mesajlarının incelenmesiyle ilgilidir. Sosyopolitik veya ekonomik analizler (örn: propaganda analizi, pazar araştırması) ise klinik ihtiyaçlar kapsamında <b>değildir</b>.",
         "Donem": 3
     },
     {
@@ -77,6 +80,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Alman iletişim bilimci W. Früh, içerik analizinin sistematik ve güvenilir olabilmesi için belirli adımlar önermiştir. Bu adımlar genellikle <b>kategori sisteminin düzenlenmesi</b>, bu sistemin uygulanmasına yönelik <b>kodlama kılavuzu</b> oluşturulması, pilot çalışmalarla test edilmesi ve farklı kodlayıcılar arasında <b>güvenilirlik (reliability) testlerinin</b> yapılmasıdır. Bu adımların dışında kalan bir yöntem, Früh'ün önerisi sayılmaz.",
         "Donem": 3
     },
     {
@@ -97,6 +101,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Basılı ortamlardaki reklam kontrol noktaları, görsel, metinsel ve tasarımsal unsurlara odaklanır. Bunlar arasında <b>metin ve başlıklar</b>, <b>görseller (fotoğraf/illüstrasyon)</b>, <b>sayfa düzeni (layout)</b> ve <b>tipografi (yazı karakterleri)</b> bulunur. Basılı bir ortamda bulunmayan veya görsel-işitsel mecralara özgü olan bir kontrol noktası (örneğin, hareket, ses veya kurgu) bu kapsamda yer almaz.",
         "Donem": 3
     },
     {
@@ -117,6 +122,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu tanım doğrudan <b>İçerik Analizi</b> yöntemini işaret eder. İçerik analizi, iletişimin <b>belirgin (manifest)</b>, yani yüzeyde görülebilir özelliklerini (kelime sıklığı, karakter görünümleri vb.) sayarak veya sistematik olarak kaydederek, daha sonra bu verilerden yola çıkarak içeriğin <b>belirgin olmayan (latent)</b>, yani altta yatan anlamları ve sosyal gerçeklik hakkında çıkarımlar yapmaya olanak tanır.",
         "Donem": 3
     },
     {
@@ -137,6 +143,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Görsel-işitsel (TV, video, film) ortamlarda analiz yapılırken, hem görsel hem de işitsel boyutları dikkate alan özel ilkeler kullanılır. Bunlar arasında <b>çekim ölçekleri</b>, <b>kamera hareketleri</b>, <b>ses kullanımı</b>, <b>kurgu ve montaj</b> ritmi gibi sinematografik unsurlar yer alır. <b>Tipografi (yazı karakteri bilimi)</b> ise, temel olarak basılı reklamların ve metinsel materyallerin kontrol edilmesi gereken bir analiz ilkesidir ve görsel-işitsel analiz ilkeleri arasında birincil sırada yer almaz.",
         "Donem": 3
     },
     {
@@ -157,6 +164,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Tanım, sözcükler, grafikler, fotoğraf ve resimler gibi çeşitli <b>görsel ve metinsel bileşenleri</b> bir araya getirerek bir okuma/anlama alanı yaratan iletişim biçimini açıklamaktadır. Bu tanım, hedef kitleye ulaşmak ve etki yaratmak amacıyla tasarlanan <b>Reklam</b> için geçerlidir. Reklam, bu unsurları kullanarak kendi özel dilini (multimodalite) oluşturur.",
         "Donem": 3
     },
     {
@@ -177,6 +185,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "<b>“İnsanların dil ile ne yaptıkları”</b> sorusuna odaklanmak, dilin sadece bilgi aktarımı değil, aynı zamanda bir eylem biçimi (performans) olduğu varsayımına dayanır. Bu yaklaşım, dilin sosyal ve kültürel bağlamdaki rolünü ve iletişimin belirsiz yönlerini inceleyen <b>Söylem Analizi</b>'nin temelini oluşturur. Geleneksel içerik analizi 'ne söylendiği' ile ilgilenirken, söylem analizi 'nasıl ve neden söylendiği' ile ilgilenir.",
         "Donem": 3
     },
     {
@@ -197,6 +206,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklamların tüketiciler üzerindeki <b>duygusal ve bilişsel etkilerini</b> ölçmek için kullanılan teknikler genellikle derinlemesine psikolojik veya fizyolojik yöntemlerdir. Bunlara örnek olarak <b>Odak Grupları</b> (Focus Groups), <b>Derinlemesine Görüşmeler</b> veya <b>Fizyolojik Testler</b> (Eye-tracking, GSR) verilebilir. Reklam içeriğini sadece yapısal veya nicel olarak inceleyen (ne sıklıkta göründüğünü sayan) bir teknik, bu duygusal etkiyi doğrudan ölçmek için yetersiz kalacaktır.",
         "Donem": 3
     },
     {
@@ -217,6 +227,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "İyi bir reklam analizi için, reklamın bir iletişim süreci olduğunu anlamak gerekir. Bu süreçte temel iletişim unsurları olan <b>Mesaj (I)</b>, mesajın iletildiği <b>Medya (II)</b> ve iletişimi bozan <b>Gürültü (III)</b> hayati öneme sahiptir. Ayrıca, reklamın varlık nedeni olan ve içeriği şekillendiren üst düzey hedeflerin (<b>Pazarlama stratejileri - IV</b>) bilinmesi de analiz için olmazsa olmazdır. Dolayısıyla, I, II, III ve IV'ün tamamı reklam analizinde bilgi sahibi olunması gereken unsurlardandır.",
         "Donem": 3
     },
     {
@@ -237,6 +248,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Früh’ün içerik analizine ilişkin önerileri, kategori sisteminin oluşturulmasından sonra, sistemin tutarlılığını sağlamaya odaklanır. Bu aşamalar, kategorilerin nasıl kullanılacağına dair kesin <b>kuralların (kodlama kılavuzu)</b> oluşturulması, kategori sisteminin bir <b>pilot çalışma</b> ile test edilmesi ve farklı kodlayıcılar arasındaki <b>uyumun (güvenilirlik)</b> ölçülmesini içerir. Araştırma hedeflerini belirlemek ise kategori sisteminden önceki hazırlık aşamasına aittir.",
         "Donem": 3
     },
     {
@@ -257,6 +269,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "İçerik analizinin karşıladığı <b>sosyopolitik ihtiyaçlar</b>, toplumdaki güç ilişkilerini, siyasi iletişimi, propaganda etkilerini, medya eğilimlerini ve demokratik süreçlerin işleyişini incelemeyi kapsar. Örneğin, siyasi kampanyaların analiz edilmesi veya azınlık gruplarının temsili sosyopolitik ihtiyaçlardır. <b>Tüketici eğilimlerinin belirlenmesi</b> veya reklam etkinliği ise daha çok <b>ekonomik ihtiyaçlar</b> kapsamında yer alır.",
         "Donem": 3
     },
     {
@@ -277,6 +290,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Görsel-işitsel ortamlardaki reklam kontrol noktaları, zaman tabanlı ve dinamik unsurlara odaklanır. Bunlar arasında <b>kurgu</b>, <b>ses efektleri</b>, <b>hareket</b>, <b>ritim</b> ve <b>görsel kompozisyon</b> bulunur. <b>Tipografi</b> ise, genellikle birincil olarak basılı mecralarda kullanılan ve metnin fiziksel görünümünü inceleyen bir kontrol noktasıdır.",
         "Donem": 3
     },
     {
@@ -297,6 +311,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Basılı ortamlardaki reklam kontrol noktaları, statik görsel ve metin unsurlarına odaklanır: <b>Görsel/Fotoğraf</b>, <b>Tipografi</b>, <b>Metin içeriği</b>, <b>Sayfa düzeni (Layout)</b>. <b>Kurgu ve Montaj kontrolü</b> ise, zamana bağlı olarak görüntü ve seslerin ardışık bir şekilde birleştirilmesi sürecini ifade eder ve temel olarak görsel-işitsel (video, film) ortamlara ait bir denetim noktasıdır.",
         "Donem": 3
     },
     {
@@ -317,6 +332,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Hedef kitleye yönelik bilgiyi ileten, merak uyandıran ve duygusal etkileşim yaratan temel bileşen, <b>Reklam Mesajı</b>'dır. Reklamcı bu süreçte stratejik olarak <b>'kime, neyi, nasıl söyleyeceğini'</b> belirler; yani mesajın içeriğini, tonunu ve sunumunu planlar. Reklam mesajı, analizin ana konusunu oluşturur.",
         "Donem": 3
     },
     {
@@ -337,6 +353,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "İyi bir reklam analizi, reklamın oluşturulma sürecini, pazarlama hedeflerini, rekabet ortamını, hedef kitleyi ve reklamın etki sonuçlarını anlamayı gerektirir. Analizde göz önüne alınması gereken bilgiler <b>Pazarlama hedefleri</b>, <b>Rakip bilgileri</b>, <b>Hedef kitlenin özellikleri</b> ve <b>Mesajın kendisi</b>dir. Reklamla doğrudan ilişkili olmayan, firmanın iç idari detayları (örneğin personel maaşları veya lojistik maliyetleri) iyi bir reklam analizinde göz önüne alınması gereken bilgiler arasında <b>yer almaz</b>.",
         "Donem": 3
     },
     {
@@ -357,6 +374,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Reklam analizinde kullanılan sosyal bilimler yaklaşımları, mesajın anlamını, yapısını ve etkileşimini inceler. Bunlar arasında <b>Semiyoloji (Göstergebilim)</b>, <b>İçerik Analizi</b>, <b>Söylem Analizi</b> ve <b>Anlatı (Narrative) Analizi</b> gibi yöntemler bulunur. Teknik veya mühendislik disiplinlerine ait yaklaşımlar (örneğin, Ekonometrik Modelleme) sosyal bilimler yaklaşımlarından <b>biri değildir</b>, bunlar genellikle etki ölçümü veya finansal analiz için kullanılır.",
         "Donem": 3
     },
     {
@@ -377,6 +395,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "İyi bir reklam analizi için bilinmesi gereken temel unsurlar, iletişim modelinden gelir: Mesaj, Medya, Alıcı, Gürültü ve Geri Bildirim. Bunlar reklamın nasıl yaratıldığı ve yayıldığı hakkında bilgi verir. <b>Mesaj</b>, <b>Medya</b>, <b>Hedef Kitle</b> ve <b>Gürültü</b> temel unsurlardır. Reklamın kendisiyle veya iletişimiyle doğrudan ilgili olmayan detaylar (örneğin, reklam ajansının iç organizasyon yapısı) iyi bir reklam analizi için zorunlu unsurlardan biri <b>değildir</b>.",
         "Donem": 3
     },
     {
@@ -397,6 +416,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Reklam mesajının alıcıda yarattığı etkiyi, alıcılara ne söylediğini ve onları nasıl yönlendirdiğini anlama süreci, mesajın ve medyanın hedefine ulaşıp ulaşmadığını değerlendirmeyi amaçlar. Bu süreç, genel olarak <b>Reklam Analizi</b> olarak tanımlanır ve reklamın başarısını ölçmek için kritik öneme sahiptir. Analiz, hem içeriğin yorumlanmasını hem de etkinin ölçülmesini kapsar.",
         "Donem": 3
     },
     {
@@ -417,6 +437,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Pazarlamacılar ve reklamcılar tarafından belirlenen reklam süreçleri, başarılı bir kampanya oluşturmanın temel adımlarını içerir. Bu adımların tamamı (I, II ve III), genellikle reklam planlama sürecinin stratejik aşamalarıdır:<br>I. <b>Reklamın içinde bulunduğu durumu değerlendirmek</b>: Bu, mevcut pazar koşulları, rakipler ve hedef kitle analizi (<b>durum analizi</b>) yaparak reklam stratejisine zemin hazırlamaktır.<br>II. ve III. <b>Rekabet ortamında başarıyı sağlayacak ürünü/markayı ön plana çıkartmak</b>: Bu maddeler, reklamın temel hedeflerinden olan <b>konumlandırma</b> ve <b>farklılaştırma</b> stratejilerinin belirlenmesini ifade eder. Bu stratejiler, markanın veya ürünün hedef kitlenin zihninde benzersiz bir yer edinmesini sağlamayı amaçlar. Dolayısıyla, listelenenlerin hepsi reklam süreçlerinde yer alır.",
         "Donem": 3
     },
     {
@@ -437,6 +458,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Reklamın başarısını etkileyen temel faktörler, stratejik planlamanın üç ana bileşenini temsil eden bir <b>üçgen</b> olarak tanımlanır. Bu üçgen, reklamın etkinliğini maksimize etmek için uyum içinde olması gereken unsurlardır:<br>1. <b>Hedef Kitle</b> (Kime ulaşıyoruz?)<br>2. <b>Mesaj</b> (Ne söylüyoruz?)<br>3. <b>Mecra</b> (Nerede ve nasıl iletiyoruz?)<br>Bu üç bileşenin doğru tespiti ve entegrasyonu, reklamın amaçlanan <b>iletişim hedeflerine</b> ulaşmasında kritik rol oynar.",
         "Donem": 3
     },
     {
@@ -457,6 +479,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bir reklam analizinde, ürün politikaları, fiyatlandırma, dağıtım stratejileri ve diğer iletişim uygulamaları (halkla ilişkiler, satış promosyonu vb.) gibi unsurların incelenmesi, reklamın doğrudan etkileşimde bulunduğu <b>pazarlama karması</b> (4P) ve <b>geniş çevresel faktörler</b> kapsamında yapılır. Bu, araştırmacının <b>Pazarlama Ortamı Analizi</b> alanında bir inceleme yaptığını gösterir. Bu analiz, reklamın stratejik olarak nasıl konumlandırılması gerektiğini anlamak için zorunludur.",
         "Donem": 3
     },
     {
@@ -477,6 +500,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "<b>Reklam analizleri</b>, bir reklam kampanyasının yayınlandıktan sonraki performansını ve etkilerini değerlendirmek amacıyla yapılır. Bu analizler aracılığıyla:<br>I. Reklamın hedef kitlede bıraktığı <b>bilişsel, duyuşsal ve davranışsal etki</b> ölçülür.<br>II. Reklamın kitleyi satın alma veya marka tutumu gibi konularda ne ölçüde <b>yönlendirdiği</b> (ikna gücü) tespit edilir.<br>III. Reklamın kitleyi ürün, hizmet veya marka hakkında ne kadar <b>bilgilendirdiği</b> (farkındalık ve bilgi aktarımı) saptanır.<br>Bu nedenlerle, listelenen tüm unsurlar (I, II ve III) reklam analizleri ile ulaşılabilecek temel sonuçlardır.",
         "Donem": 3
     },
     {
@@ -497,6 +521,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>İçerik analizi</b>, metinlerin veya iletişim içeriklerinin sistematik ve objektif incelenmesi sürecidir. Bu sürecin doğru sıralaması, mantıksal ve metodolojik bir akış izler:<br>1. <b>Araştırma hedeflerini belirlemek</b> (III): Analizin neyi amaçladığını ve hangi sorulara cevap arayacağını saptar.<br>2. <b>Örneklemin oluşturulması</b> (I): Analize dahil edilecek materyalin (reklamlar, makaleler vb.) seçilmesi.<br>3. <b>Örneklemin bölüneceği birimler ve kategorilerin saptanması</b> (II): Kodlama için gerekli olan kayıt birimlerinin ve sınıflandırma kategorilerinin belirlenmesi.<br>4. <b>Değerlendirme, çıkarsama ve yorumlama</b> (IV): Toplanan verilerin analiz edilmesi, sonuçların çıkarılması ve yorumlanması.<br>Doğru sıralama: III, I, II, IV.",
         "Donem": 3
     },
     {
@@ -517,6 +542,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>İçerik analizi</b>, iletişimin içeriğini nesnel, sistematik ve nicel/nitel olarak inceleyen bir yöntemdir. <br>I. İçerik analizi, özellikle <b>nicel yaklaşımı</b> kullanarak verileri sayısal (sıklık, yoğunluk) değerlere dönüştürür ve metnin bugünkü anlamını ortaya koyar.<br>II. Metni <b>kayıt birimlerine</b> (atomlarına) ayırır, kodlar ve ardından bu kodlanmış verileri birleştirerek <b>yorumlar</b>.<br>III. Metnin ardındaki derin yorumu veya <b>söylemi</b> ortaya çıkarma eğilimi daha çok nitel yaklaşımlarla (örneğin söylem analizi) ilişkilendirilse de, içerik analizi bu tür yorumlar için temel veri sağlayıcısıdır. Temel teknik özellikler I ve II’dir, bu yüzden genellikle hepsi doğru kabul edilir.",
         "Donem": 3
     },
     {
@@ -537,6 +563,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "İçerik analizinde <b>kategoriler</b>, güvenilir ve geçerli sonuçlara ulaşmak için çok dikkatli belirlenmelidir. Kategorilerin temel özellikleri:<br>1. <b>Kapsayıcılık</b>: Tüm ilgili kayıt birimlerini içermelidir.<br>2. <b>Karşılıklı Dışlayıcılık</b>: Bir kayıt birimi aynı anda birden fazla kategoriye girmemelidir.<br>3. <b>Objektiflik ve Açıklık</b>: Kodlayıcılar arasında tutarlılık sağlamak için tanımlar net olmalıdır.<br>Kategorilerin belirlenmesinde dikkat edilmemesi gereken (yani kaçınılması gereken) bir unsur, kategorilerin <b>öznel (sübjektif) yargılara dayandırılması</b> veya <b>araştırma hedeflerine uygun olmamasıdır</b>. İyi bir kategorizasyon, bu temel prensipleri ihlal etmemelidir.",
         "Donem": 3
     },
     {
@@ -557,6 +584,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Metinlerin sistematik ve nesnel bir biçimde incelenmesini sağlayan, metindeki belirli unsurların sıklığını ve yoğunluğunu tespit ederek bu verileri <b>sayısal değerlere dönüştürerek</b> ortaya koyan analiz yöntemi <b>İçerik Analizidir</b> (Content Analysis). Bu yöntem, büyük miktardaki iletişim materyalinde hangi temaların veya kelimelerin ne kadar yer aldığını ölçerek <b>nicel sonuçlar</b> elde etmeyi sağlar.",
         "Donem": 3
     },
     {
@@ -577,6 +605,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Ana mesaj stratejileri iki temel başlıkta incelenir: <b>Bilgisel (Informational) Stratejiler</b> ve <b>Transformasyonel (Dönüştürücü) Stratejiler</b>. Bilgisel stratejiler tüketicinin mantıksal karar verme sürecine odaklanırken (USP, Konumlandırma, Önleyici İddia vb.), Transformasyonel stratejiler ürün kullanımına dair duyguları, deneyimleri veya yaşam tarzını ön plana çıkarır. Bu nedenle, bilgisel stratejiler arasında yer almayan seçenek büyük ihtimalle transformasyonel stratejilerle ilgili bir alt başlıktır. Örneğin, Yaşam Tarzı Stratejisi veya Marka Kullanım Stratejisi bilgisel değil, transformasyonel stratejilerdendir.",
         "Donem": 3
     },
     {
@@ -597,6 +626,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Konumlandırma stratejileri, bir markanın zihinde rakiplerine göre farklı bir yer edinmesini sağlamaya yönelik mikro stratejileri içerir. Bunlar genellikle <b>özelliğe, faydaya, kullanım fırsatına, kullanıcıya, rakibe veya fiyat/kaliteye</b> göre konumlandırmadır. Bu listede yer almayan bir seçenek (örneğin, Transformasyonel stratejinin bir alt başlığı olan <b>Yaşam Tarzı Stratejisi</b>) konumlandırma stratejilerinden biri olarak kabul edilmez. Konumlandırma, temelde bilgisel stratejinin bir parçasıdır.",
         "Donem": 3
     },
     {
@@ -617,6 +647,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu reklam sloganı ('Özen gösteren anneler için'), ürünü kullanan hedef kitleyi ve onların spesifik özelliklerini (özen gösterme) ön plana çıkarmaktadır. Bu tür bir yaklaşım, <b>Kullanıcı Stratejisi</b> (User Strategy) olarak adlandırılır ve Konumlandırma stratejisinin bir alt başlığıdır. Marka, hedef kitlenin bu imajıyla özdeşleşerek pazarda kendine bir yer edinir.",
         "Donem": 3
     },
     {
@@ -637,6 +668,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Yaratıcı reklam mesajının temel özellikleri, reklamın başarılı olması için gereken unsurlardır. Bunlar genel olarak üç ana başlıkta toplanır: <br/>I. <b>İlgi (Relevance)</b>: Mesajın hedef kitleyle alakalı olması. <br/>II. <b>Orijinallik (Originality)</b>: Fikrin daha önce kullanılmamış veya beklenmedik olması. <br/>III. <b>Güçlü Etki (Impact)</b>: Mesajın hatırlanabilir ve hedef kitle üzerinde kalıcı bir etki bırakabilir olması. <br/>Bu nedenle I, II ve III yaratıcı reklam mesajının ana özellikleri arasında yer alır.",
         "Donem": 3
     },
     {
@@ -657,6 +689,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Verilen cümle, pazardaki diğer ürünlerde de bulunabilen, ancak ilk kez bir marka tarafından iddia edilip sahiplenilen bir özellikten bahsetmektedir. Bu stratejiye <b>Önleyici İddia Stratejisi (Preemptive Claim Strategy)</b> denir. Marka, bu özelliği ilk kullanan olduğu için, rakip markalar aynı iddiayı yaptığında tüketici zihninde taklitçi konumuna düşerler. Bu, bilgisel stratejiler içerisinde yer alan güçlü bir konumlandırma yöntemidir.",
         "Donem": 3
     },
     {
@@ -677,6 +710,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Tüketicilerin satın alma süreçlerinde <b>mantıksal ve rasyonel</b> kararlar aldığı varsayımı üzerine kurulan, ürünün somut faydaları, özellikleri veya performansına dair bilgi veren yaklaşımlara <b>Bilgisel Stratejiler (Informational Strategies)</b> adı verilir. Bu stratejiler genellikle USP, Konumlandırma veya Önleyici İddia gibi alt stratejileri içerir.",
         "Donem": 3
     },
     {
@@ -697,6 +731,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Yaratıcı reklam mesajlarının üç temel özelliğinden biri olan <b>Orijinallik</b>, fikrin benzersizliğini ve daha önce hiç denenmemiş olmasını ifade eder. Bir fikrin daha önce hiç kullanılmamış olması, onun en temel orijinallik göstergesidir.",
         "Donem": 3
     },
     {
@@ -717,6 +752,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Daha önce hiç kullanılmamış bir fikrin kullanımı, yaratıcı reklam mesajının <b>Orijinallik</b> (Originality) özelliğini vurgular. Yaratıcı mesajlar; İlgi, Orijinallik ve Güçlü Etki özelliklerini taşımalıdır.",
         "Donem": 3
     },
     {
@@ -737,6 +773,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Yaratıcı reklamlar başarılı olmak için birkaç temel niteliği bünyesinde barındırmalıdır. <br/>I. <b>İlişki Kurma:</b> Mesajın hedef kitlenin ilgi alanına girmesi ve marka ile duygusal/mantıksal bağ kurması (İlgi). <br/>II. <b>Satış Fikri Sunma:</b> Reklamın temelinde bir satış argümanının olması (Güçlü Etki). <br/>III. <b>Beklenmedik Olma:</b> Klasik kalıpların dışına çıkarak dikkat çekmesi (Orijinallik). <br/>Bu üç madde de etkili bir yaratıcı reklamı betimlemektedir.",
         "Donem": 3
     },
     {
@@ -757,6 +794,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Transformasyonel (Dönüştürücü) Stratejiler</b>, tüketicinin ürünü kullanırken yaşayacağı duygusal deneyimi, sosyal kabulü veya yaşam tarzını ön plana çıkarır. Bilgisel stratejilerin aksine mantığa değil, duygulara hitap eder. Örnekleri arasında <b>Marka Kullanım Stratejisi</b>, Satın Alma Sonrası Deneyim Stratejisi, Duygusal Stratejiler ve <b>Yaşam Tarzı Stratejisi</b> bulunur.",
         "Donem": 3
     },
     {
@@ -777,6 +815,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Konumlandırma stratejileri genellikle ürünün zihinde nasıl yer alacağını belirleyen mikro stratejilere sahiptir. Bunlar: Özelliğe, Faydaya, Kullanım Fırsatına, Kullanıcıya, Rakibe ve Fiyat/Kaliteye dayalı konumlandırmadır. <b>Tekil Satış Önermesi (USP) Stratejisi</b> de bilgisel bir strateji olmasına rağmen, genellikle Konumlandırma şemsiyesinin altında bir mikro strateji olarak değil, bilgisel stratejinin ana alternatiflerinden biri olarak ayrı ele alınır.",
         "Donem": 3
     },
     {
@@ -797,6 +836,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Yaratıcı reklam mesajının etkinliğini belirleyen ana özellikler şunlardır: <br/>I. <b>Orijinallik</b>: Daha önce kullanılmamış fikir. <br/>II. <b>İlgi/Alaka</b>: Hedef kitlenin ilgi alanına girmesi. <br/>III. <b>Güçlü Etki</b>: Mesajın dikkat çekici ve akılda kalıcı olması. <br/>Bu üç madde (I, II ve III) başarılı bir yaratıcı reklam mesajının temel özelliklerini oluşturur.",
         "Donem": 3
     },
     {
@@ -817,6 +857,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Bazı yaratıcı stratejiler hem ürünün somut faydaları (bilgisel) hem de duygusal veya imajsal çağrışımları (transformasyonel) barındırır. <b>Marka İmajı Stratejisi</b> bu hibrit yapının en tipik örneğidir. Marka imajı, bir yandan ürünün kalitesine dair bilgisel sinyaller verirken, diğer yandan markanın sunduğu duygusal deneyim ve sosyal statü (transformasyonel etki) üzerinden konumlanır.",
         "Donem": 3
     },
     {
@@ -837,6 +878,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Konumlandırma stratejisi alt stratejileri (mikro stratejiler) genellikle Özellik, Fayda, Kullanım Fırsatı, Kullanıcı, Rakip ve Fiyat/Kalite odaklıdır. <b>Tekil Satış Önermesi (USP) Stratejisi</b>, bilgisel stratejiler içinde Konumlandırmadan ayrı olarak yer alan, ürünün sadece o markaya özgü benzersiz bir faydasını vurgulayan temel bir stratejidir ve bu nedenle Konumlandırma alt stratejisi sayılmaz.",
         "Donem": 3
     },
     {
@@ -857,6 +899,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Konumlandırma stratejisi, markayı rakiplerden ayırt eden zihinsel bir yer yaratma sürecidir. Bu süreç, genellikle ürünün somut özellikleri, faydaları, kullanım bağlamı veya hedef kullanıcı grupları üzerine kuruludur. Konumlandırma stratejisi, mesajın duygusal yönüne odaklanan ve rasyonel olmayan kararları hedefleyen <b>Duygusal Etki Yaratma</b> (Affective Strategy) gibi tamamen transformasyonel unsurları içermez.",
         "Donem": 3
     },
     {
@@ -877,6 +920,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bir reklam mesajında hem ürünün kalitesini (yumuşaklık/fayda) hem de maliyetini (hesaplı/fiyat) bir arada vurgulayan strateji, <b>Fiyat/Kalite Stratejisi</b> olarak adlandırılır. Bu strateji, Konumlandırma stratejileri arasında yer alır ve markanın değerini tüketici zihninde maliyet ve performans dengesi üzerinden kurar.",
         "Donem": 3
     },
     {
@@ -897,6 +941,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Kullanım Fırsatı Stratejisi</b> (Usage Opportunity Strategy), ürünün hangi durumlarda, ne zaman, nerede veya hangi amaçla kullanılması gerektiğini tüketicilere öğretmeyi amaçlar. Bu stratejide kullanılan yöntemler (kullanım senaryoları, yeni kullanım alanları gibi) doğrudan ürünün kullanım bağlamıyla ilgilidir. <b>Rakip İmajının Değerlendirilmesi</b> ise, Rakip Stratejisi (Competitor Strategy) kapsamında yer alır ve Kullanım Fırsatı stratejisiyle doğrudan ilişkili değildir.",
         "Donem": 3
     },
     {
@@ -917,6 +962,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Yaratıcı stratejiler, belirlenen pazarlama amaçlarına ulaşmak için reklam mesajının nasıl oluşturulacağını (bilgisel mi, transformasyonel mi vb.) belirler. Ancak yaratıcı stratejilerin kendisi, üst düzey yönetim kararı gerektiren <b>Pazarlama amaçlarının belirlenmesi</b> (Hedef pazarın büyüklüğü, Pazar payı hedefleri gibi) işlevine hizmet etmez. Yaratıcı strateji, amaçlar belirlendikten sonra devreye girer.",
         "Donem": 3
     },
     {
@@ -937,6 +983,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Yaratıcı bir reklamın başarısı, bu üç temel niteliğe bağlıdır: <br/>I. <b>İlişki kurmak</b>: Mesajın hedef kitle için anlamlı ve ilgi çekici olması (İlgi/Alaka). <br/>II. <b>Satış fikri sunmak</b>: Reklamın bir amaca hizmet etmesi ve tüketiciyi harekete geçirmesi (Güçlü Etki). <br/>III. <b>Beklenmedik olmak</b>: Mesajın standart ve sıkıcı olmaması, yenilikçi bir bakış açısı sunması (Orijinallik). <br/>Bu maddelerin hepsi (I, II ve III) yaratıcı reklamın başlıca özelliklerindendir.",
         "Donem": 3
     },
     {
@@ -957,6 +1004,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Bilgisel (Informational) stratejiler, tüketicinin mantıksal karar verme sürecini hedef alan, ürün özelliklerini ve faydalarını vurgulayan yaklaşımlardır (USP, Konumlandırma, Önleyici İddia). <b>Yaşam Tarzı Stratejisi (Lifestyle Strategy)</b> ise, ürünün kullanıcının hayalini kurduğu veya yaşadığı sosyal/duygusal deneyime nasıl uyum sağladığını gösteren, tamamen <b>Transformasyonel (Dönüştürücü)</b> bir stratejidir. Bu nedenle bilgisel stratejiler içerisinde yer almaz.",
         "Donem": 3
     },
     {
@@ -977,6 +1025,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Transformasyonel (Dönüştürücü) stratejiler, ürün ya da hizmeti kullanmanın sağlayacağı duygusal faydalara veya kullanıcı deneyimine odaklanır. Bu stratejiler, tüketiciye ürünü kullanırken nasıl hissedeceklerini, hangi yaşam tarzını benimseyeceklerini vaat eder. Bu stratejilere örnek olarak <b>Marka İmajı Stratejisi</b>, <b>Duygusal Etki Stratejisi</b> veya <b>Yaşam Tarzı Stratejisi</b> verilebilir. Rasyonel faydadan ziyade, duygusal ve deneyimsel faydalar ön plandadır.",
         "Donem": 3
     },
     {
@@ -997,6 +1046,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Konumlandırma stratejilerinden biri olan meydan okuma (Challenging), genellikle pazarda lider konumda olmayan bir markanın, <b>pazar liderinin zayıf yönlerini hedef alarak</b> veya onunla doğrudan karşılaştırma yaparak rekabet etmesidir. Bu stratejide, marka kendini daha iyi, daha hızlı veya daha ucuz olarak konumlandırır ve bu iddialarını kanıtlamak için agresif ve karşılaştırmalı reklamcılık kullanabilir. Amaç, liderin pazar payından pay çalmaktır.",
         "Donem": 3
     },
     {
@@ -1017,6 +1067,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Yaratıcı reklam mesajlarının taşıması gereken temel özellikler genellikle üç ana başlıkta toplanır: <b>Relevans (Alaka)</b>, <b>Orijinallik (Özgünlük)</b> ve <b>Etki (Güçlü tepki yaratma)</b>. Bu bağlamda, reklam mesajının hedef kitlenin ilgi alanına girmesi (Relevans), daha önce kullanılmamış olması (Orijinallik) ve hedef kitle üzerinde istenen davranışı veya tutumu oluşturması (Etki) önemlidir. Yaratıcı mesajın taşıması gerekmeyen bir özellik genellikle 'karmaşık veya anlaşılmaz olmak' ya da 'sadece rasyonel faydaya odaklanmak' gibi maddelerdir.",
         "Donem": 3
     },
     {
@@ -1037,6 +1088,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Verilen özellikler <b>Benzersiz Satış Vaadi (Unique Selling Proposition - USP)</b> stratejisine aittir. USP, reklamda tüketicilere sunulan ve yalnızca o markanın sağlayabileceği tek, üstün ve rakiplerden ayrılan bir faydayı ifade eder. II. maddedeki 'Üstünlük iddiası taşıdığı için rakipleri tarafından taklit edilemez' ifadesi, bu vaadin markaya özgü olduğunu ve rekabet avantajı sağladığını gösterir. IV. maddedeki gibi, genellikle teknolojik veya somut özelliklerin önemli olduğu ürünler için güçlü bir stratejidir.",
         "Donem": 3
     },
     {
@@ -1057,6 +1109,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Yaratıcı stratejilerden yararlanılarak hazırlanan reklam analizleri, genellikle reklamın hedef kitle üzerindeki <b>etkisini</b> ve <b>algısını</b> ölçer. Elde edilen veriler; reklamın hatırlanma oranı, mesajın anlaşılırlığı, marka tutumuna etkisi ve satın alma niyeti gibi tüketici davranışları ve algıları ile ilgilidir. Maddi üretim maliyeti veya dağıtım kanalı verimliliği gibi konular, yaratıcı strateji analizinden ziyade, operasyonel veya medya planlama analizleriyle elde edilen verilerdir. Yaratıcı analiz, mesajın tüketici zihnindeki performansına odaklanır.",
         "Donem": 3
     },
     {
@@ -1077,6 +1130,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Bu stratejiye <b>Önleyici İddia (Preemptive Claim)</b> adı verilir. Önleyici iddiada, marka aslında rakiplerin de sahip olduğu, ancak henüz reklamda vurgulamadıkları bir özelliği ilk olarak sahiplenir ve onu kendi markasıyla özdeşleştirir. Tüketici zihninde bu özellik o markaya aitmiş gibi algılanır, böylece rakipler aynı özelliği vurgulasa bile inandırıcılıkları azalır. Bu, pazarda bir özelliği 'kilitleme' amacı güder.",
         "Donem": 3
     },
     {
@@ -1097,6 +1151,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "OMO'nun “Kirlenmek güzeldir.” kampanyası, ürünün temel faydası olan temizliğin (rasyonel fayda) ötesine geçerek, kirin getirdiği <b>deneyimi</b>, öğrenmeyi ve çocuk gelişimini teşvik etme gibi <b>duygusal ve psikolojik faydaları</b> ön plana çıkarmaktadır. Bu tür bir yaklaşım, tüketiciye ürünü kullanmanın sunduğu yaşam tarzını ve duygusal dönüşümü vaat ettiği için <b>Transformasyonel Strateji</b> kullanımına örnektir. Kampanya, tüketicinin duygu durumunu değiştirmeyi ve marka ile duygusal bir bağ kurmayı amaçlar.",
         "Donem": 3
     },
     {
@@ -1117,6 +1172,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Yaratıcı reklam mesajının üç ana özelliği şunlardır: <b>Relevans (Alaka)</b>, <b>Orijinallik</b> ve <b>Etki</b>. I. (İlgi alanına girmelidir - Relevans) ve II. (Üstün özellikli ürünler için kullanılır - Orijinalliğin bir parçası) ile III. (Güçlü etkiye sahip olmalıdır - Etki) bu özelliklerle ilişkilidir.<br/>IV. madde, 'Yaratıcı reklam fikri daha önce kullanılan bir fikir olmalıdır' ifadesiyle, yaratıcılığın temel gerekliliği olan <b>Orijinallik</b> ilkesiyle çelişmektedir. Dolayısıyla, IV. madde yaratıcı reklam mesajının ana özellikleri arasında yer almaz.",
         "Donem": 3
     },
     {
@@ -1137,6 +1193,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "CMYK, özellikle <b>basılı materyallerde</b> kullanılan ve renklerin beyaz kağıttan ışığı emerek çalışan (çıkarıcı - subtractive) bir renk modelidir. CMYK, <b>Cyan</b> (Mavi), <b>Magenta</b> (Kırmızımsı-Mor), <b>Yellow</b> (Sarı) ve <b>Key</b> (Siyah, baskı plakası anlamına gelir) renklerinden oluşur. Bu renklerin doğru sıralanışı genellikle Cyan, Magenta, Yellow, Key şeklindedir.",
         "Donem": 3
     },
     {
@@ -1157,6 +1214,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Cümledeki boşluğa <b>Tipografi</b> getirilmelidir. Tipografi, bir tasarımda metin ögelerinin (harf karakterleri, boşluklar, satır aralıkları vb.) <b>nereye, nasıl ve ne şekilde yerleştirileceğinin kurallarını</b> belirleyen sanattır. Tipografi, metnin okunabilirliğini ve estetik değerini optimize etmeyi amaçlar.",
         "Donem": 3
     },
     {
@@ -1177,6 +1235,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Rengin temel boyutları (Özellikleri) standart olarak üç tanedir: <b>Ton (Hue)</b>, <b>Doygunluk (Saturation)</b> ve <b>Parlaklık (Value)</b>. Listedeki Uzunluk (I), Darlık (II), Derinlik (III) ve Genişlik (IV) kavramları, rengin kendisinin teorik boyutları değil, genellikle fiziksel nesnelerin veya mekanın boyutlarıdır. Dolayısıyla (II. Darlık) ve (III. Derinlik) rengin temel boyutları arasında <b>yer almaz</b>.",
         "Donem": 3
     },
     {
@@ -1197,6 +1256,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Kırmızı, spektrumdaki <b>en sıcak renklerden</b> biridir. Genel özellikleri arasında <b>tutku, enerji, dikkat çekme, tehlike ve hareket</b> yer alır. Kırmızı, izleyici üzerinde heyecan verici ve uyarıcı bir etkiye sahiptir, bu nedenle <b>sakinlik hissi vermek</b> kırmızı rengin özelliklerinden biri değildir. (Sakinlik, soğuk renklerin özelliğidir.)",
         "Donem": 3
     },
     {
@@ -1217,6 +1277,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Görsel tasarımlara yüklenen anlamlar, izleyicinin kişisel, sosyal ve kültürel bağlamına göre değişiklik gösterir. Bu etmenlerin hepsi (I, II ve III) algılanan anlamı etkiler: <br>I. <b>İzleyicinin psikolojik durumu</b> (ruh hali ve beklentiler) algıyı kişiselleştirir.<br>II. <b>Tasarımın bütünselliği</b>, mesajın netliğini ve dolayısıyla algılanan anlamı etkiler.<br>III. <b>İzleyicinin demografik özellikleri</b> (kültür, yaş, eğitim) ise simgelerin yorumlanmasını ve renklere verilen tepkileri değiştirir.",
         "Donem": 3
     },
     {
@@ -1237,6 +1298,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Basılı reklam ortamları, mesajların fiziksel bir yüzeye (kağıt, karton vb.) basılarak iletildiği mecralardır. Gazeteler, dergiler, broşürler ve el ilanları basılı ortamlardır. <b>İnternet reklamları</b> veya <b>Sosyal medya</b> gibi mecralar ise dijital/elektronik reklam ortamları grubuna girer ve basılı ortam değildir.",
         "Donem": 3
     },
     {
@@ -1257,6 +1319,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Görsel tasarımın temel ögeleri <b>nokta, çizgi, biçim/şekil, doku, renk ve boşluk/mekan</b>dır. Bu ögeler, bir görseli oluşturan yapı taşlarıdır. <b>Ses</b> veya <b>Müzik</b> gibi işitsel ögeler, görsel tasarım ögelerinden biri değildir (Bunlar işitsel tasarım ögeleridir).",
         "Donem": 3
     },
     {
@@ -1277,6 +1340,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Reklam ve medya sektöründe <b>hareketli görüntüleri (video)</b> kesmek, birleştirmek, kurgulamak ve görsel efektler eklemek için özel yazılımlar kullanılır. <b>Adobe Premiere Pro</b> veya <b>After Effects</b> gibi profesyonel bilgisayar programları, hareketli görüntüleri işlemeye olanak sağlar.",
         "Donem": 3
     },
     {
@@ -1297,6 +1361,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Noktanın görsel anlatımdaki düzenleniş şekilleri genellikle <b>büyüklük</b>, <b>tekrar (ritim)</b> ve <b>yoğunluk (sıklık)</b> gibi özelliklerle ilgilidir. Bu özellikler görsel kompozisyonda alan, ton ve denge yaratır. <b>Derinlik</b> veya Perspektif, genellikle mekanın algılanmasıyla ilişkilidir, noktanın doğrudan düzenleniş şekli değildir.",
         "Donem": 3
     },
     {
@@ -1317,6 +1382,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Görünür ışık spektrumunda, renkler dalga boylarına göre sıralanır. <b>Kırmızı</b>, spektrumdaki 620-750 nanometre aralığı ile <b>dalga boyu en yüksek</b> olan renktir. Bu yüksek dalga boyu, kırmızının diğer renklere göre daha az saçılmasına ve dolayısıyla uzun mesafelerden dahi kolayca fark edilmesine neden olur.",
         "Donem": 3
     },
     {
@@ -1337,6 +1403,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Görünür ışık spektrumunda <b>dalga boyu en yüksek</b> olan renk <b>Kırmızı</b>'dır (620–750 nm). Spektrumun diğer ucunda, dalga boyu en kısa olan renk ise Mor'dur. Kırmızının bu özelliği, onun sinyalizasyon ve dikkat çekme amaçlı kullanımında önemlidir.",
         "Donem": 3
     },
     {
@@ -1357,6 +1424,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Tipografik karakterler, yapısal ve tarihsel özelliklerine göre sınıflandırılır. Başlıca sınıflandırmalar arasında <b>Serif</b> (tırnaklı), <b>Sans Serif</b> (tırnaksız), El Yazısı (Script) ve Gotik gibi stiller bulunur. <b>Dikdörtgen</b>, bir font ailesini veya karakter stilini tanımlayan tipografik sınıflandırmalardan biri değildir, geometrik bir şekil adıdır.",
         "Donem": 3
     },
     {
@@ -1377,6 +1445,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Renkler psikolojik etkilerine göre iki ana kategoriye ayrılır: Sıcak renkler (Kırmızı, Turuncu, Sarı) ve Soğuk renkler. <b>Mavi</b>, doğada su ve gökyüzü ile ilişkilendirilen ve <b>sakinlik, huzur ve mesafelilik</b> hissi uyandıran temel <b>soğuk renklerdendir</b>. Yeşil ve Mor'un bazı tonları da bu gruba girer.",
         "Donem": 3
     },
     {
@@ -1397,6 +1466,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Çizgilerin yönü, tasarımlarda farklı duygusal tepkiler yaratır. <b>Yatay çizgiler</b>, yer çekimine paralel oldukları ve ufuk çizgisini çağrıştırdıkları için izleyici üzerinde <b>durağanlık, huzur, sükûnet</b> ve istikrar hissi yaratır.",
         "Donem": 3
     },
     {
@@ -1417,6 +1487,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Çizginin tasarımdaki temel işlevleri arasında <b>yönlendirme</b>, <b>şekilleri tanımlama</b>, <b>alanları ayırma</b> ve <b>hareket yaratma</b> bulunur. Bir görsel öge olan çizginin, duyusal olarak <b>koku algısı oluşturma</b> veya <b>koku üretme</b> gibi bir işlevi yoktur.",
         "Donem": 3
     },
     {
@@ -1437,6 +1508,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Rengin yoğunluğu, o rengin saflık derecesini (gri veya beyaz karışımından ne kadar uzak olduğunu) ifade eder. <b>Yoğunluğu fazla olan renkler</b>, tam pigment değerinde olan ve canlı görünen <b>doygun (saturated)</b> renklerdir. Yoğunluğu az olan renkler ise daha soluktur.",
         "Donem": 3
     },
     {
@@ -1457,6 +1529,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Ana renkler (Primary Colors), karıştırılarak diğer renklerin elde edilebildiği, ancak kendileri başka renklerin karışımından elde edilemeyen temel renklerdir. Geleneksel görsel sanatlarda ve pigment teorisinde üç ana renk sırasıyla <b>Kırmızı, Sarı ve Mavi</b>'dir (RYB).",
         "Donem": 3
     },
     {
@@ -1477,6 +1550,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Dokular, doğal (gerçek, elle hissedilebilen) veya yapay olabilir. Doğada kendiliğinden bulunan dokulara doğal doku denir. <b>İnsan eliyle oluşturulmuş</b> veya bir yüzeyde görsel yanılsama yaratılarak elde edilen dokulara <b>Yapay Doku</b> veya <b>Görsel Doku</b> adı verilir.",
         "Donem": 3
     },
     {
@@ -1497,6 +1571,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Tipografik ögelerin etkili kullanımında <b>okunabilirlik</b>, <b>kontrast</b>, <b>font hiyerarşisi</b>, <b>hizalama</b> ve <b>satır/kelime aralığı</b> gibi unsurlara dikkat edilmelidir. Bu unsurlar metnin mesajı doğru iletmesini sağlar. Tipografinin görsel bir öge olması nedeniyle, <b>ses seviyesi</b> gibi işitsel bir özellik dikkat edilmesi gereken ögelerden biri değildir.",
         "Donem": 3
     },
     {
@@ -1517,6 +1592,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "İzleyicinin görsel tasarımı algılamasına etki eden etmenler genellikle kişisel ve çevresel faktörlerdir; bunlar arasında <b>kültürel arka plan</b>, <b>kişisel deneyimler</b>, <b>psikolojik durum</b> ve <b>fiziksel ortamdaki ışık/mesafe</b> bulunur. <b>Maddenin kütle çekimi</b> gibi evrensel fizik yasaları, bir görselin algılanış şeklini doğrudan değiştiren bir etmen olarak kabul edilmez.",
         "Donem": 3
     },
     {
@@ -1537,6 +1613,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Bir yüzey üzerinde, belirli bir düzen içinde sürekli olarak tekrar eden biçimsel ögelere <b>Desen</b> (Pattern) adı verilir. Desen, görsel bir yüzeye ritim, doku ve derinlik algısı katmak için kullanılan temel bir tasarım ögesidir. Bu düzen, ögelerin eşit aralıklarla veya belirli bir kurala göre yerleştirilmesiyle elde edilir.",
         "Donem": 3
     },
     {
@@ -1557,6 +1634,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>İnteraktif reklam ortamları</b>, tüketicinin reklam içeriğiyle doğrudan etkileşim kurmasına olanak tanıyan platformlardır. Geleneksel reklamların aksine, interaktif ortamlar (örneğin <b>web siteleri</b>, <b>mobil uygulamalar</b>, <b>sosyal medya reklamları</b> veya <b>e-posta kampanyaları</b>) çift yönlü iletişim sağlayarak kullanıcının geri bildirim vermesini veya eylem gerçekleştirmesini (tıklama, paylaşma vb.) teşvik eder.",
         "Donem": 3
     },
     {
@@ -1577,6 +1655,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Bu maddeler (Uzunluk, Genişlik, Derinlik), tasarımda üç boyutlu (3D) bir <b>hacmin</b> ya da <b>formun</b> uzamsal boyutlarını ifade eder. Rengin boyutları ise genellikle <b>ton (hue)</b>, <b>değer (value)</b> ve <b>yoğunluk (saturation)</b> olarak adlandırılır. Ancak Uzunluk (I), Genişlik (II) ve Derinlik (III) maddelerinin hepsi, bir nesnenin fiziksel olarak kapladığı <b>boyutu</b> tanımlar.",
         "Donem": 3
     },
     {
@@ -1597,6 +1676,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Ara renkler (Sekonder renkler)</b>, renk çemberinde yan yana bulunan iki ana rengin (primer renkler: Kırmızı, Sarı, Mavi) eşit oranda karıştırılmasıyla elde edilen renklerdir. Bu renkler <b>Yeşil</b> (Sarı + Mavi), <b>Turuncu</b> (Sarı + Kırmızı) ve <b>Mor</b> (Kırmızı + Mavi) olarak sıralanır.",
         "Donem": 3
     },
     {
@@ -1617,6 +1697,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Bir tasarımın başarılı sayılabilmesi ve ögelerinin doğru algılanabilmesi için <b>Bütünlük</b>, <b>Denge</b>, <b>Vurgu</b> ve <b>Uyum</b> gibi temel tasarım ilkelerini barındırması gerekir. Bir tasarımda bulunmaması gereken veya algılanmayı zorlaştıran bir özellik, genellikle <b>rastgelelik</b>, <b>kaos</b> veya <b>amaca aykırı karmaşıklık</b> olacaktır. Tasarımın bu temel ilkelerden yoksun olması algı sürecini olumsuz etkiler.",
         "Donem": 3
     },
     {
@@ -1637,6 +1718,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Tasarımcılar renk seçimlerinde sadece renk diskinde yer alan <b>renk uyumlarını</b> (analog, tamamlayıcı vb.) değil; aynı zamanda renklerin <b>psikolojik etkilerini</b>, kültürel anlamlarını, kullanılacak <b>hedef kitlenin sosyokültürel yapısını</b> ve <b>uygulama ortamının teknik kısıtlarını</b> dikkate almalıdır. Renklerin bağlam dışı, soyut veya tamamen teknik olmayan bir fiziksel özelliği (örneğin, bir rengin fiziksel ağırlığı gibi), renk seçiminde dikkate alınan temel bir kriter <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -1657,6 +1739,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "İzleyici üzerinde <b>hareket algısı</b> (devinim) uyandırmak, tasarımın dinamik olmasını sağlar. Bu etki, genellikle ögelerin ardışık olarak tekrarlanmasıyla (<b>Ritim</b>), boyutlarının veya renklerinin kademeli olarak değiştirilmesiyle (<b>Gradasyon</b>) veya özellikle <b>diyagonal (çapraz) çizgiler</b> ve eğriler kullanılarak sağlanır. Yatay ve dikey çizgiler durağanlık hissi verirken, diyagonal çizgiler enerjiyi ve hareketi temsil eder.",
         "Donem": 3
     },
     {
@@ -1677,6 +1760,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu tanım <b>Açık Kompozisyona</b> aittir. Açık kompozisyonda, sahne unsurları (kişi veya nesne) kadrajın dışına doğru uzanır veya çerçeveden hafif taşar. Bu yapı, seyirciye görüntünün çerçeve dışında da devam ettiği hissini vererek <b>arka planı ortadan kaldıran</b> dinamik bir etki yaratır.",
         "Donem": 3
     },
     {
@@ -1697,6 +1781,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Karakterin hareketini sürdürürken aynı zamanda ortamın panoraması hakkında bilgi veren kamera hareketi genellikle <b>Takip Çekimi (Dolly/Tracking)</b> veya kameranın hareket eden nesneyi takip etmek üzere sabit durduğu yerden yaptığı <b>Pan (Yatay Kaydırma)</b> hareketidir. Eğer karakter fiziksel olarak hareket ettiriliyorsa bu bir takip (dolly) çekimidir, böylece hem karakter hem de arka plan akıcı bir şekilde gösterilir.",
         "Donem": 3
     },
     {
@@ -1717,6 +1802,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Görüntüde yer alan nesnelerin ve kişilerin estetik amaçlarla belli kurallar (denge, ritim, altın oran vb.) doğrultusunda düzenlenmesine <b>Kompozisyon</b> adı verilir. Kompozisyon, yönetmenin anlatmak istediği hikâyeyi görsel olarak destekleyen temel unsurdur.",
         "Donem": 3
     },
     {
@@ -1737,6 +1823,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Kameranın yatay eksende eğik tutularak görüntünün dengesinin bozulmasıyla elde edilen açıya <b>Eğik Çekim Açısı (Dutch Angle)</b> denir. Bu teknik, karakterin <b>psikolojik dengesinin yitirilmesini</b>, huzursuzluk, gerilim veya <b>sarhoşluk</b> gibi durumları vurgulamak amacıyla kullanılır.",
         "Donem": 3
     },
     {
@@ -1757,6 +1844,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Kompozisyon dengesinde görsel ağırlık çok önemlidir. Görsel ağırlıkla ilgili doğru kurallar şunları içerir: Büyük nesneler, parlak nesneler ve hareket eden nesneler daha ağırdır. Ayrıca, çerçevedeki <b>boşluk (negatif alan)</b> da bir ağırlık unsuru oluşturabilir. Yanlış olan ifade, genellikle bu görsel ağırlık kurallarının tersini iddia eden veya dengenin sadece simetrik yerleşimle sağlandığını belirten ifadelerdir. Örneğin, 'küçük ve parlak bir nesne, çerçeve kenarında büyük ve donuk bir nesneden daha az ağırlığa sahiptir' ifadesi <b>yanlıştır</b>, çünkü parlaklık ve kontrast görsel ağırlığı artırır.",
         "Donem": 3
     },
     {
@@ -1777,6 +1865,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Kameranın tripod üzerinde sabit kalarak <b>dikey eksende (yukarıdan aşağıya veya aşağıdan yukarıya)</b> yaptığı harekete <b>Tilt (Dikey Kaydırma)</b> denir. Bu hareket, konunun yüksekliğini vurgulamak veya kadrajdaki tüm alanı taramak için kullanılır.",
         "Donem": 3
     },
     {
@@ -1797,6 +1886,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Üç nokta aydınlatma sisteminde kullanılan <b>Arka Işık (Back Light / Kontür Işığı)</b>, nesnenin arka kısmına yerleştirilir. Temel amacı, <b>derinlik etkisini güçlendirerek</b> nesnenin fonla karışmasını engellemek ve kenarlarında ışıltılı bir hat (kontür) oluşturarak <b>nesne ile fonu birbirinden ayırmaktır</b>.",
         "Donem": 3
     },
     {
@@ -1817,6 +1907,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Kompozisyonda genellikle <b>Altın Oran</b> prensibinden türetilen ve pratik kullanımı olan <b>Üçte Üç Kuralı (Rule of Thirds)</b> kullanılır. Bu kuralda ekran, yatayda ve dikeyde ikişer çizgi ile bölünerek toplamda <b>9 eşit parçaya</b> ayrılır. Önemli unsurlar bu çizgilerin kesişim noktalarına yerleştirilir.",
         "Donem": 3
     },
     {
@@ -1837,6 +1928,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>Uzak Çekim (Long Shot/LS)</b>, karakteri ve etrafındaki çevrenin büyük bir kısmını gösteren ölçeklerdir. Bu çekimler, genellikle <b>ortamı, bağlamı (setting) kurmak</b> ve karakterin çevreyle olan <b>ilişkisini</b> vurgulamak amacıyla tercih edilir.",
         "Donem": 3
     },
     {
@@ -1857,6 +1949,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Nesnel Kamera Açısı (Objective Camera Angle)</b>, izleyiciyi sahnedeki olayların dışında, <b>tarafsız ve edilgen bir gözlemci</b> konumuna yerleştirir. İzleyici, olayı sanki dışarıdan kayda alan bir kameradan görüyormuş gibi hisseder.",
         "Donem": 3
     },
     {
@@ -1877,6 +1970,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Denge kaybı veya sarhoşluk hissini anlatmada kullanılan açı, <b>Eğik Çekim Açısı (Dutch Angle)</b>'dır. Kamera ekseninin eğilmesiyle oluşan görsel dengesizlik, karakterin yaşadığı <b>psikolojik karmaşayı</b> veya fiziksel durumu izleyiciye aktarır.",
         "Donem": 3
     },
     {
@@ -1897,6 +1991,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bir sahnedeki temel ve baskın ışık kaynağı <b>Ana Işık (Key Light)</b>'tır. Ana Işık, konunun <b>görünmesini sağlar</b>, ana şeklini ve <b>dokusal</b> özelliklerini yansıtan en parlak ışıktır.",
         "Donem": 3
     },
     {
@@ -1917,6 +2012,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Mavi ve yeşil tonlarını içeren renklere <b>Soğuk Renkler</b> denir. Bu renkler sinemada ve görsel sanatlarda genellikle <b>hüzün, yalnızlık, soğukluk</b>, depresyon veya huzur gibi duygusal durumları yansıtmak için kullanılır.",
         "Donem": 3
     },
     {
@@ -1937,6 +2033,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "<b>Amerikan Planı (Medium Long Shot/MLS)</b>, karakteri dizlerinden veya kalçasından yukarısını gösteren bir çekim ölçeğidir. <b>3/4 çekim ölçeği</b> olarak da adlandırılır ve adını, Western filmlerinde kovboyların silahlarını (belden aşağısını) göstermek için sıkça kullanılmasından alır.",
         "Donem": 3
     },
     {
@@ -1957,6 +2054,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Yakın çekim/planlar, nesnenin veya kişinin sadece küçük bir alanına odaklanır, böylece detaylar ve duygular vurgulanır. <b>Yüz Planı (Close-Up - CU)</b> veya <b>Detay Planı (Extreme Close-Up - ECU)</b>, tipik yakın çekim örnekleridir, çünkü sadece kişinin yüzünü veya belirli bir nesnenin minik bir bölümünü gösterir.",
         "Donem": 3
     },
     {
@@ -1977,6 +2075,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Kameranın nesneye yukarıdan bakarak çekim yapması <b>Yüksek Çekim Açısı (High Angle)</b> olarak adlandırılır. Bu açının dramatik etkisi, karakteri <b>çaresiz, zavallı, aşağılanmış</b> veya güçsüz göstererek baskı altında olma hissini seyirciye aktarmaktır.",
         "Donem": 3
     },
     {
@@ -1997,6 +2096,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Çekim ölçekleri (planlar), kadrajın nesneyi ne kadar içerdiğini tanımlar (Örn: Tam Plan, Yakın Plan). Kamera hareketleri, açılar veya aydınlatma terimleri bu ölçeklerden biri değildir. Örneğin <b>Pan (Yatay Kaydırma)</b>, bir hareket olduğu için bir çekim ölçeği <b>değildir</b>.",
         "Donem": 3
     },
     {
@@ -2017,6 +2117,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Kompozisyonda kullanılan <b>Dikey Çizgiler</b> (örneğin ağaçlar, binalar), genellikle güçlü, resmi ve <b>durağanlık</b> etkisi uyandırır. Buna karşın <b>Yatay Çizgiler</b> (örneğin ufuk çizgisi), rahatlık, genişlik, <b>sükûnet ve huzur</b> hissi uyandırır.",
         "Donem": 3
     },
     {
@@ -2037,6 +2138,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Karakterin <b>ayaklarından baş boşluğuna kadar</b> olan kısmını çerçeveye dahil eden ve insanın <b>çevreyle olan ilişkisini</b> vurgulayan çekim ölçeği <b>Tam Plan (Full Shot)</b> olarak adlandırılır.",
         "Donem": 3
     },
     {
@@ -2057,6 +2159,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "İzleyicinin olayları doğrudan karakterin gözünden gördüğü ve böylece perde hareketine kişisel bir deneyim olarak katıldığı kamera açısına <b>Öznel Kamera Açısı (Subjective Angle)</b> veya <b>Bakış Açısı Çekimi (POV Shot)</b> denir. Bu, izleyiciyi filmin <b>içerisine yerleştirir</b>.",
         "Donem": 3
     },
     {
@@ -2077,6 +2180,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Görüntüde anlam yaratmada kullanılan temel kompozisyon öğeleri arasında <b>Nokta</b>, <b>Çizgi</b>, <b>Biçim (Form)</b>, <b>Doku</b>, <b>Renk</b> ve <b>Mekan</b> gibi unsurlar bulunur. Bunlar, izleyiciye mesaj iletmek ve görsel ilgi oluşturmak için düzenlenirler. Bu temel görsel dil öğeleri dışında kalan bir unsur (örneğin, teknik bir özellik veya bir ışık türü) kompozisyonun yapı taşı olarak kabul edilmez. Bu nedenle, şıklarda yer alan ve bu temel unsurlardan biri olmayan seçenek doğru cevap olacaktır.",
         "Donem": 3
     },
     {
@@ -2097,6 +2201,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Kompozisyonda denge, görsel unsurların çerçeve içindeki ağırlıklarının dağılımıyla ilgilidir. İki ana denge türü vardır: <b>Simetrik (Statik) Denge</b>, resmiyet ve dinginlik sağlarken; <b>Asimetrik (Dinamik) Denge</b> ise daha doğal ve enerjik bir etki yaratır. Asimetrik dengede, daha küçük ama parlak veya yüksek konumdaki bir nesne, daha büyük ancak sönük bir nesneyi dengeleyebilir. Yanlış olan ifade, dengenin bu kurallarıyla çelişen (örneğin, asimetrik dengenin statik olduğunu iddia eden) ifadedir.",
         "Donem": 3
     },
     {
@@ -2117,6 +2222,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Kamera destek sistemleri, kamerayı sabit tutmak, taşımak veya akıcı hareketler sağlamak amacıyla kullanılan fiziksel ekipmanlardır. Bu sistemlere örnek olarak <b>Tripod</b> (üç ayaklı sehpa), <b>Monopod</b>, <b>Dolly</b> (tekerlekli taşıyıcı), <b>Crane</b> (vinç) ve <b>Steadicam</b> (görüntü sabitleme sistemi) verilebilir. Şıklarda yer alan ve kamera hareketi ya da stabilizasyonu için kullanılmayan bir öge (örneğin, bir filtre türü, objektif veya mikrofon) doğru cevap olacaktır, çünkü bu bir destek sistemi değildir.",
         "Donem": 3
     },
     {
@@ -2137,6 +2243,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Reklam filmleri veya diğer görsel projeler için çekim öncesinde hazırlanan ve filmin her karesini, sahneler arasındaki geçişleri ve kamera hareketlerini görselleştiren resimli taslak çalışmasına <b>Storyboard</b> denir. Storyboard, yönetmen, reklamcı ve teknik ekip arasında iletişimi kolaylaştırır ve çekim maliyetlerini düşürmeye yardımcı olur. <br/>Cümlede boş bırakılan yere <b>Storyboard</b> kelimesi gelmelidir.",
         "Donem": 3
     },
     {
@@ -2157,6 +2264,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu çekim ölçeği, İngilizcede <b>American Shot</b> olarak bilinir ve genellikle konuyu dizlerinden yukarıya doğru kadraja alır. Diz çekimi veya 3/4 çekim ölçeği olarak da adlandırılır. Özellikle Western filmlerinde, kovboyun silahını ve kılıfını göstermek amacıyla popülerleşmiştir. Bu çekim ölçeği <b>Amerikan Planı</b>dır.",
         "Donem": 3
     },
     {
@@ -2177,6 +2285,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Temel aydınlatmada kullanılan ve <b>Üç Noktalı Aydınlatma Sistemi</b> olarak bilinen sistemin ana ışık kaynakları şunlardır: <b>Ana Işık (Key Light)</b>, <b>Dolgu Işığı (Fill Light)</b> ve <b>Arka Işık (Back Light)</b>. Bu üç ışık, nesneyi derinlikli ve boyutlu göstermek için kullanılır. Bu temel sistemin dışında kalan bir ışık kaynağı (örneğin, Göz Işığı ya da Fon Işığı), temel aydınlatma unsuru sayılmaz ve bu sorunun cevabı olmalıdır.",
         "Donem": 3
     },
     {
@@ -2197,6 +2306,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Görüntüde yer alması istenen kişi ya da nesnelerin, izleyicinin dikkatini yönlendirmek ve mesajı iletmek amacıyla belli kurallar (üçler kuralı, altın oran vb.) doğrultusunda çerçeve içine yerleştirilmesine ve düzenlenmesine <b>Kompozisyon</b> denir. Kompozisyon, görüntünün anlam bütünlüğünü ve estetiğini sağlar. <br/>Cümlede boş bırakılan yere <b>Kompozisyon</b> kelimesi getirilmelidir.",
         "Donem": 3
     },
     {
@@ -2217,6 +2327,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Çekim türleri (plan ölçekleri), konunun kadraj içinde ne kadar yer kapladığını ve izleyiciye hangi mesafeden sunulduğunu belirtir. Örneğin, <b>Total Plan</b>, ortamı ve konuyu bütünüyle gösterir; <b>Yakın Plan</b>, konunun baş ve omuzlarını gösterir. Şıklarda yer alan ve bir çekim türünün ölçeği veya tanımı hakkında yanlış bilgi veren ifade doğru cevaptır. (Örneğin, Total Plan'ın sadece konunun yüzünü gösterdiği iddiası yanlıştır).",
         "Donem": 3
     },
     {
@@ -2237,6 +2348,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "<b>Nesnel Kamera Açısı (Objective Angle)</b>, kameranın olayları dışarıdan, tarafsız bir gözlemci gibi kaydettiği açıdır. Bu genellikle <b>Göz Hizasında Çekim</b> (Eye Level) ile sağlanır ve izleyiciye nötr bir perspektif sunar. Bu açının aksine, öznel (subjective) açılar (Alçak Açı, Yüksek Açı gibi) duygu, güç veya zayıflık gibi dramatik etkiler yaratır. Nesnel açının özelliklerinden biri olmayan ifade, genellikle öznel bir açının yarattığı dramatik bir etkiyi (örneğin, saygınlık kazandırma) tanımlayan ifadedir.",
         "Donem": 3
     },
     {
@@ -2257,6 +2369,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Verilen özellikler, kameranın nesneye göre aşağıda konumlandırıldığı ve yukarı doğru baktığı çekim açısını tanımlar. Bu açı, kadrajdaki kişiye veya nesneye <b>saygınlık</b>, <b>yücelik</b> ve <b>güç</b> kazandırarak daha <b>heybetli</b> bir görüntü sağlar. Bu çekim açısı <b>Alçak Açılı Çekim (Low Angle Shot)</b> olarak adlandırılır.",
         "Donem": 3
     },
     {
@@ -2277,6 +2390,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Kameranın yatay ekseninin kasıtlı olarak eğilerek çekim yapıldığı bu açı, görsel olarak bir dengesizlik hissi yaratır. Bu teknik, karakterin <b>psikolojik dengesini yitirmesini</b>, <b>sarhoşluğunu</b> veya yüksek düzeyde gerginlik/kaos durumunu yansıtmak amacıyla kullanılır. Bu açıya <b>Hollanda Açısı (Dutch Angle)</b> veya <b>Eğik Çekim (Canted Angle)</b> denir.",
         "Donem": 3
     },
     {
@@ -2297,6 +2411,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Temel aydınlatma sisteminde (Üç Noktalı Aydınlatma), <b>Ana Işık (Key Light)</b> nesneyi en güçlü şekilde aydınlatır ve sert gölgeler oluşturur. Bu sert gölgeleri yumuşatmak, detayları ortaya çıkarmak ve kontrastı azaltmak için kullanılan ışık kaynağı <b>Dolgu Işığı (Fill Light)</b>'dır. Dolgu ışığı, Ana Işığın tersi yönde, daha düşük şiddetle kullanılır.",
         "Donem": 3
     },
     {
@@ -2317,6 +2432,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Ürünün en küçük ve en önemli detayını ön plana çıkaran, izleyici için ürünü <b>dikkat çekici</b> hale getiren çekim ölçeği <b>Büyük Yakın Plan (Extreme Close Up - ECU)</b> ya da <b>Detay Çekimi</b>dir. Bu çekimde, pırlantanın kendisi gibi küçük bir detay tüm kadrajı kaplar, bu da ürüne odaklanmayı en üst düzeye çıkarır.",
         "Donem": 3
     },
     {
@@ -2337,6 +2453,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Sözsüz iletişimin temel işlevleri şunlardır: Sözlü mesajı <b>vurgulama</b>, <b>tekrarlama</b>, sözlü mesaj yerine <b>ikame etme</b> (yedekleme), sözlü mesajla <b>çelişme</b> ve iletişimi <b>düzenleme</b>. Bu listede yer almayan bir seçenek (örneğin, 'sözlü mesajı engelleme' gibi) doğru cevap olacaktır. Sözsüz iletişim, sözlü mesajı çeşitli şekillerde destekler veya onun yerini alır, ancak işlevlerinden biri 'cümle yapısını belirlemek' gibi dilbilimsel bir tanım değildir.",
         "Donem": 3
     },
     {
@@ -2357,6 +2474,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Sözlü mesajın yerine tamamen kullanılabilen jestlere <b>İkame Ediciler (Emblems)</b> denir. Bu jestlerin belirli kültürel anlamları vardır ve genellikle sözlü bir ifadeye gerek kalmadan anlamı iletirler (örn: el sallama, baş parmak kaldırma).<br/>Bu nedenle boş bırakılan yere <b>İkame Ediciler</b> getirilmelidir.",
         "Donem": 3
     },
     {
@@ -2377,6 +2495,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Renklerin nesnel düzeydeki çağrışımları incelendiğinde, <b>Kahverengi</b> (Brown) genellikle doğa, ağaç, ahşap, sağlamlık ve özellikle <b>toprak ve yeryüzünü</b> çağrıştıran temel renktir.",
         "Donem": 3
     },
     {
@@ -2397,6 +2516,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklamlarda kullanılan renklerin duygusal çağrışımları önemlidir. <b>Beyaz</b>, kültürel olarak <b>saflık, temizlik, hijyen</b> ve <b>masumiyet</b> mesajlarını iletme gücüne sahiptir. Bu nedenle sağlık, hijyen ve bebek ürünleri reklamlarında sıklıkla kullanılır.",
         "Donem": 3
     },
     {
@@ -2417,6 +2537,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Duygusal anlamda <b>ihtişam ve gösteriş</b> mesajlarını ileten renkler genellikle zenginlik ve asaletle ilişkilidir. Bu çağrışımları en güçlü ileten renklerden biri <b>Mor</b> veya <b>Altın</b> rengidir. Özellikle mor, tarihsel olarak krallık ve asaletle ilişkilendirildiği için lüks ve gösterişli ürünlerin reklamlarında tercih edilir.",
         "Donem": 3
     },
     {
@@ -2437,6 +2558,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "<b>Sözsüz İletişim</b>, konuşma dili dışında kalan tüm <b>beden hareketleri (jestler)</b>, <b>yüz ifadeleri (mimikler)</b>, <b>ses tonu</b> (paralinguistik ögeler), <b>mekân kullanımı (proksemik)</b> ve <b>görünüm</b> gibi unsurlar aracılığıyla gerçekleşen ve anlam ileten süreçtir.",
         "Donem": 3
     },
     {
@@ -2457,6 +2579,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Renklerin duygusal anlamları arasında, <b>Sarı</b> ve <b>Turuncu</b> gibi sıcak renkler genellikle <b>canlılık, neşe, enerji</b> ve iyimserlik mesajlarını iletmektedir. Sarı, özellikle dikkat çekme ve mutluluk çağrışımı için reklamlarda sıklıkla kullanılır.",
         "Donem": 3
     },
     {
@@ -2477,6 +2600,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Bir kişinin karşısındaki kişiye selam vermek için sadece başını eğmesi, sözel bir ifade olan 'Merhaba'nın yerine geçen bir harekettir. Bu durum, sözsüz iletişimin <b>İkame Etme (Yedekleme)</b> işlevine örnektir. <b>İkame Ediciler (Emblems)</b>, sözel mesaja gerek kalmadan anlam ileten jestlerdir.",
         "Donem": 3
     },
     {
@@ -2497,6 +2621,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Sözsüz mesajları yorumlarken, jestlerin <b>kültürel bağlamını</b> bilmek, tek bir işarete dayanarak <b>genelleme yapmamak</b> ve mesajların <b>çok kanallı</b> olduğunu dikkate almak gerekir. Sözsüz iletişim mesajlarını yorumlarken dikkat edilmesi gerekmeyen veya yanlış olan husus, genellikle sözlü mesaja tamamen odaklanmak veya kültürel farklılıkları göz ardı etmektir.",
         "Donem": 3
     },
     {
@@ -2517,6 +2642,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "\"Güle güle\" derken el sallamak, kişinin sözel olarak ifade ettiği mesajı <b>Tekrarlama</b> işlevini yerine getirir. Sözsüz mesaj, sözel mesajı destekler ve anlamı pekiştirir. Bu jest, aynı zamanda sözel mesajın yerine tek başına kullanılabiliyorsa <b>İkame Etme</b> işlevi de görebilir, ancak sözel mesajla eş zamanlı yapıldığı için <b>Tekrarlama</b> en doğru işlev tanımıdır.",
         "Donem": 3
     },
     {
@@ -2537,6 +2663,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Bu paragrafta ifade edilen, kişinin o anki duygu veya düşünce halini (düşünceli olma) yansıtan jestler, genellikle <b>İllüstratörler (Vurgulayıcılar)</b> veya <b>Duygusal İfadeler (Affect Displays)</b> kategorisine girer. Eğer bu hareket düşünceli dinlediğini göstererek iletişimi destekliyorsa, <b>İllüstratör</b> olarak adlandırılır, zira sözel içeriğe eşlik ederek onu açıklar veya vurgular.",
         "Donem": 3
     },
     {
@@ -2557,6 +2684,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Yüksek bağlamlı kültürlerde (Çin, Japonya) iletişimde <b>sözsüz ipuçlarına</b> ve <b>dolaylı</b> (implied) mesajlara önem verilirken, düşük bağlamlı kültürlerde (Almanya, ABD) ise <b>açık</b> ve <b>sözlü (verbal)</b> mesajlara, yani metnin kendisine önem verilmektedir. <br/>Dolayısıyla sırasıyla <b>sözsüz (veya dolaylı)</b> ve <b>sözlü (veya açık)</b> ifadeleri getirilmelidir.",
         "Donem": 3
     },
     {
@@ -2577,6 +2705,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Reklamlarda saç, yüz, göz, giyim tarzı vb. <b>görünüm unsurları</b> aracılığıyla aktarılan sözsüz mesajlar, hedef kitlede ürünün ya da markanın arzu edilen <b>imajını</b>, <b>çekiciliğini</b> ve <b>güvenilirliğini</b> yaratmayı amaçlar. Görünüm, tüketicilerin markayı algılayış biçimini doğrudan etkiler.",
         "Donem": 3
     },
     {
@@ -2597,6 +2726,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Bir kişinin giyim tarzı, renk seçimi, kilosu ve diğer dış görünüş unsurları aracılığıyla tanımadığı biri hakkında hızlıca yargıya varması, <b>İlk İzlenim</b> (First Impression) olarak adlandırılır. İlk izlenimler, iletişim sürecinin başlangıcında önemli rol oynar.",
         "Donem": 3
     },
     {
@@ -2617,6 +2747,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Hall’ın proksemik sınıflandırmasına göre, kişinin çok yakınları (sevgili, aile bireyleri) ile paylaştığı, fiziksel temasın ve fısıltıların gerçekleştiği en yakın mesafe <b>Mahrem Alan (Intimate Space)</b> olarak adlandırılır (0-45 cm).",
         "Donem": 3
     },
     {
@@ -2637,6 +2768,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Kişinin gerçek duygularını gizlemeye çalışırken dahi, özellikle yüz kaslarında anlık ve istemsiz olarak beliren kısa süreli ifade değişimlerine <b>Duygusal Sızıntı (Emotional Leakage)</b> denir. Bu sızıntılar, kişinin bilinçli kontrolü dışındaki duygusal tepkilerdir ve genellikle <b>mikro ifadeler</b> şeklinde ortaya çıkar.",
         "Donem": 3
     },
     {
@@ -2657,6 +2789,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Jestler, sözel ifadeleri güçlendirmek amacıyla ortaya çıkan <b>el, kol ve bacak</b> hareketleridir. Yüz ifadeleri ise <b>mimik</b> olarak adlandırılır ve jest sınıfına girmez. Ayrıca, kişilerarası mesafe (proksemik) de bir davranış kategorisidir ancak jest değildir. Bu nedenle, yüz ifadeleri veya kişilerarası mesafe jest olarak <b>değerlendirilemez</b>.",
         "Donem": 3
     },
     {
@@ -2677,6 +2810,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Edward T. Hall tarafından geliştirilen kişilerarası mesafe (proksemik) sınıflandırması dört ana kategori içerir: <b>Mahrem Alan</b> (Intimate), <b>Kişisel Alan</b> (Personal), <b>Sosyal Alan</b> (Social) ve <b>Kamusal Alan</b> (Public). Bu dört kategori dışında kalan herhangi bir alan (örneğin Duygusal Alan) sınıflandırma içinde <b>yer almaz</b>.",
         "Donem": 3
     },
     {
@@ -2697,6 +2831,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Yüksek bağlamlı kültürlerde (ilişki ve toplumsal uyumun ön planda olduğu), reklamların etkili olması için <b>dolaylı anlatım</b> ve <b>sözsüz ipuçları</b> büyük önem taşır. Bu tür reklamlarda, ürünün faydasından çok, ürünün toplumsal konumu veya kullanan kişiyle kurduğu ilişki vurgulanır. Bu nedenle, <b>sosyal bağlamı ve ilişkileri vurgulayan sözsüz göstergeler</b> reklamın etkili olmasını sağlar.",
         "Donem": 3
     },
     {
@@ -2717,6 +2852,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Basılı reklamdaki kitaplar, kahve, masa ve açık pencere görüntüleri, kahve markasıyla ilişkilendirildiğinde <b>huzur, rahatlama, odaklanma</b> ve <b>düşünce</b> gibi duygusal durumları çağrıştıran <b>sözsüz göstergelerdir</b>. Bu göstergeler, kahvenin sadece bir içecek değil, aynı zamanda rahatlatıcı ve entelektüel bir molanın simgesi olduğu mesajını iletmek ister.",
         "Donem": 3
     },
     {
@@ -2737,6 +2873,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Sözsüz iletişim, kişilerarası iletişimin temelini oluşturan, çoğu zaman sözel mesajlardan daha güvenilir kabul edilen bir alandır. Bu iletişim türünün üç temel özelliği şunlardır:<br/>I. <b>Süreklilik</b>: İletişim kurmaktan kaçınamayız. İnsanlar uyanık oldukları sürece sürekli olarak nonverbal işaretler yayarlar.<br/>II. <b>Birden çok anlama sahiptir</b> (Çok anlamlılık): Bir sözsüz işaret, bağlama göre birden fazla farklı şeyi ifade edebilir (örn. baş sallamak onay veya sadece dinlediğini belirtme olabilir).<br/>III. <b>Gizli anlamlar iletme</b>: Sözsüz iletişim, duygusal durumları, tutumları ve sözel olarak ifade edilmek istenmeyen niyetleri açığa çıkarma özelliğine sahiptir. <br/>Bu nedenle verilen maddelerin hepsi sözsüz iletişimin temel özelliklerindendir.",
         "Donem": 3
     },
     {
@@ -2757,6 +2894,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Sözel ifadelerin güçlendirilmesi, desteklenmesi veya tam olarak iletilmesi amacı ile ortaya çıkan el, kol ve bacak hareketleri <b>Jestler</b> (veya Kinesics/Vücut Dili) kapsamında incelenir. Bu hareketler özellikle sözel mesajı <b>vurgulamak</b>, <b>tekrarlamak</b> veya <b>düzenlemek</b> için kullanılır. Bu tür destekleyici jestler, iletişimin daha etkili ve anlaşılır olmasına yardımcı olur.",
         "Donem": 3
     },
     {
@@ -2777,6 +2915,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Kişilerarası mesafenin (Proksemik/Proxemics) türleri dörde ayrılır. Bunlar, merkezden dışarıya doğru artan çemberler halinde tanımlanır. Kişinin en mahrem duygularını ve fiziksel yakınlığını paylaştığı, sadece çok yakın ilişki kurduğu kişiler (eş, sevgili, yakın aile) ile paylaşılan 0-45 cm arasındaki alana <b>Mahrem Alan</b> (Intimate Distance) adı verilir. Bu alan, en yüksek düzeyde güven ve yakınlık gerektirir.",
         "Donem": 3
     },
     {
@@ -2797,6 +2936,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Kültürler, iletişimi yorumlama biçimlerine göre yüksek bağlamlı veya düşük bağlamlı olarak sınıflandırılır. Sözlü mesajların açıkça ifade edildiği, yazılı kuralların ve mantığın önemsendiği, sözsüz ipuçlarının ise sıklıkla görmezden gelindiği kültüre <b>Düşük Bağlamlı Kültür</b> (Low Context Culture) denir. Bu kültürlerde (örn. Almanya, İskandinav ülkeleri, ABD), iletişimin anlamı ağırlıklı olarak <b>sözel kelimelerde</b> bulunur.",
         "Donem": 3
     },
     {
@@ -2817,6 +2957,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Sözsüz iletişim, sözel mesajlarla çeşitli şekillerde etkileşimde bulunur. Temel işlevleri şunlardır:<br/>I. <b>Tekrarlamak</b> (Sözel mesajı nonverbal yolla tekrarlamak, örn. 'Evet' derken başı sallamak).<br/>III. <b>Yerine geçmek/İkame etmek</b> (Sözel mesaj olmadan sadece nonverbal yolla mesaj iletmek, örn. el sallamak).<br/>IV. <b>Vurgulamak</b> (Sözel mesajın belirli bölümlerini işaretlerle güçlendirmek).<br/>Bu üç madde sözsüz iletişimin temel işlevlerindendir. Diğer işlevler arasında düzenleme ve çelişme de bulunur. 'Kanıtlamak' (II) ise doğrudan temel işlevler arasında yer almaz.",
         "Donem": 3
     },
     {
@@ -2837,6 +2978,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Sözsüz iletişimin temel özellikleri arasında süreklilik, çok anlamlılık, duygusal durumları daha iyi yansıtması ve kültüre bağlılık yer alır. Sözsüz iletişim genellikle <b>açık ve net değildir</b>; aksine, bağlama göre farklı şekillerde yorumlanabilir. Bu nedenle, 'kesinlik taşır' veya 'tek anlamlıdır' gibi ifadeler sözsüz iletişimin özelliklerinden biri <u>olamaz</u>. Sözsüz mesajlar genellikle <b>belirsizliğe</b> sahiptir.",
         "Donem": 3
     },
     {
@@ -2857,6 +2999,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Renkler, sözsüz iletişimin çevresel unsurları içinde yer alır ve güçlü psikolojik çağrışımlara sahiptir. Örneğin, mavi güveni, kırmızı enerjiyi, siyah gücü temsil eder. Renklerin karakter veya ruh hali üzerindeki anlamları kültürden kültüre değişmekle birlikte, belirli bir rengin <b>genel kabul görmüş bir çağrışımı dışında kalan</b> bir anlamı bu özelliklerden biri <u>değildir</u>. (Örneğin, Kahverenginin 'neşe' veya Sarının 'otorite' anlamına gelmesi, yaygın kabul görmüş anlamları yansıtmaz.)",
         "Donem": 3
     },
     {
@@ -2877,6 +3020,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklamın başarısında sözsüz iletişim (görsel unsurlar, renkler, müzik, mankenin pozisyonu) çok kritiktir. Sözsüz iletişim, izleyicinin <b>duygusal tepkisini</b> uyandırır, ürünle ilgili bir <b>imaj veya atmosfer</b> yaratır ve mesajın <b>hatırlanabilirliğini</b> artırır. Sözsüz iletişimin rolü, mesajı yalnızca mantıksal veya rasyonel temellere indirgemek <u>değildir</u>. Başarılı bir reklam, sözsüz ipuçlarını kullanarak <b>ikna ediciliği ve duygusal bağlılığı</b> hedefler.",
         "Donem": 3
     },
     {
@@ -2897,6 +3041,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Renkler, reklam mesajlarında belirli anlamları hızla iletmek için kullanılır. 'Temizlik, açıklık, hijyen, boşluk ve masumiyet' gibi kavramlar genellikle <b>Beyaz</b> (White) renkle ilişkilendirilir. Beyaz, saflığı ve tıbbi/hijyenik ortamları temsil ettiğinden, özellikle ilaç, temizlik ve moda (sadeliği vurgulayan) sektörlerinde yoğunlukla kullanılır. Ayrıca, minimalizm ve boşluk hissini de çağrıştırabilir.",
         "Donem": 3
     },
     {
@@ -2917,6 +3062,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bir toplumdaki <b>norm ve değerlerin</b>, teorik düzeyde kalmayıp, günlük hayatta fiilen uygulanış biçimini ifade eden kültüre genellikle <b>Halk Kültürü</b> (Folk Culture) veya <b>Yaşayan Kültür</b> adı verilir. Bu, egemen kültürün pratik, gözlemlenebilir tezahürlerini, yani insanların yeme, giyinme, konuşma ve etkileşim biçimlerini kapsar.",
         "Donem": 3
     },
     {
@@ -2937,6 +3083,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Bir toplum içinde yaşayan, ancak egemen kültüre tamamen uymayan, kendine özgü <b>yaşantıları</b>, <b>değerleri</b>, <b>beğenileri</b> ve <b>normları</b> olan belirli bir grubu ifade eden kültüre <b>Alt Kültür</b> (Subculture) denir. Alt kültürler, genellikle yaş, din, etnik köken veya meslek gibi ortak özellikler etrafında şekillenir.",
         "Donem": 3
     },
     {
@@ -2957,6 +3104,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Kültürel farklılıkları dikkate almada yapılan yaygın bir hata, tüm pazarlarda aynı <b>reklam stratejisini</b> (Standardizasyon) kullanmaktır. Örneğin, yüksek bağlamlı (High-Context) bir kültürde (örn. Japonya), mesajın dolaylı ve ima yoluyla verilmesi beklenirken; düşük bağlamlı (Low-Context) bir kültür (örn. ABD) için tasarlanmış, doğrudan ve açık bilgi veren bir reklamın kullanılması <u>yanlış</u> bir uygulamadır. Çünkü reklamın <b>iletişim biçimi</b> hedef kitlenin beklentisiyle çatışır.",
         "Donem": 3
     },
     {
@@ -2977,6 +3125,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Ritüeller</b> (Törenler) getirilmelidir. Hofstede'in Kültür Soğan Modeli'nde ritüeller, bir toplumda <b>sosyal gereklilik</b> ifade eden ve bu nedenle korunan, kolektif olarak gerçekleştirilen <b>uygulamalar</b> ve <b>davranış kalıplarıdır</b> (örneğin, selamlama biçimleri, dini törenler).",
         "Donem": 3
     },
     {
@@ -2997,6 +3146,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Kluckhohn ve Strodtbeck'in Değerler Yönelimi Kuramı beş temel yönelim (insan doğası, insan-doğa ilişkisi, zaman, aktivite, diğer insanlarla ilişki) sunar. <b>Belirsizlikten Kaçınma</b> boyutu ise, bu kuramın değil, daha sonra geliştirilen <b>Hofstede’in kültürel boyutlarının</b> bir parçasıdır ve bu nedenle beş boyuttan biri <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -3017,6 +3167,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bir toplumun tamamında ya da bir ülkenin tüm sosyal ve coğrafi gruplarında <b>geçerli</b>, <b>benimsenen</b> ve <b>yaşanan</b> temel değerler, inançlar ve unsurları kapsayan kültür biçimine <b>Egemen Kültür</b> (Dominant Culture) denir. Bu kültür, o toplumdaki diğer alt kültürleri de şekillendiren baskın kültürdür.",
         "Donem": 3
     },
     {
@@ -3037,6 +3188,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Kültürün buzdağı modeline göre, suyun altındaki kısım kültürün <b>görünmez</b>, derin ve temel ögelerini (<b>değerler</b>, <b>inançlar</b>, temel varsayımlar) temsil eder. Suyun üstünde (görünür) yer alan ögeler ise kolayca gözlemlenebilen ve yüzeyde olanlardır. <b>Dil</b>, <b>Giyim</b> ve <b>Yemek</b> gibi unsurlar suyun üst kısmında yer alır; <b>Değerler</b>, <b>Normlar</b> ve <b>Varsayımlar</b> ise suyun altında yer alır. Dolayısıyla <b>Dil</b>, suyun alt kısmında <u>yer almaz</u>.",
         "Donem": 3
     },
     {
@@ -3057,6 +3209,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Hofstede’in kültürü katmanlı bir <b>soğana</b> benzetmesi metaforunda, en dış katman semboller ve ritüeller gibi gözlemlenebilir uygulamaları temsil ederken; en içteki katman, kültürün <b>temel çekirdeğini</b> oluşturan ve öğrenilmiş eğilimler olan <b>Değerler</b>'i ifade etmektedir. Değerler, diğer tüm kültürel katmanları yönlendirir.",
         "Donem": 3
     },
     {
@@ -3077,6 +3230,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Verilen ifade, bir toplumdaki bireylerin <b>yaşam biçimini</b>, <b>giyim kuşamını</b>, <b>aile yaşantılarını</b>, <b>gelenek ve göreneklerini</b> kapsayan geniş anlamıyla <b>Kültür</b> kavramının tanımıdır. Kültür, bir toplumu diğerlerinden ayıran, öğrenilmiş ve nesilden nesile aktarılan kolektif programlamadır.",
         "Donem": 3
     },
     {
@@ -3097,6 +3251,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Kültür ve iletişim arasındaki ilişki <b>karşılıklı</b> ve <b>ayrılmazdır</b>. Kültür, insanların nasıl iletişim kurduğunu, hangi konuların tartışılabilir olduğunu ve hangi iletişim stillerinin (yüksek/düşük bağlam) kullanılacağını belirler; aynı zamanda iletişim, kültürü gelecek nesillere <b>aktaran</b> ve böylece kültürü <b>sürdüren</b> araçtır.",
         "Donem": 3
     },
     {
@@ -3117,6 +3272,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Edward T. Hall’a göre, zamanın <b>doğrusal</b> (geçmişten geleceğe ilerleyen), <b>tükenebilir bir kaynak</b> olarak kabul edildiği ve işlerin <b>sırayla</b>, <b>planlı</b> biçimde yapıldığı kültür biçimi <b>Monokronik Kültür</b>'dür. Bu kültürler (örneğin Almanya, İsviçre, ABD), zaman çizelgelerine ve programlara büyük önem verirler.",
         "Donem": 3
     },
     {
@@ -3137,6 +3293,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Bir reklam kampanyasında, reklamın yayınlandığı ülkenin <b>kültürel özellikleri</b>, <b>değerleri</b> ve <b>normları</b> dikkate alınarak mesajın özel olarak düzenlenmesi ve ön plana çıkarılması, <b>Yerelleştirme (Adaptasyon) Stratejisi</b> olarak adlandırılır. Bu strateji, küresel mesajın yerel hedef kitlede maksimum yankı uyandırmasını amaçlar.",
         "Donem": 3
     },
     {
@@ -3157,6 +3314,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Kültür, bireylerin doğuştan getirdiği veya <b>kalıtsal</b> (genetik) olarak aktarılan bir olgu <u>değildir</u>. Kültür, <b>öğrenilmiş</b>, <b>paylaşılmış</b>, <b>sembolik</b> ve <b>nesilden nesile aktarılan</b> bir yaşam biçimidir. Biyolojik içgüdülere dayandığı yönündeki ifadeler yanlıştır.",
         "Donem": 3
     },
     {
@@ -3177,6 +3335,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Kültürün temel özelliklerinden biri <b>dinamik</b> olmasıdır; yani zamanla, sosyal değişimlerle ve diğer kültürlerle etkileşim sonucu <b>değişir</b> ve gelişir. Dolayısıyla, kültürün <b>durağan</b> (statik) ve değişmez olduğu ifadesi kültürün bir özelliği <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -3197,6 +3356,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Edward T. Hall'ın Enformasyon Sistemleri Kuramı'na göre, enformasyonun büyük çoğunluğunun <b>fiziki bağlamdan</b>, <b>ortak geçmişten</b> ve <b>dolaylı ipuçlarından</b> (sözsüz iletişim) alındığı kültür tipi <b>Yüksek Bağlamlı Kültür</b>'dür (High-Context Culture). Bu kültürlerde mesajın kendisi açıkça kodlanmaz, alıcının bağlamı anlaması beklenir.",
         "Donem": 3
     },
     {
@@ -3217,6 +3377,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Hofstede'in kültürel boyutları arasında Güç Mesafesi, Bireycilik/Toplulukçuluk, Erillik/Dişillik ve Belirsizlikten Kaçınma yer alır. <b>İnsan-Doğa İlişkisi</b> (Man-Nature Relationship) boyutu ise Kluckhohn ve Strodtbeck’in kuramına ait bir boyuttur ve Hofstede’in orijinal boyutlarından biri <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -3237,6 +3398,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Belirsizlikten Kaçınma Düzeyi Yüksek Kültürler</b> (UAI+), bilinmeyenden ve belirsiz durumlardan yoğun rahatsızlık duyarlar. Bu nedenle, bu kültürlerdeki bireyler <b>kesinlik</b>, <b>net kurallar</b>, yapılandırılmış süreçler ve uzman otoritesine güvenme ihtiyacı hissederler. Değişime karşı direnç yüksektir.",
         "Donem": 3
     },
     {
@@ -3257,6 +3419,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Kültürel farklılıkları önemseyen ve onlara değer veren işletmeler, küresel pazarlama mesajlarını yerel kültürel normlara, değerlere, mizah anlayışına ve tüketim biçimlerine <b>uyarlayan</b> (adapte eden) <b>Yerelleştirme (Adaptasyon) Stratejisi</b>'ni kullanırlar. Bu, kültürel hassasiyet gösterilmesi anlamına gelir.",
         "Donem": 3
     },
     {
@@ -3277,6 +3440,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Reklamlarda bir kültürdeki bireyler arasında <b>düşünce</b> ve <b>duyguların paylaşılmasıyla</b> ortaya çıkan <b>öykülere</b>, efsanelere ve anlatılara yer verilmesi, kültürel ögelerden <b>Mitolojiler</b> (Stories/Narratives) kullanıldığı anlamına gelir. Mitolojiler, toplumsal değerleri ve ortak inançları pekiştiren sembolik anlatımlardır.",
         "Donem": 3
     },
     {
@@ -3297,6 +3461,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Reklamlarda <b>estetik değerler</b>, <b>eğlence</b>, yüksek <b>duygusallık</b> ve yumuşak satış (soft sell) tekniklerinin ön plana çıkarılması genellikle Akdeniz (örn. <b>İtalya</b>, İspanya, Fransa) ve bazı Latin Amerika kültürlerinde yaygındır. Bu kültürler, iletişimde mantıksal argümanlar yerine <b>duygusal bağ kurmaya</b> daha çok odaklanır.",
         "Donem": 3
     },
     {
@@ -3317,6 +3482,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Bir kültürdeki bireyler arasında paylaşılan düşüncelerin ve duyguların simgeler aracılığı ile ortaya çıkardığı öykülere genellikle **Mitoloji** ya da **Mitler** adı verilir. Mitler, bir toplumun inanç sistemini, tarihini ve ahlaki değerlerini açıklayan, genellikle kutsal kabul edilen kolektif anlatılardır. Bu anlatılar, kültürün **kolektif hafızasını** ve kimliğini oluşturur.",
         "Donem": 3
     },
     {
@@ -3337,6 +3503,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Bir toplumun ya da ülkenin her sosyal grubu ve coğrafyasında geçerli olan, benimsenen ve yaşanan egemen değer ve unsurları kapsayan kültüre **Egemen Kültür** (Dominant Culture) denir. Egemen kültür, o toplumun **ana akım** değerlerini, normlarını ve yaşam biçimini temsil eder. Diğer kültürel gruplar (alt kültürler) bu egemen yapının içinde varlıklarını sürdürürler.",
         "Donem": 3
     },
     {
@@ -3357,6 +3524,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Aynı kültürdeki bireyler için belirli anlamlara sahip olan sözcükler, jestler, resimler ya da nesneler **simgeler** (symbols) olarak ifade edilir. Simgeler, kültürü oluşturan en temel unsurlardan biridir. Bir kültürdeki **simgesel anlamlar** öğrenilir ve paylaşıldığı için o kültürün üyeleri arasında ortak bir iletişim ve anlama zeminini sağlar. Örneğin, bir bayrak, bir jest ya da belirli bir renk bir kültür içinde özel bir anlam taşıyabilir.",
         "Donem": 3
     },
     {
@@ -3377,6 +3545,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bir toplumdaki cinsiyete dayalı rollerin birbiri ile kesiştiği, hem kadın hem de erkeklerin alçak gönüllü, duyarlı ve dayanışmaya önem veren özelliklere sahip olduğu kültürel yapı **Feminen Kültür** olarak adlandırılır (Hofstede boyutlarında). Feminen kültürlerde başarı, rekabetçilik ve materyalizm yerine, **yaşam kalitesi**, başkalarına yardım etme ve **duyarlılık** gibi değerler ön plandadır ve bu değerler cinsiyetten bağımsız olarak benimsenir. Bu yapı, maskülen kültürlerin (rekabet ve başarı odaklı) tam tersidir.",
         "Donem": 3
     },
     {
@@ -3397,6 +3566,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Kitle iletişim araçları tarafından oluşturulan kavramlar ve simgeler bütünü olarak ortaya çıkan bilgi, yaşam ve eğlenme biçimini ifade eden kültür sınıflandırması **Popüler Kültür**dür (Halk Kültürü veya Kitle Kültürü olarak da bilinir). Popüler kültür, genellikle büyük kitlelere hitap eden, tüketim odaklı ve **medya tarafından şekillendirilen** geçici trendleri ve ürünleri kapsar.",
         "Donem": 3
     },
     {
@@ -3417,6 +3587,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Kültürün temel özellikleri arasında bu üç madde de yer alır: <br/>I. Kültür **dinamik** bir yapıya sahiptir; ihtiyaçlar, teknoloji ve çevresel etkenler doğrultusunda zamanla **değişebilir**.<br/>II. Kültürün çekirdeği (değerler ve varsayımlar) **soyuttur**, ancak bu soyut unsurlar, gözlemlenebilir **kurumlar**, uygulamalar ve davranışlar aracılığıyla görünür hâle gelir.<br/>III. Kültür, öğrenilmiş bir yapı olduğu için **aktarılarak** (gelenek, görenekler yoluyla) nesilden nesile sürdürülür.<br/>Bu nedenle yukarıdaki ifadelerin **hepsi** kültürün özellikleridir.",
         "Donem": 3
     },
     {
@@ -3437,6 +3608,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Bir toplumda toplumsal gereklilik ifade eden ve bu nedenle korunan kolektif uygulamalar **Normlar** (Sosyal Normlar) olarak adlandırılır. Normlar, bir toplumda belirli durumlarda nasıl davranılması gerektiğini belirleyen **yazılı veya yazılı olmayan kurallar** bütünüdür. Bu kurallar, sosyal düzeni ve işbirliğini sürdürmek için kritik öneme sahiptir ve ihlalleri genellikle yaptırımlara tabidir. Daha geniş anlamda, bu uygulamalar **Görenekler** veya **Töreler** seviyesinde de ele alınabilir.",
         "Donem": 3
     },
     {
@@ -3457,6 +3629,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu soru, Soru 325176 ile aynı kavramı istemektedir. Bir toplumun ya da ülkenin her sosyal grubu ve coğrafyasında geçerli olan, benimsenen ve yaşanan egemen değer ve unsurları kapsayan kültür **Egemen Kültür** (Dominant Culture) olarak adlandırılır. Bu kültür, o toplumun büyük çoğunluğunun paylaştığı ve **yasal, politik ve ekonomik sistemler** aracılığıyla desteklenen ana kültürel çerçeveyi oluşturur.",
         "Donem": 3
     },
     {
@@ -3477,6 +3650,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Küreselleşme, dünyanın <b>ekonomik, siyasal ve kültürel</b> açıdan bütünleşmesi ve karşılıklı bağımlılığının artması sürecidir. Bu sürecin sonuçları arasında ulusal sınırların ve devlet egemenliğinin aşınması, küresel risk toplumunun ortaya çıkması ve kültürel etkileşimin hızlanması yer alır. Küreselleşme, genellikle <b>ulusal pazarın güçlenmesi</b> ya da ulus devletin mutlak egemenliğinin pekişmesi gibi sonuçları doğurmaz; aksine bu yapıları zayıflatır ve tek bir dünya pazarının oluşumunu destekler. Dolayısıyla, küreselleşmenin sonucu olarak görülemeyecek durum, ulusal sınırların kesinleşmesi veya içe kapanmacılığın artmasıdır.",
         "Donem": 3
     },
     {
@@ -3497,6 +3671,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Tüketim toplumu</b>, bireylerin sadece temel ihtiyaçlarını karşılamak için değil, aynı zamanda toplumsal statülerini ve kimliklerini ifade etmek için tüketime odaklandığı modern toplumlara özgü bir kavramdır. Bu toplumda mallar ve hizmetler <b>sembolik anlamlar</b> taşır ve sürekli arzu yaratılır. Tüketim toplumunda asıl amaç, malın pratik <b>kullanım değerinden</b> çok, <b>gösterge değeri</b> üzerinden statü ve fark yaratmaktır. Bu nedenle, 'Tüketim toplumu sadece temel ihtiyaçların karşılanmasına odaklanır' gibi bir ifade kesinlikle yanlıştır.",
         "Donem": 3
     },
     {
@@ -3517,6 +3692,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Yeni Tüketim İdeolojisi</b> (veya Kültürü) getirilmelidir. Bu ideoloji, tüketimi bir zorunluluk, bir değer ve hatta bireysel varlığın bir ön koşulu olarak konumlandırır. Bu bakış açısına göre, birey kimliğini ve mutluluğunu ancak sürekli yeni ürünleri edinerek ve tüketerek gerçekleştirebilir. Bu durum, <b>sürekli arzu yaratma</b> döngüsünü tetikler.",
         "Donem": 3
     },
     {
@@ -3537,6 +3713,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Küreselleşme sürecinin ilk aşaması olan <b>Birinci Küreselleşme</b>, genellikle 15. ve 16. yüzyıllarda başlayan ve özellikle <b>Coğrafi Keşifler</b> ile <b>ulus devletlerin</b> yükselişini içeren dönem olarak kabul edilir. Bu dönemde deniz yolları keşfedilmiş, ticaret ağları kıtalararası yayılmış ve merkantilist politikalar uygulanmıştır. Bu da küresel çapta ilk büyük ölçekli entegrasyon hareketini başlatmıştır.",
         "Donem": 3
     },
     {
@@ -3557,6 +3734,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Küreselleşme, dünyayı tek bir sistem haline getiren çok yönlü bir süreçtir. Bu sürecin temel olarak üç ana boyutu vardır:<br>I. <b>Siyasal Boyut</b> (ulus devletlerin egemenliğinin azalması)<br>II. <b>Ekonomik Boyut</b> (küresel pazarın oluşması, çok uluslu şirketler)<br>III. <b>Kültürel Boyut</b> (kültürel etkileşim ve homojenleşme/melezleşme)<br>Bu nedenle, yukarıda yer alan üç madde de küreselleşmenin ana boyutları arasında yer almaktadır.",
         "Donem": 3
     },
     {
@@ -3577,6 +3755,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Tüm dünyanın <b>ekonomik, siyasal ve kültürel</b> alanlarda bütünleşerek ortak ve tek bir kültür oluşturma eğilimi, doğrudan <b>Küreselleşme</b> (Globalization) kavramı ile açıklanır. Küreselleşme, bu boyutlardaki engellerin kalkması ve karşılıklı bağımlılığın artması anlamına gelir.",
         "Donem": 3
     },
     {
@@ -3597,6 +3776,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Küreselleşmenin aşamalarından olan <b>İkinci Küreselleşme</b> (genellikle II. Dünya Savaşı sonrası dönem), kitle iletişim araçlarının, kitle üretiminin (Fordizm) ve kitle kültürünün hızla yayılmasıyla karakterize edilir. Bu dönemde özellikle Amerikan kültürünün ve yaşam tarzının küresel çapta yayılması ön plana çıkar ve sıklıkla <b>'Küresel Köy'</b> kavramı ile ifade edilir.",
         "Donem": 3
     },
     {
@@ -3617,6 +3797,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "<b>Reklam</b>, pazarlama iletişimi araçlarından biridir ve temel amacı, tüketicileri bir ürüne veya hizmete karşı bilgilendirmek, ikna etmek, markayı hatırlatmak ve dolayısıyla <b>tüketimi ve talebi artırmaktır</b>. Reklamın amaçları arasında, doğrudan <b>üretim maliyetlerini düşürmek</b> veya bir ürünün kalitesini artırmak gibi üretimle ilgili teknik hedefler bulunmaz; bunlar genellikle yönetim ve mühendislik hedefleridir.",
         "Donem": 3
     },
     {
@@ -3637,6 +3818,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>Tüketim toplumu</b> kavramı, Sanayi Devrimi sonrası ortaya çıkan ve özellikle üretim merkezli Endüstriyel toplumdan hizmet ve tüketim merkezli <b>Post-Endüstriyel Toplumlar</b> (veya modern kapitalist toplumlar) için özgü bir kavramlaştırmadır. Bu toplumlarda, kitle üretimi, kitle iletişim araçları ve reklamcılık sayesinde tüketim, toplumsal yaşamın ve kimliğin merkezine yerleşmiştir.",
         "Donem": 3
     },
     {
@@ -3657,6 +3839,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Yeni iletişim teknolojileri, internetin yaygınlaşması ve <b>çok uluslu şirketlerin</b> (ÇUŞ) kültürel/ideolojik etkisiyle şekillenen küreselleşme aşaması, 1980'lerin sonlarından itibaren ivme kazanan <b>Üçüncü Küreselleşme</b> (veya Dijital Küreselleşme) olarak adlandırılır. Bu aşamada bilgi akışı anlık hale gelmiş ve küresel ağlar ön plana çıkmıştır.",
         "Donem": 3
     },
     {
@@ -3677,6 +3860,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Günümüzdeki anlamıyla küreselleşmenin hız kazanmasında etkili olan iki ana temel kaynak bulunmaktadır. Bunlar, birincisi bilgi ve iletişimi hızlandıran <b>yeni iletişim teknolojileri</b> (internet, uydu vb.) ve ikincisi de dünya çapında ticaret ve sermaye hareketlerini serbestleştiren <b>neoliberal politikalar</b> ve <b>serbest piyasa ekonomisi</b> anlayışının yaygınlaşmasıdır.",
         "Donem": 3
     },
     {
@@ -3697,6 +3881,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Küreselleşme sürecinin üç aşaması ve başlıca sonuçları şunlardır:<br>1. <b>Birinci Küreselleşme:</b> (15. yy – Sanayi Devrimi öncesi) Coğrafi keşifler ve <b>ulus devletlerin oluşumu</b>.<br>2. <b>İkinci Küreselleşme:</b> (II. Dünya Savaşı sonrası) Kitle üretimi, <b>kitle tüketimi ve kitle kültürünün yaygınlaşması</b>.<br>3. <b>Üçüncü Küreselleşme:</b> (1980’ler sonrası) Dijitalleşme ve <b>çok uluslu şirketlerin egemenliği</b>.",
         "Donem": 3
     },
     {
@@ -3717,6 +3902,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Firmaların üretim faaliyetlerini ulusal sınırların dışına, diğer ülkelere ve kıtalara taşıması, yani üretimin <b>küresel firmalar</b> aracılığıyla uluslararası arenaya yayılması, küreselleşmenin <b>Ekonomik Boyutu</b> ile ilişkilendirilir. Bu boyut, sermayenin serbest dolaşımı ve küresel tedarik zincirlerinin oluşumu gibi unsurları içerir.",
         "Donem": 3
     },
     {
@@ -3737,6 +3923,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Verilen tanım, belirli bir ihtiyacı tatmin etmek için bir ürünü ya da hizmeti edinme, sahiplenme, kullanma veya yok etme eylemini kapsar ve bu kavramın adı <b>Tüketimdir</b>. Tüketim, modern toplumlarda sadece fiziksel bir eylem değil, aynı zamanda <b>sosyal ve kültürel</b> bir anlam da taşımaktadır.",
         "Donem": 3
     },
     {
@@ -3757,6 +3944,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Tüketim sürecinin ilk adımı olan <b>ihtiyaç eylemi</b>, daima kişinin bir <b>eksiklik hissi</b> veya giderilmesi gereken bir <b>güçlü arzu</b> ile başlar. Bu eksiklik veya arzu, bireyi tatmin arayışına, dolayısıyla da tüketim eylemine yönlendirir.",
         "Donem": 3
     },
     {
@@ -3777,6 +3965,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Tekrarlanan bir soru olup, <b>İkinci Küreselleşme</b> dönemi (1945 sonrası), özellikle kitle iletişim teknolojilerinin gelişmesi ve Amerikan yaşam tarzının yayılmasıyla karakterize edilir. Bu dönem, <b>kitle kültürünün yayılması</b> ve <b>küresel köy</b> kavramı ile ifade edilmektedir.",
         "Donem": 3
     },
     {
@@ -3797,6 +3986,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Hükûmetin tanımlanmış bir toprak parçası üzerinde <b>egemen güç</b> olduğu ve nüfusun kendilerini tek bir <b>ulusun vatandaşları</b> olarak gördükleri devlet tipi <b>Ulus Devlet'tir</b>. Ulus devlet, modern dönemin siyasi yapısı olup, küreselleşme süreciyle birlikte egemenliği tartışılmaya başlanmıştır.",
         "Donem": 3
     },
     {
@@ -3817,6 +4007,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Tüketim toplumuyla ilgili doğru ifade, tüketimin temel ihtiyaçların ötesine geçerek <b>statü ve kimlik inşa etme</b> aracı haline gelmesidir. Tüketim toplumunda, bir malın <b>gösterge değeri</b> (sembolik anlamı) onun pratik kullanım değerinden daha önemlidir ve bu durum, sürekli yeni arzuların üretilmesiyle desteklenir.",
         "Donem": 3
     },
     {
@@ -3837,6 +4028,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu tanım, dünyanın <b>ekonomik, siyasal ve kültürel</b> alanlarda bütünleşerek tek bir sistem haline gelmesi sürecini ifade eder. Boş bırakılan yere gelmesi gereken kavram <b>Küreselleşmedir</b>.",
         "Donem": 3
     },
     {
@@ -3857,6 +4049,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Küreselleşme, dünyadaki tüm etkileşimleri kapsayan çok boyutlu bir olgudur. Temel olarak kabul edilen boyutları <b>Siyasal</b> (I), <b>Ekonomik</b> (II) ve <b>Kültürel</b> (IV) boyutlardır. <b>Sosyal</b> boyut (III) ise genellikle Kültürel boyutla iç içe geçmiş olsa da (göç, demografi vb. konular), modern analizlerde küreselleşmenin ana boyutları arasında yer alır. Bu nedenle, I, II, III ve IV maddelerinin tamamı küreselleşmenin boyutları arasındadır.",
         "Donem": 3
     },
     {
@@ -3877,6 +4070,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Küreselleşme, dünyadaki ekonomik, sosyal, kültürel ve politik ilişkilerin yoğunlaşması ve karşılıklı bağımlılığın artması sürecidir. Küreselleşmenin yaygın sonuçları arasında <b>uluslararası ticaretin ve sermaye akışının artması</b>, <b>küresel kültürel etkileşim</b> ve <b>uluslararası kurumların rolünün güçlenmesi</b> yer alır. <br>Ancak, genellikle ulusal ekonomi yönetimlerinin güçlenmesi bir sonuç olarak kabul edilmez. Aksine, küresel piyasaların ve uluslararası normların baskısı altında <b>ulusal devletlerin egemenlikleri kısmen aşınır</b> ve ekonomik manevra alanları daralır. Bu nedenle, ulusal ekonomi yönetimlerinin güçlenmesi ifadesi küreselleşmenin sonuçlarından biri <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -3897,6 +4091,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "<b>Tüketim toplumu</b>, bireylerin kimliklerini ve sosyal statülerini sadece temel ihtiyaçlar üzerinden değil, sahip oldukları mallar ve hizmetler aracılığıyla tanımladığı bir toplumsal yapıyı ifade eder. Bu toplum tipinde tüketim, hayatta kalmanın ötesine geçerek <b>sosyal statü ve sembolik anlam</b> yaratma aracı haline gelir. <br>Bu bağlamda, tüketimin sadece <b>temel ihtiyaçların karşılanmasıyla sınırlı olduğu</b> yönündeki ifade yanlıştır. Tüketim toplumunda, <b>sürekli yenilik arayışı</b> ve <b>arzuya dayalı alımlar</b> öne çıkar, bu da tüketimin temel ihtiyaçların çok ötesine geçtiğini gösterir.",
         "Donem": 3
     },
     {
@@ -3917,6 +4112,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Cümlede tanımı yapılan kavram **Analoji (Benzetme)**'dir. Analoji, anlamı bilinmeyen karmaşık bir durumu veya kavramı, anlamı bilinen, daha tanıdık bir durum, olgu ya da nesne aracılığıyla açıklama yöntemidir. Bu, iletişimde anlam aktarımını kolaylaştıran bir göstergebilimsel araçtır.",
         "Donem": 3
     },
     {
@@ -3937,6 +4133,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu tanım, göstergebilimde **Düzdeğişmece (Metonymy)** kavramını açıklamaktadır. Düzdeğişmece, birbiriyle doğrudan bağlantılı veya yakın ilişkili (örneğin, neden-sonuç, parça-bütün ilişkisi hariç) kelime ya da nesnelerin, kastedilen asıl kavram yerine kullanılmasıdır (Örn: Kap yerine içerik, yazar yerine eser).",
         "Donem": 3
     },
     {
@@ -3957,6 +4154,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Umberto Eco, görsel göstergebilim çalışmalarında üç temel kod türünü sınıflandırmıştır. Bunlar: I. **Algılama kodları** (temel görme süreçleri), II. **Görüntüsel kodlar** (şekil ve formun tanınması) ve III. **İkonbilimsel kodlar** (kültürel olarak öğrenilmiş anlamlar). Dolayısıyla, Umberto Eco'ya göre bu üçü de kod türleri arasında yer alır.",
         "Donem": 3
     },
     {
@@ -3977,6 +4175,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Metin ve okur arasındaki ilişkiye, yani alımlama (resepsiyon) süreçlerine odaklanan göstergebilimsel yaklaşım, özellikle **Umberto Eco**’nun çalışmalarıyla ilişkilidir. Eco, metnin anlamının ancak okurun etkin katılımı ve yorumlama süreciyle tamamlandığını vurgular.",
         "Donem": 3
     },
     {
@@ -3997,6 +4196,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Charles Sanders **Peirce**, göstergeleri üç temel kategoriye ayırmıştır: **İkon** (benzerlik ilişkisi), **İndeks** (nedensellik veya fiziksel bağlantı) ve **Sembol** (uzlaşmaya dayalı, keyfi ilişki). Şıklarda genellikle dördüncü bir kavram (örneğin Düzdeğişmece veya Gösterilen) yanlış kategori olarak sunulur. (Doğru kabul edilen yanıt, bu üçünden biri olmayan seçenektir.)",
         "Donem": 3
     },
     {
@@ -4017,6 +4217,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Göstergebilimde, göstergelerin belli bir düzen içinde bir araya gelerek oluşturdukları anlamlı bütünlüğe ve aktarılan bilginin tamamına **Metin (Text)** veya **İleti (Message)** adı verilir. Metin sadece yazılı dili değil, aynı zamanda görsel ve işitsel gösterge dizilerini de kapsar.",
         "Donem": 3
     },
     {
@@ -4037,6 +4238,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Göstergebilim alanının temel kuramcıları arasında **Saussure**, **Peirce**, **Eco**, **Barthes** ve **Morris** gibi isimler bulunur. Eğer şıklarda bu disipline ait olmayan (örneğin, sosyoloji, psikoloji veya edebiyat alanından bir başka önemli figür) bir isim yer alıyorsa, doğru cevap o olacaktır.",
         "Donem": 3
     },
     {
@@ -4057,6 +4259,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Ferdinand de **Saussure**, göstergeyi (Sign) ikili bir yapı olarak tanımlar. Bu yapının ögeleri: **Gösteren (Signifier)** (ses imgesi) ve **Gösterilen (Signified)** (kavram). Saussure'ün modelinde göstergenin dış dünyadaki karşılığı olan **Gönderge (Referent)**, doğrudan anlam ögesi olarak kabul edilmez ve bu nedenle doğru cevap Gönderge’dir.",
         "Donem": 3
     },
     {
@@ -4077,6 +4280,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Charles William **Morris**, göstergebilimi inceleme alanlarına göre üç ana boyuta ayırmıştır:<br>I. **Edimbilim (Pragmatics):** Gösterge ve kullanıcı ilişkisi.<br>II. **Anlambilim (Semantics):** Gösterge ve nesne (anlam) ilişkisi.<br>III. **Sözdizim (Syntactics):** Göstergelerin birbirleriyle olan biçimsel ilişkisi.<br>Bu üçü de Morris'in göstergebilimi tanımladığı temellerdendir.",
         "Donem": 3
     },
     {
@@ -4097,6 +4301,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Tanımı yapılan süreç, **Semiosis (Gösterim Süreci)** veya **Sonsuz Semiosis** kavramıdır. Bu kavram, özellikle Peirce tarafından geliştirilmiş olup, bir göstergenin sürekli olarak yeni bir gösterge (yorumlayıcı) üretmesini, dolayısıyla anlamın asla sabit kalmamasını ve bir düşüncenin sürekli başka bir düşünceyi doğurmasını sağlayan dinamik süreci ifade eder.",
         "Donem": 3
     },
     {
@@ -4117,6 +4322,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Göstergeyi iki temel zihinsel bileşen olan **gösteren (signifier)** ve **gösterilen (signified)** 'den meydana gelen bir bütün olarak tanımlayan kuramcı **Ferdinand de Saussure**'dür. Bu ikili ayrım, modern göstergebilimin başlangıç noktasıdır.",
         "Donem": 3
     },
     {
@@ -4137,6 +4343,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Umberto Eco, görsel algılama sürecini yöneten temel kodları (algılama kodları) tanımlamıştır. Bu kodlar genellikle Duyusal ve Tanıma kodlarını içerir. **İkonbilimsel kodlar** ise, algılama aşamasından sonra, kültürel anlamların ve geleneksel temsillerin devreye girdiği daha üst düzey kodlardır ve bu nedenle 'algılama kodlarından' biri olarak sayılmaz.",
         "Donem": 3
     },
     {
@@ -4157,6 +4364,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bir kelimenin veya göstergenin herkesçe bilinen, sözlükteki ilk ve en temel anlamına **Temel Anlam (Denotasyon)** denir. 'Şeker' kelimesinin doğrudan gıda maddesini ifade etmesi, denotatif bir kullanımdır; yan anlam veya çağrışım (konotasyon) taşımaz.",
         "Donem": 3
     },
     {
@@ -4177,6 +4385,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Göstergebilimin temel ilkelerine göre, Saussure'ün gösterge modelinde gösteren ile gösterilen arasındaki ilişki genellikle **keyfidir (arbitrary)**. 'Gösteren ile gösterilen arasındaki ilişkinin her zaman doğal ve zorunlu olduğu' gibi bir ifade **yanlıştır**, çünkü sembolik göstergelerde bu ilişki uzlaşmaya dayalıdır.",
         "Donem": 3
     },
     {
@@ -4197,6 +4406,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "**Gösterilen (Signified)**, bir göstergenin temsil ettiği zihinsel kavram, fikir veya düşüncedir. Gösterilen, fiziksel bir şeyden ziyade zihinsel bir imgendir. Bu nedenle, bir tasarımda kullanılan **fiziksel nesnenin kendisi (gönderge)** veya **gösteren** (örneğin kullanılan resim veya kelime) gösterilen olamaz.",
         "Donem": 3
     },
     {
@@ -4217,6 +4427,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "**Gösteren (Signifier)**, gösterilen kavramı taşıyan ve algılanabilen somut biçimdir (ses, görüntü, yazı vb.). Reklamda kullanılan bir slogan, resim veya renk gösteren olabilirken; reklamın hedeflediği **zihinsel kavram** veya **mesajın anlamı (gösterilen)** gösteren olamaz.",
         "Donem": 3
     },
     {
@@ -4237,6 +4448,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "**İkonbilimsel kodlar**, görsel göstergebilimde kültürel ve tarihsel olarak öğrenilmiş anlamların görsellerde kullanılmasıdır. Bu kodlar, sanat eserlerinde veya görsellerde belirli motiflerin, karakterlerin veya sembollerin ne anlama geldiğini (örneğin Azizlerin özelliklerini) anlamamızı sağlayan, uzlaşmaya dayalı, kültürel bilgiye dayalı kodlardır.",
         "Donem": 3
     },
     {
@@ -4257,6 +4469,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "**Algılama kodları**, görme eyleminin ve temel görsel bilginin işlenmesinin ilk aşamalarıdır (örneğin ışık/karanlık, renk, temel biçimlerin tanınması). **İkonbilimsel kodlar** (Soru 176055'te açıklandığı gibi) ise kültürel ve tarihsel bilgiye dayalı daha karmaşık ve üst düzey kodlardır, dolayısıyla Eco sınıflandırmasında algılama kodu olarak kabul edilmezler.",
         "Donem": 3
     },
     {
@@ -4277,6 +4490,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Göstergebilim disiplinlerinden olan **Anlambilim (Semantics)** düzeyi, göstergenin taşıdığı anlamla, yani gösterenin gösterileni (kavramı) temsil etme biçimiyle ve göstergenin dışsal gerçeklikteki nesnesi (gönderge) ile olan ilişkisiyle ilgilenir. Bu düzey, 'anlam' üzerine odaklanır.",
         "Donem": 3
     },
     {
@@ -4297,6 +4511,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "**Düzdeğişmece (Metonymy)**, birbiriyle yakın ilişkide olan ancak parça-bütün ilişkisi taşımayan iki kavramdan birinin diğeri yerine kullanılmasıdır. Örneğin, **'Ayağında Picasso vardı'** cümlesinde, kişinin ayağında Picasso adlı sanatçının eseri değil, Picasso'nun tasarladığı veya ilham verdiği bir ayakkabı (marka/ürün) kastedilir. Bu, marka/üretici yerine ürünü kullanma yoluyla kurulan bir düzdeğişmece örneğidir.",
         "Donem": 3
     },
     {
@@ -4317,6 +4532,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu durum, dilin **anlamlandırma düzeyi** ile ilgilidir. \"Dalgalar kayalıklara çarpıyordu\" ifadesi, olayın temel ve yüzeydeki **düz anlamını (denotasyon)** aktarırken, \"Dalgalar kayalıkları yalıyordu\" cümlesi, okuyucuda yumuşaklık, hassasiyet veya metaforik bir ilişki çağrıştıran **yan anlamı (konotasyon)** devreye sokar.<br>Konotasyon, göstergenin düz anlamının ötesinde kültürel, kişisel veya duygusal çağrışımlar yaratarak anlamı derinleştiren stilistik ve retorik tercihlere işaret eder.",
         "Donem": 3
     },
     {
@@ -4337,6 +4553,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Charles Sanders Peirce, göstergebilimi (semiotics) üç ana disipline veya dala ayırmıştır:<br>1. **Spekülatif Gramer (Speculative Grammar):** Göstergelerin türlerini, yapılarını ve bir araya geliş biçimlerini inceler.<br>2. **Eleştirel Mantık (Critical Logic):** Göstergelerin gerçekliğe uygunluğunu ve geçerliliğini (hakikati) inceler.<br>3. **Spekülatif Retorik (Speculative Rhetoric):** Göstergelerin iletişimdeki etkileşimlerini ve anlam yaratma süreçlerini inceler.",
         "Donem": 3
     },
     {
@@ -4357,6 +4574,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "**Belirtisel gösterge (Index)**, gösteren (signifier) ile gösterilen (signified) arasında doğrudan bir **fiziksel veya nedensel ilişki** (contiguity) kurulmasına dayanır.<br>Bu gösterge türünde, gösteren, gösterilenin bir sonucu, parçası veya doğal bir belirtisidir. Örneğin, <b>duman</b> (gösteren) ile <b>ateş</b> (gösterilen) arasındaki ilişki, dumanın ateşin doğal sonucu olmasından kaynaklanır veya <b>ateşli hastalık</b>, vücutta bir enfeksiyonun varlığının belirtisidir.",
         "Donem": 3
     },
     {
@@ -4377,6 +4595,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Görsel iletişim sürecinde bir oluşumu, nesneyi, duyguyu veya yaklaşımı zihnimizde temsil eden, yani o şeye referans veren temel kavrama **gösterge (sign)** denir.<br>Gösterge, gösterilen ile gösterenin birleşiminden oluşur ve iletişimde anlamın aktarılmasını sağlayan en küçük yapı birimidir. Temsil etme işlevi (başka bir şeyin yerine durma) göstergenin temel özelliğidir.",
         "Donem": 3
     },
     {
@@ -4397,6 +4616,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "\"Anlamı bilinmeyen bir durumu açıklamak için anlamı bilinen bir durumu, olguyu, nesneyi kullanmak\" eylemi **Analoji (Analogy)** olarak tanımlanır.<br>Analoji, iki farklı şey veya durum arasındaki benzerlikleri temel alarak, karmaşık veya yabancı bir konuyu daha anlaşılır bir şekilde açıklamaya yarayan bir **akıl yürütme ve açıklama yöntemidir**. Bu teknik, özellikle bilimsel ve popüler açıklamalarda bilinen bir sistemin (örneğin <b>saat mekanizması</b>) bilinmeyen bir sistemi (örneğin <b>evrenin işleyişi</b>) temsil etmesi amacıyla yaygın kullanılır.",
         "Donem": 3
     },
     {
@@ -4417,6 +4637,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Marx'a göre, yönetilen sınıfın <b>sömürüldüklerinin farkına varmalarını zorlaştıran</b>, yönetici sınıf tarafından kendi egemenliğini meşrulaştırmak üzere kurgulanan toplumsal değerler ve inançlar bütünü <b>İdeoloji</b> olarak adlandırılır. İdeoloji, yönetici sınıfın çıkarlarını evrensel çıkarlar gibi sunarak <b>yanlış bir bilinç</b> yaratır ve mevcut eşitsiz düzenin sürdürülmesine hizmet eder.",
         "Donem": 3
     },
     {
@@ -4437,6 +4658,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Marksist analizde toplumsal yapının temelini oluşturan, <b>ekonomik ilişkileri</b> ve <b>maddi üretim ilişkilerini</b> (üretim güçleri ve üretim biçimi) ifade eden kavrama <b>Alt Yapı</b> (Base) denir. Toplumun diğer kurumları (üst yapı) bu maddi temel üzerinde yükselir.",
         "Donem": 3
     },
     {
@@ -4457,6 +4679,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Marksist eleştiriye göre, Burjuva kahramanları genellikle yönetici sınıfın <b>ideolojik taşıyıcıları</b> olarak işlev görür. Onlar, kapitalist sistemin değerlerini, bireysel başarı mitini ve mevcut sosyal düzeni meşrulaştırır. Dolayısıyla, bu kahramanların sistemi eleştiren veya devrimci bilinç taşıyan figürler olduğunu iddia eden bir şık <b>yanlış</b> olacaktır; zira temel işlevleri <b>statükoyu korumaktır</b>.",
         "Donem": 3
     },
     {
@@ -4477,6 +4700,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Antonio Gramsci tarafından geliştirilen <b>Hegemonya</b> kavramı, yönetici sınıfın salt zor kullanmak yerine, <b>kültürel ve ideolojik liderlik</b> yoluyla, yönetilenlerin aktif <b>rızasını üreterek</b> sağladığı egemenliği ifade eder. Hegemonya sadece ekonomik üstünlüğe dayalı değildir ve baskıdan çok rızaya odaklanır. Yanlış olan ifade, hegemonyanın yalnızca devletin fiziksel gücüne dayandığını ileri süren bir şık olacaktır.",
         "Donem": 3
     },
     {
@@ -4497,6 +4721,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Marksizm'in ortaya koyduğu <b>Yabancılaşma</b> (Alienation) kavramı, işçinin üretim sürecinde emeğinin ürününe, üretim eylemine, diğer insanlara ve kendi türsel özüne yabancılaşmasını anlatır. Bu durum, işçinin kendi emeği üzerindeki kontrolünü kaybetmesinden kaynaklanır. Yabancılaşmanın işçi için <b>tatmin ve refah</b> sağladığını iddia eden bir ifade kesinlikle <b>yanlış</b> olacaktır.",
         "Donem": 3
     },
     {
@@ -4517,6 +4742,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Marksist perspektife göre, kapitalist düzende medya ve kitle iletişim araçları, yönetici sınıfın ideolojisini yayma ve toplumsal rızayı üretme işlevini üstlenir. Louis Althusser bu tür kurumları <b>İdeolojik Devlet Aygıtları</b> (İDA) olarak tanımlamıştır. Bu araçlar, <b>ideolojik denetim</b> mekanizmaları olarak işler.",
         "Donem": 3
     },
     {
@@ -4537,6 +4763,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Üretim güçleri (emek, teknoloji) ve tüketim süreçleri, Marksist analizin temelini oluşturan ve <b>maddi ekonomik ilişkileri</b> kapsayan <b>Alt Yapı</b> (Base) ilkesine karşılık gelmektedir. Toplumun bütün diğer yapıları bu maddi temelin üzerinde yükselir.",
         "Donem": 3
     },
     {
@@ -4557,6 +4784,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Marksist analizde, <b>Yasal Sistem</b> (hukuk), devlet, eğitim ve kültürel kurumlar gibi ekonomik olmayan yapılar, toplumsal yapının <b>Alt Yapı</b> üzerinde yükselen ve onu destekleyen <b>Üst Yapı</b> (Superstructure) ilkesine karşılık gelir.",
         "Donem": 3
     },
     {
@@ -4577,6 +4805,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Marksist bakış açısıyla yöneten sınıfın diğerleri üzerindeki egemenliğini (sadece zorla değil, rıza ile de kurulan) ifade etmek için kullanılan kavram <b>Hegemonya</b>'dır. Hegemonya, kültürel ve ideolojik mekanizmalarla <b>rıza üreterek</b> egemenliğin sürdürülmesini sağlar.",
         "Donem": 3
     },
     {
@@ -4597,6 +4826,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Paragrafta ifade edilen durum, işçinin üretim sürecinde emeğine ve ürününe yabancılaşmasını anlatan <b>Yabancılaşma</b> (Alienation) kavramıdır. İşçi, emeği üzerinde kontrol sahibi olamadığı ve kendini ürünle bütünleştiremediği için çalışma, ona bir refah duygusu değil, <b>sefalet duygusu</b> verir ve <b>dışsal</b> bir eylem haline gelir.",
         "Donem": 3
     },
     {
@@ -4617,6 +4847,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "İletişim araçlarında sunulan ürünlerdeki (film, dizi, reklam) karakterler aracılığıyla toplumsal yapıya ilişkin mesajların sunulması görevi, <b>İdeoloji</b> kavramının işleyişini tanımlamaktadır. Bu, yönetici sınıfın çıkarlarını destekleyen <b>değerlerin ve inançların</b> kültürel ürünler yoluyla yayılma biçimidir.",
         "Donem": 3
     },
     {
@@ -4637,6 +4868,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Marx'a göre, boşluğa getirilmesi gereken kavram <b>İdeoloji</b>'dir. İdeoloji, yönetilen sınıfın <b>sömürüldüğünün farkına varmasını zorlaştıran</b> ve yönetici sınıf tarafından kendini meşrulaştırmak üzere kurgulanan <b>toplumsal değerler ve kültürel inançlar</b> bütünüdür.",
         "Donem": 3
     },
     {
@@ -4657,6 +4889,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Marksist teoride <b>Üst Yapı</b>, Alt Yapı (ekonomik temel) üzerinde yükselen ve onu meşrulaştıran kurumlardır. <b>Yasal Sistem</b>, devlet, din, eğitim ve medya gibi kurumlar üst yapı unsurlarından biridir, çünkü bunlar ekonomik ilişkileri doğrudan oluşturmaz, ancak onları korur ve destekler.",
         "Donem": 3
     },
     {
@@ -4677,6 +4910,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "İdeoloji, <b>yanlış bilinç</b>, kültürel inançlar ve toplumsal değerler aracılığıyla yönetici sınıfın egemenliğini meşrulaştıran bir sistemdir (Üst Yapı). <b>Maddi üretim güçleri</b> ve <b>üretim ilişkileri</b> ise doğrudan <b>Alt Yapı</b>'nın kendisini oluşturur, bu nedenle ideoloji kavramını oluşturan unsurlar arasında yer almaz.",
         "Donem": 3
     },
     {
@@ -4697,6 +4931,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Louis Althusser'in kavramsallaştırdığı <b>Devletin İdeolojik Aygıtları</b> (İDA), Rıza üreterek toplumsal düzeni sürdüren kurumlardır. Bunlar arasında <b>Eğitim</b>, din, aile, medya ve kültürel kurumlar bulunur. Bunlar, baskı (Zor Kullanma Aygıtları) yerine ideoloji ile işler.",
         "Donem": 3
     },
     {
@@ -4717,6 +4952,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Yönetici sınıf, kültür alanında <b>Medya, Eğitim, Sanat</b> ve din gibi ideolojiyi yayan ve rıza üreten kurumlarda egemenlik kurar. Yönetici sınıfın egemenlik kurduğu alanlardan biri olmayan unsur, doğrudan ekonomik temeli (Alt Yapı) oluşturan <b>üretim araçlarının sahipliği</b> gibi maddi ilişkilerdir; bu Alt Yapı'ya aittir.",
         "Donem": 3
     },
     {
@@ -4737,6 +4973,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Marx’ın dile getirdiği sınıf çatışmasında yönetici sınıf, <b>üretim araçlarına sahip olan</b> ve emeği sömüren sınıfa karşılık gelir. Bu sınıf <b>Burjuvazi</b> olarak adlandırılır.",
         "Donem": 3
     },
     {
@@ -4757,6 +4994,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Bireyin içinde bulunduğu toplumdan ayrımlaşması, diğerleriyle bağlantısının kopması, Marksizm’in <b>Yabancılaşma</b> (Alienation) kavramının <b>sosyal yabancılaşma</b> boyutunu açıklar. Kapitalist sistemde rekabet ve sömürü, bireylerin birbirine ve toplumsal bütünlüğe yabancılaşmasına neden olur.",
         "Donem": 3
     },
     {
@@ -4777,6 +5015,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Kültürün halktan/kitlelerden kaynaklanmadığı, aksine endüstriyel süreçlerle <b>yukarıdan aşağıya üretildiği</b> ve kitlelere sunulduğu vurgusu, Frankfurt Okulu tarafından da geliştirilen <b>Kitle Kültürü</b> (Mass Culture) kavramına karşılık gelmektedir. Bu kültür, ideolojik kontrol ve <b>yanlış bilinç</b> yayma işlevi görür.",
         "Donem": 3
     },
     {
@@ -4797,6 +5036,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "İletişim araçlarında sunulan filmler, diziler, romanlar ve reklamlardaki iyi ve kötü karakterler, var olan toplumsal düzenin değerlerini ve normlarını aktarır. Bu süreç, <b>İdeoloji</b> kavramı kapsamında değerlendirilmektedir, zira bu kültürel ürünler <b>yönetici sınıfın dünya görüşünü</b> yayma aracıdır.",
         "Donem": 3
     },
     {
@@ -4817,6 +5057,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Marksist teoriye göre, kapitalist ekonomik sistemde <b>üretim araçlarına sahip olmayan</b> ve hayatta kalmak için emek gücünü yönetici sınıfa (burjuvaziye) satmak zorunda kalan sınıf <b>proletarya</b> (işçi sınıfı) olarak adlandırılır. Proletarya, artı-değer üretimi yoluyla sürekli sömürülür ve bu durum onların ekonomik ve sosyal durumlarının ümitsizleşmesine neden olur.",
         "Donem": 3
     },
     {
@@ -4837,6 +5078,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Marksist Analiz'in temel ilkeleri arasında <b>Tarihsel Materyalizm</b> (ekonomik koşulların toplumsal gelişmeyi belirlemesi), <b>Sınıf Mücadelesi</b> (tarihin itici gücü), <b>Artı-Değer Teorisi</b> (sömürünün mekanizması) ve <b>Yabancılaşma</b> kavramları yer alır. Marksizm, toplumsal yapıyı ve değişimi bu ekonomik ve sınıfsal çatışma lensiyle inceler.",
         "Donem": 3
     },
     {
@@ -4857,6 +5099,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Marksist teoride toplum, iki ana katmandan oluşur: <b>altyapı</b> (Base) ve üstyapı (Superstructure). Altyapı, toplumun ekonomik temelini oluşturur ve <b>üretim güçleri</b> (iş gücü, teknoloji) ile <b>üretim ilişkilerinden</b> (mülkiyet ve sınıf ilişkileri) meydana gelir. Marksizm'e göre, altyapı üstyapıyı (hukuk, siyaset, kültür, ideoloji) belirler ve ona karşılık gelir.",
         "Donem": 3
     },
     {
@@ -4877,6 +5120,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu tanım, yönetici sınıfın kendi iktidarını ve çıkarlarını meşrulaştırmak, aynı zamanda sömürülen sınıfların rızasını sağlamak amacıyla topluma yaydığı inançlar, değerler ve dünya görüşü sistemini ifade eder. Marksist bağlamda bu kavram <b>ideoloji</b> olarak adlandırılır. Filmler, diziler ve reklamlar bu egemen ideolojinin iletişim süreçleri yoluyla kitlelere aktarılma araçlarıdır.",
         "Donem": 3
     },
     {
@@ -4897,6 +5141,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Karl Marx’a göre, kapitalist üretim sistemi altında işçi, emeğinin ürününe, üretim sürecine, kendi insan doğasına ve diğer insanlara karşı bir kopukluk yaşar. Bireyin içinde bulunduğu toplumdan, doğasından ve başkalarından ayrımlaşması durumu <b>yabancılaşma</b> (Alienation) olarak adlandırılır. Bu, özellikle işçinin kendi emeği üzerindeki kontrolünü kaybetmesiyle ortaya çıkar.",
         "Donem": 3
     },
     {
@@ -4917,6 +5162,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Marksist bakış açısına göre, kitle iletişim olgusu, toplumsal yapıyı ve kültürü kontrol eden <b>üretim güçlerini</b> elinde bulunduran <b>yönetici sınıfın</b> (Burjuvazinin) çıkarları doğrultusunda şekillendirilir. Bu sınıf, kendi <b>egemen ideolojisini</b> yaymak ve kapitalist düzenin devamlılığını sağlamak amacıyla kitle iletişim araçlarını kullanır.",
         "Donem": 3
     },
     {
@@ -4937,6 +5183,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Tüketicilik kavramı, modern kapitalizmin gelişmiş evresi olan <b>geç kapitalizm</b> veya <b>Postmodernizm</b> ile yakından ilişkilidir. Bu nedenle, I. ifade ('Postmodernizm'den çok, Modernizm etkisinde gerçekleşen bir süreçtir) genellikle <u>yanlış</u> kabul edilir, çünkü tüketim toplumu kimliğin semboller üzerinden inşası ve haz arayışının ön plana çıktığı, Postmoderniteye özgü bir durumdur.<br>II. (daha çok şeyin satın alınması) ve III. (gerçekliğin satın alınanlarla yeniden yaratılması) ise tüketicilik tanımının temel unsurlarıdır ve doğrudur.",
         "Donem": 3
     },
     {
@@ -4957,6 +5204,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Tüketicinin satın alma kararı son derece karmaşık bir süreçtir ve birçok farklı faktörden etkilenir. Bunlar arasında bireyin geliri ve fiyatlarla ilgili <b>Ekonomik</b> faktörler, algı, tutum ve motivasyon gibi <b>Psikolojik</b> faktörler ve kültürel normlar, sosyal sınıf ve referans grupları gibi <b>Sosyal ve kültürel</b> faktörler yer alır. Bu nedenle, yukarıdaki maddelerin hepsi (I, II ve III) satın alma kararını etkiler.",
         "Donem": 3
     },
     {
@@ -4977,6 +5225,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Tüketim toplumunun temel özelliği, bireylerin ihtiyaçları dışındaki ürünleri <b>sembolik değerleri</b> için satın almaya yönlendirilmesidir. Tüketim toplumu, <b>yapay ihtiyaçlar</b> yaratmaya ve haz odaklı (hedonist) bireyselliğe dayanır. Bu bağlamda, 'Tüketim toplumu temel ihtiyaçları karşılamaya odaklıdır' gibi bir ifade <u>yanlıştır</u>, çünkü temel ihtiyaçların ötesinde bir tüketim döngüsünü zorunlu kılar.",
         "Donem": 3
     },
     {
@@ -4997,6 +5246,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Sembolik tüketimin ve modern tüketim olgusunun temel ilkesi <b>Hedonizm</b>’dir (Hazcılık). Hedonizm, hazzı ve bireysel tatmini en üst amaç olarak belirler ve bu durum, bireyin kimliğini, statüsünü veya mutluluğunu sürekli olarak yeni ürünler satın alarak inşa etmesi gerektiği fikrini destekler. Bu, ürünlerin faydası yerine, sundukları <b>sembolik değere</b> odaklanmayı sağlar.",
         "Donem": 3
     },
     {
@@ -5017,6 +5267,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Sembolik tüketim, ürünlerin pratik işlevinden çok, bireye sunduğu anlam, statü ve kimlik değerine odaklanır. Bu tüketim biçiminin çıkış noktası ve günümüz tüketim olgusunun temel ilkesi, bireysel haz ve tatmin arayışı olan <b>Hedonizm</b>’dir. Tüketim toplumu, bireyin bu hazzı sürekli olarak satın alımlarla kovalamasını zorunlu kılar.",
         "Donem": 3
     },
     {
@@ -5037,6 +5288,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Cümlede bahsedilen, uygun yaşam biçimlerini ve sınıf farklılıklarını vurgulayarak <b>egemen ideolojiyi</b> yayma işlevini üstlenen araç <b>Reklam</b>’dır. Marksist analizde reklam, sadece ürün satmakla kalmaz; aynı zamanda bireyi tüketim yoluyla kimlik inşa etmeye zorlayarak, <b>kapitalist düzenin devamlılığını</b> sağlayan ideolojik bir aygıt olarak görülür.",
         "Donem": 3
     },
     {
@@ -5057,6 +5309,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Marksist analize göre, kapitalist toplumun temel odak noktasının üretimden tüketime kaydığı, yapay ihtiyaçların toplumu yönlendirdiği en gelişmiş hâli <b>Tüketim Toplumu</b> olarak adlandırılır. Bu toplum yapısı, kapitalist sistemin sürekliliğini sağlamak üzere kurgulanmıştır.",
         "Donem": 3
     },
     {
@@ -5077,6 +5330,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Marksist bakış açısına göre kitle iletişim süreci, ekonomik üretim araçlarını kontrol eden yönetici sınıfın düşünce yapısı olan <b>Egemen İdeoloji</b>'nin etkisinde şekillenir. Kitle iletişimi, bu ideolojiyi yayarak mevcut toplumsal ve ekonomik düzeni meşrulaştırma görevini üstlenir.",
         "Donem": 3
     },
     {
@@ -5097,6 +5351,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Tüketim ve reklam aracılığıyla kurulan toplumsal düzenin temel hedefi, bireyin sürekli haz ve kişisel tatmin peşinde koştuğu <b>hedonist ve bencil bireyselliğin</b> inşasıdır. Bu bireysellik, sürekli satın alma zorunluluğu yaratarak tüketim toplumunun temel dayanak noktasını oluşturur.",
         "Donem": 3
     },
     {
@@ -5117,6 +5372,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Tüketim toplumunun temel felsefesi ve dayanağı, bireyin sürekli haz ve tatmin arayışına odaklanan <b>Hedonizme</b> dayanmaktadır. Bu felsefe, bireyi sürekli olarak yeni ürünler aracılığıyla kişisel tatmin sağlamaya iter.",
         "Donem": 3
     },
     {
@@ -5137,6 +5393,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "<b>Sembolik Tüketimin</b> çıkış noktası olarak değerlendirilen <b>Hedonizm</b>, tüketim olgusunun temel ilkesi haline gelmiştir. Sembolik tüketimde ürünler, pratik faydalarından çok, bireyin kimliğini, statüsünü ve hazzını ifade etme aracı olarak kullanılır.",
         "Donem": 3
     },
     {
@@ -5157,6 +5414,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Tüketimi körükleme, bireyin <b>yabancılaşmasını</b> tüketimle giderme vaadi ve bu sayede düzenin devamlılığını sağlama işlevini yerine getiren ana araç <b>Reklam</b>’dır. Reklam, verdiği mesajlarla egemen ideolojiyi pekiştirir ve bireyi sistemle bağlı tutar.",
         "Donem": 3
     },
     {
@@ -5177,6 +5435,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklamlarda kullanılan <b>sembolik değerler</b> (marka imajı, statü, yaşam biçimi) tüketicileri, ürünün faydasından bağımsız olarak, <b>kendilerini ifade etme</b> ve <b>kimliklerini şekillendirme</b> amacıyla tüketim yapmaya yönlendirir. Bu sembolik itki, yapay ihtiyaçların temelini oluşturur.",
         "Donem": 3
     },
     {
@@ -5197,6 +5456,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Kapitalist düzenin devamlılığını sağlamak amacıyla, temel odak noktası sürekli tüketim olan toplum yapısı <b>Tüketim Toplumu</b> olarak adlandırılır. Bu yapıda, ekonomik çarkların dönmesi için zorunlu olan sürekli alım teşvik edilir.",
         "Donem": 3
     },
     {
@@ -5217,6 +5477,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Tüketim toplumunda bireylere <b>yapay ihtiyaçlar</b> aşılanır ve onlar, ürünün pratik faydasını esas alan <b>faydacı tüketime</b> değil, ürünün anlamını ve statüsünü esas alan <b>sembolik tüketime</b> yönlendirilirler. Sembolik tüketim, kimlik inşasının aracıdır.",
         "Donem": 3
     },
     {
@@ -5237,6 +5498,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Marksist Analize göre, reklamlar ürünlerin <b>değişim değerini</b> (statü, sembol) ön plana çıkararak hedonizmi teşvik eder. Reklam, bu süreçte metanın toplumsal üretim ilişkilerini ve <b>kullanım değerini</b> (pratik faydasını) veya <b>emek</b> kavramını ön plana <u>çıkarmaz</u>; aksine bu gerçeklikleri gizler.",
         "Donem": 3
     },
     {
@@ -5257,6 +5519,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklamcılar genellikle dikkat, algı, güdülenme, öğrenme ve tutum gibi psikolojik süreçleri kullanarak tüketiciyi etkilemeye çalışır. Ancak <b>yabancılaşma</b>, Marksist analizde kapitalist üretim ilişkilerinin birey üzerindeki <b>sonucudur</b> ve reklamın bireyi tüketimle gidermeye çalıştığı bir boşluktur, reklamcının doğrudan başvurduğu bir psikolojik araç <u>değildir</u>. Reklam, genellikle <b>rasyonel kararlar</b> yerine duygusal tetikleyicilere başvurur.",
         "Donem": 3
     },
     {
@@ -5277,6 +5540,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Marksist bakış açısından kitle iletişimi, üretim araçlarını ve toplumsal sermayeyi elinde bulunduran <b>yönetici sınıfın</b> (Burjuvazi) çıkarları doğrultusunda şekillendirilir. Bu sınıf, kitle iletişimini kullanarak kendi <b>egemen ideolojisini</b> topluma aktarır.",
         "Donem": 3
     },
     {
@@ -5297,6 +5561,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Marksist analize göre, kapitalist sistemde birey, emeğine ve özüne <b>yabancılaşarak</b> (alienation) gerçek kimliğinden kopar. Reklamlar, bu boşluğu istismar ederek bireyin 'reklamda sunulan ideal benliği' satın alınan ürünler aracılığıyla yeniden oluşturabileceği algısını yaratır ve bireyi sürekli tüketime zorunlu kılar.",
         "Donem": 3
     },
     {
@@ -5337,6 +5602,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Süperego, ruhsal aygıtın ahlaki pusulasıdır ve iki temel bileşenden oluşur: <b>vicdan</b> (yasakları ve cezalandırmayı içerir) ve <b>ideal benlik</b> (mükemmeliyet standartlarını içerir). Süperegonun işlevleri arasında <b>özeleştiri</b>, ahlaki yargılama, suçluluk duygusu yaratma ve mükemmeliyetçilik yer alır. Egonun temel işlevi olan <b>gerçeklikle ilişki kurma</b>, dış dünyaya adaptasyon sağlama ve idin dürtülerini erteleme süperegonun işlevlerinden biri <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -5357,6 +5623,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Alıcı için bir uyaran olarak işlev gören ve bir anlam taşıyan temel fiziksel girdiye ya da bu girdilerin birleşimine <b>sinyal</b> (işaret) adı verilir. Sinyaller, alıcı tarafından algılanabilen ve potansiyel olarak mesaj taşıyan fiziksel olgulardır (ses, ışık, görüntü vb.).",
         "Donem": 3
     },
     {
@@ -5377,6 +5644,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Ego, <b>gerçeklik ilkesine</b> göre hareket eder ve ruhsal aygıtın rasyonel, dış dünya ile uyumu sağlayan parçasıdır. İşlevleri arasında <b>savunma mekanizmalarını</b> kullanma, algı, bellek, duygulanım, motor işlevler ve <b>ikincil süreç düşüncesi</b> (mantıklı düşünme) yer alır. Egonun işlevi olmayan durum genellikle <b>haz ilkesine</b> göre anlık tatmin arayışıdır ki bu <b>İd'in</b> temel görevidir.",
         "Donem": 3
     },
     {
@@ -5397,6 +5665,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Semboller, anlam kaynaklarına göre genellikle üç ana kategoride incelenir: <b>Evrensel</b> (III), <b>Geleneksel</b> (I) ve <b>Rastlantısal</b> (II). Evrensel semboller insanlığın ortak deneyimlerinden, Geleneksel semboller kültürel öğrenmeden, Rastlantısal semboller ise bireysel deneyimlerden kaynaklanır. 'Yerel' (IV) bir sembol türü olmaktan ziyade, Geleneksel sembollerin bir niteliği veya alt kümesi olarak kabul edilebilir; bu nedenle Yerel sembol sınıflandırmaları arasında ayrı bir ana kategori olarak <u>yer almaz</u>. (Cevap Yerel ve/veya Geleneksel'i içermelidir, ancak temel sınıflandırmalar I, II, III'tür.)",
         "Donem": 3
     },
     {
@@ -5417,6 +5686,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Algı, motor, bellek, duygulanım, savunma mekanizmaları ve <b>ikincil süreçle ilgili entelektüel işlevler</b> (rasyonel düşünme) gibi dış dünyayla uyum ve gerçekliği test etme ile ilgili tüm bu üst düzey işlevlerin yerleşim yeri <b>Ego'dur</b>. Ego, id ile dış dünya arasında arabuluculuk yapar ve <b>gerçeklik ilkesine</b> göre çalışır.",
         "Donem": 3
     },
     {
@@ -5437,6 +5707,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>İd</b>, Sigmund Freud'un yapısal modeline göre, ruhsal aygıtın <b>en eski</b> ve doğuştan var olan parçasıdır. Tamamen bilinç dışıdır ve <b>haz ilkesini</b> takip ederek temel biyolojik dürtülerin (libido ve saldırganlık) anında tatminini ister.",
         "Donem": 3
     },
     {
@@ -5457,6 +5728,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Paragrafta bahsedilen kavram <b>Ego'dur</b>. Ego, <b>idden</b> gelişir, ancak dış dünyanın kısıtlamaları altında <b>gerçeklik ilkesiyle</b> çalışır. İd'den gelen dürtüleri modifiye ederek bireyin çevreye adapte olmasını sağlar ve bu süreçte <b>savunma mekanizmalarını</b> kullanır.",
         "Donem": 3
     },
     {
@@ -5477,6 +5749,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Sigmund Freud, aralarındaki ilişkiyi <b>at sırtında bir adam</b> benzetmesiyle açıkladığı zihin katmanları <b>İd ve Ego'dur</b>. Burada <b>İd</b> (at), güçlü enerji ve dürtü kaynağını; <b>Ego</b> (binici) ise bu gücü kontrol etmeye çalışan ancak bazen yönlendirilen rasyonel yapıyı temsil eder.",
         "Donem": 3
     },
     {
@@ -5497,6 +5770,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Algı, motor, bellek, duygulanım, savunma ve <b>ikincil süreçle ilgili entelektüel işlevler</b> (rasyonel düşünme) gibi dış dünyayla uyum ve gerçekliği test etme ile ilgili tüm bu üst düzey işlevlerin yerleşim yeri <b>Ego'dur</b>. Ego, id ile dış dünya arasında arabuluculuk yapar ve <b>gerçeklik ilkesine</b> göre çalışır.",
         "Donem": 3
     },
     {
@@ -5517,6 +5791,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Bir şeyi temsil eden, ancak temsil ettiği şeyle arasında <b>doğrudan ya da doğal bir ilişkisi olmayan</b> (rastlantısal, keyfi) sinyale <b>sembol</b> adı verilir. Semboller, anlamlarını genellikle kültürel uzlaşma ve öğrenme yoluyla kazanır (Örn: Dil, bayraklar).",
         "Donem": 3
     },
     {
@@ -5537,6 +5812,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "İçgüdüsel sembolleştirme ile ilişkili olup, <b>insanların ortak deneyimlerinden</b> kaynaklanan ve kültürler arası bağlamda benzer anlamlar taşıyan işaretlere <b>Evrensel Semboller</b> denir. Bu kavram genellikle Carl Jung'un <b>arketipler</b> kuramıyla ilişkilidir ve kolektif bilinç dışının ürünüdür.",
         "Donem": 3
     },
     {
@@ -5557,6 +5833,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Semboller anlam kaynaklarına göre genellikle <b>Evrensel</b>, <b>Geleneksel (Kültürel)</b> ve <b>Rastlantısal (Kişisel)</b> olarak gruplandırılır. Eğer seçenekler arasında bu üç gruptan herhangi biri veya bir başka yarı-dilbilimsel kavram (örneğin <b>indeks</b> veya <b>sinyal</b>) varsa, diğerlerinden farklı olan bu kavramdır. Sembol tipleri bağlamında, Rastlantısal semboller kişisel ve idiyosenkratik olduğu için, kültürel veya türsel olarak paylaşılan diğer iki gruptan (Geleneksel ve Evrensel) farklı bir grupta yer alır.",
         "Donem": 3
     },
     {
@@ -5577,6 +5854,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "İd'in (alt benlik) temel özellikleri şunlardır: Yalnızca <b>haz ilkesine</b> göre çalışır; tamamen <b>bilinç dışıdır</b> ve mantık kuralları değil, <b>bilinç dışı kuralları</b> (I) geçerlidir. <b>Duygusaldır, örgütlenmemiştir</b> ve çelişkileri barındırabilir (II). Ayrıca <b>dış dünya ile bağlantısı yoktur</b> (III), sadece içsel dürtülerin tatminini ister. Bu nedenle sıralanan maddelerin hepsi idin özelliklerindendir.",
         "Donem": 3
     },
     {
@@ -5597,6 +5875,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "İletişim bağlamında mesajın temel işlevleri arasında <b>bilgilendirme</b>, <b>ikna etme</b>, <b>eğlendirme</b>, <b>sosyal ilişki kurma</b> ve yönlendirme yer alır. Mesaj, iletişimin bir bileşenidir ve ruhsal aygıtın yapısal işlevleriyle (örneğin, <b>savunma mekanizmalarını harekete geçirme</b> veya <b>gerçeklik ilkesini uygulama</b>) doğrudan ilişkili değildir; bu işlevler Egonun sorumluluğundadır.",
         "Donem": 3
     },
     {
@@ -5617,6 +5896,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Rastlantısal semboller</b> (Idiosyncratic Symbols), anlamlarını bireyin <b>kişisel, öznel deneyimlerinden</b> alan sembollerdir. Bu semboller, kültürel olarak öğrenilmemiş veya evrensel olarak paylaşılmayan, kişiye özgü çağrışımlarla yüklüdür. Örneğin, çocukluk anısından kalan belirli bir oyuncak veya sadece size özel bir anlam ifade eden bir koku rastlantısal semboldür.",
         "Donem": 3
     },
     {
@@ -5637,6 +5917,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Semboller genellikle <b>Evrensel</b> (türsel ortak deneyim), <b>Geleneksel</b> (kültürel uzlaşma) ve <b>Rastlantısal</b> (kişisel deneyim) gruplarına ayrılır. Diğer iki grup yaygın ve paylaşılan anlamlara dayanırken, <b>Rastlantısal Semboller</b> bireysel ve öznel deneyimlerle sınırlıdır ve bu yönüyle diğerlerinden farklı bir grupta yer alır.",
         "Donem": 3
     },
     {
@@ -5657,6 +5938,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Reklam mesajlarında semboller, <b>duygusal çağrışım yaratma</b>, <b>marka kimliğini temsil etme</b> ve <b>hızlı anlam transferi</b> işlevlerini görür. Semboller genellikle bir ürünün <b>fiyatını veya teknik detaylarını somut ve rasyonel olarak sunma</b> işlevini yerine <u>getirmez</u>; bu tür işlevler daha çok metinsel veya sayısal verilere aittir.",
         "Donem": 3
     },
     {
@@ -5677,6 +5959,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Sigmund Freud'un zihni buzdağına benzettiği modelde, suyun yüzeyinde kalan ve bireyin o an farkında olduğu, kolayca erişilebilir olan kısım <b>bilinç</b> (Conscious) alanıdır. Bilinç, zihinsel süreçlerin en küçük ve gözlemlenebilir kısmını oluşturur.",
         "Donem": 3
     },
     {
@@ -5697,6 +5980,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>Ego</b>, tamamen bilinç dışı olan <b>İd'in</b> anlık tatmin dürtüleri ile <b>dış çevre</b> (gerçeklik) ve Süperegonun ahlaki talepleri arasında denge kurarak <b>arabuluculuk</b> görevini üstlenir. Ego, gerçeklik ilkesine göre hareket ederek idin enerjisini uygun yollara kanalize eder.",
         "Donem": 3
     },
     {
@@ -5717,6 +6001,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Süperego, <b>vicdan</b> ve ideal benlikten oluşur. İşlevleri ahlaki yargılama ve özdeğerlendirmedir. <b>Özeleştiri sonucu kendine ceza verme</b> (I) ve yapılan <b>hataların düzeltilmesi ve pişmanlık</b> (II) Süperegonun vicdan bileşeniyle ilgilidir. Gerçekle ilişki kurması (III) ve motor işlevler (IV) ise <b>Egonun</b> temel işlevleridir.",
         "Donem": 3
     },
     {
@@ -5737,6 +6022,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Psikanalitik teoriye göre, <b>ego</b>, id (alt benlik) ve süperego (üst benlik) arasında denge kuran ve gerçeklikle teması sağlayan zihinsel yapıdır. Ego, hazzı erteleyebilme, gerçekliği değerlendirme ve problem çözme gibi işlevlere sahiptir. Ego'nun temel işlevi, <b>gerçeklik ilkesine</b> uygun olarak hareket etmek ve id'in anlık dürtülerini kabul edilebilir yollarla tatmin etmeye çalışmaktır. Ego'nun işlevlerinden biri olmayan şey, genellikle <b>anlık haz ilkesiyle</b> hareket etmek veya ahlaki mükemmeliyet arayışında olmaktır (bunlar sırasıyla id ve süperego'nun işlevleridir).",
         "Donem": 3
     },
     {
@@ -5757,6 +6043,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Rüyalarda olan işleyişe benzetilen zihinsel işleyiş <b>Birincil Süreç Düşüncesi</b>'dir. Sigmund Freud tarafından tanımlanan bu süreç, mantık, zaman ve mekan kurallarından bağımsızdır. Bilinçdışı ile ilişkilidir ve temel amacı, id'in anlık arzu ve ihtiyaçlarını, genellikle sembolik veya gerçek dışı yollarla, <b>dilek gerçekleştirme</b> (wish fulfillment) yoluyla tatmin etmektir. Bunun aksine, bilincin hakim olduğu <b>İkincil Süreç Düşüncesi</b>, gerçeklik ilkesine bağlıdır ve mantıksal, rasyonel düşünmeyi içerir.",
         "Donem": 3
     },
     {
@@ -5777,6 +6064,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Bir şeyi temsil eden; ancak onunla doğrudan ya da doğal bir ilişkisi olmayan sinyale <b>Sembol</b> denir. Semboller, kültürel olarak öğrenilen ve üzerinde uzlaşılmış keyfi göstergelerdir. Örneğin, bir ülkenin bayrağı veya trafik ışıklarındaki renkler semboldür. İlişki doğal veya nedensel değil, <b>uzlaşmaya dayalı</b> (conventional) bir ilişki biçimidir. Bu, dumanın ateşi doğal olarak işaret ettiği <b>indeks</b> ya da bir fotoğrafın nesnesine benzediği <b>ikon</b> kavramlarından farklıdır.",
         "Donem": 3
     },
     {
@@ -5797,6 +6085,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "İletişim sürecinde mesaj, kaynaktan alıcıya aktarılan sembolize edilmiş bilgidir. Mesajın temel işlevleri arasında <b>bilgilendirme</b>, <b>ikna etme</b>, eğlendirme, duygu ifade etme veya bir eylemi başlatma bulunur. Mesajın işlevi olmayan bir durum genellikle iletişim sürecinin diğer temel ögelerine ait bir fonksiyondur. Örneğin, <b>geri bildirim sağlama</b> alıcının bir işleviyken; mesajın kodlanması kaynağın, kodun çözülmesi ise alıcının işlevidir. Mesajın kendisi bu mekanik süreçleri gerçekleştirmez, bu süreçlere konu olur.",
         "Donem": 3
     },
     {
@@ -5817,6 +6106,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Bilinçaltını, gizli arzuları ve davranışların gerçek nedenlerini ortaya çıkarmaya çalışan ve bu bilgiyi reklam mesajlarını çözümlemede kullanan yöntem <b>Psikanalitik Çözümleme</b>'dir (veya türevi olan Güdü Araştırması/Motivation Research). Bu yöntem, Sigmund Freud'un teorilerine dayanır ve insanların satın alma kararlarının genellikle rasyonel değil, bilinçaltındaki <b>id, ego ve süperego</b> arasındaki çatışmalardan kaynaklanan güdülerden etkilendiğini varsayar. Reklam mesajları bu gizli güdülere (cinsellik, güç, statü vb.) hitap etmek üzere tasarlanır ve bu analiz yöntemi mesajların etkinliğini anlamak için kullanılır.",
         "Donem": 3
     },
     {
@@ -5837,6 +6127,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklamın toplumbilimsel açıdan analizinde incelenen temel kavramlar arasında <b>sosyoekonomik sınıf</b> (I), bireylerin ve grupların toplumdaki konumunu belirten <b>statü</b> (II) ve toplumsal normları oluşturan <b>değerler</b> (III) yer alır. Bu üç kavram da reklamın toplumsal yapıyı nasıl yansıttığını veya yeniden ürettiğini anlamak için kritik öneme sahiptir. (Doğru şıkkın I, II ve III olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5857,6 +6148,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Ekonomi-Politik Yaklaşım, <b>toplumsal güç ve iktidar ilişkilerini</b> (I) ve <b>eşitlik, hakkaniyet, adalet</b> gibi değer yargılarını (III) incelemeyi hedefler. Ancak bu yaklaşım, eleştirel yapısı gereği, var olan egemen yapı tarafından yayılan <b>mit ve masalları</b> yaygınlaştırmaya çalışmaz, aksine onları eleştirir. Dolayısıyla II. madde, bu yaklaşımın bir özelliği <u>değildir</u>. (Doğru şıkkın Sadece II olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5877,6 +6169,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "<b>Emile Durkheim</b>, toplumsal olguların nesnel bir şekilde incelenmesini sağlayacak metodolojik kurallar belirlemiştir. Bunlar arasında, kişisel duyguların dışlanmasını gerektiren <b>Nesnellik Kuralı</b> (I) ve bilimsel temele dayandırılmasını sağlayan <b>Kanıtların İleri Sürülmesi Kuralı</b> (III) bulunur. <b>Öznellik Kuralı</b> (II) ise Durkheim'in bilimsel toplumbilim anlayışına tamamen aykırıdır. (Doğru şıkkın I ve III olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5897,6 +6190,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "<b>Max Weber</b>'in toplumbilimsel analiz yönteminin temelinde, olayların özneler tarafından yüklenen anlam üzerinden anlaşılması (<b>Verstehen</b>) ve <b>İdeal Tip</b> kavramı yer alır. Weber ayrıca araştırmacının kişisel değer yargılarından kaçınması gerektiğini (<b>Değerden Bağışıklık</b>) savunur. <b>Nesnellik Kuralı</b> ise daha çok Durkheim'in metodolojisiyle ilişkilendirilen temel bir kuraldır. (Doğru şıkkın Nesnellik Kuralı olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5917,6 +6211,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Toplumbilimcilerin reklama yönelik temel görüşleri çok boyutludur. Reklamın bir <b>manipülasyon aracı</b> (I) olabileceği kadar, bir toplumun güncel <b>estetik anlayışının</b> (II) ve daha genel olarak <b>toplumsal değişimin ve dönüşümün</b> (III) önemli bir göstergesi olduğu kabul edilir. Bu üç ifade de sosyolojik analizde reklamın rolünü tanımlar. (Doğru şıkkın I, II ve III olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5937,6 +6232,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Toplumbilimsel perspektiften bakıldığında reklamlar, hem <b>yapısal (ekonomik)</b> hem de <b>kültürel (simgesel)</b> boyutlarıyla önem kazanır. Yapısal boyut, reklamın ekonomik sistemdeki rolünü ve güç ilişkilerini incelerken; kültürel boyut, reklamın ürettiği sembolleri, değerleri ve toplumsal anlamları analiz eder. (Doğru şıkkın Yapısal ve Kültürel olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5957,6 +6253,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Toplum bilimciler, reklamları analiz etmeye başvururlar çünkü reklamlar, toplumdaki <b>değer yargıları, statü hiyerarşileri</b> ve <b>egemen ideolojiler</b> hakkında önemli ipuçları sunar. Reklamlar bu yapıları yansıtır, onaylar veya yeniden inşa eder. Analiz, toplumsal yapının işleyişini anlamayı hedefler. (Doğru şıkkın Toplumsal yapıları, değerleri ve ideolojiyi anlamak olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5977,6 +6274,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Ekonomi-Politik yaklaşım, iletişimin egemen güçlerce belirlendiği varsayımına dayanır. Bu nedenle <b>toplumsal güç ve iktidar ilişkilerini</b> irdeler (I), var olan <b>egemen yapıya karşı çıkar</b> (II) ve <b>eşitlik/adalet</b> gibi değer yargılarını inceleme alanı olarak belirler (III). Üç madde de bu yaklaşımın temel özelliklerindendir. (Doğru şıkkın I, II ve III olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -5997,6 +6295,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklama dair temel sosyolojik görüşler, onun sadece ticari bir araç olmaktan öte toplumsal bir rol üstlendiğini kabul eder. Reklam bir <b>manipülasyon aracı</b> (I), toplumun <b>estetik anlayışının göstergesi</b> (II) ve <b>toplumsal değişimin</b> (III) önemli bir işaretidir. (Doğru şıkkın I, II ve III olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6017,6 +6316,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Toplumbilimsel analizin temel şartı <b>nesnelliktir</b>. Geçerli bir toplumbilimsel analiz, araştırma konusunu oluşturan toplumsal olguları, araştırmacının kişisel ön yargılarından bağımsız olarak, bilimsel yöntemlerle <b>nesnel</b> bir şekilde inceler. (Doğru şıkkın Toplumsal olguları nesnel olarak inceler olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6037,6 +6337,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Toplumbilimsel analizin bilimsel niteliğini korumak için, araştırmacının <b>nesnellik</b> ve <b>değerden bağımsızlık</b> ilkelerine uyması gerekir. Kişisel deneyimler, ne kadar yoğun olursa olsun, bilimsel kanıt olarak kullanılamaz; kanıtlar geçerli ve güvenilir veri toplama yöntemleriyle elde edilmelidir. (Doğru şıkkın Kişisel deneyimlerini kanıt olarak kullanmalıdır olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6057,6 +6358,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "<b>Max Weber</b>'in <b>İdeal Tip</b> tanımı, analiz ve karşılaştırma amacıyla kullanılan, belirli olguların mantıksal olarak tutarlı, tekil ve <b>soyutlanmış bir kavramsal kurgusudur</b>. İdeal Tip, gerçekliği anlamak için bir araçtır; ancak gerçekliğin kendisi değildir, bu nedenle gerçekliğin tam ve doğru bir tasviri <u>değildir</u>. (Doğru şıkkın Gerçekliğin tam ve doğru bir tasviridir olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6077,6 +6379,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Reklamın toplumbilimsel analizinde incelenen temel kavramlar <b>Sosyoekonomik Sınıf</b>, <b>Statü</b> ve <b>Değerler</b> gibi toplumsal ve kültürel yapıya ilişkin kavramlardır. <b>Algı Eşiği</b> ise bireysel psikoloji ve duyusal işleyişle ilgili bir kavram olup, toplumbilimsel analizin merkezinde yer almaz. (Doğru şıkkın Algı Eşiği olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6097,6 +6400,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "1980'li yıllarda gelişen ve modernizmin evrensel akılcılığına, nesnelliğe ve büyük anlatılara karşı çıkan düşünce akımı <b>Postmodernizm</b>'dir. Postmodern düşünce, bilginin göreceliğini ve kültürel metinlerin yorumlanmasının önemini vurgular. (Doğru şıkkın Postmodernizm olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6117,6 +6421,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Reklam ve toplum arasındaki etkileşim, reklamın toplumu sadece yansıttığı ya da sadece etkilediği tek yönlü bir ilişki değildir. Reklamlar, toplumsal değerleri yansıtıp onaylarken, aynı zamanda tüketim pratikleri ve yeni yaşam biçimleri yaratarak toplumu <b>şekillendirir</b>. Bu nedenle ilişki <b>iki yönlü ve karşılıklı etkileşim</b> şeklindedir. (Doğru şıkkın İki yönlü ve karşılıklı etkileşim olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6137,6 +6442,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Fransız sosyolog <b>Emile Durkheim</b>, toplumbilimin bilimselleşmesi gerektiğini savunmuş ve toplumsal olguların (kolektif bilinç, normlar, yasalar vb.) dışsal, zorlayıcı ve bağımsız 'şeyler' (choses) olarak ele alınıp, <b>nesnel bir yöntemle</b> incelenmesini önermiştir. (Doğru şıkkın Emile Durkheim olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6157,6 +6463,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Toplumbilimsel analiz sürecinin bilimsel geçerliliğe sahip olması için, araştırmacının kişisel yargılarını ve değerlerini çalışmasına karıştırmaması şarttır. Bu durum, <b>nesnellik ve değerden bağımsızlık</b> (Weber'in ilkesi) olarak adlandırılır. (Doğru şıkkın Nesnellik ve değerden bağımsızlık olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6177,6 +6484,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Mesajın içeriğinden (ne dediğinden) çok, mesajın hangi <b>göstergeler, semboller ve kodlar</b> aracılığıyla (nasıl) üretildiğini ve anlamlandırıldığını inceleyen bilimsel analiz yöntemi <b>Göstergebilimsel/Simgesel Analiz</b>'dir. Bu analiz, metinlerin kültürel anlamlarını ortaya çıkarmayı amaçlar. (Doğru şıkkın Göstergebilimsel/Simgesel Analiz olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6197,6 +6505,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Ekonomi-Politik yaklaşım eleştireldir. <br/>I. İletişimin ve bilincin dominant siyasi/ekonomik güçler tarafından belirlendiği varsayımıyla <b>güç ve iktidar ilişkilerini</b> irdeler. <br/>II. Var olan ideolojiyi eleştirdiği için <b>mit ve masalları yıkmayı</b> amaçlar. <br/>III. Toplumsal fayda ve <b>adalet gibi değer yargılarını</b> inceleme alanı olarak belirler. (Doğru şıkkın I, II ve III olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6217,6 +6526,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Verilen ifade, iletişimin ve toplumdaki bilincin üretiminin temel olarak <b>ekonomik mülkiyet ve siyasi kontrol</b> tarafından belirlendiği savını içerir. Bu görüş, <b>Ekonomi-Politik Yaklaşım</b>'ın temel tezidir ve bu yaklaşım, iletişim araçlarını sermayenin bir parçası olarak analiz eder. (Doğru şıkkın Ekonomi-Politik Yaklaşım olduğu varsayılmıştır.)",
         "Donem": 3
     },
     {
@@ -6237,6 +6547,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Durkheim, toplumsal olguları bilimsel olarak incelenmesi gereken, dışsal ve zorlayıcı <b>şeyler</b> (facts) olarak nitelendirir. Buna karşın, <b>Max Weber</b>'in toplumbilimi anlamaya (Verstehen) odaklanır ve toplumbilimin inceleme nesnesini, bireylerin öznel anlam yüklediği <b>toplumsal eylem</b> olarak belirler. Bu nedenle boşluğa en uygun ifade \"toplumsal eylem\" veya eylemin ardındaki \"anlam\"dır.",
         "Donem": 3
     },
     {
@@ -6257,6 +6568,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Emile Durkheim'ın toplumbilimsel analize dair geliştirdiği temel kuralların başında, <b>toplumsal olguların şey gibi ele alınması</b> gerekliliği gelir. Durkheim, toplumsal olguları kişisel önyargılardan arındırmak ve onları bilimsel bir nesnellikle incelemek için, onları biyolojik veya fiziksel nesneler gibi ele almayı zorunlu kılmıştır. Bu, toplumbilimin bağımsız bir bilim dalı olabilmesi için kritiktir.",
         "Donem": 3
     },
     {
@@ -6277,6 +6589,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Toplumbilimsel analiz, reklamların sadece tüketimi teşvik eden ticari mesajlar olmasının ötesinde, toplumsal ve kültürel bir olgu olarak değerlendirilmesine olanak sağlar. Reklamlar, içinde bulundukları toplumun <b>değerlerini</b>, <b>normlarını</b>, toplumsal cinsiyet rollerini ve <b>ekonomik eşitsizliklerini</b> yansıtır. Toplumbilimsel analiz, reklamların bu toplumsal bağlam içinde nasıl bir işlev gördüğünü ve bireyler ile toplum üzerindeki etkilerini incelemeyi mümkün kılar.",
         "Donem": 3
     },
     {
@@ -6297,6 +6610,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Bahsedilen 'Toplumbilimsel Yöntemin Kuralları' (The Rules of Sociological Method) adlı eserin yazarı <b>Emile Durkheim</b>'dır. Durkheim, toplumu bir <b>organizmaya</b> benzetir (Organik Benzetme). Bu yaklaşıma göre, toplumun her bir parçası (kurumlar, yapılar) hayati bir <b>işleve</b> sahiptir ve bu işlevler, toplumun bütünlüğünün ve sürekliliğinin korunması için zorunludur. Bu yaklaşım, <b>işlevselci</b> kuramın temellerini oluşturur.",
         "Donem": 3
     },
     {
@@ -6317,6 +6631,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu tanım, doğrudan <b>Toplumbilimsel Analiz</b> yöntemini ifade etmektedir. Toplumbilimsel analiz, bireysel eylemlerin veya yüzeydeki olayların ötesine geçerek, bu olaylara neden olan <b>toplumsal ilişkileri</b>, yapısal sorunları ve çatışmaları bilimsel yöntemlerle incelemeyi hedefler. Elde edilen veriler sayesinde, sadece mevcut durumu anlamakla kalmaz, aynı zamanda gelecekteki <b>toplumsal değişim</b> eğilimleri üzerine bilimsel temellere dayanan tahminler geliştirilebilir.",
         "Donem": 3
     },
     {
@@ -6337,6 +6652,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Çeşitli gruplar hakkında sahip olduğumuz genelleştirilmiş, basitleştirilmiş ve çoğu zaman yargılayıcı olan kaba fikirler, kanaatler ve imajlar <b>stereotip</b> veya <b>basmakalıp yargı</b> olarak adlandırılır. Bu kavramlar, günlük hayatta ve kitle iletişim araçlarında sıkça kullanılır ve bir grubun tüm üyelerine atfedilir.",
         "Donem": 3
     },
     {
@@ -6357,6 +6673,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Rutherford gibi teorisyenler, reklamların toplumsal cinsiyetçi rol açısından kadını genellikle <b>gençlik</b>, <b>zayıflık</b>, <b>güzellik</b> ve <b>cinsel çekicilik</b> gibi belirli fiziki özelliklerle temsil ettiğini belirtir. Geleneksel reklam kalıplarında, <b>güçlü, kaslı</b> ya da <b>yaşlı</b> gibi özellikler, temsil edilen ideal kadına ait fiziki özelliklerden biri <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -6377,6 +6694,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Bir malı, hizmeti veya fikri halka duyurmak, kabul görmesini sağlamak ve böylece satışını (sürümünü) artırmak amacıyla denenen tüm iletişim çabalarına <b>reklam</b> ya da <b>tanıtım</b> adı verilir. Reklam, bu amaçlara ulaşmak için kullanılan en temel pazarlama iletişimi aracıdır.",
         "Donem": 3
     },
     {
@@ -6397,6 +6715,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Cinsiyet rollerinin nasıl oluştuğuna dair sosyolojide ve psikolojide farklı yaklaşımlar mevcuttur. Bunlar arasında <b>Biyolojik Yaklaşım</b> (doğuştan gelen farklara odaklanır), <b>Kültürel Yaklaşım</b> (toplumsal öğrenme ve normlara odaklanır) ve <b>Fonksiyonalist Yaklaşım</b> (Parsons'ın rolleri gibi) temel yaklaşımlardır.",
         "Donem": 3
     },
     {
@@ -6417,6 +6736,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Navaro'ya göre ataerkil anlayış, erkekler için katı 'Şöyle ol!' kalıpları dayatır. Bu kalıplar genellikle <b>güçlü, rekabetçi, rasyonel ve bağımsız</b> olmayı içerir. Bu kalıpların dışında kalan ve geleneksel olarak kadınlara atfedilen roller (örneğin, <b>duygusal olmak</b> veya <b>ev içi rollerde pasif kalmak</b>) erkek için dayatılan 'Şöyle ol!' kalıplarından <u>değildir</u>.",
         "Donem": 3
     },
     {
@@ -6437,6 +6757,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Biyolojik cinsiyetten farklı olarak, <b>toplumsal cinsiyet rolleri</b> bir toplumun kadın ve erkek olmaya yüklediği beklentileri ve davranış biçimlerini ifade eder. Bu roller, bireyin toplum içindeki <b>sosyal statüsünü</b> belirlerken, aynı zamanda davranışlarını da biçimlendirir ve onlara anlam yükler.",
         "Donem": 3
     },
     {
@@ -6457,6 +6778,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Sosyolog <b>Talcott Parsons</b>, toplumun istikrarı için gerekli gördüğü rolleri tanımlarken, erkek cinsiyet rolünü dış dünyaya odaklı ve görev odaklı olan <b>araçsal</b> (instrumental), dişi cinsiyet rolünü ise aile içi uyumu ve duygusal desteği sağlayan <b>dışavurumsal</b> (expressive) roller olarak ayırmıştır.",
         "Donem": 3
     },
     {
@@ -6477,6 +6799,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "<b>Kültürel yaklaşıma</b> göre, kadın ve erkek rolleri doğuştan gelen biyolojik özellikler tarafından değil, belirli bir kültürün normları, değerleri ve öğrenilmiş davranış kalıpları tarafından <b>toplumsal</b> (sosyal) olarak belirlenmektedir. Bu roller, toplumsallaşma süreciyle öğrenilir.",
         "Donem": 3
     },
     {
@@ -6497,6 +6820,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Cinsiyetçi rol süreci, bireyin toplumun beklentilerine uygun rolleri edinme aşamalarını içerir. Bu süreç, öncelikle <b>Toplumsallaşma</b> (sosyal normların öğrenilmesi) ile başlar, ardından bu rollerin <b>Rolün öğrenilmesi</b> aşaması gelir ve son olarak bireyin bu rolleri kişiliğinin bir parçası olarak benimsemesi, yani <b>İçselleştirme</b> aşamasıyla tamamlanır. Dolayısıyla bu sürecin gerçekleşmesi I, II ve III aracılığıyla sağlanır.",
         "Donem": 3
     },
     {
@@ -6517,6 +6841,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Verilen tanım, <b>stereotipleri</b> (basmakalıp yargıları) ifade eder. Stereotipler, çeşitli gruplar hakkında geliştirilen ve günlük konuşmalardan kitle iletişim araçlarına kadar pek çok yerde iletilen, aşırı genelleştirilmiş, <b>kaba fikirler</b>, kanaatler ve imajlardır.",
         "Donem": 3
     },
     {
@@ -6537,6 +6862,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Erkek ve dişi cinsiyet rollerini 'araçsal' ve 'dışavurumsal' olarak tanımlayan ve işlevselci yaklaşımın önemli temsilcisi olan sosyolog <b>Talcott Parsons</b>'dır. Bu ayrım, geleneksel aile yapısındaki işbölümünü açıklamaya yönelikti.",
         "Donem": 3
     },
     {
@@ -6557,6 +6883,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Cinsiyet rolü teorisine göre, bireyler toplumsal rolleri üç temel süreç aracılığıyla edinir: Bu süreçler sırasıyla <b>Rolün öğrenilmesi</b> (gözlem ve eğitim), <b>Toplumsallaşma</b> (toplumun beklentilerine uyum) ve <b>İçselleştirme</b> (rolleri kişiliğin bir parçası haline getirme) aşamalarıdır.",
         "Donem": 3
     },
     {
@@ -6577,6 +6904,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Rol kavramının toplumsal cinsiyet uyarlamalarında, toplum bireyin cinsiyetine bağlı olarak iki genel rol bekler. Bu iki rol, toplumsal olarak inşa edilmiş <b>kadınlık rolü</b> (feminen roller) ve <b>erkeklik rolü</b> (maskülen roller) olarak mevcuttur. Bireyler, atandıkları bu rolleri canlandırmaları beklenir.",
         "Donem": 3
     },
     {
@@ -6597,6 +6925,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Bir toplumdaki 'kadınlık' ve 'erkeklik' tanımlarını, onlara ilişkin imajları, stereotipleri, rollerin statülerini, cinsiyete dayalı işbölümünü ve cinsler arası ilişkilerin düzenlenmesini kapsayan geniş yapı, o toplumun <b>toplumsal cinsiyet sistemi</b>ni (veya rejimi) oluşturmaktadır. Bu sistem, toplumsal yaşamın pek çok yönünü belirler.",
         "Donem": 3
     },
     {
@@ -6617,6 +6946,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Cinsiyet rollerindeki farklılıkların temelini, kadın ve erkek arasındaki <b>doğuştan gelen kapasite ve yetenek farklılıklarına</b> dayandıran yaklaşım <b>Biyolojik Yaklaşım</b>dır. Bu yaklaşım, fiziki ve hormonal farklılıkların toplumsal rollerin dağılımında belirleyici olduğunu öne sürer.",
         "Donem": 3
     },
     {
@@ -6637,6 +6967,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "<b>Kültürel Yaklaşım</b> (veya Sosyal İnşacılık), cinsiyet rollerinin biyolojik temellerden ziyade, kültürel normlar, gelenekler ve öğrenme süreçleri aracılığıyla <b>toplumsal olarak belirlendiğini</b>, yani toplum tarafından inşa edildiğini savunan temel yaklaşımdır.",
         "Donem": 3
     },
     {
@@ -6657,6 +6988,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Reklam filmlerinde erkekler genellikle <b>otoriter, aktif, profesyonel, kahraman</b> veya <b>rasyonel karar verici</b> rollerinde temsil edilirler. Geleneksel cinsiyetçi kalıplarda, erkekler <b>pasif, duygusal açıdan kırılgan</b> ya da ana rolü <b>ev işleri yapmak</b> olan roller çerçevesinde temsil <u>edilmezler</u>; bu roller genelde kadınlara ayrılmıştır.",
         "Donem": 3
     },
     {
@@ -6677,6 +7009,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "İletişim, medya ve sosyoloji çalışmalarında, <b>basmakalıp</b>, kalıplaşmış ve abartılmış genel bir örnek veya fikir anlamında kullanılan kavram <b>stereotip</b>tir. Stereotipler, bireylerin karmaşık gerçekliği basitleştirerek anlamlandırmasına yardımcı olan zihinsel kısayollardır.",
         "Donem": 3
     },
     {
@@ -6697,6 +7030,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "<b>Cinsiyet (Sex)</b>, bir bireyin doğuştan gelen ve genetik, hormonal veya anatomik farklılıklarla belirlenen <b>biyolojik</b> statüsünü (erkek veya kadın olma) ifade eder. Bu, toplumsal ve kültürel olarak inşa edilen <b>toplumsal cinsiyet (gender)</b> kavramından ayrılır.",
         "Donem": 3
     },
     {
@@ -6717,6 +7051,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "<b>Albert Bandura'nın Sosyal Öğrenme Teorisi</b>ne göre, çocuklar dahil bireyler, gözlem ve taklit yoluyla öğrenirler. Çocuklar için ilk ve en önemli modeller, hayran oldukları ve sürekli etkileşimde bulundukları <b>ebeveynleri</b>dir. Çocuklar, ebeveynlerinin standart davranışlarını taklit ederek cinsiyet rollerini öğrenmeye başlarlar.",
         "Donem": 3
     },
     {
@@ -6737,6 +7072,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Verilen tanım, insanların çeşitli gruplar hakkında sahip oldukları basitleştirilmiş, genelleştirilmiş ve genellikle duygusal yüklü olan <b>kaba fikirler, kanaatler ve imajları</b> açıklamaktadır. Bu tür toplumsal olarak geliştirilen ve iletilen olumlu ya da olumsuz imajlara <b>Kalıp Yargı</b> (Stereotip) denir. Kalıp yargılar, gerçekliği basitleştiren bilişsel kısayollar olarak işlev görür, ancak genellikle bir gruba mensup tüm bireyleri tek tipleştirerek yanlış genellemelere yol açar. Bu tanım, kalıp yargının medyada ve günlük iletişimde yayılma şeklini de kapsamaktadır.",
         "Donem": 3
     },
     {
@@ -6757,6 +7093,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Reklam filmleri, genellikle geleneksel <b>toplumsal cinsiyet rollerini</b> pekiştirir. Kadına yüklenen yaygın stereotipler arasında; evin düzenini sağlayan <b>ev kadını rolü</b>, pasif, duygusal ve başkalarına <b>bağımlı olma</b>, ve sadece fiziksel çekiciliği vurgulanan <b>cinsel obje</b> rollerini sayabiliriz. Soru, bu geleneksel stereotiplerden biri <b>olmayanı</b> sormaktadır. Eğer şıklarda <b>profesyonel bir yönetici</b>, <b>teknik uzman</b> veya <b>karar verici lider</b> gibi roller varsa, bu roller geleneksel sınırlayıcı stereotiplere aykırı olduğu için doğru cevap olacaktır.",
         "Donem": 3
     },
     {
@@ -6777,6 +7114,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Soru, 'cinsiyetin biyolojik tanımının ötesinde' olan ve 'psikolojik olarak erkeklik ve kadınlık idealinin <b>kültürel boyutta toplumsal olarak oluşturulmasını</b>' ifade eden kavramı sormaktadır. Bu tanım, doğrudan <b>Toplumsal Cinsiyet</b> (Gender) kavramına işaret eder. <b>Cinsiyet</b> (Sex) biyolojik farklılıkları ifade ederken, <b>Toplumsal Cinsiyet</b> (Gender) ise toplumun kadınlar ve erkekler için uygun gördüğü roller, davranışlar, beklentiler ve kimliklerdir. Bu roller kültürden kültüre değişir ve zamanla öğrenilir/inşa edilir.",
         "Donem": 3
     },
     {
@@ -6797,6 +7135,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Feminist hareketin temel dayanağı, kadınların siyasi, kültürel ve ekonomik alanlarda erkeklerle eşit haklara sahip olması gerektiği yönündedir. Feminizm, <b>cinsiyet rollerinin doğuştan değil, toplumsal olarak inşa edildiğini</b> savunur. Dolayısıyla, feminizm ile ilgili olarak 'Cinsiyet rollerini biyolojik olarak belirlenmiş ve sabit kabul eder' gibi bir ifade <b>yanlıştır</b>. Feminizm tam tersine, bu rolleri sorgulamayı ve değiştirmeyi hedefler. Feminist Kuram, erkeklik ve kadınlık kategorilerinin <b>parçalı ve değişken</b> olduğunu işaret eder.",
         "Donem": 3
     },
     {
@@ -6817,6 +7156,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Feminist analiz yöntemi, kültürel ürünlerin (filmler, reklamlar vb.) <b>ataerkil kültürün ideolojisini</b> nasıl taşıdığını ve <b>toplumsal cinsiyet rollerini</b> nasıl yeniden ürettiğini veya dönüştürdüğünü sorgular. Analiz, sadece içerik değil, aynı zamanda biçimsel yapıları (kamera açıları, kurgu) da ideolojik bağlamda ele alır. Eğer şıklarda 'Feminist analiz sadece içeriğe odaklanır, ideolojik biçimleri göz ardı eder' gibi bir ifade varsa, bu <b>yanlıştır</b>. Feminist analiz, özellikle kadınların <b>erkek egemen zihniyetin bakış açısı</b> üzerinden nasıl konumlandırıldığını araştırmayı hedefler.",
         "Donem": 3
     },
     {
@@ -6837,6 +7177,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Filmlerde feminist analiz yöntemi, kadının beyaz perdedeki temsiliyetini, bu temsiliyetin <b>ataerkil ideoloji</b> ile ilişkisini ve kadının bir <b>görsel haz nesnesi</b> olarak sunulup sunulmadığını inceler. Analiz, filmin teknik unsurlarını (kamera açıları, kurgu, kamera hareketleri) da dahil ederek, sinemanın özü itibarıyla <b>erkek merkezli (fallosentrik)</b> olduğu tezini tartışmaya açar. Dolayısıyla, 'Feminist analiz, filmin teknik özelliklerini (kamera kullanımı) ideolojik sorgulamanın dışında tutar' gibi bir ifade <b>yanlıştır</b>; zira teknik özellikler ideolojinin taşıyıcısıdır.",
         "Donem": 3
     },
     {
@@ -6857,6 +7198,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Feminist film eleştirisine göre, ana akım sinema, kadınları genellikle <b>ataerkil kültürün onayladığı</b> kalıplara hapseden rollerde gösterir. Listede verilen I. Çocuksu karakter (masumiyet ve korunmaya muhtaçlık), II. Sadık eş ve III. Yatıştırıcı anne rolleri, kadınların geleneksel olarak erkeğin dünyasında <b>ikincil ve destekleyici</b> rollerde temsil ediliş biçimlerindendir. Bu nedenle, hepsi (I, II ve III) filmlerdeki kalıplaşmış temsillerdendir.",
         "Donem": 3
     },
     {
@@ -6877,6 +7219,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Douglas ve Kellner gibi feminist kuramcılar, sinemanın tarihi ve anlatım yapısı itibarıyla <b>erkek merkezli</b> olduğunu vurgularlar. Bu bağlamda, feminist film kuramları, sinemanın özü itibarıyla <b>erkek merkezli (fallosentrik)</b> olduğunu öne sürmektedir. Bu kavram, sinemanın bakış açısının, kamera hareketlerinin ve anlatısının erkek egemen ideolojiden beslendiğini ve kadını pasif bir <b>görsel haz nesnesi</b> olarak konumlandırdığını ifade eder.",
         "Donem": 3
     },
     {
@@ -6897,6 +7240,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Feminist analiz yöntemi, kadınların erkek egemen zihniyetin bakış açısı üzerinden, yani <b>ataerkil ideoloji</b> çerçevesinde konumlandırılmasının <b>ideolojik karşılığını</b> ortaya koyar. Bu yöntem, kültürel ürünlerin yalnızca bir eğlence aracı olmadığını, aynı zamanda toplumsal eşitsizlikleri ve cinsiyet rollerini pekiştiren ideolojik mesajlar taşıdığını gösterir.",
         "Donem": 3
     },
     {
@@ -6917,6 +7261,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Feminist hareketin doğduğu toplumsal bağlam, kadınların siyasi, kültürel ve ekonomik alanlarda <b>erkeklerle eşit haklara sahip olmaması</b> ve etkin bir rol üstlenememesiydi. Bu hareket, var olan toplumsal eşitsizliklere karşı bir mücadele olarak ortaya çıktı. Dolayısıyla, eğer şıklar arasında 'Kadınların siyasal alanda erkeklerle eşit temsil oranına ulaşmış olması' gibi bir ifade varsa, bu durum hareketin doğduğu bağlamın bir parçası <b>değildir</b>; zira tam tersi durum hareketin varlık sebebidir.",
         "Donem": 3
     },
     {
@@ -6937,6 +7282,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Feminizm, kadının kültürel olarak kendisine dayatılan rolden farklı bir rol üstlenebilme özgürlüğü için mücadele ederken, bu dayatmayı oluşturan <b>toplumsal cinsiyetçi</b> (gender) olarak tanımlanan özelliklerin ve kalıpların sorgulanmasını hedefler. Amaç, kadınlık ve erkeklik rollerinin <b>biyolojik sabitler değil, kültürel inşa ürünleri</b> olduğunu göstermektir.",
         "Donem": 3
     },
     {
@@ -6957,6 +7303,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Feminist analiz yöntemi, filmin hem içeriğini (olay örgüsü, karakterler) hem de biçimsel özelliklerini inceler. Biçimsel özellikler arasında <b>I. Kamera açıları, II. Kurgu</b> ve <b>IV. Kamera hareketleri</b> yer alır; zira bunlar ideolojiyi taşıyan teknik araçlardır (Örn: 'male gaze'). Ancak <b>III. Olay örgüsü</b> (anlatı yapısı) biçimsel değil, filmin <b>içerik</b> yönüyle ilgili bir özelliktir. Bu nedenle olay örgüsü, doğrudan biçimsel özellikler arasında <b>yer almaz</b>.",
         "Donem": 3
     },
     {
@@ -6977,6 +7324,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 1,
+        "Aciklama": "Bu önerme, feminist kuramın en temel tezi olan <b>cinsiyetin (gender) toplumsal inşa ürünü</b> olduğu fikrini ifade etmektedir. Erkeklik ve kadınlık kategorilerinin <b>parçalı ve değişken</b> olması, bu rollerin <b>biyolojik olarak sabit ve değişmez</b> olmadığını, aksine kültürel, tarihsel ve sosyal bağlamda sürekli değişime açık olduğunu göstermektedir.",
         "Donem": 3
     },
     {
@@ -6997,6 +7345,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Feminist analiz, erkekler tarafından yaratılmış kadın karakterler üzerinden, kalıplaşmış kadınlık rollerinin <b>nasıl yeniden üretildiğini</b> (pekiştirildiğini) ya da aksi durumda kadınların geleneksel rol kalıplarının nasıl dönüştürüldüğünü sorgular. Buradaki temel amaç, ataerkil ideolojinin bu temsiller aracılığıyla <b>statükoyu koruma</b> çabasını ortaya koymaktır.",
         "Donem": 3
     },
     {
@@ -7017,6 +7366,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Feminist kuram ve eleştiri, sinemanın ve genel olarak kültürel alanın erkek egemen yapısını (erkek bakışı/male gaze) eleştirir ve bu durumu değiştirmek için kadınların <b>kültürel üretim</b> sürecinde (yönetmenlik, senaristlik, yapımcılık) <b>daha etkin roller üstlenmesini</b> teşvik eder. Bu, kadınların kendi öznelliklerini ve hikayelerini yansıtan filmler yapabilmesi için önemlidir.",
         "Donem": 3
     },
     {
@@ -7037,6 +7387,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Geniş izleyici kitlesine hitap eden, yüksek <b>ticari kaygılar</b> içeren ve izleyicinin kolayca takip edebileceği <b>klasik anlatım biçimlerine</b> dayanan sinema türü, <b>Ana akım sinema</b> (genellikle Hollywood sineması) olarak adlandırılır. Feminist kuram, bu tür sinemanın <b>ataerkil ideolojiyi</b> ve kalıplaşmış kadın temsillerini en yoğun şekilde yeniden ürettiğini savunur.",
         "Donem": 3
     },
     {
@@ -7057,6 +7408,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 2,
+        "Aciklama": "Kadınların siyasi, kültürel ve ekonomik alanlarda erkeklerle <b>aynı haklara sahip olması</b>, etkin bir rol üstlenmesi ve karar alabilmesi mücadelesi <b>feminist hareketin</b> temelini oluşturur. Feminizm, <b>toplumsal cinsiyet eşitsizliğini</b> ortadan kaldırmayı hedefler.",
         "Donem": 3
     },
     {
@@ -7077,6 +7429,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 5,
+        "Aciklama": "Feminist analiz için doğrudan önemli olan konular; kadınların temsiliyeti, toplumsal cinsiyet rolleri, ideolojinin sinemadaki yansımaları ve 'male gaze' gibi kavramlardır. Filmin <b>bütçe büyüklüğü ve gişe başarısı</b> ise ticari sinema eleştirisi için önemlidir, ancak doğrudan <b>feminist analizin ideolojik sorgulama</b> odağına girmez.",
         "Donem": 3
     },
     {
@@ -7097,6 +7450,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 3,
+        "Aciklama": "Feminist analiz çerçevesinde: I. Film, <b>kurumsal değerlerin</b> aktarılmasına aracı olur. II. Geleneksel kadınlık rolleri, <b>ataerkil kültürün</b> bir ürünüdür. III. Filmde <b>kameranın işleyiş biçimi</b> (bakış açısı), ideolojiyi yansıtır (erkek bakışı). Ancak IV. <b>Görsel haz nesnesi olarak kadın</b> tanımı, kadının edilgenleştirilmesi ve nesneleştirilmesi anlamına gelir; bu durum, 'Kadın karakterin özgürleşimi' ile <b>çelişir</b>. Bu nedenle IV. eşleştirme anlam taşımaz, I, II ve III taşır.",
         "Donem": 3
     },
     {
@@ -7117,6 +7471,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Feminizm, kadınların siyasi ve ekonomik alanlarda eşit haklar elde etmesi için mücadele ettiği gibi, aynı zamanda <b>kültürel temsilleri</b> ve ataerkil ideolojinin günlük hayata etkilerini de sorgular. 'Feminizm sadece siyasal haklara odaklanır, kültürel temsilleri ele almaz' gibi bir ifade <b>yanlıştır</b>. Feminist kuram, kültürel ürünlerin <b>toplumsal cinsiyet eşitsizliğini</b> pekiştirmesindeki rolünü eleştirir.",
         "Donem": 3
     },
     {
@@ -7137,6 +7492,7 @@
         "DersId": 258,
         "OBSDersId": 39129,
         "CevapSira": 4,
+        "Aciklama": "Reklam filmleri, genellikle ana akım sinema gibi <b>kalıplaşmış kadınlık rollerini</b> yeniden üretir. Kadınlar çoğunlukla <b>anne, ev kadını, eş</b> veya sadece <b>görsel haz nesnesi</b> olarak temsil edilir. Bu temsillerin dışında kalan, geleneksel rollere uymayan roller (örneğin <b>Bağımsız, kariyer sahibi ve karar verici</b> kadın temsilleri) reklamlarda genellikle baskın olan rollerden biri <b>değildir</b>.",
         "Donem": 3
     }
 ]

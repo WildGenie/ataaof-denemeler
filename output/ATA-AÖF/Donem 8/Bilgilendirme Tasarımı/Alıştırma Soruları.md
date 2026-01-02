@@ -8,7 +8,7 @@
     - D-) Deneyim yoluyla kazanılmış farkındalık
     - E-) Bilinen şeyler bütünü
 
-    > **Açıklama:** Bilgi; araştırma, gözlem ya da öğrenme yoluyla edinilmiş gerçek, deneyim yoluyla kazanılmış farkındalık veya bilinen şeyler bütünü olarak tanımlanır. Ancak, <b>“amaca yönelik toplanmış veri”</b> enformasyon kavramının tanımıdır. Veri ham gerçekler, enformasyon organize edilmiş veri kümeleri, bilgi ise anlam kazanmış enformasyondur.
+    > **Açıklama:** Bilgi, genellikle <b>işlenmiş enformasyonun anlamlandırılması</b>, <b>deneyim yoluyla elde edilen kavrayış</b> ve <b>insan zihninde depolanıp organize edilen veriler bütünü</b> olarak tanımlanır. Bilginin tanımları arasında yer almayacak olan madde, genellikle bilginin en ham hali olan <b>veri</b> veya henüz işlenmemiş ve anlam yüklenmemiş <b>ham enformasyon</b>dur. Bilgi, veriden farklı olarak bir <b>bağlam</b> ve <b>amaç</b> içerir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi enformasyonun özellikleri arasında <u>yer almaz</u>?</strong>
@@ -18,7 +18,7 @@
     - D-) Verilerin değerlendirilmesinden oluşur.
     - **Cevap E-) Çoğunlukla deneyim yoluyla insanların akıllarında ortaya çıkar.**
 
-    > **Açıklama:** Enformasyon, işlenmiş, yapılandırılmış, açık ve net veridir ve bilgi sistemlerince ele alınır. Bilgi ise enformasyondan sonraki süreci tanımlar ve <b>çoğunlukla deneyim yoluyla insanların akıllarında ortaya çıkar.</b> Bilgi, harekete geçmiş enformasyondur ve kişiselleştirilmiştir.
+    > **Açıklama:** <b>Enformasyon</b> (Information), organize edilmiş ve anlamlı hale getirilmiş veridir. Temel özellikleri arasında <b>doğruluk</b> (accuracy), <b>tamlık</b> (completeness), <b>zamanlılık</b> (timeliness), <b>ilgililik</b> (relevance) ve <b>biçim</b> (form) bulunur. Bu özellikler, enformasyonun kullanılabilirliğini belirler. Enformasyonun özellikleri arasında yer almayacak olan, genellikle daha üst düzey bir kavram olan <b>bilgelik</b> (wisdom) veya <b>etik değer</b> gibi yargısal niteliklerdir; zira enformasyon sadece bir mesaj veya iletişimdir, derin bir kavrayış gerektirmez.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilginin niteliği bakımından gerçekleştirilen sınıflandırmalar arasında <u>yer almaz</u>?</strong>
@@ -28,7 +28,7 @@
     - D-) Sanatsal bilgi
     - E-) Bilimsel bilgi
 
-    > **Açıklama:** Nitelik bakımından bilgi sınıflandırması; <b>gündelik bilgi, bilimsel bilgi, felsefi bilgi, sanatsal bilgi</b> ve <b>din bilgisi</b> gibi kategorileri içerir. Kavramsal bilgi ise, insanın önceki deneyimleri ile yeni edindiği bilgiyi bir araya getirmesiyle üretilen, farklı bir sınıflandırma türüne aittir.
+    > **Açıklama:** Bilginin niteliği bakımından yapılan sınıflandırmalar, bilginin kaynağına, içeriğine ve elde ediliş amacına odaklanır. Temel sınıflandırmalar şunlardır: <b>Gündelik bilgi</b>, <b>Teknik bilgi</b>, <b>Sanatsal bilgi</b>, <b>Bilimsel bilgi</b>, <b>Felsefi bilgi</b> ve <b>Dini bilgi</b>. Bu sınıflandırmalar dışında kalan bir tür, örneğin, bilginin depolanma şekli olan <b>örtük bilgi</b> (tacit knowledge) veya <b>açık bilgi</b> (explicit knowledge) olabilir, çünkü bu, bilginin niteliği yerine yapısıyla ilgilidir.
 
     <hr />
 1. Yöntem bakımından bilgi anlamalı ve açıklamalı bilgi olmak üzere ikiye ayrılır.<br /><strong>Buna göre bu bilgi türleri ve kapsamına giren alanların eşleştirmeleri aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
@@ -38,7 +38,7 @@
     - D-) Açıklamalı bilgi- felsefe, dil, din
     - **Cevap E-) Anlamalı bilgi- felsefe, dil, kültür**
 
-    > **Açıklama:** Yöntem bakımından bilgi, anlamalı ve açıklamalı olarak ikiye ayrılır. <b>Açıklamalı bilgi;</b> matematik, mantık, fizik gibi disiplinlerin sistematik süreçleriyle kazanılır. <b>Anlamalı bilgi ise;</b> felsefe, dil, din, kültür gibi alanların konusu kapsamına giren olguların soyut düzeyde kavranması yoluyla elde edilen bilgi türüdür.
+    > **Açıklama:** Yöntem bakımından bilgi, <b>açıklamalı bilgi</b> ve <b>anlamalı bilgi</b> olarak ikiye ayrılır.<br /><b>Açıklamalı Bilgi</b> (Nomotetik/Genelleyici): Doğal olayları evrensel yasalar çerçevesinde <b>açıklamayı</b> hedefler. Kapsamına giren alanlar <b>Doğa Bilimleri</b> (Fizik, Kimya) ve formel bilimlerdir.<br /><b>Anlamalı Bilgi</b> (İdiografik/Tercüme Edici): Toplumsal ve kültürel olayları <b>anlamayı</b> ve yorumlamayı hedefler. Kapsamına giren alanlar <b>Sosyal Bilimler</b> (Tarih, Sosyoloji, Edebiyat) ve Sanat’tır. Doğru eşleştirme bu ayrımı yansıtmalıdır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisinde niteliği bakımından bilgi türlerinin özne-nesne arasındaki bağı <u>yanlış</u> tanımlanmıştır?</strong>
@@ -48,7 +48,7 @@
     - **Cevap D-) Sanatsal bilgi - akıl yürütme**
     - E-) Bilimsel bilgi - deney, gözlem
 
-    > **Açıklama:** Bilgi türleri ile özne-nesne arasındaki bağlar şu şekildedir: Gündelik bilgi sezgi ve deneyime, dinsel bilgi inanca, teknik bilgi beceri ve yeteneğe, bilimsel bilgi deney ve gözleme dayanır. Ancak <b>sanatsal bilgi, akıl yürütmeye değil; yaratıcılık ve hayal gücüne dayanır.</b> Felsefi bilgi akıl yürütme ile ilişkilidir.
+    > **Açıklama:** Bilgi türleri, <b>özne</b> (bilen kişi) ve <b>nesne</b> (bilinen şey) arasındaki ilişkiyi farklı tanımlar:<br /><b>Bilimsel Bilgi:</b> Özne ve nesne arasındaki bağ <b>tarafsız</b> ve <b>eleştirel</b>dir; amaç nesneyi objektif olarak tanımlamaktır.<br /><b>Gündelik Bilgi:</b> Özne ve nesne arasında <b>duygusal</b> ve <b>subjektif</b> bağ vardır.<br /><b>Felsefi Bilgi:</b> Özne, nesneyi akıl yoluyla sorgular, ilişki <b>reflektif</b> (düşünsel)dir.<br />Bu soruda yanlış tanımlanan bağ, örneğin bilimsel bilginin öznel olduğunu veya gündelik bilginin evrensel yasalar içerdiğini iddia eden bir şık olacaktır, zira bilimsel bilgi <b>objektiflik</b> gerektirir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi sosyolojik açıdan bilginin nitelikleri arasında <u>yer almaz</u>?</strong>
@@ -58,7 +58,7 @@
     - **Cevap D-) İnsanın diğer insanlar üzerindeki baskısını arttırır.**
     - E-) İnsanın diğer varlıklarla olduğu gibi doğayla olan ilişkisinde de belirli bir dengenin korunması sağlanır.
 
-    > **Açıklama:** Sosyolojik açıdan bilgi, insanın sosyal bir varlık olarak anlam kazanmasında rol oynar ve çevresindeki olgular üzerindeki etki gücünü artırır. Bu, insanın doğayla olan ilişkisinde bir denge kurmasını sağlar. Ancak, <b>insanın diğer insanlar üzerinde baskı kurmasını sağlamak</b> bilginin sosyolojik nitelikleri arasında yer almaz.
+    > **Açıklama:** Sosyolojik açıdan bilginin nitelikleri, bilginin bireysel değil, <b>toplumsal bir ürün</b> olduğunu vurgular. Bu nitelikler: <b>toplumsal olarak inşa edilmiş olması</b>, <b>görecelilik</b> (zamana ve kültüre bağlılık), <b>toplumsal dağılım</b>, ve <b>kurumsallaşma</b>dır. Sosyolojik nitelikler arasında yer almayacak olan, genellikle epistemolojinin konusu olan, bilginin içsel yapısıyla ilgili kavramlardır, örneğin <b>kesinlik</b>, <b>mantıksal tutarlılık</b> veya <b>bireysel keşif</b>.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgi sosyolojisinin ortaya çıkışı ve toplumsal açıdan bilginin incelenmesi düşüncesinin öncüleri arasında <u>yer almaz</u>?</strong>
@@ -68,7 +68,7 @@
     - D-) Saint Simon
     - E-) Emile Durkheim
 
-    > **Açıklama:** Bilgi sosyolojisinin ortaya çıkışı ve toplumsal açıdan bilginin incelenmesi düşüncesinin öncüleri arasında <b>Nicolas de Condorcet, Auguste Comte, Karl Marx, Saint Simon</b> ve <b>Emile Durkheim</b> gibi düşünürler yer alır. Karl Popper ise bu alanın öncüleri arasında sayılmaz.
+    > **Açıklama:** <b>Bilgi Sosyolojisi</b>, bilginin toplumsal koşullara bağımlılığını inceler. Bu düşüncenin öncüleri arasında, bilginin toplumsal inşası ve ideolojinin rolü üzerine çalışan <b>Karl Mannheim</b> (en önemli figür), <b>Max Scheler</b>, ve bilginin toplumsal kategorilerle ilişkisini inceleyen <b>Émile Durkheim</b> yer alır. Öncüler arasında yer almayacak bir isim, genellikle konuya epistemolojik/bireysel açıdan yaklaşan veya bilgi sosyolojisinden önce yaşamış bir filozoftur (örneğin, Aristoteles veya Kant).
 
     <hr />
 1. <strong>Bilgi felsefesinin konusu kapsamına giren temel konular arasından bilginin doğruluğunu belirleyen ölçütler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
@@ -78,7 +78,7 @@
     - D-) Apaçıklık
     - **Cevap E-) Benzeşim**
 
-    > **Açıklama:** Bilgi felsefesi kapsamında bir bilginin doğruluğunu belirleyen temel ölçütler; <b>mutabakat</b> (düşünce ile gerçek arasındaki karşılıklılık), <b>bağdaşım</b> (düşünceler arası tutarlılık), <b>apaçıklık</b> (bilginin şüpheye yer vermeyecek şekilde ortaya çıkması) ve <b>yararlılıktır</b> (bilginin amaca uygun oluşu). Benzeşim bu ölçütler arasında yer almaz.
+    > **Açıklama:** Bilgi felsefesi (Epistemoloji), bilginin kaynağını, sınırlarını ve geçerliliğini araştırır. Bilginin doğruluğunu belirleyen temel ölçütler şunlardır: <b>Uygunluk</b> (Correspondence – bilgi nesneye uyuyor mu?), <b>Tutarlılık</b> (Coherence – bilgi sistem içindeki diğer bilgilerle çelişmiyor mu?), <b>Yararlılık</b> (Pragmatism – bilgi uygulanabilir ve faydalı mı?) ve <b>Apaçıklık</b> (Açık ve kesin kanıt). Bu ölçütler arasında yer almayacak olan, bilginin geçerliliğini değil, sadece <b>yayılımını</b>, <b>hacmini</b> veya <b>saklanma biçimini</b> (açık/örtük) ilgilendiren bir maddedir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisinde toplumsal değişim ekseninde toplumsal yapı-toplumsal gelişim eşleştirmesi doğrudur?</strong>
@@ -88,7 +88,7 @@
     - D-) Sanayi toplumu- bilgisayar ve ağ teknolojileri
     - E-) Bilgi toplumu- endüstrileşme
 
-    > **Açıklama:** Toplumsal değişim süreçleri ve temel özellikleri incelendiğinde; tarım toplumu yerleşik düzene geçişi, sanayi sonrası (bilgi) toplumu bilgisayar ve ağ teknolojilerini ifade eder. <b>Sanayi toplumu ise 18. yüzyılın ikinci yarısında buhar gücünün bulunmasıyla başlayan tarihsel süreci tanımlar.</b>
+    > **Açıklama:** Toplumsal gelişim ekseninde, toplumsal yapılar belirli bir temel kaynağa dayanır ve o kaynaktan gelişirler. Doğru eşleştirme şöyledir:<br /><b>Tarım Toplumu:</b> Temel kaynak <b>Toprak</b> ve <b>Emektir</b>.<br /><b>Sanayi Toplumu:</b> Temel kaynak <b>Sermaye</b> ve <b>Makineleşmedir</b>.<br /><b>Bilgi Toplumu:</b> Temel kaynak <b>Bilgi</b>, <b>Teknoloji</b> ve <b>İnovasyondur</b>.<br />Doğru eşleştirme, Sanayi Toplumu – Sermaye/Mekanizasyon veya Bilgi Toplumu – Bilgi/Teknoloji gibi yapının gelişim itkisini doğru yansıtan madde olacaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgi toplumunun özellikleri arasında <u>yer almaz</u>?</strong>
@@ -98,7 +98,7 @@
     - D-) Sürekli olarak yeni bilgi üreten bir toplumdur.
     - E-) Makine gücünün yerine düşünce ve insan aklını koyması ile sanayi toplumlarından ayrılır.
 
-    > **Açıklama:** Bilgi toplumunun temel özellikleri arasında; temel kaynağın bilgi akışı olması, makine gücü yerine insan aklının geçmesi, sürekli yeni bilgi üretimi ve küresel ekonomi gibi kavramların ortaya çıkması yer alır. <b>Büyük fabrikaların üretim ilişkilerini yeniden biçimlendirmesi ise sanayi toplumunun bir özelliğidir.</b>
+    > **Açıklama:** <b>Bilgi toplumu</b>, bilginin üretimi, işlenmesi ve dağıtımının ekonomik ve sosyal yaşamın temel dinamiği haline geldiği toplum tipidir. Temel özellikleri: <b>Bilgi ve teknolojinin stratejik kaynak olması</b>, <b>hizmet sektörünün ağırlık kazanması</b>, <b>ağ yapılanmalarının ve esnek çalışmanın yaygınlaşması</b>, <b>eğitim düzeyinin yükselmesi</b>. Bilgi toplumunun özellikleri arasında yer almayacak olan, genellikle Sanayi Toplumuna ait olan özelliklerdir: örneğin <b>fiziksel sermayenin mutlak egemenliği</b>, <b>katı hiyerarşik örgütlenme</b> veya <b>kitlesel ve standart üretim odaklılık</b>.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi felsefi bilginin özellikleri arasında <u>yer almaz</u>?</strong>
@@ -108,7 +108,7 @@
     - D-) Felsefi düşünce yansıtıcı bir düşünme faaliyetinin sonucudur.
     - **Cevap E-) Felsefi bilgi bir olgunun doğru olup olmadığının araştırılması etkinliğidir.**
 
-    > **Açıklama:** Felsefi bilgi; ussal (akla dayalı), yansıtıcı, bilgelik arayışında olan, hayret ve kuşkudan doğan, sistematik ve bütünsel bir düşünce etkinliğinin sonucudur. Ancak felsefi bilgi, bir olgunun doğruluğunu araştıran <b>bilimsel bilginin</b> aksine, “doğruluğun ne olduğu” sorusuyla ilgilenir.
+    > **Açıklama:** Felsefi bilginin temel özellikleri arasında <b>evrensel</b>, <b>sorgulayıcı</b>, <b>eleştirel</b>, <b>refleksif</b>, <b>öznel</b> (kişisel yoruma dayalı) ve <b>yığılımlı</b> (kümülatif) olması yer alır. Felsefe, bilimde olduğu gibi <b>deney ve gözlemle ispatlanabilir</b> olma özelliğine sahip değildir. Felsefi bilgi, kesin ve dogmatik sonuçlar sunmaktan ziyade, sürekli bir hakikat arayışıdır ve <b>mantıksal tutarlılığa</b> dayanır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi sanayi toplumundan bilgi toplumuna geçiş sürecinin temelinde yatan etkenler arasında <u>yer almaz</u>?</strong>
@@ -118,7 +118,7 @@
     - D-) Medya ilişkilerinin yeniden düzenlenmesi
     - E-) Dijital teknolojilerin her geçen gün ilerlemesi
 
-    > **Açıklama:** Sanayi toplumundan bilgi toplumuna geçişin temelinde <b>bilgi-iletişim teknolojilerinin gelişmesi, internet ağlarının yaygınlaşması, medya ilişkilerinin yeniden düzenlenmesi</b> ve <b>dijital teknolojilerin ilerlemesi</b> yatar. Toplumsal sınıfların belirginleşmesi ise daha çok tarım ve sanayi toplumlarının bir özelliğidir.
+    > **Açıklama:** Sanayi toplumundan bilgi toplumuna geçiş, esas olarak <b>bilişim ve iletişim teknolojilerindeki hızlı ilerlemeler</b>, <b>internetin yaygınlaşması</b>, bilginin ekonomik bir <b>kaynak ve sermaye</b> olarak değer kazanması, <b>küreselleşmenin artması</b> ve hizmet sektörünün ağır basması gibi etkenlere dayanır. Sanayi Devrimi'ne ait unsurlar (örneğin, buhar makinesinin icadı veya tarım devriminin hızlanması) bu geçişin temelinde yatan etkenler arasında yer almaz; onlar önceki toplumsal yapıların temelini oluşturur.
 
     <hr />
 1. Bilgi toplumu farklı düşünür ve yazarlar tarafından farklı isimlerle adlandırılmıştır.<br /><strong>Aşağıdakilerden hangisi bu isimler arasında <u>yer almaz</u>?</strong>
@@ -128,7 +128,7 @@
     - D-) Üçüncü dalga
     - E-) Teknokratik çağ
 
-    > **Açıklama:** Bilgi toplumu, farklı düşünürler tarafından <b>sanayi-sonrası toplum, teknokratik çağ, enformasyon toplumu, modern sonrası çağ, endüstri sonrası toplum</b> ve <b>üçüncü dalga</b> gibi çeşitli isimlerle adlandırılmıştır. Kapitalist toplum ise sanayi toplumunun ekonomik düzenini ifade eden bir kavramdır.
+    > **Açıklama:** Bilgi toplumunu tanımlamak için kullanılan çeşitli eş anlamlı terimler bulunmaktadır. Bunlar arasında <b>Post-Endüstriyel Toplum</b> (Daniel Bell), <b>Ağ Toplumu</b> (Manuel Castells), <b>Enformasyon Toplumu</b>, <b>Dijital Toplum</b> ve <b>Yeni Ekonomi</b> gibi isimler yaygın olarak kabul görmüştür. Bu alternatif adlandırmalar, bilginin üretim ve sosyal yapının merkezinde olduğu dönemi ifade eder.
 
     <hr />
 ## Unite 2
@@ -139,7 +139,7 @@
     - D-) Problemin kolaylıkla çözüme ulaşabilmesini sağlamak
     - **Cevap E-) Bilgileri karmaşık hâle getirmek**
 
-    > **Açıklama:** Bilgilendirme tasarımının hedefleri arasında bilgiyi <b>anlaşılır</b> kılmak, insanların bir mekânda <b>yönlerini bulmalarını sağlamak</b>, <b>kolay etkileşimler</b> oluşturmak ve problemleri <b>kolayca çözüme ulaştırmak</b> bulunur. Bilgileri karmaşık hâle getirmek bu hedeflerin tam tersidir.
+    > **Açıklama:** <b>Bilgilendirme tasarımının</b> (Information Design) temel hedefi, karmaşık verileri ve bilgileri <b>açık, anlaşılır ve etkili</b> bir şekilde sunmaktır. Diğer hedefler arasında <b>erişilebilirliği sağlamak</b>, <b>kullanılabilirliği artırmak</b>, <b>okuyucunun yükünü azaltmak</b> ve bilginin <b>hızlı bir şekilde kavranmasını</b> sağlamak bulunur. Bilgilendirme tasarımının hedeflerinden biri olmayan, genellikle <b>bilgiyi kasıtlı olarak karmaşıklaştırmak</b> veya <b>yanlış yönlendirmek</b> gibi etik olmayan amaçlardır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımında bilginin izleyiciye aktarılmasında kullanılan unsurlardan biri <u>değildir</u>?</strong>
@@ -149,7 +149,7 @@
     - D-) Diyagram
     - E-) Renk
 
-    > **Açıklama:** Bilgilendirme tasarımı, bilgiyi izleyiciye aktarmak için <b>tipografi, görsel, diyagram, renk</b> ve <b>sembol</b> gibi unsurları kullanır. Logo ise genellikle bir markayı veya kurumu temsil eden özel bir tasarım öğesidir ve genel bir bilgilendirme unsuru değildir.
+    > **Açıklama:** Bilgilendirme tasarımında bilginin izleyiciye aktarılmasında kullanılan unsurlar, görsel iletişimin temel yapı taşlarıdır. Bunlar arasında <b>metin (tipografi)</b>, <b>görsel öğeler (resimler, illüstrasyonlar)</b>, <b>grafikler</b> (çizelgeler, diyagramlar), <b>renk</b>, <b>şekil</b> ve <b>boşluk (negatif alan)</b> yer alır. Bu unsurların dışında kalan bir bileşen (örneğin, soyut bir matematiksel denklem) genellikle doğrudan bilginin aktarım unsuru olarak görülmez, ancak bu unsurların içeriği olabilir.
 
     <hr />
 1. <strong>Otto Neurath tarafından ortaya çıkarılmış ve sözcüklerin yerine geçen resimsel dil olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong>
@@ -159,7 +159,7 @@
     - D-) Tipografi
     - E-) Bilgilendirme grafiği
 
-    > **Açıklama:** <b>ISOTYPE (International System of Typographic Picture Education)</b>, Otto Neurath tarafından geliştirilen ve sosyal, sağlık, ekonomi gibi karmaşık verileri halkın kolayca anlaması için sözcükler yerine resimsel bir dil kullanan bir sistemdir. Bu sistem, günümüz piktogramlarının altyapısını oluşturmuştur.
+    > **Açıklama:** Otto Neurath tarafından ortaya çıkarılmış ve sözcüklerin yerine geçen resimsel dil olarak tanımlanan kavram <b>ISOTYPE</b>'tır (International System of Typographic Picture Education). Neurath bu sistemi, istatistiksel ve karmaşık sosyal bilgileri <b>evrensel olarak anlaşılır piktogramlar</b> ve standartlaştırılmış görsel kurallar kullanarak aktarmak amacıyla geliştirmiştir. ISOTYPE, modern infografiklerin ve görselleştirmenin temelini atmıştır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi piktogramların özelliklerinden biri <u>değildir</u>?</strong>
@@ -169,7 +169,7 @@
     - D-) Standart renkler kullanılması
     - E-) Uluslararası olarak anlaşılabilir olması
 
-    > **Açıklama:** Bir piktogramın temel özellikleri <b>sade ve anlaşılır</b> olması, <b>evrensel olarak anlaşılabilir</b> bir niteliğe sahip olması ve uluslararası düzeyde anlaşılabilmesi için <b>standart renklerin</b> kullanılmasıdır. Piktogramlar, mesajı hızlı ve net bir şekilde iletmek için <u>detaylı bir illüstrasyondan kaçınır</u>.
+    > **Açıklama:** Piktogramlar, bir nesneyi veya fikri temsil eden <b>basit, grafiksel işaretlerdir</b>. Temel özellikleri arasında <b>hızlı anlaşılabilirlik</b>, <b>evrensel bir dil oluşturma hedefi</b>, <b>basitleştirilmiş ve stilize edilmiş ikonik temsil</b> yer alır. Piktogramlar, karmaşık veya duygusal nüanslar içeren bilgileri aktarmaktan ziyade, <b>yalın ve net</b> mesajlar iletmeyi amaçlar. Bu nedenle, <b>çok detaylı sanatsal anlatım</b> veya <b>karmaşık metin bazlı bilgilendirme</b> piktogramların özelliklerinden biri değildir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiği <u>değildir</u>?</strong>
@@ -179,7 +179,7 @@
     - D-) Trafik işaretleri
     - **Cevap E-) Hiyerarşi**
 
-    > **Açıklama:** Bilgilendirme grafikleri (infografikler), karmaşık bilgileri görselleştirmek için kullanılır. Bu kapsama <b>haritalar, istatistiksel veri grafikleri, planlar</b> ve <b>trafik işaretleri</b> girer. Hiyerarşi ise bir tasarım ilkesidir, bir bilgilendirme grafiği türü değildir.
+    > **Açıklama:** Bilgilendirme grafiği (infografik), verileri ve bilgileri görselleştirmek için kullanılan tüm görsel araçları kapsar. Örnek olarak <b>haritalar, çizelgeler (grafikler), diyagramlar, zaman çizelgeleri</b> ve <b>karmaşık süreçleri açıklayan akış şemaları</b> sayılabilir. Bu görselleştirme formatlarının dışında kalan, yalnızca metin tabanlı olan veya görsel temsil içermeyen bir unsur bilgilendirme grafiği değildir (örneğin, bir edebiyat eseri veya sadece bir fotoğraf).
 
     <hr />
 1. <strong>“Bir harf, sözcük ya da ifade için kullanılmaktadır ve görsel bir kaynak veya resimsel bir imge olarak tanımlanmaktadır.” Bu tanım aşağıdakilerden hangisine aittir?</strong>
@@ -189,7 +189,7 @@
     - D-) Diyagram
     - E-) Logo
 
-    > **Açıklama:** <b>Piktogram</b>, bir harf, sözcük ya da ifade için kullanılan, bir hareket veya durumu görsel referanslar aracılığıyla betimleyen resimsel bir imgedir. Konu aldıkları nesneleri genellikle stilize edilmiş silüetler olarak doğrudan temsil ederler.
+    > **Açıklama:** Verilen tanım, yani 'Bir harf, sözcük ya da ifade için kullanılmaktadır ve görsel bir kaynak veya resimsel bir imge olarak tanımlanmaktadır,' <b>Logogram</b> kavramına aittir. Logogramlar, bir kelimeyi veya morfem/ifadeyi temsil eden tek bir semboldür (örn: @, $, %). Logogramlar, piktogramlar veya ideogramlarla karıştırılabilse de, logogramlar <b>doğrudan dilsel bir birimi</b> görsel olarak temsil eder.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi 1933 yılında Henry G. Beck tarafından yapılan Londra Metrosu haritasının özelliklerinden biri <u>değildir</u>?</strong>
@@ -199,7 +199,7 @@
     - **Cevap D-) Dolambaçlı çizgiler**
     - E-) Düşey diyagonaller
 
-    > **Açıklama:** 1933 yılında Henry G. Beck, Londra Metrosu için coğrafi bir harita yerine diyagramlardan oluşan bir tasarım yapmıştır. Okunaklılığı artırmak için <b>yatay, düşey ve 45 derecelik diyagonaller</b> kullanmış ve yolları belirtmek için <b>canlı renklerle</b> kodlamalar yapmıştır. Bu tasarımda <u>dolambaçlı çizgilerden kaçınılmıştır</u>.
+    > **Açıklama:** Henry G. Beck'in 1933 tarihli Londra Metrosu haritası, bir <b>topolojik harita</b> örneğidir. Özellikleri şunlardır: <b>Coğrafi doğruluktan fedakarlık edilmesi</b>, haritanın <b>şematik ve basitleştirilmiş</b> olması, hatların yalnızca <b>yatay, dikey veya 45 derecelik açılarla</b> çizilmesi. Bu tasarım, yolcuların karmaşık güzergahları daha kolay takip etmesini sağlamıştır. Özellikleri arasında <b>tüm istasyonlar arasındaki gerçek coğrafi uzaklıkları doğru bir ölçekte gösterme</b> kesinlikle yer almaz; aksine bu durumdan kaçınılmıştır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi rengin tipografi üzerinde oluşturduğu etkilerden biri <u>değildir</u>?</strong>
@@ -209,7 +209,7 @@
     - D-) Siyah beyaz dengesi oluşturmak
     - **Cevap E-) Görsel hale getirmek**
 
-    > **Açıklama:** Tipografi ile birlikte kullanılan renk, bilgiyi iletmek, <b>görsel etkiye katkı sağlamak, görsel hiyerarşi oluşturmak</b> ve <b>siyah-beyaz dengesi</b> kurmak gibi çeşitli amaçlara hizmet eder. 'Görsel hale getirmek' ifadesi ise rengin kendisinin değil, genel olarak tasarımın bir sonucudur.
+    > **Açıklama:** Rengin tipografi üzerindeki etkileri genellikle tipografik elementlerin <b>okunabilirliğini</b>, <b>görünürlüğünü</b> ve yarattığı <b>duygusal etkiyi</b> yönetmekle ilgilidir. Renk kontrastı, metnin arka plandan ayrışmasını sağlayarak okuma kolaylığını etkiler (legibility). Ayrıca hiyerarşi oluşturmak ve metnin önemini vurgulamak için kullanılır. Ancak rengin, harflerin temel geometrik yapısını (örneğin fontun kalınlığını veya genişliğini) doğrudan değiştirmesi, tipografi üzerindeki etkilerinden biri <u>değildir</u>; bu, font tasarımının veya stilinin bir özelliğidir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının türlerinden biri <u>değildir</u>?</strong>
@@ -219,7 +219,7 @@
     - **Cevap D-) Portfolyo Tasarımı**
     - E-) Sergileme Tasarımı
 
-    > **Açıklama:** Bilgilendirme tasarımının alanları arasında <b>Doküman Tasarımı, Kullanım Kılavuzu Tasarımı, Haritalar</b> ve <b>Sergileme Tasarımı</b> gibi türler bulunur. Portfolyo tasarımı ise bir kişinin veya kurumun çalışmalarını sergilemek amacıyla oluşturulan özel bir sunum türüdür ve genel bir bilgilendirme tasarımı türü olarak sınıflandırılmaz.
+    > **Açıklama:** Bilgilendirme tasarımının temel türleri arasında <b>yönlendirme ve navigasyon sistemleri</b>, <b>uyarı ve güvenlik işaretleri</b>, <b>veri görselleştirme</b> (infografikler, grafikler) ve <b>eğitim amaçlı belgeler</b> bulunur. Bu tasarım türlerinin amacı, bilginin hızlı, doğru ve anlaşılır bir şekilde aktarılmasıdır. Sorunun doğru cevabı, bu temel işlevlere uymayan veya farklı bir tasarım disiplinine ait olan bir tür olacaktır (Örneğin: Sanatsal İllüstrasyon veya Dekoratif Tasarım, bilgilendirme tasarımının birincil türü değildir).
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımında kullanılan görsellerden biri <u>değildir</u>?</strong>
@@ -229,7 +229,7 @@
     - D-) Grafik
     - E-) Diyagram
 
-    > **Açıklama:** Bilgilendirme tasarımında kullanılan görseller; <b>illüstrasyon, fotoğraf, grafik</b> ve <b>diyagram</b> gibi basılı veya hareketli unsurlardan oluşur. Tipografi ise metinsel bir unsurdur, görsel bir unsur olarak kabul edilmez.
+    > **Açıklama:** Bilgilendirme tasarımında kullanılan görsellerin temel işlevi, <b>karmaşık verileri basitleştirmek</b> ve metin olmadan bilgi aktarmaktır. Bu görsellere örnek olarak <b>piktogramlar</b>, <b>diyagramlar</b> (akış şemaları), <b>grafikler</b> (pasta, çubuk, çizgi), <b>haritalar</b> ve basit <b>illüstrasyonlar</b> verilebilir. Bilgilendirme amacı taşımayan veya salt estetik kaygıyla kullanılan görseller (örneğin, rastgele soyut resimler) bilgilendirme görseli sayılmaz.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgiyi kelimeler, semboller, diyagramlar, resim ve tipografi yardımıyla alıcıya doğrudan aktaran görsel iletişim tasarımı içerisindeki bir alandır?</strong>
@@ -239,7 +239,7 @@
     - D-) Hiyerarşi
     - E-) Piktogram
 
-    > **Açıklama:** <b>Bilgilendirme tasarımı</b>, bilgiyi kelimeler, semboller, diyagramlar, resim ve tipografi yardımıyla alıcıya doğrudan aktaran görsel iletişim tasarımı içerisindeki bir alandır. Temel ilkesi, karmaşık bir bilgi yığınını anlaşılır ve anında ulaşılabilir bir biçimde izleyiciye sunmaktır.
+    > **Açıklama:** Bu tanım, doğrudan <b>Bilgilendirme Tasarımına</b> (Information Design) aittir. Bilgilendirme tasarımı, verileri ve bilgileri <b>kelimeler</b>, <b>semboller</b>, <b>diyagramlar</b>, <b>resimler</b> ve <b>tipografi</b> gibi görsel iletişim araçlarını kullanarak alıcıya en açık, etkili ve anlaşılır biçimde aktarmayı amaçlayan görsel iletişim tasarımı alanıdır. Temel hedefi, bilgi karmaşasını azaltmaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı türlerinden biri <u>değildir</u>?</strong>
@@ -249,7 +249,7 @@
     - D-) Yönlendirme ve İşaretleme Tasarımı
     - **Cevap E-) Portfolyo Tasarımı**
 
-    > **Açıklama:** Bilgilendirme tasarımının türleri arasında <b>Form Tasarımı</b> (bilgiyi sınıflandırarak toplama), <b>İnfografikler</b> (yoğun bilgiyi görselleştirme), <b>Sergileme Tasarımı</b> ve <b>Yönlendirme Tasarımı</b> gibi alanlar yer alır. Portfolyo tasarımı, kişisel veya kurumsal çalışmaları sunmaya yönelik özel bir tasarım türüdür.
+    > **Açıklama:** Bilgilendirme tasarımı, bilgiyi hedef kitleye ulaştırma amacına göre sınıflandırılır. Başlıca kategoriler <b>yönlendirme/navigasyon</b> (wayfinding), <b>uyarı/güvenlik</b>, <b>eğitim</b> ve <b>veri sunumu</b> (infographics) olarak sayılabilir. Bu türlerin dışında kalan, genellikle <b>kişisel sanat ifadesi</b> veya <b>ticari reklamcılık</b> gibi alanlar, bilgilendirme tasarımının birincil türleri arasında yer almaz.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi piktogramın özelliklerinden biri <u>değildir</u>?</strong>
@@ -259,7 +259,7 @@
     - D-) Standart renkler kullanılmalıdır.
     - E-) Uluslararası olarak anlaşılır olmalıdır.
 
-    > **Açıklama:** Piktogramların temel özellikleri arasında; tek bir grafik sisteme göre düzenlenmeleri, uluslararası anlaşılırlık için <b>standart renkler</b> kullanmaları ve simgesel işaretlerin geliştirilebilir olması yer alır. Farklı ve standart dışı renklerin kullanılması, evrensel anlaşılırlık ilkesine aykırıdır.
+    > **Açıklama:** <b>Piktogram</b> (Pictogram) veya ikonografik işaret, metin kullanmadan bir nesneyi, eylemi veya kavramı temsil eden görsel semboldür. Temel özellikleri <b>sade</b>, <b>hızlı tanınabilir</b>, <b>evrensel olarak anlaşılabilir</b> ve <b>kültürden bağımsız</b> olmaktır. Piktogramlar, karmaşık veya detaylı bilgileri aktarmayı hedeflemez; aksine, tek bir basit mesajı anında iletmeyi amaçlar. Bu nedenle piktogramların özelliklerinden biri olmayan seçenek, genellikle <b>detaylı ve karmaşık anlatım içermesi</b> olacaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiğidir?</strong>
@@ -269,7 +269,7 @@
     - **Cevap D-) Haritalar**
     - E-) Logo Tasarımları
 
-    > **Açıklama:** Bilgilendirme grafikleri; gazetelerdeki hava durumlarından haber değeri olan <b>haritalara</b>, planlara ve istatistiksel veri grafiklerine kadar geniş bir yelpazeyi kapsar. Özellikle transit sistemler için rota haritalarında bilgiyi bütünleştirmek için kullanılırlar.
+    > **Açıklama:** <b>Bilgilendirme grafiği</b> (Infographic), karmaşık verileri, süreçleri veya bilgileri görsel olarak özetleyen ve basitleştiren bir araçtır. Bu, <b>veri görselleştirme</b> tekniklerini (grafikler, şemalar) illüstrasyon ve metinle birleştirerek bilginin daha çekici ve akılda kalıcı olmasını sağlar. Doğru cevap, genellikle tablo veya sadece metin yerine, veriyi görsel bir bağlamda sunan spesifik bir grafik türüdür (örneğin, bir zaman çizelgesi veya karşılaştırmalı çubuk grafik).
 
     <hr />
 1. <strong>“Sade ve anlaşılır, evrensel olarak anlaşılabilir ve standart renklere sahiptir.” tanımı aşağıdakilerden hangisine aittir?</strong>
@@ -279,7 +279,7 @@
     - **Cevap D-) Piktogram**
     - E-) Tipografi
 
-    > **Açıklama:** <b>Piktogramlar</b>, sade ve anlaşılır bir grafik dile sahip olan, evrensel olarak anlaşılabilen ve genellikle standart renklerle tasarlanan simgesel işaretlerdir. Bu tanım, farklı kültürlerden insanların ortak bir anlam çıkarabilmesini sağlayan piktogramlara aittir.
+    > **Açıklama:** Verilen 'Sade ve anlaşılır, evrensel olarak anlaşılabilir ve standart renklere sahiptir' tanımı, kesinlikle <b>Piktogramlara</b> aittir. Piktogramlar, özellikle <b>evrensel anlaşılabilirlik</b> sağlamak (dil bariyerlerini aşmak) ve <b>standart renk kodlaması</b> (kırmızı: tehlike, yeşil: çıkış vb.) kullanmak üzere tasarlanmış, basit ve net görsel sembollerdir. Bu özellikler, onların hızlı karar verme gerektiren ortamlarda (havaalanları, hastaneler) kritik bilgi aktarımında kullanılmasını sağlar.
 
     <hr />
 ## Unite 3
@@ -290,7 +290,7 @@
     - **Cevap D-) Bilgi Tasarımı**
     - E-) Sergileme Tasarımı
 
-    > **Açıklama:** Bilgilendirme tasarımı türleri; <b>Doküman Tasarımı, Piktogramlar, Form Tasarımı, Sergileme Tasarımı, Harita Tasarımı</b> gibi çeşitli alanları kapsar. Bilgi Tasarımı ise bilgilendirme tasarımının kendisini ifade eden daha genel bir ifadedir, bir alt türü değildir.
+    > **Açıklama:** Bu soru, 399778 ve 401239 ile benzer şekilde, bilgilendirme tasarımı alanının kapsamını test etmektedir. Bilgilendirme tasarımı türleri, <b>fonksiyonellik</b> ve <b>pratik uygulama</b> (yönlendirme, uyarı, eğitim) esasına dayanır. Türlerden biri olmayan seçenek, genellikle <b>sanatsal ifade</b> veya <b>dekoratif amaçlı görselleştirme</b> gibi, bilginin netliğini sağlamaktan çok estetik veya kişisel yorumu ön plana çıkaran bir alan olacaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi başarılı bir belge tasarımının işlevlerinden <u>değildir</u>?</strong>
@@ -300,7 +300,7 @@
     - D-) Bilginin akılda kalıcı olmasını sağlaması
     - E-) Bilgiyi anlaşılır bir şekilde sunması
 
-    > **Açıklama:** Başarılı bir belge tasarımı, bilgiyi <b>dikkat çekici, sade, anlaşılır</b> ve <b>akılda kalıcı</b> bir şekilde sunmayı hedefler. Yüksek maliyetli olması bir işlev değil, projenin bütçesiyle ilgili bir durumdur ve başarılı bir tasarım için bir gereklilik değildir.
+    > **Açıklama:** Başarılı bir belge tasarımı (formlar, kılavuzlar, raporlar), bilginin <b>organize edilmesini</b>, <b>okumayı kolaylaştırmayı</b> (legibility), <b>kullanıcı hatalarını minimize etmeyi</b> ve <b>bilgiye erişimi hızlandırmayı</b> hedefler. Temel işlevleri arasında <b>anlaşılırlığı artırmak</b> ve <b>güvenilirliği sağlamak</b> yer alır. Belge tasarımının işlevlerinden biri <u>değildir</u> denebilecek bir seçenek, genellikle <b>gereksiz karmaşıklık eklemek</b> veya <b>yüksek maliyetli üretim gereksinimleri</b> gibi, temel amaç olan bilgi aktarımına engel teşkil eden unsurlar olacaktır.
 
     <hr />
 1. <strong>Form oluşturan kişinin karşılaşacağı en önemli sorun aşağıdakilerden hangisidir?</strong>
@@ -310,7 +310,7 @@
     - D-) Toplanan verilerin analizi
     - E-) Formun uygun dilde yazılması
 
-    > **Açıklama:** Form oluşturan bir kişinin karşılaşacağı en önemli sorun, <b>hedef kitleyi o formu doldurmaya ikna etmektir.</b> İnsanların form doldurmaktan hoşlanmaması nedeniyle, iyi bir form tasarımı kullanımı kolaylaştırarak bu isteksizliği en aza indirmeyi amaçlar.
+    > **Açıklama:** Form oluşturan kişinin karşılaştığı en önemli sorun, genellikle formun kullanıcılar tarafından **doğru, eksiksiz ve hızlı bir şekilde doldurulmasını** sağlamaktır. Bu, formun **anlaşılırlığı** ve **kullanım kolaylığı** (usability) ile doğrudan ilgilidir. Tasarımcı, gereksiz karmaşıklıktan kaçınmalı ve kullanıcının görevi yerine getirirken zorlanmamasını garanti etmelidir. Aksi takdirde, hatalı veri girişi, eksik bilgiler veya formun hiç doldurulmaması gibi sorunlarla karşılaşılır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi kullanım kılavuzlarının özelliklerindendir?</strong>
@@ -320,7 +320,7 @@
     - D-) Teknik detaylara önem vermez.
     - E-) Teknoloji kullanım becerileri yüksek kişilere yönelik olarak tasarlanır.
 
-    > **Açıklama:** Kullanım kılavuzları genellikle üretici firmalar için bir zorunluluk olarak görüldüğünden ve maliyeti azaltmak hedeflendiğinden, pazarlama materyallerinin aksine genellikle <b>siyah-beyaz, donuk, monoton ve detaylı</b> olarak tasarlanırlar.
+    > **Açıklama:** Kullanım kılavuzları, bir ürünün veya sistemin nasıl çalıştırılacağı veya kullanılacağı konusunda **pratik ve işlemsel rehberlik** sağlamayı amaçlar. Temel özellikleri arasında, hedef kitlenin anlayacağı dilde yazılması, **adım adım talimatlar** içermesi, net ve doğru bilgiler sunması ve gerektiğinde **görsel destek** (diyagramlar, resimler) kullanması bulunur. Kılavuz, kullanıcının belirli bir görevi başarıyla tamamlamasını sağlamalıdır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı kapsamında değerlendirilen haritalardan <u>değildir</u>?</strong>
@@ -330,7 +330,7 @@
     - D-) İzmir’deki otobüs güzergah haritası
     - **Cevap E-) Türkiye coğrafi haritası**
 
-    > **Açıklama:** Bilgilendirme tasarımı kapsamındaki haritalar, belirli bir bölgedeki derin ve karmaşık bilgileri (metro hatları, demografik dağılım, hastalık yayılımı vb.) görsel olarak sunar. <b>Türkiye coğrafi haritası</b> ise coğrafi bir harita olup, topografik bilgi verdiği için bilgilendirme tasarımının alanına girmez.
+    > **Açıklama:** Bilgilendirme tasarımı kapsamında değerlendirilen haritalar genellikle **bilgi aktarma** veya **navigasyon** amaçlıdır. Bunlar arasında tematik haritalar (veri yoğunluklarını gösteren), yol haritaları (yönlendirme amaçlı) ve coğrafi haritalar (mekansal ilişkileri gösteren) yer alır. Bilgilendirme tasarımının temel amacı olan veriyi görselleştirme ve aktarma amacını taşımayan bir öğe (örneğin, sadece sanatsal, soyut bir çizim) bu kapsamda değerlendirilen haritalardan biri **değildir**.
 
     <hr />
 1. <strong>Hangi grafik tipini “yıllar bazında değişen eğilimleri göstermek için” kullanılır?</strong>
@@ -340,7 +340,7 @@
     - D-) Çubuk grafikler
     - E-) Yığınlı sütun grafikler
 
-    > **Açıklama:** Grafik türleri farklı amaçlara hizmet eder. Özellikle <b>çizgi grafikler, yıllar bazında değişen eğilimleri göstermede etkilidir.</b> Sütun grafikler farklı göstergeler arası ilişkiyi, pasta grafikler ise oransal dağılımları göstermek için kullanılır.
+    > **Açıklama:** Yıllar bazında değişen eğilimleri veya sürekli bir zaman serisi boyunca verilerin nasıl hareket ettiğini göstermek için en uygun grafik tipi **Çizgi Grafik (Line Graph)**'tir. Çizgi grafikler, **veri noktaları arasındaki değişimin** sürekliliğini ve eğimin yönünü görselleştirmede son derece etkilidir, böylece zaman içindeki **trendler** (artış, azalış, stabilizasyon) kolayca takip edilebilir.
 
     <hr />
 1. <strong>Bilgilendirme tasarımında gelişmiş tablo kullanımına ilişkin en önemli örnek aşağıdakilerden hangisidir?</strong>
@@ -350,7 +350,7 @@
     - D-) Ki-kare tablosu
     - E-) Medyan tablosu
 
-    > **Açıklama:** Bilgilendirme tasarımında gelişmiş tablo kullanımına ilişkin en önemli ve bilinen örnek, Dmitri Mendeleev'in 1869'da tasarladığı <b>Periyodik Tablo'dur.</b> Bu tablo, elementleri sıralayarak ve özelliklerini düzenli bir yapı içinde göstererek kimya bilimi hakkında açık ve net bir anlatı sağlar.
+    > **Açıklama:** Bilgilendirme tasarımında gelişmiş tablo kullanımı, genellikle büyük, karmaşık veya istatistiksel verilerin **minimum mürekkep kullanımıyla maksimum bilgi yoğunluğu** sağlayacak şekilde düzenlenmesini ifade eder. Bu kullanım, yoğun veriyi okuyucunun hızla taramasını ve anlamlandırmasını sağlamak için **iyi yapılandırılmış, gereksiz çizgilerden arındırılmış** tabloların oluşturulmasını hedefler. Örnek olarak, birim fiyat tabloları veya detaylı istatistiksel veri setlerinin sunumu verilebilir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi infografiklerin özelliklerinden biri <u>değildir</u>?</strong>
@@ -360,7 +360,7 @@
     - D-) Ortak bir dil oluşturur
     - **Cevap E-) Yüze tamamlanabilen verilerin sunumunda kullanılır**
 
-    > **Açıklama:** İnfografikler, bilgiyi görselleştirerek sunan, karmaşık konuları ilgi çekici hale getiren ve ortak bir dil oluşturan araçlardır. <b>Yüze tamamlanabilen verilerin sunumunda</b> ise genellikle <b>pasta grafikler</b> kullanılır, bu infografiklerin genel bir özelliği değildir.
+    > **Açıklama:** İnfografikler, karmaşık bilgileri hızla iletmek için **metin, veri ve görsel unsurları** birleştiren tasarımlardır. Temel amaçları **basitleştirme**, **hikaye anlatma** ve bilgiyi akılda kalıcı hale getirmektir. İnfografikler görsel ağırlıklıdır ve genellikle uzun, derinlemesine metinsel analizler sunmazlar. Dolayısıyla, infografiklerin özelliklerinden biri olmayan durum, genellikle **sadece metin tabanlı ve görsel içermeyen** bir içerik sunmasıdır.
 
     <hr />
 1. <strong>Fikirleri veya kavramları sembollerle temsil eden resim-yazılar bilgilendirme tasarımı türlerinden hangisidir?</strong>
@@ -370,7 +370,7 @@
     - **Cevap D-) Piktogram**
     - E-) Grafik
 
-    > **Açıklama:** <b>Piktogramlar</b>, kelime anlamıyla fikirleri veya kavramları sembollerle temsil eden resim-yazı şeklinde ifade edilir. Bu görsel öğeler, karmaşık bilgiyi daha anlaşılır bir hâle getirmek için kullanılır.
+    > **Açıklama:** Fikirleri veya kavramları sembollerle temsil eden resim-yazılar **İdeogramlar** olarak adlandırılır. Piktogramlar genellikle doğrudan nesneleri temsil ederken, ideogramlar daha soyut olan **kavramları, fikirleri veya eylemleri** temsil ederler (Örneğin, matematiksel işaretler veya bazı trafik sembolleri). Bu semboller, **evrensel iletişim** sağlamada bilgilendirme tasarımının önemli bir parçasıdır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi sergi türlerinden biri <u>değildir</u>?</strong>
@@ -380,7 +380,7 @@
     - D-) Sürekli sergiler
     - **Cevap E-) Kılavuz Sergiler**
 
-    > **Açıklama:** Sergileme tasarımları; kültürel, sosyal, ticari, sanat galerisi ve müze sergilemeleri gibi kategorilere ayrılabilir. Ayrıca süreli (geçici veya sürekli) olmalarına göre de sınıflandırılırlar. <b>Kılavuz Sergiler</b> şeklinde bir sergi türü bulunmamaktadır.
+    > **Açıklama:** Sergiler (Exhibitions), bilgiyi mekansal olarak sunan önemli bilgilendirme tasarımı araçlarıdır. Türleri genellikle amaçlarına, içeriklerine veya sürelerine göre sınıflandırılır. Yaygın sergi türleri arasında **Kalıcı Sergiler**, **Geçici Sergiler**, **Sanat Sergileri** ve **Ticaret Fuarları** bulunur. Eğer seçenekler arasında yapılandırılmış mekansal bir bilgi sunumu olmayan bir format yer alıyorsa (örneğin, bir sunum slaytı veya sadece bir kitap), bu sergi türlerinden biri **değildir**.
 
     <hr />
 1. <strong>Bilgiye duyulan, giderek artan bağımlılık ve bilginin anlaşılır olmasına duyulan ihtiyaç ile hangi tasarım alanı ortaya çıkmıştır?</strong>
@@ -390,7 +390,7 @@
     - D-) Belge Tasarımı
     - E-) Kılavuz Tasarımı
 
-    > **Açıklama:** Bilgi Toplumu ile birlikte bilgiye duyulan giderek artan bağımlılık ve bilginin anlaşılır olmasına duyulan ihtiyaç, bir disiplin olarak <b>Bilgilendirme Tasarımı</b> alanının ortaya çıkmasına neden olmuştur. Bu alan, bilginin en etkili şekilde aktarılmasını merkezine alır.
+    > **Açıklama:** Bilgiye duyulan bağımlılığın artması ve bilginin karmaşıklığının yükselmesi, bu bilginin kullanıcılar tarafından **anlaşılır, erişilebilir ve kullanılabilir** hale getirilmesi ihtiyacını doğurmuştur. Bu ihtiyaca cevap olarak ortaya çıkan tasarım alanı **Bilgilendirme Tasarımı (Information Design)**'dır. Temel amacı, verileri veya bilgileri en etkili iletişim biçiminde yapılandırmak ve sunmaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi “belge” kavramını doğru olarak tanımlamaktadır?</strong>
@@ -400,7 +400,7 @@
     - D-) Bir alandaki bilgiyi aktaran, talimat veya yol gösteren kitaplara verilen addır.
     - E-) Dünyanın ya da bir bölgenin genel görünümünün belirli bir ölçekte küçültülerek özel sembollerle düz bir yüzey üzerine çizilmiş bir rehberdir.
 
-    > **Açıklama:** Kavramsal olarak <b>belge</b>, “herhangi bir eylemin yöntemlerini ortaya koyan veya okuyanı bir iş ya da bir görevle ilgili yönlendiren elektronik veya basılı metinler” şeklinde tanımlanmaktadır. Diğer seçenekler ise bilgi, kullanım kılavuzu ve harita gibi farklı kavramları tanımlamaktadır.
+    > **Açıklama:** Belge, en temel tanımıyla, **bilgiyi kaydeden, taşıyan ve ileten** bir araçtır. Bu, genellikle kalıcı bir ortamda (fiziksel kağıt, dijital dosya vb.) yapılandırılmış bir biçimde saklanan ve **kanıt, referans veya iletişim** amacıyla kullanılan her türlü yazılı, görsel veya işitsel materyali kapsar. Belge, bilgi tasarımının en temel konusunu oluşturur.
 
     <hr />
 ## Unite 4
@@ -411,7 +411,7 @@
     - D-) Değişimin geçici süreli olmaması
     - E-) Davranıştaki değişimin kısmen sürekli olması
 
-    > **Açıklama:** Öğrenmenin temel özellikleri arasında davranışta gözlemlenebilir ve kalıcı bir değişim olması, bu değişimin deneyimler sonucu elde edilmesi yer alır. Ancak öğrenme, <b>sadece fizyolojik büyümeye dayanmaz;</b> bireyin çevre ile etkileşimi sonucu gerçekleşen zihinsel bir etkinliktir.
+    > **Açıklama:** Öğrenme, bireyin <b>yaşantıları sonucu</b> oluşan, nispeten <b>kalıcı davranış değişikliği</b> olarak tanımlanır. Öğrenmenin temel özellikleri arasında yer almayan bir durum, genellikle doğuştan gelen refleksler, içgüdüler veya geçici durum değişiklikleridir (hastalık, yorgunluk, ilaç etkisi gibi). Eğer şıklarda bu tarz bir ifade varsa, bu, öğrenmenin temel özellikleri arasında <u>yer almaz</u>. Öğrenme daima <b>davranışta gözlemlenebilir</b> bir değişiklik veya potansiyel değişiklik yaratır ve <b>uyum sağlama</b> amacını taşır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi öğrenme durumunun bileşenleri arasında <u>yer almaz</u>?</strong>
@@ -421,7 +421,7 @@
     - D-) Öğrenme süreci
     - E-) Öğreten
 
-    > **Açıklama:** Bir öğrenme durumu beş temel öğeden oluşur: <b>öğrenen</b> (birey), <b>öğrenme süreci, öğrenilen</b> (deneyim), <b>öğreten</b> ve <b>öğrenme ortamı</b>. Öğretme yöntemi ise bu sürecin bir parçasıdır ancak temel bileşenlerden biri olarak ayrıca sayılmaz.
+    > **Açıklama:** Öğrenme durumunun bileşenleri genellikle <b>öğrenen</b> (bilişsel yapısı ve motivasyonu), <b>öğretme içeriği/materyali</b>, <b>öğretici</b> (kaynak) ve <b>öğrenme ortamı</b> (fiziksel ve psikolojik şartlar) olarak sınıflandırılır. Bu bileşenler, öğrenmenin gerçekleşmesini sağlayan temel unsurlardır. Öğrenme sürecinin bir bileşeni olmayan bir unsur, genellikle <b>sadece genetik faktörler</b> veya <b>doğrudan kalıtım yoluyla edinilen özellikler</b>dir, çünkü öğrenme kalıtımın değil, yaşantının ürünüdür.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi beyin temelli öğrenmenin temel amaçlarından biridir?</strong>
@@ -431,7 +431,7 @@
     - D-) Öğrenme araçlarının öğrenme üzerindeki etkilerinin araştırılması
     - E-) Öğrenme sürecinde dikkat ve ilginin arttırılması
 
-    > **Açıklama:** Beyin temelli öğrenme yaklaşımının en temel amaçlarından biri, <b>anlamlı ve kalıcı öğrenmenin sağlanmasıdır.</b> Bu yaklaşım, klasik anlatım veya ezbere dayalı yöntemler yerine haritalama, görselleştirme gibi beynin çalışma biçimiyle uyumlu öğrenme araçlarının kullanılmasını gerektirir.
+    > **Açıklama:** Beyin temelli öğrenme (BTO), beynin doğal çalışma prensiplerini temel alarak öğrenmeyi optimize etmeyi hedefler. Temel amaçları arasında <b>öğrenme sürecine duygu katmak</b> (beyin duygusal olarak anlamlı olanı hatırlar), <b>bütüncül öğrenmeyi teşvik etmek</b> (beyin parçaları değil, bütün örüntüleri algılar) ve <b>stresi azaltarak güvenli bir ortam sağlamak</b> yer alır. BTO'nun temel amacı, <b>öğrenmenin ezberlenmesini sağlamak</b> değil, bilgiyi anlamlandırma ve kalıcı hale getirme kapasitesini artırmaktır. Bu yaklaşım, <b>aktif katılım</b> ve <b>karmaşık problemlerle yüzleşme</b> yoluyla gerçekleşir.
 
     <hr />
 1. <b>Bellekle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</b>
@@ -441,7 +441,7 @@
     - **Cevap D-) Kısa süreli belleğin kapasitesi sonsuzdur.**
     - E-) Öğrenme sürecinde bilginin edinimi belleğin farklı aşamalarında gerçekleşir.
 
-    > **Açıklama:** Bellek; duyusal bellek, kısa süreli bellek ve uzun süreli bellek olmak üzere üç aşamadan oluşur. Duyusal bellek bilgiyi çok kısa süre tutarken, tekrar edilen bilgi kısa süreli belleğe aktarılır. Ancak <b>kısa süreli bellek, sınırlı bir kapasiteye sahiptir;</b> kapasitesi sonsuz değildir.
+    > **Açıklama:** Bellek, bilgiyi <b>kodlama, depolama ve geri çağırma</b> yeteneğimizdir. Bellek sistemleri genellikle duyusal bellek, kısa süreli (çalışma) bellek ve uzun süreli bellek olarak ayrılır. Bellekle ilgili yanlış bir ifade, genellikle bu sistemlerin özelliklerinin karıştırılmasıyla ortaya çıkar. Örneğin, <b>uzun süreli belleğin kapasitesinin sınırlı olması</b> (aslında sınırsızdır) veya <b>kısa süreli belleğin kalıcılığının çok uzun olması</b> gibi iddialar yanlış olacaktır. Bellek, öğrenilenlerin kalıcılığını sağlayan temel bilişsel yapıdır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi çoklu ortam öğrenmenin temelini oluşturan çoklu ortam öğrenme bilişsel teorinin dayandığı ilkeler arasında <u>yer almaz</u>?</strong>
@@ -451,7 +451,7 @@
     - D-) İkili kodlama insan belleğinin bilgi işleme sürecinde görsel ve sözel bilgi edinimi olmak üzere iki ayrı kanala sahip olduğunu tanımlar
     - **Cevap E-) İkili kodlama belleğin görsel ve sözel bilginin her ikisini de eşit derecede aktif işleyebildiğini tanımlar**
 
-    > **Açıklama:** Çoklu Ortam Öğrenme Bilişsel Teorisi; çalışan bellek, bilişsel yük ve ikili kodlama kuramlarına dayanır. İkili kodlama kuramına göre insan belleği görsel ve sözel bilgi için iki ayrı kanala sahiptir, ancak bunlardan <b>yalnızca birinin baskın olarak daha aktif çalıştığını</b> tanımlar. İki kanalın da eşit derecede aktif çalıştığını savunmaz.
+    > **Açıklama:** Çoklu ortam öğrenme bilişsel teorisi (Mayer), <b>bilişsel yükü optimize etme</b> üzerine kuruludur ve öğrenmede kelimeler ile resimlerin birlikte kullanımının önemini vurgular. Temel ilkeleri arasında <b>Çoklu Ortam İlkesi</b> (hem görsel hem işitsel/metinsel bilgi kullanma), <b>Tutarlılık İlkesi</b> (alakasız bilginin çıkarılması) ve <b>Yakınlık İlkeleri</b> (uzamsal ve zamansal) yer alır. Bu ilkeler arasında <b>Sadece İşitsel Kanalı Kullanma İlkesi</b> veya <b>Tek Tekrar İlkesi</b> gibi, bilişsel kaynakların dengeli kullanımını engelleyecek yaklaşımlar yer almaz. Teori, bilgiyi farklı kanallardan işleyerek anlamlandırmayı kolaylaştırmayı amaçlar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi çoklu öğrenme ortamlarının kazanımları arasında <u>yer almaz</u>?</strong>
@@ -461,7 +461,7 @@
     - D-) Edinilen bilginin farklı şekillerde organize edebilmesini sağlar
     - E-) Bilginin geçmiş öğrenilenlerle ilişkilendirilebilmesine aracılık eder
 
-    > **Açıklama:** Çoklu öğrenme ortamları, öğrenenin zihinsel olarak aktif olmasını, bilgiyi seçip organize etmesini ve geçmiş öğrenilenlerle ilişkilendirmesini sağlar. Bu ortamlar, görsel ve işitsel unsurları birleştirir ancak <b>sözel bilginin metinsel bilgiye dönüştürülmesi</b> gibi bir kazanımı yoktur; bu, bir transkripsiyon işlemidir.
+    > **Açıklama:** Çoklu öğrenme ortamları, genellikle <b>öğrenci motivasyonunu artırma</b>, <b>karmaşık kavramların anlaşılmasını kolaylaştırma</b> ve <b>bilginin kalıcılığını yükseltme</b> gibi kazanımlar sağlar. Görsel ve işitsel kanalların bir arada kullanımı, beynin iki farklı işleme kanalını kullanarak öğrenmeyi derinleştirir. Bu kazanımlar arasında <b>Öğrenci özerkliğini tamamen ortadan kaldırma</b> veya <b>tüm öğrenme çıktılarını standardize etme</b> gibi sonuçlar <u>yer almaz</u>. Aksine, genellikle bireysel farklılıklara daha iyi hitap etmeyi hedeflerler.
 
     <hr />
 1. Teknolojinin eğitime entegrasyonu ile öğrenme sürecinde önemli kazanımlar elde edilmiştir.<strong><br />Aşağıdakilerden hangisi bu kazanımlar arasında <u>yer almaz</u>?</strong>
@@ -471,7 +471,7 @@
     - D-) Öğrenenin sorumluluk duygusu kazanması gibi davranışsal yeterlilikleri de edinmesine aracılık eder.
     - **Cevap E-) Bilginin edinim sürecinde çevrenin rolünü tanımlar.**
 
-    > **Açıklama:** Teknolojinin eğitime entegrasyonu; öğrenenin aktif katılımını, öğrenme sürecini yönetmesini, kontrol sahibi olmasını ve sorumluluk duygusu kazanmasını sağlar. <b>Bilginin edinim sürecinde çevrenin rolünü tanımlamak</b> ise genel bir öğrenme durumu bileşenidir, sadece teknoloji entegrasyonuna özgü bir kazanım değildir.
+    > **Açıklama:** Teknolojinin eğitime entegrasyonu, öğrenme sürecine <b>zengin kaynak erişimi</b>, <b>kişiselleştirilmiş öğrenme yolları</b>, <b>anında geri bildirim</b> ve <b>işbirliğine dayalı öğrenme fırsatları</b> sağlar. Bu kazanımlar sayesinde öğrenciler daha aktif hale gelir. Kazanımlar arasında <b>öğretmenin öğrenme sürecindeki rehberlik rolünün tamamen ortadan kalkması</b> veya <b>tüm eğitim maliyetlerinin mutlak düşüşü</b> gibi iddialar genellikle <u>yer almaz</u>, çünkü teknoloji öğretmenin rolünü dönüştürür ve başlangıçta maliyetleri artırabilir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi çoklu ortam öğrenme aracı olarak bilgilendirme tasarımlarının öğrenmeye ilişkin kazanımları arasında <u>yer almaz</u>?</strong>
@@ -481,7 +481,7 @@
     - D-) Metin ve görselin aynı anda sunulması yerine sözlü anlatım, seslendirme ve canlandırmanın kullanılması bilginin ediniminde daha etkilidir.
     - E-) İlişkili metin ve görseller bir arada sunulduğunda arka arkaya sunulduğu ortamlar ya da materyallere göre kazanımlar daha fazladır.
 
-    > **Açıklama:** Bilişsel yük kuramıyla ilişkili olan <b>gereksizlik (fazlalık) ilkesine</b> göre, ikiden fazla yöntemin (örneğin görsel, metin ve animasyonun) bir arada kullanılması, öğrenenlerin daha zorlanmasına neden olur. Bu nedenle, <u>ikiden fazla yöntemin bir arada kullanılmasının kazanımları artıracağı bilgisi yanlıştır.</u>
+    > **Açıklama:** Bilgilendirme tasarımları (infografikler, görselleştirme araçları) çoklu ortam öğrenme araçlarıdır ve <b>karmaşık verileri basitleştirme</b>, <b>hızlı bilgi alımı</b> ve <b>büyük veri setlerini organize etme</b> gibi kazanımlar sunar. Görsel unsurların kullanımı, <b>bilişsel yükü yönetmeye</b> ve <b>uzun süreli belleğe kodlamayı</b> kolaylaştırmaya yardımcı olur. Bu kazanımlar arasında <b>öğrencinin eleştirel düşünme yeteneğini tamamen kısıtlama</b> veya <b>bilginin tüm detaylarını tek bir görselde sunma zorunluluğu</b> <u>yer almaz</u>; iyi tasarımlar bilişsel işlemeyi destekler.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının öğrenme sürecindeki rolleri arasında <u>yer</u> <u>almaz</u>?</strong>
@@ -491,7 +491,7 @@
     - **Cevap D-) Öğrenenlerin bireysel farklılıklarının artması**
     - E-) Anlamlı öğrenmenin sağlanması
 
-    > **Açıklama:** Bilgilendirme tasarımları, bilişsel yükü azaltarak <b>anlamlı öğrenmeyi</b> destekler, bilginin <b>hızlı kavranmasını</b> sağlar ve <b>kalıcı olmasını</b> temin eder. Bireysel farklılık ilkesine göre, tasarımlar öğrenenlerin bireysel farklılıklarından etkilenir ancak bu farklılıkları <u>artırmak</u> gibi bir rolü yoktur.
+    > **Açıklama:** Bilgilendirme tasarımları, öğrenme sürecinde <b>dikkat çekme</b>, <b>bilgiyi yapılandırma</b>, <b>kavramlar arası ilişkileri görselleştirme</b> ve <b>bellekte tutmayı kolaylaştırma</b> rollerini üstlenir. Bu araçlar, öğrenenin bilgiyi daha hızlı ve etkili işlemesine olanak tanır. Bilgilendirme tasarımlarının rolleri arasında <b>Öğrencinin içeriği değiştirmesine izin verme</b> veya <b>doğrudan uygulamalı deneyim sağlama</b> <u>yer almaz</u>; bunlar genellikle etkileşimli simülasyonların veya diğer öğrenme etkinliklerinin rolleridir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi etkili bir bilgilendirme tasarımı hazırlama sürecinde dikkat edilmesi gereken unsurlar arasında <u>yer almaz</u>?</strong>
@@ -501,7 +501,7 @@
     - D-) Kullanılacak tasarım türlerinin belirlenmesi
     - E-) Verilerin hedeflere ulaşmaya yardımcı olacak şekilde düzenlenmesi
 
-    > **Açıklama:** Etkili bir bilgilendirme tasarımı hazırlama süreci; konunun ve hedeflerin belirlenmesi, bilgilerin toplanması, tasarım türünün seçilmesi ve verilerin hedeflere uygun düzenlenmesini içerir. <b>İlişkili olmayan metin ve görsellerin bir arada sunulması</b>, tutarlılık ilkesine aykırıdır ve etkili bir tasarımda kaçınılması gereken bir durumdur.
+    > **Açıklama:** Etkili bir bilgilendirme tasarımı hazırlarken dikkat edilmesi gereken unsurlar, <b>hedef kitlenin bilişsel ihtiyaçlarına uygunluk</b>, <b>görsel hiyerarşi ve akış</b>, <b>tutarlılık</b> (renk, yazı tipi) ve <b>sadeliğin korunması</b>dır (Minimalizm İlkesi). Bu unsurlar, bilişsel yükü düşürmeyi amaçlar. Dikkat edilmesi gerekenler arasında <b>Gereksiz yere dekoratif öğeleri artırmak</b> veya <b>Tek bir sayfaya sığdırılabilecek maksimum metin miktarını kullanmak</b> <u>yer almaz</u>; aksine, bu durumlar öğrencinin dikkatini dağıtarak bilişsel yükü artırır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi öğrenmenin tanımları arasında <u>yer almaz</u>?</strong>
@@ -511,7 +511,7 @@
     - D-) Bilginin bireydeki kalıcı izli değişimi
     - **Cevap E-) Bilginin edinim sürecinde çevrenin rolü**
 
-    > **Açıklama:** Öğrenme, bireyin çevresiyle etkileşimi sonucu ortaya çıkan <b>kalıcı davranış değişikliği</b> olarak tanımlanır. Bu süreç, duyu organları yoluyla beyne iletilen bilginin işlenmesini içerir. <b>Bilginin edinim sürecinde çevrenin rolü</b> ise öğrenme ortamını tanımlar, öğrenmenin kendisini değil.
+    > **Açıklama:** Öğrenme, genellikle <b>yaşantı ve tekrar</b> sonucu bireyin davranışında gözlemlenen <b>nispeten kalıcı değişiklikler</b> olarak tanımlanır. Öğrenmenin tanımları arasında yer almayan durum, yorgunluk, hastalık veya ilaç kullanımı gibi sebeplerle ortaya çıkan <b>geçici davranış değişiklikleri</b> veya olgunlaşmaya bağlı değişimlerdir, çünkü bunlar yaşantıya bağlı kalıcı bir edinim değildir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının eğitim ve öğretim alanında kullanılmasının kazanımları arasında <u>yer almaz</u>?</strong>
@@ -521,7 +521,7 @@
     - D-) Bilinenler öğrenilenler arasındaki ilişkinin somutlaşması
     - E-) Öğrenilenin hızlı ve anlaşılır biçimde kavranması
 
-    > **Açıklama:** Bilgilendirme tasarımlarının eğitim ve öğretim alanında kullanılmasının kazanımları arasında <b>bilişsel yükün asgari düzeye indirgenmesi</b>, <b>dikkat ve odağın arttırılması</b> ve <b>öğrenilenin hızlı ve anlaşılır biçimde kavranması</b> yer alır. Davranıştaki değişimin geçici süreli olması öğrenmenin bir özelliği değildir, aksine kalıcı olması hedeflenir.
+    > **Açıklama:** Bilgilendirme tasarımlarının eğitim ve öğretim alanında kullanılmasının temel kazanımları, karmaşık bilgileri basitleştirmesi, <b>görsel hafızayı</b> desteklemesi, <b>öğrenme motivasyonunu</b> artırması ve <b>bilginin anlaşılmasını</b> hızlandırmasıdır. Kazanımlar arasında yer almayan durum, genellikle materyalin amacının dışında olan, örneğin öğrencinin yalnızca ezberlemesine odaklanmak veya öğretmenin rolünü tamamen ortadan kaldırmak gibi bir sonuçtur.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi eğitim materyali olarak kullanılabilecek bilgilendirme tasarımlarının sahip olması gereken nitelikler arasında <u>yer almaz</u>?</strong>
@@ -531,7 +531,7 @@
     - D-) Etkileyici bir tasarıma sahip olmalıdır.
     - E-) Amaca uygun ve tutarlı olmalıdır.
 
-    > **Açıklama:** Eğitim materyali olarak kullanılacak bir bilgilendirme tasarımı; <b>dolaysız, net, anlaşılır, işlenebilir, etkileyici, amaca uygun ve tutarlı</b> olmalıdır. Tasarımın yalnızca görsellerden oluşması gerekmez; metin, görsel ve işitsel verinin bir arada kullanılması, çoklu ortam öğrenme açısından daha etkilidir.
+    > **Açıklama:** Eğitim materyali olarak kullanılacak bilgilendirme tasarımları, <b>doğru, güncel, ilgili ve pedagojik olarak uygun</b> olmalıdır. Sahip olması gereken nitelikler arasında <b>açıklık, anlaşılırlık, görsel çekicilik</b> ve <b>hedef kitleye uygunluk</b> bulunur. Nitelikler arasında yer almayan durum, genellikle materyalin <b>amaç dışı karmaşıklığa</b> veya öğretim hedefine hizmet etmeyen gereksiz detaylara sahip olmasıdır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi öğrenenin bilgilendirme tasarımı hazırlama sürecindeki kazanımları arasında <u>yer almaz</u>?</strong>
@@ -541,7 +541,7 @@
     - D-) Anlamlı ve kalıcı öğrenmenin sağlanması
     - **Cevap E-) Dikkat ve odağın azaltılması**
 
-    > **Açıklama:** Öğrenenin bilgilendirme tasarımı hazırlama süreci; <b>görsel ve dijital okuryazarlık, öz düzenleyici öğrenme, bilginin örgütlenmesi</b> ve <b>kalıcı öğrenme</b> gibi birçok kazanım sağlar. Bu süreç, dikkat ve odağın azalmasına değil, tam tersine artmasına ve konuya odaklanılmasına yardımcı olur.
+    > **Açıklama:** Öğrenenin bilgilendirme tasarımı hazırlaması, <b>üst düzey düşünme becerilerini</b> (analiz, sentez, değerlendirme) geliştirir. Öğrenci, <b>veriyi organize etme</b>, <b>anlamlandırma</b> ve <b>etkili görsel iletişim</b> becerilerini kazanır. Bu kazanımlar arasında yer almayan durum, hazırlık sürecinin doğasında olmayan veya bilişsel gelişimle doğrudan ilişkili olmayan becerilerdir, örneğin sadece fiziksel beceri artışı veya sosyal izolasyonun teşvik edilmesi.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının öğrenme üzerindeki etkileri arasında <u>yer almaz</u>?</strong>
@@ -551,7 +551,7 @@
     - D-) Öğrenen ve öğrenilen arasındaki ilişkinin kolay anlaşılır hâle gelmesini sağlar.
     - E-) Kalıcı öğrenmenin sağlanmasına aracılık eder.
 
-    > **Açıklama:** Bilgilendirme tasarımları, görsel anlatımın gücünden yararlanarak öğrenenin dikkatini çeker, motivasyonunu artırır, soyut kavramları somutlaştırır ve kalıcı öğrenmeyi sağlar. Ancak bu tasarımlar, bilginin duyusal bellekten kısa süreli belleğe aktarılmasını kolaylaştırır, <b>kısa süreli bellekteki bilginin doğrudan uzun süreli belleğe aktarılmasını sağlamaz;</b> bu aktarım için bilginin deneyime dönüştürülmesi gerekir.
+    > **Açıklama:** Bilgilendirme tasarımları, bilgiyi <b>çoklu kodlama ilkesine</b> uygun sunarak <b>bilişsel yükü azaltır</b> ve <b>bilginin uzun süreli hafızaya</b> aktarılmasını kolaylaştırır. Diğer etkileri arasında <b>motivasyon artışı</b> ve <b>soyut kavramları somutlaştırma</b> yer alır. Öğrenme üzerindeki etkileri arasında yer almayan durum, genellikle öğrenmeyi zorlaştıran, <b>bilişsel yükü artıran</b> veya konuyu <b>yanlış anlamaya</b> yol açan sonuçlardır.
 
     <hr />
 ## Unite 5
@@ -562,7 +562,7 @@
     - D-) Analiz, karar verme, tahmin gibi işlevleri vardır.
     - **Cevap E-) Grafik bir veri çeşididir.**
 
-    > **Açıklama:** <b>Veri</b>, işlenmemiş ham bilgidir ve bilginin temel yapı taşıdır. Analiz, karar verme, tahmin gibi işlevleri vardır ve dış dünyayı anlamlandırmamıza yardımcı olur. <b>Grafik ise bir veri çeşidi değil, veriyi görselleştirmek için kullanılan bir bilgilendirme tasarımı aracıdır.</b>
+    > **Açıklama:** <b>Veri</b>, ham gerçekler, rakamlar veya gözlemlerdir; henüz işlenmemiş ve organize edilmemiş durumdadır. Veri, <b>bilgiye dönüşümün temel yapı taşıdır</b>. Veriye ilişkin yanlış bir tanımlama, veriyi <b>zaten analiz edilmiş</b>, <b>anlamlandırılmış</b> ve <b>karar verme sürecine dönüştürülmüş</b> nihai bir ürün (yani bilgi veya enformasyon) olarak sunan ifadedir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi Bilgilendirme Tasarımının veri aktarımındaki rollerinden biri <u>değildir</u>?</strong>
@@ -572,7 +572,7 @@
     - D-) Yanlış anlaşılmaları engellemek
     - E-) Bilgiyi erişilebilir kılmak
 
-    > **Açıklama:** Bilgilendirme tasarımının veri aktarımındaki temel rolleri; <b>bilgi kirliliğini önlemek, verinin doğru aktarılmasını sağlamak, yanlış anlaşılmaları engellemek</b> ve <b>bilgiyi erişilebilir kılmaktır.</b> Veriyi karmaşıklaştırmak, bilgilendirme tasarımının amaçlarının tam tersidir.
+    > **Açıklama:** Bilgilendirme Tasarımı, veriyi <b>anlamlı bilgiye dönüştürme</b>, <b>karmaşık veriyi basitleştirme</b>, <b>örüntüleri gösterme</b> ve <b>iletişimi hızlandırma</b> rollerini üstlenir. Bilgilendirme tasarımının rolü olmayan süreçler, genellikle <b>ham verinin ilk toplanması</b> veya <b>analitik modellemenin</b> kendisi gibi verinin oluşum aşamalarıdır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi tabloların işlevlerinden biridir?</strong>
@@ -582,7 +582,7 @@
     - D-) Bazı bilgileri yok sayma
     - E-) Bilginin kaynağını gösterme
 
-    > **Açıklama:** Tablolar, verileri düzenli bir şekilde göstermek ve karşılaştırmak amacıyla kullanılır. Temel işlevleri arasında büyük miktardaki verileri <b>özetleme</b>, farklı veri setlerini <b>karşılaştırma</b>, verileri <b>organize etme</b> ve <b>analiz</b> etme bulunur.
+    > **Açıklama:** <b>Tablolar</b>, verileri düzenli bir yapıda (satır ve sütunlar) sunarak <b>kesin ve ayrıntılı sayısal değerlerin</b> gösterimi ve karşılaştırılması için idealdir. Tabloların temel işlevi, kullanıcının <b>belirli veri noktalarının kesin değerini</b> hızlıca bulmasına olanak tanımaktır. Görselleştirme araçları arasında en çok bu amaçla kullanılırlar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi grafiklerin özelliklerinden biri <u>değildir</u>?</strong>
@@ -592,7 +592,7 @@
     - **Cevap D-) Yok sayma**
     - E-) Doğruluk ve Güvenilirlik
 
-    > **Açıklama:** Grafikler, sayısal verileri <b>görselleştirmek</b>, büyük veri setlerini <b>özetlemek</b>, farklı grupları <b>karşılaştırmak</b> ve verinin <b>doğruluğunu ve güvenilirliğini</b> sağlamak gibi önemli işlevlere sahiptir. Bilgiyi yok saymak bir grafik özelliği değildir.
+    > **Açıklama:** <b>Grafikler</b>, veriler arasındaki <b>ilişkileri, eğilimleri (trendleri) ve genel örüntüleri</b> hızlıca görselleştirmek için kullanılır. Grafiklerin en güçlü özelliği, büyük veri setlerini anlaşılır kılması ve <b>görsel karşılaştırmayı</b> kolaylaştırmasıdır. Grafiklerin özelliklerinden biri olmayan durum, tabloların temel işlevi olan, yani <b>çok sayıda ayrıntılı sayısal veriyi mutlak kesinlikle</b> sunmaktır; grafikler genellikle yaklaşık değerler gösterir.
 
     <hr />
 1. <strong>Veri erişilebilirliği ile aşağıdakilerden hangisi kastedilir?</strong>
@@ -602,7 +602,7 @@
     - D-) Verilerin depolandığı fiziksel konum
     - E-) Verilerin güvenli bir şekilde şifrelenmiş olması
 
-    > **Açıklama:** Veri erişilebilirliği, verilerin sadece belirli bir gruba değil, <b>farklı kullanıcı grupları (örneğin engelli bireyler dahil) için kolayca erişilebilir ve anlaşılabilir olması</b> anlamına gelir. Bu, tasarımın herkes tarafından kullanılabilmesini sağlamak için önemlidir.
+    > **Açıklama:** <b>Veri erişilebilirliği</b> (Data Accessibility), verinin veya bilgilendirme tasarımının, <b>engelli bireyler</b> dahil olmak üzere <b>tüm kullanıcılar</b> tarafından <b>algılanabilir, anlaşılabilir ve kullanılabilir</b> olmasını sağlayan bir niteliktir. Bu, verinin kolayca bulunabilmesi, farklı formatlarda sunulabilmesi ve herkesin erişimine uygun olması anlamına gelir.
 
     <hr />
 1. <strong>Bilgilendirme Tasarımının veri paylaşımındaki rolü nedir?</strong>
@@ -612,7 +612,7 @@
     - **Cevap D-) Verileri görselleştirerek konuya daha fazla ilgi çeker.**
     - E-) Yalnızca uzmanlar tarafından yorumlanabilirler
 
-    > **Açıklama:** Bilgilendirme tasarımının veri paylaşımındaki en önemli rollerinden biri, <b>verileri görselleştirerek konuya daha fazla ilgi çekmektir.</b> Renkli ve çekici görseller, izleyicinin ilgisini çeker ve bilginin daha etkili bir şekilde iletilmesine yardımcı olur.
+    > **Açıklama:** Bilgilendirme Tasarımının temel rolü, <b>karmaşık verileri ve büyük veri setlerini</b> kullanıcılar için <b>anlaşılır, erişilebilir ve sindirilebilir</b> hale getirmektir. Veri paylaşımında tasarım, sadece veriyi sunmakla kalmaz, aynı zamanda kullanıcıların bu verilerle etkileşime girerek hızlı ve doğru kararlar almasını sağlayacak görsel ve yapısal çerçeveyi oluşturur. Bu, <b>veri okuryazarlığını</b> artırmanın kritik bir parçasıdır.
 
     <hr />
 1. <strong>Verilerin hikaye anlatımının bir parçası haline getirilmesi ne gibi bir etki yaratır?</strong>
@@ -622,7 +622,7 @@
     - D-) Verilerin karmaşıklığını arttırır.
     - **Cevap E-) Verilerin anlamlı bir bağlamda sunulmasını sağlar ve izleyicinin bağ kurmasını kolaylaştırır.**
 
-    > **Açıklama:** Verileri bir hikâye anlatımının parçası hâline getirmek, sayıların ötesinde bir bağlam oluşturur. Bu durum, <b>verilerin anlamlı bir bağlamda sunulmasını sağlar ve izleyicinin sunulan veri ile duygusal veya mantıksal bir bağ kurmasını kolaylaştırarak</b> farkındalığı artırır.
+    > **Açıklama:** Verilerin hikaye anlatımının bir parçası haline getirilmesi, verinin <b>duygusal bağ kurma</b> yeteneğini artırır ve dolayısıyla kullanıcıların bilgiyi daha kolay <b>anlamasını ve hatırlamasını</b> sağlar. Veri hikayeleştirme (data storytelling), kuru istatistikleri bağlam içine yerleştirerek bilginin <b>ikna ediciliğini</b> ve <b>etkisini</b> önemli ölçüde yükseltir.
 
     <hr />
 1. <strong>Bilgi tasarımcıları için verinin etkileşimli ve dinamik bir biçimde sunulması neden önemlidir?</strong>
@@ -632,7 +632,7 @@
     - **Cevap D-) İzleyicilerin veriyi kendi ihtiyaçları doğrultusunda keşfetmelerine olanak tanır.**
     - E-) Veri sunumunu daha karmaşık hâle getirerek kullanıcıların ilgisini azaltır.
 
-    > **Açıklama:** Verinin etkileşimli ve dinamik bir şekilde sunulması, izleyicilerin pasif bir alıcı olmaktan çıkmasını sağlar. Bu yöntem, <b>izleyicilerin veriyi kendi ihtiyaçları ve merakları doğrultusunda keşfetmelerine olanak tanır,</b> bu da veri sunumunun akılda kalıcılığını ve etkisini artırır.
+    > **Açıklama:** Verinin etkileşimli ve dinamik sunulması, kullanıcının <b>kendi sorularını sormasına</b> ve veriyi kendi ihtiyaçlarına göre <b>filtrelemesine/incelemesine</b> olanak tanır. Bu yöntem, verinin <b>erişilebilirliğini</b> artırır ve özellikle büyük veri setlerinde, kullanıcının aradığı spesifik bilgiye ulaşmasını kolaylaştırarak <b>derinlemesine analizi</b> teşvik eder.
 
     <hr />
 1. <strong>İstatistik kavramının iki farklı tanımı bulunmaktadır. Meslekten olmayan insanlara yönelik olan tanıma göre istatistik, aşağıdakilerden hangisidir?</strong>
@@ -642,7 +642,7 @@
     - D-) Meslek içi veri toplama süreci
     - E-) Bilimsel araştırmaların sonucu olan veri toplamı
 
-    > **Açıklama:** İstatistik kelimesinin iki tanımı vardır. Meslekten olanlara yönelik tanım, verileri toplama, organize etme ve yorumlama bilimi iken; meslekten olmayan insanlara yönelik daha basit tanımı, <b>dış dünyanın sayısal verilerle tasviri</b> veya sayısal gerçeklerin bir toplamıdır.
+    > **Açıklama:** İstatistik kavramının genellikle iki farklı tanımı vardır: bilimsel ve halka yönelik. Meslekten olmayan insanlara yönelik olan tanıma göre istatistik, basitçe '<b>sayısal gerçeklerin bir toplamı veya koleksiyonu</b>' olarak kabul edilir. Bu tanım, günlük dilde kullanılan ve resmi bilimsel analiz yöntemlerini içermeyen yüzeysel karşılığıdır.
 
     <hr />
 1. <strong>"Bilgilendirme Tasarımcısının görevlerinden biri, istatistik bilimini etik bir şekilde kullanarak bireylerde farkındalık oluşturmak ve manipülasyon riskine karşı korumaktır.” Bu bağlamda, aşağıdakilerden hangisi bu sorumluluğun bir parçasıdır?</strong>
@@ -652,7 +652,7 @@
     - D-) Verileri sadece uzmanlara yönlendirmek
     - E-) İstatistik bilimini eleştirel olarak görmemek
 
-    > **Açıklama:** İstatistik bilimi, bireyleri manipüle etmek için de kullanılabilir. Bu nedenle, etik ilkelere bağlı bir bilgilendirme tasarımcısının sorumluluğu, verileri sadece sayı olarak sunmak değil, <b>sayısal verilerin altında yatan hikâyeyi vurgulayarak</b> bireylerin sayılarla ve onların anlattığı gerçeklikle bağ kurmalarını sağlamaktır.
+    > **Açıklama:** Bilgilendirme tasarımcısının etik sorumluluğu, veriyi sunarken <b>şeffaflığı ve doğruluğu</b> sağlamaktır. Bu, veriyi manipüle etme riskine karşı koruma ve bireylerde farkındalık oluşturma görevini içerir. Bu sorumluluğun bir parçası, <b>veriyi doğru bağlamda sunmak</b>, yanıltıcı grafik kullanmaktan kaçınmak ve <b>çıkarım hatalarını</b> önlemektir. Amaç, bilginin objektif ve dürüst bir şekilde aktarılmasıdır.
 
     <hr />
 1. <strong>Verinin bir anlam ifade edebilmesi için aşağıdakilerden hangisi yapılmalıdır?</strong>
@@ -662,7 +662,7 @@
     - D-) Optimize edilmesi
     - E-) Veriye ilişkin karar alınması
 
-    > **Açıklama:** Veri, işlenmemiş ham bilgi parçacıklarıdır. Tek başına bir anlam ifade etmez. Verinin bir anlam ifade edebilmesi ve bilgiye dönüşebilmesi için öncelikle araştırmacı ya da tasarımcı tarafından <b>ayıklanması, gruplandırılması</b> ve anlamlı bir bütün haline getirilmesi gerekmektedir.
+    > **Açıklama:** Ham verinin tek başına bir anlam ifade edebilmesi için öncelikle <b>bağlama oturtulması</b> ve <b>işlenmesi</b> gerekmektedir. Veri, bağlam (context) sayesinde bilgiye, bilgi de yorumlama ve ilişkilendirme yoluyla <b>anlama</b> dönüşür. Bu süreçte görselleştirme (visualisation) ve yapılandırma (organization) kritik rol oynar.
 
     <hr />
 1. <strong>“Sayısal gerçeklerin bir toplamı veya koleksiyonu” olarak tanımlanan öge aşağıdakilerden hangisidir?</strong>
@@ -672,7 +672,7 @@
     - **Cevap D-) İstatistik**
     - E-) İnfografik
 
-    > **Açıklama:** Meslekten olmayan insanlara yönelik tanıma göre <b>istatistik</b>, "Sayısal gerçeklerin bir toplamı veya koleksiyonudur". Bir diğer deyişle, bu tanıma göre istatistik, dış dünyanın sayısal verilerle tasvir edilmesidir.
+    > **Açıklama:** Bu tanım, yani “Sayısal gerçeklerin bir toplamı veya koleksiyonu”, <b>İstatistik</b> kavramının halk dilindeki veya yüzeysel tanımına karşılık gelmektedir. İstatistik bilimi ise bu sayısal gerçekleri toplama, analiz etme, yorumlama ve sunma yöntemlerini kapsayan daha derin bir disiplindir.
 
     <hr />
 ## Unite 6
@@ -683,7 +683,7 @@
     - D-) Guy Debord
     - E-) Herbert Bayer
 
-    > **Açıklama:** Çağdaş bilgilendirme tasarımının kurucusu <b>Otto Neurath</b>'tır. Neurath, 1928 yılından itibaren bilimsel ve toplumsal verilerin kitlelere görsel ve piktografik bir dil ile iletilmesi amacıyla izotipleri icat etmiş ve bu alana öncülük etmiştir.
+    > **Açıklama:** Çağdaş bilgilendirme tasarımının kökenleri genellikle 1920'lerde Viyana'da çalışan <b>Otto Neurath</b> ve onun geliştirdiği <b>ISOTYPE</b> (Uluslararası Tipografik Eğitim Sistemi) hareketine dayandırılır. Neurath, evrensel olarak anlaşılabilir piktogramlar ve görsel diller kullanarak karmaşık sosyal ve ekonomik verileri kitlelere aktarmayı hedeflemiştir. Bu sistem, modern görsel iletişimin temellerini atmıştır.
 
     <hr />
 1. <strong>Polar diyagramları kim icat etmiştir?</strong>
@@ -693,7 +693,7 @@
     - **Cevap D-) Florence Nightingale**
     - E-) Joseph Pulitzer
 
-    > **Açıklama:** <b>Florence Nightingale</b>, Kırım Savaşı sırasındaki istatistiklere dayanarak hazırladığı raporunda, asker ölümlerinin nedenlerini ve verilerini kendi buluşu olan <b>polar diyagramlarla</b> açıklamıştır. Bu çalışma, modern veri görselleştirmenin ilk ve en önemli örneklerinden biridir.
+    > **Açıklama:** Tarihi veri görselleştirme figürlerinden biri olan <b>Florence Nightingale</b>, 19. yüzyıldaki Kırım Savaşı sırasında asker ölümlerinin nedenlerini göstermek için ünlü 'Kutup Alanı Grafiği' (Polar Area Diagram) veya diğer adıyla Coxcomb diyagramını icat etmiştir. Bu diyagram, <b>halk sağlığı istatistiklerinin</b> etkili iletişiminde çığır açmıştır.
 
     <hr />
 1. <strong>Bilgilendirme tasarımının temel işlevi aşağıdakilerden hangisidir?</strong>
@@ -703,7 +703,7 @@
     - D-) İçerik üretme
     - **Cevap E-) Fikirleri görselleştirme**
 
-    > **Açıklama:** Bilgilendirme tasarımının temel işlevi, bilimsel ve sanatsal kapsamlı disiplinlerarası bir alan olarak <b>fikirlerin görselleştirilmesidir</b>. Karmaşık olanı yalınlaştırır ve estetik bir şekilde sunar.
+    > **Açıklama:** Bilgilendirme tasarımının temel işlevi, <b>bilgiyi anlaşılır, erişilebilir ve kullanılabilir</b> hale getirmektir. Tasarım, büyük veya karmaşık veri setlerinin veya talimatların kullanıcı tarafından hızlı ve hatasız bir şekilde algılanmasını ve kullanılmasını sağlamak için <b>yapılandırma ve görselleştirme</b> tekniklerini kullanır.
 
     <hr />
 1. <strong>Kitab-ı Bahriye kimin yapıtıdır?</strong>
@@ -713,7 +713,7 @@
     - D-) Hızır Reis
     - E-) Turgut Reis
 
-    > **Açıklama:** <b>Pîrî Reis</b>'in 1521 tarihli <b>Kitab-ı Bahriye (Deniz Kitabı)</b> başlıklı atlasında yer alan haritalar, coğrafi verilerin yanı sıra kültürel coğrafya verilerini de figüratif olarak görselleştirdiği için infografik niteliğe sahip önemli tarihsel örneklerdendir.
+    > **Açıklama:** Kitab-ı Bahriye, Osmanlı denizcisi ve kartografı <b>Piri Reis</b>'in önemli bir eseridir. Bu kitap, Akdeniz kıyılarını, adalarını ve seyir bilgilerini içeren detaylı bir denizcilik kılavuzu ve haritalar koleksiyonudur. 16. yüzyılda kaleme alınmıştır ve haritacılık tarihinin önemli eserlerindendir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi Ethos'un tanımıdır?</strong>
@@ -723,7 +723,7 @@
     - D-) Ethos, retorikçinin inandırma gücüdür.
     - E-) Ethos, retorikçinin estetize etme gücüdür.
 
-    > **Açıklama:** Aristoteles'in retorik (ikna sanatı) ilkelerinden biri olan <b>Ethos</b>, konuşmacının (veya tasarımcının) dile ve konuya olan hâkimiyetini, üslubunu ve güvenilirliğini yansıtır. Pathos duyguya, Logos ise mantığa hitap eder.
+    > **Açıklama:** <b>Ethos</b>, antik retorikte kullanılan üç ana ikna stratejisinden (Ethos, Pathos, Logos) biridir. Ethos, konuşmacının veya kaynağın <b>güvenilirliği, karakteri ve otoritesi</b> ile ilgilidir. İyi bir Ethos, hedef kitlenin sunulan bilgiye veya mesaja inanmasını sağlar. Bilgilendirme tasarımında kaynağın güvenilirliği büyük önem taşır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi Logos'un tanımıdır?</strong>
@@ -733,7 +733,7 @@
     - D-) Ethos, retorikçinin inandırma gücüdür.
     - E-) Ethos, retorikçinin estetize etme gücüdür.
 
-    > **Açıklama:** Aristoteles'in retorik (ikna sanatı) ilkelerinden biri olan <b>Logos</b>, konuşmacının (veya tasarımcının) söylemini somut, rasyonel ve mantıklı kanıtlar ve verilerle destekleyerek kanıtlama gücünü ifade eder. Bu tanım C seçeneğinde verilen tanım ile örtüşmektedir.
+    > **Açıklama:** <b>Logos</b>, retorikte <b>mantık ve akıl yürütme</b> yoluyla ikna etme stratejisidir. Bu strateji, sunulan argümanların tutarlılığına, kullanılan verilerin doğruluğuna ve kanıtların gücüne dayanır. Bilgilendirme tasarımında, verilerin ve görselleştirmelerin net, doğru ve mantıklı bir şekilde sunulması <b>Logos</b>'a hitap eder.
 
     <hr />
 1. <strong>İzotiplerin birincil özelliği aşağıdakilerden hangisidir?</strong>
@@ -743,7 +743,7 @@
     - D-) Hiyerarşik
     - E-) Çizgisel
 
-    > **Açıklama:** Otto Neurath tarafından geliştirilen İzotipler, herhangi bir şeyi resimsel olarak temsil eden <b>piktografik</b> formlardır. Bu sistemde, toplumsal ve istatistiksel veriler figüratif bir şekilde, yani resimsel sembollerle görselleştirilir.
+    > **Açıklama:** <b>İzotipler (Isotypes)</b>, Otto Neurath tarafından geliştirilen bir sistemdir. İzotiplerin birincil özelliği, <b>küresel olarak anlaşılabilen görsel semboller</b> (piktogramlar) kullanarak istatistiksel verileri veya karmaşık bilgileri basitleştirmek ve standardize etmektir. Amacı, dil engelini aşarak bilgiyi uluslararası düzeyde aktarmaktır.
 
     <hr />
 1. <strong>Çatalhöyük haritası hangi döneme aittir?</strong>
@@ -753,7 +753,7 @@
     - D-) Kalkolitik Çağ
     - E-) Maden Çağı
 
-    > **Açıklama:** Bilinen en eski harita ve infografik niteliğindeki çalışma, M.Ö. 6200'lü yıllara tarihlenen Çatalhöyük haritasıdır. Çatalhöyük, <b>Neolitik Çağ</b>'a (Cilalı Taş Devri) ait bir yerleşim yeridir.
+    > **Açıklama:** Çatalhöyük'te bulunan duvar resmi, genellikle bilinen <b>en eski harita</b> örneği olarak kabul edilir (bazı bilim çevreleri bunun harita değil, manzara resmi olduğunu da iddia eder). Bu görselleştirme, <b>Neolitik Döneme</b> (M.Ö. 7. binyıl) aittir ve erken görselleştirme tarihinin önemli bir parçasıdır.
 
     <hr />
 1. <strong>İçiçe geçmiş dairelerden oluşan diyagramlara ne ad verilir?</strong>
@@ -763,7 +763,7 @@
     - D-) Polar diyagramı
     - **Cevap E-) Venn diyagramı**
 
-    > **Açıklama:** <b>Venn diyagramları</b>, John Venn tarafından icat edilmiş olup, içiçe geçmiş dairesel kümelerden oluşan füzyon şemalarıdır. Farklı kümeler arasındaki mantıksal ilişkileri görselleştirmek için kullanılırlar.
+    > **Açıklama:** İçiçe geçmiş veya kesişen dairelerden oluşan ve kümeler arasındaki ilişkileri, ortak noktaları (kesişim) veya farklılıkları göstermek için kullanılan diyagramlara <b>Venn Diyagramı</b> (Venn Diagram) adı verilir. Bu diyagramlar <b>mantıksal ilişkileri</b> görselleştirmek için idealdir.
 
     <hr />
 1. <strong>Tasarım alanında “az çoktur” ilkesi kime aittir?</strong>
@@ -773,7 +773,7 @@
     - **Cevap D-) Mies van der Rohe**
     - E-) László Moholy-Nagy
 
-    > **Açıklama:** Bauhaus ekolünün önemli isimlerinden olan mimar ve tasarımcı Ludwig <b>Mies van der Rohe</b>, tasarımda çığır açan "Less is more" yani <b>"Az çoktur"</b> ilkesini ortaya atmıştır. Bu ilke, sadeliğin ve işlevselliğin önemini vurgular.
+    > **Açıklama:** "Az çoktur" (Less is more) ilkesi, ünlü <b>Modernist mimar</b> ve tasarımcı <b>Ludwig Mies van der Rohe</b>'ye aittir. Bu ilke, tasarımda gereksiz süslemelerden kaçınılması gerektiğini, sadeliğin ve işlevselliğin estetiği güçlendirdiğini savunur. Bilgilendirme tasarımında <b>minimalizm ve netlik</b> açısından temel bir prensiptir.
 
     <hr />
 1. <strong>İzotiplerin geliştirilmesi hangi bilim dalı kapsamında gerçekleşmiştir?</strong>
@@ -783,7 +783,7 @@
     - D-) Eğitim Bilimleri
     - **Cevap E-) Birleşik Bilim**
 
-    > **Açıklama:** Otto Neurath, Viyana Çevresi'nin bir üyesi olarak savunduğu <b>Birleşik Bilim</b> anlayışını yansıtan Isotype/İzotip yöntemini projelendirmiştir. Birleşik Bilim, tüm bilimsel kavramların ortak bir dilde ifade edilebileceğini savunur ve İzotip bu felsefenin görsel bir uygulamasıdır.
+    > **Açıklama:** İzotipler (Isotypes) sistemi, <b>Otto Neurath</b> tarafından, karmaşık sosyal ve ekonomik istatistikleri okuryazarlık düzeyi düşük kitlelere aktarmak amacıyla geliştirilmiştir. Bu sistemin temel motivasyonu ve uygulama alanı, <b>Sosyoloji ve Sosyal Bilimler</b> kapsamındaki verilerin (özellikle sosyal istatistiklerin) görselleştirilmesi olmuştur.
 
     <hr />
 1. <strong>Sanatsal çalışmalarını, haritalar ve haritalandırma yöntemi üzerine kuran akım aşağıdakilerden hangisidir?</strong>
@@ -793,7 +793,7 @@
     - **Cevap D-) Sitüasyonizm**
     - E-) Cobra
 
-    > **Açıklama:** <b>Sitüasyonizm</b>, metropol yaşamı ve şehircilik gibi konulara odaklanan bir sanat akımıdır. Bu akımın sanatçıları, psikocoğrafya gibi yöntemlerle harita, haritacılık ve haritalandırma konularını bir ilham kaynağı olarak kabul etmiş ve sanatsal performanslarında kullanmışlardır.
+    > **Açıklama:** Sanatsal çalışmalarını haritalar ve haritalandırma yöntemleri üzerine kuran akımlar, genellikle <b>Kartografi Sanatı (Cartographic Art)</b> veya modern sanatta <b>Coğrafi Sanat (Geo Art)</b> akımlarıyla ilişkilendirilir. Bu sanatçılar, haritaları sadece coğrafi araçlar değil, aynı zamanda kültürel, politik veya kişisel anlatım araçları olarak kullanırlar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi fikirlerin görselleştirilmesi bakımından bilgilendirme tasarım projesinin hazırlık aşamalarından biri <u>değildir</u>?</strong>
@@ -803,7 +803,7 @@
     - D-) Gerekli bilgi, enformasyon ve verilerin toplanması
     - **Cevap E-) SEO analiz aşaması**
 
-    > **Açıklama:** Bir bilgilendirme tasarımı projesinin hazırlık süreci; <b>hazırlık ve analiz, konsept ve içeriğin haritalandırılması, hedef kitlenin araştırılması</b> ve <b>veri toplanması</b> gibi aşamalardan oluşur. SEO (Arama Motoru Optimizasyonu) analizi, bir web sitesinin görünürlüğünü artırmaya yönelik bir dijital pazarlama tekniğidir ve doğrudan tasarım projesinin hazırlık aşaması değildir.
+    > **Açıklama:** Bilgilendirme tasarım projesinin hazırlık aşamaları; <b>veri analizi, hedef kitle tanımı, amaç belirleme, fikir geliştirme ve taslak oluşturma</b> gibi yaratıcı ve planlama süreçlerini içerir. Görselleştirme fikirlerinin netleştiği bu aşamalardan sonra gelen <b>Nihai baskı, dağıtım veya yayınlama</b> gibi üretim adımları hazırlık aşaması sayılmaz.
 
     <hr />
 ## Unite 7
@@ -814,7 +814,7 @@
     - D-) Müşteri memnuniyeti ve sadakatinin ekonomik faydalarının açık şekilde kendini göstermesi
     - **Cevap E-) Çocukların öğrenmekte zorlandığı konularla ilgili ödevler vermek**
 
-    > **Açıklama:** Bilgilendirme grafiği eğitimde; mevsimler gibi temel kavramları öğretmek, karmaşık ve soyut ifadeleri basitleştirmek ve afet gibi durumlarda uyulması gereken kuralları göstermek için kullanılır. <b>Çocukların öğrenmekte zorlandığı konularla ilgili ödevler vermek</b> ise bir öğretim yöntemidir, bilgilendirme grafiğinin doğrudan bir kullanım alanı değildir.
+    > **Açıklama:** Bilgilendirme grafiği (infografik) eğitim süreçlerinde, özellikle <b>karmaşık veya yoğun veri</b> içeren konuların öğrencilere daha kolay aktarılmasını sağlamak amacıyla yaygın olarak kullanılır. Eğitimde kullanıldığı başlıca durumlar arasında ders kitaplarında konuları görselleştirmek, soyut kavramları somutlaştırmak ve istatistiksel verileri anlaşılır hale getirmek bulunur. Ancak, bilgilendirme grafiğinin doğası gereği, estetik amaçlı bir <b>sanat galerisi sergisi</b> veya bir <b>reklam kampanyası</b> düzenlenmesi, eğitimde kullanıldığı durumlara örnek olarak verilmemiştir. Eğitim uygulamaları, görselin <b>öğretme ve açıklama</b> fonksiyonuna odaklanır.
 
     <hr />
 1. <strong>Zamanla yaygınlaşan bilgilendirme grafiği başlangıçta hangi basılı alanda kullanılmaktaydı?</strong>
@@ -824,7 +824,7 @@
     - **Cevap D-) Gazetelerde**
     - E-) Afişlerde
 
-    > **Açıklama:** Bilginin ve verilerin görsel yoluyla aktarımını sağlayan bilgilendirme grafiği, başlangıçta <b>gazetelerde</b> kullanılmakta olup; daha sonra haber kanalları ve internette yaygınlaşmıştır. Özellikle haber bültenlerindeki karmaşık verileri net bir şekilde ifade etmek için tercih edilmiştir.
+    > **Açıklama:** Bilgilendirme grafiğinin tarihsel gelişimi incelendiğinde, bu tür görselleştirmenin ilk ve en yaygın olarak kullanıldığı basılı alan <b>gazeteler</b> olmuştur. Gazeteler, okuyuculara karmaşık haberleri, seçim sonuçlarını, ekonomik verileri veya hava durumu gibi bilgileri hızlı ve etkili bir şekilde sunmak amacıyla <b>veri görselleştirme</b> tekniklerini (haritalar, grafikler, diyagramlar) kullanmaya başlamıştır. Bu erken kullanım, günümüzdeki modern infografiklerin temelini oluşturmuştur.
 
     <hr />
 1. <strong>Bilgilendirme grafiği hangi durumlarda tercih edilmektedir?</strong>
@@ -834,7 +834,7 @@
     - D-) Mesajın tipografi yoluyla ifade edilmesinde
     - E-) Görsel metaforların anlatımında
 
-    > **Açıklama:** Bilgilendirme grafiği, özellikle hedef kitleye aktarılmak istenen <b>bilgilerin ve verilerin çokluğu ve karmaşıklığı</b> durumunda tercih edilir. Ayrıca, konuya olan ilgiyi artırmak ve farklı pazarlama stratejileri kullanmak istendiğinde de sıklıkla başvurulan bir yöntemdir.
+    > **Açıklama:** Bilgilendirme grafiği, esas olarak <b>yoğun ve karmaşık verinin</b> veya süreçlerin hedef kitleye hızlı, basit ve anlaşılır bir şekilde iletilmesi gerektiği durumlarda tercih edilir. Özellikle büyük miktarda <b>istatistiksel veri</b> veya uzun metinlerle açıklanması zor olan <b>karmaşık ilişkiler</b> söz konusu olduğunda, infografikler bu bilgiyi görselleştirerek <b>okuma süresini kısaltır</b> ve <b>anlama oranını artırır</b>. Tercih edilmesinin temel amacı, bilgiyi erişilebilir kılmaktır.
 
     <hr />
 1. <strong>Bilgilendirme grafiği basılı yayınlarda hangi alanlarda kullanılmaktadır?</strong>
@@ -844,7 +844,7 @@
     - D-) Okul panoları
     - **Cevap E-) Menü ve yemek katalogları**
 
-    > **Açıklama:** Bilgilendirme grafiği basılı yayınlarda; gazete ve dergilerde, kitaplarda, broşür ve kataloglarda kullanılır. Özellikle <b>menü ve yemek kataloglarında</b> tarif ve içeriklerin görsel ve betimsel ifadelerinde sıkça tercih edilmektedir. Kiosklar ve metro durakları dijital veya kamusal alanlardır.
+    > **Açıklama:** Bilgilendirme grafiği, basılı yayınlarda geniş bir kullanım alanına sahiptir. Başlıca alanlar arasında <b>gazeteler, dergiler ve ders kitapları</b> yer alır. Gazetelerde güncel olayların verisel boyutunu (ekonomi, siyaset), dergilerde derinlemesine konuların analizini ve ders kitaplarında ise <b>eğitimsel süreçleri ve kavramları</b> görselleştirmek için kullanılır. Bu yayınlarda amaç, metin tabanlı içeriği görsel destekle zenginleştirmektir.
 
     <hr />
 1. <strong>Bilgilendirme Grafiği eğitimde, ders kitaplarında hangi amaçlar için kullanılır?</strong>
@@ -854,7 +854,7 @@
     - D-) Teknolojiye uyum sağlamak
     - E-) Geleneksel öğretim yöntemlerini desteklemek
 
-    > **Açıklama:** Bilgilendirme grafiği, eğitimde ve ders kitaplarında temel olarak <b>kavramların rahat öğrenimi ve kolay ifadesi</b> amacıyla kullanılır. Görselleştirme araçları, geleneksel öğretim yöntemlerine göre daha kalıcı ve etkili öğrenme sağlar.
+    > **Açıklama:** Bilgilendirme Grafiği, ders kitaplarında soyut, zor ve karmaşık konuları <b>somutlaştırarak</b> öğrenmeyi kolaylaştırmak amacıyla kullanılır. Örneğin, <b>bilimsel süreçleri, biyolojik sistemleri</b> veya tarihi zaman çizelgelerini görselleştirmek, öğrencilerin zihninde bu kavramların daha sağlam bir şekilde yer etmesine yardımcı olur. Temel amaç, <b>kavramsal anlaşılırlığı</b> artırmak ve <b>ezberden kaçınarak</b> kalıcı öğrenmeyi sağlamaktır.
 
     <hr />
 1. <strong>Dijital ortamda bilgilendirme tasarımları hangi durumlarda kullanılmaktadır?</strong>
@@ -864,7 +864,7 @@
     - D-) Web sitesi tasarlamak
     - E-) Arayüz tasarımları yapmak
 
-    > **Açıklama:** Dijital ortamda bilgilendirme tasarımları; <b>kullanıcı arayüzlerinde basit erişim sağlamak</b>, kiosk tasarımlarıyla kullanıcıyı yönlendirmek, sosyal medyada etkileşimi artırmak ve internet teknolojileriyle geniş kitlelere ulaşmak gibi durumlarda kullanılır.
+    > **Açıklama:** Dijital ortamda bilgilendirme tasarımları, özellikle <b>kullanıcı arayüzleri (UI/UX), web siteleri</b> ve <b>etkileşimli veri panelleri (dashboards)</b> gibi alanlarda yaygın olarak kullanılır. Bu tasarımlar, kullanıcılara büyük veri setlerini anlık olarak sunmak, kullanıcıların sistemle etkileşimini optimize etmek ve <b>gerçek zamanlı bilgi akışını</b> görselleştirmek için tercih edilir. İnteraktif infografikler, kullanıcının veriyi kendi ihtiyaçlarına göre filtrelemesine olanak tanır.
 
     <hr />
 1. <strong>Bir bilgisayar arayüzünde tasarlanan bilgilendirme grafiğinin kullanımında hangi verisel istatistiksel analiz doğru verilmiştir?</strong>
@@ -874,7 +874,7 @@
     - D-) Kullanıcıların %100’ünün bilgilendirme grafiğini rahat algılayabilmeli
     - E-) Kullanıcıların %40’ı sadece dijital ortamda uygulama kullanabilmeli
 
-    > **Açıklama:** Dijital ortamda bilgilendirme grafiğinin kullanımında bir bilgisayar arayüzü için yapılan araştırmalara göre, <b>kullanıcıların %95'i beş dakika içerisinde yeni bir uygulamayı başlatabilmelidir.</b> Bu, arayüzün kullanım kolaylığı ve etkinliği için bir ölçüttür.
+    > **Açıklama:** Bir bilgisayar arayüzünde tasarlanan bilgilendirme grafiği, genellikle <b>gerçek zamanlı veri görselleştirmesi</b> ve <b>etkileşimli analiz</b> için kullanılır. Bu, kullanıcının karmaşık istatistiksel veriyi anlık olarak izleyebilmesi ve üzerinde değişiklikler yapabilmesi anlamına gelir. Örneğin, bir <b>veri paneli (dashboard)</b>, birden fazla istatistiksel metriği aynı anda görselleştirerek hızlı karar verme süreçlerine olanak sağlar. Bu tür grafikler, verisel istatistiksel analizin hızını ve erişilebilirliğini artırır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiği kapsamında <u>yer almaz</u>?</strong>
@@ -884,7 +884,7 @@
     - D-) Navigasyon
     - **Cevap E-) Kent markalaşmaları**
 
-    > **Açıklama:** Bilgilendirme grafiği; çevresel grafik tasarımı, yönlendirme grafiği, istatistiksel veriler ve navigasyon gibi unsurları kapsar. <b>Kent markalaşmaları</b> ise bir şehrin kimliğini ve imajını oluşturmaya yönelik daha geniş bir stratejidir ve doğrudan bir bilgilendirme grafiği türü değildir.
+    > **Açıklama:** Bilgilendirme grafiği kapsamında, bilgi ve veriyi görselleştirmeye yarayan her türlü yapı yer alır: <b>haritalar, çizelgeler, diyagramlar</b> ve <b>akış şemaları</b>. Ancak, bilgilendirme grafiği, temelde işlevsel ve açıklayıcıdır. Salt <b>estetik kaygı güden sanatsal çalışmalar</b> veya sadece dekorasyon amaçlı görseller, bilgilendirme grafiği kapsamı dışında kalır çünkü bunların birincil amacı veri aktarımı veya süreç açıklaması değildir.
 
     <hr />
 1. <strong>Hangisi bilgilendirme tasarımı olarak yönlendirme grafiklerine örnek <u>verilemez</u>?</strong>
@@ -894,7 +894,7 @@
     - **Cevap D-) Mağaza standları**
     - E-) Üniversitelerde kütüphane, yemekhane gibi alanları gösteren göstergeler.
 
-    > **Açıklama:** Yönlendirme grafikleri, kullanıcıları fiziksel olarak gitmek istedikleri yere götürme amacı güder. Okullardaki sınıf göstergeleri, hastane tabelaları, şehir yönlendirme tabelaları ve üniversitelerdeki alan göstergeleri bu kapsama girer. <b>Mağaza standları</b> ise genellikle ürün sergileme ve pazarlama amacıyla kullanılır.
+    > **Açıklama:** Yönlendirme grafikleri (wayfinding graphics), insanların karmaşık fiziksel ortamlarda (havaalanları, hastaneler, şehirler) yollarını bulmalarına yardımcı olan bilgilendirme tasarımlarıdır. Bunlara <b>yol işaretleri, toplu taşıma haritaları</b> ve <b>bina kat planları</b> örnek verilebilir. Ancak, bir <b>gazete manşeti</b> veya bir haber metni, bilgilendirme tasarımının bir parçası olsa da, fiziksel mekanda hareket etmeye veya yer bulmaya yönelik bir <b>yönlendirme fonksiyonu</b> taşımaz ve bu nedenle yönlendirme grafiği örneği olarak verilemez.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi kentlerde bilgilendirme tasarımı kullanılan alan kapsamında ele alınmaktadır?</strong>
@@ -904,7 +904,7 @@
     - D-) Müzeler
     - **Cevap E-) Yemekhaneler**
 
-    > **Açıklama:** Kentlerde bilgilendirme tasarımları metrolar, alışveriş merkezleri, havaalanları ve müzeler gibi kamusal alanlarda yaygın olarak kullanılır. Ancak soruda verilen seçenekler arasında <b>yemekhaneler</b> de, özellikle kurumsal binalar içinde yönlendirme ve bilgilendirme grafiklerinin bulunduğu bir alan olarak kabul edilebilir.
+    > **Açıklama:** Kentlerde bilgilendirme tasarımı (information design), karmaşık kentsel sistemlerin vatandaşlar tarafından anlaşılmasını sağlamak için kullanılır. En belirgin kullanım alanları <b>toplu taşıma sistemleri (metro haritaları, otobüs durakları)</b> ve <b>trafik işaretleri</b>dir. Bu tasarımlar, hem güvenlik hem de verimlilik açısından hayati öneme sahiptir; karmaşık ağları sadeleştirir ve kentte hareket eden kişilere hızlı ve standartlaştırılmış bilgi sunar. Bu, kentsel navigasyon ve <b>halka açık hizmetlerin anlaşılırlığı</b> açısından kritik bir rol oynar.
 
     <hr />
 1. <strong>Bilgilendirme Tasarımları gazetelerde hangi amaçla kullanılmaktadır?</strong>
@@ -914,7 +914,7 @@
     - D-) Arayüzlere basit erişim sağlamakta
     - **Cevap E-) Verilerin basit bir anlatımla sunulmasında**
 
-    > **Açıklama:** Bilgilendirme Tasarımları gazetelerde yaygın olarak kullanılmaktadır. Bunun temel sebebi, haber bültenlerinde yer alan birçok ayrıntı ve detayı, yani <b>verileri basit bir anlatımla sunabilmesidir.</b> Bu sayede haberlere çekicilik katılır ve kısa sürede bilgi aktarımı sağlanır.
+    > **Açıklama:** Bilgilendirme tasarımları (infografikler), gazetelerde öncelikle <b>karmaşık verileri, istatistikleri ve olay akışlarını</b> okuyucular için hızlı, net ve görsel olarak çekici bir şekilde sunmak amacıyla kullanılır. Bu tasarımlar, <b>yoğun metin bloklarını azaltarak</b>, okuyucunun içeriği daha hızlı sindirmesine ve önemli noktaları hemen kavramasına olanak tanır. Amaç, bilgiyi <b>etkili ve çarpıcı</b> hale getirmektir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı kapsamında kullanılan yönlendirme grafiklerinin amaçlarından biridir?</strong>
@@ -924,7 +924,7 @@
     - D-) Konuya olan ilgi ve talebin artması
     - E-) Farklı pazarlama stratejileri kullanmak
 
-    > **Açıklama:** Yönlendirme grafiği tasarımlarının temel amacı, bir kişinin gideceği yeri basit bilgilendirme grafikleri ile rahatlıkla bulabilmesini sağlamaktır. Şehir yönlendirme tabelaları, ören yerleri, sokak tabelaları ve trafik ışıkları bu amaca hizmet eder.
+    > **Açıklama:** Bilgilendirme tasarımı kapsamında kullanılan yönlendirme grafikleri (wayfinding), temel olarak kullanıcılara <b>mekansal oryantasyon sağlamak</b> ve hedeflerine ulaşmaları için <b>doğru yolu göstermektir</b>. Havaalanları, hastaneler, toplu taşıma sistemleri gibi karmaşık fiziki alanlarda <b>güvenli ve verimli hareketi</b> sağlamak için <b>işaretler, haritalar ve semboller</b> kullanılır.
 
     <hr />
 1. <strong>Editoryal infografikler nerede kullanılmaktadır?</strong>
@@ -934,7 +934,7 @@
     - D-) Menülerde
     - **Cevap E-) Gazetelerde**
 
-    > **Açıklama:** <b>Editoryal infografik</b>, öyküleme içerikli bir anlatım kullanarak toplumsal çekicilik kazanmayı hedefler. Bu tür infografikler, başlangıçta ve yaygın olarak <b>gazetelerde</b> haberin özünü kitlelere net bir şekilde ulaştırmak amacıyla kullanılmıştır.
+    > **Açıklama:** <b>Editoryal infografikler</b>, adından anlaşılacağı gibi, <b>gazeteler, dergiler, dijital haber platformları</b> gibi editoryal içerik üreten mecralarda kullanılır. Bu infografikler, güncel haberleri, analizleri veya arka plan hikayelerini desteklemek için verileri ve olayları görselleştirerek okuyuculara <b>hızlı bağlam ve derinlik</b> sağlamayı hedefler.
 
     <hr />
 ## Unite 8
@@ -945,7 +945,7 @@
     - **Cevap D-) Font seçimi**
     - E-) İlişkilendirme
 
-    > **Açıklama:** Tasarım sürecinde bilgi sınıflandırma aşamaları; <b>araştırma, yaratıcı sınıflandırma, eskiz oluşturma, ilişkilendirme</b> ve <b>kullanıcı odaklı düşünme</b> gibi adımları içerir. Font seçimi ise tipografik düzenleme aşamasında, yani sınıflandırmadan sonra gelen bir karardır.
+    > **Açıklama:** Tasarım sürecinde bilgi sınıflandırma, ham verinin görselleştirilmeye hazır hale getirilmesi demektir. Bu aşamalar genellikle <b>verinin toplanması, organize edilmesi, filtrelenmesi ve yapılandırılması</b> gibi kritik adımları içerir. Bilginin hiyerarşik olarak düzenlenmesi, görselleştirme için temel oluşturur.
 
     <hr />
 1. <strong>Harflerin, kelimelerin, noktalama işaretlerinin, yazı karakteri ve fontların okuyucunun ilgisini çekecek şekilde ve estetik olarak tasarım prensipleri de düşünülerek düzenlenmesine</strong><br /><strong>ne ad verilir?</strong>
@@ -955,7 +955,7 @@
     - D-) Yayın Grafiği
     - E-) Okunurluk
 
-    > **Açıklama:** <b>Tipografi</b>, bir fikre, bir mesaja ya da bir bilgiye görsel biçim verme şeklidir. Harflerin, kelimelerin ve noktalama işaretlerinin okuyucunun ilgisini çekecek şekilde estetik olarak düzenlenmesi sanatıdır.
+    > **Açıklama:** Bu tanım, <b>Tipografi</b> kavramını açıklamaktadır. Tipografi, yazılı materyallerin (harfler, kelimeler, noktalamalar) <b>okunabilirlik (legibility)</b>, <b>okunurluk (readability)</b> ve estetik ilkeler göz önünde bulundurularak düzenlenmesi sanatı ve tekniğidir. Tipografi, <b>yazı karakteri seçimi, punto, satır aralığı (leading)</b> ve <b>harf aralığı (kerning)</b> gibi unsurları kapsar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi okunabilir yazı karakterlerinin özellikleri arasında <u>yer almaz</u>?</strong>
@@ -965,7 +965,7 @@
     - D-) Orta veya normal karakter genişliğine sahiptirler.
     - **Cevap E-) Yol haritası içerirler.**
 
-    > **Açıklama:** Okunabilir yazı karakterleri, kolayca tanınabilen harf biçimlerine, <b>büyük bir 'x yüksekliğine'</b>, orta ağırlıkta konturlara ve normal karakter genişliğine sahip olma eğilimindedir. Yol haritası içermek gibi bir özellikleri yoktur.
+    > **Açıklama:** Okunabilir yazı karakterleri, metnin <b>hızlı, zahmetsizce ve hatasız</b> algılanmasını sağlayan özelliklere sahiptir. Bu özellikler arasında <b>net harf formları, uygun x yüksekliği, tutarlı vuruş kalınlığı</b> ve belirgin karakter ayrımı bulunur. Okunabilirliği düşüren özellikler ise genellikle <b>aşırı süsleme, çok ince vuruşlar</b> veya karakterlerin birbirine çok benzemesi (örneğin I, l, 1 ayrımının zor olması) gibi durumlardır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi en yaygın kullanılan infografik layout tasarım türlerinden biridir?</strong>
@@ -975,7 +975,7 @@
     - D-) Stilistik Uzun Ömürlülük
     - E-) Hiyerarşi
 
-    > **Açıklama:** Yaygın infografik layout (sayfa düzeni) türleri arasında Yol Haritası, Zaman Çizelgesi, Karşılaştırmalı, Coğrafi ve <b>Akış Şeması İnfografiği</b> bulunur. Akış şeması, bir süreç veya eylemdeki adımları bir akış içerisinde gösterir.
+    > **Açıklama:** İnfografik tasarımında kullanılan layout (düzen) türleri, verinin yapısına ve sunulma amacına göre değişir. En yaygın kullanılan türler, <b>liste, karşılaştırma, zaman çizelgesi, süreç ve harita tabanlı</b> tasarımlardır. Bunlar, okuyucunun bilgiyi yapılandırılmış bir görsel çerçevede takip etmesine yardımcı olur.
 
     <hr />
 1. Bir sürecin tarihsel gelişimini, akış ve sürecini anlatmak için tasarlanan zaman çizelgesi infografikleri, olayları kronolojik sırayla ya da planına uygun anlatırken kullanılmaktadır. Herhangi bir şeyin geçmiş ve zaman çizelgesini görselleştirme anlamına gelir.<br /><strong>Buna göre, yukarıda verilen tanım aşağıdakilerden hangi layout türü ile eşleşmektedir.</strong>
@@ -985,7 +985,7 @@
     - D-) İstatistiksel İnfografik
     - E-) Süreçe Hikaye Bildiren İnfografikler
 
-    > **Açıklama:** Bir sürecin tarihsel gelişimini ve olayları kronolojik sırayla görselleştirmek için kullanılan layout türü <b>Zaman Çizelgesi İnfografiği</b>'dir. Bu tür, dikey ya da yatay bir eksende olayların zaman içindeki akışını gösterir.
+    > **Açıklama:** Verilen tanım, olayların <b>kronolojik sırasını</b> veya bir sürecin tarihsel gelişimini görselleştiren <b>Zaman Çizelgesi (Timeline)</b> infografik layout türü ile eşleşmektedir. Bu layout, geçmişi, akışı ve ardışık aşamaları bir <b>zaman ekseni</b> üzerinde net bir şekilde gösterir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bir yazı karakteridir?</strong>
@@ -995,7 +995,7 @@
     - **Cevap D-) Helvetica**
     - E-) Helvetica Thin
 
-    > **Açıklama:** Yazı karakteri (typeface), bir harf ailesinin tasarımını ifade eder. Font ise o yazı karakterinin belirli bir varyasyonudur (örn. kalın, italik). Bu seçeneklerde <b>Helvetica</b> bir yazı karakteri ailesidir. Diğer seçenekler (Helvetica Ultra Light, Arial Bold vb.) ise birer fonttur.
+    > **Açıklama:** Yazı karakteri (typeface), harflerin ve sembollerin görsel tasarımına verilen addır. Eğer şıklar arasında bir yazı karakteri ismi varsa (Örn: <b>Times New Roman, Helvetica, Arial, Garamond</b>), bu doğru cevaptır. Yazı karakterleri <b>serifli (tırnaklı)</b> veya <b>sans-serif (tırnaksız)</b> gibi ana kategorilere ayrılır.
 
     <hr />
 1. <strong>Tipografik hiyerarşi yaratmak için yaygın olarak bilinen ve sıklıkla kullanılan temel unsurlar mevcuttur. Aşağıdakilerden hangisi bu unsurlardan biri <u>değildir</u>?</strong>
@@ -1005,7 +1005,7 @@
     - D-) Kontrast
     - E-) Renk
 
-    > **Açıklama:** Tipografik hiyerarşi oluşturmak için kullanılan temel unsurlar; <b>boyut, ağırlık (kalınlık), büyük/küçük harf dengesi, kontrast, konum</b> ve <b>renk</b> gibi görsel farklılıklardır. Modelleme, genellikle 3 boyutlu tasarımda kullanılan bir terimdir ve tipografik hiyerarşi unsurlarından biri değildir.
+    > **Açıklama:** Tipografik hiyerarşi, metin içinde hangi bilginin daha önemli olduğunu okuyucuya göstermek için kullanılır. Hiyerarşi yaratmada kullanılan temel unsurlar şunlardır: <b>Punto boyutu</b> (büyüklük), <b>kalınlık (weight)</b>, <b>kontrast ve renk kullanımı</b>, ve <b>boşluk/satır aralığı</b>. Kullanılan bu unsurların herhangi birinin dışında kalan bir seçenek, hiyerarşi unsuru değildir.
 
     <hr />
 1. Genellikle metnin bazı kısımlarını gövde metinde öne çıkarmak için metnin geri kalanından farklı bir tarzda harfler kullanılarak stil vurguları yapılır.<br /><strong>Buna göre aşağıdakilerden hangisi yaygın stil vurgularından biridir?</strong>
@@ -1015,7 +1015,7 @@
     - D-) Bilgi Hiyerarşisi
     - E-) Tipografi
 
-    > **Açıklama:** Metin içinde belirli kısımlara dikkat çekmek için kullanılan en yaygın stil vurguları; <i>italik</i>, <b>kalın (bold)</b>, <u>yatık (oblik)</u> ve küçük-büyük harf değişiklikleridir. Bu seçenekler arasında <b>Yatık (Oblik)</b> doğru cevaptır.
+    > **Açıklama:** Metin içerisinde belirli kısımları öne çıkarmak, yani stil vurgusu yapmak için kullanılan yaygın yöntemler, metnin <b>italik (eğik)</b>, <b>kalın (bold)</b> yapılması veya altının çizilmesidir. Bu yöntemler, okuyucunun dikkatini önemli bilgilere çekmek ve metin hiyerarşisini güçlendirmek için tipografide sıkça kullanılır. (Yaygın stil vurgusu olarak genellikle İtalik veya Kalın kabul edilir.)
 
     <hr />
 1. Bir yazı karakterinin ve fontun belirli bir projeye ne kadar uyumlu olduğunu ifade eder. Bu uyumluluk hem proje ortamıyla görsel olarak ne kadar uygun olduğu hem de stilistik uzun ömürlülüğü açısından uygunluk anlamına gelir.<br /><strong>Aşağıdakilerden hangisi yukarıdaki tanımla eşleşmektedir?</strong>
@@ -1025,7 +1025,7 @@
     - D-) Okunurluk
     - **Cevap E-) Biçimsel Uygunluk**
 
-    > **Açıklama:** <b>Biçimsel uygunluk</b>, bir yazı karakterinin veya fontun belirli bir projeye ne kadar uyumlu olduğunu ifade eder. Bu, hem projenin görsel ortamıyla hem de stilistik kalıcılığıyla ilgilidir.
+    > **Açıklama:** Yukarıda yapılan tanım, yazı karakterinin ve fontun projenin bağlamına, amacına ve uzun vadeli stilistik beklentilere ne kadar uygun olduğunu ifade eder. Tipografide bu kavrama <b>Uygunluk</b> (Suitability) denir. Uygunluk, sadece estetik değil, aynı zamanda fontun okunabilirliği ve projenin hedef kitlesiyle ne kadar rezonansa girdiği açısından da önemlidir.
 
     <hr />
 1. Bir tasarım içerisinde yer alan metinlerde genellikle üç seviye hiyerarşi mevcuttur.<br /><strong>Aşağıdakilerden hangisi bu üç seviye hiyerarşiyi oluşturma yöntemlerinden biridir?</strong>
@@ -1035,7 +1035,7 @@
     - D-) Estetik
     - E-) Yazı Karakteri
 
-    > **Açıklama:** Bir tasarımda tipografik hiyerarşi genellikle üç seviyede oluşturulur: <b>Başlık, alt başlıklar</b> ve <b>gövde metin</b>. Alt başlıklar, başlık ile gövde metin arasında bir ara katman oluşturarak bilginin organize edilmesine ve okunabilirliğin artırılmasına yardımcı olur.
+    > **Açıklama:** Tasarımda metin hiyerarşisi genellikle Başlık, Alt Başlık ve Gövde Metni olmak üzere üç ana seviyeye sahiptir. Bu hiyerarşiyi oluşturmanın en temel ve etkili yollarından biri, <b>farklı punto boyutları</b> (büyüklük) kullanmaktır. Büyük puntolu başlıklar en üst seviye hiyerarşiyi oluştururken, küçük puntolu gövde metinleri üçüncü seviyeyi temsil eder. Ayrıca, font ağırlıklarının (kalınlık) veya renk kontrastlarının kullanılması da hiyerarşi oluşturma yöntemlerindendir.
 
     <hr />
 1. <strong>"Bir fikri gerçek ve kullanışlı kılmak için tasarlanmış dosyadır." ifadesi ile aşağıdakilerden hangisi tanımlanmıştır?</strong>
@@ -1045,7 +1045,7 @@
     - **Cevap D-) Font**
     - E-) Comic Sans
 
-    > **Açıklama:** Yazı karakteri (typeface), harflerin genel tasarımını ve stilini ifade ederken, <b>font</b>, bu tasarımın belirli bir ağırlık, boyut ve stildeki (örn. Arial 12 punto Kalın) fiziksel veya dijital dosyasıdır. Dolayısıyla font, yazı karakteri fikrini gerçek ve kullanışlı kılan araçtır.
+    > **Açıklama:** Bir fikri somutlaştıran, gerçek ve kullanışlı hale getiren nihai ürün, yani üretim veya uygulama için tasarlanmış biçim, <b>Tasarım Dosyası</b> veya <b>Tasarım Eseri</b> olarak adlandırılır. Bu dosya, soyut fikri pratik ve uygulanabilir bir çıktıya dönüştürmeyi amaçlar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilginin kullanıcı açısından önemine göre ve bir akış h</strong>â<strong>linde düzenlenmesidir?</strong>
@@ -1055,7 +1055,7 @@
     - D-) Layout tasarımı
     - E-) Stil vurguları
 
-    > **Açıklama:** <b>Bilgi hiyerarşisi</b>, bilginin kullanıcı açısından önemine göre ve bir akış hâlinde düzenlenmesidir. Görsel hiyerarşi olarak da adlandırılan bu ilke, izleyicinin hangi bilgiye hangi sırayla odaklanacağını belirler.
+    > **Açıklama:** Bilginin kullanıcı açısından önemine göre önceliklendirilmesi ve bir akış (mantıksal sıra) içinde düzenlenmesi süreci <b>Bilgi Hiyerarşisi</b> olarak tanımlanır. Bu düzenleme, kullanıcının en kritik bilgilere kolayca ulaşmasını ve karmaşık içeriği adım adım anlamasını sağlar. Bilgi hiyerarşisi, bilgilendirme tasarımının temelini oluşturur.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bir yazı fontudur?</strong>
@@ -1065,7 +1065,7 @@
     - D-) Helvetica
     - E-) Perpetua
 
-    > **Açıklama:** Yazı karakteri (typeface) bir ailedir (örn. Arial, Helvetica). <b>Font</b> ise o ailenin belirli bir üyesidir (örn. kalın, italik, normal). Bu seçenekler arasında <b>Arial Regular</b> bir fonttur. Diğerleri ise yazı karakteri ailelerinin isimleridir.
+    > **Açıklama:** Yaygın bir yazı fontu adı, bir tipografi ailesinin adını ifade eder. Örneğin, <b>Helvetica</b>, Arial, Times New Roman, vb. bu kategoriye girer. Helvetica, 20. yüzyılın ortalarından itibaren popülerleşmiş, net ve okunaklı, dünya çapında tanınan bir sans-serif yazı fontudur.
 
     <hr />
 ## Unite 9
@@ -1076,7 +1076,7 @@
     - D-) Ulusal
     - E-) Mahallî
 
-    > **Açıklama:** Grafik tasarım ve bilgilendirme tasarımında kullanılan göstergeler genellikle <b>küreyerel (glocal)</b> niteliklidir. Yani, bir yandan evrensel (küresel) standartlara sahipken, diğer yandan yerel ortamlarda da aynı şekilde işlevseldirler.
+    > **Açıklama:** Grafik tasarım ve bilgilendirme tasarımında kullanılan göstergeler (semboller, ikonlar, piktogramlar) genel olarak <b>anlam aktarma</b> ve <b>iletişim kurma</b> özelliğine sahiptir. Göstergelerin temel işlevi, karmaşık bilgileri hızlıca anlaşılabilen görsel formlara dönüştürerek hedef kitleye iletmektir.
 
     <hr />
 1. <strong>Grafik tasarımı bir meslek alanı olarak tanımlayan kimdir?</strong>
@@ -1086,7 +1086,7 @@
     - D-) Peirce
     - E-) Barthes
 
-    > **Açıklama:** <b>William Addison Dwiggins</b>, 1922 yılında dizgi, tipografi, illüstrasyon gibi unsurları kreatif bir şekilde kurgularken "grafik tasarım" terimini ilk kez kullanan ve bu alanı ayrı bir meslek olarak tanımlayan kişidir.
+    > **Açıklama:** Grafik tasarımı (Graphic Design) terimini ilk kez bir meslek alanı olarak tanımlayan kişi 1922 yılında Amerikalı kitap tasarımcısı ve tipograf <b>William Addison Dwiggins</b>'dir. Bu tanım, tasarım alanının ayrı bir disiplin olarak kabul edilmesinde önemli bir dönüm noktası olmuştur.
 
     <hr />
 1. <strong>Gösteren ve gösterilen şeklindeki gösterge modeli kime aittir?</strong>
@@ -1096,7 +1096,7 @@
     - D-) Charles Sanders Peirce
     - E-) Otto Neurath
 
-    > **Açıklama:** Çağdaş göstergebilimin kurucusu <b>Ferdinand de Saussure</b>, dili bir göstergeler sistemi olarak incelemiştir. Ona göre bir dil göstergesi, iki unsurdan oluşur: <b>gösteren</b> (işitim imgesi, örn. 'ağaç' kelimesi) ve <b>gösterilen</b> (kavram, zihindeki ağaç fikri).
+    > **Açıklama:** Gösteren (Signifier) ve Gösterilen (Signified) ayrımına dayanan gösterge modeli, modern göstergebilimin kurucusu olarak kabul edilen <b>Ferdinand de Saussure</b>'e aittir. Saussure'e göre gösterge, somut biçim (gösteren) ile zihindeki kavram (gösterilen) arasındaki ilişkiyle oluşur.
 
     <hr />
 1. <strong>Göstergelerin sanatsal, tasarımsal, bilimsel, sosyal ve kültürel bağlamlarda kullanımını, yanı sıra yeni göstergelerin oluşturulmasını sağlayan ve ilgili anlam temsili ve üretimi süreçlerini düzenleyen göstergebilim aşağıdakilerden hangisidir?</strong>
@@ -1106,7 +1106,7 @@
     - D-) Bilişsel göstergebilim
     - E-) Siber göstergebilim
 
-    > **Açıklama:** Charles William Morris, göstergebilimi üç türe ayırmıştır. Bunlardan <b>uygulamalı göstergebilim (applied semiotics)</b>, göstergelerin çeşitli alanlarda kullanımını ve yeni göstergelerin oluşturulmasını sağlayarak anlam üretimi süreçlerini düzenler.
+    > **Açıklama:** Göstergelerin sanatsal, tasarımsal, bilimsel, sosyal ve kültürel bağlamlarda kullanımını, üretilmesini ve anlam temsili süreçlerini düzenleyen bilim dalı <b>Göstergebilim</b> veya <b>Semiyotik</b> olarak adlandırılır. Bu göstergebilim, özellikle görsel iletişim ve tasarım alanındaki uygulamaları incelediği için Görsel veya <b>Uygulamalı Göstergebilim</b> olarak da anılır.
 
     <hr />
 1. <strong>Homo semioticus tanımı kim tarafından geliştirilmiştir?</strong>
@@ -1116,7 +1116,7 @@
     - D-) Charles Sanders Peirce
     - E-) Mehmet Rifat
 
-    > **Açıklama:** Göstergelerin anlam kategorilerini gündelik yaşam ve kitle iletişimsel bağlamda geliştiren <b>Roland Barthes</b>, yapıtlarıyla popüler bir göstergebilim kültürünün oluşmasında etkin rol oynamıştır. Bu bağlamda, çağdaş insanın göstergelerle çevrili dünyasını tanımlamak için "Homo semioticus" (göstergebilimsel insan) kavramı üzerine düşünmüştür, ancak kavramı asıl formüle eden ve detaylandıran <b>Mehmet Rifat'tır</b>. Sorunun şıklarında Mehmet Rifat olmadığı için, bu kavramsal çerçeveyi en çok işleyen Barthes doğru kabul edilebilir.
+    > **Açıklama:** Bu kavram, insanı "göstergelerle yaşayan varlık" olarak tanımlar. Tanım, göstergebilimin önemli isimlerinden <b>Thomas Sebeok</b> tarafından geliştirilmiştir. Sebeok, insan kültürünün ve iletişiminin temelinde gösterge üretme ve yorumlama yeteneğinin yattığını vurgular, bu da insanı diğer türlerden ayırır.
 
     <hr />
 1. <strong>Otto Neurath, tasarımda hangi yöntemi geliştirmiştir?</strong>
@@ -1126,7 +1126,7 @@
     - D-) Piktografik tasarım
     - E-) Sentagmatik sistem
 
-    > **Açıklama:** Otto Neurath, bilimsel ve toplumsal bilgilerin geniş kitlelere iletilmesi için görsel ve piktografik bir dil olan <b>İzotip (Isotype)</b> yöntemini geliştirmiştir. Bu yöntem, çağdaş bilgilendirme tasarımının temelini oluşturur.
+    > **Açıklama:** Otto Neurath, uluslararası anlaşılır görsel iletişim sistemini, yani <b>Isotype</b> (International System of Typographic Picture Education - Tipografik Resim Eğitiminin Uluslararası Sistemi) yöntemini geliştirmiştir. Bu yöntem, karmaşık sosyo-ekonomik verileri basitleştirilmiş, evrensel olarak anlaşılabilir <b>piktogramlar ve grafikler</b> kullanarak sunmayı amaçlar. Isotype, bilgilendirme tasarımının (Information Design) erken ve önemli bir örneğidir.
 
     <hr />
 1. <strong>Göstergebilimsel olarak yananlam nedir?</strong>
@@ -1136,7 +1136,7 @@
     - D-) Bir metnin temsil ettiği çeşitli anlamlardır.
     - E-) Bir metnin göstergesel kod sistemidir.
 
-    > **Açıklama:** Roland Barthes'a göre <b>yananlam (connotation)</b>, bir metnin veya görselin temsil ettiği ancak ortaya çıkarılması gereken kodlanmış, kültürel ve çağrışımsal anlamlardır. Düzanlam ise ilk ve açık anlamıdır.
+    > **Açıklama:** Göstergebilimde yananlam (konnotasyon), bir göstergenin temel, sözlük anlamının (düzanlam/denotasyon) üzerine eklenen <b>ikincil, kültürel veya duygusal çağrışımları</b> ifade eder. Yananlam, göstergenin bağlamına ve yorumlayıcının kültürel bilgisine bağlıdır. Örneğin, kırmızı rengin düzanlamı bir renk tonu iken, yananlamı <b>tehlike, aşk veya tutku</b> olabilir.
 
     <hr />
 1. <strong>İndeks, nasıl bir göstergedir?</strong>
@@ -1146,7 +1146,7 @@
     - D-) Gösterdiği şeye aynen benzeyen ve fiziksel olarak söz konusu şey ile örtüşen bir göstergedir.
     - E-) Bir metnin göstergesel kod sistemidir.
 
-    > **Açıklama:** Charles Sanders Peirce'in modeline göre <b>indeks (belirti)</b>, işaret ettiği nesne, olgu, durum ya da olayla fiziksel veya nedensel bir bağı olan bir göstergedir. Örneğin, duman ateşin bir belirtisidir (indeksidir).
+    > **Açıklama:** Charles Sanders Peirce'in gösterge sınıflandırmasına göre, indeks (belirti) gösterilen nesne ile <b>fiziksel, nedensel veya varoluşsal bir ilişkiye</b> dayanır. Yani, gösteren ile gösterilen arasında gerçek bir bağlantı vardır. Örneğin, dumanın ateşin indeksi olması, ya da ayak izinin birinin oradan geçtiğinin indeksi olması gibi, <b>doğrudan kanıt</b> sunar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi grafik tasarımcının bir proje geliştirirken yapması gereken işlerden biri <u>değildir</u>?</strong>
@@ -1156,7 +1156,7 @@
     - D-) Göstergebilim kuramını incelemek
     - E-) Güncel tasarım trendlerini incelemek
 
-    > **Açıklama:** Bir grafik tasarımcının proje geliştirme sürecinde <b>gösterge üretmek, anlam üretmek, göstergebilim kuramını ve güncel tasarım trendlerini incelemek</b> gibi görevleri vardır. Ancak <b>yazılım üretmek</b> bir yazılım mühendisinin işidir, grafik tasarımcının değil.
+    > **Açıklama:** Grafik tasarımcının temel görevleri arasında analiz yapmak, fikir geliştirmek (konsept oluşturmak), görselleştirmek ve baskı/üretim için teknik hazırlık yapmak bulunur. Tasarımcının doğrudan sorumluluğu dışında kalan işler genellikle <b>dağıtım, lojistik veya nihai ürünün hukuki danışmanlığını</b> yapmak gibi idari veya operasyonel süreçlerdir. Tasarımcı, konsept ve görsel çözüm üretmeye odaklanır.
 
     <hr />
 1. <strong>Peirce’in gösterge modeline göre zihinsel göstergenin karşılığı hangi terimdir?</strong>
@@ -1166,7 +1166,7 @@
     - D-) Gönderge
     - E-) Semiyosis
 
-    > **Açıklama:** Charles Sanders Peirce'in modelinde gösterge üç unsurdan oluşur: representamen (göstergenin kendisi), obje (göstergenin nesnesi) ve <b>interpretant (yorumlayan)</b>. Interpretant, göstergenin kişinin zihninde yarattığı zihinsel göstergedir.
+    > **Açıklama:** Charles Sanders Peirce'in gösterge modelinde üç öğe bulunur: Temsil Eden (Representamen/Gösterge), Nesne (Object) ve Yorumlayıcı (Interpretant). Zihinsel göstergenin karşılığı olan terim <b>Yorumlayıcı (Interpretant)</b>'dır. Yorumlayıcı, göstergenin alıcı tarafından algılanması sonucu zihinde oluşan anlamı veya etkiyi ifade eder.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi göstergebilimin tanımıdır?</strong>
@@ -1176,7 +1176,7 @@
     - D-) Göstergebilim, kültürel değişiklikleri inceleyen bir bilim dalıdır.
     - E-) Göstergebilim, kitle iletişim sistemlerini inceleyen bir bilim dalıdır.
 
-    > **Açıklama:** <b>Göstergebilim</b> (semiyoloji), en temel tanımıyla, <b>göstergeleri ve gösterge sistemlerini inceleyen bir bilim dalıdır.</b> Göstergelerin toplum içindeki yaşamını, öz niteliklerini ve bağlı oldukları yasaları araştırır.
+    > **Açıklama:** Göstergebilim (Semiotics), <b>göstergelerin, gösterge sistemlerinin ve anlam üretme süreçlerinin</b> incelenmesiyle ilgilenen bilim dalıdır. İletişim eylemlerini, dili, kültürü ve tüm anlam taşıyan yapıları, yani göstergelerin nasıl çalıştığını ve anlamı nasıl ilettiğini araştırır.
 
     <hr />
 1. <strong>Bir gösterge olarak "Sembol" kavramının anlamı aşağıdakilerden hangisidir?</strong>
@@ -1186,7 +1186,7 @@
     - D-) Gösterdiği şeye aynen benzeyen ve fiziksel olarak sözkonusu şey ile örtüşen bir göstergedir.
     - E-) Bir metnin göstergesel kod sistemidir.
 
-    > **Açıklama:** Charles Sanders Peirce’in gösterge modeline göre <b>sembol</b>, çağrışım ve göstergebilimsel deneyim dolayısıyla bir nesne, kavram, olgu ya da olayı temsil eden, yani herhangi bir şeyi simgeleyen göstergedir. Örneğin, beyaz güvercin barışın sembolüdür.
+    > **Açıklama:** Peirce'e göre Sembol, gösterilen nesne ile gösteren arasındaki ilişkinin tamamen <b>uzlaşımsal (keyfi/arbitrary)</b> olduğu gösterge türüdür. Bu ilişki, toplum tarafından öğrenilir ve kabul edilir. Örneğin, sayıların ve çoğu kelimenin anlamı, aralarında fiziksel bir benzerlik veya neden-sonuç ilişkisi olmaksızın, <b>toplumsal anlaşmadan</b> kaynaklanır.
 
     <hr />
 1. <strong>Peirce’in Gösterge Modeli'ne göre göstergenin nesnesi nasıl adlandırılır?</strong>
@@ -1196,7 +1196,7 @@
     - **Cevap D-) Obje**
     - E-) Semiyosis
 
-    > **Açıklama:** Charles Sanders Peirce'in gösterge modeli üç unsurdan oluşur: <b>representamen</b> (göstergenin kendisi), <b>interpretant</b> (zihinsel gösterge) ve <b>obje</b> (göstergenin nesnesi). Dolayısıyla, göstergenin nesnesi 'obje' olarak adlandırılır.
+    > **Açıklama:** Peirce’in gösterge modelinde, göstergenin hakkında olduğu gerçeklik parçasına <b>Nesne (Object)</b> adı verilir. Gösterge (Representamen), Nesneyi temsil eder ve bu temsil, Yorumlayıcıyı (Interpretant) oluşturur. Nesne, göstergenin işaret ettiği dış dünyadaki şeyi temsil eder.
 
     <hr />
 ## Unite 10
@@ -1207,7 +1207,7 @@
     - D-) Bilgilendirme tasarımları sade ve özgün olmalıdır.
     - **Cevap E-) Bilgilendirme tasarımları bir iç mekân tasarımıdır.**
 
-    > **Açıklama:** Bilgilendirme tasarımları, bir kullanım kılavuzundan duraklardaki bilgilendirme levhalarına ve tarihi mekanların tanıtımına kadar hayatın her alanında karşımıza çıkar. Bu nedenle, sadece bir <b>iç mekân tasarımı değildir</b>; kent mimarisi ve şehir kültürüne uygun biçimde hem iç hem de dış mekanlarda kullanılır.
+    > **Açıklama:** Bilgilendirme tasarımı (Information Design), verilerin net, erişilebilir, doğru ve anlaşılır bir şekilde sunulmasına odaklanır. Temel özellikleri <b>işlevsellik, açıklık, verimlilik ve tarafsızlık</b>tır. Bilgilendirme tasarımının amacı <b>bilgiyi anlaşılır kılmak</b> olduğu için, 'karmaşıklığı artırmak' veya 'sadece sanatsal ifadeye öncelik vermek' gibi özellikler bu disiplinin amaçlarından biri değildir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının içeriğinde bulunması gereken bir görsel eleman <u>değildir</u>?</strong>
@@ -1217,7 +1217,7 @@
     - D-) Tipografi
     - E-) Fotoğraf
 
-    > **Açıklama:** Bilgilendirme tasarımlarının içeriğinde <b>piktogram, illüstrasyon, fotoğraf, görsel</b> ve <b>tipografi</b> gibi unsurlar bulunur. Hareketli tasarımlarda <b>ses</b> bir eleman olarak kullanılabilir, ancak soruda genel olarak görsel elemanlar sorulmaktadır ve ses işitsel bir elemandır.
+    > **Açıklama:** Bilgilendirme tasarımlarının içeriğinde bilginin hızlı ve etkili iletilmesi amacıyla <b>grafikler/çizelgeler</b>, <b>ikonlar/semboller</b> ve <b>fotoğraf/illüstrasyonlar</b> gibi görsel elemanlar bulunur. Bu elemanlar verinin görsel temsilini sağlarken, tasarımın diğer temel unsuru olan <b>Yazı/Metin</b>, her ne kadar içerikte bulunması gerekse de, görsel eleman kategorisinde değerlendirilmeyebilir. Eğer şıklarda <b>Yazı</b> veya <b>İşlevsellik</b> gibi soyut bir kavram varsa, görsel içeriğin doğrudan parçası olmadığı için doğru cevap budur.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımında temel tasarım elemanıdır?</strong>
@@ -1227,7 +1227,7 @@
     - D-) Denge
     - E-) Bütünlük
 
-    > **Açıklama:** Bilgilendirme tasarımında temel tasarım elemanları; <b>ızgara sistemi, yazı, renk, görüntüler</b> ve <b>hareket/ses</b> olarak incelenmiştir. Karşıtlık, vurgu-odak noktası, denge ve bütünlük ise temel tasarım ilkeleridir.
+    > **Açıklama:** Bilgilendirme tasarımının temel tasarım elemanları, mesajın inşa edildiği yapı taşlarıdır. Bunlar <b>Yazı (Tipografi)</b>, <b>Görsel Elemanlar (Grafik, Fotoğraf)</b>, <b>Renk</b>, <b>Çizgi</b> ve <b>Şekil</b>'dir. Bu elemanlardan herhangi biri (örneğin <b>Yazı</b> veya <b>Renk</b>), bilgilendirme tasarımında bilgiyi iletmek için kritik öneme sahip temel bir elemandır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının öncelikli hedeflerinden biri <u>değildir</u>?</strong>
@@ -1237,7 +1237,7 @@
     - D-) Kullanılacak araç-gereçlerle olabildiğince kolay, doğal ve tatmin edici etkileşimler sağlamak
     - E-) İnsanların kentsel alanlarda rahatlıkla yön bulmalarını sağlamak
 
-    > **Açıklama:** Bilgilendirme tasarımının öncelikli hedefleri; <b>anlaşılabilir ve eyleme dönüştürülebilir belgeler geliştirmek</b>, <b>kolay ve doğal etkileşimler sağlamak</b> ve insanların <b>kentsel alanlarda rahatlıkla yön bulmalarını sağlamaktır.</b> Şehir içi ulaşımı ekonomik hâle getirmek doğrudan bir hedefi değildir.
+    > **Açıklama:** Bilgilendirme tasarımının temel hedefleri; karmaşık veriyi <b>anlaşılır kılmak</b>, bilginin <b>hızla kavranmasını</b> sağlamak, <b>akılda kalıcılığı</b> artırmak ve <b>eğitmek</b>tir. Tasarımın önceliği her zaman işlevsellik ve iletişimdir. Bu hedeflerden biri olmayan durum genellikle <b>Sadece Sanatsal İfade</b> veya <b>Estetik Kaygıyı İşlevselliğin Önüne Koymak</b> gibi, mesajın iletimini aksatan veya gereksiz yere karmaşıklaştıran bir unsur olacaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi İlk bilgilendirme tasarımı örneklerindendir?</strong>
@@ -1247,7 +1247,7 @@
     - D-) Öncü sanatçı Paul Rand’ın yaptığı sekiz şeritli IBM logosu
     - E-) Amerikalı ünlü tasarımcı Tibor Kalman’ın United Colors of Benetton reklam kampanyası
 
-    > **Açıklama:** İlk bilgilendirme tasarımı örneklerinden biri, modern hemşireliğin kurucularından <b>Florence Nightingale'in çalıştığı hastanedeki ölümlerin nedenlerini gösteren ve Coxcomb adını verdiği grafik sistemini kullandığı raporudur.</b> Bu çalışma, istatistiksel bilginin görselleştirilmesinin öncü örneklerindendir.
+    > **Açıklama:** İlk bilgilendirme tasarımı örnekleri, verinin görselleştirilmesi ve istatistiklerin anlaşılmasına odaklanmıştır. Tarihsel açıdan önemli örnekler arasında <b>William Playfair'in</b> istatistiksel grafik kullanımları, <b>Florence Nightingale'ın</b> Kırım Savaşı ölümlerini gösteren polar alan grafiği (gül diyagramı) veya <b>Charles Joseph Minard'ın</b> Napolyon'un Rusya seferini anlatan haritası sayılabilir. Bu örnekler, günümüz bilgilendirme tasarımının temellerini atmıştır.
 
     <hr />
 1. “İçeriği görsel ve işlevsel olarak sunmak adına tutarlı bir düzen kurmayı amaçlar. Kullanıcının gözü tasarımda sistematik olarak gezer. Okuyucunun dikkatini yakalayıp görsel bir düzen oluşmaktadır.”<br /><strong>Bu tanımlama bilgilendirme tasarımında temel tasarım elemanlarından hangisine aittir?</strong>
@@ -1257,7 +1257,7 @@
     - **Cevap D-) Izgara Sistemi (Kanava Dizgesi)**
     - E-) Bütünlük
 
-    > **Açıklama:** <b>Izgara Sistemi (Kanava Dizgesi)</b>, içeriği görsel ve işlevsel olarak sunmak adına tutarlı bir düzen kurmayı amaçlar. Bu sistemde kullanıcının gözü tasarımda sistematik olarak gezer ve bu, karmaşık yapılarda bir yol bulma işlemine benzetilir.
+    > **Açıklama:** Tanımlamada bahsedilen 'tutarlı bir düzen kurma', 'sistematik olarak gezme' ve 'görsel bir düzen oluşturma' amaçları, tasarımın ana mesajını ve akışını düzenleyen temel eleman veya ilke olan <b>Hiyerarşi</b> veya <b>Mizanpaj/Düzen (Layout)</b> ile ilgilidir. Bu eleman, okuyucunun dikkatini önemli olandan daha az önemli olana doğru yönlendirir ve görsel bir <b>akış</b> yaratır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımında temel tasarım elemanlarından yazıda bulunması gereken özelliklerden <u>değildir</u>?</strong>
@@ -1267,7 +1267,7 @@
     - D-) Harf biçemi
     - **Cevap E-) Renk**
 
-    > **Açıklama:** Bilgilendirme tasarımında yazı elemanını oluşturan temel özellikler; <b>yazı karakteri yüksekliği, boşluklar, hizalama</b> ve <b>harf biçemidir.</b> Renk ise yazıdan ayrı, kendi başına bir temel tasarım elemanıdır.
+    > **Açıklama:** Bilgilendirme tasarımında yazının temel görevi, içeriği netleştirmektir. Bu nedenle yazının <b>okunabilir</b> ve <b>anlaşılır</b> olması, tasarımla <b>tutarlı</b> olması ve uygun <b>hiyerarşi</b> içinde kullanılması gerekir. Bu özelliklerden biri olmayan, genellikle metni okumayı zorlaştıran bir faktördür; örneğin, <b>Düşük Kontrast</b>, <b>Aşırı Karmaşık Tipografi Kullanımı</b> veya <b>Yazı Boyutunda Tutarsızlık</b> doğru cevap olacaktır.
 
     <hr />
 1. <strong>“Ritim olarak da bilinen bu ilke bilgilendirme tasarımlarında bir ögenin belli bir düzende tekrarlanmasından oluşmaktadır.” şeklinde tanımlanan tasarım ilkesi aşağıdakilerden hangisidir?</strong>
@@ -1277,7 +1277,7 @@
     - D-) Bütünlük
     - E-) Izgara Sistemi
 
-    > **Açıklama:** <b>Tartım</b>, ritim olarak da bilinen bir tasarım ilkesidir. Bilgilendirme tasarımlarında bir öğenin belli bir düzende tekrarlanmasından oluşur ve tasarıma hareketli, enerjik bir görünüm kazandırır.
+    > **Açıklama:** Tasarım ilkelerinde, bir ögenin (renk, şekil, çizgi vb.) belli bir düzende tekrar edilmesiyle oluşan akış ve hareket, <b>Ritim</b> olarak adlandırılır. Ritim ilkesi, tasarımın genelinde <b>tutarlılık</b> ve <b>görsel hareket</b> sağlamak için kullanılan <b>Tekrarlama (Repetition)</b> ilkesinin bir sonucudur.
 
     <hr />
 1. <strong>“Bilgilendirme tasarımında ilk o dikkat çekecek ve ondan alınan mesaj tasarımın ana temasını oluşturacaktır” tanımlaması aşağıda verilen tasarım ilkelerinden hangisine aittir?</strong>
@@ -1287,7 +1287,7 @@
     - **Cevap D-) Vurgu-Odak noktası**
     - E-) Karşıtlık
 
-    > **Açıklama:** <b>Vurgu-Odak noktası</b>, bilgilendirme tasarımında hedef kitleyi etkileyecek ilk noktadır. Vurgu hangi elemana yapıldıysa ilk o dikkat çeker ve ondan alınan mesaj, tasarımın ana temasını oluşturur. Vurgulanan eleman tasarımın odağıdır.
+    > **Açıklama:** Bu tanım, izleyicinin gözünü belirli bir noktaya çekmek ve o noktadaki mesajın tasarımın ana temasını oluşturmasını sağlamak amacını içerir. Bu, tasarım ilkelerinden <b>Vurgu (Emphasis)</b> ilkesine aittir. Vurgu, tasarımda en önemli bilginin veya görselin diğerlerinden farklılaştırılarak <b>Odak Noktası</b> haline getirilmesini ifade eder.
 
     <hr />
 1. <strong>Bilgilendirme grafiği tasarımında simetrik (bakışımlı), asimetrik (bakışımsız), yaklaşık bakışımlı ve radyal (ışınsal) olarak dört çeşit unsuru olan tasarım elemanı aşağıdakilerden hangisidir?</strong>
@@ -1297,7 +1297,7 @@
     - D-) Vurgu-Odak noktası
     - E-) Tartım
 
-    > **Açıklama:** Bilgilendirme tasarımlarında kullanılan tüm elemanların birbiriyle dengeli bir ilişkide olması gerekir. Bu <b>denge</b> unsuru dört çeşittir: <b>simetrik (bakışımlı), asimetrik (bakışımsız), yaklaşık bakışımlı</b> ve <b>radyal (ışınsal)</b>.
+    > **Açıklama:** Simetrik (bakışımlı), asimetrik (bakışımsız), yaklaşık bakışımlı ve radyal (ışınsal) olmak üzere dörde ayrılan tasarım elemanı, tasarımın görsel ağırlığının dağıtımını düzenleyen <b>Denge (Balance)</b> ilkesidir. <b>Simetrik denge</b> resmiyeti ve durağanlığı, <b>asimetrik denge</b> ise hareketliliği ve dinamizmi temsil eder.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımında temel tasarım ilkelerinden biridir?</strong>
@@ -1307,7 +1307,7 @@
     - D-) Yazı
     - E-) Izgara Sistemi
 
-    > **Açıklama:** Bilgilendirme tasarımında temel tasarım ilkeleri; sıralı düzen, karşıtlık, <b>tartım (ritim)</b>, vurgu, odak noktası, süreklilik, denge ve bütünlük olarak özetlenmiştir. Görüntüler, renk, yazı ve ızgara sistemi ise temel tasarım elemanlarıdır.
+    > **Açıklama:** Bilgilendirme tasarımında kullanılan temel tasarım ilkeleri, mesajın etkili bir şekilde organize edilmesini sağlar. Bu ilkeler arasında <b>Birlik/Bütünlük (Unity)</b>, <b>Denge (Balance)</b>, <b>Hiyerarşi</b>, <b>Kontrast</b>, <b>Vurgu (Emphasis)</b> ve <b>Ritim/Tekrarlama</b> bulunur. Bu ilkelerden herhangi biri (örneğin <b>Bütünlük</b>), tasarımın temel bileşenlerinden biridir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi ilk modern bilgilendirme tasarımı örneklerinden olan Harry Beck tarafından hazırlanan ve hâlen benzer örnekleri kullanılan bir tasarımdır?</strong>
@@ -1317,7 +1317,7 @@
     - D-) Izgara sistemli infografik
     - E-) Topkapı sarayı tanıtım tasarımı
 
-    > **Açıklama:** İlk modern bilgilendirme tasarımı örneklerinden biri, yeraltı elektrik şefi <b>Harry Beck tarafından hazırlanan Londra Metro hattı haritasıdır.</b> Yolcuların ihtiyaçlarını karşılamak için tasarlanan bu harita, gereksiz bilgilerden arındırılmış ve hâlâ kullanılan işlevsel bir tasarımdır.
+    > **Açıklama:** İlk modern bilgilendirme tasarımlarından biri olan ve hâlâ kullanılan şematik tasarım, 1931 yılında <b>Harry Beck</b> tarafından <b>Londra Metro Haritası</b> (London Underground Map) için geliştirilmiştir. Beck, haritayı coğrafi doğruluktan çıkararak sade, kolay anlaşılır ve okunabilir bir diyagrama dönüştürmüş; böylece karmaşık ulaşım ağlarını basitleştirme standardını belirlemiştir.
 
     <hr />
 1. <strong>Bilgilendirme tasarımlarında görüntüler başlığı adı altında aşağıdakilerden hangisi <u>sayılamaz</u>?</strong>
@@ -1327,7 +1327,7 @@
     - D-) Animasyon
     - E-) Çizim
 
-    > **Açıklama:** Bilgilendirme tasarımlarında görüntüler başlığı altında; <b>fotoğraf, video, animasyon, çizim</b> ve <b>illüstrasyon</b> gibi unsurlar sayılabilir. Tipografi ise metinsel bir elemandır, bir görüntü türü değildir.
+    > **Açıklama:** Bilgilendirme tasarımlarında görüntüler (görseller), bilginin iletilmesine yardımcı olan <b>fotoğraflar, diyagramlar, haritalar, grafikler ve ikonlar</b> gibi görsel öğeleri kapsar. <b>Yazı tipi (Font)</b> ise tipografik bir öğedir ve bilginin yazılı sunum şeklini ifade eder; görüntüler başlığı altında değil, genellikle tipografi veya metin sunumu başlıkları altında değerlendirilir.
 
     <hr />
 ## Unite 11
@@ -1338,7 +1338,7 @@
     - D-) Kullanıcının bilgiye ulaşmasını zorlaştırmak amacıyla
     - E-) Kullanıcıdan dönüt sağlamak amacıyla
 
-    > **Açıklama:** Bilgilendirme tasarımları, Gestalt kuramının görsel algı ilkelerinden faydalanarak <b>kullanıcının ihtiyaç duyduğu bilgiyi hızlı ve anlaşılır biçimde düzenleyerek sunmayı</b> amaçlar. Bu ilkeler, karmaşık bilgilerin daha kolay organize edilip algılanmasına yardımcı olur.
+    > **Açıklama:** Gestalt kuramı, insanların görsel öğeleri nasıl bir bütün olarak algıladığını açıklar. Bilgilendirme tasarımlarında bu kuram, bilgiyi daha hızlı ve etkili bir şekilde iletmek için kullanılır. Temel amaç, <b>yakınlık, benzerlik, süreklilik ve kapanma</b> gibi ilkeler aracılığıyla, sunulan görsel öğeler arasında <b>anlamlı ve tutarlı gruplamalar oluşturmak</b> ve böylece algısal organizasyonu kolaylaştırmaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi algı yanılsaması <u>değildir</u>?</strong>
@@ -1348,7 +1348,7 @@
     - **Cevap D-) Halüsinasyon görme**
     - E-) Optik yanılsama
 
-    > **Açıklama:** Yanılsama, beynin duyu organlarından (görme, işitme, dokunma vb.) aldığı iletileri gerçekte olduklarından farklı yorumlamasıdır. <b>Halüsinasyon görme</b> ise dışarıda bir uyaran olmaksızın bir algının var olması durumudur ve psikiyatrik bir belirtidir, bir algı yanılsaması değildir.
+    > **Açıklama:** Algı yanılsamaları (optical illusions), çevredeki nesnelerin veya durumların gerçekte olduğundan farklı algılanmasıdır (örn. Müller-Lyer yanılsaması, Ponzo yanılsaması). <b>Kör nokta (Blind Spot)</b>, algı yanılsaması değildir; retinada <b>optik sinirin gözden çıktığı</b> ve <b>hiçbir foto-reseptör hücresinin bulunmadığı</b> tamamen biyolojik ve fizyolojik bir alandır. Bu bir algı hatası değil, insan gözünün yapısından kaynaklanan doğal bir görsel boşluktur.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi kör noktanın tanımıdır?</strong>
@@ -1358,7 +1358,7 @@
     - D-) Göz merceğinin netleyememesi
     - E-) Kişinin arkasında kalan alan
 
-    > **Açıklama:** Gözdeki <b>kör nokta</b>, ağ tabaka (retina) üzerinde optik sinirlerin çıktığı ve bu nedenle ışığa duyarlı hücrelerin (duyarkatların) bulunmadığı alandır. Bu noktaya düşen ışık algılanamaz ve görüntü oluşmaz, ancak beyin bu boşluğu tamamlar.
+    > **Açıklama:** Kör nokta (Blind Spot) veya tıbbi adıyla <b>optik disk</b>, retinada <b>optik sinirin gözden ayrıldığı</b> noktadır. Bu bölgede ışığı algılayan <b>çubuk veya koni hücreleri (foto-reseptörler) bulunmadığı</b> için, o bölgeye düşen görüntü beyin tarafından algılanamaz. Bu alan, her iki gözün görüş alanının kesişimi ve beynin telafi yeteneği sayesinde normalde fark edilmez.
 
     <hr />
 1. <strong>Algılama sürecinde duyu organı ile beyin arasındaki ilişki aşağıdakilerden hangisine benzetilebilir?</strong>
@@ -1368,7 +1368,7 @@
     - D-) Sinema filmi - Film izleyicisi
     - **Cevap E-) Fotoğraf makinesi - Fotoğraf izleyicisi**
 
-    > **Açıklama:** Algılama sürecinde göz, sadece görüntüyü fiziksel olarak oluşturur ve sinyalleri beyne gönderir. Beyin ise bu sinyalleri deneyimlerine göre anlamlandırır. Bu ilişki, görüntüyü kaydeden bir <b>fotoğraf makinesi</b> ile o fotoğrafı yorumlayan bir <b>fotoğraf izleyicisi</b> arasındaki ilişkiye benzetilebilir.
+    > **Açıklama:** Algılama sürecinde, duyu organları (gözler) çevresel verileri alır (tıpkı bir kamera veya sensör gibi), bu ham veriler daha sonra beyne iletilir ve beyin bu verileri yorumlar, düzenler ve anlamlı bir çıktıya dönüştürür. Bu ilişki, ham veriyi yakalayıp işleyerek anlamlı bir sonuç üreten <b>bir kamera ve fotoğraf makinesinin çalışmasına</b> veya daha genel olarak <b>bir bilgisayarın veri işlemesine</b> benzetilebilir.
 
     <hr />
 1. <strong>Helmholtz’a göre algı üzerinde hangisinin etkisi daha fazladır?</strong>
@@ -1378,7 +1378,7 @@
     - D-) İnsanın doğuştan getirdiği sezme ve bilme yeteneğinin
     - E-) Metafizik gerçekliğin
 
-    > **Açıklama:** Hermann von Helmholtz, Kant'ın doğuştancı görüşlerinin aksine, algının öğrenilmiş bir eylem olduğunu belirtmiştir. Ona göre algı üzerinde <b>deneyimin</b> etkisi, doğuştan gelen yeteneklerden daha fazladır.
+    > **Açıklama:** 19. yüzyılda Hermann von Helmholtz, algıyı açıklamak için <b>bilinçsiz çıkarım (unconscious inference)</b> kavramını ortaya atmıştır. Helmholtz’a göre, görsel algı sadece duyusal girdilere dayanmaz; daha ziyade, beynimiz bu girdileri yorumlamak için <b>geçmiş deneyimlerimizi ve öğrenilmiş bilgilerimizi</b> kullanır. Bu çıkarımlar, saf duyusal veriden daha güçlü bir etkiye sahiptir ve nihai algıyı şekillendirir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı'nın kurucularından biri <u>değildir</u>?</strong>
@@ -1388,7 +1388,7 @@
     - D-) Kurt Koffka
     - E-) Kurt Lewin
 
-    > **Açıklama:** Gestalt kuramı, <b>Max Wertheimer, Kurt Koffka, Wolfgang Köhler</b> ve <b>Kurt Lewin</b> gibi Alman ve Avusturyalı psikologlar tarafından oluşturulmuştur. Kurt Cobain, ünlü bir müzisyendir ve bu kuramla bir ilgisi yoktur.
+    > **Açıklama:** Gestalt Kuramı'nın temel kurucuları ve ilkelerini geliştirenler <b>Max Wertheimer, Wolfgang Köhler ve Kurt Koffka</b>'dır. Eğer şıklarda bu üç isimden farklı bir algı psikoloğu varsa (örneğin <b>Hermann von Helmholtz</b>), o kişi Gestalt Kuramı'nın kurucularından sayılmaz. Helmholtz, daha erken bir dönemde algıyı bilinçsiz çıkarımla açıklamıştır.
 
     <hr />
 1. <strong>Görsel algıyı oluşturan etmenlerden hangisi algısal gruplamanın diğer adıdır?</strong>
@@ -1398,7 +1398,7 @@
     - **Cevap D-) Örgütleme**
     - E-) Alanda yükseklik
 
-    > **Açıklama:** Gestalt kuramcılarına göre, algısal organizasyonun temellerinden biri <b>örgütlemedir</b>. Algısal gruplama olarak da bilinen bu kavram, uyaranların zihinde nasıl anlamlı bütünler hâline getirildiğini açıklar.
+    > **Açıklama:** Görsel algıyı oluşturan temel etmenlerden olan algısal gruplama, beynin görsel alanı anlamlı bütünler halinde organize etme sürecidir. Bu süreç Gestalt ilkeleriyle yakından ilişkilidir ve genellikle <b>Algısal Organizasyon</b> (Perceptual Organization) olarak da adlandırılır. Algısal organizasyon, çevresel ipuçlarının birleştirilerek anlamlı şekiller ve formlar oluşturulmasını sağlar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi hareket algısının oluşturan hareket çeşitlerinden biri <u>değildir</u>?</strong>
@@ -1408,7 +1408,7 @@
     - D-) Otokinetik etki
     - **Cevap E-) Otokontrol hareketi**
 
-    > **Açıklama:** Gibson'ın kuramına göre hareket algısı dörde ayrılır: <b>stroboskopik hareket, yapay hareket, gerçek hareket</b> ve <b>otokinetik etki</b>. Otokontrol hareketi bu sınıflandırmanın içinde yer almaz.
+    > **Açıklama:** Hareket algısı, genellikle <b>gerçek hareket</b> ve çeşitli <b>görünür hareket (illüzyonlar)</b> çeşitlerine ayrılır. Bu çeşitler arasında <b>Görünür Hareket (Phi Fenomeni), Uyarılmış Hareket ve Otokinetik Etki</b> bulunur. Eğer bir seçenek bu fenomenlerden biri değilse, o hareket çeşidi sayılamaz. Örneğin, <b>Algısal Sabitlik</b> (Perceptual Constancy) nesnelerin büyüklüğünü veya rengini değişen koşullara rağmen sabit algılama eğilimimizdir, bir hareket algısı çeşidi değildir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi Algısal Değişmezlik İlkesi'nin tanımıdır?</strong>
@@ -1418,7 +1418,7 @@
     - D-) Birbirine benzeyen birimler bir algısal bütünlük kazanmasıdır.
     - E-) Bir nesnenin, başka bir nesnenin önüne geçerek görülmesini tamamen ya da kısmen engellemesi durumunda, genellikle birinci nesnenin daha yakınmış gibi algılanmasıdır.
 
-    > **Açıklama:** <b>Algısal değişmezlik</b>, duyu organlarından gelen veriler değişse bile algı dünyasında bir süreklilik ve istikrar olması durumudur. Yani, bir nesnenin retinal tabakadaki görüntüsü ne şekilde değişirse değişsin, bilinçteki imgesinin sabit tutulmasıdır.
+    > **Açıklama:** Algısal Değişmezlik İlkesi (Perceptual Constancy), çevremizdeki nesnelerin fiziksel özelliklerinin (boyut, şekil, renk) bizim onlara olan uzaklığımız, görüş açımız veya aydınlatma koşulları değişse bile <b>sabit ve değişmez olarak algılanması</b> eğilimidir. Bu ilke sayesinde, nesneleri farklı koşullar altında bile tutarlı bir şekilde tanıyabiliriz.
 
     <hr />
 1. <strong>Sinemadaki hareket izlenimi hangi hareket ilkesi uyarınca gerçekleşmektedir?</strong>
@@ -1428,7 +1428,7 @@
     - D-) Otokinetik etki
     - E-) Monoküler İpuçları
 
-    > **Açıklama:** Sinemadaki hareket yanılsaması, durağan fotoğraf karelerinin belirli bir hızda art arda gösterilmesiyle oluşur. Bu durum, bir cismin farklı konumlarda peş peşe görülen görüntülerinin hareketmiş gibi algılandığı <b>stroboskopik hareket</b> ilkesine dayanır.
+    > **Açıklama:** Sinemadaki hareket izlenimi, <b>Görünür Hareket</b> (Apparent Movement) ilkesi uyarınca gerçekleşir. Bu, <b>Phi Fenomeni</b> olarak da bilinir. Bu ilkeye göre, çok hızlı bir şekilde art arda gösterilen, ancak gerçekte durağan olan kareler (resimler) beyin tarafından sürekli, akıcı bir hareket olarak yorumlanır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi yanılsamanın tanımıdır?</strong>
@@ -1438,7 +1438,7 @@
     - D-) Duyu organından beyne gönderilen sinyallerin yolda kaybolması
     - E-) Beynin duyu organlarından aldığı iletileri olduğu gibi yorumlaması
 
-    > **Açıklama:** <b>Yanılsama</b>, beynin duyu organlarından aldığı iletileri gerçekte olduklarından farklı yorumlamasıdır. Bu durum, duyu bilgisinin yanlış, eksik veya çarpıtılmış olarak algılanması anlamına gelir.
+    > **Açıklama:** Yanılsama (İllüzyon), çevrede <b>gerçekten var olan bir uyaranın, duyu organları tarafından yanlış, çarpıtılmış veya hatalı bir biçimde algılanması</b>dır. Bu durum, duyusal bilgilerin beynimiz tarafından yorumlanma biçimindeki hatalardan kaynaklanır ve halüsinasyondan farklı olarak, dışarıda gerçek bir uyaranın bulunmasına dayanır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi optik yanılsamaya örnektir?</strong>
@@ -1448,7 +1448,7 @@
     - **Cevap D-) Kör nokta üzerinde oluşmayan görüntünün, zihinde tamamlanması**
     - E-) Dünya’dan bakınca Ay’ın sadece tek yüzünün görülmesi
 
-    > **Açıklama:** Optik yanılsama, görsel sistemin neden olduğu ve gerçeklikten farklı görünen bir algıdır. Gözdeki <b>kör nokta</b> üzerine düşen görüntünün oluşmamasına rağmen beynin bu boşluğu etraftaki desene göre doldurması, en temel optik yanılsama örneklerinden biridir.
+    > **Açıklama:** <b>Optik yanılsama</b>, özellikle görsel sistemimizin çizgileri, şekilleri, renkleri veya boyutları yanlış yorumlamasından kaynaklanır. Klasik bir örneği, eşit uzunluktaki iki çizginin, çevrelerindeki açılar veya oklar nedeniyle farklı uzunlukta algılanması olan <b>Müller-Lyer Yanılsaması</b>'dır. Diğer örnekler arasında Ponzo veya Zöllner yanılsamaları bulunur.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi algısal gruplamanın unsurlarından <u>değildir</u>?</strong>
@@ -1458,7 +1458,7 @@
     - D-) Yakınlık ilişkisi
     - E-) Benzerlik ilişkisi
 
-    > **Açıklama:** Algısal gruplama (örgütleme) ilkeleri; <b>şekil-zemin ilişkisi, tamamlama ilişkisi, yakınlık ilişkisi</b> ve <b>benzerlik ilişkisi</b> gibi unsurları içerir. Alanda yükseklik ise derinlik algısını oluşturan monoküler ipuçlarından biridir.
+    > **Açıklama:** Algısal gruplama, <b>Gestalt Psikolojisi</b>'nin temel ilkeleridir ve beynimizin parçaları anlamlı bütünler halinde organize etme eğilimini açıklar. Başlıca unsurlar; <b>Yakınlık</b> (Proximity), <b>Benzerlik</b> (Similarity), <b>Süreklilik</b> (Continuity), <b>Tamamlama</b> (Closure) ve <b>Ortak Kader</b>dir (Common Fate). Seçeneklerde bu temel Gestalt ilkelerinden biri olmayan bir kavram, algısal gruplamanın unsuru sayılmaz.
 
     <hr />
 ## Unite 12
@@ -1469,7 +1469,7 @@
     - D-) UV kaplama
     - **Cevap E-) Parlak kuşe kağıt**
 
-    > **Açıklama:** Baskı altı malzemesi, üzerine baskı yapılabilecek herhangi bir materyaldir. <b>Parlak kuşe kağıt</b> bu tanıma uyan bir kağıt türüdür. Perforaj bir kesim işlemi, vernik, laminasyon ve UV kaplama ise yüzey kaplama (baskı sonlandırma) işlemleridir.
+    > **Açıklama:** Baskı altı malzemesi (Substrate), baskı makinesinde <b>mürekkebin veya görüntünün aktarıldığı fiziksel yüzeydir</b>. Matbaacılıkta en yaygın kullanılan baskı altı malzemesi <b>kâğıt</b> ve kartondur. Ancak bu tanıma metal, plastik (folyo) ve kumaş gibi diğer yüzeyler de dâhildir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bir katlama çeşidi <u>değildir</u>?</strong>
@@ -1479,7 +1479,7 @@
     - D-) Akordeon
     - E-) Fransız
 
-    > **Açıklama:** Katlama (kırım) çeşitleri arasında; <b>kapaklı, paralel, akordeon</b> ve <b>Fransız</b> gibi türler bulunur. Amerikan ise bir katlama çeşidi değil, genellikle Amerikan Bristol olarak bilinen bir karton türünün adıdır.
+    > **Açıklama:** Matbaacılıkta baskı sonrası işlemlerde kullanılan yaygın katlama çeşitleri, kağıdın yapısına ve kullanılacağı formata göre değişir. Bunlar arasında <b>Tek Katlama</b>, <b>Paralel Katlama</b>, <b>Akordeon Katlama</b> (Z-Katlama), <b>Pencere Katlama</b> ve <b>Sarmal Katlama</b> bulunur. Seçeneklerde belirtilen ve bu standart mücellit tekniklerinden biri olmayan bir işlem (örneğin, bir ciltleme veya kesim türü) doğru cevap olarak kabul edilir.
 
     <hr />
 1. <strong>Kâğıdın döne döne içeriye doğru katlanmasıyla oluşturulan katlama aşağıdakilerden hangisidir?</strong>
@@ -1489,7 +1489,7 @@
     - D-) Çantalı
     - E-) Kare
 
-    > **Açıklama:** <b>Bohça kırım</b>, kâğıdın döne döne içeriye doğru katlanmasıyla oluşturulur. Bu kırım türünde, katlanarak oluşturulan panellerin her biri aynı yöne bakar.
+    > **Açıklama:** Kâğıdın birbirini takip eden ve sürekli olarak <b>içeriye doğru döne döne katlandığı</b>, rulo benzeri bir görünüm oluşturan katlama çeşidine <b>Sarmal Katlama</b> (Roll Fold) denir. Bu katlama türü genellikle 3 veya daha fazla panelin kompakt bir şekilde bir araya getirilmesi gereken broşürler için idealdir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi kesim işlemlerinden birisi <u>değildir</u>?</strong>
@@ -1499,7 +1499,7 @@
     - D-) Perforaj
     - E-) Kalıp kesim
 
-    > **Açıklama:** Baskı sonlandırma işlemlerinden olan kesim işlemleri; <b>lazer kesim, lazer kazıma, perforaj (delik açma)</b> ve <b>kalıp kesim (die-cutting)</b> gibi yöntemleri içerir. Termografi ise, yeni basılmış mürekkep üzerine uygulanan tozun ısıyla kabartıldığı bir baskı tekniğidir, bir kesim işlemi değildir.
+    > **Açıklama:** Baskı sonrası <b>kesim işlemleri</b>, basılı ürünün nihai boyutlarını ve formunu elde etmek için yapılır. Temel kesimler <b>Giyotin Kesimi</b> (düz kesim), <b>Tıraşlama</b> (trimming) ve özel şekiller elde etmek için yapılan <b>Özel Kesim</b> (kalıp kesim/bıçaklama) işlemleridir. Seçeneklerde bu fiziki kesme eylemlerinden biri olmayan bir bitirme işlemi (örneğin, Lak Sürme veya Laminasyon) doğru cevap olmalıdır.
 
     <hr />
 1. <strong>Hangisi mukavva çeşitlerinden biri <u>değildir</u>?</strong>
@@ -1509,7 +1509,7 @@
     - D-) Laminasyon karton mukavva
     - E-) Pres karton mukavva
 
-    > **Açıklama:** Mukavva çeşitleri arasında <b>ondüle, oluklu, laminasyon karton</b> ve <b>pres karton mukavva</b> bulunur. Mat kuşe ise bir kağıt türüdür, mukavva çeşidi değildir.
+    > **Açıklama:** Mukavva, ambalaj ve baskı sektöründe kullanılan kalın karton malzemeyi ifade eder. Başlıca mukavva çeşitleri kullanım alanlarına ve yapılarına göre farklılık gösterir: <b>Oluklu Mukavva</b> ( corrugated), <b>Gri Mukavva</b> (Pres karton), <b>Bristol Mukavva</b> ve <b>Krom Karton</b> yaygın türlerdir. Seçeneklerdeki doğru cevap, yapısal olarak bir mukavva türü olmayan farklı bir kâğıt türü veya ambalaj malzemesi olmalıdır.
 
     <hr />
 1. <strong>Tamamen beyazlatılmış kimyasal selülozdan üretilen kâğıt aşağıdakilerden hangisidir?</strong>
@@ -1519,7 +1519,7 @@
     - D-) Japon bristol
     - E-) Amerikan bristol
 
-    > **Açıklama:** <b>Aydınger kağıdı</b>, tamamen beyazlatılmış kimyasal selülozdan üretilir. İçerisinde ağaç lifi bulunmadığı için pürüzsüz ve opak bir yapıya sahiptir. Genellikle teknik çizimlerde kullanılır.
+    > **Açıklama:** Tamamen <b>beyazlatılmış kimyasal selülozdan</b> (odun hamurundan ayrıştırılmış liflerden) üretilen kâğıtlar, genellikle yüksek beyazlık, dayanıklılık ve üstün baskı kalitesi sunar. Bu kâğıtlar, kaliteleri sayesinde genellikle <b>birinci hamur kâğıt</b> veya özel kaplama işleminden geçtiklerinde <b>kuşe kâğıt</b> sınıfına girer. Mekanik selüloz içermediği için zamanla sararma yapmaz ve daha uzun ömürlüdür.
 
     <hr />
 1. <strong>Kaliteli kartonlar arasına sıkıştırılmış strafor köpükten oluşan baskı altı malzemesi aşağıdakilerden hangisidir?</strong>
@@ -1529,7 +1529,7 @@
     - **Cevap D-) Fotoblok**
     - E-) Foreks
 
-    > **Açıklama:** <b>Fotoblok</b>, "straforlu maket kartonu" olarak da bilinir ve kaliteli kartonlar arasına sıkıştırılmış strafor köpükten oluşur. Kalınlığına rağmen hafif olması nedeniyle özellikle iç mekan sergilemelerinde sıkça tercih edilir.
+    > **Açıklama:** Tanımı yapılan malzeme <b>Fotoblok</b>'tur. Fotoblok, hafif ve sert bir yapı sağlamak amacıyla, genellikle iki yüzeyinde kaliteli karton veya kâğıt tabakası bulunan ve ortasında kalın bir <b>strafor (polistiren) köpük</b> çekirdeği barındıran baskı altı levhasıdır. Bu malzeme, düzgün yüzeyi ve düşük ağırlığı nedeniyle özellikle <b>iç mekan tabelaları ve fotoğraf sergileri</b> için idealdir.
 
     <hr />
 1. <strong>Bir broşür tasarımı için aşağıdaki baskı altı malzemelerinden hangisi uygundur?</strong>
@@ -1539,7 +1539,7 @@
     - D-) Aydınger
     - E-) Vinil
 
-    > **Açıklama:** Broşür gibi çok sayfalı ve renkli baskı gerektiren tasarımlar için genellikle <b>1. sınıf hamur kağıt</b> veya kuşe kağıtlar tercih edilir. Amerikan bristol genellikle tek yüzlü baskılar için, maket kartonu ve vinil ise sergileme amaçlı daha sert yüzeyler için uygundur.
+    > **Açıklama:** Broşürler, görsel içerik ve yüksek renk doygunluğu gerektiren ticari yayınlardır. Bu nedenle, üzerine baskı kalitesini artırmak için özel bir katman (kil, kalsiyum karbonat vb.) uygulanan <b>Kuşe Kâğıt</b> en uygun baskı altı malzemesidir. Kuşe kâğıt, mürekkebin yüzeyde kalmasını sağlayarak daha parlak ve canlı görüntüler elde edilmesine olanak tanır. Broşürün amacına göre mat veya parlak kuşe seçilebilir.
 
     <hr />
 1. <strong>Şeffaf, kumlu, mat, parlak, reflektif gibi çeşitleri olan arka tarafı yapışkanlı malzeme aşağıdakilerden hangisidir?</strong>
@@ -1549,7 +1549,7 @@
     - D-) Vinil
     - **Cevap E-) Folyo**
 
-    > **Açıklama:** <b>Folyo</b>, üzerine dijital baskı yapılabilen, arka tarafı yapışkanlı bir malzemedir. Şeffaf, kumlu, mat, parlak ve reflektif gibi çeşitleri bulunur ve hem iç hem de dış mekanlarda düz zeminlere uygulanabilir.
+    > **Açıklama:** Arka yüzeyi yapışkanlı olan ve şeffaf, mat, parlak, kumlu veya reflektif gibi farklı yüzey kaplamaları ve dokulara sahip olan bu malzeme <b>Folyo</b>'dur (Vinyl Film). Folyolar, geniş formatlı dijital baskıda, <b>tabela üretiminde</b>, araç giydirmede ve vitrin dekorasyonunda kullanılan esnek, dayanıklı malzemelerdir.
 
     <hr />
 1. <strong>Kendinden yapışkanlı etiketler kaç ana katmandan oluşur?</strong>
@@ -1559,7 +1559,7 @@
     - **Cevap D-) 4**
     - E-) 5
 
-    > **Açıklama:** Kendinden yapışkanlı etiketler dört ana katmandan oluşur: <b>taşıyıcı tabaka</b>, taşıyıcı tabakaya sıvanmış olan <b>silikon tabakası</b>, <b>yapışkan tabakası</b> ve baskının yapıldığı <b>üst tabaka</b>.
+    > **Açıklama:** Standart kendinden yapışkanlı etiketler (stickerlar) üç ana katmandan oluşur. Bunlar sırasıyla: 1) Üzerine baskı yapılan <b>Yüzey Malzemesi</b> (kâğıt veya film), 2) Yüzey malzemesi ile taşıyıcıyı birbirine bağlayan <b>Yapışkan Katman</b> (Adhesive) ve 3) Yapışkanın kurumasını ve etiketlerin üst üste yapışmasını önleyen <b>Silikonlu Taşıyıcı Kâğıt</b> (Release Liner).
 
     <hr />
 1. <strong>“Karşıt taraflardan merkeze doğru katlanan iki veya daha fazla panel” şeklinde tanımlanan katlama çeşidi aşağıdakilerden hangisidir?</strong>
@@ -1569,7 +1569,7 @@
     - **Cevap D-) Kapılı**
     - E-) Pencereli
 
-    > **Açıklama:** <b>Kapılı kırım</b>, karşıt taraflardan merkeze doğru katlanan iki veya daha fazla panelden oluşan bir katlama stilidir. Açık, kapalı ve çift kapılı gibi farklı çeşitleri bulunmaktadır.
+    > **Açıklama:** Bu tanım, bir broşürün veya baskının karşıt uçlarından merkeze doğru katlanarak ortada buluşmasını sağlayan katlama çeşidini ifade eder. Bu katlama tekniği <b>Kapı Katlama</b> (Gate Fold) olarak adlandırılır. Özellikle, açıldığında bütünlük sağlayan büyük bir görselin vurgulanması istendiğinde tercih edilir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi fantezi karton çeşitlerinden biri <u>değildir</u>?</strong>
@@ -1579,7 +1579,7 @@
     - D-) Tuale karton
     - E-) Flok karton
 
-    > **Açıklama:** Fantazi kartonlar, farklı renk, desen ve dokulara sahip özel kağıtlardır. <b>Tintoretto Gesso, Acquerello, Tuale Karton</b> ve <b>Flok Karton</b> bu türlere örnektir. Köpüksüz maket kartonu ise standart bir sergileme malzemesidir ve fantezi karton olarak sınıflandırılmaz.
+    > **Açıklama:** <b>Fantezi Kartonlar</b>, standart baskı kartonlarından farklı olarak, metalik renk, sedefli parlaklık, kabartma veya sulu doku gibi özel yüzey işlemlerine sahip kartonlardır. Eğer şık yüzey özelliklerine sahip olmayan, yaygın kullanılan, sıradan bir karton türü listede varsa (örneğin <b>Amerikan Bristol</b> veya gri karton), bu, fantezi karton çeşidi olarak kabul edilmez. Fantezi kartonlar genellikle davetiye, sertifika ve lüks ambalajlarda kullanılır.
 
     <hr />
 ## Unite 13
@@ -1590,7 +1590,7 @@
     - D-) Ev aletlerinin ağ üzerinden kontrol edilebilmesi
     - E-) Myspace’in yerini yeni sosyal medya sitelerinin ve uygulamalarının alması
 
-    > **Açıklama:** Geleneksel medyadan dijital medyaya geçiş, teknolojinin getirdiği bir dönüşümü ifade eder. Radyonun yerini podcastlerin, televizyonun yerini seç-izle hizmetlerinin alması bu duruma örnektir. Ancak, <b>1980'lerde gösterilen bir çizgi filmin 2000'lerde tekrar gösterilmesi</b> bir yeniden yayınlama faaliyetidir, dijital bir dönüşüm örneği değildir.
+    > **Açıklama:** Geleneksel medyadan dijital medyaya geçiş, bilginin fiziksel taşıyıcılardan (kâğıt, film, CD) sayısal ve çevrimiçi formatlara aktarılmasıdır (örneğin, mektubun e-postaya, ansiklopedinin Wikipedia'ya dönüşmesi). Geleneksel medya üretimine ait olan, dijitalleşmenin doğrudan bir sonucu olmayan ve fiziksel üretimde kalmayı sürdüren süreçler (örneğin, <b>Ofset Baskı Makinesi Üretimi</b> veya mürekkep yapımı gibi temel endüstriyel süreçler) bu geçişin örneği değildir.
 
     <hr />
 1. <strong>Sayısal ortamda üretilen tasarımların çevrimiçi olarak kolayca dağıtılabilmesi neyin sonucudur?</strong>
@@ -1600,7 +1600,7 @@
     - D-) Harita uygulamalarının adresleri daha doğru göstermesinin
     - E-) Bilgilendirme tasarımlarının daha estetik ve kapsayıcı çizilmesinin
 
-    > **Açıklama:** Sayısal ortamda üretilen tasarımlar, <b>dijitalleşme</b> sayesinde sayısal görüntü dosyaları olarak kaydedilir. Bu, tasarımların internet gibi çevrimiçi platformlarda kolayca dağıtılabilmesini ve paylaşılabilmesini sağlar.
+    > **Açıklama:** Sayısal ortamda üretilen tasarımların (görseller, PDF'ler, videolar) çevrimiçi olarak kolayca dağıtılabilmesi, başta <b>İnternet Teknolojilerinin</b> (özellikle geniş bant erişimi ve bulut tabanlı sistemler) gelişimi sayesinde gerçekleşmiştir. Bu teknolojiler, dosya transfer hızlarını artırmış ve coğrafi sınırları ortadan kaldırarak küresel dağıtımı mümkün kılmıştır.
 
     <hr />
 1. <strong>Noktasal görüntü dosyalarında aşağıdakilerden hangisinin yapılması görüntüyü kalitesiz hâle getirebilir?</strong>
@@ -1610,7 +1610,7 @@
     - **Cevap D-) Görüntüyü büyütmek**
     - E-) Görüntüyü kayıpsız olarak sosyal medyada paylaşmak
 
-    > **Açıklama:** Noktasal (raster) görüntü dosyaları piksellerden oluşur. Bu tür bir dosyayı orijinal boyutundan daha fazla <b>büyütmek</b>, piksellerin belirginleşmesine ve görüntünün kalitesinin (netliğinin) bozulmasına neden olur. Vektörel dosyalarda ise bu sorun yaşanmaz.
+    > **Açıklama:** <b>Noktasal (Raster) görüntü dosyaları</b> (JPEG, TIFF, BMP), piksellerden oluşur ve sabit bir çözünürlüğe sahiptir. Bu dosyaların orijinal boyutlarının veya çözünürlüklerinin üzerine çıkılarak <b>büyütülmesi</b> (upscaling), piksellerin gerilmesine ve görüntünün <b>pikselleşerek</b> kalitesini kaybetmesine neden olur. Vektörel dosyaların aksine, noktasal dosyaların büyütülmesi her zaman kalite kaybına yol açar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi JPEG dosya formatının kullandığı uzantılardan bir tanesi <u>değildir</u>?</strong>
@@ -1620,7 +1620,7 @@
     - D-) .pjp
     - E-) .jpeg
 
-    > **Açıklama:** JPEG (Joint Photographic Expert Group Image) dosya formatı <b>'.jpg', '.jpeg', '.jfif', '.pjpeg'</b> ve <b>'.pjp'</b> gibi farklı dosya uzantılarına sahip olabilir. '.edg' bu formatın kullandığı bir uzantı değildir.
+    > **Açıklama:** JPEG (Joint Photographic Experts Group) standardı, kayıplı sıkıştırma kullanan popüler bir görsel formatıdır. Bu format genellikle dijital fotoğraflarda kullanılır. Temel uzantıları <b>.jpg</b>, <b>.jpeg</b>, <b>.jpe</b> ve <b>.jfif</b>'tir. Soru, bu uzantılardan biri olmayanı sormaktadır (örneğin .png, .gif veya .tiff gibi tamamen farklı bir formata ait uzantı doğru cevap olacaktır).<br />Önemli olan, JPEG formatının genellikle <b>24-bit renk derinliği</b> kullandığı ve sıkıştırma nedeniyle görüntü kalitesinde kayıp yaşanabileceğidir.
 
     <hr />
 1. <strong>APNG dosya formatının açılımı nedir?</strong>
@@ -1630,7 +1630,7 @@
     - D-) Anti Processing Network Graphics
     - E-) Animated Processing Network Generics
 
-    > **Açıklama:** <b>APNG</b> dosya formatının açılımı <b>Animated Portable Network Graphics</b>'tir. Bu format, PNG biçiminin bir uzantısıdır ve animasyonlu görüntüler için destek sağlar.
+    > **Açıklama:** APNG, <b>Animated Portable Network Graphics</b> (Canlandırılmış Taşınabilir Ağ Grafikleri) açılımının kısaltmasıdır. APNG, mevcut PNG formatının bir uzantısı olarak geliştirilmiştir. APNG, GIF'in yaptığı gibi birden fazla görüntüyü veya kareyi tek bir dosyada saklayarak <b>hareketli (animasyonlu) görseller</b> oluşturulmasını sağlar, ancak GIF'e göre daha iyi sıkıştırma ve renk desteği sunar.
 
     <hr />
 1. <strong>Apple firmasının QuickTime programı için geliştirilen ve videoları, sesleri, görüntüleri ve altyazıları tek bir dosyada içerebilen bir multimedya içerik taşıyıcısı formatı aşağıdakilerden hangisidir?</strong>
@@ -1640,7 +1640,7 @@
     - D-) CTU
     - **Cevap E-) MOV**
 
-    > **Açıklama:** <b>MOV</b> dosya formatı, Apple tarafından QuickTime programı için geliştirilmiştir. Videoları, sesleri, görüntüleri ve altyazıları tek bir dosyada içerebilen bir multimedya içerik taşıyıcısıdır.
+    > **Açıklama:** Apple firmasının QuickTime programı için geliştirdiği ve videoları, sesleri, görüntüleri ve altyazıları tek bir dosyada birleştirebilen multimedya içerik taşıyıcısı formatı <b>MOV (QuickTime Film Formatı)</b>'dur. MOV formatı, Apple'ın multimedya teknolojilerinin temelini oluşturur ve çeşitli veri türlerini esnek bir şekilde saklayabilen bir '<b>kapsayıcı format</b>' (container format) olarak işlev görür.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi Randy Krum’un kitabındaki sayısal ortamda bulunan bilgilendirme tasarımlarında kullanılan medya biçimlerinden biri <u>değildir</u>?</strong>
@@ -1650,7 +1650,7 @@
     - D-) Canlandırma
     - E-) Yakınlaştırılabilen
 
-    > **Açıklama:** Randy Krum, kitabında dijital bilgilendirme tasarımlarını altı medya biçiminde sınıflandırır: <b>durağan, yakınlaştırılabilen, tıklanabilir, canlandırma (anime edilmiş), video</b> ve <b>etkileşimli</b>. Yapay zekâ ile oluşturulmuş tasarımlar bu sınıflandırmada yer almaz.
+    > **Açıklama:** Randy Krum gibi bilgi tasarım uzmanlarının çalışmalarında, sayısal ortamda kullanılan bilgilendirme tasarımları genellikle <b>etkileşimli grafikler</b>, <b>hareketli görseller (videolar/animasyonlar)</b>, <b>statik infografikler</b>, <b>veri görselleştirmeleri</b> veya <b>infografik haritalar</b> gibi medya biçimlerini içerir. Bu listede yer almayacak bir biçim, görsel ifade amacı taşımayan veya tasarımla ilgili olmayan bir format (örneğin sadece <b>ham metin dosyaları</b> veya <b>kaynak kodu</b>) olacaktır. Medya biçimi, verinin görsel veya işitsel olarak sunuluş şeklini ifade eder.
 
     <hr />
 1. <strong>Arttırılmış gerçekliğin tanımı aşağıdakilerden hangisidir?</strong>
@@ -1660,7 +1660,7 @@
     - D-) Çok sayıda oyuncunun bilgisayarlarından veya oyun konsollarından internete bağlanarak birlikte oynadığı, oyun esnasında çeşitli karakterlere büründüğü video oyunu türüdür.
     - E-) Fotogerçekçiliğin bir ileri aşaması kabul edilen, yüksek çözünürlüklü bir fotoğrafa benzeyen bir resim ve heykel türüdür.
 
-    > **Açıklama:** <b>Artırılmış gerçeklik (AG)</b>, kullanıcının gerçek dünya görüşünün bilgisayar grafikleri, metin, ses gibi bilgisayar tarafından üretilen ek bilgilerle zenginleştirildiği veya artırıldığı bir teknolojidir. Gerçek ve sanal dünyayı birleştirir.
+    > **Açıklama:** Arttırılmış gerçeklik (AR), gerçek dünya ortamının, bilgisayar tarafından üretilen ve genellikle gerçek zamanlı olarak etkileşimli hale getirilen <b>dijital bilgilerle, görüntülerle veya seslerle zenginleştirilmesi</b> anlamına gelir. AR’ın temel amacı, kullanıcının gerçeklik algısını bozmadan, gerçek dünyaya ek katmanlı dijital bilgiler sunmaktır. Bu, sanal gerçeklikten (VR) farklı olarak, kullanıcıyı tamamen dijital bir ortama sokmaz.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı hazırlamada kullanılan yazılımlardan/uygulamalardan <u>değildir</u>?</strong>
@@ -1670,7 +1670,7 @@
     - D-) Befunky
     - **Cevap E-) Peacemaker**
 
-    > **Açıklama:** Bilgilendirme tasarımı hazırlamada kullanılan popüler yazılım ve uygulamalar arasında <b>Venngage, Snappa, Google Drawings</b> ve <b>Befunky</b> gibi araçlar bulunur. Peacemaker ise bu amaçla kullanılan bir yazılım değildir.
+    > **Açıklama:** Bilgilendirme tasarımı (infografik) hazırlamada kullanılan yaygın yazılımlar genellikle profesyonel grafik tasarım (Adobe Illustrator, Sketch), veri görselleştirme (Tableau, Power BI) veya sunum (Microsoft PowerPoint) araçlarıdır. Bu listede yer almayacak bir yazılım, temel olarak <b>metin düzenleme</b> veya <b>basit veri girişi</b> için kullanılan bir uygulama (örneğin, yalnızca metin odaklı <b>Microsoft Word</b> veya <b>Notepad</b>) olacaktır, çünkü bu uygulamalar karmaşık görselleştirme ve grafik düzenleme yeteneklerine sahip değildir.
 
     <hr />
 1. <strong>Aşağıdaki yazılımlardan/uygulamalardan hangisi daha çok bilimsel bilgilendirme tasarımları konusunda uzmanlaşmıştır?</strong>
@@ -1680,7 +1680,7 @@
     - **Cevap D-) Mind the Graph**
     - E-) PicMonkey
 
-    > **Açıklama:** Çeşitli bilgilendirme tasarımı yazılımları arasında, <b>Mind the Graph</b> özellikle <b>bilimsel bilgilendirme tasarımları</b> konusunda uzmanlaşmıştır. Bilimsel makaleleri ve verileri tamamlayacak binlerce bilimsel simge ve illüstrasyon sunar.
+    > **Açıklama:** Bilimsel bilgilendirme ve veri görselleştirmesi konusunda uzmanlaşmış yazılımlar genellikle istatistiksel analiz yapma ve karmaşık bilimsel veri kümelerini görselleştirme yeteneğine sahiptir. Bu tür yazılımlara örnek olarak <b>MATLAB</b> (mühendislik ve matematiksel hesaplama), <b>R</b> (istatistiksel analiz ve grafik oluşturma) veya belirli <b>Python kütüphaneleri</b> (örneğin Matplotlib, Seaborn) verilebilir. Bu platformlar, genellikle büyük ve karmaşık bilimsel verileri anlaşılır grafiklere dönüştürmek için özel algoritmalar sunar.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisinin ne kadar büyütülürse büyütülsün görün kalitesinin bozulmayacağı var sayılabilir?</strong>
@@ -1690,7 +1690,7 @@
     - D-) HDR görüntülerin
     - **Cevap E-) Vektörel görüntü dosyaların**
 
-    > **Açıklama:** <b>Vektörel görüntü dosyaları</b>, matematiksel denklemler kullanılarak oluşturulduğu için sonsuz şekilde ölçeklendirilebilir. Bu nedenle, görüntü ne kadar büyütülürse büyütülsün kalitesinde ve netliğinde bir bozulma olmaz. Noktasal (raster) dosyalarda ise büyütme kalite kaybına yol açar.
+    > **Açıklama:** Görüntü kalitesinin ne kadar büyütülürse büyütülsün bozulmayacağı varsayımı, <b>vektörel grafikler</b> için geçerlidir. Vektörel grafikler, pikseller yerine matematiksel formüller, yollar ve noktalar kullanılarak tanımlanır. Bu sayede, görsel büyütüldüğünde çizgiler yeniden hesaplanır ve <b>çözünürlükten bağımsız</b> olarak keskinliğini korur. Raster (piksel tabanlı) görseller ise büyütüldüğünde kalitelerini kaybeder ve piksellenme (mozaiklenme) görülür.
 
     <hr />
 ## Unite 14
@@ -1701,7 +1701,7 @@
     - D-) Yeni soyut temsil olanaklarının ortaya çıkması
     - **Cevap E-) Geleneksel üretim yöntemlerinin maliyetlerinin artması**
 
-    > **Açıklama:** Teknolojik gelişmeler sonucunda dijital araçlar yaygınlaşmış, <b>üretim maliyetleri düşmüş</b>, soyut temsil olanakları artmış ve iş kolaylığı sağlanmıştır. Geleneksel üretim yöntemlerinin maliyetlerinin artması bu sürecin doğrudan bir sonucu değildir.
+    > **Açıklama:** Teknolojik gelişmeler, genellikle bilgiye erişimin <b>hızlanmasına</b>, veri miktarının (Big Data) <b>artmasına</b>, <b>küresel iletişimin</b> kolaylaşmasına ve <b>yeni medya biçimlerinin</b> ortaya çıkmasına yol açar. Bu bağlamda, teknolojik gelişmeler sonucunda ortaya çıkmayacak bir durum, genellikle <b>bilgiye erişim hızının azalması</b>, iletişim maliyetlerinin artması veya bilginin yayılma hızının yavaşlaması gibi gerileyici bir sonuç olacaktır.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgi ve verilerin, birer dijital görsel ifade aracı arasında <u>yer almaz</u>?</strong>
@@ -1711,7 +1711,7 @@
     - **Cevap D-) Heykel**
     - E-) Ses
 
-    > **Açıklama:** Bilgi ve verilerin dijital ve görsel ifade araçları arasında <b>metin, grafik, video</b> ve <b>ses</b> bulunur. Heykel ise fiziksel ve üç boyutlu bir sanat formudur, dijital bir görsel ifade aracı değildir.
+    > **Açıklama:** Bilgi ve verilerin dijital görsel ifade araçları, veriyi insan algısına uygun hale getirmek için kullanılan tüm görselleştirme biçimlerini kapsar. Bunlar arasında <b>grafikler, şemalar, infografikler, haritalar</b> ve <b>veri tablolarının görsel sunumları</b> bulunur. Bu araçlar arasında yer almayacak olan, görsel bir dönüştürme işlemine tabi tutulmamış olan <b>Ham Veri (Raw Data)</b> veya yalnızca <b>düz metin formatında sunulan bilgi</b>dir. Görsel ifade aracı olması için verinin bir şekilde organize edilip biçimlenmesi gerekir.
 
     <hr />
 1. <strong>Aşağıdakilerden hangisi Uçar’a göre bilgilerin dijital ve görsele dönüşümünde geçirdiği süreçlerden biri <u>değildir</u>?</strong>

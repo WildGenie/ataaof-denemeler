@@ -17,6 +17,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Özne-nesne ve ışık ilişkisinin matematiksel ve sistematik bir optik kurama oturtulması, genellikle <b>Euclid</b> ile ilişkilendirilir. Euclid, görmeyi geometrik prensiplere dayandırarak, ışık ışınlarının gözden düz çizgiler halinde çıktığı (ekstramisyon) fikrine dayanan bir model geliştirmiş ve böylece Antik Yunan'da optiğin bilimsel temellerini atmıştır.",
         "Donem": 2
     },
     {
@@ -37,6 +38,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Işıklı bir ortamda nesnelere düşen ışığın kırılarak göz retinasına odaklanmasıyla fizyolojik <b>görme süreci</b> başlar. Retina üzerindeki fotoreseptörler (koni ve çubuklar) bu odaklanmış ışığı alır ve beyne iletilecek sinir sinyallerine dönüştürür.",
         "Donem": 2
     },
     {
@@ -57,6 +59,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "İçinde ışığa duyarlı fotoreseptör hücreler (<b>koni ve çubuk hücreleri</b>) bulunan ve optik sinir aracılığıyla bilgiyi doğrudan <b>beyne</b> ileten gözün bölümü <b>Retina</b>'dır. Retina, gözün en içteki sinir tabakasıdır ve görme bilgisinin ilk nöral işlendiği yerdir.",
         "Donem": 2
     },
     {
@@ -77,6 +80,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Gözün retina tabakasında yer alan <b>çubuk hücreler</b>, özellikle <b>düşük ışıkta</b> (karanlıkta) oldukça duyarlıdırlar ancak renk ayrımı yapamazlar. Bu nedenle, çubuk hücreler görüntüyü yalnızca <b>siyah, beyaz ve gri</b> (akromatik) tonlarda görmemizi sağlarlar.",
         "Donem": 2
     },
     {
@@ -97,6 +101,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Atomcu filozof <b>Democritus</b>, nesnelerin çok küçük <b>gözenekleri</b> olduğunu ve bu nesnelerden yayılan suretlerin (effluences/simulacra) gözümüze ulaşmasıyla görmenin gerçekleştiğini savunmuştur. Bu, intromisyon (gözün içine girme) teorisinin erken bir formu olarak kabul edilir.",
         "Donem": 2
     },
     {
@@ -117,6 +122,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Görmenin, “Nesneleri görünür kılan şey gözün yaydığı ışıktır.” şeklinde açıklanması <b>Ekstramisyon Kuramı</b>'dır. Bu kuramın önemli savunucularından biri <b>Euclid</b> (veya Plato) olup, görmenin gözden çıkan ışınlar aracılığıyla gerçekleştiğini öne sürer.",
         "Donem": 2
     },
     {
@@ -137,6 +143,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Işık ve görmeyi <b>matematiksel</b> bağlamda ele alan ve görme ışınlarının geometrik doğrular şeklinde yayıldığına dair bir model geliştiren filozof <b>Euclid</b>'dir. Euclid, optiği geometri disiplini içine dahil eden ilk düşünürlerdendir.",
         "Donem": 2
     },
     {
@@ -157,6 +164,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "<b>Plato</b>, saf ekstramisyon teorisini geliştirerek, görmenin gerçekleşebilmesi için hem gözden yayılan iç ateşin hem de <b>cismin aydınlık olması</b> için dışarıdaki ışığın (güneş ışığı) gerekli olduğunu ileri sürmüştür. Bu iki ışık akımının birleşimiyle görmenin mümkün olduğunu açıklamıştır.",
         "Donem": 2
     },
     {
@@ -177,6 +185,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Işık-göz ve nesne arasında bir dizi karmaşık fizyolojik işlem (ışığın retinaya odaklanması, nöral sinyallere dönüştürülmesi ve beyne iletilmesi) gerçekleştikten sonra, bu uyaranların anlamlandırılması süreci olan <b>algı</b> oluşur. Algı, dış dünyadan gelen ham bilginin beyin tarafından yorumlanmasıdır.",
         "Donem": 2
     },
     {
@@ -197,6 +206,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "İnsan gözü, temelde üç ana tabakadan (tunikadan) oluşur:<br>1. En dıştaki koruyucu tabaka olan <b>Sklera</b> (Sert tabaka).<br>2. Orta katman olan damar ve pigment içeren <b>Koroid</b> (Damar tabaka).<br>3. En içteki ışığa duyarlı katman olan <b>Retina</b> (Ağ tabaka).",
         "Donem": 2
     },
     {
@@ -217,6 +227,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Renkleri görmemizi sağlayan <b>koni hücreleri</b>, farklı dalga boylarına (kısa, orta, uzun) duyarlı üç tipte bulunurlar. Kendi başlarına bir renge sahip değillerdir; ancak ışık enerjisini sinyallere dönüştürdükleri için <b>fotoreseptör</b> olarak adlandırılırlar. Bu hücrelerin beynimiz tarafından yorumlanmasıyla renk algısı oluşur.",
         "Donem": 2
     },
     {
@@ -237,6 +248,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "<b>Çubuk hücreler</b>, düşük ışık koşullarında görmeyi sağlayan, ışığa karşı son derece duyarlı hücrelerdir. Bu hücreler, merkezi görme alanının (Fovea) dışında, göz küresinin <b>çevresel (periferik)</b> bölgelerinde çok daha yoğun olarak yer alır.",
         "Donem": 2
     },
     {
@@ -257,6 +269,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "İnsan gözünün retinal tabakasında renkleri görmemizi sağlayan, farklı dalga boylarına duyarlı (kısa, orta ve uzun) <b>üç tip koni hücresi</b> bulunur. Bu üç tipin beynimizde farklı oranlarda uyarılması ve karşılaştırılmasıyla milyonlarca renk tonunu ayırt edebiliriz.",
         "Donem": 2
     },
     {
@@ -277,6 +290,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Duyu organlarından gelen veriler arasında, çevremizdeki dünyadan topladığımız bilginin büyük çoğunluğunu oluşturan <b>görme (vizyon)</b> duyusu, beynimizin özellikle <b>görsel korteksine</b> ayrılan en büyük işlem hacmine sahiptir. İnsan beyni kapasitesinin önemli bir kısmı görsel bilgiyi işlemek için kullanılır.",
         "Donem": 2
     },
     {
@@ -297,6 +311,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Duyulardan gelen ham bilgilerin, beynin daha önce kaydettiği <b>verilerle birleştirilerek</b> dışarıdan gelen uyarıların ne olduğuna dair bir anlamlı <b>yargıya varılması</b>, yani bilginin yorumlanmaya başlandığı nokta, <b>Algı (Perception)</b> olarak adlandırılır.",
         "Donem": 2
     },
     {
@@ -317,6 +332,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Antik Yunan filozofu <b>Empedocles</b>, görme olayını açıklarken, hem nesnelerden yayılan <b>akıntıların</b> hem de gözlerden çıkan <b>ateşin/ışığın</b> karşılaşmasıyla oluşan bir <b>“Görüş Akıntısı”</b> mekanizmasını tanımlayan ilklerdendir.",
         "Donem": 2
     },
     {
@@ -337,6 +353,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "<b>Alhazen (İbn-i Heysem)</b>, Antik Yunan'dan beri süregelen optik kuramları reddetmiş, görmenin <b>deneysel yöntemlerle</b> (Intromission) çalıştığını göstermiş ve optiği, matematiksel ilkelerle desteklenen, modern <b>fizik biliminin temel bir disiplini</b> haline gelmesini sağlamış önemli bir düşünürdür.",
         "Donem": 2
     },
     {
@@ -357,6 +374,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Prizma deneyleriyle ünlü bilim insanı <b>Isaac Newton</b>, beyaz ışığın tek bir ışın olmadığını, aksine farklı kırılma indislerine sahip olan ve tüm bu ışınların <b>karışımının beyaz ışığı</b> verdiğini söyleyerek ışık spektrumu kuramını geliştirmiştir.",
         "Donem": 2
     },
     {
@@ -377,6 +395,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Öz-nesne-ışık ilişkisinin algıya dönüşme sürecini <b>geometrik</b> prensiplere dayandırarak belli bir <b>optik kurama oturtulmasını</b> sağlayan Antik Yunan filozofu <b>Euclid</b>'dir. Euclid, optiğin sistematikleştirilmesinde kilit rol oynamıştır.",
         "Donem": 2
     },
     {
@@ -397,6 +416,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Gözün temel yapısını Kornea, Lens, Retina, İris, Sklera gibi hayati bölümler oluşturur. Eğer seçeneklerde (örneğin) <b>Hipotalamus</b> veya <b>Pons</b> gibi bir beyin bölgesi olsaydı, bu bölge gözün fizyolojik yapısını oluşturan ana kısımlardan biri <b>değildir</b>; çünkü bu yapılar beyin sapında veya beyin içindedir, göz küresinin kendisinde değil.",
         "Donem": 2
     },
     {
@@ -417,6 +437,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Gözde görmeyi sağlayan ışığa duyarlı hücrelerin (çubuk ve koni hücreleri) bulunduğu ve sinir lifleri aracılığıyla beyin ile direkt bağlantıyı kuran tabakanın adı <b>retina</b> (ağ tabaka)dır. Retina, ışık enerjisini sinir sinyallerine dönüştürerek görme sürecinin ilk aşamasını gerçekleştirir.",
         "Donem": 2
     },
     {
@@ -437,6 +458,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Antik Yunan filozofu Leukippos'un geliştirdiği teori <b>Atomizm Teorisi</b>'dir. Atomistler (Leukippos ve Demokritos), evrendeki her şeyin <b>atomlardan</b> oluştuğunu savunur. Algı konusunda ise, nesnelerden yayılan atom akımlarının (efluvia) duyu organlarına fiziksel olarak teması sonucu duyumun oluştuğunu ileri sürerler. Bu nedenle tüm duyular, atomların temasına dayandığı için, <b>dokunma duyusunun</b> farklı biçimleri olarak algılanır. Ruh ve beden ilişkisinde ise, bilginin kaynağının beden değil <b>ruh</b> olduğu tezi, atomların hareketini yorumlayan zihnin önemini vurgular.",
         "Donem": 2
     },
     {
@@ -457,6 +479,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Temel bilgilerin ve mantık prensiplerinin doğuştan (innate) zihnimizde var olduğunu, dolayısıyla bilginin kaynağının dış deneyim değil <b>akıl</b> olduğunu savunan bu görüş, <b>Rasyonalizm</b> akımına aittir. Bu yaklaşım, özellikle 17. yüzyıl felsefesinde <b>René Descartes</b> tarafından savunulmuştur. Descartes, matematiksel ve mantıksal gerçekliklerin deneyimden önce zihinde mevcut olduğunu ve bu doğuştan gelen fikirlerin (clear and distinct ideas) güvenilir bilginin temeli olduğunu ileri sürer. Bu nedenle, görüntünün bilgisinin de doğuştan gelme tezi Descartes’ın rasyonalist epistemolojisine uygundur.",
         "Donem": 2
     },
     {
@@ -477,6 +500,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Bu ayrım, sanat teorisyeni <b>Henri Focillon</b>'a atfedilen bir görüştür. Focillon, Biçimlerin Yaşamı (The Life of Forms) adlı eserinde, bir nesnenin temel yapısı olan <b>biçimi</b> (shape) dinamik ve sürekli değişebilen canlı bir varlık olarak ele alır. Buna karşın, <b>form</b> (üç boyutlu biçim) ise daha durağan, sabitlenmiş ve bu nedenle 'ölü doğa' olarak nitelendirilir.",
         "Donem": 2
     },
     {
@@ -497,6 +521,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu görüş, biçim ile içeriğin ayrılmazlığını savunan filozof <b>Susanne K. Langer</b>'a aittir. Langer, sanatta biçimin salt estetik bir unsur olmaktan öte, belirli bir <b>içeriği</b> veya sembolizmi ifade etme aracı olduğunu savunur. Biçimin, iletmek istediği <b>kesin bir içeriğe</b> bağlanmadığı sürece anlamsız kalacağını vurgular.",
         "Donem": 2
     },
     {
@@ -517,6 +542,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Şekil kelimesini dar ve geometrik anlamda ele alan, onu yalnızca alanların sınırlandırılması üzerinden tanımlayan teorisyen <b>Wassily Kandinsky</b>'dir. Soyut sanatın öncülerinden olan Kandinsky, şekli (figure), bir düzlemde <b>sınır çizgileri</b> ile belirlenmiş iki boyutlu bir oluşum olarak tanımlamıştır.",
         "Donem": 2
     },
     {
@@ -537,6 +563,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Beynimizin dış dünyadan gelen sonsuz görsel veriyi filtreleyerek, sadece o anki işimiz veya hayatta kalmamız için gerekli olanlara odaklanması sürecine <b>Seçici Algı</b> (Selective Perception) adı verilir. Bu mekanizma, bilişsel kaynakları korumak ve ilgili objelere <b>dikkatimizi yönlendirmek</b> için hayati önem taşır.",
         "Donem": 2
     },
     {
@@ -557,6 +584,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Algı, duyu verilerinin <b>yorumlanması</b> ve <b>anlamlandırılması</b> süreci olduğu için, görsel deneyimlerimizin temelini oluşturan pek çok kavram algıya dayanır. Örneğin, <b>derinlik algısı</b>, boyut ve renk <b>değişmezlikleri</b>, şekil-zemin ilişkisi gibi bilişsel yapılar doğrudan algıya dayanarak inşa edilir.",
         "Donem": 2
     },
     {
@@ -577,6 +605,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bilgilerin temel kaynağının <b>deneyim</b> olduğunu savunan felsefi akım Deneycilik (Empirizm)'dir. Bu görüşü evrimci bir bağlamda ele alan ünlü felsefeci, 19. yüzyıl düşünürü <b>Herbert Spencer</b>'dır. Spencer, zihinsel süreçlerin ve bilginin evrimsel süreçler sonucu, çevresel deneyimlerle edinildiğini savunur.",
         "Donem": 2
     },
     {
@@ -597,6 +626,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Psikolojinin, felsefeden bağımsız, ayrı bir bilimsel inceleme alanı olarak kabul edilmesi ve deneysel çalışmalara başlaması <b>19. yüzyılın</b> ikinci yarısında gerçekleşmiştir. Bu gelişme, 1879'da <b>Wilhelm Wundt</b>'un Almanya'da ilk psikoloji laboratuvarını kurmasıyla resmiyet kazanmıştır.",
         "Donem": 2
     },
     {
@@ -617,6 +647,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Boşluk (mekan) ve nesnelerin formlarını nasıl algıladığımız sorusuna en kapsamlı cevapları arayan teorilerin başında <b>Gestalt Kuramı</b> gelir. Gestalt, algının parçaları değil, nesnelerin <b>bütüncül yapılarını</b> (Gestalt) otomatik olarak organize ettiğini ve şekil-zemin ilişkisinin mekân algısında merkezi rol oynadığını savunur.",
         "Donem": 2
     },
     {
@@ -637,6 +668,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bilincin oluşabilmesi (consciousness) için sadece dış dünyadan gelen duyusal verilerin alınması yetmez. Bu verilerin beyin tarafından <b>işlenmesi</b>, <b>yorumlama</b> sürecinden geçirilmesi ve kişinin kendisini bir özne olarak algıladığı <b>farkındalık</b> durumunun gerçekleşmesi gerekir. Bilinç, temel olarak duyusal girdinin bilişsel olarak organize edilmesini gerektirir.",
         "Donem": 2
     },
     {
@@ -657,6 +689,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Ekolojik Görüş Kuramı'nın kurucusu <b>James J. Gibson</b>, algıyı incelemiş ve aradaki farkı netleştirmiştir. <b>Görsel Alan</b>, kişinin retinaya düşen anlık, sınırlı ve öznel veriler bütünüdür. <b>Görsel Dünya</b> ise, bu verilerin yorumlanması sonucu oluşan, stabil, derinlikli ve <b>üç boyutlu</b> olarak algıladığımız çevremizdir.",
         "Donem": 2
     },
     {
@@ -677,6 +710,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "İnsan zihninin doğuştan boş bir sayfa (<b>Tabula Rasa</b>) olduğu düşüncesi, Deneycilik (Empirizm) felsefesinin en önemli savunucusu <b>John Locke</b>'a aittir. Locke, tüm bilginin ve fikirlerin, doğuştan gelmek yerine, tamamen <b>dış deneyimler</b> ve gözlemler aracılığıyla edinildiğini savunur.",
         "Donem": 2
     },
     {
@@ -697,6 +731,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Gestalt Kuramı (Bütünlük Psikolojisi), algının parçaların toplamından daha fazlası olduğunu savunur. Kuramın psikolojideki başlıca öncüleri ve kurucuları arasında <b>Max Wertheimer</b>, <b>Wolfgang Köhler</b> ve <b>Kurt Koffka</b> bulunur. Kuram, algılama yasalarını inceleyerek formların nasıl organize edildiğini açıklamıştır.",
         "Donem": 2
     },
     {
@@ -717,6 +752,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Bu paragraf, algının anlık duyumsamadan farklı olarak <b>öğrenilmiş bilgilere</b> ve deneyime dayandığını savunan Yapılandırmacı yaklaşımı özetler. Buna göre, duyumsama anlık olsa da, algı <b>geçmiş uyarılar</b> veya <b>deneyimler</b> üzerine inşa edilerek anlam kazanır.",
         "Donem": 2
     },
     {
@@ -737,6 +773,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Görsel alan, James J. Gibson tarafından tanımlandığı şekliyle, öznel, iki boyutlu ve izleyicinin konumuna bağlı olarak <b>sınırlı</b> ve <b>değişken</b> bir yapıya sahiptir. Görsel alan, nesneleri sabit ve tutarlı görmemizi sağlayan Görsel Dünya'nın aksine, retinaya düşen ham görsel verileri temsil eder.",
         "Donem": 2
     },
     {
@@ -757,6 +794,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Salt biçimin (çizgi, renk, şekil) kendi başına bir amaç taşıyarak, bizi estetik bir heyecana ve dolayısıyla bir kavrayışa götürdüğünü savunan akım Formalizm'dir. Bu düşünceyi savunan başlıca teorisyenlerden biri <b>Roger Fry</b>'dır. Fry, eserin konusundan bağımsız olarak, <b>anlamlı biçimin</b> (Significant Form) sanatın özünü oluşturduğunu belirtir.",
         "Donem": 2
     },
     {
@@ -777,6 +815,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Biçimin, dış nesnenin yapısı ile algılayan öznenin iç dünyası arasındaki <b>diyalektik ilişkiden</b> doğduğunu savunan yazar <b>Herbert Read</b>'dir. Read, biçimin oluşumunun sadece nesneye bağlı olmadığını, aynı zamanda izleyicinin deneyim, duygu ve beklentilerinin bu algıyı şekillendirdiğini belirtir.",
         "Donem": 2
     },
     {
@@ -797,6 +836,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Göz, objenin bütününe <b>Gestalt İlkeleri</b> aracılığıyla ulaşır. Beyin, Yakınlık, Benzerlik, Tamamlama ve Süreklilik gibi organizasyon yasalarını kullanarak duyusal verileri hızla gruplar ve objeyi yalıtılmış parçalar yerine, <b>anlamlı bir bütün</b> olarak algılar (Bütün, parçaların toplamından fazladır ilkesi).",
         "Donem": 2
     },
     {
@@ -817,6 +857,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Fiziksel çevrenin temel boyutları uzunluk, genişlik ve derinlikten oluşur. Bu boyutlar arasında yer alan ve görsel algımız için kritik olanlar <b>Derinlik</b> (I) ve <b>Uzaklık</b>'tır (II). Bu iki faktör, üç boyutlu mekânı algılamamızı sağlar.",
         "Donem": 2
     },
     {
@@ -837,6 +878,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Bilginin temel olarak deneyimden türediğini savunan Deneycilik akımının 19. yüzyıldaki önemli temsilcisi <b>Herbert Spencer</b>'dır. Spencer, bilginin doğuştan gelmediğini, duyusal deneyim ve <b>ilişkilendirme</b> (association) yoluyla edinildiğini öne sürmüştür.",
         "Donem": 2
     },
     {
@@ -857,6 +899,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Atın dört nala koşarkenki hareketini saniyeler içerisinde, sık aralıklarla art arda fotoğraflayarak hareketin analizini mümkün kılan ve sinemanın temellerini atan öncü fotoğrafçı <b>Eadweard Muybridge</b>'dir. Bu tekniğe <b>kronofotografi</b> adı verilir.",
         "Donem": 2
     },
     {
@@ -877,6 +920,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Soru, algılama psikolojisinin temel kavramlarından biri olan <b>Şekil-Zemin (Figure-Ground) ilişkisini</b> tanımlamaktadır. Bu ilke, objelerin algılanmasının (şekil), bir arka plan (zemin) karşısında gerçekleştiğini öne sürer. Gestalt psikolojisine göre, algılama sürecimizde objeleri ve olayları birbirinden ayırmak için öncelikle bir zemin oluştururuz.<br/>Cümlede belirtildiği gibi, objenin algılanması (yani şekil), iki obje arasındaki etkileşimden değil, <b>devam eden bir arka planın etkisiyle</b> oluşur.<br/>Bu demektir ki, ancak <b>arka plan</b> doğru algılandığında (zemin sabitlendiğinde), onun karşısındaki <b>obje</b> (şekil) algılanır. Doğru sıralama bu nedenle “arka plan” ve “obje”dir.",
         "Donem": 2
     },
     {
@@ -897,6 +941,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Bu tanım, bakışımızı objelerin kimliklerine aldırmadan, sadece tek bir noktaya perspektif çizer gibi odakladığımızda gördüğümüz, <b>renk alanları, köşeler, dokular</b> vb. soyut değerleri içeren <b>Görsel Alan</b>'ı (Visual Field) açıklamaktadır. Görsel Alan, algının sübjektif, retinaya düşen anlık izlenimlerini ifade eder.",
         "Donem": 2
     },
     {
@@ -917,6 +962,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "<b>Görsel Dünya</b> (Visual World), bizim nesnel olarak kabul ettiğimiz, tanıdık objelerin bulunduğu ve algısal sabitliğin hakim olduğu çevredir. En karakteristik özelliği, bakış açımız veya hareketimiz değişse bile, <b>objelerin kimliklerinin değişmemesi</b> ve algılanan <b>mekanın dengeli ve sabit</b> kalmasıdır.",
         "Donem": 2
     },
     {
@@ -937,6 +983,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Görsel alan (Visual Field) tanımına göre, gözümüzü veya başımızı hareket ettirdiğimizde retinaya düşen görüntü sürekli değişir, dolayısıyla <b>görsel alan kayar veya titrek</b> gözükür. Görsel alanın hareket ettiğimizde sabit kalması ifadesi (ki bu Görsel Dünya'nın özelliğidir) bu tanıma <b>uymaz</b>.",
         "Donem": 2
     },
     {
@@ -957,6 +1004,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Göz çevreyi tararken, objelerin kendilerinin ve mekanın istikrarını sağlayan <b>Görsel Dünyanın</b> renkli yüzeyleri <b>sabit</b> gözükürken; retinaya düşen anlık izlenimi temsil eden <b>Görsel Alanın</b> renkli yüzeyleri göz hareketlerine bağlı olarak <b>titrek veya kayar</b> gözükür.",
         "Donem": 2
     },
     {
@@ -977,6 +1025,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Gerçek dünya algımız (Görsel Dünya) nesne kimliğine dayalıdır. Eğer bakışımızı objelerin <b>kimliklerinden soyutlayarak</b>, sadece <b>perspektif ve doku</b> gibi anlık <b>Görsel Alan</b> değerlerine odaklarsak, algı sistemimizin objeleri sabit tutma mekanizması bozulur ve gerçek dünya algısı sarsılır.",
         "Donem": 2
     },
     {
@@ -997,6 +1046,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Derinlik algısı, Görsel Dünya'nın temelidir ve mesafe tahminlerimizi, çevremizdeki <b>tanıdık objeler arasındaki oran ilişkisine</b> dayanarak oluştururuz. Bu, beynimizin 3 boyutlu hareketlerimizi (uzanma, yürüme) düzenlemesini sağlayan istikrarlı bir referans sistemidir.",
         "Donem": 2
     },
     {
@@ -1017,6 +1067,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "I, II ve III numaralı ifadeler, gözün anatomik yapısına uygun olarak, görüntünün merkezde (fovea) <b>keskin</b> olduğunu ve merkezden uzaklaştıkça <b>netliğin azaldığını</b> (periferik görüş) belirtir. IV. İfade ise doğru kabul edilemez çünkü göz odaklandığı merkezden görüntünün sınırlarına doğru konturları takip etmekte <b>zorlanır</b>; bu, retinanın çevresel bölgelerinin düşük çözünürlüğünden kaynaklanır.",
         "Donem": 2
     },
     {
@@ -1037,6 +1088,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Durağan pozisyondayken sadece gözümüzü hareket ettirdiğimizde, retinaya düşen görüntü hareket eder. Bu durum <b>Görsel Alanın</b> kaymasına veya hareket etmesine neden olur. Ancak beynimiz, objelerin yerlerini sabit tutarak <b>Görsel Dünyanın</b> algısal olarak <b>sabit kalmasını</b> sağlar (algısal sabitlik).",
         "Donem": 2
     },
     {
@@ -1057,6 +1109,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "<b>Görsel Alan</b>, sübjektif, perspektife bağlı, anlık izlenimlere odaklanan ve kenarları flu olan bir algı biçimidir. Objelerin kimliklerinin değişmemesi veya sabit olması (Object Constancy), <b>Görsel Dünya'nın</b> temel bir özelliğidir ve görsel alanda bulunmaz.",
         "Donem": 2
     },
     {
@@ -1077,6 +1130,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "İnsan görsel alanı, iki gözün binoküler görüşü sayesinde genişler. Bir göz kapatıldığında, özellikle yanlarda (periferide) olmak üzere, toplam görüş alanı kabaca <b>yarı yarıya</b> oranda daralır ve derinlik algısı azalır.",
         "Donem": 2
     },
     {
@@ -1097,6 +1151,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Göz anatomimiz ve burun, kaş gibi yüz yapılarımızın kısıtlamaları nedeniyle, Görsel Alanımız dikeyden çok <b>yatay yönde daha geniştir</b>. Bu şekil, <b>yatay elips</b> olarak ifade edilir.",
         "Donem": 2
     },
     {
@@ -1117,6 +1172,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Bu ifade, Gestalt kuramcılarından <b>Kurt Koffka</b>'ya aittir ve görsel algının sadece o an görülenlerle sınırlı olmadığını, aynı zamanda zihnin <b>Görsel Dünyayı</b> sürekli ve bütün olarak algıladığını, hatta görünmeyen kısımları bile kapsadığını vurgular.",
         "Donem": 2
     },
     {
@@ -1137,6 +1193,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "<b>Görsel Dünya</b> algısı, objelerin mekandaki sabitliğini ve <b>objenin kimliğini</b> tanımaya bağlıdır. Buna karşın, <b>Görsel Alan</b> algısı anlık perspektif görüntüsüne (renk, doku) odaklandığı için objenin kimliğine <b>bağlı değildir</b>.",
         "Donem": 2
     },
     {
@@ -1157,6 +1214,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Görsel algıda sıklıkla ele alınan <b>çok anlamlı şekiller</b> (ambiguous figures), aynı anda sadece tek bir algının baskın olabildiği, ancak bu algının zemin-şekil ilişkisi değiştirilerek alternatif olarak <b>İki</b> farklı şekilde yorumlanabildiği formlardır (örn. Rubin Vazosu).",
         "Donem": 2
     },
     {
@@ -1177,6 +1235,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu tanım, <b>Derinlik Algısına</b> aittir. Tanıdık objeler arasındaki <b>oran ilişkisi</b> sayesinde mesafeleri doğru tahmin ederiz ve bu da <b>günlük hareketlerimizi</b> (adım atmak, uzanmak) güvenli bir şekilde gerçekleştirmemizi sağlar.",
         "Donem": 2
     },
     {
@@ -1197,6 +1256,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Objelerin arasındaki boşluklar (negatif alan), objelerin kendileri gibi (pozitif alan), algısal olarak <b>Şekil</b> alanlarından oluşur. Bu, sanat ve tasarımda zemin-şekil ilişkisinin tersine çevrilerek boşlukların da bir form olarak algılanabileceği anlamına gelir.",
         "Donem": 2
     },
     {
@@ -1217,6 +1277,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Objenin retinaya düşen şekli bakış açısına göre değişse de (Görsel Alan), <b>Küre</b> formu, uzayda nasıl konumlandırılırsa konumlandırılsın veya hangi açıdan bakılırsa bakılsın, perspektif görüntüsü her zaman <b>dairesel</b> kalır ve bu sayede şekli değişmeyen bir formdur.",
         "Donem": 2
     },
     {
@@ -1237,6 +1298,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Tren raylarının ufukta birleştiğini söyleyen kişi optik yanılsamaya (perspektif, yani Görsel Alan) odaklanmıştır. Rayların <b>fiziksel olarak paralel</b> olduğunu ve hiçbir zaman birleşmeyeceğini söyleyen kişi ise, <b>objelerin sabit kimliğine</b> ve nesnel gerçekliğe odaklanan <b>Görsel Dünya</b> bakış açısına sahiptir (Algısal Sabitlik ilkesi).",
         "Donem": 2
     },
     {
@@ -1257,6 +1319,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Temel olarak ikiye ayrılan görme biçimleri, objelerin ve mekanın sabit, nesnel algısını temsil eden <b>Görsel Dünya</b> ve retinaya düşen anlık, sübjektif perspektif algısını temsil eden <b>Görsel Alan</b>'dır.",
         "Donem": 2
     },
     {
@@ -1277,6 +1340,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "İki gözle birlikte sahip olduğumuz Görsel Alan, yatay düzlemde (sağdan sola) yaklaşık <b>180 derece</b>, dikey düzlemde (yukarı aşağı) ise burun ve kaş gibi anatomik kısıtlamalar nedeniyle yaklaşık <b>130 derecelik</b> bir görüş alanına sahiptir.",
         "Donem": 2
     },
     {
@@ -1297,6 +1361,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Görsel alan bir noktaya odaklanmayı gerektirdiğinde, göz bu noktayı sabitlemek için <b>fiksasyon</b> ve <b>akomodasyon</b> hareketlerini yapar. Bu odaklanma süreci sırasında, göz kaslarının uyguladığı çaba (özellikle <b>konverjans</b> çabası) hakkında duyusal geri bildirim alınır. Gözün yaptığı odaklanma hareketi ile hissedilen şey, görsel sistemin çevredeki nesnelerin netliğini korumak için uyguladığı <b>kas çabası</b> veya <b>propriyoseptif his</b> olarak tanımlanır. Bu his, beynin nesne mesafesini doğru algılamasına yardımcı olur.",
         "Donem": 2
     },
     {
@@ -1317,6 +1382,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Baş ve bedenin hareketi (<b>öz hareket</b>), fiziksel görsel dünyayı (çevredeki nesneleri) etkilemez; yani nesneler yerinde kalır. Ancak, hareket sırasında retinamızdaki görüntü sürekli olarak değişir (<b>optik akış</b>). Beyin, bu retinal kaymayı <b>vestibüler sistem</b> ve <b>efference kopyası</b> gibi diğer duyusal girdilerle birleştirerek, görsel dünyanın sabit kaldığını, değişenin ise bizim <b>mekandaki pozisyonumuz</b> veya <b>kendi hareket algımız</b> olduğunu belirler. Bu nedenle boşluğa getirilmesi gereken ifade '<b>kendi hareketimiz</b>' veya '<b>yer değiştirmemiz</b>' olmalıdır. Cümle bu durumda: 'Baş ve bedenin hareketi, görsel dünyayı etkilemez ama <b>kendi hareketimizi</b> etkiler' şeklinde tamamlanır.",
         "Donem": 2
     },
     {
@@ -1337,6 +1403,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Bu açıklamalar, 19. yüzyılın ikinci yarısında ortaya çıkan <b>Empresyonizm (İzlenimcilik)</b> sanat akımını tanımlamaktadır. Empresyonist sanatçılar (başta Claude Monet), stüdyo yerine dış mekânlarda (en plein air) çalışarak, <b>gün ışığının anlık ve değişken etkilerini</b> yakalamayı amaçladılar. Bu akımda ışık, bir nesneyi betimleme aracı olmaktan çıkıp, resmin bizzat <b>ana konusu ve amacı</b> haline gelmiştir. Sanatçılar, ışığın nesneler üzerindeki <b>optik değerlerini</b> ve renk değişimlerini tuvale yansıtmaya odaklanmışlardır.",
         "Donem": 2
     },
     {
@@ -1357,6 +1424,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Tüm zamanların en başarılı sanat fotoğraflarından biri olarak kabul edilen ve fotoğrafın sanatsal potansiyelini gösteren <b>“Güverte” (The Steerage)</b> isimli eser, Amerikalı fotoğrafçı <b>Alfred Stieglitz</b>’e aittir. Stieglitz, 1907 yılında çektiği bu fotoğrafta, gemideki üst ve alt güvertede bulunan yolcuların ayrımını <b>keskin çizgiler, formlar ve ışık/gölge kontrastı</b> ile yansıtmış, böylece fotoğrafçılığın salt belgesel olmaktan çıkıp modern bir sanat formu olabileceğini kanıtlamıştır.",
         "Donem": 2
     },
     {
@@ -1377,6 +1445,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Hareketli gölgelerle yaptığı deneyler ve bugünkü fotoğraf makinelerinin öncülü sayılan <b>Karanlık Oda (Camera Obscura)</b> prensibini detaylıca açıklayan ve bu terimin (Latince karşılığıyla) yaygınlaşmasında önemli rol oynayan düşünür <b>İbn-i Heysem</b>'dir (Alhazen). 11. yüzyılda yaşamış olan İbn-i Heysem, 'Optik Kitabı' (Kitab al-Manazir) eserinde, ışığın düz bir çizgide yayıldığını ve bu sayede iğne deliğinden geçen ışığın karşı duvarda ters bir görüntü oluşturduğunu matematiksel ve deneysel olarak kanıtlamıştır.",
         "Donem": 2
     },
     {
@@ -1397,6 +1466,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "1876-1878 yıllarında, atın koşma hareketini bilimsel olarak incelemek amacıyla kısa aralıklarla seri fotoğraflar çeken ve bu fotoğrafları bir araya getirerek <b>hareket yanılsaması</b> yaratan fotoğrafçı <b>Eadweard Muybridge</b>'dir. Muybridge’in bu kronofotografik çalışmaları, daha sonra <b>sinema</b> sanatının ve hareketli görüntü teknolojisinin temelini oluşturmuştur. Bu deneyler, insan gözünün algılayamadığı anlık hareket aşamalarını yakalamıştır.",
         "Donem": 2
     },
     {
@@ -1417,6 +1487,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "<b>“Dr. Tulp’un Anatomi Dersi”</b> tablosu, 17. yüzyıl Hollanda Altın Çağı'nın en önemli ressamlarından biri olan <b>Rembrandt Harmenszoon van Rijn</b>'e aittir. Rembrandt bu eserde, ışık ve gölge kontrastını (<b>Chiaroscuro</b>) ustaca kullanarak dramatik bir etki yaratmış, özellikle kadavranın soluk rengini ve doktorların dikkatini vurgulayan güçlü bir aydınlatma kullanmıştır.",
         "Donem": 2
     },
     {
@@ -1437,6 +1508,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Empresyonizmin öncüsü <b>Claude Oscar Monet</b>, aynı nesnenin farklı ışık, hava durumu ve gün saatlerindeki izlenimlerini yakalamak amacıyla, 1892-1894 yılları arasında Fransa'daki <b>Rouen Katedrali</b>'ni otuzdan fazla kez resmetmiştir. Bu seride Monet’nin asıl odak noktası katedralin mimarisi değil, katedralin cephesi üzerine düşen <b>ışığın ve atmosferin sürekli değişen etkisidir</b>.",
         "Donem": 2
     },
     {
@@ -1457,6 +1529,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Görmemize olanak sağlayan doğal ışık kaynakları, doğada kendiliğinden bulunan ve ışık yayan <b>Güneş, Yıldızlar</b> ve geçici olarak <b>Yıldırım</b> gibi kaynaklardır. Lamba ise (örneğin elektrik lambası veya gaz lambası), insan tarafından teknoloji kullanılarak üretilmiş ve kontrol edilen <b>yapay bir ışık kaynağıdır</b>.",
         "Donem": 2
     },
     {
@@ -1477,6 +1550,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Işık, tarih boyunca ve pek çok kültürde evrensel olarak <b>bilgi, saflık, aydınlanma, tanrısallık ve iyilik</b> gibi pozitif kavramları simgelemiştir. Işığın simgesel karşılığı olmayan, ya da zıttı olan kavramlar arasında <b>karanlık, cehalet veya kötülük</b> bulunur. Işığın kendisi somut bir kavramı (maddeyi) değil, genellikle soyut, ruhani veya bilişsel bir durumu simgeler.",
         "Donem": 2
     },
     {
@@ -1497,6 +1571,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Işık ve karanlık, iyilik ve kötülük gibi iki zıt ilkenin ebedi mücadelesine dayanan düalist bir inanç sistemi olan din <b>Maniheizm</b>'dir. Kurucusu Mani'nin öğretilerinden adını alan Maniheizm, <b>Işık Prensliği</b> (iyi) ve <b>Karanlık Prensliği</b> (kötü) arasındaki çatışmaya odaklandığı için tarihsel metinlerde 'Işık Dini' olarak da anılmıştır.",
         "Donem": 2
     },
     {
@@ -1517,6 +1592,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Mimarisinde ışığın tanrısallık adına en güzel kullanımlarından birini barındıran <b>Pantheon Tapınağı</b>, İtalya’nın başkenti <b>Roma</b>’da yer almaktadır. Pantheon’un devasa kubbesinin tepesindeki <b>Oculus</b> (Göz) adı verilen dairesel açıklık, yapıya tek doğal ışık kaynağı olarak hizmet eder ve içeride hareket eden ışık huzmesi, tanrısallığın ve evrensel düzenin bir simgesi olarak algılanır.",
         "Donem": 2
     },
     {
@@ -1537,6 +1613,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Cümlede anlatılan ve özellikle 40 pencereden süzülen ışık ile kubbeyi <b>karanlıkta yüzüyormuş gibi</b> göstererek ruhani bir illüzyon yaratan mimari yapı, İstanbul'daki <b>Ayasofya</b>’dır. Bizans İmparatoru Justinyanus döneminde (6. yy) inşa edilen bu eserde, ışık kullanımı sayesinde maddenin ağırlığı ortadan kalkmış, böylece yapının <b>ilahi ve soyut</b> bir varlık izlenimi vermesi sağlanmıştır.",
         "Donem": 2
     },
     {
@@ -1557,6 +1634,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Minyatür sanatında, <b>gölgelendirme (Chiaroscuro)</b> kullanılmaz ve merkezi perspektifden kaçınılır. Işık, dünyevi değil, ilahi bir ışık olarak kabul edilir ve resimdeki her bir objenin eşit derecede aydınlık olması istenir. Bu durum, objelerin sanki <b>kendi içlerinden ışık yayılıyormuş</b> gibi görünmesine neden olur. Bu tarz bir ışık kullanımı <b>İslam Sanatı</b> (Minyatür) dönemine özgüdür.",
         "Donem": 2
     },
     {
@@ -1577,6 +1655,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Tanrıyı ve cennetin yeryüzündeki yansımasını sunmak amacıyla dinsel yapılarda ışığı yoğun ve mistik bir şekilde kullanan dönem <b>Gotik Dönem</b>'dir. Gotik katedrallerin yüksekliği ve devasa <b>vitray pencereleri</b> sayesinde içeri süzülen renkli ışık, cemaate <b>ilahi bir atmosfer</b> ve ruhsal bir deneyim sunmayı, böylece dünyevi olan ile ilahi olan arasındaki bağı kurmayı hedeflemiştir.",
         "Donem": 2
     },
     {
@@ -1597,6 +1676,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "<b>Altın Oran (Divine Proportion)</b> kavramının matematiksel bir veri olarak tekrar keşfedildiği ve sanatsal tasarımın (mimari, resim, heykel) temel ilkesi hâline geldiği dönem <b>Rönesans</b>'tır. Rönesans sanatçıları, eserlerinde <b>mükemmel denge ve uyumu</b> sağlamak, ideal güzelliği yakalamak ve insanın evren içindeki merkeziliğini vurgulamak için bu oranı bilinçli olarak kullanmışlardır.",
         "Donem": 2
     },
     {
@@ -1617,6 +1697,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Mimar Sinan’ın, Bizans’ın Ayasofya kubbesinden daha büyük ve zarif bir kubbeyi sadece altı adet <b>fil ayağı sistemi</b> üzerine oturtarak inşa ettiği ve 'ustalık eserim' dediği yapı <b>Selimiye Camii</b>’dir. Bu yapı, <b>Osmanlı Klasik Mimarisi</b>'nin zirvesini temsil eder ve özellikle ışığın kubbe altındaki dağılımı mimari bir deha örneğidir.",
         "Donem": 2
     },
     {
@@ -1637,6 +1718,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Batı resim sanatında <b>merkezi (doğrusal) perspektifin</b> bilimsel ve matematiksel temellerle kullanılmaya başlanması, Erken Rönesans sanatçısı <b>Masaccio</b> ile olmuştur (15. yüzyıl). Masaccio’nun 'Kutsal Üçleme' freski, perspektifin resim yüzeyine derinlik katmak amacıyla kullanıldığı en erken ve en önemli örneklerden biridir. Bu teknik daha sonra <b>Leonardo da Vinci</b> gibi sanatçılar tarafından geliştirilmiştir.",
         "Donem": 2
     },
     {
@@ -1657,6 +1739,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Işık, temel olarak <b>elektromanyetik bir dalga</b> ve foton adı verilen parçacıklardan oluşan bir enerji formu olup, boşlukta saniyede yaklaşık 300.000 km hızla yayılır ve homojen ortamlarda <b>düz bir çizgide ilerler</b>. 'Işığın kavisli yayılması' (kırılma ve yansıma hariç) veya ses dalgası olması gibi iddialar, ışığın genel kabul görmüş fiziksel özellikleri arasında <b>yer almaz</b>.",
         "Donem": 2
     },
     {
@@ -1677,6 +1760,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Tanımı yapılan ve Bizans İmparatoru <b>Justinyanus</b> döneminde (6. yüzyıl) inşa edilen, ana kubbesinin etrafındaki 40 pencereden süzülen ışıkla kubbenin adeta <b>karanlıkta yüzüyormuş</b> gibi bir illüzyon yarattığı mimari yapı <b>Ayasofya</b>'dır. Bu yapıda ışık, maddeyi aşarak <b>soyut ve ruhsal</b> bir görünüme dönüşür, bu da imparatorluğun ilahi kudretini simgeler.",
         "Donem": 2
     },
     {
@@ -1697,6 +1781,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu eser, <b>Peter Schlemihl’in Olağanüstü Öyküsü</b>, 1814 yılında <b>Adelbert von Chamisso</b> tarafından yazılmıştır. Eserde, kahraman Peter Schlemihl’in gölgesini kaybetmesi, Modern Çağ'ın başlangıcında kişinin <b>varlık</b> ve <b>kimlik</b> sorunlarını edebi bir metafor olarak ele alır.",
         "Donem": 2
     },
     {
@@ -1717,6 +1802,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Postmodernizm ve özellikle <b>Simülasyon (Hipergerçeklik) Kuramı</b> üzerine yaptığı çalışmalarla tanınan önemli kuramcı <b>Jean Baudrillard</b>’dır. Baudrillard, günümüzde gerçekliğin yerini simülasyonların aldığını ve bunun sonucunda hipergerçekliğin ortaya çıktığını savunur.",
         "Donem": 2
     },
     {
@@ -1737,6 +1823,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "<b>Süprematist Manifesto</b>'da bu ifadeyi kullanan sanatçı <b>Kazimir Malevich</b>’tir. Malevich, sanatı nesnel gerçekliğin taklidinden kurtarmayı ve <b>saf duyarlılığa</b> ulaşmayı amaçlamıştır. \"Formun sıfırına dönüştürmek\" ifadesi, tüm temsiliyetten arınmış, temel geometrik formlara dönüşü simgeler.",
         "Donem": 2
     },
     {
@@ -1757,6 +1844,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "<b>Siyah Kare</b> (Black Square) eseri, <b>Süprematizm</b> akımının en ikonik ve temel eserlerinden biridir ve bu eserin yaratıcısı <b>Kazimir Malevich</b>’tir. Bu eser, Malevich'in <b>sanatta nesnesizliğe</b> ulaşma arayışını ve resmin başlangıç noktasına dönüşünü temsil eder.",
         "Donem": 2
     },
     {
@@ -1777,6 +1865,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Formu olabildiğince sadeleştirerek eserin özüne ve <b>varlığın arketipine</b> ulaşmayı hedefleyen, modern heykeltıraşlığın öncülerinden olan sanatçı <b>Constantin Brâncuși</b>'dir. Brâncuși’nin eserleri, malzemenin saf formunu ve özünü ortaya çıkarmayı amaçlar.",
         "Donem": 2
     },
     {
@@ -1797,6 +1886,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "<b>Metafizik Ressamlar</b>, özellikle Giorgio de Chirico, eserlerinde gölgeyi uzun, keskin ve mantıksız bir şekilde kullanarak tuval üzerinde yaratmak istedikleri <b>tuhaf, mistik, gizemli ve zaman zaman ürkütücü</b> atmosferin vazgeçilmez ögeleri olarak kullanmışlardır.",
         "Donem": 2
     },
     {
@@ -1817,6 +1907,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "1981’de Roma’da gerçekleştirilen “Warhol De Chirico’ya Karşı” sergisi, iki farklı dönemin ve stilin (Pop Art ve Metafizik Resim) temsilcileri olan <b>Andy Warhol</b> ve <b>Giorgio de Chirico</b>'nun çalışmalarını bir araya getirerek modern sanatın farklı yönlerini incelemiştir. Serginin gerçekleştirilmesinde ve popülerleştirilmesinde önemli rol oynayan sanatçılardan biri <b>Andy Warhol</b>'dur.",
         "Donem": 2
     },
     {
@@ -1837,6 +1928,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "<b>Plastik Sanat Teorisi</b> ve toplumsal plastik sanat düşüncesini ortaya atan ve özellikle <b>Süprematizm</b> akımının kurucusu olan sanatçı <b>Kazimir Malevich</b>'tir. Malevich, resimdeki formların ve renklerin saf ilişkisi üzerine yoğunlaşarak sanata dair kuramsal temeller oluşturmuştur.",
         "Donem": 2
     },
     {
@@ -1857,6 +1949,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "<b>Doğal Tarih Ansiklopedisi (Naturalis Historia)</b> adlı eserinde, resmin doğuş öyküsünü (Corinthli Butades'in gölgeyi çizerek resmi keşfetmesi gibi efsaneleri) anlatan yazar <b>Büyük Plinius</b> (Pliny the Elder)'dur. Bu öykü, resmin kökenini <b>gölgenin izini sürme</b> fikrine dayandırır.",
         "Donem": 2
     },
     {
@@ -1877,6 +1970,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Çocukların gölgenin oluşum mekanizmasını, yani <b>gölgenin ışık noksanlığı</b> anlamına geldiğini ve cisimlerin ışığı engellemesi sonucu oluştuğunu kavramaları genellikle <b>6-8 yaşları</b> arasında gerçekleşir. Bu dönem, çocukların <b>somut mantıksal düşünme</b> becerilerini geliştirdiği dönemdir.",
         "Donem": 2
     },
     {
@@ -1897,6 +1991,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bir cismin boyu ile gölgesinin boyunun aynı olması için, güneş ışınlarının cisme <b>45 derece</b> açıyla düşmesi gerekir. Bu, geometrik olarak gölgenin ve cismin yüksekliğinin oluşturduğu dik üçgende tepe açısının 45 derece olduğu anlamına gelir.",
         "Donem": 2
     },
     {
@@ -1917,6 +2012,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Kişilik katmanlarını tanımlamaya yönelik çalışmalarında, özellikle kolektif bilinçdışının ilk katmanına kişinin bastırılmış, kabul edilmeyen yanlarını içeren <b>“gölge” (shadow)</b> adını veren psikiyatr <b>Carl Gustav Jung</b>'dur. Gölge, Jungiyen psikolojide temel bir <b>arketip</b> kavramıdır.",
         "Donem": 2
     },
     {
@@ -1937,6 +2033,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Ünlü <b>Mağara Metaforu</b>’nda (Mağara Allegorisi), zincirlenmiş insanların duvardaki <b>gölgeleri</b> gerçeklik sanması üzerinden bilgi ve gerçeklik kavramlarını tartışan ünlü düşünür <b>Platon</b>’dur (Eflatun). Platon'a göre gölgeler, <b>idealaların</b> (gerçekliğin) sadece soluk bir yansımasıdır.",
         "Donem": 2
     },
     {
@@ -1957,6 +2054,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Fiziksel olarak, bir ışık kaynağı ve bir nesne arasındaki etkileşim sonucunda genellikle iki tür gölge oluşur: <b>Tam gölge (Umbra)</b>, ışığın tamamen engellendiği bölge; ve <b>Yarı gölge (Penumbra)</b>, ışığın bir kısmının ulaştığı bölge. Yani iki tür gölge vardır.",
         "Donem": 2
     },
     {
@@ -1977,6 +2075,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Nesnenin kendisi yerine, ışığın nesne tarafından engellenmesi sonucu <b>başka bir yüzey üzerinde</b> oluşan gölgeye <b>atılan gölge</b> (cast shadow) veya <b>düşen gölge</b> denir.",
         "Donem": 2
     },
     {
@@ -1997,6 +2096,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "“Mükemmel resim doğanın bir aynasıdır” sözüyle tanınan ve resimlerinde <b>gölgenin doğru temsili</b> ve ışık-gölge kullanımı (sfumato) konusunda çığır açan sanatçı <b>Leonardo da Vinci</b>’dir. Da Vinci, sanat ve bilimi birleştirerek gölgenin form üzerindeki etkilerini incelemiştir.",
         "Donem": 2
     },
     {
@@ -2017,6 +2117,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Sanatta aydınlık (chiaro) ve karanlık (scuro) arasındaki güçlü zıtlık ve ton geçişleri ile derinlik ve hacim yaratma tekniği için kullanılan İtalyanca terim <b>Chiaroscuro</b> (Kiyaroskuro) veya Türkçede <b>Işık-Gölge</b> terimidir.",
         "Donem": 2
     },
     {
@@ -2037,6 +2138,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Siyah rengi paletlerinden çıkararak gölgeleri gri yerine <b>koyu mavi, mor veya kahverengi</b> gibi koyu renklerin karışımlarıyla resmeden sanatçılar <b>Empresyonizm (İzlenimcilik)</b> akımı içinde yer alırlar. Onlar, gölgelerin doğada tam olarak siyah olmadığını gözlemlemişlerdir.",
         "Donem": 2
     },
     {
@@ -2057,6 +2159,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Gölgenin var olabilmesi için mutlaka bir ışık kaynağına ihtiyaç vardır; nesneler ışığı engellediği için gölge oluşur. Benzer şekilde, plastik sanatlar (özellikle heykel ve resim), <b>ışık</b> sayesinde formun, hacmin ve derinliğin algılanmasını sağlar. Dolayısıyla gölge ve plastik sanatlar varlığını <b>ışığa</b> borçludur.",
         "Donem": 2
     },
     {
@@ -2077,6 +2180,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "\"Siyah Kare\" (Black Square) tablosu ile bilinen ve <b>karanlığı, sonsuz olanakların kaynağı</b> ve saf duyarlılığın temsili olarak gören sanatçı <b>Kazimir Malevich</b>’tir. Bu eser, Süprematizm akımının başlangıç noktası ve nesnesizliğin zirvesi olarak kabul edilir.",
         "Donem": 2
     },
     {
@@ -2097,6 +2201,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu tanım, özellikle 20. yüzyılın başlarında ortaya çıkan ve geleneksel rasyonel temsilin ötesine geçen <b>Ekspresyonizm</b> (Dışavurumculuk) akımını ifade eder. Ekspresyonistler, sanat eserinde nesnel gerçekliği değil, sanatçının <b>iç dünyasını</b>, yoğun duygularını ve kaygılarını yansıtmayı amaçlamıştır.<br/>Bu bağlamda, resimdeki <b>mekân ve boşluk</b>, rasyonel bir gözlemin ürünü olan perspektif kurallarını terk ederek, duygusal etkiyi ve ruh halini aktarmak için deforme edilmiş veya sembolik olarak kullanılmıştır.",
         "Donem": 2
     },
     {
@@ -2117,6 +2222,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Boşluk ve zaman ilişkisinin düşünsel bir kaygıyla ele alınmaya başlanması, <b>Kübizm</b> (Cubism) akımı ile gerçekleşmiştir. Kübistler, özellikle <b>Analitik Kübizm</b> aşamasında, geleneksel tek bakış açılı (perspektif) mekân algısını yıkarak, nesneleri birden fazla bakış açısından aynı anda resim yüzeyine aktarmayı hedeflemiştir. Bu yaklaşım, boşluğu ve uzamı sadece duyulara yönelik bir yanılsama olmaktan çıkarıp, <b>düşünsel ve analitik</b> bir boyutta, zamanı da içeren <b>dört boyutlu</b> bir gerçeklik olarak ele almıştır.",
         "Donem": 2
     },
     {
@@ -2137,6 +2243,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Bu ifade, sanatta 1910'lardan sonra ortaya çıkan <b>Nesnesiz Sanat</b> veya <b>Soyut Sanat</b> (Non-figüratif) hareketini tarif etmektedir. Sanatçılar, temsil edilen <b>nesnelerle</b> olan bağlarını kopararak, sanatın konusunun bizzat <b>renk</b>, <b>form</b> ve <b>yüzey</b> olmasını sağladılar. Bu radikal kopuş, aynı zamanda geleneksel <b>mekân algısını</b> (persimsel derinlik illüzyonu) resmin dışında bırakarak, resim yüzeyinin fiziksel bir alanın illüzyonu olmadığını, kendi başına bir gerçeklik olduğunu vurgulamıştır. Öncüleri arasında Kandinsky ve Malevich sayılabilir.",
         "Donem": 2
     },
     {
@@ -2157,6 +2264,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Bu tarif, <b>Sürrealizm</b> (Gerçeküstücülük) akımına aittir. Sürrealistler, resim yüzeyinde derinlik ve perspektif gibi <b>alışıldık mekân algılarını</b> (örneğin ufuk çizgisi) kullanabilirler; ancak bu mekânın içine yerleştirilen nesneler (örneğin eriyen saatler, bilinçaltı imgeleri) <b>fiziksel gerçeklik</b> kurallarına, mantığa veya yerçekimine uymaz. Amaç, rüyalar ve bilinçaltı dünyasının irrasyonel mantığını görselleştirmektir.",
         "Donem": 2
     },
     {
@@ -2177,6 +2285,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Tanıtılan bu avangard yapıt, 20. yüzyılın en etkili sanatçılarından biri olan <b>Marcel Duchamp</b>’a aittir. Eserin resmi adı “Bekârları Tarafından Çırılçıplak Soyulan Gelin, Hatta” olup, kısaca <b>“Büyük Cam”</b> olarak bilinir. Duchamp, eserde cam kullanarak, yapıtı sadece bulunduğu fiziksel <b>mekânla</b> bütünleştirmenin ötesine geçirmiş; aynı zamanda camın doğal çatlamaları ve zamanla üzerindeki tozlanmaları da eserin tamamlanmış hali olarak kabul ederek <b>zaman</b> kavramını da sanat yapıtının aktif bir bileşeni haline getirmiştir.",
         "Donem": 2
     },
     {
@@ -2197,6 +2306,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bahsedilen sanatçı, <b>Uzamsal Kavram</b> (Concetto Spaziale) serisi ile tanınan İtalyan sanatçı <b>Lucio Fontana</b>'dır. Fontana, tuvali keserek veya delerek (tagli ve buchi), resmin geleneksel iki boyutlu yüzeyini reddetmiş ve fiziksel olarak tuvalin arkasındaki <b>uzamı</b>, <b>boşluğu</b> ve <b>sonsuzluğu</b> yapıtın bir parçası haline getirmiştir. Bu eylem, sanatta yeni bir boyut arayışını ve uzamsal dinamiklerin sorgulanmasını temsil eder.",
         "Donem": 2
     },
     {
@@ -2217,6 +2327,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Bu cümle, 1960'larda ortaya çıkan <b>Minimalizm</b> (Minimal Sanat) akımının heykel anlayışını tarif eder. Minimalistler, geleneksel heykelin odaklandığı <b>kütle</b> ve kapalı form yerine, nesnenin kendi biçiminden ziyade, nesnenin bulunduğu <b>mekânla</b> (boşlukla) kurduğu ilişkiyi ve bu ilişkinin izleyici üzerindeki deneyimini vurgulamıştır. Yani, heykelin çevresindeki boşluk, yontulan kütle kadar önemli, hatta kütlenin kendisinden bağımsızlaşarak algılanan bir malzeme haline gelmiştir.",
         "Donem": 2
     },
     {
@@ -2237,6 +2348,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Batı uygarlığı felsefesi, Antik Yunan'dan (Örn: Aristoteles'in boşluğun imkansızlığı tezi) itibaren boşluk kavramını genellikle <b>fiziksel mekân</b> ve <b>Varlık</b> sorunları üzerinden ele almıştır. Boşluk, genellikle <b>nesnenin</b> (varlığın) bulunmadığı yer olarak tanımlanmış veya <b>Varlık</b> kavramının karşıtı olarak konumlandırılmıştır. Batı düşüncesi boşluğu rasyonel, ölçülebilir <b>Mekân ve Zaman</b> kategorileri üzerinden incelemiştir.",
         "Donem": 2
     },
     {
@@ -2257,6 +2369,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Uzak Doğu uygarlıklarında (özellikle Taoculuk ve Zen Budizmi'nde), <b>Boşluk</b> (Sunyata, Mu, Ku) bir eksiklik veya yokluk olarak değil, tam tersine, tüm potansiyelin ve oluşun kaynağı, yani <b>varlık algısının</b> temeli olarak tanımlanır. Bu felsefede, boşluk, mutlak <b>bütünlüğün</b> ve tükenmez olanın zeminidir.",
         "Donem": 2
     },
     {
@@ -2277,6 +2390,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Etrafımızı saran evrene, yani düzenlenmiş, uyumlu bütüne ilk kez <b>“kozmos”</b> adını veren düşünür <b>Pisagor</b>'dur. Pisagor, evrenin matematiksel bir düzen ve harmoni içinde olduğuna inanmış ve bu düzeni ifade etmek için bu terimi kullanmıştır.",
         "Donem": 2
     },
     {
@@ -2297,6 +2411,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu tanım, Atomcu okulun önde gelen isimlerinden olan <b>Demokritos</b>'a aittir. Demokritos'a göre evren, tamamen katı, bölünmez parçacıklar olan <b>atomlar</b> ile bu atomların içinde hareket ettiği <b>boşluktan</b> (void) oluşur. Bu boşluk, içinde hiçbir duyulur cismin bulunmadığı, ancak varlığı zorunlu olan <b>ara nesnedir</b>.",
         "Donem": 2
     },
     {
@@ -2317,6 +2432,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Bütünlüğü “temel bütünlük, görünürdeki boşluktur, tükenmez olandır” diye tanımlayan Taocu felsefenin önde gelen düşünürü <b>Lao Tzu</b>'dur (Laozi). Taoculukta, evrenin kaynağı olan <b>Tao</b>, tanımlanamayan, sınırsız ve görünmez bir <b>boşluk</b> (Wu) olarak kavranır; bu boşluk, her şeyin var olmasını sağlayan temel bütünlüktür.",
         "Donem": 2
     },
     {
@@ -2337,6 +2453,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Aristo’dan beri süregelen, Kant ile devam eden <b>Kartezyen temelli özne-nesne ayrımına</b> karşı çıkan ve özne merkezli metafizik varlık anlayışı yerine <b>ontoloji temelli</b> (varoluş bilimi) bir yaklaşım ile varlığın ele alınması gerektiğini öne süren düşünür <b>Martin Heidegger</b>'dir. Heidegger, özellikle ‘Varlık ve Zaman’ eserinde, Batı felsefesinin Varlık (Sein) sorusunu unuttuğunu iddia etmiştir.",
         "Donem": 2
     },
     {
@@ -2357,6 +2474,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "1912 tarihli <b>“Guitar” (Gitar)</b> çalışması, <b>Pablo Picasso</b>'ya aittir. Bu eser, heykel sanatında bir devrim yaratmıştır. Picasso, kütlesel bir heykel yerine, düz levhaları (karton veya metal) kullanarak bir <b>konstrüksiyon</b> yaratmış ve bu sayede geleneksel kütleyi ortadan kaldırarak, formun içindeki ve etrafındaki <b>boşluğu</b>, heykelin bizzat bir <b>malzemesi</b> ve formun ayrılmaz bir bileşeni olarak kullanmıştır. Bu, Kübist heykelin önemli bir özelliğidir.",
         "Donem": 2
     },
     {
@@ -2377,6 +2495,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki boşluğa, Rönesans ile temelleri atılan ve Modernizm ile tam bağımsızlığına ulaşan <b>Heykel Sanatı</b> veya <b>Serbest Heykel</b> kavramı gelmelidir. Heykel, mimari bir süsleme olmaktan tamamen bağımsızlaşarak, izleyicinin <b>etrafında dolaşarak</b> her açıdan algılayabileceği ve kendi başına anlam yüklenen bir sanat dalına dönüşmüştür. Bu dönüşüm, heykelin mekânla olan ilişkisini temelden değiştirmiştir.",
         "Donem": 2
     },
     {
@@ -2397,6 +2516,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Heykellerini kasıtlı olarak bitmemiş (non-finito) bırakan ve izleyicinin zihnini kullanarak eseri <b>boşlukta tamamlamasını</b> teşvik eden sanatçılardan biri <b>Auguste Rodin</b>'dir. Bu teknik, eserin çevresindeki <b>uzam</b> ile etkileşimini güçlendirir ve izleyicinin sadece kütleyi değil, aynı zamanda hayal gücüyle doldurulan <b>mekânsal boşluğu</b> da algılamasını sağlar.",
         "Donem": 2
     },
     {
@@ -2417,6 +2537,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Heykellerinde <b>elips</b> ve <b>spiral</b> gibi organik ve soyut formları kullanarak, <b>uzam, boşluk, alan</b> ve <b>ağırlık</b> gibi kavramları izleyicinin <b>beden algısı</b> üzerinden sorgulamaya çalışan sanatçı <b>Henry Moore</b>'dur. Moore, heykellerindeki delikleri ve oyukları kullanarak, boşluğu kütlenin ayrılmaz bir parçası haline getirmiş ve bu formların insan bedeninin temel formlarıyla (özellikle yatan figürler) kurduğu ilişkiyi vurgulamıştır.",
         "Donem": 2
     },
     {
@@ -2437,6 +2558,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Evreni dört temel unsur (toprak, su, hava, ateş) üzerinden açıklayan ve bu unsurların karşıtlıklarla (sıcak-soğuk vb.) birleşerek maddeyi oluşturduğunu savunan düşünür <b>Empedokles</b>'tir. Empedokles, aynı zamanda <b>akılla kavranacak</b> ilk varlığın Tanrı olduğunu öne sürerek, boşluk kavramını fiziksel unsurların yanı sıra <b>akılsal varlık</b> hiyerarşisi içinde de tanımlamıştır. (Bu tanım, Empedokles'in doğa felsefesi ile akıl/tanrı felsefesini birleştiren klasik Batı metafiziğine işaret eder.)",
         "Donem": 2
     },
     {
@@ -2457,6 +2579,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Boşluk kavramı, kültürel ve felsefi olarak farklı ele alınmıştır. <b>Batı</b> düşünürleri (Atomistler, Fizikçiler) boşluğu genellikle ölçülebilir, nesnel bir <b>fiziksel zemin</b> (mekân) üzerinden ele alırken; <b>Uzak Doğu</b> felsefeleri (Taoizm, Budizm) boşluğu (Sunyata) bir yokluktan ziyade, <b>tasavvufî</b> (içsel) bir varoluş kaynağı ve mutlak gerçeklik olarak ele almıştır. Bu nedenle boşluklara sırasıyla <b>Batı</b> ve <b>Uzak Doğu</b> gelmelidir.",
         "Donem": 2
     },
     {
@@ -2477,6 +2600,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Resimsel boşluk, sanat tarihi boyunca illüzyon, rasyonel temsil veya duygusal ifade aracı olarak kullanılmıştır. Resimsel boşlukla ilgili yanlış bir ifade, genellikle belirli bir döneme ait teknik özelliğin yanlış tarif edilmesidir. Örneğin, <b>Rönesans’ta resimsel boşluk, duygusal anlatımı güçlendirmek için perspektif kurallarını reddetmiştir</b> şeklindeki bir ifade <u>yanlıştır</u>. Çünkü Rönesans, tam aksine <b>lineer perspektif</b> ile rasyonel ve ölçülebilir bir derinlik illüzyonu yaratmayı hedeflemiştir; perspektif kurallarının reddi 20. yüzyıl akımlarına aittir.",
         "Donem": 2
     },
     {
@@ -2497,6 +2621,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Geometrik ilkelere dayalı <b>merkezi perspektif</b> (lineer perspektif) yöntemini sistemli hale getirerek, yaptığı çizimin gerçek dünyadaki görsel algımızla benzerliğini bilimsel olarak ortaya koyan Floransalı sanatçı ve mimar <b>Filippo Brunelleschi</b>’dir. Bu keşif, Rönesans resminde üç boyutlu mekân yanılsamasının yüzeye aktarılmasında devrim yaratmıştır.",
         "Donem": 2
     },
     {
@@ -2517,6 +2642,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Post-Empresyonist dönemin önemli figürlerinden olan ressam ve yazar <b>Maurice Denis</b>, resimde boşluğun sadece arka plan olmadığını, resmedilen nesneler kadar önemli bir görsel varlık taşıdığını vurgulamıştır. Denis'in 'Ressamların resmetmeye çalıştığı şey aslında <b>görülmez boşluktur</b>' ifadesi, resmin temelinde yatan kompozisyonel dengeye ve yüzeyin algılanmasına dikkat çeker.",
         "Donem": 2
     },
     {
@@ -2537,6 +2663,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "<b>İbn-i Sina</b> (Avicenna), Antik Yunan felsefesi ve özellikle <b>Aristo'nun</b> fizikselliğe dair görüşlerini temel alarak doğada mutlak bir <b>boşluğun</b> varlığını reddetmiştir. Bu düşünce, 'horror vacui' (boşluk korkusu) kavramıyla da ilişkilidir ve 'Her şey bir şeyle dolmuştur, hiç boşluk yoktur' şeklinde ifade edilir.",
         "Donem": 2
     },
     {
@@ -2557,6 +2684,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Romantizm ve Neoklasisizm akımlarında etkili olan, Batılı sanatçıların <b>İslam dünyasının</b> ve Doğu kültürlerinin egzotik, gizemli ve süslü yönlerini, özellikle de <b>gizli kadın yaşamını</b> konu edindiği düşünce akımı <b>Oryantalizm</b>'dir. Bu akım, Batı'nın hayali bir 'Doğu'ya' dair mekân algısını yansıtır.",
         "Donem": 2
     },
     {
@@ -2577,6 +2705,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Uzak Doğu resminde ve <b>kaligrafisinde</b>, fırça darbeleri arasındaki <b>boşluk</b> (negatif alan), resmedilen nesne (pozitif alan) ile eş değerde önemli bir <b>resimsel görsel değerdir</b>. Bu boşluk vurgusu, Batı sanatında yüzeyin bütünlüğüne odaklanan ve derinliği reddeden 20. yüzyıl akımlarına, özellikle <b>Soyut Ekspresyonizm</b> ve <b>Minimalizm'e</b> referans olmuştur.",
         "Donem": 2
     },
     {
@@ -2597,6 +2726,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Resim düzleminde ana figürler veya nesneler dışında kalan, ancak kompozisyonun derinliğini oluşturan alana <b>Negatif Alan</b> (Negative Space) adı verilir. <b>Şekiller arasında oluşan boşluklar</b> ve arkada kalan düzlemin parçalanmış boşluklarının toplamı, sanat eserinin algılanan <b>mekânını</b> oluşturur.",
         "Donem": 2
     },
     {
@@ -2617,6 +2747,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Resim yüzeyinde bir nesnenin diğerini <b>örtmesi</b> veya katmanlanması (layering) yoluyla oluşan derinlik algısına <b>Örtüşme (Overlapping)</b> veya <b>Basamaklama</b> denir. Bu yöntem, nesnelerin uzaydaki göreceli konumunu belirlemede kullanılan temel derinlik ipuçlarından biridir.",
         "Donem": 2
     },
     {
@@ -2637,6 +2768,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "13. yüzyıl İtalyan sanatçısı <b>Giotto di Bondone</b>, Rönesans sanatının <b>öncüsü</b> olarak kabul edilir. Giotto, Bizans geleneğinden koparak figürlerine hacim kazandırmış, <b>mekânı ve figürü</b> yüzeye perspektife doğruya çok yakın bir biçimde yerleştirerek resim sanatında gerçekçiliğin ve mekân algısının temellerini atmıştır.",
         "Donem": 2
     },
     {
@@ -2657,6 +2789,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Antik Çin filozofu <b>Lao Tzu</b>, <b>Taoizm'in</b> kurucusudur. Lao Tzu, varoluşun ve kullanışlılığın özünde 'yokluğun' (boşluğun) yattığını savunur. 'Bir kap ancak <b>boşluğu</b> sayesinde yararlı olabilir' sözüyle, kabın işlevini yerine getirmesi için içindeki boşluğun ne kadar değerli olduğunu felsefi olarak açıklar.",
         "Donem": 2
     },
     {
@@ -2677,6 +2810,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "<b>Atmosferik (Hava) Perspektifi</b>, geometrik çizgi ve kaçış noktaları kullanmaya gerek olmadan resim içindeki nesnelerin en uzak noktalara taşınmasını sağlayan derinlik yöntemidir. Bu yöntemde, uzaktaki nesneler daha az kontrastlı, daha soluk ve renkleri maviye çalan bir şekilde betimlenir; bu da <b>hava katmanlarının etkisiyle</b> oluşan doğal bir görsel illüzyondur.",
         "Donem": 2
     },
     {
@@ -2697,6 +2831,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Kuzey Rönesansı'nın önemli isimlerinden <b>Jan van Eyck</b>, 1434 tarihli 'Arnolfini’nin Düğünü' adlı eserinde karmaşık bir simgesellik kullanmıştır. Eserde, arka duvarda yer alan <b>dışbükey ayna imgesi</b>, resmin mekânını genişletir, görünmeyen alanı yansıtır ve ressamın kendini dahi eser içine yerleştirmesiyle dikkat çeker.",
         "Donem": 2
     },
     {
@@ -2717,6 +2852,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Diego Velazquez’in 1656 yılında yaptığı, <b>mekân, zaman ve simgesel anlatımı</b> iç içe geçiren başyapıtı <b>Las Meninas (Nedimeler)</b>’tir. Resim, aynalar ve bakış açısı oyunlarıyla izleyiciyi eserin içine çeken karmaşık bir perspektif sunar. Mekânın bu sorgulanması nedeniyle, modern sanatçı <b>Picasso</b> tarafından 50’den fazla kez yorumlanmıştır.",
         "Donem": 2
     },
     {
@@ -2737,6 +2873,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Post-Empresyonist ressam <b>Paul Cézanne</b>, görsel dünyaya bakışını temel <b>geometrik formlara</b> indirgeyerek, yüzeyde görünenin altında yatan <b>yapıyı anlamayı</b> amaçlamıştır. Cézanne’ın bu yapısal analiz çabası ve nesneleri çoklu bakış açısıyla ele alma yaklaşımı, 20. yüzyılın en etkili akımı olan <b>Kübizme</b> giden yolu açmıştır.",
         "Donem": 2
     },
     {
@@ -2757,6 +2894,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Alman filozof <b>Friedrich Nietzsche</b>, felsefi görüşlerinde <b>perspektivizm</b> kavramını ortaya atmıştır. Nietzsche, tüm bilginin veya yorumun belirli bir bakış açısı (perspektif) tarafından şartlandırıldığını savunarak, mutlak ve nesnel bir <b>tek gerçekliğin olamayacağını</b> öne sürmüştür.",
         "Donem": 2
     },
     {
@@ -2777,6 +2915,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Rus <b>Konstrüktivizm</b> akımının öncülerinden <b>Vladimir Tatlin</b>, sanatı tuvalden kurtararak, <b>iki boyutlu resmi üç boyutlu rölyeflerle</b> birleştirmiş ve bu eserleri sergilendikleri <b>gerçek mekânla</b> bütünleştirmiştir. Onun bu 'köşe rölyefleri' (kontra-rölyef), resim sınırlarını aşarak gerçek mekânda yeni <b>fiziksel boşluklar</b> oluşturmuştur.",
         "Donem": 2
     },
     {
@@ -2797,6 +2936,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Sürrealizm akımının en önemli temsilcilerinden biri olan <b>Max Ernst</b>, 1924’te yaptığı 'İki Çocuk Bir Bülbül Tarafından Tehdit Ediliyor' isimli eserinde gerçeküstü bir ortam yaratarak, <b>algısal</b> (rüyaya benzer) ve <b>fiziksel</b> (nesnelerin beklenmedik yerleştirilmesi) olarak bir boşluk ve tehdit hissini bir araya getirmiştir.",
         "Donem": 2
     },
     {
@@ -2817,6 +2957,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Çağdaş sanatçı <b>Robert Rauschenberg</b>, 1953 yılında yaptığı 'Silinmiş De Kooning Çizimi' (Erased De Kooning Drawing) adlı çalışmasıyla, sanatta yok etme eylemini yaratıcılığın bir parçası olarak kullanmıştır. Rauschenberg, bu eylemle resim yüzeyinin <b>imgelerini boşaltarak</b>, resmi yeniden <b>kendi boşluğuna</b> ve sıfır noktasına döndürmüştür.",
         "Donem": 2
     },
     {
@@ -2837,6 +2978,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "İslam düşünürü ve matematikçisi <b>Harizmi</b> (Al-Khwārizmī), özellikle 'cebir' (algebra) biliminin gelişmesinde kilit rol oynamıştır. <b>Sıfırı</b> (boşluğu temsil eden kavramı) <b>cebirsel ifadelere</b> ve hesaplamalara dahil etmesi, Antik Yunan geometrisinden beri çözümsüz kalan pek çok karmaşık problemin çözülmesine imkân tanımıştır.",
         "Donem": 2
     },
     {
@@ -2857,6 +2999,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Resim yüzeyinde derinlik yaratmak için kullanılan temel yöntemler: <b>Perspektif</b> (çizgisel/atmosferik), <b>Örtüşme</b> (Basamaklama) ve <b>Gölgeleme</b> (Chiaroscuro). Ancak <b>Yüzey Gerilimi</b>, görsel sanatlarda resim yüzeyinde derinlik yanılsaması oluşturmak için kullanılan bir teknik <b>değildir</b>; bu terim genellikle farklı fiziksel veya sanatsal bağlamlarda kullanılır.",
         "Donem": 2
     },
     {
@@ -2877,6 +3020,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Paul Cézanne’ın görsel dünyayı betimlerken, nesnelerin altındaki <b>temel geometrik yapıları</b> (küp, koni, silindir) görme ve bu yapıları resimlerine aktarma çabası, nesnelerin çoklu bakış açılarından çözümlenmesine dayanan <b>Kübizm</b> akımının temellerini atmış ve bu akıma giden yolu açmıştır.",
         "Donem": 2
     },
     {
@@ -2897,6 +3041,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu soru, renklerin elementlerle veya ruhsal durumlarla ilişkilendirilmesini konu alır. Sanat tarihinde bu tür sembolik renk kullanımları, soyut sanatın öncüsü <b>Wassily Kandinsky</b> ile yakından ilişkilidir. Kandinsky, özellikle teorik yazılarında (Sanatta Ruhsallık Üzerine), renklerin sadece fiziksel değil, aynı zamanda <b>ruhsal ve sembolik</b> anlamlar taşıdığını iddia etmiştir. Açık sarıyı toprağa, yeşili suya, maviyi havaya, kırmızıyı ateşe ve siyahı karanlığa atfetmek, onun renklerin içsel titreşimlerine verdiği önemi gösteren temel sembolik atamaları arasındadır.",
         "Donem": 2
     },
     {
@@ -2917,6 +3062,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Rönesans döneminde ruhsal değerleri ve derinliği vurgulamak amacıyla canlı renklerin parlaklığından ziyade <b>açık ve koyu tonları</b> (Valör) kullanma eğilimi gösteren sanatçı <b>Leonardo da Vinci</b>'dir. Da Vinci, özellikle objelerin hatlarını yumuşatarak, ışık ve gölge geçişlerini kademeli hale getiren <b>sfumato</b> tekniği ile tanınır. Bu teknik, resimlerine mistik, derin ve ruhsal bir hava katmış, rengin saf gücü yerine tonların psikolojik ve ruhsal etkisine odaklanmıştır.",
         "Donem": 2
     },
     {
@@ -2937,6 +3083,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Yeni pigmentlerin keşfi, özellikle 19. yüzyılda sanat dünyasında büyük değişimlere yol açmıştır. <b>Krom sarısı</b> (Kurşun Kromat), 18. yüzyılın sonlarında keşfedilmiş olmasına rağmen, ticari olarak üretilip ressamların paletine yaygın olarak eklenmesi <b>19. yüzyılın</b> başlarına denk gelmektedir. Bu parlak ve kalıcı sarı pigment, özellikle İzlenimcilik (Empresyonizm) ve sonrası akımların sanatçıları tarafından doğadaki ışığı daha canlı yakalamak için sıklıkla kullanılmıştır.",
         "Donem": 2
     },
     {
@@ -2957,6 +3104,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Zenginlik, ihtişam ve drama anlatımında, duygusal yoğunluğu ve hareketi vurgulamak için parlak, doygun renklerin yoğun olarak kullanıldığı dönem <b>Barok Dönemi</b>'dir (17. yüzyıl). Barok sanatçıları, konularının (genellikle kilise veya aristokrasi) zenginliğini ve gücünü anlatmak için dramatik <b>ışık-gölge kontrastları</b> (chiaroscuro) ve <b>canlı, derin renk paletleri</b> kullanmışlardır.",
         "Donem": 2
     },
     {
@@ -2977,6 +3125,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Renk ve biçim ilişkilerini kuramsal düzeyde inceleyen ve rengin her türlü kontrastını (sıcak-soğuk, açık-koyu, tamamlayıcı vb.) resimlerinde uygulayan önemli figürlerden biri <b>Johannes Itten</b> veya <b>Josef Albers</b>'tir. Özellikle rengin optik etkileşimlerine odaklanan ve formları basitleştirerek saf renk ilişkilerini sergileyen <b>Josef Albers</b>, kuramsal araştırmaları resme dökmede kilit bir sanatçıdır. Albers, 'Kareye Övgü' serisinde <b>rengin illüzyonlarını</b> ve kontrastlarını sistematik olarak araştırmıştır.",
         "Donem": 2
     },
     {
@@ -2997,6 +3146,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Bu tanım, 19. yüzyılın sonlarında ortaya çıkan ve renk noktacıklarının yan yana getirilmesiyle görüntü oluşturmayı hedefleyen <b>Puantilizm</b> (veya Divisionizm) akımını ifade eder. Bu tekniğin en önde gelen uygulayıcısı ve kurucusu, renk teorisini bilimsel olarak uygulayan <b>Georges Seurat</b>'dır. Seurat, renkleri paletinde karıştırmak yerine, <b>saf renk noktacıklarını</b> kullanarak renk karışımının izleyicinin gözünde (optik olarak) gerçekleşmesini amaçlamıştır.",
         "Donem": 2
     },
     {
@@ -3017,6 +3167,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Renklerin doğadaki sürekli değişen ışık ve atmosfere bağlı olarak hareketini ve karşıtlıklarını inceleyen sanatçılar <b>İzlenimcilik</b> (Empresyonizm) akımına aittir. Bu akımın önde gelen ismi, özellikle seri resimlerinde aynı nesnenin farklı ışık koşullarında nasıl değiştiğini gözlemleyen <b>Claude Monet</b>'dir. Monet, renklerin <b>doğal hareketini ve titreşimini</b> yakalamayı amaçlamış, doğadaki karşıtlıkların görsel etkisine dikkat çekmiştir.",
         "Donem": 2
     },
     {
@@ -3037,6 +3188,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu ifade, rengin bir nesneyi taklit etme veya bir sembol taşıma yükünden kurtarıldığı, sadece <b>kendi varlığı için</b> kullanıldığı modern sanat anlayışını tanımlar. Rengi biçimden üstün tutan ve duygusal ifade aracı olarak kullanan en önemli sanatçılardan biri <b>Henri Matisse</b>'dir. Fovizm'in (Vahşiler) öncüsü olan Matisse, renkleri nesnelerin doğal renklerinden bağımsız, <b>saf ve otonom</b> bir ifade gücü olarak kullanmıştır.",
         "Donem": 2
     },
     {
@@ -3057,6 +3209,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "İnsan gözünün algılayabildiği görünür ışık spektrumu yaklaşık 400 nm (Mor) ile 700 nm (Kırmızı) arasındadır. Spektrumda dalga boyu en uzun olan renk <b>Kırmızı</b>'dır (yaklaşık 620-750 nm aralığı). Kırmızı ışık, atmosferde en az saçılmaya uğrayan ışıktır, bu nedenle uzak mesafelerde veya sisli havalarda daha belirgin olarak görülebilir.",
         "Donem": 2
     },
     {
@@ -3077,6 +3230,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Güneş ışınları dik açıyla geldiğinde (öğle vakti), atmosferdeki yolculukları en kısa mesafede gerçekleşir ve ışık bileşenleri daha az saçılmaya uğrar. Bu durumda, ışınların tamamı (yani <b>Beyaz</b> ışık) doğrudan gözümüze ulaşır. Gökyüzü ise atmosferdeki moleküllerin <b>mavi</b> dalga boyunu daha çok saçması (Rayleigh Saçılması) nedeniyle mavi renkte görünür. Dolayısıyla boşluklara <b>Beyaz</b> ve <b>Mavi</b> gelmelidir.",
         "Donem": 2
     },
     {
@@ -3097,6 +3251,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Güneş ışığı (beyaz ışık), su zerreciklerinin (yağmur damlaları) içine girdiğinde, farklı dalga boylarının <b>farklı açılarda kırılmasına</b> (refraksiyon) ve damlanın iç yüzeyinden yansımasına uğrar. Bu kırılma ve yansıma sonucunda beyaz ışık, bileşen renklerine (spektruma) ayrılarak <b>Gökkuşağı</b> olayı gerçekleşir.",
         "Donem": 2
     },
     {
@@ -3117,6 +3272,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Boyaların (çıkarımsal) renk sisteminde, üç <b>ana rengin</b> (Kırmızı, Sarı, Mavi) eşit veya dengeli oranlarda karıştırılması sonucunda genellikle renk doygunluğunu kaybederek <b>Nötr Renkler</b> (koyu gri veya siyaha yakın kahverengi tonları) elde edilir. Renk çemberinde, üç ana rengin karışımıyla elde edilen bu tür doygunluğunu yitirmiş renklere <b>Nötr (Neutral)</b> renkler denir.",
         "Donem": 2
     },
     {
@@ -3137,6 +3293,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Isaac Newton, 17. yüzyılda (yaklaşık 350 yıl önce) yaptığı ünlü deneyle, karanlık bir odada prizma kullanarak <b>Güneş Işığını</b> (Beyaz Işık) yedi temel bileşen renge (spektruma) ayırmayı başarmıştır. Bu deney, <b>ışığın renkli bileşenlerden oluştuğunu</b> bilimsel olarak kanıtlamış ve renk teorisinin gelişiminde dönüm noktası olmuştur.",
         "Donem": 2
     },
     {
@@ -3157,6 +3314,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "19. yüzyıla kadar resimde en sık kullanılan pigmentler, yeryüzünden elde edilen doğal pigmentlerdi. Yeryüzünün topraklarında en sık rastlanan demir içeriği yoğun mineral ve killerden üretilen renkler <b>Sarı, Kırmızı ve Kahverengi</b> toprak tonlarıdır (Aşı Boyası ve Umbra). Bu renkler hem bol bulunurlukları hem de kalıcılıkları nedeniyle yaygın olarak kullanılmıştır.",
         "Donem": 2
     },
     {
@@ -3177,6 +3335,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Renk çemberinde birbirinin tam karşısında, yani 180 derece zıt konumda bulunan renklere <b>Tamamlayıcı Renkler</b> (Komplemanter Renkler) denir. Bu renkler yan yana kullanıldığında birbirlerinin doygunluğunu artırarak <b>en yüksek kontrastı</b> ve görsel titreşimi yaratırlar. Karıştırıldıklarında ise birbirlerini nötralize ederler.",
         "Donem": 2
     },
     {
@@ -3197,6 +3356,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Renk psikolojisine göre, huzur, sakinlik ve rahatlama hissi uyandıran renkler <b>Soğuk Renkler</b> grubuna aittir. Bu grup temel olarak <b>Mavi</b> ve <b>Yeşil</b> tonlarından oluşur. Mavi genellikle dinginlik ve güven, yeşil ise doğayı çağrıştırarak rahatlatıcı bir atmosfer yaratır.",
         "Donem": 2
     },
     {
@@ -3217,6 +3377,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "İnsanlık tarihinde, Antik Çağ'da ve özellikle <b>Aristoteles</b>'in baskın olduğu dönemde, tüm renklerin <b>siyah ve beyazın</b> (karanlık ve aydınlığın) karışımıyla türediğine inanılırdı. Aristoteles, renkleri beyaz (en parlak) ile siyah (en karanlık) arasında bir geçiş olarak sınıflandırmıştır. Bu teori, Newton'ın 17. yüzyıldaki ışık spektrumu deneylerine kadar etkisini sürdürmüştür.",
         "Donem": 2
     },
     {
@@ -3237,6 +3398,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Bu özelliklerin tamamı (güç, dayanıklılık, dışa dönüklük, heyecan vericilik, hırs ve cömertlik) <b>Turuncu</b> renge atfedilir. Turuncu, kırmızının enerjisi ile sarının neşesini ve sosyalliğini birleştirir. Bu nedenle <b>yapıcı eylemi</b>, coşkuyu ve pozitif enerjiyi temsil eder.",
         "Donem": 2
     },
     {
@@ -3257,6 +3419,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Rengin fiziksel olarak algılanması, üç temel bileşenin eş zamanlı çalışmasını gerektiren karmaşık bir fizyolojik ve psikolojik süreçtir:<br> I. <b>Işık</b>: Nesneden yansıyarak uyaranı sağlar.<br> II. <b>Göz</b>: Işık sinyallerini alan ve elektriksel impulslara dönüştüren <b>koni hücreleri</b> içerir.<br> III. <b>Beyin</b>: Gözden gelen sinyalleri işleyerek bu impulsları <b>renk olarak yorumlar</b>.<br> Bu nedenle, renk fiziksel olarak bu üç bileşen ile algılanır.",
         "Donem": 2
     },
     {
@@ -3277,6 +3440,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Geleneksel Çıkarımsal Renk Teorisi'nde (RYB modeli), bir ana rengin tamamlayıcısı, diğer iki ana rengin karıştırılmasıyla oluşan ikincil renktir. Ana renkler Kırmızı, Sarı ve Mavidir. Sarı’nın tamamlayıcısı, Kırmızı ve Mavi’nin karışımıyla elde edilen <b>Mor</b> renktir. Sarı ve Mor, renk çemberinde birbirine en zıt konumda bulunur.",
         "Donem": 2
     },
     {
@@ -3297,6 +3461,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Resim düzleminde, yer çekimine paralel olmayan (eğik veya çapraz) biçim ve çizgiler, eserde gözü hareket ettirerek yoğun bir <b>gerilim</b> ve <b>hareket</b> hissi yaratır. Bu yerleşim, kompozisyona <b>dinamizm</b> izlenimi kazandırır.",
         "Donem": 2
     },
     {
@@ -3317,6 +3482,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Resim düzleminde yer alan <b>plastik ögelerin</b> (çizgi, biçim, renk) yön değiştirmesi veya hareketli bir akış oluşturması, izleyicinin gözünü yüzey boyunca yönlendirir ve bu da görsel bir <b>hareket</b> algısı veya <b>tansiyon</b> (gerilim) oluşturur.",
         "Donem": 2
     },
     {
@@ -3337,6 +3503,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "<b>Statik denge</b>, tipik olarak simetriye ve eşitliğe dayanır (I. Renk değeri eşitliği, III. Çizgisel uyumluluk). <b>Farklı güçlerin dengesi</b> (II) ise, asimetrik yerleşimde görsel ağırlıklar eşitlenirken, ögelerin biçim ve değerlerinin farklı olduğu <b>dinamik denge</b>nin bir özelliğidir. Bu nedenle II, statik dengeyi oluşturan öge değildir.",
         "Donem": 2
     },
     {
@@ -3357,6 +3524,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "İki birimin büyüklük, renk değeri ve çizgisel uyumluluk gibi özelliklerde <b>simetri esasına dayalı karşıtlığı</b>, kompozisyonda iki tarafın da mutlak eşitlikte görsel ağırlığa sahip olmasını sağlar. Bu durum, durağanlık ve ciddiyet hissi veren <b>Statik Denge</b> ile sağlanır.",
         "Donem": 2
     },
     {
@@ -3377,6 +3545,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Soyut Dışavurumculuğun önemli figürlerinden <b>Hans Hofmann</b>, resim yüzeyi analizlerinde, özellikle renk ve biçimlerin mekansal ilişkisini açıklarken 'hareket' yerine <b>'tansiyon'</b> (gerilim) kavramını öne çıkarmış ve meşhur 'Push and Pull' (İtme ve Çekme) teorisini geliştirmiştir.",
         "Donem": 2
     },
     {
@@ -3397,6 +3566,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Görsel ağırlık her iki tarafta eşit olmasına rağmen, objelerin biçim, renk veya doku açısından <b>birbirlerine benzemediği</b> ve farklı ögelerin birbirini dengelediği bu kompozisyon türü <b>Asimetrik Denge</b> (veya İnformal Denge) olarak adlandırılır. Bu denge türü daha dinamik ve ilgi çekicidir.",
         "Donem": 2
     },
     {
@@ -3417,6 +3587,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Evrende görülen düzenli devamlılık ve döngüler (gece-gündüz, mevsimler) evrenin <b>ritmini</b> oluşturur. Varoluşun ve doğanın akışı bu ritme bağlıdır ve <b>zaman</b> algısı ve ölçümü bu ritim üzerinden belirlenir.",
         "Donem": 2
     },
     {
@@ -3437,6 +3608,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "<b>Düzenli ritim</b>, ögelerin veya olayların eşit aralıklarla ve öngörülebilir bir şekilde tekrar etmesidir. İnsan vücudunun temel hareketlerinden olan <b>Yürüyüş</b>, eşit adımlarla ve düzenli bir tempo ile devam ettiği için düzenli ritme dayalı tipik bir faaliyettir.",
         "Donem": 2
     },
     {
@@ -3457,6 +3629,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Uykunun bir evresi olan <b>REM</b> (Rapid Eye Movement - Hızlı Göz Hareketi) uykusu, rüyaların en yoğun yaşandığı evredir. Bu esnada, beyin aktiftir ve göz kapakları altında <b>hızlı göz hareketleri</b> (istemsiz hareketler) gözlenir.",
         "Donem": 2
     },
     {
@@ -3477,6 +3650,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Göz hareketlerinin çoğu istemli olsa da, bazı hareketler refleksiftir. <b>Nistagmus</b>, göz kürelerinin sürekli, istemsiz ve ritmik salınımlarıdır ve görsel sistemin veya denge sisteminin istemsiz hareketine bir örnektir.",
         "Donem": 2
     },
     {
@@ -3497,6 +3671,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "İletişim uzmanları (özellikle Mehrabian modeli) tarafından yapılan araştırmalara göre, yüz yüze iletişimde duygusal mesajların büyük bir kısmı sözlü değil, sözsüz kanallarla (beden dili ve ses tonu) iletilir. Beden dili, sözlerle ifade ettiklerimizden yaklaşık <b>%65</b> (bu oran kaynaktan kaynağa değişebilir, ancak yüksek bir yüzdeyi temsil eder) daha fazla anlam taşır ve iletişimin büyük bir bölümünü oluşturur.",
         "Donem": 2
     },
     {
@@ -3517,6 +3692,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Gestalt kuramının kurucusu <b>Max Wertheimer</b>, stroboskopik hareket (hızla ardı ardına gösterilen durağan görüntüler) üzerine yaptığı deneylerde, izleyicinin iki ayrı nesne yerine, aralarındaki sürekliliği algıladığı <b>“saf hareket”</b> olgusunu (<b>Phi Fenomeni</b>) tanımlamıştır. Bu, hareket algısının basit uyaranların toplamından fazlası olduğunu gösterir.",
         "Donem": 2
     },
     {
@@ -3537,6 +3713,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Doğada ve sanatta uyumu, dengeyi ve estetiği temsil eden <b>Altın Oran</b> (Golden Ratio), Yunanca 'fi' (Φ) harfi ile gösterilir ve matematiksel olarak yaklaşık <b>1.618</b> sayısına karşılık gelir. Bu oran, parçalar ve bütün arasındaki ideal ilişkiyi ifade eder.",
         "Donem": 2
     },
     {
@@ -3557,6 +3734,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Antik Yunan’ın ünlü heykeltıraşı <b>Phidias</b>, Parthenon gibi eserlerinde altın oranı uyguladığı bilinen bir sanatçıdır. Altın oranı temsil eden 'fi' (Φ) sembolü, onun isminin baş harfinin okunuşu olması nedeniyle kullanılmıştır.",
         "Donem": 2
     },
     {
@@ -3577,6 +3755,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "İtalyan matematikçi <b>Leonardo Fibonacci</b>, 1202 yılında yazdığı <b>'Liber Abaci'</b> (Hesap Kitabı) adlı eseriyle, Arap ve Hint matematikçiler tarafından geliştirilen ondalık sistemi (ve sıfır kavramını) Batı dünyasına tanıtmış ve böylece aritmetik devriminin öncüsü olmuştur.",
         "Donem": 2
     },
     {
@@ -3597,6 +3776,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Sanatta <b>ritim</b>, ögelerin tekrarı yoluyla <b>Ahenk ve armoni</b> (I) ile <b>Düzen</b> (II) oluşturur ve kompozisyonun bütünlüğünü sağlar. Ritim, görsel akışı düzenlediği için dikkatimizi dağıtmaz (III), aksine odaklanmayı ve akıcılığı teşvik eder. Dolayısıyla III, ritmin fonksiyonlarından değildir.",
         "Donem": 2
     },
     {
@@ -3617,6 +3797,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Bir sanat eserinde çizgisel veya biçimsel ögelerin ya da diğer yapısal ögelerin <b>düzenli ya da düzensiz tekrarı</b> yoluyla elde edilen görsel süreklilik ve hareket duygusu <b>Ritim</b> olarak adlandırılır. Ritim, esere akış ve canlılık katar.",
         "Donem": 2
     },
     {
@@ -3637,6 +3818,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Bu söz, sanat eserinin yaratılma sürecini, sanatçının dışsal bir çabadan çok, içsel bir <b>görme ve hissetme tarzı</b> olarak tanımlamaktadır. Film düşüncesinin zihinde tamamlanması ve sadece başkalarının görmesi için çekilmesi fikri, otobiyografik ve düşsel sinemanın en önemli temsilcilerinden biri olan <b>Federico Fellini</b>'ye aittir. Fellini, eserlerini genellikle bilinçaltından ve kişisel vizyonundan yola çıkarak üretmiştir.",
         "Donem": 2
     },
     {
@@ -3657,6 +3839,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Sanatçıyı diğer insanlardan ayıran en belirgin ve temel özellik <b>yaratıcılıktır</b>. Yaratıcılık, sanatçının alışılmışın dışında, özgün fikirler ve biçimler üreterek, dünyayı farklı bir bakış açısıyla yorumlama yeteneğini ifade eder. Sanatçının algılama biçimi, estetik nesneyi meydana getiren başlıca kaynaktır.",
         "Donem": 2
     },
     {
@@ -3677,6 +3860,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Rönesans döneminin evrensel dehası <b>Leonardo da Vinci</b>, sanatçıların yaratıcı güçlerini ve hayal güçlerini harekete geçirmek için bu tür rastgele formlara bakmalarını önermiştir. Da Vinci, nem lekeleri, taş damarları veya sıva çatlakları gibi doğal düzensizliklerin, ressamın zihninde yeni <b>biçimler ve kompozisyonlar</b> oluşturmasına yardımcı olabileceğini belirtmiştir. Bu yaklaşım, sanatçının sadece doğayı taklit etmemesi, aynı zamanda onu yorumlaması gerektiğini vurgular.",
         "Donem": 2
     },
     {
@@ -3697,6 +3881,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Kanadalı gazeteci ve yazar <b>Malcolm Gladwell</b>, 'Çizginin Dışındakiler' (Outliers) adlı eserinde, üstün başarı gösteren kişilerin (dehaların) biyografilerini incelemiştir. Gladwell, bir alanda gerçek ustalık ve uzmanlık elde etmek için yaklaşık <b>10 bin saatlik bilinçli pratiğin</b> gerekli olduğu hipotezini ortaya atmıştır. Bu kural, yeteneğin yanı sıra yoğun ve uzun süreli çalışmanın önemini vurgular.",
         "Donem": 2
     },
     {
@@ -3717,6 +3902,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Yapıtın, izleyicinin algısıyla yeniden yaratıldığını söyleyen yazar <b>Umberto Eco</b>’dur. Eco, bu fikri özellikle <b>Açık Yapıt (Opera Aperta)</b> kavramıyla açıklamıştır. Ona göre, modern sanat yapıtları yoruma o kadar açıktır ki, her <b>alımlayıcı (izleyici)</b> kendi kişisel, duygusal ve kültürel birikimleriyle esere yeni bir anlam katarak, eseri yeniden yaratır.",
         "Donem": 2
     },
     {
@@ -3737,6 +3923,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Estetik deneyim ve dolayısıyla estetik nesnenin belirlenmesi için sanatçının üretimine ek olarak <b>izleyici (alımlayıcı)</b> katılımı zorunludur. Sanat eseri (fiziksel nesne), ancak izleyici onu algıladığında ve yorumladığında <b>estetik nesneye</b> dönüşür ve sanat yapıtının varoluş süreci tamamlanır. Bu nedenle cümlede boş bırakılan yere 'izleyici (alımlayıcı)' getirilmelidir.",
         "Donem": 2
     },
     {
@@ -3757,6 +3944,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Psikanalizin kurucusu kabul edilen <b>Sigmund Freud</b>, yaratıcılığı ve sanat yapıtı üretimini, nevroz ve rüya oluşumuyla aynı mekanizmalara bağlar. Freud, yaratıcı yazarın, ciddiye aldığı fantezi dünyasını (çocukların oyunları gibi) yaratarak, bilinçdışı arzularını toplumsal olarak kabul edilebilir bir biçimde (<b>yüceltme</b> yoluyla) ifade ettiğini savunur.",
         "Donem": 2
     },
     {
@@ -3777,6 +3965,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Yaratıcı kişiler genellikle <b>esnek</b>, meraklı, risk almaktan çekinmeyen, eleştiriye açık ve <b>rutin dışı</b> düşünce biçimine sahip kişilerdir. Bu bağlamda, 'rutine ve kurallara aşırı bağlılık' yaratıcı bir kişiye ait özelliklerden biri <b>değildir</b>. Yaratıcılık, mevcut yapıları sorgulamayı ve değiştirmeyi gerektirir.",
         "Donem": 2
     },
     {
@@ -3797,6 +3986,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Resim çizme etkinliğini bir tür dil olarak gören, dil bilimci filozof <b>Ludwig Wittgenstein</b>'dır. Wittgenstein, özellikle 'Tractatus Logico-Philosophicus' adlı eserinde, dilin dünyayı resmetmesi üzerine yoğunlaşmıştır. Sanat, sözel dil gibi, dünyayı temsil etmenin ve anlamı iletmenin bir <b>görsel aracı</b> olarak görülür.",
         "Donem": 2
     },
     {
@@ -3817,6 +4007,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "20. yüzyılın başlarında Almanya'da kurulan ve tasarım elemanlarının biçimle ilişkisini sanat eğitimine içerik olarak yansıtan sanat kurumu <b>Bauhaus</b>'tur. Bauhaus, <b>sanat ve zanaatı</b> birleştirmeyi, estetik biçimi işlevsellikle kaynaştırmayı amaçlamış ve modern mimari ve tasarım eğitiminin temellerini atmıştır.",
         "Donem": 2
     },
     {
@@ -3837,6 +4028,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Kinestetik algı, vücudumuzun hareketini ve uzaydaki konumunu algılama duyusudur. Bu algı, dışsal duyular yerine, vücut içindeki sensörler tarafından sağlanır. Kinestetik algı, esas olarak <b>kaslar, tendonlar ve eklemler</b> arasındaki etkileşim ve işlem sonucu oluşur. Bu sensörler sayesinde vücudumuzun hareketini ve eforunu hissederiz.",
         "Donem": 2
     },
     {
@@ -3857,6 +4049,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "26 Nisan 1937’deki Guernica bombardımanının ardından, savaşın dehşetini ve İspanyol İç Savaşı'nın trajedisini yansıtmak amacıyla yapılmış olan anıtsal eser 'Guernica', kübizmin en büyük temsilcilerinden <b>Pablo Picasso</b>’ya aittir. Bu eser, <b>savaş karşıtı</b> bir sembol olarak sanat tarihinde önemli bir yer tutar.",
         "Donem": 2
     },
     {
@@ -3877,6 +4070,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Bu söz, bir dönemin ruhunu (<b>zeitgeist</b>) ve derin psikolojik yapısını anlamada sanatın vazgeçilmez bir kaynak olduğunu vurgular. Bu yaklaşım, sanatın toplumsal ve kültürel analizdeki merkezi rolünü öne süren <b>Arnold Hauser</b>’e veya kültürel psikolojiye odaklanan psikologlara ait olabilir. Sanat, o dönemin bilinçdışı eğilimlerini ve <b>tinsel mizacını</b> en saf haliyle yansıtır.",
         "Donem": 2
     },
     {
@@ -3897,6 +4091,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Sanatçının hareketinin gücü, hızı ve yönünün doğrudan yapıta yansıdığı sanat hareketi, özellikle 2. Dünya Savaşı sonrası ABD’de ortaya çıkan <b>Soyut Dışavurumculuk (Abstract Expressionism)</b> içinde yer alan <b>Aksiyon Resmi (Action Painting)</b> akımıdır. Jackson Pollock gibi sanatçılar, tuval üzerine boya damlatırken veya fırlatırken, fiziksel eylemlerini eserin biçimine dönüştürmüştür.",
         "Donem": 2
     },
     {
@@ -3917,6 +4112,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Hem çocuklar hem de sanatçılar dünyaya geleneksel normların dışında bakabilse de, çocuğu ayıran en önemli özellik, onun aktivitesinin doğuştan gelen ve bilinçli estetik amaç gütmeyen <b>oyun</b> ve <b>içgüdüsel ifade</b> olmasıdır. Sanatçı ise, yeteneğini bilinçli bir <b>estetik iletişim</b> amacı ve teknik ustalıkla nesnelleştirir.",
         "Donem": 2
     },
     {
@@ -3937,6 +4133,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Bakmak (pasif algı) ile görmek (aktif, bilinçli ve derinlemesine inceleme) arasındaki farkı tanımlayan sanatçı veya sanat teorisyeni, görsel dünyanın derinlemesine analizini önemseyen figürlerden biri olan <b>John Ruskin</b>'dir. Ruskin, sadece görsel benzerliği değil, nesnenin özünü ve ayrıntısını kavramanın gerekliliğini vurgulayarak <b>görme eylemini</b> özel bir uygulama olarak tanımlamıştır.",
         "Donem": 2
     },
     {
@@ -3957,6 +4154,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Sanat derslerinin amacının görsel ve yorumsal olarak biçimlendirici düşünme biçimine ulaşmak olduğunu belirten ve sanatın kendine özgü düşünme biçiminin eğitimle geliştirilebileceğini savunan kuramcı <b>Elliot W. Eisner</b>'dır. Eisner, sanat eğitiminin sadece teknik beceri değil, aynı zamanda <b>bilişsel gelişim</b> ve <b>benzersiz problem çözme</b> yetenekleri sağladığını öne sürmüştür.",
         "Donem": 2
     },
     {
@@ -3977,6 +4175,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Sanatçılar için doğuştan gelen görsel yetenek ne kadar önemliyse, bu yeteneği geliştirmek için harcanan <b>eğitim</b> (veya çalışma/pratik) de o kadar önemlidir. Dahası, yeteneğin tam anlamıyla <b>ustalık (yetkinlik)</b> veya profesyonel sanata dönüşmesi için sürekli ve bilinçli çaba zorunludur. Dolayısıyla boşluklara sırasıyla 'eğitim' ve 'ustalığa' getirilmelidir.",
         "Donem": 2
     },
     {
@@ -3997,6 +4196,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "1. Dünya Savaşı’ndan sonra ABD’de ortaya çıkan ve <b>Harold Rosenberg</b>’in 'Action Painting' (Aksiyon Resmi) terimiyle tanımladığı resim üslubu, <b>Soyut Dışavurumculuk</b> akımına aittir. Rosenberg, bu terimi, yapıtın bitmiş halinden çok, sanatçının tuval üzerindeki <b>fiziksel hareketine ve spontane eylemine</b> odaklanan ressamları tanımlamak için kullanmıştır.",
         "Donem": 2
     },
     {
@@ -4017,6 +4217,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Plastik görüntü, resim yüzeyinde yaratılan görsel organizasyonun canlılığını ve hareketini ifade eder. Bir görüntünün <b>organik</b> ve <b>dinamik</b> olabilmesi için denge, ritim, hareket ve gerilim gibi temel görsel algı ilkelerinin kullanılması gerekir. Gerekli ögeler genellikle görsel olarak algılanan ve düzenlemeye katkıda bulunan unsurlardır. Yüzeyin sadece <b>maddesel varlığı</b> veya kullanılan malzemenin kimyasal yapısı, görüntünün organik/dinamik niteliği için doğrudan bir öge değil, sadece bir araçtır.",
         "Donem": 2
     },
     {
@@ -4037,6 +4238,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Görsel deneyimlerle elde edilen bilgilerin oluşumunda, dış dünyadan gelen <b>ışık</b>, <b>hareket</b> ve <b>görsel değerler</b> gibi fiziksel girdilerin duyusal ve bilişsel süreçlerle işlenmesi esastır. Gözün retina üzerindeki tepkileri, beynin bu tepkileri düzenlemesi ve önceki görsel hafıza bu süreçte etkendir. Görsel olmayan girdiler (örneğin, <b>dokunsal hafıza</b> veya işitsel çağrışımlar) görsel bilginin oluşumunda doğrudan etken değildir.",
         "Donem": 2
     },
     {
@@ -4057,6 +4259,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Işık, bir resim yüzeyine düştüğünde, <b>pigmentler</b> belirli dalga boylarını <b>soğurur</b> ve diğerlerini <b>yansıtır</b>. Yansıyan dalga boyları gözümüz tarafından algılanır ve <b>renk</b>, <b>değer</b> (açıklık/koyuluk) ve <b>yoğunluk</b> (kromatiklik) duyumsamalarını sağlar. Pigmentlerin kimyasal yapısı ve ışıkla etkileşimi, dokunma veya <b>ağırlık algısı</b> gibi mekanik veya fiziksel duyumsamalarımızı sağlamaz; bunlar dokunsal ve proprioseptif duyularla ilişkilidir.",
         "Donem": 2
     },
     {
@@ -4077,6 +4280,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Göz, uzun süre yoğun bir renge (bu durumda kırmızı) maruz kaldığında, ilgili reseptörler (koniler) <b>yorgunluk</b> yaşar. Kırmızı yüzeyden ayrılıp nötr bir yüzeye bakıldığında, yorgun düşen kırmızı reseptörlerin eksikliği nedeniyle, beyin otomatik olarak kırmızının <b>tamamlayıcı rengini</b> (zıt rengini) algılar. Kırmızının tamamlayıcı rengi <b>yeşil</b> veya siyan-yeşildir (turkuaz). Bu durum, <b>negatif geç görüntü</b> olarak bilinir.",
         "Donem": 2
     },
     {
@@ -4097,6 +4301,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Plastik düzenleme, görsel yüzeyde anlamlı ve etkili bir organizasyon yaratmanın kurallarını ifade eder. Bu koşullar, <b>denge</b>, <b>ritim</b>, <b>gerilim</b>, <b>uyum</b> ve <b>bütünlük</b> gibi nesnel ilkeleri içerir. Bu ilkeler, eserin izleyici üzerindeki etkisini yapılandırır. <b>Bireysel tercihin önceliği</b> veya sanatçının öznel duyguları, düzenlemenin koşullarından (yani yapısal zorunluluklarından) biri olamaz; bu, eserin içeriği veya tarzı ile ilgilidir.",
         "Donem": 2
     },
     {
@@ -4117,6 +4322,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Görsel algı teorisinde önde gelen isimlerden biri olan <b>Rudolf Arnheim</b>, 'Görsel Düşünme' (Visual Thinking) adlı çalışmasında ve diğer eserlerinde, insan gözünün (ve beyninin) doğuştan gelen bir <b>bütünlük</b> arayışında olduğunu vurgular. Bu ifade, <b>Gestalt psikolojisi</b> ilkelerini yansıtarak, görsel bir alandaki dağınık ögelerin bile zihin tarafından anlamlı bir yapıya dönüştürülme eğilimini açıklar.",
         "Donem": 2
     },
     {
@@ -4137,6 +4343,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Resim yüzeyinde güçlü bir <b>plastik gerilim</b> (tension) yaratmak, yalnızca zıtlıkları kullanmakla değil, aynı zamanda bu zıtlıkları kontrol altında tutarak bir <b>denge</b> kurmakla mümkündür. En güçlü gerilim, birbirini tamamlayan ve aynı zamanda birbirine karşıt olan ilkelerin, yani <b>Uyum</b> (Harmony) ve <b>Zıtlık</b> (Contrast) veya <b>Çelişki</b>nin bilinçli olarak birlikte kullanılmasıyla sağlanır. Bu dinamik, izleyicinin dikkatini sürekli yüzey üzerinde tutar.",
         "Donem": 2
     },
     {
@@ -4157,6 +4364,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Çizgiler, görsel algımızda farklı duygusal ve kinetik etkiler yaratır. Düz çizgiler durağanlık veya süreklilik sağlarken, <b>kırık bir çizgi</b> (açısal veya kesintili) doğası gereği <b>ani değişim</b> ve kesintiyi temsil eder. Kırık çizgilerin tekrarı, bu kesintili hareketi pekiştirerek izleyicide <b>huzursuzluk</b>, <b>sarsıntı</b> veya gerginlik duygusunu güçlendirir.",
         "Donem": 2
     },
     {
@@ -4177,6 +4385,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Dikkatin resim yüzeyi üzerinde kalması, monotonluğun kırılması ve görsel hiyerarşinin oluşturulması ile sağlanır. Görsel uyarımların en etkili aracı <b>Zıtlık</b>tır (Kontrast). Biçim, renk, değer veya yön zıtlıkları, gözü çekerek ve yüzey üzerinde bir gezinme (ritim veya hareket) yaratarak <b>dikkat</b>in sürekli olarak uyarılmasını sağlar.",
         "Donem": 2
     },
     {
@@ -4197,6 +4406,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "<b>Derinlik algısı</b>, iki gözümüzün hafifçe farklı açılardan gördüğü (retinal disparite) iki ayrı imgenin beyinde tek bir üç boyutlu görüntüde birleştirilmesiyle oluşur. Bu olguyu ilk gözlemleyen ve bu prensibe dayanarak 1838 yılında <b>stereoskopu</b> (üç boyutlu görme cihazı) icat eden bilim adamı <b>Charles Wheatstone</b>'dur. Bu buluş, binoküler görme mekanizmasının anlaşılmasında kilit rol oynamıştır.",
         "Donem": 2
     },
     {
@@ -4217,6 +4427,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Cümlede bahsedilen, dağınık durumdaki küçük birimlerin (sesler, harfler) birbirine yaklaştıklarında zihnimiz tarafından anlamlı ve daha büyük gruplar (kelimeler, cümleler) halinde algılanmasıdır. Bu, <b>Gestalt</b> kuramının temel ilkelerinden biri olan <b>Kümeleme İlkesi</b> (Grouping) veya <b>Yakınlık İlkesi</b>dir. Bu ilke, elemanların yakınlığına göre organize edilerek bir <b>bütünlük</b> oluşturmasını sağlar.",
         "Donem": 2
     },
     {
@@ -4237,6 +4448,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "İki boyutlu (2D) bir resim yüzeyinde uzay ve derinlik hissi yaratma çabası, görsel algı mekanizmalarımızı taklit eden kurallar dizisiyle gerçekleştirilir. Üç boyuta ulaşma (derinlik algısı) çabası, genellikle <b>Yakınlık</b> ve <b>Benzerlik</b> kuralları ile <b>perspektif</b> ve <b>örtüşme</b> gibi uzaysal kurgu ilkeleri doğrultusunda hareket eder. Bu ilkeler, 2D yüzeyde illüzyonel bir derinlik yaratır.",
         "Donem": 2
     },
     {
@@ -4257,6 +4469,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "İnsan gözü ve beyni, eksik veya yarım kalmış şekilleri tamamlama eğilimindedir. Görülen boşlukların zihinsel olarak doldurulması ve açık formların görünmez bağlarla birleştirilerek bütünlenmesi, <b>Gestalt</b> kuramının temel ilkelerinden biri olan <b>Kapatma etkisi</b> (Closure) ile açıklanır. Bu etki, algılanan nesnenin kararlı ve tamamlanmış bir <b>form</b> olarak algılanmasını sağlar.",
         "Donem": 2
     },
     {
@@ -4277,6 +4490,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Verilen üç özellik (ilişkilerin canlılığı, netliği ve elemanların bireysel özellikleri), bir görsel düzenlemenin genel başarısını, okunabilirliğini ve etkisini tanımlar. Bu özelliklerin toplamı, eserin <b>Plastik Değeri</b>ni ifade eder. Plastik değer, görsel kompozisyonun yapısal sağlamlığını ve izleyici üzerindeki güçlü estetik etkisini belirleyen anahtar kavramdır.",
         "Donem": 2
     },
     {
@@ -4297,6 +4511,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Uzamsal kurgu (spatial composition) yaratılırken elemanları gruplamak ve hiyerarşi oluşturmak esastır. <b>Yakınlık kuralı</b>, birbirine yakın olan elemanları otomatik olarak bir grup olarak algılamamızı sağlar. Bu kural, genellikle, benzer şekil, renk veya boyuttaki elemanların birlikte algılanmasını sağlayan <b>Benzerlik kuralı</b> ile birlikte düşünülmelidir. Bu iki kural, güçlü ve tutarlı uzamsal kümeler oluşturur.",
         "Donem": 2
     },
     {
@@ -4317,6 +4532,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Bu ifade, <b>Gestalt</b> felsefesinin temelini yansıtır: 'Bütün, parçaların toplamından daha fazladır.' Benzer şekilde düzenlenmiş <b>öğeler</b> (veya birimler), uzamsal kümeler halinde organize edildiğinde, tek tek elemanların ötesine geçen, yeni bir anlam, yapı veya <b>bütünlük</b> yaratırlar.",
         "Donem": 2
     },
     {
@@ -4337,6 +4553,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu tanım, sanat teorisinde <b>Biçim</b> kavramına karşılık gelir. Biçim, bir nesnenin veya sanat eserinin dışsal yapısını, düzenini ve <b>düşsel, duyusal ve zihinsel algılanmasını</b> sağlayan kendine özgü gerçekliğini ifade eder. Biçim, sanatçının malzemeyi düzenleme ve sunma şeklidir.",
         "Donem": 2
     },
     {
@@ -4357,6 +4574,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Biçim kavramını, her şeyin temelinde <b>armoni</b> ve düzen olduğunu ileri sürerek açıklayan düşünür <b>Pisagor</b>'dur. Pisagor, evreni matematiksel oranlar ve düzen ile ilişkilendirmiş, \"Her ruh ve yeryüzündeki her şey aslında armoniyle yazılmış bir bestedir\" diyerek biçimin evrensel düzenin bir yansıması olduğunu vurgulamıştır.",
         "Donem": 2
     },
     {
@@ -4377,6 +4595,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Madde (hyle) ve Biçim (morphe) arasındaki ayrıma felsefi düzeyde ilk kez derinlemesine dikkat çeken ve <b>Hylemorfizm</b> (Madde-Biçim) kuramını geliştiren filozof <b>Aristoteles</b>'tir. Aristoteles'e göre, madde nesnelerin oluşumunda bulunan temel eleman iken, biçim ise bu maddeyi belirli bir nesne haline getiren yapıdır.",
         "Donem": 2
     },
     {
@@ -4397,6 +4616,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Cümlede bahsedilen, <b>estetik-matematik</b> bir bakış açısıyla biçime yaklaşan ve <b>her şeyin başlangıcının sayı olduğunu</b> kabul eden kuram, <b>Pisagor Kuramı</b>’dır (Pythagoras). Pisagorcular, evrendeki düzenin, harmoninin ve dolayısıyla biçimin temelinde matematiksel oranlar ve sayılar olduğuna inanmışlardır.",
         "Donem": 2
     },
     {
@@ -4417,6 +4637,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Bu yargı, sanat eserinin <b>İçerik</b> (Content) kavramını belirler. İçerik, sanatçının yaşamdan aldığı <b>gereç ve gerçeklik üzerine getirdiği duyusal ve düşünsel yorumu</b> ifade eder. Sanat eseri, sanatçının estetik biçim aracılığıyla yaşama dair getirdiği yorumu, fikri veya yargılamayı içerir.",
         "Donem": 2
     },
     {
@@ -4437,6 +4658,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Estetik terimini (Aesthetica) ortaya atan ve 18. yüzyılın ortalarında estetiği <b>duyusal bilginin bilimi</b> olarak tanımlayarak felsefeden ayırıp bağımsız bir disiplin haline gelmesini sağlayan filozof <b>Alexander Gottlieb Baumgarten</b>’dir.",
         "Donem": 2
     },
     {
@@ -4457,6 +4679,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Görsel sanatları, <b>ideaların kopyası</b> olan görünür dünyanın nesnelerini taklit ettikleri için (<b>mimesis</b>) gerçeğin üç kat uzağında gören düşünür <b>Platon</b>’dur. Platon, sanatı esas olarak taklitçi bir uğraş olarak değerlendirmiştir.",
         "Donem": 2
     },
     {
@@ -4477,6 +4700,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "“Düzen düzensizlikten, biçim kaostan doğup geliyor.” ifadesi, biçimin maddeye etki ederek onu düzenlediğini savunan <b>Aristoteles</b>’in madde (kaos/potansiyel) ve biçim (düzen/aktüel) arasındaki ilişkiyi tanımlayan felsefi düşüncesiyle uyumludur. Bu, <b>biçimin yapılandırıcı gücünü</b> vurgular.",
         "Donem": 2
     },
     {
@@ -4497,6 +4721,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Verilen tanım, <b>Simge</b> (Symbol) kavramına karşılık gelir. Simge, gösterdiği şeyin kendisi olmamasına rağmen, onu temsil eden, çağrıştıran ve böylece <b>iletişim sağlayan, anlamlandıran</b> bir araçtır. Simge, hem <b>somut hem de soyut</b> kavramları ifade etmek için kullanılabilir.",
         "Donem": 2
     },
     {
@@ -4517,6 +4742,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Sanatçının farklı <b>biçim, teknik, yöntem ve malzeme</b> kullanımıyla eser yüzeyinde bir araya gelen biçimlerin oluşturduğu bütün ve bu bütünlüğün karakteristik ifadesi, sanatçının <b>Üslup</b>’unu (Style) belirler. Üslup, sanatçının kişisel kimliğinin sanatsal ifadesidir.",
         "Donem": 2
     },
     {
@@ -4537,6 +4763,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "\"Bizi gerçek dünyadan koparıp <b>düş dünyasına</b> götürür\" ifadesi, sanat eserinin doğrudan gözlemlenen gerçekliği taklit etmek yerine, sanatçının hayal gücünü ve iç dünyasını yansıttığı <b>Düşsel Biçim</b>’i (veya Yorumlayıcı Biçim) tanımlar. Bu, izleyicinin hayal gücünü harekete geçiren, gerçeküstü veya sembolik anlatımı ifade eder.",
         "Donem": 2
     },
     {
@@ -4557,6 +4784,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Sanatın <b>gereci</b> (madde/form) ile <b>içeriği</b> arasındaki ayrımı vurgulayan, gerecin herkesçe görülebileceğini ancak içeriğin ancak ortak bir yanı olanlarca anlaşılabileceğini söyleyen doğa bilimci ve teorisyen <b>Johann Wolfgang von Goethe</b>'dir. Goethe, sanatın derinliğinin ve anlamının evrensel olmakla birlikte, algılanmasının kişisel bir bağ gerektirdiğini savunur.",
         "Donem": 2
     },
     {
@@ -4577,6 +4805,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "<b>Hazır Nesne</b> (Ready-made) kavramını sanat dünyasına sokan, sıradan bir objeyi seçimiyle sanatsal statüye kavuşturan ve <b>kavramsal sanatın</b> düşünsel temellerini atan sanatçı <b>Marcel Duchamp</b>'tır. Bu eylem, sanatın <b>yaratım</b>dan ziyade <b>fikir</b> üzerine kurulu olduğunu gösteren bir dönüm noktasıdır.",
         "Donem": 2
     },
     {
@@ -4597,6 +4826,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "“Ben hiç melek resmi yapmadım, çünkü hiç melek görmedim.” ifadesi, sanatta yalnızca gözlemlenebilir <b>nesnelliği</b> ve gerçekliği esas alan <b>Gustave Courbet</b>’ye aittir. Courbet, kendi dünyası yerine <b>dünya gerçeklerini</b> tasvir etmeyi yeğleyen 19. yüzyıl Realizm akımının en önemli temsilcisidir.",
         "Donem": 2
     },
     {
@@ -4617,6 +4847,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Doğayı <b>geometrik biçimler</b> aracılığıyla (silindir, küre, koni) ele almayı ve doğayı <b>düşünmek</b> gerektiğini söyleyerek Modern sanatın temellerini atan, bu nedenle de <b>Modern Sanatın Babası</b> olarak bilinen sanatçı <b>Paul Cézanne</b>’dır. Cézanne, resimsel yüzeyde derinlik yerine biçimin yapısını öne çıkarmıştır.",
         "Donem": 2
     },
     {
@@ -4637,6 +4868,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "<b>Süprematizm Manifestosu</b>’nu yayınlayan, <b>gündelik gerçekliğin ötesinde daha derin bir gerçeklik</b> arayışından bahseden ve geometrik soyut sanatın önemli temsilcisi olan sanatçı <b>Kazimir Malevich</b>’tir. Süprematizm, sanatta saf duygunun üstünlüğünü savunur.",
         "Donem": 2
     },
     {
@@ -4657,6 +4889,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Batı sanatında soyutlama süreci, 1909-1912 arasında <b>Pablo Picasso</b>’nun yarattığı <b>Analitik Kübizm</b> ile başlamıştır. Kübizmde sanatçı, iki boyutlu yüzeyde nesnenin <b>mekân/zaman</b> içindeki tüm görünümlerini aynı anda sunmak için görüntüyü parçalar, böylece geleneksel tek perspektifi reddeder.",
         "Donem": 2
     },
     {
@@ -4677,6 +4910,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "20. yüzyılın ikinci yarısından (1950 sonrası) ortaya çıkan akımlar arasında <b>Pop-art</b> (II), <b>Arazi sanatı</b> (III) ve <b>Minimalizm</b> (IV) bulunur. Kübizm (I) ise 20. yüzyılın başında (1907-1914) ortaya çıkmıştır. Dolayısıyla II, III ve IV doğru cevaplardır.",
         "Donem": 2
     },
     {
@@ -4697,6 +4931,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Maleviç (Süprematizm) ve Kandinsky (Lirik Soyutlama) gibi soyut sanatın öncüleri, sanat eserini nesnel dünyadan kopararak, formlar ve renkler aracılığıyla <b>mutlak, evrensel veya tinsel gerçekliğe</b> ulaşmak istemişlerdir. Amaçları, biçimsel saflık yoluyla <b>Mutlak Soyutlama</b>’yı gerçekleştirmekti.",
         "Donem": 2
     },
     {
@@ -4717,6 +4952,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Usçuluk (Rasyonalizm), bilginin kaynağının deneyden bağımsız olarak akıl ve düşüncede bulunduğunu savunan felsefi akımdır. Başlıca temsilcileri arasında <b>Descartes, Spinoza ve Leibniz</b> sayılır. Eğer soruda bu düşünürler seçeneklerde yer alıyorsa, akıma üye <u>olmayan</u> kişi genellikle bilginin temelini duyusal deneyime dayandıran <b>Deneycilik (Empirizm)</b> akımının temsilcilerinden biri olacaktır, örneğin <b>John Locke</b> veya <b>David Hume</b>.",
         "Donem": 2
     },
     {
@@ -4737,6 +4973,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Duyuların yetkinliği öğretisini geliştirerek, estetiği (Aesthetica) duyulur bilginin bilimi ve güzeli araştıran bir bilim olarak kuran düşünür, <b>Alexander Gottlieb Baumgarten</b>'dır. Baumgarten, bu terimi 1750 yılında yayımlanan 'Aesthetica' adlı eserinde kullanmıştır ve böylece estetiğin bağımsız bir disiplin olarak kurulmasına öncülük etmiştir.",
         "Donem": 2
     },
     {
@@ -4757,6 +4994,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Estetiğin temel ögeleri genellikle <b>Estetik Özne</b> (algılayan kişi), <b>Estetik Nesne</b> (sanat eseri veya güzel kabul edilen varlık), <b>Estetik Deneyim</b> (öznenin nesneyle etkileşimi sonucu oluşan duygu ve yargı) ve <b>Estetik Değer</b> (güzellik, yücelik vb. yargılar) olarak sıralanır. Bu ögeler dışındaki bir kavram (örneğin mantık, etik veya bilim) estetiğin temel ögesi <u>değildir</u>.",
         "Donem": 2
     },
     {
@@ -4777,6 +5015,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Sanat yapıtını, 'İzleyicinin ampirik deneyimlerinin ya da onunla zihinsel alışverişinin sonucunda oluşmuş bir ürün değildir' şeklinde açıklayan düşünür, genellikle sanat yapıtının kendisini, biçimini ve özerkliğini (otonomisini) vurgulayan <b>Biçimci Sanat Kuramı</b>'nın temsilcilerinden biridir. Bu ifade, eserin değerini izleyicinin kişisel tepkisinden veya temsil ettiği dış gerçeklikten bağımsız olarak kendi iç yapısında gören <b>Clive Bell</b>'in 'Anlamlı Biçim' (Significant Form) kuramıyla paralellik gösterir.",
         "Donem": 2
     },
     {
@@ -4797,6 +5036,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Sanat yapıtının oluşum sürecinde genellikle üç farklı nesne çözümlemesinden bahsedilir:<br>1. <b>Mevcut Nesne</b> (Ham madde, doğal veya hazır nesne).<br>2. <b>Zihinsel Nesne</b> (Sanatçının zihnindeki tasarı, kavramlaşmış biçim).<br>3. <b>Estetik Nesne/Sanat Yapıtı</b> (Zihinsel nesnenin mevcut nesne aracılığıyla maddi düzlemde varlık kazanmış son hâli).",
         "Donem": 2
     },
     {
@@ -4817,6 +5057,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Sanat yapıtının oluşumu, gerçek dünyadaki <b>mevcut nesnenin</b> (malzemenin) sanatçı tarafından kavranması ve farklı malzemelerle yeniden varlık kazandırılarak bir <b>Estetik Nesne</b> haline getirilmesi sürecidir. Bu eyleme genel olarak <b>Nesneleştirme</b> (Objectification) veya <b>Sanatsal Varlık Kazandırma</b> denir. Burada boş bırakılan yere getirilmesi gereken ifade, sürecin kendisini vurgulayan bir kavramdır: <b>Sanatsal Nesneleştirme</b>.",
         "Donem": 2
     },
     {
@@ -4837,6 +5078,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Nesneler dünyasının algılayan özne ile var olduğunu, var olmanın algılanmış olmak anlamına geldiğini ('Esse est percipi') savunan düşünür <b>George Berkeley</b>'dir. Berkeley'e göre, algılanmayan bir dış dünya yoktur; yani özne algılamazsa, dış dünya ortadan kalkar. Bu görüş <b>Subjektif İdealizm</b> olarak adlandırılır.",
         "Donem": 2
     },
     {
@@ -4857,6 +5099,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Sanatın gerçeği yansıttığını savunan <b>Yansıtma Sanat Kuramı</b> (Mimesis), Antik Yunan'a dayanır. Bu kuramın alt görüşlerinden 'sanat geneli ya da özü yansıtır' düşüncesi, ideaların taklidi yerine, mümkün ve evrensel olanı yansıtmayı savunan <b>Aristoteles</b>'e aittir. Aristoteles, tragedya ve şiirin tekil olayları değil, insan doğasının evrensel yönlerini yansıttığını öne sürer.",
         "Donem": 2
     },
     {
@@ -4877,6 +5120,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Biçimci sanat kuramının temellerini atan ve sanat yapıtının değerini temsil ettiği konudan bağımsız olarak sadece çizgisel, renk ve biçimsel düzenlemelerde bulan, özellikle <b>“saf resim”</b> kavramını ortaya atan sanat eleştirmeni <b>Clive Bell</b> veya <b>Roger Fry</b>'dır. Bell, ‘Anlamlı Biçim’ (Significant Form) kavramıyla, eserin estetik niteliğini sadece biçimsel yapısında bulur. Fry ise, Post-Empresyonizmi savunarak benzer bir biçimsel özerkliği vurgulamıştır. Biçimciliğin temellerini atan ve bu kavramı literatüre sokan kişi genellikle <b>Clive Bell</b> olarak kabul edilir.",
         "Donem": 2
     },
     {
@@ -4897,6 +5141,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Doğuştan zihinde fikirler olduğu savına (rasyonalizm) şiddetle karşı çıkan ve zihnimizde bulunan algı içeriklerini 'daha güçlü ve canlı' olan <b>İzlenimler</b> (Impressions) ve bunların 'soluk kopyaları' olan <b>Fikirler</b> (Ideas) olarak ikiye ayıran düşünür, <b>David Hume</b>'dur. Hume, tüm bilgimizin kaynağının bu izlenimlere dayandığını savunur.",
         "Donem": 2
     },
     {
@@ -4917,6 +5162,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Bu tanım ('Konunun sanatçının zihninde biçim kazanmış hâlidir. Sanatçının zihninde tasarladığı nesnedir.'), sanat yapıtının oluşum sürecindeki ikinci aşama olan <b>Zihinsel Nesneyi</b> (Conceptual Object) ifade eder. Bu, sanatçının malzemeyi kullanmaya başlamadan önce kafasında kurduğu soyut tasarıdır.",
         "Donem": 2
     },
     {
@@ -4937,6 +5183,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Ontolojik anlayışa göre, sanat nesnesinin salt bir varlık olarak kalmaktan çıkıp bir <b>Estetik Nesne</b> olarak gerçeklik kazanması, ancak onu estetik bir tavırla algılayan ve yorumlayan <b>alımlayıcı (özne)</b> ile mümkündür. Bu sürece <b>Estetik Alımlama</b> (Aesthetic Reception) veya <b>Estetik Nesnenin Gerçekleşmesi</b> denir.",
         "Donem": 2
     },
     {
@@ -4957,6 +5204,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Oyun ve sanat arasındaki benzerliğe dikkat çeken ve bu konuyu estetik yargı bağlamında ele alan düşünür <b>Immanuel Kant</b>’tır. Kant, bu konuyu estetik yargıyı incelediği temel eseri olan <b>'Yargı Yetisinin Eleştirisi'</b> (Kritik der Urteilskraft) adlı çalışmasında derinlemesine işlemiştir. Soru metnindeki 'Pratik Usun Eleştirisi' ifadesi hatalı olsa da, oyun ve sanat ilişkisi bağlamında akla gelmesi gereken düşünür <b>Kant</b>'tır.",
         "Donem": 2
     },
     {
@@ -4977,6 +5225,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Bilginin tümüyle deneyden türetilmiş olduğunu söyleyen ve duyumları nesnenin kendisinde bulunan <b>birincil (objektif) duyumlar</b> ve nesnenin kendisinde bulunmayan <b>ikincil (öznel) duyumlar</b> olarak ikiye ayıran düşünür <b>John Locke</b>'tur. Locke, bu ayrımı yaparak Empirizmin temelini atmıştır.",
         "Donem": 2
     },
     {
@@ -4997,6 +5246,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Sanatçıların doğaya, toplumsal sorunlara yöneldiği ve rasyonel kurallardan ziyade <b>kendi duygu ve kavrayışlarını</b>, bireysel yaratıcılıklarını ve iç dünyalarını yapıtlarında ifade etmeye başladığı dönem, 18. yüzyıl sonu ve 19. yüzyıl başlarının sanat akımı olan <b>Romantizm</b>'i düşündürmelidir.",
         "Donem": 2
     },
     {
@@ -5017,6 +5267,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Verilen cümle, sanatçının estetik erek ve kaygılarla yarattığı, tek ve benzersiz olan, alımlayıcının estetik yönelimle kavradığı nesneyi tarif etmektedir. Bu, <b>Sanat Yapıtının</b> (Art Work) veya <b>Estetik Nesnenin</b> en kapsamlı tanımıdır.",
         "Donem": 2
     },
     {
@@ -5037,6 +5288,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Dil ve düşünce arasında sıkı bir ilişki olduğunu savunan, nesnenin adının onun <b>göstergesi</b> olduğunu belirten ve olgudan (gerçeklikten) düşünceye, düşünceden dile geçen bir düşünce biçimini savunan filozof <b>Ludwig Wittgenstein</b>'dır. Özellikle erken dönem eseri 'Tractatus Logico-Philosophicus'ta, dilin mantıksal yapısı ile dünyanın (olguların) mantıksal yapısı arasındaki ilişkiyi inceler.",
         "Donem": 2
     },
     {
@@ -5057,6 +5309,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "Felsefeyi, 'var olanların ilk temellerini ve ilkelerini araştıran bir bilgi' olarak tanımlayan Antik Yunan filozofu <b>Aristoteles</b>'tir. Aristoteles, 'Metafizik' adlı eserinde bu araştırmayı 'ilk felsefe' olarak adlandırmış ve bilginin en temel nedenlerini ve ilkelerini bulmayı amaçlamıştır.",
         "Donem": 2
     },
     {
@@ -5077,6 +5330,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Cümlede boş bırakılan yere <b>İmgelem</b> getirilmelidir. İmgelem, dış dünyada var olan nesnelerden gözümüze yansıyan izdüşümlerinin zihnimizde canlanmasıyla, dış gerçekliği somut, düşsel veya sezgisel olarak <b>yeniden yaratma</b> yeteneğimizdir. İmgelem, nesne fiziksel olarak orada olmasa bile onun görsel karşılığını zihinde oluşturmamızı sağlayan <b>zihinsel aktivitedir</b>.",
         "Donem": 2
     },
     {
@@ -5097,6 +5351,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "<b>Yapısökümcü Anlayış</b>'ın (Deconstruction) temelini atan ve '<b>Metnin dışında hiçbir şey yoktur</b>' (Il n'y a pas de hors-texte) önermesiyle tanınan düşünür <b>Jacques Derrida</b>'dır. Bu düşünce, imgenin veya metnin anlamının dışsal bir referanstan ziyade, kendi iç sistemi ve farklılıklar ağı içinde oluştuğunu savunur.",
         "Donem": 2
     },
     {
@@ -5117,6 +5372,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Dönemin tüketim imgelerini (örneğin Coca-Cola şişeleri veya çorba kutuları) tekrarlayarak sanata taşıyan ve <b>endüstriyel üretim nesnelerinin eşitlikçi etkisine</b> dikkat çeken sanatçı <b>Andy Warhol</b>'dur. Warhol, Pop Art akımının en önemli temsilcisi olarak, imgeyi seri üretim kültürünün bir parçası olarak ele almıştır.",
         "Donem": 2
     },
     {
@@ -5137,6 +5393,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "“İmgelenim, <b>eylem hâlindeki duyunun</b> ortaya çıkan hareketidir.” cümlesi varoluşçu filozof <b>Jean-Paul Sartre</b>'a aittir. Sartre, imgelenimi pasif bir algıdan ziyade, bilincin nesneyi bilerek ve isteyerek, yokluk içinde dahi olsa <b>yeniden kurma eylemi</b> olarak tanımlar.",
         "Donem": 2
     },
     {
@@ -5157,6 +5414,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Bilgi kuramında <b>akılcılık ve deneycilik</b> geleneklerini sentezleyen ve <b>İmgelemi</b>, nesne orada olmasa bile zihinde imgeyi canlandırmakla gerçekleşen yetenek olarak açıklayan düşünür <b>Immanuel Kant</b>'tır. Kant'a göre imgelem, deneyim verilerini organize eden ve zihnimizin dünyayı yapılandırmasında merkezi rol oynayan bir yeti (transandantal imgelem) olarak önemlidir.",
         "Donem": 2
     },
     {
@@ -5177,6 +5435,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Sanatçıların <b>gerçekçi esaslara göre betimlemeye</b> çalıştığı, bilimsel yöntemlerle (perspektif, anatomi) <b>gözü aldatabilecek benzerliğe</b> ulaşmayı hedeflediği dönem <b>Rönesans</b> (ve sonrasında Klasisizm) dönemidir. Bu dönemde mimesis (taklit), sanatsal imgenin temel amacı haline gelmiştir.",
         "Donem": 2
     },
     {
@@ -5197,6 +5456,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "İmgenin sınırlarını <b>ışık-gölge</b> (sfumato) ile yumuşatarak biçimleri mekân ile bütünleştiren sanatçı <b>Leonardo da Vinci</b>'dir. Sfumato tekniği, keskin hatları ortadan kaldırarak figürlere daha gizemli ve atmosferik bir hava katmıştır.",
         "Donem": 2
     },
     {
@@ -5217,6 +5477,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Paragrafta bahsedilen sanat akımı <b>Empresyonizm</b> (İzlenimcilik)'dir. Bu akımın sanatçıları, nesnelerin durağan formlarından ziyade, <b>güneş ışığının değişimiyle oluşan anlık izlenimleri</b> ve atmosferik görünürlüğü tuvale aktarmaya odaklanmışlardır. Işık, imgenin kaynağı olarak ele alınmıştır.",
         "Donem": 2
     },
     {
@@ -5237,6 +5498,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Sanatta estetik yetenekten ziyade düşünceyi öne çıkaran ve <b>seri üretilmiş nesneleri</b> sanata mal ederek <b>hazır nesne</b> (ready-made) kavramını getiren sanatçı <b>Marcel Duchamp</b>'tır. Bu hamle, sanat yapıtının 'biricik' olma fikrini sarsmış ve <b>Kavramsal Sanat</b>'ın temellerini atmıştır.",
         "Donem": 2
     },
     {
@@ -5257,6 +5519,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "<b>Optik bilimini</b> ve ışığın <b>fotonsal değerler</b> arasındaki verilerini kuramsal çerçevede sanata taşıyan postempresyonist sanatçılar <b>Georges Seurat ve Paul Signac</b>’tır. Bu sanatçılar, renklerin tuval üzerinde küçük noktacıklar halinde yan yana getirilmesiyle oluşan <b>Puancılık (Divisionizm)</b> tekniğini kullanarak bilimsel bir yöntemle imgeyi oluşturmuşlardır.",
         "Donem": 2
     },
     {
@@ -5277,6 +5540,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Sanatçının imgeleminin, <b>gerçek dışı bir imgeyi</b> zihninde canlandırarak ona poetik ve duygusal bir <b>gerçeklik kazandırılması</b> görüşünü savunan düşünür <b>Gaston Bachelard</b>'dır. Bachelard, imgeyi sadece bir görüntü olarak değil, derinlemesine duygusal deneyimin bir yansıması olarak incelemiştir.",
         "Donem": 2
     },
     {
@@ -5297,6 +5561,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 4,
+        "Aciklama": "Felsefesinde <b>ruh ve beden düalizmini</b> merkeze alan ve <b>imgelemin bu iki yönlülüğüne</b> (zihinsel ve duyusal/fiziksel yönler) dikkat çeken filozof <b>René Descartes</b>'tır. Descartes'a göre imgelem, ruhun bedenle etkileşiminin bir ürünüdür.",
         "Donem": 2
     },
     {
@@ -5317,6 +5582,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Edvard Manet’nin 'Balkondakiler' (1868-1869) tablosu, kompozisyon ve figür yerleşimi açısından İspanyol ressam <b>Francisco de Goya</b>'nın 'Balkondaki Majalar' (Majas on a Balcony) eserinden <b>alıntılama</b> yapılarak dönüştürülmüştür. Manet bu alıntıyı, modern burjuvazinin eleştirel imgesini oluşturmak için kullanmıştır.",
         "Donem": 2
     },
     {
@@ -5337,6 +5603,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "İmgenin <b>ışık–gölge</b> (Chiaroscuro veya Tenebrizm) kullanımıyla en dramatik ve belirgin özelliklere sahip olduğu sanat dönemi <b>Barok</b>'tur. Barok sanatçılar, özellikle de <b>Caravaggio</b>, derin kontrastlar kullanarak figürleri karanlıktan çıkarıp izleyicide yoğun bir etki yaratmışlardır.",
         "Donem": 2
     },
     {
@@ -5357,6 +5624,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Aşk, ölüm, kahramanlık ve tabiat konularını işleyen; imgeleri <b>nesnel gerçekliğin ötesindeki duyguyu</b> aktarma aracı olarak kullanan dönem <b>Romantizm</b>'dir. Romantik sanatçılar, rasyonel Klasisizme tepki olarak bireysel deneyimlere ve yoğun duygusal dışavurumlara odaklanmışlardır.",
         "Donem": 2
     },
     {
@@ -5377,6 +5645,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Cümlede boş bırakılan yere getirilmesi gereken kavram, biçimsel olarak <b>modernist kimliğe</b> (örneğin geometrik soyutlama) sahip olmasına rağmen içerik olarak <b>medyatik, saptıran ve apolitik postmodern</b> anlayışa sahip olan <b>Neo-Geo</b> (Yeni Geometrik Kavramcılık) gibi akımları ifade eder. Bu, modernist dili kullanarak postmodern kültürü eleştirme ya da yansıtma çabasıdır.",
         "Donem": 2
     },
     {
@@ -5397,6 +5666,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 1,
+        "Aciklama": "İnsanın <b>benzerini yapma çabasını</b>, insanın doğaya karşı <b>üstünlük veya var olma çabası</b> olarak gören ve bu sanatsal sürecin <b>büyülü bir yanı</b> olduğunu ifade eden ünlü sanat tarihçisi <b>E.H. Gombrich</b>'tir. Gombrich, yanılsama ve temsil konularındaki çalışmalarıyla tanınır (Sanat ve Yanılsama).",
         "Donem": 2
     },
     {
@@ -5417,6 +5687,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 5,
+        "Aciklama": "Boş bırakılan yere <b>İmge</b> getirilmelidir. İmge, insanın <b>doğasına özgü yaratıcılığın</b> sonucu olarak, dış gerçekliğin <b>bireye özgü bir görsel gerçekliğe</b> dönüştürülmesiyle ortaya çıkan nihai görüntüdür. Bu, bir zihinsel aktivitenin sonucudur.",
         "Donem": 2
     },
     {
@@ -5437,6 +5708,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 3,
+        "Aciklama": "Bu söylem, sanatta <b>düşüncenin (kavramın) el becerisinin önüne geçtiği</b>, sıradan nesnelerin sanat yapıtı olarak sunulabildiği ve yapıtın <b>biriciklik</b> statüsünün sarsıldığı dönemi tanımlar. Bu anlayışın sanatsal karşılığı <b>Kavramsal Sanat</b>'tır. Bu akımda imge, sanatçının yeteneğiyle değil, <b>düşüncesinin aracı olan nesne seçimi</b> ile ortaya çıkar.",
         "Donem": 2
     },
     {
@@ -5457,6 +5729,7 @@
         "DersId": 477,
         "OBSDersId": 82516,
         "CevapSira": 2,
+        "Aciklama": "Yüzlerce yıldır <b>dinî ve siyasal erkin</b> idealize imgeler doğrultusunda belirlediği katı sanatsal sınırları yıkan ve sanatın konusunu ideal olandan <b>sıradan yaşama</b> ve sosyal gerçekliğe kaydıran sanat akımı <b>Realizm</b> (Gerçekçilik)'dir. Realist sanatçılar, otorite tarafından belirlenen estetik normlara karşı çıkmıştır.",
         "Donem": 2
     }
 ]

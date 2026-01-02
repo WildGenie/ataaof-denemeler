@@ -17,6 +17,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Büyük harflerin kullanımıyla ilgili temel kurallar vardır. Özel isimler ve özel isimden sonra gelen unvan/lakaplar büyük harfle başlar. Ancak, akrabalık bildiren kelimelerin kullanımı sıklıkla karıştırılır.<br>Kural şudur: <b>Akrabalık bildiren kelimeler gerçek akrabalık anlamıyla kullanıldığında küçük harfle yazılır</b> (örneğin: Ayşe teyzem, Ali amcam). Ancak bu kelimeler <b>lakap veya unvan yerine kullanılıyorsa büyük harfle yazılır</b> (örneğin: Nene Hatun, Dayı Kemal).",
         "Donem": 4
     },
     {
@@ -37,6 +38,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Büyük harf kullanımında dikkat edilmesi gereken en kesin kurallardan biri <b>tarihlerin yazımıdır</b>. Eğer ay ve gün adları belirli bir tarihle (sayıyla) birlikte kullanılıyorsa, <b>büyük harfle başlamalıdır</b> (örneğin: 19 Mayıs 1919 Pazartesi). Eğer tarih belirtilmeden kullanılırsa (örneğin: her pazartesi, önümüzdeki mayıs), küçük harfle yazılır.",
         "Donem": 4
     },
     {
@@ -57,6 +59,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "\"Ki\" bağlacı normalde ayrı yazılır (Örn: Gel ki görelim). Ancak Türkçede bazı kelimeler kalıplaşarak bitişik yazılır. Bu kelimeler genellikle 'Sanki, Oysaki, Mademki, Belki, Halbuki, Çünkü, Meğerki' (SİMBACIM veya SONBAHARIM kısaltmasıyla akılda tutulur) kelimeleridir. Bu listede olmayan ve <b>bağlaç görevinde olan her 'ki' ayrı yazılır</b>. Soru, bu istisnalar dışında kalan ve ayrı yazılması gereken bir 'ki' içeren seçeneği hedeflemektedir.",
         "Donem": 4
     },
     {
@@ -77,6 +80,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Yukarıdaki ifadelerde birden fazla yazım yanlışı bulunmaktadır:<br>I. '12 mart 1918' ifadesinde <b>belirli tarih bildiren ay adı ('mart') büyük harfle yazılmalıdır</b> (12 Mart 1918). (Yanlış)<br>III. 'sıcakmı sıcak' ifadesindeki pekiştirme amaçlı kullanılan 'mı/mi' edatı <b>ayrı yazılmalıdır</b> (sıcak mı sıcak). (Yanlış)<br>IV. 'yanında ki adamı' ifadesinde sıfat yapan '-ki' (Hangi adam? Yanındaki adam) <b>daima bitişik yazılır</b> (yanındaki). (Yanlış)<br>V. 'yada' kelimesi bağlaçtır ve daima <b>'ya da' şeklinde ayrı yazılmalıdır</b>. (Yanlış)<br>Bu nedenle I, III, IV ve V. ifadelerde yazım yanlışı vardır.",
         "Donem": 4
     },
     {
@@ -97,6 +101,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Mi eki (mı, mi, mu, mü) genellikle <b>soru anlamı</b> katmak için kullanılır. Ancak metin içinde bu edatın başka görevleri de bulunur. 'Mi' edatının soru dışında kullanıldığı başlıca anlamlar <b>pekiştirme</b> (örneğin: güzel mi güzel, pahalı mı pahalı), <b>şart/zaman</b> (örneğin: Yağmur yağdı mı eve gireriz) anlamlarıdır. Başka bir anlamda kullanıldığı seçenekte genellikle <b>pekiştirme</b> anlamı taşıyan bir ifade yer alır.",
         "Donem": 4
     },
     {
@@ -117,6 +122,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Büyük harf kullanımında yapılan yanlışlıklar genellikle <b>özel isimlere bağlı unvan veya makam isimlerinde</b> ya da <b>belirli bir tarih bildirmeyen ay/gün adlarında</b> görülür. Örneğin, belirli bir tarihi belirtmeyen bir ay adı (Örn: Önümüzdeki Nisan ayında) küçük harfle yazılmalıdır. Eğer seçenek bu kuralı ihlal etmişse (Nisan'ı büyük yazmışsa), yanlışlık yapılmıştır.",
         "Donem": 4
     },
     {
@@ -137,6 +143,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "En sık yapılan yazım yanlışlarından biri <b>bağlaç olan 'de/da'nın bitişik yazılmasıdır</b>. Bağlaç olan 'de/da' her zaman <b>ayrı yazılır</b> ve cümleden çıkarıldığında cümlenin anlamı bozulmaz ancak daralır (Örn: Sen de gel). Hal eki olan '-de/-da' ise bitişik yazılır ve çıkarıldığında anlam tamamen bozulur (Örn: Evde kaldım). Yanlış yapılan cümlede, büyük ihtimalle ayrı yazılması gereken bağlaç bitişik yazılmıştır.",
         "Donem": 4
     },
     {
@@ -157,6 +164,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "\"Ki\"nin yazım yanlışlığı, genellikle bitişik yazılması gereken <b>sıfat yapan -ki</b> veya <b>ilgi zamiri -ki'nin ayrı yazılmasıyla</b> ortaya çıkar (Örn: 'Masadaki kitap' doğru, 'Masada ki kitap' yanlış). Zira bu ekler daima bitişiktir. Yanlışlık yapılan cümlede, bitişik olması gereken bir 'ki'nin ayrı yazılması kural ihlalidir.",
         "Donem": 4
     },
     {
@@ -177,6 +185,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Bir yazım yanlışının olduğu cümle tespit edilirken genellikle <b>birleşik kelimelerin ayrı mı yoksa bitişik mi yazılacağı</b> kuralına bakılır. Birleşik kelime oluşturulurken kelimelerden hiçbiri veya ikincisi anlam değişikliğine uğramazsa <b>ayrı yazılır</b> (Örn: deniz yılanı). Eğer anlam değişirse <b>bitişik yazılır</b> (Örn: bülbül yuvası [tatlı ismi]). Yanlışlık genellikle ayrı yazılması gereken bir birleşik kelimenin (Örn: art arda, peşi sıra, el ele) bitişik yazılmasıdır.",
         "Donem": 4
     },
     {
@@ -197,6 +206,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Yazım yanlışı olmayan cümlenin tespit edilmesi için, o cümlenin <b>büyük harf, de/da, ki, mi, birleşik kelimeler ve kısaltmaların yazımı</b> kurallarının tamamına uyması gerekir. Diğer seçeneklerin tamamında bu kurallardan en az biri ihlal edilmiştir. Doğru şık, tüm ortografik kuralların titizlikle uygulandığı seçenektir.",
         "Donem": 4
     },
     {
@@ -217,6 +227,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Bu tür sorularda, doğru yazılmış seçeneği bulmak için öncelikle yaygın hataların (de/da, ki, ayrı yazılması gereken birleşik fiiller/isimler, sayılar) kontrol edilmesi gerekir. <b>Doğru seçenekte, ayrı yazılması gereken tüm bağlaçlar, ek fiiller ve yardımcı fiiller doğru şekilde ayrılmış olmalıdır</b> (Örn: hissetmek yerine hissetmek doğruysa; ya da yerine yada yanlışsa).",
         "Donem": 4
     },
     {
@@ -237,6 +248,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Satır sonuna gelen sözcüklerin bölünmesiyle ilgili en önemli kural şudur: <b>Özel adlara gelen çekim ekleri kesme işaretiyle ayrıldıktan sonra satır sonunda kalıyorsa, yeni satıra geçerken ayrıca kısa çizgi (-) kullanılmaz</b>. Yanlış olan ifade, kesme işaretinden sonra kısa çizginin de kullanılması gerektiğini iddia eden ifadedir (Örn: Ankara'-dan şeklinde değil, Ankara'<br>dan şeklinde olmalıdır).",
         "Donem": 4
     },
     {
@@ -257,6 +269,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Türkçede <b>bağlaç olan \"ki\" daima ayrı yazılır</b> (kalıplaşmış istisnalar hariç). Bağlaç olan \"ki\" genellikle bir sebep-sonuç ilişkisi veya pekiştirme ifade eder ve cümleden çıkarıldığında anlam bozulmaz (Örn: Gördüm ki gitmiş). Yazım yanlışı, bu ayrı yazılması gereken bağlacın <b>bitişik yazılmasıyla</b> oluşur (Örn: Duydumki).",
         "Donem": 4
     },
     {
@@ -277,6 +290,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "<b>\"Mi\" soru eki, kendinden önceki kelimeden daima ayrı yazılır</b> (Örn: Sen de gelecek misin?). Ancak mi'ye gelen ekler (şahıs ekleri, zaman ekleri) mi'ye bitişik yazılmalıdır. Yanlışlık genellikle 'mi'nin bitişik yazıldığı (Örn: Biliyormusun?) ya da 'mi'ye gelen ekin ayrı yazıldığı durumlarda (Örn: gel mi sin?) ortaya çıkar.",
         "Donem": 4
     },
     {
@@ -297,6 +311,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Yer yön adları (Doğu, Batı, Kuzey, Güney) coğrafi bölge veya yön bildiriyorsa küçük harfle (Türkiye'nin doğusu), ancak bir <b>zihniyet, medeniyet, kültür veya siyasi oluşumu</b> ifade ediyorsa <b>büyük harfle başlar</b> (Örn: Batı medeniyeti, Doğu mistisizmi). Kurala uyulmayan seçenekte, yön adı zihniyet belirttiği halde <b>küçük harfle</b> yazılmış olmalıdır (Örn: 'Doğu'nun gizemli kültürü' yerine 'doğu'nun...).",
         "Donem": 4
     },
     {
@@ -317,6 +332,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Cümledeki yazım yanlışı tespiti için <b>ikilemelerin, pekiştirmelerin, sayıların, de/da ve ki'nin yazımı</b> kontrol edilmelidir. Özellikle <b>ikilemelerin arasına noktalama işareti konmaması ve daima ayrı yazılması</b> (ağır ağır, yavaş yavaş) önemli bir kuraldır. Eğer bu kurallardan biri ihlal edilmişse (örneğin 'güpegündüz' bitişik yazılmalıdır; 'el ele' ayrı yazılmalıdır), yazım yanlışı yapılmıştır.",
         "Donem": 4
     },
     {
@@ -337,6 +353,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Soru, tekrar \"ki\"nin yazım yanlışını hedeflemektedir. Yanlışlık, ya <b>ayrı yazılması gereken bağlacın bitişik yazılması</b> (Örn: Geldimki) ya da <b>bitişik yazılması gereken sıfat/ilgi ekinin ayrı yazılmasıdır</b> (Örn: Evde ki). Yanlış yapılan seçenekte, 'ki'nin ayrı/bitişik yazım kuralı ihlal edilmiştir.",
         "Donem": 4
     },
     {
@@ -357,6 +374,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Türkçede büyük harflerle yapılan kısaltmalara (TDK, TBMM, ABD vb.) getirilen ekler, <b>kesme işaretiyle ayrılır</b> ve <b>kısaltmanın okunuşunun son harfine göre</b> eklenir (açılımına göre değil). Örneğin: TDK'nin değil, <b>TDK'nin</b>. Yanlışlık, genellikle eklerin kısaltmanın açılımına göre getirilmesinde (Türk Dil Kurumu'na göre) veya kesme işaretinin hatalı kullanılmasında görülür.",
         "Donem": 4
     },
     {
@@ -377,6 +395,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Sayıların yazımında temel kural: <b>Birden fazla kelimeden oluşan sayılar ayrı yazılır</b> (örneğin: üç yüz altmış beş). Ancak, para işlemlerini belirten çek, senet gibi ticari belgelerde sayılar <b>bitişik yazılır</b> (örneğin: Üçyüzaltmışbeş). Yanlışlık genellikle ayrı yazılması gereken sayıların bitişik yazılmasından kaynaklanır.",
         "Donem": 4
     },
     {
@@ -397,6 +416,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Kısaltmalara getirilen eklerin yazımında kural şudur: Ekler, kısaltmanın <b>son harfinin okunuşuna</b> (veya ses değerine) uygun olarak <b>kesme işaretiyle</b> ayrılır. Örneğin, KGM kısaltmasına '-den' eki getirilecekse, 'Ke Ge Me' şeklinde okunduğu için <b>KGM'den</b> olmalıdır. Yanlış yapılan cümlede, ek ya kısaltmanın açılımına göre getirilmiş (örneğin: Türk Hava Kurumu'nun), ya da kısaltmanın okunuşu yanlış dikkate alınmıştır (örneğin: PTT'dan yerine PTT'den olmalıdır).",
         "Donem": 4
     },
     {
@@ -417,6 +437,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Bu tür sorular, öğrencinin Türkçedeki farklı tipteki <b>yazım yanlışlarını</b> (imla hatalarını) ayırt etme becerisini ölçer. Seçeneklerde sunulan dört farklı cümledeki yazım hataları genellikle belirli kategorilere ayrılır:<br>1. <b>Bitişik ve Ayrı Yazım Hataları</b> (Örn: Bileşik kelimeler, ikilemeler).<br>2. <b>Büyük Harf Kullanımı Hataları</b> (Örn: Özel isimlerin, unvanların veya kurum adlarının yazımı).<br>3. <b>Eklerin Yazımı Hataları</b> (Örn: -de/-da hal eki ile -de/-da bağlacının ayrımı).<br>4. <b>Noktalama Hataları</b>.<br>Soruda, seçeneklerin dördünde aynı türden (örneğin hepsi bitişik yazım hatası) hata yapılmışken, doğru cevap olarak işaretlenen seçenekteki hata türü (örneğin <b>ünlem işaretinin kullanımı</b> veya <b>sayıların yazımı</b> gibi) diğerlerinden farklıdır. Bu, öğrencinin hataları sadece tespit etmekle kalmayıp, onları sınıflandırmasını da gerektirir.",
         "Donem": 4
     },
     {
@@ -437,6 +458,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Türkçede \"ki\"nin yazımı, onun görevinin ne olduğuna bağlıdır. Üç temel \"ki\" türü vardır:<br>1. <b>Bağlaç Olan \"Ki\":</b> Cümleleri veya kelime gruplarını bağlar ve daima <b>ayrı yazılır</b> (Örn: Duydum ki...). Cümleden çıkarıldığında anlam bozulmaz.<br>2. <b>Sıfat Yapan \"-ki\":</b> Bir ismin yerini veya zamanını belirterek onu sıfat yapar (Örn: Evdeki hesap, Dünkü maç) ve <b>bitişik yazılır</b>.<br>3. <b>İlgi Zamiri Olan \"-ki\":</b> Tamlayan eki alarak tamlananın yerine geçer (Örn: Benimki) ve <b>bitişik yazılır</b>.<br><br>Bu sorunun doğru cevabında, \"ki\"nin bu kurallardan birine aykırı kullanıldığı görülür. Örneğin, ayrı yazılması gereken bağlaç \"ki\"nin bitişik yazılması (Hâlbuki, Oysaki gibi istisnalar hariç) veya bitişik yazılması gereken ekin ayrı yazılması en yaygın yanlışlardır. Özellikle <b>\"ki\"nin yerine -ler/-lar çoğul eki getirilebiliyorsa</b> (Örn: Evdekiler -> anlamlı), o \"ki\" bitişik yazılmalıdır. Eğer getirilemiyorsa (Örn: Duydumkiler -> anlamsız), ayrı yazılan bağlaçtır.",
         "Donem": 4
     },
     {
@@ -457,6 +479,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Bu soruda, verilen özellikler noktalama işaretlerinin TDK kurallarına göre tanımlanmış kullanımlarını içermektedir:<br/>I. Cümlede söylenmek istenmeyen, kaba sayılan veya tamamlanmamış bölümlerin yerine **Üç Nokta (...)** kullanılır.<br/>II. Kendisinden sonra açıklama veya örnek verilecek cümlenin sonuna **İki Nokta (:)** konur.<br/>III. Sıra sayılarını belirtmek için rakamdan sonra **Nokta (.)** kullanılır (örn: 1., II.).<br/>Dolayısıyla doğru sıralama Üç Nokta, İki Nokta, Nokta şeklinde olmalıdır.",
         "Donem": 4
     },
     {
@@ -477,6 +500,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Cümlede art arda sıralanmış, birbirine bağlı ancak bağımsız yargı bildiren **sıralı cümleleri** ayırmak için **Virgül (,)** kullanılır. 'Tut', 'serin tut', 'ferah tut' ifadeleri birbiriyle eş görevli sıralı cümleleri veya kelime gruplarını ayırmaktadır. Cümlenin sonunda ise yargı tamamlandığı için **Nokta (.)** kullanılır.<br/>Sırasıyla: Ayağını sıcak tut(,) başını serin(,) gönlünü ferah tut(,) düşünme derin(.).",
         "Donem": 4
     },
     {
@@ -497,6 +521,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "**Ünlem İşareti (!)** sevinç, şaşırma, heyecan, korku, öfke gibi **duygusal yoğunluk** taşıyan cümlelerin sonunda veya seslenme, hitap ve uyarı sözlerinden sonra kullanılır. Bu tür cümleler duygusal ifadeyi tamamlamak için ünlem işaretiyle sonlandırılır.",
         "Donem": 4
     },
     {
@@ -517,6 +542,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "**Tırnak İşareti (\" \")**, başka bir kimseden veya yazıdan **doğrudan alıntı** yapılan sözleri ayırmak için kullanılır. Bu işaret, aktarılan sözün değiştirilmeden, aynen alındığını gösterir.",
         "Donem": 4
     },
     {
@@ -537,6 +563,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "**Noktalı Virgül (;)**, cümle içinde **virgüllerle ayrılmış tür veya takımları** birbirinden ayırmak için kullanılır (örn: Pazardan elma, armut; pırasa, ıspanak aldım). Ayrıca, ögeleri arasında virgül bulunan **sıralı cümleleri** ayırmak için de kullanılır. Doğru cevap, bu kurallardan birini sağlayan yapıda olacaktır.",
         "Donem": 4
     },
     {
@@ -557,6 +584,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Verilen parçada, 'Birincisi su gibidir' ve 'her zaman yanında istersin' birbiriyle sıralı cümlelerdir. Aynı şekilde 'ikincisi ilaç gibidir' ve 'ihtiyacın olduğunda ararsın' da sıralı cümlelerdir. Bu sıralı cümleleri ayırmak için **Virgül (,)** kullanılır. Dolayısıyla virgül, ilk yargının bittiği (I) ve ikinci yargının bittiği (III) yerlere değil, bu yargıları takiben gelen cümleleri ayırmak için (II) ve (IV) numaralı yerlere getirilmelidir. (V numaralı yere ise nokta gelmelidir).<br/>Getirilmesi gereken yerler (II) ve (IV) numaralı yerlerdir.",
         "Donem": 4
     },
     {
@@ -577,6 +605,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Cümlede, kendisinden sonra verilecek olan **örnekleri** veya yapılacak olan **açıklamayı** belirtmek için **İki Nokta (:)** kullanılır. Cümlede 'sıralayalım' denilerek örnekler verileceği belirtildiği için parantezle gösterilen yere iki nokta getirilmelidir.",
         "Donem": 4
     },
     {
@@ -597,6 +626,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "**Ara sözleri ve ara cümleleri** ana cümlenin akışından ayırmak için cümlenin başında ve sonunda olmak üzere ya **iki virgül (,)** ya da **iki kısa çizgi (-)** kullanılır. Her ikisi de bu amaçla kullanılan doğru noktalama işaretleridir.",
         "Donem": 4
     },
     {
@@ -617,6 +647,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "**Üç nokta (...)**, tamamlanmamış cümlelerin sonunda, alıntılarda atlanan bölümleri göstermek için veya kaba sayılan ifadeler yerine kullanılır. Ancak, **tamamlanmış yargı bildiren normal cümlelerin sonunda** veya **cevap gerektiren doğrudan soru cümlelerinin sonunda** kesinlikle kullanılmaz; bu durumlarda Nokta veya Soru İşareti kullanılır.",
         "Donem": 4
     },
     {
@@ -637,6 +668,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "**Soru İşareti (?)**, doğrudan soru anlamı taşıyan cümlelerin sonunda kullanılır. **Dolaylı anlatımla** (Indirect speech) aktarılan soru cümlelerinde veya cümlenin yapısı soru şeklinde olsa bile **emir, rica veya kesinleşmiş bir yargı** bildiren cümlelerde soru işareti kullanılmaz (örn: Nereye gideceğini sordu.).",
         "Donem": 4
     },
     {
@@ -657,6 +689,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "**Noktalı Virgül (;)**, cümle içinde art arda sıralanan, ancak kendi içlerinde virgül içeren veya **farklı tür/takımlara** ayrılmış kelime gruplarını birbirinden ayırmak için kullanılır. Bu, gruplar arasındaki karışıklığı önlemeyi sağlar.",
         "Donem": 4
     },
     {
@@ -677,6 +710,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "**Sıra sayı sıfatları** yazılırken ya rakamdan sonra **nokta (.)** konur (5.) ya da rakamdan sonra kesme işaretiyle üleştirme eki getirilir (5'inci). Rakamdan sonra nokta konulduğunda, zaten 'üncü/ıncı' anlamını karşıladığı için, ayrıca kesme işareti ve ek getirilmesi (**5.'nci**) **yanlıştır**.",
         "Donem": 4
     },
     {
@@ -697,6 +731,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "**Nokta (.)** tamamlanmış cümlelerin sonunda, bazı kısaltmaların sonunda, sıra sayılarını belirtmek için veya tarih yazılışında kullanılır. **Arka arkaya sıralanan eş görevli kelimeleri** ayırmak için ise **Virgül (,)** kullanılır. Dolayısıyla Nokta'nın bu amaçla kullanılması yanlıştır.",
         "Donem": 4
     },
     {
@@ -717,6 +752,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Bu cümlede **İki Nokta (:)** kullanılarak örnekler sıralanmaya başlanmıştır. Listenin sonunda yer alan **Üç Nokta (...)**, verilen örneklerin (Antalya, İstanbul, İzmir) **sadece birkaçı olduğunu**, benzer başka örneklerin de bulunduğunu ve **listenin devam ettiğini** göstermek için kullanılmıştır.",
         "Donem": 4
     },
     {
@@ -737,6 +773,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "**Kısa çizgi (-)** satır sonu bölmelerinde, kelimelerin kök, ek ve gövdelerini ayırmakta, arasında anlamı katmakta veya ara sözleri ayırmakta kullanılır. Ancak, **eş görevli kelimeleri ayırmak** (virgülün temel görevi) veya **özel adlara gelen ekleri ayırmak** (kesme işaretinin görevi) kısa çizginin kullanım amaçlarından değildir. Yanlış kullanım genellikle virgül veya kesme işareti yerine kullanıldığı durumlardır.",
         "Donem": 4
     },
     {
@@ -757,6 +794,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Verilen cümlede, virgül kullanılmazsa, kimin müdür odasına gittiği belli olmayabilir. Aynı şekilde, **özne-nesne karışıklığına** neden olabilecek cümlelerde virgül kullanılır. Örneğin: 'O, masayı taşıdı.' cümlesinde virgül olmazsa 'O masayı' birleşik bir ifade gibi algılanabilir. Virgül, özellikle **zamir özneyi** diğer ögelerden ayırarak **anlam belirsizliğini** ortadan kaldırır.",
         "Donem": 4
     },
     {
@@ -777,6 +815,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Kurgunun üç temel ögesi var **(:)** Kendisinden sonra açıklama veya örnekleme yapılacağı için iki nokta konur.<br/>Gizem **(,)** Eş görevli kelimeleri ayırmak için virgül konur.<br/>gerilim ve sürpriz **(.)** Cümle tamamlandığı için nokta konur.<br/>Gerçek yaşamı da daha ilginç yapan bunlardır **(.)** Tamamlanmış yargı bildiren cümlenin sonuna nokta konur.<br/>Sıralama: : , . .",
         "Donem": 4
     },
     {
@@ -797,6 +836,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "**Nokta (.)**, bir düşünceyi veya yargıyı tamamlayan, **kesinleşmiş yargı bildiren** cümlelerin (temel cümlenin) sonuna konulan noktalama işaretidir. Bu, cümlenin bittiğini ve kesin bir hüküm içerdiğini gösterir.",
         "Donem": 4
     },
     {
@@ -817,6 +857,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Metindeki 'kendi muharririni' ifadesi, 'en büyük keşfi' kavramının açıklayıcısı niteliğinde bir **ara söz** görevindedir. Ara sözleri ana cümleden ayırmak için **iki virgül (,)** veya iki kısa çizgi (-) kullanılır. Cümlenin sonunda ise yargı tamamlandığı için **Nokta (.)** kullanılır.<br/>Sıralama: , , .",
         "Donem": 4
     },
     {
@@ -837,6 +878,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "**Ünlem İşareti (!)** sevinç, korku, şaşkınlık gibi duygusal ifadelerin sonuna konur. Ayrıca, bir diğer önemli kullanımı da cümlenin hemen ardından değil de **parantez içinde (?)** kullanılmasıdır. Parantez içindeki ünlem işareti, bir durumun veya sözün **alay, küçümseme veya kinaye** amacıyla kullanıldığını belirtir.",
         "Donem": 4
     },
     {
@@ -857,6 +899,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Bu soru, <b>noktanın (period)</b> Türkçedeki temel kullanım kurallarını ölçmektedir. Noktanın yaygın ve doğru kullanımları şunlardır:<br>1. Tamamlanmış <b>cümlelerin sonuna</b> konur.<br>2. <b>Bazı kısaltmaların</b> sonuna konur (Örn: Dr., Prof.).<br>3. <b>Sayıları sıra bildirmek</b> için kullanıldığında (Örn: 3.).<br>4. Tarihlerin yazılışında <b>gün, ay ve yılı ayırmak</b> için (Örn: 12.05.2023).<br>5. Saat ve dakika gösterilirken <b>saat ve dakika arasına</b> konur (Örn: 14.30).<br>Genellikle yanlış kullanım, ondalık sayıları ayırırken (burada <b>virgül</b> kullanılmalıdır) veya başlıklarda (buraya noktalama işareti konmaz) ortaya çıkar. Sorunun doğru cevabı, verilen şıklar arasında noktanın kullanım amacına <b>uymayan</b> kuralı belirten seçenektir.",
         "Donem": 4
     },
     {
@@ -877,6 +920,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Bu soru, Türkçe metinlerdeki <b>genel noktalama işaretlerinin</b> (virgül, noktalı virgül, kesme işareti, nokta vb.) doğru kullanımını test etmektedir. Noktalama yanlışları genellikle aşağıdaki durumlarda ortaya çıkar:<br>1. <b>Virgülün gereksiz kullanımı</b>: Özellikle 've, veya, ya da, ile' gibi <b>bağlaçlardan önce veya sonra</b> virgül kullanılması.<br>2. <b>Kesme İşareti hatası</b>: Özel adlara getirilen yapım ekleri, çokluk ekleri ( -ler/-lar) ve bunlardan sonra gelen diğer ekleri ayırmada <b>kesme işareti kullanılmaması</b> gerekir (Örn: Türkçenin, Avrupalılar). Hatalı seçenekte büyük ihtimalle bu kural ihlal edilmiştir.<br>3. <b>Noktalı Virgül hatası</b>: Noktalı virgül (;), sadece cümle içinde <b>virgüllerle ayrılmış tür veya takımları</b> ayırmak ya da öğeleri virgülle ayrılmış sıralı cümleleri birbirinden ayırmak için kullanılır. Başka görevde kullanılması yanlış kullanımdır.<br>4. <b>Cümle sonu işaretinin</b> (nokta, soru işareti, ünlem) cümlenin yapısına uygun olmaması.<br>Yanlış kullanımın olduğu cümle, Türk Dil Kurumu (TDK) kurallarına aykırı bir noktalama işareti barındırmaktadır.",
         "Donem": 4
     },
     {
@@ -897,6 +941,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Anlatım bozukluğuna yol açan çelişkili ifadeler, cümlede hem <b>kesinlik</b> hem de <b>olasılık</b> bildiren sözcüklerin bir arada kullanılmasıyla ortaya çıkar. Örneğin, \"Mutlaka belki de yarın gelir\" gibi bir ifadede 'mutlaka' (kesinlik) ve 'belki de' (olasılık) birbiriyle çelişir ve cümlenin <b>açıklık</b> ilkesini bozar. Anlatım bozukluğunun giderilmesi için bu sözcüklerden birinin çıkarılması gerekir.",
         "Donem": 4
     },
     {
@@ -917,6 +962,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Verilen cümledeki anlatım bozukluğunun sebebi <b>fiil çatısı uyuşmazlığıdır</b> (voice inconsistency).<br/>'Hazırlayıp' fiili aktif (etken) çatıdayken, 'koyulmalıdır' fiili pasif (edilgen) çatıdadır. Yan cümlecik ve temel cümlenin çatıları aynı olmalıdır.<br/>Doğru kullanım: Eğer etken isteniyorsa: “Bütün yemekleri hazırlayıp bir kenara <b>koymalıdır</b>.” (Özne: Biri)<br/>Eğer edilgen isteniyorsa: “Bütün yemekler hazırlanıp bir kenara <b>koyulmalıdır</b>.” (Özne: Bütün yemekler)",
         "Donem": 4
     },
     {
@@ -937,6 +983,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Cümlede sıralanan öğelerden ('çay, peynir, ekmek') hepsi için ortak bir yüklem kullanılmıştır ('yedi'). Ancak 'çay' içilen bir madde olduğu için 'yemek' fiiliyle kullanılamaz. Bu durum, <b>yüklem eksikliğine</b> yol açar.<br/>Doğru kullanım: \"Kahvaltıda babasıyla birlikte çay <b>içti</b>, peynir, ekmek yedi.” Cümlenin <b>anlam bütünlüğünü</b> sağlamak için çay için uygun olan yüklemin (içti) eklenmesi gerekir.",
         "Donem": 4
     },
     {
@@ -957,6 +1004,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Cümlede eylemlerin <b>mantıksal sıralamasında hata</b> yapılmıştır. Yumurta kırmak (daha kolay eylem) yemek yapmaktan (daha zor eylem) önce gelmelidir.<br/>'Bırakın X’i, Y bile Z yapamaz' yapısında Y, X’ten daha az beklenen ya da daha zor bir eylem olmalıdır.<br/>Cümle, 'yumurta kırmayı' daha zor, 'yemek yapmayı' daha kolay bir eylemmiş gibi sıralamıştır.<br/>Doğru kullanım: \"O bırakın <b>yemek yapmayı</b>, yumurta bile kıramaz.\" (Zor olandan kolaya doğru mantıksal ilerleyiş sağlanmıştır.)",
         "Donem": 4
     },
     {
@@ -977,6 +1025,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "<b>Tamlama uyumsuzluğu</b>, genellikle bir sıfat tamlaması ile bir isim tamlamasının ortak bir tamlananı paylaşmaya çalışması sonucu ortaya çıkar.<br/>Örneğin: 'Askeri ve devlet okulları...' Bu ifadede 'askeri' bir sıfat tamlaması kurarken, 'devlet' ise bir isim tamlaması kurar. 'Askeri okulları' doğru bir tamlama yapısıyken, 'devlet okulları' da doğru bir yapıdır. Ancak her iki tamlayan (askeri ve devlet) tek bir tamlananı (okulları) paylaşamaz.<br/>Doğru kullanım: 'Askerî <b>okullar</b> ve devlet okulları...' şeklinde tamlananın (okul) tekrarlanması ya da uygun eklerin ayrılması gerekir.",
         "Donem": 4
     },
     {
@@ -997,6 +1046,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Bu tür sorularda anlatım bozukluğu olmayan cümlenin tespiti istenir. Anlatım bozukluğu olmaması için cümlenin hem <b>anlamsal</b> (gereksiz sözcük, çelişki, mantık hatası) hem de <b>yapısal</b> (eksik öge, tamlama hatası, özne-yüklem uyuşmazlığı) açıdan kusursuz olması gerekir. Doğru şık, bu ilkelerin tamamına uyan, açık ve duru olan cümledir.",
         "Donem": 4
     },
     {
@@ -1017,6 +1067,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Anlatım bozukluğu olmayan cümle, dil bilgisi kurallarına, mantık sırasına ve <b>duruluk</b> ilkesine (gereksiz sözcükten kaçınma) tamamen uyan cümledir. Bu cümlede hiçbir öge eksikliği (özne, nesne, tümleç, yüklem) veya gereksiz sözcük kullanımı bulunmaz.",
         "Donem": 4
     },
     {
@@ -1037,6 +1088,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Gereksiz sözcük kullanımı, bir kelimenin anlamının cümlede zaten var olan başka bir kelime veya ek tarafından karşılanması durumudur. Bu, <b>duruluk</b> ilkesinin ihlalidir.<br/>Örnek: \"Ona <b>gizli sırlarımı</b> açtım.\" (Sır zaten gizlidir, 'gizli' gereksizdir.) veya \"<b>Hâlâ</b> eski komşularıyla <b>görüşüyor</b>.\" ('Hâlâ' ve 'eski' ifadelerinden birinin ya da 'görüşüyor' ile kastedilen eylemin tekrarlanması.)",
         "Donem": 4
     },
     {
@@ -1057,6 +1109,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Cümledeki anlatım bozukluğu, <b>gereksiz sözcük kullanımından</b> kaynaklanmaktadır. 'İade etmek' fiili zaten <b>geri verme</b> anlamını taşır. Bu nedenle, 'geri' sözcüğünün kullanılması anlamı pekiştirmeyip, tekrara düşülmesine sebep olur.<br/>Doğru kullanım: \"Kütüphaneden aldığı kitapları <b>iade etti</b>.\"",
         "Donem": 4
     },
     {
@@ -1077,6 +1130,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Bu tip sorularda genellikle ortak kullanılan bir ögenin, diğer cümlenin yapısına uymaması söz konusudur. Eğer seçeneklerde <b>dolaylı tümleç (yer tamlayıcısı) eksikliği</b> varsa, bu yaygın bir hata türüdür.<br/>Örnek: “Arkadaşına güvenir ve her zaman <b>destek olurdu</b>.”<br/>'Güvenir' fiili '-e' yönelme hâl ekini alan bir tümleç alır (Arkadaşına güvenir). Ancak 'destek olmak' fiili de bu tümlece ihtiyaç duyar. 'Destek olurdu' fiili 'kime destek olurdu?' sorusuna cevap bekler.<br/>Doğru kullanım: “Arkadaşına güvenir ve her zaman <b>ona</b> destek olurdu.” (İkinci cümleye 'ona' dolaylı tümleci eklenmelidir.)",
         "Donem": 4
     },
     {
@@ -1097,6 +1151,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Anlatım bozukluğu genellikle, anlamca birbirine yakın ancak kullanım alanları farklı olan kelimelerin karıştırılmasından kaynaklanır. Bu, <b>açıklık</b> ve <b>doğruluk</b> ilkelerinin ihlalidir.<br/>Örnek: 'Nedeniyle' yerine 'sayesinde' kullanmak (Sayesinde olumlu durumlar için kullanılırken, olumsuz bir durumu belirtmek için 'nedeniyle' veya 'yüzünden' kullanılmalıdır.)",
         "Donem": 4
     },
     {
@@ -1117,6 +1172,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki anlatım bozukluğu, <b>yanlış ek kullanımından</b> kaynaklanmaktadır. '-deki' eki, genellikle bir sıfat türetir. 'Batılı ülkelerdeki' ifadesi, 'ilerlemesi' ismini tamlayacak şekilde kurulmamıştır. Ya bir tamlama (possessive structure) ya da basit bir yer belirten ifade olmalıdır.<br/>Doğru kullanım: \"<b>Batılı ülkelerin</b> teknoloji alanında ilerlemesi...\" (Tamlayan eklenerek isim tamlaması kurulur.)<br/>Veya: \"<b>Batılı ülkelerde</b> teknoloji alanındaki ilerleme...\" (Basit yer ve sıfat yapısı kullanılır.)",
         "Donem": 4
     },
     {
@@ -1137,6 +1193,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Sözcüğün yanlış anlamda kullanılması, cümlede kastedilen anlamı tam olarak karşılamayan bir kelimenin seçilmesi demektir. Örneğin 'küçümsemek' (değer vermemek) yerine 'azımsamak' (az bulmak) kelimesinin kullanılması.<br/>Bu hata, <b>açıklık</b> ilkesini zedeler, çünkü okuyucu yanlış kelime yüzünden farklı bir anlam çıkarabilir.",
         "Donem": 4
     },
     {
@@ -1157,6 +1214,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Cümledeki 'yeni' sözcüğü, <b>yanlış yerde kullanılmıştır</b>. 'Yeni' kelimesi 'durağa' kelimesini niteler gibi görünüyor ('yeni durak'), oysa cümlenin bağlamında kastedilen, eylemin 'yeni (az önce)' gerçekleştiğidir.<br/>'Yeni' sözcüğü fiili (varmıştım) nitelemelidir.<br/>Doğru kullanım: \"Ben durağa <b>yeni varmıştım</b> ki, otobüs de geldi.\"",
         "Donem": 4
     },
     {
@@ -1177,6 +1235,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Özne eksikliği, genellikle birden çok yargı bildiren cümlelerde (sıralı veya bağlı cümlelerde) ilk cümlenin öznesinin ikinci cümleye uymaması durumunda ortaya çıkar.<br/>Örnek: 'Kimseye zarar verilmedi, [herkes] <b>memnun edildi</b>.'<br/>Zarar verilmedi (edilgen çatı, belirsiz özne) cümlesindeki özne ikinci cümleye (aktif çatı) aktarılamaz. İkinci cümleye kimin memnun edildiğini belirten bir özne ('herkes') eklenmelidir.",
         "Donem": 4
     },
     {
@@ -1197,6 +1256,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Cümlede birbirinin anlamını geçersiz kılan sözcüklerin kullanılmasıdır. Bu, anlama dayalı anlatım bozukluğudur. Bir cümlede <b>kesinlik</b> (örneğin 'tamı tamına', 'mutlaka') bildiren bir ifade ile <b>olasılık</b> (örneğin 'aşağı yukarı', 'belki') bildiren bir ifadenin bir arada kullanılması çelişki yaratır.",
         "Donem": 4
     },
     {
@@ -1217,6 +1277,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Anlatım bozukluğu olmayan cümle, gereksiz sözcük bulundurmayan (duru), anlamca açık olan ve dil bilgisi açısından tam olan cümledir. Bu cümlede sözcüklerin yerleşimi doğru, ögeler eksiksiz ve dilin temel mantığına aykırı bir durum yoktur.",
         "Donem": 4
     },
     {
@@ -1237,6 +1298,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Anlatım bozukluğu genellikle deyimlerin yanlış anlamda veya yanlış yapıda kullanılmasından kaynaklanabilir. Deyimler kalıplaşmış sözlerdir ve değiştirilemezler.<br/>Eğer bir deyimin parçası değiştirilirse veya cümlenin anlamına uygun olmayan bir deyim kullanılırsa (örneğin, sevinçli bir durum için üzüntü ifade eden bir deyim kullanmak), anlatım bozukluğu oluşur.",
         "Donem": 4
     },
     {
@@ -1257,6 +1319,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Anlatım bozuklukları temel olarak <b>anlama dayalı</b> ve <b>yapıya dayalı</b> olmak üzere ikiye ayrılır.<br/>Anlama dayalı bozukluklar: Çelişkili ifadeler, mantık hatası, gereksiz sözcük, yanlış anlamda sözcük, deyim yanlışlığı.<br/>Yapıya dayalı bozukluklar (Cevap): <b>Özne eksikliği</b>, yüklem eksikliği, tamlama yanlışlığı, çatı uyuşmazlığı gibi dil bilgisel hatalardır. Özne eksikliği cümlenin anlamından değil, gramer yapısından kaynaklanan bir bozukluktur ve anlama dayalı değildir.",
         "Donem": 4
     },
     {
@@ -1277,6 +1340,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Cümledeki 'ücretsiz' sözcüğü, <b>yanlış yerde kullanılmıştır</b>. Sözcük, 'müze'yi niteleyerek 'ücretsiz müze' anlamı katmaktadır, oysa kastedilen eylemin 'ücretsiz' yapılmasıdır (girişin ücretli olmaması).<br/>'Ücretsiz' kelimesi 'girmemize' eylemini nitelemelidir.<br/>Doğru kullanım: \"Müzeye <b>ücretsiz girmemize</b> izin verilmedi.\"",
         "Donem": 4
     },
     {
@@ -1297,6 +1361,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Bilimsel yazılar, okuyucuyu bilgilendirmeyi, bir konuyu öğretmeyi ve nesnel gerçekleri aktarmayı amaçlar. Bu nedenle, <b>nesnellik</b> ve <b>bilgi aktarımı</b> esas olan <b>Açıklayıcı Anlatım</b> (Explanatory narration) tekniği kullanılır. Bu teknik, yazarın kişisel görüşlerinden kaçınarak konuyu tarafsız bir şekilde izah etmesini sağlar.",
         "Donem": 4
     },
     {
@@ -1317,6 +1382,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Makaleler, röportajlar, haber metinleri ve ansiklopedi maddeleri gibi metinler temel olarak okuyucuya <b>nesnel bilgi vermek</b> ve bir konuyu <b>açıklamak</b> amacıyla yazılır. Bu tür bilgilendirici metinlerde kullanılan temel anlatım tekniği <b>Açıklayıcı Anlatım</b>'dır.",
         "Donem": 4
     },
     {
@@ -1337,6 +1403,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Bir olayın akışını, yani <b>ne zaman</b>, <b>nerede</b>, <b>kimler arasında</b> ve <b>nasıl</b> gerçekleştiğini bir zaman zinciri içinde, hareketliliğe odaklanarak aktarmaya yarayan anlatım tekniğine <b>Öyküleyici Anlatım</b> (Narrative narration) denir.",
         "Donem": 4
     },
     {
@@ -1357,6 +1424,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "<b>Betimleyici Anlatım</b> (Descriptive narration), diğer adıyla <b>tasvir etme</b>, varlıkların, durumların, bir manzaranın ya da bir insanın <b>fiziki yapısının</b> ve ruh halinin okuyucunun zihninde canlanacak şekilde detaylıca aktarılmasında kullanılan temel anlatım tekniğidir.",
         "Donem": 4
     },
     {
@@ -1377,6 +1445,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Yazma süreci genellikle <b>Planlama</b>, <b>Taslak Oluşturma</b> (Yazma), <b>Gözden Geçirme</b> ve <b>Düzeltme/Yeniden Yazma</b> gibi temel aşamalardan oluşur. Ezberleme, yazılı metin oluşturma sürecinin bir aşaması değildir.",
         "Donem": 4
     },
     {
@@ -1397,6 +1466,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Yazılı anlatımda kullanılacak planlar genellikle konunun yapısına göre belirlenir. Bu plan türleri arasında düşüncelerin neden-sonuç ya da önem sırasına göre düzenlendiği <b>Mantıksal Plan</b> (Logical Plan), Zamansal Plan, Mekânsal Plan ve Duygusal Plan yer alır.",
         "Donem": 4
     },
     {
@@ -1417,6 +1487,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "<b>Açıklayıcı Anlatım</b>, okuyucuya bir konu hakkında <b>bilgi vermek</b>, öğretmek, aydınlatmak ve bir kavramı ya da olguyu <b>nesnel</b> bir bakış açısıyla izah etmek amacıyla kullanılan anlatım türüdür.",
         "Donem": 4
     },
     {
@@ -1437,6 +1508,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Yazılı anlatımın sözlü anlatımdan en önemli farkı, yazar ile okuyucu arasında <b>zaman farkının</b> olmasıdır. Bu nedenle yazılı anlatımda okuyucudan <b>anında geribildirim</b> almak mümkün değildir. Yazılı anlatımın kesin ve kalıcı olması, tekrar gözden geçirilebilir olması doğru özellikleridir.",
         "Donem": 4
     },
     {
@@ -1457,6 +1529,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Yazıda ele alınacak konu <b>duygu</b>, <b>hayal</b> ve <b>heyecan</b> gibi sübjektif, içsel ögeleri içeriyorsa, konunun akışını bu hissiyatlara göre düzenlemek için <b>Duygusal Plan</b> tercih edilir. Bu plan, şiir, deneme gibi türler için uygundur.",
         "Donem": 4
     },
     {
@@ -1477,6 +1550,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Yazma süreci; <b>planlama</b>, <b>taslak oluşturma</b> ve <b>düzeltme/gözden geçirme</b> gibi temel aşamaları kapsar. Yazılan metnin içeriğini zihinde tutmayı ifade eden <b>Ezberleme</b>, yazılı anlatımın üretim ya da geliştirilmesi aşamalarından biri değildir.",
         "Donem": 4
     },
     {
@@ -1497,6 +1571,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Olay anlatan yazıların (öyküleyici metinler) klasik yapısı üç temel bölümden oluşur: <b>Serim</b> (giriş, olay ve karakterlerin tanıtıldığı kısım), <b>Düğüm</b> (olayın geliştiği ve çatışmanın yükseldiği kısım) ve <b>Çözüm</b> (olayın sonuçlandığı kısım).",
         "Donem": 4
     },
     {
@@ -1517,6 +1592,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "İyi bir yazının temel ilkeleri arasında <b>Açıklık</b> (anlaşılırlık), <b>Doğruluk</b>, <b>Sadelik</b> ve <b>Tutarlılık</b> bulunur. <b>Öznelik</b> (Subjektiflik), özellikle bilgi verme amaçlı akademik ve resmi yazılarda kaçınılması gereken bir durumdur ve iyi yazma ilkeleri arasında yer almaz; bunun yerine <b>Nesnellik</b> aranır.",
         "Donem": 4
     },
     {
@@ -1537,6 +1613,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "<b>Tartışmacı Anlatım</b>, okuyucuyu belirli bir fikre inandırmak, kendi tezini <b>desteklemek</b> ve karşıt görüşleri çürütmek amacıyla <b>ispatlama</b> yöntemlerinin (örnek, tanık gösterme, karşılaştırma) kullanıldığı anlatım türüdür.",
         "Donem": 4
     },
     {
@@ -1557,6 +1634,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Cümle, etraftaki varlıkların (ağaçlar, çimenler) görsel özelliklerini (yemyeşil) okuyucunun zihninde canlandıracak şekilde <b>tasvir etmektedir</b>. Bu, hareketsiz bir 'an'ı resmetme amacı taşıyan <b>Betimleyici Anlatım</b> tekniğinin kullanıldığını gösterir.",
         "Donem": 4
     },
     {
@@ -1577,6 +1655,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Betimleyici anlatım, bir varlığın ya da durumun sözcüklerle resmedilmesi anlamına gelir. Bu kavramın eş anlamlısı olarak <b>Tasvir</b> anlatımı kavramı da sıklıkla kullanılmaktadır. Tasvir etmek, varlıkların ayırt edici özelliklerini sunmaktır.",
         "Donem": 4
     },
     {
@@ -1597,6 +1676,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Makaleler, bilimsel ve toplumsal konularda <b>nesnel bilgi</b> sunmak ve analiz yapmak için yazılırlar. Bu amaçla, okuyucuyu bilgilendirmeyi esas alan ve <b>nesnel gerçekliği</b> temel alan <b>Açıklayıcı Anlatım</b> (Explanatory narration) türü tercih edilmelidir.",
         "Donem": 4
     },
     {
@@ -1617,6 +1697,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "İki farklı nesne, kavram, fikir veya yöntemin benzer ve farklı yönlerini, yani <b>üstün ve zayıf yönlerini</b> ortaya koyarak okuyucuya bilgi aktarmak için kullanılan düşünceyi geliştirme yöntemi <b>Karşılaştırma</b>'dır (Comparison).",
         "Donem": 4
     },
     {
@@ -1637,6 +1718,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Cümle, şehrin görsel detaylarını (dar sokaklar, rengârenk evler, masmavi deniz) duyularımıza hitap edecek şekilde aktarmakta, yani <b>görsel tasvir</b> yapmaktadır. Bu teknik, bir anlık durumu resmetmeyi amaçladığı için <b>Betimleyici Anlatım</b> olarak adlandırılır.",
         "Donem": 4
     },
     {
@@ -1657,6 +1739,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Temel amacı bir konu hakkında <b>ayrıntılı bilgi vermek</b> ve izahatta bulunarak okuyucunun konuyu tam olarak anlamasını sağlamak olan, nesnel gerçeklere dayanan anlatım türü <b>Açıklayıcı Anlatım</b>'dır.",
         "Donem": 4
     },
     {
@@ -1677,6 +1760,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Canlı ya da cansız varlıkların kendilerine has ve <b>belirgin özelliklerini</b> (fiziki görünüş, durum, nitelik) sözcüklerle <b>tasvir</b> ederek okuyucunun zihninde bir izlenim yaratmayı amaçlayan anlatım türü <b>Betimleyici Anlatım</b>'dır.",
         "Donem": 4
     },
     {
@@ -1697,6 +1781,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Herhangi bir konu hakkındaki <b>görüşlerin ve fikirlerin</b> belirli bir sıra ve mantık çerçevesinde sunulması için yapılan hazırlığa <b>Kompozisyon Planı</b> denir. <br>Bu plan, yazılı anlatımın temelini oluşturur ve genellikle <b>Giriş</b> (konunun ortaya konulduğu bölüm), <b>Gelişme</b> (fikirlerin detaylandırılıp desteklendiği bölüm) ve <b>Sonuç</b> (ana fikrin özetlendiği veya varılan yargının belirtildiği bölüm) olmak üzere üç ana kısımdan oluşur. Bu düzen, anlatımın akıcı, tutarlı ve etkili olmasını sağlar.",
         "Donem": 4
     },
     {
@@ -1717,6 +1802,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "<b>Karşılaştırmalı Anlatım</b>, iki ya da daha fazla kavram, varlık, olay ya da fikir arasındaki <b>benzerlik ve farklılıkları</b> ortaya koymak için kullanılır.<br>I. Doğrudur. Karşılaştırma, mantıksal çıkarım yapmaya yardımcı olduğu için sıklıkla <b>düşünce yazılarında</b> (makale, deneme) kullanılır.<br>II. Doğrudur. Karşılaştırma yapabilmek için ilgili konudaki <b>çeşitli görüşler</b> veya karşılaştırılacak unsurlar bir arada bulunmalıdır.<br>III. Yanlıştır. 'Hikâye etme tekniği' <b>Öyküleyici Anlatım</b>'dır.<br>IV. Yanlıştır. 'Tasvir' odaklı anlatım <b>Betimleyici Anlatım</b>'a aittir.<br>Buna göre, karşılaştırmalı anlatımın özellikleri arasında I ve II numaralı maddeler yer alır.",
         "Donem": 4
     },
     {
@@ -1737,6 +1823,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Paragrafta, mitlerin kutsal merasimlerdeki rolü ve bunun tiyatro, dans ve şarkıların ortaya çıkışındaki etkisi hakkında <b>nesnel bilgiler</b> sunulmaktadır. Metnin amacı okuyucuya bir konu hakkında <b>bilgi vermek</b>, onu aydınlatmak ve konuyu anlaşılır hale getirmektir. <br>Bu türde yazar kendi görüşünü dayatmaz, sadece konuyu izah eder. Bu anlatım biçimi <b>Açıklayıcı Anlatım</b> (Expository Expression) olarak adlandırılır.",
         "Donem": 4
     },
     {
@@ -1757,6 +1844,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Alanında ün yapmış kişilerin hayatlarının bir başkası tarafından anlatıldığı yazılı anlatım türü <b>Biyografi</b> (yaşam öyküsü) olarak adlandırılır. Biyografi, ünlü bir kişinin hayatının önemli olaylarını ve başarılarını kronolojik sırayla ve genellikle tarafsız bir dille kaleme alır.",
         "Donem": 4
     },
     {
@@ -1777,6 +1865,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Belirli bir konu üzerinde yapılan araştırmaların veya çalışmaların sonuçlarını, analizlerini ve önerilerini sunmak amacıyla <b>ekip veya uzmanlar tarafından hazırlanan yazılara</b> genel olarak <b>Rapor</b> adı verilir. Eğer raporu hazırlayan kişiler bir kurul veya ekip ise, bu spesifik olarak <b>Heyet Raporu</b> (veya Komisyon Raporu) olarak da adlandırılabilir.",
         "Donem": 4
     },
     {
@@ -1797,6 +1886,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Dilekçeler, resmî kurumlara sunulan form yazılar olduğu için <b>ciddi ve saygılı bir dil</b> kullanılmalıdır. Uyulması gereken temel kurallardan biri <b>imza ve ad/soyadının sağ alt köşede</b> bulunmasıdır. Dilekçede uyulmaması gereken bir kural ise, <b>samimi ve günlük konuşma dilini</b> kullanmaktır. (Yanlış olan kural genellikle resmiyete aykırı bir uygulamadır.)",
         "Donem": 4
     },
     {
@@ -1817,6 +1907,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Ani gelişen veya sonradan tekrar edilmesi mümkün olmayan durumların, katılımcıların veya şahitlerin ifadelerine dayanarak kayıt altına alınması ve resmileştirilmesi işlemine <b>Tutanak</b> denir. Tutanaklar, olayın gerçekleştiği anda durumu <b>belgeleme</b> ve <b>resmiyet kazandırma</b> amacı taşır.",
         "Donem": 4
     },
     {
@@ -1837,6 +1928,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Dilekçe, resmî makamlara hitaben yazılan bir form yazıdır. Dilekçelerde imza ve ad/soyad, yazının muhatabına sunulduğu bölümün ardından, genellikle sayfanın <b>sağ alt köşesinde</b> yer alır. Bu kurala aykırı bir ifade (örneğin, imzanın sol alt köşede yer aldığı iddiası) <b>yanlıştır</b>.",
         "Donem": 4
     },
     {
@@ -1857,6 +1949,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Alanında uzman kişilerin belirli bir durum, inceleme veya araştırma hakkında gözlem, analiz ve sonuçlarını sistemli bir şekilde sunmak amacıyla hazırladıkları form yazı türü <b>Rapor</b> olarak adlandırılır. Raporlar, genellikle <b>bilgi verme ve değerlendirme</b> amacı taşır.",
         "Donem": 4
     },
     {
@@ -1877,6 +1970,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Mektup türü, <b>özel, edebi ve resmî mektuplar</b> gibi farklı çeşitleri barındırır. Eğer seçeneklerde mektupların sadece resmi amaçlar için yazıldığı gibi kısıtlayıcı bir ifade bulunuyorsa, bu <b>yanlıştır</b>. Mektuplar aynı zamanda duygu ve düşünceleri paylaşmak için de kullanılır.",
         "Donem": 4
     },
     {
@@ -1897,6 +1991,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Bir kişinin kendi yaşam öyküsünü, kendi ağzından ve bakış açısından anlattığı yazı türüne <b>Otobiyografi</b> (Öz Yaşam Öyküsü) denir. Bu türde yazar, hem anlatıcı hem de konu (özne) durumundadır.",
         "Donem": 4
     },
     {
@@ -1917,6 +2012,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Bir durumun ya da işlemin gerçekleştiği şekliyle kayda geçirilerek, ona gelecekte kullanılabilecek <b>resmiyet kazandırılması</b> maksadıyla yazılan form yazı türü <b>Tutanak</b> olarak adlandırılır.",
         "Donem": 4
     },
     {
@@ -1937,6 +2033,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Tanınmış kişilerin hayat hikayelerinin, o kişi haricinde, <b>bir başkası tarafından</b> araştırılıp anlatıldığı yazı türü <b>Biyografi</b>dir (Yaşam Öyküsü). Bu türde anlatım üçüncü kişi ağzından yapılır.",
         "Donem": 4
     },
     {
@@ -1957,6 +2054,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Mektuplarda mektubun kaleme alındığı yer ve zaman bilgisi, resmiyet gereği veya okuyucuyu bilgilendirmek amacıyla belirtilmelidir. Bu bilgi, genellikle mektubun başlangıcında <b>sağ üst köşede yer ve tarih</b> şeklinde bulunur.",
         "Donem": 4
     },
     {
@@ -1977,6 +2075,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Resmî makamlara hitaben yazılan, genellikle bir talep, şikâyet veya bildiri içeren standart formattaki yazı türü <b>Dilekçe</b> (arzuhal) olarak bilinir ve resmî mektupların en yaygın örneğidir.",
         "Donem": 4
     },
     {
@@ -1997,6 +2096,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Belirli bir gündemle yapılan toplantılarda konuşulanların, karara bağlanan konuların ve katılımcıların beyanlarının resmiyet kazanması amacıyla hazırlanan form yazı türü <b>Toplantı Tutanağı</b> veya sadece <b>Tutanak</b> olarak adlandırılır.",
         "Donem": 4
     },
     {
@@ -2017,6 +2117,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Form öz geçmiş (CV), kişinin mesleki yetkinliklerini ve deneyimlerini sunar. Öz geçmişlerde <b>eğitim</b>, <b>iş deneyimi</b> ve <b>iletişim bilgileri</b> yer alır, ancak kişinin <b>siyasi görüşleri</b> veya <b>gereksiz kişisel detaylar</b> (medeni durumun detayı gibi) profesyonel amaçlarla hazırlanmış bir form öz geçmişte yer almaz.",
         "Donem": 4
     },
     {
@@ -2037,6 +2138,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Dilekçelerde imza ve ad soyad sağ alt köşede yer alırken, dilekçe sahibinin <b>açık adresi ve iletişim bilgileri</b> veya sunulan <b>Ekler</b> listesi genellikle yazının <b>sol alt köşesinde</b> belirtilir.",
         "Donem": 4
     },
     {
@@ -2057,6 +2159,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Tutanak, bir durumu veya olayı resmî olarak kayda geçiren belgedir. Tutanak ile ilgili doğru olan temel bir kural, belgenin içeriğinin geçerli ve onaylı sayılması için olaya şahit olan veya ilgili olan <b>tüm katılımcılar/şahitler tarafından imzalanması</b> gerektiğidir.",
         "Donem": 4
     },
     {
@@ -2077,6 +2180,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Osmanlı Türkçesinde kullanılan <b>'arzuhal'</b> kavramı, günümüzdeki <b>Dilekçe</b> yazı türünü karşılamaktadır. Arzuhaller, vatandaşların bir istek veya şikayetlerini <b>resmî makamlara sunmalarına</b> yarayan form yazılardır.",
         "Donem": 4
     },
     {
@@ -2097,6 +2201,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Belirli bir konu üzerinde <b>alan uzmanları</b> tarafından yürütülen araştırmaların, analizlerin ve sonuçların sistemli bir şekilde <b>yazılı olarak sunulmasıyla</b> oluşturulan yazılara <b>Rapor</b> adı verilir. Raporlar, bilgilendirme, değerlendirme ve öneri sunma işlevi görür.",
         "Donem": 4
     },
     {
@@ -2117,6 +2222,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Form yazılar, belirli bir amaç, yapı ve kurallar çerçevesinde yazılan, resmî nitelik taşıyan belgelerdir (Dilekçe, Tutanak, Rapor). <b>Roman</b>, <b>Şiir</b> veya <b>Deneme</b> gibi edebi türler, standart resmî formata bağlı olmadıkları ve kurgusal/edebi amaç taşıdıkları için <b>form yazılar arasında yer almaz</b>.",
         "Donem": 4
     },
     {
@@ -2137,6 +2243,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Paragrafta, Ömer Seyfettin'in doğum yeri ve tarihi, eğitim hayatı ve edebi kariyeri gibi yaşamına dair önemli bilgiler verilmektedir. Bir kişinin hayatının bir başkası tarafından anlatıldığı bu tür, <b>Biyografi</b> anlatım türüne örnektir.",
         "Donem": 4
     },
     {
@@ -2157,6 +2264,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Marco Polo, İbni Batuta (İbn Battuta) ve Puşkin gibi isimler, gittikleri yerleri, gördükleri kültürleri ve yaşadıkları olayları anlatan <b>gezi yazıları</b> (seyahatnameler) ile ün kazanmışlardır. Gezi yazısı, yazarın gezdiği yerlerin kültürel, coğrafi ve sosyal özelliklerini okuyucuya aktardığı <b>öğretici yazı</b> türüdür.",
         "Donem": 4
     },
     {
@@ -2177,6 +2285,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Bu tanım <b>makale</b> türüne aittir. Makale, bir konu hakkında bilgi vermek, bir görüşü desteklemek veya bir araştırmanın sonuçlarını açıklamak amacıyla yazılan, genellikle <b>kanıt ve belgelere dayanan</b>, ciddi ve <b>nesnel</b> bir üslup kullanan gazete veya dergi yazılarıdır. Temel amacı bilgi vermek ve <b>inandırmak</b>tır.",
         "Donem": 4
     },
     {
@@ -2197,6 +2306,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Deneme, yazarın kişisel görüşlerini, samimi ve içten bir üslupla ortaya koyduğu türdür. Deneme yazarı, ortaya koyduğu fikirleri <b>ispatlama amacı gütmez</b> ve kesin hükümler vermekten kaçınır. Bu nedenle, deneme yazarının nesnel kanıtlara dayanarak görüşünü ispatlamaya çalışması deneme türünün bir özelliği <b>değildir</b>.",
         "Donem": 4
     },
     {
@@ -2217,6 +2327,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Paragrafta boş bırakılan yere <b>fıkra</b> kelimesi getirilmelidir. Fıkra, bir yandan <b>güldürücü, kısa hikâyeler</b> anlamını taşırken; diğer yandan da güncel olayları veya konuları ele alan, yazarın kişisel görüşlerini samimi bir üslupla sunduğu <b>köşe yazısı</b> türünün adıdır. Köşe yazısı (fıkra), günlük olayların farklı yönlerini konu edinir.",
         "Donem": 4
     },
     {
@@ -2237,6 +2348,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Bu özellik <b>Anı (Hatıra)</b> türüne aittir. Anı, yazarın kendi başından geçen, yaşadığı dönemi, tanıklık ettiği olayları ve tecrübeleri anlattığı öğretici bir yazı türüdür. Özellikle <b>devlet adamları ve siyasetçilerin anıları</b>, tarihi olaylara ışık tuttuğu için <b>belge niteliği</b> taşıyabilir ve tarihe kaynaklık eder.",
         "Donem": 4
     },
     {
@@ -2257,6 +2369,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Marco Polo, İbni Batuta ve Puşkin gibi isimler, gezdikleri yerlerdeki izlenimlerini ve gözlemlerini aktardıkları <b>Gezi Yazısı</b> (Seyahatname) türünde eserler vermişlerdir. Bu tür, yazarın gezdiği yerlerin kültürel ve coğrafi özelliklerini okuyucuya aktarır.",
         "Donem": 4
     },
     {
@@ -2277,6 +2390,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "<b>Frankfurt Seyahatnamesi</b> isimli eser, Türk edebiyatının önemli şair ve yazarlarından olan <b>Ahmet Haşim</b>'e aittir. Bu eser, yazarın Frankfurt ve çevresindeki izlenimlerini aktardığı bir <b>gezi yazısı</b> örneğidir.",
         "Donem": 4
     },
     {
@@ -2297,6 +2411,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Makale</b> getirilmelidir. Makale, bir <b>fikir yazısı</b> olup, yazarın ileri sürdüğü düşünceyi kanıtlamayı amaçlar. Bu sebeple makalede kullanılan üslup <b>ağır başlı, ciddi</b> ve nesnel bir nitelik taşır. Bu özellikleri ile deneme ve fıkradan ayrılır.",
         "Donem": 4
     },
     {
@@ -2317,6 +2432,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Evliya Çelebi, Reşat Nuri Güntekin ve Ahmet Haşim gezi yazısı türünde eserleriyle tanınırken, <b>Namık Kemal</b> daha çok tiyatro, roman ve siyasi makaleleriyle bilinir. Gezi yazısı türünde öne çıkan bir eseri <b>yoktur</b>.",
         "Donem": 4
     },
     {
@@ -2337,6 +2453,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Verilen tanım <b>röportaj</b> türüne aittir. Röportaj (Reportage), bir konu hakkında bilgi toplamak, o konuyla ilgili kişilerle <b>görüşmeler yapmak</b> ve toplanan bilgileri belirli bir düzen dâhilinde okuyucuya sunmak amacıyla kaleme alınan bir yazı türüdür.",
         "Donem": 4
     },
     {
@@ -2357,6 +2474,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Eleştiri (Tenkit), bir eseri veya fikri incelerken <b>nesnel ölçütlere</b> dayanmayı gerektirir. Bir eleştiri yazısının amacı, eserin değerini belirlemek ve okuyucuya rehberlik etmektir. Eleştirinin özelliklerinden biri, yalnızca duygusal tepkilere dayanmak veya kişisel beğeniyi mutlak doğru kabul etmek <b>değildir</b>; aksine, <b>mantıksal temellere</b> oturmalıdır.",
         "Donem": 4
     },
     {
@@ -2377,6 +2495,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Bir kişinin kendi başından geçen, <b>yaşadığı olayları ve tecrübeleri</b> kaleme aldığı yazı türü <b>Anı (Hatıra)</b> olarak adlandırılır. Anılar, yazarın geçmişi ve tanık olduğu dönemi aktarması açısından önem taşır.",
         "Donem": 4
     },
     {
@@ -2397,6 +2516,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Bir fikri, bir düşünceyi ya da bir eseri <b>bütün yönleri ile inceleyip değerlendirme</b> amacını taşıyan öğretici yazı türü <b>Eleştiri</b> (Tenkit) olarak adlandırılır. Eleştirinin temel hedefi, eserin değerini ve etkisini belirlemektir.",
         "Donem": 4
     },
     {
@@ -2417,6 +2537,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Akademik çalışmalar olarak yayınlanan makalelerde, iddiaların ve alıntıların kaynağını gösteren <b>Kaynakça (Referanslar)</b> bölümü bulunmak zorundadır. Bu bölüm, bilimsel yönteme uygunluk ve <b>güvenilirlik</b> açısından gazete/dergi makalelerinden farklıdır.",
         "Donem": 4
     },
     {
@@ -2437,6 +2558,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "<b>Deneme</b>, yazarın günlük hayattan alınan herhangi bir konu üzerinde, tamamen <b>kişisel görüş ve düşünceleriyle</b> kaleme aldığı yazı türüdür. En belirgin özelliği, yazarın ortaya koyduğu fikirleri <b>ispat etme amacı gütmemesidir</b> (ispat amacı güdülmeden yazılır).",
         "Donem": 4
     },
     {
@@ -2457,6 +2579,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Fıkra (Köşe Yazısı) ile deneme arasındaki en belirgin fark, <b>konuların güncel olmasıdır</b>. Fıkra, genellikle <b>güncel siyasi veya sosyal olayları</b> ele alır ve yazıldığı dönemin koşullarıyla sınırlıdır. Deneme ise zamansız, evrensel ve felsefi konuları işleyebilir.",
         "Donem": 4
     },
     {
@@ -2477,6 +2600,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "<b>Mülakat</b> (Söyleşi) türünde, görüşmenin amacına ulaşması ve gerekli bilgilerin alınabilmesi için yazarın (muhabirin) görüşme yapacağı kişiyle ilgili bilgi toplaması ve <b>önceden soruları hazırlaması</b> gerekir. Röportaj da benzer şekilde hazırlık gerektirir.",
         "Donem": 4
     },
     {
@@ -2497,6 +2621,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Dünya edebiyatında deneme (essay) türünün ilk temsilcisi ve kurucusu, 16. yüzyılda yaşamış Fransız yazar <b>Michel de Montaigne</b>'dir. Montaigne, bu türe 'Essais' (Denemeler) adını vermiştir.",
         "Donem": 4
     },
     {
@@ -2517,6 +2642,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Deneme türünün özellikleri: I. Yazar <b>samimi ve içten</b> (subjektif) bir üslup kullanır. II. <b>Kişisel deneyimlerden</b> ve gözlemlerden faydalanılır. IV. Konu sınırlaması <b>yoktur</b>, her konuda yazılabilir.<br/>III. madde yanlıştır. Denemede bir tezi kanıtlamak için bilimsel alıntılara ve ispatlara başvurulmaz; bu özellik <b>makale</b> türüne aittir. Doğru özellikler I, II ve IV'tür.",
         "Donem": 4
     },
     {
@@ -2537,6 +2663,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Durum hikâyesi (ya da Çehov tarzı hikâye), belli bir <b>olay örgüsünden</b> ziyade, günlük yaşamdan bir kesit sunar. Hikâyede merak unsuru geri plandadır; okuyucunun ilgisini çekecek <b>şok edici bir final</b> veya kesin bir sonuca ulaşma kaygısı taşımaz. Bu tarz, atmosferi, ruh hallerini ve izlenimleri yansıtmayı amaçlar.",
         "Donem": 4
     },
     {
@@ -2557,6 +2684,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Batı edebiyatında modern romanın başlangıcı olarak kabul edilen eser, İspanyol yazar <b>Miguel de Cervantes</b>’in <b>Don Kişot</b> isimli yapıtıdır. Bu eser, parodi ve derin karakter analizi açısından çığır açmıştır.",
         "Donem": 4
     },
     {
@@ -2577,6 +2705,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Dünya edebiyatında modern romanın ilk örneği olarak kabul edilen eser, İspanyol yazar <b>Miguel de Cervantes</b> tarafından kaleme alınan <b>Don Kişot</b>’tur. Bu eser 17. yüzyılın başlarında yayınlanmıştır ve klasik roman türünün temellerini atmıştır.",
         "Donem": 4
     },
     {
@@ -2597,6 +2726,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "<b>Taaşşuk-ı Talat ve Fıtnat</b>, Türk edebiyatında Batılı tekniklere uygun olmasa da, yayımlanan <b>ilk yerli roman</b> kabul edilir. Bu eser 1872 yılında <b>Şemseddin Sami</b> tarafından kaleme alınmıştır ve Tanzimat Dönemi’nin önemli eserlerindendir.",
         "Donem": 4
     },
     {
@@ -2617,6 +2747,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Olay hikâyesi (Maupassant tarzı), belirgin bir <b>olay örgüsüne</b> (Serim, Düğüm, Çözüm) dayanır. Bu türde olaylar zinciri, okuyucunun merakını sürekli canlı tutacak şekilde ilerler ve genellikle çarpıcı bir sonuca (çözüm bölümüne) ulaşır. Günlük yaşam izlenimlerini ve ruh hallerini ön plana çıkarma eğilimi <b>durum hikâyesinin</b> özelliğidir.",
         "Donem": 4
     },
     {
@@ -2637,6 +2768,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Romanlar, yazıldıkları dönemin edebi akımlarından etkilenirler. Roman türünü doğrudan etkileyen başlıca akımlar <b>Romantizm</b>, <b>Realizm</b> ve <b>Natüralizm</b>'dir. Ancak, seçeneklerde yer alan bazı akımlar (örneğin Sembolizm veya Fütürizm) daha çok şiir ve sanat alanında yoğunlaşmıştır ve romanın temel yapısını şekillendiren başlıca akımlar arasında sayılmaz.",
         "Donem": 4
     },
     {
@@ -2657,6 +2789,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Türk edebiyatında Batılı anlamda, fakat teknik olarak tam olgunlaşmamış <b>ilk hikâye kitabı</b> (öykü derlemesi), <b>Ahmet Mithat Efendi</b>’ye ait olan <b>Letaif-i Rivayat</b>’tır. Bu eser 1870 yılında yayımlanmıştır ve geleneksel anlatıdan Batılı hikâyeye geçişin ilk örneğidir.",
         "Donem": 4
     },
     {
@@ -2677,6 +2810,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Hikâye türünün Batı edebiyatından alınmasından önce, Divan edebiyatında uzun olay örgülü ve manzum (şiirsel) anlatıya dayanan karşılığı <b>Mesnevi</b>’dir. Mesneviler, aşk, savaş ve macera gibi konuları işleyen uzun hikâyelerdi ve beyitler halinde yazılırdı.",
         "Donem": 4
     },
     {
@@ -2697,6 +2831,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Dünya edebiyatında modern anlamda hikâye türünün (kısa öykü) ilk önemli örneği, İtalyan yazar <b>Giovanni Boccaccio</b>’nun 14. yüzyılda kaleme aldığı <b>Decameron</b> adlı eseridir. Bu eser, veba salgını sırasında anlatılan yüz hikâyeden oluşur.",
         "Donem": 4
     },
     {
@@ -2717,6 +2852,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Hikâye türü dört temel öge üzerine kuruludur: <b>Olay Örgüsü</b> (Plot), <b>Şahıs Kadrosu/Kişiler</b> (Character), <b>Mekân</b> (Setting) ve <b>Zaman</b> (Time). Bu unsurlar hikâyeyi oluştururken, Anlatıcı ve Bakış Açısı da bu unsurları okuyucuya aktarır. Bir hikayenin unsurları arasında bu dört temel yapı taşı dışında yer alan bir kavram, hikayenin bir ögesi olarak kabul edilmez.",
         "Donem": 4
     },
     {
@@ -2737,6 +2873,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Roman türü, Türk edebiyatına Batılılaşma hareketlerinin yoğunlaştığı <b>Tanzimat Dönemi</b>’nde (19. yüzyılın ortaları) girmiştir. İlk başta çevirilerle başlayan bu süreç, daha sonra <b>Şemseddin Sami</b>’nin Taaşşuk-ı Talat ve Fıtnat gibi ilk yerli romanların yazılmasıyla devam etmiştir.",
         "Donem": 4
     },
     {
@@ -2757,6 +2894,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Durum hikâyesinin dünya edebiyatındaki en önemli ve ilk temsilcisi Rus yazar <b>Anton Çehov</b>’dur. Bu tarz hikâyeler, onun adıyla <b>Çehov Tarzı</b> olarak da anılır ve olaydan çok yaşamın içinden kesitlere ve ruhsal atmosfere odaklanır.",
         "Donem": 4
     },
     {
@@ -2777,6 +2915,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Türk edebiyatında durum (Çehov tarzı) hikâyesinin en büyük temsilcisi <b>Sait Faik Abasıyanık</b>’tır. Onun hikâyeleri genellikle İstanbul’un kenar mahallelerinden, balıkçılardan ve sıradan insanların ruh hâllerinden <b>kesitler</b> sunar ve bir sonuca ulaşma kaygısı taşımaz.",
         "Donem": 4
     },
     {
@@ -2797,6 +2936,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Olay hikâyesi (Maupassant tarzı), klasik dramatik yapıyı takip eder ve üç ana bölümden oluşur: <b>I. Serim</b> (giriş), <b>II. Düğüm</b> (olayların geliştiği ve merakın arttığı kısım) ve <b>III. Çözüm</b> (olayların sonuca bağlandığı kısım). Bu nedenle bu üç bölüm de olay hikâyesinin ögeleri arasında yer alır.",
         "Donem": 4
     },
     {
@@ -2817,6 +2957,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "<b>Roman</b> kelimesi, Türkçeye Batılılaşma süreci ve Tanzimat Dönemi’nde giren pek çok terim gibi <b>Fransızca</b>’dan geçmiştir. Fransızcada halk dilinde yazılan eserleri ifade eden bu terim, modern edebi türün adı olmuştur.",
         "Donem": 4
     },
     {
@@ -2837,6 +2978,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Hikâye ve romanlardaki şahıs kadrosu, olaylar karşısındaki davranışlarına ve temsil ettikleri değerlere göre ikiye ayrılır: <b>Tip</b> ve <b>Karakter</b>.<br/><b>Tip</b>, belli bir zümreyi veya özelliği (cimrilik, kahramanlık vb.) temsil eden, statik (değişmeyen) kişidir. <br/><b>Karakter</b> ise bireysel özellikleriyle öne çıkan, karmaşık, derinliği olan ve hikâye boyunca değişime uğrayabilen kişidir.",
         "Donem": 4
     },
     {
@@ -2857,6 +2999,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Türk edebiyatında Batı hikâye tekniğine (sağlam olay örgüsü, gerçekçi betimlemeler, gereksiz bilgi içermeme) uygun ilk hikâyeleri yazan sanatçı <b>Sami Paşazade Sezai</b>’dir. Yazarın <b>Küçük Şeyler</b> adlı eseri (1892), bu alandaki ilk başarılı örnek kabul edilir.",
         "Donem": 4
     },
     {
@@ -2877,6 +3020,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Hikâyeyi oluşturan temel unsurlar <b>Olay Örgüsü</b> (Ne anlatılıyor?), <b>Şahıs Kadrosu/Kişiler</b> (Kim yaşıyor?), <b>Mekân</b> (Nerede geçiyor?) ve <b>Zaman</b> (Ne zaman geçiyor?)’dır. Bu dört temel unsurun dışında kalan bir ifade (örneğin edebi akım adı), hikâyenin yapı unsuru değildir.",
         "Donem": 4
     },
     {
@@ -2897,6 +3041,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Durum hikâyesi (Çehov tarzı), olay örgüsünü ve dramatik gerilimi azaltarak, <b>yaşamın bir kesitini</b> sunar. Bu tarz hikâyelerde genellikle belirgin bir <b>düğüm</b> ve çarpıcı bir <b>çözüm</b> bölümü yoktur. Amaç, bir durumu veya bir ruh halini okuyucuya hissettirmektir; olayın sonucunu merak ettirmek (Olay hikayesinin temel amacı) ise Durum hikayesi için yanlış bir yaklaşımdır.",
         "Donem": 4
     },
     {
@@ -2917,6 +3062,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Verilen tanım, okuyucuya bilgi verme, öğüt verme veya belirli bir <b>ideolojiyi</b> yayma amacı güden şiir türünü işaret eder. Bu tür şiirler, <b>öğretici bilgiler</b> veya <b>hikmet</b> aşılamak amacıyla yazılır ve <b>düşünce yükü</b> diğer türlere göre daha ağırdır. Bu özellikler, bilgi ve öğreti sunma amacı taşıyan <b>Didaktik Şiir</b> türüne aittir.",
         "Donem": 4
     },
     {
@@ -2937,6 +3083,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Şiir, <b>duyguların</b> ve düşüncelerin yoğun bir şekilde ifade edilmesinde kullanılan en etkili sanatsal yapılardan biridir (I doğru).<br/>Şiir anlayışı ve biçimi <b>her kavim ve milletin yaşam tarzına</b> ve kültürel birikimine göre şekillenir (II doğru).<br/>Ancak şiir, edebiyatın bir parçası olarak toplumsal ve <b>kültürel etkileşimden</b> büyük ölçüde etkilenir; toplumların kültürel etkileşimde bulunmaması (III) ise yanlış bir ifadedir. Bu nedenle doğru olanlar I ve II'dir.",
         "Donem": 4
     },
     {
@@ -2957,6 +3104,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "<b>Türkçenin bilinen en eski yazılı kaynakları</b>, 8. yüzyılda (Göktürk Kağanlığı döneminde) yazılmış olan <b>Orhun Yazıtları</b>'dır (Köktürk Kitabeleri). Bu yazıtlar, Türk dili, tarihi ve kültürü açısından temel öneme sahiptir ve Türk adının geçtiği ilk metinlerdir.",
         "Donem": 4
     },
     {
@@ -2977,6 +3125,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "<b>Hisarcılar</b>, 1950'lerde <b>Mehmet Çınarlı</b>'nın çıkardığı Hisar dergisi etrafında toplanan ve <b>özellikle Garip akımının</b> sadeleşme ve biçim karşıtlığına tepki gösteren bir topluluktur. Türk edebiyatının milli köklerine ve zenginliğine bağlı kalmayı savunmuşlardır. Topluluğun üyeleri arasında Mehmet Çınarlı, İlhan Geçer, Munis Faik Ozansoy gibi isimler yer alır. Cevapta belirtilmeyen kişi, bu topluluğun sanat anlayışına katılmayan veya başka bir edebî akıma (örneğin İkinci Yeni veya Garip) mensup olan bir şair olmalıdır.",
         "Donem": 4
     },
     {
@@ -2997,6 +3146,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Verilen özellikler <b>İkinci Yeni</b> şiir hareketine aittir. İkinci Yeni şairleri, Garip akımının yalınlığına tepki olarak ortaya çıkmış (II), anlamı arka plana atarak soyutlamaya ve <b>imgeciliğe</b> (III) önem vermişlerdir. Bu durum, onların şiirlerinin genellikle <b>kapalı bir üsluba</b> (I) sahip olmasına yol açmıştır.",
         "Donem": 4
     },
     {
@@ -3017,6 +3167,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Toplumsal veya bireysel aksaklıkları, yanlışları, haksızlıkları eleştiren, alaycı ve iğneleyici bir dille yeren şiir türü <b>Satirik Şiir</b> (Yergi)'dir. Bu şiir türü edebiyat tarihimizde farklı dönemlerde farklı isimlerle anılmıştır:<br/>Halk edebiyatında <b>taşlama</b><br/>Divan edebiyatında <b>hiciv</b><br/>Çağdaş edebiyatta <b>yergi</b> veya <b>satir</b>.",
         "Donem": 4
     },
     {
@@ -3037,6 +3188,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Şiirde, bir mekanın, kişinin veya olayın görsel detaylarına odaklanılarak okuyucunun zihninde bir tablo oluşturulmuştur. Gelin, bebek, Karabaş (köpek), tozlu yol ve çeşme gibi öğelerle somut bir durum <b>betimlenmiştir</b> (tasvir edilmiştir). Konusu, doğa, manzara veya günlük yaşamdan sahnelerin tasvirine dayanan bu tür şiirler <b>Betimleyici (Ekfrastik) Şiir</b> olarak adlandırılır. (Eğer kır ve çoban hayatı teması baskın olsaydı Pastoral şiir olurdu, ancak burada genel bir betimleme söz konusudur.)",
         "Donem": 4
     },
     {
@@ -3057,6 +3209,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "<b>Sözlü Edebiyat Dönemi</b>, İslamiyet öncesi Türk edebiyatında, ürünlerin <b>sığır, şölen</b> ve <b>yuğ</b> törenlerinde kopuz eşliğinde söylendiği dönemdir. Bu döneme ait başlıca türler lirik şiir olan <b>Koşuk</b>, ağıt olan <b>Sagu</b> ve atasözü olan <b>Sav</b>'dır. Diğer şıklar arasında yer alan ve Divan edebiyatına ait olan <b>Gazel</b>, <b>Kaside</b> veya <b>Mesnevi</b> gibi nazım biçimleri, Sözlü Edebiyat dönemine ait değildir.",
         "Donem": 4
     },
     {
@@ -3077,6 +3230,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "<b>Savaş, kahramanlık, yiğitlik</b>, tarihi olaylar veya destansı temaların coşkulu bir dille işlendiği şiir türü <b>Epik Şiir</b> olarak adlandırılır. Epik şiirler, toplumun tarihi ve milli duygularını yansıtır ve coşku verir.",
         "Donem": 4
     },
     {
@@ -3097,6 +3251,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Türk edebiyatında ölen bir kişinin ardından duyulan acıyı, üzüntüyü ve o kişinin erdemlerini dile getiren şiir türleri, dönemsel olarak farklı isimlerle anılırlar:<br/>İslamiyet öncesi <b>Sözlü Edebiyat</b> döneminde: <b>Sagu</b><br/><b>Halk Edebiyatı</b>nda: <b>Ağıt</b><br/><b>Divan Edebiyatı</b>nda: <b>Mersiye</b>",
         "Donem": 4
     },
     {
@@ -3117,6 +3272,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "<b>Divan edebiyatında</b>, devlet büyüklerini (padişah, vezir vb.) övmek, onlara saygı göstermek ve sunmak amacıyla yazılan, belirli kurallara bağlı uzun şiir türü <b>Kaside</b>'dir. Kasidenin sunulan kişiyi övme amacını güden bölümüne <b>Methiye</b> adı verilir.",
         "Donem": 4
     },
     {
@@ -3137,6 +3293,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "İslamiyet öncesi <b>Sözlü Edebiyat Dönemi</b>'nde şiirleri (koşuk, sagu, sav) söyleyen ozanlar, baksılar veya şamanlar, bu ürünleri törenlerde (şölen, sığır, yuğ) dönemin yaylı çalgısı olan <b>Kopuz</b> eşliğinde icra etmişlerdir. Kopuz, Türk halk müziğinin temel çalgısı olan sazın atasıdır.",
         "Donem": 4
     },
     {
@@ -3157,6 +3314,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "<b>Halk edebiyatı</b> nazım türleri genellikle dört dizeli birimlerden oluşur ve hece ölçüsü kullanılır. Başlıca türleri <b>Koşma, Semai, Varsağı</b> ve <b>Destan</b> (Âşık tarzı) ile dini-tasavvufi şiirlerdir (İlahi, Nefes). <b>Gazel</b> veya <b>Kaside</b> gibi nazım biçimleri ise Fars ve Arap edebiyatından alınmış olup <b>Divan Edebiyatı</b> nazım türleri arasında yer alır.",
         "Donem": 4
     },
     {
@@ -3177,6 +3335,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Sözü edilen edebî topluluk <b>Hisarcılar</b>'dır. Bu topluluk, adını kurucusu ve önde gelen ismi olan <b>Mehmet Çınarlı</b>'nın 1950'de yayın hayatına başlattığı <b>Hisar dergisi</b>nden almıştır. Hisarcılar, öz Türkçeyi ve millî kültürü savunarak modern şiir akımlarına, özellikle de Garipçilere karşı çıkmıştır.",
         "Donem": 4
     },
     {
@@ -3197,6 +3356,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Şiirde <b>Köroğlu</b>'ndan bahsedilmesi (ki kendisi bir halk kahramanıdır), kale, ok atılması ve yiğitlik/savaş çağrışımı yapan 'nara' gibi öğelerin kullanılması, eserin temasının <b>kahramanlık</b> ve savaş olduğunu gösterir. Bu tema, <b>Epik Şiir</b> türünün temelini oluşturur.",
         "Donem": 4
     },
     {
@@ -3217,6 +3377,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Destanlar, oluşum şekline göre <b>doğal destanlar</b> (anonim, uzun süreçte oluşan) ve <b>yapay destanlar</b> (bilinen bir şair tarafından kısa sürede yazılan) olmak üzere ikiye ayrılır. Şıklarda yer alan yapay destan örneği, bilinen bir yazarın yakın veya tarihi bir olayı destan özelliklerine uygun olarak kaleme aldığı eserdir. Türk edebiyatında buna örnek olarak <b>Nazım Hikmet</b>'in <b>Kuvayı Milliye Destanı</b> veya Fazıl Hüsnü Dağlarca'nın 'Üç Şehitler Destanı' gösterilebilir.",
         "Donem": 4
     },
     {
@@ -3237,6 +3398,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Dinleme süreci, işitsel bilginin alınmasından başlayarak yorumlanmasına ve tepki verilmesine kadar uzanan ardışık aşamalardan oluşur. Bu sürecin ilk adımı, ses dalgalarının kulaklar aracılığıyla alınıp sinir sistemi üzerinden beyne iletilmesi olan <b>algılama</b> (duyma) aşamasıdır. Bu aşamayı, mesajın anlamlandırıldığı <b>yorumlama</b> ve sonrasında <b>değerlendirme</b> ve <b>tepki verme</b> izler.",
         "Donem": 4
     },
     {
@@ -3257,6 +3419,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Özet çıkarma, bir metnin ana fikrini ve en kritik destekleyici noktalarını <b>kendi kelimelerimizle</b> kısa ve yoğun bir şekilde yeniden ifade etme sürecidir. Yanlış olan ifade genellikle özetin <b>konuyla ilgili bütün detayları veya örnekleri içeriğinde bulundurması</b> gerektiğini iddia eden bir seçenektir. İyi bir özet <b>tarafsız</b> olmalı ve <b>metnin özüne</b> odaklanmalıdır, detayları elemeyi gerektirir.",
         "Donem": 4
     },
     {
@@ -3277,6 +3440,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Düşüncenin merkezi olarak kabul edilen dört temel dil becerisi, bir kişinin iletişim kurma ve bilgi edinme yeteneğinin temelini oluşturur. Bunlar: <b>Dinleme</b>, <b>Konuşma</b>, <b>Okuma</b> ve <b>Yazma</b>'dır. Bu becerilerin dışında kalan bir eylem veya yetenek (örneğin: Ezberleme, Yorumlama, Analiz Etme) doğru cevap olacaktır, çünkü bunlar temel iletişim becerileri arasında sayılmazlar.",
         "Donem": 4
     },
     {
@@ -3297,6 +3461,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "<b>Aktif dinleyici</b>, sadece işitmeyen, aynı zamanda konuşmacının mesajını anlama ve ona uygun geri bildirim verme çabasında olan kişidir. Aktif dinleyicinin özellikleri arasında <b>göz teması kurmak</b>, <b>empati göstermek</b>, <b>açıklığa kavuşturucu sorular sormak</b> yer alır. Aktif dinleyicinin yapmaması gereken davranış ise <b>konuşmacının sözünü kesmek</b> veya <b>kendi yargılarını dinleme esnasında ön plana çıkarmak</b> gibi dikkat dağıtıcı veya süreci engelleyici eylemlerdir.",
         "Donem": 4
     },
     {
@@ -3317,6 +3482,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Hafıza çalışmalarına göre, bilginin kalıcılığı onu işleme derinliğine bağlıdır. Genellikle, <b>pasif olarak dinlenen</b> ve <b>anlamlandırılmadan</b> veya <b>kayıt altına alınmadan</b> sadece kısa süreli hafızada tutulan bilgilerin unutulması daha kolaydır. Görsel, yazılı veya not alınarak pekiştirilen bilgilere kıyasla, <b>sadece işitsel olarak algılanan detaylar</b> daha çabuk unutulur.",
         "Donem": 4
     },
     {
@@ -3337,6 +3503,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Özet çıkarmanın temel kuralı, metnin ana mesajını koruyarak uzunluğunu azaltmaktır. Yanlış olan bilgi, özetin <b>orijinal yazarın cümlelerini ve kelime seçimlerini aynen içermesi</b> gerektiğini iddia eden seçenektir. Aksine, iyi bir özet <b>kendi kelimelerimizle</b> yazılmalı, <b>sade bir dil</b> kullanmalı ve sadece <b>temel noktaları</b> yansıtmalıdır.",
         "Donem": 4
     },
     {
@@ -3357,6 +3524,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Etkili not alma, <b>seçici</b> olmayı, <b>kısaltmalar ve semboller</b> kullanmayı ve <b>konuşmacının her kelimesini yazmaktan kaçınmayı</b> gerektirir. Yanlış olan bilgi, not alırken <b>bütün konuşmayı harfi harfine yazmanın</b> zorunlu olduğunu veya <b>notların hemen gözden geçirilmesine gerek olmadığını</b> belirten seçenektir. Oysa notlar, unutulmayı engellemek için <b>derhal gözden geçirilmelidir</b>.",
         "Donem": 4
     },
     {
@@ -3377,6 +3545,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "İyi bir dinleyici, konuşmacıya saygı gösteren, dikkatini dağıtan unsurlardan kaçınan ve <b>önyargılı yaklaşmayan</b> kişidir. İyi bir dinleyicinin özelliği olmayan bir davranış, <b>konuşmacıyı sürekli yargılamak</b>, <b>sözünü kesmek</b> veya <b>dinlemek yerine cevap hazırlamaya odaklanmaktır</b>.",
         "Donem": 4
     },
     {
@@ -3397,6 +3566,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Dinleyicinin konuşmacıya geri bildirimle (baș sallama, sözlü onay, kısa ifadeler) katkı sağladığı dinleme çeşidi <b>aktif dinlemedir</b>. <b>Aktif dinleme</b>, karşılıklı etkileşim esasına dayanır ve dinleyicinin, anladığını veya merak ettiklerini anında <b>sözlü veya sözsüz ifadelerle</b> belirtmesini içerir, böylece konuşmacı da kendini daha rahat ifade eder.",
         "Donem": 4
     },
     {
@@ -3417,6 +3587,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Dinleme süreci, bilginin algılanması, işlenmesi ve tepki verilmesi gibi temel adımları içerir. Bu adımlar genellikle <b>Algılama</b>, <b>Yorumlama</b>, <b>Değerlendirme</b> ve <b>Tepki Verme</b>'dir. Bu dört ana aşamanın dışında kalan herhangi bir eylem (örneğin: Okuma, Kopyalama, Ezberleme) dinleme sürecinin doğrudan bir parçası değildir.",
         "Donem": 4
     },
     {
@@ -3437,6 +3608,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Karşıdaki kişinin sadece söylediklerini değil, aynı zamanda <b>duygularını, hislerini ve bakış açısını</b> anlamaya yönelik dinleme çeşidi <b>empatik dinlemedir</b>. Empatik dinlemede amaç, kendimizi konuşmacının yerine koyarak, yargılamadan onu anlamaktır. Bu dinleme türü, güçlü bir <b>duygusal bağ</b> kurulmasını sağlar.",
         "Donem": 4
     },
     {
@@ -3457,6 +3629,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Tekrar etme ve aktif işleme derinliği, bilginin kalıcılığını etkiler. Genellikle, <b>pasif olarak alınan ve anlamlandırılmadan</b> hafızaya atılmaya çalışılan bilgilerin unutulması daha çabuk olur. Bu, özellikle <b>dinleme yoluyla alınan</b> ve hemen <b>not alınmayan</b> bilgilerin kalıcılığının düşük olması demektir.",
         "Donem": 4
     },
     {
@@ -3477,6 +3650,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Detaylı anlama amacı taşımayan, metnin genel konusunu veya ana fikrini hızla kavramak için yapılan okuma türüne <b>göz gezdirme</b> (Skimming) denir. Bu yöntemde okuyucu, metnin tamamını okumaz; başlıklar, alt başlıklar, giriş ve sonuç paragrafları gibi ana kısımlara odaklanarak <b>hızlıca genel bir izlenim</b> edinir.",
         "Donem": 4
     },
     {
@@ -3497,6 +3671,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Bu soru, bilginin kalıcılığı ilkesini tekrar etmektedir. Bilgiyi uzun süreli bellekte tutmak için <b>tekrar etmek, not almak ve anlamlandırmak</b> gerekir. Bunlardan yoksun olan, özellikle de <b>sadece bir kez duyulan veya okunan</b>, tekrar edilmeyen bilgi parçalarının çabuk unutulması beklenir.",
         "Donem": 4
     },
     {
@@ -3517,6 +3692,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Not alırken temel amaç, konuşmacının ana fikirlerini hızlı ve etkili bir şekilde kaydetmektir. Dikkat edilmesi gerekenler arasında <b>anahtar kelimelere odaklanmak</b> ve <b>kısaltmalar kullanmak</b> bulunur. Not alırken yapılmaması gereken, yani hususlardan biri olmayan davranış, <b>notların estetik görünümüne aşırı odaklanarak</b> hızdan ödün vermek veya <b>konuşmacının her kelimesini eksiksiz yazmaya çalışmaktır</b>. Bu, bilgiyi kaçırmaya neden olur.",
         "Donem": 4
     },
     {
@@ -3537,6 +3713,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "İyi bir özetin taşıması gereken özellikler: I. Metnin özünü yansıtan cümleler kullanmak (<b>Doğru</b> - Temel mesajı vermelidir). II. Konuyla ilgili bütün detayları içeriğinde bulundurmak (<b>Yanlış</b> - Özetin amacı detayları elemek, sadece ana noktaları bırakmaktır). III. Sade ve açık bir dil kullanmak (<b>Doğru</b> - Okuyucunun kolayca anlaması sağlanır). Dolayısıyla I ve III, iyi bir özetin temel özelliklerindendir.",
         "Donem": 4
     },
     {
@@ -3557,6 +3734,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "İyi bir dinleyici, dinleme sürecini etkin bir şekilde yönetir: I. Konuşmacıların bütün söylediklerini kayıt altına alır (<b>Yanlış</b> - Seçici ve filtreleyici olmalıdır, her kelimeyi kaydetmez). II. Sıklıkla okuma yaparak kelime hazinesini geliştirir (<b>Doğru</b> - Kelime hazinesi, duyulanları anlama ve yorumlama becerisini artırır). III. Etkili soru sorma becerisine sahiptir (<b>Doğru</b> - Aktif dinleme ve konuyu derinleştirme becerisinin göstergesidir). Bu nedenle II ve III iyi bir dinleyicinin özellikleri arasında yer alır.",
         "Donem": 4
     },
     {
@@ -3577,6 +3755,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Aktif dinleme becerisine sahip bir kişi, konuşmacının mesajını yargılamadan ve dikkatini dağıtmadan almaya odaklanmalıdır. Yapmaması gereken davranış, <b>konuşmacı henüz bitirmeden sözünü kesmek</b>, <b>kendi vereceği cevabı zihninde hazırlarken dinlemeyi bırakmak</b> veya <b>konuşmacıyı eleştirel bir süzgeçten geçirmektir</b>. Bu eylemler, iletişimin akışını bozar ve empati kurmayı engeller.",
         "Donem": 4
     },
     {
@@ -3597,6 +3776,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Dinleme süreci, <b>Algılama (Duyma)</b>, <b>Yorumlama (Anlama)</b>, <b>Değerlendirme</b> ve <b>Tepki Verme</b> olmak üzere ardışık aşamalardan oluşur. Bu temel bilişsel ve davranışsal adımların dışında kalan bir eylem (örneğin: Tartışma, Ezberleme, Okuma) dinleme süreçlerinden biri sayılmaz.",
         "Donem": 4
     },
     {
@@ -3617,6 +3797,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Konuşmacının ses tonunu değiştirememesi, konuşmasına iniş çıkış katamaması ve vurguları doğru yapamaması durumunda ortaya çıkan kusur <b>Monotonluk (Tekdüzelik)</b> olarak adlandırılır. Monotonluk, dinleyicinin ilgisini hızla kaybetmesine yol açar çünkü konuşmada <b>ritim</b> ve <b>ahenk</b> bulunmamaktadır. Etkili bir konuşmada, anlamı güçlendirmek ve ilgiyi sürdürmek için <b>vurgu</b> ve <b>tonlama</b> hayati öneme sahiptir.",
         "Donem": 4
     },
     {
@@ -3637,6 +3818,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Etkili bir konuşmacının temel özellikleri arasında konuya hakimiyet, dinleyiciye saygı, iyi telaffuz (diksiyon), uygun ses tonu ve jest/mimik kullanımı bulunur. Etkili bir konuşmacının özellikleri arasında <u>yer almayacak</u> olan durumlar, konuşma kusurları veya hazırlıksızlık işaretleridir. Örneğin, <b>Monoton bir ses tonu kullanmak</b>, <b>hazırlıksız konuşmak</b> veya <b>dinleyici kitlesini hiçe saymak</b> etkili konuşmacı özelliği <u>değildir</u>.",
         "Donem": 4
     },
     {
@@ -3657,6 +3839,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Konuşma çeşitleri işlevlerine göre ayrılır. Beslenme veya yürüme gibi doğal ve zorunlu bir ihtiyaç olarak kabul edilen ve özel bir hazırlık gerektirmeyen konuşma çeşidi <b>Gündelik Konuşma</b> veya <b>Hazırlıksız Konuşma</b> olarak adlandırılır. Bu tür konuşmalar genellikle günlük hayatta, sosyal ilişkilerde kendiliğinden ortaya çıkar ve temel iletişimsel ihtiyaçları karşılar.",
         "Donem": 4
     },
     {
@@ -3677,6 +3860,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "İletişim sürecinin temel unsurları şunlardır: <b>Kaynak (Gönderici)</b>, <b>Mesaj (İleti)</b>, <b>Kanal (Ortam)</b>, <b>Alıcı (Hedef)</b>, <b>Geri Bildirim</b> ve <b>Gürültü</b>. Bu unsurlardan biri olmayan bir seçenek, iletişimin zorunlu unsuru <u>değildir</u>. (Örn: Zaman, Konuşma Kusuru vb.)",
         "Donem": 4
     },
     {
@@ -3697,6 +3881,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Konuşma eylemini meydana getiren unsurlar, konuşmacının fizyolojik, psikolojik ve dilsel yetenekleriyle ilgilidir. Bunlar arasında <b>Konuşmacı</b>, <b>Dinleyici</b>, <b>Dil</b>, <b>Ses</b> ve <b>Nefes</b> gibi temel bileşenler yer alır. Konuşmanın sonucunda ortaya çıkan <b>Geri Bildirim</b> gibi kavramlar genel iletişim sürecinin bir unsuru olarak kabul edilse de, konuşmanın doğrudan yapısal unsurlarından biri <u>değildir</u>.",
         "Donem": 4
     },
     {
@@ -3717,6 +3902,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Belli bir karar vermek, fikirleri tartışmak ve ortak bir sonuca ulaşmak amacıyla yapılan konuşma türü <b>Tartışma (Müzakere)</b> veya <b>Panel</b> gibi katılımcıların fikir alışverişinde bulunduğu konuşma türleridir. Bu tür konuşmalar, farklı görüşlerin değerlendirilmesiyle sağlıklı kararlar alınmasına yardımcı olur.",
         "Donem": 4
     },
     {
@@ -3737,6 +3923,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "\"Ne söylediğiniz değil, nasıl söylediğiniz önemlidir,\" cümlesi konuşmanın içeriğinden ziyade <b>Sunuş Biçimi</b>, <b>Ses Tonu</b>, <b>Vurgu</b>, <b>Jest ve Mimikler</b> gibi <b>Konuşmanın Tarzı</b> (Delivery) veya <b>Diksiyon</b> unsuruna işaret eder. Etkili bir iletişimde, mesajın alıcıya nasıl ulaştırıldığı, mesajın anlaşılırlığı ve ikna gücü açısından merkezi bir rol oynar.",
         "Donem": 4
     },
     {
@@ -3757,6 +3944,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Konuşma kusurları, akıcılığı, anlaşılırlığı veya telaffuzu olumsuz etkileyen durumlardır (Kekemelik, Tıkanma, Monotonluk vb.). <b>Akıcılık</b> (Fluency) ise, tam tersine, kusursuz ve doğal bir konuşmanın özelliğidir. Bu nedenle, <b>Akıcılık</b> bir konuşma kusuru <u>değildir</u>.",
         "Donem": 4
     },
     {
@@ -3777,6 +3965,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "İletişim sürecinde <b>düşüncenin kodlanması</b>, kaynağın (göndericinin) zihnindeki fikri, alıcının anlayabileceği sembollere (dil, kelimeler, işaretler) dönüştürme eylemidir. Bu görev, iletişimi başlatan öğe olan <b>Kaynak (Gönderici)</b> tarafından yerine getirilir.",
         "Donem": 4
     },
     {
@@ -3797,6 +3986,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Konuşma sırasında anlamı olmayan, gereksiz ve akıcılığı bozan \"ee, ıı, şey, filan\" gibi sesler çıkarılması, konuşmacının ne söyleyeceğini düşünmek için zaman kazanma çabası veya alışkanlık sonucu ortaya çıkan <b>Tıkanma (Duraklama)</b> kusurudur. Bu durum, dinleyicinin dikkatini dağıtır ve konuşmanın profesyonelliğini azaltır.",
         "Donem": 4
     },
     {
@@ -3817,6 +4007,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "\"Bu <b>gaste</b>yi alabilir miyim?\" cümlesinde \"gazete\" kelimesindeki seslerin yer değiştirmesi veya yanlış seslendirilmesi söz konusudur. Bu, <b>Artikülasyon Bozukluğu</b> (eklemleme hatası) olarak adlandırılır. Özellikle seslerin yer değiştirmesi durumuna <b>Metatez</b> denir ve bu, kelimelerin doğru telaffuz kurallarına uyulmaması sonucu ortaya çıkan bir konuşma kusurudur.",
         "Donem": 4
     },
     {
@@ -3837,6 +4028,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "İnsan beyninin dikkat süresi sınırlıdır. Bu kısıtlamayı bilen bir konuşmacı, dinleyicinin ilgisini canlı tutmak için konuşmasını <b>kısa ve öz</b> tutmaya, ana fikirlere odaklanmaya, önemli noktaları <b>vurgulamaya</b> ve konuşmanın süresini dikkat aralığına uygun tutmaya dikkat eder. Aksi takdirde, dinleyici yorulur ve mesajın tamamı algılanamaz.",
         "Donem": 4
     },
     {
@@ -3857,6 +4049,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "\"Herhalde sen beni tanımıyorsun galiba.\" cümlesinde hem \"herhalde\" hem de \"galiba\" kelimeleri aynı anlama (tahmin, olasılık) gelmektedir. İki eş anlamlı sözcüğün birlikte kullanılması anlatımda <b>gereksiz söz kullanımına</b> yol açarak <b>anlatım bozukluğuna</b> neden olur. Bu, konuşmanın netliğini ve ekonomikliğini bozan bir hatadır.",
         "Donem": 4
     },
     {
@@ -3877,6 +4070,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Özellikle iki dil bilen kişilerde, bir dildeki kelimeleri veya yapıları diğer dile aktarma eğilimi (code-switching) görülebilir. Bu durum, konuşma sırasında gereksiz veya uygunsuz biçimde <b>Yabancı Kelime Kullanımı</b> kusuruna yol açar. Konuşmacı, hedef dildeki uygun kelimeyi bulmakta zorlandığında veya kültürel alışkanlık nedeniyle diğer dildeki kelimeyi kullanır, bu da akıcılığı bozabilir.",
         "Donem": 4
     },
     {
@@ -3897,6 +4091,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Konuşma çeşitleri genellikle hazırlık durumuna (Hazırlıklı, Hazırlıksız) veya amacına (Gündelik, Tartışma, Topluluk Önünde Konuşma, Söylev) göre sınıflandırılır. <b>Yazma</b> (Writing) faaliyeti ise konuşmanın aksine, dilin yazılı formda ifade edilmesidir ve bir konuşma çeşidi <u>değildir</u>.",
         "Donem": 4
     },
     {
@@ -3917,6 +4112,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Konuşma faaliyetini destekleyen, doğru sesletim, vurgu, tonlama ve akıcılık kurallarını öğreten dil becerisi alanı <b>Diksiyon</b> (Elocution/Diction) olarak adlandırılmaktadır. Diksiyon, konuşmanın etkili, anlaşılır ve estetik açıdan başarılı olması için önemlidir. Dolayısıyla cümlede boş bırakılan yere <b>Diksiyon</b> kelimesi getirilmelidir.",
         "Donem": 4
     },
     {
@@ -3937,6 +4133,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Fiziksel sebeplerle veya yaşanılan bir travma sonucu ortaya çıkan, konuşma esnasında hecelerin tekrar edilmesi, seslerin uzatılması veya konuşmanın akıcılığının kesintiye uğraması şeklinde görülen konuşma kusuru <b>Kekemelik (Stuttering)</b> olarak adlandırılır. Bu kusur, konuşmanın ritminde bozulmaya neden olur ve düzenli egzersizler ve terapi ile aşılabilir bir sorundur.",
         "Donem": 4
     },
     {
@@ -3957,6 +4154,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Bu soru (234491 ile aynı), konuşma eyleminin doğrudan yapısal unsurlarını sormaktadır. Konuşmayı meydana getiren unsurlar <b>Konuşmacı</b>, <b>Dinleyici</b>, <b>Dil</b>, <b>Ses</b> ve <b>Nefes</b> gibi temel bileşenlerdir. Konuşma eyleminin kendisinden sonra oluşan <b>Geri Bildirim</b> gibi kavramlar veya Konuşma sürecine dahil olmayan <b>Yazılı Metin</b> konuşmayı meydana getiren unsurlardan biri <u>değildir</u>.",
         "Donem": 4
     },
     {
@@ -3977,6 +4175,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Bakışların karşıdaki insanın gözleri ve ağzı arasındaki kısma yönelmesi, yani yüzün üst kısmındaki bu üçgen alana odaklanılması, <b>resmî bakış (official gaze)</b> olarak adlandırılır. Bu bakış, genellikle <b>ciddiyet ve profesyonellik</b> gerektiren, resmî toplantılar gibi ortamlarda kullanılır ve daha <b>mesafeli</b> bir iletişim kurmayı sağlar.",
         "Donem": 4
     },
     {
@@ -3997,6 +4196,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Göz bebeklerinin büyümesi, yani <b>pupil dilatasyonu</b>, beden dilinde genellikle kişinin <b>ilgilenme, hoşlanma, heyecanlanma</b> veya <b>çekicilik</b> hissetme gibi yoğun ve pozitif duygusal uyarılma yaşadığını işaret eder. Bu durum, bilinçli kontrolümüz dışında gerçekleşen fizyolojik bir tepkidir.",
         "Donem": 4
     },
     {
@@ -4017,6 +4217,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Yalan, gerginlik veya karşıt düşünce durumlarında beden dili genellikle <b>kapalı, savunmacı</b> ve <b>kısıtlayıcı</b> bir etki oluşturur. Bu durum, özellikle <b>kolları veya bacakları çaprazlama</b> (fiziksel bariyer oluşturma), <b>kendini geri çekme</b> veya <b>huzursuz hareketler</b> (kıpırdanma, nesnelerle oynama) şeklinde kendini gösterir. Bu hareketler kişinin <b>iç gerginliğini ve rahatsızlığını</b> yansıtır.",
         "Donem": 4
     },
     {
@@ -4037,6 +4238,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Gözler iletişimde duygusal durumu yansıtmak, geri bildirim vermek, konuşma sırasını düzenlemek ve ilgi seviyesini göstermek gibi pek çok işleve sahiptir. Gözler, genellikle <b>duygusal durumu en açık yansıtan</b> ve <b>samimiyet</b> hakkında en doğru ipuçlarını veren beden dili ögelerindendir. (Sorunun yanlış olan bilgisini bilmemekle birlikte, gözlerin bu sayılan temel işlevleri doğrudur.)",
         "Donem": 4
     },
     {
@@ -4057,6 +4259,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Temel bakış çeşitleri genellikle bakışın yönlendirildiği alana ve amaca göre sınıflandırılır. Başlıca türler şunlardır: <b>Resmî bakış</b> (göz-ağız), <b>sosyal bakış</b> (göz-ağız-çene genel üçgeni) ve <b>özel/yakın bakış</b> (gözler-göğüs hizası). (Seçenekler olmadan, bu üç temel tür dışındaki herhangi bir seçenek doğru cevap olacaktır.)",
         "Donem": 4
     },
     {
@@ -4077,6 +4280,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Başın omuzlara yaklaştırılarak dudakların büzülmesi, beden dilinde genellikle <b>şüphecilik, hoşnutsuzluk</b> veya <b>olumsuz değerlendirme</b> anlamına gelir. Dudakların büzülmesi, kişinin duyduğu veya gördüğü şeye karşı <b>fikir birliğinde olmadığını</b> veya <b>kabul etmediğini</b> gösteren bir yüz ifadesidir.",
         "Donem": 4
     },
     {
@@ -4097,6 +4301,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "“Burun kıvırmak” deyimi, beden dilinde <b>küçümseme, beğenmeme, iğrenme</b> veya <b>aşağılama</b> duygularını ifade eden bir mimiktir. Bu hareket, kişinin sunulan duruma veya fikre karşı <b>olumsuz ve reddedici</b> bir tutum sergilediğini gösterir.",
         "Donem": 4
     },
     {
@@ -4117,6 +4322,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Çok dikkatli dinlemek anlamına gelen beden dili davranışı genellikle <b>konuşmacıya doğru eğilme</b> ve <b>başın hafifçe yana yatırılması</b> ile karakterize edilir. Bu duruş, kişinin <b>açık olduğunu</b> ve söylenenlere <b>tamamen odaklandığını</b> gösterir. Ayrıca sabit ve ilgili göz teması da bu jesti destekler.",
         "Donem": 4
     },
     {
@@ -4137,6 +4343,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Bakışların karşıdaki insanın gözleri ve ağzı arasındaki kısma yönelmesi <b>resmî bakış (official gaze)</b> olarak adlandırılır. Bu bakış çeşidi, iletişimin <b>resmî ve ciddi</b> bir çerçevede tutulmasını sağlar ve güç/otoriteyi vurgular.",
         "Donem": 4
     },
     {
@@ -4157,6 +4364,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Başın konuşulan kişiye doğru yönelerek eğilmesi, o kişiye ve söylediklerine karşı <b>yoğun bir ilgi ve dikkat</b> gösterildiğini belirtir. Bu davranış, aynı zamanda <b>anlama çabası</b> ve <b>açık olma</b> haliyle de ilgilidir.",
         "Donem": 4
     },
     {
@@ -4177,6 +4385,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Duyguları ve düşünceleri belirtecek biçimde yüzde beliren kımıldanışlar ve hareketler <b>mimikler</b> olarak adlandırılır. Mimikler, beden dilinin en hızlı ve en evrensel ögelerinden olup, <b>sevinç, öfke, korku</b> gibi temel duygusal durumları yansıtır.",
         "Donem": 4
     },
     {
@@ -4197,6 +4406,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Gözbebeklerinin büyümesi (pupil dilatasyonu), genellikle düşük ışıktan bağımsız olarak, kişinin <b>duygusal uyarılma</b> yaşadığı durumlarda gerçekleşir. Bu, <b>ilgi, heyecanlanma, hayranlık</b> veya <b>çekicilik</b> gibi pozitif duygulara verilen bilinçsiz bir tepkidir.",
         "Donem": 4
     },
     {
@@ -4217,6 +4427,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Öğretmenin tahtaya vurarak yüksek sesle konuşması (non-verbal ses tonu ve jest), beden dilinin iletişimi <b>düzenleme (regulating)</b> işlevini gösterir. Bu hareket, iletişimin akışını kontrol etmeyi, dikkati çekmeyi ve sözel mesajın (sessizliği sağlama) <b>etkisini artırmayı</b> amaçlar.",
         "Donem": 4
     },
     {
@@ -4237,6 +4448,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "“Gözler kalbin aynasıdır.” ifadesi, beden dili açısından <b>gözlerin duygusal ve zihinsel durumu en dürüst şekilde yansıttığı</b> anlamına gelir. Gözler, kişinin <b>samimiyetini, ilgisini, korkusunu</b> veya <b>gizlemeye çalıştığı duyguları</b> en az kontrol edilebilen yolla açığa vurur.",
         "Donem": 4
     },
     {
@@ -4257,6 +4469,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Beden dili ögelerinden gözler, <b>duygusal durumları yansıtma, ilgi gösterme</b> ve <b>sosyal etkileşimi başlatma/sürdürme</b> gibi mesajlar iletir. Göz teması süresi, kalitesi ve yönü, iletişimin <b>samimiyet derecesi</b> ve <b>ilişkinin doğası</b> hakkında önemli bilgiler sunar.",
         "Donem": 4
     },
     {
@@ -4277,6 +4490,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Başı öne eğmek ve göz teması kurmaktan kaçınmak, sözsüz iletişimde genellikle <b>çekingenlik</b>, <b>utangaçlık</b>, <b>düşük benlik saygısı</b> veya <b>suçluluk</b> duygusunun bir göstergesidir. Bu duruş, kişinin kendini korunmasız hissettiğini veya iletişimden kaçınmak istediğini belli eder.",
         "Donem": 4
     },
     {
@@ -4297,6 +4511,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Aksesuarlar (saat, takı, çanta, vb.) kişinin <b>statüsünü</b>, <b>sosyal sınıfını</b>, <b>ekonomik durumunu</b> ve <b>kişisel kimliğini</b> yansıtan güçlü sözsüz iletişim araçlarıdır. Seçimler, bireyin ait olduğu kültürel veya sosyal grubu da işaret edebilir.",
         "Donem": 4
     },
     {
@@ -4317,6 +4532,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Parmaklarla oynamak, bir yeri karıştırmak veya ayak parmağıyla yere vurmak gibi hareketler, kişinin <b>gergin</b>, <b>kaygılı</b>, <b>sıkılmış</b> veya <b>rahatsız</b> olduğunu gösteren <b>adaptörler</b> (kendini yatıştırma hareketleri) olarak adlandırılır. Bu hareketler içsel stresi dışa vurur.",
         "Donem": 4
     },
     {
@@ -4337,6 +4553,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Kendinizden emin olduğunuzda beden dilinizde oluşan dik duruş, açık jestler ve kararlı göz teması, karşınızdaki kişilerde <b>güvenilirlik</b>, <b>yetkinlik</b> ve <b>otorite</b> algısı oluşturur. Bu, mesajınızın daha ikna edici ve etkili olmasını sağlar.",
         "Donem": 4
     },
     {
@@ -4357,6 +4574,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Kolların ve ellerin kullanımı, iletişimin önemli bir parçasıdır (jestler). Yanlış bilgi, genellikle kapalı jestlerle ilgilidir. Örneğin, kolların göğüste <b>kavuşturulması</b>, genellikle <b>savunma</b>, <b>kapanma</b> veya <b>iletişime isteksizlik</b> anlamına gelirken, açık jestler dürüstlüğü gösterir.",
         "Donem": 4
     },
     {
@@ -4377,6 +4595,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Beden dilinin ögelerinden olan mesafeler (<b>Proxemics</b>) dört temel çeşide ayrılır: <b>Mahrem alan</b> (yakın ilişki), <b>Kişisel alan</b> (arkadaşlar), <b>Sosyal alan</b> (iş ilişkileri) ve <b>Genel alan</b> (kalabalık). Bu dörtlü dışında sunulan bir seçenek (örneğin coğrafi veya kültürel mesafe) çeşitlerden biri değildir.",
         "Donem": 4
     },
     {
@@ -4397,6 +4616,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Başın ekseni etrafında sağa sola sallanması, birçok kültürde evrensel olarak kabul edilen bir <b>reddetme</b>, <b>olumsuzluk</b> veya <b>onaylamama</b> işaretidir. Sözlü olarak 'Hayır' demenin sözsüz karşılığıdır.",
         "Donem": 4
     },
     {
@@ -4417,6 +4637,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "“Ye kürküm ye” deyimi, insanların diğerlerini değerlendirirken öncelikle <b>giysilerine</b> ve <b>dış görünüşlerine</b> (fiziksel görünüm) bakarak yargıladığını, giysinin statü ve saygınlık göstergesi olarak algılandığını vurgular.",
         "Donem": 4
     },
     {
@@ -4437,6 +4658,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "“Ağzı gözü oynamak” deyimi, kişinin yüz ifadelerinin (<b>mimiklerinin</b>) aşırı hareketli, abartılı ve genellikle kontrolsüz olduğunu ifade eder. Bu durum, kişinin aşırı <b>heyecanlı</b>, <b>şaşkın</b> veya <b>endişeli</b> olduğunu gösterir.",
         "Donem": 4
     },
     {
@@ -4457,6 +4679,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Proxemics (Mesafe Bilimi) tanımına göre, yakın arkadaşların ve aile üyelerinin girebildiği alan <b>Kişisel Alan</b> olarak adlandırılır (yaklaşık 45 cm – 120 cm). Mahrem alan ise (0-45 cm) sadece çok özel ve samimi ilişkiler için ayrılmıştır.",
         "Donem": 4
     },
     {
@@ -4477,6 +4700,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Belirli bir gruba mensubiyeti belirten beden dili ögeleri, genellikle <b>ortak giyim tarzları</b>, <b>üniformalar</b>, <b>semboller</b>, <b>aksesuarlar</b> veya <b>belirli ritüelleri</b> içerir. Bunlar, aidiyet ve kimlik göstergeleridir.",
         "Donem": 4
     },
     {
@@ -4497,6 +4721,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "İşaret parmağını konuşulan kişiye yöneltmek, sözsüz iletişimde genellikle <b>tehditkâr</b>, <b>saldırgan</b> veya <b>suçlayıcı</b> bir jest olarak algılanır. Bu davranış, iletişimde gerilime neden olur ve saygısızlık olarak yorumlanabilir.",
         "Donem": 4
     },
     {
@@ -4517,6 +4742,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Omuzların geri çekilmesi ve göğsün öne çıkarılması (dik duruş), beden dilinde <b>özgüven</b>, <b>kendine hakimiyet</b>, <b>güç</b> ve <b>otorite</b> anlamı içerir. Bu, kişinin kendini rahat ve üstün hissettiğini gösterir.",
         "Donem": 4
     },
     {
@@ -4537,6 +4763,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Beden dilinin temel ögeleri arasında <b>jestler</b> (el ve kol hareketleri), <b>mimikler</b> (yüz ifadeleri), <b>beden duruşu</b>, <b>göz teması</b> ve <b>mekan kullanımı</b> (proxemics) bulunur. Ses tonu (paralinguistik) sözsüz iletişimin bir ögesi olsa da, dilbilgisi veya kelime seçimi gibi unsurlar beden dilinin doğrudan ögesi <u>değildir</u>.",
         "Donem": 4
     },
     {
@@ -4557,6 +4784,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "İlk izlenim, büyük ölçüde sözsüz ipuçlarına dayanır. <b>Fiziksel görünüş</b>, <b>kıyafet temizliği</b>, <b>duruş</b> ve <b>karşılama biçimi</b> önemlidir. Kişinin geçmiş akademik başarıları, ilk karşılaşma anında gözlemlenebilir bir husus <u>değildir</u> ve bu nedenle ilk izlenim sırasında doğrudan dikkat edilen hususlar arasında yer almaz.",
         "Donem": 4
     },
     {
@@ -4577,6 +4805,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "“Eli ayağı buz kesmek” deyimi, kişinin <b>yoğun korku</b>, <b>endişe</b> veya <b>şok</b> nedeniyle yaşadığı fizyolojik tepkiyi ifade eder. Bu, vücudun tehlike karşısında verdiği tepkinin (kan akışının iç organlara yönelmesi) sözsüz bir göstergesidir.",
         "Donem": 4
     },
     {
@@ -4597,6 +4826,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Elleri kenetleyerek oturmak veya kucağa kilitlemek, beden dili açısından bir <b>kapanma</b> veya <b>savunmacılık</b> jestidir. Bu hareket, kişinin iletişimde rahat olmadığı, gergin olduğu veya söylenenleri kabul etmeye kapalı olduğu mesajını verir.",
         "Donem": 4
     },
     {
@@ -4617,6 +4847,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Kişiler arasındaki mesafenin (proxemics) sınırları temelde <b>ilişkinin yakınlığı</b> (statü, samimiyet derecesi) ve <b>kültürel normlar</b> tarafından belirlenir. Bu iki faktör, hangi mesafenin mahrem, kişisel veya sosyal olacağını belirler.",
         "Donem": 4
     },
     {
@@ -4637,6 +4868,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Omuzların aşağı düşürülüp içeri doğru bükülmesi (kambur duruş), genellikle <b>güvensizlik</b>, <b>boyun eğme</b>, <b>üzüntü</b> veya <b>enerjisizlik</b> (yorgunluk) anlamına gelir. Bu duruş, kişinin kendini korunmasız veya zayıf hissettiğini gösterir.",
         "Donem": 4
     },
     {
@@ -4657,6 +4889,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Konuşan bireylerin ayaklarının birbirine doğru yönelmesi, beden dilinde o kişiye ve sohbete karşı <b>ilgi</b>, <b>katılım</b> ve <b>odaklanma</b> belirtisidir. Ayaklar, genellikle kişinin bilinçaltında en çok odaklandığı veya gitmek istediği yönü gösterir.",
         "Donem": 4
     },
     {
@@ -4677,6 +4910,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Münazara, iki zıt görüşün (tez ve antitez) iki farklı grup arasında tartışılarak, dinleyicileri veya hakem heyetini kendi görüşünün haklılığına ikna etmeyi amaçladığı sözlü anlatım türüdür. Münazarada önemli olan, konuyu tüm yönleriyle tarafsızca incelemek değil (bu Panel'in amacıdır), <b>kendi tezini bilimsel ve mantıksal argümanlarla savunmaktır</b>. Yanlış olan ifade, genellikle Münazaranın amacının sadece bilgi vermek olduğu veya konuşmacının kişisel özelliklerinin (ahlaki değerler gibi) ölçüldüğü yönündeki ifadeler olur.",
         "Donem": 4
     },
     {
@@ -4697,6 +4931,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "<b>Açık Oturum</b> (Panel), uzmanların bir başkan yönetiminde güncel bir konuyu tartıştığı formattır. Ancak, eğer oturumun sonunda <b>izleyicilerin soru sormasına ve görüşlerini açıklamasına</b> geniş yer verilirse, bu tür <b>Foruma</b> dönüşür. Forum, izleyici katılımının ve etkileşimin en yoğun olduğu tartışma türüdür.",
         "Donem": 4
     },
     {
@@ -4717,6 +4952,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Bir tezle bir antitezin iki farklı taraf arasında tartışıldığı, konuşma ve savunma olmak üzere iki ana bölümden oluşan sözlü anlatım türü <b>Münazara</b>'dır. Münazarada temel amaç, <b>ikna kabiliyeti ve argümanların gücü</b> ile galip gelmektir.",
         "Donem": 4
     },
     {
@@ -4737,6 +4973,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Amacı dinleyiciyi coşturmak (Nutuk'un aksine) değil, bir konu hakkında <b>bilgi vermek</b> ve bilgilendirmek olan, genellikle belirli bir kültür seviyesine sahip topluluğa hitap eden sözlü anlatım türü <b>Konferans</b>'tır. Konferans, alanında uzman tek bir kişinin yaptığı <b>hazırlıklı konuşmadır</b>.",
         "Donem": 4
     },
     {
@@ -4757,6 +4994,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Açık oturumun sonunda, dinleyicilerden aktif olarak <b>soru alınması ve katılım sağlanması</b> durumunda, bu tür <b>Forum</b>'a dönüşür. Forum, dinleyicilerin aktif rol oynadığı tartışma biçimidir.",
         "Donem": 4
     },
     {
@@ -4777,6 +5015,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Bir başkan yönetiminde yapılan, konuşmacıların tanıtıldığı, sırayla söz verildiği ve değişik görüşlerin <b>eşit oranda temsil edilmesinin</b> temel ilke olduğu sözlü anlatım türü <b>Panel</b>'dir. Başkan, konuşmaları yönetir, süreyi ayarlar ve oturum sonunda <b>tartışmayı toparlayıp özetler</b>.",
         "Donem": 4
     },
     {
@@ -4797,6 +5036,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Konuyu tartışmanın (bir tezi savunmanın) değil, konunun ilgili kişiler tarafından <b>olumlu veya olumsuz yönlerinin ortaya konulmasının</b> asıl amaç olduğu, bir başkan tarafından yönetilen, uzman kişilerce yapılan seri konuşmalara <b>Panel</b> adı verilir. Panelde amaç, aydınlatmadır.",
         "Donem": 4
     },
     {
@@ -4817,6 +5057,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Panel, Münazara, Açık Oturum gibi tartışma odaklı türlerde süreci yöneten bir Başkan veya Hakem bulunurken; <b>Konferans</b>, tek bir konuşmacının yaptığı, genellikle uzun ve hazırlıklı bir sunum olduğu için, süreci yöneten ayrı bir <b>başkan/yönetici bulunmaz</b>.",
         "Donem": 4
     },
     {
@@ -4837,6 +5078,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Münazaralarda konuşmacıların <b>ikna kabiliyeti, mantıksal tutarlılığı, hitabet yeteneği</b> ve sunduğu <b>argümanların sağlamlığı</b> ölçülür. Konuşmacıların konuyla doğrudan ilgili olmayan <b>kişisel veya ahlaki özellikleri ölçülmez</b>.",
         "Donem": 4
     },
     {
@@ -4857,6 +5099,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Sözlü anlatım türleri arasında, tarafların performansını ve argümanlarının gücünü değerlendirerek kazananı belirleyen bir <b>Hakem Heyeti</b>'nin (Jürinin) bulunduğu tek tür <b>Münazara</b>'dır.",
         "Donem": 4
     },
     {
@@ -4877,6 +5120,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Konferans planı; <b>Giriş</b>, <b>Gelişme</b> ve <b>Sonuç</b> bölümlerini içerir. Konferans tek taraflı bilgi verme odaklı olduğu için, Münazara'ya özgü olan <b>tez ve antitezlerin tartışılması</b> veya <b>karşı savunma (rebuttal)</b> gibi aşamalar planın kendisinde yer almaz.",
         "Donem": 4
     },
     {
@@ -4897,6 +5141,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Açık oturumun temel özellikleri şunlardır: I. <b>Topluluk karşısında yapılır.</b> (Doğru) II. <b>Süreci yöneten bir başkan vardır.</b> (Doğru) III. Dinleyiciler görüşlerini açıklayabilir (Bu, genellikle Forum'a ait bir özellik olsa da, Açık Oturumlar genellikle soru-cevap bölümünü içerir). Açık oturumun temel ve kesin özellikleri <b>I ve II</b>'dir. Dinleyicilerin soru sorması yaygın bir uygulamadır.",
         "Donem": 4
     },
     {
@@ -4917,6 +5162,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Nutuk (Söylev), dinleyicileri <b>coşturmak, heyecanlandırmak ve belirli bir amaca yönlendirmek</b> için yapılan, güçlü hitabetin ön planda olduğu konuşmalardır. Nutuk'un temel amacı sadece bilgi vermek değil, <b>duygusal etki ve ikna</b> sağlamaktır. Nutuk'un tarafsız ve sadece bilgilendirme amaçlı olduğu ifadesi <b>yanlıştır</b>.",
         "Donem": 4
     },
     {
@@ -4937,6 +5183,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Açık oturum, genellikle <b>güncel ve toplumu ilgilendiren</b> bir konunun, alanında uzman kişilerce <b>bir başkan yönetiminde</b> topluluk önünde tartışıldığı sözlü anlatım türüdür. Özelliklerinden biri, <b>uzman konuşmacılar tarafından yapılmasıdır</b>.",
         "Donem": 4
     },
     {
@@ -4957,6 +5204,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Bu tanım, farklı görüşlerin <b>bilimsel delil, belge ve kayıtlara dayandırılarak</b> savunulduğu konuşma türü olan <b>Münazara</b>'yı işaret etmektedir. Münazarada 'savunma' eylemi kritik öneme sahiptir ve seviyeli üslup esastır.",
         "Donem": 4
     },
     {
@@ -4977,6 +5225,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "<b>Eleştirel ve analitik düşünme becerisini</b> en üst düzeyde geliştiren konuşma türü <b>Münazara</b>'dır. Konuşmacılar, hem kendi argümanlarını sağlamlaştırmalı hem de karşı tarafın mantıksal hatalarını hızla tespit etmelidir.",
         "Donem": 4
     },
     {
@@ -4997,6 +5246,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Verilen özellikler (I. Farklı görüş, II. Bilimsel kanıt, III. Analitik düşünme) <b>Münazara</b> türüne aittir. Münazara, karşıt görüşlerin bilimsel kanıtlarla desteklenerek eleştirel bir biçimde savunulduğu bir tartışma türüdür.",
         "Donem": 4
     },
     {
@@ -5017,6 +5267,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Açık oturum başkanının görevi, konuşmacıları tanıtmak, süreyi ayarlamak, tartışmanın konudan sapmasını önlemek ve oturumu özetlemektir. Başkan, <b>tartışmanın aktif bir tarafı olarak kendi görüşünü açıklamaz</b> veya bir tarafı desteklemez; <b>tarafsızlığı</b> korumak zorundadır.",
         "Donem": 4
     },
     {
@@ -5037,6 +5288,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Metin, dinleyiciyi <b>duygusal çağrılarla coşturmayı</b>, onlara hitap etmeyi ve ortak tarihi değerler üzerinden bir motivasyon yaratarak belirli bir amaca yönlendirmeyi amaçlayan bir üslup taşımaktadır. Bu özellikler, <b>Nutuk</b> (Söylev) türüne aittir.",
         "Donem": 4
     },
     {
@@ -5057,6 +5309,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Alanında uzman bir kişinin, herhangi bir konu ya da olay hakkında görüş ve düşüncelerini açıklamak amacıyla <b>hazırlıklı</b> olarak bir grup ya da topluluk önünde yaptığı konuşmaya <b>Konferans</b> adı verilir. Konferansta amaç, derinlemesine bilgi aktarımıdır.",
         "Donem": 4
     },
     {
@@ -5077,6 +5330,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Bir <b>Seminer</b>, genellikle bir bilim dalındaki veya uzmanlık alanındaki belirli bir konu hakkında derinlemesine bir çalışma veya araştırma sonucunun sunulduğu, akademik veya mesleki bir toplantıdır. Seminerler, belli bir <b>bilimsel birikime sahip</b> kişilere hitap eder, bir konuşmacı tarafından sunulur ve sonrasında mutlaka <b>tartışma ve soru-cevap</b> bölümü bulunur. Seminerin özelliği olmayan bir durum (örneğin, tamamen halka açık olması veya yalnızca siyasi konuları içermesi) doğru cevap olacaktır.",
         "Donem": 4
     },
     {
@@ -5097,6 +5351,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "<b>Forum</b>, dinleyicilerin konu hakkındaki görüşlerini ve sorularını dile getirebildiği sözlü anlatım türüdür. Forumu yöneten <b>başkan</b> (moderatör), tartışmanın düzenli, zamanında ve konu dışına sapmadan ilerlemesini sağlamalıdır. Başkanın temel görevi tarafsızlığı korumaktır. Başkanın yapmaması gereken davranış, kendi kişisel görüşlerini tartışmaya dayatmak, dinleyicilerin katılımını haksız yere kısıtlamak veya katılımcılara karşı <b>taraflı davranmak</b> olmalıdır.",
         "Donem": 4
     },
     {
@@ -5117,6 +5372,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Tanımı yapılan sözlü anlatım türü <b>Konferans</b>'tır (Bildiri). Konferans, alanında yetkin yerli veya yabancı <b>uzmanların</b>, genellikle geniş bir dinleyici kitlesine, bilimsel, sanatsal veya toplumsal bir konu hakkında bilgi aktarmak amacıyla düzenlediği, <b>bir defaya mahsus</b> olabilen veya periyodik tekrarlanan resmi toplantılardır. Esas amaç, dinleyicilere bilgi vermektir.",
         "Donem": 4
     },
     {
@@ -5137,6 +5393,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Alanında <b>otorite kabul edilen kişiler</b> tarafından, bilim dalındaki güncel <b>gelişmelerin</b> veya detaylı bir araştırma konusunun, o alanda <b>belli bir birikimi olan ilgili kişilere</b> aktarıldığı toplantılara <b>Seminer</b> adı verilir. Seminerler, genellikle akademik ilerlemeyi ve derinlemesine bilgiyi hedefleyen özel bir toplantı formatıdır.",
         "Donem": 4
     },
     {
@@ -5157,6 +5414,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Uzmanların veya konuşmacıların <b>farklı mekanlarda</b> bulunmalarına rağmen, <b>teknoloji yardımıyla</b> (video, ses bağlantısı) tartışma programlarına veya toplantılara katılmasını sağlayan sözlü anlatım türü <b>Telekonferans</b>'tır. Bu yöntem, fiziksel olarak aynı ortamda bulunma zorunluluğunu ortadan kaldırır.",
         "Donem": 4
     },
     {
@@ -5177,6 +5435,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Verilen amaçlar (dinleyicileri aktif duruma getirmek, bilgi ve tecrübelerini ileri sürme fırsatı vermek) ve tarihsel kökeni (Eski Roma'daki halkın toplandığı alan) ile tanımlanan sözlü anlatım türü <b>Forum</b>'dur. Forum, dinleyicilerin tartışmanın bizzat parçası olduğu, katılımın en yüksek olduğu türdür.",
         "Donem": 4
     },
     {
@@ -5197,6 +5456,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Toplumu yakından ilgilendiren herhangi bir güncel konu hakkında, dinleyiciler karşısında farklı görüşlere sahip <b>uzman kişilerin</b> konu ya da olayla ilgili <b>yaptığı seri konuşmalara</b> <b>Açık Oturum</b> adı verilir. Amaç, konunun farklı yönlerini geniş kitlelere sunmaktır. Bu tür, genellikle radyoda veya televizyonda yayınlanır.",
         "Donem": 4
     },
     {
@@ -5217,6 +5477,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Farklı ülkelerden <b>devlet ve kuruluş temsilcileriyle yöneticilerin</b> katılmasıyla ya da siyasi parti ve derneklerin belli gündemler için bir araya gelmesiyle yapılan, genellikle karar alma veya geniş kapsamlı konuları görüşme amacıyla düzenlenen resmi ve geniş katılımlı toplantılara <b>Kongre</b> (Kurultay) adı verilir.",
         "Donem": 4
     },
     {
@@ -5237,6 +5498,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 2,
+        "Aciklama": "Konuşmacı ve dinleyicilerin <b>bir arada bulunmasına gerek olmayan</b> sözlü anlatım türü <b>Telekonferans</b>'tır. Bu türde, iletişim sesli ve görüntülü teknolojiler (video konferans, vb.) aracılığıyla uzaktan sağlanır, böylece mekânsal kısıtlamalar ortadan kalkar.",
         "Donem": 4
     },
     {
@@ -5257,6 +5519,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Listelenen tüm sözlü anlatım türleri (I. <b>Panel</b>, II. <b>Telekonferans</b>, III. <b>Forum</b>, IV. <b>Sempozyum</b>) organize ve yapılandırılmış etkinlikler olduğundan, tartışmayı veya oturumu düzenli bir şekilde yönetmek, zamanı ayarlamak ve katılımcıların kurallara uymasını sağlamak amacıyla bir <b>Başkan</b> (Moderatör/Yönetici) bulundurur. Bu nedenle, dördünde de başkan bulunur.",
         "Donem": 4
     },
     {
@@ -5277,6 +5540,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "Uzmanların dinleyiciler karşısında bir konuyu farklı yönlerden ele aldığı <b>Panel</b>, panelistlerin konuşmaları sona erdikten sonra <b>dinleyicilerin tartışmaya katılmasıyla</b> (soru sorma veya görüş bildirme) bir <b>Forum</b>'a dönüşür. Bu, Panel formatının yaygın bir uzantısıdır.",
         "Donem": 4
     },
     {
@@ -5297,6 +5561,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "<b>Sempozyum</b>'da (Bilgi Şöleni) sunulan bilimsel veya akademik bildiriler, toplantı sonrasında bilimsel kayıt oluşturmak amacıyla bir araya getirilerek <b>kitap hâlinde yayımlanabilir</b>. Bu, Sempozyum'u diğer tartışma türlerinden ayıran en önemli bilimsel özelliklerden biridir.",
         "Donem": 4
     },
     {
@@ -5317,6 +5582,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Listelenen sözlü anlatım türlerinin hepsi (I. <b>Panel</b>, II. <b>Açık Oturum</b>, III. <b>Kongre</b>, IV. <b>Sempozyum</b>) organize toplantılardır ve genellikle oturumların sonunda dinleyicilere <b>soru sorma</b>, görüş bildirme ve böylece tartışmaya katılma imkânı sunulur. Özellikle Panel ve Açık Oturum'da bu katılım, tartışmanın Foruma dönüşmesine neden olabilir.",
         "Donem": 4
     },
     {
@@ -5337,6 +5603,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 1,
+        "Aciklama": "Açık Oturumdan temel farkı, izleyicilerin sadece soru sormakla kalmayıp <b>kendi görüş ve düşüncelerini açıklayabildikleri</b> sözlü anlatım türü <b>Forum</b>'dur. Forum, dinleyicilerin aktif ve kapsamlı katılımını teşvik ederek, tartışmayı panelistlerin ötesine taşır.",
         "Donem": 4
     },
     {
@@ -5357,6 +5624,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Parçada anlatılan konuşma türü <b>Sempozyum</b>'dur. Sempozyum, genellikle <b>bilimsel</b> konuların, alanında uzman farklı kişiler tarafından dinleyiciler karşısında anlatıldığı ve geleneksel olarak <b>Bilgi Şöleni</b> olarak adlandırıldığı toplantı biçimidir. Genellikle birden fazla oturumda gerçekleştirilir.",
         "Donem": 4
     },
     {
@@ -5377,6 +5645,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 3,
+        "Aciklama": "<b>Mekândan bağımsız</b> olarak, uzaktan eğitim yoluyla yapılan canlı dersler, teknolojik iletişim araçlarının kullanılması nedeniyle <b>Telekonferans</b> (uzaktan toplantı) konuşma türü kapsamında ele alınır. Bu, konuşmacı ve dinleyicinin fiziksel olarak ayrı yerlerde olmasına rağmen eş zamanlı etkileşim kurmasını sağlar.",
         "Donem": 4
     },
     {
@@ -5397,6 +5666,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 4,
+        "Aciklama": "Konuşmacı ve dinleyicilerin <b>aynı mekânda olması zorunluluğunu ortadan kaldıran</b>, birden fazla mekândaki dinleyiciye ulaşma imkânı veren ve bu sayede <b>zaman ve maliyet açısından tasarruf</b> sunan sözlü anlatım türü <b>Telekonferans</b>'tır. Bu avantajlar, modern uzaktan iletişim teknolojilerinin bir sonucudur.",
         "Donem": 4
     },
     {
@@ -5417,6 +5687,7 @@
         "DersId": 336,
         "OBSDersId": 9474,
         "CevapSira": 5,
+        "Aciklama": "Boş bırakılan yere <b>Sempozyum</b> (Bilgi Şöleni) getirilmelidir. Sempozyum, toplumu ilgilendiren bir konunun <b>farklı uzman kişiler</b> tarafından sunulduğu, sunulacak konuların <b>tasnif edilerek</b> (sınıflandırılarak) <b>oturumlar düzenlenmesi</b> ile karakterize edilen bilimsel ve yapılandırılmış toplantılardır. İlk cümledeki tanım Açık Oturum’a da benzese de, ikinci cümledeki 'oturumlar düzenlenir' ibaresi Sempozyum’un çok oturumlu yapısını işaret eder.",
         "Donem": 4
     }
 ]

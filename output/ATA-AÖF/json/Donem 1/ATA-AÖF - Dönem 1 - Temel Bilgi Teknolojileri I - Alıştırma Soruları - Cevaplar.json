@@ -1,0 +1,890 @@
+[
+    {
+        "SoruID": 376235,
+        "Aciklama": "Metinler, sözcükler, rakamlar, sayılar, olaylar, resimler vb. şeklinde gösterilen işlenmemiş gerçekliklere <b>Veri</b> denir. Veri, tek başına anlam ifade etmeyen, ancak işlenerek enformasyon oluşturulmasına zemin hazırlayan ham kayıtlardır."
+    },
+    {
+        "SoruID": 376236,
+        "Aciklama": "Verinin enformasyona dönüştürülmesi süreci genellikle üç temel aşamadan oluşur: <b>Veri Toplama (Giriş)</b>, <b>Veri İşleme (Manipülasyon)</b> ve <b>Veri İletme (Çıkış)</b>. Eğer şıklarda bu temel aşamaların dışında bir seçenek (örneğin 'Depolama' veya 'Yorumlama' gibi ikincil işlemler) bulunuyorsa, bu dönüşüm sürecinin zorunlu aşamalarından biri olmayabilir. Temel dönüşüm döngüsü, ham veriyi anlamlı hale getirmeyi içerir."
+    },
+    {
+        "SoruID": 376237,
+        "Aciklama": "Veri ve enformasyonu temel alarak, bunların tecrübe, deney, kişisel inançlar veya yorumlama sonucu bir araya getirilmesiyle ortaya çıkan kavrama <b>Bilgi (Knowledge)</b> denir. Bilgi, enformasyonun anlamlandırılmış ve uygulanabilir hale gelmiş şeklidir."
+    },
+    {
+        "SoruID": 376238,
+        "Aciklama": "Veri işlemenin tarihsel evreleri dört ana başlıkta incelenir: <b>Elle İşleme (Manuel)</b>, <b>Mekanik İşleme</b>, <b>Elektromekanik İşleme</b> ve <b>Elektronik İşleme</b>. Bu evreler dışında kalan bir seçenek (örneğin 'Buharla İşleme') veri işlemenin kabul görmüş temel evreleri arasında yer almaz."
+    },
+    {
+        "SoruID": 376239,
+        "Aciklama": "Günümüzde bilgisayarlar ve diğer dijital cihazlar aracılığıyla yapılan veri işleme evresi <b>Elektronik (Dijital) Evre</b> olarak adlandırılır. Bu evre, yüksek hız, otomasyon ve karmaşık işlemler yapabilme yeteneği sunar ve mekanik araçlara bağımlılığı ortadan kaldırır."
+    },
+    {
+        "SoruID": 376240,
+        "Aciklama": "Birinci kuşak bilgisayarların (yaklaşık 1940-1956) temel özelliği, işlemci bileşeni olarak <b>Vakum Tüpleri (Elektron Tüpleri)</b> kullanmalarıdır. Bu tüpler cihazların büyük, pahalı, çok enerji tüketen ve çok ısı üreten olmasına neden olmuştur. Programlama dili olarak makine dili kullanılmıştır."
+    },
+    {
+        "SoruID": 376241,
+        "Aciklama": "İkinci kuşak bilgisayarların (yaklaşık 1956-1963) temel özelliği, vakum tüpleri yerine daha küçük, daha hızlı ve daha az ısı üreten <b>Transistörler</b> kullanılmasıdır. Ayrıca, bu kuşakta manyetik çekirdek bellekler kullanılmaya başlanmış ve Assembly ile FORTRAN/COBOL gibi üst düzey programlama dilleri geliştirilmiştir."
+    },
+    {
+        "SoruID": 376242,
+        "Aciklama": "Fiziksel değerleri (sıcaklık, basınç, hız, elektrik akımı vb.) sürekli değişen veriler olarak ölçmek ve işlemek için üretilen bilgisayarlar <b>Analog Bilgisayarlar</b>dır. Bu bilgisayarlar, dijital bilgisayarların aksine veriyi 0 ve 1'ler şeklinde değil, sürekli sinyaller şeklinde temsil eder."
+    },
+    {
+        "SoruID": 376243,
+        "Aciklama": "Hem sürekli fiziksel değerleri ölçme (Analog) hem de bu verileri işleme ve depolama (Dijital) özelliklerini bir arada barındıran bilgisayarlar <b>Hibrit Bilgisayarlar</b> olarak adlandırılır. Bu bilgisayarlar genellikle özel bilimsel ve endüstriyel uygulamalarda kullanılır (örneğin hastanelerde EKG cihazları)."
+    },
+    {
+        "SoruID": 376244,
+        "Aciklama": "Birden fazla bilgisayarın, çeşitli iletişim protokolleri ve fiziksel bağlantılar aracılığıyla birbirine bağlanarak iletişim kurmasını, veri paylaşmasını ve yazıcı gibi çevresel aygıtları ortak kullanmasını sağlayan yapıya <b>Bilgisayar Ağı</b> denir."
+    },
+    {
+        "SoruID": 376623,
+        "Aciklama": "Ham durumdaki verilerin, belli bir işleme (toplama, düzenleme, analiz etme vb.) tabi tutularak anlamlı, düzenli ve kullanışlı bir hâle getirilmesi sonucunda <b>Enformasyon (Bilgi)</b> oluşur. Enformasyon, kararların alınmasında ve problemlerin çözümünde kullanılır."
+    },
+    {
+        "SoruID": 376624,
+        "Aciklama": "Bu tanım, sadece bilgiye sahip olmayı değil, aynı zamanda bu bilgiyi tecrübe, muhakeme ve etik değerlerle birleştirerek potansiyel problemleri görme, durumları değerlendirme ve doğru/yanlış ayrımını yapabilme yeteneğini ifade eder. Bu yetenek, Bilgi-Enformasyon hiyerarşisinin en üst basamağı olan <b>Bilgelik (Wisdom)</b> kavramına karşılık gelir."
+    },
+    {
+        "SoruID": 376626,
+        "Aciklama": "Delikli kartlar, ilk olarak 1890'lardaki nüfus sayımında Herman Hollerith tarafından geliştirilen makinede kullanılmış ve bu da <b>Elektromekanik İşleme Evresi</b>nin başlangıcını işaret etmiştir. Delikli kartlar, verinin makinelere girilmesi ve depolanması için kullanılmıştır ve özellikle Mekanik ve Elektromekanik evrelerde yaygındı."
+    },
+    {
+        "SoruID": 376627,
+        "Aciklama": "Herhangi bir mekanik araca (elle çevrilen sayaçlar, delikli kart makineleri vb.) ihtiyaç duyulmadan, tamamen elektrik sinyalleri ve devreler aracılığıyla veri işleme yapılan evre <b>Elektronik Evre</b>dir (Dijital Evre). Bu evre, bilgisayarların ortaya çıkmasıyla başlamıştır."
+    },
+    {
+        "SoruID": 376630,
+        "Aciklama": "Dördüncü kuşak bilgisayarların (yaklaşık 1971-Günümüz) temel özelliği, çok sayıda transistörün tek bir yonga üzerinde toplanması anlamına gelen <b>VLSI (Çok Büyük Ölçekli Entegrasyon)</b> teknolojisinin kullanılması ve bunun sonucunda <b>Mikroişlemcilerin</b> ortaya çıkmasıdır. Bu durum, kişisel bilgisayarların (PC) yaygınlaşmasını sağlamıştır."
+    },
+    {
+        "SoruID": 376631,
+        "Aciklama": "Yapılacak işlemin bir defa ve kalıcı olarak kaydedildiği ve sadece belirli bir görevi yerine getirmek üzere tasarlanmış bilgisayar sınıfı <b>Özel Amaçlı Bilgisayarlar</b>dır (Special Purpose Computers). Bu bilgisayarların programları ve donanımları genellikle tek bir işlev için optimize edilmiştir (örneğin trafik lambası kontrol üniteleri)."
+    },
+    {
+        "SoruID": 394256,
+        "Aciklama": "Kullanıcıların mobil cihazları, bilgisayarları ve diğer elektronik cihazları arasında genellikle birkaç metrelik kısa mesafelerde iletişim kurmasını sağlayan ağ sistemi türü <b>Kişisel Alan Ağı (PAN - Personal Area Network)</b> olarak adlandırılır. Bluetooth ve kızılötesi gibi teknolojiler PAN yapısında kullanılır."
+    },
+    {
+        "SoruID": 376245,
+        "Aciklama": "Anakart üzerine kasa dışından veya kablo ile dolaylı olarak bağlanan donanım birimlerine <b>Çevresel Birimler (Peripherals)</b> adı verilir. Bu birimler genellikle bilgisayara veri girişi (klavye, fare) veya veri çıkışı (monitör, yazıcı) sağlamakla yükümlüdür."
+    },
+    {
+        "SoruID": 376246,
+        "Aciklama": "Bütün donanım birimlerinin doğrudan (CPU, RAM gibi) veya dolaylı olarak (kartlar, çevresel birimler) üzerine bağlandığı ana elektronik karta <b>Anakart (Motherboard)</b> denir. Anakart, bu birimler arasında iletişimi sağlayan temel bileşendir."
+    },
+    {
+        "SoruID": 376247,
+        "Aciklama": "Bilgisayardaki bütün görevleri yürütme, hesaplama yapma ve yönlendirme işlemini gerçekleştiren donanım birimi <b>Merkezi İşlem Birimi (MİB)</b> veya <b>CPU (Central Processing Unit)</b>'dur. Bilgisayarın beyni olarak kabul edilir."
+    },
+    {
+        "SoruID": 376248,
+        "Aciklama": "RAM (Random Access Memory) bellekler, bilgisayar çalıştığı sürece işlemci tarafından kullanılan verileri geçici olarak depolar. Bu belleklerin temel özelliği, bilgisayar kapatıldığında veya güç kesildiğinde üzerindeki verilerin kaybolmasıdır (<b>uçucu/volatile</b> yapıdadır). Bu nedenle, 'Verileri kalıcı olarak depolar' şeklindeki bir ifade <b>yanlış</b> olacaktır."
+    },
+    {
+        "SoruID": 376249,
+        "Aciklama": "Her ağ arayüzü kartına (Ethernet Kartı, Wi-Fi adaptörü) üretim aşamasında atanmış, dünya üzerinde <b>eşsiz</b> (benzersiz) olan fiziksel adrese <b>MAC (Media Access Control) Adresi</b> denir. Bu adres, ağ donanımlarının birbirini tanıması için kullanılır."
+    },
+    {
+        "SoruID": 376250,
+        "Aciklama": "Bilgisayardaki dijital ses verilerini analog sinyallere dönüştürerek seslerin çalışmasını ve bunların bilgisayar hoparlörüne gönderilmesini sağlayan donanım birimi <b>Ses Kartı</b>dır."
+    },
+    {
+        "SoruID": 376251,
+        "Aciklama": "Monitörlerin ve görüntüleme sistemlerinin kalitesi üzerinde etkisi olan temel faktörler şunlardır:<br/>I. <b>Dot Pitch (Nokta Aralığı):</b> İki aynı renkli fosfor noktası arasındaki mesafedir; küçük olması kaliteyi artırır.<br/>II. <b>Çözünürlük:</b> Ekranda yatayda ve dikeyde gösterilebilen piksel sayısıdır.<br/>III. <b>Tazeleme Hızı (Refresh Rate):</b> Ekrandaki görüntünün saniyede kaç kez yenilendiğini belirtir.<br/>Dolayısıyla, yukarıdaki seçeneklerin <b>tamamı</b> (I, II ve III) görüntü kalitesi üzerinde doğrudan etkilidir."
+    },
+    {
+        "SoruID": 376252,
+        "Aciklama": "Klavye üzerindeki harflerin yerleşim düzenine göre belirlenen ve en yaygın kullanılan klavye türleri <b>Q Klavye</b> (İngilizce standart) ve <b>F Klavye</b> (Türkçe'ye uygun bilimsel dizilim) dir."
+    },
+    {
+        "SoruID": 376253,
+        "Aciklama": "<b>Modem (Modülatör/Demodülatör)</b>, bilgisayardan gelen dijital sinyalleri analog sinyallere (modülasyon) ve telefon hattından gelen analog sinyalleri dijital sinyallere (demodülasyon) çevirerek birbirinden uzak bilgisayarların telefon hatları veya benzeri analog altyapılar üzerinden haberleşmesini sağlayan donanım birimidir."
+    },
+    {
+        "SoruID": 376254,
+        "Aciklama": "<b>Sistem yazılımları</b> (İşletim Sistemleri, Derleyiciler, Sürücüler), bilgisayar donanımının çalışmasını yöneten temel yazılımlardır. Word, Excel, Oyunlar gibi kullanıcının belirli bir görevi yerine getirmesini sağlayan programlar ise <b>Uygulama Yazılımları</b>dır. Eğer şıklar arasında bir uygulama yazılımı varsa (örneğin <b>Kelime İşlemci</b>), bu sistem yazılımı değildir."
+    },
+    {
+        "SoruID": 376633,
+        "Aciklama": "<b>İçsel Donanım Birimleri</b>, bilgisayar kasasının içinde, genellikle anakarta takılı olarak bulunan donanımlardır (CPU, RAM, Anakart, Sabit Disk vb.). Kasa dışında kalan, kabloyla veya kablosuz bağlanan birimler (Klavye, Monitör, Yazıcı) ise <b>Dışsal/Çevresel Donanım Birimleri</b>dir. Örneğin, <b>Yazıcı</b> içsel bir donanım birimi değildir."
+    },
+    {
+        "SoruID": 376636,
+        "Aciklama": "Bilgisayardaki en hızlı bellekler olan <b>kaydediciler (registers)</b> dahil olmak üzere, bilgisayarın temelde çalıştığı ve verileri depoladığı sayı sistemi <b>İkili (Binary) Sayı Sistemi</b>dir. Bu sistemde veriler 0 ve 1 değerleri kullanılarak temsil edilir."
+    },
+    {
+        "SoruID": 376638,
+        "Aciklama": "Sabit diskler, bilgisayardaki kalıcı verileri depolamak için kullanılır. Başlıca sabit disk çeşitleri şunlardır:<br/>I. <b>HDD (Hard Disk Drive):</b> Mekanik disk kullanan geleneksel sabit disk.<br/>II. <b>SSD (Solid State Drive):</b> Çipli bellek kullanan, daha hızlı katı hal sürücüsü.<br/>III. <b>HHD (Hibrit Hard Drive):</b> Hem mekanik disk hem de küçük bir SSD önbelleği içeren melez sürücü.<br/>Dolayısıyla, <b>hepsi</b> sabit disk çeşitlerindendir."
+    },
+    {
+        "SoruID": 376639,
+        "Aciklama": "Bir bilgisayarın ağ yapılandırma bilgilerini (IP, Alt Ağ Maskesi, Varsayılan Ağ Geçidi) ve ayrıca fiziksel MAC adresini öğrenmek için Windows komut sisteminde genellikle <b>ipconfig /all</b> komutu kullanılır. Bu komut, ağ adaptörleri hakkındaki tüm detaylı bilgileri listeler."
+    },
+    {
+        "SoruID": 392884,
+        "Aciklama": "Uygulama yazılımları, kullanıcıların belirli görevleri yerine getirmesi için tasarlanmıştır (Örn: Office programları, muhasebe yazılımları). <b>İşletim Sistemleri</b> (Windows, Linux, macOS) ise donanımı yöneten ve uygulama yazılımlarının çalışmasına izin veren <b>sistem yazılımları</b>dır. Bu nedenle bir işletim sistemi (örneğin <b>Linux İşletim Sistemi</b>), uygulama yazılımına örnek olamaz."
+    },
+    {
+        "SoruID": 394257,
+        "Aciklama": "İçsel donanımlar, bilgisayar kasası içerisinde bulunan ve doğrudan anakarta bağlı çalışan temel bileşenlerdir. <b>RAM (Rastgele Erişimli Bellek)</b>, anakart üzerindeki yuvalara takılan ve işlemcinin anlık verilerini depolayan kritik bir <b>içsel donanımdır</b>. Klavye, fare veya hoparlör gibi birimler dışsal donanımdır."
+    },
+    {
+        "SoruID": 376255,
+        "Aciklama": "Bu sistem, <b>İşletim Sistemi</b> (OS) olarak adlandırılır. İşletim sistemi, bir bilgisayarın temel ve en önemli yazılımıdır. Kullanıcı ile bilgisayar donanımı arasındaki iletişimi yönetir, kullanıcının isteklerini yerine getirir, donanım kaynaklarını (CPU, bellek, depolama, giriş/çıkış aygıtları) düzenler ve diğer yazılımların çalışması için bir ortam sağlar. Kısacası, <b>kaynak yöneticisi</b> ve <b>arayüz sağlayıcısı</b> görevini üstlenir."
+    },
+    {
+        "SoruID": 376256,
+        "Aciklama": "1946 yılında ABD ordusu için Pensilvanya Üniversitesi'nde geliştirilen cihaz <b>ENIAC</b>'tır (Electronic Numerical Integrator and Computer). Bu cihaz, ilk genel amaçlı, elektronik sayısal bilgisayar olarak kabul edilir. Onluk sayı tabanına dayalı çalışması ve o dönemdeki büyüklüğü (bir oda büyüklüğünde) ile bilgisayar tarihçesinde önemli bir dönüm noktasıdır."
+    },
+    {
+        "SoruID": 376257,
+        "Aciklama": "Windows, macOS ve Linux gibi sistemler birer <b>işletim sistemi</b> (OS) ailesidir. İşletim sistemleri, bilgisayarın çalışması için zorunlu olan temel yazılımlardır. Eğer seçeneklerde Microsoft Word, Photoshop, veya Chrome gibi programlar varsa, bunlar <b>uygulama yazılımları</b> (application software) olup, işletim sistemi değildirler. Uygulama yazılımları, belirli görevleri yerine getirmek için işletim sisteminin üzerinde çalışır."
+    },
+    {
+        "SoruID": 376258,
+        "Aciklama": "Dünya genelindeki kişisel bilgisayarlarda (PC) en yaygın kullanılan işletim sistemi <b>Microsoft Windows</b>'tur. Yıllardır süregelen pazar hakimiyeti sayesinde hem kurumsal hem de ev kullanıcıları arasında geniş bir kullanım alanına sahiptir. Açık ara farkla <b>en çok kullanılan masaüstü işletim sistemi</b> konumundadır."
+    },
+    {
+        "SoruID": 376259,
+        "Aciklama": "Windows 11 ile görev çubuğuna entegre edilen bu kısayollar ve dinamik bilgi akışı penceresi <b>Widget'lar</b> olarak adlandırılır. Bu özellik, kullanıcılara hava durumu, haberler, trafik ve ajanda gibi <b>güncel ve kişiselleştirilmiş bilgilere</b> hızlı erişim imkanı sunar. Windows 11'in yeni tasarım felsefesinin bir parçasıdır."
+    },
+    {
+        "SoruID": 376260,
+        "Aciklama": "Macintosh bilgisayarlara özel olarak geliştirilen işletim sistemi <b>macOS</b>'tur (eski adıyla OS X). Apple tarafından tasarlanan bu sistem, özellikle grafik tasarım ve yaratıcı profesyoneller arasında popülerdir. macOS, <b>UNIX tabanlı</b> bir çekirdek (Darwin) üzerine kurulmuştur ve kendine özgü kullanıcı arayüzü ve entegrasyon özellikleri ile bilinir."
+    },
+    {
+        "SoruID": 376261,
+        "Aciklama": "Apple marka cihazlar (iPhone, iPad, Mac) için resmi uygulama dağıtım platformu <b>App Store</b>'dur. App Store, 2008 yılında piyasaya sürülmüştür ve geliştiricilerin uygulamalarını kullanıcılara güvenli bir şekilde sunmasını sağlar. iOS/iPadOS ekosisteminde uygulamaların yüklenmesi için <b>birincil ve güvenilir kaynak</b> olarak işlev görür."
+    },
+    {
+        "SoruID": 376262,
+        "Aciklama": "Özgür (free), açık kaynak kodlu ve ücretsiz dağıtılan işletim sistemi ailesi <b>Linux</b>'tur. Linux, Linus Torvalds tarafından geliştirilen çekirdek üzerine inşa edilmiş olup, kullanıcıların kaynak kodunu görmesine, değiştirmesine ve dağıtmasına izin verir. Bu özgürlük sayesinde <b>Red Hat, Ubuntu, Debian ve Pardus</b> gibi birçok farklı dağıtımı (distribütörü) mevcuttur."
+    },
+    {
+        "SoruID": 376263,
+        "Aciklama": "Türkiye'nin ilk yerli ve millî olarak geliştirilen işletim sistemi <b>Pardus</b>'tur. TÜBİTAK/ULAKBİM tarafından geliştirilen Pardus, Linux çekirdeğini temel alır ve kamu kurumları başta olmak üzere, yerel ihtiyaçlara uygun çözümler sunmak amacıyla üretilmiştir. Amacı, <b>ulusal bilgi güvenliğini</b> sağlamak ve dışa bağımlılığı azaltmaktır."
+    },
+    {
+        "SoruID": 376264,
+        "Aciklama": "Dünyadaki akıllı telefonlar ve tabletler gibi mobil cihazlarda en çok kullanılan işletim sistemi <b>Android</b>'dir. Google tarafından geliştirilen ve Linux çekirdeği üzerine kurulu olan Android, birçok farklı cihaz üreticisi tarafından kullanılması ve esnek yapısı sayesinde küresel pazarda en yüksek paya sahiptir. Bu sistem, <b>açık kaynaklı yapısı</b> ile öne çıkar."
+    },
+    {
+        "SoruID": 376644,
+        "Aciklama": "Verilen her üç ifade de işletim sistemlerinin ve genel bilgisayar teknolojisinin tarihsel gelişimi açısından doğrudur. I. maddede bahsedilen <b>Transistörler</b> (İkinci Nesil Bilgisayarlar) bilgisayarları daha küçük ve güvenilir hale getirdi. II. maddede bahsi geçen <b>Entegre Devreler</b> (Üçüncü Nesil) boyutları daha da küçültürken, maliyeti düşürdü. III. maddede geçen <b>Yonga Setleri ve mikroişlemciler</b> (Dördüncü Nesil), kişisel bilgisayarların ve dolayısıyla işletim sistemlerinin yaygınlaşmasının ana nedenidir. Bu nedenle cevap <b>I, II ve III</b>'tür."
+    },
+    {
+        "SoruID": 376649,
+        "Aciklama": "Pardus işletim sisteminin öne çıkan temel özellikleri bunlardır: I. Pardus projesi, <b>TÜBİTAK-ULAKBİM</b> tarafından desteklenir ve geliştirilir. II. Pardus, özellikle 'Çalışan Pardus' olarak bilinen sürümü sayesinde <b>kurulum yapmaya gerek kalmadan</b> CD/USB üzerinden çalışmaya başlayabilir (Live OS özelliği). III. Linux tabanlı bir sistem olduğu için geniş bir <b>dil desteği</b> sunar ve Türkçe dilini tam destekler. Bu nedenle üç ifade de doğrudur (I, II ve III)."
+    },
+    {
+        "SoruID": 376650,
+        "Aciklama": "Android işletim sisteminin temelini ve çekirdeğini oluşturan, donanım ile iletişim kuran ve <b>Linux temel kodlarını</b> barındıran bölüm <b>Linux Çekirdeği (Kernel)</b> katmanıdır. Bu katman, cihaz sürücüleri, bellek yönetimi ve süreç yönetimi gibi kritik görevleri üstlenerek Android'e kararlılık ve güvenlik sağlar."
+    },
+    {
+        "SoruID": 376651,
+        "Aciklama": "iOS işletim sisteminin katmanları arasında <b>kullanıcılara en yakın</b> olan ve uygulamaların kullanıcı arayüzü (UI) öğelerini ve üst düzey hizmetlerini sağlayan katman <b>Cocoa Touch</b> katmanıdır. Bu katman, dokunmatik girişi, animasyonları, çoklu görev yönetimini ve temel uygulama çerçevelerini içerir, böylece geliştiricilerin uygulamaları kolayca oluşturmasını sağlar."
+    },
+    {
+        "SoruID": 392886,
+        "Aciklama": "Android mimarisinde, doğrudan Java programlama diliyle yazılmış uygulamaları içeren üst katman <b>Uygulamalar (Applications)</b> katmanıdır. Bu katmanın altında, uygulamaların çalışması için gerekli olan Java API'lerini sağlayan <b>Uygulama Çatısı (Application Framework)</b> bulunur. Uygulama Çatısı, Java uygulamaları için bir köprü görevi görürken, Uygulamalar katmanı kullanıcıların etkileşimde bulunduğu son ürünlerdir."
+    },
+    {
+        "SoruID": 394259,
+        "Aciklama": "iOS işletim sisteminin temel katmanları genellikle Core OS, Core Services, Media ve Cocoa Touch olarak sıralanır. Bu katmanlar, Apple'ın <b>UNIX tabanlı Darwin çekirdeği</b> üzerine kuruludur. Eğer seçeneklerde <b>Android Runtime</b>, <b>Dalvik Sanal Makinesi</b> veya <b>Linux Çekirdeği</b> gibi doğrudan Android veya başka bir sisteme ait bir katman bulunuyorsa, bu iOS katmanı değildir."
+    },
+    {
+        "SoruID": 376265,
+        "Aciklama": "Bu soru, farklı kötü amaçlı yazılım (malware) türleri arasındaki ayrımı vurgulamaktadır. Virüsler, kendilerini başka programlara iliştirerek yayılan yazılımlardır (örneğin Dosya Sistemi Virüsleri, Önyükleme Sektörü Virüsleri). Ancak, <b>Truva Atı (Trojan Horse)</b> virüs değildir; virüsler gibi kendilerini kopyalama yetenekleri yoktur. Truva atları, yararlı görünen programlar olarak gizlenir ancak kullanıcıya zarar veren arka plan görevlerini yerine getirirler. Dolayısıyla, Truva atı ayrı bir kötü amaçlı yazılım kategorisidir ve bir virüs türü olarak kabul edilmez."
+    },
+    {
+        "SoruID": 376266,
+        "Aciklama": "<b>Dosya sistemi virüsleri</b> (veya parazitik virüsler), bilgisayarın çalıştırılabilir (executable) dosyalarına bulaşarak çoğalır ve yayılırlar. İşletilebilir dosyaların en yaygın uzantıları <b>.EXE</b> ve <b>.COM</b>'dur. Bu virüsler, kullanıcı bu dosyaları çalıştırdığında aktif hale gelir ve sistemde hasara yol açar veya yayılmaya başlar."
+    },
+    {
+        "SoruID": 376267,
+        "Aciklama": "<b>Truva atları (Trojan Horse)</b>, kullanıcıları kandırarak sisteme sızmak için tasarlanmış kötü amaçlı yazılımlardır. Yararlı veya masum bir program gibi görünürler ancak gizli zararlı işlevleri vardır. Truva atlarının en önemli farkı, virüsler veya solucanlar gibi <b>kendiliğinden çoğalma</b> yeteneklerinin olmamasıdır. Yayımlanmak için kullanıcının eylemine (programı yüklemesi/çalıştırması) ihtiyaç duyarlar."
+    },
+    {
+        "SoruID": 376268,
+        "Aciklama": "Solucanlar (Worm), <b>kendi kendine çoğalabilen</b> ve genellikle ağlar üzerinden yayılan kötü amaçlı yazılımlardır. Virüslerin aksine, çalışmak veya yayılmak için <b>bir ana bilgisayar dosyasına veya programa ihtiyaç duymazlar</b>, yani kendileri bağımsız olarak çalışabilirler. Solucanlarla ilgili yanlış bilgi genellikle, onların bir dosyaya bağımlı olduğu veya yayılmak için kullanıcı izni gerektiği yönündeki iddialardır."
+    },
+    {
+        "SoruID": 376269,
+        "Aciklama": "Kullanıcının izni veya isteği olmadan, genellikle ticari veya dolandırıcılık amaçlı gönderilen toplu elektronik postalara <b>Spam</b> (İstenmeyen E-posta) adı verilir. Spam mesajları sadece rahatsız edici olmakla kalmaz, aynı zamanda kötü amaçlı yazılım veya kimlik avı (phishing) saldırıları için de bir araç olarak kullanılabilir."
+    },
+    {
+        "SoruID": 376270,
+        "Aciklama": "Kötü amaçlı yazılımlar (Malware), sistemlere zarar vermek veya bilgi çalmak amacıyla tasarlanmış programlardır (virüs, solucan, Truva atı, casus yazılım vb.). <b>Web Tarayıcısı</b> (Chrome, Firefox, Edge) gibi programlar ise internet sayfalarına erişmek için kullanılan yasal uygulamalardır ve kötü amaçlı yazılım kategorisine girmezler."
+    },
+    {
+        "SoruID": 376271,
+        "Aciklama": "Bilgisayarda virüs olduğundan şüphelenildiğinde, hasarı minimize etmek ve yayılmasını önlemek esastır. Yapılmaması gereken temel şey, virüsün yayılmasına olanak tanıyan eylemlere devam etmektir. Örneğin, <b>internet bağlantısını kullanmaya devam etmek veya şüpheli dosyaları çalıştırmak</b> kesinlikle yapılmamalıdır. Virüsün ağ üzerinden yayılmasını engellemek için ilk adım genellikle internet/ağ bağlantısının kesilmesidir."
+    },
+    {
+        "SoruID": 376272,
+        "Aciklama": "<b>Web tarayıcıları</b> (Web Browsers), kullanıcıların World Wide Web (WWW) üzerindeki bilgilere erişmesini sağlayan yazılımlardır (Örn: Chrome, Firefox). Şıklar arasında yer alan ve internet sayfalarını görüntülemek için kullanılmayan bir program (örneğin kelime işlemci programı olan <b>Microsoft Word</b>) web tarayıcısı değildir."
+    },
+    {
+        "SoruID": 376273,
+        "Aciklama": "Web tarayıcıları, internet üzerindeki web sayfalarını görüntülemeyi, gezinmeyi ve kullanıcı etkileşimini sağlamayı amaçlar. Temel işlevleri arasında <b>HTML, CSS ve JavaScript</b> gibi web standartlarını yorumlamak bulunur. Yanlış olan ifade, tarayıcıların yeteneklerini aşan bir iddia olmalıdır; örneğin tarayıcıların otomatik olarak tüm kötü amaçlı yazılımları engelleyebildiği iddiası yanlıştır, bu görev güvenlik yazılımlarına aittir."
+    },
+    {
+        "SoruID": 376274,
+        "Aciklama": "Farklı programlama dilleri arasında iletişim kurmayı sağlayan veya belirli bir platformun/hizmetin işlevselliğine erişim sağlayan komut setlerine ve tanımlanmış prosedürlere <b>API (Uygulama Programlama Arayüzü - Application Programming Interface)</b> denir. API'ler, programcılara kütüphanelerle sınırlı kalmadan sistemin veya harici hizmetlerin yeteneklerini kullanma esnekliği sunar."
+    },
+    {
+        "SoruID": 376652,
+        "Aciklama": "İnternet adres uzantıları (Domain Extensions), web sitesinin türünü belirtir. Devlet kurumları tarafından kullanılan standart uzantı <b>.gov</b> (government) veya ülkeye özel uzantılarla birlikte <b>.gov.tr</b> şeklindedir. Bu uzantı, adresin resmi bir devlet kurumuna ait olduğunu gösterir."
+    },
+    {
+        "SoruID": 376654,
+        "Aciklama": "Sabit diskin <b>Ön Yükleme Kaydı (MBR - Master Boot Record)</b> veya önyükleme sektörüne bulaşan ve bilgisayar açılırken işletim sistemi yüklenmeden önce devreye giren virüslere <b>Önyükleme Sektörü Virüsü (Boot Sector Virus)</b> adı verilir."
+    },
+    {
+        "SoruID": 376655,
+        "Aciklama": "Web tarayıcısının üst kısmında, kullanıcının ziyaret etmek istediği web sitesinin URL'sini (adresi) yazdığı bölüme <b>Adres Çubuğu</b> (Address Bar) denir. Bu alan, tarayıcının temel gezinme bileşenidir."
+    },
+    {
+        "SoruID": 376656,
+        "Aciklama": "Kullanıcının izni olmadan veya bilgisi dışında kişisel verilerini, banka bilgilerini, şifrelerini veya diğer hassas bilgilerini toplamak amacıyla tasarlanmış kötü amaçlı yazılımlara <b>Casus Yazılım (Spyware)</b> denir. Bu tür yazılımlar genellikle kullanıcının hareketlerini takip eder."
+    },
+    {
+        "SoruID": 376660,
+        "Aciklama": "Virüsler, Truva atları ve solucanlardan farklı olarak, çalışabilmek ve çoğalabilmek için <b>mutlaka bir ana bilgisayar dosyasına veya programa (host) ihtiyaç duyarlar</b>. Virüslerle ilgili yanlış olan bilgi, onların solucanlar gibi tamamen bağımsız olarak sistemde yayılabildiği iddiasıdır."
+    },
+    {
+        "SoruID": 376661,
+        "Aciklama": "Web tarayıcılarında, kullanıcının o oturum sırasındaki gezinme geçmişinin, çerezlerinin (cookies) ve form verilerinin yerel olarak kaydedilmemesini sağlayan özelliğe <b>Gizli Mod</b> (Incognito Mode veya Private Browsing) denir. Bu mod, özellikle gizliliğin ön planda tutulduğu durumlarda kullanılır."
+    },
+    {
+        "SoruID": 376275,
+        "Aciklama": "Bu programlar, kullanıcıların <b>metin dokümanları</b> oluşturmasına, üzerinde değişiklikler yapmasına (düzenleme), depolamasına (kaydetme), incelemesine (görüntüleme) ve basılı hale getirmesine (yazdırma) olanak tanır. Bu işlevleri yerine getiren yazılımlara <b>Kelime İşlemci Programları</b> adı verilir."
+    },
+    {
+        "SoruID": 376276,
+        "Aciklama": "<b>Açık Belge Metni (Open Document Text - ODT)</b>, belgelerin farklı kelime işlemci yazılımları arasında sorunsuz bir şekilde paylaşılabilmesi için geliştirilmiş standart bir <b>açık dosya biçimi</b>dir. Bu format, farklı üreticilerin programlarının (örneğin, Microsoft Word, LibreOffice Writer) birbirlerinin dosyalarını kolayca açmasına ve düzenlemesine olanak tanır."
+    },
+    {
+        "SoruID": 376277,
+        "Aciklama": "Microsoft Word, kullanıcıların hızlı bir şekilde profesyonel görünümlü belgeler oluşturabilmesi için geniş bir <b>şablon galerisi</b> sunar. Bu şablonlar arasında, özellikle elektronik kitaplar ve basılı kitaplar için tasarlanmış, sayfa mizanpajını ve biçimlendirmeyi kolaylaştıran hazır yapılar mevcuttur."
+    },
+    {
+        "SoruID": 376278,
+        "Aciklama": "Word programı açıldığında çıkan <b>karşılama ekranı</b> (Geri Sahne görünümünün bir parçası), mevcut belgeleri açmaya, yeni boş belge oluşturmaya veya hazır şablonları seçmeye yarar. Ancak, mevcut veya yeni oluşturulan bir <b>belgenin içeriğini düzenleme</b> işlemleri, belge penceresine geçildikten sonra yapılır. Karşılama ekranı doğrudan düzenlemeye izin vermez."
+    },
+    {
+        "SoruID": 376279,
+        "Aciklama": "Word seçenekleri penceresi, programın varsayılan davranışlarını, dil ayarlarını ve genel kullanıcı tercihlerini değiştirmek için kullanılır. Bu pencere <b>programın ayarlarını yapılandırmak</b> içindir, doğrudan <b>yeni bir belge içeriği oluşturmak</b> veya metin düzenlemek için kullanılmaz. Bu işlemler ana çalışma alanı içinde gerçekleştirilir."
+    },
+    {
+        "SoruID": 376280,
+        "Aciklama": "<b>Dosya Menüsü</b> (Geri Sahne görünümü), belge yönetimi ile ilgili temel komutları içerir: Yeni, Aç, Kaydet, Yazdır vb. <b>Biçim Boyacısı</b> (Format Painter) ise, biçimlendirmeyi kopyalamaya yarayan ve genellikle <b>Giriş sekmesi</b> (Home tab) altında yer alan bir araçtır, Dosya menüsünde yer almaz."
+    },
+    {
+        "SoruID": 376281,
+        "Aciklama": "<b>Dosya > Bilgi > Belgeyi Koru</b> seçenekleri, belgenin erişilebilirliğini ve düzenlenebilirliğini kısıtlamaya yarar (parola ekleme, salt okunur yapma). <b>Belgenin dosya adını değiştirmek</b>, bu güvenlik ve koruma ayarlarının değil, <b>Farklı Kaydet</b> komutunun temel işlevidir."
+    },
+    {
+        "SoruID": 376282,
+        "Aciklama": "<b>Dosya > Bilgi > Belgeyi İncele (Inspect Document)</b> aracı, bir belgeyi yayımlamadan önce içinde bulunabilecek gizli meta verileri, açıklamaları, kişisel verileri veya görünmez içerikleri tespit etmeye ve isteğe bağlı olarak <b>kaldırmaya</b> yarar. Bu, belgenin hassas verilerden arındırılmasını sağlar."
+    },
+    {
+        "SoruID": 376283,
+        "Aciklama": "<b>Dosya > Yazdır</b> seçeneği, belgenin fiziksel çıktısını yönetmek için kullanılır (yazıcı seçimi, sayfa aralığı vb.). Ancak, belgenin <b>içindeki metni biçimlendirme</b> (font değiştirme, paragrafları hizalama vb.) işlemleri, belge düzenleme görünümünde, genellikle <b>Giriş sekmesi</b> kullanılarak gerçekleştirilir ve Yazdır menüsünden yapılamaz."
+    },
+    {
+        "SoruID": 376284,
+        "Aciklama": "<b>Dosya > Paylaş</b> menüsü, belgenin başkalarıyla e-posta yoluyla göndermek veya bulut üzerinden ortak düzenlemeye açmak amacıyla kullanılır. <b>Belgenin yedeğini harici diske almak</b> ise basit bir <b>Kaydet</b> veya <b>Farklı Kaydet</b> işlemiyle gerçekleştirilir ve Paylaş menüsünün bir işlevi değildir."
+    },
+    {
+        "SoruID": 376662,
+        "Aciklama": "Kelime işlemci yazılımları metin tabanlı belgeler oluşturmak ve düzenlemek için kullanılır (Örn: Word, Writer, Pages). <b>Adobe Photoshop</b> ise, öncelikli olarak fotoğraf düzenleme ve grafik tasarım için tasarlanmış bir <b>raster grafik düzenleme programı</b>dır ve kelime işlemci yazılımı değildir."
+    },
+    {
+        "SoruID": 376663,
+        "Aciklama": "<b>Açık Belge Metni (Open Document Text - ODT)</b>, kelime işlemciler için evrensel bir <b>standart dosya biçimi</b>dir ve ISO/IEC 26300 standardı olarak kabul edilmiştir. Bu format, farklı ofis yazılımları arasında uyumluluk sağlar."
+    },
+    {
+        "SoruID": 376665,
+        "Aciklama": "Word programı açıldığında çıkan <b>karşılama ekranı</b>, mevcut belgeleri açmaya, yeni boş belge oluşturmaya veya hazır şablonları seçmeye yarar. Ancak, mevcut veya yeni oluşturulan bir <b>belgenin içeriğini düzenleme</b> işlemleri, belge penceresine geçildikten sonra yapılır. Karşılama ekranı doğrudan düzenlemeye izin vermez."
+    },
+    {
+        "SoruID": 376668,
+        "Aciklama": "<b>Dosya > Bilgi > Belgeyi Koru</b> seçeneği, belgenin güvenliğini sağlamak amacıyla kullanılır. Bu menüdeki en yaygın koruma yöntemlerinden biri, belgenin yetkisiz erişime karşı korunması için <b>parola koruması</b> eklemektir."
+    },
+    {
+        "SoruID": 376669,
+        "Aciklama": "<b>Dosya > Bilgi > Belgeyi İncele (Inspect Document)</b> aracı, bir belgeyi yayımlamadan önce içinde bulunabilecek gizli meta verileri, açıklamaları veya kişisel verileri tespit etmeye ve isteğe bağlı olarak <b>kaldırmaya</b> yarar. Bu, hassas bilgilerin yanlışlıkla paylaşılmasını önler."
+    },
+    {
+        "SoruID": 376671,
+        "Aciklama": "<b>Dosya > Paylaş</b> menüsü, belgenin işbirliği veya dağıtım amacıyla (e-posta ile gönderme, bulut bağlantısı oluşturma) başkalarıyla paylaşılmasını sağlar. <b>Belgenin yedeğini harici diske almak</b>, bir Farklı Kaydet işlemidir ve Paylaş menüsünün birincil işlevi değildir."
+    },
+    {
+        "SoruID": 392889,
+        "Aciklama": "Apple tarafından geliştirilen ve Apple ekosistemi (macOS, iOS) içinde kullanılan kelime işlemci programı <b>Pages</b>'tır. Pages, temel kelime işlemci işlevlerinin yanı sıra, gelişmiş <b>sayfa mizanpajı (layout)</b> ve tasarım araçları sunarak broşür ve kitapçık oluşturmaya da olanak tanır."
+    },
+    {
+        "SoruID": 392989,
+        "Aciklama": "<b>LibreOffice Writer</b>, ODT desteği, stil yönetimi, tablolar ve resim ekleme gibi temel kelime işlemci özelliklerine sahiptir. Ancak, <b>Adobe PDF dosyalarının tamamını düzenleme</b> yeteneği, genellikle Writer'ın değil, LibreOffice paketinin çizim bileşeni olan <b>Draw</b>'ın veya harici PDF düzenleyicilerin işlevidir. Writer, öncelikli olarak metin belgesi oluşturmaya odaklanır."
+    },
+    {
+        "SoruID": 376285,
+        "Aciklama": "Word programı penceresinde, genellikle durum çubuğunda yer alan <b>görünüm düğmeleri</b>, belgenin farklı şekillerde görüntülenmesini sağlar. Bu düğmeler kullanılarak belge, <b>yazdırma düzeni</b>, <b>okuma modu</b> veya <b>web düzeni</b> gibi farklı görünümlere geçirilebilir ve belgeye uygulanan <b>yakınlaştırma (zoom)</b> seviyesi ayarlanabilir."
+    },
+    {
+        "SoruID": 376286,
+        "Aciklama": "Word programında mevcut bir belgeyi kaydetmek veya ilk kez oluşturulan belgeyi kaydetme iletişim kutusu aracılığıyla disk üzerine yazmak için kullanılan standart kısayol tuş bileşeni <b>Ctrl + S</b>'dir (Save)."
+    },
+    {
+        "SoruID": 376287,
+        "Aciklama": "Word programında yer alan şeritteki (Ribbon) sekmeler ve komutlara fare kullanmadan, klavye ile hızlı erişim sağlamak için <b>Alt</b> tuşu kullanılır. Alt tuşuna basıldığında komutların üzerinde küçük harf veya rakam etiketleri belirir."
+    },
+    {
+        "SoruID": 376288,
+        "Aciklama": "Word programında metin biçimlendirme ile ilgili temel işlemler (yazı tipi, boyut, <b>kalın</b>, <b>italik</b>) ve paragraf düzenleme komutları (hizalama: <b>sola hizala</b>, ortala, sağa hizala, iki yana yasla) <b>Giriş (Home)</b> sekmesi altında yer alır."
+    },
+    {
+        "SoruID": 376289,
+        "Aciklama": "Word programında seçili metinlerin veya tüm belgenin sesli olarak okunmasını sağlayan <b>Sesli Oku</b> (Read Aloud) komutu, genellikle metin denetimi, dil ve erişilebilirlik araçlarının bulunduğu <b>Gözden Geçir (Review)</b> sekmesi altında bulunur."
+    },
+    {
+        "SoruID": 376290,
+        "Aciklama": "Word programında metnin <b>yazı tipini</b> değiştirmek, boyutunu veya rengini ayarlamak gibi gelişmiş biçimlendirme seçeneklerinin bulunduğu 'Yazı Tipi' iletişim kutusunu açmak için kullanılan kısayol tuş bileşeni <b>Ctrl + Shift + F</b> veya <b>Ctrl + D</b>'dir."
+    },
+    {
+        "SoruID": 376291,
+        "Aciklama": "Word programında seçili bir metnin küçük harf, büyük harf veya her kelimenin ilk harfinin büyük olması (Cümle büyük harf) gibi durumlar arasında geçiş yaparak harf düzenini değiştirmek için kullanılan kısayol tuş bileşeni <b>Shift + F3</b>'tür."
+    },
+    {
+        "SoruID": 376292,
+        "Aciklama": "Word programında seçili paragrafın veya metnin sayfanın sol kenarına yaslanmasını (<b>sola hizalanmasını</b>) sağlayan kısayol tuş bileşeni <b>Ctrl + L</b>'dir (Left)."
+    },
+    {
+        "SoruID": 376293,
+        "Aciklama": "Word programında seçili bir metnin veya nesnenin panoya (clipboard) kopyalanması için kullanılan evrensel kısayol tuş bileşeni <b>Ctrl + C</b>'dir (Copy)."
+    },
+    {
+        "SoruID": 376294,
+        "Aciklama": "Word'de sadece bir metnin <b>biçimsel özelliklerini</b> (yazı tipi, stil, renk, paragraf ayarları vb.) kopyalamak için <b>Ctrl + Shift + C</b> kısayolu kullanılır. (Kopyalanan biçimi yapıştırmak için Ctrl + Shift + V kullanılır)."
+    },
+    {
+        "SoruID": 376673,
+        "Aciklama": "Word programında oluşturulan bir belgeyi kaydetmek veya değişiklikleri mevcut dosyaya uygulamak için kullanılan kısa yol tuş bileşeni <b>Ctrl + S</b>'dir (Save)."
+    },
+    {
+        "SoruID": 376674,
+        "Aciklama": "Word programında şeritte bir sekme etkinleştirildiğinde, klavyeyi kullanarak o sekme üzerindeki komut grupları ve komut düğmeleri arasında gezinmeyi sağlayan temel kısayol tuşu <b>Tab</b>'dır."
+    },
+    {
+        "SoruID": 376675,
+        "Aciklama": "Belgenin genel görsel tasarımını ilgilendiren <b>tema</b> ayarları, sayfa arka planını düzenleyen <b>filigran</b> ve <b>sayfa rengi</b> komutları, genellikle belgenin dış görünüşünü yöneten <b>Tasarım (Design)</b> sekmesinde yer alır."
+    },
+    {
+        "SoruID": 376677,
+        "Aciklama": "Word programında seçili metnin yazı tipi boyutunu kademeli olarak değiştirmek için kısayol tuş bileşenleri kullanılır. Boyutu büyütmek için <b>Ctrl + Shift + ></b> (veya Ctrl + ]) ve küçültmek için <b>Ctrl + Shift + <</b> (veya Ctrl + [) kullanılır."
+    },
+    {
+        "SoruID": 376679,
+        "Aciklama": "Word programında seçili paragrafın veya metnin sayfanın sağ kenarına yaslanmasını (<b>sağa hizalanmasını</b>) sağlayan kısayol tuş bileşeni <b>Ctrl + R</b>'dir (Right)."
+    },
+    {
+        "SoruID": 376680,
+        "Aciklama": "Daha önce panoya kopyalanan veya kesilen bir metni veya nesneyi imlecin bulunduğu konuma yapıştırmak için kullanılan evrensel kısayol tuş bileşeni <b>Ctrl + V</b>'dir."
+    },
+    {
+        "SoruID": 392891,
+        "Aciklama": "MS Word'de (ve Windows genelinde) farenin sağ tıklama işlevini klavye ile yerine getirerek etkin alana ait bağlam menüsünü (alt menüyü) açan tuş bileşeni <b>Shift + F10</b>'dur."
+    },
+    {
+        "SoruID": 394264,
+        "Aciklama": "MS Word'de yer alan <b>Şerit (Ribbon)</b> yapısı, kullanıcının komutlara kolay erişimini sağlamak amacıyla tasarlanmıştır. <br>I. Şerit, evet, üst düzeyde <b>Sekmeler</b> (Giriş, Ekle vb.) ve bu sekmelerin altında yer alan <b>Komutlardan</b> oluşur. (Doğru)<br>II. Temel sekmeler (Dosya hariç) modern Word sürümlerinde yaklaşık 8-10 arasında değişir. (Doğru)<br>III. Her sekme, birbiriyle ilişkili işlevleri bir arada toplayan mantıksal <b>Gruplardan</b> (Yazı Tipi Grubu, Paragraf Grubu vb.) oluşur. (Doğru)<br>Bu nedenle, <b>I, II ve III</b> ifadelerinin tamamı doğrudur."
+    },
+    {
+        "SoruID": 376298,
+        "Aciklama": "Word'de tablo seçildiğinde iki bağlamsal sekme açılır: Tasarım ve Düzen. <b>Tablo Tasarımı</b> sekmesi; tablo stilleri, kenarlıklar ve gölgelendirme gibi tablonun görsel görünümünü düzenlemeye odaklanır. Satır/sütun ekleme, silme veya hücre birleştirme/bölme gibi tablonun yapısını değiştiren işlemler ise <b>Düzen (Layout)</b> bağlamsal sekmesinden yapılır."
+    },
+    {
+        "SoruID": 376299,
+        "Aciklama": "Resim biçimi bağlamsal sekmesi, belgeye eklenen bir resmin ayarlarını kontrol eder. Bu ayarlar arasında resim stilini değiştirme, renk ve parlaklık ayarlaması, kırpma veya resim etrafındaki metin akışını (Metin Kaydırma) düzenleme bulunur. Belgenin genel <b>sayfa kenar boşlukları</b> veya <b>sayfa yönlendirmesi</b> gibi ayarları bu sekmeden yapılamaz, bunlar Düzen (Layout) sekmesinde yer alır."
+    },
+    {
+        "SoruID": 376300,
+        "Aciklama": "Microsoft Word'e bir grafik (Chart) eklendiğinde, grafiği oluşturan verilerin girilmesi ve düzenlenmesi için otomatik olarak bir <b>Microsoft Excel</b> çalışma sayfası penceresi açılır. Bu nedenle, grafik oluşturmada kullanılan verilerin ana programı Excel'dir."
+    },
+    {
+        "SoruID": 376301,
+        "Aciklama": "Filigran, Sayfa Rengi ve Sayfa Kenarlıkları gibi belgenin arka planı ve genel görsel tasarımıyla ilgili komutlar, Word arayüzündeki <b>Tasarım (Design)</b> sekmesinde bulunur."
+    },
+    {
+        "SoruID": 376302,
+        "Aciklama": "Sayfa yönlendirmesini (dikeyden yataya veya yataydan dikeye) değiştirmek, sayfa düzeni ayarlarının bir parçasıdır. Bu komut, <b>Düzen (Layout)</b> sekmesindeki Sayfa Yapısı grubunda yer alır."
+    },
+    {
+        "SoruID": 376303,
+        "Aciklama": "Belge içerisindeki metni gazete veya dergi tarzında birden fazla sütuna ayırma işlemi, sayfa yapısı ayarlarından biridir ve <b>Düzen (Layout)</b> sekmesinde yer alan <b>Sütunlar</b> komutu ile gerçekleştirilir."
+    },
+    {
+        "SoruID": 376304,
+        "Aciklama": "Word'de sayfa kesmelerinden farklı olarak, <b>Bölüm Sonları (Section Breaks)</b> belgenin farklı kısımlarına farklı biçimlendirme (örneğin farklı üstbilgi/altbilgi veya farklı sütun ayarları) uygulanmasını sağlar. Yeni bölümü hemen aynı sayfada başlatan kesme özelliği <b>Sürekli (Continuous)</b> kesmesidir."
+    },
+    {
+        "SoruID": 376305,
+        "Aciklama": "Belgenin tümüne (veya belirli bölümlerine) satır numarası ekleme komutu, sayfa yapısı ve düzenleme seçenekleri arasında yer alır. Bu komut <b>Düzen (Layout)</b> sekmesindeki Sayfa Yapısı grubunda bulunur."
+    },
+    {
+        "SoruID": 376306,
+        "Aciklama": "Belge içeriğinin arkasına genellikle silik veya soluk bir görüntü ya da metin (örneğin 'Taslak', 'Gizli' ya da şirket logosu) eklemeye yarayan özellik <b>Filigran (Watermark)</b> olarak adlandırılır. Bu özellik Tasarım sekmesinde yer alır."
+    },
+    {
+        "SoruID": 376307,
+        "Aciklama": "Sayfa arka plan rengini değiştirmeyi sağlayan komut (Sayfa Rengi), belgenin görsel tasarımını düzenlemeye yönelik araçları barındıran <b>Tasarım (Design)</b> sekmesinde yer alır."
+    },
+    {
+        "SoruID": 376684,
+        "Aciklama": "Veri setlerini, sayısal bilgileri ve istatistikleri görsel formatlarda (çubuklar, dilimler, çizgiler) sunarak daha hızlı ve anlaşılır yorumlanmasını sağlayan öge <b>Grafik (Chart)</b> veya çizelgedir."
+    },
+    {
+        "SoruID": 376685,
+        "Aciklama": "İçindekiler tablosu, dipnotlar, alıntılar, kaynakça ve dizin gibi akademik ve resmi belge hazırlamada kullanılan referans araçları, <b>Başvurular (References)</b> sekmesinde toplanmıştır."
+    },
+    {
+        "SoruID": 376687,
+        "Aciklama": "Belgenin basılacağı kağıdın boyutunu (A4, Legal, Letter vb.) ayarlamak için kullanılan komut olan <b>Boyut (Size)</b>, sayfa yapısı ayarlarının bir parçasıdır ve <b>Düzen (Layout)</b> sekmesinde yer alır."
+    },
+    {
+        "SoruID": 376688,
+        "Aciklama": "Belgenin farklı kısımlarında bağımsız sayfa numaraları, sütun düzenleri veya yönlendirme gibi biçimlendirme özelliklerinin kullanılmasına olanak tanıyan özellik <b>Bölüm Kesmeleri (Section Breaks)</b>dir. Bu kesmeler, belgeyi mantıksal bölümlere ayırır."
+    },
+    {
+        "SoruID": 376689,
+        "Aciklama": "Metin içerisindeki kelimelerin satır sonuna sığmaması durumunda otomatik olarak hecelenmesini (hyphenation) sağlayan komut, sayfa yapısı ayarları içerisinde yer alır ve <b>Düzen (Layout)</b> sekmesinde bulunur."
+    },
+    {
+        "SoruID": 376690,
+        "Aciklama": "Sayfalara kenarlık (çerçeve) ekleme komutu, belgenin arka plan ve tasarım ayarları ile ilgilidir. Bu komut, <b>Tasarım (Design)</b> sekmesinde yer alır."
+    },
+    {
+        "SoruID": 376691,
+        "Aciklama": "Dipnotlar ve sonnotlar, belgedeki belirli bir bilgiye veya alıntıya kaynak göstermek için kullanılır. Bu tür referans araçlarının tamamı <b>Başvurular (References)</b> sekmesinde yer alır."
+    },
+    {
+        "SoruID": 392892,
+        "Aciklama": "Word tabloları, temel matematiksel işlemler (toplama, ortalama) için formül kullanmaya izin verir, ancak <b>karmaşık veri analizi</b>, özet tablolar veya kapsamlı formül zincirleri gerektiren işlemler için tasarlanmamıştır. Bu tür işlemler <b>Excel</b> programının uzmanlık alanıdır. Bu nedenle, 'Word tablolarında karmaşık hesaplamalar kolayca yapılır' gibi bir ifade yanlıştır."
+    },
+    {
+        "SoruID": 394266,
+        "Aciklama": "Ortak çalışılan belgelerde kimin hangi değişikliği yaptığını ve bu değişikliklerin ne olduğunu takip etmek için kullanılan özellik <b>Değişiklikleri İzle (Track Changes)</b> olarak adlandırılır. Bu komut, belgenin içeriğini gözden geçirme ve düzenleme amacıyla kullanılan <b>Gözden Geçir (Review)</b> sekmesinde yer alır."
+    },
+    {
+        "SoruID": 376702,
+        "Aciklama": "Excel 2021, Microsoft tarafından geliştirilen bir <b>elektronik tablo</b> programıdır. Temel amacı, verileri organize etmek, karmaşık hesaplamalar yapmak, formüller kullanmak ve bu verileri görselleştirmek (grafikler aracılığıyla) veya analiz etmektir. Yanlış ifade, genellikle programın yeteneklerini kısıtlayan veya temel amacından sapan bir iddia olur."
+    },
+    {
+        "SoruID": 376703,
+        "Aciklama": "Excel programının temel bileşenleri arasında <b>Çalışma Sayfaları</b>, <b>Hücreler</b>, <b>Sütunlar</b>, <b>Satırlar</b>, <b>Şerit</b> (Ribbon) ve <b>Formül Çubuğu</b> yer alır. Çalışma kitabının kendisi bu bileşenlerin tamamını içerir. Programın temel yapısına ait olmayan bir terim (örneğin 'Slayt' gibi) bu sorunun doğru cevabı olacaktır."
+    },
+    {
+        "SoruID": 376704,
+        "Aciklama": "Excel programında verilerin girildiği temel yapı taşları, dikey <b>sütunlar</b> ve yatay <b>satırlar</b>ın kesişimiyle oluşan <b>hücreler</b> (Cells) olarak adlandırılır. Her hücre, sütun harfi ve satır numarası (örneğin A1) ile benzersiz bir şekilde tanımlanır."
+    },
+    {
+        "SoruID": 376705,
+        "Aciklama": "Excel 2021'in standart <b>Şerit</b> (Ribbon) sekmeleri; <b>Giriş</b>, <b>Ekle</b>, <b>Sayfa Düzeni</b>, <b>Formüller</b>, <b>Veri</b>, <b>Gözden Geçir</b> ve <b>Görünüm</b>'dür. Bu sekmeler arasında yer almayan bir seçenek (örneğin, Microsoft Word veya PowerPoint'e özgü bir sekme) yanlış cevaptır."
+    },
+    {
+        "SoruID": 376706,
+        "Aciklama": "<b>Ekle</b> (Insert) sekmesi, çalışma sayfasına dışarıdan veya içeriden nesneler dahil etmek için kullanılır. Tipik olarak bu sekme aracılığıyla <b>Grafikler</b>, <b>Resimler</b>, <b>Pivot Tablolar</b>, <b>Şekiller</b>, <b>Köprüler</b> ve <b>Simgeler</b> eklenebilir. Ancak, metin hizalama veya hücre biçimi gibi <b>Giriş</b> sekmesine ait ayarlar buradan eklenemez."
+    },
+    {
+        "SoruID": 376707,
+        "Aciklama": "Hücredeki verinin görünüm formatını değiştirmek için <b>Giriş</b> (Home) sekmesindeki <b>Sayı</b> (Number) grubu kullanılır. Bu gruptaki açılır menüden doğrudan veya <b>Hücreleri Biçimlendir</b> iletişim kutusundan <b>Tarih</b> veya <b>Saat</b> kategorileri seçilerek hücrenin formatı ayarlanır. Bu, girilen sayısal değeri takvim değeri olarak yorumlamasını sağlar."
+    },
+    {
+        "SoruID": 376708,
+        "Aciklama": "Veri setindeki hücrelerin, belirlenen <b>koşullara</b> (geçme/kalma, belli bir değerin üstünde/altında olma) bağlı olarak otomatik olarak biçimlendirilmesi (renklendirilmesi, yazı tipinin değiştirilmesi) işlemi <b>Koşullu Biçimlendirme</b> (Conditional Formatting) ile yapılır. Bu özellik, <b>Giriş</b> sekmesinde bulunur ve veri analizinde önemli trendleri veya aykırı değerleri görselleştirmeye yarar."
+    },
+    {
+        "SoruID": 376709,
+        "Aciklama": "Belirli sütunlardaki (A, Ö, F gibi) verilerin çalışma sayfasında görüntülenmesini engellemek için, ilgili sütunlar seçilir ve sağ tıklama menüsünden veya <b>Giriş</b> sekmesi altındaki Biçim (Format) araçlarından <b>Gizle ve Göster</b> (Hide & Unhide) altındaki <b>Sütunları Gizle</b> (Hide Columns) komutu kullanılır. Bu işlem, verileri silmez, sadece görünümden kaldırır."
+    },
+    {
+        "SoruID": 376710,
+        "Aciklama": "Excel 2007 ve sonraki sürümlerinde (Excel 2021 dahil) standart <b>çalışma kitabı</b> (workbook) dosyalarının uzantısı <b>.xlsx</b>'tir. Bu format, XML tabanlıdır ve makro içermez. Eski formatlar .xls, makro içerenler ise .xlsm uzantısını kullanır."
+    },
+    {
+        "SoruID": 376711,
+        "Aciklama": "Excel 2021, Microsoft Office ailesine ait <b>elektronik tablo</b> yazılımıdır ve karmaşık matematiksel hesaplamalar yapma, finansal analizler gerçekleştirme ve büyük miktarda veriyi yönetme yeteneğine sahiptir. Yanlış olan ifade, programın hesaplama veya analiz gücünü sınırlayan veya amacını yanlış tanımlayan bir ifade olacaktır."
+    },
+    {
+        "SoruID": 376871,
+        "Aciklama": "Kullanıcıların sürekli tekrarladığı rutin görevleri kaydetmek ve otomatik olarak çalıştırmak için Excel'de <b>Makrolar</b> (Macros) kullanılır. Makrolar genellikle <b>Geliştirici</b> (Developer) sekmesi altında yer alan komutlar kullanılarak kaydedilir, düzenlenir ve çalıştırılır. Makrolar, Visual Basic for Applications (VBA) programlama dilini kullanır."
+    },
+    {
+        "SoruID": 376872,
+        "Aciklama": "Seçili hücrelerin değiştirilmesini önlemek için iki aşamalı bir süreç izlenir: <br>1. İstenen hücreler seçilir ve <b>Hücreleri Biçimlendir</b> (Format Cells) iletişim kutusunda <b>Koruma</b> sekmesi altında <b>Kilitli</b> (Locked) olarak ayarlanır.<br>2. Ardından, <b>Gözden Geçir</b> (Review) sekmesindeki <b>Sayfayı Koru</b> (Protect Sheet) komutu kullanılarak kilit işlevi etkinleştirilir. Çalışma sayfası korunmadıkça, kilitli hücreler hala değiştirilebilir."
+    },
+    {
+        "SoruID": 376873,
+        "Aciklama": "Bir hücredeki sayısal verinin ondalık basamak sayısını belirlemek için en yaygın kullanılan yöntem <b>Hücreleri Biçimlendir</b> (Format Cells) iletişim kutusudur. Burada <b>Sayı</b> sekmesi seçilerek, uygun kategori (örneğin Sayı veya Para Birimi) altında, <b>Ondalık basamak sayısı</b> (Decimal places) 3 olarak ayarlanmalıdır. Alternatif olarak, Giriş sekmesindeki Sayı grubunda bulunan <b>Ondalık Sayıyı Artır</b> komutu da kullanılabilir."
+    },
+    {
+        "SoruID": 392906,
+        "Aciklama": "<b>Hücreleri Biçimlendir</b> (Format Cells) menüsü, hücrelerin biçimsel ayarlarını yönetir. Bu menüde standart olarak <b>Sayı</b>, <b>Hizalama</b>, <b>Yazı Tipi</b>, <b>Kenarlık</b>, <b>Dolgu</b> ve <b>Koruma</b> olmak üzere altı sekme bulunur. Bu sekmelerden farklı olan veya Şerit'te ayrı bir sekme olarak yer alan (örneğin 'Veri Analizi') bir seçenek doğru cevap olacaktır (yani menüde yer almayandır)."
+    },
+    {
+        "SoruID": 394267,
+        "Aciklama": "Excel programı, <b>elektronik tablolar</b> (spreadsheet) oluşturmak ve karmaşık hesaplamalar yapmak için tasarlanmıştır. Veri manipülasyonu, grafik çizimi ve büyük veri setlerinin analiz edilmesi temel işlevleridir. Yanlış bilgi, Excel'in bu temel işlevlerinden birini yanlış tanımlayan veya başka bir Office programına (örn: Word veya PowerPoint) ait bir özelliği Excel'e atfeden bir ifade olmalıdır."
+    },
+    {
+        "SoruID": 376714,
+        "Aciklama": "Excel'de bir <b>hücre aralığını</b> (range) belirtmek için kullanılan işaret <b>iki nokta üst üste (:)</b> işaretidir. Örneğin, A1 hücresinden C5 hücresine kadar olan tüm hücreleri ifade etmek için <b>A1:C5</b> şeklinde bir gösterim kullanılır. Bu işaret, Excel'e aradaki tüm hücrelerin formül veya fonksiyona dahil edilmesi gerektiğini bildirir."
+    },
+    {
+        "SoruID": 376715,
+        "Aciklama": "Excel'de bir hücreye girilen verinin <b>eşittir (=)</b> işaretiyle başlaması, Excel'in bu veriyi bir <b>formül</b> olarak algılamasını sağlar. Dolayısıyla A6 hücresine yazılan “=25+30” formülünün sonucu hesaplanarak <b>55</b> olarak görüntülenir.<br>B8 hücresine yazılan “25+30” ise eşittir işaretiyle başlamadığı için <b>metin</b> olarak kabul edilir ve hücrede aynen <b>“25+30”</b> ifadesi görünür."
+    },
+    {
+        "SoruID": 376717,
+        "Aciklama": "Bir öğrencinin A2, A3 ve A4 hücrelerindeki notlarının ortalamasını hesaplamak için iki temel yöntem kullanılır: 1. <b>Fonksiyon kullanmak:</b> <b>=ORTALAMA(A2:A4)</b> formülü kullanılır. 2. <b>Manuel formül kullanmak:</b> <b>=(A2+A3+A4)/3</b> formülü kullanılır.<br>Kullanılamayacak bir formül genellikle hatalı söz dizimi içerir. Örneğin <b>=ORTALAMA(A2+A3+A4)</b> ifadesi, ORTALAMA fonksiyonunun beklediği <b>hücre aralığı</b> veya <b>hücre listesi</b> yerine tek bir sayısal sonuç döndürdüğü için hatalıdır (veya istenen sonucu vermez)."
+    },
+    {
+        "SoruID": 376718,
+        "Aciklama": "Excel programında temel hesaplamalar için <b>TOPLA</b> (SUM), <b>ORTALAMA</b> (AVERAGE), <b>MAK</b> (MAX), <b>MİN</b> (MIN) ve <b>EĞER</b> (IF) gibi birçok yerleşik fonksiyon bulunur.<br>Seçeneklerde yer alan ve Excel’de doğrudan bir fonksiyon adı olarak <u>kullanılmayan</u> ifade (Örn: ÇARPAN veya BÖL) doğru cevaptır. Excel'de temel aritmetik işlemler genellikle <b>aritmetik operatörler</b> (+, -, *, /) kullanılarak yapılır, bunlar fonksiyon değildir."
+    },
+    {
+        "SoruID": 376721,
+        "Aciklama": "<b>MİN fonksiyonu</b>, belirtilen hücre aralığındaki <b>en küçük</b> (minimum) sayısal değeri bulmak için kullanılır. Tabloya göre <b>C2:C5</b> aralığında bulunan değerler sırasıyla 100, 250, 75 ve 300’dür. Bu değerler arasındaki en küçük sayı <b>75</b> olduğu için formülün sonucu 75 olacaktır."
+    },
+    {
+        "SoruID": 376722,
+        "Aciklama": "<b>TOPLA fonksiyonu</b> (SUM), parantez içinde belirtilen hücre aralığındaki tüm sayısal değerleri <b>toplamak</b> için kullanılır. <b>C3:C6</b> aralığı, C3, C4, C5 ve C6 hücrelerini içerir. Bu formülün açılımı, bu dört hücredeki değerlerin toplanması işlemidir."
+    },
+    {
+        "SoruID": 376723,
+        "Aciklama": "<b>MAK fonksiyonu</b> (MAX), belirtilen hücre aralığındaki <b>en büyük</b> (maksimum) sayısal değeri bulur. <b>A1:Ö1</b> aralığı A1 hücresinden başlayıp Ö1 hücresine kadar olan tüm hücreleri kapsar. Bu işlem, A1 ile Ö1 arasındaki hücrelerdeki sayısal değerlerin en büyüğünü tespit eder."
+    },
+    {
+        "SoruID": 376725,
+        "Aciklama": "Belirli bir koşulu (5500 TL ve üzeri ücret) sağlayan hücrelerin sayısını bulmak için <b>EĞERSAY (COUNTIF) fonksiyonu</b> kullanılır. Fonksiyonun genel yapısı <b>=EĞERSAY(aralık; ölçüt)</b> şeklindedir.<br>350 personel olduğu ve maaş bilgileri E sütununda yer aldığı için, doğru formül <b>=EĞERSAY(E1:E350; \">=5500\")</b> olmalıdır. Bu formül, E1’den E350’ye kadar olan hücrelerdeki değeri 5500’e eşit veya 5500’den büyük olan kişi sayısını sayar."
+    },
+    {
+        "SoruID": 376726,
+        "Aciklama": "Bu tür koşullu kontroller için <b>EĞER (IF) fonksiyonu</b> kullanılır. EĞER fonksiyonu bir koşulu test eder ve koşul doğruysa birinci sonucu, yanlışsa ikinci sonucu döndürür. <br>Koşul: A8 hücresindeki değerin 65’e eşit veya büyük olması (<b>A8>=65</b>).<br>Doğruysa sonuç: “Aşı Zorunluluğu Var”.<br>Formül yapısı: <b>=EĞER(A8>=65; \"Aşı Zorunluluğu Var\"; \"\")</b>. (Yanlış olması durumunda boş bırakılır.)"
+    },
+    {
+        "SoruID": 376880,
+        "Aciklama": "Ahmet’in yazdığı formül <b>aritmetik ortalama</b> hesaplamaktadır. Bu işlemi manuel yapmak yerine, Excel’in yerleşik <b>ORTALAMA (AVERAGE) fonksiyonu</b> kullanılarak daha kısa ve hatasız bir şekilde gerçekleştirilebilir.<br>Kullanılması gereken formül: <b>=ORTALAMA(A1:A3)</b>."
+    },
+    {
+        "SoruID": 376882,
+        "Aciklama": "Ayşe’nin yapmak istediği işlem, yaş bilgisine (C sütununda) bağlı olarak iki farklı sonuç döndüren bir <b>koşullu mantık</b> işlemidir. Bunun için <b>EĞER (IF) fonksiyonu</b> kullanılır.<br>Eğer C hücresindeki yaş 65'ten büyükse (<b>C>65</b>), 'Sokağa çıkma yasağı var' sonucu döner, aksi takdirde 'Sokağa çıkma yasağı yok' sonucu döner.<br>Doğru formül: <b>=EĞER(C1>65; \"Sokağa çıkma yasağı var.\"; \"Sokağa çıkma yasağı yok.\")</b> (Hücre referansı C1 alınmıştır.)"
+    },
+    {
+        "SoruID": 392907,
+        "Aciklama": "Manuel olarak ardışık hücreleri toplamak (<b>=D1+D2+D3+D4+D5+D6</b>), Excel’in yerleşik <b>TOPLA (SUM) fonksiyonu</b> kullanılarak çok daha kısa bir şekilde ifade edilebilir. Bu iki ifade, D1 hücresinden D6 hücresine kadar olan değerlerin toplamını hesaplama açısından aynı sonucu verir.<br>Doğru ve kısa gösterimi: <b>=TOPLA(D1:D6)</b>."
+    },
+    {
+        "SoruID": 392909,
+        "Aciklama": "Belirtilen bir kriteri (85 üzerinde olma) sağlayan notların sayısını belirlemek için <b>EĞERSAY (COUNTIF) fonksiyonu</b> kullanılır. Eğer notlar farklı sütunlarda yer alıyorsa (Örn: B, C, D, E sütunları), her bir sütun için ayrı ayrı EĞERSAY fonksiyonu kullanılır ve sonuçlar toplanır. <br>Örneğin: <b>=EĞERSAY(B2:B33; \">85\") + EĞERSAY(C2:C33; \">85\") + ...</b> şeklinde bir yapı kurulabilir. Bu fonksiyon, belirlenen <b>tek bir koşula</b> göre sayım yapmaya olanak tanır."
+    },
+    {
+        "SoruID": 376742,
+        "Aciklama": "Öğrenme Yönetim Sistemleri (ÖYS), temel olarak <b>eğitim içeriği sunumu, öğrenci takibi, değerlendirme ve iletişim</b> araçlarını içerir. Tipik bir ÖYS içerisinde, ders materyalleri, sınavlar, notlandırma sistemi ve tartışma forumları gibi eğitimle doğrudan ilgili modüller yer alır. Kurumsal Kaynak Planlama (ERP) veya idari işlevler olan Bütçeleme ve Finans Yönetimi, ÖYS'nin çekirdek işlevleri arasında yer almaz; bu tür işlemler genellikle ayrı kurumsal yazılımlarla yürütülür."
+    },
+    {
+        "SoruID": 376743,
+        "Aciklama": "Öğrenme Yönetim Sistemleri (ÖYS), <b>uzaktan ve esnek öğrenmeyi</b> desteklemek üzere tasarlanmıştır. ÖYS’nin temel özelliklerinden biri, öğrencilerin içeriklere ve aktivitelere zaman ve mekândan bağımsız olarak erişebilmesidir. Dolayısıyla, öğrencinin fiziksel olarak derse katılmasını zorunlu kılmak, ÖYS'nin sağladığı <b>esneklik ve erişilebilirlik</b> özelliklerine aykırıdır."
+    },
+    {
+        "SoruID": 376744,
+        "Aciklama": "ÖYS kurulum süreci; <b>ihtiyaç analizi, sistem seçimi, donanım/yazılım entegrasyonu, konfigürasyon ve test</b> gibi teknik ve planlama adımlarını içerir. Kurulum, sistemin çalışır hale getirilmesine odaklanır. Ders içeriklerinin fiziki baskısının yapılması ise, sistem kurulduktan sonraki eğitim materyali hazırlama aşamasıyla ilgili bir stratejidir ve sistemin kurulumu için zorunlu bir adım değildir."
+    },
+    {
+        "SoruID": 376745,
+        "Aciklama": "Yazılım geliştiricinin ÖYS seçimi yaparken dikkat etmesi gereken temel kriterler; <b>maliyet, teknik altyapı, ölçeklenebilirlik, güvenlik, entegrasyon yeteneği ve kullanıcı arayüzüdür</b>. Kurumun günlük ofis içi gıda tüketim miktarı gibi idari, lojistik veya sistemin işleviyle doğrudan ilgisi olmayan detaylar, ÖYS'nin başarısını veya seçimi etkilemez."
+    },
+    {
+        "SoruID": 376746,
+        "Aciklama": "<b>Lisanslı (Tescilli) Öğrenme Yönetim Sistemleri</b> ticari amaçla üretilir. Bu sistemlerin en önemli özelliklerinden biri, lisans ücreti karşılığında geliştirici firma tarafından <b>güçlü ve garantili teknik destek, bakım ve düzenli güncellemeler</b> sağlanmasıdır. Açık kaynak kodlu sistemlerde ise teknik destek genellikle topluluk veya harici firmalar aracılığıyla sağlanır."
+    },
+    {
+        "SoruID": 376747,
+        "Aciklama": "Belirli gönüllü topluluklar tarafından geliştirilen ve kaynak kodları herkesin erişimine ve değiştirmesine açık olan ücretsiz sistemlere <b>Açık Kaynak Kodlu ÖYS</b> denir. Bu sistemler, genellikle büyük bir geliştirici topluluğu tarafından desteklenir (Örn: Moodle)."
+    },
+    {
+        "SoruID": 376748,
+        "Aciklama": "Öğrenme Yönetim Sistemlerinde yedekleme (backup) yapılmaması durumunda, sistem arızası, siber saldırı veya veri bozulması gibi beklenmedik olaylar sonucu <b>öğrenci notları, kurs ilerlemeleri, sınav sonuçları ve ders materyalleri</b> gibi kritik veriler kalıcı olarak kaybedilebilir. Yedekleme, veri güvenliği ve sistem sürekliliği için esastır."
+    },
+    {
+        "SoruID": 376749,
+        "Aciklama": "ÖYS'de ders tasarımı yapılırken <b>öğrenme hedefleri, içerik akışı, öğrenci etkileşimi, erişilebilirlik ve değerlendirme yöntemleri</b> gibi pedagojik unsurlara odaklanılır. Sunucunun fiziksel sıcaklığı veya donanım performansı gibi teknik altyapı konuları ise <b>sistem yöneticisinin</b> sorumluluğundadır ve doğrudan ders tasarımının bir parçası değildir."
+    },
+    {
+        "SoruID": 376750,
+        "Aciklama": "ÖYS’ler eğitim süreçlerini yönetmek için tasarlanmıştır. Tipik roller arasında <b>Sistem Yöneticisi, Eğitimci (Öğretmen), Öğrenen (Öğrenci) ve İçerik Geliştirici</b> bulunur. Muhasebe Personeli ise kurumsal finansal işlerle ilgilenir ve ÖYS'nin öğrenme/öğretme yönetim rolleri arasında yer almaz."
+    },
+    {
+        "SoruID": 376751,
+        "Aciklama": "<b>Eş zamansız (Asynchronous) modüller</b>, katılımcıların farklı zamanlarda etkileşimde bulunmasına olanak tanır (Örn: E-posta, Forumlar, İlan Panoları). <b>Sanal Sınıf (Video Konferans)</b> ise, öğrenen ve eğitimcinin aynı anda (eş zamanlı) bağlanmasını gerektiren, canlı etkileşime dayalı bir araçtır ve bu nedenle eş zamansız modüller arasında yer almaz."
+    },
+    {
+        "SoruID": 376909,
+        "Aciklama": "ÖYS’de roller ders ve sistem düzeyinde ayrılır. <b>Sistem Yöneticisi (Administrator)</b>, platformun tüm altyapısını, güvenlik ayarlarını, yedeklemelerini ve kullanıcı hesaplarının genel yönetimini üstlenir. Bu, platformun genel sağlığından sorumlu olan <b>sistem düzeyindeki</b> en yetkili roldür."
+    },
+    {
+        "SoruID": 376911,
+        "Aciklama": "Öğrenen ve eğitimcinin <b>aynı anda</b> bağlanarak gerçek zamanlı (eş zamanlı) ders işleyebildiği ve etkileşim kurabildiği modül, <b>Sanal Sınıf (Virtual Classroom)</b> modülüdür. Bu modül genellikle canlı video, ses ve sunum paylaşımı özelliklerini barındırır."
+    },
+    {
+        "SoruID": 376912,
+        "Aciklama": "Öğrenenlerin kişisel gelişimlerini, başarılarını, tamamladıkları projeleri, sertifikalarını ve <b>yetkinliklerini</b> dijital ortamda toplayıp sergiledikleri bölüme <b>Portfolyo Modülü</b> denir. Bu modül, öğrencilerin kariyer gelişimlerini izlemede ve özgeçmiş oluşturmada yardımcı olur."
+    },
+    {
+        "SoruID": 392912,
+        "Aciklama": "<b>Eş zamanlı (Synchronous) modüller</b>, kullanıcılar arasında anlık ve canlı etkileşim sağlar. <b>Canlı Sohbet (Live Chat)</b>, kullanıcıların aynı anda yazışarak iletişim kurduğu bir eş zamanlı iletişim aracıdır. Tartışma forumları ve e-postalar ise eş zamansız (asynchronous) araçlardır."
+    },
+    {
+        "SoruID": 392915,
+        "Aciklama": "Öğrenme Yönetim Sistemlerinde dersin yürütülme şeklini belirleyen ayarlar, <b>ders içeriğinin görünürlüğü, erişim kısıtlamaları, notlandırma kriterleri</b> ve özellikle öğrencilerin derse katılma yöntemleri olan <b>Kayıt Yöntemlerini</b> (Enrollment Methods) içerir. Bu ayarlar, dersin kimlere ve nasıl sunulacağını kontrol eder."
+    },
+    {
+        "SoruID": 376752,
+        "Aciklama": "Çevrim içi öğrenme ortamlarının temel avantajları arasında <b>zamandan ve mekândan bağımsızlık</b>, <b>esneklik</b>, <b>büyük kitlelere erişim</b> ve <b>maliyet etkinliği</b> yer alır. Ancak, bu ortamların genellikle bir dezavantajı, geleneksel yüz yüze eğitimde olduğu gibi anlık ve derin sosyal etkileşimi ya da birebir rehberliği sağlamakta zorlanmasıdır. Eğer şıklarda 'Yüksek derecede birebir sosyal etkileşim imkanı sunması' gibi bir ifade varsa, bu çevrim içi öğrenmenin sunduğu bir avantaj değildir, aksine sıklıkla karşılaşılan bir sınırlamadır. Çevrim içi ortamlar genellikle yüksek düzeyde <b>öğrenci öz disiplini</b> gerektirir ve teknik aksaklıklara bağımlıdır."
+    },
+    {
+        "SoruID": 376753,
+        "Aciklama": "Açık Eğitim Kaynaklarının (AEK) temelini oluşturan beş temel özellik (5R izinleri) şunlardır: <b>Saklama (Retain)</b>, <b>Yeniden Kullanma (Reuse)</b>, <b>Düzeltme/Gözden Geçirme (Revise)</b>, <b>Karıştırma/Uyarlama (Remix)</b> ve <b>Yeniden Dağıtma (Redistribute)</b>. Bu özellikler, materyallerin kullanıcı tarafından özgürce alınıp değiştirilmesini, yayılmasını ve kullanılmasını sağlar. Bu özellikler arasında 'Yüksek maliyet gerektirmesi' veya 'Özel telif kısıtlamalarına tabi olması' gibi maddeler, AEK'nın temel felsefesine aykırıdır ve AEK'nın özelliklerinden biri değildir. AEK'nın en temel şartı, <b>özgür erişim</b> ve <b>açık lisanslama</b> (Creative Commons) ile sağlanmasıdır."
+    },
+    {
+        "SoruID": 376754,
+        "Aciklama": "Kitlesel Açık Çevrimiçi Kurslar (MOOC'lar) birçok fayda sağlar. Bunlar: I. <b>Eğitimde fırsat eşitliği</b> sağlama (ücretsiz erişim sayesinde), II. <b>Yaşam boyu öğrenmenin niteliğini artırma</b> (erişilebilir ve güncel içerikler sunarak), ve III. <b>Yerel ve küresel bağlamda eğitime erişim imkânı sunma</b> (mekân kısıtlaması olmaksızın).<br/>Ancak IV. 'Geleneksel eğitimi ortadan kaldırma', MOOC'ların amacı veya garantilediği bir sonuç değildir. MOOC'lar, geleneksel eğitimi destekleyen veya ona alternatif sunan bir araçtır, ancak onu tamamen ortadan kaldırma iddiasında değildirler. Dolayısıyla faydalar I, II ve III'tür."
+    },
+    {
+        "SoruID": 376755,
+        "Aciklama": "Açık eğitim kaynaklarına herhangi bir telif ücreti ödemeden, özel izin almadan özgürce erişebilme, kullanabilme, paylaşabilme ve değiştirebilmeye izin veren lisans türü <b>Creative Commons (CC)</b> lisanslarıdır. Creative Commons lisansları, standart telif hakkı kısıtlamalarını esneterek eserlerin belirli şartlar altında (genellikle atıf şartıyla) serbestçe kullanımına olanak tanır. AEK'ların açık olma özelliğini sağlayan temel mekanizma bu lisanslardır."
+    },
+    {
+        "SoruID": 376756,
+        "Aciklama": "MOOC’ları geleneksel çevrimiçi öğrenme ortamlarından (standart e-öğrenme kursları) ayıran temel özellikler, adındaki 'Kitlesel' (Massive) ve 'Açık' (Open) kelimelerinde saklıdır. Geleneksel kurslar genellikle sınırlı öğrenci kapasitesine sahiptir ve ücretlidir veya ön koşul ister. MOOC'lar ise <b>çok yüksek katılımcı sayısına (Kitlesel)</b> olanak sağlar ve genellikle <b>ücretsiz ve ön koşulsuz (Açık)</b> erişim sunar. Bu iki özellik, MOOC'ları diğer çevrimiçi kurslardan ayırır."
+    },
+    {
+        "SoruID": 376757,
+        "Aciklama": "MOOC, Kitlesel Açık Çevrimiçi Kurslar anlamına gelir. Herhangi bir kısıtlama yapılmaksızın istekli olan ve kursu kendisine uygun bulan <b>çok sayıda öğrenenin katılımına olanak sağlayan</b> yapıyı ifade eden kavram, adındaki <b>Kitlesel (Massive)</b> özelliğidir. Bu, MOOC platformlarının binlerce hatta yüz binlerce öğrenciye aynı anda hizmet verebilme kapasitesini vurgular."
+    },
+    {
+        "SoruID": 376758,
+        "Aciklama": "MOOC’ların genel özellikleri arasında <b>açıklık (ücretsiz erişim ve önkoşulsuz katılım)</b>, <b>kitlesellik (yüksek öğrenci sayısı)</b>, <b>çevrimiçi olma</b> ve <b>kurs formatında sunulma</b> bulunur. Bir MOOC’un genel özelliği olmayan durumlar genellikle kısıtlama içerenlerdir, örneğin 'Zorunlu fiziksel katılım gerektirmesi' veya 'Sınırlı sayıda kontenjana sahip olması'. MOOC'ların doğasına aykırı olan bir durum ise, kursun içeriğine erişim için <b>yüksek ücret talep edilmesi</b> veya <b>üniversite öğrencisi olma zorunluluğu</b> gibi kısıtlamalardır."
+    },
+    {
+        "SoruID": 376759,
+        "Aciklama": "Çevrim içi ders çalışma araçlarının genel özellikleri, öğrenmeyi organize etme, not alma, bilgi depolama ve paylaşımı kolaylaştırmaktır. Bu araçlar <b>erişilebilir</b>, <b>çoklu formatı destekleyen</b> (metin, ses, görsel) ve genellikle <b>bulut tabanlı</b>dır. Bu araçların özelliklerinden biri olmayan durum, genellikle araçların doğasına aykırı olan, örneğin 'Sadece yüz yüze ortamlarda kullanılabilmesi' veya 'Kullanıcının içerik oluşturmasına izin vermemesi' gibi kısıtlamalardır. Bu araçlar temel olarak <b>kişisel öğrenme sürecini yapılandırmayı</b> destekler."
+    },
+    {
+        "SoruID": 376760,
+        "Aciklama": "Dünyada yaygın olarak kullanılan büyük MOOC uygulamaları arasında <b>Coursera</b>, <b>edX</b>, <b>FutureLearn</b>, <b>Udacity</b>, ve <b>Kadenze</b> gibi platformlar bulunmaktadır. Bu platformlar küresel çapta milyonlarca kullanıcıya hitap eder. Bu listede yer almayan, örneğin sadece bir üniversitenin kendi içindeki Öğrenme Yönetim Sistemi (ÖYS/LMS) olan Moodle veya Blackboard gibi araçlar ya da belirli bir ülkeye özgü küçük bir platform, yaygın global MOOC uygulamalarından biri sayılmaz."
+    },
+    {
+        "SoruID": 376761,
+        "Aciklama": "Tanımlanan özellikler (ders notlarını yazma, fotoğraf çekme, kontrol listeleri oluşturma, ses kaydetme ve paylaşma) çevrimiçi ortamda kapsamlı not alma ve organizasyon imkanı sunan araçlara işaret eder. Bu özelliklerin tamamını sunan ve yaygın olarak kullanılan çevrimiçi ders çalışma araçlarından biri <b>Evernote</b>'tur. Evernote, kullanıcıların farklı cihazlar arasında notlarını senkronize etmesine ve zengin medya içeriklerini tek bir yerde toplamasına olanak tanır."
+    },
+    {
+        "SoruID": 376913,
+        "Aciklama": "Farklı mekânlarda bulunan öğretici ve öğrenenlerin <b>aynı anda</b> (eş zamanlı) web destekli cihazlarla (video konferans, canlı sohbet vb.) katılım sağladıkları öğrenme ortamına <b>eş zamanlı (senkron) öğrenme ortamı</b> denir. Bu ortamlar, gerçek zamanlı etkileşim ve anında geri bildirim sağlar. Tipik örnekleri sanal sınıflar ve canlı webinarlardır."
+    },
+    {
+        "SoruID": 376914,
+        "Aciklama": "George Siemens ve Stephen Downes, Kitlesel Açık Çevrimiçi Kursların (MOOC) geliştirilmesinde önemli rol oynamışlardır. Özellikle 2008 yılında sundukları ilk MOOC, temellerini bilgi çağının öğrenme kuramı olan <b>Bağlantıcılık (Connectivism)</b> üzerine kurmuştur. Bağlantıcılık, öğrenmenin ağlar içinde gerçekleştiğini, bilginin bir düğümde (node) depolandığını ve öğrenmenin bu düğümleri birbirine bağlama yeteneği olduğunu savunur."
+    },
+    {
+        "SoruID": 376916,
+        "Aciklama": "Eş zamanlı olmayan (Asenkron) öğrenme ortamları, öğrenen ve öğretenin farklı zamanlarda etkileşim kurduğu ortamlardır (Örn: e-posta, tartışma forumları, kayıtlı ders videoları). Sorunun cevabı, eş zamanlı olmayan ortamlardan biri olmayan, yani <b>eş zamanlı (senkron) bir ortam</b> olmalıdır. Bu ortamlar genellikle <b>canlı video konferanslar</b> veya <b>sanal sınıflar</b>dır, çünkü bu araçlar katılımcıların aynı anda bulunmasını gerektirir."
+    },
+    {
+        "SoruID": 376918,
+        "Aciklama": "MOOC uygulamalarında kursların <b>ücretsiz olma</b>, katılım için <b>ön koşul gerektirmeme</b> ve kaynaklara <b>serbestçe erişim olanağı</b> sunma özelliğini ifade eden kavram, MOOC'un 'A' harfi ile temsil edilen <b>Açık olma (Openness)</b> özelliğidir. Bu, finansal, akademik veya coğrafi engellerin kaldırılmasını amaçlar."
+    },
+    {
+        "SoruID": 376921,
+        "Aciklama": "Kitlesel Açık Çevrimiçi Kurslar (MOOC'lar) kullanıcılarına önemli faydalar sağlar. Bu faydalar arasında I. <b>Eğitimde fırsat eşitliği sağlaması</b> (küresel erişim ve ücretsizlik sayesinde), II. <b>Yaşam boyu öğrenmenin niteliğini artırması</b> (kaliteli ve güncel içerikler sunarak), ve III. <b>Bireylere bilgi ve becerilerini güncelleme fırsatı sağlaması</b> yer alır. Bu maddelerin hepsi MOOC'ların yaygın kabul gören faydalarıdır."
+    },
+    {
+        "SoruID": 376922,
+        "Aciklama": "Çevrimiçi ders çalışma araçları, öğrencilerin organize olmasına, not almasına, bilgi kartları oluşturmasına veya zihin haritaları çizmesine yardımcı olan yazılımlardır (Örnekler: Quizlet, Evernote, MindMeister, Google Keep). Bu listede yer almayan bir öğe, örneğin genel bir video oynatıcı (VLC) veya bir işletim sistemi (Windows), çevrimiçi ders çalışma aracı olarak kabul edilmez. Bu araçlar genellikle <b>öğrenme içeriğini organize etme</b> veya <b>bilgiyi pekiştirme</b> işlevine odaklanır."
+    },
+    {
+        "SoruID": 392918,
+        "Aciklama": "Çevrimiçi öğrenme ortamlarında eş zamanlı (senkron) araçlar, iletişimin veya etkileşimin aynı anda gerçekleştiği araçlardır (Örn: Canlı sohbet, video konferans, sanal tahtalar). Eş zamanlı öğrenme ortamlarından biri olmayan, yani <b>eş zamanlı olmayan (asenkron)</b> bir araç aranmaktadır. Asenkron araçlar, öğrenenlerin kendi hızlarında ve zamanlarında etkileşimde bulunmasını sağlar. Tipik örnekleri <b>Tartışma forumları</b>, e-posta ve kayıtlı ders materyalleridir."
+    },
+    {
+        "SoruID": 394269,
+        "Aciklama": "Tanımda belirtilen, bireyin kendi öğrenme sürecini yapılandırması, kolayca erişim sağlaması, içerik oluşturması, iş birliği yapması ve sosyal medya araçlarını dahil etmesi gibi özellikler <b>Kişisel Öğrenme Ortamı (KÖO)</b> veya İngilizce adıyla <b>Personal Learning Environment (PLE)</b> yapısını ifade eder. PLE, tek bir sistemden ziyade, öğrencinin kullandığı tüm araçlar, hizmetler ve kaynaklar bütünüdür ve öğrencinin <b>öğrenme kontrolünü</b> ele almasını sağlar."
+    },
+    {
+        "SoruID": 376762,
+        "Aciklama": "İletişim sürecinin temel öğeleri <b>kaynak</b> (gönderici), <b>alıcı</b>, <b>mesaj/ileti</b>, <b>kanal</b> (ortam), <b>kodlama</b>, <b>kod açma</b> ve <b>geri bildirim</b>dir. Soruda bu temel öğeler dışında kalan seçenek, iletişim sürecinin doğrudan bir öğesi olarak kabul edilmeyen cevaptır. Bu öğelerden birinin yokluğu durumunda iletişim tam olarak gerçekleşmeyebilir."
+    },
+    {
+        "SoruID": 376763,
+        "Aciklama": "İletişim teknolojileri, geleneksel kitlesel iletişimden farklı olarak, kullanıcılar arasında <b>karşılıklı etkileşim</b> (I) sağlar. Ayrıca kullanıcıların içeriği alıp düzenleyebilmesi anlamına gelen <b>yeniden karıştırma</b> (III) ve içeriğin geniş kitlelere tek tip gitmesi yerine bireyselleşmesini sağlayan <b>kitlesizleştirme</b> (IV) özelliklerini de sunar. Eş zamanlı olmayan iletişim (II) ise teknolojinin bir özelliği değil, sağladığı bir iletişim türüdür. Dolayısıyla I, III ve IV bu teknolojilerin temel sunduğu özelliklerdendir."
+    },
+    {
+        "SoruID": 376764,
+        "Aciklama": "Bu tanım <b>Eş Zamanlı (Senkron) İletişim</b> kavramını açıklamaktadır. Eş zamanlı iletişimde, kaynak ve alıcı coğrafi olarak farklı yerlerde bulunsalar bile, <b>aynı zaman dilimi içerisinde</b> (gerçek zamanlı) teknolojik araçlar (multimedya) kullanarak etkileşim kurar."
+    },
+    {
+        "SoruID": 376765,
+        "Aciklama": "Eş zamanlı iletişim araçları, mesajın gönderildiği anda alıcının hazır bulunmasını gerektirir (web konferans, anlık mesajlaşma, telefon görüşmesi). <b>E-posta</b> ise mesajın anlık yanıtlanmasını gerektirmediği için, temel olarak <b>eş zamanlı olmayan (asenkron) iletişim</b> araçlarından biridir."
+    },
+    {
+        "SoruID": 376766,
+        "Aciklama": "Web konferans sistemleri <b>eş zamanlı iletişim</b> sağladığı için katılımcılara birbirlerini görme ve duyma (III) imkânı sunar. Bu sayede iletişimin sözsüz boyutunu oluşturan <b>vücut dilini anlayabilme olanağı</b> (II) da mevcuttur. Bağlantı yavaşlığı (I) ve teknik eksiklikler (IV) ise sistemlerin dezavantajları veya zorluklarıdır. Bu nedenle avantajlar II ve III'tür."
+    },
+    {
+        "SoruID": 376767,
+        "Aciklama": "Tanımı yapılan iletişim türü <b>Eş Zamanlı Olmayan (Asenkron) İletişim</b>dir. Bu iletişimde, kaynak ve alıcının etkileşimi için <b>aynı zaman dilimi içerisinde bulunma zorunluluğu yoktur</b>; süreç herhangi bir zaman dilimi içinde teknoloji aracılığıyla ilerleyebilir (Örn: e-posta, forum)."
+    },
+    {
+        "SoruID": 376768,
+        "Aciklama": "Eş zamanlı olmayan iletişimin avantajları arasında zaman ve mekândan bağımsızlık, mesajı dikkatlice düşünüp düzenleme fırsatı ve iletişim kayıtlarının kolayca tutulabilmesi yer alır. Ancak <b>anında geri bildirim</b>, mesajın gönderildiği anda yanıt alınmasını gerektirdiği için, <b>eş zamanlı (senkron) iletişimin</b> sunduğu bir avantajdır ve asenkron iletişimde genellikle sağlanmaz."
+    },
+    {
+        "SoruID": 376769,
+        "Aciklama": "Eş zamanlı olmayan iletişim araçları e-posta, bloglar, forumlar ve sosyal medya paylaşımları gibi, anlık katılım gerektirmeyen araçlardır. <b>Anlık Mesajlaşma</b> uygulamaları (IM) ise, mesaj gönderildiğinde alıcının çevrimiçi olmasını gerektirdiği ve iletişimin gerçek zamanlı aktığı <b>eş zamanlı (senkron) bir araçtır</b>."
+    },
+    {
+        "SoruID": 376770,
+        "Aciklama": "Bloglar, kişisel içerik yayımlama, yorum alma/verme ve kategorilendirme imkânı sunar. Blogların temel işlevi yazılı, görsel veya işitsel içeriklerin yayımlanmasıdır ve doğası gereği <b>eş zamanlı görüntülü konferans</b> (video konferans) yapma imkânı sunmaz. Bu özellik web konferans sistemlerine aittir."
+    },
+    {
+        "SoruID": 376771,
+        "Aciklama": "Tanımı verilen sistem <b>Bulut Bilişim (Cloud Computing)</b>dir. Bulut bilişim, verilerin internet üzerindeki sunucularda depolanmasını ve kullanıcılara <b>zaman ve mekân kısıtlaması olmadan</b> her türlü bilgiye ve kişisel veriye erişim imkânı sunan internet tabanlı depolama/paylaşım sistemleridir."
+    },
+    {
+        "SoruID": 376924,
+        "Aciklama": "Web konferans sistemleri, çevrimiçi toplantılar, dersler veya sunumlar yapmak için kullanılan eş zamanlı platformlardır (Örn: Zoom, Google Meet, Microsoft Teams). Seçeneklerde yer alan, ancak temel işlevi eş zamanlı konferans sağlamak olmayan bir uygulama (örneğin bir sosyal medya veya depolama platformu) doğru cevaptır. Çünkü bu tür uygulamalar, gerçek zamanlı çoklu kullanıcı sesli/görüntülü etkileşim için tasarlanmamıştır."
+    },
+    {
+        "SoruID": 376925,
+        "Aciklama": "Modern <b>anlık mesajlaşma uygulamaları</b> oldukça zengin özelliklere sahiptir. Kullanıcılar sadece metin değil, aynı zamanda <b>dosya transfer etme</b> (I), web bağlantıları olan <b>hiperlinkler gönderme</b> (II), gerçek zamanlı <b>video chat yapma</b> (III) ve önceden kaydedilmiş <b>sesli/görüntülü dosyalar gönderme</b> (IV) gibi tüm bu olanaklardan faydalanabilirler. Bu nedenle tamamı anlık mesajlaşmanın sunduğu olanaklardır."
+    },
+    {
+        "SoruID": 376927,
+        "Aciklama": "Blog uygulamaları, kullanıcılara içerik oluşturma, yayımlama ve yönetme imkânı sunan platformlardır (WordPress, Blogger, Medium). Bu seçenekler arasında yer alan ve temel işlevi blog yayımlama olmayan bir araç (Örn: Dropbox, Google Drive gibi bir depolama hizmeti), blog uygulaması değildir."
+    },
+    {
+        "SoruID": 392919,
+        "Aciklama": "İletişim sürecinde <b>Kanal</b>, mesajın gönderildiği <b>iletim yöntemini veya ortamını (medya)</b> ifade eder. İletiler (sözlü, sözsüz, durağan ya da hareketli görseller) kaynak ve alıcı arasında bu kanal aracılığıyla aktarılır."
+    },
+    {
+        "SoruID": 392920,
+        "Aciklama": "E-postada, adreslerin alıcılar tarafından görülemediği, gizli tutulduğu alan <b>Gizli Kopya (BCC – Blind Carbon Copy)</b> olarak adlandırılır. Bu özellik, mesajın birden fazla kişiye gönderildiği durumlarda alıcıların e-posta adreslerinin gizliliğini korur."
+    },
+    {
+        "SoruID": 392991,
+        "Aciklama": "Web konferans sistemleri, fiziksel katılım gerektirmediği için, özellikle farklı coğrafyalardaki katılımcılar açısından <b>seyahat masraflarından tasarruf sağlaması</b> en büyük avantajlarından biridir. Aynı zamanda zaman tasarrufu, kayıt kolaylığı ve eş zamanlı etkileşim sağlaması da diğer önemli avantajlarıdır."
+    },
+    {
+        "SoruID": 376812,
+        "Aciklama": "Mobil öğrenme (M-Öğrenme) ve çevrimiçi öğrenme (E-Öğrenme), özellikle erişilebilirlik ve esneklik açısından ortak temel özelliklere sahiptir. Bu iki modelin temel ortak teknolojik özellikleri arasında <b>mekândan bağımsızlık</b> (I) ve <b>zamandan bağımsızlık</b> (II) yer alır. Bu özellikler, öğrencinin geleneksel sınıf ortamına veya sabit bir çalışma saatine bağlı kalmamasını sağlar. <b>Yapıcı içerik</b> (III) ise pedagojik bir yaklaşımdır ve öğrenmenin tasarımıyla ilgilidir, teknolojik erişim özelliği değildir. Dolayısıyla I ve II, çevrimiçi öğrenmeyle birlikte sahip olunan temel özelliklerdendir."
+    },
+    {
+        "SoruID": 376813,
+        "Aciklama": "Mobil teknolojiler eğitimde <b>esneklik</b>, <b>kişiselleştirilmiş öğrenme</b> ve <b>anlık erişilebilirlik</b> gibi birçok potansiyel fayda sunar. Soruda fayda olmayan bir özelliğin bulunması beklenmektedir. Mobil öğrenme süreçleri genellikle öğrenci motivasyonunu artırırken, fayda olmayan durumlar; cihaz maliyetlerinin yüksekliği, küçük ekranlardan kaynaklanan <b>kısıtlılıklar</b> veya <b>dikkat dağınıklığı</b> riski gibi sınırlamalar olabilir. Mobil teknolojilerin sunduğu faydalar, öğrenme içeriğine her an ulaşım ve öğrenci katılımını artırmaktır."
+    },
+    {
+        "SoruID": 376814,
+        "Aciklama": "Mobil teknolojiler, hareket halindeyken kullanılabilen, genellikle <b>kablosuz bağlantı</b> özelliklerine sahip <b>taşınabilir elektronik cihazlar</b> (akıllı telefon, tablet, dizüstü bilgisayar) veya ilgili iletişim standartlarıdır. Mobil teknolojiler arasında yer almayan bir unsur, doğası gereği <b>sabit</b> olan ve taşınabilirlik sunmayan eski nesil cihazlar veya bileşenler (örneğin, geleneksel <b>masaüstü bilgisayarlar</b> veya sadece kablolu ağ bileşenleri) olmalıdır."
+    },
+    {
+        "SoruID": 376815,
+        "Aciklama": "Sabit veya taşınabilir cihazlar arasında <b>kısa mesafelerde veri aktarımı</b> sağlama ve <b>Kişisel Alan Ağları (PAN)</b> kurmaya yarayan kablosuz bağlantı standardı <b>Bluetooth</b>'tur. Bluetooth, Wi-Fi'dan (WLAN) farklı olarak, düşük güç tüketimiyle cihaz eşleştirmeyi ve küçük veri transferlerini kolaylaştırmak için tasarlanmıştır."
+    },
+    {
+        "SoruID": 376816,
+        "Aciklama": "Mobil öğrenme, öğrenenlere birçok avantaj sunar. Bunlar arasında <b>bağımsız ve işbirlikçi öğrenme deneyimi</b> (I), bireysel başarı hissi ve kişiselleştirilmiş geri bildirimlerle <b>özgüven ve benlik saygısını artırma</b> (II) ve mobil uygulamalar aracılığıyla <b>okuryazarlık ve aritmetik becerileri geliştirme</b> (III) bulunmaktadır. Ancak IV. maddede belirtilen <b>Sınırlı fiziksel özellikler sunma</b> (küçük ekran, kısıtlı klavye vb.) mobil cihazların bir <b>kısıtlılığı</b> olup, bir avantaj değildir. Dolayısıyla I, II ve III avantajlardandır."
+    },
+    {
+        "SoruID": 376817,
+        "Aciklama": "Mobil öğrenmenin sınırlılıkları genellikle <b>cihaz maliyetleri</b>, <b>teknik yetersizlikler</b> (küçük ekran boyutu, sınırlı pil ömrü), <b>ağ bağlantısı bağımlılığı</b> veya <b>dikkat dağınıklığı</b> gibi bireye veya sürece yönelik kısıtlamalardır. Sınırlılık olmayan bir durum, mobil öğrenmenin doğası gereği sunduğu temel bir <b>fayda</b> olmalıdır. Örneğin, içeriğe her an erişim sağlama veya öğrenmeyi kişiselleştirme bir sınırlılık değildir, aksine mobil öğrenmenin temel avantajıdır."
+    },
+    {
+        "SoruID": 376818,
+        "Aciklama": "Mobil teknolojilerde karşı tarafa metin mesajlarının yanı sıra <b>grafik</b>, fotoğraf veya video gibi <b>multimedya</b> içerikleri göndermeye izin veren hizmet <b>Çoklu Ortam Mesajlaşma Servisi (MMS)</b>'dir. Geleneksel SMS (Kısa Mesaj Servisi) sadece metin tabanlıdır."
+    },
+    {
+        "SoruID": 376819,
+        "Aciklama": "Mobil öğrenme, öğrenme sürecinin temel alanlarına katkıda bulunur. Bu faydalar, öğrencinin başarısını ve bilgisini uygulama yeteneğini gösteren <b>öğrenme performansı</b> (I), bilginin edinilme ve işlenme biçimini kapsayan <b>öğrenme süreci</b> (II) ve öğrencinin motivasyon ve katılımını etkileyen genel <b>öğrenme deneyimi</b> (III) alanlarını içerir. Mobil öğrenme bu üç alanda da iyileşme potansiyeli sunar."
+    },
+    {
+        "SoruID": 376820,
+        "Aciklama": "Bireyler tarafından mobil öğrenme amacıyla sıklıkla kullanılan teknolojiler, <b>yüksek taşınabilirlik</b> ve <b>kablosuz ağ erişimi</b> sunan cihazlardır (örn. akıllı telefonlar, tabletler, taşınabilir medya oynatıcılar). Sıklıkla kullanılmayan bir teknoloji, genellikle mobil öğrenme amacıyla tasarlanmamış, sabit veya güncel olmayan bir donanım (örneğin faks cihazı veya eski tip masaüstü bilgisayar) olmalıdır. Bu cihazlar öğrenme esnekliğini sağlamaz."
+    },
+    {
+        "SoruID": 376821,
+        "Aciklama": "Mobil öğrenme, <b>esneklik</b>, <b>erişilebilirlik</b> ve <b>kişiselleştirme</b> gibi çok sayıda fayda sunarken, faydalardan biri olmayan durum genellikle bir sınırlılıktır. Mobil öğrenme faydalarından olmayan seçenek; örneğin, tüm öğrenme materyallerinin her zaman mobil cihazın küçük ekranında rahatça görüntülenebilmesi garantisinin olmaması veya <b>teknik arızalara yüksek bağımlılık</b> gibi olumsuz bir özellik olmalıdır."
+    },
+    {
+        "SoruID": 376977,
+        "Aciklama": "Mobil cihazlar, öğrenme sürecinde <b>iletişim aracı</b>, <b>içerik dağıtım sistemi</b>, <b>veri toplama platformu</b> ve <b>işbirlikçi çalışma ortamı</b> gibi kritik roller üstlenir. Bu cihazların rolleri arasında, öğrenme içeriğine zaman ve mekândan bağımsız erişim sağlamak, öğrenci katılımını artırmak ve anlık geri bildirim sunmak bulunur. Mobil cihazların öğrenmedeki önemli rollerinden biri olmayan durum, genellikle <b>öğrenme esnekliğini kısıtlayan</b> veya <b>kişiselleştirmeyi engelleyen</b> bir eylem veya özelliktir."
+    },
+    {
+        "SoruID": 392922,
+        "Aciklama": "Öğrenen perspektifinden mobil öğrenmenin faydaları, bireysel <b>özerkliği</b>, <b>esnekliği</b> ve <b>motivasyonu</b> artırmayı içerir. Fayda olmayan bir durum ise öğrencinin kişisel öğrenme deneyimine doğrudan katkı sağlamayan, genellikle kurumsal veya öğretimsel bir avantaj (örneğin, <b>sınav maliyetlerini düşürmek</b>) veya bir sınırlılık olmalıdır. Öğrenen, <b>kendi hızında ve bağlamında öğrenme</b> avantajını yaşar."
+    },
+    {
+        "SoruID": 394270,
+        "Aciklama": "Mobil öğrenme, hareketlilik (mobility) ve her yerde bulunabilirlik (ubiquity) kavramlarına dayanır. I. madde (<b>belirli bir lokasyona bağlı kalmadan eğitim içeriğine erişim</b>) ve II. madde (<b>Dinamik olarak oluşturulan hizmetlerden yararlanma</b>) doğrudur, çünkü mobil cihazlar bağlamsal farkındalık sunar. IV. madde de (<b>Kullanıcı üretkenliğini ve verimliliğini artırır</b>) doğrudur. Ancak III. madde (Zamana ve mekâna bağımlıdır) <b>yanlıştır</b>, çünkü mobil öğrenmenin temel amacı bu bağımlılığı ortadan kaldırmaktır."
+    },
+    {
+        "SoruID": 377073,
+        "Aciklama": "Uzaktan eğitimin temel özelliği, öğrenci ve öğretmenin fiziksel olarak aynı ortamda bulunmasını gerektirmemesidir. Dolayısıyla, uzaktan eğitimin temel özelliği <b>mekan ve zamandan bağımsızlık</b>, <b>teknoloji kullanımı</b> ve <b>esneklik</b> gibi kavramları içerir. \"Sınıf içi fiziksel katılımın zorunlu olması\" ise geleneksel eğitimin bir özelliğidir ve uzaktan eğitimin bir özelliği <b>değildir</b>."
+    },
+    {
+        "SoruID": 377074,
+        "Aciklama": "Bahsedilen tanım, eğitimin genellikle bilgisayar gibi elektronik medya ve cihazlar aracılığıyla hem <b>eş zamanlı (senkron)</b> hem de <b>eş zamansız (asenkron)</b> olarak gerçekleştirildiği öğrenme etkinliği olan <b>E-Öğrenme (Elektronik Öğrenme)</b> veya <b>Uzaktan Eğitim</b> sistemlerini ifade eder. Bu sistemler, öğrenme, iletişim ve etkileşim için dijital teknolojileri kullanır."
+    },
+    {
+        "SoruID": 377075,
+        "Aciklama": "Açık ve uzaktan öğretimin temel avantajları arasında <b>coğrafi engellerin kaldırılması</b>, <b>öğrenme esnekliği</b> ve <b>bireysel öğrenme imkanları</b> bulunur. Ancak, bu sistemlerde başarı için öğrencinin yüksek derecede <b>öz disiplin</b> ve motivasyona sahip olması gerekir. Bu gereksinim, bir avantaj değil, öğrenci için bir <b>dezavantajdır</b>."
+    },
+    {
+        "SoruID": 377077,
+        "Aciklama": "Açık ve uzaktan öğretimin dezavantajları arasında <b>öz disiplin gereksinimi</b>, <b>teknik altyapı sorunları</b> ve <b>yüz yüze etkileşim eksikliği</b> sayılabilir. Sistemin sunduğu <b>coğrafi bağımsızlık</b> ve zaman esnekliği ise dezavantaj değil, aksine açık ve uzaktan öğretimin temel <b>avantajlarından</b> biridir."
+    },
+    {
+        "SoruID": 377078,
+        "Aciklama": "Açık ve uzaktan öğretim faaliyetlerinin organize edildiği, içeriklerin sunulduğu, öğrencilerin takip edildiği ve neredeyse tüm öğretim süreçlerinin internet üzerinden yönetildiği yazılımlara <b>Öğrenim Yönetim Sistemi (ÖYS)</b> veya İngilizce adıyla <b>Learning Management System (LMS)</b> denir. ÖYS, eğitim materyallerine erişim ve öğrenci-öğretim elemanı iletişimini sağlar."
+    },
+    {
+        "SoruID": 377079,
+        "Aciklama": "Öğrenim Yönetim Sistemleri (ÖYS), <b>içerik sunumu</b>, <b>öğrenci/ders takibi</b>, <b>sınav ve değerlendirme</b> ve <b>iletişim araçları</b> gibi özellikleri barındırır. Ancak, ÖYS'nin işlevi tamamen dijital süreçleri yönetmektir. <b>Öğrenci ve öğretim elemanının fiziksel olarak aynı ortamda bulunmasını zorunlu kılmak</b>, ÖYS'nin bir özelliği <b>değildir</b>."
+    },
+    {
+        "SoruID": 377080,
+        "Aciklama": "Açık kaynak kodlu Öğrenim Yönetim Sistemleri (ÖYS), kaynak kodları ücretsiz olarak erişime ve geliştirmeye açık olan sistemlerdir. Bu alandaki en popüler ve yaygın kullanılan açık kaynak kodlu ÖYS örneği <b>Moodle</b>'dır."
+    },
+    {
+        "SoruID": 377081,
+        "Aciklama": "Canlı sınıf platformları, eş zamanlı (senkron) video konferans ve etkileşim sağlamak için kullanılan araçlardır (örneğin Zoom, Adobe Connect, BigBlueButton). <b>Moodle</b> ise temel işlevi içerik yönetimi, değerlendirme ve asenkron iletişimi sağlamak olan bir <b>Öğrenim Yönetim Sistemi (ÖYS)</b>'dir ve bu nedenle canlı sınıf platformlarından biri <b>değildir</b>, ancak bu tür araçlarla entegre olabilir."
+    },
+    {
+        "SoruID": 377082,
+        "Aciklama": "Açık ve uzaktan öğretimin paydaşları, <b>öğrenciler</b>, <b>öğretim elemanları</b>, <b>içerik geliştirme uzmanları</b>, <b>yöneticiler</b> ve <b>teknik destek personeli</b> gibi eğitim sürecine doğrudan katkı sağlayan gruplardır. Bu sistemin doğası gereği, sadece geleneksel kampüs ortamlarına özgü olan birimler (örneğin <b>Fiziksel Kütüphane Hizmetleri</b> veya benzeri) temel paydaşlardan sayılmaz."
+    },
+    {
+        "SoruID": 377240,
+        "Aciklama": "Hem açıköğretim hem de uzaktan eğitim, öğrenci ve öğretim elemanının fiziksel olarak ayrı olduğu modelleri içerir. Ancak temel ve en önemli fark, <b>kayıt ve erişim koşullarıdır</b>. <b>Açıköğretim</b> genellikle <b>daha kitlesel</b>, <b>daha az ön koşul</b> gerektiren ve herkese açık programları ifade ederken, uzaktan eğitim daha genel bir terim olup, belirli gruplara yönelik veya daha kısıtlı kayıt şartları olan programları da kapsayabilir."
+    },
+    {
+        "SoruID": 392933,
+        "Aciklama": "Paragrafta açıklanan durum, açık ve uzaktan öğretimin sunduğu <b>esneklik</b> ve <b>özgürlüğün</b>, eğer öğrenci tarafından iyi yönetilemezse verimsizliğe yol açabileceğini belirtmektedir. Bu, uzaktan eğitimin en büyük dezavantajlarından biri olan <b>yüksek derecede öz disiplin ve öz yönetim gereksinimi</b> ile doğrudan ilgilidir. Başarılı olmak için bireyin <b>motivasyonunu sürekli yüksek tutması</b> ve zamanını doğru planlaması zorunludur."
+    },
+    {
+        "SoruID": 393000,
+        "Aciklama": "Açıklamada bahsedilen, e-kitap, animasyon, video ve senaryo gibi öğretim materyallerinin hazırlanmasında görev alan uzman kişiler (öğretim tasarımcıları, grafikerler, video uzmanları), açık ve uzaktan öğretimin en kritik paydaşlarından olan <b>İçerik Geliştirme Ekibi</b> veya <b>Materyal Geliştirme Uzmanları</b> grubuna aittir. Bu ekip, ders içeriklerinin kalitesinden ve dijital formata dönüştürülmesinden sorumludur."
+    }
+]

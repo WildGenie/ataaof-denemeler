@@ -397,6 +397,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Ön-arka plan ilişkisi (Figure-Ground Relationship), <b>algı psikolojisinin</b> temel bir ilkesidir ve görme sistemimizin çevremizdeki nesneleri (ön plan/figür) arka plandan (zemin) ayırmasını sağlar. Bu ilişki, sadece tasarımlarda değil, günlük yaşamda da <b>görsel organizasyonun</b> ve anlamlandırmanın temelini oluşturur. Yanlış olan ifade genellikle bu ilişkinin pasif olduğunu veya bilinçli çaba gerektirdiğini iddia edenlerdir; oysa bu, görme sistemimizin <b>otomatik ve temel bir işlevidir</b>. Algı dünyamızı etkilemesi yaşamdaki her türlü görsel deneyim için kritiktir, çünkü nesneleri tanımamızı ve mekânsal ilişkileri anlamamızı sağlar.",
         "Donem": 2
     },
     {
@@ -417,6 +418,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Ön plan (figür) ve arka plan (zemin) ilişkisi, tasarımdaki <b>katmanlı yüzeyin</b> temelini oluşturur. Katmanlar, görsel hiyerarşiyi ve anlamı belirler. Ön plan genellikle <b>esas ögeyi</b> veya ana mesajı taşırken, arka plan bu ögeye bağlam veya destek sağlar. Katmanlarla ilgili yanlış bir ifade, örneğin, arka planın daima ön plandan daha karmaşık olması gerektiğini veya ön planın her zaman hareketsiz olması gerektiğini iddia edebilir. Oysa katmanların temel amacı, mesajın <b>net ve hiyerarşik</b> bir şekilde iletilmesini sağlamaktır.",
         "Donem": 2
     },
     {
@@ -437,6 +439,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bu ifade, tasarımın yaratıcılık ve keşif açısından sınır tanımayan bir alan olduğunu vurgular. Ders materyalinde bu tür tanımlar genellikle <b>Milton Glaser</b> gibi modernist tasarım düşünürlerine veya <b>Charles Eames</b> gibi vizyonerlere atfedilir. Bu tarz bir ifade, tasarımın sadece problem çözmekten ibaret olmadığını, aynı zamanda <b>sınırsız fikir üretimi</b> için bir platform olduğunu belirtir.",
         "Donem": 2
     },
     {
@@ -457,6 +460,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bu tanım, açıkça <b>İki Katmanlı Yüzey (Double-Layered Surface)</b> tasarımını açıklamaktadır. İki katmanlı yüzeyde, bir <b>arka plan (zemin)</b> üzerinde konumlanmış bir veya birden fazla <b>esas öge (figür)</b> bulunur. Algısal olarak, zemin ve figür olmak üzere iki ana seviye ayırt edilir. Bu tasarım biçimi, izleyicinin dikkatini belirgin bir biçimde ana mesaja yönlendirirken, arka plan destekleyici bir rol üstlenir.",
         "Donem": 2
     },
     {
@@ -477,6 +481,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Grafik tasarımda katmanlı yüzey, <b>anlamsal ilişkileri</b> ve görsel hiyerarşiyi yönetir. Katmanların sayısı ve düzenlenişi, mesajın ne kadar karmaşık veya direkt olacağını belirler. Yanlış olan bir ifade, genellikle katmanların görsel anlamı etkilemediğini veya çok katmanlı olmanın her zaman anlamı netleştirdiğini savunur. Oysa, yanlış kullanılan katmanlar <b>kafa karışıklığına</b> yol açabilir. Doğru olan ise, katmanların <b>esas ve yardımcı ögeleri</b> ayırarak anlamın etkinliğini artırmasıdır.",
         "Donem": 2
     },
     {
@@ -497,6 +502,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "<b>Çok Katmanlı Yüzey (Multi-Layered Surface)</b>, tasarımda ikiden fazla algısal veya anlamsal katmanın bulunduğu yüzeydir. Bu tür tasarımlar, derinlik illüzyonunu, karmaşık hiyerarşiyi ve birden fazla görsel mesajın eş zamanlı olarak okunmasını sağlar. Birden fazla <b>esas öge</b>, <b>yardımcı öge</b> ve farklı derinlik seviyeleri kullanılarak oluşturulan bu yapı, zengin ve derinlikli bir görsel deneyim sunar.",
         "Donem": 2
     },
     {
@@ -517,6 +523,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tek, iki veya çok katmanlı yüzey üzerine yapılan görsel araştırmalar, tasarımcının iletmek istediği mesaja en uygun <b>görsel stratejiyi</b> belirlemesi açısından hayati öneme sahiptir. Bu araştırmalar, izleyicinin algı biçimlerini ve odaklanma mekanizmalarını anlamayı hedefler. Yanlış bir ifade, bu araştırmaların sadece estetik kaygılarla yapıldığını veya mesajın <b>iletişim etkinliğini</b> artırmadığını iddia edebilir. Oysa, katman yapısını anlamak, <b>hiyerarşiyi doğru kurarak</b> iletişimin gücünü artırır.",
         "Donem": 2
     },
     {
@@ -537,6 +544,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Boşluğa gelmesi gereken ifade, görme sistemimizin karmaşık görüntüleri işlerken kullandığı yöntem veya kuralları tanımlamalıdır. Doğru ifade genellikle <b>Algı Biçimleri</b> veya <b>Organizasyon Biçimleri</b>dir. Görme sistemimiz, algıladığı bir görüntüyü anlamlandırmak için Gestalt prensipleri gibi çeşitli <b>algısal organizasyon kurallarını</b> kullanır ve bu da farklı algı biçimlerinin ortaya çıkmasına neden olur.",
         "Donem": 2
     },
     {
@@ -557,6 +565,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Ön-arka plan ilişkisi (figür-zemin), katmanların oluşumunun temel dayanağıdır. Ön plan <b>figürü</b> (esas ögeyi), arka plan ise <b>zemini</b> (bağlamı) temsil eder. Yanlış bir ifade, genellikle ön plan ve arka planın rollerini karıştırır veya katmanların görsel algıdan bağımsız olduğunu söyler. Katmanların işlevi, görsel hiyerarşiyi kurarak mesajın <b>odak noktasını</b> belirlemektir.",
         "Donem": 2
     },
     {
@@ -577,6 +586,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Tasarımdaki katmanlar, mesajın netliğini sağlamak amacıyla hiyerarşik olarak düzenlenir. Bu hiyerarşide I. <b>Esas öge</b> (ana mesajı taşıyan figür) ve III. <b>Yardımcı öge</b> (esas ögeyi destekleyen ikincil unsurlar) kritik roller oynar. II. Son öge, standart bir katman belirleyici unsur değildir. Dolayısıyla, görsel mesaja hizmet eden unsurlar I ve III'tür. Bu unsurlar, izleyicinin dikkatini yönlendirmede ve <b>anlamsal derinlik</b> oluşturmada etkilidir.",
         "Donem": 2
     },
     {
@@ -597,6 +607,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Tek, iki ya da çok katmanlı yüzeye yönelik tasarımdaki katmanı belirleyen şey, grafik ögelerin <b>Anlamsal ilişkilerle</b> oluşturduğu katmanlardır. Katmanlar, sadece görsel ayrım değil, aynı zamanda ögeler arasındaki <b>anlam ve önem ilişkisini</b> de yansıtır. Ögelerin birbirleriyle kurduğu ilişki ve hiyerarşik düzen, izleyicinin mesajı hangi sırayla ve hangi önemde algılayacağını tayin eder.",
         "Donem": 2
     },
     {
@@ -617,6 +628,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "“Tasarım, amaç ve yapım arasında zekice kotarılmış bir denklemdir.” ifadesi, tasarımı hem felsefi hem de pratik bir süreç olarak gören ünlü Amerikalı grafik tasarımcı <b>Paul Rand'a</b> aittir. Bu tanım, tasarımın yalnızca estetik olmadığını, aynı zamanda belirlenen <b>amaçlara ulaşmak</b> için akıllıca bir <b>uygulama (yapım)</b> gerektiren stratejik bir denge olduğunu vurgular.",
         "Donem": 2
     },
     {
@@ -637,6 +649,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Algı dünyamızı etkileyen ön-arka plan ilişkisinin yaşamdaki etkinliğine yönelik doğru ifade, bu ilişkinin <b>görsel organizasyonun</b> temelini oluşturmasıdır. Bu ilke, gördüğümüz nesneleri (figür) içinde bulundukları ortamdan (zemin) ayırmamızı sağlayarak, dünyayı <b>anlamlandırma ve tanıma</b> yeteneğimizi destekler. Bu, otomatik ve sürekli çalışan bir <b>bilişsel mekanizmadır</b>.",
         "Donem": 2
     },
     {
@@ -657,6 +670,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "<b>Tek Katmanlı Yüzey (Single-Layered Surface)</b>, tasarımda derinlik illüzyonunun veya belirgin bir figür-zemin ayrımının olmadığı yüzeydir. Bu tür bir tasarımda, tüm ögeler neredeyse aynı <b>görsel düzlemde</b> bulunur. Odak noktası dağınık olabilir veya tasarımın tamamı tek bir bütün olarak okunur. Bu yapı, genellikle <b>sadelik ve bütünlük</b> mesajını vurgular, karmaşık hiyerarşi kurmaktan kaçınır.",
         "Donem": 2
     },
     {
@@ -677,6 +691,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Ön-arka plan ilişkisi (figür-zemin), <b>algısal organizasyonun</b> merkezindedir ve görsel anlamlandırma için zorunludur. Yanlış olan bir ifade, bu ilişkinin evrensel olmadığını veya sadece belirli kültürel bağlamlarda geçerli olduğunu iddia edebilir. Oysa bu, insan görme sisteminin <b>evrensel ve biyolojik</b> bir işlevidir. Görsel algımızın temel taşı olarak, nesneleri arka plandan ayırt etme yeteneğimizin temelini oluşturur.",
         "Donem": 2
     },
     {
@@ -697,6 +712,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Tek katmanlı yüzey, <b>sadelik, düzlemsellik</b> ve hiyerarşi eksikliği ile karakterizedir. Bu yüzeyde derinlik algısı zayıftır ve ögeler tek bir düzlemde okunur. Bu nedenle, tek katmanlı yüzey hakkında <b>söylenemeyecek</b> şey, örneğin, 'izleyiciye karmaşık bir görsel anlatı ve derinlik sunar' veya 'güçlü bir görsel hiyerarşi oluşturur' gibi ifadelerdir. Tek katmanlı yüzey, <b>görsel katmanlaşmayı minimalize eder</b>.",
         "Donem": 2
     },
     {
@@ -717,6 +733,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Bir grafik kompozisyonun tasarım sürecini etkileyen dört temel kavram; <b>İçerik</b> (Ne anlatılacak?), <b>Mesaj</b> (Ne iletilecek?), <b>Hedef Kitle</b> (Kime iletilecek?) ve <b>Biçim</b> (Nasıl tasarlanacak?) olarak sıralanır. Bu kavramlar arasındaki mantıksal ilişki sırası, genellikle İçerik'ten başlayıp Biçim'de sonlanan bir akışı takip eder.",
         "Donem": 2
     },
     {
@@ -737,6 +754,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Kompozisyon, tasarımdaki görsel ögelerin <b>anlam ve hiyerarşi oluşturacak şekilde</b> bir araya getirilme biçimidir. Kompozisyon, mesajın etkinliğini ve izleyicinin gözünün yönlendirilmesini sağlar. Kompozisyonun sadece estetik kaygılarla yapıldığına veya mesajdan bağımsız olduğuna dair bir ifade genellikle <b>yanlıştır</b>, çünkü kompozisyon biçim ve içeriği birleştirir.",
         "Donem": 2
     },
     {
@@ -757,6 +775,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Bu ifade, kompozisyonun temel işlevlerinden biri olan <b>Biçimsel Organizasyon</b> (Formal Organization) veya <b>Görsel Hiyerarşi</b> kavramına aittir. Kompozisyonun düzenlenmesi, hangi ögelerin öncelikli olduğunu (hiyerarşi) ve hangi ögelerin bütünlük içinde uygun oranda (örüntü) yer alması gerektiğini belirler. Bu düzenleme, tasarıma anlam ve görsel akış katar.",
         "Donem": 2
     },
     {
@@ -777,6 +796,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Kompozisyon, grafik tasarımda temel olarak <b>Biçim ve İçerik</b> arasındaki etkileşimin ürünüdür. <b>İçerik</b> (mesaj ve anlam), <b>Biçim</b> (görsel ögelerin düzenlenmesi) aracılığıyla aktarılır. Başarılı bir kompozisyon, biçim ile içeriğin birbirini desteklemesini sağlar.",
         "Donem": 2
     },
     {
@@ -797,6 +817,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Kompozisyon kelimesi, görsel ögelerin bir araya getirilmesi sürecini ifade eder. Bu süreç, ögelerin alana <b>Yerleştirme</b>si, aralarındaki ilişkilerin <b>Düzenleme</b>si ve bir bütün olarak görsel anlatının <b>Kurgulama</b>sını içerir. Bu nedenle, yukarıdaki üç sözcük de kompozisyon kavramını karşılayan veya onunla doğrudan ilişkili olan terimlerdir.",
         "Donem": 2
     },
     {
@@ -817,6 +838,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Kompozisyon, tasarımdaki görsel ögelerin planlı, amaçlı ve anlam taşıyan bir şekilde birleştirilmesidir. Kompozisyonla ilgili yanlış bir ifade, genellikle kompozisyonun <b>rastgele veya amaçsız bir yerleştirme</b> olduğu iddiasıdır. Oysa kompozisyon, mesajın etkinliğini sağlamak için titizlikle planlanır.",
         "Donem": 2
     },
     {
@@ -837,6 +859,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Bir tasarımdaki görsel ögelerin, çerçevenin sınırlarının dışına taşarak devam ettiği izlenimini vermesi, izleyicide <b>sınırsızlık</b> ve <b>dinamizm</b> hissi uyandırır. Bu teknik, <b>Açık Kompozisyon</b> olarak adlandırılır. Açık kompozisyonda, sahnenin çerçevenin ötesinde de devam ettiği varsayılır.",
         "Donem": 2
     },
     {
@@ -857,6 +880,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bu tür spesifik bilgi soruları, ders kitabında güçlü bir <b>kompozisyon örneği</b> olarak incelenen önemli bir afişe atıfta bulunur. 'Çocuğu Koruyun' (Protect the Child) afişi, sosyal kampanyalarda etkili görsel iletişimi gösteren klasik bir örnektir ve tasarımcısı (bu kaynakta belirtilen özel isim) ders materyalinin içeriğine bağlıdır. (Örn: <b>Mikhail Duzenkli</b> veya ilgili metinde geçen tasarımcı).",
         "Donem": 2
     },
     {
@@ -877,6 +901,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Grafik kompozisyonun tasarım sürecinde dört temel kavram etkilidir: <b>İçerik, Mesaj, Hedef Kitle</b> ve <b>Biçim</b>. Yukarıda listelenen <b>Mesaj</b>, <b>İçerik</b> ve <b>Hedef Kitle</b>, tasarımın ne anlatacağı, kime anlatacağı ve ne amaçla anlatılacağı sorularına cevap vererek kompozisyonun biçimsel yapısını (Biçim) şekillendiren en kritik ögelerdendir.",
         "Donem": 2
     },
     {
@@ -897,6 +922,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Açık kompozisyon, <b>dinamiktir</b> ve ögelerin çerçevenin dışına taşarak devam ettiği hissini verir. Yanlış olan ifade, açık kompozisyonun özelliklerinin tersini, yani ögelerin tamamen çerçeve içine hapsedildiği, <b>statik</b> ve <b>sınırları belirli</b> bir düzenleme olduğu iddiasıdır. Bu özellikler kapalı kompozisyona aittir.",
         "Donem": 2
     },
     {
@@ -917,6 +943,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Bu ifade, grafik tasarımın modern yaklaşımlarında sıklıkla vurgulanan bir prensibi belirtir: Tasarımın kalbi <b>fikir</b> veya <b>kavramsal yaklaşımdır</b>. Teknik beceri bu fikri hayata geçirmek için bir araçtır. Bu tür bir vurgu, genellikle <b>Paul Rand</b> gibi kavramsal tasarımın önemini öne çıkaran tasarımcılara atfedilir.",
         "Donem": 2
     },
     {
@@ -937,6 +964,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Bir kompozisyon üretmenin başlangıcı, görsel ögelerin fiziki yerleşiminden önce gelir. Başlangıç noktası, <b>Mesajın ve İçeriğin</b> (yani <b>fikrin</b>) tanımlanmasıdır. Kompozisyon, bu fikri görselleştirmek için kullanılan yapıdır. Bu nedenle, kompozisyon süreci <b>fikir (kavram)</b> aşamasında başlar.",
         "Donem": 2
     },
     {
@@ -957,6 +985,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Bu soru, 311870 numaralı soruya benzer şekilde, kompozisyonun tasarım üzerindeki gerçek rolünü sorgular. Kompozisyon, sadece ögeleri düzenlemekten öte, <b>mesajın netliğini</b> ve <b>görsel etkinliğini</b> sağlamakla yükümlüdür. Yanlış olan ifade, kompozisyonun mesaj iletimi üzerindeki etkisini minimize eden veya sadece rastlantısal olduğunu öne süren iddialar olacaktır.",
         "Donem": 2
     },
     {
@@ -977,6 +1006,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Açık kompozisyon, <b>dinamizm</b>, <b>sınırların aşılması</b> ve <b>hareket</b> hissi ile karakterizedir. Açık kompozisyon için yanlış olan ifade, ögelerin tasarımın sınırları içerisinde kalması gerektiğini, dolayısıyla <b>statik</b> ve <b>kendi içinde kapalı</b> bir denge oluşturduğunu iddia eden ifadedir.",
         "Donem": 2
     },
     {
@@ -997,6 +1027,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "<b>Kapalı kompozisyon</b>, ögeleri çerçevenin içine hapseden, <b>iç dengeye</b> odaklanan ve genellikle <b>statik</b> bir etki yaratan düzenleme biçimidir. Bu tür kompozisyonda görsel akış, çerçevenin dışına taşmaz. Dolayısıyla, kapalı kompozisyon için, ögelerin <b>sınırların dışına doğru bir devamlılık</b> hissi verdiği veya <b>hareketli/dinamik</b> olduğu ifadeleri <b>ifade edilemez</b>.",
         "Donem": 2
     },
     {
@@ -1017,6 +1048,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bu maddelerden <b>II.</b> madde kesinlikle yanlıştır. <b>Biçimsel organizasyonun (açık veya kapalı kompozisyon)</b> şekli, mesajın izleyici tarafından nasıl algılandığını ve dolayısıyla <b>mesajın başarı kriterini doğrudan etkiler</b>. Tasarımın formu, içeriğin anlamını güçlendirmeli veya desteklemelidir. Diğer maddeler (I, III, IV ve V) tasarımın temel ilkeleri açısından doğrudur. (Yanlış olan sadece II numaralı ifadedir.)",
         "Donem": 2
     },
     {
@@ -1037,6 +1069,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Bu soru, tasarımda <b>derinlik algısı</b> yaratmak için kullanılan temel yöntemlerden biri olan <b>üst üste yerleştirme (Superposition)</b> tekniğini ve bunun tarihsel bağlamını işaret eder. Boyutları bilinen nesnelerin <b>üst üste</b> yerleştirilmesi, izleyicinin hangi nesnenin önde, hangisinin arkada olduğunu anlamasını sağlar ve bu teknik <b>Rönesans</b> Dönemi'nden itibaren bilinçli olarak derinlik sağlamak amacıyla yaygınca kullanılmıştır.",
         "Donem": 2
     },
     {
@@ -1057,6 +1090,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Derinlik etkisini oluşturmak için kullanılan iki temel bilimsel perspektif yöntemi bulunmaktadır: Birincisi, <b>Çizgisel Perspektif</b> (Linear Perspective) olup, paralel doğruların ufukta birleşme noktasına dayanan geometrik bir sistemdir. İkincisi ise, uzaktaki nesnelerin daha soluk, daha az detaylı ve maviye çalacak şekilde gösterildiği <b>Atmosferik Perspektif</b>'tir (Hava Perspektifi).",
         "Donem": 2
     },
     {
@@ -1077,6 +1111,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tasarımda derinlik etkisi oluşturmak için kullanılan başlıca yöntemler şunlardır: <b>Çizgisel Perspektif</b>, <b>Atmosferik Perspektif</b>, <b>Üst Üste Bindirme (Superposition)</b>, <b>Relatif Büyüklük</b> ve <b>Dikey Konumlandırma</b>. Bu yöntemlerin dışında kalan, kompozisyonla ilgili olan <b>Simetri</b> veya <b>Renk Uyumu</b> gibi unsurlar derinlik oluşturma yöntemlerinden biri değildir.",
         "Donem": 2
     },
     {
@@ -1097,6 +1132,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "<b>Atmosferik Perspektif</b> (Hava Perspektifi), uzaktaki nesnelerin soluk ve mavimsi görünmesinin nedenini açıklar. Bu değişim, nesne ile izleyen arasına daha fazla <b>hava</b> girmesiyle açıklanır. Havanın içindeki toz ve su buharı gibi parçacıklar ışığı dağıtarak, uzaktaki nesnelerin renklerini ve kontrastını azaltır, detaylarını kaybetmesine neden olur.",
         "Donem": 2
     },
     {
@@ -1117,6 +1153,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Doğru ifade yalnızca II. öncüldür.<br/>I. öncül: İzleyici bakışının resme tam olarak yerleşmesi ve bilimsel perspektif kurallarının kullanımı, <b>Rönesans</b> döneminde (Brunelleschi ve Alberti gibi isimlerle) gerçekleşmiştir, Giotto (Proto-Rönesans) bu kuralları tam anlamıyla sistemleştirmemiştir. (YANLIŞ)<br/>II. öncül: <b>Çizgisel Perspektif</b>, 15. yüzyıl <b>Rönesans</b>'ının sanata kazandırdığı en büyük matematiksel ve sanatsal yeniliklerden biridir. (DOĞRU)<br/>III. öncül: Perspektif, Barok Dönemi'nden (17. yy) çok daha önce, <b>Rönesans</b> döneminde (15. yy) yoğun olarak kullanılmaya başlanmıştır. (YANLIŞ)",
         "Donem": 2
     },
     {
@@ -1137,6 +1174,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "<b>Gölge Perspektifi</b> (Shadow Perspective), gölgelerin de tıpkı cisimler gibi perspektif kurallarına uymasını esas alır. Gölgenin geometrik olarak yerini ve şeklini belirlemek için <b>Işık Kaynağının Kaçış Noktası</b> (VPL), <b>Gölgenin Kaçış Noktası</b> ve <b>Ufuk Çizgisi</b> gibi unsurlar kullanılır. Gölgenin tespitinde, doğrudan geometrik hesaplamayı etkilemeyen <b>Atmosferik Etkiler</b> gibi unsurlar kullanılmaz.",
         "Donem": 2
     },
     {
@@ -1157,6 +1195,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Perspektif yöntemleri, izleyicinin gözünü belirli bir noktaya çekmek ve böylece mesajı veya önemli bir öğeyi vurgulamak için güçlü bir araçtır. Özellikle <b>Çizgisel Perspektif</b>'te, tüm paralel çizgilerin birleştiği <b>Kaçış Noktası</b> (Vanishing Point), izleyicinin dikkatini yoğunlaştırdığı için mesajı öne çıkarmak amacıyla sıklıkla kullanılır. Bu, hiyerarşi oluşturmanın görsel bir yoludur.",
         "Donem": 2
     },
     {
@@ -1177,6 +1216,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Verilen örnek, <b>Çizgisel Perspektif</b>'in (Linear Perspective) temel kuralını çok net bir şekilde açıklamaktadır. Çizgisel perspektif, paralel çizgilerin (bu örnekte demir yolu rayları) derinlik algısı yaratmak için ufuk çizgisi üzerindeki bir <b>kaçış noktasında</b> birleşiyormuş gibi görünmesi ilkesine dayanır.",
         "Donem": 2
     },
     {
@@ -1197,6 +1237,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Doğru ifadeler I ve II. öncüllerdir.<br/>I. öncül: <b>Yapay ışık</b> kaynakları noktasal kabul edilir. Gölgelerin kaçış noktası, ışık kaynağının kaçış noktasının dikey olarak altında konumlanır ve ufuk çizgisi üzerinde olmak zorunda değildir. (DOĞRU)<br/>II. öncül: Yapay ışık, noktasal bir kaynaktan geldiği için <b>dışarıya doğru genişleyerek (radyal biçimde) yayılır</b>. (DOĞRU)<br/>III. öncül: Güneş ışınları o kadar uzaktan gelir ki, çizim açısından tüm ışınlar <b>paralel</b> kabul edilir. Radyal yayılım yapay ışık kaynaklarına özgüdür. (YANLIŞ)",
         "Donem": 2
     },
     {
@@ -1217,6 +1258,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tasarımda <b>Hiyerarşi</b>, elemanların önem sırasına göre düzenlenmesi anlamına gelir. Bu kural, izleyicinin gözünü belirli bir sıraya göre yönlendirmek için <b>boyut</b>, <b>kontrast</b>, <b>renk</b> veya <b>perspektifsel konumlandırma</b> gibi farklılıkları kullanmayı gerektirir. Tüm elemanların eşit veya aynı öneme sahip olması, hiyerarşiyi bozacak yanlış bir ifadedir.",
         "Donem": 2
     },
     {
@@ -1237,6 +1279,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "“Tasarımda Perspektif” başlığı altında incelenen temel konular; <b>derinlik etkisi oluşturma yöntemleri</b>, <b>çizgisel perspektif</b> (kaçış noktaları), <b>atmosferik perspektif</b> ve <b>gölge perspektifi</b>dir. Bunların hepsi mekan ve boyut algısının yaratılmasıyla ilgilidir.",
         "Donem": 2
     },
     {
@@ -1257,6 +1300,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Tasarım alanında kullanılan temel perspektif görünüm oluşturma yöntemleri, geometrik kurallara dayanan <b>Tek Kaçış Noktalı</b>, <b>İki Kaçış Noktalı</b> ve <b>Üç Kaçış Noktalı</b> perspektiflerdir. Bu gruplara dahil olmayan, derinlik yanılsaması oluşturmayan veya temel geometrik kural olmayan bir yöntem doğru cevap olmalıdır (örneğin, Serbest Perspektif veya Düzlem Perspektifi).",
         "Donem": 2
     },
     {
@@ -1277,6 +1321,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Perspektif, iki boyutlu düzlem üzerinde <b>üç boyutlu</b> görünüm yaratma amaçlı bir çizim yöntemidir. Bu, izleyicide <b>derinlik</b> ve <b>uzaysallık</b> illüzyonu oluşturmayı hedefler.",
         "Donem": 2
     },
     {
@@ -1297,6 +1342,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Açıklanan yöntem <b>İki Kaçış Noktalı Perspektif</b>'tir (Açılı Perspektif). Bu yöntemde, nesnenin bir kenarı izleyiciye dönüktür (köşe), ve birbirine dik olan iki farklı yüzeyin paralel çizgileri, <b>ufuk çizgisi</b> üzerindeki iki farklı kaçış noktasına doğru hareket eder.",
         "Donem": 2
     },
     {
@@ -1317,6 +1363,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Paragrafta, demir yolu rayları gibi paralel doğruların uzaklaştıkça tek bir noktada birleşiyormuş gibi görünmesi ve aralıkların daralması anlatılmaktadır. Bu fenomen, <b>Çizgisel Perspektif</b> (Linear Perspective) yönteminin temelini oluşturur.",
         "Donem": 2
     },
     {
@@ -1337,6 +1384,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Perspektif çizim yöntemleri arasında, ufuk çizgisi ve kaçış noktaları aracılığıyla üç boyutluluk sağlanır. Yanlış bir ifade, örneğin, 'Üç Kaçış Noktalı Perspektif'te dikey çizgilerin paralel kalması' şeklinde olabilir, zira bu yöntemde <b>dikey çizgiler de kaçış noktasına yönelir</b> (oblique perspective), paralel kalmaz.",
         "Donem": 2
     },
     {
@@ -1357,6 +1405,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "<b>Atmosferik Perspektif</b>, uzaktaki nesnelerin daha soluk, daha az detaylı ve renklerinin soğuk (genellikle mavi/gri) görünmesi ilkesine dayanır. Uygulama, uzaklıkla birlikte <b>kontrastı ve doygunluğu azaltmak</b>, renkleri soğuk tonlara kaydırmak ve detayları silikleştirmeyi içerir.",
         "Donem": 2
     },
     {
@@ -1377,6 +1426,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Perspektif kullanımıyla yaratılan derinlik etkisi, izleyicide tasarımın sadece iki boyutlu yüzeyde kalmadığı, aksine <b>uzaya doğru açıldığı</b> veya <b>mekânsal bir derinliğe sahip olduğu</b> hissini uyandırır. Bu durum, <b>gerçeklik algısının güçlenmesi</b> ile sonuçlanır.",
         "Donem": 2
     },
     {
@@ -1397,6 +1447,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Resim sanatında eseri oluşturan temel görsel unsurlar (Tasarım Öğeleri/Elementleri) şunlardır: <b>Nokta</b>, <b>Çizgi</b>, <b>Biçim/Şekil</b>, <b>Renk</b>, <b>Doku</b>, <b>Değer (Ton)</b> ve <b>Uzay (Mekan/Derinlik/Perspektif)</b>. Bu unsurların dışında kalan, örneğin <b>Finansal Değer</b> veya <b>Sanatçının Yaşı</b> gibi kavramlar temel yapı taşları arasında sayılmaz.",
         "Donem": 2
     },
     {
@@ -1417,6 +1468,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Grafik tasarımda derinlik oluşturma yöntemleri arasında <b>Çizgisel Perspektif</b> (tek, iki, üç noktalı) ve <b>Atmosferik Perspektif</b> yaygın olarak kullanılır. Ayrıca <b>İzometrik</b> çizimler de 3D görünüm sağlar. Bu yöntemlerin dışında kalan, örneğin <b>Fiziksel Boyut</b> gibi, doğrudan çizim yöntemi olmayan kavramlar cevap olmalıdır.",
         "Donem": 2
     },
     {
@@ -1437,6 +1489,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Cümlede bahsedilen, gerçek doğa yerine **insanın yarattığı metropolleri esrarengiz doğa** olarak deneyimleme, özne-nesne gerilimini kurma ve ölü doğa resimlemelerinde nesneyi öznelleştirip kendi gerçekliğinden koparma eylemleri, sanayileşmiş kentin bilinçaltı üzerindeki etkilerini inceleyen **Sürrealistlerin** (Sürrealistler) temel ilgi alanlarından biridir. Bu amaçla kolajın yanı sıra, fotoğrafın gerçekçi imkanlarını kullanarak yanılsamayı çarpıtan **fotomontaj** tekniğini sıklıkla kullanmışlardır. Boşluklara sırasıyla **Sürrealistler** ve **fotomontaj** getirilmelidir.",
         "Donem": 2
     },
     {
@@ -1457,6 +1510,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Postmodernist akımın önemli temsilcilerinden **April Greiman**, özellikle dijital ortamda yarattığı çalışmalarda kolaj ögelerini **üst üste bindirilmiş (layered)** ya da **katmanlı bir şekilde** kurgulamıştır. Greiman'ın bu tarzı, geleneksel düzeni bozsa da, **yeni bir düzen anlayışı** yaratarak Postmodern grafik tasarımın karakteristiğini belirlemiştir. Bu teknik, dijital kolajın temel bir özelliğidir.",
         "Donem": 2
     },
     {
@@ -1477,6 +1531,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "I. **Fotomontaj** tekniği, I. Dünya Savaşı sonrasında **Dadaizm** akımıyla birlikte etkin olarak kullanılmaya başlanmıştır, Kübizm ile değil. Bu nedenle I. ifade yanlıştır.<br>II. **Kolaj** (özellikle papier collé), nesneyi doğrudan kompozisyona dahil etme imkanı sunduğu için **Sentetik Kübizm**'e mükemmel uyum sağlamıştır. Bu ifade doğrudur.<br>III. Pablo Picasso ve Georges Braque'ın 1912'de kağıtları yapıştırarak başlattığı **kolaj** tekniği (papier collé), **Kübizm** ile birlikte modern sanatta yeniden etkin ve merkezi bir konuma gelmiştir. Bu ifade doğrudur.<br>Sonuç olarak, **II ve III** doğrudur.",
         "Donem": 2
     },
     {
@@ -1497,6 +1552,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Pop Art (Popüler Sanat) akımı, 1950'ler ve 60'larda **kitle kültürü, reklam ve ticari ürünlerin görsel imgelerini** merkeze almıştır. Kolaj tekniği, bu imgeleri doğrudan sanatsal çalışmaya aktarmak için çok uygun bir araç olmuştur. Richard Hamilton gibi Pop Art sanatçıları, kolajı ticari görselleri alaycı bir dille birleştirmek için kullanmıştır.<br>Pop Art'ın kolajla ilgili yanlış bir özelliği, genellikle akımın **kitle iletişim araçlarının görsel dilinden uzak durduğunu** veya **ticari estetiği reddettiğini** iddia eden şıklar olur, ki bu akımın temel felsefesine aykırıdır.",
         "Donem": 2
     },
     {
@@ -1517,6 +1573,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Kolaj tekniği, farklı hazır elemanları (found elements) bir araya getirerek yeni bir kompozisyon oluşturma fikrini, 2 boyutlu yüzeyden 3 boyutlu alana taşımıştır. Bu gelişim, **asamblaj (assemblage)** olarak adlandırılan, üç boyutlu nesnelerin birleştirilmesiyle heykelvari yapıtlar oluşturma tekniğinin **temellerinin atıldığı** dönüşüme işaret eder. Asamblaj, kolajın nesneleri kullanma mantığını hacimli forma aktarmıştır.",
         "Donem": 2
     },
     {
@@ -1537,6 +1594,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Günter Rambow, Gerhard Lienemeyer ve Micheal van de Sand, özellikle 1970'ler ve 80'lerde etkili olmuş, Alman grafik tasarımının önde gelen figürleridir. Çalışmaları, fotoğrafı kesip biçme (**montaj**) ve **pistole (airbrush)** gibi tekniklerle ustaca manipüle ederek **olağanüstü, sürreal görüntüler** yaratmalarıyla tanınır. Bu üçlünün oluşturduğu grup, **Rambow Grafik** olarak bilinir ve özellikle tiyatro afişleri alanında ikonik eserler vermiştir.",
         "Donem": 2
     },
     {
@@ -1557,6 +1615,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Kolajın temel mantığı, parçaların **birbirinden farklılığını ve geldikleri bağlamı** vurgulamaktır. Parçalar arasındaki sınırların, doku farklarının veya görsel kopuklukların görünür olması kolajın ruhuna uygundur. Kolaj, hazır nesne parçalarının yeni bir kompozisyonda **görsel gerçekçilikle bütünleştirilerek gizlenmeye** çalışıldığı (örneğin Trompe l'oeil mantığıyla) iddia eden bir şık **yanlış** olacaktır. Kolaj, aksine, yapıştırılan parçaların varlığını ve 'yabancılığını' ortaya koyar.",
         "Donem": 2
     },
     {
@@ -1577,6 +1636,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Kolaj ve asamblaj, geleneksel bir araya getirme yöntemleridir. Günümüzde, özellikle grafik tasarım ve görsel sanatlar alanında, fotoğraf ve görsel elementlerin dijital ortamda birleştirilmesi ve manipüle edilmesi yaygındır. Bu modern birleştirme yöntemi, genellikle **sayısal kolaj (digital collage)** veya **dijital montaj/manipülasyon** olarak adlandırılır. Dijital ortam, sınırsız katmanlama ve revizyon imkanı sunar.",
         "Donem": 2
     },
     {
@@ -1597,6 +1657,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Polonya Afiş Sanatı, 1950'lerden itibaren gelişen ve **yüksek sanatsal değere, güçlü metaforik anlatıma, boyasal (painterly) dokunuşlara** ve genellikle **sürrealist** bir yaklaşıma sahip olmasıyla özgündür. Bu okul, ticari ve katı fonksiyonalizmden uzak durmuştur.<br>Bu nedenle, afişlerin **objektif, ticari kaygıları ön planda tutan ve katı bir grafik düzeni takip eden** bir tavra sahip olduğunu iddia eden bir şık **yanlış** olacaktır. (Bu özellikler daha çok İsviçre Ekolü gibi akımlara aittir).",
         "Donem": 2
     },
     {
@@ -1617,6 +1678,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "I. **Konstrüktivizm**, özellikle propaganda ve toplumsal mobilizasyon amacıyla kitleler üzerinde **etki uyandırmak** için kolaj/fotomontajı (örneğin Rodchenko afişlerinde) yoğun olarak kullanmıştır. Bu ifade doğrudur.<br>II. **Moholy-Nagy**, fotoğrafı manipüle etme ve teknoloji ile sanatı birleştirme (fotoplastik) konularında Konstrüktivist prensiplere yakın çalışmalar yapmış önemli bir figürdür. Bu ifade doğrudur.<br>III. **El Lissitzky**, Konstrüktivizmin önde gelen tasarımcılarından olup, eserlerinde **tipografiyi** (yazı sanatını) görsel kompozisyonun merkezi bir elemanı olarak kullanmıştır. Tipografiye yer vermediği iddiası **yanlıştır**.<br>Bu durumda, **I ve II** doğrudur.",
         "Donem": 2
     },
     {
@@ -1637,6 +1699,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Fotomontaj, birden fazla fotoğrafın ya da fotoğraf parçasının bir araya getirilmesi sürecidir. Bu süreçte temel adımlar mevcuttur: Görsel parçaları temin edip **eklemek**, bu parçaları yeni bir kompozisyonda uygun şekilde **birleştirmek** (yapıştırmak/montajlamak) ve son olarak da oluşan kompozisyonda görsel süreklilik sağlamak için **rötuş (retouch)** yoluyla adapte etmektir. Boşluğa **birleştirmek** gelmelidir.",
         "Donem": 2
     },
     {
@@ -1657,6 +1720,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "**“Trompe l’oeil”** (Türkçe: Göz Aldanması), sanatsal bir tekniktir. Bu teknik, iki boyutlu bir yüzeyde (genellikle resim veya mimari süslemelerde) olağanüstü bir **gerçekçilik yanılsaması** yaratarak, izleyicinin eserdeki nesnelerin üç boyutlu ve gerçek olduğuna inanmasını sağlamayı amaçlar.",
         "Donem": 2
     },
     {
@@ -1677,6 +1741,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Paragrafta bahsedilen **düzene karşı tavır, alaycı, kışkırtıcı ve hicvedici dil** ile birlikte, hızla popülerleşen fotoğrafı kullanarak **fotomontaj yöntemini keşfeden ve çeşitlendiren** akım **Dadaizm**'dir. Özellikle I. Dünya Savaşı'nın yol açtığı yıkıma tepki olarak Berlin'de gelişen Dadaist sanatçılar (John Heartfield, Hannah Höch), fotomontajı politik eleştiri aracı olarak kullanmışlardır. Bu akım, modern grafik tasarım için temel bir esin kaynağı olmuştur.",
         "Donem": 2
     },
     {
@@ -1697,6 +1762,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Dijital kolajın temel avantajları, **hızlı ve kolay revizyon imkanı**, **çok sayıda görsel kaynağa erişim**, **yüksek çözünürlük ve hassasiyet** ve **malzemeyi geri döndürülebilir şekilde kullanabilme** yeteneğidir.<br>Dijital kolajın avantajı **olmayacak** bir durum, genellikle **fiziksel malzemelerin dokusal zenginliğini ve biricikliğini koruması** gibi bir iddia olur, ki bu tam tersine dijital ortamda kaybolan bir özelliktir. Dijital kolaj, fiziksel işçilik gereksinimini ortadan kaldırır.",
         "Donem": 2
     },
     {
@@ -1717,6 +1783,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Görseldeki gibi, kağıt ve hazır malzemelerin yüzeye yapıştırılarak oluşturulduğu, parçalanmış ve geometrik formların kullanıldığı çalışmalar, modern sanatta **kolajın** öncülüğünü yapan **Kübizm** (özellikle Sentetik Kübizm) akımına aittir. Pablo Picasso ve Georges Braque bu tekniği 1912'den itibaren yaygınlaştırmıştır.",
         "Donem": 2
     },
     {
@@ -1737,6 +1804,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Pablo Picasso'nun 1912 tarihli **“Gitar”** adlı çalışması, sadece kolajın değil, aynı zamanda farklı malzemelerin (karton, tel, sac metal) bir araya getirilerek **üç boyutlu** bir nesne/heykel oluşturulması anlamına gelen **asamblaj (Assemblage)** tekniğinin de ilk ve çığır açan örneklerinden kabul edilir. Bu eser, heykelin geleneksel sınırlarını kökten değiştirmiştir.",
         "Donem": 2
     },
     {
@@ -1757,6 +1825,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "**Montaj**, genel olarak farklı parçaları birleştirme işlemidir. **Fotomontaj**, fotoğrafik materyallerle yapılan 2 boyutlu bir montaj tekniğidir. **Asamblaj** ise **üç boyutlu** kolajdır; fiziki hazır nesnelerin birleştirilmesiyle eser oluşturulur.<br>Yanlış olan ifade genellikle, bu tekniklerin kapsamını veya boyutunu karıştırır. Örneğin, **asamblajın sadece kağıt gibi düz malzemelerle yapılan 2 boyutlu bir teknik olduğunu** iddia eden bir şık **yanlıştır**, zira asamblajın ayırt edici özelliği 3 boyutlu olmasıdır.",
         "Donem": 2
     },
     {
@@ -1777,6 +1846,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Sanatsal imgenin gelişiminde <b>Mısır sanatı</b>, ölümsüzlük ve <b>değişmez bir kanonu</b> esas alarak figürleri kurallı ve statik biçimde ifade etmiştir. İfade, dogmatik ve dinsel amaçlıydı. Buna karşılık <b>Yunan Sanatı</b>, doğayı ve insanı taklit etme (mimesis) yolunu izleyerek, formları <b>idealize edilmiş natüralizmle</b> ve dinamik bir biçimde yansıtmıştır. Bu, Yunan sanatının Mısır'ın mutlakiyetçi ifadesine karşın <b>insan merkezli ve felsefi</b> bir ifade yolunu benimsemesinin sonucudur.",
         "Donem": 2
     },
     {
@@ -1797,6 +1867,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "<b>Yansıma Kuramı</b> (Mimesis), sanatın gerçekliği taklit etmesi veya yansıtması fikrine dayanır. II. madde doğrudur; kuramın temelleri <b>Platon</b> (idealardan yansıma olarak sanatı görmesi) ve <b>Aristoteles</b> (doğayı taklit etme olarak mimesis) tarafından atılmıştır.<br/>III. madde de doğrudur; <b>Marksist Estetik</b>, sanatı ekonomik ve toplumsal yaşamın bir yansıması olarak kabul eder.<br/>I. madde ise yanlıştır; <b>Platon</b>, duyular yoluyla edinilen bilgiyi, ideaların sadece bir yansıması ve dolayısıyla yanıltıcı olduğu için <b>önemsiz</b> görmüştür. Bu nedenle doğru olanlar II ve III'tür.",
         "Donem": 2
     },
     {
@@ -1817,6 +1888,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Tanımı yapılan kavram <b>İmajinasyon</b> (Hayal Gücü)'dur. İmajinasyon, zihinsel süreçler yoluyla yeni bir eylemin başlatıcısı olan ve özellikle <b>gerçekte var olmayan</b> görünümleri, imgeleri veya imgeler arasındaki ilişkileri zihinde oluşturma yeteneğidir. İmgelem (imge yaratma süreci), imajinasyonun temel işlevini oluşturur.",
         "Donem": 2
     },
     {
@@ -1837,6 +1909,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Sanatsal imgenin oluşturulması süreci doğal bir akış izler. İlk aşama, dış dünyadan duyu organları aracılığıyla alınan ham verilerin oluşturduğu <b>Algısal İmge</b>'dir. Bu algısal veriler daha sonra zihinde işlenerek, sanatçının yorumu ve düşüncesiyle şekillenen <b>Zihinsel İmge</b>'ye dönüşür. Son aşama ise bu zihinsel imgenin somut bir materyal üzerine aktarılmasıyla oluşan <b>Sanatsal İmge</b>'dir.",
         "Donem": 2
     },
     {
@@ -1857,6 +1930,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Sanatsal imgenin temel özelliklerinden biri, sanatçının <b>öznelliğini, yorumunu</b> ve duygularını yansıtmasıdır. Sanat, yalnızca taklit (mimesis) eylemi olsa bile, sanatçı gerçekliği dönüştürür. Bu nedenle sanatsal imge, orijinal kopyanın <b>birebir yansıması</b> olamaz; aksi takdirde bir sanat eseri değil, sadece bir kopyalama/kayıt olurdu. Sanatsal imgenin <b>yaratıcılık</b> içermesi ve gerçeği dönüştürmesi en önemli özelliğidir.",
         "Donem": 2
     },
     {
@@ -1877,6 +1951,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "<b>İmajinasyon</b>, genellikle var olan gerçekliği aşan, <b>yeni ve özgün</b> tasavvurlar üretme yeteneğidir. Eğer bir yetenek gerçekliği birebir taklit ediyorsa, bu <b>yansıtma (mimesis)</b> ya da basit bir kopyalama işlevidir, imajinasyon değil. İmajinasyonun gücü, <b>gerçek dışı veya dönüştürülmüş</b> görüntüleri yaratabilmesinden gelir.",
         "Donem": 2
     },
     {
@@ -1897,6 +1972,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Grafik tasarımda imgenin üretim tekniğine (fotoğraf, illüstrasyon, tipografi vb.) karar veren ana etken, <b>iletişimin niteliği</b> ve <b>mesajın bağlamı</b>dır. Fotoğraf, genellikle <b>inandırıcılık</b> ve gerçeklik vurgusu için tercih edilirken; illüstrasyon, daha çok <b>stilize edilmiş ifade, soyutluk</b> veya belirli bir duygusal ton yaratmak gerektiğinde kullanılır. Seçim, tamamen hedeflenen etkiyi maksimize etmeye yöneliktir.",
         "Donem": 2
     },
     {
@@ -1917,6 +1993,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "İmge soyağacı (veya sınıflandırması) Algısal İmge, Zihinsel İmge, Optik İmge, Grafik İmge ve Sözlü İmge gibi grupları içerir. I. <b>Tasarımlar</b> (Grafik/Zihinsel İmge), II. <b>Tasvirler</b> (Grafik İmge) ve III. <b>Aynalar</b> (Optik İmge) bu soyağacının farklı kollarına ait örneklerdir. Dolayısıyla üçü de bu sınıflamada yer alır.",
         "Donem": 2
     },
     {
@@ -1937,6 +2014,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Gözler yoluyla çevreden alınan görsel sinyallerin beyne iletilmesi sonucu anlık olarak oluşan, <b>işlenmemiş</b> ve <b>duyusal</b> görüntülere <b>Algısal İmgeler</b> adı verilir. Bu imgeler, zihinsel süreçlerle yorumlanmaya başlamadan önceki ilk ham algı verileridir.",
         "Donem": 2
     },
     {
@@ -1957,6 +2035,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tanımı yapılan kavram <b>İmge</b>'dir. İmge, hem zihinsel hem de görsel temsilleri kapsayan, <b>geniş çağrışım ve anlam yelpazesi</b> sunan bir terimdir. <b>Simge (Sembol)</b> ise genellikle daha dar, uzlaşmaya dayalı ve belirli bir fikri temsil etmek üzere belirlenmiş bir işarettir. İmge, simgenin taşıdığı anlamdan daha <b>zengin ve öznel</b> olabilir.",
         "Donem": 2
     },
     {
@@ -1977,6 +2056,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Logotype tasarımları, genellikle soyut kavramları veya kurumsal kimliği görselleştiren, <b>sanatsal ve stilize edilmiş</b> görsellerdir. Bunlar fotoğraf gibi doğrudan gerçekliği kaydetme yönteminden ziyade, tamamen <b>çizim ve tasarım süreçleri</b> (illüstrasyon, vektörel çizim) yoluyla, yani <b>Grafik İmge</b> üretimi yöntemiyle ortaya çıkarılır. Bu yöntem, illüstrasyon veya tasvir kategorisi altında incelenir.",
         "Donem": 2
     },
     {
@@ -1997,6 +2077,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "<b>Romantizm</b> akımının sanatsal imgeye en büyük katkısı, Klasisizm’in akılcılığına ve nesnelliğine karşı çıkarak <b>bireysel duygusallığı, coşkuyu</b> ve özellikle <b>hayal gücünü (İmajinasyon)</b> sanata dahil etmesidir. Bu sayede sanatsal imge, sadece taklit olmaktan çıkıp, sanatçının <b>iç dünyasını ve öznelliğini</b> yansıtan güçlü bir ifade aracına dönüşmüştür.",
         "Donem": 2
     },
     {
@@ -2017,6 +2098,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Yazı sistemlerinin gelişiminde, somut nesneleri temsil eden <b>piktogramların</b> (resim yazısı) bir sonraki aşaması <b>İdeogramlar</b>'dır (Kavram Yazısı). İdeogramlar, bir nesneyi doğrudan resmetmek yerine, o nesneyle ilişkili <b>soyut fikirleri, eylemleri veya kavramları</b> temsil etmek için kullanılmıştır (örneğin iki bacak figürünün 'yürümek' fikrini ifade etmesi).",
         "Donem": 2
     },
     {
@@ -2037,6 +2119,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Doğanın taklit edilmesinden (tasvirden/mimesisten) uzaklaşılarak, <b>içerik, anlam, süreç ve kişisel yaklaşım</b> gibi kavramların sanatsal imgelere dahil edilmesi <b>Modern Sanat</b> dönemiyle gerçekleşmiştir. Bu dönemde sanat, dış gerçeklikten çok, sanatçının <b>öznelliğini, düşüncesini</b> ve yaratım sürecini ifade eden bir alan haline gelmiştir.",
         "Donem": 2
     },
     {
@@ -2057,6 +2140,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Tasarımda başarılı bir imge, genellikle <b>çağrışım gücü</b> yüksek, mesajla uyumlu ve estetik açıdan niteliklidir. Ancak bir imgenin tasarımda başarılı olması için <b>tek ve mutlak bir anlam</b> taşıması gerekmez, aksine, iyi bir imge bağlama göre esnek ve yorumlanabilir olmalıdır. Mutlak anlamlılık, görsel iletişimin zenginliğini kısıtlar.",
         "Donem": 2
     },
     {
@@ -2077,6 +2161,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "İmge, sadece <b>somut görsel ürünleri</b> (fotoğraf, illüstrasyon, heykel) ifade etmez. İmge terimi aynı zamanda zihinsel olarak oluşan <b>hayalleri, düşleri ve algısal izlenimleri</b> de kapsar. İmge, duyular ve düşünce yoluyla oluşturulan her türlü temsili içerir. Dolayısıyla imgenin kapsamını yalnızca somut görsel ürünlerle sınırlamak yanlış bir ifadedir.",
         "Donem": 2
     },
     {
@@ -2097,6 +2182,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "İmge soyağacı beş ana gruptan oluşur: Grafik, Optik, Algısal, Zihinsel ve Sözlü imgeler. I. Resim, heykel ve tasarım <b>Grafik İmge</b>'ye örnektir. II. Aynalar ve projeksiyonlar <b>Optik İmge</b>'ye örnektir. Bu iki madde doğrudur. III. 'Duyu bilgileri' <b>Algısal İmge</b>'ye, 'tasarımlar' ise <b>Grafik/Zihinsel İmge</b>'ye aittir. Bu ifade, sınıflandırmadaki kategorileri doğru ve net bir şekilde ayırmadığı için yanlış veya eksik bir sınıflamayı temsil eder, bu yüzden söylenemez.",
         "Donem": 2
     },
     {
@@ -2117,6 +2203,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "İmge kullanımında başarı, imgenin <b>mesajı doğru iletme</b>, hedef kitle tarafından <b>anlaşılabilme</b> ve <b>estetik değer</b> taşıma yeteneği ile ölçülür. Bir imgenin başarılı olması için <b>mutlaka yüksek teknoloji araçlarla üretilmiş olması</b> bir zorunluluk değildir. El çizimi veya basit bir baskı tekniği ile üretilmiş, ancak güçlü çağrışımlar yaratan bir imge, teknik olarak karmaşık bir dijital imgeden daha başarılı olabilir.",
         "Donem": 2
     },
     {
@@ -2137,6 +2224,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Sanatsal imgelerin tarihsel gelişimi yalnızca <b>somut gerçekliği taklit etme (mimesis)</b> amacı gütmemiştir. Örneğin, Mısır sanatı <b>sembolik ve kanonik</b> kuralları esas almıştır. Orta Çağ'da ise dini ve <b>soyut kavramların ifadesi</b> öncelikliydi. 19. yüzyıl sonu ve 20. yüzyılda ise soyut sanatın yükselişiyle imge, taklitten tamamen uzaklaşmıştır. Dolayısıyla, sadece mimesis amacı gütmüştür ifadesi yanlıştır.",
         "Donem": 2
     },
     {
@@ -2157,6 +2245,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Semiyotik terminolojide (göstergebilim), Simge (İkon/İm) temsil ettiği nesneye <b>görsel veya fiziksel bir benzerlik</b> taşır (gözün gözü simgelemesi gibi). Oysa <b>Sembol</b>, temsil ettiği şeyle arasında doğal bir benzerlik olmayan, tamamen <b>toplumsal uzlaşma</b>, gelenek veya öğrenilmiş kurala dayanan işaretlerdir (örneğin bir kelime veya matematiksel bir işaret). Bu nedenle Sembol, Simge'ye göre daha <b>keyfi ve kültüre bağımlı</b> bir anlam taşır.",
         "Donem": 2
     },
     {
@@ -2177,6 +2266,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Metafor, bir kavramı başka bir kavramla ilişkilendirerek onun özelliklerini ilkine <b>aktarma</b> eylemidir. George Orwell'ın Hayvan Çiftliği (Animal Farm) eserinde, çiftlik hayvanları gerçek hayattaki politik figürleri ve ideolojileri temsil eder. Burada, hayvan figürleri, soyut politik kimliklere somut özellikler atayarak <b>simgesel bir aktarım</b> (metafor) oluşturmaktadır.",
         "Donem": 2
     },
     {
@@ -2197,6 +2287,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tasarımcı, metafor kullanarak görsel imge ve anlam arasında çağrışımsal bir bağ kurmayı hedefler. Metafor, konuya <b>duygusal derinlik</b> katmak, <b>anlaşılırlığı artırmak</b> ve mesajı daha <b>akılda kalıcı</b> kılmak için kullanılır. Tasarımda metafor kullanımı, mesajı direkt ve <b>sözcük anlamıyla</b> (literal) aktarmak yerine, yorum ve çağrışım gerektiren bir <b>mecazi anlatım</b> sunar.",
         "Donem": 2
     },
     {
@@ -2217,6 +2308,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Metaforun var olduğuna işaret eden temel özellikler, en az iki farklı unsurun bir araya getirilmesi (I) ve bu unsurlardan birinin özelliklerinin diğerine <b>aktarılması</b> (III) prensibine dayanır.<br>II. Kullanılan nesne ya da durumun ilk anlamını taşıması, metaforun tanımına aykırıdır; zira metafor, anlamın <b>aktarılması</b> ve <b>mecazi bir ifade</b> oluşturulması üzerine kuruludur. Dolayısıyla, bir metaforun var olması için I ve III. maddeler gereklidir.",
         "Donem": 2
     },
     {
@@ -2237,6 +2329,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Görsel metaforlar, temel olarak üç ana yöntemle oluşturulur: <b>Yan yana koyma</b> (juxtaposition), iki bağımsız imgenin yan yana gelmesiyle yeni bir anlam yaratır; <b>birleştirme</b> (fusion), iki imgenin tek bir formda iç içe geçirilmesidir; ve üçüncü yöntem, bir imgenin yerine bir başka imgenin, biçimin veya sembolün kullanıldığı <b>değiştirme/ikame</b> (replacement) yöntemidir. Bu üç yöntem, görsel iletişimin temel taşlarıdır.",
         "Donem": 2
     },
     {
@@ -2257,6 +2350,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Görselde yer alan şemsiye sapı, kavisli yapısını koruyarak bir <b>soru işaretine</b> (soyut kavram) dönüşmüştür. Bu görsel metafor, tek bir nesnenin formunun, temsil ettiği kavramın anlamını yansıtacak şekilde <b>dönüştürülmesi</b> ya da bir öğenin <b>başka bir öğeyle değiştirilmesi</b> (replacement/ikame) yöntemiyle oluşturulmuştur. Bu, 'birleştirme' (fusion) veya 'yan yana koyma' (juxtaposition) değildir.",
         "Donem": 2
     },
     {
@@ -2277,6 +2371,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Reklam tasarımında görsel imge ve metafor tercihinin sebebi, mesajın <b>duygusal etkisini</b> artırmak, <b>çarpıcı ve özgün</b> bir dil yaratmak ve <b>karmaşık fikirleri</b> basitçe çağrıştırmaktır. Metafor, doğası gereği <b>mecazi bir anlatım</b> sunduğundan, bir ürünün teknik özelliklerini veya işleyişini <b>sözcük anlamıyla, literal olarak</b> aktarmak için tercih edilen bir yöntem <u>olamaz</u>.",
         "Donem": 2
     },
     {
@@ -2297,6 +2392,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "George Lakoff ve Mark Johnson'ın geliştirdiği “Çağdaş Metafor Teorisi” (CMT), metaforları üç ana grupta sınıflandırır:<br>I. <b>Ontolojik Metaforlar</b> (Varlık), soyut bir kavramı somut bir varlık veya madde olarak düşünmemizi sağlar.<br>II. <b>Konumsal/Yönelimsel Metaforlar</b> (Orientational), kavramları uzamsal yönelimlerle ilişkilendirir (Örn: Mutlu 'yukarıda'dır).<br>Bu ikisine ek olarak <b>Yapısal Metaforlar</b> (Structural) da bulunur. Terapotik (III) bu gruplandırmalardan değildir.",
         "Donem": 2
     },
     {
@@ -2317,6 +2413,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Metafor, iki farklı alan arasındaki ilişkiyi kurarken, alıcının bu ilişkiyi çözümlemesi için bir <b>muhakeme</b> ihtiyacı doğurur. Bu süreç, temelde bir <b>benzetme/analoji</b> yöntemidir. Metaforun gücü, bu benzetmenin <b>çağrışım yoluyla</b> anlamı bir nesneden diğerine başarıyla aktarmasından gelir.",
         "Donem": 2
     },
     {
@@ -2337,6 +2434,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "İki veya daha fazla benzetilme durumunun söz konusu olduğu, yani birden fazla metaforun <b>birleşik</b> veya <b>iç içe</b> kullanıldığı durumları ifade eden metafor türüne <b>Karmaşık Metafor</b> veya <b>Bileşik Metafor</b> denir. Bu, genellikle bir imgenin hem kendi anlamını taşıması hem de başka bir imgenin bir parçası olarak yeni bir anlam üretmesi durumlarında görülür.",
         "Donem": 2
     },
     {
@@ -2357,6 +2455,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Yukarıdaki görselde, ampulün içinde bulunan <b>flaman</b> (ışık ve fikri simgeleyen bir öğe), insan <b>beyin kıvrımları</b> (zihin ve düşünceyi simgeleyen öğe) şeklinde birleştirilmiştir. Bu, iki farklı görsel nesnenin (ampul ve beyin) tek bir çatı altında <b>kaynaştırılması</b> veya <b>birleştirilmesi</b> (fusion) yoluyla yeni ve mecazi bir anlam (zekice fikir) yaratma yöntemine örnektir.",
         "Donem": 2
     },
     {
@@ -2377,6 +2476,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Metafor kavramının gelişiminde Nietzsche'nin önemi, onun <b>geleneksel retorik</b> anlayışına meydan okumasından kaynaklanır. Nietzsche, dilin ve hatta <b>hakikatin kendisinin</b> dahi temelinde <b>metaforik aktarımlar</b> yattığını, yani metaforun sadece bir süsleme değil, <b>bilişsel bir zorunluluk</b> olduğunu öne sürmüştür.",
         "Donem": 2
     },
     {
@@ -2397,6 +2497,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Metaforun temelini oluşturan eylem, bir anlamın veya özelliğin bir kavramdan (kaynak/araç) başka bir kavrama (hedef) <b>aktarılmasıdır</b> (transfer). Bu <b>aktarım</b>, metaforun retorik ve bilişsel boyutta işleyişini sağlayan <b>çekirdek eylemdir</b>.",
         "Donem": 2
     },
     {
@@ -2417,6 +2518,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Görsel metafor, bütünüyle başka bir takım kavram, durum ya da düşünceleri aktarmaya yarayan <b>mecazi/simgesel</b> anlatımdır. Geleneksel metafor tanımında olduğu gibi, görsel metafor da kelimesi kelimesine bir aktarım değil, <b>çağrışımlar yoluyla</b> anlam taşıyan <b>figüratif bir dil</b> kullanır.",
         "Donem": 2
     },
     {
@@ -2437,6 +2539,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "19. yüzyılda metaforun gelişimini destekleyen sanat akımları arasında <b>Sembolizm</b>, <b>İzlenimcilik</b> (Empresyonizm) ve <b>Post-İzlenimcilik</b> sayılabilir, zira bu akımlar nesnel gerçekliği aşarak <b>içsel deneyimlere</b> ve <b>simgesel ifadelere</b> odaklanmıştır. Gerçekliği süslemeden, olduğu gibi yansıtmayı amaçlayan <b>Realizm</b> ise genellikle bu gelişim çizgisinin dışında <u>gösterilemez</u>.",
         "Donem": 2
     },
     {
@@ -2457,6 +2560,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Çağdaş Metafor Teorisine (CMT) göre metaforlar <b>Ontolojik</b> (Varlık), <b>Yapısal</b> ve <b>Yönelimsel</b> (Konumsal) olmak üzere üç ana türe ayrılır. Ayrıca, dilbilimsel olarak <b>Canlı</b> ve <b>Ölü</b> metaforlar gibi sınıflandırmalar da mevcuttur. Bu türler dışında kalan bir şık (örneğin 'fonksiyonel' veya 'retorik' metafor gibi bir terim) metaforun doğrudan bir türü <u>değildir</u>.",
         "Donem": 2
     },
     {
@@ -2477,6 +2581,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Geleneksel metafor yaklaşımları, metaforu esas olarak bir <b>retorik araç</b> olarak gören ve onu dilin bir süsü kabul eden düşünürlere dayanır. Bu temsilciler arasında genellikle <b>Aristoteles</b> ve <b>Quintilian</b> gibi isimler sayılır. <b>Lakoff ve Johnson</b> ise <b>Çağdaş Metafor Teorisi</b>'ni (CMT) ortaya atarak metaforun bilişsel bir araç olduğunu savunmuş, dolayısıyla geleneksel yaklaşımların temsilcisi <u>değildir</u>.",
         "Donem": 2
     },
     {
@@ -2497,6 +2602,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Metafor, Aristoteles'ten modern bilişsel yaklaşımlara (Lakoff ve Johnson) kadar uzun bir gelişim süreci geçirmiştir. Başlangıçta sadece bir <b>söz sanatı</b> (retorik) olarak görülürken, 19. yüzyıl (Nietzsche) ve 20. yüzyılda <b>bilişsel bir araç</b> olarak kabul edilmeye başlanmıştır. Metaforun temelinin sadece dilsel bir süs olduğu varsayımı <b>geleneksel yaklaşıma</b> ait bir görüştür ve günümüzde <b>yanlış</b> kabul edilir. Metafor, <b>düşünce sistemimizin</b> temelini oluşturur.",
         "Donem": 2
     },
     {
@@ -2517,6 +2623,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Görsel metafor üretimi için kullanılan ana alt başlıklar, nesnelerin nasıl ilişkilendirildiğini tanımlar. Bunlar genellikle <b>yan yana koyma</b> (juxtaposition), <b>birleştirme</b> (fusion) ve <b>değiştirme</b> (replacement) yöntemleridir. Bu yöntemler dışındaki seçenekler (örneğin, 'sözcük anlamıyla aktarım' veya 'literal anlatım') görsel metafor üretmek için kullanılan alt başlıklardan <u>değildir</u>.",
         "Donem": 2
     },
     {
@@ -2537,6 +2644,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Cümlede boş bırakılan yere **Semantik (Anlambilim)** getirilmelidir. Semantik, göstergebilimin (semiyotik) üç temel alt başlığından biridir. Semantik, işaretler ve onların gösterdiği nesneler arasındaki bağlantının, yani **anlamın** incelenmesiyle ilgilenir. Görsel iletişim bağlamında, simgelerin ne anlama geldiği ve bu anlamların nasıl oluştuğu Semantik alanının konusudur.",
         "Donem": 2
     },
     {
@@ -2557,6 +2665,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "İkon ve emojiler, günümüzün dijital iletişiminde yaygın kullanılan **görsel göstergelerdir**. Bunlar genellikle bir fikri, duyguyu veya nesneyi hızla temsil etme amacı taşır. Yanlış olan ifade (seçenekler olmamasına rağmen standart kabul edilen yanlış bilgiye göre açıklanmıştır) genellikle onların **kültürel bağlamdan tamamen bağımsız** ve evrensel olduğu iddiasıdır. Oysa birçok emoji ve ikon, kullanıldığı kültüre bağlı olarak farklı anlamlar taşıyabilir veya yanlış yorumlanabilir. Hızlı iletişim aracı olmalarına rağmen, **uzlaşımsal** (konvansiyonel) anlamları zamanla gelişir ve bağlama bağlıdır.",
         "Donem": 2
     },
     {
@@ -2577,6 +2686,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Yazı sistemlerinin ortaya çıkışı, genellikle **piktogramlardan** (resim yazı) başlayarak, **ideogramlara** (fikir yazı) ve son olarak **fonetik** (ses tabanlı) sistemlere doğru evrilen bir süreçtir. Yazının ilk ortaya çıkış amacı çoğunlukla dinsel metinler değil, **ticari kayıtlar** ve **yönetimsel bilgileri** kaydetme ihtiyacıdır. Yanlış ifade, muhtemelen bu evrim sırasını ters çeviren veya başlangıçtaki kullanım amacını yanlış belirten bir seçenektir. Örneğin, 'Yazı sistemlerinin doğrudan soyut kavramları temsil etmek üzere ortaya çıktığı' ifadesi yanlış olurdu, çünkü başlangıçta somut nesneler resmediliyordu.",
         "Donem": 2
     },
     {
@@ -2597,6 +2707,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Cümlede boş bırakılan yere **Filigran** getirilmelidir. **Filigran** (Watermark), 13. yüzyılda kâğıt üreticileri tarafından kaliteyi ve üreticiyi belirtmek amacıyla kağıt hamuruna yerleştirilen **ticari markalardır**. Filigranlar, bir nevi **tarihi marka** ve **telif hakkı** göstergesi olarak kabul edilir.",
         "Donem": 2
     },
     {
@@ -2617,6 +2728,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Matbaanın icadı (yaklaşık 15. yüzyıl) ile birlikte kitaplar daha hızlı çoğaltılmaya başlanmıştır. Bu dönemde kitapların içine **simgesel anlatım** katmak için kullanılan yaygın yöntem **İllüstrasyon** (resimleme) veya **Gravür** teknikleriydi. Bu görsel anlatımlar metni desteklemek, anlamı derinleştirmek ve okuyucuyu bilgilendirmek amacıyla kullanılmıştır. Bu simgesel anlatımlar genellikle **ahşap baskı** veya **bakır kazıma** teknikleriyle çoğaltılırdı.",
         "Donem": 2
     },
     {
@@ -2637,6 +2749,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Sembol (göstergebilimde), gösteren (signifier) ve gösterilen (signified) arasındaki ilişkinin **tamamen uzlaşımsal** (keyfi, kültürel anlaşmaya dayalı) olduğu işaret türüdür. Sembolün temsil ettiği şeyle **doğrudan veya fiziksel bir benzerliği** yoktur (ikon ve belirti/endeks’in aksine). Bu nedenle, sembol için **'Anlamı, temsil ettiği nesneyle doğal bir benzerlik taşır'** gibi bir ifade kesinlikle **söylenemez**. Semboller, ancak bir toplum tarafından öğrenme yoluyla anlaşılır hale gelir.",
         "Donem": 2
     },
     {
@@ -2657,6 +2770,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Piktogramlar, bir nesneyi veya eylemi **somut olarak** resimleyerek temsil eden **basitleştirilmiş görsel işaretlerdir**. Yapısal özellikleri:<br/>I. **Estetik**: Tasarımında görsel uyum ve sadelik önemlidir.<br/>II. **Bilgilendirici**: Temel amaçları, dil bariyerini aşarak bilgi iletmektir.<br/>III. Soyut: Piktogramlar **soyut** değil, genellikle **somut** kavramları temsil eder. Soyut kavramları temsil eden işaretler ideogramlardır.<br/>Bu nedenle, **I (Estetik) ve II (Bilgilendirici)** piktogramların temel yapısal özelliklerindendir.",
         "Donem": 2
     },
     {
@@ -2677,6 +2791,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tanımlamada ifade edilen, **İdeogram’dır**. İdeogramlar, **piktogramların aksine**, doğrudan fiziksel bir nesneyi değil; soyut bir fikri, duyguyu veya kavramı temsil eden görsel işaretlerdir. Örneğin, ‘ışık’ bir piktogramla somut olarak gösterilebilirken, ‘tehlike’ veya ‘aşk’ gibi soyut bir kavram ideogram aracılığıyla anlatılır. İdeogramlar, **fikir yazısı** olarak da bilinir.",
         "Donem": 2
     },
     {
@@ -2697,6 +2812,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Cümlede boş bırakılan yere **Piktografik Dil (veya Piktografik Sistem)** getirilmelidir. Bu, **kelimelerin yerini alan** ve özellikle **stilize edilmiş, basit görsel elemanlar** (piktogramlar) kullanarak farklı dilleri konuşan insanlar arasında **ortak bir iletişim** sağlamayı amaçlayan sistemli bir çalışmadır. Bu sistem, havaalanları ve trafik işaretleri gibi uluslararası alanlarda yaygın olarak kullanılır.",
         "Donem": 2
     },
     {
@@ -2717,6 +2833,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Atina Olimpiyat Oyunları (ve genel olarak tüm Olimpiyat Oyunları) piktogramları, spor dallarını ve tesisleri işaret etmek için tasarlanmıştır. Bu piktogramlar, dil bilmekten bağımsız olarak dünyanın her yerinden gelen ziyaretçiler tarafından **anlaşılabilirlik** özelliğini yansıtır. Temel özellikleri, **evrensel geçerlilik** ve **kültürel kodlamadan bağımsız** olarak **hızlı ve net** bilgi akışını sağlamaktır. Bu, piktogramların en temel işlevidir.",
         "Donem": 2
     },
     {
@@ -2737,6 +2854,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "İnfografik çalışmaları günümüzde önemli kılan temel özellik, **karmaşık verileri ve büyük bilgi setlerini** görsel, **kolay anlaşılır** ve **hızlı sindirilebilir** formatlara dönüştürme yeteneğidir. Yoğun bilgi çağında, infografikler, okuyucunun dikkatini çekerek ve bilginin akılda kalıcılığını artırarak **görselleştirme** yoluyla anlamlandırmayı kolaylaştırır.",
         "Donem": 2
     },
     {
@@ -2757,6 +2875,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Destekleyici rolüyle beliren ve aslında başka bir şeyi gösteren temsil, göstergebilimde **Belirti (Index / Endeks)** olarak adlandırılır. Belirtide, gösteren ve gösterilen arasında **nedensel** ya da **fiziksel bir bağ** bulunur. Örneğin, duman (gösteren), yangının (gösterilen) belirtisidir; ya da ıslak zemin, yağmurun belirtisidir. Belirti, nesnenin varlığını destekleyici bir şekilde işaret eder.",
         "Donem": 2
     },
     {
@@ -2777,6 +2896,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Orta çağda ortaya çıkan ve soylu ailelerin simgesi olarak kullanılan göstergelere **Armalar (Heraldik)** adı verilir. Armalar, bireyin veya ailenin kimliğini, statüsünü ve tarihini temsil eden **özel semboller** ve **grafik desenlerden** oluşur. Bu göstergeler, soyluluk ve askeri kimlik bildirimi açısından hayati öneme sahipti.",
         "Donem": 2
     },
     {
@@ -2797,6 +2917,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Göstergebilim (Semiyotik) biliminin temel alt başlıkları, Charles Morris tarafından geliştirilen ve Charles Peirce’in çalışmalarına dayanan üç ana alandır:<br/>1. **Sentaks (Sözdizimi/Syntax)**: İşaretlerin kendi aralarındaki ilişkilerini inceler.<br/>2. **Semantik (Anlambilim/Semantics)**: İşaretlerin nesnelerle olan ilişkisini (anlamını) inceler.<br/>3. **Pragmatik (Kullanımbilim/Pragmatics)**: İşaretlerin kullanıcılarla olan ilişkisini (etkisini) inceler.<br/>Bu listeye göre, **II (Pragmatik)** ve **III (Sentaks)** semiyotiğin alt başlıkları arasında yer alır. 'Sigmatik' ise standart bir semiyotik alt dalı değildir.",
         "Donem": 2
     },
     {
@@ -2817,6 +2938,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Cümlede boş bırakılan yere **Piktogramlar** getirilmelidir. Piktogramlar, bir nesne veya olayı **basitleştirilmiş ve stilize** bir resimle temsil ederek, dil ve kültür fark etmeksizin **geniş kitlelerce ortak bir manada** anlaşılır kılmaya yarayan **sistematik grafik anlatım biçimleridir**.",
         "Donem": 2
     },
     {
@@ -2837,6 +2959,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Sembolik işaretler, anlamlarını **kültürel uzlaşımdan** (öğrenilmiş konvansiyonlardan) alır (Örn: harfler, sayılar, trafik işaretlerinin renkleri). Sembolik olmayan işaretler ise **İkon** (benzerliğe dayalı) ve **Belirti (Endeks)** (nedensel ilişkiye dayalı) türleridir.<br/>Bu nedenle, **İkon** (temsil ettiği nesneye görsel olarak benzeyen işaret) sembolik işaretlerden biri **değildir**; çünkü anlamı uzlaşıma değil, **fiziksel benzerliğe** dayanır.",
         "Donem": 2
     },
     {
@@ -2857,6 +2980,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Göstergebilimde (Semiyotik) işaretler geleneksel olarak üç temel alanda incelenir: **Sentaks** (İşaretler arası ilişki), **Semantik** (Anlam ilişkisi) ve **Pragmatik** (Kullanıcı ve bağlam ilişkisi). Eğer bir seçenek bu üç temel alan dışında bir terim içeriyorsa (örneğin, “Kromatik”, “Fonetik” veya “Etimolojik”), bu dört temel alandan biri **değildir**. Semiyotikte, dörtlü bir sınıflandırmadan ziyade, Peircean modelin (Gösterge, Nesne, Yorumlayan) veya Morris'in üçlü sınıflandırmasının kullanılması daha yaygındır. Bu nedenle cevap, **Sentaks, Semantik ve Pragmatik** dışındaki herhangi bir terim olacaktır.",
         "Donem": 2
     },
     {
@@ -2877,6 +3001,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "İçeriğin tasarımdaki rolü, bir ürünün temelini ve mesajını oluşturmaktır. İçerik, tasarımın ne anlatmak istediğini belirler ve <b>biçimin</b> (form) oluşmasına yol gösterir. Yanlış olan ifade, genellikle içeriğin tasarım sürecinde ikincil bir rol oynadığını veya sadece metinlerden ibaret olduğunu iddia eden bir ifadedir. Oysa <b>içerik</b>, tasarımın <b>iskeletini</b> oluşturur ve <b>anlam üretimini</b> mümkün kılar.",
         "Donem": 2
     },
     {
@@ -2897,6 +3022,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Pierre Bernard, kamusal projelerde içerik odaklı tasarımlarıyla tanınır. Milli parklar için tasarladığı amblem, genellikle parkın <b>doğal özünü</b> (içeriğini) yansıtan sembolik bir figürdür (örneğin bir geyik figürü). Bu amblem, <b>minimalist bir biçimle</b>, parkın mesajını ve kimliğini etkin bir şekilde iletme biçimini gösteren önemli bir örnektir.",
         "Donem": 2
     },
     {
@@ -2917,6 +3043,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Sözlük tanımı itibarıyla, bir kelimeden, sözden, davranıştan veya olgudan anlaşılan şeye <b>Anlam</b> denir. Tasarım bağlamında, anlam; <b>İçerik</b> ve <b>Biçim</b>'in izleyici tarafından yorumlanması sonucunda ortaya çıkan nihai kavrayıştır.",
         "Donem": 2
     },
     {
@@ -2937,6 +3064,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Dijital çağın ve internetin yükselişiyle birlikte, bilginin üretimi, dağıtımı ve tüketimi büyük önem kazanmıştır. Bu yeni dönemde sıklıkla dile getirilen ve temel odak noktası haline gelen kavram, '<b>İçerik</b>'tir (Content). Hatta bu dönem, 'İçerik Kraldır' (Content is King) sloganıyla özetlenmiştir, mesajın özünün ticari ve iletişimsel başarının anahtarı olduğunu vurgular.",
         "Donem": 2
     },
     {
@@ -2957,6 +3085,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Bu cümle, tasarım sürecindeki roller ayrımını belirtmektedir. Bir tasarımda <b>içerik</b> mesajı <b>oluşturur</b> veya <b>sunar</b>, <b>izleyici</b> (veya alıcı) ise bu sunulan içerik ve biçim kombinasyonundan yola çıkarak <b>anlam arar</b>. Tasarımcı içeriği sunar, kullanıcı anlamı çıkarır.",
         "Donem": 2
     },
     {
@@ -2977,6 +3106,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Bir tasarım ürününde somutlaşan görsel yapının (biçimin) arkasındaki <b>anlam, öz, tema</b> veya anlatılmak istenen görünmeyen düşünceye <b>İçerik</b> denir. İçerik, biçimin neye hizmet edeceğini belirleyen soyut kavramsal yapıdır.",
         "Donem": 2
     },
     {
@@ -2997,6 +3127,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Tasarım sürecine başlarken fikir üretimine yönelik düşünmenin önceliği, her zaman <b>ne anlatılmak istendiği</b> veya hangi sorunun çözüleceği, yani <b>İçerik</b>'tir. İçerik, tasarımın amacını, hedefini ve dolayısıyla biçimini belirleyen ilk adımdır.",
         "Donem": 2
     },
     {
@@ -3017,6 +3148,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Utku Lomlu’nun Can Yayınları Klasik Kadınlar Serisi için tasarladığı kapaklar, içeriği güçlü bir şekilde görselleştirmeyi amaçlar. Bu tasarımlarda, eserin <b>yazarı</b> ve eserin <b>ana kahramanı</b> olmak üzere <b>2</b> figür, birbiriyle etkileşim halinde, zekice kurgulanmış kompozisyonlarla sunulmuştur.",
         "Donem": 2
     },
     {
@@ -3037,6 +3169,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Bu söz, tasarımda sadece estetiğe (biçime) odaklanmanın mesajı kaybetme riskini, sadece mesaja (içeriğe) odaklanmanın ise görsel ilgi çekicilikten mahrum kalma riskini çok iyi özetler. Bu dengeyi vurgulayan cümle, genellikle tasarım felsefesi üzerine önemli katkılarda bulunmuş ve içerik/biçim ayrılmazlığını savunan tasarımcı **Bob Gill**'e aittir (veya ders materyali bağlamında bu alıntıyı yapan önemli bir isme).",
         "Donem": 2
     },
     {
@@ -3057,6 +3190,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Yaratıcı bir fikrin merkezinde, tasarımla iletilmek istenen temel mesaj, tema veya sorunun çözümü, yani <b>İçerik</b> yer alır. <b>Kavramsal çekirdek</b> olarak da adlandırılabilecek içerik, yaratıcı sürecin başlangıç noktasıdır.",
         "Donem": 2
     },
     {
@@ -3077,6 +3211,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "İçerik ve biçim, anlam üretiminde ayrılmaz bir bütündür. Doğru olan ifade, içeriğin <b>ne</b> anlatılacağını belirlerken, biçimin de <b>nasıl</b> anlatılacağını belirlediği ve dolayısıyla <b>anlamın, ikisinin uyumlu etkileşiminden</b> doğduğu gerçeğidir. Biçim, içeriği somutlaştırır ve algısını yönlendirir.",
         "Donem": 2
     },
     {
@@ -3097,6 +3232,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Bir önermenin, tasarının veya eserin ifade etmek istediği, aktarmayı amaçladığı temel fikir, mesaj veya öz, <b>İçerik</b> olarak adlandırılır. İçerik, eserin temel varlık sebebidir.",
         "Donem": 2
     },
     {
@@ -3117,6 +3253,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Her tasarım ürünü için, görsel düzenlemeyi ve estetik yapıyı (biçimi) taşıyan, mesajın aktarılmasını sağlayan temel düşünce yapısı veya iskelet, <b>İçerik</b>'tir. İçerik olmadan biçim anlamsız kalır, bu yüzden içeriğe 'tasarımın iskeleti' denir.",
         "Donem": 2
     },
     {
@@ -3137,6 +3274,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "İçeriğin tasarımdaki etkisi doğrudandır. Doğru ifade, içeriğin <b>biçimi belirlediği</b> ve <b>tasarımın yönünü tayin ettiği</b>dir. İçerik ne kadar net olursa, biçimsel çözümler de o kadar başarılı ve amaca uygun olur.",
         "Donem": 2
     },
     {
@@ -3157,6 +3295,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bir tasarımın yaşamsal döngüsünde; hedef, amaç, biçim ve iletişim gibi tüm unsurları bir araya getiren ve onlara anlam katan merkezi kavram <b>İçerik</b>'tir. İçerik, tasarımın varoluş amacını sürekli olarak hatırlatır ve tüm süreçleri birbirine bağlar.",
         "Donem": 2
     },
     {
@@ -3177,6 +3316,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Armando P. Milani, özellikle içerik ve biçim arasındaki dengeyi kurma konusunda kendisini etkileyen, İsviçre/İtalyan okulu geleneğinden gelen büyük bir ustadan bahseder. Milani'nin bu konudaki sorgulayıcı yaklaşımını geliştirmesine yardımcı olan tasarımcı, <b>Max Huber</b>'dir. Huber, tasarımlarında <b>sadelik</b> ve <b>anlamın gücünü</b> birleştirmesiyle tanınır.",
         "Donem": 2
     },
     {
@@ -3197,6 +3337,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "İçeriğin tasarımdaki etkisi konusunda farklı görüşler bulunsa da, içeriğin gerekliliği tartışılamaz. Yanlış olan ifade, içeriğin <b>nesnel olarak tanımlanamaz</b> veya <b>hiçbir teknik kurala uymak zorunda değilmiş</b> gibi gösterilmesidir. İçerik, belirlenmiş amaçlar, mesajlar ve hedef kitle analizleri çerçevesinde somutlaşır ve <b>yönetilebilir bir bileşendir</b>.",
         "Donem": 2
     },
     {
@@ -3217,6 +3358,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Anlam üretimi, içerik ve biçimin ortak ürünüdür. Yanlış olan ifade, genellikle biçimin içeriği yorumlamada veya anlamı değiştirmede hiçbir rol oynamadığını, sadece <b>nötr bir taşıyıcı</b> olduğunu savunan görüştür. Oysa biçim (renk, tipografi, düzenleme), içeriğin <b>duygusal tonunu</b> belirler ve anlamın algılanışını kökten etkiler.",
         "Donem": 2
     },
     {
@@ -3237,6 +3379,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bir afiş tasarımı için yapılacak araştırma, öncelikle mesajın özünü (içeriği) sağlamlaştırmalıdır: Hedef kitle kimdir, geri dönüşümün faydaları nelerdir, hangi slogan etkili olur? Yanlış olan ifade, henüz kavramsal aşamadayken <b>afişin basılacağı kâğıdın gramajı</b> veya <b>fiziksel büyüklüğü</b> gibi tamamen teknik ve biçimsel detaylara odaklanılması gerektiğini savunan bir ifadedir. Bu teknik detaylar, içerik ve konsept netleştikten sonra belirlenmelidir.",
         "Donem": 2
     },
     {
@@ -3257,6 +3400,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Dil biliminde en küçük ses birimi olan \"fonem\"in görsel iletişim bağlamında karşılığı, sesi temsil eden işarete dayanır. Bu tür resim veya sembollere **Fonogram** denir. Fonogramlar, piktogramların ve ideogramların evrilerek sesi temsil etmeye başladığı erken yazı sistemlerinde merkezi bir rol oynamıştır.",
         "Donem": 2
     },
     {
@@ -3277,6 +3421,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Modern sanatta nesnel olmayan (non-objective) ve tamamen **soyut** denilen yeni bir sanat fikrinin öncüsü, Rus ressam **Wassily Kandinsky**'dir. Kandinsky, eserlerinde doğayı taklit etmeyi bırakarak, renklerin ve biçimlerin ruhsal ve duygusal etkilerini araştırmıştır.",
         "Donem": 2
     },
     {
@@ -3297,6 +3442,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Soyutlama ve soyutun eksenini belirleyen temel unsurlar, insanın **doğanın ötesine geçme** ve yeni biçimler oluşturma yeteneğine dayanır. Bu süreç, sadece teknik birikimi (Bilgi) değil, aynı zamanda düşünceyi somut gerçekten ayırma yeteneğini (Hayal gücü) ve yeni bir ifade oluşturma becerisini (**Yaratıcılık**) gerektirir. Bu nedenle her üçü de soyutun eksenini belirler.",
         "Donem": 2
     },
     {
@@ -3317,6 +3463,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Rus **Konstrüktivizmi**, sanatın toplumsal hayata ve devrime hizmet etmesi gerektiği felsefesine dayanır. Grafik anlayışında, her türlü politik söylemin ifade edildiği temel kavram, halkı yönlendirme ve devrimci fikirleri yayma amacı güden **Propaganda** veya **Ajitasyon**'dur (Agitprop). Sanat bu amaçla bir araç haline gelmiştir.",
         "Donem": 2
     },
     {
@@ -3337,6 +3484,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Antik Mısır medeniyetinin geliştirdiği yazı sistemi, resimsel sembollerin kullanıldığı **Hiyeroglif**'tir. Hiyeroglifler, hem nesneleri (piktogram) hem de sesleri (fonogram) temsil eden karmaşık bir yapıya sahiptir.",
         "Donem": 2
     },
     {
@@ -3357,6 +3505,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Ünlü fizikçi **Albert Einstein**, yaratıcılığın ve soyut düşüncenin önemini vurgulayarak, \"Hayal gücü, bilgiden daha önemlidir\" sözünü söylemiştir. Einstein'a göre, bilgi mevcut olanla sınırlıyken, hayal gücü bilinebilecek her şeyi kapsar.",
         "Donem": 2
     },
     {
@@ -3377,6 +3526,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Soyutlama, bir nesnenin veya fikrin özünü yakalarken, onunla olan doğrudan görsel ilişkiyi basitleştirir veya koparır. Soyutlamanın amacı **nesnel gerçekliği birebir yansıtmak** değildir; bu, yanlış bir ifadedir. Aksine, soyutlama nesnel gerçeklikten uzaklaşarak biçim ve öz üzerinde yoğunlaşır.",
         "Donem": 2
     },
     {
@@ -3397,6 +3547,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Verilen tanım, nesnel gerçeklikle veya doğa izlenimiyle tüm bağını koparmış, yalnızca **düşüncenin** veya **imgenin saf biçimine** indirgenmiş sanat veya tasarım ifadesi olan **Soyut** kavramına aittir. Eğer ilişki tamamen kesilmemiş olsaydı, bu **Soyutlama** olurdu.",
         "Donem": 2
     },
     {
@@ -3417,6 +3568,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Modern sanatın mihenk taşlarından biri olan, geometrik soyutlamanın ve **Süprematizm** akımının sembolü kabul edilen \"Siyah Kare\" (Black Square) yapıtını tasarlayan sanatçı **Kazimir Malevich**'tir. Eser, nesnel temsilin reddini simgeler.",
         "Donem": 2
     },
     {
@@ -3437,6 +3589,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "19. yüzyılın sonlarında, Sanayi Devrimi'nin getirdiği kalitesiz seri üretime tepki olarak ortaya çıkan **Arts and Crafts** (Sanatlar ve Zanaatlar) hareketinin kilit figürü olan **William Morris**, tipografi ve kitap sanatının kalitesini artırmak amacıyla **Kelmscott Basımevi**'ni kurmuştur.",
         "Donem": 2
     },
     {
@@ -3457,6 +3610,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "**Op Art** (Optik Sanat), tamamen görsel yanılsamalar, hareket ve derinlik efektleri yaratmaya odaklanan bir akımdır. Victor Vasarely ve Bridget Riley bu akımın önemli temsilcileridir. Ancak, örneğin **Andy Warhol**, Op Art yerine Pop Art akımının kurucu figürlerindendir ve yanılsama tabanlı eserler üretmez.",
         "Donem": 2
     },
     {
@@ -3477,6 +3631,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Kazimir Malevich'in öncülük ettiği modern sanat hareketi **Süprematizm**'dir. Süprematizm, sanatta geometrik formların (kare, daire, dikdörtgen vb.) üstünlüğünü ve nesne temsilinden bağımsız, saf duygunun ifadesini savunur.",
         "Donem": 2
     },
     {
@@ -3497,6 +3652,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Tasarımda soyutlama, bir fikri veya konsepti en temel ve evrensel biçimine indirgeyerek, kültürlerarası anlaşılabilirliği artırır. Soyutlama sayesinde tasarım, detaylara takılmadan mesajın özünü vurgular ve böylece mesajın **evrenselleştirilmesini** sağlar.",
         "Donem": 2
     },
     {
@@ -3517,6 +3673,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Soyutlama, bir nesnenin veya fikrin **Öz**'ünü bulma, bu özü yeni bir **Anlam** ile yükleme ve bu yeni anlamı görsel bir **Düzenleme** (kompozisyon) ile ifade etme sürecidir. Bu nedenle bu üç unsur da soyutlama ve soyut ile yakından ilişkilidir.",
         "Donem": 2
     },
     {
@@ -3537,6 +3694,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Soyutlama, doğanın görsel izlenimlerinden yola çıksa da, temel amacı doğayı **basitleştirmek** ve **özünü çıkarmaktır**. Soyutlama veya soyut sanatta, doğanın birebir, fotoğrafik bir şekilde **taklit edilmesi** izleniminden söz edilemez. Bu, soyutun temel felsefesine aykırıdır.",
         "Donem": 2
     },
     {
@@ -3557,6 +3715,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "İlk boşluğa **Soyutlama** getirilmelidir, çünkü bu süreç doğa izleniminden yola çıkarak bir biçimlendirmedir (basitleştirme). İkinci boşluğa ise, doğayla ilişkisi tamamen kesilmiş olan, saf düşüncenin biçimi anlamına gelen **Soyut** getirilmelidir.",
         "Donem": 2
     },
     {
@@ -3577,6 +3736,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "İletişim ögesi olarak soyutlama, karmaşık verileri basitleştirerek mesajın **hızlı ve net** bir şekilde iletilmesini hedefler. Bu, evrenselliği artırır. Ancak, soyutlama, görsel anlatımı **karmaşık ve detaylı** hale getirmeyi değil, aksine **özü çıkarmayı** amaçlar; dolayısıyla karmaşık ve detaylı anlatımı hedeflemek yanlıştır.",
         "Donem": 2
     },
     {
@@ -3597,6 +3757,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Süprematizm, modern sanatta geometrik soyutlamanın zirvesini temsil eden ve nesnel olmayan duyarlılığa odaklanan bir akımdır. Bu akımın kurucusu ve öncüsü, ünlü \"Siyah Kare\" eseriyle tanınan **Kazimir Malevich**'tir.",
         "Donem": 2
     },
     {
@@ -3617,6 +3778,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bu tanım, görsel ögelerin önceden belirlenen <b>kadraj</b> sınırları içinde kalmasına, hareketin merkeze doğru toplanmasına ve eserde <b>denge</b> ve bütünlüğün ön plana çıkarılmasına vurgu yapmaktadır. Bu anlayış, özellikle Rönesans döneminde sıklıkla kullanılan <b>Kapalı Kompozisyon</b> (Closed Composition) ilkesini ifade eder. Kapalı kompozisyon, izleyicinin bakışını eserin sınırları içinde tutmayı amaçlar.",
         "Donem": 2
     },
     {
@@ -3637,6 +3799,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "<b>Kadraj</b>, tasarımın veya fotoğrafın sınırlarını belirleyen çerçevedir ve temel işlevi, izleyiciye sunulacak içeriği seçmek ve düzenlemektir. Kadraj, görsel ögelerin sınırları dışına çıkmasını zorunlu kılmaz; tam tersine, bu sınırlar içinde kompozisyonu kurmayı sağlayan alandır. Ögelerin kadraj dışına çıkma eğilimi <b>Açık Kompozisyon</b> özelliğidir, kadrajın genel bir özelliği değildir.",
         "Donem": 2
     },
     {
@@ -3657,6 +3820,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "<b>Beyaz boşluk</b> veya <b>negatif alan</b>, tasarımda ögelerin etrafında bırakılan boşluktur. Bu boşluklar, dolu (pozitif) alanların daha rahat algılanmasını sağlayarak (I), ögeler arasındaki ilişkiyi netleştirerek anlamı kuvvetlendirir (II) ve boşluklar aracılığıyla gözün belirli noktalara odaklanmasını veya akışını sağlayarak izleyiciyi yönlendirir (III). Bu nedenle her üç ifade de doğrudur.",
         "Donem": 2
     },
     {
@@ -3677,6 +3841,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tanımlamada bahsedilen, 1960'larda ortaya çıkan ve soyut dışavurumculuk ile <b>Biçimcilik</b> akımlarının duygusal ve öznel yaklaşımlarına karşı bir reaksiyon olarak gelişen <b>Minimalizm</b> akımıdır. Minimalizm, sanatı en temel ve nesnel formlarına (geometrik şekiller) indirgeyerek sanatta geleneği reddetmeyi ve sanatçının öznel yorumunu ortadan kaldırmayı amaçlamıştır.",
         "Donem": 2
     },
     {
@@ -3697,6 +3862,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Görsel sanatlarda gerçeğin temsili, sanatçının seçimine bağlıdır ve bu seçim, eserin sınırları dâhilinde yapılır. Boş bırakılan yere '<b>Kadraj Sınırları</b>' getirilmelidir. Her görsel çalışma, belirlenmiş bir <b>kadraj</b> (çerçeve) içinde gerçeğin yansıtılması veya yeniden yorumlanmasıdır; kadraj, eserin 'ne' olduğu kadar 'ne kadar' olduğu bilgisini de taşır.",
         "Donem": 2
     },
     {
@@ -3717,6 +3883,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Billboard gibi hızlı tüketilen ve dikkat çekmesi gereken tasarımlarda, kompozisyon ögelerinin sınırlı bir alan (<b>kadraj</b>) içinde düzenlenmesi kritiktir. Bu tür tasarımlarda genellikle gereksiz ögeler dışlanarak ana tema üzerine yoğunlaşılır. Bu, kadrajın sınırlarını kullanarak ana konuyu izleyicinin dikkatine sunan <b>Odak Noktası Oluşturma</b> özelliğini öne çıkarır. Etkili kadrajlama, mesajın hızlı ve net iletilmesini sağlar.",
         "Donem": 2
     },
     {
@@ -3737,6 +3904,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "17. Yüzyıl Hollanda Barok sanatçısı <b>Vermeer</b>, iç mekân sahnelerindeki ustalıkla kadraj kullanımıyla bilinir. Çalışmaları, izleyicinin bir anlık sahneye tanıklık etmesi hissini uyandırmak için genellikle figürlerin kenarlarını keser ya da mimari ögeleri (kapı, pencere) bir <b>kadraj içinde kadraj</b> olarak kullanır. Bu dikkatli <b>sınırlandırma</b> (framing) tekniği, sahnelerdeki mahremiyeti ve anlık görsel değeri artırır ve fotoğrafik bir etki yaratır.",
         "Donem": 2
     },
     {
@@ -3757,6 +3925,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "<b>Altın Oran</b>, estetik dengeyi sağlamak amacıyla kompozisyonun merkezden kaydırılmasını önerir. Fotoğrafçılıkta bu kuralın pratik ve yaygın karşılığı <b>Üçler Kuralı</b>'dır (Rule of Thirds). Bu kural, kadrajın yatay ve dikey olarak üçe bölünmesi ve ana ögelerin bu çizgiler veya kesişim noktaları üzerine yerleştirilmesi prensibine dayanır. Bu sayede merkeziyetçilikten kaçınılarak daha dinamik ve dengeli bir kompozisyon oluşturulur. (Altın Oran'ın birebir matematiksel karşılığı Altın Noktalar olsa da, Üçler Kuralı en yaygın uygulamasıdır.)",
         "Donem": 2
     },
     {
@@ -3777,6 +3946,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Boşluğa getirilmesi gereken kavram <b>Ritim</b>'dir. Görsel sanatlarda <b>Ritim</b>, ögelerin tekrarı ve bu tekrarlardaki varyasyonlar (çeşitlilik) sayesinde gözün kadraj içinde akışını sağlar. Ritim, esere <b>dinlendirici</b> bir akıcılık kazandırır, ögeleri görsel olarak <b>bir arada tutar</b> ve sürekli aynı ögelerin tekrarından kaynaklanan <b>monotonluğu</b> kırar.",
         "Donem": 2
     },
     {
@@ -3797,6 +3967,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "<b>Görsel Hiyerarşi</b>, kompozisyonda ögelerin önem sırasına göre düzenlenmesi anlamına gelir. Bu düzenleme, izleyicinin gözünün kadraj içinde ana ögelerden başlayarak diğer detaylara doğru <b>dolaşmasını sağlar</b> (II). Hiyerarşi, dinamik dengeyi gerektirdiğinden, genellikle <b>Altın Oran</b> (III) veya Üçler Kuralı gibi asimetrik düzenlemelerle yakından ilişkilidir. Simetrik kurgu (I) ise dengeyi sağlasa da, genellikle statik bir düzeni vurgular ve hiyerarşi için uygun değildir.",
         "Donem": 2
     },
     {
@@ -3817,6 +3988,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Minimalizm, sanatçının öznel duygularını ve yorumlarını reddeder; bunun yerine <b>nesnellik</b>, geometrik sadelik ve eserin fiziksel mevcudiyetine odaklanır. Bu nedenle, Minimalizmin sanatçının duygusal ve kişisel ifadesini vurguladığı ifadesi <b>söylenemez</b>. Minimalizmde amaç, eseri herhangi bir duyusal ya da sembolik yükten arındırmaktır.",
         "Donem": 2
     },
     {
@@ -3837,6 +4009,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Tasarımda <b>kadraj</b> ile ilgili teknik unsurlar, görsel alanın nasıl organize edildiği ve sınırlandığı ile ilgilidir. <b>Görsel Hiyerarşi</b> (I), ögelerin kadraj içindeki önem sırasını düzenleyen teknik bir kompozisyon kurgusudur. <b>Marj</b> (II) ise, içeriğin kadraj sınırlarıyla olan fiziksel ilişkisini, yani kenarlarda bırakılan boşlukları tanımlar. Her ikisi de kadrajı teknik olarak ilgilendirir. <b>Metafor</b> (III) ise anlamsal bir sanatsal ifadedir ve kadrajın fiziksel/teknik kurgusuyla doğrudan ilgili değildir. Dolayısıyla I ve II teknik unsurlardır.",
         "Donem": 2
     },
     {
@@ -3857,6 +4030,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Tanımlanan bu matematiksel ve estetik oran, doğadaki pek çok yapıda (bitki dizilimleri, deniz kabukları, insan anatomisi) bulunması nedeniyle evrensel bir denge ve güzellik ölçütü olarak kabul edilen <b>Altın Oran</b>'dır (Phi). Bu oran (yaklaşık 1.618), ideal kompozisyon ve estetik dengeyi sağlamak için sanatçılar tarafından sıklıkla kullanılır.",
         "Donem": 2
     },
     {
@@ -3877,6 +4051,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Tasarımda, ögelerin kendisinin bulunduğu dolu alanlar (<b>pozitif alan</b>) ve bu ögelerin çevresindeki boşluklar (<b>negatif alan</b>) mevcuttur. Dolu alanlara karşıt boşluk bırakılması ilkesine <b>Beyaz Boşluk</b> kullanımı adı verilir. Beyaz boşluk, tasarımın nefes almasını ve pozitif alanların vurgulanmasını sağlar.",
         "Donem": 2
     },
     {
@@ -3897,6 +4072,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Bu kompozisyon anlayışı, görsel ögelerin <b>kadraj</b> sınırları dışına doğru uzanma eğilimi göstermesi, dolayısıyla eserin sunduğu alanın ötesinde bir devamlılık hissi yaratmasıdır. Bu dinamik ve dışa dönük kurgu, izleyicinin hayal gücünü harekete geçirerek eserin sınırlarını genişletir ve <b>Açık Kompozisyon</b> (Open Composition) olarak adlandırılır.",
         "Donem": 2
     },
     {
@@ -3917,6 +4093,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Fotoğraf ve kameranın keşfinden önce, sanatçılar tarafından <b>perspektif</b> ve doğru oranları yakalamak için kullanılan optik bir araç olan <b>Camera Obscura</b> (karanlık oda), modern fotoğrafçılığın temelini atmıştır. Bu araç, özellikle Rönesans ve Barok dönem ressamları tarafından kullanılmıştır.",
         "Donem": 2
     },
     {
@@ -3937,6 +4114,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "<b>Rönesans Dönemi</b> kompozisyon kuralları, denge, açıklık ve matematiksel düzen üzerine kuruludur. Bu dönemde sıklıkla <b>piramidal yapı</b> (II) kullanılarak esere statik bir denge ve hiyerarşi kazandırılır. Ayrıca kompozisyonda ana odak noktası ve hareket merkeze doğru toplandığı için <b>merkezi ağırlık</b> (III) mevcuttur. Ancak, Rönesans'ta genellikle <b>tek kaçışlı perspektif</b> uygulanır; çok kaçışlı perspektif (I) bu dönem için belirgin bir kural değildir.",
         "Donem": 2
     },
     {
@@ -3957,6 +4135,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Görsel sanatlarda kullanılan temel unsurlar arasında <b>nokta</b>, <b>çizgi</b>, <b>renk</b>, <b>biçim</b>, <b>alan</b>, <b>doku</b> ve <b>değer</b> (Value) gibi yapı taşları bulunur. <b>Metafor</b> ise, bir görsel ögeyi başka bir kavramı temsil etmek için kullanmak anlamına gelen, teknikten ziyade anlamsal ve retorik bir araçtır; bu nedenle temel görsel ögelerden biri olarak sayılmaz.",
         "Donem": 2
     },
     {
@@ -3977,6 +4156,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "<b>Kadraj</b>, bir görselin sınırlarını tanımlayan çerçevedir ve bu kavram resim, grafik tasarım, sinema ve fotoğrafçılık dahil olmak üzere tüm görsel sanatlar için geçerlidir. Kadrajın sadece fotoğrafçılıkla sınırlı olduğu iddiası <b>yanlıştır</b>; zira kadraj, yüzeyin sınırlarını belirleyen temel kompozisyon ilkesidir.",
         "Donem": 2
     },
     {
@@ -3997,6 +4177,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Kadraj uygulamaları, sadece teknik sınırları belirlemekle kalmaz, aynı zamanda seçilen bakış açısı, oran ve çerçeveleme aracılığıyla içeriğin <b>anlamsal</b> ve <b>duygusal</b> etkisini de belirler. Örneğin, dar bir kadraj gerilim yaratırken, geniş bir kadraj ferahlık sunabilir. Bu nedenle, 'kadrajın içeriğin duygusal etkisini belirlemede hiçbir rol oynamadığı' iddiası <b>yanlıştır</b>.",
         "Donem": 2
     },
     {
@@ -4017,6 +4198,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Cümlede boş bırakılan yere getirilmesi gereken ifade büyük ihtimalle <b>Üçler Kuralı</b>'dır. Üçler Kuralı, fotoğrafçılık ve görsel tasarımda kullanılan temel bir <b>çerçeveleme tekniği</b> olup, kompozisyonun etkinliğini artırmak için kullanılır.<br/><br/>Bu kurala göre, görsel alan (fotoğraf karesi veya tasarım yüzeyi) iki yatay ve iki dikey çizgi ile hayali olarak dokuz eşit parçaya bölünür. Bu çizgilerin kesiştiği dört nokta (genellikle <b>güç noktaları</b> olarak adlandırılır), izleyicinin gözünün doğal olarak odaklandığı alanlardır. Önemli görsel öğelerin bu çizgilere veya kesişim noktalarına yerleştirilmesi, görsel kompozisyonun daha dinamik, dengeli ve izleyici açısından daha ilgi çekici olmasını sağlar. Bu sayede, temel <b>odak noktalarının belirlenmesi</b> ve konunun merkezin dışına taşınarak daha estetik bir düzen oluşturulması hedeflenir.",
         "Donem": 2
     },
     {
@@ -4037,6 +4219,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Olasılık, hayatımızın hemen hemen her alanında karşımıza çıkan, gelecekteki olaylar hakkında <b>tahminler yürütmemize</b> olanak sağlayan temel bir kavramdır. Hava durumu tahminlerinden (II) yatırım kararlarına (I) kadar her yerde kullanılır. Yanlış olan ifade, olasılığın bir durumu kesinleştirdiği veya belirsizliği tamamen ortadan kaldırdığı yönündeki bir iddia olacaktır. Olasılık bize sadece <b>en yüksek ihtimale</b> sahip olan yolu gösterir, kesinlik sağlamaz.<br>Bu nedenle, olasılık kavramının yaşamdaki yeri ve önemi, belirsizlik altındaki <b>karar verme süreçlerini</b> desteklemesidir.",
         "Donem": 2
     },
     {
@@ -4057,6 +4240,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Olasılık kavramı, tasarım sürecinde <b>riski azaltmak</b> ve <b>alternatifleri değerlendirmek</b> için kritik bir rol oynar. Bir tasarımın hedef kitlesi üzerindeki potansiyel etkisini, maliyetini ve başarılı olma ihtimalini öngörmeyi sağlar. Olasılığın etkinliğine yönelik yanlış olan ifade, olasılığın <b>yaratıcılığı kısıtladığı</b> veya tasarım sürecinin yalnızca tek bir aşamasıyla sınırlı kaldığı yönündeki bir ifade olmalıdır. Aksine, olasılık, tasarımcının daha bilinçli ve çeşitli seçenekler sunmasına yardımcı olur.",
         "Donem": 2
     },
     {
@@ -4077,6 +4261,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Bir tasarım fikrine yönelik olasılıkları düşünme süreci, tasarımın en temel ve ilk aşaması olan <b>fikir aşaması</b> (veya <b>konsept oluşturma</b>) ile başlar. Tasarımcı, daha kalem kağıt kullanmadan zihninde farklı senaryoları ve sonuçları değerlendirir. Ardından bu düşünceler taslak, eskiz ve orijinal aşamalar gibi <b>tüm tasarım sürecini</b> kapsayarak ilerler.",
         "Donem": 2
     },
     {
@@ -4097,6 +4282,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tasarım dünyasında ilham veren kadın figürler, farklı disiplinlerde önemli izler bırakmıştır. Örnek olarak:<br><b>Mimar:</b> Zaha Hadid (dekonstrüktivist mimari)<br><b>Moda Tasarımcısı:</b> Coco Chanel (modern kadın modasının öncüsü)<br><b>Grafik Tasarımcı:</b> Paula Scher (Pentagram ortağı, tipografi ve kimlik tasarımı ustası).<br>Bu isimler, kendi alanlarında <b>cesur ve olasılıkları zorlayan</b> işler yaparak tasarım dünyasına yön vermişlerdir.",
         "Donem": 2
     },
     {
@@ -4117,6 +4303,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Olasılık, belirsizlik durumlarında mevcut verileri ve senaryoları analiz ederek en doğru <b>kararı</b> yapmamızda bize yardımcı olan bir kavramdır. Bir kararın sonuçları veya olası riskleri hakkında bilgi sahibi olmamızı sağlayarak, subjektif tercihler yerine <b>bilinçli seçimler</b> yapmamızı destekler.",
         "Donem": 2
     },
     {
@@ -4137,6 +4324,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "<b>Op Art</b> (Optik Sanat), 1960'larda popüler olan ve göz yanılsamaları, geometrik şekiller ve renk kontrastları kullanarak hareket ve derinlik illüzyonu yaratan bir sanat akımıdır. Bu akımın en önemli temsilcilerinden biri <b>Victor Vasarely</b>'dir. Vasarely, eserlerinde düzenli geometrik formları ve optik etkileşimi kullanarak izleyicinin algısıyla oynayan <b>olasılıksal desenler</b> yaratmıştır.",
         "Donem": 2
     },
     {
@@ -4157,6 +4345,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Grafik ürünler, genellikle <b>görsel iletişim</b> amacıyla üretilen, basılı veya dijital ortamlarda yer alan ürünlerdir. Bunlara örnek olarak logo, afiş, broşür, dergi tasarımı veya web sitesi arayüzü verilebilir. Grafik ürün olarak yanlış olan ifade, genellikle <b>fiziksel, üç boyutlu</b> ve görsel iletişim dışındaki işlevlere sahip olan bir ürün olacaktır (Örn: Bir bina, bir heykel).",
         "Donem": 2
     },
     {
@@ -4177,6 +4366,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Olasılık hesabı, belirsizlik içeren durumlar hakkında tahminde bulunmamızı sağlar. <br>I. Bir alışverişin ne kadar tutacağı (değişkenlere bağlı harcamalar)<br>II. Hava durumu (meteorolojik verilerin tahmini)<br>III. Bir hastalığın seyri (tıbbi istatistik ve risk analizi)<br>Yukarıdakilerin hepsi, <b>kesin olmayan</b> ve olasılık temelli tahminlere bağlı olarak ilerleyen durumlardır. Bu nedenle I, II ve III olasılık hesabına bağlıdır.",
         "Donem": 2
     },
     {
@@ -4197,6 +4387,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Olasılık kavramının tasarım sürecindeki etkinliği, tasarımın <b>başarısızlık riskini en aza indirmektir</b>. Olasılık, tasarımcının çeşitli seçenekleri test etmesine, hedef kitle tepkilerini önceden tahmin etmesine ve böylece <b>en uygun sonucu</b> verecek kararları almasına yardımcı olur. Bu, tasarımın ticari ve işlevsel başarısı için hayati öneme sahiptir.",
         "Donem": 2
     },
     {
@@ -4217,6 +4408,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Tasarım süreci, bir dizi kararın arka arkaya alındığı dinamik bir süreçtir. Olasılık, bu süreç boyunca tasarımcının <b>farklı senaryoları değerlendirmesine</b> ve hangi seçeneğin en iyi sonucu vereceğini tahmin etmesine olanak tanır. Olasılık üzerine doğru olan ifade, onun tasarımın <b>her aşamasında</b> (konseptten prototipe) kullanıldığı ve <b>belirsizliği yönetmeye</b> yardımcı olduğu gerçeğidir.",
         "Donem": 2
     },
     {
@@ -4237,6 +4429,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Tasarımda olasılık, risk yönetimi ve tahmin için önemlidir. Ancak olasılık, tasarımın <b>yaratıcı yönünü yok saymaz</b> veya sonucun %100 kesin olmasını sağlamaz. Tasarımda olasılıkla ilgili yanlış olan ifade, olasılığın bir tasarımı tamamen nesnel ve duygudan arındırılmış hale getirdiği yönündeki bir iddia olmalıdır. Tasarım sürecinde <b>sezgisel kararlar</b> ve <b>olasılık hesapları</b> birlikte kullanılır.",
         "Donem": 2
     },
     {
@@ -4257,6 +4450,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Olasılık kavramı, gelecekteki olayların veya sonuçların ne kadar muhtemel olduğunu inceleyen matematiksel bir daldır.<br>I. <b>Tahmin</b>: Olasılık hesaplarının temel çıktısıdır.<br>II. Durum: Genel bir kavramdır.<br>III. <b>İhtimal</b>: Olasılığın eş anlamlısı ve temelini oluşturan kavramdır.<br>Dolayısıyla olasılıkla en yakından ilişkili kavramlar <b>Tahmin</b> (I) ve <b>İhtimal</b> (III)'dir.",
         "Donem": 2
     },
     {
@@ -4277,6 +4471,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Rus sanatının soyut geometrik anlayışının benimsendiği ve tasarıma büyük etkileri olan akım <b>Konstrüktivizm</b>'dir. 1913 civarında Rusya'da ortaya çıkan bu akım, sanatı sosyal amaçlarla birleştirmeyi, geometrik formları ve soyutluğu vurgulamayı amaçlamıştır. Tasarım prensipleri ve <b>endüstriyel estetik</b> üzerine odaklanmıştır.",
         "Donem": 2
     },
     {
@@ -4297,6 +4492,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Olasılık, sonucu kesin olmayan veya değişkenlere bağlı olan durumlarda bizi etkiler. <br>I. Bir arabanın hızı (Tahmin edilebilir, değişkenlik içerir)<br>II. Bir mesafenin uzunluğu (Genellikle sabittir, ancak ölçüm hatası olasılığı vardır)<br>III. İş yerine ne kadar sürede gideceğimiz (Trafik, kaza vb. değişkenlere bağlıdır, tamamen <b>olasılıksaldır</b>)<br>Günlük yaşam kararlarımızda en çok olasılık hesabı gerektiren durum, değişken zaman tahminleridir. Ancak genel olarak, bu üç faktörün tamamı bir hedefe ulaşma olasılığını etkiler (I, II ve III).",
         "Donem": 2
     },
     {
@@ -4317,6 +4513,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Tasarım sürecinde olasılık, bir tasarım fikrinin hayata geçirilmesi aşamasında karşılaşılacak potansiyel zorlukları, maliyetleri ve beklenen pazar başarısını önceden hesaplamaya yarar. Olasılık hesapları, tasarımın <b>en baştan optimize edilmesine</b> ve kaynakların en verimli şekilde kullanılmasına yardımcı olur. Doğru ifade, olasılığın <b>optimal çözüme ulaşmada</b> rehberlik ettiğidir.",
         "Donem": 2
     },
     {
@@ -4337,6 +4534,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Yaşamdaki pek çok davranış, tutum ve tercihimizi belirleyen olasılık, elimizdeki verilere dayanarak, risk ve fayda dengesini gözeterek, en doğru <b>sonuca</b> veya en mantıklı <b>seçime</b> ulaşmamızı mümkün kılmaktadır. Olasılık, gelecekteki belirsizlikleri yönetme aracıdır.",
         "Donem": 2
     },
     {
@@ -4357,6 +4555,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tasarımda olasılık kavramı, tasarımla ilgili risklerin ve potansiyel sonuçların ölçülmesine olanak tanır. Olasılık, <b>kesinlik vermez</b>, sadece bir olayın gerçekleşme sıklığını veya ihtimalini belirtir. Bu nedenle, 'olasılığın her zaman garantili bir başarı sağladığı' veya 'tasarımın deneysel yönünü tamamen ortadan kaldırdığı' gibi ifadeler yanlıştır. Olasılık, yaratıcılığı destekleyen <b>bilgilendirilmiş bir tahmindir</b>.",
         "Donem": 2
     },
     {
@@ -4377,6 +4576,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Müziğin ritmiyle paralellik kurarak görsel öğelerin düzenli aralıklarla tekrar etmesini sağlayan ızgara türü <b>Ritmik Izgaradır</b>. Bu ızgara, tasarımda bir akış ve tekrarlama hissi yaratarak, tipografik ve görsel öğelerin yerleşimi üzerinden bir <b>görsel ritim</b> oluşturur.",
         "Donem": 2
     },
     {
@@ -4397,6 +4597,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Tasarımda dikey yönde (aşağı ya da yukarı) bir okuma veya akış yönü oluşturmak, genellikle içeriğin sütunlar halinde düzenlenmesiyle sağlanır. Bu işlevi yerine getiren temel ızgara yapısı <b>Kolon Izgarasıdır</b> (Sütun Izgarası). Kolonlar, dikey hizalama ve düzenleme için temel yapıyı sunar.",
         "Donem": 2
     },
     {
@@ -4417,6 +4618,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Izgara, tasarımda düzen ve tutarlılık sağlarken birçok temel kavramla doğrudan ilişkilidir. <b>Ritim</b> (tekrar ve akış), <b>Orantı</b> (bölümler arası uyumlu ilişki) ve <b>Görsel Hiyerarşi</b> (önem sırasına göre düzenleme) ızgaranın sağladığı yapı sayesinde etkin bir şekilde kurulabilir ve yönetilebilir. Dolayısıyla verilen üç kavram da (I, II ve III) ızgara ile yakından ilişkilidir.",
         "Donem": 2
     },
     {
@@ -4437,6 +4639,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Geleneksel dikey ve yatay eksenlerin dışına çıkarak, eğimli çizgilerle kurulan <b>Diyagonal Izgara</b>, statik düzenin aksine, tasarım yüzeyinde belirgin bir <b>dinamizm</b> ve <b>hareket izlenimi</b> yaratır. Bu tür ızgaralar genellikle daha enerjik ve dikkat çekici kompozisyonlar için kullanılır.",
         "Donem": 2
     },
     {
@@ -4457,6 +4660,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "<b>Izgara (Grid)</b>, tasarımın temel yapısal aracıdır. Özellikle metin blokları (tipografi) gibi hacimli içeriklerin tutarlı, okunabilir ve hizalı bir şekilde yerleştirilmesi için gerekli olan dikey ve yatay hizalama kılavuzlarını sağlar. Izgara, <b>tipografik düzenin</b> doğru ve profesyonel görünmesine doğrudan katkıda bulunur.",
         "Donem": 2
     },
     {
@@ -4477,6 +4681,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Kurumsal kimlik kılavuzu, bir markanın görsel standartlarını belirleyen kapsamlı bir belgedir. Bu kılavuz, logo kullanımı, renk paletleri ve kurumsal evrak tasarımları gibi marka uygulamalarını içerir. Kılavuzun temel amacı <b>marka tutarlılığını</b> sağlamaktır. Kılavuzda yer almayacak tasarımlar veya bilgiler, markanın görsel standartlarının doğrudan uygulama alanı olmayan, örneğin <b>rakip firma pazarlama stratejileri</b> gibi unsurlardır.",
         "Donem": 2
     },
     {
@@ -4497,6 +4702,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Tasarım aşamasında, gerçek metin içeriği hazır olmadan önce düzenin nasıl görüneceğini göstermek amacıyla kullanılan, anlam ifade etmeyen geçici metin bloğuna <b>Taklit Yazı Bloğu</b> veya <b>Dolgu Metni</b> denir. En yaygın kullanılan taklit yazı <b>Lorem Ipsum</b>'dur. Bu metin, tipografik düzenlemeyi ve metin akışını test etmek için kullanılır.",
         "Donem": 2
     },
     {
@@ -4517,6 +4723,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Bir markanın veya projenin görsel standartlarının nasıl uygulanacağını, hangi renklerin, yazı tiplerinin ve layout prensiplerinin kullanılacağını detaylıca açıklayan rehber belge <b>Kurumsal Kimlik Kılavuzudur</b>. Bu kılavuz, tüm tasarımların <b>tutarlılık</b> içinde üretilmesini sağlamak için gerekli olan aydınlatıcı ve yol gösterici bilgileri içerir.",
         "Donem": 2
     },
     {
@@ -4537,6 +4744,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Izgara, tasarım sürecinde <b>düzen, hız ve tutarlılık</b> sağlar. Izgara kullanımının tasarım sürecine getirdiği en yaygın yanlış iddia, yaratıcılığı kısıtladığı yönündedir. Oysa doğru kullanılan bir ızgara, tasarımcıya güçlü bir yapı sunarak <b>yaratıcı özgürlüğü</b> artırır ve daha organize çözümler üretmeye yardımcı olur. Bu nedenle 'ızgara yaratıcılığı kısıtlar' gibi bir ifade ızgara ve tasarım süreci arasındaki ilişkiye yönelik yanlış bir tespittir.",
         "Donem": 2
     },
     {
@@ -4557,6 +4765,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Izgaranın tasarım sürecine kazandırdığı en büyük işlev, tasarım yüzeyindeki <b>görsel öğelerin düzenlenmesine</b> ve <b>yerleşimine</b> rehberlik etmesidir. Bu rehberlik sayesinde tasarımda hızlılık, tutarlılık ve profesyonel bir <b>hizalama</b> sağlanır.",
         "Donem": 2
     },
     {
@@ -4577,6 +4786,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Bir tasarımdaki görsel öğelerin (metin, resim, başlık) belirli bir düzen ve matematiksel yapı içerisinde hizalanmasını sağlayan kılavuz çizgiler bütünü <b>Izgara Çizgileridir</b>. Bu çizgiler, tasarımın <b>yapısal iskeletini</b> oluşturur ve öğelerin konumunu sabitler.",
         "Donem": 2
     },
     {
@@ -4597,6 +4807,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Cümledeki boşluklar genellikle ızgaranın tanımladığı alanlar arasındaki ilişkileri ifade eder. Tasarımın <b>görsel öğeleri</b> ve <b>negatif boşluk (beyaz alan)</b> arasındaki boşluklar, öğelerin vurgusunu güçlendirir ve görsel mesajı etkili bir şekilde göstermek için yerleştirmeye katkı sunar. Bu boşluklar genellikle <b>satır aralıkları</b> ve <b>sütun boşlukları (oluklar)</b> olarak da adlandırılır.",
         "Donem": 2
     },
     {
@@ -4617,6 +4828,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Izgara, temelde <b>Çizgilerden</b> (yatay ve dikey kılavuzlar) oluşan yapısal bir sistemdir. Bu çizgiler, <b>Görsel Öğelerin</b> (I) nerede başlayıp nerede biteceğini düzenler. Bilinç (III) ise ızgaranın uygulanma sürecindeki tasarım kararlarını ifade eder, ızgaranın kendisini değil. Dolayısıyla ızgarayı yapısal olarak ifade eden unsurlar I ve II ile ilişkilidir. (Genellikle ızgara denilince kılavuz <b>çizgiler</b> ve bu çizgilerle düzenlenen <b>görsel öğeler</b> anlaşılır).",
         "Donem": 2
     },
     {
@@ -4637,6 +4849,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Yatay yönde (sol ya da sağ) bir okuma veya akış yönü oluşturmak, içeriğin yatay bantlar veya satırlar halinde düzenlenmesiyle sağlanır. Bu işlevi yerine getiren temel ızgara yapısı <b>Satır Izgarasıdır</b> (Row Grid). Satırlar, yatay hizalama ve düzenleme için temel yapıyı sunar.",
         "Donem": 2
     },
     {
@@ -4657,6 +4870,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Izgara, tasarım öğelerini organize etme ve yapılandırma aracıdır. Bu süreçte <b>Düzenleme</b> (öğeleri belirli kurallara göre yerleştirme), <b>Kurgulama</b> (akış ve hikaye oluşturma) ve <b>Yapılandırma</b> (temel iskeleti oluşturma) kavramları ızgaranın sağladığı hizmetler açısından birbirine eşdeğer ve ilişkilidir. Üçü de (I, II ve III) ızgaranın temel amaçları arasındadır.",
         "Donem": 2
     },
     {
@@ -4677,6 +4891,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Izgara, tasarımda <b>hizalama, tutarlılık, okunabilirlik</b> ve <b>görsel hiyerarşi</b> gibi yapısal ve estetik unsurlara katkı sağlar. Izgaranın doğrudan katkıda bulunmadığı alanlar ise tasarımın yapısal olmayan dışındaki süreçlerdir. Örneğin ızgaranın, <b>içeriğin kendisinin üretilmesine</b> (metin yazımı) veya baskı maliyetlerinin azaltılması gibi lojistik konulara doğrudan bir katkısı bulunmaz.",
         "Donem": 2
     },
     {
@@ -4697,6 +4912,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Izgara, tasarım fikrinin görselleşmesi aşamasında <b>kompozisyon, denge, oran</b> ve <b>ritim</b> gibi yapısal ve estetik unsurları etkiler. Ancak ızgaranın doğrudan etkisi olmayan süreçler, tasarımın <b>konseptinin belirlenmesi</b> (ne anlatılacağı) veya <b>hedef kitle analizi</b> gibi stratejik ve içeriksel başlangıç aşamalarıdır. Izgara sadece bu fikirlerin görsel olarak düzenlenmesine yardımcı olur, fikrin kendisini yaratmaz.",
         "Donem": 2
     },
     {
@@ -4717,6 +4933,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Tasarımda <b>yön ve renk</b> kavramları birbiriyle etkileşim halindedir. Örneğin, soğuk renkler (mavi) genellikle geriye doğru yönelme ve derinlik hissi verirken, sıcak renkler (kırmızı) ileri doğru yönelme ve yaklaşma hissi uyandırır. Bu ilişki, tasarıma dinamizm, derinlik veya belirli bir duygusal etki katmak için kullanılır. Yanlış olan ifade, genellikle bu iki kavramın birbirinden bağımsız olduğunu veya rengin, yönün sağladığı <b>hareket algısını</b> tamamen ortadan kaldırdığını iddia eden ifadedir, zira renk, yönün etkisini pekiştirir veya dönüştürür.",
         "Donem": 2
     },
     {
@@ -4737,6 +4954,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Tasarımda yönler temel olarak üç geometrik çizgi tipi ile tayin edilir:<br/>I. <b>Dikey</b> (yukarı-aşağı hareket ve stabilite),<br/>II. <b>Yatay</b> (sükûnet ve denge),<br/>III. <b>Diyagonal</b> (dinamizm ve hareket).<br/>Bu üç çizgi türü, görsel öğelerin konumlandırılması ve izleyicinin gözünün yönlendirilmesi için anahtar araçlardır. Dolayısıyla, hepsi (I, II ve III) yön tayin etmek için kullanılır.",
         "Donem": 2
     },
     {
@@ -4757,6 +4975,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Yön kavramı tasarımda; <b>ritim</b>, <b>hareket</b>, <b>görsel akış</b> ve <b>odaklanma noktaları</b> oluşturmada hayati rol oynar. Yön sayesinde tasarım hiyerarşisi belirlenir ve izleyicinin gözü yönlendirilir. Yanlış olan ifade, genellikle yönün sadece pasif bir role sahip olduğunu veya tasarımın temel yapısal unsurlarına (denge, hareket) katkıda bulunmadığını iddia eden ifadedir.",
         "Donem": 2
     },
     {
@@ -4777,6 +4996,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Grafik ürünlerde yön, okuma sırasını belirlemek, görsel hiyerarşi kurmak ve kompozisyon içinde <b>göz hareketini</b> yönetmek için kullanılır. Yön, bir mesajın veya bilginin algılanma hızını ve şeklini doğrudan etkiler. Yanlış olan ifade, yön kavramının, grafik üründe okuma akışını veya görsel cazibeyi engellediğini öne süren bir ifadedir, zira yön tam tersi, akışı optimize etmek için kullanılır.",
         "Donem": 2
     },
     {
@@ -4797,6 +5017,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Güneşin doğuş ve batış hareketleri, Dünya üzerindeki <b>Coğrafi Yönlerin</b> (Kuzey, Güney, Doğu, Batı) tanımlanmasının temelini oluşturur. Bu bilgi, genel olarak <b>Yön</b> kavramının en temel ve doğal referans noktalarından biridir.",
         "Donem": 2
     },
     {
@@ -4817,6 +5038,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 3,
+        "Aciklama": "Yön kavramı, <b>haritacılık</b>, <b>navigasyon</b>, <b>astronomi</b> ve <b>mühendislik</b> gibi alanlarda hesaplamalara (koordinatlar, açılar) bağlı olarak aktif rol üstlenir. Bu süreçler bilimsel ve matematiksel ölçümlere dayanır. Yanlış olan ifade, yön kavramının bu tür süreçlerde hesaplamaya değil, tamamen sezgisel veya rastgele tercihlere bağlı olduğunu öne süren ifadedir.",
         "Donem": 2
     },
     {
@@ -4837,6 +5059,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Bir tasarımda aynı doğrultuda (aynı yönde) konumlanmış görsel öğeler, izleyicinin gözünü bu doğrultu boyunca takip etmeye iter. Bu durum, tasarımda bir <b>süreklilik</b> veya <b>görsel akış</b> (rota, yol) oluşturur. Bu, <b>Eksen</b> veya <b>Rotanın</b> görsel olarak algılanan karşılığıdır.",
         "Donem": 2
     },
     {
@@ -4857,6 +5080,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Bu açıklama, görsel sanatlar ve özellikle fotoğrafçılıkta <b>Kompozisyon Kuralları</b> ile ilgilidir. Kadraj içindeki çizgiler (örneğin <b>lider çizgiler</b>) ve yön, izleyicinin gözünü konuya yönlendirerek <b>maksimum cazibe</b> ve görsel etki yaratmanın temelini oluşturur.",
         "Donem": 2
     },
     {
@@ -4877,6 +5101,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 2,
+        "Aciklama": "Yürümek, bir hareket eylemidir ve her hareket, bir amaç veya hedef doğrultusunda gerçekleşir. Dolayısıyla, yürümeyi öğrenmek bir yön tayin ederek <b>belirli</b>, <b>amaçlı</b> veya <b>hedeflenen</b> bir doğrultuda adım atmayı gerektirir.",
         "Donem": 2
     },
     {
@@ -4897,6 +5122,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "<b>Eksen</b> (merkezi doğrultu), <b>rota</b> (hareketin izlediği güzergâh) ve <b>yol</b> (izlenen hat), uzaydaki hareketin veya hizalamanın <b>doğrultusunu</b> tanımlayan kavramlardır. Bu nedenle hepsi, temel olarak <b>Yön</b> kavramıyla ilişkilidir.",
         "Donem": 2
     },
     {
@@ -4917,6 +5143,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 5,
+        "Aciklama": "Bu tür ifadeler ('Nerede?', 'Nereye?', 'Hangi köşe?'), düşünce sistemimizde <b>mekansal oryantasyon</b> (uzaysal yerleşim) kurmamızı sağlar. Bu sorular, bir referans noktasına göre bir nesnenin <b>konumunu</b> ve <b>yönünü</b> belirleme ihtiyacından doğar. En kapsayıcı kavram <b>Yön</b>dür.",
         "Donem": 2
     },
     {
@@ -4937,6 +5164,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Bir yüzeyde aynı yönde konumlanmış görsel öğeler: I. <b>Derinlik</b> (perspektif ve yakınlık/uzaklık illüzyonu) ve III. <b>Hareket</b> (görsel akış, ritim, dinamizm) algısı yaratır. Renk (II) ise yönün neden olduğu bir kavram değil, yön ile birlikte çalışan bir tasarım öğesidir. Bu nedenle cevap I ve III olmalıdır.",
         "Donem": 2
     },
     {
@@ -4957,6 +5185,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Yön ve renk arasındaki ilişki, tasarımlarda genellikle <b>derinlik</b>, <b>hız</b>, <b>duygusal sıcaklık</b> (sıcak/soğuk), <b>dinamizm</b> veya <b>sükûnet</b> gibi izlenimler yaratır. Yanlış olan izlenim, tamamen alakasız veya fiziki bir durumu belirten bir kavramdır (örneğin, malzemelerin kimyasal bileşimini veya akustik kalitesini belirlemesi gibi izlenimler yaratmaz).",
         "Donem": 2
     },
     {
@@ -4977,6 +5206,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 4,
+        "Aciklama": "Grafik üründe yön, okuyucuyu yönlendiren bir <b>rota</b> işlevi görür, görsel hiyerarşiyi destekler ve dinamik bir etki yaratır. Yön kavramının etkinliğine aykırı olan ifade, yönün görsel karmaşa yarattığını veya izleyicinin göz hareketini kısıtladığını iddia eden ifadedir, zira yönün temel amacı düzen sağlamaktır.",
         "Donem": 2
     },
     {
@@ -4997,6 +5227,7 @@
         "DersId": 478,
         "OBSDersId": 82513,
         "CevapSira": 1,
+        "Aciklama": "Yön kavramı tasarım sürecinde <b>yapısal</b> bir rol üstlenir; görsel akışı, dengeyi, ritmi ve hiyerarşiyi belirler. Sadece dekoratif veya rastgele bir öğe değildir. Rolüne uygun olmayan bir açıklama, yönün bu <b>yapısal</b> ve <b>işlevsel</b> önemini küçümseyen veya sadece yüzeysel bir süsleme aracı olduğunu iddia eden bir açıklamadır.",
         "Donem": 2
     }
 ]

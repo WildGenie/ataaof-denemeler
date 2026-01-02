@@ -1,0 +1,1138 @@
+[
+    {
+        "SoruID": 132559,
+        "Aciklama": "Bu bir kibar izin isteme (request) diyaloğudur. 'May I see your passport, please?' ifadesine karşılık, B kişisi pasaportu sunmalı ve izin verdiğini belirtmelidir. En uygun ve yaygın kibar yanıt, pasaportu uzatırken söylenen 'Here you are.' (Buyurun) veya 'Certainly.' (Elbette) gibi bir ifadedir. Bu, hem izni onaylar hem de eylemi gerçekleştirir.<br/>'<b>May I</b>' yapısı, İngilizcede <b>kibar izin isteme</b> (asking for permission) veya <b>rica</b> için kullanılır."
+    },
+    {
+        "SoruID": 132569,
+        "Aciklama": "Cümledeki 'but I am not sure' (ama emin değilim) ifadesi, bahsedilen eylemin (üzgün hissetme) <b>zayıf bir ihtimal</b> (weak possibility) olduğunu gösterir. Bu durumda, boşluğa zayıf ihtimal belirten modal olan '<b>might</b>' veya 'may' getirilmelidir.<br/>Örn: He <b>might</b> feel sad, but I am not sure. (Üzgün hissedebilir, ama emin değilim.)"
+    },
+    {
+        "SoruID": 132590,
+        "Aciklama": "Cümle 'When you were a little girl' (Sen küçük bir kızken) ile başladığı için, boşluğa <b>geçmişteki bir yeteneği</b> (past ability) ifade eden bir modal gelmelidir. Bu yeteneği ifade etmek için 'can' fiilinin geçmiş hali olan '<b>could</b>' kullanılır.<br/>When you were a little girl, you <b>could</b> play the drums. (Küçük bir kızken, davul çalabilirdin.)"
+    },
+    {
+        "SoruID": 132602,
+        "Aciklama": "Cümle, Ayşe'nin aşçılık eğitimi aldıktan <b>sonra</b> (after cooking training) bir yetenek kazanacağını belirtiyor. Bu, <b>gelecekteki bir yeteneği</b> (future ability) ifade eder. Gelecekteki yeteneği belirtmek için '<b>will be able to</b>' yapısı kullanılır.<br/>Ayşe <b>will be able to</b> make a cake after cooking training. (Ayşe, aşçılık eğitiminden sonra kek yapabilecektir.)"
+    },
+    {
+        "SoruID": 132614,
+        "Aciklama": "Bu, bir posta ofisinde geçen kibar bir diyalogdur. Ahmet'in mektubu Ankara'ya göndermek istediğini ifade etmesi gerekmektedir. Kibar bir şekilde arzu veya isteği ifade etmek için '<b>would like to</b>' yapısı kullanılır (want to'dan daha kibardır). Boşluktan sonra 'to send' geldiği için 'would like' ifadesi uygundur.<br/>Ahmet: I <b>would like</b> to send it to Ankara. (Onu Ankara'ya göndermek isterim.)"
+    },
+    {
+        "SoruID": 208833,
+        "Aciklama": "Bu cümle, bir koşulun (taksi çağırmamak) gerçekleşmesi durumunda ortaya çıkacak <b>olası sonucu veya kesin tahmini</b> (likely consequence/prediction) ifade eden bir Koşul Cümlesi (First Conditional) yapısıdır. Bu tür bir sonucu belirtmek için '<b>will</b>' modalı kullanılır.<br/>You <b>will</b> miss the examination if you do not take a taxi now. (Şimdi taksiye binmezsen sınavı kaçıracaksın.)"
+    },
+    {
+        "SoruID": 214437,
+        "Aciklama": "İngilizcede '<b>can</b>', 'could', 'may', 'might' gibi <b>modal yardımcı fiillerden</b> sonra ana fiil daima yalın haliyle (base form / V1), yani <b>mastar (infinitive) halinde</b> ve 'to' eki almadan kullanılır.<br/>Bu nedenle boşluğa 'speak' getirilmelidir. (I can <b>speak</b> English fluently.)"
+    },
+    {
+        "SoruID": 214490,
+        "Aciklama": "'Yürüyebilir' ve 'konuşabilir' ifadeleri <b>genel yetenek</b> (general ability) bildirmektedir. İngilizcede genel yeteneği ifade etmek için '<b>can</b>' modalı kullanılır.<br/>Doğru çeviri: A baby <b>can</b> walk and talk. (Bir bebek yürüyebilir ve konuşabilir.)"
+    },
+    {
+        "SoruID": 214540,
+        "Aciklama": "Verilen kelimeler '<b>be able to</b>' yapısını kullanarak yetenek bildiren bir cümle oluşturmayı gerektirir. Kurallı cümle dizilimi şöyledir: Özne + be (çekimlenmiş) + able + to + V1 + Nesne.<br/>'She' öznesine uygun 'be' çekimi 'is' olduğundan, doğru sıralama: She <b>is able to speak French</b>. (O, Fransızca konuşabilir/konuşmaya muktedirdir.)"
+    },
+    {
+        "SoruID": 214563,
+        "Aciklama": "A kişisi 'Can I send these...' diyerek bir <b>hizmet talebinde</b> (request for service) bulunmuştur. B kişisi olumlu yanıt vermeli ve işlemi gerçekleştirmek için gerekli sonraki adımı sormalıdır (örneğin nereye gönderileceğini sormak).<br/>'<b>Yes, of course. Where would you like to send them?</b>' gibi bir yanıt, hem izni verir hem de diyaloğu mantıksal olarak devam ettirir."
+    },
+    {
+        "SoruID": 214599,
+        "Aciklama": "Türkçedeki 'olabilir' ifadesi, olayın gerçekleşme olasılığının düşük veya belirsiz olduğunu (<b>weak possibility</b>) gösterir. İngilizcede bu anlamı karşılamak için '<b>might</b>' veya 'may' modalı kullanılır.<br/>Doğru çeviri: Vincent <b>might be</b> in İstanbul tomorrow. (Vincent yarın İstanbul'da olabilir.)"
+    },
+    {
+        "SoruID": 232110,
+        "Aciklama": "Bu cümle, yazın tatile gitme planını veya olasılığını ifade etmektedir. Eğer bu kesin olmayan bir plan veya <b>orta düzeyde bir ihtimal</b> ise '<b>might</b>' veya 'may' kullanılır.<br/>We <b>might</b> go on a holiday this summer. (Bu yaz tatile gidebiliriz/gitme ihtimalimiz var.)"
+    },
+    {
+        "SoruID": 232114,
+        "Aciklama": "Boşluğa gelmesi gereken kelime, '...you pass me the salt, please?' yapısıyla <b>kibar bir rica</b> (polite request) oluşturmalıdır. Bu bağlamda, '<b>Could</b>' veya 'Would' en kibar ve yaygın kullanılan modal fiillerdir. 'Can' daha az kibardır.<br/><b>Could</b> you pass me the salt, please?"
+    },
+    {
+        "SoruID": 232120,
+        "Aciklama": "'Excuse me' ifadesi ve telefon görüşmesi yapmak için dışarı çıkma isteği, <b>izin isteme</b> (asking for permission) durumunu belirtir. İzin isterken en resmi ve kibar modal '<b>May</b>'dir (fakat 'Can' de sıkça kullanılır).<br/>Excuse me, <b>May</b> I go out to make a phone call?"
+    },
+    {
+        "SoruID": 232121,
+        "Aciklama": "Ada'nın sorusu Ayşe'nin kötü olduğu bir şeyi sormaktadır. Burak'ın cevabı Ayşe'nin iyi yüzemediğini belirtmelidir. <b>Yeteneksizliği</b> (lack of ability) ifade etmek için '<b>cannot</b>' veya kısaltması olan '<b>can’t</b>' kullanılır.<br/>Ayşe <b>can’t</b> swim very well."
+    },
+    {
+        "SoruID": 232122,
+        "Aciklama": "Cümle 'In the past' (geçmişte) ile geçmiş zamana ve 'were able to speak' ile geçmişteki <b>genel bir yeteneğe</b> (general past ability) atıf yapmaktadır.<br/>Doğru Türkçe çevirisi: <b>Geçmişte çoğu insan sadece tek bir yabancı dil konuşabiliyordu.</b>"
+    },
+    {
+        "SoruID": 232123,
+        "Aciklama": "'Could play' ifadesi, öznenin 3 yaşındayken sahip olduğu <b>geçmişteki yeteneği</b> (past ability) ifade eder. 'Could' genellikle geçmişteki genel yetenekler veya geçmişteki belirli bir andaki yetenekler için kullanılır.<br/>Cümlenin çevirisi: <b>O, 3 yaşındayken keman çalabiliyordu.</b>"
+    },
+    {
+        "SoruID": 232124,
+        "Aciklama": "'I like' ifadesinden sonra gelen yapı, mevcut işinde sahip olduğu 'seçme yeteneğini' (the ability to choose) sevdiğini belirtmelidir. İngilizcede 'like' fiilinden sonra mastar (infinitive: <b>to be able to</b>) veya gerund (gerund: <b>being able to</b>) yapısı kullanılabilir, ikisi de yeteneği ifade eder.<br/>I like <b>to be able to</b> choose my own working hours... (Kendi çalışma saatlerimi seçebilmeyi seviyorum.)"
+    },
+    {
+        "SoruID": 232125,
+        "Aciklama": "Hayrettin, dizüstü bilgisayarının nerede olduğunu soruyor. Mehmet, kesin bilmediği için <b>olasılık</b> (possibility) belirten bir ifade kullanmalıdır. Bu bağlamda 'might be', 'may be' veya 'could be' kullanılır.<br/>Örnek: It <b>might be</b> on the table. (Masanın üzerinde olabilir.)"
+    },
+    {
+        "SoruID": 232126,
+        "Aciklama": "Bu cümle 'Excuse me, sir' diyerek <b>resmi ve kibar izin isteme</b> (formal permission) durumunu belirtir (tıpkı Soru 232120 gibi). Resmi izin isterken kullanılan en uygun modal '<b>May</b>'dir.<br/>Excuse me, sir. <b>May</b> I go out to have an urgent phone call?"
+    },
+    {
+        "SoruID": 232127,
+        "Aciklama": "Cümlede \"They look so alike\" (Birbirlerine çok benziyorlar) ifadesi, Sarp ve Alp'in kardeş olma ihtimalinin çok yüksek olduğunu, yani bu durumun mantıksal bir çıkarım sonucu kesinlik taşıdığını belirtmektedir. Bu tür güçlü mantıksal çıkarımlar (deduction) yapmak için İngilizcede <b>'must'</b> modal fiili kullanılır. 'Must' burada %99 olasılıkla doğru olan bir tahmini ifade eder ('olmalı'). Bu nedenle, cümleyi doğru tamamlayan ifade 'must' olmalıdır: \"Sarp and Âlp <b>must</b> be brothers.\""
+    },
+    {
+        "SoruID": 343413,
+        "Aciklama": "Cümle, Venessa Mae'nin geçmişte, 3 yaşındayken sahip olduğu bir <b>beceriyi</b> (keman çalma) ifade etmektedir. Geçmişteki genel yetenekleri ve becerileri belirtmek için <b>'could'</b> modal fiili kullanılır. 'Could', 'can' (yapabilmek) fiilinin geçmiş zaman halidir. Bu bağlamda, boşluğa getirilmesi gereken doğru modal 'could'dur: \"Venessa Mae <b>could</b> play the violin at the age of 3.\" Bu, onun o yaşta bu eylemi yapma yeteneğine sahip olduğunu gösterir."
+    },
+    {
+        "SoruID": 343415,
+        "Aciklama": "Diyalog, Alice'in bir memurdan (Officer) bir hizmet talep ettiğini göstermektedir. Memurun yanıtı (\"Sure. Where would you like to send it?\") Alice'in gönderim yapmakla ilgili bir <b>rica</b> (request) veya <b>işlem</b> (transaction) başlattığını ortaya koyar. Boş bırakılan yere, bir şey gönderip gönderemeyeceğini soran kibar bir rica cümlesi gelmelidir. Örneğin: \"<b>Could I send this letter/package, please?</b>\" gibi bir ifade, memurun yanıtına tam olarak uyar. İngilizcede kibar ricalar genellikle <b>'Could I...'</b> veya <b>'Can I...'</b> yapılarıyla yapılır."
+    },
+    {
+        "SoruID": 343418,
+        "Aciklama": "Cümle, spor yapmanın ve meditasyonun zihinsel (mental) ve fiziksel (physical) faydalarından bahsetmektedir. \"Mental and physical\" kelimelerinden sonra gelmesi gereken kelime, genellikle bu iki durumu kapsayan <b>sağlık</b> kavramıdır. Bu nedenle, boşluğu en iyi tamamlayacak kelime <b>'health'</b> (sağlık) kelimesidir. Cümle, bu aktivitelerin zihinsel ve fiziksel sağlığımız (our mental and physical <b>health</b>) için faydalı olduğunu vurgulamaktadır."
+    },
+    {
+        "SoruID": 132656,
+        "Aciklama": "Cümlede havaalanı güvenliğinde kimlik kartı gösterme zorunluluğu belirtilmektedir. Bu, güçlü bir kural veya gereklilik olduğu için boşluğa <b>'must'</b> veya <b>'have to'</b> getirilmelidir. Genellikle resmi ve yasal zorunluluklar için <b>'must'</b> veya <b>'have to'</b> kullanılır. Örnek: 'You <b>must</b> show your ID card...'"
+    },
+    {
+        "SoruID": 132719,
+        "Aciklama": "Cümle, havanın soğuk olması nedeniyle sıcak giyinme gerekliliğini/tavsiyesini ifade etmektedir. <b>'Should'</b>, tavsiye veya yapılması gerekeni belirtmek için kullanılır. 'She <b>should</b> dress warmly' ifadesi, bu durum için en uygun tavsiyeyi verir."
+    },
+    {
+        "SoruID": 132735,
+        "Aciklama": "Havanın yağmur yağacağı bilgisi verilmiştir ('It is going to rain'). Bu durum, dışarı çıkmama konusunda bir tavsiye veya uyarı gerektirir. <b>'Shouldn't'</b> (should not), yapılmaması gereken bir tavsiyeyi belirtmek için kullanılır. 'You <b>shouldn't</b> go shopping' (Alışverişe gitmemelisin) anlamını verir."
+    },
+    {
+        "SoruID": 132742,
+        "Aciklama": "Cümledeki 'but she did not' (ama yapmadı) kısmı, geçmişte yerine getirilmesi gereken bir zorunluluğun (ilaç alma) yerine getirilmediğini gösterir. Geçmişteki zorunlulukları ifade etmek için <b>'have to'</b> yapısının geçmiş zaman formu olan <b>'had to'</b> kullanılır. 'Burçin <b>had to</b> take her medicines...'"
+    },
+    {
+        "SoruID": 196947,
+        "Aciklama": "Cümle, kişinin kendini kötü hissetmesi üzerine sigarayı bırakma konusunda kendi kendine verdiği güçlü bir tavsiyeyi ifade eder. Sağlıkla ilgili güçlü tavsiyelerde veya kişisel zorunluluklarda <b>'should'</b> veya <b>'must'</b> kullanılır. <b>'Should'</b> (yapmalıyım/tavsiye) bu bağlamda yaygındır: 'I think I <b>should</b> stop smoking'."
+    },
+    {
+        "SoruID": 196952,
+        "Aciklama": "Bebeğin yeni uyumuş olması, sessiz olma konusunda anlık ve güçlü bir zorunluluk yaratır. Bu tür güçlü, acil zorunluluklar için genellikle <b>'must'</b> kullanılır. 'You <b>must</b> be quiet' (Sessiz olmalısın)."
+    },
+    {
+        "SoruID": 196957,
+        "Aciklama": "İlk cümledeki 'had better' (iyi olur) uyarısı, erken kalkma gerekliliğini ima eder. Boşluktan sonra gelen <b>'to'</b> edatı, burada <b>'have to'</b> yapısının kullanılmasını gerektirir. 'You <b>have</b> to get up early' (Erken kalkmak zorundasın/gerekir)."
+    },
+    {
+        "SoruID": 196962,
+        "Aciklama": "Yarın tatil olması ('holiday') okula gitme zorunluluğunun ortadan kalktığını belirtir. Zorunluluğun olmamasını ifade etmek için <b>'don't have to'</b> (yapmak zorunda değilim) kullanılır. 'I <b>don't have to</b> go to school'."
+    },
+    {
+        "SoruID": 196970,
+        "Aciklama": "Cümle, filmin 'fantastik' olduğu gerekçesiyle izlenmesi yönünde bir tavsiye içerir. <b>'Should'</b> gibi modal fiillerden sonra daima fiilin <b>yalın hali (base form - V1)</b> gelmelidir. Bu bağlamda, filmi izlemek anlamına gelen <b>'watch'</b> ya da <b>'see'</b> fiillerinin yalın hali kullanılır."
+    },
+    {
+        "SoruID": 196974,
+        "Aciklama": "Burada amaç, odanın sıcak olması nedeniyle pencerenin açılması için kibar bir ricada bulunmaktır. Kibar rica (polite request) yaparken genellikle <b>'Could'</b> veya <b>'Would'</b> kullanılır. <b>'Could'</b>, rica için en yaygın ve kibar modal yardımcı fiillerden biridir."
+    },
+    {
+        "SoruID": 196978,
+        "Aciklama": "Cümle, formu doldurma zorunluluğunu sorgulayan bir soru kalıbıdır. Eğer soru <b>'have to'</b> yapısıyla sorulacaksa, geniş zamanda <b>'Do I have to'</b> şeklinde kurulur. Eğer <b>'Must'</b> kullanılacaksa, 'Must I fill in this form?' denir. Yaygın kullanım <b>'Do I have to'</b> şeklindedir."
+    },
+    {
+        "SoruID": 196981,
+        "Aciklama": "Patronun öfkeli olması durumu, gelme konusunda güçlü bir uyarı veya tavsiye gerektirir. <b>'Had better'</b>, genellikle tehlikeli veya olumsuz sonuçları olabilecek bir durumdan kaçınmak için verilen acil ve güçlü bir uyarı (warning) ifade eder. 'You <b>had better</b> appear' (Gelsen iyi olur/Gelmende fayda var)."
+    },
+    {
+        "SoruID": 196991,
+        "Aciklama": "Çok fazla işi olması, bu işleri yarına kadar bitirme zorunluluğu olduğunu gösterir (dış kaynaklı bir zorunluluk). Tekil özne (She) ile zorunluluk ifade etmek için <b>'has to'</b> kullanılır. 'She <b>has to</b> finish them until tomorrow'."
+    },
+    {
+        "SoruID": 196999,
+        "Aciklama": "Cümledeki 'please' (lütfen) kelimesi, kibar bir rica (polite request) yapıldığını gösterir. Rica etmek için en sık kullanılan modal fiiller <b>'Would'</b> ve <b>'Could'</b> dur. '<b>Would</b> you help me lift this box, please?'"
+    },
+    {
+        "SoruID": 208853,
+        "Aciklama": "Annenin yaşlı ve yorgun olması, ona yardım etme konusunda güçlü bir ahlaki zorunluluk veya görev (duty) yaratır. Güçlü içsel veya ahlaki zorunluluklar için <b>'must'</b> veya <b>'ought to'</b> kullanılır. 'I <b>must</b> help my mother'."
+    },
+    {
+        "SoruID": 208860,
+        "Aciklama": "İşyerinde üniforma giyme zorunluluğu, dış bir kuraldan (işyeri) kaynaklanan bir mecburiyettir. Üçüncü tekil şahıs öznesi (She) ile dış zorunlulukları belirtmek için <b>'has to'</b> kullanılır. 'She <b>has to</b> wear a uniform at work'."
+    },
+    {
+        "SoruID": 214499,
+        "Aciklama": "Verilen Türkçe ifade, tavsiye/nasihat alma amacını belirtmektedir. İngilizcede tavsiye sorarken kullanılan modal fiil <b>'Should'</b> dur. 'Bu ilacı almalı mıyım?' cümlesinin İngilizce karşılığı '<b>Should I take this medicine?</b>' olmalıdır."
+    },
+    {
+        "SoruID": 214579,
+        "Aciklama": "Karışık verilen kelimelerden anlamlı ve kurallı bir cümle oluşturulmalıdır. Cümle, yarın erken kalkma zorunluluğunu ifade etmelidir ve <b>'have to'</b> yapısını içerir. Doğru sıralama: Özne (I) + Zorunluluk (have to) + Fiil (wake up) + Zarflar (early tomorrow). '<b>I have to wake up early tomorrow.</b>'"
+    },
+    {
+        "SoruID": 214600,
+        "Aciklama": "Cümledeki 'better go' ifadesi, bu yapının eksik kısmının <b>'had'</b> olduğunu gösterir. <b>'Had better'</b>, bir durumun aciliyeti veya olumsuz sonuçları nedeniyle hemen yapılması gerekeni ifade eden güçlü bir tavsiye/uyarıdır. 'I <b>had</b> better go!'"
+    },
+    {
+        "SoruID": 214626,
+        "Aciklama": "Cümle, <b>'Could you... please?'</b> yapısıyla kurulmuş kibar bir ricalardır. Modal fiillerden sonra daima fiilin <b>yalın hali (base form - V1)</b> kullanılır. Pencere bağlamında 'açmak' anlamına gelen <b>'open'</b> fiilinin yalın hali boşluğu tamamlar. 'Could you <b>open</b> the window, please?'"
+    },
+    {
+        "SoruID": 343422,
+        "Aciklama": "Bu cümle, kütüphane gibi sessizliğin esas olduğu bir ortamda gürültü yapmanın <b>kesinlikle yasak</b> olduğunu ifade etmektedir. Yasaklama bildiren güçlü olumsuz zorunluluk ifadesi <b>'mustn't'</b> (must not) ile sağlanır. 'Shhhh!' uyarısı da bu yasağın şiddetini pekiştirir.<br/>'You mustn't make noise in the library' cümlesi, \"Kütüphanede gürültü yapmamalısın/yapman yasaktır\" anlamına gelir."
+    },
+    {
+        "SoruID": 343423,
+        "Aciklama": "Bu cümle, ehliyet alabilmek için 18 yaşında olma zorunluluğunu ifade etmektedir. Bu tür <b>genel kuralları veya yasal zorunlulukları</b> belirtmek için İngilizcede <b>'must'</b> veya <b>'have to'</b> modal fiilleri kullanılır.<br/>Doğru cevap, zorunluluk bildiren bir yapıdır ('must' veya 'have to' infer edilmiştir). 'You must be 18...' ifadesi, \"Ehliyet almak için 18 yaşında olman gerekir/zorunludur\" anlamına gelir ve bu bir gereklilik (necessity) bildirir."
+    },
+    {
+        "SoruID": 343427,
+        "Aciklama": "Mağaza görevlisi, Sarah'ya eteği denemek isteyip istemediğini <b>'Would you like to try it on?'</b> sorusuyla nezaketle teklif etmektedir. Sarah, hemen ardından soyunma odalarının nerede olduğunu sorması (Where are the changing rooms?) teklifi kabul ettiğini gösterir.<br/>Bu nedenle boşluğa, teklifi kabul eden <b>'Yes, I would.'</b> veya <b>'Yes, please.'</b> gibi olumlu bir ifade getirilmelidir.<br/>Bu ifade, alışveriş diyaloglarında teklifleri kabul etme kalıbıdır."
+    },
+    {
+        "SoruID": 132752,
+        "Aciklama": "Cümle, eylemin **'yesterday' (dün)** gerçekleştiğini gösteren bir zaman zarfına sahiptir. Edilgen (Passive) yapı (be + V3) ve geçmiş zaman gereklidir. 'The wall' (duvar) tekil özne olduğu için, boşluğa **Geçmiş Zaman Edilgen (Past Simple Passive)** yapısının tekil yardımcı fiili olan **'was'** getirilmelidir. (The wall **was** painted by house painter yesterday.)"
+    },
+    {
+        "SoruID": 132770,
+        "Aciklama": "Cümle, eylemin **'every year' (her yıl)** gerçekleştiğini gösteren bir zaman zarfı içerir, bu da **Geniş Zaman Edilgen (Present Simple Passive)** yapısını gerektirir. Soru formunda olduğumuz için yardımcı fiil (is/are) başa gelir. Özne 'they' (çoğul) olduğu için doğru yardımcı fiil **'Are'** olmalıdır. (Are they invited to the meetings every year?)"
+    },
+    {
+        "SoruID": 132789,
+        "Aciklama": "Cümle, eylemin **'tomorrow' (yarın)** gerçekleşeceğini belirterek **Gelecek Zaman Edilgen (Future Simple Passive)** yapısını gerektirir. Edilgen Gelecek Zamanın soru yapısı şöyledir: Wh-word + **will** + özne + **be** + V3. Boşluğa gelmesi gereken yardımcı fiil **'will'**dir. (When **will** the policies be announced by the government tomorrow?)"
+    },
+    {
+        "SoruID": 132796,
+        "Aciklama": "Cümle, bir koşulun (if you don’t study hard) gelecekteki olumsuz sonucunu edilgen olarak belirtmektedir. **Gelecek Zaman Edilgenin (Future Simple Passive)** olumsuz yapısı kullanılır: özne + **will not be** + V3 (finished/done). Bu nedenle boşluğa **'won't be finished'** (veya done) gibi bir ifade gelmelidir."
+    },
+    {
+        "SoruID": 197006,
+        "Aciklama": "Verilen cümle **Şimdiki Zaman Etken (Present Continuous Active)** yapısındadır. Bunu edilgen hale (Passive Voice) çevirirken, nesne (our house) yeni özne olur. Yapı: Öznenin şimdiki zaman yardımcı fiili (is) + **being** + fiilin üçüncü hali (**V3**). Doğru edilgen form: Our house **is being cleaned** at the moment."
+    },
+    {
+        "SoruID": 197008,
+        "Aciklama": "Eylem **'every month' (her ay)** gerçekleştiği için **Geniş Zaman Edilgen (Present Simple Passive)** yapısı kullanılmalıdır. 'My car' tekil özne olduğu için yardımcı fiil olarak **'is'** gelmelidir. Yapı: Subject + **is** + V3 (washed). (My car **is** washed every month.)"
+    },
+    {
+        "SoruID": 197012,
+        "Aciklama": "Cümlede **'yesterday' (dün)** ifadesi bulunduğu için **Geçmiş Zaman Edilgen (Past Simple Passive)** yapısı gereklidir. 'The game' tekil özne olduğu için yardımcı fiil olarak **'was'** ve ardından ana fiilin üçüncü hali (V3) gelmelidir. Örneğin: **was stopped**."
+    },
+    {
+        "SoruID": 197016,
+        "Aciklama": "Cümledeki **'now' (şimdi)** ifadesi, eylemin **Şimdiki Zaman Edilgen (Present Continuous Passive)** yapısında olduğunu gösterir. Tekil özne 'My son' için gerekli yapı: **is being** + V3. (My son **is being taken** to his school now.)"
+    },
+    {
+        "SoruID": 197019,
+        "Aciklama": "Cümle, **'always' (her zaman)** ve **'for breakfast' (kahvaltı için)** ifadeleriyle bir alışkanlığı veya genel durumu sorgulamaktadır (Geniş Zaman Edilgen). 'Tea' (çay) sayılamayan tekil bir isim olduğu için ilk boşluğa **'Is'** gelir. İkinci boşluğa ise fiilin üçüncü hali (V3), örneğin **'made'** veya **'prepared'** gelmelidir."
+    },
+    {
+        "SoruID": 197024,
+        "Aciklama": "Cümle, **'now' (şimdi)** ifadesi nedeniyle **Şimdiki Zaman Edilgen (Present Continuous Passive)** yapıdadır. Bu yapının soru formunda, 'are' ve 'V3' (watered) arasında kalan kısım **'being'** olmalıdır. Yapı: Why + are + özne + not + **being** + V3. (Assumed answer: being)"
+    },
+    {
+        "SoruID": 197026,
+        "Aciklama": "Cümledeki **'yesterday' (dün)** ifadesi ve 'not' kullanımı, **Geçmiş Zaman Edilgen Olumsuz (Past Simple Passive Negative)** yapısını gerektirir. 'The trees' çoğul özne olduğu için ilk boşluğa **'were'** (were not), ikinci boşluğa ise ana fiilin üçüncü hali (**V3**), örneğin **planted** veya **watered** gelmelidir."
+    },
+    {
+        "SoruID": 197031,
+        "Aciklama": "Diyalogda B kişisinin cevabı (They are 5 TL each), sorunun fiyat hakkında olduğunu göstermektedir. İngilizcede fiyat sormak için kullanılan kalıp ifade **'How much'** dır."
+    },
+    {
+        "SoruID": 197037,
+        "Aciklama": "Cümle, Mimar Sinan tarafından inşa edilen **Selimiye'den** bahsetmektedir. Selimiye, **cami (Mosque)** olduğu için, boşluğa bu ismi tamamlayacak kelime gelmelidir. Edilgen yapı (**was built**) geçmişteki tamamlanmış bir eylemi doğru bir şekilde ifade etmektedir. (The Selimiye **Mosque** was built...)"
+    },
+    {
+        "SoruID": 197043,
+        "Aciklama": "Cümle, **modal fiil 'couldn’t'** ile **Edilgen Yapıyı (Passive Voice)** birleştirmektedir (couldn’t be persuaded). Bu, geçmişte bir eylemin gerçekleştirilemediğini belirtir. **'Persuaded'** kelimesi 'ikna etmek' anlamına gelir. Doğru çeviri: O, arazisini satması için **hiç kimse tarafından ikna edilemedi**."
+    },
+    {
+        "SoruID": 208882,
+        "Aciklama": "Cümledeki **'yesterday' (dün)** ifadesi, **Geçmiş Zaman Edilgen (Past Simple Passive)** yapısını gerektirir. 'The room' tekil özne olduğu için yardımcı fiil **'was'** ve ardından V3 (örneğin **cleaned**) gelmelidir. (The room **was cleaned** yesterday.)"
+    },
+    {
+        "SoruID": 208894,
+        "Aciklama": "Etken cümle **Geniş Zaman (Present Simple Active)** olduğu için, olumsuz edilgen yapısı **Geniş Zaman Edilgen Olumsuz (Present Simple Passive Negative)** olmalıdır. Yeni özne 'The flowers' (çoğul) olduğu için yapı: **are not** + V3 (watered). Doğru cevap: **The flowers are not watered weekly.**"
+    },
+    {
+        "SoruID": 208898,
+        "Aciklama": "Cümle, **'yesterday' (dün)** ifadesi nedeniyle **Geçmiş Zaman Edilgen (Past Simple Passive)** yapısını gerektirir. 'The dishes' çoğul özne olduğu için yardımcı fiil **'were'** ve ardından V3 (örneğin **washed**) gelmelidir. (The dishes **were washed** yesterday.)"
+    },
+    {
+        "SoruID": 214609,
+        "Aciklama": "Cümledeki **'everyday' (her gün)** ifadesi ve 'is' yardımcı fiili, yapının **Geniş Zaman Edilgen (Present Simple Passive)** olduğunu gösterir. Bu yapıda 'is'den sonra ana fiilin **üçüncü hali (V3)** gelmelidir. 'Clean' fiilinin V3 hali **'cleaned'** dir."
+    },
+    {
+        "SoruID": 214657,
+        "Aciklama": "Cümledeki **'yesterday' (dün)** ifadesi ve fiilin üçüncü hali (watered), yapının **Geçmiş Zaman Edilgen (Past Simple Passive)** olduğunu gösterir. Tekil özne 'The tree' için kullanılması gereken yardımcı fiil **'was'** dır."
+    },
+    {
+        "SoruID": 343435,
+        "Aciklama": "Cümledeki **'last week' (geçen hafta)** ifadesi, **Geçmiş Zaman Edilgen Soru (Past Simple Passive Question)** yapısını gerektirir. 'Your house' tekil özne olduğu için ilk boşluğa **'Was'** yardımcı fiili, ikinci boşluğa ise fiilin üçüncü hali (V3), örneğin **'cleaned'** veya **'painted'** gelmelidir."
+    },
+    {
+        "SoruID": 343448,
+        "Aciklama": "Bu cümle, bir kişiye iş aramaya devam etmesi için verilen motivasyonel bir ifadedir ve başarılı olacağına dair bir güvence içerir. Cümlede boş bırakılan yere, 'bir süreçten sonra, sonunda' anlamını verecek bir zaman zarfı gelmelidir. Varsayarsak, doğru cevabın <b>eventually</b> (sonunda, nihayetinde) olduğunu kabul ederiz. <b>Eventually</b> zarfı, bir çaba veya zaman geçtikten sonra beklenen sonucun gerçekleşeceğini belirtir.<br/>Cümlenin tamamı bu durumda: \"Don't stop looking for a job. I'm sure you will find a good job <b>eventually</b>.\" olur.<br/>Bu ifade, <b>azim ve sabır</b> sonucunda hedefe ulaşılacağını vurgulayan yaygın bir İngilizce yapısıdır."
+    },
+    {
+        "SoruID": 132803,
+        "Aciklama": "Cümlede yer alan <b>\"now\"</b> zarfı eylemin <b>şimdiki zamanda</b> gerçekleştiğini gösterir. Bu bir <b>Edilgen Çatı (Passive Voice)</b> cümlesi olduğundan, şimdiki zaman kuralı, özneye uygun <b>am/is/are + being + V3</b> şeklindedir. Özne \"The car\" (tekil) olduğu için boşluğa <b>\"is being\"</b> (onarılıyor) getirilmelidir."
+    },
+    {
+        "SoruID": 132856,
+        "Aciklama": "Cümledeki yapı (V3, brought) bir <b>Edilgen Çatı (Passive Voice)</b> olduğunu göstermektedir. Olayın geçmişte gerçekleştiği varsayılarak <b>Geçmiş Zaman Edilgen Çatı (Simple Past Passive)</b> kuralı uygulanır: Özne + <b>was/were + V3</b>. Özne \"A delicious Shish Kebab\" (tekil) olduğu için boşluğa <b>\"was\"</b> getirilerek cümle \"Lezzetli bir Şiş Kebap garson tarafından Caner'e getirildi\" anlamını kazanır."
+    },
+    {
+        "SoruID": 132900,
+        "Aciklama": "Bu cümle <b>Şimdiki Zaman Tamamlanmış Edilgen Çatı (Present Perfect Passive)</b> yapısındadır. Yapı kuralı: Özne + <b>has/have + been + V3 (fiilin 3. hâli)</b>. Boşluğa gelmesi gereken kısım, fiilin üçüncü hâli olmalıdır (Örn: sent, written, delivered) ve doğru cevap seçeneği fiilin bu hâlidir. Örneğin, \"The letter has not been <b>sent</b>\" (Mektup gönderilmedi)."
+    },
+    {
+        "SoruID": 132911,
+        "Aciklama": "<b>Edilgen çatılı (Passive Voice)</b> bir cümlede, eylemi gerçekleştiren <b>faili (agent)</b> belirtmek için kullanılan yapı <b>\"by + fail\"</b> şeklindedir. Burada \"New electric cars are going to be produced\" (Yeni elektrikli arabalar üretilecek) ifadesinden sonra, üretim eylemini gerçekleştiren faili (robots) belirtmek için <b>\"by\" edatı</b> kullanılmalıdır."
+    },
+    {
+        "SoruID": 134264,
+        "Aciklama": "Verilen edilgen cümle (Passive Voice) Geçmiş Zaman Edilgen Çatı (Simple Past Passive) yapısındadır. Etken cümleye (Active Voice) çevirirken, edilgen cümledeki fail (agent) olan <b>\"Ahmet\"</b> özne yapılır ve fiil <b>Simple Past Tense V2</b> şeklinde kullanılır. Doğru etken cümle: <b>Ahmet gave Ayşe a birthday present</b> (Ahmet, Ayşe'ye bir doğum günü hediyesi verdi)."
+    },
+    {
+        "SoruID": 197051,
+        "Aciklama": "Cümlede yer alan <b>\"in the future\"</b> (gelecekte) zaman zarfı, cümlenin <b>Gelecek Zaman Edilgen Çatı (Future Simple Passive)</b> yapısında olması gerektiğini gösterir. Bu yapının kuralı: Özne + <b>will be + V3</b>'tür. Bu nedenle boşluğa <b>\"will be\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 197056,
+        "Aciklama": "<b>\"Soon\"</b> (yakında) ifadesi gelecekteki bir eylemi işaret eder. Bu cümle, planlanmış bir geleceği ifade eden <b>Going to Passive</b> yapısında tamamlanmalıdır. Özne \"A new research\" (tekil) olduğu için kural: Özne + <b>is going to be + V3</b> (carried out). Boşluğa <b>\"is going to be\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 197059,
+        "Aciklama": "<b>\"Tomorrow\"</b> (yarın) ifadesi gelecekteki bir eylemi işaret eder. Planlanmış veya kesinleşmiş eylemler için <b>Going to Passive</b> yapısı kullanılır. Özne \"This survey\" (tekil) olduğu için kural: Özne + <b>is going to be + V3</b> (conducted). Boşluğa <b>\"is going to be\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 197064,
+        "Aciklama": "<b>\"Soon\"</b> (yakında) ifadesi gelecekteki bir eylemi belirtir. Bu cümle <b>Gelecek Zaman Edilgen Çatı (Going to Passive)</b> yapısındadır. Özne \"My car\" (tekil) olduğu için kural: Özne + <b>is going to be + V3</b> (washed). Boşluğa <b>\"is going to be\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 197066,
+        "Aciklama": "Cümle <b>'Going to' Gelecek Zaman Edilgen Çatı</b> yapısındadır (\"is going to be taken\"). Bu, gelecekte yapılacak bir eylemi pasif olarak ifade eder. Doğru Türkçe çevirisi: \"Yaşlı adam yakında hastaneye <b>götürülecek</b>.\""
+    },
+    {
+        "SoruID": 197067,
+        "Aciklama": "Cümle, <b>'Will' Gelecek Zaman Edilgen Çatı</b> yapısında kurulmuş bir sorudur (\"Will the neighbours be invited\"). Bu, gelecekte gerçekleşecek bir eylemin sorulmasıdır. Doğru Türkçe çevirisi: \"Komşular bu Cumartesi partiye <b>davet edilecek mi?</b>\""
+    },
+    {
+        "SoruID": 197069,
+        "Aciklama": "Karışık verilen kelimelerden anlamlı bir <b>Gelecek Zaman Edilgen Çatı (Going to Passive)</b> cümlesi oluşturulmalıdır. İngilizcede temel cümle yapısı kuralına göre sıralama şu şekildedir: <b>Özne (this oil-painting)</b> + <b>Yardımcı Fiil (is going to be)</b> + <b>V3 (sold)</b> + Zaman/Yer zarfları (in the auction next month). Doğru cümle: \"This oil-painting is going to be sold in the auction next month.\""
+    },
+    {
+        "SoruID": 197071,
+        "Aciklama": "Cümle, Yiğit Sarp'ın sınavları geçmesi sonucunda kabul edildiğini belirtmektedir. Bu, geçmişte gerçekleşmiş bir olayın sonucunu gösterir ve <b>Geçmiş Zaman Edilgen Çatı (Simple Past Passive)</b> gerektirir. Özne \"he\" (tekil) olduğu için kural: <b>was + V3 (accepted)</b> kullanılmalıdır. Boşluğa <b>\"was\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 197073,
+        "Aciklama": "<b>\"Next month\"</b> (gelecek ay) ifadesi gelecekteki bir eylemi gösterir ve <b>Going to Passive</b> yapısını gerektirir. Özne \"Some of the surveys\" (bazı anketler, çoğul) olduğu için kural: Özne + <b>are going to be + V3</b> (carried out). Boşluğa <b>\"are going to be\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 197075,
+        "Aciklama": "<b>\"Tomorrow\"</b> (yarın) ifadesi gelecekteki bir eylemi belirtir. İngilizcede <b>'trousers'</b> (pantolon) kelimesi daima çoğul kabul edilir. Bu nedenle <b>Going to Passive</b> yapısında çoğul yardımcı fiil kullanılır. Kural: Özne + <b>are going to be + V3</b> (shortened). Boşluğa <b>\"are going to be\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 208959,
+        "Aciklama": "Cümlede yer alan <b>\"by tomorrow evening\"</b> (yarın akşama kadar) ifadesi, eylemin gelecekte belirli bir zamana kadar tamamlanmış olacağını gösterir. Bu durum <b>Gelecek Zaman Tamamlanmış Edilgen Çatı (Future Perfect Passive)</b> gerektirir. Soru formu kuralı: <b>Will + Özne + have been + V3</b>. Bu nedenle boşluklara sırasıyla <b>\"Will\"</b> ve <b>\"have been\"</b> gelmelidir."
+    },
+    {
+        "SoruID": 208961,
+        "Aciklama": "Randevunun yarın 09:00'da olması, planlanmış bir geleceği ifade eder. Bu cümle <b>Gelecek Zaman Edilgen Çatı (Going to Passive)</b> yapısındadır. Özne \"you\" olduğu için kural: Özne + <b>are going to be + V3 (given)</b>. Boşluğa <b>\"are going to be\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 208979,
+        "Aciklama": "Karışık verilen kelimelerden anlamlı bir <b>Gelecek Zaman Edilgen Çatı (Will Passive)</b> soru cümlesi oluşturulmalıdır. İngilizcede soru cümlesi yapısı kuralına göre sıralama: <b>Will + Özne (you) + be + V3 (given)</b> + Nesne/Tümleç. Doğru cümle: \"Will you be given penalty for passing through the red traffic light?\""
+    },
+    {
+        "SoruID": 214529,
+        "Aciklama": "Cümle <b>Gelecek Zaman Edilgen Çatı (Going to Passive)</b> yapısındadır. Bu yapının kuralı: Özne + <b>am/is/are + going to be + V3</b> şeklindedir. Özne \"The old man\" (tekil) olduğu için, boşluğa tekil özneye uygun olan <b>\"is\"</b> yardımcı fiili getirilmelidir."
+    },
+    {
+        "SoruID": 214637,
+        "Aciklama": "<b>\"Born\"</b> (doğmak) fiili daima <b>Geçmiş Zaman Edilgen Çatı (Simple Past Passive)</b> yapısında kullanılır (<b>was/were born</b>). Ayrıca \"in 1795\" ifadesi geçmişte kesin bir zamanı belirtir. Özne \"She\" (tekil) olduğu için boşluğa <b>\"was\"</b> getirilmelidir."
+    },
+    {
+        "SoruID": 214649,
+        "Aciklama": "Verilen aktif cümle (I will carry her boxes) <b>Gelecek Zaman (Future Simple)</b> yapısındadır. Bu yapıyı edilgen (Passive Voice) hâle dönüştürmek için aşağıdaki adımlar izlenir:<br/>1. Aktif cümlenin nesnesi (her boxes) edilgen cümlenin öznesi olur.<br/>2. Gelecek Zaman Edilgen yapısı <b>will be + fiilin 3. hâli (V3)</b> şeklinde kurulur. (carry fiilinin 3. hâli <b>carried</b>'dir).<br/>3. Aktif cümlenin öznesi (I) ise genellikle <b>by me</b> şeklinde cümlenin sonuna eklenir.<br/>Bu kurallara göre, doğru edilgen hâli <b>Her boxes will be carried by me.</b> olmalıdır."
+    },
+    {
+        "SoruID": 343450,
+        "Aciklama": "Cümlenin anlam bütünlüğüne bakıldığında, 'bisikletim yakında tamir edilecek, bu yüzden yeni bir tane almam gerekmiyor' anlamı çıkmaktadır. Cümlenin öznesi ('My bike'), tamir etme eylemini gerçekleştiren değil, bu eyleme maruz kalan (tamir edilen) olduğu için <b>edilgen yapı (Passive Voice)</b> kullanılmalıdır.<br/>'Soon' (yakında) kelimesi eylemin gelecekte gerçekleşeceğini gösterdiğinden, <b>Gelecek Zaman Edilgen Yapısı (Future Simple Passive)</b> kullanılmalıdır. Bu yapı <b>will be + fiilin 3. hâli (V3 - repaired)</b> şeklindedir. Dolayısıyla, boşluğa <b>will be repaired</b> getirilmelidir."
+    },
+    {
+        "SoruID": 343451,
+        "Aciklama": "Verilen cümle <b>Edilgen Yapıdadır (Passive Voice)</b>: Our newspaper is delivered...<br/>Edilgen cümlelerde, eylemi gerçekleştiren kişiyi veya şeyi (agent/fail) belirtmek için genellikle fiilin ardından <b>by</b> edatı kullanılır. Burada 'a 12-year-old boy' (12 yaşında bir çocuk), gazeteyi teslim etme eylemini gerçekleştiren faildir.<br/>Bu nedenle, boşluğa <b>by</b> getirilmelidir. Cümle, 'Gazetemiz 12 yaşındaki bir çocuk <b>tarafından</b> teslim edilir' anlamını tamamlar."
+    },
+    {
+        "SoruID": 343455,
+        "Aciklama": "Müşteri (Customer), istediği gömleğin siyah rengini sormuştur ('Have you got it in black?'). Satış danışmanı (Sales assistant), 'Hold on a minute, please.' (Bir dakika bekleyin, lütfen) diyerek müşteriden beklemesini istemektedir. Bu bekleme süresinde danışman, istenen ürünün stoğunu veya rengini kontrol edecektir.<br/>Bu bağlamda, danışmanın yapacağı kontrolü belirten, kibar bir ifade boşluğa gelmelidir. Örnek olarak <b>“I'll just check if we have it in stock.”</b> (Elimizde stoğu olup olmadığını hemen kontrol edeceğim.) gibi ifadeler, <b>müşteri hizmetleri diyaloglarında</b> ve alışveriş bağlamında yaygın olarak kullanılır."
+    },
+    {
+        "SoruID": 132253,
+        "Aciklama": "Bu cümle, genel olarak kabul görmüş bilimsel bir gerçeği veya bir davranışın kaçınılmaz sonucunu ifade ettiği için <b>Zero Conditional</b> (Sıfır Koşul Cümlesi) yapısını gerektirir. Zero Conditional yapısında hem 'if' cümlesi (If people eat fast food frequently) hem de ana cümle (it ............... risk) <b>Simple Present Tense</b> (Geniş Zaman) ile kurulur. 'It' (fast food yeme alışkanlığı) tekil üçüncü şahıs olduğu için fiil '-s' takısı almalıdır. Bu durumda boşluğa gelmesi gereken ifade 'increases' (arttırır) olacaktır. <br/>Kural: <b>If + Simple Present, Simple Present</b>."
+    },
+    {
+        "SoruID": 132264,
+        "Aciklama": "Ana cümleciğin 'she <b>would go</b>' yapısı, cümlenin <b>Type 2 Conditional</b> (İkinci Tip Koşul Cümlesi) olduğunu gösterir. Bu yapı, mevcut durumda gerçekleşmesi zor veya imkansız olan, hayali durumları veya tavsiyeleri ifade etmek için kullanılır. Type 2 yapısında 'if' cümleciğinde <b>Simple Past Tense</b> (Basit Geçmiş Zaman) kullanılır. <br/>Bu nedenle boşluğa Simple Past Tense olan bir fiil (örneğin, 'lived' veya 'traveled') gelmelidir. <br/>Kural: <b>If + Simple Past, would + V1</b>."
+    },
+    {
+        "SoruID": 132284,
+        "Aciklama": "Koşul cümlesi 'If you do not have any health problem' (eğer herhangi bir sağlık sorunun yoksa) <b>Simple Present Tense</b> ile kurulmuştur ve bu, gelecekteki veya mevcut bir <b>gerçekleşebilir</b> durumu ifade eder (<b>Type 1 Conditional</b>). Ana cümlecikte ise genellikle 'will' kullanılır ancak burada yetenek veya izin belirtildiği için <b>'can' (yapabilirsin)</b> modalı en uygunudur. <br/>Cümle, kişinin pilot olma yeteneğini sağlık şartına bağlı kılar. <br/>Kural: <b>If + Simple Present, can + V1</b>."
+    },
+    {
+        "SoruID": 197088,
+        "Aciklama": "Bu cümle, suyun 100 derecenin üzerinde kaynaması gibi, bilimsel olarak kanıtlanmış bir gerçeği ifade etmektedir. Genel geçerli gerçekler için <b>Zero Conditional</b> (Sıfır Koşul Cümlesi) kullanılır. Bu yapıda hem 'if' cümleciği hem de ana cümleciği <b>Simple Present Tense</b> (Geniş Zaman) ile kurulur. <br/>Ana cümle zaten Simple Present ('it boils') olduğu için, koşul cümleciği de Simple Present olmalıdır: 'If you <b>heat</b> water over 100 degrees Celcius...'. <br/>Kural: <b>If + Simple Present, Simple Present</b>."
+    },
+    {
+        "SoruID": 197093,
+        "Aciklama": "Bu cümle, buzun ısınması durumunda erimesi gibi, doğal ve her zaman geçerli olan bir sonucu veya gerçeği ifade eder. Bu nedenle <b>Zero Conditional</b> kullanılır. Koşul cümlesi Simple Present ('If you heat ice') olduğundan, ana cümle de Simple Present olmalıdır. <br/>'It' (buz) tekil olduğu için fiil '-s' takısı almalıdır: 'it <b>melts</b>' (erir). <br/>Kural: <b>If + Simple Present, Simple Present</b>."
+    },
+    {
+        "SoruID": 197096,
+        "Aciklama": "Bu ifade, şiddetli yağmur yağmasının erozyona yol açması gibi, genel olarak kabul gören ve sürekli tekrar eden bir sonucu veya doğal bir ilişkiyi gösterir. Bu yapı <b>Zero Conditional</b>'dır. Koşul cümlesi Simple Present ('If it rains a lot') olduğu için, sonuç cümlesi de Simple Present olmalıdır. <br/>'Erosion' tekil olduğu için, ana fiil '-s' takısı almalıdır (örneğin, 'starts' veya 'increases'). <br/>Kural: <b>If + Simple Present, Simple Present</b>."
+    },
+    {
+        "SoruID": 197099,
+        "Aciklama": "Koşul cümlesi <b>Simple Present</b> ('If I arrive at home earlier') yapısında olduğu için, bu cümle gerçekleşme ihtimali yüksek olan gelecekteki bir durumu ve sonucunu ifade eden <b>Type 1 Conditional</b> (Birinci Tip Koşul Cümlesi)'dir. <br/>Ana cümlede, gelecekteki sonucu belirtmek için <b>Future Simple</b> (will + V1) yapısı kullanılır. <br/>Bu durumda boşluğa gelmesi gereken ifade 'will prepare' veya 'will cook' olmalıdır. <br/>Kural: <b>If + Simple Present, will + V1</b>."
+    },
+    {
+        "SoruID": 197104,
+        "Aciklama": "Cümle, <b>Type 1 Conditional</b> yapısında bir soru cümlesidir: 'If your parents decide (Simple Present), will you go (Future Simple)'. Bu yapı, gelecekte gerçekleşebilecek gerçek bir durumu sorar. <br/>Doğru çeviri: 'Eğer ebeveynlerin Londra'ya taşınmaya karar verirse, onlarla birlikte oraya gidecek misin?'"
+    },
+    {
+        "SoruID": 197109,
+        "Aciklama": "Cümle, 'If I were you' (Senin yerinde olsaydım) ifadesini içerir ve <b>Type 2 Conditional</b> yapısındadır (If + Simple Past, would + V1). Bu yapı, gerçek olmayan (hayali) bir mevcut durumu veya tavsiyeyi ifade etmek için kullanılır. <br/>Doğru çeviri: 'Senin yerinde olsaydım, aynı hatayı yapmazdım.'"
+    },
+    {
+        "SoruID": 197112,
+        "Aciklama": "Cümle, 'If I were you' (Senin yerinde olsaydım) ifadesiyle başlayan bir <b>Type 2 Conditional</b> yapısıdır ve genellikle tavsiye vermek için kullanılır. Yapı: If + Simple Past (were), would + V1 (buy). <br/>Doğru çeviri: 'Senin yerinde olsaydım, ona hoş/güzel bir hediye alırdım.' (Hayali bir durumu ifade eder.)"
+    },
+    {
+        "SoruID": 197116,
+        "Aciklama": "Cümle, 'If he remembered (Simple Past), he would celebrate (would + V1)' yapısıyla kurulmuş <b>Type 2 Conditional</b> bir cümledir. Bu yapı, <b>mevcut durumda gerçek olmayan</b> (unreal present) bir koşulu ifade eder (yani, şu anda doğum gününü hatırlamıyor). <br/>Doğru çeviri: 'Eğer senin doğum gününü hatırlasaydı, doğum gününü kutlardı.' (Ancak hatırlamıyor)."
+    },
+    {
+        "SoruID": 197120,
+        "Aciklama": "Shelby'nin cevabının ana cümlesi 'I <b>can go</b> to London in summer' (Yazın Londra'ya gidebilirim) bir sonuç ve olasılık belirtmektedir. Bu, <b>Type 1 Conditional</b> yapısını (gerçekleşebilir gelecek) işaret eder. Koşul cümlesi Simple Present olmalıdır. <br/>Yüksek lisans derecesini bu dönem bitirme eylemi (finish/complete), gelecek eylemin koşuludur. <br/>Boşluğa 'finish' veya 'complete' fiilinin Simple Present hali gelmelidir: 'If I <b>finish</b> my master’s degree...'. <br/>Kural: <b>If + Simple Present, will/can + V1</b>."
+    },
+    {
+        "SoruID": 197125,
+        "Aciklama": "Ana cümlecikteki 'I <b>would / could invite</b> him' ifadesi <b>Type 2 Conditional</b> yapısını gösterir. Ayrıca cümlenin sonunda yer alan 'but I don’t know his number' (ama numarasını bilmiyorum) ifadesi, bu durumun <b>mevcut bir gerçekliğe aykırı</b> olduğunu kesinleştirir. <br/>Type 2 yapısında 'if' cümleciği Simple Past Tense olmalıdır. <br/>Boşluğa 'know' fiilinin geçmiş hali gelmelidir: 'If I <b>knew</b> Ahmet’s phone number...'. <br/>Kural: <b>If + Simple Past, would/could + V1</b>."
+    },
+    {
+        "SoruID": 209073,
+        "Aciklama": "Ana cümlecikteki 'you <b>would get</b> the job' yapısı <b>Type 2 Conditional</b> (İkinci Tip Koşul Cümlesi) olduğunu gösterir. Bu yapı, şimdiki zamanda gerçekleşmesi zor veya imkansız olan, hayali durumları ifade eder. <br/>Type 2 yapısında 'if' cümleciğinde <b>Simple Past Tense</b> kullanılır. <br/>Boşluğa 'prepare' fiilinin Simple Past hali gelmelidir: 'If you <b>prepared</b> for the presentation well...'. <br/>Kural: <b>If + Simple Past, would + V1</b>."
+    },
+    {
+        "SoruID": 209078,
+        "Aciklama": "Ana cümlecikteki 'they <b>would control</b> the whole world' yapısı <b>Type 2 Conditional</b> kullanıldığını gösterir. Robotların insan gibi davranması şu anda gerçekleşmeyen hayali bir durumdur (unreal present/future). <br/>Type 2 yapısında 'if' cümleciği <b>Simple Past Tense</b> olmalıdır. <br/>Boşluğa 'behave' veya 'think' gibi bir fiilin Simple Past hali gelmelidir: 'If robots <b>behaved</b> like human beings...'. <br/>Kural: <b>If + Simple Past, would + V1</b>."
+    },
+    {
+        "SoruID": 214601,
+        "Aciklama": "Bu cümle, düzenli egzersizin formda kalmak gibi genel geçerli ve her zaman doğru olan bir sonucunu ifade ettiği için <b>Zero Conditional</b> kullanılmalıdır. <br/>Her iki kısım da <b>Simple Present Tense</b> olmalıdır. 'You' öznelerine uygun olarak fiiller Simple Present kalır: <br/>If you <b>do</b> regular exercise, you <b>stay/become</b> fit. <br/>Kural: <b>If + Simple Present, Simple Present</b>."
+    },
+    {
+        "SoruID": 214614,
+        "Aciklama": "Ana cümlecikteki 'I <b>won't miss</b> the match' (kaçırmayacağım) ifadesi, olası bir gelecekteki sonuç veya planı gösterir ve <b>Type 1 Conditional</b> kullanılması gerektiğini belirtir. <br/>Type 1 yapısında, 'if' cümleciği <b>Simple Present Tense</b> olmalıdır. 'The bus' tekil üçüncü şahıs olduğu için fiil '-s' takısı almalıdır. <br/>Boşluğa 'arrives' veya 'comes' gelmelidir. <br/>Kural: <b>If + Simple Present, will + V1</b>."
+    },
+    {
+        "SoruID": 214615,
+        "Aciklama": "Cümle, 'If you pay (Simple Present), I will give (Future Simple)' yapısıyla kurulmuş bir <b>Type 1 Conditional</b>'dır. Bu, gelecekte gerçekleşmesi muhtemel olan gerçek bir teklifi veya anlaşmayı ifade eder. <br/>Doğru çeviri: 'Eğer nakit ödeme yaparsanız, size %10 indirim yapacağım.'"
+    },
+    {
+        "SoruID": 343460,
+        "Aciklama": "Koşul cümlesi 'If it is sunny tomorrow' (Yarın hava güneşliyse) Simple Present Tense ile kurulmuştur, ancak 'tomorrow' kelimesi gelecekteki bir koşulu ifade eder. Bu, gerçekleşme ihtimali olan bir gelecek planını anlatan <b>Type 1 Conditional</b> yapısını gerektirir. <br/>Ana cümlede, gelecekteki bir eylemi belirtmek için <b>Future Simple</b> (will + V1) kullanılır. <br/>Boşluğa 'will have' veya 'are going to have' gelmelidir. <br/>Kural: <b>If + Simple Present, will + V1</b>."
+    },
+    {
+        "SoruID": 132301,
+        "Aciklama": "I wish yapısı, mevcut durumdan duyulan pişmanlıkları veya gerçekleşmesi zor olan arzu ve istekleri ifade etmek için kullanılır. Eğer bir dilek şimdiki zaman veya gelecekle ilgiliyse (ki 'this summer' geleceğe işaret eder), 'wish' yapısından sonra <b>Simple Past Tense</b> veya <b>could/would + V1</b> kullanılır. Cümlenin mantığı bir eylemi gerçekleştirebilme arzusunu içerdiğinden, boşluğa 'could visit' gibi bir ifade gelmelidir. Bu, konuşmacının o eylemi gerçekleştirebiliyor olmayı dilediğini belirtir."
+    },
+    {
+        "SoruID": 132302,
+        "Aciklama": "Cümle, mevcut yağmurlu durumdan dolayı (It is so rainy) bir eylemin geçmişte yapılmamasından (yağmurluk almama) duyulan pişmanlığı ifade etmektedir. Geçmişteki bir eylemden duyulan pişmanlığı ifade etmek için 'I wish' yapısından sonra <b>Past Perfect Tense (had + V3)</b> kullanılır. Bu nedenle boşluğa 'had brought' (getirmiş olmayı dilerdim) gelmelidir. <br>Kullanılan yapı: I wish I <b>had brought</b> my raincoat."
+    },
+    {
+        "SoruID": 132314,
+        "Aciklama": "Cümle 'last week' (geçen hafta) gibi geçmişe ait kesin bir zaman ifadesi içerir ve sinemaya gidememiş olmaktan duyulan pişmanlığı belirtir. Geçmişteki gerçekleşmeyen bir durumdan duyulan pişmanlığı ifade etmek için 'I wish' yapısından sonra <b>Past Perfect Tense (had + V3)</b> kullanılır. Konuşmacı sinemaya gitmiş olmayı dilediği için boşluğa 'had gone to the cinema' gibi bir ifade gelmelidir."
+    },
+    {
+        "SoruID": 132341,
+        "Aciklama": "Cümle, şirketin şu anki finansal durumuyla (can’t afford) ilgili bir durumdan duyulan üzüntüyü ve bu durumun değişmesi arzusunu ifade eder. Mevcut bir yetersizlik ya da olumsuz durumla ilgili dilekleri belirtmek için 'I wish' yapısından sonra <b>could + V1</b> kullanılır. Şirketin risk almayı karşılayabilmesini dilediği için boşluğa 'could' gelmelidir. <br>Kullanılan yapı: I wish that the company <b>could</b> afford to take risk."
+    },
+    {
+        "SoruID": 197142,
+        "Aciklama": "Konuşmacı şu anda sıkılıyor (I feel really bored) ve okuyacak bir kitabı olmamasından yakınıyor. Mevcut durumda sahip olunmayan bir şey için dilek belirtmek amacıyla 'I wish' yapısından sonra <b>Simple Past Tense</b> kullanılır. Bu durumda 'sahip olmak' fiili (have) için Past Simple formu olan 'had' kullanılmalıdır. <br>Kullanılan yapı: I wish I <b>had</b> a book to read."
+    },
+    {
+        "SoruID": 197152,
+        "Aciklama": "Cümle, şu anda devam eden ve konuşmacıyı rahatsız eden bir durumdan (çok kar yağıyor) duyulan şikayeti ve bu durumun değişmesi dileğini ifade eder. Mevcut bir durumun veya alışkanlığın olmamasını dilemek için 'I wish' yapısından sonra <b>Simple Past Tense Negative (didn't + V1)</b> kullanılır. <br>Kullanılan yapı: I wish it <b>didn't snow</b> so much."
+    },
+    {
+        "SoruID": 197155,
+        "Aciklama": "Cümle, konuşmacının şu anda sahip olmadığı bir yeteneği (bilgisayar kullanabilme) edinmeyi dilediğini gösterir. Mevcut yetenek eksikliğini ifade eden dileklerde 'I wish' yapısından sonra <b>could + V1</b> kullanılır. Boşluğa 'could' gelmelidir. <br>Kullanılan yapı: I wish I <b>could</b> use a computer."
+    },
+    {
+        "SoruID": 197159,
+        "Aciklama": "Cümle, geçmişte gerçekleşen bir olaydan (dün konser vardı) bahsediyor ve konuşmacının bu konserden haberdar olmamasından duyduğu pişmanlığı ifade ediyor. Geçmişteki bir durumdan duyulan pişmanlığı belirtmek için <b>Past Perfect Tense (had + V3)</b> kullanılır. Bilmek (know) fiilinin Past Perfect formu 'had known'dur. <br>Kullanılan yapı: I wish I <b>had known</b> about the concert."
+    },
+    {
+        "SoruID": 197164,
+        "Aciklama": "Film korkunçtu (terrible) ifadesi, geçmişte yapılmış bir seçimden (konsere gitmeyip filme gitmek) pişmanlık duyulduğunu gösterir. Geçmişte farklı bir seçim yapmış olmayı dilemek için <b>Past Perfect Tense (had + V3)</b> kullanılır. Konsere gitmiş olmayı diledikleri için boşluğa 'had gone' gelmelidir. <br>Kullanılan yapı: I wish we <b>had gone</b> to the concert."
+    },
+    {
+        "SoruID": 197174,
+        "Aciklama": "Konuşmacı, gelecekteki bir zorunluluğa (yarın okula gitmek zorunda olma) dair bir dileği dile getiriyor. Mevcut veya gelecekteki bir zorunluluğun (have to) olmamasını dilemek için 'I wish' yapısından sonra genellikle <b>Simple Past Tense Negative</b> formu kullanılır. Bu durumda 'didn't have to' (gitmek zorunda olmasaydım) yapısı gereklidir. <br>Kullanılan yapı: I wish I <b>didn't</b> have to go to school tomorrow."
+    },
+    {
+        "SoruID": 197432,
+        "Aciklama": "Konuşmacı şu anda ayrılmak zorunda (I have to go) ve kalma imkanına sahip olmayı diliyor. Mevcut durumda gerçekleşme ihtimali olmayan veya mevcut yeteneğin ötesinde olan bir durumu dilemek için <b>could + V1</b> yapısı kullanılır. <br>Kullanılan yapı: I wish I <b>could</b> stay."
+    },
+    {
+        "SoruID": 197434,
+        "Aciklama": "Sınavda kalındığı ifadesi, geçmişteki bir eylemden (yeterince çalışmama) duyulan pişmanlığı gösterir. Geçmişteki pişmanlıkları ifade etmek için <b>Past Perfect Tense (had + V3)</b> kullanılır. Konuşmacı daha fazla çalışmış olmayı dilediği için 'had studied' ifadesi gelmelidir. <br>Kullanılan yapı: I wish I <b>had studied</b> more."
+    },
+    {
+        "SoruID": 197440,
+        "Aciklama": "Odanın gürültülü olması mevcut bir durumdur ve konuşmacı şu anda sahip olmadığı (kendi odası) bir şeye sahip olmayı diliyor. Mevcut durumda sahip olunmayan bir şey için dilek belirtmek amacıyla <b>Simple Past Tense</b> kullanılır. Sahip olmak (have) fiilinin Simple Past formu 'had'dir. <br>Kullanılan yapı: I wish I <b>had</b> my own room."
+    },
+    {
+        "SoruID": 209111,
+        "Aciklama": "Konuşmacı şu anda bir hediye alamıyor (can’t buy) çünkü yeterli parası yok (lack of possession). Mevcut durumda sahip olunmayan bir şeye sahip olmayı dilemek için <b>Simple Past Tense</b> kullanılır. Para (money) 'have' fiili ile ilişkilendirildiğinden, 'had' doğru cevaptır. <br>Kullanılan yapı: I wish I <b>had</b> enough money to buy it."
+    },
+    {
+        "SoruID": 214643,
+        "Aciklama": "Konuşmacı şu anda tatile gidemiyor (cannot go). Bu, mevcut bir yetersizlik ya da kısıtlamadır. Mevcut yetenek ya da imkan eksikliğini dile getirmek için 'I wish' yapısından sonra <b>could + V1</b> kullanılır. <br>Kullanılan yapı: I wish I <b>could</b> go."
+    },
+    {
+        "SoruID": 214646,
+        "Aciklama": "Konuşmacı, arkadaşının zorlu ödevine yardım etme yeteneğine sahip olmayı dilemektedir. Mevcut yetenek eksikliğini ifade eden dileklerde 'I wish' yapısından sonra <b>could + V1</b> kullanılır. <br>Kullanılan yapı: I wish I <b>could</b> help you."
+    },
+    {
+        "SoruID": 343468,
+        "Aciklama": "Konuşmacı kız kardeşini özlüyor ve onun şu anda (now) burada olmasını diliyor. 'Wish' yapısı ile mevcut durumun tersini dilemek için <b>Simple Past Tense</b> kullanılır. Özellikle 'to be' fiili kullanıldığında, tüm özneler için resmî dilde <b>were</b> kullanılması tercih edilir. <br>Kullanılan yapı: I wish she <b>were</b> here now."
+    },
+    {
+        "SoruID": 343469,
+        "Aciklama": "Arkadaşının bacağını kırması geçmişte gerçekleşmiş bir eylemdir. Konuşmacı, arkadaşının bu geçmiş eylem anında daha dikkatli olmamasından dolayı pişmanlık duymaktadır. Geçmişteki bir durum ya da eylemden duyulan pişmanlığı ifade etmek için <b>Past Perfect Tense (had + V3)</b> kullanılır. 'To be careful' (dikkatli olmak) fiilinin Past Perfect formu 'had been careful'dır. <br>Kullanılan yapı: I wish he <b>had been</b> more careful."
+    },
+    {
+        "SoruID": 132356,
+        "Aciklama": "Cümlede boş bırakılan yerden önceki isim (antecedent) <b>Dilara</b> bir kişidir. Virgülden sonra gelen kısım ise (studies hard) bu kişi hakkında ek bilgi veren, cümleden çıkarıldığında anlamı bozmayan bir <b>tanımlayıcı olmayan bağıl cümlecik</b> (Non-defining Relative Clause) başlatır. Bu cümlecikte Dilara, cümlenin <b>öznesi</b> (subject) konumundadır. Kişileri özne olarak niteleyen ve virgülle ayrılan yapılarda <b>who</b> kullanılır. (Örnek cevap: who)"
+    },
+    {
+        "SoruID": 132377,
+        "Aciklama": "Cümlede boş bırakılan yerden önceki isim (antecedent) <b>the woman</b> (kadın) bir kişidir. Bağıl cümlecikte (Robin married...) bu kişi, <b>nesne</b> (object) konumundadır (Robin onu evlendi). Bu durumda 'who' veya daha resmi olarak 'whom' kullanılabilir. Eğer cümlecik tanımlayıcı ise (virgül yok) <b>that</b> de kullanılabilir veya <b>relative pronoun atlanabilir</b>. Standart olarak kişiler için nesne konumunda <b>whom</b> veya <b>who</b> tercih edilir. (Örnek cevap: whom/who)"
+    },
+    {
+        "SoruID": 132389,
+        "Aciklama": "Cümlede boş bırakılan yerden önceki isim (antecedent) <b>Erzurum</b> bir <b>yer</b> ismidir. Cümlecik (there are historical places) bu yerde bir durumun varlığını belirtmektedir. Yerleri nitelemek için ve o yerde bir eylemin gerçekleştiğini belirtmek için <b>where</b> (burada) bağıl zarfı kullanılır. Ayrıca virgülden sonra geldiği için <b>Non-defining Relative Clause</b> kuralına uyar. (Örnek cevap: where)"
+    },
+    {
+        "SoruID": 132406,
+        "Aciklama": "Cümlede boş bırakılan yerden önceki isim (antecedent) <b>October</b> bir <b>zaman</b> ifadesidir. Cümlecik (I will be abroad) bu zamanda gerçekleşecek bir olayı belirtmektedir. Zaman ifadelerini nitelemek için ve virgülden sonra gelen tanımlayıcı olmayan cümleciklerde <b>when</b> (o zaman) bağıl zarfı kullanılır. (Örnek cevap: when)"
+    },
+    {
+        "SoruID": 197449,
+        "Aciklama": "Cümlede Ali bir kişidir ve virgülden sonra gelen bağıl cümlecikte (is my cousin) <b>özne</b> olarak görev yapmaktadır. Virgülden dolayı tanımlayıcı olmayan (non-defining) bir cümleciktir ve kişileri niteleyen özne konumunda <b>who</b> kullanılır. (Örnek cevap: who)"
+    },
+    {
+        "SoruID": 197452,
+        "Aciklama": "Cümlede boşluktan önceki isim (antecedent) <b>a car</b> (araba) bir <b>nesnedir</b>. Bağıl cümlecikte (has two doors) nesne <b>özne</b> konumundadır. Nesneleri özne olarak nitelemek için <b>which</b> veya <b>that</b> kullanılır. Virgül olmadığı için <b>defining relative clause</b> (tanımlayıcı bağıl cümlecik) oluşturur. (Örnek cevap: which/that)"
+    },
+    {
+        "SoruID": 197455,
+        "Aciklama": "Cümlede <b>a friend</b> bir kişidir. Bağıl cümlecikte (is very clever) arkadaş, cümlenin <b>öznesi</b> konumundadır. Kişileri özne olarak nitelemek için <b>who</b> veya tanımlayıcı cümleciklerde <b>that</b> kullanılır. (Örnek cevap: who/that)"
+    },
+    {
+        "SoruID": 197460,
+        "Aciklama": "Diyalogda aranan şey <b>a car</b> (bir araba) yani bir <b>nesnedir</b>. Boşluktan sonra gelen cümlecik (is strong and fast) bu nesnenin <b>özelliklerini</b> (özne konumunda) belirtir. Nesneleri tanımlayan özne durumundaki zamir <b>which</b> veya <b>that</b> olmalıdır. (Örnek cevap: which/that)"
+    },
+    {
+        "SoruID": 197466,
+        "Aciklama": "Cümle, <b>who</b> ile başlayan tanımlayıcı bir bağıl cümlecik içerir. Bu cümlecik (who steals from the rich and gives them to the poor), <b>a hero</b> (bir kahraman) ismini niteler. Doğru çeviri, bağıl cümlenin yüklemini (steals and gives) sıfatlaştırmalıdır. <br/>Çeviri: Robin, <b>zenginlerden çalan ve fakirlere veren bir kahramandır</b>."
+    },
+    {
+        "SoruID": 197471,
+        "Aciklama": "Cümlede <b>an animal</b> (hayvan/nesne) nitelenmektedir. Bağıl cümlecikte (makes milk) hayvan <b>özne</b> konumundadır. Hayvanları ve nesneleri özne olarak niteleyen zamir <b>which</b> veya <b>that</b>'tir. (Örnek cevap: which/that)"
+    },
+    {
+        "SoruID": 197475,
+        "Aciklama": "Cümlede <b>a person</b> (bir kişi) nitelenmektedir. Bağıl cümlecikte (drives a car) kişi <b>özne</b> konumundadır. Kişileri özne olarak niteleyen zamir <b>who</b> veya <b>that</b>'tir. (Örnek cevap: who/that)"
+    },
+    {
+        "SoruID": 197479,
+        "Aciklama": "Antecedent <b>Ankara</b> bir yer adıdır ve virgülden sonra gelen kısım (the capital city of Turkey) bir tanım veya eşdeğer bir bilgidir. Bu tür tanımlayıcı olmayan yapılarda, tamlama veya ek bilgi vermek için genellikle <b>which</b> kullanılır (genellikle 'which is' kısaltılarak). Bu durumda <b>which</b> Ankara'yı niteleyerek ek tanım sağlar. (Örnek cevap: which)"
+    },
+    {
+        "SoruID": 197484,
+        "Aciklama": "Cümle, <b>where</b> ile başlayan bir bağıl cümlecik içerir. <b>Sherwood Forest</b> (yer) adını niteleyen bu cümlecik (where Robin lived), yer isminden sonra gelir. Doğru çeviride, bu ifade sıfatlaştırılmış bir şekilde yer ismini tanımlamalıdır.<br/>Çeviri: Birçok insan, <b>Robin’in yaşadığı Sherwood Ormanı’nı ziyaret eder</b>."
+    },
+    {
+        "SoruID": 197490,
+        "Aciklama": "B kişisinin cevabı <b>Because</b> (Çünkü) ile başladığı için, A kişisinin bir <b>sebep</b> (reason) sorması gerekmektedir. Sebep sormak için kullanılan soru kelimesi <b>Why</b>'dır. (Örnek cevap: Why)"
+    },
+    {
+        "SoruID": 209141,
+        "Aciklama": "Cümlede <b>a fruit</b> (bir meyve) yani bir <b>nesne</b> nitelenmektedir. Bağıl cümlecikte (is yellow) meyve <b>özne</b> konumundadır. Nesneleri özne olarak nitelemek için <b>which</b> veya <b>that</b> kullanılır. (Örnek cevap: which/that)"
+    },
+    {
+        "SoruID": 209143,
+        "Aciklama": "Cümle, <b>who</b> ile başlayan tanımlayıcı bir bağıl cümlecik içerir. Bu cümlecik (who lived in different parts of England), <b>different Hoods</b> ismini niteler. <br/>Çeviri: <b>Tarihçiler</b>, İngiltere’nin farklı yerlerinde yaşamış farklı Hood’lar <b>buldular</b>."
+    },
+    {
+        "SoruID": 209145,
+        "Aciklama": "Cümlede <b>The school</b> (okul) nitelenmektedir. Okul bir yer olsa da, cümlecik <b>I go to</b> yapısını kullandığından, okul burada cümlede nesne (object) görevindedir ('I go to the school'). Yer adları nesne olarak kullanıldığında <b>which</b> veya <b>that</b> kullanılır ve çoğu zaman bu zamirler <b>atlanabilir</b>. (Örnek cevap: that/which)"
+    },
+    {
+        "SoruID": 214583,
+        "Aciklama": "Cümlede <b>a car</b> (araba) yani bir <b>nesne</b> nitelenmektedir. Bağıl cümlecikte (is strong and big) nesne <b>özne</b> konumundadır. Nesneleri özne olarak nitelemek için <b>which</b> veya <b>that</b> kullanılır. (Örnek cevap: which/that)"
+    },
+    {
+        "SoruID": 214656,
+        "Aciklama": "Cümlede <b>The teacher</b> (öğretmen) nitelenmektedir. Eğer boşluğa sadece bir kelime gelecekse, bu kişinin kim olduğunu tanımlayan bir bağıl cümlecik başlangıcı olmalıdır (The teacher <b>who is</b> from Erzurum...). Kişileri niteleyen özne konumunda <b>who</b> kullanılır. (Örnek cevap: who)"
+    },
+    {
+        "SoruID": 214663,
+        "Aciklama": "Cümlede <b>a student</b> (bir öğrenci) nitelenmektedir. Bağıl cümlecikte (has done his homework) öğrenci <b>özne</b> konumundadır. Kişileri özne olarak niteleyen zamir <b>who</b> veya <b>that</b>'tir. (Örnek cevap: who/that)"
+    },
+    {
+        "SoruID": 343479,
+        "Aciklama": "Bu cümle, kendisinden önceki isim olan 'school'u niteleyen bir <b>Relative Clause</b> (İlgi Cümlesi) yapısı gerektirmektedir. 'School' cansız bir varlık (yer veya nesne) olduğu için, boşluğa <b>'which'</b> veya <b>'that'</b> ilgi zamirlerinden biri getirilmelidir. Bu zamirler, yan cümlede ('was built last year') <b>özne</b> görevi görerek ana cümleyi tamamlar. Doğru cevap, 'which' veya 'that' olacaktır. Örnek: 'This is the school <b>which</b> was built last year.'"
+    },
+    {
+        "SoruID": 343483,
+        "Aciklama": "Cümledeki bağlam, Seyit Onbaşı'nın Çanakkale Savaşı'nda 275 kg ağırlığındaki silahları taşıyarak gösterdiği olağanüstü cesareti ve fedakarlığı vurgulamaktadır. Bu tür tarihi ve ulusal öneme sahip, cesaret gösteren kişilere <b>'hero'</b> (kahraman) denir. Bu nedenle, boşluğa <b>'hero'</b> kelimesi gelmelidir. 'Seyit Onbaşı' bir <b>ulusal kahramandır</b> (national hero)."
+    },
+    {
+        "SoruID": 149225,
+        "Aciklama": "Cümle, bahsedilen kişinin sahip olduğu akademik başarıyı (academic achievement) tanımlamaktadır. Bu nedenle, sahiplik (possession) ilişkisini kuran <b>Relative Pronoun</b> olan <b>whose</b> kullanılmalıdır. Whose, kendisinden önceki isim (person) ile kendisinden sonraki isim (academic achievement) arasında sahiplik bağını kurar."
+    },
+    {
+        "SoruID": 149549,
+        "Aciklama": "Cümlede 1453 yılı, Fatih Sultan Mehmet'in İstanbul'u fethettiği zamanı işaret eden bir <b>zaman ifadesi</b> (antecedent) olarak geçmektedir. Zaman ifadeleri için kullanılan <b>Relative Adverb</b>, <b>when</b>'dir. (1453 is the year when...)"
+    },
+    {
+        "SoruID": 149576,
+        "Aciklama": "Cümlede İstanbul, kardeşinin doğduğu <b>yeri</b> (place) belirtmektedir. Bir eylemin gerçekleştiği yeri tanımlayan ifadeler için <b>Relative Adverb</b> olan <b>where</b> kullanılır. (İstanbul, where his brother was born...)"
+    },
+    {
+        "SoruID": 149578,
+        "Aciklama": "Cümlede 'city' (şehir) cansız bir varlık veya yer olarak nitelenmekte ve cümlenin devamında gelen 'I really love' fiilinin <b>nesnesi</b> konumundadır. Cansız varlıklar veya nesne konumundaki yerler için <b>Relative Pronoun</b> olan <b>which</b> veya that kullanılır. (I really love the city -> which/that I really love.)"
+    },
+    {
+        "SoruID": 149727,
+        "Aciklama": "2016, yeğeninin doğduğu <b>yılı</b> (zaman) ifade etmektedir. Zaman belirten isimlerden (the year) sonra kullanılan <b>Relative Adverb</b> <b>when</b>'dir."
+    },
+    {
+        "SoruID": 235476,
+        "Aciklama": "Cümle, kolu kırılan adamı tanımlamaktadır. Adam (man) ve kol (arm) arasındaki <b>sahiplik ilişkisini</b> kurmak için <b>whose</b> kullanılır. Whose, kendisinden sonra mutlaka bir isim (arm) almalıdır."
+    },
+    {
+        "SoruID": 235480,
+        "Aciklama": "Cümlede bahsedilen 'country' (ülke), 'they come from' (geldikleri yer) ifadesindeki 'from' edatının <b>nesnesi</b> durumundadır. Edatın nesnesi konumunda olan cansız isimler için <b>which</b> veya that kullanılır. (The country which/that they come from...)"
+    },
+    {
+        "SoruID": 238357,
+        "Aciklama": "\"The city\" (şehir), kişinin yaşadığı <b>yeri</b> (place) tanımlamaktadır. Bir eylemin gerçekleştiği yeri (he lives [in the city]) tanımlamak için <b>where</b> kullanılır. (The city where he lives...)"
+    },
+    {
+        "SoruID": 238358,
+        "Aciklama": "Çalınan arabanın sahibini (woman) belirtmek için <b>sahiplik zamiri</b> olan <b>whose</b> kullanılır. Whose, 'woman' ve 'car' arasında sahiplik bağını kurar."
+    },
+    {
+        "SoruID": 238359,
+        "Aciklama": "\"The years\" (yıllar), çalışılan <b>zaman dilimini</b> ifade etmektedir. Zaman belirten isimlerden sonra <b>when</b> kullanılır."
+    },
+    {
+        "SoruID": 238360,
+        "Aciklama": "\"The day\" (gün), doğduğu <b>zamanı</b> belirtmektedir. Zaman ifadeleri için kullanılan <b>Relative Adverb</b> <b>when</b>'dir."
+    },
+    {
+        "SoruID": 238361,
+        "Aciklama": "\"The city\" (şehir), kişinin yaşadığı <b>yeri</b> tanımlamaktadır. Yer belirten isimlerden sonra ve tam bir cümle geldiğinde (he lives), <b>where</b> kullanılır."
+    },
+    {
+        "SoruID": 238362,
+        "Aciklama": "\"The car\" (araba) cansız bir varlıktır ve yan cümlecikteki 'was stolen' (çalındı) fiilinin <b>öznesi</b> konumundadır. Cansız özneler için <b>Relative Pronoun</b> olan <b>which</b> veya that kullanılır."
+    },
+    {
+        "SoruID": 238363,
+        "Aciklama": "1881 yılı, Atatürk'ün doğduğu <b>zamanı</b> belirtmektedir. Tarih veya yıl gibi zaman belirten isimlerden sonra <b>when</b> kullanılır."
+    },
+    {
+        "SoruID": 238364,
+        "Aciklama": "Cümle, Ferrari marka arabaya sahip olan kişiyi tanımlamaktadır. Sahiplik ilişkisini kuran <b>Relative Pronoun</b> <b>whose</b> kullanılmalıdır."
+    },
+    {
+        "SoruID": 250355,
+        "Aciklama": "\"The chair\" (sandalye) cansız bir nesnedir ve 'you are sitting on' (üzerinde oturduğun) ifadesindeki 'on' edatının <b>nesnesi</b> konumundadır. Cansız nesneler için <b>which</b> veya that kullanılır."
+    },
+    {
+        "SoruID": 253345,
+        "Aciklama": "Çalınan arabanın sahibini (woman) belirtmek için <b>sahiplik zamiri</b> olan <b>whose</b> kullanılır. Bu zamir, 'woman' ve 'car' arasında sahiplik bağını kurar."
+    },
+    {
+        "SoruID": 253366,
+        "Aciklama": "Artvin, kayınpederinin doğduğu <b>yeri</b> (place) tanımlamaktadır. Yer isimlerinden sonra, o yerde gerçekleşen bir eylemi açıklarken, <b>Relative Adverb</b> olan <b>where</b> kullanılır."
+    },
+    {
+        "SoruID": 254751,
+        "Aciklama": "Artvin, kayınpederinin doğduğu <b>yeri</b> tanımlayan özel bir isimdir (virgüller non-defining clause olduğunu gösterir). Yer isimlerinden sonra, o yerde gerçekleşen bir eylemi açıklarken, <b>Relative Adverb</b> olan <b>where</b> kullanılır."
+    },
+    {
+        "SoruID": 351938,
+        "Aciklama": "Artvin, kayınpederinin doğduğu <b>yeri</b> tanımlamaktadır. Bir eylemin gerçekleştiği yer tanımlanırken <b>where</b> kullanılır. Artvin bir yer ismidir ve yan cümlecik tam bir cümledir (my father-in-low was born)."
+    },
+    {
+        "SoruID": 149542,
+        "Aciklama": "Bu cümledeki boşluğa gelmesi gereken kelime, yan cümleyi (Halim was the most successful student...) temel cümleye (It surprised me) bağlayan bir bağlaçtır. Bir olgu (fact) veya ifadeyi belirten <b>isim cümlelerini</b> (Noun Clauses) başlatmak için en yaygın kullanılan bağlaç <b>'that'</b>tir. 'It surprised me that...' yapısı, şaşırtıcı olan şeyin ne olduğunu açıklar."
+    },
+    {
+        "SoruID": 149695,
+        "Aciklama": "Bu bir <b>dolaylı soru</b> (Indirect Question) yapısıdır. 'No one knows...' ifadesi, bilginin ne olduğunu soran yan cümleyi yönetir. Eylemin ne olacağını (ne yapacağını) sorduğumuz için, uygun WH kelimesi <b>'what'</b> olmalıdır. Yapı (WH + S + V) kuralına uyar: 'what I will do next summer'."
+    },
+    {
+        "SoruID": 149883,
+        "Aciklama": "\"Have you heard...\" ifadesi, duyulan şeyin bir olgu (fact) veya haber olduğunu belirtir. Bu nedenle, yan cümleyi (Mr. Yazıcı went abroad) temel cümleye bağlamak ve bilginin kendisini sorgulamak için <b>isim cümlesi</b> bağlacı <b>'that'</b> kullanılır."
+    },
+    {
+        "SoruID": 235494,
+        "Aciklama": "Cümle, inanılan belirli bir olguyu veya efsaneyi (tavşan ayağının şans getirmesi) ifade etmektedir. \"Believe\" fiilinden sonra, inanılan şeyi açıklayan <b>isim cümlesini</b> (Noun Clause) başlatmak için <b>'that'</b> bağlacı kullanılır. Bu yapı, özellikle <b>batıl inançlar</b> (superstitions) gibi konuları ifade ederken sıkça görülür."
+    },
+    {
+        "SoruID": 238365,
+        "Aciklama": "\"I do not know...\" ifadesi bir <b>dolaylı soru</b> (embedded question) başlatır. Sınavın yerini sorduğumuz varsayılırsa <b>'where'</b> kelimesi boşluğu doldurur. Dolaylı sorularda kelime sırası düz cümle (Subject + Verb) sırasındadır: \"where <b>the exam is</b>.\""
+    },
+    {
+        "SoruID": 238366,
+        "Aciklama": "Bu cümle, Ayşe'nin kimliğini veya nerede olduğunu soran bir <b>dolaylı soru</b> yapısıdır. Eğer kimliği soruluyorsa <b>'who'</b> zamiri kullanılmalıdır. Dolaylı sorularda yardımcı fiil (do/does/did) kullanılmaz ve yan cümledeki sıralama Düz Cümle (S + V) sırasındadır: \"who <b>she is</b>.\""
+    },
+    {
+        "SoruID": 238367,
+        "Aciklama": "Saatin kaç olduğunu sormanın standart dolaylı yolu \"Can you tell me...\" ile başlar ve ardından <b>'what time'</b> yapısı gelir. <b>Dolaylı soru</b> yapısı gereği, cümledeki sıralama düz cümle sırasındadır (S + V): \"what time <b>it is</b>.\""
+    },
+    {
+        "SoruID": 238368,
+        "Aciklama": "Cümle, geçmişteki inançları ifade eder. İngilizcedeki 'believed in' yapısı, Türkçe'ye 'inanırlardı' olarak çevrilmelidir. Doğru Türkçe karşılığı: <b>'Geçmişte insanlar büyüye, hayaletlere, periler inanırlardı.'</b>"
+    },
+    {
+        "SoruID": 238369,
+        "Aciklama": "Bu bir <b>dolaylı soru</b> olup, boş bırakılan WH kelimesi, yan cümlenin doğrudan <b>öznesi</b> pozisyonundadır ('is coming'). Öznenin kim olduğunu sorduğumuz için <b>'who'</b> kullanılmalıdır. WH kelimesi özne görevindeyken, normal soru formuna dönme ihtiyacı ortadan kalkar ve (WH + V) yapısı kullanılır: 'who <b>is coming</b> to the meeting.'"
+    },
+    {
+        "SoruID": 238370,
+        "Aciklama": "A kişisi bir bilgiye sahip olup olmadığını soruyor. B kişisinin cevabı, ya bildiğini teyit eden kısa bir yanıt (Yes, I do) ya da bilmediğini belirten bir ifade olmalıdır (I don't know). Diyalog, bir bilgi eksikliğini tamamlamaya yönelik olduğundan, B'nin bilmediğini ifade etmesi (örneğin: <b>'I have no idea.'</b>) veya doğrudan bilgiyi vermesi beklenir."
+    },
+    {
+        "SoruID": 238371,
+        "Aciklama": "Cümlenin ilk yarısı ('Science has developed'), Present Perfect Tense ile yazılmıştır, bu da bilimin gelişiminin hala süren bir sonucu olduğunu gösterir. İkinci kısım ise yeteneği ('can get access' - erişebiliyor) ifade eder. Doğru çeviri: <b>'Bilim gelişti ve insanlar bilgiye kolayca erişebiliyor.'</b>"
+    },
+    {
+        "SoruID": 238372,
+        "Aciklama": "A kişisi, 'I wonder...' (merak ediyorum) diyerek bilmediği bir şey hakkındaki merakını ifade ediyor. B kişisinin en uygun cevabı, ya bu bilgiyi sağlamak ya da kendisinin de bilmediğini ifade etmek (<b>'I don't know either.'</b>) olacaktır. Bu, dolaylı soru bağlamında bilgiye ulaşımı sorgulayan bir diyalogdur."
+    },
+    {
+        "SoruID": 250362,
+        "Aciklama": "\"I cannot understand\" fiilinden sonra gelen kısım, neyi anlayamadığını belirten <b>isim cümlesidir</b>. Konuşulan içeriği (söylediğin şeyi) ifade etmek için uygun WH kelimesi <b>'what'</b> olmalıdır. Yapı: \"I cannot understand <b>what you are saying</b>.\""
+    },
+    {
+        "SoruID": 253419,
+        "Aciklama": "Bu, saatin kaç olduğunu sormak için kullanılan bir <b>dolaylı soru</b> yapısıdır (Q 238367 ile aynı mantık). Boşluğa <b>'what'</b> getirilerek 'what time it is' dolaylı sorusu oluşturulur. Dolaylı sorular her zaman düz cümle sırasını (Özne + Yüklem) korur."
+    },
+    {
+        "SoruID": 254631,
+        "Aciklama": "\"Yağmurun yağdığını görüyoruz\" cümlesi, bir algılama fiilini ('see') takiben bir eylemi içerir. Bu, İngilizcede isim cümlesi kullanarak (We see <b>that it is raining</b>) veya perception verb + object + present participle (We see <b>it raining</b>) yapısıyla ifade edilebilir."
+    },
+    {
+        "SoruID": 254735,
+        "Aciklama": "\"Can you tell me what your name is?\" ifadesi, nezaket amaçlı bir <b>dolaylı sorudur</b>. Türkçe'ye çevirisi, isim cümlesi yapısını koruyarak yapılmalıdır: <b>'Adınızın ne olduğunu söyleyebilir misiniz?'</b>"
+    },
+    {
+        "SoruID": 351943,
+        "Aciklama": "Bu cümle, pencereyi kimin kırdığını bilip bilmediğini soran bir <b>dolaylı sorudur</b>. Boşluk hem özneyi hem de eylemi içermelidir: 'who broke'. WH kelimesi (<b>who</b>) cümlenin öznesi görevinde olduğu için, düz cümle yapısı (who + verb) kullanılır: 'Do you know <b>who broke</b> the window...'"
+    },
+    {
+        "SoruID": 351948,
+        "Aciklama": "Oprah batıl inançları (magic and witchcraft) sorarken, Ellen bunları reddedip inancını rasyonel kavramlara dayandırıyor. Batıl inançların zıttı ve teknoloji ile uyumlu olan temel kavram <b>'science' (bilim)</b>dir. Ellen, batıl inançlar yerine bilim ve teknolojiye inandığını belirtmektedir."
+    },
+    {
+        "SoruID": 149382,
+        "Aciklama": "Bu diyalogda birinin ne söylediği rapor edilmektedir (Reported Speech - Dolaylı Anlatım). Boşluktan sonra bir nesne (object) gelmediği için (örneğin 'me', 'him' vb.), kullanılacak fiil <b>'said'</b> olmalıdır. Eğer fiil <b>'told'</b> olsaydı, mutlaka bir nesne takip etmeliydi (told me, told him). Cümlenin anlamı: 'O, yorgun olduğunu söyledi.' Yapı: Subject + said + that + Reported Clause."
+    },
+    {
+        "SoruID": 149389,
+        "Aciklama": "Cümle, bir emri/talimatı dolaylı olarak aktarmaktadır (Reported Command/Instruction). <b>'Tell'</b> fiili bu yapıda kullanıldığında, Object'ten sonra fiil genellikle mastar (infinitive) halinde, yani <b>'to + V1'</b> şeklinde gelir.<br/>Doğru yapıda boşluğa <b>'to do'</b> (ve ardından pronoun değişimiyle 'my/her/his' gibi bir iyelik sıfatı) gelmelidir. Cümlenin anlamı: 'Öğretmen bana ödevimi yapmamı söyledi.' Yapı: Subject + told + Object + <b>to V1</b>."
+    },
+    {
+        "SoruID": 149509,
+        "Aciklama": "Dolaylı anlatımda (Reported Speech), konuşmacı ve dinleyici değiştiğinde zamirler (pronoun) ve iyelik sıfatları (possessive adjective) da değişir. Ayşe, kendi kızından bahsederken <b>'My daughter'</b> demiştir. Selin, Ayşe’nin bu sözünü Ayşe’ye geri bildirirken, Ayşe’nin kızı artık <b>'your daughter'</b> (senin kızın) olur. Bu yüzden boşluğa <b>'your'</b> gelmelidir."
+    },
+    {
+        "SoruID": 149551,
+        "Aciklama": "Cümle, bir ricayı dolaylı olarak aktarmaktadır. <b>'Ask'</b> fiili bir ricayı rapor ederken (Subject + asked + Object yapısı sonrası) fiil, mastar (infinitive) haliyle, yani <b>'to + V1'</b> şeklinde gelir. 'Hayrettin benden onun için bir iyilik yapmamı istedi/rica etti.' anlamını tamamlamak için boşluğa <b>'to do'</b> gelmelidir. Yapı: Subject + asked + Object + <b>to V1</b>."
+    },
+    {
+        "SoruID": 235503,
+        "Aciklama": "Cümle doktorun tavsiyesini aktarmaktadır. Tıbbi tavsiye bağlamında <b>'advised'</b> (tavsiye etti) fiili çok yaygındır. Dolaylı anlatımda olumsuz talimatlar ve tavsiyeler <b>'not to + V1'</b> yapısıyla kurulur. 'The doctor advised me not to drink...' (Doktor bana soğuk su içmememi tavsiye etti.) fiil formu yapıya uygundur. <b>'Advised me not to drink'</b>, bir tavsiyenin dolaylı anlatımıdır."
+    },
+    {
+        "SoruID": 235508,
+        "Aciklama": "Bu cümle, Merkel’in yaptığı bir açıklamayı rapor etmektedir. Reported Speech (Dolaylı Anlatım) kuralına göre, ana cümle geçmiş zamanda (told) ise, bildirilen cümlenin zamanı da geriye kayar (backshift). Doğrudan anlatımdaki gelecek zaman belirten modal fiil <b>'will'</b>, dolaylı anlatımda <b>'would'</b> şekline dönüşür. Bu nedenle boşluğa <b>'would'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 238373,
+        "Aciklama": "Bu, dolaylı anlatımlı bir ifadedir. Doğrudan soru: 'When will Serkan fly to London?'. Raporda tense ve zaman ifadeleri kaydırılmalıdır. <b>'Will fly'</b> geriye kayarak <b>'would fly'</b> olur. <b>'Next week'</b> (gelecek hafta) ifadesi <b>'the following week'</b> (ertesi hafta) olarak değişir. Serkan’ın yerini <b>'he'</b> zamiri alır. Doğru tamamlama: 'he would fly to London'. (Serkan bana, ertesi hafta Londra’ya uçacağını söyledi.)"
+    },
+    {
+        "SoruID": 238374,
+        "Aciklama": "Dolaylı anlatımda (Reported Speech), eğer raporlama fiili bir nesne (Object) alıyorsa ve nesneden önce <b>'to'</b> edatı kullanılmışsa, bu fiil <b>'said'</b> olmalıdır (said to me). Eğer fiil <b>'told'</b> olsaydı, doğrudan nesne almalıydı ('told me', 'told him'). Burada <b>'to me'</b> kullanıldığı için boşluğa <b>'said'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 238375,
+        "Aciklama": "Önceki soruya benzer şekilde, raporlama fiilinden sonra bir nesne (me) ve bu nesneden önce <b>'to'</b> edatı kullanılmıştır (to me). Bu yapı zorunlu olarak <b>'said'</b> fiilini gerektirir (said to me). 'Tuğba: Polis bana şüpheli olduğumu söyledi.' anlamı için boşluğa <b>'said'</b> gelmelidir."
+    },
+    {
+        "SoruID": 238376,
+        "Aciklama": "Verilen cümle, dolaylı anlatımla rapor edilmiş bir Evet/Hayır (Yes/No) sorusudur. <b>'Asked me if/whether'</b> yapısı, birinin soru sorduğunu belirtir. <b>'Had had breakfast'</b> (Past Perfect) ifadesi ise, sorunun Simple Past veya Present Perfect olduğunu ve Reported Speech kuralı gereği bir derece geriye kaydığını gösterir. Doğru Türkçe çeviri: <b>'Annem bana kahvaltı yapıp yapmadığımı sordu.'</b>"
+    },
+    {
+        "SoruID": 238377,
+        "Aciklama": "Cümle, Reported Speech yapısında bir Evet/Hayır sorusudur (asked me if). Ana cümle geçmiş zaman olduğu için (asked), bildirilen fiil <b>'had attended'</b> (Past Perfect) olarak geriye kaymıştır. Bu yapı, 'konferansa katılıp katılmadığımı' sorma anlamını taşır. Doğru Türkçe çeviri: <b>'Profesör bana konferansa katılıp katılmadığımı sordu.'</b>"
+    },
+    {
+        "SoruID": 238378,
+        "Aciklama": "Bu cümle, Angela’nın verdiği bir tavsiyeyi rapor etmektedir. Dolaylı anlatımda tavsiye ve gereklilik bildiren <b>'should'</b> fiili genellikle değişmeden kalır. Ayrıca, boşluktan sonra fiilin yalın hali (take) kullanıldığı için, bir modal fiil gereklidir. Angela’nın 'You should take regular exercise' (Düzenli egzersiz yapmalısın) şeklindeki tavsiyesi, rapor edilirken <b>'should'</b> olarak kalır. Boşluğa <b>'should'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 238379,
+        "Aciklama": "Doktorun bir sonraki hafta gelememeleri için ileri sürdüğü bir mazeret rapor edilmektedir. Eğer doktor doğrudan anlatımda 'I am fully booked next week' (Gelecek hafta tamamen doluyum) demişse, bu rapor edilirken zaman kayması (backshift) gerektirir. <b>'Am'</b> geriye kayarak <b>'was'</b> olur ve <b>'I'</b> yerini <b>'he'</b> alır. Doğru tamamlama: 'he was fully booked'."
+    },
+    {
+        "SoruID": 238380,
+        "Aciklama": "Elon Musk’ın yaptığı bir açıklama rapor edilmektedir (Told that...). Ana cümle geçmiş zamanda olduğu için (told), bildirilen cümlenin zamanı geriye kaymalıdır. Doğrudan anlatımdaki Simple Present Tense (is), Simple Past Tense’e (was) dönüşür. Araba 'yolda' (gelecek) anlamını veren 'is on the way' ifadesi, dolaylı anlatımda <b>'was'</b> olur."
+    },
+    {
+        "SoruID": 250370,
+        "Aciklama": "Cümle, Başkanın halka yaptığı bir bildirimi rapor etmektedir. Raporlama fiilinin hemen ardından kime söylendiği (the public) belirtildiği için, yani fiil <b>doğrudan nesne</b> aldığı için, <b>'told'</b> fiili kullanılmalıdır. Yapı: Subject + told + Object + that + Reported Clause. Boşluğa <b>'told'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 250373,
+        "Aciklama": "Bu cümle, polisin sürücülere yaptığı bir uyarıyı dolaylı anlatımla aktarmaktadır. Emir ve uyarıları rapor ederken kullanılan fiillerden sonra (örneğin told, ordered, <b>warned</b>) nesne gelir ve ardından <b>mastar (infinitive)</b> yapı kullanılır (to slow down). Polis bağlamında hız konusunda bir <b>'uyarı'</b> (warned) yapılması anlamlıdır. Boşluğa <b>'warned'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 253496,
+        "Aciklama": "<b>'Asked me'</b> yapısı, bir ricayı veya soruyu rapor ettiğimizi gösterir. Eğer bir ricayı rapor ediyorsak, fiilin <b>mastar (infinitive)</b> formunu, yani <b>'to + V1'</b> yapısını kullanırız. 'She asked me to open/close the window.' (Benden pencereyi açmamı/kapatmamı istedi.) yapıyı tamamlar."
+    },
+    {
+        "SoruID": 254728,
+        "Aciklama": "Cümlede Subject + Fiil + Object + <b>to V1</b> yapısı mevcuttur. Bu yapı, birinden bir şey yapmasını <b>istemek</b> (asked) veya <b>söylemek</b> (told) anlamında kullanılır. Buradaki rica/talep bağlamına en uygun fiil, <b>'asked'</b> veya <b>'told'</b>dur. Seçeneklerdeki yaygın kullanıma göre <b>'asked'</b> daha çok rica anlamı taşır ve bu yapıyı doğru şekilde tamamlar."
+    },
+    {
+        "SoruID": 351954,
+        "Aciklama": "Öğretmen, öğrencilerin dakik olmasını istediği için onlara geç kalmamaları talimatını vermiştir. Dolaylı anlatımda olumsuz emirler ve talimatlar <b>'told + Object + not to + V1'</b> yapısıyla kurulur. Fiil, <b>'to be'</b> olduğu için boşluğa <b>'not to be'</b> gelmelidir."
+    },
+    {
+        "SoruID": 351959,
+        "Aciklama": "Angelica, doktorun teşhisini ve talimatını aktarmaktadır. Doktorun teşhisi geçmişte konulduğu için, bildirilen ifadenin Simple Present (I have the flu) hali Reported Speech kuralı gereği Simple Past'a (I <b>had</b> the flu) kaydırılmalıdır. Boşluğa, doktorun teşhisini ve ilacı vermesini haklı çıkaracak bir ifade (Örn: 'She said that I had the flu' veya 'She told me I had a high fever') gelmelidir. Buradaki kilit nokta, <b>zamanın geriye kaydırılmış</b> olmasıdır."
+    },
+    {
+        "SoruID": 149255,
+        "Aciklama": "Cümledeki <b>\"fond of\"</b> (düşkün olmak, sevmek) yapısı, bir edat (of) içerir. İngilizcede edatlardan sonra fiil kullanılması gerektiğinde bu fiil daima <b>mastar</b> (gerund, V-ing) formunda olmalıdır. Bu nedenle boşluğa uygun olan kelime, bir eylemi belirten mastar (V-ing) olmalıdır."
+    },
+    {
+        "SoruID": 149466,
+        "Aciklama": "Bu cümlede Sinem'in eylemini (yemek yapma/pişirme) belirten bir isim veya mastar (gerund) gerekmektedir. Cümlenin öznesinin bir parçası olarak eylemi niteleyen yapı <b>mastar</b> (gerund) olmalıdır. <b>“Cooking”</b> (pişirme) veya <b>“making”</b> (yapma) gibi bir V-ing formu, cümlede Sinem'in bu becerisini ifade eder."
+    },
+    {
+        "SoruID": 235515,
+        "Aciklama": "A kişisi, B'ye gelecekte çalmayı planladığı müzik türünü <b>(What kind of music are you going to play?)</b> sormaktadır. Cevap, bu soruya doğrudan karşılık vermeli ve bir müzik türünü ya da kararı belirtmelidir. Örneğin, \"I am going to play classical music\" gibi <b>gelecek planını</b> belirten bir ifade, diyaloğu tamamlar."
+    },
+    {
+        "SoruID": 238381,
+        "Aciklama": "İngilizcede <b>\"want\"</b> (istemek) fiili, bir isteği veya arzuyu ifade ederken kendisinden sonra daima <b>tam mastar</b> (full infinitive, yani <b>to + V1</b>) yapısını alır. Bu nedenle boşluğa \"to see\" (görmek) gibi bir ifade gelmelidir. <br/>Yapı: I want <b>to V1</b> her tomorrow."
+    },
+    {
+        "SoruID": 238382,
+        "Aciklama": "<b>\"Tell\"</b> fiili, birine bir şeyi yapmamasını söylemek anlamında (emir/talep bildiren aktarılan konuşma) kullanıldığında, ardından <b>olumsuz tam mastar</b> yapısını gerektirir. Bu yapı <b>\"not + to + V1\"</b> şeklindedir. Örnek: \"He told me <b>not to go</b>.\""
+    },
+    {
+        "SoruID": 238383,
+        "Aciklama": "<b>\"Admit\"</b> (itiraf etmek) fiili, kendisinden sonra gelen fiilin eylemini belirtmek için daima <b>mastar</b> (gerund, yani <b>V-ing</b>) formu ile kullanılır. <br/>Örnek: He admitted <b>stealing</b> the money."
+    },
+    {
+        "SoruID": 238384,
+        "Aciklama": "<b>\"Forget\"</b> fiili, henüz yapılmamış veya yapılması gereken bir eylemi (yani bir görevi veya komutu) unutmamak gerektiğini belirtmek için kullanıldığında, ardından <b>tam mastar</b> (<b>to + V1</b>) alır. Bu yapı bir hatırlatmadır: \"Don't forget <b>to lock</b> the door.\""
+    },
+    {
+        "SoruID": 238385,
+        "Aciklama": "<b>\"Give up\"</b> (vazgeçmek, bırakmak) bir edat öbeği fiilidir (phrasal verb). İngilizcede bu tür fiillerden sonra gelen fiil daima <b>mastar</b> (gerund, yani <b>V-ing</b>) formu ile kullanılır. <br/>Örnek: Will you give up <b>smoking</b>?"
+    },
+    {
+        "SoruID": 238386,
+        "Aciklama": "Cümle, \"We walked through the forest\" (Ormanda yürüdük) ana eylemini, bir amaç yan cümlesiyle <b>(\"to collect some wood for the campfire\" - kamp ateşi için odun toplamak amacıyla)</b> birleştirmiştir. Doğru çeviri bu amacı ve geçmiş zamanı yansıtmalıdır: <b>\"Kamp ateşi için biraz odun toplamak amacıyla ormanın içinden yürüdük.\"</b>"
+    },
+    {
+        "SoruID": 238387,
+        "Aciklama": "A kişisi, hazırlıklar konusunda yardım isteğinde bulunmaktadır. B kişisinin cevabı, bu isteği kabul etmeli veya reddetmelidir. \"<b>Sure, I'd be happy to help</b>\" (Elbette, seve seve yardım ederim) gibi olumlu ve kibar bir yanıt, bu tür bir konuşmayı tamamlar."
+    },
+    {
+        "SoruID": 238388,
+        "Aciklama": "Cümledeki ana yapı \"We went back home\" (Eve geri döndük) ifadesidir. <b>\"Without spending even one day in nature\"</b> (doğada tek bir gün bile geçirmeden) kısmı ise, eylemin nasıl gerçekleştiğini belirten bir edat öbeğidir. İngilizcede <b>\"without\"</b> edatından sonra fiil daima mastar (gerund) şeklinde kullanılır. <br/>Doğru çeviri: <b>\"Doğada tek bir gün bile geçirmeden eve geri döndük.\"</b>"
+    },
+    {
+        "SoruID": 250375,
+        "Aciklama": "<b>\"Want\"</b> fiili, bir arzu veya hedefi ifade ederken kendisinden sonra daima <b>tam mastar</b> (<b>to + V1</b>) yapısı alır. Bu kural, \"I want <b>to go</b> home\" (Eve gitmek istiyorum) gibi temel cümlelerde de geçerlidir."
+    },
+    {
+        "SoruID": 253514,
+        "Aciklama": "A kişisi kibar bir davette bulunmaktadır <b>(I would like to invite you...)</b>. B kişisi, davete karşı kibar bir şekilde yanıt vermelidir. Kabul ediyorsa: \"That sounds wonderful, I'd love to come\" veya reddediyorsa, üzüntü belirten nazik bir reddiye gelmelidir. Diyaloğu sürdürmek adına genellikle <b>kabul ifadesi</b> beklenir."
+    },
+    {
+        "SoruID": 254801,
+        "Aciklama": "<b>\"Miss\"</b> (özlemek) fiili, geçmişte yapılan veya deneyimlenen bir eylemi özlemeyi ifade eder. Bu fiil, kendisinden sonra daima <b>mastar</b> (gerund, yani <b>V-ing</b>) formu ile kullanılır. Bu nedenle boşluğa \"living\" (yaşamayı) gibi bir V-ing fiili gelmelidir."
+    },
+    {
+        "SoruID": 351965,
+        "Aciklama": "Cümle, bir kamp alanında fazladan para ödenmesine neden olacak kadar <b>büyük</b> olan bir nesneden bahsetmektedir. Kampçılık bağlamında, büyüklüğü ek ücrete neden olabilecek temel eşya <b>\"tent\"</b> (çadır) veya <b>\"camper van\"</b> (karavan/kampçı alanı) gibi bir nesne olmalıdır. Cümledeki \"Our...\" ifadesi, kişisel bir eşyayı işaret eder."
+    },
+    {
+        "SoruID": 149643,
+        "Aciklama": "Cümlede öğrencilerin ya Almanca ya da Fransızca dersi almak zorunda olduğu belirtilmektedir. İki alternatif arasında seçim yapma zorunluluğunu ifade etmek için <b>correlative conjunctions</b> (ilişkili bağlaçlar) olan <b>either... or</b> yapısı kullanılır.<br/>Doğru cevap (either... or) bu seçimi doğru şekilde ifade eder: Students will have to take <b>either</b> German <b>or</b> French next year."
+    },
+    {
+        "SoruID": 149693,
+        "Aciklama": "Cümledeki iki yan tümce arasında bir zıtlık veya beklenmedik bir sonuç ilişkisi bulunmaktadır. Koşma eylemi (He ran) ile otobüsü kaçırma sonucu (he missed the bus) birbiriyle çelişmektedir. Bu tür bir zıtlığı veya beklenmedik sonucu belirtmek için <b>coordinating conjunction</b> (sıralayıcı bağlaç) olan <b>but</b> (ama, fakat) kullanılır.<br/>Doğru cevap (but) zıtlığı belirtir: He ran, <b>but</b> he missed the bus."
+    },
+    {
+        "SoruID": 150528,
+        "Aciklama": "Cümlede Bayan Tan'ın alışveriş yapmasının amacını (kek yapmak) belirtmek gerekmektedir. Bir eylemin amacını ifade etmek için genellikle <b>infinitive of purpose</b> (amaç mastarı) yapısı kullanılır, bu da <b>to</b> edatıyla sağlanır.<br/>Doğru cevap (to) amacı ifade eder: Mrs. Tan has bought some flour, sugar, butter, eggs, and milk <b>to</b> make a cake."
+    },
+    {
+        "SoruID": 235518,
+        "Aciklama": "Cümlede bugünün hava durumu (güneşli) ile dünün hava durumu (çok soğuk) arasında bir tezat (contrast) kurulmaktadır. İki zıt fikri bağlamak için en yaygın kullanılan <b>coordinating conjunction</b> <b>but</b>'tır.<br/>Doğru cevap (but) zıtlığı belirtir: Today it is sunny, <b>but</b> it was really cold yesterday."
+    },
+    {
+        "SoruID": 235519,
+        "Aciklama": "Cümle <b>Both</b> (hem) ile başladığı için, iki öznenin de dahil edildiğini belirtmek üzere kullanılan ilişkili bağlaç yapısı <b>Both... and</b> (hem... hem de) tamamlanmalıdır.<br/>Doğru cevap (and) yapıyı tamamlar: <b>Both</b> my friend <b>and</b> I liked the film."
+    },
+    {
+        "SoruID": 238389,
+        "Aciklama": "Cümledeki iki temel fikir arasında bir zıtlık ilişkisi vardır: Arkadaşı görmek (went to school and saw my friend) ve arkadaşın konuşmak istememesi (he didn’t want to talk to me). Bu zıtlığı ifade etmek için <b>but</b> (ama, fakat) kullanılır.<br/>Doğru cevap (but) zıtlığı belirtir: Yesterday I went to school and saw my friend, <b>but</b> he didn’t want to talk to me."
+    },
+    {
+        "SoruID": 238390,
+        "Aciklama": "Cümlede bir dizi alışveriş malzemesi (flour, sugar, butter, eggs) sayılmaktadır. Bir liste veya sayım yapılırken, sondan bir önceki öğe ile son öğeyi birbirine bağlamak için <b>coordinating conjunction</b> olan <b>and</b> kullanılır.<br/>Doğru cevap (and) listelemeyi tamamlar: Mrs.Tan has bought some flour, sugar, butter, eggs, <b>and</b> milk to make a cake."
+    },
+    {
+        "SoruID": 238391,
+        "Aciklama": "Cümlede hastanede çalışmanın (work at hospital) amacının veya sonucunun (yeterli deneyime sahip olmak) ne olduğu açıklanmaktadır. Bir eylemin amacını veya hedefini belirtmek için <b>so that</b> (böylece, amacıyla) yapısı kullanılır.<br/>Doğru cevap (so that) amacı belirtir: ..., <b>so that</b> they can have enough experience."
+    },
+    {
+        "SoruID": 238392,
+        "Aciklama": "Cümlede İngilizce sözlük almanın (I’ve bought an English dictionary) nedeni (I need to learn English vocabulary) açıklanmaktadır. Sebep bildiren <b>coordinating conjunction</b> olan <b>for</b> ('çünkü' anlamında) kullanılır. 'For'dan önce virgül kullanılır.<br/>Doğru cevap (for) sebebi ifade eder: I’ve bought an English dictionary, <b>for</b> I need to learn English vocabulary."
+    },
+    {
+        "SoruID": 238393,
+        "Aciklama": "Cümle <b>Both</b> (hem) ile başladığı için, iki öznenin de ('your friends' ve 'your family') dahil edildiğini belirtmek üzere kullanılan ilişkili bağlaç yapısı <b>Both... and</b> (hem... hem de) tamamlanmalıdır.<br/>Doğru cevap (and) yapıyı tamamlar: <b>Both</b> your friends <b>and</b> your family are nice people."
+    },
+    {
+        "SoruID": 238394,
+        "Aciklama": "Cümle <b>neither</b> (ne o ne de bu) ile başladığı için, olumsuz seçenekleri belirtmek üzere kullanılan ilişkili bağlaç yapısı <b>neither... nor</b> (ne bugün ne de yarın) tamamlanmalıdır.<br/>Doğru cevap (nor) yapıyı tamamlar: He is available <b>neither</b> today <b>nor</b> tomorrow."
+    },
+    {
+        "SoruID": 238395,
+        "Aciklama": "Cümle <b>either</b> (ya o ya da bu) ile başladığı için, Bilge'nin yapacağı iki alternatif eylemden (hediye almak ya da bir yere götürmek) birini belirtmek üzere kullanılan ilişkili bağlaç yapısı <b>either... or</b> tamamlanmalıdır.<br/>Doğru cevap (or) yapıyı tamamlar: Bilge will <b>either</b> buy a wonderful birthday present for her elder sister <b>or</b> take her somewhere."
+    },
+    {
+        "SoruID": 238396,
+        "Aciklama": "Cümle <b>not only</b> (sadece değil) ile başladığı için, vurgulu bir ekleme yapmak üzere kullanılan ilişkili bağlaç yapısı <b>not only... but also</b> (sadece dışa dönük değil, aynı zamanda sokulgan) tamamlanmalıdır.<br/>Doğru cevap (also) yapıyı tamamlar: She is <b>not only</b> extrovert <b>but also</b> outgoing."
+    },
+    {
+        "SoruID": 250380,
+        "Aciklama": "İki yan tümce (It was a secret ve he told everyone about it) arasında bir çelişki mevcuttur. Bir şeyin sır olması (gizli olması) ile herkes tarafından duyurulması birbiriyle zıttır. Bu tür bir zıtlığı veya beklenmedik durumu ifade etmek için <b>yet</b> (yine de, buna rağmen) veya <b>but</b> kullanılabilir. <b>Yet</b> güçlü bir beklenmedik zıtlık belirtir.<br/>Doğru cevap (yet) zıtlığı belirtir: It was a secret, <b>yet</b> he told everyone about it."
+    },
+    {
+        "SoruID": 253534,
+        "Aciklama": "Cümlede İngilizce sözlük almanın nedenini (I need to learn English vocabulary) açıklanmaktadır. Sebep bildiren <b>coordinating conjunction</b> olan <b>for</b> ('çünkü' anlamında) kullanılır ve kendisinden önce virgül gelir.<br/>Doğru cevap (for) sebebi ifade eder: I’ve bought an English dictionary, <b>for</b> I need to learn English vocabulary."
+    },
+    {
+        "SoruID": 254827,
+        "Aciklama": "Cümlede tatil planına dahil olan iki özne (I ve my family) birleştirilmektedir. İki özneyi basitçe dahil ederek birleştirmek için <b>coordinating conjunction</b> olan <b>and</b> kullanılır.<br/>Doğru cevap (and) özneleri birleştirir: This summer, I <b>and</b> my family may go to Bodrum or Marmaris."
+    },
+    {
+        "SoruID": 351966,
+        "Aciklama": "Cümledeki iki ifade arasında bir tezat vardır: Evcil hayvanları sevmek (I love pets) ve kedilere alerjisi olmak (I'm allergic to cats). Bu zıtlığı ifade etmek için <b>coordinating conjunction</b> olan <b>but</b> (ama, fakat) kullanılır.<br/>Doğru cevap (but) zıtlığı belirtir: I love pets, <b>but</b> I'm allergic to cats."
+    },
+    {
+        "SoruID": 351969,
+        "Aciklama": "Diyalog bir hasta ve sekreter arasında gerçekleşmektedir. Sekreterin 'Görüşmek için ne zaman istersiniz?' (When would you like to see him?) sorusu, hastanın arama nedeninin <b>randevu alma</b> olduğunu gösterir. Bu bağlamda, boşluğa en uygun ifade bir randevu talebidir.<br/>Doğru cevap (I'd like to make an appointment to see the doctor) görüşme amacını ve <b>resmi bir talep</b> ifadesini belirtir."
+    },
+    {
+        "SoruID": 149234,
+        "Aciklama": "Boşluğa gelmesi gereken bağlaç <b>Whenever</b> olmalıdır. <b>Whenever</b>, 'ne zaman olursa olsun' veya 'her zaman' anlamını taşır ve cümlenin ikinci kısmındaki 'I always see her' (onu her zaman görürüm) ifadesiyle belirtilen düzenli/tekrarlayan eylemi destekler. Cümle, 'Ne zaman caddede yürüyor olsam, onu her zaman görürüm' anlamını taşır. Diğer zaman bağlaçları (While, As) genellikle tekil veya süregelen bir olayı anlatırken, 'Whenever' <b>tekrarlama ve sıklık</b> vurgusu yapar."
+    },
+    {
+        "SoruID": 149317,
+        "Aciklama": "Cümle, iş bulma eyleminin amacını belirtmektedir: ülkede kalmak. Amaç belirtmek için kullanılan en yaygın bağlaçlardan biri <b>in order to</b>'dur (Amacıyla, maksadıyla). Bu yapıdan sonra fiilin yalın hali (stay) gelir. Cümle, 'Ülkede kalmak <b>için</b> bir iş bulmak zorundaydılar' anlamına gelir. Tek başına 'to' veya 'so as to' da amaç bildirir, ancak resmi ve net amaç bildirimlerinde 'in order to' tercih edilir."
+    },
+    {
+        "SoruID": 149535,
+        "Aciklama": "Cümledeki iki yan cümlecik arasında bir zıtlık bulunmaktadır: Güneş parlıyordu (pozitif durum), ama hava sıcak değildi (beklenmeyen/negatif durum). Bu zıtlığı belirtmek için <b>Although</b> (Rağmen, -e karşın) bağlacı kullanılır. <b>Although</b>, bir yan cümle (full clause) ile kullanılır ve beklenenin aksine bir sonuç olduğunu gösterir. Diğer zıtlık bağlaçlarından 'Despite' veya 'In spite of' ise isim veya V-ing alır, cümle almaz."
+    },
+    {
+        "SoruID": 153751,
+        "Aciklama": "Bu cümlede, Selim'in erken yatma nedenini açıklayan bir boşluk bulunmaktadır (Çok yorgundu). Neden (sebep) bildiren en yaygın bağlaç <b>because</b>'dur (Çünkü). <b>Because</b>, bir eylemin sebebini açıklayan bir cümleyi (full clause) tanıtır. Cümle, 'Selim erken yattı <b>çünkü</b> çok yorgundu' anlamına gelir. 'As' ve 'Since' de neden bildirir ancak 'because' en kesin ve yaygın kullanımdır."
+    },
+    {
+        "SoruID": 235524,
+        "Aciklama": "Cümle, eylemler arasında anında bir ilişki kurmayı amaçlamaktadır: 'Yapabilir yapmaz seni arayacağım.' Bu anlamı sağlayan zaman bağlacı <b>as soon as</b>'dir (Yapar yapmaz, hemen). <b>As soon as</b>, bir eylemin hemen ardından diğerinin gerçekleşeceğini belirtir. Gelecekteki eylemi ifade etmesine rağmen, <b>as soon as</b> yan cümleciğinde Present Tense kullanılır (I can), ana cümlede ise Future Tense (I will call) kullanılır."
+    },
+    {
+        "SoruID": 235528,
+        "Aciklama": "Bu cümlede, sokakta yürüme eylemi (süregelen) ile onu görme eylemi (anlık) arasında bir eş zamanlılık ilişkisi vardır. Süren bir eylem sırasında başka bir şeyin olduğunu belirtmek için <b>While</b> veya <b>As</b> kullanılır (İken). <b>While</b> (Ben yürüyorken) geçmişte devam eden bir durumu belirtmek için Past Continuous Tense ile sıkça kullanılır."
+    },
+    {
+        "SoruID": 238398,
+        "Aciklama": "Cümle, polisi arama eylemi ile hırsızın binayı terk etme eylemi arasındaki zaman sıralamasını belirtmektedir. Eğer polisi arama eylemi hırsızın terk etmesinden önce gerçekleştiyse, kullanılacak bağlaç <b>Before</b>'dur (Önce). <b>Before</b>, zaman çizelgesinde kendisinden sonra gelen eylemin, ana cümledeki eylemden sonra gerçekleştiğini gösterir. Cümle: 'Hırsız binayı terk etmeden <b>önce</b> polisi aradım.'"
+    },
+    {
+        "SoruID": 238400,
+        "Aciklama": "Cümlenin ana fikri, dışarı çıkamama eyleminin sebebidir. İngilizce cümlede sebep <b>because</b> (çünkü) ile verilmiştir. 'I cannot go out tonight' (Bu gece dışarı çıkamam) ve 'I have lots of things to do' (Yapacak çok işim var) ifadeleri birleştirildiğinde doğru Türkçe karşılık: 'Bu gece dışarı çıkamam <b>çünkü</b> yapacak çok işim var.' olur."
+    },
+    {
+        "SoruID": 238402,
+        "Aciklama": "Bu cümlede <b>thus</b> bağlacı kullanılmıştır. <b>Thus</b> (Böylece, dolayısıyla, bu yüzden) sonuç belirten bir bağlaçtır ve genellikle noktalı virgülden (;) sonra kullanılır. Cümlenin doğru çevirisi, 'Sınava çok çalıştım; <b>dolayısıyla</b>/<b>bu yüzden</b> testi geçebildim' şeklinde olmalıdır."
+    },
+    {
+        "SoruID": 238404,
+        "Aciklama": "Cümlede kullanılan zaman bağlacı <b>Before</b>'dur (Önce). Bu bağlaç, hırsızın binayı terk etme eyleminin, polisi arama eyleminden sonra gerçekleştiğini belirtir. Türkçede zaman bağlaçları genellikle fiilimsilerle (-meden önce) ifade edilir. Doğru çeviri: 'Hırsız binayı terk etme<b>den önce</b>, polisi aradım.'"
+    },
+    {
+        "SoruID": 238406,
+        "Aciklama": "Cümle, dondurmayı sevmek (olumlu) ve kışın yememek (olumsuz/zıt) arasında bir çelişki sunmaktadır. Bu zıtlığı tam cümleleri birleştirerek ifade etmek için <b>Although</b> (Rağmen) bağlacı kullanılır. Cümle: 'Dondurmayı sevmem<b>e rağmen</b>, kışın yemem.' Diğer seçenekler (Even though, Though) de uygun olabilir, ancak zıtlık bağlaçları ana konudur."
+    },
+    {
+        "SoruID": 238407,
+        "Aciklama": "Bu cümle, bir kişinin davranış biçimini, gerçek olmayan veya varsayılan bir durumla karşılaştırmaktadır: 'Bana sanki benden nefret ediyormuş gibi davranıyor.' Bu tür karşılaştırmalar için <b>as if</b> (sanki, -mış gibi) veya <b>as though</b> kullanılır. Her iki ifade de aynı anlama gelir ve genellikle gerçek olmayan veya şüpheli bir durumu ifade etmek için kullanılır."
+    },
+    {
+        "SoruID": 238409,
+        "Aciklama": "Bu cümle, dersi almanın amacını (daha iyi İngilizce öğrenmek) belirtmektedir. Amaç bildiren fiil mastarları <b>to</b>, <b>in order to</b> veya <b>so as to</b> ile kurulur. Eğer seçeneklerde 'in order to' varsa, bu yapı amacı vurgulamak için en uygunudur. Cümle: 'Birçok insan daha iyi İngilizce öğrenmek <b>amacıyla</b> bu dersi alıyor.'"
+    },
+    {
+        "SoruID": 238412,
+        "Aciklama": "Bu cümle, iki farklı konu (Formula 1 sevgisi ve futbol fanatizmi) arasında doğrudan bir karşılaştırma (kontrast) yapmaktadır. Bu tür karşılaştırmalarda veya zıtlık bildirimlerinde <b>While</b> veya <b>Whereas</b> (Oysa, iken) bağlaçları kullanılır. <b>While</b> burada 'benim Formula 1'i sevmemin aksine' anlamını verir. Cümle: 'Ben Formula 1'i severken, küçük kardeşim bir futbol fanatiğidir.'"
+    },
+    {
+        "SoruID": 250385,
+        "Aciklama": "Cümle, konserlere katılma eyleminin nedenini açıklamaktadır (Şarkılarını gerçekten sevmek). Neden belirtmek için <b>Since</b>, <b>As</b> veya <b>Because</b> kullanılabilir. <b>Since</b> (Mademki, -dığı için) genellikle cümlenin başında yer alır ve okuyucuya nedenin zaten bilindiğini varsayarak bilgi verir. 'Şarkılarını gerçekten sevdiğim <b>için</b>, konserlerine her zaman katılırım.'"
+    },
+    {
+        "SoruID": 250390,
+        "Aciklama": "Cümle, yurt dışına gitme eyleminin gerçekleşebilmesi için gereken şartı (İngilizce testlerini geçmek) belirtmektedir. Şart/koşul bildiren temel bağlaç <b>If</b>'tir (Eğer, -se, -sa). <b>If</b>, bir durumun (testi geçmek) başka bir durumun (yurt dışına gitmek) ön koşulu olduğunu gösterir. Diğer şart bağlaçları 'Provided that' veya 'As long as' de bu bağlamda kullanılabilir, ancak 'If' en yaygın olanıdır."
+    },
+    {
+        "SoruID": 253577,
+        "Aciklama": "Bu tür bir emir cümlesinde ('lütfen beni ara'), çağrı yapma eylemi, depresif hissetme ihtimaline karşı bir hazırlık veya önlem olarak önerilmektedir. Olası bir duruma karşı önlem bildirmek için <b>In case</b> (Olur da, ihtimaline karşın) kullanılır. <b>If</b> (Eğer) de uygun olmakla birlikte, 'In case' gelecekteki olası bir olaya hazırlık yapma vurgusunu güçlendirir. Cümle: '<b>Olur da</b> depresif hissedersen, lütfen beni ara.'"
+    },
+    {
+        "SoruID": 254822,
+        "Aciklama": "Türkçe cümle, bir eylemin geçmişte başlayıp (2003) hala devam ettiğini veya sonuçlarının günümüze ulaştığını belirtir. Bu durum İngilizcede <b>Present Perfect Simple</b> (I have worked) veya <b>Present Perfect Continuous</b> (I have been working) Tense ile ifade edilir. '2003'ten beri' ifadesi, başlangıç zamanını belirten <b>since</b> bağlacını gerektirir. Doğru çeviri: '<b>I have been working</b> at this university <b>since 2003</b>.'"
+    },
+    {
+        "SoruID": 254861,
+        "Aciklama": "Türkçe ifadedeki 'sevdiğim hâlde' zıtlık bildiren bir yapıdır ve İngilizcede <b>Although</b> (rağmen) veya <b>Even though</b> ile karşılanır. Cümlenin doğru çevirisi, iki zıt fikri (dondurmayı sevme ve kışın yememe) bağlayan bir yapı içermelidir. Doğru çeviri: '<b>Although I like ice cream</b>, I do not eat it in winter.'"
+    },
+    {
+        "SoruID": 254862,
+        "Aciklama": "A kişisi 'What time is it playing?' (Ne zaman oynuyor?) diye sorarak bir etkinliğin başlama saatini sormaktadır. B kişisinin cevabı ise spesifik bir zaman bildirmelidir. Zaman belirtirken 'at' edatı kullanılır ve Tense olarak genellikle Simple Present Tense tercih edilir. Örneğin, '<b>It starts at seven o’clock.</b>' (Saat yedide başlıyor.)"
+    },
+    {
+        "SoruID": 351972,
+        "Aciklama": "Cümle, iki zıt durumu bir araya getirmektedir: Planın riskli olması ve buna rağmen şanslarını denemek istemeleri. Bu zıtlığı ifade etmek için '<b>zıtlık bağlaçları</b>' (conjunctions of contrast) kullanılır. Boşluktan sonra tam bir cümle (özne + yüklem: <b>it was a risky plan</b>) geldiği için, 'Although', 'Though' veya 'Even though' gibi <b>yan cümlecik bağlayan</b> zıtlık bağlaçları kullanılmalıdır. Bu bağlaçlar 'rağmen' anlamını vererek, beklenenin aksine bir sonuç veya eylem olduğunu belirtir. Örneğin, 'Although' (Rağmen) doğru seçimdir: '<b>Although</b> it was a risky plan, they wanted to take their chance.' (Riskli bir plan olmasına rağmen, şanslarını denemek istediler.)"
+    },
+    {
+        "SoruID": 351976,
+        "Aciklama": "Cümle, insanların diğer kültürlere karşı nasıl bir tutum sergilemesi gerektiğini ifade etmektedir. Boşluğa, 'respectful' (saygılı) kelimesiyle anlam bütünlüğü oluşturan, olumlu bir sıfat gelmelidir. <b>Tolerant</b> (hoşgörülü) kelimesi, farklı inançlara, davranışlara, yaşam tarzlarına ve kültürlere karşı sabırlı ve anlayışlı olma kavramını ifade eder. 'Tolerant' kelimesi 'respectful' (saygılı) ile birlikte kullanılarak, bireylerin diğer kültürlere karşı hem <b>anlayışlı</b> hem de <b>saygılı</b> olması gerektiği vurgulanmaktadır. Doğru ifade: 'People should be <b>tolerant</b> and respectful of other cultures.' (İnsanlar hoşgörülü ve diğer kültürlere karşı saygılı olmalıdır.)"
+    },
+    {
+        "SoruID": 149266,
+        "Aciklama": "Cümlede 'İstanbul'a götürmek' anlamı verilmektedir. Bir yere doğru hareket bildirilirken kullanılan doğru edat <b>'to'</b> dur. 'Take someone to a place' (birini bir yere götürmek) yaygın kullanılan bir yapıdır."
+    },
+    {
+        "SoruID": 149469,
+        "Aciklama": "Cümle, 'Ben tatile gittiğinde kedine bakabilirim' anlamını vermektedir. Birine veya bir şeye bakmak, <b>ilgilenecek olmak</b> anlamında kullanılan doğru phrasal verb <b>'look after'</b> (ilgilenmek, bakmak) olmalıdır."
+    },
+    {
+        "SoruID": 149604,
+        "Aciklama": "İngilizcede bir şeyden şikayet etmek veya yakınmak anlamına gelen <b>'complain'</b> fiili genellikle <b>'about'</b> edatı ile birlikte kullanılır. Bu nedenle boşluğa <b>'about'</b> (hakkında) getirilmelidir. (Nejla always complains about her problems: Nejla her zaman sorunları hakkında yakınır.)"
+    },
+    {
+        "SoruID": 149731,
+        "Aciklama": "<b>'Interested'</b> (ilgili) sıfatı, bir şeye ilgi duyma durumunu ifade ederken her zaman <b>'in'</b> edatıyla birlikte kullanılır. Bu bir kalıptır: 'be interested in something'. Boşluğa <b>'in'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 235535,
+        "Aciklama": "Cümle 'Çamaşır makinemiz bozuldu' anlamına gelmektedir. Bir makinenin veya sistemin <b>çalışmayı durdurması</b> anlamına gelen phrasal verb <b>'break down'</b> (bozulmak, arızalanmak) olmalıdır. Boşluğa <b>'down'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 235542,
+        "Aciklama": "A kişisi 'Ne oldu?' diye soruyor. B kişisinin buna uygun bir açıklama yapması gerekir. Eğer kontekst Q235535'e atıfta bulunuyorsa, bir arızadan bahsetmek en mantıklısıdır. Bu bağlamda, <b>'The washing machine broke down'</b> (Çamaşır makinesi bozuldu) gibi bir ifade diyaloğu tamamlar."
+    },
+    {
+        "SoruID": 238413,
+        "Aciklama": "Cümle 'O, hasta annesine bakıyor/ilgileniyor' anlamına gelmelidir. Birine <b>bakım sağlamak</b>, ilgilenmek anlamında kullanılan phrasal verb <b>'look after'</b> dır. Boşluğa <b>'after'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 238414,
+        "Aciklama": "Cümle 'Dün ilkokul öğretmenimle <b>tesadüfen karşılaştım</b>' anlamına gelmelidir. Bir kişi veya şeye beklenmedik bir şekilde rastlamak anlamına gelen phrasal verb <b>'came across'</b> (karşılaşmak, rastlamak) olmalıdır. Boşluğa <b>'across'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 238415,
+        "Aciklama": "Cümle 'Ödevini yarın <b>teslim etmelisin</b>' anlamına gelmelidir. Bir ödevi, formu veya belgeyi bir yetkiliye sunmak/teslim etmek anlamında kullanılan phrasal verb <b>'hand in'</b> dir. Boşluğa <b>'in'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 238416,
+        "Aciklama": "Cümle 'Hava çok soğuk. Ceket giymeliyim' anlamına gelmelidir. <b>Giysi giymek</b> eylemini ifade eden phrasal verb <b>'put on'</b> (giymek) olmalıdır. Boşluğa <b>'on'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 238417,
+        "Aciklama": "A kişisi geçmiş zamanda yapılan bir eylemi soruyor ('Ne yaptın?'). B kişisi, Simple Past Tense kullanarak <b>tamamlanmış bir eylem</b> bildirmelidir. Örnek olarak <b>'I watched a movie at home'</b> (Evde bir film izledim) veya <b>'I went shopping'</b> (Alışverişe gittim) gibi bir ifade diyaloğu tamamlar."
+    },
+    {
+        "SoruID": 238419,
+        "Aciklama": "Cümle, geçmişteki sürekli bir isteği ifade eden Simple Past Tense yapısındadır. <b>'Always wanted'</b> ifadesi 'her zaman istedi' anlamına gelir. Doğru çeviri: <b>'O her zaman yeni şeyler öğrenmek istedi.'</b>"
+    },
+    {
+        "SoruID": 238420,
+        "Aciklama": "Cümledeki anahtar kelimeler: <b>'After high school'</b> (Liseden sonra), <b>'studied medicine'</b> (tıp okudu) ve <b>'at university'</b> (üniversitede). Doğru çeviri: <b>'Liseden sonra, üniversitede tıp okudu.'</b>"
+    },
+    {
+        "SoruID": 238421,
+        "Aciklama": "A kişisi buluşma veya konuşma bitişinde kullanılan bir kapanış ifadesi kullanmıştır ('Görüşürüz o zaman?'). B kişisi de bunu onaylayan veya karşılık veren kısa bir ifade kullanmalıdır. En uygun karşılık <b>'See you'</b> (Görüşürüz) veya <b>'Bye'</b> gibi bir ifadedir."
+    },
+    {
+        "SoruID": 250394,
+        "Aciklama": "Cümle, oğlunun her sabah 7'de <b>kalktığını</b> (yataktan kalktığını) belirtmektedir ve bu bir günlük rutin eylemidir. Bu anlamı veren doğru phrasal verb <b>'get up'</b> (kalkmak) olmalıdır. Boşluğa <b>'up'</b> getirilmelidir."
+    },
+    {
+        "SoruID": 253592,
+        "Aciklama": "<b>'Turn'</b> fiili, 'on' veya 'off' edatlarıyla kullanılarak bir cihazı açma veya kapatma eylemini bildirir. Sorunun bağlamına göre (radyo) bu eylemlerden biri amaçlanmaktadır. Eğer kapatmayı soruyorsa, <b>'turn off'</b> (kapatmak) kullanılmalıdır. (Shall I turn the radio <b>off</b> now?)"
+    },
+    {
+        "SoruID": 253598,
+        "Aciklama": "Cümle iki ana bölümden oluşur: <b>'Ali graduated last year'</b> (Ali geçen yıl mezun oldu) ve <b>'he is now a famous doctor'</b> (şimdi ünlü bir doktor). Cümlenin doğru çevirisi: <b>'Ali geçen yıl mezun oldu ve şimdi ünlü bir doktor.'</b>"
+    },
+    {
+        "SoruID": 254718,
+        "Aciklama": "Türkçe ifadedeki 'bakıyor' kelimesi <b>sürekli bakım ve ilgi gösterme</b> anlamındadır. Bu, İngilizcede <b>'look after'</b> phrasal fiili ile karşılanır. Geniş Zaman (Present Simple) kullanılarak doğru çeviri: <b>'He looks after his ill mother.'</b>"
+    },
+    {
+        "SoruID": 351982,
+        "Aciklama": "Will, ailesinin iki günlüğüne uzakta olacağını söylüyor ve Will cevabında 'Çok isterim' diyerek teşekkür ediyor. Bu durum Alice'in bir <b>davet</b> veya <b>konaklama teklifi</b> yaptığını gösterir. Diyaloğu tamamlayacak uygun bir teklif: <b>'Would you like to come over and stay with us?'</b> (Gelip bizde kalmak ister misin?)."
+    },
+    {
+        "SoruID": 351983,
+        "Aciklama": "Cümle 'Hafta sonu uzakta olduğumda kedime <b>bakabilir misin</b>?' anlamını taşır. Hayvan veya çocuklara bakmak, onlarla ilgilenmek anlamına gelen phrasal verb <b>'look after'</b> dır. Boşluğa <b>'look after'</b> getirilmelidir."
+    }
+]

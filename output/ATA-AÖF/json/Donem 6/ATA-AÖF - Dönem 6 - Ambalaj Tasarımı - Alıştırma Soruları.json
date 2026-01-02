@@ -17,6 +17,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Bir ped aracılığıyla mürekkebin doğrudan baskı yüzeyine transferini içeren baskı tekniği <b>Tampon Baskı</b>'dır (Pad Printing). Bu teknik, özellikle düz olmayan, kavisli veya girintili çıkıntılı yüzeylere (örneğin plastik şişe kapakları veya elektronik bileşenler) yüksek hassasiyetle baskı yapmak için kullanılır.",
         "Donem": 6
     },
     {
@@ -37,6 +38,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Cümledeki boşluğa getirilmesi gereken ifade <b>Ambalaj Tasarımıdır</b>. Ambalaj tasarımı, bir ürünün korunması, taşınması, sergilenmesi ve pazarlanması amacıyla dış muhafazasının hem fiziksel (yapısal) biçimini hem de görsel (grafik) görünümünü kavramsallaştırma ve uygulama sürecini kapsar.",
         "Donem": 6
     },
     {
@@ -57,6 +59,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Gıda koruma teknolojisinde devrim yaratan ve 1810 yılında Fransız Nicolas Appert’in cam konserve kavanozlarına alternatif olarak İngiliz Peter Durand tarafından patenti alınan ilk ambalaj türü <b>Teneke Kutu</b>'dur (Metal Can). Bu, uzun süreli gıda saklama imkanını artırmıştır.",
         "Donem": 6
     },
     {
@@ -77,6 +80,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Değerin bir dizi yüksek kontrastlı, dikdörtgen çubuklar ve boşluklarla kodlandığı tanımlama sembolü <b>Barkod</b>'dur. Barkodlar, ürünlerin otomatik olarak tanımlanması ve izlenmesi için kullanılır ve lojistik, envanter yönetimi ve satış noktası işlemlerinde kritik öneme sahiptir.",
         "Donem": 6
     },
     {
@@ -97,6 +101,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "1960'lı yıllar, Türkiye'de modern ambalaj sektörünün gelişmeye başladığı bir dönemdir. Bu dönemde temel ambalaj malzemeleri olan <b>Kâğıt</b> (I), <b>Karton</b> (II) yaygın olarak kullanılmaktaydı. Ayrıca esnek ambalajların önemli bir parçası olan <b>Selofan</b> (III) da bu dönemde kullanılan malzemeler arasındadır. Dolayısıyla hepsi (I, II ve III) doğrudur.",
         "Donem": 6
     },
     {
@@ -117,6 +122,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Bir eşyayı veya ürünü daha kolay istiflemek, depolamak ve taşımak için hacim ve ağırlık açısından birimler halinde gruplama işlemine <b>Birleştirme</b> (Unitization) veya yaygın uygulaması olarak <b>Paletleme</b> denir. Bu işlem lojistikte verimliliği artırır.",
         "Donem": 6
     },
     {
@@ -137,6 +143,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Bahsedilen genel amaçlar; ürünü tutmak, korumak, taşımak ve dikkat çekiciliğini sağlamak, doğrudan <b>Ambalaja</b> ait işlevlerdir. Ambalaj hem koruyucu hem de pazarlama aracı olarak görev yapar.",
         "Donem": 6
     },
     {
@@ -157,6 +164,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalajın ürünleri dış etkenlerden (nem, oksijen, ışık, toz vb.) koruma yeteneği <b>Bariyer Özelliği</b> olarak adlandırılır. İyi bir bariyer özelliği, ürünün tazeliğini ve raf ömrünü maksimize eder.",
         "Donem": 6
     },
     {
@@ -177,6 +185,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Tırtıklı ya da çeşitli eğimler içeren serbest kesimler genellikle <b>Kalıp Kesim</b> (Die Cutting) işlemleriyle elde edilir ve ambalajın belirli bir geometrik şekle veya açılma noktasına sahip olmasını sağlar. Eğer kolay yırtılma isteniyorsa bu tırtıklı kesimlere <b>Perforasyon</b> da denilebilir.",
         "Donem": 6
     },
     {
@@ -197,6 +206,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ambalaj malzemeleri, ürünün muhafazasını sağlayan somut yapısal materyallerdir (kağıt, cam, metal, plastik vb.). Seçenekler arasında yapısal olmayan bir unsur (örneğin <b>Baskı Mürekkebi</b>, <b>Klişe</b>, ya da <b>Yapıştırıcı</b>) ambalaj malzemesi olarak kabul edilmez, bunlar yardımcı unsurlardır.",
         "Donem": 6
     },
     {
@@ -217,6 +227,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Türkiye'de ambalaj üretiminin sektörel anlamda gelişimi ilk olarak <b>Gıda Sektörü Ambalajları</b> (özellikle konserve ve metal kutu üretimi) ve buna bağlı olarak <b>Karton/Oluklu Mukavva Ambalajları</b> alanında gerçekleşmiştir. Bu gelişim, özellikle 1950'ler ve 1960'lar sonrası sanayileşmeyle hız kazanmıştır.",
         "Donem": 6
     },
     {
@@ -237,6 +248,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ürünü doğrudan içine alan ve tüketiciye ulaşan ilk ambalaj katmanına <b>Birincil Ambalaj</b> (Primary Packaging) denir. Bu ambalaj, ürünün korunması ve kullanımı açısından en önemli katmandır.",
         "Donem": 6
     },
     {
@@ -257,6 +269,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Bir desenin baskı materyali üzerinde sürekli ve düzenli aralıklarla tekrarlanmasına <b>Rapor</b> veya <b>Tekrar Deseni</b> (Repeat Pattern) denir. Bu, özellikle esnek ambalaj ve etiket baskısında baskı silindirinin çevresiyle ilişkilidir.",
         "Donem": 6
     },
     {
@@ -277,6 +290,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Kolay kopması veya yırtılması istenilen bölümlerin belirli aralıklarla kesilmesi işlemine <b>Perforaj</b> (Perforation) denir. Bu teknik, ambalajlarda pratik açma noktaları oluşturmak için kullanılır.",
         "Donem": 6
     },
     {
@@ -297,6 +311,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Ambalajın temel özellikleri arasında koruyuculuk, ekonomiklik, taşıma kolaylığı ve bilgi verme yer alır. Bir ambalajda olması gereken özelliklerden biri <b>Yüksek Maliyetli Olması</b> veya <b>Gereğinden Fazla Ağır Olması</b> değildir. Tam tersine, maliyet ve ağırlık mümkün olduğunca düşük tutulmalıdır.",
         "Donem": 6
     },
     {
@@ -317,6 +332,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Kişiye özel çıkan veya özel hissettiren ambalaj fonksiyonu, ambalajın <b>İletişim ve Pazarlama</b> yönünü vurgular. Bu fonksiyon, tüketicinin ürünü kendisine ait hissetmesini sağlayarak, <b>marka sadakati</b> oluşturmayı ve satın alma kararını olumlu yönde etkilemeyi amaçlar. Günümüzde bu, özellikle <b>Hedefe Yönelik Mesajlar</b> ve kişiselleştirilmiş tasarımlar sayesinde önem kazanmıştır.",
         "Donem": 6
     },
     {
@@ -337,6 +353,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Mukavemet gerektiren, ağır ambalajların depolanması ve nakliyesi için yüksek dayanıklılığa sahip kartonlar kullanılmalıdır. Bu tip ambalajlar genellikle <b>Çift Dalga (Double Wall)</b> veya <b>Üç Dalga (Triple Wall)</b> karton yapılarından seçilir. Bu çok katmanlı yapı, tek katlı kartonlara göre çok daha yüksek <b>istifleme mukavemeti</b> ve <b>şok emme</b> kapasitesi sağlar.",
         "Donem": 6
     },
     {
@@ -357,6 +374,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Ürünün raf ömrünü uzatan ambalaj fonksiyonu temel olarak <b>Koruma (Muhafaza) Fonksiyonu</b> ile ilgilidir. Bu fonksiyon sayesinde ambalaj, ürünü dış etkenlerden (oksijen, nem, ışık, mikroorganizmalar) koruyarak ürünün bozulmasını yavaşlatır ve böylece <b>tazeliğini ve tüketilebilirlik süresini</b> artırır. Bu, özellikle gıda ürünleri için hayati öneme sahiptir.",
         "Donem": 6
     },
     {
@@ -377,6 +395,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Etkili ve nitelikli olarak adlandırılan ambalaj özelliklerinin başında <b>Kullanım Kolaylığı (Convenience)</b> gelir. Ambalajın kolay açılıp kapanması, dozajlama imkanı veya ergonomik olması bu niteliklerdendir. Ayrıca günümüzde <b>Sürdürülebilirlik</b> ve <b>Maliyet Etkinliği</b> de nitelikli ambalajın vazgeçilmez özelliklerindendir.",
         "Donem": 6
     },
     {
@@ -397,6 +416,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ambalaj etiketinde, yasal mevzuatlar gereği, ürünün adı, içeriği, net miktarı, üretici bilgileri ve son kullanma tarihi gibi bilgiler zorunludur. Ancak ambalajın <b>Maliyeti</b> veya ticari sır niteliğindeki üretim detayları, genellikle etikette bulunması zorunlu olmayan unsurlardır.",
         "Donem": 6
     },
     {
@@ -417,6 +437,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ürün ile doğrudan temas halindeki ambalaj türü <b>Birincil Ambalaj (Asli Ambalaj)</b> olarak adlandırılır. Bu ambalaj, ürünün hemen çevresini sarar ve koruma fonksiyonunun yanı sıra görsel iletişim ve bilgi verme görevini de üstlenir. Bir şişenin kendisi veya bir konservenin kutusu birincil ambalajdır.",
         "Donem": 6
     },
     {
@@ -437,6 +458,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Ambalaj tarihinin ilk dönemlerinde kullanılan malzemeler genellikle doğadan elde edilen <b>Doğal Malzemelerdi</b> (kil, deri, cam, tahta). <b>Plastik (Polimerler)</b> ise, petrol kimyasının gelişmesiyle ortaya çıkmış ve ambalaj tarihinde nispeten çok daha geç, 20. yüzyılda yaygınlaşmıştır. Bu nedenle, plastik ambalaj ilk dönem malzemelerinden biri değildir.",
         "Donem": 6
     },
     {
@@ -457,6 +479,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalajın temel fonksiyonları <b>Koruma</b>, <b>İletişim/Pazarlama</b>, <b>Kullanım Kolaylığı</b> ve <b>Taşıma/Depolama</b> gibi görevleri kapsar. <b>Personel İstihdamı</b> ise bir ekonomik etki veya üretim çıktısıdır, ancak ambalajın teknik veya pazarlama fonksiyonu olarak kabul edilmez.",
         "Donem": 6
     },
     {
@@ -477,6 +500,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Dış ambalaj (taşıma ve depolama ambalajı) lojistik süreçlerde kullanılır. Etkili ve nitelikli bir dış ambalajın en önemli özellikleri arasında, taşıma sırasında hasarı önlemek için <b>Yüksek Mekanik Dayanıklılık</b> ve depolamada yerden tasarruf sağlamak için <b>İstiflenebilirlik</b> (Stackability) yer almalıdır.",
         "Donem": 6
     },
     {
@@ -497,6 +521,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Işın, rutubet, nem, titreşim, şok ve sıcaklık değişimleri gibi dışsal unsurlara karşı ürünü muhafaza etmek, ambalajın en temel ve asli görevi olan <b>Koruma (Muhafaza) Fonksiyonu</b> kapsamındadır. Bu fonksiyon, ürünün kalitesini ve bütünlüğünü satış noktasına kadar korumayı sağlar.",
         "Donem": 6
     },
     {
@@ -517,6 +542,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Görsel iletişimin tasarım elemanlarını (marka logosu, renkler, grafikler) üzerinde barındıran ve tüketicinin satın alma anında doğrudan gördüğü ambalaj türü <b>Birincil Ambalajdır</b>. Bu ambalaj, raf üzerindeki <b>Dikkat Çekme</b> ve <b>Bilgi Aktarma</b> görevlerini yerine getirir ve pazarlama aracı olarak kullanılır.",
         "Donem": 6
     },
     {
@@ -537,6 +563,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Tüketici üzerinde dikkat çekme unsurları, ambalaj tasarımının dört temel yapı taşı ile sağlanır. Bu unsurlar: <b>Renk</b>, form ve yapı, tipografi (yazı karakterleri), sayılar ve sembollerdir. <b>Renk</b>, ambalajı diğerlerinden ayırarak tüketicinin ürünü ilk fark etmesini sağlayan en güçlü görsel elementtir.",
         "Donem": 6
     },
     {
@@ -557,6 +584,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Tutundurma (Promosyon) fonksiyonunun asli görevleri, tüketicinin dikkatini çekmek, ürüne dair <b>Faydaları Bildirmek</b>, markayı akılda tutmak ve satın almaya teşvik etmektir. Ürünü fiziksel hasardan korumak ise <b>Koruma Fonksiyonunun</b> asli görevidir ve tutundurma görevleri arasında yer almaz.",
         "Donem": 6
     },
     {
@@ -577,6 +605,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Promosyon olarak da bilinen ambalaj fonksiyonu <b>Tutundurma Fonksiyonu</b>dur. Bu fonksiyon, ambalajın üzerindeki çekici görseller, özel teklifler veya iletişim mesajları aracılığıyla tüketiciyi etkilemeyi ve <b>Satın Alma İsteği</b> yaratmayı hedefler.",
         "Donem": 6
     },
     {
@@ -597,6 +626,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "<b>İnovasyon</b>, bir yenilik, yeni bir yöntem, ürün veya hizmetin geliştirilmesi veya mevcut olanların önemli ölçüde <b>İyileştirilmesi</b> anlamına gelir. Bu kavram; yenilikçilik, yaratıcılık ve farklılaşma ile ilişkilidir. <b>Tekrarlama</b> veya katı <b>Standartlaştırma</b> ise mevcut durumu korumayı amaçladığından inovasyonun karşılığı değildir.",
         "Donem": 6
     },
     {
@@ -617,6 +647,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Doğru ilke <b>Sadelik</b>tir. Sadelik ilkesi, ambalaj tasarımındaki mesajın olabildiğince net, doğru ve <b>gereksiz ayrıntılardan arındırılmış</b> olmasını gerektirir. Bu, tüketicinin ürünü anlama hızını artırır ve görsel gürültüyü engeller.",
         "Donem": 6
     },
     {
@@ -637,6 +668,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Bir ambalajın pazarda rakipleri arasından sıyrılması ve <b>benzersiz</b> bir kimlik kazanması için <b>Özgünlük (Orjinallik) ilkesi</b>ne özellikle dikkat edilmesi gerekir. Özgünlük, ambalajın taklit edilemez olmasını sağlayarak marka değerini destekler.",
         "Donem": 6
     },
     {
@@ -657,6 +689,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ürünlerin yoğun olduğu bir rafta ambalajın potansiyel alıcı tarafından <b>ilk fark edilmesi</b>, ambalaj tasarımının en temel kriterlerinden olan <b>Dikkat Çekicilik</b> ile ilişkilidir. Ambalajın formu, rengi ve grafiği bu kriteri sağlamalıdır.",
         "Donem": 6
     },
     {
@@ -677,6 +710,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalaj tasarım kriterleri, tasarımın başarısını ölçen temel unsurlardır (Örn: Dikkat Çekicilik, Hedef Kitleye Uygunluk, Teknik Uygunluk). Seçeneklerde yer alan ve bu temel unsurlarla doğrudan bağlantılı olmayan bir yargı (örneğin: 'Kişisel Beğeni' veya 'Yüksek Maliyetten Kaçınma') tasarım kriterleri arasında <b>yer almaz</b>. Kriterler, tasarımın pazar ve üretim başarısı üzerine odaklanır.",
         "Donem": 6
     },
     {
@@ -697,6 +731,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "<b>Görsel gürültü</b>, aşırı detay, karmaşık renkler veya fazla yazı kullanımı nedeniyle mesajın iletilememesi durumudur. Bu etkiyi kaybetmemek için, tasarımın net ve temiz olmasını sağlayan <b>Sadelik/Açıklık kriteri</b>ne dikkat edilmelidir.",
         "Donem": 6
     },
     {
@@ -717,6 +752,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ambalaj tasarımında geçici <b>trend eğilimleri</b> takip edilse bile, ambalajın marka ve ürünün temel vaatleriyle örtüşmesi zorunludur. Bu, <b>Ürün Kimliğiyle Uyum (Tutarlılık)</b> kriterinin sağlanması demektir. Uyumsuz bir ambalaj, markanın algısını zedeleyebilir.",
         "Donem": 6
     },
     {
@@ -737,6 +773,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Ambalaj tasarımının kalabalık raflarda öne çıkmasını ve <b>muadillerinden kolayca ayrılmasını</b> sağlayan kriter <b>Özgünlük</b>tür. Özgünlük, ambalajın tüketicinin zihninde yer edinen ayırt edici özellikler taşımasını sağlar.",
         "Donem": 6
     },
     {
@@ -757,6 +794,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Ambalajın, hitap ettiği kitlenin <b>demografik, psikolojik ve sosyo-kültürel özelliklerini</b> dikkate alması, mesajın doğru alımlanması için şarttır. Bu uyum, <b>Hedef Kitleye Uygunluk</b> kriterine özen gösterildiğini gösterir.",
         "Donem": 6
     },
     {
@@ -777,6 +815,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Eğer ürün 'sağlam ve dayanıklı' gibi özellikler iddia ederken, ambalajı 'ince, zarif ve süslü' ise, ambalaj dili ile ürün vaadi arasında bir çelişki vardır. Bu durum, <b>Ürün Kimliğiyle Uyum (Tutarlılık)</b> kriterinin ihlal edildiğini gösterir.",
         "Donem": 6
     },
     {
@@ -797,6 +836,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Ambalajın seri üretim süreçlerinden, yani <b>üretim hatlarından geçerken sorunsuz üretilebilmesi</b>, tasarımın fiziki olarak uygulanabilirliğini gösterir. Bu, <b>Teknik Uygunluk (Üretilebilirlik)</b> kriteri ile ilişkilidir ve tasarımın maliyet etkinliğini etkiler.",
         "Donem": 6
     },
     {
@@ -817,6 +857,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Tasarım sürecinin ilk aşaması olan <b>Hazırlık veya Araştırma Aşaması</b>nda, projenin temelleri atılır. Bu aşamada, pazar ve rakiplerin yanı sıra, <b>hedef kitle ile ilgili niceliksel ve niteliksel özelliklerin tespiti</b> yapılır.",
         "Donem": 6
     },
     {
@@ -837,6 +878,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Araştırma verileri toplandıktan sonra, yaratıcı çözümlerin arandığı ve <b>ambalaj tasarım fikirlerinin bulunmaya başladığı</b> aşama, <b>Fikir Geliştirme ve Konsept Oluşturma Aşaması</b>dır. Bu fikirler genellikle moodboardlar veya <b>örneklerle desteklenir</b>.",
         "Donem": 6
     },
     {
@@ -857,6 +899,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "<b>Örnek maket (prototip)</b>, tasarımın fiziksel boyutlarını, malzemesini ve işlevselliğini test etmek için kullanılır. Maket yapımı, tasarımın uygulama ve geliştirme aşamasından sonra, yüksek maliyetli <b>Üretim (Sonlandırma) Aşaması</b>ndan hemen <b>önce</b> zorunludur. Maketler, üretime geçmeden son hataların tespit edilmesini sağlar.",
         "Donem": 6
     },
     {
@@ -877,6 +920,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Ekran kartları üzerindeki görüntü işleme görevini üstlenen çipe <b>Görüntü İşlem Birimi</b> (Graphics Processing Unit) veya kısaca <b>GPU</b> denir. GPU, özellikle grafik yoğunluklu işlemleri (3D modelleme, oyunlar, render) çok hızlı bir şekilde gerçekleştirmek için tasarlanmıştır ve Merkezi İşlem Birimi'nin (CPU) yükünü hafifletir.",
         "Donem": 6
     },
     {
@@ -897,6 +941,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Rastgele Erişimli Bellek (<b>RAM</b>) geçici depolama birimidir ve kapasitesi günümüzde genellikle <b>Gigabyte (GB)</b> birimi ile ifade edilir. 1 Gigabyte, yaklaşık 1024 Megabyte'a (MB) eşittir ve bir bilgisayarın aynı anda ne kadar veriyi aktif olarak işleyebileceğini gösterir.",
         "Donem": 6
     },
     {
@@ -917,6 +962,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Ambalaj tasarımı geliştirmek için donanım seçiminde <b>işlemci hızı</b>, <b>RAM miktarı</b> ve <b>ekran kartı (GPU) performansı</b> gibi teknik özellikler önemlidir. Firmanın teknik yeterlilikten bağımsız bir özelliği olan <b>firma logosunun rengi</b>, donanım seçiminde dikkat edilmesi gereken teknik bir nokta değildir.",
         "Donem": 6
     },
     {
@@ -937,6 +983,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Bir ekrandaki <b>piksel</b> (resim elementi) sayısının fazla olması, yani yüksek <b>çözünürlük</b> (örneğin 4K), görüntünün <b>netliğinin ve detay seviyesinin artmasına</b> neden olur. Daha fazla piksel, daha ince ayrıntıların gösterilebilmesi anlamına gelir.",
         "Donem": 6
     },
     {
@@ -957,6 +1004,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Bilgisayarın tüm hesaplama, mantık ve koordinasyon işlemlerini yürüten temel donanım birimine <b>Merkezi İşlem Birimi (CPU)</b> denir. <b>CPU</b>, diğer tüm donanımlar arasındaki iletişimi koordine eder ve verileri işleyen ana bileşendir.",
         "Donem": 6
     },
     {
@@ -977,6 +1025,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Merkezi İşlem Birimlerinin (CPU) çalışma hızı, saniyede gerçekleştirebildiği döngü sayısını ifade eden <b>Hertz (Hz)</b> birimiyle ölçülür. Günümüzde bu hız genellikle <b>Gigahertz (GHz)</b> (saniyede milyarlarca döngü) olarak ifade edilir.",
         "Donem": 6
     },
     {
@@ -997,6 +1046,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Bilgisayar ekranlarında bir görüntüyü oluşturan ve her biri farklı renkte olabilen <b>en küçük adreslenebilir nokta</b>ya <b>Piksel</b> (Picture Element) adı verilir. Çözünürlük, ekrandaki toplam piksel sayısını belirtir.",
         "Donem": 6
     },
     {
@@ -1017,6 +1067,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Bilgisayar monitörleri, televizyonlar ve diğer dijital görüntüleme cihazları, ışığı kullanarak renkleri oluşturur. Bu sistem <b>Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)</b> temel renklerinin karışımına dayanan <b>RGB</b> renk sistemidir.",
         "Donem": 6
     },
     {
@@ -1037,6 +1088,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Boyutu büyütüldükçe netliği bozulmayan tasarımlar için <b>Vektör tabanlı</b> (Vector) grafik tasarım programları kullanılmalıdır. Vektör grafikler, matematiksel formüllerle tanımlandığı için <b>ölçeklendirme sırasında</b> görüntü kalitesinde <b>kayıp yaşanmaz</b>.",
         "Donem": 6
     },
     {
@@ -1057,6 +1109,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Ambalaj tasarımı yazılımları, tasarım ve üretim süreçlerini hızlandırır ve hataları azaltır. Ancak bu yazılımlar, tasarımın nihai uygunluğunu kontrol etmek veya son dokunuşları yapmak amacıyla gerekli olabilecek <b>fiziksel prototip ihtiyacını tamamen ortadan kaldırmaz</b>.",
         "Donem": 6
     },
     {
@@ -1077,6 +1130,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Çevrim içi (Online) tasarım yazılımları genellikle kolay erişim ve düşük maliyet avantajı sunar. Ancak bu tür yazılımlar, genellikle <b>çok karmaşık ve büyük projelerde</b> masaüstü yazılımları kadar <b>yüksek performans sunmayabilir</b> çünkü performansı internet hızına ve tarayıcı kapasitesine bağlıdır.",
         "Donem": 6
     },
     {
@@ -1097,6 +1151,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "3 boyutlu bir modelin matematiksel verilerinin, ışık, gölge ve doku gibi detaylar eklenerek, <b>gerçekçi bir 2 boyutlu görüntüye veya animasyona dönüştürülmesi</b> işlemine <b>Rendering</b> (Kaplama/Canlandırma) denir. Bu, tasarımın gerçek dünyada nasıl görüneceğinin simülasyonudur.",
         "Donem": 6
     },
     {
@@ -1117,6 +1172,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Farklı programlarda oluşturulmuş <b>3 boyutlu modellerin</b>, ambalaj tasarım yazılımına (dışarıdan) alınarak entegre edilmesi işlemine <b>Veri Aktarımı</b> (Import) denir. Bu işlem, farklı yazılımlar arasında dosya alışverişini sağlayarak esnekliği artırır.",
         "Donem": 6
     },
     {
@@ -1137,6 +1193,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ürünün fiziksel bir prototipini üretmeye gerek kalmadan, hazırlanan dijital 3D modelin <b>gerçek dünya görüntüsü üzerine yerleştirilerek</b> görülmesini sağlayan teknolojiye <b>Artırılmış Gerçeklik (AR)</b> veya İngilizce adıyla <b>Augmented Reality</b> denir. Bu, tasarımların gerçek ortamlarında sanal olarak test edilmesine olanak tanır.",
         "Donem": 6
     },
     {
@@ -1157,6 +1214,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Ambalajda baskı oluşum süreçleri, matbaacılık sektöründe olduğu gibi üç temel aşamada incelenmektedir. Bunlar sırasıyla <b>Baskı Öncesi Hazırlık</b> (tasarım ve kalıp hazırlığı), <b>Baskı</b> (üretim/çoğaltma) ve <b>Baskı Sonrası İşlemler</b> (kesim, katlama, ciltleme, ambalajlama) aşamalarıdır. Bu sıralama, nihai ürünün elde edilmesi için izlenmesi gereken mantıksal akışı temsil eder.",
         "Donem": 6
     },
     {
@@ -1177,6 +1235,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Çoğunlukla 'flexible' adı verilen esnek ambalajların (cips, gofret, çorba paketleri vb.) üretiminde kullanılan ve ambalaj tasarımının en yaygın baskı tekniği <b>Fleksografi</b>dir. Fleksografi, hızlı baskı kapasitesi ve esnek (kauçuk veya fotopolimer) kalıplar kullanması sayesinde film ve folyo gibi emici olmayan malzemelere başarılı bir şekilde baskı yapabilir.",
         "Donem": 6
     },
     {
@@ -1197,6 +1256,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Bobin hâlindeki baskı altı malzemesine çok yüksek hızlarla (saatte 15.000 ila 50.000 veya daha fazla) çift taraflı baskı yapabilme özelliğine sahip teknik <b>Rotatif (Döner) Ofset Baskı</b> tekniğidir. Bu makineler, özellikle gazete, dergi ve yüksek tirajlı katalog üretiminde kullanılır.",
         "Donem": 6
     },
     {
@@ -1217,6 +1277,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Matbaacılık ve yayıncılık sektöründe kullanılan <b>Tiraj</b> terimi, bir baskı işinde basılması planlanan veya basılmış olan <b>toplam kopya (adet) sayısını</b> ifade eder. Örneğin, bir kitabın 10.000 tiraj yapması, o kitaptan 10.000 adet üretildiği anlamına gelir.",
         "Donem": 6
     },
     {
@@ -1237,6 +1298,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Fleksbıl (esnek) denilen film ve folyo bazlı ambalajlarda (cips, jelibon, çikolata vb.) kullanılan baskı tekniği <b>Fleksografi</b>dir. Fleksografi, kauçuk veya polimerden yapılmış esnek kalıplar sayesinde bu tür esnek ve rulo halindeki malzemelere yüksek kalitede baskı yapılmasına olanak tanır.",
         "Donem": 6
     },
     {
@@ -1257,6 +1319,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Hem rulo halindeki <b>bobin</b> malzemeye (web-fed) hem de tek tek kesilmiş <b>tabaka</b> kâğıda (sheet-fed) baskı yapılabilen en yaygın teknik <b>Ofset Baskı</b>dır. Ofset, matbaacılıkta en esnek ve en çok kullanılan baskı yöntemi olarak bilinir ve ihtiyaca göre makine tipleri ayrılır.",
         "Donem": 6
     },
     {
@@ -1277,6 +1340,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Tasarım ögesini üzerinde barındıran ve mürekkebi baskı altı malzemesine aktarmaya yarayan herhangi bir yüzeyi ifade eden kavram <b>Baskı Formu</b> veya kısaca <b>Kalıp</b>tır. Her baskı tekniği (ofset, tipo, serigrafi vb.) kendi özel baskı formunu kullanır.",
         "Donem": 6
     },
     {
@@ -1297,6 +1361,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Mısır'da, daha çok Nil Nehri kenarlarında yetişen ve kamışa benzeyen bitkiden üretilen kalın kâğıt çeşidi <b>Papirüs</b>'tür. Papirüs, tarihte yazının ve basımın ilk malzemelerinden biri olarak kullanılmıştır.",
         "Donem": 6
     },
     {
@@ -1317,6 +1382,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Mühürler, kayıtları, sahipliği ve yetkiyi onaylamak amacıyla ilk olarak <b>Mezopotamya</b>'da (özellikle Sümerler tarafından) kullanılmaya başlanmıştır. Bu mühürler, silindir veya damga şeklinde olup, basılı iletişimin en eski örneklerinden sayılır.",
         "Donem": 6
     },
     {
@@ -1337,6 +1403,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Baskı öncesi hazırlık süreci, tasarım dosyasının baskıya hazır hale getirilmesini (renk ayrımı, çözünürlük, montaj vb.) kapsar. <b>Ciltleme (Mücellit)</b>, bir basılı materyalin (kitap, dergi) son halini alması için yapılan <b>Baskı Sonrası İşlemler</b> arasında yer alır ve tasarımcının doğrudan sorumluluğu altında değildir.",
         "Donem": 6
     },
     {
@@ -1357,6 +1424,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Baskı yapan yüzeylerin, baskı yapmayacak yüzeylerden daha yüksekte olduğu baskı kategorisine <b>Yüksek Baskı</b> (Tipo/Relief) denir. Bu kategoride yer alan tekniklerden biri <b>Fleksografi</b>dir. Tipo (Letterpress) da yüksek baskının klasik bir örneğidir.",
         "Donem": 6
     },
     {
@@ -1377,6 +1445,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Tarihte bilinen en eski basım tekniği, <b>Tahta Kalıp Baskı</b> (Ağaç Oyma Baskı) yöntemidir. Bu teknik, Çin'de yaygın olarak kullanılmış ve Gutenberg’in Tipo (Hareketli Harfler) baskı sistemine öncülük etmiştir. Her iki teknik de <b>Yüksek Baskı</b> kategorisine girer.",
         "Donem": 6
     },
     {
@@ -1397,6 +1466,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Geleneksel film çıkışı, kalıp pozlama ve montaj işlemlerini devreden çıkaran sistem <b>CTP (Computer to Plate)</b>'dir. CTP sistemiyle hazırlanan kalıplar genellikle <b>Ofset Baskı</b> tekniğinde kullanılır ve görüntünün doğrudan bilgisayardan baskı kalıbına aktarılmasını sağlayarak baskı öncesi hazırlık sürecini büyük ölçüde hızlandırır ve otomatikleştirir.",
         "Donem": 6
     },
     {
@@ -1417,6 +1487,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "<b>Fleksografi</b>, kauçuk veya esnek fotopolimer kalıplar kullanan bir yüksek baskı tekniğidir. Bu esnek kalıplar, özellikle ambalaj ve plastik filmler gibi esnek baskı altı malzemeleri üzerinde çalışmak için idealdir. Ofset baskıda kauçuk battaniye kullanılsa da, kalıbın kendisi metal/polimerdir; kauçuk kalıp kullanımı Fleksografinin ayırt edici özelliğidir.",
         "Donem": 6
     },
     {
@@ -1437,6 +1508,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Kâğıt ambalajların temel ham maddesi, odun, pamuk, bambu ve keten gibi bitkisel kaynakların hücre çeperinin ana bileşeni olan <b>Selüloz</b>'dur. Selüloz, uzun zincirli bir polisakkarit olup, ambalaj üretiminde kullanılan kâğıt ve kartonun dayanımını ve yapısal bütünlüğünü sağlayan doğal bir <b>polimerdir</b>.",
         "Donem": 6
     },
     {
@@ -1457,6 +1529,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Çelik, demirin karbon ile yaptığı bir alaşımdır. Çeliği diğer demir alaşımlarından ayıran en kritik özellik, içerdiği karbon miktarıdır. Ambalaj sektöründe kullanılan çelikler de dahil olmak üzere, çelikler tipik olarak ağırlıkça <b>%0.02 ile %2.1 arasında karbon</b> içerirler. Bu aralık, çeliğe hem mukavemet hem de işlenebilirlik özellikleri kazandırır.",
         "Donem": 6
     },
     {
@@ -1477,6 +1550,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Camın kimyasal bileşimine göre yapılan sınıflandırmalar genellikle camı oluşturan ana oksit türlerine (örneğin, <b>Soda-kireç camı</b>, borosilikat camı, kurşun camı) dayanır. Eğer seçenekler arasında <b>renk</b>, <b>şekil</b> (şişe, kavanoz) veya üretim tekniği gibi kimyasal bileşimle doğrudan ilgili olmayan bir kriter varsa, o kriter kimyasal sınıflandırmanın içerisinde yer almaz.",
         "Donem": 6
     },
     {
@@ -1497,6 +1571,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Kâğıt ve karton ambalaj malzemelerinin yapımında kullanılan ana ham madde, odun veya diğer bitkisel kaynaklardan elde edilen <b>selüloz lifleridir</b> (odun hamuru). Selüloz, bu malzemelerin temel yapısını oluşturur ve dayanıklılığını sağlar.",
         "Donem": 6
     },
     {
@@ -1517,6 +1592,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Güçlü ve oluklu mukavva yapımına (linerboard ve fluting) yönelik kâğıtların üretiminde, liflerin dayanımını maksimize eden ve yüksek mukavemet sağlayan kimyasal hamurlaştırma işlemi olan <b>Kraft (Sülfat) İşlemi</b> kullanılır. Bu işlem, selüloz liflerini ligninden ayırırken liflerin hasar görmesini minimuma indirir.",
         "Donem": 6
     },
     {
@@ -1537,6 +1613,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Metallerin karakteristik özellikleri arasında <b>yüksek elektrik ve ısı iletkenliği</b>, yüksek yoğunluk, <b>parlak yüzey</b> (metalik parlaklık) ve genellikle yüksek süneklik (yani <b>dövülebilirlik ve çekilebilirlik</b>) yer alır. Bu özellikler, metalleri ambalaj uygulamaları için uygun hale getirir.",
         "Donem": 6
     },
     {
@@ -1557,6 +1634,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Yeryüzü kabuğunda en çok bulunan elementler sırasıyla Oksijen, Silisyum ve üçüncü sırada <b>Alüminyum</b>'dur. Alüminyum, yeryüzünde en bol bulunan metal elementtir ve hafifliği, korozyon direnci ve yüksek bariyer özellikleri nedeniyle önemli bir ambalaj malzemesidir.",
         "Donem": 6
     },
     {
@@ -1577,6 +1655,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Krom kaplı çelik, genellikle Tenekesiz Çelik (TFS) olarak bilinir. Bu malzeme, maliyeti düşürmek ve korozyon direncini artırmak amacıyla kullanılır. Başlıca kullanım alanları <b>konserve kutularının gövdeleri</b> ve çeşitli <b>kutu kapaklarıdır</b>. Genellikle içerikle doğrudan teması önlemek için organik lak ile kaplanır.",
         "Donem": 6
     },
     {
@@ -1597,6 +1676,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ambalaj malzemesi üretiminde kullanılan teneke (kalay kaplı çelik) levhaları oldukça ince haddelenir. Bu levhaların kalınlığı, dayanıklılık gereksinimlerine bağlı olarak genellikle <b>0.13 mm ile 0.40 mm</b> arasında değişen mikron seviyelerindedir. Bu incelik, ağırlığı minimize ederken gerekli mukavemeti korur.",
         "Donem": 6
     },
     {
@@ -1617,6 +1697,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Kuvars (silis kumu), kalsit (kireçtaşı) ve soda (sodyum karbonat) gibi ham maddelerin uygun sıcaklıkta (yaklaşık 1500°C) ergitilmesi ve amorf yapıda soğutulması ile oluşan malzeme <b>Cam</b>'dır. Cam, ambalaj sektöründe <b>saydamlığı</b>, sertliği, yüksek kimyasal dayanıklılığı ve mükemmel bariyer özellikleri nedeniyle kullanılır, ancak doğası gereği <b>kırılgan</b> bir malzemedir.",
         "Donem": 6
     },
     {
@@ -1637,6 +1718,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Küçük molekül birimleri olan <b>monomerlerin</b>, kovalent bağlar yardımıyla uzun zincirler halinde bir araya gelerek oluşturduğu yüksek molekül ağırlığına sahip malzemelere <b>Polimer</b> denir. Plastikler, ambalaj malzemesi olarak kullanılan en yaygın sentetik polimerlerdir.",
         "Donem": 6
     },
     {
@@ -1657,6 +1739,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Plastik ambalaj türleri Polietilen (PE), Polipropilen (PP), Polietilen Tereftalat (PET) gibi sentetik polimerlerdir. Eğer seçenekler arasında <b>Cam</b>, <b>Alüminyum</b>, <b>Teneke</b> veya <b>Karton</b> gibi ana malzeme sınıfı olarak plastik olmayan bir madde varsa, o malzeme plastik ambalaj türü içinde yer almaz.",
         "Donem": 6
     },
     {
@@ -1677,6 +1760,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Polietilen (PE), ambalaj sektöründe çok yönlü kullanılan bir termoplastiktir. Düşük yoğunluklu polietilen (LDPE) genellikle <b>esnek filmler</b>, <b>plastik poşetler</b> ve streç filmler için kullanılır. Yüksek yoğunluklu polietilen (HDPE) ise daha sert yapı gerektiren <b>deterjan veya süt şişeleri</b> gibi uygulamalarda yaygındır. PE, özellikle nem bariyeri özellikleri açısından önemlidir.",
         "Donem": 6
     },
     {
@@ -1697,6 +1781,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalaj tasarımını oluşturan temel unsurlar, ambalajın hem görsel hem de yapısal kimliğini belirler. Bu unsurlar arasında <b>Renk</b>, <b>Tipografi</b>, <b>Şekil</b>, <b>Görsel Materyaller</b> ve <b>Materyal/Yapısal Tasarım</b> yer alır. Bu bağlamda, eğer şıklar arasında <b>Makroekonomi</b>, <b>Dağıtım Stratejisi</b> veya <b>Hukuksal Düzenlemeler</b> gibi doğrudan görsel tasarımla veya fiziksel yapıyla ilgili olmayan bir kavram varsa, bu ambalaj tasarımının bir unsuru değildir.",
         "Donem": 6
     },
     {
@@ -1717,6 +1802,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "<b>Kazimir Malevich</b>, <b>Süprematizm</b> akımının kurucusudur. Süprematizm, nesnel olmayan duyarlılığa odaklanır. Malevich, eserlerindeki geometrik formları yerleştirdiği zemini ifade etmek için sıklıkla <b>Beyaz</b> rengini kullanmıştır. Beyaz, Malevich için 'sonsuzluğun gerçek rengi'ni temsil eder ve formların içinde bulunduğu <b>sonsuz boşluğu</b> ve nesnel olmayan duyarlılığı simgeler.",
         "Donem": 6
     },
     {
@@ -1737,6 +1823,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Dijital tasarımda rengin niteliklerini tam olarak tanımlayan bu değerler bütünü, <b>HSB (Hue, Saturation, Brightness)</b> veya <b>HSL (Hue, Saturation, Lightness)</b> renk modeli olarak adlandırılır.<br/>- <b>Ton (Hue)</b>: Rengin adını (Kırmızı, Mavi vb.)<br/>- <b>Doygunluk (Saturation)</b>: Rengin saflığını veya yoğunluğunu<br/>- <b>Parlaklık (Brightness/Lightness)</b>: Rengin açıklık veya koyuluğunu (ışık değerini) ifade eder.",
         "Donem": 6
     },
     {
@@ -1757,6 +1844,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Rengin işlevsel etkileri, estetik veya psikolojik etkilerden farklı olarak, rengin pratik bir görevi yerine getirmesini ifade eder. Doğru bir işlevsel etki örneği: <b>Trafik ışıklarında kırmızı rengin durma talimatını iletmesi</b> veya <b>farklı kategorileri kodlamak için farklı renklerin kullanılması</b> (örneğin, elektrik kablolarında veya haritalarda).",
         "Donem": 6
     },
     {
@@ -1777,6 +1865,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Verilen ifade, <b>Renk</b> kavramının fiziksel ve algısal temelini açıklamaktadır. Renk, bir nesneye çarpan ışığın yansıma veya soğurulma sonucunda, göze ulaşan ışınlar sayesinde beynimizde oluşan <b>görsel duyumdur</b>. Renk, ışık, cisim ve göz/beyin bileşenlerinin tamamıyla oluşan karmaşık bir olgudur.",
         "Donem": 6
     },
     {
@@ -1797,6 +1886,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Bu sözler ünlü Hollandalı ressam <b>Vincent Van Gogh</b>'a aittir. Van Gogh, özellikle 'Gece Kafesi' gibi eserlerinde, renkleri kullanarak yoğun duygusal durumları, iç çatışmaları ve dramı ifade etmiştir. <b>Kırmızı ve yeşil</b> gibi zıt (tamamlayıcı) renkleri bir arada kullanarak yarattığı yüksek kontrast, izleyicide rahatsız edici bir gerilim ve ihtirasın korkunçluğu hissini uyandırmayı amaçlamıştır.",
         "Donem": 6
     },
     {
@@ -1817,6 +1907,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Tanımlanan bu üç aşamalı durum, <b>Renk Algılaması</b> (Görsel Algılama) sürecini ifade eder. Bu süreç, sadece ışığın fiziksel yansımasından ibaret değildir; aynı zamanda gözün fizyolojik tepkilerini ve beynin bu sinyalleri yorumlayarak cismi ve rengini algılaması gibi <b>psikolojik</b> unsurları da içerir.",
         "Donem": 6
     },
     {
@@ -1837,6 +1928,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "<b>Kırmızı</b> ve <b>Sarı</b> ana renklerinin karışımından elde edilen ara renk <b>Turuncu</b>'dur. Turuncu, her iki sıcak rengin özelliklerini taşıdığı için yoğun bir <b>enerji</b>, hareket ve <b>sıcaklık</b> hissi verir. Bu nedenle coşku, eğlence ve iştah açıcı ürünlerin ambalajlarında sıklıkla kullanılır.",
         "Donem": 6
     },
     {
@@ -1857,6 +1949,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Aynı rengin tonu (hue) sabit tutularak, sadece <b>ışık değerinin (parlaklığın veya koyuluğun)</b> değiştirilmesiyle yaratılan renk kontrast türü <b>Açık-Koyu Kontrastı</b> (Hell-Dunkel Kontrast) olarak adlandırılır. Bu kontrast, tasarımda derinlik ve üç boyutluluk hissi yaratmak için temel bir araçtır.",
         "Donem": 6
     },
     {
@@ -1877,6 +1970,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Rengin tonu (Hue), bir rengin spektrumdaki pozisyonunu belirten, yani o rengin temel adını (Kırmızı, Yeşil, Mavi vb.) veren özelliğidir. Ton, rengi parlaklık veya doygunluktan bağımsız olarak tanımlar. Bu nedenle, <b>'Saf Kırmızı'</b> veya <b>'Mavi'</b> gibi ifadeler, rengin tonunu ifade eden örneklerdir.",
         "Donem": 6
     },
     {
@@ -1897,6 +1991,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ambalaj tasarımını oluşturan unsurlar: <b>Tipografi</b>, <b>Renk</b>, <b>Şekil</b>, <b>Materyal</b> ve <b>Grafik Öğeler</b>dir. Bu unsurlar ambalajın fiziksel ve görsel varlığını tanımlar. Ambalajın <b>Üretim Maliyeti</b>, <b>Lojistik Süreci</b> veya <b>Pazarlama Bütçesi</b> gibi unsurlar ise tasarımın teknik veya yönetimsel bileşenleridir, doğrudan tasarım unsuru sayılmazlar.",
         "Donem": 6
     },
     {
@@ -1917,6 +2012,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "<b>Mavi</b> renk, psikolojik olarak <b>güven</b>, <b>sadakat</b>, istikrar ve huzur ile ilişkilendirilir. Genellikle kurumsal kimliklerde ve bankacılık gibi güven unsurunun kritik olduğu sektörlerde tercih edilir. Ayrıca gökyüzü ve deniz çağrışımı nedeniyle temizlik ve derinlik anlamlarını da taşır.",
         "Donem": 6
     },
     {
@@ -1937,6 +2033,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Kırmızı ve sarının karışımı olan <b>Turuncu</b>, canlılığı ve enerjiyi temsil eder. Gıda ambalajlarında yaygın olarak tercih edilmesinin temel nedeni, <b>iştah açıcı</b> bir etkiye sahip olması ve tüketicide coşku/pozitif enerji uyandırmasıdır. Ayrıca hızlı yiyecekler ve atıştırmalıklar için ideal bir renktir.",
         "Donem": 6
     },
     {
@@ -1957,6 +2054,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Rengin işlevsel etkileri, bilgi kodlama veya uyarı verme gibi pratik görevlere odaklanırken (örn: kırmızı tehlike), rengin <b>duygusal veya estetik etkileri</b> işlevsel etki sayılmaz. Bir rengin kişide <b>hüzün, neşe veya agresiflik</b> gibi duygular uyandırması, rengin psikolojik bir sonucudur, işlevsel (görev tanımlayıcı) bir sonucu değildir.",
         "Donem": 6
     },
     {
@@ -1977,6 +2075,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Tipografinin ürünün muhteviyatını yansıtacak şekilde tasarlanması, tipografinin <b>anlamsal veya duygusal ifade gücü</b> ile doğrudan ilişkilidir. Örneğin, sağlıklı bir içecek için sade, temiz hatlı yazı tipleri; enerji içeceği için ise dinamik ve köşeli tipler tercih edilebilir. Bu, tüketiciye ürünün doğası hakkında ilk bakışta <b>görsel ipuçları</b> sağlamayı amaçlar.",
         "Donem": 6
     },
     {
@@ -1997,6 +2096,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Modern bir algı uyandırmak istenen ambalajlarda, genellikle <b>Sans Serif</b> (serifsiz) yazı tipleri kullanmak uygundur. Sans Serif yazı tipleri, süslemesiz ve temiz hatları sayesinde <b>minimalist</b>, <b>çağdaş</b> ve işlevsel bir görünüm sunar. Bu, tasarıma yenilikçi ve güncel bir hava katar.",
         "Donem": 6
     },
     {
@@ -2017,6 +2117,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Bir ürünün “özgün ve eğlenceli” olduğu algısını uyandırmak için genellikle <b>Dekoratif</b> veya <b>El Yazısı (Script)</b> yazı tipleri tercih edilmelidir. Bu tipler, standart ve resmi yazı tiplerinden farklılaşarak ambalaja <b>kişilik</b>, <b>dinamizm</b> ve <b>oyuncu bir karakter</b> katmanıza olanak tanır. El yazısı tipleri aynı zamanda el yapımı veya zanaatkâr ruhunu da çağrıştırabilir.",
         "Donem": 6
     },
     {
@@ -2037,6 +2138,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Ambalaj tasarımında tipografi sadece bilgi aktarım aracı değildir. Kullanım biçimleri arasında <b>tasarımsal arka plan oluşturma</b>, <b>görsel bir öğe olarak işlev görme</b>, <b>marka kimliğini yansıtma</b> ve <b>salt bilgi aktarımı</b> yer alır. Bu çok yönlü kullanım, tipografinin hem estetik hem de işlevsel görevler üstlenmesini sağlar.",
         "Donem": 6
     },
     {
@@ -2057,6 +2159,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Tipografiyi tasarımsal arka plan olarak kullanan bir tasarımcı, genellikle metnin okunurluğunu ikincil planda tutarak, harf ve kelimelerin tekrarı veya soyutlanması yoluyla ambalaj yüzeyinde <b>görsel doku</b> (texture) ve <b>derinlik</b> yaratmayı hedefler. Bu yöntem, tasarıma sanatsal ve estetik bir boyut katar.",
         "Donem": 6
     },
     {
@@ -2077,6 +2180,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Kavramı ve kavramın anlamını yansıtan görseli bir arada sunabilen tipografik tasarıma <b>Tipogram</b> veya <b>Kavramsal Tipografi</b> adı verilir. Bu tasarımda, kelimenin kendisi, ifade ettiği şeyin görsel formunu alır (örneğin, “damla” kelimesinin D harfinin damla şekline dönüştürülmesi gibi). Bu, <b>güçlü bir görsel iletişim</b> sağlar.",
         "Donem": 6
     },
     {
@@ -2097,6 +2201,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ambalaj tipografisinde hiyerarşik düzenleme, bilginin önem sırasına göre algılanmasını sağlamak için <b>boyut</b>, <b>renk</b>, <b>kontrast</b> ve <b>konum</b> gibi unsurları kullanır. Ambalajın <b>fiziksel şekli veya ağırlığı</b> gibi, bilgisel öncelik veya okunabilirlikle doğrudan ilişkili olmayan unsurlar, tipografik hiyerarşi ile bağlantılı değildir.",
         "Donem": 6
     },
     {
@@ -2117,6 +2222,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Çocuk tüketicilerin beklentilerinin dikkate alınarak yapıldığı tipografik düzenleme, <b>hedef kitleye uygunluk</b> unsuru ile ilişkilidir. Çocuklar için tasarlanmış ambalajlarda, genellikle daha büyük puntolar, canlı renkler ve eğlenceli, kolay okunur yazı tipleri (oyuncu Sans Serifler) kullanılır. Bu, ürünün hedef kitlenin ilgisini çekmesini ve onlarla <b>duygusal bağ</b> kurmasını sağlar.",
         "Donem": 6
     },
     {
@@ -2137,6 +2243,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Ambalaj tipografisinde samimi, sıcak ve kişisel bir hava yaratmak için genellikle <b>El Yazısı (Script)</b> veya <b>yumuşak hatlı dekoratif</b> yazı tipleri kullanılmalıdır. Bu tipler, markanın <b>el yapımı</b> ve <b>insan odaklı</b> bir imaj çizmesine yardımcı olur ve resmiyetten uzak bir iletişim sağlar.",
         "Donem": 6
     },
     {
@@ -2157,6 +2264,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Markaya karşı saygı, otorite ve güven algısı uyandırmak için ambalaj tipografisinde <b>Serif</b> yazı tiplerinden yararlanmak uygundur. Serif tipleri (ayaklı yazı), tarihsel olarak <b>gelenek</b>, <b>ciddiyet</b> ve <b>güvenilirlik</b> çağrışımı yapar. Bu, özellikle köklü veya yüksek kaliteli ürünlerde tercih edilen bir yaklaşımdır.",
         "Donem": 6
     },
     {
@@ -2177,6 +2285,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ambalaj tipografisinde tercih edilen <b>minimalist yaklaşım</b>, karmaşık görsel öğeleri ortadan kaldırarak ürünün temel özelliklerinin ve <b>kalitesinin ön plana çıkmasını</b> sağlar. Minimalizm, tasarıma <b>netlik</b>, <b>şeffaflık</b> ve modern bir estetik katar, böylece tüketici dikkati dağılmadan ana mesaja odaklanır.",
         "Donem": 6
     },
     {
@@ -2197,6 +2306,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Tüketicinin iyi göründüğüne dair iltifatlar, alaycı, esprili ya da neşeli sosyal mesajların olduğu tipografik düzenleme, tüketicide <b>duygusal bir bağ</b> ve <b>markaya karşı kişisel bir yakınlık</b> hissi yaratır. Bu tür bir iletişim, markanın sadece bir ürün satmadığı, aynı zamanda <b>kişilik sahibi</b> ve eğlenceli olduğu algısını pekiştirir.",
         "Donem": 6
     },
     {
@@ -2217,6 +2327,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ambalaj tipografisinde okunurluğu artırmak için dikkat edilmesi gereken temel unsurlar <b>yüksek kontrast</b>, <b>uygun punto büyüklüğü</b> ve yeterli <b>satır aralığıdır (leading)</b>. Okunurluk, bilginin hızlı ve zahmetsizce algılanabilmesi için hayati önem taşır; özellikle ambalajlarda arka plan ile metin arasındaki kontrastın yüksek tutulması şarttır.",
         "Donem": 6
     },
     {
@@ -2237,6 +2348,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "İllüstrasyon teknikleri genel olarak iki ana başlıkta incelenir: <b>Geleneksel Yaklaşım</b> ve Dijital Yaklaşım. Geleneksel yaklaşım, sulu boya, karakalem, guaj, yağlı boya gibi fiziki malzemelerle yapılan uygulamaları içerir. Eğer seçeneklerde <b>dijital resimleme</b> veya bilgisayar destekli çizim yer alıyorsa, bu geleneksel yaklaşım içinde yer alan bir uygulama <u>değildir</u>; bu, Dijital Yaklaşımın temelini oluşturur.",
         "Donem": 6
     },
     {
@@ -2257,6 +2369,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Ticari İllüstrasyon</b> getirilmelidir. Ticari illüstrasyonlar; afiş, ilan, etiket ve ambalaj gibi mecralarda, bir ürün ya da hizmeti <b>tanıtmak</b> ve tüketicileri <b>satın almaya ikna etmek</b> amacıyla kullanılan resimlemelerdir. Bu illüstrasyonların temel hedefi satışı desteklemektir.",
         "Donem": 6
     },
     {
@@ -2277,6 +2390,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ambalaj tasarımında görsel seçimi (illüstrasyon mu, fotoğraf mı kullanılacağı) birçok faktöre bağlıdır: <b>Hedef kitle</b> (örneğin çocuklar için illüstrasyon), <b>ürünün niteliği</b> (teknolojik ürünler için fotoğraf, doğal ürünler için illüstrasyon), <b>markanın imajı</b> ve <b>rekabet koşulları</b>. Ambalajın görsel seçimini etkilemeyen faktörler, genellikle ürünün fiziki test sonuçları veya reklamın görsel olmayan (radyo vb.) kısımlarıdır.",
         "Donem": 6
     },
     {
@@ -2297,6 +2411,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Tanımı yapılan kavram <b>Reklam</b>'dır. Reklam, bir ürün veya hizmetin, kimin tarafından ödendiği belli olacak şekilde, <b>kitle iletişim araçlarında yer ve zaman satın alınarak</b> geniş halk kitlelerine tanıtılması ve ikna edilmesi çabalarının tamamıdır. Bu tanım, reklamcılığın temel ayırt edici özelliklerini (ücretli olması ve geniş kitleye ulaşması) belirtir.",
         "Donem": 6
     },
     {
@@ -2317,6 +2432,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Cümlede boş bırakılan yere <b>İllüstrasyon</b> (Resimleme) getirilmelidir. İllüstrasyon; bir metni, durumu ya da kavramı görselleştirerek <b>anlaşılır hâle getirmeye</b> yardımcı olan, aynı zamanda yazılı yayını <b>süseyen ve estetik tamamlayıcılığı</b> olan ögelerdir. İllüstrasyon, genellikle yazılı içerikle birlikte var olur.",
         "Donem": 6
     },
     {
@@ -2337,6 +2453,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Avrupa ve Amerika’da grafik ürünlerde (kitap, dergi, afiş vb.) illüstrasyonların en üst seviyeye ulaştığı dönem, genellikle <b>19. yüzyılın sonu ve 20. yüzyılın başı</b> (yaklaşık 1880-1920 arası) olarak kabul edilir. Bu dönemde özellikle <b>Art Nouveau</b> akımı, illüstrasyonun sanatsal ve ticari değerini zirveye taşımıştır.",
         "Donem": 6
     },
     {
@@ -2357,6 +2474,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "<b>Art Nouveau</b> döneminde illüstrasyon uygulamalarıyla, kitap ve afiş alanlarında oldukça başarılı çalışmalar yapan sanatçı <b>Aubrey Beardsley</b>’dir. Beardsley, özellikle abartılı ve zarif çizgilerin hâkim olduğu, siyah-beyaz illüstrasyonları ile ün kazanmıştır.",
         "Donem": 6
     },
     {
@@ -2377,6 +2495,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Editöryal İllüstrasyon</b> getirilmelidir. Editöryal illüstrasyonlar; kitap, gazete ya da dergi gibi yayınlarda <b>bir metne eşlik eden</b>, metni açıklayan veya özetleyen görsel ögelerdir. Dergi kapakları da bu alanın önemli bir parçasıdır.",
         "Donem": 6
     },
     {
@@ -2397,6 +2516,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalaj tasarımı üzerindeki illüstrasyonların amaçları; ürünü tanıtmak, rafta <b>dikkat çekiciliği artırmak</b>, ürün hakkında bilgi vermek ve markanın imajını güçlendirmektir. 'Tedarik zincirini denetlemek' veya 'fiyatlandırma stratejisini belirlemek' gibi lojistik veya finansal konular, illüstrasyonun doğrudan bir amacı <u>değildir</u>; bu, işletme yönetimi ile ilgili bir faaliyettir.",
         "Donem": 6
     },
     {
@@ -2417,6 +2537,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalaj tasarımında illüstrasyon kullanımı, ürüne <b>duygusal bir sıcaklık</b> katma, hedef kitleyi (özellikle çocukları) cezbetme ve markanın kişiliğini yansıtma gibi avantajlar sunar. Ancak, illüstrasyonun her zaman fotoğraftan daha ucuz olduğu veya <b>gerçekçi sunum için her zaman daha uygun olduğu</b> ifadesi söylenemez. Gerçeklik algısı yüksek veya teknik detay gerektiren ürünlerde fotoğraf daha uygun olabilir.",
         "Donem": 6
     },
     {
@@ -2437,6 +2558,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Ambalaj tasarımında görsel kullanımının (fotoğraf veya illüstrasyon) amaçları; <b>fark edilmeyi sağlamak</b>, ürünü çekici kılmak, ürünün kullanım şeklini göstermek ve rakiplerden <b>ayırt edici olmak</b>tır. 'Ürünün fiziki dayanıklılığını test etmek' ambalajın görsel değil, <b>yapısal ve malzeme mühendisliği</b> ile ilgili bir amacıdır.",
         "Donem": 6
     },
     {
@@ -2457,6 +2579,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ambalaj tasarımında fotoğraf veya illüstrasyon kullanımını belirleyen en önemli faktör, <b>ürünün kendisi, hitap edilen hedef kitle</b> ve <b>markanın görsel kimliğidir</b>. Örneğin, çocuk ürünlerinde genellikle illüstrasyon, gıda ürünlerinde ise gerçekçilik nedeniyle fotoğraf tercih edilme eğilimindedir. Görsel türü, bu temel ihtiyaçlara göre şekillenir.",
         "Donem": 6
     },
     {
@@ -2477,6 +2600,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Reklamın temel amaçları; tüketicileri <b>bilgilendirmek</b>, <b>ikna etmek</b>, ürünleri hatırlatmak ve dolayısıyla satışları artırmaktır. Reklamın birincil amacı, kendi ürün ve markasına olan sadakati artırmaktır. Bu nedenle, <b>tüketicinin rakip ürünlere olan sadakatini artırmak</b> reklamın amaçlarından biri <u>değildir</u>; bu, reklamın tam tersi bir etki yaratır.",
         "Donem": 6
     },
     {
@@ -2497,6 +2621,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Ticari İllüstrasyon</b> getirilmelidir. Bu tür illüstrasyonlar, herhangi bir ürün ya da hizmeti <b>almaya teşvik eden</b> ve ürünü <b>cezbedici</b> hâle getiren görsellerdir. Kullanım alanları afiş tasarımları, ilanlar, etiketler ve ambalaj üzerindeki resimlemelerdir.",
         "Donem": 6
     },
     {
@@ -2517,6 +2642,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "En eski pazarlama anlayışı, yani 1860-1920 yılları arasında popüler olan yaklaşım, <b>Üretim Anlayışıdır</b>. Bu anlayış temel olarak, üretimin verimliliğine odaklanır ve müşterinin ihtiyaçlarını ikinci plana atarak \"Ne üretirsem onu satarım\" felsefesini benimser. Bu yaklaşım, talebin arzdan fazla olduğu durumlarda etkili olmuştur.",
         "Donem": 6
     },
     {
@@ -2537,6 +2663,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Nörometrik ölçüm teknikleri, biyolojik verilerle çalışan, beynin veya vücudun fizyolojik tepkilerini doğrudan ölçen yöntemlerdir (fMRI, EEG, Eye Tracking, vb.). Eğer seçeneklerde <b>Grup Tartışmaları (Focus Group)</b> veya <b>Derinlemesine Görüşmeler</b> gibi geleneksel pazarlama araştırma yöntemleri olsaydı, bunlar nörometrik teknikler içerisinde yer almazdı çünkü bu yöntemler subjektif ve bilinçli beyanlara dayanır, fizyolojik ölçümlere değil.",
         "Donem": 6
     },
     {
@@ -2557,6 +2684,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Nöropazarlama yaklaşımlarının üstün yönleri arasında yüksek objektiflik, bilinçaltı tepkilerini ölçebilme ve rasyonel olmayan kararları anlama yeteneği bulunur. Ancak bu araştırmalar pahalı ekipman ve uzmanlık gerektirdiği için <b>Düşük maliyetli olması</b>, nöropazarlamanın üstün yönleri arasında <u>yer almaz</u>. Aksine, yüksek maliyet bu yaklaşımın en büyük kısıtlamalarından biridir.",
         "Donem": 6
     },
     {
@@ -2577,6 +2705,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ürünün ya da hizmetin üretimden önceki ön hazırlığından başlayarak, tüketim sonrasındaki <b>tüketiciler arası tavsiye etme noktasına kadar uzanan karma bir süreç</b> olarak tanımlanan unsur, <b>Pazarlama Sürecidir</b>. Bu süreç, işletmenin değer yaratma, iletişim kurma ve müşteri ilişkilerini yönetme çabalarının tamamını kapsar.",
         "Donem": 6
     },
     {
@@ -2597,6 +2726,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Şirketlerin ya da markaların piyasada var olabilmek, büyümek ve kâr elde etmek adına kullanmak zorunda oldukları yardımcı elemanlar bütününe <b>Pazarlama Karması (Marketing Mix)</b> adı verilir. Geleneksel olarak bu karma <b>4P</b> (Ürün, Fiyat, Dağıtım, Tutundurma) olarak bilinir ve işletmenin pazarlama hedeflerine ulaşmak için kullandığı kontrol edilebilir taktiksel araçlardır.",
         "Donem": 6
     },
     {
@@ -2617,6 +2747,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Pazarlama kavramının geleneksel yaklaşımları içerisinde yer alan ve <b>Büyük Buhran (1930'lar)</b> zamanına denk gelen yaklaşım <b>Satış Anlayışıdır</b>. Bu dönemde aşırı üretim kapasitesi ve düşen talep nedeniyle, işletmelerin temel amacı ne pahasına olursa olsun mevcut stokları elden çıkarmak ve agresif satış ve tutundurma çabalarına odaklanmak olmuştur.",
         "Donem": 6
     },
     {
@@ -2637,6 +2768,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Tüketici tercihlerini etkileyen faktörleri anlamak için kullanılan ve <b>tıbbi teknolojiler yardımı ile tüketicilerin ürünleri gördükleri anda verdikleri tepkileri ölçümlemeye</b> olanak sağlayan araştırmalara <b>Nöropazarlama</b> (veya Nörobilimsel Pazarlama Araştırmaları) adı verilir. Bu alan, tüketicinin bilinçaltındaki kararlarını ve duygusal tepkilerini objektif olarak ortaya çıkarmayı amaçlar.",
         "Donem": 6
     },
     {
@@ -2657,6 +2789,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Cümlede bahsedilen FMRI, PET, EEG, SSPT ve MEG gibi teknikler, beynin elektriksel veya metabolik aktivite alanları üzerine çalışan <b>Nörogörüntüleme Teknikleridir</b> (veya Nörometrik Ölçüm Teknikleridir). Bu teknikler, pazarlamada tüketicinin bir uyarana karşı verdiği tepkileri bilimsel olarak haritalamak için kullanılır.",
         "Donem": 6
     },
     {
@@ -2677,6 +2810,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Beyni sembolik olarak belli parçalara ayıran, her bir parçanın birbirinden farklı işlevlerden sorumlu olduğu bilgisini kullanan ve bu parçalardan elde edilen veriler bütününde ölçümleme yapma tekniği, <b>Beyin Haritalama (Brain Mapping)</b> yöntemlerinin temel prensibini ifade eder. Bu, genellikle fMRI veya EEG/MEG verilerinin fonksiyonel lokalizasyon (yerelleşme) analiziyle elde edilir.",
         "Donem": 6
     },
     {
@@ -2697,6 +2831,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Modern pazarlama anlayışı, odak noktasını üründen veya satıştan <b>müşterinin ihtiyaçlarına</b> kaydırmıştır. Bu yaklaşıma göre doğru bir ifade, \"İşletmenin karı, müşteri ihtiyaçlarını tatmin etme yoluyla elde edilir\" şeklinde özetlenebilir. Bu yaklaşım, uzun vadeli müşteri ilişkilerine ve müşteri memnuniyetine öncelik verir.",
         "Donem": 6
     },
     {
@@ -2717,6 +2852,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Pazarlamadaki temel noktalar <b>İhtiyaçlar, İstekler, Talepler, Ürünler/Hizmetler, Değer, Memnuniyet, Değişim ve İlişkilerdir</b>. Eğer bir seçenek bu temel kavramlardan biri değilse (örneğin, 'İdari Personel Eğitimi' veya 'Devlet Yasal Düzenlemeleri'), bu temel noktalar içerisinde yer almaz.",
         "Donem": 6
     },
     {
@@ -2737,6 +2873,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "İşletmelerin pazar dinamiğine ayak uydurmak, ileri dönük planlar geliştirmek ve rekabet avantajı sağlamak için takip etmek zorunda oldukları güncel gelişmeler, genellikle <b>Pazarlama Trendleridir</b>. Bu, teknolojik yenilikleri, sosyal değişimleri ve tüketici davranışlarındaki evrimleri kapsar.",
         "Donem": 6
     },
     {
@@ -2757,6 +2894,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Uyarana karşı beyin aktivitelerinin (EEG, fMRI) yanında <b>kalp aktivitelerini (EKG/Kalp Hızı Monitörü)</b>, GSR (Deri İletkenliği) gibi fizyolojik tepkileri de ölçen teknikler bütünü <b>Psikofizyolojik Ölçümler</b> veya genel olarak <b>Biyometrik Ölçümler</b> olarak adlandırılır. Bu teknikler, bir uyarının yarattığı duygusal uyarılma düzeyini gösterir.",
         "Donem": 6
     },
     {
@@ -2777,6 +2915,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Parfüm şişesi veya dış kutusu için kullanılan cam ve plastik gibi malzemeler, ürünün **ambalajının malzemesi** hakkındaki bilgiyi doğrudan sağlar. Tüketici bu malzemelere bakarak ürünün kalitesi, dayanıklılığı ve görsel algısı hakkında ilk izlenimini edinir. Ambalaj malzemesi, **marka imajı** ve ürünün konumlandırılması açısından kritik bir unsurdur.",
         "Donem": 6
     },
     {
@@ -2797,6 +2936,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalaj tasarımında kullanılan marka ve kurum kimlik ögeleri; **logo, marka adı, kurumsal renkler** ve **tipografi** gibi markanın görsel kimliğini oluşturan unsurlardır. Ambalajın üretim hattındaki **teknik kapasitesi** veya **işletmenin karlılığı** gibi unsurlar ise marka ve kurum kimliğini oluşturan temel tasarım ögeleri arasında yer almaz.",
         "Donem": 6
     },
     {
@@ -2817,6 +2957,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "İşletmenin, tüketicilerinin marka hakkında nasıl hissetmesi, algılaması ve nasıl hatırlaması istediği olarak tanımlanan kavram **Marka Kimliği** (Brand Identity)'dir. Marka kimliği, işletmenin kendisini dış dünyaya yansıttığı tüm görsel, işitsel ve deneyimsel unsurların bütünüdür.",
         "Donem": 6
     },
     {
@@ -2837,6 +2978,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Markanın müşterilerine verdiği kalite, performans veya hizmet gibi **vaatleri** yerine getirmesi, tüketicide olumlu bir deneyim yaratır. Bu durum, markaya olan **güvenin** artmasına ve zamanla güçlü bir **Marka Sadakati** (Brand Loyalty) oluşmasına yol açar.",
         "Donem": 6
     },
     {
@@ -2857,6 +2999,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ürünün; **isim, logo** ve diğer görsel işaret ve sembollerle rakiplerinden farklılaşarak pazarda kendine özgü bir kimlik edinmesi sürecine **Markalama** (Branding) denir. Markalama, ürünün ayırt edilmesini ve tanınmasını sağlar.",
         "Donem": 6
     },
     {
@@ -2877,6 +3020,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Kurum kimliğinin (Corporate Identity) ilk örneklerine, toplulukların ve zanaatkarların kendilerini diğerlerinden ayırma ihtiyacının doğduğu **Eski Uygarlıklarda** rastlanmaktadır. Örneğin, lonca damgaları veya eski medeniyetlerdeki ayırt edici işaretler, kurumsal kimliğin temellerini oluşturur.",
         "Donem": 6
     },
     {
@@ -2897,6 +3041,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Bir markanın sektörde kalıcı bir yer edinebilmesi ve ticari hayatını sürdürebilmesi, pazarda rakiplerine göre kendine özgü ve anlamlı bir pozisyon yaratmasına bağlıdır. Bu başarı, doğru ve etkili bir **Marka Konumlandırması** ile sağlanır.",
         "Donem": 6
     },
     {
@@ -2917,6 +3062,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "İşletmelerin hedef kitleye ilettikleri değer özellik ve çağrışımlarla, müşterilerine verdiği söze **Marka Vaadi** (Brand Promise) denir. Bu vaat, müşterinin markadan ne bekleyeceğini tanımlar ve tüm pazarlama mesajlarının temelini oluşturur.",
         "Donem": 6
     },
     {
@@ -2937,6 +3083,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Markanın vaadini yerine getirmesiyle artan tüketici memnuniyeti, tüketicinin markaya olan **güvenini** pekiştirir ve tekrar satın alma olasılığını artırır. Bu durumun nihai sonucu, müşterinin markaya karşı güçlü bir **Marka Sadakati** geliştirmesi ve markayı başkalarına tavsiye etmesi (Marka Savunuculuğu) olur.",
         "Donem": 6
     },
     {
@@ -2957,6 +3104,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ambalaj tasarımında yapılan ve marka imajını zedeleyen hatalar genellikle düşük kaliteli malzeme kullanımı veya görsel/bilgisel karmaşa yaratılmasıdır. Ambalajın **ergonomik ve kullanışlı olması** ise, tüketicinin ürünü rahatça kullanmasını sağlayan ve marka algısını **olumlu yönde etkileyen** başarılı bir tasarım özelliğidir, bu nedenle bir hata değildir.",
         "Donem": 6
     },
     {
@@ -2977,6 +3125,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Marka kimliğini oluşturan ambalaj yüzeyi ögeleri; **marka adı, logo, kurumsal renkler** ve **tipografi** gibi görsel tanınabilirliği sağlayan unsurlardır. Ambalajın **Üretim Hacmi** gibi lojistik veya teknik bilgiler, marka kimliğini oluşturan temel görsel ögelerden biri değildir.",
         "Donem": 6
     },
     {
@@ -2997,6 +3146,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Temel gıda besinleri gibi teknik özelliklerin genellikle benzer olduğu ürün kategorilerinde, tüketicinin satın alma kararını etkileyen en önemli unsur, ürünün kalitesine ve güvenilirliğine dair sahip olduğu algı, yani **Marka İmajı** veya **Markanın Güvenilirliği**dir. Tüketici, risk algısını azaltmak için güvendiği markayı tercih eder.",
         "Donem": 6
     },
     {
@@ -3017,6 +3167,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Bir markanın veya kurumun soyut (değerler, kültür) ve somut (logo, binalar, iletişim) tüm değerlerini tutarlı bir şekilde yansıtan tasarım unsurlarının bütününe **Kurum Kimliği** (Corporate Identity) denir. Bu, kurumun kendisini nasıl sunduğunu ve algılandığını belirler.",
         "Donem": 6
     },
     {
@@ -3037,6 +3188,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Tüketicinin ürün reyonunda aradığı ürünü hızlıca bulmasında ve tanımasında kolaylık sağlayan temel unsur **Ambalajın Tasarımı**dır. Ambalaj üzerindeki belirgin **logo, renk kodları** ve **görsel hiyerarşi**, ürünün rafta dikkat çekmesini ve tanınmasını (shelf impact) sağlar.",
         "Donem": 6
     },
     {
@@ -3057,6 +3209,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "<b>Artırılmış Gerçeklik (AR)</b>, ambalajı tarayarak sanal ve gerçek dünyayı birleştiren interaktif bir deneyim sunar. Tüketiciye sağladığı faydalar arasında ürün hakkında ek bilgi edinme, eğlence, hikaye anlatımı ve markayla etkileşim bulunur. AR uygulamaları genellikle teknolojik bileşen ve yazılım geliştirmesi gerektirdiğinden, ambalajın üretim veya malzeme maliyetlerini doğrudan <b>azaltmaz</b>; aksine, bu teknolojiyi uygulamak ek maliyet getirebilir.",
         "Donem": 6
     },
     {
@@ -3077,6 +3230,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "<b>Akıllı ambalaj</b>, ürünün durumunu takip eden, izleyen, iletişim kuran veya raf ömrünü yönetmeye yardımcı olan yenilikçi uygulamalardır. Bu uygulamalar, ürünün kalitesi veya güvenliği hakkında bilgi sağlamak için <b>sensörler</b>, <b>RFID etiketleri</b>, zaman-sıcaklık göstergeleri gibi akıllı bileşenleri kullanır. Bu sistemler gıda güvenliğini ve lojistik verimliliğini artırmayı hedefler.",
         "Donem": 6
     },
     {
@@ -3097,6 +3251,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Bir ambalajın <b>sürdürülebilir inovatif</b> olması, çevresel etkiyi en aza indirmeyi hedeflerken, yeni teknolojileri ve döngüsel ekonomi prensiplerini uygulamayı içerir. Bu özellik doğrudan <b>geri dönüştürülebilirlik</b>, kompostlanabilirlik ve yenilenebilir kaynaklardan elde edilen malzemelerin kullanımı ile ilişkilidir. Amaç, ambalajın yaşam döngüsü boyunca çevresel ayak izini minimize etmektir.",
         "Donem": 6
     },
     {
@@ -3117,6 +3272,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "<b>İnteraktif ambalaj</b>, tüketicinin ambalajla doğrudan etkileşim kurmasına olanak tanıyan özelliklere sahiptir. Bu genellikle QR kodları, NFC, <b>Artırılmış Gerçeklik (AR)</b> gibi dijital araçlar aracılığıyla sağlanır. İnteraktif ambalajın temel özelliği <b>iki yönlü iletişim</b> sağlaması ve zenginleştirilmiş bilgi sunmasıdır. Tüketiciye statik, değiştirilemez bilgi sunmak, interaktifliğin değil, geleneksel ambalajın özelliğidir.",
         "Donem": 6
     },
     {
@@ -3137,6 +3293,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Tüketicinin etkileşimine izin veren, gerçek dünya ile zenginleştirilmiş sanal görüntülerin birleştirilmesine <b>Artırılmış Gerçeklik (AR)</b> adı verilir. AR, fiziksel çevrenin kamera aracılığıyla elde edilen görünümüne bilgisayar tarafından üretilen sanal öğelerin (3D modeller, animasyonlar, metinler) gerçek zamanlı olarak eklenmesidir. Ambalajlamada kullanıldığında markaya bağlılığı artırır ve bilgilendirici/eğlenceli deneyimler sunar.",
         "Donem": 6
     },
     {
@@ -3157,6 +3314,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "<b>Akıllı ambalaj</b>, ürünün kalitesi, tazeliği veya konumu hakkında bilgi veren veya iletişim sağlayan teknolojileri içerir (RFID, sensörler, zaman-sıcaklık göstergeleri). Akıllı ambalajın temel fonksiyonu, ürünün durumunu izlemek ve raporlamaktır. Ambalajın <b>temel koruma fonksiyonu</b> (fiziksel darbelere karşı koruma) geleneksel ambalajın görevidir ve başlı başına akıllı ambalaj uygulaması sayılmaz.",
         "Donem": 6
     },
     {
@@ -3177,6 +3335,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "<b>Barkod</b>, bir ürünün kimliğini ve stok bilgisini temsil eden optik olarak okunabilir, pasif bir sistemdir. Temel amacı envanter yönetimi ve satış noktası işlemlerini hızlandırmaktır. Barkodlar, veriyi lazer tarayıcılar aracılığıyla okur ve <b>radyo frekansı sinyali iletmezler</b>. Radyo frekansı ile sinyal iletme özelliği, <b>RFID</b> (Radyo Frekansı Tanımlama) etiketlerine aittir.",
         "Donem": 6
     },
     {
@@ -3197,6 +3356,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "İşletmeler, teknoloji kullanımına önem veren tüketicileri hedeflemek için etkileşimi en üst düzeye çıkaran uygulamalara yönelirler. <b>Artırılmış Gerçeklik (AR)</b>, ambalajın üzerine bindirilmiş dijital içeriklerle (oyunlar, videolar, 3D görseller) zengin bir deneyim sunarak bu teknoloji meraklısı kitleye hitap eden en önemli akıllı uygulamalardan biridir.",
         "Donem": 6
     },
     {
@@ -3217,6 +3377,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "“Radyo frekansı sinyali ileten mikroskobik çipe sahip baskılı anten” tanımı, doğrudan <b>Radyo Frekansı Tanımlama (RFID)</b> etiketini açıklamaktadır. RFID teknolojisi, ambalajların temassız bir şekilde izlenmesini, envanter sayımının yapılmasını ve ürün takibini sağlayan kilit bir <b>akıllı ambalaj</b> bileşenidir.",
         "Donem": 6
     },
     {
@@ -3237,6 +3398,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "<b>Yenilebilir ambalajlar</b> (Edible Packaging), genellikle protein, polisakkarit veya lipid bazlı filmlerden yapılır. En bilinen özellikleri, ürüne ekstra bir koruma katmanı sağlarken, ambalaj atığını tamamen ortadan kaldırmalarıdır. Bu ambalajlar <b>biyolojik olarak parçalanabilir</b> ve genellikle oksijen ve nem bariyeri oluşturarak ürünün raf ömrüne katkıda bulunurlar.",
         "Donem": 6
     },
     {
@@ -3257,6 +3419,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Yenilebilir ambalajlar çevre dostu olsalar da, bazı ticari dezavantajları vardır. Bu ambalajlar genellikle <b>mekanik dayanım açısından zayıftır</b> ve özellikle neme karşı yüksek hassasiyet gösterirler. Ayrıca, ambalajın kendisinin tüketilebilir bir madde olması, <b>gıda alerjisi</b> riski taşıyan maddeler içeriyorsa ek etiketleme ve dikkat gerektirmesi gibi zorluklar yaratır.",
         "Donem": 6
     },
     {
@@ -3277,6 +3440,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Günümüz ambalaj trendleri büyük ölçüde <b>çevresel sorumluluk</b> ve <b>teknolojik entegrasyon</b> üzerine kuruludur. Tüketicinin artan talebiyle birlikte, <b>sürdürülebilirlik</b> (geri dönüştürülebilirlik, biyolojik parçalanabilirlik) ve <b>akıllı ambalaj uygulamaları</b> (izlenebilirlik, etkileşim) günümüzün en baskın ambalaj trendlerindendir.",
         "Donem": 6
     },
     {
@@ -3297,6 +3461,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Cam ambalajların çevreye etkileri genellikle üretim aşamasındaki <b>yüksek enerji tüketimi</b>, nakliyeden kaynaklanan <b>yüksek karbon ayak izi</b> (ağırlığı nedeniyle) ve doğada <b>çok uzun süre kalması</b> (yavaş biyolojik bozunma) ile ilgilidir. Şıkların birinde belirtilen ve bu etkilerden biri olmayan durum (Örn: Yüksek biyolojik bozunma hızı), bu sorunun doğru cevabıdır. Camın doğada çözünmesi yüzlerce hatta binlerce yıl sürer.",
         "Donem": 6
     },
     {
@@ -3317,6 +3482,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ambalajların <b>yeniden kullanımı</b> (Reuse), atık hiyerarşisinde azaltmadan (Reduction) sonra gelen önemli bir adımdır. Bu, ambalajın herhangi bir işlem görmeden (geri dönüşüm gibi) aynı amaçla veya benzer bir amaçla tekrar doldurulmasıdır. Bu duruma en belirgin örnek <b>depozitolu şişelerdir</b> (örneğin, cam veya bazı plastik içecek şişeleri) veya <b>tekrar doldurulabilir su damacanaları</b>dır. <<<Bu örnek, ambalajın kullanım ömrünü uzatarak atık oluşumunu doğrudan azaltır.",
         "Donem": 6
     },
     {
@@ -3337,6 +3503,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Ambalaj atıklarının çevreye olan en önemli etkileri arasında <b>doğal kaynakların aşırı tüketimi</b> (özellikle geri dönüşüm yapılmadığında), <b>katı atık depolama alanlarının dolması</b> ve doğaya karışan ambalajların (özellikle plastik) neden olduğu <b>kirlilik</b> (toprak, su ve deniz kirliliği) yer alır. Atıkların depolama alanlarında birikmesi, çevreye olan en görünür etkilerden biridir.",
         "Donem": 6
     },
     {
@@ -3357,6 +3524,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Ürünün <b>yaşam döngüsü</b>, ambalajın çevresel etkilerinin değerlendirilmesi için kullanılır. Bu döngü, ürünün hammadde temininden başlayarak, <b>üretim/işleme</b>, dağıtım, tüketici kullanımı ve son olarak <b>atık yönetimi (imha veya geri dönüşüm)</b> aşamalarını kapsar. Bu aşamalardan herhangi biri (örneğin, Hammadde Temini, Üretim veya Dağıtım) yaşam döngüsüne ait bir basamaktır.",
         "Donem": 6
     },
     {
@@ -3377,6 +3545,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Sürdürülebilir ambalaj, çevresel etkiyi azaltmayı hedefler. Temel ilkeleri şunlardır: ambalajı <b>azaltmak</b> (kaynak verimliliği), <b>geri dönüştürülebilirliği</b> sağlamak, mümkünse <b>yenilenebilir veya geri dönüştürülmüş hammadde</b> kullanmak ve taşıma verimliliğini artırmak. Sürdürülebilirlik ilkesi olmayan bir durum genellikle <b>karmaşık, geri dönüştürülemez çok katmanlı yapılar</b> kullanmak veya gereksiz ambalajlamadır.",
         "Donem": 6
     },
     {
@@ -3397,6 +3566,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Geri dönüşüm süreci, temel olarak <b>toplama</b> (kaynakta veya tesislerde), <b>ayırma</b> (malzeme türüne göre), <b>işleme</b> (temizleme, parçalama) ve son olarak <b>yeni ürün üretimi</b> aşamalarını içerir. Bu aşamalar dışında kalan bir eylem, örneğin, 'Ürünün pazarlama stratejisinin oluşturulması' veya <b>'Ambalajın tüketiciye sunumu'</b> geri dönüşüm işleminin operasyonel bir aşaması değildir.",
         "Donem": 6
     },
     {
@@ -3417,6 +3587,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Cam ambalajın çevreye etkilerinden biri, üretimi sırasında gerekli olan fırınların çalışması nedeniyle ortaya çıkan <b>yüksek enerji tüketimidir</b>. Bu enerji yoğun süreç, genellikle yüksek miktarda <b>karbon dioksit emisyonu</b>na yol açar. Diğer bir etkisi ise camın doğada <b>biyolojik olarak bozulmaması</b>dır, bu da katı atık depolama alanlarında büyük hacim kaplamasına neden olur.",
         "Donem": 6
     },
     {
@@ -3437,6 +3608,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Metal ambalajların (alüminyum ve çelik) geri dönüşümü yüksek verimlidir. Süreç, <b>manyetik ayırma</b> (çelik için), <b>girdap akımı ayırma</b> (alüminyum için), ardından <b>eritme</b> ve <b>döküm</b> aşamalarını içerir. Metal, biyolojik bir madde olmadığı için, <b>kompostlama</b> veya <b>biyolojik parçalanma</b> gibi organik atık süreçleri metal geri dönüşümünün bir parçası değildir.",
         "Donem": 6
     },
     {
@@ -3457,6 +3629,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Pek çok plastik türü geri dönüştürülebilir olsa da, bazıları yapısal nedenlerle veya atık yönetimindeki zorluklar nedeniyle geri dönüştürülemez. Geri dönüştürülmesi en zor olanlar genellikle <b>çok katmanlı (multilayer) kompozit plastiklerdir</b> (farklı polimerlerin birleşimi) ve <b>termoset plastiklerdir</b> (ısıtıldığında şekli kalıcı olarak sertleşen). Bu malzemeler, geri dönüşüm tesislerinde ekonomik olarak ayrıştırılıp işlenemediği için atık kabul edilir.",
         "Donem": 6
     },
     {
@@ -3477,6 +3650,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Yeniden kullanım (Reuse), ambalajın işlevini koruyarak tekrar doldurulmasıdır (Örnek: Depozitolu su şişeleri). Bir eylemin yeniden kullanım olmaması için, ambalajın fiziksel veya kimyasal olarak bozulması gerekir. Örneğin, kullanılmış ambalajların toplanarak <b>eritilmesi ve yepyeni bir malzemeye dönüştürülmesi</b> (yani <b>geri dönüşüm</b>), yeniden kullanım değil, atık hiyerarşisinin farklı bir basamağıdır.",
         "Donem": 6
     },
     {
@@ -3497,6 +3671,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "<b>İleri dönüşüm</b> (Upcycling), atık malzemeleri veya ürünleri daha yüksek kaliteli, çevresel veya sanatsal değeri olan yeni ürünlere dönüştürme işlemidir. Faydaları arasında <b>atık miktarını azaltmak</b>, <b>yeni hammadde ihtiyacını düşürmek</b> ve <b>yaratıcılığı teşvik etmek</b> bulunur. İleri dönüşüm genellikle düşük enerji girdisi gerektirir. 'Yüksek enerji tüketimi gerektiren karmaşık endüstriyel süreçler' ileri dönüşümün bir faydası değil, geri dönüşümün (recycling) veya birincil üretimin (virgin production) özelliği olabilir.",
         "Donem": 6
     },
     {
@@ -3517,6 +3692,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "<b>Yeşil ambalajlar</b> (Sürdürülebilir Ambalaj), geri dönüştürülmüş içerik kullanan, yenilenebilir kaynaklardan üretilen, <b>biyobozunur</b> veya çok kolay geri dönüştürülebilir malzemelerden yapılmış ambalajlardır. Yeşil ambalajlara örnek olmayan durumlar genellikle <b>yüksek çevresel ayak izine sahip malzemeler</b>, <b>geri dönüştürülmesi zor çok katmanlı kompozit yapılar</b> veya toksik kimyasallar içeren ambalajlardır.",
         "Donem": 6
     },
     {
@@ -3537,6 +3713,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Verilen tanım, kâğıdın hem fiziki koruma (paketleme, depolama, saklama, koruma ve taşıma) hem de estetik ve pazarlama (özel tasarımlar, marka işlevi) amaçlı kullanımını açıklamaktadır. Bu çifte fonksiyona sahip olan kâğıt türü <b>Ambalaj Kâğıdı</b>'dır.",
         "Donem": 6
     },
     {
@@ -3557,6 +3734,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Desen tasarımı ve raportlamada, desen bloklarının (unit) yatay ve dikey eksenlerde direkt olarak yan yana hizalanmasıyla oluşturulan raport türü, <b>Basit Raport (Düz Raport)</b>'tur. Bu tür, herhangi bir kaydırma veya karmaşık hesaplama gerektirmediği için tüm raportların <b>en basit ve uygulaması en kolay</b> olanıdır.",
         "Donem": 6
     },
     {
@@ -3577,6 +3755,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Raportlar, desenin sürekli tekrarını sağlayacak şekilde tasarlanır. Bu tasarım aşamasında, tekrar eden en küçük birim olan raportlar temel olarak <b>Kare ve Dikdörtgen</b> gibi düzgün geometrik yapılar içerisinde düşünülür ve uygulanır. Bu, baskı sırasında hatasız ve düzenli bir tekrar sağlar.",
         "Donem": 6
     },
     {
@@ -3597,6 +3776,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Desen tekrarında blokların yarım birim veya belirli bir oranda kaydırılarak yerleştirildiği raport türleri <b>Bindirme Raport</b> olarak adlandırılır. Bu kaydırma, desenin tekrarında çapraz veya <b>zikzak hareketi</b> içeren görsel bir akış yaratır.",
         "Donem": 6
     },
     {
@@ -3617,6 +3797,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Boşluk</b> (Negatif Alan) getirilmelidir. Başarılı bir desen tasarımında boşluk, motifler, renkler ve dokular arasında 'kamufle' edilerek göze dinlenme alanı sağlar ve gözün desen yüzeyi içinde <b>hoş ve rahat bir şekilde hareket etmesini</b> mümkün kılar.",
         "Donem": 6
     },
     {
@@ -3637,6 +3818,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Ambalaj kâğıdının temel işlevleri ürünü paketlemek, depolamak, korumak ve tanıtmaktır. Standart ambalaj kâğıtlarının ana kullanım işlevlerinden biri <b>ürünleri ısı yalıtımıyla korumak</b> değildir; bu işlev genellikle özel yalıtım malzemeleri gerektirir.",
         "Donem": 6
     },
     {
@@ -3657,6 +3839,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Ürünleri dış etkenlerden koruma (fiziksel işlev) ve aynı zamanda şık tasarımlarla <b>ürün değerini arttırma ve ön plana taşıma</b> (pazarlama/estetik işlevi) amacı, doğrudan <b>Ambalaj Kâğıdı</b> tasarımının genel amacını tanımlar.",
         "Donem": 6
     },
     {
@@ -3677,6 +3860,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Çabuk bozulabilen, nemden ve havadan etkilenmesi olası olan, raf ömrü kısa gıda ürünlerini (peynir, et, tereyağı vb.) paketlemede neme ve yağa karşı dirençli özellikler gösteren <b>Yağlı Ambalaj Kâğıdı</b> sıklıkla kullanılır.",
         "Donem": 6
     },
     {
@@ -3697,6 +3881,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Çay, kahve, şeker gibi tüketim ürünlerinde ambalajın dayanıklı, sağlam ve ekonomik olması önemlidir. Bu bağlamda, yüksek mukavemet ve koruma sağlayan <b>Kraft Kâğıdı</b> (genellikle iç torbalarda veya dış karton/torba yapısında) sıklıkla tercih edilen ambalaj kâğıdı türüdür.",
         "Donem": 6
     },
     {
@@ -3717,6 +3902,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Hazırlanan desenin, kâğıt yüzeyinde sonsuz ve kusursuz bir şekilde tekrar etmesini sağlamak için yapılan sistematik düzenlemeler bütününe <b>Raportlama</b> denir. Bu işlem, desenin baskı plakasına veya kalıbına doğru şekilde aktarılması için temeldir.",
         "Donem": 6
     },
     {
@@ -3737,6 +3923,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 3,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Raport Tekrarı</b> getirilmelidir. Başarılı bir raport tekrarının en önemli kullanım amacı, desenin sınırlarının görsel olarak kaybolması ve ambalaj kâğıdı üzerinde <b>hiç bitmeyecekmiş gibi bir süreklilik</b> algısı oluşturmasıdır.",
         "Donem": 6
     },
     {
@@ -3757,6 +3944,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 2,
+        "Aciklama": "Kâğıt veya kumaş gibi bir yüzey üzerindeki desenin, yüzeyi tamamen kaplamak üzere <b>eşit aralıklarla enine ve boyuna tekrar eden en küçük temel birimi</b>ne <b>Raport</b> adı verilir.",
         "Donem": 6
     },
     {
@@ -3777,6 +3965,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 1,
+        "Aciklama": "Çiçekler, bitkiler, yapraklar, hayvanlar veya doğal manzaralar gibi doğal unsurlardan esinlenerek oluşturulan desenler <b>Doğal Desenler</b> (veya Doğal Motifler) olarak tanımlanır.",
         "Donem": 6
     },
     {
@@ -3797,6 +3986,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 5,
+        "Aciklama": "Kaşkol, mendil, masa örtüsü gibi belli bir çerçeveye sahip ve kenarları belirgin olan aksesuar ürünlerinde, tüm yüzeyi kaplayan sonsuz bir raport yerine, ürünün sınırlarını vurgulayan veya belirli bir alana odaklanan <b>Sınırlı Desenler</b> (Bordür ya da merkez odaklı desenler) kullanılır.",
         "Donem": 6
     },
     {
@@ -3817,6 +4007,7 @@
         "DersId": 759,
         "OBSDersId": 82526,
         "CevapSira": 4,
+        "Aciklama": "Tasarım sürecinin başarılı olabilmesi için atılacak ilk ve en kritik adım, pazardaki güncel tüketici eğilimlerini, rekabeti ve hedef kitlenin beklentilerini anlamayı içeren <b>Trend Araştırması</b> yapmaktır. Bu araştırma, desenin veya ürünün ticari başarısını doğrudan etkiler.",
         "Donem": 6
     }
 ]

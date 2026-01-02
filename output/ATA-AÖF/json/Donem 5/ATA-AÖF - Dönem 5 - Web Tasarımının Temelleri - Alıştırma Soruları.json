@@ -17,6 +17,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "İnternetin atası olarak kabul edilen <b>ARPANET</b>’in (Advanced Research Projects Agency Network) geliştirilme amacı, ABD Savunma Bakanlığı’na bağlı ARPA tarafından, dağıtık ve saldırılara karşı dayanıklı bir iletişim ağı kurmaktı. Temel hedef, farklı akademik ve savunma araştırma merkezleri arasında <b>bilgi ve kaynak paylaşımını</b> güvenli bir şekilde sağlamaktır. Bu, özellikle nükleer bir saldırı durumunda bile iletişimin devam edebileceği bir ağ yapısı oluşturma ihtiyacından doğmuştur.",
         "Donem": 5
     },
     {
@@ -37,6 +38,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "World Wide Web (WWW) kavramını ve bu sistemi mümkün kılan temel teknolojileri (HTTP, URL ve ilk web tarayıcısı/sunucusu) geliştiren bilim insanı 1989 yılında <b>Tim Berners-Lee</b>'dir. Berners-Lee, bu çalışmaları İsviçre'deki nükleer araştırma merkezi <b>CERN</b>'de gerçekleştirmiştir. WWW, internet üzerinde bilgiye erişimi ve dolaşımı kolaylaştıran bir hipermetin sistemidir.",
         "Donem": 5
     },
     {
@@ -57,6 +59,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Web standartlarının belirlenmesinden sorumlu olan uluslararası kuruluş <b>World Wide Web Consortium (W3C)</b>'dur. W3C, web'in uzun vadeli büyümesini ve birlikte çalışabilirliğini sağlamak amacıyla <b>HTML</b>, <b>CSS</b> ve <b>Web Erişilebilirliği</b> gibi temel teknolojiler için teknik şartnameler ve yönergeler yayımlar.",
         "Donem": 5
     },
     {
@@ -77,6 +80,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Erişilebilir web tasarımının temel amacı, web sitelerinin, kullanılan cihaz, yazılım, konum veya <b>engellilik durumu</b> ne olursa olsun herkes tarafından eşit ve etkili bir şekilde kullanılabilmesini sağlamaktır. Bu, özellikle görme, işitme, fiziksel veya bilişsel engelli bireylerin internet içeriğine <b>kolayca erişebilmesi</b> anlamına gelir. W3C tarafından belirlenen <b>WCAG (Web Content Accessibility Guidelines)</b> bu hedeflere ulaşmak için yol gösterir.",
         "Donem": 5
     },
     {
@@ -97,6 +101,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "İstemci–sunucu modelinde, <b>istemci</b> (genellikle bir web tarayıcısı) kullanıcının isteği üzerine <b>sunucudan bilgi talep etme</b> (request) görevini üstlenir. İstemci, bu talebi uygun protokoller (örneğin HTTP) aracılığıyla sunucuya iletir ve sunucunun gönderdiği <b>yanıtı</b> (response) alarak kullanıcıya görüntüler (örneğin bir web sayfası olarak render eder).",
         "Donem": 5
     },
     {
@@ -117,6 +122,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "HTTP (Hypertext Transfer Protocol) ve HTTPS (Hypertext Transfer Protocol Secure) arasındaki en önemli fark, <b>HTTPS'in güvenli olmasıdır</b>. HTTPS, sunucu ve istemci arasındaki veri iletişimini <b>SSL/TLS protokollerini</b> kullanarak şifreler. Bu şifreleme, hassas bilgilerin (şifreler, kredi kartı bilgileri) üçüncü partiler tarafından ele geçirilmesini önleyerek <b>gizliliği ve veri bütünlüğünü</b> sağlar. HTTP ise şifreleme yapmaz.",
         "Donem": 5
     },
     {
@@ -137,6 +143,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Alan adlarının (domain names – örn: google.com) internet üzerindeki cihazların birbirleriyle iletişim kurmak için kullandığı sayısal <b>IP adreslerine</b> dönüştürülmesini sağlayan sisteme <b>DNS (Domain Name System - Alan Adı Sistemi)</b> denir. DNS, internetin telefon rehberi gibi çalışır ve kullanıcıların web sitelerine kolayca ulaşmasını sağlar.",
         "Donem": 5
     },
     {
@@ -157,6 +164,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>HTML (HyperText Markup Language)</b>, web sayfalarının temelini oluşturan işaretleme dilidir. Temel işlevi, web sayfasının <b>yapısal iskeletini</b> ve <b>içeriğini</b> (metin, resim, bağlantılar, tablolar vb.) tanımlamaktır. HTML etiketleri, tarayıcıya içeriğin ne tür bir element olduğunu ve nerede konumlanacağını bildirir.",
         "Donem": 5
     },
     {
@@ -177,6 +185,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "<b>CSS (Cascading Style Sheets - Basamaklı Stil Sayfaları)</b>, HTML ile oluşturulan web sayfalarının <b>görsel stilini ve sunumunu</b> kontrol etmek için kullanılır. CSS, renkler, yazı tipleri, düzen (layout), boşluklar ve responsive tasarım gibi özellikleri tanımlayarak içeriğin (HTML) görsel katmandan ayrılmasını sağlar.",
         "Donem": 5
     },
     {
@@ -197,6 +206,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Ön yüz (<b>Front-end</b>) teknolojileri, kullanıcıların tarayıcı aracılığıyla doğrudan etkileşimde bulunduğu web arayüzünü oluşturmaktan sorumludur. Bu teknolojilerin temel üç ayağı <b>HTML</b> (yapı), <b>CSS</b> (stil) ve dinamik etkileşimi sağlayan <b>JavaScript</b>'tir. Bu teknolojiler, kullanıcı deneyimini ve arayüz tasarımını yönetir.",
         "Donem": 5
     },
     {
@@ -217,6 +227,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Web tasarım sürecinin ilk adımı, projenin kapsamının, hedeflerinin ve hedef kitlesinin belirlendiği <b>Planlama ve Keşif (Discovery)</b> aşamasıdır. Bu aşamada kaynaklar, zaman çizelgeleri ve temel gereksinimler netleştirilir, bu da tüm projenin başarılı bir şekilde ilerlemesi için temel teşkil eder.",
         "Donem": 5
     },
     {
@@ -237,6 +248,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "<b>Demografik veriler</b>, kullanıcıların somut ve sayısal olarak ölçülebilir özellikleridir. Bu kapsamda <b>Yaş</b>, <b>Cinsiyet</b>, <b>Eğitim durumu</b>, <b>Gelir seviyesi</b> ve <b>Coğrafi konum</b> gibi temel sosyo-ekonomik bilgiler değerlendirilir.",
         "Donem": 5
     },
     {
@@ -257,6 +269,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Boş bırakılan yere <b>Psikografik</b> kavramı getirilmelidir. <b>Psikografik veriler</b>, kullanıcıların davranışlarını, motivasyonlarını ve tercihlerini anlamak için onların <b>yaşam tarzları</b>, <b>ilgi alanları</b>, değerleri, tutumları ve inançları gibi nitel özelliklerini inceler. Demografik veriler 'kim' olduğunu açıklarken, psikografik veriler 'neden' davrandığını açıklar.",
         "Donem": 5
     },
     {
@@ -277,6 +290,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Kullanıcı yolculuğu (User Journey) aşamaları genellikle <b>Farkındalık</b>, <b>Değerlendirme</b>, <b>Satın Alma/Eylem</b> ve <b>Sadakat</b> gibi kullanıcının ürün veya hizmetle olan doğal etkileşimini kapsayan adımlardır. <b>Test Etme</b>, geliştirme sürecinin bir aşamasıdır ve kullanıcının deneyimlediği doğal tüketici yolculuğu aşamalarından biri değildir.",
         "Donem": 5
     },
     {
@@ -297,6 +311,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>Bilgi Mimarisi (Information Architecture - IA)</b>, bir web sitesindeki içeriğin, navigasyon sistemlerinin ve arama özelliklerinin yapılandırılması ve etiketlenmesi disiplinidir. Amacı, kullanıcıların site içindeki bilgiyi <b>kolayca bulmasını</b> ve anlamasını sağlamaktır.",
         "Donem": 5
     },
     {
@@ -317,6 +332,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "<b>Wireframe</b>, bir web sayfası veya uygulamanın temel yapısını ve öğelerinin yerleşimini gösteren düşük sadakatli bir görsel taslaktır. Wireframe’ler, görsel tasarım veya renk şemaları yerine, tamamen <b>içerik hiyerarşisine</b>, <b>yapısal akışa</b> ve işlevselliğe odaklanır. Bu, bir sitenin iskelet planıdır.",
         "Donem": 5
     },
     {
@@ -337,6 +353,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "İçerik stratejisi genellikle <b>İçeriğin Özü (Substance)</b>, <b>Yapısı (Structure)</b>, <b>Yönetimi (Governance)</b> ve <b>İş Akışı (Workflow)</b> başlıklarını içerir. <b>Görsel Tasarım</b>, içeriğin nasıl sunulacağı ile ilgili olsa da, içerik stratejisinin temel başlıklarından biri sayılmaz; daha çok sunum ve arayüz tasarım (UI) kategorisine girer.",
         "Donem": 5
     },
     {
@@ -357,6 +374,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Tanımlanan özellikler <b>Kullanılabilirlik (Usability)</b> kavramına aittir. Kullanılabilirlik, kullanıcıların belirli bir sistemi kullanırken ne kadar <b>etkili</b>, <b>verimli</b> ve <b>tatmin edici</b> bir deneyim yaşadığını ölçer. Kolaylık, hız ve hatasızlık temel ölçütlerindendir.",
         "Donem": 5
     },
     {
@@ -377,6 +395,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "<b>Gestalt İlkeleri</b>, insan zihninin görsel öğeleri nasıl gruplandırdığını ve anlamlandırdığını açıklayan görsel algı yasalarıdır (Örn: Yakınlık, Benzerlik, Tamamlama, Şekil-Zemin). <b>Kullanılabilirlik</b> (Usability) bir UX hedefi ve ölçütüdür, ancak bir görsel algı ilkesi olarak Gestalt'ın temel kurallarından biri değildir.",
         "Donem": 5
     },
     {
@@ -397,6 +416,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Jakob Nielsen'in 10 Kullanılabilirlik İlkesi, arayüzlerin işlevselliği, verimliliği ve hata yönetimini ele alır (Örn: Sistemin Görünürlüğü, Hata Önleme, Estetik ve Minimalist Tasarım). Bu ilkeler daha çok işlevsel yeterliliğe odaklanır. <b>Görsel Çekicilik</b>, estetik bir kaygı olup, Nielsen'in on temel sezgisellerinden (heuristics) biri olarak kabul edilmez (Estetik ve Minimalist Tasarım ilkesi sadeliği vurgular, salt çekiciliği değil).",
         "Donem": 5
     },
     {
@@ -417,6 +437,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Arayüz tasarımının (User Interface - <b>UI</b>) temel amacı, kullanıcı ile sistem arasındaki etkileşimi kolaylaştırmak, estetik bir deneyim sunmak ve <b>kullanılabilirliği (usability)</b> artırmaktır. UI, kullanıcıya sunulan <b>görsel öğelerin (renk, tipografi, düzen)</b> organizasyonunu içerir ve kullanıcının ürünü veya hizmeti en az çabayla kullanmasını hedefler. Başka bir deyişle, iyi bir UI, sistemin kullanımını <b>sezgisel</b> hale getirir.",
         "Donem": 5
     },
     {
@@ -437,6 +458,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Etkileşim tasarımı (Interaction Design - <b>IxD</b>), kullanıcı ile ürün arasındaki etkileşimin şeklini tanımlar. Bu, kullanıcının bir eyleme verdiği tepkiler (geribildirim), navigasyon akışı, animasyonlar ve durum değişiklikleri gibi dinamik süreçleri içerir. Örneğin <b>hata mesajları</b>, <b>geçiş animasyonları</b> ve <b>form doldurma akışı</b> IxD örneğidir. Ancak, <b>markanın logo rengini belirlemek</b> veya statik <b>görsel stil kılavuzu</b> oluşturmak, daha çok görsel tasarım (UI) veya marka kimliği kapsamına girer, doğrudan etkileşim mekaniğiyle ilgili değildir.",
         "Donem": 5
     },
     {
@@ -457,6 +479,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Renklerin kullanıcı üzerindeki psikolojik etkileri tasarımda kritik öneme sahiptir. Örneğin, <b>Mavi</b> genellikle <b>güven, istikrar ve profesyonellik</b> ile ilişkilendirilirken; <b>Kırmızı</b> <b>acil durum, tehlike, dikkat çekme</b> veya tutku ile eşleştirilir. <b>Yeşil</b> doğa, büyüme ve başarılı tamamlanma (onay mesajları) anlamına gelir. Doğru eşleştirme, markanın algısını ve kullanıcı tepkisini doğrudan etkiler.",
         "Donem": 5
     },
     {
@@ -477,6 +500,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>Tipografi</b>, metinlerin düzenlenmesi, seçimi ve tasarlanması sanatıdır. Tipografinin temel amacı metnin amacına uygun olarak <b>okunabilirliğini (legibility)</b> ve <b>okunurluğunu (readability)</b> maksimize etmektir. Okunabilirlik, tek tek harflerin ne kadar kolay ayırt edilebildiği (font boyutu, font stili) ile ilgilidir. Okunurluk ise metnin bloklar halinde, özellikle uzun paragraflarda, ne kadar akıcı ve kolay taranabildiği (satır yüksekliği, kelime aralığı) ile ilgilidir. Tipografi, bu iki unsuru dengelemelidir.",
         "Donem": 5
     },
     {
@@ -497,6 +521,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "<b>Grid (ızgara) sistemi</b>, tasarım öğelerini düzenlemek ve sayfalar arasında hizalama sağlamak için kullanılır. Grid sisteminin avantajları: <b>tasarımda tutarlılık</b> sağlamak, geliştirme sürecini hızlandırmak ve özellikle <b>duyarlı (responsive) tasarım</b> yapısını oluşturmaktır. Ancak, grid sistemi görsel düzen ile ilgilidir; <b>sayfa yüklenme hızını</b> veya sunucu yanıt süresini doğrudan etkilemez. Hız, görsel optimizasyonu ve kod verimliliği ile ilgilidir.",
         "Donem": 5
     },
     {
@@ -517,6 +542,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>Boşluk (White Space veya Negatif Alan)</b>, tasarım öğeleri arasındaki ve çevresindeki kasıtlı olarak boş bırakılan alanlardır. Temel işlevi, içeriğin <b>okunurluğunu</b> ve <b>anlaşılırlığını</b> artırmak, öğeleri gruplayarak <b>görsel hiyerarşi</b> ve odak noktası oluşturmaktır. Boşluk kullanımı, arayüzün daha az dağınık ve daha profesyonel görünmesini sağlar, bu da kullanıcının bilgileri daha verimli işlemesine yardımcı olur.",
         "Donem": 5
     },
     {
@@ -537,6 +563,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "<b>WCAG (Web İçeriği Erişilebilirlik Kılavuzu)</b>, web içeriğinin engelli kullanıcılar dahil herkes tarafından erişilebilir olmasını sağlamak için dört temel ilkeye dayanır (POUR): <b>Algılanabilir (Perceivable)</b>, <b>Çalıştırılabilir/Kullanılabilir (Operable)</b>, <b>Anlaşılır (Understandable)</b> ve <b>Sağlam/Güvenilir (Robust)</b>. Bu ilkeler teknik ve işlevsel erişilebilirliği garanti eder. <b>Estetik (Aesthetics)</b>, kullanıcı deneyimi (UX) için önemli olsa da, WCAG'nin dört temel erişilebilirlik ilkesinden biri değildir.",
         "Donem": 5
     },
     {
@@ -557,6 +584,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bir web sitesinde görsellere açıklayıcı metin eklemek, <b>alt metin (Alt Text)</b> tekniğiyle sağlanır (HTML'de `alt` özelliği). Alt metin, görselin yüklenemediği durumlarda veya <b>ekran okuyucular</b> kullanan görme engelli kullanıcılar için görselin ne hakkında olduğunu betimler. Bu teknik, WCAG'nin <b>Algılanabilirlik</b> ilkesini yerine getirmenin temel yollarından biridir.",
         "Donem": 5
     },
     {
@@ -577,6 +605,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>Mobil öncelikli tasarım (Mobile First)</b> yaklaşımının temel özelliği, tasarım sürecine en kısıtlı ekran boyutu olan <b>mobil cihazlar</b> için başlanmasıdır. Bu, tasarımcının sadece en temel içeriği ve işlevselliği korumaya zorlar (<b>içerik önceliklendirmesi</b>). Mobil versiyon oluşturulduktan sonra, kademeli olarak daha büyük ekranlara (tablet, masaüstü) doğru özellikler eklenerek geliştirme yapılır (<b>ilerici iyileştirme</b>).",
         "Donem": 5
     },
     {
@@ -597,6 +626,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Farklı cihazlarda tutarlılık sağlamak, kullanıcıların uygulamayı her platformda aynı şekilde anlamasını ve kullanmasını garanti eder. Bu, <b>aynı tasarım dilini</b>, aynı bileşen stillerini ve navigasyon kalıplarını kullanmayı gerektirir. Duyarlı tasarım, grid sistemleri ve tasarım kılavuzları tutarlılığı destekler. Ancak, tasarımda <b>maksimum renk kullanımı</b> veya aşırı süslü bir görsel stil, tutarlılığı değil, aksine <b>görsel karmaşıklığı</b> ve performansı artırabilir, bu nedenle tutarlılık ilkesini destekleyen bir faktör değildir.",
         "Donem": 5
     },
     {
@@ -617,6 +647,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "HTML belgesinin ilk satırında mutlaka <b>belge türü bildirimi</b> (Document Type Declaration) bulunmalıdır. Modern HTML5 standardında bu ibare <b><!DOCTYPE html></b> şeklindedir. Bu bildirim, tarayıcıya belgenin hangi HTML sürümüne göre yorumlanması gerektiğini söyler ve doğru bir şekilde işlenmesini sağlar.",
         "Donem": 5
     },
     {
@@ -637,6 +668,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Bu tür sorularda doğru cevap, bir HTML etiketinin yapısına uymayan veya HTML standardında tanımlı olmayan bir öğe olacaktır. HTML etiketleri, küçüktür (<) ve büyüktür (>) işaretleri arasına yazılır (örneğin <b><body></b> veya <b><p></b>). HTML etiketleri, içeriği yapılandırmak ve anlamlandırmak için kullanılır ve tarayıcıya içeriğin nasıl gösterileceğini bildirir.",
         "Donem": 5
     },
     {
@@ -657,6 +689,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Bir web sayfasının tarayıcı sekmesinde veya penceresinde görünen başlık bilgisi, <b><head></b> etiketi içinde yer alan <b><title></b> etiketi ile tanımlanır. <b><title></b> etiketi, sayfanın içeriği hakkında kısa bilgi verir ve arama motorları (SEO) için kritik öneme sahiptir.",
         "Donem": 5
     },
     {
@@ -677,6 +710,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "HTML'de sayfaya görsel (resim) eklemek için kullanılan etiket <b><img></b> etiketidir. Bu etiket, kapanış etiketi gerektirmeyen (kendiliğinden kapanan) bir etikettir ve görselin yolunu belirtmek için zorunlu olan <b>src</b> (source) özniteliğini kullanır. Ayrıca <b>alt</b> (alternatif metin) özniteliği de erişilebilirlik açısından önemlidir.",
         "Donem": 5
     },
     {
@@ -697,6 +731,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "HTML'de maddeler halinde gösterilen, numaralandırılmamış (sırasız) bir liste oluşturmak için <b><ul></b> (Unordered List) etiketi kullanılır. Listedeki her bir öğe ise <b><li></b> (List Item) etiketi içine alınmalıdır.",
         "Donem": 5
     },
     {
@@ -717,6 +752,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "HTML’de içerik hiyerarşisini ve bölümlendirmeyi belirtmek için başlık seviyeleri kullanılır. Bu seviyeler <b><h1></b>'den başlayıp <b><h6></b>'ya kadar altı farklı büyüklükte tanımlanmıştır. <b><h1></b> sayfanın ana başlığını temsil eder ve en yüksek öneme sahiptir.",
         "Donem": 5
     },
     {
@@ -737,6 +773,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Kullanıcıdan metin, şifre, dosya veya diğer veri türlerini almak için kullanılan temel form elemanlarını tanımlamak amacıyla <b><input></b> etiketi kullanılır. Bu etiket, <b>type</b> özniteliği değiştirilerek farklı işlevlerde kullanılabilir. Tüm bu elemanlar genellikle <b><form></b> etiketi içinde bulunur.",
         "Donem": 5
     },
     {
@@ -757,6 +794,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Kullanıcıdan veri toplamak, yani veri girişi sağlamak için kullanılan temel HTML etiketleri arasında <b><input></b>, <b><textarea></b> (çok satırlı metin girişi için) ve <b><select></b> (açılır menü oluşturmak için) yer alır. Bu etiketler, kullanıcının etkileşimde bulunabileceği arayüz öğelerini oluşturur.",
         "Donem": 5
     },
     {
@@ -777,6 +815,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "<b>Semantik HTML</b>, etiketlerin içeriğin anlamını veya amacını doğru bir şekilde yansıttığı HTML yazım şeklidir. Örneğin, navigasyon bağlantıları için <b><nav></b>, ana içerik için <b><main></b> kullanılmasıdır. Semantik etiketler, sadece stil (görünüm) değil, aynı zamanda içeriğin yapısını tarayıcılara ve arama motorlarına (SEO) doğru aktarır, bu da erişilebilirliği artırır.",
         "Donem": 5
     },
     {
@@ -797,6 +836,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>Responsive (Duyarlı) Tasarım</b>ın temel amacı, bir web sitesinin içeriğinin, tasarımı bozulmadan ve ekrandan bağımsız olarak farklı cihaz boyutlarına (masaüstü, tablet, mobil) otomatik ve akışkan bir şekilde <b>uyum sağlamasını</b> garantilemektir. Böylece, kullanıcıya her platformda <b>en iyi kullanıcı deneyimi</b> sunulmuş olur.",
         "Donem": 5
     },
     {
@@ -817,6 +857,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bir HTML formunda, <b>kullanıcıdan alınan verilerin nereye gönderileceğini</b> (sunucu tarafındaki betik veya sayfa) belirleyen temel öznitelik <b>action</b> özniteliğidir. Bu öznitelik, form gönderildiğinde işlenecek hedef URL'yi tanımlar. Örneğin: <form action=\"/submit.php\">. Bu, formun doğru sunucu kaynağına yönlendirilmesini sağlar.",
         "Donem": 5
     },
     {
@@ -837,6 +878,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Giriş elemanı (<input>) için kullanılan <b>type=\"number\"</b> giriş türü, kullanıcıların yalnızca sayısal değerler girmesini sağlamak üzere tasarlanmıştır. Bu tür, tarayıcının otomatik olarak doğrulama yapmasına ve mobil cihazlarda kullanıcı deneyimini iyileştirmek için sayısal klavye açmasına olanak tanır.",
         "Donem": 5
     },
     {
@@ -857,6 +899,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "HTML5 ile birlikte gelen <b>required</b> özniteliği, bir form alanının (örneğin `<input>`, `<textarea>` veya `<select>`) <b>boş bırakılmamasını</b> garanti eden istemci tarafı bir doğrulama mekanizmasıdır. Bu öznitelik eklendiğinde, kullanıcı o alanı doldurmadan formu gönderemez.",
         "Donem": 5
     },
     {
@@ -877,6 +920,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "HTML tablolarında, veri hücresi için `<td>` (Table Data) kullanılırken, tablonun veya bir bölümünün <b>başlık hücreleri</b> için <b><th></b> (Table Header) etiketi kullanılır. <th> etiketi, başlıkları semantik olarak tanımlar ve ekran okuyucuların tablo yapısını anlamasına yardımcı olur, genellikle metni kalın ve ortalanmış gösterir.",
         "Donem": 5
     },
     {
@@ -897,6 +941,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Bir HTML tablo hücresinin (<td> veya <th>), yatay yönde yani <b>birden fazla sütunu</b> kapsamasını sağlayan öznitelik <b>colspan</b>'dır (Column Span). Bu özniteliğe verilen değer, hücrenin kaç sütun genişliğinde olacağını belirtir. Dikey birleştirme ise `rowspan` özniteliği ile yapılır.",
         "Donem": 5
     },
     {
@@ -917,6 +962,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Semantik HTML5 etiketlerinden olan <b><main></b> etiketi, bir web sayfasının <b>ana, benzersiz içeriğini</b> belirtmek için kullanılır. Bu, sayfanın temel amacına hizmet eden içeriği tanımlar ve gezinme, altbilgi veya yan çubuk gibi yardımcı içeriklerden ayrılmasını sağlar. Bir sayfada genellikle yalnızca bir `<main>` etiketi olmalıdır.",
         "Donem": 5
     },
     {
@@ -937,6 +983,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "<b><nav></b> etiketi, sayfa içinde veya site genelinde önemli <b>gezinme bağlantıları</b> (navigation links) içeren bölümleri işaretlemek için kullanılan semantik bir etikettir. Bu etiket, yardımcı teknolojilere ve arama motorlarına bu içeriğin gezinme amaçlı olduğunu bildirerek erişilebilirliği artırır.",
         "Donem": 5
     },
     {
@@ -957,6 +1004,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>alt</b> (alternatif metin) özniteliği, <img> etiketi için zorunlu sayılan ve görselin içeriğini veya işlevini açıklayan metni sağlar. Bu metin, görsel yüklenemediğinde kullanıcıya gösterilir ve en önemlisi, <b>ekran okuyucular</b> tarafından okunarak görme engelli kullanıcılar için <b>erişilebilirliği</b> artırır.",
         "Donem": 5
     },
     {
@@ -977,6 +1025,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Form öğelerini mantıksal olarak gruplamak ve aralarına görsel bir çerçeve çekmek için <b><fieldset></b> etiketi kullanılır. Bu grubun başlığını veya açıklamasını sağlamak için ise <b><legend></b> etiketi, <fieldset> içine yerleştirilir. Bu ikili, formun yapısını netleştirir ve ekran okuyucular için bağlam sağlayarak erişilebilirliği iyileştirir.",
         "Donem": 5
     },
     {
@@ -997,6 +1046,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>WCAG</b> (Web Content Accessibility Guidelines - Web İçeriği Erişilebilirlik Yönergeleri), web içeriğinin <b>engelli bireyler tarafından algılanabilir, işletebilir, anlaşılabilir ve sağlam</b> olmasını sağlamak amacıyla geliştirilmiş uluslararası standartlardır. Bu nedenle, WCAG standartları doğrudan <b>Web Erişilebilirliği</b> (Accessibility) kavramı ile ilişkilidir.",
         "Donem": 5
     },
     {
@@ -1017,6 +1067,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "CSS (Cascading Style Sheets), bir web sayfasının <b>görsel sunumunu ve düzenini</b> kontrol etmek için kullanılır. HTML ise sayfanın <b>yapısal iskeletini</b> (başlıklar, paragraflar, görseller vb.) oluşturur. CSS'in temel işlevi, HTML tarafından sağlanan içeriğe renk, yazı tipi, boyut, konum ve diğer stil özelliklerini uygulamaktır. CSS, HTML içeriğini değil, sadece o içeriğin nasıl görüneceğini yönetir.",
         "Donem": 5
     },
     {
@@ -1037,6 +1088,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "CSS'i HTML sayfasına eklemenin en iyi yolu, <b>Harici Stil Sayfası (External Style Sheet)</b> kullanmaktır. Bu yöntemde stiller, ayrı bir `.css` dosyasında tutulur ve bu sayede <b>bakımı kolaylaşır</b>, kod tekrarı önlenir ve aynı stil dosyasının birden çok sayfada kullanılmasıyla projede tutarlılık sağlanır. Diğer yöntemler (Dahili ve Satır İçi), geniş çaplı projelerde yönetimi zorlaştırır.",
         "Donem": 5
     },
     {
@@ -1057,6 +1109,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bir CSS kuralı, temel olarak üç ana bileşenden oluşur. İlk olarak, stilin uygulanacağı HTML öğesini hedefleyen <b>Seçici (Selector)</b> bulunur (örn: `p`). İkinci olarak, değiştirilmek istenen özelliği belirten <b>Özellik (Property)</b> (örn: `color`) ve son olarak bu özelliğe atanacak değeri belirten <b>Değer (Value)</b> (örn: `blue`) yer alır. Bu son iki bileşen (Özellik ve Değer) birlikte Bildirim (Declaration) olarak adlandırılır.",
         "Donem": 5
     },
     {
@@ -1077,6 +1130,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "CSS'te, aynı stili birden fazla farklı HTML öğesine uygulamayı sağlayan seçici türü <b>Sınıf Seçici (Class Selector)</b>'dir. Bu seçiciler, CSS dosyasında tanımlanırken <b>nokta (.)</b> ön eki kullanılarak belirtilir (örneğin, `.ozelmetin`). Bu sayede, belirli bir sınıfa sahip tüm öğeler aynı stili alır, bu da esneklik ve yeniden kullanılabilirlik sağlar.",
         "Donem": 5
     },
     {
@@ -1097,6 +1151,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Verilen CSS sözdizimi örneğinde (`p { color: blue; font-size: 14px; }`), `p` seçicidir. Süslü parantez içindeki ifadeler (color: blue;), bir bildirimdir. Bu bildirimde, <b>iki nokta üst üste (:)</b> işaretinden önceki kısım, değiştirilmek istenen stil özelliğini yani <b>Özellik (Property)</b>'yi temsil eder. \"color\" ifadesi, yazı rengi özelliğini değiştirmek için kullanılan Özelliktir.",
         "Donem": 5
     },
     {
@@ -1117,6 +1172,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "CSS Kutu Modeli'nde (Box Model), bir HTML öğesinin İçerik (Content) alanını çevreleyen ve Kenarlık (Border) alanından içeride kalan boşluk, <b>Dolgu (Padding)</b> olarak tanımlanır. Padding, içeriğin kenarlığa ne kadar yakın olacağını belirleyen <b>iç boşluktur</b>. Padding uygulandığında kutunun görünen boyutu artar.",
         "Donem": 5
     },
     {
@@ -1137,6 +1193,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Tablolarda komşu hücre kenarlıklarının ayrık çizgiler halinde değil, tek bir birleşik çizgi halinde görünmesini sağlamak için <b>`border-collapse`</b> özelliği kullanılır ve buna <b>`collapse`</b> değeri atanır. Bu, özellikle veri tablolarının daha temiz, sade ve görsel olarak daha az karmaşık görünmesini sağlar.",
         "Donem": 5
     },
     {
@@ -1157,6 +1214,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Metin biçimlendirme özelliklerinden olan <b>`letter-spacing`</b>, bir kelime veya cümle içindeki <b>her bir karakter (harf) arasındaki boşluğu</b> yatay düzlemde kontrol etmeye yarar. Pozitif bir değer, karakterleri birbirinden uzaklaştırırken, negatif bir değer karakterleri yakınlaştırır.",
         "Donem": 5
     },
     {
@@ -1177,6 +1235,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "<b>`vw` (viewport width)</b> ve <b>`vh` (viewport height)</b> birimleri, modern duyarlı (responsive) tasarım için hayati önem taşır. Bu birimlerin temel özelliği, uzunluk değerlerini cihazın <b>görünüm alanının (viewport)</b> boyutuna göre yüzdesel olarak belirlemesidir. Örneğin, `1vw`, ekran genişliğinin %1'ine eşittir. Bu sayede, bir öğe farklı ekran boyutlarına göre kendini otomatik olarak ölçekleyebilir.",
         "Donem": 5
     },
     {
@@ -1197,6 +1256,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "CSS Kutu Modeli'nde bir HTML öğesinin çevresindeki diğer kutularla arasındaki mesafeyi belirleyen ve Kutu Modeli'nin <b>en dış katmanını</b> oluşturan bileşen <b>Kenar Boşluğu (Margin)</b>'dur. Margin, <b>kenarlık (border) ile sayfa üzerindeki diğer öğeler arasındaki dış boşluğu</b> tanımlar ve öğelerin yerleşim düzenini kontrol eder.",
         "Donem": 5
     },
     {
@@ -1217,6 +1277,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Flexbox (Esnek Kutu Modeli), öğeleri tek bir yönde (ya yatayda bir <b>satır</b> ya da dikeyde bir <b>sütun</b>) düzenlemek için tasarlanmıştır. Bu nedenle, bileşenler içindeki içerik hizalamaları, navigasyon çubukları gibi <b>tek boyutlu düzenler</b> için en uygundur. İki boyutlu (satır ve sütun aynı anda) düzenleme gerektiren yapılar için Grid sistemi tercih edilmelidir.",
         "Donem": 5
     },
     {
@@ -1237,6 +1298,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Flexbox’ta öğelerin ana eksen (main axis) boyunca hizalanmasını sağlayan özellik <b>justify-content</b>'tir. Bu özellik, öğeler arasında veya etrafında boşluk dağıtımı yaparak (örneğin: <code>space-between</code>, <code>center</code>, <code>flex-start</code>) yatay hizalamayı yönetir. Flex konteyneri <code>flex-direction: row;</code> ise, bu özellik yatay hizalamayı sağlar.",
         "Donem": 5
     },
     {
@@ -1257,6 +1319,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Flexbox, HTML yapısı ne olursa olsun, öğelerin görsel sırasını değiştirmeye olanak tanır. Bu, flex öğelerine uygulanan <b>order</b> özelliği ile sağlanır. <code>order</code> özelliği, öğelere pozitif veya negatif tamsayı değerler atanmasını sağlar; daha düşük değere sahip öğeler, daha yüksek değere sahip öğelerden önce görüntülenir, böylece <b>kaynak sırasından bağımsız</b> bir düzen oluşturulabilir.",
         "Donem": 5
     },
     {
@@ -1277,6 +1340,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bir flex öğesinin, mevcut boş alandan ne kadar pay alacağını belirlemek için <b>flex-grow</b> özelliği kullanılır. Bu özelliğe verilen sayısal değer, öğenin diğer kardeş öğelere göre ne kadar oranda büyüyeceğini ifade eder. Örneğin, bir öğeye <code>flex-grow: 2;</code> verilirse, diğerlerine göre iki kat fazla boş alan kaplamaya çalışır.",
         "Donem": 5
     },
     {
@@ -1297,6 +1361,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "CSS Grid Layout sisteminde, ana kapsayıcı üzerindeki sütunların sayısını, genişliğini ve yapısını tanımlamak için kullanılan özellik <b>grid-template-columns</b>'dur. Benzer şekilde satırları tanımlamak için <code>grid-template-rows</code> kullanılır. Bu özellikler, grid yapısının temel iskeletini oluşturur.",
         "Donem": 5
     },
     {
@@ -1317,6 +1382,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Grid düzende, satırlar ve sütunlar arasındaki boşluğu (ara boşluk) belirlemek için <b>gap</b> özelliği kullanılır. Bu özellik, hem <code>row-gap</code> hem de <code>column-gap</code> değerlerini kısaltma olarak içerir ve öğeler arası net ayrımı sağlar (eski standartlarda <code>grid-gap</code> olarak da bilinirdi).",
         "Donem": 5
     },
     {
@@ -1337,6 +1403,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Grid sisteminde <b>\"fr\"</b> birimi, \"Fractional Unit\" (Kesirli Birim) anlamına gelir. Bu birim, grid kapsayıcısının kullanılabilir durumdaki <b>kalan boşluk</b> miktarının oranını belirtir. Bu, sütun ve satır boyutlarının ekran genişliğine göre esnek ve orantılı olarak ayarlanmasını sağlar. Örneğin, <code>grid-template-columns: 1fr 1fr;</code> iki eşit genişlikte sütun oluşturur.",
         "Donem": 5
     },
     {
@@ -1357,6 +1424,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bir grid öğesini birden fazla sütun boyunca genişletmek (span) için <b>grid-column</b> özelliği içinde <code>span</code> anahtar kelimesi kullanılır. Doğru yazım <code>grid-column: span 2;</code> şeklindedir ve bu, öğenin <b>başladığı noktadan itibaren 2 sütun</b> boyunca yer kaplamasını sağlar.",
         "Donem": 5
     },
     {
@@ -1377,6 +1445,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Duyarlı (Responsive) tasarımın temelini oluşturan <b>Media Queries</b>, belirli cihaz özelliklerine (ekran genişliği, çözünürlük, yönelim vb.) bağlı olarak CSS stillerini uygulamak için kullanılır. Bu yapı, <b>@media</b> kuralı ile tanımlanır ve parantez içinde koşullar belirtilir (örneğin, <code>@media (max-width: 768px)</code>).",
         "Donem": 5
     },
     {
@@ -1397,6 +1466,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "CSS'te bir özelliğin bir durumdan diğerine (örneğin hover durumuna) yumuşak ve animasyonlu bir şekilde geçmesini sağlayan özellik <b>transition</b>'dır. Bu özellik, geçişin <b>süresini</b> (duration), hangi <b>özellikleri</b> (property) etkileyeceğini ve hangi <b>hız eğrisiyle</b> (timing-function) gerçekleşeceğini tanımlar, böylece kullanıcıya daha akıcı bir deneyim sunar.",
         "Donem": 5
     },
     {
@@ -1417,6 +1487,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Esnek öğeler, onları barındıran üst öğe <b>esnek konteyner</b> olarak tanımlandığında, bu konteynerin içine yerleştirilir. Bir öğeyi esnek konteyner yapmak için <b>CSS display</b> özelliği kullanılır ve bu özellik için temel değerler <b>display: flex;</b> (blok seviyesinde) ve <b>display: inline-flex;</b> (satır içi seviyesinde) olarak belirlenir. Bu tanım, esnek kutunun başlangıcını ve sonunu ifade eden iki temel tanımlama biçimini belirtir. (Varsayılan Cevap: <b>display: flex</b> ve <b>display: inline-flex</b>)",
         "Donem": 5
     },
     {
@@ -1437,6 +1508,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Flexbox, tek boyutlu yerleşimler için kullanılan özel bir CSS modülüdür. Bu kapsamda <b>justify-content</b>, <b>align-items</b>, <b>flex-direction</b> ve <b>flex-wrap</b> gibi özellikler kullanılır. Eğer seçeneklerde <b>float</b>, <b>grid-template-columns</b> veya <b>column-count</b> gibi Grid veya eski yerleşim modellerine ait özellikler yer alıyorsa, bunlar Flexbox kapsamında kullanılan özellikler arasında <b>yer almaz</b>.",
         "Donem": 5
     },
     {
@@ -1457,6 +1529,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Flexbox'ta öğelerin hizalanması iki eksen üzerinde yapılır: Ana Eksen ve Çapraz Eksen. Varsayılan olarak Ana Eksen yataydır. Öğeleri dikey olarak (Çapraz Eksen üzerinde) hizalamak için <b>align-items</b> özelliği kullanılır. Bu özellik, tek bir satırdaki tüm esnek öğelerin Çapraz Eksen boyunca nasıl yerleştirileceğini kontrol eder.",
         "Donem": 5
     },
     {
@@ -1477,6 +1550,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>justify-content</b> özelliği, esnek öğeleri <b>Ana Eksen</b> (Main Axis) üzerinde hizalama ve boşluk dağıtımı için kullanılırken, <b>align-items</b> özelliği ise <b>Çapraz Eksen</b> (Cross Axis) üzerinde hizalama yapmak için kullanılır. Bu nedenle boşluklara sırasıyla <b>Ana</b> ve <b>Çapraz</b> gelmelidir.",
         "Donem": 5
     },
     {
@@ -1497,6 +1571,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "<b>align-self</b>, tek bir esnek öğenin Çapraz Eksen hizalamasını belirler. Kabul edilen değerler arasında <b>auto</b>, <b>flex-start</b>, <b>flex-end</b>, <b>center</b>, <b>baseline</b> ve <b>stretch</b> bulunur. Eğer seçeneklerde <b>space-between</b> veya <b>space-around</b> gibi aralık dağıtımı yapan değerler varsa, bunlar <b>align-content</b> veya <b>justify-content</b> için geçerlidir, ancak <b>align-self</b> için geçerli değildir.",
         "Donem": 5
     },
     {
@@ -1517,6 +1592,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>flex-direction</b> özelliği, esnek öğelerin yerleştirildiği Ana Eksenin yönünü belirler. Bu özelliğin varsayılan (default) değeri <b>row</b>'dur. Bu, öğelerin soldan sağa (yatay olarak) sıralanacağı anlamına gelir.",
         "Donem": 5
     },
     {
@@ -1537,6 +1613,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "CSS Flexbox'ta öğelerin mevcut alana sığmadıklarında yeni bir satıra geçerek <b>birden çok satıra yayılmasını</b> sağlamak, yani kaydırma (wrapping) işlemini kontrol etmek için <b>flex-wrap</b> özelliği kullanılır. Varsayılan değeri `nowrap`'tır.",
         "Donem": 5
     },
     {
@@ -1557,6 +1634,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "<b>flex-direction</b> ve <b>flex-wrap</b> özelliklerini tek bir CSS bildirimiyle tanımlamak için kullanılan kısayol (shorthand) özellik <b>flex-flow</b>'dur. Örneğin: `flex-flow: row wrap;`.",
         "Donem": 5
     },
     {
@@ -1577,6 +1655,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>justify-content</b>, öğelerin Ana Eksen üzerindeki dağılımını yönetir. Kabul edilen geçerli değerler arasında <b>flex-start</b>, <b>flex-end</b>, <b>center</b>, <b>space-between</b>, <b>space-around</b> ve <b>space-evenly</b> yer alır. <b>space-between</b>, ilk ve son öğeleri konteynerin uçlarına yaslayarak aradaki boşlukları eşit olarak dağıtan bir değerdir.",
         "Donem": 5
     },
     {
@@ -1597,6 +1676,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>order</b> özelliği, esnek öğelerin görsel sırasını değiştirmek için kullanılır. Bu özellik varsayılan olarak tüm esnek öğelerde <b>0</b> (sıfır) değerini alır. Bu, öğelerin kaynak kod sırasına göre görünmesi demektir.",
         "Donem": 5
     },
     {
@@ -1617,6 +1697,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Çok satırlı Flexbox konteynerlerde (yani `flex-wrap: wrap` kullanıldığında) esnek satırları Çapraz Eksen boyunca hizalamak için <b>align-content</b> özelliği kullanılır. Bu özelliğin değerleri arasında <b>stretch</b> (varsayılan), <b>flex-start</b>, <b>flex-end</b>, <b>center</b>, <b>space-between</b> ve <b>space-around</b> bulunur. Örneğin <b>space-around</b>, her satırın etrafındaki boşluğu eşit olarak dağıtır.",
         "Donem": 5
     },
     {
@@ -1637,6 +1718,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Flexbox Modeli, özellikle <b>tek boyutlu yerleşimlerde</b> (bir satır veya bir sütun) öğeleri hizalamayı ve boşlukları dağıtmayı son derece kolaylaştırdığı için büyük bir avantaj sağlar. Geleneksel CSS yöntemleriyle zor olan dikey ortalama (vertical centering) gibi işlemleri hızlıca gerçekleştirebilir olması, en büyük avantajlarından biridir.",
         "Donem": 5
     },
     {
@@ -1657,6 +1739,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "CSS'te Flexbox (Esnek Kutu Modeli) tek boyutlu yerleşimler için bir dizi özel özellik sunar. Bu özellikler arasında <b>flex-direction</b>, <b>flex-wrap</b>, <b>justify-content</b> ve <b>align-items</b> bulunur. Bu özellikler, öğelerin Ana ve Çapraz Eksenler boyunca nasıl yerleştirileceğini ve dağıtılacağını kontrol eder.",
         "Donem": 5
     },
     {
@@ -1677,6 +1760,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "<b>flex-wrap</b> özelliği, esnek öğelerin esnek konteynerin genişliğini aştığında ne yapacağını belirler. Bu özellik, öğelerin tek bir satırda kalmak yerine (`nowrap` değeri), <b>birden çok satıra kaydırılması</b> (wrap) işlemini kontrol etmek için kullanılır.",
         "Donem": 5
     },
     {
@@ -1697,6 +1781,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Flexbox’ta <b>order</b> özelliğinin temel işlevi, esnek öğelerin HTML kaynak kodundaki sırasından bağımsız olarak <b>görsel olarak yeniden sıralanmasını</b> sağlamaktır. Bu, erişilebilirlik (accessibility) veya SEO'yu etkilemeden sadece görsel sunumu değiştirmeye olanak tanır.",
         "Donem": 5
     },
     {
@@ -1717,6 +1802,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "<b>justify-content</b> değerleri, Ana Eksen üzerindeki öğe dağılımını kontrol eder. Örneğin, <b>space-between</b>, ilk öğeyi başlangıca ve son öğeyi sona yaslayıp aradaki boşlukları eşitler. Eğer bir açıklama <b>space-between</b> değerini, tüm öğelerin etrafına eşit boşluk koyar şeklinde tanımlıyorsa (bu tanım <b>space-around</b> için geçerlidir), bu açıklama <b>yanlış</b> olur.",
         "Donem": 5
     },
     {
@@ -1737,6 +1823,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Esnek öğelerin yerleştirildiği <b>yönü ve dolayısıyla Ana Eksenin konumunu</b> belirleyen özellik <b>flex-direction</b>'dır. Bu özellik `row`, `row-reverse`, `column` veya `column-reverse` değerlerini alarak yerleşim akışını kontrol eder.",
         "Donem": 5
     },
     {
@@ -1757,6 +1844,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Modern web tasarımında, gezinme çubukları (Navbar) oluşturmak için genellikle <b>semantik HTML</b> ve liste yapıları kullanılır (&lt;ul&gt;, &lt;li&gt; ve &lt;a&gt;). &lt;header&gt; etiketi genellikle Navbar'ı çevrelemek için kullanılır. Ancak, <b>&lt;table&gt;</b> etiketi sayfa düzeni veya gezinme çubuğu yapısı tasarlamak için kesinlikle <u>kullanılmaz</u>; bu etiket sadece verileri tablo halinde göstermek için tasarlanmıştır.",
         "Donem": 5
     },
     {
@@ -1777,6 +1865,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Web sayfası içerisinde bağlantı elemanlarının alt alta sıralandığı, genellikle sayfanın kenarında konumlandırılan gezinme çubuğu yapısına <b>Dikey Gezinme Çubuğu</b> adı verilir. Bu yapı, genellikle liste elemanlarının varsayılan <b>display: block</b> özelliği korunarak oluşturulur.",
         "Donem": 5
     },
     {
@@ -1797,6 +1886,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Web sayfası içerisinde bağlantı elemanlarının yan yana sıralandığı, genellikle sayfanın üst kısmında konumlandırılan gezinme çubuğu yapısına <b>Yatay Gezinme Çubuğu</b> adı verilir. Bu yapıyı oluşturmak için liste elemanlarına <b>float: left</b>, <b>display: inline-block</b> ya da <b>display: flex</b> gibi özellikler uygulanır.",
         "Donem": 5
     },
     {
@@ -1817,6 +1907,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Yatay bir gezinme çubuğu oluşturulurken, liste öğelerinin (li) yan yana gelmesini sağlamak için kullanılan geleneksel ve yaygın stil tanımlarından biri <b>float: left</b>'tir. Bu, öğelerin sola doğru kaydırılmasını sağlayarak yatay bir düzen oluşturur. Modern yöntemlerde ise <b>display: flex</b> sıklıkla tercih edilir.",
         "Donem": 5
     },
     {
@@ -1837,6 +1928,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Bir resim galerisine <b>responsive (duyarlı)</b> özellik kazandırmak için resimlerin genişlik değerlerinin piksel yerine <b>% (yüzde)</b> birimleri kullanılarak tanımlanması gerekir. Bu sayede ekran boyutları değiştiğinde resimler orantılı olarak yeniden boyutlandırılır. Ayrıca <b>CSS Flexbox</b> veya <b>Grid</b> kullanımı, farklı ekran çözünürlüklerinde düzenin korunmasına yardımcı olur.",
         "Donem": 5
     },
     {
@@ -1857,6 +1949,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>CSS Transform Metodu</b> (Dönüşümler), x ve y ekseni üzerindeki html elementlerinin konumunu değiştirme (translate), döndürme (rotate), ölçeklendirme (scale) ve çarpıtma (skew) gibi görsel manipülasyonları gerçekleştirmek için kullanılır. Bu metod elementlere dinamik efektler kazandırır.",
         "Donem": 5
     },
     {
@@ -1877,6 +1970,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Bir nesnenin x ve y ekseni üzerindeki konumunu, belirlenen değerler doğrultusunda kaydırarak değiştirmek için <b>transform: translate()</b> fonksiyonu kullanılır. Bu fonksiyon, nesneyi bulunduğu yerden hareket ettirir ancak normal belge akışını bozmaz.",
         "Donem": 5
     },
     {
@@ -1897,6 +1991,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Transitions Metodu'na ait temel özellikler şunlardır: <b>transition-property</b> (geçiş yapılacak özellik), <b>transition-duration</b> (geçiş süresi), <b>transition-timing-function</b> (hız eğrisi) ve <b>transition-delay</b> (başlangıç gecikmesi). Bu dört özellik dışında sunulan herhangi bir seçenek (örneğin 'transition-mode' veya 'transition-style') bu metoda ait standart bir özellik <u>değildir</u>.",
         "Donem": 5
     },
     {
@@ -1917,6 +2012,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>transition-delay</b> özelliği, bir CSS geçiş efektinin tetiklenmesinden sonra, bu efektin fiilen başlaması için gereken <b>bekleme süresini</b> (gecikme süresini) saniye veya milisaniye cinsinden belirler.",
         "Donem": 5
     },
     {
@@ -1937,6 +2033,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "CSS'teki 2 boyutlu dönüştürme yöntemleri arasında <b>translate()</b> (konum kaydırma), <b>rotate()</b> (döndürme), <b>scale()</b> (ölçekleme) ve <b>skew()</b> (eğme) bulunur. <b>perspective</b> özelliği ise 3 boyutlu (3D) dönüşümlerde derinlik etkisini ayarlamak için kullanılır ve bir 2D dönüştürme yöntemi değildir.",
         "Donem": 5
     },
     {
@@ -1957,6 +2054,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Geçiş (transition) özellikleri; <b>transition-property</b>, <b>transition-duration</b>, <b>transition-timing-function</b> ve <b>transition-delay</b>'dir. Bu dört özellik dışında belirtilen bir değer (örneğin, 'transition-style' gibi standart olmayan bir özellik) geçiş özellikleri arasında <u>yer almaz</u>.",
         "Donem": 5
     },
     {
@@ -1977,6 +2075,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bir nesneyi x ve y düzleminde, belirlenen bir açı değeri kadar (örneğin 45deg) saat yönünde veya saat yönünün tersine döndürmek için <b>transform: rotate()</b> fonksiyonu kullanılır. Derece değeri pozitif olduğunda saat yönünde, negatif olduğunda tersine döndürme gerçekleştirilir.",
         "Donem": 5
     },
     {
@@ -1997,6 +2096,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bir nesnenin x ve y eksenlerindeki eğimini (çarpıklığını) derece cinsinden artırıp azaltmak için <b>transform: skew()</b> fonksiyonu kullanılır. Bu işlem, nesnenin paralelkenar şekline benzer bir görünüme kavuşmasını sağlar.",
         "Donem": 5
     },
     {
@@ -2017,6 +2117,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Geçiş işleminin başlangıcından bitişine kadar olan hız değişimini ve akışını belirlemek için <b>transition-timing-function</b> özelliği kullanılır. Bu özellik, animasyonun yumuşak (ease), sabit (linear) veya yavaş başlayıp hızlanan (ease-in) gibi farklı hız eğrileriyle çalışmasını sağlar.",
         "Donem": 5
     },
     {
@@ -2037,6 +2138,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Web sayfası üzerindeki menü ya da gezinme çubuğu olarak adlandırılan ve kullanıcıların sitedeki farklı sayfalara kolayca erişimini sağlayan yapıya <b>Navbar (Gezinme Çubuğu)</b> denir. Navbar, sitenin navigasyon (yönlendirme) iskeletini oluşturur.",
         "Donem": 5
     },
     {
@@ -2057,6 +2159,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bootstrap kullanmanın temel avantajları arasında <b>hızlı geliştirme</b>, <b>duyarlı (responsive) tasarım desteği</b> ve <b>önceden tanımlanmış bileşenlerin</b> varlığı bulunur. Genellikle avantaj olmayan durum, projeye dahil edildiğinde dosya boyutunu artırması ve bu yüzden <b>gereksiz kod yüküne</b> yol açabilmesidir. Ayrıca, yoğun özelleştirme gerektiren projelerde varsayılan stilleri değiştirmek zor olabilir.",
         "Donem": 5
     },
     {
@@ -2077,6 +2180,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Bootstrap v5, modern web standartlarına odaklandığı için eski tarayıcılardan bazılarını desteklemeyi bırakmıştır. Bu kapsamda, <b>Internet Explorer (IE)</b>, Bootstrap v5 tarafından resmen desteklenmeyen internet tarayıcıları arasında yer alır. V5, güncel Chrome, Firefox, Edge, Safari ve Opera sürümlerini destekler.",
         "Donem": 5
     },
     {
@@ -2097,6 +2201,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bootstrap, bir <b>CSS çatısı (framework)</b> olduğu için, HTML elementlerine görsel stil ve işlevsellik kazandırmak amacıyla <b>class</b> (sınıf) tanımı ile kullanılır. Kullanıcılar, elementlerin `class=\"...\"` niteliğine Bootstrap tarafından sağlanan önceden tanımlanmış sınıfları eklerler (Örn: `class=\"btn btn-primary\"`).",
         "Donem": 5
     },
     {
@@ -2117,6 +2222,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bootstrap'in <b>Layout (Düzen) Sistemi</b>, web sayfasının genel yapısını ve duyarlılığını sağlamak için kritik öneme sahip üç ana bileşenden oluşur: <b>Containers (Kapsayıcılar)</b>, <b>Breakpoints (Kesme Noktaları)</b> ve <b>Grid (Izgara)</b> sistemi (I, II, ve III). Tables (Tablolar) ise genellikle bir içerik bileşeni olarak Layout sisteminin kendisinin değil, sistemin içinde kullanılan bir elementin stilidir.",
         "Donem": 5
     },
     {
@@ -2137,6 +2243,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Bootstrap v5'te kullanılan standart <b>Breakpoint (Kesme Noktası)</b> tanımları şunlardır: `sm` (small), `md` (medium), `lg` (large), `xl` (extra large) ve `xxl` (extra extra large). Bu tanımların dışında yer alan veya standart dışı bir kısaltma doğru bir breakpoint tanımı değildir. Kesme noktaları, duyarlı tasarımlarda stil geçişlerinin ne zaman yapılacağını belirler.",
         "Donem": 5
     },
     {
@@ -2157,6 +2264,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bootstrap’te iki ana kapsayıcı türü vardır. `container` sınıfı, belirlenen kesme noktalarına göre değişen maksimum genişliğe sahiptir. Buna karşılık, <b>container-fluid</b> sınıfı, kullanılan cihazın ya da ekranın genişliğini <b>tamamen kapsayan (%100 genişlik)</b> kapsayıcı tanımıdır.",
         "Donem": 5
     },
     {
@@ -2177,6 +2285,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bir HTML tablodaki satırların bir açık bir koyu renkte, yani şeritli görünmesi (çizgili satırlar) için kullanılan Bootstrap sınıfı <b>.table-striped</b> sınıfıdır. Bu özellik, büyük veri setlerinin daha kolay okunabilmesini sağlar.",
         "Donem": 5
     },
     {
@@ -2197,6 +2306,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bir tablonun tüm satır ve sütunlarına kenarlık eklemek (yani hücre kenarlıklarını belirginleştirmek) için kullanılan Bootstrap özelliği <b>.table-bordered</b> sınıfıdır. Bu sınıf, tabloya standart kenarlıklar ekleyerek her hücreyi görsel olarak ayırır.",
         "Donem": 5
     },
     {
@@ -2217,6 +2327,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "HTML tabloya <b>Responsive (Duyarlı)</b> özellik kazandırmak için tabloyu saran bir `<div>` elementine <b>.table-responsive</b> sınıfı uygulanır. Bu sınıf sayesinde, küçük ekranlarda tablo genişliği ekrana sığmadığında otomatik olarak yatay kaydırma çubuğu belirir.",
         "Donem": 5
     },
     {
@@ -2237,6 +2348,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bootstrap v5, performansı artırmak ve modernleştirmek amacıyla bazı eski bileşenleri ve bağımlılıkları kaldırmıştır. Kaldırılan temel bileşenlerden biri, büyük başlıklar ve dikkat çekici içerikler için kullanılan <b>Jumbotron</b> bileşenidir. V5’te bu bileşenin yerine utility sınıfları kullanılarak benzer tasarımlar yapılabilir.",
         "Donem": 5
     },
     {
@@ -2257,6 +2369,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Bootstrap v5, modern web standartlarını destekleyen tarayıcıları hedefler. Windows masaüstü ortamında geçmişte yaygın olarak kullanılan ancak modern standartları takip etmeyen <b>Internet Explorer (IE)</b>, Bootstrap v5 tarafından resmi olarak desteklenmez.",
         "Donem": 5
     },
     {
@@ -2277,6 +2390,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Bootstrap v5'teki kesme noktaları belirlenmiş piksel değerlerinden başlar. <b>1400 px</b> ve bu ölçüden daha büyük ekranlar için tanımlanan kesme noktası tipi <b>XXL (Extra Extra Large)</b> olarak adlandırılır. Bu, en geniş masaüstü ekranlar için özelleştirme yapmayı sağlar.",
         "Donem": 5
     },
     {
@@ -2297,6 +2411,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Breakpoints (Kesme Noktaları), içerik düzeninin değiştiği ekran genişliği sınırlarını temsil eder ve duyarlı tasarımın temelidir. Bu noktaların temel özelliği, bir breakpoint’e uygulanan bir sınıfın, aksi belirtilmedikçe o noktadan sonraki <b>tüm daha büyük ekranlara da uygulanmaya devam etmesidir</b> (mobile-first yaklaşımı). Yanlış ifade, bu kuralı veya tanımlı genişlikleri yanlış belirten bir seçenek olacaktır.",
         "Donem": 5
     },
     {
@@ -2317,6 +2432,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bir tabloda kullanıcının <b>mouse (fare) imlecinin</b> üzerinde bulunduğu satırın rengini değiştirmesi (vurgulanması) özelliğine <b>Hoverable</b> özelliği denir. Bu özellik, tabloya <b>.table-hover</b> sınıfı eklenerek sağlanır ve kullanıcıya hangi satırı işaretlediğine dair görsel geri bildirim sunar.",
         "Donem": 5
     },
     {
@@ -2337,6 +2453,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Bootstrap v5, modern web teknolojilerini destekleyen tarayıcıları hedefler. Windows işletim sistemi altında geçmişte bulunan ancak v5 tarafından desteği kesilen tarayıcı <b>Internet Explorer (IE)</b>’dır. Güncel Chrome, Firefox ve Microsoft Edge tarayıcıları desteklenir.",
         "Donem": 5
     },
     {
@@ -2357,6 +2474,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bir HTML tabloya satırların üzerine gelindiğinde renginin değişmesi anlamına gelen <b>Hoverable</b> özelliği kazandırmak için tablo etiketine <b>.table-hover</b> sınıfı uygulanmalıdır. Bu, kullanıcının etkileşimde olduğu satırı belirginleştirir.",
         "Donem": 5
     },
     {
@@ -2377,6 +2495,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bootstrap’in <b>Grid Sistemi</b>, içeriği hizalamak ve düzenlemek için kullanılan temel yapıdır. Bu sistem, her zaman <b>12 sütunlu bir yapı</b> üzerine kuruludur ve bu 12 sütun içinde satırlar (rows) ve sütunlar (cols) tanımlanır. 'Bootstrap Grid sistemi varsayılan olarak 16 sütundan oluşur' gibi bir ifade kesinlikle yanlıştır, çünkü standart sütun sayısı 12’dir.",
         "Donem": 5
     },
     {
@@ -2397,6 +2516,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bir form elementinin cihaz boyutuna duyarlı (responsive) ve standart Bootstrap görünümüne sahip olabilmesi için kullanılan temel sınıf tanımı <b>form-control</b>'dür. Bu sınıf, input, select ve textarea gibi elementlerin genişliğini %100 yapar ve estetik görünümünü ayarlar, böylece element tüm ekran boyutlarında düzgün görünür.",
         "Donem": 5
     },
     {
@@ -2417,6 +2537,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bir form elementini kullanıcı etkileşimine kapatmak, yani elementin tıklanamaz veya düzenlenemez olmasını sağlamak için HTML'de <b>disabled</b> özelliği kullanılır. Bu özellik, hem görsel olarak elementin pasif görünmesini sağlar hem de elementin form gönderimine dahil edilmesini engeller.",
         "Donem": 5
     },
     {
@@ -2437,6 +2558,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bootstrap form kontrollerinin standart boyutundan daha büyük görünmesini sağlamak için boyut sınıfları kullanılır. <b>form-control-lg</b> sınıfı (large - büyük) ile elementin yüksekliği ve yazı boyutu artırılarak daha büyük bir görsel sunum elde edilir. Küçük boyut için ise <b>form-control-sm</b> kullanılır.",
         "Donem": 5
     },
     {
@@ -2457,6 +2579,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Satır (row) ve sütun (col) yapısını kullanarak elementlerin yan yana ve alt alta hizalandığı form şekli, Bootstrap'in <b>Izgara (Grid)</b> yapısını kullanan formlardır. Özellikle etiket (label) ve kontrol elementlerinin aynı satırda konumlandırıldığı form yapısına <b>Yatay Form (Horizontal Form)</b> denir ve bu yapı tamamen sütun sınıfları (`col-md-*` gibi) kullanılarak oluşturulur.",
         "Donem": 5
     },
     {
@@ -2477,6 +2600,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Kullanıcının var olan seçenekler arasından <b>yalnızca bir tanesini</b> zorunlu olarak seçmesi istendiği durumlarda <b>Radyo Butonları (Radio Buttons)</b> kullanılır. Radyo butonları aynı `name` özelliğine sahip olduklarında birbirini dışlar (mutually exclusive) ve kullanıcının yalnızca tek bir seçim yapmasına olanak tanır.",
         "Donem": 5
     },
     {
@@ -2497,6 +2621,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Button, file, text veya check gibi bir temel HTML elementinin sağına ya da soluna metin, düğme veya ikon gibi başka bir elementin eklenmesiyle oluşturulan bileşene <b>Giriş Grubu (Input Group)</b> adı verilir. Bu bileşen, giriş alanlarına ek bilgi veya işlevsellik katmak için kullanılır.",
         "Donem": 5
     },
     {
@@ -2517,6 +2642,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Bootstrap ile form doğrulama (Validation) stillerini tetiklemek için, genellikle <form> etiketine <b>was-validated</b> sınıfı eklenir. Bu sınıf eklendiğinde, form içindeki tüm doğrulanabilir elemanlar (örneğin `required` özelliğine sahip olanlar) için geçerli (`is-valid`) veya geçersiz (`is-invalid`) durum stilleri görüntülenmeye başlar.",
         "Donem": 5
     },
     {
@@ -2537,6 +2663,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bootstrap'in <b>Alert</b> (Uyarı) bileşeni, farklı durumları (başarı, hata, bilgi) belirtmek için bağlamsal sınıflar kullanır. Başarılı bir işlem sonucunu görüntülemek için kullanılan en uygun sınıf <b>alert-success</b>'tır. Bu sınıf, uyarı kutusunun arka planını yeşil tonlarda, yazı rengini ise koyu yeşil tonlarında yaparak başarıyı görselleştirir.",
         "Donem": 5
     },
     {
@@ -2557,6 +2684,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "İçerikleri düzenli bir şekilde gruplandırarak yatay ya da dikey olarak sekmeler halinde göstermek için kullanılan Bootstrap bileşeni <b>Sekmeler (Tabs)</b> veya <b>Pills</b>'tir. Bu bileşen, sayfada fazla yer kaplamadan, ilgili içerikleri kolayca erişilebilir kılmak için idealdir.",
         "Donem": 5
     },
     {
@@ -2577,6 +2705,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Bir web sayfası üzerinde o anda bulunulan sayfanın, sitenin genel yapısı içindeki konumunu hiyerarşik bir biçimde (genellikle anasayfadan başlayarak) göstermek için kullanılan navigasyon bileşenine <b>Ekmek Kırıntısı (Breadcrumb)</b> denir. Bu, kullanıcıların sitede nerede olduklarını anlamalarını kolaylaştırır.",
         "Donem": 5
     },
     {
@@ -2597,6 +2726,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Bootstrap, UI (Kullanıcı Arayüzü) bileşenleri sunan bir CSS/JS kütüphanesidir. Bileşenler genellikle görsel veya etkileşimli öğelerdir (Modal, Carousel, Nav, Alert, Card vb.). Seçeneklerde yer alan, örneğin <b>AJAX</b> gibi bir teknoloji veya <b>HTML Headings</b> gibi temel bir etiket, Bootstrap'in kendine özgü bir bileşeni olarak kabul edilmez. Bootstrap, bu tür temel elementleri sadece stilize eder, ancak onları bir bileşen olarak tanımlamaz.",
         "Donem": 5
     },
     {
@@ -2617,6 +2747,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bir form elementinin sunucuya hiçbir şekilde veri göndermemesi için kullanılan temel özellik <b>disabled</b>'dır. Bu özellik, elementin etkileşimini engellemenin yanı sıra, o elementin adını ve değerini form gönderimine dahil etmeme işlevini de yerine getirir. Başka bir yöntem ise elementin <b>name</b> özelliğinin kaldırılmasıdır, ancak form kontrolünü devre dışı bırakmak için `disabled` tercih edilir.",
         "Donem": 5
     },
     {
@@ -2637,6 +2768,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "HTML5 ve Bootstrap ile kullanılan Form Doğrulama (Validation) işlemi için form elementine eklenmesi gereken en yaygın özelliklerden biri <b>required</b> özelliğidir. Bu özellik, kullanıcının o alanı boş bırakmadan doldurmasını zorunlu kılar. Doğrulama mesajlarının düzgün görüntülenmesi için Bootstrap sınıflarıyla birlikte kullanılır.",
         "Donem": 5
     },
     {
@@ -2657,6 +2789,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Form yapısına hem estetik (modern, düzgün) bir görünüm hem de her türlü cihaz ve ekran boyutuna duyarlı (responsive) olma özelliği kazandıran en popüler ve yaygın kullanılan web uygulama çatısı (framework) <b>Bootstrap</b>'tir. Bootstrap, hazır CSS sınıfları ve JavaScript bileşenleri sağlayarak hızlı form geliştirme imkanı sunar.",
         "Donem": 5
     },
     {
@@ -2677,6 +2810,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Mobil uyumlu web sitesi (Mobile-Friendly Website), web sitesinin masaüstü, tablet ve akıllı telefonlar gibi farklı cihazlarda <b>ideal bir kullanıcı deneyimi</b> sağlamak üzere tasarlanmış olmasıdır. Bu uyumluluk genellikle <b>Duyarlı (Responsive)</b> veya <b>Uyarlanabilir (Adaptive)</b> tasarım yaklaşımlarıyla sağlanır.",
         "Donem": 5
     },
     {
@@ -2697,6 +2831,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Tek bir site ve içerik ile ekran boyutuna göre ideal görüntüleme deneyimini sağlayan tasarımlara <b>Duyarlı Web Tasarımı (Responsive Web Design - RWD)</b> adı verilir. RWD, <b>esnek ızgaralar</b> (fluid grids), esnek resimler ve <b>CSS Medya Sorguları (@media queries)</b> kullanarak içeriğin her türlü cihaz ekranına dinamik olarak uyum sağlamasını garantiler.",
         "Donem": 5
     },
     {
@@ -2717,6 +2852,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Bu durum, özellikle <b>Uyarlanabilir Tasarım (Adaptive Design)</b> yaklaşımında ortaya çıkabilir. Uyarlanabilir tasarım, akışkan yapılar yerine önceden belirlenmiş <b>sabit kırılma noktaları</b> (fixed breakpoints) kullanır. Eğer bir ekran boyutu bu tanımlanmış noktalar arasında kalırsa, site tutarsız veya optimize edilmemiş bir arayüz gösterebilir, çünkü ekran boyutu için özel bir düzen yoktur.",
         "Donem": 5
     },
     {
@@ -2737,6 +2873,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Duyarlı web sitesi, <b>tek bir URL ve tek bir kod tabanı</b> kullandığı için, site bakımı ve güncellemeler kolaylaşır. Bu durum, site yöneticilerinin farklı cihazlar için ayrı kodlama yapmak zorunda kalmasını ortadan kaldırarak <b>bakım maliyetlerini düşürür</b> ve verimliliği artırır.",
         "Donem": 5
     },
     {
@@ -2757,6 +2894,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Duyarlı web sitesi kullanmanın en önemli avantajlarından biri <b>SEO (Arama Motoru Optimizasyonu)</b> performansının iyileşmesidir. Google, aynı içerik için farklı URL’ler yerine (m.site.com gibi) tek bir URL’yi tercih eder. RWD, cihazdan bağımsız olarak <b>tek bir URL</b> kullandığı için arama motoru taraması ve indekslemesi daha verimli hale gelir.",
         "Donem": 5
     },
     {
@@ -2777,6 +2915,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Farklı boyutlardaki cihazlarda özel tasarımlar yapabilmeyi sağlayan ve sürekli boyut değişimine uyum sağlayan esnek yapılı tasarım <b>Duyarlı Web Tasarımı (Responsive Web Design)</b>'dır. Bu tasarım, yüzdelik değerlere dayalı <b>akışkan ızgaralar</b> ve medya sorguları kullanarak ekranın her noktasına dinamik olarak uyum sağlar.",
         "Donem": 5
     },
     {
@@ -2797,6 +2936,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Uyarlanabilir (Adaptive) tasarımın temel özelliklerinden biri, tasarlanan sitenin <b>önceden belirlenmiş sabit kırılma noktalarına</b> (breakpoints) sahip olmasıdır. Site, kullanıcının cihazını algılar ve o cihaza en uygun olan sabit düzeni yükler. Örneğin, 6 farklı sabit düzen belirlenmiş olabilir.",
         "Donem": 5
     },
     {
@@ -2817,6 +2957,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Duyarlı ve uyarlanabilir tasarım arasındaki temel farklar; Duyarlı tasarımın <b>akışkan</b> (fluid) ve Uyarlanabilir tasarımın <b>statik/sabit</b> kırılma noktalarına dayalı olmasıdır. Her ikisinin de ortak amacı <b>mobil uyumluluk</b> sağlamaktır. Bu nedenle, 'mobil uyumluluk sağlamak', bu iki yaklaşımın farklarından biri değil, ortak hedeflerinden biridir.",
         "Donem": 5
     },
     {
@@ -2837,6 +2978,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Mobil uyumlu (responsive) web site kütüphaneleri, web geliştiricilerin sıfırdan CSS yazmak yerine hazır bileşenleri ve grid sistemlerini kullanmasına olanak tanır. Bu kütüphanelerin en popüler örneği <b>Bootstrap</b>'tır. Bootstrap, hızlı ve kolay mobil uyumlu arayüzler geliştirmek için kapsamlı bir CSS, JavaScript ve HTML şablonları koleksiyonu sunar.",
         "Donem": 5
     },
     {
@@ -2857,6 +2999,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Uyarlanabilir tasarım (Adaptive Design), kullanıcının cihaz tipini veya ekran genişliğini tespit ettikten sonra, o cihaza özel olarak tasarlanmış <b>statik bir düzeni</b> (layout) yükler. Bu, Duyarlı Tasarımın aksine sürekli akışkanlık yerine, <b>belirli boyutlar için önceden tasarlanmış düzenler</b> sunar.",
         "Donem": 5
     },
     {
@@ -2877,6 +3020,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Ekran genişliğine göre stil değiştirmek için <b>CSS Medya Sorguları (@media)</b> kullanılır. Ekran genişliğinin 250px altında olması (maksimum genişlik 250px olması) şartını belirleyen kod yapısı şöyledir: <code>@media screen and (<b>max-width: 250px</b>) { body { background-color: yellow; } }</code><br/>Bu kod, ekran genişliği 250 piksel ve altındayken sayfanın arka plan rengini sarı yapar.",
         "Donem": 5
     },
     {
@@ -2897,6 +3041,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Hazır CSS kütüphaneleri (Frameworks), genellikle mobil uyumlu bileşenler (gridler, butonlar, navigasyon çubukları) sağlayan paketlerdir. Örnekler arasında <b>Bootstrap, Foundation, Materialize, Semantic UI</b> yer alır. Eğer seçenekler arasında bir programlama dili (örneğin Python), bir veritabanı teknolojisi veya sadece bir HTML etiketi varsa, bu bir CSS kütüphanesi değildir.",
         "Donem": 5
     },
     {
@@ -2917,6 +3062,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Web sitelerinin mobil uyumlu olup olmadığını test etmek için kullanılan en yaygın ve hızlı yöntem, tarayıcıların sunduğu <b>Geliştirici Araçları (Developer Tools)</b>'nı kullanmaktır. Bu araçlarda bulunan 'Toggle Device Toolbar' özelliği sayesinde siteyi farklı cihaz çözünürlüklerinde ve dikey/yatay modlarda simüle etmek mümkündür.",
         "Donem": 5
     },
     {
@@ -2937,6 +3083,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Mobil uyumluluk testi için kullanılan araçlar arasında <b>Google Mobile-Friendly Test</b> ve farklı SEO araçlarının sunduğu uyumluluk denetleyicileri bulunur. Soruda, mobil uyumluluk testi için kullanılmayan bir site adı sorulmaktadır. Genellikle bu tip sorularda, alakasız bir web hizmeti (örneğin, bir sunucu yönetim paneli veya tamamen farklı bir amaca hizmet eden bir SEO aracı) doğru cevap olarak işaretlenir.",
         "Donem": 5
     },
     {
@@ -2957,6 +3104,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "@media etiketinde kullanılan temel medya tipleri (media types) şunlardır: <b>all</b> (tüm cihazlar), <b>screen</b> (ekran tabanlı cihazlar), <b>print</b> (yazıcılar) ve <b>speech</b> (sesli okuma cihazları). 'desktop' veya 'tablet' gibi ifadeler medya tipleri arasında değil, genellikle boyut aralıklarını belirleyen özellikler (features) arasında yer alır.",
         "Donem": 5
     },
     {
@@ -2977,6 +3125,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Verilen kütüphanelerin hepsi (I. Semantic – UI, II. Foundation, III. Materialize, IV. UI Kit) popüler ve yaygın olarak kullanılan <b>CSS Framework kütüphaneleridir</b>. Bu kütüphaneler, mobil uyumlu (responsive) web sitelerinin tasarımını ve geliştirilmesini hızlandırmak için önceden yazılmış stil ve bileşen setleri sağlarlar.",
         "Donem": 5
     },
     {
@@ -2997,6 +3146,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Çapraz tarayıcı uyumluluğu sorunlarının yaygın nedenleri genellikle yanlış veya eksik <b>DOCTYPE</b> kullanımı, CSS/HTML standartlarına uyulmaması, <b>tarayıcı ön eklerinin</b> (vendor prefixes) yanlış kullanımı veya eski/geçersiz teknolojilerin kullanılmasıdır.<br/>Ancak, <b>CSS Sıfırlama (CSS Reset)</b> kullanmak, tarayıcılar arası varsayılan stil farklılıklarını gidermeye yarayan bir <b>çözüm ve iyi bir uygulamadır</b>, sorun nedeni değildir.",
         "Donem": 5
     },
     {
@@ -3017,6 +3167,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Çapraz tarayıcı uyumluluğu testlerinin bir parçası olan <b>davranış uyumluluğu</b>, web sitesinin <b>işlevselliği</b> ile ilgilidir. Bu, formların, JavaScript etkileşimlerinin ve genel kullanıcı akışının (tıklamalar, kaydırmalar) tüm tarayıcılarda <b>beklendiği gibi ve aynı şekilde</b> çalışıp çalışmadığını kontrol eder.",
         "Donem": 5
     },
     {
@@ -3037,6 +3188,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>Kod uyumluluğu</b>, web sitesini oluşturan HTML, CSS ve JavaScript kodlarının farklı tarayıcıların yorumlayıcı motorları tarafından <b>geçerli ve standartlara uygun</b> bir şekilde işlenip işlenmediğini ifade eder. Bu, genellikle W3C standartlarına uygunluğu ve gerekli <b>tarayıcı ön eklerinin</b> doğru kullanımını kontrol etmeyi içerir.",
         "Donem": 5
     },
     {
@@ -3057,6 +3209,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Çapraz tarayıcı uyumluluğu, web sayfasının istemci tarafında (tarayıcıda) nasıl göründüğü ve çalıştığı ile ilgilidir (HTML, CSS, JavaScript). <b>Sunucu tarafı oturum yönetimi</b> veya veritabanı optimizasyonu gibi arka uç (back-end) konuları, doğrudan çapraz tarayıcı uyumluluğu ile alakalı <b>değildir</b>.",
         "Donem": 5
     },
     {
@@ -3077,6 +3230,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Günümüzde dünyada en çok kullanılan tarayıcılar arasında Google <b>Chrome</b>, Mozilla <b>Firefox</b>, Microsoft <b>Edge</b> ve Apple <b>Safari</b> yer alır. <b>Netscape Navigator</b>, 2000'li yılların başında popülerliğini kaybetmiş eski bir tarayıcıdır ve artık yaygın kullanılanlar listesinde <b>yer almaz</b>.",
         "Donem": 5
     },
     {
@@ -3097,6 +3251,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "<b>W3C (World Wide Web Consortium)</b>'nun temel amacı, web'in uzun vadeli gelişimini sağlamak için <b>ortak web standartlarını</b> (HTML, CSS vb.) belirlemek ve geliştirmektir. Bu standartlar, içeriklerin tüm tarayıcı ve cihazlarda tutarlı bir şekilde çalışmasını ve erişilebilir olmasını hedefler.",
         "Donem": 5
     },
     {
@@ -3117,6 +3272,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Çapraz tarayıcı uyumluluğundaki en önemli etkenlerden biri, farklı tarayıcıların <b>farklı yorumlama motorlarını</b> (rendering engines) kullanmasıdır (Örn: Chromium tabanlı tarayıcılarda Blink, Firefox’ta Gecko). Bu motorlar, aynı kodun farklı şekillerde yorumlanmasına yol açarak uyumluluk sorunlarına neden olabilir.",
         "Donem": 5
     },
     {
@@ -3137,6 +3293,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Verilen cümledeki tanım, tam olarak <b>Çapraz Tarayıcı Uyumluluğu</b>nu (Cross-Browser Compatibility) açıklamaktadır. Bu kavram, bir web sitesinin veya uygulamasının, kullanılan işletim sisteminden veya tarayıcıdan bağımsız olarak <b>beklendiği gibi çalışmasını</b> garanti eder.",
         "Donem": 5
     },
     {
@@ -3157,6 +3314,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Çapraz tarayıcı uyumluluğu genellikle üç ana parçada incelenir: <b>Görsel Uyumluluk</b> (Visual), <b>Davranış Uyumluluğu</b> (Behavioral/Functionality) ve <b>Kod Uyumluluğu</b> (Code Validity). <b>Performans Optimizasyonu</b> ise bir web sayfasının yüklenme hızı ve kaynak kullanımıyla ilgilidir, uyumluluğun doğrudan bir parçası <b>değildir</b>.",
         "Donem": 5
     },
     {
@@ -3177,6 +3335,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "I, II ve III (DOCTYPE, CSS Sıfırlama, doğru HTML kullanımı) çapraz tarayıcı uyumluluğunu <b>sağlamak için kullanılan iyi uygulamalardır</b> (çözümlerdir). Yaygın bir sorun nedeni ise <b>Eski teknolojiler kullanmaktır</b> (IV). Eski teknolojiler (örneğin, güncel olmayan HTML veya CSS standartları) modern tarayıcılar tarafından farklı yorumlanabilir veya hiç desteklenmeyebilir, bu da uyumluluk sorunlarına yol açar. Bu nedenle IV bir sorunun yaygın nedenidir.",
         "Donem": 5
     },
     {
@@ -3197,6 +3356,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "CSS’deki <b>tarayıcı ön ekleri</b> (vendor prefixes), tarayıcıların deneysel veya henüz standartlaşmamış CSS özelliklerini desteklemesi için kullanılır. <b>-moz-</b> ön eki, Mozilla tarafından geliştirilen ve özellikle <b>Firefox</b> tarayıcısında kullanılan özellikleri işaret eder.",
         "Donem": 5
     },
     {
@@ -3217,6 +3377,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "W3C standartlarına tam uyum sağlamak için, özellikle XHTML veya katı HTML5 uyumluluğu istenen durumlarda, kendi kendine kapanan etiketlerin (self-closing tags) doğru formatta kullanılması önemlidir. Doğru kullanım şekli <b><br /></b> (boşluk ve eğik çizgi) şeklindedir, bu format hem eski hem de modern tarayıcı standartları için önerilir.",
         "Donem": 5
     },
     {
@@ -3237,6 +3398,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Çapraz tarayıcı uyumluluğu testlerinde kullanılan araçlar, geliştiricilerin kodlarını birden fazla tarayıcıda, cihazda ve işletim sisteminde eş zamanlı olarak test etmelerini sağlar. <b>BrowserStack</b> bu amaçla kullanılan, popüler, bulut tabanlı test platformlarından biridir.",
         "Donem": 5
     },
     {
@@ -3257,6 +3419,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Çapraz tarayıcı uyumluluğunun bir parçası olan <b>Kod Uyumluluğu</b> testi, geliştirilen HTML, CSS ve JavaScript kodlarının ilgili <b>web standartlarına (W3C) uygunluğunu</b> ve bu kodların farklı tarayıcılar tarafından hatasız bir şekilde işlenip işlenemeyeceğini kontrol eder.",
         "Donem": 5
     },
     {
@@ -3277,6 +3440,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Kod uyumluluğu testi, web sayfasının temel yapısını oluşturan HTML, CSS ve JavaScript’in <b>W3C standartlarına</b> (World Wide Web Consortium) ne kadar uyumlu olduğunu belirler. Standartlara uygunluk, tarayıcılar arası yorumlama farklılıklarını minimize etmenin anahtarıdır.",
         "Donem": 5
     },
     {
@@ -3297,6 +3461,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "<b>DOCTYPE</b> (Document Type Declaration), bir HTML veya XHTML dokümanının başında yer alan ve tarayıcıya, sayfanın hangi HTML sürümüne ve standartlarına göre yorumlanması gerektiğini bildiren zorunlu bir etikettir. Doğru DOCTYPE kullanımı, tarayıcıların <b>Quirks Modu</b> yerine Standartlar Modu'nda çalışmasını sağlayarak çapraz tarayıcı uyumluluğuna katkıda bulunur.",
         "Donem": 5
     },
     {
@@ -3317,6 +3482,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>Mock-up</b>, bir tasarımın yüksek çözünürlüklü görsel sunumudur; renk, tipografi ve stil gibi görsel detayları içerir. Yaygın Mock-up hazırlama ortamları arasında <b>Figma</b>, <b>Adobe XD</b>, <b>Sketch</b> ve <b>InVision Studio</b> gibi güçlü grafik ve prototipleme araçları bulunur. Bir aracın Mock-up ortamı olup olmadığını belirlemek için, görsel öğeleri (renk, yazı tipi, resim) tam doğrulukla gösterebilme yeteneğine bakılır.",
         "Donem": 5
     },
     {
@@ -3337,6 +3503,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Az yoğunlukta, genellikle tek sayfadan veya ekrandan oluşan çalışmalarda kullanılan ve insan gözünün <b>Z</b> harfi çizerek hareket ettiği yolu açıklayan tasarım modeli <b>Z-Deseni (Z-Pattern)</b>'dir. Bu model, kullanıcıların sol üstten başlayıp sağa, ardından çapraz olarak aşağı sol ve tekrar sağa doğru tarama yaptığını varsayar ve genellikle açılış sayfaları (landing pages) gibi basit tasarımlarda kullanılır.",
         "Donem": 5
     },
     {
@@ -3357,6 +3524,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "<b>Wireframe</b> (Tel Kafes), bir web sitesinin veya uygulamanın temel iskeletini ve bilgi hiyerarşisini gösteren düşük çözünürlüklü bir taslaktır. Wireframe hazırlama ortamları, görsel stil yerine yapıya ve düzenlemeye odaklanır. Popüler Wireframe araçları arasında <b>Balsamiq</b>, <b>Axure</b> ve <b>Wireframe.cc</b> sayılabilir. Yüksek çözünürlüklü görsel düzenlemeye odaklanan bir araç (örneğin Photoshop veya InDesign gibi bir yayıncılık yazılımı) tipik bir Wireframe ortamı değildir.",
         "Donem": 5
     },
     {
@@ -3377,6 +3545,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Wireframe kullanmanın temel faydaları arasında <b>içerik hiyerarşisini netleştirmek</b>, tasarım hatalarını erken aşamada tespit etmek ve paydaşlarla temel düzen konusunda hızlı anlaşma sağlamak yer alır. Wireframe'ler düşük çözünürlüklü olduğundan, <b>nihai görsel çekicilik veya renk paletlerinin test edilmesi</b> Wireframe kullanmanın bir faydası veya amacı <u>değildir</u>; bu, Mock-up aşamasına aittir.",
         "Donem": 5
     },
     {
@@ -3397,6 +3566,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Bir web sitesindeki içeriğin ve bileşenlerin önem sırasını, düzenini ve akışını belirleyerek <b>hiyerarşiyi düzenlemeyi</b> en temel amaç edinen tasarım aşaması <b>Wireframe</b> (Tel Kafes) çalışmasıdır. Wireframe, sitenin iskelet yapısını tanımlayarak bilgi mimarisini kurar.",
         "Donem": 5
     },
     {
@@ -3417,6 +3587,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Web tabanlı tasarım ortamları, genellikle tarayıcı üzerinden erişilebilen ve ekip çalışmasına olanak tanıyan araçlardır. Bu araçların en popüler örneklerinden biri, hem Wireframe hem Mock-up hem de Prototipleme imkanları sunan <b>Figma</b>'dır. Figma, bulut tabanlı yapısı sayesinde platform bağımsız çalışır.",
         "Donem": 5
     },
     {
@@ -3437,6 +3608,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "<b>F-Deseni (F-Pattern)</b> tasarım modeli, kullanıcıların özellikle <b>yoğun metin içeren</b> sayfalarda içeriği tam okumak yerine gözleriyle taradıklarını gösterir. Göz hareketleri, iki yatay çizgi ve sol tarafta dikey bir hat (bir F harfi şeklinde) çizer. Bu model, önemli içeriğin sol üst köşelere ve ilk iki paragrafın başlangıcına yerleştirilmesi gerektiğini önerir.",
         "Donem": 5
     },
     {
@@ -3457,6 +3629,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Daha basit olan ve az sayıdaki içeriğin, genellikle tek bir amaç doğrultusunda gösterilmesinin amaçlandığı tasarımlar (örneğin açılış sayfaları) için en uygun tasarım modeli <b>Z-Deseni</b>'dir. Z-Deseni, kısıtlı içeriğe sahip arayüzlerde net ve hızlı bir akış sağlar.",
         "Donem": 5
     },
     {
@@ -3477,6 +3650,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "<b>Tipografi</b>, yazılı metinlerin görsel düzenlemesi ve sunumuyla ilgilenir. Bu; yazı tipi seçimi, boyutu, <b>satır aralığı (leading)</b>, <b>harf aralığı (kerning)</b> ve metin hiyerarşisi gibi konuları kapsar. Tipografi, doğrudan <b>sunucu tarafı performans yönetimi</b> veya veri tabanı tasarımı gibi arka uç (backend) işlevleri ile ilgilenmez.",
         "Donem": 5
     },
     {
@@ -3497,6 +3671,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 1,
+        "Aciklama": "Facebook (Meta) tarafından özellikle gelişmiş ve yüksek kaliteli etkileşimli prototip ve Mock-up hazırlamak amacıyla geliştirilen araç <b>Origami Studio</b>'dur. Bu araç, genellikle tasarımcıların iOS ve Android uygulamaları için gerçekçi arayüzler ve akışlar oluşturmasına yardımcı olur.",
         "Donem": 5
     },
     {
@@ -3517,6 +3692,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 4,
+        "Aciklama": "Prototip hazırlamanın en önemli avantajlarından biri, tasarımın geliştirilmesinden önce <b>kullanıcılarla test etme</b> imkanı sunmasıdır. Bu, kritik kullanılabilirlik sorunlarının ve tasarım kusurlarının <b>erken aşamada tespit edilmesini</b> ve böylece potansiyel geliştirme maliyetlerinin ciddi ölçüde azaltılmasını sağlar.",
         "Donem": 5
     },
     {
@@ -3537,6 +3713,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bir web sitesinin tasarım süreci genellikle yapısal planlamadan görsel detaya ve nihayetinde etkileşimli denemeye doğru ilerler. Doğru sıralama: Öncelikle iskelet yapısı ve hiyerarşisi belirlenir (<b>Wireframe</b>). Ardından görsel stil ve detaylar eklenir (<b>Mock-up</b>). Son olarak, kullanıcı akışı ve etkileşim testleri için işlevsel model oluşturulur (<b>Prototip</b>).",
         "Donem": 5
     },
     {
@@ -3557,6 +3734,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Prototip çalışmalarının temel amacı, tasarlanmış arayüzün <b>kullanılabilirlik (usability)</b> ve <b>kullanıcı deneyimi (UX)</b> açısından işleyişini, kullanıcı akışlarını ve etkileşimlerini test etmektir. Bu, tasarımın kullanıcı beklentilerini karşılayıp karşılamadığını görmeyi sağlar.",
         "Donem": 5
     },
     {
@@ -3577,6 +3755,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Renk psikolojisine göre <b>Yeşil</b> renk, genellikle <b>doğa</b>, <b>büyüme</b>, sağlık, huzur ve özellikle <b>sürdürülebilirlik</b> kavramlarıyla ilişkilendirilir. Bu nedenle çevre dostu veya organik ürünleri temsil eden markalar tarafından sıklıkla kullanılır.",
         "Donem": 5
     },
     {
@@ -3597,6 +3776,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 3,
+        "Aciklama": "Prototip çalışmaları, tasarımın test edilmesi ve onaylanması aşamasıdır. Prototipin amacı, <b>nihai ürünün pazarlamasını planlamak</b> veya <b>pazarlama stratejilerini belirlemek</b> değildir. Bu tür aktiviteler, ürün geliştirme sürecinin daha sonraki bir aşaması veya ayrı bir disiplin olan pazarlama departmanının sorumluluğundadır.",
         "Donem": 5
     },
     {
@@ -3617,6 +3797,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 2,
+        "Aciklama": "Bazı gelişmiş tasarım ve prototipleme araçları, tasarımları doğrudan <b>HTML, CSS ve JavaScript</b> gibi web teknolojilerine dönüştürerek çalışan bir site çıktısı verebilir. <b>Webflow</b>, tasarımcıların görsel arayüzde çalışırken, çıktı olarak temiz ve üretim kalitesinde kod almasını sağlayan popüler bir web tabanlı platformdur.",
         "Donem": 5
     },
     {
@@ -3637,6 +3818,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "Prototip hazırlamak, maliyetleri düşürme, erken geri bildirim alma ve kullanılabilirliği test etme avantajlarına sahiptir. Ancak prototipler, sadece görsel ve etkileşimsel bir model olduğundan, <b>site trafiği yönetimi veya sunucu performansı</b> gibi teknik arka uç (backend) konularıyla ilgili avantajlar sunmaz.",
         "Donem": 5
     },
     {
@@ -3657,6 +3839,7 @@
         "DersId": 354,
         "OBSDersId": 39642,
         "CevapSira": 5,
+        "Aciklama": "UX tasarımcılarının, bir web sitesi, uygulama veya ürün için <b>bilgi hiyerarşisini</b> tanımlamalarına ve planlamalarına olanak tanıyan uygulamalara <b>Wireframe</b> (Tel Kafes) uygulamaları denir. Bu uygulamalar, içeriğin ve işlevselliğin yapısal düzenine odaklanarak tasarımın temel iskeletini oluşturur.",
         "Donem": 5
     }
 ]

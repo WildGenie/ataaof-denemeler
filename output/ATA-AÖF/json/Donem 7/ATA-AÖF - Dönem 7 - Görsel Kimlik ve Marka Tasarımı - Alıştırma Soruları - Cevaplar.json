@@ -1,0 +1,774 @@
+[
+    {
+        "SoruID": 387551,
+        "Aciklama": "Bir reklamın amacına ulaşabilmesi için, reklamı yapanların, ürünün özelliklerinin yanı sıra hedef kitlenin de tüm özelliklerine hâkim olması gerekir. Zamanlama, reklam türü ve bütçe gibi diğer unsurlar da planlı olmalıdır, ancak hedef kitleyi tanımak en temel gerekliliktir."
+    },
+    {
+        "SoruID": 387552,
+        "Aciklama": "Ders materyaline göre reklam tarihinin başlangıcı, M.Ö. 3000'li yıllara dayanmaktadır. İlk örnekler olarak Mısır'da çığırtkanların esir satarken bağırmaları ve papirüs üzerine yazılmış ilanlar gösterilmektedir."
+    },
+    {
+        "SoruID": 387553,
+        "Aciklama": "İlk reklam ajansı düşüncesi 1588 yılında yazar Montague tarafından ortaya atılmıştır. Montague'nin fikri, \"bir kişinin incileri varsa ve bunu satmak istiyorsa müracaat etmesi gereken bir büroya ihtiyacı vardır\" şeklindeydi ve bu düşünce 1812'de Londra'da ilk ajansın kurulmasına öncülük etti."
+    },
+    {
+        "SoruID": 387554,
+        "Aciklama": "Reklamların tüketici üzerindeki etki alanları beş temel işleve bağlıdır: bilgilendirme, ikna etme, hatırlatma, destekleme ve değer katma. 'Küresel işlev' bu temel işlevler arasında sayılmamaktadır."
+    },
+    {
+        "SoruID": 387555,
+        "Aciklama": "Bu yöntem, ürünle ilgili bilgilerin eksik veya örtük bir şekilde verildiği 'Gerçeğin Bir Kısmını Örtme' ikna türüne bir örnektir. 100 TL'lik bir ürünün 99,99 TL olarak gösterilmesi, daha uygun bir fiyat imajı yaratarak tüketiciyi etkilemeyi amaçlar."
+    },
+    {
+        "SoruID": 387556,
+        "Aciklama": "Reklam türleri amaçlarına göre 'birincil talep oluşturan' ve 'seçici talep oluşturan' reklamlar olarak ikiye ayrılır. Dolayısıyla 'ikincil talep oluşturan reklamlar' şeklinde bir sınıflandırma bulunmamaktadır. Diğer seçenekler, reklamı yapanlar (üretici), hedef pazar (endüstriyel), coğrafi ölçüt (ulusal) ve taşıdığı mesaj (kurumsal) gibi farklı reklam türü sınıflandırmalarında yer alır."
+    },
+    {
+        "SoruID": 387557,
+        "Aciklama": "'Karşılaştırmalı reklamlar', 'talep etki düzeylerine göre' reklamlar kategorisinde yer alır. 'İşlevlerine göre' reklamlar kategorisi ise; duyuru, talep oluşturma, bilgilendirici, eğlendirici ve indirim reklamları gibi türleri içerir."
+    },
+    {
+        "SoruID": 387558,
+        "Aciklama": "Reklam ortamları, mesajların hedef kitleye ulaştırıldığı kanallardır. Bunlar arasında sinema, internet, taşıtlar ve satış yerleri gibi mecralar bulunur. Tüketici ise reklamın hedefidir, bir iletişim ortamı değildir."
+    },
+    {
+        "SoruID": 387559,
+        "Aciklama": "Açık hava reklam ortamları, hedef kitlenin trafikte ya da yaya olarak dolaşırken günlük yaşamda istemsizce maruz kaldığı reklam mecralarıdır. Bu kategoriye billboard, afiş, pankart ve duvar reklamları gibi araçlar girer."
+    },
+    {
+        "SoruID": 387560,
+        "Aciklama": "Gazete, en eski basılı reklam mecralarından biridir. Ancak kâğıt ve renkli baskı kalitesinin düşüklüğü nedeniyle, renklerin daha dikkat çektiği dergiler gibi diğer mecralara göre önemini yitirmeye başlamıştır."
+    },
+    {
+        "SoruID": 390106,
+        "Aciklama": "Reklam tarihinin ilk örnekleri M.Ö. 3000'li yıllara dayanır ve bu örneklerden biri, çığırtkanların esir satışlarında alıcıların dikkatini çekmek için bağırmalarıdır. Papirüs afişler ise ilk yazılı ilan örneklerindendir."
+    },
+    {
+        "SoruID": 390107,
+        "Aciklama": "Dijital medya internet teknolojilerini (çok sayıda kanal, etkileşimli, küresel) kapsarken, geleneksel medya gazete, dergi, radyo ve televizyon gibi (az sayıda kanal, tek yönlü, bölgesel) araçları kapsar. Bu seçenek, iki medya türünün kapsamını yanlış bir şekilde tersine çevirmiştir."
+    },
+    {
+        "SoruID": 390113,
+        "Aciklama": "Doğrudan postalama, tüketicinin demografik özelliklerine göre broşür, katalog, mektup gibi materyallerin posta ile gönderilmesidir. Bu reklam mecrasında hedefe doğru ulaşım için adres bilgilerinin güncel tutulması oldukça önemlidir."
+    },
+    {
+        "SoruID": 386365,
+        "Aciklama": "Reklam, gönüllülük esasıyla insanları belirli bir davranışa veya düşünceye yönlendirmeyi amaçlayan, kitle iletişim araçlarıyla tekrarlanarak yayımlanan ticari bir duyurudur. 'Zor kullanarak yönlendirme' reklamın tanımına ve ilkelerine aykırıdır."
+    },
+    {
+        "SoruID": 386366,
+        "Aciklama": "Her reklamın beş temel amacı vardır: dikkat çekmek, ilgi uyandırmak, istek yaratmak, motive etmek ve bilgi vermek. 'Meşhur olmak' bir sonuç olabilir ancak reklamın temel amaçlarından biri olarak sayılmaz."
+    },
+    {
+        "SoruID": 386367,
+        "Aciklama": "Görsel kimlik, bir kurumun veya yapının en iyi şekilde görsel unsurlarla kamuoyuna sunulmasıdır. Amacı, kurum kimliğini yansıtarak onu rakiplerinden ayırmak ve hedef kitlede olumlu bir algı oluşturmaktır."
+    },
+    {
+        "SoruID": 386370,
+        "Aciklama": "Görsel kimliğin ortaya konulmasında renk, doku, form ve tipografi gibi tasarım elemanları ön plana çıkar. Kâğıt boyutu ise bu elemanların uygulandığı bir materyalin özelliğidir, görsel kimliğin temel bir unsuru değildir."
+    },
+    {
+        "SoruID": 386373,
+        "Aciklama": "İyi bir görsel kimlik tasarlanırken akılda kalıcı sembol, amblem veya tipografiye yer verilmesi esastır. Ayrıca sade, estetik, sürekli ve güncellenebilir olması gibi özellikler de önemlidir. Karmaşık veya maliyetli olması bir gereklilik değildir."
+    },
+    {
+        "SoruID": 386375,
+        "Aciklama": "Oluşturulan görsel kimlikle sürekliliğin sağlanması, markanın zamanla günün şartlarına uyum sağlayabilmesi ve esnek olup farklı tasarım yüzeylerine (dijital, basılı vb.) uygulanabilir olması anlamına gelir. Bu, görsel kimliğin fonksiyonelliği ile ilgilidir."
+    },
+    {
+        "SoruID": 386376,
+        "Aciklama": "Tasarım paketi, bir kurumun görsel kimliğini oluşturan logo, kartvizit, ambalaj, maskot gibi unsurları içerir. Düğün davetiyesi, bu kurumsal bütünlüğün bir parçası değildir."
+    },
+    {
+        "SoruID": 386378,
+        "Aciklama": "Görsel kimlik tasarımında ölçü, format, biçim ve üslup gibi biçimsel unsurlar, markanın tutarlılığı için oldukça önemlidir ve uzun bir süre değiştirilmemesi hedeflenir. 'İç mekân' ise bu unsurların uygulandığı bir alandır, temel bir biçimsel unsur değildir."
+    },
+    {
+        "SoruID": 386382,
+        "Aciklama": "İyi bir görsel kimlik tasarımı; uygunluk, farklılık, sadelik, eskimezlik, fonksiyonellik ve güvenilirlik gibi özellikler taşımalıdır. 'Heyecanlı' olması, markanın karakterine bağlı bir sonuçtur ancak temel bir özellik olarak kabul edilmez."
+    },
+    {
+        "SoruID": 386383,
+        "Aciklama": "Görsel kimliğin 'görseller' öğesi; fotoğraflar, grafikler, illüstrasyonlar ve ikonlar gibi görsel materyalleri kapsar. Diğer seçeneklerde yer alan dergi, katalog ve billboard gibi unsurlar bu görsellerin kullanıldığı pazarlama malzemeleridir."
+    },
+    {
+        "SoruID": 389003,
+        "Aciklama": "Reklam; dikkat çekmek, ilgi uyandırmak, istek yaratmak ve motive etmek gibi amaçlar doğrultusunda geniş kitlelere ulaşmayı hedefler. Sınırlı bir çevrede kalmak, reklamın doğasına ve temel hedeflerine aykırıdır."
+    },
+    {
+        "SoruID": 389004,
+        "Aciklama": "İyi bir görsel kimlik tasarımının temel özelliklerinden biri, markayı sektördeki rakiplerinden ayıran 'farklılık' ilkesidir. Bu, tüketicinin zihninde markanın yer etmesini ve kolayca hatırlanmasını sağlar."
+    },
+    {
+        "SoruID": 389015,
+        "Aciklama": "Güvenilirlik ilkesi, kurum kimliğinin kurumun kültürünü ve fiziki unsurlarını yansıtmasıyla ilgilidir. Bu yansıma, müşterilerin marka güvenilirliği konusunda ikna olmasına ve markanın kalıcılığını artırmasına yardımcı olur."
+    },
+    {
+        "SoruID": 386431,
+        "Aciklama": "Görsel kimlik, insanın içinde yaşadığı dünyayı algılamada kullandığı beş temel duyudan biri olan 'görme' eylemiyle doğrudan ilgilidir. Görsel, gözün ve beynin birlikteliği ile zihinde oluşan imgelerin iki boyutlu bir düzlemdeki ifadesidir."
+    },
+    {
+        "SoruID": 386432,
+        "Aciklama": "Tasarım, bir ürün, hizmet ya da sistemin üretiminden önce fiziksel özelliklerinin ve işlevinin planlanmasıdır. Dolayısıyla hizmetin, ürünün ve sistemin 'işlevi' tasarımın temel amaçları arasındadır. Ancak sistemlerin soyut yapısı gereği 'fiziksel özellikleri' her zaman tasarımın bir amacı olmayabilir."
+    },
+    {
+        "SoruID": 386434,
+        "Aciklama": "Görsel kimlik seti; logo, kartvizit, ambalaj, poşet, fatura, sosyal medya profilleri, kullanılan dil, fotoğraflar ve ses tonu gibi markayı temsil eden sayısız ürünü içerir. 'Ürünün işlevi' ise tasarımın amacıdır, görsel kimlik setinin bir parçası değildir."
+    },
+    {
+        "SoruID": 386435,
+        "Aciklama": "Görsel kimlik tasarımının temel öğeleri; nokta, çizgi, şekil, figür-fon/boşluk, renk, ton, doku, ölçü ve oran-orantıdır. Ritim, tekrar ve denge ise tasarım ilkeleridir, temel öğeler değildir."
+    },
+    {
+        "SoruID": 386436,
+        "Aciklama": "Tipografinin çalışma alanı; harf ölçüsü, boşlukların düzenlenmesi, okunabilirlik ve görsellerle uyum gibi teknik ve estetik konuları içerir. 'Odaklama' ise bir tasarım ilkesidir ve genel kompozisyonla ilgilidir, doğrudan tipografinin bir çalışma alanı değildir."
+    },
+    {
+        "SoruID": 386437,
+        "Aciklama": "Yazı, yani tipografi, sözel mesaj iletme temel amacının yanı sıra, sahip olduğu görsel biçim ile de bir kimliğin yansıtılmasında diğer tüm görsel öğeler kadar önemli bir role sahiptir."
+    },
+    {
+        "SoruID": 386439,
+        "Aciklama": "'Ölçü', boyut ve büyüklüğü anlatan bir değer olarak uzunluk, alan ya da hacim belirtir. 'Oran' ise bir parçanın diğer bir parçayla arasındaki kat ilişkisidir."
+    },
+    {
+        "SoruID": 386441,
+        "Aciklama": "Bir yüzeydeki en küçük iz olan 'nokta', boyutsal olarak tanımsızdır; genişliği, yüksekliği, derinliği, rengi veya dokusu yoktur. Diğer tüm görsel elemanlar noktanın hareketinden veya birleşiminden türer."
+    },
+    {
+        "SoruID": 386442,
+        "Aciklama": "Noktalar büyüdükçe ve çizgiler kalınlaştıkça, yüksekliği ve genişliği olan iki boyutlu 'şekil'lere dönüşürler. Form üç boyutludur, çizgi tek boyutludur, doku ve renk ise şeklin yüzey özellikleridir."
+    },
+    {
+        "SoruID": 386443,
+        "Aciklama": "Rengin üç temel boyutu vardır: Renk çemberindeki yeri (hue), saflık derecesi (doygunluk/saturation) ve açık-koyu değeri (ton/value). 'Oran' ise bir parçanın diğerine göre büyüklük ilişkisidir ve rengin bir özelliği değildir."
+    },
+    {
+        "SoruID": 389021,
+        "Aciklama": "Görsel kimlik, adını insanın beş temel duyusundan biri olan 'görme' eyleminden alır. Gözün ve beynin birlikteliği ile zihinde oluşan görüntüler olan imgelerin iki boyutlu bir düzlemdeki halini ifade eder."
+    },
+    {
+        "SoruID": 389022,
+        "Aciklama": "Grafik tasarım, iki boyutlu bir düzlemde ürün, hizmet veya sistemleri görsel olarak tanıtmayı ve mesaj iletmeyi amaçlar. Bu süreçte kurumsal kimlik de tasarlanır. Ancak 'ekonomik maliyet' bir sonuçtur, grafik tasarımın temel bir amacı değildir."
+    },
+    {
+        "SoruID": 389023,
+        "Aciklama": "Görsel kimlik tasarımının temelini; biçiminin içeriğine ve hedef kitlesine uyumu, görsel algılama prensipleri ve temel tasarım ilkelerine göre düzenlenmesi oluşturur. Tasarım öğelerine uygunluk bir sonuçtur, temel bir ilke değildir."
+    },
+    {
+        "SoruID": 389028,
+        "Aciklama": "İki boyutlu bir tasarımda ölçü; yükseklik, genişlik, çap veya alan gibi bilgileri içerir. Hacim ise üç boyutlu nesnelerin bir özelliğidir ve iki boyutlu bir tasarımın ölçü birimi değildir."
+    },
+    {
+        "SoruID": 386445,
+        "Aciklama": "Tasarım ilkeleri; denge, oran-orantı, görsel hiyerarşi, devamlılık, bütünlük, yakınlık, figür-fon ilişkisi ve kapalılık gibi kompozisyonu düzenleme prensipleridir. Renk ise bir tasarım öğesidir, bir tasarım ilkesi değildir."
+    },
+    {
+        "SoruID": 386446,
+        "Aciklama": "Tasarım öğeleri (elemanları) bir kompozisyonu oluşturan temel görsel unsurlardır. Bunlar; çizgi, biçim, mekân, yön, hareket, ton, ölçü, renk ve doku gibi yapıtaşlarıdır. Diğer seçenekler ise bu öğelerin düzenlenmesine ilişkin tasarım ilkeleridir."
+    },
+    {
+        "SoruID": 386450,
+        "Aciklama": "Simetrik denge, bir tasarımda görsel elemanların, tasarım yüzeyinde dikey ya da yatay bir eksene göre eşit oranlarda yerleşmesidir. Bu tür tasarımlar genellikle ciddiyet, otorite ve saygınlık gibi duyguları yansıtır."
+    },
+    {
+        "SoruID": 386451,
+        "Aciklama": "Gözün alışkanlık gereği belirli bir yönde hareket etme eğiliminden yararlanılarak, görsel unsurların boyut, şiddet ve biçimlerindeki benzerlikler ve tekrarlarla 'devamlılık' ilkesi kullanılır. Bu ilke, gözü tasarımın içinde dolaştırarak mesajın istenen noktasına çekmeyi sağlar."
+    },
+    {
+        "SoruID": 386454,
+        "Aciklama": "Tasarım süreci; problem belirleme, problem çözme, yaratma, karar verme ve yöntem oluşturma gibi aşamaları içerir. Bu sürecin önemli bir parçası, karşılaşılan yaratıcı, pratik veya ekonomik sorunları çözmektir."
+    },
+    {
+        "SoruID": 386458,
+        "Aciklama": "Gestalt teorisi, insan beyninin görsel uyarıları ve elemanları nasıl grupladığını veya bir bütün olarak nasıl düzenlediğini inceleyen bir psikoloji kuramıdır. Bu teori, görsel algının en temel biriminin form olduğunu öne sürer."
+    },
+    {
+        "SoruID": 386461,
+        "Aciklama": "Espas, yüzeyler, objeler, figürler veya görseller arasında yer alan boşluk ya da aralıktır. Anlamlı boşluk olarak da tanımlanır ve tasarımda denge, derinlik, vurgu gibi etkiler yaratmak için bilinçli olarak kullanılır."
+    },
+    {
+        "SoruID": 386464,
+        "Aciklama": "Bir ürün ortaya koymak için yapılan tasarlama eylemi; problem belirleme, problem çözme, yaratma ve yöntem belirleme gibi süreçleri kapsar. 'Denge' ise bu süreçte kullanılan temel tasarım ilkelerinden biridir, sürecin bir aşaması değildir."
+    },
+    {
+        "SoruID": 386469,
+        "Aciklama": "Bir tasarımda aynı temel biçime, forma, dokuya, boyuta, renge veya temaya sahip görsel öğelerin bir araya getirilmesi ve gruplandırılması 'bütünlük' (birlik/uyum) ilkesini yaratır. Bütünlükten yoksun bir tasarım dağınık ve kopuk bir etki yaratabilir."
+    },
+    {
+        "SoruID": 386472,
+        "Aciklama": "Zıtlık (kontrast), tasarımın tekdüzelikten kurtulması için tasarım öğelerinin renk, boyut, doku veya karakter bakımından karşıtlık oluşturmasıdır. Bu ilke, tasarıma ilgi, heyecan ve çarpıcılık katar."
+    },
+    {
+        "SoruID": 389034,
+        "Aciklama": "Tasarım ilkeleri, bir düşüncenin görselleştirilmesinde rol oynayan sözcüklerin, imgelerin ve şekillerin düzenlenmesine yardımcı olur ve tasarımcının etkili tasarımlar yaratması için yol göstericidir."
+    },
+    {
+        "SoruID": 389035,
+        "Aciklama": "Kapalılık (tamamlama) ilkesine göre, insan beyni görsel olarak tamamlanmamış nesneleri algıladığında, var olan boşlukları zihinsel olarak doldurarak bütünü algılama eğilimindedir. WWF logosu bu ilkeye iyi bir örnektir."
+    },
+    {
+        "SoruID": 389045,
+        "Aciklama": "Ortak yazgı kuralına göre, aynı hareket, renk ve biçimde olan unsurlar, bir grup ve bütün olarak algılanır. Aynı eylemi yapan veya aynı yöne giden nesneler, ortak bir kaderi paylaştıkları için birlikte okunur."
+    },
+    {
+        "SoruID": 389047,
+        "Aciklama": "Ritim, temel tasarım ilkeleri arasında armoniyi ifade eder. Renk, şekil, form gibi tasarım elemanlarının bir veya birkaçının uyum içerisindeki tekrarından oluşur ve tasarıma dinamiklik katar."
+    },
+    {
+        "SoruID": 389049,
+        "Aciklama": "Görsel anlatımın ilk elemanı olan çizgi, gözü bir mekânın içerisinde bir noktadan diğerine hareket ettiren, yönü ve geometrik uzunluğu olan bir yapıdır."
+    },
+    {
+        "SoruID": 387561,
+        "Aciklama": "Görsel kimlik pazarlama malzemeleri; açık hava reklamları, kataloglar, promosyon ürünler ve el ilanları gibi bir markanın kimliğini yansıtan unsurlardır. Dijital baskı makineleri ise bu malzemeleri üretmek için kullanılan araçlardır, malzemenin kendisi değildir."
+    },
+    {
+        "SoruID": 387562,
+        "Aciklama": "Görsel kimlik oluşturmanın amaçları; üretilen mal ve hizmetleri tanıtmak, kurum kimliğini müşterilere ulaştırmak, hedef kitleyle iletişim kurmak ve markanın reklamını yapmaktır. Üretim maliyetlerini azaltmak, üretim süreciyle ilgili bir hedeftir ve doğrudan görsel kimliğin amacı değildir."
+    },
+    {
+        "SoruID": 387563,
+        "Aciklama": "Promosyon ürünler; firmanın reklam ve tanıtımını yapmak, yeni ürünleri tanıtmak, marka tanınırlığını sürdürmek ve potansiyel müşterileri harekete geçirmek gibi amaçlarla dağıtılır. Müşterilerin doğrudan ürün ihtiyaçlarını gidermek birincil amaç değildir."
+    },
+    {
+        "SoruID": 387564,
+        "Aciklama": "Yönlendirme işaretleri ve levhalar; açık hava, iç mekân, fuar ve sergi gibi alanlarda kullanılan ve çevresel tasarım gerektiren görsel kimlik pazarlama malzemeleridir. Diğer seçenekler ise genel yayın veya sanat ürünleridir."
+    },
+    {
+        "SoruID": 387565,
+        "Aciklama": "Katalog, kurum ve işletmelerin markaları veya ürünleri hakkında müşterilerine detaylı bilgi vermek amacıyla hazırladıkları çok sayfalı kitapçıklardır. Genellikle metinle birlikte görselliğin ön planda olduğu materyallerdir."
+    },
+    {
+        "SoruID": 387566,
+        "Aciklama": "Açık hava reklamları; billboard, raket, yol panoları, toplu taşıma araçları gibi çok çeşitli çevresel tasarımları kapsar. Sadece levhalardan oluşmazlar; günümüzde hemen her şey bir açık hava reklam aracı olarak kullanılabilmektedir."
+    },
+    {
+        "SoruID": 387567,
+        "Aciklama": "Promosyon ürünler, firmaların potansiyel müşterilerine veya hedef kitlelerine ücretsiz olarak dağıttığı ürünlerdir. Amaç marka bilinirliğini artırmaktır, bu ürünlerin satışından gelir elde etmek değildir."
+    },
+    {
+        "SoruID": 387568,
+        "Aciklama": "Grup içi kullanım malzemeleri, genellikle kurum ve firmalar tarafından kendi bünyelerinde kullanılmak üzere tasarlanır. Bu kategoriye yıllık rapor, iç memorandum, yönerge ve üniforma gibi materyaller girer."
+    },
+    {
+        "SoruID": 387569,
+        "Aciklama": "Ticari ürünler, bir ürünün benzerlerinden ayrılmasını sağlamak amacıyla kullanılan tanımlayıcı görsel malzemelerdir. Bu malzemeler içinde etiket ve promosyon ürünleri yer almaktadır."
+    },
+    {
+        "SoruID": 387570,
+        "Aciklama": "İç mekân reklamları, kapalı alanlarda kullanılan afişler, panolar, stantlar ve vitrin içi uygulamalar gibi reklam araçlarını kapsar. Billboard ise bir açık hava reklam aracıdır."
+    },
+    {
+        "SoruID": 390114,
+        "Aciklama": "Etiket, genellikle ürün ambalajlarının üzerinde yer alan ve o ambalajın içindekiler, miktar, üretici, son kullanma tarihi ve barkod gibi bilgileri içeren ticari bir grafik tasarım ürünüdür."
+    },
+    {
+        "SoruID": 390117,
+        "Aciklama": "Yıllık raporlar (faaliyet raporları), kurum ve firmaların bir önceki yıla ait faaliyet bilgilerine kapsamlı bir şekilde yer verdikleri kitapçıklardır. Bu raporlar kurumun performansını ve gelecek hedeflerini paydaşlara sunar."
+    },
+    {
+        "SoruID": 390120,
+        "Aciklama": "Katalog, kurum ve işletmelerin ürünleri veya hizmetleri hakkında müşterilerine detaylı bilgi vermek amacıyla hazırladıkları, genellikle çok sayfalı ve bol görselli kitapçıklardır."
+    },
+    {
+        "SoruID": 390123,
+        "Aciklama": "Görsel kimlik oluşturmada en önemli hususlardan biri, kullanılan logo, amblem, renk, slogan gibi tüm grafik tasarım çalışmalarının belirli bir standartta ve bütünlük içinde olmasıdır. Bu, tutarlı bir marka imajı yaratır."
+    },
+    {
+        "SoruID": 386479,
+        "Aciklama": "Web tasarımının birbirine bağlı beş bileşeni; teknoloji, içerik, site mimarisi, etkileşim tasarımı ve görsel tasarımdır. İnternet ise web sitesinin üzerinde çalıştığı genel ağ altyapısıdır, web tasarımının bir bileşeni değildir."
+    },
+    {
+        "SoruID": 386482,
+        "Aciklama": "Web sitesi içeriği, hedef kitlenin ihtiyaçlarını ve sitenin amacını yansıtmalı, mesajı basitleştirmek için göz alıcı görseller kullanmalıdır. Pazarlamacılar, çoğu izleyicinin kelime kelime okumak yerine göz gezdirdiğine inandığı için metnin uzun bloklar halinde değil, kısa bloklar halinde düzenlenmesi gerektiğini savunur."
+    },
+    {
+        "SoruID": 386484,
+        "Aciklama": "Tipografi; bir tasarım içinde yazı karakteri, boyut, aralık, renk ve stil gibi unsurların düzenlenmesi pratiğidir. 'Yazı tipi hizmeti verilmesi' ise Google Fonts gibi servislerin sunduğu bir hizmettir, tipografinin temel ilgi alanlarından biri değildir."
+    },
+    {
+        "SoruID": 386486,
+        "Aciklama": "Bir web sayfasında iki temel metin türü vardır: görüntü metni ve gövde metni. Görüntü metni; logolar, başlıklar, alt başlıklar gibi dekoratif metinleri ifade eder. Gövde metni ise; makale, blok alıntı, tablolar ve listeler gibi sayfanın ana içeriğini oluşturur."
+    },
+    {
+        "SoruID": 386488,
+        "Aciklama": "Bilgisayar ekranlarında renkler RGB (kırmızı, yeşil, mavi) eklemeli renk modeline göre oluşturulur. Ayrıca renkler HEX, HSL ve HSLA gibi kodlarla da belirtilir. CMYK ise baskı işlemlerinde kullanılan dört renkli (cyan, magenta, sarı, siyah) çıkarma modelidir ve web sayfası tasarımında doğrudan kullanılmaz."
+    },
+    {
+        "SoruID": 386497,
+        "Aciklama": "Uyarlanabilir bir logo, farklı medya ve boyutlarda (kartvizit, web sitesi, reklam panosu vb.) etkili bir şekilde kullanılabilen, yani çok yönlü bir tasarıma sahip logodur. Bu çok yönlülük, maliyetlerde tasarruf sağlar ve olası yeniden tasarımları azaltır. Ancak 'marka uygulamalarını kolaylaştırmak' genel bir ifadedir ve doğrudan uyarlanabilirliğin bir avantajı olarak belirtilmemiştir; daha ziyade bir sonucudur."
+    },
+    {
+        "SoruID": 386500,
+        "Aciklama": "Web'de iki genel görüntü türü bulunur: vektör ve bitmap. Vektör görüntüler matematiksel tabanlı çizgiler ve eğriler kullanırken, bitmap görüntüler (JPG, GIF gibi) pikselleri kullanır. Bu nedenle 'Bitmap matematiksel tabanlı çizgiler ve eğriler kullanır' ifadesi yanlıştır."
+    },
+    {
+        "SoruID": 386502,
+        "Aciklama": "Animasyon tasarımında 'tweening' (ara doldurma), iki ana kare (keyframe) arasında kalan kareleri otomatik olarak oluşturma işlemidir. Bu işlem, bir nesnenin konumu, şekli, boyutu ve rengi gibi özelliklerinin yumuşak bir geçişle değişmesini sağlar."
+    },
+    {
+        "SoruID": 386504,
+        "Aciklama": "Açılış sayfaları, kullanıcıları 'Başlayın', 'Abone olun' veya 'Satın alın' gibi belirli eylemleri gerçekleştirmeye davet eder. Bu eylem çağrılarına 'Call-to-Action' (CTA) butonu denir."
+    },
+    {
+        "SoruID": 386506,
+        "Aciklama": "Etkileşimli banner'lar, genellikle bir açılır menü içeren HTML ile veya banner içinde bilgi girme, oyun oynama veya bir şey satın alma gibi etkinliklere olanak tanıyan zengin medya teknolojileriyle oluşturulur. Animasyonlu banner'lar ise genellikle dönen birkaç kareden oluşur ve bu tür karmaşık etkileşimleri desteklemez."
+    },
+    {
+        "SoruID": 389051,
+        "Aciklama": "Tüm başarılı web sitelerinin, farklı tarayıcılar ve platformlarla uyumluluk sağlayacak şekilde teknik olarak güçlü olması gerekir. Milyonlarca kullanıcının çok çeşitli bilgisayar sistemleri olduğu için, web sitesinin tek bir tarayıcıya veya platforma uyumlu olması yeterli değildir ve bu, tasarımın temel prensiplerine aykırıdır."
+    },
+    {
+        "SoruID": 389052,
+        "Aciklama": "Web tasarımında, bir sitenin kapsayıcı akışı ve yapısına 'mimari' denir. Bu terim, bir sayfadaki öğelerin yerleşimini, nasıl etkileşime girdiklerini, amaçlanan navigasyonu ve sitenin ana bölümlerinin nasıl daha büyük bir bütün oluşturduğunu tanımlar."
+    },
+    {
+        "SoruID": 389062,
+        "Aciklama": "Açılış sayfası tasarımının temel öğeleri arasında güçlü görseller, ilgi çekici başlıklar, etkili CTA butonları, müşteri yorumları ve kapanış ifadeleri bulunur. Banner'lar ise genellikle bir açılış sayfasına yönlendirme yapan reklamlardır, açılış sayfasının temel bir öğesi değillerdir."
+    },
+    {
+        "SoruID": 389063,
+        "Aciklama": "Banner türlerinden biri olan 'Açılış Sayfalarına Bağlantılar', kullanıcıları reklamı tıkladıklarında özel olarak oluşturulmuş bir tanıtım web sayfasına (landing page) veya bir web sitesi içindeki belirli bir sayfaya yönlendiren banner türüdür."
+    },
+    {
+        "SoruID": 386510,
+        "Aciklama": "İçerik; web siteleri, bloglar, sosyal ağlar, videolar, podcast'ler, galeriler gibi günlük hayatta karşılaşılan tüm verileri kapsar. 'Mobil cihazlar' ise bu içeriklerin tüketildiği araçlardır, içeriğin kendisi değildir."
+    },
+    {
+        "SoruID": 386511,
+        "Aciklama": "İçerik pazarlaması, tüketicinin istediği özellik ve nitelikteki ürünü veya hizmeti bulmasını ve bu üründen yüksek düzeyde tatmin sağlamasını hedefleyen bir pazarlama anlayışı olarak tanımlanır."
+    },
+    {
+        "SoruID": 386515,
+        "Aciklama": "İçerik pazarlamasında başarılı olmak için hazırlanan içeriklerin nitelikli, özgün, değerli, dinamik ve amaca uygun olması gerekir. 'Gizli olması' içerik pazarlamasının şeffaflık ve güven oluşturma ilkeleriyle çelişir."
+    },
+    {
+        "SoruID": 386518,
+        "Aciklama": "Tarihteki ilk ve en başarılı içerik pazarlama girişimi, 1895 yılında John Deere adlı traktör firmasının müşterileri için çıkardığı 'The Furrow' dergisi olarak bilinmektedir. Bu dergi, çiftçilere yeni teknolojiler hakkında bilgiler veriyordu."
+    },
+    {
+        "SoruID": 386520,
+        "Aciklama": "İçerik pazarlamasının dört temel amacı; marka farkındalığı yaratmak, müşteri bağlılığı oluşturmak, takipçilerle güven inşa etmek ve olası müşterilerin ilgisini çekmektir. Müşterilerle sohbet etmek bu amaçlara ulaşmak için bir araç olabilir, ancak temel bir amaç değildir."
+    },
+    {
+        "SoruID": 386522,
+        "Aciklama": "İçerik pazarlaması kapsamında içerikler, yaratıcı hikâyelerle zenginleştirilerek ilginç, eğlenceli, güvenilir ve paylaşılabilir olmalıdır. İyi bir hikâye anlatıcılığına dayanan bu yaklaşımda, hikâyenin 'gerçek' olması bir zorunluluk değildir; önemli olan özgün ve etkileyici olmasıdır."
+    },
+    {
+        "SoruID": 386523,
+        "Aciklama": "Müşterilere pek çok kanaldan iletilen içeriklerin yorumlanması ve değerlendirilmesi, ürüne veya hizmete yönelik 'satın alma kararını' önemli ölçüde etkilemektedir. Mantıklı ve güvenilir içerikler, satın alma sürecini hızlandırır."
+    },
+    {
+        "SoruID": 386525,
+        "Aciklama": "'Hedef Kitleyi Belirleme' aşamasında, koyulan hedeflere hangi müşterilerle ulaşılacağı analiz edilir. Bu aşamada hedef kitlenin nerede olduğu, onlara nasıl ulaşılabileceği, satın alma davranışları ve kullandıkları dil gibi bilgiler, sonraki aşama olan içeriği planlamaya yol gösterir."
+    },
+    {
+        "SoruID": 386527,
+        "Aciklama": "Sosyal medya, çok yaygın kullanılması sayesinde işletmelere pazarlama için büyük bir imkân sunar. Müşteriyle doğrudan iletişim olanağı sağlaması ve küçük bütçelerle geniş çapta etkinlikler yapmayı mümkün kılması en önemli avantajlarıdır."
+    },
+    {
+        "SoruID": 386528,
+        "Aciklama": "İnfografikler (bilgi grafikleri), büyük bilgi ve veri kümelerinin görsel olarak düzenlenerek daha net ve kolay anlaşılmasını sağlayan içerik pazarlama araçlarıdır. Karmaşık verileri görsel grafiklerle sunma metodudur."
+    },
+    {
+        "SoruID": 389072,
+        "Aciklama": "Bir içerik pazarlama türü olarak videonun esas amacı, reklam sunmaktan ziyade tüketici sorularını yanıtlayıp çözümler sunarak müşterilere faydalı bilgiler sağlamaktır."
+    },
+    {
+        "SoruID": 389075,
+        "Aciklama": "İçerik oluşturma süreci tutarlılık ve devamlılık gerektirir, başlama ve bitiş zamanları kesin değildir. Bu süreçte ana fikir oluşturulur ve hikâye genişletilir. Hedef kitle analizi ise içerik oluşturmadan bir önceki aşama olan 'Hedef Kitleyi Belirleme' aşamasında yapılır."
+    },
+    {
+        "SoruID": 389088,
+        "Aciklama": "E-posta, bir kuruluşun abonelerine düzenli olarak gönderdiği elektronik bültendir ve içeriği doğrudan hedef kitleye ulaştırır. Etkili olması için tek seferde çok fazla bilgi göndermemek önemlidir. Ancak temel amacı soru cevaplamak değil, bilgi vermektir. Soru cevaplama daha çok blog gibi interaktif türlerin özelliğidir."
+    },
+    {
+        "SoruID": 389089,
+        "Aciklama": "Myllys, içerik pazarlama stratejisi için kesin kurallar olamayacağını ifade ederek stratejilerin işletmeye özgü olması gerektiğini vurgular. Ancak strateji belirlenirken; nedenler, riskler, vizyon, iş planı ve hedef kitle tanımı gibi ortak özelliklerin ele alınması gerektiğini belirtir."
+    },
+    {
+        "SoruID": 386621,
+        "Aciklama": "Reklam kampanyası, belirli bir süre yayınlanmak üzere aynı strateji doğrultusunda hazırlanan ve aynı fikri paylaşan, gerek içerik gerekse biçim yönünden birbirleriyle bağlantılı bir dizi reklam olarak tanımlanır."
+    },
+    {
+        "SoruID": 386622,
+        "Aciklama": "Bir reklam kampanyasının karar verme aşamaları; durum analizi (tüketici profili, talep vb.), hedef kitle seçimi, medya seçimi ve reklamın görselleştirilmesi (resim, sembol, figür seçimi) gibi adımları içerir. Medya programlaması ise medya seçimi başlığı altında yer alır."
+    },
+    {
+        "SoruID": 386623,
+        "Aciklama": "Stok fotoğrafları, fotoğrafçılar tarafından belirli konseptler üzerine önceden çekilmiş kullanıma hazır arşiv görüntüleridir. Telif hakkı kuruma ait olmadığı için, aynı görselin başka bir reklamda da kullanılması mümkündür. Bu nedenle 'bir reklamda kullanıldıktan sonra başka bir reklamda kullanılamaz' ifadesi yanlıştır."
+    },
+    {
+        "SoruID": 386624,
+        "Aciklama": "Sloganlar, belirli bir görüşü veya tutumu ifade eden anlamlı, kısa ve çarpıcı sözlerdir. Genellikle reklamın içerdiği ana düşünceyi özetlemek amacıyla kullanılırlar."
+    },
+    {
+        "SoruID": 386625,
+        "Aciklama": "Çevrimdışı (offline) reklamcılık, ya da geleneksel medya reklamcılığı, televizyon/sinema, radyo, gazete, dergi gibi basılı yayınlar ve açıkhava mecralarını kapsayan reklam türüdür."
+    },
+    {
+        "SoruID": 386626,
+        "Aciklama": "Bant reklam, bir televizyon yayını devam ederken genellikle ekranın altından çıkan reklamdır. Kuşak reklam ise programa ara verilerek reklam kuşağında yayınlanan reklamlardır."
+    },
+    {
+        "SoruID": 386627,
+        "Aciklama": "Mizanpaj (sayfa düzeni), hem dergi hem de gazete reklamlarında mesajın etkili bir şekilde iletilmesi için büyük önem taşır. Bu nedenle dergi reklamlarında mizanpajın önemsiz olduğu ifadesi yanlıştır. Dergiler, kalıcılık, baskı kalitesi ve hedef kitleye özel içerik gibi avantajlara sahiptir."
+    },
+    {
+        "SoruID": 386628,
+        "Aciklama": "Çevrimiçi reklamcılığın çevrimdışı reklamcılığa göre avantajları; daha düşük maliyetli olması, küresel erişim imkânı sunması ve reklam etkinliğinin (tıklanma, izlenme vb.) kolayca ölçülebilmesidir. Kapsam ise her iki reklam türünün de özelliğidir, ancak çevrimiçi reklamcılığın erişimi daha geniştir."
+    },
+    {
+        "SoruID": 386629,
+        "Aciklama": "Arama motoru reklamlarını diğer reklamlardan ayıran en önemli özellik, bir ürüne veya hizmete zaten ihtiyaç duyan ve aktif olarak arama yapan tüketiciyi (talep eden) ilgili ürün veya hizmeti sunan kurumla (arz eden) buluşturmasıdır."
+    },
+    {
+        "SoruID": 386630,
+        "Aciklama": "Banner reklamlar, web sitelerinin genellikle %10'undan az bir alanını kaplayan, yatay ya da dikey olarak konumlandırılan çevrimiçi reklam türüdür. Temel işlevi, tüketiciyi tıklama yoluyla reklam verenin web sitesine yönlendirmektir."
+    },
+    {
+        "SoruID": 389140,
+        "Aciklama": "Kurumsal kimliğin temel unsurlarından biri olan 'kurumsal dizayn', kendi içinde bir kuruma ait görsel kimlik öğelerini barındırır. Bu alan ürün, çevre ve iletişim dizaynı gibi alt dalları içerir."
+    },
+    {
+        "SoruID": 389147,
+        "Aciklama": "Televizyon reklamları; geniş kitlelere ulaşması, görsel zenginlik sunması, güçlü imaj yaratması ve tekrar yoluyla hatırlanmayı sağlaması gibi avantajlara sahiptir. Ancak tek yönlü bir iletişim aracı olduğu için 'interaktif iletişim' imkânı sunmaz. İnteraktiflik, çevrimiçi mecraların bir özelliğidir."
+    },
+    {
+        "SoruID": 389148,
+        "Aciklama": "Düşük bütçeyle yüksek etki yaratmayı amaçlayan 'gerilla reklam' için en uygun mecra, yaratıcılık konusunda sınırsız olanaklar sunan açıkhava mecrasıdır. Bu tür reklamlar, beklenmedik yer ve zamanlarda hedef kitlenin karşısına çıkar."
+    },
+    {
+        "SoruID": 386640,
+        "Aciklama": "Bireysel kimlik, bir kişinin kim olduğuna, kendi öz niteliklerine ve konumuna ilişkin sahip olduğu toplumsal veya duygusal algısı olarak tanımlanabilir. Bu, bireyin 'ben kimim?' sorusuna verdiği cevapla ilgilidir."
+    },
+    {
+        "SoruID": 386643,
+        "Aciklama": "Kurumsal kimlik, bir kurumun söyledikleri ve yaptıkları aracılığıyla kendisini sunması veya bir kurumu benzersiz kılan özelliklerin bütüncül bir yansımasıdır. Bu kimlik, kurumun davranışlarını, iletişimini, felsefesini ve görsel unsurlarını kapsar."
+    },
+    {
+        "SoruID": 386646,
+        "Aciklama": "Kurumsal kimliğin tarihsel gelişimi dört dönemde incelenir: Geleneksel Dönem (1. Dünya Savaşı sonuna kadar), Marka Tekniği Dönemi (iki savaş arası), Dizayn Dönemi (2. Dünya Savaşı sonrası) ve Stratejik Dönem (1970'ler sonrası). 'Modern Dönem' bu sınıflandırmada yer almamaktadır."
+    },
+    {
+        "SoruID": 386647,
+        "Aciklama": "Desteklenmiş kimlik yapısında, bağlı kurumların kendi ayrı kimlikleri ve faaliyet alanları vardır, ancak arka planda ana kurumun varlığı açıkça hissedilir. Koç ve Sabancı Holding gibi yapılar bu kimlik türüne örnektir."
+    },
+    {
+        "SoruID": 386648,
+        "Aciklama": "Bir kurumun kurumsal kimlik stratejisini değiştirmesini gerektiren durumlar arasında; zamana adapte olma, üst yönetimin değişmesi, faaliyet alanının değişmesi veya kurumların birleşmesi/ayrılması gibi stratejik nedenler bulunur. Yeni bir ürün/hizmet sunmak genellikle mevcut kimlik altında yapılan bir faaliyettir ve kimlik değişikliği gerektirmez."
+    },
+    {
+        "SoruID": 386649,
+        "Aciklama": "Bir kurumsal kimlik kılavuzunda yer alması gereken temel görsel unsurlar; Amblem, Logo, Logotype, Font/Tipografi ve Kurum Rengi'dir. Diğer seçenekler ise pazarlama karması, finansal bilgiler veya kurumun genel vizyonu gibi farklı konuları içermektedir."
+    },
+    {
+        "SoruID": 386653,
+        "Aciklama": "Logo, bir ürün, kurum veya hizmeti tanıtmak amacıyla tipografik harflerden oluşturulan ve amblem özelliği taşıyan simgesel bir tasarımdır. Amblem ise daha çok sözcük özelliği göstermeyen, soyut veya nesnel görüntülerden oluşan simgedir. Görsellerdeki tasarımlar (Puma, Adidas, Nike) hem amblem hem de tipografi (logo) içermektedir."
+    },
+    {
+        "SoruID": 386654,
+        "Aciklama": "Yazının temel işlevi bilgi aktarımı olsa da, tipografi bu tanımın ötesine geçerek bir yazı ile sanat yapma işidir. Yazıların çeşit, büyüklük ve boşluklarının düzenlenmesi sanatı ve tekniğidir."
+    },
+    {
+        "SoruID": 386655,
+        "Aciklama": "Kurumsal kimlik kılavuzunda yer alan temel basılı materyaller arasında kartvizit, antetli kağıt, dosya, zarf, muhasebe evrakları ve promosyon malzemeleri bulunur. Fiyat etiketleri ise genellikle satış noktasında kullanılan, daha değişken ve operasyonel materyallerdir."
+    },
+    {
+        "SoruID": 386657,
+        "Aciklama": "Kurumsal bir web sitesi; basın odası, mali raporlar, halkla ilişkiler/reklam çalışmaları ve sosyal sorumluluk projeleri gibi kurumun farklı paydaşlarına yönelik bilgiler içermelidir. Tüketici ve pazar araştırması sonuçları ise genellikle kurumun iç stratejilerini belirlemek için kullanılır ve kamuya açık olarak web sitesinde yayınlanmaz."
+    },
+    {
+        "SoruID": 389155,
+        "Aciklama": "Wally Olins'e göre, kurumsal kimlik bir kuruma ait üç belirleyici noktayı anlatır: Kurumun kim olduğu (görsel kimliği), ne yaptığı (faaliyetleri) ve nasıl yaptığı (yönetim ve organizasyon yapısı)."
+    },
+    {
+        "SoruID": 389159,
+        "Aciklama": "Görsel kimliğin tasarım amaçları; marka ismine kişilik katmak, tanınırlığı sağlamak, rakiplerden ayrışmak ve bütüncül bir görüntü yaratmaktır. Pazara sunulan ürün/hizmetlerin satılmasını kolaylaştırmak ise bu amaçlara ulaşıldığında ortaya çıkan bir sonuçtur, doğrudan bir tasarım amacı değildir."
+    },
+    {
+        "SoruID": 389161,
+        "Aciklama": "Logotype, kurumun adını içeren ve aynı zamanda ayırt edici bir amblem görevi gören tasarımdır. Bu nedenle parçalanamaz bir yapıya sahiptir. Görsellerdeki marka isimleri (FedEx, Amazon, Google vb.) bu tanıma uyan logotype örnekleridir."
+    },
+    {
+        "SoruID": 389163,
+        "Aciklama": "Kurumsal kimlik kılavuzunda yer alan davetiye, kartvizit, sertifika ve fatura gibi materyaller hem basılı hem de dijital (e-davetiye, e-fatura vb.) olarak hazırlanabilir. Mail şablonu ise doğası gereği sadece dijital bir unsurdur ve basılı bir karşılığı yoktur."
+    },
+    {
+        "SoruID": 386659,
+        "Aciklama": "Bu ifade, ders materyalinde yer alan ürün ve marka arasındaki temel farklılıklar tablosundaki bilgilerin tam tersidir. Tabloya göre <strong>ürün</strong>, tüketiciye <i>fiziksel yarar</i> sağlarken; <strong>marka</strong>, kişiliği ve soyut bileşenleriyle beynin <i>duygusal tarafına</i> hitap ederek tatmin sağlar."
+    },
+    {
+        "SoruID": 386660,
+        "Aciklama": "<strong>Markalaşma</strong>, ders materyalinde doğrudan \"tüketicilerin zihninde bir marka yaratarak ve şekillendirerek belirli organizasyon, şirket, ürün veya hizmetlere anlam verme süreci\" olarak tanımlanmaktadır. Bu süreç, markanın rakiplerinden ayrışmasını sağlar."
+    },
+    {
+        "SoruID": 386662,
+        "Aciklama": "Ders materyaline göre, markalaşma stratejilerinin niteliklerinden biri, \"Pazarlama iletişim çalışmalarında yapılacak olan uygulamalar <strong>çeşitlilik göstermelidir.</strong>\" şeklinde ifade edilmiştir. Bu nedenle uygulamaların 'tek düze' olması gerektiği ifadesi yanlıştır."
+    },
+    {
+        "SoruID": 386664,
+        "Aciklama": "Metinde Aaker'dan alıntılanan markalaşma zorlukları arasında; <ul><li>Yeni alt kategoriler yaratılması (I)</li><li>Marka varlığının büyümeyi sağlamak için güçlendirilmesi (IV)</li><li>İşletmenin etkili bir vizyona sahip olması (V)</li></ul> gibi maddeler bulunmaktadır. II ve III numaralı ifadeler ise bu zorlukların tam tersi olan hatalı yaklaşımları tanımlamaktadır."
+    },
+    {
+        "SoruID": 386665,
+        "Aciklama": "Metinde <strong>Marka Kişiliği</strong>, \"Tüketicinin bir markayı hızlıca tanımlayıp ifade edebildiği bir özellik olarak tanımlanmaktadır\" ifadesiyle doğrudan açıklanmıştır. Marka kimliği ise markayı tanımlayan logo, renk gibi göstergelerin bütünüdür."
+    },
+    {
+        "SoruID": 386666,
+        "Aciklama": "<strong>Marka denkliği (Marka Değeri)</strong>, bir markanın sahip olduğu toplam değeri, tüketicilerle olan bağının gücünü ve zihindeki çağrışımlarını ifade eder. Tüketicilerin ürünü rakiplerinden ayrıştırması ise daha çok marka kimliği ve marka farkındalığının bir sonucudur, marka denkliğinin tanımı değildir."
+    },
+    {
+        "SoruID": 386667,
+        "Aciklama": "Amerikan Pazarlama Derneği'nin tanımına göre <strong>küresel markalama</strong>, dünyanın her yerinde aynı stratejik ilkelere göre pazarlanan marka anlamına gelir. Amaç, farklı kültürlerden insanların markayı tanımasına yardımcı olacak tutarlı bir imaj yaratmaktır."
+    },
+    {
+        "SoruID": 386668,
+        "Aciklama": "Metne göre küresel markalar; <ul><li>başarılı bir satış grafiğine ve yüksek müşteri sadakatine sahiptir (II),</li><li>sadece ürün satmakla kalmaz, aynı zamanda küresel birer kültür ikonu yaratır (IV),</li><li>ve girdikleri pazarın kültürel özelliklerine uyum sağlamak için marka isimlerini veya logolarını değiştirebilirler (V).</li></ul>"
+    },
+    {
+        "SoruID": 386669,
+        "Aciklama": "Metinde küresel markalarla ilişki kuran tüketiciler dört bölüme ayrılmıştır: <ul><li>Küresel vatandaşlar</li><li>Küresel hayalperestler</li><li>Küresel karşıtları</li><li>Küresel bilinmezciler</li></ul> 'Küresel yanlısı' bu sınıflandırmada yer almamaktadır."
+    },
+    {
+        "SoruID": 386670,
+        "Aciklama": "Randall'a göre yerel bir markanın küresel olma yolunda uyması gereken temel şartlar şunlardır: <ul><li>Rekabet üstünlüğünü sürdürülebilir kılmak (I)</li><li>Ölçek ekonomileri (III)</li><li>Hedef ülkeye uygun bölümleme ve pazarlama stratejileri oluşturmak.</li></ul> Seçenek IV (Tüketicilerin markayı küresel kabul etmesi) ise bu sürecin bir sonucudur, ön şartı değildir."
+    },
+    {
+        "SoruID": 389244,
+        "Aciklama": "Bu ifade, markalaşmanın temel amacıyla çelişmektedir. <strong>Markalaşma</strong>, tam tersine, benzer ürün ya da hizmetlerin rakiplerinden <strong>ayrışmasını sağlamak</strong> ve tüketicinin zihninde belirgin bir yer edinmek için yapılır."
+    },
+    {
+        "SoruID": 389250,
+        "Aciklama": "<strong>Marka sadakati</strong>, bir müşterinin markaya olan bağlılığıdır ve bu bağlılık, markanın başarılı farklılaşma stratejileri sonucunda ortaya çıkar. Dolayısıyla, farklılaşma marka sadakatini sağlar; marka sadakati farklılaşmayı sağlamaz."
+    },
+    {
+        "SoruID": 389251,
+        "Aciklama": "Bir markanın küresel olarak tanımlanabilmesi için temel hususlar; <ul><li>tüm dünya pazarlarında genel bir bilinirliğe sahip olması (I)</li><li>pazarlama ölçeğinin dünya geneline yayılmış olmasıdır (II).</li></ul> Sadece tek bir coğrafi alanda faaliyet göstermesi (III) ise yerel markanın tanımıdır."
+    },
+    {
+        "SoruID": 386671,
+        "Aciklama": "Marka yönetimi süreci; sektör araştırması ile başlar ve yeni bir kategori oluşturma, marka konumlandırma, marka kimliği tasarlama, marka iletişim stratejilerini belirleme ve marka denetimi gibi adımlarla devam eder. 'Marka dizilimi' bu süreçler arasında yer alan bir terim değildir."
+    },
+    {
+        "SoruID": 386672,
+        "Aciklama": "Sektör araştırması adımı; sektör tanımının yapılması, rekabet analizi, hedef kitle analizi ve SWOT analizi gibi çalışmaları içerir. 'Marka denkliği analizi' ise marka denetimi ve denkliği çalışmaları aşamasında ele alınır."
+    },
+    {
+        "SoruID": 386673,
+        "Aciklama": "SWOT analizi, bir marka için hayati önem taşıyan bir yöntemdir. Markanın güçlü (Strengths) ve zayıf (Weaknesses) yönlerini içeren iç çevre analizi ile sektördeki, ülkedeki ve dünyadaki fırsatları (Opportunities) ve tehditleri (Threats) içeren dış çevre analizini bir araya getirir."
+    },
+    {
+        "SoruID": 386677,
+        "Aciklama": "Marka konumlandırma aşamasında, markanın misyonu, özü, değerleri ve sıfatı gibi markanın hedef kitle zihnindeki yerini belirleyecek kararlar alınır. Marka denkliği ise markanın varlık setini ve finansal değerini ifade eden bir sonuçtur, konumlandırma aşamasının bir parçası değildir."
+    },
+    {
+        "SoruID": 386678,
+        "Aciklama": "Marka özü, markanın yaptığı her şeyin temelini oluşturan ve ona yön veren temel fikir ya da önermedir. Genellikle iki-üç kelimeden oluşur ve markanın temelde neyi simgelediğini ifade eder."
+    },
+    {
+        "SoruID": 386679,
+        "Aciklama": "İmalı marka isimleri, ürün veya hizmet hakkında dolaylı olarak bilgi verir. Twitter, Microsoft, Febreze ve Dove bu kategoriye örnektir. Booking.com ise markanın hizmetini doğrudan tanımladığı için 'tanımlayıcı' bir marka ismidir."
+    },
+    {
+        "SoruID": 386682,
+        "Aciklama": "Marka rengi belirlenirken; rengin psikolojik etkileri, kültürel ve toplumsal çağrışımları, sektördeki kullanımı ve yasal olarak tescil durumu gibi stratejik faktörler göz önünde bulundurulmalıdır. 'Kişisel beğeniler' ise öznel olduğu için profesyonel bir marka tasarım sürecinde belirleyici bir faktör olmamalıdır."
+    },
+    {
+        "SoruID": 386683,
+        "Aciklama": "Marka kitabı; markanın hikayesi, misyonu, değerleri, marka sesi, logosu, renkleri ve imajları gibi temel kimlik unsurlarını içerir. 'Ürün fiyatları' ise değişken ve operasyonel bir bilgi olduğu için markanın anayasası niteliğindeki marka kitabında yer almaz."
+    },
+    {
+        "SoruID": 386686,
+        "Aciklama": "Marka sesi (tone of brand voice), markanın müşterileri ile iletişim kurma tarzını tanımlayan bir sıfattır. Markanın cana yakın mı, profesyonel mi, yoksa esprili mi bir dile sahip olacağını belirler."
+    },
+    {
+        "SoruID": 386687,
+        "Aciklama": "Marka kitabı kapaklarında genellikle markanın ismi, logosu ve kurumsal renkleri bulunur. Ayrıca yayının içeriğini açıklayan 'marka kitabı' veya 'brand guideline' gibi bir ifade de yer alabilir. Yayınevi logosu, marka kitabının bir parçası değildir, çünkü bu kitap genellikle kurumun kendisi tarafından yayınlanır."
+    },
+    {
+        "SoruID": 389254,
+        "Aciklama": "Misyon, bir markanın varoluş amacını, tutkuyla yaptığı işi, temel değerlerini, uzun vadeli hedeflerini ve topluma olan taahhütlerini ifade eder. Marka stratejisinin temelini oluşturur ve tüm faaliyetlerini yönlendirir."
+    },
+    {
+        "SoruID": 389259,
+        "Aciklama": "Başarılı sloganlar; kısa, akılda kalıcı, kolay tekrar edilebilir, farklı medya ortamlarına uyarlanabilir ve markanın farklılıklarını vurgular niteliktedir. Marka sloganı, marka ismi gibi kalıcı olmak zorunda değildir; dönemsel kampanyalar veya markanın stratejik değişimlerine bağlı olarak yenilenebilir."
+    },
+    {
+        "SoruID": 389262,
+        "Aciklama": "Marka konumlandırma, markanın hedef kitleye sunacakları ve bunu yaparken oluşturmak istediği imajın tasarlanmasına ilişkin çalışmalardır. Tüketicinin zihninde markanın rakiplerine göre nerede durduğunu belirler."
+    },
+    {
+        "SoruID": 389268,
+        "Aciklama": "Marka sesi (tone of brand voice), markanın müşterileri ile iletişim kurma tarzını tanımlayan bir sıfattır. Markanın yazılı ve sözlü iletişiminde kullanacağı dilin karakterini (örneğin samimi, resmi, esprili) belirler."
+    },
+    {
+        "SoruID": 386695,
+        "Aciklama": "Marka iletişimi, bir markanın hedef kitlesiyle bağ kurmasını sağlayan tüm faaliyetleri kapsar. Bu süreçte ürün, hedef kitle, kullanılan reklamlar ve müşteri memnuniyeti gibi unsurlar kritik öneme sahiptir. Firmanın yıllık kâr oranı ise bu iletişimin bir sonucudur, doğrudan bir iletişim unsuru değildir."
+    },
+    {
+        "SoruID": 386698,
+        "Aciklama": "Bütçe hazırlamak, bir tanıtım programını uygulamanın ne kadara mal olacağını öğrenmek ve belirli bir bütçeyle ne tür programların uygulanabileceğini belirlemek için gereklidir. Bu, kampanya planlamasının ve yönetiminin en önemli parçalarından biridir."
+    },
+    {
+        "SoruID": 386699,
+        "Aciklama": "Medya planlama, bir markanın hedef kitlesine en uygun maliyetle ve en etkili şekilde ulaşmasını sağlamayı hedefler. Bu süreçte markanın rakiplerinden farklılaşması ve hedef kitlenin ürünle ilişkisi gibi stratejik konular önemlidir. Markayı benzer markalarla aynı düzeye taşımak ise farklılaşma amacının tersidir."
+    },
+    {
+        "SoruID": 386702,
+        "Aciklama": "Medya planlaması yapılırken hedef kitlenin yaşı, cinsiyeti, gelir düzeyi gibi demografik özellikleri ile sosyal yapısı ve kişisel yatkınlıkları gibi psikografik özellikleri de değerlendirilir. Hedef kitlenin fiziksel özellikleri (boy, kilo vb.) genellikle medya planlaması için bir kriter değildir."
+    },
+    {
+        "SoruID": 386703,
+        "Aciklama": "Bir iletişim kampanyasının prodüksiyonu; planlama, tasarım, hazırlık, çekim ve yapım sonrası süreçleri içerir. Bu aşamalar, teknik ve yaratıcı destek sağlayan profesyonel bir ekip tarafından yönetilmelidir."
+    },
+    {
+        "SoruID": 386706,
+        "Aciklama": "Marka performansı, bir şirketin pazardaki marka gücünü temsil eder ve genellikle pazar payı, büyüme oranı, kârlılık gibi kavramları içerir. Bu, genel iş faaliyetlerinin ve stratejilerinin önemli bir sonucu olarak kabul edilir."
+    },
+    {
+        "SoruID": 386707,
+        "Aciklama": "Marka iletişimi kampanyasında bütçeleme, kampanyanın en başında yapılan ve tüm süreci şekillendiren bir planlamadır. Kampanya sonunda yapılması, harcamaların kontrolsüz olmasına neden olur. Diğer seçenekler kampanya sürecinin doğru özellikleridir."
+    },
+    {
+        "SoruID": 386709,
+        "Aciklama": "Marka iletişim araçları; direkt iletişim kanalları (marka çalışanları, kullanıcıları) ve medya araçları (görsel, işitsel, online) olarak gruplandırılır. Sanatsal sergi ve tiyatrolar, bir markanın sponsor olabileceği veya düzenleyebileceği etkinliklerdir, ancak temel bir iletişim aracı kategorisi değillerdir."
+    },
+    {
+        "SoruID": 386711,
+        "Aciklama": "Bir kampanya sürecinde, dağıtım bütçesi altında yer alan medya araçları arasında en yüksek maliyet genellikle televizyon ve sinema gibi mecralarda yayınlanan filmlere aittir. Diğer seçenekler (broşür, dergi, sosyal medya) daha düşük maliyetli iletişim araçlarıdır."
+    },
+    {
+        "SoruID": 386714,
+        "Aciklama": "Volkswagen'in 'Think Small' kampanyasının başarısı, dönemin büyük ve gösterişli Amerikan arabalarına karşı, ürünün küçük, yavaş ve çirkin gibi görünen zayıf özelliklerini dürüstçe kabul edip bunları park kolaylığı ve ekonomiklik gibi güçlü yönlere dönüştürmesidir."
+    },
+    {
+        "SoruID": 389270,
+        "Aciklama": "Marka iletişimi; insanların konular ve ürünler hakkında neye inandıkları, bu inanışların nasıl değiştirilebileceği ve bir ürünü satın almaya nasıl ikna edilebilecekleri ile ilgilenir. Dolayısıyla her üç öncül de marka iletişiminin temel konuları arasındadır."
+    },
+    {
+        "SoruID": 389280,
+        "Aciklama": "Performansa yönelik araştırma ve değerlendirmenin üç temel işlevi vardır: 1) Programın beklenen etki ve sonuçlarını belirlemek, 2) Kampanyanın neden ve nasıl işe yarayıp yaramadığını anlamak, 3) Gelecekteki faaliyetlerin planlanması için bilgi sağlamak."
+    },
+    {
+        "SoruID": 389282,
+        "Aciklama": "Reklam ve enformasyon araçlarının oluşturulması (yaratımı) için yapılan harcamalar; broşürler, yazılar, reklam mektupları, grafik/fotoğraflar, görsel-işitsel gösteriler ve filmleri kapsar. Pazar ve kamuoyu araştırmaları ise araştırma bütçesi kategorisine girer."
+    },
+    {
+        "SoruID": 389285,
+        "Aciklama": "Medya planlaması yapılırken, hedef kitlenin demografik özellikleri (yaş, cinsiyet), entelektüel yetenekleri, bilişsel yapıları ve sosyal gruplarla ilişkileri gibi tüm özellikleri değerlendirilmelidir. Kişisel eğilimleri ve zihinsel yetileri (bilişsel yapıları) dikkate almamak, mesajın hedefe ulaşmasını engelleyebilir."
+    },
+    {
+        "SoruID": 387571,
+        "Aciklama": "Marka stratejisi, pazarlama yönetiminin ayrılmaz bir parçasıdır ve uzun vadeli bir plandır. İyi uygulanmış bir strateji markanın değerini artırır. Bu nedenle 'marka stratejisi pazarlama yönetimine bağlı değildir' ifadesi yanlıştır."
+    },
+    {
+        "SoruID": 387572,
+        "Aciklama": "Marka konumlandırma, bir markanın hedef tüketicinin zihninde rakip markalara göre açık, belirgin, farklı ve arzu edilir değerli bir yer edinmesi olarak tanımlanır."
+    },
+    {
+        "SoruID": 387573,
+        "Aciklama": "Blankson ve Kalafatis'in konumlandırma stratejileri; kategori liderliği, hizmet kalitesi, fiyat-değer, güvenilirlik, çekicilik, ülke menşei, marka ismi ve sosyal sınıf gibi başlıkları içerir. 'Rakibe göre konumlandırma' ise Aaker ve Shansby'nin sınıflandırmasında yer alır."
+    },
+    {
+        "SoruID": 387574,
+        "Aciklama": "Attia ve Hooley'in çalışmasına göre konumlandırma stratejileri; kalite odaklı, fiyat odaklı ve inovasyon odaklı rekabetçi konumlandırma olarak sıralanmıştır. Diğer seçenekler farklı araştırmacıların sınıflandırmalarında yer almaktadır."
+    },
+    {
+        "SoruID": 387575,
+        "Aciklama": "Marka sponsorluğu (markanın kime ait olduğu) dört seçeneğe ayrılır: üretici markası, perakendeci markası (özel marka), lisans verme ve ortak markalama. 'Jenerik marka' ise bir marka adı türüdür, sponsorluk çeşidi değildir."
+    },
+    {
+        "SoruID": 387576,
+        "Aciklama": "İyi bir marka adı seçilirken; tescile uygun, olumlu imaj yaratan, genişletilebilir ve ürün kalitesini yansıtan bir isim olmalıdır. Saldırgan, kışkırtıcı ve argo kelimeler içeren ifadelerden ise kaçınılmalıdır."
+    },
+    {
+        "SoruID": 387577,
+        "Aciklama": "Yeni marka yaratma stratejisi, en yüksek riski taşıyan stratejidir çünkü her şey sıfırdan oluşturulur. Ancak başarılı olunduğu takdirde, işletme için büyük gelir sağlama potansiyeli vardır. Diğer seçenekler genellikle hat veya marka genişlemesi stratejilerinin üstün yönleridir."
+    },
+    {
+        "SoruID": 387578,
+        "Aciklama": "Çoklu marka yaratma stratejisi, bir işletmenin aynı pazarda ve aynı ürün kategorisinde birden fazla marka yaratarak farklı pazar segmentlerine hitap etmesi ve toplam pazar payını artırmasıdır."
+    },
+    {
+        "SoruID": 387579,
+        "Aciklama": "Bütünleştirici ürün grubu adı stratejisinin üstün yönleri; yeni ürünlerin pazarda daha kolay tutunması, daha az yatırım gerektirmesi ve kurum imajından yararlanmasıdır. Ancak zayıf yönü, markaya uymayan bir ürün piyasaya sürüldüğünde hedef kitlenin kafasının karışması ve marka imajının zarar görme riskidir."
+    },
+    {
+        "SoruID": 387580,
+        "Aciklama": "Başarılı bir marka iletişim stratejisi '7C' olarak bilinen yedi temel etkene dayanır: Açıklık (Clarity), Bağdaşma (Coherence), Tutarlılık (Consistency), Denetim (Control), Bağlılık (Commitment), Temas (Contact) ve Müşteri Güdümlü Olmak (Customer-driven). 'Karşıtlık (Contrast)' bir tasarım ilkesidir, bu yedi etkenden biri değildir."
+    },
+    {
+        "SoruID": 390125,
+        "Aciklama": "Aaker ve Shansby'nin konumlandırma stratejileri; ürün özelliğine, fiyat-kalite ilişkisine, kullanıma, kullanıcıya, ürün kategorisine ve rakibe göre konumlandırmayı içerir. 'Faydaya göre konumlandırma' ise Hooley, Broderick ve Möller'in sınıflandırmasında yer alır."
+    },
+    {
+        "SoruID": 390128,
+        "Aciklama": "Bir işletmenin pazara yeni bir ürün sunduğunda kullanabileceği dört marka geliştirme stratejisi vardır: dizi/hat genişlemesi, marka genişlemesi, çoklu marka yaratma ve yeni marka yaratma. 'Farklılaştırıcı marka yaratma' bu dört temel stratejiden biri değildir."
+    },
+    {
+        "SoruID": 390131,
+        "Aciklama": "Marka genişlemesi (brand stretching), bir işletmenin mevcut ürünlerinden tamamen farklı kategorilerde olan yeni ürünler yaratmak için mevcut ve tanınan markasını kullanması stratejisidir."
+    },
+    {
+        "SoruID": 386716,
+        "Aciklama": "Marka kişiliği; marka imajı oluşturma, marka değeri yaratma ve farklılaşma sağlama gibi işlevlere sahiptir. Ayrıca reklamlar ve ambalaj tasarımı gibi iletişim çabalarını yönlendirir. Ancak 'sektör araştırması', marka yönetimi sürecinin ilk adımıdır ve marka kişiliğinin doğrudan bir işlevi değildir."
+    },
+    {
+        "SoruID": 386718,
+        "Aciklama": "Mark ve Pearson tarafından geliştirilen Arketipsel Marka Modeli, ünlü psikanalist Carl Gustav Jung'un kolektif bilinçdışı ve arketip yaklaşımını temel almıştır."
+    },
+    {
+        "SoruID": 386720,
+        "Aciklama": "Mark ve Pearson'ın modelinde dört temel motivasyon bulunur. 'Aidiyet/Zevk' motivasyonu ile ilişkilendirilen arketipler; Soytarı, Sıradan Adam/Kadın ve Aşık'tır."
+    },
+    {
+        "SoruID": 386721,
+        "Aciklama": "Marka kişiliği, 'bir markanın temel ve fonksiyonel özelliklerinin ötesinde o markaya atfedilen insani nitelikler ile tüketicilerin bu nitelikleri algılayışları ve bunlara verdikleri tepkiler bütünü' olarak tanımlanır."
+    },
+    {
+        "SoruID": 386723,
+        "Aciklama": "Kahraman arketipinin temel amacı, sahip olduğu yetenekleri ve cesareti dünyayı daha iyi bir yer haline getirmek için kullanmaktır. Bu arketip, büyük bir meydan okumanın üstesinden gelerek çevresine ilham verir."
+    },
+    {
+        "SoruID": 386725,
+        "Aciklama": "Aşık arketipinin temel arzusu; romantik, tutkulu ve içten bir aşk deneyimi olan yakınlık, duygusal ve tensel zevktir. Bu arketip fark edilmek, sevilmek ve özel hissetmek ister."
+    },
+    {
+        "SoruID": 386726,
+        "Aciklama": "Yaratıcı arketipini kullanan markalar arasında Apple, Swatch, Lego ve M.A.C. gibi yenilikçi ve kendini ifade etmeyi teşvik eden markalar bulunur. Vakko ise genellikle 'Kral/Hükümdar' arketipiyle ilişkilendirilir ve prestij, güç gibi değerleri temsil eder."
+    },
+    {
+        "SoruID": 386728,
+        "Aciklama": "Asi arketipi, kanun dışı tavrıyla hakim düzenin sorgulanmasını ve işlemeyen normların değiştirilmesi için eyleme geçilmesini teşvik eder. Derin bir değer sistemine sahip olması, ona çoğunluğa karşı durma cesareti verir."
+    },
+    {
+        "SoruID": 386730,
+        "Aciklama": "Aşık arketipi; sevgi, arkadaşlık ve yakınlık arayan tüketicilere hitap eder ve genellikle güzellik, iletişim gibi temaları işleyen markalar için uygundur. 'Eğlenceyi seven ya da serbestliği savunan markaların organizasyon kültürüne katkı sağlamak' ise daha çok Soytarı/Şakacı arketipinin bir özelliğidir."
+    },
+    {
+        "SoruID": 386732,
+        "Aciklama": "Soytarı/Şakacı arketipinin suretleri (görünümleri) arasında; soytarı, şakacı, meddah, joker, palyaço, komedyen, oyuncu ve budala gibi eğlence ve mizahla ilişkili karakterler bulunur. 'Hayran' ise Aşık arketipinin suretlerinden biridir."
+    },
+    {
+        "SoruID": 389287,
+        "Aciklama": "Mark ve Pearson, arketip modelindeki dört temel motivasyonu belirlerken Abraham Maslow gibi önemli motivasyon psikologlarının yanı sıra Eric Erickson, Robert Kegan ve Ken Wilbur'un çalışmalarından da yola çıkmışlardır."
+    },
+    {
+        "SoruID": 389296,
+        "Aciklama": "Bakıcı arketipi, kendisinden önce korunmaya muhtaç olanları düşünen, şefkatli ve fedakâr bir karakteri temsil eder. Nivea, Unicef, TOMS ve P&G gibi markalar bu arketipi kullanır. Patagonia ise genellikle 'Kaşif' ve 'Asi' arketipleriyle ilişkilendirilir ve çevre duyarlılığı ile macera ruhunu vurgular."
+    },
+    {
+        "SoruID": 389300,
+        "Aciklama": "Kâşif arketipi; özgür, öncü, doğada, yolda veya tehlikeli ortamlarda bulunabilen, sağlam ve dayanıklı hissettiren markalar ve ürünler için uygundur. Bu arketip, rutinden kaçıp yeni dünyalar deneyimleme arzusunu temsil eder."
+    },
+    {
+        "SoruID": 389302,
+        "Aciklama": "Yaratıcı arketipinin marka kişiliğine en önemli katkılarından biri, müşterilerin marka üzerinden kendilerini ifade etme şansı bulmalarıdır. Apple gibi markalar, kullanıcılarının yaratıcılığını teşvik eden ürünler sunarak bu bağı güçlendirir."
+    },
+    {
+        "SoruID": 389303,
+        "Aciklama": "Sıradan Adam/Kadın arketipi, yüksek fiyatlı ve lüks olarak küçük bir kesime hitap eden markalardan ayrışmak ve genele hitap eden mütevazı bir marka imajı yaratmak için uygun bir strateji sağlar. Herkes gibi olmanın erdemini ve ortak değerleri vurgular."
+    }
+]

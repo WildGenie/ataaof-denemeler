@@ -1,0 +1,942 @@
+[
+    {
+        "SoruID": 130742,
+        "Aciklama": "Yukarıdaki cümlede tanımı yapılan kavram <b>Masaüstü Yayıncılık (Desktop Publishing - DTP)</b>'tir. DTP, geleneksel matbaa süreçlerinin yerine geçen, <b>bilgisayar destekli programlar</b> aracılığıyla (InDesign, QuarkXPress vb.) görsel ve işitsel içeriklerin masa başında üretilmesini, sayfa düzenlemelerinin yapılmasını ve yayına hazırlanmasını sağlayan bir süreçtir."
+    },
+    {
+        "SoruID": 130754,
+        "Aciklama": "Bu ifade, yeni medyanın temel özelliklerinden biri olan <b>Eş Zamansızlık (Asenkronizasyon)</b> kavramına aittir. Geleneksel medya belirli gün ve saat kısıtlamalarına bağlıyken, yeni medyada kullanıcılar içeriklere <b>7/24</b> ulaşabilirler, bu da zaman kavramının ortadan kalktığı anlamına gelir."
+    },
+    {
+        "SoruID": 130766,
+        "Aciklama": "Masaüstü yayıncılık süreçleri genellikle <b>içerik girişi</b>, <b>tasarım ve mizanpaj</b>, <b>düzeltme (redaksiyon)</b> ve <b>baskı öncesi hazırlık</b> aşamalarından oluşur. Bu adımların dışında kalan (örneğin geleneksel matbaacılığa ait <b>manuel kalıp hazırlama</b> veya tamamen elektronik medyaya ait <b>yayın akışı planlama</b>) bir işlem bu süreçler arasında yer almaz."
+    },
+    {
+        "SoruID": 136808,
+        "Aciklama": "Bu ifade, yeni medyanın <b>Bireyselleşme</b> özelliğini tanımlar. Geleneksel medya kimliği belirsiz <b>yığınlara/kitlelere</b> hitap ederken, yeni medya kullanıcı verilerini kullanarak içerikleri <b>doğrudan bireylere özel</b> hale getirir ve hedefler."
+    },
+    {
+        "SoruID": 182665,
+        "Aciklama": "Yazı ve görsellerin bilgisayar aracılığıyla birleştirilerek profesyonelce sayfa düzenlemelerinin yapılması ve baskıya hazırlanması süreci <b>Masaüstü Yayıncılık (DTP)</b> olarak adlandırılır. DTP, yüksek kaliteli baskı materyallerini düşük maliyetle üretmeyi mümkün kılar."
+    },
+    {
+        "SoruID": 182666,
+        "Aciklama": "Masaüstü yayıncılık kavramı (Desktop Publishing), ilk olarak <b>1985</b> yılında Aldus Corporation'ın kurucusu olan <b>Paul Brainerd</b> tarafından kullanılmıştır. Bu, Apple Macintosh bilgisayarlarının ve PageMaker yazılımının piyasaya sürülmesiyle mümkün olmuştur."
+    },
+    {
+        "SoruID": 182667,
+        "Aciklama": "Geleneksel medya araçları radyo, televizyon, gazete, dergi ve sinema gibi belirli zaman dilimlerine ve tek yönlü iletişime dayalı platformlardır. <b>İnternet</b>, <b>sosyal medya</b> veya <b>web siteleri</b> gibi araçlar ise <b>yeni medya</b> araçlarıdır ve geleneksel medya araçlarından biri değildir."
+    },
+    {
+        "SoruID": 182668,
+        "Aciklama": "Farklı endüstrilerin (yayıncılık, basılı yayıncılık, telekomünikasyon ve elektronik teçhizatı) teknolojik gelişmeler sayesinde bir araya gelmesi ve ortak bir platformda hizmet sunması durumu <b>Yakınsama (Convergence)</b> olarak adlandırılır. Bu durum, yeni medyanın temelini oluşturur."
+    },
+    {
+        "SoruID": 182669,
+        "Aciklama": "Yeni medyanın geleneksel medyanın içinden, mevcut yapıları dönüştürerek, yavaş ve aşamalı bir şekilde ortaya çıkması süreci <b>Medya Evrimi</b> veya <b>Metamorfoz</b> olarak adlandırılır. Bu, medyanın aniden devrimsel bir şekilde değil, zamanla gelişerek dönüştüğünü ifade eder."
+    },
+    {
+        "SoruID": 182670,
+        "Aciklama": "Yeni medyanın sunduğu avantajlar arasında <b>etkileşim</b>, <b>7/24 erişim</b>, <b>kişiselleştirme</b> ve <b>düşük maliyetli üretim</b> yer alır. Eğer bir seçenek <b>Yayınların belirli bir zamana bağlı olması</b> veya <b>Tek yönlü iletişim</b> gibi geleneksel medya özelliklerini içeriyorsa, bu yeni medyanın avantajı değildir."
+    },
+    {
+        "SoruID": 182671,
+        "Aciklama": "Masaüstü yayıncılıkta kullanılan temel yazılımlar <b>sayfa mizanpajı</b> (Adobe InDesign, QuarkXPress), <b>görsel düzenleme</b> (Photoshop) ve <b>vektörel çizim</b> (Illustrator) programlarıdır. <b>MS Excel</b> veya bir <b>İşletim Sistemi</b> gibi doğrudan mizanpaj veya baskı hazırlığı yapmayan programlar DTP yazılımları arasında yer almaz."
+    },
+    {
+        "SoruID": 182672,
+        "Aciklama": "Masaüstü yayıncılığın aşamaları sırasıyla: <b>1. İçerik ve veri girişi</b> (Metin yazma, görsel tarama), <b>2. Tasarım ve mizanpaj</b> (Sayfa düzenlemesi), <b>3. Redaksiyon ve düzeltme</b> ve <b>4. Baskıya hazırlık ve çıktı</b> olarak sıralanır."
+    },
+    {
+        "SoruID": 182674,
+        "Aciklama": "Masaüstü yayıncılığın (özellikle dijital ortamda) getirdiği sorunlu alanlar genellikle <b>telif hakları ihlali</b>, <b>izinsiz çoğaltma</b> ve <b>profesyonel olmayan sonuçlar</b> (kalite düşüklüğü) gibi konulardır. <b>Düşük üretim maliyeti</b> ya da <b>hızlı geri dönüş süresi</b> gibi avantajlar sorunlu alanlar arasında yer almaz."
+    },
+    {
+        "SoruID": 192761,
+        "Aciklama": "Cümlede tanımı yapılan kavram <b>Masaüstü Yayıncılık (DTP)</b>'tır. Bu kavram, her türlü basılı materyalin (gazete, dergi, kitap vb.) <b>bilgisayar ortamında tasarlanıp</b> yayıma hazırlanması ve çoğaltılması sürecini ifade eder."
+    },
+    {
+        "SoruID": 192766,
+        "Aciklama": "Bu cümle, yeni medyanın <b>Bireyselleşme</b> (veya kişiselleştirme) özelliğini açıklar. Geleneksel medya anonim kitlelere seslenirken, yeni medya teknolojileri sayesinde içerikler <b>doğrudan bireyin ilgi alanlarına göre</b> hedeflenir ve sunulur."
+    },
+    {
+        "SoruID": 192767,
+        "Aciklama": "Masaüstü yayıncılıkta bilgisayarlar, geleneksel yöntemlerde zorunlu olan <b>dizgi makineleri ve kalıp hazırlama</b> gibi yüksek maliyetli donanım ve işlemlere olan ihtiyacı ortadan kaldırır. Bu, özellikle <b>işgücü ve baskı öncesi hazırlık maliyetleri</b> açısından büyük bir tasarruf sağlar."
+    },
+    {
+        "SoruID": 192772,
+        "Aciklama": "İşletmeler açısından masaüstü yayıncılığın en büyük avantajı <b>maliyet etkinliği</b> ve <b>hız</b>dır. İşletmeler, pazarlama materyallerini, broşürlerini veya raporlarını dış kaynaklara bağımlı kalmadan <b>daha hızlı ve daha düşük maliyetle</b> dahili olarak üretebilirler."
+    },
+    {
+        "SoruID": 192773,
+        "Aciklama": "Masaüstü yayıncılık, üretim maliyetlerini düşürdüğü için, tüketiciler <b>daha düşük fiyatlarla</b> ve <b>daha geniş bir çeşitlilikte</b> yayınlara erişim imkanı bulurlar. Yayıncılığın demokratikleşmesi sayesinde niş (özel ilgi alanı) yayınlar da kolayca okuyucuya ulaşabilir."
+    },
+    {
+        "SoruID": 340599,
+        "Aciklama": "Masaüstü yayıncılık için gerekli temel araçlar <b>bilgisayar</b>, <b>DTP yazılımı</b> (mizanpaj programları) ve <b>çıktı/baskı cihazlarıdır</b> (yazıcı/tarayıcı). <b>Yüksek kapasiteli geleneksel matbaa makineleri</b> veya <b>analog kayıt teçhizatları</b> gibi DTP sürecinin kendisinin gerektirmediği, tamamen farklı bir amaca hizmet eden araçlar gerekli değildir."
+    },
+    {
+        "SoruID": 130816,
+        "Aciklama": "Boş bırakılan yere <b>Kinetik Tipografi</b> (Kinetic Typography) getirilmelidir. Kinetik Tipografi, yazı karakterlerinin, durağan bir düzlemde kalmak yerine, <b>çok boyutlu</b> veya <b>hareket hâlindeki bir düzleme</b> yerleştirilmesi ve bu hareketin tasarımsal bir öğe olarak kullanılması sanatıdır."
+    },
+    {
+        "SoruID": 130838,
+        "Aciklama": "Boş bırakılan yere <b>Pixel (Piksel)</b> getirilmelidir. <b>Pixel</b>, dijital göstergelerde (ekranlar ve dijital görüntülerde) görüntünün elde edilmesine olanak sağlayan ve bir grafik görüntüsünün oluşmasını sağlayan <b>en küçük temel nokta birimine</b> verilen isimdir."
+    },
+    {
+        "SoruID": 130844,
+        "Aciklama": "Pixel ile ilgili olarak yanlış olan ifade genellikle pikselin fiziksel boyutuyla ilgilidir. Piksel, dijital ortamda bir renk noktasıdır. Yanlış olan bilgi genellikle şöyledir: 'Pikselin fiziksel boyutu tüm ekranlarda sabittir.' Oysa <b>pikselin fiziksel boyutu</b>, kullanılan <b>ekranın çözünürlüğüne ve büyüklüğüne bağlı olarak değişir</b>."
+    },
+    {
+        "SoruID": 130858,
+        "Aciklama": "Renk kavramı algısal bir deneyimdir. Renk ile ilgili yanlış bir ifade genellikle rengin <b>mutlak, nesnel bir fiziksel gerçeklik</b> olduğunu iddia eden ifadelerdir. Oysa renk, ışık dalga boylarının göz retina tabakası tarafından algılanması ve <b>beyin tarafından yorumlanmasıyla</b> ortaya çıkan <b>algısal (subjektif) bir deneyimdir</b>."
+    },
+    {
+        "SoruID": 130891,
+        "Aciklama": "Yukarıdaki cümledeki boş bırakılan yere <b>Renk</b> kavramı getirilmelidir. Renk, ışığın nesneye çarpması, soğrulması (absorbe edilmesi) sonucunda geri yansıyan <b>değişik dalga boylarının</b> göz tarafından algılanıp <b>beyinde meydana gelen algı</b> olarak tanımlanır."
+    },
+    {
+        "SoruID": 183022,
+        "Aciklama": "Masaüstü yayıncılık (DTP), görsel ve metin tabanlı materyallerin basılı veya dijital ortam için hazırlanmasını kapsar. Temel kavramları <b>Mizanpaj</b>, <b>Tipografi</b>, <b>Vektör/Raster</b> ve <b>Renk Yönetimi</b>dir. Bu bağlamda, doğru cevabın masaüstü yayıncılıkla doğrudan ilgili olmayan bir kavram (örneğin 'Analog Akustik' veya 'Mikro İşlemci') olması gerekir. Örneğin: <b>Donanım Mimarisi</b> DTP'nin bir kavramı değildir."
+    },
+    {
+        "SoruID": 183023,
+        "Aciklama": "Dijital göstergelerde görüntünün elde edilmesini sağlayan en küçük yapı taşı <b>Pixel (Piksel)</b>'dir. Bir grafik görüntüsü, bu küçük noktaların (piksellerin) bir araya gelerek bir matris oluşturmasıyla meydana gelir."
+    },
+    {
+        "SoruID": 183024,
+        "Aciklama": "Tanımı yapılan baskı süreci <b>Serigrafi (İpek Baskı)</b> tekniğidir. Serigrafide, baskı mürekkebi ışığa duyarlı bir emülsiyonla hazırlanmış <b>belirli sıklıktaki eleğin gözeneklerinden</b> (açık kalmış kısımlarından) geçirilerek altındaki baskı yüzeyine aktarılır."
+    },
+    {
+        "SoruID": 183044,
+        "Aciklama": "Verilen özellikler, tasarımın temel öğelerinden biri olan <b>Çizgi</b>'ye aittir. Çizgi, sadece bir sınır belirlemekle kalmaz (böler, sınırlar), aynı zamanda görsel olarak bakış açısını <b>yönlendirir</b> ve tekrar eden kullanımıyla tasarım yüzeyine <b>ton ve ritm</b> (tekrarlama düzeni) verir."
+    },
+    {
+        "SoruID": 183045,
+        "Aciklama": "Baskı alanındaki ilk uygulamalar, tahta kalıp baskı teknikleri kullanılarak <b>Çin</b>'de (Tang Hanedanlığı döneminde) başlamıştır. Bu erken uygulamalar, modern matbaa tekniklerinin temelini atmıştır."
+    },
+    {
+        "SoruID": 183046,
+        "Aciklama": "Grafik tasarım yazılımları (Adobe Photoshop, Illustrator, CorelDraw vb.) görsel materyal oluşturmak ve düzenlemek için kullanılır. Eğer seçenekler arasında <b>Microsoft Excel</b> veya <b>SAP</b> gibi bir yazılım varsa, bu programlar grafik tasarım yazılımı <b>değildir</b>; bunlar genellikle hesaplama, veri yönetimi veya iş süreçleri için kullanılır."
+    },
+    {
+        "SoruID": 183047,
+        "Aciklama": "Bilgisayar tabanlı ilk animasyon stüdyosu, genellikle 1970'lerin ortalarında <b>Edwin Catmull</b> tarafından <b>New York Teknoloji Enstitüsü (NYIT)</b> bünyesinde kurulan laboratuvar (Computer Graphics Lab) olarak kabul edilir. Bu laboratuvar daha sonra Pixar'ın temellerini atmıştır."
+    },
+    {
+        "SoruID": 183048,
+        "Aciklama": "Ses tasarım yazılımları (Digital Audio Workstations - DAW), ses kaydı, düzenleme ve miksaj işlemleri için kullanılır. Bu tür yazılımlara örnek olarak <b>Adobe Audition</b>, <b>Pro Tools</b>, <b>Audacity</b> veya <b>Ableton Live</b> verilebilir."
+    },
+    {
+        "SoruID": 183049,
+        "Aciklama": "Fiziksel bir modelin veya objenin (insan vücudu dahil) geometrik verilerinin dijital ortama aktarılmasını sağlayan işleme <b>3D Tarama (3D Scanning)</b> denir. Bu yöntem, nesnenin yüzey verilerini yakalayarak üç boyutlu dijital modeller oluşturur."
+    },
+    {
+        "SoruID": 183050,
+        "Aciklama": "Mizanpaj, sayfa üzerindeki tüm görsel ve metinsel elemanların (başlık, gövde metni, görsel, boşluk) düzenlenmesi ve organize edilmesidir. Mizanpajla ilgili olmayan bir kavram, bu düzenlemeyle doğrudan ilişkili olmayan bir teknik veya teori olmalıdır (Örneğin: <b>Optik İletişim Protokolleri</b>)."
+    },
+    {
+        "SoruID": 192617,
+        "Aciklama": "Masaüstü yayıncılık (DTP), basılı veya dijital yayınların hazırlanması sürecidir. Bu süreçte kullanılan temel kavramlardan biri, metin ve görsel öğelerin sayfaya yerleştirilme düzeni olan <b>Mizanpaj (Layout)</b>'dır."
+    },
+    {
+        "SoruID": 192625,
+        "Aciklama": "Tasarımın ve özellikle <b>Grafik Tasarım</b> veya <b>İletişim Tasarımı</b>nın temel amacı, gönderilen <b>mesajın</b> alıcı tarafından <b>doğru, hızlı ve etkili bir şekilde algılanmasını</b> sağlamaktır. Tasarım, mesajın görselleştirilmesi ve kodlanması sürecidir."
+    },
+    {
+        "SoruID": 192650,
+        "Aciklama": "Animasyon tasarım yazılımları, hareketli grafikler ve karakter animasyonları oluşturmak için kullanılır. Bu tür yazılımlara örnek olarak, profesyonel 3D modelleme ve animasyon yazılımı olan <b>Autodesk Maya</b> veya 2D vektörel animasyon yazılımı olan <b>Adobe Animate</b> verilebilir."
+    },
+    {
+        "SoruID": 192651,
+        "Aciklama": "Kelime işlem programları (Word, Pages) metin üzerinde temel düzenleme ve en sade tasarımlara olanak tanır. <b>Adobe InDesign</b> veya <b>QuarkXPress</b> gibi programlar ise <b>Masaüstü Yayıncılık (DTP)</b> programlarıdır. Bunlar kelime işlemci değil, karmaşık sayfa ve kitap düzeni (mizanpaj) için tasarlanmış profesyonel araçlardır."
+    },
+    {
+        "SoruID": 192652,
+        "Aciklama": "Masaüstü yayıncılıkta kullanılan yazılım türleri; Görüntü Düzenleme (Raster), Vektörel Çizim ve Mizanpaj programlarıdır. Bu türlerin dışında kalan bir yazılım, DTP ile ilgili değildir. Örneğin: <b>Veritabanı Yönetim Sistemleri (DBMS)</b> veya <b>Muhasebe Yazılımları</b>, DTP yazılım türü değildir."
+    },
+    {
+        "SoruID": 340625,
+        "Aciklama": "Dijital göstergelerde ve grafik tasarımında görüntüyü oluşturan temel yapı taşı <b>Piksel</b>'dir. Piksel (Picture Element), bir görüntünün veya ekranın en küçük adreslenebilir birimidir. Tüm dijital görüntüler, renk ve parlaklık bilgisi taşıyan bu küçük kare birimlerin bir araya gelmesiyle oluşur. Bir dijital görüntünün <b>çözünürlüğü</b>, toplam piksel sayısıyla doğrudan ilişkilidir ve görüntü kalitesini belirleyen en önemli faktördür."
+    },
+    {
+        "SoruID": 340629,
+        "Aciklama": "Verilen seçeneklerin hepsi (I, II ve III) geleneksel ve yaygın olarak kullanılan temel baskı teknikleri sınıflamasına dahildir. Bu teknikler genellikle mürekkebi yüzeye aktarma yöntemine göre sınıflandırılır:<br>I. <b>Tipo (Yüksek) Baskı</b>: Baskı yapılacak alanın kabartmalı olduğu (yüksekte bulunduğu) baskı tekniğidir.<br>II. <b>Serigrafi (Elek) Baskı</b>: Mürekkebin özel bir elek (şablon) üzerinden geçirilerek yüzeye aktarıldığı <b>geçirgen baskı</b> tekniğidir.<br>III. <b>Ofset Baskı</b>: Günümüzde ticari matbaacılıkta en yaygın kullanılan, mürekkebin su ve yağın birbirini itme prensibine dayandığı <b>düz (planografik) baskı</b> tekniğidir. Bu nedenle her üç ifade de baskı tekniğidir."
+    },
+    {
+        "SoruID": 130658,
+        "Aciklama": "Yukarıdaki cümlede boş bırakılan yere getirilmesi gereken ifade <b>Stil Sayfaları</b>'dır (Style Sheets). Stil Sayfaları, yazı, resim ve başlık gibi belge unsurlarının görünümünü ve yerleşimini belirleyen ilkeler kümesidir. Bunların kullanımı, belgenin bütününde <b>tutarlılık</b> sağlar, iletimi kolaylaştırır ve hızlı biçimlendirme imkanı sunar."
+    },
+    {
+        "SoruID": 130695,
+        "Aciklama": "Tasarım raporundaki planların fiilen ürüne dönüştürüldüğü aşama <b>Uygulama</b> (Implementation) aşamasıdır. Masaüstü yayımcılık sürecinde bu aşama, tasarlanan düzenin bilgisayar ortamında yazılımlar kullanılarak (örneğin Adobe InDesign, QuarkXPress gibi) somutlaştırılmasını ve içeriğin yerleştirilmesini içerir. Bu, geliştirme sürecinin <b>üretim</b> merkezidir."
+    },
+    {
+        "SoruID": 136812,
+        "Aciklama": "Geliştirilmesi istenen sistemin ne yapması gerektiğini, kimin için yapılacağını ve hangi kısıtlamalara uyulacağını belirleme süreci <b>Analiz</b> aşamasına aittir. Masaüstü yayımcılıkta analiz, hedef kitle, içerik gereksinimleri, bütçe ve yayımlanacak materyalin amacının belirlenmesini kapsar. Bu aşama, başarılı bir projenin temelini oluşturur."
+    },
+    {
+        "SoruID": 183532,
+        "Aciklama": "Masaüstü yayımcılığın <b>Analiz</b> aşamasında yürütülen işlemler arasında <b>Hedef kitlenin ve içerik gereksinimlerinin belirlenmesi</b> yer alır. Bu aşamada tasarımcının, yayının amacını, kısıtlamalarını (bütçe, zaman, baskı türü) ve beklenen çıktı özelliklerini tam olarak anlaması gerekir. Örneğin, kağıt türüne karar vermek veya baskı maliyetini hesaplamak bu aşamadaki analizlere dayanır."
+    },
+    {
+        "SoruID": 183534,
+        "Aciklama": "Metne yönelik biçimlendirme işlemleri, karakterin (punto, font, stil) veya paragrafın (hizalama, satır aralığı) görünüşünü etkileyen işlemlerdir. Sayfa kenar boşluklarının ayarlanması veya resimlerin kırpılması gibi işlemler ise <b>sayfa düzeni</b> (layout) veya görsel düzenleme işlemleri olup, doğrudan metne yönelik bir biçimlendirme işlemi <u>değildir</u>."
+    },
+    {
+        "SoruID": 183537,
+        "Aciklama": "Basılı materyallerde maliyeti en aza indirmek için tercih edilmesi gereken renk seçeneği <b>Siyah Beyaz</b> baskıdır (monokrom). Renkli (özellikle CMYK 4 renkli) baskı makineleri ve mürekkep/toner maliyetleri çok daha yüksektir. <b>Tek renkli</b> (sadece siyah) baskı, en uygun maliyetli çözümdür, çünkü yalnızca bir kalıp kullanılır ve mürekkep tüketimi minimumdur."
+    },
+    {
+        "SoruID": 183538,
+        "Aciklama": "Masaüstü yayımcılıkta materyalin baskıya verilmeden önce yapılan son teknik kontrol ve düzeltme işlemine <b>Baskı Öncesi Hazırlık</b> (Prepress) ya da daha spesifik olarak <b>Son Kontrol/Tashih</b> adı verilir. Bu işlem, renk ayarlarının, çözünürlüğün, font gömülmelerinin ve mizanpaj hatalarının son kez kontrol edilmesini ve baskı makinesine uygun dosya formatının hazırlanmasını içerir."
+    },
+    {
+        "SoruID": 183539,
+        "Aciklama": "Masaüstü yayımcılık tasarımcılarının sahip olması gereken temel yeterlilikler arasında <b>görsel tasarım ilkeleri bilgisi</b>, tipografi yeteneği ve ilgili yazılımları (örneğin sayfa düzenleme programları) kullanma becerisi yer alır. Ancak <b>Büyük veri tabanı yönetimi</b> veya sunucu kurulumu gibi sistem mühendisliği alanına giren beceriler, temel masaüstü yayımcılık tasarımcısının yeterlilikleri arasında <u>değildir</u>."
+    },
+    {
+        "SoruID": 183540,
+        "Aciklama": "Masaüstü yayımcılık geliştirme sürecinin tasarım aşaması; mizanpaj planı oluşturma, görsel hiyerarşiyi belirleme, renk ve font seçimlerini yapma gibi işlemleri içerir. Ancak <b>İçeriğin yazılması ve toplanması</b> genellikle analizi takip eden içerik hazırlık/uygulama aşamasının başlangıcına denk gelir ve temel tasarım adımlarından <u>değildir</u>; tasarım, bu içeriğin nasıl sunulacağına odaklanır."
+    },
+    {
+        "SoruID": 183549,
+        "Aciklama": "Baskı ve sonlandırma işlemleri, materyalin fiziksel olarak çoğaltılması ve kullanıma hazır hale getirilmesini içerir. Bu süreçte kağıt seçimi, ciltleme, katlama ve kesme (<b>sonlandırma</b>) gibi işlemler önemlidir. <b>Müşteri ihtiyaç analiz raporu oluşturmak</b> ise sistem geliştirme sürecinin en başındaki <b>analiz</b> aşamasında gerçekleştirilen bir eylemdir ve baskı/sonlandırma işlemlerinde göz önünde bulundurulması gereken temel işlemlerden <u>değildir</u>."
+    },
+    {
+        "SoruID": 183552,
+        "Aciklama": "Standart Sistem Geliştirme Yaklaşımı'ndaki 'Kullanım ve Bakım' (Maintenance) aşaması, Masaüstü Yayımcılık geliştirme sürecinde <b>Değerlendirme ve Geri Bildirim</b> basamağı ile ilişkilendirilir. Bu aşamada yayımlanan ürünün başarısı ölçülür, kullanıcı geri bildirimleri toplanır ve gelecekteki revizyonlar veya düzeltmeler (<b>bakım</b>) için planlama yapılır."
+    },
+    {
+        "SoruID": 183553,
+        "Aciklama": "Dijital yayımlarda tarayıcıdan kaynaklı renk farklılıklarını en aza indirmek ve renklerin olabildiğince doğru gösterilmesini sağlamak için <b>24 bitlik</b> renk kodları kullanılmalıdır. 24 bit, yaklaşık 16.7 milyon farklı rengi temsil eder (<b>True Color</b>) ve insan gözünün ayırt edebileceği renklerin büyük çoğunluğunu kapsar, bu da renk sapmalarını azaltır ve profesyonel görüntü kalitesi sunar."
+    },
+    {
+        "SoruID": 192799,
+        "Aciklama": "Belge oluşturma aşamaları, tipik olarak içeriğin girilmesi, biçimlendirilmesi, mizanpajın yapılması ve nihai kontrolü içerir. Ancak <b>Bütçeleme ve planlama</b> işlemleri, belgenin oluşturulmasından önceki analiz ve tasarım aşamalarında tamamlanır ve doğrudan belge oluşturma sürecinin bir adımı <u>değildir</u>."
+    },
+    {
+        "SoruID": 192805,
+        "Aciklama": "Önceden oluşturulmuş şablonların temel faydaları arasında <b>zamandan tasarruf</b>, <b>tutarlılığın sağlanması</b> (marka kimliği ve kurumsal görsellik açısından) ve kullanım kolaylığı bulunur. Ancak şablonlar, zaten belirlenmiş bir yapı ve düzen sunduğu için, <b>özgünlüğü ve yaratıcılığı arttırma</b> yerine, genellikle bunu sınırlar. Özgünlük, sıfırdan tasarım yapmayı gerektirir."
+    },
+    {
+        "SoruID": 340663,
+        "Aciklama": "Masaüstü yayımcılık sürecinde belge (materyal) oluşturulduktan (Uygulama aşaması) sonraki aşama, materyalin baskıya hazırlanması ve son kontrollerin yapıldığı <b>Baskı Öncesi Hazırlık</b> aşamasıdır. Bu aşamada dosya formatı, çözünürlük ve renk modları baskı makinesine uygun hale getirilir."
+    },
+    {
+        "SoruID": 341106,
+        "Aciklama": "Masaüstü yayımcılık geliştirme süreci, standart sistem geliştirme döngüsüne paralel olarak ilerler. Doğru sıra şöyledir: <br>1. <b>Analiz</b> (İhtiyaç belirleme)<br>2. <b>Tasarım</b> (Mizanpaj ve görsel planlama)<br>3. <b>Uygulama</b> (Belge oluşturma)<br>4. <b>Değerlendirme</b> (Test etme ve kontrol etme). Bu döngü, projenin başarılı ve sistematik bir şekilde tamamlanmasını sağlar."
+    },
+    {
+        "SoruID": 342340,
+        "Aciklama": "Masaüstü yayımcılık geliştirme sürecinin tasarım aşamasında görev alan kişilerin yaratıcılık, görsel hiyerarşi bilgisi, tipografi ve renk teorisi bilgisine sahip olması beklenir. Ancak <b>Donanım arızalarını gidermek</b>, tasarımcıların değil, teknik destek veya sistem yöneticilerinin sahip olması gereken bir yeterliliktir ve tasarım aşamasının gerekliliklerinden <u>değildir</u>."
+    },
+    {
+        "SoruID": 132121,
+        "Aciklama": "Boş bırakılan yere getirilmesi gereken kelime <b>Hizalama</b>'dır. Hizalama, <b>metinsel unsurların</b> sayfa sınırlarına, şekillere, resimlere veya tablo gibi diğer yayın unsurlarına göre <b>konumlandırılmasını</b> ve düzenlenmesini ifade eder. Bu, metnin sayfa üzerindeki estetik ve okunabilirlik açısından kritik bir özelliğidir."
+    },
+    {
+        "SoruID": 136889,
+        "Aciklama": "Listelenen yazı tiplerinin tamamı (I. Times New Roman, II. Bookman Old Style, III. Cambria, IV. Garamond) <b>Serif</b> (tırnaklı) yazı tipi kategorisinde yer alır. Serif yazı tipleri, harflerin uçlarında küçük <b>tırnak benzeri çıkıntılar</b> bulunmasıyla karakterize edilir ve genellikle basılı materyallerde ve uzun metinlerde okunabilirliği artırmak için kullanılır."
+    },
+    {
+        "SoruID": 136898,
+        "Aciklama": "I. Arial, II. Calibri ve IV. Comic Sans, <b>Sans Serif</b> (tırnaksız) yazı tipi kategorisinde yer alır. Bu fontlar, harflerin uçlarında tırnak bulunmamasıyla bilinir ve genellikle ekran okumaları, kısa metinler ve başlıklar için tercih edilir. (III. Lucida Bright ise tırnaklı/slab serif kategorisine yakındır, ancak genellikle soruda Sans Serif olarak kabul edilenler I, II ve IV'tür.)"
+    },
+    {
+        "SoruID": 136939,
+        "Aciklama": "Vurgulama için listelenen yöntemlerin tamamı kullanılabilir: I. Metnin puntosunu büyütme, II. Metnin altını çizme, III. Metni kalın yazma ve IV. Farklı renk kullanma. Vurgulama, okuyucunun dikkatini metnin <b>belirli bir bölümüne</b> çekmek amacıyla kullanılan <b>biçimlendirme teknikleridir</b>."
+    },
+    {
+        "SoruID": 183634,
+        "Aciklama": "Genellikle basılı ve uzun metinlerde kullanımı uygun olan yazı tipi <b>Serif</b> yazı tipidir (örn: Times New Roman, Garamond). Serif fontlar, harf uçlarındaki tırnaklar sayesinde okuyucunun gözünün bir kelimeden diğerine <b>daha kolay akmasını</b> sağlayarak uzun okumalarda daha az yorgunluğa neden olur."
+    },
+    {
+        "SoruID": 183635,
+        "Aciklama": "Harflerin uçlarında tırnak benzeri çıkıntıların yer aldığı yazı tipi kategorisi <b>Serif</b> olarak adlandırılır. Latince’de 'serif' kelimesi 'tırnak' anlamına gelmektedir ve bu çıkıntılar tipografik karakteristiği oluşturur."
+    },
+    {
+        "SoruID": 183636,
+        "Aciklama": "Arial, Verdana, Calibri, Century Gothic gibi fontların ait olduğu yazı tipi kategorisi <b>Sans Serif</b> (Tırnaksız) kategorisidir. Bu fontlar modern tasarımlarda, web sitelerinde ve başlıklarda tercih edilir."
+    },
+    {
+        "SoruID": 183637,
+        "Aciklama": "Genellikle alt alta gelmesi gereken rakamların olduğu çizelgelerde, sayısal işlemlerde ve kod yazarken tercih edilen yazı tipi kategorisi <b>Eşit Aralıklı (Monospace)</b> yazı tipidir. Bu fontlarda her karakter (harf, rakam, boşluk) aynı genişliği kaplar, bu da dikey hizalamayı kolaylaştırır."
+    },
+    {
+        "SoruID": 183638,
+        "Aciklama": "Times New Roman, Cambria, Georgia, Garamond gibi fontların ait olduğu yazı tipi kategorisi <b>Serif</b> (Tırnaklı) kategorisidir. Bu fontlar geleneksel ve resmi metinlerde yaygın olarak kullanılır."
+    },
+    {
+        "SoruID": 183639,
+        "Aciklama": "Metnin başlangıç ve bitiş noktalarının girinti çıkıntı olmadan aynı hizada olduğu (blok şeklinde) ancak bazı satırlarda kelimeler arasındaki düzensiz boşlukların olabildiği metin hizalama şekli <b>İki Yana Hizalama (Justify)</b> olarak adlandırılır. Bu yöntem, satır sonlarını eşitlerken bazen görsel olarak hoş olmayan boşluklar (ırmağa benzer akışlar) yaratabilir."
+    },
+    {
+        "SoruID": 183640,
+        "Aciklama": "Metin içinde yapılan vurgulamaların etkisini azaltan durum <b>aşırı vurgulama</b> yapılmasıdır. Bir metinde çok fazla yer kalın, altı çizili veya renkli olursa, okuyucu neyin gerçekten önemli olduğunu ayırt etmekte zorlanır ve <b>vurgu amacını kaybeder</b>."
+    },
+    {
+        "SoruID": 183641,
+        "Aciklama": "Okunabilirliği en çok düşüren renk kombinasyonu, metin rengi ile arka plan rengi arasında <b>düşük kontrast</b> bulunan kombinasyonlardır (örneğin, açık sarı zemin üzerine beyaz veya açık gri yazı). Yüksek okunabilirlik için <b>yüksek kontrast</b> (örneğin siyah üzerine beyaz veya koyu üzerine açık renk) gereklidir."
+    },
+    {
+        "SoruID": 192810,
+        "Aciklama": "Yazıyı oluşturan unsurların her bir bölümüne (harf, rakam, noktalama işareti) <b>Glif</b> veya daha genel olarak <b>Karakter</b> adı verilir. Glif, bir karakterin belirli bir yazı tipindeki görsel temsilidir."
+    },
+    {
+        "SoruID": 192811,
+        "Aciklama": "Yazı tipi (font), punto (boyut), renk ve hizalama metinsel özelliklerdir. Ancak <b>Resim</b>, <b>Grafik</b> veya <b>SmartArt</b> gibi görsel unsurlar metinsel bir özellik değildir, bunlar metin tasarımını tamamlayıcı öğelerdir."
+    },
+    {
+        "SoruID": 192813,
+        "Aciklama": "Metinlerde her bir satırın başlangıç ve bitiş noktalarının dağınık hâlde olduğu, yani satır uzunluklarının değişkenlik gösterdiği metin hizalama türü, genellikle metnin <b>Ortalama Hizalanması</b> veya <b>Sola Hizalanması</b> (sağ kenarın dağınık olduğu) durumunda görülür. En dağınık görünüm ise Ortalama Hizalama ile elde edilir."
+    },
+    {
+        "SoruID": 192815,
+        "Aciklama": "Metin tasarımını tamamlayıcı unsurlar genellikle metin dışındaki görsel öğelerdir (Tablolar, Grafikler, Şekiller, SmartArt). <b>Yazı Tipi Boyutu (Punto)</b> ise metnin temel biçim özelliklerinden biridir ve genellikle tamamlayıcı unsurdan ziyade ana özellik olarak kabul edilir."
+    },
+    {
+        "SoruID": 192816,
+        "Aciklama": "Kesintisiz bir süreci, aşamaların birbirini takip ettiği sürekli bir akışı göstermek için kullanılan SmartArt grafik türü <b>Döngü (Cycle)</b> grafikleridir. Bu grafikler, süreçlerin başlangıç ve bitiş noktalarının birleştiği tekrarlayan yapıları temsil eder."
+    },
+    {
+        "SoruID": 340679,
+        "Aciklama": "Metinlerde kullanılan yazı tipi boyutuyla ilgili en önemli özellik <b>Okunabilirlik</b>'tir. Punto boyutu, okuyucunun metni rahatça, göz yorulmadan algılayabilmesini sağlayacak şekilde seçilmelidir. Genellikle 10-12 punto arası standart okuma için uygundur."
+    },
+    {
+        "SoruID": 341110,
+        "Aciklama": "Metin tasarımını tamamlayıcı bileşenler (görsel destekler) genellikle Grafikler, SmartArt ve Tablolardır. <b>Satır Aralığı</b> veya <b>Harf Aralığı</b> ise metnin temel tipografik biçimlendirme ayarıdır ve doğrudan 'tamamlayıcı bileşen' olarak nitelendirilmez."
+    },
+    {
+        "SoruID": 342342,
+        "Aciklama": "Metinde vurgulama yapmak için kullanılan yöntemler arasında I. Metnin puntosunu büyütme, II. Altını çizme ve III. Kalın yazma yer alır. Bu yöntemlerin tümü, metnin ilgili kısımlarına <b>dikkat çekmek</b> ve <b>önemini belirtmek</b> için kullanılır."
+    },
+    {
+        "SoruID": 130813,
+        "Aciklama": "Broşür tasarımı hakkında yanlış olan bir ifade, genellikle broşürün amacına aykırı, okuyucuyu yoran veya mesajı bulandıran bir uygulama ile ilgilidir. Doğru bir broşür tasarımı, <b>hedef kitleye uygun olmalı</b>, <b>görsel dengeyi sağlamalı</b> ve bilgiyi net iletmelidir. Örneğin, \"Tasarım karmaşık görsellerle doldurulmalıdır\" ifadesi doğru değildir, çünkü tasarımın <b>sade ve anlaşılır</b> olması esastır."
+    },
+    {
+        "SoruID": 130852,
+        "Aciklama": "Broşürlerde tasarım özelliklerine yönelik dikkat edilmesi gerekenler arasında <b>görsel hiyerarşi</b>, <b>okunabilir fontlar</b>, <b>yüksek kaliteli görseller</b> ve <b>tutarlı renk paleti</b> kullanımı yer alır. Dikkat edilmesi gerekenler arasında yer almayacak bir durum, genellikle maliyetle ilgili gereksiz kısıtlamalar veya tasarımın amacından uzaklaşan kurallar olabilir. Örneğin, \"Broşürün maliyetini artırmak için düşük kaliteli kağıt seçilmesi\" tasarım özelliklerine yönelik bir dikkat noktası değildir; aksine kaliteden ödün vermemeye dikkat edilmelidir."
+    },
+    {
+        "SoruID": 136957,
+        "Aciklama": "Cümlede boş bırakılan yere <b>Broşür</b> kelimesi getirilmelidir. Broşür, dikkat çekici tasarımlara sahip olan, ürün, hizmet, etkinlik veya firmaların <b>tanıtımını yapmak</b> ve detaylı bilgi vermek için kullanılan, genellikle bir veya birden fazla katlanmış <b>basılı materyaldir</b>."
+    },
+    {
+        "SoruID": 183795,
+        "Aciklama": "Broşürlerin temel kullanım amaçları <b>bilgi vermek</b>, <b>ürün veya hizmet tanıtımı yapmak</b>, <b>reklam yapmak</b> ve <b>kurumsal imajı güçlendirmektir</b>. Amaçlardan biri olmayan ifade, genellikle broşürün yapısıyla veya etik kurallarla çelişen bir faaliyettir. Örneğin, \"Kapsamlı hukuki taahhütler vermek\" veya \"detaylı finansal raporlama yapmak\" broşürlerin ana kullanım amacı değildir."
+    },
+    {
+        "SoruID": 183796,
+        "Aciklama": "Broşürler, katlanma şekillerine göre farklı türlere ayrılır. Tek sayfa olarak tasarlanan ve genellikle hızlı dağıtım amacıyla kullanılan tür, eğer katlama içermiyorsa <b>Flyer</b> (El İlanı) olarak adlandırılır. Eğer seçenekler sadece broşür türlerini içeriyorsa, bu 'Tek Yapraklı Broşür' veya 'Katlanmamış Broşür' olabilir. Temel özelliği, tek bir sayfa üzerine basılması ve katlama çizgisi içermemesidir."
+    },
+    {
+        "SoruID": 183840,
+        "Aciklama": "Broşür tasarımında dikkat edilmesi gereken özellikler arasında <b>okunabilir tipografi</b>, <b>iyi düzenlenmiş içerik</b>, <b>çekici görseller</b> ve <b>açıkça belirtilmiş bir eylem çağrısı</b> (Call to Action) bulunur. Dikkat edilmemesi gereken veya hatalı olan bir özellik, örneğin, \"Tüm metni aşırı teknik terimlerle doldurmak\" olabilir; zira broşürler anlaşılır ve ulaşılabilir olmalıdır."
+    },
+    {
+        "SoruID": 183844,
+        "Aciklama": "<b>Microsoft Publisher 2016</b>, masaüstü yayıncılık (DTP) yazılımıdır ve <b>broşürler, el ilanları, bültenler, kartvizitler ve tebrik kartları</b> gibi basılı materyalleri hazırlamak için kullanılır. Bu materyallerden biri olmayan genellikle, Office paketinin diğer programlarına ait temel çıktılardır (örneğin, Powerpoint sunum dosyaları ya da Excel hesap tabloları). Publisher <b>karmaşık veri analizi tabloları</b> hazırlamak için tasarlanmamıştır."
+    },
+    {
+        "SoruID": 183845,
+        "Aciklama": "Publisher 2016 çalışma ortamındaki <b>Başlık Çubuğu</b>, pencerenin en üst kısmında bulunur ve temel işlevi, o anda açık olan <b>yayının dosya adını</b> ve kullanılan <b>uygulamanın adını</b> (Microsoft Publisher) göstermektir. Aynı zamanda pencereyi yönetmeye yarayan kapatma, büyütme ve küçültme düğmelerini de içerir."
+    },
+    {
+        "SoruID": 183846,
+        "Aciklama": "Publisher 2016 programı <b>Giriş</b> (Home) sekmesi, temel düzenleme işlevlerini içerir. Bu sekmelerde yer alan gruplar: <b>Pano</b> (Kes, Kopyala, Yapıştır), <b>Yazı Tipi</b> (Font), <b>Paragraf</b> (Hizalama, Liste işaretleri), <b>Nesneler</b> (Resim, Metin Kutusu Ekle) ve <b>Düzenleme</b> gruplarıdır."
+    },
+    {
+        "SoruID": 183847,
+        "Aciklama": "Publisher 2016'da broşür yayını oluşturmak için izlenen adımlar şunlardır: Öncelikle <b>Dosya</b> sekmesine tıklanır, ardından <b>Yeni</b> seçeneği seçilir, açılan menüden <b>Broşür şablonları</b> kategori olarak seçilir, istenen şablon belirlenir ve son olarak <b>Oluştur</b> düğmesine tıklanarak çalışma başlatılır."
+    },
+    {
+        "SoruID": 183878,
+        "Aciklama": "Broşürün kapak sayfasında yer alması en uygun olan öğe, okuyucunun dikkatini ilk anda çekecek ve broşürün amacını özetleyecek unsurlardır. Bu nedenle <b>kurumun logosu</b>, <b>ana başlık</b> ve <b>çekici bir görsel</b> kapakta bulunmalıdır. Detaylı iletişim bilgileri veya fiyat listesi genellikle arka kapakta yer alır. Kapak, içeriğe dair güçlü ve hızlı bir ipucu vermelidir."
+    },
+    {
+        "SoruID": 183896,
+        "Aciklama": "Publisher 2016 programında broşürdeki yazım ve dilbilgisi hatalarını kontrol etmek için kullanılan işlev <b>Yazım Denetimi</b>'dir. Bu özellik, genellikle <b>Gözden Geçir</b> (Review) sekmesi altında yer alır ve yayınlanan materyalin hatasız olmasını sağlamak amacıyla kullanılır."
+    },
+    {
+        "SoruID": 183899,
+        "Aciklama": "Broşür uygulamasında (tasarım sürecinde) verilen adımların ilk aşaması, her zaman planlama ve hazırlık aşamasıdır. Bu aşamada <b>broşürün amacının belirlenmesi</b>, <b>hedef kitlenin analizi</b> ve <b>içerik için gerekli verilerin toplanması</b> yer alır. Publisher programında ise bu, <b>yeni bir yayın başlatmak</b> ve uygun bir şablon seçmek anlamına gelir."
+    },
+    {
+        "SoruID": 192961,
+        "Aciklama": "Publisher 2016 programında broşür yayınını yazdırmak için <b>Dosya</b> (File) sekmesi kullanılır. Dosya sekmesine tıklandığında açılan menüden <b>Yazdır</b> seçeneği seçilir ve bu alanda baskı ayarları, yazıcı seçimi, kopya sayısı ve kağıt yönlendirmesi gibi işlemler gerçekleştirilir."
+    },
+    {
+        "SoruID": 192962,
+        "Aciklama": "Broşür uygulamasının 2. aşaması genellikle tasarım ve içerik yerleşimi aşamasıdır. Bu aşamada tasarım öğeleri (renkler, fontlar, görseller) belirlenir. Bu aşamada <b>yapılmaz</b> olan bir işlem, genellikle planlama (1. aşama) ya da nihai çıktı (son aşama) ile ilgili bir eylemdir. Örneğin, \"Broşürün hedef kitleye dağıtımını organize etmek\" bu aşamada yapılmaz; bu, basım sonrası bir eylemdir. İkinci aşama, <b>yazı karakteri ve boyutunu ayarlamak</b> gibi görsel düzenlemeleri içerir."
+    },
+    {
+        "SoruID": 192963,
+        "Aciklama": "Microsoft Publisher 2016 programında <b>adres mektup birleştirme</b> (Mail Merge), <b>adres bloğu ekleme</b> ve <b>selamlama satırı</b> gibi alanları ekleme işlemleri <b>Postalar</b> (Mailings) sekmesinde yapılmaktadır. Bu sekme, toplu gönderimler için yayınları kişiselleştirmeye yarayan araçları barındırır."
+    },
+    {
+        "SoruID": 341111,
+        "Aciklama": "Broşürlerin kullanım amaçları arasında (I) <b>Kurum, kuruluş ya da birimlerin reklamlarını yapmak</b> ve (III) <b>Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programları ile bilgi vermek</b> yer alır. (II) 'Bir ürün veya hizmet satmaya zorlamak' broşürlerin amacı değildir, zira broşürler bilgilendirme yoluyla ilgi çekmeyi hedefler, zorlama içermez. Dolayısıyla doğru olanlar I ve III'tür."
+    },
+    {
+        "SoruID": 341112,
+        "Aciklama": "Broşürlerde içerik sunumuna yönelik dikkat edilmesi gereken en önemli durum, bilginin <b>net, kısa ve öz</b> olmasıdır. Okuyucunun dikkatini hızla çekmek ve mesajı net bir şekilde iletmek için, <b>başlıkların etkileyici olması</b> ve metinlerin <b>hedef kitleye uygun bir dille</b> yazılması gereklidir. Uzun ve karmaşık paragraflardan kaçınılmalıdır."
+    },
+    {
+        "SoruID": 342346,
+        "Aciklama": "Publisher 2016 çalışma ortamında <b>yazım denetimi</b> yapma, <b>eş anlamlıları bulma</b> (tezaurus) ve <b>metni başka bir dile çevirme</b> gibi dil işlemleri, yayının doğruluğunu ve kalitesini kontrol etmek amacıyla kullanılan <b>Gözden Geçir</b> (Review) sekmesinde yer almaktadır."
+    },
+    {
+        "SoruID": 184109,
+        "Aciklama": "Öğrenme ve hatırlama üzerine yapılan araştırmalar, insanların aktif katılım gösterdikleri eylemlerle öğrendiklerini en çok hatırladıklarını göstermektedir. Edgar Dale’in Deneyim Konisi’ne göre, en yüksek hatırlama oranı (%90) <b>uygulama yaparak</b>, <b>deneyimleyerek</b> veya <b>öğrendiklerini başkalarına öğreterek</b> gerçekleşir. Bu, pasif öğrenme yöntemlerinden (okuma, dinleme) çok daha etkilidir."
+    },
+    {
+        "SoruID": 184110,
+        "Aciklama": "Bu ifade, görsellerin en temel özelliklerinden biri olan <b>Açıklık (Netlik)</b> özelliğine vurgu yapar. Görseller, özellikle soyut veya karmaşık kavramları somutlaştırarak ve görselleştirerek, bilginin <b>hızlı ve kolay anlaşılmasını</b> ve algılanmasını sağlama gücüne sahiptir."
+    },
+    {
+        "SoruID": 184128,
+        "Aciklama": "Görsellerin temel özelliklerinden biri, <b>iletişimi hızlandırması</b> ve <b>soyut kavramları somutlaştırma</b> yeteneğidir. İnsan beyni görsel bilgiyi metinsel bilgiden çok daha hızlı işler. Bu nedenle görseller, karmaşık mesajların veya fikirlerin <b>etkili bir şekilde aktarılmasında</b> kilit rol oynar."
+    },
+    {
+        "SoruID": 184132,
+        "Aciklama": "Genellikle ağaç, şema veya düğüm ve bağlantılardan oluşan bilgi haritaları şeklinde oluşturulan görsel türü <b>Kavram Haritası’dır</b>. Kavram haritaları, bir konunun temel kavramları arasındaki hiyerarşik veya ilişkisel bağlantıları göstererek, öğrencinin konunun <b>bütüncül yapısını</b> ve ilişkilerini anlamasına yardımcı olur."
+    },
+    {
+        "SoruID": 184146,
+        "Aciklama": "Dikkati belirli bir noktaya çekmek, farklı fikirleri veya basamakları birbirinden ayırt etmek, yön ve hareket göstermek için kullanılan temel görsel tasarım unsuru <b>Çizgiler’dir</b> (veya çizgi tabanlı <b>Oklar</b>). Çizgiler, izleyicinin gözünü yönlendirir ve görsel akışı belirler."
+    },
+    {
+        "SoruID": 184150,
+        "Aciklama": "Görsel materyali gören kişinin hissetmesini sağlayan ve görselin daha gerçekçi görünmesine yardımcı olan tasarım unsuru <b>Doku’dur</b>. Doku, görsel yüzeyin pürüzsüzlük, pürüzlülük veya sertlik gibi <b>dokunsal niteliklerini taklit eder</b> ve görsele derinlik katar."
+    },
+    {
+        "SoruID": 184152,
+        "Aciklama": "Piksel tabanlı (<b>Raster</b>) grafikler, küçük renkli kareler (pikseller) matrisinden oluşur. Bu grafiklerle ilgili yanlış olan ifade, 'Boyutları değiştirildiğinde çözünürlüklerini kaybetmezler' olacaktır. Raster grafikler <b>büyütüldüğünde</b> pikseller görünür hale gelir ve <b>kalite kaybı (bozulma)</b> meydana gelir; bu da onları çözünürlüğe bağımlı kılar."
+    },
+    {
+        "SoruID": 184187,
+        "Aciklama": "Görsel düzenleme yazılımlarında seçme işlemi için Dörtgen Seçim Aracı, Kement Aracı ve Sihirli Değnek gibi araçlar kullanılır. <b>Fırça Aracı (Brush Tool)</b> ise bir seçme aracı değil, görselin üzerine renk veya efekt <b>uygulamak</b> (boyamak) için kullanılan bir düzenleme aracıdır."
+    },
+    {
+        "SoruID": 184188,
+        "Aciklama": "Seçilmek istenen bölgenin benzer renklere veya renk tonlarına sahip olduğu durumda, en uygun ve hızlı seçme aracı <b>Sihirli Değnek Aracı’dır</b> (Magic Wand Tool). Bu araç, belirlenen tolerans aralığındaki <b>benzer renkli pikselleri</b> otomatik olarak algılayarak tek bir tıklamayla bölgeyi seçer."
+    },
+    {
+        "SoruID": 193055,
+        "Aciklama": "Görsellerin faydaları arasında öğrenme sürecini hızlandırma, dikkati artırma ve bilgiyi somutlaştırma yer alır. Görsellerin faydalarından biri olmayan seçenek, genellikle <b>soyut kavramları daha da karmaşık hale getirmek</b> veya <b>gereksiz detaylarla dikkati dağıtmak</b> gibi, görselin amacına ters düşen bir eylem olacaktır. Görsellerin amacı her zaman anlaşılırlığı artırmaktır."
+    },
+    {
+        "SoruID": 193079,
+        "Aciklama": "Bir sağlık dersi kitabının kapağında konuyu doğrudan temsil eden doktor resminin bulunması, görselin <b>Belirleyici (Identificational)</b> veya <b>Temsil Edici</b> kullanımına örnektir. Bu tür görseller, içeriğin ne olduğunu <b>hızlıca belirlemek</b> ve konuya dair ilk izlenimi vermek amacıyla kullanılır."
+    },
+    {
+        "SoruID": 193080,
+        "Aciklama": "Bir konunun kavramlarını hatırlamaya yardımcı olan ve ipucu niteliğindeki görsel türü <b>Hatırlatıcı Görseller</b> (Mnemonic Graphics) veya <b>Kavram Görselleri</b> olabilir. Bunlar, bilgiyi kodlamaya ve geri çağırmaya yardımcı olan, zihinde kalıcı <b>ilişkilendirmeler</b> kurmak için özel olarak tasarlanmıştır."
+    },
+    {
+        "SoruID": 193081,
+        "Aciklama": "Görsel tasarım unsurlarının kullanım ilkeleri <b>Sadelik</b>, <b>Denge</b>, <b>Tutarlılık</b> ve <b>Vurgu'yu</b> içerir. Bu ilkelere uymayan bir eylem, örneğin, aynı anda çok fazla farklı font veya renk kullanmak ya da görseli <b>gereksiz detaylarla doldurarak karmaşıklığı artırmak</b> olacaktır, çünkü bu durum izleyicinin dikkatini dağıtır."
+    },
+    {
+        "SoruID": 193082,
+        "Aciklama": "Vektörel grafikler, piksel verilerine dayanmaz; bunun yerine <b>matematiksel formüller</b>, çizgiler ve eğriler kullanılarak oluşturulur. Bu, vektörel grafiklerin <b>çözünürlükten tamamen bağımsız</b> olduğu anlamına gelir ve boyutları ne kadar büyütülürse büyütülsün kalitelerini korurlar. Bu ifade vektörel grafikler için doğrudur."
+    },
+    {
+        "SoruID": 193083,
+        "Aciklama": "Vektör tabanlı grafiklerin en büyük avantajı, <b>boyutlandırma esnekliğidir</b>. Çözünürlükten bağımsız oldukları için, bir görseli küçük bir ikon boyutundan billboard boyutuna kadar <b>hiçbir kalite kaybı olmadan</b> ölçeklendirmek mümkündür. Bu özellik, özellikle logo ve illüstrasyon tasarımlarında kritik öneme sahiptir."
+    },
+    {
+        "SoruID": 193084,
+        "Aciklama": "Adobe Fireworks, özellikle web tasarımında kullanılan bir grafik yazılımıdır. Fireworks yazılımının <b>orijinal proje dosyalarının</b> uzantısı <b>.fw</b> formatıdır. Bu format, düzenlenebilir katmanları ve yazılıma özgü diğer meta verileri korur."
+    },
+    {
+        "SoruID": 340741,
+        "Aciklama": "Görsel tasarım unsurları, bir görseli oluşturan temel bileşenlerdir. Bunlar <b>Çizgi, Şekil, Renk, Doku, Boyut</b> ve <b>Boşluk'tur</b>. Genellikle teknik bir özellik olan <b>Çözünürlük</b> veya <b>Kontrast</b> gibi bir kavram, temel tasarım unsurları arasında sayılmaz; bunlar görselin kalitesini veya algılanışını etkileyen ilkelerdir."
+    },
+    {
+        "SoruID": 340747,
+        "Aciklama": "Görsel oluşturmak ve düzenlemek için kullanılan profesyonel yazılımlar arasında Adobe Photoshop, GIMP, Adobe Illustrator gibi programlar bulunur. <b>Microsoft Excel</b> veya <b>Microsoft Word</b> gibi kelime işlemci veya hesap tablosu yazılımları, temel amaçları görsel düzenleme olmadığı için bu kategorideki bir araç <u>değildir</u>."
+    },
+    {
+        "SoruID": 342351,
+        "Aciklama": "İletişimsel işlevlerine göre görsel türlerinden <b>Dekoratif Görseller</b> (Decorative Graphics), bir konunun anlaşılmasına doğrudan katkıda bulunmazlar. Bu görsellerin amacı, materyali <b>estetik açıdan çekici</b> hale getirmek, <b>motivasyon sağlamak</b> veya <b>mizahi</b> bir etki yaratmaktır. Bu görseller, okuyucunun ilgisini çekmeye yardımcı olurken, temel bilişsel yükü artırmamalıdır."
+    },
+    {
+        "SoruID": 130683,
+        "Aciklama": "Bu tanım, <b>Geleneksel Çizgi Animasyonu</b> (Traditional Animation) türüne aittir. Bu yöntemde, animasyonun her bir karesi (frame) ayrı ayrı elle çizilir (genellikle selüloit üzerine) ve bu resimler saniyede belirli bir hızda (genellikle 24 FPS) art arda gösterilerek hareket yanılsaması (illüzyonu) oluşturulur. Bu, çizgi filmlerin yapımında en eski ve temel yöntemdir."
+    },
+    {
+        "SoruID": 130701,
+        "Aciklama": "Gerçek görüntüler (filmler) üzerine kare kare çizim yapılmasıyla elde edilen animasyon tekniği <b>Rotoscoping</b> olarak adlandırılır. Animatörler, daha gerçekçi hareketler elde etmek için çekilmiş filmlerin üzerine görsel bir referans olarak çizim yaparlar. Bu teknik, hareketin akıcılığını ve doğallığını sağlamak için kullanılır."
+    },
+    {
+        "SoruID": 130770,
+        "Aciklama": "<b>Adobe Edge Animate</b>, özellikle web ortamında kullanılmak üzere <b>HTML5</b>, CSS3 ve JavaScript standartlarını temel alan etkileşimli animasyonlar oluşturmak için tasarlanmış bir görsel tasarım aracıydı. Programın ana hedefi, kod yazmaya gerek kalmadan web tarayıcılarında çalışabilen vektör tabanlı içerikler üretmekti. (Yanlış ifade genellikle, programın 3D animasyon yapması veya Flash/SWF dosyaları üretmesi gibi bir ifade olur.)"
+    },
+    {
+        "SoruID": 184314,
+        "Aciklama": "Animasyonun oynatma hızını ifade etmek için kullanılan terim <b>Kare Hızı</b> veya İngilizce kısaltmasıyla <b>FPS (Frames Per Second / Saniye Başına Kare Sayısı)</b>'dir. Bu değer, bir saniyede gösterilen durağan görüntü sayısını belirtir ve animasyonun ne kadar akıcı görüneceğini doğrudan etkiler."
+    },
+    {
+        "SoruID": 184315,
+        "Aciklama": "Bir animasyon tasarım programında nesnelerin hareketinin başlangıç ve bitiş zamanlarını, sürekliliğini ve zaman içindeki değişimini belirlemek amacıyla kullanılan temel panel <b>Zaman Çizgisi (Timeline)</b>'dir. Bu panel üzerinde <b>anahtar kareler</b> (keyframe) yerleştirilerek animasyon akışı kontrol edilir."
+    },
+    {
+        "SoruID": 184316,
+        "Aciklama": "Bir animasyonda, bir nesnenin konumunda, boyutunda, renginde veya diğer özelliklerinde bir değişimin başladığı veya bittiği önemli anları işaretleyen terim <b>Anahtar Kare (Keyframe)</b>'dir. Bu kareler, hareketi tanımlayan kritik noktalardır."
+    },
+    {
+        "SoruID": 184353,
+        "Aciklama": "Gerçek fotoğraflardan, kağıt veya kumaş gibi malzemelerden kesilerek oluşturulan iki boyutlu nesnelerin (karakterlerin) hareket ettirilmesiyle yapılan animasyon türü <b>Cut-Out Animasyonu</b> olarak adlandırılır. Bu teknik, özellikle Stop-Motion animasyonun iki boyutlu bir versiyonu olarak düşünülebilir."
+    },
+    {
+        "SoruID": 184354,
+        "Aciklama": "Bu tanım, <b>Stop-Motion (Dur-Çek) Animasyonu</b> türüne aittir. Bu teknikte, fiziksel nesneler (kuklalar, kil figürleri, legolar vb.) her karede çok küçük bir miktar hareket ettirilir ve bu hareketin fotoğrafı çekilir. Karelerin hızla arka arkaya oynatılmasıyla hareket illüzyonu elde edilir."
+    },
+    {
+        "SoruID": 184355,
+        "Aciklama": "Web standartlarına uygun, kodsuz veya az kodlu <b>HTML5 tabanlı animasyonlar</b> oluşturmak için kullanılan yazılımlardan biri <b>Adobe Edge Animate</b>'tir. (Güncel olarak bu işlevi Adobe Animate CC de yapabilmektedir, ancak Edge Animate bu teknoloji için özel olarak tasarlanmıştı.)"
+    },
+    {
+        "SoruID": 184356,
+        "Aciklama": "Adobe Edge Animate programında projeye dahil edilen tüm harici kaynak dosyaların (resim, ses, video) listelendiği, organize edildiği ve yönetildiği panele <b>Kaynaklar (Assets) Paneli</b> (veya Kütüphane) denir. Bu panel, dosyaların kolayca bulunmasını ve sahneye eklenmesini sağlar."
+    },
+    {
+        "SoruID": 184357,
+        "Aciklama": "Adobe Edge Animate programında kullanıcıların animasyon öğelerini yerleştirdiği, düzenlediği ve görsel tasarımı yaptığı ana çalışma alanına <b>Sahne (Stage)</b> adı verilir. Animasyonlar bu alanda hayat bulur."
+    },
+    {
+        "SoruID": 184358,
+        "Aciklama": "Bir animasyonu oluşturan tüm karelerin veya bir karakterin farklı pozlarının tek bir büyük resim dosyası içerisinde sıralı olarak yerleştirilmesine <b>Sprite Sheet (Püskürtme Sayfası)</b> denir. Özellikle oyun ve web animasyonlarında, yükleme sürelerini azaltmak ve performansı artırmak için bu yöntem kullanılır."
+    },
+    {
+        "SoruID": 184359,
+        "Aciklama": "Zaman Çizgisi üzerine bir <b>tetikleyici (trigger)</b> eklemek için kullanılan kısa yol tuşu, ilgili yazılıma (örneğin Adobe Animate veya Edge Animate) bağlı olarak değişmekle birlikte, genellikle <b>'T'</b> harfidir. Tetikleyiciler, belirlenen anda kod çalıştırmak için kullanılır."
+    },
+    {
+        "SoruID": 193119,
+        "Aciklama": "Reklam ve film sektöründe profesyonel düzeyde kullanılan, gelişmiş <b>skeletleştirme (rigging)</b> ve <b>fizik kurallarına</b> uygun simülasyon araçları sunan 3 boyutlu animasyon yazılımları <b>Maya</b> veya <b>3D Studio Max</b> gibi programlardır. Bu programlar, karmaşık 3D karakter ve ortam animasyonları için güçlü kodlama (script) desteği de sunar."
+    },
+    {
+        "SoruID": 193146,
+        "Aciklama": "Adobe Edge Animate'te, nesnelerin hareketinin ve özellik değişimlerinin zamanlaması (hangi saniyede başlayıp bittiği) <b>Zaman Çizgisi (Timeline)</b> paneli aracılığıyla ayarlanır. Bu panel, animasyonun akışını anahtar kareler üzerinden kontrol eder."
+    },
+    {
+        "SoruID": 193158,
+        "Aciklama": "Zaman Çizgisi üzerinde, belirlenen bir anda animasyonu kontrol eden (durduran, oynatan, başka bir kareye yönlendiren) kodlara <b>Tetikleyici (Trigger)</b> adı verilir. Bu tetikleyiciler genellikle JavaScript gibi dillerle yazılarak interaktif özellikler eklenmesini sağlar."
+    },
+    {
+        "SoruID": 341115,
+        "Aciklama": "Animasyon türleri, hareket yanılsaması oluşturma tekniklerine göre sınıflandırılır (Stop-Motion, Çizgi Animasyonu, 3D Animasyon, Cut-Out vb.). Eğer şıklarda bu hareket oluşturma tekniklerinden biri olmayan (örneğin statik bir tasarım süreci veya dosya formatı gibi) bir seçenek varsa, o seçenek doğru cevaptır. Örn: <b>Modelleme</b> (tek başına bir animasyon türü değil, animasyonun aşamasıdır)."
+    },
+    {
+        "SoruID": 341117,
+        "Aciklama": "Zaman çizgisinde belli noktalara yerleştirilerek animasyon akışını durdurma, başlatma ya da yönlendirme gibi eylemleri gerçekleştiren kodlara <b>Tetikleyici (Trigger)</b> denir. Bu terim, animasyonun etkileşimli hale gelmesini sağlayan komutları ifade eder."
+    },
+    {
+        "SoruID": 405714,
+        "Aciklama": "I. <b>3D Studio Max</b>, film, oyun ve görselleştirme için kullanılan bir <b>üç boyutlu modelleme ve animasyon</b> yazılımıdır. (Doğru)<br/>II. <b>Adobe Photoshop</b>, statik grafik düzenleme dışında, <b>kare tabanlı animasyonlar</b> (GIF vb.) oluşturmak için de kullanılabilir, bu nedenle 'yalnızca statik grafik için kullanılır' ifadesi yanlıştır.<br/>III. <b>Maya</b>, ileri düzey <b>üç boyutlu animasyon, modelleme, benzetim</b> ve görüntüleme (rendering) alanında endüstri standardı bir yazılımdır. (Doğru)<br/>Sonuç olarak, I ve III numaralı ifadeler doğrudur."
+    },
+    {
+        "SoruID": 148342,
+        "Aciklama": "Uçuk pembe, genellikle <b>yumuşaklık</b>, <b>şefkat</b>, <b>hassasiyet</b>, <b>romantizm</b> ve <b>masumiyet</b> gibi pozitif duygularla ilişkilendirilir. Sakinleştirici ve yatıştırıcı bir etkiye sahiptir. Ancak, <b>güç</b>, <b>otorite</b>, <b>agresiflik</b> veya <b>tehlike</b> gibi sert ve dominant duyguları çağrıştırmak, uçuk pembe renk tonunun psikolojik etkileri arasında yer almaz."
+    },
+    {
+        "SoruID": 151123,
+        "Aciklama": "Yeşil renk, doğada yaygın olarak görülen birincil renktir. Çağrıştırdığı temel kavramlar arasında <b>sessizlik</b>, <b>verimlilik</b>, <b>hayat</b>, <b>büyüme</b>, <b>denge</b> ve <b>doğa</b> yer alır. Aynı zamanda <b>bilgelik</b>, <b>yenilenme</b> ve <b>inançlılık</b> duygularını da simgeler. Bu özellikler yeşil rengi temsil eder."
+    },
+    {
+        "SoruID": 151197,
+        "Aciklama": "Kitap ve dergi tasarımında çoklu ortam içeriklerinin (video, ses, interaktif grafikler) kullanımı, temelde <b>dijital yayıncılık</b> (e-dergi, interaktif PDF, EPUB) platformlarında geçerlidir. Eğer yanlış ifade soruluyorsa, bu içeriklerin <b>basılı yayınlara doğrudan entegre edilebileceği</b> veya <b>dosya boyutunu ve yükleme hızını etkilemeyeceği</b> yönündeki bir iddia yanlıştır. Çoklu ortam, yayıncılığa zenginlik katar, ancak dijital ortam gerektirir ve teknik kısıtlamaları vardır."
+    },
+    {
+        "SoruID": 230115,
+        "Aciklama": "Tasarım sürecinde bu üç unsur da kritik öneme sahiptir. <b>Yayınlanacak ülke</b> (I), kültürel anlamları ve yasal gereklilikleri etkiler. <b>Yayının hitap ettiği yaş grubu</b> (II), okunabilirlik, dil ve font boyutu seçimini belirler. <b>Tasarımda kullanılan font</b> (III) ise hem okunabilirliği hem de yayının genel estetiğini doğrudan etkiler. Dolayısıyla I, II ve III de dikkat edilmesi gereken unsurlardandır."
+    },
+    {
+        "SoruID": 230156,
+        "Aciklama": "Adobe InDesign programına dışarıdan görüntü (resim), metin veya farklı formatlardaki belgeleri eklemek (yerleştirmek) için kullanılan komut 'Place' (Yerleştir) komutudur. Bu komutun klavye kısayolu <b>Ctrl + D</b> (Mac'te Cmd + D)'dir. Bu, harici materyalleri çalışma alanına hızlıca dahil etmek için kullanılır."
+    },
+    {
+        "SoruID": 230164,
+        "Aciklama": "InDesign'da (ve diğer grafik tasarım yazılımlarında), mevcut bir resimden, nesneden veya ekrandaki herhangi bir öğeden renk örneği almak ve bu rengi tasarımda kullanmak için <b>Damlalık Aracı (Eyedropper Tool)</b> kullanılır. Bu araç, seçilen rengi alır ve o anki dolgu veya kontur rengi olarak belirler."
+    },
+    {
+        "SoruID": 230168,
+        "Aciklama": "Adobe InDesign programında oluşturulan ve kaydedilen çalışma dosyalarının varsayılan dosya uzantısı <b>.indd</b>'dir (InDesign Document). Bu dosya formatı, tüm düzenlenebilir mizanpaj bilgilerini, katmanları, metinleri ve stilleri içerir."
+    },
+    {
+        "SoruID": 230178,
+        "Aciklama": "Adobe InDesign, profesyonel mizanpaj ve sayfa düzenleme yazılımıdır ve çok yönlü yayın çıktıları için tasarlanmıştır. Hazırlanan belgeler <b>Baskı</b> (I) (yüksek çözünürlüklü PDF), <b>Web</b> (II) (HTML veya web için optimize edilmiş formatlar) ve <b>Dijital Yayıncılık</b> (III) (interaktif PDF, EPUB, dijital dergi formatları) hedeflerinin tamamı için kullanılabilir."
+    },
+    {
+        "SoruID": 230180,
+        "Aciklama": "DPI, <b>Dots Per Inch</b> (İnç Başına Düşen Nokta Sayısı) anlamına gelir (II). Bu değer, bir görüntünün çözünürlüğünü gösterir. DPI değeri yükseldikçe (I), görüntüdeki detay miktarı artar ve dolayısıyla baskı kalitesi iyileşir. 72 dpi genellikle ekran çözünürlüğü standardı olup, baskı için minimum 300 dpi önerildiğinden, en yüksek değerin 72 olduğu ifadesi (III) yanlıştır. Doğru olanlar I ve II'dir."
+    },
+    {
+        "SoruID": 230182,
+        "Aciklama": "Kırmızı renk, ABD kültüründe son derece güçlü ve dikkat çekici bir etkiye sahiptir. Genellikle <b>aşk</b>, <b>tutku</b>, <b>tehlike</b>, <b>acil durum</b>, <b>güç</b> ve <b>cesaret</b> (özellikle bayrakta) gibi kavramlarla ilişkilendirilir. Trafik sinyallerinde durma veya tehlikeyi simgelerken, sevgililer gününde romantizmi temsil eder."
+    },
+    {
+        "SoruID": 230199,
+        "Aciklama": "Tipografide yaş gruplarına göre okunabilirlik standartları kritiktir. <b>7-12 yaş</b> aralığındaki çocuklar (ilkokul dönemi), okuma alışkanlıklarını geliştirdikleri için kolay okunur ve gözü yormayan fontlara ihtiyaç duyarlar. Bu yaş grubu için uygun yazı tipi boyutu genellikle <b>12 punto (pt)</b> ve üzeri olmalıdır (çoğu kaynak 14 pt önerir)."
+    },
+    {
+        "SoruID": 230202,
+        "Aciklama": "Dijital ekranlarda (monitörler, tabletler, telefonlar) metinlerin <b>okunabilirliği</b>, font tipine göre değişir. Genel kural, dijital yayınlar için <b>Sans-Serif (Tırnaksız)</b> yazı tiplerinin (örneğin Arial, Open Sans, Verdana) daha uygun olmasıdır. Tırnaklar (serifler), düşük çözünürlüklerde veya küçük boyutlarda netliğini kaybedebilir ve okumayı zorlaştırabilir, bu nedenle tırnaksız fontlar daha temiz bir okuma deneyimi sunar."
+    },
+    {
+        "SoruID": 230204,
+        "Aciklama": "Tasarım kararları, fiziki üretim süreçleri ile doğrudan ilişkilidir. <b>Cilt payı</b> (I), sayfa içeriğinin cilde yakın bölgede kaybolmasını önler. <b>Sayfa boyutu</b> (II), mizanpajın sınırlarını ve oranlarını belirler. <b>Kâğıt türü</b> (III) ise renklerin canlılığını, baskının maliyetini ve ürünün dokusunu etkiler. Bu üç unsur da tasarımı doğrudan etkileyen fiziki kararlardır."
+    },
+    {
+        "SoruID": 243980,
+        "Aciklama": "Yetişkinler için genel okuma metinlerinde (kitap, dergi) standart ve rahat kabul edilen font boyutu aralığı <b>10 ile 12 punto (pt)</b> arasındadır. Bu aralığın altındaki boyutlar (örneğin 8 pt veya daha küçüğü) genellikle dipnotlar, yasal uyarılar veya yardımcı metinler için kullanılır ve <b>ana okuma metni için uygun değildir</b>, çünkü göz yorgunluğuna neden olur."
+    },
+    {
+        "SoruID": 243984,
+        "Aciklama": "Beyaz renk, Batı kültüründe genellikle saflık ve masumiyeti temsil ederken, birçok <b>Uzak Doğu</b> ve <b>Asya kültürü</b>nde (özellikle Çin, Kore ve Japonya) <b>matem</b>, <b>yas</b> ve <b>ölüm</b> ile ilişkilendirilir. Bu kültürlerde cenaze törenlerinde beyaz giysiler veya örtüler kullanılır."
+    },
+    {
+        "SoruID": 243990,
+        "Aciklama": "İçeriklerin görsel tasarımında, iletişimin başarılı olması için üç temel husus hayati öneme sahiptir. Metinlerin <b>Okunabilir</b> (I) olması (font, boyut, kontrast), mesajın <b>Anlaşılabilir</b> (II) olması (sade ve net yapı) ve mesajı destekleyen <b>Uygun Renklerin</b> (III) kullanılması zorunludur. Bu üç madde, etkili görsel iletişimin temelini oluşturur."
+    },
+    {
+        "SoruID": 350261,
+        "Aciklama": "Yeşil renk, doğayı temsil etmesi sebebiyle temel olarak <b>hayat</b>, <b>büyüme</b> ve <b>verimlilik</b> ile ilişkilendirilir. Aynı zamanda zihinsel olarak <b>sessizlik</b> ve <b>denge</b> hissi verirken, manevi anlamda <b>bilgelik</b> ve <b>inancı</b> da çağrıştırır."
+    },
+    {
+        "SoruID": 350266,
+        "Aciklama": "InDesign programında belge içerisindeki sayfaları yönetmek, özelliklerini düzenlemek, ana sayfaları (master pages) uygulamak veya sayfa ekleme/silme işlemleri yapmak için kullanılan menüye <b>Sayfalar Paneli (Pages Panel)</b> adı verilir. Bu panel, mizanpajın temel yapısını kontrol eder."
+    },
+    {
+        "SoruID": 148380,
+        "Aciklama": "Scribus programında çalışma alanına (sahneye) yeni bir şekil eklemek için genellikle <b>Ekle</b> (Insert) menüsü altında ilgili komutlar bulunur veya araç çubuğunda <b>Şekil Aracı</b> (Shape Tool) kullanılır. Çoğu DTP programında bu işlem <b>Ekle</b> menüsü aracılığıyla gerçekleştirilir."
+    },
+    {
+        "SoruID": 148556,
+        "Aciklama": "Scribus, bir sayfa düzenleme programı olduğu için genellikle resimler üzerinde <b>Kontrast</b>, <b>Parlaklık</b>, <b>Gri Tonlama</b> gibi temel ayarlamaları ve renk kanalı manipülasyonlarını içeren efektleri destekler. Ancak, <b>Yüzey Kaplama</b> (Surface Texture/Mapping) gibi 3D modelleme veya çok gelişmiş görüntü işleme efektleri genellikle Scribus’un standart resim efektleri arasında <u>yer almaz</u>."
+    },
+    {
+        "SoruID": 151035,
+        "Aciklama": "Scribus’ta veya genel olarak tüm masaüstü yayıncılık (DTP) programlarında, çalışma sayfasına (ekrana) <b>metin kutusu</b>, <b>resim çerçevesi</b>, <b>tablo</b> veya <b>şekil</b> gibi yeni öğeler/nesneler dahil etmek için kullanılan ana menü <b>Ekle</b> (Insert) menüsüdür."
+    },
+    {
+        "SoruID": 151081,
+        "Aciklama": "Scribus, <b>açık kaynaklı</b> (open source) bir masaüstü yayıncılık (DTP) yazılımıdır. Bu özelliği sayesinde yüksek derecede platform bağımsızlığına sahiptir ve belirtilen tüm popüler işletim sistemleri olan <b>Linux</b>, <b>FreeBSD</b>, <b>Mac OS X</b> ve <b>Windows</b> üzerinde çalışabilir ve bu sistemler için sürümleri mevcuttur. Dolayısıyla hepsi Scribus’u destekleyen sistemlerdir."
+    },
+    {
+        "SoruID": 230207,
+        "Aciklama": "Scribus’ta bir resmi veya nesneyi belirli noktalarından manipüle ederek <b>eğmek</b> (skew) veya formunu değiştirmek istenirse, genellikle nesnenin vektörel sınırlarına veya düğüm noktalarına müdahale etmeye izin veren <b>Düğüm Düzenleme Aracı</b> (Node Editing Tool) kullanılır. Bu araç, nesnelerin eğrilerini ve köşelerini hassas bir şekilde ayarlamaya olanak tanır."
+    },
+    {
+        "SoruID": 230209,
+        "Aciklama": "Scribus’ta resim efektleri penceresi (Image Effects) genellikle resmin <b>görsel niteliklerini</b> (renkler, parlaklık, kontrast, filtreler) değiştirmeye odaklanır. Resmin dosya formatını (örneğin JPEG’den PNG’ye) değiştirmek veya resmi kaydetmek gibi <b>dosya yönetimsel</b> işlemler bu efekt penceresinde değil, genellikle <b>Dosya</b> (File) menüsü altındaki komutlar aracılığıyla yapılır."
+    },
+    {
+        "SoruID": 230213,
+        "Aciklama": "Scribus, genellikle kendi yerel formatı olan <b>SLA</b> (Scribus Layout), <b>PDF</b> (yayınlama için) ve çeşitli görüntü formatlarında kaydetme/dışa aktarma yapabilir. Ancak, <b>AutoCAD</b> (DWG) veya <b>Microsoft Publisher</b> (PUB) gibi rakip ve tescilli DTP programlarının formatlarında belgeyi <u>kaydedemez</u>."
+    },
+    {
+        "SoruID": 230217,
+        "Aciklama": "Tablo işlemleri sırasında kullanılan <b>Delete Columns</b> (Sütunları Sil) komutu, seçili olan tabloda dikey olarak uzanan <b>sütunların</b> (columns) tamamını silmeye yarar. Bu komut, tablo yapısından istenmeyen sütunları kaldırmak için kullanılır."
+    },
+    {
+        "SoruID": 230219,
+        "Aciklama": "Scribus’ta bir tabloya yeni bir yatay birim olan <b>satır</b> (row) eklemek için, genellikle <b>Tablo</b> (Table) menüsü altında yer alan veya tabloya sağ tıklandığında çıkan bağlam menüsündeki <b>Satır Ekle</b> (Insert Row) komutu kullanılır."
+    },
+    {
+        "SoruID": 230223,
+        "Aciklama": "Scribus’ta seçili olan nesnelerle ilgili detaylı ayarları ve parametreleri değiştirmeye yarayan <b>Özellikler Penceresi</b> (Properties Palette), kullanıcı arayüzünün önemli bileşenlerindendir. Bu pencereyi hızlıca açmak için genellikle <b>F2</b> kısayol tuşu kullanılır."
+    },
+    {
+        "SoruID": 244009,
+        "Aciklama": "Yeni bir Scribus belgesi oluşturulurken, <b>sayfa boyutu</b>, <b>yönlendirme</b> ve <b>sayfa sayısı</b> gibi belgenin yapısal özelliklerini belirlemek mümkündür. Ancak, belgenin içine <b>otomatik olarak içerik eklemek</b> veya karmaşık <b>stil şablonları</b> uygulamak gibi içerikle ilgili işlemler, belge oluşturma diyalogu yerine daha sonra düzenleme aşamasında yapılır. Belge oluşturma aşamasında içeriğe dair kesin işlemler <u>yapılamaz</u>."
+    },
+    {
+        "SoruID": 244035,
+        "Aciklama": "Scribus’ta eklenen <b>nesnelerin</b> boyutlarını, konumunu, rengini ve diğer spesifik özelliklerini ayarlamak için kullanılan <b>Özellikler Penceresi</b> (Properties Palette), bu ayarların yapıldığı merkezi arayüzdür. Bu pencereyi açmak için genellikle <b>F2</b> kısayol tuşu kullanılır."
+    },
+    {
+        "SoruID": 244037,
+        "Aciklama": "Scribus’ta çalışma sayfasındaki nesnelerin dikey sıralamasını (üst üste binme düzenini) ayarlamak, yani hangi nesnenin diğerinin önünde veya arkasında görüneceğini belirlemek için <b>Sırala</b> (Arrange) menüsü altındaki <b>Öne Getir</b> veya <b>Arkaya Gönder</b> gibi <b>Katmanlama/Z-Sıralaması</b> komutları kullanılır."
+    },
+    {
+        "SoruID": 244043,
+        "Aciklama": "Tablo düzenleme araçlarında bulunan <b>Delete Rows</b> (Satırları Sil) komutu, Scribus’ta seçili olan tabloda yatay olarak uzanan <b>satırların</b> (rows) tamamını silmek için kullanılır."
+    },
+    {
+        "SoruID": 350273,
+        "Aciklama": "Scribus’ta bir nesnenin ayarlarını detaylıca düzenlemek için, menü çubuğundaki <b>Pencere</b> (Window) menüsü altından <b>Özellikler</b> (Properties) seçeneği takip edilir. Bu menü yolu, nesneye özel tüm parametrelerin değiştirilmesine olanak tanıyan <b>Özellikler Penceresi</b>'ni açar."
+    },
+    {
+        "SoruID": 350277,
+        "Aciklama": "Çalışma sayfasında nesnelerin hizalanmasına ve düzenlenmesine yardımcı olan kılavuz çizgileri veya ızgaralar eklemek için, genellikle <b>Görünüm</b> (View) menüsü kullanılır. Buradan <b>Izgarayı Göster</b> (Show Grid) veya <b>Izgara Ayarları</b> komutları takip edilerek sayfaya <b>hizalama ızgarası</b> (grid) eklenebilir."
+    },
+    {
+        "SoruID": 151051,
+        "Aciklama": "Ofset baskı, <b>düz baskı</b> (planography) prensibine dayanır ve mürekkep ile suyun birbirini itmesi prensibiyle çalışır. Baskı kalıbı üzerinde mürekkebi tutan ve tutmayan alanlar aynı yüksekliktedir. Ofset baskının en belirgin özelliği, mürekkebin kalıptan doğrudan kağıda değil, önce <b>kauçuk (lastik) silindire</b> aktarılması ve oradan kağıda basılmasıdır (dolaylı baskı). Eğer sorunun doğru kabul edilen şıkkı 'Ofset baskı yüksek baskı tekniği ile yapılır' gibi bir ifade ise, bu ifade yanlıştır, çünkü ofset <b>düz baskıdır</b>."
+    },
+    {
+        "SoruID": 151057,
+        "Aciklama": "Tipo baskı (Letterpress), matbaanın ilk ve geleneksel yöntemidir ve <b>yüksek baskı</b> (relief) prensibine dayanır. Bu teknikte, mürekkebi alan yüzeyler (harfler veya görseller) baskı yüzeyine göre yüksektedir. Eğer yanlış olan ifade 'Tipo baskıda suyun yağı itmesi prensibi kullanılır' ise, bu yanlıştır, çünkü bu prensip <b>ofset/litografi</b> için geçerlidir. Tipo baskı, yüksek yüzeylerin kağıda doğrudan temas etmesiyle yapılır."
+    },
+    {
+        "SoruID": 151193,
+        "Aciklama": "Flekso baskı, <b>yüksek baskı</b> (relief) ailesine ait modern bir tekniktir. Bu teknikte, hızlı kuruyan mürekkepler ve basınca dayanıklı <b>esnek fotopolimer kalıplar</b> kullanılır. Genellikle ambalaj, etiket ve esnek malzemeler üzerine baskı için idealdir. Yanlış olan ifade, flekso baskının çok yüksek çözünürlüklü ve sadece kağıt için kullanıldığı yönündeyse, bu yanlıştır. Flekso, genellikle <b>bobin halindeki esnek malzemeler</b> için tercih edilir."
+    },
+    {
+        "SoruID": 151266,
+        "Aciklama": "Tifdruk baskı (Gravure), <b>çukur baskı</b> (intaglio) tekniğidir. Bu teknikte, baskı alanları kalıp üzerinde mikroskobik <b>çukur hücreler</b> (oyuklar) şeklindedir ve mürekkep bu çukurlara dolar. Eğer yanlış olan ifade 'Tifdruk baskıda kalıp üzerindeki baskı alanları yüksekte bulunur' ise, bu ifade yanlıştır, çünkü tifdruk tam tersine <b>çukur</b> (oyuk) kalıp kullanır."
+    },
+    {
+        "SoruID": 230227,
+        "Aciklama": "Antik Mısır’da üç ana yazı biçimi kullanılırdı: hiyeroglif (anıt yazısı), demotik (halk yazısı) ve <b>hiyeratik</b>. Hiyeratik, <b>Hiyerogliflerin el yazısı formundan</b> geliştirilmiş, daha akıcı ve basitleştirilmiş bir biçimdir ve esas olarak <b>rahipler</b> tarafından papirüs ve ostrakon üzerine dini ve idari metinleri yazmak için kullanılmıştır."
+    },
+    {
+        "SoruID": 230230,
+        "Aciklama": "<b>Fenike alfabesi</b>, yaklaşık olarak <b>MÖ 1050</b> yıllarında ortaya çıkmış ve dünyadaki modern alfabelerin (Yunan, Latin) temelini atmıştır. Fenikeliler, deniz ticareti yoluyla bu yazı sistemini Akdeniz çevresine yaymıştır."
+    },
+    {
+        "SoruID": 230234,
+        "Aciklama": "MÖ 170 civarında <b>Bergamalılar</b>, Mısır’ın papirüs ihracatını durdurması üzerine yeni bir yazı materyali arayışına girdi ve hayvansal derilerden elde edilen <b>parşömeni</b> (Pergamen) geliştirdi. Parşömen, papirüse göre çok daha dayanıklı ve her iki tarafına da yazı yazılabilen bir ortam sağlamıştır."
+    },
+    {
+        "SoruID": 230238,
+        "Aciklama": "Steno, hızlı not alma ve yazışma amacıyla geliştirilen <b>kısaltma yazısı</b> (shorthand) sistemidir. Dünya genelinde kullanılan birçok steno sistemi bulunmakla birlikte (örneğin Pitman veya Gregg), sorunun cevabı muhtemelen bu hızlı yazma metodunun kurucularını veya mucitlerini kastetmektedir."
+    },
+    {
+        "SoruID": 230242,
+        "Aciklama": "<b>Tipo baskı</b> (Letterpress), hareketli <b>metal harfler</b> kullanılarak gerçekleştirilen ve mürekkebi alan yüzeylerin diğer yüzeylere göre yüksekte olduğu <b>yüksek baskı</b> tekniğidir. Bu teknik, Johannes Gutenberg tarafından icat edilen matbaanın temelini oluşturur."
+    },
+    {
+        "SoruID": 230245,
+        "Aciklama": "Serigrafi, mürekkebin, görüntü olmayan alanları kapatılmış <b>dokuma</b> (ipek, sentetik) bir kalıp (elek) üzerinden, rakle yardımıyla baskı yüzeyine geçirilmesi prensibine dayanır. Kalıp ipek veya benzeri dokumadan oluştuğu için, bu baskı tekniğine aynı zamanda <b>elek baskı</b> adı da verilir."
+    },
+    {
+        "SoruID": 230249,
+        "Aciklama": "Amerikalı matbaacı <b>Ira W. Rubel</b>, 1904 yılında yanlışlıkla, mürekkebin önce kauçuk bir silindire (blanket) aktarılıp oradan kağıda basılması prensibine dayanan <b>ofset baskı</b> tekniğini geliştirmiştir. Bu yöntem, düz baskının dolaylı hale getirilmiş şeklidir."
+    },
+    {
+        "SoruID": 230252,
+        "Aciklama": "Suyun yağ ile karışmama (kimyasal) prensibine dayanan baskı tekniği <b>litografi</b> (taş baskı) ve ondan türeyen <b>ofset baskıdır</b>. Baskı alanları yağ bazlı mürekkebi kabul ederken, baskı dışı alanlar nemlendirme suyu sayesinde mürekkebi iter."
+    },
+    {
+        "SoruID": 230254,
+        "Aciklama": "Yüksek tirajlı işlerde bile <b>her kopyası birbirinin tam benzeri</b> ve tutarlı sonuçlar veren baskı türü <b>tifdruk</b> (çukur baskı) tekniğidir. Tifdruk, mürekkebi kontrollü bir şekilde çukur hücrelerden aktardığı için özellikle fotoğraf ve sanatsal reprodüksiyonlarda net ve yumuşak ton geçişleri sağlar."
+    },
+    {
+        "SoruID": 230256,
+        "Aciklama": "Flekso baskı makinelerinde, baskı yapılacak malzemenin rulodan açılıp (çözgü ünitesi) tüm istasyonlardan geçtikten sonra tekrar sarıldığı (sargı ünitesi) bu yola <b>materyal yolu</b> veya İngilizce karşılığı olan <b>web</b> adı verilir. Bu terim, özellikle rulo (bobin) beslemeli baskı makinelerinde kullanılır."
+    },
+    {
+        "SoruID": 244048,
+        "Aciklama": "Piktografik (resimli) bir imgenin, temsil ettiği nesnenin yanı sıra, aynı zamanda o nesnenin adının <b>fonetik (ses) değeri</b> için kullanılmasına <b>Rebus prensibi</b> denir. Bu, yazı sistemlerinin saf resimden ses temelli sembollere geçişinde kritik bir aşamadır."
+    },
+    {
+        "SoruID": 244051,
+        "Aciklama": "<b>Papirüs</b> kamışları, eski çağlarda yazı materyali üretiminin tek kaynağıydı ve esas olarak <b>Mısır</b>’da yetişiyordu. Mısır’dan papirüs tedarikindeki aksaklıklar ve talebin karşılanamaması nedeniyle, <b>deri</b> (parşömen) yazı aracı olarak kullanılmaya başlanmıştır."
+    },
+    {
+        "SoruID": 244060,
+        "Aciklama": "Gutenberg’in matbaayı icat etmesiyle (hareketli metal harflerle tipo baskı), kitapların seri üretimi mümkün oldu. Bu durum, <b>kitapların ucuzlamasına</b> (I) ve bilginin daha geniş kitlelere ulaşması sayesinde <b>okuryazar sayısının artmasına</b> (II) yol açmıştır. Sanatta gerileme matbaanın bir sonucu değildir, tam tersine matbaa sanatsal ve bilimsel Rönesans'ı desteklemiştir."
+    },
+    {
+        "SoruID": 350335,
+        "Aciklama": "Materyal hazırlık aşamasında (prepress), kalıp çekimi öncesinde, basılacak işin sayfalarının doğru sırada, kesim ve katlama yerleri uygun olacak şekilde yerleştirilip son kez kontrol edilmesi işlemine <b>montaj</b> (imposition) denir. Bu işlem, özellikle sayfa numaralarının ciltleme sonrasında birbirini doğru takip etmesi için hayati önem taşır ve baskı hatalarını önler."
+    },
+    {
+        "SoruID": 148384,
+        "Aciklama": "Adobe InDesign'da temel çizim araçları <b>Dikdörtgen Aracı</b>, <b>Elips Aracı</b>, <b>Çokgen Aracı</b>, <b>Kalem Aracı</b> ve <b>Çizgi Aracı</b> gibi vektörel nesneler oluşturmaya yarar. InDesign bir mizanpaj programı olduğu için, genellikle <b>bitmap tabanlı fotoğraf düzenleme araçları</b> (örneğin Adobe Photoshop'taki Klonlama Damgası veya İyileştirme Fırçası gibi araçlar) çizim araçları arasında yer almaz."
+    },
+    {
+        "SoruID": 148400,
+        "Aciklama": "Adobe InDesign, özellikle <b>masaüstü yayıncılık (DTP)</b> alanında, çok sayfalı belgelerin (kitap, dergi, katalog, broşür) <b>mizanpaj</b>, <b>tipografi</b> ve <b>baskı öncesi hazırlık</b> işlemlerini gerçekleştirmek için tasarlanmıştır. InDesign'ın temel işlevi metin ve görselleri yerleştirmek ve düzenlemektir. Gelişmiş <b>video düzenleme</b> veya <b>yüksek detaylı 3D modelleme</b> gibi işlemler InDesign ile yapılan ana işlemler arasında yer almaz ve bu alanlar farklı yazılımların (Premiere Pro, Blender vb.) uzmanlık alanıdır."
+    },
+    {
+        "SoruID": 148567,
+        "Aciklama": "InDesign Programı’nda tasarımlara çizgi veya şekil eklemek için kullanılan temel araçlar (Dikdörtgen Aracı, Kalem Aracı vb.) ekranın sol tarafında varsayılan olarak yer alan <b>Araçlar Paneli</b>’nde (Tools Panel) bulunur. Bu panel, nesne oluşturma ve temel manipülasyon araçlarının toplandığı ana arayüz bileşenidir."
+    },
+    {
+        "SoruID": 151112,
+        "Aciklama": "InDesign'da <b>Metin Sarma</b> (Text Wrap), metnin bir nesnenin (resim, şekil veya çerçeve) çevresinde kontrollü bir şekilde akmasını sağlar. Metin sarma ayarları <b>Metin Sarma Paneli</b> üzerinden yönetilir. Metin sarma özelliği, nesnenin <b>sınırlayıcı kutusu</b> etrafında veya nesnenin <b>gerçek şekli</b> etrafında sarma dahil olmak üzere birçok farklı şekilde özelleştirilebilir. Yanlış olan ifade genellikle bu özelliğin kısıtlı olduğunu (örneğin kavisli şekillere uygulanamadığı) iddia eden seçeneklerdir, çünkü InDesign karmaşık sarma biçimlerini destekler."
+    },
+    {
+        "SoruID": 230323,
+        "Aciklama": "<b>Masaüstü Yayıncılık (DTP)</b> yazılımları, sayfa düzeni ve tipografi odaklıdır. Bu alandaki profesyonel programlar arasında <b>Adobe InDesign</b>, <b>QuarkXPress</b> ve <b>Scribus</b> sayılabilir. <b>Microsoft Word</b>, temel olarak bir <b>kelime işlemci</b> yazılımıdır ve çok sayfalı karmaşık mizanpaj işlemleri için uygun değildir, bu yüzden DTP yazılımlarından biri olarak kabul edilmez."
+    },
+    {
+        "SoruID": 230325,
+        "Aciklama": "Masaüstü yayıncılıkta kullanılan temel çizim araçları, <b>vektörel</b> tabanlı olup (<b>Kalem Aracı, Dikdörtgen Aracı, Elips Aracı</b>), yollar ve şekiller oluşturmaya yarar. <b>Dolgu Kovası Aracı</b> (Paint Bucket Tool) gibi araçlar daha çok bitmap tabanlı veya temel boyama programlarında kullanılırken, profesyonel DTP yazılımlarında renk dolgusu genellikle <b>Renk Örnekleri</b> (Swatches) veya <b>Renk Paneli</b> üzerinden uygulanır ve ayrı bir çizim aracı olarak sınıflandırılmaz."
+    },
+    {
+        "SoruID": 230327,
+        "Aciklama": "InDesign programında, herhangi bir geometrik şekli (Dikdörtgen, Elips vb.) çizerken, çizime başlanan noktayı <b>merkez</b> kabul ederek, şeklin bu merkezden simetrik olarak dışa doğru büyümesini sağlamak için klavyeden <b>Alt (Option)</b> tuşu basılı tutulur."
+    },
+    {
+        "SoruID": 230329,
+        "Aciklama": "InDesign'da çizgi çizerken açıyı <b>45°</b>’nin katlarıyla (90°, 135°, vb.) sınırlamak veya bir şekil çizerken yolun ya da çerçevenin genişliği ve yüksekliğini <b>aynı orantılarla</b> (kare, daire) sınırlamak (orantıyı korumak) için çizim sırasında klavyeden <b>Shift</b> tuşu basılı tutulur."
+    },
+    {
+        "SoruID": 230331,
+        "Aciklama": "InDesign'da çoklu çerçeve (ızgara) oluşturulurken, sürükleme sırasında ızgaradaki çerçeveler arasındaki boşluğu (<b>gutter</b>) değiştirmek için klavyeden <b>Ctrl (Command)</b> tuşu basılı tutulur ve ok tuşları (sağ/sol veya yukarı/aşağı) kullanılır. Bu, mizanpaj boşluklarının anlık olarak ayarlanmasını sağlar."
+    },
+    {
+        "SoruID": 230334,
+        "Aciklama": "InDesign'da <b>Çokgen Aracı</b> kullanılırken fare tuşu basılı tutuluyorken (yani çizim devam ederken), çokgenin <b>kenar sayısını</b> artırmak veya azaltmak için <b>Yukarı/Aşağı Ok Tuşları</b> kullanılır. Benzer şekilde, yıldız şekli oluşturuluyorsa <b>yıldız iç boşluğunu</b> (Star Inset) değiştirmek için <b>Sağ/Sol Ok Tuşları</b> kullanılır. Burada sorulan, bu ayarlamaları yapmak için kullanılan tuşlardır: Ok Tuşları."
+    },
+    {
+        "SoruID": 244201,
+        "Aciklama": "Masaüstü yayıncılıkta kullanılan temel yazılımlar <b>Adobe InDesign</b>, <b>QuarkXPress</b> gibi mizanpaj odaklı programlardır. <b>Adobe Illustrator</b> ve <b>Adobe Photoshop</b> ise çizim ve fotoğraf düzenleme yoluyla DTP sürecini destekleyen yardımcı yazılımlardır. <b>MS Excel</b> ise hesap tablosu yazılımıdır ve masaüstü yayıncılık programlarından biri değildir."
+    },
+    {
+        "SoruID": 244204,
+        "Aciklama": "InDesign'da çerçeve aracıyla çoklu çerçeve ızgarası oluşturulurken, sürükleme esnasında <b>sütun sayısını</b> değiştirmek için klavyeden <b>Sağ ve Sol Ok Tuşları</b>, <b>satır sayısını</b> değiştirmek için ise <b>Yukarı ve Aşağı Ok Tuşları</b> kullanılır."
+    },
+    {
+        "SoruID": 244206,
+        "Aciklama": "InDesign programında yollara, şekillere, metin çerçevelerine veya metin ana hatlarına <b>çizgi (stroke)</b> ayarları (kalınlık, renk, stil, köşe tipi) uygulamasına imkân tanıyan ana panel <b>Çizgi Paneli</b>’dir (Stroke Panel). Bu panel, <b>Pencere > Çizgi</b> menü yoluyla erişilebilir."
+    },
+    {
+        "SoruID": 244207,
+        "Aciklama": "InDesign'daki <b>Kalem Aracı</b> (Pen Tool) vektörel yollar oluşturur.<br/>I. Yanlış: Kalem aracı hem <b>düz çizgiler</b> hem de <b>Bezier eğrileri</b> ile kavisli çizimler yapabilir.<br/>II. Doğru: Çizgilerin uzunluğu, iki bağlantı noktası arasındaki mesafeyi belirleyen <b>sürükleme</b> ile belirlenir.<br/>III. Doğru: Kalem Aracı, yolun köşe ve eğri noktaları olan <b>bağlantı noktaları</b> (anchor points) ekleyerek, çokgenler ve karmaşık şekiller oluşturmayı mümkün kılar. <br/>Bu nedenle doğru olan ifadeler II ve III'tür."
+    },
+    {
+        "SoruID": 350386,
+        "Aciklama": "InDesign programında bir nesneye (yol, şekil, çerçeve) çizgi eklemek ve ayarlamak için izlenmesi gereken temel yol, çizgi ayarlarına erişim sağlayan <b>Pencere</b> menüsünden <b>Çizgi (Stroke) Paneli</b>'ni açmaktır. Alternatif olarak, üst <b>Kontrol Paneli</b> üzerindeki çizgi kalınlığı ve renk seçenekleri de kullanılabilir."
+    },
+    {
+        "SoruID": 350388,
+        "Aciklama": "InDesign'da nesnenin <b>sınırlayıcı kutusu</b> (Bounding Box) ile belirlenen genişlik ve yüksekliğe sahip dikdörtgen bir metin sarma sınırı oluşturan komut, Metin Sarma panelinde yer alan <b>Sınırlayıcı Kutu Etrafında Sar</b> (Wrap Around Bounding Box) komutudur. Bu, metnin nesneyi çevreleyen en basit dikdörtgen alanın dışına akmasını sağlar."
+    },
+    {
+        "SoruID": 148357,
+        "Aciklama": "<b>Windows Movie Maker</b> ile oluşturulan projeler genellikle .mswmm uzantısını kullanırken, dışa aktarılan video dosyalarının varsayılan ve en yaygın uzantısı <b>.wmv</b> (Windows Media Video) formatıdır. Bu format, Windows işletim sistemleri ve çoğu medya oynatıcı tarafından desteklenir."
+    },
+    {
+        "SoruID": 151134,
+        "Aciklama": "E-kitaplar için video hazırlarken temel amaç, videonun cihazlarda hızlı yüklenmesi ve sorunsuz oynatılmasıdır. Bu süreçte dikkat edilmesi gerekenler arasında <b>video çözünürlüğünün optimize edilmesi</b>, <b>uygun sıkıştırma formatının kullanılması</b> ve <b>dosya boyutunun düşük tutulması</b> yer alır. Bu hususlardan biri olmayan durum genellikle <b>video içeriğinin e-kitabın bağlamıyla ilgisiz olması</b> veya <b>gereksiz yere aşırı yüksek çözünürlük kullanılarak dosya boyutunun şişirilmesi</b> olacaktır."
+    },
+    {
+        "SoruID": 230336,
+        "Aciklama": "Açık kaynak (Open Source) yazılımlar, kaynak kodu serbestçe erişilebilir, değiştirilebilir ve dağıtılabilir olan yazılımlardır (Örn: Shotcut, Kdenlive). Sorunun doğru cevabı, genellikle <b>Adobe Premiere Pro</b> veya <b>Final Cut Pro</b> gibi <b>ticari</b> ve lisans gerektiren profesyonel video düzenleme yazılımlarından biri olmalıdır, zira bu programlar açık kaynak değildir."
+    },
+    {
+        "SoruID": 230337,
+        "Aciklama": "E-kitap hazırlama yazılımlarında (örneğin Adobe InDesign), bir metin çerçevesi içine video gibi bir nesne eklendiğinde, metnin nesnenin etrafında nasıl akacağını veya yerleşeceğini belirleyen ayar <b>Metin Kaydırma (Text Wrapping)</b> ayarlarıdır. Bu, metin ile gömülü nesnenin uyumlu bir şekilde görünmesini sağlar."
+    },
+    {
+        "SoruID": 230343,
+        "Aciklama": "Adobe InDesign programında, belgeye eklenen videoların oynatma seçenekleri (döngü, otomatik oynatma, poster resmi) ve etkileşimli özelliklerini (gezinme noktaları) ayarlamak için kullanılan özelleştirilmiş araç paneli <b>Ortam Paneli (Media Panel)</b>'dir."
+    },
+    {
+        "SoruID": 230350,
+        "Aciklama": "Video çekimlerinde kullanılan tüm ışık kaynakları geçerlidir. I. <b>Gün Işığı</b> (Doğal Işık), II. <b>Çevredeki Işıklar</b> (Mekânda bulunan yapay ışıklar) ve III. <b>Profesyonel Işıklandırma Sistemleri</b> (Özel olarak kullanılan ekipmanlar) dahil olmak üzere, her üçü de çekim ortamını aydınlatmak için kullanılan temel ışık türlerindendir."
+    },
+    {
+        "SoruID": 230353,
+        "Aciklama": "Işıklandırmada kullanılan <b>difüzyon kâğıdı (Diffusion Paper)</b> veya difüzör, ışık kaynağının önüne yerleştirilir. Temel özelliği, doğrudan gelen sert ışığı <b>dağıtmak ve yumuşatmaktır</b>. Bu sayede objeler üzerinde oluşan keskin gölgeler azaltılarak daha doğal bir aydınlatma elde edilir."
+    },
+    {
+        "SoruID": 230357,
+        "Aciklama": "<b>Reflektör (Yansıtıcı)</b>, kendi başına bir ışık kaynağı değildir. Ana ışık kaynağının (Gün ışığı veya yapay ışık) ışığını <b>yansıtarak ve yönlendirerek</b>, gölgeli kalan alanları doldurmak ve böylece kontrastı azaltmak için kullanılır. Reflektörler ışığı yansıtma prensibiyle çalışır."
+    },
+    {
+        "SoruID": 230359,
+        "Aciklama": "Shotcut, popüler, <b>ücretsiz ve açık kaynaklı</b> bir video düzenleme yazılımıdır. <b>Çoklu platform desteği</b> (Windows, macOS, Linux) sunar, geniş formatları destekler ve temel/orta seviye düzenleme yeteneklerine sahiptir. Özelliklerinden biri olmayan durum, genellikle <b>yazılımın lisans gerektirmesi</b> veya <b>sınırlı işletim sistemi desteği sunması</b> gibi yanlış bir iddia olmalıdır."
+    },
+    {
+        "SoruID": 230362,
+        "Aciklama": "YouTube platformunda yüklü videoları düzenlemek ve geliştirmek için kullanılan düzenleme araçlarına, günümüzde <b>YouTube Studio</b> arayüzü üzerinden erişilir. Kullanıcılar, içerik listesinden videoyu seçtikten sonra <b>Düzenleyici (Editor)</b> komutu ile bu ekrana ulaşabilirler."
+    },
+    {
+        "SoruID": 230365,
+        "Aciklama": "Adobe InDesign’daki Ortam Panelinde bulunan <b>Gezinme Noktaları (Navigation Points)</b>, interaktif belgelerde (örneğin PDF) yer alan bir videonun belirli anlarına (zaman damgalarına) işaret koymak için kullanılır. Bu işaretler, kullanıcıların videonun belli bir bölümüne hızlıca atlamasını sağlayan <b>işaretleyiciler (bookmarks)</b> oluşturur."
+    },
+    {
+        "SoruID": 244217,
+        "Aciklama": "Shotcut, tamamen <b>ücretsiz</b> ve <b>açık kaynaklı</b> bir yazılımdır. Özelliklerinden biri olmayan seçenek, genellikle programın temel yapısıyla çelişen bir iddia olur; örneğin 'Aylık abonelik gerektirmesi' veya 'Sadece profesyonel stüdyo kullanımı için tasarlanması' gibi. Shotcut, genel kullanıma uygun, platformlar arası bir araçtır."
+    },
+    {
+        "SoruID": 244350,
+        "Aciklama": "Çevrimiçi video düzenleme siteleri, tarayıcı tabanlı hizmetler sunar (Örn: WeVideo, Clipchamp). Eğer seçeneklerde bir masaüstü yazılımı veya video düzenleme dışındaki bir hizmet varsa, doğru cevap odur. Örneğin, <b>Adobe Photoshop</b>, temel işlevi video düzenleme olmayan, <b>görüntü düzenleme</b> için kullanılan bir yazılımdır ve bu tanıma uymaz."
+    },
+    {
+        "SoruID": 244357,
+        "Aciklama": "PDF belgesine eklenen videonun, belge içinde gömülü olarak değil de, cihazda kurulu olan <b>harici bir oynatıcı</b> (VLC, QuickTime vb.) tarafından çalıştırılmasını sağlamak için Ortam Panelinde (Media Panel) seçilmesi gereken özellik genellikle <b>Harici Oynatıcıda Oynat (Launch in External Player)</b> ayarıdır. Bu, PDF dosyasının boyutunu düşük tutmaya yardımcı olabilir."
+    },
+    {
+        "SoruID": 350498,
+        "Aciklama": "Çevrimiçi video düzenleme ve oluşturma platformları internet tarayıcısı üzerinden hizmet verir. Bu web sayfalarından biri olmayan seçenek, genellikle <b>masaüstü tabanlı</b> bir uygulama veya sadece oynatma işlevi gören bir yazılım olacaktır. Örneğin <b>VLC Media Player</b>, çevrimiçi düzenleme imkânı sunmayan bir <b>masaüstü medya oynatıcısıdır</b>."
+    },
+    {
+        "SoruID": 351140,
+        "Aciklama": "Profesyonel ses kayıtlarında en önemli kural, mümkün olduğunca <b>temiz ve gürültüsüz</b> bir kayıt elde etmektir. Önerilen stratejiler <b>sessiz ortam</b>, <b>doğru mikrofon pozisyonu</b> ve <b>ses seviyesi optimizasyonudur</b>. Önerilmeyen stratejilerden biri, ses kalitesini düşürecek eylemlerdir; örneğin <b>yankı veya dış gürültüye sebep olacak şekilde kayıt yapmak</b> ya da sesi bozacak <b>aşırı dijital sıkıştırma uygulamak</b>."
+    },
+    {
+        "SoruID": 148331,
+        "Aciklama": "PDF (Portable Document Format) formatı, dosyaların kaynaktan bağımsız olarak aynı görünmesini sağlamak amacıyla geliştirilmiştir. PDF'in temel özellikleri arasında <b>tasarımın sabit olması</b> (fixed layout), şifreleme ve dijital imza gibi <b>güvenlik özelliklerini desteklemesi</b> ve <b>yüksek çözünürlüklü baskı kalitesini koruması</b> bulunur. Ancak PDF, özellikle küçük ekranlarda metnin otomatik olarak cihazın boyutuna göre akışını (reflowability) sağlamakta zorlanır. Bu nedenle, 'ekran boyutuna göre metnin otomatik olarak uyarlanması' gibi reflowable (akışkan) format özelliklerini desteklemesi, PDF'in öncelikli bir özelliği olarak <u>yer almaz</u>."
+    },
+    {
+        "SoruID": 151209,
+        "Aciklama": "E-kitap formatları arasında <b>EPUB</b> (reflowable/akışkan mizanpaj) ve <b>PDF</b> (fixed/sabit mizanpaj) temel farklılıklar gösterir. EPUB, genellikle ekran boyutuna adapte olabilme yeteneği nedeniyle PDF'e göre daha esnektir ve çoğu cihazda tercih edilir. Yanlış olan ifade, genellikle formatların temel özelliklerini karıştırır veya bir formatın yeteneğini yanlış belirtir (Örneğin, 'PDF akışkan mizanpajı destekler' gibi bir ifade yanlış olacaktır)."
+    },
+    {
+        "SoruID": 230525,
+        "Aciklama": "Temel e-kitap formatları arasında <b>EPUB</b> (açık standart), <b>PDF</b> (sabit belge formatı), <b>MOBI/AZW</b> (Amazon Kindle formatları) ve <b>IBA</b> (Apple iBooks Author formatı) sayılabilir. Bir dosya formatının e-kitap formatı sayılabilmesi için genellikle okuyucu cihazlar tarafından standart olarak desteklenmesi ve e-kitap yapısını (içindekiler, meta veri vb.) içermesi gerekir. Örneğin, DOCX veya PSD gibi işlenmemiş kaynak dosyalar e-kitap formatı <u>değildir</u>."
+    },
+    {
+        "SoruID": 230539,
+        "Aciklama": "<b>EPUB 2.0</b>, 2007 yılında yayımlanmış eski bir formattır. Temel olarak XHTML 1.1 ve CSS 2.0 desteği sunar. EPUB 2.0 ile ilgili yanlış olan ifade, genellikle modern web standartlarını (HTML5, CSS3) desteklediğini iddia eden veya <b>gelişmiş multimedya/interaktif özelliklere</b> (Media Overlays, MathML) sahip olduğunu belirten bir ifadedir. Bu gelişmiş özellikler sadece <b>EPUB 3.0</b> formatı ile gelmiştir. EPUB 2.0, bu yeni nesil öğeleri tam olarak desteklemez."
+    },
+    {
+        "SoruID": 230549,
+        "Aciklama": "<b>EPUB 3.0</b>, modern web teknolojilerine (HTML5, CSS3, JavaScript) dayanan güncel e-kitap formatıdır. Multimedya, etkileşimli içerikler, gelişmiş erişilebilirlik (WCAG 2.0 uyumu) ve <b>Media Overlays</b> (senkronize metin ve ses) gibi pek çok öğeyi destekler. EPUB 3.0'ın desteklemediği öğe, genellikle güncel olmayan veya telif hakkı nedeniyle kısıtlanmış bir teknoloji (örneğin Flash) ya da zaten formatın doğasına aykırı olan katı bir kısıtlama olabilir. Temel olarak, EPUB 3.0 <b>HTML5'in desteklediği her şeyi</b> destekler."
+    },
+    {
+        "SoruID": 230566,
+        "Aciklama": "Yazar adı, telif hakkı, tarih, çözünürlük, anahtar kelimeler, yayıncı gibi bir e-kitabın içeriği hakkındaki standart bilgilere <b>meta veri (metadata)</b> denir. Meta veriler, e-kitabın kataloglanmasını, aranmasını ve okunabilir cihazlar tarafından doğru şekilde işlenmesini sağlayan ‘veri hakkındaki veri’dir."
+    },
+    {
+        "SoruID": 230576,
+        "Aciklama": "InDesign programında bir e-kitap (özellikle EPUB) dışa aktarılırken, kapak resmi ayarlarının yapıldığı bir seçenek bulunur. Kitabın ilk sayfasını otomatik olarak kapak olarak ayarlayan seçenek <b>İlk Sayfayı Kapak Varsay</b> seçeneğidir. Bu, dosyanın ilk sayfasını e-kitap okuyucu cihazlarda görüntülenecek ön kapak resmi olarak işaretler."
+    },
+    {
+        "SoruID": 230580,
+        "Aciklama": "Tasarımın görüntülenecek cihazda ekran boyutuna göre <b>değişmemesi</b> (sabit kalması) isteniyorsa, bu sabit mizanpaj demektir. Metin içi aramaya izin veren, sabit mizanpajlı formatlar arasında <b>PDF</b> ve <b>Sabit Mizanpajlı EPUB (Fixed Layout EPUB)</b> bulunur. Eğer amaç tasarımın kesinlikle bozulmaması ise, PDF formatı geleneksel olarak bu gereksinimi karşılar ve metin içi aramayı destekler."
+    },
+    {
+        "SoruID": 230641,
+        "Aciklama": "DRM, İngilizce “Digital Rights Management” (Dijital Hak Yönetimi) kelimelerinin kısaltmasıdır. Bu teknoloji, e-kitaplar ve diğer dijital içeriklerin yetkisiz kopyalanmasını ve dağıtımını önlemek amacıyla kullanılır. Türkçe açılımı: <b>Dijital Hak Yönetimi</b>'dir."
+    },
+    {
+        "SoruID": 230643,
+        "Aciklama": "DRM (Dijital Hak Yönetimi) teknolojileri, içeriği korumak için birden fazla yöntem kullanır. Bunlar arasında:<br/>I. <b>Şifreleme</b> (Encryption): İçeriği sadece yetkili kullanıcıların okuyabileceği hale getirir.<br/>II. <b>Özel Anahtar/Lisanslama</b>: Kullanıcının içeriğe erişimi için özel bir yetkilendirme anahtarına sahip olmasını gerektirir.<br/>III. <b>Dijital Filigran</b> (Digital Watermarking): İçeriğe kullanıcının kimlik bilgileri gibi takip edilebilir verilerin görünmez bir şekilde gömülmesidir.<br/>Bu üç unsurun hepsi, dijital içeriği koruma altına alan DRM teknolojilerinin bir parçasıdır."
+    },
+    {
+        "SoruID": 230650,
+        "Aciklama": "Doğru olan ifade genellikle e-kitap formatlarının temel özelliklerini yansıtır. Örneğin, <b>EPUB</b> formatı, <b>akışkan (reflowable) mizanpaj</b> yapısı sayesinde farklı cihaz ekran boyutlarına ve çözünürlüklerine kolayca adapte olabilirken; <b>PDF</b> formatı ise baskı kalitesini koruyan <b>sabit mizanpaj</b> sunar. Bu temel ayrım, genellikle doğru kabul edilen format karşılaştırma bilgisini oluşturur."
+    },
+    {
+        "SoruID": 230653,
+        "Aciklama": "PDF formatı sabit mizanpaja sahiptir ve basılı kitabın dijital kopyası gibi davranır. Bu, tasarımın korunması açısından avantajlıdır, ancak küçük ekranlı cihazlarda okuma deneyimini kötüleştirir çünkü metin otomatik olarak ekrana sığacak şekilde <b>yeniden akış yapmaz (reflowable değildir)</b>. Bu nedenle, PDF formatının 'tüm ekran boyutlarına otomatik olarak uyum sağladığını' belirten bir ifade yanlıştır."
+    },
+    {
+        "SoruID": 244369,
+        "Aciklama": "EPUB’un PDF’e karşı en büyük üstünlükleri <b>akışkan mizanpaj (reflowability)</b>, daha iyi <b>erişilebilirlik</b> (metin boyutunu, yazı tipini değiştirme) ve <b>interaktif içerik desteğidir</b>. PDF’in üstün olduğu alan ise <b>tasarımın birebir sabit kalması</b> ve sayfa yapısının korunmasıdır. Bu nedenle, 'tasarımın basılı kitaptaki gibi milimetrik hassasiyetle korunması' EPUB formatının bir üstünlüğü <u>değildir</u>; bu, PDF’in veya Sabit Mizanpajlı EPUB’un özelliğidir, ancak standart EPUB’a göre PDF bu konuda daha güçlüdür."
+    },
+    {
+        "SoruID": 244395,
+        "Aciklama": "Bir e-kitap hakkındaki yazar adı, telif hakkı, renk uzayı, anahtar kelimeler, ISBN gibi standart bilgiler, e-kitap ile ilgili <b>meta veri</b> (metadata) olarak adlandırılan verilerdir. Bu veriler, e-kitabın düzenlenmesi, arama motorlarında bulunması ve kütüphane sistemlerinde sınıflandırılması için kritik öneme sahiptir."
+    },
+    {
+        "SoruID": 350504,
+        "Aciklama": "Google Chrome gibi modern web tarayıcıları için geliştirilmiş ve kullanıcıların ek bir masaüstü yazılımına ihtiyaç duymadan EPUB dosyalarını doğrudan tarayıcı üzerinden okumasını sağlayan yazılım eklentileri mevcuttur. Bu alanda sıklıkla anılan, açık kaynaklı ve önde gelen okuma sistemi <b>Readium</b>'dur. Readium, özellikle EPUB 3.0'ın özelliklerini tarayıcılarda sergilemek için geliştirilmiştir."
+    },
+    {
+        "SoruID": 405812,
+        "Aciklama": "Tanımlanan özelliklere sahip (çoklu platform desteği: Linux, MacOS, Windows; farklı formatlar arası dönüşüm; meta veri düzenleme ve e-kitap okuma) kapsamlı e-kitap yönetim uygulaması <b>Calibre</b>'dir. Calibre, dijital kütüphane oluşturmak ve e-kitap formatlarını cihazlar arası uyumluluk için dönüştürmek amacıyla endüstri standardı olarak kabul edilir."
+    }
+]

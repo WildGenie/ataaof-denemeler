@@ -1,0 +1,922 @@
+[
+    {
+        "SoruID": 360988,
+        "Aciklama": "Mühürler, tarih boyunca kullanılan önemli araçlardır ve temel olarak üç ana sınıfta incelenir: <b>Damga mühürler</b> (I), <b>Yüzük mühürler</b> (II) ve <b>Silindir mühürler</b> (III). Bu sınıflandırmalar, mühürlerin kullanım biçimlerine ve yüzey şekillerine göre yapılır. Damga mühürler düz bir yüzeye sahiptir ve bastırılarak iz bırakır. Silindir mühürler ise yuvarlanarak sürekli bir iz oluşturur. Dördüncü seçenek ('Silindir damga mühürler') genel bir sınıflandırma terimi değildir."
+    },
+    {
+        "SoruID": 360989,
+        "Aciklama": "Tahta baskı (ksilografi) yöntemine ilişkin bilinen en eski örnekler <b>Çin</b>'de görülmüştür. Bu teknik, M.S. 7. yüzyıldan itibaren Tang Hanedanlığı döneminde Budist metinlerin ve resimlerin çoğaltılması için yaygın olarak kullanılmıştır."
+    },
+    {
+        "SoruID": 360990,
+        "Aciklama": "<b>Ukiyo-e</b>, kelimenin tam anlamıyla 'yüzen dünyanın resimleri' anlamına gelen ve 17. yüzyıldan 19. yüzyıla kadar popülerliğini koruyan bir <b>Japon</b> sanat akımıdır. Bu sanat türü çoğunlukla Edo dönemindeki günlük yaşamı, tiyatro oyuncularını, sumo güreşçilerini ve manzaraları konu alan <b>tahta baskı</b> (woodblock print) eserlerinden oluşur."
+    },
+    {
+        "SoruID": 360991,
+        "Aciklama": "<b>Tosusai Sharaku</b>, 18. yüzyılın sonlarında <b>Japonya</b>'da kısa bir süre faaliyet göstermiş gizemli bir Ukiyo-e sanatçısıdır. Eserleri neredeyse tamamen <b>Kabuki tiyatrosu oyuncularının</b> karakteristik ve dramatik <b>portreleri</b> üzerine yoğunlaşmıştır. Sanatçı, figürlerin duygusal yoğunluğunu ve kişiliklerini vurgulama yeteneğiyle tanınır."
+    },
+    {
+        "SoruID": 360992,
+        "Aciklama": "Kâğıt, <b>Çin</b>'de icat edildikten sonra (M.S. 2. yüzyıl) İpek Yolu ve Arap medeniyetleri aracılığıyla Batı'ya yayılmıştır. Kâğıt, <b>12. yüzyılda</b> (özellikle İspanya ve İtalya üzerinden) <b>Avrupa</b>’ya getirilmeye başlanmış, ilk üretim tesisleri kurulmuş ve yaygın kullanımı 13. yüzyılda başlamıştır."
+    },
+    {
+        "SoruID": 360993,
+        "Aciklama": "Yazı ve resimlerin aynı yüzeye oyularak oluşturulan ve baskı için kullanılan bu ağaç kalıba <b>tahta baskı kalıbı</b> veya <b>ksilografi kalıbı</b> adı verilir. Bu teknik, <b>hareketli harflerin icadından</b> önce metin ve görsel çoğaltmanın temel yöntemlerinden biriydi."
+    },
+    {
+        "SoruID": 361000,
+        "Aciklama": "Kâğıdın yalnızca bir yüzeyine yapılan baskılara <b>tek taraflı baskı</b> veya Yunanca kökenli bir terim olan <b>anopistos</b> adı verilir. Erken dönem tahta baskıda, mürekkebin arkaya geçme riskini azaltmak için bu yöntem sıklıkla kullanılırdı."
+    },
+    {
+        "SoruID": 361002,
+        "Aciklama": "Kâğıdın hem ön hem de arka yüzeyine yapılan baskı tekniğine <b>çift taraflı baskı</b> veya <b>opistografik baskı</b> denir. Bu yöntem, kâğıt kullanımında tasarruf sağlar ve modern kitap üretiminin temelini oluşturur."
+    },
+    {
+        "SoruID": 361006,
+        "Aciklama": "Avrupa'da modern matbaanın ve <b>hareketli metal harflerle baskı tekniğini</b> icat eden kişi, 15. yüzyılın ortalarında (yaklaşık 1450) <b>Johannes Gutenberg</b>'dir. Gutenberg'in icadı, bilginin yayılma hızını kökten değiştirmiştir."
+    },
+    {
+        "SoruID": 361007,
+        "Aciklama": "Resimlerin, tahta baskıya göre daha ince detaylarla ve daha kaliteli basılmasına olanak veren ilk metal malzeme <b>bakır</b> levhadır. 15. yüzyılda gelişmeye başlayan <b>Bakır Gravür</b> (Copper Engraving) tekniği, sanat ve illüstrasyon alanında çok daha yüksek çözünürlüklü baskılar yapılmasını sağlamıştır."
+    },
+    {
+        "SoruID": 374606,
+        "Aciklama": "Çin’de kâğıdın icadından sonra ortaya çıkan erken kitap biçimleri arasında <b>rulo (tomar)</b>, rulodan geliştirilen <b>katlanabilir (akordeon) biçim</b> (leporello) ve daha sonraki dönemlerde <b>ciltli kitap (codex)</b> biçimleri bulunmaktadır. Bu biçimler, bilginin depolanması ve erişilebilirliğinde aşamalı bir gelişimi göstermiştir."
+    },
+    {
+        "SoruID": 374609,
+        "Aciklama": "Kitabın tarihi, bilginin kalıcı olarak kaydedilmesi ve çoğaltılması ihtiyacıyla ilişkilidir. Bu nedenle, kitabın tarihi <b>yazının bulunuşu</b> ile başlar. Yazı, en eski <b>kil tabletlerden</b> itibaren bilginin taşınabilir bir biçimde saklanmasının temelini oluşturur."
+    },
+    {
+        "SoruID": 374611,
+        "Aciklama": "Kâğıt, M.S. 105 yılında <b>Çin</b>'de, Han Hanedanlığı döneminde saray görevlisi <b>Cai Lun</b> tarafından resmi olarak icat edilmiştir. Kâğıt, bu tarihten sonra Çin'den dünyaya yayılmıştır."
+    },
+    {
+        "SoruID": 374614,
+        "Aciklama": "Orta Çağ'da, matbaanın icadından önce, kitaplar ağırlıklı olarak manastırlarda elle kopyalanırdı. Bu kitap çoğaltma ve el yazması hazırlama atölyelerine <b>Scriptorium</b> adı verilirdi. Scriptoriumlar, antik bilgiyi ve dinsel metinleri korumada merkezi bir rol üstlenmiştir."
+    },
+    {
+        "SoruID": 374618,
+        "Aciklama": "<b>Karolenj yazı sistemi</b>, 8. yüzyılın sonlarında Kutsal Roma İmparatoru Şarlman döneminde geliştirilen ve standartlaştırılan <b>Karolenj Minüskül</b> (Carolingian Minuscule) yazısıdır. Bu sistem, okumayı kolaylaştırmış ve Avrupa'da büyük ve küçük harflerin ayrı ayrı kullanılmaya başlandığı modern yazı karakterlerinin temeli olmuştur."
+    },
+    {
+        "SoruID": 374621,
+        "Aciklama": "Johannes Gutenberg’in hareketli metal harf tekniğiyle bastığı ve tarihe geçen ilk büyük kitabı <b>42 Satırlı İncil</b>'dir (Gutenberg İncili). 1450-1455 yılları arasında tamamlanan bu eser, matbaa teknolojisinin potansiyelini tüm Avrupa’ya göstermiştir."
+    },
+    {
+        "SoruID": 398879,
+        "Aciklama": "Sesler için işaretler geliştirerek (harfler) bunların oluşturduğu dizinler ile sözcükler yazmaya odaklanan sistem, <b>alfabetik yazı sistemi</b>dir. Bu sistemde, her işaret bir sesi (fonem) temsil eder. Mezopotamya'daki piktogram ve ideogramların aksine, <b>alfabetik yazı</b>, işaret sayısını büyük ölçüde azaltarak öğrenmeyi kolaylaştırmıştır."
+    },
+    {
+        "SoruID": 398880,
+        "Aciklama": "<b>Silindir mühürler</b>, özellikle M.Ö. 4. binyılda <b>Mezopotamya</b> (Sümerler) ve komşu bölgelerde yaygın olarak kullanılmıştır. Temel işlevi, <b>ıslak kil tabletler</b> üzerinde yuvarlanarak sahipliği, resmi belgeleri veya ticari işlemleri <b>onaylamak</b> (imzalamak) ve kimlik doğrulaması yapmaktır."
+    },
+    {
+        "SoruID": 361008,
+        "Aciklama": "Baskıresim (grafik sanatlar), bir <b>kalıp (matris)</b> üzerinden kâğıt ya da başka bir yüzeye aktarım yoluyla oluşturulan görsel sanatlardır. Bu sanat dalının temel amacı, görselin birden fazla kopyasının, yani bir edisyonun, üretilmesidir."
+    },
+    {
+        "SoruID": 361009,
+        "Aciklama": "Baskıresmi diğer sanat disiplinlerinden (resim, heykel) ayıran en önemli özellik, bir görselin tek bir orijinal yerine, <b>çoğaltılabilir</b> olmasıdır. Bu, sanatçının sınırlı sayıda özgün kopya (edisyon) üretmesine olanak tanır ve eserin daha geniş kitlelere ulaşmasını sağlar."
+    },
+    {
+        "SoruID": 361010,
+        "Aciklama": "Baskıresim tekniklerinin gelişimi, kağıdın ve matbaanın icadıyla yakından ilişkilidir. Baskıresmin bir sanat formu olarak yaygınlaşması, <b>kâğıt</b> üzerine yapılan tahta kalıp baskılarla Çin'de başlamıştır. Her ne kadar tekstil üzerine baskı daha eski olsa da, sanat tarihi bağlamında kâğıt, baskıresmin gelişimindeki kritik malzemedir."
+    },
+    {
+        "SoruID": 361011,
+        "Aciklama": "Baskıresim tekniklerinin kitlelere yayılmasını ve modernleşmesini sağlayan en önemli buluş, 15. yüzyılda Johannes Gutenberg tarafından geliştirilen <b>hareketli harflerle basım tekniği (matbaa)</b> olmuştur. Matbaa, bilginin ve görsellerin hızla çoğaltılması ve dağıtılması çağını başlatmıştır, bu da baskıresmin önemini artırmıştır."
+    },
+    {
+        "SoruID": 361012,
+        "Aciklama": "Metal levha üzerine uygulanan <b>çukur baskı (intaglio)</b> teknikleri (özellikle gravür), ahşap baskıdan sonra Avrupa'da <b>15. yüzyılda</b>, çoğunlukla kuyumcular ve metal işçileri tarafından geliştirilmiştir. Bu teknik, tahta baskıya göre daha ince detaylar ve zengin ton geçişleri sunmuştur."
+    },
+    {
+        "SoruID": 361014,
+        "Aciklama": "Romantizm, 18. yüzyılı domine eden rasyonalist <b>Aydınlanma</b> (Enlightenment) döneminin katı kurallarına, mantığa ve Neoklasik estetiğe bir tepki olarak doğmuştur. Aydınlanma, akılcılığı merkeze alarak toplumsal ve düşünsel yapıda büyük bir değişim yaratmış ve Romantizm de bu değişimin duygusal karşılığı olmuştur."
+    },
+    {
+        "SoruID": 361015,
+        "Aciklama": "Yüzey baskı tekniği olan <b>Litografi (Taş Baskı)</b>, 1798 yılında Alman yazar ve matbaacı <b>Alois Senefelder</b> tarafından bulunmuştur. Bu teknik, yağın suyu itmesi prensibine dayanır ve hem sanatsal hem de ticari çoğaltmada devrim niteliğinde kolaylıklar sağlamıştır."
+    },
+    {
+        "SoruID": 361016,
+        "Aciklama": "19. yüzyıl Fransız resim sanatında, doğayı stüdyo dışında incelemeye odaklanan <b>Barbizon Okulu</b>'nun önde gelen kurucularından biri <b>Théodore Rousseau</b>'dur. Okul, sanatsal üretime stüdyo dışında, doğal ortamda devam etme geleneğini başlatmıştır."
+    },
+    {
+        "SoruID": 361017,
+        "Aciklama": "Barbizon Okulu’nun önemi, ressamların stüdyo ortamından ayrılarak, <b>doğayı doğrudan gözlemlemeye ve tarafsız</b> bir şekilde resmetmeye odaklanmalarıdır. Bu yaklaşım, akademik gelenekten kopuşu işaret eder ve daha sonra doğanın ışık ve anlık etkilerine odaklanan İzlenimciliğin (Empresyonizm) ortaya çıkışına zemin hazırlamıştır."
+    },
+    {
+        "SoruID": 374624,
+        "Aciklama": "Gerçekçilik (Realizm) akımının öncüsü olan <b>Gustave Courbet</b>, eserlerinde sıklıkla doğal manzaraları ve sıradan insanların yaşamını idealize etmeden ele almıştır. “Kaya Meşeleri” (The Oak at Flagey) tablosu, Courbet’nin <b>gözlemlenen gerçekliği yansıtan</b> peyzaj çalışmalarının tipik bir örneğidir."
+    },
+    {
+        "SoruID": 374625,
+        "Aciklama": "<b>Ukiyo-e</b>, kelimenin tam anlamıyla 'yüzen dünyanın resimleri' anlamına gelir ve Edo dönemi <b>Japonya</b>'sına ait popüler bir <b>tahta kalıp baskı</b> (woodblock print) sanatıdır. 19. yüzyılda Batı sanatını, özellikle Empresyonistleri ve Art Nouveau sanatçılarını derinden etkilemiştir (Japonizm)."
+    },
+    {
+        "SoruID": 374627,
+        "Aciklama": "<b>Aubrey Beardsley</b>, 19. yüzyıl sonlarında İngiltere'de etkin olmuş, Siyah-beyaz illüstrasyonları ve zarif, stilize edilmiş çizgileri ile tanınan, <b>Art Nouveau</b> akımının önde gelen temsilcilerindendir. Sanatı, aynı zamanda Estetizm ve Sembolizm akımlarıyla da ilişkilidir."
+    },
+    {
+        "SoruID": 374631,
+        "Aciklama": "19. yüzyıl sonlarında renkli litografinin gelişimiyle birlikte, <b>afiş tasarımı</b>, sanatı sadece saray ve galerilerden çıkarıp <b>sokaklara taşıyan</b> sanatsal uygulama olmuştur. Afişler, ticari ve kültürel mesajları halka ulaştırarak görsel iletişimin en önemli araçlarından biri haline gelmiştir."
+    },
+    {
+        "SoruID": 374632,
+        "Aciklama": "Paris'in bohem hayatını ve kabarelerini ölümsüzleştiren <b>Henri de Toulouse-Lautrec</b>, renkli litografi tekniğini kullanarak sayısız ünlü afiş tasarlamıştır. \"Divan Japonnais\" afişi, sanatçının <b>Art Nouveau</b> estetiği ve Japon baskılarından (Ukiyo-e) aldığı ilhamı birleştiren başyapıtlarından biridir."
+    },
+    {
+        "SoruID": 398881,
+        "Aciklama": "Art Nouveau'nun en karakteristik özelliği, doğadan ilham alan <b>akıcı, asimetrik ve kıvrımlı organik çizgiler</b> (özellikle 'kamçı darbesi' olarak bilinen dinamik eğriler) kullanmasıdır. Bu akım, sanatı ve günlük hayatı birleştirmeyi amaçlamış, mimari, mobilya ve grafik tasarıma yayılmıştır."
+    },
+    {
+        "SoruID": 398882,
+        "Aciklama": "Afiş tasarımının 19. yüzyıl sonlarında popülerleşmesinde, <b>Litografi (Taş Baskı)</b> tekniği hayati rol oynamıştır. Litografi, büyük formatlarda çalışmaya, yüksek kaliteli görseller elde etmeye ve özellikle <b>çok renkli basımı kolaylaştıran</b> hassas kayıt (register) imkanı sunması nedeniyle sıklıkla tercih edilmiştir."
+    },
+    {
+        "SoruID": 361272,
+        "Aciklama": "Güzel sanatlarda kullanılan <b>linol tabaka</b> (Linoleum), yüksek baskı tekniklerinden biri olan linol baskının (Linocut) ana malzemesidir. Linol, kauçuk, mantar tozu ve jütten yapılan bir malzemedir ve en önemli özelliği <b>yumuşak</b>, <b>oyulması kolay</b> ve <b>ağaçtaki gibi damar yapısına sahip olmamasıdır</b>. Bu özellikler, sanatçıya daha hızlı ve daha serbestçe çalışma imkanı sunar ve farklı yönlere kesim yaparken zorluk çıkarmaz."
+    },
+    {
+        "SoruID": 361273,
+        "Aciklama": "Oyularak yapılmış tahta kalıplardan resim basma tekniği olan <b>Ağaç Baskı</b> (Woodcut) ya da genel olarak yüksek baskı tekniği, ilk olarak <b>Çin</b>'de ortaya çıkmıştır. Çin’de özellikle dini metinlerin ve illüstrasyonların çoğaltılması amacıyla binlerce yıl önce kullanıldığı bilinmektedir. Avrupa'ya bu teknik, daha sonra matbaanın icadına zemin hazırlamıştır."
+    },
+    {
+        "SoruID": 361274,
+        "Aciklama": "<b>Edisyon baskı</b> (Edition Print), sanatçının orijinal kalıbından belirli sayıda basılan, <b>sınırlı, numaralandırılmış ve imzalanmış</b> baskılar serisidir. Bu baskılar, sanatçının kendisi tarafından basıldığı veya denetlendiği için orijinal sanat eseri statüsündedir. Numaralandırma genellikle kesir şeklinde yapılır (örneğin 10/50), ilk sayı o baskının sırasını, ikinci sayı ise toplam baskı sayısını gösterir."
+    },
+    {
+        "SoruID": 361275,
+        "Aciklama": "<b>Yüksek baskı</b> (Relief printing), baskının kalıbın yüzeyinde mürekkep tutan yüksek alanlardan alınması esasına dayanır. Yüksek baskı türlerinin başında <b>Ağaç Baskı</b> (Woodcut), <b>Ağaç Gravür</b> (Wood Engraving) ve <b>Linol Baskı</b> (Linocut) gelmektedir. Bu tekniklerde, baskı yapılmayacak alanlar oyularak yüzeyden alçaltılır."
+    },
+    {
+        "SoruID": 361276,
+        "Aciklama": "Sanatçının doğrudan müdahalesi ve onayı olmadan, tamamen mekanik veya dijital yöntemlerle bir sanat yapıtının çoğaltılması işlemine <b>Reprodüksiyon</b> denir. Reprodüksiyonlar, orijinal baskı (edisyon) olarak kabul edilmezler çünkü kalıbın sanatçı tarafından hazırlanması, numaralandırılması ve imzalanması gibi <b>özgün baskı kriterlerini</b> taşımazlar."
+    },
+    {
+        "SoruID": 361277,
+        "Aciklama": "Baskı işlemi bittikten sonra yapılan numaralandırma ve imzalama işleminde genellikle eserin adı, baskı numarası (edisyon sayısı), baskının yapıldığı yıl ve sanatçının imzası gibi bilgiler yer alır. Edisyonun bir parçası olmadığı sürece, <b>kullanılan matbaa makinesinin marka ve modeli</b> gibi üretim detayları veya <b>üretim maliyeti</b> baskı üzerinde yer alan standart bilgilerden <u>değildir</u>."
+    },
+    {
+        "SoruID": 361280,
+        "Aciklama": "Yüksek baskı tekniğinde mürekkep kalıp üzerine uygulandıktan sonra, kâğıt kalıp üzerine yerleştirilir ve basınç uygulanarak baskı alınır. Geleneksel el baskısında bu basıncı uygulamak için çeşitli araçlar kullanılır. Bunlar arasında en yaygın olanları <b>II. Baren</b> (Japonya'da kullanılan dairesel baskı aracı) ve <b>IV. Tahta kaşıklar</b>dır. Bu araçlar, mürekkebin yüzeyden kâğıda eşit şekilde transfer edilmesini sağlar."
+    },
+    {
+        "SoruID": 361284,
+        "Aciklama": "Geleneksel yüksek baskı yöntemlerinde, özellikle de baskı makinesi kullanılmadan <b>el ile baskı</b> yapılırken, kâğıdın özellikleri büyük önem taşır. Bu yöntemde kâğıdın mürekkebi kolayca alabilmesi için <b>yumuşak</b>, <b>emici</b> ve genellikle <b>lifli</b> yapıda olması gerekir. Bu tür kâğıtlar, düşük baskı basıncına rağmen mürekkebi yüzeyden etkili bir şekilde transfer etmeye olanak tanır (Örn: Japon Washi kâğıtları)."
+    },
+    {
+        "SoruID": 361287,
+        "Aciklama": "Baskı boyası olarak kullanılan matbaa mürekkepleri bazen fazla yoğun (katıya yakın) olabilir, bu da mürekkebin silindirler üzerinde yayılmasını veya kalıba yapışmasını zorlaştırabilir. Mürekkebin akışkanlığını ayarlamak (inceltmek) için <b>inceltici yağlar</b> veya <b>özel vernikler</b> (matbaa verniği) kullanılır. Bunlar, mürekkebin kıvamını düşürerek daha kolay çalışılabilir hale gelmesini sağlar."
+    },
+    {
+        "SoruID": 361289,
+        "Aciklama": "<b>Ağaç gravür</b>, ağaç baskının aksine, lif yönüne dik (end-grain) kesilmiş sert ağaçlar üzerinde yapılır ve daha ince detaylar elde etmeye olanak tanır. Ağaç gravür için genellikle çok sert ve düz damarlı ağaçlar (Örn: Şimşir, Akçaağaç, Armut) tercih edilir. <b>Çam ağacı</b> ise yumuşak ve belirgin damar yapısına sahip olduğu için genellikle geleneksel <b>ağaç baskı</b> (woodcut) için kullanılır, ancak gravür için uygun değildir."
+    },
+    {
+        "SoruID": 375177,
+        "Aciklama": "Osmanlı İmparatorluğu'nda modern matbaacılığı ve yüksek baskı tekniğini kullanarak resimli eserlerin basımını gerçekleştiren ilk kişi <b>İbrahim Müteferrika</b>'dır. Müteferrika, 1729'da kurduğu matbaada, Emir Muhammed İbn Hasan’ın Tarih-i Hind-i Garbî adlı eserindeki haritalar ve resimler gibi illüstrasyonları <b>tahta kalıplarla (yüksek baskı tekniği)</b> basmıştır."
+    },
+    {
+        "SoruID": 375179,
+        "Aciklama": "Yüksek baskı tekniği (Relief Printing), <b>kalıbın oyulmamış olan yüksek kısımlarının mürekkep tutması</b> ve baskıyı bu yüzeylerden alması esasına dayanır. Yanlış olan ifade, mürekkebin oyulmuş çukur alanlara uygulanmasıdır; bu, tam tersi olan <b>çukur baskı</b> (Intaglio) tekniğinin özelliğidir."
+    },
+    {
+        "SoruID": 375184,
+        "Aciklama": "Geleneksel <b>ağaç baskı</b> (Woodcut) tekniğinde, kalıp olarak kullanılacak tahta, ağacın gövdesine <b>lif yönüne paralel</b> (plank cut veya longitudinal cut) olarak kesilir. Bu kesim şekli, daha büyük alanların oyulmasına ve ağacın doğal damar yapısının baskıda görünmesine olanak tanır. Ağaç gravürde ise kesim liflere diktir."
+    },
+    {
+        "SoruID": 375187,
+        "Aciklama": "Ağaç baskı (Woodcut) ve ağaç gravür (Wood Engraving) arasındaki temel fark, kullanılan <b>ağacın kesim şekli</b> ve <b>kullanılan aletlerdir</b>. Ağaç baskıda kalıp, ağacın <b>lif yönüne paralel</b> kesilir ve bıçak ya da oyma kalemleri kullanılır. Ağaç gravürde ise kalıp, ağacın <b>lif yönüne dik</b> (end-grain) kesilir (daha sert yüzey) ve ince detaylar için V şekilli <b>gravür bıçakları (burin)</b> kullanılır. Gravür bu sayede daha ince ve tonlamalı çizgiler sağlar."
+    },
+    {
+        "SoruID": 375189,
+        "Aciklama": "1950’lerin başında, özellikle linol baskı tekniğinde devrim yaratan sanatçı <b>Pablo Picasso</b>'dur. Picasso, geleneksel renkli baskıda her renk için ayrı kalıp kullanmak yerine, <b>tek kalıp üzerinden aşamalı oyma (redüksiyon) tekniğini</b> geliştirmiştir. Bu teknikte, her renk basıldıktan sonra aynı kalıp biraz daha oyularak bir sonraki renk için hazırlanır ve böylece tüm baskı tek bir kalıpla tamamlanır."
+    },
+    {
+        "SoruID": 375196,
+        "Aciklama": "Deneme baskılarının (proofs) ardından, sanatçının veya baskıcının, asıl edisyonun (sınırlı sayıdaki baskı serisinin) basılmaya hazır olduğunu onayladığı ve tüm baskılara örnek teşkil edecek son baskıya <b>Bon à Tirer (BAT)</b> denir. Fransızca kökenli bu terim, 'Baskıya Hazır' anlamına gelir ve sanatçı ya da baskıcı tarafından imzalanarak referans olarak saklanır."
+    },
+    {
+        "SoruID": 375198,
+        "Aciklama": "Renkli baskı yaparken kullanılan iki temel teknik vardır: Ya her renk için ayrı bir kalıp hazırlanır ve bunlar aynı kâğıt üzerine üst üste basılır (<b>Çoklu Kalıp Tekniği</b>), ya da sanatçının Picasso ile yaygınlaşan <b>Redüksiyon Tekniği</b> kullanılır. Her iki yöntemde de renklerin üst üste tam oturması için <b>register (kayıt)</b> sistemi hayati önem taşır."
+    },
+    {
+        "SoruID": 398900,
+        "Aciklama": "Tahta kalıplardan resimler basarak bu tekniği zirveye taşıyan dünyaca ünlü sanatçılar arasında, Rönesans döneminde detaylı tahta baskılarıyla tanınan <b>Albrecht Dürer</b> ve Japon Ukiyo-e akımının önemli isimlerinden, özellikle 'Büyük Dalga' eseriyle bilinen <b>Katsushika Hokusai</b> sayılabilir. Ayrıca Edvard Munch ve Paul Gauguin gibi modern sanatçılar da bu tekniği kullanmıştır."
+    },
+    {
+        "SoruID": 398901,
+        "Aciklama": "<b>Linol baskı</b> (Linocut), 20. yüzyıl başlarında popülerleşmiş bir yüksek baskı yöntemidir. Linol, ağaç baskıya (Woodcut) tercih edilmesinin temel nedenleri, malzemenin <b>son derece yumuşak</b> olması ve <b>damar yapısının olmamasıdır</b>. Bu sayede linol, oyma aletlerine daha az direnç gösterir ve sanatçıya çok daha hızlı ve kolay çalışma, aynı zamanda kesim yönünden bağımsız olarak pürüzsüz sonuçlar alma imkanı tanır."
+    },
+    {
+        "SoruID": 361302,
+        "Aciklama": "Serigrafi (İpek Baskı), geleneksel çukur baskı tekniklerinden (Intaglio) biri <b>değildir</b>. Çukur baskı teknikleri (Kuru Kazıma, Gravür, Asitle Yedirme, Mezzotinto), mürekkebin plakanın oyuk kısımlarında tutulmasına dayanır. Oysa <b>Serigrafi</b>, mürekkebin bir kalıp veya şablon aracılığıyla doğrudan baskı yüzeyine aktarıldığı bir <b>yüzey baskı</b> (stencil/flatbed) tekniğidir."
+    },
+    {
+        "SoruID": 361303,
+        "Aciklama": "Çukur baskı tekniği, uluslararası alanda genellikle İtalyanca kökenli bir terim olan <b>Intaglio</b> olarak adlandırılır. Intaglio kelimesi 'içine kazınmış' veya 'oyulmuş' anlamına gelir ve bu baskı grubunun temel prensibini, yani mürekkebin yüzeydeki çukurlara yerleşmesini ifade eder."
+    },
+    {
+        "SoruID": 361304,
+        "Aciklama": "Çukur baskı tekniklerinin kökeni, <b>XV. yüzyıl Avrupası’nda</b> kuyumcuların mesleki uygulamalarına dayanır. Kuyumcular, gümüş objeler üzerine kazıdıkları çizgilerin izlerini almak için baskı yapıyorlardı. Bu nedenle, ilk çukur baskı denemelerinde kullanılan temel materyal <b>gümüş</b> plakalardır."
+    },
+    {
+        "SoruID": 361305,
+        "Aciklama": "<b>Albrecht Dürer</b> (1471–1528), <b>XV. yüzyılın sonu ve XVI. yüzyılın başlarında</b> yaşamış en önemli Alman Rönesans sanatçısıdır. Dürer, özellikle gravür ve ağaç baskı alanlarında ürettiği eserlerle baskı sanatını zirveye taşımıştır."
+    },
+    {
+        "SoruID": 361306,
+        "Aciklama": "Asit kullanılmadan yapılan çukur baskı teknikleri (Kuru Kazıma, Gravür), direkt kazıma yöntemleridir. Bu teknikler için metal plakalar kullanılsa da, kimyasal işlem gerektirmeyen ve çizimi kolay olan <b>Pleksiglas</b> (akrilik levha) en uygun ve sıklıkla tercih edilen materyallerden biridir. Pleksiglas, kuru kazıma tekniğinde (engraving veya drypoint) sıklıkla kullanılır."
+    },
+    {
+        "SoruID": 361307,
+        "Aciklama": "Çukur baskı plakalarının kenarlarının, baskı sırasında kağıda zarar vermesini (kesmesini) veya presin keçesini yırtmasını engellemek için törpülenerek 35-45 derecelik açıyla eğimli hale getirilmesi işlemine <b>pah kırma</b> denir. Bu işlem, plakanın baskı yüzeyine yerleştirilmeden önce mutlaka yapılmalıdır."
+    },
+    {
+        "SoruID": 361308,
+        "Aciklama": "Baskı plakasına mürekkep verilmesi işlemi; spatula ile mürekkebin sürülmesini, fazlalığın tülbent/kağıt yardımıyla alınmasını ve plakanın ısıtılmasını içerir. <b>Mühre (Burnisher)</b>, plaka yüzeyinde kazınan çizgileri yumuşatmak veya hatalı alanları parlatıp düzeltmek için kullanılan bir alettir; mürekkep verme veya çıkarma işlemiyle doğrudan ilgili <b>değildir</b>."
+    },
+    {
+        "SoruID": 361309,
+        "Aciklama": "Çukur baskı (Intaglio) tekniğinde, presin uyguladığı yüksek basınç altında mürekkebi plakanın derin oyuklarından çekebilmek için kağıdın son derece emici, yumuşak ve esnek olması gerekir. Bu özellikleri sağlayan, genellikle yüksek oranda <b>pamuklu</b> lif içeren ve baskıdan önce ıslatılan özel kağıtlar tercih edilmelidir."
+    },
+    {
+        "SoruID": 361310,
+        "Aciklama": "<b>Gravür (Engraving)</b>, çukur baskının en eski ve temel tekniklerinden biridir. Bu teknikte, <b>burin</b> adı verilen V şeklinde uçlu keskin bir alet kullanılır. Burin, metal (genellikle bakır) plaka üzerinde direkt olarak oyuklar ve çizgiler kazıyarak mürekkebin tutulacağı alanları oluşturur."
+    },
+    {
+        "SoruID": 361311,
+        "Aciklama": "Bakır sülfat, sülfür veya nitrik asit gibi maddelerle yapılan yedirme (etching) teknikleri, kimyasal aşındırma prensibine dayanır. Aquatint, Rezervaj ve Yumuşak Zemin bu kimyasal süreçlerin varyasyonlarıdır. Ancak <b>Kuru Kazıma (Drypoint)</b>, plakanın doğrudan bir iğne ile kazınması esasına dayanan <b>mekanik</b> bir çukur baskı tekniğidir ve asit veya kimyasal yedirme gerektirmez."
+    },
+    {
+        "SoruID": 375201,
+        "Aciklama": "Plaka yüzeyinin özel bir alet (rocker) ile tamamen pürüzlendirilerek, büyüteç altında <b>yuvarlak görünen küçük oluklar</b> oluşturulması işlemi <b>Mezzotinto</b> tekniğinin başlangıcıdır. Bu teknik, tonlama bazlı bir çukur baskı yöntemidir. Başlangıçta tam siyah olan yüzey, tonların mühre (burnisher) ile pürüzlerin düzleştirilmesiyle elde edilmesini sağlar."
+    },
+    {
+        "SoruID": 375202,
+        "Aciklama": "Bakır levha yüzeyinin, rocker (salıncak) adı verilen tırtıklı bir aletle tamamen <b>tırtıklanarak ya da pürüzlendirilerek</b> mürekkebi tutacak hale getirilmesi, <b>Mezzotinto</b> (Yarım Ton) tekniğinin temel özelliğidir. Bu pürüzlü yüzey, çukur baskıda ton geçişlerini elde etmeye yarar."
+    },
+    {
+        "SoruID": 375203,
+        "Aciklama": "Çukur baskı tekniklerinde (Gravür, Kuru Kazıma), tonlama genellikle çizgilerin yoğunluğuna bağlıdır. <b>Koyu tonlu alanlar</b>, çizgilerin birbirine yakın, sık ve <b>üst üste yoğunlaştırılarak</b> (çapraz tarama/cross-hatching) atılmasıyla elde edilir. Bu yoğunluk, daha fazla mürekkebin oyuklarda kalmasını ve baskıya aktarılmasını sağlar."
+    },
+    {
+        "SoruID": 375207,
+        "Aciklama": "Çukur baskıda kullanılan temel metal plakalar <b>Bakır</b> (en hassas), <b>Çinko</b> ve <b>Çelik</b> (uzun ömürlü) ile deneysel olarak <b>Alüminyum</b>’dur. <b>Kurşun (Lead)</b>, baskı presinin yüksek basıncına dayanamayacak kadar yumuşak olması ve toksisitesi nedeniyle çukur baskı plakası olarak kullanılmaz."
+    },
+    {
+        "SoruID": 375209,
+        "Aciklama": "Çok kalabalık kompozisyonları, naif kalitesi ve özellikle yoğun dinî temalarıyla (özellikle Vahiy Kitabı serisi) tanınan ve yaklaşık yetmiş üç plaka üretmiş olan Fransız Rönesans sanatçısı <b>Jean Duvet</b>’dir (yaklaşık 1485–1570). Duvet, 'Fransız Dürer' olarak da anılmıştır."
+    },
+    {
+        "SoruID": 398902,
+        "Aciklama": "<b>Çukur Baskı (Intaglio) Tekniği</b>, mürekkebin plakanın yüzeyinde değil, kazıma veya asitleme yoluyla oluşturulan <b>oyuklar</b>, çukurlar veya çizgiler içinde tutulması prensibine dayanır. Baskı anında uygulanan yüksek basınç, nemlendirilmiş kağıdı bu çukurlara zorlar ve mürekkebi kağıda transfer eder. Bu tanım en doğru şekilde D seçeneğinde verilmiştir."
+    },
+    {
+        "SoruID": 361440,
+        "Aciklama": "Çukur baskı teknikleri iki ana kategoriye ayrılır: <b>mekanik (doğrudan)</b> ve <b>kimyasal (asitle indirme)</b> teknikler. Asitle indirme teknikleri, plakadaki metalin aside karşı korunan alanlarını hariç tutarak, diğer alanları aside maruz bırakıp derinleştirmeyi içerir. Klasik asitle indirme teknikleri arasında Sert Zemin (Hard Ground), Yumuşak Zemin (Soft Ground) ve Aquatint bulunur. Kuru Nokta (Drypoint) veya Gravür (Engraving) gibi teknikler ise asit kullanılmadan, doğrudan aletlerle (iğne veya burin) metalin kazınmasıyla veya oyulmasıyla gerçekleştirilen <b>mekanik tekniklerdir</b> ve bu nedenle asitle indirme tekniklerinden biri değildir."
+    },
+    {
+        "SoruID": 361443,
+        "Aciklama": "Metal plakayı asidin aşındırıcı etkisinden koruyan malzemeye <b>rezist</b>, <b>vernik</b> veya <b>zemin (ground)</b> denir. Bu koruyucu tabaka, asit banyosuna girmeden önce plakanın belirli bölgelerini kaplamak için kullanılır. Sanatçı, bu zemini bir iğne veya başka bir aletle kazıyarak asidin ulaşmasını istediği çizgileri veya noktaları açığa çıkarır."
+    },
+    {
+        "SoruID": 361446,
+        "Aciklama": "Yumuşak vernik baskı (Soft Ground Etching), geleneksel olarak sert zemin (hard ground) verniği ile yağlı bir maddenin (genellikle <b>don yağı, vazelin</b> veya gres) karıştırılmasıyla elde edilen özel bir zemin türü kullanır. Bu karışım, parmak baskısı veya üzerine yerleştirilen dokulu bir malzemenin (kağıt, yaprak vb.) baskısıyla kolayca kalkabilecek kadar yumuşak kalır, böylece malzemenin dokusunu plaka üzerine aktarır."
+    },
+    {
+        "SoruID": 361448,
+        "Aciklama": "Kâğıdın baskı esnasında, özel bir kalıp yardımıyla veya mürekkepsiz olarak çok derin oyulmuş çukur baskı kalıbının baskısıyla <b>boyasız (kör)</b> ya da hafif boyalı olarak kabartılması işlemine <b>Gofrato</b> (veya Kör Baskı/Embossing) denir. Bu teknik, yüzeyde üç boyutlu, rölyefli bir etki yaratmayı amaçlar ve çoğu zaman geleneksel intaglio baskılarla birleştirilir."
+    },
+    {
+        "SoruID": 361449,
+        "Aciklama": "Leke baskı olarak bilinen çukur baskı tekniği, <b>Lavabo (Lavis)</b> veya Bulaşık Baskı adıyla da anılır. Lavis tekniğinde, asit bir fırça yardımıyla doğrudan aquatint zeminle kaplanmış metal plaka üzerine sürülür. Bu sayede, sanatçının sulu boya veya yıkama (wash) tekniğine benzer <b>geniş ton geçişli leke etkileri</b> elde etmesi sağlanır."
+    },
+    {
+        "SoruID": 361452,
+        "Aciklama": "Aquatinta tekniğinde, asitle indirme süresinin plakada yaratacağı ton değerlerini belirlemek amacıyla bir <b>test kalıbı (fiche test)</b> kullanılır. Bu kalıp, kısa ve kademeli sürelerle aside daldırılır (örneğin 10 saniye, 20 saniye, 30 saniye gibi). Test kalıbının amacı, asit gücüne ve reçine taneciklerinin yoğunluğuna bağlı olarak hangi sürenin hangi <b>ton değerini (açık, orta, koyu)</b> ürettiğini ölçmektir. Bu, sanatçının daha sonra ana baskıda tonlamaları hassas bir şekilde kontrol etmesini sağlar."
+    },
+    {
+        "SoruID": 361455,
+        "Aciklama": "Sanatçının geniş fırça darbeleriyle veya sulu boya yıkamasına benzer etkiler elde etmesine yardımcı olan çukur baskı tekniği <b>Lavis (Lavabo/Wash Etching)</b> tekniğidir. Bu teknikte, asit direkt olarak reçinelenmiş plaka yüzeyine bir <b>fırça</b> ile uygulanır, bu da asidin etki ettiği alanda sulu boya lekelerine benzer ton farklılıkları yaratır."
+    },
+    {
+        "SoruID": 361460,
+        "Aciklama": "Gravürde (veya genel olarak asitle indirme tekniklerinde), balmumu bazlı karışımlar (genellikle sert verniğin ana bileşenlerinden biri olarak) veya saf balmumu, plakanın asit tarafından aşındırılmasını önlemek için <b>koruyucu zemin (rezist)</b> olarak kullanılır. Ayrıca, özellikle tonlama işlemlerinde (aquatint veya lavis gibi) belirli alanların asitten korunması amacıyla <b>kısmi koruma (stop-out) verniği</b> olarak da işlev görür."
+    },
+    {
+        "SoruID": 361462,
+        "Aciklama": "Mezotint (Siyah Sanat) tekniği, plakayı tamamen karartıp ardından açık tonları kazıyarak elde etmeye dayanır. Sahte Mezotint (False Mezzotint) ise genellikle bu tonal etkiyi taklit etmek için Aquatint veya yumuşak zemin gibi asitle indirme tekniklerini kullanır. Bu taklit teknikte, en açık tonlu alanlar, plakanın aside karşı <b>en kısa süre korunmuş</b> veya tamamen <b>stop-out verniğiyle kaplanmış</b> alanlarıdır. Plaka üzerindeki bu alanlar, hiç mürekkep tutmayacak kadar az oyulur veya hiç oyulmaz."
+    },
+    {
+        "SoruID": 361473,
+        "Aciklama": "Farklı tekniklerle hazırlanmış çukur baskı plakasıyla baskı yapma işleminin temel adımları şunlardır: 1. Plakayı ısıtmak, 2. Mürekkebi yüzeye yedirmek (inking), 3. Yüzeydeki fazla mürekkebi tülbent/tartar bez ile silmek (wiping), 4. Plakayı baskı presine yerleştirmek ve kağıtla preslemek. Plakayı asitle indirme (etching) işlemi, <b>baskı yapma adımı değil</b>, <b>plakayı hazırlama</b> aşamasının bir parçasıdır."
+    },
+    {
+        "SoruID": 375633,
+        "Aciklama": "Çok renkli çukur baskı elde etme yöntemleri arasında şunlar bulunur: <b>À la Poupée</b> (tek bir plakaya farklı renklerin bölgesel olarak uygulanması), <b>Çoklu Plaka Baskı</b> (her renk için ayrı bir plaka kullanılması) ve <b>Viskozite Baskısı</b> (farklı kıvamlardaki mürekkeplerin tek bir plaka üzerine uygulanması). Monotip, tek bir baskı üreten bir tekniktir ve çukur baskı yöntemlerinin standart çok renkli baskı işlemleri arasında sayılmaz."
+    },
+    {
+        "SoruID": 375636,
+        "Aciklama": "Sıvı sert zemin (Hard Ground) baskı tekniğinin dezavantajları, genellikle uygulamanın zorluğu ve kuruma süresi ile ilgilidir. Özellikle büyük plakalarda <b>eşit bir kaplama elde etmenin zorluğu</b> ve zemin uygulandıktan sonra plakayı aside sokmadan önce <b>uzun bir kuruma süresine</b> ihtiyaç duyulması, sıvı sert zeminin temel dezavantajıdır. Bu uzun kuruma süresi, çalışma sürecini yavaşlatır."
+    },
+    {
+        "SoruID": 375643,
+        "Aciklama": "Aquatint tekniğinde, asidin reçine taneleri arasına çok derin işlemesi sonucu, reçine taneciklerinin etrafındaki metal aşırı derecede aşınır ve oyuklar birleşir. Bu duruma <b>Yakma (Over-etching)</b> denir. Yakma meydana geldiğinde, plaka yüzeyi mürekkebi tutacak yeterli dokuyu (çukurcuğu) kaybeder ve baskı sırasında <b>mürekkep alamaz</b> veya çok soluk bir ton verir. Bu, tonlamanın bozulmasına neden olur."
+    },
+    {
+        "SoruID": 375658,
+        "Aciklama": "Aquatint tekniğinde, plaka yüzeyine dağıtılan reçine tozu (genellikle toz halinde asfaltum veya rosin) metalin yüzeyine yapışık değildir. Bu tozun sabitlenmesi ve aside dayanıklı hale gelmesi için plaka, alttan nazikçe <b>ısıtılır (füzyon)</b>. Isıtma işlemi, reçine partiküllerinin hafifçe eriyerek metal yüzeye sıkıca yapışmasını sağlar, böylece asit banyosunda yerlerinden ayrılmazlar ve aralarındaki küçük metal alanlar korunmuş olur."
+    },
+    {
+        "SoruID": 398905,
+        "Aciklama": "Gravür veya asitle indirme tekniklerinde kullanılan koruyucu vernik (lak veya zemin), plakanın aside karşı direncini sağlamak amacıyla kullanılır. Temel amacı, <b>asidin plakadaki belirli metal alanlara etki etmesini engellemektir</b>. Sanatçı verniği çizerek çıkardığında, açığa çıkan alanlar asitle aşındırılırken, vernikle kaplı alanlar korunur."
+    },
+    {
+        "SoruID": 398906,
+        "Aciklama": "Yumuşak vernik (Soft Ground) baskıda, verniğin yumuşaklığı sayesinde üzerine bastırılan herhangi bir malzemenin dokusu kolayca verniğe aktarılabilir. Doku oluşturmak için yaygın olarak kullanılan malzemeler arasında <b>yapraklar, kumaşlar (dantel, tül), özel dokulu kağıtlar, tel örgü</b> veya hatta parmak izi gibi materyaller bulunur. Bu malzemeler zemin üzerinden hafifçe bastırıldığında, temas noktalarındaki vernik kalkar ve alttaki metal açığa çıkarak aside maruz kalır."
+    },
+    {
+        "SoruID": 361018,
+        "Aciklama": "<b>Çukur Baskı Tekniği</b> (Intaglio), yani metal plakalar üzerine çizilen çizgilerin mürekkeple doldurulup basılması yöntemi, 15. yüzyılın ortalarında <b>Almanya</b> ve <b>İtalya</b> gibi Avrupa ülkelerinde, özellikle de kuyumculuk ve zanaatkarlık geleneğinin güçlü olduğu bölgelerde ortaya çıkmıştır. Bu teknik, özellikle <b>bakır levha gravür</b> (copperplate engraving) olarak hızla yayılmıştır."
+    },
+    {
+        "SoruID": 361019,
+        "Aciklama": "Baskıresim alanında tekniklerin gelişmesi ve sanatçıların eserlerinin kitlelere ulaşma potansiyeli, bu alanın <b>profesyonelleşmesini</b> hızlandırmıştır. Bu profesyonelleşme süreci genellikle <b>16. yüzyılda</b>, özellikle İtalya'da <b>Rönesans</b>'ın ve ardından <b>Maniyerizm</b>'in zirve yaptığı dönemlerde, büyük atölyelerin (Marcantonio Raimondi gibi) kurulmasıyla belirginleşmiştir."
+    },
+    {
+        "SoruID": 361020,
+        "Aciklama": "Baskıresmin en büyük faydası, eserlerin <b>düşük maliyetle çoğaltılabilir</b> olmasıdır. Bu özellik sayesinde sanat eserleri ve sanatsal fikirler, sınırlı sayıda kalmak yerine <b>geniş kitlelere yayılabilir</b> hale gelmiştir. Bu durum, sanatın ve bilginin demokratikleşmesine ve <b>sanatsal etkileşimin</b> artmasına olanak sağlamıştır."
+    },
+    {
+        "SoruID": 361021,
+        "Aciklama": "Modern anlamda sanat kavramına ilişkin kökler, özellikle <b>Rönesans Dönemi</b>'nde oluşmaya başlamıştır. Bu dönemde sanatçılar, Orta Çağ'daki zanaatkar statüsünden sıyrılarak, eserlerine <b>entelektüel değer</b> katmaya başlamışlar ve <b>Hümanizm</b> etkisiyle insanı ve doğayı merkeze almışlardır."
+    },
+    {
+        "SoruID": 361022,
+        "Aciklama": "<b>Rönesans Dönemi</b>'nde sanattaki üslubu belirleyen ana faktör, <b>Klasik dönemden ilham alan</b> estetik anlayış ve <b>Hümanizm</b> olmuştur. Sanatçılar, eserlerinde <b>orantı</b>, <b>perspektif</b> ve <b>idealize edilmiş güzellik</b> gibi unsurlara odaklanmışlardır."
+    },
+    {
+        "SoruID": 361023,
+        "Aciklama": "Önemli eserlerin (özellikle tabloların veya heykellerin) baskı tekniği kullanılarak kopyalanmasına <b>Röprodüksiyon</b> adı verilir. <b>Röprodüksiyon baskılar</b>, orijinal eseri görme imkanı olmayan kişilerin de bu eserler hakkında bilgi edinmesini sağlamıştır."
+    },
+    {
+        "SoruID": 361024,
+        "Aciklama": "Röprodüksiyon baskıların ilk ve en etkili örnekleri, ünlü İtalyan ressam <b>Raphael</b>'in atölyesinde ve özellikle onunla çalışan <b>Marcantonio Raimondi</b> tarafından yapılmıştır. Raimondi, Raphael'in çizimlerini gravür tekniğiyle çoğaltarak, <b>ressamın eserlerinin Avrupa çapında tanınmasını</b> sağlamıştır."
+    },
+    {
+        "SoruID": 361025,
+        "Aciklama": "Baskıresim alanında <b>röprodüksiyon</b> (çoğaltma) sanatının en önemli ve etkili isimlerinden biri, <b>Marcantonio Raimondi</b>'dir. Raimondi, Rönesans ustalarının (özellikle Raphael'in) eserlerini <b>bakır levha gravür</b> tekniğiyle başarıyla çoğaltmış ve bu pratiği popülerleştirmiştir."
+    },
+    {
+        "SoruID": 361026,
+        "Aciklama": "<b>Maniyerizm</b> (Üslupçuluk), 16. yüzyılın başlarında <b>Yüksek Rönesans</b>'ın ardından, özellikle <b>İtalya</b>'da gelişen bir sanat akımıdır. Klasik idealizmin katı kurallarından saparak, <b>uzatılmış figürler</b>, <b>dramatik kompozisyonlar</b> ve <b>yapay renkler</b> gibi özelliklerle tanınır."
+    },
+    {
+        "SoruID": 361027,
+        "Aciklama": "Maniyerizm'in en ünlü ressamları arasında <b>Parmigianino</b> (Francesco Mazzola) ve El Greco sayılabilir. Parmigianino, sadece resmiyle değil, aynı zamanda <b>Chiaroscuro Gravür</b> tekniğinin ustalarından biri olarak baskıresim tarihinde de önemli bir yer tutar."
+    },
+    {
+        "SoruID": 374665,
+        "Aciklama": "<b>Bartolommeo Coriolano</b> (1599-1676), İtalyan Maniyerizm/Barok döneminin önemli baskıresim sanatçılarındandır. Ona ait \"Bakire ve Çocuk\" gibi eserler, özellikle <b>Chiaroscuro Ağaç Baskı</b> (Chiaroscuro Woodcut) tekniğiyle basılmıştır. Bu teknik, tonlamayı sağlamak için birden fazla kalıp kullanır."
+    },
+    {
+        "SoruID": 374667,
+        "Aciklama": "<b>Chiaroscuro Gravür</b> (veya Ağaç Baskı), <b>açık ve koyu</b> (ışık ve gölge) arasındaki kontrastı vurgulayarak üç boyutluluk ve derinlik hissi yaratan bir baskı tekniğidir. Bu teknik, genellikle <b>iki veya daha fazla renkli tahta kalıbın</b> üst üste basılmasıyla elde edilen tonlamalı etkilerle karakterize edilir."
+    },
+    {
+        "SoruID": 374670,
+        "Aciklama": "\"Nemesis\" (veya Büyük Şans/Büyük Kader) adlı ünlü gravür eseri, <b>Kuzey Rönesansı</b>'nın en büyük ustalarından <b>Albrecht Dürer</b>'e aittir. Dürer, bu eserinde karmaşık figür kompozisyonunu ve mitolojik temayı, <b>ustalıkla işlenmiş bakır levha gravür</b> tekniğiyle birleştirmiştir."
+    },
+    {
+        "SoruID": 398909,
+        "Aciklama": "Almanya’da gravür yapan ilk büyük sanatçı olarak kabul edilen <b>Martin Schongauer</b> (yaklaşık 1445–1491), gravürlerinde özellikle <b>dramatik yoğunluğu</b> ve figürlerin <b>duygusal ifadesini</b> vurgulamıştır. Teknik olarak, metal üzerine çok <b>hassas ve keskin çizgiler</b> kullanarak, kumaş kıvrımları ve dokusal detaylar açısından zengin ve detaylı bir stil geliştirmiştir."
+    },
+    {
+        "SoruID": 398910,
+        "Aciklama": "<b>Chiaroscuro Gravür Tekniği</b>, İtalyanca \"chiaro\" (aydınlık) ve \"oscuro\" (karanlık) kelimelerinden gelir ve eserde <b>yoğun ışık ve gölge kontrastını</b> ifade eder. Bu teknik, özellikle <b>16. yüzyılda</b>, sanatta duygusal ifade ve dramatik etki arayışının yoğunlaştığı <b>Maniyerizm</b> sanat akımının bir parçası olarak popülerleşmiş ve gelişmiştir."
+    },
+    {
+        "SoruID": 361493,
+        "Aciklama": "18. ve 19. yüzyıl, Batı dünyasında yaşanan iki büyük köklü değişimle tanımlanır: Sosyal ve siyasal alanda <b>Fransız Devrimi</b>, ekonomik ve teknolojik alanda ise <b>Sanayi Devrimi</b>. Bu gelişmeler, sanat da dahil olmak üzere hayatın tüm alanlarında büyük yeniliklere yol açarak modern çağın temellerini atmıştır. Bu nedenle, bu dönemde yaşanan en önemli gelişmeler bu iki devrimdir."
+    },
+    {
+        "SoruID": 361494,
+        "Aciklama": "18. ve 19. yüzyıllar, fotoğrafçılığın icadı (19. yy), buharlı makinelerin gelişimi ve modern kentleşme gibi köklü yeniliklerin yaşandığı bir dönemdir. Sanat ve toplumsal yaşam bu gelişmelerden derinden etkilenmiştir. Eğer sorunun şıkları arasında <b>Orta Çağ skriptoriumlarında el yazması üretimi</b> gibi çok daha eski bir döneme ait bir yenilik varsa, bu yenilik 18. veya 19. yüzyılda gerçekleşmemiştir."
+    },
+    {
+        "SoruID": 361495,
+        "Aciklama": "19. yüzyılın en büyük buluşlarından biri olan fotoğraf, görsel imgelerin yayılmasını hızlandırmış ve sanatsal gerçeklik algısını değiştirmiştir. Fotoğrafın etkileri arasında <b>gerçekçi resim geleneğine meydan okuması</b> ve <b>görsel imgelerin hızla çoğaltılıp demokratikleşmesi</b> sayılabilir. Ancak fotoğrafın etkisi, <b>Sanatın tamamen el işçiliğinden kopmasına neden olmak</b> değildir; aksine, ressamları Realizmden uzaklaştırarak Empresyonizm ve Post-Empresyonizm gibi yeni sanatsal arayışlara itmiştir."
+    },
+    {
+        "SoruID": 361496,
+        "Aciklama": "Sanatın saray ve kilise himayesinden çıkarak daha geniş kitlelere ulaşmasında en önemli adımlardan biri, görsel imgelerin hızla ve ucuza çoğaltılmasını sağlayan tekniklerin yaygınlaşmasıdır. Bunlar arasında <b>fotoğrafın icadı</b> ve <b>baskı sanatları (gravür)</b> tekniklerinin gelişimi, imgelerin gazete, kitap ve kartpostallar aracılığıyla kitlesel olarak dağıtılmasını sağlayarak sanatın demokratikleşmesinde kilit rol oynamıştır."
+    },
+    {
+        "SoruID": 361497,
+        "Aciklama": "Verilen açıklamada bahsedilen akım <b>Romantizm</b>'dir. Rönesans ve Klasisizm’in akılcılığına ve katı kurallarına tepki olarak doğan Romantizm, <b>hayal gücü</b>, <b>duygu</b> ve <b>bireyin iç dünyası</b> üzerine odaklanır. Sanatçının mutlak özgürlüğe teslim olması ve doğaya dönüş eğilimi, bu akımın temel karakteristikleridir."
+    },
+    {
+        "SoruID": 361498,
+        "Aciklama": "Claude Monet ve diğer genç ressamların oluşturduğu bu hareket, <b>Empresyonizm (İzlenimcilik)</b> olarak bilinir. Bu sanatçılar, stüdyo yerine açık havada (en plein air) çalışarak, anlık algılarını ve <b>ışığın nesneler üzerindeki geçici etkilerini</b> hızla tuvale aktarmaya çalışmışlardır. Japon ağaç baskılarının sade ve düz renklerinden etkilenmeleri de Empresyonistlerin bilinen özelliklerindendir."
+    },
+    {
+        "SoruID": 361513,
+        "Aciklama": "Yukarıda bahsedilen üslup, <b>Postempresyonizm</b> akımının en önemli temsilcilerinden <b>Vincent Van Gogh</b>'a aittir. Van Gogh, fotografik gerçeklikten ziyade <b>kendi duygusal dünyasını</b>, kendine özgü fırça darbeleri ve deforme edilmiş formlarla tuvale aktarmıştır. Onun en ünlü ve karakteristik eserlerinden biri <b>Yıldızlı Gece</b> (The Starry Night) tablosudur."
+    },
+    {
+        "SoruID": 361515,
+        "Aciklama": "Kökeni Fransızca olan ve <b>kazıma resim sanatı</b> olarak bilinen, ahşap, taş veya metal bir levhanın oyularak bir yüzeye basılması ile elde edilen bu baskı tekniği <b>Gravür</b> (Engraving / Printmaking) olarak adlandırılır. Gravür, sanatın kitlesel olarak çoğaltılması ve yayılmasında tarihi bir öneme sahiptir."
+    },
+    {
+        "SoruID": 361517,
+        "Aciklama": "İspanyol sanatçı <b>Francisco Goya</b>, gravür eserlerine sanatsal bir güç ve dramatik yoğunluk kazandırmak için özellikle <b>Akuatint (Asitle Kazıma)</b> tekniğini ustalıkla kullanmıştır. Akuatint, sanatçının eserlerine geniş, yıkanmış tonlar ve derin gölgeler katmasını sağlayarak resimsel bir etki yaratmıştır."
+    },
+    {
+        "SoruID": 361521,
+        "Aciklama": "Gravür sanatı, Albrecht Dürer ve Francisco Goya gibi ustalar tarafından geliştirilmiştir. Gravür sanatının en bilinen örneklerinden biri, <b>Albrecht Dürer</b>'e ait olan ve karmaşık sembolizmiyle tanınan <b>Melencolia I</b> (Melankoli I) eseridir. Dürer'in bu eseri, kuru kazı ve oyma tekniklerinin zirvesini temsil eder."
+    },
+    {
+        "SoruID": 375790,
+        "Aciklama": "18. ve 19. yüzyıl akımları ve temsilcileri arasında doğru bir eşleştirme yapılması gerekmektedir. <b>Empresyonizm</b> akımının kurucularından ve en önde gelen temsilcilerinden biri, özellikle ışığın anlık etkilerini ve açık havayı resmetmeye odaklanan <b>Claude Monet</b>'dir. Dolayısıyla, Empresyonizm - Claude Monet eşleştirmesi doğrudur."
+    },
+    {
+        "SoruID": 375793,
+        "Aciklama": "Romantizm, akıl yerine <b>duygu, coşku ve bireysellik</b> temasını merkeze koyar. Bu akımın önde gelen ve sanatçının iç dünyasını dramatik kompozisyonlarla yansıtan temsilcilerinden biri Fransız ressam <b>Eugène Delacroix</b>'dır. Onun eserleri, tarihsel olayların ve egzotik konuların duygusal yoğunluğunu yansıtır."
+    },
+    {
+        "SoruID": 375796,
+        "Aciklama": "Almanya’da yetişen ve gravür sanatına en büyük katkıyı sağlayan ustaların başında <b>Albrecht Dürer</b> gelir. Dürer, Rönesans döneminde yaşamış olsa da, gravür ve ağaç baskı tekniklerini mükemmelleştirerek, baskı sanatının Avrupa genelinde yüksek sanatsal değere ulaşmasını sağlamıştır."
+    },
+    {
+        "SoruID": 375798,
+        "Aciklama": "Bahsedilen 'Kaprisler' (Los Caprichos), 'Savaşın Yıkımları' (Desastres de la Guerra), 'Boğa Güreşleri' (Tauromaquia) ve 'Düşlemler/Saçmalıklar' (Los Disparates) serilerinin tamamı, İspanyol ressam ve gravür ustası <b>Francisco Goya</b>'ya aittir. Goya bu serilerde dönemin toplumsal ve siyasi eleştirilerini, korkularını ve fantezilerini akuatint tekniğiyle birleştirerek çarpıcı bir dille ifade etmiştir."
+    },
+    {
+        "SoruID": 375799,
+        "Aciklama": "Paris şehrinin karanlık, gotik ve uğursuz atmosferini yansıtan, özellikle Notre Dame Katedrali'ndeki grotesk yaratıkları betimleyen 'Paris Gravürleri' serisi, 19. yüzyıl Fransız gravür sanatçısı <b>Charles Meryon</b>'a aittir. Meryon, Paris'in kentsel dönüşümünü (Haussmannizasyon) melankolik ve detaylı bir şekilde belgelemiştir."
+    },
+    {
+        "SoruID": 398884,
+        "Aciklama": "Gravür sanatına yeni bir boyut kazandıran, özellikle asite yedirme (etching) ve <b>kuru kazı (drypoint)</b> tekniklerini ustaca birleştirerek dramatik ışık-gölge (chiaroscuro) etkilerini derinleştiren sanatçı <b>Rembrandt van Rijn</b>'dir. Rembrandt, bu teknikleri sadece çoğaltma aracı olarak değil, başlı başına bir ifade formu olarak kullanmıştır."
+    },
+    {
+        "SoruID": 398911,
+        "Aciklama": "Francisco Goya, gravürlerinde (özellikle Kaprisler ve Savaşın Yıkımları serilerinde) resimsel bir etki yaratmak, gölge ve tonlu alanlarda lekesel değerler elde etmek için <b>Akuatint (Aquatint)</b> tekniğini kullanmıştır. Akuatint, asit yardımıyla levha üzerinde granüllü, tonal yüzeyler oluşturarak derinlik ve yoğunluk sağlamıştır."
+    },
+    {
+        "SoruID": 361032,
+        "Aciklama": "Düz baskı teknikleri (Planografi), kalıp yüzeyinin basılan ve basılmayan alanlarının aynı seviyede olduğu tekniklerdir. Bu tekniklerin en ilkeli ve temeli <b>Taş Baskı (Litografi)</b>'dir. Litografi, yağ ve suyun birbirini itmesi prensibine dayanır (<b>kimyasal baskı ilkesi</b>)."
+    },
+    {
+        "SoruID": 361034,
+        "Aciklama": "Taş baskı (Litografi) tekniği, 1798 yılında Alman yazar ve aktör <b>Alois Senefelder</b> tarafından tesadüfen bulunmuştur. Senefelder, tiyatro oyunlarını çoğaltmak için uygun maliyetli bir yöntem arayışı içindeydi ve bu kimyasal baskı ilkesine dayanan tekniği keşfetti."
+    },
+    {
+        "SoruID": 361037,
+        "Aciklama": "Monotip (Tek Baskı) tekniğinin bilinen en eski örnekleri, İtalyan Barok sanatçısı <b>Giovanni Benedetto Castiglione</b>'nin çalışmalarıyla <b>17. yüzyıla</b> tarihlenmektedir. Monotip, çoğaltım ilkesinin bulunmadığı yegane baskı türüdür."
+    },
+    {
+        "SoruID": 361040,
+        "Aciklama": "Türkçedeki karşılığı dengeleme transferi olan baskı, <b>Ofset Baskı (Offset Lithography)</b>'dir. Bu teknikte görüntü, kalıptan doğrudan kağıda değil, önce bir kauçuk kaplı silindire (battaniye) aktarılır ve oradan kağıda basılır (transfer edilir/dengelenir). Ofset, taş baskının modern, endüstriyel bir çeşididir."
+    },
+    {
+        "SoruID": 361042,
+        "Aciklama": "Elek baskı veya Serigrafi (Screen Printing) tekniğini sanatsal amaçlı ilk kullanan ve yaygınlaştıran önemli isimlerden biri 1930'larda <b>Guy MacCoy</b>'dur. Daha sonra bu teknik, <b>Pop Art</b> akımıyla, özellikle de <b>Andy Warhol</b> tarafından zirveye taşınmıştır."
+    },
+    {
+        "SoruID": 361043,
+        "Aciklama": "Afrika maskeleri ve yerel sanat imgeleri ile Amerikan çağdaş tüketim kültürü ve grafiti estetiğini birleştiren önemli sanatçı <b>Jean-Michel Basquiat</b>'tır. Eserlerinde <b>sanat tarihi, ırksal kimlik</b> ve <b>popüler kültür</b> unsurlarını harmanlamıştır."
+    },
+    {
+        "SoruID": 361044,
+        "Aciklama": "Temel baskı türleri şunlardır: Yüksek baskı, Çukur baskı, Düz baskı ve Elek baskı. Bu dördü dışındaki, örneğin <b>Füzen</b> (kömürle çizim tekniği), <b>Pastel</b> (kuru boya tekniği) veya <b>Fresko</b> (duvar resmi tekniği) gibi bir teknik baskı türü olarak sınıflandırılmaz."
+    },
+    {
+        "SoruID": 361047,
+        "Aciklama": "Serigrafi/elek baskı tekniği, çoğaltım ve seri üretim imajlarına uygun yapısı nedeniyle, 1960'lı yıllarda yükselen ve <b>tüketim kültürünü</b> merkeze alan <b>Pop Art</b> akımında büyük bir popülarite kazanmıştır. Andy Warhol bu tekniğin en büyük uygulayıcısıdır."
+    },
+    {
+        "SoruID": 361049,
+        "Aciklama": "Baskı tekniklerinin temel amacı bir görüntüyü çoğaltmaktır (edisyon). Ancak <b>Monotip</b> (Tek Baskı) tekniği, adından da anlaşılacağı üzere, yüzeyden yalnızca bir adet benzersiz görüntü transferi sağlar. Bu nedenle, diğer geleneksel baskı tekniklerinde olması gereken <b>çoğaltım (edisyon) ilkesi</b> Monotip'te bulunmaz."
+    },
+    {
+        "SoruID": 361053,
+        "Aciklama": "19. yüzyıl Fransız sanatçısı <b>Honoré Daumier</b>, özellikle dönemin politikacılarına, burjuva yaşam tarzına ve sosyal eşitsizliklere yönelik keskin hicivler içeren binlerce <b>taş baskı (litografi)</b> eseri üretmiştir. Çalışmaları, <b>Charles Philipon</b>'un hiciv dergilerinde yayınlanmıştır."
+    },
+    {
+        "SoruID": 374723,
+        "Aciklama": "1960'lar Pop Art akımının en ikonik figürü olan <b>Andy Warhol</b>, New York'taki atölyesini <b>'Fabrika' (The Factory)</b> olarak adlandırmıştır. Burada, endüstriyel seri üretim felsefesine uygun olarak, çoğunlukla Serigrafi tekniğiyle eserler üretmiştir."
+    },
+    {
+        "SoruID": 374725,
+        "Aciklama": "İtalyanca kökenli olan ve 'tek basım' anlamına gelen baskı türü <b>Monotip</b>'tir. Bu teknikte, kalıptan yalnızca bir adet özgün ve eşsiz baskı alınabilir, bu da onu çoğaltım amaçlı tekniklerden ayırır."
+    },
+    {
+        "SoruID": 374726,
+        "Aciklama": "Baskı teknikleri dört temel kategoriye ayrılır. Düz baskı (Planografi) tekniği, kalıp yüzeyinin basan ve basmayan alanlarının aynı seviyede olduğu, kimyasal prensibe dayanan tekniktir. Bu tekniğin en bilinen örneği <b>Taş Baskı (Litografi)</b>'dir."
+    },
+    {
+        "SoruID": 374752,
+        "Aciklama": "Kireç taşı (özellikle Bavyera kireç taşı) üzerine yağlı kalemlerle çizilerek yapılan ve kimyasal prensiplere dayanan baskı tekniği <b>Taş Baskı (Litografi)</b>'dir. Yunanca 'lithos' kelimesi 'taş' anlamına gelir."
+    },
+    {
+        "SoruID": 398885,
+        "Aciklama": "Ünlü Fransız sanatçı <b>Honoré Daumier</b>, 19. yüzyılda siyasi hiciv alanında öne çıkmıştır. Editör <b>Charles Philipon</b>'un yayınları (*La Caricature* ve *Le Charivari* gibi) için <b>taş baskı (litografi)</b> tekniğini kullanarak sayısız çarpıcı gazete illüstrasyonu ve karikatür yapmıştır."
+    },
+    {
+        "SoruID": 398887,
+        "Aciklama": "Andy Warhol'un Pop Art eserlerinde en çok tercih ettiği teknik <b>Serigrafi (Elek Baskı)</b>'dir. Warhol, bu tekniği tercih etti çünkü <b>hızlı çoğaltmaya</b> olanak tanıyor, <b>sanatçı elinin izini azaltıyor</b> ve <b>endüstriyel/ticari üretim</b> hissiyatını mükemmel bir şekilde yansıtıyordu. Bu, onun tüketim kültürü ve şöhret temalarını işleme biçimiyle tamamen uyumluydu."
+    },
+    {
+        "SoruID": 362582,
+        "Aciklama": "Alternatif baskı teknikleri, geleneksel dört ana baskı kategorisi (yüksek, çukur, düz, elek) dışında kalan veya bu tekniklerin sıra dışı malzeme ya da yöntemlerle birleştirilmesiyle ortaya çıkan yöntemlerdir. Bu tekniklere örnek olarak Monotip, Kolografi (Collograph) ve Karborundum gibi deneysel yaklaşımlar verilebilir. Eğer seçeneklerde <b>Litografi (Taş Baskı)</b> veya <b>Serigrafi (Elek Baskı)</b> gibi köklü bir ana teknik yer alıyorsa, doğru cevap bu olacaktır çünkü bunlar alternatif değil, köklü ana baskı yöntemleridir."
+    },
+    {
+        "SoruID": 362583,
+        "Aciklama": "Hazırlanan kalıptan yalnızca bir adet özgün baskı elde edilen baskı tekniği <b>Monotip</b> olarak adlandırılır. Monotip (Monotype), kalıp yüzeyine uygulanan mürekkebin büyük bir kısmının ilk geçişte kağıda transfer edilmesi nedeniyle, daha fazla baskı alma imkanı sunmaz veya sonraki baskılar ilkinden tamamen farklı olur. Bu özelliğiyle diğer baskı tekniklerinden (gravür, litografi vb.) ayrılır ve tek eşsiz eser (unique print) yaratır."
+    },
+    {
+        "SoruID": 362584,
+        "Aciklama": "Monotip ve pasteli birlikte kullanmasıyla ünlü olan ressam <b>Edgar Degas</b>’tır. Degas, genellikle karanlık alanlar yarattığı monotip baskıları üzerine, esere renk ve ışık katmak amacıyla pastel uygulamıştır. Bu teknik kombinasyonu, onun özgün ve karakteristik eserlerinin oluşmasında büyük rol oynamıştır."
+    },
+    {
+        "SoruID": 362585,
+        "Aciklama": "İsmi 'kolaj' ve 'grafik' kelimelerinin birleşiminden türetilen baskı tekniği <b>Kolografi (Collograph)</b>’dir. Kolografi, kalıp yüzeyine farklı dokular, malzemeler (karton, kumaş, ip vb.) yapıştırılarak bir kolaj oluşturulması ve bu kabartmalı kalıbın hem yüksek baskı hem de çukur baskı yöntemleriyle mürekkep alıp basılması prensibine dayanır."
+    },
+    {
+        "SoruID": 362586,
+        "Aciklama": "Zemin görevi gören ışığa duyarlı film (genellikle jelatin) kullanılarak uygulanan teknik <b>Fotogravür</b> veya modern uygulaması olan <b>Fotopolimer Gravür</b>’dür. Bu teknikte, ışığa duyarlı bir emülsiyon film (rezist) kullanılır. Pozlama sonrası geliştirilen film, plakayı asit veya su bazlı aşındırmaya karşı koruyarak orijinal görselin tonda ve detaylı bir şekilde metal ya da polimer plaka üzerine aktarılmasını sağlar."
+    },
+    {
+        "SoruID": 362587,
+        "Aciklama": "<b>Karborundum</b> (Silisyum Karbür tozu), baskı sanatında çukur baskı tekniklerinde (intaglio) plakanın yüzeyine yapıştırılarak derin, kadifemsi ve yoğun mürekkep tutuşu sağlayan bir malzemedir. Bu malzeme yapıştırıldıktan sonra çok dayanıklı bir doku oluşturur ve geleneksel asit aşındırmasının pahalı ve zahmetli olduğu durumlarda alternatif bir yöntem sunarak zengin tonlar elde etmeyi mümkün kılar."
+    },
+    {
+        "SoruID": 362588,
+        "Aciklama": "Chine collé (Çin yapıştırması), baskı sırasında mürekkepli kalıp ile baskı kağıdı arasına yerleştirilen <b>ince ve hassas pirinç veya ipek kağıdı</b> üzerine baskı yapılmasını mümkün kılar. Bu ince kağıt, kalıp üzerinden geçen basınç sayesinde hem baskı mürekkebini alır hem de altındaki daha kalın destek kağıdına yapışır. Sonuç, genellikle renk veya doku eklenmiş, daha narin görünümlü bir baskıdır."
+    },
+    {
+        "SoruID": 362589,
+        "Aciklama": "Metal üzerine grafik baskı (gravür/intaglio) teknikleri 15. yüzyılın başlarında, özellikle kuyumculuk ve metal işleme sanatından gelişmiştir. Tarihsel olarak, metal levha üzerine ilk oyma baskıları yapan sanatçı, genellikle '<b>Oyun Kağıtları Ustası (Master of the Playing Cards)</b>' olarak bilinen anonim bir sanatçıya atfedilir. Bu teknikler daha sonra <b>Albrecht Dürer</b> gibi ustalar tarafından mükemmelleştirilmiştir."
+    },
+    {
+        "SoruID": 362590,
+        "Aciklama": "Chine collé tekniği, çukur baskı kalıbının mürekkeplenmesi, ince kağıtların kesilmesi, bu kağıtların arkasına yapıştırıcı sürülmesi ve ardından kalın baskı kağıdı ile birlikte baskı makinesinden geçirilmesi aşamalarını içerir. Bu aşamalardan biri olmayan, baskı ile doğrudan ilgisi bulunmayan ve tamamen farklı bir teknikle ilişkili olan bir eylem doğru cevaptır. Örneğin, <b>Kalıbın asitle derinlemesine oyulması</b>, çukur baskının kendisinin bir aşamasıdır, ancak chine collé uygulamasının zorunlu bir adımı değildir."
+    },
+    {
+        "SoruID": 362591,
+        "Aciklama": "Yüksek çözünürlükteki dijital baskı sistemleri (özellikle yüksek kaliteli mürekkep püskürtmeli yazıcılar) vasıtasıyla sanat eserlerinin yüksek ebatta ve istenen malzemeye (tuval, özel kağıt vb.) baskı alınmasına olanak sağlayan bu türe <b>Giclee Baskı</b> veya <b>Sanatsal Dijital Baskı</b> denir. Giclee (Fransızca 'püskürtmek' anlamına gelir), özellikle fine art (güzel sanatlar) alanında kullanılan arşiv kalitesinde ve uzun ömürlü mürekkeplerle yapılan baskıları ifade eder."
+    },
+    {
+        "SoruID": 376101,
+        "Aciklama": "Monotip baskının en temel özelliği <b>tek ve eşsiz olmasıdır</b>. Monotip tekniklerinden <b>çok sayıda özdeş kopya elde edilmesi</b> beklenemez. Bu durum, monotipi, tirajlı (seri) baskı tekniklerinden (gravür, litografi, serigrafi) ayıran temel faktördür. Monotipte baskı alındıktan sonra kalıpta kalan mürekkep çok azdır ya da kalıbın tekrar kullanılması esere yeni ve farklı bir karakter kazandırır."
+    },
+    {
+        "SoruID": 376106,
+        "Aciklama": "Cellocut Tekniği'ni (Sellülöz Kesim Tekniği) 1931 yılında ilk uygulayan sanatçı <b>Anthony Velonis</b>'tir. Bu teknik, temel olarak bir karton ya da levha üzerine ince selüloz (plastik) plakaların kesilip yapıştırılmasıyla yüksek baskı kalıpları oluşturmayı içerir ve kolografiye benzer bir yapıdadır."
+    },
+    {
+        "SoruID": 376113,
+        "Aciklama": "Eksiltmeli (Redüktif) teknikler, tek bir kalıbın kademeli olarak oyularak ve farklı renklerle basılarak çok renkli baskılar elde edilmesini sağlar. Bu teknikler için ideal plaka, kolayca oyulabilen ve baskı basıncına dayanıklı olan, örneğin <b>Linolyum (Lino)</b> veya <b>Vinil</b> gibi malzemelerdir. Bu malzemeler, hem keskin hatlar hem de geniş alanlar için uygundur."
+    },
+    {
+        "SoruID": 376114,
+        "Aciklama": "Fotogravür, bir fotoğraf görüntüsünü kimyasal süreçlerle metal bir plaka üzerine aktararak çukur baskı tekniğiyle çoğaltmayı içerir. Aşamaları arasında ışığa duyarlı jelatin filmin hazırlanması, pozlama, geliştirme ve asitle aşındırma bulunur. <b>Taş kalıp üzerine yağlı mürekkeple çizim yapmak</b>, bu sürecin bir aşaması değildir; bu işlem tamamen <b>Litografi (Taş Baskı)</b> tekniğine aittir."
+    },
+    {
+        "SoruID": 398888,
+        "Aciklama": "Dijital baskıların geleneksel baskı yöntemlerine tercih edilmesinin en büyük nedeni, <b>hız, esneklik ve düşük tirajlarda maliyet etkinliğidir</b>. Geleneksel baskı makinelerinin kurulumu (kalıp hazırlama, ayar) uzun ve maliyetliyken, dijital baskı makineleri kısa sürede ve küçük miktarlarda kişiselleştirilmiş işlerin ekonomik olarak üretilmesine olanak tanır."
+    },
+    {
+        "SoruID": 398890,
+        "Aciklama": "Karışık tekniklerle (örneğin, kolografinin serigrafi ile birleştirilmesi veya çukur baskı üzerine yüksek baskı uygulanması) yapılan baskılarda, kullanılan farklı yöntemlerin, malzemelerin ve renklerin <b>uygulanma sırası (basım sırası), mürekkep türlerinin uyumu ve kuruma süresi</b> gibi faktörlerin sıralandırılması hayati önem taşır. Yanlış bir sıra, renklerin karışmasına, baskının bozulmasına veya kağıdın yırtılmasına neden olabilir. Bu nedenle <b>planlama ve uygulama sırası</b> eserin başarısı için kritik öneme sahiptir."
+    },
+    {
+        "SoruID": 361088,
+        "Aciklama": "Baskı sanatının (özellikle <b>tahta baskı</b> tekniğinin) başlangıçta Budizm'in kutsal metinlerini ve görüntülerini hızla çoğaltmak ve yaymak amacıyla geliştirildiği ülke <b>Çin</b>'dir. Budist keşişler, dini bilgiyi geniş kitlelere ulaştırmak için bu tekniği kullanmışlardır. Japonya'ya da baskı sanatı Budizm aracılığıyla Çin'den geçmiştir."
+    },
+    {
+        "SoruID": 361089,
+        "Aciklama": "Verilen tanım, <b>ağaç baskı</b> (veya <b>tahta baskı</b>) tekniğini ifade eder. Bu teknikte, desen önce bir ağaç bloğunun yüzeyine <b>rölyef</b> şeklinde oyulur. Oyulmayan (yüksekte kalan) yüzey mürekkep veya boya ile kaplanarak kâğıda veya kumaşa basılır. Bu yöntem, Uzak Doğu'da geliştirilen en eski baskı tekniğidir."
+    },
+    {
+        "SoruID": 361090,
+        "Aciklama": "Japonya'da ağaç baskının kullanıldığı bilinen en eski örnekler <b>8. yüzyılın</b> ortalarına, Nara dönemine dayanmaktadır. Bu dönemde İmparatoriçe Shōtoku tarafından yaptırılan ve Budist metinler içeren \"<b>Hyakumantō Darani</b>\" baskıları, Japonya'daki baskı sanatının belgelenmiş en erken kanıtlarıdır."
+    },
+    {
+        "SoruID": 361091,
+        "Aciklama": "Japonya'da 12. yüzyıldan 16. yüzyıla kadar baskı sanatının gelişmemesinin temel nedenleri arasında <b>uzun süren siyasi istikrarsızlık</b> (Sengoku dönemi), savaşlar ve okuryazarlığın sadece küçük bir elit zümreyle sınırlı kalması sayılır. Baskı sanatının gelişimini destekleyecek bir durum bu dönemde bir neden olarak <u>sayılmaz</u>. Örneğin, şehirleşmenin ve ticari canlanmanın olmaması bir nedendir; ancak <b>Budizm’in gücünün azalması</b> bu durgunluğun ana nedeni değildir, aksine erken dönemde Budizm baskıyı teşvik etmiştir."
+    },
+    {
+        "SoruID": 361092,
+        "Aciklama": "<b>Ukiyo-e</b> (Yüzen Dünya Resimleri), 17. yüzyılda Edo döneminde ortaya çıkmış ve özellikle ekonomik olarak zenginleşen ancak siyasi olarak alt sınıfta kalan <b>kasaba halkı</b> (chōnin: tüccarlar ve zanaatkârlar) arasında popüler hale gelmiştir. Bu sanat, onların dünyevi zevklerini, tiyatro, geyşa ve sumo güreşi gibi eğlencelerini konu almıştır."
+    },
+    {
+        "SoruID": 361093,
+        "Aciklama": "<b>Hishikawa Moronobu</b> (öl. 1694), Ukiyo-e'nin tek yapraklı baskı formatını popülerleştiren ve Ukiyo-e'nin ilk büyük ustası olarak kabul edilen kişidir. Moronobu, illüstrasyonlardan bağımsız tek sayfalık baskıları kitlesel pazara sunarak sanatın <b>kurucu figürü</b> olmuştur. Tarihsel bağlamda onunla birlikte anılan diğer bir sanatçı, genellikle Ukiyo-e’nin resimsel öncüsü kabul edilen <b>Iwasa Matabei</b> olabilir."
+    },
+    {
+        "SoruID": 361094,
+        "Aciklama": "Edo döneminin <b>Altın Çağı</b>, genellikle popüler kültürün ve sanatın (özellikle Ukiyo-e ve Kabuki) zirveye ulaştığı <b>Genroku Dönemi</b> (1688–1704) olarak kabul edilir. Bu dönemde, büyük şehirlerdeki <b>kasaba halkının</b> refahı artmış ve eğlenceye yönelik talepleri Ukiyo-e sanatının patlamasına neden olmuştur."
+    },
+    {
+        "SoruID": 361095,
+        "Aciklama": "Japonya'nın Batı'ya açıldığı ve hızlı modernleşme sürecine girdiği <b>Meiji Dönemi</b>, <b>1868</b> yılında İmparator Meiji'nin tahta geçişiyle başlamış ve <b>1912</b> yılına kadar sürmüştür. Bu dönemde geleneksel baskı sanatı büyük değişimler geçirmiş, <b>hibrit üsluplar</b> ve Batılı baskı teknikleri (litografi, gravür) Japonya'ya girmiştir."
+    },
+    {
+        "SoruID": 361096,
+        "Aciklama": "Ukiyo-e'nin dev sanatçısı <b>Katsushika Hokusai</b>, özellikle manzaralarıyla ünlüdür ancak <b>resimli kitaplar</b> (ehon) alanında da çığır açmıştır. Onun öne çıkan iki büyük resimli kitabından biri, farklı konuları kapsayan eskizlerden oluşan ve tüm dünyada bilinen <b>Hokusai Manga</b> serisidir. Diğeri ise <b>Fugaku Hyakkei</b> (Fuji Dağı’nın Yüz Görünümü) resimli kitabıdır."
+    },
+    {
+        "SoruID": 361098,
+        "Aciklama": "Ukiyo-e’nin temelini atan <b>Moronobu</b>'nun resmettiği temalar, doğrudan Edo şehrinin (Tokyō) eğlence ve zevk merkezlerinden alınmıştır. Bu temalar büyük ölçüde <b>Yoshiwara</b> (lisanslı kırmızı ışık bölgesi) ve <b>Kabuki tiyatroları</b> çevresindeki günlük hayattan ve popüler figürlerden esinlenmiştir. Ukiyo-e zaten '<b>yüzen dünya</b>'nın (geçici zevklerin) resmidir."
+    },
+    {
+        "SoruID": 374760,
+        "Aciklama": "Baskı tekniğinin (özellikle tahta baskı) ilk kez yapıldığı ve geliştirildiği yer <b>Çin</b>'dir. Kağıdın icadı ve dini metinlerin çoğaltılması ihtiyacı, <b>Çinliler</b> tarafından tahta baskı tekniğinin geliştirilmesine yol açmıştır. Japonya bu tekniği Çin'den almıştır."
+    },
+    {
+        "SoruID": 374771,
+        "Aciklama": "Japonya'da <b>ağaç baskılar</b> ilk kez 8. yüzyılda, <b>Budist inancını</b> ve kutsal metinleri (Dharani dualarını) yaymak amacıyla yapılmıştır. Bu dini motivasyon, Japonya'da baskı sanatının ortaya çıkışının temel nedeni olmuştur."
+    },
+    {
+        "SoruID": 374773,
+        "Aciklama": "Japonya'da tahta baskının belgelenmiş en eski örnekleri, 8. yüzyıldan kalma, Japon selvi ağaçlarından oyulmuş küçük pagodalar (kubbeler) içine yerleştirilmiş olan Budist metinleridir. Bu nesnelere <b>Hyakumantō Darani</b> (Bir Milyon Pagoda ve Dharani Metinleri) adı verilir."
+    },
+    {
+        "SoruID": 374774,
+        "Aciklama": "Japonya'da <b>Ukiyo-e</b> sanatının ortaya çıkıp geliştiği ve popülerleştiği dönem, <b>Edo Dönemi</b>'dir (1603-1868). Bu dönemde, barışın ve ticari refahın artmasıyla birlikte, kasaba halkına hitap eden dünyevi bir sanat formu olan Ukiyo-e zirveye ulaşmıştır."
+    },
+    {
+        "SoruID": 374777,
+        "Aciklama": "<b>Ukiyo-e</b> akımının ilk büyük ustası olarak kabul edilen sanatçı <b>Hishikawa Moronobu</b>'dur. Moronobu, Ukiyo-e tarzını resimli kitap illüstrasyonlarından çıkarıp, bağımsız <b>tek sayfalık baskılar</b> (ichimai-e) haline getirerek sanatın kitlesel popülaritesini sağlamıştır."
+    },
+    {
+        "SoruID": 398891,
+        "Aciklama": "Japon baskısının tarihsel gelişiminde 8. yüzyıldan itibaren kullanılan ve Budist metinlerin çoğaltılmasında temel teşkil eden en erken teknik <b>Tahta Baskı</b> (veya Ağaç Baskı) tekniğidir. Bu teknik, asırlar boyunca Japonya'daki matbaacılığın ve sanat baskısının ana yöntemi olmuştur."
+    },
+    {
+        "SoruID": 398893,
+        "Aciklama": "Meiji Dönemi (1868-1912), Japon sanatının Batılılaşma ve modernleşme etkileri altına girdiği bir dönemdir. Bu dönemde Batı'dan gelen teknikleri (özellikle perspektif ve ışık/gölge) geleneksel ahşap baskı (Ukiyo-e) ile birleştiren önemli bir sanatçı <b>Kobayashi Kiyochika</b>'dır. Kiyochika, özellikle Tokyo'nun değişen yüzünü ve <b>savaş sahnelerini</b> tasvir etmiştir."
+    },
+    {
+        "SoruID": 361106,
+        "Aciklama": "Türk baskıresim sanatçısı <b>Ergin İnan</b>, eserlerinde genellikle <b>portreler</b>, <b>eller</b>, <b>mektuplar</b> ve <b>yaratılış</b> gibi mistik, simgesel ve biyografik temaları işler. Sanatında ölüm, doğum, ruh ve varoluş gibi kavramlar merkezi yer tutar. Sorunun cevabı (olmayan konu) Ergin İnan’ın sanatsal felsefesi veya ana temaları dışında kalan bir seçenektir."
+    },
+    {
+        "SoruID": 361108,
+        "Aciklama": "Dünya baskı sanatı tarihinde çığır açan 'Atelier 17' atölyesi, 1927 yılında Paris’te (daha sonra New York’ta) İngiliz sanatçı <b>Stanley William Hayter</b> tarafından kurulmuştur. Hayter, özellikle <b>oyma</b> (intaglio) tekniklerinin geliştirilmesinde ve modern sanatçıların baskıresimle tanışmasında kritik bir rol oynamıştır."
+    },
+    {
+        "SoruID": 361109,
+        "Aciklama": "1960 sonrası baskıresim, <b>Pop Art</b> ve diğer çağdaş akımların etkisiyle önemli değişimler geçirmiştir. Bu dönemde <b>serigrafi</b> (silkscreen) gibi endüstriyel teknikler yaygınlaşmış, baskılar büyük ölçekli hale gelmiş ve sanat/ticaret arasındaki sınırlar sorgulanmıştır. Özelliklerinden biri olmayan şey, genellikle <b>geleneksel akademik kurallara sıkı sıkıya bağlılık</b> veya tekniğe aşırı biçimsel kısıtlamalar getirilmesi gibi yaklaşımlardır."
+    },
+    {
+        "SoruID": 361110,
+        "Aciklama": "Baskı sanatının 20. yüzyılda sanatçılar tarafından tercih edilmesinin en önemli sebebi, eserlerin <b>çoğaltılabilme</b> (reprodüksiyon) yeteneğidir. Bu özellik sayesinde sanat, daha geniş kitlelere <b>demokratik</b> bir şekilde ulaştırılmış, sanatçının ifadesini toplumsal ve siyasi alanda daha etkili kullanmasına olanak tanınmıştır."
+    },
+    {
+        "SoruID": 361111,
+        "Aciklama": "<b>Dışavurumculuk</b> (Expressionism), 20. yüzyılın başlarında sanatçıların iç dünyalarını, duygularını ve kaygılarını şiddetli bir şekilde dışa vurmayı amaçladığı bir sanat akımıdır. Bu akım ilk olarak <b>Almanya</b>'da, özellikle 'Die Brücke' ve 'Der Blaue Reiter' gibi gruplarla ortaya çıkmıştır."
+    },
+    {
+        "SoruID": 361112,
+        "Aciklama": "Verilen tanım, <b>Sürrealizm</b> (Gerçeküstücülük) akımının temelini oluşturan <b>ruhsal otomatizm</b> kavramına aittir. Sürrealistler, bilinçli kontrolün ve mantığın dışındaki düşünce akışını, yani <b>bilinçaltını</b> doğrudan sanata aktarmayı hedeflemişlerdir. Bu yöntem, André Breton tarafından akımın yöntemi olarak belirlenmiştir."
+    },
+    {
+        "SoruID": 361113,
+        "Aciklama": "Modern sanat, 19. yüzyılın sonlarından itibaren gelişen ve <b>geleneksel akademik kuralları</b>, temsiliyetçi sanatı reddeden bir dönemdir. Modern sanatın özellikleri arasında <b>soyutlama</b>, bireysellik, <b>özgünlük</b> ve form araştırmaları yer alır. Modern sanatın özelliklerinden biri olmayan durum genellikle <b>klasik kurallara ve mutlak temsile bağlılık</b>tır."
+    },
+    {
+        "SoruID": 361114,
+        "Aciklama": "Dışavurumcu akım 'Der Blaue Reiter' (Mavi Süvari)'in kurucularından olan <b>Wassily Kandinsky</b>, bu akımın erken dönem tanıtım çalışmalarında yer almıştır. Kandinsky, bu akımın ruhunu yansıtan ve çoğaltılmaya uygun olan afiş tasarımını, Dışavurumcuların sıkça kullandığı bir teknik olan <b>ağaç baskı</b> (woodcut) yöntemiyle yapmıştır."
+    },
+    {
+        "SoruID": 361115,
+        "Aciklama": "Türkiye Cumhuriyeti'nin 50. Yıl Etkinlikleri <b>1973</b> yılında kutlanmıştır. Baskı sanatımızın önemli isimlerinden <b>Mustafa Aslıer</b>, bu etkinlikler kapsamında 'Çağdaş Türk Gravür Sanatı' başlıklı büyük bir sergiyi organize etme görevini üstlenmiştir. Bu sergi, Türk baskı sanatının gelişimini gözler önüne sermiştir."
+    },
+    {
+        "SoruID": 374830,
+        "Aciklama": "Eserlerinin temel temaları arasında <b>portreler, eller, mektup</b> ve <b>yaratılış</b> yer alan ve genellikle gravür, asamblaj ve resim tekniklerini kullanan Türk sanatçı <b>Ergin İnan</b>'dır. İnan, çalışmalarında mistik ve simgesel ifadelerle insan varoluşunu sorgular."
+    },
+    {
+        "SoruID": 374833,
+        "Aciklama": "Klasik resim anlayışının dışına çıkan, <b>hazır nesnelerin</b> (ready-made) ve <b>atık malzemelerin</b> sanatsal kompozisyonlarda bir araya getirilerek kullanıldığı akım <b>Asamblaj</b> (Assemblage)'dır. Bu akım, objeleri bir araya getirerek yeni estetik ve kavramsal anlamlar oluşturur ve sanatta malzeme kısıtlamalarını ortadan kaldırır."
+    },
+    {
+        "SoruID": 398894,
+        "Aciklama": "Käthe Kollwitz, Alman Dışavurumcu sanatçısı olup, eserlerinde sosyal adaletsizlik ve işçi sınıfının acılarını işlemiştir. 'Çift Sürenler' (The Ploughmen) adlı gravürü, sanatçının <b>Köylü Savaşı</b> serisinin bir parçasıdır. Bu eser, Kollwitz'in karakteristik olarak kullandığı <b>gravür</b> (etching/aquatint) tekniğiyle, <b>emekçilerin zorlu yaşamını</b> ve toplumsal gerçekliği derin bir duyarlılıkla aktarır."
+    },
+    {
+        "SoruID": 398896,
+        "Aciklama": "Andy Warhol'un Marilyn Monroe veya Campbell's Konserve Kutuları gibi imajları seri halde çoğalttığı baskı resimleri <b>Pop Sanatı</b> (Pop Art) akımı içinde yer almıştır. Warhol, <b>serigrafi</b> (silkscreen) tekniğini ticari süreçleri taklit edecek şekilde kullanarak, sanatı <b>kitlesel kültüre</b> entegre etmiş ve böylece Pop Art'ın hızla yayılmasına ve geniş kitlelerce tanınmasına katkıda bulunmuştur."
+    },
+    {
+        "SoruID": 361320,
+        "Aciklama": "Türk modern baskı ve grafik sanatının ilk uygulayıcılarından sayılan isim, genellikle <b>Aliye Berger</b> olarak kabul edilir. Berger, özellikle gravür alanında yaptığı öncü çalışmalarla tanınır ve Türkiye'de özgün baskı resmin sanat çevrelerinde kabul görmesinde büyük rol oynamıştır."
+    },
+    {
+        "SoruID": 361324,
+        "Aciklama": "Türk baskı sanatında ilk kuşak sanatçılar genellikle 1940'lar ve 1950'lerde aktif olan, Batı'da eğitim almış ve Türkiye'de baskı sanatının temellerini atan isimlerdir (Örn: Sabri Berkel, Aliye Berger, Muazzez Gözey). Bu döneme kıyasla, <b>Süleyman Saim Tekcan</b> gibi isimler daha sonraki kuşaklar arasında yer alır ve 1970'ler sonrası baskı sanatına büyük katkılarda bulunmuştur."
+    },
+    {
+        "SoruID": 361326,
+        "Aciklama": "Türk sanatında gravür (oyma baskı) tekniklerinin modern anlamda ilk önemli örnekleri <b>20. yüzyılın ortalarında</b>, özellikle 1950'li yıllarda ortaya çıkmıştır. Bu dönemin en önemli temsilcisi, kişisel sergileriyle gravür tekniğini tanıtan <b>Aliye Berger</b>'dir."
+    },
+    {
+        "SoruID": 361328,
+        "Aciklama": "Türkiye'deki modern sanat eğitiminin temelini oluşturan <b>Sanayi-i Nefise Mektebi</b>, ünlü ressam ve müzeci <b>Osman Hamdi Bey</b> tarafından <b>1883</b> yılında kurulmuştur. Bu kurum, Türk sanatının Batılılaşma sürecinde merkezi bir rol oynamıştır."
+    },
+    {
+        "SoruID": 361332,
+        "Aciklama": "Türk baskı sanatının erken dönemlerinde ticari ve sanatsal amaçlarla en yaygın ve ilk kullanılan modern tekniklerden biri <b>Taş Baskı (Litografi)</b> olmuştur. Bu teknik, 19. yüzyılın ortalarından itibaren İstanbul'da hızla yayılmıştır."
+    },
+    {
+        "SoruID": 361336,
+        "Aciklama": "S.W. Hayter'ın Paris'teki ünlü <b>Atelier 17 Atölyesi</b>, 20. yüzyıl baskı sanatının en önemli merkezlerinden biriydi. Bu atölyede ders alarak Türkiye'ye dönen ve özgün baskı sanatına katkıda bulunan önemli isimlerden biri <b>Gül Derman</b>'dır. Bu eğitim, çağdaş gravür tekniklerinin Türkiye'de yayılmasına zemin hazırlamıştır."
+    },
+    {
+        "SoruID": 361339,
+        "Aciklama": "Türkiye'de güzel sanatlar alanında örgün eğitim veren ilk kurum <b>Sanayi-i Nefise Mektebi</b>'dir. 1883 yılında kurulan bu okul, daha sonraki yıllarda Güzel Sanatlar Akademisi adını almıştır."
+    },
+    {
+        "SoruID": 361340,
+        "Aciklama": "Türk gravür sanatının öncüsü <b>Aliye Berger</b>, ilk kişisel gravür sergisini <b>1954</b> yılında <b>İstanbul</b>'da açmıştır. Bu sergi, Türkiye'de özgün baskı resim tekniğinin sanat camiasına tanıtılması açısından büyük önem taşımaktadır."
+    },
+    {
+        "SoruID": 361341,
+        "Aciklama": "Özgün baskı sanatının korunması, sergilenmesi ve bu alandaki bilincin artırılması amacıyla Prof. <b>Süleyman Saim Tekcan</b> tarafından kurulan müze, <b>İstanbul Grafik Sanatlar Müzesi (IMOGA)</b>'dır. Bu müze, özgün baskı sanatına adanmış Türkiye'deki ilk kuruluştur."
+    },
+    {
+        "SoruID": 361342,
+        "Aciklama": "Sanayi-i Nefise Mektebi'nin erken dönemlerinde gravür (oyma baskı) eğitimi veren ve 1892-1897 yılları arasında bu alanda görev yapan isimler arasında <b>Vassilaki</b> adı geçmektedir. Vassilaki, bu dönemde gravür derslerini yürütmüştür."
+    },
+    {
+        "SoruID": 375276,
+        "Aciklama": "Türkiye'de sanat amaçlı ilk modern taş baskı (Litografi) atölyesi, <b>1881</b> yılında <b>Mıgırdiç Civanyan</b> tarafından kurulmuştur. Civanyan, bu teknikle sanatsal üretim yapan ilk isimlerdendir."
+    },
+    {
+        "SoruID": 375281,
+        "Aciklama": "Türkiye'de özgün baskı sanatının akademik düzeyde yaygınlaşması, pek çok üniversitede atölyelerin kurulması ve çağdaş eğitim müfredatlarının başlatılması sürecinde kilit rol oynayan sanatçı <b>Süleyman Saim Tekcan</b>'dır. Kendisi, bu alana öncülük etmiş ve uluslararası standartlarda eğitimin yerleşmesine katkı sağlamıştır."
+    },
+    {
+        "SoruID": 375282,
+        "Aciklama": "Türkiye sanat literatürüne <b>\"Özgün Baskı Resim\"</b> (Original Printmaking) teriminin kazandırılmasında ve bu terimin tanımlanıp yaygınlaştırılmasında önemli katkıları bulunan kişi <b>Sabri Berkel</b>'dir. Berkel, bu terimi kullanarak baskı sanatının kendine özgü sanatsal değerini vurgulamayı amaçlamıştır."
+    },
+    {
+        "SoruID": 398914,
+        "Aciklama": "Sabri Berkel'in yönetimindeki baskı atölyesinde temel olarak <b>Gravür (oyma baskı)</b> ve <b>Litografi (taş baskı)</b> teknikleri kullanılmıştır. Bu atölyede, modern sanat akımlarının etkisiyle, soyutlama eğilimleri gösteren ve genellikle doku ile grafiksel anlatıma odaklanan <b>deneysel ve özgün baskı çalışmaları</b> üretilmiştir."
+    },
+    {
+        "SoruID": 398915,
+        "Aciklama": "Aliye Berger, gravür tekniğinde genellikle <b>çinko veya bakır metal plakalar</b> kullanmıştır. Onun özgün kimliği, asitle dağlama veya iğne kullanımı gibi geleneksel tekniklerin yanı sıra, özellikle <b>sıradan malzemeler ve alışılmışın dışındaki aletleri</b> kullanarak elde ettiği zengin <b>tonalite ve dokusal etkiler</b> ile şekillenmiştir."
+    },
+    {
+        "SoruID": 362626,
+        "Aciklama": "Anadolu’da tahtayı kazıyarak veya oyarak kalıp hazırlama ve bu kalıbı boyayarak kumaş veya kâğıda baskı yapma işlemine <b>Ağaç Baskı</b> (Woodcut) denir. Bu teknik, baskı sanatlarının en eski ve yaygın formlarından biri olup, özellikle kumaş üzerine desen basımında (yazmacılık) geleneksel olarak kullanılmıştır."
+    },
+    {
+        "SoruID": 362631,
+        "Aciklama": "Osmanlı Döneminde Batılı tarzda resim sanatı ile tanışma, genellikle 18. yüzyılın sonları ve 19. yüzyılın başlarındaki modernleşme hareketleriyle ilişkilendirilir. Özellikle <b>II. Mahmut</b> veya <b>III. Selim</b> dönemlerinde, askeri okullarda teknik çizim ve perspektif gibi Batı sanatına ait unsurların öğretilmeye başlanmasıyla bu tarz resim sanatı imparatorluğa girmiştir."
+    },
+    {
+        "SoruID": 362634,
+        "Aciklama": "1500’lü yıllarda ilk Osmanlıca yazılmış gravür örnekleri, genellikle coğrafi eserler ve haritalarla ilişkilidir. Matbaa tekniklerinin Osmanlıca metinlerle birleştiği ilk önemli örnekler, 16. yüzyılda <b>Avrupalı sanatçılar ve seyyahlar</b> tarafından üretilen ve İstanbul'u tasvir eden ya da coğrafi bilgi içeren baskılardır. Tarihi kayıtlarda, erken dönem gravürlü haritalar genellikle <b>Piri Reis</b>’in çalışmalarına paralel olarak anılır."
+    },
+    {
+        "SoruID": 362635,
+        "Aciklama": "IV. Murat döneminde (17. yüzyıl) kaleme alınmış, kıtalar ve ülkeler hakkında detaylı bilgiler ile otuz sekiz çizimin (çoğunlukla harita ve tabloların) yer aldığı ünlü eser, <b>Kâtip Çelebi</b>'nin <b>Cihannüma</b>'sıdır. Eserin ilk el yazması versiyonu bu döneme ait olsa da, matbu hali İbrahim Müteferrika tarafından 18. yüzyılda basılmıştır."
+    },
+    {
+        "SoruID": 362639,
+        "Aciklama": "Padişah II. Abdülhamit’in portresi de dahil olmak üzere birçok İstanbul manzarası ve portre çalışması yapmış olan sanatçı, İtalyan ressam <b>Fausto Zonaro</b>’dur. Zonaro, 1896’dan 1910’a kadar saray ressamı olarak görev yapmış ve Batılı tarzda resim sanatının Osmanlı sarayındaki en önemli temsilcilerinden biri olmuştur."
+    },
+    {
+        "SoruID": 362642,
+        "Aciklama": "Resim sanatında büyük gelişmelerin yaşandığı, modernizm ve sanat anlayışının Osmanlı İmparatorluğu’na kazandırılmaya çalışıldığı dönem, özellikle <b>Sultan Abdülaziz</b> (1861-1876) dönemidir. Bu dönemde Avrupa sanatına ilgi artmış, Batı tarzı resim eğitimi için adımlar atılmış ve <b>Sanayi-i Nefise Mektebi</b>’nin kuruluşu için zemin hazırlanmıştır."
+    },
+    {
+        "SoruID": 362643,
+        "Aciklama": "Osmanlı İmparatorluğu’nda kurulan ilk litografik matbaa (taş baskı), genellikle 1831 yılında <b>Harp Okulu (Mekteb-i Harbiye) Matbaası</b> bünyesinde kurulmuştur. Bu matbaa, özellikle askeri alandaki harita ve teknik çizimlerin hızlı ve kaliteli çoğaltılması amacıyla kullanılmıştır."
+    },
+    {
+        "SoruID": 362645,
+        "Aciklama": "Sanayi-i Nefise Mektebi’nde (1883) gravür veya baskı teknikleri dersleri veren hocalar arasında genellikle bu alanda uzmanlaşmış Türk ve yabancı sanatçılar yer almıştır. Eğer seçeneklerde yer alan isim <b>Şeker Ahmet Paşa</b> ise, kendisi Türk resminin öncülerindendir ancak genellikle gravür derslerinden ziyade tuval resmi ve sergileriyle anılır ve bu alanda hocalık yapmamıştır."
+    },
+    {
+        "SoruID": 362648,
+        "Aciklama": "İstanbul gravürleri, seyyahların ve sanatçıların ilgisini çeken şehrin ikonik yapılarını ve manzaralarını konu alır. Bunlar arasında camiler (Ayasofya, Süleymaniye), saraylar, Boğaziçi ve Galata gibi yerler bulunur. Eğer seçeneklerde İstanbul dışında yer alan tarihi bir yapı, örneğin <b>Eskişehir Odunpazarı Evleri</b> veya <b>Konya Mevlana Müzesi</b> gibi bir mekan yer alıyorsa, bu gravürlerin ana teması olan İstanbul manzaralarına dahil değildir."
+    },
+    {
+        "SoruID": 362649,
+        "Aciklama": "1847 yılında Sultan Abdülmecid’in emriyle Ayasofya’da yapılan restorasyon çalışmalarını belgelemek amacıyla <b>“Aya Sofia of Constantinople as Recently Restored by Order of H.M. the Sultan Abdul Medjid”</b> adıyla bir litografi albümü yayınlayan ressam ve mimar <b>Gaspare Fossati</b>’dir. Fossati, kardeşi Giuseppe ile birlikte Ayasofya'nın önemli bir onarımını gerçekleştirmiştir."
+    },
+    {
+        "SoruID": 376085,
+        "Aciklama": "Yirmi bir parçadan oluşan ve yaklaşık on bir metre uzunluğunda olan, İstanbul'un en meşhur erken dönem panoraması gravürü, 16. yüzyılın ortalarında (yaklaşık 1559) <b>Melchior Lorck</b> tarafından yapılmıştır. Lorck'un bu eseri, Kanuni Sultan Süleyman dönemindeki İstanbul'u en detaylı gösteren görsel kayıtlardan biridir."
+    },
+    {
+        "SoruID": 376086,
+        "Aciklama": "Rönesans Dönemi'nde Avrupa’dan sanatçıların İstanbul’a gelip Osmanlı kültürüne yönelik çalışmalar yapmasının temel nedenleri; <b>Osmanlı’nın gücü ve egzotik kültürü</b>, diplomatik görevler ve coğrafi keşiflerdi. Sanatçıların gelme nedenlerinden biri olmayan durum, genellikle <b>Avrupa'daki sanatsal rekabetten kaçma</b> veya <b>Osmanlı sarayının Batı sanat tekniklerini tam anlamıyla akademide zorunlu tutması</b> gibi bir durumdur, zira Osmanlı sanatı henüz Batı'nın akademik kurallarını tamamen benimsememişti."
+    },
+    {
+        "SoruID": 376087,
+        "Aciklama": "1900’lü yılların başında, öğrencilerin canlı model yerine kullanabileceği, doğa görünümleri, kır evleri ve çeşmeleri betimleyen karakalem çizimleri hazırlayıp taş baskı (litografi) yöntemiyle çoğaltarak resim atölyelerine dağıtmış olan Türk ressam, usta natüralist <b>Hoca Ali Rıza</b>’dır. Bu materyaller, geleneksel resim eğitiminde pratik yapma imkanı sağlamıştır."
+    },
+    {
+        "SoruID": 376090,
+        "Aciklama": "XV. ve XVI. yüzyıllardaki ilk gravürlerin temel özelliği, <b>matbaanın gelişimiyle doğrudan ilişkili</b> olmalarıdır. Bu gravürler (özellikle ağaç baskılar), dini içerikli resimler, haritalar ve kitap illüstrasyonları gibi <b>bilgi çoğaltma ve görsel iletişim</b> amaçlarına hizmet eden, genellikle net çizgilere sahip çalışmalardır."
+    },
+    {
+        "SoruID": 376092,
+        "Aciklama": "Gravürlerinde İstanbul’un en önemli camilerinden biri olan Süleymaniye Camii’ni sıklıkla ve detaylı bir şekilde resmeden sanatçı 19. yüzyılın önde gelen İngiliz mimar ve ressamlarından <b>Thomas Allom</b>’dur. Allom’un çalışmaları, dönemin ünlü seyahatname albümlerinde yer alarak Süleymaniye’nin mimari ihtişamını Batı’ya tanıtmıştır."
+    },
+    {
+        "SoruID": 376096,
+        "Aciklama": "William Henry Bartlett, Thomas Allom ve Henri Cayol gibi 19. yüzyılın ortalarında İstanbul manzaraları üzerine yoğunlaşmış gravür sanatçıları, çalışmalarını <b>Sultan Abdülmecid</b> (1839-1861) döneminde gerçekleştirmiştir. Bu dönem, Batılılaşmanın hız kazandığı ve İstanbul’un Batılı seyyahlar için popüler bir tema haline geldiği Tanzimat dönemine denk gelir."
+    },
+    {
+        "SoruID": 398916,
+        "Aciklama": "Osmanlı Dönemi'nde İstanbul izlenimlerini detaylı ağaç gravürlerle resimleyen ve aynı zamanda Türk tarihini anlatan <b>\"Historia Turchesca\"</b> adlı kitabı yazan yabancı ressam <b>Melchior Lorck</b>'tur. Lorck, 16. yüzyıl ortalarında Kanuni Sultan Süleyman'ın maiyetinde bulunmuştur."
+    },
+    {
+        "SoruID": 398917,
+        "Aciklama": "<b>Cihannüma</b> adlı eser, Kâtip Çelebi tarafından yazılmış olup <b>genel coğrafya ve haritacılık</b> konularını kapsamaktadır. Eser, ilk Osmanlı matbaasını kuran şahsiyet olan <b>İbrahim Müteferrika</b> tarafından 18. yüzyılda basılmış ve Müteferrika, esere güncel bilgiler ve <b>gravür haritalar</b> ekleyerek yayına hazırlamıştır."
+    },
+    {
+        "SoruID": 398918,
+        "Aciklama": "Osmanlı saraylarında korunan gravürler, çoğunlukla yabancı sanatçılar tarafından yapılmış olup, Osmanlı toplumunun ve saray çevresinin sosyal yapısını yansıtır. Bu gravürlerde, <b>Yeniçeriler, çeşitli meslek grupları, saray görevlileri, dini tarikatlar</b> (dervişler) ve farklı halk sınıflarının <b>kıyafetleri</b> gibi toplumsal bölümler tasvir edilmiştir. Bunlar, Batı’nın Osmanlı’ya olan merakını gidermeye yönelik görsel belgelerdir."
+    },
+    {
+        "SoruID": 361207,
+        "Aciklama": "Ekslibris, Latince “ex” (den, dan) ve “libris” (kitaplar) kelimelerinin birleşimi olup, “...nın kitapları arasından” anlamına gelmektedir. <br>Ekslibris, kitap sahiplerinin kendilerine ait kitapların ön iç kapaklarına yapıştırdıkları, sahipliği belirten ve aynı zamanda bir <b>sanat değeri</b> taşıyan özgün bir baskı resim tekniğiyle üretilmiş etiketlerdir. Bu nedenle doğru tanım, onun hem sahiplik belirten işlevini hem de sanatsal üretim biçimini kapsamalıdır."
+    },
+    {
+        "SoruID": 361208,
+        "Aciklama": "Avrupa’da ekslibris sanatı, matbaanın icadından kısa bir süre sonra, <b>15. yüzyılın ikinci yarısında (1400’lü yıllar)</b> ortaya çıkmıştır. İlk ekslibris örnekleri, baskı resim tekniklerinin geliştiği ve kitap üretiminin hızlandığı <b>Almanya</b>’da görülmüştür. O dönemde kullanılan baskı tekniği genellikle ağaç baskı (woodcut) idi. Almanya, ekslibrisin doğum yeri olarak kabul edilir."
+    },
+    {
+        "SoruID": 361209,
+        "Aciklama": "Ekslibrisin temel özellikleri şunlardır: Bir <b>sahiplik belgesi</b> olması, kitapla bütünleşmesi ve <b>özgün baskı resim</b> teknikleriyle üretilmesi. Ekslibrisler, özgün baskı resim kuralı gereği, sanatçı tarafından sınırlı sayıda (tipik olarak 50-100 adet arasında) ve numaralandırılarak basılırlar. Bu nedenle, ekslibrisin yüksek tirajlı (çok sayıda) basılması özelliği ekslibrisin tanımına veya temel üretim prensibine <b>uygun değildir</b>, zira yüksek tirajlı basılanlar reprodüksiyon niteliği taşır, özgün sanat eseri niteliğini kaybeder."
+    },
+    {
+        "SoruID": 361219,
+        "Aciklama": "19. yüzyılın sonlarına doğru yaşanan kuramsal çalışmalar ve yayınlar, ekslibris sanatında bir canlanmaya yol açmıştır. Bu canlanma süreci, ekslibrisin kurumsal yapılar içinde örgütlenmesini sağlamıştır. Bu dönemde, ekslibris meraklılarının bir araya geldiği <b>eks-libris derneklerinin</b> ortaya çıkması ve popülerleşmesi, ekslibrisin <b>koleksiyonerler</b> arasında değiş tokuşuna olanak tanımıştır. Bu durum, sanatın uluslararası düzeyde yayılmasında kritik rol oynamıştır."
+    },
+    {
+        "SoruID": 361227,
+        "Aciklama": "Türkiye’de ekslibris sanatının yayılmasında kilit rol oynayan ve bu sanatın dönüm noktasını başlatan kişi <b>Prof. Hasip Pektaş</b>’tır. Hasip Pektaş, 1997 yılında <b>Ankara Ekslibris Derneği’nin (AED)</b> kurulmasına öncülük etmiş ve bu sanatın eğitim ve tanıtım faaliyetlerini büyük ölçüde üstlenmiştir. Onun çalışmaları sayesinde Türkiye, uluslararası ekslibris camiasında tanınır hale gelmiştir."
+    },
+    {
+        "SoruID": 361257,
+        "Aciklama": "Türkiye'deki ilk ekslibris müzesi, İstanbul’un <b>Üsküdar</b> ilçesinde kurulmuştur ve adı <b>İstanbul Ekslibris Müzesi</b>'dir. Bu müze, sanatın tarihini, gelişimini ve eserlerini koruma altına alarak, koleksiyonerlere ve sanatseverlere önemli bir kaynak sağlamaktadır. Kurulumunda yine Hasip Pektaş'ın büyük katkıları olmuştur."
+    },
+    {
+        "SoruID": 361262,
+        "Aciklama": "Ekslibris, özgün baskı resim teknikleriyle üretilir. Sanat tarihinde kabul gören ve ekslibris üretiminde kullanılan temel baskı resim teknikleri üç ana grupta incelenir: <b>Yüksek baskı</b> (kabartma tekniği), <b>Çukur baskı</b> (derin baskı tekniği) ve <b>Düz baskı</b> (yüzey baskı tekniği). Ekslibris sanatçıları bu üç temel grup içindeki alt teknikleri kullanırlar (Örn: Ağaç baskı, gravür, litografi)."
+    },
+    {
+        "SoruID": 361268,
+        "Aciklama": "Uluslararası Ekslibris Kongresi’nde (FISAE) kabul edilen simgeler, ekslibrisin hangi teknikle yapıldığını belirtir. Temel baskı simgeleri: R (Yüksek Baskı), I (Çukur Baskı), P (Düz Baskı).<br>Örnek olarak: Taş Baskı (Litografi) Düz Baskı grubuna (Planography) girer ve simgesi <b>P</b>'dir. Eğer şıklarda Taş Baskı/Litografi simgesi olarak R verilmişse bu yanlıştır, çünkü R <b>Yüksek Baskı</b> (Relief) anlamına gelir."
+    },
+    {
+        "SoruID": 361271,
+        "Aciklama": "Teknolojinin gelişimiyle birlikte, geleneksel baskı yöntemlerinin yanı sıra bilgisayar teknolojileri de ekslibris üretiminde kullanılmaya başlanmıştır. Yeni sistem programlarda yapılan ve dijital çıktı alınan bu ekslibrisler, ayrı bir grubu oluşturur. Bu teknik, Uluslararası Ekslibris Kongresi (FISAE) standartlarına göre <b>Dijital</b> olarak adlandırılır ve simgesi genellikle <b>D</b> harfidir (Digital Print)."
+    },
+    {
+        "SoruID": 374852,
+        "Aciklama": "Kitap sahibinin ismi ile birlikte kullanılan ve sahiplik bildirmek amacıyla kitapların ön kapağının iç kısmına yapıştırılan sanatsal etiketlere <b>Ekslibris</b> denir. Ekslibrisin temel işlevi, kitabın kime ait olduğunu belirtmek ve kişisel koleksiyonu işaretlemektir. Bu nedenle boş bırakılan yere Ekslibris kelimesi gelmelidir."
+    },
+    {
+        "SoruID": 374855,
+        "Aciklama": "Ekslibris, tarih boyunca sanat ve edebiyat çevrelerinde büyük ilgi görmüştür. Ünlü Alman şair ve yazar <b>Johann Wolfgang von Goethe</b>'ye atfedilen 'Ekslibris, kitabın kartviziti ya da tapusudur' ifadesi, ekslibrisin sadece sahiplik göstergesi değil, aynı zamanda kitaba kişisel bir kimlik katan sanatsal bir nesne olduğunu vurgular. Bu ifade, ekslibrisin değerini ve işlevini en iyi özetleyen tanımlardan biridir."
+    },
+    {
+        "SoruID": 374857,
+        "Aciklama": "Ekslibris, sahibinin kimliğini yansıtan özgün bir grafik tasarım ürünüdür. Bu nedenle işlenen konular genellikle kitap sahibinin <b>kişisel özellikleri, mesleği, hobileri, ilgi alanları</b> veya felsefi simgelerdir. Ekslibris, sahibinin zevkini, eğitimini ve hayata bakış açısını küçük bir yüzeyde ifade etme aracıdır."
+    },
+    {
+        "SoruID": 374858,
+        "Aciklama": "Ekslibrisler, sahiplik belirtme işlevinin yanı sıra, özgün birer sanat eseri oldukları için koleksiyon nesnesi haline gelmiştir. Ekslibris koleksiyonculuğu, genellikle <b>kitap koleksiyonerleri</b>, <b>eks-libris koleksiyonerleri</b> ve <b>baskı resim sanatçıları</b> tarafından yapılır. Koleksiyoncular, bu küçük sanat eserlerini değiş tokuş etmek, sergilemek ve incelemek için bir araya gelirler."
+    },
+    {
+        "SoruID": 374859,
+        "Aciklama": "Ekslibris, kitabın iç kısmına yapıştırılan bir etiket iken, <b>Supra Libros</b> (Kitabın Üzerindeki) türü, ekslibrisle aynı sahiplik işlevine sahiptir ancak kitabın dış <b>deri cildinin üzerine</b> kabartma veya sıcak baskı tekniği ile işlenmiş <b>arma</b> veya semboldür. Supra Libros, özellikle tarihi ve değerli kitapların ciltlerinde kullanılmıştır."
+    },
+    {
+        "SoruID": 398897,
+        "Aciklama": "Ekslibris sanatının doruk noktasını yaşadığı dönemler, özellikle matbaanın gelişimiyle birlikte 15. ve 16. yüzyıllardır. Bu dönemde Avrupa'da ekslibrise katkı sağlayan önemli isimler arasında, Albrecht Dürer, Lucas Cranach ve Hans Holbein gibi <b>Rönesans ustaları</b> bulunmaktadır. Bu sanatçılar, ekslibrisi ağaç baskı ve gravür gibi tekniklerle yücelterek sanat tarihine geçirmişlerdir."
+    },
+    {
+        "SoruID": 398898,
+        "Aciklama": "Ekslibris geleneği Avrupa'ya özgü olsa da, kitap sahipliği veya aidiyeti farklı kültürlerde çeşitli yöntemlerle sağlanmıştır. Osmanlı Dönemi'nde kitapların aidiyetini belirtmek için genellikle el yazması eserlerin ilk veya son sayfalarına <b>kitap damgaları</b> (mühürler) basılmıştır ya da <b>vakıf kayıtları</b> düşülmüştür. Bu mühürler, kitabın kime ait olduğunu veya hangi kütüphaneye/vakfa bağışlandığını gösterirdi."
+    },
+    {
+        "SoruID": 398899,
+        "Aciklama": "Türkiye'de ekslibris sanatının tanınmasında ve kurumsallaşmasında en büyük katkıyı sağlayan kişi <b>Prof. Hasip Pektaş</b>'tır. Kendisi, ekslibris sanatının yayılması amacıyla 1997 yılında <b>Ankara Ekslibris Derneği'ni (AED)</b> kurarak Türkiye'de bu sanatın gelişiminde dönüm noktası yaratmıştır. Bu dernek, ulusal ve uluslararası sergilere ve kongrelere katılımı teşvik etmiştir."
+    }
+]

@@ -178,8 +178,9 @@ class AtaPipeline(QuestionPipeline):
         if not hasattr(self, "_aciklama_mapping"):
             mapping = {}
             import glob
-            base_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'aciklamalar')
-            for path in glob.glob(os.path.join(base_dir, '*.json')):
+            # Load from output/ATA-AÖF/json/Donem X recursively for *Cevaplar.json
+            base_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'output', 'ATA-AÖF', 'json')
+            for path in glob.glob(os.path.join(base_dir, '**', '*Cevaplar.json'), recursive=True):
                 try:
                     with open(path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
@@ -187,14 +188,14 @@ class AtaPipeline(QuestionPipeline):
                             sid = entry.get('SoruID')
                             aciklama = entry.get('Aciklama')
                             if sid and aciklama:
-                                mapping[sid] = aciklama
+                                mapping[str(sid)] = aciklama
                 except Exception:
                     pass
             self._aciklama_mapping = mapping
 
         sid = q.get("SoruID")
-        if sid and sid in self._aciklama_mapping:
-            q["Aciklama"] = self._aciklama_mapping[sid]
+        if sid and str(sid) in self._aciklama_mapping:
+            q["Aciklama"] = self._aciklama_mapping[str(sid)]
 
         try:
             donem = int(course.get("Donem", 0))
