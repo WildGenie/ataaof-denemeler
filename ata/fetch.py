@@ -3,6 +3,7 @@ import os
 import sys
 import time
 import requests
+import re
 
 # Add project root to sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -19,6 +20,16 @@ from libs.ata_lib import (
 BASE_URL = "https://vtakip.ataaof.edu.tr/atametaservice.asmx/GetDenemeSoruByUnite"
 
 class AtaPipeline(QuestionPipeline):
+    def __init__(self, no_cache=False, offline=False):
+        super().__init__(
+            raw_dir=RAW_JSON_DIR,
+            json_dir=JSON_DIR,
+            full_json_dir=FULL_JSON_DIR,
+            md_dir=MD_DIR,
+            no_cache=no_cache,
+            offline=offline
+        )
+
     def fetch_raw_questions(self, course, unit, silent=False):
         ders_id = course.get("DersId")
         if not ders_id:
@@ -39,11 +50,7 @@ class AtaPipeline(QuestionPipeline):
                             if q_id:
                                 all_questions[q_id] = q
                     else:
-                        # Empty list returned.
-                        # For Ata, this usually means no questions for this unit.
-                        # We can stop retrying immediately.
                         if not all_questions:
-                            # print(f"      Unit {unit} returned empty list. Stopping retries.")
                             break
             except Exception as e:
                 pass
@@ -53,37 +60,87 @@ class AtaPipeline(QuestionPipeline):
         return list(all_questions.values())
 
     def transform_question(self, raw_question, course, unit):
-        # Special handling for "Web Tasarımının Temelleri":
-        # Options often contain raw HTML tags (e.g. "<body>") which clean_html strips.
-        # We protect them with placeholders.
         raw_copy = raw_question.copy()
         is_web_design = "Web Tasarımının Temelleri" in course.get("CourseName", "")
 
         if is_web_design:
-            for opt in ['A', 'B', 'C', 'D', 'E']:
-                val = raw_copy.get(opt)
+            # ONLY protect tags in options. Question text and explanations should use standard formatting.
+            formatting_tags = {'b', 'strong', 'i', 'em', 'u', 'ins', 'sub', 'sup', 'hr'}
+
+            # For options, we protect almost everything as code, EXCEPT the very basics.
+            # But wait, if they have bold in options, we might want that too?
+            # Usually options are just code or just text.
+            fields_to_protect = ['A', 'B', 'C', 'D', 'E']
+            for field in fields_to_protect:
+                val = raw_copy.get(field)
                 if val and isinstance(val, str):
-                    # Replace <, >, &lt;, &gt; with placeholders
-                    # This handles both literal tags and escaped tags in raw data
-                    new_val = val.replace('<', '{{LT}}').replace('>', '{{GT}}')
-                    new_val = new_val.replace('&lt;', '{{LT}}').replace('&gt;', '{{GT}}')
-                    raw_copy[opt] = new_val
+                    # PRE-CLEAN: Normalize noisy br tags and strip trailing ones
+                    # This prevents artifacts like <br type="_moz" /> from being protected.
+                    val = re.sub(r'<br\b[^>]*>', '<br/>', val, flags=re.I)
+                    # If it has other content, strip trailing breaks.
+                    # If it's ONLY breaks, leave one so it can be protected as the answer.
+                    if re.sub(r'<br/>|\s|\n', '', val):
+                        val = re.sub(r'(<br/>|\s|\n)+$', '', val)
+
+                    # Step 1: Protect escaped entities &lt;tag&gt;
+                    def protect_entity(match):
+                        tag_content = match.group(1).strip()
+                        # Clean noisy br tags but preserve the self-closing slash if present
+                        if tag_content.lower().startswith('br'):
+                            # Remove attributes like type="_moz" but keep the slash if it was there
+                            tag_content = 'br /' if '/' in tag_content else 'br'
+
+                        name_match = re.search(r'([a-zA-Z0-9]+)', tag_content)
+                        if name_match:
+                            tag_name = name_match.group(1).lower()
+                            if tag_name not in formatting_tags:
+                                return f"TECHTAGLT{tag_content}TECHTAGGT"
+                        elif tag_content.startswith('!'):
+                            return f"TECHTAGLT{tag_content}TECHTAGGT"
+                        return match.group(0)
+
+                    val = re.sub(r'&lt;([/!?[a-zA-Z0-9].*?)&gt;', protect_entity, val, flags=re.IGNORECASE)
+                    val = re.sub(r'&LT;([/!?[a-zA-Z0-9].*?)&GT;', protect_entity, val, flags=re.IGNORECASE)
+
+                    # Step 2: Protect literal tags <tag>
+                    def protect_literal(match):
+                        tag_content = match.group(1).strip()
+                        # Clean noisy br tags
+                        if tag_content.lower().startswith('br'):
+                            # Standardize literal artifacts to br / if noisy,
+                            # but keep original if it was just 'br'
+                            if len(tag_content) > 2: # has attributes or /
+                                tag_content = 'br /'
+                            else:
+                                tag_content = 'br'
+
+                        name_match = re.search(r'([a-zA-Z0-9]+)', tag_content)
+                        if name_match:
+                            tag_name = name_match.group(1).lower()
+                            if tag_name not in formatting_tags:
+                                return f"TECHTAGLT{tag_content}TECHTAGGT"
+                        elif tag_content.startswith('!'):
+                            return f"TECHTAGLT{tag_content}TECHTAGGT"
+                        return match.group(0)
+
+                    val = re.sub(r'<([/!?[a-zA-Z0-9][^>]*)>', protect_literal, val)
+                    raw_copy[field] = val
 
         # Use base transformation first (cleans HTML)
         q = super().transform_question(raw_copy, course, unit)
 
         # Restore placeholders for Web Design course
         if is_web_design:
-            for opt in ['A', 'B', 'C', 'D', 'E']:
-                val = q.get(opt)
+            fields_to_protect = ['A', 'B', 'C', 'D', 'E']
+            for field in fields_to_protect:
+                val = q.get(field)
                 if val and isinstance(val, str):
-                    q[opt] = val.replace('{{LT}}', '&lt;').replace('{{GT}}', '&gt;')
+                    q[field] = val.replace('TECHTAGLT', '&lt;').replace('TECHTAGGT', '&gt;')
 
-        # Load external explanations lazily (cache in instance)
+        # Load external explanations lazily
         if not hasattr(self, "_aciklama_mapping"):
             mapping = {}
             import glob
-            # Path to data/aciklamalar relative to this file
             base_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'aciklamalar')
             for path in glob.glob(os.path.join(base_dir, '*.json')):
                 try:
@@ -98,56 +155,38 @@ class AtaPipeline(QuestionPipeline):
                     pass
             self._aciklama_mapping = mapping
 
-        # Merge external Aciklama if available
         sid = q.get("SoruID")
         if sid and sid in self._aciklama_mapping:
             q["Aciklama"] = self._aciklama_mapping[sid]
 
-        # Inject metadata from course/args
-        # Ensure Donem is an integer
         try:
             donem = int(course.get("Donem", 0))
         except (ValueError, TypeError):
             donem = 0
 
-        # Somestre is 1 (Fall) or 2 (Spring)
-        # Donem 1, 3, 5, 7 -> Fall (1)
-        # Donem 2, 4, 6, 8 -> Spring (2)
         somestre = (donem - 1) % 2 + 1 if donem > 0 else 0
-
         q["Somestre"] = somestre
         q["Donem"] = donem
         q["DersAd"] = course.get("CourseName")
         q["Unite"] = unit
 
-        # Ensure other fields are present/consistent if needed
         if "DersId" not in q and "DersId" in course:
              q["DersId"] = course["DersId"]
 
         return q
 
-    # get_filename_prefix uses default implementation (DersiVeren or ATA-AÖF)
-
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
-
-def process_course_wrapper(pipeline, course, args):
-    """Wrapper function for parallel course processing"""
-    try:
-        pipeline.process_course(course, target_unit=args.unit)
-        return True, course.get('CourseName', 'Unknown')
-    except Exception as e:
-        return False, f"{course.get('CourseName', 'Unknown')}: {str(e)}"
 
 def main():
     import argparse
 
     parser = argparse.ArgumentParser(description="ATA AÖF Soru Getirici")
-    parser.add_argument("--course", help="Filter by course name (partial match)")
-    parser.add_argument("--unit", type=int, help="Fetch specific unit only")
-    parser.add_argument("--parallel", type=int, default=1, metavar="N",
-                       help="Number of parallel workers (default: 1, sequential)")
-    parser.add_argument("--no-cache", action="store_true", help="Force fetch from API and merge with cache")
+    parser.add_argument("--course", help="Process only specific course (name match)")
+    parser.add_argument("--unit", type=int, help="Process only specific unit index (1-20)")
+    parser.add_argument("--parallel", type=int, default=1, help="Number of courses to process in parallel")
+    parser.add_argument("--no-cache", action="store_true", help="Ignore existing cache and re-fetch from API")
+    parser.add_argument("--offline", action="store_true", help="Regenerate all files from existing Raw downloads without API calls")
     args = parser.parse_args()
 
     if not os.path.exists(DERSLER_FILE):
@@ -157,7 +196,6 @@ def main():
     with open(DERSLER_FILE, 'r', encoding='utf-8') as f:
         courses = json.load(f)
 
-    # Filter courses
     filtered_courses = []
     for course in courses:
         if args.course:
@@ -169,54 +207,35 @@ def main():
 
     tqdm.write(f"Found {len(courses)} courses, processing {len(filtered_courses)} courses.")
 
-    pipeline = AtaPipeline(RAW_JSON_DIR, JSON_DIR, FULL_JSON_DIR, MD_DIR, no_cache=args.no_cache)
-
     if args.parallel > 1:
-        # Parallel processing
-        tqdm.write(f"Using {args.parallel} parallel workers...")
-
-        # Create a queue of available slots (1 to N) for progress bars
-        # Slot 0 is reserved for the main progress bar
         import queue
         slot_queue = queue.Queue()
         for i in range(1, args.parallel + 1):
             slot_queue.put(i)
 
-        def process_course_with_slots(pipeline, course, args):
-            # Get a slot
+        def process_course_worker(course_obj):
             slot = slot_queue.get()
             try:
-                pipeline.process_course(course, target_unit=args.unit, tqdm_position=slot)
-                return True, course.get('CourseName', 'Unknown')
+                pipeline = AtaPipeline(no_cache=args.no_cache, offline=args.offline)
+                pipeline.process_course(course_obj, target_unit=args.unit, tqdm_position=slot)
+                return True, course_obj.get('CourseName', 'Unknown')
             except Exception as e:
-                return False, f"{course.get('CourseName', 'Unknown')}: {str(e)}"
+                return False, f"{course_obj.get('CourseName', 'Unknown')}: {str(e)}"
             finally:
-                # Return slot
                 slot_queue.put(slot)
 
         with ThreadPoolExecutor(max_workers=args.parallel) as executor:
-            # Submit all tasks
-            futures = {
-                executor.submit(process_course_with_slots, pipeline, course, args): course
-                for course in filtered_courses
-            }
+            futures = [executor.submit(process_course_worker, c) for c in filtered_courses]
 
-            # Process results as they complete with progress bar
-            # Position 0 is for the main bar
-            with tqdm(total=len(filtered_courses), desc="Total Progress", unit="course", position=0, leave=True) as pbar:
+            with tqdm(total=len(filtered_courses), desc="Total Progress", position=0) as pbar:
                 for future in as_completed(futures):
-                    success, result = future.result()
-                    if success:
-                        # pbar.set_postfix_str(f"✓ {result}", refresh=False)
-                        pass
-                    else:
-                        pbar.set_postfix_str(f"✗ {result}", refresh=False)
+                    success, name = future.result()
                     pbar.update(1)
     else:
-        # Sequential processing
+        pipeline = AtaPipeline(no_cache=args.no_cache, offline=args.offline)
         with tqdm(total=len(filtered_courses), desc="Processing courses", unit="course") as pbar:
             for course in filtered_courses:
-                pbar.set_postfix_str(f"Processing {course.get('CourseName', 'Unknown')}", refresh=True)
+                pbar.set_postfix_str(f"{course.get('CourseName', 'Unknown')[:20]}", refresh=True)
                 pipeline.process_course(course, target_unit=args.unit)
                 pbar.update(1)
 

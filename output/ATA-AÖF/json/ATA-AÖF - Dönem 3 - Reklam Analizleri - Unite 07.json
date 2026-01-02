@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 111541,
-        "SoruMetni": "I. Siyasal<br/>​II. Ekonomik<br/>III. Kültürel<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri küreselleşmenin boyutlarındandır?</strong>",
+        "SoruMetni": "I. Siyasal<br/>II. Ekonomik<br/>III. Kültürel<br/><strong>Yukarıdakilerden hangisi ya da hangileri küreselleşmenin boyutlarındandır?</strong>",
         "A": "Yalnız I",
         "B": "Yanlız II",
         "C": "I ve II",

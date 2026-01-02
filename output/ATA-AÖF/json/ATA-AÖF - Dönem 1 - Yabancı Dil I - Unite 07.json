@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 142714,
-        "SoruMetni": "I was .......... bicycle at this time yesterday.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi</strong> <br/><strong>getirilmelidir?</strong>",
+        "SoruMetni": "I was .......... bicycle at this time yesterday.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi</strong><br/><strong>getirilmelidir?</strong>",
         "A": "listening",
         "B": "riding",
         "C": "liking",

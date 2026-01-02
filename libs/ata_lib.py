@@ -4,7 +4,7 @@ from libs.shared import clean_html, questions_to_markdown
 # Directories
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DERSLER_FILE = os.path.join(BASE_DIR, "ata", "dersler.json")
-OUTPUT_DIR = os.path.join(BASE_DIR, "output", "ata")
+OUTPUT_DIR = os.path.join(BASE_DIR, "output", "ATA-AÖF")
 JSON_DIR = os.path.join(OUTPUT_DIR, "json")
 RAW_JSON_DIR = os.path.join(OUTPUT_DIR, "raw")
 FULL_JSON_DIR = os.path.join(OUTPUT_DIR, "full")

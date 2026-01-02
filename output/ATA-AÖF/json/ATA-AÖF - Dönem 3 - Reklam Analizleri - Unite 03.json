@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 108033,
-        "SoruMetni": "...................................., bir tasarımda metin ögelerinin nereye, nasıl, ne şekilde yerleştirileceğinin kurallarını ortaya koyar.<br/>​<strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
+        "SoruMetni": "...................................., bir tasarımda metin ögelerinin nereye, nasıl, ne şekilde yerleştirileceğinin kurallarını ortaya koyar.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Ölçü",
         "B": "Tipografi",
         "C": "Biçim",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 111047,
-        "SoruMetni": "I. Uzunluk<br/>​II. Darlık<br/>​III. Derinlik<br/>IV. Genişlik<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutları arasında <u>yer almaz</u>?</strong>",
+        "SoruMetni": "I. Uzunluk<br/>II. Darlık<br/>III. Derinlik<br/>IV. Genişlik<br/><strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutları arasında <u>yer almaz</u>?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız III",
         "C": "Yalnız IV",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 111211,
-        "SoruMetni": "I. İzleyicinin psikolojik durumu<br/>​II. Tasarımın bütünselliği<br/>​III. İzleyicinin demografik özellikleri<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri görsel tasarıma ilişkin anlamın değişiklik göstermesine etki eden etmenlerdendir?</strong>",
+        "SoruMetni": "I. İzleyicinin psikolojik durumu<br/>II. Tasarımın bütünselliği<br/>III. İzleyicinin demografik özellikleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri görsel tasarıma ilişkin anlamın değişiklik göstermesine etki eden etmenlerdendir?</strong>",
         "A": "Yalnız II",
         "B": "I ve III",
         "C": "II ve III",

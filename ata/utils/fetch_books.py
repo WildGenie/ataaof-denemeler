@@ -21,7 +21,7 @@ def fetch_booklet(course):
 
     url = BASE_URL.format(ders_id=ders_id)
     safe_course_name = "".join([c for c in course_name if c.isalnum() or c in (' ', '-', '_')]).strip()
-    filename = f"{donem} - {safe_course_name} - 2024-2025 Bütünleme Sınavı Soruları - ATA-AÖF.pdf"
+    filename = f"{donem} - {safe_course_name} - 2025-2026 Ara Sınav (Vize) Soruları - ATA-AÖF.pdf"
     filepath = os.path.join(PDF_DIR, filename)
 
     if os.path.exists(filepath):

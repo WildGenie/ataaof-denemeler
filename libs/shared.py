@@ -22,11 +22,17 @@ def clean_html(text):
         # Fallback: Just return unescaped text without stripping tags
         return text.strip()
 
-    # Decode entities first
-    text = html.unescape(text)
+    # Normalize line endings and standardized types of BR tags
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
+
+    # Standardize noisy br tags (like <br type="_moz">)
+    text = re.sub(r'<br\b[^>]*>', '<br/>', text, flags=re.I)
 
     # Pre-process newlines to <br> to preserve them
     text = text.replace('\n', '<br/>')
+
+    # Collapse multiple consecutive line breaks early on
+    text = re.sub(r'(<br/>\s*)+', '<br/>', text)
 
     # Fix specific encoding artifacts found in Anadolu content
     # \x1e and \x1f appear to be corrupted 'i' characters
@@ -34,6 +40,9 @@ def clean_html(text):
 
     # Replace non-breaking spaces with normal spaces
     text = text.replace('\xa0', ' ')
+
+    # Remove invisible zero-width characters (U+200B, U+200C, U+200D, U+FEFF)
+    text = re.sub(r'[\u200b\u200c\u200d\ufeff]', '', text)
 
     soup = BeautifulSoup(text, 'html.parser')
 
@@ -53,7 +62,7 @@ def clean_html(text):
         tag.unwrap()
 
     # 4. Strip attributes from strict tags (preserving formatting)
-    strict_tags = ['strong', 'b', 'i', 'em', 'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'ul', 'li', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre', 'sup', 'sub', 'br', 'ins']
+    strict_tags = ['strong', 'b', 'i', 'em', 'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'ul', 'li', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre', 'sup', 'sub', 'ins']
     for tag_name in strict_tags:
         for tag in soup.find_all(tag_name):
             tag.attrs = {}
@@ -101,10 +110,11 @@ def clean_html(text):
     cleaned_text = re.sub(r'\n+', '\n', cleaned_text)
     cleaned_text = re.sub(r'(<br\b[^>]*>\s*)+', '<br/>', cleaned_text, flags=re.IGNORECASE)
 
-    # Remove leading/trailing line breaks (avoid stripping < and > from tags)
-    # Use negative lookahead to ensure we don't match < followed by a tag name
-    cleaned_text = re.sub(r'^(\s|\n|<br\b[^>]*>)+(?!<[a-z])', '', cleaned_text, flags=re.IGNORECASE)
-    cleaned_text = re.sub(r'(?<![a-z/])(\s|\n|<br\b[^>]*>)+$', '', cleaned_text, flags=re.IGNORECASE)
+    # Remove leading/trailing line breaks and whitespace
+    # Only if there's other content to preserve. If it's JUST <br/> and whitespace, leave it.
+    if re.sub(r'<br\b[^>]*>|&lt;br\s*/?&gt;|\s|\n', '', cleaned_text, flags=re.I):
+        cleaned_text = re.sub(r'^(<br\b[^>]*>|\s|\n)+', '', cleaned_text, flags=re.IGNORECASE)
+        cleaned_text = re.sub(r'(<br\b[^>]*>|\s|\n)+$', '', cleaned_text, flags=re.IGNORECASE)
 
     return cleaned_text.strip()
 
@@ -140,12 +150,19 @@ def safe_html_to_markdown(text):
     text = re.sub(r'\s*<br\b[^>]*>\s*', '\n', text, flags=re.IGNORECASE)
     text = re.sub(r'</br>', '', text, flags=re.IGNORECASE)
 
+    # Protect &lt; and &gt; from markdownify's unescaping
+    text = text.replace('&lt;', '[[LT]]').replace('&gt;', '[[GT]]')
+    text = text.replace('&LT;', '[[LT]]').replace('&GT;', '[[GT]]')
+
     if HAS_MARKDOWNIFY:
         converter = HTMLPreservingConverter(autolinks=False)
     else:
         converter = HTMLPreservingConverter()
 
     converted = converter.convert(text).strip()
+
+    # Restore protected entities
+    converted = converted.replace('[[LT]]', '&lt;').replace('[[GT]]', '&gt;')
 
     # Escape dots after numbers at the start of a line to prevent markdown list parsing
     converted = re.sub(r'^(\d+)\.', r'\1\.', converted, flags=re.MULTILINE)
@@ -199,13 +216,6 @@ def questions_to_markdown(questions):
             correct_answer = q.get('DogruCevap') or q.get('correctAnswer') # Fallback if specific convention used
 
             # Sometimes correct answer is index?
-            if 'correctIndex' in q and q['correctIndex'] is not None:
-                # Assuming options list matches A,B,C... order
-                # but here we iterate options A,B,C..
-                # This logic is tricky if data formats mix.
-                # Let's stick to DogruCevap matching 'A','B' etc.
-                pass
-
             if correct_answer and str(correct_answer).strip().upper() == opt:
                 is_correct = True
 
@@ -220,8 +230,8 @@ def questions_to_markdown(questions):
                 opt_text_raw = safe_html_to_markdown(opt_content)
                 # Replace newlines with space in options
                 opt_text_formatted = opt_text_raw.replace('\n', ' ')
-                # Aggressively remove any remaining <br> tags
-                opt_text_formatted = re.sub(r'<br\b[^>]*>|&lt;br\s*/?&gt;', ' ', opt_text_formatted, flags=re.IGNORECASE)
+                # Aggressively remove any remaining literal <br> tags (already handled by clean_html usually)
+                opt_text_formatted = re.sub(r'<br\b[^>]*>', ' ', opt_text_formatted, flags=re.IGNORECASE)
                 # Collapse multiple spaces
                 opt_text_formatted = re.sub(r'\s+', ' ', opt_text_formatted).strip()
             else:

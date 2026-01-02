@@ -6,12 +6,13 @@ from libs.shared import clean_html, questions_to_markdown
 from tqdm import tqdm
 
 class QuestionPipeline(ABC):
-    def __init__(self, raw_dir, json_dir, full_json_dir, md_dir, no_cache=False):
+    def __init__(self, raw_dir, json_dir, full_json_dir, md_dir, no_cache=False, offline=False):
         self.raw_dir = raw_dir
         self.json_dir = json_dir
         self.full_json_dir = full_json_dir
         self.md_dir = md_dir
         self.no_cache = no_cache
+        self.offline = offline
         self.setup_directories()
 
     def setup_directories(self):
@@ -71,7 +72,7 @@ class QuestionPipeline(ABC):
         if target_unit:
             units_to_process = [target_unit]
         else:
-            units_to_process = range(1, 9)
+            units_to_process = range(1, 21)
 
         iterator = units_to_process
         pbar = None
@@ -114,6 +115,8 @@ class QuestionPipeline(ABC):
 
     def process_unit(self, course, unit, silent=False):
         # 1. Get Raw
+        # In offline mode, skip even checking cache existence if we want it to be strict,
+        # but usually get_or_fetch_raw handles it.
         raw_questions = self.get_or_fetch_raw(course, unit, silent=silent)
         if not raw_questions:
             return []
@@ -150,6 +153,14 @@ class QuestionPipeline(ABC):
                     cached_data = json.load(f) or []
             except Exception as e:
                 tqdm.write(f"    Unit {unit}: Error loading cache {path}: {e}. Will re-fetch.")
+
+        if self.offline:
+            if not silent:
+                if cached_data:
+                    tqdm.write(f"    Unit {unit}: Offline mode. Loaded {len(cached_data)} raw questions from cache.")
+                else:
+                    tqdm.write(f"    Unit {unit}: Offline mode. No cached questions found.")
+            return cached_data
 
         # If cache exists and we are NOT ignoring it, return it
         if not self.no_cache and cached_data:

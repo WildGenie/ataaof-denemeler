@@ -1,17 +1,17 @@
 # Tasarımda Kurgu ve Analiz (Dönem 8) - Tüm Sorular
 
 ## Unite 1
-1. **Aşağıdakilerden hangisi ambalaj tasarımıdır?**
+1. <strong>Aşağıdakilerden hangisi ambalaj tasarımıdır?</strong>
     - A-) Önlük
     - **Cevap B-) Kitap kapağı tasarımı**
     - C-) Ketçap kutusu üzerine yapıştırılmış kâğıt
     - D-) Soda şişesi üzerindeki açıklayıcı kâğıt
     - E-) Krem kutusu üzerindeki açıklayıcı bilgiler
 
-    > **Açıklama:** **Not:** Sağlanan sorunun cevap anahtarında (B) seçeneği doğru olarak işaretlenmiştir ancak bu, ders materyaliyle çelişmektedir. Ders materyaline göre, kitap kapağı tasarımı 'Yayın Tasarımı' başlığı altında incelenir. 'Paketleme Tasarımı' ise ürünleri koruyan ve saran kutu, şişe, kavanoz gibi tasarımları içerir. Diğer şıklar (C, D, E) ise ürünün ambalajı üzerine yapıştırılan 'etiket tasarımını' ifade eder. Dolayısıyla, verilen seçenekler arasında 'ambalaj tasarımına' uygun bir örnek bulunmamaktadır.
+    > **Açıklama:** <strong>Not:</strong> Sağlanan sorunun cevap anahtarında (B) seçeneği doğru olarak işaretlenmiştir ancak bu, ders materyaliyle çelişmektedir. Ders materyaline göre, kitap kapağı tasarımı 'Yayın Tasarımı' başlığı altında incelenir. 'Paketleme Tasarımı' ise ürünleri koruyan ve saran kutu, şişe, kavanoz gibi tasarımları içerir. Diğer şıklar (C, D, E) ise ürünün ambalajı üzerine yapıştırılan 'etiket tasarımını' ifade eder. Dolayısıyla, verilen seçenekler arasında 'ambalaj tasarımına' uygun bir örnek bulunmamaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi promosyon ürünleri arasında yer almaz?
+1. Aşağıdakilerden hangisi promosyon ürünleri arasında <u>yer almaz?</u>
     - A-) T-shirt
     - B-) Bloknot
     - C-) Anahtarlık
@@ -21,7 +21,7 @@
     > **Açıklama:** Kurumsal kimlik tasarımı kapsamında antetli kağıt, kartvizit, bülten gibi basılı işler ayrı bir kategoride ele alınır. Promosyon ürünleri ise T-shirt, bloknot, anahtarlık ve plaket gibi daha çeşitli materyalleri kapsar. Bu nedenle antetli kağıt, promosyon ürünleri arasında yer almaz.
 
     <hr />
-1. Aşağıdaki eşleştirmelerden hangisi reklam grafiği kapsamında yer almaz?
+1. Aşağıdaki eşleştirmelerden hangisi reklam grafiği kapsamında <u>yer almaz?</u>
     - **Cevap A-) Üretici reklam-sosyal medya**
     - B-) Dijital reklam-web tasarımı
     - C-) Basılı reklamlar-poster tasarımı
@@ -31,7 +31,7 @@
     > **Açıklama:** Üretici reklamı, ürün veya hizmeti üreten markanın kendi tanıtımını yapmasıdır. Bu reklam türü, sosyal medya da dahil olmak üzere birçok farklı kanalda yer alabilir ancak doğrudan 'üretici reklam-sosyal medya' şeklinde bir kategori eşleştirmesi metinde yapılmamıştır. Diğer seçenekler ise metinde belirtilen reklam türleri ve mecraları ile doğru bir şekilde eşleşmektedir.
 
     <hr />
-1. **Aşağıdakilerden hangisi bilgilendirme tasarımları (infografik) arasında yer almaz?**
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımları (infografik) arasında <u>yer almaz</u>?</strong>
     - A-) Restoran menüsü
     - B-) Harita
     - **Cevap C-) Anahtarlık**
@@ -41,7 +41,7 @@
     > **Açıklama:** Bilgi tasarımı (infografik), broşür, kılavuz, harita, restoran menüsü ve yönlendirme levhaları gibi tasarımları kapsar. Anahtarlık ise kurumsal kimlik tasarımı başlığı altında bir promosyon ürünü olarak listelenmiştir.
 
     <hr />
-1. Aşağıdakilerden hangisi grafik tasarıma ve tipografiye etki eden tasarım anlayışları arasında yer almaz?
+1. Aşağıdakilerden hangisi grafik tasarıma ve tipografiye etki eden tasarım anlayışları arasında <u>yer almaz?</u>
     - **Cevap A-) İdealizm**
     - B-) Fütürizm
     - C-) Bauhaus
@@ -61,7 +61,7 @@
     > **Açıklama:** Ders materyali, ambalaj (ürünü koruyan kap) ve etiket (ambalaj üzerine yapıştırılan tasarım) arasında bir ayrım yapmaktadır. Reçel kavanozu ambalajdır, ancak üzerine yapıştırılan tasarım bir etiket tasarımıdır. Diğer seçenekler ise doğrudan ambalajın kendisini ifade etmektedir.
 
     <hr />
-1. Aşağıdaki eşleştirmelerden hangisi basılı ve sayısal grafik tasarım kapsamında kullanılamaz?
+1. Aşağıdaki eşleştirmelerden hangisi basılı ve sayısal grafik tasarım kapsamında <u>kullanılamaz</u>?
     - A-) Hareket tasarımı - dijital
     - B-) Kurumsal kimlik tasarımı-basılı ve dijital
     - **Cevap C-) Ambalaj tasarımı-dijital**
@@ -81,7 +81,7 @@
     > **Açıklama:** Yayın tasarımı, kitlelere bilgi aktarmak amacıyla hazırlanan kitap, dergi, katalog gibi çok sayfalı tasarımları ifade eder.
 
     <hr />
-1. Aşağıdakilerden hangisi baskı aşamalarının dikkate alınarak hazırlanması gereken konular arasında yer almaz?
+1. Aşağıdakilerden hangisi baskı aşamalarının dikkate alınarak hazırlanması gereken konular arasında <u>yer almaz</u>?
     - A-) İmgelerin CMYK renk ayarları
     - B-) Tasarım hazırlığında baskı alanının kullanımı
     - **Cevap C-) Kullanıcı arayüz tasarımı**
@@ -91,7 +91,7 @@
     > **Açıklama:** Kullanıcı arayüz tasarımı, sadece sayısal ortamda sunulan bir grafik tasarım uygulamasıdır. Diğer seçeneklerin tümü (CMYK renk ayarları, baskı alanı, taşma payları, tipografi rengi) basılı medya ürünlerinin baskı öncesi hazırlık sürecinde dikkate alınması gereken konulardır.
 
     <hr />
-1. **Büyük markaların renk seçimlerinde en fazla tercih ettikleri renk aşağıdakilerden hangisidir?**
+1. <strong>Büyük markaların renk seçimlerinde en fazla tercih ettikleri renk aşağıdakilerden hangisidir?</strong>
     - A-) Kırmızı
     - **Cevap B-) Mavi**
     - C-) Siyah
@@ -101,7 +101,7 @@
     > **Açıklama:** Metinde verilen istatistiklere göre, en büyük markaların renk seçimi tercihleri şöyledir: Mavi %33, Kırmızı %29, Siyah/Gri/Gümüş %28 ve Sarı/Altın %13. Bu sıralamaya göre en fazla tercih edilen renk Mavi'dir.
 
     <hr />
-1. **En büyük markaların tercih ettiği renklerin sıralamasıyla ilgili aşağıdaki önermelerden hangisi doğrudur?**
+1. <strong>En büyük markaların tercih ettiği renklerin sıralamasıyla ilgili aşağıdaki önermelerden hangisi doğrudur?</strong>
     - **Cevap A-) Mavi, en çok tercih edilen renktir.**
     - B-) Kırmızı renge oranla, siyah, gri ve gümüş daha çok tercih edilmiştir.
     - C-) Sarı, kırmızıya oranla daha çok tercih edilmiştir.
@@ -111,7 +111,7 @@
     > **Açıklama:** Metindeki istatistiklere göre, büyük markaların renk tercihleri arasında Mavi (%33) ilk sırada yer almaktadır. Diğer seçenekler bu istatistiklerle çelişmektedir; örneğin kırmızı (%29), siyah/gri/gümüşten (%28) daha çok tercih edilmiştir.
 
     <hr />
-1. **Problemin tanımlama aşamasından basılmış ve çoğaltılmış kâğıt üzerindeki ürüne kadarki süreç aşağıdakilerden hangisinde doğru olarak verilmiştir?**
+1. <strong>Problemin tanımlama aşamasından basılmış ve çoğaltılmış kâğıt üzerindeki ürüne kadarki süreç aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
     - A-) Araştırma, durum tespiti ve kararların verilmesi - Ön taslaklar - Orijinal hazırlanması- Baskı ve çoğaltım aşamaları - Sunum taslakları
     - B-) Araştırma, durum tespiti ve kararların verilmesi - Sunum taslakları - Ön taslaklar - Orijinal hazırlanması- Baskı ve çoğaltım aşamaları
     - C-) Sunum taslakları - Araştırma, durum tespiti ve kararların verilmesi - Ön taslaklar - Baskı ve çoğaltım aşamaları - Orijinal hazırlanması
@@ -121,7 +121,7 @@
     > **Açıklama:** Metne göre, bir tasarımın basılı ürüne dönüşme süreci şu adımlardan oluşur: Araştırma, durum tespiti ve kararların verilmesi; Ön taslaklar; Sunum taslakları; Orijinal hazırlanması; Baskı ve çoğaltım aşamaları.
 
     <hr />
-1. **Bir kuruluşun felsefesini görsel dile çevirerek kendisini ifade etme biçimi aşağıdakilerden hangisidir?**
+1. <strong>Bir kuruluşun felsefesini görsel dile çevirerek kendisini ifade etme biçimi aşağıdakilerden hangisidir?</strong>
     - A-) Paketleme Tasarımı
     - **Cevap B-) Kurumsal Kimlik Tasarımı**
     - C-) Bilgi Tasarımı
@@ -131,7 +131,7 @@
     > **Açıklama:** Kurumsal kimlik tasarımı, bir kuruluşun felsefesini görsel dile çevirerek kendisini ifade etme biçimi olarak tanımlanır. Bu tanım, markanın temel değerlerini ve kimliğini yansıtan görsel sistemin oluşturulmasını kapsar.
 
     <hr />
-1. **Aşağıdakilerden hangisi bilgilendirme grafiği tasarımıdır?**
+1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiği tasarımıdır?</strong>
     - A-) Dosya tasarımı
     - B-) T-shirt
     - **Cevap C-) Menü**
@@ -152,7 +152,7 @@
     > **Açıklama:** Günümüz tasarımlarında, geleneksel yönler varlığını sürdürse de çağın gerekliliği olan teknolojik donanım ve yazılım destekli tasarım ön plana çıkmış ve teknoloji odaklı ilerlemeler kaydedilmiştir.
 
     <hr />
-1. **Grafik tasarımın çağdaş yaklaşımı neye odaklanmıştır?**
+1. <strong>Grafik tasarımın çağdaş yaklaşımı neye odaklanmıştır?</strong>
     - A-) Estetik
     - **Cevap B-) İşlevsellik ve kullanılabilirlik**
     - C-) Geleneksel tasarım anlayışları
@@ -162,7 +162,7 @@
     > **Açıklama:** Çağdaş grafik tasarım, sadece estetik kaygılara değil, aynı zamanda işlevsellik ve kullanılabilirlik gibi faktörlere de odaklanır. Bu yaklaşım, tasarımın hem göze hitap etmesini hem de pratik bir amaca hizmet etmesini sağlar.
 
     <hr />
-1. **Grafik tasarımın dijital dünyada geldiği nokta aşağıdakilerden hangisiyle ifade edilir?**
+1. <strong>Grafik tasarımın dijital dünyada geldiği nokta aşağıdakilerden hangisiyle ifade edilir?</strong>
     - A-) Siyah-beyaz tasarımlar
     - B-) Çift boyutlu ve statik
     - C-) Geleneksel ve estetik
@@ -182,7 +182,7 @@
     > **Açıklama:** Bilgisayar teknolojisi ve dijital teknolojinin hızlı evrimi, tasarımcıları sürekli olarak yeni beceriler öğrenmeye ve geliştirmeye teşvik eder. Bu durum, tasarımcıların hızla değişen dijital dünyaya ayak uydurmalarını sağlar.
 
     <hr />
-1. **Mobil uygulama tasarımında hangi faktör beklentiler arasında değerlendirilmelidir?**
+1. <strong>Mobil uygulama tasarımında hangi faktör beklentiler arasında değerlendirilmelidir?</strong>
     - **Cevap A-) Performans**
     - B-) Tasarımcının yetenekleri
     - C-) Reklam geliri
@@ -222,7 +222,7 @@
     > **Açıklama:** Adobe InDesign, Adobe Systems tarafından geliştirilmiş bir masaüstü yayıncılık ve sayfa düzenleme yazılımıdır. Profesyonel belgeler, kataloglar, broşürler, dergiler ve kitaplar gibi basılı veya dijital yayınların tasarlanması için kullanılır.
 
     <hr />
-1. **CorelDRAW programında aşağıdaki araçlardan hangisi kullanılarak çeşitli görseller oluşturulabilir?**
+1. <strong>CorelDRAW programında aşağıdaki araçlardan hangisi kullanılarak çeşitli görseller oluşturulabilir?</strong>
     - A-) Renk seçim araçları
     - B-) Ses efekti araçları
     - C-) Fotoğraf düzenleme araçları
@@ -242,7 +242,7 @@
     > **Açıklama:** Sketch programı, macOS işletim sistemine özel olarak geliştirilen vektör tabanlı bir grafik tasarım programıdır. Özellikle kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımcıları için popüler bir araçtır.
 
     <hr />
-1. **Grafik tasarımcılar için gelişen dijital ortamın avantajları aşağıdakilerden hangisidir?**
+1. <strong>Grafik tasarımcılar için gelişen dijital ortamın avantajları aşağıdakilerden hangisidir?</strong>
     - A-) Dergi sayfası oluşturma
     - **Cevap B-) Hızlı, verimli ve efektif tasarımlar**
     - C-) Sadece geleneksel yöntemlere bağlı kalma
@@ -252,7 +252,7 @@
     > **Açıklama:** Gelişen dijital ortam ve bilgisayar teknolojisi sayesinde grafik tasarımcılar, gelişmiş yazılım ve uygulamalar aracılığıyla daha hızlı, verimli ve efektif tasarımlar oluşturabilirler.
 
     <hr />
-1. **Aşağıdakilerden hangisi web tasarımcılarının kullanıcı memnuniyetini artırması ile ilgili doğrudur?**
+1. <strong>Aşağıdakilerden hangisi web tasarımcılarının kullanıcı memnuniyetini artırması ile ilgili doğrudur?</strong>
     - A-) Renk seçenekleri
     - B-) Geleneksel unsurların dijitalde kullanımı
     - C-) Teknolojik donanımın önemi
@@ -262,7 +262,7 @@
     > **Açıklama:** Profesyonel web tasarımcıları, estetik ve fonksiyonu bir araya getirerek kullanıcıların memnuniyetini ve etkileşimini en üst düzeye çıkarmayı amaçlar. Bu, hem göze hoş gelen hem de kullanılabilir bir web sitesi yaratmayı içerir.
 
     <hr />
-1. **Adobe Photoshop ve İllüstratör programı hangi işletim sistemleri için geliştirilmiştir?**
+1. <strong>Adobe Photoshop ve İllüstratör programı hangi işletim sistemleri için geliştirilmiştir?</strong>
     - A-) MacOS ve Android
     - **Cevap B-) MacOS ve Windows**
     - C-) Linux ve Ubuntu
@@ -272,7 +272,7 @@
     > **Açıklama:** Adobe Photoshop, Adobe firmasının MacOS ve Windows bilgisayarlar ile tabletler için ürettiği piksel tabanlı bir programdır. Benzer şekilde, Adobe Illustrator da MacOS ve Windows bilgisayarlar ve tabletler için geliştirilmiş vektör tabanlı bir programdır.
 
     <hr />
-1. **Affinity Designer'ın renk opsiyonları hangi alanlarda çalışmaya olanak tanır?**
+1. <strong>Affinity Designer'ın renk opsiyonları hangi alanlarda çalışmaya olanak tanır?</strong>
     - **Cevap A-) Hem web hem de basılı medya**
     - B-) Yalnızca web tasarımı
     - C-) Yalnızca basılı medya
@@ -283,7 +283,7 @@
 
     <hr />
 ## Unite 3
-1. **Grafik tasarımın ögeleri ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?**
+1. <strong>Grafik tasarımın ögeleri ile ilgili aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Grafik tasarım ögeleri bir araya gelerek kompozisyon oluşturmaktadırlar.
     - **Cevap B-) Grafik tasarım ögeleri, tasarım ilkelerinden bağımsız düşünülmelidir.**
     - C-) Çizgi, ton, renk, doku, biçim, ölçü ve yön gibi unsurlar bir grafik tasarımın temel ögelerini oluşturmaktadır.
@@ -293,17 +293,17 @@
     > **Açıklama:** Grafik tasarım öğeleri (çizgi, renk, doku vb.) ve ilkeleri (denge, bütünlük, vurgu vb.) birbirinden bağımsız değildir. Aksine, tasarım ilkeleri, tasarım öğelerinin bir araya getirilmesi ve düzenlenmesi için rehberlik eden genel kurallardır.
 
     <hr />
-1. **Aşağıdakilerden hangisi grafik tasarımın görsel ögelerinden biri değildir?**
+1. <strong>Aşağıdakilerden hangisi grafik tasarımın görsel ögelerinden biri <u>değildir</u>?</strong>
     - A-) Şekil
     - B-) Boyut
     - **Cevap C-) Konum**
     - D-) Renk
     - E-) Doku
 
-    > **Açıklama:** Metne göre tasarım öğeleri dörde ayrılır. **Görsel öğeler;** şekil, boyut, renk ve dokudan oluşur. **Konum** ise yön, boşluk ve ağırlık ile birlikte **ilişkisel öğeler** kategorisinde yer alır.
+    > **Açıklama:** Metne göre tasarım öğeleri dörde ayrılır. <strong>Görsel öğeler;</strong> şekil, boyut, renk ve dokudan oluşur. <strong>Konum</strong> ise yön, boşluk ve ağırlık ile birlikte <strong>ilişkisel öğeler</strong> kategorisinde yer alır.
 
     <hr />
-1. **Aşağıdakilerden hangisi grafik tasarım ögelerinden biri değildir?**
+1. <strong>Aşağıdakilerden hangisi grafik tasarım ögelerinden biri <u>değildir</u>?</strong>
     - A-) Nokta
     - B-) Hacim
     - C-) Doku
@@ -313,7 +313,7 @@
     > **Açıklama:** Nokta , hacim , doku ve boşluk metinde belirtilen grafik tasarım öğeleridir. Hiza ise bir tasarım ilkesi olup doğrudan bir öğe olarak sayılmamıştır.
 
     <hr />
-1. **Çizgilerin kullanım şekline göre grafik tasarımdaki etkisi hakkında aşağıdakilerden hangisi söylenemez?**
+1. <strong>Çizgilerin kullanım şekline göre grafik tasarımdaki etkisi hakkında aşağıdakilerden hangisi <u>söylenemez</u>?</strong>
     - A-) Yatay çizgiler sakin durağan ve hareketsiz bir etki uyandırmaktadır.
     - B-) Kırık çizgiler hareketli ve güçlü bir etki uyandırmaktadır.
     - **Cevap C-) Eğik çizgiler çoğunlukla huzur ve sakinlik hissi uyandırmaktadır.**
@@ -333,7 +333,7 @@
     > **Açıklama:** Hacim, düzlemlerin farklı açılarda bir araya gelerek oluşturduğu boşlukları ifade eder. Bu kavram, tasarımın iki boyutlu bir yüzeyde derinlik algısı kazanmasını sağlar.
 
     <hr />
-1. Aşağıdakilerden hangisi grafik tasarım ilkelerinden biri değildir?
+1. Aşağıdakilerden hangisi grafik tasarım ilkelerinden biri <u>değildir</u>?
     - A-) Denge
     - B-) Orantı ve Görsel Hiyerarşi
     - C-) Bütünlük
@@ -363,7 +363,7 @@
     > **Açıklama:** Simetrik denge, görsel ağırlıkların eşit bir şekilde dağıldığı bir denge sistemidir. Bu denge türünde, tasarımın merkezinde bir eksen bulunur ve her iki taraf birbirine benzer öğelerle dengelenir.
 
     <hr />
-1. **''İnsan gözünün algılayabildiği ışığın farklı dalga boylarının her birine verilen addır.'' şeklinde tanımlanan kavram aşağıdakilerden hangisidir?**
+1. <strong>''İnsan gözünün algılayabildiği ışığın farklı dalga boylarının her birine verilen addır.'' şeklinde tanımlanan kavram aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Renk**
     - B-) Işık
     - C-) Koram
@@ -373,7 +373,7 @@
     > **Açıklama:** Işık bir nesneye çarptığında, nesne bazı dalga boylarını emer ve bazılarını yansıtır. Göz tarafından algılanan bu yansıyan dalga boyları renk olarak görülür. Bu süreç, renkli bir görüntünün oluşmasına neden olur.
 
     <hr />
-1. **Aşağıdakilerden hangisi grafik tasarımdaki ögeler arasında geçişin düzenli ve doğal bir şekilde gerçekleşmesini sağlayan tasarım ilkelerinden biridir?**
+1. <strong>Aşağıdakilerden hangisi grafik tasarımdaki ögeler arasında geçişin düzenli ve doğal bir şekilde gerçekleşmesini sağlayan tasarım ilkelerinden biridir?</strong>
     - A-) Bütünlük
     - B-) Vurgu
     - C-) Görsel Hiyerarşi
@@ -383,27 +383,27 @@
     > **Açıklama:** Görsel devamlılık, grafik tasarımdaki öğeler arasında geçişin düzenli ve doğal bir şekilde gerçekleşmesini sağlayarak, izleyicinin tasarımı bir hikâye gibi okumasına olanak tanır. Bu ilke, öğeler arasında akıcı bir deneyim yaratmayı amaçlar.
 
     <hr />
-1. **Aşağıdakilerden hangisi kavramsal ögeler arasında yer almaz?**
+1. <strong>Aşağıdakilerden hangisi kavramsal ögeler arasında <u>yer almaz</u>?</strong>
     - A-) Nokta
     - **Cevap B-) Şekil**
     - C-) Çizgi
     - D-) Düzlem
     - E-) Hacim
 
-    > **Açıklama:** Metinde grafik tasarım öğeleri dört ana başlıkta incelenmiştir. **Kavramsal öğeler**; nokta, çizgi, düzlem ve hacimden oluşur. **Şekil** ise boyut, renk ve doku ile birlikte **görsel öğeler** kategorisinde yer almaktadır.
+    > **Açıklama:** Metinde grafik tasarım öğeleri dört ana başlıkta incelenmiştir. <strong>Kavramsal öğeler</strong>; nokta, çizgi, düzlem ve hacimden oluşur. <strong>Şekil</strong> ise boyut, renk ve doku ile birlikte <strong>görsel öğeler</strong> kategorisinde yer almaktadır.
 
     <hr />
-1. **Aşağıdakilerden hangisi renk kullanımlarının amaçlarından biri değildir?**
+1. <strong>Aşağıdakilerden hangisi renk kullanımlarının amaçlarından biri <u>değildir</u>?</strong>
     - A-) Renkler izleyicinin dikkatini çekmektedir.
     - **Cevap B-) Hedef kitleye dokunsal bir deneyim sunmaktadır.**
     - C-) Farklı ögelerin birleştirilmesi ile uyumlu ve bütünsel bir görüntü oluşmasını sağlamaktadır.
     - D-) Renkler tasarımın içeriğini ve iletilmek istenen mesajı güçlendirmektedir.
     - E-) Markayla özdeşleştirilerek görsel bir dil oluşturmaktadır.
 
-    > **Açıklama:** Renkler, tasarıma duygu ve anlam katarak izleyicinin dikkatini çeker, mesajı güçlendirir ve marka kimliği oluşturur. Dokunsal bir deneyim sunma ise renklerin değil, **doku** öğesinin bir özelliğidir.
+    > **Açıklama:** Renkler, tasarıma duygu ve anlam katarak izleyicinin dikkatini çeker, mesajı güçlendirir ve marka kimliği oluşturur. Dokunsal bir deneyim sunma ise renklerin değil, <strong>doku</strong> öğesinin bir özelliğidir.
 
     <hr />
-1. **Aşağıdakilerden hangisi ilişkisel ögelerin özelliklerinden biridir?**
+1. <strong>Aşağıdakilerden hangisi ilişkisel ögelerin özelliklerinden biridir?</strong>
     - **Cevap A-) Tasarımın bütünlüğünü ve etkisini belirlemektedir.**
     - B-) Temsil, anlam ve işlevine yönelik önemli unsurları içermektedir.
     - C-) Nesnelerin boyutlarını temsil etmektedir.
@@ -414,7 +414,7 @@
 
     <hr />
 ## Unite 4
-1. **Fotoğrafın tasarım unsuru olarak reklam endüstrisindeki rolü aşağıdakilerden hangisidir?**
+1. <strong>Fotoğrafın tasarım unsuru olarak reklam endüstrisindeki rolü aşağıdakilerden hangisidir?</strong>
     - A-) Sadece sanatsal bir ifade biçimi olarak vardır.
     - B-) Yalnızca belgeleme amacını servis eder.
     - **Cevap C-) Ürün veya hizmetin pazarlanmasına stratejik bir unsur olarak yer alır.**
@@ -424,7 +424,7 @@
     > **Açıklama:** Fotoğraf, reklam endüstrisinde ürün veya hizmetin etkili bir şekilde pazarlanmasına yönelik stratejik bir unsur olarak kullanılır. Gerçek görseller, hedef kitleyle daha güçlü bir bağ kurulmasına katkıda bulunur.
 
     <hr />
-1. **Realizm sanat akımının gerilemesine aşağıdakilerden hangisi neden olmuştur?**
+1. <strong>Realizm sanat akımının gerilemesine aşağıdakilerden hangisi neden olmuştur?</strong>
     - A-) Resim sanatının popülerliği
     - B-) Fotoğrafın sadece belgeleme amacını servis etmesi
     - **Cevap C-) Fotoğrafın resim sanatı dünyasındaki etkisi**
@@ -434,7 +434,7 @@
     > **Açıklama:** Metinde, henüz işlevi ve geleceği belirsiz olan fotoğrafın, zaman içinde resim sanatı üzerinde keskin ve ani bir etki yaratarak Realizm sanat akımının gerilemesine ve yeni sanat akımlarının ortaya çıkmasına yol açtığı belirtilmektedir.
 
     <hr />
-1. **Fotoğrafın evrimi hangi alanlarda önemli bir etki yaratmıştır?**
+1. <strong>Fotoğrafın evrimi hangi alanlarda önemli bir etki yaratmıştır?</strong>
     - A-) Yalnızca sanatsal ifade biçimlerinde
     - B-) Yalnızca ekonomik alanlarda
     - C-) Sadece bilimsel çalışmalarda
@@ -444,7 +444,7 @@
     > **Açıklama:** Fotoğrafın evrimi, sadece sanatsal bir ifade biçiminden öte, toplumsal, kültürel ve ekonomik alanlarda da önemli bir etkiye sahiptir. Özellikle endüstri devrimi sonrası reklam ve pazarlama aracı olarak kullanılması, bu etkiyi derinleştirmiştir.
 
     <hr />
-1. **Boşluk kesim payı, fotoğrafın hangi bölgesini ifade eder?**
+1. <strong>Boşluk kesim payı, fotoğrafın hangi bölgesini ifade eder?</strong>
     - A-) Kesilecek alan
     - **Cevap B-) Taşma payı**
     - C-) Orta nokta
@@ -454,7 +454,7 @@
     > **Açıklama:** Tasarımda boşluk kesim payı, fotoğrafın kesileceği yerden önceki alanı ifade eder. Bu pay, baskı sonrası kesim işlemi sırasında fotoğrafın kompozisyonunun bozulmasını önlemek için bırakılan ve genellikle taşma payı olarak adlandırılan alandır.
 
     <hr />
-1. RGB renk sistemi neden genellikle baskıda kullanılmaz?
+1. RGB renk sistemi neden genellikle baskıda <u>kullanılmaz</u>?
     - A-) Daha iyi renk doğruluğu sağlar
     - **Cevap B-) Ekranlarda kullanılmak üzere tasarlanmıştır**
     - C-) Daha düşük çözünürlük sunar
@@ -474,7 +474,7 @@
     > **Açıklama:** Fotoğrafların Photoshop programında açılmasının ardından, özelliklerini incelemek amacıyla 'Image Size' (İmaj Boyutu) menüsüne başvurmak önemlidir. Bu menü, fotoğrafın çözünürlüğü ve boyutları hakkında bilgi verir.
 
     <hr />
-1. **Fotoğrafların çözünürlüğünü 300 dpi'ye yükseltirken, teknik açıdan boyutlarının bozulmaması için aşağıdakilerden hangi ya da hangilerine edilmelidir?**
+1. <strong>Fotoğrafların çözünürlüğünü 300 dpi'ye yükseltirken, teknik açıdan boyutlarının bozulmaması için aşağıdakilerden hangi ya da hangilerine edilmelidir?</strong>
     - **Cevap A-) Çözünürlük ve boyutlar arasında denge**
     - B-) Yüksek çözünürlük ve düşük boyutlar
     - C-) Düşük çözünürlük ve yüksek boyutlar
@@ -484,7 +484,7 @@
     > **Açıklama:** Fotoğrafların çözünürlüğünü, özellikle baskı kalitesi için, 300 dpi'ye yükseltirken, teknik açıdan boyutlarının bozulmamasına özen gösterilmelidir. Yüksek çözünürlük, baskı kalitesini artırabilirken, boyutların dikkatlice yönetilmemesi görüntü kalitesinde kayıplara yol açabilir.
 
     <hr />
-1. **İllüstrasyonun temel bileşenleri olarak belirtilen üç ana öge aşağıdakilerden hangisidir?**
+1. <strong>İllüstrasyonun temel bileşenleri olarak belirtilen üç ana öge aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Görsel iletişim, problem çözme, toplumsal yorumlama**
     - B-) Renk, ses, boyut
     - C-) Yazı tipi, arka plan, kompozisyon
@@ -494,7 +494,7 @@
     > **Açıklama:** Metinde, illüstrasyonun üç ana öğeden oluştuğu belirtilir: görsel iletişim yolu, problem çözme eylemi ve toplumsal yorumlama veya aktarım eylemi.
 
     <hr />
-1. **Aşağıdakilerden hangisi özel alan illüstrasyonlarının kullanım amaçları arasında yer alır?**
+1. <strong>Aşağıdakilerden hangisi özel alan illüstrasyonlarının kullanım amaçları arasında yer alır?</strong>
     - A-) Moda trendlerini göstermek
     - B-) Biyolojik süreçleri resmetmek
     - C-) Reklam afişleri oluşturmak
@@ -504,7 +504,7 @@
     > **Açıklama:** Özel alan illüstrasyonları, çizim yeteneğinin yanı sıra teknik alan bilgisi de gerektirir ve temel amacı, fotoğraf ve video çekimlerinin mümkün olmadığı durumları görselleştirmektir.
 
     <hr />
-1. **Mimari illüstrasyonlar hangi amaç için kullanılır?**
+1. <strong>Mimari illüstrasyonlar hangi amaç için kullanılır?</strong>
     - A-) Üretim sürecinde malzeme farklılıklarını göstermek
     - B-) Anket ve analiz sonuçlarını sunmak
     - C-) Harita çizimlerini gerçekleştirmek
@@ -514,7 +514,7 @@
     > **Açıklama:** Mimari illüstrasyonlar, proje aşamasındaki yapıların bitmiş ve yaşanır hale getirilmiş görünümlerini yansıtarak projedeki detayları görselleştirir. Bu illüstrasyonlar, mimari projelerin tasarım ve tanıtım sürecinde etkili bir iletişim aracı olarak kullanılır.
 
     <hr />
-1. **Foto manipülasyon uygulanacak fotoğraflarda baskı öncesi dikkat edilmesi gereken önemli faktör aşağıdakilerden hangisidir?**
+1. <strong>Foto manipülasyon uygulanacak fotoğraflarda baskı öncesi dikkat edilmesi gereken önemli faktör aşağıdakilerden hangisidir?</strong>
     - A-) Renk uyumu
     - B-) Doku Uyumu
     - **Cevap C-) Çözünürlük uyumu ve ışık uyumu**
@@ -524,7 +524,7 @@
     > **Açıklama:** Başarılı bir foto manipülasyon çalışması için dikkat edilmesi gereken temel faktörler; ışık uyumu, perspektif uyumu ve çözünürlük uyumudur. Özellikle farklı kaynaklardan alınan fotoğraflar birleştirilirken bu unsurların uyumu, sonucun doğallığı için kritiktir.
 
     <hr />
-1. **Fotoğrafların tasarım dosyasına entegre edilmesi sürecinde, görsellerin programa tanıtılmasını sağlamak amacıyla hangi komut kullanılır?**
+1. <strong>Fotoğrafların tasarım dosyasına entegre edilmesi sürecinde, görsellerin programa tanıtılmasını sağlamak amacıyla hangi komut kullanılır?</strong>
     - A-) Import Image Komutu
     - B-) Integrate File Komutu
     - **Cevap C-) Link Komutu**
@@ -534,7 +534,7 @@
     > **Açıklama:** Tasarım dosyasında kullanılacak görsellerin programa tanıtılması, yani bağlanması, 'link' komutunun kullanılması ile gerçekleşir. Bu yöntem, görsellerin orijinal dosyalarıyla bağlantılı kalmasını ve güncellendiğinde tasarım dosyasının da güncellenmesini sağlar.
 
     <hr />
-1. **Fantastik illüstrasyonlar aşağıdaki alanlardan hangisinde sıkça kullanılır?**
+1. <strong>Fantastik illüstrasyonlar aşağıdaki alanlardan hangisinde sıkça kullanılır?</strong>
     - A-) Mimari projelerin tanıtımında
     - B-) Bilgilendirme illüstrasyonlarında
     - C-) Moda tasarımında
@@ -545,7 +545,7 @@
 
     <hr />
 ## Unite 5
-1. **Aşağıdakilerden hangisi tipografik kompozisyon oluştururken dikkate alınması gereken faktörlerden biri değildir?**
+1. <strong>Aşağıdakilerden hangisi tipografik kompozisyon oluştururken dikkate alınması gereken faktörlerden biri <u>değildir</u>?</strong>
     - A-) Yazı karakteri
     - **Cevap B-) Enstalasyon**
     - C-) Font
@@ -555,7 +555,7 @@
     > **Açıklama:** Tipografik kompozisyon oluştururken dikkate alınması gereken faktörler arasında yazı karakteri, font, boyut ve hiyerarşi gibi unsurlar bulunur. Enstalasyon ise tipografinin kullanılabileceği bir sanat/tasarım alanı olup, kompozisyonun temel bir faktörü değildir.
 
     <hr />
-1. Yazı karakteri seçimi, boyut, hiyerarşi, renk kullanımı ve metinleri düzenleme aşamalarını içeren bir tasarım sürecidir.<br />**Buna göre yukarıdaki tanım aşağıdakilerden hangisi ile eşleşmektedir?**
+1. Yazı karakteri seçimi, boyut, hiyerarşi, renk kullanımı ve metinleri düzenleme aşamalarını içeren bir tasarım sürecidir.<br /><strong>Buna göre yukarıdaki tanım aşağıdakilerden hangisi ile eşleşmektedir?</strong>
     - A-) Ekspresif tipografi
     - B-) Metin
     - **Cevap C-) Tipografik kompozisyon**
@@ -565,7 +565,7 @@
     > **Açıklama:** Tipografik kompozisyon, yazı karakteri seçimi, boyut, hiyerarşi, renk kullanımı ve metinleri düzenleme aşamalarını içeren bir tasarım süreci olarak tanımlanır. Temel amacı, yazıyı okunabilir, estetik ve görsel olarak çekici kılmaktır.
 
     <hr />
-1. Aşağıdakilerden hangisi yatay hizalama stilleri arasında yer almaz?
+1. Aşağıdakilerden hangisi yatay hizalama stilleri arasında <u>yer almaz</u>?
     - A-) Sola hizalama
     - B-) Ortalı hizalama
     - C-) Sağa hizalama
@@ -585,7 +585,7 @@
     > **Açıklama:** Deneysel tipografide tasarımcılar, tipografik öğelere avangard ve sanatsal bir öz kazandırmak için çarpıtma, katmanlama, manipülasyon ve soyutlama gibi çeşitli teknikler kullanır. Izgara sistemi, hizalama ve ölçeklendirme ise daha çok geleneksel tipografik kompozisyon araçlarıdır.
 
     <hr />
-1. Metin, resimler ve kullanıcı arayüzü öğeleri de dahil olmak üzere içeriğin düzenlenmesine yardımcı olmak için bir sayfanın dikey veya yatay görünmez çizgilerle bölümlere ayrılmasıdır. **Buna göre, yukarıda verilen tanım aşağıdakilerden hangisi ile eşleşmektedir?**
+1. Metin, resimler ve kullanıcı arayüzü öğeleri de dahil olmak üzere içeriğin düzenlenmesine yardımcı olmak için bir sayfanın dikey veya yatay görünmez çizgilerle bölümlere ayrılmasıdır. <strong>Buna göre, yukarıda verilen tanım aşağıdakilerden hangisi ile eşleşmektedir?</strong>
     - A-) Üç boyutlu tipografi
     - B-) Kontrast
     - C-) Yeni medya
@@ -605,7 +605,7 @@
     > **Açıklama:** Herb Lubalin, tipografiyi sadece harfleri düzenleyen bir mekanizma olarak değil, aynı zamanda duygusal bir tepki uyandıran yaratıcı bir ifade şekli olarak kullanmıştır. Tasarımlarında kelimeleri birer resim gibi kullanarak yeni bir tipografik stilin öncüsü olmuştur.
 
     <hr />
-1. **Aşağıdakilerden hangisi üç boyutlu tipografi modellemelerine olanak tanıyan tasarım yazılımlarından biri değildir?**
+1. <strong>Aşağıdakilerden hangisi üç boyutlu tipografi modellemelerine olanak tanıyan tasarım yazılımlarından biri <u>değildir</u>?</strong>
     - A-) Photoshop
     - B-) Illustrator
     - **Cevap C-) Microsoft Excel**
@@ -615,7 +615,7 @@
     > **Açıklama:** Metinde Cinema 4D, Autodesk Maya, Autodesk 3ds Max gibi 3D modelleme uygulamaları veya Adobe Photoshop, Illustrator gibi grafik tasarım yazılımlarıyla üç boyutlu tipografi tasarımları yapılabileceği belirtilmiştir. Microsoft Excel bir hesap tablosu programıdır ve bu amaçla kullanılmaz.
 
     <hr />
-1. **Aşağıdakilerden hangisi kinetik tipografinin faydalanıldığı ve kullanıldığı alanlardan biri değildir?**
+1. <strong>Aşağıdakilerden hangisi kinetik tipografinin faydalanıldığı ve kullanıldığı alanlardan biri <u>değildir</u>?</strong>
     - A-) Web tasarımları
     - B-) Reklam sektörü
     - C-) Bilgilendirme tasarımı
@@ -635,7 +635,7 @@
     > **Açıklama:** Yeni medya; bilgisayarlaşma ve internete dayalı, sosyal ağlar, yazılım, donanım gibi tüm dijital teknolojileri kullanarak erişim, yayınlama, yayma ve sergileme olanağı sunan dijital ve sanal bir iletişim formu olarak tanımlanır.
 
     <hr />
-1. **Metinleri, harfleri, kelimeleri okunabilir, açık, estetik ve görsel olarak çekici bir şekilde düzenleme ve tasarlama sanatı aşağıdakilerden hangisidir?**
+1. <strong>Metinleri, harfleri, kelimeleri okunabilir, açık, estetik ve görsel olarak çekici bir şekilde düzenleme ve tasarlama sanatı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Tipografi**
     - B-) Yazı karakteri
     - C-) Hiyerarşi
@@ -645,7 +645,7 @@
     > **Açıklama:** Tipografi; metinleri, harfleri ve kelimeleri okunabilir, açık, estetik ve görsel olarak çekici bir şekilde düzenleme ve tasarlama sanatıdır. Bir fikre ya da mesaja görsel bir biçim verme şeklidir.
 
     <hr />
-1. **Aşağıdakilerden hangisi yazı karakterinin standart ölçü birimidir?**
+1. <strong>Aşağıdakilerden hangisi yazı karakterinin standart ölçü birimidir?</strong>
     - A-) 3D Tipografi
     - **Cevap B-) Punto sistemi**
     - C-) Ağırlık
@@ -655,7 +655,7 @@
     > **Açıklama:** Font büyüklüğü (punto-pt) sistemi, bir yazı karakterinin standart ölçü birimidir ve yazı büyüklüğünü ölçmek için kullanılır. Web gibi dijital ortamlarda piksel (px) birimi de kullanılmaktadır.
 
     <hr />
-1. **Aşağıdakilerden hangisi tipografik kompozisyon oluştururken dikkate alınması gereken faktörlerden biridir?**
+1. <strong>Aşağıdakilerden hangisi tipografik kompozisyon oluştururken dikkate alınması gereken faktörlerden biridir?</strong>
     - A-) Yayın tasarımı
     - B-) Helvetica Bold
     - **Cevap C-) Beyaz alan**
@@ -665,7 +665,7 @@
     > **Açıklama:** Beyaz alan (negatif alan), bir kompozisyonda veya sayfa tasarımında görsel ve metinleri çevreleyen boş alanlardır. Tasarımda beyaz alan bırakmak, üslubu daha seçkin kılar ve en az basılı bir yüzey kadar etkili olabilir.
 
     <hr />
-1. Tasarım sürecinde, düzenlemelere görsel bir kılavuz sağlayarak, farklı metin parçalarının birbirine göre önem derecesini belirtmek için kullanılan mantıklı ve görsel bir yöntem mevcuttur.<br />**Bu yöntem aşağıdakilerden hangisidir?**
+1. Tasarım sürecinde, düzenlemelere görsel bir kılavuz sağlayarak, farklı metin parçalarının birbirine göre önem derecesini belirtmek için kullanılan mantıklı ve görsel bir yöntem mevcuttur.<br /><strong>Bu yöntem aşağıdakilerden hangisidir?</strong>
     - A-) Deneysel tipografi
     - B-) Enstalasyon
     - C-) Grid sistemi
@@ -675,7 +675,7 @@
     > **Açıklama:** Hiyerarşi, düzenlemelere görsel bir kılavuz sağlayarak, farklı metin parçalarının birbirine göre önem derecesini belirtmek için kullanılan mantıklı ve görsel bir yöntemdir. Kompozisyonda bu yöntemden sıklıkla faydalanılır.
 
     <hr />
-1. Bir içeriği, mesajı ya da bağlamı, enstalasyon pratiği çerçevesinde metin, harf ve kelimeleri ya da noktalama işaretlerini ve tipografi içerisinde yer alan diğer unsurları kullanarak tasarlamaktır.<br />**Buna göre, yukarıdaki tanım aşağıdakilerden hangisi ile eşleşmektedir?**
+1. Bir içeriği, mesajı ya da bağlamı, enstalasyon pratiği çerçevesinde metin, harf ve kelimeleri ya da noktalama işaretlerini ve tipografi içerisinde yer alan diğer unsurları kullanarak tasarlamaktır.<br /><strong>Buna göre, yukarıdaki tanım aşağıdakilerden hangisi ile eşleşmektedir?</strong>
     - **Cevap A-) Tipografik enstalasyon**
     - B-) Ekspresif tipografi
     - C-) Deneysel tipografi
@@ -685,7 +685,7 @@
     > **Açıklama:** Tipografik enstalasyon, bir içeriği, mesajı ya da bağlamı, enstalasyon pratiği çerçevesinde metin, harf, kelime gibi tipografik unsurları kullanarak tasarlamaktır. Bu tür çalışmalarda sanatsal ifade ve temsil öne çıkar.
 
     <hr />
-1. **Aşağıdakilerden hangisi konvansiyonel tipografiden farklı olarak kreatif sürece ve yaratıcı ifadeye öncelik verir?**
+1. <strong>Aşağıdakilerden hangisi konvansiyonel tipografiden farklı olarak kreatif sürece ve yaratıcı ifadeye öncelik verir?</strong>
     - A-) Okunurluk
     - **Cevap B-) Deneysel tipografi**
     - C-) Okuturluk
@@ -706,7 +706,7 @@
     > **Açıklama:** Renk ilişkilerini görselleştirmenin en iyi araçlarından biri renk tekerleğidir (renk çarkı). İlk olarak Sir Isaac Newton tarafından geliştirilen bu tekerlek, renkler arasındaki ilişkileri (tamamlayıcı, analog vb.) anlamayı kolaylaştırır.
 
     <hr />
-1. Aşağıdaki bilgilerden hangisi renk kavramı ile ilgili doğru verilmemiştir?
+1. Aşağıdaki bilgilerden hangisi renk kavramı ile ilgili doğru <u>verilmemiştir</u>?
     - A-) Renk, en basit tanımıyla ışığın gözün retinasına ulaşması ile ortaya çıkan bir algılamadır.
     - B-) Her renk kendi fiziksel özelliklerine göre tanımlanmalıdır.
     - C-) Gözlerimizde kırmızı, yeşil ve mavi üç tür renk reseptörü hücresi veya konisi bulunur.
@@ -716,7 +716,7 @@
     > **Açıklama:** Renk teorisi ve renk kullanımı, grafik tasarımın logo ve kurumsal kimlik gibi alanlarının yanı sıra katalog, afiş gibi her alanında etkili bir iletişim için önemli bir yer tutar. Sadece logo ve kurumsal kimlikle sınırlı değildir.
 
     <hr />
-1. **Aşağıdaki renk özelliklerinden hangisi bir rengin göreceli açıklık ya da koyuluk derecesi / yansıtma kalitesi veya parlaklığının tanımıdır?**
+1. <strong>Aşağıdaki renk özelliklerinden hangisi bir rengin göreceli açıklık ya da koyuluk derecesi / yansıtma kalitesi veya parlaklığının tanımıdır?</strong>
     - **Cevap A-) Değer**
     - B-) Doygunluk
     - C-) Ton
@@ -726,7 +726,7 @@
     > **Açıklama:** Rengin özelliklerinden biri olan değer (value) veya parlaklık (brightness), bir rengin göreceli açıklık veya koyuluk derecesini ifade eder. Bu, bir renge beyaz (ton oluşturmak için) veya siyah (gölge oluşturmak için) eklenerek değiştirilir.
 
     <hr />
-1. Aşağıdakilerden hangisi tasarımda renk uyumundan faydalanmanın avantajlarından biri değildir?
+1. Aşağıdakilerden hangisi tasarımda renk uyumundan faydalanmanın avantajlarından biri <u>değildir</u>?
     - A-) Renk gruplamalarındaki dinamik simetrinin kategorize edilmesini ve belirlenmesini sağlar.
     - B-) Renk teorisini anlamaya ve kullanmaya yönelik beceriler geliştirmeyi sağlar.
     - C-) Tasarımcı renkleri nasıl, hangi oranlarda ve hangi amaçla kullanacağını bilir.
@@ -736,7 +736,7 @@
     > **Açıklama:** Renk uyumu (armonisi), tasarımın estetik ve düzenleyici ilkeleriyle ilgilidir ve istenen etkiyi yaratmak için kullanılır. Baskı süreçlerindeki teknik başarıdan ziyade, tasarımın görsel ve duygusal etkisini hedefler.
 
     <hr />
-1. **Aşağıdakilerden hangisi renk kombinasyonuna uygulanabilecek altı temel renk ilişkisi kavramlarından biri değildir?**
+1. <strong>Aşağıdakilerden hangisi renk kombinasyonuna uygulanabilecek altı temel renk ilişkisi kavramlarından biri <u>değildir</u>?</strong>
     - A-) Bölünmüş tamamlayıcı renkler
     - B-) Monokrom renkler
     - C-) Üçlü renkler
@@ -746,7 +746,7 @@
     > **Açıklama:** Metinde altı temel renk ilişkisi (renk armonisi) sayılmıştır: Tamamlayıcı, Bölünmüş Tamamlayıcı, Çift Tamamlayıcı, Analog, Üçlü ve Monokrom renkler. Eklemeli renkler (RGB) ise bir renk sistemidir, bir armoni kuralı değildir.
 
     <hr />
-1. **Aşağıdakilerden hangileri iki tür ana / birincil renkleri tanımlar?**
+1. <strong>Aşağıdakilerden hangileri iki tür ana / birincil renkleri tanımlar?</strong>
     - A-) Toplamalı ve çarpmalı
     - **Cevap B-) Eklemeli ve çıkarmalı**
     - C-) Çıkarmalı ve bölmeli
@@ -766,7 +766,7 @@
     > **Açıklama:** RGB (kırmızı, yeşil, mavi), saf ışığın ana renkleridir ve eklemeli ana renkler olarak adlandırılır. Bu renkler birleştiğinde beyaz rengini oluştururlar.
 
     <hr />
-1. **Aşağıdakilerden hangisi tasarım aşamasında ekran rengi ve daha sonra baskı aşamasında baskı rengi olarak doğru sırayla verilmiştir?**
+1. <strong>Aşağıdakilerden hangisi tasarım aşamasında ekran rengi ve daha sonra baskı aşamasında baskı rengi olarak doğru sırayla verilmiştir?</strong>
     - A-) CMYK - RGB
     - B-) RYB- RGB
     - C-) RYB - CMYK
@@ -776,7 +776,7 @@
     > **Açıklama:** Tasarımcılar dijital ortamda ve bilgisayar ekranlarında çalışırken RGB renk modunu kullanırlar. Tasarım baskıya gönderileceği zaman ise baskı renkleri olan CMYK formatına dönüştürülür.
 
     <hr />
-1. **Aşağıdakilerden hangisi basılı sektörde kullanılan renk koduna göre baskı alınan renk referans sistemidir?**
+1. <strong>Aşağıdakilerden hangisi basılı sektörde kullanılan renk koduna göre baskı alınan renk referans sistemidir?</strong>
     - A-) Ana Renkler
     - **Cevap B-) Pantone**
     - C-) CMYK
@@ -786,7 +786,7 @@
     > **Açıklama:** Pantone, basılı sektörde kullanılan bir renk referans sistemidir. Pantone kodları kullanılarak dünyanın her yerindeki farklı makinelerde aynı rengin elde edilmesi hedeflenir, bu da renk tutarlılığı için kritik öneme sahiptir.
 
     <hr />
-1. **Aşağıdakilerden hangisi renk seçimi yaparken belirlenen taslak aşamalardan biri olamaz?**
+1. <strong>Aşağıdakilerden hangisi renk seçimi yaparken belirlenen taslak aşamalardan biri <u>olamaz</u>?</strong>
     - A-) Renk temellerini gözden geçirmek
     - B-) Tonları seçmek ve ardından bu topları çeşitlendirmek
     - **Cevap C-) Doğru baskı almak**
@@ -796,7 +796,7 @@
     > **Açıklama:** Metinde renk seçimi yaparken izlenmesi gereken adımlar; amacı belirlemek, renk temellerini gözden geçirmek, baskın ve vurgu renklerini seçmek, tonları seçmek ve çeşitlendirmek, renk sayısını sınırlamak gibi aşamaları içerir. 'Doğru baskı almak' ise bu seçim sürecinin bir adımı değil, sürecin bir sonucudur.
 
     <hr />
-1. **Rengin sıcaklığı, mevcut ışığın tonunu gösteren ölçüme veya güce karşılık gelen birim nedir?**
+1. <strong>Rengin sıcaklığı, mevcut ışığın tonunu gösteren ölçüme veya güce karşılık gelen birim nedir?</strong>
     - A-) Gram
     - B-) Amper
     - **Cevap C-) Kelvin**
@@ -806,7 +806,7 @@
     > **Açıklama:** Rengin sıcaklığı, mevcut ışığın belirli tonunu gösteren ve Kelvin derece cinsinden ifade edilen bir ölçüme veya güce karşılık gelmektedir. Bu terim genellikle sıcak ve soğuk tonlar arasındaki farkı belirtmek için de kullanılır.
 
     <hr />
-1. **Aşağıdakilerden hangisi bir rengin görünür spektrumdaki veya renk tekerleğindeki konumunu belirten ortak addır?**
+1. <strong>Aşağıdakilerden hangisi bir rengin görünür spektrumdaki veya renk tekerleğindeki konumunu belirten ortak addır?</strong>
     - **Cevap A-) Ton**
     - B-) Degrade
     - C-) Parlaklık
@@ -816,7 +816,7 @@
     > **Açıklama:** Ton (Hue), bir rengin görünür spektrumdaki veya renk tekerleğindeki konumunu belirten ortak addır. Ton, bir ışık ışınındaki rengin spesifik dalga boyuna göre belirlenir.
 
     <hr />
-1. **Tasarımcılar baskı aşamasında aşağıdaki renk sistemlerinden hangisini kullanmaktadırlar?**
+1. <strong>Tasarımcılar baskı aşamasında aşağıdaki renk sistemlerinden hangisini kullanmaktadırlar?</strong>
     - A-) RGB
     - B-) RYB
     - **Cevap C-) CMYK**
@@ -827,7 +827,7 @@
 
     <hr />
 ## Unite 7
-1. Aşağıdakilerden hangisi yönbilgide genellikle bulunan bilgi kümelerinden biri değildir?
+1. Aşağıdakilerden hangisi yönbilgide genellikle bulunan bilgi kümelerinden biri <u>değildir</u>?
     - A-) Projenin amacı
     - B-) Hedef kitle
     - C-) Teslim tarihi
@@ -847,7 +847,7 @@
     > **Açıklama:** Araştırma süreci, tasarımcıya yön sağlamak için 'genel görüş kazanma' ile başlar ve ardından birincil ve ikincil araştırma yöntemleri ile devam eder. Genel görüş kazanmak için genellikle ilk olarak araştırılan alanda daha önce yapılan işlere bakılır.
 
     <hr />
-1. **Görüşmeler soruları yanıtlayan katılımcılara göre sınıflandırıldığında aşağıdakilerden hangisi bu kategoride yer almaz?**
+1. <strong>Görüşmeler soruları yanıtlayan katılımcılara göre sınıflandırıldığında aşağıdakilerden hangisi bu kategoride <u>yer almaz</u>?</strong>
     - A-) Oluşturulmuş küme görüşmeleri
     - **Cevap B-) Sohbet tarzında görüşme**
     - C-) Doğal küme görüşmeleri
@@ -857,7 +857,7 @@
     > **Açıklama:** Görüşmeler, görüşülen katılımcılara göre; düzenlenmemiş, yanıtlayıcı, doğal küme ve oluşturulmuş küme görüşmeleri olarak dörde ayrılır. 'Sohbet tarzında görüşme' ise görüşme sorularının yapısına göre yapılan bir sınıflandırmadır.
 
     <hr />
-1. **Aşağıdakilerden hangisi birincil araştırma sürecindeki veri toplama yöntemlerinden biri değildir?**
+1. <strong>Aşağıdakilerden hangisi birincil araştırma sürecindeki veri toplama yöntemlerinden biri <u>değildir</u>?</strong>
     - A-) Gözlem
     - B-) Görüşme
     - **Cevap C-) Arşivleri tarama**
@@ -867,7 +867,7 @@
     > **Açıklama:** Birincil araştırma, verilerin ilk elden tasarımcı tarafından toplandığı süreçtir ve gözlem, görüşme, anket, lokasyon fotoğraflama gibi yöntemleri içerir. Arşivleri tarama ise başkaları tarafından toplanmış verileri içerdiği için ikincil araştırma yöntemidir.
 
     <hr />
-1. Hangisi anket çalışmasının sınırlılıklarından biri değildir?
+1. Hangisi anket çalışmasının sınırlılıklarından biri <u>değildir</u>?
     - **Cevap A-) İstatistiki veri haline dönüştürülmesi**
     - B-) Soruların esnek olmaması
     - C-) Katılımcının güdülenmesinin zor olması
@@ -877,7 +877,7 @@
     > **Açıklama:** Anket çalışmasının avantajları arasında farklı bölgelerden büyük gruplara hızla ulaşılabilmesi, düşük maliyetli olması ve kolayca istatistiki veriye dönüştürülebilmesi vardır. Diğer seçenekler ise anketin sınırlılıklarıdır.
 
     <hr />
-1. **Tasarımcının ilham için ilgisini çeken malzemeleri, kesilmiş parçaları, efemerayı ve numuneleri topladığı defterler aşağıdakilerden hangisidir?**
+1. <strong>Tasarımcının ilham için ilgisini çeken malzemeleri, kesilmiş parçaları, efemerayı ve numuneleri topladığı defterler aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Scrapbook**
     - B-) İlham panosu
     - C-) Fikir panosu
@@ -887,7 +887,7 @@
     > **Açıklama:** Tasarımcılar, ilgilerini çeken malzemelerin, kesilmiş parçaların, numunelerin ve diğer efemeranın (geçici, gündelik belgeler) yer aldığı defterler tutarlar; bu defterlere 'scrapbook' denir.
 
     <hr />
-1. Hangisi ilham panosunda yer alan öğelerden birisi değildir?
+1. Hangisi ilham panosunda yer alan öğelerden birisi <u>değildir</u>?
     - A-) Görsel metaforlar
     - B-) Renk paleti
     - C-) Font
@@ -897,7 +897,7 @@
     > **Açıklama:** İlham panosu (moodboard), bir projeye özel olarak hazırlanır ve o fikri destekleyen renk paletleri, fotoğraflar, illüstrasyonlar, dokular, görsel metaforlar ve fontlar gibi ilham verici öğelerden oluşur. Yönbilgi (brief), projenin başlangıcındaki talimat belgesidir ve ilham panosunun bir öğesi değildir.
 
     <hr />
-1. **Herhangi bir hiyerarşi ya da sınıflandırma olmaksızın ilişkili kavramların merkez kavramın etrafına yerleştirildiği fikir bulma tekniği hangisidir?**
+1. <strong>Herhangi bir hiyerarşi ya da sınıflandırma olmaksızın ilişkili kavramların merkez kavramın etrafına yerleştirildiği fikir bulma tekniği hangisidir?</strong>
     - A-) Semantik ağ
     - **Cevap B-) Örümcek kavram ağı**
     - C-) Altı şapka
@@ -914,10 +914,10 @@
     - D-) Siyah
     - **Cevap E-) Beyaz**
 
-    > **Açıklama:** Altı şapka tekniğinde her renk farklı bir düşünme biçimini temsil eder. **Beyaz şapka**, her türlü bilginin yansız bir şekilde ortaya konduğu, duruma ilişkin verilerin dökümünün yapıldığı aşamadır.
+    > **Açıklama:** Altı şapka tekniğinde her renk farklı bir düşünme biçimini temsil eder. <strong>Beyaz şapka</strong>, her türlü bilginin yansız bir şekilde ortaya konduğu, duruma ilişkin verilerin dökümünün yapıldığı aşamadır.
 
     <hr />
-1. **Tasarımcının bir problemin çözümüne belirli bir zaman ayırdıktan sonra, o problemi rafa kaldırdığı ve dikkatini bir süre için bilinçli olarak başka bir konuya yönelttiği teknik aşağıdakilerden hangisidir?**
+1. <strong>Tasarımcının bir problemin çözümüne belirli bir zaman ayırdıktan sonra, o problemi rafa kaldırdığı ve dikkatini bir süre için bilinçli olarak başka bir konuya yönelttiği teknik aşağıdakilerden hangisidir?</strong>
     - A-) 6-3-5 Metodu
     - B-) Galeri Tekniği
     - C-) Zihin Haritası
@@ -927,7 +927,7 @@
     > **Açıklama:** Kuluçka tekniğinde tasarımcı, bir problemin çözümüne belirli bir zaman ayırdıktan sonra, o problemi rafa kaldırır ve dikkatini bilinçli olarak başka bir konuya yöneltir. Bu sırada beyin, problem üzerinde bilinçdışı olarak çalışmaya devam eder.
 
     <hr />
-1. Görüşmeler, soruların yapısına göre sınıflandırıldığında, aşağıdakilerden hangisi bu sınıflandırmada yer almaz?
+1. Görüşmeler, soruların yapısına göre sınıflandırıldığında, aşağıdakilerden hangisi bu sınıflandırmada <u>yer almaz</u>?
     - A-) Sohbet tarzında görüşme
     - **Cevap B-) Yanıtlayıcı görüşmeleri**
     - C-) Görüşme Kılavuzu Yaklaşımı
@@ -937,7 +937,7 @@
     > **Açıklama:** Görüşmelerin soruların yapısına göre sınıflandırılması; 'sohbet tarzında görüşme', 'görüşme kılavuzu yaklaşımı', 'standartlaştırılmış açık uçlu görüşme' ve 'kapalı, kesin yanıtların olduğu görüşme' şeklinde dörde ayrılır. 'Yanıtlayıcı görüşmeleri' ise görüşülen katılımcılara göre yapılan sınıflandırmada yer alır.
 
     <hr />
-1. **Zihin haritaları aşağıdakilerden hangisi için kullanılmaz?**
+1. <strong>Zihin haritaları aşağıdakilerden hangisi için <u>kullanılmaz</u>?</strong>
     - A-) Hafıza gelişimi
     - B-) Karar alma süreci
     - C-) Düşünceleri düzenleme
@@ -947,7 +947,7 @@
     > **Açıklama:** Zihin haritaları; hafıza gelişimi, karar alma süreci, düşünceleri düzenleme ve etkili not tutma gibi pek çok işlev için kullanılabilmektedir. Esin kaynakları toplama ise daha çok 'scrapbook' veya 'ilham panosu' gibi tekniklerle yapılır.
 
     <hr />
-1. **En fazla ve derinlemesine bilgi edinilmesini sağlayan görüşme biçimi hangisidir?**
+1. <strong>En fazla ve derinlemesine bilgi edinilmesini sağlayan görüşme biçimi hangisidir?</strong>
     - A-) Görüntülü konuşma programları ile
     - **Cevap B-) Yüz yüze**
     - C-) E-posta ile
@@ -958,7 +958,7 @@
 
     <hr />
 ## Unite 8
-1. Aşağıdakilerden hangisi grafik tasarım süreçleri ile ilgili adımlardan birisi değildir?
+1. Aşağıdakilerden hangisi grafik tasarım süreçleri ile ilgili adımlardan birisi <u>değildir</u>?
     - A-) Bilgi Toplama
     - **Cevap B-) Kaynaştırma**
     - C-) Araştırma
@@ -968,7 +968,7 @@
     > **Açıklama:** Metinde bir grafik tasarım iş akışı yedi adımda özetlenmiştir: Brief Alma, Hedefler, Bilgi Toplama, Yöntem Belirleme, Yaratıcı Fikir, Müşteri Yön Bilgi (Geri Bildirim) ve Nihai Karar (Çözüm). Kaynaştırma bu adımlar arasında yer almaz.
 
     <hr />
-1. Aşağıdakilerden hangisi bir iletişim türünde yer alan adımlardan birisi değildir?
+1. Aşağıdakilerden hangisi bir iletişim türünde yer alan adımlardan birisi <u>değildir</u>?
     - A-) Mesaj
     - B-) Gönderici
     - C-) İletişim Aracı
@@ -978,7 +978,7 @@
     > **Açıklama:** İletişimin temel türlerinde gönderici, mesaj, iletişim aracı ve alıcı bulunur. Alıcıdan göndericiye dönen tepki ise geri bildirimdir. 'Yankı' bu temel iletişim modelinin bir parçası değildir.
 
     <hr />
-1. **Aşağıdaki ifadelerden hangisi başarılı bir grafik tasarım iş akışı için** **yanlıştır****?**
+1. <strong>Aşağıdaki ifadelerden hangisi başarılı bir grafik tasarım iş akışı için </strong><strong><u>yanlıştır</u></strong><strong>?</strong>
     - A-) Açık İletişim
     - B-) Ayrıntılı Brifing
     - C-) Araştırma ve İlham
@@ -988,7 +988,7 @@
     > **Açıklama:** Başarılı bir grafik tasarım iş akışı için açık iletişim kurmak, ayrıntılı bir brief almak, araştırma ve ilham toplamak, taslaklar çizmek gibi adımlar önerilir. Esinlenme yaratıcılık için önemliyken, kopyalama özgün bir tasarım sürecine aykırıdır.
 
     <hr />
-1. **Aşağıdakilerden hangisi “brief” için doğru bir tanımdır?**
+1. <strong>Aşağıdakilerden hangisi “brief” için doğru bir tanımdır?</strong>
     - **Cevap A-) Yön bilgi, kısa ve özet tanım**
     - B-) Problem çıkarma ve üretkenlik
     - C-) Tematik kazanım ve hiyerarşi
@@ -998,7 +998,7 @@
     > **Açıklama:** Brief, İngilizcede 'yön bilgi, kısa ama değerli bilgi' anlamına gelir. Tasarım sürecinde ise, bir iş için müşterinin isteklerini, projenin hedeflerini ve beklentilerini içeren kısa ve öz belgeyi ifade eder.
 
     <hr />
-1. **Aşağıdaki grafik tasarım süreçlerinde araştırma ile ilgili verilen bilgilerden hangisi yanlıştır?**
+1. <strong>Aşağıdaki grafik tasarım süreçlerinde araştırma ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Konuyu derinlemesine incelemeyi, hedef kitleyi anlamayı ve farklı tarz ve eğilimleri keşfetmeyi içerir.
     - B-) Bir tasarımcı, projenin amacını, hedeflerini ve gereksinimlerini derinlemesine anlamak için araştırma yapar.
     - C-) Detaylı istatistik rakamlar, hedef kitlenin boyutları ve yapısı gibi konuları içerir.
@@ -1008,7 +1008,7 @@
     > **Açıklama:** Araştırma süreci, konuyla ilgili derinlemesine inceleme yapmayı, hedef kitleyi ve pazar eğilimlerini anlamayı içerir. Bu süreçte toplanan veriler nicel (istatistikler) veya nitel (yaşam tarzı, tüketim alışkanlıkları) olabilir. Modüler yapı ise araştırma değil, sayfa düzeni (layout) ile ilgili bir kavramdır.
 
     <hr />
-1. **Aşağıdakilerden hangisi grafik tasarım süreçlerinden fikir bulma ve eskiz aşaması ile ilgili süreci kapsar?**
+1. <strong>Aşağıdakilerden hangisi grafik tasarım süreçlerinden fikir bulma ve eskiz aşaması ile ilgili süreci kapsar?</strong>
     - A-) Bilgi toplama / araştırma
     - B-) Problem durumu
     - C-) Çözüm bulma
@@ -1038,7 +1038,7 @@
     > **Açıklama:** Beyin fırtınası, fikirlerin yargılamadan özgürce üretildiği bir aşamadır. Ekip üyeleri arasındaki iş birliğini teşvik ederek ve farklı bakış açıları sunarak yaratıcılığı teşvik eder. Bu süreç, tasarımcıların yeni fikirler keşfetmesine olanak tanır.
 
     <hr />
-1. **Müşteriye yapılacak sunumlar ve geri dönüş yön bilgisi ile ilgili olarak** **aşağıdakilerden hangisi yanlıştır****?**
+1. <strong>Müşteriye yapılacak sunumlar ve geri dönüş yön bilgisi ile ilgili olarak </strong><strong>aşağıdakilerden hangisi <u>yanlıştır</u></strong><strong>?</strong>
     - **Cevap A-) Sunum yaparken tek bir fikir ile detaylı ve uzun bir anlatım müşteriyi etkileyecektir.**
     - B-) Müşteriye sunum yaparken, alternatif fikirlerinizi de belirtin, bu müşteri için farklı seçeneklerin yolunu da açacaktır.
     - C-) Sunumu ayrıntılardan ziyade basit ve özet şeklinde anlatın
@@ -1048,7 +1048,7 @@
     > **Açıklama:** Müşteriye sunum yaparken, onu detaylı bilgilendirmek önemlidir ve sade sunumlar buna yardımcı olabilir. Sunumları ayrıntılardan ziyade basit ve özet şeklinde yapmak ve alternatif fikirleri de belirtmek önerilir. Tek bir fikirle uzun ve detaylı bir anlatım yapmak genellikle etkili bir yöntem değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi grafik tasarımda yaygın olarak kullanılan medya seçimlerinden birisi değildir?
+1. Aşağıdakilerden hangisi grafik tasarımda yaygın olarak kullanılan medya seçimlerinden birisi <u>değildir</u>?
     - A-) Basılı Medya
     - B-) Dijital Medya
     - C-) Markalaşma ve Kimlik
@@ -1058,7 +1058,7 @@
     > **Açıklama:** Tasarımda medya seçimi; basılı medya, dijital medya, ambalaj, markalaşma ve kimlik gibi kategorileri içerir. Flekso Baskı ise bir medya türü değil, bir baskı tekniğidir.
 
     <hr />
-1. **Aşağıdakilerden hangisi müşterinin ihtiyaçlarının tam olarak anlaşılması, tasarımcıların yaratıcı çözümlerini belirli iş hedefleriyle uyumlu hale getirmelerine olanak tanıyan süreçlerden biridir?**
+1. <strong>Aşağıdakilerden hangisi müşterinin ihtiyaçlarının tam olarak anlaşılması, tasarımcıların yaratıcı çözümlerini belirli iş hedefleriyle uyumlu hale getirmelerine olanak tanıyan süreçlerden biridir?</strong>
     - A-) Yaratıcı Fikir
     - B-) Çözüm Bulma
     - C-) Mizanpaj
@@ -1069,7 +1069,7 @@
 
     <hr />
 ## Unite 9
-1. Aşağıdakilerden hangisi tasarımın kontrolü süreçlerinden biri değildir?
+1. Aşağıdakilerden hangisi tasarımın kontrolü süreçlerinden biri <u>değildir</u>?
     - **Cevap A-) Baskıyla ilgili sorunu çözdü mü?**
     - B-) Beklentiyi karşılıyor mu?
     - C-) Baskı teknik veya teknikleri tasarım için uygun mu?
@@ -1079,7 +1079,7 @@
     > **Açıklama:** Tasarım sonrası ve baskı öncesi süreçte, ortaya çıkan ürünün sürdürülebilirliğini teyit etmek için; 'Beklentiyi karşılıyor mu?', 'Baskı teknikleri uygun mu?', 'Seçilen tekniklerin avantaj/dezavantajları nelerdir?' ve 'Olası baskı süreci sorunları neler olabilir?' gibi sorulara yanıt aranır. 'Baskıyla ilgili sorunu çözdü mü?' ifadesi bu listede yer almamaktadır.
 
     <hr />
-1. Aşağıdakilerden hangisi CMYK renkleri içinde yer almaz?
+1. Aşağıdakilerden hangisi CMYK renkleri içinde <u>yer almaz</u>?
     - A-) Magenta
     - **Cevap B-) Brown**
     - C-) Yellow
@@ -1089,7 +1089,7 @@
     > **Açıklama:** CMYK, baskıda kullanılan dört ana rengin kısaltmasıdır: Cyan (Mavi), Magenta (Galibarda), Yellow (Sarı) ve Key (Siyah). Brown (Kahverengi) bu ana baskı renklerinden biri değildir.
 
     <hr />
-1. **Ton geçişi olmadan yapılan renk ayrımına ne denir?**
+1. <strong>Ton geçişi olmadan yapılan renk ayrımına ne denir?</strong>
     - **Cevap A-) Tire**
     - B-) Tram
     - C-) Dia
@@ -1119,7 +1119,7 @@
     > **Açıklama:** Ofset baskı, ne çukur ne de yüksek baskı türüdür; düz baskı olarak sınıflandırılır. Bu sistem, suyun yağı itme prensibiyle çalışır.
 
     <hr />
-1. **Aşağıdakilerden hangisi dijital baskı teknolojilerinin beş başlığından biri değildir?**
+1. <strong>Aşağıdakilerden hangisi dijital baskı teknolojilerinin beş başlığından biri <u>değildir</u>?</strong>
     - A-) Elektrofotografik baskı
     - B-) Manyetografik baskıda
     - **Cevap C-) Laserjet baskı**
@@ -1129,7 +1129,7 @@
     > **Açıklama:** Metinde dijital baskı teknolojileri; Elektrofotografi, İyonografi, Manyetografi, Inkjet ve Termografi olarak beş ana başlıkta sınıflandırılmıştır. Laserjet, bu ana kategorilerden biri değildir.
 
     <hr />
-1. **UV lakların avantajları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+1. <strong>UV lakların avantajları ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Yüksek enerji gereksinimi**
     - B-) Oda sıcaklığında uygulanabilmesi
     - C-) Çevre ya da sağlığa zararlı organik yapı içermemesi
@@ -1149,7 +1149,7 @@
     > **Açıklama:** Selofan, basılı ürünleri korumak için kullanılan yapışkanlı ve şeffaf bir plastik filmdir. Metinde, selofanın çevre dostu olmayan bir malzeme olması nedeniyle yenilenebilir ve geri dönüştürülebilir alternatiflerin tercih edilmesinin önemli olduğu belirtilmiştir. Bu durum, dezavantajlı yönüdür.
 
     <hr />
-1. **Aşağıdakilerden hangisi kırım çeşidi değildir?**
+1. <strong>Aşağıdakilerden hangisi kırım çeşidi <u>değildir</u>?</strong>
     - A-) Fransız
     - B-) Akerdeon
     - C-) Rulo
@@ -1159,7 +1159,7 @@
     > **Açıklama:** Metinde bahsedilen kırım (katlama) çeşitleri arasında Fransız kırım , akordeon katlama ve bohça/rulo kırım bulunmaktadır. Amerikan cilt ise bir katlama (kırım) çeşidi değil, bir ciltleme yöntemidir.
 
     <hr />
-1. **Defter türlerinde görsel çekicilik ve fonksiyonellik avantajları nedeniyle hangi cilt tercih edilir?**
+1. <strong>Defter türlerinde görsel çekicilik ve fonksiyonellik avantajları nedeniyle hangi cilt tercih edilir?</strong>
     - A-) Tel
     - B-) İplik
     - C-) Forma
@@ -1169,7 +1169,7 @@
     > **Açıklama:** Spiral cilt, pratik bir yöntem olup kitaplardan çok defter, takvim ve bazı broşür türlerinde görsel çekicilik ve fonksiyonellik avantajları nedeniyle kullanılır.
 
     <hr />
-1. **Defter türlerinde görsel çekicilik ve fonksiyonellik avantajları nedeniyle hangi cilt tercih edilir?**
+1. <strong>Defter türlerinde görsel çekicilik ve fonksiyonellik avantajları nedeniyle hangi cilt tercih edilir?</strong>
     - A-) Tel
     - B-) İplik
     - C-) Forma
@@ -1179,7 +1179,7 @@
     > **Açıklama:** Spiral ciltleme sistemi, pratikliği, görsel çekiciliği ve fonksiyonelliği nedeniyle özellikle defter, takvim ve bazı broşür türlerinde sıkça tercih edilen bir yöntemdir.
 
     <hr />
-1. **Aşağıdakilerden hangisi tasarımın kontrolü süreçlerinden biri değildir?**
+1. <strong>Aşağıdakilerden hangisi tasarımın kontrolü süreçlerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Baskıyla ilgili sorunu çözdü mü?**
     - B-) Beklentiyi karşılıyor mu?
     - C-) Baskı teknik veya teknikleri tasarım için uygun mu?
@@ -1189,7 +1189,7 @@
     > **Açıklama:** Tasarım sonrası hazırlık aşamasında, tasarımın beklentileri karşılayıp karşılamadığı, baskı tekniklerinin uygunluğu, bu tekniklerin avantaj ve dezavantajları ve olası baskı süreci sorunları gibi sorularla tasarım kontrol edilir. 'Baskıyla ilgili sorunu çözdü mü?' ifadesi metindeki listede yer almamaktadır, bu daha çok genel tasarım amacını sorgular.
 
     <hr />
-1. **Film çıkış̧ makinesi ve bilgisayardan kalıba pozlandırma hangi ünite vasıtasıyla otomatik olarak yapılır?**
+1. <strong>Film çıkış̧ makinesi ve bilgisayardan kalıba pozlandırma hangi ünite vasıtasıyla otomatik olarak yapılır?</strong>
     - A-) Holajenür Plate
     - B-) Computer To Plate
     - **Cevap C-) Raster Image Processor**
@@ -1200,7 +1200,7 @@
 
     <hr />
 ## Unite 10
-1. **Aşağıdakilerden hangisi kültürün tanımlarından biri değildir?**
+1. <strong>Aşağıdakilerden hangisi kültürün tanımlarından biri <u>değildir</u>?</strong>
     - A-) Kültür, bir toplumun ya da bütün toplumların birikimli uygarlığıdır.
     - **Cevap B-) Kültür, bir dizi kalıtsal süreçlerin bütünüdür.**
     - C-) Kültür belli bir toplumun kendisidir.
@@ -1210,7 +1210,7 @@
     > **Açıklama:** Antropolog E.B. Tylor'ın tanımına göre kültür; bir toplumun üyesi olan insanın kazandığı bilgi, inanç, sanat, ahlak, hukuk ve gelenekleri içeren karmaşık bir bütündür. Güvenç'in aktardığı tanımlar arasında da kültürün birikimli bir uygarlık, bir toplumun kendisi veya sosyal süreçlerin bir bileşkesi olduğu belirtilmiştir. Kalıtsal (biyolojik) süreçler bu tanımların dışındadır.
 
     <hr />
-1. **Aşağıdakilerden hangisi markayı oluşturan unsurlar arasında yer almaz?**
+1. <strong>Aşağıdakilerden hangisi markayı oluşturan unsurlar arasında <u>yer almaz</u>?</strong>
     - A-) Kimlik
     - **Cevap B-) Analiz**
     - C-) Rekabet
@@ -1220,7 +1220,7 @@
     > **Açıklama:** Marka; imaj, kimlik, rekabet, güç, prestij ve reklam gibi kavramları içerir. Analiz ise markayı veya hedef kitleyi anlamak için yapılan bir eylemdir, markayı oluşturan temel unsurlardan biri değildir.
 
     <hr />
-1. **Kişinin doğumundan ölümüne değin kendi toplumunun kültür içeriğini öğrenmesi, toplumca istenen, beklenen insan olması süreci aşağıdakilerden hangisidir?**
+1. <strong>Kişinin doğumundan ölümüne değin kendi toplumunun kültür içeriğini öğrenmesi, toplumca istenen, beklenen insan olması süreci aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kültürleme**
     - B-) Kültür
     - C-) Toplum
@@ -1250,7 +1250,7 @@
     > **Açıklama:** Anıtsal imgeleme, sıradan nesnelerin veya fiziksel özelliklerin boyutunu büyüterek ve doğru kelimeleri ekleyerek bir dehşet ve saygı duygusu yaratma tekniğidir. Bu, bir şeyin olması gerekenden inanılmaz derecede büyük olması gerçeğine dayanır.
 
     <hr />
-1. Aşağıdakilerden hangisi marka değeri ile ilgili unsurlar arasında yer almaz?
+1. Aşağıdakilerden hangisi marka değeri ile ilgili unsurlar arasında <u>yer almaz</u>?
     - A-) Marka ile ilgili olumlu görüş
     - B-) Marka bağlılığı
     - C-) Marka ismi farkındalığı
@@ -1260,7 +1260,7 @@
     > **Açıklama:** Marka değeri; marka ismi farkındalığı, marka bağlılığı, algılanan kalite ve marka ile ilgili olumlu görüş gibi unsurlardan oluşur. Kültürel değerler, bir markanın iletişiminde kullanılabilecek bir araç olabilir ancak marka değerinin temel bir unsuru olarak sayılmamıştır.
 
     <hr />
-1. Aşağıdakilerden hangisi uluslararası tipografik stilin özellikleri arasında yer almaz?
+1. Aşağıdakilerden hangisi uluslararası tipografik stilin özellikleri arasında <u>yer almaz</u>?
     - A-) Serifsiz yazı
     - B-) Minimal tasarım
     - C-) Matematik ilkeleri
@@ -1270,7 +1270,7 @@
     > **Açıklama:** Uluslararası Tipografik Stil (veya İsviçre stili), ızgara sistemleri (grid), matematik ilkeleri, minimal dekorasyon ve serifsiz (tırnaksız) tipografiyi normları haline getirmiştir. Serifli yazı kullanımı bu stilin özelliklerinden değildir.
 
     <hr />
-1. **Aşağıdakilerden hangisi sözlü anlatım biçimleri arasında yer almaz?**
+1. <strong>Aşağıdakilerden hangisi sözlü anlatım biçimleri arasında <u>yer almaz</u>?</strong>
     - **Cevap A-) Roman**
     - B-) Mit
     - C-) Destan
@@ -1280,7 +1280,7 @@
     > **Açıklama:** Sözlü anlatım biçimleri, kuşaktan kuşağa aktarılan ve folklorun önemli bir parçasını oluşturan türlerdir. Metinde mitler, efsaneler, destanlar, fıkralar ve atasözleri bu biçimlere örnek olarak verilmiştir. Roman ise yazılı edebiyatın bir türüdür.
 
     <hr />
-1. **Bir hareketi ya da durumu bir dizi görsel referans ya da ipucu yoluyla betimleyen grafik unsur aşağıdakilerden hangisidir?**
+1. <strong>Bir hareketi ya da durumu bir dizi görsel referans ya da ipucu yoluyla betimleyen grafik unsur aşağıdakilerden hangisidir?</strong>
     - A-) Aplikasyon
     - B-) Sanat yapıtı
     - **Cevap C-) Piktogram**
@@ -1290,7 +1290,7 @@
     > **Açıklama:** Piktogram, bir hareketi ya da durumu bir dizi görsel referans ya da ipucu yoluyla betimleyen bir grafik unsurdur. Yalın bir grafiksel çizim ile tasarlanmalı ve evrensel olarak anlaşılabilmelidir.
 
     <hr />
-1. Aşağıdakilerden hangisi renklerin bir arada kullanıldığı grafik tasarım unsurları arasında yer almaz?
+1. Aşağıdakilerden hangisi renklerin bir arada kullanıldığı grafik tasarım unsurları arasında <u>yer almaz</u>?
     - A-) Format
     - **Cevap B-) Demonstrasyon**
     - C-) İllüstrasyon
@@ -1300,7 +1300,7 @@
     > **Açıklama:** Renkler, bir tasarım yaratmak üzere tipografi, illüstrasyon, format ve sayfa düzeni gibi unsurlarla bir arada ele alınır. Demonstrasyon (gösterim), bu unsurlardan biri değil, bir sunum veya kanıtlama eylemidir.
 
     <hr />
-1. **Ürünün hemen satın alınmasını ya da ürüne ait daha çok bilgi elde edilmesini teşvik eden reklam türü aşağıdakilerden hangisidir?**
+1. <strong>Ürünün hemen satın alınmasını ya da ürüne ait daha çok bilgi elde edilmesini teşvik eden reklam türü aşağıdakilerden hangisidir?</strong>
     - A-) Ürün yerleştirme
     - **Cevap B-) Doğrudan reklam**
     - C-) İllüstrasyon
@@ -1310,7 +1310,7 @@
     > **Açıklama:** Doğrudan reklam, ürünün hemen satın alınmasını ya da ürüne ait daha çok bilgi elde edilmesini teşvik eder. Dolaylı reklam ise ürünü pazara tanıtmak ve benimsenmesini sağlamak amacıyla yapılır.
 
     <hr />
-1. **Aşağıdakilerden hangisi bir düşünceyi, olguyu, nesneyi gösteren semboller bütünüdür?**
+1. <strong>Aşağıdakilerden hangisi bir düşünceyi, olguyu, nesneyi gösteren semboller bütünüdür?</strong>
     - A-) Kurumsal kimlik
     - B-) İmaj
     - C-) Fotoğraf
@@ -1321,7 +1321,7 @@
 
     <hr />
 ## Unite 11
-1. **Göstergebilimin kurucusu aşağıdakilerden hangisidir?**
+1. <strong>Göstergebilimin kurucusu aşağıdakilerden hangisidir?</strong>
     - A-) Charles Sanders Peirce
     - B-) Roland Barthes
     - C-) Michel Foucault
@@ -1341,7 +1341,7 @@
     > **Açıklama:** Amerikalı mantıkçı ve matematikçi Charles Sanders Peirce'e göre göstergeler genel olarak üçe ayrılır: ikon (görüntüsel gösterge), indeks (belirti) ve sembol (simge).
 
     <hr />
-1. **Ferdinand de Saussure’ün göstergebilimi geliştirdiği temel çalışma alanı aşağıdakilerden hangisidir?**
+1. <strong>Ferdinand de Saussure’ün göstergebilimi geliştirdiği temel çalışma alanı aşağıdakilerden hangisidir?</strong>
     - A-) Sosyoloji
     - B-) Antropoloji
     - C-) Felsefe
@@ -1361,7 +1361,7 @@
     > **Açıklama:** Grafik Tasarım terimi ilk kez, Amerikalı bir kitap tasarımcısı ve font yaratıcısı olan William Addison Dwiggins (1880-1956) tarafından 1922 yılında tanımlanmıştır.
 
     <hr />
-1. **Tasarımda brikolaj kavramı kime aittir?**
+1. <strong>Tasarımda brikolaj kavramı kime aittir?</strong>
     - A-) Roland Barthes
     - **Cevap B-) Jean Marie Floch**
     - C-) Michel Foucault
@@ -1371,7 +1371,7 @@
     > **Açıklama:** Fransız göstergebilimci Jean-Marie Floch, tasarım ve pazarlama alanında brikolaj kavramını geliştirmiştir. Bu kavrama göre tasarımcı, mevcut göstergeleri yeniden kurgulayarak anlam üretir.
 
     <hr />
-1. **Göstergebilimsel olarak düz anlam nedir?**
+1. <strong>Göstergebilimsel olarak düz anlam nedir?</strong>
     - A-) Bir metnin temsil ettiği ancak ortaya çıkarılması gereken kodlanmış anlamdır.
     - B-) Bir metnin temsil ettiği anlamdır.
     - **Cevap C-) Bir metnin hemen algılanan ve anlaşılan açık anlamıdır.**
@@ -1391,7 +1391,7 @@
     > **Açıklama:** Charles Sanders Peirce'in modeline göre indeks, işaret ettiği şey ile nedensel ya da uzamsal bir bağı olan göstergedir. Örnek olarak yangın dumanı veya parmak izi verilebilir.
 
     <hr />
-1. **Aşağıdakilerden hangisi g****rafik tasarımcısının yaptığı işlerden biri değildir?**
+1. <strong>Aşağıdakilerden hangisi g</strong><strong>rafik tasarımcısının yaptığı işlerden biri <u>değildir</u>?</strong>
     - A-) Grafik tasarımcı bir gösterge üreticisidir.
     - B-) Grafik tasarımcı bir anlam üreticisidir.
     - **Cevap C-) Grafik tasarımcı bir teknoloji üreticisidir.**
@@ -1411,7 +1411,7 @@
     > **Açıklama:** Charles Sanders Peirce, göstergeyi temsil eden anlamında 'representamen' olarak adlandırmıştır. Onun modelinde gösterge; representamen (göstergenin kendisi), interpretant (zihinsel gösterge) ve obje (göstergenin nesnesi) olmak üzere üç unsurdan oluşur.
 
     <hr />
-1. **Aşağıdakilerden hangisi göstergebilimi tanımlar?**
+1. <strong>Aşağıdakilerden hangisi göstergebilimi tanımlar?</strong>
     - A-) Göstergelerin sanatsal işlevlerini ve gösterge sistemlerini inceleyen bir bilim dalıdır.
     - **Cevap B-) Göstergeleri, sosyo kültürel özelliklerini, iletişimsel işlevlerini, gösterge-anlam ilişkisini ve gösterge sistemlerini inceleyen bir bilim dalıdır.**
     - C-) Göstergelerin kitle iletişim araçları bağlamında işlevlerini inceleyen bir bilim dalıdır.
@@ -1421,7 +1421,7 @@
     > **Açıklama:** Göstergebilim; göstergeleri, onların sosyo-kültürel özelliklerini, iletişimsel işlevlerini, gösterge ile anlam arasındaki ilişkiyi ve gösterge sistemlerini inceleyen bir bilim dalıdır.
 
     <hr />
-1. **Jean Marie Floch, tasarımda hangi yöntemi geliştirmiştir?**
+1. <strong>Jean Marie Floch, tasarımda hangi yöntemi geliştirmiştir?</strong>
     - A-) Sembiyosis
     - **Cevap B-) Brikolaj**
     - C-) Anlam üretimi
@@ -1432,7 +1432,7 @@
 
     <hr />
 ## Unite 12
-1. **Görsel algı aşağıdakilerden hangisini ifade eder?**
+1. <strong>Görsel algı aşağıdakilerden hangisini ifade eder?</strong>
     - A-) El yazısı becerisi
     - B-) İşitme yeteneği
     - **Cevap C-) Çevredeki görsel bilgileri anlama süreci**
@@ -1452,7 +1452,7 @@
     > **Açıklama:** Şekil-zemin ilkesi, görsel bir imgenin figürü (şekil) ile zemini (arka plan) arasındaki ilişkiyi inceler. Bu ilkeye göre algı, bir nesneyi ('şekil') onu çevreleyen alandan ('zemin') ayırma eğilimindedir. Dolayısıyla ilişki hem şekli hem de zemini içerir.
 
     <hr />
-1. **Amerikalı Psikolog James Jerome Gibson’ın çevreden edinilen bilginin duyular aracılığıyla nasıl algılandığına dikkat çeken yaklaşımı aşağıdakilerden hangisidir?**
+1. <strong>Amerikalı Psikolog James Jerome Gibson’ın çevreden edinilen bilginin duyular aracılığıyla nasıl algılandığına dikkat çeken yaklaşımı aşağıdakilerden hangisidir?</strong>
     - A-) İnşacı Poziyon
     - B-) Görsel Akış
     - C-) Psikolojik Yaklaşım
@@ -1462,7 +1462,7 @@
     > **Açıklama:** Amerikalı psikolog James Jerome Gibson'ın geliştirdiği 'Ekolojik Yaklaşım', algının çevreden edinilen bilginin duyular aracılığıyla nasıl işlendiğine odaklanır. Bu yaklaşım, özellikle hareketli gözlemcilerin çevreyi nasıl algıladığını inceler.
 
     <hr />
-1. **Geleneksel algı yaklaşımlarının ve algı psikolojisinin çok ötesinde fikirleriyle görsel algı ve düşünce arasındaki bağlantıları inceleyen sanat kuramcısı aşağıdakilerden hangisidir?**
+1. <strong>Geleneksel algı yaklaşımlarının ve algı psikolojisinin çok ötesinde fikirleriyle görsel algı ve düşünce arasındaki bağlantıları inceleyen sanat kuramcısı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Rudolf Arnheim**
     - B-) Paul Montgomery Churchland
     - C-) E. Bruce Goldstein
@@ -1492,7 +1492,7 @@
     > **Açıklama:** Gestalt teorisi, 1910 yılında üç Alman psikolog tarafından kurulmuştur: Max Wertheimer, Kurt Koffka ve Wolfgang Köhler. Bu kuram, algısal örgütlenme ve bütünlük üzerine odaklanır.
 
     <hr />
-1. **Fikirleri, kavramları, metin ve görselleri alarak onları baskı, elektronik veya diğer süreçlerden geçirip görsel bir ifadeye çeviren aşağıdakilerden hangisidir?**
+1. <strong>Fikirleri, kavramları, metin ve görselleri alarak onları baskı, elektronik veya diğer süreçlerden geçirip görsel bir ifadeye çeviren aşağıdakilerden hangisidir?</strong>
     - A-) Mimarlık
     - B-) Felsefe
     - C-) Resim
@@ -1512,7 +1512,7 @@
     > **Açıklama:** Gestalt ilkeleri, görsel algının nasıl çalıştığını açıklayan kurallardır. Pragnanz ilkesi, insan gözünün karmaşık şekilleri mümkün olan en basit formda algılama eğilimini ifade eder. Kapanış ilkesi ise, görsel algıda yer alan eksik parçaları tamamlama eğilimimizdir. Dolayısıyla soru, Kapanış (Tamamlama) ilkesini tanımlamaktadır.
 
     <hr />
-1. **Grafik Tasarımda, kesikli veya eksik bir deseni tamamlama eğilimimiz hangi Gestalt ilkesiyle açıklanabilir?**
+1. <strong>Grafik Tasarımda, kesikli veya eksik bir deseni tamamlama eğilimimiz hangi Gestalt ilkesiyle açıklanabilir?</strong>
     - A-) Benzerlik
     - B-) Yakınlık
     - C-) Şekil/zemin
@@ -1532,7 +1532,7 @@
     > **Açıklama:** Simetri ilkesi, gözlemcinin dış dünyada gördüğü nesneleri tutarlı bir bütün haline getirmesiyle ilgilidir. Zihin, görsel unsurları genellikle simetrik ve bir merkez nokta etrafında algılar. Bu durum, tasarımdaki denge kavramıyla doğrudan ilişkilidir.
 
     <hr />
-1. **Aşağıdaki isimlerden hangisi algıyı anlamanın yolunu fizyolojik görme konusu ile ilişkilendirmiştir?**
+1. <strong>Aşağıdaki isimlerden hangisi algıyı anlamanın yolunu fizyolojik görme konusu ile ilişkilendirmiştir?</strong>
     - A-) James Jerome Gibson
     - B-) Jonathan Crary
     - **Cevap C-) E. Bruce Goldstein**
@@ -1542,7 +1542,7 @@
     > **Açıklama:** E. Bruce Goldstein'e göre, algıyı anlamanın ilk adımı, görme sürecinde ışığın bir nesneden göze yansımasıyla başlayan fizyolojik süreçlere yakından bakmaktır.
 
     <hr />
-1. **Görsel algıda kendiliğinden ortaya çıkan bir vurguyu ifade eden Gestalt ilkesi aşağıdakilerden hangisidir?**
+1. <strong>Görsel algıda kendiliğinden ortaya çıkan bir vurguyu ifade eden Gestalt ilkesi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Odak Noktası**
     - B-) Pragnanz
     - C-) Bağlantılılık
@@ -1553,7 +1553,7 @@
 
     <hr />
 ## Unite 13
-1. Aşağıdakilerden hangisi yaratıcılık sürecinin özelliklerinden biri değildir?
+1. Aşağıdakilerden hangisi yaratıcılık sürecinin özelliklerinden biri <u>değildir</u>?
     - A-) Risk almak
     - B-) Esnek düşünmek
     - C-) Özgün bağlantılar kurmak
@@ -1563,7 +1563,7 @@
     > **Açıklama:** Yaratıcılık süreci; alışılmış kalıplardan sıyrılma, esnek düşünme, risk alma ve özgün bağlantılar kurma gibi yetenekleri kapsar. Bu süreç, her zaman en kısa veya en verimli yolu izlemez; keşif ve denemeyi içerir.
 
     <hr />
-1. **Aşağıdakilerden hangisi tasarım, psikoloji, sanat ve eğitim alanlarında yaratıcılığı ele alan araştırmacıların bu konu ile ilgili ortaya koydukları çıkarımlardan biri değildir?**
+1. <strong>Aşağıdakilerden hangisi tasarım, psikoloji, sanat ve eğitim alanlarında yaratıcılığı ele alan araştırmacıların bu konu ile ilgili ortaya koydukları çıkarımlardan biri <u>değildir</u>?</strong>
     - A-) Yaratıcılık doğuştan gelen bir özelliktir.
     - B-) Yaratıcılık bir sorun çözme sürecidir.
     - C-) Yaratıcı kişiler önceki deneyimlerini de aşan ve onlara başkaldıran kişilerdir.
@@ -1593,7 +1593,7 @@
     > **Açıklama:** Metne göre, tarihsel süreçte birçok ünlü yaratıcı karakterle ilgili anlatılar, kişide ani ilham anları veya delilik nöbetleri gibi dramatik yönlere odaklanma eğilimindedir. Yaratıcılık mitlerinin yayılmasının bir sebebi, bu tür yoğunlaştırılmış ve abartılmış anlatılardır.
 
     <hr />
-1. Aşağıdakilerden hangisinin yaratıcı kişide olmazsa olmaz değildir?
+1. Aşağıdakilerden hangisinin yaratıcı kişide olmazsa olmaz <u>değildir</u>?
     - A-) Araştırmacı olmaları
     - B-) Meraklı olmaları
     - **Cevap C-) Sosyal ve dışa dönük bir yapıya sahip olmaları**
@@ -1613,7 +1613,7 @@
     > **Açıklama:** Yaratıcı süreç, tasarımın sadece görsel bir çekicilik sağlamakla kalmayıp aynı zamanda içerikle güçlü bir etkileşim kurmasına olanak tanır. Bu, tasarımın izleyiciyle bir hikaye anlatmasını ve duygusal bağ kurmasını sağlar.
 
     <hr />
-1. Aşağıdakilerden hangisi tasarım sürecinde yaratıcı olabilmenin adımlarından biri değildir?
+1. Aşağıdakilerden hangisi tasarım sürecinde yaratıcı olabilmenin adımlarından biri <u>değildir</u>?
     - A-) Renk paletini ustaca kullanmak.
     - B-) Çok fazla alternatif tasarlamak.
     - **Cevap C-) Tipografik düzenlemelerle hiyerarşi oluşturmak.**
@@ -1623,7 +1623,7 @@
     > **Açıklama:** Grafik tasarımda yaratıcı olmak için renk paletini ustaca kullanmak, tipografi ile hiyerarşi oluşturmak, imgelerle yeni hikayeler yaratmak ve kompozisyonu anlam üzerine inşa etmek gibi adımlar önemlidir. 'Çok fazla alternatif tasarlamak' doğrudan bir yaratıcılık adımı olarak belirtilmemiştir.
 
     <hr />
-1. Aşağıdakilerden hangisi Gantz ve Taylor’a göre davranışsal farklılığın ayrıldığı beş sınıftan biri değildir?
+1. Aşağıdakilerden hangisi Gantz ve Taylor’a göre davranışsal farklılığın ayrıldığı beş sınıftan biri <u>değildir</u>?
     - A-) Dışavurumcu Yaratıcılık
     - B-) Teknik Yaratıcılık
     - C-) Girişimci Yaratıcılık
@@ -1633,7 +1633,7 @@
     > **Açıklama:** Irving A. Taylor ve Benjamin S. Gantz, yaratıcılığın davranışsal farklılıklarını beş sınıfa ayırmıştır: dışavurumcu yaratıcılık, üretken yaratıcılık, buluşçu yaratıcılık, yenilikçi yaratıcılık ve ortaya çıkan yaratıcılık. 'Taklit Eden Yaratıcılık' bu sınıflamada yer almaz.
 
     <hr />
-1. Aşağıdakilerden hangisi Emre Becer tarafından yaratıcı olabilmenin yöntemlerinden biri olarak belirtilmemiştir?
+1. Aşağıdakilerden hangisi Emre Becer tarafından yaratıcı olabilmenin yöntemlerinden biri olarak <u>belirtilmemiştir</u>?
     - A-) Dikey ve kapsamlı düşünme
     - B-) Beyin fırtınası
     - C-) Kuluçka yöntemi
@@ -1643,7 +1643,7 @@
     > **Açıklama:** Emre Becer'in kitabında yaratıcılık için belirtilen yöntemler arasında Dikey ve Kapsamlı Düşünme, Beyin Fırtınası, Kuluçka Yöntemi ve Not Alma Yöntemi yer almaktadır. Sağlıklı beslenme bu yöntemlerden biri değildir.
 
     <hr />
-1. Aşağıdakilerden hangisi Jim Aitchison’un yalan olarak nitelendirdiği reklamın değişmez kurallarından biri değildir?
+1. Aşağıdakilerden hangisi Jim Aitchison’un yalan olarak nitelendirdiği reklamın değişmez kurallarından biri <u>değildir</u>?
     - A-) Özgün bir satış öneriniz olmalı
     - B-) Mantıklı bir fayda öne sürülmeli
     - C-) Akılda kalıcı bir slogan olması gerekli
@@ -1653,7 +1653,7 @@
     > **Açıklama:** Jim Aitchison, yaratıcı reklamın önündeki engeller olarak gördüğü ve 'yalan' olarak nitelendirdiği kurallar arasında 'özgün bir satış önermeniz olmalı', 'mantıklı bir fayda öne sürmelisiniz', 'akılda kalıcı bir slogan olmalı' ve 'ilanda mutlaka logo olmalı' gibi maddeleri saymıştır.
 
     <hr />
-1. .................................., tek bir fotoğraf üzerinde gerçekleştirilen deformasyonlar aracılığıyla veya birden çok fotoğrafın birleştirilmesiyle elde edilebilir.<br />**Aşağıdakilerden hangisi yaratıcılık mitlerinin ortaya çıkma sebeplerinden biridir?**
+1. .................................., tek bir fotoğraf üzerinde gerçekleştirilen deformasyonlar aracılığıyla veya birden çok fotoğrafın birleştirilmesiyle elde edilebilir.<br /><strong>Aşağıdakilerden hangisi yaratıcılık mitlerinin ortaya çıkma sebeplerinden biridir?</strong>
     - **Cevap A-) Fotomanipülasyon**
     - B-) Baskı kalitesini
     - C-) İllüstrasyon
@@ -1663,7 +1663,7 @@
     > **Açıklama:** Bu sorunun metninde bir hata bulunmaktadır. İlk cümle Ünite 4'ten alınmış ve fotomanipülasyonu tanımlamaktadır. İkinci cümle ise Ünite 13 ile ilgilidir. Yaratıcılık mitlerinin ortaya çıkma sebeplerinden biri, karmaşık bilimsel bulguların bilgisizce yorumlanması veya basitleştirilmesidir. Seçenekler arasında doğru bir yanıt bulunmamaktadır.
 
     <hr />
-1. **Aşağıdakilerden hangisi yaratıcılık mitlerinden biri değildir?**
+1. <strong>Aşağıdakilerden hangisi yaratıcılık mitlerinden biri <u>değildir</u>?</strong>
     - A-) Herkes yaratıcıdır.
     - B-) Yaratıcılık bilinç dışıdır.
     - C-) Her yaratıcı biraz delidir.
@@ -1673,7 +1673,7 @@
     > **Açıklama:** Metinde, yaratıcılığa dair yaygın olan mitler arasında 'Herkes yaratıcıdır', 'Yaratıcılık bilinç dışıdır', 'Her yaratıcı biraz delidir' ve 'Yaratıcılık öğretilemez' gibi inanışlar sıralanmıştır. 'Yaratıcılık bulaşıcıdır' ifadesi bu mitler arasında yer almaz.
 
     <hr />
-1. **Aşağıdakilerden hangisini Emre Becer’in sunduğu yaratıcı yöntemlerden biri olan Kuluçka Yöntemi için söylemek uygun olur?**
+1. <strong>Aşağıdakilerden hangisini Emre Becer’in sunduğu yaratıcı yöntemlerden biri olan Kuluçka Yöntemi için söylemek uygun olur?</strong>
     - A-) Kuluçka yönteminde araştırma yapmak gerekli değildir, fikir kendiliğinden gelir.
     - B-) Kuluçka yönteminde çalışılan konunun dışına çıkılmamalıdır, sadece ana konuya odaklanılmalıdır.
     - C-) Kuluçka yöntemi aniden gelişen bir süreçtir, hızlı sonuç verir.
@@ -1684,7 +1684,7 @@
 
     <hr />
 ## Unite 14
-1. **Çizgisel anlatımın grafik tasarımdaki temel amacı aşağıdakilerden hangisidir?**
+1. <strong>Çizgisel anlatımın grafik tasarımdaki temel amacı aşağıdakilerden hangisidir?</strong>
     - A-) Renk paletini belirlemek
     - **Cevap B-) İzleyiciye belirli bir yönde rehberlik etmek ve hikâye iletmek**
     - C-) Şekilleri detaylı bir şekilde tasvir etmek
@@ -1694,7 +1694,7 @@
     > **Açıklama:** Grafik tasarımda çizgisel anlatım, tasarımın temelini oluşturan çizgilerin kullanımıyla bir mesaj veya hikâye iletmeyi ifade eder. Bu tür tasarımlar genellikle izleyiciyi belirli bir yönde rehberlik etmek amacıyla kullanılır.
 
     <hr />
-1. Çizgisel anlatımın temel unsurları arasında aşağıdakilerden hangisi bulunmaz?
+1. Çizgisel anlatımın temel unsurları arasında aşağıdakilerden hangisi <u>bulunmaz</u>?
     - A-) Çizgilerin kalınlığı
     - B-) Uzunluk
     - C-) Çizgilerin yönü
@@ -1711,7 +1711,7 @@
     - D-) Rönesans
     - E-) Gothik
 
-    > **Açıklama:** 20\. yüzyılın başlarında, afiş tasarımlarında fotoğrafik öğelerin kullanımı hızla yaygınlaşmıştır. Özellikle modernist akımların etkisiyle, resimlemelerin duygusal öğeleri bir kenara bırakılıp daha nesnel ve gerçekçi bir yaklaşıma yönelim olmuştur.
+    > **Açıklama:** 20. yüzyılın başlarında, afiş tasarımlarında fotoğrafik öğelerin kullanımı hızla yaygınlaşmıştır. Özellikle modernist akımların etkisiyle, resimlemelerin duygusal öğeleri bir kenara bırakılıp daha nesnel ve gerçekçi bir yaklaşıma yönelim olmuştur.
 
     <hr />
 1. İhap Hulusi Görey gibi tasarımcılar, afişlerindeki figürleri canlandırmak adına hangi yaklaşımı kullanmışlardır?
@@ -1734,7 +1734,7 @@
     > **Açıklama:** Çizgi bantları kullanarak gereksiz ayrıntılardan kurtulmak, figürleri yalınlaştırmak (sadeleştirmek) ve tasarımcıya özgün bir dil oluşturmak için harika bir yöntem sunar. Bu yöntemle, bir varlığın ya da nesnenin detayları atılarak sade çizgilere indirgenmesi mümkündür.
 
     <hr />
-1. **Brian Steely'nin logo tasarımlarındaki çizgisel anlatım aşağıdaki unsurlardan hangisini içerir?**
+1. <strong>Brian Steely'nin logo tasarımlarındaki çizgisel anlatım aşağıdaki unsurlardan hangisini içerir?</strong>
     - A-) Sadece renkli arka planlar
     - B-) Hareket etkisi
     - C-) Yalnızca detaylı figürler
@@ -1774,7 +1774,7 @@
     > **Açıklama:** Sanatın soyutlama fikri, gerçekliğin iç yapısını ve ilişkilerini anlamak için derinlemesine bir inceleme ve ayrıştırma sürecinin ardından ortaya çıkmıştır. Cezanne'ın doğayı geometrik formlara indirgeyerek görmesi bu düşüncenin temelini oluşturur.
 
     <hr />
-1. **De Stijl Akımı, hangi temel ilkeye odaklanarak nesnel ve evrensel uyumu anlatmıştır?**
+1. <strong>De Stijl Akımı, hangi temel ilkeye odaklanarak nesnel ve evrensel uyumu anlatmıştır?</strong>
     - A-) Biçemleme
     - B-) Bireysel duygular
     - C-) Renk paleti
@@ -1784,7 +1784,7 @@
     > **Açıklama:** De Stijl akımı, Kübizm'in ilerisine geçerek figürleri saf geometrik formlara indirgeme, yani soyutlama yolunu seçmiştir. Bu akım, bireysel duyguları dışlayarak nesnel ve evrensel uyumu anlatma fikrine odaklanmıştır.
 
     <hr />
-1. **Çizgisel anlatımın temel unsurlarından biri olan çizgilerin yoğun bir şekilde kullanılmasının amacı aşağıdakilerden hangisidir?**
+1. <strong>Çizgisel anlatımın temel unsurlarından biri olan çizgilerin yoğun bir şekilde kullanılmasının amacı aşağıdakilerden hangisidir?</strong>
     - A-) Renkleri vurgulamak
     - **Cevap B-) İzleyiciyi belirli bir duygu durumunu iletmek**
     - C-) Figürleri detaylı bir şekilde tasvir etmek
@@ -1794,7 +1794,7 @@
     > **Açıklama:** Çizgisel anlatım, izleyiciyi belirli bir yönde rehberlik etmek, bir duygu veya atmosfer iletmek veya bilgiyi sıralı bir şekilde sunmak amacıyla kullanılır. Çizgiler, yollar veya akışlar aracılığıyla izleyiciyi görsel bir hikâyeye yönlendirir.
 
     <hr />
-1. **Tasarımın lekeselleştirme teknikleriyle ilgili olarak açık tonlar hangi amaçla kullanılır?**
+1. <strong>Tasarımın lekeselleştirme teknikleriyle ilgili olarak açık tonlar hangi amaçla kullanılır?</strong>
     - A-) Derinlik ve zenginlik hissi yaratmak
     - B-) Soyut kavramları temsil etmek
     - C-) Sadeleştirme tekniklerini görmek
@@ -1804,7 +1804,7 @@
     > **Açıklama:** Lekeselleştirme tekniği, tasarımın ana unsurlarını belirlemede ve izleyiciyi yönlendirmede kullanılır. Bu teknikte açık tonlar, dikkatin çekilmesi gereken noktaları vurgularken, koyu tonlar derinlik hissi yaratır.
 
     <hr />
-1. **Lekeselleştirme, tasarımın hangi boyutlarını zenginleştirir?**
+1. <strong>Lekeselleştirme, tasarımın hangi boyutlarını zenginleştirir?</strong>
     - A-) Teknik ve somut
     - **Cevap B-) Soyut ve duygusal**
     - C-) Matematiksel ve geometrik
