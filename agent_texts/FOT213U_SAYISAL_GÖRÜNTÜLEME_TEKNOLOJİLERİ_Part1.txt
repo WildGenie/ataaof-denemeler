@@ -1,0 +1,1197 @@
+SAYISAL GÖRÜNTÜLEME TEKNOLOJİLERİ dersi ünite 0-2 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 0
+Soru 1 - Bu soru iptal edilmiştir. (BU SORU İPTAL EDİLMİŞTİR) (BU SORU İPTAL EDİLMİŞTİR)
+Doğru Cevap 
+Aciklama Bu soru resmi cevap anahtarına göre iptal edilmiştir.
+
+Unite 1
+Soru 2 - Birinci Endüstri Devrimi'nin başlangıcı olarak kabul edilen gelişme aşağıdakilerden hangisidir?
+A - İlk mekanik dokuma tezgahının ticari olarak kullanımı
+B - Fabrikalarda elektriğin ilk kez kullanılması
+C - Demir yolu ağlarının yaygınlaşması
+D - Petrolle çalışan içten yanmalı motorların ilk kez kullanılması
+E - İlk seri üretim bandının oluşturulması
+Doğru Cevap A
+Aciklama "Ticari bir kullanıma sahip olan ilk mekanik dokuma tezgâhı İngiliz mucit Edmund Cartwright tarafından 1784 yılında gerçekleştirildi. Bu tarih aynı zamanda Birinci Endüstri Devrimi’nin başlangıcı olarak da kabul edilir. " (s.4) Bu nedenle cevap a seçeneğidir.
+
+Soru 3 - Sayısal çağ farklı kavramlarla da ifade edilir. Aşağıdakilerden hangisi bu kavramlardan biri değildir?
+A - Dijital çağ
+B - Bilgi çağı
+C - Bilgisayar çağı
+D - Endüstri çağı
+E - Yeni medya çağı
+Doğru Cevap D
+Aciklama "Sayısal çağ birkaç farklı kavramla da ifade edilir. Bunlar; dijital çağ, bilgi çağı, bilgisayar çağı ya da yeni medya çağıdır. Hangi kavramla ifade edilirse edilsin bu çağ, 20. yüzyılda başlayıp günümüze kadar süregelen değişim ve dönüşümleri ifade etmek için kullanılır. " (s.3). Buna göre cevap d seçeneğidir.
+
+Soru 4 - Teknolojik gelişmelerin başlangıcı kabul edilen buhar makinesi kaç yılında icat edilmiştir?
+A - 1768
+B - 1781
+C - 1785
+D - 1791
+E - 1871
+Doğru Cevap B
+Aciklama "Thomas Savery ve Thomas Newcomen’in de katkılar sağladığı buhar makinesi, esas olarak 1781 yılında İskoçyalı mühendis James Watt tarafından geliştirilmiş ve birkaç yıl sonra gerçek anlamda üretimdeki yerini almıştır" (s.3). Buna göre cevap b seçeneğidir.
+
+Soru 5 - 1-Ucuz çelik üretim yönteminin icat edilmesi 2-Demir yolu ağlarının yaygınlaşması 3-Şehirlerde elektriğin kullanılmaya başlanması 4- Mekanik elektrikle çalışan hesap makinesinin üretilmesi Yukarıdaki gelişmelerden hangileri İkinci Endüstri Devrimi kapsamında yer almaktadır?
+A - Yalnız 1
+B - 1 ve 2
+C - 1, 2, 3
+D - 1, 2, 4
+E - 1, 2, 3, 4
+Doğru Cevap C
+Aciklama "Birinci Endüstri Devrimi’nden sonra da yeni gelişmeler ve icatlar ortaya çıkmaya devam etmiştir. Bu gelişmelerin en önemlileri şunlardır: Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemleri ve daktilo. Bu ...
+
+Soru 6 - Artırılmış Gerçeklik (Augmented Reality) ve Simülasyon gibi kavramlar aşağıdakilerden hangisi ile ilgilidir?
+A - Birinci Endüstri Devrimi
+B - İkinci Endüstri Devrimi
+C - Üçüncü Endüstri Devrimi
+D - Dördüncü Endüstri Devrimi
+E - Beşinci Endüstri Devrimi
+Doğru Cevap D
+Aciklama "Yaklaşık on yıllık bir geçmişe sahip olan ve yoğun bir dijital dönüşümün yaşandığı Endüstri 4.0 şu kavramlarla anlam kazanmaktadır: • Nesnelerin interneti (IOT) • Üç boyutlu (3D) yazıcılar • Otonom robotlar • Akıllı fabrikalar • Bulut bilişim sistemi • Büyük veri • Siber fiziksel sistemler • Siber güvenlik • Artırılmış (Augmented Reality) gerçeklik • Simülasyon" (s.8). Buna göre cevap d seçeneğidir.
+
+Soru 7 - Aşağıdakilerden hangisi dijital fotoğraf makineleri ile kıyaslandığında analog fotoğraf makinelerine avantaj sağlamamaktadır?
+A - Pil tüketimi
+B - Görüntü çözünürlüğü
+C - Fiziksel koşullara hassasiyet
+D - Makine maliyeti
+E - Çekim maliyeti
+Doğru Cevap E
+Aciklama Sayfa 13'deki bilgilere göre a,b,c,d seçenekleri dijital fotoğraf makinelerin dezavantajlarıdır. Bununla birlikte; "Dijital kameralarla yapılan çekimlerin çok daha az maliyetli olması" (s.13) söz konusu olduğu için cevap e seçeneğidir.
+
+Soru 8 - " ............................... 1878 yılında çok sayıda kamera kullanarak koşan bir atın görüntülerini kaydettikten sonra zoepraksinoskop (zoopraxiscope) adını verdiği projektörle kaydettiği bu görüntüleri belirli bir hızda art arda göstererek hareketli bir görüntü oluşturmayı başarmıştır". Yukarıdaki cümledeki boşluğa aşağıdaki isimlerden hangisi gelmelidir?
+A - Philo Farnsworth
+B - Eadweard Muybridge
+C - Martin Cooper
+D - Bell ve Howell
+E - George Eastman
+Doğru Cevap B
+Aciklama "Bilinen ilk hareketli görüntü de belirli bir hızda art arda gösterilen fotoğraflardan oluşuyordu. Bu konuda ilk çalışma yapan isimlerden biri İngiliz fotoğrafçı Eadweard Muybridge’dir. 1830-1904 yılları arasında yaşamış olan Muybridge hareketli nesne, hayvan ve insanları bazen çok kısa aralıklarla yerleştirdiği fotoğraf makineleriyle, bazen de o günün teknolojisinin elverdiği hızlarda arka arkaya çekerek görüntülemiştir. Yaptığı serilerin en ünlülerinden biri atın dörtnala koşuşunu gösterendir ...
+
+Soru 9 - Dünyanın ilk sinema filmi kamerası kaç yılında icat edilmiştir?
+A - 1895
+B - 1912
+C - 1916
+D - 1927
+E - 1934
+Doğru Cevap A
+Aciklama "1895: Dünyanın ilk sinema filmi kamerası icat edildi. Dünyanın ilk film yapımcıları Auguste ve Louis Lumiere, sinematografın (sinema makinesinin), bir sinema kamerasının ve projektörünün patentini aldı" (s.15). Buna göre cevap a seçeneğidir.
+
+Soru 10 - " ....................., televizyon içeriğinin hareket eden ya da hareket edebilme potansiyeline sahip olan araçlara kablosuz olarak etkileşimli veya etkileşimsiz bir biçimde iletimidir." Yukarıda yer alan cümledeki boşluğa aşağıdakilerden hangisinin gelmesi doğru olur?
+A - IPTV
+B - Web TV
+C - Mobil TV
+D - Pay TV
+E - Cathc-Up TV
+Doğru Cevap C
+Aciklama "Mobil TV, televizyon içeriğinin hareket eden ya da hareket edebilme potansiyeline sahip olan araçlara kablosuz olarak etkileşimli veya etkileşimsiz bir biçimde iletimidir." (s.19). Buna göre cevap c seçeneğidir.
+
+Soru 11 - 1-Öde -1̇zle (Pay TV) 2- 1̇çerik Kaydı (PVR) 3- Canlı Yayını Durdurabilme (Pause Live TV) 4- Gecikmeli Yayın 1̇zleme (Cathc-Up TV), Yukarıdakilerden hangileri IPTV altyapısının sunduğu hizmetlerden biridir?
+A - Yalnız 1
+B - 1 ve 2
+C - 1, 2, 3
+D - 1, 2, 4
+E - 1, 2, 3, 4
+Doğru Cevap E
+Aciklama "IPTV altyapısının sunduğu bazı hizmetler şunlardır: VoD (Video on Demand/İsteğe Bağlı Video- Ismarlama Video), Öde -1̇zle (Pay TV), 1̇çerik Kaydı (PVR), Canlı Yayını Durdurabilme (Pause Live TV), Gecikmeli Yayın 1̇zleme (Cathc-Up TV), Elektronik Program Rehberi (EPG)"(s.19). Buna göre cevap e seçeneğidir.
+
+Soru 12 - Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması hangi endüstri devrimi dönemine denk gelmektedir?
+A - Endüstri 1.0
+B - Endüstri 2.0
+C - Endüstri 3.0
+D - Endüstri 4.0
+E - Endüstri 5.0
+Doğru Cevap B
+Aciklama Birinci Endüstri Devrimi’nden sonra da yeni gelişmeler ve icatlar ortaya çıkmaya devam etmiştir. Bu gelişmelerin en önemlileri şunlardır: Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemleri ve daktilo. Bu g...
+
+Soru 13 - Aşağıdaki seçeneklerden hangisi endüstri toplumlarının özelliklerinden biri değildir?
+A - Üretim faaliyeti ile evin birbirinden ayrılması
+B - Üretim seviyesinde artış ve üretimde ilerleme
+C - Göçebe yaşam tarzının devam etmesi
+D - Tüketimde ve sosyal hizmetlerde iyileşme
+E - Eğitimin yaygınlaşması ve okuma-yazma oranının artması
+Doğru Cevap C
+Aciklama Endüstri toplumlardaki belli başlı özellikler şunlardır: • Kapitalist olmaları • Fabrika temelli üretimin yaygınlaşması • Tarımda çalışan nüfus oranının azalması • Şehirlerde nüfusun artması • Üretim faaliyeti ile evin birbirinden ayrılması • Üretim seviyesinde artış ve üretimde ilerleme • Şehirleşme • Tüketimde ve sosyal hizmetlerde iyileşme • Eğitimin yaygınlaşması ve okuma-yazma oranının artması
+
+Soru 14 - Birinci endüstri devriminin başlangıç tarihi nedir?
+A - 1269
+B - 1450
+C - 1695
+D - 1784
+E - 1899
+Doğru Cevap D
+Aciklama Ticari bir kullanıma sahip olan ilk mekanik dokuma tezgâhı İngiliz mucit Edmund Cartwright tarafından 1784 yılında gerçekleştirildi. Bu tarih aynı zamanda Birinci Endüstri Devrimi’nin başlangıcı olarak da kabul edilir.
+
+Soru 15 - Aşağıdaki seçeneklerden hangisi Endüstri 4.0’ı niteleyen kavramlardan biri değildir?
+A - Bulut bilişim sistemi
+B - Büyük veri
+C - Otonom robotlar
+D - Siber güvenlik
+E - Buharlı makineler
+Doğru Cevap E
+Aciklama Yaklaşık on yıllık bir geçmişe sahip olan ve yoğun bir dijital dönüşümün yaşandığı Endüstri 4.0 şu kavramlarla anlam kazanmaktadır: • Nesnelerin interneti (IOT) • Üç boyutlu (3D) yazıcılar • Otonom robotlar • Akıllı fabrikalar • Bulut bilişim sistemi • Büyük veri • Siber fiziksel sistemler • Siber güvenlik • Artırılmış (Augmented Reality) gerçeklik • Simülasyon
+
+Soru 16 - Eastman Kodak firmasından Steven Sasson tarafından ilk taşınabilir dijital fotoğraf makinası ne zaman geliştirilmiştir?
+A - 1655
+B - 1798
+C - 1854
+D - 1975
+E - 2013
+Doğru Cevap D
+Aciklama İlk taşınabilir dijital fotoğraf kamerası 1975 yılında Eastman Kodak firmasından Steven Sasson tarafından geliştirildi.
+
+Soru 17 - Ticari olarak satışa sunulan ilk taşınabilir dijital fotoğraf makinesi kaç yılında geliştirilmiştir?
+A - 1655
+B - 1798
+C - 1854
+D - 1975
+E - 1989
+Doğru Cevap E
+Aciklama Ticari olarak satışa sunulan ilk taşınabilir dijital fotoğraf makinesi 1989 yılında Japonya’da satılan ve Fuji firması tarafından üretilen Fujix DS-X’dir. A
+
+Soru 18 - Aşağıdaki seçeneklerden hangisi görüntülere hareket kazandırmak için kullanılmamıştır?
+A - Fantoscope
+B - Stroboscope
+C - Phenakistoscope
+D - Telescope
+E - Zoepraksinoskop
+Doğru Cevap D
+Aciklama Tarihsel süreçte durağan görüntülerle hareket yanılsaması yaratan birçok mekanik aygıt geliştirilmiştir. Lumiere Kardeşler’in Cinematographe’ı (sinematograf/sinema makinesini) geliştirmelerine kadar geçen zaman zarfında görüntülere hareket kazandırmak amacıyla kullanılan bazı aygıtlar şunlardır: Fantoscope, stroboscope, phenakistoscope, thaumatrope, zoepraksinoskop ve kinetoscope.
+
+Soru 19 - Dünyanın ilk sinema filmi kamerası ne zaman icat edilmiştir?
+A - 1895
+B - 1903
+C - 1937
+D - 1975
+E - 1991
+Doğru Cevap A
+Aciklama 1895: Dünyanın ilk sinema filmi kamerası icat edildi. Dünyanın ilk film yapımcıları Auguste ve Louis Lumiere, sinematografın (sinema makinesinin), bir sinema kamerasının ve projektörünün patentini aldı
+
+Soru 20 - Sinemaya ses teknolojinin gelmesi hangi tarihte olmuştur?
+A - 1895
+B - 1903
+C - 1927
+D - 1975
+E - 1991
+Doğru Cevap C
+Aciklama 1927: Sinemaya ses geldi. Caz Şarkıcısı, senkronize diyaloglara sahip ilk filmdir. Bir yıl önce, Warner Brothers ve Vitagraph stüdyoları, filmde kullanılan Vitaphone analog ses sistemini geliştirdi.
+
+Soru 21 - İlk renkli televizyonlar hangi tarihte tanıtılmıştır?
+A - 1895
+B - 1903
+C - 1927
+D - 1954
+E - 1975
+Doğru Cevap D
+Aciklama 1954: İlk renkli televizyonlar tanıtıldı.
+
+Soru 22 - Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemleri ve daktilo gibi gelişmelerle ifade edilen hangisidir?
+A - Birinci Endüstri Devrimi
+B - İkinci Endüstri Devrimi
+C - Üçüncü Endüstri Devrimi
+D - Dördüncü Endüstri Devrimi
+E - Endüstri 4.0
+Doğru Cevap B
+Aciklama SAYISAL ÇAĞ DÖNÜMÜ Birinci Endüstri Devrimi’nden sonra da yeni gelişmeler ve icatlar ortaya çıkmaya devam etmiştir. Bu gelişmelerin en önemlileri şunlardır: Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemle...
+
+Soru 23 - Hangisinin, endüstri toplumlarındaki belli başlı özelliklerden olduğu söylenebilir?
+A - Hümanist olmaları
+B - Fabrika temelli üretimin yaygınlaşması
+C - Tarımda çalışan nüfus oranının artması
+D - Tüketimde ve sosyal hizmetlerde kötüleşme
+E - Üretim faaliyeti ile evin birbirine yakınlaşması
+Doğru Cevap B
+Aciklama SAYISAL ÇAĞ DÖNÜMÜ Endüstri toplumlardaki belli başlı özellikler şunlardır (Genç, 2005: 25): • Kapitalist olmaları • Fabrika temelli üretimin yaygınlaşması • Tarımda çalışan nüfus oranının azalması • Şehirlerde nüfusun artması • Üretim faaliyeti ile evin birbirinden ayrılması • Üretim seviyesinde artış ve üretimde ilerleme • Şehirleşme • Tüketimde ve sosyal hizmetlerde iyileşme • Eğitimin yaygınlaşması ve okuma-yazma oranının artması
+
+Soru 24 - Hangisi, Dördüncü Endüstri Devrimi ya da günümüzde yaygın biçimde kullanılan adıyla Endüstri 4.0 olarak olarak değerlendirilebilir?
+A - Çeşitli alanlardaki teknoloji (bilgisayar, mikroelektronik, fiber optik, lazer) kadar bilimsel alanlardaki (telekomünikasyon, nükleer, biyotarım ve biyogenetik) ilerlemeler.
+B - Mekanik elektrikle çalışan hesap makinesinin üretilmesi, akabinde de bilgisayara kadar uzanan, çığır açıcı dijital gelişmeler.
+C - Süper bilgisayarla birlikte iletişim teknolojilerinin gelişmesi.
+D - Fiziksel ve dijital sistemler arasında bağlantı kurarak üretim süreçlerini insansız biçimde kurgulayabilen yeni üretim sistemleri.
+E - Makinelerin, iş hayatında olduğu gibi gündelik hayata da hakim olmaya başlaması, böylece beden gücüne duyulan gereksinim kişisel yaşam içerisinde de ortadan kalkmaya başlaması.
+Doğru Cevap D
+Aciklama SAYISAL ÇAĞ DÖNÜMÜ 21. yüzyılın başında ise bilişim ve iletişim teknolojilerindeki çok önemli gelişmeler, internetin yaygın kullanımını ve yazılım alanındaki gelişmeler de akıllı sistemlerin gelişmesini sağladı. Bu süreçte ortaya çıkan fiziksel ve dijital sistemler arasında bağlantı kurarak üretim süreçlerini insansız biçimde kurgulayabilen yeni üretim sistemleri, Dördüncü Endüstri Devrimi ya da günümüzde yaygın biçimde kullanılan adıyla Endüstri 4.0 olarak değerlendirilmeye başlandı (Soylu, 201...
+
+Soru 25 - Aşağıdakilerden hangisi Endüstri 2.0’a ait gelişmelerden biri değildir?
+A - Ucuz çelik üretim yönteminin icat edilmesi
+B - Petrolle çalışan içten yanmalı motorların kullanılmaya başlanması
+C - Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı
+D - Fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması
+E - Makinelerin birbirinden bağımsız olarak çalışması
+Doğru Cevap E
+Aciklama Makinelerin birbirinden bağımsız olarak çalışması
+
+Soru 26 - Aşağıdakilerden hangisi Endüstri toplumunun özelliklerinden biri değildir?
+A - Fabrika temelli üretimin yaygınlaşması
+B - Tarımda çalışan nüfus oranının artması
+C - Şehirlerde nüfusun artması
+D - Üretim faaliyeti ile evin birbirinden ayrılması
+E - Kapitalist yapıda olmaları
+Doğru Cevap B
+Aciklama Tarımda çalışan nüfus oranının artması
+
+Soru 27 - Aşağıdakilerden hangisi Endüstri 4.0 ile ortaya çıkan değişimlerden biridir?
+A - Ürün-yaşam döngü süresi kısalırken, üretimdeki hata payı minimuma inmesi
+B - Makineler insanın fiziksel yapısı ve iş gücü temeline göre dizayn edilmesi
+C - Makineler birbirinden bağımsız olarak çalışması
+D - Üretim sürecinde makinelerin önceden yapılandırılmaya ihtiyacı vardır, bağımsız olarak her kullanım ve değişiklikte ayarlanması gerekmesi
+E - Eğitimin yaygınlaşması ve okuma-yazma oranının artması
+Doğru Cevap A
+Aciklama Ürün-yaşam döngü süresi kısalırken, üretimdeki hata payı minimuma inmesi
+
+Soru 28 - Aşağıdakilerden hangisi dijital çağın ortaya çıkmasının en son aşamasıdır?
+A - Belgelerin mikrofotografi yöntemi ile kopyalanarak muhafaza edilmesi
+B - Flash belleğin geliştirilmesi
+C - Transitörün icat edilmesi
+D - Radyo, televizyon, bilgisayar, uydu ve uzay teknolojisi gibi günlük yaşamımıza yön veren aygıtların ortaya çıkması
+E - Optik iletişim ağının geliştirilmesi
+Doğru Cevap E
+Aciklama Optik iletişim ağının geliştirilmesi
+
+Soru 29 - Aşağıdakilerden hangisi dijital fotoğrafçılığın avantajlarındandır?
+A - Pil tüketiminin fazla olması
+B - Dinamik aralığın daha düşük olması
+C - Görüntülerin dijital olarak kolayca işlenebilmesi ve düzenlenebilmesi
+D - Çok fazla kontrol ayarının bulunması
+E - Fiziksel koşullara karşı hassas olmaları
+Doğru Cevap C
+Aciklama Görüntülerin dijital olarak kolayca işlenebilmesi ve düzenlenebilmesi
+
+Soru 30 - Aşağıdakilerden hangisi dijital fotoğrafçılığın özelliklerinden biridir?
+A - Film kullanımı olması
+B - Görüntü oluşturma süresinde görüntünün bir yüzeye kaydedilmesi
+C - Görüntünün oluşturulması için kimyasal maddelerden yararlanılması
+D - Fotoğraflar çekildikten sonra dijital bellek kartlarına kaydedilmeleri
+E - Baskı için bir bilgisayar dosyası olarak depolanabilme özelliklerine sahip olmaması
+Doğru Cevap D
+Aciklama Fotoğraflar çekildikten sonra dijital bellek kartlarına kaydedilmeleri
+
+Soru 31 - Ticari olarak satışa sunulan ilk taşınabilir dijital fotoğraf makinesinin üretim tarihi ne zamandır?
+A - 1989
+B - 1990
+C - 1991
+D - 1993
+E - 1995
+Doğru Cevap A
+Aciklama Ticari olarak satışa sunulan ilk taşınabilir dijital fotoğraf makinesi 1989 yılında Japonya’da satılan ve Fuji firması tarafından üretilen Fujix DS-X’dir. Doğru cevap A seçeneğidir.
+
+Soru 32 - İlk televizyon hangi tarihte piyasaya çıkmıştır?
+A - 1895
+B - 1912
+C - 1927
+D - 1934
+E - 1916
+Doğru Cevap D
+Aciklama 1934
+
+Soru 33 - Telefonların sosyo-teknik tarihindeki ana şemasında yer alan, 2G’nin dijitalleşmesi ve GSM standartlarının benimsenmesi hangi tarihe denk gelmektedir?
+A - 1900
+B - 1930
+C - 1980
+D - 1990
+E - 2000
+Doğru Cevap D
+Aciklama 1990
+
+Soru 34 - Aşağıdakilerden hangisi akıllı telefon kameralarının olumsuz yönlerinden biridir?
+A - Dijital kameralardan ucuz olması
+B - Kolayca öğrenilebilmesi
+C - Görüntülerin kolayca paylaşılabilmesi
+D - Sağladığı alan derinliğinin fazla olması
+E - Akıllı telefonların küçük ve kolay taşınması
+Doğru Cevap D
+Aciklama Sağladığı alan derinliğinin fazla olması
+
+Soru 35 - Hangi ifadenin, Dördüncü Endüstri Devriminin anlaşılmasında doğru olduğu söylenemez?
+A - 21. yüzyılın başında bilişim ve iletişim teknolojilerindeki çok önemli gelişmeler, internetin yaygın kullanımını ve yazılım alanındaki gelişmeler de akıllı sistemlerin gelişmesini sağladı. Bu süreçte ortaya çıkan fiziksel ve dijital sistemler arasında bağlantı kurarak üretim süreçlerini insansız biçimde kurgulayabilen yeni üretim sistemleri, Dördüncü Endüstri Devrimi ya da günümüzde yaygın biçimde kullanılan adıyla Endüstri 4.0 olarak değerlendirilmeye başlandı.
+B - Dördüncü Endüstri Devrimi, 2011 yılında Almanya’da düzenlenen ve dünyanın en büyük endüstri fuarı olarak kabul edilen Hannover Fuar’ında Endüstri 4.0 kavramının kullanılması ile başladığı kabul edilir.
+C - Dördüncü Endüstri Devrimi ya da Endüstri 4.0, sanayide, genel olarak makinelerin insan gücüne gerek kalmaksızın kendilerini ve üretim süreçlerini yönetmeye başlamalarıyla ortaya çıkmıştır.
+D - Endüstri 4.0 çağında robot teknolojisi ön plana çıkmaya başlamıştır.
+E - Endüstri 4.0 olarak da nitelendirilen Dördüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler 2. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür.
+Doğru Cevap E
+Aciklama SAYISAL ÇAĞ DÖNÜMÜ Endüstri 3.0 olarak da nitelendirilen Üçüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler 2. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür.
+
+Soru 36 - Hangisi, Endüstri 4.0' ın temel ve sistematik özelliklerindendir?
+A - Üretim sürecinde makinelerin önceden yapılandırılmaya ihtiyacı vardır, bağımsız olarak her kullanım ve değişiklikte ayarlanması gerekir.
+B - Süreç izleme oldukça zor ancak her bir çalışan makine verimlilik odaklı çalışır.
+C - Akıllı makineler aracılığı ile her bir müşteri için ayrı ayrı ve birbirinden farklı ürünler üretilir.
+D - Sıradan ürünlerin üretimi kolay yapılırken, özel ürünlerin üretiminde sıkıntılar yaşanır.
+E - Envanter süreçteki değişimi dikkate alarak stoklamaya önem verilir.
+Doğru Cevap C
+Aciklama SAYISAL ÇAĞ DÖNÜMÜ Akıllı makineler aracılığı ile her bir müşteri için ayrı ayrı ve birbirinden farklı ürünler üretilir.
+
+Soru 37 - Hangisi, nesnelerin interneti (IOT) olgusunu tanımlar?
+A - Adreslenemez nesnelerin kendi aralarında oluşturduğu, yerel bir ağ ve bu ağdaki nesnelerin belirli bir protokol ile birbirleriyle iletişim içinde olmaları.
+B - Artırılmış (Augmented Reality) gerçeklik.
+C - İnsan dokunuşu ve veri girişi sayesinde cihazların, makinelerin kendi aralarında veri iletişimi yaptığı, veri topladığı ve oluşturduğu bilgi ile karar verdiği bir ağ yapısı.
+D - İnsan dokunuşuna, veri girişine ihtiyaç olmaksızın cihazların, makinelerin kendi aralarında veri iletişimi yaptığı, veri topladığı ve oluşturduğu bilgi ile karar verdiği bir ağ yapısı.
+E - Adreslenemez nesnelerin kendi aralarında oluşturduğu, evrensel yaygın bir ağ ve bu ağdaki nesnelerin belirli bir protokol ile birbirleriyle iletişim içinde olmaları.
+Doğru Cevap D
+Aciklama SAYISAL ÇAĞ DÖNÜMÜ Nesnelerin interneti, insan dokunuşuna, veri girişine ihtiyaç olmaksızın cihazların, makinelerin kendi aralarında veri iletişimi yaptığı, veri topladığı ve oluşturduğu bilgi ile karar verdiği bir ağ yapısı olarak tanımlanabilir. Bir başka tanımda ise adreslenebilir nesnelerin kendi aralarında oluşturduğu, evrensel yaygın bir ağ ve bu ağdaki nesnelerin belirli bir protokol ile birbirleriyle iletişim içinde olmaları olarak tanımlanmaktadır (Aktaş, vd. 2016, 43).
+
+Soru 38 - Sayısal fotoğrafın tarihsel gelişiminin anlaşılmasında hangisinin doğru olduğu söylenebilir?
+A - Görüntü oluşturma süreci açısından dijital teknolojiler, bir şeyin görüntüsünün kimyasal maddeler kullanılarak ışığa karşı duyarlı hâle getirilmiş bir yüzey üzerine kaydedilmesidir.
+B - Dijital fotoğrafçılıkta ve videoda, görüntüler kimyasal bir süreçler yardımıyla analog teknolojiler aracılığı ile oluşturulur, kaydedilir ve yeniden görüntülenebilir.
+C - Dijital tekniklerle görüntü oluşturma sürecinde kullanılan filmlerin yerini analog çağda sensörler almıştır.
+D - Dijital çağda filmin yüzeyindeki piksellerin yerini ışığa duyarlı gümüş tanecikler almıştır.
+E - Dijital görüntü teknolojileri ile üretilen görüntüler, piksel tabanlı görüntülerdir.
+Doğru Cevap E
+Aciklama SAYISAL FOTOĞRAF TARİHİ Dijital, modern bilgisayarların bilgiyi işleme yöntemidir. Konsept olarak basit ama uygulama olarak karmaşık olan dijital süreçte görüntüler de dahil her türlü veri “1”ler ve “0”lardan oluşan dizinlere indirgenir (McKernan, 2005: 16). Dijital görüntü, görüntülerin dijital teknolojiler kullanılarak elde edilmesini ve gösterilmesini ifade eder. Dijital fotoğrafçılıkta ve videoda, görüntüler kimyasal bir sürece gerek kalmadan dijital teknolojiler aracılığı ile oluşturulur, k...
+
+Soru 39 - Hangisi, Dijital Fotoğraf Makinelerinin avantajlarındandır?
+A - Yüz algılama modu sayesinde istenmeyen bulanık (blur) yüz ve kırmızı göz sorunlarının ortadan kalkması.
+B - Çok fazla kontrol ayarının bulunması.
+C - Fotoğrafların işlenebilmesinin bilgisayar ve görüntü işleme becerileri gerektirmesi.
+D - Dinamik aralığın daha düşük olması.
+E - Fiziksel koşullara karşı daha hassas olmaları.
+Doğru Cevap A
+Aciklama Sayısal Fotoğrafçılık Alanındaki Gelişmeler Yüz algılama modu sayesinde istenmeyen bulanık (blur) yüz ve kırmızı göz sorunlarının ortadan kalkması.
+
+Soru 40 - Hangisi, Dijital Fotoğraf Makinelerinin dezavantajlarındandır?
+A - Görüntü çözünürlüklerinin analog makinelere göre şimdilik daha düşük olması.
+B - Analog süreçteki film ve film işleme süreçlerinin ortadan kalkması.
+C - Video kayıt desteği de sunan makinelerin hareketli görüntü kaydetmeye olanak sağlaması.
+D - Önizleme özelliği sayesinde tüm poz ayarlarının sonuçlarının çekim yapılmadan önce görülebilmesi.
+E - Bazı makinelerdeki hareket algılama özelliği sayesinde yüksek hızlardaki hareketlerde istenmeyen bulanıklığın (blur) önlenmesi.
+Doğru Cevap A
+Aciklama Sayısal Fotoğrafçılık Alanındaki Gelişmeler Görüntü çözünürlüklerinin analog makinelere göre şimdilik daha düşük olması.
+
+Soru 41 - Hangisi, akılı telefon kameralarının olumlu yönleri arasında sayılamaz?
+A - Dijital kameralardan ucuz olması.
+B - Görüntüleri bulut depolama sistemine kolayca yüklenebilmesi.
+C - Ayarların hızlıca yapılabilmesi.
+D - Sağladığı alan derinliğinin fazla olması.
+E - Görüntülerin kolayca paylaşılabilmesi.
+Doğru Cevap D
+Aciklama Akıllı Telefon Fotoğrafçılığı Sağladığı alan derinliğinin fazla olması.
+
+Soru 42 - Dijital çağın doğuşunu sağlayan gelişmelerden hangisi aynı zamanda bilgisayarın icat edilmesine yol açmıştır?
+A - İnternet
+B - Transistör
+C - Optik iletişim
+D - Hafıza kartı
+E - Mikro çipler
+Doğru Cevap B
+Aciklama Soru 2, dijital çağın başlangıcını sağlayan ilk teknolojik gelişmeyi sormaktadır. Metinde, 'Dijital çağın ya da bilgi çağının doğmasına olanak sağlayan ilk teknolojik gelişme, elektronik alanında bir devrim yaratan transistör aygıtının icadıdır' denilmektedir. Transistörün icadı, bilgisayar çağını da olanaklı kılmıştır.
+
+Soru 43 - Aşağıdakilerden hangisi Endüstri 3.0'ın özelliklerinden biridir?
+A - Bulut Sistemi ve Büyük Veri ile daha çok akıllı makinenin çalıştırılması amaçlanır.
+B - Üretim sürecinde makineler birbirleriyle iletişim kurarak akıllı bir şekilde çalışır.
+C - Karar verme yetkisi yapay zekâya sahip olan robotlar vasıtasıyla gerçekleştirilir.
+D - Makineler insanın fiziksel yapısı ve işgücü temeline göre dizayn edilir.
+E - Süreç izleme neden-sonuç ilişkisi içinde kapsamlı olarak çalışır.
+Doğru Cevap D
+Aciklama Soru 5, Üçüncü Endüstri Devrimi'nin (Endüstri 3.0) karakteristik özelliğini sormaktadır. Metinde, 'Birinci ve İkinci Endüstri devrimlerinin temel niteliği makineleşme iken; bu çağın karakteristik özelliği otomasyon teknolojilerinin kullanımıdır' şeklinde bir karşılaştırma yapılmıştır.
+
+Soru 44 - Hareketli görüntünün kronolojisinde yer alan gelişmelerden hangisi diğerlerine göre daha önce gerçekleşmiştir? A) Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı. B) Renkli filmler geldi. C) Sinemaya ses geldi. D) İlk renkli televizyonlar tanıtıldı. E) Super 8 formatı, film yapımını kitleler için erişilebilir hâle getirdi.
+A - Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı.
+B - Renkli filmler geldi.
+C - Sinemaya ses geldi.
+D - İlk renkli televizyonlar tanıtıldı.
+E - Super 8 formatı, film yapımını kitleler için erişilebilir hâle getirdi.
+Doğru Cevap B
+Aciklama Hareketli görüntü kronolojisi Ünite 1'de verilmiştir. Olayların tarih sırası şöyledir: 1895: İlk sinema filmi kamerası icadı. 1916: Renkli filmler geldi (Technicolor kuruldu). 1927: Sinemaya ses geldi (Caz Şarkıcısı). 1927: Philo Farnsworth, ilk elektronik televizyon görüntüsünü yarattı. 1934: Televizyonlar piyasaya çıktı. 1954: İlk renkli televizyonlar tanıtıldı. 1965: Super 8 formatı kitleler için erişilebilir oldu. Buna göre en erken gerçekleşen olay 1916'da Renkli filmlerin gelmesidir. Philo...
+
+Soru 45 - Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?
+A - Analog yayıncılık
+B - IPTV
+C - Web TV
+D - Mobil TV
+E - Pay TV
+Doğru Cevap C
+Aciklama Ünite 1'de TV yayın türleri anlatılmıştır. Web TV (İnternet TV), açık internet ağını kullanarak sayısal televizyon hizmetleri sunan teknolojidir ve televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanır. IPTV internet protokolü kullanır ancak Web TV açık internet ağını kullanır.
+
+Soru 46 - -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
+A - İnternet
+B - Transistör
+C - Optik iletişim
+D - Hafıza kartı
+E - Mikro çipler
+Doğru Cevap B
+Aciklama Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Ünite 1'de, transistörün 1947 yılında icadının elektronik cihazlarda büyük miktardaki elektrik akımının kontrol edilmesini sağlayan anahtarlar olduğu ve bilgisayar çağını olanaklı kıldığı belirtilmektedir.
+
+Soru 47 - Aşağıdakilerden hangisi Endüstri 3.0'ın özelliklerinden biridir?
+A - Bulut Sistemi ve Büyük Veri ile daha çok akıllı makinenin çalıştırılması amaçlanır.
+B - Karar verme yetkisi yapay zekâya sahip olan robotlar vasıtasıyla gerçekleştirilir.
+C - Süreç izleme neden-sonuç ilişkisi içinde kapsamlı olarak çalışır.
+D - Üretim sürecinde makineler birbirleriyle iletişim kurarak akıllı bir şekilde çalışır.
+E - Makineler insanın fiziksel yapısı ve işgücü temeline göre dizayn edilir.
+Doğru Cevap E
+Aciklama Üçüncü Endüstri Devrimi (Endüstri 3.0), esas olarak 1970'li yıllarla birlikte etkileri hissedilmeye başlanan ve 2010'a kadar süren dönemdir. Bu çağın karakteristik özelliği otomasyon teknolojilerinin kullanımıdır ve bu dönemde ilk mikro bilgisayarlar ve dijital teknolojiler geliştirilip kullanılmaya başlanmıştır (Ünite 1).
+
+Soru 48 - İnsanların ortak aşaması ve geleceği olarak öne sürülmüş ve henüz bu aşamaya ulaşmamış olsalar da bütün toplumların ulaşacağı bir nokta olarak gösterilmektedir. Yukarıda verilen tanım aşağıdakilerden hangisine aittir?
+A - Endüstri
+B - Sanayi
+C - Kapitalizm
+D - Sayısal Çağ
+E - Endüstri toplumu
+Doğru Cevap E
+Aciklama Ünite 1'de Dijital Çağ Dönümü başlığı altında, Dördüncü Endüstri Devrimi (Endüstri 4.0) anlatılmaktadır. Bu devrimin, makinelerin insan gücü kalmaksızın kendilerini yönetmeye başlamasıyla ortaya çıktığı ve henüz tam olarak ulaşılmamış olsa da bütün toplumları etkileyeceği belirtilmektedir.
+
+Soru 49 - -------, piyasaya tümüyle hakim olmak ve onu kontrolü altında tutmak isteyen iktisadi üretim tarzıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Sayısal çağ
+B - Sanayi
+C - Kapitalizm
+D - Endüstri
+E - Sosyalizm
+Doğru Cevap C
+Aciklama Ünite 1'de Endüstri Devrimleri anlatılırken, Birinci Endüstri Devrimi'nin temel dinamiğinin teknolojik gelişmeler ve buhar makinesinin icadı olduğu belirtilmiştir. Ancak, Üçüncü Endüstri Devrimi'nin (Endüstri 3.0) karakteristik özelliğinin otomasyon teknolojilerinin kullanımı olduğu ifade edilmektedir. Dördüncü Endüstri Devrimi (Endüstri 4.0) ise makinelerin insan gücü kalmaksızın kendilerini yönetmeye başlamasıdır. Metinde bahsedilen 'piyasaya tümüyle hakim olmak ve onu kontrolü altında tutmak ...
+
+Soru 50 - Buhar makinesinin dokuma tezgahlarında kullanılmaya başlanması hangi endüstri devrimi içinde yer almaktadır?
+A - Endüstri 1.0
+B - Endüstri 3.0
+C - Endüstri 2.0
+D - Endüstri 5.0
+E - Endüstri 4.0
+Doğru Cevap A
+Aciklama Ünite 1'de Birinci Endüstri Devrimi'nin başlangıcının buhar makinesinin icadı olduğu belirtilmiştir. Buhar makinesinin icadından sonra Avrupa'da ve sonrasında Amerika'da bulunan üretim tesislerinde kullanılmaya başlanması bu devrim içinde yer alır.
+
+Soru 51 - Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?
+A - IPTV
+B - Web TV
+C - Pay TV
+D - Mobil TV
+E - Analog yayıncılık
+Doğru Cevap B
+Aciklama Ünite 1'de, Web TV (İnternet TV), açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan bir teknoloji olarak tanımlanmıştır. Bu yayın türü, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle ortaya çıkar.
+
+Soru 52 - Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
+A - Vitaphone ses sistemi
+B - VTR (Video Tape Recorder)
+C - Katot ışın tüplü elektronik televizyon
+D - Sinematograf
+E - Telstar uydusu
+Doğru Cevap B
+Aciklama 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, video kayıt teknolojisinde önemli bir adımdı.
+
+Soru 53 - Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir?
+A - Sony BMC100
+B - Sony DV-2400 Video Rover
+C - VHS (Video Home System)
+D - VTR (Video Tape Recorder)
+E - Super 8 format
+Doğru Cevap C
+Aciklama VHS (Video Home System) formatı, 1976 yılında tanıtılmış ve tüketicilerin kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlamıştır. Bu durum, Betamax'a rakip olarak öne çıkmıştır. (Ünite 1, Sayısal Video Tarihi bölümü)
+
+Soru 54 - -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukardaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
+A - Transistör
+B - Mikro çipler
+C - İnternet
+D - Hafıza kartı
+E - Optik iletişim
+Doğru Cevap A
+Aciklama Metnin 2. sayfasında, "Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur." şeklinde açıkça belirtilmiştir. Bu unsur, dijital çağın başlangıcını sağlayan ilk icatlardan biridir.
+
+Soru 55 - -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
+A - İnternet
+B - Mikro çipler
+C - Hafıza kartı
+D - Optik iletişim
+E - Transistör
+Doğru Cevap E
+Aciklama Soru, dijital çağın başlangıcına olanak tanıyan elektronik alandaki devrimsel bir icadı sormaktadır. Metinde, "Dijital Çağı Başlatan İlk İcatlar" başlığı altında, elektronik alanda bir devrim yaratanın transistör olduğu belirtilmiştir. Cümledeki tanım, transistörün işlevini tam olarak karşılamaktadır: "...transistor 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Amerikalı Bell Laboratuvarları'nda geliştirildi. Transistör, küçük bir elektrik akımı yardımıyla çok daha büyük miktard...
+
+Soru 56 - Tüketicilerin ilk kez kendi video görüntülerini kaydedip izleyebilmelerine olanak sağlayan medya formatı aşağıdakilerden hangisidir?
+A - Sony BMC100
+B - VTR (Video Tape Recorder)
+C - Sony DV-2400 Video Rover
+D - VHS (Video Home System)
+E - Super 8 format
+Doğru Cevap D
+Aciklama Ünite 1'de video kayıt teknolojileri kronolojisinde, 1976 yılında VHS (Video Home System) tanıtıldığı ve bu sayede tüketicilerin kendi video görüntülerini kaydedip izleyebilme imkânına sahip olduğu belirtilmiştir.
+
+Soru 57 - -------, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarayan yarı iletken bir devre unsurudur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakileden hangisi doğru şekilde tamamlar?
+A - Hafıza kartı
+B - Transistör
+C - İnternet
+D - Mikro çipler
+E - Optik iletişim
+Doğru Cevap B
+Aciklama Transistör, 1947 yılında Walter Houser Brattain ve John Bardeen tarafından Bell Laboratuvarları'nda geliştirilen bir yarı iletken devre unsurudur. Bu icat, küçük bir elektrik akımı yardımıyla çok daha büyük miktardaki bir elektrik akımını kontrol etmeye yarar ve bilgisayar çağının da önünü açmıştır (Ünite 1).
+
+Soru 58 - Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
+A - Sinematograf
+B - Telstar uydusu
+C - Katot ışın tüplü elektronik televizyon
+D - VTR (Video Tape Recorder)
+E - Vitaphone ses sistemi
+Doğru Cevap D
+Aciklama 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir (Ünite 1).
+
+Soru 59 - Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
+A - VTR (Video Tape Recorder)
+B - Katot ışın tüplü elektronik televizyon
+C - Vitaphone ses sistemi
+D - Sinematograf
+E - Telstar uydusu
+Doğru Cevap A
+Aciklama Televizyonda canlı yayınlar dışında bant kaydını mümkün kılan gelişme, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder - videobant kaydedici) ile gerçekleşmiştir. Bu cihaz manyetik makara bantlara kayıt yapabilmiştir. (Ünite 1, Sayısal Çağ Dönümü başlığı altındaki kronoloji)
+
+Soru 60 - Televizyonda canlı yayınlar dışında bant kaydını mümkün hâle getiren aşağıdakilerden hangisidir?
+A - Katot ışın tüplü elektronik televizyor
+B - Telstar uydusu
+C - Sinematograf
+D - Vitaphone ses sistemi
+E - VTR (Video Tape Recorder)
+Doğru Cevap E
+Aciklama Metinde belirtildiğine göre, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) ile televizyonda canlı yayınlar dışında bant kaydı mümkün hâle gelmiştir. Bu, İkinci Endüstri Devrimi (Endüstri 2.0) dönemindeki gelişmelerdendir.
+
+Unite 2
+Soru 61 - Aşağıdaki kavram ve terimlerden hangisi, bilgisayar ağları içerisinde yer alan, internet içerisinde yer alan, sanalın gerçekliği anlamına gelmektedir?
+A - Siber
+B - Full frame
+C - Analog
+D - SLR
+E - DSLR
+Doğru Cevap A
+Aciklama Siber
+
+Soru 62 - Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın avantajlarından biri değildir?
+A - Menü kullanım rahatlığı
+B - Daha geniş optik zoom aralıkları
+C - Geniş bir pozlama modu seçeneği sunması
+D - Keskin, iyi pozlanmış bir fotoğraf elde etme özelliği
+E - Flaş mesafesi yüksekliği ve güçlerinin yeterliliği
+Doğru Cevap E
+Aciklama Flaş mesafesi yüksekliği ve güçlerinin yeterliliği
+
+Soru 63 - Aşağıdakilerden hangisi, bir objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafe anlamına gelir?
+A - Enstantene
+B - Odak Uzaklığı
+C - Diyafram
+D - Obtüratör
+E - Pozometre
+Doğru Cevap B
+Aciklama Odak Uzaklığı
+
+Soru 64 - Aşağıdakilerden hangisi DSLR Fotoğraf Makinesinin özelliklerinden biri değildir?
+A - Makine iç ses çok
+B - Makine sarsıntısı az
+C - Büyük gövde
+D - Gövde içi hava hareketi var
+E - Kare hızı sınırlı
+Doğru Cevap B
+Aciklama Makine sarsıntısı az
+
+Soru 65 - Görüntüyü ham olarak çekerek üzerinde istenilen değişiklikler bilgisayar ve yazılım desteğiyle yapılabilir. Bu geniş müdahale seçeneğinin olduğu format nedir?
+A - CMOS
+B - APS-C
+C - MOS
+D - RAW
+E - CCD
+Doğru Cevap D
+Aciklama SAYISAL KOMPAKT FOTOĞRAF MAKİNELERİ VE ÖZELLİKLERİ Analog dönemdeki filmlerin yerini günümüzde sayısal negatifler almıştır. Sayısal fotoğrafla birlikte yerleşen bu kavram “Sayısal Negatif ”dir. Görüntüyü ham olarak yani “RAW” çekerek üzerinde istenilen değişiklikler bilgisayar ve yazılım desteğiyle yapılabilir. Bu geniş müdahale seçeneğinin olduğu format yani RAW’lar, negatif filme çok benzediği için bu isimle adlandırılır
+
+Soru 66 - Aşağıdakilerden hangisi Aynasız Fotoğraf Makinesinin özelliklerinden biri değildir?
+A - Makine iç sesi az
+B - Makine sarsıntısı az
+C - Gövde içi hava hareketi var
+D - Kare hızı sınırlılığı daha az
+E - Servis maliyeti düşük
+Doğru Cevap C
+Aciklama Gövde içi hava hareketi var
+
+Soru 67 - Aşağıdakilerden hangisi DSLR Fotoğraf Makinesinin özelliklerinden biridir?
+A - Ayna sistemi bulunur
+B - Lensler değiştirilemez
+C - Temizlik ve bakım kolay
+D - Yeni nesil elektronik vizör var
+E - Lensler Küçük
+Doğru Cevap A
+Aciklama Yeni nesil elektronik vizör var DSLR fotoğraf makinelerinde ayna sistemi bulunmaktadır.
+
+Soru 68 - Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine ne ad verilir?
+A - Super Zoom Özellikli Kompakt Fotoğraf Makinesi
+B - Köprü Fotoğraf Makinesi
+C - Meraklısı İçin Fotoğraf Makinesi
+D - Kompakt Fotoğraf Makinesi
+E - Tam Çerçeve DSLR Fotoğraf Makinesi
+Doğru Cevap E
+Aciklama DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir.
+
+Soru 69 - Aşağıdakilerden hangisi Aynasız Fotoğraf Makinesinin özelliklerinden biridir?
+A - Analog gelenekli optik vizör var
+B - Canlı önizleme yok
+C - Gövde içi hava hareketi var
+D - Makine iç ses çok
+E - Makine sarsıntısı az
+Doğru Cevap E
+Aciklama Makine sarsıntısı az
+
+Soru 70 - Aynasız fotoğraf makinelerinin ilk öncülü aşağıdakilerden hangisidir?
+A - Epson R-D1
+B - Leica M8
+C - Panasonic Lumix G1
+D - Olympus-EP1
+E - Sony N
+Doğru Cevap A
+Aciklama Epson R-D1
+
+Soru 71 - “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makinelerinin sensör boyutu nedir?
+A - 8.8x12.8 mm
+B - 7.7x6.6 mm
+C - 23.7x15.7 mm
+D - 8.8x6.6 mm
+E - 36x24 mm
+Doğru Cevap E
+Aciklama DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir.
+
+Soru 72 - Aşağıdakilerden hangisi DX gövde avantajlarından biri değildir?
+A - Sensör lensin verimli olan merkez kısımlarını kullanır.
+B - Maliyet olarak oldukça ucuzdurlar.
+C - Orta netlikler lenslerde her zaman daha iyi sonuç verir.
+D - El tutuş ergonomisi rahattır.
+E - Piksel büyüklüğü nedeniyle ISO performansı yüksektir.
+Doğru Cevap E
+Aciklama Piksel büyüklüğü nedeniyle ISO performansı yüksektir.
+
+Soru 73 - Aşağıdakilerden hangisi FX gövde avantajlarından biri değildir?
+A - Net alan derinliği ve bokeh kalitesi yüksektir
+B - Makro ve portrede iyi sonuç verir
+C - 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
+D - Piksel büyüklüğü nedeniyle ISO performansı yüksektir. Grenlenme daha az yaşanır
+E - Dinamik aralık daha geniştir.
+Doğru Cevap C
+Aciklama 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
+
+Soru 74 - Aşağıdaki markalardan hangisi 2004 yılında, diğer markaların büyük ARGE çalışmalarından çok önce ilk aynasız makine örneğini üretmiştir?
+A - Sony
+B - Panasonic
+C - Nikon
+D - Canon
+E - Epson
+Doğru Cevap E
+Aciklama AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Epson, 2004 yılında Canon, Nikon, Panasonic veya Sony gibi markaların büyük ARGE çalışmalarından çok önce ilk aynasız makine örneğini üretmiştir.
+
+Soru 75 - İlk Micro Four Thirds (MFT) sistem fotoğraf makinesi olan EP-1’i 2009 yılında piyasaya süren marka aşağıdakilerden hangisidir?
+A - Sony
+B - Panasonic
+C - Olympus
+D - Canon
+E - Nikon
+Doğru Cevap C
+Aciklama AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Peş peşe gelen yıllar içerisinde bir başka fotoğraf makinesi markası Olympus, ilk Micro Four Thirds (MFT) sistem fotoğraf makinesi olan EP-1’i 2009 yılında piyasaya sürmüştür. Bu ürüne Olympus “Dijital Kalem” ismini vermiştir.
+
+Soru 76 - Orta format bir kameranın en büyük dezavantajı aşağıdakilerden hangisidir?
+A - Hafif olması
+B - Pahalı olması
+C - Doğada kullanılmaması
+D - Çözünürlüğün yüksek olması
+E - Görüntü kalitesinin yüksük olması
+Doğru Cevap B
+Aciklama ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Orta format bir kameranın en büyük dezavantajı, genellikle çok pahalı olmalarıdır. Ağır ve hantal makinelerdir.
+
+Soru 77 - Dijital kameralarda, orta format sensör boyutları tipik olarak yaklaşık kaç mm'dir?
+A - 12.8x9.6 mm
+B - 17x13 mm
+C - 23.6x5.6 mm
+D - 35x24 mm
+E - 53,7 × 40,2 mm
+Doğru Cevap E
+Aciklama ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Dijital kameralarda, orta format sensör boyutları tipik olarak yaklaşık 43,8 × 32,9 mm ile 53,7 × 40,2 mm arasında değişir.
+
+Soru 78 - Standart bir gözün görme açısı kaç mm olarak kabul edilmektedir?
+A - 35 mm
+B - 40 mm
+C - 45 mm
+D - 50 mm
+E - 55 mm
+Doğru Cevap D
+Aciklama AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Standart bir gözün görme açısı 50 mm olarak kabul edilmektedir.
+
+Soru 79 - Aşağıdakilerden hangisi DSLR Digital Single Lens Refleks kameraların özelliklerinden biri değildir?
+A - Makine içi ses çok
+B - Makine sarsıntısı çok
+C - Kare hızı sınırlı
+D - Küçük gövde
+E - Servis maliyeti yüksek
+Doğru Cevap D
+Aciklama AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması
+
+Soru 80 - Aşağıdakilerden hangisi aynasız fotoğraf makinesi özelliklerinden biri değildir?
+A - Küçük gövde
+B - Gövde içi hava hareketi var
+C - Makine içi ses az
+D - Makine sarsıntısı az
+E - Lensler Küçük
+Doğru Cevap B
+Aciklama AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması
+
+Soru 81 - 1. Analog dönem için film boyutlarına göre sınıflandırma, 2. Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma, 3. Halojen, Tungsten ve Kelvin türlerine göre sınıflandırma 4. Yine sayısal kayıt ortamlarına göre sınıflandırma, 5. Makinelerin netleme detaylarına göre; sıralanan özelliklerden hangileri sayısal ve film dönemi makinelerini sınıflandıran özellikler arasında yer alır?
+A - 1, 2, 3 ve 4
+B - 2, 3, 4 ve 5
+C - 1, 2, 4 ve 5
+D - 1, 2 ve 5
+E - 2, 4 ve 5
+Doğru Cevap C
+Aciklama Analog dönem için film boyutlarına göre sınıflandırma • Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma • Yine sayısal kayıt ortamlarına göre sınıflandırma • Makinelerin netleme detaylarına göre sınıflandırma yapılabilir. 3. maddede verilen değerler makineler için değil ışık kaynaklarıyla ilgili sınıflandırmada kullanılır.
+
+Soru 82 - Bugünkü anlamda, cep telefonu üzerine entegre edilmiş fotoğraf makineleri aşağıdakilerden hangisidir?
+A - Orta format makineler
+B - Panoramik makineler
+C - SLR Makineler
+D - 4x5 inch makineler
+E - Kompakt makineler
+Doğru Cevap E
+Aciklama Basit kompakt fotoğraf makineleri bugünkü anlamda, cep telefonu üzerine entegre edilmiş fotoğraf makineleridir. Akıllı telefon kameraları (smart phone kamera), cep telefonu kamerası (cell phone camera) veya mobil cihaz fotoğraf makinesi olarak da adlandırılırlar. Doğru yanıt E seçeneğidir.
+
+Soru 83 - 1.HMI, 2. GPRS, 3. Wi/Fi, 4. 3G, 5. 4,5G Yukarıdaki teknolojilerden hangileri ile veri aktarımı hızlanırken maliyeti de azalmaktadır?
+A - 1, 2, 2 ve 4
+B - 1, 2, 3 ve 5
+C - 1, 3, 4 ve 5
+D - 2, 3, 4 ve 5
+E - 1, 2 ve 3
+Doğru Cevap D
+Aciklama GPRS, Wi/Fi, 3G, 4,5G gibi teknolojiler ile veri aktarımı hızlanıyor ve maliyeti de düşmektedir. HMI ise bir ışık teknolojisidir. Doğru yanıt D seçeneğidir.
+
+Soru 84 - Aşağıdakilerden hangisi kompakt fotoğraf makinelerinin özellikleri arasında yer almaz
+A - En güzel yanı pratikliği ve menü kullanım rahatlığıdır.
+B - Mimari çekimlerde perspektif düzeltebilen optik sistemi mevcuttur.
+C - Hafifliği ve hacmi nedeniyle bir ceket cebine koyup onu her yere götürmek mümkündür.
+D - Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür.
+E - Kablosuz bağlantıyla fotoğraflarınızı bilgisayarlarınıza indirme özelliği mevcuttur.
+Doğru Cevap B
+Aciklama Perspektif düzeltme özelliği profesyonel makinelerin sunabildiği bir optik-mekanik özelliktir. kompakt makinelerde yer almaz.
+
+Soru 85 - "Binlerce sıra ve sütuna yerleştirilmiş milyonlarca pikselden oluşur: Ne kadar çok piksel veya ışık noktası olursa, megapiksel sayısı o kadar yüksek olur ve teorik olarak çözünürlük o kadar yüksek olur." biçiminde tanımlanan nesne aşağıdakilerden hangisidir?
+A - Sensör
+B - Film
+C - Sayısal kamera
+D - Hafıza kartı
+E - Pentaprizma
+Doğru Cevap A
+Aciklama Sensör, binlerce sıra ve sütuna yerleştirilmiş milyonlarca pikselden oluşur: Ne kadar çok piksel veya ışık noktası olursa, megapiksel sayısı o kadar yüksek olur ve teorik olarak çözünürlük o kadar yüksek olur. Doğru cevap A seçeneğidir.
+
+Soru 86 - Aşağıdakilerden hangisi DSLR Makineler için olumsuzluk oluşturabilecek özellikler arasında gösterilebilir?
+A - DSLR’de lenslerin değiştirme özelliği geniş bir yelpaze sağlar.
+B - Fotoğraflar yüksek kalitededir ve büyük boyutlara baskı alındığında sorun yaşanmaz.
+C - DSLR fotoğraf makinelerinde çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
+D - DSLR fotoğraf makinelerinde tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
+E - Objektifler de eklendiğinde yurt dışı ve arazi gezilerinizde ekstra bir çanta daha taşımanızı gerektirebilir.
+Doğru Cevap E
+Aciklama Objektifler de eklendiğinde yurt dışı ve arazi gezilerinizde ekstra bir çanta daha taşımanızı gerektirebilir.
+
+Soru 87 - 1.6 krop faktörlü bir makinede kullanılan 50 mm objektifin karşılığı aşağıdaki odak uzaklıklarından hangisidir?
+A - 55
+B - 58
+C - 70
+D - 75
+E - 80
+Doğru Cevap E
+Aciklama 50x1.6=80 mm olacaktır.
+
+Soru 88 - Optik vizörün makineden kaldırılmasını sağlayan teknoloji aşağıdakilerden hangisidir?
+A - SLR makineler
+B - D-SLR makineler
+C - Aynasız makineler
+D - Sayısal arkalık makineler
+E - Orta format makineler
+Doğru Cevap C
+Aciklama SLR’lerin amatör ve profesyonel kullanıcıya getirmiş olduğu ayna sisteminin fotoğraf makinesinden kaldırılması, vizörsüz, pentaprizma içermeyen ve kompakt görünümlü olan bu yeni türün beklentileri karşılayıp karşılamayacağı ve sektörde ne derece etken olacağı bilinmiyordu. Kısacası makine boyutu küçülmüş, hafiflemiş ve neredeyse kompaktlar kadar bir boyuta ulaşmıştır.
+
+Soru 89 - Diğerlerine göre, ticari kullanımı daha fazla tanımlayan makine türü aşağıdakilerden hangisidir?
+A - Aynasız makine
+B - Orta format makine
+C - Krop faktörsüz makine
+D - Mikro 4/3 makine
+E - D-SLR makine
+Doğru Cevap B
+Aciklama Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken “Orta Format-Medium Format” kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Kısacası ticari kullanımı tanımlar. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır. Kısacası makine için ödenen büyük maliyetler karşılığı olan bir işlev i...
+
+Soru 90 - Aşağıda sıralanan ifadelerden hangisi orta format makineler için doğru değildir?
+A - Sensörlerinin küçük olması ve az yer kaplaması nedeniyle tercih edilirler
+B - Büyük ve ağır bir gövdeye sahiptir.
+C - Geleneksel modellerde modüler ve değiştirilebilir arkalıklar
+D - Yüksek çözünürlüklü renk derinliği olan görüntüler
+E - İhtiyacınız ve amacınız ölçüsünde geniş bir yelpaze sunar
+Doğru Cevap A
+Aciklama A seçeneğinin aksine, görüntü sensörü büyüklüğü nedeniyle tercih edilirler. Doğru yanıt A seçeneğidir.
+
+Soru 91 - Aşağıdakilerden hangisi analog ve sayısal dönem sınıflandırmalarından değildir?
+A - Analog dönem için film boyutlarına göre sınıflandırma
+B - Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma
+C - Yine sayısal kayıt ortamlarına göre sınıflandırma
+D - Makinelerin netleme detaylarına göre de bir sınıflandırma yapılabilir
+E - Aynasız fotoğraf makineleri
+Doğru Cevap E
+Aciklama Aynasız fotoğraf makineleri
+
+Soru 92 - Aşağıdakilerden hangisi amatörden profesyonele doğru fotoğraf makineleri sınıflandırılması değildir?
+A - Sayısal kompakt fotoğraf makineleri
+B - DSLR fotoğraf makineleri, tam çerçeve DSLR fotoğraf makineleri,
+C - Aynasız fotoğraf makineleri
+D - Orta format fotoğraf makineleri gibi isimlerle sınıflandırılırlar.
+E - kumlama (noise)
+Doğru Cevap E
+Aciklama kumlama (noise)
+
+Soru 93 - Aşağıdakilerden hangisi mobil telefonların iyileştirilmiş özelliklerinden birisi değildir?
+A - Kamera Sayılarının artması
+B - Düşük çözünürlük
+C - Optik Zoom
+D - Çok işlevli bazı tasarımlar
+E - Video Çekim
+Doğru Cevap B
+Aciklama Ünitede iyileştirilmiş özelliklere örnek olarak; Kamera Sayılarının artması, Video Çekim, Optik Zoom, Çok işlevli bazı tasarımlar ve Yüksek Çözünürlük verilmektedir. Şıklarda yer alan Düşük Çözünürlük bu durumda yanlış olacaktır. Doğru cevap B seçeneğidir.
+
+Soru 94 - Neden köprü (bridge) kameralar tercih edilir?
+A - DSLR fotoğraf makinelerinin sahip olduğu zengin kullanıcı seçenekleriyle; kompakt fotoğraf makinelerinin hafifliğini tek bir cihazda bir araya getiren köprü kameralar, teknik fotoğrafçılar tarafından tercih ediliyorlar. Bu fotoğraf makinelerinde çok güçlü lensler kullanılır. Böylece hafif bir fotoğraf makinesinde hem geniş açılı bir lens hem de telelens kullanabilme sporluğu bu makineleri oldukça çekici kılmaktadır.
+B - : Bir objektifin görüş alanının ölçümü, teknik olarak objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafe olarak adlandırılır (Prakel, 2010)
+C - Loş ışıkta rahatlıkla fotoğraf çekebilir
+D - Daha kısa pozlama süreleri kullanarak anı dondurabilir
+E - Otomatik odaklama sistemleri daha gelişmiştir
+Doğru Cevap A
+Aciklama DSLR fotoğraf makinelerinin sahip olduğu zengin kullanıcı seçenekleriyle; kompakt fotoğraf makinelerinin hafifliğini tek bir cihazda bir araya getiren köprü kameralar, teknik fotoğrafçılar tarafından tercih ediliyorlar. Bu fotoğraf makinelerinde çok güçlü lensler kullanılır. Böylece hafif bir fotoğraf makinesinde hem geniş açılı bir lens hem de telelens kullanabilme sporluğu bu makineleri oldukça çekici kılmaktadır.
+
+Soru 95 - Aşağıdakilerden hangisi DSLR Fotoğraf Makinelerinin özelliklerinden biri değildir?
+A - Loş ışıkta rahatlıkla fotoğraf çekebilir
+B - Daha kısa pozlama süreleri kullanarak anı dondurabilir
+C - Otomatik odaklama sistemleri daha gelişmiştir
+D - Konunun kalitesini artırmak için daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir
+E - Hafifliği ve küçük boyutu nedeniyle ceket cebine koyup onu her yere götürmek mümkündür
+Doğru Cevap E
+Aciklama "Hafifliği ve küçük boyutu nedeniyle ceket cebine koyup onu her yere götürmek mümkündür" Kompakt Fotoğraf Makinesi özelliklerinden biridir.
+
+Soru 96 - Aşağıdakilerden hangisi DSLR Fotoğraf Makinesi Anatomisi özelliklerinden değildir?
+A - Vizör objektiften gelen görüntüyü çekimlerinizde çerçevelemeye yarar
+B - Pentaprisma (Beşken Prizma ya da Pentaprism), aynadan gelen görüntüyü vizöre ulaştırır
+C - Otomatik odaklama sistemleri daha gelişmiştir
+D - Odaklama camı veya ekranı (Focusing screen) pentaprizmaya düşen görüntünün odaklanmasını sağlar.
+E - Yoğunlaştırıcı Optik ya da mercek (Condanser Lens) pentaprizmaya düşen görüntünün yoğunlaşarak toplanmasını sağlar
+Doğru Cevap C
+Aciklama Otomatik odaklama sistemleri daha gelişmiştir
+
+Soru 97 - Aşağıdakilerden hangisi DSLR Fotoğraf Makineleri Artılarından değildir?
+A - Tüm dijital fotoğraf makineleri arasında DSLR’ler en büyüğü ve en ağırıdır
+B - DSLR fotoğraf makineleri, body olarak adlandırılan ve makineyi tartmamıza yarayan bir gövdeden ve tak-çıkar bir lensten oluşur. DSLR’de lenslerin değiştirme özelliği geniş bir yelpaze sağlar.
+C - DSLR fotoğraf makineleri, görüntüyü çerçeve olarak kameranın kaydedeceği biçimde görmenizi sağlamak için tasarlanmıştır.
+D - Fotoğraflar yüksek kalitededir ve büyük boyutlara baskı alındığında sorun yaşamazsınız.
+E - DSLR fotoğraf makinelerinin üzerine yerleştireceğiniz lens seçenekleriyle yaratıcı çekim tekniklerinde sınır tanımazlar.
+Doğru Cevap A
+Aciklama Tüm dijital fotoğraf makineleri arasında DSLR’ler en büyüğü ve en ağırıdır
+
+Soru 98 - Aşağıdakilerden hangisi DSLR Fotoğraf Makinelerinin eksilerinden değildir?
+A - Tüm dijital fotoğraf makineleri arasında DSLR’ler en büyüğü ve en ağırıdır
+B - Ağır oldukları için el çekimlerinde el titremesinin daha az olmasını sağlarlar
+C - Özellikle lenslerde eklendiğinde yurt dışı ve arazi gezilerinizde ekstra bir çanta daha taşımanızı gerektirebilir
+D - Kadın kullanıcılar için hantal ve hacimli olduklarından, mutlaka deneyerek alınması önerilmektedir
+E - Giriş seviyesi DSLR’ler genellikle üzerinde “kit” olarak adlandırılan spor bir lensle birlikte satılır ve maliyeti kompaktlara nazaran birkaç kat daha yüksektir
+Doğru Cevap B
+Aciklama Ağır oldukları için el çekimlerinde el titremesinin daha az olmasını sağlarlar
+
+Soru 99 - Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz?
+A - Otomatik odaklama sistemleri daha gelişmiştir.
+B - Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.
+C - Daha kısa pozlama süreleri kullanarak anı dondurabilir.
+D - Loş ışıkta rahatlıkla fotoğraf çekebilir.
+E - Hafif ve pratik bir kullanım sağlar.
+Doğru Cevap E
+Aciklama Soru 6, DSLR fotoğraf makinelerinin tam çerçeve (FX) sensörlerinin avantajları arasında olmayanı sormaktadır. Metinde tam çerçeve sensörlerin 35 mm film çerçevesi boyutunda olduğu ve üst düzey makinelerde kullanıldığı belirtilmektedir. Büyük sensörlerin avantajları; daha iyi görüntü kalitesi, daha fazla detay yakalama, daha iyi performans (geniş alan derinliği vb.) iken, dezavantajları daha büyük gövde ve daha yüksek maliyettir. Metinde, 'Birçok üst düzey fotoğraf makinelerinde, 35 mm film çerçe...
+
+Soru 100 - Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken "-------." kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır.. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - DSLR fotoğraf makineleri
+B - MILC aynasız fotoğraf makineleri
+C - Orta Format(Medium) fotoğraf makineleri
+D - Basit kompak fotoğraf makineler
+E - Köprü(Bridge) fotoğraf makineleri
+Doğru Cevap C
+Aciklama Soru 7, orta format kavramının kimleri ifade ettiğini sormaktadır. Metinde, 'Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken "Orta Format-Medium Format" kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder' denilmektedir.
+
+Soru 101 - Aşağıdakilerden hangisi DSLR fotoğraf makinelerinde tam çerçeve (FX) gövdelerin dezavantajları arasında yer alır?
+A - Geniş açı lenslerde kenar keskinliklerinde bir düşüş yaşanır.
+B - Yüksek ISO hızı performansı kötüdür.
+C - Çözünürlükleri ve renk derinlikleri daha sınırlıdır.
+D - 1,5 veya 1,6 çarpanlıdırlar.
+E - Sensör küçüklüğü nedeniyle hafiftirler.
+Doğru Cevap A
+Aciklama Soru 8, tam çerçeve (FX) gövdelerin dezavantajını sormaktadır. Metinde, 'Tam çerçeve olan fotoğraf makineleri ve olmayanlar arasında ciddi bir fark bulunmaktadır... Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir' denilmekte ve ardından 'Bu makineler ağır ve hantal makinelerdir' çıkarımı yapılmaktadır. Bu, tam çerçeve sensörlerin dezavantajıdır.
+
+Soru 102 - Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır?
+A - DSLR fotoğraf makineleri
+B - Akıllı telefon fotoğraf makineleri
+C - Orta format fotoğraf makineleri
+D - Aynasız fotoğraf makineleri
+E - Sayısal arkalıklı fotoğraf makineleri
+Doğru Cevap B
+Aciklama Soru 9, basit kompakt fotoğraf makineleri kategorisinde yer alan cihazı sormaktadır. Metinde, 'Cep telefonlarına ve tabletlere entegre olanlara basit kompakt fotoğraf makinesi, smart phone camera, cell phone camera ve mobil fotoğraf makineleri gibi isimler verilebilir' denilmektedir. Bu bağlamda akıllı telefonlar (smart phone camera) bu kategoriye girer.
+
+Soru 103 - 1. Menü kullanımı rahatlığı 2. Hafif tasarıma sahip olması 3. Görüntü kalitesinin iyileştirilmiş olması 4. Küçük sensörlerinin olması Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerinin kullanım avantajları arasında yer alır?
+A - Yalnız 2
+B - 1 ve 4
+C - 1, 3 ve 4
+D - 2, 3 ve 4
+E - 1, 2, 3 ve 4
+Doğru Cevap C
+Aciklama Standart kompakt fotoğraf makineleri için verilen avantajlar arasında menü kullanımı rahatlığı (pratik kullanım ve basit menüler) ve hafif tasarıma sahip olması (avuç içi boyutlarında) yer alır. Küçük sensörlerinin olması da maliyetleri düşürmesi açısından bir özelliktir (birinci ve dördüncü maddeler). Görüntü kalitesinin iyileştirilmiş olması, özellikle büyük sensörlü/DSLR'lere kıyasla, bir avantaj olarak sayılmaz; aslında kalite/sensör boyutu dezavantajdır. Bu nedenle 1, 2 ve 4 avantajlardır. ...
+
+Soru 104 - 1. Sığ alan derinliğini kontrol etmeye olanak tanır. 2. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. 3. Hafif bir gövdeye sahiptir. 4. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar. Yukarıda verilenlerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? A) 1 ve 2 B) 2 1 ve 3 C) 1, 2 ve 3 D) 1, 2 ve 4 E) 2, 3 ve 4
+A - 1 ve 2
+B - 2 1 ve 3
+C - 1, 2 ve 3
+D - 1, 2 ve 4
+E - 2, 3 ve 4
+Doğru Cevap D
+Aciklama Orta Format Makineleri'nin tercih edilme nedenleri arasında: 1. Görüntü sensörünün büyük olması (35mm full frame'den büyük), 2. Büyük ve ağır gövdeye sahip olması (bu bir dezavantaj gibi görünse de, büyük sensörün getirdiği avantajlarla birlikte anılır), 3. İhtiyaç ve amaca göre geniş yelpaze sunması ve 5. Yüksek çözünürlüklü renk derinliği olan görüntüler sunmasıdır. Sığ alan derinliği kalitesi (1) de tercih nedenlerindendir. 3 numaralı ifade, hafif bir gövdeye sahip olma bilgisini vermez; aksi...
+
+Soru 105 - Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır? A) Aynasız fotoğraf makineleri B) DSLR fotoğraf makineleri C) Sayısal arkalıklı fotoğraf makineleri D) Orta format fotoğraf makineleri E) Akıllı telefon fotoğraf makineleri
+A - Aynasız fotoğraf makineleri
+B - DSLR fotoğraf makineleri
+C - Sayısal arkalıklı fotoğraf makineleri
+D - Orta format fotoğraf makineleri
+E - Akıllı telefon fotoğraf makineleri
+Doğru Cevap E
+Aciklama Kompakt fotoğraf makineleri, Sayısal Kompakt Fotoğraf Makineleri başlığı altında incelenmiştir. Bu kategorinin altında Basit Kompakt Fotoğraf Makineleri (Cep Telefonu Kameraları), Standart Kompakt Fotoğraf Makineleri ve Enthusiast/Köprü/Super Zoom Kompakt Fotoğraf Makineleri yer almaktadır. Akıllı telefon fotoğraf makineleri de (cell phone camera) bu grubun bir alt kategorisidir (Basit Kompakt Fotoğraf Makineleri). Diğer seçenekler (Aynasız, DSLR, Tam Çerçeve, Orta Format) ayrı kategorilerdir.
+
+Soru 106 - Aşağıdakilerden hangisi kompakt fotoğraf makinelerinin ön kısmında bulunmaktadır? A) LCD Ekran B) Büyültme Küçültme modu düğmesi C) Zamanlayıcı lambası D) Mod kadranı E) Yön tuşları
+A - LCD Ekran
+B - Büyültme Küçültme modu düğmesi
+C - Zamanlayıcı lambası
+D - Mod kadranı
+E - Yön tuşları
+Doğru Cevap C
+Aciklama Metinde Basit Kompakt Fotoğraf Makineleri (Cep Telefonu Kameraları) için 'Sabit odaklı lenslerle çalışan bu türlerde diyafram yer almamaktadır' denilmektedir. Standart Kompakt Fotoğraf Makineleri için ise 'Arka kısmında LCD bir ekran bulunan kameralardır' ifadesi geçmektedir. Bu makinelerin ön kısmında genellikle lens ve vizör (bakaç) bulunur; LCD ekran arka kısımdadır. Diğer seçenekler (B, C, D, E) genellikle daha gelişmiş makinelerde (DSLR, aynasız) daha belirgin olan veya farklı modlarda kull...
+
+Soru 107 - Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz? A) Daha kısa pozlama süreleri kullanarak anı dondurabilir. B) Loş ışıkta rahatlıkla fotoğraf çekebilir. C) Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir. D) Hafif ve pratik bir kullanım sağlar. E) Otomatik odaklama sistemleri daha gelişmiştir.
+A - Daha kısa pozlama süreleri kullanarak anı dondurabilir.
+B - Loş ışıkta rahatlıkla fotoğraf çekebilir.
+C - Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.
+D - Hafif ve pratik bir kullanım sağlar.
+E - Otomatik odaklama sistemleri daha gelişmiştir.
+Doğru Cevap D
+Aciklama DSLR'lerin büyük sensöre sahip olmasının avantajları arasında, daha fazla ışık toplama yeteneği sayesinde loş ışıkta iyi sonuçlar vermesi (B), daha az ışıkla çalışabilmesi (daha az ISO veya daha yavaş enstantane), daha iyi görüntü kalitesi ve daha sığ alan derinliği kontrolü (C) sayılabilir. Ancak büyük sensörler genellikle daha büyük, ağır ve pahalı lensler gerektirir; bu da D seçeneğindeki 'Hafif ve pratik bir kullanım sağlar' ifadesinin aksine, genellikle daha ağır olmalarına neden olur.
+
+Soru 108 - Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir? A) 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar. B) Net alan derinliği ve bokeh kalitesi yüksektir. C) Sensör lensin verimli olan merkez kısımlarını kullanırlar. D) Maliyet olarak oldukça ucuzdurlar. E) Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
+A - 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
+B - Net alan derinliği ve bokeh kalitesi yüksektir.
+C - Sensör lensin verimli olan merkez kısımlarını kullanırlar.
+D - Maliyet olarak oldukça ucuzdurlar.
+E - Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
+Doğru Cevap B
+Aciklama FX (Tam Çerçeve) sensörler, 35mm film çerçevesi boyutundadır ve odak çarpanı 1'dir. Bu büyük sensör boyutu sayesinde, DSLR ve aynasız kameralara kıyasla daha yüksek sığ alan derinliği kalitesi ve dolayısıyla daha iyi bokeh (bulanıklık) kalitesi sunarlar. Ayrıca, sensör lensin verimli olan merkez kısımlarını kullanır. Seçenek A'daki 1.5-1.6 çarpan oranı, APS-C (Krop) sensörlerin bir özelliğidir. Maliyet olarak FX gövdeler daha pahalıdır. Geniş açılarda daha az deformasyon sunabilirler ancak kenar...
+
+Soru 109 - Aşağıdakilerden hangisi film yapımını kitleler için erişilebilir hâle getirmiştir?
+A - VTR
+B - Telstar uydusu
+C - Super 8 formatı
+D - Kodak DCS-100
+E - Nikon D1
+Doğru Cevap C
+Aciklama Super 8 formatı, 1965 yılında tanıtılarak film yapımını kitleler için erişilebilir hâle getirmiştir. Ünite 2'deki kronolojide bu bilgi yer almaktadır.
+
+Soru 110 - Aşağıdakilerden hangileri "Orta Format Makineleri'nin" tercih edilme nedenleri arasında yer alır? 1. Sığ alan derinliğini kontrol etmeye olanak tanır. 2. Yüksek çözünürlüklü renk derinliği olan görüntüler sunar. 3. Hafif bir gövdeye sahiptir. 4. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar.
+A - 1 ve 2
+B - 2 ve 3
+C - 1, 2 ve 3
+D - 1, 2 ve 4
+E - 2, 3 ve 4
+Doğru Cevap D
+Aciklama Ünite 2'de Orta Format Makineleri'nin tercih edilme nedenleri (Neden Tercih Etmeliyiz?) sıralanmıştır: 1. Sığ alan derinliği kalitesi sunar (sığ alan derinliği uygulamalarında çok daha iyi bir derinlik espası sunarlar). 2. Büyük sensörler sayesinde yüksek çözünürlüklü renk derinliği olan görüntüler sunar. 3. Hafif bir gövdeye sahip olması değil, tam tersine büyük ve ağır bir gövdeye sahip olmalarıdır (Dezavantajdır). 4. İhtiyaç ve amaç ölçüsünde geniş bir yelpaze sunar (sektöre, alana ve boyutla...
+
+Soru 111 - Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın dezavantajlarından biridir?
+A - Hafifliği ve hacmi nedeniyle bir ceket cebine koyup onu her yere götürmek mümkündür.
+B - Sınırlı bir yakınlaştırma aralığına sahiplerdir.
+C - Geniş optik zoom aralıkları sunmaktadır.
+D - Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür.
+E - Kullanıcıya basitlik sunar.
+Doğru Cevap B
+Aciklama Kompakt fotoğraf makinelerinin dezavantajlarından biri, lensin gövdeyle bütünleşik olması nedeniyle tak çıkar lens kullanamamaktır. Ünite 2'de bu makinelerin lenslerinin gövdeye sabitlendiği ve bu nedenle tak çıkar lenslerinin kullanılamayacağı belirtilmiştir.
+
+Soru 112 - Aşağıdakilerden hangisi kompakt fotoğraf makinelerinin ön kısmında bulunmaktadır?
+A - Yön tuşları
+B - LCD Ekran
+C - Zamanlayıcı lambası
+D - Büyültme Küçültme modu düğmesi
+E - Mod kadranı
+Doğru Cevap C
+Aciklama Kompakt fotoğraf makinelerinin ön kısmında, lens ile gövde formu birbirine sabitlenmiştir. Ünite 2'de Standart Kompakt Fotoğraf Makineleri bölümünde 'Lens ile gövde formu birbirine sabitlenmiştir.' bilgisi yer almaktadır.
+
+Soru 113 - Aşağıdakilerden hangisi sensöre istenilen dalga boyundaki infrared ışığın ulaşmasını sağlar?
+A - Pentaprisma
+B - Yoğunlaştırıcı Optik
+C - Dijital Sensör
+D - Renkli kızılötesi filtre
+E - Vizör
+Doğru Cevap D
+Aciklama Sensöre istenilen dalga boyundaki infrared ışığın ulaşmasını sağlayan filtre, Renkli kızılötesi filtre (color and infared filter)'dir. Ünite 2'de DSLR Fotoğraf Makinesi Anatomisi başlığı altında bu bileşenin tanımı yapılmıştır.
+
+Soru 114 - Tüketiciler için üretilen ilk LCD ekranlı kamera aşağıdakilerden hangisidir?
+A - FinePix Real 3D
+B - Kodak DCS-100
+C - Nikon D1
+D - Casio QV-10
+E - Minolta RD-175
+Doğru Cevap D
+Aciklama Ünite 2'de belirtildiği gibi, tüketiciler için üretilen ilk LCD ekranlı kamera 1995 yılında üretilen Casio QV-10'dur. Bu ekranlar ön izleme ve çekilen fotoğraf karesinin görüntülenmesini sağlıyordu.
+
+Soru 115 - Fotoğrafçılık dünyasında fotoğraf makineleri sınıflandırılırken ------- kavramı genellikle profesyonel ve sektörel kullanımlarını ifade eder. Reklam sektörüne yönelik ticari çekimlerde moda çekimleri, özel stüdyo çekimleri, mimari (otel, iş merkezleri, avm vs.) çekimler, özel gün çekimleri, otomotiv çekimleri gibi daha birçok alanda profesyonel fotoğrafçılar kullanılır.. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Köprü (Bridge) fotoğraf makineleri
+B - DSLR fotoğraf makineleri
+C - MILC aynasız fotoğraf makineleri
+D - Basit kompak fotoğraf makineler
+E - Orta Format(Medium) fotoğraf makineleri
+Doğru Cevap E
+Aciklama Ünite 2'de Orta Format Fotoğraf Makineleri Özellikleri başlığı altında, fotoğraf makineleri sınıflandırılırken 'Orta Format-Medium Format' kavramının genellikle profesyonel ve sektörel kullanımları ifade ettiği belirtilmiştir. Reklam sektörü, moda çekimleri ve özel stüdyo çekimleri bu kapsamdadır.
+
+Soru 116 - Aşağıdakilerden hangisi kompakt fotoğraf makinesi kullanmanın dezavantajlarından biridir?
+A - Hafifliği ve hacmi nedeniyle bir ceket cebine koyup onu her yere götürmek mümkündür.
+B - Kullanıcıya basitlik sunar.
+C - Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür.
+D - Sınırlı bir yakınlaştırma aralığına sahiplerdir.
+E - Geniş optik zoom aralıkları sunmaktadır.
+Doğru Cevap D
+Aciklama Ünite 2'de Kompakt Fotoğraf Makineleri anlatılırken, en önemli dezavantajlarının genellikle çok pahalı olmaları (enthusiast/gelişmiş kompaktlar için) ve hantal olmaları olmadığı, aksine en büyük avantajlarının taşınabilirlik, pratik kullanım ve nispeten düşük maliyet olduğu belirtilmiştir. Dezavantaj olarak, gelişmiş kompaktlar hariç, diğer türlerinin büyük sensörlere sahip DSLR ve aynasız makinelere göre daha küçük sensörlere sahip olmaları ve bu nedenle daha düşük görüntü kalitesi sunmaları gö...
+
+Soru 117 - Aynasız fotoğraf makineleri (MILC) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+A - Optik vizör kullanırlar.
+B - Canlı Önizleme bulunur.
+C - Tamir ve maliyetleri oldukça düşüktür.
+D - DSLR'den daha az sarsıntı üretirler.
+E - Küçük ve hafif gövdelere sahiptirler.
+Doğru Cevap A
+Aciklama Ünite 2'de Aynasız Makineler başlığı altında, MILC'lerin SLR kameralardan farkının aynanın gövdeden çıkarılması olması ve bu sayede daha ince, zarif ve kompakt bir görünüm sağlaması belirtilmiştir. Bu tasarım sayesinde optik vizör yerine LCD üzerinden görüntü çerçeveleme yöntemi kullanılır. Ancak, 'Hızla bu sayısal çağ dönümünde birçok marka aynasız makine üretimine hız vermişlerdir' ifadesi doğru olmakla birlikte, Aynasız kameraların ilk öncülleri olarak Epson, Leica, Panasonic ve Olympus gibi ...
+
+Soru 118 - Aynadan gelen görüntüyü vizöre ulaştıran DSLR parçası aşağıdakilerden hangisidir?
+A - Pentaprisma
+B - Objektif
+C - Örtücü
+D - Sensör
+E - Diyafram
+Doğru Cevap A
+Aciklama Ünite 2'de DSLR Fotoğraf Makinesi Anatomisi başlığı altında, vizörden bakıldığında görüntüyü vizöre ulaştıran parçanın Pentaprisma (Beşken Prizma ya da Pentaprism) olduğu belirtilmiştir. Bu parça, aynadan gelen görüntüyü vizöre aktarır.
+
+Soru 119 - Geniş görüntüleme açısı ve yüksek kontrast oranları sunan paneller aşağıdakilerden hangisidir?
+A - TN Paneller
+B - OLED Paneller
+C - AMOLED Paneller
+D - VA Paneller
+E - IPS Paneller
+Doğru Cevap E
+Aciklama Ünite 2'de, monitörlerin TN, IPS (PLS, AHVA) ve VA paneller olmak üzere farklı formatlarda üretildiği belirtilmiştir. Genellikle IPS paneller, geniş görüntüleme açıları ve daha iyi renk doğruluğu ile bilinirken, VA paneller yüksek kontrast oranları sunar. Ancak, geniş görüntüleme açısı ve yüksek kontrast oranları sunan panel türleri arasında en çok tercih edilenler, renk doğruluğu ve geniş görüş açısı sunan IPS panellerdir. Metinde genel olarak panel türleri sayılmıştır; IPS (PLS/AHVA) geniş gör...
+
+Soru 120 - Aşağıdakilerden hangisi işletim sistemi yazılımına bir örnektir?
+A - Windows 10
+B - Chrome
+C - C++
+D - Premiere
+E - Photoshop
+Doğru Cevap A
+Aciklama Ünite 2'de işletim sistemleri; Windows, MacOS ve Linux olarak sınıflandırılmıştır. Windows, Microsoft tarafından üretilen, PC bilgisayarların kullandığı bir işletim sistemi yazılımıdır. Bu nedenle Windows bir işletim sistemi örneğidir.
+
+Soru 121 - Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
+A - Tek tuşla video özelliği kullanılabilir.
+B - Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
+C - Maliyeti kompaktlara nazaran daha ucuzdur.
+D - Tak çıkar bir lensten oluşur.
+E - Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
+Doğru Cevap C
+Aciklama DSLR (Digital Single Lens Reflex) makineler, tak-çalıştır lenslere sahiptir ve genellikle APS-C veya Full Frame sensör kullanır. Sabit odaklı lenslerle çalışmak veya lens/gövde bütünlüğü bu makinelere ait özellikler arasında yer almaz. Sabit odaklı lensler ve gövdeyle bütünleşik lensler genellikle kompakt veya köprü kameralara özgüdür.
+
+Soru 122 - Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
+A - Tak çıkar bir lensten oluşur.
+B - Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
+C - Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
+D - Tek tuşla video özelliği kullanılabilir.
+E - Maliyeti kompaktlara nazaran daha ucuzdur.
+Doğru Cevap E
+Aciklama DSLR kameralar, tak-çalıştır lenslere sahiptir ve genellikle APS-C veya tam kare sensör kullanır. Ancak, lensin gövdeyle bütünleşik olması (tak-çalıştır lens özelliğinin olmaması) köprü (bridge) kameraların bir özelliğidir, DSLR'lerin değil. Bu nedenle, lenslerin gövdeyle bütünleşik olması DSLR özelliklerinden yer almaz.
+
+Soru 123 - Aşağıdakilerden hangisi "DSLR" fotoğraf makinelerinin özellikleri arasında yer almaz?
+A - Maliyeti kompaktlara nazaran daha ucuzdur.
+B - Çekimle görüntünün kaydı arasında herhangi bir gecikme yoktur.
+C - Tek tuşla video özelliği kullanılabilir.
+D - Tak çıkar bir lensten oluşur.
+E - Tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir.
+Doğru Cevap A
+Aciklama Ünite 2'de DSLR makinelerin özellikleri anlatılmıştır. Kompakt makinelerden daha pahalıdırlar (A şıkkı yanlış). Çekim gecikmesi yoktur (B doğru). Video özelliği vardır (C doğru). Tak çıkar lenstir (D doğru). Kontrol fotoğrafçıya aittir (E doğru). Dolayısıyla, kompaktlara göre maliyetlerinin daha ucuz olması (A şıkkı) DSLR'ler için doğru değildir; genellikle daha pahalıdırlar.
+
+Soru 124 - Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin büyük sensöre sahip olmasının avantajları arasında yer almaz?
+A - Otomatik odaklama sistemleri daha gelişmiştir.
+B - Hafif ve pratik bir kullanım sağlar.
+C - Daha kısa pozlama süreleri kullanarak anı dondurabilir.
+D - Loş ışıkta rahatlıkla fotoğraf çekebilir.
+E - Daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir.
+Doğru Cevap B
+Aciklama Ünite 2'de Orta Format Fotoğraf Makineleri özelliklerinde, tam çerçeve (Full Frame) sensörlerin (DSLR ve Aynasızlarda) 35mm film boyutunu taklit ettiği ve daha büyük sensörler sayesinde büyük megapikselli görüntüler sunduğu ve renk derinliğinin etkileyici olduğu belirtilmiştir. Ancak, büyük sensörlerin en büyük dezavantajı olarak genellikle çok pahalı olmaları ve ağır/hantal olmaları gösterilmiştir. Soruda avantajı sorulduğu için, pahalı olması veya ağır olması bir avantaj değildir. Metinde avan...
+
+Soru 125 - ------- kameraların teknik özellikleri ile birlikte oldukça gelişmiştir. 100 Megapikseli aşan çözünürlükleri ile artık daha yüksek kalitede fotoğraflar elde edilebilmektedir. Ayrıca dinamik aralıkları (+,-) 3 stop aralığında zengin bir ton skalası ve renk derinliği sağlamaktadır. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - DSLR
+B - Cep telefonu
+C - Full Frame
+D - Orta format
+E - Aynasız
+Doğru Cevap D
+Aciklama Ünite 2'de Orta Format Makineleri'nin, DSLR'lere göre daha büyük sensörlere sahip olduğu ve bu sayede yüksek çözünürlüklü görüntüler sunduğu belirtilmiştir. Ayrıca renk derinliğinin etkileyici olduğu ve dinamik aralıklarının (tam çerçeve sensörlerde +,- 3 stop aralığı) DSLR'lerden daha iyi olduğu vurgulanmıştır. Bu özellikler Orta Format kameralara atfedilmiştir.
+
+Soru 126 - Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin dezavantajlarından biri değildir?
+A - Servis maliyeti yüksektir.
+B - Canlı önizleme çoktur.
+C - Lensler küçüktür.
+D - Makine sarsıntısı çoktur.
+E - Gövde içi hava hareketi vardır.
+Doğru Cevap C
+Aciklama DSLR makinelerin dezavantajları genellikle pahalı olmaları, ağır ve hantal olmalarıdır (Ünite 2). Ağır ve hantal olmaları, bütçenin uygun olmaması gibi dezavantajları varken; yüksek çözünürlüklü ve renk derinliği yüksek görüntüler sunmaları, sığ alan derinliği kalitesi sunmaları gibi avantajları vardır. Dolayısıyla, DSLR'lerin pahalı olması dezavantaj iken, kolay taşınabilir olması bir avantajdır.
+
+Soru 127 - Aşağıda yer alan cihazlardan hangisi "basit kompakt fotoğraf makineleri" içerisinde yer alır?
+A - Sayısal arkalıklı fotoğraf makineleri
+B - Orta format fotoğraf makineleri
+C - Aynasız fotoğraf makineleri
+D - Akıllı telefon fotoğraf makineleri
+E - DSLR fotoğraf makineleri
+Doğru Cevap D
+Aciklama Sayısal Kompakt Fotoğraf Makineleri altında, cep telefonlarına entegre olanlar 'Basit Kompakt Fotoğraf Makineleri' olarak adlandırılır. Metinde, "Basit Kompakt Fotoğraf Makineleri (Cep Telefonu Kameraları-Cell Phone Camera)" başlığı altında bu makinelerin cep telefonları üzerine entegre edilmiş fotoğraf makineleri olduğu belirtilmektedir. Cep telefonu (smart phone camera) bu kategorinin en iyi örneğidir.
+
+Soru 128 - 1. Menü kullanımı rahatlığı 2. Hafif tasarıma sahip olması 3. Görüntü kalitesinin iyileştirilmiş olması 4. Küçük sensörlerinin olması Yukarıdaki ifadelerden hangisi standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
+A - Yalnız 2
+B - 1 ve 4
+C - 1, 2 ve 3
+D - 1, 3 ve 4
+E - 1, 2, 3 ve 4
+Doğru Cevap C
+Aciklama Standart kompakt fotoğraf makineleri, avuç içi boyutlarında ve kullanımı kolaydır (hafif tasarıma sahip olması). Genellikle basit kullanışlı makinelerdir ve otomatik ayarları mevcuttur (1 ve 2 avantajdır). Genellikle küçük sensörlere sahiptirler (4 avantajdır), ancak büyük sensörlere sahip gelişmiş kompaktlara göre görüntü kaliteleri teorik olarak daha düşüktür. Bu makineler genellikle manuel kontrol imkânı sunmazlar veya çok sınırlıdır (3, iyileştirilmiş görüntü kalitesi ve gelişmiş kontrol bağ...
+
+Soru 129 - Aşağıdakilerden hangisi DSLR fotoğraf makinelerinin dezavantajlarından biri değildir?
+A - Canlı Önizleme yoktur.
+B - Makine sarsıntısı çoktur.
+C - Gövde içi hava hareketi vardır.
+D - Servis maliyeti yüksektir.
+E - Lensler küçüktür.
+Doğru Cevap E
+Aciklama Orta format fotoğraf makineleri ile karşılaştırıldığında DSLR'lerin en büyük dezavantajları genellikle çok pahalı olmamaları, ağır/hantal olmamaları ve menü karmaşası yaşamamalarıdır. DSLR'ler, sensör boyutları bakımından orta formattan küçük olmalarına rağmen, Full Frame sensörlü modelleri pahalıdır. Ancak, Orta Format makinelerin ana dezavantajları pahalı, ağır ve hantal olmalarıdır. DSLR'lerin en büyük dezavantajı, orta formatlara göre daha küçük sensörlere sahip olmaları ve bu nedenle görünt...
+
+Soru 130 - 1. Menü kullanımı rahatlığı 2. Hafif tasarıma sahip olması 3. Görüntü kalitesinin iyileştirilmiş olması 4. Küçük sensörlerinin olması Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
+A - Yalnız 2
+B - 1 ve 4
+C - 1, 2 ve 3
+D - 1, 3 ve 4
+E - 1, 2, 3 ve 4
+Doğru Cevap C
+Aciklama Standart kompakt fotoğraf makinelerinin avantajları Ünite 2'de listelenmiştir: Menü kullanımı rahatlığı (pratik kullanışlılık), hafifliği (avuç içi boyutlarında), küçük sensörlere sahip olması (maliyet düşüklüğü). Görüntü kalitesinin iyileştirilmiş olması (3), diğer gelişmiş makinelere kıyasla bir avantaj olarak belirtilmez; aksine çözünürlükleri yüksek görünse de büyük sensörlerle aynı çözünürlüğe sahip değillerdir. Ancak, 1 (kolay kullanım), 2 (hafiflik) ve 4 (küçük sensör) kesin avantajlardır...
+
+Soru 131 - Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir?
+A - Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
+B - Net alan derinliği ve bokeh kalitesi yüksektir.
+C - 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
+D - Sensör lensin verimli olan merkez kısımlarını kullanırlar.
+E - Maliyet olarak oldukça ucuzdurlar.
+Doğru Cevap B
+Aciklama FX (Full Frame) sensörler, 35 mm film çerçevesi boyutundadır ve APS-C sensörlerden daha büyüktür. Üst düzey fotoğraf makinelerinde kullanılırlar ve daha büyük sensör boyutu, genellikle daha iyi görüntü kalitesi, daha az gren (gürültü) ve daha sığ alan derinliği potansiyeli sunar. (Ünite 2, DSLR ve DSLR 'Tam Çerçeve' Fotoğraf Makineleri Özellikleri başlığı)
+
+Soru 132 - 1. Menü kullanımı rahatlığı 2. Hafif tasarıma sahip olması 3. Görüntü kalitesinin iyileştirilmiş olması 4. Küçük sensörlerinin olması Yukarıdaki ifadelerden hangisi veya hangileri standart kompakt fotoğraf makinelerini kullanmanın avantajları arasında yer alır?
+A - Yalnız 2
+B - 1 ve 4
+C - 1, 2 ve 3
+D - 1, 3 ve 4
+E - 1, 2, 3 ve 4
+Doğru Cevap C
+Aciklama Standart kompakt fotoğraf makineleri (bas-çek), kolay taşınabilirlik ve kullanım pratikliği sunar (1 ve 2. avantajlar). Görüntü kalitesinin iyileştirilmiş olması da genel bir avantajdır (3.). Ancak, kompakt makinelerin sensörleri DSLR ve aynasız kameralara göre daha küçüktür, bu nedenle 'Küçük sensörlerinin olması' bir avantaj değil, bir kısıtlamadır (Ünite 2'deki 'Küçük sensörlerle maliyetleri oldukça düşürülmüştür' ifadesi ile karşılaştırılabilir).
+
+Soru 133 - Aşağıdakilerden hangisi FX (Tam Çerçeve) gövde avantajlarından biridir?
+A - Net alan derinliği ve bokeh kalitesi yüksektir.
+B - Sensör lensin verimli olan merkez kısımlarını kullanırlar.
+C - 1.5 ve 1.6 çarpan oranı nedeniyle telefoto lenslerde daha fazla yakınlaştırma yaparlar.
+D - Maliyet olarak oldukça ucuzdurlar.
+E - Geniş açı ve balık gözü lenslerde kenar keskinliklerinde belirgin bir düşüş yaşanır.
+Doğru Cevap A
+Aciklama DSLR makinelerin bir kısmı 35 mm film çerçevesi boyutunda olan "tam kare-full frame" (FX) sensörler kullanır. Ünite 2'de belirtildiği gibi, Tam çerçeve olan fotoğraf makineleri, APS-C (Krop) sensörlere göre daha büyük sensör boyutuna sahiptir. Bu, daha iyi görüntü kalitesi ve daha sığ alan derinliği (daha az derinlik) elde etme avantajı sağlar.
+

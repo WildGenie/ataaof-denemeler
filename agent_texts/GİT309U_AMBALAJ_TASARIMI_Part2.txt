@@ -1,0 +1,454 @@
+AMBALAJ TASARIMI dersi ünite 3-4 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 3
+Soru 1 - PDP nedir?
+A - Ürünün etiket yapıştırılabilecek yüzeyi
+B - Ana ekran paneli
+C - Ana ekrandaki bölümlerden en üstte olanı
+D - Ürün Alanı
+E - Marka alanı
+Doğru Cevap B
+Aciklama Tasarım yüzeyi üzerinde bulunan marka kimliği ve tüm ana iletişim unsurları için ayrılmış olan ambalaj tasarımındaki alan ana ekran panelidir. Tasarım yüzeyi üzerinde bulunan ana ekran paneli, aynı zamanda başlıca ekran paneli veya PDP olarak bilinen, marka kimliği ve tüm ana iletişim unsurları için ayrılmış olan ambalaj tasarımındaki alandır.
+
+Soru 2 - Malzemelerden en fazla hangisi taşıma sırasında düzgün desteklenmezse ezilebilir veya şekil değiştirebilir?
+A - Ahşap
+B - Mukavva
+C - Plastik
+D - Cam
+E - metal
+Doğru Cevap B
+Aciklama Mukavva ezilme ve şekil değiştirmeye diğer malzemelere göre yatkındır. Mukavva malzeme de suya karşı dayanıksızdır ve nemle temas halinde kolayca zarar görebilir. Bu nedenle, mukavva ambalajların suya dayanıklı bir kaplama veya bariyer malzemesi ile korunması gerekebilir. Mukavva ambalajlar ayrıca taşıma sırasında düzgün desteklenmezse ezilebilir veya şekil değiştirebilir.
+
+Soru 3 - Aşağıdaki sorulardan hangisi ambalajın üretim ortamında zorluk yaratmadan üretilebilmesi ile ilgili değildir?
+A - Yeni ekipman satın almak yerine ambalaj boyutlarını veya formlarını (ve satış fiyatlarını) değiştirmeniz tavsiye edilir mi?
+B - Ambalaj yapısındaki değişiklikler hız, verimlilik veya ekonomi açısından iyi bir avantaj sağlamak için yeni ekipman türlerinin kullanılmasını mümkün kılar mı veya tavsiye edilir mi?
+C - Yapısal dayanımda, amaçlandığı kullanımla tutarlı mıdır?
+D - Ambalaj kırılma, kontrol gibi konularda olağandışı zorluklar getiriyor mu?
+E - Operasyonlar (üretim) tamamen mekanize, yarı otomatik mi yoksa elle mi olacak?
+Doğru Cevap C
+Aciklama C şıkkı olan “Yapısal dayanımda, amaçlandığı kullanımla tutarlı mıdır?” sorusu, üretim sırasında değil, yapısal tasarım aşamasında sorulması gereken sorulardandır. Bu nedenle doğru cevap C şıkkı olmalıdır.
+
+Soru 4 - Bir ürün ambalajı geliştirilirken sorulması gereken hangi soru yapısal özellikleri işaret etmez?
+A - Yüksek hızlarda mekanize üretimden geçecek mi?
+B - Kalitenin değer algısını adil bir piyasa fiyatına yansıtıyor mu?
+C - Depolarda ve perakende satış mağazalarında depolama koşullarında ayakta duracak mı?
+D - Gerektiğinde ambalaj ve içindekiler sterilize edilebilir mi?
+E - Ambalaj kırılma, kontrol gibi konularda olağandışı zorluklar getiriyor mu?
+Doğru Cevap B
+Aciklama bak Yapısal olarak: • Yüksek hızlarda mekanize üretimden geçecek mi? • Taşıma ve nakliye sırasında aşırı sıcaklık ve/veya soğutma koşullarına dayanabilir mi? • Depolarda ve perakende satış mağazalarında depolama koşullarında ayakta duracak mı? • Vakum, gaz veya hermetik ambalajlama gerekiyorsa, ambalaj yapısı bu tür ekipmanlar için uygun mu? • Gerektiğinde ambalaj ve içindekiler sterilize edilebilir mi?
+
+Soru 5 - Aşağıdakilerden hangisi bir ambalajın temel işlevi olan ürünü dış etkenlerden koruma amacına hizmet eden faktörler arasında yer almaz?
+A - Ambalaj malzemesi
+B - Ambalaj biçimi
+C - Ambalajın kalitesi
+D - Ambalaj boyutu
+E - Ambalaj tasarımı
+Doğru Cevap E
+Aciklama İşlevsel bir ürün olan ambalajın temel işlevi ürünü dış etkilere karşı korumaktır. Bu işlev ambalajın malzemesini, biçimini, boyutunu ve bunun gibi faktörlerini belirler. Ambalajın üzerinin tasarımı ise daha çok pazarlamaya yönelik, estetik, albenisi olan, bilgi veren, güven verici ve dikkat çekici olmak üzerinedir.
+
+Soru 6 - Bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı inceleme sürecine ne ad verilir?
+A - Marka analizi
+B - Moodboard
+C - Pazar araştırması
+D - Üretim süreci
+E - Tüketici anketleri
+Doğru Cevap A
+Aciklama Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir. Bu analiz, markanın mevcut durumunu değerlendirmek, rekabet ortamında nasıl konumlandığını anlamak ve pazarlama stratejilerini belirlemek için kullanılır.
+
+Soru 7 - Beş aşamalı keşif sürecinde hangi basamak en sonda yer alır?
+A - Bilgi toplama
+B - Sunum hazırlığı
+C - İlk eskizler
+D - İlerleme
+E - Grup eleştirisi
+Doğru Cevap B
+Aciklama Beş aşamalı keşif süreci sırasıyla bilgi toplama, ilk eskizler, grup eleştirisi, ilerleme ve sunum hazırlığı basamaklarından oluşur.
+
+Soru 8 - Potansiyel tüketicilerden oluşan bir grup toplantısı düzenleyerek, tüketicilerin paketleme tasarımıyla ilgili görüşlerini ve duygusal tepkilerini daha ayrıntılı olarak değerlendirildiği çalışmalara ne ad verilir?
+A - Pazar araştırması
+B - Tüketici anketleri
+C - Odak grupları
+D - Geri bildirim
+E - Moodboard
+Doğru Cevap C
+Aciklama Odak grupları, potansiyel tüketicilerin fikirlerini ve geri bildirimlerini toplamak için kullanılan etkili bir yöntemdir. Bir odak grup toplantısı düzenleyerek, tüketicilerin paketleme tasarımıyla ilgili görüşlerini ve duygusal tepkilerini daha ayrıntılı olarak değerlendirebilirsiniz.
+
+Soru 9 - Aşağıdaki sorulardan hangisi yedi aşamalı tasarım sürecinin seçme evresinin kontrol listesinde yer alır?
+A - Kullanıcı grubun eğitim seviyesi nedir?
+B - Fikir geliştirmek için hangi yöntemler kullanılacak?
+C - Bitmiş ürün müşteriye teslim edildi mi?
+D - Müşteri ne tür bir geri bildirim aldı veya talep etti?
+E - Tasarım hedef kitlenin duygularını harekete geçiriyor mu?
+Doğru Cevap E
+Aciklama Yedi aşamalı tasarım sürecinin 5.basamağı olan seçme evresinde, daha önceki evrelerde bulunan fikirler ve bu fikirler doğrultusunda üretilen çözümlerden bir tanesi geliştirilmek üzere seçilir. Seçme evresinin kontrol listesi şu şekildedir: • Tasarım yön bilgide tanımlanan gereksinimleri karşılıyor mu? • Tasarım hedef kitlenin duygularını harekete geçiriyor mu? • Tasarım zamanında ve bütçenin sınırları içinde üretilebilecek mi? • Hesaba katılması gereken başka etmenler var mı? • Müşteri tasarımı ...
+
+Soru 10 - 1. Tasarım yüzeyi üzerinde bulunan ana ekran panelidir. 2. Sadece marka bilgilerini içermelidir. 3. İhtiyaca göre 4 veya 5 alana bölünerek tasarlanabilir. 4. Bilgileri hiyerarşik olarak sunar. 5. Üzerinde fotoğraf, illüstrasyon, sembol benzeri ögeler taşımaz. Yukarıdaki verilen bilgilerden hangileri PDP için doğrudur?
+A - 1 ve 2
+B - 1 ve 4
+C - 2 ve 3
+D - 3 ve 4
+E - 3 ve 5
+Doğru Cevap B
+Aciklama Tasarım yüzeyi üzerinde bulunan ana ekran paneli (başlıca ekran paneli veya PDP) marka kimliği ve tüm ana iletişim unsurları için ayrılmış olan ambalaj tasarımındaki alandır. İyi tasarlanmış bir PDP marka ve ürün bilgilerini içerir ve bilgileri hiyerarşik bir şekilde sunar. İhtiyaca göre 2 veya 3 alana bölünerek tasarlanabilir. Bir PDP’nin tasarımı, tipografi, renk, imgeleme (örneğin illüstrasyonlar, fotoğraflar, semboller, grafik cihazlar ve simgeler), boyut, şekil ve yapı gibi mevcut olan tüm ...
+
+Soru 11 - Bir ürün ambalajının neme, darbelere ve sıkışmalara dayanıklı ve çevre dostu olması isteniyorsa bu ambalajın üretiminde hangi malzemenin kullanımı uygun olur?
+A - Mukavva
+B - Ahşap
+C - Cam
+D - Metal
+E - Plastik
+Doğru Cevap D
+Aciklama Metal neme, darbelere ve sıkışmalara dayanıklı ve çevre dostu bir ambalaj malzemesidir.
+
+Soru 12 - Aşağıdaki ambalaj malzemelerinden hangisi özellikle lüks ürünlerin ambalajında tercih edilir?
+A - Ahşap
+B - Kağıt
+C - Cam
+D - Karton
+E - Plastik
+Doğru Cevap A
+Aciklama Ahşap malzeme, ambalaj tasarımında doğal ve sıcak bir estetik sunan ve çevresel sürdürülebilirlik açısından tercih edilebilir bir seçenektir. Özellikle lüks ürünlerin ambalajında tercih edilir.
+
+Soru 13 - Bir ürün veya faaliyetle ilgili çevresel yükleri değerlendirmek için kullanılan prosedürler bütününe ne ad verilir?
+A - Yaşam döngüsü değerlendirmesi
+B - Genişletilmiş üretici sorumluluğu
+C - Sürdürülebilir ambalaj koalisyonu
+D - Geri dönüştürülebilir ambalaj tasarımı
+E - Tasarım etik ve sorumlulukları
+Doğru Cevap A
+Aciklama Yaşam döngüsü değerlendirmesi (LCA) bir ürün veya faaliyetle ilgili çevresel yükleri değerlendirmek için kullanılan prosedürler bütünüdür. LCA, kullanılan enerji ve malzemeleri (girdiler) ve çevreye salınan atıkları (çıktılar) tanımlayan karşılaştırmalı araçlar kullanarak bütün bir sistemi inceler ve ardından süreci iyileştirmek ve daha sürdürülebilir hale getirmek için fırsatları değerlendirir.
+
+Soru 14 - Genişletilmiş üretici sorumluluğu (EPR), hangi etkilerin sorumluluğunu tasarımcılarına, tedarikçilerine, üreticilerine, distribütörlerine, perakendecilerine, tüketicilerine, geri dönüştürücülerine ve imha edenlere yükleyen bir çevre koruma yaklaşımıdır?
+A - Ürünün veya paketin çevresel etkisinin ve tüm yaşam döngüsünün
+B - Ürün ambalajının ürünü koruma seviyesinin
+C - Ürünün ambalaj tasarımının özgünlüğünün
+D - Ürünün kendisi ve ambalaj malzemesi arasındaki olası kimyasal reaksiyonların
+E - Ürünün veya paketin boyutunun depolama, satış ve teslimat için uygunluğunun
+Doğru Cevap A
+Aciklama Genişletilmiş üretici sorumluluğu (EPR), bir ürünün veya paketin çevresel etkisinin ve tüm yaşam döngüsünün sorumluluğunu tasarımcılarına, tedarikçilerine, üreticilerine, distribütörlerine, perakendecilerine, tüketicilerine, geri dönüştürücülerine ve imha edenlere yükleyen bir çevre koruma yaklaşımıdır.
+
+Soru 15 - İlham panosu olarak kullanılan araç nedir?
+A - Foodboard
+B - Soulboard
+C - Museboard
+D - Moodboard
+E - Soultable
+Doğru Cevap D
+Aciklama MOODBOARD: Görüntüleri, malzemeleri, metni ve diğer tasarım öğelerini nihai tasarımın stilini temsil eden bir formatta düzenleyen fiziksel veya dijital kolajlardır. “mood”+”board” kelimelerinden oluşup; Türkçe karşılığı “ruh hali, duygu durumu”+ “pano” olarak çevrilir, ilham panosu olarak kullanılır. Moodboard, tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına yapılan pano...
+
+Soru 16 - Atığın olmadığı kapalı bir ambalaj sistemi nedir?
+A - Cradle to Cradle
+B - Cradle to grave
+C - LCA
+D - SPC
+E - CtG
+Doğru Cevap A
+Aciklama Braungart, paketin ilk kullanımını tasarlarken reenkarnasyon için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eder. Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir.
+
+Soru 17 - Paketin ilk kullanımını tasarlarken reenkarnasyon için tasarım yapmayı ve malzemenin bir sonraki kullanımını planlamayı tavsiye eden bilim insanı kimdir?
+A - Krasovec
+B - William McDonough
+C - Michael Braungart
+D - Ambrose
+E - Python
+Doğru Cevap C
+Aciklama Beşikten beşiğe (cradle to cradle) ise kimyager Michael Braungart ve mimar William McDonough tarafından ortaya atılan bir değerlendirme modelidir. Bu model “Atığın” olmadığı kapalı döngü bir sistemdir. Kullanım ömrünün sonundaki ambalajlar, ya bir üretim sistemi için teknik bir besin maddesi olarak ya da biyolojik olarak güvenli bir şekilde parçalanan biyolojik bir besin maddesi olarak tekrar tekrar geri dönüştürülür veya başka bir amaca uygun hale getirilir. Braungart, paketin ilk kullanımını t...
+
+Soru 18 - Hangisi stok ambalajının özelliklerinden değildir?
+A - Etiket bilgisi bulundurur
+B - Genellikle markasızdır
+C - Ürünlerin tanıtımına yönelik özel tasarımları veya baskıları bulunmaz
+D - Genellikle ekonomiklerdir
+E - Standart boyutlarda ve tasarımlarda üretilirler
+Doğru Cevap A
+Aciklama Stok ambalajı, genellikle birçok farklı ürün için kullanılabilen ve kolayca erişilebilen bir ambalaj çeşididir. Stok ambalajları genellikle markasızdır ve ürünlerin tanıtımına yönelik özel tasarımları veya baskıları bulunmaz.
+
+Soru 19 - Yönbilgi ile ilgili aşağıdakilerden hangisi tanımlayıcıdır?
+A - Henüz proje kabul edilmeden önce gerçekleşir
+B - Telefon ya da yazılı görüşme ile olur
+C - Hızlı eskiler ile fikir derlemesi yapılır
+D - Müşteri ve ajansın yüz yüze görüşmesi ile sorulara yanıt aranır
+E - Bu çalışma sadece tasarım detayları üzerine yapılır.
+Doğru Cevap D
+Aciklama Kitabımızda görüşmenin yüz yüze yapılması önerilmektedir. Proje kabul edildikten sonra müşteriyi ve talebi doğru anlamak adına müşteri ile yüz yüze bir görüşme yapılarak yönbilgi (brief) tüm detaylarıyla alınmalı, müşterinin tam olarak ne istediği iki taraf için de netleşene kadar sorular sorularak durum netleştirilmelidir.
+
+Soru 20 - Aşağıdakilerden hangisi tasarım sürecinin yedi aşamasından biri olan tanımlama ile ilgili değildir?
+A - Farklı yaklaşımlar deneyerek sınırları zorlamak ve yaratıcılığı teşvik etmek.
+B - Hedef kitlenin ihtiyaçlarını belirlemek ve rakiplerin paketleme stratejilerini incelemek için değerli bilgileri bir araya getirmek.
+C - Tüketicilerin bir ürünle ilgili algıları, ambalajın işlevselliği ve estetik beklentileri hakkında bilgi toplamak.
+D - Hedef kitleyi harekete geçirecek uyarıcı etmenler ve tasarımın başarısına engel olacak etmenler belirlemek.
+E - Müşteri ve tasarım ekibinin aynı terimleri kullandığından emin olmak.
+Doğru Cevap A
+Aciklama Kitabımızda fikir bulma aşaması için "Fikirler, çizimler, eskizler, moodboardlar veya diğer görsel araçlarla ifade edilir. Bu süreçte, farklı yaklaşımlar deneyerek sınırları zorlamak ve yaratıcılığı teşvik etmek önemlidir" denmiştir. Fikir bulma aşaması tanımlama aşamasından sonra gelir. Tanımlama: Yapılan bu tanımlama birçok noktada beş aşamalı sürece benzemektedir. İlk aşama olan tanımlama süreci müşteriden alınan yönbilgi ile başlar. Yönbilginin netleştirilmesi için bir kontrol listesi yapıla...
+
+Soru 21 - Aşağıdakilerden hangisi yazı karakterlerinin tasarımı, düzenlenmesi ve kullanımıyla ilgilenen sanat ve bilim dalıdır?
+A - Tipoloji
+B - Taksonomi
+C - Kaligrafi
+D - Tipografi
+E - Semiyoloji
+Doğru Cevap D
+Aciklama Tipografi, yazı karakterlerinin tasarımı, düzenlenmesi ve kullanımıyla ilgilenen bir sanat ve bilim dalıdır. Ünite 3'te tipografinin, metinlerin okunabilirliğini, anlaşılabilirliğini ve estetik değerini artırmak için harf şekillerinin kullanılması olduğu belirtilmiştir.
+
+Soru 22 - Ambalaj tasarımında tasarım fikri oluşturulurken pazar araştırmaları, tüketici anketleri, odak grupları, rekabet analizi ve sosyal medya analizi gibi adımları barındıran süreç aşağıdakilerden hangisidir?
+A - İnovasyon
+B - Marka analizi
+C - Yaratıcı fikir üretimi
+D - Baskı öncesi hazırlık
+E - Lojistik
+Doğru Cevap B
+Aciklama Ünite 3'te, 'Tasarım fikri, bir ürünün kimliğini yansıtan, tüketiciyi etkileyen ve marka değerini artıran bir yaklaşımı ifade eder. Tasarım fikri oluşturulurken öncelikle ürünün özellikleri ve hedef kitle belirlenmelidir... Bu noktada 5 aşamalı yaratıcı keşif sürecine geçilebilir.' denmektedir. Bu sürecin ilk aşaması olan 'Bilgi toplama', görsel ve konsept araştırmasını, iskelet tasarımını içerir. Marka analizi (B şıkkı), bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntı...
+
+Soru 23 - Aşağıdakilerden hangisi ambalaj tasarımında malzeme seçimini etkileyen faktörlerden biri değildir?
+A - Ürünü koruma
+B - Tüketici deneyimi
+C - Orijinallik
+D - Marka imajı
+E - Maliyet
+Doğru Cevap C
+Aciklama Ünite 3'te malzeme seçimini etkileyen faktörler; ürünü koruma, tüketici deneyimi, sürdürülebilirlik, marka imajı ve maliyet olarak sıralanmıştır. 'Üretilebilirlik' (Ünite 3'te ayrı bir kriter olarak belirtilmiştir) ve 'Fonksiyonel açıdan ergonomi' (Ünite 7'de detaylıca ele alınmıştır) malzeme seçimiyle doğrudan ilişkili olsa da, soruda verilen seçenekler arasında doğrudan malzeme seçimi kriteri olarak listelenmeyen bir faktör bulunmamaktadır. Ancak, malzeme seçimini etkileyen temel faktörler ara...
+
+Soru 24 - Tasarımda yaratıcı nesif sürecine ortay çıkan eskizlerin ve tasarımların bir elemanı ile yaratıcı yönetmenle paylaşıldığı, hangi tasarım unsurlarına gidilmesi gerektiğinin kararlaştırıldığı, tasarım ekibinin fikri ve eksikliklerle ilgili görüşlerini paylaştığı aşama aşağıdakilerden hangisidir?
+A - Sunum hazırlığı
+B - Bilgi toplama
+C - İlk eskizler
+D - AR-GE
+E - Grup eleştirisi
+Doğru Cevap E
+Aciklama Ortaya çıkan tüm eskizler ve konsept tasarımların, yaratıcı yönetmen (creative director) ile paylaşıldığı, hangi tasarımlar üzerinde ilerleneceğinin kararlaştırıldığı aşama 'Grup eleştirisi'dir. Ünite 3'te bu aşama, tasarım ekibinin fikirlerini söylediği ve çıkış yolları arandığı süreç olarak tanımlanmıştır.
+
+Soru 25 - Bir inçlik alandaki nokta sayısını gösteren ve baskı çözünürlüğünü ifade eden değer aşağıdakilerden hangisidir?
+A - DPI
+B - CCP
+C - MP
+D - EPS
+E - MB
+Doğru Cevap A
+Aciklama Baskı çözünürlüğünü ifade eden temel bir ölçü birimi olan 'DPI' (Dots Per Inch - İnç Başına Nokta), bir inçlik alandaki nokta sayısını gösterir. Bu terim, genellikle dijital görsellerin baskı kalitesini belirlemede kullanılır. Metinde DPI tanımı geçmemekle birlikte, tipografi ve baskı süreçleri bağlamında bu terim en uygun olanıdır.
+
+Soru 26 - Ottmar Mergenthaler tarafından 1884 yılında icat edilen, baskı teknolojisinde büyük bir ilerleme sağlayan ve dizgi açısından çığır açıcı yenilikler getiren makine aşağıdakilerden hangisidir?
+A - Serigrafi
+B - Transfer
+C - Linotip
+D - Daktilo
+E - Ofset
+Doğru Cevap C
+Aciklama Soru 27, 1884'te Ottmar Mergenthaler tarafından icat edilen ve baskı teknolojisinde çığır açan makineyi sormaktadır. Ünite 3'te, "Baskının gelişimini linotip dizgi makinesinin keşfi takip etmiştir. Linotip dizgi makinelerinin kullanılmasıyla birlikte baskı için gereken insan gücünün azaltılması..." ifadesi yer alır. Bu makine **Linotip Dizgi Makinesi**'dir.
+
+Soru 27 - Tasarım sürecinde toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin sayısı gibi unsurlar aşağıdaki araştırma türlerinden hangisine örnektir?
+A - Nitel araştırma
+B - Nicel araştırma
+C - Öznel araştırma
+D - Kesitsel araştırma
+E - Betimleyici araştırma
+Doğru Cevap B
+Aciklama Ünite 3'te belirtildiği gibi, başarılı bir ambalaj tasarımı detaylı bir araştırma süreciyle başlar. Bu araştırma süreci; ürün odaklı (nedir, içeriği ne, ne kadar) ve pazar odaklı (kitle kim, rakipler kim, dağıtım kanalları ne) soruları içerir. Toplam pazar satış değeri, yıllık satış değeri ve hedef kitlenin sayısı gibi veriler, ölçülebilir ve sayısal veriler olduğundan Nicel araştırmanın bir parçasıdır.
+
+Soru 28 - Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır?
+A - AR-GE (Araştırma - geliştirme)
+B - Yaratıcı düşünme
+C - Pazar araştırması
+D - Prototip oluşturma
+E - Marka analizi
+Doğru Cevap B
+Aciklama Ünite 3'te Tasarım Fikri başlığı altında, beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemlerin yaratıcı düşünme aşamasında yer aldığı belirtilmiştir. Bu aşama, fikirlerin kabaca bir araya getirildiği ve vizyonun görselleştirildiği yaratıcı keşif sürecinin bir parçasıdır.
+
+Soru 29 - Tasarım sürecinde toplam pazar satış değeri, yıllık satış değeri, hedef kitlenin unsurları aşağıdaki araştırma türlerinden hangisine örnektir?
+A - Kesitsel araştırma
+B - Öznel araştırma
+C - Betimleyici araştırma
+D - Nicel araştırma
+E - Nitel araştırma
+Doğru Cevap D
+Aciklama Tasarım sürecinin ilk aşaması olan Araştırma Süreci, ürünün tanınması, hedef kitlenin anlaşılması ve pazar dinamiklerinin belirlenmesi için yapılır. Toplam pazar satış değeri, yıllık satış değeri gibi veriler ürünün pazardaki konumunu anlamak için yapılan pazar araştırmasının bir parçasıdır. Bu, Ünite 3'te Araştırma Süreci başlığı altında belirtilmiştir.
+
+Soru 30 - Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemler sürecin aşağıdaki kısımlarından hangisi içinde yer alır?
+A - Marka analizi
+B - Pazar araştırması
+C - AR-GE (Araştırma - geliştirme)
+D - Prototip oluşturma
+E - Yaratıcı düşünme
+Doğru Cevap E
+Aciklama Tasarım fikri oluşturulurken yaratıcılık, marka tutarlılığı ve benzersizlik önemlidir. Beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yaratıcı keşif süreci adımları, fikirlerin kabaca bir araya getirildiği ve konseptlerin ortaya çıkarıldığı aşamalardır. Bu, Ünite 3'te 'İlk eskizler' başlığı altında açıklanmıştır.
+
+Soru 31 - Birinci baskı ile bir milyonuncu baskının kalitesinin aynı olmasına imkan sağlayan ve baskı kalıplarının diğer baskı kalıplarına göre daha dayanıklı olması ile öne çıkan baskı tekniği aşağıdakilerden hangisidir?
+A - Tifdruk
+B - Dijital Baskı
+C - Ofset / Tipografi
+D - Serigrafi
+E - Tampon baskı
+Doğru Cevap A
+Aciklama Yüksek baskı (veya Tipo Baskı), kalıpların dayanıklı olması ve baskı kalıplarının diğer baskı kalıplarına göre daha dayanıklı olması sayesinde uzun baskı serilerinde (milyonlarca baskı) aynı kaliteyi koruyabilmesiyle öne çıkar. Ünite 3'te, Tipo baskının (yüksek baskı) mekanik açıdan kalıpların diğer baskı kalıplarına göre daha dayanıklı olduğu belirtilir.
+
+Soru 32 - Aşağıdakilerden hangisi yazı karakterlerinin tasarımı, düzenlenmesi ve kullanımıyla ilgilenen sanat ve bilim dalıdır?
+A - Tipoloji
+B - Taksonomi
+C - Kaligrafi
+D - Tipografi
+E - Semiyoloji
+Doğru Cevap D
+Aciklama Tipografi, Yunanca 'typos' (izlenim) ve 'graphein' (yazmak) köklerinden türemiştir ve yazı karakterlerinin tasarımı, düzenlenmesi ve kullanımıyla ilgilenen bir sanat ve bilim dalıdır. Metinlerin okunabilirliğini ve estetik değerini artırmayı hedefler (Ünite 3).
+
+Soru 33 - Ambalaj tasarımında beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yöntemler, sürecin aşağıdaki kısımlarından hangisi içinde yer alır?
+A - Marka analizi
+B - AR-GE (Araştırma - geliştirme)
+C - Prototip oluşturma
+D - Pazar araştırması
+E - Yaratıcı düşünme
+Doğru Cevap E
+Aciklama Beyin fırtınası, eskiz çizimleri ve duygu panosu (mood board) oluşturma gibi yaratıcı yöntemler, tasarım fikrinin ortaya çıkarıldığı, vizyonun görselleştirildiği aşamalardır. Metinde bu aşamalar, 'İlk eskizler' başlığı altında, yaratıcı fikirlerin kaba bir araya getirildiği ve tasarımın stilinin ilk ipuçlarının ortaya çıktığı aşama olarak tanımlanır ve bu, 'Tasarım Fikri' sürecinin bir parçasıdır (Ünite 3).
+
+Unite 4
+Soru 34 - Aşağıdakilerden hangisi endüstri ürünleri tasarımının üzerine çalışmalar yaptığı ve kararlar aldığı konulardan biri değildir?
+A - renk
+B - üretim
+C - malzeme
+D - form
+E - fonksiyon
+Doğru Cevap A
+Aciklama Bu tarz bir ayrım yapılarak ele alındığında, endüstri ürünleri tasarımının ambalaj tasarımında malzeme, üretim, form ve fonksiyon odaklı kararlar aldığı, grafik tasarımın ise renk, görseller ve tipografi üzerine çalışmalar yaptığı ifade edilebilir.
+
+Soru 35 - Aşağıdakilerden hangisi insanlığın en ilkel zamanlardan beri çeşitli gıda veya nesneleri koruma, sarma veya taşıma amacıyla kullanılmıştır?
+A - Ambalaj
+B - Alışveriş
+C - Takas
+D - İşaretleme
+E - Markalama
+Doğru Cevap A
+Aciklama Ambalaj tasarımının tarihi incelendiğinde, insanlığın en ilkel zamanlardan beri çeşitli gıda veya nesneleri koruma, sarma veya taşıma amacıyla bir ambalaj ile çevrelediği görülmektedir.
+
+Soru 36 - Aşağıdakilerden hangisi çevresel sorunlar hakkındaki artan farkındalık birlikte yapılan üretimin sonuçlarındandır?
+A - Çevre dostu, geri dönüştürülebilir
+B - E-ticaret
+C - Estetik
+D - Digital baskı
+E - Ambalaj tasarımı
+Doğru Cevap A
+Aciklama Çevresel sorunlar hakkındaki artan farkındalıkla birlikte, tasarımcılar şimdi çevre dostu, geri dönüştürülebilir ve daha az kaynak kullanan ambalajlar oluşturma konusunda çaba sarf etmektedir.
+
+Soru 37 - Aşağıdakilerin hangisi ambalajda olacak ve müşterinin ilgisini çekecek tasarımsal özelliklerin biri değildir
+A - Etiket ile fiyat göstermeme
+B - Ürünün rakiplerinden daha iyi olduğu inancını yaratma
+C - Duyulara doğrudan hitap etme
+D - Ürün hakkında net ve alakalı bilgi sunma
+E - Raflardayken etkili bir şekilde gözü etkileme
+Doğru Cevap A
+Aciklama DuPuis ve Silva (2011, s.25), ambalajın yalnızca firma mesajlarını tüketicilere iletme görevinin ol- madığını, aynı zamanda onları markaya çekme gö- revine de sahip olduğunu belirtirken, şu tasarımsal özelliklerin ambalajda bulunmasını önerir: Ra ardayken etkili bir şekilde gözü etkileme Ürünün rakiplerinden daha iyi olduğu inancını yaratma Duyulara doğrudan hitap etme Ürün hakkında net ve alakalı bilgi sunma Tüketicileri topluluklar ile ilişkilendirme
+
+Soru 38 - Ambalaj tasarımında bir soyut fikir olarak başlayan kavramsal yaklaşımların somut bir ürün haline dönüşmesine kadar olan tüm süreçlerde aktif olarak görev alan kimlerdir?
+A - Endüstriyel tasarımcılar
+B - Grafikçiler
+C - Baskıcılar
+D - Matbaacılar
+E - İşi isteyenler
+Doğru Cevap A
+Aciklama Endüstriyel tasarımcılar, ambalaj tasarımında bir soyut fikir olarak başlayan kavramsal yaklaşımların somut bir ürün haline dönüşmesine kadar olan tüm süreçlerde aktif olarak görev alırlar.
+
+Soru 39 - Ambalajın yapısal tasarımında endüstri ürünleri tasarımcılarının aldığı kararlar aşağıdakilerden hangisi veye hangileridir 1. Malzeme seçimi 2. Form ve fonksiyon 3. Üretilebilirlik 4. Sürdürülebilirlik
+A - 1/2/3/4
+B - 1/2
+C - 1/2/4
+D - 2/4
+E - 1/4
+Doğru Cevap A
+Aciklama Görüldüğü üzere ambalaj tasarımında endüstri ürün tasarımcılarının rolü çok katmanlıdır. Ambalajın yapısal tasarımı ele alındığında, endüstri ürünleri tasarımcılarının aşağıdaki başlıklar üzerine kararlar aldığı söylenebilir: • Malzeme seçimi • Form ve fonksiyon • Üretilebilirlik • Sürdürülebilirlik
+
+Soru 40 - Ambalajlar kaç kademeli şekilde tanımlanır?
+A - 1
+B - 2
+C - 3
+D - 4
+E - 5
+Doğru Cevap C
+Aciklama Bir ürün, genellikle birden fazla ambalaj ile korunarak gönderilir. Ambalajlar birinci, ikinci ve üçüncü seviye ambalajlar olarak kademeli şekilde tanımlanır. Birinci seviye ambalajlar tüketicilerle doğrudan etkileşime geçer ve ürünü çevresel etmenlerden koruma ve ra arda ayırt edilme gibi görevleri yerine getirir. 1̇kinci seviye ambalajlar çoğunlukla ürünlerin topluca taşınabilmesine ve kolayca stoklanabilmesine olanak tanıyan mukavva kutu gibi ambalajlardır.
+
+Soru 41 - Ambalajların gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlayan kaçıncı seviye ambalajlamaktır?
+A - Üçüncü seviye ambalajlar
+B - birinci seviye ambalajlar
+C - ikinci seviye ambalajlar
+D - beşinci seviye ambalajlar
+E - dördüncü seviye ambalajlar
+Doğru Cevap A
+Aciklama Üçüncü seviye ambalajlar ise ikinci seviye ambalajların gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bü- tünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getirir. Tüketiciler üçüncü seviye ambalajlar neredeyse hiçbir zaman etkileşime geçmez.
+
+Soru 42 - Aşağıdakilerden hangisi veya hangileri gıda ambalajlarında sıklıkla seçilen malzemelerdir? 1. Cam 2. Alüminyum 3. Teneke 4. Çelik 5. Polyolefin 6. Polyester VII. PVC VIII. Polistiren IX. Poliamid X. EVA XI. PLA XII. Kağıt ve karton XIII. Laminasyon
+A - 1/2/3/4/5/6/VII/VIII/IX/X/XI/XII/XIII
+B - 1/2/3/4/5/6/VIII/IX/X/XI/XIII
+C - 1/2/4/5/6/VII/VIII/IX/X/XI/XII
+D - 1/4/5/6/VII/VIII/IX/X/XII/XIII
+E - 1/2/3/4/VII/X/XI/XII/XIII
+Doğru Cevap A
+Aciklama Gıda ambalajlarında sıklıkla seçilen malzemeler şunlardır: • Cam • Alüminyum • Teneke • Çelik • Polyolefin • Polyester • PVC • Polistiren • Poliamid • EVA • PLA • Kağıt ve karton • Laminasyon
+
+Soru 43 - Benzer özelliklere sahip nesnelerin bir arada gruplanması Gestalt hangi kuramını tanımlar?
+A - Benzerlik
+B - Yakınlık
+C - Tamamlama
+D - Süreklilik
+E - Simetri
+Doğru Cevap A
+Aciklama Benzerlik: Benzer özelliklere sahip nesnelerin bir arada gruplandığı düşünülür. Örneğin, aynı renk- teki veya aynı şekle sahip nesneler bir arada algılanır.
+
+Soru 44 - Tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına kullanılan düzenlemeye ne ad verilir?
+A - Sinopsis
+B - Storyboard
+C - Skeç
+D - Billboard
+E - Moodboard
+Doğru Cevap E
+Aciklama Ambalaj tasarımında, yapısal tasarımı belirlenmiş bir ambalajın grafik tasarım süreci, ambalajı meydana getiren ürün ve bileşenlerine göre planlanır. Grafik tasarımcılar, bu yüzeyler üzerine renkler, yazı tipleri, logolar ve diğer görsel unsurları yerleştirirler. Bu düzenlemeler, konuyu daha iyi kavramak ve görsel bir dil oluşturmak için yapılır.
+
+Soru 45 - Ambalaj tasarım sürecinde ambalajın yapısal tasarımını oluşturarak şekil, boyut ve düzeni belirleme sorumluluğu aşağıdakilerden hangisine aittir?
+A - Endüstriyel tasarımcı
+B - Üretici
+C - Tüketici
+D - Yönetici
+E - Kullanıcı arayüzü tasarımcısı
+Doğru Cevap A
+Aciklama Ambalajın yapı (konstrüksiyon) tasarımı, üç boyutlu tasarım sürecini kapsar ve bu aşamada ilk olarak ambalajın koruma ve taşıma işlevleri yerine getirilmelidir. Ünite 4'e göre, endüstriyel tasarımcılar ambalaj tasarımının yapısal ve işlevsel yönlerine odaklanır ve yapısal tasarım aşamasında ambalaj formunu, şekil, boyut ve düzenini belirlerler.
+
+Soru 46 - Ambalaj Tasarımının geniş kapsamı içerisinde ve buna bağlı olarak şekillenen farklı amaçlara yönelik bütüncül bir çözüm önerebilmesi için birçok disiplinin ortak çalışması gerekmektedir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bu disiplinlerden biri değildir?
+A - Lojistik
+B - Mimarlık
+C - Endüstriyel tasarım
+D - Pazarlama
+E - Mühendislik
+Doğru Cevap B
+Aciklama Soru 29, ambalaj tasarımının disiplinlerinin işbirliğini ve hangisinin bu disiplinlerden biri olmadığını sormaktadır. Ünite 4'te, ambalaj tasarımının yapısal ve işlevsel yönlerinin **Endüstri Ürünleri Tasarımı** ile, renk, görseller, tipografi gibi görsel ve iletişimsel yönlerinin ise **Grafik Tasarım** ile ilişkilendirildiği belirtilmiştir. Ambalaj tasarımının kendisi bu disiplinlerin kesişiminde yer alır. **Pazarlama/Reklamcılık** (Ünite 3, 7'de geçer) ise ambalajın stratejik yönünü belirlese ...
+
+Soru 47 - Ambalaj tasarım sürecinde ambalajın yapısal tasarımını oluşturarak şekil, boyut ve düzeni belirleme sorumluluğu aşağıdakilerden hangisine aittir?
+A - Üretici
+B - Tüketici
+C - Yönetici
+D - Kullanıcı arayüzü tasarımcısı
+E - Endüstriyel tasarımcı
+Doğru Cevap E
+Aciklama Ünite 4'te belirtildiği gibi, endüstriyel tasarımcılar ambalaj tasarım sürecinde yapısal tasarım aşamasında ambalajın şekil, boyut ve düzenini belirleme sorumluluğuna sahiptir. Bu süreç, malzemenin seçimi, formun geliştirilmesi, ergonomi, sürdürülebilirlik ve üretilebilirlik gibi yapısal ve işlevsel yönleri kapsar.
+
+Soru 48 - Endüstri ürünleri tasarımcılarının tüketicilerin bir fonksiyonu gerçekleştirmeyi düşünmeden yapabilmesine imkan tanıyan özellikleri tasarıma dahil etmesi yaklaşımına ne ad verilir?
+A - Sezgisel tasarım
+B - Ergonomik tasarım
+C - Etkileşimli tasarım
+D - Duyusal tasarım
+E - İnovatif tasarım
+Doğru Cevap A
+Aciklama Ünite 4'te, endüstriyel tasarımcıların ambalaj tasarımındaki görevleri arasında sezgisel tasarımın önemli olduğu belirtilmiştir. Sezgisel tasarım, tüketicilerin bir fonksiyonu gerçekleştirmeyi düşünmeden (örneğin, ambalajı kullanırken zorluk yaşamadan) yapabilmesini sağlayan, kullanıcı arayüzü odaklı bir yaklaşımdır. Bu, özellikle ergonomik ayrıntılar ve kolaylık gibi kriterlerle ilgilidir.
+
+Soru 49 - Tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına kullanılan düzenlemeye ne ad verilir?
+A - Sinopsis
+B - Storyboard
+C - Billboard
+D - Moodboard
+E - Skeç
+Doğru Cevap D
+Aciklama Ünite 4'e göre, tasarım fikri oluşturulurken yaratıcı süreçte beyin fırtınası, eskizler çizme ve 'duygu panosu (mood board) oluşturma' gibi yöntemler kullanılarak görsel fikirler kabaca bir araya getirilir. Bu düzenleme, tasarımın ilk aşamalarında konsepti şekillendirmek ve görsel dil oluşturmak için kullanılır.
+
+Soru 50 - Ambalaj tasarım sürecinde ambalajın yapısal tasarımını oluşturarak şekil, boyut ve düzeni belirleme sorumluluğu aşağıdakilerden hangisine aittir?
+A - Tüketici
+B - Endüstriyel tasarımcı
+C - Kullanıcı arayüzü tasarımcısı
+D - Üretici
+E - Yönetici
+Doğru Cevap B
+Aciklama Ünite 4'e göre, ambalaj tasarım süreci Yapısal Tasarım ve Grafik Tasarım olarak ikiye ayrılır. Yapısal Tasarım (konstrüksiyon), ambalajın üç boyutlu yapısını kapsar ve bu aşamada ilk olarak ambalajın koruma ve taşıma işlevlerinin yerine getirilmesi gerekir. Bu yapısal ve işlevsel yönlerin geliştirilmesi sorumluluğu Endüstriyel Tasarımcılara aittir.
+

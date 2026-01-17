@@ -1,0 +1,679 @@
+AMBALAJ TASARIMI dersi ünite 1-2 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 1
+Soru 1 - Plastik, kağıt, film, alüminyum folyo gibi malzemelerden hangi ambalajlar yapılır?
+A - Rijit Ambalajlar
+B - Esnek Ambalajlar
+C - Kalaylama ambalajlar
+D - Metal ambalajlar
+E - Cam ambalaj
+Doğru Cevap B
+Aciklama Ambalaj Tasarımının Tarihi Esnek Ambalajlar: Esnek ambalajlar genellikle plastik, kağıt, film, alüminyum folyo gibi malzemelerden yapılır.
+
+Soru 2 - Aşağıdaki terimlerden hangisi ucuz metallerin levha halindeyken paslanmaya karşı dirençli hale getirilmesini sağlayan kaplama tekniğidir?
+A - Karamelize
+B - Lojistik
+C - Kalaylama
+D - Kvervi
+E - Rijit
+Doğru Cevap C
+Aciklama Ambalaj Tasarımının Tarihi Kalaylama (galvanizleme), ucuz metallerin levha halindeyken paslanmaya karşı dirençli hale getirilmesini sağlayan kaplama tekniğidir.
+
+Soru 3 - Aşağıdaki terimlerden hangisi resimsel yazıyı ifade eder?
+A - Akrilonitril
+B - Rijit
+C - Stiren
+D - Piktografik
+E - Polipropilen
+Doğru Cevap D
+Aciklama Ambalaj Tasarımı Piktografik (resimsel) yazı: İdeografik yazı, fikirlerin karşı tarafa iletilmesi ihtiyacı sonrası ortaya çıkmıştır.
+
+Soru 4 - Aşağıdaki terimlerden hangisi genellikle cam, metal, sert plastik ve bazen ahşap gibi malzemelerden yapılır?
+A - Alüminyum folyo ambalajlar
+B - Film ambalajlar
+C - Kağıt ambalajlar
+D - Piktografik ambalajlar
+E - Rijit ambalajlar
+Doğru Cevap E
+Aciklama Ambalaj Tasarımı Rijit Ambalajlar: Rijit ambalajlar genellikle cam, metal, sert plastik ve bazen ahşap gibi malzemelerden yapılır.
+
+Soru 5 - Aşağıdakilerden hangisi mezopotamyalı tüccarların avuç içi büyüklüğünde kil tabletler üzerine yapılan ticari işin niteliğini tanımlamak için tercih ettiği iletişim aracıdır?
+A - Piktografik
+B - Strafor
+C - Rijit
+D - Jüt
+E - Polietilen
+Doğru Cevap A
+Aciklama Ambalaj Tasarımı Piktografik dil özellikle Mezopotamyalı tüccarların avuç içi büyüklüğünde kil tabletler üzerine yapılan ticari işin niteliğini tanımlamak için yoğunluklu olarak tercih ettiği iletişim aracı olmuştur (Tunçel, 2020).
+
+Soru 6 - Aşağıdakilerden hangisi 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir?
+A - Litografi
+B - Blok baskı
+C - Ofset baskı
+D - Dijital baskı
+E - Serigrafi
+Doğru Cevap A
+Aciklama Ambalaj Tasarımı Litografi (taş baskı), 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir.
+
+Soru 7 - 1879 yılında mukavva katlama makinesini icat eden mucit kimdir?
+A - Alois Senefelder
+B - Robert Gair
+C - Raymond Loewy
+D - Ben Nash
+E - John Vassos
+Doğru Cevap B
+Aciklama Ambalaj Tasarımı Robert Gair, 1879 yılında mukavva katlama makinesini icat etmiştir.
+
+Soru 8 - Yağ, protein ve karbonhidrat gibi doğal bileşenlerden üretilebilen yenilebilir ambalajlar tiplerine göre kaça ayrılır?
+A - İki
+B - Üç
+C - Dört
+D - Beş
+E - Altı
+Doğru Cevap D
+Aciklama Ambalaj Tasarımı Yenilebilir ambalajlar yağ, protein ve karbonhidrat gibi doğal bileşenlerden üretilebilmektedir. Chapman Üniversitesi’nin yayınladığı bir rapora (https://blogs.chapman.edu/scst/2016/01/19/edible-food-packaging) göre yenilebilir ambalaj tipleri aşağıdaki haliyle beşe ayrılır: • Gıda içine sarılmış gıda • Yenilebilir/doğada çözünür ambalaj ile eşleştirilmiş gıda • İçeriğiyle birlikte yenilebilir hazne • Yok olan ambalaj • Hızlı servis restoranlarında sunulan yenilebilir ambalaj
+
+Soru 9 - 5000 yıl önce yazılı iletişim sistemini kullanarak sakladıkları tarımsal ürünleri tanımlamak ve ticareti kolaylaştırmak için sembolik gösterimler ile piktografik yazı dilini geliştiren uygarlık hangisidir?
+A - Mezopotamyalılar
+B - Çinliler
+C - Sümerliler
+D - Asurlular
+E - Romalılar
+Doğru Cevap C
+Aciklama Ambalaj Tasarımının Tarihi Yazınsal iletişim sistemlerinin geliştirilmesi de ambalajın tarihi için önemli mihenk taşlarından biridir. Sümerliler 5000 yıl önce yazılı bir iletişim sistemi kullanarak sakladıkları tarımsal ürünleri tanımlamak ve ticareti kolaylaştırmak için kullanmışlardır (Klimchuk &amp; Krasovec, 2013, s. 1). Örneğin “buğday” için geliştirilen sembol Sümerlilerin kullandığı en erken gösterim örneklerinden biridir. Sümerliler öncelikle sembolik gösterimler ile piktografik yazı dil...
+
+Soru 10 - Aşağıdakilerden hangisi kağıdın bir ambalaj malzemesi olarak kullanılmasında ambalaj tasarımına etkilerinden birisi değildir?
+A - Çevre dostu bir seçenek olarak geri dönüştürülebilir.
+B - Hafif yapısıyla taşıma maliyetlerini azaltır.
+C - Ürünlerin şeffaf bir şekilde görünmesini sağlayarak tüketicilerin ürünü incelemesine ve kalitesini değerlendirmesine olanak tanır.
+D - Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla genellikle ekonomik bir seçenektir.
+E - Farklı şekil, boyutlara sahip esnek tasarımlarda firmaların pazarlama stratejilerine uygun bir şekilde üretilebilir.
+Doğru Cevap C
+Aciklama Cam ambalajlar, ürünlerin şeffaf bir şekilde görünmesini sağlayarak tüketicilerin ürünü incelemesine ve kalitesini değerlendirmesine olanak tanırken, ürünlerin miktarını ve durumunu görmek için ideal bir seçenektir.
+
+Soru 11 - 1929 yılında sprey tüpü icat eden Norveç'li mucitin adı nedir?
+A - Dr. David Edwards
+B - Alois Senefelder
+C - Ottmar Mergenthaler
+D - Erik Rotheim
+E - Nicholas-Louis Robert
+Doğru Cevap D
+Aciklama Sprey tüpü, 1929 yılında Norveç’te Erik Rotheim tarafından icat edilmiştir.
+
+Soru 12 - ..................... ucuz metallerin levha halindeyken paslanmaya karşı dirençli hale getirilmesini sağlayan kaplama tekniğidir. Metinde verilen boşluğa aşağıdaki seçeneklerden hangisi getirilmelidir?
+A - Kalaylama (galvanizleme)
+B - Esnek ambalajlama
+C - Rijit ambalajlama
+D - Yarı esnek ambalajlama
+E - Vakumlama
+Doğru Cevap A
+Aciklama Kalaylama (galvanizleme), ucuz metallerin levha halindeyken paslanmaya karşı dirençli hale getirilmesini sağlayan kaplama tekniğidir. Kalay kaplanmış olan yüzeyler paslanmaz ve gıdayla etkileşime geçtiğinde zehirlenmeye yol açmaz.
+
+Soru 13 - 1. Gıda içine sarılmış gıda 2. Yok olan ambalaj 3. Esnek ambalaj 4. Rijit ambalaj Yukarıdaki seçeneklerden hangileri yenilebilir ambalaj tipleri arasındadır?
+A - Yalnız 1
+B - Yalnız 4
+C - 1 - 2
+D - 2 - 3 - 4
+E - 1 - 2 - 3 - 4
+Doğru Cevap C
+Aciklama Chapman Üniversitesi’nin yayınladığı bir rapora(https://blogs.chapman.edu/scst/2016/01/19/edible-food-packaging) göre yenilebilir ambalaj tipleri aşağıdaki haliyle beşe ayrılır: • Gıda içine sarılmış gıda • Yenilebilir/doğada çözünür ambalaj ile eşleştirilmiş gıda • İçeriğiyle birlikte yenilebilir hazne • Yok olan ambalaj • Hızlı servis restoranlarında sunulan yenilebilir ambalaj
+
+Soru 14 - "Bu ambalaj içeriğindeki içeceklerle beraber tüketilebilen veya tüketim sonrası biyolojik olarak çözünebilir ambalajlardır. Loliware yenilebilir bir içecek kupası üretirken, Ooho saydam bir yenilebilir ambalaj içerisinde içme suyu sunmaktadır. Tüketiciler bu tarz konteynerlerini tüketebilir veya biyolojik olarak çözünmesini sağlayabilir." Metinde tanımlanan yenilebilir ambalaj türü aşağıdakilerden hangisidir?
+A - Yok olan ambalaj
+B - Gıda içine sarılmış gıda
+C - Hızlı servis restoranlarında sunulan yenilebilir ambalaj
+D - İçeriğiyle birlikte tüketilebilir hazneler
+E - Yenilebilir/doğada çözünür ambalaj ile eşleştirilmiş gıda
+Doğru Cevap D
+Aciklama İçeriğiyle birlikte tüketilebilir hazneler, ambalaj içeriğindeki içeceklerle beraber tüketilebilen veya tüketim sonrası biyolojik olarak çözünebilir ambalajlardır. Loliware yenilebilir bir içecek kupası üretirken, Ooho saydam bir yenilebilir ambalaj içerisinde içme suyu sunmaktadır. Tüketiciler bu tarz konteynerlerini tüketebilir veya biyolojik olarak çözünmesini sağlayabilir. Yok olan ambalajlara en iyi örnek Tide markasının ürettiği, suyla temas ettiğinde çözünerek yok olan bulaşık makinesi de...
+
+Soru 15 - .............. ikonik bir iletişim aracı olarak ürünlerin ve ürün özelliklerinin kolay anlaşılabilir ve tanımlanabilir basılı veya yansıtılmış görüntüler ile temsil edilmesinden oluşur. Metinde verilen boşluğa aşağıdaki seçeneklerden hangisi getirilmelidir?
+A - Litografi
+B - Piktoryal (resimsel) reklamcılık
+C - Serigrafi
+D - Rijit ambalaj
+E - Parşömen baskı
+Doğru Cevap B
+Aciklama Piktoryal (resimsel) reklamcılık, ikonik bir iletişim aracı olarak ürünlerin ve ürün özelliklerinin kolay anlaşılabilir ve tanımlanabilir basılı veya yansıtılmış görüntüler ile temsil edilmesinden oluşur.
+
+Soru 16 - 1. Kitlesel üretimin mümkün hale gelmesi 2. Üretimin standartlaşması 3. Markalaşma ve reklamın gelişimi 4. Tüketimin azalması Yukarıdaki maddelerden hangileri Sanayi Devrimi’nin ambalaj alanı üzerindeki etkileri arasındadır?
+A - Yalnız 2
+B - 1 - 3
+C - 2 - 4
+D - 1 - 2 - 3
+E - 1 - 2 - 3 - 4
+Doğru Cevap D
+Aciklama Sanayi Devrimi’nin ambalaj alanı üzerindeki etkilerinden en önemlileri şunlardır: • Kitlesel üretimin mümkün hale gelmesi • Üretimin standartlaşması • Markalaşma ve reklamın gelişimi • Yeni malzemeler ve teknolojilerin ortaya çıkması • Tüketimin artması
+
+Soru 17 - Aşağıdakilerden hangisi esnek ambalaj sınıfında değildir?
+A - Plastik
+B - Kağıt
+C - Film
+D - Alüminyum folyo
+E - Cam
+Doğru Cevap E
+Aciklama Esnek ambalajlar genellikle plastik, kağıt, film, alüminyum folyo gibi malzemelerden yapılır.
+
+Soru 18 - HDPE hangi malzemenin kısaltmasıdır?
+A - Düşük yoğunluklu polietilen
+B - Polietilen tereftalat
+C - Yüksek yoğunluklu polietilen
+D - Polivinil klorür
+E - Polipropilen
+Doğru Cevap C
+Aciklama HDPE :Yüksek yoğunluklu polietilen
+
+Soru 19 - 1 Ahşap 2 Mantar 3 Pamuk 4 Jüt, kenevir 5 Mukavva yukarıdaki şıklardan hangisi organik malzeme kategorisinde ambalaj malzemesi olarak kabul edilmez?
+A - 1
+B - 2
+C - 3
+D - 4
+E - 5
+Doğru Cevap E
+Aciklama Organik Malzeme : Ahşap - Mantar- Pamuk- Jüt, kenevir
+
+Soru 20 - Şampuan, şırınga gibi ürünlerin üretiminde kullanılan Polipropilen malzemesinin kısaltması aşağıdakilerden hangisidir?
+A - PET
+B - PP
+C - PVC
+D - PAP
+E - PS
+Doğru Cevap B
+Aciklama PP Polipropilen Şampuan, şırıngalar
+
+Soru 21 - 1879 yılında mukavva katlama makinesini kim icat etmiştir?
+A - Robert Gair
+B - Henry Eckstein
+C - Cracker Jack
+D - Clarence Birdseye
+E - Egbert Jacobson
+Doğru Cevap A
+Aciklama Robert Gair, 1879 yılında mukavva katlama makinesini icat etmiştir.
+
+Soru 22 - Hangi şık alışveriş sepetinin ambalaj tasarımına faydaları kapsamında yer almaz?
+A - Sürdürülebilirlik
+B - Gıdaların topluca alınabilmesi
+C - Dayanıklılık
+D - Ürün görünürlüğü
+E - Taşıma kolaylığı
+Doğru Cevap B
+Aciklama Alışveriş sepetinin ambalaj tasarımına taşıma kolaylığı, ürün görünürlüğü, dayanıklılık, yığılabilirlik ve sürdürülebilirlik açılarından faydaları olmuştur.
+
+Soru 23 - 1960’ların başlarında ortaya çıkan, tüketim kültürünü ve kitle iletişim araçlarını merkeze alan sanat hareketinin adı nedir?
+A - Teknoloji Entegrasyonu
+B - Görsel Çekicilik
+C - Marka Kimliği
+D - Pop Sanat Akımı
+E - Sembolizm
+Doğru Cevap D
+Aciklama Pop sanat akımı, 1960’ların başlarında ortaya çıkan ve tüketim kültürünü ve kitle iletişim araçlarını merkeze alan bir sanat hareketidir.
+
+Soru 24 - ABD’de kabul edilen Federal Food, Drug, and Cosmetic Act (Federal Gıda, İlaç ve Kozmetik Yasası)'nın tarihi nedir?
+A - 1960
+B - 1938
+C - 1970
+D - 1990
+E - 2000
+Doğru Cevap B
+Aciklama 1938 yılında ABD’de Federal Food, Drug, and Cosmetic Act (Federal Gıda, İlaç ve Kozmetik Yasası) kabul edilmiştir.
+
+Soru 25 - 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir. Kireçtaşı üzerine çizilen bir çizimin yağ ve suyun birbirine karışmama prensibini kullanarak yüzeylere baskı olarak uygulanmasına olanak tanıyan bir yöntemdir. Metinde tanımlanan baskı yöntemi aşağıdakilerden hangisidir?
+A - Serigrafi
+B - Blok baskı
+C - Dijital baskı
+D - Ofset baskı
+E - Litografi
+Doğru Cevap E
+Aciklama Litografi (taş baskı), 1796 yılında Alman Alois Senefelder tarafından keşfedilen baskı yöntemidir. Litografi kireçtaşı üzerine çizilen bir çizimin yağ ve suyun birbirine karışmama prensibini kullanarak yüzeylere baskı olarak uygulanmasına olanak tanımıştır.
+
+Soru 26 - 1. Benzer ve standart tasarımlara yönlendirme 2. Marka tanınırlığını arttırma 3. Dayanıklılık ve korumayı güçlendirme 4. Renkli ve görsel imkanları çoğaltma Yukarıdaki maddelerden hangileri Litografinin ambalaj tasarımına katkıları arasındadır?
+A - Yalnız 1
+B - 2 - 3
+C - 3 - 4
+D - 2 - 3 - 4
+E - 1 - 2 - 3 - 4
+Doğru Cevap D
+Aciklama Litografinin ambalaj tasarımı üzerine sağladığı faydalardan bazıları şunlardır: • Renkli ve görsel imkanlar: Litografi, yüksek kaliteli renkli baskıların yapılmasını sağlar. Bu da ambalaj tasarımcılarının ürünlerin ambalajlarını çeşitli renkler, desenler ve görsel unsurlarla zenginleştirmesini mümkün kılar. Renkli ve görsel açıdan etkileyici ambalajlar, ürünlerin raflarda dikkat çekmesini ve tüketici ilgisini çekmesini sağlar. • Marka tanınırlığı: Litografi, markaların ambalajlarını ayırt etmele...
+
+Soru 27 - 1. Ağır üretim 2. Metin işleme 3. Çeşitlilik 4. Kalitesiz baskı Yukarıdaki maddelerden hangileri Linotip dizgi makinelerinin ambalaj tasarımının gelişimine sağladığı katkıları arasındadır?
+A - Yalnız 3
+B - 1 - 4
+C - 2 - 3
+D - 1 - 3 - 4
+E - 1 - 2 - 3 - 4
+Doğru Cevap C
+Aciklama Linotip dizgi makinelerinin ambalaj tasarımının gelişimine sağladığı katkılar şöyle özetlenebilir: • Hızlı ve verimli üretim: Matbaa endüstrisindeki dizgi sürecini hızlandıran ve verimliliği arttıran linotip dizgi makinesi, ambalaj tasarımcılarına daha kısa sürede daha fazla ambalaj üretme imkanı sağlamıştır. Hızlı üretim, taleplerin hızla karşılanmasını ve sürekli bir tedarikin sağlanmasını mümkün kılmıştır. • Metin işleme ve tipografi: Metinlerin hızlı bir şekilde dizilmesini ve baskıya hazır ...
+
+Soru 28 - Alışveriş sepetinin icadı, alışveriş alışkanlıklarını ve perakende sektörünü önemli ölçüde değiştirmiştir. Alışveriş sepetinin alışveriş alışkanlıklarına etkileri şunlardır: 1. Alışveriş sepetleri, tüketicilerin daha az satın almasını teşvik eder. 2. Alışveriş sepetleri daha uzun alışveriş sürelerine neden olur. 3. Alışveriş sepetleri, tüketicilerin kendi kendine hizmet imkanını mümkün kılar. 4. Alışveriş sepetleri sayesinde mağazalar daha düzenli hale gelmiştir. 5. Alışveriş sepetleri, alışveriş sürecini daha verimli hale getirir. Yukarıdaki maddelerden hangisi yanlıştır?
+A - 1
+B - 2
+C - 3
+D - 4
+E - 5
+Doğru Cevap A
+Aciklama Alışveriş sepetinin icadı, alışveriş alışkanlıklarını ve perakende sektörünü önemli ölçüde değiştirmiştir. Alışveriş sepetinin alışveriş alışkanlıklarına etkileri şunlardır: • Alışveriş sepetleri, tüketicilerin daha fazla satın almasını teşvik eder. Alışveriş sepetleri, müşterilerin daha fazla ürün taşımasına ve satın almasına olanak tanırken, müşterilerin daha fazla ürün satın almasını teşvik eder ve perakendecilerin satışlarını artırır. • Alışveriş sepetleri daha uzun alışveriş sürelerine nede...
+
+Soru 29 - "Bir kola firması kutu içeceklerin ambalajları üzerine kullanıcı isimleri yazmıştır." Kola firmasının yaptığı ambalaj tasarımı aşağıdakilerden hangisidir?
+A - Tüketici deneyimi
+B - Ambalajda sürdürülebilirlik
+C - Görsel çekicilik
+D - Kişiselleştirme
+E - Marka kimliği
+Doğru Cevap D
+Aciklama Kişiselleştirme, tüketicilerin bireysel tercihlerine ve ihtiyaçlarına hitap eden ambalajlar, markaların hedef kitleleriyle daha derin bağlar kurmasına olanak tanımaktadır. 2015 yılında Coca Cola içecek ambalajlarının üstüne isimler yazdığı bir kişiselleştirme kampanyası yürütmüştür. Bu kampanya ambalaj tasarımında kişiselleştirme akımının ilk örneklerinden biridir.
+
+Soru 30 - 1800'lü yılların ortalarında endüstriyel plastik malzemelerin gelişimi gerçekleşmiş olsa da, 1908 yılında geliştirilen tamamen su geçirmez özelliği ile 1920'li yıllarda gıda ambalajı olarak muazzam bir başarı elde etmiştir. Transparan olma özelliği ile ambalajın içini görünür kılan bu malzeme, tüketicilerin ambalaj içerisinde ürünü doğrudan görebilmesini olanaklı kılmıştır.
+A - silikon
+B - selofan
+C - cam
+D - lateks
+E - pleksiglas
+Doğru Cevap B
+Aciklama Soru, plastiklerin tarihsel gelişimini ve gıda ambalajında transparan olarak kullanımının başlangıcını ifade etmektedir. Metin, 1800'lü yılların ortalarında endüstriyel plastiklerin geliştiğini, 1908'de geliştirilen Selofan'ın tamamen su geçirmez özelliği ile 1920'li yıllarda gıda ambalajında büyük başarı elde ettiğini belirtmektedir. Selofan'ın transparan özelliği, tüketicinin ürünü doğrudan görmesini sağlamıştır. Bu bilgi Ünite 1'de yer almaktadır.
+
+Soru 31 - Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir?
+A - İri yapraklardan yapılmış keseler
+B - Toprak kullanılarak üretilmiş çömlekler
+C - Hayvan derisinden yapılmış heybeler
+D - At kuyruğundan örülmüş çantalar
+E - Koyun tüylerinden üretilen yün heyber
+Doğru Cevap B
+Aciklama Erken dönem ambalaj türleri incelendiğinde, çömlekler ve cam kapların rijit ambalajlara örnek olduğu belirtilmiştir. MÖ 6000 yılında Gürcistan'da bulunan kvervi adı verilen toprak temelli kaplar, bilinen erken dönem çömlekçiliğine örnektir ve rijit ambalaj sınıfına girer. Cam kullanımı ise Mısırlılar tarafından MÖ 3500'lü yıllarda başlamıştır. Dolayısıyla toprak temelli kaplar (kvervi) erken dönem rijit ambalaja örnektir.
+
+Soru 32 - Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin kelimeyi temsil ettiği yazı sistemine ne ad verilir?
+A - Logografik yazı
+B - Piktografik yazı
+C - İdeografik yazı
+D - Asemik yazı
+E - Tipografik yazı
+Doğru Cevap B
+Aciklama Ünite 1'de, Sümerlilerin ilk olarak sembolik gösterimler ile piktografik yazıyı geliştirdiği belirtilmiştir. Piktografik yazı, nesneleri temsil eden semboller kullanır; kelimeleri temsil eden sabit semboller ise Logografik yazı veya Ideografik yazı ile ilgilidir. Soru, sembollerin fikir yerine kelimeyi temsil etmesinden ziyade, sabit semboller kullanılarak yazı sistemine odaklanmaktadır. Ünite 1'de, 'Sümerliler öncelikle sembolik gösterimler ile piktografik yazı dilini geliştirmişlerdir. Piktogr...
+
+Soru 33 - Aşağıdakilerden hangisi erken dönem esnek kullanılan materyallere bir örnektir?
+A - Plastik
+B - Lastik
+C - Silikon
+D - Folyon
+E - Kağıt
+Doğru Cevap E
+Aciklama Soru 23, erken dönem esnek ambalaj malzemelerini sormaktadır. Ünite 1'de, "Kumaş ve kağıt gibi malzemeler erken dönem esnek ambalajlara örnek olarak verilebilir." ifadesi geçmektedir. Dut ağacı kabuğundan üretilen erken dönem kağıtları da örneklendirilmiştir. Dolayısıyla doğru seçenek **Kumaş veya Kağıt** ile ilgili bir malzeme olmalıdır. Verilen seçenekler arasında en uygunu **Kumaş**'tır.
+
+Soru 34 - Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir?
+A - İri yapraklardan yapılmış keseler
+B - Hayvan derisinden yapılmış heybeler
+C - Toprak kullanılarak üretilmiş çömlekler
+D - At kuyruğundan örülmüş çantalar
+E - Koyun tüylerinden üretilen yün heybeler
+Doğru Cevap C
+Aciklama Soru 24, MÖ döneminde kullanılan rijit ambalajlara örneği sormaktadır. Ünite 1'de, "Çömlekler ve cam kaplar ise rijit ambalajlara örnek olarak gösterilebilir." denilmektedir. Ayrıca, "MÖ 6000 yılında Gürcistan coğrafyasında bulunmuş olan kvervi adı verilen toprak temelli kaplar da bilinen erken dönem çömlekçiliğine örnek olarak gösterilebilir." bilgisi verilmiştir. Bu kaplar içeceklerin saklanması amacıyla kullanılmıştır. Bu nedenle en uygun örnek **Çömlekler/Toprak Kaplar**'dır.
+
+Soru 35 - Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir?
+A - Piktografik yazı
+B - Logografik yazı
+C - Tipografik yazı
+D - İdeografik yazı
+E - Asemik yazı
+Doğru Cevap A
+Aciklama Ünite 1'de, Sümerlilerin sembolik gösterimler ile piktografik yazı dilini geliştirdiği belirtilmiştir. Piktografik yazı, bir fikri veya nesneyi temsil eden semboller kullanır. Logografik yazı ise kelimeleri temsil eden sabit sembollere dayanır. Soru, 'sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemi'ni sorduğu için bu, Logografik yazının tanımına daha yakındır (Ünite 1: 'Piktografik yazı sisteminde kullanılan semboller marka ve marka kimliği uygulamalarının erken dönem temsilcileri o...
+
+Soru 36 - Kelimelerin ilgili dili kullanan kişiler için sabit olduğu, sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemine ne ad verilir?
+A - İdeografik yazı
+B - Piktografik yazı
+C - Asemik yazı
+D - Logografik yazı
+E - Tipografik yazı
+Doğru Cevap B
+Aciklama Ünite 1'de, yazınsal iletişim sistemlerinin gelişimi anlatılırken, Sümerlilerin piktografik yazı ile başladığı belirtilir. Logografik (veya İdeografik) yazıda ise semboller fikir yerine doğrudan kelimeyi temsil eder. Sorunun tanımı ('sembollerin fikir yerine kelimeyi temsil ettiği yazı sistemi') Logografik/İdeografik yazıya karşılık gelir. Piktografik yazı ise nesnelerin resimleridir. Verilen şıklar ve önceki benzer soruların bağlamı göz önüne alındığında, burada genellikle yazı sistemlerinin ev...
+
+Soru 37 - Aşağıdakilerden hangisi ambalaj tasarımı tarihinin milattan önceki erken dönemlerinde kullanılan rijit ambalajlara bir örnektir?
+A - İri yapraklardan yapılmış keseler
+B - Toprak kullanılarak üretilmiş çömlekler
+C - Koyun tüylerinden üretilen yün heybeler
+D - Hayvan derisinden yapılmış heybeler
+E - At kuyruğundan örülmüş çantalar
+Doğru Cevap B
+Aciklama Ünite 1'de ambalajların tarihsel sürecinde ilk ambalajların doğal malzemelerden yapıldığı belirtilmiştir. Rijit ambalajlara örnek olarak çömlekler ve cam kaplar verilmiştir. Milattan önceki dönemlere özel olarak, MÖ 6000 yılında Gürcistan'da bulunmuş olan kvervi adı verilen toprak temelli kaplar, erken dönem çömlekçiliğine örnek olarak sunulmuştur. Bu nedenle toprak temelli kaplar (çömlekler) erken dönem rijit ambalajlara örnektir.
+
+Unite 2
+Soru 38 - Tüketici satın alma kararlarını etkileme, Marka sadakati oluşturma, Çevresel sürdürülebilirlik sağlama, Yukarıdaki faktörlerden hangisi ya da hangileri ambalaj tasarımının önemli bir parçası olarak görülmektedir?
+A - Yalnız 1
+B - 1 ve 2
+C - 1 ve 3
+D - 2 ve 3
+E - 1, 2 ve 3
+Doğru Cevap E
+Aciklama İyi bir ambalaj tasarımı, tüketici satın alma kararlarını etkileyebilir (1. öncül doğru olur), marka sadakati oluşturabilir (2. öncül doğru olur) ve ürünün değerini artırabilir. Ayrıca, çevresel sürdürülebilirlik (3. öncül doğru olur) ve ambalajın geri dönüşümü gibi faktörler de ambalaj tasarımının önemli bir parçasıdır. Bu bilgilere göre tüm öncüller doğru olur. Dolayısıyla Doğru Cevap E seçeneğidir.
+
+Soru 39 - Aşağıdakilerden hangisi ambalaj tasarımının temel amaçlarından biridir?
+A - Dikkat ve ilgi çekme
+B - Motivasyon oluşturma,
+C - Arzu ve istek uyandırma,
+D - Kullanım kolaylığı sağlama,
+E - Niyet ve hedefe uygun olma,
+Doğru Cevap D
+Aciklama Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan ilki “temel amaçlar” olarak düşünebileceğimiz: güvenlik, koruma, fiziksel dayanıklılık, bilgilendirme ve etiketleme, taşınabilirlik, kullanım kolaylığı sağlama, görünüm ve sürdürülebilirliktir. Buna göre Doğru Cevap D seçeneğidir.
+
+Soru 40 - "Optimum ambalaj boyutları ve istiflenebilirlik" ambalaj tasarımının temel amaçlarından hangisi için önemli bir faktördür?
+A - Sürdürülebilirlik
+B - Güvenlik
+C - Fiziksel dayanıklılık
+D - Taşınabilirlik
+E - Görünüm
+Doğru Cevap A
+Aciklama Ambalaj tasarımı, ürünlerin nakliye ve depolama süreçlerinde verimliliği arttırmayı hedeflemelidir. Optimum ambalaj boyutları ve istiflenebilirlik sürdürülebilirlik açısından önemli faktörlerdir. Dolayısıyla Doğru Cevap A seçeneğidir.
+
+Soru 41 - Salt işlevsel anlamıyla ambalajlama kavramı ile ambalaj tasarımını birbirinden ayıran en önemli unsur aşağıdakilerden hangisidir?
+A - Pazarlama, reklam ve satış departmanları ortaklığı
+B - Ambalaj üzerine anlam yükleme ve üretme çabası
+C - Hedef kitle ile içeriğin iletişim kurması
+D - Prototiplerin denenmesi ve test edilmesi
+E - Ambalajlamanın optimum kaynak ile gerçekleşmesi
+Doğru Cevap B
+Aciklama Ambalaj tasarımı süreci çok disiplinli bir yapıdan beslenir. Bir ambalaj tasarımcısı tüm bu alanlar ile iletişime geçebilen, bu alanlardan beslenen ve özellikle grafik tasarım ve endüstriyel tasarıma hâkim, yaratıcı süreçlerde rol alan ve üretim yapabilen bir tasarımcıdır. Salt işlevsel anlamıyla ambalajlama kavramı ile ambalaj tasarımını birbirinden ayıran en önemli unsur ambalaj üzerine anlam yükleme ve üretme çabasıdır. Bu çaba belli düzeyde profesyonellik ve deneyim gerektirir. Dolayısıyla D...
+
+Soru 42 - Nokta, Yüzey, Renk ve doku, Temel tasarım ögeleri bir bütünü oluşturan parçalardır ancak bütünden ayrıştırıldığında da kendi başlarına anlam taşırlar. Tasarım ögeleri doğal ve yapay varlıkları oluşturan materyaller olarak tanımlanırlar ve tasarım ögelerinin her insan yapısı olguda var oldukları kabul edilir. Bu bilgilere göre yukarıdakilerden hangisi ya da hangileri Temel Tasarım Ögeleri (Elemanları) arasında yer alır?
+A - Yalnız 3
+B - 1 ve 2
+C - 1 ve 3
+D - 2 ve 3
+E - 1, 2 ve 3
+Doğru Cevap E
+Aciklama İnsan yapısı nesneler nokta, çizgi, yüzey (düzlem), hacim (kütle), değer (ton), renk ve dokudan oluşur. Bu bileşenlere “Temel Tasarım Ögeleri (Elemanları)” denir. Temel tasarım ögeleri bir bütünü oluşturan parçalardır ancak bütünden ayrıştırıldığında da kendi başlarına anlam taşırlar. Tasarım ögeleri doğal ve yapay varlıkları oluşturan materyaller olarak tanımlanırlar ve tasarım ögelerinin her insan yapısı olguda var oldukları kabul edilir. Bu bilgilere göre 1., 2. ve 3. öncüller doğru olur. Dol...
+
+Soru 43 - Bir grup tasarım ögesi içerisinde birinin veya birkaçının diğerlerinden önde olması veya önce algılanması ile ilgi olan tasarım ilkesi aşağıdakilerden hangisidir?
+A - Tekrar İlkesi
+B - Hiyerarşi İlkesi
+C - Ritim İlkesi
+D - Baskınlık İlkesi
+E - Ölçü İlkesi
+Doğru Cevap D
+Aciklama Ölçü ilkesi varlıkların farklı boyut ve ebatlarda olabileceğini anlatır. Örneğin bir kompozisyonda büyük bir karenin yanında küçük bir karede olabilir. Bir bina cephesindeki pencereleri bir birim olarak düşünürseniz her bir birimin belli bir düzende birbirlerinden belli bir mesafede tanımlanmış sıra ile tekrar ettiğini görülebilir. Bu düzen eğer eşit sıklıkta ise tekdüze (monoton) bir tekrardan söz edilebilir. Bu düzende tekdüzelik belli bir kurala göre bozulursa belki dinamik, hareketli bir tek...
+
+Soru 44 - ............ İlkesine göre eğer bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre verilen ifadede boş bırakılan yere getirilmesi gereken Gestalt İlkesi aşağıdakilerden hangisidir?
+A - Yakınlık
+B - Benzerlik
+C - Tamamlama
+D - Devamlılık
+E - İyi Form
+Doğru Cevap E
+Aciklama Yakınlık ilkesine göre tasarım ögeleri algılarken birbirine yakın olanları bir grup oluşturacak şekilde algılanır. Benzerlik ilkesine göre bütünü oluşturan parçalar birbirine benziyorsa, bu parçalar birbirleriyle grup gibi algılanır. Benzerlik ilkesine göre benzer şekil, renk, ton, doku, biçim, ölçü, oran, konum sahip formlar gruplaşma eğilimindedir. Tamamlama (kapatma) ilkesine göre form üzerindeki detaylar tamamlanmasa bile izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimin...
+
+Soru 45 - Aşağıdakilerden hangisi imajların ambalaj tasarımlarında kullanılma amaçlarından biridir?
+A - Cezbedici ve kışkırtıcı deneyimler sunmak
+B - Ürünün korunmasını ve taşınmasını sağlamak
+C - Ürünleri pazara hızlı bir biçimde sunmak
+D - Ürünü rakiplerinkinden farklılaştırmak
+E - Tüketicinin ürüne olan ilgisini artırmak
+Doğru Cevap A
+Aciklama İmajlar, ambalaj tasarımlarında şu amaçlarla kullanılabilir: İçeriği ve ürün bağlamını göstermek, hedef kitleyi tasvir ve temsil etmek, renk, ton ve ruh hali sunmak, güvenilirlik sağlamak; marka değerini göstermek, duyuları tetiklemek; cezbedici ve kışkırtıcı deneyimler sunmak. Bu bilgilere göre Doğru Cevap A seçeneğidir.
+
+Soru 46 - Aşağıdakilerden hangisi şaşırtıcı ambalajların ortak özelliklerinden biri değildir?
+A - İlgili ürün kategori içinde ürüne olan algıyı yükseltir.
+B - Farklı seviyelerde tüketici gruplarını ve paralel hedef kitleyi ürüne çeker.
+C - Önerdiği yaklaşımıyla yenilikçi ve çığır açıcıdır.
+D - Tüketicisine duygusal olarak dokunur.
+E - Marka ve ambalaj ve içeriğin birbirinden ayırt edilmesini sağlar.
+Doğru Cevap E
+Aciklama Şaşırtıcı ambalajların ortak özellikleri şöyle listelenebilir: • İlgili ürün kategori içinde ürüne olan algıyı yükseltir. • Farklı seviyelerde tüketici gruplarını ve paralel hedef kitleyi ürüne çeker. • Önerdiği yaklaşımıyla yenilikçi ve çığır açıcıdır. • Marka ve ambalaj ve içeriğin birbiriyle iç içe olmasını, ayrılamaz hale gelmesini sağlar. • Birbirine benzeyen onlarca ambalaj arasında öne çıkar. • Tüketicisine duygusal olarak dokunur. Bu bilgilere göre "Marka ve ambalaj ve içeriğin birbirind...
+
+Soru 47 - Kaynak ile hedef arasındaki veri kaybını önlemek, Başarılı iletişimi sağlamak, Ambalaj ve içeriği ile ilgili duygusal bağ oluşturmak, Yukarıdakilerden hangisi ya da hangileri Shannon ve Weaver modelinin önerdiği amaç ya da amaçlar arasında yer alır?
+A - Yalnız 2
+B - 1 ve 2
+C - 1 ve 3
+D - 2 ve 3
+E - 1, 2 ve 3
+Doğru Cevap B
+Aciklama Shannon ve Weaver modelinin önerdiği amaç, kaynak ile hedef arasındaki veri kaybını önlemek ve başarılı iletişimi sağlamaktır. Bu bilgilere göre 1. ve 2. öncüller doğru, 3. öncül yanlış olmaktadır. Bu nedenle Doğru Cevap B seçeneğidir.
+
+Soru 48 - Aşağıdakilerden hangisi veya hangileri ambalajlama eylemlerindendir? 1-Koruma 2- Taşıma 3- Saklama 4- Depolama
+A - 1-2-3-4
+B - 1-2
+C - 1-4
+D - 2-3
+E - 1-2-4
+Doğru Cevap A
+Aciklama Ambalaj sardığı ve/veya kapsadığı içeriği tutan, koruyan, taşıyan, saklayan, depolanmasını sağlayan kabuk veya ara kesit olarak düşünebileceğimiz nesnedir.
+
+Soru 49 - Hangisi veya hangileri Ambalaj tasarımının temel amaçlarındandır? 1-Ambalaj tasarımı, içeriği oluşturan ürünün güvenliğini ve korunmasını sağlamak, 2- Fiziksel dayanımını desteklemek veya arttırmak, 3- Ürün ile ilgili bilgilendirme yapmak, 4- Ürünün taşınabilirliğini sağlamak, 5- Ürüne çekici bir görünüm vermek ve ürünün sürdürülebilirliğini sağlamak.
+A - 1-2-3-4-5
+B - 1-2
+C - 1-3-5
+D - 2-4
+E - 3-4
+Doğru Cevap A
+Aciklama Ambalaj tasarımının temel amaçları: Ambalaj tasarımı, içeriği oluşturan ürünün güvenliğini ve korunmasını sağlamak, fiziksel dayanımını desteklemek veya arttırmak, ürün ile ilgili bilgilendirme yapmak, ürünün taşınabilirliğini sağlamak, ürüne çekici bir görünüm vermek ve ürünün sürdürülebilirliğini sağlamayı amaçlamaktadır.
+
+Soru 50 - Günümüzde kullanılan temel tasarım öğretileri aşağıdakilerden hangisi veya hangileri olarak sayılabilir? 1- Tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmek, 2-Tasarımcıların yaratıcılıklarını ortaya çıkarmak, 3-Tasarım öge ve ilkelerini kavratmak 4-Algı ve anlamlandırma süreçleri ile görsel bir dil öğretmek.
+A - 1-2-3-4
+B - Yalnız 1
+C - 2-4
+D - 1-3
+E - 1-3-4
+Doğru Cevap A
+Aciklama Günümüzde Temel Tasarım öğretisi temel olarak dört amaca yönelik kurgulanmaktadır (Özer, 2004). Bunlar, tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmek, tasarımcıların yaratıcılıklarını ortaya çıkarmak, tasarım öge ve ilkelerini kavratmak ve algı ve anlamlandırma süreçleri ile görsel bir dil öğretmek olarak listelenebilir
+
+Soru 51 - İzleyicinin gözünün en baskın öge veya ögelerden ikincisine oradan üçüncüsüne sıçramasını planlayan tasarım ilkesi hangisidir?
+A - Hiyerarşik tasarım
+B - Baskınlık
+C - Kontrast
+D - Ritim
+E - Denge
+Doğru Cevap A
+Aciklama Hiyerarşik tasarım, izleyicinin gözünün en baskın öge veya ögelerden ikincisine oradan üçüncüsüne sıçramasını planlamaktır.
+
+Soru 52 - "Tasarım bağlamında insan yapımı formların sembolik niteliklerinin incelenmesi aşağıdakilerden hangisidir?
+A - Ürün semantiği
+B - Yapısal Tasarım
+C - Tipografi
+D - Bağlam
+E - Gestalt kuram
+Doğru Cevap A
+Aciklama Ürün Semantiği: Ürün semantiği, tasarım bağlamında insan yapımı formların sembolik niteliklerinin incelenmesidir.
+
+Soru 53 - Aşağıdakilerden hangisi veya hangileri şaşırtıcı ambalajların ortak özelliklerinden sayılır? 1- İlgili ürün kategori içinde ürüne olan algıyı yükseltir. 2- Farklı seviyelerde tüketici gruplarını ve paralel hedef kitleyi ürüne çeker 3- Önerdiği yaklaşımıyla yenilikçi ve çığır açıcıdır. 4- Marka ve ambalaj ve içeriğin birbiriyle iç içe olmasını, ayrılamaz hale gelmesini sağlar. 5- Birbirine benzeyen onlarca ambalaj arasında öne çıkar.
+A - 1-2-3-4-5
+B - 1-2
+C - 1-4-5
+D - 2-4
+E - 2-3
+Doğru Cevap A
+Aciklama Şaşırtıcı ambalajların ortak özellikleri şöyle listelenebilir; • İlgili ürün kategori içinde ürüne olan algıyı yükseltir. • Farklı seviyelerde tüketici gruplarını ve paralel hedef kitleyi ürüne çeker • Önerdiği yaklaşımıyla yenilikçi ve çığır açıcıdır. • Marka ve ambalaj ve içeriğin birbiriyle iç içe olmasını, ayrılamaz hale gelmesini sağlar. • Birbirine benzeyen onlarca ambalaj arasında öne çıkar. • Tüketicisine duygusal olarak dokunur.
+
+Soru 54 - Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan ilki “temel amaçlar” olarak düşünebileceğimiz işlev hangisi veya hangileri olarak sayılabilir? 1- Güvenlik 2- Koruma 3-Fiziksel dayanıklılık 4- Bilgilendirme ve etiketleme 5- Kullanım kolaylığı
+A - 1-2-3-4-5
+B - 1-3
+C - 1-4-5
+D - 2-4
+E - 1-3-5
+Doğru Cevap A
+Aciklama Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan ilki “temel amaçlar” olarak düşünebileceğimiz: güvenlik, koruma, fiziksel dayanıklılık, bilgilendirme ve etiketleme, taşınabilirlik, kullanım kolaylığı, görünüm ve sürdürülebilirliktir.
+
+Soru 55 - Ambalaj tasarımında “niyet ve hedefler” olarak yorumlayabileceğimiz işlev aşağıdakilerden hangisi veya hangileridir? 1- Dikkat ve ilgi çekme 2- Motivasyon oluşturma 3- Arzu ve istek uyandırma
+A - 1-2-3
+B - Yanlız 1
+C - 1-2
+D - 1-3
+E - 2-3
+Doğru Cevap A
+Aciklama Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan ilki “temel amaçlar” olarak düşünebileceğimiz: güvenlik, koruma, fiziksel dayanıklılık, bilgilendirme ve etiketleme, taşınabilirlik, kullanım kolaylığı, görünüm ve sürdürülebilirliktir. Diğer işlev ise “niyet ve hedefler” olarak yorumlayabileceğimiz: dikkat ve ilgi çekme, motivasyon oluşturma, arzu ve istek uyandırmadır. Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan ilki “temel amaçlar” olarak düşünebileceğ...
+
+Soru 56 - Antropometri nedir?
+A - İnsan vücudunun boyutlarını ve diğer fiziksel özelliklerini araştıran bilim dalıdır.
+B - İnsanın fiziksel ve psikolojik özelliklerini inceleyerek insanın makine ve çevre ile olan uyumunu inceleyen bilim alanıdır.
+C - Baskınlık Tasarım ilkesi
+D - Simetri İlkesi
+E - Devamlılık ilkesi
+Doğru Cevap A
+Aciklama Antropometri: İnsan vücudunun boyutlarını ve diğer fiziksel özelliklerini araştıran bilim dalıdır.
+
+Soru 57 - "Bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre basit, yalın ve geometrik formlar daha kolay algılanırlar ve birbirleriyle gruplaşma eğilimi içindedirler. " Yukarıdaki ifade Gestalt kuramının ortaya koyduğu ilkelerden hangisi için söylenebilir?
+A - İyi Form İlkesi
+B - Simetri İlkesi
+C - Benzerlik ilkesi
+D - Yakınlık İlkesi
+E - Tamamlama ilkesi
+Doğru Cevap A
+Aciklama İyi Form İlkesine göre eğer bir formun parçaları düzenli, yalın ve sıralı bir örüntü oluşturuyorlarsa grup oluşturuyorlarmış gibi algılanırlar. Buna göre basit, yalın ve geometrik formlar daha kolay algılanırlar ve birbirleriyle gruplaşma eğilimi içindedirler.
+
+Soru 58 - sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir süreçtir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi tamamlar?
+A - Sürdürülebilirlik
+B - Ambalajlama
+C - Tasarım
+D - Görsel iletişim
+E - Ticari faaliyet
+Doğru Cevap C
+Aciklama Ünite 2'de 'Tasarım Fikri' başlığı altında tasarımın, bir fikrin veya bilginin somut bir ürün veya soyut bir hizmete dönüştürülmesi süreci olduğu belirtilir. Tasarım fikrinin, bir ürünün kimliğini yansıtan, tüketiciyi etkileyen ve marka değerini artıran bir yaklaşım olduğu ifade edilir. Ayrıca 'tasarı', bir fikrin zihinde canlandırılması ve düzenlenmesi süreci olarak tanımlanır. Sorudaki 'sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir süreç' tanımı e...
+
+Soru 59 - Tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmeyi, onların yaratıcılıklarını ortaya çıkarmayı, tasarım öge ve ilkelerini kavratmayı, algı ve anlamlandırma süreçleri ile görsel bir dil öğretmeyi amaçlayan öğreti aşağıdakilerden hangisidir?
+A - Gestalt kuramı
+B - Tasarım sosyolojisi
+C - Tipografi tasarımı
+D - Yaratıcı reklamcılık
+E - Temel tasarım
+Doğru Cevap E
+Aciklama Ünite 2'de 'Ambalaj Tasarımında Tasarım Öge ve İlkeleri' başlığı altında, Ambalaj Tasarımı'nın 'Temel Tasarım' öğretisine dayandığı belirtilir. Bu öğretinin amacının; tasarımcıların davranışsal, zihinsel ve teknik özelliklerini geliştirmek, yaratıcılıklarını ortaya çıkarmak, tasarım öge ve ilkelerini kavratmak ve algı/anlamlandırma süreçleri ile görsel bir dil öğretmek olduğu ifade edilmiştir.
+
+Soru 60 - İnsanın fiziksel ve psikolojik özelliklerini inceleyerek insanın makine ve çevre ile olan uyumunu inceleyen bilim alanı aşağıdakilerden hangisidir?
+A - Antropometri
+B - Fizyoloji
+C - Ergonomi
+D - Anatomi
+E - Ortopedi
+Doğru Cevap C
+Aciklama Ünite 2'de 'Biçim ve Anlatı' başlığı altında, Ergonomi'nin tanımı verilmiştir. Ergonomi, 'bir ürünün tüketimi sırasında kullanıcı etkileşimini kolaylaştıracak ve dağıtım zinciri boyunca bir ürünün daha kolay taşınmasını sağlayan tasarlama bilimini ifade eder' şeklinde tanımlanır. Bu bilim, kullanıcının fiziksel ve psikolojik özelliklerini göz önünde bulundurarak makine (ambalaj) ve çevre ile olan uyumunu incelemektedir.
+
+Soru 61 - Form üzerindeki detaylar eksik olsa da izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve hafızasını kullanarak söz konusu formu bütün gibi algılanmasını açıklayan Gestalt ilkesi aşağıdakilerden hangisidir?
+A - Yakınlık ilkesi
+B - Devamlılık (ortak hareket) ilkesi
+C - Tamamlama (kapatma) ilkesi
+D - Benzerlik ilkesi
+E - Simetri ilkesi
+Doğru Cevap C
+Aciklama Gestalt kuramı, izleyicilerin görsel deneyimlerini anlamak için bütünsel algılamanın önemini vurgular. Bu kuram, algılanan nesnenin, onu oluşturan parçalardan daha farklı bir şey olduğunu savunur ve izleyicilerin bu parçaları bir araya getirerek anlamlı başka bir bütün oluşturduklarını öne sürer. Bu, form üzerindeki eksiklikleri kişisel birikimle tamamlama prensibini açıklar.
+
+Soru 62 - kavramı tüketicilerin ürünün kaynağına ulaşabilmesine, üreticilerin sahiplik haklarını korumasına ve tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde aşağıdakilerden hangisi tamamlar?
+A - Litografi
+B - Editoryal
+C - Marka
+D - Kamu
+E - Ticaret
+Doğru Cevap C
+Aciklama Soru 21'deki tanım, Ünite 2'de geçen Marka kavramı ile ilgilidir. Metinde, "Marka kavramı, 1800'lü yılların başında yaygınlaşmaya başlamıştır. Bir iletişim aracı olarak marka, tüketicilerin ilgili ürünün kaynağına ulaşabilmesine olanak tanır. Marka üreticinin sahiplik haklarını korumasına yardımcı olurken görsel açıdan tüketicilerin ürünleri ayırt edebilmesine olanak tanır." ifadesi yer almaktadır. Bu nedenle boşluğu "Marka" kelimesi tamamlar.
+
+Soru 63 - yazı, fikirleri sembollerle anlatır ve bu semboller farklı kişiler tarafından farklı yorumlanabilir. Bu yazı sistemleri, fikirlerin daha soyut bir şekilde ifade edilmesini sağlar, bu da yorum farklılıklarına neden olabilir. Yukarıdaki paragrafta boş bırakılan yeri doğru şekilde aşağıdakilerden hangisi tamamlar?
+A - Tipografik
+B - Monografik
+C - Hiyeroglif
+D - İdeografik
+E - Fonografik
+Doğru Cevap D
+Aciklama Soru 22, Yazı sistemlerinin evrimi ve sembollerin kullanımı ile ilgilidir. Ünite 2'de, Sümerliler tarafından geliştirilen piktografik yazı sisteminin, "kimliksel bilgileri net bir şekilde anlaşılır kılmakta" olduğu ve sonraları harflerin geliştirilmesine ilham olarak çeşitli sistematik yazınsal iletişim araçlarının ortaya çıkmasına olanak sağladığı belirtilmiştir. Piktografik yazılar, fikirleri sembollerle anlatır ve bu sembollerin yorum farklılıklarına yol açması metinde ima edilmektedir, zira ...
+
+Soru 64 - Form üzerindeki detaylar eksik olsa da izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve hafızasını kullanarak söz konusu formu bütün gibi algılanmasını açıklayan Gestalt ilkesi aşağıdakilerden hangisidir?
+A - Yakınlık ilkesi
+B - Benzerlik ilkesi
+C - Simetri ilkesi
+D - Tamamlama (kapatma) ilkesi
+E - Devamlılık (ortak hareket) ilkesi
+Doğru Cevap D
+Aciklama Soru 25, izleyicinin eksik yerleri kendi deneyimiyle tamamlayarak bütün algılamasını açıklayan Gestalt ilkesini sormaktadır. Ünite 2'de Gestalt Kuramı anlatılırken, "Gestalt kuramı, algılanan nesnenin, nesneyi oluşturan parçalarından daha farklı bir şey olduğunu savunur ve izleyicilerin bu parçaları bir araya getirerek anlamlı başka bir bütün oluşturduklarını öne sürer." ifadesi yer almaktadır. Bu ilke **Bütünsel Algılama (Gestalt İlkesi)** olarak bilinir.
+
+Soru 65 - Ambalaj için içerik çeşitli hallerde (sıvı, katı, gaz, kompozit)olabilir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi kompozit içeriğe bir örnektir?
+A - Sprey deodorant
+B - Deterjan
+C - Kuruyemiş
+D - Un
+E - Yumurta
+Doğru Cevap E
+Aciklama Soru 26, kompozit içeriğe örnek aramaktadır. Ünite 2'de, ambalaj için içeriğin çeşitli hallerde (sıvı, katı, gaz, kompozit) olabileceği belirtilmiştir. Kompozit içeriğin ne olduğu açıkça tanımlanmamış olsa da, verilen seçenekler (şampuanlar, losyonlar, krem ve makyaj malzemeleri) genellikle birden fazla bileşenin bir araya geldiği ürünlerdir. Örneğin, losyon ve kremler yağ, su ve emülsiyonlaştırıcılar gibi bileşenlerin karışımıdır. Bu nedenle **Losyonlar/Krem** kompozit içeriğe örnek verilebilir...
+
+Soru 66 - Ambalaj tasarımında tasarımı oluşturan ögelerin görsel ağırlıklarının eşit şekilde dağıtılmasını öneren tasarım ilkesi aşağıdakilerden hangisidir?
+A - Denge
+B - Ritim
+C - Vurgu
+D - Hiyerarşi
+E - Kontrast
+Doğru Cevap A
+Aciklama Soru 28, tasarım ögelerinin görsel ağırlıklarının eşit dağıtılmasını öneren tasarım ilkesini sormaktadır. Ünite 2'de, "Denge ilkesi tasarım ögelerinin eşit ve benzer olarak dağıtıldığı ve görsel olarak dengeli bir kompozisyonun oluşturulduğu prensiptir. Denge ilkesi, tasarım ögelerinin görsel ağırlıkların eşit bir şekilde dağıtılmasıyla elde edilir." şeklinde açıklanmaktadır. Bu ilke **Denge**'dir.
+
+Soru 67 - Tasarım sürecinde ilham almak için kullanılan, üzerine resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına kullanılan düzenlemeye ne ad verilir?
+A - Moodboard
+B - Storyboard
+C - Sinopsis
+D - Billboard
+E - Skeç
+Doğru Cevap A
+Aciklama Ünite 4'te anlatılan görsel imajlar (illüstrasyon, fotoğraf, logo, ikon vb.) ambalaj tasarımında sıklıkla kullanılır. Ünite 7'de ise, marka mimarisi kapsamında, tasarımcının bir hikaye veya anlatı oluşturmayı amaçladığı, biçim ve tasarımı birleştiren üç boyutlu düşünme süreci vurgulanır. Ancak, 'resim veya yazı gibi birçok materyalin yerleştirildiği, konuyu daha iyi kavramak ve görsel bir dil oluşturmak adına kullanılan düzenleme' ifadesi daha çok genel tasarım (retorik/görsel imgeler) bağlamınd...
+
+Soru 68 - Bir inçlik alandaki nokta sayısını gösteren ve baskı çözünürlüğünü ifade eden değer aşağıdakilerden hangisidir?
+A - MP
+B - EPS
+C - MB
+D - DPI
+E - CCP
+Doğru Cevap D
+Aciklama Ünite 2'de Temel Tasarım Ögeleri başlığı altında baskı ile ilgili spesifik bir birimden bahsedilmese de, genel tasarım ve grafik sanatlarda baskı çözünürlüğünü ifade eden yaygın birim DPI'dır (Dots Per Inch - İnç Başına Düşen Nokta). Sorunun bağlamı ve şıkların içeriği göz önüne alındığında, baskı çözünürlüğü ile ilgili en uygun terim DPI'dır.
+
+Soru 69 - kavramı tüketicilerin ürünün kaynağına ulaşabilmesine, üreticilerin sahiplik haklarını korumasına ve tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Kamu
+B - Editoryal
+C - Ticaret
+D - Marka
+E - Litografi
+Doğru Cevap D
+Aciklama Marka kavramı, 1800'lü yılların başında yaygınlaşmaya başlamıştır. Bir iletişim aracı olarak marka, tüketicilerin ilgili ürünün kaynağına ulaşabilmesine olanak tanır. Marka üreticinin sahiplik haklarını korumasına yardımcı olurken görsel açıdan tüketicilerin ürünleri ayırt edebilmesine olanak tanır. Bu, Ünite 1'de Ticari Genişlemede Ambalajın Rolü başlığı altında belirtilmiştir.
+
+Soru 70 - Ambalaj tasarımında tasarımı oluşturan ögelerin görsel ağırlıklarının eşit şekilde dağıtılmasını öneren tasarım ilkesi aşağıdakilerden hangisidir?
+A - Denge
+B - Ritim
+C - Vurgu
+D - Kontrast
+E - Hiyerarşi
+Doğru Cevap A
+Aciklama Denge ilkesi, tasarım ögelerinin eşit ve benzer olarak dağıtıldığı ve görsel olarak dengeli bir kompozisyonun oluşturulduğu prensiptir. Bu ilke, tasarım ögelerinin görsel ağırlıkların eşit bir şekilde dağıtılmasıyla elde edilir. Simetrik denge de bu dengeyi sağlamak için kullanılan bir yöntemdir. Bu bilgi Ünite 2'de verilmiştir.
+
+Soru 71 - ...... sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir senaryo dahilinde ürün, sistem, hizmet ve stratejilerin kurgulanması ve hayata geçirilmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
+A - Ambalajlama
+B - Ticari faaliyet
+C - Sürdürülebilirlik
+D - Tasarım
+E - Görsel iletişim
+Doğru Cevap D
+Aciklama Verilen tanım, bir fikrin veya bilginin somut bir ürüne dönüştürülme sürecini ve aynı zamanda estetik, duygusal ve stratejik hedefleri kapsayan Ambalaj Tasarımını tanımlamaktadır. Ünite 2'de Tasarım, bir fikrin veya bilginin somut bir ürün veya soyut bir hizmete dönüştürülme süreci olarak tanımlanır ve Ambalaj Tasarımı, içeriği tutma, koruma gibi işlevsel gereksinimleri karşılarken tanıtım, sunum ve etkileşim için görsel ve iletişimsel stratejileri kullanır.
+
+Soru 72 - İnsanın fiziksel ve psikolojik özelliklerini inceleyerek insanın makine ve çevre ile olan uyumunu inceleyen bilim alanı aşağıdakilerden hangisidir?
+A - Ergonomi
+B - Anatomi
+C - Fizyoloji
+D - Ortopedi
+E - Antropometri
+Doğru Cevap A
+Aciklama Ergonomi, bir ürünün tüketimi sırasında kullanıcı etkileşimini kolaylaştıran ve dağıtım zinciri boyunca bir ürünün daha kolay taşınmasını sağlayan tasarlama bilimidir. Kullanıcı verimliliğini en üst düzeye çıkaran, kullanım zorluklarını azaltan tasarım disiplinidir ve insanın fiziksel ve psikolojik özelliklerini inceleyerek bu uyumu sağlamayı amaçlar (Ünite 2).
+
+Soru 73 - ------ sorun, niyet, arzu ve istekleri çözümlemek için yaratıcı, estetik, gerçekçi ve gelecekçi bir senaryo dahilinde ürün, sistem, hizmet ve stratejilerin kurgulanması ve hayata geçirilmesi sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Tasarım
+B - Ambalajlama
+C - Ticari faaliyet
+D - Sürdürülebilirlik
+E - Görsel iletişim
+Doğru Cevap A
+Aciklama Tasarım, bir fikrin veya bilginin somut bir ürün veya soyut bir hizmete dönüştürülmesi sürecidir. Ambalaj Tasarımı özelinde ise, içeriğin tutulmasını, korunmasını sağlarken, aynı zamanda tanıtım, sunum, etkileşim ve marka kimliğini yansıtma gibi işlevsel ve estetik iletişim unsurları kullanılarak bir kurgu yapılmasıdır. 'Tasarım' kelimesi bu süreci ifade eder (Ünite 2).
+
+Soru 74 - Form üzerindeki detaylar eksik olsa da izleyicinin eksik yerleri kendi kişisel deneyimini, kültürel birikimini ve hafızasını kullanarak söz konusu formu bütün gibi algılanmasını açıklayan Gestalt ilkesi aşağıdakilerden hangisidir?
+A - Yakınlık ilkesi
+B - Benzerlik ilkesi
+C - Simetri ilkesi
+D - Tamamlama (kapatma) ilkesi
+E - Devamlılık (ortak hareket) ilkesi
+Doğru Cevap D
+Aciklama Gestalt kuramı, bütünsel algılamanın önemini vurgular. Ünite 2'de belirtildiği gibi, Gestalt kuramının temel savunusu, algılanan nesnenin, onu oluşturan parçalarından daha farklı bir şey olduğunu ve izleyicilerin bu parçaları bir araya getirerek anlamlı başka bir bütün oluşturduğunu öne sürmesidir. Bu, 'kapanış' ilkesiyle ilişkilidir; burada izleyici, eksik veya tamamlanmamış bir şekli, kendi bilgi ve deneyimine dayanarak tamamlanmış bir bütün olarak algılar. Soru, eksik yerlerin kişisel deneyim...
+
+Soru 75 - Ambalaj için içerik çeşitli hallerde (sıvı, katı, gaz, kompozit) olabilir. Yukarıdaki ifadeye göre aşağıdakilerden hangisi kompozit içeriğe bir örnektir?
+A - Yumurta
+B - Deterjan
+C - Sprey deodorant
+D - Un
+E - Kuruyemiş
+Doğru Cevap A
+Aciklama Ünite 2'de Ambalaj Kavramı açıklanırken, içerik türleri arasında sıvı, katı, gaz ve kompozit sayılmıştır. Kompozit içerikler, birden fazla madde formunun birleşimidir. Deterjan (B) ve sprey deodorant (C) genellikle sıvı/gazdır. Un (D) ve kuruyemiş (E) katıdır. Yumurta (A) ise kabuklu katı bir gıda olup, ambalajlamada genellikle 'katı' olarak sınıflandırılır, ancak burada verilen seçenekler arasında en uygun 'karmaşık/bileşik' yapı (farklı katmanlar veya bileşenler) anlamında diğerlerine kıyasla ...
+

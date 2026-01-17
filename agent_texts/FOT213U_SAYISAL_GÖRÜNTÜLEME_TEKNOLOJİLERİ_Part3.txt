@@ -1,0 +1,1299 @@
+SAYISAL GÖRÜNTÜLEME TEKNOLOJİLERİ dersi ünite 5-6 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 5
+Soru 1 - Yakındaki nesnelerden uzak mesafelere kadar her şeyin keskin bir görüntüye sahip olmasına ne ad verilir?
+A - Sığ alan derinliği
+B - Dar alan derinliği
+C - Geniş alan derinliği
+D - Manzara çekimi
+E - Ayrıntılı yakın çekim
+Doğru Cevap C
+Aciklama SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI Geniş alan derinliği, yakındaki nesnelerden uzak mesafelere kadar her şeyin keskin bir görüntüye sahip olması anlamına gelir.
+
+Soru 2 - Zorlu aydınlatma koşullarında yararlı olan pozlama ayarlarıyla daha deneysel fotoğraflar çekmenizi sağlayan mod aşağıdakilerden hangisidir?
+A - Otomatik mod
+B - Bulp modu
+C - Diyafram önceliği modu
+D - Manuel mod
+E - Enstantane önceliği modu
+Doğru Cevap D
+Aciklama SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI Manuel mod, zorlu aydınlatma koşullarında yararlı olan pozlama ayarlarıyla daha deneysel fotoğraflar çekmenizi sağlar.
+
+Soru 3 - Bulp modu kaç saniyeden uzun pozlamalar için kullanılmaktadır?
+A - 10
+B - 15
+C - 20
+D - 25
+E - 30
+Doğru Cevap E
+Aciklama SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI Bulp modu 30 saniyeden uzun pozlamalar için kullanılmaktadır.
+
+Soru 4 - Pozlama da ışığı kaç farklı yolla kamerada toplamak mümkündür?
+A - 1
+B - 2
+C - 3
+D - 4
+E - 5
+Doğru Cevap C
+Aciklama SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI Pozlama da ışığı üç farklı yolla kamerada toplamak mümkündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır.
+
+Soru 5 - 1şık miktarında bir durak artış, kaç kat daha fazla ışık olduğu anlamına gelir?
+A - 1/2
+B - 1
+C - 1.1/2
+D - 2
+E - 2.1/2
+Doğru Cevap D
+Aciklama SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI 1şık miktarında bir durak artış, iki kat daha fazla ışık olduğu anlamına gelir.
+
+Soru 6 - 'Sayısal fotoğraf makinesi, sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.' Bu cümlede ifade edilen ışık ölçüm modu aşağıdakilerden hangisidir?
+A - Nokta ölçüm
+B - Merkez ağırlıklı ölçüm
+C - Kısmı ölçüm
+D - Matris ölçümü
+E - Spot ölçüm
+Doğru Cevap D
+Aciklama SAYISAL FOTOĞRAFÇILIKTA 1ŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ Matris ölçümü (Matrix metering): Sayısal fotoğraf makinesi, sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.
+
+Soru 7 - Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder. Bu netlik bölgesi kaç faktöre bağlıdır?
+A - 2
+B - 3
+C - 4
+D - 5
+E - 6
+Doğru Cevap B
+Aciklama SAYISAL FOTOĞRAFÇILIKTA 1ŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder. Bu netlik bölgesi üç faktöre bağlıdır: lensin açıklığı, kamera ile konu arasındaki mesafe ve lensin odak uzaklığıdır.
+
+Soru 8 - İçerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölüme ne ad verilir?
+A - EXIF
+B - SLR
+C - ISO
+D - DSLR
+E - HDTV
+Doğru Cevap A
+Aciklama SAYISAL FOTOĞRAF MAKİNELERİ TEMEL MENÜLERİ EXIF, “Exchangeable Image File” değiştirilebilir görüntü dosyası açılımı olan ve içerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölümdür. Fotoğraf yarışmalarında bu bilgiler olmazsa olmazdır.
+
+Soru 9 - Kameranın sensörü ne olursa olsun üzerinde daha fazla kontrole sahip olunan gerçek alan derinliği aralığını belirleyen kaç değişken daha söz konusudur?
+A - 2
+B - 3
+C - 4
+D - 5
+E - 6
+Doğru Cevap B
+Aciklama SAYISAL FOTOĞRAFÇILIKTA 1ŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ Sonuç olarak kameranın sensörü ne olursa olsun üzerinde daha fazla kontrole sahip olunan gerçek alan derinliği aralığını belirleyen üç değişken daha söz konusudur. Bunlardan ilki diyarafram açıklığıdır. Diyafram açıklığı ne kadar büyükse (daha küçük f-stop numaraları), alan derinliği o kadar sığ olacaktır ve açıklık ne kadar küçükse (daha büyük f-stop numaraları), o kadar derin olacaktır. Bir di...
+
+Soru 10 - "Kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler." Bu cümle aşağıdakilerden hangisini tanımlamaktadır?
+A - Histogram
+B - Bulb modu
+C - Otomatik mod
+D - Program modu
+E - Manuel çekim modu
+Doğru Cevap A
+Aciklama SAYISAL FOTOĞRAFÇILIKTAIŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler.
+
+Soru 11 - P-S-A-M kadranı olarak adlandırılan kontrol menüsündeki S nedir?
+A - Program
+B - Enstantane öncelikli mod
+C - Diyafram öncelikli mod
+D - Manuel mod
+E - Spontane mod
+Doğru Cevap B
+Aciklama P-S-A-M kadranı olarak adlandırdığımız kontrol menüleri fotoğraf çekim tekniklerini uygulamak için çok önemlidir. (P) program, (S) enstantane öncelikli mod, (A) diyafram öncelikli mod ve (M) Manuel mod olarak adlandırılır.
+
+Soru 12 - -------------, çocuklar veya evcil hayvanlar gibi hızlı hareket eden konuların fotoğrafını çekerken idealdir. Yukarıda boş bırakılan yeri doğru tamamlayan seçenek aşağıdakilerden hangisidir?
+A - Otomatik mod
+B - Program modu
+C - Fiziksel boyutu büyük sensörler
+D - Açıklık önceliği
+E - Manuel mod
+Doğru Cevap A
+Aciklama Otomatik mod makinenin tüm ışık ayarlarının otomatik olarak yapılmasını sağlar. Makineler bu modda ek aydınlatma gerektiğini hesaplarsa flaşı açarak destek sağlar. Zayıf ışıkta otomatik mod, kamera sarsıntısı riskini azaltmak için ISO’yu (duyarlılığı) otomatik olarak artırır. Bu mod, aceleniz varsa ve seçenekleri değerlendirmek için zamanınız yoksa hızlı bir fotoğraf için yararlı olabilir. Otomatik mod, çocuklar veya evcil hayvanlar gibi hızlı hareket eden konuların fotoğrafını çekerken idealdir...
+
+Soru 13 - Aşağıdakilerden hangisi program modunun özelliklerinden biridir?
+A - Temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur
+B - Otomatik moddan bir adım geridedir
+C - Her ayar otomatik olarak yapılır
+D - Diyafram ve enstantane ayarlarlarına müdahale etme imkânı yoktur
+E - Otomatik’ten çok daha az hassas bir kontrole sahiptir
+Doğru Cevap A
+Aciklama Programlanmış otomatik pozlama olarak da adlandırılan program modu, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur . Genel bir bakışla otomatik moddan bir adım ilerde olduğu ifade edilir. Çeşitli manuel kontrol imkânları sağlayan ancak yine de pozlama noktasında kullanıcıya kolaylık sunan bir moddur. Diyafram ve enstantane ayarlarlarına müdahale etme imkânı kullanıcıya sunulur. Program modu, çekim sırasında ...
+
+Soru 14 - S olarak gösterilen modun eş gösterimi aşağıdakilerden hangisidir?
+A - Tv
+B - Tr
+C - Tz
+D - Tg
+E - Ta
+Doğru Cevap A
+Aciklama Enstantane Önceliği Modu (S veya Tv) olarak gösterilir.
+
+Soru 15 - Aşağıdakilerden hangisi fotoğraf saha eğitimlerinde çoğunlukla önerilir?
+A - Diyafram önceliği modu
+B - Otomatik mod
+C - Program modu
+D - Enstantane önceliği modu
+E - Renk önceliği modu
+Doğru Cevap A
+Aciklama Diyafram önceliği modu isminden de anlaşılacağı üzere diyafram açıklığı ile ilgili kontrol sağlamaktadır. Bu modda diyafram değerini seçmeye makine olanak tanır ve ardından kameranız, doğru pozlamayı verecek enstantane hızını otomatik olarak belirler. Bu mod sayesinde fotoğrafa yeni başlayanlar için doğru ve iyi pozlanmış fotoğraf çekme şansı artacaktır. Saha eğitimlerinde çoğunlukla bu mod önerilir.
+
+Soru 16 - Aşağıdakilerden hangisi pozlama üçgenidir?
+A - Enstantane hızı, diyafram açıklığı ve ISO hızı
+B - Enstantane hızı, pozlama süresi ve ışığın duyarlı yüzeye düşme süresi
+C - ISO, renk doygunluğu, konuya yakınlık
+D - Alan derinliği, sığ alan derinliği ve geniş alan derinliği
+E - Diyafram, konuya yakınlık ve kullanılan filtre
+Doğru Cevap A
+Aciklama Pozlama da ışığı üç farklı yolla kamerada toplamak mümkündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır. Bu ayarlar pozlama üçgeni olarak bilinir. Bu ayarlar pozlama üçgeni olarak bilinir. Bunların pozlamayı kontrol edişlerindeki farklılık fotoğrafta farklı etkilerin yaratılması için kullanılmaktadır. En basit ifadeyle enstantane hızı, pozlama süresini kontrol eder. 1şığın makinenin duyarlı yüzeyini ne kadar süre etkileyeceğini belirler. Diyafram, lenslerde bulunan, açılıp kapa...
+
+Soru 17 - 1. Enstantane 2.Optüratör 3. Perde hızı 4. Shutter speed 5. ISO değeri Yukarıdakilerden hangisi/hangileri ışığın merceğe girip geçmesine ve sensöre çarpmasına izin verilen süreyi belirler?
+A - 1
+B - 1,2
+C - 1,2,3
+D - 1,2,3,4
+E - 2,3,4,5
+Doğru Cevap D
+Aciklama Enstantane hızı, enstantanenin açık kaldığı süreyi ifade eder ve ışığın merceğe girip geçmesine ve sensöre çarpmasına izin verilen süreyi belirler. Enstantane, optüratör, perde hızı, shutter speed şeklinde de adlandırılır; saniye cinsinden ve genellikle saniyenin kesirleri cinsinden ölçülür.
+
+Soru 18 - Deklanşör hızının bir durak artırılması ile aşağıdakilerden hangisi gerçekleşir?
+A - 1şığın sensöre çarpmasına izin verilen süreyi yarı yarıya azaltır
+B - 1şığın sensöre çarpmasına izin verilen süreyi yarı yarıya artırır
+C - 1şığın sensöre çarpmasına izin verilen süreyi 3 katı azaltır
+D - 1şığın sensöre çarpmasına izin verilen süreyi 3 katı artırır
+E - 1şığın sensöre çarpmasına izin verilen süre değişmez
+Doğru Cevap A
+Aciklama Deklanşör hızının bir durak artırılması, ışığın sensöre çarpmasına izin verilen süreyi yarı yarıya azaltır. Tersine, deklanşör hızını bir durak düşürmek, deklanşörün iki kat daha fazla açık kalmasına izin vererek ışığın dijital sensöre girip çarpmasına izin verir.
+
+Soru 19 - Aşağıdakilerden hangisi kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler?
+A - Histogram
+B - Alan derinliği
+C - 1şık miktarı
+D - Diyafram
+E - Konu
+Doğru Cevap A
+Aciklama Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler. Birçok dijital fotoğraf makinesinde, vizör ve özel görüntüleme odası olarak işlev gören LCD ekran, bir ışık ölçerin verebileceğinden daha fazla bilgi sağlayan bir grafik (histogram) de sağlar.
+
+Soru 20 - 1.Tripodlu manzara çekimlerinde 2.Akşam ışığında konser kayıtlarında 3.Harici flaş kullanılmayan portrelerde 4 Tripod kullanılmayan portrelerde Yukarıdakilerden hangisinde/hangilerinde ISO değerini düşük tutmak önerilir?
+A - Yalnız 1
+B - Yalnız 2
+C - 1,2
+D - 1,2,3
+E - 3,4
+Doğru Cevap A
+Aciklama Sensör kalitesi ISO düzeylerini ne kadar arttıracağınız ve olumsuz sonuçlar almayacağınızı belirleyen en önemli husustur. Tripod kullanılması mümkünse, ISO değerini olabildiğince düşük tutmanız önerilir ve özellikle manzara çekimleri bunun için idealdir. 1şığa duyarlılığı yalnızca mecbur kalındığında arttırmanız önemlidir. Örneğin, akşam ışığında konser kayıtları veya portreler için çekim esnasında harici flaş veya tripod olmadığında kullanılabilir.
+
+Soru 21 - Çoğu dijital kamera standart pozlama modlarından birine sahiptir. Aşağıdakilerden hangisi bunlardan biri değildir?
+A - Renk (C)
+B - Auto (otomatik)
+C - Program (P)
+D - Enstantane Önceliği (S veya Tv)
+E - Açıklık Önceliği (A veya Av)
+Doğru Cevap A
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Çoğu dijital kamera aşağıdaki standart pozlama modlarından birine sahiptir: “Auto” (otomatik), “Program” (P), “Enstantane Önceliği” (S veya Tv), “Açıklık Önceliği” (A veya Av), “Manuel” (M) ve “Bulb” (B). Her mod, belirli bir pozlama için diyafram açıklığı, ISO hızı ve enstantane hızı değerlerinin nasıl seçileceğini etkiler. Bazı modlar sizin için üç değeri de seçmeye çalışır, diğerleri ise bir ayar belirlemenize izin verir ve mümkün ...
+
+Soru 22 - Bu mod, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur. Cümlede sözü edilen dijital fotoğraf makinelerinde yer alan mod aşağıdakilerden hangisidir?
+A - Auto Mod (otomatik)
+B - Program Modu (P)
+C - Enstantane Önceliği Modu (S veya Tv)
+D - Açıklık Önceliği Modu (A veya Av)
+E - Manuel Modu (M)
+Doğru Cevap B
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Programlanmış otomatik pozlama olarak da adlandırılan bu mod, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur.
+
+Soru 23 - Bu mod, özellikle çekimlerde görünen “hareket netsizliği” miktarını kontrol etmek istendiğinde kullanışlıdır. Cümlede sözü edilen dijital fotoğraf makinelerine özgü bu mod aşağıdakilerden hangisidir?
+A - Manuel Mod (M)
+B - Bulb Modu (B)
+C - Enstantane Önceliği Modu (S veya Tv)
+D - Auto Mod (otomatik)
+E - Program Modu (P)
+Doğru Cevap C
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Bu modda kullanıcıya enstantane hızını belirleme noktasında makine tarafından müdahale olanağı verilir. Diğer ifade ile kullanıcı enstantane hızını seçer ve kamera doğru pozlamayı verecek diyafram değerini kendisi belirler. Bu mod, özellikle çekimlerde görünen “hareket netsizliği” miktarını kontrol etmek istendiğinde kullanışlıdır.
+
+Soru 24 - .................. bir görüntünün kameranız tarafından çekildiğinde ne kadar açık, doygun veya koyu görüneceğini belirler. Cümlede boş bırakılan yere aşağıdaki şıklardan hangisi getirilirse doğru olur?
+A - Aydınlatma
+B - 1şık
+C - Enstantene
+D - Pozlama
+E - Diyafram
+Doğru Cevap D
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Pozlama, bir görüntünün kameranız tarafından çekildiğinde ne kadar açık, doygun veya koyu görüneceğini belirler.
+
+Soru 25 - Lenslerde bulunan, açılıp kapanarak genişliği değişen bir deliktir ve ışığın kameranıza girebileceği alanı kontrol eder. Cümlede tanımlanan fotoğrafçılığa ait kavram aşağıdakilerden hangisidir?
+A - Aydınlatma
+B - Pozlama
+C - ISO hızı
+D - Enstantane
+E - Diyafram
+Doğru Cevap E
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Diyafram, lenslerde bulunan, açılıp kapanarak genişliği değişen bir deliktir ve ışığın kameranıza girebileceği alanı kontrol eder.
+
+Soru 26 - Kameranın sensörünün belirli bir ışık miktarına olan hassasiyetini kontrol eden özelliğe ne ad verilir?
+A - ISO hızı
+B - Diyafram
+C - Enstantane hızı
+D - Pozlama
+E - Aydınlatma
+Doğru Cevap A
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. ISO hızı kameranın sensörünün belirli bir ışık miktarına olan hassasiyetini kontrol eder.
+
+Soru 27 - Çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından belirlenmesi ile ilgili moda ne ad verilir?
+A - Enstantene hızı
+B - Hazır sahneleme
+C - ISO hızı
+D - Diyafram
+E - Pozlama
+Doğru Cevap B
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Hazır sahneleme modları çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından belirlenmesi ile ilgilidir.
+
+Soru 28 - Pozlama kontrolü, görüntüyü elde ederken istenen efekti oluşturmak için gereken tam olarak doğru miktarda ışıkla yakalandığından emin olma sürecidir. Bunun için yapılan işleme ne ad verilir?
+A - Diyafram ölçümü
+B - Enstantene hızı
+C - 1şık ölçümü
+D - Aşırı Pozlama
+E - Aydınlatma
+Doğru Cevap C
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Fotografik üçgenin kalbi ışık ölçümüdür. Her pozlamanın merkezinde, o ışık kaynağı ne kadar parlak veya loş olursa olsun herhangi bir ışık kaynağına tepki verecek şekilde tasarlanmış önceden kalibre edilmiş bir cihaz olan kameranızın ışık ölçeri bulunur.
+
+Soru 29 - Bir görüntüdeki kabul edilebilir keskinlik alanına ne ad verilir?
+A - ISO hızı
+B - Pozlama
+C - Diyafram
+D - Alan derinliği
+E - Aydınlatma
+Doğru Cevap D
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder.
+
+Soru 30 - Dijital fotoğraf makineerinde kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyleyebilen özelliğine ne ad verilir?
+A - Diyafram
+B - Pozlama
+C - 1şık ölçümü
+D - Enstantene
+E - Histogram
+Doğru Cevap E
+Aciklama Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür. Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler.
+
+Soru 31 - -------, bir renkteki Ton (hue) değerinin ne kadar fazla ya da az olduğunun göstergesidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A) Parlaklık B) Tint C) Kontrast D) Shadow E) Doygunluk
+A - Parlaklık
+B - Tint
+C - Kontrast
+D - Shadow
+E - Doygunluk
+Doğru Cevap E
+Aciklama Doygunluk (Saturation), bir renkteki Ton (hue) değerinin ne kadar fazla ya da az olduğunun göstergesidir. Ünite 5'te, Albert Munsell'in renk teorisini Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) olarak üç gruba ayırdığı belirtilmiştir. Doygunluk, rengin saflığını ifade eder.
+
+Soru 32 - Üzerinde çalışılan dijital bir görüntünün renklerini ve oranlarını gösteren grafik aşağıdakilerden hangisidir? A) Histogram B) RGB C) Ton D) CMYK E) Doygunluk
+A - Histogram
+B - RGB
+C - Ton
+D - CMYK
+E - Doygunluk
+Doğru Cevap A
+Aciklama Histogram, üzerinde çalışılan dijital bir görüntünün parlaklık ve renk oranlarını gösteren grafiktir. Ünite 5'te, Histogram'ın görüntüdeki renkler ve oranlarını gösteren bir grafik olduğu ve parlaklık histogramı ile RGB histogramı olarak ikiye ayrıldığı belirtilmiştir.
+
+Soru 33 - -------, bir objektifin görüş alanının ölçümü, teknik olarak objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafe olarak adlandırılır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Odak uzaklığı
+B - Titreşim önleyici
+C - Zoom
+D - Optik Zoom
+E - Netleme
+Doğru Cevap A
+Aciklama Odak uzaklığı (Focal Length), bir objektifin görüş alanının ölçümü olarak tanımlanır; teknik olarak objektifin optik merkezi ile sonsuzdaki bir konuya odaklanmış görüntü arasındaki mesafe olarak adlandırılır. Bu, Ünite 5'te Alan Derinliği başlığı altında bir değişken olarak zikredilmiştir.
+
+Soru 34 - Yer değiştiren görüntünün yarattığı hareket bulanıklığını mekanik bir aparat kullanmadan düzeltmenin tek yöntemi aşağıdakilerden hangisidir?
+A - Progressive Tarama
+B - Frame Per Second
+C - Optik görüntü sabitleme (OIS)
+D - Interlaced Tarama
+E - Elektronik görüntü sabitleme (EIS)
+Doğru Cevap E
+Aciklama Ünite 5'te alan derinliğinin üç temel faktörü (diyafram açıklığı, odak uzaklığı ve netleme noktası) açıklanmaktadır. Hareket bulanıklığını (motion blur) kontrol etmek, enstantane hızının ayarlanmasıyla yapılır. Ancak soruda mekanik aparat kullanmadan düzeltme yöntemi sorulmaktadır. Yer değiştiren görüntünün yarattığı hareket bulanıklığını azaltmanın temel mekanik dışı yolu enstantane hızını yükseltmek veya dijital sistemlerde elektronik görüntü sabitleme (EIS) kullanmaktır. Ancak seçenekler aras...
+
+Soru 35 - Kompakt fotoğraf makinelerinde bulunan farklı çekim ayarlarının kolayca seçilebildiği fonksiyon düğmesi aşağıdakilerden hangisidir?
+A - Elektronik flaş
+B - LCD ekran
+C - Mod kadranı
+D - Zamanlayıcı lambası
+E - Yön tuşları
+Doğru Cevap C
+Aciklama Ünite 5'te Program Modu (P) anlatılırken, bu modun temel otomatik modlar ile tamamen manuel kontrol sağlayan gelişmiş modlar arasındaki boşluğu doldurduğu belirtilmiştir. Program modunda ISO ve flaş kontrolleri gibi temel ayarlar otomatik yapılırken, pozlama noktasında kullanıcıya kolaylık sunan, güvenlik ağı sağlayan ve otomatik moddan daha hassas kontrole sahip bir mod olduğu açıklanmıştır.
+
+Soru 36 - 1. Renk Modu 2. Manzara Modu 3. Spor/aksiyon modu 4. Portre Modu Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
+A - Yalnız 1
+B - 1 ve 2
+C - 2 ve 4
+D - 1, 2 ve 3
+E - 2, 3 ve 4
+Doğru Cevap E
+Aciklama Hazır sahneleme modları, çekilecek fotoğrafın türüne göre pozlama değerlerinin otomatik ayarlanmasını sağlar. Portre modu, Manzara modu ve Spor/aksiyon modu bu modlar içerisindedir. (U3'te de bahsedilen hazırlık modlarıdır.)
+
+Soru 37 - kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde tamamlar?
+A - Histogram
+B - Odak noktası
+C - Auto fokus
+D - Beyaz ayarı
+E - Diyafram
+Doğru Cevap D
+Aciklama Ünite 5'te, Histogram'ın tanımı şu şekildedir: "Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler." Beyaz Dengesi ise renk sıcaklığını kontrol eder, odak noktası ve diyafram ise pozlamanın bileşenleridir.
+
+Soru 38 - Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+A - Gamma ayarı
+B - Beyaz ayarı
+C - ICC profil ayarı
+D - Pozometre ayarı
+E - Kontrast ayarı
+Doğru Cevap A
+Aciklama Çekimden önce ortamdaki ışığın rengi (renk sıcaklığı) ile kameranın uyumunu sağlamak Beyaz Dengesi (White Balance) ile gerçekleştirilir. Ünite 5'te "Beyaz Dengesi (White Balance)" başlığı altında, beyaz dengesinin ayarlanması ile renk ısısının ayarlandığı belirtilmiştir.
+
+Soru 39 - Mümkün olan en sığ alan derinliğini yakalamayı amaçlayan hazır sahneleme modu aşağıdakilerden hangisidir?
+A - Düşük ışık Modu
+B - Spor/aksiyon Modu
+C - Manzara Modu
+D - Gece Modu
+E - Portre Modu
+Doğru Cevap E
+Aciklama Alan derinliği, diyafram açıklığı ile ters orantılıdır; diyafram açıklığı ne kadar büyükse (f/ değeri küçükse), alan derinliği o kadar sığ olur. En sığ alan derinliği (yani arka planın en çok bulanıklaştığı durum) genellikle Portre modu gibi konulara odaklanan ve arka planı özneden ayırmaya yardımcı olan modlarda hedeflenir. Manzara modu genellikle daha derin alan derinliği hedeflerken, Makro modu da yakın odak nedeniyle sığ alan derinliği sağlayabilir ancak en sığ alan derinliği ifadesi genelli...
+
+Soru 40 - Sahnedeki ışığın tümünü ölçerek ortalama bir değer alan ışık ölçüm modu aşağıdakilerden hangisidir?
+A - Kısmi ölçüm
+B - Nokta ölçüm
+C - Partial metering
+D - Merkez ağırlıklı ölçüm
+E - Matris ölçümü
+Doğru Cevap E
+Aciklama Sahnedeki ışığın tümünü ölçerek ortalama bir değer alan ışık ölçüm modu Matris ölçüm modudur (ünite 5'te Matris ölçüm: 'sahnedeki ışığın tümünü ölçerek ortalama bir değer alır' olarak tanımlanmıştır).
+
+Soru 41 - Programlanmış otomatik pozlama olarak adlandırılan mod aşağıdakilerden hangisidir?
+A - Auto
+B - A
+C - P
+D - S
+E - M
+Doğru Cevap C
+Aciklama Program Modu (P), programlanmış otomatik pozlama olarak adlandırılır ve temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur. Bu mod, kullanıcının pozlama noktasında güvenlik ağı sunarken, otomatik pozlamaya göre daha hassas bir kontrole sahiptir. (Ünite 5, Program Modu (P) bölümü)
+
+Soru 42 - ------- -------, lensinizde yer alan merceklerden geçen ışığın makineniz içerisine ne kadar gireceği kontrolünün sağlandığı ve çok özel yapraklardan oluşan bir mekanizmadır.
+A - Net Derinliği
+B - Histogram
+C - Enstantane
+D - Diyafram
+E - ISO
+Doğru Cevap D
+Aciklama Diyafram, lens üzerinde yer alan, merceklerden geçen ışığın makine içerisine ne kadar gireceğini kontrol eden, özel yapraklardan oluşan bir mekanizmadır. Bu açıklık "f" harf değerleri ile ifade edilir ve pozlama üçgeninin bir parçasıdır. (Ünite 5, Diyafram Açıklığı bölümü)
+
+Soru 43 - Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
+A - Shade(Gölge)
+B - Cloudy (Bulutlu)
+C - Fluorescent(Floresan)
+D - Daylight(Gün ışığı)
+E - Depth of field(Alan Derinliği)
+Doğru Cevap E
+Aciklama Beyaz Dengesi (White Balance), ortam ışığının renk ısısını dengelemek için kullanılır (Kelvin cinsinden ölçülür). Ayarlar genellikle Otomatik Beyaz Dengesi (AWB) veya manuel olarak ayarlanır. Histogram ise parlaklık ve renk doygunluğunu gösteren bir grafiktir, beyaz dengesi ayarı değildir. (Ünite 5, Beyaz Dengesi ve Histogram bölümleri)
+
+Soru 44 - Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+A - Beyaz ayarı
+B - Gamma ayarı
+C - Kontrast ayarı
+D - ICC profil ayarı
+E - Pozometre ayarı
+Doğru Cevap A
+Aciklama Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına renk sıcaklığını makineye/kameraya tanımlama işlemi Beyaz Dengesi (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te, Beyaz Dengesi'nin renk sıcaklığını ayarlayarak renk ısısını düzenlediği belirtilmiştir.
+
+Soru 45 - -------, bir renkteki Ton (hue) değerinin ne kadar fazla ya da az olduğunun göstergesidir. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Parlaklık
+B - Tint
+C - Doygunluk
+D - Kontrast
+E - Shadow
+Doğru Cevap C
+Aciklama Ünite 5'in Histogram başlığı altında, "Histogram parlaklık ve renk doygunluk histogramı olarak ikiye ayrılır. Parlaklık histogramı grafiği üzerinde sol taraf tam siyahı sağ taraf ise tam beyazı temsil eder. Renk histogramı bir diğer söylemle RGB histogramı ise renk doygunluğunun grafiğini yansıtır." denmektedir. Ancak, metnin başka bir yerinde (Ünite 5, Sayfa 3, Histogram başlığı altında), "Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık...
+
+Soru 46 - Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir?
+A - Matris ölçümü
+B - Merkez ağırlıklı ölçüm
+C - Kısmi ölçüm
+D - Nokta ölçüm
+E - Geniş ölçüm
+Doğru Cevap D
+Aciklama Ünite 5'in 1şık Ölçüm Modları başlığı altında, "Nokta ölçüm: Sayısal fotoğraf makinesi, otomatik netleme noktası etrafından ışığı spot (küçük) bir yüzeyden ölçer." ifadesi yer almaktadır. Bu mod, otomatik netleme noktasına odaklanarak sadece o bölgedeki ışığı ölçer.
+
+Soru 47 - Program modu(P) ile kullanıcı aşağıdaki ayarlardan hangilerini değiştirebilir?
+A - Beyaz dengesi ve alan derinliği
+B - ISO ve flaş
+C - Diyafram ve enstantane
+D - Poz telafisi ve histogram
+E - Manuel odaklama ve ışık ölçümü
+Doğru Cevap C
+Aciklama Ünite 5'te Program Modu (P) şöyle açıklanmıştır: "Program modu ISO ve flaş kontrollerinden otomatik eylem gerçekleştirmemektedir. Bu mod, çekim sırasında bir güvenlik ağı sunar ancak pozlama ayarı üzerinde Otomatik'ten çok daha hassas bir kontrole sahiptir." Bu, kullanıcının sadece ISO ve Flaş ayarlarını kontrol edebileceği, Diyafram ve Enstantane (Pozlama üçgeni) değerlerini ise makinenin otomatik olarak ayarladığı anlamına gelir.
+
+Soru 48 - Hazır sahneleme modlarından belirli bir pozlama için olabildiğince hızlı bir enstantane hızı elde etmeye çalışan mod aşağıdakilerden hangisidir?
+A - Manzara Modu
+B - Gece / düşük ışık Modu
+C - Portre Modu
+D - Makro Modu
+E - Spor/aksiyon Modu
+Doğru Cevap E
+Aciklama Ünite 5'in "Hazır Sahneleme Modları" bölümünde, bu modların çekilecek fotoğrafın türüne göre pozlama değerlerinin makine tarafından belirlendiği belirtilmiştir. Genel olarak, spor/aksiyon modu (Sports/Action mode), hareketi dondurmak için mümkün olan en hızlı enstantane hızını (kısa pozlama süresi) seçmeye odaklanır, bu da pozlamayı dengelemek için diyaframı veya ISO'yu otomatik olarak ayarlar. Metinde spesifik olarak 'en hızlı enstantane hızı elde etmeye çalışan mod' bilgisi doğrudan yer almama...
+
+Soru 49 - Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kameraya tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+A - Beyaz ayarı
+B - Gamma ayarı
+C - Kontrast ayarı
+D - ICC profil ayarı
+E - Pozometre ayarı
+Doğru Cevap A
+Aciklama Ünite 5'te Beyaz Dengesi başlığı altında, Beyaz Dengesi kavramının renk ısısı ile ilişkili olduğu ve bu ayarın, ışık kaynaklarına göre renk sıcaklığını tanımlayarak renklerin doğru algılanmasını sağladığı açıklanmaktadır. Bu, hem otomatik (AWB) hem de manuel olarak ayarlanabilen bir fonksiyondur.
+
+Soru 50 - Rengin baskın olan dalga boyunu tanımlayan ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran, renge baktığımızda gördüğümüz, rengin kendisini ifade eden değere ne ad verilir?
+A - Ton (Hue)
+B - Parlaklık (Brightness)
+C - Doygunluk (Saturation)
+D - Açıklık (Tint)
+E - Koyuluk (Shade)
+Doğru Cevap A
+Aciklama Metinde, rengin kendisini ifade eden ve onu diğer renklerden ayıran temel özellik Hue (Ton) olarak tanımlanmıştır. Sayısal Fotoğrafçılıkta 1şık Ölçümü, Alan Derinliği, Odaklama, Histogram ve Beyaz Dengesi Seçenekleri başlığı altında değil, ancak bir önceki ünitede yer alan Rengin Temelleri (Ünite 5'te referans verilmiş olabilir, ancak en uygun açıklama Hue'nun tanımıdır) veya Rengin Tanımlanması başlıkları altında açıklanmalıdır. Ünite 4'te renk teorisinden bahsedilmiştir. Rengin Tonu (Hue), ren...
+
+Soru 51 - Üzerinde çalışılan dijital bir görüntünün renklerini ve oranlarını gösteren grafik aşağıdakilerden hangisidir?
+A - Doygunluk
+B - RGB
+C - Histogram
+D - CMYK
+E - Ton
+Doğru Cevap C
+Aciklama Histogram, bir görüntüdeki renkleri ve oranlarını gösteren grafik olarak tanımlanmıştır. Metinde, "Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler... Histogram parlaklık ve renk doygunluk histogramı olarak ikiye ayrılır." şeklinde bilgi verilmiştir.
+
+Soru 52 - Diyafram, fotoğraf makinesinin aşağıdaki birimlerinden hangisinde yer almaktadır?
+A - Denklanşör
+B - Gövde
+C - Sensör
+D - Lens
+E - Elektronik vizör
+Doğru Cevap D
+Aciklama Diyafram, lensin içinde yer alan ve ışığın sensöre ulaşma miktarını kontrol eden mekanizmadır. Metinde, "Diyafram, lensinizde yer alan merceklerden geçen ışığın makineniz içerisine ne kadar gireceği kontrolünün sağlandığı ve çok özel yapraklardan oluşan bir mekanizmadır..." ifadesiyle diyaframın lens bünyesinde olduğu belirtilmiştir. Bu nedenle diyafram, fotoğraf makinesinin lens biriminde yer alır.
+
+Soru 53 - Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
+A - Fluorescent(Floresan)
+B - Depth of field(Alan Derinliği)
+C - Cloudy(Bulutlu)
+D - Daylight(Gün ışığı)
+E - Shade(Gölge)
+Doğru Cevap B
+Aciklama Beyaz Dengesi (White Balance), ışığın renk sıcaklığına göre ayarlanmasıdır. Metinde Beyaz Dengesi için AWB (Otomatik Beyaz Dengesi) ve manuel kontrolün bulunduğu belirtilmiştir. Ayrıca, "Beyaz Dengesi kavramını anlamak için önce renk ısısı kavramını anlamanız gerekir." denilmiştir. ISO Hızı ise sensörün ışığa duyarlılığını ayarlayan bir fonksiyondur, beyaz dengesi ayarı ile doğrudan ilgili değildir. Beyaz Dengesi ayarları; AWB, manuel ayar ve filtreler kullanılarak yapılır. ISO hızı ise pozlama ...
+
+Soru 54 - 1. Renk Modu 2. Manzara Modu 3. Spor/aksiyon modu 4. Portre Modu Yukarıdaki verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
+A - Yalnız 1
+B - 1 ve 2
+C - 2 ve 4
+D - 1, 2 ve 3
+E - 2, 3 ve 4
+Doğru Cevap E
+Aciklama Ünite 5'te belirtildiği üzere, hazır sahneleme modları (Scene Modes) arasında Portre modu, Manzara modu ve Spor/aksiyon modu bulunmaktadır. Bu modlar, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlemesini sağlar. 'Enstantane Önceliği Modu (S veya Tv)' bir pozlama modu iken, verilen diğer üç seçenek hazır sahneleme modlarıdır. Soru, hazır sahneleme modları içinde yer alanları sorduğu için 1, 2, 3 ve 4 ifadelerin hepsi bu kategoriye girer. Ancak, m...
+
+Soru 55 - Rengin baskın olan dalga boyunu tanımlayan ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran, renge baktığımızda gördüğümüz, rengin kendisini ifade eden değere ne ad verilir?
+A - Açıklık (Tint)
+B - Parlaklık (Brightness)
+C - Koyuluk (Shade)
+D - Doygunluk (Saturation)
+E - Ton (Hue)
+Doğru Cevap E
+Aciklama Renk uzayları (RGB, CMYK vb.) renkleri tanımlamak için kullanılan matematiksel modellerdir. Renk yönetiminde, bir rengin Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) olmak üzere üç ana bileşeni tanımlanır. Renge baktığımızda gördüğümüz, rengin kendisini ifade eden ve spektrumdaki yerini gösteren temel özellik 'Ton' (Hue) olarak adlandırılır (Ünite 5).
+
+Soru 56 - --------, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Histogram
+B - Auto fokus
+C - Diyafram
+D - Odak noktası
+E - Beyaz ayarı
+Doğru Cevap A
+Aciklama Histogram, fotoğraf çekimi sırasında pozlamanın doğru olup olmadığını ve ışık/gölge dengesini anında gösteren bir grafiktir. Parlaklık histogramı sol tarafı siyahı, sağ tarafı beyazı temsil ederken, RGB histogramı renk doygunluğunu gösterir (Ünite 5).
+
+Soru 57 - Otomatik netleme noktası etrafından ışığı küçük bir yüzeyden ölçen ışık ölçüm modu aşağıdakilerden hangisidir?
+A - Merkez ağırlıklı ölçüm
+B - Nokta ölçüm
+C - Geniş ölçüm
+D - Matris ölçümü
+E - Kısmi ölçüm
+Doğru Cevap B
+Aciklama 1şık ölçüm modlarından Nokta ölçüm (Spot metering), sayısal fotoğraf makinesinin otomatik netleme noktası etrafından ışığı küçük bir yüzeyden (spot) ölçen moddur. Matris ve Kısmi ölçüm de diğer modlardır (Ünite 5).
+
+Soru 58 - 1. Renk Modu 2. Manzara Modu 3. Spor/aksiyon modu 4. Portre Modu Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
+A - Yalnız 1
+B - 1 ve 2
+C - 2 ve 4
+D - 1, 2 ve 3
+E - 2, 3 ve 4
+Doğru Cevap E
+Aciklama Hazır sahneleme modları, çekilecek fotoğrafın türüne göre fotoğraf makinesinin pozlama değerlerini otomatik olarak belirlediği modlardır. Metinde belirtilen örneklere göre Portre modu, Manzara modu, Spor/aksiyon modu ve Gece/düşük ışık modu hazır sahneleme modları arasındadır. Renk Modu (Renk Uzayı), bir ayar seçeneğidir, hazır sahneleme modu değildir.
+
+Soru 59 - Çekime başlamadan önce öncelikle ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını fotoğraf makinesine/video kamerasına tanımlama işlemi aşağıdaki ayarlardan hangisi ile gerçekleştirilir?
+A - ICC profil ayarı
+B - Gamma ayarı
+C - Beyaz ayarı
+D - Kontrast ayarı
+E - Pozometre ayarı
+Doğru Cevap C
+Aciklama Çekim öncesinde ortamı aydınlatan doğal ya da suni ışık kaynaklarına göre renk sıcaklığını kamera/video kamerasına tanımlama işlemi Beyaz Denge (White Balance) ayarı ile gerçekleştirilir. Ünite 5'te Beyaz Dengesi başlığı altında, 'Beyaz dengesi, fotoğraf görüntüleri üzerinde önemli bir etkiye sahiptir. Sıcaklık veya soğukluk dengesi tamamlayıcı renk eklenerek düzeltilebilir' ifadesi yer almaktadır.
+
+Soru 60 - Rengin baskın olan dalga boyunu tanımlayan kavram aşağıdakilerden hangisidir?
+A - Parlaklık
+B - Saturation
+C - Waveform
+D - Ton
+E - Doygunluk
+Doğru Cevap D
+Aciklama Renk sıcaklığı (Renk Isısı), görünür ışığın bir özelliğidir ve Kelvin (K) cinsinden ölçülür. Kelvin değeri, ışığın baskın olan dalga boyunu (sıcak/soğuk tonunu) tanımlar; daha yüksek K değeri daha mavi (soğuk) ışığı ifade eder. (Ünite 5, Beyaz Dengesi (White Balance) başlığı)
+
+Soru 61 - kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler.
+A - Auto fokus
+B - Histogram
+C - Diyafram
+D - Odak noktası
+E - Beyaz ayarı
+Doğru Cevap B
+Aciklama Histogram, bir görüntünün pozlamasının (parlaklık) doğru olup olmadığını, ışık ve gölgenin dengeli olup olmadığını anında gösteren bir grafiktir. Parlaklık histogramı, sol tarafın tam siyahı, sağ tarafın tam beyazı temsil ettiği bir grafik olarak pozlama bilgisi verir. (Ünite 5, Histogram başlığı)
+
+Soru 62 - 1. Renk Modu 2. Manzara Modu 3. Spor/aksiyon modu 4. Portre Modu Yukarıda verilen ifadelerden hangisi veya hangileri hazır sahneleme modları içerisinde yer alır?
+A - Yalnız 1
+B - 1 ve 2
+C - 2 ve 4
+D - 1, 2 ve 3
+E - 2, 3 ve 4
+Doğru Cevap E
+Aciklama Ünite 5'te, hazır sahneleme modlarına örnek olarak Portre modu, Manzara modu, Spor/aksiyon modu, Gece/düşük ışık modu ve Makro modu verilmiştir. Buna göre 2, 3 ve 4 şıklarındaki modlar hazır sahneleme modları arasındadır.
+
+Soru 63 - modülü, fotoğraf makinesi sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.
+A - Kısmi ölçüm
+B - Matris ölçümü
+C - Merkez ağırlıklı ölçüm
+D - Nokta ölçüm
+Doğru Cevap B
+Aciklama Ünite 5'te, ışık ölçüm modları açıklanmıştır. Matris ölçüm modu (Matrix metering), sahnedeki ışığın tümünü ölçerek ortalama bir değer almayı sağlar. Nokta ölçüm ise spot olarak ölçüm yapar.
+
+Soru 64 - Aşağıdakilerden hangisi White Balance(Beyaz Dengesi) ayarları arasında yer almaz?
+A - Daylight(Gün ışığı)
+B - Depth of field(Alan Derinliği)
+C - Shade(Gölge)
+D - Fluorescent(Floresan)
+E - Cloudy(Bulutlu)
+Doğru Cevap B
+Aciklama Ünite 5'te Beyaz Dengesi (White Balance) kavramının renk ısısı ve Kelvin (K) ile ölçülen renk sıcaklığı ile ilgili olduğu belirtilmiştir. Histogram ise parlaklık ve renk doygunluğu (RGB) ile ilgilidir, beyaz dengesi ayarı ile doğrudan ilişkili bir ayar değildir.
+
+Soru 65 - ------- kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın, parlaklığın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyler. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Odak noktası
+B - Auto fokus
+C - Diyafram
+D - Histogram
+E - Beyaz ayarı
+Doğru Cevap D
+Aciklama Ünite 5'te Histogram'ın, kullanıcının çektiği fotoğrafın pozlamasının doğru olup olmadığını, ışık ve gölgenin dengeli olup olmadığını anında söylediği belirtilmiştir. Histogram, parlaklık ve renk doygunluğu (RGB) histogramı olarak ikiye ayrılır.
+
+Soru 66 - Aşağıdaki diyafram değerlerine göre en büyük açıklık hangisidir?
+A - f/22
+B - f/16
+C - f/8
+D - f/4
+E - f/1.4
+Doğru Cevap E
+Aciklama Diyafram açıklığı, lensin gövdesi içerisine ne kadar ışık gireceğini kontrol eden mekanizmadır ve 'f/değer' ile ifade edilir. f/değer rakamı küçüldükçe diyafram açıklığı (delik boyutu) büyür. Bu nedenle, f/1.8 değeri, f/2.8, f/5.6, f/11 ve f/22 değerlerine göre en büyük açıklığı (en fazla ışık girişini) sağlar.
+
+Soru 67 - İnsanın kişiliğini, iç dünyasını, en iyi şekilde yansıtacak fotoğrafı çekmeyi amaçlayan fotoğrafçılık türü aşağıdakilerden hangisidir?
+A - Belgesel Fotoğrafçılık
+B - Basın Fotoğrafçılığı
+C - Reklam Fotoğrafçılığı
+D - Stok Fotoğrafçılığı
+E - İnsan ve Portre Fotoğrafçılığı
+Doğru Cevap E
+Aciklama Portre fotoğrafçılığı, bir nesnenin (insanın) kişiliğini, iç dünyasını, karakterini en iyi şekilde yansıtacak fotoğrafı çekmeyi amaçlar. Reklam/Tanıtım fotoğrafçılığı satış artırmayı, Manzara/Doğa fotoğrafçılığı ise doğanın varlığını kaydetmeyi hedefler.
+
+Unite 6
+Soru 68 - İki boyutlu bir görselin, izleyicinin zihninde üç boyutlu olarak yeniden oluşabilmesi için, hangisi iki temel bileşenden birisidir?
+A - 1şık ve gölge
+B - 1şık ve yansıma
+C - 1şık ve titreşim
+D - Gölge ve renk
+E - Gölge ve açı
+Doğru Cevap A
+Aciklama Giriş İki boyutlu bir görselin, izleyicinin zihninde üç boyutlu olarak yeniden oluşabilmesi için iki temel bileşen bulunmaktadır. Bunlardan ilki ışık ve gölge, ikincisi ise nesnenin uzayda kapladığı alan (yer ve büyüklük) bilgisidir.
+
+Soru 69 - Nesnenin büyüklüğü/küçüklüğü, uzunluğu/kısalığı vb. fiziksel özellikleri ile çerçeve içerisinde yer alan diğer nesnelerle ilişkisi, boşluklar, fon ve mekân bilgisi bir araya geldiğinde, anlatımda ne sağlanmış olur?
+A - Perspektif
+B - Boyut
+C - Derinlik
+D - Nesnellik
+E - Bütünlük
+Doğru Cevap E
+Aciklama Giriş Nesnenin büyüklüğü/küçüklüğü, uzunluğu/kısalığı vb. fiziksel özellikleri ile çerçeve içerisinde yer alan diğer nesnelerle ilişkisi, boşluklar, fon ve mekân bilgisi bir araya geldiğinde anlatımda bütünlük sağlanmış olur.
+
+Soru 70 - Hangisi konusunu, konuya bakışını duyuları harekete geçirecek biçimde anlatabilmek için yapacağı tercihler arasında yer almaz?
+A - 1şığın yönü
+B - 1şığın şiddeti
+C - Pozlama
+D - Boyut ve hacim ilişkisi
+E - Yönlendirme
+Doğru Cevap E
+Aciklama Giriş Konusunu, konuya bakışını duyuları harekete geçirecek biçimde anlatabilmek için yapacağı bu tercihler, ışığın yönü, şiddeti, pozlama, gölgeler, yansımalar, renk, boyut hacim ilişkisi, mesafe, kullanılacak objektif ve odak uzaklığı, bakış açısı, yüksekliği, netlik, alan derinliği, fon, zamanlama vb. hakkında olacaktır.
+
+Soru 71 - Farklı imgelerin seçilip, ne yapılarak katmanlar hâlinde birleştirilmesiyle doğal ortam hissi yaratılabilir?
+A - Dekupe
+B - Miks
+C - Bindirme
+D - Çözümleme
+E - İmaj
+Doğru Cevap A
+Aciklama FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ Farklı imgelerin seçilip dekupe edilerek katmanlar hâlinde birleştirilmesiyle doğal ortam hissi yaratılabilir.
+
+Soru 72 - Aydınlatma ve kompozisyonda özneyle birlikte kullanılacak aksesuarlar, kostüm, dekor gibi, diğer unsurlarla birlikte bütünlük ilişkisiyle fotoğrafta ne oluşturulur?
+A - Görsellik
+B - Atmosfer
+C - Boyut
+D - Anlam
+E - İçerik
+Doğru Cevap B
+Aciklama FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ Fotoğrafta atmosfer, aydınlatma ve kompozisyonda özneyle birlikte kullanılacak aksesuarlar, kostüm, dekor vb. diğer unsurlarla birlikte bütünlük ilişkisiyle oluşturulur.
+
+Soru 73 - Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara ne ad verilir?
+A - Stüdyo fotoğrafı
+B - Stüdyo fotoğrafçılığı
+C - Fotoğraf stüdyosu
+D - Stüdyo
+E - İç mekan
+Doğru Cevap C
+Aciklama Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara “fotoğraf stüdyosu”, bu mekânlarda çekilen fotoğraflara “stüdyo fotoğrafı”, fotoğraf uygulamalarına da “stüdyo fotoğrafçılığı” denilmektedir.
+
+Soru 74 - Fotoğraf stüdyolarının neden yalıtılmış olması gerekir?
+A - Ses
+B - Isı
+C - Hava
+D - 1şık
+E - Manyetik alan
+Doğru Cevap D
+Aciklama Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı Stüdyoların ışıktan yalıtılmış olmaları gerekir. Dışarıdan ışık alsalar da gerektiğinde izole edilerek tamamen ışıksız bir ortam hâline dönüştürülebilmelidirler.
+
+Soru 75 - Stüdyolarda duvar rengi olarak ışığı yansıtmaması için hangi renk önerilmektedir?
+A - Siyah
+B - Gri
+C - Kırmızı
+D - Mat gri
+E - Mavi
+Doğru Cevap D
+Aciklama Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı Stüdyolarda duvar rengi olarak ışığı yansıtmaması için mat gri renk önerilmektedir.
+
+Soru 76 - Fotoğraf stüdyoların elektrik tesisatında aşağıdakilerden hangisi yer almaz?
+A - Çekilen akıma uygun sigorta ve kaçak akım koruma sistemi bulunması.
+B - Tesisatta kullanılan kablo kalınlıklarının uygunluğu.
+C - Enerji ve akımın dağıtılması için üç fazlı (trifaze) elektrik kullanılması.
+D - Kaçak akımlara karşı güvenlik için mutlaka topraklama hattı bulunması.
+E - Aydınlatma kaynaklarının hatları ve sigortaların birlikte, ayrılmamış olarak kullanılması.
+Doğru Cevap E
+Aciklama Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı Stüdyoların elektrik tesisatında: • çekilen akıma uygun sigorta ve kaçak akım koruma sistemi bulunması, • tesisatta kullanılan kablo kalınlıklarının uygunluğu, • enerji ve akımın dağıtılması için üç fazlı (trifaze) elektrik kullanılması elektrik panosunda normal aydınlatma ve diğer kullanımlar için ayrılan hatlarla, çekimlerde kullanılacak aydınlatma kaynaklarının hatları ve sigortaları birbirinden ayrılmış olması, • kaçak akımlara karşı güvenli...
+
+Soru 77 - Gün ışığı kaç kelvin (K) olarak kabul edilen özel ampuller tarafından sağlanır?
+A - 5000 K
+B - 5100 K
+C - 5200 K
+D - 5300 K
+E - 5500 K
+Doğru Cevap E
+Aciklama Stüdyo ve Birimleri Ancak böyle bir imkân yoksa makyaj yapılacak alan, günışığı (5500K) olarak kabul edilen özel ampuller ile aydınlatılmalıdır.
+
+Soru 78 - Fotoğraf stüdyolarında pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve ne etkisi verilmektedir?
+A - Yansıma
+B - Derinlik
+C - Bindirme
+D - Miks
+E - Geçiş
+Doğru Cevap B
+Aciklama Stüdyo Türleri Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir. Ayrıca pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve derinlik etkisi de verilebilmektedir.
+
+Soru 79 - Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlar, gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyolara hangi ad verilir?
+A - Home stüdyo
+B - Ofis stüdyo
+C - Plato
+D - Minyatür stüdyo
+E - Bütünleşik stüdyo
+Doğru Cevap C
+Aciklama Stüdyo Türleri Plato adı verilen bu stüdyolarda gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlar, gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlar.
+
+Soru 80 - Dikkat çekmek ve algıyı yönlendirmek için fotoğrafın öznesi genellikle çerçeve düzenlemesi içerisinde nereye yerleştirilir?
+A - Aynı hizaya
+B - Ön plana
+C - Ters açıya
+D - Üst Plana
+E - Sağ köşeye
+Doğru Cevap B
+Aciklama FOTOĞRAF STÜDYOSUNDA FON TÜRLERİ VE İŞLEVLERİ Dikkat çekmek ve algıyı yönlendirmek için fotoğrafın öznesi genellikle çerçeve düzenlemesi içerisinde ön plana yerleştirilir.
+
+Soru 81 - Dekupe işlemlerinde hangi renk fon kullanımı mesleki bir standart hâline gelmiştir?
+A - Siyah
+B - Mavi
+C - Gri
+D - Sarı
+E - Beyaz
+Doğru Cevap E
+Aciklama Düz Fonlar Dekupe işlemlerinde beyaz fon kullanımı mesleki bir standart hâline gelmiştir.
+
+Soru 82 - Beyaz fon tercihlerinde hangi aydınlatma yöntemi kullanılarak konu dışında fon da sert bir ışık kaynağı ile aydınlatılır?
+A - High-key
+B - Low-key
+C - Ultra-key
+D - Super-key
+E - Min-key
+Doğru Cevap A
+Aciklama Düz Fonlar Beyaz fon tercihlerinde high-key denilen aydınlatma yöntemi kullanılarak konu dışında fon da sert bir ışık kaynağı ile aydınlatılmaktadır.
+
+Soru 83 - Üçüncü boyut yaratmak amacıyla öznenin büyüklüğünün bir göstergesi olarak yüksekliğine ilişkin bir betimleme yapılması isteniyorsa fonla birlikte, neyin kompozisyonun bir parçası hâline getirilmesi gerekir?
+A - Arka planın
+B - Ön planın
+C - Aydınlatmanın
+D - Zeminin
+E - Rengin
+Doğru Cevap D
+Aciklama Düz Fonlar Üçüncü boyut yaratmak amacıyla öznenin büyüklüğünün bir göstergesi olarak yüksekliğine ilişkin bir betimleme yapılması isteniyorsa, fonla birlikte zeminin de kompozisyonun bir parçası hâline getirilmesi gerekir.
+
+Soru 84 - Aydınlatma tasarımındaki ışık ve gölgeler, mekânda kullanılan dekor ve aksesuarlar üzerindeki neyi yönetir?
+A - İçeriği
+B - Betimlemeyi
+C - İmajı
+D - Biçimi
+E - Dikkati/Algıyı
+Doğru Cevap E
+Aciklama Mekân/Set Fonlar Aydınlatma tasarımındaki ışık ve gölgeler, mekânda kullanılan dekor ve aksesuarlar üzerindeki dikkati/ algıyı yönetir.
+
+Soru 85 - Fotoğraf tekniğiyle küçük öznelerin fotoğraflarını çekmek için kullanılan bir araç olan "still life" ı aşağıdakilerden hangisi tanımlamaktadır?
+A - Ürün çekim masası
+B - Fotoğraf masası
+C - Fon çekim masası
+D - Plan çekim masası
+E - Aydınlatma masası
+Doğru Cevap A
+Aciklama Still Life/Ürün Çekim Masası “Ürün Çekim Masası”, still life olarak ifade edilen fotoğraf tekniğiyle küçük öznelerin fotoğraflarını çekmek için kullanılan bir araçtır.
+
+Soru 86 - Roll film kullanılan orta format kameralarda, kameraların arkasındaki (back) magazinlerin boyutuna göre, kaç cm aralığında kareler elde edilir?
+A - 4.5x6 cm / 6x9 cm
+B - 5x6 cm / 6x7 cm
+C - 3.5x6 cm / 6x9 cm
+D - 4.5x7 cm / 6x8 cm
+E - 4.1x6 cm / 6.1x9 cm
+Doğru Cevap A
+Aciklama Orta format kameralarda roll film kullanılır, kameraların arkasındaki (back) magazinlerin boyutuna göre 4.5x6 cm ile 6x9 cm aralığında kareler elde edilirdi.
+
+Soru 87 - " Tavana ya da duvara monte aparatlara takılan farklı renklerde kumaş ya da karton malzemeden imal edilmiş fon " şeklinde tanımlanan fon türü aşağıdakilerden hangisidir?
+A - Askı/Rulo
+B - Sonsuz
+C - Gobo
+D - Softbox
+E - Butterfly
+Doğru Cevap A
+Aciklama Çoğunlukla küçük boyutlu stüdyolarda kullanılan bu fon türü, tavana ya da duvara monte aparatlara takılan farklı renklerde kumaş ya da karton malzemeden imal edilmiş fon sistemidir. Rulo hâlindeki fon kenardaki zincirlerle aşağı yukarı hareket ettirilerek açılır ya da toplanır.
+
+Soru 88 - Özellikle birkaç mekânda geçen reklam senaryoları için çekimlerin tek bir çatı altında ancak farklı mekânlardaymış izlenimi verilerek gerçekleştirilmesi açısından büyük prodüksiyonlarda tercih edilen alana verilen ad aşağıdakilerden hangisidir?
+A - Plato
+B - Still Life Masası
+C - Çekim Çadırı
+D - Ürün Çekim Masası
+E - Tripod
+Doğru Cevap A
+Aciklama Plato adı verilen bu stüdyolarda gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlar, gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlar. Özellikle birkaç mekânda geçen reklam senaryoları için çekimlerin tek bir çatı altında ancak farklı mekânlardaymış izlenimi verilerek gerçekleştirilmesi açısından büyük prodüksiyonlarda tercih edilen oldukça kullanışlı bir stüdyo türüdür.
+
+Soru 89 - "Fotoğrafı çekilen öznenin, görüntü işleme yazılımları aracılığıyla biçimini oluşturan kontur çizgilerinden seçilip çıkarılarak başka bir zemin, fon ya da görüntü üzerine yerleştirilmek amacıyla ayrıştırılması" şeklinde tanımlanan kavram aşağıdakilerden hangisidir?
+A - Objektif
+B - Tripod
+C - Reflektör
+D - Paraflash
+E - Dekupe
+Doğru Cevap E
+Aciklama Dekupe: Fotoğrafı çekilen öznenin, görüntü işleme yazılımları aracılığıyla biçimini oluşturan kontur çizgilerinden seçilip çıkarılarak başka bir zemin, fon ya da görüntü üzerine yerleştirilmek amacıyla ayrıştırılması.
+
+Soru 90 - Aşağıdakilerden hangisi daha çok bilboard ya da bina giydirme gibi büyük boyutlu baskılar için ihtiyaç duyulan yüksek çözünürlük ve keskinlikte fotoğrafların çekimi için kullanılır?
+A - Tas Reflektörler
+B - Orta format kameralar
+C - Difüzörler
+D - Tungsten
+E - Full Frame SLR
+Doğru Cevap B
+Aciklama Orta format kameralar daha çok bilboard ya da bina giydirme gibi büyük boyutlu baskılar için daha yüksek çözünürlükte ve keskinlikte fotoğraf ihtiyaçları olduğunda tercih edilmektedir.
+
+Soru 91 - Aşağıdakilerden hangisi fiziksel bir mekân olarak stüdyoların özelliklerinin değişkenlik göstermesinin nedenlerinden biri değildir?
+A - Fotoğrafı çekilen öznenin özellikleri
+B - Fotoğrafçıların ihtiyaçları
+C - Fotoğrafçıların sermaye birikimleri
+D - Müşterilerin zevkleri
+E - Fotoğrafçının uzmanlaştığı alanlar
+Doğru Cevap D
+Aciklama Fiziksel bir mekân olarak stüdyoların özellikleri fotoğrafçıların ihtiyaçlarına, fotoğrafını çektikleri öznenin özelliklerine, fotoğrafçıların sermaye birikimlerine ve uzmanlaştıkları alanlara göre değişiklik gösterebilmektedir. Bir fotoğrafçı için küçük bir apartman dairesinin salonunda bir çekim masası yeterli iken, başka bir fotoğrafçı için “hangar” gibi büyük bir mekân ancak yeterli olabilmektedir. Mücevher vb. küçük objeleri çeken bir fotoğrafçı için küçük bir “çekim çadırı” ya da “ürün çek...
+
+Soru 92 - Aşağıdakilerden hangisi çekim setlerinde aydınlatma tasarımı yapmak için kullanılan bir aydınlatma simülasyonu yazılımıdır?
+A - Chrono sync
+B - Adobe Photoshop
+C - Set A Light 3D
+D - Rescue Pro Deluxe
+E - Silver Keeper
+Doğru Cevap C
+Aciklama Yedekleme (Backup) için Time Machine, Silver Keeper, Chrono sync., Jpeg Mini Pro gibi yazılımlar tercih edilmektedir. Zarar gören ve kaybolan dosyaları kurtarmak için ise Rescue Pro Deluxe, Stellar Data Recover sıklıkla kullanılan yazılımlar arasındadır. Set A Light 3D: Stüdyo fotoğrafçılığında, farklı ürün ve malzemelere göre kurulacak çekim setlerinde aydınlatma tasarımı yapmak için kullanılan bir aydınlatma simülasyonu yazılımıdır. Fotoğrafı çekilecek özneye ve aksesuarlara bağlı olarak kulla...
+
+Soru 93 - 1şık kaynaklarının önüne takılan bu alet ile tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür" ifadesi ile aşağıdakilerin hangisi tanımlanmaktadır?
+A - Snoot
+B - Strafor
+C - Petek
+D - Softbox
+E - Gobo
+Doğru Cevap A
+Aciklama 1şık kaynaklarının önüne takılan Snoot ile tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür. Özellikle sınırlı bir alan ya da yüzeye noktasal aydınlatma yapılmak için tercih edilmektedirler. Portre çekimlerinde saç ışığı için de kullanılabilen snootlarla aynı zamanda fon ya da başka bir yüzey üzerine dairesel bir ışık etkisi de yaratılarak, kontrast bir etki elde edilebilir.
+
+Soru 94 - Stüdyo fotoğrafçılığında çoğul aydınlatma yöntemi için en az kaç tane paraflaş kullanılmalıdır?
+A - 2
+B - 3
+C - 4
+D - 5
+E - 6
+Doğru Cevap B
+Aciklama Stüdyo fotoğrafçılığında aydınlatma kaynağı olarak genellikle anlık ışık yayan Paraflaşlar kullanılır. Elektrik enerjisiyle çalışan paraflaşlar 300, 500, 600, 800, 1000 ve 1200 Watt gibi farklı güçlerde ışık enerjisi yayarlar. (Bu değerler bazı kaynaklarda Joule olarak da geçmektedir. 1 J=1W) Stüdyonun büyüklüğüne ve çekilen konulara göre değişmekle birlikte çoğul aydınlatma yöntemi için (anahtar, dolgu ve arka ışık) en az üç tane olması tercih edilir.
+
+Soru 95 - Stüdyolarda duvar rengi olarak aşağıdakilerden hangisi kullanılmalıdır?
+A - Açık yeşil
+B - Koyu yeşil
+C - Beyaz
+D - Siyah
+E - Mat gri
+Doğru Cevap E
+Aciklama Stüdyolarda duvar rengi olarak ışığı yansıtmaması için mat gri renk önerilmektedir. Ancak genellikle beyaz rengin tercih edildiği gözlenmektedir. Beyaz renk tercihi büyük stüdyolarda sıkıntı yaratmaz iken küçük stüdyolarda ışık yansımaları nedeniyle gölgelerin kontrolünde sorunlar yaratabilmektedir.
+
+Soru 96 - Temel görevleri; çekim sonrasında fotoğrafların bilgisayar ortamında “rötuşlama, temizleme, silme, renk düzenleme/keskinleştirme, kesme ve birleştirme vb.” işlemlerini yaparak müşteri ve ajansa teslime hazır hâle getirmek olan stüdyo görevlisi aşağıdakilerden hangisidir?
+A - Representer
+B - Retoucher
+C - Sekreter
+D - Prodüktör
+E - 1şıkçı
+Doğru Cevap B
+Aciklama Retoucher: Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personeldir. Temel görevleri; çekim sonrasında fotoğrafların bilgisayar ortamında “rötuşlama, temizleme, silme, renk düzenleme/keskinleştirme, kesme ve birleştirme vb.” işlemlerini yaparak müşteri ve ajansa teslime hazır hâle getirmektir. Bazı durumlarda çekim anında çözülmesi gereken teknik bir problemin yazılımlar aracılığıyla daha kolay ve kısa sürede çözülebileceği konusunda fotoğrafçı fikir alışverişi...
+
+Soru 97 - Hangisi, fotoğraf stüdyolarının teknik ve fiziksel özelliklerinin anlaşılmasında doğru kabul edilebilir?
+A - Stüdyo, fotoğrafçıların hayal dünyalarındaki imgeleri gerçeğe, yaratıcılıklarını performansa dönüştürebilmeleri için son derece sınırlı ve büyük eksiklikler barındıran bir evrendir.
+B - İdeal fotoğrafın ortaya çıkması için çekim koşullarında yapılacak tüm müdahale ve değişiklikler olağan dışı kabul edilmektedir.
+C - Stüdyolar ortamı, koşulları ve teknik donanımları çerçevesinde fotoğraf çekimlerinde oldukça sınırlı fırsatlar sunmaktadır.
+D - Stüdyo, fotoğrafın öznesine ve/veya verilmek istenen etkiye göre sürekli yenilenebilen, değiştirilebilen yapay bir ortamdır.
+E - Stüdyo ortamında farklı öznelerin fotoğraf çekimi için farklı atmosferler yaratılması oldukça zordur.
+Doğru Cevap D
+Aciklama FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ Stüdyo, fotoğrafçıların hayal dünyalarındaki imgeleri gerçeğe, yaratıcılıklarını performansa dönüştürdükleri zengin bir evrendir. Stüdyolar ortamı, koşulları ve teknik donanımları çerçevesinde fotoğraf çekimlerinde oldukça geniş fırsatlar sunmaktadır. İdeal fotoğrafın ortaya çıkması için çekim koşullarında yapılacak tüm müdahale ve değişiklikler olağan kabul edilmektedir. Stüdyo, fotoğrafın öznesine ve/veya verilmek istenen etkiye göre sürekli ...
+
+Soru 98 - Stüdyoda çekilen fotoğraflarla ilgili hangi ifadenin doğru olduğu söylenemez?
+A - Verilmek istenen iletiye ya da duyguya bağlı olarak, yaratılmak istenen atmosfer içerisinde sunulmalıdır.
+B - Fotoğrafta atmosfer, aydınlatma ve kompozisyonda özneyle birlikte kullanılacak aksesuarlar, kostüm, dekor vb. diğer unsurlarla birlikte bütünlük ilişkisiyle oluşturulur.
+C - İlgiyi yönlendirmek, dikkat çekmek, benzerlerinden farklılaşabilmek gibi amaçlarla hedeflenen etkiler, kimi zaman gerçek dışı fotoğraflarla da yaratılabilir.
+D - Hedeflenen etkiyi yaratmak için dijital teknolojinin sağladığı olanaklardan ve yazılımlardan da faydalanılabilir.
+E - Farklı imgelerin seçilip dekupe edilerek katmanlar hâlinde birleştirilmesi, doğal ortam hissi yaratılmasında engeldir.
+Doğru Cevap E
+Aciklama FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ Stüdyoda çekilen fotoğraflar, verilmek istenen iletiye ya da duyguya bağlı olarak, yaratılmak istenen atmosfer içerisinde sunulmalıdır. Fotoğrafta atmosfer, aydınlatma ve kompozisyonda özneyle birlikte kullanılacak aksesuarlar, kostüm, dekor vb. diğer unsurlarla birlikte bütünlük ilişkisiyle oluşturulur. İlgiyi yönlendirmek, dikkat çekmek, benzerlerinden farklılaşabilmek gibi amaçlarla bu etkiler, kimi zaman gerçek dışı fotoğraflarla da yaratıl...
+
+Soru 99 - Fotoğrafı çekilen öznenin, görüntü işleme yazılımları aracılığıyla biçimini oluşturan kontur çizgilerinden seçilip çıkarılarak başka bir zemin, fon ya da görüntü üzerine yerleştirilmek amacıyla ayrıştırılmasına ne ad verilir?
+A - Stüdyo çekimi
+B - Taslak
+C - Dekupe
+D - Breef
+E - Hedef fotoğraf
+Doğru Cevap C
+Aciklama FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ Dekupe: Fotoğrafı çekilen öznenin, görüntü işleme yazılımları aracılığıyla biçimini oluşturan kontur çizgilerinden seçilip çıkarılarak başka bir zemin, fon ya da görüntü üzerine yerleştirilmek amacıyla ayrıştırılması.
+
+Soru 100 - Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara ne ad verilir?
+A - Stüdyo fotoğrafı
+B - Fotoğraf stüdyosu
+C - Hangar
+D - Çekim çadırı
+E - Ürün çekim kiti
+Doğru Cevap B
+Aciklama Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara “fotoğraf stüdyosu”, bu mekânlarda çekilen fotoğraflara “stüdyo fotoğrafı”, fotoğraf uygulamalarına da “stüdyo fotoğrafçılığı” denilmektedir.
+
+Soru 101 - Fotoğraf stüdyoları için standart olmasa da bazı ideal koşullarından bahsedilebilir. Hangisi bu koşullardandır?
+A - Ortam aydınlatmaları mümkün olduğunca duvarlardan yapılmamalı ve ışığın aşağı doğru sarkmasına engel olunmalıdır.
+B - Stüdyolarda duvar rengi olarak ışığı yansıtması için parlak beyaz renk önerilmektedir.
+C - Stüdyoların zemin ve duvarları düz, en, boy ve derinlik açısından mümkün olduğunca dar olmalıdır.
+D - Aydınlatma kaynaklarının enerji ihtiyacı için kullanılacak prizler zemine yakın bir yükseklikte ve yeterli sayıda olmalıdır.
+E - Stüdyolar için çoğunlukla üst katlar tercih edilmektedir.
+Doğru Cevap D
+Aciklama Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı i. Aydınlatma kaynaklarının enerji ihtiyacı için kullanılacak prizler zemine yakın bir yükseklikte ve yeterli sayıda olmalıdır.
+
+Soru 102 - “Günışığı/ Daylight Stüdyoları” nın anlaşılması ve tanımlanmasında hangisinin doğru olduğu söylenemez?
+A - Şehir merkezlerinde, çoğunlukla ana caddeler ile büyük iş merkezlerine yakın yerlerde, günlük yaşamda en sık karşılaşılan ve kullanılan stüdyo türleridir.
+B - Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir.
+C - Pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve derinlik etkisi de verilebilmektedir.
+D - Daha esnek aydınlatma alternatifi sunmaları açısından “Günışığı/ Daylight Stüdyoları”nın ışık tararımı açısından oldukça avantajlı olduğu söylenebilir.
+E - Günümüzde, gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra, bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları” oluşturulmaktadır
+Doğru Cevap A
+Aciklama Günümüzde, benzer şekilde gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra, bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları” oluşturulmaktadır. Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir. Ayrıca pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve derinlik etkisi de verilebilmektedir. Daha esnek aydın...
+
+Soru 103 - Fotoğrafçılık sektöründe artan rekabet koşulları ve işletme maliyetleri, ürünlerin nakliye maliyetleri, mobilya vb. ürünlerin montaj süresi, kamyon, otobüs gibi büyük ürünlerin stüdyolara taşınması gibi faktörlerin hangisini gündeme getirdiği söylenebilir?
+A - Gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra, bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları”.
+B - Şehir merkezlerinde, çoğunlukla ana caddeler ile büyük iş merkezlerine yakın yerlerdeki küçük fotoğraf stüdyolarnı.
+C - Maliyetlerin azaltılması ve prodüksiyonun hızlandırılmasını mümkün kılacak “portatif stüdyolar”ı.
+D - Reklam ve tanıtım amacıyla sıklıkla fotoğraf kullanan bazı firmaların kendilerine ait mekânlarda oluşturdukları daimi stüdyoları.
+E - Plato adı verilen stüdyoları.
+Doğru Cevap C
+Aciklama Stüdyo Türleri Fotoğrafçılık sektöründe artan rekabet koşulları ve işletme maliyetleri, ürünlerin nakliye maliyetleri, mobilya vb. ürünlerin montaj süresi, kamyon, otobüs gibi büyük ürünlerin stüdyolara taşınması gibi faktörler, maliyetlerin azaltılması ve prodüksiyonun hızlandırılmasını mümkün kılacak “portatif stüdyolar”ı gündeme getirmektedir. Reklam veren firmaların fabrika, atölye, “showroom” ya da satış ofislerinde oluşturulan setler, kumaş vb. çeşitli malzemelerle çevrelerinden yalıtılara...
+
+Soru 104 - Hangisi, stüdyoda kullanılan fon türlerinden düz fonun anlaşılmasında, doğru olarak değerlendirilebilir?
+A - Verilmek istenen etkiye ve fotoğrafçının tercihine bağlı olarak farklı renkler kullanılabileceği gibi çoğunlukla mavi renk tercih edilir.
+B - Öznenin çoğunlukla tek ya da ilişkili birkaç nesne ile desensiz ve dokusuz düz renkten oluşan fon önüne yerleştirilerek fotoğrafının çekildiği bir kullanım biçimidir.
+C - Düz renkli fonların tercih edilmesinin nedeni, boşluk ve sadelik etkilerini zayıflatarak ilgiyi arka plandaki öznelere de yönlendirmeleridir.
+D - Düz renkli fon kullanıldığında öznenin formu, hacmi ve derinlik etkisi önemli miktarda artar.
+E - Daha nadir kullanılsalar da bu tip fonlar, desenli baskı fonların anlatımda pasif yapısına tezat olarak fonu dinamik ve dikkat çekici bir faktör olarak değerlendirmek amacıyla kullanılmaktadırlar.
+Doğru Cevap B
+Aciklama Stüdyoda Kullanılan Fon Türleri ve İşlevleri Öznenin çoğunlukla tek ya da ilişkili birkaç nesne ile desensiz ve dokusuz düz renkten oluşan fon önüne yerleştirilerek fotoğrafının çekildiği bir kullanım biçimidir. Fon olarak öznenin büyüklüğüne göre stüdyodaki sabit ve askılı fonlar kullanılabildiği gibi karton, kumaş, duvar, stil life çekim masası ya da çekim çadırları da kullanılabilir. Kimi zaman öznenin üzerine konulduğu masa, sehpa vb. malzemelerin yüzeyleri de fon olarak değerlendirilebilmek...
+
+Soru 105 - Stüdyo fotoğrafçılığında, farklı ürün ve malzemelere göre kurulacak çekim setlerinde aydınlatma tasarımı yapmak için kullanılan aydınlatma simülasyonu yazılımı hangisidir?
+A - Capture One Pro
+B - Yedekleme ve veri kurtarma yazılımı
+C - Photoshop
+D - Set A Light 3D
+E - Helicon Focus
+Doğru Cevap D
+Aciklama Bilgisayar Donanım ve Yazılımları Set A Light 3D: Stüdyo fotoğrafçılığında, farklı ürün ve malzemelere göre kurulacak çekim setlerinde aydınlatma tasarımı yapmak için kullanılan bir aydınlatma simülasyonu yazılımıdır. Fotoğrafı çekilecek özneye ve aksesuarlara bağlı olarak kullanılacak ışık adedi, şiddeti, diyafram değerleri gibi birçok değişkene göre sonucun belirlenmesini sağlayan oldukça kullanışlı bir yazılımdır.
+
+Soru 106 - Stüdyo fotoğrafçılığında, fotoğrafı çekilen ürüne yönelik verilmek istenen ileti ve yaratılmak istenen imaja uygun olarak tasarlanan setin oluşturulmasını hazır hâle getirmek, kullanılacak dekor ve aksesuarları hazır hâle getirmek, gerekli kurulum ve montajların yapılmasını sağlamakla görevli olan kişi hangisidir?
+A - Sanat Yönetmeni
+B - Retoucher
+C - Representer
+D - Prodüktör
+E - Styling
+Doğru Cevap A
+Aciklama STÜDYO FOTOĞRAFÇILIĞINDA GÖREVLİLER VE İŞLEVLERİ Sanat Yönetmeni: Fotoğrafı çekilen ürüne yönelik verilmek istenen ileti ve yaratılmak istenen imaja uygun olarak tasarlanan setin oluşturulmasını hazır hâle getirmek, kullanılacak dekor ve aksesuarları hazır hâle getirmek, gerekli kurulum ve montajların yapılmasını sağlamak temel görevleridir.
+
+Soru 107 - Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir?
+A - 360 Derece Kameralar
+B - DSLR Kamera
+C - 3D Dijital Kameralar
+D - Hibrit Kameralar
+E - Drone Kameralar
+Doğru Cevap A
+Aciklama VR (sanal gerçeklik) teknolojisi, fiziki olarak var olmayan bir alanda, görünen ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan deneyimler sunar. Bu tür videolar genellikle kafa montajlı ekranlar (VR gözlükler) ile izlenebilir. VR kameralar bu videoları üretir.
+
+Soru 108 - -------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A) Endüstri B) Dijitalleşme C) Tarım D) Ticaret E) Tüketim
+A - Endüstri
+B - Dijitalleşme
+C - Tarım
+D - Ticaret
+E - Tüketim
+Doğru Cevap A
+Aciklama Endüstriyel fotoğrafçılık, ham madde veya yarı üretilmiş mamüllerin, insanların yararı amaçlanarak tam üretilmiş hâle getirilmesi sektörüne odaklanır. Bu sektör, ham madde ve yarı işlenmiş ürünleri içerir. Bu tanım, Endüstri kavramının tanımına uymaktadır. Ünite 6'da "Endüstriyel Fotoğraf" başlığı altında, Endüstri'nin tanımı verilmiştir: "Endüstri, ham madde veya yarı üretilmiş mamüllerin insanların yararı amaçlanarak tam üretilmiş hâle getirilmesidir." Bu nedenle doğru cevap A (Endüstri) olmal...
+
+Soru 109 - Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır? A) Dolly B) OIS C) Jimmy Jib D) Gimbal E) Steadicam
+A - Dolly
+B - OIS
+C - Jimmy Jib
+D - Gimbal
+E - Steadicam
+Doğru Cevap C
+Aciklama Gimbal, vinç mekanizmaları ve Dolly, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlardır. Jimmy Jib, vinç mekanizması olarak adlandırılan ve mekanik olarak kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın kamerayı taşıyan ekipmanlara verilen genel bir isimdir. Ünite 3'te, hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly isimli cihazların kullanıldığı belirtilmiştir. Dolly, genellikle zemin üzer...
+
+Soru 110 - Bir ışık kaynağının, doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir? A) UV B) Polarize C) CRI D) LED E) TLCI
+A - UV
+B - Polarize
+C - CRI
+D - LED
+E - TLCI
+Doğru Cevap C
+Aciklama CRI (Color Rendering Index - Renk Geri Verim İndeksi), üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirleyen bir değerdir. Ünite 6'da, LED ışık tercih ederken bilinmesi gereken önemli noktalardan birinin CRI değeri olduğu, bu değerin üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirttiği bilgisi yer almaktadır.
+
+Soru 111 - -------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Endüstri
+B - Kullanıcı
+C - Ürün
+D - Ticaret
+E - Müşteri
+Doğru Cevap A
+Aciklama Ünite 6'da Endüstriyel Fotoğrafçılık başlığı altında bu tanım verilmiştir: "Endüstri, ham madde veya yarı üretilmiş mamüllerin insanların yararı amaçlanarak tam üretilmiş hâle getirilmesidir." Bu, Endüstri kavramını tanımlamaktadır.
+
+Soru 112 - Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir?
+A - Drone Kameralar
+B - 360 Derece Kameralar
+C - 3D Dijital Kameralar
+D - DSLR Kamera
+E - Hibrit Kameralar
+Doğru Cevap B
+Aciklama Ünite 6'ya göre, VR (sanal gerçeklik) ve AR (artırılmış gerçeklik) teknolojileri, dış dünyayla bağlantı kurma biçimini değiştirmiştir. Özellikle 360 derece kameralar, yeni nesil bir multimedya aracı olarak gelecek vaat eden cihazlardır ve VR gözlüklerle izlenebilen videoların üretimini sağlarlar.
+
+Soru 113 - Aşağıdakilerden hangisi güneşten gelen mavi ve mor ötesi ışınları %99 oranında emerek daha berrak görüntü elde edilmesini sağlarlar?
+A - Renk düzeltme filtreleri
+B - ND (Netural Density) filtreler
+C - Makro filtreler
+D - Polarize filtreler
+E - UV (UltraViole) filtreler
+Doğru Cevap E
+Aciklama Ünite 6'da, stüdyo ışık kaynaklarının özelliklerinden bahsedilmektedir. Özellikle renk sıcaklığı 5500 K civarında olan ve gün ışığına yakın beyaz ışık veren paraflaşların avantajları arasında, ışığın çıplak gözle gözlemlenememesi dezavantajı olsa da, parlak ve güçlü ışık yayması ve 5500 K beyaz ışık vermesi sayılır. Ancak sorudaki 'mavi ve mor ötesi ışınları %99 oranında emerek daha berrak görüntü' ifadesi, genellikle UV filtrelerinin bir özelliğidir. Ünite 6'da UV filtrelerinin lensleri dış etk...
+
+Soru 114 - Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?
+A - Daylight stüdyo
+B - Çekim seti
+C - Plato
+D - Outdoor stüdyo
+E - Portatif stüdyo
+Doğru Cevap A
+Aciklama Ünite 6'da, reklam ve tanıtım amacıyla kullanılan, mimari alanlara benzer şekilde gerçekçi bir atmosfer yaratan stüdyo türü için 'plato' veya 'set' kavramları kullanılır. Ancak verilen şıklarda, 'Günışığı/Daylight Stüdyoları' gün ışığından yararlanan kapalı alanlar olarak geçmektedir. Metinde, reklam sektörüne yönelik çekimlerde kullanılan, mimari (otel, iş merkezleri, avm vs.) çekimler için özel dekorlarla düzenlenmiş alanlar 'Daimi Stüdyolar' olarak tanımlanmıştır. Şıklar arasında en uygun ola...
+
+Soru 115 - Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır?
+A - Ayna
+B - Stil life masası
+C - Sonsuz Fon
+D - Strafor
+E - Çekim çadırı
+Doğru Cevap D
+Aciklama Ünite 6'da, parlak yüzeyli nesne ve ürünlerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan donanım olarak Çekim Çadırı (Shooting Tent) tanımlanmaktadır: "Çekim Çadırı daha çok parlak yüzeylere sahip nesne ve ürünlerin yüzeylerinde oluşan ışık ya da ortam yansımalarını önlemek için kullanılır."
+
+Soru 116 - Aşağıdakilerden hangisi parlak yüzeyli nesnelerin stüdyo çekimlerinde ışık ve ortam yansımalarını önlemek için kullanılan bir stüdyo donanımıdır?
+A - Ayna
+B - Stil life masası
+C - Sonsuz Fon
+D - Strafor
+E - Çekim çadırı
+Doğru Cevap E
+Aciklama Parlak yüzeyli nesne ve ürünlerde ışık ve ortam yansımalarını önlemek için kullanılan ekipman "Çekim Çadırı"dır. Çekim çadırı, sert gölgeleri yumuşatır ve yüzey yansımalarını kontrol altına alarak daha pürüzsüz bir görüntü elde edilmesini sağlar.
+
+Soru 117 - Aşağıdakilerden hangisi fotoğrafçıların ajans ve müşterilerle ilişkilerini düzenleyen, tanıtımını yapan, teklif ve bütçesini hazırlayan, idari ve mali konulardaki işlerin takibini yürüten temsilcisidir?
+A - Styling
+B - Representer
+C - Prodüktör
+D - Butafor
+E - Retoucher
+Doğru Cevap B
+Aciklama Fotoğrafçıların ajans ve müşterilerle ilişkilerini düzenleyen, tanıtımını yapan, teklif ve bütçesini hazırlayan, idari ve mali konulardaki işlerin takibini yürüten temsilcisine "Representer" denir.
+
+Soru 118 - Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
+A - Panoroma
+B - Perspektif
+C - Kombine pozlama
+D - Ortofoto
+E - Dikey pozlama
+Doğru Cevap D
+Aciklama Sonsuz fon, stüdyo zemininde, duvar ile zemin arasındaki birleşme çizgisinin bir eğimle gizlenerek izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandıran arka plan düzenlemesidir.
+
+Soru 119 - Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir. Yukarıda tanımı verilen fon türü aşağıdakilerden hangisidir?
+A - Mekân/Set Fonlar
+B - Sonsuz Fon
+C - Askı/Rulo Fon
+D - Çekim Çadırı
+E - Düz Fonlar
+Doğru Cevap A
+Aciklama Soruda tanımı verilen fon türü, 'Mekân/Set Fonlar' olarak adlandırılır. Bu türde, çekilen öznenin çevresindeki diğer unsurlar veya ortam, kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılır. Ünite 6'da, 'Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir' ifadesiyle bu fon türü tanımlanmıştır.
+
+Soru 120 - Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?
+A - İkinci Asistan
+B - Retoucher
+C - Sekreter
+D - Muhasebeci
+E - Sanat Yönetmeni
+Doğru Cevap B
+Aciklama Retoucher, fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personeldir. Ünite 6'da bu görev tanımı açıkça belirtilmiştir.
+
+Soru 121 - Ayarlanabilir güçleriyle daha geniş bir aralıkta pozlama ve aydınlatma etkisi elde edilmesini sağlar. Ortamı ısıtmaz. Kendisi de çabuk ısınmaz. 1şık kaynakları daha uzun ömürlüdür. Kullanımı daha ekonomiktir. Yukarıda verilen bilgiler aşağıdaki ışık kaynaklarından hangisinin sabit ışık kaynaklarına göre avantajları arasında yer almaktadır?
+A - Tungsten
+B - Daylight
+C - Led
+D - Paraflaş
+E - HMI Daylight
+Doğru Cevap D
+Aciklama Ünite 6'daki Paraflaşların (Anlık 1şık) avantajları arasında: Parlak ve güçlü ışık yayma, 5500 K beyaz ışık verme, ayarlanabilir güç, çok sayıda aksesuarla kullanım, yüksek hızlı senkronizasyon, kısa diyafram değerleri ile daha geniş alan derinliği elde etme, ortamı ısıtmama, çabuk ısınmama, uzun ömürlü olma ve ekonomik olma yer alır. Bu özellikler, sabit ışıklara (Tungsten, HMI, Led) kıyasla paraflaşlara özgüdür. Verilen özelliklerin tamamı Paraflaşların avantajlarıdır.
+
+Soru 122 - Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?
+A - Snoot
+B - Şemsiye
+C - Reflektör
+D - Gobo
+E - Softbox
+Doğru Cevap A
+Aciklama Ünite 6'da '1şık Şekillendiriciler' altında Snoot başlığı altında, '1şık kaynaklarının önüne takılarak tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür' şeklinde belirtilmiştir.
+
+Soru 123 - Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
+A - Panoroma
+B - Perspektif
+C - Dikey pozlama
+D - Kombine pozlama
+E - Ortofoto
+Doğru Cevap E
+Aciklama Ünite 6'da Stüdyo Türleri başlığı altında, Sonsuz Fon'un 'zemin ve fonun bir eğim ile birleştirildiği; izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandıran arka plandır' şeklinde tanımlandığı, ayrıca bu fonun havadan perspektif (yukarıdan görünüm) için de kullanıldığı belirtilmiştir.
+
+Soru 124 - Farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan yazılım aşağıdakilerden hangisidir?
+A - Helicon Focus
+B - Photoshop
+C - Capture One Pro
+D - NAS
+E - Raid
+Doğru Cevap A
+Aciklama Helicon Focus yazılımı, Focus Stacking olarak bilinen teknikle, farklı noktalara netlik kaydırması yapılarak ayrı ayrı elde edilen fotoğrafları birleştirir, bu sayede daha geniş bir alan derinliği elde edilmesini sağlar. (Ünite 6, Helicon Focus tanımı)
+
+Soru 125 - Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?
+A - Muhasebeci
+B - İkinci Asistan
+C - Sekreter
+D - Retoucher
+E - Sanat Yönetmeni
+Doğru Cevap D
+Aciklama Retoucher, fotoğraf işlemede kullanılan yazılımları (Photoshop gibi) etkin ve yaratıcı bir biçimde kullanan personele verilen isimdir. Bu kişi, görüntü işleme süreçlerinde kritik rol oynar. (Ünite 6, Stüdyo Fotoğrafçılığında Görevliler ve İşlevleri başlığı altındaki Retoucher tanımı)
+
+Soru 126 - Bilgisayara bağlanarak gücü ve rengi ayarlanabilir, özel yazılım kullanılarak farklı ışık etkileri yaratmak için kullanılabilirler. Enerji sarfiyatları diğer sabit ışık kaynaklarına nazaran oldukça düşük, ısınmadıkları için kullanım ömürleri de uzundur. Yukarıda tanımı verilen ışık kaynağı aşağıdakilerden hangisidir?
+A - Halojen
+B - Paraflaş
+C - HMI Daylight
+D - Tungsten
+E - Led 1şık
+Doğru Cevap E
+Aciklama Soruda bahsedilen, ayarlanabilir gücü, rengi, farklı ışık etkileri yaratma yeteneği, düşük enerji sarfiyatı, ısınmama ve uzun ömür gibi özelliklere sahip ışık kaynağı LED 1şık teknolojisidir. Ünite 6'da LED ışıkların bu avantajlarına değinilmiştir.
+
+Soru 127 - 1. Stüdyoların ışıktan yalıtılmış olmaları gerekir. 2. Stüdyo olarak kullanılacak mekânların, en az 7 metre ve üzeri yükseklikte olması önerilmektedir. 3. Stüdyolarda duvar rengi olarak yeşil renk önerilmektedir. 4. Stüdyo zeminlerinin kaygan olmayan mat ve düz yüzeyli, dayanıklı ve çizilmeyen malzemeden olması önerilmektedir. Yukarıda verilen fotoğraf stüdyolarının ideal koşullarından hangileri doğrudur?
+A - 1, 2 ve 4
+B - 1 ve 4
+C - 1, 2, 3 ve 4
+D - 1 ve 2
+E - 2 ve 3
+Doğru Cevap B
+Aciklama Ünite 6'da stüdyoların ideal koşulları sıralanmıştır: 1. 1şıktan yalıtılmış olmaları gerekir (Doğru). 2. Tavan yüksekliği ile ilgili kesin bir yükseklik (7m üzeri) şartı belirtilmemiştir, sadece tavanın yüksek olması gerektiği ve ışık yönlendirmeye olanak tanıması gerektiği belirtilmiştir. Bu nedenle 2 yanlıştır. 3. Duvar rengi olarak mat gri renk önerilmektedir, yeşil renk (chroma key için kullanılabilir ancak genel ideal koşul değil) önerilmemiştir. Bu nedenle 3 yanlıştır. 4. Zeminlerin kaygan...
+
+Soru 128 - Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
+A - Kombine pozlama
+B - Perspektif
+C - Dikey pozlama
+D - Ortofoto
+E - Panoroma
+Doğru Cevap D
+Aciklama Sonsuz fon, genellikle büyük stüdyolarda düz bir duvarın zeminle kıvrımlı bir şekilde birleştirilmesiyle oluşturulan, bir eğim ile birleştirilmiş yapıya sahip arka plandır. Bu yapı, izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandırır ve 'sonsuz fon' olarak adlandırılır. Ünite 6'da bu tanım verilmiştir.
+
+Soru 129 - Aşağıdakilerden hangisi paraflaşların dezavantajlarından biridir?
+A - Parlak ve güçlü ışık yayarlar.
+B - Gün ışığına yakın bir değerde 5500 K beyaz ışık verir.
+C - Sabit ışıklar gibi ortamı ısıtmaz.
+D - Anlık ışık yaydıkları için ışık etkileri çıplak gözle gözlemlenemez.
+E - 1şık kaynakları daha uzun ömürlüdür.
+Doğru Cevap D
+Aciklama Ünite 6'da Paraflaşların avantajları ve dezavantajları listelenmiştir. Paraflaşların dezavantajları arasında şunlar sayılmıştır: "Anlık ışık yaydıkları için ışık etkileri çıplak gözle gözlemlenemez" ve "Etkin kullanılması için teknik bilgi ve deneyim gerektirir." Bu seçeneklerden ilki, anlık ışık yayma özelliğinin doğrudan bir sonucudur ve en belirgin dezavantajlardan biridir.
+
+Soru 130 - Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?
+A - Daylight stüdyo
+B - Plato
+C - Çekim seti
+D - Outdoor stüdyo
+E - Portatif stüdyo
+Doğru Cevap B
+Aciklama Ünite 6'nın Stüdyo Türleri başlığı altında, stüdyoların kullanım amaçlarına göre farklı boyutlarda oluşturulduğu belirtilmiştir. Metinde, "Görüntü estetiği adına özel bir üretim gerçekleştirilmesini sağlayan bu sabitleyicilerin kullanımı son yıllarda bir hayli artmıştır..." ifadesi geçmektedir. Bu ifade, yaratıcılık ve teknik disiplin gerektiren, sahneleme ve atmosfer oluşturmaya odaklanan stüdyo fotoğrafçılığının temel amacını yansıtır. Ancak, soruda sorulan 'mimari alanlara benzer şekilde gerç...
+
+Soru 131 - 1şık kaynaklarının önüne takılan ve ışığın açısını daraltarak noktasal aydınlatma sağlayan aydınlatma aksesuarı aşağıdakilerden hangisidir?
+A - Petek
+B - Şemsiye
+C - Snoot
+D - Softbox
+E - Tas Reflektör
+Doğru Cevap C
+Aciklama Ünite 6'daki '1şık Şekillendiriciler' başlığı altında Snoot tanımı, '1şık kaynaklarının önüne takılan Snoot ile tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak mümkündür' şeklinde açıklanmaktadır. Bu, soruda bahsedilen aydınlatma aksesuarıdır.
+
+Soru 132 - görüleceklerin yeri ve konumu, kullanılacak malzemelerin seçimi, birbirleriyle olan ilişkileri, uyumu ve en estetik görünümü elde etmede görüş ve önerileriyle çekimin başarılı geçmesine katkıda bulunurlar." Yukarıda verilen iş tanımlamasına uygun bir şekilde hizmet veren profesyonel görevli aşağıdakilerden hangisidir?
+A - Styling
+B - Representer
+C - Retoucher
+D - 1. Asistan
+E - 1şık operatörü
+Doğru Cevap A
+Aciklama Ünite 6'da, 'Stüdyo Fotoğrafçılığında Görevliler ve İşlevleri' başlığı altında, 'Styling, kuaför, makyöz gibi profesyoneller de çekim sürecine dahil olmaktadırlar' bilgisi verilmektedir. Ayrıca, 'sanat yönetmeni' de bu listede yer almaktadır. 'Görüntü ve hareketli görüntü çekim menüleri' gibi teknik konular yerine, 'görüleceklerin yeri ve konumu, kullanılacak malzemelerin seçimi, birbirleriyle olan ilişkileri, uyumu ve en estetik görünümü elde etmede görüş ve önerileriyle çekimin başarılı geçmes...
+
+Soru 133 - Aşağıdaki ürün gruplarından hangisinin çekimlerinde makro objektif tercih edilir?
+A - Otomobil
+B - Mücevher
+C - Moda
+D - Mobilya takımı
+E - Beyaz Eşya
+Doğru Cevap B
+Aciklama Ünite 6'da 'Objektif' başlığı altında, 'mücevher ya da takı ürünlerinin çekimlerinde makro objektifler' kullanımının uygun olduğu belirtilmiştir. Makro objektifler, çok küçük nesneleri (genellikle 1:1 veya daha büyük büyütme oranlarında) çekmek için kullanılır.
+
+Soru 134 - Aşağıdakilerden hangisi flaş ışık kaynaklarının her çakışta ve uzun süreli kullanımlarında ışık şiddeti ve renk olarak aynı değerleri vermesi ya da kabul edilebilir sapma yaratmasına yönelik kullanılan bir ifadedir?
+A - Maksimum ışık şiddeti
+B - Flaş dolum süresi
+C - Flaş tutarlığı
+D - Flaş senkronizasyon hızı
+E - Flaş güç aralığı
+Doğru Cevap C
+Aciklama Ünite 6'da 'Flaş Tutarlılığı' başlığı altında, 'Flaşın her çakışta ve uzun süreli kullanımlarda ışık şiddeti ve renk olarak aynı değerleri vermesi ya da kabul edilebilir bir aralıkta sapma yaratmasıdır' şeklinde tanımlanmıştır. Bu ifade, verilen sorunun tanımına tam olarak uymaktadır.
+
+Soru 135 - "Kompozisyon düzenlemesi içerisinde çerçevede görüneceklerin yeri ve konumu, kullanılacak malzemelerin seçimi, birbirleriyle olan ilişkileri, uyumu ve en estetik görünümü elde etmede görüş ve önerileriyle çekimin başarılı geçmesine katkıda bulunurlar." Yukarıda verilen iş tanımlamasına uygun bir şekilde hizmet veren aşağıdakilerden hangisidir?
+A - 1. Asistan
+B - Representer
+C - Retoucher
+D - Styling
+E - 1şık operatörü
+Doğru Cevap D
+Aciklama Ünite 6'da Stüdyo Fotoğrafçılığında Görevliler başlığı altında, Styling (Stil/Kıyafet/Makyaj) görevlilerinin tanımı şöyledir: "Styling, kuaför, makyöz gibi profesyoneller de çekim sürecine dahil olmaktadırlar." Bu tanım, kompozisyonda estetik ve görsel etkiyi artırmak için yapılan düzenlemeleri kapsar.
+
+Soru 136 - Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü aşağıdakilerden hangisidir?
+A - Daylight stüdyo
+B - Çekim seti
+C - Plato
+D - Outdoor stüdyo
+E - Portatif stüdyo
+Doğru Cevap C
+Aciklama Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlara benzer şekilde gerçekçi bir atmosfer etkisi yaratılarak çekim yapılmasını sağlayan stüdyo türü, doğrudan bir stüdyo türü olarak adlandırılmamakla birlikte, ticari çekimlerde (Reklam ve Tanıtım Fotoğrafçılığı kapsamında) özel set tasarımlarıyla gerçekleştirilen çekimlerdir. Metinde bahsi geçen 'Reklam ve Tanıtım Fotoğrafçılığı'nda, ürünün veya hizmetin tanıtımı için farklı setlerin kurulduğu belirtilmektedir. Bu tür çekimlerin...
+
+Soru 137 - "Focus Stacking" olarak bilinen farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan bir yazılımdır. Yukarıda tanımı verilen yazılım aşağıdakilerden hangisidir?
+A - Photoshop
+B - Capture One Pro
+C - Set A Light 3D
+D - Veri Kurtarma Yazılımları
+E - Helicon Focus
+Doğru Cevap E
+Aciklama Tanımı verilen yazılım, 'Focus Stacking' olarak bilinen ve farklı netlik noktalarından elde edilen fotoğrafları birleştirerek daha geniş alan derinliği elde etmeyi sağlayan yazılımdır. Ünite 6'da 'Yazılımlar' başlığı altında Helicon Focus'un, 'Focus Stacking olarak bilinen farklı noktalara netlik kaydırması yaparak ayrı ayrı elde edilen fotoğrafları birleştirmek suretiyle, daha geniş alan derinliği elde etmek için kullanılan bir yazılımdır' şeklinde tanımlandığı görülmektedir.
+
+Soru 138 - Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?
+A - Reflektör
+B - Şemsiye
+C - Softbox
+D - Gobo
+E - Snoot
+Doğru Cevap E
+Aciklama Snoot, ışık kaynaklarının önüne takılarak tıpkı huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak için kullanılan bir ışık şekillendiricidir. Ünite 6'da ışık şekillendiriciler başlığı altında Snoot'un bu işlevi belirtilmiştir.
+
+Soru 139 - Fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurlar ya da bulundukları ortam kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanılabilir.
+A - Askı/Rulo Fon
+B - Sonsuz Fon
+C - Mekân/Set Fonlar
+D - Çekim Çadırı
+E - Düz Fonlar
+Doğru Cevap C
+Aciklama Mekân/Set Fonlar, fotoğrafı çekilen öznenin çevresinde ve arka planındaki diğer unsurların kompozisyon içerisinde fon hâline dönüştürülerek anlatımı destekleyici unsur olarak kullanıldığı fon türüdür. Ünite 6'daki Stüdyo Fon Türleri ve İşlevleri bölümünde bu tanım mevcuttur.
+
+Soru 140 - ------- içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?
+A - Gimbal
+B - Steadicam
+C - Jimmy Jib
+D - OIS
+E - Dolly
+Doğru Cevap C
+Aciklama Ünite 6'da, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılan ekipmanlar arasında Gimbal, vinç mekanizmaları ve Dolly'den bahsedilmiştir. Vinç mekanizması, kamerayı belli bir nokta ve yükseklikte sabitleyerek sarsıntı olmaksızın hareketli görüntü elde etmesini sağlayan bir cihazdır.
+
+Soru 141 - Huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlayan ışık şekillendirici aşağıdakilerden hangisidir?
+A - Reflektör
+B - Snoot
+C - Şemsiye
+D - Softbox
+E - Gobo
+Doğru Cevap B
+Aciklama Snoot, ışık kaynaklarının önüne takılan ve huni gibi ışığın açısını daraltarak noktasal aydınlatma sağlamak için kullanılan bir ışık şekillendiricidir. Gobo, efekt filtresi olarak nitelendirilir; Petek, ışığın gücünü ve yayılım açısını sınırlar; Yumuşatıcı/Softbox ise ışığı yumuşatır.
+
+Soru 142 - Fotoğraf işlemede kullanılan yazılımları etkin ve yaratıcı bir biçimde kullanan personel aşağıdakilerden hangisidir?
+A - İkinci Asistan
+B - Mufettis
+C - Fotoğrafçı
+D - Sekreter
+E - Sanat Yönetmeni
+Doğru Cevap C
+Aciklama Retoucher, fotoğraf işlemede kullanılan yazılımları (Adobe Photoshop gibi) etkin ve yaratıcı bir biçimde kullanan personeli ifade eder.
+
+Soru 143 - Aşağıdakilerden hangisi stüdyoda kullanılan sürekli ışık kaynaklarından biri değildir?
+A - Paraflaş
+B - LED 1şık
+C - Floresan 1şık
+D - Tungsten
+E - HMI Daylight
+Doğru Cevap A
+Aciklama Stüdyoda kullanılan ışık kaynakları anlık (Paraflaş) ve sürekli (Tungsten, HMI Daylight, Led 1şık) olarak ikiye ayrılır. Yukarıda verilen seçeneklerde LED 1şık, Tungsten, HMI Daylight sürekli ışık kaynaklarıdır. Flaş Tutarlılığı ise bir flaşın performans karakteristiğidir, ışık kaynağı türü değildir.
+
+Soru 144 - Sonsuz bir mesafeden çekilen ve dümdüz aşağıya bakan bir fotoğrafın simülasyonuna verilen ad aşağıdakilerden hangisidir?
+A - Ortofoto
+B - Perspektif
+C - Dikey pozlama
+D - Kombine pozlama
+E - Panoroma
+Doğru Cevap A
+Aciklama Sonsuz Fon, stüdyoda düz bir duvarın zeminle kıvrımlı bir şekilde birleştirilmesiyle oluşturulur ve bir eğim ile birleştirildiği izleyicide boşluk, sonsuzluk ve yalıtılmışlık duygusu uyandıran arka plandır.
+

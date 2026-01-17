@@ -1,0 +1,742 @@
+ENGELLİLİK VE ERİŞİLEBİLİR TASARIM dersi ünite 7-8 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 7
+Soru 1 - Baş çevrilmeden ve gözler oynatılmadan görülebilen sağ ve sol, yukarıda ve aşağıda kalan tüm alana ne denir?
+A - Az Gören
+B - Görme keskinliği
+C - Görme alan
+D - Az gören
+E - Hepsi
+Doğru Cevap C
+Aciklama Görme alanı, baş çevrilmeden ve gözler oynatılmadan görülebilen sağ ve sol, yukarıda ve aşağıda kalan tüm alandır. Normal görme alanı yaklaşık 180 derecedir.
+
+Soru 2 - Beynin doğum sırasında oksijensiz kalması, prematüre doğum gibi nedenlerle kortikal görme yetersizliği ortaya çıkmasına ne denir?
+A - Göz tansiyonu (Glokom)
+B - Kortikal görme yetersizliği
+C - Maküler dejenerasyon
+D - Optik sinir atrofisi
+E - Prematür retinopatisi
+Doğru Cevap B
+Aciklama Kortikal görme yetersizliği: Beynin doğum sırasında oksijensiz kalması, prematüre doğum gibi nedenlerle kortikal görme yetersizliği ortaya çıkabilir. Kortikal görme yetersizliğinde görme alanı problemleri de ortaya çıkabilir.
+
+Soru 3 - Hangi algının, duyular tarafından sağlanan bilgileri birleştiren, genel bir anlam kazandıran bütünleştirici bir rolü vardır?
+A - İşitsel
+B - Görsel
+C - Tatsal
+D - Hiçbiri
+E - Hepsi
+Doğru Cevap B
+Aciklama Görsel algının, duyular tarafından sağlanan bilgileri birleştiren, genel bir anlam kazandıran bütünleştirici bir rolü vardır. Görsel uyarıcı yoksunluğu çeşitli gelişim alanlarında (ör., motor, bilişsel, sosyal, dil ve iletişim) yaşanabilecek problemleri de beraberinde getirebilmektedir.
+
+Soru 4 - Aşağıdaki kavramlardan hangisi yetersizlikten etkilenmiş kişilerin toplumda bağımsız bir yaşam sürdürebilmesi için diğer kişilerin yararlandığı hak ve olanaklardan eşit şekilde yararlanması gerektiğini vurgulamaktadır?
+A - Bütünleştirme
+B - Ayrıştırma
+C - Bölme
+D - Hepsi
+E - Hiçbiri
+Doğru Cevap A
+Aciklama Bütünleştirme kavramı, yetersizlikten etkilenmiş kişilerin toplumda bağımsız bir yaşam sürdürebilmesi için diğer kişilerin yararlandığı hak ve olanaklardan eşit şekilde yararlanması gerektiğini vurgulamaktadır. Bütünleştirmenin gerçekleştirilmesinde başarılı bir okul yaşamı için akranlarıyla aynı miktarda bilgiye ulaşması ve toplumun yetersizlikten etkilenmiş kişilere bakış açısının olumlu yönde değiştirilmesi gerekmektedir.
+
+Soru 5 - Görme yetersizliği olan öğrencilere matematik derslerinde kullanabilmeleri için aşağıdakilerden hangisi kullanılabilmektedir?
+A - Küptaş
+B - Küptaş kasa
+C - Abaküs
+D - Hepsi
+E - Hiçbiri
+Doğru Cevap D
+Aciklama Görme yetersizliği olan öğrencilere matematik derslerinde kullanabilmeleri için erişilebilir matematik araçları hazırlanmıştır. Küptaş, küptaş kasa ve abaküs kullanılarak işlemler yapılabilir, Braille cetvel, gönye, iletki ile öğrencilerin ölçüm yapmaları sağlanabilir, rulet ve özel hazırlanmış pergelle şekilleri çizmeleri sağlanabilir. Hepsi
+
+Soru 6 - Aşağıdaki uygulamalardan hangisi yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuştur?
+A - JAWS
+B - NVDA
+C - Seeing AI
+D - Window-Eyes
+E - VoiceOver
+Doğru Cevap C
+Aciklama “Seeing AI” uygulaması, yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan bir uygulamadır. Bu uygulamayla görme yetersizliği olan kişiler çevrelerindeki tüm görsel ögeleri ses yoluyla algılamaktadırlar.
+
+Soru 7 - Az gören kişilerin yazıları ve görselleri büyütmesini sağlayan teknolojilere ne ad verilir?
+A - Optik araçlar
+B - Optik olmayan araçlar
+C - Zoomtext programı
+D - Kapalı devre televizyon sistemleri
+E - Destekleyici teknolojik araçlar
+Doğru Cevap E
+Aciklama Destekleyici teknolojik araçlar: Az gören kişilerin yazıları ve görselleri büyütmesini sağlayan teknolojilerdir. Görmeyen kişilerin kullanacağı bazı sesli araçları (ör., sesli terazi, şeker ölçüm cihazı vb.) az gören kişiler de kullanmaktadır.
+
+Soru 8 - Tasarımı yapılacak bastonun nasıl olmasına dikkat edilmelidir?
+A - Hafif/Taşınabilir
+B - Elektrikli
+C - İşlemeli
+D - Hepsi
+E - Hiçbiri
+Doğru Cevap A
+Aciklama Erken çocukluk döneminden itibaren denge problemi olan çocukların çevrelerinde bağımsız hareket edebilmeleri için daha kolay kullanabilecekleri baston tasarımları yapılabilir. Tasarımı yapılacak bastonun hafif/taşınabilir olmasına dikkat edilmelidir.
+
+Soru 9 - Aşağıdakilerden hangisi herkesin kullanabileceği, işlevsel bir tasarımdır?
+A - Yemek yaparken parmakların kesilmesini engelleyen bir aparat tasarlanması
+B - Çamaşır makinesi, mikrodalga fırın gibi makine ve araçların erişilebilir hâle getirilmesi
+C - Bankamatikler, kumandalar, acil durum butonları gibi düzenlemeler de erişilebilir olarak tasarlanması
+D - Müzeler, müzik enstrümanlarının rahat ve erişilebilir kullanımı uygulamaları gibi çok sayıda alanda erişilebilir sanat tasarımları
+E - Hepsi
+Doğru Cevap E
+Aciklama Yemek yaparken parmakların kesilmesini engelleyen bir aparat tasarlanması herkesin kullanabileceği, işlevsel bir tasarımdır. Sıvı seviye gösterge cihazı (Gösterge kupa ya da bardağın kenarına yerleştirilir, bip sesi çıkana kadar sıvı dökülür.) gibi tasarımlar erişilebilir tasarımlardandır. Ölçü kapları herkes için görselliği de (Saydam yüzey üzerinde şekiller ve yazıları görmek zordur.) artırılarak dokunsal, sesli olarak erişilebilir şekilde tasarlanabilir. Depolama alanlarının düzenlenmesi, bah...
+
+Soru 10 - Görmesi sınırlı ya da göremeyen çocukların hangi duyularını destekleyecek tasarımların üretilmesi büyük önem taşımaktadır?
+A - Dokunsal
+B - İşitsel
+C - Kokusal
+D - Knestetik
+E - Hepsi
+Doğru Cevap E
+Aciklama Görme yetersizliği olan çocukların duyularını geliştirmeye yönelik çeşitli çalışmalar yapılmaktadır. Görmesi sınırlı ya da göremeyen çocukların dokunsal, işitsel, kinestetik, koklama duyularını destekleyecek tasarımların üretilmesi büyük önem taşımaktadır. Az gören çocukların da görme becerilerini ve diğer duyularını destekleyecek tasarımların üretilmesi gerekmektedir. Bu tasarımlar, çocukların duyularının gelişimini desteklemenin yanı sıra bilişsel, sosyal, dil ve psiko-motor gelişimlerini de d...
+
+Soru 11 - "Baş çevrilmeden ve gözler oynatılmadan görülebilen sağ ve sol, yukarıda ve aşağıda kalan tüm alan" ifadesi aşağıdakilerden hangisinin tanımıdır?
+A - Görme keskinliği
+B - Kör
+C - Görme alanı
+D - Glokom
+E - Görme
+Doğru Cevap C
+Aciklama Görme alanı, baş çevrilmeden ve gözler oynatılmadan görülebilen sağ ve sol, yukarıda ve aşağıda kalan tüm alandır.
+
+Soru 12 - Gözle ilgili herhangi bir oluşumun (ör., gözkapağı, iris, retina vb.) doğumsal gelişim kusuru aşağıdakilerden hangisidir?
+A - Katarakt
+B - Kolobom
+C - Glokom
+D - Albinizm
+E - Optik sinir atrofisi
+Doğru Cevap B
+Aciklama Kolobom: Gözle ilgili herhangi bir oluşumun (ör., gözkapağı, iris, retina vb.) doğumsal gelişim kusurudur.
+
+Soru 13 - Aşağıdakilerden hangisi görme yetersizliği olan kişiler için geliştirilmiş bir oyundur?
+A - Hentbol
+B - Goalball
+C - Voleybol
+D - Futbol
+E - Ringbol
+Doğru Cevap B
+Aciklama Görme yetersizliği olan kişiler için goalball, showdown gibi oyunlar geliştirilmiştir.
+
+Soru 14 - Aşağıdakilerden hangisi az görenler için geliştirilen yardımcı ve destek teknolojilerinden uzağı görmede kullanılan araçlardan biri değildir?
+A - Ayaklı büyüteçler
+B - Elle tutulan tek gözle kullanılan araçlar (monoküler)
+C - Biyoptik tasarımlar
+D - Teleskoplar
+E - Gözlüğe takılı olan teleskobik cihazlar
+Doğru Cevap A
+Aciklama Uzak görme için: Teleskoplar, Elle tutulan tek gözle kullanılan araçlar (monoküler), Klipsli, gözlüğe takılı olan teleskobik cihazlar, Biyoptik tasarımlar Yakın görme için: Ayaklı büyüteçler
+
+Soru 15 - Aşağıdakilerden hangisi "yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan" bir uygulamadır?
+A - Perkins Braille daktilo
+B - Biyoptik tasarımlar
+C - Sesli (konuşan) terazi
+D - “Seeing AI”
+E - Zoomtext
+Doğru Cevap D
+Aciklama “Seeing AI” uygulaması, yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan bir uygulamadır.
+
+Soru 16 - Aşağıdakilerden hangisi az görenler için kontrast (şekil-zemin zıtlığı) arttırıcı yardımcı araçlardan biri değildir?
+A - Yazma kılavuzu
+B - Teleskoplar
+C - Keçeli, koyu renk tükenmez kalemler
+D - Nesne ya da baskı üzerinde iyi aydınlatma (lamba)
+E - Satırları koyu çizilmiş kağıtlar
+Doğru Cevap B
+Aciklama Kontrast (şekil-zemin zıtlığı) arttırıcı araçlar: Keçeli, koyu renk tükenmez kalemler, satırları koyu çizilmiş kağıtlar, yazma kılavuzu, nesne ya da baskı üzerinde iyi aydınlatma (lamba) Uzak görme için: Teleskoplar
+
+Soru 17 - Aşağıdakilerden hangisi "ekranın hangi bölümünün büyütüleceğini ve yazı tipi uyarlamalarını belirlemeye olanak veren" bir programdır?
+A - Kapalı devre televizyon sistemleri
+B - Mercekler
+C - Zoomtext
+D - “Seeing AI”
+E - Window-Eyes
+Doğru Cevap C
+Aciklama Zoomtext programı, ekranın hangi bölümünün büyütüleceğini ve yazı tipi uyarlamalarını (ör. puntosu, harf dizimi, kalınlık ve koyuluk ayarları sayesinde yazıların kalınlığını ve boşluk ayarlarını istenilen şekle getirme) belirlemeye olanak veren bir programdır.
+
+Soru 18 - Aşağıdakilerden hangisi optik araçlar arasında yer alır?
+A - Okuma stantları
+B - Malzemelerle zıtlık sağlanmış doğrama tahtası
+C - Büyük puntolu kitaplar
+D - Büyüteç
+E - Uygun aydınlatma
+Doğru Cevap D
+Aciklama Optik olmayan araçlar: Uygun aydınlatma, okuma stantları (Boynunu eğerek okuması boynun ağrımasına ve gölgesinin kâğıda düşerek okumakta zorlanmasına neden olduğu için okuma materyallerini göz seviyesine getirmek amacıyla kullanılır.), şekil-zemin zıtlığı sağlanmış görseller (ör. satırları koyu çizilmiş çizgiler), malzemelerle zıtlık sağlanmış doğrama tahtası, okuma pencereleri, büyük puntolu kitaplar vb. düzenlemeler vardır. Optik araçlar: Büyüteçten teleskoplara kadar çok çeşitlilik göstermekt...
+
+Soru 19 - Aşağıdakilerden hangisi temel bağımsız hareket becerilerindendir?
+A - İşaretler
+B - Bina içi ve bina dışı numaralama sistemleri
+C - Korunma teknikleri
+D - Pusula yönleri
+E - Ölçme becerileri
+Doğru Cevap C
+Aciklama Temel bağımsız hareket becerileri; elle duvar takibi, korunma teknikleri, baston becerileri, rehberle yürüme becerileridir.
+
+Soru 20 - Az gören bireyleri yasal olarak tanımlarken esas alınan en iyi düzeltilmiş görme keskinliği aralığı aşağıdakilerden hangisidir?
+A - 20/20 ve üzeri
+B - 20/40 ile 20/100
+C - 20/70 ile 20/200
+D - 20/200 ve altı
+E - 20/400 ve altı
+Doğru Cevap C
+Aciklama 20/70 ile 20/200 arası en iyi düzeltilmiş görme keskinliği olan bireyler yasal olarak “az gören” kabul edilir.
+
+Soru 21 - Ali, 8 yaşında albinizmli bir çocuktur. Gözleri ışığa karşı oldukça duyarlı olduğu için sınıfta pencere kenarında oturmaktan rahatsız olur ve tahtayı görmekte zorlanır. Öğretmeni, Ali’nin bakışlarının sürekli istemsizce hareket ettiğini ve odaklanmakta zorlandığını fark eder. Ayrıca Ali’nin yakından bakarak okuma eğiliminde olduğu görülür. Ali’de görülen ve bakışlarının istemsizce hareket etmesine neden olan durumun adı aşağıdakilerden hangisidir?
+A - Miyopi
+B - Nistagmus
+C - Katarakt
+D - Astigmatizma
+E - Renk körlüğü
+Doğru Cevap B
+Aciklama Nistagmus, göz kaslarının istemsiz, ritmik hareketleriyle ortaya çıkan bir durumdur. Albinizmli bireylerde sıkça görülür ve kişinin sabit bir noktaya odaklanmasını zorlaştırır. Bu yüzden Ali’nin bakışlarının sürekli hareket etmesi ve odaklanmada güçlük yaşaması, nistagmus belirtisidir.
+
+Soru 22 - Yukarıdaki görsel, bir kişinin görüşünü temsil etmektedir. Kişi, karşısındaki insanları seçmekte zorlanmakta, ancak çevresindeki nesneleri daha net görebilmektedir. Özellikle merkezi görüşü bulanık ya da karanlık olarak algılamaktadır. Bu görme kaybına neden olan en olası durum aşağıdakilerden hangisidir?
+A - Katarakt
+B - Glokom
+C - Diyabetik retinopati
+D - Maküler dejenerasyon
+E - Retinitis pigmentosa
+Doğru Cevap D
+Aciklama Maküler Dejenerasyon: Makula, merkezi görmeden sorumlu retina bölgesidir. Maküler dejenerasyon, özellikle yaşa bağlı olarak gelişir ve merkezi görme kaybına yol açar. Görselde olduğu gibi ortada kararma/bulanıklık, çevresel görüşün korunması tipiktir. Katarakt: Katarakt, göz merceğinin bulanıklaşmasıdır. Görme genel olarak bulanıklaşır, merkezi ya da çevresel bir ayrım yoktur; her şey sisli/flu görünür. Görseldeki gibi sadece merkezi kararma olmaz. Glokom: Glokomda, genellikle periferik görüş ka...
+
+Soru 23 - Yukarıda verilen görsel, bir kişinin görüşünü temsil etmektedir. Kişi, çevresini görmekte zorlanmakta ve yalnızca merkezdeki görüntüyü net olarak algılayabilmektedir. Özellikle gece görüşü de ciddi şekilde bozulmuştur. Bu duruma en olası neden aşağıdakilerden hangisidir?
+A - Maküler dejenerasyon
+B - Katarakt
+C - Glokom
+D - Diyabetik retinopati
+E - Retinitis pigmentosa
+Doğru Cevap E
+Aciklama Retinitis pigmentosa, periferik görme kaybı (tünel görüş) ve gece körlüğü ile karakterizedir. Glokom da periferik kayba yol açabilir ancak tipik olarak ilerleyici basınç hasarına bağlıdır ve gece körlüğü olmaz.
+
+Soru 24 - Aşağıdakilerden hangisi, taraf devletlerin görme yetersizliği olan bireylerin erişebilirliğini artırmak için alması gereken önlemler arasında yer almaz?
+A - Kamusal alanlarda Braille ve kabartma yöntemlerini kullanmak
+B - Kamusal hizmetlerde erişim standartlarını belirleyip uygulamak
+C - Engellilerin karşılaştığı erişim sorunlarına yönelik eğitim programları düzenlemek
+D - Engellilerin erişim için yalnızca kendi kaynaklarını kullanmalarını sağlamak
+E - Engelsiz bilgi ve iletişim teknolojilerine uygun sistemler geliştirmek
+Doğru Cevap D
+Aciklama Engellilerin erişim için yalnızca kendi kaynaklarını kullanmalarını sağlamak Alınacak önlemler genellikle engellilerin bağımsızlığına destek olacak kamusal düzenlemeleri içerir; bireyleri yalnız bırakmak amaçlanmaz.
+
+Soru 25 - Görme yetersizliği olan bir bireyin bebeklikten yetişkinliğe kadar gelişiminde erken müdahale, çevreyi keşfetme fırsatları, sosyal etkileşim, akademik beceriler ve bağımsız yaşam becerilerinin tümü birbiriyle ilişkilidir. Bu sürecin bütüncül yapısı dikkate alındığında, aşağıdaki çıkarımlardan hangisi tutarsızdır?
+A - Erken dönemde çevresel etkileşim fırsatlarının sınırlanması, ilerleyen dönemlerde bağımsız yaşam becerilerinin gelişimini olumsuz etkileyebilir.
+B - Sosyal etkileşimlerin güçlendirilmesi, yalnızca sosyal gelişimi değil, aynı zamanda bilişsel ve iletişim becerilerini de destekler.
+C - Akademik becerilerin kazanılması, bağımsız yaşam becerileriyle doğrudan bağlantılı olmayıp yalnızca okul başarısını etkiler.
+D - Erken dönemde yapılan müdahaleler, daha sonraki dönemlerde gelişimsel sınırlılıkların azaltılmasına katkıda bulunur.
+E - Aile ve uzman desteği olmadan bireyin çevreyi keşfetme davranışlarının gelişmesi sınırlı kalabilir.
+Doğru Cevap C
+Aciklama Akademik beceriler (okuma, yazma, matematik) yalnızca okul başarısı için değil, bağımsız yaşamın bir parçası olarak görülür ve bağımsız yaşam becerileriyle ilişkilidir.
+
+Soru 26 - Aşağıda az gören bireyler için kullanılan bazı araçlar ve bu araçların ait oldukları kategori verilmiştir. Her aracın doğru kategorisini seçiniz. Araç Kategori Seçenekleri 1. CCTV kapalı devre televizyon a) Optik araçlar b) Optik olmayan araçlar c) Destekleyici teknolojik araçlar 2. Büyüteçli gözlük 3. Fosforlu bant 4. Siperlikli şapka 5. Satırları koyu çizilmiş kağıt
+A - 1c, 2a, 3b, 4b, 5b
+B - 1b, 2c, 3b, 4c, 5b
+C - 1c, 2b, 3b, 4a, 5a
+D - 1a, 2a, 3c, 4b, 5c
+E - 1b, 2c, 3a, 4b, 5b
+Doğru Cevap A
+Aciklama 1 → c, 2 → a, 3 → b, 4 → b, 5 → b
+
+Soru 27 - Aşağıdaki ifadelerden hangileri, optik olmayan araçların sağladığı desteklerdendir? 1. Okuma sırasında uygun duruşu sağlamak 2. Çevredeki ışık ve parlama koşullarını düzenlemek 3. Görme keskinliğini teleskopla artırmak 4. Kontrastı artırarak şekil-zemin ayrımını kolaylaştırmak
+A - Yalnız 3
+B - 1 ve 2
+C - 1, 2 ve 4
+D - 2 ve 3
+E - 1, 3 ve 4
+Doğru Cevap C
+Aciklama 1, 2 ve 4 1-Okuma sırasında uygun duruşu sağlamak: Okuma standları gibi optik olmayan araçlarla desteklenir. 2- Çevredeki ışık ve parlama koşullarını düzenlemek: Siperlikli şapka, filtreli gözlük gibi optik olmayan araçlarla sağlanır. 3. Görme keskinliğini teleskopla artırmak: Bu, optik bir araçtır; dolayısıyla optik olmayan destek kapsamında değildir 4- Kontrastı artırarak şekil-zemin ayrımını kolaylaştırmak: Kontrast artırıcı kalemler, çizgili kağıt gibi optik olmayan araçlar bunun için kullan...
+
+Soru 28 - Herkesin gereksiz çaba, özel muamele ve ayrı çözümlere gerek kalmadan kolayca kullanabileceği, duygusal açıdan erişilebilir, seçim özgürlüğü sunan, eşit katılım sağlayan, farklılıkları kapsayan, anlaşılır, güvenli ve nitelikli çevreyi hedefleyen tasarım yaklaşımı aşağıdakilerden hangisidir?
+A - Bağımsız yaşam tasarımı
+B - Özel eğitim destek tasarımı
+C - Erişilebilir tasarım
+D - Uyarlanmış tasarım
+E - Evrensel tasarım
+Doğru Cevap E
+Aciklama Evrensel tasarım, tüm bireylerin farklılıklarını gözeterek, aynı anda eşit, güvenli ve kapsayıcı bir çevre yaratmayı hedefler; özel veya ayrı çözümler sunmaktan ziyade herkes için işlevsel olanı öngörür.
+
+Soru 29 - Aşağıdakilerden hangileri, erişilebilir tasarım ilkelerinin yalnızca akademik başarıyı değil, bağımsız yaşam becerileri ve sosyal katılım açısından da önemli olduğunu gösterir? 1. Günlük yaşamda ilaç kutuları, ev aletleri ve oyun materyallerinin erişilebilir biçimde tasarlanması 2. Braille etiketleri, dokunsal haritalar ve sesli sinyalizasyon sistemlerinin kullanılması 3. Yalnızca öğretmenin sözel anlatımına dayalı olarak ders yapılması 4. Akıllı bastonlar ve yön bulma sistemleriyle güvenli hareket etmenin sağlanması
+A - 1 ve 2
+B - 1, 2 ve 4
+C - 1 ve 3
+D - 2, 3 ve 4
+E - Yalnızca 3
+Doğru Cevap B
+Aciklama 1, 2 ve 4 1, 2 ve 4 maddeleri erişilebilir tasarımın sosyal, bağımsız ve akademik boyutlara katkısını gösterir. 3 ise yanlış bir uygulamadır çünkü yalnızca sözel anlatım yetersizdir.
+
+Soru 30 - Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle ilişkilidir?
+A - Kullanımda esneklik
+B - Algılanabilir bilgi
+C - Eşitlikçi kullanım
+D - Hata toleransı
+E - Düşük fiziksel çaba
+Doğru Cevap B
+Aciklama Ünite 7'de, görme yetersizliği olan bireyler için tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmesi örneği (yönlendirme ve algıyı destekleme) verilmiştir. Bu, özellikle görme yetersizliği olan bireylerin çevrelerini anlamalarına yardımcı olur. Evrensel Tasarım İlkeleri şunlardır (Ünite 3'te de geçmektedir, Ünite 7'de de atıf yapılır): 1. Eşitlikçi Kullanım, 2. Kullanımda Esneklik, 3. Basit ve Sezgisel Kullanım, 4. Algılanabilir Bilgi, 5. Hata ...
+
+Soru 31 - Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilşkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle İlişkilidir?
+A - Hata toleransı
+B - Kullanımda esneklik
+C - Düşük fiziksel çaba
+D - Eşitlikçi kullanım
+E - Algılanabilir bilgi
+Doğru Cevap E
+Aciklama Ünite 7'de (Sayfa 4), görme yetersizliği olanlar için tuvaletlere ilişkin düzenlemeler anlatılırken, görsel tasarım uygulamaları arasında Braille ve dokunsal/görsel işaretlerin kullanılması gerektiği belirtilir. Özellikle 'görsel tasarım uygulamaları' bölümünde, görme engelliler için Braille eklenmesi gerektiği vurgulanır. Sorudaki uygulama (büyük ve kırmızı renkli yönlendirici görseller) görme duyusuna hitap ederken, görme engelliler için Braille ve dokunsal işaretlerin kullanılması gerekliliği...
+
+Soru 32 - Aşağıdaki programlardan hangisi matematik becerilerinin geliştirilmesi için tasarlanmıştır?
+A - BOB BOOKS
+B - 123 ANIMAL COUNTING HD
+C - HAPPY LITTLE FARMER
+D - MY TALK MOBILE
+E - PROLOQUO2GO
+Doğru Cevap B
+Aciklama Ünite 7'de, görme yetersizliği olan bireyler için akademik becerileri destekleyecek tasarımlar arasında matematik için kabartma yazı makinesinde baskılar, geometrik şekiller, dokunsal açılar, nesne grafikleri, dokunsal olarak şekilleri oluşturabilen düzenekler, çocuk saati, dokunsal sayı doğrusu, şemalar, diyagramlar, para tanıma aracı gibi tasarımlar sayılmıştır.
+
+Soru 33 - Aşağıdakilerden hangisi optik olmayan araçlardan biridir?
+A - Fosforlu bant
+B - Biyoptik tasarımlar
+C - Büyüteçli gözlük
+D - Ayaklı büyüteçler
+E - Teleskoplar
+Doğru Cevap A
+Aciklama Ünite 7'de optik olmayan araçlar; az gören kişilerin görmesini etkili kullanmasını sağlamak amacıyla hazırlanan/kullanılan araçlar olarak tanımlanır. Bunlara uygun aydınlatma, okuma stantları, şekil-zemin zıtlığı sağlanmış görseller, malzemelerle zıtlık sağlanmış doğrama tahtası, okuma pencereleri ve büyük puntolu kitaplar örnek verilir (Ünite 7). Bu araçların hiçbiri optik bir bileşen içermez.
+
+Soru 34 - 1. Psilomotor gelişim yavaşlar. 2. Yineleyici davranışlar ortaya çıkar. 3. Omurga geriye doğru güçlenir. Görme yetersizliğinin gelişim üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?
+A - Yalnız 1
+B - Yalnız 2
+C - 1 ve 2
+D - 1 ve 3
+E - 2 ve 3
+Doğru Cevap C
+Aciklama Ünite 7'de, görsel uyaran yokluğunun gelişim alanları üzerindeki etkileri anlatılmaktadır. Hareketsiz yaşamın stereotipik (tekrarlayıcı) davranışlara yol açabileceği (2 doğru), bilişsel gelişimde gecikmelerin yaşanabileceği ve sosyal becerilerde sınırlılıklar görülebileceği belirtilmiştir. Psikomotor gelişim yavaşlar (1 doğru). 3. ifade olan 'Omurga geriye doğru güçlenir' ifadesi metinde geçmemektedir ve gelişimsel etkilerle ilgili standart bir durum değildir (tersine, hareketsizlik postüral sor...
+
+Soru 35 - Aşağıdakilerden hangisi yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan uygulamalardan biridir?
+A - VoiceOver
+B - Seeing AI
+C - NVDA
+D - JAWS
+E - GVZ NetOkur
+Doğru Cevap B
+Aciklama Ünite 7'de, 'Seeing Al' uygulamasının yapay zekâ üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan bir uygulama olduğu belirtilmiştir (Ünite 7, Bilgisayar Yazılım ve Donanımları).
+
+Soru 36 - Aşağıdakilerden hangisi doğum öncesi süreçte gelişen, gözde renk pigmentlerinin olmadığı kalıtımsal görme yetersizliği türüdür?
+A - Maküler dejenerasyon
+B - Albinizm
+C - Kortikal görme yetersizliği
+D - Diyabetik retinopati
+E - Optik sinir atrofisi
+Doğru Cevap B
+Aciklama Ünite 7'de Albinizm, kalıtımsal bir görme hastalığı olarak tanımlanır. Bu durumda deride, saçta ve gözde renk pigmentleri olmadığı için beyaz görünüm oluşur. Albinizmli çocukların gözleri ışığa karşı aşırı duyarlıdır (Ünite 7, Görme Yetersizliğinin Nedenleri ve Özellikleri).
+
+Soru 37 - Aşağıdakilerden hangisi az görenler için optik olmayan araçlardan biridir?
+A - Büyüteçli gözlük
+B - Kontrast (şekil-zemin zıtlığı) artıran araçlar
+C - Teleskoplar
+D - Biyoptik tasarımlar
+E - Elle tutulan tek gözle kullanılan araçlar
+Doğru Cevap B
+Aciklama Ünite 7'ye göre, az görenler için optik olmayan araçlar arasında uygun aydınlatma, okuma stantları, şekil-zemin zıtlığı sağlanmış görseller, malzemelerle zıtlık sağlanmış doğrama tahtası, okuma pencereleri, büyük puntolu kitaplar vb. düzenlemeler yer alır. Bu seçenekler arasında 'Büyük puntolu kitaplar' optik olmayan bir araçtır.
+
+Soru 38 - Aşağıdakilerden hangisi doğum öncesi süreçte gelişen, gözde renk pigmentlerinin olmadığı kalıtımsal görme yetersizliği türüdür?
+A - Albinizm
+B - Optik sinir atrofisi
+C - Kortikal görme yetersizliği
+D - Maküler dejenerasyon
+E - Diyabetik retinopati
+Doğru Cevap A
+Aciklama Ünite 7'ye göre, Albinizm kalıtımsal bir görme hastalığıdır. Deride, saçta, gözde renk pigmentleri olmadığı için beyaz görünür ve gözleri ışığa karşı aşırı duyarlıdır. Bu durum doğum öncesi süreçte gelişen ve kalıtımsal nedenlere bağlı bir görme yetersizliği türüdür.
+
+Soru 39 - Aşağıdakilerden hangisi görme yetersizliği olan bireylere yönelik erişilebilir tasarım uygulamaları ve bağımsız hareket becerilerine ilişkin araçlardan biridir?
+A - Küptaş kasa
+B - Akıllı/sesli baston
+C - Braille alfabesi
+D - Seeing Al uygulaması
+E - Kinestetik kum
+Doğru Cevap B
+Aciklama Ünite 7'de, görme yetersizliği olan bireylerin bağımsız hareket becerileri için en temel aracın baston olduğu belirtilmiştir. Ayrıca, WeWalk gibi akıllı/sesli baston örnekleri de bu amaçla geliştirilmiş araçlardır.
+
+Soru 40 - Aşağıdakilerden hangisi görme yetersizliği olan bireylerin matematik öğretiminde kullanılan araçlardan biridir?
+A - Beyaz baston
+B - Rehber köpek
+C - Gözlük
+D - JAWS
+E - Küptaş
+Doğru Cevap E
+Aciklama Ünite 7'ye göre, görme yetersizliği olan öğrenciler için matematik öğretiminde Braille tabletler, geometrik şekiller, dokunsal açılar, nesne grafikleri, dokunsal olarak şekilleri oluşturabilen düzenekler ve ayrıca dokunsal sayı doğrusu, şemalar, diyagramlar gibi tasarımlar üretilebilir. Bu araçlardan biri de 'Braille cetvel, gönye, iletki' kullanılarak ölçüm yapılmasıdır.
+
+Soru 41 - Aşağıdakilerden hangisi yönelim ve bağımsız hareketi destekleyecek tasarımlardan biri değildir?
+A - Sesli ve dokunsal mezuralar
+B - Kavşaklarda dokunsal grafikler
+C - Hafif taşınabilir bastonlar
+D - Bina içi dokunsal numaralama sistemleri
+E - İmza aparatı
+Doğru Cevap E
+Aciklama Ünite 7'de yönelim ve bağımsız hareket becerilerini destekleyen tasarımlar arasında baston, akıllı/sesli bastonlar, sesli/dokunsal mezuralar, sesli sinyalizasyon sistemleri ve trafik ışığı/yaya geçidi düzenlemelerinden bahsedilmiştir. Görsel tasarım uygulamaları başlığı altında, sesli ve dokunsal mezuralar, hareket alanını belirleme ve yönelim için gereklidir. Basit gündelik işlemleri yerine getirmeyi amaçlayan tasarımlar (ör. çorap giyme aparatı, banyo düzenlemeleri, ilaç kutuları) ise günlük y...
+
+Soru 42 - Ege tamamen görme kayıplı bir yetişkindir. Bir festivale katılmak istemektedir. Yukarıdaki ifadeye göre aşağıdaki destek hizmetlerden hangisi Ege için en uygundur?
+A - Okuma çubuğu
+B - Sesli kitap
+C - Braille alfabe tableti
+D - Rehber kişi/köpek
+E - Elektronik duyma cihazı
+Doğru Cevap D
+Aciklama Ege tamamen görme kayıplı bir yetişkindir. Ünite 7'de görme engelliler için günlük yaşam becerilerini destekleyen tasarımlar anlatılırken, 'Bankamatikler, kumandalar, acil durum butonları gibi düzenlemeler de erişilebilir olarak tasarlanabilir. İlaç kutularının yanı sıra günlük kullanımda ilaçların konulacağı kaplar için de erişilebilir tasarımlar oluşturulabilir.' ifadesi geçer. Festivaller sosyal/kültürel etkinliklerdir, ancak soruda verilen seçenekler arasında en uygun olanı, doğrudan görme e...
+
+Soru 43 - Aşağıdakilerden hangisi doğum öncesi süreçte gelişen, gözde renk pigmentlerinin olmadığı kalıtımsal görme yetersizliği türüdür?
+A - Kortikal görme yetersizliği
+B - Optik sinir atrofisi
+C - Albinizm
+D - Diyabetik retinopati
+E - Maküler dejenerasyon
+Doğru Cevap C
+Aciklama Ünite 7'de görme yetersizliğinin nedenleri arasında kalıtımsal nedenler sayılmıştır. Albinizm, kalıtımsal bir görme hastalığıdır ve deride, saçta ve gözde renk pigmentleri olmaması nedeniyle beyaz görünüm ve ışığa aşırı duyarlılıkla karakterizedir. Bu, doğum öncesi süreçte gelişen bir kalıtımsal durumdur.
+
+Soru 44 - Bir şehirdeki alışveriş merkezinde görme yetersizliği olan bireyler için bir düzenleme yapılmış ve tuvaletlere ilişkin bilgilendirme levhalarına büyük ve kırmızı renkli yönlendirici görseller eklenmiştir. Yukarıda verilen uygulama örneği aşağıdaki evrensel tasarım ilkelerinden hangisiyle ilişkilidir?
+A - Eşitlikçi kullanım
+B - Düşük fiziksel çaba
+C - Algılanabilir bilgi
+D - Kullanımda esneklik
+E - Hata toleransı
+Doğru Cevap C
+Aciklama Görme yetersizliği olan bireyler için tuvalet bilgilendirmesinde büyük ve kırmızı yönlendirici görsellerin kullanılması, bilginin duyusal yetenek düzeylerinden bağımsız olarak etkili bir şekilde iletilmesini amaçlar. Ünite 7'de 'Algılanabilir Bilgi' ilkesi, tasarımın, kullanımla ilgili gerekli bilgiyi, kullanıcıya çevre koşullarından ve kullanıcıların duyusal yetenek düzeylerinden bağımsız olarak ve etkili bir şekilde iletmesi gerektiğini belirtir. Görsel bilginin (büyük ve renkli görseller) bu ...
+
+Soru 45 - Aşağıdakilerden hangisi görme yetersizliği olan kişilerin çevrelerindeki tüm görsel ögeleri ses yoluyla algılamasını sağlayan yapay zeka uygulamasıdır?
+A - Perkins Braille
+B - Seeing AI
+C - Konuşan saat
+D - VoiceOver
+E - WeWalk
+Doğru Cevap B
+Aciklama Ünite 7'de görme yetersizliği olanlar için yardımcı teknolojilerden bahsedilirken, 'Seeing Al' uygulamasından bahsedilmektedir: 'Seeing Al' uygulaması ise, yapay zekâ (AI) üzerinden görsel tanıma ve betimleme teknolojisiyle oluşturulmuş, çok sayıda görsel unsura yönelik kolaylık sağlayan bir uygulamadır.' Bu uygulama, görme yetersizliği olan kişilerin görsel unsurları ses yoluyla algılamasını sağlar.
+
+Soru 46 - Göz içi basıncının artması sonucu retinadaki sinirlerin etkilendiği ve tedavi edilmediği zaman görme alanında azalma ortaya çıkan yetersizliğe ne ad verilir?
+A - Glokom
+B - Optik sinir atrofisi
+C - Maküler dejenerasyon
+D - Kortikal yetersizlik
+E - Albinizm
+Doğru Cevap A
+Aciklama Ünite 7'de görme yetersizliği nedenleri ve hastalıkları anlatılırken, göz tansiyonu (Glokom) şu şekilde tanımlanır: 'Göz tansiyonu (Glokom): Göz içi basıncının artması sonucunda retinadaki sinirler etkilenir ve tedavi edilmediği zaman görme alanında azalma ortaya çıkar.' Bu tanım, soruda belirtilen durumu (göz içi basıncının artması sonucu sinirlerin etkilenmesi ve görme alanında azalma) tam olarak karşılamaktadır.
+
+Soru 47 - 1. Psikomotor gelişim yavaşlar. 2. Yineleyici davranışlar ortaya çıkar. 3. Omurga geriye doğru güçlenir. Görme yetersizliğinin gelişim üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangisi/ hangileri doğrudur?
+A - Yalnız 1
+B - Yalnız 2
+C - 1 ve 2
+D - 1 ve 3
+E - 2 ve 3
+Doğru Cevap C
+Aciklama Ünite 7, Görme Yetersizliğinin Gelişim Üzerindeki Etkileri başlığı altında, görsel uyarıcı yoksunluğunun gelişim alanlarını olumsuz etkilediğini belirtir. Özellikle psikomotor gelişim üzerinde durulur: 'Görmeyen bebekler, öncelikle baş kontrolü ve çevreyi araştırma/erişimle ilişkili sorunlar yaşarlar... Hareket etme fırsatlarının sağlanmaması, uygun olmayan duruş problemini beraberinde getirecektir.' Bu durum, psikomotor gelişimin yavaşlaması anlamına gelir. Yineleyici davranışlar (stereotipik d...
+
+Unite 8
+Soru 48 - "............." ilkesi toplumdaki diğer bireylere sağlanan yaşam koşulları, hak ve olanakların yetersizlikten etkilenmiş bireylere de sağlanması anlamına gelir. Yukarıdaki soruda boş bırakılan yere aşağıdaki ifadelerden hangisi gelmelidir?
+A - Normalleştirme ilkesi
+B - Kaynaştırma ilkesi
+C - Bütünleştirme ilkesi
+D - Kapsayıcılık ilkesi
+E - Sürdürülebilirlik ilkesi
+Doğru Cevap A
+Aciklama Normalleştirme ilkesi toplumdaki diğer bireylere sağlanan yaşam koşulları, hak ve olanakların yetersizlikten etkilenmiş bireylere de sağlanması anlamına gelir.
+
+Soru 49 - 1: Ses kontrollü telefon 2: Erişilebilir baskı 3: Baston 4: Sesli açıklama Yukarıdakilerden hangisi ya da hangileri ağır ve çoklu yetersizliği olan bireyler için erişilebilir teknoloji seçenekleri işaretleri arasında yer almaktadır?
+A - 1, 2 ve 4
+B - 2, 3 ve 4
+C - 1, 2 ve 3
+D - 2 ve 4
+E - 2 ve 3
+Doğru Cevap A
+Aciklama Düşük Görüşe Erişim Erişilebilirlik Sembolü Sesli Açıklama Telefon Daktilo Ses Kontrollü Telefon İşaret Dili Tercümesi Yardımcı Dinleme Sistemi Erişilebilir Baskı Bilgi Sembolü Altyazı Braille Sembolü Görme Engelli ağır ve çoklu yetersizliği olan bireyler için erişilebilir teknoloji seçenekleri işaretleri arasında yer alır.
+
+Soru 50 - ".......... .............." özel gereksinimli bireylerin yaşam becerilerini desteklemek, geliştirmek ve sürdürmelerini sağlamak amacıyla kullanılan her türlü araç-gereç, ürün, sistem, hizmet vb. yardımcı teknolojilerdir. Yukarıdaki boş bırakılan yere aşağıdaki ifadelerden hangisinin gelmesi uygun olur?
+A - Yardımcı teknolojiler
+B - Gelişen teknolojiler
+C - Güncel teknolojiler
+D - Düşük düzey teknolojiler
+E - Yüksek düzey teknolojiler
+Doğru Cevap A
+Aciklama Alanyazında yardımcı teknolojilere yönelik farklı tanımlar yapılmış olsa da söz konusu tanımlardaki ortak nokta, özel gereksinimli bireylerin yaşam becerilerini desteklemek, geliştirmek ve sürdürmelerini sağlamak amacıyla kullanılan her türlü araç-gereç, ürün, sistem, hizmet vb. yardımcı teknoloji olarak adlandırılmasıdır.
+
+Soru 51 - 1: Karmaşık yapılı sistemlerdir. 2: Ulaşılabilirliği daha kolaydır. 3: Kullanımı genellikle basittir. 4: Nispeten ucuz teknolojilerdir. Düşük düzey teknolojiler için yukarıda yazılanlardan hangisi ya da hangileri doğrudur?
+A - 2 ve 3
+B - 1 ve 2
+C - 1 ve 4
+D - 2 ve 4
+E - 3 ve 4
+Doğru Cevap A
+Aciklama Alanyazında yardımcı teknolojilere yönelik farklı tanımlar yapılmış olsa da söz konusu tanımlardaki ortak nokta, özel gereksinimli bireylerin yaşam becerilerini desteklemek, geliştirmek ve sürdürmelerini sağlamak amacıyla kullanılan her türlü araç-gereç, ürün, sistem, hizmet vb. yardımcı teknoloji olarak adlandırılmasıdır.
+
+Soru 52 - Aşağıdakilerden hangisi AÇYE olan bireylerin yaşamlarını destekleyen düşük düzey teknolojiye sahip cihazlar arasında yer almaz?
+A - ADİ sistemleri
+B - İletişim panosu
+C - Yürüteç
+D - Okuma gözlüğü
+E - Baston
+Doğru Cevap A
+Aciklama ADİ sistemleri yüksek düzey teknolojiye sahip sistemler arasında yer almaktadır. Yüksek düzey teknolojiler ise diğer düzeylere kıyasla çok daha karmaşık olan, aynı zamanda kullanım için teknik destek ve eğitim gerektiren elektronik veya mekanik araçları kapsamaktadır. Dolayısıyla bilgisayar yazılımları veya sistemleriyle ilgili bileşenleri içeren, karmaşık ve çok fonksiyonlu, ayrıca erişimi, kullanımı daha zor ve edinilmesi daha pahalı olan araçlar bu düzey içerisinde yer almaktadır
+
+Soru 53 - 1: Bireylerin iletişim kurmasını destekleme 2: Bireylerin hareket becerilerini destekleme 3: Bireylerin özbakım becerilerini gerçekleştirmesini destekleme Yukarıdakilerden hangisi ya da hangileri yardımcı teknolojilerin AÇYE olan bireylerin yaşamına sağladığı katkılar arasında yer almaktadır?
+A - 1, 2 ve 3
+B - 2 ve 3
+C - Yalnız 1
+D - 1 ve 3
+E - Yalnız 3
+Doğru Cevap A
+Aciklama AÇYE olan bireylerin fiziksel, bilişsel, gelişimsel özelliklerine bağlı olarak çeşitli yardımcı teknolojilere ihtiyaçları olabilir. Bu ihtiyaçları karşılandığında AÇYE olan bireyler hedeflenen bilgi, beceri ve davranışları kazanabilirler. Özbakım becerilerinin gerçekleştirilmesi, iletişim kurma, hareket etme (mobilite), çevre kontrolü gibi alanlar bu hedeflere örnek gösterilebilir.
+
+Soru 54 - Aşağıdaki sistemlerden hangisi ADİ sistemlerinde yardımlı araçlar kategorisinde yer almaz?
+A - İşret dili
+B - Resimli kartlar
+C - İletişim panoları
+D - Ses kayıt cihazı
+E - Ses üretim cihazı
+Doğru Cevap A
+Aciklama ADİ araçları alanyazında iki boyutta ele alınmaktadır. Bunlar; a) yardımsız ve b)yardımlı araçlardır. Yardımsız araçlar, işaret etme ve vücut dilini içerir ve herhangi bir iletişim aracını kapsamazken yardımlı araçlar, resimli kartlar, nesneler, nesne kartları gibi basit sembol kartlarından iletişim panolarından konuşma üreten yüksek teknolojili cihazlara kadar çeşitlilik gösteren araçları kapsamaktadır
+
+Soru 55 - Aşağıdakilerden hangisi AÇYE olan bireylerin tuvaletlerinde yapılacak uygulamalar arasında yer almaz?
+A - Banyo kapılarının kilitli yapılması
+B - Banyo kapılarının büyük yapılması
+C - Klozetlerin yüksekliğinin ayarlanması
+D - Lavaboların ay(hilal) şeklinde tasarlanması
+E - Duvarlara tutunma barlarının konulması
+Doğru Cevap A
+Aciklama AÇYE olan bireyler tuvalet, banyo gibi kişisel bakım ve temizlik becerilerini sergilemede bazı problemlerle karşılaşabilirler. Bu bakımdan söz konusu becerileri sergileyebilmelerine yönelik erişilebilir tasarım uygulamalarına gereksinimleri olabilir. Örneğin banyo kapıları bir tekerlekli sandalyenin geçebileceği büyüklükte tasarlanabilir. Ayrıca banyolar AÇYE olan bireylerin rahat hareket etmesini sağlayacak şekilde düzenlenmelidir. AÇYE olan bireyler için yapılabilecek bir başka düzenleme kloze...
+
+Soru 56 - 1: Kaşık çatalların ağız kısımlarını eğimli yapma 2: Tabakların kenarına dökülmeyi engelleyecek aparat yerleştirme 3: Tabakların altına kaydırmaz materyal yerleştirme 4: Ev içi transferi sağlayan ayak aparatları Yukarıdakilerden hangisi ya da hangileri AÇYE olan bireylerin yemek yeme davranışlarını geliştirmek amacıyla yapılabilecek uyarlamalar arasında yer almaktadır?
+A - 1, 2 ve 3
+B - 1, 2 ve 4
+C - 1 ve 2
+D - 2 ve 4
+E - 2 ve 3
+Doğru Cevap A
+Aciklama AÇYE olan bireyler yemek yeme veya hazırlama, kaşık, tabak, bıçak vb. kullanma gibi pek çok beceriyi sergileme konusunda bazı güçlükler yaşayabilirler. Dolayısıyla var olan şekilleriyle normal mutfak araç-gereçlerini kullanamayacak durumdaki AÇYE olan bireyler için bazı uyarlamalara gidilmesi gerekir. Diğer bir ifadeyle AÇYE olan bireylerin yemek yeme becerilerini gerçekleştirebilmelerini sağlayacak erişilebilir tasarım uygulamalarına ihtiyaç vardır. Örneğin AÇYE olan bireylerin kaşık veya çatal...
+
+Soru 57 - Aşağıdakilerden hangisi AÇYE olan bireylerin farklı mekanlara erişimini kolaylaştıran düzenlemeler arasında yer almaktadır?
+A - Rampalar
+B - Kaydırmaz tabaklar
+C - Yaylı makaslar
+D - Sapı kalınlaştırılmış kaşıklar
+E - Ucuna mandal takılmış kalemler
+Doğru Cevap A
+Aciklama Rampalar AÇYe olan bireylerin hareket olanağını kolaylaştıran düzenlemeler arasında yer almaktadır.
+
+Soru 58 - Normalleştirme ilkesi aşağıdaki hangi ana prensibi vurgulamaktadır?
+A - Toplumda sadece bazı bireylerin eşit haklara sahip olması gerektiğini
+B - Bireyin "normal yapılması" gerektiğini
+C - Toplumdaki her bireyin eşit haklara sahip olması gerektiğini
+D - Özel araç-gereçlerin kullanılmaması gerektiğini
+E - Yetersizlikten etkilenmiş bireylerin toplum dışında yaşaması gerektiğini
+Doğru Cevap C
+Aciklama Normalleştirme ilkesi toplumdaki diğer bireylere sağlanan yaşam koşulları, hak ve olanakların yetersizlikten etkilenmiş bireylere de sağlanması anlamına gelir (Özyürek, 1990). Ancak normalleştirme ilkesi birkaç yönden yanlış anlaşılmaktadır. Öncelikle bilinmesi gereken normalleştirmenin bireyi “normal yapmak” anlamına gelmediğidir. Bu ilke toplumun bütünleşmiş bir toplum olabilmesi için toplumdaki her bireyin eşit haklara sahip olması gereğini vurgular. Bu kapsamda cevap C. Şıkkıdır.
+
+Soru 59 - Aşağıda yer alan ağır ve çoklu yetersizliği olan bireyler için erişilebilir teknoloji seçeneklerinden hangisi, koyu renkli bir daire içerisinde beyaz renkte yürüme değneği olan bir insan figürü olarak simgelenmektedir?
+A - Braille sembolü
+B - Görme engelli
+C - Erişilebilirlik sembolü
+D - Düşük görüşe erişim
+E - Bilgi sembolü
+Doğru Cevap D
+Aciklama s 261’de görüldüğü gibi “düşük görüşe erişim” koyu renkli bir daire içerisinde beyaz renkte yürüme değneği olan bir insan figürü olarak simgelenmiştir. Bu kapsamda cevap D şıkkıdır.
+
+Soru 60 - 1. Çoklu yetersizlik, aynı anda birden fazla yetersizliğe sahip olma durumu olarak tanımlanmaktadır. 2. Çoklu yetersizliği olan bireylerin özellikleri sadece kaç tane yetersizlikten etkilendiğine göre değişir. 3. Çoklu yetersizlik iki ya da daha fazla yetersizliğin bileşiminden oluştuğu için şemsiye bir terim olarak ifade edilebilir. 4. Çoklu yetersizlik sadece iki yetersizlikten etkilenen bireyleri kapsar. 5. Çoklu yetersizlik kavramı, bireyin birçok farklı yetersizlik türünden etkilenmesi durumunu ifade eder. Aşağıdaki seçeneklerin hangisinde çoklu yetersizlik kavramı ile ilgili yukarıda sunulan doğru bilgiler bir arada verilmiştir?
+A - 1, 2 ve 3
+B - 1, 3 ve 5
+C - 2, 3 ve 4
+D - 1, 4 ve 5
+E - 3, 4 ve 5
+Doğru Cevap B
+Aciklama Çoklu yetersizlik kavramı hakkında bilinen özellikler/bilgiler arasında sadece 1, 3 ve 5. öncüller yer almaktadır. 2. öncülde yer alan "Çoklu yetersizliği olan bireylerin özellikleri sadece kaç tane yetersizlikten etkilendiğine göre değişir" yanlıştır çünkü bu yetersizliklerin birey üzerinde yarattığı sınırlılıkların neler olduğuna ve bu yetersizliklerin her birinden ne düzeyde etkilendiğine göre de değişir. 4. öncülde yer alan "Çoklu yetersizlik sadece iki yetersizlikten etkilenen bireyleri kap...
+
+Soru 61 - 1. Genellikle pil gibi düşük akım gerektiren araçları içerir. 2. Çok fonksiyonludur 3. Erişimi ve kullanımı daha basittir. 4. Teknik destek ve eğitim gerektirir Yukarıda verilen yardımcı teknolojilerin özelliklerinden hangileri orta düzey yardımcı teknolojiler kapsamında yer almaktadır?
+A - 1 ve 3
+B - 2 ve 4
+C - 1 ve 4
+D - 2 ve 3
+E - 1, 2 ve 4
+Doğru Cevap A
+Aciklama "Orta Düzey Teknolojiler" hakkındaki özellikler arasında sadece " Genellikle pil gibi düşük akım gerektiren araçları içerir (1.)" ve "Erişimi ve kullanımı daha basittir (3.)" yer almaktadır. 2. eşleştirmede yer alan "Çok fonksiyonludur " yanlıştır çünkü orta düzey teknolojiler ileri düzeyde çok fonksiyonlu özellikleri içermez. 4. eşleştirmede yer alan "Teknik destek ve eğitim gerektirir " yanlıştır çünkü bu özellikler yüksek düzey teknolojilere aittir. Bu nedenle doğru cevap: A) 1 ve 3.
+
+Soru 62 - Aşağıdakilerden hangisi yüksek düzey yardımcı teknolojiler arasında yer almaktadır?
+A - Baston
+B - Yürüteç
+C - İşitme cihazı
+D - Ekran okuma programları
+E - Ses kayıt cihazı
+Doğru Cevap D
+Aciklama Düşük Düzey araçlar arasında, iletişim panosu, yürüteç, baston; orta düzey teknolojiler arasında, ses kayıt cihazı, hesap makinası, işitme cihazı; yüksek düzey teknolojiler arasında ADI sistemleri, FM sistemler ve ekran okuma programları yer almaktadır. Bu kapsamda cevap D şıkkı Ekran okuma programlarıdır.
+
+Soru 63 - Alternatif ve destekleyici iletişim (ADİ) araçları aşağıdaki hangi iki boyutta ele alınmaktadır?
+A - Dilsel ve Konuşmalı
+B - Basit ve Karmaşık
+C - Yardımsız ve Yardımlı
+D - Resimli ve Nesnel
+E - Yüksek teknolojili ve Düşük teknolojili
+Doğru Cevap C
+Aciklama ADİ araçları, "yardımsız" ve "yardımlı" olmak üzere iki boyutta ele alınmaktadır.
+
+Soru 64 - Aşağıdakilerden hangisi alternatif ve destekleyici iletişim (ADİ) kapsamında yardımsız iletişim araçları arasında yer alır?
+A - İşaret etme
+B - Nesneler
+C - Sembol kartları
+D - İletişim panoları
+E - Mikro anahtarlar
+Doğru Cevap A
+Aciklama ADİ araçları alanyazında iki boyutta ele alınmaktadır (Pino, 2014). Bunlar; a) yardımsız ve b) yardımlı araçlardır. Yardımsız araçlar, işaret etme ve vücut dilini içerir ve herhangi bir iletişim aracını kapsamazken yardımlı araçlar, resimli kartlar, nesneler, nesne kartları gibi basit sembol kartlarından iletişim panolarından konuşma üreten yüksek teknolojili cihazlara kadar çeşitlilik gösteren araçları kapsamaktadır (Light, 1988). Bu kapsamda cevap A şıkkıdır.
+
+Soru 65 - AÇYE olan bireylerin banyo yaparken uzun süre ayakta durmakta zorlanabilecekleri düşünülerek daha rahat etmeleri için hangi düzenleme tavsiye edilmektedir?
+A - Daha büyük bir banyo yapma
+B - Banyoya bir oturak eklemek
+C - Banyo zeminini yumuşatma
+D - Daha fazla aydınlatma sağlama
+E - Banyoda ısıtıcı kullanma
+Doğru Cevap B
+Aciklama AÇYE olan bireyler uzun süre ayakta durmakta zorlanabilirler. Banyo içerisine bir oturak eklemek bu bireyler için önemli bir düzenleme olabilir. Ancak oturarak banyo yaparken oturma ya da kalkma sırasında oturağın kayması sonucunda oluşabilecek kazaları önleyebilmek adına oturakların yere veya duvara sabitlenmesi sağlanabilir. Bu kapsamda cevap B seçeneğidir.
+
+Soru 66 - Ses çıkışlı iletişim araçları (VOCA) aşağıdaki hangi kişiler için kullanılmaktadır?
+A - Sözlü iletişim kurma yeteneği sınırsız olanlar için
+B - Teknolojik cihazları sevenler için
+C - Sözlü iletişim kurmak için sınırlı veya hiç aracı olmayanlar için
+D - Sadece sayısallaştırılmış sesleri duyanlar için
+E - Farklı ses algoritmalarla ilgilenenler için
+Doğru Cevap C
+Aciklama Konuşma üreten cihazlar olarak da adlandırılan ses çıkışlı iletişim araçları (Voice Output Communication Aids [VOCA]), sözlü iletişim kurmak için sınırlı veya hiç aracı olmayan bir kişi için konuşma üreten yüksek teknoloji ürünü ADİ cihazlarıdır. Bu kapsamda cevap C şıkkıdır.
+
+Soru 67 - Dijitalleştirilmiş bir canlı sesin en belirgin yararı aşağıdakilerden hangisidir?
+A - Farklı dillerde konuşma yeteneği
+B - Sesi filtreleme yeteneği
+C - Geniş depolama kapasitesi
+D - Yüksek frekansta ses üretmesi
+E - Ses çıkışının doğallığı ve anlaşılırlığı
+Doğru Cevap E
+Aciklama Dijitalleştirilmiş bir canlı sesin yararı, ses çıkışının doğallığı ve anlaşılırlığıdır. Bu kapsamda cevap E şıkkıdır.
+
+Soru 68 - Dijital ortam tasarımlarında hareketsizlik veya hareketliliğinin kullanıcılar açısından verimli, konforlu ve minimum yorgunlukla kullanılabilir olmasını ifade eden evrensel tasarım ilkesi aşağıdakilerden hangisidir?
+A - Düşük fiziksel çaba
+B - Kullanımda esneklik
+C - Adil, eşitlikçi kullanım
+D - Hatalara tolerans
+E - Basit ve sezgisel kullanım
+Doğru Cevap A
+Aciklama Ünite 8'de (aynı zamanda Ünite 2'de de bahsedilmiştir), Evrensel Tasarım ilkeleri sıralanmıştır. Düşük Fiziksel Çaba ilkesi, tasarımın konforlu, verimli, rahat ve mümkün olan en az düzeyde çaba sarf edilerek kullanılmasını, yani hareketlilik ve yorgunluk açısından verimliliği ifade eder.
+
+Soru 69 - Aşağıdakilerden hangisi fiziksel engelli bireyler için tasarlanmış teknolojilerden biridir?
+A - Videolar için altyazılar
+B - Oyun çubukları ve uyarlanmış fare
+C - Sesli kitaplar
+D - Braille ekranları
+E - Yazılı metinler için titreşimler
+Doğru Cevap B
+Aciklama Fiziksel engelli bireyler için tasarlanmış teknolojiler arasında, tekerlekli sandalyenin hareketini sağlayan veya ona bağlanabilen teknolojiler (örneğin, yanağı/başı yardımıyla düğme ile kontrol edilen tekerlekli sandalye veya bilgisayar kontrolü) sayılabilir (Ünite 8). Bu ünite, özellikle tekerlekli sandalye kullanımına yönelik düzenlemelere değinmektedir.
+
+Soru 70 - Türkiye'de özel gereksinimli bireylerin kendilerine sunulan çeşitli hizmetlerden ve desteklerden yararlanabilmesi için aldıkları sağlık kurulu raporu aşağıdakilerden hangisidir?
+A - ASPB
+B - BEP
+C - RAM
+D - KHK
+E - ÇÖZGER
+Doğru Cevap E
+Aciklama Ünite 8'de belirtildiği gibi, ülkemizde özel gereksinimli bireylerin kendilerine sunulan çeşitli hizmetlerden ve desteklerden yararlanabilmesi için Sağlık Bakanlığı tarafından yetkilendirilmiş heyetler tarafından düzenlenen Sağlık Kurulu Raporu'nu almış olmaları zorunludur.
+
+Soru 71 - Aşağıdakilerden hangisi düşük düzey yardımcı teknolojilerden biridir?
+A - Ses kayıt cihazı
+B - Hesap makinesi
+C - FM sistemler
+D - İletişim panosu
+E - İşitme cihazı
+Doğru Cevap D
+Aciklama Ünite 8'de yardımcı teknolojiler düşük, orta ve yüksek düzey olarak üçe ayrılmıştır. Düşük düzey yardımcı teknolojiler, maliyeti düşük, ulaşılabilirliği fazla, basit yapıdadır ve elektronik/mekanik aksam içermezler. **İletişim panosu** (resimli kartlar, basit sembol kartları gibi) bu kategoriye girerken; FM sistemler, işitme cihazları ve ses kayıt cihazları (genellikle elektronik/mekanik aksam içerir) daha üst düzey teknolojilerdir. Hesap makinesi ise orta düzey veya daha karmaşık olabilir (Özel...
+
+Soru 72 - Yüksek düzey teknolojilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A - Maliyeti çok düşüktür.
+B - Mekanik aksamları tek fonksiyonludur.
+C - Kullanılabilirliği basit yapıdadır.
+D - Özelleştirilebilmesi zordur.
+E - Bilgisayar yazılımı içerebilen karmaşık yapıdadır.
+Doğru Cevap E
+Aciklama Ünite 8'de yüksek düzey teknolojilerin, diğer düzeylere kıyasla daha karmaşık olduğu, kullanım için teknik destek ve eğitim gerektiren elektronik veya mekanik araçları kapsadığı belirtilmiştir. Ayrıca erişimi, kullanımı daha zor ve edinilmesi daha pahalı olan araçlar bu düzeyde yer alır (Ünite 8, Yardımcı ve Destekleyici Teknolojiler).
+
+Soru 73 - Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?
+A - Tekerlekli sandalye binişli otobüs
+B - Mikro anahtarlı bebek yatağı
+C - Havuza girme düzeneği
+D - Alt yazı içeren videolar
+E - Braille baskı sistemleri
+Doğru Cevap A
+Aciklama Ünite 8'de, AÇYE olan bireyler için yapılan tasarım uygulamaları arasında tekerlekli sandalyenin geçebileceği büyüklükte banyo kapıları tasarlanması, banyo içerisine oturak eklenmesi, lavaboların tekerlekli sandalyenin yanaşabileceği şekilde tasarlanması ve banyo duvarlarına tutunma barları eklenmesi gibi düzenlemelerin seyahat (ulaşım) ve öz bakım becerilerini desteklediği belirtilmiştir. Özellikle banyo ve ev içi düzenlemeler özbakım ve tuvalet/banyo becerilerini destekler (Ünite 8). Ancak, te...
+
+Soru 74 - Aşağıdakilerden hangisi düşük düzey yardımcı teknolojilerden biridir?
+A - FM sistemler
+B - İşitme cihazı
+C - Hesap makinesi
+D - İletişim panosu
+E - Ses kayıt cihazı
+Doğru Cevap D
+Aciklama Ünite 8'de yardımcı teknolojiler üç düzeye ayrılmıştır. Düşük düzey teknolojiler elektronik/mekanik aksam içermeyen, maliyeti düşük ve basit araçlardır. **İletişim panosu** (basit sembol kartları) bu kategoriye girer. İşitme cihazları ve FM sistemleri işitme teknolojileri kapsamında daha üst düzeydedir. Hesap makinesi ve ses kayıt cihazları da genellikle elektronik/mekanik aksam içerdiği için orta veya yüksek düzey olarak kabul edilir.
+
+Soru 75 - Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?
+A - Mikro anahtarlı bebek yatağı
+B - Braille baskı sistemleri
+C - Tekerlekli sandalye binişli otobüs
+D - Alt yazı içeren videolar
+E - Havuza girme düzeneği
+Doğru Cevap C
+Aciklama Ağır ve çoklu yetersizliği olan (AÇYE) bireylerin hizmetlere erişiminde ulaşım önemli bir zorluktur. Ünite 8 özetine göre, fiziksel yetersizliğe sahip AÇYE olan birçok birey tekerlekli sandalye kullanmaktadır ve okul servis aracı, otobüs gibi ulaşım araçlarının bireyin tekerlekli sandalyesiyle bağımsız olarak kullanabileceği şekilde düzenlenmiş olması gerekir. Bu nedenle, 'Tekerlekli sandalye binişli otobüs' AÇYE bireyler için seyahat becerilerinin desteklenmesine yönelik bir düzenleme örneğidir...
+
+Soru 76 - Aşağıdakilerden hangisi ses çıkışlı (konuşma üreten) iletişim araçlarından biridir?
+A - Akıllı saat
+B - WeWalk
+C - Beyaz baston
+D - VOCA
+E - İşitme cihazı
+Doğru Cevap D
+Aciklama Ünite 8'e göre, konuşma üreten cihazlar (Voice Output Communication Aids [VOCA]) ses çıkışlı iletişim araçları olarak adlandırılır. Bunlar, sözlü iletişim kurmak için sınırlı veya hiç aracı olmayan kişilerin iletişim becerilerini geliştirmek amacıyla sentezlenmiş veya sayısallaştırılmış ses üreten yüksek teknolojili ADİ sistemleridir.
+
+Soru 77 - Aşağıdakilerden hangisi düşük düzey yardımcı teknolojilerden biridir?
+A - İletişim panosu
+B - Hesap makinesi
+C - Ses kayıt cihazı
+D - İşitme cihazı
+E - FM sistemler
+Doğru Cevap A
+Aciklama Ünite 8'de yardımcı teknolojiler üç düzeye ayrılmıştır. Düşük düzey yardımcı teknolojiler; maliyeti düşük, basit ve elektronik/mekanik aksam içermeyenlerdir. **İletişim panosu** (ADİ araçları arasında yer alan, yardımcı araçlar kategorisinde) düşük düzey bir teknoloji örneğidir (yardımlı araçlar başlığı altında, pahalı cihazlara kıyasla).
+
+Soru 78 - Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?
+A - Mikro anahtarlı bebek yatağı
+B - Tekerlekli sandalye binişli otobüs
+C - Braille baskı sistemleri
+D - Alt yazı içeren videolar
+E - Havuza girme düzeneği
+Doğru Cevap B
+Aciklama Ünite 8'de AÇYE olan bireylerin günlük yaşam becerilerini destekleyen çeşitli teknolojilerden bahsedilmiştir. Seyahat becerilerinin desteklenmesi, özellikle tekerlekli sandalyenin bağımsız kullanımı ve transferi ile ilişkilidir. Metinde, AÇYE olan bir bireyin tekerlekli sandalyesini yanağı veya başı yardımıyla bir düğmeye dokunarak yürütebilmesi ve sandalyeden yatağa transfer edebilmesi gerektiği vurgulanmıştır. Bu düzenlemeler seyahat (ulaşım) ve bağımsız hareket becerilerini doğrudan destekler...
+
+Soru 79 - Aşağıdakilerden hangisi ağır ve çoklu yetersizliği olan bireyler için erişilebilir teknoloji seçeneklerinden biri değildir?
+A - Dokunsal Braille baskı
+B - Yardımcı dinleme sistemi
+C - Ses kontrollü telefon
+D - Erişilebilirlik sembolü
+E - Yumuşak, mat renkli tasarım
+Doğru Cevap E
+Aciklama Ünite 8, AÇYE bireyler için erişilebilir tasarım uygulamalarını anlatmaktadır. Dokunsal Braille baskı, ses kontrollü telefon, yardımcı dinleme sistemleri (işitme desteği) erişilebilir teknoloji seçenekleridir. **Yumuşak, mat renkli tasarım** ise daha çok görsel iletişimde (Ünite 3) veya genel erişilebilirlik prensiplerinde (renk kontrastının azaltılması gerektiğinde) bahsedilen bir görsel tasarım tercihi olup, spesifik bir teknolojik araç veya çıktı değildir.
+
+Soru 80 - Aşağıdakilerden hangisi ağır ve çoklu yetersizliği olan bireyler için erişilebilir teknoloji seçeneklerinden biri değildir?
+A - Erişilebilirlik sembolü
+B - Ses kontrollü telefon
+C - Yardımcı dinleme sistemi
+D - Yumuşak, mat renkli tasarım
+E - Dokunsal Braille baskı
+Doğru Cevap D
+Aciklama Ünite 8'de AÇYE bireyler için erişilebilir teknoloji örnekleri verilmiştir. Erişilebilirlik sembolü, ses kontrollü telefon, yardımcı dinleme sistemi (işitme desteği) ve dokunsal Braille baskı, bu bireylerin ihtiyaçlarına yönelik teknoloji/erişim çözümleridir. **Yumuşak, mat renkli tasarım** ise görsel tasarımda (kontrast ayarlaması vb.) bir tasarım kararıdır; doğrudan bir teknolojik araç veya sistem değildir.
+
+Soru 81 - Aşağıdaki tasarlanmış araçlardan hangisi ağır ve çoklu yetersizliği olan bireyler için seyahat becerilerinin desteklenmesine yöneliktir?
+A - Mikro anahtarlı bebek yatağı
+B - Tekerlekli sandalye binişli otobüs
+C - Braille baskı sistemleri
+D - Alt yazı içeren videolar
+E - Havuza girme düzeneği
+Doğru Cevap B
+Aciklama Ünite 8, Hizmetlere ve Desteklere Erişim başlığı altında, AÇYE olan bireylerin ulaşım zorluklarına değinir. Tekerlekli sandalye kullanan bireyler için okul servisi, otobüs gibi ulaşım araçlarının düzenlenmesi gerektiği belirtilir. Ayrıca, yatağa veya başka bir yere transfer için tekerlekli sandalyeden bağımsız transfer becerisi gerektiği vurgulanır. Ayrıca, 'AÇYE olan bireyler için bazı düzenlemeler yapılması gerekmektedir. Bunlar taşıma sistemlerinden tutun da asansörlü arabalara kadar geniş bi...
+
+Soru 82 - Aşağıdakilerden hangisi ses çıkışlı (konuşma üreten) iletişim araçlarından biridir?
+A - Akıllı saat
+B - İşitme cihazı
+C - Beyaz baston
+D - VOCA
+E - WeWalk
+Doğru Cevap D
+Aciklama Ünite 8'de, Ses Çıkışlı İletişim Araçları (VOCA) şu şekilde tanımlanmaktadır: 'Konuşma üreten cihazlar olarak da adlandırılan ses çıkışlı iletişim araçları, sözlü iletişim kurmak için sınırlı veya hiç aracı olmayan bir kişi için konuşma üreten yüksek teknoloji ürünü ADİ cihazlarıdır.' VOCA'lar, ses sentezleyiciler veya önceden kaydedilmiş sesleri çalan cihazlardır. Bu, doğrudan konuşma üreten bir araçtır.
+

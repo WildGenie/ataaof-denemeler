@@ -1,0 +1,1093 @@
+SAYISAL GÖRÜNTÜLEME TEKNOLOJİLERİ dersi ünite 7-8 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 7
+Soru 1 - 1. Adobe Photoshop 2. Corel PaintShop Pro 3. Picasa 4. Gimp Yukarıdaki uygulamalardan hangisi/hangileri tüketici düzeyinde basit arayüzlerle çalışır?
+A - Yalnız 1
+B - Yalnız 2
+C - 1,2
+D - 1,2,3
+E - 3,4
+Doğru Cevap E
+Aciklama Hareketsiz görüntünün sayısallaştırılarak bilgisayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Photoshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygulamalar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.
+
+Soru 2 - Hareketli görüntülerin işlenmesinde -----------------ve kurgu yazılımlarının gelişimi, bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işlerini oldukça kolaylaştırmıştır. Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru tamamlar?
+A - doğrusal olmayan düzenleme
+B - analog sistemlerle çalışma kolaylığı
+C - dijital talep
+D - zaman baskısı
+E - sosyal medya kullanımı
+Doğru Cevap A
+Aciklama Hareketli görüntülerin işlenmesinde doğrusal olmayan düzenleme (ing.Non-Linear Editing) ve kurgu yazılımlarının gelişimi bu alanda çalışan amatör ve profesyonel içerik üreticilerinin işlerini oldukça kolaylaştırmıştır. Bu yazılımlarla manyetik kayıt ünitelerinden doğrusal olarak işlem yapılabilen analog sistemlerde karşılaşılan zorluklar aşılarak görüntüye istenildiği noktadan erişilebilen bir düzenleme çerçevesine geçilmiştir.
+
+Soru 3 - OBJ, DWF, MAX, STL ve MGF dosya türleri hangi görüntü formatına aittir?
+A - Analog
+B - Bitmap
+C - Raster
+D - Vektörel
+E - 3 boyutlu
+Doğru Cevap E
+Aciklama 3 Boyutlu görüntü dosyaları bilgisayar yazılımları tarafından oluşturulan 3 boyutlu modellemeler, animasyon ve projelerin hacim, aydınlatma ve gölgeleme gibi bilgilerini içerir. En yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir.
+
+Soru 4 - Aşağıdaki ifadelerden hangisi PPI için yanlıştır?
+A - Piksel yoğunluğunun kısaltmasıdır
+B - Bir inç (2.54 cm) başına düşen piksel sayısını verir
+C - PPI değeri yükseldikçe ekrandaki görüntünün keskinliği artar
+D - PPI değeri cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir
+E - Baskı teknikleriyle alakalı olarak kullanılan bir kısaltmadır
+Doğru Cevap E
+Aciklama İnç Başına Düşen Piksel Sayısı (PPI): Piksel yoğunluğu olarak da bilinir. Bir inç (2.54 cm) başına düşen piksel sayısını verir. PPI değeri yükseldikçe ekrandaki görüntünün keskinliği artar. Bu değer cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir DPI (inç başına düşen nokta sayısı) ile PPI’ı karıştırmamak gerekir. PPI dijital ekranlarla alakalı bir terim iken, DPI daha çok baskı teknikleriyle alakalı olarak kullanılır
+
+Soru 5 - Kendisine benzer özelliklere sahip GIF formatının sıkıştırma algoritmasında yaşanan patent sorunu nedeniyle ortaya çıkan sayısal görüntü formatı aşağıdakilerden hangisidir?
+A - JPEG
+B - RAW
+C - PDF
+D - PPt
+E - PNG
+Doğru Cevap E
+Aciklama PNG: Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan bir dosya formatıdır. Taşınabilir Ağ Grafik leri anlamına gelen PNG (ing. Portable Network Graphics) sözcüklerinin kısaltılmasından oluşur. PNG formatı saydamlık özelliğiyle birlikte özellikle yazılımcılar, programcılar ve grafik tasarımcılar için internet siteleri üzerinde en sık kullanılan görüntü saklama formatlarından biridir. Kendisine benzer özelliklere sahip GIF formatının sıkıştırma algor...
+
+Soru 6 - Aşağıdaki ifadelerden hangisi histogram panelini doğru tanımlar?
+A - Seçilen fotoğrafın pozlama değerlerini grafik eğrisi olarak gösterir
+B - Görüntü saklama başlıklarını içeren paneldir
+C - Yeniden kadrajlama işlemi için bir dizi seçenek sunar
+D - Fotoğraf üzerinde istenmeyen leke ve dokuları temizleme panelidir
+E - Parazitlenmeyi azaltabilecek birtakım seçenekler sunan paneldir
+Doğru Cevap A
+Aciklama Histogram paneli, seçilen fotoğrafın pozlama değerlerini grafik eğrisi olarak gösterir. Histogramın sol bölümü karanlık/gölge alanlara, orta kısmı orta tonlara, sağ tarafı ise aydınlık/parlak alanlara karşılık gelir.
+
+Soru 7 - Aşağıdakilerden hangisi çoğunlukla amatör ve kişisel kullanıcıların rağbet ettiği hareketli görüntü işleme yazılımıdır?
+A - Adobe Premiere Pro
+B - Avid Media Composer
+C - Sony Vegas Pro
+D - Final Cut Pro
+E - Lightworks
+Doğru Cevap E
+Aciklama Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro, Final Cut Pro, Edius Pro gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği yazılımlar farklı özelliklere sahip paket ve eklentilere göre belirlenen ücret karşılığında lisanslanarak kullanılabilir. Bunların yanında çoğunlukla amatör ve kişisel kullanıcıların rağbet ettiği Openshot, VSDC Free Video Editör, Lightworks, Shotcut gibi hareketli görüntü işleme yazılımları ise ücretsiz olarak kullanılabilir. ...
+
+Soru 8 - Aşağıdakilerden hangisi sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden biri değildir?
+A - Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi
+B - Görüntü ve ses filtrelerinin çeşitliliği
+C - Sınırlı kaynaklardan gelen video içeriğini import edebilme
+D - Sanal gerçeklik video desteği
+E - Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme
+Doğru Cevap C
+Aciklama Ağırlıklı olarak profesyonel kullanıcıların tercih ettiği bir sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden bazılarıları şunlardır: Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi Görüntü ve ses filtrelerinin çeşitliliği 360 derece video desteği Sanal gerçeklik video desteği Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme242 Her türlü kaynaktan gelen video içeriğini import edebilme Yüzlerce farklı dosya formatıyla uyumlu çalışab...
+
+Soru 9 - Fotoğraf makineleri, kameralar, bilgisayar ekranları görüntüyü ---------------renk uzayıyla oluştururken, baskı makineleri ve yazıcılar CMYK renk uzayıyla oluştururlar. Yukarıda boş bırakılan yeri aşağıdakilerden hangisi, doğru tamamlar?
+A - RGB
+B - GGB
+C - RCT
+D - PPI
+E - IRR
+Doğru Cevap A
+Aciklama Dijital cihazlar ve baskı teknolojileri renkleri bir-birinden farklı şekilde oluşturur. Fotoğraf makineleri, kameralar, bilgisayar ekranları görüntüyü RGB renk uzayıyla oluştururken, baskı makineleri ve yazıcılar CMYK renk uzayıyla oluştururlar
+
+Soru 10 - Aşağıdakilerden hangisi Facebook profil fotoğrafı boyutudur?
+A - 1920x1080 piksel
+B - 180x180 piksel
+C - 1080x1080 (kare) piksel
+D - 1080x1350 (dikey) piksel
+E - 3840x12160 piksel
+Doğru Cevap B
+Aciklama Fotoğraflarımızı kendi kişisel blog sitemizde tam ekran yüksek çözünürlüklü paylaşmak istersek 1920x1080 piksel, Facebook profil fotoğrafı boyutu 180x180 piksel, Instagram paylaşım görseli boyutu 1080x1080 (kare), 1080x1350 (dikey) pikseldir.
+
+Soru 11 - Aşağıdaki seçeneklerde yer alan uygulamalardan hangisi tüketici düzeyinde daha basit arayüzlerle çalışan uygulamalardan birisidir?
+A - Adobe Photoshop
+B - Lightroom
+C - Corel Paintshop Pro
+D - Picasa
+E - NLE
+Doğru Cevap D
+Aciklama Hareketsiz görüntünün sayısallaştırılarak bilgi- sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Photoshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula- malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur. Picasa, Gimp gibi tüketici düzeyinde daha basit arayü...
+
+Soru 12 - Sayısal görüntü ile ilgili olarak aşağıdaki seçeneklerden hangisi söylenemez?
+A - Piksellerden oluşur.
+B - Orijinal basılı fotoğraf/filmlerden taranır.
+C - Sayısal fotoğraf makineleri/kameralar ile çekilir.
+D - Her bir piksel üzerinde bilgiler içeren değerler bulunur.
+E - Değerler beş rakamlı bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır.
+Doğru Cevap E
+Aciklama Beş değil iki rakamlı olacak. Sayısal görüntü, temel anlamda piksellerden oluşur. Sayısal görüntüler, ya orijinal basılı fotoğraf/filmlerden taranır ya da sayısal fotoğraf makineleri/kameralar ile çekilir. Görüntüyü oluşturan her bir piksel üzerinde renk, ışık ya da parlaklık gibi bilgileri içeren değerler bulunur. Bu değerler iki rakamlı (ing.binary) bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır.
+
+Soru 13 - Aşağıdaki seçeneklerden hangisi raster (bitmap) kapsamında yer alan görüntü formatlarından birisidir?
+A - JPEG
+B - AI
+C - EPS
+D - SVG
+E - PDF
+Doğru Cevap A
+Aciklama Raster (Bitmap/Pix- map) grafikler en fazla tercih edilen JPEG, GIF, PNG, TIFF gibi formatları içerir.
+
+Soru 14 - Aşağıdaki seçeneklerden hangisi vektörel görüntü formatı kapsamında yer alan dosya türlerinden birisidir?
+A - GIF
+B - PNG
+C - EPS
+D - JPEG
+E - TIFF
+Doğru Cevap C
+Aciklama C seçeneği vektörel, diğer seçenekler raster (bitmap) görüntü formatı kapsamındadır. Vektörelin; en yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir.
+
+Soru 15 - Aşağıdaki seçeneklerden hangisi 3 boyutlu görüntü formatı kapsamında yer alan dosya türlerinden birisidir?
+A - GIF
+B - AI
+C - TIFF
+D - PDF
+E - MAX
+Doğru Cevap E
+Aciklama E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir. 3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir.
+
+Soru 16 - Aşağıdaki seçeneklerde yer alan panellerden hangisi fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için gerekli müdahalelerin yapılabildiği paneldir?
+A - Fotoğraf Ekleme Paneli
+B - Fotoğraf Düzenleme (Edit) Paneli
+C - Kırpma ve Çevirme Paneli
+D - 1̇yileştirici (Healing Brush) Fırça Paneli
+E - Fırça, Doğrusal ve Dairesel Gradyan Paneli
+Doğru Cevap D
+Aciklama 1̇yileştirici (Healing Brush) Fırça Paneli: Bu kısım üzerinden fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için iyileştirici fırçayı kullanarak gerekli müdahaleleri yapabiliriz.
+
+Soru 17 - 2011 yılında Dan Dennedy tarafından geliştirilmeye başlanan açık kaynak kodlu hareketli görüntü işleme ve düzenleme yazılımı aşağıdaki seçeneklerden hangisinde yer almaktadır?
+A - Lightworks
+B - Shotcut
+C - VSDC Free Video Editör
+D - OpenShot
+E - Vegas Pro
+Doğru Cevap B
+Aciklama Shotcut, 2011 yılında Dan Dennedy tarafından geliştirilmeye başlanan açık kaynak kodlu hareketli görüntü işleme ve düzenleme yazılımıdır.
+
+Soru 18 - Aşağıdaki seçeneklerden yer alan hangi renk RBG renk uzayında yer alan renklerden birisidir?
+A - Cam göbeği
+B - Eflatun
+C - Sarı
+D - Siyah
+E - Kırmızı
+Doğru Cevap E
+Aciklama RGB, kırmızı, yeşil ve mavi renklerinden oluşur. CMYK, cam göbeği, eflatun, sarı ve siyah renklerinden oluşur.
+
+Soru 19 - Aşağıdaki seçeneklerde verilen boyutlardan hangisi dikey instagram paylaşım görseli boyutudur?
+A - 180x180
+B - 100x100
+C - 1000x1350
+D - 1080x1350
+E - 1920x1080
+Doğru Cevap D
+Aciklama Fotoğraflarımızı kendi kişisel blog sitemizde tam ekran yüksek çözünürlüklü paylaşmak istersek 1920x1080 piksel, Facebook profil fotoğrafı boyutu 180x180 piksel, Instagram paylaşım görseli boyutu 1080x1080 (kare), 1080x1350 (dikey) pikseldir.
+
+Soru 20 - Aşağıdaki seçeneklerden hangisinde dosya transferi üzerine uzmanlaşmış internet sitelerinden birisi yer almaktadır?
+A - Dropbox
+B - WeTransfer
+C - One Drive
+D - Idrive
+E - Icloud
+Doğru Cevap B
+Aciklama B seçeneği dosya transferi üzerine uzmanlaşmış internet sitesi iken diğer seçenekler bulut depolama örnekleridir. 1̇nternet üzerin- den görüntü transferi açısından kullanılan bir baş- ka çözüm ise dosya transferi üzerine uzmanlaşmış internet sitelerinin verdiği aktarım hizmetleridir. WeTransfer ve FirefoxSend gibi internet siteleri e-posta adreslerine gönderilen indirme linkleriyle yüksek ebatlı dosya ve görüntü transferlerinin hızlı bir biçimde gönderilmesine olanak tanır...
+
+Soru 21 - Hareketli görüntülerin işlenmesinde Doğrusal Olmayan Düzenleme teriminin kısaltılmış hali aşağıdakilerden hangisidir?
+A - NLE
+B - DWF
+C - STL
+D - PNG
+E - EPS
+Doğru Cevap A
+Aciklama Doğrusal olmayan düzenleme (NLE): Ses, görüntü ve video düzenleme için sayısal dosya formatlarını kullanan ve dosya üzerinde tam erişime sahip, işleme ve düzenleme biçimidir. Cevap A seçeneğidir.
+
+Soru 22 - 3 boyutlu modellemeler, animasyon ve projelerin hacim, aydınlatma ve gölgeleme gibi bilgilerini içeren dosya türü aşağıdakilerden hangisidir?
+A - AI
+B - EPS
+C - MAX
+D - SVG
+E - CDR
+Doğru Cevap C
+Aciklama 3 Boyutlu görüntü dosyaları ise bilgisayar yazılımları tarafından oluşturulan 3 boyutlu modellemeler, animasyon ve projelerin hacim, aydınlatma ve gölgeleme gibi bilgilerini içerir. En yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir. Sayısal fotoğraf ve video üretim teknolojileri anlamında bizi en fazla ilgilendiren tür Raster görüntü formatlarıdır. Cevap C seçeneğidir.
+
+Soru 23 - Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüleri içeren dosya türü aşağıdakilerden hangisidir?
+A - OBJ
+B - PDF
+C - DWF
+D - STL
+E - MGF
+Doğru Cevap B
+Aciklama Vektör grafikleri, vektör şekilleri veya vektör nesneleri olarak da adlandırılan vektörel görüntüler ise görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulurlar. Bu nedenle çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmezler. En yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir. Cevap B seçeneğidir.
+
+Soru 24 - Hareketsiz sayısal görüntülerde tüm ham veriyi içerisinde bulunduran ve sıkıştırılmamış format biçiminde saklayan en yaygın dosya türü aşağıdakilerden hangisidir?
+A - JPEG
+B - GIF
+C - TIFF
+D - RAW
+E - PNG
+Doğru Cevap D
+Aciklama Sıkıştırılmamış format görüntü dosyasının oluşturulması sırasında yer alan tüm ham veriyi içerisinde bulundurur. Bu sıkıştırma türü görüntünün renk, ışık vb. tüm bilgilerini ham olarak barındırdığı için dosyanın boyutu depolama biriminde çok daha fazla yer kaplar. Bu başlığa uyan ve en sık kullanılan sıkıştırmasız format ise RAW’dır. Cevap D seçeneğidir.
+
+Soru 25 - Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan dosya formatı aşağıdakilerden hangisidir?
+A - TIFF
+B - RAW
+C - JPEG
+D - GIF
+E - PNG
+Doğru Cevap E
+Aciklama Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan bir dosya formatıdır. Taşınabilir Ağ Grafik- 230 Sayısal Görüntü/Video İşleme Yazılımları ve Teknolojileri 7 leri anlamına gelen PNG (ing. Portable Network Graphics) sözcüklerinin kısaltılmasından oluşur. Cevap E seçeneğidir.
+
+Soru 26 - Sıkıştırılmamış görüntü formatları içinde yüksek renk derinliğine sahip olan ve açılımı Etiketli İmaj Dosya Formatı olarak bilinen görüntü dosya formatı aşağıdakilerden hangisidir?
+A - TIFF
+B - RAW
+C - PNG
+D - GIF
+E - JPEG
+Doğru Cevap A
+Aciklama Yüksek renk derinliğine sahip olan bu formatta dosyalar kullanıcı tercihine göre kayıplı yada kayıpsız bir biçimde saklanabilir. Etiketli İmaj Dosya Formatı (ing. Tagged Image File Format) kelimelerinin kısaltılmasına karşılık gelen bu türe ait dosya başlığında etiketler (ing.tag) yoluyla bir dosyada birden fazla görüntü ya da veri kaydedilebilir. Genişletilebilir bir dosya formatı olarak tasarlanan TIFF dosya formatında söz konusu etiketler görüntünün boyutları, geometrisi ve sıkıştırma tercihl...
+
+Soru 27 - Aşağıdakilerden hangisi amatör ve yarı profesyonel kullanıcılar için geliştirilmiş hareketli sayısal görüntü işleme programıdır?
+A - Sony Vegas
+B - Final Cut
+C - Adobe Premiere
+D - Avid Media Composer
+E - Openshot
+Doğru Cevap E
+Aciklama Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro, Final Cut Pro, Edius Pro gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği yazılımlar farklı özelliklere sahip paket ve eklentilere göre belirlenen ücret karşılığında lisanslanarak kullanılabilir. Bunların yanında çoğunlukla amatör ve kişisel kullanıcıların rağbet ettiği Openshot, VSDC Free Video Editör, Lightworks, Shotcut gibi hareketli görüntü işleme yazılımları ise ücretsiz olarak kullanılabilir C...
+
+Soru 28 - Mac işletim sistemleri için geliştirilmiş sayısal hareketli görüntü işleme ve düzenleme yazılımı olan program aşağıdakilerden hangisidir?
+A - Openshot
+B - Final Cut
+C - Sony Vegas
+D - Avid Media Composer
+E - Adobe Premiere
+Doğru Cevap B
+Aciklama İlk defa Macromedia firması tarafından geliştirilen Final Cut, daha sonra Apple tarafından satın alınarak geliştirilmiştir. Final Cut, Mac işletim sistemleri için geliştirilmiş bir sayısal hareketli görüntü işleme ve düzenleme yazılımıdır. Yalnızca Mac tabanlı işletim sistemleri üzerinde çalışabilen programa günümüzde pek çok amatör ve profesyonel kullanıcı tarafından kullanılmaktadır. Cevap B seçeneğidir.
+
+Soru 29 - Günümüz baskı teknolojilerinde renk uzayına ilişkin uygulamada çıkan birtakım sorunlar nedeniyle geliştirilmiş renk uzayı aşağıdakilerden hangisidir?
+A - RGB
+B - CMYK
+C - sRGB
+D - CMYKOG
+E - AdobeRGB
+Doğru Cevap D
+Aciklama Günümüz baskı teknolojilerinde CMYK renk uzayına ilişkin uygulamada çıkan birtakım sorunlar nedeniyle giderek artan bir şekilde altı renkli (Hexacrome) ya da CMYKOG dediğimiz yeni standartlara sahip renk uzayları kullanılır hâle gelmektedir. Cevap D seçeneğidir.
+
+Soru 30 - İnternet sayfalarını daha hızlı hale getirmek ve yüklenecek görüntülerin boyutunun daha küçük olmasını sağlamak için geliştirilmiş alternatif görüntü formatı aşağıdakilerden hangisidir?
+A - JPEG
+B - MPEG
+C - WebP
+D - PNG
+E - MP4
+Doğru Cevap C
+Aciklama İnternet ortamına yüklenecek görüntülere ilişkin olarak son zamanlarda JPEG ve PNG’nin karşısına çıkan bir diğer önemli alternatif WebP dosya formatıdır. Google tarafından internet sayfalarını daha hızlı hâle getirmek ve daha küçük boyutta görüntüler oluşturmak amacıyla geliştirilmiş bir görüntü formatı 254 Sayısal Görüntü/Video İşleme Yazılımları ve Teknolojileri 7 olan WebP, Jpeg ile kıyaslandığında %40 oranında daha fazla sıkıştırma oranına sahiptir. Cevap B seçeneğidir.
+
+Soru 31 - Bilgisayarlarda yer alan geçici bellek birimi aşağıdakilerden hangisidir? A) CPU B) SSD C) GPU D) RAM E) ROM
+A - CPU
+B - SSD
+C - GPU
+D - RAM
+E - ROM
+Doğru Cevap D
+Aciklama RAM (Random Access Memory), bilgisayarlarda yer alan geçici bellek birimidir. RAM, bir bilgisayarın şu an aktif olarak kullandığı verileri geçici olarak saklar ve bu sayede hızlı erişim sağlar. Ünite 7'de, görüntü işleme yazılımları için güçlü donanım özelliklerinin gerektiği belirtilmekte, bu bağlamda geçici bellek (RAM) kritik bir bileşendir (doğrudan RAM kelimesi geçmese de, 'işlemci' ile ilişkilendirilen hızlı veri erişimi ihtiyacı kastedilir).
+
+Soru 32 - ------- formatı, sesin televizyon veya hareketli görüntü prodüksiyonları için dijital olarak kaydedildiği sıkıştırılmamış dosya formatı türüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - LOG
+B - MP3
+C - WAV
+D - PDF
+E - PNG
+Doğru Cevap C
+Aciklama Ünite 7'de, sıkıştırılmamış formatların (RAW gibi) ham veriyi barındırdığı ve dosya boyutunun büyük olduğu belirtilmiştir. Video alanında, MPEG, AVI, MP4 gibi sıkıştırılmış formatlar yaygın olsa da, sıkıştırılmamış video formatları, sesin televizyon veya hareketli görüntü prodüksiyonlarında dijital olarak kaydedilen ham veri türleridir. AVI, video ve ses verilerinin ham halini (ya da çok az sıkıştırılmış halini) barındırabilen bir formattır ve prodüksiyon ortamlarında sıkça tercih edilir. Bu bağ...
+
+Soru 33 - Aşağıdakilerden hangisi CMYK renk uzayının ana renklerinden biri değildir?
+A - Black
+B - Blue
+C - Cyan
+D - Magenta
+E - Yellow
+Doğru Cevap B
+Aciklama Ünite 7'de, baskı alanında kullanılan CMYK renk uzayının Cyan (Cam göbeği), Magenta (Eflatun), Yellow (Sarı) ve Key (Siyah) renklerinden oluştuğu belirtilmiştir. RGB (Red, Green, Blue) toplamsal ana renklerdendir. Bu nedenle, RGB renk uzayının ana renklerinden biri olan Kırmızı (Red), CMYK renk uzayının ana renklerinden biri değildir.
+
+Soru 34 - Hareketli görüntü dosya türlerinin pek çoğunu dönüştürmeye gerek duymadan gerçek zamanlı olarak işleyebilmesiyle öne çıkan ve ağırlıklı olarak televizyon ve habercilik alanında kullanılan yazılım aşağıdakilerden hangisidir?
+A - Final Cut Pro
+B - Lightroom
+C - Edius Pro
+D - Photoshop
+E - Camera Raw Lab
+Doğru Cevap C
+Aciklama Hareketli görüntü işleme yazılımları, dijital video dosyalarını (sıkıştırılmış veya sıkıştırılmamış) işlemek için kullanılır. Adobe Premiere Pro, Avid Media Composer, Sony Vegas Pro, Final Cut Pro gibi profesyonel yazılımlar, özellikle televizyon ve habercilik alanlarında, verimli ve hızlı kurgu/işleme yetenekleriyle öne çıkar.
+
+Soru 35 - Görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen sayısal görüntü formatı aşağıdakilerden hangisidir?
+A - Raster
+B - Bitmap
+C - Mpeg
+D - Vektörel
+E - Hücresel
+Doğru Cevap D
+Aciklama Matematiksel denklemlerle oluşturulan ve çözünürlüğü bağımsız olan formatlar Vektörel formatlardır. Vektörel formatlar büyütüldüklerinde pikselleşme göstermez ve ayrıntılarını kaybetmez. (Not: Metinde Raster (Bitmap) ve Vektörel olarak iki temel ayrım belirtilmiştir. Sorudaki tanıma en uygun olan vektörel formattır).
+
+Soru 36 - İnternet ortamına yüklenecek görüntülere ilişkin olarak "Jpeg" formatı ile kıyaslandığında %40 oranında daha fazla sıkıştırma oranına sahip dosya türü aşağıdakilerden hangisidir?
+A - Png
+B - WebP
+C - Tiff
+D - Gif
+E - Psd
+Doğru Cevap B
+Aciklama JPEG formatı kayıplı sıkıştırma yöntemini kullanır. Kayıpsız sıkıştırmayı kullanan ve JPEG'e göre daha yüksek sıkıştırma oranına sahip olan formatlar arasında metinde PNG ve GIF gibi formatlar (kayıpsız sıkıştırma kategorisinde) bahsedilmiştir. PNG, genelde JPEG'e göre daha iyi sıkıştırma oranı sunar ve kayıpsızdır.
+
+Soru 37 - Aşağıdaki uygulamalardan hangisi videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar?
+A - TouchRetouch
+B - FaceApp
+C - Switcher
+D - Adobe Photoshop Camera
+E - Prisma
+Doğru Cevap C
+Aciklama Video düzenleme, kayıtlı dijital video dosyaları üzerinde işlem yapmayı içerir. Adobe Premiere Pro, Avid Media Composer gibi profesyonel yazılımlar, birden fazla cihazda çekilmiş materyali düzenleme ve farklı platformlara (TV, internet vb.) uygun formatlarda yayınlama (export) imkanı sunar.
+
+Soru 38 - Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
+A - Görüntü Ayarları (Display settings)
+B - Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)
+C - Telif Hakkı Girişi (Copyright)
+D - İzlemeyi Kontrol Etme (Controlling Playback)
+E - Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
+Doğru Cevap B
+Aciklama Soruda bahsedilen özellikler; dosya adlandırma (File and folder structure/Filenaming and Numbering) ve özel numaralandırma/sıfırlama (otomatik sayı kontrolü) ayarlarını kapsar. Bu tür ayarlar, genellikle 'Görüntü Ayarları (Display Settings)' veya daha spesifik olarak 'Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and Numbering)' menüsü altında bulunur. Ancak, seçenekler arasında en kapsayıcı olanı 'Görüntü Ayarları (Display Settings)' başlığı altında listelenen diğer ayarlar da dahil edilmişt...
+
+Soru 39 - Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
+A - Siyah
+B - Mavi
+C - Eflatun
+D - Cam göbeği
+E - Sarı
+Doğru Cevap B
+Aciklama Ünite 7'de Renk Yönetimi başlığı altında, RGB renk uzayının ana renklerinin Kırmızı (Red), Yeşil (Green) ve Mavi (Blue) olduğu belirtilmiştir. Bu seçenekler arasında Kırmızı (Red) bulunmaktadır.
+
+Soru 40 - Görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan dosya formatı aşağıdakilerden hangisidir?
+A - RAW
+B - PSD
+C - TIFF
+D - PNG
+E - JPEG
+Doğru Cevap D
+Aciklama Ünite 7'de, görüntü formatları anlatılmıştır. TIFF (Tagged Image File Format), kayıpsız sıkıştırma sunar ve görüntünün gerçek renk ve saydamlık bilgilerini tutarak kalite kaybı olmaksızın saklar. RAW, PSD de kayıpsızdır ancak TIFF, genellikle kayıpsız sıkıştırma için en yaygın kullanılan formatlardan biridir ve bu tanıma tam uyar. (PNG de kayıpsızdır ancak genellikle daha çok web için kullanılır, TIFF ise baskı/profesyonel iş akışlarında). Verilen şıklarda TIFF, RAW'dan sonra en iyi kayıpsız seç...
+
+Soru 41 - Sayısal tabanlı doğrusal olmayan görüntü işlemeye ettiği öncülükten dolayı 2017 yılında EMMY ödülüne layık görülen hareketli görüntü işleme ve düzenleme yazılımı aşağıdakilerden hangisidir?
+A - Lightworks
+B - Shotcut
+C - VSDC Free Video Editör
+D - OpenShot
+E - Vegas Pro
+Doğru Cevap A
+Aciklama Ünite 7'de Hareketli Görüntü İşleme Yazılımları anlatılmıştır. Lightworks, 2017 yılında EMMY ödülüne layık görülmüştür ve doğrusal olmayan (non-linear) görüntü işleme konusunda öncüdür. Bu yazılım, özellikle post-prodüksiyon ve video düzenleme alanında kullanılır.
+
+Soru 42 - Aşağıdaki uygulamalardan hangisi fotoğraflarınızın tablo gibi görünmesini sağlar?
+A - Prisma
+B - Trash
+C - FaceApp
+D - TouchRetouch
+E - Polaroid Lab
+Doğru Cevap A
+Aciklama Verilen seçeneklerde, Prisma uygulaması, fotoğrafları sanat eserleri gibi, tablo veya ressam tarzında görünmesini sağlamak için filtreler uygulayan bir mobil uygulamadır. Metinde (Ünite 7'de) Prisma'dan doğrudan bahsedilmese de, görüntü işleme yazılımları (dijital araçlar) yaratıcı işlemler yapmaya olanak tanır. Verilen seçenekler arasında, tablo/sanat eseri görünümü sağlayan uygulama Prisma'dır.
+
+Soru 43 - Eskişehir'de çekime başladığınız gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
+A - Telif Hakkı Girişi (Copyright)
+B - Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)
+C - Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
+D - İzlemeyi Kontrol Etme (Controlling Playback)
+E - Görüntü Ayarları (Display settings)
+Doğru Cevap B
+Aciklama Çekim Seçeneklerini Ayarlama (Setting Shooting Options) menüsü altında, dosya numaralandırması, dosya yapısı, RAW formatında kaydetme gibi birçok ayar bulunmaktadır. Özellikle "File and folder structure" seçeneği, dosya numaraları yerine tarih sıralandırması (veya başka bir sıralama) yapma olanağı sunar. (Ünite 7, Çekim Seçeneklerini Ayarlama (Setting Shooting Options) başlığı altındaki maddeler)
+
+Soru 44 - -------, Adobe firmasının çıkardığı Photoshop programına rakip olarak ilk defa Jasc yazılım şirketi tarafından piyasaya sürülmüş bir sayısal görüntü düzenleme yazılımıdır.
+A - GIMP
+B - Camera RAW
+C - Adobe Photoshop Lightroom
+D - Paint Shop Pro
+E - Darktable
+Doğru Cevap D
+Aciklama Adobe Photoshop programına rakip olarak ilk defa Jasc yazılım şirketi tarafından piyasaya sürülen sayısal görüntü düzenleme yazılımı GIMP'tir. Ünite 7'de GIMP, Adobe Photoshop ile birlikte sayısal görüntü düzenleme yazılımları arasında listelenmiştir.
+
+Soru 45 - Görüntü işleme ve tasarım yazılımları tarafından matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen sayısal görüntü formatı aşağıdakilerden hangisidir?
+A - Raster
+B - Bitmap
+C - Vektörel
+D - Mpeg
+E - Hücresel
+Doğru Cevap C
+Aciklama Matematiksel denklemler aracılığıyla sayısal olarak oluşturulan ve çözünürlükleri bağımsız olduğu için büyütüldüklerinde ayrıntılarını kaybetmeyen (yani vektörel) görüntü formatları, raster (bitmap) formatlarının aksine, sabit piksel içermez. Ancak metinde vektörel formatlar çözünürlükleri bağımsız olarak belirtilmiş olsa da, en çok tercih edilen formatlar arasında JPEG, GIF, PNG gibi raster formatlar listelenmiştir. Raster formatların çözünürlüğe bağlı olduğu (sabit piksel içerdiği) belirtilirk...
+
+Soru 46 - Aşağıdakilerden hangisi Linux sistemler için açık kaynak kodlu bir hareketli görüntü düzenleme yazılımıdır?
+A - Edius Pro
+B - Avid Media Composer
+C - Vegas Pro
+D - Final Cut Pro
+E - OpenShot
+Doğru Cevap E
+Aciklama Linux işletim sistemleri için ücretsiz olarak kullanılabilen hareketli görüntü düzenleme yazılımları arasında Openshot, VSDC Free Video Editor, Lightworks ve Shotcut sayılmaktadır. Ünite 7'de bu yazılımların profesyonel olmayanlar için ücretsiz olduğu belirtilmiştir. Shotcut, Linux için de kullanılabilen bir seçenektir.
+
+Soru 47 - Videoları düzenlemeyi ve birden fazla cihaza yayın yapmayı sağlayan uygulama aşağıdakilerden hangisidir?
+A - Polaroid Lab
+B - Switcher
+C - Trash
+D - FaceApp
+E - FilmoraGo
+Doğru Cevap B
+Aciklama Sayısal görüntü/video işleme yazılımları, dijital olarak elde edilen görüntülerin işlenmesi, düzenlenmesi ve çoğu zaman bu çıktıların farklı platformlara veya cihazlara aktarılmasını sağlar. Adobe Premiere Pro, Avid Media Composer gibi profesyonel yazılımlar video düzenleme ve yayınlama (birden fazla cihaza yayın) işlevlerini kapsar. Ünite 7'de Premiere Pro'nun bu amaçlarla kullanıldığı belirtilmiştir.
+
+Soru 48 - Ofis ve ticari binalarda iç mekânlarda fotoğraf çekerken kullanılması önerilen beyaz dengesi modu aşağıdakilerden hangisidir?
+A - Fluorescent/Floresan
+B - Cloudy/Bulutlu
+C - Daylight/Gün ışığı
+D - Flash/Flaş
+E - Incandescent/Akkor Lamba
+Doğru Cevap A
+Aciklama Ünite 7'de renk uzayları anlatılırken, RGB'nin (Red, Green, Blue) bilgisayar ve ekranlar için, CMYK'nın (Cyan, Magenta, Yellow, Key/Siyah) ise baskı makineleri ve yazıcılar için kullanıldığı belirtilmiştir. Ofis ve ticari binalarda iç mekân fotoğrafçılığı genellikle baskıya yönelik (kurumsal tanıtım, vesikalık vb.) veya ekran önünde (web, sunum) gösterilmek üzere yapılır. Eğer bu görüntüler bir çıktıya alınacaksa CMYK, ekranda gösterilecekse RGB (sRGB) kullanılır. Metinde, "Fotoğraf dosyası, bir...
+
+Soru 49 - Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?
+A - TIFF
+B - RAW
+C - GIF
+D - PNG
+E - JPEG
+Doğru Cevap B
+Aciklama Ünite 7'de 'Camera Raw Yazılımları' başlığı altında, RAW formatının, fotoğraf makinesinin sensöründen alınan, işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerini içerdiği belirtilmektedir. Bu, dijital fotoğrafçılıkta yüksek kaliteli ham veri depolama formatıdır.
+
+Soru 50 - Aşağıdaki formatlardan hangisi vektörel bir dosya formatıdır?
+A - JPEG
+B - GIF
+C - PNG
+D - TIFF
+E - SVG
+Doğru Cevap E
+Aciklama Ünite 7'de Sayısal Görüntü Formatları başlığı altında, temel formatların Raster (Bitmap) ve Vektörel olarak ayrıldığı belirtilmiştir. Raster grafiklere örnek olarak JPEG, GIF, PNG, TIFF verilirken, vektörel formatlar bu başlık altında ayrı bir kategori olarak bahsedilmektedir (metinde spesifik bir vektörel uzantı adı verilmemiştir, ancak metin format türlerini sınıflandırmaktadır. Vektörel formatlar, sabit piksel içermeyen formatlardır).
+
+Soru 51 - ------- video formatı, Uluslararası Standartlar Organizasyonu (ISO) tarafından geliştirilen bir sıkıştırma formatıdır. Web uygulamalarından TV yayıncılığına, uygulamalar, mobil cihazlar ve video akışında dünya çapında çok geniş yelpazede kullanılır. Yukar1daki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - MPEG
+B - MP4
+C - RAW
+D - MP3
+E - AVI
+Doğru Cevap B
+Aciklama Ünite 7'de video formatları anlatılmıştır. MPEG (Moving Picture Experts Group) formatı, Uluslararası Standartlar Organizasyonu (ISO) tarafından geliştirilen bir sıkıştırma formatıdır ve video akışı, mobil cihazlar, TV yayıncılığı gibi geniş bir yelpazede kullanılır.
+
+Soru 52 - Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir?
+A - Görüntü
+B - Görüntü kurgu çeşitleri
+C - Görüntü oluşturma yöntemleri
+D - Görüntü işleme teknikleri
+E - Görsel iletişim kuramları
+Doğru Cevap D
+Aciklama Ünite 7'de Görüntü İşleme tekniklerinin tanımı verilmiştir: "Görüntü işleme teknikleri temelde mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemlerdir... Dijital görüntü işleme, bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek için kullanılır."
+
+Soru 53 - Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?
+A - RAW
+B - TIFF
+C - GIF
+D - PNG
+E - JPEG
+Doğru Cevap A
+Aciklama Ünite 7'de, 'Camera Raw Yazılımları' başlığı altında, 'Camera Raw dosyası fotoğraf negatifi olarak düşünülebilir. Bu dosyada sayısal fotoğraf makinesinin sensöründen alınan işlenmemiş, sıkıştırılmamış, gri tonlamalı görüntü verileri bulunur' bilgisi yer almaktadır. RAW formatı (RAW dosya uzantısı), fotoğrafın ham veri hâlini temsil eder.
+
+Soru 54 - Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
+A - Siyah
+B - Mavi
+C - Eflatun
+D - Cam göbeği
+E - Sarı
+Doğru Cevap B
+Aciklama Ünite 7'de, 'Renk Uzayı (ing. Color Space)' başlığı altında, 'Yaygın olarak RGB (ing. Red, Green, Blue) olarak bilinen kırmızı, yeşil ve mavi bu yeni renk grubunun ana renkleridir' bilgisi verilmektedir. Dolayısıyla RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dir.
+
+Soru 55 - Aşağıdakilerden hangisi, sayısal fotoğrafın üretim aşamasında kullanılan makine ve cihazların renk profillerinin bilgisayar monitörü ve baskı cihazlarına doğru bir biçimde aktarılarak uyumlandırılmasını sağlar?
+A - Kod çözümleme
+B - Pozlama
+C - Renk yönetimi
+D - 1şık ölçümü
+E - Beyaz ayarı
+Doğru Cevap C
+Aciklama Ünite 7'de, 'Sayısal Fotoğrafta Renk Yönetimi' başlığında, 'Fotoğraf makineleri, kameralar, bilgisayar ekranları görüntüyü RGB renk uzayıyla oluştururken, baskı makineleri ve yazıcılar CMYK renk uzayıyla oluştururlar' denilmektedir. Ayrıca, 'Fotoğraf dosyasını işleyerek bir yazıcı ya da baskı cihazına göndermek istiyorsa yapılacak işlem o makinenin ve dolayısıyla o makine tarafından oluşturulmuş dosyanın renk uzayını bilgisayarındaki basılabilir CMYK renklere dönüştürmektir' bilgisi verilmiştir....
+
+Soru 56 - Sayısal fotoğraf makinelerinin sensöründen alınan işlenmemiş, sıkıştırılmamış ve gri tonlamalı görüntü verilerinin bulunduğu dosya türü aşağıdakilerden hangisidir?
+A - RAW
+B - TIFF
+C - GIF
+D - PNG
+E - JPEG
+Doğru Cevap A
+Aciklama Sayısal fotoğraf makineleri tarafından üretilen ve sensörden alınan işlenmemiş, sıkıştırılmamış, gri tonlamalı görüntü verilerini içeren dosya türü RAW formatıdır. Ünite 7'de, 'RAW'ın Hareketsiz sayısal görüntü formatları olarak ifade edilen bu dosyalama yapısı...' şeklinde belirtilmiştir.
+
+Soru 57 - Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?
+A - Piktokram
+B - Layer
+C - Vektörel
+D - Piksel
+E - Proxy
+Doğru Cevap D
+Aciklama Görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları PİKSEL olarak tanımlanmaktadır. Ünite 7'de, 'Piksel (ing.picture element) görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan ve sayısal değeri (pixel/inch-pixel/cm) renk derinliği ve geçişlerindeki homojenliğini etkileyerek görüntü kalitesini çözünürlüğü oluşturması açısından doğrudan etkileyen sayısal veri noktalarıdır' şeklinde açıklanmıştır.
+
+Soru 58 - Mevcut görsellerin analizi ile çeşitli bilgiler edinmeye yarayan sistemler aşağıdakilerden hangisidir?
+A - Görsel iletişim kuramları
+B - Görüntü kurgu çeşitleri
+C - Görüntü oluşturma yöntemleri
+D - Görüntü işleme teknikleri
+E - Görüntü
+Doğru Cevap D
+Aciklama Ünite 7'de Görüntü İşleme teknikleri (Dijital Görüntü İşleme), bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek ve analiz etmek olarak tanımlanmıştır: "Dijital görüntü işleme, bilgisayar algoritmaları yardımıyla dijital görüntüleri işlemek için kullanılır."
+
+Soru 59 - Aşağıdakilerden hangisi fotoğrafçılıkta ve matbaacılıkta, ekranlardaki görüntü ile basılı çıktıdaki rengi ölçmek ve karşılaştırmak için kullanılan cihazlardan biridir?
+A - Spektrofotometre
+B - Dinamometre
+C - Flaşmetre
+D - Tansiyometre
+E - Anemometre
+Doğru Cevap A
+Aciklama Fotoğrafçılıkta ve matbaacılıkta renk yönetimi, cihazlar arasındaki renk uzaylarının eşleştirilmesini gerektirir. CMYK renk uzayı baskı ile alakalıdır ve DPI (dots per inch) bu alanda kullanılan bir ölçü birimidir. PPI (pixels per inch) ise dijital ekranlarla alakalıdır. Monitör kalibrasyonu için kullanılan cihazlar renk ölçer veya renk metre olarak adlandırılır ve bunlar hem ekran hem de baskı çıktılarını karşılaştırmak için kullanılır. (Ünite 7, Sayısal Fotoğrafta Renk Yönetimi ve Monitörünüzü...
+
+Soru 60 - görüntülerin gerçek renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırılmasına imkân sunan bir dosya formatıdır.
+A - RAW
+B - PNG
+C - GIF
+D - JPEG
+E - TIFF
+Doğru Cevap B
+Aciklama Ünite 7'de, PNG formatı, "kayıpsız sıkıştırma sunar ve şeffaflık desteği olan bir raster formattır." TIFF ve RAW da kayıpsız/ham veri tutarken, PNG de renk ve saydamlık bilgilerini tutarak kayıpsız sıkıştırma imkanı sunan bir formattır (JPEG'in aksine).
+
+Soru 61 - Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?
+A - Piksel
+B - Vektörel
+C - Layer
+D - Proxy
+E - Piktogram
+Doğru Cevap A
+Aciklama Piksel (ing. picture element), görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır. Ünite 7'de Piksel başlığı altında bu tanım verilmiştir.
+
+Soru 62 - Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
+A - Cam göbeği
+B - Eflatun
+C - Siyah
+D - Mavi
+E - Sarı
+Doğru Cevap D
+Aciklama RGB renk uzayının ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi'dir (Blue). Ünite 7'de Renk Uzayı başlığı altında, yaygın olarak RGB'nin Kırmızı, Yeşil ve Mavi ana renklerinden oluştuğu belirtilmiştir.
+
+Soru 63 - Aşağıdakilerden hangisi RGB renk uzayının ana renklerinden biridir?
+A - Siyah
+B - Mavi
+C - Eflatun
+D - Cam göbeği
+E - Sarı
+Doğru Cevap B
+Aciklama RGB (Red, Green, Blue) renk uzayı, bilgisayar, televizyon ve dijital kameralar gibi elektronik sistemlerde kullanılan toplamsal ana renk sistemidir. Bu sistemin ana renkleri Kırmızı (Red), Yeşil (Green) ve Mavi (Blue)'dir. CMYK ise baskı teknolojilerinde kullanılan çıkarımsal renk uzayının ana renkleridir.
+
+Soru 64 - Hareketli Resim Uzmanları Grubu tarafından çıkarılan video kodlama standardı aşağıdakilerden hangisidir?
+A - AVI
+B - MP4
+C - RAW
+D - MPEG-1
+E - MP3
+Doğru Cevap D
+Aciklama MPEG (Moving Picture Experts Group), Hareketli Resim Uzmanları Grubu tarafından çıkarılan ve dijital video sıkıştırmada kullanılan bir standarttır. H.261 standardı da geliştirilmiş olsa da MPEG, genel olarak video formatlarının (MPEG, AVI, MP4) yaygın kullanımından bahsederken kodlama standardının temelini oluşturur.
+
+Soru 65 - Aşağıdakilerden hangisi görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan sayısal veri noktaları olarak tanımlanmaktadır?
+A - Proxy
+B - Piktokram
+C - Piksel
+D - Vektörel
+E - Layer
+Doğru Cevap C
+Aciklama Piksel (ing. picture element), görüntülerin sayısal olarak oluşturulmasında renk ve parlaklık gibi bilgileri taşıyan ve sayısal değeri (pixel/inch-pixel/cm) renk derinliği ve geçişlerindeki homojenliğini etkileyerek görüntü kalitesini çözünürlüğü oluşturması açısından doğrudan etkileyen sayısal veri noktalarıdır.
+
+Unite 8
+Soru 66 - Aşağıdakilerden hangisi akıllı telefonların Yöndeşme (Covergence) becerisinin tanımıdır?
+A - Tüm dijital medyanın tek bir ortamda içe içe geçmesi
+B - Amatör fotoğrafçıların küçük bas-çek fotoğraf makinelerini kullanma imkanına kavuşması
+C - Çekilen düşük çözünürlüklü fotoğrafların sosyal medyada paylaşılması
+D - Fotoğraf kameralarının cep telefonlarında olması gereken bir özellik olarak algılanması
+E - Fotoğraf estetiğinin sosyal ağlarda kullanıcı içerikleri gibi farklı bağlamlarda dönüşüme neden olması
+Doğru Cevap A
+Aciklama AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞ1 VE TARİHSEL GELİŞ1̇M En basit tanımıyla telefon, radyo, televiz- yon ve bilgisayar dünyalarının entegras- yonu, tüm dijital medyanın tek bir or- tamda içe içe geçmesine yöndeşme denir. Tüm dijital medyanın tek bir ortamda içe içe geçmesi
+
+Soru 67 - Akıllı telefonla kalitesi yüksek fotoğraf çekerken yapılması edilmesi gereken ilk şey aşağıdakilerden hangisidir?
+A - Doğru akıllı telefon tercih etmek
+B - Doğru menüyü seçmek
+C - En yüksek çözünürlük değerini ayarlamak
+D - RAW formatında çekim yapmak
+E - Foğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak
+Doğru Cevap C
+Aciklama Akıllı Telefonların Fotoğraflama Yetenekler Akıllı telefonla fotoğraf çekmek için ilk adım çekilmek istenen fotoğrafa uygun menüyü ayarlamaktır. Akıllı telefonların oldukça basit bir menüsü olsa da DSLR’lerdeki veya aynasız kameralardaki standart menülerden çok da farklı değildir. Bu menüler, daha iyi fotoğraflar çekmek ve hataları önlemeye yardımcı olmaktadır. Ayarlar menünüzde kontrol etmek istediğiniz ilk şey çözünürlüktür. Mevcut akıllı telefonun mümkün olan en ...
+
+Soru 68 - Aşağıdakilerden hangisi ProCam 5 (iOS) teknolojisinin sunduğu ayırt edici görüntüleme kolaylıklarından biri değildir?
+A - Video kaydı yeteneği
+B - Akıllı HDR
+C - Kayıpsız TIFF ile RAW
+D - Otomatik renk dengeleme
+E - Beyaz dengesi
+Doğru Cevap D
+Aciklama Camera FV-5 (Android) Uygulama ile Android işletim sistemine sa- hip cihazınızın kamera kalitesini ve ayar özelliklerini DSLR bir makinenin sunduğu özelliklere en yakın şekilde yükseltebiliyorsunuz. DSLR benzeri vizör özelliğine sahip kamera ile manuel kontrol sağlayan program sayesinde uzun pozlama yapabiliyorsunuz. Tüm parametreleri ayarlama imkanı sunan program sayesinde diyafram değerlerini ayarlayabilme; RAW, JPEG ve PNG formatında kayıt yapabilme ayrıca otomatik odaklama, makro...
+
+Soru 69 - Aşağıdakilerden hangisi akıllı telefonla çekilen fotoğraflarda bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlayan yazılımdır?
+A - Polaroid Lab
+B - Switcher
+C - Adobe Photoshop Camera uygulaması
+D - FilmoraGo
+E - Prisma
+Doğru Cevap C
+Aciklama Akıllı Telefon Fotoğraf 1̇şleme Yazılımlar Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlar- dan bazılarına aşağıda yer verilmiştir: Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfie- lerinizi (özçekimlerinizi) düzenlemeni- zi sağlar. Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar. TouchReto...
+
+Soru 70 - Aşağıdakilerden hangisi videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlayan yazılımdır?
+A - Switcher
+B - FaceApp
+C - FilmoraGo
+D - TouchRetouch Iphone
+E - Trash
+Doğru Cevap A
+Aciklama Akıllı Telefon Fotoğraf 1̇şleme Yazılımları Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlardan bazılarına aşağıda yer verilmiştir: Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar. Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar. TouchRetouch I...
+
+Soru 71 - Aşağıdakilerden hangisi akıllı telefonların, geleneksel fotoğraf kullanım alanlarına getirdiği yeniliklerden biri değildir?
+A - Selfie (özçekim)
+B - Instagram fotoğrafçılığı
+C - Sosyal medya fotoğrafçılığı
+D - Cep telefonu fotoğrafçılığı
+E - Moda fotoğrafçılığı
+Doğru Cevap E
+Aciklama ÇEVRİM 1̇Ç1̇ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM Mitchell (1992), fotoğrafın 1989’daki 150. yıl dönümünde fotoğrafçılığın öldüğünü ve dijital çağın genel olarak fotoğrafçılık için yeni bir paradigma değişikliğine işaret ettiğini belirtir. 16 yıl sonra benzeri görülmemiş bir şekilde, web ve mobil kameralı telefonlar fotoğrafçılığı bir kez daha yeniden tanımlar ve başka bir paradigma değişikliğine işaret eder. Fotografik göru...
+
+Soru 72 - Aşağıdakilerden hangisi dijital fotoğraf çekiminde nesnenin boyutu ne ise sensöre 1:1 oranında ve nesne ile aynı boyutta yansıtılabidiği uygulamadır?
+A - Masa Üstü (Sitll Life) Fotoğrafçılık
+B - Yakın Plan (Makro) Fotoğrafçılık
+C - Yemek Fotoğrafçılığı
+D - Sokak Fotoğrafçılığı
+E - Gezi Fotoğrafçılığı
+Doğru Cevap B
+Aciklama GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR Yakın Plan (Makro) Fotoğrafçılık Makro fotoğrafçılık, fotoğrafı çekilecek olan nesnenin çok yakından fotoğraflanmasıdır. Küçük bir nes- neyi büyüterek çekmek olarak da tanımlanabilir ama “fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemidir” şeklindeki tanım teknik olarak en doğrusu olacaktır.
+
+Soru 73 - Aşağıdakilerden hangisi, fotoğrafçının olaylara müdahale etmeyerek nesnel gerçekliği bozmadığı, "doğrudan fotoğraf" olarak da tanımlanan dijital fotoğrafçılık yöntemidir?
+A - Yakın Plan (Makro) Fotoğrafçılık
+B - Masa Üstü (Sitll Life) Fotoğrafçılık
+C - Kopyalama (Reprodüksiyon)
+D - Sokak Fotoğrafçılığı
+E - Gezi Fotoğrafçılığı
+Doğru Cevap D
+Aciklama GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR Sokak Fotoğrafçılığı Sokak fotoğrafçılığı kamusal alanda kameranın varlığını çok hissettirmeden belgesel veya sanatsal amaçlı olarak yapılan, tesadüfi karşılaşmaların olduğu, kent ve kentli olmak ile ilgili durumların betimlendiği bir janrdır. Sokak fotoğrafçılığı “doğrudan fotoğraf” yöntemi olarak tarif edilebilir. Fotoğrafçı olaylara müdahale etmez, nesnel gerçekliği bozmaz.
+
+Soru 74 - Aşağıdakilerden hangisi sayısal fotoğrafın, sanat eserlerinin çoğaltılmasında faydalanılan bir tekniktir?
+A - Kopyalama (Reprodüksiyon)
+B - Reklam ve Tanıtım Fotoğrafçılığı
+C - Manzara ve Doğa Fotoğrafçılığı
+D - Endüstriyel Fotoğraf
+E - Belgesel Fotoğrafçılık
+Doğru Cevap A
+Aciklama GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI Kopyalama (Reprodüksiyon) Reprodüksiyon işlemi, günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, farklı maddeler ve malzemeler üzerine baskısı yapılarak ticari ürün olarak kullanılmasında, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.
+
+Soru 75 - Aşağıdakilerden hangisi hava fotoğrafçılığı türlerinden biri değildir?
+A - Eğik
+B - Dikey
+C - Kombine
+D - Ortofoto
+E - 360 derece
+Doğru Cevap E
+Aciklama GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI Hava Fotoğrafçılığı Dört çeşit hava fotoğrafçılığı vardır. Eğik: Eğik, açılı olarak çekilen hava fotoğraflarıdır. Dikey: Dikey fotoğraflar, yukarıdan aşağıya doğru dik çekilir ve çoğunlukla fotogrametri ve görüntü yorumlamada kullanılır. Kombine: Birden fazla tekniğin birleşiminden oluşan hava fotoğraflardır. Panoramalar (bir noktadan farklı açılarda çekilmiş fotoğrafların yan yana birleştirilmesind...
+
+Soru 76 - Aşağıdakilerden hangisi dijital fotoğrafçılığın avantajlarından biri değildir?
+A - Çekimin düşük maliyetli olması
+B - Binlerce fotoğraf arasından doğru kareyi bulmak
+C - Yazılımlarla hızlı ve çarpıcı sonuçlar elde edilmesi
+D - Yüksek kaliteli fotoğraf çekilebilmesi
+E - Teknik olarak fotoğraf çekimini kolaylaştırması
+Doğru Cevap B
+Aciklama Giriş Binlerce fotoğraf arasından doğru kareyi bulmak
+
+Soru 77 - Mayıs 1999'da Ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?
+A - Sharp J-SH04
+B - Samsung SCH-V200
+C - Kyocera VP-210
+D - Sanyo SCP-5300
+E - Canon 10D
+Doğru Cevap C
+Aciklama AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞ1 VE TARİHSEL GELİŞİMİ Kyocera VP-210
+
+Soru 78 - "Telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ............. denir." Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
+A - Dijital
+B - DSLR
+C - Android
+D - Yöndeşme
+E - Reprodüksiyon
+Doğru Cevap D
+Aciklama AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞ1 VE TARİHSEL GELİŞİMİ En basit tanımıyla telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine yöndeşme denir.
+
+Soru 79 - 1- Fotoğrafa uygun menüyü ayarlama 2- Akıllı telefon seçimi 3- Mümkünse raw formatında çekim yapmak 4- Çözünürlüğü yüksek değere ayarlama Akıllı telefonla fotoğraf çekebilmek için aşağıdaki hangi sıralama uygulanmalıdır?
+A - 4-3-2-1
+B - 1-2-3-4
+C - 2-1-4-3
+D - 1-2-4-3
+E - 2-4-3-1
+Doğru Cevap C
+Aciklama Akıllı Telefonların Fotoğraflama Yetenekleri Akıllı telefonla fotoğraf çekebilmek için şu adımlar izlenmelidir: 2- Akıllı telefon seçimi 1- Fotoğrafa uygun menüyü ayarlama 4- Çözünürlüğü yüksek değere ayarlama 3- Mümkünse raw formatında çekim yapmak
+
+Soru 80 - "................. çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir." Aşağıdakilerden hangisi yukarıdaki cümleyi doğru tamamlar?
+A - RAW formatında
+B - Çift lensle
+C - Akıllı telefon ile
+D - En yüksek çözünürlükte
+E - JPG formatında
+Doğru Cevap D
+Aciklama Akıllı Telefonların Fotoğraflama Yetenekleri En yüksek çözünürlükte çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir.
+
+Soru 81 - "Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin ................. ifade eder." Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
+A - Piksel değerini
+B - Görüntü işleme sistemini
+C - Çözünürlüğünü
+D - Dosya boyutunu
+E - Enstantane değerini
+Doğru Cevap A
+Aciklama AKILLI TELEFON FOTOĞRAFÇILIĞINDA YAPAY ZEKÂ GÖRÜNTÜ İŞLEME VE YAPAY ZEKÂNIN FOTOĞRAFLAMADA KULLANIMI "Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin piksel değerini ifade eder."
+
+Soru 82 - Fotoğraf ve video geliştirme uygulamaları ile ilgili olarak aşağıdaki hangi eşleştirme doğru değildir?
+A - Prisma, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.
+B - Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıda yazdırmanıza olanak tanır.
+C - TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.
+D - Trash uygulaması, videonuzu kesintisiz içeriğe dönüştürür.
+E - FilmoraGo, videolarınız YouTube ve Instagram’a yüklemek için düzenlemenize yardımcı olur.
+Doğru Cevap A
+Aciklama Akıllı Telefon Fotoğraf İşleme Yazılımları Switcher, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.
+
+Soru 83 - "............. kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar." Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
+A - Prisma
+B - FaceApp
+C - Polaroid Lab
+D - FilmoraGo
+E - Trash
+Doğru Cevap B
+Aciklama Akıllı Telefon Fotoğraf İşleme Yazılımları FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.
+
+Soru 84 - ".............., kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir." Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
+A - Selfie
+B - Facebook
+C - Pinterest
+D - Instagram
+E - Flickr
+Doğru Cevap C
+Aciklama ÇEVRİM İÇİ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM) Pinterest, kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir.
+
+Soru 85 - Fotoğrafın icadından önceki dönemde ressamların çizdiği cansız varlıklar veya çiçekler, meyveler gibi nesneler için tanımlanan Fransızca “ölü doğa” anlamına gelen 'natürmort'un yerini dijital fotoğrafçılıkta aşağıdakilerden hangisi almıştır?
+A - Belgesel fotoğrafçılık
+B - Sokak fotoğrafçılığı
+C - Kopyalama
+D - Makro fotoğraf
+E - Still life
+Doğru Cevap E
+Aciklama Masa Üstü (Sitll Life) Fotoğrafçılık Still life
+
+Soru 86 - Aşağıdakilerden hangisi dijital fotoğrafçılığın dezavantajlarından biridir?
+A - Çekimin yüksek maliyetli olması
+B - Günlük çekim sayısı sınırlaması
+C - Çekim sonrası düzenleme imkânı vermemesi
+D - Çok sayıda kareden doğru fotoğrafı seçebilmek
+E - Kullanımının analog makinelerden zor olması
+Doğru Cevap D
+Aciklama Çok sayıda kareden doğru fotoğrafı seçebilmek dijital fotoğrafçılığın dezavantajlarından biridir.
+
+Soru 87 - Yerleşik kameralı ilk cep telefonu aşağıdakilerden hangisidir?
+A - Iphone 1
+B - Samsung SCH-V200
+C - Sharp J-SH04
+D - Kyocera VP-210
+E - Sanyo SCP-5300
+Doğru Cevap D
+Aciklama Kyocera VP-210 yerleşik kameralı ilk cep telefonudur.
+
+Soru 88 - Kameralı cep telefonuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+A - ABD’de ilk kameralı cep telefonu Güney Kore’den iki yıl sonra piyasaya sürülmüştür.
+B - İlk çıkan kameralı cep telefonlarında fotoğrafları paylaşmak için telefonu bir PC’ye bağlamak zorunluydu.
+C - Samsung ilk kameralı cep telefonunu 2002 yılında piyasaya sürmüştür.
+D - 2006 yılında kameralı telefonlar hem dijital hem de film kamera satışlarını geride bırakmıştır.
+E - Android ve iOS günümüzde dünya akıllı telefon pazarına liderlik etmektedir.
+Doğru Cevap C
+Aciklama Samsung SCH-V200 telefonunu Haziran 2000’de Güney Kore’de piyasaya sürmüştür.
+
+Soru 89 - Aşağıdakilerden hangisi dijital görüntülerin ana bileşenlerinden biri değildir?
+A - Lens
+B - Sensör
+C - Mercek
+D - Görüntü işlemcisi
+E - Harici filtre
+Doğru Cevap E
+Aciklama Harici filtre dijital görüntülerin ana bileşenlerinden biri değildir.
+
+Soru 90 - Aşağıdakilerden hangisi akıllı cep telefonlarının özelliklerinden biridir?
+A - RAW formatında çekim yapabilmeleri
+B - Sadece manuel yakınlaştırma yapabilmeleri
+C - Mercek fotonları dijital sinyallere dönüştüren bir alan olması
+D - Dijital yakınlaştırmanın gürültüye neden olmaması
+E - Sensörlerinin büyük olması
+Doğru Cevap A
+Aciklama RAW formatında çekim yapabilmeleri akıllı cep telefonlarının özelliklerinden biridir.
+
+Soru 91 - Görüntü işleme teknikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A - Sadece analog görüntü işleme teknikleri f(x,y) matrisinden oluşur.
+B - Analog görüntü işlemenin dijitale göre birçok avantajı vardır.
+C - Dijital görüntü işleme fotoğrafta arka planı bulanıklaştırabilir.
+D - Analog görüntü işleme teknikleri yüksek dinamik aralık özelliğine sahiptir.
+E - Analog görüntü işleme, bilgisayar algoritmaları yardımıyla görüntüleri işlemek için kullanılır.
+Doğru Cevap C
+Aciklama "Dijital görüntü işleme fotoğrafta arka planı bulanıklaştırabilir." ifadesi doğrudur.
+
+Soru 92 - Aşağıdaki uygulamalardan hangisi fotoğraflarınızın tablo gibi görünmesini sağlar?
+A - FaceApp
+B - Prisma
+C - Trash
+D - Switcher
+E - FilmoraGo
+Doğru Cevap B
+Aciklama Prisma fotoğraflarınızın tablo gibi görünmesini sağlar.
+
+Soru 93 - Aşağıdakilerden hangisi Facebook’a en çok erişim sağlanan aygıttır?
+A - Masaüstü bilgisayar
+B - Dizüstü bilgisayar
+C - Akıllı telefon
+D - Tablet
+E - Ipad
+Doğru Cevap C
+Aciklama Akıllı telefon Facebook’a en çok erişim sağlanan aygıttır.
+
+Soru 94 - Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemine ne ad verilir?
+A - Makro fotoğraf
+B - VR
+C - AR
+D - Still life fotoğraf
+E - Reprodüksiyon
+Doğru Cevap A
+Aciklama Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemine Makro fotoğraf adı verilir.
+
+Soru 95 - Modern basın fotoğrafçılığının kurucusu aşağıdakilerden hangisidir?
+A - H. Cartier Bresson
+B - Erich Salomon
+C - Robert Capa
+D - David Seymour
+E - Ara Güler
+Doğru Cevap B
+Aciklama Modern basın fotoğrafçılığının kurucusu Erich Salomon'dur.
+
+Soru 96 - Aşağıdakilerden hangisi telekomünikasyon sektöründeki artan rekabetin sonuçlarından biridir?
+A - Cep telefonu fiyatlarının yükselmesi
+B - Cep telefonlarının hafiflemesi
+C - Kitlelerin gündeme olan ilgisini yitirmesi
+D - Cep telefonlarının bir statü göstergesine dönüşmesi
+E - Cep telefonlarının bir lüks ürüne dönüşmesi
+Doğru Cevap B
+Aciklama Soru 4, telekomünikasyon sektöründeki rekabetin sonuçlarından birini sormaktadır. Metinde, 'Telekomünikasyon sektöründeki rekabet, cep telefonlarının daha hafif olmasını, ağ altyapısının gelişmesini ve düşük ücretli tarifeler uygulanmasını sağladı. Böylece cep telefonu, kendisine daha büyük bir hedef kitlesi yarattı ve pazardaki payı arttı' denilmektedir. Bu durum, akıllı telefonların fonksiyonel hâle gelmesinin temelini oluşturur.
+
+Soru 97 - Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
+A - 3D Dijital Kameralar
+B - DSLR Kamera
+C - 360 Derece Kameralar
+D - Hibrit Kameralar
+E - Drone Kameralar
+Doğru Cevap E
+Aciklama Hava fotoğrafçılığı (ya da drone fotoğrafçılığı), havadan, kuş bakışı perspektife sahip fotoğrafların çekilmesidir. Drone'lar, giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için yüksek çözünürlüklü kameraları taşıyan ve bu kameralarla birlikte hareket ettirilen cihazlardır. Gelişmiş GPS ve yapay zeka destekli uygulamalarla (uçuş/iniş kontrolü) düşük maliyetle görüntüleme imkanı sunarlar.
+
+Soru 98 - Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gök yüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir? A) Hibrit Kameralar B) Drone Kameralar C) 3D Dijital Kameralar D) 360 Derece Kameralar E) DSLRA Kameralar
+A - Hibrit Kameralar
+B - Drone Kameralar
+C - 3D Dijital Kameralar
+D - 360 Derece Kameralar
+E - DSLRA Kameralar
+Doğru Cevap B
+Aciklama Drone'lar, giderek yaygınlaşan havadan görüntülemeyi gerçekleştirmek için yüksek çözünürlüklü kameraları taşıyan ve bu kameralarla birlikte hareket ettirilen cihazlardır. Ünite 8'de, Drone'ların havadan görüntüleme yapmak için kullanıldığı ve bu sayede fotoğrafçılıkta düşük maliyet getirdiği belirtilmiştir. Yapay zekâ ile entegrasyonları, gelişmiş GPS ile uçuş kontrolü ve düşük maliyetle görüntüleme imkanı sağlamaları çağdaş drone teknolojisinin özellikleridir.
+
+Soru 99 - Kafa montajlı ekranlar ya da diğer ifade ile VR gözlükler ile izlenebilen videoların üretilmesini sağlayan kamera türü aşağıdakilerden hangisidir? A) Hibrit Kameralar B) 3D Dijital Kameralar C) DSLR Kamera D) 360 Derece Kameralar E) Drone Kameralar
+A - Hibrit Kameralar
+B - 3D Dijital Kameralar
+C - DSLR Kamera
+D - 360 Derece Kameralar
+E - Drone Kameralar
+Doğru Cevap D
+Aciklama VR (Sanal Gerçeklik) teknolojisi, fiziki olarak var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar. VR gözlükler (kafa montajlı ekranlar) ile izlenebilen videolar VR formatında çekilir. Ünite 8'de, VR teknolojisinin fotoğraf alanında kullanımı çalışma, öğrenme, oynama, alışveriş yapma kısacası dış dünyayla bağlantı kurma biçimini değiştirdiği ve VR'ın fiziki olarak var olmayan bir alanda gerçeklik algısı yarattığı...
+
+Soru 100 - Eskişehir'de çekmiş olduğunuz gezi fotoğraflarınıza "ESK1, ESK2...ESK9999" şeklinde kısaltma kodu ve numaralar verilebilir. Makine içerisindeki numaratör 01'den 9999'a kadar sayı atayabilir. Daha sonra sıfırlayarak tekrar 01'e döner. Yine seçenekler içerisinde yer alan "File and folder structure" seçeneğiyle çekilen fotoğrafların dosya numaraları yerine tarih sıralandırması da yapılabilir. Yukarıda örnekte yer alan ve kullanıcı için özellikli avantajlar sağlayan diğer seçimler menüsü aşağıdakilerden hangisidir?
+A - Görüntü Ayarları (Display settings)
+B - Dosyaya İsim Ekleme ve Numara Ekleme (Filenaming and numbering)
+C - Telif Hakkı Girişi (Copyright)
+D - Görüntü Kontrolü ve Tarzı (Picture Control Or Creative Style)
+E - İzlemeyi Kontrol Etme (Controlling Playback)
+Doğru Cevap B
+Aciklama Fotoğrafın dosya numaralandırılması, tarih ve saat ayarları gibi organizasyonel ayarların yapıldığı menü grubu 'Çekim Seçeneklerini Ayarlama' veya 'Diğer Seçimler' başlığı altında incelenir. Dosya numaralandırması (File naming and numbering) 'Diğer Seçimler' menüsü altında yer alan bir seçenektir.
+
+Soru 101 - Aşağıdakilerden hangisi gerçek dünyadan uzaklaşmadan elinizdeki cihazın kamerasını kullanarak aldığı görsel veriyi inceleyip gerekli koşullara uyan yerlere fazladan öge ekleyebilmektedir?
+A - AR
+B - VR
+C - 2D
+D - ISO
+E - MP
+Doğru Cevap A
+Aciklama Artırılmış Gerçeklik (AR), gerçek dünyaya dijital ögeler ekleyerek, kullanıcının çevresiyle etkileşimini artıran bir teknolojidir. VR (Sanal Gerçeklik) ise tamamen sanal bir ortam yaratır.
+
+Soru 102 - Aşağıdakilerden hangisi fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemidir?
+A - Sokak fotoğrafçılığı
+B - Belgesel fotoğrafçılık
+C - Reklam fotoğrafçılığı
+D - Sualtı fotoğrafçılığı
+E - Makro fotoğrafçılık
+Doğru Cevap E
+Aciklama Fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemine Makro Fotoğrafçılık denir. Bu teknik, küçük nesnelerin detaylarının büyük boyutlarda elde edilmesini sağlar.
+
+Soru 103 - Sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram aşağıdakilerden hangisidir?
+A - An
+B - Doğrudan fotoğraf
+C - Reprodüksiyon
+D - Flaneur
+E - Landscape
+Doğru Cevap D
+Aciklama Ünite 8'de Reprodüksiyon (Kopyalama) başlığı altında: "Kopyalama (Reprodüksiyon) Kelime anlamı ile çoğaltma demek olan reprodüksiyon, sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelmektedir." Bu ifadeye göre Reprodüksiyon doğru cevaptır.
+
+Soru 104 - -----------, kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmetidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Instagram
+B - Selfie
+C - Flickr
+D - Pinterest
+E - Facebook
+Doğru Cevap C
+Aciklama Ünite 8'de, Flickr platformu için şu tanım verilmiştir: "Flickr (sanat gerçeklik), AR (artırılmış gerçeklik) teknolojisinin fotoğraf alanında kullanımı çalışma, öğrenme, oynama, alışveriş yapma kısacası dış dünyayla bağlantı kurma biçimini değiştirmiştir." Ancak, sosyal medya ve görsel paylaşım platformları tartışılırken, Flickr, kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmeti olarak tanımlanır (me...
+
+Soru 105 - Kendi yapay zekâsı ile herhangi bir nesnenin etrafında hareket edebilen, gelişmiş GPS özellikleri sayesinde uçuş, kalkış ve iniş noktaları belirlenebilen ve gökyüzünden görüntüleme işlemini oldukça düşük maliyetlere indiren kamera türü aşağıdakilerden hangisidir?
+A - DSLR Kamera
+B - Drone Kameralar
+C - Hibrit Kameralar
+D - 3D Dijital Kameralar
+E - 360 Derece Kameralar
+Doğru Cevap B
+Aciklama Hava fotoğrafçılığı, havadan perspektifle, yani kuş bakışı perspektifle çekilen fotoğraflardır. Drone'lar, bu tip çekimleri düşük maliyetle, hareketli ve gelişmiş GPS özellikleri ile yapabilen, günümüzde yaygınlaşan ekipmanlardır. (Ünite 8, Hava Fotoğrafçılığı ve Drone Tanımı bölümü)
+
+Soru 106 - Kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı, görsel paylaşım ve sosyal medya hizmeti aşağıdakilerden hangisidir?
+A - Instagram
+B - Facebook
+C - Pinterest
+D - Flickr
+E - Snapchat
+Doğru Cevap C
+Aciklama Ünite 8'de, Pinterest'in tanımı bu bağlama uyar: "Pinterest; kullanıcıların kendilerine ait panoda bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı görsel paylaşım ve sosyal medya hizmetidir." Instagram ve Facebook da görsel paylaşım hizmetleridir ancak Pinterest, panolar aracılığıyla fikir paylaşımına odaklanır.
+
+Soru 107 - Aşağıdakilerden hangisi telefon kamerasıyla çekilen 0.11 MP görüntülerin doğrudan e-posta yoluyla gönderilmesine olanak veren ilk telefon modelidir?
+A - Sharp J-SH04
+B - Kyocera VP-210
+C - Sanyo SCP-5300
+D - IPhone
+E - Samsung SCH-V200
+Doğru Cevap A
+Aciklama Soruda bahsedilen ilk telefon modeli, 2003 yılında Sony Ericsson tarafından piyasaya sürülen ve ön kamerasında 0.11 MP görüntü sunan, e-posta ile fotoğraf gönderme yeteneği olan Sony Ericsson Z1010'dur. Ünite 8'de akıllı telefonların kamera teknolojisinin gelişiminden bahsederken bu bilgiye yer verilmiştir.
+
+Soru 108 - Aşağıdakilerden hangisi gerçek dünyadan uzaklaşmadan elinizdeki cihazın kamerasını kullanarak aldığı görsel veriyi inceleyip gerekli koşullara uyan yerlere fazladan öge ekleyebilmektedir?
+A - ISO
+B - MP
+C - AR
+D - 2D
+E - VR
+Doğru Cevap C
+Aciklama Ünite 8'de VR (sanal gerçeklik) ve AR (artırılmış gerçeklik) teknolojilerinin fotoğraf alanındaki kullanımının, fiziki olarak var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağladığı belirtilmektedir. AR (Artırılmış Gerçeklik), gerçek dünya ile dijital öğeleri birleştirerek çalışır.
+
+Soru 109 - Telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ne ad verilir?
+A - Yöndeşme
+B - Etkileşim
+C - Verileşme
+D - İletişim
+E - Bilgi
+Doğru Cevap A
+Aciklama Ünite 8'de 'Akıllı Telefonların Fotoğraflama Yetenekleri' başlığı altında, telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu ve dijital medyanın tek bir ortamda iç içe geçmesine 'iç içe geçme' (entegrasyon) veya 'yöndeşme' (convergence) dendiği belirtilmektedir.
+
+Soru 110 - Mayıs 1999'da Japonya'da piyasaya sürülen, ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?
+A - Sanyo SCP-5300
+B - SCH-V200
+C - Sharp J-SH04
+D - Iphone 6
+E - Kyocera VP-210
+Doğru Cevap E
+Aciklama Ünite 8'de, cep telefonu kameralarının tarihsel gelişiminden bahsedilirken, Sony Ericsson Z1010'un 2003 yılında tanıtıldığı ve bu modelin 'ön kameralı telefon' olduğu belirtilmiştir. Bu telefonun tanıtımından sonra 2004'te Kyocera VP-210'nun da bahsedildiği görülmektedir, ancak Kyocera VP-210, 1999'da video telefonu olarak piyasaya sürülmüştür. Sorunun 2003'teki 'kolay selfie çekmeye izin veren ön kameralı telefon' tanımına en uygun olan, metinde adı geçen Sony Ericsson Z1010'dur. Ancak şıklarda...
+
+Soru 111 - Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?
+A - VR
+B - AR
+C - Piktometri
+D - Stereo tekniği
+E - Ortofoto
+Doğru Cevap A
+Aciklama Ünite 8'de, 'VR, AR, 360 Derece Fotoğrafçılık' başlığı altında, 'VR (sanal gerçeklik)... fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar' şeklinde tanımlanmıştır. Bu, soruda boş bırakılan yere gelen ifadenin VR (Sanal Gerçeklik) olduğunu gösterir.
+
+Soru 112 - -------- işlemi günümüzde sayısal fotoğrafçılıkta, eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Görüntü işleme
+B - Aura
+C - Yapay zeka
+D - Kataloglama
+E - Reprodüksiyon
+Doğru Cevap E
+Aciklama Ünite 8'de, 'Stok Fotoğrafçılığı' tanımında, 'Stok fotoğrafçılığı, belli paylaşım platformları aracılığı ile belli kullanım amaçları için lisanslanan fotoğrafların satılmasıdır. Stok fotoğrafçılığı sisteminde fotoğrafçı, internet üzerinden fotoğrafların yüklendiği, pazarlayıcı olan bir aracı kurum ve bu fotoğrafları o kurumun sayfasından belli bir ücret karşılığı indirerek satın alacak bir alıcı bulunur' bilgisi verilmektedir. Bu açıklama, stok fotoğrafçılığın tanıtım ve çoğaltım/satış amaçların...
+
+Soru 113 - Aşağıdakilerden hangisi hava fotoğrafçılığı çeşitlerinden biri değildir?
+A - Kombine
+B - Ortofotolar
+C - Eğik
+D - AR
+E - Dikey
+Doğru Cevap D
+Aciklama Ünite 8'de, 'Hava Fotoğrafçılığı' başlığı altında, bu tekniğin 'havadan, kuş bakışı perspektife sahip fotoğraflar' olduğunu belirtir ve buna 'havadan perspektif' adını verir. Bu, yatay perspektiften (normal çekim) farklıdır. Verilen seçenekler arasında 'Düz Fonlar' Ünite 6'da stüdyo fonu olarak geçmektedir ve bir çekim türü değil, fon türüdür. Diğerleri (Makro, Portre, Sokak) ise genel fotoğrafçılık türleridir. Ancak soruda 'hava fotoğrafçılığı çeşitlerinden biri değildir' denilmektedir. Hava fo...
+
+Soru 114 - -------- işlemi günümüzde sayısal fotoğrafçılıkta, eseri eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Görüntü işleme
+B - Reprodüksiyon
+C - Aura
+D - Yapay zeka
+E - Kataloglama
+Doğru Cevap B
+Aciklama Boş bırakılan yer, bir eserin kopyalanarak sayısal forma dönüştürülmesi, tanıtım katalogları, web siteleri, sosyal medya yayınları ve sayısal baskılar için kullanılması tekniğini tanımlamaktadır. Ünite 8'de, Kopyalama (Reprodüksiyon) başlığı altında, 'sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelmektedir' ve bu işlemlerin katalog, web sitesi ve dekorasyon malzemesi olarak kullanıldığı belirtilmiştir.
+
+Soru 115 - Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?
+A - VR
+B - Piktometri
+C - AR
+D - Stereo tekniği
+E - Ortofoto
+Doğru Cevap A
+Aciklama Fiziki olarak var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknoloji Sanal Gerçeklik (VR)'tir. Ünite 8'de, VR başlığı altında, 'VR, fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlar' şeklinde tanımlanmıştır.
+
+Soru 116 - Kaskellara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir?
+A - Omuz Kameraları
+B - El Kameraları
+C - Dijital Aksiyon Kameralar
+D - Aynasız Kameralar
+E - DSLR Kamera
+Doğru Cevap C
+Aciklama Kaskellara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar, hareketli görüntülerde 4K video çekebilen ve çevrim içi paylaşılabilen aksiyon kameraları (Aksiyon Kameralar) kategorisine girer. (Ünite 8, Dijital Video Kameralar başlığı altında 'Aksiyon kameraları' tanımı)
+
+Soru 117 - Aşağıdakilerden hangisi fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir?
+A - VR
+B - AR
+C - Piktometri
+D - Stereo tekniği
+E - Ortofoto
+Doğru Cevap A
+Aciklama VR (sanal gerçeklik) teknolojisi, fiziki olarak aslında var olmayan bir alanda, gerçeklik algısı yaratarak tüm görünenlerin ve duyulanların gerçekten yaşanıyormuş gibi hissedilmesini sağlayan teknolojidir. Ünite 8'de VR, AR, 360 Derece Fotoğrafçılık başlığı altında bu tanım verilmiştir.
+
+Soru 118 - Tarafsız bir gözlemci olarak içine kapanan herkesi meşgul eden uyaranlara kapılmayıp anların alt metnini okuyan kişi aşağıdakilerden hangisidir?
+A - Landscape
+B - Helyograf
+C - Flaneur
+D - Skylight
+E - Diyafram
+Doğru Cevap C
+Aciklama Belgesel fotoğrafçılıkta amaç, görüntüyü estetize etmekten çok olduğu gibi göstermektir. Fotoğrafçı konusunu yaşam ve gerçeklikten alır, onu izleyicinin anlayacağı şekilde betimleyerek ona iletir; bu da tarafsız bir gözlemci olmayı gerektirir. Ünite 8'de Belgesel Fotoğrafçılık tanımı bu bağlamda açıklanmıştır.
+
+Soru 119 - işlemi günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.
+A - Aura
+B - Kataloglama
+C - Görüntü işleme
+D - Reprodüksiyon
+E - Yapay zekâ
+Doğru Cevap D
+Aciklama Kopyalama (Reprodüksiyon), bir eserin kopyalanarak sayısal geçirilmesi yoluyla çoğalmak anlamına gelir ve tanıtım kataloglarına konma, web sitesinde yayınlama, sayısal baskı yapma gibi amaçlarla kullanılır. Ünite 8'de Kopyalama (Reprodüksiyon) başlığı altında bu teknikten bahsedilmiştir.
+
+Soru 120 - -------, genellikle doğadan elde edilen, işlenmemiş ya da çok az işlem görmüş maddeleri işlemek, değiştirmek ve böylece doğada gerçekte bulunmayan ürünler üretmek anlamına gelir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Ticaret
+B - Müşteri
+C - Ürün
+D - Endüstri
+E - Kullanıcı
+Doğru Cevap D
+Aciklama Endüstriyel fotoğraf, ham madde veya yarı üretilmiş mamüllerin insanların yararı amaçlanarak tam üretilmiş hâle getirilmesidir. Bu sektör, bir işletmenin, bir firmanın, bir fabrikanın araçlarını veya ürünlerini en iyi şekilde sunmayı hedefler. Verilen tanım, endüstriyel fotoğrafçılığın amacını doğru bir şekilde ifade etmektedir.
+
+Soru 121 - Sayısal fotoğrafçılıkta, bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelen kavram aşağıdakilerden hangisidir?
+A - Landscape
+B - Doğrudan fotoğraf
+C - Flaneur
+D - Reprodüksiyon
+E - An
+Doğru Cevap D
+Aciklama Kopyalama (Reprodüksiyon), sayısal fotoğrafçılıkta bir eserin kopyalanarak sayısal ortama geçirilmesi yoluyla çoğalmak anlamına gelmektedir. Bu işlem, eserin özgün tekniği dışında bir teknikle çoğaltılmasıdır.
+

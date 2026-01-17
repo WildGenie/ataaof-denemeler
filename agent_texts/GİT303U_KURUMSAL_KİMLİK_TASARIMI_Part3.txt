@@ -1,0 +1,553 @@
+KURUMSAL KİMLİK TASARIMI dersi ünite 5-6 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 5
+Soru 1 - Kurumun veya markanın sembolik temsili ve en temel kimlik ögesi, aşağıdakilerden hangisi ile tanımlanır?
+A - Logo
+B - Kaşe
+C - Font
+D - Katalog
+E - Espas
+Doğru Cevap A
+Aciklama Kurumun veya markanın sembolik temsili olan logo, en belirgin kimlik ögesidir. Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilir.
+
+Soru 2 - Bir markanın kimliğini ve iletişim tarzını etkileyen önemli tasarım unsuru aşağıdakilerden hangisidir?
+A - Reklam
+B - Fotoğraf seçimi
+C - Geometrik form seçimi
+D - Çerçeve seçimi
+E - Font seçimi
+Doğru Cevap E
+Aciklama Font seçimi, bir markanın kimliğini ve iletişim tarzını etkileyen önemli bir tasarım unsurdur.
+
+Soru 3 - 1- İçeriği anlamak 2-Hedef kitleyi belirlemek 3-Görsel ve grafik desteği 4-Akıcı bir anlatım Kurum kimliği kataloğu sunumu hazırlarken, yukarıda verilenlerden hangileri yer almalıdır?
+A - 1-3-4
+B - 1-2-3-4
+C - 1-4-2
+D - 3-4
+E - 1-2-3
+Doğru Cevap B
+Aciklama Kurum kimliği kataloğu sunumu hazırlarken, içeriği anlamak, hedef kitleyi belirlemek, görsel ve grafik desteği sağlamak ve akıcı bir anlatım oluşturmak önemlidir.
+
+Soru 4 - Bir kurumun veya markanın ihtiyacına göre şekillenen, kurumun veya markanın görsel ve sözel kimliğini belirleyen unsurların koleksiyonunu aşağıdakilerden hangisi ile tanımlanır?
+A - Pazarlama planı
+B - Kurum reklamı
+C - Kurum kimliği kataloğu
+D - Marka planı
+E - Ana katalog
+Doğru Cevap C
+Aciklama Kurum kimliği kataloğu, bir kurumun veya markanın ihtiyacına göre şekillenen, kurumun veya markanın görsel ve sözel kimliğini belirleyen unsurların bir koleksiyonunu içerir.
+
+Soru 5 - Renkleri standardize etmek ve iletmek amacıyla grafik tasarım, baskı, tekstil ve diğer endüstrilerde kullanılan renk sistemi, aşağıdakilerden hangisi ile tanımlanır?
+A - Pantone Renk
+B - RGB
+C - HEX
+D - Font
+E - CMYK
+Doğru Cevap A
+Aciklama PMS (Pantone Matching System): Pantone Renk, renkleri standardize etmek ve iletmek amacıyla grafik tasarım, baskı, tekstil ve diğer endüstrilerde kullanılan bir renk sistemi ve markasıdır. Pantone Renk Sistemi, her bir renk tonunu rakamsal veya alfa-numerik bir kodla tanımlar. Bu sistemin temel amacı, farklı baskı makinelerin de renk uyumunu sağlamaktır.
+
+Soru 6 - Baskı endüstrisinde kullanılan renk modeli aşağıdakilerden hangisi ile tanımlanır?
+A - RGB
+B - CMYK
+C - HEX
+D - Font
+E - Pantone
+Doğru Cevap B
+Aciklama CMYK: Baskı endüstrisinde kullanılan bir renk modelini ifade eder. CMYK, “Cyan (Maviye Yakın Turkuaz) - Magenta (Kırmızıya Yakın Pembe) - Yellow (Sarı) - Key (Siyah)” kelimelerinin baş harflerinden oluşur. Bu renk modeli, renkleri baskıda üretmek için kullanılan dört ana renk pigmentini temsil eder. CMYK, her rengi bu dört ana rengin farklı kombinasyonlarıyla oluşturur.
+
+Soru 7 - Monitörler, televizyonlar, projektörler, bilgisayar sistemleri ve diğer dijital ekranlarda yaygın olarak kullanılan renk modeli aşağıdakilerden hangisi ile tanımlanır?
+A - RGB
+B - HEX
+C - Font
+D - Pantone
+E - CMYK
+Doğru Cevap A
+Aciklama RGB: “Red (Kırmızı) - Green (Yeşil) - Blue (Mavi)” kelimelerinin baş harflerinden oluşan bir renk modelini ifade eder. Bu renk modeli, dijital ekranlarda ve ışık yayan cihazlarda kullanılan bir renk yönetim sistemidir. RGB renk modeli, renkleri üretmek için kırmızı, yeşil ve mavi ışığın farklı yoğunluklarını birleştirir. Her üç renk bir araya geldiğinde beyaz ışık elde edilirken, hiçbir renk birleşmediğinde siyah elde edilir. RGB renk modeli, özellikle monitörler, televizyonlar, projektörler ve ...
+
+Soru 8 - Web tasarımı ve dijital grafik tasarımında renkleri belirtmek için yaygın olarak kullanılan renk modeli aşağıdakilerden hangisi ile tanımlanır?
+A - RGB
+B - CMYK
+C - Pantone
+D - Font
+E - HEX
+Doğru Cevap E
+Aciklama HEX: Hexadecimal, bilgisayar sistemlerinde renklerin kodlanmasında kullanılan bir sayı sistemini ifade eder. HEX renk kodları, genellikle web tasarımı ve dijital grafik tasarımında renkleri belirtmek için kullanılır. HEX kodları, 0 ile 9 arasındaki sayılar ile A’dan F’ye kadar olan harfleri içeren bir sistemdir.
+
+Soru 9 - 1-Hikâyeleştirme 2-Duygusal Bağ Kurma 3-Görsel İşitsel Uyarım 4-Retorik ve Vurgulama 5-Video Etkili bir sunum oluşturmak için yukarıda verilenlerden hangileri yer almalıdır?
+A - 5-4-3
+B - 1-5-3
+C - 4-3-1
+D - 1-4-2-5
+E - 1-2-3-4
+Doğru Cevap E
+Aciklama Etkili Sunumun Ana Hatları: hikâyeleştirme ve Duygusal Bağ Kurma, Görsel İşitsel Uyarım, Retorik ve Vurgulama unsurları bulunmalıdır.
+
+Soru 10 - Bir ürünün veya tasarımın, gerçekçi bir şekilde nasıl görünebileceğini gösteren taslak veya prototip hâli aşağıdakilerden hangisi ile tanımlanır?
+A - Mockup
+B - Logo
+C - Afiş
+D - A4
+E - Katalog
+Doğru Cevap A
+Aciklama Mockup, bir ürünün veya tasarımın, gerçekçi bir şekilde nasıl görünebileceğini gösteren taslak veya prototip hâlidir. Genellikle grafik tasarım, ürün tasarımı, Web tasarımı ve diğer tasarım alanlarında kullanılır. Mockup’lar, tasarımın veya ürünün son hâlinin nasıl görüneceği konusunda fikir sahibi olmak, tasarımı değerlendirmek ve paydaşlar arasında iletişimi kolaylaştırmak için kullanılır. Mockup’lar, farklı tasarım alanları ve ihtiyaçlar için çeşitli şekillerde oluşturulabilir.
+
+Soru 11 - Aşağıdakilerden hangisi, kurum kimliği kataloğu sunumunun işlevlerinden biri değildir?
+A - Tasarım kararlarını açıklamak ve anlaşılır hale getirmek
+B - Markanın değerlerini ve estetiğini müşteriye aktarmak
+C - Müşteriyi ürün veya hizmet satın almaya yönlendirmek
+D - Tasarım sürecinin yalnızca görsel boyutunu vurgulamak
+E - Tasarımın gerçek dünyadaki işlevini göstermek
+Doğru Cevap D
+Aciklama Doğru yanıt D şıkkıdır Tasarım sürecinin yalnızca görsel boyutunu vurgulamak, bu işlevlerden biri değildir
+
+Soru 12 - Bir markanın çeşitli kanallardaki mesajlarında kullandığı tutarlı ve ayırt edici ton, stil ve iletişim biçimini ifade eden kavram aşağıdakilerden hangisidir?
+A - Marka sesi
+B - Marka dili
+C - Marka kataloğu
+D - Marka sayfası
+E - Marka karşılaması
+Doğru Cevap A
+Aciklama Doğru yanıt A şıkkıdır Bir markanın çeşitli kanallardaki mesajlarında kullandığı tutarlı ve ayırt edici ton, stil ve iletişim biçimini ifade eden kavram marka sesidir
+
+Soru 13 - Markanın tekliflerini, değerlerini ve özelliklerini net ve farklı bir şekilde şekillendirerek rakiplerinden ayrıştıran süreci ifade eden kavram aşağıdakilerden hangisidir?
+A - Kurum kimliği
+B - Marka
+C - Kurum stratejisi
+D - Marka konumlandırma
+E - Marka stratejisi
+Doğru Cevap D
+Aciklama Doğru yanıt D şıkkıdır Markanın tekliflerini, değerlerini ve özelliklerini net ve farklı bir şekilde şekillendirerek rakiplerinden ayrıştıran süreci ifade eden kavram marka konumlandırmadır.
+
+Soru 14 - Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur hangisidir?
+A - Katalog
+B - Logo
+C - Dil
+D - Font
+E - Renk
+Doğru Cevap B
+Aciklama Doğru yanıt B şıkkıdır Kurumun ismini, sembolünü veya bunların kombinasyonunu içerebilen, markanın sembolik temsili olan unsur logodur
+
+Soru 15 - Aşağıdakilerden hangisi CMYK modu içerisinde yer alan bir kavram değildir?
+A - Cyan
+B - Magenta
+C - Blue
+D - Yellow
+E - Key
+Doğru Cevap C
+Aciklama Doğru yanıt C şıkkıdır Blue, CMYK içerisinde yer almaz
+
+Soru 16 - Aşağıdakilerden hangisi kurum kimliği kataloğunda kullanılacak renklerle ilgili dikkat edilmesi gereken unsurlardan biri değildir?
+A - Renk seçiminde de markanın kişiliği, değerleri ve hedef kitlesi göz önünde bulundurulmalıdır
+B - Renklerin insanların duygusal tepkilerini etkilediği unutulmamalıdır
+C - Hangi renklerin hangi duygusal yanıtları tetiklediğini anlamak gerekir
+D - Renk paleti, markanın tüm iletişim materyallerinde ve kanallarında tutarlı bir şekilde kullanılmalıdır
+E - Çok fazla renk kullanmak tasarımı daha iyi hale getirir
+Doğru Cevap E
+Aciklama Doğru yanıt E şıkkıdır Çok fazla renk kullanmak tasarımı daha karmaşık bir hale getirir.
+
+Soru 17 - Renk trendlerine yön veren ve her yıl “Yılın Rengi”ni belirleyerek tasarımcıların ve markaların renk seçimlerini güncel tutmalarına katkıda bulunan renk sistemi aşağıdakilerden hangisidir?
+A - CMYK
+B - Pantone
+C - RGB
+D - Switcher
+E - HEX
+Doğru Cevap B
+Aciklama Doğru yanıt B şıkkıdır Renk trendlerine yön veren ve her yıl “Yılın Rengi”ni belirleyerek tasarımcıların ve markaların renk seçimlerini güncel tutmalarına katkıda bulunan renk sistemi Pantone'dir.
+
+Soru 18 - Aşağıdakilerden hangisi karmaşık veya soyut konuları anlatırken hikâyeler veya anekdotlar kullanarak anlatımı daha çekici, anlaşılır ve etkili hâle getirme yöntemidir?
+A - Hikayeleştirme
+B - Duygusal bağ kurma
+C - Uyarım
+D - Vurgulama
+E - Retorik
+Doğru Cevap A
+Aciklama Doğru yanıt A şıkkıdır. Karmaşık veya soyut konuları anlatırken hikâyeler veya anekdotlar kullanarak anlatımı daha çekici, anlaşılır ve etkili hâle getirme yöntemi hikayeleştirmedir
+
+Soru 19 - Yapılan tasarımın gerçek dünyaya uygulandığında nasıl görüneceğini, malzeme ile uyumunu ve etkisini kağıt üzerinde görmeye yarayan araç aşağıdakilerden hangisidir?
+A - Hex
+B - Mockup
+C - Pantone
+D - Retorik
+E - Logo
+Doğru Cevap B
+Aciklama Doğru yanıt B şıkkıdır Yapılan tasarımın gerçek dünyaya uygulandığında nasıl görüneceğini, malzeme ile uyumunu ve etkisini kağıt üzerinde görmeye yarayan araç mockup olarak isimlendirilir
+
+Soru 20 - Ürün tasarımının gerçek boyutlu veya ölçekli modellerinin bulunduğu, ürünün şekli, renkleri ve detayları gerçekçi bir şekilde görüntülendiği mockup türü hangisidir?
+A - Dijital mockuplar
+B - 3D mockuplar
+C - Fiziksel ürün mockuplar
+D - Web mockuplar
+E - Mobil mockuplar
+Doğru Cevap C
+Aciklama Doğru yanıt C şıkkıdır. Ürün tasarımının gerçek boyutlu veya ölçekli modellerinin bulunduğu, ürünün şekli, renkleri ve detayları gerçekçi bir şekilde görüntülendiği mockup türü fiziksel ürün mockuplardır.
+
+Soru 21 - Aşağıdakilerden hangisi alternatif logoların önemini ve kullanım amacını açıklar?
+A - Ana logoyu tamamen değiştirmek
+B - Sosyal medya profilini vurgulamak için
+C - Sadece logonun rengini değiştirmek
+D - Yatay ve dikey kullanıma uygun versiyonları temsil etmek
+E - Logonun büyük boyutlu kullanımını sağlamak
+Doğru Cevap D
+Aciklama Ünite 5'te alternatif logoların, ana logonun farklı versiyonları (yatay, dikey, renkli/tek renkli) olduğu ve sosyal medya profili için kırpılmış logo veya küçük boyutlu kullanım için basitleştirilmiş logo gibi farklı kullanım alanlarına göre uyarlanmış logolar olduğu belirtilmiştir. Bu, farklı mecralarda tutarlılığı sağlamak amacıyla kullanılır.
+
+Soru 22 - Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerdendir?
+A - Değişkenlik ve karmaşıklık
+B - Özgünlük ve basitlik
+C - Karşıt renk seçimleri
+D - Görsel çeşitlilik
+E - Trendlere uyumluluk
+Doğru Cevap B
+Aciklama Soru 60, logo tasarımında dikkate alınması gereken özelliklerdendir. Ünite 5'te, 'Logo tasarımı yapılırken marka kimliğini yansıtmasına, basitliğine, çeşitli boyutlarda etkili olmasına, renk seçimine, zaman dayanıklılığına, üretilebilirliğe ve kullanılabilirliğe uygunluğuna ve özgünlüğüne dikkat edilmelidir' denilmektedir. Seçenekler arasında 'Özgünlük' (özgünlüğüne dikkat edilmeli) logo tasarımında kritik bir özelliktir.
+
+Soru 23 - Aşağıdakilerden hangisi alternatif logoların önemini ve kullanım amacını açıklar?
+A - Ana logoyu tamamen değiştirmek
+B - Yatay ve dikey kullanıma uygun versiyonları temsil etmek
+C - Sosyal medya profilini vurgulamak için
+D - Logonun büyük boyutlu kullanımını sağlamak
+E - Sadece logonun rengini değiştirmek
+Doğru Cevap B
+Aciklama Metinde (Sayfa 1, Sağ Sütun, Görsel Kimlik Elemanları altında) alternatif logoların tanımı ve amacı açıklanmıştır: 'Alternatif logolar, ana logonun farklı versiyonları, örneğin yatay ve dikey kullanıma uygun alternatifler veya renkli ve tek renkli versiyonlarının yer aldığı kısımdır. Bu bölümde farklı kullanım alanlarına göre uyarlanmış logolar da bulunabilir. Örneğin, sosyal medya profili için kırpılmış logo veya küçük boyutlu kullanım için basitleştirilmiş logo gibi.'
+
+Soru 24 - Kurum kimliği kataloğu, bir işletmenin kimliğni ve kişiliğini yansıtan, belirler ve yansıtır. Yukarıdaki parçada boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - kâr marjını
+B - ürün çeşitliliğini
+C - pazar analizini
+D - rekabet avantajlarını
+E - marka değerlerini ve görsel unsurlarını
+Doğru Cevap E
+Aciklama Boş bırakılan yeri, kurumun vizyonunu ve misyonunu doğru şekilde tamamlar. Ünite 5'te Kurum Kimliği Kataloğunu Oluşturan Elemanlar bölümünde, katalogun, marka varlıklarını korumaya, güçlü ve alakalı mesajlar oluşturmaya yardımcı olduğu ve markanın her parçasının önemli olduğu belirtilmiştir. Kurumun vizyonunu ve misyonunu yansıtan temel kimlik ögelerinin kılavuzda yer alması genel bir uygulamadır.
+
+Soru 25 - Aşağıdakilerden hangisi logo tasarımında dikkate alınması gereken özelliklerden biridir?
+A - Trendlere uyumluluk
+B - Görsel çeşitlilik
+C - Değişkenlik ve karmaşıklık
+D - Özgünlük, basitlik, üretilebilirlik
+E - Karşıt renk seçimleri
+Doğru Cevap D
+Aciklama Logo tasarımında dikkate alınması gereken önemli özelliklerden biri özgünlüktür. Ünite 5'te Logo Kullanım Şekilleri başlığı altında, logo tasarımında dikkat edilmesi gerekenler arasında özgünlüğe dikkat edilmesi gerektiği belirtilmiştir.
+
+Soru 26 - Aşağıdakilerden hangisi alternatif logoların önemini ve kullanım amacını açıklar?
+A - Yatay ve dikey kullanıma uygun versiyonları temsil etmek
+B - Ana logoyu tamamen değiştirmek
+C - Logonun büyük boyutlu kullanımını sağlamak
+D - Sadece logonun rengini değiştirmek
+E - Sosyal medya profilini vurgulamak için
+Doğru Cevap A
+Aciklama Ünite 5'te Görsel Kimlik Elemanları altında, alternatif logoların 'ana logonun farklı versiyonları, örneğin yatay ve dikey kullanıma uygun alternatifler veya renkli ve tek renkli versiyonlarının yer aldığı kısımdır' ve 'farklı kullanım alanlarına göre uyarlanmış logolar' olduğu belirtilmiştir (sosyal medya profili için kırpılmış logo veya küçük boyutlu kullanım için basitleştirilmiş logo gibi). Amaçları, logonun farklı platformlara ve kullanım gereksinimlerine uyarlanmasını sağlamaktır.
+
+Soru 27 - Baskı endüstrisinde kullanılan bir renk modelini ifade eder. Bu renk modeli, renkleri baskıda üretmek için kullanılan dört ana renk pigmentini temsil eder. Yukarıda tanımlanan renk modeli aşağıdakilerden hangisidir?
+A - CMYK
+B - RGB
+C - Pattern
+D - HEX
+E - PMS
+Doğru Cevap A
+Aciklama Soru, baskı endüstrisinde kullanılan ve renkleri dört ana pigment (Cyan, Magenta, Yellow, Key/Siyah) ile üreten renk modelini sormaktadır. Ünite 5'te açıklandığı üzere, CMYK (Cyan, Magenta, Yellow, Key/Siyah), baskı endüstrisinde kullanılan renk modelidir ve bu dört ana rengin kombinasyonuyla renkler üretilir.
+
+Soru 28 - Kurumsal renklerin farklı renk evrenlerindeki değerleri ya da kodları yazılmalıdır. Kurumsal renklerin kullanım standartları tasarlanırken bu uyarılar göz önünde bulundurulmalıdır. Yukarıda anlatına göre aşağıdakilerden hangisi bu renk evrenlerinden biri değildir?
+A - CMYK evreni
+B - Tipografi
+C - Pantone kataloğu
+D - HEX/HTML kodları
+E - RGB evreni
+Doğru Cevap B
+Aciklama Ünite 5'te Kurumsal Kimlik Tasarımını Oluşturan Temel Görsel Bileşenler başlığı altında, renklerin farklı evrenlerdeki karşılıkları açıklanmıştır: Pantone (PMS), CMYK (Baskı için), RGB (Dijital/1şık için) ve HEX/HTML (Web için). RAL kodu, genellikle boya ve yapı malzemeleri için kullanılan bir renk kodlama sistemidir, kurumsal kimlik kılavuzlarında doğrudan bir renk evreni olarak belirtilmemiştir (diğer dördü ise açıkça belirtilmiştir).
+
+Unite 6
+Soru 29 - Rakiplerin güçlü yönlerini, zayıf yönlerini, fırsatlarını ve tehditlerini değerlendiren analiz yöntemi aşağıdakilerden hangisi ile tanımlanır?
+A - SWOT
+B - Psikografik
+C - Arketip
+D - Hibrit
+E - Davranışsal
+Doğru Cevap A
+Aciklama Rakip analizini kolaylaştırmak için, rakiplerin güçlü yönlerini, zayıf yönlerini, fırsatlarını ve tehditlerini değerlendiren SWOT analizi yaygın olarak kullanılan bir araçtır.
+
+Soru 30 - Hedef kitlenizi belirlenmesinde aşağıdaki analizlerden hangileri kullanılmaktadır?
+A - Psikografik, davranışsal, hibrit
+B - Marka, Hibrit marka, arketip
+C - Davranışsal, arketip, hibrit
+D - Rakip analizini, arketip, hibrit marka
+E - Demografik, psikografik ve davranışsal
+Doğru Cevap E
+Aciklama Hedef kitlenizi belirlemek, demografik, psikografik ve davranışsal ayrımları içeren derin bir analiz sürecini gerektirmektedir. Yaşam tarzlarını, motivasyonları, yaşları, cinsiyetleri, gelirleri, eğitimleri ve meslekleri hedef kitlenizin demografik temelini oluşturmaktadır. Tutumları, değerleri ve ilgi alanları ise psikografik özelliklerini tanımlayacaktır.
+
+Soru 31 - Farklı zaman ve mekânlarda tekrar eden bir sembol, tema, ortam veya karakter tipi aşağıdakilerden hangisi ile tanımlanır?
+A - Arketip
+B - Hedef kitle
+C - Rakip analizini
+D - Markalı ev
+E - Hibrit marka
+Doğru Cevap A
+Aciklama Arketip: farklı zaman ve mekânlarda tekrar eden bir sembol, tema, ortam veya karakter tipi. Mitlerde, Edebiyatta, Rüya ve ritüellerde sıklıkla belirgin bir şekilde yer alır. Spekülatif Psikologlar ve eleştirmenler “evrensel bazı temel unsurlarını içine alan insan deneyimi.”
+
+Soru 32 - Bir şirketin markalarını, alt markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesi aşağıdakilerden hangisi ile tanımlanır?
+A - Markalı ev mimarisi
+B - Marka mimarisi
+C - Hibrit marka mimarisi
+D - Hedef kitle mimarisi
+E - Arketip mimarisi
+Doğru Cevap B
+Aciklama Marka mimarisi bir şirketin markalarını, alt markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesidir. Bu çerçeve, bir markanın hem genişliğini hem de derinliğini tanımlamaya yardımcı olarak pazarlama kampanyaları geliştirmeyi, büyüme fırsatlarını belirlemeyi ve tüketicilerin markaları anlamasını kolaylaştırmaktadır.
+
+Soru 33 - Birkaç markasını tek bir şemsiye marka altında birleştirerek, öz sermayesi, bilinirliği ve müşteri sadakati için köklü ana markadan yararlanma aşağıdakilerden hangisi ile tanımlanır?
+A - Arketip mimarisi
+B - Hibrit marka mimarisi
+C - Markalı ev mimarisi
+D - Hedef kitle mimarisi
+E - Rakip analizini
+Doğru Cevap C
+Aciklama Markalı ev mimarisi, birkaç markasını tek bir şemsiye marka altında birleştirerek, öz sermayesi, bilinirliği ve müşteri sadakati için köklü ana markadan yararlanmaktadır. Çoğu zaman ana markalar, erişimi ve geliri en üst düzeye çıkarmak için farklı kitle segmentlerini hedefleyecek şekilde tasarlanır. Örneğin Apple, iMac, iPhone, iWatch, iPad gibi alt markalarında kusursuz bir görünüm ve his yaratmak için markalı bir ana marka mimarisi kullanmaktadır. Apple’ın sadık müşteri tabanı sayesinde bu ma...
+
+Soru 34 - Alt markaların öne çıkarılması amacıyla ana markanın belirli bir ölçüde küçültülmesi stratejisi aşağıdakilerden hangisi ile tanımlanır?
+A - Markalar evi
+B - Hibrit marka mimarisi
+C - Rakip analizini
+D - Hedef kitle mimarisi
+E - Arketip mimarisi
+Doğru Cevap A
+Aciklama Alt markaların daha fazla öne çıkabilmesi amacıyla, “Markalar Evi” mimarisinde ana markanın belirli bir ölçüde küçültülmesi bir strateji olarak benimsenmektedir. Bu yaklaşım, alt markaların ana markanın genel görüntüsüne, iletişime ve konumlandırmasına bağlı olmadan kendi özgün değerlerini öne çıkarabilme imkanını sağlamaktadır. Ancak söz konusu model işleyiş karmaşasını da beraberinde getirmektedir. Bu karmaşıklık, her alt marka için farklı hedef, özgün marka kimliklerini oluşturmaya, ayrıcalık...
+
+Soru 35 - Markalı Ev ve Markalar Evi mimarilerinin bir araya getirilmesi aşağıdakilerden hangisi ile tanımlanır?
+A - Arketip mimarisi
+B - Hedef kitle mimarisi
+C - Rakip analizini
+D - Hibrit marka mimarisi
+E - Marka kimliği
+Doğru Cevap D
+Aciklama Hibrit marka mimarisi, Markalı Ev ve Markalar Evi mimarilerinin bir araya getirilmesidir. Bu yapısal tasarımın amacı, alt markaların kendi ayırt edici marka kimliklerini korurken ana markanın belirleyici estetik ve pazarlama stratejileri ile uygunluk sağlamasıdır. Şirketler, hibrit marka mimarisi modelini kullanarak genel marka imajına atıfta bulunmaktadır ancak en yaygın kullanım şekli genellikle, birleşme veya satın almalarının ardından ana ve alt markaların referanslarını bağımsız tutma strat...
+
+Soru 36 - Öncü marka ile ilişkili alt markaların bulunduğu bir sistem aşağıdakilerden hangisi ile tanımlanır?
+A - Karma marka modeli
+B - Onaylanmış marka modeli
+C - Marka kimliği
+D - Markalar evi modeli
+E - Hibrit modeli
+Doğru Cevap B
+Aciklama Onaylanmış marka modeli, öncü marka ile ilişkili alt markaların bulunduğu bir sistemdir. Bu durumda, her bir alt marka, tüm markaların gücünden faydalanmaktadır. Çoğu zaman, ana markanın görsel kimliğine benzerlikler görünebilir. Onaylanmış marka mimarisi, ana markanın itibarından, marka değeri, tanınma ve güvenirliği elde etmesini kolaylaştırmaktadır. Bu yaklaşım, bir yandan her bir alt markanın ana markadan ayrılmadan kendi özgün kimliğine sahip olmasını arzulayan, öte yandan karma bir model k...
+
+Soru 37 - Marka mimarileri gelişimi aşağıdakilerden hangileri ile incelenmektedir?
+A - Araştırma-Strateji-Uygulama
+B - Lojistik-Reklam-Sosyal Medya
+C - Marka-Marka Kimliği-Reklam
+D - Araştırma-Reklam-Lojistik
+E - Uygulama-Kavram-Lojistik
+Doğru Cevap A
+Aciklama Marka mimarileri gelişimini, Araştırma-Strateji-Uygulama üç adımda incelebilmektedir.
+
+Soru 38 - Aşağıdakilerden hangisi, Simon Sinek’in vurguladığı iletişim metodolojisidir?
+A - Gümüş Çerçeve
+B - Altın Üçgen
+C - Altın Kutu
+D - Altın Oran
+E - Altın Çember
+Doğru Cevap E
+Aciklama Simon Sinek’in kıymetli bir TED konuşmasında dile getirdiği Altın Çember (Golden Circle) prensibi, kuvvetli ve etkileyici bir iletişim metodolojisi sunmaktadır. Sinek, bu konuşmasında etkili iletişim kurabilecek bireylerin, ne yaptıklarından ziyade niçin yaptıklarına dair ifadelere öncelik verdiklerini belirtmiştir. Bunun doğrudan bir iş birliği yaratabileceği ya da söz konusu bireyin ifadelerinin kişi üzerinde ikna edici bir etki yaratabileceğini aktarmıştır. Sinek bu durumu oldukça basit bir ç...
+
+Soru 39 - Marka kavramını, “Siz odada olmadığınız zaman tüketicinin sizin hakkınızda ne konuştuklarıdır” şeklinde tanımlayan kişi aşağıdakilerden hangisidir?
+A - Jeff Bezos
+B - Walter Landor
+C - Anselmo Ramos
+D - Ömer Şengüler
+E - Philip Kotler
+Doğru Cevap A
+Aciklama Doğru yanıt A şıkkıdır. Markanın tanımına dair çeşitli perspektifler ve kavrayışlar mevcuttur bu da markanın karmaşıklığı ve kapsayıcılığını yansıtmaktadır. Amazon’un CEO’su Jeff Bezos, markayı, “Siz odada olmadığınız zaman tüketicinin sizin hakkınızda ne konuştuklarıdır” olarak tanımlar
+
+Soru 40 - Rakiplerin güçlü yönlerini, zayıf yönlerini, fırsatlarını ve tehditlerini değerlendiren analiz türü aşağıdakilerden hangisidir?
+A - Durum analizi
+B - Rakip analizi
+C - Marka analizi
+D - Medya analizi
+E - Swot analizi
+Doğru Cevap E
+Aciklama Doğru yanıt E şıkkıdır. Rakip analizini kolaylaştırmak için, rakiplerin güçlü yönlerini, zayıf yönlerini, fırsatlarını ve tehditlerini değerlendiren SWOT analizi yaygın olarak kullanılan bir araçtır
+
+Soru 41 - Bir şirketin markalarını, alt markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesi aşağıda verilen kavramlardan hangisiyle açıklanmaktadır?
+A - Marka algısı
+B - Marka mimarisi
+C - Marka farkındalığı
+D - Marka sadakati
+E - Marka imajı
+Doğru Cevap B
+Aciklama Sağlam bir marka mimarisi, ürün ve hizmetler hakkında belirgin bir bilinç sağlayarak ve markalarınızın ve alt markalarınızın birbiriyle nasıl ilişki kuracağı üzerinde etki yaratmaktadır. Doğru yanıt B şıkkıdır. Marka mimarisi bir şirketin markalarını, alt markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesidir.
+
+Soru 42 - Aşağıdakilerden hangisi marka mimarisinin özelliklerinden biri değildir?
+A - Bir şirketin markalarını yapılandırmak
+B - Bir markanın genişliğini ve derinliğini tanımlamak
+C - Pazarlama kampanyaları geliştirmek
+D - Büyüme fırsatlarını belirlemek
+E - Tüketicide satın alma davranışı oluşturmak
+Doğru Cevap E
+Aciklama Doğru yanıt E şıkkıdır. Marka mimarisi bir şirketin markalarını, alt markalarını ve ürün veya hizmetlerini yapılandırmak için kullandığı organizasyon çerçevesidir. Bu çerçeve, bir markanın hem genişliğini hem de derinliğini tanımlamaya yardımcı olarak pazarlama kampanyaları geliştirmeyi, büyüme fırsatlarını belirlemeyi ve tüketicilerin markaları anlamasını kolaylaştırmaktadır.
+
+Soru 43 - Aşağıdaki şirketlerden hangisi Markalar Evi Mimarisini kullanmaktadır?
+A - Procter &amp; Gamble
+B - Nestle
+C - Microsoft
+D - Sony
+E - Windows
+Doğru Cevap A
+Aciklama Doğru yanıt A şıkkıdır. Aşağıdaki şirketler Markalar Evi Mimarisini kullanmaktadır. • Procter &amp; Gamble: Pampers, Tide, Bounty, Bounce, Dawn, Tampax • GE Appliances: Monogram, Café, GE, GE Profile, Haier and Hotpoint • PepsiCo: Pepsi, Lays, Quaker Oats, Gatorade, Aquafina, Tropicana
+
+Soru 44 - Aşağıdakilerden hangisi marka mimarisinin gelişiminde, marka denetiminin yapıldığı alanlardan biridir?
+A - Tüketici Personaları
+B - Pazar Segmentasyonu
+C - Ürün/Hizmet Kullanımı
+D - Marka sadakati
+E - Rekabet Analizi
+Doğru Cevap D
+Aciklama Doğru yanıt D şıkkıdır. Marka Denetimi: Marka Sadakati, Marka Bilinirliği, Marka Algısı, Marka Değeri, Marka Varlıkları, Marka Portföyü
+
+Soru 45 - Bir pazarlama stratejisi olarak, marka veya ürünün rekabetçi pazarlarda temel farklılaştırıcı özelliklerini belirleme ve bu farklılık üzerinden bir pozisyon belirleme çabası aşağıdaki kavramlardan hangisi yardımıyla tanımlanmaktadır?
+A - Konumlandırma
+B - Strateji
+C - Uygulama
+D - Araştırma
+E - Analiz
+Doğru Cevap A
+Aciklama Doğru yanıt A şıkkıdır. Konumlandırma kavramı, bir pazarlama stratejisi olarak, marka veya ürünün rekabetçi pazarlarda temel farklılaştırıcı özelliklerini belirleme ve bu farklılık üzerinden bir pozisyon belirleme çabasına işaret etmektedir
+
+Soru 46 - Stengel'in Grow adlı eserinde aşağıdakilerden hangisi markaların taşıdığı değer ve benimsediği alanlardan biri olarak gösterilmez?
+A - İnsanları eğitme
+B - İnsanların gururlanması sağlama
+C - Bağlantı kaynağı olma
+D - Keşfetme cesareti sunma
+E - Toplumu dönüştürme
+Doğru Cevap A
+Aciklama Doğru yanıt A şıkkıdır. Stengel'in Grow adlı eserinde markaların taşıdığı değer ve benimsediği alanlardan bir diğeri insanları sevindirmedir. İnsanları eğitme değildir.
+
+Soru 47 - Aşağıdakilerden hangisi kalitatif araştırmalardan biridir?
+A - Kullanıcı tutum araştırmaları
+B - Müşteri memnuniyeti araştırmaları
+C - Reklam testleri
+D - Çeşitlendirme çalışmaları
+E - Gözlemsel çalışmalar
+Doğru Cevap E
+Aciklama Doğru yanıt E şıkkıdır. Bireysel görüşmeler, odak grupları ve gözlemsel çalışmalar, kalitatif araştırmaların başlıca yöntemleri arasındadır
+
+Soru 48 - Markanın diline uygun olarak tasarlanan deneyim alanlarını yaratmakla yükümlü olan ajans türü aşağıdakilerden hangisidir?
+A - Reklam Ajansı
+B - Tasarım Ajansı
+C - Halkla İlişkiler Ajansı
+D - Etkinlik Ajansı
+E - Medya Ajansı
+Doğru Cevap D
+Aciklama Doğru yanıt D şıkkıdır. Etkinlik ajansı, markanın diline uygun olarak tasarlanan deneyim alanlarını yaratmakla yükümlüdür. Tasarlanan etkinlik ve aktivasyonlarla belirlenen hedeflere ulaşmayı amaçlayarak müşteri verisi toplamak veya görünürlüğü artırmak gibi çeşitli amaçlara hedeflerin gerçekleşmesi sağlamaktadırlar
+
+Soru 49 - Aşağıdakilerden hangisi markanın kullanım şekillerinden biri değildir?
+A - Kişi olarak marka
+B - Kurum/kuruluş olarak marka
+C - Sembol olarak marka
+D - Ürün olarak marka
+E - Birlik marka
+Doğru Cevap E
+Aciklama Ünite 6'ya göre markanın kullanım şekilleri arasında Ürün Olarak Marka, Kurum/Kuruluş Olarak Marka, Kişi Olarak Marka ve Sembol Olarak Marka bulunmaktadır. 'Rakip Marka Analizi' ise markanın bir kullanım şekli değil, marka stratejisinin bir parçası olan analiz sürecidir. Bu nedenle 'Rakip Marka Analizi' markanın kullanım şekillerinden biri değildir.
+
+Soru 50 - Markaların bileşenleri ve marka kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A - Markalar logolar, semboller, görsel imajlar ve kavramları içerir.
+B - Markalar sadece görsel imajlarla sınırlıdır.
+C - Markalar sadece maddi özelliklerle oluşturulur.
+D - Markaların sadece geçmiş başarıları önemlidir.
+E - Farkındalık, günümüzün en önemli marka bileşeni değildir.
+Doğru Cevap A
+Aciklama Ünite 6'ya göre marka, bir ürünün, hizmetin veya organizasyonun kimlik özelliklerini tanımlayan, hedef kitle üzerinde olumlu izlenimler bırakan bir kavramdır. 'Marka Mimarisi' (Markalı Ev, Markalar Evi vb.) marka stratejisine hizmet eder. 'Marka değeri' ise şirketin somut varlıkları çıkarıldığında geriye kalan soyut değeridir. 'Marka kimliği' ise markanın adı, logosu, sloganı, renkleri gibi öğelerden oluşur. İfadelerin hepsi genel olarak doğru olsa da, en kapsayıcı ve temel ifadeyi aramak gereki...
+
+Soru 51 - Markaların ambalaj tasarımında tüketicilerin gerçek duygusal tepkilerini değerlendirmek için kullandığı yöntem aşağıdakilerden hangisidir?
+A - Tüketici anketleriyle yapılan doğrudan diyaloglar
+B - Kalitatif araştırmalarla elde edilen öncül bulgular
+C - Implicit Reaction Time (IRT) tekniği
+D - Sosyal medya içeriklerinin beğenilme oranları
+E - Tüketici görüşmelerinin sürekli olarak takip edilmesi
+Doğru Cevap C
+Aciklama Soru 52, duygusal tepkileri değerlendirme yöntemini sormaktadır. Ünite 6'da, 'Tüketici davranışlarını kavramak üzere yapılan çeşitli araştırmalar bulunmaktadır ve bu araştırmaların en sık başvurulanlarından biri tutum kullanım araştırmalarıdır' denilmektedir. Tutum çalışmaları (kantitatif analiz yöntemlerine dayanır), tüketicinin markayla ilgili düşüncelerini, duygularını ve inançlarını (duygusal tepkileri) anlamaya yöneliktir.
+
+Soru 52 - Aşağıdaki marka iletişimi örneklerinden hangisi etkili bir içgörüyü temsil eder?
+A - Bir fast-food zinciri, uygun fiyatlı menülerini vurgulayarak genç ve bütçe odaklı tüketicilere yönelir.
+B - Bir kozmetik markası, ürünlerini genç kadınların güzellik standartlarına uygun olarak pazarlar.
+C - Bir ayakkabı markası, ürünlerinin rahatlığını ve stilini vurgulayarak müşterilere hitap eder.
+D - Bir sağlık ürünleri markası, annelerin çocuklarının sağlığına olan duygusal bağlılığını ve endişelerini anlayarak ürünlerini tasarlar ve iletişimini yapar.
+E - Bir otomobil markası, performans ve hız odaklı reklamlarla genç erkek müşterilere ulaşmaya çalışır.
+Doğru Cevap D
+Aciklama Soru 54, etkili bir içgörüyü temsil eden marka iletişimi örneğini sormaktadır. Ünite 6'da içgörü, 'marka tasarımının sağlam bir temel üzerine inşa edilmesini sağlamalıdır' denilmektedir. Nike örneği, 'Swoosh simgesi ile hafızalarımıza kazıdığı görsel kimliği markanın öncü ruhunu ve yenilikçi doğasını temsil etmektedir' şeklinde verilir. Bu, pazar ve rakip analizlerinden elde edilen ve markanın özünü yansıtan bir 'içgörü' ile tasarıma temel oluşturulduğunu gösterir.
+
+Soru 53 - Segmentasyon analizlerinin kullanım amacı aşağıdakilerden hangisidir?
+A - Piyasa büyüklüğünü ölçmek
+B - Kantitatif ve kalitatif araştırmaları sonuçlarını karşılaştırmak
+C - Temsili örnekleme dayalı araştırma yaklaşımını anlamak
+D - Markanın neden tercih edildiğini belirlemek
+E - Fiyat artışı sağlama
+Doğru Cevap D
+Aciklama Segmentasyon araştırmaları, tüketici davranışlarının anlaşılması için kullanılır. Bu analizler genellikle kantitatif yöntemlerle gerçekleştirilerek tüketici kitlesinin sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırılmasını amaçlar (Ünite 6).
+
+Soru 54 - Yaratıcı alandaki SWOT analiziyle ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A - Rakip analizi, SWOT analizi ile ölçülmez.
+B - Rakip analizi sadece yaratıcı çıktıları değerlendirir.
+C - Rakip analizi, yalnızca rakiplerin halkla ilişkilerine odaklanır.
+D - Rakiplerin güçlü ve zayıf yönlerini değerlendirmek için kullanılır.
+E - Rakip analizi, benzer bir yapı oluşturmak için en iyi uygulamaları kopyalamakla ilgilidir.
+Doğru Cevap D
+Aciklama Ünite 6'da Rakip Analizi bölümünde, yaratıcı alanda dikkate alınması gereken bir boyutun rakibin AIDA modelinin (Attention, Interest, Desire, Action) etkisi ve etkinliği olduğu belirtilmiştir. Bu etkinliği ölçmek için rakibin halkla ilişkilerine, itibarına, müşteri geri bildirimlerine, sektördeki bilinirliğine ve sadık takipçi kitlesi oluşturma becerisine bakılmaktadır. Yani rakip analizinde sadece yaratıcı çıktılar değil, aynı zamanda temel stratejiler, iş birlikleri ve kullanıcı katılımı gibi ...
+
+Soru 55 - Aşağıdakilerden hangisi Marka kimliğini oluşturan ögelerden biri değildir?
+A - Marka adı
+B - Marka logosu
+C - Marka renkleri
+D - Marka sloganı
+E - Marka organizasyonu
+Doğru Cevap E
+Aciklama Ünite 6'da (Sayfa 1-2) Marka Kimliği ögeleri; marka adı, logo, slogan, renkler, tipografi, ses ve kişiliği kapsar. Yapılan analizler sonucunda, Marka Mimarisi'nin ana ögeleri marka adı, marka sembolleri, marka kişiliği, marka konumlandırması ve marka iletişimidir. Rakip analizi (Piyasa ve Rakip Analizi) ise stratejik bir süreçtir, kimliğin temel bir unsuru (logo, renk vb.) olarak doğrudan sayılmaz. Bu nedenle rakip analizi, kimliği oluşturan temel bileşenlerden biri değildir.
+
+Soru 56 - Rakip analizlerin önemi ve içeriği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A - Rakip analizi sadece görsel yönleri inceleyerek gerçekleştirilir.
+B - Rakip analizi doğru yapılmadığında markaların itibarını zedeler.
+C - Rakip analizi yaratıcı ve çok pahalı bir süreçtir.
+D - Hikayelerin ve sembolizmin analizi, hedef kitlelerine nasıl ulaşıldığının anlaşılmasına yardımcı olur.
+E - Rakip analizleri, markaların taklit etme amacını taşıdığı bir süreçtir.
+Doğru Cevap D
+Aciklama Doğru ifade, rakip analizinin dijital ve fiziksel alanlarını incelemeyi içerdiğidir. Ünite 6'da belirtildiği gibi, rakip analizinin bir diğer önemli özelliği de dijital ve fiziksel alanlarının incelenmesidir; bu, dijital kampanyalarının, web sitesi estetiğinin, kullanıcı deneyimi tasarımının ve sosyal medya platformlarındaki etkileşimin incelenmesini içerir.
+
+Soru 57 - Segmentasyon analizlerinin kullanım amacı aşağıdakilerden hangisidir?
+A - Piyasa büyüklüğünü ölçmek
+B - Temsili örnekleme dayalı araştırma yaklaşımını anlamak
+C - Markanın neden tercih edildiğini belirlemek
+D - Fiyat artışı sağlamak
+E - Kantitatif ve kalitatif araştırmaları sonuçlarını karşılaştırmak
+Doğru Cevap C
+Aciklama Segmentasyon analizlerinin kullanım amacı, tüketici kitlesi üzerinde geniş kapsamlı araştırmalar yaparak onları sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır. Ünite 6'da Segmentasyon Araştırmaları, tüketici kitlesi üzerinde geniş kapsamlı araştırmaların yapıldığı aşama olarak tanımlanır ve amacı sosyodemografik özellikleri ve yaşam tarzları bağlamında sınıflandırmaktır.
+
+Soru 58 - Aşağıdakilerden hangisi markanın kullanım şekillerinden biri değildir?
+A - Ürün olarak marka
+B - Kurum/Kuruluş olarak marka
+C - Birlik marka
+D - Sembol olarak marka
+E - Kişi olarak marka
+Doğru Cevap C
+Aciklama Ünite 6'da Markanın Kullanım Şekilleri (Marka Varlık Nedenini Belirleme kapsamında) şu şekilde sıralanmıştır: 1. Markanın gerçeklerini belirleme (Kurum/Kuruluş Olarak Marka), 2. Pazarın gerçeklerini belirleme (Ürün Olarak Marka ile ilgili), 3. Kültür ve sosyal gereklilikleri belirleme. Ayrıca kişi ve sembol olarak marka kullanımları da Ünite 3'te belirtilmiştir. Soru 102'deki seçenekler Ünite 6'da belirtilen Marka Tanımı altındaki kullanım şekilleriyle karşılaştırıldığında: Ürün Olarak Marka, Ku...
+
+Soru 59 - Simon Sinek'in Altın Çember (Golden Circle) teorisine göre, etkili iletişim kurmanın önemli bir yolu olarak belirlediği sıralama aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?
+A - Neden, Nerede, Ne için
+B - Nereden, Ne zaman, Nasıl
+C - Kime, Nasıl, Neden
+D - Neden, Nasıl, Ne
+E - Nasıl, Nereden, Ne zaman
+Doğru Cevap D
+Aciklama Simon Sinek'in Altın Çember (Golden Circle) teorisi, etkili iletişimin 'Neden' ile başlaması gerektiğini vurgular. Ünite 6'da belirtildiği gibi, bu teorinin doğru sıralaması: Neden (Why), Nasıl (How) ve Ne (What) şeklindedir. Etkili iletişim kurabilecek bireyler, ne yaptıklarından ziyade niçin yaptıklarına dair ifadelere öncelik verir.
+
+Soru 60 - Dyson marka konumlandırması "-----" arketip'i üzerine inşa ederek, kusursuz biçimde tasarladığı elektrikli süpürgeleri ile temizlik için daha az zaman ayırmamızı sağlayan yepyeni deneyimler yaratmıştır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Karmaşık bir marka konumlandırması
+B - Gizemci bir marka konumlandırması
+C - Sihirbaz bir marka konumlandırması
+D - Bilimsel bir marka konumlandırması
+E - İkna edici bir marka konumlandırması
+Doğru Cevap C
+Aciklama Dyson'un, temizlikte daha az zaman ayırmayı sağlayan, az çaba ile mükemmel sonuçlar vaat eden yeni deneyimler yaratması, 'Kahraman' (Hero) arketipi ile ilişkilidir. Ünite 6'da belirtildiği gibi, arketipler markanın kişiliğini ifade eder. Kahraman arketipi genellikle zorlukların üstesinden gelme, başarma ve yenilikçi çözümler üretme temalarıyla ilişkilidir.
+
+Soru 61 - Rakip analizlerin önemi ve içeriği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A - Hikayelerin ve sembolizmin analizi, hedef kitlelerine nasıl ulaşıldığının anlaşılmasına yardımcı olur.
+B - Rakip analizleri, markaların taklit etme amacını taşıdığı bir süreçtir.
+C - Rakip analizi doğru yapılmadığında markaların itibarını zedeler.
+D - Rakip analizi yaratıcı ve çok pahalı bir süreçtir.
+E - Rakip analizi sadece görsel yönleri inceleyerek gerçekleştirilir.
+Doğru Cevap A
+Aciklama Ünite 6'da Rakip Analizi başlığı altında, bu analizin sadece yaratıcı çıktıları değil, aynı zamanda temel stratejileri, iş birliklerini, kullanıcı katılımını ve yenilikçi unsurları da kapsaması gerektiği belirtilmektedir. Ayrıca, dijital ve fiziksel alanların incelenmesi gerektiği de vurgulanmıştır.
+

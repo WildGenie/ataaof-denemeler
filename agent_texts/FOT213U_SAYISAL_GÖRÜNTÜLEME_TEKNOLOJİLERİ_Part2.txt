@@ -1,0 +1,1075 @@
+SAYISAL GÖRÜNTÜLEME TEKNOLOJİLERİ dersi ünite 3-4 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 3
+Soru 1 - Aşağıdakilerden hangisi piksel cinsinden bilinen ekran çözünürlüklerinden biri değildir?
+A - CMOS sensörleri
+B - VGA 640 x 480 (4:3)
+C - HDTV 1920 x 1080 (16:9)
+D - UHDTV 3840×2160 (16:9)
+E - UHDTV2 7680 × 4320 (16:9)
+Doğru Cevap A
+Aciklama CMOS sensörleri
+
+Soru 2 - Aşağıdakilerden hangisi tarama formatlarından biridir?
+A - VGA 640 x 480 (4:3)
+B - interlaced
+C - QXGA 2048 x 1536 (4:3)
+D - HDTV 1920 x 1080 (16:9)
+E - UHDTV 3840×2160 (16:9)
+Doğru Cevap B
+Aciklama interlaced
+
+Soru 3 - Aşağıdakilerden hangisi FPS ‘Frame Per Second’ ın tanımladıklarındandır?
+A - video kameraların görüntülediği ve kayıt altına aldığı saniyedeki kare sayısını tanımlamaktadır.
+B - Progressive ‘P’olarak tanımlanır
+C - İnterlaced '1' harfi olarak tanımlanır
+D - AVCHD
+E - Sony XAVC,
+Doğru Cevap A
+Aciklama video kameraların görüntülediği ve kayıt altına aldığı saniyedeki kare sayısını tanımlamaktadır.
+
+Soru 4 - Aşağıdakilerden hangisi camcorderin tanımıdır?
+A - UHD 4K
+B - sadece video üretmeye yarayan cihazları tanımlamak için kullanılmaktadır.
+C - LCD
+D - NTSC
+E - PAL
+Doğru Cevap B
+Aciklama sadece video üretmeye yarayan cihazları tanımlamak için kullanılmaktadır.
+
+Soru 5 - "HDTV" kısaltmasının açılımı aşağıdakilerden hangisidir?
+A - Standart Tanımlı Televizyon
+B - Yüksek Tanımlı Televizyon
+C - Dijital Tanımlı Televizyon
+D - Ultra Yüksek Tanımlı Televizyon
+E - Her Yöne Tanımlı Televizyon
+Doğru Cevap B
+Aciklama Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz. Birçok ülke ve yayın platformu günümüzde hâlihazırda "Yüksek Tanımlı Televizyon", kısaltılmış ismiyle HDTV formatında yayın yapmaktadır.
+
+Soru 6 - Aşağıdaki ifadelerden hangisi dijital kameraların yayıncılığa etkisi ile ilgili değildir?
+A - Dijital kameralar görüntüleri anolog verilere çevirir bu da yüksek pikselli görüntüler sunar.
+B - Dijital kameralar sadece bir grup amatör veya profesyonel tarafından kullanılan cihazlar olmaktan çıkarak yaygın olarak kullanılan bir ihtiyaca dönüşmüşlerdir.
+C - Daha az maliyetli üretilen dijital videolar artık çağın en önemli unsurlarından birisidir.
+D - Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hayli düşürmektedir.
+E - Dijital videoların montajlanması ve paylaşılması bir hayli kolaydır.
+Doğru Cevap A
+Aciklama Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz. Dijital Kameraların Yayıncılığa Etkisi Dijital kameralar sadece bir grup amatör veya profesyonel tarafından kullanılan cihazlar olmaktan çıkarak yaygın olarak kullanılan bir ihtiyaca dönüşmüşlerdir. Daha az maliyetli üretilen dijital videolar artık çağın en önemli unsurlarından birisidir. Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hay...
+
+Soru 7 - Aşağıdakilerden hangisi "İnterlaced" taramanın özelliklerindendir?
+A - Elektron ışını her satırı tarar.
+B - Tek bir tam resim (çerçeve) üretir.
+C - Elektron ışını önce yalnızca tek sayılı satırları sonra çift sayılı satırları tarar.
+D - Çizgiler düzenli bir şekilde taranır.
+E - Bilgisayar ekranları, dijital video ve sinemanın büyük bölümü bu taramayı kullanır.
+Doğru Cevap C
+Aciklama Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz. Tarama formatları "İnterlaced ve Progressive" olarak iki türdedir. Tarama işlemi video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan bir işlemdir. İnterlaced taramada elektron ışını bir sayfanın üstünden altına sırayla tüm satırları taramaz ve yalnızca tek sayılı satırları okuyarak yarım çerçeve oluşturur. Sonraki tarama, ikinci alanı üret...
+
+Soru 8 - Videolarda veri sıkıştırmaya ne ad verilir?
+A - FPS
+B - Compressed
+C - Log
+D - Raw
+E - Codec
+Doğru Cevap E
+Aciklama Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz. Veri sıkıştırma algoritmalarına kodek (codec) adı verilir. Dijital video dünyasında MPEG-2, MPEG-4, H.264, VC-3 gibi çok sayıda standart kodek vardır. Video kamera kodlaması diğer ifade ile yakalama kodeklerini her üretici özel olarak yaratmaktadır.
+
+Soru 9 - Küçük boy dijital kameralar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+A - Sadece bir kameramana ihtiyaç vardır.
+B - Kolay taşıma avantajına sahiptir.
+C - Maliyetleri düşük olduğu için ekonomiktir.
+D - HD görüntüden 3K görüntüye uzanan bir çözünürlük sunar.
+E - Hem optik hem dijital zoom olanağı sağlamaktadır.
+Doğru Cevap D
+Aciklama Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz. Son dönemde yaygınlaşan ve video çekebilen bir DSLR ile çalışıyorsanız, yalnızca bir kameramana ihtiyacınız olabilir. Tek başınıza veya küçük bir ekip ile çekim yapıyorsanız, omuz çantasına atılabilen ve uçakta taşınabilen küçük bir kamera büyük bir avantaj olabilir. Gerek maliyetleri gerekse taşıma kolaylığı gibi avantajları nedeniyle büyük boy kameralara kıyasla çok daha fazla tüketilen küçük boy video kam...
+
+Soru 10 - Aşağıdaki ifadelerden hangisi "hibrit kameralar" ile ilgili bir ifadedir?
+A - Sıkıştırılmamış video formatları ile kayıt imkanı sunar.
+B - Sadece fotoğraf çekimleri için üretilmiştir.
+C - Dahili mikrofonları ve ses giriş-çıkışları yoktur.
+D - Uzun metraj filmler ve TV dizileri için uygun kameralar değildir.
+E - Yüksek kaliteli ve yüksek bütçeli kameralardır.
+Doğru Cevap A
+Aciklama Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz. Hibrit kameralar da 35 mm veya Süper 35 mm özellikleri taşıyan geniş format CMOS sensörleri ve bir dizi yüksek kaliteli değiştirilebilir lensi ile oldukça avantajlı ürünlerdir. Hibrit kameralar üst düzey video üretebilmek adına Zeiss, Cooke veya Schneider gibi seçkin lens üreticilerinin ultra yüksek kalitelisine lenslerinin kullanılmasına izin veren lens adaptörlerini kabul eder. Video kameralarda olduğu gib...
+
+Soru 11 - "Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle ...... ve ......formatlarında yüksek kaliteli çekim anlamına gelir." İfadesinde boşluklar nasıl doldurulmalıdır?
+A - 1K/2K
+B - 2K/4K
+C - 2K/3K
+D - 1K/4K
+E - 3K/5K
+Doğru Cevap B
+Aciklama Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz. Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle 2K ve 4K formatlarında yüksek kaliteli çekim anlamına gelir.
+
+Soru 12 - Drone'lar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+A - Drone’lar görüntüleri kablosuz olarak anlık kumanda paneli ve kullanılan ekranlara gönderebilirler.
+B - Gelişmiş GPS özellikleri Drone’u uçuş yolunda güvende tutar ve ayrıca kalkış noktasına eve güvenli şekilde geri getirilmesine yardımcı olur.
+C - Drone'lar yaklaşık 60 dakika gibi sınırlı bir uçuş süresi ve 2000 fit menzile sahiptir.
+D - Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır.
+E - Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli araba, vinç veya jib gibi pahalı sinema ekipmanlarının sağladığı efektleri taklit etmek için de kullanılabilir.
+Doğru Cevap C
+Aciklama Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz. Drone’lara herkes kolayca erişilebilir. Gelişmiş GPS özellikleri Drone’u uçuş yolunda güvende tutar ve ayrıca kalkış noktasına eve güvenli şekilde geri getirilmesine yardımcı olur. Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır. Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli ara...
+
+Soru 13 - Tepeden sahnenin sesini alan mikrofonlara ne ad verilir?
+A - WAV
+B - Yaka
+C - EİS
+D - Dolly
+E - Boom
+Doğru Cevap E
+Aciklama Yanıtınız yanlış ise "Dijital Audio ve Diğer Video Ekipmanları" konusunu yeniden gözden geçiriniz. Çeşitli yapımlarda ses kayıt cihazlarına takılan farklı mikrofon türlerinin kullanıldığı görülmektedir. En yaygın şekilde bireylere takılan kablosuz yaka mikrofonları ve ortamdan ses almak için "Boom" ismi verilen tepeden sahnenin sesini alan mikrofonların kullanıldıkları bilinmektedir.
+
+Soru 14 - Mekan içinde derinlik ve genişlikte ilerleyerek dikey ve yatay bazen de dairesel veya düzensiz hareketler üreten, kimi zaman tekerlekli kimi zaman raylı sistemler üzerinde hareket eden araç aşağıdakilerden hangisidir?
+A - EİS
+B - OİS
+C - Boom
+D - Dolly
+E - Gimbal
+Doğru Cevap D
+Aciklama Yanıtınız yanlış ise "Dijital Audio ve Diğer Video Ekipmanları" konusunu yeniden gözden geçiriniz. Mekan içinde derinlik ve genişlikte ilerleyerek dikey ve yatay bazen de dairesel veya düzensiz hareketler üreten, kimi zaman tekerlekli kimi zaman raylı sistemler üzerinde hareket eden araç Dolly olarak tanımlanmaktadır.
+
+Soru 15 - HDTV formatı hangi çözünürlükte görüntü sağlar?
+A - 1024 x 768 Piksel
+B - 1280 x 1024 Piksel
+C - 1600 x 1200 Piksel
+D - 1920 x 1080 Piksel
+E - 2048 x 1536 Piksel
+Doğru Cevap D
+Aciklama Temel video görüntüsü, dikey ve yatay çizgilerden oluşan bir yığın hâlinde düzenlenmiş, piksel adı verilen çok sayıda küçük noktadan oluşur. Aşağıda piksel cinsinden bilinen ekran çözünürlükleri ve ilgili ekran en-boy oranları verilmiştir: VGA 640 x 480 (4:3) SVGA 800 x 600 (4:3) XGA 1024 x 768 (4:3) SXGA 1280 x 1024 (5:4) UXGA 1600 x 1200 (4:3) HDTV 1920 x 1080 (16:9) QXGA 2048 x 1536 (4:3) UHDTV 3840×2160 (16:9) UHDTV2 7680 × 4320 (16:9) Bu çözünürlüklerin izleyici m...
+
+Soru 16 - Dijital kameraların EIS veya OIS özellikleri neyle ilgilidir?
+A - Sesli görüntü
+B - Görüntü sabitleme
+C - Hareketli görüntü
+D - Sıkıştırılmış görüntü
+E - Görüntü çözünürlüğü
+Doğru Cevap B
+Aciklama Elektronik görüntü sabitleme (EİS) ve Optik görüntü sabitleme (OIS) özellikleri isimlerinden anlaşılacağı üzere görüntü sabitlemeyle ilgilidir. Bu özelliği taşımayan kameralarda görüntü sabitlemek için gimbal gibi dış ekipmanlar kullanılır.
+
+Soru 17 - Hangisi dijital video sistemlerinin sağladığı avantajlardan biri değildir?
+A - Görüntü işleme için hızlı aktarım
+B - Kolay görüntü işleme
+C - Kayıt ve depolama maliyeti
+D - Görüntü ve ses kalitesi
+E - AR görüntü sağlaması
+Doğru Cevap E
+Aciklama Dijital video sistemleri, AR görüntü sağlamazlar.
+
+Soru 18 - Hangisi sıkıştırılmış veri sunan dijital video kodeklerinden biridir?
+A - RAW
+B - Log
+C - H.264
+D - AVCHD
+E - Avid
+Doğru Cevap C
+Aciklama Dijital video dünyasında MPEG-2, MPEG-4, H.264, VC-3 gibi çok sayıda standart kodek vardır. Doğru cevap C şıkkıdır.
+
+Soru 19 - Hangisi görüntü işleme aşamasında avantaj sağlayan ham görüntü formatlarından biridir?
+A - HD
+B - MPEG-2
+C - MPEG-4
+D - CV-3
+E - RAW
+Doğru Cevap E
+Aciklama RAW video, Uncompressed, ve Log sıkıştırılmamış ham görüntü formatlarıdır. Yüksek veri barındırırlar. Bu sıkıştırılmamış formatlar her kamerada bulunmamaktadır ve daha gelişmiş dijital kameralarca üretilen bu formatlar sayesinde bilgisayar ortamına aktarılan ham görüntülerin üzerinde sıkıştırılmış görüntülere kıyasla daha fazla düzenleme yapmak mümkündür.
+
+Soru 20 - Hangisi dijital aksiyon kameralarının özelliklerinden biri değildir?
+A - Küçük ve hafiftirler.
+B - Çeşitli çekim özellikleri sunarlar.
+C - Ultra geniş açıya sahiptirler.
+D - Uzun alan derinliğinde görüntüler çekebilirler.
+E - Nerdeyse tamamen otomatik modda çalışırlar.
+Doğru Cevap B
+Aciklama Dijital aksiyon kameralarında başlat ve durdur düğmesinin ötesinde çok az özellik bulunmaktadır.
+
+Soru 21 - Drone kameralarında kamerayı sabit tutan dengeleyici ekipman hangisidir?
+A - Jip
+B - Gimbal
+C - Tripod
+D - Süspansiyon
+E - Uzaktan kumanda
+Doğru Cevap B
+Aciklama Drone üzerine monte edilen kameralar, dne bir türbülansla karşılaştığında bile kamerayı sabit tutan dengeleyici bir mekanizma olan gimbal isimli özel ekipmanın içine vidalanır.
+
+Soru 22 - VR gözlükler ile izlenebilen, gerçek dünyadaki gibi gibi baş hareketiyle görüntü alanını ve istenen içeriği serbestçe görmeyi sağlayan videolar hangi makine ile çekilmiştir?
+A - 3D dijital kamera
+B - Drone kamerası
+C - 360 derece kamera
+D - DSLR kamera
+E - Dijital sinema kamerası
+Doğru Cevap C
+Aciklama VR gözlükler ile izlenebilen bu videolar 360 derece kameralarla çelilmiştir.
+
+Soru 23 - Hangisi bir ses dosyası formatıdır?
+A - BWF
+B - RAW
+C - VHS
+D - HD
+E - SWF
+Doğru Cevap A
+Aciklama Ses, bir bellek kartına veya dahili sabit sürücüye genellikle BWF formatında kaydedilir.
+
+Soru 24 - Aşağıdaki dijital video kameralarla birlikte çalışan harici ekipmanlardan hangisi ses ile ilgilidir?
+A - Jimmy Jib
+B - Steadycam
+C - Gimbal
+D - Dolly
+E - Boom
+Doğru Cevap E
+Aciklama Boom, ortamdan ses almak için kullanılan tepeden sahnenin sesini alan mikrofonların adıdır.
+
+Soru 25 - Aşağıdakilerden hangisi sdtv nin açılımıdır?
+A - Dikey Tanımlı Televizyon
+B - Standart Tanımlı Televizyon
+C - Sosyal Tanımlı Televizyon
+D - Yüksek Tanımlı Televizyon
+E - Genel Tanımlı Televizyon
+Doğru Cevap B
+Aciklama Standart Tanımlı Televizyon
+
+Soru 26 - Aksiyon kameraları gerçekleştirdikleri eyleme göre hangi isimle anılırlar?
+A - Koşucu kameraları
+B - Bakış açısı kameraları
+C - Haber kameraları
+D - Bisiklet kameraları
+E - .Canlı yayın kameraları
+Doğru Cevap B
+Aciklama Bakış açısı kameraları
+
+Soru 27 - Aşağıdakilerden hangisi dijital video kameralarla birlikte çalışan harici ekipmanlardan biri değildir?
+A - Ses kayıt cihazları
+B - Dolly
+C - EİS ve OİS sistemleri
+D - Vinç sistemleri
+E - Boom mikrofon
+Doğru Cevap C
+Aciklama EİS ve OİS sistemleri
+
+Soru 28 - 24 FPS bir görüntüde kaç kere tarama yapılır?
+A - 24
+B - 11
+C - 33
+D - 10
+E - 67
+Doğru Cevap A
+Aciklama 24
+
+Soru 29 - Su altı dronları hangi yıllarda icat edildi?
+A - 1950 lerde
+B - 1965lerde
+C - 1970 lerde
+D - 1980lerde
+E - 2000lerde
+Doğru Cevap A
+Aciklama 1950lerde
+
+Soru 30 - .Üst düzey bir su altı Drone’u kaç metre aşağıya inmektedir?
+A - 4500 m
+B - 2000
+C - 1000
+D - 500
+E - 800
+Doğru Cevap A
+Aciklama 4500m
+
+Soru 31 - Aşağıdakilerden hangisi analog TV yayın sisteminin özelliklerinden biridir?
+A - Birden çok kanal yayını yapılabilir.
+B - Düşük maliyetlidir.
+C - Görüntü formatları PAL, NTSC ve SECAM'dır.
+D - Etkileşime olanak sağlar.
+E - Dijital yayınlara kıyasla daha kaliteli ses ve görüntü kapasitesine sahiptir.
+Doğru Cevap C
+Aciklama Soru 1, analog video tarihine ilişkindir. Metinde, 1956 yılında Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder) ile televizyonda canlı yayınlar dışında bant kaydının mümkün hâle geldiği belirtilmektedir. Bu nedenle doğru cevap, bant kaydının mümkün olmasıdır.
+
+Soru 32 - Televizyonda canlı yayını dışında kaydını mümkün hâle getiren gelişme aşağıdakilerden hangisidir?
+A - VTR (Video Tape Recorder)
+B - Kaset tabanlı tipik elektronik televizyon
+C - Sinematograf
+D - Telekstaf uydusu
+E - Vifaphone ses sistemi
+Doğru Cevap A
+Aciklama Soru 3, analog video tarihindeki bir gelişmeyi sormaktadır. Metinde, '1956: Televizyonda canlı yayınlar dışında bant kaydı mümkün hâle geldi. “Ampex şirketinin geliştirdiği ilk VTR (Videotape recorder-videobant kaydedici) 2 inch (yaklaşık beş santimetre) kalınlığında manyetik makara bantlara kayıt yapan devasa bir aletti ve fiyatı yaklaşık 50.000 dolardı ama tarihte ilk defa video kaydı yapılabiliyordu" ifadesi yer almaktadır. Bu, VTR'nin icadıdır.
+
+Soru 33 - Ebatları DSLR ve aynasız kameralara benzeyen, işlev olarak sinema kameralarına benzer şekilde üst düzey video üretimi yapabilen kamera türü aşağıdakilerden hangisidir?
+A - Dijital Aksiyon Kameraları
+B - Drone Kameralar
+C - Büyük Boy Kameralar
+D - 360 Derece Kameralar
+E - Hibrit Kameralar
+Doğru Cevap E
+Aciklama Hibrit kameralar, DSLR ve aynasız kameraların ebatları ve camcorder/sinema kameralarının işlevlerini birleştiren, büyük sensörlü ürünlerdir. Genellikle belgesel, tanıtım ve reklam prodüksiyonları için kullanılırlar ve üst düzey video üretimi yapabilirler, bu da onları sinema kameralarına yakınlaştırır.
+
+Soru 34 - Video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan tarama işleminin türleri aşağıdakilerden hangisinde verilmiştir?
+A - 625 (PAL) veya 525 (NTSC).
+B - RAW video ve Log
+C - AVCHD, XDCAM
+D - İnterlaced ve Progressive
+E - Avid ve Final Cut Pro
+Doğru Cevap D
+Aciklama Video kameralarda hareketli görüntünün ortaya çıkması için saniyede belirli sayıda kare yakalanır. Bu tarama işlemi Interlaced (birleşik) veya Progressive (aşamalı) olarak iki şekilde gerçekleştirilir ve saniyedeki görüntü toplama süresiyle alakalıdır.
+
+Soru 35 - Video kameralarda mekanik bir aparat kullanmadan per değiştirsin görüntünün yansıttığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
+A - Optik görüntü sabitleme (OIS)
+B - Analog sistem
+C - Elektronik görüntü sabitleme (EIS)
+D - Dijital sistem
+E - Interlaced (i) tarama
+Doğru Cevap C
+Aciklama Video kameralarda sabit lensli modellerde titreşimi önlemek için kullanılan, mekanik bir aparat kullanmadan (tripod, gimbal gibi) elektronik olarak görüntü sabitlemeyi sağlayan sistemler EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) olarak adlandırılır. Hareketli görüntülerin elektronik olarak düzeltilmesi bu sistemlerle sağlanır.
+
+Soru 36 - Mekanik bir aparat kullanmayan ve yer değiştiren görüntünün yarattığı hareket bulanıklığını düzeltmenin tek yöntemi aşağıdakilerden hangisidir? A) Elektronik görüntü sabitleme (EIS) B) Optik görüntü sabitleme (OIS) C) Frame Per Second D) Progressive Tarama E) Interlaced Tarama
+A - Elektronik görüntü sabitleme (EIS)
+B - Optik görüntü sabitleme (OIS)
+C - Frame Per Second
+D - Progressive Tarama
+E - Interlaced Tarama
+Doğru Cevap A
+Aciklama Ünite 3'te, sabit lensli kameraların titreşim problemine değinilmiş ve bu problemin üstesinden gelmek için EİS (Elektronik Görüntü Sabitleme) ve OİS (Optik Görüntü Sabitleme) sistemlerinin kullanıldığı belirtilmiştir. Ancak soruda mekanik aparat kullanmayan ve hareket bulanıklığını düzeltmenin tek yöntemi sorulmuştur. Mekanik aparatlar (Gimbal, vinç, dolly) haricindeki sabitleme yöntemleri EIS ve OIS'tir. Verilen şıklara göre, EIS elektronik olarak çalışır ve mekanik bir aparat değildir. OIS ise...
+
+Soru 37 - Kasklara, bisiklet veya kaykay gibi araçlara monte edilebilen kameralar aşağıdakilerden hangisidir? A) Omuz Kameraları B) El Kameraları C) DSLR Kamera D) Aynasız Kameralar E) Dijital Aksiyon Kameralar
+A - Omuz Kameraları
+B - El Kameraları
+C - DSLR Kamera
+D - Aynasız Kameralar
+E - Dijital Aksiyon Kameralar
+Doğru Cevap E
+Aciklama Dijital Aksiyon Kameralar, kasklara, bisikletlere veya kaykay gibi araçlara monte edilebilen, genellikle küçük ve dayanıklı kamera türleridir. Ünite 3 özetinde aksiyon kameralarının 'bakış açısı kamerası olarak tanımlanan' ve 4K video çekebilen hareketli görüntülerde uzman ikinci kameralar olduğu belirtilmiştir.
+
+Soru 38 - Hızlı ayar gerektiren elektronik haber toplama (ENG) ve gözlemsel belgesel çekimleri için tasarlanmış kameralar aşağıdakilerden hangisidir?
+A - DSLR ve Aynasız Kameralar
+B - Dijital Sinema Kameraları
+C - Hibrit Kameralar
+D - El Kameraları
+E - Büyük Boy Dijital Kameralar
+Doğru Cevap E
+Aciklama Ünite 3'te video kamera çeşitleri sıralanmıştır. El Kameraları (Küçük Boy Dijital Video Kameralar), manuel ayarları az olan, taşıma avantajı sunan, genellikle sabit lensli kameralardır ve hızlı ayar gerektiren elektronik haber toplama (ENG) ve gözlemsel belgesel çekimleri için kullanılırlar.
+
+Soru 39 - Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır çözünürlük standartı aşağıdakilerden hangisinde doğru verilmektedir?
+A - SDTV
+B - 4K TV
+C - HDTV
+D - UHDTV
+E - 1920x1080
+Doğru Cevap A
+Aciklama Ünite 7'de SDTV, HDTV ve UHDTV'den bahsedilmekle birlikte, video sinyal kodlama teknolojileri standartlarından detaylı bahsedilmemiştir. Ancak Ünite 3'te, eski analog kameraların video kayıt sistemleri ve bu sistemlerin günümüz dijital sistemlerine geçişi anlatılmaktadır. CRT ekranlarda genel olarak PAL (625 satır) ve NTSC (525 satır) standartları kullanılmıştır. Bu standartlar, video kameraların analogdan dijitale geçiş sürecinde temelini oluşturmuştur.
+
+Soru 40 - Dijital video kameralarda EIS veya Ois gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
+A - Dolly
+B - 3D Dijital Kameralar
+C - Drone
+D - Gimbal
+E - Jimmy Jib
+Doğru Cevap D
+Aciklama Ünite 3'e göre, dijital video üretiminde dahili EIS ve OIS sistemlerinin dışında, Gimbal, vinç mekanizmaları ve Dolly gibi cihazlar hareketli görüntülerde görüntü sabitlemek için kullanılır. Gimbal, kamerayı akışkan bir hareketli görüntü elde etmesini sağlayan bir sabitleme mekanizmasıdır ve genellikle mobil/elden çekimlerde tercih edilir. Verilen şıklar arasında Gimbal, mekanik bir aparat olarak hareketli video çekimlerinde sabitleme amacıyla kullanılır.
+
+Soru 41 - Çözünürlüğü 625 (PAL) veya 525 (NTSC) satır olarak tanımlanan TV çözünürlük standardı aşağıdakilerden hangisinde doğru verilmektedir?
+A - HDTV
+B - 4K TV
+C - SDTV
+D - UHDTV
+E - 1920x1080
+Doğru Cevap C
+Aciklama PAL (Phase Alternating Line) televizyon sistemi, Avrupa ve diğer bazı bölgelerde kullanılır ve standart dikey çözünürlüğü 625 satırdır. NTSC (National Television System Committee) ise çoğunlukla Kuzey Amerika'da kullanılır ve standart dikey çözünürlüğü 525 satırdır. Bu bilgi Ünite 3 özetinde, dijital video kameraların analogdan dijitale geçişi anlatılırken bahsedilen HDTV ve UHDTV ile ilgili bağlamda yer almaktadır.
+
+Soru 42 - Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
+A - Dijital sistem
+B - Optik görüntü sabitleme (OIS)
+C - İnterlaced (i) tarama
+D - Analog sistem
+E - Elektronik görüntü sabitleme (EIS)
+Doğru Cevap E
+Aciklama Video kameralarda, özellikle hareketli görüntülerde ortaya çıkan mekanik olmayan hareket bulanıklığını (titremeyi) elektronik olarak düzeltmeyi sağlayan sistemler, Ünite 3'te bahsedilen EİS (Elektronik Görüntü Sabitleme) ve OİS (Optik Görüntü Sabitleme) sistemleridir. Ancak, soruda mekanik aparat kullanmadan elektronik olarak düzeltme sağlayan yöntem sorulmaktadır. Dijital video kameraların temel özelliklerinden biri olan görüntü sabitleme için EİS ve OİS sistemleri kullanılır. Metin, bu sisteml...
+
+Soru 43 - Video kameraların görüntülediği ve kayıt altına aldığı saniyedeki kare sayısı aşağıdakilerden hangisiyle tanımlanmaktadır?
+A - Progressive
+B - FPS
+C - İnterlaced
+D - OIS
+E - HDTV
+Doğru Cevap B
+Aciklama Video kameraların saniyede kaydettiği veya gösterdiği kare sayısı FPS (Frames Per Second) olarak tanımlanır. Ünite 3'te, hareketli görüntülerin oluşması için bir saniyede 24 kareden başlayarak değişen değerlerde kameraların görüntü toplaması gerektiği ve FPS ile tarama arasındaki bağlantıdan bahsedilmektedir.
+
+Soru 44 - Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır?
+A - Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
+B - 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
+C - 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
+D - 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.
+E - 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
+Doğru Cevap D
+Aciklama Ünite 3'te, 3D dijital kameraların (FinePix Real 3D System örneği verilerek) üç boyutlu fotoğraflar çekebildiği ve bu fotoğrafların yine üç boyutlu olarak görüntülenebildiği belirtilmiştir. Verilen seçenekler arasında, 3D kameraların sadece fotoğraf çekimi için kullanıldığı bilgisi yanlıştır, çünkü aynı zamanda üç boyutlu görüntüleme yeteneğinden de bahsedilmektedir (metinde 'üç boyutlu fotoğraflar çekilebildiği gibi bu fotoğraflar yine üç boyutlu olarak görüntülenebiliyordu' ifadesi geçmektedir...
+
+Soru 45 - Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
+A - Drone
+B - 3D Dijital Kameralar
+C - Jimmy Jib
+D - Dolly
+E - Gimbal
+Doğru Cevap E
+Aciklama Dijital video kameralarda dahili EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) sistemlerinin dışında, hareketli görüntülerde görüntü sabitlemek için Gimbal (dengeleyici), vinç mekanizmaları ve Dolly gibi harici teknik ekipmanlar kullanılır.
+
+Soru 46 - Dijital video kameralarda EIS veya OIS gibi görüntü sabitleme özelliklerinin olmaması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
+A - Drone
+B - Dolly
+C - Gimbal
+D - 3D Dijital Kameralar
+E - Jimmy Jib
+Doğru Cevap C
+Aciklama Dijital video kameralarda EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) sistemleri bulunmasına rağmen, bu sistemlerin yetersiz kaldığı durumlarda hareketli görüntülerde titreşimi gidermek ve akışkan bir hareket elde etmek için Gimbal, vinç mekanizmaları ve Dolly gibi harici sabitleme ekipmanları kullanılır. Soruda bahsedilen harici araç Gimbal'dır.
+
+Soru 47 - Dijital video kameralarda Eis veya Ois gibi görüntü sabitleme özelliklerinin olması veya yeterli görülmemesi durumunda hareketli görüntüler elde etmek için kullanılan araç aşağıdakilerden hangisidir?
+A - Jimmy Jib
+B - Dolly
+C - 3D Dijital Kameralar
+D - Drone
+E - Gimbal
+Doğru Cevap E
+Aciklama Ünite 3'ün "Video Kameralardaki Dijital Dönüşüm" bölümünde, sabit lensli el kameralarının titreşim sorununu aşmak için firmaların EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi görüntü sabitleyici sistemler geliştirdiği belirtilmiştir. Ayrıca, "Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar" başlığı altında, bu sistemlere ek olarak hareketli görüntülerde görüntü sabitlemek için Gimbal, vinç mekanizmaları ve Dolly isimli cihazların kullanıldığı ifade edil...
+
+Soru 48 - Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır?
+A - 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
+B - Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
+C - 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
+D - 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
+E - 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.
+Doğru Cevap E
+Aciklama 3D kameralar hakkında verilen bilgide, bu kameralarla üç boyutlu fotoğraflar çekilebildiği gibi bu fotoğrafların yine üç boyutlu olarak görüntülenebildiği belirtilmiştir. Ancak metinde 3D kameraların, artırılmış gerçeklik (AR) kavramı ile ilgili deneyimler sunduğu gibi bir ifade geçmemektedir. 3D kameralar, farklı teknolojileri ile izleyicilere farklı deneyimler sunan videolar üretmektedir şeklinde belirtilmiş ancak AR ile doğrudan ilişkilendirilmemiştir. Sorunun bağlamına göre, 3D kameraların A...
+
+Soru 49 - Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
+A - Optik görüntü sabitleme (OIS)
+B - Elektronik görüntü sabitleme (EİS)
+C - Dijital sistem
+D - Interlaced (d) tarama
+E - Analog sistem
+Doğru Cevap B
+Aciklama Video kameralarda sabit lensler kullanıldığında el titremesinden kaynaklanan görüntü titreşimini (hareket bulanıklığını) düzeltmek için kullanılan sistemler EİS (Elektronik Görüntü Sabitleyici) ve OİS (Optik Görüntü Sabitleyici) olarak belirtilmiştir. Metinde, "Eldeki çekim yaparken görüntünün titretilmesi ise başka bir problemdir. Firmalar EİS ve OİS gibi görüntü sabitleyici sistemler ile bu problemin üstesinden gelmek için çalışmalar yürütmüştür." bilgisi yer almaktadır. Hareketli görüntülerde...
+
+Soru 50 - Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
+A - Optik görüntü sabitleme (OIS)
+B - Elektronik görüntü sabitleme (EIS)
+C - İnterlaced (1) tarama
+D - Analog sistem
+E - Dijital sistem
+Doğru Cevap B
+Aciklama Hareketli görüntü sinyallerinde mekanik olmayan sabitleme, elektronik olarak gerçekleştirilir. Dijital video kameralarda, titreşimi elektronik olarak düzelten sistemler EIS (Electronic Image Stabilization) ve OIS (Optical Image Stabilization) olarak adlandırılır. EIS, mekanik bir aparat kullanmadan, elektronik olarak görüntü sabitleme sağlar (Ünite 3).
+
+Soru 51 - Aşağıda 3D video kameralar ile ilgili verilen bilgilerden hangisi yanlıştır?
+A - 3D video üretmek için ortama yerleştirilen en az 6 kameraya ihtiyaç vardır.
+B - 3D görüntünün üretilmesindeki temel prensip iki gözümüzün tek sahneyi birbirinden farklı açılarla görmesidir.
+C - 3D video görüntüleri için kullanılan kameralarda CMOS sensör bulunmaktadır.
+D - 3D video üretmek için iki gözümüzün yerine iki adet kameraya ihtiyaç vardır.
+E - Kullanılan kameralar HDTV sinyallerini kendi yüksek kapasiteli dahili bellek cihazlarına ya da ikiz SD kartlara depolar.
+Doğru Cevap A
+Aciklama Fujifilm FinePix Real 3D System, 2009 yılında tanıtılan dünyanın ilk üç boyutlu (3D) dijital görüntüleme sistemidir. Bu kameralarla hem üç boyutlu fotoğraf çekilebildiği hem de üç boyutlu olarak görüntülenebildiği belirtilmiştir. Ancak, 3D video kameraların doğrudan 3D video çekimine odaklandığı bilgisi metinde özellikle vurgulanmamıştır; 3D fotoğraf çekimi vurgulanmıştır. Ayrıca, 3D kameraların genel olarak VR/AR ile birlikte 'artırılmış gerçeklik' kavramıyla ilişkilendirildiği ve izleyicilere ...
+
+Soru 52 - Aşağıdakilerden hangisi IPTV altyapısının sunduğu hizmetler arasında yer almaz?
+A - VoD (İsteğe Bağlı Video)
+B - Öde-İzle (Pay TV)
+C - İçerik Kaydı (PVR)
+D - Elektronik Program Rehberi (EPG)
+E - Üç Boyutlu İzle (Watch-3D)
+Doğru Cevap E
+Aciklama IPTV (Internet Protocol Television), internet protokol televizyonu anlamına gelir ve kullanıcıların antenler, uydu çanakları veya fiber optik kablolar yerine internet üzerinden televizyon programları almalarını gerektirir. Bu, video içeriğinin doğrudan internet üzerinden yayınlanması demektir. Web TV (İnternet TV) açık internet ağını kullanır, Mobil TV ise hareketli araçlara kablosuz iletim sağlar. Ancak, "kaset vb. depolama araçlarına ihtiyaç" IPTV'nin hizmetlerinden biri değildir; IPTV içeriği...
+
+Soru 53 - Mekân içinde yükseklik, derinlik ve genişlikte; dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan vinç mekanizması aşağıdakilerden hangisi ile tanımlanmaktadır?
+A - OIS
+B - Dolly
+C - Gimbal
+D - Jimmy Jib
+E - Steadicam
+Doğru Cevap D
+Aciklama Görüntü estetiği adına özel bir üretim gerçekleştirilmesini sağlayan, dikey, yatay ve dairesel hareketleri sarsıntı olmaksızın kamerayı taşıyan mekanizmalara Gimbal adı verilir. Bu cihazlar, dijital video üretiminde hareketli görüntülerde görüntü sabitlemek için kullanılır. (Ünite 3, Dijital Hareketli Video Üretimi İçin Gerekli Teknik Ekipmanlar başlığı)
+
+Soru 54 - Video kameralarda mekanik bir aparat kullanmadan yer değiştiren görüntünün yarattığı hareket bulanıklığını elektronik olarak düzeltmeyi sağlayan tek yöntem aşağıdakilerden hangisidir?
+A - Optik görüntü sabitleme (OIS)
+B - İnterlaced (i) tarama
+C - Analog sistem
+D - Dijital sistem
+E - Elektronik görüntü sabitleme (EIS)
+Doğru Cevap E
+Aciklama Ünite 3'te, Elde çekim yaparken görüntünün titremesini önlemek için firmaların EIS (Elektronik Görüntü Sabitleme) ve OIS (Optik Görüntü Sabitleme) gibi sistemler kullandığı belirtilmiştir. Mekanik aparatlar (gimbal, vinç vb.) kullanılmadan hareketi elektronik olarak düzelten sistem EIS veya OIS'tir. Video kameralarda bu, genellikle EIS (Elektronik Görüntü Sabitleme) ile sağlanır.
+
+Unite 4
+Soru 55 - Aşağıdakilerden hangisi bilgisayarın donanım parçalarından biri değildir?
+A - İşlemci
+B - Ekran
+C - Sabit disk
+D - Photoshop
+E - Klavye
+Doğru Cevap D
+Aciklama Bilgisayarı oluşturan bütün fiziksel parçalara donanım adı verilir. Bunlar, işlemci, ekran, sabit disk, fare, klavye, ana ekran vb’dir. Photoshop ise, bir uygulama yazılımıdır.
+
+Soru 56 - LCD teknolojisinin en eski panel türü hangisidir?
+A - TN
+B - IPS
+C - PLS
+D - AHVA
+E - VA
+Doğru Cevap A
+Aciklama TN paneller, LCD teknolojisinin en eski panel türüdür. Düşük maliyetli olduğu için en çok tercih edilen ve en yaygın kullanılan panel tipidir.
+
+Soru 57 - Aşağıdakilerden hangisi “gamut” kavramını tanımlar?
+A - Düşük enerji
+B - Beyaz renk
+C - Renk aralığı
+D - Renk sıcaklığı
+E - Renk metre
+Doğru Cevap C
+Aciklama Gamut, renk aralığı demektir.
+
+Soru 58 - A3 kağıt boyutu aşağıdakilerden hangisidir?
+A - 594 x 841 mm
+B - 420 x 594 mm
+C - 297 x 420 mm
+D - 210 x 297 mm
+E - 148 x 210 mm
+Doğru Cevap C
+Aciklama A serisi kağıt boyutları; A0 841 x 1189, A1 594 x 841, A2 420 x 594, A3 297 x 420, A4 210 x 297, A5 148 x 210, A6 105 x 148 mm’dir.
+
+Soru 59 - İçi katı mürekkeple dolu toner kullanan yazıcı türü hangisidir?
+A - Mürekkep Püskürtmeli
+B - Lazer
+C - Nokta vuruşlu
+D - UV
+E - Isıl
+Doğru Cevap B
+Aciklama Lazer yazıcılar görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanırlar.
+
+Soru 60 - Aşağıdakilerden hangisi sanatçıların eserlerini dijital olarak tescilleyip kripto paralar ile sattığı veri birimidir?
+A - Ram
+B - Bitcoin
+C - NFT
+D - Ethereum
+E - DVD
+Doğru Cevap C
+Aciklama Teknoloji kuşkusuz sanat ve tasarım alanına da fazlası ile girmiş durumdadır. Sanatçılar eserlerini NFT ile tescilleyip kripto paralar ile sattabilmektedir.
+
+Soru 61 - Munsell renk teorisine göre, rengin üç grubu aşağıdakilerden hangisinde doğru verilmiştir?
+A - Red - Green - Blue
+B - Hue - Saturation - Brightness
+C - Saturation - Tint - Shade
+D - Cyan - Magenta - Key
+E - Kontrast - Tint - Hue
+Doğru Cevap B
+Aciklama Rengi sınıflandırmak ve tanımlamak için Albert Munsell 1898’de Munsell renk teorisini ortaya koymuştur. Bu teori rengi Ton (Hue), Doygunluk (Saturation) ve Parlaklık (Brightness) olmak üzere üç grupta tanımlar.
+
+Soru 62 - Aşağıdakilerden hangisi fotoğrafçılıkta ve matbaacılıkta, ekranlardaki görüntü ile basılı çıktıdaki rengi ölçmek ve karşılaştırmak için kullanılan cihazlardan biridir?
+A - Termometre
+B - Higrometre
+C - Pensampermetre
+D - Dozimetre
+E - Dansitometre
+Doğru Cevap E
+Aciklama Fotoğrafçılıkta ve matbaacılıkta, ekranlardaki görüntü ile basılı çıktıdaki rengi ölçmek ve karşılaştırmak için üç ana cihaz kullanılmaktadır. Bunlar dansitometreler, kolorimetreler ve spektrofotometrelerdir.
+
+Soru 63 - Aşağıdakilerden hangisi video çekerken kullanılan sürekli ışıklardan biridir?
+A - Paraflaş
+B - Ring Flaş
+C - Tungsten
+D - Petek
+E - Tas Reflektör
+Doğru Cevap C
+Aciklama Video çekerken kullanılan sürekli ışıklar Tungsten, floresan, projektör ve LED ışıklar olarak sınıflandırılabilir.
+
+Soru 64 - Renkleri değiştirmeden gelen ışık miktarını azaltan filtre grubu hangisidir?
+A - Polarize
+B - UV
+C - IR
+D - ND
+E - Macro
+Doğru Cevap D
+Aciklama ND (Netural Density) filtreler, renkleri değiştirmeden gelen ışık miktarını azaltan filtrelerdir.
+
+Soru 65 - Aşağıdakilerden hangisi, bilgisayarı oluşturan fiziksel parçaların tümüne verilen addır?
+A - Yazılım
+B - REM
+C - Donanım
+D - İşlemci
+E - Hard Disk
+Doğru Cevap C
+Aciklama “Donanım” ve “yazılım” olmak üzere iki temel parçadan oluşur. Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir.
+
+Soru 66 - Bilgisayarların ayrılmaz parçası olan monitörler sürekli değişmekte ve gelişmektedir. Aşağıdakilerden hangi özellik bunlardan biri değildir?
+A - çözünürlük
+B - renk kalitesi
+C - kontrast oranları
+D - boyut
+E - anakart
+Doğru Cevap E
+Aciklama BİLGİSAYARLAR VE MONİTÖRLER Bilgisayarların ayrılmaz parçası olan monitörler de çözünürlük, renk kalitesi, kontrast oranları ve boyut olarak devamlı değişmekte ve gelişmektedir. Anakart bilgisayar donanımındadır.
+
+Soru 67 - Aşağıdakilerden hangisi bilgisayar donanımından biri değildir?
+A - işlemci
+B - ekran
+C - sabit disk
+D - MacOS
+E - klavye
+Doğru Cevap D
+Aciklama Bilgisayarlar Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir. MacOS bir yazılımdır
+
+Soru 68 - Aşağıdakilerden hangisi geçici bellek birimidir?
+A - Hard Disk
+B - DVD
+C - RAM
+D - Flash Disk
+E - CD
+Doğru Cevap C
+Aciklama Bilgisayarlar RAM geçici bellek birimidir
+
+Soru 69 - İşletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Aşağıdakilerden hangisi bunlardan biri değildir?
+A - Photoshop
+B - Chrome
+C - Word
+D - Premiere
+E - BigSur
+Doğru Cevap E
+Aciklama BİLGİSAYARLAR VE MONİTÖRLER şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır
+
+Soru 70 - Monitör özellikleri ile ilgili olarak aşağıdakilerden hangisi doğru değildir?
+A - Çözünürlük arttıkça netlik azalır ve görüntü bozulur.
+B - Monitörlerde görüntü, ışık ile oluşturulur.
+C - Monitör büyüklükleri inç birimi üzerinden ölçülendirilir.
+D - Oyun oynamak için alınması gereken monitör ile fotoğraf işlemek için ya da tasarım yapmak için alınması gereken monitör farklı özelliklere sahip olmalıdır.
+E - Monitörler piksellerden oluşur.
+Doğru Cevap A
+Aciklama Monitörler Çözünürlük azaldıkça netlik azalır ve görüntü bozulur.
+
+Soru 71 - Hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda TN panel tercih edilmemelidir. Aşağıdakilerden hangisi bunu açıklar?
+A - Kontrast oranlarının yüksek olması
+B - Monitöre farklı açılardan bakıldığında görüntü tonlarının farklılaşması
+C - Tepki sürelerinin yüksek olması ve yenileme hızlarının düşük olması
+D - Ekran yenileme hızı düşük olması
+E - Geniş renk aralığına sahip olmaması
+Doğru Cevap B
+Aciklama Monitör Özellikleri Monitöre tam karşıdan baktığımızda ideal görüntüyü alırken, biraz yukarıdan bakıldığında görüntü açık tonlarda görünmeye başlarken biraz aşağıdan bakıldığında görüntü koyulaşır ve belli bir açıdan sonra neredeyse tamamen kaybolur. Bu nedenle hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemelidir
+
+Soru 72 - Her ne kadar dijitalleşme yaygın olsa da hâlen bazı durumlarda tarayıcılara ihtiyaç duyulmaktadır. Böyle durumlarda tarayıcı tercih edilirken dikkat edilmesi gereken en temel özellik/ler aşağıdakilerden hangisidir?
+A - 4 farklı rengin olduğu 4 farklı toner kullanılması
+B - Ön yüzeyine mat ya da parlak laminasyon atılarak korunması
+C - Filament denen sert plastik malzeme kullanılması
+D - Tarayıcının desteklediği maksimum çözünürlük ve renk derinliğidir.
+E - Fosforlu, mıknatıslı, şeffaf, dayanıklı olmak üzere farklı özelliklerde üretilmiş olması
+Doğru Cevap D
+Aciklama Her ne kadar dijitalleşme yaygın olsa da hâlen bazı durumlarda tarayıcılara ihtiyaç duyulmaktadır. Böyle durumlarda tarayıcı tercih edilirken dikkat edilmesi gereken en temel özellikler, tarayıcının desteklediği maksimum çözünürlük ve renk derinliğidir.
+
+Soru 73 - "Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmak istendiğinde, ............ baskı tekniği kullanılır." Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
+A - Lazer
+B - Süblimasyon
+C - Solid ink
+D - Statik elektrik
+E - UV
+Doğru Cevap B
+Aciklama Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmak istendiğinde, Süblimasyon baskı tekniği kullanılır
+
+Soru 74 - .......... cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir. Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
+A - UV baskı
+B - 3 boyutlu baskı
+C - Süblimasyon Baskı
+D - Lazer baskı
+E - Mürekkep baskı
+Doğru Cevap A
+Aciklama UV (ultraviyole) Baskı Yöntemi UV baskı cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir.
+
+Soru 75 - Aşağıdakilerden hangisi renge baktığımızda gördüğümüz, rengin kendisidir?
+A - Kalibrasyon
+B - Doygunluk
+C - Parlaklık
+D - Ton
+E - Dalga boyu
+Doğru Cevap D
+Aciklama RENK YÖNETİMİ VE KALİBRASYON Rengin baskın olan dalga boyunu tanımlar ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran rengin özelliğidir. Daha basit bir tanımla; renge baktığımızda gördüğümüz, rengin kendisidir.
+
+Soru 76 - Aşağıdakilerden hangisi programlama yazılımlarından biridir?
+A - Photoshop
+B - Pascal
+C - Chorome
+D - Word
+E - Premiere
+Doğru Cevap B
+Aciklama Tüm bu yazılımların hazırlandığı ve kullanılabilir hâle getirildiği yani programların oluşturulduğu yazılımlara da programlama yazılımları denir. C++, Pascal, Basic, bu tip yazılımlara örnek verilebilir.
+
+Soru 77 - Eğer oyun oynamak için bir monitör tercih edilecekse, oyunlarda daha akışkan ve gerçekçi bir deneyim sağlamak adına monitörün …………., ………………………. olmalıdır. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar.
+A - boyutu büyük/ kontrastı yüksek
+B - tepki süresi düşük/ ekran yenileme hızı yüksek
+C - IPS panelli/ kontrast oranı düşük
+D - ekranı mat/ ışığı led
+E - ekranı dokunmatik/ çözünürlüğü yüksek
+Doğru Cevap B
+Aciklama Eğer oyun oynamak için bir monitör tercih edilecekse monitörün tepki süresi ve yenileme hızı en önemli iki faktör olacaktır. Oyunlarda görüntüler çok hızlı aktığı için, daha akışkan ve gerçekçi bir deneyim sağlamak adına tepki süresi düşük, ekran yenileme hızı yüksek olmalıdır.
+
+Soru 78 - Aşağıdakilerden hangisi LED ekranların özelliklerinden biri değildir?
+A - Arka panel aydınlatmalıdır
+B - Görüntü kalitesi yüksektir
+C - Enerji tüketimi düşüktür
+D - Gün ışığı altında daha net görüntü üretirler
+E - Her piksel kendi ışığını üretir
+Doğru Cevap A
+Aciklama LED ekranlarda ise arka panelde aydınlatma kullanılmaz. Ekrandaki RGB renkleri, kırmızı yeşil ve mavi renklerde yanan led ışıklar ile oluşturulur. Enerji tüketimleri düşüktür ve her piksel kendi ışığını ürettiği için renkler daha canlı, görüntüler daha parlaktır. Gün ışığı altında daha net görüntü üretirler. Arka panelde aydınlatma olmadığı için siyahlar daha siyah görünür.
+
+Soru 79 - Aşağıdakilerden hangisi günlük hayatta kullandığımız dosya kağıdının A standardı boyutudur?
+A - A1
+B - A2
+C - A3
+D - A4
+E - A5
+Doğru Cevap D
+Aciklama Örnekte görülen A4 boyut, günlük hayatta kullandığımız A4 kâğıdıdır. Değerler mm cinsinden verilmiştir
+
+Soru 80 - Aşağıdaki A standardına göre mm cinsinden verilen kağıt boyutlarından hangisi yanlıştır?
+A - A0=841x1189
+B - A1=594x841
+C - A3= 420x594
+D - A4= 210x297
+E - A6=105x148
+Doğru Cevap C
+Aciklama Gündelik kullanım için üretilen kâğıtlar A B ve C olmak üzere 3 farklı standarttadır. A standardı 1m2 olarak hesaplanır ve A0 olarak adlandırılır. A serisindeki tüm kâğıtlar, bu kâğıttan oranlı olarak kesilerek oluşturulur. (Becer, 2019, s. 159) A0=841 x 1189 A1 =594 x 841 A2=420 x 594 A3=297 x 420 A4 =210 x 297 A5=148 x 210 A6=105 x 148
+
+Soru 81 - Fotoğraftaki görüntünün olması gerekenden koyu olduğu durumlarda histogramda koyuluğu belirten dağ görüntüsü ekranın hangi tarafında oluşur?
+A - Ekranın sağında
+B - Ekranın solunda
+C - Ekranın üstünde
+D - Ekranın altında
+E - Ekranın ortasında
+Doğru Cevap B
+Aciklama Histogramın sol tarafı koyu kısımları, sağ tarafı ise açık kısımları temsil eder. İdeale yakın bir görüntü için histogramdaki görüntünün bir dağ gibi ortada toplanmış olması gerekir.
+
+Soru 82 - Aşağıdakilerden hangisi, güneşten gelen mavi ve mor ötesi ışınları %99 emerek daha berrak görüntü elde edilmesini sağlayan filtrelerdir?
+A - Ultra Viole Filtreler
+B - Polarize Filtreler
+C - Naturel Density filtreler
+D - Renk Düzeltme Filtreleri
+E - Kızıl Ötesi Filtreler
+Doğru Cevap A
+Aciklama UV (UltraViole) filtreler, güneşten gelen mavi ve mor ötesi (ultra viole) ışınları %99 oranında emerek daha berrak görüntü elde edilmesini sağlarlar.
+
+Soru 83 - SD kartlar üzerinde yazılı olan sıralı kayıt hızını gösteren “ ..” harfi ve onu takip eden sayı, kartın sıralı olarak yazabileceği minimum ….. sayısını gösterir. Yukarıdaki boş bırakılan yerlere sırasıyla uygun olan hangi seçenektir?
+A - C, UHS
+B - H, CF
+C - T, SD
+D - 5, MB/s
+E - S, GB
+Doğru Cevap D
+Aciklama Sıralı kayıt hızını gösteren “5” harfi ve onu takip eden sayı, kartın sıralı olarak yazabileceği minimum MB/s sayısını gösterir. Yukarıdaki örnekte gösterilen V30 kart, her saniye karta minimum 30MB veri yazma kapasitesine sahiptir.
+
+Soru 84 - Aşağıdakilerden hangisi 1TB kapasiteyi destekleyen hafıza kartlarıdır?
+A - XQD hafıza kartları
+B - CFexpress hafıza kartları
+C - CFast kartlar
+D - Compact Flash hafıza kartları
+E - SD hafıza kartları
+Doğru Cevap B
+Aciklama CFexpress Hafıza Kartları: Bu kartlar, 1 TB kapasiteyi desteklemektedir. 1700MB/s yazma hızı, 1700MB/s okuma hızı sunabilmektedir.
+
+Soru 85 - Aşağıda verilen seçeneklerden hangisi bir bilgisayar donanımı değildir?
+A - Klavye
+B - Fare
+C - Ekran
+D - Ofis programı
+E - Sabit disk
+Doğru Cevap D
+Aciklama Bilgisayar, giriş birimlerinden aldığı komutları işleyerek çıkış birimleri aracılığı ile gösterir. “Donanım” ve “yazılım” olmak üzere iki temel parçadan oluşur. Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir.
+
+Soru 86 - Aşağıda verilen seçeneklerden hangisi bir veri depolama birimi değildir?
+A - Hard Disk
+B - Flash Disk
+C - CD
+D - DVD
+E - Ekran
+Doğru Cevap E
+Aciklama Klavye, kamera, mikrofon gibi, bilgisayara veri girmek için kullanılan donanım parçaları girdi birimleri olarak adlandırılmaktadır. İçeride işlenen verinin sonuçlarının kullanıcıya ulaştırılması için kullanılan ekran, yazıcı, hoparlör gibi donanımlar ise çıktı birimleri olarak adlandırılır. Tüm bu verilerin saklandığı ve ihtiyaç duyulduğunda yeniden ulaşılabildiği Hard Disk, Flash Disk, CD DVD gibi birimlere ise depolama birimleri adı verilir
+
+Soru 87 - Aşağıda verilen seçeneklerden hangisi bir yazılım değildir?
+A - Photoshop
+B - Chrome
+C - Mikrofon
+D - Word
+E - Premiere
+Doğru Cevap C
+Aciklama İşletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır.
+
+Soru 88 - Aşağıdaki ifade yer alan boşluğu tamamlayan seçenek hangisidir? Nokta sayısı yoğunluğuna ..... denir.
+A - Çözünürlük
+B - Photoshop
+C - Chrome
+D - Mikrofon
+E - Word
+Doğru Cevap A
+Aciklama Monitörlerde görüntü, ışık ile oluşturulur ve monitörler piksellerden oluşur. Monitördeki piksel sayısı ne kadar fazla ise netlik o kadar artar. Nokta sayısı yoğunluğuna çözünürlük denir. Çözünürlük azaldıkça netlik azalır ve görüntü bozulur.
+
+Soru 89 - Aşağıdaki seçeneklerden hangisi bir yazıcı türü değildir?
+A - Nokta Vuruşlu
+B - Mürekkep Püskürtmeli
+C - Lazer
+D - Solid Ink
+E - Negatif film
+Doğru Cevap E
+Aciklama Yazıcılar, renkli ve siyah beyaz çıktı alınabilen; termal, nokta vuruşlu, mürekkep püskürtmeli (inkjet), lazer, süblimasyon ve solid ink gibi farklı özelliklerde baskı yapabilen cihazlardır.
+
+Soru 90 - Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılması ne tür baskı tekniği kullanılır?
+A - Nokta Vuruşlu
+B - Süblimasyon
+C - Mürekkep Püskürtmeli
+D - Lazer
+E - Mürekkep
+Doğru Cevap B
+Aciklama Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmak istendiğinde, Süblimasyon baskı tekniği kullanılır. Süblimasyon baskıda kullanılan mürekkep 180-220 derece ısıda gaz hâline gelip polimer ya da polyester yüzeylere yapışarak bu yüzeyleri boyar.
+
+Soru 91 - Günlük hayatta sıklıkla kullandığımız kağıt boyutunun ölçüsü aşağıdaki seçeneklerden hangisinde verilmiştir?
+A - 594 x 841
+B - 420 x 594
+C - 297 x 420
+D - 210 x 297
+E - 148 x 210
+Doğru Cevap D
+Aciklama A4 boyut, günlük hayatta kullandığımız A4 kâğıdıdır. Değerler mm cinsinden 210 x 297 şeklindedir. .
+
+Soru 92 - Aşağıdaki seçeneklerden hangisi bir fotoğraf kağıdı türü değildir?
+A - Parlak
+B - Mat
+C - Saydam
+D - Saten
+E - İpek
+Doğru Cevap C
+Aciklama Yazıcıdan kaliteli fotoğraf baskıları almak için kullanılan kâğıtlar, fotoğraf kâğıdı olarak adlandırılır. Fotoğraf kâğıdı; parlak (glossy), mat (matte), yarı mat (semi-matte), yarı parlak (semi-gloss), saten (satin) veya ipek (silk) olarak gruplandırılır
+
+Soru 93 - Aşağıdaki seçeneklerden hangisi glossy fotoğraf kağıdı olarak bilinen türü nitelemektedir?
+A - Parlak
+B - Mat
+C - Yarı mat
+D - Saten
+E - İpek
+Doğru Cevap A
+Aciklama Yazıcıdan kaliteli fotoğraf baskıları almak için kullanılan kâğıtlar, fotoğraf kâğıdı olarak adlandırılır. Fotoğraf kâğıdı; parlak (glossy), mat (matte), yarı mat (semi-matte), yarı parlak (semi-gloss), saten (satin) veya ipek (silk) olarak gruplandırılır.
+
+Soru 94 - Aşağıdaki seçeneklerden hangisi silk fotoğraf kağıdı olarak bilinen türü nitelemektedir?
+A - Parlak
+B - Mat
+C - Yarı mat
+D - Saten
+E - İpek
+Doğru Cevap E
+Aciklama Yazıcıdan kaliteli fotoğraf baskıları almak için kullanılan kâğıtlar, fotoğraf kâğıdı olarak adlandırılır. Fotoğraf kâğıdı; parlak (glossy), mat (matte), yarı mat (semi-matte), yarı parlak (semi-gloss), saten (satin) veya ipek (silk) olarak gruplandırılır.
+
+Soru 95 - Farklı açılardan bakıldığında görüntü kalitesi değiştiği için hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemesi gereken monitör panel türü aşağıdakilerden hangisidir?
+A - IPS
+B - 4K
+C - HD
+D - TN
+E - VA
+Doğru Cevap D
+Aciklama Monitörler TN, IPS (PLS, AHVA) ve VA paneller olmak üzere farklı formatlarda üretilir. IPS paneller, geniş görüş açısı ve renk tutarlılığı sağlarken, VA panellerin renk ve kontrast avantajı olmasına rağmen, görüntüleme açısı (farklı açılardan bakıldığında) hassas renk kontrolü gerektiren alanlarda (grafik tasarım gibi) sorun yaratabilir ve bu nedenle tercih edilmeyebilirler.
+
+Soru 96 - Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
+A - Lazer
+B - Mürekkep püskürtmeli
+C - Süblimasyon
+D - Ofset
+E - Dijital
+Doğru Cevap A
+Aciklama Katı hal (Solid State Disk) gibi elektriksel hücreler kullanan yazıcılar değil, termal, nokta vuruşlu, inkjet, lazer ve süblimasyon gibi tipler vardır. Solid Ink, katı mürekkebi eriterek kullanan bir teknoloji iken, burada bahsedilen, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve taşma olmayan baskıyı sağlayan yazıcılar 'Lazer' yazıcılardır.
+
+Soru 97 - ------- filtreler renkleri güçlendiren yapıya sahiptirler. ------- filtreler ise dimer olarak renk kaybı olmadan ışığı doğal şekilde azaltırlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Polarize – UV
+B - ND – UV
+C - UV - ND
+D - ND - Polarize
+E - Polarize - ND
+Doğru Cevap E
+Aciklama Ünite 4'teki bilgilere göre, UV filtreleri lensleri dış etkenlerden korur ancak temel işlevleri bu değildir. ND (Neutral Density) filtreler, ışığı doğal şekilde azaltır ve böylece renk kaybı olmadan pozlamayı ayarlamaya yardımcı olur. Polarize filtreler ise renkleri güçlendirme (doygunluk artırma) eğilimindedir. Cümlede boş bırakılan yerler sırasıyla '--------- filtreler renkleri güçlendiren yapıya sahiptirler' ve '--------- filtreler ise dimer olarak renk kaybı olmadan ışığı doğal şekilde azalt...
+
+Soru 98 - Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?
+A - Yerel sürücü
+B - Ağ depolama (NAS)
+C - RAID
+D - CFast kart
+E - Katı hal diski (SSD)
+Doğru Cevap B
+Aciklama Veri depolama ve yedekleme için kullanılan, çoklu sabit disklerden oluşan, yerel ağ (network) üzerinden erişim sağlayan sistemlere NAS (Network Attached Storage) adı verilir. Bu sistemler veri yedekleme ve güvenli saklama için tercih edilir.
+
+Soru 99 - Bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?
+A - LED
+B - UV
+C - TLCI
+D - CRI
+E - ND
+Doğru Cevap D
+Aciklama Flaşların veya ışık kaynaklarının yaydığı ışığın, doğal güneş ışığı ile karşılaştırıldığında nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değere CRI (Color Rendering Index) değeri denir. CRI değeri ne kadar yüksekse, ışık renkleri o kadar doğal gösterir.
+
+Soru 100 - Aşağıdakilerden hangisi akıllı telefon kameralarının olumsuz özelliklerinden biridir? A) Görüntülerin kolayca paylaşılabilmesi B) Görüntülerin bulut depolama sistemine kolayca yüklenebilmesi C) Kullanım kolaylığı sağlaması D) Ayarların hızlıca yapılabilmesi E) Sağladığı alan derinliğinin fazla olması
+A - Görüntülerin kolayca paylaşılabilmesi
+B - Görüntülerin bulut depolama sistemine kolayca yüklenebilmesi
+C - Kullanım kolaylığı sağlaması
+D - Ayarların hızlıca yapılabilmesi
+E - Sağladığı alan derinliğinin fazla olması
+Doğru Cevap E
+Aciklama Akıllı telefon kameralarının olumsuz özelliklerinden biri, genellikle sabit odaklı lensler kullanmaları ve dijital yakınlaştırma yapmalarıdır. Dijital yakınlaştırma, optik yakınlaştırmanın aksine, görüntü kalitesini düşürür ve gürültü (noise) pahasına kırpma yapar. Seçeneklerde verilen A, B, C, D ve E şıklarından, E şıkkında belirtilen 'Sağladığı alan derinliğinin fazla olması' doğru değildir; aksine, küçük sensörler nedeniyle alan derinliği kontrolünde (sığ alan derinliği yaratmada) sınırlıdırl...
+
+Soru 101 - Halka açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir? A) Analog yayıncılık B) IPTV C) Web TV D) Mobil TV E) Pay TV
+A - Analog yayıncılık
+B - IPTV
+C - Web TV
+D - Mobil TV
+E - Pay TV
+Doğru Cevap C
+Aciklama Web TV (İnternet TV), açık internet ağını kullanmak yoluyla sayısal televizyon hizmetlerini sunan teknolojidir. Bu yayın türünde, televizyonun hem bilgisayara hem de telefon hattına bağlanabilmesiyle, hem televizyon sinyallerini hem de internet hizmetlerini almasına imkân tanınır.
+
+Soru 102 - Aşağıdakilerden hangisi IPTV altyapısının sunduğu hizmetler arasında yer almaz? A) Öde-İzle (Pay TV) B) Üç Boyutlu İzle (Watch-3D) C) VoD (İsteğe Bağlı Video) D) İçerik Kaydı (PVR) E) Elektronik Program Rehberi (EPG)
+A - Öde-İzle (Pay TV)
+B - Üç Boyutlu İzle (Watch-3D)
+C - VoD (İsteğe Bağlı Video)
+D - İçerik Kaydı (PVR)
+E - Elektronik Program Rehberi (EPG)
+Doğru Cevap B
+Aciklama IPTV (Internet Protocol Television), internet protokol televizyonu anlamına gelir ve kullanıcıların antenler, uydu çanakları veya fiber optik kablolar yerine internet üzerinden televizyon programları almalarını gerektirir. IPTV hizmetleri genellikle VOD (İsteğe Bağlı Video), PVR (İçerik Kaydı) ve EPG (Elektronik Program Rehberi) gibi hizmetleri içerir. 3D İzleme (Watch-3D) ise IPTV altyapısının zorunlu veya standart bir özelliği olarak metinde bahsedilmemiştir; bu daha çok yeni ortaya çıkan uygu...
+
+Soru 103 - Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir? A) Polarize filtre B) UV filtre C) ND filtre D) Kızılötesi filtre E) Macro filtre
+A - Polarize filtre
+B - UV filtre
+C - ND filtre
+D - Kızılötesi filtre
+E - Macro filtre
+Doğru Cevap A
+Aciklama Polarize filtreler, yüzeylerden yansıyan ışığı keserek yansıma parlamalarını azaltmak için kullanılır. Ayrıca, iki kat optikten oluşan filtreler olarak da bilinirler. Ünite 4'te Polarize Filtrelerin, ışığın polarizasyonunu kontrol ederek yansımaları azalttığı belirtilmiştir.
+
+Soru 104 - Oyunlarda tercih edilecek monitörün tepki süresi ve yenileme hızı en önemli iki faktördür. Oyunlarda görüntüler çok hızlı aktığı için, daha akışkan ve gerçekçi bir deneyim sağlamak adına tepki süresi düşük, ekran yenileme hızı yüksek olmalıdır. Bu bilgiye göre, aşağıdaki monitör türlerinden hangisi tercih edilebilir?
+A - IPS
+B - TN paneller
+C - PLS
+D - AHVA
+E - VA paneller
+Doğru Cevap B
+Aciklama Ünite 4'te monitörlerin farklı kullanım amaçlarına göre (oyun, fotoğraf işleme, tasarım) farklı özelliklere sahip olması gerektiği belirtilmiştir. Oyunlar için en önemli iki faktör tepki süresi (düşük olmalı) ve ekran yenileme hızıdır (yüksek olmalı). IPS paneller (PLS, AHVA) renk doğruluğu sağlasa da tepki süreleri genellikle TN panellere göre daha yavaştır. TN paneller, en hızlı tepki sürelerini sunarak hareket bulanıklığını en aza indirdiği için oyunlarda tercih edilir.
+
+Soru 105 - Kâğıttan farklı olarak, kumaş, seramik gibi malzemelere baskı yapılmas, istendiğinde aşağıdakilerden hangisi kullanılmalıdır?
+A - Tarayıcılar
+B - Nokta vuruşlu yazıcılar
+C - Süblimasyon baskı tekniği
+D - Lazer yazıcılar
+E - Mürekkep püskürtmeli yazıcılar
+Doğru Cevap C
+Aciklama Ünite 4'te yazıcıların farklı malzemelere baskı yapabilme yeteneklerinden bahsedilmektedir. Geleneksel olarak kâğıt üzerine baskı yapan yazıcıların yanı sıra, kumaş, ahşap, metal gibi yüzeylere baskı yapabilen gelişmiş yazıcıların da mevcut olduğu belirtilmiştir. Bu tür malzemelere doğrudan baskı yapabilen teknolojiler genellikle UV (Ultraviyole) baskı teknolojisi kullanan yazıcılardır.
+
+Soru 106 - Bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?
+A - CRI
+B - LED
+C - TLCI
+D - UV
+E - ND
+Doğru Cevap A
+Aciklama Ünite 4'te ışık kaynaklarının teknik özelliklerinden bahsedilirken, CRI (Color Rendering Index - Renk Geriverim İndeksi) değerinin, üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirleyen bir değer olduğu açıklanmıştır. Yüksek CRI değeri, ışığın renkleri daha doğal ve doğru gösterme yeteneğini ifade eder.
+
+Soru 107 - Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?
+A - Yerel sürücü
+B - CFast kart
+C - Katı hal diski (SSD)
+D - Ağ depolama (NAS)
+E - RAID
+Doğru Cevap D
+Aciklama Ünite 4'te veri depolama çözümlerinden bahsedilmektedir. CD ve DVD'lerin artık tercih edilmediği, yerine SSD diskler ve bulut tabanlı çözümlerin kullanıldığı belirtilmiştir. Ayrıca, 'NAS' (Network Attached Storage - Ağ Üzerinden Erişilebilir Depolama) sistemlerinin, çoklu sabit disklerden oluşan ve yerel ağ üzerinden erişim sağlayan yedekleme sistemleri olduğu belirtilmiştir.
+
+Soru 108 - Açık internet ağını kullanarak sayısal televizyon hizmetleri sunan TV yayıncılık türü aşağıdakilerden hangisidir?
+A - Mobil TV
+B - Web TV
+C - Pay TV
+D - IPTV
+E - Yayıncılık
+Doğru Cevap B
+Aciklama Ünite 4'te Sayısal TV Yayın Türleri başlığı altında, açık internet ağını kullanarak sayısal televizyon hizmetleri sunan teknolojinin Web TV (İnternet TV) olduğu belirtilmektedir. Web TV, televizyonun hem TV sinyallerini hem de internet hizmetlerini almasına imkân tanır.
+
+Soru 109 - Bir ışık kaynağının, doğal güneş ışığı ile karşılaştırıldığında, nesnenin tam ve doğal renklerini gösterebilme yeteneğini ölçen değer aşağıdakilerden hangisidir?
+A - TLCI
+B - CRI
+C - LED
+D - UV
+E - Polarize
+Doğru Cevap B
+Aciklama Ünite 4'te, LED ışık tercih edilirken bilinmesi gereken en önemli noktalardan birinin ışığın CRI (Color Rendering Index) değeri olduğu belirtilmiştir. CRI değeri, üretilen ışığın doğal ışığa ne kadar yakın olduğunu belirler; yani bir ışık kaynağının doğal güneş ışığı ile karşılaştırıldığında nesnelerin tam ve doğal renklerini gösterebilme yeteneğini ölçer.
+
+Soru 110 - Görüntüyü oluşturmak için, içi mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
+A - Ofset
+B - Mürekkep püskürtmeli
+C - Süblimasyon
+D - Lazer
+E - Dijital
+Doğru Cevap D
+Aciklama Söz konusu tanım (toner, statik elektrik, ısıtma ile katı mürekkep aktarımı) Lazer yazıcıların çalışma prensibini açıklamaktadır. Ünite 4'te yazıcılar termal, nokta vuruşlu, mürekkep püskürtmeli (inkjet), lazer ve süblimasyon olarak sınıflandırılmıştır. Lazer yazıcılar, tonerleri eriterek kalıcı ve dağılma yapmayan baskılar üretir.
+
+Soru 111 - Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir?
+A - Polarize filtre
+B - Macro filtre
+C - ND filtre
+D - Kızılötesi filtre
+E - UV filtre
+Doğru Cevap A
+Aciklama 1şığı kesip yansıtma parlamalarını azaltmak için kullanılan, iki kat optikten oluşan filtreler Polarize Filtreler'dir. Bu filtreler, özellikle parlak yüzeyli nesnelerin çekimlerinde yansımaları kontrol etmek için kullanılır.
+
+Soru 112 - Çekilen fotoğraflar üzerinde renk, keskinlik, ışık ve kompozisyon düzenlemeleri, çekilen fotoğrafların gruplandırılması, keyword girilmesi gibi birçok işlemin yapılmasına olanak sağlayan yazılım aşağıdakilerden hangisidir?
+A - Adobe Photoshop
+B - Capture One Pro
+C - Helicon focus
+D - Adobe Bridge
+E - Rescue Pro Deluxe
+Doğru Cevap C
+Aciklama Ünite 4'te yazılımlar anlatılmıştır. Capture One Pro, çekilen fotoğraflar üzerinde renk, keskinlik, ışık, kompozisyon düzenlemeleri, gruplandırma, dosyalama ve keyword girilmesi gibi birçok işlemin yapılmasına olanak sağlayan bir yazılımdır. Photoshop ise genel amaçlı bir işleme yazılımıdır.
+
+Soru 113 - Görüntüyü oluşturmak için, içi katı mürekkeple dolu tonerler kullanan, statik elektrik ile katı mürekkebi kâğıt üzerine ısıtarak aktaran ve böylece kâğıt üzerinde herhangi bir dağılma veya taşma olmadan baskı yapılabilen yazıcılar hangi tip yazıcılardır?
+A - Ofset
+B - Süblimasyon
+C - Mürekkep püskürtmeli
+D - Lazer
+E - Dijital
+Doğru Cevap D
+Aciklama Soru, katı mürekkep (Solid Ink) yazıcıları tanımlamaktadır. Solid Ink yazıcılar, katı hâldeki mürekkebi (toneri) eriterek, statik elektrik yardımıyla kâğıt üzerine aktarır ve bu sayede renklerin dağılmadan veya taşmadan keskin çıktılar alınmasını sağlar. Ünite 4'te lazer ve mürekkep püskürtmeli yazıcılar yaygın olarak bahsedilirken, solid ink de bir tür olarak belirtilmiştir (SSD'ler ile karıştırılmamalıdır, SSD depolama birimidir).
+
+Soru 114 - Renk metre ya da renk ölçer (colorimeter) adı verilen cihazın temel kullanım amacı aşağıdakilerden hangisidir?
+A - LUT kalibrasyonu
+B - Poz ölçümü
+C - Monitör kalibrasyonu
+D - 1şık ölçümü
+E - Beyaz ayarı
+Doğru Cevap C
+Aciklama Ünite 4'te 'Monitör Kalibrasyonu' altında, renk metre (ColoriMeter) cihazlarının, monitörün renk ve parlaklık ayarlarını ortam ışığından bağımsız olarak doğru ayarlamaya yardımcı olduğu belirtilmiştir.
+
+Soru 115 - Su, cam gibi yüzeylerden yansıyarak objektife giren ışığı kesip yansıma parlamaları azaltan, iki kat optikten oluşan filtrelere ne ad verilir?
+A - Kızılötesi filtre
+B - ND filtre
+C - Macro filtre
+D - UV filtre
+E - Polarize filtre
+Doğru Cevap E
+Aciklama Polarize filtreler, su, cam gibi yüzeylerden yansıyan ışığı azaltmak için kullanılır. Bu filtreler, iki kat optikten oluşan filtreleme yaparak yansıma parlamalarını keser ve renklerin doygunluğunu artırır. (Ünite 4, Filtreler listesi)
+
+Soru 116 - LCD teknolojisinin en eski panel türü aşağıdakilerden hangisidir?
+A - PLS
+B - IPS
+C - TN
+D - VA
+E - AHVA
+Doğru Cevap C
+Aciklama Monitörler TN, IPS (PLS, AHVA) ve VA paneller olmak üzere farklı formatlarda üretilirler. TN (Twisted Nematic) paneller, LCD teknolojisindeki en eski panel türüdür (Ünite 4).
+
+Soru 117 - Aşağıdakilerden hangisi zarar gören ve kaybolan dosyaları kurtarmak için kullanılan yazılımlardan biridir?
+A - Set A Light 3D
+B - Capture One Pro
+C - Photoshop
+D - Helicon Focus
+E - Stellar Data Recover
+Doğru Cevap E
+Aciklama Rescue Pro Deluxe ve Stellar Data Recover, zarar gören ve kaybolan dosyaları kurtarmak için sıklıkla kullanılan yazılımlardandır. Ünite 4'te Yedekleme ve Veri Kurtarma Yazılımları altında bu yazılımların adı geçmektedir.
+
+Soru 118 - Veri depolama ve yedekleme için kullanılan, çoklu hard disklerden oluşan, yerel ağ ya da internet üzerinden içerisindeki verilere erişim sağlanabilen ünitelere ne ad verilir?
+A - RAID
+B - Ağ depolama (NAS)
+C - Katı hal diski (SSD)
+D - CFast kart
+E - Yerel sürücü
+Doğru Cevap B
+Aciklama Ünite 4'te, yedekleme ve veri kurtarma yazılımları başlığı altında, iki ve daha fazla sayıda sabit diskten network sistemi kurarak çalıştıran NAS (Network Attached Storage) sistemlerinin, yerel ağ ya da internet üzerinden veri erişimi sağladığı belirtilmiştir. Bulut tabanlı depolama da bir alternatiftir.
+
+Soru 119 - Aşağıdakilerden hangisi temel düzey monitör gruplarından biri değildir?
+A - VGA
+B - AMOLED
+C - OLED
+D - LED
+E - LCD
+Doğru Cevap A
+Aciklama Ünite 4'te monitörler farklı panel formatlarında TN, IPS (PLS, AHVA) ve VA paneller olarak sınıflandırılmıştır. AMOLED, OLED ve LED/LCD ise ekran teknolojileridir, ancak VGA (Video Graphics Array) eski bir analog video çıkış standardıdır ve temel monitör gruplamasına dahil edilen panel teknolojisi değildir.
+

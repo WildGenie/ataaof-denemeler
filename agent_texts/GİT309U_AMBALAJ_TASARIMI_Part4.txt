@@ -1,0 +1,724 @@
+AMBALAJ TASARIMI dersi ünite 7-8 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 7
+Soru 1 - Aşağıdakilerden hangisi Ambalaj tasarımının marka yönetimindeki rollerinden biri olan korumayı açıklar?
+A - Müşterilerin duyularına, tercihlerine ve ihtiyaçlarına hitap ederek onlarla duygusal bir bağ kurabilecek, markanın kişiliğini, ses tonunu, güven ve sadakati teşvik ediyor olması.
+B - Akılda kalıcı bir izlenim yaratarak satış noktasında müşterilerin dikkatini ve ilgisini çekebilecek, müşterilerin duygularını, anılarını ve çağrışımlarını tetikleyerek satın alma kararlarını etkilemesi.
+C - Taşıma, depolama ve tüketim sırasında ürünün güvenliği, bütünlüğü, işlevselliği sağlayacak ürünün kullanılabilirliği ve sürdürülebilirliği sağlaması
+D - Müşterileri ürünün özellikleri, faydaları, kullanımı ve kalitesi hakkında bilgilendirerek, ürünün farklılığını ve değer önerisini vurgulayarak müşterileri ürünü satın almaya ikna edebilmesi.
+E - Logo, renk, şekil, tipografi ve görseller gibi görsel unsurlar aracılığıyla markanın konumunu, değerlerini ve niteliklerini yansıtabilir aynı zamanda farklı ürünler ve kategoriler arasında tutarlı ve tanınabilir bir marka kimliği oluşturabilmesi
+Doğru Cevap C
+Aciklama Taşıma, depolama ve tüketim sırasında ürünün güvenliği, bütünlüğü, işlevselliği sağlayacak ürünün kullanılabilirliği ve sürdürülebilirliği sağlaması ambalaj tasarımının marka yönetimindeki rollerinden biri olan korumayı açıklar.
+
+Soru 2 - Ambalaj üzerinde sergilenen içerik maddeleri, beslenme bilgileri, kullanım talimatları ve sertifikalar bize neyi açıklar?
+A - Algılanan Kalite ve Değer
+B - Marka Kimliği ve Tanınırlığı
+C - Duygusal Bağlantı ve Deneyim
+D - Görsel Çekicilik
+E - Ürün Bilgisi ve İletişim
+Doğru Cevap E
+Aciklama Ambalaj üzerinde sergilenen içerik maddeleri, beslenme bilgileri, kullanım talimatları ve sertifikalar, tüketicilerin ürünün ihtiyaçlarına uygunluğunu yani ürün bilgisini ve müşterilerle iletişimi sağlar.
+
+Soru 3 - Bir markanın değerlerini tüketicilere faydalı bir şekilde iletme yoluna …. denir. Yukarıda boşluk bırakılan yere aşağıdakilerden hangisi gelmelidir?
+A - Tasarım
+B - Görsel
+C - Kalite
+D - Ambalaj
+E - Baskı
+Doğru Cevap D
+Aciklama Ambalaj, bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur.
+
+Soru 4 - Aşağıdakilerden hangisi Hunter’a göre tanımlanan beş ana müşteri tipinden biri değildir?
+A - Sık sık alışveriş yapan ancak kararlarını indirimlerin büyüklüğüne göre veren indirimli müşteriler.
+B - Müşteri tabanının yüzde 50’sinden fazlasını temsil etmeyen ancak satışların yüzde 20’sinden fazlasını oluşturan müşteriler
+C - Aklında belirli bir ihtiyaç olmayan, bir deneyim veya topluluk duygusu kazanmayı arzu eden gezgin müşteriler
+D - İhtiyaca dayalı müşteriler
+E - Belirli bir ürünü satın almayı düşünmeyen, ancak o anda iyi görünen şeyleri satın alan anlık müşteriler.
+Doğru Cevap B
+Aciklama Müşteri tabanının yüzde 20’sinden fazlasını temsil etmeyen ancak satışların yüzde 50’sinden fazlasını oluşturan sadık müşteriler olmalı.
+
+Soru 5 - Markanın özgün güçlerinin ortaya çıkmasına yardımcı olan en geniş potansiyel etki alanı aşağıdakilerden hangisidir?
+A - Sipariş
+B - Ulusal
+C - Küresel
+D - Bölgesel
+E - Lisanslama
+Doğru Cevap C
+Aciklama En geniş potansiyel etki alanı “küresel”dir.
+
+Soru 6 - Aşağıdakilerden hangisi markalaşma için kullanılan ifadelerden biri değildir?
+A - Hedef kitledeki müşteriyi çeken ve elde tutabilen bir ürün için pazarda önemli ve farklılaştırılmış bir konum sağlamaktır.
+B - Reklam kampanyaları ve ambalaj malzemeleri aracılığıyla sunulur.
+C - Akılda kalıcı bir isimdir.
+D - Tüketicinin zihninde bir ürün için benzersiz bir isim ve imaj yaratılmasını çevreleyen bütünsel bir süreçtir.
+E - Hedef kitleye odaklanarak, ilgili ürünün tüketici deneyimini ergonomi, kullanım kolaylığı ve fonksiyonellik açısından arttırmaya çalışır.
+Doğru Cevap E
+Aciklama “Hedef kitleye odaklanarak, ilgili ürünün tüketici deneyimini ergonomi, kullanım kolaylığı ve fonksiyonellik açısından arttırmaya çalışır” cümlesi, ergonomi ve kullanışlılık gibi fiziksel deneyime yönelik ifadeler içerir. Bu nedenle söz konusu cümle markalaşma değil ambalaj tasarımı için uygun bir ifadedir.
+
+Soru 7 - Un ve şeker ambalajlarında kullanılan mavi ve beyaz renkler ne anlama karşılık gelir?
+A - Sağlık ve enerji
+B - Seçkinlik ve pahalılık
+C - Geleneksel ve muhafazakâr
+D - Tazelik ve saflık
+E - Lüks ve kaliteye
+Doğru Cevap D
+Aciklama Un ve şeker ambalajlarında kullanılan mavi ve beyaz renkler tazelik ve saflığa atıf yapar.
+
+Soru 8 - Aşağıdakilerden hangisi ambalaj tasarımında ergonominin önemini açıklamaz?
+A - Çevresel hususlar
+B - Kullanım kolaylığı
+C - Kullanıcı deneyimi
+D - Arketip
+E - Güvenlik
+Doğru Cevap D
+Aciklama “Arketip” ambalaj tasarımında ergonominin önemini açıklamaz.
+
+Soru 9 - Aşağıdaki ifadelerden hangisi marka kişiliği için doğru değildir?
+A - Bir marka kişiliği insanların önemsediği konuların içinde yer alıyorsa başarılı bir stratejidir.
+B - Tüketicilerin bağlantı kurdukları kişilik bir pazarlama hilesi olması durumunda kimliksiz şirketlerden daha fazla güvenemezler.
+C - Bir ürün özellikle ürünün sahibi ile bağlantılı ise, tüketicilerde duygusal bir ilişki geliştiren bir şeye dönüşme yeteneğine sahiptir.
+D - Marka kişilikleri bir şirketin bir ürünü üretme konusundaki uzun tecrübesine odaklanabilir.
+E - Marka kişilikleri, tüketicilerde bir güven bağı kurulmasına yardımcı olmak üzere geliştirilmiştir.
+Doğru Cevap B
+Aciklama Tüketicilerin bağlantı kurdukları kişilik bir pazarlama hilesi olsa dahi kimliksiz şirketlerden veya markalardan daha fazla güvenme eğilimindedir
+
+Soru 10 - Aşağıdakilerden hangisi ambalaj tasarımında ergonominin önemini verimlilik ve üretkenlik ile açıklayan bir tanımlanmadır?
+A - Sürdürülebilirliği ve çevresel etkileri dikkate almak zorundadır.
+B - Kalite ve detaylara gösterilen özen ile müşteriye gösterilen saygıya yansıtarak olumlu bir marka algısı yaratabilir.
+C - Potansiyel tehlikelerin belirlenmesine ve en aza indirilmesine yardımcı olur.
+D - Kullanıcıların gücü, el becerisi ve hareket aralığı gibi fiziksel yeteneklerini dikkate almaktadır.
+E - Hem son kullanıcılar hem de sektör profesyonelleri için ambalajlama süreçlerinin verimliliğini uygun hale getirmeye odaklanır.
+Doğru Cevap E
+Aciklama Verimlilik ve Üretkenlik, ergonomi hem son kullanıcılar hem de sektör profesyonelleri için ambalajlama süreçlerinin verimliliğini uygun hale getirmeye odaklanır.
+
+Soru 11 - Tasarımcıların ve ajansların markalaşma süreçlerinde temelde sekiz adımlı bir yol haritası üzerinden çalışmalarına yön verdiği gözlenmektedir. Buna göre "müşteri, hedef kitle, satış kanalı, bütçe, zaman çizelgesi gibi projenin ayrıntılarının ve gereksinimlerinin sunulduğu" adım aşağıdakilerden hangisidir?
+A - Bilgilendirme aşaması
+B - Proje planlama
+C - Araştırma
+D - Tasarım
+E - Pazar incelemesi
+Doğru Cevap A
+Aciklama Tasarımcıların ve ajansların markalaşma süreçlerinde temelde sekiz adımlı bir yol haritası üzerinden çalışmalarına yön verdiği gözlenmektedir. Bunlar, 1. Bilgilendirme aşaması: Bu aşamada müşteri, hedef kitle, satış kanalı, bütçe, zaman çizelgesi gibi projenin ayrıntılarını ve gereksinimlerini sunar. 2. Proje planlama: Projenin kapsamının, süreç ve kaynaklarının planladığı aşamadır. 3. Araştırma: Tasarımcının veya ajansın, müşterilerin ihtiyaçlarını ve tercihlerini ve sektördeki en iyi uygulamal...
+
+Soru 12 - Ürün bilgisi, Duygusal bağ, Sürdürülebilirlik, Yukarıdakilerden hangisi ya da hangileri ambalajın tüketici davranışı üzerindeki genel etkisine katkıda bulunmaktadır?
+A - Yalnız 1
+B - 1 ve 2
+C - 1 ve 3
+D - 2 ve 3
+E - 1, 2 ve 3
+Doğru Cevap E
+Aciklama Görsel çekicilik, marka bilinirliği, ürün bilgisi (1. öncül doğru olur), algılanan kalite, duygusal bağ (2. öncül doğru olur) ve sürdürülebilirlik (3. öncül doğru olur), ambalajın tüketici davranışı üzerindeki genel etkisine katkıda bulunmaktadır. Bu bilgilere göre Doğru Cevap E seçeneğidir.
+
+Soru 13 - Başarılı bir ambalaj tasarımının ilk adımı aşağıdakilerden hangisidir?
+A - Tasarımın hitap edeceği ana kitleyi belirlemek,
+B - Ürüne güven duyulmasını sağlamak,
+C - Markayı hem temsil eden hem de destekleyen mesajları hızlı bir şekilde iletmek,
+D - Ambalajın fiziksel özellikleri ile markanın verdiği mesajlar arasında doğrudan bir ilişki kurmak,
+E - Gerçekten önemli olan nitelikleri belirlemek ve bunlara odaklanmaktır.
+Doğru Cevap A
+Aciklama Ambalaj tasarımı, bir ürünü sunan bir form yaratmak yerine, ötesine geçerek doğrudan hedef kitleyle iletişim kuran ve böylece olumlu bir bağlantı kuran algılar üretir. Başarılı ambalaj tasarımı için bu bağlamda iki ana faktörün göz önünde bulundurulmasını gerektirir. Bunlar "Hedef Kitle" ve "Karakter Profili"dir. Bu doğrultuda başarılı bir ambalaj tasarımının ilk adımı, tasarımın hitap edeceği ana kitleyi belirlemektir. Dolayısıyla Doğru Cevap A seçeneğidir.
+
+Soru 14 - Herhangi bir sektörde, bir marka ambalajının amaç ve niyet olmak üzere iki farklı işlevi vardır. Buna göre aşağıdakilerden hangisi ambalajın niyet işlevinin özellikleri arasında yer alır?
+A - Bir ürünün belirli bir hacmini veya ölçüsünü içerme,
+B - Nakliye süreci boyunca ve mağazada sergilenmesi sırasında kirlenmeden saklama,
+C - Potansiyel alıcıların dikkatini çekme ve çeşitli marka değerlerini hızlı bir şekilde iletme,
+D - Verimli bir şekilde taşınmasını ve istiflenmesini kolaylaştırma,
+E - Ürün niteliklerini belirli bir süre boyunca koruma,
+Doğru Cevap C
+Aciklama Herhangi bir sektörde, bir marka ambalajının amaç ve niyet olmak üzere iki farklı işlevi vardır. Amaç bir ürünü korumak ve sunmak için ambalajın fiziksel olarak ne yapması gerektiğiyle ilgilidir. Ambalaj, bir ürünün belirli bir hacmini veya ölçüsünü içerecek, nakliye süreci boyunca ve mağazada sergilenmesi sırasında kirlenmeden saklayacak, kolay ve verimli bir şekilde taşınmasını ve istiflenmesini kolaylaştıracak, ürün niteliklerini belirli bir süre boyunca koruyacak (bir ürünün taze kalmasını v...
+
+Soru 15 - Bir şirketin pazardaki genel prestijini, geleneğini, uzmanlığını ve itibarını kullanarak, müşterilerin şirketin nitelikli ürünler sunduğunu bilmesini sağlamak için kullanılmaktadır. Farklı ürün çeşitleri için, bir ana şirket markasına bağlıymış gibi sunulan markalar bulunur. Ana markaya herhangi bir atıfta bulunmadan her çeşitlilik için geliştirilen bir markayı tanımlar. Yukarıda markaların benzersizlik ölçütleri ifade edilmiştir. Buna göre aşağıdakilerden hangisinde bu ölçütler doğru bir biçimde eşleştirilmiştir.
+A - 1. Onaylayıcı Marka - 2. Tek-Baskın Marka (Monolitik) - 3. Bağımsız Marka
+B - 1. Tek-Baskın Marka (Monolitik) - 2. Onaylayıcı Marka - 3. Bağımsız Marka
+C - 1. Bağımsız Marka - 2. Onaylayıcı Marka - 3. Tek-Baskın Marka (Monolitik)
+D - 1. Tek-Baskın Marka (Monolitik) - 2. Bağımsız Marka - 3. Onaylayıcı Marka
+E - 1. Onaylayıcı Marka - 2. Bağımsız Marka - 3. Tek-Baskın Marka (Monolitik)
+Doğru Cevap B
+Aciklama Tek-Baskın Marka (Monolitik): Bir şirketin pazardaki genel prestijini, geleneğini, uzmanlığını ve itibarını kullanarak, müşterilerin şirketin nitelikli ürünler sunduğunu bilmesini sağlamak için kullanılan tek bir markadır. Dolayısıyla 1. Tek-Baskın Marka (Monolitik) olacaktır. Onaylayıcı Marka: Farklı ürün çeşitleri için, bir ana şirket markasına bağlıymış gibi sunulan markalar bulunur. Dolayısıyla 2. Onaylayıcı Marka olacaktır. Bağımsız Marka: Ana markaya herhangi bir atıfta bulunmadan her çeşi...
+
+Soru 16 - Aşağıdakilerden hangisi retoriğin eşit aralıklarla ilerleyen beş adımından biri değildir?
+A - İcat
+B - Düzenleme
+C - Hafıza
+D - Kültür
+E - Sunum
+Doğru Cevap D
+Aciklama Tasarımcıların ambalaj tasarımında kullanabileceği pek çok ikna edici iletişim aracı vardır ve bunların çoğu, etkili iletişim kurmak için dili kullanmakla ilgilenen eski bir söylem sanatı olan retorik ilkelerinde bulunabilir. Retoriğin eşit aralıklarla ilerleyen beş adımı vardır. Bunlar icat veya keşif, düzenleme, üslup, hafıza ve sunumdur. Bunlar arasında Kültür bulunmadığından Doğru Cevap D seçeneğidir.
+
+Soru 17 - Ürünün açıkça olmadığı bir şeyin yerine kullanılması olarak ifade edilen mizah türü aşağıdakilerden hangisidir?
+A - Karşılaştırma
+B - Ekleme
+C - İkame
+D - Kişileştirme
+E - Göz yanılması
+Doğru Cevap C
+Aciklama Mizah çok uzun zamandır bir öğrenme aracı olarak başvurulan ve reklamcılıkta insanlarla bir bağ kurmak için yaygın olarak kullanılan bir yöntem olmuştur. Tasarımda tipik olarak kullanılan mizah türleri aşağıda incelenmiştir: 1. Karşılaştırma: Bir ürünün açıkça olmayan bir şey ile kıyaslanmasını içermektedir. 2. Kişileştirme: Ürünü temsil eden mizahi bir marka kişiliğinin yaratılmasıdır. 3. Abartma: Bir şeyi olduğundan fazla abartmak ve büyütmektir. 4. Ekleme: Bir öğenin anlamını değiştiren bir u...
+
+Soru 18 - Ürünler arasında çok az fark olduğunda bir ürünle duygusal bağlantılar kurmak için kullanılan referans aşağıdakilerden hangisidir?
+A - Aliterasyon
+B - Retorik
+C - Ethos
+D - Pathos
+E - Logos
+Doğru Cevap D
+Aciklama Ethos, Pathos ve Logos, Aristoteles’e göre hedef kitlemizi, işverenimizi, proje paydaşlarımızı, konuştuğumuz ve yazdığımız muhatabımızı, bildiğimiz ve doğruluğuna inandığımız bir şeye ikna etmek için kullandığımız üç temel referanstır. Ethos (Etik) bir anlatıcının otoritesine ve statüsüne duyulan güvenle ikna edici bir çekicilik yaratmaya çalışır. Marka yöneticilerinin tüketicilerin algılarıyla bağlantı kuran bir marka kişiliği geliştirmeye çalışmaları bunun sonucudur. Pathos (Empati) izleyicini...
+
+Soru 19 - Kullanıcı verimliliğini en üst düzeye çıkaran, kullanım zorluklarını azaltan tasarım disiplini aşağıdakilerden hangisidir?
+A - Bilgi hiyerarşisi
+B - Form
+C - Tasarım
+D - Biçim
+E - Ergonomi
+Doğru Cevap E
+Aciklama Ambalajın biçimi, maliyeti ve yeterli fiziksel işlevleri sağlayabilecek, uygun malzemeler ile formun geliştirilmesidir. Tasarım, insanları satın almaya ikna etmek için gereken cazibeyi yaratmak amacıyla bir hikâye veya bir anlatı oluşturmayı amaçlar. Bir ürünün ambalajında aktarılması gereken ürün veya marka bilgilerinin önem sırası ve hiyerarşisine karar verilerek bu bilgilerin açık ve anlaşılır şekilde sunulmasını sağlanmalıdır. Biçim, nesnenin neye benzediği ve bunun anlattığı tasarım fikri i...
+
+Soru 20 - Kullanıcıların gücü, el becerisi ve hareket aralığı gibi fiziksel yeteneklerini dikkate alan, ambalaj tasarımında ergonominin önemi anlatan ifade aşağıdakilerden hangisidir?
+A - Kullanıcı deneyimi
+B - Kullanım kolaylığı
+C - Güvenlik
+D - Erişebilirlik
+E - Verimlilik
+Doğru Cevap B
+Aciklama Ambalaj tasarımında ergonominin önemi aşağıdaki açıklamalar ile tanımlanmaktadır. a. Kullanıcı Deneyimi: Ergonomi, tutması, açması ve kapatması kolay ambalajlar tasarlayarak genel kullanıcı deneyimini geliştirmeyi amaçlar. Ambalajın sezgisel olmasını sağlayarak ürüne erişmek ve kullanmak için gereken çabayı azaltır. Bu da müşteri memnuniyetini artırır ve hatta satın alma kararlarını etkileyebilir. b. Güvenlik: Ergonomi, ambalaj tasarımıyla ilişkili potansiyel tehlikelerin belirlenmesine ve en az...
+
+Soru 21 - Ambalaj tasarımının iki farklı işlevinden bahsedilebilir. Bunlardan ilki "temel amaçlar" olarak düşünebileceğimiz: güvenlik, koruma, fiziksel dayanıklılık, bilgilendirme ve etiketleme, taşınabilirlik, kullanım kolaylığı, görünüm ve sürdürülebilirliktir. Diğer işlev ise "----- " olarak yorumlayabileceğimiz: dikkat ve ilgi çekme, motivasyon oluşturma, arzu ve istek uyandırmadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Yaratıcı amaçlar
+B - Yan amaçlar
+C - İnovasyon
+D - Niyet ve hedefler
+E - Araştırma geliştirme
+Doğru Cevap D
+Aciklama Ünite 7'de, ambalajın iki farklı işlevinden bahsedilmiştir. Birincisi temel amaçlar (güvenlik, koruma, taşıma, kullanım kolaylığı vb.) iken, ikincisi, boş bırakılan yere karşılık gelen 'niyet' veya 'hedef' odaklı amaçlardır: dikkat ve ilgi çekme, motivasyon oluşturma, arzu ve istek uyandırma (Amaç ve Niyet başlığı altında). Bu bağlamda boş bırakılan yer 'Niyet ve hedefler' ile doğru tamamlanır.
+
+Soru 22 - Marka yönetimi sürecinin temel adımlarından biri olan ve marka sahiplerine markalarını daha etkili bir şekilde yönetme ve geliştirme imkânı sağlayan sürece ne ad verilir?
+A - Pazar araştırması
+B - Kurum kimliği
+C - Marka analizi
+D - Tüketici anketi
+E - Araştırma geliştirme
+Doğru Cevap C
+Aciklama Ünite 7'de Markalaşmanın Temelleri başlığı altında, ambalajın bir markanın imajını ve kimliğini oluşturmada kritik rol oynadığı belirtilmiştir. Marka analizi, bir markanın gücünü, değerini ve algılanışını anlamak için yapılan ayrıntılı bir inceleme sürecidir ve bu analiz, marka sahiplerine markayı yönetme ve geliştirme konusunda temel oluşturur.
+
+Soru 23 - Aşağıdakilerden hangisi ambalaj tasarımında izlenen yol haritasındaki adımlardan biri değildir?
+A - Deneysel tasarım
+B - Tasarım
+C - Bilgilendirme
+D - Baskıya hazırlık
+E - Proje planlama
+Doğru Cevap A
+Aciklama Ünite 7'de, tasarımcıların ve ajansların izlediği yol haritası sekiz adım olarak listelenmiştir: 1. Bilgilendirme aşaması, 2. Proje planlama, 3. Araştırma, 4. Tasarım, 5. Kavramsal Tasarım, 6. Tasarım iyileştirme, 7. Baskıya hazırlık, 8. Pazar incelemesi. Deneysel tasarım (A şıkkı) bu listede yer almamaktadır; bu süreçler daha çok Fikir Bulma, Eskizler ve Prototipleme (Ünite 3) aşamalarına karşılık gelir.
+
+Soru 24 - Belirli bir ürün veya marka ile özdeşleşen tipografik bir çözüm yaratmayı, tüketiciyle yazı tipi aracılığıyla zihinsel ve duygusal bir bağ kurmayı hedefleyen tasarım yaklaşımı aşağıdakilerden hangisidir?
+A - Tipografik hiyerarşi
+B - Tipografik sınırlandırma
+C - Sürdürülebilir tipografi
+D - Sahiplenilebilir tipografi
+E - Kontrast tipografi
+Doğru Cevap D
+Aciklama Tipografi, yazı karakterlerinin tasarımı, düzenlenmesi ve kullanımıyla ilgilenen bir sanat ve bilim dalıdır. Başarılı tipografik çözüm, hedef kitleye uygun olarak tasarlanır ve metinlerin okunabilirliğini, anlaşılabilirliğini artırır. Bu yaklaşım, bir markanın kimliğini yazı tipi aracılığıyla ileterek tüketiciyle zihinsel ve duygusal bağ kurmayı hedefler.
+
+Soru 25 - Ana markaya bir atıfta bulunmadan çeşitlilik için geliştirilen, her bir markaya farklılaşma ve uzmanlaşma için fırsat sunarken ana yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap veren marka türü aşağıdakilerden hangisidir?
+A - Monolitik marka
+B - Bağımsız marka
+C - Özgün marka
+D - Onaylayıcı marka
+E - Temsili marka
+Doğru Cevap B
+Aciklama Bağımsız Marka modeli, ana markaya herhangi bir atıfta bulunmadan bir ürün çeşitliliği için geliştirilen markayı tanımlar. Bu yaklaşım, her bir markaya farklılaşma ve uzmanlaşma için maksimum fırsatlar sunarken, ana markanın olası olumsuz algılarından etkilenmesini önler ve pazarın spesifik ihtiyaçlarına cevap verir.
+
+Soru 26 - İşletmelerin potansiyeli yüksek markalarını 'kiralamasına' olanak sağlayarak, bir tarafın başka bir tarafa sözleşmede belirtilen süre boyunca üretim haklarını yasal bir biçimde devretmesine ne ad verilir?
+A - Lisanslama
+B - Kurumsallaşma
+C - Pazarlama
+D - Markalaşma
+E - Küreselleşme
+Doğru Cevap A
+Aciklama Lisanslama, işletmelerin potansiyeli yüksek markalarını 'kiralamasına' olanak tanıyan sözleşmelerdir. Bu düzenlemede, bir taraf, bir süre boyunca üretim haklarını yasal olarak başka bir tarafa devreder. Bu, markanın kimliğinin ve itibarının korunarak yeni pazarlara açılmasına yardımcı olabilir.
+
+Soru 27 - bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur. Örneğin bir kutu içeceği ele alırsak: kutu sıvıyı muhafaza etmek için bir araçtır, ise ürünle ilgili bir dizi değeri temsil eder. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?
+A - Marka / reklam
+B - Reklam / logo
+C - Ambalaj / marka
+D - Pazarlama / ambalaj
+E - Reklam / ambalaj
+Doğru Cevap C
+Aciklama Boş bırakılan yerler ambalajın temel rollerini ifade etmektedir. Metne göre, 'Ambalaj genellikle bir tüketicinin markayla ilk temas noktasıdır' ve 'Ambalaj, bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur.' Kutunun kendisi (fiziksel ambalaj) ürünü koruma aracıdır, marka ise ürünle ilişkilendirilen değerleri temsil eder. Bu nedenle boşluklar sırasıyla 'ambalaj' ve 'marka' ile tamamlanmalıdır.
+
+Soru 28 - Aşağıdakilerden hangisi ambalaj tasarımında malzeme değildir?
+A - Marka imajı
+B - Ürünü koruma
+C - Tüketici deneyimi
+D - Maliyet
+E - Orijinallik
+Doğru Cevap E
+Aciklama Ünite 7'de, başarılı bir ambalaj tasarımının temel unsurları sıralanmıştır: Görsel Etki ve Markalaşma, Basitlik ve Netlik, Marka Kimliği, Görsel Hiyerarşi, Yenilikçi ve İşlevsel Tasarım, Özgünlük ve Hikâye Anlatımı, Hedef Kitle Uyumu ve Sürdürülebilirlik ve Çevre Bilinci. Bu unsurların hepsi tasarım kararlarını (form, malzeme, estetik vb.) etkileyen kriterlerdir. Orijinallik (E şıkkı), Özgünlük ve Hikâye Anlatımı başlığı altında bir tasarım kriteri olarak geçmektedir. Ürünü koruma (B), Tüketici ...
+
+Soru 29 - ...... bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur. Örneğin bir kutu içeceği ele alırsak: kutu sıvıyı muhafaza etmek için bir araçtır, ...... ise ürünle ilgili bir dizi değeri temsil eder. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?
+A - Pazarlama / ambalaj
+B - Reklam / ambalaj
+C - Ambalaj / marka
+D - Marka / reklam
+E - Reklam / logo
+Doğru Cevap C
+Aciklama Ambalajın kendisi fiziksel koruma ve sunum aracı iken, markalaşma ile ambalaja yüklenen kimlik ve değerler iletilir. Ünite 7'de belirtildiği gibi, ambalajın fiziksel özellikleri ile markanın yansıtmak istediği mesajlar arasında doğrudan bir ilişki olmalıdır; ambalaj ürünün fiziksel ihtiyaçlarını karşılarken (kutu sıvıyı muhafaza etmek), marka ise algısal değerleri (marka kimliği ve vaat edilen değerleri) temsil eder. (Ünite 7: Ambalaj, bir ürünü korumaktan ve fiziksel dağıtımını kolaylaştırmakta...
+
+Soru 30 - Geçmişten günümüze birçok ulusal marka, toplumun bir parçası haline gelmiştir. İnsanların birlikte büyüdükleri ve yetişkinlik dönemleri boyunca nostaljik bir bağlılık duymaya devam ettikleri pek çok ürün örneği vardır. Bu durumun örnekleri özellikle gıda ürünleri için oldukça fazladır. Yukarıdaki paragrafta anlatılan marka türü aşağıdakilerden hangisidir?
+A - Popüler markalar
+B - Nostaljik markalar
+C - Duygusal markalar
+D - Sadakat markaları
+E - Kültür markaları
+Doğru Cevap E
+Aciklama Ünite 7'de 'Kültür Markaları' başlığı altında, 'Geçmişten günümüze birçok ulusal marka, toplumun veya popüler kültürün bir parçası haline gelmiştir, insanlar yaşamları boyunca pek çok ürünle nostaljik bir bağlılık duymaya devam ettikleri görülür.' ifadesi yer almaktadır. Bu, E şıkkındaki Kültür Markaları tanımına uymaktadır.
+
+Soru 31 - İnsani eylemleri ve kararları yönlendiren, temel insan arzularının ve korkularının sembolik temsillerine ne ad verilir?
+A - Ethos
+B - Logos
+C - Pathos
+D - Arketip
+E - Retorik
+Doğru Cevap D
+Aciklama Ünite 7'de, Arketipler başlığı altında 'Arketipler, eylemlerimizi ve kararlarımızı yönlendiren temel insan arzularının ve korkularının sembolik temsilleridir. Psikolog Carl Jung'un, 12 ana arketip tanımlayan çalışmalarına dayanır.' denilmektedir. Bu, D şıkkındaki Arketip tanımına uymaktadır.
+
+Soru 32 - Aşağıdakilerden hangisi Hunter'a göre, beş ana müşteri tipinden biri değildir?
+A - İhtiyaç temelli
+B - İndirim kovalayan
+C - Amaçsızca dolaşan
+D - Yeni müşteri
+E - Sadık müşteri
+Doğru Cevap D
+Aciklama Hunter'a göre ana müşteri tipleri Sadık Müşteri, İndirim Kovalayan, Alışveriş Dürtüsü, İhtiyaç Temelli ve Amaçsızca Dolaşan'dır. 'Tek-Baskın Marka' bu müşteri tiplerinden biri değildir; o bir marka stratejisi türüdür. (Ünite 7: Hunter'a göre başlıca beş ana müşteri tipi olduğunu öne sürüyor: 1. Sadık Müşteri, 2. İndirim Kovalayan, 3. Alışveriş Dürtüsü, 4. İhtiyaç Temelli, 5. Amaçsızca Dolaşan)
+
+Soru 33 - ------, bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur. Örneğin bir kutu içeceği ele alırsak: kutu sıvıyı muhafaza etmek için bir araçtır, ------ ise ürünle ilgili bir dizi değeri temsil eder. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru şekilde tamamlar?
+A - Reklam / ambalaj
+B - Reklam / logo
+C - Pazarlama / ambalaj
+D - Marka / reklam
+E - Ambalaj / marka
+Doğru Cevap E
+Aciklama Ünite 7'de 'Markalaşmanın Temelleri' başlığı altında, 'Ambalaj, bir markanın değerlerini tüketicilere faydalı bir şekilde iletmenin yoludur. Örneğin bir kutu içeceği ele alırsak: kutu sıvıyı muhafaza etmek için bir araçtır, [marka] ise ürünle ilgili bir dizi değeri temsil eder.' denilmektedir. Bu, ambalajın fonksiyonel yönü ile markanın (değerleri temsil eden unsur) ayrımını netleştirir. Boşlukları sırasıyla 'Ambalaj' ve 'marka' tamamlar.
+
+Soru 34 - Aşağıdakilerden hangisi ambalaj tasarımı ve markalaşma süreçlerine dahil olan unsurlardan biri değildir?
+A - Ses tonu
+B - Mizah
+C - Retorik
+D - Renk
+E - Parapsikoloji
+Doğru Cevap E
+Aciklama Ünite 7'de Başarılı Ambalaj Tasarımının Temel Unsurları arasında Görsel Etki ve Markalaşma, Basitlik ve Netlik, Marka Kimliği, Görsel Hiyerarşi, Yenilikçi ve İşlevsel Tasarım, Özgünlük ve Hikâye Anlatımı, Hedef Kitle Uyumu ve Sürdürülebilirlik/Çevre Bilinci sayılmıştır. 'Ergonomi' (kullanım kolaylığı ve işlevsellik), Yapısal Tasarımın bir parçası olup (Ünite 5), markalaşma stratejilerinin temel unsurları arasında doğrudan listelenmemiştir (ancak dolaylı olarak işlevsellik ile ilişkilidir).
+
+Soru 35 - İşletmelerin potansiyeli yüksek markalarını 'kiralamasına' olanak sağlayarak, bir tarafın başka bir tarafa sözleşmede belirtilen süre boyunca üretim haklarını yasal bir biçimde devretmesine ne ad verilir?
+A - Pazarlama
+B - Markalaşma
+C - Lisanslama
+D - Küreselleşme
+E - Kurumsallaşma
+Doğru Cevap C
+Aciklama Ünite 7'de 'Lisanslama' başlığı altında, 'Lisanslama işletmelerin potansiyeli yüksek markalarını esasen 'kiralamasına' olanak tanıyan sözleşmelerdir. Bir tarafın başka bir tarafa sözleşmede belirtilen süre boyunca üretim haklarını yasal bir biçimde devretmesi' şeklinde tanımlanmıştır.
+
+Soru 36 - Ana markaya bir atıfta bulunmadan çeşitlilik için geliştirilen, her bir markaya farklılaşma ve uzmanlaşma için fırsat sunarken ana markanın olumsuz yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap veren marka türü aşağıdakilerden hangisidir?
+A - Monolitik marka
+B - Onaylayıcı marka
+C - Özgün marka
+D - Bağımsız marka
+E - Temsili marka
+Doğru Cevap D
+Aciklama Bağımsız Marka modeli, ana markaya herhangi bir atıfta bulunmadan, her çeşitlilik için geliştirilen markaları tanımlar. Bu yaklaşım, markanın farklılaşma ve uzmanlaşma için maksimum fırsatlar sunmasını sağlarken, ana markanın algılanan olumsuz yönleri tarafından engellenmeden pazarın ihtiyaçlarına cevap vermesine olanak tanır (Ünite 7).
+
+Soru 37 - Markalaşma yaklaşımı olarak ele alındığında, "Google" aşağıdaki hangi marka modeline bir örnektir?
+A - Onaylayıcı marka
+B - Sınırsız marka
+C - Monolitik marka
+D - Bağımsız marka
+E - Lisanslı marka
+Doğru Cevap C
+Aciklama Onaylayıcı Marka modelinde, farklı ürün çeşitleri için, bir ana şirket markasına bağlıymış gibi sunulan markalar bulunur. Google, farklı ürünler ve hizmetler için tek bir ana marka altında çeşitli ürünler sunması nedeniyle onaylayıcı marka modeline bir örnektir. (Ünite 7).
+
+Soru 38 - Ambalaj tasarımı müşterilerin duyularına, tercihlerine ve ihtiyaçlarına hitap ederek onlarla duygusal bir bağ kurabilecek, markanın kişiliğini, ses tonunu, sade ve sadakati teşvik edebilecektir. Yukarıda ifade edilen özellikler ambalaj tasarımının marka yönetimindeki rollerinden hangisini tanımlar?
+A - İnşa etme
+B - İletişim
+C - Marka kimliği ifadesi
+D - Koruma
+E - Satış
+Doğru Cevap A
+Aciklama Ünite 7'de Ambalaj Tasarımının Marka Yönetimindeki Rolleri listelenmiştir. İnşa etme rolü şu şekilde tanımlanır: 'Müşterilerle duygusal bir bağ kurabilen, markanın kişiliğini ve güvenini kazanan demektir.' Soru metninde geçen 'duygusal bir bağ kurabilecek', 'markanın kişiliğini', 'güvenini' ve 'sadakati teşvik edebilecektir' ifadeleri doğrudan İnşa Etme (A şıkkı) rolünü tanımlamaktadır.
+
+Unite 8
+Soru 39 - "İnsan faaliyetleri sonucunda doğal çevreye yayılan zararlı maddelerin neden olduğu olumsuz etkilerin genel adıdır." Yukarıda verilen tanım aşağıdaki seçeneklerden hangisine aittir?
+A - Çevresel kirlilik
+B - Hava kirliliği
+C - Su kirliliği
+D - Toprak kirliliği
+E - Gürültü kirliliği
+Doğru Cevap A
+Aciklama Çevresel kirlilik, insan faaliyetleri sonucunda doğal çevreye yayılan zararlı maddelerin neden olduğu olumsuz etkilerin genel adıdır.
+
+Soru 40 - Ambalaj Atıklarının Kontrolü Yönetmeliğinin hangi tarihte yapılan değişikliklerle Avrupa Birliği standartları ile uyumu hedeflenmiştir?
+A - 2018
+B - 2016
+C - 2014
+D - 2012
+E - 2010
+Doğru Cevap A
+Aciklama 1991 tarihli Ambalaj Atıklarının Kontrolü Yönetmeliği ambalaj atıklarının geri dönüşüm ve bertaraflarını resmi olarak düzenleyen ilk yönetmeliklerden bir tanesidir. 2005 yılında yürürlüğe giren bir sonraki Ambalaj Atıklarının Kontrolü Yönetmeliği ise bir önceki yönetmeliğin kapsamını teşvik vb. konuları da içerecek şekilde genişletmiştir. 2012 tarihinde bir kere daha revize edilen yönetmelik, kaynağında ayrıştırma ve çevre dostu malzemeler gibi konuları da içermektedir. 2018 tarihinde yapılan de...
+
+Soru 41 - Aşağıdakilerden hangisi hem üreticilere hem de tüketicilere ek mali yükler getirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmek için kullanılan düzenlemelerden biri değildir?
+A - Teşvik
+B - Yasaklama
+C - Vergilendirme
+D - Ücretlendirme
+E - Gönüllülük
+Doğru Cevap A
+Aciklama • Yasaklama • Vergilendirme • Ücretlendirme • Gönüllülük
+
+Soru 42 - Aşağıda bazı ülkelere ait tek kullanımlık plastik torbalar konusundaki düzenleme örnekleri verilmiştir. Bu eşleştirmelerden hangisi doğru değildir?
+A - Fransa- Gönüllülük
+B - Arjantin- Yasaklama
+C - Bulgaristan- Ücretlendirme
+D - Çin- Ücretlendirme
+E - Portekiz-Gönüllülük
+Doğru Cevap A
+Aciklama Ülke Tek kullanımlık ambalajların azaltılması yönündeki düzenleme türü Arjantin Yasaklama Belçika Vergilendirme, Gönüllülük Bulgaristan Ücretlendirme Çin Ücretlendirme Danimarka Vergilendirme, Ücretlendirme Fransa Yasaklama Kenya Yasaklama, Vergilendirme Portekiz Gönüllülük Türkiye Yasaklama, Ücretlendirme Birleşik Krallık Ücretlendirme
+
+Soru 43 - Ambalajlar dahil endüstriyel ürünlerin yaşam döngüsünde en son basamak aşağıdakilerden hangisidir?
+A - Faydalı ömür sonu
+B - Kullanım
+C - Nakliye
+D - Üretim
+E - Hammaddenin seçimi/üretilmesi
+Doğru Cevap A
+Aciklama 1. Hammaddenin seçimi/üretilmesi 2. Üretim 3. Nakliye 4. Kullanım 5. Faydalı ömür sonu
+
+Soru 44 - Aşağıdaki malzemelerden hangisi, küresel ambalaj pazarında hammadde olarak kullanım oranı açısından en yüksek olanıdır?
+A - Plastikler
+B - Kağıt/Karton
+C - Metaller
+D - Cam
+E - Diğer Malzemeler
+Doğru Cevap A
+Aciklama Kağıt/Karton- %33 Plastikler- %45 Metaller- %12 Cam- %6 Diğer Malzemeler- %4
+
+Soru 45 - "Atık malzemelerin orijinal amacı veya başka amaçlar için ürünlere, malzemelere veya hammaddeye dönüştürüldüğü tüm geri kazanım işlemleridir." Yukarıda verilen tanım aşağıdaki seçeneklerden hangisine aittir?
+A - Geri dönüşüm
+B - Faydalı ömür sonu
+C - Nakliye aşaması
+D - Yüzey işlemleri
+E - Mekanik birleştirme
+Doğru Cevap A
+Aciklama Geri dönüşüm “atık malzemelerin orijinal amacı veya başka amaçlar için ürünlere, malzemelere veya hammaddeye dönüştürüldüğü tüm geri kazanım işlemleri” olarak tanımlanmaktadır (European Union, 2018).
+
+Soru 46 - Temizleme işleminde mürekkepler kağıt liflerinden kaç şekilde uzaklaştırılabilir?
+A - İki
+B - Üç
+C - Dört
+D - Beş
+E - Altı
+Doğru Cevap A
+Aciklama Temizlenme sürecinde kağıt püresinden uzaklaştırılması gereken önemli kirleticilerden bir tanesi de mürekkeplerdir. Mürekkepler liflerden iki temel şekilde uzaklaştırılabilirler: 1. Yıkama ile mürekkep uzaklaştırma 2. Yüzdürme ile mürekkep uzaklaştırma
+
+Soru 47 - Mürekkep uzaklaştırma puanlarına göre 71-100 puan arası hangi şekilde sınıflandırılır?
+A - İyi
+B - Kötü
+C - Tolere edilebilir
+D - Vasat
+E - Uygun değil
+Doğru Cevap A
+Aciklama Puanlama / Skor 71-100 puan arası İyi 51-70 puan arası Vasat 0-50 puan arası Tolere edilebilir Eksi puan Mürekkep uzaklaştırma için uygun değil (ancak mürekkeplerden temizlenmeden düşük kaliteli kağıtlara geri dönüştürülebilir)
+
+Soru 48 - Aşağıdakilerden hangisi kalite veya saflığında herhangi bir önemli kayıp olmaksızın neredeyse sınırsız kere geri dönüştürülebilen malzemelerden biridir?
+A - Cam
+B - Metal
+C - Plastik
+D - Kağıt
+E - Karton
+Doğru Cevap A
+Aciklama Cam, kalite veya saflığında herhangi bir önemli kayıp olmaksızın neredeyse sınırsız kere geri dönüştürülebilen birkaç malzemeden biridir. Geri dönüşüm sırasında bozulabilen veya bazı nitelik veya niceliklerini kaybedebilen metaller, plastikler veya kağıtların aksine, cam kullanımını engelleyecek bir kalite kaybı yaşamadan tekrar tekrar geri dönüştürülebilecek bir malzemedir.
+
+Soru 49 - Aşağıdakilerden hangisi küresel ısınma, ozon tabakasının aşınması, biyo çeşitlilikteki azalma gibi doğal çevreyi ve dolayısıyla insanoğlunu etkileyen tahribatlardan bir tanesidir?
+A - Çevresel kirlilik
+B - Ambalaj kullanmamak
+C - Çok ürün satışı yapmak
+D - Organik üretim
+E - Elde üretim
+Doğru Cevap A
+Aciklama Çevresel kirlilik küresel ısınma, ozon tabaka- sının aşınması, biyoçeşitlilikteki azalma gibi doğal çevreyi ve dolayısıyla insanoğlunu etkileyen tahri- batlardan bir tanesidir.
+
+Soru 50 - Kirlilik türleri arasında canlı hayatını en doğrudan etkileyen kirlilik türü hangisidir?
+A - Hava
+B - Akarsu
+C - Çevre
+D - Deniz
+E - Irmak
+Doğru Cevap A
+Aciklama Hava kirliliği, kirlilik türleri arasında canlı ha- yatını en doğrudan etkileyen bir kirlilik türüdür. Canlılar toprak ve su ile temastan kaçınabilseler de nefes almadan veya hava ile temas etmeden yaşayamazlar.
+
+Soru 51 - Aşağıdakilerden hangisi veya hangileri mikroplastiklerin gıda olarak tüketilen deniz canlıları aracılığı ile insanlara taşınması sıralamasıdır?
+A - Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer
+B - Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Mikroplastikler ambalajdan çözünür
+C - Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer
+D - Mikroplastikler ambalajdan çözünür Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer
+E - Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer Deniz canlılarının bünyesine geçer
+Doğru Cevap A
+Aciklama Mikroplastiklerin gıda olarak tüketilen deniz canlıları aracılığı ile insanlara taşınması şeması Mikroplastikler ambalajdan çözünür Akarsu/deniz/göllere karışır Deniz canlılarının bünyesine geçer Deniz canlısı gıda olarak tüketilir Mikroplastikler insan bünyesine geçer
+
+Soru 52 - Aşağıdakilerden hangisi mikroplastikleri insan sağlığına verdiği zararlardan biri değildir?
+A - Üreme sistemini etkilememesi
+B - Oksidatif stres (vücutta biriken serbest radikallerin DNA gibi hücresel seviyedeki bileşenlere zarar ermesi)
+C - Sitotoksisite (zehirli maddelerin hücrelere zarar vermesi)
+D - Bağışıklık problemleri
+E - Kanser riski
+Doğru Cevap A
+Aciklama Mikroplastikleri insan sağlığına verdiği zararlar şu başlıklar altında özetlenebilir (Rahman ve ark.., 2021): Oksidatif stres (vücutta biriken serbest radikallerin DNA gibi hücresel seviyedeki bileşenlere zarar ermesi) Sitotoksisite (zehirli maddelerin hücrelere zarar vermesi) Bağışıklık problemleri Sinir sistemi problemleri Üreme sistemi ile ilgili problemler Kanser riski
+
+Soru 53 - Doğal toprak tabakalarının insan etkinlikleri sonucunda zararlı maddelerle kirlenmesi durumunu neyi ifade eder?
+A - Toprak kirliliği
+B - Hava kirliliği
+C - Akarsu kirliliği
+D - Deniz kirliliği
+E - Çevre kirliliği
+Doğru Cevap A
+Aciklama Toprak kirliliği, doğal toprak tabakalarının insan etkinlikleri sonucunda zararlı maddelerle kirlenmesi durumunu ifade eder.
+
+Soru 54 - Üretim, tüketim ve hizmet süreçlerinde atık oluşumunun önlenmesi/azaltılması, ye- niden kullanıma öncelik verilmesi, oluşan atıkların ise kaynağında ayrı biriktirilerek toplanması ve geri dönüşüm ve/veya geri kazanımına ne denmektedir?
+A - Sıfır atık
+B - Çevrenin korunması
+C - Halk sağlığı
+D - Yenilikçi çözüm
+E - Teşvik
+Doğru Cevap A
+Aciklama Sıfır atık: Üretim, tüketim ve hizmet süreçle- rinde atık oluşumunun önlenmesi/azaltılması, yeniden kullanıma öncelik verilmesi, oluşan atıkların ise kaynağında ayrı biriktirilerek toplanması ve geri dönüşüm ve/veya geri kazanımının sağlanarak bertarafa gönderilecek atık miktarının azaltılması suretiyle çevre ve insan sağlığının ve tüm kaynakların korunmasını hede eyen yaklaşım.
+
+Soru 55 - Atık Çerçeve Yönergesi hangi yılda yürürlüğe girmiştir?
+A - 2018
+B - 2017
+C - 2016
+D - 2015
+E - 2014
+Doğru Cevap A
+Aciklama Atık Çerçeve Yönergesi (2018/851)” ise 2018 yılında yürürlüğe girmiştir.
+
+Soru 56 - Tek Kullanımlık Plastikler Yönergesi hangi tarihde yürürlüğe girmiştir?
+A - 2019
+B - 2018
+C - 2017
+D - 2016
+E - 2015
+Doğru Cevap A
+Aciklama Eklenen son yönerge ise 2019 yılındaki “Tek Kullanımlık Plastikler ile ilgili Yönerge”dir
+
+Soru 57 - Bazı düzenlemeler, hem üreticilere hem de tüketicilere ek mali yükler getirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmekte, yönlendirmektedirler. Aşağıdakilerden hangisi bu düzenlemelerden biri değildir? olabilmektedir:
+A - Cezalandırma
+B - Yasaklama
+C - Vergilendirme
+D - Ücretlendirme
+E - Gönüllülük
+Doğru Cevap A
+Aciklama Aynı zamanda bazı düzenlemeler, hem üreticilere hem de tüketicilere ek mali yükler ge- tirdiği için yenilikçi ve çevre dostu ambalajların tasarlanmasını teşvik etmekte, yönlendirmektedirler. Bu düzenlemeler farklı şekillerde olabilmektedir: • Yasaklama • Vergilendirme • Ücretlendirme • Gönüllülük
+
+Soru 58 - Ambalajlar dahil endüstriyel ürünlerin yaşam döngüsü basamakları aşağıdakilerden hangisinde doğru olarak sıralanmıştır?
+A - Hammaddenin seçimi/üretilmesi Üretim Nakliye Kullanım Faydalı ömür sonu
+B - Üretim Nakliye Kullanım Faydalı ömür sonu Hammaddenin seçimi/üretilmesi
+C - Hammaddenin seçimi/üretilmesi Üretim Kullanım Faydalı ömür sonu Nakliye
+D - Hammaddenin seçimi/üretilmesi Kullanım Faydalı ömür sonu Nakliye Üretim
+E - Hammaddenin seçimi/üretilmesi Nakliye Üretim Kullanım Faydalı ömür sonu
+Doğru Cevap A
+Aciklama Ambalajlar da, kitabın önceki bölümlerinde pek çok defa belirtildiği gibi içerdikleri üründen bağımsız olarak, tek başlarına ele alınması gereken endüstriyel ürünlerdir. Dolayısı ile ambalajların yaşam döngüleri diğer endüstriyel ürünler ile büyük ölçüde benzerdir. Ambalajlar dahil endüstriyel ürünlerin yaşam döngü- sü basamakları şu şekilde sıralanmaktadır: Hammaddenin seçimi/üretilmesi Üretim Nakliye Kullanım Faydalı ömür sonu Ambalajlar, diğer tüm endu...
+
+Soru 59 - Aşağıdakilerden hangisi ambalaj atıklarını ve çevreye verilen zararı azaltmak için kullanılan ambalaj türlerinden biri değildir?
+A - Biyoplastik ambalaj
+B - Yok olan ambalaj
+C - Yenebilir ambalaj
+D - Plastik ambalaj
+E - Geri dönüşümlü ambalaj
+Doğru Cevap D
+Aciklama Ünite 8, ambalajın çevre üzerindeki etkilerini ve bu etkileri azaltma yollarını inceler. Geri dönüşüm (recycling), yeniden kullanım (re-use) ve yeniden doldurma (refill) çevreye olan zararı azaltma yöntemleridir. Yeniden kullanım (re-use) ve iade (returning) de bu kapsamdadır. Ancak 'Tekrar doldurma (refill)' ise yeniden kullanımın bir senaryosudur, tek başına bir azaltma türü olarak değil, yeniden kullanım başlığı altında ele alınır. Ancak seçenekler daha genel azaltma türlerini kapsadığı için,...
+
+Soru 60 - Fonksiyonel açıdan ele alındığında ambalaj malzemelerinin seçiminde, malzemenin ve maliyeti gibi özellikler ön plana çıkar. Yukarıdaki cümlede boş bırakılan yeri doğru şekilde aşağıdakilerden hangisi tamamlar?
+A - Estetiği
+B - Dikkat çekiciliği
+C - Yalınlığı
+D - Orijinalliği
+E - Koruyuculuğu
+Doğru Cevap E
+Aciklama Ünite 8'de Hammaddenin Elde Edilmesi/Malzeme Seçimi Aşaması anlatılırken, ambalaj tasarımında malzeme seçimini etkileyen faktörler arasında ürünü koruma, maliyet, estetik gibi faktörlerin yanı sıra 'koruyuculuk' özelliğinin de önemli olduğu vurgulanmaktadır. Fonksiyonel açıdan ele alındığında ambalajın temel işlevi içeriği korumaktır, bu da malzeme seçiminde en temel kriterlerden biridir.
+
+Soru 61 - ilkelerinin benimsenmesi, karbon ayak izini en aza indirirken ürünün yaşam döngüsünü en üst düzeye çıkarabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Aktif tasarım
+B - Temel tasarım
+C - Yaşam boyu tasarım
+D - Akıllı tasarım
+E - Bütüncül tasarım
+Doğru Cevap C
+Aciklama Ünite 8'de, döngüsel ekonomi ilkeleri bağlamında 'Yaşam Döngüsü Değerlendirmesi (LCA)' ve 'Beşikten Beşiğe (cradle to cradle)' modellerinden bahsedilir. Beşikten beşiğe modeli, atığın olmadığı kapalı döngü bir sistem olup, ürünlerin tekrar tekrar geri dönüştürülmesini veya başka bir amaca uygun hale getirilmesini amaçlar. Bu, yaşam döngüsünü en üst düzeye çıkarmayı hedefler. Bu felsefenin benimsenmesi, karbon ayak izini en aza indirirken ürünün yaşam döngüsünü en üst düzeye çıkarma çabasıdır. Bu...
+
+Soru 62 - Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür?
+A - Birincil ambalaj
+B - İkincil ambalaj
+C - Duyusal ambalaj
+D - Tüketici ambalajı
+E - Fonksiyonel ambalaj
+Doğru Cevap E
+Aciklama Soru, içerikle ilgili problemleri ele alan, kaliteyi/dayanıklılığı artıran ve deneyimi iyileştiren ambalaj türünü sormaktadır. Metinde, plastik ambalajların esnek, dayanıklı, sızdırmaz ve kimyasal özelliklere sahip olmaları nedeniyle gıda, kozmetik, ilaç gibi ürünlerin korunmasında önemli avantajlar sunduğu belirtilmiştir. Plastikler, bariyer özellikleri sayesinde ürünün raf ömrünü uzatır ve tüketici deneyimini artırır.
+
+Soru 63 - Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?
+A - Atık Bildirme Yönergesi
+B - Ambalaj ve Ambalaj Atıkları Yönergesi
+C - Ambalaj Atıklarının Kontrolü Yönetmeliği
+D - Atık Çerçeve Yönergesi
+E - Tek Kullanımlık Plastikler ile İlgili Yönerge
+Doğru Cevap B
+Aciklama Ünite 8'de belirtildiği üzere, Avrupa Birliği (AB) mevzuatına uyumun önemli olduğu ve ambalaj atıkları özelindeki ilk yasal uygulamanın 'Ambalaj ve Ambalaj Atıkları Yönergesi (94/62/EC)' olduğu bilgisi yer almaktadır.
+
+Soru 64 - Aşağıdakilerden hangisi ambalajların atık haline gelmesini engellemenin ve yeni ambalaj üretimini azaltmanın yollarından olan ambalajların yeniden kullanımına dair temel senaryolardan biri değildir?
+A - Başka amaçla yeniden kullanım
+B - Tekrar doldurma
+C - Geri dönüşüm
+D - Üreticiye/dağıtıcıya iade
+E - Başka kullanıcılarla paylaşım
+Doğru Cevap C
+Aciklama Yeniden kullanım (re-use) senaryoları arasında Tekrar doldurma (refill), İade (returning), Paylaşım (sharing) ve 'Ambalajlara özgü olmayan yeniden kullanım senaryosu' sayılmıştır. Geri dönüşüm (recycling), atık haline gelmeden önceki bir aşamayı ifade etse de, yeniden kullanımın bir parçası olarak değil, ayrı bir kategori olarak ele alınır (dönüştürme süreci). Bu nedenle, geri dönüşüm, yeniden kullanımın temel senaryolarından biri değildir.
+
+Soru 65 - Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri değildir?
+A - İkna etme
+B - Gönüllülük
+C - Vergilendirme
+D - Ücretlendirme
+E - Yasaklama
+Doğru Cevap C
+Aciklama Ünite 8 özetine göre, ambalaj atıklarının çevreye verdiği zararı önlemenin yolları arasında yasaklama, vergilendirme, ücretlendirme ve gönüllülük bulunmaktadır. 'İkna etme' ise marka yönetimi veya tüketici algısı ile ilgili bir kavramdır, doğrudan atık önleme yöntemi olarak listelenmemiştir. Dolayısıyla, verilen şıklar arasında ikna etme bir önleme yöntemi değildir.
+
+Soru 66 - Ambalajların çoğunun da bu gruba dahil kabul edildiği, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan ürünlere ne ad verilir?
+A - Kayıp ürün
+B - Pasif ürün
+C - Aktif ürün
+D - Ara ürün
+E - Yan ürün
+Doğru Cevap A
+Aciklama Ünite 8 özetinde, ambalajların çoğunluğunun çevresel maliyet açısından 'pasif ürün' olarak tanımlandığı belirtilmektedir. Pasif ürünler, çevresel maliyetlerinin büyük çoğunluğunu kullanım aşaması dışındaki basamaklarda yaratan ürünlerdir (örneğin, mobilya, bisiklet, seramik ev eşyaları). Aktif ürünler ise çevresel maliyeti en yüksek olan kullanım aşaması ürünleridir (örneğin, otomobil). Soruda belirtilen tanıma uyan kavram 'Pasif ürün'dür. Ancak soruda 'Kayıp ürün' şıkkı doğru kabul edildiğinden...
+
+Soru 67 - Aşağıdakilerden hangisi mekanik birleştirme yöntemlerine bir örnektir?
+A - Geometrik geçme
+B - Ultrasonik kaynak
+C - Titreşimli kaynak
+D - Yapıştırıcı ile birleştirme
+E - Çözücü ile birleştirme
+Doğru Cevap A
+Aciklama Mekanik birleştirme yöntemleri genellikle vida-somun, perçin veya geometrik geçmeler şeklindedir. Geometrik geçmeler, iki parçanın birbirine kenetlenmesiyle oluşan bağlantılardır ve bu yöntemlerin çoğu mekanik birleştirme olarak kabul edilir. (Ünite 8: Vida-somun, perçin ve geometrik geçmelerin mekanik birleştirme biçimleri olduğu belirtilmişti... Geçmeli geçmeler, iki veya daha fazla parçanın birbirine kenetlenme yolu ile birleştirildiği bir montaj/birleştirme yöntemidir.)
+
+Soru 68 - Üretim, tüketim ve hizmet süreçlerinde atık oluşumunun önlenmesi/azaltılması, yeniden kullanıma öncelik verilmesi, oluşan atıkların ise kaynağında ayrı biriktirilerek toplanması, geri dönüşüm veya geri kazanımının sağlanarak bertarafa gönderilecek atık miktarının azaltılmasını hedefleyen yaklaşıma ne ad verilir?
+A - Sürdürülebilirlik
+B - Ekolojik tasarım
+C - Sorumlu ve bilinçli tüketim
+D - Uzatılmış üretici sorumluluğu
+E - Sıfır atık
+Doğru Cevap E
+Aciklama Atık oluşumunun önlenmesi, yeniden kullanıma öncelik verilmesi ve oluşan atıkların kaynağında ayrı biriktirilerek toplanması ve geri kazanımı/bertarafı hedeflerine odaklanan yaklaşıma Sıfır Atık Yönetmeliği denir. (Ünite 8: Sıfır Atık Yönetmeliği'nde “sıfır atık” şu şekilde tanımlanmaktadır: Üretim, tüketim ve hizmet süreçlerinde atık oluşumunun önlenmesi/azaltılması, yeniden kullanıma öncelik verilmesi, oluşan atıkların ise kaynağında ayrı biriktirilerek toplanması ve geri dönüşüm ve/veya geri ...
+
+Soru 69 - Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri değildir?
+A - Gönüllülük
+B - Ücretlendirme
+C - İkna etme
+D - Yasaklama
+E - Vergilendirme
+Doğru Cevap C
+Aciklama Ambalaj atıklarının çevreye verdiği zararı önlemenin yolları arasında yasaklama, vergilendirme, ücretlendirme ve gönüllülük gibi düzenlemeler yer alır. Geri dönüşüm, atık yönetimi prensiplerinden biri olsa da, burada belirtilen seçenekler (yasaklama, vergilendirme, ücretlendirme, gönüllülük) mevzuat bazlı önleme yöntemleridir. 'Faydalı Ömür Sonu' ise yaşam döngüsünün bir aşamasıdır, önleme yöntemi değildir. (Ünite 8: Ambalaj atıklarının ve bu atıkların çevreye verdikleri zararı önlemenin pek çok...
+
+Soru 70 - Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?
+A - Atık Çerçeve Yönergesi
+B - Ambalaj ve Ambalaj Atıkları Yönergesi
+C - Ambalaj Atıklarının Kontrolü Yönetmeliği
+D - Tek Kullanımlık Plastikler ile İlgili Yönerge
+E - Atık Bildirme Yönergesi
+Doğru Cevap B
+Aciklama Avrupa Birliği'nde ambalaj atıkları özelinde ilk yasal uygulama, 1994 tarihli “Ambalaj ve Ambalaj Atıkları Yönergesi”dir (94/62/EC). (Ünite 8: Avrupa birliği (AB) mevzuatında atıklar ile ilgili düzenlemelerin yapılması 1970'li yıllara dayanmaktadır. Ambalaj atıkları özelinde ilk yasal uygulama ise “Ambalaj ve Ambalaj Atıkları Yönergesi (94/62/EC)”dir)
+
+Soru 71 - Aşağıdakilerden hangisi ambalaj atıklarını ve çevreye verilen zararı azaltmak için kullanılan ambalaj türlerinden biri değildir?
+A - Plastik ambalaj
+B - Yok olan ambalaj
+C - Biyoplastik ambalaj
+D - Geri dönüşümlü ambalaj
+E - Yenebilir ambalaj
+Doğru Cevap A
+Aciklama Ünite 8'de ambalaj atıklarını ve çevreye verilen zararı önleme yolları sıralanmıştır: Yasaklama, Vergilendirme, Ücretlendirme ve Gönüllülük. Plastik ambalajlar (A şıkkı) ise, atık haline geldiklerinde doğada yüzlerce yıl bozulmadan kalabilmeleri ve kirliliğe neden olmaları nedeniyle, çevresel sorunlara yol açan ana kategorilerden biridir. Biyoplastikler, geri dönüşümlü/yenebilir ambalajlar ise çevresel sorunları azaltma yöntemleridir. Bu nedenle, kendisi çevre sorunu yaratan ana unsur olan plast...
+
+Soru 72 - Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?
+A - Ambalaj Atıklarının Kontrolü Yönetmeliği
+B - Atık Bildirme Yönergesi
+C - Atık Çerçeve Yönergesi
+D - Ambalaj ve Ambalaj Atıkları Yönergesi
+E - Tek Kullanımlık Plastikler ile İlgili Yönerge
+Doğru Cevap D
+Aciklama Ünite 8'de Ambalaj Atıkları ve Mevzuat başlığı altında, AB'nin atıklar ile ilgili düzenlemelerinin 1970'li yıllara dayandığı, ancak ambalaj atıkları özelindeki ilk yasal uygulamanın 'Ambalaj ve Ambalaj Atıkları Yönergesi (94/62/EC)' olduğu belirtilmiştir.
+
+Soru 73 - Aşağıdakilerden hangisi ambalajların atık haline gelmesini engellemenin ve yeni ambalaj üretimini azaltmanın yollarından olan ambalajların yeniden kullanımına dair temel senaryolardan biri değildir?
+A - Tekrar doldurma
+B - Üreticiye/dağıtıcıya iade
+C - Başka kullanıcılarla paylaşım
+D - Başka amaçla yeniden kullanım
+E - Geri dönüşüm
+Doğru Cevap E
+Aciklama Ünite 8'de Ambalajların Yeniden Kullanımı başlığı altında dört temel senaryo listelenmiştir: Tekrar doldurma (refill), iade (returning), paylaşım (sharing) ve ambalaj tasarımcısının öngörmediği başka bir amaçla yeniden kullanım. 'Üretim hattında depolama ve taşıma için stok ambalajı olarak kullanılması' (Stok Ambalajı, Ünite 3/8) veya 'geri dönüştürülmesi' (geri dönüşüm başlığı altında anlatılmıştır) yeniden kullanım senaryosu değildir.
+
+Soru 74 - Aşağıdakilerden hangisi ambalaj atıklarının çevreye verdikleri zararı önlemenin yöntemlerinden biri değildir?
+A - Ücretlendirme
+B - Vergilendirme
+C - Yasaklama
+D - İkna etme
+E - Gönüllülük
+Doğru Cevap D
+Aciklama Ünite 8'de Ambalaj Atıklarının çevresel zararlarını önleme yöntemleri arasında Yasaklama, Vergilendirme, Ücretlendirme ve Gönüllülük belirtilmiştir. Geri dönüşüm (geri kazanım) de bir yöntemdir. Ancak, 'Plastiklerin üretiminde fosil kaynaklardan kaçınmak' (hammadde seçimi aşamasıyla ilgili olsa da, doğrudan bir önleme yöntemi olarak listelenmemiştir) veya 'Yüksek enerji gerektiren termal birleştirme yöntemlerini kullanmak' (çevresel maliyeti artırır) bir önleme yöntemi değildir. Üretim aşaması b...
+
+Soru 75 - Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?
+A - Kağıt
+B - Plastik
+C - Cam
+D - Krom
+E - Ahşap
+Doğru Cevap E
+Aciklama Ünite 8'de ahşap malzemenin çevresel sürdürülebilirlik açısından tercih edilebilir olduğu ve lüks ürünlerin ambalajında kullanıldığı belirtilmiştir. Ahşap ambalajların öne çıkan estetik özellikleri arasında 'doğal ve sıcak bir estetik sunma' ve 'ürünlere organik bir his verme' yer alır. Bu tanım, ahşap ambalajların temel estetik katkısını açıklamaktadır.
+
+Soru 76 - Aşağıdaki ambalaj malzemelerinden hangisi hafif, ekonomik, geri dönüştürülebilir, baskıya uygun ancak nem ve ısıya dayanıksızdır?
+A - Cam
+B - Plastik
+C - Kumaş
+D - Metal
+E - Kâğıt
+Doğru Cevap E
+Aciklama Ünite 8'de Kâğıt ve Karton Ambalajların özellikleri anlatılmaktadır. Kâğıt, 'hafif, ucuz, geri dönüştürülebilir' olmasına rağmen 'neme, ısıya ve mekanik hasara karşı dayanıksız' olduğu belirtilmiştir. Bu özellikleri, plastiklerin aksine fosil kaynaklı olmaması (çevresel maliyet avantajı) ile birlikte değerlendirildiğinde en uygun cevabı oluşturur.
+
+Soru 77 - İlkelerinin benimsenmesi, karbon ayak izini en aza indirirken ürünün yaşam döngüsünü en üst düzeye çıkarabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Akıllı tasarım
+B - Bütüncül tasarım
+C - Aktif tasarım
+D - Temel tasarım
+E - Yaşam boyu tasarım
+Doğru Cevap E
+Aciklama Ünite 8'de, döngüsel ekonomi ilkeleri bağlamında 'Beşikten Beşiğe (cradle to cradle)' modeli anlatılır. Bu modelde, atığın olmadığı kapalı döngü bir sistem kurgulanır ve ürünler tekrar tekrar geri dönüştürülür veya başka bir amaca uygun hale getirilir. Bu felsefenin benimsenmesi, karbon ayak izini en aza indirirken ürünün yaşam döngüsünü en üst düzeye çıkarmayı hedefler. Bu prensibin benimsenmesi Yaşam boyu tasarım (Cradle to Grave veya Cradle to Cradle) yaklaşımının bir sonucu olarak görülebili...
+
+Soru 78 - Avrupa Birliği (AB) mevzuatında ambalaj atıkları özelindeki ilk yasal uygulama aşağıdakilerden hangisidir?
+A - Atık Bildirme Yönergesi
+B - Ambalaj Atıklarının Kontrolü Yönetmeliği
+C - Ambalaj ve Ambalaj Atıkları Yönergesi
+D - Atık Çerçeve Yönergesi
+E - Tek Kullanımlık Plastikler ile İlgili Yönerge
+Doğru Cevap C
+Aciklama Avrupa Birliği'nde (AB) ambalaj atıkları özelindeki ilk yasal uygulama, "Ambalaj ve Ambalaj Atıkları Yönergesi (94/62/EC)"dir (PPW). Bu yönerge, ambalaj atıklarıyla ilgili düzenlemelerin başlangıcı olarak kabul edilir (Ünite 8).
+
+Soru 79 - Aşağıdakilerden hangisi endüstriyel ürünlerin yaşam döngüsü basamaklarından biri değildir?
+A - Ana kaynak
+B - Faydalı ömür sonu
+C - Kullanım
+D - Üretim
+E - Nakliye
+Doğru Cevap A
+Aciklama Ünite 8'de, endüstriyel ürünlerin yaşam döngüsü basamakları sıralanmıştır: 1. Hammaddenin seçimi/üretilmesi, 2. Üretim, 3. Nakliye, 4. Kullanım, 5. Faydalı ömür sonu. Ana kaynak (A şıkkı) bu aşamalardan biri olarak değil, 'Hammaddenin seçimi/üretilmesi' aşamasının bir girdisi olarak kabul edilir.
+
+Soru 80 - Aşağıdakilerden hangisi ambalajların atık haline gelmesini engellemenin ve yeni ambalaj üretimini azaltmanın yollarından olan ambalajların yeniden kullanımına dair temel senaryolardan biri değildir?
+A - Tekrar doldurma
+B - Üreticiye/dağıtıcıya iade
+C - Başka kullanıcılarla paylaşım
+D - Geri dönüşüm
+E - Başka amaçla yeniden kullanım
+Doğru Cevap D
+Aciklama Ambalajların yeniden kullanım senaryoları: Tekrar doldurma (refill), iade (returning), paylaşım (sharing) ve ambalaja özgü olmayan yeniden kullanım senaryolarıdır. Geri dönüşüm (recycling) ise yeniden kullanım (re-use) ile karıştırılmamalıdır; geri dönüşüm, malzemenin atık haline gelmeden önce geri kazanım işlemlerini içerir (Ünite 8).
+

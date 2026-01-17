@@ -1,0 +1,715 @@
+ENGELLİLİK VE ERİŞİLEBİLİR TASARIM dersi ünite 3-4 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 3
+Soru 1 - Aşağıdakilerden hangisi tasarım odaklı düşünmenin beş aşamasından biri değildir?
+A - Kullanıcılarınızın ihtiyaçlarını araştırmak.
+B - Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirlemek.
+C - Varsayımlara meydan okumak ve fikirler yaratmak.
+D - Çözüm üretmeye başlamak.
+E - Çözümlerinizi denememek.
+Doğru Cevap E
+Aciklama Çözümleri denemek. Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir: • Empati yapın: Kullanıcılarınızın ihtiyaçlarını araştırın. • Tanımlayın: Kullanıcılarınızın ihtiyaçlarını ve sorunlarını belirtin. • Fikir üretin: Varsayımlara meydan okuyun ve fikirler yaratın. • Prototip oluşturun: Çözüm üretmeye başlayın. • Test edin: Çözümlerinizi deneyin.
+
+Soru 2 - Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak için aşağıdakilerden hangilerini yaparsınız? Uzmanlara danışmak Kullanıcılarla etkileşim kurmak Gözlemler yapmak Kendi varsayımlarını dikkate almak
+A - 2-3-4
+B - 1-3-4
+C - 1-2-4
+D - 3-4-1
+E - 1-2-3
+Doğru Cevap E
+Aciklama Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmal...
+
+Soru 3 - Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle ........... .......... . Yukarıdaki cümleyi en iyi tamamlayan ifade aşağıdaki seçeneklerden hangisinde yer almaktadır?
+A - Empati yaparlar
+B - Prototip geliştirirler
+C - Düşünceleştirirler
+D - Tanımlarlar
+E - Test ederler
+Doğru Cevap E
+Aciklama Tasarımcılar veya değerlendiriciler, prototip aşamasında belirlenen en iyi çözümleri kullanarak tüm ürünü titizlikle test ederler.
+
+Soru 4 - 'Hangi görsel ögenin önce algılanacağını hangi görsel ögelerin birbiriyle ilişkilendirileceğini belirlenmesi' olarak tanımlanan kavram aşağıdaki seçeneklerden hangisinde yer almaktadır?
+A - Görsel ögeler
+B - Tasarım odaklı düşünme
+C - İletişim kurma
+D - Dijital medya
+E - Kompozisyon
+Doğru Cevap E
+Aciklama Kompozisyon hangi görsel ögenin önce algılanacağını hangi görsel ögelerin birbiriyle ilişkilendirileceğini belirler.
+
+Soru 5 - Engelli bireylere de ulaşmayı hedefleyen bir tipografi düzenlemesinde aşağıdakilerden hangisi özellikle önemlidir?
+A - Yazının okunurluğu ve sadelik
+B - Yazının estetik olması
+C - Mesajı dolaylı olarak vermesi
+D - Teknolojik değişimleri yansıtması
+E - Gelenekesel yazı karakterlerinin kullanılması
+Doğru Cevap A
+Aciklama Engelli bireylere de ulaşmayı hedefleyen bir tipografi düzenlemede yazının okunurluğu ve sadelik özellikle önem taşır.
+
+Soru 6 - Errol Morris 2012 yılında fontlar üzerine yaptığı deneylerden birinde insanların farklı fontlarda yazılmış metinlere karşı duydukları güven duygusu ölçülmüştür. Bu font aşağıdaki seçeneklerden hangisinde yer almaktadır?
+A - Baskerville
+B - Georgia
+C - Helvetica
+D - Comic Sans
+E - Trebuchet
+Doğru Cevap A
+Aciklama Errol Morris 2012 yılında fontlar üzerine bir dizi deney yapar. Bu deneylerden birinde insanların farklı fontlarda yazılmış metinlere karşı duydukları güven duygusu ölçülür. Deney sonucuna göre Baskerville fontu (Görsel 3.12); Georgia, Computer Modern, Helvetica, Comic Sans ve Trebuchet fontlarına kıyasla insanlara daha fazla güven vermektedir.
+
+Soru 7 - Aşağıdakilerden hangisi engelliler için görsel iletişim tasarımında tipografi kullanımıyla ilgili dikkat edilecek noktalardan biri değildir?
+A - Uzun metinlerde büyük harf seçimi daha iyidir
+B - Kolay okunabilir ve okutur font seçimi
+C - Küçük yazı tipi ve harf gövdesindeki ince ayrıntılar algılanmayı azaltır
+D - Uzun metinlerde küçük harf kullanımı metnin okunmasını sağlar
+E - Çok farklı yazı tipi kullanılması okunurluğu azaltır
+Doğru Cevap A
+Aciklama Engel gruplarının özelliklerine göre büyük (majiskül) ve küçük (miniskül) harf kullanımına dikkat edilmelidir. Uzun metinlerde büyük harf kullanımı okumayı zorlaştırır. Dikkatli olunmalıdır. Küçük harf kullanımı ise aynı uzunluktaki metinin okunurluğunu sağlayacaktır
+
+Soru 8 - Görsel tasarımda renk, alıcıların görmelerini, hissetmelerini ve yapmalarını istediğiniz şeyi yapmalarını sağlamaya aracılık eden bir unsurdur. Neşe ve dostluk duygusu yaratan, sosyallik enerji ve kendine güven yansıtan renk aşağıdaki seçeneklerden hangisinde yer almaktadır?
+A - Turuncu
+B - Sarı
+C - Kırmızı
+D - Yeşil
+E - Mavi
+Doğru Cevap A
+Aciklama Kırmızı, hız cesaret heyecan tutku duygularını çağrıştırır. Turuncu, neşe ve dostluk duygusu yaratır. Sosyallik enerji ve kendine güven yansıtır. Sarı, güneşin rengidir. Aynı zamanda neşe canlılık iyi hissetmeyi çağrıştırır. İyimserlik içtenlik ve sıcaklık duygusu yaratır. Yeşil, doğanın rengidir. Sağlık, doğallık, organiklik, büyüme ile ilişkilendirilir Mavi, deniz ve gökyüzünün rengidir. Koyu mavi güç ve kararlılık yansıtır. Güven uyandırır. Özellikle açık mavi sonsuzluk ve huzur duygusu uyand...
+
+Soru 9 - Tasarımcı Ashton Hauff bir görsel tasarımda "hiçbir şey göze çarpmaz ve bir süre sonra gözü yorar" şeklinde uyardığı durum aşağıdakilerden hangisinde yer almaktadır?
+A - Her şey yüksek kontrastlıysa
+B - Tamamen düşük kontrastlı renkler seçilmişse
+C - Parlak renkler fazlaca yer alıyorsa
+D - Nötr renkler yoğun kullanılmışsa
+E - Görseller seyreltilmişse
+Doğru Cevap A
+Aciklama Tasarımcı Ashton Hauff “Her şey yüksek kontrastlıysa hiçbir şey göze çarpmaz ve bir süre sonra gözü yorar.” diye uyarıyor.
+
+Soru 10 - Tasarımın önemli bir parçası olan ve görsel iletişime geniş imkanlar sunan "İmge" nasıl bir dildir?
+A - Evrensel
+B - Görsel
+C - Yazılı
+D - Bedensel
+E - Sözel
+Doğru Cevap A
+Aciklama İmge görsel iletişime geniş imkanlar sunan evrensel bir dil olma özelliği nedeniyle tasarımın önemli bir parçasıdır.
+
+Soru 11 - İletişim süreci çeşitli unsurlardan oluşan bir sırayla gerçekleşir. Aşağıdaki seçeneklerden hangisinde iletişim sürecinin unsurları doğru bir şekilde sıralanmıştır?
+A - İletişim Aracı-Mesaj-Gönderici-Alıcı-Geri Bildirim
+B - Mesaj-İletişim Aracı-Gönderici-Alıcı-Geri Bildirim
+C - Gönderici-Mesaj-Alıcı-İletişim Aracı-Geri Bildirim
+D - Gönderici-İletişim Aracı-Mesaj-Geri Bildirim-Alıcı
+E - Gönderici-Mesaj-İletişim Aracı-Alıcı-Geri Bildirim
+Doğru Cevap E
+Aciklama İletişim, insanın işitsel ya da görsel olarak çevresinden aldığı tüm bilgilerin akılda yorumlanmasıyla oluşur. Bu iletişim süreci gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir. Doğru cevap E'dir.
+
+Soru 12 - Mesajın alıcı tarafından anlaşılıp anlaşılmadığı, ne şekilde anlaşıldığı ve yorumlandığının kaynak tarafından bilinmesine olanak sağlayan iletişim unsuru aşağıdakilerden hangisidir?
+A - Alıcı
+B - İletişim aracı
+C - Geri bildirim
+D - Gönderici
+E - Mesaj
+Doğru Cevap C
+Aciklama Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir. Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tas...
+
+Soru 13 - 1. Tasarım uygulamasının ortaya konması (uygulama) 2. Kavramların geliştirilmesi (çözüm oluşturma) 3. Araştırma (bilgi toplama) 4. Fikir üretimi (yaratılış ve buluş) 5. Özetin geliştirilmesi (problemin tanımı) Görsel iletişim tasarım süreci yukarıdaki aşamalardan oluşmaktadır. Aşağıdaki seçeneklerden hangisinde bu aşamalar doğru bir şekilde sıralanmıştır?
+A - 3-5-4-2-1
+B - 5-3-4-2-1
+C - 5-3-4-1-2
+D - 4-3-5-2-1
+E - 2-4-3-5-1
+Doğru Cevap B
+Aciklama Görsel iletişim tasarım süreci, görsel iletişimin oluşturulması için gereken faaliyetler ve akışı tanımlar. Belirli bir tasarım özeti için görsel iletişim oluştururken bir çerçeve olarak kullanılabilecek belirli aşamaları içerir. Bunlar sırasıyla; özetin geliştirilmesi (problemin tanımı), araştırma (bilgi toplama), fikir üretimi (yaratıcılık ve buluş süreci), kavramların geliştirilmesi (çözüm oluşturma) ve tasarım uygulamasının ortaya konulması (uygulama) aşamalarıdır. Doğru cevap B'dir.
+
+Soru 14 - Tasarım odaklı düşüncenin prototip oluşturma sürecinden sonraki aşaması aşağıdakilerden hangisidir?
+A - Test etme
+B - Fikir üretme
+C - Empati yapma
+D - Tanımlama
+E - Çözüm üretme
+Doğru Cevap A
+Aciklama Tasarım odaklı düşünme, problemlerin çözümüne yönelik çözüme dayalı bir yaklaşım sağlayan bir metodolojidir. Kötü tanımlanmış veya bilinmeyen karmaşık sorunların üstesinden gelmek için kullanıldığında son derece yararlıdır. Çünkü insan ihtiyaçlarını anlamaya, sorunu insan merkezli yollarla yeniden çerçevelemeye, beyin fırtınası yaparken sayısız fikir oluşturmaya ve uygulamalı bir yaklaşım benimsemeye hizmet eder. Tasarım odaklı düşüncenin beş aşaması izleyen şekilde sıralanabilir: • Empati yapın...
+
+Soru 15 - Yazılı bir fikrin görsel biçimde tasarlanması olarak tanımlanan çalışma alanı aşağıdakilerden hangisidir?
+A - Simografi
+B - Filoloji
+C - Ekoloji
+D - Tipografi
+E - Fotografi
+Doğru Cevap D
+Aciklama Tipografi, tasarlanmış yazı görsel iletişim aracı olarak grafik tasarımda fotoğraf ve illüstrasyon ile birlikte kullanılır. 1800’lü yılların başlarında İngiliz baskı ve tipografi ustası Thomas Codben-Sanderson tipografi konusunda şunları yazar: “Tipografinin görevi, yazar tarafından iletilmek istenilen düşünce ve imgeyi gözden kaçırmadan okurun hayal gücüne seslenmektedir”. Kısaca tipografi, bir metnin yazı formunun tasarlanmasıdır. Aynı zamanda tipografi kavramı yazı karakterleri ve onların sis...
+
+Soru 16 - Tipografide; .... satırların uzunluğunu, .... harf ölçüsünü ölçmek için kullanılır. Yukarıdaki cümledeki boşlukları doğru olarak tamamlayan seçenek aşağıdakilerden hangisidir?
+A - Kapital-Miniskül
+B - Majüskül-Miniskül
+C - Pika-Punto
+D - Punto-Pika
+E - Karakter-Hurufat
+Doğru Cevap C
+Aciklama Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır. Büyük harflere majüskül ya da kapital denir. Küçük harflere miniskül denir. Hurufat basımda, baskı işinde kullanılan metal vb. bir maddeden yapılmış harf, rakam, noktalama işaretleri gibi kalıplardan oluşur. Yazı karakteri aynı karakteristik özelliklere sahip harflerin, rakamların, sembollerin, noktalama işaretlerinin vb. bir araya gelmesinden oluşan tasarımdır. Doğru cevap C'dir.
+
+Soru 17 - Engellilere yönelik tasarımlar yaparken, disleksi veya takıntı problemi olanlar için mesajınızın daha açık ve anlaşılır olmasını istiyorsanız Helvatica gibi daha .... fontlar kullanmanız önemlidir. Yukarıdaki cümledeki boşluğu doğru olarak tamamlayabilecek seçenek aşağıdakilerden hangisidir?
+A - Hareketli
+B - Küçük
+C - Orantılı
+D - Orantısız
+E - Yakın aralıklı
+Doğru Cevap C
+Aciklama Disleksi veya takıntı problemi olanlar için Comic Sans gibi hareketli harf boyutlarına sahip fontlar tam bir kabus olabilir. Bu nedenle de mesajınızın daha açık ve anlaşılır olmasını istiyorsanız Helvatica gibi daha orantılı fontlar kullanmanızda yarar var. Örneğin Courier, Arial, Verdana ve Computer Modern Unicode fontları da yine harf orantısı ve harfler arası boşluklar bakımından oldukça başarılı ve kullanılabilir fontlardır. Doğru cevap C'dir.
+
+Soru 18 - Aşağıdakilerden hangisi engellilere yönelik renk tasarımı ile ilgili yanlış bir bilgidir?
+A - Bir tasarımda veri görselleştirmesi yaparken algılamayı güçleştirecek parlak renklerden kaçınılmalıdır.
+B - Bir tasarımda veri görselleştirmesi yaparken algılamayı güçleştirecek çoklu renklerden kaçınılmalıdır.
+C - Görme yetersizliğine ya da renk körlüğüne sahip bireyler seçilen rengin yazıyla desteklenmesi gerekebilir.
+D - Erişilebilir tasarımlar tercih edilmelidir.
+E - Engelli bireyler için algılamayı destekleyici teknolojilerin kullanılması konusunda tek yönlü yaklaşımlar tercih edilmelidir.
+Doğru Cevap E
+Aciklama Bir tasarımda mesajın iletilmesinde ve tipografi kullanımında renklerin psikolojik etkilerine dikkat edilmelidir (ör. hedef kitle doğrultusunda tanımlanan engel gruplarına göre sosyal, kültürel farklılar göz önünde bulundurulmalı ve renk seçimi ona göre yapılmalıdır. • Engel gruplarına göre renk algıda seçicilik yaratabilir (ör. görme yetersizliğine ya da renk körlüğüne sahip bireyler için renk seçilmesi ve belki de yazıyla desteklenmesi gibi). • Engelli bireyler için algılamayı destekleyici tek...
+
+Soru 19 - Dilin işaret ve sembollerle yapılanmış bir sistem olduğunu öneren, önerdiği ilkeleri ile göstergebilimin kurumsallaşmasını sağlayan ve bu ilkeleri 1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılan dilbilimci aşağıdakilerden hangisidir?
+A - Ferdinand de Saussure
+B - Sigmund Freud
+C - Lev Vygotsky
+D - Leonard Ambrose
+E - Urie Bronfenbrenner
+Doğru Cevap A
+Aciklama Ferdinand de Saussure (1857-1913) çok önemli İsveçli bir dilbilimcidir. Dilin işaret ve sembollerle yapılanmış bir sistem olduğunu önermiştir. İlkeleri, göstergebilimin kurumsallaşmasını sağlamış ve 1960’ların sonuna kadar eleştirel ve kültürel çalışmalarda yoğun şekilde kullanılmıştır. Doğru cevap A'dır.
+
+Soru 20 - Aşağıdakilerden hangisi engelliler için görsel iletişim tasarımında imge kullanımıyla ilgili doğru bir bilgi değildir?
+A - Hedef kitle iyi araştırılmalıdır.
+B - Soyut anlatımlar tercih edilmelidir.
+C - Basit, net ve anlaşılabilir mesajlar kullanılmalıdır.
+D - Görme yetersizliği ya da renk körlüğüne sahip bireyler için verilmek istenen mesaj doğrultusunda büyük imajlar kullanılmalıdır.
+E - İmaj seçiminde sosyal ve kültürel farklılar göz önünde bulundurulmalı, kapsayıcı tasarımlar yapılmalıdır.
+Doğru Cevap B
+Aciklama Engelliler için görsel iletişim tasarımında imge kullanımıyla ilgili izleyen noktalara dikkat edilebilir: • Hedef kitlenin iyi araştırılması (ör., gelişimsel yetersizliğe sahip bireylerin sosyal, işitme engellilerin dil gelişimine bağlı kavramsal yetersizliğinin bilinmesi gibi) • Basit ve net anlaşılabilir mesaj kullanımı (ör., soyut kavramlardan kaçılması, gelişimsel yetersizliğe sahip bireylerin anlamlandırmada yaşayabilecekleri sorunlar nedeniyle gerekmedikçe kullanılmaması, gerekli ise somut...
+
+Soru 21 - “Duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” tanımı aşağıdakilerden hangisine aittir?
+A - Tasarım
+B - Biliş
+C - Teknoloji
+D - İletişim
+E - Algı
+Doğru Cevap D
+Aciklama “İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]). Yanıt D'dir. İletişimdir.
+
+Soru 22 - En basit iletişim süreci aşağıdakilerden hangisidir?
+A - Gönderici - mesaj - alıcı
+B - Gönderici- geribildirim - araç
+C - Geribildirim - araç- alıcı
+D - Araç - alıcı - gönderici
+E - Geribildirim - gönderici - alıcı
+Doğru Cevap A
+Aciklama Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir. Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tas...
+
+Soru 23 - Görsel tasarım sürecinde aşağıda bahsedilen etkinlikler hangi aşamayı açıklar? "Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır."
+A - Özetin geliştirilmesi
+B - Bilgi toplama
+C - Kavramların geliştirilmesi
+D - Fikir üretimi
+E - Uygulama
+Doğru Cevap C
+Aciklama Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır. Yanıt C'dir. Kavramların geliştirilmesidir.
+
+Soru 24 - "Konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karalar." Açıklanan bu etkinlikler görsel iletişim tasarım sürecinde hangi aşamaya aittir?
+A - Fikir üretimi
+B - Araştırma
+C - Problemin tanımı
+D - Kavramların geliştirilmesi
+E - Tasarım uygulamasının ortaya konması
+Doğru Cevap A
+Aciklama Fikir üretimi (yaratılıcılık ve buluş süreci): Öncelikle konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karaladığında “dışavurumculu yaratıcılık” aşamasındadır. Eskiz biraz daha ayrıntılı bir hale getirildiğinde ise “üretken yaratıcılık” aşamasına geçilmiş olur. Yanıt A'dır. Fikir üretimidir.
+
+Soru 25 - Tasarım odaklı düşünmenin ilk aşaması nedir?
+A - Düşünceleştirme
+B - Tanımlama
+C - Test
+D - Prototip
+E - Empati kurma
+Doğru Cevap E
+Aciklama Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fizi...
+
+Soru 26 - Tipografi ile ilgili aşağıdakilerden hangisi yanlıştır?
+A - Büyük harflere majüskül ya da kapital denir.
+B - Küçük harflere miniskül denir.
+C - Font aynı dizide, ölçüde ve hizada, sayıları ve noktalama işaretlerini de içeren bütündür.
+D - Punto satırların uzunluğunu ölçmek için kullanılır.
+E - Okunabilirlik, yazı tipi, boyutu, rengi gibi tüm tasarım ilkeleriyle bağlantılıdır.
+Doğru Cevap D
+Aciklama "Punto satırların uzunluğunu ölçmek için kullanılır." ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır. Yanıt D'dir. "Punto satırların uzunluğunu ölçmek için kullanılır." ifadesi yanlıştır.
+
+Soru 27 - Aşağıdaki açıklama neyin tanımıdır? "Yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır."
+A - Tipografi
+B - Uygunluk
+C - Okunurluk
+D - Okuturluk
+E - Hiyerarşi
+Doğru Cevap D
+Aciklama Okuturluk: Okuturluk okunurluktan farklıdır; bu kavram yalnız yazı karakterini içermez. Okuturluk yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır. Okunurluk yazı karakteri ve hart ölçüsüne bağlıyken okuturluk bütün tasarımda temellenir. Yanıt D'dir. Okuturluktur.
+
+Soru 28 - Görsel iletişim tasarımında renk kullanımıyla ilgili aşağıdakilerden hangisi yanlıştır?
+A - CMYK renk modeli dijital ortamlarda kullanılır.
+B - RGB renkleri kırmızı, yeşil, mavidir.
+C - Görseldeki piksel sayısı arttıkça algılanan renk sayısı da artar.
+D - Engel gruplarına göre renk algıda seçicilik yaratabilir.
+E - Bir tasarımda veri görselleştirmesi yaparken algılamayı güçleştirecek parlak ve çok renkten kaçınılmalıdır.
+Doğru Cevap A
+Aciklama CMYK (Cyan, Magenta, Yellow, Key) kağıda basılacak tasarımlarda kullanılan çıkarmalı renk modeldir CMYK modeli, beyaz bir yüzeyi maskeleme prensibi ile çalışır. 1şık mürekkep tarafından emilir bu nedenle model çıkarmalı olarak adlandırılır, çünkü mürekkepler beyaz ışıktan kırmızı, yeşil ve mavi renkleri “çıkarır.” Cyan: camgöbeğinin, Magenta: macentanın, Yellow: sarının ve Key: anahtar(siyah)ın kısaltmasıdır. RGB (Red, Green, Blue) renk modeli dijital ortamlarda kullanılır. İnternette bulunan gr...
+
+Soru 29 - Bir kelimeyi veya kavramı kabul edilenin dışında başka anlamlara gelecek biçimde kullanma aşağıdakilerden hangisidir?
+A - Mesaj
+B - Sepya
+C - İkon
+D - Düz anlam
+E - Metafor
+Doğru Cevap E
+Aciklama Yanıt E'dir. Metafordur. Metafor: Bir kelimeyi veya kavramı kabul edilenin dışında başka anlamlara gelecek biçimde kullanma.
+
+Soru 30 - "Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir." Yukarıdaki açıklama Roland Barthes'ın göstergebilim için tanımladığı hangi kavrama aittir?
+A - Uylaşım
+B - Düz anlam
+C - Yan anlam
+D - İmge
+E - Metafor
+Doğru Cevap A
+Aciklama Roland Barthes (1915-1980) göstergebilimde etkili bir figür olmuştur. Açıkladığı kavramlardan biri olan uylaşımın açıklaması: Uylaşım: Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir. Yanıt A'dır. Uylaşımdır.
+
+Soru 31 - Aşağıdakilerden hangisi evrensel tasarım ilkelerinden biri değildir?
+A - Basit ve Sezgisel Kullanım
+B - Çevreye duyarlılık
+C - Hata Toleransı
+D - Algılanabilir Bilgi
+E - Kullanımda Esneklik
+Doğru Cevap B
+Aciklama Ünite 3'te, Evrensel Tasarım Merkezi tarafından belirlenen yedi ilke sıralanmıştır: 1. Eşitlikçi Kullanım, 2. Kullanımda Esneklik, 3. Basit ve Sezgisel Kullanım, 4. Algılanabilir Bilgi, 5. Hata Toleransı, 6. Düşük Fiziksel Efor, 7. Yaklaşım ve Kullanım için Boyut, Yer ve Alan. Sorudaki seçenekler: 1. Eşitlikçi Kullanım (Var). 2. Kullanımda Esneklik (Var). 3. Hata Toleransı (Var). 4. Kolay Öğrenilebilirlik (Bu ifade, "Basit ve Sezgisel Kullanım" ilkesinin bir sonucu olsa da, yedi temel ilke arası...
+
+Soru 32 - Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?
+A - Duygu ve davranış bozukluğu
+B - Zihinsel yetersizlik
+C - Görme yetersizliği
+D - Fiziksel yetersizlik
+E - İşitme yetersizliği
+Doğru Cevap C
+Aciklama Ünite 3'te, renk kullanımında 'algıda seçicilik yaratabileceği' belirtilen yetersizlik türü olarak görme yetersizliği (renk körlüğü dahil) gösterilmiştir. Bu durumda, renk seçimi ve yazıyla desteklenme gerekliliği vurgulanmıştır.
+
+Soru 33 - Rastlantısal olarak görülebilecek ancak ortak bir kültürdeki insanlara anlam ifade eden kelimeler veya kelime öbekleridir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Gönderen
+B - Sembol
+C - Gösterenler
+D - Mesaj
+E - Tasarımcı
+Doğru Cevap C
+Aciklama Ünite 3'te, Roland Barthes'ın göstergebilimdeki terimlerinden bahsedilmektedir. "Rastlantısal olarak görülebilecek ancak ortak bir kültürdeki insanlara anlam ifade eden kelimeler veya kelime öbekleri" ifadesi, Barthes'ın tanımladığı terimlerden **Gösterenler** (Signifiers) kavramına karşılık gelir. Gösterenler, anlam ile belirgin bir bağlantısı olmayan, ancak kültürel olarak anlam kazanan ögelerdir (Örneğin, her dilde 'ayı' kelimesi farklıdır).
+
+Soru 34 - Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine anlaşmaya ne ad verilir?
+A - İndeks
+B - Düz anlatım
+C - Sembol
+D - Yan anlam
+E - Uylaşım
+Doğru Cevap E
+Aciklama Ünite 3'te, Roland Barthes'ın göstergebilimdeki üç teriminden bahsedilmektedir: Uylaşım (Convention), Düz anlam (Denotation) ve Yan anlam (Connotation). Belli bir grup veya kültür için bir göstergenin belli bir şeyi temsil etmesi üzerine anlaşılan ilişkiye **Uylaşım** adı verilir. Bu, göstergenin kültürel olarak kabul görmüş anlamıdır.
+
+Soru 35 - Engelliler için görsel tasarımda tipografi kullanımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+A - Metinleri okumayı zorlaştıran arka plan imaj ve renk kullanımından kaçınılmalıdır.
+B - Metin çok uzun değilse tırnaklı ve süslü font kullanımı tercih edilmelidir.
+C - Küçük yazı tipi ve harf gövdesindeki ince ayrıntılar (serifli) bulunan yazı fontları tercih edilmemelidir.
+D - Hedef kitlenin iyi araştırılması gerekir, yetersizlik türüne göre gereksinim bilinmelidir.
+E - Disleksi veya dikkat eksikliği olan bireylerin dikkat sürelerinin kısa olması nedeniyle kolay okunabilir font seçilmelidir.
+Doğru Cevap B
+Aciklama Ünite 3'te tipografi kullanımı ile ilgili maddeler arasında şunlar bulunur: 'Serifsiz (“serif” tırnak demektir) yazı karakterleri okunurluk açısından tercih edilebilir.' ve 'Uzun metinlerde süslü yazı karakteri kullanımından kaçınılmalıdır.' Yanlış ifade, 'Küçük yazı tipi ve harf gövdesindeki ince ayrıntılar (serifli) algılanmayı azaltır' ifadesinin ardından 'serifli yazı karakterleri okunurluk açısından tercih edilebilir' denmesi ile çelişir. Metinde, serifsiz fontların okunurluk açısından terc...
+
+Soru 36 - Konu hakkındaki bilgilerin bir araya getirilerek değerlendirilip taslaklar ya da eskizler oluşturulduğu görsel iletişim tasarım süreci aşaması aşağıdakilerden hangisidir?
+A - Araştırma (bilgi toplama)
+B - Fikir üretimi (yaratıcılık ve buluş süreci)
+C - Kavramların geliştirilmesi (çözüm oluşturma)
+D - Tasarım uygulamasının ortaya konması (uygulama)
+E - Tasarımın değerlendirilmesi
+Doğru Cevap B
+Aciklama Ünite 3'te (Sayfa 1, Görsel İletişim Tasarım Sürecinin Aşamaları başlığı altında) tasarım süreci adımları verilmiştir: Özetin geliştirilmesi (problemin tanımı), Araştırma (bilgi toplama), Fikir üretimi (yaratıcılık ve buluş süreci), Kavramların geliştirilmesi (çözüm oluşturma), Tasarım uygulamasının ortaya konması (uygulama). Bilgilerin bir araya getirilerek değerlendirilip taslak/eskiz oluşturulduğu aşama, 'Kavramların geliştirilmesi (çözüm oluşturma)' adımından hemen önce gelen 'Fikir üretimi ...
+
+Soru 37 - Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine anlaşmaya ne ad verilir?
+A - Uylaşım
+B - Yan anlam
+C - Düz anlatım
+D - Sembol
+E - İndeks
+Doğru Cevap A
+Aciklama Ünite 3'te Roland Barthes'ın göstergebilim terimleri arasında sayılan **Uylaşım**, bir göstergenin belli bir kültürel bağlamda belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine karşılıklı anlaşmaya (sözleşmeye) dayanan ilişkiyi ifade eder.
+
+Soru 38 - Yukarıdaki ifadelerden özel gereksinimli bireylere yönelik tipografi düzenlemelerinden hangileri doğrudur? 1. Süslü yazı karakterinden kaçınılmalıdır. 2. Okumayı zorlaştıran arka plan imaj ve renklerinden kaçınılmalıdır. 3. Bir tasarımda olabildiğince fazla yazı tipi kullanılmalıdır.
+A - Yalnız 1
+B - Yalnız 2
+C - 1 ve 2
+D - 1 ve 3
+E - 2 ve 3
+Doğru Cevap C
+Aciklama Özel gereksinimli bireyler için tipografi düzenlemelerinde süslü yazı karakterlerinden kaçınılması ve arka plan imaj/renk kullanımından kaçınılması gerektiği belirtilmiştir (Ünite 3). İfade 1 ve 2 doğrudur. İfade 3 yanlıştır; okunurluğu azaltacağı için bir tasarımda çok fazla yazı tipi kullanmaktan kaçınılmalıdır (Ünite 3).
+
+Soru 39 - Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?
+A - Zihinsel yetersizlik
+B - Görme yetersizliği
+C - İşitme yetersizliği
+D - Duygu ve davranış bozukluğu
+E - Fiziksel yetersizlik
+Doğru Cevap B
+Aciklama Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi ve yazıyla desteklenmesi) en çok görme yetersizliğine sahip bireylerde ortaya çıktığı belirtilmiştir (Ünite 3).
+
+Soru 40 - Sabah elimize aldığımız diş fırçasından kullandığımız mobilyaya, cep telefonumuzdaki uygulamalardan iş programlarımıza kadar hayatımızın önemli bir kısmı dijital ve somut bazı tasarımlarla girdiğimiz etkileşimlerden oluşur. Doğal olarak bu kullandığımız ürünler bizde bazı duygulara ve davranışlara yol açar. Yukarıdaki etkileşimlerin, duygu ve davranışların toplamına ne ad verilir?
+A - Kullanıcı tasarımı
+B - Kullanıcı dostu
+C - Kullanıcı deneyimi
+D - Kullanıcı düşüncesi
+E - Kullanıcı arayüzü
+Doğru Cevap C
+Aciklama Ünite 3'te, iletişim; 'gönderici, mesaj, iletişim aracı, alıcı ve geri bildirim unsurlarından oluşan bir sırayla gerçekleşir' denilmektedir. Ancak soruda bahsedilen, 'tasarımlarla girdiğimiz etkileşimlerden' kaynaklanan duygu ve davranışlar toplamı, özellikle görsel iletişimde estetik kaygıların yanı sıra topluma karşı sorumluluklar bağlamında tasarımın psikolojik etkilerini ifade eder. Metin, genel olarak iletişimin temel tanımını verse de, somut/dijital tasarımlarla etkileşim sonucu ortaya çık...
+
+Soru 41 - Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?
+A - Zihinsel yetersizlik
+B - Görme yetersizliği
+C - Duygu ve davranış bozukluğu
+D - Fiziksel yetersizlik
+E - İşitme yetersizliği
+Doğru Cevap B
+Aciklama Ünite 3'teki 'Engelliler İçin Görsel İletişim Tasarımında Renk Kullanımı' başlığı altında, renk algıda seçicilik yaratma potansiyeli olarak özellikle görme yetersizliği veya renk körlüğü olan bireyler için risk oluşturduğu belirtilmiştir. Bu, renk algısı doğrudan etkilenen bir yetersizlik türüdür.
+
+Soru 42 - Renk kullanımında algıda seçicilik özelliğinin (renk seçilmesi) en çok ortaya çıktığı yetersizlik türü aşağıdakilerden hangisidir?
+A - Görme yetersizliği
+B - İşitme yetersizliği
+C - Fiziksel yetersizlik
+D - Zihinsel yetersizlik
+E - Duygu ve davranış bozukluğu
+Doğru Cevap A
+Aciklama Ünite 3'te Renk Kullanımı başlığı altında, engel gruplarına göre renk algısında seçicilik yaratabileceği belirtilir ve örnek olarak 'görme yetersizliğine ya da renk körlüğüne sahip bireyler için renk seçilmesi ve belki de yazıyla desteklenmesi gibi' durumlar sıralanır. Bu nedenle, renk algısındaki seçicilik, en belirgin olarak görme yetersizliği (renk körlüğü dahil) ile ilişkilidir.
+
+Unite 4
+Soru 43 - Kullanıcılara etkileşim ve iletişim yapısı olarak demokratik bir yapı sunuyor olmasına karşın, hizmet sağlayıcıların çok büyük şirket ve organizasyonlar olması aşağıdaki dijital ortamların özelliklerinden hangisini yansıtır?
+A - Yakınsallık
+B - Bağlantısallık
+C - Çeşitlilik
+D - Asimetriklik
+E - Algortimik akış
+Doğru Cevap D
+Aciklama Dijital ortamlar kullanıcılara etkileşim ve iletişim yapısı olarak demokratik bir yapı sunuyor olmasına karşın, hizmet sağlayıcıların çok büyük şirket ve organizasyonlar olması, dijital ortamların asimetriklik özelliğini vurgulamaktadır.
+
+Soru 44 - Aşağıdakilerden hangisi dijital ortamların akışkanlık özelliğine ilişkin doğru bir ifadedir?
+A - Geleneksel ve yeni ortamların birbirine yaklaşmasıdır.
+B - Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır.
+C - Çok sayıda ve nitelikte içeriğin birbirine bağlanmasıdır.
+D - Ortamdaki etkileşim, akış ve hareketin veriye dönüşmesidir.
+E - Ortamların içeriklere doğrusal olmayan bağlantılar sağlamasıdır.
+Doğru Cevap B
+Aciklama Dijital ortamların akışkanlık özelliği, hem kalıcı hem de geçici bir yapıya sahip olmasını ifade etmektedir. Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır.
+
+Soru 45 - Aşağıdakilerden hangisi Lussier-Desrochers ve diğerlerine (2017) göre zihin yetersizliği olan bireyler için dijital katılım boyutlarından biridir?
+A - Kişisel
+B - Duygusal
+C - Bilişsel
+D - İşitsel
+E - Görsel
+Doğru Cevap C
+Aciklama Dijital katılım boyutları şunlardır: (a) duyusalmotor, (b) bilişsel, (c) teknik, (d) teknolojik cihazlara ve (e) kodlara ve kurallara erişim.
+
+Soru 46 - 1. Eğitim tekniklerini paylaşma fırsatı sağlamak 2. Özerkliği teşvik etmek 3. Motivasyon sağlamak 4. Tipik gelişen akranlarla bir arada bulunmak Yukarıdaki maddelerden hangileri dijital ortamların öğrencilere sağladığı yararlar arasındadır?
+A - 1, 2 ve 3
+B - 1, 3 ve 4
+C - 1,2 ve 4
+D - 2,3 ve 4
+E - Hepsi
+Doğru Cevap D
+Aciklama Dijital ortamların öğrencilere genel olarak yararları; (a) öğrenci özerkliğini teşvik etmek, (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak, (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak, (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek, (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır. 2,3 ve 4
+
+Soru 47 - 1. Veri, veri tabanı ve araştırmalarda engelli bireylerin yetersiz olması 2. Engelli bireylere az destek verilmesi 3. Öğretmenlerin verilen teknoloji eğitimleri için istekli olmaları 4. Farklı engelli öğrencileri olsa da öğretmenin teknolojiyi kullanabilir olması 5. Öğretmenlerin zamanlarının kısıtlı olması Yukarıdakilerden hangisi engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engeller arasındadır?
+A - 1, 2, 3
+B - 1, 2, 4
+C - 1, 2, 5
+D - 2, 3, 4
+E - 1, 3, 5
+Doğru Cevap C
+Aciklama Engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engeller izleyen şekilde sıralanabilir: • Engelli bireylerin dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği • Dijital teknolojilere erişilebilirlik hakkında yasalar, standartlar, politikalar ve iyi uygulama örnekleri hakkındaki bilginin yetersizliği • Engellilere yönelik dijital teknolojileri kullanım standartlarının yetersizliği ve/veya bulunmayışı • Sürekli gelişim halinde ol...
+
+Soru 48 - Aşağıdakilerden hangisi zihinsel engelli bireyler için sosyal, ekonomik ve toplumsal katılımındaki engellerine erişilebilir teknolojik çözüm örneklerinden biridir?
+A - Çevrim içi takvimler, not alma, uyarılar gibi hafızaya yardımcı araçlar
+B - Cihazları kontrol etmek için bakışların ve hareketlerin kullanılması
+C - Sentezlenmiş ses çıkışı, metinden konuşmaya işlevsellik
+D - Sesli uyarılar yerine titreşimlerin/yazılı uyarıların kullanılması
+E - Grafik ve görsel medyanın sesli açıklaması
+Doğru Cevap A
+Aciklama Metinden konuşmaya, yorumlama ve konuşma/ses, çıkışı Dokunmatik ekranlı cihazlar • Arttırıcı ve Alternatif İletişim (AAİ) cihazlarını, iletişim için elektronik resim panolarını taklit eden mobil uygulamalar ve çevrim içi kaynaklar • Çevrim içi takvimler, not alma, uyarılar gibi düzenleme ve hafızaya yardımcı araçlar • GPS destekli navigasyon • Anlamaya yardımcı olmak için multimedya kullanımı, örneğin videolar, grafikler Çevrim içi takvimler, not alma, uyarılar gibi hafızaya yardımcı araçlar
+
+Soru 49 - Aşağıdakilerden hangisi dijital ortamların tasarımında kullanımda esneklik ilkesi yönergelerinden biridir?
+A - Tasarımın tüm kullanıcı kitlesi için çekici hâle getirilmesi
+B - Kullanıcının hızına uyarlanması
+C - Kullanıcı beklentileri ve sezgileriyle tutarlı olması
+D - Temel bilgiler ve çevresi arasında yeterli kontrastın sağlanması
+E - Tehlikeler ve hatalar hakkında uyarılar sağlanması
+Doğru Cevap B
+Aciklama Dijital ortamların tasarımında kullanımda esneklik ilkesi yönergeleri izleyen şekilde sıralanabilir: • Kullanım yöntemlerinde seçim sağlanması • Sağ veya sol elle erişilmesi ve kullanılması • Kullanıcının doğruluğunu ve hassasiyetini kolaylaştırması • Kullanıcının hızına uyarlanması
+
+Soru 50 - Aşamalı açıklama ile görsel dağınıklığın azaltılması aşağıdaki dijital ortamların evrensel tasarım ilkelerinden hangisine örnektir?
+A - Basit ve sezgisel kullanım
+B - Kullanımda esneklik
+C - Adil, eşitlikçi kullanım
+D - Algılanabilir bilgi
+E - Hatalara tolerans
+Doğru Cevap A
+Aciklama Basit ve sezgisel kullanım ilkesine aşamalı açıklama ile görsel dağınıklığın azaltılması örnek olarak verilebilir. Aşamalı açıklama, etkileşim tasarım tekniklerindendir. Arayüzdeki ilgisiz bilgileri kaldırarak görsel karmaşayı azaltır. Bu teknikle dijital ortamların tasarımında kullanıcı ihtiyaç ve etkileşimlerine bağlı olarak görüntülenecek bilgilere öncelik verilir.
+
+Soru 51 - Tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını gerektiren ilke aşağıdakilerden hangisidir?
+A - Basit ve sezgisel kullanım
+B - Algılanabilir bilgi
+C - Yaklaşmaya ve kullanıma uygun ölçüler ve mekân
+D - Düşük fiziksel çaba
+E - Hatalara tolerans
+Doğru Cevap E
+Aciklama Hatalara tolerans, tasarlanan dijital ortamın, irade dışı, kazayla ve kullanım örüntüsü dışında kullanımında karşılaşılabilecek kötü, tehlikeli, riskli veya olumsuz sonuçları engelleyici veya en aza indirici nitelikte olmasını gerektiren ilkedir.
+
+Soru 52 - Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konuları arasında değildir?
+A - Medyanın erişilemeyen yeni alanlar ortaya çıkartması
+B - Engelli çocukların seslerinin duyulabileceği alanlar yaratılması
+C - Erişilebilirlik ve katılım için araştırmaların tasarlanması
+D - Engellilerin dijital ve sosyal haklarını ele alan programların genişletilmesi
+E - Dijital medyanın hayatı daha zor hale getirmesi
+Doğru Cevap E
+Aciklama Dijital çağda engelli çocukların haklarına yönelik küresel konular izleyen biçimde sıralanabilir: • Engelli çocukların dijital medya kullanımları ve uygulamalarına ilişkin temel verilere daha fazla ihtiyaç duyulması, çocuklar arasında dijital medya kullanımına ilişkin araştırmalara ve veri toplamaya dahil edilmesi •Dijital medyanın hayatı daha kolay ve zevkli hâle getirebileceğinin yanı sıra engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi • Dijital alanda ...
+
+Soru 53 - Aşağıdakilerden hangisi kullanıcıların metin, resim, görüntü ve video türü içerikleri belirli ağlar üzerinden paylaşımlarına olanak sağlayan dijital ortamlardır?
+A - Sanal gerçeklik uygulamaları
+B - Sosyal paylaşım ortamları
+C - Sohbet uygulamaları
+D - Mobil uygulamalar
+E - Hiper ortamlar
+Doğru Cevap B
+Aciklama Sosyal paylaşım ortamları, kullanıcıların metin, resim, görüntü ve video türü içerikleri belirli ağlar üzerinden paylaşımlarına olanak sağlayan ortamlar özelliğindedir.
+
+Soru 54 - Aşağıdakilerden hangisi dijital teknolojilerin kullanıcıların sürekli bağlantıda olmasını sağlaması ve hayatın her alanına entegre olmasını ifade eden özelliktir?
+A - Akışkanlık özelliği
+B - Asimetriklik özelliği
+C - Bağlantısallık özelliği
+D - Yakınsaklık özelliği
+E - Yaygınlık özelliği
+Doğru Cevap E
+Aciklama Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir. Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir.
+
+Soru 55 - Twitter üzerinden bilgiye ulaşmak ve bu bilgiyi paylaşmakla birlikte Instagram’da canlı yayın yapmak dijital ortamın hangi özelliğini ifade etmektedir?
+A - Yaygınlık özelliği
+B - Asimetriklik özelliği
+C - Bağlantısallık özelliği
+D - Çeşitlilik özelliği
+E - Akışkanlık özelliği
+Doğru Cevap A
+Aciklama Twitter üzerinden bilgiye ulaşmak ve bu bilgiyi paylaşmakla birlikte Instagram’da canlı yayın yapmak, dijital ortamın yaygınlık özelliğidir
+
+Soru 56 - Aşağıdakilerden hangisi zihin yetersizliği olan bireyler için dijital katılımın önündeki engellerden biri değildir?
+A - Dijital cihazlara erişim
+B - Duyumotor becerileri
+C - Bilişsel yetenekler
+D - Entegrasyon yeterlikleri
+E - Teknik gereklilikler
+Doğru Cevap D
+Aciklama Zihin yetersizlikleri olan bireyler için dijital katılımın önündeki beş engeli izleyen şekilde sıralamışlardır: (a) Dijital cihazlara erişim, (b) cihazları kullanmak için duyumotor becerileri, (c) bilişsel yetenekler, (d) teknik gereklilikler ve (e) iletişim. Entegrasyon yeterlikleri
+
+Soru 57 - 1. Eğitim kaynaklarını iyileştirmek 2. Dijital teknolojilerin kullanımına ilişkin farkındalığı geliştirmek 3. Öğrencinin kişisel gelişiminin başlangıç seviyesini belirlemek 4. Engelli öğrencilerin öğrenimini destekleme Yukarıdakilerden hangileri eğitim alanında engelli öğrencileri desteklemek için dijital teknolojileri kullanma alanlarıdır?
+A - 1-2
+B - 2-3
+C - 2-4
+D - 1-2-3
+E - 2-3-4
+Doğru Cevap E
+Aciklama Eğitim alanında engelli öğrencileri desteklemek için dijital teknolojileri kullanma alanları; öğrencinin kişisel gelişiminin başlangıç seviyesini belirlemek, yeni becerilerin oluşumu yoluyla kişisel gelişimi desteklemek veya halihazırda edinilmiş olanları geliştirmek, eğitim kaynaklarına erişimi iyileştirmek, iletişim ve ağ desteği yoluyla coğrafi veya sosyal uzaklığın üstesinden gelmek ve engelli öğrencilerin öğrenimini destekleme aracı olarak dijital teknolojilerin yararlarının kullanımını teş...
+
+Soru 58 - Yetersiz veya eksik destek Öğretmenlerin eğitimler için isteksiz olmaları Dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği Aile üyelerinin dijital teknoloji yetkinliği Yukarıdakilerden hangileri engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir?
+A - 1-2-3
+B - 1-3
+C - 1-2
+D - 2-3-4
+E - 3-4
+Doğru Cevap A
+Aciklama Yetersiz veya eksik destek, öğretmenlerin eğitimler için isteksiz olmaları, dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir. 1-2-3
+
+Soru 59 - 'Çeşitli nitelikteki bilgiyi bireye ve topluluklara aktaran, eğlendirme, bilgilendirme ve eğitim gibi temel amaçlara sahip görsel, işitsel ve görsel-işitsel araçların tümü' olarak tanımlanan kavram aşağıdakilerden hangisidir?
+A - Dijital Ortam
+B - Mobil Uygulamalar
+C - Dijital Katılım
+D - Etkili İletişim
+E - Esnek Programlama
+Doğru Cevap A
+Aciklama Dijital Ortam: Çeşitli nitelikteki bilgiyi bireye ve topluluklara aktaran, eğlendirme, bilgilendirme ve eğitim gibi temel amaçlara sahip görsel, işitsel ve görsel-işitsel araçların tümüdür.
+
+Soru 60 - Aşağıdakilerden hangisi dijital ortamlarda renk körü engeline sahip kullanıcıların da bir ekrandaki içeriğin tamamını görebilmesi için tasarımda yüksek kontrast kullanılmasını ifade eden tasarım unsurudur?
+A - Kullanımda esneklik
+B - Basit ve sezgisel kullanım
+C - Hatalara tolerans
+D - Düşük fiziksel çaba
+E - Adil, eşitlikçi kullanım
+Doğru Cevap E
+Aciklama Dijital ortamlarda renk körü engeline sahip kullanıcıların da bir ekrandaki içeriğin tamamını görebilmesi için tasarımda yüksek kontrast kullanılması dijital ortamların tasarımında adil, eşitlikçi kullanım ilkesine örnektir.
+
+Soru 61 - Aşağıdakilerdeki ilkelerden hangisi dijital ortam kullanımında esneklik ilkesi yönergelerinden biridir?
+A - Tasarımın tüm kullanıcı kitlesi için çekici hâle getirilmesi
+B - Sağ veya sol elle erişilmesi ve kullanılması
+C - Çok çeşitli okuryazarlık ve dil becerilerini barındırması
+D - Temel bilgiler ve çevresi arasında yeterli kontrastın sağlanması
+E - Tehlikeler ve hatalar hakkında uyarılar sağlanması
+Doğru Cevap B
+Aciklama Sağ veya sol elle erişilmesi ve kullanılması, dijital ortam kullanımında esneklik ilkesi yönergelerinden biridir.
+
+Soru 62 - Aşağıdaki dijital ortam tasarım unsurlarından hangisi kullanıcı tarafından en son yapılan işlemi iptal etmek için “Geri Al” seçeneğinin sunulmasını ifade eden ilkedir?
+A - Adil, eşitlikçi kullanım
+B - Basit ve sezgisel kullanım
+C - Düşük fiziksel çaba
+D - Hatalara tolerans
+E - Kullanımda esneklik
+Doğru Cevap D
+Aciklama Dijital ortamların tasarımında, kullanıcı tercihinden kaynaklanabilecek olası hataları en aza indirgemek için en son yapılan işlemi “Geri Al” seçeneği imkânı tanınması, hatalara tolerans ilkesidir.
+
+Soru 63 - Aşağıdakilerden hangisi dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri değildir?
+A - Engelli çocukların dijital ve sosyal haklarını ele alan kamu programlarının genişletilmesi
+B - Dijital medyanın engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi
+C - Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması
+D - Hem çocuklara yönelik medya politikasından hem de engellilik alanından en iyi uygulamaların benimsenmesi
+E - Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması
+Doğru Cevap C
+Aciklama Engelli bireylere medya okuryazarlığı becerilerinin kazandırılması, dijital çağda engelli çocukların haklarına yönelik küresel gündem konularından biri değildir.
+
+Soru 64 - Dijital ortamların özelliklerinden biri olan Bağlantısallık Özelliği, dijital ortamlar için .......... kavramını ortaya çıkarmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
+A - gezinme
+B - çeşitlilik
+C - akışkanlık
+D - yakınsaklık
+E - asimetriklik
+Doğru Cevap A
+Aciklama Bağlantısallık özelliği, dijital ortamlar için gezinme kavramını ortaya çıkarmıştır.
+
+Soru 65 - Aşağıdakilerden hangisi dijital ortamların öğrencilere sunduğu yararlardan biri değildir?
+A - Öğrencilerle etkin çalışmalar için dijital teknolojileri kullanmada becerilerini geliştirme fırsat sağlamak
+B - Öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek
+C - Tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamak
+D - Öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak
+E - İletişim zorluklarını ve engellerini aşmaya yardımcı olmak
+Doğru Cevap A
+Aciklama Dijital ortamların öğrencilere genel olarak yararları; (a) öğrenci özerkliğini teşvik etmek, (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak, (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak, (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır Öğrencilerle etkin çalışmayı sağlamak için dijital teknolojileri kullanma konusunda kendi beceriler...
+
+Soru 66 - Evrensel tasarım kapsamında; dijital ortam tasarımında, dijital yeterlikler, motor beceriler, algı seviyesi ve benzeri özelliklerin kullanıcılarda farklılaşabilecek tercih ve yetkinliklere dikkat edilmesini gerektiren ilke aşağıdakilerden hangisidir?
+A - Adil, eşitlikçi kullanım
+B - Kullanımda esneklik
+C - Basit ve sezgisel kullanım
+D - Algılanabilir bilgi
+E - Hatalara Tölerans
+Doğru Cevap B
+Aciklama Evrensel tasarım kapsamında; dijital ortam tasarımında, dijital yeterlikler, motor beceriler, algı seviyesi ve benzeri özelliklerin kullanıcılarda farklılaşabilecek tercih ve yetkinliklere dikkat edilmesini gerektiren ilke kullanımda esneklik ilkesidir.
+
+Soru 67 - Evrensel tasarım kapsamında; tasarlanan dijital ortamın, sadece belirli kullanıcı özellikleri dikkate alınarak değil de herkesin kullanabileceği teknolojiler ve bu teknolojilerin boyutlarıyla uygun tasarlanması ilkesi aşağıdakilerden hangisidir?
+A - Ölçü, Alan Yaklaşımı ve Kullanımı
+B - Düşük Fiziksel Çaba
+C - Hatalara Tolerans
+D - Basit ve Sezgisel Kullanım
+E - Algılanabilir Bilgi
+Doğru Cevap A
+Aciklama Evrensel tasarım kapsamında; tasarlanan dijital ortamın, sadece belirli kullanıcı özellikleri dikkate alınarak değil de herkesin kullanabileceği teknolojiler ve bu teknolojilerin boyutlarıyla uygun tasarlanması ilkesi Ölçü, alan Yaklaşımı ve Kullanımı ilkesidir.
+
+Soru 68 - Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın ........... özelliği, sunum şekilleri sunma özelliği ve dijital ortamların .......... üzerindeki etkisidir. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
+A - dağıtım ortamı / duyuşsal algı biçimleri
+B - sunum şekilleri / dağıtım ortamı
+C - duyuşsal algı biçimleri / tasarım ilkeleri
+D - tasarım ilkeleri / dağıtım ortamı
+E - sunma / keskin ayrım biçimleri
+Doğru Cevap A
+Aciklama Dijital ortamlarda tasarım unsurlarını etkileyen durumlar: Dijital ortamın dağıtım ortamı özelliği, dijital ortamın sunum şekilleri sunma özelliği ve dijital ortamların duyuşsal algı biçimleri üzerindeki etkisidir.
+
+Soru 69 - Dijital ortamlarda renk körü engeline sahip kullanıcıların da bir ekrandaki içeriğin tamamını görebilmesi için tasarımda yüksek kontrast kullanılması evrensel tasarım ilkelerinden hangisine örnektir?
+A - Adil, eşitlikçi kullanım
+B - Kullanımda esneklik
+C - Basit ve sezgisel kullanım
+D - Hatalara tolerans
+E - Düşük fiziksel çaba
+Doğru Cevap A
+Aciklama Adil, eşitlikçi kullanım ilkesinin örneklerinden biridir.
+
+Soru 70 - Yazılımın, sınırlı ince motor becerileri olan öğrencilerin seçmesi için yeterince büyük ekran kontrol butonları içermesi aşağıdaki tasarım ilkelerinden hangisi ile ilgilidir?
+A - Hatalara tölerans
+B - Algılanabilir bilgi
+C - Basit ve sezgisel kullanım
+D - Ölçü, Alan Yaklaşımı ve Kullanımı
+E - Düşük fiziksel çaba
+Doğru Cevap D
+Aciklama Yazılımın, sınırlı ince motor becerileri olan öğrencilerin seçmesi için yeterince büyük ekran kontrol düğmelerini içermesi 'Ölçü, Alan Yaklaşımı ve Kullanımı' tasarım ilkesi ile ilgilidir.
+
+Soru 71 - İşitme engelli kullanıcıların video dökümü ile videoları izlemesinin sağlanması ve altyazı alternatifinin sağlanması evrensel tasarım ilkelerinden hangisi ile ilişkilidir?
+A - Algınalabilir bilgi
+B - Adil, eşitlikçi kullanım
+C - Kullanımda esneklik
+D - Hatalara tolerans
+E - Düşük fiziksel çaba
+Doğru Cevap A
+Aciklama İşitme engelli kullanıcıların video dökümü ile videoları izlemesinin sağlanması ve altyazı alternatifinin sağlanması evrensel tasarım ilkelerinden algılanabilir bilgi ile ilişkilidir.
+
+Soru 72 - 1. Kullanımda seçenekler sunar. 2. Sağ ve sol elin kullanımını dikkate alır, ikisinin de kullanılmasını sağlar. 3. Kullanım hızına uyumluluk sağlar. Yukarıdakilerden hangisi/hangileri kullanımda esneklik ilkesinin sağladıkları arasında yer alır?
+A - Yalnız 1
+B - Yalnız 2
+C - 1 ve 2
+D - 2 ve 3
+E - 1, 2 ve 3
+Doğru Cevap E
+Aciklama Ünite 4'te Evrensel Tasarım İlkeleri sıralanmış ve her biri açıklanmıştır. Kullanımda esneklik ilkesi, ürün ve ortam tasarımlarının geniş kişisel tercih ve yetenek yelpazesine hitap etmesini, kullanım metodu ile ilgili seçenekler sunarak kullanıcının hassas ve kesin iş yapmasını kolaylaştırmasını ifade eder. 1. Kullanımda seçenekler sunar (Doğru). 2. Sağ ve sol elin kullanımını dikkate alır (Bu, genellikle esneklik kapsamında değerlendirilir, ancak Ünite 5'te "Kullanımda Esneklik" tanımında "kul...
+
+Soru 73 - Dijital teknolojilerin karmaşıklığı, düşük gelir, işsizlik, eşlik eden sağlık sorunları, düşük sosyal statü, engel durumları ve sınırlı eğitim fırsatları gibi faktörlerin internet kullanımını sınırlandırması nedeniyle bireylerin sosyal dışlanma yaşamasına ne ad verilir?
+A - Dijital Katılım
+B - Siber Zorbalık
+C - Dijital Uçurum
+D - Dijital Obezite
+E - Dijital Farkındalık
+Doğru Cevap C
+Aciklama Ünite 4'te, 'Dijital Uçurum' başlığı altında, Dijital teknolojilerin karmaşıklığı, düşük gelir, işsizlik, eşlik eden sağlık sorunları, düşük sosyal statü ve sınırlı eğitim fırsatlarının birleşmesiyle birlikte İnternete erişim ve/veya İnternet kullanımı sınırlı olan bir dijital dışlanmayla ilişkilendirildiği belirtilmiştir. Bu durumun bireylerde sosyal dışlanma yaşamasına neden olduğu ifade edilmektedir.
+
+Soru 74 - Bir haber sitesinde çok sayıda metin, resim, video ve fotoğraf çok hızlı şekilde değişmekte ve her içerik birlikte görüntülenebilmektedir. Yukarıdaki örnek dijital ortamın aşağıdaki özelliklerinden hangisi ile ilişkilidir?
+A - Yaygınlık
+B - Yakınsaklık
+C - Bağlantısallık
+D - Akışkanlık
+E - Asimetriklik
+Doğru Cevap D
+Aciklama Ünite 4'te dijital ortamların özellikleri (Yakınsaklık, Bağlantısallık, Çeşitlilik, Yaygınlık, Algoritmik akış, Asimetriklik, Akışkanlık) listelenmiştir. Bir haber sitesinde çok sayıda metin, resim, video ve fotoğrafın hızlı değişmesi ve her içeriğin birlikte görüntülenebilmesi, ortamın içeriği ve etkileşim biçiminin sürekli hareketli ve dinamik olduğunu gösterir. Bu durum, dijital ortamların **Akışkanlık** özelliği ile ilişkilidir.
+
+Soru 75 - Aşağıdaki hizmetlerden hangisi e-erişilebilirlik hizmetleri arasında yer alır?
+A - Telefon rehberi
+B - Bina içindeki renkli bilgilendirme levhaları
+C - Akıllı baston
+D - e-Devlet kapısı uygulamasının disleksi eklentisi
+E - VR gözlük
+Doğru Cevap D
+Aciklama Ünite 4'te (Sayfa 2, e-Erişilebilirlik başlığı altında) e-erişilebilirlik, e-Devlet üzerinden işlem ve hizmetlerin sunulması sırasında sistemin erişilebilirliğini sağlamakla ilişkilendirilmiştir. e-Erişilebilirlik, bilgi ve iletişim teknolojilerinin (web tabanlı ve telefon tabanlı hizmetler dahil) herkes için erişilebilir olmasını kapsar. Seçeneklerde e-Devlet uygulamaları, dijital medya, web siteleri (mobil uygulamalar gibi) e-erişilebilirlik kapsamındadır.
+
+Soru 76 - Radyo dinlemek ve televizyon izlemek için podcast, youtube, ilgili web sayfaları ya da çeşitli mobil uygulamalar gibi yeni dijital ortamların kullanılabilmesi dijital ortamların aşağıdaki özelliklerinden hangisi ile İlişkilidir?
+A - Bağlantısallık
+B - Çeşitlilik
+C - Akışkanlık
+D - Yakınsaklık
+E - Geçişlilik
+Doğru Cevap D
+Aciklama Radyo dinlemek ve televizyon izlemek için podcast, youtube, ilgili web sayfaları ya da çeşitli mobil uygulamalar gibi yeni dijital ortamların kullanılabilmesi, dijital ortamların 'Yakınsaklık' özelliği ile ilişkilidir (Ünite 4). Yakınsaklık, farklı türdeki içeriklerin tek bir dijital ortamda bir araya gelmesini ifade eder.
+
+Soru 77 - Aşağıdakilerden hangisi dijital ortamın özelliklerinden biri değildir?
+A - Akışkanlık
+B - Bağlantısallık
+C - Yakınsallık
+D - Çeşitlilik
+E - Kapsayıcılık
+Doğru Cevap E
+Aciklama Ünite 4'te dijital ortamların özellikleri (Yakınsaklık, Bağlantısallık, Çeşitlilik, Yaygınlık, Algoritmik akış, Asimetriklik, Akışkanlık) listelenmiştir. **Kapsayıcılık** bir dijital ortam özelliği olarak listelenmemiştir; kapsayıcılık, erişilebilir tasarımın bir hedefi veya sonucu olarak ele alınır, ortamın kendi teknik özelliği olarak sıralanmaz.
+
+Soru 78 - 1. Robotlara insansı özellikler kazandırılır. 2. İnsan-bilgisayar etkileşimidir. 3. Otizmli bireylerde etkililiği sınırlıdır. Yukarıdaki robot teknolojisi ile ilgili bilgilerden hangisi/hangileri doğrudur?
+A - Yalnız 1
+B - Yalnız 2
+C - 1 ve 2
+D - 1 ve 3
+E - 2 ve 3
+Doğru Cevap C
+Aciklama Ünite 4'te, robot teknolojileri için 'insansı özellikler kazandırılır' (Hearingbot örneği), 'insan-bilgisayar etkileşimidir' (genel tanım) ifadeleri geçmektedir. Ancak, robot teknolojileriyle ilgili bilgilerin genelinde otizm (OSB) ile ilgili özel bir kısıtlama veya etkisizlikten bahsedilmemektedir. Aksine, sanal gerçeklik uygulamalarının otizmli bireylerin sosyal uyum becerileri için umut vaat ettiği belirtilmiştir. Bu nedenle 3. ifade (Etkililiği sınırlıdır) doğru kabul edilemez.
+
+Soru 79 - Bir haber sitesinde çok sayıda metin, resim, video ve fotoğraf çok hızlı şekilde değişmekte ve her içerik birlikte görüntülenebilmektedir. Yukarıdaki örnek dijital ortamın aşağıdaki özelliklerinden hangisi ile ilişkilidir?
+A - Akışkanlık
+B - Yaygınlık
+C - Asimetriklik
+D - Bağlantısallık
+E - Yakınsaklık
+Doğru Cevap A
+Aciklama Ünite 4'e göre, dijital ortamların özelliklerinden biri 'Çeşitlilik'tir. 'Detaylı sınıflandırmalardan birine göre dijital ortamların özellikleri şunlardır... Çeşitlilik' şeklinde listelenmiştir. Metinde, dijital ortamların; metin, resim, görüntü ve video gibi çok sayıda farklı türde içeriği barındırması çeşitliliğin bir göstergesidir. Ayrıca, bu içeriklerin birlikte (aynı anda) görüntülenebilmesi de bu ortamların dinamik yapısını ve çoklu formatı desteklemesini gösterir.
+

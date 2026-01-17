@@ -1,0 +1,670 @@
+AMBALAJ TASARIMI dersi ünite 5-6 soru sırasıyla soru atlamadan, soru özeti (anlaşır şekilde özetle, soru akılda kalabilmeli, sorunun anahtar kelimeleri önemli, Roma rakamı kullanma düz rakam kullan) doğru cevap ve açıklama çok detaya girme, çok hızlı konuşarak (tools kullanarak konuşma tarzını çok hızlı konuşarak bu şekilde ayarla). gibi olsun
+
+Unite 5
+Soru 1 - Aşağıdakilerden hangisi ambalajın başlangıçta hangi ihtiyaçtan dolayı yapıldığını gösterir?
+A - Satışının yaygınlaşması
+B - Ticaretin gelişimi
+C - Tüketiciye görsel sunum
+D - İklim şartlarına göre gıda ürünün korunması
+E - Tüketicide dikkat çekme
+Doğru Cevap D
+Aciklama Başlangıçta sadece iklim şartlarından korunma ve/veya gıda ürünlerinin korunması ihtiyacından ortaya çıkan ambalaj, endüstrileşme ve ticaretin yaygınlaşmasıyla, tüketicilerin dikkatini çeken, içerdiği ürünü tanıtan ve satın alma eylemine etki eden önemli bir unsur görevler üstlenmiştir. İklim şartlarına göre gıda ürünün korunması
+
+Soru 2 - Ambalaj, üretim aşamasından tüketiciye ulaşım sürecinde farklı işlemleri kolaylaştırır. Aşağıdakilerden hangisi bu işlemlerden değildir?
+A - Ürünü taşıma
+B - Ürünü koruma
+C - Ürün tüketimini hızlandırma
+D - Ürünü dağıtma
+E - Ürünü tanıtma
+Doğru Cevap C
+Aciklama Üretim aşamasından tüketiciye ulaşıncaya kadar, ürünü bir arada tutarak taşıma, depolama, dağıtma, tanıtma gibi işlemleri... Ürün tüketimini hızlandırma
+
+Soru 3 - Ambalaj malzemeleri, hammadde farklılıklarının yanı sıra daha birçok çeşitli özelliklere sahip olabilirler. Aşağıdakilerden hangisi bu özelliklerden değildir?
+A - Ekonomiklik
+B - Dayanıklılık
+C - Esneklik
+D - Geçirgenlik
+E - Biyobozunurluk
+Doğru Cevap A
+Aciklama Ambalaj malzemeleri, hammadde farklılıklarının yanı sıra; dayanıklılık, esneklik, geçirgenlik, renk, biyobozunurluk ve daha birçok çeşitli özelliklere sahip olabilirler. Ekonomiklik
+
+Soru 4 - Aşağıdakilerden hangisi cam ambalajların olumlu özelliklerinden değildir?
+A - Aşınma ve bozulmalara karşı dayanıklıdır.
+B - Uzun raf ömrü sağlar.
+C - Geçirgendir.
+D - Sterilize edilebilir.
+E - Çeşitli renk, büyüklük ve formda üretilebilir.
+Doğru Cevap C
+Aciklama Cam ambalajların olumlu özellikleri: • İçine konulan ürün görülebilir. • Aşınma ve bozulmalara karşı dayanıklıdır. • Renkli çeşitlerinde belirli düzeyde ışığa karşı koruma sağlar. • Geçirgen değildir. • Isı ve basınca dayanımı yüksektir. • Sterilize edilebilir. • Tüketim sonunda farklı amaçlar için de kullanılabilir. • Çeşitli renk, büyüklük ve formda üretilebilir. • Uzun raf ömrü sağlar. • Ambalajlanan ürünler kimyasal etkileşim göstermez. • Defalarca kullanım özelliği olduğundan ekonomiktir. G...
+
+Soru 5 - Sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılan ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Cam
+B - Kâğıt
+C - Metal
+D - Plastik
+E - Ahşap
+Doğru Cevap E
+Aciklama Ahşap ambalaj malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır.
+
+Soru 6 - Hafif, paslanmayan, korozif olmayan, yüksek ısı ve elektrik yalıtım özelliklerine sahip, kolay zarar görmeyen, esnek, yumuşak ve kolay kalıplanabilen yapıya sahip ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Kâğıt
+B - Plastik
+C - Metal
+D - Ahşap
+E - Cam
+Doğru Cevap B
+Aciklama Plastik ve plastik esaslı hammaddelerin hafif, paslanmayan, korozif olmayan, yüksek ısı ve elektrik yalıtım özelliklerine sahip, kolay zarar görmeyen, esnek, yumuşak ve kolay kalıplanabilen yapıya sahip olmaları plastik hammaddeleri ambalaj malzemelerinin vazgeçilmezlerinden biri haline getirmektedir.
+
+Soru 7 - Karton ve oluklu mukavva koliler, shrink filmler, streç filmler, plastik kemerler, paletler ve kasalar yaygın kullanılan ambalaj türü aşağıdakilerden hangisidir?
+A - Flexible Ambalajlar
+B - Kompozit Ambalajlar
+C - Birincil Ambalajlar
+D - İkincil Ambalajlar
+E - Üçüncül Ambalajlar
+Doğru Cevap E
+Aciklama Karton ve oluklu mukavva koliler, shrink filmler, streç filmler, plastik kemerler, paletler ve kasalar yaygın kullanılan üçüncül ambalajlardır.
+
+Soru 8 - Bir ambalajın yapısal tasarım uygulamaları genellikle kim tarafından yapılır?
+A - Grafik tasarımcı
+B - Makine mühendisi
+C - Endüstri mühendisi
+D - Endüstri tasarımcı
+E - İllüstratör
+Doğru Cevap D
+Aciklama Yapısal tasarım uygulamaları genellikle endüstri tasarımcıları tarafından yapılır ve bu tasarımcılar ambalaj üretiminde kullanılan temel malzemeler üzerinde geniş bilgi ve birikime sahip olmalıdırlar.
+
+Soru 9 - Aşağıdakilerden hangisi ambalajın yapı tasarımında dikkat edilmesi gereken özelliklerden değildir?
+A - Ambalajlanacak ürünün dağıtımı
+B - Ambalajlanacak ürünün geometrik form özellikleri
+C - Ambalajlanacak ürüne uygun malzeme cinsi seçimi
+D - Ambalajın üretimi ve dolum süreci
+E - Ambalajlanacak ürünün kimyasal ve fiziksel özellikleri
+Doğru Cevap A
+Aciklama Ambalajın yapı tasarımında aşağıdakilere dikkat edilmesi gerekir: • Ambalajlanacak ürünün kimyasal ve fiziksel özellikleri (Katı, sıvı, gaz, toz, granül…) • Ambalajlanacak ürünün geometrik form özellikleri (Üçgen, dikdörtgen, prizma, küp, silindir…) • Ambalajlanacak ürüne uygun malzeme cinsi seçimi (Cam, metal, plastik, ahşap, kâğıt…) • Ambalajın üretimi ve dolum süreci Ambalajlanacak ürünün dağıtımı
+
+Soru 10 - Aşağıdakilerden hangisi çukur, düz, bombeli, girintili çıkıntılı ya da eğimli gibi farklı yapı formlarından oluşan yüzeylere baskı yapmak için kullanılan endüstriyel baskı tekniğidir?
+A - Flekso baskı
+B - Serigrafi baskı
+C - Tifdruk baskı
+D - Tampon baskı
+E - Ofset baskı
+Doğru Cevap D
+Aciklama Tampon baskı: Çukur, düz, bombeli, girintili çıkıntılı ya da eğimli gibi farklı yapı formlarından oluşan yüzeylere baskı yapmak için kullanılan bir tekniktir (Tepecik, 2002, s. 115).
+
+Soru 11 - Isıya dayanıklıdır Geri dönüştürülebilirdir Kimyasallara karşı dirençlidir Yukarıda özellikleri belirtilen ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Kağıt
+B - Metal
+C - Cam
+D - Plastik
+E - Ahşap
+Doğru Cevap C
+Aciklama Cam ambalaj malzemeleri genellikle ısıya dayanıklı, geri dönüştürülebilir ve kimyasallara karşı dirençli özelliktedir.
+
+Soru 12 - Buharla bükme ve CNC ile işleme yöntemleri hangi ambalaj malzemesine şekil vermede kullanılan yöntemlerdir?
+A - Ahşap
+B - Cam
+C - Kağıt
+D - Plastik
+E - Metal
+Doğru Cevap A
+Aciklama Buharla bükme ve CNC ile işleme yöntemleri ahşaba şekil verme de kullanılır (Thompson, 2007, s. 421-422).
+
+Soru 13 - Günlük hayatımızda sıklıkla karşımıza çıkan içecek ya da konserve kutuları, boya tüpleri ve yağ tenekeleri hangi ambalajlara örnek olarak verilebilir.
+A - Kağıt
+B - Cam
+C - Ahşap
+D - Metal
+E - Plastik
+Doğru Cevap D
+Aciklama Günlük hayatımızda sıklıkla karşımıza çıkan içecek ya da konserve kutuları, boya tüpleri ve yağ tenekeleri metal ambalajlara örnek olarak verilebilir.
+
+Soru 14 - Petrol veya doğal gaz gibi fosil yakıtlardan üretilen veya bitkisel kaynaklardan elde edilen sentetik veya yarı sentetik polimerlerdir. Yukarıdaki tanıma uyan ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Kağıt
+B - Metal
+C - Ahşap
+D - Cam
+E - Plastik
+Doğru Cevap E
+Aciklama Plastik, petrol veya doğal gaz gibi fosil yakıtlardan üretilen veya bitkisel kaynaklardan elde edilen sentetik veya yarı sentetik polimerlerdir.
+
+Soru 15 - Genellikle dayanıklı, esnek, renkli ,hafif ve ucuz gibi özelliklere sahip ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Kağıt
+B - Plastik
+C - Metal
+D - Cam
+E - Ahşap
+Doğru Cevap B
+Aciklama Plastik ambalajlar genellikle dayanıklı, esnek, renkli ve ucuz özelliktedir.
+
+Soru 16 - Aşağıdakilerden hangisi plastik ambalaj malzemelerinin üretim yöntemlerinden biri değildir?
+A - Ekstrüzyon
+B - Enjeksiyon kalıplama
+C - İndirme-çökertme
+D - Termoformlama
+E - Vakum şekillendirme
+Doğru Cevap C
+Aciklama Plastik ambalajların üretim yöntemleri arasında ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme gibi işlemler bulunur. İndirme-çökertme tekniği cam yapım-işlemede kullanılmaktadır.
+
+Soru 17 - Cam gibi şeffaftır ve su ve gazlı içecekler için kullanılır. Hardal, fıstıkezmesi, yenilebilir yağlar ve şuruplar gibi yiyecekler için kullanılır. Gıda ve tıbbi ürünler için keseler bu malzemeden üretilir. Yukarıda özellikleri verilen plastik ambalaj türü aşağıdakilerden hangisidir?
+A - Yüksek yoğunluklu polietilen (HDPE)
+B - Düşük yoğunluklu polietilen (LDPE)
+C - Polivinilklorür (PVC)
+D - Polistren (PS)
+E - Polietilen tereftalat (PET)
+Doğru Cevap E
+Aciklama Polietilen tereftalat (PET): Cam gibi şeffaftır ve su ve gazlı içecekler için kullanılır; hardal, fıstık ezmesi, yenilebilir yağlar ve şuruplar gibi yiyecekler; gıda ve tıbbi ürünler için keseler bu malzemeden üretilir.
+
+Soru 18 - Plastik borular, çöp torbaları, leğenler, tel izolasyonları, kovalar, ince taşıma torbaları ile süt, su, meyve suyu, sıvı deterjan, motor yağı, çamaşır suyu, şampuan, parfüm ve losyon kaplarının tamamının üretiminde aşağıdaki hangi malzeme kullanılmaktadır?
+A - Polivinilklorür (PVC)
+B - Polistren (PS)
+C - Polietilen tereftalat (PET)
+D - Yüksek yoğunluklu polietilen (HDPE)
+E - Polipropilen
+Doğru Cevap D
+Aciklama Yüksek yoğunluklu polietilen (HDPE/HighDensity PolyEthylene): Dayanıklı ve ekonomik bir malzemedir. Görüntüsü doğal süt renginde olduğu için şeffaflığın önemli olduğu ürünlerde tercih edilmez. İstenilen her renge boyanması mümkündür. Kolayca şekillendirilebilir ve kolay kolay dağılmaz özelliğiyle birçok amaç için kullanılabilir. Plastik borular, çöp torbaları, leğenler, tel izolasyonları, kovalar, ince taşıma torbaları, süt, su, meyve suyu, sıvı deterjan, motor yağı, çamaşır suyu, şampuan, parfü...
+
+Soru 19 - Nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar. Yukarıda fonksiyonu tanımlanmış ambalaj türü aşağıdakilerden hangisinde verilmiştir?
+A - Birincil ambalaj
+B - İkincil ambalaj
+C - Üçüncül ambalaj
+D - Dördüncül ambalaj
+E - Beşincil ambalaj
+Doğru Cevap C
+Aciklama Üçüncül Ambalaj, nakliye ambalajı, depolama ambalajı veya yükleme ambalajı olarak da isimlendirilir. Bu ambalaj ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır ve son tüketiciye ulaşmazlar.
+
+Soru 20 - Bilgisayar ortamında tasarlanan çalışmaların film ya da kalıp hazırlama gibi işlem basamakları olmadan doğrudan baskı makinalarına gönderilip, tasarımın baskı altı malzemelerine aktarılması suretiyle yapılan baskı tekniği aşağıdakilerden hangisidir?
+A - Dijital baskı tekniği
+B - Yüksek baskı tekniği
+C - Çukur baskı tekniği
+D - Düz baskı tekniği
+E - Şablon baskı tekniği
+Doğru Cevap A
+Aciklama Bilgisayar ortamında tasarlanan çalışmaların film ya da kalıp hazırlama gibi işlem basamakları olmadan doğrudan baskı makinalarını gönderilip, tasarımın baskı altı malzemelerine aktarılması suretiyle yapılan baskılara dijital baskı denir. Dijital baskı tekniğini, geleneksel baskı tekniklerinden ayıran en önemli özellik film ve kalıp hazırlama sürecinin olmaması ve tasarımların baskılarda kişiye özel basılabilmesine imkân sunmasıdır.
+
+Soru 21 - Aşağıdakilerden hangisi ambalaj malzemesi camın sunduğu avantajlardan biridir?
+A - Kimyasal maddelere karşı dayanıklı olması nedeniyle kimyasal ürünlerin güvenli bir şekilde saklanmasını sağlaması
+B - Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla ekonomik bir seçenek olması
+C - Ürünlerin nakliye ve depolama süreçlerinde güvenli ve dayanıklı olmasına imkan vermesi
+D - Taşıma maliyetlerini azaltması ve lojistik süreçlerini kolaylaştırması
+E - Doğada oldukça kolay ve hızlı çözünebilmesi
+Doğru Cevap A
+Aciklama Ünite 5'te cam ambalajların özellikleri listelenmiştir. Cam ambalajların olumlu özellikleri arasında 'İçine konulan ürün görülebilir', 'Aşınma ve bozulmalara karşı dayanıklıdır', 'Renkli çeşitlerinde belirli düzeyde ışığa karşı koruma sağlar' ve 'Geçirgen değildir' ifadeleri bulunmaktadır. Verilen seçenekler arasında en belirgin avantajlardan biri, içeriğin görülebilir olmasıdır (Transparanlık).
+
+Soru 22 - Ambalajın yapısal tasarımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+A - Bir ürünün ambalaj yapısında hangi katmanın birincil, ikincil ya da üçüncül ambalaj olduğu, bu katmanların önem sırasına göre belirlenir.
+B - Her üründe mutlaka hem birincil, hem ikincil hem de üçüncül ambalaj bulunma gerekliliği yoktur.
+C - Ürünün içeriği, yapısı ve formu gereğince ambalajın yapısal tasarımı içten dışa yapılabilir.
+D - Yapısal tasarım, ambalajın kullanılabilirlik, dayanıklılık ve estetik gibi faktörleri göz önünde bulundurarak, ürünün korunmasını, taşınmasını, depolanmasını ve tüketiciye sunulmasını en iyi şekilde sağlamayı amaçlar.
+E - Ambalajın yapısal tasarımında göz önüne alınması gereken unsurlardan birisi de yasal zorunluluklardır.
+Doğru Cevap A
+Aciklama Soruda A şıkkının doğru kabul edilmesi istendiği belirtilmiştir. Ancak, Ünite 5 özetinde ambalajlar Birincil (Primer), İkincil ve Üçüncül olarak sınıflandırılır. Birincil ambalaj doğrudan ürünle temas eder, ikincil ambalaj birincil ambalajları gruplandırır/korur, üçüncül ambalaj ise nakliye/depolama için kullanılır. Bir ürünün bu üç seviyeden hangilerine sahip olması gerektiği tamamen ürünün içeriğine, dağıtım/pazarlama stratejisine bağlıdır; her zaman hepsinin bulunması zorunlu değildir. Ayrıca...
+
+Soru 23 - Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?
+A - Plastik
+B - Kağıt
+C - Cam
+D - Krom
+E - Ahşap
+Doğru Cevap E
+Aciklama Ünite 5'te, Ahşap Ambalaj Malzemeleri ve Özellikleri başlığı altında, ahşabın 'doğal ve sıcak bir estetik sunan' ve 'genellikle lüks ürünlerin ambalajında tercih edilen' bir seçenek olduğu belirtilmiştir. Ayrıca, ahşabın 'ürünlere doğal ve organik bir his' verdiği ifade edilmiştir.
+
+Soru 24 - LDPE, HDPE, PP gibi çeşitleri bulunan ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Silikon
+B - Epoksi
+C - Cam
+D - Plastik
+E - Mukavva
+Doğru Cevap D
+Aciklama LDPE (Düşük Yoğunluklu Polietilen), HDPE (Yüksek Yoğunluklu Polietilen) ve PP (Polipropilen) gibi çeşitleri bulunan ambalaj malzemeleri Plastik Ambalaj Malzemeleri kategorisine girer. Ünite 5'te plastik ambalajların özellikleri ve türleri arasında bu malzemeler sayılmıştır.
+
+Soru 25 - Ambalajların gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bütünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getiren ambalaj türü aşağıdakilerden hangisidir?
+A - Dördüncü seviye ambalaj
+B - Beşinci seviye ambalaj
+C - Birinci seviye ambalaj
+D - Üçüncü seviye ambalaj
+E - İkinci seviye ambalaj
+Doğru Cevap D
+Aciklama Ünite 5'te ambalaj türleri fonksiyonlarına göre Birincil, İkincil ve Üçüncül olarak sınıflandırılmıştır. Üçüncül Ambalaj (Nakliye ambalajı/Grup Ambalajı), birincil ve ikincil ambalajları içerir ve nakliye işlemlerini kolaylaştırmak amacıyla kullanılır. Soruda geçen 'gruplandırılıp plastik filmlerle sarılarak paletlerle dağıtıma hazır ve taşınabilir hale getirilme' görevi Üçüncül Ambalajın (nakliye/yükleme) tanımına uymaktadır. İkincil ambalaj ise, genellikle birincil ambalajları gruplandırır, an...
+
+Soru 26 - Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?
+A - Plastik
+B - Ahşap
+C - Krom
+D - Cam
+E - Kağıt
+Doğru Cevap B
+Aciklama Ünite 8'e göre, ahşap malzeme, ambalaj tasarımında doğal ve sıcak bir estetik sunan ve çevresel sürdürülebilirlik açısından tercih edilebilir bir seçenek olarak belirtilmiştir. Özellikle lüks ürünlerin ambalajında tercih edilir ve ürünlere doğal ve organik bir his verir.
+
+Soru 27 - Dayanıklı ve sert bir plastik malzemedir. Gıda saklama kapları, şişeler, oyuncaklar ve otomotiv ambalajları gibi birçok alanda kullanılır. Yukarıda tanımlanan plastik türü aşağıdakilerden hangisidir?
+A - PP
+B - HDPE
+C - PET
+D - LDPE
+E - PVC
+Doğru Cevap A
+Aciklama Ünite 5'te plastik ambalaj malzemeleri listelenmiştir. PP (Polipropilen) şu şekilde tanımlanmıştır: 'Dayanıklı ve sert bir plastik malzemedir. Gıda saklama kapları, şişeler, oyuncaklar ve otomotiv ambalajları gibi birçok alanda kullanılır.' Bu tanım sorudaki tanıma birebir uymaktadır.
+
+Soru 28 - Aşağıdaki ambalaj malzemelerinden hangisi hafif, ekonomik, geri dönüştürülebilir, baskıya uygun ancak nem ve ısıya dayanıksızdır?
+A - Plastik
+B - Metal
+C - Kumaş
+D - Kâğıt
+E - Cam
+Doğru Cevap D
+Aciklama Kâğıt/karton malzeme; hafif, ucuz, geri dönüştürülebilir ve baskıya uygun olmasına rağmen neme, ısıya ve mekanik hasara karşı dayanıksızdır. Bu özellikleri Ünite 5'te Kâğıt Ambalaj Malzemeleri ve Özellikleri altında belirtilmiştir.
+
+Soru 29 - ambalaj malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Metal
+B - Kâğıt
+C - Plastik
+D - Cam
+E - Ahşap
+Doğru Cevap E
+Aciklama Ünite 5'te Ahşap Ambalaj Malzemelerinin özellikleri anlatılırken, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünler için, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde ve kendine has dokusu nedeniyle özel tasarım ürünleri için kullanıldığı belirtilmiştir. Bu tanım E şıkkındaki Ahşap malzemeyi doğru olarak işaret eder.
+
+Soru 30 - Ürünleri tüketiciye sunma süreci kapsamında, taşıma, depolama, nakliye ve dağıtım aşamalarında ürünlerin zarar görmesine neden olabilecek muhtemel darbelere ve titreşimlere karşı korumak amacıyla kullanılan malzemeye ne ad verilir?
+A - Jelatin
+B - Kapak
+C - Yastık
+D - Folyo
+E - Kompozit
+Doğru Cevap C
+Aciklama Yastıklar; taşıma, depolama, nakliye ve dağıtım aşamalarında ürünlerin zarar görmesine neden olabilecek muhtemel darbelere ve titreşimlere karşı korumak amacıyla kullanılan malzemelerdir. Bu bilgi Ünite 5'te Ambalaj Malzemeleri ve Özellikleri altında 'Yastıklar' başlığında yer almaktadır.
+
+Soru 31 - Ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme yöntemlerinin tümünün uygulanabildiği ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Ahşap
+B - Plastik
+C - Cam
+D - Metal
+E - Kâğıt
+Doğru Cevap B
+Aciklama Plastik ambalajların üretim yöntemleri arasında ekstrüzyon, enjeksiyon kalıplama, şişirme kalıplama, termoformlama ve vakum şekillendirme bulunur. Bu yöntemlerin tamamı, çeşitli plastik türleri için kullanılabilir. Bu bilgi Ünite 5'te Plastik Ambalaj Malzemeleri ve Özellikleri başlığı altında belirtilmiştir.
+
+Soru 32 - Yapı tasarımı tamamlanmış ambalaj ya da ambalaj bileşenlerinin, pilyaj, perforaj, kesim, yapıştırma, kazıma vb. yerlerin gerçek ölçülerde gösterildiği iki boyutlu çizimine ne ad verilir?
+A - Tasarım planı
+B - Açılım planı
+C - Ölçü planı
+D - Taslak planı
+E - Şablon planı
+Doğru Cevap B
+Aciklama Bu tanım, yapısal tasarımın teknik aşamalarından birini, yani iki boyutlu çizimi açıklamaktadır. Ünite 5'te Yapısal Tasarım, üç boyutlu tasarım süreci olarak tanımlanır. Bu sürecin tamamlanmasının ardından, tasarımın detaylarının, ölçülerinin ve üretim hazırlıklarının iki boyutlu çizimler (teknik çizimler) olarak gösterilmesi gerekir.
+
+Soru 33 - LDPE, HDPE, PP gibi çeşitleri bulunan ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Mukavva
+B - Silikon
+C - Cam
+D - Plastik
+E - Epoksi
+Doğru Cevap D
+Aciklama LDPE (Düşük Yoğunluklu Polietilen), HDPE (Yüksek Yoğunluklu Polietilen) ve PP (Polipropilen) tipleri, Ünite 5'te plastik ambalaj malzemeleri olarak açıkça listelenmiştir.
+
+Soru 34 - Plastik, kâğıt ve metal dahil olmak üzere çok çeşitli malzemelerden yapılabilen; çanta, kese ve diğer ambalaj türlerini oluşturmak için kullanılan ince malzeme katmanlarına ne ad verilir?
+A - Yastık
+B - Seperatör
+C - Film
+D - Folyo
+E - Kapak
+Doğru Cevap C
+Aciklama Çanta, kese ve diğer ambalaj türlerini oluşturmak için kullanılan, plastik, kâğıt ve metal dahil çok çeşitli malzemelerden yapılabilen ince malzeme katmanlarına Filmler adı verilir. Bu tanım, Ünite 5'teki Filmler tanımına tam olarak uymaktadır.
+
+Soru 35 - Birden fazla malzemenin bir arada kullanılmasıyla oluşan ambalajlara ne ad verilir?
+A - Kompozit ambalaj
+B - Flexible ambalaj
+C - Kombine ambalaj
+D - Alaşım ambalaj
+E - Primer ambalaj
+Doğru Cevap A
+Aciklama Birden fazla malzeme kombinasyonundan oluşan ambalajlara Kompozit Ambalajlar (veya Steril Karton Ambalajlar) denir. Ünite 5'te bu ambalajların temel amacının, farklı malzemelerin özelliklerini birleştirerek daha uygun bir ambalaj oluşturmak olduğu belirtilmiştir.
+
+Soru 36 - Aşağıdakilerden hangisi ambalaj malzemesi olarak kullanılan camın sunduğu avantajlardan biridir?
+A - Ürünlerin nakliye ve depolama süreçlerinde güvenli ve dayanıklı olmasına imkan vermesi
+B - Kimyasal maddelere karşı dayanıklı olması nedeniyle kimyasal ürünlerin güvenli bir şekilde saklanmasını sağlaması
+C - Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla ekonomik bir seçenek olması
+D - Doğada oldukça kolay ve hızlı çözünebilmesi
+E - Taşıma maliyetlerini azaltması ve lojistik süreçlerini kolaylaştırması
+Doğru Cevap B
+Aciklama Cam ambalaj malzemelerinin olumlu özellikleri arasında içeriğin görülebilir olması, aşınma ve bozulmalara karşı dayanıklılık, renklendirilmiş çeşitlerde belirli düzeyde ışıktan koruma sağlama ve geçirgen olmama (gaz/nem geçirmeme) sayılır (Ünite 5). Soruda camın sunduğu avantajlardan biri sorulmaktadır.
+
+Soru 37 - LDPE, HDPE, PP gibi çeşitleri bulunan ambalaj malzemesi aşağıdakilerden hangisidir?
+A - Silikon
+B - Epoksi
+C - Cam
+D - Plastik
+E - Mukavva
+Doğru Cevap D
+Aciklama LDPE (Düşük Yoğunluklu Polietilen), HDPE (Yüksek Yoğunluklu Polietilen) ve PP (Polipropilen), plastik ambalaj yapımında kullanılan yaygın plastik malzeme türlerindendir (Ünite 5). Bu malzemeler plastik ambalaj kategorisine girer.
+
+Soru 38 - Ambalaj tasarımında doğal ve sıcak bir estetik sunan, genellikle lüks ürünlerin ambalajında tercih edilen ve ürünlere organik bir his veren malzeme aşağıdakilerden hangisidir?
+A - Kağıt
+B - Ahşap
+C - Plastik
+D - Cam
+E - Krom
+Doğru Cevap B
+Aciklama Ahşap malzeme, ambalaj tasarımında doğal ve sıcak bir estetik sunan, çevresel sürdürülebilirlik açısından tercih edilebilir ve özellikle lüks ürünlerin ambalajında tercih edilen bir malzemedir. Ahşap, ürünlere doğal ve organik bir his verir (Ünite 5).
+
+Soru 39 - Yapı tasarımı tamamlanmış ambalaj ya da ambalaj bileşenlerinin, pilyaj, perforaj, kesim, yapıştırma, kazıma vb. yerlerin gerçek ölçülerde gösterildiği iki boyutlu çizimine ne ad verilir?
+A - Şablon planı
+B - Ölçü planı
+C - Açılım planı
+D - Taslak planı
+E - Tasarım planı
+Doğru Cevap C
+Aciklama Ambalajın yapı (konstrüksiyon) tasarımı, üç boyutlu tasarım sürecini kapsar. Bu aşamada ilk olarak ambalajın koruma ve taşıma işlevleri yerine getirilir. İkinci aşamada grafik tasarım devreye girer. Yapısal tasarım aşamasında (veya sonrasında), malzeme, kesim, katlama, yapıştırma detaylarını gösteren, ürünün fiziksel boyutlarını ve konstrüksiyonunu belirten teknik çizimler hazırlanır. Endüstriyel tasarımda, bu tür detaylı iki boyutlu çizimler genellikle 'teknik çizim' veya 'baskıya hazır çizim' ...
+
+Soru 40 - ------ malzemeleri, sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünlerin ambalajlanmasında, hava geçirgenlikleri nedeniyle meyve ve sebzelerin paketlenmesinde, kendine has dokusunun olması nedeniyle de özel tasarım ürünleri ve birçok hediyenin sunumu için yaygın olarak kullanılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - Ahşap
+B - Cam
+C - Kâğıt
+D - Metal
+E - Plastik
+Doğru Cevap A
+Aciklama Ünite 5'teki Ahşap Ambalaj Malzemeleri ve Özellikleri başlığı altında, ahşap ambalajların sertlikleri ve dayanıklılıkları nedeniyle ağır ve kırılgan ürünler için uygun olduğu, hava geçirgenlikleri sebebiyle meyve ve sebzelerin paketlenmesinde kullanıldığı ve kendine has dokusu sayesinde özel tasarım ürünleri için tercih edildiği belirtilmektedir.
+
+Soru 41 - Kağıt ambalajların iç ve dış yüzeyine kaplama, laminasyon ve lak gibi işlemlerin uygulanmasının temel amacı aşağıdakilerden hangisidir?
+A - Satış aşamasında diğer ürünler arasından öne çıkarak tüketicinin ilgisini çekmek
+B - Nakliye giderlerinden tasarruf etmek
+C - Aynı malzemeyi kullanarak davranış özellikleri farklı ambalajlar üretmek
+D - Geri dönüşümü ve sürdürülebilirliği artırmak
+E - Ambalajın üretim maliyetini düşürmek
+Doğru Cevap C
+Aciklama Ünite 5'te Kâğıt ve Karton Ambalajların Geri Dönüşümü anlatılırken, temizlenme aşamasında, kâğıt liflerinin polimer kaplamalar, mürekkepler ve yapıştırıcılar gibi kirleticilerden arındırılmasının temel amacının, geri dönüştürülecek kâğıt liflerinin kalitesini sağlamak olduğu belirtilmiştir. Ayrıca, kâğıt/kartonun neme karşı davranış özelliklerini değiştirmek için kaplama, laminasyon ve lak uygulandığı bilgisi de mevcuttur (Ünite 5: 'teknolojinin gelişmesiyle kâğıdın iç ve dış yüzeyine kaplama, l...
+
+Soru 42 - Ambalajların gruplandırılıp plastik filmlerle paletlerle dağıtıma hazır ve taşınabilir hale getirilmelerini sağlarken, hem bütünlüğü sağlama hem de ürünlerin korunmasına destek olma görevlerini yerine getiren ambalaj türü aşağıdakilerden hangisidir?
+A - Birinci seviye ambalaj
+B - İkinci seviye ambalaj
+C - Üçüncü seviye ambalaj
+D - Dördüncü seviye ambalaj
+E - Beşinci seviye ambalaj
+Doğru Cevap C
+Aciklama Ünite 5'te, Ambalaj Türleri başlığı altında Üçüncül Ambalaj (Nakliye ambalajı/Yükleme ambalajı) şöyle tanımlanmıştır: 'Bu ambalaj birinci ve ikincil ambalajı içerir ve ürünün tüketiciye sunulma sürecinde nakliye işlemlerini kolaylaştırmak amacıyla kullanılır.' Soruda bahsedilen, ambalajların gruplandırılması, plastik filmlerle sarılarak paletlerle dağıtıma hazır hale getirilmesi görevi Üçüncül (Nakliye) ambalajlara aittir.
+
+Soru 43 - Ürünleri tüketiciye sunma süreci kapsamında, taşıma, depolama, nakliye ve dağıtım aşamalarında ürünlerin zarar görmesine neden olabilecek muhtemel darbelere ve titreşimlere karşı korumak amacıyla kullanılan malzemeye ne ad verilir?
+A - Yastık
+B - Kapak
+C - Folyo
+D - Jelatin
+E - Kompozit
+Doğru Cevap A
+Aciklama Ünite 5'te 'Ambalaj Türleri ve Özellikleri' altında sıralanan yardımcı malzemelerden Yastıklar, ürünleri taşıma, depolama ve nakliye aşamalarında muhtemel darbelere ve titreşimlere karşı korumak amacıyla kullanılır. Bu tanım, sorudaki işlevi birebir karşılamaktadır.
+
+Soru 44 - Aşağıdakilerden hangisi kabarcıklı ambalaj olarak da bilinen, bir ürünün ön yüzünün etrafında ısıyla şekillendirilen ve şeffaf plastikten görülmesini sağlayan ambalaj türüdür?
+A - Kompozit ambalaj
+B - Blister ambalaj
+C - Flexible ambalaj
+D - Skin ambalaj
+E - Rijit ambalaj
+Doğru Cevap B
+Aciklama Kabarcıklı ambalaj (blister) kartlı ambalajların bir çeşididir. Kartlı ambalajlar, ürünü desteklemek için düz bir karton ve örtmek için ürüne uygun şekilde şekillendirilmiş şeffaf plastik filmden yararlanılarak oluşturulur. Bu ambalajlar, blister (kabarcık) ve skin (zar) olmak üzere iki çeşittir. Dolayısıyla, sorudaki tanım blister ambalajı ifade etmektedir (Ünite 5).
+
+Unite 6
+Soru 45 - ve 20. yüzyıllarda ambalaj üretiminin amacı/amaçları aşağıdakilerden hangisi/hangileridir? 1.maliyet verimliliği 2.nakliye ve satış sürecinde ürünün korunması 3.üretici tercihi 4.sürdürülebilirlik ve atık azaltma 5.kişisel beğeni
+A - 1,2,3
+B - 4,5
+C - 1,3,5
+D - yalnız 4
+E - 1,2,4
+Doğru Cevap E
+Aciklama Giriş ve 20. yüzyıllarda, sanayileşme ve seri üretim tekniklerinin yükselişi, ambalaj alanında standartlaştırılmış formatların benimsenerek bir ambalaj devrimi başlatmıştır. Bu dönemde, temel odak noktası maliyet verimliliği ve nakliye süreçlerindeki korumayı amaçlayan ambalaj, çevresel kaygıların artmasıyla birlikte sürdürülebilirlik ve atık azaltma konuları ön plana çıkmış bu da çevre dostu malzemelerin ve yalın tasarımların benimsenmesine yol açmıştır. Doğru cevap: E- 1,2,4
+
+Soru 46 - Akıllı ambalajların alıcılara sağladığı fayda/faydalar aşağıdakilerden hangisidir? 1.ürünü algılamak 2.daha bol ürün alma imkanı 3.ürünle ilgili doğru verileri iletmek, 4.ürün hakkında bilgi vermek 5.güvenli ve bilinçli alışveriş imkanı 6.hızlı alışveriş imkanı
+A - 1,3,4,5
+B - 2,4,6
+C - 1,3,5
+D - Yalnız 3
+E - 1,5
+Doğru Cevap A
+Aciklama Giriş Akıllı ambalajlar, algılama, barkod ve ticari marka bilgi sistemlerini kullanarak ürünle ilgili doğru verileri kullanıcılara ileterek, tüketicilerin ürünler hakkında daha fazla bilgi sahibi olmalarını, güvenli ve bilinçli alışveriş yapmalarını sağlamaktadır. Doğru cevap A-1,3,4,5
+
+Soru 47 - Aktif ambalajın anlamı aşağıdakilerden hangisini/hangilerini kapsar? 1.raf ömrünü uzatmak 2.ürün konusunda bilgi sunmak 3.göze hitap etmek 4.zevke hitap etmek
+A - 1,3
+B - 2,4
+C - Yalnız 1
+D - Yalnız 2
+E - 1,2,3,4
+Doğru Cevap C
+Aciklama Aktif ve Akıllı Ambalajlar Aktif ambalaj, raf ömrünü uzatmak için paketlenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddelerin kullanılmasını içermektedir. Doğru cevap C-Yalnız 1
+
+Soru 48 - Aşağıdakilerden hangisi/hangileri akıllı ambalaj çözümlerinin temel amaçlarındandır? 1. Raf ömrünü uzatmak 2. Tedarik zinciri yönetimini iyileştirmek 3. Ürünü pazardaki rakiplerinden ayırmak
+A - Yalnız 2
+B - 1, 2
+C - Yalnız 1
+D - 1, 2, 3
+E - 1, 3
+Doğru Cevap B
+Aciklama Aktif ve Akıllı Ambalajlar Akıllı ambalajlar, tüketici deneyimlerini geliştiren, ürünlerin raf ömrünü uzatan ve tedarik zinciri yönetimini iyileştiren yenilikçi tasarım ve teknoloji entegrasyonuyla sektörde devrim yaratan çözümler olarak karşımıza çıkmaktadır. Doğru cevap: B) 1, 2
+
+Soru 49 - Aşağıdakilerden hangisi/hangileri aktif ambalajlarda mevcuttur? 1.antimikrobiyal madde 2.aroma ve/veya koku vericiler/tutucular 3.oksijen tutucu 4.etilen tutucu 5.oksin ve gibberellin salıcı
+A - 1,2,3,4,5
+B - 1,2,3,4
+C - Yalnız 1
+D - Yalnız 2
+E - 2,5
+Doğru Cevap B
+Aciklama Aktif ve Akıllı Ambalajlar Aktif ambalaj sistemlerinde sıklıkla kullanılan bileşenler arasında oksijen tutucular, etilen tutucular, aroma ve koku alıcılar/salıcılar, antimikrobiyaller ve antioksidanlar bulunmaktadır. Doğru cevap: B-1,2,3,4
+
+Soru 50 - Aşağıdaki akıllı ambalaj tasarımıyla ilgili ifadelerden hangisi/hangileri doğrudur? 1. RFID: çiplerle ürünlerin tedarik zinciri boyunca gerçek zamanlı izlenmesine, envanter yönetimine, sahteciliğin önlenmesine ve ürün tazeliğinin sağlanmasına, tüketiciler için etkileşimli deneyim sağlar ve atık yönetimini destekler. 2. NFC: Zaman sıcaklık göstergesi bir ürünün birikmiş zaman-sıcaklık geçmişini gösteren bir cihaz veya akıllı etikettir. 3. Nanoteknoloji: nanometre ölçeğinde (1 nanometre = 1 milyarda bir metre) tasarım, üretim ve manipülasyon yapmayı amaçlayan disiplindir. 4. QR kod; Depo veya mağazada bulunan ürünler ile paketler üzerindeki verileri inceleyebilen, kayıt, sevkiyat, siparişleri kolaylaştıran bir yöntemdir. 5. Nesnelerin İnterneti: nesnelerin internetle bağlantısını oluşturan, veri toplama ve paylaşmayı sağlayan sensör, yazılım ve ağ bağlantısı ile gömülü fiziksel cihazlar, araçlar, aletler ve diğer fiziksel nesnelerden oluşan bir ağı ifade eder. 6. TTI: iki elektronik cihaz arasında kısa bir mesafe üzerinden iletişim kurulmasını sağlar. VII. Barkod; çeşitli dillerde karakterleri ve resimleri gösterebilme yeteneği ile akıllı telefonların yaygın kullanımıyla birlikte, ürünün kaynağını izleme, kullanıcıları şirketin web sitesine yönlendirme, müzik dinletme ve resim ile videoları görüntüleme gibi işlevleri gerçekleştiren teknolojidir.
+A - 1, 3, 5
+B - Yalnız 5
+C - 1, 2, 3, 4, 5, 6, VII
+D - 2, 4, 6
+E - Yalnız VII
+Doğru Cevap A
+Aciklama Akıllı Ambalaj Teknolojileri Doğru tanımlar 1, 3 ve 5. Barkod ve QR kod açıklamaları ters olarak verilmiştir. NFC ve TTI açıklamaları ters olarak verilmiştir. RFID, Nanoteknoloji ve Nesnelerin interneti doğrudur. RFID (Radio Frequency Identification), çiplerle ürünlerin tedarik zinciri boyunca gerçek zamanlı izlenmesine, envanter yönetimine, sahteciliğin önlenmesine ve ürün tazeliğinin sağlanmasına, tüketiciler için etkileşimli deneyim sağlar ve atık yönetimini destekler. NFC (Near-Field Communi...
+
+Soru 51 - Akıllı ambalajlar konusunda gelecekteki beklentiler aşağıdakilerden hangisi/hangileridir? 1.yapay zeka entegrasyonu 2.IoT konusunda ilerlemeler 3.sürdürülebilirlik uygulamaları 4.güvenlik çalışmaları 5.kullanıcı dostu tasarım ilerlemeleri 6.verimli sürdürülebilir ambalaj ilerlemeleri
+A - Yalnız 1
+B - 1,2
+C - 1,3,5
+D - 2,4,6
+E - 1,2,3,4,5,6
+Doğru Cevap E
+Aciklama Akıllı Ambalajların Gelecek Beklentileri ve Araştırma Önerileri Yapay zeka entegrasyonu, IoT ilerlemeleri, sürdürülebilirlik uygulamaları, güvenlik özellikleri ve kullanıcı merkezli tasarım alanlarındaki araştırma ve geliştirmeler sayesinde akıllı ambalajlar gelişmeye devam edecek ve hem tüketiciler hem de işletmeler için bir dizi faydalar sunacaktır. Gelecekçi bir zihniyeti benimsenmesi sürdürülebilir, güvenli ve kullanıcı dostu çözümlere öncelik verilmesi, akıllı ambalajın önümüzdeki yıllarda ...
+
+Soru 52 - Aşağıdakilerden hangisi/hangileri ambalaj üretimi süreciyle ilgili sorgulardan değildir? 1.sürdürülebilirlik kriterlerinin değerlendirilmesi 2.maliyet analizi 3.uygun malzemenin seçimi ve tedariki 4.üretim sürecinin kontrolü 5.ambalaj boyutları 6.pazarlama ve satış
+A - 1,3,5
+B - 2,4,6
+C - Yalnız 5
+D - Yalnız 6
+E - 3,5,6
+Doğru Cevap D
+Aciklama Üretim ile ilgili sorgulardan bazıları şunlardır: Ambalajın boyutu, yapısal malzemesi Malzeme seçimi ve perakende koşulları altındaki performansı Sürdürülebilirlik stratejileri Baskı süreçleri ve otomasyonu Ürüne ve kategoriye uygun baskı malzemelerinin seçimi Ambalajın yapısal değişiklikleri ve dil uyarlamaları Ambalajın küresel tasarım gereksinimleri Ambalajın sürdürülebilirlik kriterlerinin değerlendirilmesi Tasarım bütünlüğünün ve üretim kalitesinin korunması Üretim programına bağlılık Üreti...
+
+Soru 53 - Ambalaj tasarımında sözel bir dili okunabilirlik, okuma süresi, boyut ve stil gibi görsel olarak iletmek için yazı yüzlerinin kullanılmasına ne ad verilir?
+A - estetik
+B - tipografi
+C - pazarlama
+D - satış stratejisi
+E - format
+Doğru Cevap B
+Aciklama Tipoloji tipografi, doğru cevap: B
+
+Soru 54 - Ambalaj tasarımında bir nesnenin şekil, renk, doku ve diğer görsel unsurlar gibi nitelikleri tarafından uyarılan duyusal deneyimlerin yorumlanmasına ne ad verilir?
+A - tipoloji
+B - tasarım
+C - estetik
+D - psikoloji
+E - felsefe
+Doğru Cevap C
+Aciklama Estetik Değerler C-estetik doğru cevap
+
+Soru 55 - Aşağıdakilerden hangisi aktif ambalaj sistemlerinde sıklıkla kullanılan bileşenler arasında yer almaz?
+A - Oksijen tutucular
+B - Etilen tutucular
+C - Aroma ve koku alıcılar/salıcılar
+D - Antimikrobiyaller
+E - İnsektisitler
+Doğru Cevap E
+Aciklama İnsektisitler böcek öldürmede kullanılır ve aktif ambalaj sistemlerinde yer almaz.
+
+Soru 56 - "Akıllı ambalaj" terimi hangi dönemde popüler hale gelmiştir?
+A - yüzyıl
+B - 20. yüzyıl sonu
+C - 20. yüzyıl başı
+D - 19. yüzyıl sonu
+E - 19. yüzyıl başı
+Doğru Cevap B
+Aciklama “Akıllı ambalaj” terimi, geleneksel muhafaza ve korumanın ötesinde ek işlevler sağlayabilen teknolojileri içeren ambalajları ifade etmektedir. Bu kavram, 20. yüzyılın sonlarında hızla popülerlik kazanmış ve o zamandan beri bir yenilikçi ambalaj alanı haline gelmiştir.
+
+Soru 57 - Aşağıdakilerden hangisi akıllı ambalajların yükselişine etki eden sebeplerden biri değildir?
+A - Tüketici taleplerindeki değişim
+B - Küresel ısınmayla ürünlerin daha hızlı bozulması
+C - Rekabet ve pazarlama stratejileri
+D - Sensör teknolojisindeki gelişmeler
+E - Internet of Things (IoT) teknolojisinin yaygınlaşması
+Doğru Cevap B
+Aciklama Küresel ısınmayla ürünlerin daha hızlı bozulması, akıllı ambalajların yükselişine etki eden sebeplerden biri değildir.
+
+Soru 58 - Aşağıdakilerden hangisi akıllı ambalaj teknolojilerinden biri değildir?
+A - RFID
+B - NFC
+C - NFT
+D - QR Kod
+E - Nanoteknoloji
+Doğru Cevap C
+Aciklama NFT akıllı ambalaj teknolojilerinden biri değildir.
+
+Soru 59 - Çipler ve bağlantı noktalarına dayalı, ürünlerin tedarik zinciri boyunca gerçek zamanlı olarak izlenmesine, envanter yönetimine, sahteciliğin önlenmesine ve ürün tazeliğinin sağlanmasına imkân tanıyan akıllı ambalaj teknolojisi aşağıdakilerden hangisidir?
+A - NFC (Yakın Alan 1̇letişimi)
+B - QR Kod (Quick Response Code)
+C - Barkod
+D - RFID (Radyo Frekansı ile Tanımlama)
+E - Nanoteknoloji
+Doğru Cevap D
+Aciklama RFID (Radyo Frekansı ile Tanımlama), çipler ve bağlantı noktalarına dayalı, ürünlerin tedarik zinciri boyunca gerçek zamanlı olarak izlenmesine, envanter yönetimine, sahteciliğin önlenmesine ve ürün tazeliğinin sağlanmasına imkân tanıyan akıllı ambalaj teknolojisidir.
+
+Soru 60 - Sıcaklığa duyarlı mürekkep ile basılarak farklı sıcaklıklarda yüzeyindeki renk veya desen değişikliği ile tüketiciyle etkileşime giren ambalaj tasarımında aşağıdaki teknolojilerden hangisi kullanılmıştır?
+A - Malzemenin Hassasiyeti Uygulanmaları
+B - Malzeme Tepkime Uygulamaları
+C - Elektronik Bileşen Uygulamaları
+D - Artırılmış Gerçeklik Uygulamaları
+E - Siber güvenlik uygulamaları
+Doğru Cevap A
+Aciklama Isıya göre renk değiştiren ambalajda, çeşitli materyallerin dış faktörlere karşı duyarlı özelliklerini kullanarak ürünün estetik görünümünü zenginleştirmeyi amaçlayan "Malzemenin Hassasiyeti Uygulanmaları" kullanılmıştır.
+
+Soru 61 - Aşağıdakilerden hangisi sürdürülebilirlik ilkelerine uygun bir ambalajda olması gerekenlerden biridir?
+A - Marka imajını yansıtması
+B - Tüketiciyle duygusal iletişim kurması
+C - Geri dönüştürülebilir olması
+D - Yeşil renk tonlarının kullanılması
+E - Teknolojiye entegre olması
+Doğru Cevap C
+Aciklama Sürdürülebilirlik ilkelerine uygun bir ambalajın geri dönüştürülebilir olması gerekir.
+
+Soru 62 - Ambalaj üzerinde yer alan bilgilerin organizasyonu ve tüketiciye doğru bir sıralama ile iletilmesi hangi tipografik ilke ile ilişkilidir?
+A - Tipografik Kişiselleştirme
+B - Tipografik Sınırlandırma
+C - Tipografik Hiyerarşi
+D - Tipografik hizalama
+E - Tipografik Kontrast
+Doğru Cevap C
+Aciklama Görsel bilginin organizasyonu, bilginin önem sırasına göre nasıl okunduğunu belirlemektedir; bu, tüketicinin bir ambalaj tasarımından ilk bakış- ta ne anlaması gerektiğini bilmesini sağlayacaktır. Tipografik hiyerarşi, yazılı unsurların önem sırasına göre sıralanmasıdır.
+
+Soru 63 - Ambalaj tasarımı, görsel iletişim tasarımından başka aşağıdaki alanlardan hangisiyle daha yakından ilişkilidir?
+A - Endüstriyel tasarım
+B - Hizmet tasarımı
+C - Arayüz tasarımı
+D - Malzeme mühendisliği
+E - Yazılım mühendisliği
+Doğru Cevap A
+Aciklama Estetik ve rasyonel problem çözme sanatı olan Endüstriyel Tasarım ambalaj tasarımında işlev ve biçimin bir araya gelmesini sağlayarak ürünün yaratımını gerçekleştirir.
+
+Soru 64 - Aşağıdakilerden hangisi akıllı ambalaj tasarımının geleceğini yönlendiren gelişmelerden biri değildir?
+A - Yapay zekâ destekli uygulamaların artması
+B - IoT teknolojisindeki gelişmeler
+C - Sürdürülebilirlik aciliyetinin yükselmesi
+D - Güvenlik özellikleri önem kazanması
+E - Ambalajsız satışların artması
+Doğru Cevap E
+Aciklama Ambalajsız satışların artması, ambalaj tasarımının geleceğini yönlendiren gelişmelerden biri değildir.
+
+Soru 65 - Aşağıdakilerden hangisi aktif ambalaj sistemlerinde kullanılan bileşenlerden biri değildir?
+A - Oksijen tutucular
+B - Aroma ve koku alıcılar/salıcılar
+C - Etilen tutucular
+D - Antioksidanlar
+E - Solventler
+Doğru Cevap E
+Aciklama Aktif ambalaj, raf ömrünü uzatmak için paketlenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddelerin kullanılmasını içerir. Soruda aktif ambalaj bileşeni olmayan şık sorulmaktadır. Metinde aktif ambalaj için oksijen tutucular ve nem alıcılar belirtilmiştir. RFID etiketleri ise akıllı ambalaj teknolojilerindendir, aktif ambalaj bileşeni değildir.
+
+Soru 66 - ...... terimi, geleneksel muhafaza ve korumanın ötesinde ek işlevler sağlayabilen teknolojileri içeren ambalajları ifade etmektedir. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
+A - Etkileşimli ambalaj
+B - Akıllı ambalaj
+C - Aktif ambalaj
+D - Yeni nesil ambalaj
+E - Entegre ambalaj
+Doğru Cevap B
+Aciklama Geleneksel muhafaza ve koruma işlevlerinin ötesinde teknoloji içeren ambalajlara Akıllı Ambalaj denir. Ünite 6'da, Akıllı ambalajın, yeni malzemeler ve teknolojileri kullanarak ambalajın dönüştüren bir kavram olduğu ve etkileşimli çözümler sunduğu belirtilmektedir.
+
+Soru 67 - Aşağıdakilerden hangisi etkileşimli ambalaj tasarımının işlevlerinden biri değildir?
+A - Sürdürülebilir kullanımını sağlamak
+B - Ürünün kullanım amaçlarını çeşitlendirmek
+C - Marka kişiliğini vurgulamak
+D - Ambalajının ek değerini artırmak
+E - Sahteciliği Önlemek
+Doğru Cevap B
+Aciklama Ünite 6'da, Etkileşimli Ambalaj Tasarımının İşlevleri listelenmiştir: Marka kişiliğini vurgulamak, ek değerini artırmak ve sürdürülebilir kullanımını sağlamak, Sahteciliği önleme ve kullanıcı memnuniyetini artırmak. Ürünün kullanım amaçlarını çeşitlendirmek (B şıkkı) ise etkileşimli ambalajın doğrudan bir işlevi olarak listelenmemiştir; ambalaj, ürünü koruma ve sunma işlevini yerine getirir, kullanım amacı genellikle ürünün kendisiyle ilgilidir. Bu nedenle B şıkkı doğru cevaptır.
+
+Soru 68 - Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür?
+A - İkincil ambalaj
+B - Duyusal ambalaj
+C - Tüketici ambalajı
+D - Birincil ambalaj
+E - Fonksiyonel ambalaj
+Doğru Cevap E
+Aciklama Aktif ambalaj, yeni malzemeler ve teknolojileri kullanarak paketlenmiş ürünle etkileşime girerek ürün kalitesini, dayanıklılığını ve raf ömrünü artırır (örn: oksijen tutucular, nem alıcılar). Akıllı paketleme ise sensörler kullanarak ürünün durumunu izler ve gerçek zamanlı bilgi sağlar. Bu tür ambalajlar, içerikle ilgili problemleri ele alarak ve kullanıcı deneyimini iyileştirerek ambalajın genel değerini artırır. (Ünite 6: Aktif ambalaj, raf ömrünü uzatmak için paketlenmiş ürünle etkileşime gir...
+
+Soru 69 - Aşağıdakilerden hangisi ambalaj tasarımında "NFC etiketleri"nin genellikle hizmet ettiği amaçtır?
+A - Ambalajların dayanıklılığını artırmak
+B - Ürünlerin sıcaklık kontrolünü sağlamak
+C - Tüketicilerin ek ürün bilgilerini, promosyonlara ve etkileşimli pazarlama kampanyalarına erişimini sağlamak
+D - Ürünlerin raf ömrünü uzatmak
+E - Ambalajların su geçirmezlik özelliğini artırmak
+Doğru Cevap C
+Aciklama NFC (Yakın Alan İletişimi), akıllı telefonların yaygınlaşmasıyla etkileşimli ambalajlarda kullanılmaya başlanmıştır ve tüketicilerin ambalajlarla etkileşime girmesini sağlar. (Ünite 6: NFC (Yakın Alan İletişimi) Akıllı telefonların ve yakın alan iletişimi teknolojisinin giderek yaygınlaşmasıyla birlikte etkileşimli ambalajlar da devreye girmiştir.)
+
+Soru 70 - İlaç sektöründeki akıllı ambalajlar, ürün bütünlüğünü ve yasal gerekliliklere uygunluğu sağlamak üzere korumalı mühürler ve sıcaklık izleme gibi özellikler içermektedir. Yukarıdaki anlatılana göre bu sistem akıllı ambalajın hangi özelliğinin bir örneğidir?
+A - Müşteri etkileşimi
+B - Tedarik zinciri optimizasyonu
+C - Farmasötik uyumluluk
+D - Veriye dayalı içgörüler
+E - Sahteciliğe karşı önlemler
+Doğru Cevap C
+Aciklama Ünite 6'da Akıllı Ambalajlardaki Gelişmeler başlığı altında spesifik uygulamalar listelenmiştir. İlaç sektörüne özgü olan 'Farmasötik Uyumluluk' (C şıkkı) başlığı altında, akıllı ambalajların 'korumalı mühürler ve sıcaklık izleme gibi özellikler' içerebileceği belirtilmiştir. Bu özellikler doğrudan ilaçların yasal ve kalite gerekliliklerine uyumunu sağlamaya yöneliktir.
+
+Soru 71 - Aşağıdakilerden hangisi içerikle ilgili problemleri etkin bir şekilde ele alarak, ürün kalitesi ve dayanıklılığını artıran, tüketicisine daha iyi bir deneyim sunan ambalaj türüdür?
+A - Duyusal ambalaj
+B - Fonksiyonel ambalaj
+C - Birincil ambalaj
+D - İkincil ambalaj
+E - Tüketici ambalajı
+Doğru Cevap B
+Aciklama Etkileşimli Ambalaj Tasarımının İşlevleri arasında, 'Ürün ambalajının ek değerini artırmak ve sürdürülebilir kullanımını sağlamak' ile 'Sahteciliği önleme işlevi ile ürün güvenilirliğini artırmak' yer alır. Bu işlevler, içerikle ilgili problemleri ele alarak, ürün kalitesini, dayanıklılığını ve kullanıcı deneyimini iyileştirmeyi hedefler. Bu tür ambalajlar genellikle Akıllı Ambalajlar (Ünite 6) kapsamında değerlendirilir.
+
+Soru 72 - ------, iki elektronik cihaz arasında 4 cm veya daha kısa bir mesafe üzerinden iletişim kurulmasını sağlayan bir dizi iletişim protokolüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+A - loT
+B - NFC
+C - TTI
+D - QR Kod
+E - RFID
+Doğru Cevap B
+Aciklama Ünite 6'da NFC (Near Field Communication - Yakın Alan İletişimi) başlığı altında, NFC'nin 'Akıllı telefonların ve yakın alan iletişimi teknolojisinin giderek yaygınlaşmasıyla birlikte etkileşimli ambalajlar da devreye girmiştir' şeklinde tanımlandığı ve genellikle kısa mesafeli iletişim için kullanıldığı belirtilmiştir. Bu tanım, sorudaki tanıma uymaktadır.
+
+Soru 73 - Aşağıdakilerden hangisi aktif ambalaj sistemlerinde kullanılan bileşenlerden biri değildir?
+A - Oksijen tutucular
+B - Aroma ve koku alıcılar/salıcılar
+C - Etilen tutucular
+D - Antioksidanlar
+E - Solventler
+Doğru Cevap E
+Aciklama Aktif ambalaj sistemleri, raf ömrünü uzatmak için paketlenmiş ürünle etkileşime giren oksijen tutucular veya nem alıcılar gibi maddeler kullanır. Akıllı paketleme ise sensörler ve göstergeler tanımlar. Barkod, akıllı depolarda veri yakalamak için kullanılan uygun maliyetli bir yöntemdir ve aktif/akıllı ambalajın doğrudan bir bileşeni veya etkileşim mekanizması olarak listelenmemiştir; daha çok veri toplama aracıdır (Ünite 6).
+
+Soru 74 - Etkileşimli ambalaj tasarımında uyumluluk, aşağıdaki kavramlardan hangisi ile doğrudan ilişkilidir?
+A - Tasarım bütünlüğü
+B - Çevresel şartlara uygunluk
+C - İnsan odaklı tasarım
+D - Ergonomik tasarım
+E - Kullanım kolaylığı
+Doğru Cevap C
+Aciklama Etkileşimli ambalaj tasarımında uyumluluk ilkesi, en üst düzey ilke olarak kabul edilir ve "insan odaklı" fikre vurgu yapar. Bu ilke, kullanıcıların duygusal ihtiyaçlarından yola çıkarak ambalajla duygusal bir bağ kurmasını sağlamakla doğrudan ilişkilidir (Ünite 6).
+
