@@ -1,9 +1,96 @@
+# Site Ayarları
+title: Açık Öğretim Soru ve Çalışma Portalı
+description: >-
+  Anadolu Üniversitesi AÖF, ATA-AÖF ve AUZEF öğrencileri için
+  çıkmış sorular, denemeler ve interaktif çalışma materyalleri.
+baseurl: "" # Organization pages don't need baseurl
+url: "https://acik-ogretim.github.io"
+lang: tr
+
+# Yazar Bilgisi
+author:
+  name: Açık Öğretim Çalışma Grubu
+  email: acik-ogretim@users.noreply.github.com
+
+# Build Ayarları
+markdown: kramdown
+theme: minima
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
+# Relative Links Plugin
 relative_links:
   enabled: true
   collections: true
 
-markdown: kramdown
-theme: minima
+# Exclude: GitHub Pages'de işlenmeyecek dosya/klasörler
+exclude:
+  - .env
+  - .venv/
+  - __pycache__/
+  - "*.pyc"
+  - requirements.txt
+  - Gemfile.lock
+  - vendor/
+  - scripts/
+  - tests/
+  - libs/
+  - utils/
+  - config/
+  - legacy/
+  - reports/
+  - referans/
+  - data/
+  - "*.code-workspace"
+  - .DS_Store
+  - .gitignore
+  - node_modules/
+  - "output/**/*.json"
+  - "output/**/*.jsonl"
+  - "output/**/embeddings/"
+
+# Include: Özel olarak dahil edilecek dosyalar
+include:
+  - _pages
+
+# Defaults: Varsayılan front matter ayarları
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "output"
+    values:
+      layout: "default"
+  - scope:
+      path: "anadolu"
+    values:
+      layout: "default"
+  - scope:
+      path: "auzef"
+    values:
+      layout: "default"
+
+# Pagination (isteğe bağlı)
+# paginate: 10
+# paginate_path: "/page:num/"
+
+# SEO
+twitter:
+  card: summary
+social:
+  name: Açık Öğretim Soru Portalı
+  links:
+    - https://github.com/acik-ogretim/acik-ogretim.github.io

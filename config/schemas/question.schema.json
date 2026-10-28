@@ -1,0 +1,171 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Soru Şeması",
+    "description": "Standart soru veri yapısı",
+    "type": "object",
+    "required": [
+        "id",
+        "text",
+        "options",
+        "correctAnswer"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "description": "Benzersiz soru kimliği",
+            "pattern": "^[a-z0-9-]+$",
+            "examples": [
+                "anadolu-aof-git-d1-temel-fotograf-u1-s001"
+            ]
+        },
+        "text": {
+            "type": "string",
+            "description": "Soru metni"
+        },
+        "options": {
+            "type": "array",
+            "description": "Cevap seçenekleri",
+            "minItems": 4,
+            "maxItems": 5,
+            "items": {
+                "type": "object",
+                "required": [
+                    "key",
+                    "text"
+                ],
+                "properties": {
+                    "key": {
+                        "type": "string",
+                        "enum": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "text": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "correctAnswer": {
+            "type": "string",
+            "enum": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "description": "Doğru cevap anahtarı"
+        },
+        "explanation": {
+            "type": "string",
+            "description": "Cevap açıklaması (AI destekli)"
+        },
+        "metadata": {
+            "type": "object",
+            "properties": {
+                "university": {
+                    "type": "string",
+                    "description": "Üniversite slug'ı"
+                },
+                "department": {
+                    "type": "string",
+                    "description": "Bölüm slug'ı"
+                },
+                "semester": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 8,
+                    "description": "Dönem numarası"
+                },
+                "course": {
+                    "type": "string",
+                    "description": "Ders slug'ı"
+                },
+                "courseName": {
+                    "type": "string",
+                    "description": "Ders adı (orijinal)"
+                },
+                "unit": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "description": "Ünite numarası"
+                },
+                "source": {
+                    "type": "string",
+                    "enum": [
+                        "soru-bankasi",
+                        "cikmis-soru",
+                        "deneme",
+                        "sorularla-ogrenelim"
+                    ],
+                    "description": "Soru kaynağı"
+                },
+                "year": {
+                    "type": "integer",
+                    "description": "Sınav yılı (çıkmış sorular için)"
+                },
+                "examType": {
+                    "type": "string",
+                    "enum": [
+                        "vize",
+                        "final",
+                        "butunleme",
+                        "tek-ders"
+                    ],
+                    "description": "Sınav türü"
+                },
+                "difficulty": {
+                    "type": "string",
+                    "enum": [
+                        "kolay",
+                        "orta",
+                        "zor"
+                    ],
+                    "description": "Zorluk seviyesi"
+                },
+                "topics": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "İlgili konular"
+                }
+            }
+        },
+        "enrichment": {
+            "type": "object",
+            "description": "AI zenginleştirme verileri",
+            "properties": {
+                "explanation": {
+                    "type": "string",
+                    "description": "Detaylı açıklama"
+                },
+                "topics": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "relatedQuestions": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "enrichedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "model": {
+                    "type": "string",
+                    "description": "Kullanılan AI modeli"
+                }
+            }
+        }
+    }
+}

@@ -15,9 +15,10 @@ from libs.ata_lib import (
 BASE_URL = "https://oys.ataaof.edu.tr/ktpcik/{ders_id}.pdf"
 
 def get_safe_course_name(name):
+    # Remove characters that might be invalid in filenames
     return "".join([c for c in name if c.isalnum() or c in (' ', '-', '_')]).strip()
 
-def fetch_booklet(course):
+def fetch_booklet(course, target_dir):
     ders_id = course.get("DersId")
     course_name = course.get("CourseName")
     donem = course.get("Donem")
@@ -25,21 +26,11 @@ def fetch_booklet(course):
     url = BASE_URL.format(ders_id=ders_id)
     safe_course_name = get_safe_course_name(course_name)
 
-    # Target directory: Donem X/Course/Materyaller
-    course_dir = os.path.join(OUTPUT_DIR, f"Donem {donem}", safe_course_name)
-    materyaller_dir = os.path.join(course_dir, "Materyaller")
-
-    if not os.path.exists(materyaller_dir):
-        # Only create if course dir exists, otherwise we might be creating ghost folders?
-        # But pipeline should have created course folders.
-        # Actually pipeline creates folders on demand. If we fetch books first, we might need to create them.
-        os.makedirs(materyaller_dir, exist_ok=True)
-
-    filename = "2025-2026 Ara Sınav (Vize) Soruları.pdf"
-    filepath = os.path.join(materyaller_dir, filename)
+    # New filename: Donem X - Course Name - 2025-2026 Final Soruları.pdf
+    filename = f"Donem {donem} - {safe_course_name} - 2025-2026 Final Soruları.pdf"
+    filepath = os.path.join(target_dir, filename)
 
     if os.path.exists(filepath):
-        # Check size?
         if os.path.getsize(filepath) > 0:
             print(f"Skipping {course_name} (already exists).")
             return
@@ -67,13 +58,20 @@ def main():
         print(f"Error: {DERSLER_FILE} not found.")
         return
 
+    # Create a single directory for all books
+    kitaplar_dir = os.path.join(OUTPUT_DIR, "Kitaplar")
+    os.makedirs(kitaplar_dir, exist_ok=True)
+
     with open(DERSLER_FILE, 'r', encoding='utf-8') as f:
         courses = json.load(f)
 
-    print(f"Found {len(courses)} courses.")
+    # Filter for odd semesters (1, 3, 5, 7)
+    odd_semester_courses = [c for c in courses if c.get("Donem") and int(c.get("Donem")) % 2 != 0]
 
-    for course in courses:
-        fetch_booklet(course)
+    print(f"Found {len(odd_semester_courses)} odd-semester courses out of {len(courses)}.")
+
+    for course in odd_semester_courses:
+        fetch_booklet(course, kitaplar_dir)
 
 if __name__ == "__main__":
     main()

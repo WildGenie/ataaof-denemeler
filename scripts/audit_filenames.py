@@ -2,7 +2,10 @@ import os
 import re
 
 # Directory to scan
-TARGET_DIR = '/Users/wildgenie/Projects/ataaof-denemeler/output/Auzef/json'
+# Directory to scan
+# Assuming script is in scripts/ and output is in output/ relative to project root
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+TARGET_DIR = os.path.join(BASE_DIR, 'output', 'Auzef', 'json')
 conjunctions = ['ve', 'ile', 'veya', 'de', 'da', 'ki', 'mi', 'mı']
 
 def is_title_case_correct(name):

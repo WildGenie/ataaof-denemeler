@@ -1,0 +1,100 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Ders Şeması",
+    "description": "Standart ders veri yapısı",
+    "type": "object",
+    "required": [
+        "id",
+        "name",
+        "semester"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "description": "Ders slug'ı (URL-friendly)",
+            "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+            "type": "string",
+            "description": "Ders adı (orijinal Türkçe)"
+        },
+        "code": {
+            "type": "string",
+            "description": "Ders kodu (varsa)"
+        },
+        "semester": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 8
+        },
+        "credits": {
+            "type": "number",
+            "description": "AKTS kredisi"
+        },
+        "units": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "number",
+                    "title"
+                ],
+                "properties": {
+                    "number": {
+                        "type": "integer"
+                    },
+                    "title": {
+                        "type": "string"
+                    },
+                    "questionCount": {
+                        "type": "integer"
+                    }
+                }
+            }
+        },
+        "stats": {
+            "type": "object",
+            "properties": {
+                "totalQuestions": {
+                    "type": "integer"
+                },
+                "questionsByUnit": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "type": "integer"
+                    }
+                },
+                "questionsBySource": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "type": "integer"
+                    }
+                },
+                "lastUpdated": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            }
+        },
+        "exams": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "year": {
+                        "type": "integer"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "questionCount": {
+                        "type": "integer"
+                    },
+                    "pdfUrl": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}
