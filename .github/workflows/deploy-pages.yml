@@ -1,0 +1,79 @@
+# Deploy to acik-ogretim.github.io organization
+# This workflow deploys ONLY publishable content from this private repo
+# to the public organization repository
+
+name: Deploy to Acik Ogretim
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - 'output/**/*.md'
+      - 'output/**/*.html'
+      - 'index.md'
+      - '_config.yml'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Reorganize folder structure
+        run: |
+          # Run the reorganization script
+          python scripts/reorganize_structure.py --apply
+
+          # Move reorganized content to publish directory
+          mkdir -p publish
+
+          # Copy Jekyll config and main files
+          cp _config.yml publish/
+          cp Gemfile publish/ 2>/dev/null || true
+          cp index.md publish/
+
+          # Copy reorganized university folders
+          for uni in anadolu-aof ataturk-aof auzef; do
+            if [ -d "output/$uni" ]; then
+              echo "📁 Copying $uni..."
+              rsync -av --include='*/' \
+                --include='*.md' \
+                --include='*.html' \
+                --include='*.css' \
+                --include='*.js' \
+                --include='_meta.json' \
+                --exclude='*.json' \
+                --exclude='*.jsonl' \
+                --exclude='embeddings/' \
+                "output/$uni/" "publish/$uni/"
+            fi
+          done
+
+          # Show what we're publishing
+          echo ""
+          echo "=== Publishing content ==="
+          find publish -type f -name "*.md" -o -name "*.html" | head -30
+          echo "..."
+          echo "Total files: $(find publish -type f | wc -l)"
+          du -sh publish/
+
+      - name: Deploy to acik-ogretim.github.io
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: acik-ogretim/acik-ogretim.github.io
+          publish_branch: main
+          publish_dir: ./publish
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy from ataaof-denemeler: ${{ github.sha }}'
+          force_orphan: false
