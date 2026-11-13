@@ -1,0 +1,97 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Açık Öğretim Portal Yapılandırması",
+    "description": "Üniversiteler, bölümler ve dersler için standart veri yapısı",
+    "universities": {
+        "anadolu-aof": {
+            "id": "anadolu-aof",
+            "name": "Anadolu Üniversitesi",
+            "shortName": "Anadolu AÖF",
+            "faculty": "Açıköğretim Fakültesi",
+            "website": "https://www.anadolu.edu.tr/acikogretim",
+            "logo": "anadolu-logo.png",
+            "color": "#1e40af",
+            "departments": {
+                "gorsel-iletisim": {
+                    "id": "gorsel-iletisim",
+                    "name": "Görsel İletişim Tasarımı",
+                    "shortName": "GİT",
+                    "code": "GIT",
+                    "degree": "lisans",
+                    "duration": 8,
+                    "active": true
+                }
+            }
+        },
+        "ataturk-aof": {
+            "id": "ataturk-aof",
+            "name": "Atatürk Üniversitesi",
+            "shortName": "ATA-AÖF",
+            "faculty": "Açıköğretim Fakültesi",
+            "website": "https://atauzem.atauni.edu.tr",
+            "logo": "ataturk-logo.png",
+            "color": "#dc2626",
+            "departments": {
+                "grafik-sanatlar": {
+                    "id": "grafik-sanatlar",
+                    "name": "Grafik Sanatlar",
+                    "shortName": "GS",
+                    "code": "GS",
+                    "degree": "lisans",
+                    "duration": 8,
+                    "active": true
+                }
+            }
+        },
+        "auzef": {
+            "id": "auzef",
+            "name": "İstanbul Üniversitesi",
+            "shortName": "AUZEF",
+            "faculty": "Açık ve Uzaktan Eğitim Fakültesi",
+            "website": "https://auzef.istanbul.edu.tr",
+            "logo": "istanbul-logo.png",
+            "color": "#7c3aed",
+            "departments": {
+                "cocuk-gelisimi": {
+                    "id": "cocuk-gelisimi",
+                    "name": "Çocuk Gelişimi",
+                    "shortName": "ÇG",
+                    "code": "CG",
+                    "degree": "lisans",
+                    "duration": 8,
+                    "active": true
+                }
+            }
+        }
+    },
+    "folderStructure": {
+        "pattern": "{university}/{department}/donem-{semester}/{course-slug}/",
+        "files": {
+            "index": "index.md",
+            "interactive": "interaktif.html",
+            "questions": "sorular.json",
+            "metadata": "_meta.json"
+        }
+    },
+    "naming": {
+        "conventions": {
+            "folders": "lowercase-with-hyphens",
+            "files": "lowercase-with-hyphens",
+            "urls": "lowercase-with-hyphens"
+        },
+        "turkishCharMap": {
+            "ç": "c",
+            "Ç": "C",
+            "ğ": "g",
+            "Ğ": "G",
+            "ı": "i",
+            "İ": "I",
+            "ö": "o",
+            "Ö": "O",
+            "ş": "s",
+            "Ş": "S",
+            "ü": "u",
+            "Ü": "U"
+        }
+    }
+}
